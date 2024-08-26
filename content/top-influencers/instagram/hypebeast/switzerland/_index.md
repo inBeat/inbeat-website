@@ -1,12 +1,24 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Switzerland In 2023
+title: Top 10 Hypebeast Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top hypebeast Instagram influencers in Switzerland in 2023. Most popular hashtags: #hypebeast #artofvisuals #moodygrams #photography.
+  Find top hypebeast Instagram influencers in Switzerland in 2024. Most popular hashtags: #hypebeast #artofvisuals #moodygrams #photography.
 platform: Instagram
-hits: 9
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 9 Instagram influencers like this in Switzerland for you to pitch.
+hits: 11
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 11 Instagram influencers like this in Switzerland for you to pitch.
 profiles:
+  - username: "si.len.cio"
+    fullname: >-
+      Camille
+    bio: >-
+      Researcher. Art & interior design enthusiast. Switzerland based 🏔 ✉️ hey.si.len.cio@gmail.com
+    location: "Switzerland"
+    followers: 37776
+    engagement: 309
+    commentsToLikes: 0.008752
+    id: cllf7txupw41f0j08eztprcba
+    verified: false
+    hashtags: "#howwelive, #mybdrm, #whereiwouldliketoread, #book"
   - username: "massiahzavahir"
     fullname: >-
       MassiahZavahir
@@ -23,38 +35,26 @@ profiles:
     fullname: >-
       Renato
     bio: >-
-      👨🏼 27 y/o, from Zurich, Switzerland 🇨🇭 👣 Size US 7.5/8/8.5 💏 @hitgirl90 👶🏼 Father
+      👨🏼 28 y/o, from Zurich, Switzerland 🇨🇭 👣 Size US 7.5/8/8.5 💍 @hitgirl90 👶🏼 Father
     location: "Switzerland"
-    followers: 17012
-    engagement: 646
-    commentsToLikes: 0.014631
+    followers: 16299
+    engagement: 604
+    commentsToLikes: 0.006941
     id: ck9wfaljznzh10j78dy3pxkq2
     verified: false
-    hashtags: "#backtothefuture, #astroworld, #highsnobiety, #travisscott"
-  - username: "trillprime"
+    hashtags: "#offwhite, #airforce, #jordan, #hiddenny"
+  - username: "saintcity"
     fullname: >-
-      FASHION BLOGGER
+      Pat Doherty
     bio: >-
-      🇨🇩🇦🇴 📩 david.ndala444@gmail.com Dm for Collaboration 📍Zürich Switzerland 📸Model
+      
     location: "Switzerland"
-    followers: 16279
-    engagement: 1694
-    commentsToLikes: 0.040912
-    id: ck6tmv4al8laf0j71jxpa9d41
+    followers: 12010
+    engagement: 128
+    commentsToLikes: 0.033709
+    id: ck0uccpiugmt00i194rg8k25i
     verified: false
-    hashtags: "#zalando, #nike, #hhstyle, #laflame"
-  - username: "dim_art_photo"
-    fullname: >-
-      Photographer Zurich Basel Lö
-    bio: >-
-      📸 Portrait | Events | Wedding 📍 Basel > Zürich > Lörrach ℹ️ für Anfragen DM me🙂 🤝 english, deutsch, русский
-    location: "Switzerland"
-    followers: 5578
-    engagement: 1220
-    commentsToLikes: 0.040728
-    id: ck5bxdu0tnj9i0i113t5vbv52
-    verified: false
-    hashtags: "#portraitstyles, #portraitsvision, #humaneffect, #portraitsfocus"
+    hashtags: "#footscape, #sadp, #hskicks, #wovenlove"
   - username: "denisignatov_official"
     fullname: >-
       Denis Ignatov
@@ -85,12 +85,12 @@ profiles:
     bio: >-
       ↟ Based in Zurich/Lugano, Switzerland ↟ Exploring nature, capturing moments. ↟ Say hi: flotodiary@gmail.com
     location: "Switzerland"
-    followers: 11462
-    engagement: 1120
-    commentsToLikes: 0.036734
+    followers: 11400
+    engagement: 1159
+    commentsToLikes: 0.035972
     id: ck15r6ir26dtx0i19sea3wsx2
     verified: false
-    hashtags: "#modernoutdoors, #folkscenery, #iceland, #eclectic"
+    hashtags: "#visiticeland, #agameoftones, #seiseralm, #earth"
   - username: "supertrampeur"
     fullname: >-
       Josh Kempinaire
@@ -115,4 +115,16 @@ profiles:
     id: ck5zsrxjlz2sj0i14osaqkhom
     verified: false
     hashtags: "#filmisnotdead, #ifyouleave, #moodygrams, #epicimagez"
+  - username: "braapzy_"
+    fullname: >-
+      🅱🆁🅰🅰🅿_🅱🆁🅰🅰🅿🆉_#13🇨🇭
+    bio: >-
+      𝗦𝗽𝗼𝗻𝘀𝗼𝗿 𝗹𝗶𝘀𝘁 𝗼𝗻 𝗺𝘆 𝗣𝗼𝘀𝘁/𝗟𝗶𝗻𝗸𝘁𝗿𝗲𝗲 🤝 𝕱𝖔𝖑𝖑𝖔𝖜 𝖒𝖊, 𝖗𝖔𝖆𝖉 𝖙𝖔 10𝖐🎯 🏍ℍ𝕪𝕡𝕖𝕣𝕞𝕠𝕥𝕒𝕣𝕕 𝟡𝟝𝟘𝕤𝕡 😈 🚘 @braapz_car 𝕍𝕎 𝕥𝕚𝕘𝕦𝕒𝕟 ℝ 𝕄𝕜𝟚 💸 Ktm Smc-R 2013
+    location: "Switzerland"
+    followers: 9529
+    engagement: 2315
+    commentsToLikes: 0.014291
+    id: ck5civxezthdd0i11hz8wlq6u
+    verified: false
+    hashtags: "#bikestormz, #xlmotoreps, #nakedbikez, #hypermotard950"
 ---

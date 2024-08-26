@@ -1,24 +1,12 @@
 ---
-title: Top 10 Health Instagram Influencers In Barcelona In 2023
+title: Top 10 Health Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top health Instagram influencers in Barcelona in 2023. Most popular hashtags: #fitness #health #barcelona #gym.
+  Find top health Instagram influencers in Barcelona in 2024. Most popular hashtags: #barcelona #health #fitness #workout.
 platform: Instagram
-hits: 52
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 52 Instagram influencers like this in Barcelona, Spain for you to collaborate.
+hits: 57
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 57 Instagram influencers like this in Barcelona, Spain for you to pitch.
 profiles:
-  - username: "pompomilicious"
-    fullname: >-
-      Pompomilicious | DogLifeStyle
-    bio: >-
-      🌟 | Somos la Pomifamily 👩🏻‍🦰 | Beauty & DIY 🧔🏻 | Music & Food 🦊 | Pomeranians & Fun 👑 | Embajadores: @laboutiquedeldiamante
-    location: "Spain"
-    followers: 29282
-    engagement: 154
-    commentsToLikes: 0.191842
-    id: ck6uiihp4fa160j713w267gja
-    verified: false
-    hashtags: "#japanesespitz, #dog, #love, #pomeranianpage"
   - username: "emithesituation"
     fullname: >-
       A13💍
@@ -43,6 +31,30 @@ profiles:
     id: ck8sxpxppi89t0j78ofvjissz
     verified: false
     hashtags: "#tattoos, #swag, #inked, #boxing"
+  - username: "vanessa.kyosina"
+    fullname: >-
+      VANESSA KYOSINA | Lifestyle✨Beauty✨Fashion
+    bio: >-
+      🗣️🇧🇬🇬🇧🇷🇺 📍Barcelona 🍑 @fitbabestore 👩🏻‍💻SMM ✨I share my secrets in highlights⤵️ 🥑Health💎Acne advice✨Personal development
+    location: "Spain"
+    followers: 67765
+    engagement: 526
+    commentsToLikes: 0.023532
+    id: ck8syma8dl9310j78bfo4hsmp
+    verified: false
+    hashtags: "#leoenergy, #giveaway, #ifiwas, #xiaomibulgaria"
+  - username: "laurabudo"
+    fullname: >-
+      LAURA BUDÓ
+    bio: >-
+      📍Barcelona | Costa Brava 🍴Foodie and fashion 📝 Community manager Founder @bruncheriebcn 🍔🥞🥗🧁
+    location: "Spain"
+    followers: 74602
+    engagement: 51
+    commentsToLikes: 0.227692
+    id: ckaovk41r4wun0i787xihzx2v
+    verified: false
+    hashtags: "#styleblogger, #gifted, #comerciolocal, #loveyou"
   - username: "7sanchezc"
     fullname: >-
       CARMEN SÁNCHEZ SILVA
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.015885
     id: ck15udw6xmoxt0i199z5ord3t
     verified: false
-    hashtags: "#track, #trackandfield, #runningmotivation, #workout"
+    hashtags: "#athletics, #runner, #nature, #fitness"
   - username: "jacksflavours"
     fullname: >-
       Jack
@@ -79,30 +91,18 @@ profiles:
     id: ck8t5xliqbl580j786ez7wup7
     verified: false
     hashtags: "#adidasrunners, #fitnessbarcelona, #barcelonafitness, #squat"
-  - username: "fattoincasa_ok"
+  - username: "sergiofoodie"
     fullname: >-
-      Fatto by Ampi Dalla Torre
+      Sergio
     bio: >-
-      🏡Mendoza 📍Barcelona 📩DM o ampidallatorre@gmail.com Foodie | Travel | Life Style Blogger |
+      📍 Barcelona and w🌍rld foodie !!! COOK 🔪 | EAT 🍴 | ENJOY 😝 📩 sergiocaballeromoreno@hotmail.com
     location: "Spain"
-    followers: 15463
-    engagement: 193
-    commentsToLikes: 0.059304
-    id: ckaovc9y63ymv0i78u4lvlyc7
+    followers: 16197
+    engagement: 186
+    commentsToLikes: 0.179535
+    id: ckap2m76ezg5k0i780x00r8qm
     verified: false
-    hashtags: "#healthyfood, #espa, #vegano, #saludable"
-  - username: "marulekhal"
-    fullname: >-
-      Maru Lekhal /ENTRENADOR ONLINE
-    bio: >-
-      📍Barcelona.💻 Asesoramiento Online VIP 1:1 📩Marulekhal@icloud.com +600Vidas y cuerpos Cambiados @teammarulekhal LISTO PARA CAMBIAR TU FÍSICO? -65%👇🏽
-    location: "Spain"
-    followers: 82576
-    engagement: 262
-    commentsToLikes: 0.019877
-    id: ckap5w3zadf0d0i7868hm4orf
-    verified: false
-    hashtags: "#training, #reels, #shredded, #fit"
+    hashtags: "#foodie, #michelinstar, #topfood, #patatas"
   - username: "nutricionista.leylafacuse"
     fullname: >-
       Nutricionista Leyla Facuse 🇨🇱
@@ -115,16 +115,16 @@ profiles:
     id: ck9wdeuq9fc220j78rn39xr02
     verified: false
     hashtags: "#comosano, #healthyliving, #comidarecomendable, #nutricionistas"
-  - username: "gammafoto"
+  - username: "tania.rdg"
     fullname: >-
-      GAMMAFOTO
+      TANIA RODRÍGUEZ AGUILERA
     bio: >-
-      Spanish photographer focused on male photograhy, specially fitness. Follow my work! All comments are appreciated! 🌍 Madrid (Spain)
+      Luxury Real Estate Broker @dcanorealestate_agency Marketing & Events @etereagence
     location: "Spain"
-    followers: 39946
-    engagement: 282
-    commentsToLikes: 0.032389
-    id: ck5byyu8sq4b50i116z4ame2i
+    followers: 10915
+    engagement: 378
+    commentsToLikes: 0.095505
+    id: ck5hr3uo2u7ys0i11ntw0a7bv
     verified: false
-    hashtags: "#miami, #marcuseaustralia, #fitnessmodel, #boy"
+    hashtags: "#fitnessaddict, #fit, #muscle, #fitnessmodel"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Russia In 2023
+title: Top 10 Travel TikTok Influencers In Russia In 2024
 description: >-
-  Find top travel TikTok influencers in Russia in 2023. Most popular hashtags: #russiatravel #tiktoktravel #sochi.
+  Find top travel TikTok influencers in Russia in 2024. Most popular hashtags: #russiatravel #murmansk #sochi.
 platform: TikTok
 hits: 54
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our database has 54 TikTok influencers like this in Russia for you to contact.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our database has 54 TikTok influencers like this in Russia for you to work with.
 profiles:
   - username: "denis_777_yudin"
     fullname: >-

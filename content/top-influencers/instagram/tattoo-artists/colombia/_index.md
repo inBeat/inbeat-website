@@ -1,24 +1,24 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Colombia In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Colombia In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Colombia in 2023. Most popular hashtags: #tattoo #tatuajes #tattooartist #tattoos.
+  Find top tattoo-artists Instagram influencers in Colombia in 2024. Most popular hashtags: #tattoo #tattooartist #tattoos #artist.
 platform: Instagram
-hits: 37
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 37 Instagram influencers like this in Colombia for you to connect with.
+hits: 40
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 40 Instagram influencers like this in Colombia for you to pitch.
 profiles:
-  - username: "hernanyepes_art"
+  - username: "bryan_sanchezm"
     fullname: >-
-      ⭕Hernan Yepes
+      Bryan Sánchez M.
     bio: >-
-      Tattoo artist #blackandgrey Medellín colombia 🇨🇴 Cotizaciones solo por whatsapp +573234135952
+      I do rare tattoos! I love to teach! Fine artist, art director, Muralist and tattoo artist. AGENDA 🇨🇴:
     location: "Colombia"
-    followers: 99140
-    engagement: 429
-    commentsToLikes: 0.028309
-    id: ck5ho6cflp0o90i11ihe5z39i
+    followers: 45327
+    engagement: 132
+    commentsToLikes: 0.025024
+    id: ck5q2x8a3i80m0i11wqxq2j37
     verified: false
-    hashtags: "#blancoynegro, #tatuajes, #tattoo, #colombiatattoo"
+    hashtags: "#tatuajesraros, #catarsis, #elartesalvaraelmundo, #faunavulnerable"
   - username: "sophie_suicide"
     fullname: >-
       Sophie Suicide 💋

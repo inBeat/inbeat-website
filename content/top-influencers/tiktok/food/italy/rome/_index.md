@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Rome In 2023
+title: Top 10 Food TikTok Influencers In Rome In 2024
 description: >-
-  Find top food TikTok influencers in Rome in 2023. Most popular hashtags: #perte #food #neiperte #foryou.
+  Find top food TikTok influencers in Rome in 2024. Most popular hashtags: #perte #food #neiperte #foryou.
 platform: TikTok
-hits: 4
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our database has 4 TikTok influencers like this in Rome, Italy for you to work with.
+hits: 5
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database has 5 TikTok influencers like this in Rome, Italy for you to contact.
 profiles:
   - username: "xdarioo"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ckcdp9l54bnlx0j235wfabyt3
     verified: false
     hashtags: "#shoppinghaul, #haul, #outfit, #shopping"
+  - username: "sarahlthompson11"
+    fullname: >-
+      Sarah Thompson
+    bio: >-
+      ✨CEO of “Hey Italy..”✨ 🇺🇸 in 🇮🇹 📍Sorrento 💌: sarahlorrathompson@gmail.com
+    location: "Italy"
+    followers: 60400
+    engagement: 918
+    commentsToLikes: 0.025233
+    id: ckai3fcgzjmzf0i78t3y6hmak
+    verified: false
+    hashtags: "#italiana, #italian, #cibo, #napoletano"
   - username: "its_bang"
     fullname: >-
       Angelo Berardinelli
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.009471
     id: ckbwg0r3q29ek0j23scerxa7y
     verified: false
-    hashtags: "#imparacontiktok, #tiktokitaliafood, #tiramisuchallenge, #losapevi"
+    hashtags: "#tiramisuchallenge, #tiktokitaliafood, #losapevi, #imparacontiktok"
   - username: "foodmeal"
     fullname: >-
       foodporn
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.010738
     id: ck8vx6henqbnw0j78ctalf8mx
     verified: false
-    hashtags: "#follow, #foryou, #neiperte, #likes"
+    hashtags: "#foryou, #pistacchio, #food, #nutella"
   - username: "festfood"
     fullname: >-
       foodporn
@@ -115,16 +127,4 @@ profiles:
     id: ck9aarliulri20j78fjcm582x
     verified: false
     hashtags: ""
-  - username: "cataldihealth"
-    fullname: >-
-      Cataldi Health 
-    bio: >-
-      Sharing BEST DELICIOUS FOOD 👌 Tiktok Beauty: @cataldibeauty www.cataldi.com
-    location: "Italy"
-    followers: 55100
-    engagement: 1385
-    commentsToLikes: 0.013724
-    id: ck8s5jvwzg8i50j785nktn2vv
-    verified: false
-    hashtags: "#naturopata, #sweet, #cataldi, #fruit"
 ---

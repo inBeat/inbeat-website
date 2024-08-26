@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Brazil In 2023
+title: Top 10 Cinema TikTok Influencers In Brazil In 2024
 description: >-
-  Find top cinema TikTok influencers in Brazil in 2023. Most popular hashtags: #fyp #dueto #irm #bbb.
+  Find top cinema TikTok influencers in Brazil in 2024. Most popular hashtags: #fyp #dueto #bbb #irm.
 platform: TikTok
 hits: 57
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 57 TikTok influencers like this in Brazil for you to pitch.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 57 TikTok influencers like this in Brazil for you to collaborate.
 profiles:
   - username: "marciosala6.1"
     fullname: >-

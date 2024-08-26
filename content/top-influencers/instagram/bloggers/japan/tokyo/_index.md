@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Tokyo In 2023
+title: Top 10 Bloggers Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top bloggers Instagram influencers in Tokyo in 2023. Most popular hashtags: #pr #tokyo #ootd #outfit.
+  Find top bloggers Instagram influencers in Tokyo in 2024. Most popular hashtags: #pr #tokyo #japan #outfit.
 platform: Instagram
-hits: 8
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database has 8 Instagram influencers like this in Tokyo, Japan for you to contact.
+hits: 10
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 10 Instagram influencers like this in Tokyo, Japan for you to work with.
 profiles:
   - username: "exploringjapan"
     fullname: >-
@@ -55,6 +55,18 @@ profiles:
     id: ck13684si57mx0i195ocda4bf
     verified: false
     hashtags: "#finland, #japan, #tokyo, #izumanixlovefinland"
+  - username: "hawaiianna913"
+    fullname: >-
+      Anna Haneishi 羽石杏奈
+    bio: >-
+      World traveler🌎✈︎✈︎57countries living with aloha spirit✴︎ travel blogger - content creator - model
+    location: "Japan"
+    followers: 95588
+    engagement: 298
+    commentsToLikes: 0.006312
+    id: ck13c7i0eyzjy0i193guyaef4
+    verified: false
+    hashtags: "#oahu, #waikiki, #waikikibeachcomber, #808"
   - username: "muratasaki"
     fullname: >-
       muratasaki／©︎ むらたさき
@@ -91,40 +103,28 @@ profiles:
     id: ck15t6yodgnk00i192xb9x0uq
     verified: false
     hashtags: "#dog, #gu, #instafashion, #uniqlo"
-  - username: "nakajima_ayano"
+  - username: "weeweefrenchie"
     fullname: >-
-      中島絢乃
+      Wee Wee Frenchie ® - Blogger
     bio: >-
-      Japanese blogger,model💘﻿ ⚠️仕事以外のDM直接お返事しません🙅‍♀️﻿ コメントへ✏️﻿ ．﻿ DisneyParks🇭🇰🇨🇳🇺🇸🇯🇵﻿ 中島姉妹👭#disneysisters_jp ﻿ ．﻿ travel/beauty/makeup movie/fashion/anime
+      Seattle’s Fashionable Frenchie Bros Cooper (8Y),Phoenix (6Y),Syre (4Y) . 🤴🏼King P, ‘19 Pup of the Year . ↘️Follow our dog blog. Post every Monday↙️
     location: "Japan"
-    followers: 47486
-    engagement: 206
-    commentsToLikes: 0.011695
-    id: ckap1ua7ew6ht0i780qid86re
+    followers: 18298
+    engagement: 241
+    commentsToLikes: 0.288609
+    id: ck5zxbl4b7pdb0i14q387cf3r
     verified: false
-    hashtags: "#ohmycafe, #inmyroombyayanon, #156cm, #mignondebijoux"
-  - username: "ktm_lover_vijjuda"
+    hashtags: "#weeboysyre, #frenchiebulldog, #weebabyphoenix, #dogsmakeeverythingbetter"
+  - username: "nekojitablog"
     fullname: >-
-      ďüḳệ ŀöṿệŕ ṿŀjjüďä
+      Nekojitablog (猫舌ブログ)
     bio: >-
-      ▶Øffčî🅰ł_🅰ččoŮnT ▶₩ish_Ⓜ€__2oct. ▶£ov€_|ⓂøⓂ|_|D€d| ▶F🅰šhîØñ_Błøğğêř ▶$inĞl€_Br🅰ñđ ▶ⓂØd€ł ▶ĆāMëŘ🅰_K🅰_Điv🅰n🅰 ▶🅰l₩🅰¥š_Hã🅿🅿¥
+      ¡‪Nuestro libro JAPÓN CON JAMÓN ya a la venta! Pareja hispano-japonesa viviendo en el país del chop naciente. Los prejuicios no vinieron en la maleta.
     location: "Japan"
-    followers: 17394
-    engagement: 1323
-    commentsToLikes: 0.132250
-    id: ck8t3djbj2uvw0j78wn9ov74a
+    followers: 478338
+    engagement: 431
+    commentsToLikes: 0.007078
+    id: ck5zy617n9agl0i14dl839k43
     verified: false
-    hashtags: "#mollywood, #gainwithmchina, #danishzehen, #maharastra"
-  - username: "mayu.ichimori"
-    fullname: >-
-      💘 マユ 💘
-    bio: >-
-      Official blogger for @nylonjapan🇯🇵 Verified depop seller @glitzyclub 🕯@ember.candle Business inquiries email : contact.mayuichimori@gmail.com
-    location: "Japan"
-    followers: 14516
-    engagement: 494
-    commentsToLikes: 0.039917
-    id: ck1362yag4i3g0i19iqvo0abm
-    verified: false
-    hashtags: "#casetify, #mmic, #windandseaxcasetify, #shein"
+    hashtags: "#curiosidades, #tokio, #espa, #comidajaponesa"
 ---

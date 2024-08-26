@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Los Angeles In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #digitalart #illustration.
+  Find top graphic-designers Instagram influencers in Los Angeles in 2024. Most popular hashtags: #graphicdesigner #disney #chicago.
 platform: Instagram
-hits: 60
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 60 Instagram influencers like this in Los Angeles, United States for you to connect with.
+hits: 65
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 65 Instagram influencers like this in Los Angeles, United States for you to collaborate.
 profiles:
   - username: "awolone"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ckaoqtk30kbo20i78yv9ntanw
     verified: false
     hashtags: "#starwarsblackseries, #disney, #digitalillustration, #clonewars"
+  - username: "permanentglue"
+    fullname: >-
+      Jesse Nyberg — Graphic Designer
+    bio: >-
+      Los Angeles, CA Design Inquires: Jessenyberg@zoho.com YouTube, Newsletter, Patreon & more👇🏻
+    location: "United States"
+    followers: 88134
+    engagement: 130
+    commentsToLikes: 0.017414
+    id: cldob9okyxi910j08dh029g6q
+    verified: false
+    hashtags: "#graphicdesign, #itsnicethat, #graphicdesigner, #freelance"
   - username: "morganweske"
     fullname: >-
       Morgan Weske
@@ -43,42 +55,30 @@ profiles:
     id: ckf5ttlniiqal0j237acetcqy
     verified: false
     hashtags: "#rollerskate, #skatetour, #danceskate, #rollerskating"
-  - username: "haven_everly"
+  - username: "emilyanderberg"
     fullname: >-
-      Haven Everly 🎭Actor & Singer
-    bio: >-
-      Haven a good time! 🎉 📍 Los Angeles Netflix YOU Girl Who Left Home Film 🎤 Singing Coach 🏡 Professional Homebody
-    location: "United States"
-    followers: 29425
-    engagement: 215
-    commentsToLikes: 0.084300
-    id: ck0vw6yjase0d0i19gxinknut
-    verified: false
-    hashtags: "#actor, #losangeles, #sundayvibes, #fridayvibes"
-  - username: "emilyboffeli"
-    fullname: >-
-      emily boffeli
+      emily (boffeli) anderberg
     bio: >-
       los angeles art direction | designer | content creation sr. graphic designer + content strategist @mate_the_label emilyboffeli@gmail.com
     location: "United States"
-    followers: 4995
-    engagement: 716
-    commentsToLikes: 0.243974
+    followers: 4973
+    engagement: 611
+    commentsToLikes: 0.219300
     id: ck0vvh2u8p4110i19z2zi473p
     verified: false
-    hashtags: ""
-  - username: "davis.rider"
+    hashtags: "#womensupportingwomen, #merit, #meritminimalist, #malibu"
+  - username: "sicerow"
     fullname: >-
-      Davis ⚒ Rider
+      Siciliani Texel
     bio: >-
-      Los Angeles, CA 🌴 Tattoo Flash Maker Graphic Designer for @jeffreestarcosmetics Part owner @outsidercult Davisrider@gmail.com 📬
+      📸 Photographer 🖥 Graphic Designer ⚠️ Shoots 21+ only 🎙 Vocal Coach 💈 Barber Since ‘86 📷 Other work 👇🏾 @sicerowphotography
     location: "United States"
-    followers: 37870
-    engagement: 818
-    commentsToLikes: 0.018558
-    id: ck6tnwy2laui00j715hugi7t4
+    followers: 18690
+    engagement: 296
+    commentsToLikes: 0.037531
+    id: ck5q70ojozir30i11j6ldgc33
     verified: false
-    hashtags: "#conspiracy, #jeffreestarcosmetics, #shanexjeffree, #it"
+    hashtags: "#body, #edit, #photooftheday, #lady"
   - username: "lucaminxu"
     fullname: >-
       luca minxu シュガー
@@ -91,6 +91,18 @@ profiles:
     id: ck9ha0j1aaphj0j783s3aazxr
     verified: false
     hashtags: "#ryukocosplay"
+  - username: "phoebecornog"
+    fullname: >-
+      Phoebe (Cornog) Nelson
+    bio: >-
+      ✨ graphic designer & muralist ✨ owner of @pandrdesignco
+    location: "United States"
+    followers: 27490
+    engagement: 231
+    commentsToLikes: 0.029915
+    id: ckq66jxqrgmfl0j23mqimrmys
+    verified: false
+    hashtags: "#muralpainting, #pandrmurals, #paintlikepandr, #custommural"
   - username: "hometown_designs"
     fullname: >-
       Jimmy Mitchell
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.013063
     id: ck5qb3owzjnt30i11pefzp2rk
     verified: false
-    hashtags: "#mj, #michael, #zachlavine, #basketball"
+    hashtags: "#basketball, #ball, #sportsposters, #ballislife"
   - username: "monimonanabanana"
     fullname: >-
       Moni Monana Banana 🍌
@@ -115,16 +127,4 @@ profiles:
     id: ck6ufgnypwxx80j713pke2up8
     verified: false
     hashtags: "#hero7, #hero9, #goproes, #goprohero8"
-  - username: "theartofbokkaboom"
-    fullname: >-
-      𝔹𝕆𝕂𝕂𝔸𝔹𝕆𝕆𝕄
-    bio: >-
-      #bokkaboom Illustrator | Graphic Designer | Creative Director Inspired by hip hop & street culture at it's finest.🔥 📨 Inquiries: bokkaboom@gmail.com
-    location: "United States"
-    followers: 7635
-    engagement: 276
-    commentsToLikes: 0.098177
-    id: ck55ppf2db31c0i11su8l5nc5
-    verified: false
-    hashtags: "#bennythebutcher, #airjordan1, #hiphop, #northface"
 ---

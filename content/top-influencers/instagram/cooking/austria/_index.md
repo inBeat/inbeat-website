@@ -1,12 +1,36 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Austria In 2023
+title: Top 10 Cooking Instagram Influencers In Austria In 2024
 description: >-
-  Find top cooking Instagram influencers in Austria in 2023. Most popular hashtags: #cooking #summer #austria #winter.
+  Find top cooking Instagram influencers in Austria in 2024. Most popular hashtags: #rezepte #foodie #cooking #rezeptideen.
 platform: Instagram
-hits: 10
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 10 Instagram influencers like this in Austria for you to collaborate.
+hits: 31
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 31 Instagram influencers like this in Austria for you to contact.
 profiles:
+  - username: "twosisterslivinglife"
+    fullname: >-
+      Nina  📷food photographer | 🌿recipe creator based in Austria 🇦🇹
+    bio: >-
+      Kitchens are not only for Cooking. Chaos is what makes life interesting and family is where we belong. Visit our blog 👇
+    location: "Austria"
+    followers: 12275
+    engagement: 284
+    commentsToLikes: 0.028751
+    id: ck5bz9iezqpgi0i11ct15leo5
+    verified: false
+    hashtags: "#foodphotographyandstyling, #fooditalian, #ourfoodstories, #foodphotographers"
+  - username: "nenifood"
+    fullname: >-
+      N E N I Restaurants
+    bio: >-
+      Modern telavivian cooking Restaurants in 📍Vienna, Berlin, Zurich, Hamburg, Cologne, Munich, Mallorca, Paris, Amsterdam & Copenhagen 🧆 @neniamtisch
+    location: "Austria"
+    followers: 105511
+    engagement: 62
+    commentsToLikes: 0.019561
+    id: ck0ty70qhlqh90i19k7sj0gbs
+    verified: false
+    hashtags: "#instafood, #foodstagram, #bonappetit, #nenifood"
   - username: "senoritachiquita"
     fullname: >-
       Jacqui 🦋
@@ -18,113 +42,89 @@ profiles:
     commentsToLikes: 0.042367
     id: ck5hi8pcsc8b80i11j0gymcwn
     verified: false
-    hashtags: "#look, #underwearmodel, #underwear, #lingerie"
-  - username: "susannawurz"
-    fullname: >-
-      SUSANNA WURZ
-    bio: >-
-      based in vienna & vorarlberg interior @doubleyou.designs food @susannawurz.cooking 🕊 contact@susannawurz.com
-    location: "Austria"
-    followers: 257547
-    engagement: 441
-    commentsToLikes: 0.002501
-    id: ck0u77a0c42f90i196728k2y4
-    verified: false
-    hashtags: "#outfit, #waitingforsomethingperfetto, #milano, #outfitinspiration"
-  - username: "nenifood"
-    fullname: >-
-      N E N I Restaurants
-    bio: >-
-      Modern telavivian cooking Restaurants in 📍Vienna, Berlin, Zurich, Hamburg, Cologne, Munich, Mallorca, Paris & Amsterdam
-    location: "Austria"
-    followers: 66983
-    engagement: 135
-    commentsToLikes: 0.018540
-    id: ck0ty70qhlqh90i19k7sj0gbs
-    verified: false
-    hashtags: "#delivery, #foodandwine, #foragebyfolk, #hayamolcho"
+    hashtags: "#underwearmodel, #lookoftheday, #style, #lingerie"
   - username: "alexandragorsche"
     fullname: >-
       ALEXANDRA GORSCHE
     bio: >-
-      📓 Publisher of @falstaff.profi 💻 Owner of Genusspunkt 🗝 Specialist in hotel & tourism #madebygorsche #falstaffprofi #jegolifestyle #genusspunkt
+      💻 CEO & Founder of Genusspunkt 🗝 Specialist in hotel & tourism 📓 Editor in Chief @falstaff.profi #madebygorsche #jegolifestyle #genusspunkt
     location: "Austria"
-    followers: 24854
-    engagement: 222
-    commentsToLikes: 0.064146
+    followers: 34892
+    engagement: 114
+    commentsToLikes: 0.064597
     id: ck8svtcxpcmag0j78uxrhd1at
     verified: false
-    hashtags: "#water, #rezept, #jegolifestyle, #falstaffprofiatwork"
-  - username: "therry_nu"
+    hashtags: "#culinarytalents, #stuttgart, #interview, #brandambassador"
+  - username: "eckart.witzigmann"
     fullname: >-
-      T h e r r y
+      Eckart Witzigmann -official
     bio: >-
-      adventuresoul & wild heart ✌🏻 Go where you feel most alive✨ Mountains 🏔️ • Sports🏃‍♀️ • Photography 📸
+      Patron RED BULL Hangar-7 Restaurant Ikarus
     location: "Austria"
-    followers: 21618
-    engagement: 360
-    commentsToLikes: 0.018447
-    id: ck14kxikmrtfe0i19dv4t3hmb
-    verified: false
-    hashtags: "#winterwonderland, #outdoorlife, #spring, #julbo"
-  - username: "djmosaken"
-    fullname: >-
-      DJ MOSAKEN
-    bio: >-
-      💦 Juicy Crew 📀 DJ for Masters Of Dirt 💥 Event Management 🌍 70countries 🇦🇹 Vienna, Austria 🎵RadioShow: Fridays 9pm kronehit 🆕 Podcast: @frischesgeld
-    location: "Austria"
-    followers: 21982
-    engagement: 300
-    commentsToLikes: 0.104727
-    id: ck6tyqnwl5aj60j71uedi5xwh
+    followers: 56311
+    engagement: 94
+    commentsToLikes: 0.013094
+    id: ck0vwtjqxvj920i19xw6s2g2f
     verified: true
-    hashtags: "#vienna, #austria, #wien, #klopapiergate"
-  - username: "demets_life"
+    hashtags: "#michelinstars, #michelinstarred, #hangar7, #guestchef"
+  - username: "travelgastronomist"
     fullname: >-
-      𝒟𝑒𝓂𝑒𝓉
+      Ingo Hettig
     bio: >-
-      Welcome to my 🌎 📍Vienna
+      FINE DINING & TRAVEL 🍽️ Discovering the most exciting restaurants in the world! 🌟 CONSULTING for MICHELIN RESTAURANTS & 📈START-UPs #travelgastronomist
     location: "Austria"
-    followers: 13635
-    engagement: 367
-    commentsToLikes: 0.134904
-    id: ck8t6nmuye88g0j78sdkjb3xi
+    followers: 138893
+    engagement: 31
+    commentsToLikes: 0.052957
+    id: ck0u99ltb98dc0i190gxk38q1
     verified: false
-    hashtags: "#almonds, #fashion, #coffeetable, #kitchen"
-  - username: "visitflachau"
+    hashtags: "#serviceteam, #premiumingredients, #topchefs, #chefsatwork"
+  - username: "larisarocas"
     fullname: >-
-      Flachau
+      larisarocas-Uiuiu
     bio: >-
-      Official account of Flachau Tourism, tag your 📸 with #visitflachau & @visitflachau. Our mission is to inspire you. 😁
+      📧 larisa.rocas@gmail.com
     location: "Austria"
-    followers: 18808
-    engagement: 333
-    commentsToLikes: 0.010079
-    id: ck5hlk0b3kcua0i11z61r1o94
+    followers: 12216
+    engagement: 22
+    commentsToLikes: 0.030635
+    id: ckap1blpltvs60i78dg5zspw3
     verified: false
-    hashtags: "#landscape, #feelthealps, #liveoutdoors, #ourplanetdaily"
-  - username: "isabellakiss_official"
+    hashtags: "#vacation, #blogger, #recipe, #traveling"
+  - username: "seelensachen"
     fullname: >-
-      Isabella Kiss | Cutecumber
+      Nora Mayrhofer-Kadlicz
     bio: >-
-      💚 sustainability 📍 Vienna ➡️ @cutecumberofficial 🌍 travel enthusiast 🐱 cat lover
+      🪴 HOMEDECOR INTERIOR FLOWERS & GARDEN 🪴 Fotografin und Interiorstylistin Autorin Patchworkfamilie | Landhaus | DIY & Tipps 🏡
     location: "Austria"
-    followers: 19548
-    engagement: 233
-    commentsToLikes: 0.013712
-    id: ck15q7r2m1ht80i19pw8un607
+    followers: 29078
+    engagement: 309
+    commentsToLikes: 0.077508
+    id: ck0tt52zf16zv0i19sv8mgi16
     verified: false
-    hashtags: "#thrivemags, #healthyvegan, #veganinspo, #curry"
-  - username: "katharinaannamaria"
+    hashtags: "#landhausstyle, #seelensachenwohnzimmer, #landlust, #mycountryhome"
+  - username: "carmenhuter"
     fullname: >-
-      katharina ☼☾
+      Carmen Huter | Austria
     bio: >-
-      📍tirol | 28 | part time sportsmodel currently biking, running or hiking ✌🏻🏔 bookings: info@katharinaannamaria.at find my photo editing guide here:
+      Sony Imaging Pro Ambassador 📸 @heidihuter 🐶 Create more than you consume. info@carmenhuter.com
     location: "Austria"
-    followers: 101930
-    engagement: 1478
-    commentsToLikes: 0.003403
-    id: cl5l32vs392ou0i23e24a1jfz
+    followers: 165280
+    engagement: 216
+    commentsToLikes: 0.056687
+    id: ck0u1a7s2w9kl0i19pivwphz9
+    verified: true
+    hashtags: "#sunrise, #goldenretriever, #salzkammergut, #tirol"
+  - username: "hank_ge"
+    fullname: >-
+      HANK GE / Vegan Recipes
+    bio: >-
+      📍Vienna/ Berlin/ LA 🌱veggie👨‍🍳/🦁 My Brands @bali_curls 🥥@bali_brunch 🍹@fitzcarraldo_bar 🍕 @wolke.vienna 🕺@wildsky_shop 📽️ @bfrndmaterial
+    location: "Austria"
+    followers: 402645
+    engagement: 203
+    commentsToLikes: 0.010671
+    id: ck0tym4oxn80x0i194wpl73kr
     verified: false
-    hashtags: "#mallorca, #curls, #cupratribe, #myviu"
+    hashtags: "#veganlife, #vegandinner, #veganrecipe, #rezeptideen"
 ---

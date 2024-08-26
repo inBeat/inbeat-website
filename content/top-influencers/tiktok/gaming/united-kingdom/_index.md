@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In United Kingdom In 2023
+title: Top 10 Gaming TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top gaming TikTok influencers in United Kingdom in 2023. Most popular hashtags: #foryou #fyp #gaming #fortnite.
+  Find top gaming TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #foryou #gaming #viral.
 platform: TikTok
-hits: 528
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 528 TikTok influencers like this in United Kingdom for you to contact.
+hits: 536
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat holds 536 TikTok influencers like this in United Kingdom for you to work with.
 profiles:
   - username: "gamingdaily"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck8ae4kc19rwi0j78wba8qskq
     verified: false
     hashtags: "#funny, #itried, #oof, #lol"
+  - username: "aaronthaweeb"
+    fullname: >-
+      Anime Boi
+    bio: >-
+      I love anime and gaming @nek0kirei <3
+    location: "United Kingdom"
+    followers: 479100
+    engagement: 2662
+    commentsToLikes: 0.032393
+    id: ck97wb4pwqd4b0j78d4n6g9zo
+    verified: false
+    hashtags: "#4u, #anime, #bananafish, #snk"
   - username: "attempting_legendary_pet"
     fullname: >-
       Trying legendary pet
@@ -43,18 +55,6 @@ profiles:
     id: ck8nfymlyu03r0j78gp0itwu8
     verified: false
     hashtags: "#adoptme, #fyp, #game, #egg"
-  - username: "gamingplus"
-    fullname: >-
-      GamingPlus
-    bio: >-
-      The home of gaming 🎮
-    location: "United Kingdom"
-    followers: 394900
-    engagement: 1345
-    commentsToLikes: 0.026583
-    id: ckaig90sc0doi0i782a12okby
-    verified: false
-    hashtags: "#playstation, #gamer, #gamingnews, #foryou"
   - username: "artistic_senpai.jr"
     fullname: >-
       Artistic senpai jr
@@ -67,6 +67,18 @@ profiles:
     id: ck97wb96lqeeq0j78om82bar7
     verified: false
     hashtags: "#foryou, #art, #artist, #haikyuu"
+  - username: "gamingplus"
+    fullname: >-
+      GamingPlus
+    bio: >-
+      The home of gaming 🎮
+    location: "United Kingdom"
+    followers: 398900
+    engagement: 1070
+    commentsToLikes: 0.033502
+    id: ckaig90sc0doi0i782a12okby
+    verified: false
+    hashtags: "#gaming, #gamingfyp, #gamers, #callofduty"
   - username: "rebel_ryan96"
     fullname: >-
       Mr. Glover lover
@@ -91,6 +103,18 @@ profiles:
     id: ckamivmvdlr330i78uh1jqq1n
     verified: false
     hashtags: "#gaming, #warzone, #gamer, #ps4"
+  - username: "mizukxge"
+    fullname: >-
+      Michael
+    bio: >-
+      YouTube link ⬆️ Follow for Gaming and Anime content😁
+    location: "United Kingdom"
+    followers: 319300
+    engagement: 2319
+    commentsToLikes: 0.016855
+    id: ckbw5x7rvy6f50j23erapjexy
+    verified: false
+    hashtags: "#shingekinokyogin, #jujutsukaisen, #attackontitan, #anime"
   - username: "echo.on.top"
     fullname: >-
       Twitch echo
@@ -103,28 +127,4 @@ profiles:
     id: ckc7bh4owl4x50j23p00htkam
     verified: false
     hashtags: "#viral, #gamingpage, #foryou, #gamingvideos"
-  - username: "thehood1989"
-    fullname: >-
-      Craig Cooper
-    bio: >-
-      Family Man who's into gaming, anime & having a laugh! Shared with DarkStorm2236!
-    location: "United Kingdom"
-    followers: 11300
-    engagement: 646
-    commentsToLikes: 0.103932
-    id: ck8qdpoqvpc0t0j78fisfgo88
-    verified: false
-    hashtags: "#foryou, #cleaning, #2020, #fyp"
-  - username: "gaminvidz"
-    fullname: >-
-      Gaming Vidz
-    bio: >-
-      Follow for more gaming content! ✊ Instagram: @gamin.vidz
-    location: "United Kingdom"
-    followers: 557400
-    engagement: 1790
-    commentsToLikes: 0.019538
-    id: ck9regza32b270j78j9zflrko
-    verified: false
-    hashtags: "#fyp, #fortniteclips, #fortnite, #foryou"
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Montreal In 2023
+title: Top 10 Fitness TikTok Influencers In Montreal In 2024
 description: >-
-  Find top fitness TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #montreal #fitness #quebec.
+  Find top fitness TikTok influencers in Montreal in 2024. Most popular hashtags: #fyp #montreal #fitness #workout.
 platform: TikTok
 hits: 15
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our platform has 15 TikTok influencers like this in Montreal, Canada for you to work with.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 15 TikTok influencers like this in Montreal, Canada for you to pitch.
 profiles:
+  - username: "thefitfatale"
+    fullname: >-
+      Samantha Cutler
+    bio: >-
+      What I eat, wear & do to chill TFO😏 Founder, Pro-Creator & Meditation Guide
+    location: "Canada"
+    followers: 19100
+    engagement: 463
+    commentsToLikes: 0.035877
+    id: ckbeym7goj4a40j238zex4lon
+    verified: false
+    hashtags: "#activewear, #spring, #selflove, #ootd"
   - username: "whoshueyy"
     fullname: >-
       Hueyy🐼
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.198070
     id: ckcem2lh5w6mr0j23et3wm83r
     verified: false
-    hashtags: "#fittoker, #fitnessismylife, #torontofitness, #over35club"
+    hashtags: "#fitnessismylife, #torontofitness, #fittoker, #fitnessismypassion"
   - username: "thecurlychink"
     fullname: >-
       gelinass
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.076113
     id: ckbfba7cc35fl0j23vbw0prk0
     verified: false
-    hashtags: "#summer, #love, #comedy, #tiktokggt"
+    hashtags: "#love, #over50, #comedy, #friendlyfuture"
   - username: "craig_major"
     fullname: >-
       craigmajor
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.025861
     id: cka67s8pnm5nm0i78cboyvn7n
     verified: false
-    hashtags: "#fashion, #muscle, #boy, #menstyle"
+    hashtags: "#style, #muscle, #men, #bf"
   - username: "_annamarier"
     fullname: >-
       annamarier
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.093902
     id: ck90vwxt61pq80j78e3qosq12
     verified: false
-    hashtags: "#fyp, #outfit, #matchalatte, #outfitinspiration"
+    hashtags: "#fit, #inspo, #healthycooking, #fyp"
   - username: "fitness_zu"
     fullname: >-
       Fitness Zu
@@ -109,22 +121,10 @@ profiles:
     bio: >-
       CEO of Mtl🔥 For Fitness @pharmafitspo Mtl 🇨🇦 Subscribe ⬇️💪🏽
     location: "Canada"
-    followers: 35100
-    engagement: 950
-    commentsToLikes: 0.013274
+    followers: 36600
+    engagement: 857
+    commentsToLikes: 0.014944
     id: ck8f8nqla3i3c0j78vo3rzrj1
     verified: false
-    hashtags: "#funnyvideo, #pharmathlete, #ceoofmontreal, #mtl"
-  - username: "jobellafit"
-    fullname: >-
-      Joanna J.
-    bio: >-
-      WORLDWIDE COACHING 🌏💪🏾 PROFESSIONAL FITNESS MODEL. 💦 FAT LOSS -🥦MEAL PLAN
-    location: "Canada"
-    followers: 153000
-    engagement: 808
-    commentsToLikes: 0.058252
-    id: ckdstgewwpi5p0j23wqf6j88m
-    verified: false
-    hashtags: "#fitnesscreator, #tiktokcanadacreates, #haitiangirl, #fitok"
+    hashtags: "#tiktokcanada, #ceoofmontreal, #ceoofcanada, #4yp"
 ---

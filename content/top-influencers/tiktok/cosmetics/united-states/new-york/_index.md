@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers In New York In 2023
+title: Top 10 Cosmetics TikTok Influencers In New York In 2024
 description: >-
-  Find top cosmetics TikTok influencers in New York in 2023. Most popular hashtags: #fyp #greenscreen #makeup #newyork.
+  Find top cosmetics TikTok influencers in New York in 2024. Most popular hashtags: #fyp #greenscreen #newyork #makeup.
 platform: TikTok
 hits: 6
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 6 TikTok influencers like this in New York, United States for you to work with.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 6 TikTok influencers like this in New York, United States for you to connect with.
 profiles:
   - username: "greyzhagan"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.050977
     id: ck7zp97doo19o0j78kodp1uya
     verified: false
-    hashtags: "#fy, #hairs, #dog, #pets"
+    hashtags: "#dog, #pets, #showerhairchallengewig, #skin"
   - username: "doctor.justin"
     fullname: >-
       Doctor Justin
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.019832
     id: ck7zosnmglrdn0j78puhwhvd6
     verified: false
-    hashtags: "#fyp, #ulta, #shein, #foryou"
+    hashtags: "#trendy, #fyp, #affordable, #target"
   - username: "lipfix_cosmetics"
     fullname: >-
       ✨Lipgloss Business✨

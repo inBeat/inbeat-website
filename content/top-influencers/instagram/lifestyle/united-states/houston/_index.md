@@ -1,12 +1,36 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Houston In 2023
+title: Top 10 Lifestyle Instagram Influencers In Houston In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Houston in 2023. Most popular hashtags: #lifestyle #houston #houstontx #houstonblogger.
+  Find top lifestyle Instagram influencers in Houston in 2024. Most popular hashtags: #houston #houstonblogger #lifestyle.
 platform: Instagram
-hits: 207
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 207 Instagram influencers like this in Houston, United States for you to pitch.
+hits: 355
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 355 Instagram influencers like this in Houston, United States for you to pitch.
 profiles:
+  - username: "lifeonloc"
+    fullname: >-
+      LINDA C. OKOLI 🇳🇬
+    bio: >-
+      J.D. • Radio Personality • Fashion• Lifestyle • Houston, TX
+    location: "United States"
+    followers: 15591
+    engagement: 810
+    commentsToLikes: 0.074409
+    id: cks0brw2efvn60j2309c8bnvo
+    verified: false
+    hashtags: "#lifedump"
+  - username: "gabrielzamora"
+    fullname: >-
+      ɢᴀʙʀɪᴇʟ ᴢᴀᴍᴏʀᴀ
+    bio: >-
+      Brows | Beauty | Lifestyle 🇲🇽 Houston raised, LA based 📍 📧 gabrielzamora@select.co
+    location: "United States"
+    followers: 693038
+    engagement: 114
+    commentsToLikes: 0.022405
+    id: ck13831qle9h40i198xuiree9
+    verified: true
+    hashtags: "#grwm, #eyebrows, #eyebrowtransplant, #whatsinmybag"
   - username: "karishmadawood"
     fullname: >-
       Karishma Dawood
@@ -18,7 +42,55 @@ profiles:
     commentsToLikes: 0.100850
     id: ck9wgee9dt23i0j7812nfuj7v
     verified: false
-    hashtags: "#eidmubarak, #bridetribe, #scottsdalebefortheveil, #kobeyear"
+    hashtags: "#scottsdalebefortheveil, #kobeyear, #eidmubarak, #bridetribe"
+  - username: "nomswithnoor"
+    fullname: >-
+      Noor | Houston & PHX Food + Lifestyle
+    bio: >-
+      🇯🇴 ✨ noms + lifestyle (& lots of ☕️) 👩‍💻 brand manager 🐾 UH alum | 🐯 @northwesternu grad 💜 📍 houston & phoenix 💍 bride-to-be 💌: nomswithnoor@gmail.com
+    location: "United States"
+    followers: 10126
+    engagement: 580
+    commentsToLikes: 0.232039
+    id: ck13ano71r9y60i19zm730ad5
+    verified: false
+    hashtags: "#phoenix, #houston, #phxfood, #az"
+  - username: "hannah.peery"
+    fullname: >-
+      Hannah Peery
+    bio: >-
+      📍: HTX 💌: hjpeery@gmail.com @HoustonRockets social | @UFlorida alum
+    location: "United States"
+    followers: 56401
+    engagement: 2248
+    commentsToLikes: 0.015221
+    id: cloof4euo9zxf0j08h2jxp9s1
+    verified: false
+    hashtags: "#workinsports, #sportsphotography, #womeninsports, #photographer"
+  - username: "dinekaa"
+    fullname: >-
+      di.
+    bio: >-
+      magician 🔮 @skin.bydi pilates instructor 🌟 @xostudio.htx @bodybarkaty 📍houston, tx 💌: info.dineka@gmail.com
+    location: "United States"
+    followers: 35869
+    engagement: 521
+    commentsToLikes: 0.021040
+    id: ckf5vwqfqq5kh0j23o7sf6xj8
+    verified: false
+    hashtags: "#curlylocs, #fitgirls, #wellnessblogger, #locnation"
+  - username: "vanessas_adventures_"
+    fullname: >-
+      𝐕𝐚𝐧𝐞𝐬𝐬𝐚|𝑯𝒐𝒖𝒔𝒕𝒐𝒏 𝑭𝒐𝒐𝒅𝒊𝒆+𝑭𝒂𝒔𝒉𝒊𝒐𝒏
+    bio: >-
+      Houston 𝑭𝒐𝒐𝒅,𝑭𝒂𝒔𝒉𝒊𝒐𝒏,𝑳𝒐𝒄𝒂𝒍♥️ 𝐄𝐦𝐚𝐢𝐥: vanessas.adventures15@gmail.com #boliviana 🏃‍♀️Follow my 𝐋𝐓𝐊 Link 🥰Follow my #vanessasadventures
+    location: "United States"
+    followers: 9119
+    engagement: 287
+    commentsToLikes: 0.519062
+    id: cl7zcln5uzj7s0i23sv3gtjrn
+    verified: false
+    hashtags: "#houstonthingstodo, #htxfoodie, #digitalcreator, #latinafoodie"
   - username: "styleandsmilee"
     fullname: >-
       Isabel
@@ -30,7 +102,7 @@ profiles:
     commentsToLikes: 0.137898
     id: ckapak7u6wfuo0i78zzq7pcc8
     verified: false
-    hashtags: "#liketkit, #ltksalealert, #corporatefashion, #ltkunder50"
+    hashtags: "#ltksalealert, #ltkspringsale, #houstonblogger, #liketkit"
   - username: "taydolashes"
     fullname: >-
       Taydolashes
@@ -54,77 +126,5 @@ profiles:
     commentsToLikes: 0.678801
     id: ck5zpfzpzslkj0i14oaz3whdt
     verified: false
-    hashtags: "#trendystyles, #ootdstyle, #fashionjunkie, #whattoweartoday"
-  - username: "bboygermy"
-    fullname: >-
-      Jeremy G. Cheung | Houston, TX
-    bio: >-
-      👔 Men’s Fashion × 🌊 Movement x 🕶 Lifestyle 🏙 Houston, TX 🧑🏻‍💼: @germymedia ❖ : bboygermy@gmail.com ⤓ Learn Breaking! 🤸🏻 ✦ #germynation — ╿ 🇭🇰🇺🇸
-    location: "United States"
-    followers: 30186
-    engagement: 93
-    commentsToLikes: 0.138835
-    id: ck0vyxk3769vd0i196fepe3g8
-    verified: false
-    hashtags: "#asianamerican, #martialarts, #onearm, #houstonblogger"
-  - username: "jermanyonline"
-    fullname: >-
-      Content Creator
-    bio: >-
-      Jermany Content Creator + Lifestyle 📍Houston Encouraging you with positivity,good vibes and motivation to be your best self! Hello@jermanyonline.com
-    location: "United States"
-    followers: 59407
-    engagement: 62
-    commentsToLikes: 0.120771
-    id: ck1397mjkjxue0i19g72cnzm0
-    verified: false
-    hashtags: "#blackgirlswhoblog, #blackgirlbloggers, #ad, #wordsofaffirmation"
-  - username: "tammariee"
-    fullname: >-
-      Tamara.Minix
-    bio: >-
-      God is my everything 🙌🏽, 💚💖 CEO of @kissesfromtamm 👄 Promotional | Print | Commercial | Model @veynmgmt | @lmodelz B.A. Mass Media Arts👩🏽‍🎓HBU ALUMNA
-    location: "United States"
-    followers: 5033
-    engagement: 573
-    commentsToLikes: 0.085851
-    id: ck8swyu8qfobf0j78y383mcfm
-    verified: false
-    hashtags: "#melanin, #veynmgmt, #swimwear, #minidress"
-  - username: "dulcediana"
-    fullname: >-
-      𝗗𝗶𝗮𝗻𝗮 𝗣𝗮𝗿𝗲𝗷𝗮 | 𝗛𝗼𝘂𝘀𝘁𝗼𝗻 𝗧𝗿𝗮𝗶𝗻𝗲𝗿
-    bio: >-
-      Personal Trainer & Online Coach 🇨🇴 @doubletaketeam Strength•Balance•Movement #IAM1STPHORM Apply for coaching in the link ⤵️
-    location: "United States"
-    followers: 12578
-    engagement: 338
-    commentsToLikes: 0.051676
-    id: ckwx3iv46wlz30j235p34o6w4
-    verified: false
-    hashtags: "#latina, #gluteworkout, #houston, #legday"
-  - username: "belowhtx"
-    fullname: >-
-      Chris Below (Bee-low)
-    bio: >-
-      💡Purpose is to create High Character, High Value men. 🎙Host of @roommateshtx ⭐️ Of the Show 🎬 Youtuber 400k+Sub 📍 HOU 🔁 ATL 💌 below@roommateshtx.com
-    location: "United States"
-    followers: 9899
-    engagement: 1003
-    commentsToLikes: 0.072163
-    id: ck8szidmuok7i0j78fn37hrjx
-    verified: false
-    hashtags: "#ad21, #mostawardedcognachouse, #courvoisier, #cognac"
-  - username: "purematiic.fern"
-    fullname: >-
-      
-    bio: >-
-      Purematic 🎗 •Matthew 19:26
-    location: "United States"
-    followers: 3168
-    engagement: 1576
-    commentsToLikes: 0.085123
-    id: ck6ub3n8779td0j71m6hz00r4
-    verified: false
-    hashtags: "#newyork, #wynwood, #losangeles, #nipseyhussle"
+    hashtags: "#affordablefashion, #fashionjunkie, #ootdinspirations, #wearthisnext"
 ---

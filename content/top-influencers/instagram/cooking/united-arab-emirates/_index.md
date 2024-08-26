@@ -1,12 +1,72 @@
 ---
-title: Top 10 Cooking Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Cooking Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top cooking Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #foodie #dubai #instafood #foodporn.
+  Find top cooking Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #indianfood #foodblogger #food #foodporn.
 platform: Instagram
-hits: 26
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 26 Instagram influencers like this in United Arab Emirates for you to connect with.
+hits: 90
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 90 Instagram influencers like this in United Arab Emirates for you to contact.
 profiles:
+  - username: "rolaskitchen.ae"
+    fullname: >-
+      Rolas Kitchen
+    bio: >-
+      The Art of Cooking 👩🏻‍🍳🤍. صنع بحب❣️Rolaskitchen.ae@ YOUTUBE PAGE ⬇️اضغطوا هنا رابط اليوتيوب
+    location: "United Arab Emirates"
+    followers: 43705
+    engagement: 164
+    commentsToLikes: 0.230162
+    id: ck9wggt86tcnt0j78p90exchv
+    verified: false
+    hashtags: "#foofighterslive, #food, #yummy, #tasty"
+  - username: "lama_gharaibeh"
+    fullname: >-
+      
+    bio: >-
+      📌Finding Joy In Cooking 📌Recipe Developer📚 📌Bachelor Degree Nutrition And Food Technology ❤️الوصفات بالعربيه في التعليقات lama_gharaibeh@yahoo.com
+    location: "United Arab Emirates"
+    followers: 39082
+    engagement: 139
+    commentsToLikes: 0.217853
+    id: ck5hrufivvhzo0i11rl3ujv6r
+    verified: false
+    hashtags: "#dubaifoodbloggers, #tastingtable, #f52community, #easyrecipes"
+  - username: "michaaeid"
+    fullname: >-
+      Micheline Eid
+    bio: >-
+      🔹Mom of two kids, Celina👸Enzo🤴🏻 🔹Lebanese 🔹I love fashion, makeup, cooking, traveling, photography... 🔹I hate fake life cause i’m pure. This is me.
+    location: "United Arab Emirates"
+    followers: 345746
+    engagement: 45
+    commentsToLikes: 0.036976
+    id: ckap130guswls0i78c0x1fklx
+    verified: false
+    hashtags: ""
+  - username: "chefkelvincheung"
+    fullname: >-
+      Kelvin Cheung
+    bio: >-
+      Chef | Partner @junsdubai Third Culture Cooking @menas50best | @gaultmillauuae | @michelinguide 2023 Father | Buddy @bodhi.bites
+    location: "United Arab Emirates"
+    followers: 199263
+    engagement: 21
+    commentsToLikes: 0.006522
+    id: ckaory84wpb290i787jlko3sl
+    verified: true
+    hashtags: "#dubaifood, #uae, #junsdubai, #dubai"
+  - username: "krea_sa"
+    fullname: >-
+      K R E A by Ayesha Seedat
+    bio: >-
+      📍- 🇦🇪~🇿🇦 🌎- Shipping Handcrafted spice blends, wholesome recipes. Join us as we celebrate the love of cooking and explore the vibrant world of food.
+    location: "United Arab Emirates"
+    followers: 48646
+    engagement: 120
+    commentsToLikes: 0.023734
+    id: ck6twnxpvt3a00j718fqskzri
+    verified: false
+    hashtags: "#africanfoodie, #indianfood, #foodiesofinstagram, #foodnetwork"
   - username: "johannaacs"
     fullname: >-
       Former Miss Universe Germany
@@ -19,30 +79,6 @@ profiles:
     id: ckf5rfu5ucjet0j23ni1rpdhi
     verified: false
     hashtags: "#favoritecity, #citylife, #foodlover, #foodie"
-  - username: "joyfulhomecooking"
-    fullname: >-
-      Joyce Nicolas Mrad
-    bio: >-
-      👩🏻‍🍳Happy, healthy cooking in my Dubai kitchen 😋Beautiful food that puts a smile on your face 💗Gluten, dairy & sugar free |Vegan |Paleo 🍴Food stylist
-    location: "United Arab Emirates"
-    followers: 71920
-    engagement: 308
-    commentsToLikes: 0.077204
-    id: ck138wefhicbv0i19f898cdo1
-    verified: false
-    hashtags: "#veganinspo, #thenewhealthy, #plantbased, #foodporn"
-  - username: "lama_gharaibeh"
-    fullname: >-
-      Lama Gharaibeh
-    bio: >-
-      I find joy in cooking and baking, turning every meal with family and friends into a celebration ! Mumzworld discount code LamaG10 💓
-    location: "United Arab Emirates"
-    followers: 21589
-    engagement: 269
-    commentsToLikes: 0.257689
-    id: ck5hrufivvhzo0i11rl3ujv6r
-    verified: false
-    hashtags: "#healthyeating, #foodculture, #bakedfromscratch, #deliciousfood"
   - username: "tulika_indian_fooduae"
     fullname: >-
       bongfusion food
@@ -67,18 +103,6 @@ profiles:
     id: ck6u25wdjpwid0j712d3j24tm
     verified: false
     hashtags: "#indianfoodiesquad, #foodieofchennai, #foodsceneindia, #indianfoodlovers"
-  - username: "rolaskitchen.uae"
-    fullname: >-
-      Rola’s Kitchen
-    bio: >-
-      Rola’s Kitchen 🍽 Cooking Artist Passion is the way to success and love is the secret of flavor. Youtube link رابط اليوتيوب لقناتي :
-    location: "United Arab Emirates"
-    followers: 22407
-    engagement: 219
-    commentsToLikes: 0.206964
-    id: ck9wggt86tcnt0j78p90exchv
-    verified: false
-    hashtags: ""
   - username: "cookingwithralph"
     fullname: >-
       UAE Blogger - Ralph
@@ -91,40 +115,16 @@ profiles:
     id: ckf5nufsszq450j23yrgr1jov
     verified: false
     hashtags: "#foodstagram, #foodlover, #foodgram, #photooftheday"
-  - username: "paul_estorffe"
+  - username: "diya.nair.14"
     fullname: >-
-      Paul Estorffe
+      Diya Nair
     bio: >-
-      Brand Ambassador Château St. Thomas, Lebanese winery 🇱🇧 Communications Director - “No Fusion, No Twists, just real food” 🇬🇧👨🏼‍🍳🎂👨🏼‍🍳🇬🇧
+      Foodie|travel freak |🎬&🎼 lover|long road❤️ ✈️🇮🇳🇫🇷🇮🇷🇬🇷🇬🇪🇰🇪🇦🇲🇮🇩🇰🇬🇦🇿
     location: "United Arab Emirates"
-    followers: 6812
-    engagement: 1065
-    commentsToLikes: 0.335615
-    id: ck15rjqxy89e90i19gtpli1oo
+    followers: 16389
+    engagement: 595
+    commentsToLikes: 0.063076
+    id: ckaosarccqvzu0i7864h685if
     verified: false
-    hashtags: "#livelovebeirut, #food, #foodie, #cheesecake"
-  - username: "chefsperxos"
-    fullname: >-
-      Alexandros Pavlopoulos Sperxos
-    bio: >-
-      👨‍🍳 Founder of @efzin.ae 🇦🇪 Private Fine Dining 📱For Bookings Call +971 56 708 6518 🌎 Food consultant/ Concept Creation 🇦🇪 Based in Dubai
-    location: "United Arab Emirates"
-    followers: 47269
-    engagement: 425
-    commentsToLikes: 0.029790
-    id: ck134b1mqvkee0i19zieej2sl
-    verified: false
-    hashtags: "#uae, #menfashionstyle, #topmenstyle, #chefsofinstagram"
-  - username: "beyoutifulwith_akshatha"
-    fullname: >-
-      Akshatha Sp
-    bio: >-
-      #makeupartist #hairstylist #kannadathi Born: 19/04/1997 India 🇮🇳 Uae 🇦🇪 ♥️
-    location: "United Arab Emirates"
-    followers: 8942
-    engagement: 898
-    commentsToLikes: 0.039783
-    id: ckap4b6ux6klt0i78sjca1hdr
-    verified: false
-    hashtags: "#makeupartist, #uaekannadigas, #kannadathi, #kanji"
+    hashtags: "#mydubai, #uaemallufoodbloggers, #reelsinstagram, #keralafoods"
 ---

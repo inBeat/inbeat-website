@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In 2023
+title: Top 10 Vegan TikTok Influencers In 2024
 description: >-
-  Find top vegan TikTok influencers in 2023. Most popular hashtags: #vegan #fyp #duet #stitch.
+  Find top vegan TikTok influencers in 2024. Most popular hashtags: #vegan #fyp #duet #stitch.
 platform: TikTok
-hits: 1934
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our database holds 1934 TikTok influencers like this for you to connect with.
+hits: 1926
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 1926 TikTok influencers like this for you to pitch.
 profiles:
   - username: "luis_valerio_"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.137265
     id: ckdi698kc7kx40j23kfpcva2q
     verified: false
-    hashtags: "#stitch, #vegan, #plantbased, #leftist"
+    hashtags: "#stitch, #plantbased, #leftist, #vegan"
   - username: "sanctuaryvegan"
     fullname: >-
       Matthew Sanctuary
@@ -66,19 +66,7 @@ profiles:
     commentsToLikes: 0.401234
     id: ckavlfj1duq540j237nx3htr9
     verified: false
-    hashtags: "#mom, #davematthewsband, #floridavegan, #heal"
-  - username: "kawaiikingb"
-    fullname: >-
-      MJ Cobra
-    bio: >-
-      (๑˃ᴗ˂)◜✧˖° MJ ♡ The Banana King 👑 キラ キラ Energy 100%! 25 ☆ Bigender ☆ Vegan
-    location: "United States"
-    followers: 4459
-    engagement: 2638
-    commentsToLikes: 0.068353
-    id: ckav30jp99aym0j2355hwtnvy
-    verified: false
-    hashtags: "#foryoupage, #decora, #harajukuboy, #decorafashion"
+    hashtags: "#heal, #cats, #animallover, #nontoxic"
   - username: "giuliasabatinoo"
     fullname: >-
       giulia
@@ -91,6 +79,18 @@ profiles:
     id: ckbevm1ivf82w0j239aiiq4na
     verified: false
     hashtags: "#fyp, #duet, #greenscreen, #veganteacher"
+  - username: "victim.of.elton"
+    fullname: >-
+      Elton John
+    bio: >-
+      ❤️Eltonite❤️ 💚Vegan💚 😍Music😍 Don't be shy, follow me
+    location: "Lithuania"
+    followers: 4768
+    engagement: 1250
+    commentsToLikes: 0.092382
+    id: ckdtke4mby3il0j237m8cn4kc
+    verified: false
+    hashtags: "#fyp, #music, #john, #elton"
   - username: "renata.c.schneider"
     fullname: >-
       Renata Schneider 

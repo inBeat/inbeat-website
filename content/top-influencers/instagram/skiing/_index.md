@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skiing Instagram Influencers In 2023
+title: Top 10 Skiing Instagram Influencers In 2024
 description: >-
-  Find top skiing Instagram influencers in 2023. Most popular hashtags: #skiing #ski #railskiing.
+  Find top skiing Instagram influencers in 2024. Most popular hashtags: #skiing #mountains #nsfamous.
 platform: Instagram
-hits: 637
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 637 Instagram influencers like this for you to contact.
+hits: 650
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 650 Instagram influencers like this for you to connect with.
 profiles:
   - username: "maurocaviezel"
     fullname: >-
@@ -37,94 +37,94 @@ profiles:
     bio: >-
       Skier. 🇨🇭
     location: "Switzerland"
-    followers: 8747
-    engagement: 1719
-    commentsToLikes: 0.013873
+    followers: 9338
+    engagement: 1856
+    commentsToLikes: 0.015570
     id: ck5pw17hxklsa0i111k7j4rhf
     verified: false
-    hashtags: "#readyonthenetworkforswitzerland, #dewtour, #bringbackeuropeanopen, #swisscommoment"
-  - username: "paigelorenze"
+    hashtags: "#lafamilia, #bringbackeuropeanopen, #swisscommoment, #readyonthenetworkforswitzerland"
+  - username: "fabiostuder"
     fullname: >-
-      Paige Lorenze
+      Fabio Studer
     bio: >-
-      skier creator thrifter horse girl founder @dairyboy
-    location: "United States"
-    followers: 397859
-    engagement: 541
-    commentsToLikes: 0.004016
-    id: ck5cbvvw1g9g70i114bwb51y0
-    verified: false
-    hashtags: "#tatapartner, #inmypac, #pacsunpartner, #mkholiday"
-  - username: "fueledbyfrosting"
-    fullname: >-
-      Jen | fueledbyfrosting
-    bio: >-
-      🏋🏼‍♀️Lifter 🏃🏼‍♀️Runner 🚴🏼‍♀️Cyclist ⛷New skier 📚Reader 🥂Lover of good food + wine ♥️Happily married (22yrs) 👩🏼‍💻Coordinator of Chaos 🌲California
-    location: "United States"
-    followers: 30582
-    engagement: 116
-    commentsToLikes: 0.056999
-    id: ck5hkcqhii70v0i11yvjt30iu
-    verified: false
-    hashtags: "#weekendvibes, #mastersrunner, #keepshowingup, #summerescape"
-  - username: "rafadiazh1"
-    fullname: >-
-      R å F ā 🎲
-    bio: >-
-      ✝️ granada🌙🥀 ••••••••••••••••••••••••••••••••••••• 🌀Skier 🌀 ‼️ @nordica_spain ‼️ ‼️ @vola_racing_spain ‼️ ‼️ @energiapura.espana ‼️
-    location: "Spain"
-    followers: 2758
-    engagement: 2423
-    commentsToLikes: 0.240186
-    id: ck8szh9tcofwc0j788p6619oo
-    verified: false
-    hashtags: ""
-  - username: "kellysildaru"
-    fullname: >-
-      Kelly Sildaru
-    bio: >-
-      Skier ⛷ | 9x XGames medalist 🥇🥇🥇🥇🥇| World Champion ESIMEST KORDA PORTUGALIS SURFAMAS / FIRST TIME SURFING IN PORTUGAL - VLOG 12↓
-    location: "United States"
-    followers: 82749
-    engagement: 1163
-    commentsToLikes: 0.003747
-    id: ck0w5qzye507f0i19anyrodow
+      Skier | Video Creator | 🇦🇹 • @movementskis • @nocco.at • @montecwear ✉️ fabiostuder@gmx.at
+    location: "Germany"
+    followers: 102782
+    engagement: 893
+    commentsToLikes: 0.008127
+    id: ck0w0u0j6g1110i1907b7ub5d
     verified: true
-    hashtags: "#beach, #visittallinn, #sunday, #summer"
-  - username: "simenkruger"
+    hashtags: "#tbt, #mountains, #gopromax, #winter"
+  - username: "petravlhova13"
     fullname: >-
-      Simen Hegstad Krüger
+      Petra Vlhova
     bio: >-
-      Cross country skier from Oslo, Norway
+      Alpine skier from Slovakia🙈👉🏽❄🎿😊👍🏼girl with big dreams💪🏽🙏🏼✌🏼 Olympic Gold Medalist Beijing 2022 🥇
+    location: "Germany"
+    followers: 260457
+    engagement: 544
+    commentsToLikes: 0.004933
+    id: ck55piy9aanq00i11mo80m7at
+    verified: true
+    hashtags: "#uniqa, #vscdukla, #reusch, #komperdell"
+  - username: "thib_magnin"
+    fullname: >-
+      THIBAULT MAGNIN
+    bio: >-
+      TROPICAL WINTER Professional Skier | Olympian | Model Made In Spain & Swiss @Quiksilver @rfedinv @Movementskis @Audispain @Movistar_es @girosnow 🌴
+    location: "Switzerland"
+    followers: 69047
+    engagement: 1166
+    commentsToLikes: 0.010813
+    id: ck5c5x6vf4b4n0i11o9zvf7dt
+    verified: true
+    hashtags: "#rd, #freeskiing, #lasterrenas, #tropicalwinter"
+  - username: "screamincmon"
+    fullname: >-
+      Corey Seemann
+    bio: >-
+      Professional Big Mountain Skier Montana Realtor
+    location: "Canada"
+    followers: 9831
+    engagement: 422
+    commentsToLikes: 0.017512
+    id: ck14htinpc2620i19qkqz70s9
+    verified: false
+    hashtags: "#greatwhitenorth, #ehframe, #steepshotsandpillowdrops, #sspd"
+  - username: "jacquelinewiles"
+    fullname: >-
+      Jacqueline Wiles
+    bio: >-
+      U.S. Alpine Skier🎿, 3x Olympian 🇺🇸 Pilot & @textronaviation athlete ✈️
+    location: "Germany"
+    followers: 13288
+    engagement: 657
+    commentsToLikes: 0.027680
+    id: ck0u93kww8ufe0i193t4nopoz
+    verified: true
+    hashtags: "#southamerica, #chile, #textronaviation, #stifelusskiteam"
+  - username: "johanneshk"
+    fullname: >-
+      Johannes Høsflot Klæbo
+    bio: >-
+      27, Skier from Norway🇳🇴 5x Olympic Gold Medalist🥇 9x World Champion gold medalist🥇
     location: "Norway"
-    followers: 19426
-    engagement: 1570
-    commentsToLikes: 0.043202
-    id: ck55o6nkf7qxl0i11kokfh89m
-    verified: false
-    hashtags: "#lysebotn, #giveaway, #redster, #weareskiing"
-  - username: "langemcneal"
-    fullname: >-
-      Langely McNeal
-    bio: >-
-      Head of Community / Partner @Summit // Former World Cup Skier ⛷/ X Games Athlete
-    location: "United States"
-    followers: 5376
-    engagement: 1043
-    commentsToLikes: 0.097988
-    id: ck6tnyyvmb64j0j71thai5tio
-    verified: false
-    hashtags: "#blackouttuesday, #loveisnotcancelled, #loveinthetimeofcorona, #engaged"
-  - username: "eileen_gu_"
-    fullname: >-
-      Eileen Gu :)
-    bio: >-
-      Pro skier / Model XGAMES 🥇🥇🥉 Forbes 30 under 30 Redbull / Oakley / Faction / Beats by Dre / Anta Buy my skis⬇️
-    location: "Austria"
-    followers: 81992
-    engagement: 965
-    commentsToLikes: 0.026973
-    id: ck5q1qsvpcbjt0i1160940jej
+    followers: 442076
+    engagement: 865
+    commentsToLikes: 0.017773
+    id: ck15trlgfjjbu0i19lp7n2345
     verified: true
-    hashtags: "#halfpipe, #freeski, #extremesports, #girlswhoski"
+    hashtags: "#lade, #abilica, #kl, #morgendagenshelter"
+  - username: "tao_kreibich"
+    fullname: >-
+      Tao Kreibich
+    bio: >-
+      ONE LOVE, TWO SKIS Skier•Adventurer•Filmmaker @freerideworldtour 20/21 @head_ski @PeakPerformance @pieps_technology @levelgloves @kangpoles
+    location: "Canada"
+    followers: 46442
+    engagement: 3264
+    commentsToLikes: 0.005120
+    id: ck5zz2c9cay3p0i14r26dro5s
+    verified: false
+    hashtags: "#gobiq, #kangpoles, #skiing, #peakperformance"
 ---

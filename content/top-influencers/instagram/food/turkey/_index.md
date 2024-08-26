@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Turkey In 2023
+title: Top 10 Food Instagram Influencers In Turkey In 2024
 description: >-
-  Find top food Instagram influencers in Turkey in 2023. Most popular hashtags: #gezilecekyerler #gezgin #helpturkey.
+  Find top food Instagram influencers in Turkey in 2024. Most popular hashtags: #reklam #travel #love #davet.
 platform: Instagram
-hits: 673
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 673 Instagram influencers like this in Turkey for you to work with.
+hits: 662
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 662 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
-  - username: "monicaawidy"
+  - username: "hadleyogarro"
     fullname: >-
-      Monica Ayu W 📍 SIDOARJO
+      Hadley Ogarro
     bio: >-
-      ✨ Beauty | Food | Lifestyle 📱 Tiktok : monicaayuww 🧑‍💻 @nyehatpol | @selerakini 📣 business inq? Dm or 👇🏻 📩 monicaayuwidyani08@gmail.com
+      #InHadleyWeTrust 🌍 food, events, fits, lifestyle + travel 📧 hello@hadleyogarro.com 📍 london
     location: "Turkey"
-    followers: 4443
-    engagement: 864
-    commentsToLikes: 0.033954
-    id: ckf5mxv9rvuxm0j23k5swcw7u
+    followers: 15447
+    engagement: 835
+    commentsToLikes: 0.092943
+    id: clivee2x62kfo0j08i3hyv71x
     verified: false
-    hashtags: "#youngleaders, #matchamuhunters, #sepatucatscewek, #serumacne"
-  - username: "leconfiserie"
+    hashtags: "#celestyaljourney, #londonrestaurants, #celestyal, #wizzair"
+  - username: "asliylatarif.co"
     fullname: >-
-      Inh. Melda Muzaffer
+      Aslıhan
     bio: >-
-      📍Marktstr.12 |Oer-erkenschwick 📧business@leconfiserie.eu 📞02368 8980907 Foodblogger - Recipes ✨ Mo: Ruhetag Die-Fr: 17:00-22:00🕘 Sa | So: 16:00-22:00🕙
+      Food | mood asliylatarif@gmail.com
     location: "Turkey"
-    followers: 139796
-    engagement: 316
-    commentsToLikes: 0.016762
-    id: ck0u6m7rq2dkx0i19jf3tozfj
+    followers: 113534
+    engagement: 1282
+    commentsToLikes: 0.007805
+    id: cl3cuej674tjb0i23how05qs6
     verified: false
-    hashtags: "#coffee, #cheesecake, #cake, #leconfiserie"
-  - username: "elvin"
+    hashtags: "#havu, #yeniy, #lemoncake, #beyaz"
+  - username: "melisdilmener"
     fullname: >-
-      Elvin Levinler 🌈
+      Melis Dilmener
     bio: >-
-      ◛ elvin@thedigitalnomads.co ➵ London┆Istanbul┆Datça ♡ motivation • yoga • healthy • food • reels #travel #lifestyle #storyteller #reels ✩ new video
+      •Yaşam koçu •Content Creator | LifeStyle | Food •Annelik Sanatı Dergisi köşe yazarı 📝 •dilmenermelis@yahoo.com 📩
     location: "Turkey"
-    followers: 1185764
-    engagement: 120
-    commentsToLikes: 0.016211
-    id: ck15uwgu4ou830i19ej5guzkx
+    followers: 419093
+    engagement: 400
+    commentsToLikes: 0.003466
+    id: ck8sz15dsmsg70j78dyfir6ag
+    verified: false
+    hashtags: "#diorbeauty, #love, #reklam, #ak"
+  - username: "gursmehmet"
+    fullname: >-
+      Mehmet Gürs
+    bio: >-
+      Official Account Chef&Food Entrepreneur
+    location: "Turkey"
+    followers: 121120
+    engagement: 313
+    commentsToLikes: 0.011088
+    id: ck6ts2e0h2d7t0j71e3uv99j0
     verified: true
-    hashtags: "#relatable, #yogapractice, #trendingreels, #mymarks"
-  - username: "orasiseninburasibenim"
+    hashtags: "#creativity, #uzaktaneg, #designinspiration, #film"
+  - username: "nisaerdem"
     fullname: >-
-      Gizem Yüksel
+      Nisa Erdem Özkaya
     bio: >-
-      Milliyet Tatil Yazarı✍🏼 Travel | Lifestyle | Food Blog⬇️ California Road Trip yayında⬇️
+      Food🍴 Travel 🎒 Nature🌿 📍Based in İstanbul 📩 bitmeyenkesif@gmail.com
     location: "Turkey"
-    followers: 28195
-    engagement: 399
-    commentsToLikes: 0.062709
-    id: ck9wfvjrmqogg0j7814abqbqs
+    followers: 105079
+    engagement: 303
+    commentsToLikes: 0.010085
+    id: ck5q2d9onffug0i11ngqnzbuj
     verified: false
-    hashtags: "#travellifev, #hamileanneler, #wanderluster, #yolacikyolacik"
-  - username: "gulsahsenalpsevinc"
+    hashtags: "#butikotel, #go, #tu, #tbilisigeorgia"
+  - username: "hatibon"
     fullname: >-
-      𝗚𝘂𝗹𝘀𝗮𝗵 𝗦𝗲𝗻𝗮𝗹𝗽 𝗦𝗲𝘃i𝗻𝗰
+      Hatibon
     bio: >-
-      🌏Travel / 🍽🥤Food&Drink /YouTube JoyfulCampers/ PR:gulsahsenalp@gmail.com
+      Chef/co-owner @ilmulinobodrum Food blogger • Sweet tooth 🥖🍔🧁🥧🍰🍫🍨🍞🍕🥪🍩 İŞBİRLİKLERİ İÇİN DM/e-mail
     location: "Turkey"
-    followers: 15021
-    engagement: 649
-    commentsToLikes: 0.051012
-    id: ckaoyf7emh9pn0i78g75bpriq
+    followers: 38987
+    engagement: 271
+    commentsToLikes: 0.044350
+    id: ck8tavbnft7tk0j788agqqthr
     verified: false
-    hashtags: "#youtube, #gezginler, #karavanturkiye, #hu"
-  - username: "tuceyildrm"
+    hashtags: "#limonlutart, #tarteauxfraises, #po, #zerde"
+  - username: "nornek"
     fullname: >-
-      Tuçe y.g
+      Nilay Örnek
     bio: >-
-      Fashion | Lifestyle | Beauty Food engineer and chemist 📍İzmir 💌yildirim.tuce@gmail.com / dm @girisimcikadinlargrubu
+      #Journalist ~ #Art- #Food- #Travel lover ~ #Enthusiast Books: 📚@butuniyilerbirazkuskundur 📚& 🏠@herumutortakarar 🎧 #podcast Nasıl Olunur?
     location: "Turkey"
-    followers: 114309
-    engagement: 51
-    commentsToLikes: 0.075819
-    id: ck14hmkmhb2tb0i19x6v60e72
-    verified: false
-    hashtags: "#dream, #helpturkey, #turkeyisburning, #adrasan"
-  - username: "tugbatunckaya"
+    followers: 193992
+    engagement: 256
+    commentsToLikes: 0.015630
+    id: ck139kvugltin0i19dixaql3i
+    verified: true
+    hashtags: "#storytel, #nornekjapan, #nornekjaponya, #itunes"
+  - username: "ozanaras"
     fullname: >-
-      Tuğba Tunçkaya Denizöz
+      Ozan Aras
     bio: >-
-      Lifestyle , Fashion , Beauty , Mom . @tugbatunckaya #blogger #lifestyle #mom #beauty #fashion #food #baby 📩 tunckayatugba@gmail.com
+      Seyahat & Yemek | 4 Kıta 🌍 Travel & Food
     location: "Turkey"
-    followers: 304469
-    engagement: 171
-    commentsToLikes: 0.016479
-    id: ck9wonm9e5utz0j785ljj2f08
+    followers: 142564
+    engagement: 253
+    commentsToLikes: 0.020379
+    id: ck0u63e3n0x980i19zcgss8c3
     verified: false
-    hashtags: "#look, #ootd, #helpturkey, #me"
-  - username: "ecemarda_"
+    hashtags: "#dat, #fethiye, #ka, #mu"
+  - username: "asya_emhan"
     fullname: >-
-      Ecem Arda
+      Asya Emhan
     bio: >-
-      Food and tableware stylist | Mom’s journal Ela’nın oyuncakları listesi:
+      Founder @atelieriz 👜 Fashion,Food,Travel,Digital Creator 📮İletisim📩asyaemhan9@gmail.com ✍🏻 @favorilezzetlercom Yazarı @eventmag Private club📍
     location: "Turkey"
-    followers: 31334
-    engagement: 927
-    commentsToLikes: 0.415851
-    id: ck5zpiffhsqap0i147bqk7cju
+    followers: 293748
+    engagement: 239
+    commentsToLikes: 0.004682
+    id: ck8t095i6r9450j78boyeei72
     verified: false
-    hashtags: "#hmbringonthefuture, #goodnightkiss, #ecorecycle, #annelik"
-  - username: "gezginonerisi"
+    hashtags: "#davet, #mekan, #tavsiye, #reklam"
+  - username: "duygusirkinti"
     fullname: >-
-      Zeynep
+      Duygu Sırkıntı
     bio: >-
-      Gezgin Gözüyle Ürün| Mekan | Gezi önerileri -Travel & Food & Lifestyle -İletişim: DM & gezginonerisi@gmail.com
+      foodengineer 👩‍🔬 #traveler & #fashionlover 🌍✈👗👠💄👜 sociallatin & tango 💃& yoga 🧘‍♀️ &🏋‍♀️🏊🏻‍♀️🏃‍♀️🚴‍♀️🤸‍♀️ collaboration 👉🏻Dm İstanbul📍
     location: "Turkey"
-    followers: 183625
-    engagement: 145
-    commentsToLikes: 0.011431
-    id: ck8tbfw6yvi1w0j785lowufpc
+    followers: 12303
+    engagement: 232
+    commentsToLikes: 0.074447
+    id: ckap6ntsdgomq0i78eai70fnp
     verified: false
-    hashtags: "#kapadokya, #cappadociaturkey, #kapadokyaturu, #cappadocia"
-  - username: "asma_boukhris"
-    fullname: >-
-      Dr. Asma Boukhris
-    bio: >-
-      Docteur en Archéologie ⛏🔦 Studied @ FSHST #love #life #positivevibes #positiveenergy #be #yourself ❤ Outfits 👠 foods 🍔 beauty 👄
-    location: "Turkey"
-    followers: 75920
-    engagement: 122
-    commentsToLikes: 0.041162
-    id: ck6tty8zsd8tk0j71g93ll1vo
-    verified: false
-    hashtags: "#goodvibes, #happy, #love, #tunisie"
+    hashtags: "#microinfluencer, #photography, #influencer, #red"
 ---

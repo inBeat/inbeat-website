@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Montreal in 2023
+title: Top 10 Cosmetics Instagram Influencers In Montreal In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Montreal in 2023. Most popular hashtags: #makeupartist #makeup #makeuplooks.
+  Find top cosmetics Instagram influencers in Montreal in 2024. Most popular hashtags: #makeupartist #makeup #makeuptutorial.
 platform: Instagram
-hits: 8
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 8 Instagram influencers like this in Montreal, Canada for you to pitch.
+hits: 7
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 7 Instagram influencers like this in Montreal, Canada for you to connect with.
 profiles:
-  - username: "gabiliciousxsx"
+  - username: "natalielovesbeauty"
     fullname: >-
-      𝐠𝐚𝐛𝐢𝐥𝐢𝐜𝐢𝐨𝐮𝐬𝐱𝐬𝐱 🖤|𝑀𝒶𝓀𝑒𝓊𝓅 𝒜𝓇𝓉𝒾𝓈𝓉
+      ᴡᴡᴡ.ɴᴀᴛᴀʟɪᴇʟᴏᴠᴇꜱʙᴇᴀᴜᴛʏ.ᴄᴏᴍ
     bio: >-
-      💌 DM for business & pr 💖 Tiktok & Twitter : gabiliciousxsx 💕 Self Taught MUA 💋 📍🇨🇦 Montreal Discount codes in highlights 🤑⬇️
+      By @nataliejerebic ✧ skincare nut ✧ plant-based ✧ dog mom ▹ montreal, canada 🇨🇦 ▹ partnerships » natalielovesbeauty@gmail.com ↡ blog • youtube ↡
     location: "Canada"
-    followers: 9100
-    engagement: 908
-    commentsToLikes: 0.152151
-    id: ck5bu5ibeh70r0i11pv62kfct
+    followers: 39101
+    engagement: 538
+    commentsToLikes: 0.051934
+    id: cl5j74izx70zq0i2346r8topw
     verified: false
-    hashtags: "#ttdeye"
-  - username: "davidkidd_portfolio"
+    hashtags: "#kravebeauty, #ad, #kbpartner, #ontheblog"
+  - username: "sandy_fung"
     fullname: >-
-      🦉David Kidd | Photographer🦉
+      Sandy Fung
     bio: >-
-      🌿@davidkidd 🌿 🌹Montreal,Canada 🌹 📍 now in montreal 📍 |199X|Dm📥| pour 🍇infos Et booking🍇 ✨Audition⬇️Iconly✨
+      📍 Montréal | Canada 🖤 Motherhood | Beauty | Lifestyle 🖤 Mom of 3 boys 🖤 Escouade Véro @magazine_vero 📧 Fung.sandy@hotmail.com
     location: "Canada"
-    followers: 8079
-    engagement: 563
-    commentsToLikes: 0.075280
-    id: ck5ciu4n9tdjh0i11bg2j10aa
+    followers: 12318
+    engagement: 422
+    commentsToLikes: 0.088050
+    id: cksj7gjvucceo0j2397wltqeq
     verified: false
-    hashtags: "#model, #montrealphotos, #hat, #tattoos"
-  - username: "victoriagravel"
-    fullname: >-
-      Victoria
-    bio: >-
-      Montreal. At your best you are love.
-    location: "Canada"
-    followers: 5402
-    engagement: 814
-    commentsToLikes: 0.030622
-    id: ck5zqts9tv9z20i14m3cchho2
-    verified: false
-    hashtags: "#getnastygal"
+    hashtags: "#momsquadqc, #montrealblogger, #momof3, #wednesdaymotivation"
   - username: "mariagrxms"
     fullname: >-
       Maria Helena
     bio: >-
-      19 | Freelance makeup artist | Montreal She/they #inthehaus
+      20 | Montreal Syrian and Lebanese (L)gbtq 💗 Tiktok - mariagrxms #inthehaus
     location: "Canada"
-    followers: 4441
-    engagement: 1265
-    commentsToLikes: 0.087155
+    followers: 4922
+    engagement: 1838
+    commentsToLikes: 0.101430
     id: ck15rds1b7ffx0i19p0jhmlls
     verified: false
-    hashtags: "#neoakeup, #myartistcommunity, #tutorial, #theartistedit"
-  - username: "diutoajoku"
+    hashtags: "#graphicliner, #colourpopme, #inthehaus, #makeupart"
+  - username: "aj.makeup"
     fullname: >-
-      Diuto Ajoku (리아)
+      Montreal makeup artist
     bio: >-
-      • 🙏🏾Jesus is my King❤️❤️ • @cocobayhair • Fashion/Hair stylist | Makeup Artist • Email👇🏾 • 🎥129k YT munchkins •📍Montreal🇨🇦 • New video👇🏾
+      PRO MAKEUP ARTIST BEAUTY & BRIDAL SPECIALIST✨ +beauties @ajbeautystudio Collab Click email below for makeup Bookings https://ajmakeup.ca
     location: "Canada"
-    followers: 55214
-    engagement: 1392
-    commentsToLikes: 0.045004
-    id: ck6u0t4yihm150j713a6z3doq
+    followers: 17949
+    engagement: 319
+    commentsToLikes: 0.070562
+    id: ckq6b06jbigox0j23bi50s8eh
     verified: false
-    hashtags: "#makeupforwoc, #melaningoddess, #leatherjackets, #montrealhairdresser"
-  - username: "minaj.mp"
+    hashtags: "#montrealmakeup, #montrealmakeupartist, #mtlmua, #montreal"
+  - username: "ayesha.azeem"
     fullname: >-
-      ♏️inajmp💮
+      Canadianpardesi #TorontoBlogger
     bio: >-
-      Stylist~Model~Beauty pro~Vlogger I can’t teach anybody anything,I can only make them think.♻️👩‍❤️‍💋‍👨 🔒@pouria_roozitalab Model @unik.models
+      A Pardesi Stuck between Espresso & Kadak Chai☕️ مگر عشق ہے اردو زباں کا Immigrant & #autismparent Journey Learn @buildyourbrandwithayeshaazeem
     location: "Canada"
-    followers: 59018
-    engagement: 273
-    commentsToLikes: 0.095481
-    id: ckaotndqcwn0x0i78myma80eh
+    followers: 32063
+    engagement: 205
+    commentsToLikes: 0.161867
+    id: cks8aqhfdupxt0j23sp84duq8
     verified: false
-    hashtags: "#modeling, #fashionphotography, #love, #fashion"
-  - username: "goldenbeauty_xo"
+    hashtags: "#monthlyexpenses, #canadianpakistani, #montrealquebec, #immigrantstories"
+  - username: "chanelvaldezmakeup"
     fullname: >-
-      Beauty Blogger ✨
+      Chanel Valdez
     bio: >-
-      G O L D E N B E A U T Y 💄 | Beauty blogger/Content creator 💌 | PR/Bookings: goldsbeaut@gmail.com 📍 | Toronto, Canada @topsface_official goldenbeauty
+      Private Makeup Studio | Available for Travel Bridal - Glam - Photoshoot - Education For Makeup Bookings — info@chanelvaldez.com
     location: "Canada"
-    followers: 9431
-    engagement: 557
-    commentsToLikes: 0.247765
-    id: ck8t2jgyezqav0j78ulh5rweh
+    followers: 7231
+    engagement: 236
+    commentsToLikes: 0.035980
+    id: ckq6b06qxigvx0j23o68nmkx3
     verified: false
-    hashtags: "#toofaced, #hudabeautyshop, #hudabeautymeltedshadows, #hudabeautyfoundation"
-  - username: "len_goldberg"
+    hashtags: "#bridalmakeup, #mtlmua, #ottawamakeupartist, #montrealmakeup"
+  - username: "mandy_sparkleshinylove"
     fullname: >-
-      Len
+      Mandy Furnis
     bio: >-
-      🔳Speak out for animals
+      📍Whitby Indiscriminate Shopper | Food Enthusiast | Fab Mom | Beauty Lover | Travel Junkie ✈️ Next ➡️ Martha’s Vineyard | Bahamas
     location: "Canada"
-    followers: 5591
-    engagement: 812
-    commentsToLikes: 0.081688
-    id: ck137dq7zb16p0i190rz3ze22
+    followers: 32015
+    engagement: 5
+    commentsToLikes: 0.000000
+    id: ck0ttgoiz2mzh0i19heoll485
     verified: false
-    hashtags: "#peta, #nycvegan, #billieeilish, #animalrights"
-  - username: "nouhaila_ytb"
+    hashtags: "#marthasvineyard, #marthasvineyardlife, #summerstyle, #summer"
+  - username: "dr.bimesl"
     fullname: >-
-      Nouhaïla 💕
+      Hamid Bimesl
     bio: >-
-      Founder & ceo @noha_cosmetics ✨ Content creator & beauty expert 🌸 My Youtube Channel (400k of beauties) 📽
+      🇨🇦Medical Director @ucclinic 🩺G.P practicing in Cosmetic Dermatology 💉Board Certified Doctor from AAOPM 🎓 Associated Clinical Professor IUHS
     location: "Canada"
-    followers: 327958
-    engagement: 993
-    commentsToLikes: 0.030531
-    id: ck6uc606cdq5f0j712nt83wz7
+    followers: 195605
+    engagement: 2079
+    commentsToLikes: 0.022316
+    id: ckaoqz7f3l0fz0i78w8nd9ihr
     verified: false
-    hashtags: ""
-  - username: "shanzeyl"
+    hashtags: "#1399"
+  - username: "its.pariyaa"
     fullname: >-
-      Shanzeyl
+      Pariya Samadi
     bio: >-
-      📍↦Toronto ✈️↦Between highways & airspace 🍜↦Ramen Connoisseur 💉↦Cosmetic Injector 🏝️↦Wanderluster 💍↦@h.h.ridawi
+      PhD Candidate 💊💉 📍🇨🇦 ‏ Side Passion(Stylist/Designer): @luxiya.design My formulated beauty/cosmetics, Soon: @luxiya.beauty
     location: "Canada"
-    followers: 6556
-    engagement: 849
-    commentsToLikes: 0.343182
-    id: ck6014byzeta20i14aomerlpt
+    followers: 41447
+    engagement: 355
+    commentsToLikes: 0.039017
+    id: ck602s7f7iv1h0i14h3g5rmee
     verified: false
-    hashtags: "#anastasiabeverlyhills, #giveaway, #hudabeauty, #sephoracanada"
+    hashtags: "#makeuplook, #style, #stylist, #kavyarofficial"
+  - username: "doctormoon.1"
+    fullname: >-
+      Mahnaz Farid Talebnia
+    bio: >-
+      Tehran University of Medical Science🩺 Founder,Doctormoon Aesthetics & Cosmetics Skin🍑Hair👩Health💚lifestyle 👨‍👩‍👦‍👦 ✉️هماهنگی @doctormoon.2
+    location: "Canada"
+    followers: 1314528
+    engagement: 438
+    commentsToLikes: 0.050034
+    id: ck8t3hsrz3cmn0j78loflb7as
+    verified: false
+    hashtags: "#richmondhill"
 ---

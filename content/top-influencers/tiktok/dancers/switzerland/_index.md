@@ -1,24 +1,12 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Switzerland In 2023
+title: Top 10 Dancers TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top dancers TikTok influencers in Switzerland in 2023. Most popular hashtags: #viral #trend #fyp #dance.
+  Find top dancers TikTok influencers in Switzerland in 2024. Most popular hashtags: #viral #trend #foryou #dance.
 platform: TikTok
-hits: 16
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine holds 16 TikTok influencers like this in Switzerland for you to contact.
+hits: 18
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 18 TikTok influencers like this in Switzerland for you to work with.
 profiles:
-  - username: "soleil_fatima"
-    fullname: >-
-      soleil_fatima
-    bio: >-
-      Instagram: soleil_fatima - Dogmam 🐶 positiv and fit 🤸🏻‍♀️over50 - Dancer 💃🏻
-    location: "Switzerland"
-    followers: 8218
-    engagement: 676
-    commentsToLikes: 0.053717
-    id: ckbfbafnj36t70j23zpx9xo5k
-    verified: false
-    hashtags: "#vlogtime, #fitover50women, #snowboardgirl, #australianshepherd"
   - username: "meli.zmx"
     fullname: >-
       ♡𝐌𝐞𝐥𝐚𝐧𝐢𝐞♡
@@ -66,7 +54,7 @@ profiles:
     commentsToLikes: 0.047158
     id: ck8nkog36g5g90j789dbvyef5
     verified: true
-    hashtags: "#trend, #dance, #dsds2021, #foryou"
+    hashtags: "#trend, #dsds2021, #foryou, #fyp"
   - username: "kevnkev"
     fullname: >-
       K.K
@@ -85,12 +73,12 @@ profiles:
     bio: >-
       Singer ✨ Dancer Insta: zazou_official Business Inquiries : zazou@divimove.com
     location: "Switzerland"
-    followers: 52800
-    engagement: 811
-    commentsToLikes: 0.011054
+    followers: 52600
+    engagement: 803
+    commentsToLikes: 0.011277
     id: ck8ncuuy7g2710j789zcbat3e
     verified: false
-    hashtags: "#trending, #fyp, #moviescene, #acting"
+    hashtags: "#trending, #moviescene, #funny, #acting"
   - username: "blendimustafa04"
     fullname: >-
       Blendi
@@ -107,14 +95,26 @@ profiles:
     fullname: >-
       👑Aurora👑
     bio: >-
-      Aurora, 19 y/o 🧨Trend maker 🧨 Stay ready😍 Road to 18k?😍 IG: _aurorab.x_
+      Aurora, 20 y/o 🧨Trend maker 🧨 Stay ready😍 Road to 18k?😍 IG: _aurorab.x_
     location: "Switzerland"
-    followers: 17200
-    engagement: 1561
-    commentsToLikes: 0.101243
+    followers: 17100
+    engagement: 1623
+    commentsToLikes: 0.111705
     id: ckcvgj6jrsxxb0j23up6uh9jv
     verified: false
-    hashtags: "#dancechallenge, #trend, #2021, #tiktokdeutschland"
+    hashtags: "#dancing, #working, #dancechallenge, #dance"
+  - username: "andii.schwegler"
+    fullname: >-
+      ANDII🇨🇭SCHWEGLER
+    bio: >-
+      🇨🇭Gründer von👇🇨🇭 👉#tiktokertriffttiktoker👈 #TheOwlFamily🦉
+    location: "Switzerland"
+    followers: 41800
+    engagement: 2894
+    commentsToLikes: 0.496673
+    id: ckbko1hf1i4z90j23lffq1szm
+    verified: false
+    hashtags: "#dance, #funny, #malemodel, #selfmade"
   - username: "x_.emilya._x"
     fullname: >-
       ℝ𝕠𝕓𝕝𝕠𝕩🙈

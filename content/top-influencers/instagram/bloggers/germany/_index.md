@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Germany In 2023
+title: Top 10 Bloggers Instagram Influencers In Germany In 2024
 description: >-
-  Find top bloggers Instagram influencers in Germany in 2023. Most popular hashtags: #instafashion #fashionblogger #urlaub #fashioninspo.
+  Find top bloggers Instagram influencers in Germany in 2024. Most popular hashtags: #interior #fashionblogger #ootd #streetstyle.
 platform: Instagram
-hits: 1895
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 1895 Instagram influencers like this in Germany for you to connect with.
+hits: 1881
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 1881 Instagram influencers like this in Germany for you to work with.
 profiles:
+  - username: "anjaschuschu"
+    fullname: >-
+      Anja Gasser 🌙 interior | food | fashion | beauty | momlife
+    bio: >-
+      made in switzerland 🇨🇭 doing this blogger thing since 2010 info@schuschublog.com
+    location: "Germany"
+    followers: 16515
+    engagement: 511
+    commentsToLikes: 0.339837
+    id: ck5zy0dj48zzz0i14m083yzb9
+    verified: false
+    hashtags: "#travelblogger, #fashionista, #ikeaxschuschu, #blogger"
   - username: "thedollzter"
     fullname: >-
       دُلي ديب | Dolly Dib
     bio: >-
-      ✈️Jordan-Based Travel Blogger 🤷‍♀️I love traveling and food, but who doesn't 💥TikTok: thedollzter أفضل جدول سياحي ليوم في فيينا👇
+      ✈️Jordan-Based Travel Blogger 🤷‍♀️I love traveling and food, but who doesn't 💥TikTok: thedollzter أفضل مدونة لقضاء أسبوع في جورجيا👇
     location: "Germany"
-    followers: 283566
-    engagement: 630
-    commentsToLikes: 0.011718
+    followers: 407603
+    engagement: 671
+    commentsToLikes: 0.013418
     id: ck5camk5kdozz0i11o587u5hv
     verified: false
-    hashtags: "#womentravel, #jordanien, #beamman, #ammanstylez"
-  - username: "howimetmyoutfit"
-    fullname: >-
-      Dana Lohmüller
-    bio: >-
-      How I met my outfit | Cologne 🇩🇪 🖤 lifestyle blogger since 2014 💌 info@howimetmyoutfit.de Fashion | Drinks | Food
-    location: "Germany"
-    followers: 115673
-    engagement: 55
-    commentsToLikes: 0.163879
-    id: ck14lk7siv3vk0i19gj4qqo96
-    verified: false
-    hashtags: "#adventskalendergewinnspiel, #genussmoment, #gewinnspiel, #adventsverlosung2022"
-  - username: "alexandralapp"
-    fullname: >-
-      Alexandra Lapp
-    bio: >-
-      Entrepreneur, columnist, blogger & influencer - love sharing my passion for fashion, interior, beauty, travel & lifestyle. 📩 contact@alexandralapp.com
-    location: "Germany"
-    followers: 415924
-    engagement: 57
-    commentsToLikes: 0.157463
-    id: ck0u05hbzsnuc0i19bj1p7ibh
-    verified: true
-    hashtags: "#ootd, #bestof2022, #trending, #reels"
-  - username: "marlenesleben"
-    fullname: >-
-      Marlene
-    bio: >-
-      ⛺Munich/Germany 😊nature, photography & adventure 💰Blogger @homeoftravel.de 🎓Media & Communication Management 📧info@marlenesleben.de
-    location: "Germany"
-    followers: 57807
-    engagement: 650
-    commentsToLikes: 0.031080
-    id: ck0vzbqcu8b420i19abusygje
-    verified: false
-    hashtags: "#visitaustria, #lovetirol, #wanderung, #stayandwander"
-  - username: "susamamma"
-    fullname: >-
-      susa paul | creator bonn
-    bio: >-
-      mädchen mama | jungs zwillingsmama | wifey | blogger | photo artist © susamamma.de #susamammaselfie - no photographer, no problem ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-    location: "Germany"
-    followers: 21694
-    engagement: 558
-    commentsToLikes: 0.102829
-    id: ck14h7b9l8wc30i1984zdvot8
-    verified: false
-    hashtags: "#zwillinge, #susamammanrw, #zwillingsmama, #bonn"
-  - username: "grimm_patricia"
-    fullname: >-
-      Patricia G.
-    bio: >-
-      📷📹 Bestager-Model 🇩🇪 Germany 🎬 Commercial 👗Mode-Blogger 📍Hamburg - Stuttgart ❤️ Fashion - Beauty - Lifestyle - Travel
-    location: "Germany"
-    followers: 20793
-    engagement: 532
-    commentsToLikes: 0.301864
-    id: ck15r3zah612z0i19gy00ter9
-    verified: false
-    hashtags: "#thankful, #agelessstyle, #photooftheday, #mango"
+    hashtags: "#paros, #greece, #amman, #lebanon"
   - username: "anja_fee"
     fullname: >-
-      Anja Fee OFFICIAL
+      Anja Federwisch
     bio: >-
-      equestrian blogger based in Germany 💜 Haflinger Sam 💫 TikTok & YouTube ANJA_FEE Business inquires via E-mail 📧
+      Equestrian blogger based in Germany 🇩🇪 Sam🦄 & Blue🐻‍❄️ TikTok & YouTube: ANJA_FEE Podcast @achtung_pfeerd Founder of my brand @equifeever
     location: "Germany"
-    followers: 140239
-    engagement: 923
-    commentsToLikes: 0.038780
+    followers: 264829
+    engagement: 598
+    commentsToLikes: 0.082975
     id: ck13a98ysp96s0i191iarcodi
     verified: false
-    hashtags: "#dressurpferd, #pferdeliebe, #reitsport, #horsefriends"
-  - username: "marina_jkm"
+    hashtags: "#pferd, #reiten, #horse, #haflinger"
+  - username: "mubiix"
     fullname: >-
-      HAVING A LOVELY TIME
+      MUBI IDRIESS 🌪️🥷🏾
     bio: >-
-      Möchtegern #fashion und #fitness Blogger ab und zu auch #food 🤍 21 yo 📍 germany, hamburg 👻 snap: marina_yes
+      • Streetwear & Fashion Blogger • Daily Outfit Inspos • Germany 📍 ⬇️ All my looks here ⬇️
     location: "Germany"
-    followers: 9470
-    engagement: 855
-    commentsToLikes: 0.078179
-    id: ckap83avamn2u0i780jx0ns5v
+    followers: 280525
+    engagement: 1070
+    commentsToLikes: 0.018618
+    id: ck0tvfd42b45x0i191m6nvvfi
     verified: false
-    hashtags: "#lieferdienst, #glitter, #burgerdelivery, #burgerme"
-  - username: "lourenegoll"
+    hashtags: "#strwrde, #streetstyled, #zalandostyle, #lakecomo"
+  - username: "olecordsen"
     fullname: >-
-      FASHION | TRAVEL | LIFESTYLE
+      Ole Cordsen
     bio: >-
-      💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎 🇩🇪 Fashion Blogger / Actress ✉️ Business Email: lourene@moonvibe.com 🏡 Located: ERK/CGN 📍 Next: 🇫🇷
+      The earth without art is just eh. Creative nonsense and photos. Awarded German food blogger of the year 2023 with @nimmersatt.blog at @goldeneblogger
     location: "Germany"
-    followers: 164275
-    engagement: 437
-    commentsToLikes: 0.038288
-    id: ck15r05pt5hac0i19n06t6mha
+    followers: 5170
+    engagement: 1166
+    commentsToLikes: 0.277765
+    id: ckaoty6eky13w0i787ji6o53f
     verified: false
-    hashtags: "#blogger, #fashioninspo, #outfitinspo, #ootdfashion"
-  - username: "maja_marich"
+    hashtags: "#pr0ject, #themysterypr0ject, #artistry, #visualambassadors"
+  - username: "marcel_lo_loca"
     fullname: >-
-      #misusovo 🍭
+      Marcel Hobrath "Uncle Benz"
     bio: >-
-      ✖️Mother • Cynic • Blogger 🍸 ✖️Croatian in Germany 📍 ✖️Blog 🖋 misusovo.com ✖️Youtube 🎥 Maja & Morana
+      》 Share my Passion and Pictures with the Star 》 CL55 AMG and C Coupé 》 Blogger, Photographer
     location: "Germany"
-    followers: 12761
-    engagement: 1167
-    commentsToLikes: 0.037350
-    id: ckap5t0m2d1jg0i78vamipczc
+    followers: 52610
+    engagement: 826
+    commentsToLikes: 0.028859
+    id: ck14jtm9ym4gk0i193vkxrsbp
     verified: false
-    hashtags: "#monschau, #majaimorana, #tibor, #lockdown2021"
+    hashtags: "#55amg, #cl55, #benzamg, #benzlife"
+  - username: "our.homeliving"
+    fullname: >-
+      Sandra | Interior & Lifestyle
+    bio: >-
+      🙋🏾‍♀️ Blogger | Stylist | Creator 🏛 Hamburg based ✉️ our.homeliving@web.de
+    location: "Germany"
+    followers: 131036
+    engagement: 407
+    commentsToLikes: 0.078854
+    id: clmizkqmhiq1u0j085s9ag0ow
+    verified: false
+    hashtags: "#danishdesign, #hygge, #mynordichome, #homedesign"
+  - username: "lennartmarlon_"
+    fullname: >-
+      Lennart Marlon Flottemesch
+    bio: >-
+      Dirty31 german 🦁 Founder of @lennartmarlon_thelabel Blogger/Actor based #Berlin #Düsseldorf #lifestyle #beauty #dogdad #interior #fashion
+    location: "Germany"
+    followers: 94319
+    engagement: 1110
+    commentsToLikes: 0.003826
+    id: ck0vyxyhp6c1e0i19v126mv0z
+    verified: false
+    hashtags: "#travel, #home, #healing, #flightattendant"
+  - username: "whisky_munich"
+    fullname: >-
+      Davide Ansalone | Blogger, Photographer and independent bottler
+    bio: >-
+      🥃 Whisky Blogger | 📸 Photographer | Scotch Single malt lover 🥃 🌍 Let’s explore the world of whisky 👇Follow and join my whisky journey 🔥
+    location: "Germany"
+    followers: 125996
+    engagement: 1236
+    commentsToLikes: 0.039797
+    id: ck6001l8vcslv0i14xpdjsq8j
+    verified: false
+    hashtags: "#dutyfree, #whiskygram, #singlemalt, #skye"
+  - username: "anetas_leben"
+    fullname: >-
+      Aneta Bruestle | DIY | Interior
+    bio: >-
+      Autorin von „MANUFAKTURA“ ▪️DIY Blogger ▪️Interior 🏆Award 2022 „Top Trend“ Schöner wohnen Farbe ✉️r.bruestle@media24all.de Impressum im Blog
+    location: "Germany"
+    followers: 683262
+    engagement: 387
+    commentsToLikes: 0.028049
+    id: ck5q5nswytpkv0i11ao6a9zne
+    verified: false
+    hashtags: "#gardening, #gartengestaltung, #kinderzimmerideen, #ikeahome"
 ---

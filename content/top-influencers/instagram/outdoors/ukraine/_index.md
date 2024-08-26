@@ -1,11 +1,11 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Ukraine In 2023
+title: Top 10 Outdoors Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top outdoors Instagram influencers in Ukraine in 2023. Most popular hashtags: #photooftheday #fun #water #ukraine.
+  Find top outdoors Instagram influencers in Ukraine in 2024. Most popular hashtags: #travel #love #smile #water.
 platform: Instagram
 hits: 10
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 10 Instagram influencers like this in Ukraine for you to work with.
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat has 10 Instagram influencers like this in Ukraine for you to pitch.
 profiles:
   - username: "a.rashkovetskiy"
     fullname: >-
@@ -91,6 +91,18 @@ profiles:
     id: ck13585uz06gt0i193iugcrp9
     verified: false
     hashtags: "#lakelife, #tourtheplanet, #theglobewanderer, #travelawesome"
+  - username: "sembler8"
+    fullname: >-
+      Man from Earth 🌎
+    bio: >-
+      🌎 Digital Nomad. YouTuber. Full time traveler. 🚁 Filmmaker. FPV pilot. 📍Bali 🦅 My drones kit 👇
+    location: "Ukraine"
+    followers: 265624
+    engagement: 138
+    commentsToLikes: 0.023754
+    id: ck0vwrtwxvaf10i19qtph17py
+    verified: false
+    hashtags: "#travel, #bestdestinations, #filmmaker, #earthpix"
   - username: "annagirm"
     fullname: >-
       A.n.n.a G.i.r Malowany 🌺
@@ -103,18 +115,6 @@ profiles:
     id: ck0tyggvvmppp0i19v8scrgo5
     verified: false
     hashtags: "#smile, #happygirl, #enjoyinglife, #cheers"
-  - username: "lanaato"
-    fullname: >-
-      SLEEPLESS MAMA ON THE RUN ®
-    bio: >-
-      Lana Ato 🇺🇦 It’s H•A•P•P•Y here 💚 📸 Content creator. Kids whisperer 👯 Vegan parenting ♥️ Ukrainian + Nigerian family⠀⠀⠀⠀⠀⠀ 📧 svitlanaato@gmail.com
-    location: "Ukraine"
-    followers: 108544
-    engagement: 40
-    commentsToLikes: 0.298838
-    id: ck15qhmp12vtw0i195tjzgrvy
-    verified: false
-    hashtags: "#texasblogger, #kidsootd, #homedecorinspo, #homedecorideas"
   - username: "yuri.bugayov"
     fullname: >-
       Wedding and Lifestyle 📸

@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Bogotá In 2023
+title: Top 10 TikTok Influencers In Bogotá In 2024
 description: >-
-  Find top TikTok influencers in Bogotá in 2023. Most popular hashtags: #parati #colombia #foryoupage.
+  Find top TikTok influencers in Bogotá in 2024. Most popular hashtags: #parati #foryoupage #colombia.
 platform: TikTok
-hits: 93
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 93 TikTok influencers like this in Bogotá, Colombia for you to collaborate.
+hits: 94
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 94 TikTok influencers like this in Bogotá, Colombia for you to connect with.
 profiles:
   - username: "angelavela100"
     fullname: >-

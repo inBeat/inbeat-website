@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers TikTok Influencers In Canada In 2023
+title: Top 10 Bakers TikTok Influencers In Canada In 2024
 description: >-
-  Find top bakers TikTok influencers in Canada in 2023. Most popular hashtags: #cake #baker #baking #cakedecorating.
+  Find top bakers TikTok influencers in Canada in 2024. Most popular hashtags: #cake #baker #baking #cakedecorating.
 platform: TikTok
 hits: 80
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our database holds 80 TikTok influencers like this in Canada for you to collaborate.
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our platform has 80 TikTok influencers like this in Canada for you to pitch.
 profiles:
   - username: "letterpressbakery"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.039293
     id: ck8uflh9l26ux0j788bak4nn2
     verified: false
-    hashtags: "#desserttiktok, #tiktokggt, #chocolatelover, #myfuturethanksme"
+    hashtags: "#buttercream, #bakingtiktok, #funfetti, #caketiktok"
   - username: "how.to.cake.it"
     fullname: >-
       How To Cake It
@@ -73,12 +73,12 @@ profiles:
     bio: >-
       Baking myself (and other moms) happy!
     location: "Canada"
-    followers: 42300
+    followers: 42400
     engagement: 493
-    commentsToLikes: 0.010774
+    commentsToLikes: 0.010738
     id: ckb9b5n24x0a80j23upk0qv1s
     verified: false
-    hashtags: "#bakingrecipe, #bakersoftiktok, #cakedecorating, #baker"
+    hashtags: "#bakersoftiktok, #cakedecorating, #bakingrecipe, #baker"
   - username: "dishedit"
     fullname: >-
       Dished
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.007276
     id: ckbf1d8m0nhu10j23u6fl7gsk
     verified: false
-    hashtags: "#torontocupcakes, #cocoaberry, #mississauga, #fyp"
+    hashtags: "#tiktokcupcakes, #toronto, #fyp, #viral"
   - username: "cakebythepound_"
     fullname: >-
       CakebythePound

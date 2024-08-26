@@ -1,11 +1,11 @@
 ---
-title: Top 10 Violin TikTok Influencers In 2023
+title: Top 10 Violin TikTok Influencers In 2024
 description: >-
-  Find top violin TikTok influencers in 2023. Most popular hashtags: #violin #fyp #foryou #duet.
+  Find top violin TikTok influencers in 2024. Most popular hashtags: #violin #duet #fyp #foryou.
 platform: TikTok
-hits: 5
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our database aggregates 5 TikTok influencers like this for you to collaborate.
+hits: 6
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 6 TikTok influencers like this for you to pitch.
 profiles:
   - username: "chloetrevor_violin"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckbl6jtuj4cht0j236wjieer1
     verified: false
     hashtags: "#foryou, #4yp, #dogsoftiktok, #classicalmusic"
+  - username: "that_one_violin_human"
+    fullname: >-
+      Michael Young
+    bio: >-
+      Acoustic and Electric Violinist Based in CO Mostly Improvisation 💖 to colab
+    location: "United States"
+    followers: 6389
+    engagement: 2027
+    commentsToLikes: 0.103679
+    id: ckcv8b0yuqcfr0j23ov2z80g6
+    verified: false
+    hashtags: "#violinduet, #classicallytrained, #violin, #improv"
   - username: "laisa.elisabeth"
     fullname: >-
       Elisabeth

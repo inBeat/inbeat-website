@@ -1,12 +1,36 @@
 ---
-title: Top 10 Models Instagram Influencers In Bali In 2023
+title: Top 10 Models Instagram Influencers In Bali In 2024
 description: >-
-  Find top models Instagram influencers in Bali in 2023. Most popular hashtags: #bali #model #indonesia #fashion.
+  Find top models Instagram influencers in Bali in 2024. Most popular hashtags: #bali #baliindonesia #model #indonesia.
 platform: Instagram
-hits: 69
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 69 Instagram influencers like this in Bali, Indonesia for you to collaborate.
+hits: 89
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 89 Instagram influencers like this in Bali, Indonesia for you to connect with.
 profiles:
+  - username: "mayangadiaty"
+    fullname: >-
+      Mayang Adiyati K Heryadie
+    bio: >-
+      #PublicRelations #PRConsultant #CurvyModel • PR @presscomms Model @balimodelagency @hotel_selabintana @womensmarchbali @getwaisted.id @mayangmakan •
+    location: "Indonesia"
+    followers: 40183
+    engagement: 206
+    commentsToLikes: 0.008460
+    id: ck0vwow3buv4d0i19k8ai1dmi
+    verified: false
+    hashtags: "#jesuisflirt, #bulgarihotels, #nusalembongan, #bali"
+  - username: "fandy_makmur"
+    fullname: >-
+      Muhammad Arfandi Makmur
+    bio: >-
+      • Traveling | Lifestyle | Menswear • Tax Ambassador Enrekang15 • Entrepreneur • Owner @topipolosmakassar.id 📩 fandy.makmur@yahoo.com
+    location: "Indonesia"
+    followers: 9153
+    engagement: 424
+    commentsToLikes: 0.121257
+    id: ck6uegtdwqtyl0j71u70recfr
+    verified: false
+    hashtags: "#beach, #man, #balilife, #vsco"
   - username: "arickfitrio"
     fullname: >-
       Arick Fitrio
@@ -31,30 +55,66 @@ profiles:
     id: ck8t4zyox8e9r0j782hp9lsln
     verified: false
     hashtags: "#cintakarnacintasctv, #cikylovestory, #rezkyadhitya, #cutmeyriska"
-  - username: "dela_deni"
+  - username: "lost.with.clo"
     fullname: >-
-      D_d
+      Clarisse Debian 🌴
     bio: >-
-      Miss Grand Indonesia Gorontalo 2019 Top 5 popular Miss Friendship Intl 2019 4 ru the supermodel 2019 @flavors_snack.id @g_modelsmanagement
+      turning virtual streets into stages ılıılıılı 🎙️ CLO ‎ بيروت • Bali
     location: "Indonesia"
-    followers: 11346
-    engagement: 347
-    commentsToLikes: 0.054724
-    id: ck5zq9s9ju7bz0i148esrqe4c
+    followers: 52436
+    engagement: 136
+    commentsToLikes: 0.195036
+    id: ckap5qo11cr560i78ttrcanwh
     verified: false
-    hashtags: "#fashion, #bali, #baliindonesia, #model"
-  - username: "felicianathalie_"
+    hashtags: "#baliindonesia, #beautifuldestinations, #staycation, #tropical"
+  - username: "_vvvania"
     fullname: >-
-      펠리시아🍑felicia nathalie
+      vania
     bio: >-
-      📍BALI | TNG UMN '19 #model | #dancer DM For #endorsement 📥 Part of @teen_management @chb_management CiaAgency BA @mamaleonofficial YTChannel👇🏻
+      Bali Model & Creative @35mmvania // Brand Ambassador @nusacana bookings: mutiara.vania26@gmail.com
     location: "Indonesia"
-    followers: 19415
-    engagement: 614
-    commentsToLikes: 0.053623
-    id: ck9wgk3pjts0e0j78vcntnir1
+    followers: 154644
+    engagement: 128
+    commentsToLikes: 0.007112
+    id: ck5zit5jagbv90i14kpmc7bum
     verified: false
-    hashtags: "#modeling, #model, #modelfoto, #bali"
+    hashtags: "#thesakxoceana"
+  - username: "marisagreiner"
+    fullname: >-
+      Marisa Greiner
+    bio: >-
+      📍 BALI | Model | Photographer | Traveler | Sustainability Advocate | Vegan | Bali Travel Tips @meetmeunderpalmtrees | Work with me📩
+    location: "Indonesia"
+    followers: 21945
+    engagement: 53
+    commentsToLikes: 0.000000
+    id: ckpn0txuo3nbp0j23wrlicxp6
+    verified: false
+    hashtags: "#dronephotography, #dronevideo, #baliindonesia, #travelblogger"
+  - username: "ratihdhamma"
+    fullname: >-
+      RATIH DHAMMA
+    bio: >-
+      I LIVE THE LIFE I LOVE Bali • Model • 182cm • Mother of 3 —————————————————— @iammodelmanagementbali @ara.ata.aka @review.bali
+    location: "Indonesia"
+    followers: 24486
+    engagement: 25
+    commentsToLikes: 0.010108
+    id: ck5hpvvvcs2120i11swkxa4as
+    verified: false
+    hashtags: "#wanderlust, #instagram, #bali, #holiday"
+  - username: "milkaapw"
+    fullname: >-
+      Milka 🌺 The Balifornia Girl
+    bio: >-
+      ▪️#branding expert ▪️google certified sr. #UIUXdesigner ▪️5’10” | bali model ▪️travel addict bali 🇮🇩 - los angeles, california 🇺🇸
+    location: "Indonesia"
+    followers: 27515
+    engagement: 16
+    commentsToLikes: 0.007778
+    id: ck5c1tqbavwnc0i115ngxvmfk
+    verified: false
+    hashtags: "#diorivierabali, #beachclubs, #balilife, #balitrip"
   - username: "karinamanik"
     fullname: >-
       A.A.Istri Karina Manik S.Sn
@@ -67,64 +127,4 @@ profiles:
     id: ck0w1ekbaiy730i1988s3qbd1
     verified: false
     hashtags: "#success, #bali, #stage, #island"
-  - username: "zonaretjeh"
-    fullname: >-
-      Retjeh - Receh
-    bio: >-
-      18+ Jangan baperan! Mari menebar kebahagiaan dan sedikit kegoblokan Endorse/Paid Promote? Dm🤝
-    location: "Indonesia"
-    followers: 43095
-    engagement: 1001
-    commentsToLikes: 0.030235
-    id: ckap1uwtuw9700i78bblryggq
-    verified: false
-    hashtags: "#guyonanreceh, #videogokil, #semenitvidgram, #lucugaksih"
-  - username: "model_gadies"
-    fullname: >-
-      💘Christina❤
-    bio: >-
-      Sukses Tidak Pernah Dimiliki. Itu Disewakan, dan Sewa jatuh tempo Setiap hari. ✌terimakasih teman2 baik hati️ suda follow aku 😍❤️
-    location: "Indonesia"
-    followers: 75430
-    engagement: 157
-    commentsToLikes: 0.019396
-    id: ckaotu3ubxj0m0i783wqmd88z
-    verified: false
-    hashtags: "#jegegbali, #bangli, #bajangjegeg, #jegegnow"
-  - username: "madeleineandren"
-    fullname: >-
-      BALI MODEL | MADELEINE ANDRÉN
-    bio: >-
-      From Sweden 🇸🇪 with a hint of 🇵🇭 | Living in Bali Bookings: hello@madeleineandren.com @stronger Ambassador
-    location: "Indonesia"
-    followers: 65347
-    engagement: 493
-    commentsToLikes: 0.024450
-    id: ck0tz3k82p1s10i19i3m4dube
-    verified: false
-    hashtags: "#35mm"
-  - username: "stephbaier"
-    fullname: >-
-      Stephanie Baier | Bali Model
-    bio: >-
-      🇵🇭🇩🇪 ॐ Model and Yoga Teacher ❥ Mother to Joy Ophelia ☽ Protect your peace, Get rid of toxicity, Cleanse your space, Cultivate love. @m4models
-    location: "Indonesia"
-    followers: 6077
-    engagement: 641
-    commentsToLikes: 0.039596
-    id: ck8syl5qql5jw0j781h8foqv1
-    verified: false
-    hashtags: "#fam, #tropicalchristmas, #mindsetiseverything, #familytime"
-  - username: "risyadsalman"
-    fullname: >-
-      RISYAD | BALI MODEL
-    bio: >-
-      📍 Bali ▪️Sport, lifestyle, and fashion enthusiast ▪️Part of @studio47id ▪️ #janganlupaolahraga #risyadpergike
-    location: "Indonesia"
-    followers: 19192
-    engagement: 2319
-    commentsToLikes: 0.022912
-    id: ck13a91c1p83t0i19upvm8gbk
-    verified: false
-    hashtags: "#balimodel, #canggubali, #uluwatu, #ubudbali"
 ---

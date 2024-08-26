@@ -1,12 +1,60 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Ukraine In 2023
+title: Top 10 Mothers Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top mothers Instagram influencers in Ukraine in 2023. Most popular hashtags: #happy #love #ukraine.
+  Find top mothers Instagram influencers in Ukraine in 2024. Most popular hashtags: #christmas #happy #love.
 platform: Instagram
-hits: 22
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 22 Instagram influencers like this in Ukraine for you to work with.
+hits: 28
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 28 Instagram influencers like this in Ukraine for you to pitch.
 profiles:
+  - username: "marydenysiuk"
+    fullname: >-
+      𝗠𝗔𝗥𝗜𝗔 𝗗𝗘𝗡𝗬𝗦𝗜𝗨𝗞
+    bio: >-
+      From Netherlands to Dubai📍 Real estate, wellness, fine dining, fashion, motherhood. 10 million+ Reels views Dm/email for collaboration🤝
+    location: "Ukraine"
+    followers: 267103
+    engagement: 1396
+    commentsToLikes: 0.031828
+    id: ck6udxlqtnp4g0j71mqfpeeiw
+    verified: false
+    hashtags: "#gcse, #alevels, #britishschoolsindubai, #internationalbaccalaureate"
+  - username: "kseopea"
+    fullname: >-
+      AESTHETIC |  LIFESTYLE | PHOTO |TURKEY | ALANYA
+    bio: >-
+      My name is NATALY ⠀ Ukrainian 🇺🇦live in Turkey/Alanya 🇹🇷 •aesthetically lifestyle •life by the sea •mother •person with a🧠
+    location: "Ukraine"
+    followers: 5394
+    engagement: 611
+    commentsToLikes: 0.152647
+    id: ck6ue72e3p6yt0j71hjt57xyk
+    verified: false
+    hashtags: "#fotografsayfasi, #igersturkey, #master, #ig"
+  - username: "putivlenko_"
+    fullname: >-
+      𝐈𝐑𝐀 𝐏𝐔𝐓𝐈𝐕𝐋𝐄𝐍𝐊𝐎
+    bio: >-
+      ▪️ Style, beauty and motherhood ▪️МБ: @fem.accessories.ua ▪️Співпраця: @putivlenko_pr
+    location: "Ukraine"
+    followers: 733814
+    engagement: 206
+    commentsToLikes: 0.018300
+    id: ckap48gj267nd0i78vjnevbdf
+    verified: false
+    hashtags: "#lovebeautyandplanetua, #zewa"
+  - username: "nastia_tsvetaeva"
+    fullname: >-
+      Anastasia Tsvetaeva
+    bio: >-
+      Slavic Woman in the Middle East🇮🇱 Influencer•blogger•artist•mother Co-founder @see_with_us_tlv Coop: @pr_nastia_tsvetaeva My projects:
+    location: "Ukraine"
+    followers: 1256346
+    engagement: 38
+    commentsToLikes: 0.021583
+    id: ck1376tl2a2uk0i19zdw9ujom
+    verified: true
+    hashtags: "#stopwarinukraine, #stopwarinukrain"
   - username: "real.alterface"
     fullname: >-
       I saw you somewhere 🧐
@@ -31,30 +79,6 @@ profiles:
     id: ckf5nnq02ywej0j23kxkzee0r
     verified: false
     hashtags: "#familytime"
-  - username: "kris.kosyk"
-    fullname: >-
-      K R I S  K O S Y K
-    bio: >-
-      Voice @ Подкаст “Шит ай ноу Лайв”🎧 Mind @ Тг канал Shit I Know🤔 Co-owner @filab.company 🚀 Co-owner @ramen.mo.lviv 🍜 Mother of dragon @ home 🐉
-    location: "Ukraine"
-    followers: 17153
-    engagement: 1353
-    commentsToLikes: 0.016627
-    id: ck0tz6zqupacg0i19srs1rsp0
-    verified: false
-    hashtags: ""
-  - username: "gorovaya_irina"
-    fullname: >-
-      Gorovaya Irina
-    bio: >-
-      CEO/Owner Mozgi Group; Producer @mozgientertainment 🎼 Co-founder/Owner @citybeachclub 🍽 Mother of @potapchiq and @natashka.gorovaya 👩👦🏼
-    location: "Ukraine"
-    followers: 137839
-    engagement: 363
-    commentsToLikes: 0.007554
-    id: ck0vz4r9a7awh0i19gwwb4sh6
-    verified: false
-    hashtags: "#chicabamboni, #evening, #sunset, #lastdance"
   - username: "hrustka"
     fullname: >-
       Christina Khoma
@@ -67,64 +91,40 @@ profiles:
     id: ckap0w39ts2i00i78nu530r4f
     verified: false
     hashtags: "#motherdaughter, #bosniaandherzegovina, #beautifuldestinations, #medjugorje"
-  - username: "yulia_bezhynets"
+  - username: "osia2013"
     fullname: >-
-      Yulia Bezhynets
+      OSIA YOUTUBE BLOGGER
     bio: >-
-      • тут про мене,мої подорожі та про те,що люблю🤍 • @toy_voo - а тут про те,як я бачу світ🪐 • церемоніймейстер @sunlitemusic 👰🏻🤵🏻
+      Beauty | Fashion | Home | Cooking 14 years in Poland🇺🇦 500K+ YouTube channel Instagram PL : @olga.muszynska Contact: olga.donczenko@gmail.com
     location: "Ukraine"
-    followers: 3630
-    engagement: 1651
-    commentsToLikes: 0.151361
-    id: ck8tdlws53uwa0j78oanejx84
+    followers: 238223
+    engagement: 806
+    commentsToLikes: 0.011912
+    id: ck0w3hdw1tf460i1912161s2o
     verified: false
-    hashtags: "#quarantine, #music, #happy, #goodday"
-  - username: "sonya22.08"
+    hashtags: "#makeup, #zara, #stylefashion, #vacationmode"
+  - username: "alexandrarodriguez__"
     fullname: >-
-      SONYA MODEL
+      Alexandra Michelle
     bio: >-
-      📍Ukraine🇺🇦 ▪️MA : @vocemodels @agentkate_ ▪️My brand @kos_wool ▪️Покажу мир моими глазами ▪️Туризм | Психология | Диетология 🇪🇸🇮🇹🇵🇱🇲🇪🇩🇪🇹🇷🇸🇬🇲🇾🇲🇨🇬🇷
+      🇵🇷 VOGUE Beauty🌹Boy Mom x 2 • Model • Singer • Childbirth hypnotherapist • Fashionista • Viajera @casadig @cloud9births @baldaccicoffee
     location: "Ukraine"
-    followers: 22066
-    engagement: 307
-    commentsToLikes: 0.052223
-    id: ck0tt4y9b16c40i1998ja5tza
-    verified: false
-    hashtags: "#clouds, #sky, #sun, #waterfoam"
-  - username: "olalaolya"
+    followers: 255740
+    engagement: 245
+    commentsToLikes: 0.022989
+    id: ck134rn5exv3j0i19sst3ug56
+    verified: true
+    hashtags: "#paris, #pfw, #nyc, #covergirl"
+  - username: "polinanenia"
     fullname: >-
-      Olga Dovbenko
+      Polina Nenia
     bio: >-
-      Ukrainian Association of Furniture Manufacturers @associationuafm First B2B exhibition @fube_org Furniture of Ukraine @furniture_of_ukraine
+      CEO, Editor @bestinua Defending the rights of women and children @jinky_ua I teach how to build a personal brand and PR strategies 📍Madrid from Kyiv
     location: "Ukraine"
-    followers: 11535
-    engagement: 760
-    commentsToLikes: 0.041357
-    id: ckaow5kwj7ir20i787bkfcw06
+    followers: 80746
+    engagement: 168
+    commentsToLikes: 0.025115
+    id: ck0w14vy4hkln0i19k03u8run
     verified: false
-    hashtags: "#happytime, #happiness, #furnitureofukraine, #pretty"
-  - username: "zhurakivska_olesya"
-    fullname: >-
-      Жураковская Олеся
-    bio: >-
-      Актриса театра и кино, телеведущая
-    location: "Ukraine"
-    followers: 39984
-    engagement: 597
-    commentsToLikes: 0.017796
-    id: ck5chyrturozt0i11y254ftb3
-    verified: false
-    hashtags: "#shooting, #theatre, #osnovafilm, #lovemylife"
-  - username: "la_cirque.art"
-    fullname: >-
-      𝐀𝐍𝐃𝐑𝐈𝐈 𝐋𝐘𝐓𝐕𝐀𝐊 🎪🎭
-    bio: >-
-      🔘𝐀𝐫𝐭𝐢𝐬𝐭 𝐨𝐟 @cirquedusoleil @dragoneofficial 🎪🌞 𝐒𝐡𝐨𝐰𝐬: #Quidam #LaNouba #LaPerleDXB 🔘𝐏𝐡𝐨𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐞𝐫 @la_pics.art 📸 𝐕𝐢𝐧𝐧𝐢𝐭𝐬𝐚 📍 𝐊𝐢𝐞𝐯 🇺🇦 🔱
-    location: "Ukraine"
-    followers: 9022
-    engagement: 529
-    commentsToLikes: 0.053893
-    id: ck0vzn9pw9y2n0i1931073vl6
-    verified: false
-    hashtags: "#portrait, #photography, #ukraine, #kievguide"
+    hashtags: "#friendsgoals, #lifeisamazing, #polinakievlove, #bvlgari"
 ---

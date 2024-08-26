@@ -1,12 +1,24 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In South Korea In 2023
+title: Top 10 Outdoors Instagram Influencers In South Korea In 2024
 description: >-
-  Find top outdoors Instagram influencers in South Korea in 2023. Most popular hashtags: #outdoorsis #outdoor #leki #outdoorlife.
+  Find top outdoors Instagram influencers in South Korea in 2024. Most popular hashtags: #outdoorlife #outdoor #camping #camp.
 platform: Instagram
 hits: 27
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 27 Instagram influencers like this in South Korea for you to connect with.
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 27 Instagram influencers like this in South Korea for you to pitch.
 profiles:
+  - username: "lamacamper"
+    fullname: >-
+      라마🔥
+    bio: >-
+      𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 @bushcraftvisual @overlandinglife.kr 𝐁𝐫𝐚𝐧𝐝 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 @wildwildwest_official @thesingletonkr @habiru_garage @roselli_est_1976
+    location: "South Korea"
+    followers: 50235
+    engagement: 148
+    commentsToLikes: 0.034858
+    id: ck9wfd0hhobir0j78maopl5xt
+    verified: false
+    hashtags: "#wildcamping, #outdoorsman, #overlanding, #outdoorlife"
   - username: "seulowlee"
     fullname: >-
       Seulgi Lee
@@ -91,18 +103,6 @@ profiles:
     id: ck5hntkhnod7v0i11vvfxkcyr
     verified: false
     hashtags: "#runstagram, #trailrunning, #runninggirl, #snow"
-  - username: "adventuresof_solynoah"
-    fullname: >-
-      Sol y Noah
-    bio: >-
-      Adventure seeking, outdoor exploring, nature loving siblings. Currently exploring South Korea. Sibling OOTD~Reels SOL & NOAH are 🇰🇷 🇺🇸 🇬🇹
-    location: "South Korea"
-    followers: 7984
-    engagement: 685
-    commentsToLikes: 0.137320
-    id: ck6u6ehumf4u10j71c8olyd7v
-    verified: false
-    hashtags: "#momentsinmotherhood, #capturingmoments, #mihija, #misolecito"
   - username: "i_m_fe"
     fullname: >-
       :"(
@@ -115,16 +115,16 @@ profiles:
     id: ck14ki1d6plhh0i196m1fhn8s
     verified: false
     hashtags: "#tempusstudio, #211, #tempus, #tonywack"
-  - username: "swk8910"
+  - username: "rirang_onair"
     fullname: >-
-      Sarah🌹
+      Rirang_onair
     bio: >-
-      🇰🇷 Korean adoptee 💙 🏳️‍🌈 Queer & proud 🔆 📍Published model ❌ 🌏 6/7 continents traveled ✈️ 💃🏻 Argentine Tango dancer 🌹 📚 B.A., Psychology 📖
+      리랑 온에어🔛 여행하는 걸캠퍼🌈 리앙 오피셜계정 @riang_official ⤵️
     location: "South Korea"
-    followers: 2962
-    engagement: 976
-    commentsToLikes: 0.296777
-    id: ck15qv3gf4sco0i19s8hacxqy
+    followers: 9630
+    engagement: 801
+    commentsToLikes: 0.034988
+    id: ck5zyc1o39lyu0i145wa9ue4r
     verified: false
-    hashtags: "#portraitphotography, #pschallenge, #bravopost, #creativision"
+    hashtags: "#camping, #camper, #backpacking, #outdoorlife"
 ---

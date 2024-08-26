@@ -1,24 +1,36 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Barcelona In 2023
+title: Top 10 Nutrition Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top nutrition Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #fitness #nutricion #healthylifestyle.
+  Find top nutrition Instagram influencers in Barcelona in 2024. Most popular hashtags: #barcelona #nutrition #healthylifestyle #training.
 platform: Instagram
-hits: 12
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 12 Instagram influencers like this in Barcelona, Spain for you to work with.
+hits: 20
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 20 Instagram influencers like this in Barcelona, Spain for you to pitch.
 profiles:
   - username: "nattaliaweberr"
     fullname: >-
       Nattalia Weber 🥑 nutrición
     bio: >-
-      Dietas y entrenos | motivación 🥞 PROZIS CUPÓN: NATTALIA 🍫 PROTELLA CUPÓN: NATTALIA Directora @amazonasteam_ 🇧🇷 viviendo en 🇪🇸 Para contratarme⬇️
+      🏋🏽‍♀️Entrenadora personal 👩🏻‍🎓Máster en nutrición deportiva 👩🏻‍⚕️Directora @amazonasteam_ +50 ATLETAS NATURALES 🌱 🥞DTO. prozis y protella: NATTALIA
     location: "Spain"
-    followers: 20689
-    engagement: 274
-    commentsToLikes: 0.089874
+    followers: 20995
+    engagement: 218
+    commentsToLikes: 0.077930
     id: ck8t4fkoy6lzv0j78j4ltyr7s
     verified: false
-    hashtags: "#summer, #diet, #coach, #amazonasteam"
+    hashtags: "#healthy, #fitness, #coach, #amazonasteam"
+  - username: "fabiandomenech"
+    fullname: >-
+      Fabian Domenech
+    bio: >-
+      Barcelona @nikewellcollective | @nike Yoga teacher / Ceramist Psychoneuroimmunology student
+    location: "Spain"
+    followers: 54710
+    engagement: 217
+    commentsToLikes: 0.025992
+    id: ck14irwwhgwtm0i19eq27d8fe
+    verified: false
+    hashtags: "#fabithepotter, #handmade, #ceramics, #joy"
   - username: "bryanher97"
     fullname: >-
       Bryan Hernández
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.020764
     id: ck15t9ri0h11k0i198h80eswt
     verified: false
-    hashtags: "#fueledbyhardwork, #asha, #140kg, #crossfit"
+    hashtags: "#crossfitopen2021, #fueledbyhardwork, #hardworkd, #reventarabryan"
   - username: "albafityoga"
     fullname: >-
       Alba Fit Yoga 🤸🏽‍♀️
@@ -43,6 +55,18 @@ profiles:
     id: ck13bfdf6v5r20i1970j9ei5p
     verified: false
     hashtags: "#lavueltabravista, #skandasana, #yogabarcelona, #alomyogaday"
+  - username: "paucapde"
+    fullname: >-
+      Pau Capdevila Vera
+    bio: >-
+      Barcelona | Pharmacist 💊 Triathlete | @adidas_es AR BCN🏃🏽 Master in Performance Sports Nutrition 📚 Entrenador Nacional📈 5k-14:52🔸10k-31:28
+    location: "Spain"
+    followers: 5377
+    engagement: 923
+    commentsToLikes: 0.027107
+    id: ck8t5xlrdbl7q0j78gcgsfa7p
+    verified: false
+    hashtags: "#swim, #gopro, #runner, #holidays"
   - username: "judit.coach"
     fullname: >-
       JUDIT⚡️ABARCA
@@ -67,6 +91,18 @@ profiles:
     id: ck9wdeuq9fc220j78rn39xr02
     verified: false
     hashtags: "#comosano, #healthyliving, #comidarecomendable, #nutricionistas"
+  - username: "tadejpogacar"
+    fullname: >-
+      Tadej Pogačar
+    bio: >-
+      Contact: @aej_allsports
+    location: "Spain"
+    followers: 1500228
+    engagement: 736
+    commentsToLikes: 0.005011
+    id: ck0u9649696rt0i19vl39n6xb
+    verified: false
+    hashtags: "#road, #italy, #travel, #race"
   - username: "losada_vicky"
     fullname: >-
       Vicky Losada
@@ -79,52 +115,16 @@ profiles:
     id: ck6u3cq2gx1xz0j71olgnn7qy
     verified: true
     hashtags: "#fcbfemeni, #training, #primeraiberdrola, #healthylifestyle"
-  - username: "martavergesbio"
+  - username: "karlaparedes10"
     fullname: >-
-      Marta Verges
+      Karla Paredes
     bio: >-
-      🍏Dietista. Nutrición Plantbased 📺Mi programa TV @menjatelmontve 📖Mis Libros: “Cómete el Tarro” “Cocina Plant Based”
+      Especialista en Nutrición Integral & Liderazgo Personal🧘🏼‍♀️ 🧠 #healthylifestyle 🍀 💫 NC ♾️
     location: "Spain"
-    followers: 28806
-    engagement: 137
-    commentsToLikes: 0.173082
-    id: ck5q0vldc7zle0i11flyet4uj
+    followers: 279457
+    engagement: 181
+    commentsToLikes: 0.041366
+    id: ck6tk6xno44cp0j71repo8a73
     verified: false
-    hashtags: "#vidasana, #bienestar, #cocinasaludable, #frases"
-  - username: "pau_inspirafit"
-    fullname: >-
-      Paula Butragueño
-    bio: >-
-      🏃🏽‍♀️Nike Master Trainer 🤸🏽‍♀️Jivamukti Yoga Teacher 🧘🏼‍♀️Mindfulness Coach 🥇 #forbesbestinfluencers 💌 inspirafit.info@gmail.com
-    location: "Spain"
-    followers: 117071
-    engagement: 110
-    commentsToLikes: 0.028105
-    id: ck55lyfqi2r8k0i11qtnwn24f
-    verified: true
-    hashtags: "#entrenaencasa, #meditacion, #mindfulness, #running"
-  - username: "polcejas"
-    fullname: >-
-      POL CEJAS ⚡️
-    bio: >-
-      • ☯️ Movimiento & Mentalidad • 👁 Master Sport Science & Health • 🏋🏽‍♂️ @powerbypolcejas • /// Adidas Coach
-    location: "Spain"
-    followers: 10358
-    engagement: 400
-    commentsToLikes: 0.049813
-    id: ck8t5xliqbl580j786ez7wup7
-    verified: false
-    hashtags: "#adidasrunners, #fitnessbarcelona, #barcelonafitness, #squat"
-  - username: "leckerandhealthy"
-    fullname: >-
-      Anna | Admin Realfooding®
-    bio: >-
-      Respeta, honra y alimenta tu cuerpo, mente y alma ❤ 🖖 Admin & content creator @realfooding 📸 @annamfranch 🎁 ¿Quieres tu Lecker Box? ¡Contáctame!
-    location: "Spain"
-    followers: 32461
-    engagement: 172
-    commentsToLikes: 0.070378
-    id: ck8t5sf5kb2wt0j78qkr8p96q
-    verified: false
-    hashtags: "#snack, #comesano, #postre, #desayuno"
+    hashtags: "#eyes, #explorar, #madrid, #barcelona"
 ---

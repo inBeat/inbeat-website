@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Singapore In 2023
+title: Top 10 Mothers Instagram Influencers In Singapore In 2024
 description: >-
-  Find top mothers Instagram influencers in Singapore in 2023. Most popular hashtags: #motherhood #singapore #momlife #ootd.
+  Find top mothers Instagram influencers in Singapore in 2024. Most popular hashtags: #sgmom #momlife #motherhood.
 platform: Instagram
-hits: 16
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 16 Instagram influencers like this in Singapore for you to pitch.
+hits: 59
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 59 Instagram influencers like this in Singapore for you to work with.
 profiles:
-  - username: "evonnz"
+  - username: "peroro_"
     fullname: >-
-      Evonne ★
+      ⋆·˚ ༘ * Persie Y  ੈ✩‧₊˚
     bio: >-
-      Beauty/Aesthetic, Design, Diving, Bunnies and Taugeh-less meals🐚 Mother Hen @mizuaesthetic @aeras.sg
+      ♡ Lifestyle, Health,Motherhood,Food,Beauty,Fashion ҉ therealpersie@gmail.com ＊*✩˚ interior designer ✩ boy mum @bbbhung_ ☽ SG ˚｡⋆
     location: "Singapore"
-    followers: 30021
-    engagement: 141
-    commentsToLikes: 0.023139
-    id: ck5q78j7p0eg90i11uml1hz79
+    followers: 19155
+    engagement: 441
+    commentsToLikes: 0.072755
+    id: clm70aj3igdys0j08urosqknx
     verified: false
-    hashtags: "#harrythejerseywooly, #rabbitsofinstagram, #rabbitsofrhq, #clearturn28days"
-  - username: "briebenfell"
+    hashtags: "#newborn, #thingstodo, #baby, #sp"
+  - username: "sonyasukha"
     fullname: >-
-      Brie
+      sonya sukha
     bio: >-
-      📍 🇸🇬 Mama & Wife • Actress • Model 💌 Bookings@19sixtyfive.com.sg 🎙 Host: @makingofmotherhood 🧘🏼‍♀️ Founder: @brie_fit 🤱🏼 Ambassador: @motherswork
+      motherhood + 🤍 hi@sonyasukha.com ✨
     location: "Singapore"
-    followers: 16000
-    engagement: 374
-    commentsToLikes: 0.033655
-    id: ck8sy96m0k5u20j78gm9bmlw4
+    followers: 252592
+    engagement: 439
+    commentsToLikes: 0.008210
+    id: ck5zrgoncwjmx0i14zenhut5v
     verified: false
-    hashtags: "#playtogether, #fullertonmemories, #staycation, #shotoniphone12"
+    hashtags: "#menstrualcup, #legocity, #paidpartnershipwithlego, #livspacesg"
+  - username: "livlogolding"
+    fullname: >-
+      Liv Lo Golding
+    bio: >-
+      ‘Health begins with the mother’ Co-founder: @wearewomom Solo-mommying two girls 👧👶 💌: liv@gb-se.com
+    location: "Singapore"
+    followers: 255437
+    engagement: 378
+    commentsToLikes: 0.009342
+    id: ck5q08a6s4qcr0i11653jvpz0
+    verified: true
+    hashtags: "#momtimeout, #lifeasamama, #swimbabyswim, #motherhood"
+  - username: "shanadramaqueen"
+    fullname: >-
+      Aakarshana Saravanan
+    bio: >-
+      Spread love everywhere u go Let no one ever come to u without leaving happier - Mother Teresa 🇸🇬 📩- Aakarshana89@gmail.com
+    location: "Singapore"
+    followers: 26680
+    engagement: 309
+    commentsToLikes: 0.007130
+    id: ck6tkskab5bq70j71iqt720zs
+    verified: false
+    hashtags: "#familiesforlife, #madeforfamilies, #ad, #sp"
+  - username: "mamasinfinitylove"
+    fullname: >-
+      Joyce | Mum➰ContentCreator|📍SG
+    bio: >-
+      👧🏻#joreentanjiyoon 7yo ♡Beauty | Fashion | Food |📷| Pastel Sharing #joy #motherhood #lifestyle #deals 💌 Promo codes👇🏻
+    location: "Singapore"
+    followers: 11646
+    engagement: 225
+    commentsToLikes: 0.140358
+    id: clm70ajlsgegq0j08lkkenith
+    verified: false
+    hashtags: "#foodsg, #whati8today, #klookbirthday, #bondingtime"
+  - username: "yingtze"
+    fullname: >-
+      YingTze
+    bio: >-
+      Daily IG @yingtze12 Mother of 11 Cats @babyg2610 More About Me 🐈
+    location: "Singapore"
+    followers: 350795
+    engagement: 221
+    commentsToLikes: 0.017848
+    id: ck5c8kvjj9p9x0i11jeygnyzn
+    verified: true
+    hashtags: "#demonslayer, #nikkecosplay, #mitsurikanroji, #nikkegoddessofvictory"
+  - username: "christine.fieldhall"
+    fullname: >-
+      Christine Field-Hall
+    bio: >-
+      Founder @wearemomtourage & @realmum.realtalk HK 🇭🇰mum raising boys in SG🇸🇬 Balancing motherhood & self-care Building a supportive community
+    location: "Singapore"
+    followers: 11902
+    engagement: 166
+    commentsToLikes: 0.087334
+    id: ck8taztootru70j78rez11zry
+    verified: false
+    hashtags: "#realmoms, #hkmoms, #hkmommy, #motherhoodunplugged"
+  - username: "teeteeheehee"
+    fullname: >-
+      ☁️Teresa☁️
+    bio: >-
+      Motherhood , Lifestyle + Fashion, Books and everything in between. ✨I make Sparkly things at @by.teeteeheehee ✍️🎨I draw at @drawn.by.teeteeheehee
+    location: "Singapore"
+    followers: 78213
+    engagement: 35
+    commentsToLikes: 0.001201
+    id: ck5zvjwh24dhs0i14tvxicehz
+    verified: true
+    hashtags: "#week30pregnancy, #iphone15pro, #dressingthebump, #worldmentalhealthday"
   - username: "yuniqueyuni"
     fullname: >-
-      Yuni | Travel & Lifestyle SG
+      Yuni | Lifestyle SG
     bio: >-
-      📍Singapore Also sharing Motherhood & Baby Moments 🥰 ✨ @dearbbkai mommy 🤱🏻
+      📍Singapore 👶🏻: @dearbbkai 🏠: @casa.yunique 📷 Travel & Lifestyle . Fashion . Motherhood
     location: "Singapore"
-    followers: 21196
-    engagement: 221
-    commentsToLikes: 0.299958
+    followers: 19873
+    engagement: 6
+    commentsToLikes: 0.000000
     id: ck0ubxdjvfhdh0i191t2tm3tl
     verified: false
-    hashtags: "#sgmums, #singaporeworld, #rediscoversingapore, #sgmummy"
-  - username: "mothershipsg"
+    hashtags: "#ascottstarrewards, #explorekepri, #wonderfulindonesia, #harriswaterfront"
+  - username: "marjhankausar"
     fullname: >-
-      Mothership.sg
+      Marjhan Emaan 🧿
     bio: >-
-      The younger people run this account.
+      She’s in her mama era 🇵🇰🇪🇨🇺🇸 📍 Singapore 📧 marjhankausar.pr@gmail.com
     location: "Singapore"
-    followers: 650489
-    engagement: 420
-    commentsToLikes: 0.006060
-    id: ck139r2enmpvq0i19ynud6txn
-    verified: true
-    hashtags: "#linkinbio, #sponsored, #mothershipgdll"
-  - username: "roxannegan_"
-    fullname: >-
-      ROXANNE GAN
-    bio: >-
-      🇸🇬 Certified Yoga Instructor & PT 📩 hello@roxannegan.com 🎥 YouTube: Roxanne Gan Purchase my Yoga eBook (60 tutorials) 👇🏻
-    location: "Singapore"
-    followers: 126481
-    engagement: 131
-    commentsToLikes: 0.012749
-    id: ck0vxnqw9zteb0i190sr9gudl
+    followers: 45317
+    engagement: 1820
+    commentsToLikes: 0.041707
+    id: ck55mjej543g30i11o5t04lh6
     verified: false
-    hashtags: "#pregnancy, #yogajourney, #motherhood, #bumplife"
-  - username: "narellekheng"
-    fullname: >-
-      𝖓𝖆𝖗𝖊𝖑𝖑𝖊
-    bio: >-
-      🧡 @moonstone.sg 🌝 She
-    location: "Singapore"
-    followers: 137123
-    engagement: 197
-    commentsToLikes: 0.004014
-    id: ck5qap1uvhjbk0i11mm6lr3fm
-    verified: true
-    hashtags: "#3x3bookclub, #mothernatureappreciationpost, #earthday, #gucciepilogue"
-  - username: "cravings4vegan"
-    fullname: >-
-      Nisha🙏 Recipe Developer🥙🥗
-    bio: >-
-      See me Growing through my mumma's 👀: Eddie👦🏻 Creating varities in #vegan #vegetarian food #Recipecurator #organicfood Singapore 🇸🇬 DM/email for collab
-    location: "Singapore"
-    followers: 10661
-    engagement: 439
-    commentsToLikes: 0.476225
-    id: ck134qfltxp6r0i19bk4o1m7h
-    verified: false
-    hashtags: "#homemade, #indianfoodie, #birthdaycakes, #gharkakhana"
-  - username: "poojakawatra"
-    fullname: >-
-      Pooja Kawatra | Family |Mom| Lifestyle
-    bio: >-
-      🇮🇳 🇸🇬 Be the change you want to see.. Nov/Dec✈️Europe🇫🇷 🇨🇭 🇦🇹 🇭🇺 #CancerSurvivor Founder @makeadifferencechangelives Lancôme’s 100 Inspiring Women
-    location: "Singapore"
-    followers: 74096
-    engagement: 239
-    commentsToLikes: 0.044652
-    id: ckf5rn8v8da8x0j23kh286zat
-    verified: false
-    hashtags: "#mums, #reelsinstagram, #christmas, #india"
-  - username: "tjinlee"
-    fullname: >-
-      Tjin Lee
-    bio: >-
-      Adventurer, Boymama, Home & Travel. Blazing my own trail. Founder/ Creative @mercurysocial Co-founder @lifebeyondgrades @crib_society 🇸🇬
-    location: "Singapore"
-    followers: 46150
-    engagement: 82
-    commentsToLikes: 0.019626
-    id: ck6uige5fextx0j71crclrwep
-    verified: false
-    hashtags: "#sgkids, #sgfamily, #blessed, #mercurysocial"
-  - username: "nadiahmdin"
-    fullname: >-
-      Nadiah M.Din
-    bio: >-
-      🎬 Tv/Film Actor & Host 👩🏽 🇸🇬Javanese and Pakistani. #asktherevertiglive #lapouponsmaison #lespouponsdecor @lespoupons.sg 📧-Nmdin.official@gmail.com
-    location: "Singapore"
-    followers: 158030
-    engagement: 182
-    commentsToLikes: 0.029375
-    id: ck0u2a0v2zdx90i19cggrb9qg
-    verified: true
-    hashtags: "#thepouponswed, #nadiahxmayfifth, #tiktok, #ootd"
+    hashtags: "#londonlife, #desifashion, #toddlermom, #londonfashion"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Switzerland In 2023
+title: Top 10 Bakers Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top bakers Instagram influencers in Switzerland in 2023. Most popular hashtags: #bikersofinstagram #throttlesociety #killswitchbikes #motorcyclesofinstagram.
+  Find top bakers Instagram influencers in Switzerland in 2024. Most popular hashtags: #motorcycle #photography #bikelifestyle #throttleworld.
 platform: Instagram
-hits: 31
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 31 Instagram influencers like this in Switzerland for you to connect with.
+hits: 39
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 39 Instagram influencers like this in Switzerland for you to collaborate.
 profiles:
   - username: "ira_zlatev"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.014730
     id: ck8sy827xk1sn0j78t3hobsbx
     verified: false
-    hashtags: "#sondersignal, #ilovetakingmybikeforawalk, #outsideisthebestside, #bikepacking"
+    hashtags: "#trailrunning, #iloverunning, #outsideisthebestside, #komootadventure"
   - username: "georgeandsebbie"
     fullname: >-
       George and Sebastian
@@ -43,30 +43,30 @@ profiles:
     id: ckapb36dvyeln0i78poo2ze97
     verified: false
     hashtags: "#bernesemountaindog, #christmas, #christmasdog, #halloweencostume"
+  - username: "jazzykpole"
+    fullname: >-
+      Jasmin Kühne
+    bio: >-
+      🏆 J Λ Z Z Y K - Heels Lover ✨ @highonheels.online 👠 Sponsored Artist by @pole_junkie ⬇️ Online Classes & Tutorials: ⬇️
+    location: "Switzerland"
+    followers: 49618
+    engagement: 258
+    commentsToLikes: 0.023853
+    id: ck5ca34declrc0i118rwom9mi
+    verified: false
+    hashtags: "#indipoledance, #poledancer, #poledance, #poledancing"
   - username: "bastianbaker"
     fullname: >-
       Bastian Baker
     bio: >-
       Swiss singer songwriter / only account
     location: "Switzerland"
-    followers: 121164
-    engagement: 197
-    commentsToLikes: 0.021332
+    followers: 119739
+    engagement: 234
+    commentsToLikes: 0.025992
     id: ck15u724glq9c0i19saf944wn
     verified: true
-    hashtags: "#fun, #corona, #joke, #snow"
-  - username: "exagon_moto"
-    fullname: >-
-      Exagon
-    bio: >-
-      🇨🇭Swiss rider | ZX10R | 890R | 990 SMR 📷 Photographe Pro 📺 Animateur et co-producteur de BIKERS HQ 🤝 @cardosystems / @nltuning.ch
-    location: "Switzerland"
-    followers: 46482
-    engagement: 998
-    commentsToLikes: 0.008331
-    id: ck13ak8k8qs680i19phrnpj0g
-    verified: false
-    hashtags: "#superbike, #kawasakininja, #ducati, #panigale"
+    hashtags: "#ineedswitzerland, #iamhugo, #insane, #comeback"
   - username: "golangurfinkel"
     fullname: >-
       Golan Gurfinkel
@@ -85,46 +85,46 @@ profiles:
     bio: >-
       Bäckerstrasse 40, 8004 Zürich - Coiffeur Ugi
     location: "Switzerland"
-    followers: 27066
-    engagement: 152
+    followers: 24600
+    engagement: 167
     commentsToLikes: 0.004295
     id: ck0w0tb0dfxfk0i1914w7mqty
     verified: false
-    hashtags: "#bajecontrenza, #likeforfollow, #viral, #videosong"
-  - username: "jasmin.13i4920"
+    hashtags: "#quepampara, #omarzitow, #lapampara, #panama"
+  - username: "xxvenividivicixx"
     fullname: >-
-      -Priv acc @_jasmin.nikita_
+      𝓞𝓵𝓲𝓿𝓲𝓪
     bio: >-
-      
+      × ᴛᴀᴛᴛᴏᴏꜱ ᴀɴᴅ ꜰɪᴛɴᴇꜱꜱ ᴀᴅᴅɪᴄᴛᴇᴅ × ʙᴍᴡ s1000ʀʀ × ᴛʀɪᴜᴍᴘʜ ᴅᴀʏᴛᴏɴᴀ 675 × ᴀᴜᴅɪ ᴛᴛs 8s × ꜱᴡɪᴛᴢᴇʀʟᴀɴᴅ 𝓶𝓪𝓴𝓮 𝔂𝓸𝓾𝓻 𝓸𝔀𝓷 𝓶𝓪𝓰𝓲𝓬 ♥
     location: "Switzerland"
-    followers: 5603
-    engagement: 3816
-    commentsToLikes: 0.023008
-    id: ck5zihuytfqi80i149gskxq60
+    followers: 17341
+    engagement: 1245
+    commentsToLikes: 0.056389
+    id: ck5ziilvqfs2p0i149g4ghf37
     verified: false
-    hashtags: ""
-  - username: "swiss.bikergirl"
+    hashtags: "#gymjunkie, #body, #kw, #loweredlifestyle"
+  - username: "sgy.kwz"
     fullname: >-
-      Mira Bella Weingart
+      𝙎𝙤𝙥𝙝𝙞𝙚
     bio: >-
-      • Hey there!👋🏼 I’m a Swiss Bikergirl from Lucerne🇨🇭 with a Yamaha MT 07 • Yes, I also have a life besides my bike: @mirabellaweingart •
+      📍| • VD | GVA🇨🇭 🏍| • Aprilia RS 660 🇮🇹 🏍️| • Aprilia Tuono V4 Factory 🇮🇹 🤝🏼| • @motofurialausanne | @armaspeed_official | @motogoodeal
     location: "Switzerland"
-    followers: 2840
-    engagement: 1516
-    commentsToLikes: 0.025534
-    id: ck138ncsxh2qv0i199m5hcdt9
+    followers: 65277
+    engagement: 131
+    commentsToLikes: 0.043776
+    id: ck8t1uia2x2ug0j78dsi0ep6t
     verified: false
-    hashtags: "#femalebikeriderscommunity, #bikersofinstagram, #bikersofswitzerland, #ladybikers"
-  - username: "_mojo22"
+    hashtags: "#ootdfashion, #brembo, #tuonov4, #bikelifestyle"
+  - username: "luxury.v4s"
     fullname: >-
-      Mo
+      🄳🅄🄲🄰🅃🄸 🅁🄸🄳🄴🅁
     bio: >-
-      "I am not perfect but i am limited edition!" Bikerlady 🏍 Honda AfricaTwin/cb1000r Based in 🇨🇭Switzerland/ Bucheggberg Photos taken by myself: Huawei
+      🌍 𝕊𝕦𝕚𝕤𝕤𝕖 / 𝕍𝕒𝕝𝕒𝕚𝕤 🇨🇭 🏍 𝔻𝕦𝕔𝕒𝕥𝕚 𝕤𝕥𝕣𝕖𝕖𝕥𝕗𝕚𝕘𝕙𝕥𝕖𝕣 𝕧𝟜𝕤 📸 𝕊𝕠𝕟𝕪 𝕒𝟟𝕔 / 𝕃𝕖𝕟𝕤𝕖𝕤 𝕋𝕒𝕞𝕣𝕠𝕟 🤝🏻 ℙ𝕒𝕣𝕥𝕟𝕖𝕣𝕤 𝕒𝕟𝕕 𝕡𝕣𝕠𝕞𝕠 𝕔𝕠𝕕𝕖 𝕝𝕚𝕤𝕥 𝕕𝕠𝕨𝕟 ⬇️
     location: "Switzerland"
-    followers: 6064
-    engagement: 1519
-    commentsToLikes: 0.162763
-    id: ck136g1k96bgj0i19rs8uglwz
+    followers: 108265
+    engagement: 91
+    commentsToLikes: 0.039789
+    id: ck5zigwfhfogz0i14q9eqdyus
     verified: false
-    hashtags: "#bikeporn, #bikerswithoutlimits, #instamoto, #bikersfamily"
+    hashtags: "#biker, #motoask, #shoei, #motorcycleofinstagram"
 ---

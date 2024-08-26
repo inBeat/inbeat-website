@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Ireland In 2023
+title: Top 10 Models TikTok Influencers In Ireland In 2024
 description: >-
-  Find top models TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #foryou #model #viral.
+  Find top models TikTok influencers in Ireland in 2024. Most popular hashtags: #fyp #foryou #model #viral.
 platform: TikTok
 hits: 11
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 11 TikTok influencers like this in Ireland for you to contact.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 11 TikTok influencers like this in Ireland for you to pitch.
 profiles:
   - username: "makeupbyjade_1"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.016814
     id: ckb0n0rxoddtd0j23lh4b6uv9
     verified: false
-    hashtags: "#foryou, #haul, #mua, #fyp"
+    hashtags: "#foryou, #nespressotalents, #fyp, #haul"
   - username: "evanhalpennyy"
     fullname: >-
       Evan Halpenny
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.007105
     id: ckb98cwzzrt700j23m3mx6lct
     verified: false
-    hashtags: "#funny, #show, #lol, #comedy"
+    hashtags: "#funny, #show, #fyp, #tvshow"
   - username: "sparklingspastic"
     fullname: >-
       Leana Spazzi

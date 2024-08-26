@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Tokyo In 2023
+title: Top 10 Travel TikTok Influencers In Tokyo In 2024
 description: >-
-  Find top travel TikTok influencers in Tokyo in 2023. Most popular hashtags: #tiktok #japan #tokyo #travel.
+  Find top travel TikTok influencers in Tokyo in 2024. Most popular hashtags: #tiktok #japan #tokyo #travel.
 platform: TikTok
 hits: 5
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 5 TikTok influencers like this in Tokyo, Japan for you to collaborate.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 5 TikTok influencers like this in Tokyo, Japan for you to work with.
 profiles:
   - username: "sugoimart"
     fullname: >-
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.009282
     id: ckbqlw1v36zqa0j23egd50ui1
     verified: false
-    hashtags: "#tiktok, #instagramstories, #favosquare, #fyp"
+    hashtags: "#fyp, #favosquare, #tiktok, #instagramstories"
   - username: "unaoki_trip"
     fullname: >-
       うなおき世界一周夫婦

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In United States In 2023
+title: Top 10 Cooking TikTok Influencers In United States In 2024
 description: >-
-  Find top cooking TikTok influencers in United States in 2023. Most popular hashtags: #stitch #duet #baking #fyp.
+  Find top cooking TikTok influencers in United States in 2024. Most popular hashtags: #stitch #fyp #baking.
 platform: TikTok
-hits: 2826
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 2826 TikTok influencers like this in United States for you to contact.
+hits: 2804
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine has 2804 TikTok influencers like this in United States for you to work with.
 profiles:
   - username: "symphonic_bear"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.196902
     id: ck9glnlycp67y0j78qhgmu8w8
     verified: false
-    hashtags: "#clarinet, #otherkinfamily, #stitch, #gaybears"
+    hashtags: "#gaybears, #bearinet, #stitch, #clarinet"
   - username: "growingthroughtheweeds"
     fullname: >-
       Growing Through The Weeds 🍓
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.309111
     id: ckc8xfm28lcen0j23p1lup6zq
     verified: false
-    hashtags: "#gardening, #garden, #summer, #growfoodnow"
+    hashtags: "#growfoodnow, #gardening, #vacation, #garden"
   - username: "seatrick"
     fullname: >-
       SeaTrick 
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.049218
     id: ck81s2bslphml0j783w2qxzry
     verified: false
-    hashtags: "#stitch, #harrypotter, #smallbusiness, #sewing"
+    hashtags: "#smallbusiness, #cashapron, #halfasssedcooking, #wand"
   - username: "cookingwithlynja"
     fullname: >-
       Lynja
@@ -55,18 +55,6 @@ profiles:
     id: ckd0jrr5qflwc0j23iwlvtur9
     verified: true
     hashtags: "#taotronics, #airfryer, #chickenwings, #dailyharvest"
-  - username: "jaimemessina"
-    fullname: >-
-      Jaime Messina
-    bio: >-
-      ✨High Vibes 💫 🌴 Boston to Florida 🥓LC Cooking 🐱Cat Lady 🏳️‍🌈LGBTQ
-    location: "United States"
-    followers: 43400
-    engagement: 1226
-    commentsToLikes: 0.185046
-    id: ckb9rx26xonjw0j23t3wupa4n
-    verified: false
-    hashtags: "#lgbtq, #persiancat, #catlady, #lgbt"
   - username: "supremestephany20"
     fullname: >-
       SupremeStephany20
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.263452
     id: ck9flkuatobgx0j78tbwy8i1l
     verified: false
-    hashtags: "#fy, #honeymoon, #hawaii, #tryonhaulclothes"
+    hashtags: "#honeymoon, #fy, #hawaii, #boilingcrab"
   - username: "levelupirl"
     fullname: >-
       levelupirl
@@ -102,7 +90,7 @@ profiles:
     commentsToLikes: 0.072839
     id: ckdnarc5ig5vq0j23127mose1
     verified: false
-    hashtags: "#petsoftiktok, #huskymom, #fyp, #husky"
+    hashtags: "#huskymom, #husky, #petsoftiktok, #foodtiktok"
   - username: "matthewinthekitchen"
     fullname: >-
       Matthew Merril
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.066233
     id: ck9nt8rkvh9n00j78y6ycgfi7
     verified: false
-    hashtags: "#sourdough, #breadtok, #ifeelweightless, #shadowandbone"
+    hashtags: "#shadowandbone, #momsoftiktok, #ifeelweightless, #breadtok"
+  - username: "tonymasseycooks"
+    fullname: >-
+      Tony Massey
+    bio: >-
+      Welcome to my world of Cooking and Music! Enjoy! $TMassSpeaks
+    location: "United States"
+    followers: 129700
+    engagement: 1298
+    commentsToLikes: 0.038360
+    id: ckdn5opplei8x0j23dmpft217
+    verified: false
+    hashtags: "#recipesforyou, #whatilearned, #tiktokrecipes, #selflove"
 ---

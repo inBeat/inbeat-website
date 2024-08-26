@@ -1,12 +1,36 @@
 ---
-title: Top 10 Dancers Instagram Influencers In 2023
+title: Top 10 Dancers Instagram Influencers In 2024
 description: >-
-  Find top dancers Instagram influencers in 2023. Most popular hashtags: #reels #dancer #dance.
+  Find top dancers Instagram influencers in 2024. Most popular hashtags: #dancer #dance #reels.
 platform: Instagram
-hits: 12865
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database holds 12865 Instagram influencers like this for you to collaborate.
+hits: 13302
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 13302 Instagram influencers like this for you to collaborate.
 profiles:
+  - username: "alinekjj"
+    fullname: >-
+      Aline Osorio
+    bio: >-
+      Dancer | 🇨🇱
+    location: "Chile"
+    followers: 40561
+    engagement: 441
+    commentsToLikes: 0.017334
+    id: ck5bx5krun1tt0i11idboc4p5
+    verified: false
+    hashtags: "#pinguinosmarinela"
+  - username: "alessandraferriofficial_"
+    fullname: >-
+      Alessandra Ferri
+    bio: >-
+      Dancer
+    location: "United States"
+    followers: 71811
+    engagement: 445
+    commentsToLikes: 0.023603
+    id: ck8szjs31opwd0j78kibhu0yj
+    verified: true
+    hashtags: "#dancefestival, #hamburgcity, #staatsoperhamburg, #twomore"
   - username: "rogeroes"
     fullname: >-
       Rogelio Rolon
@@ -42,19 +66,7 @@ profiles:
     commentsToLikes: 0.093167
     id: ck6ubpvkhb0240j71bb0xfton
     verified: false
-    hashtags: "#orlando, #latin, #bachata, #dancing"
-  - username: "alessandraferriofficial_"
-    fullname: >-
-      Alessandra Ferri
-    bio: >-
-      Dancer
-    location: "United States"
-    followers: 44645
-    engagement: 729
-    commentsToLikes: 0.023055
-    id: ck8szjs31opwd0j78kibhu0yj
-    verified: true
-    hashtags: "#rolandpetit, #savethearts, #hamburgballet, #dontrushchallenge"
+    hashtags: "#loveyou, #dancer, #dancers, #amazing"
   - username: "gwendancer01"
     fullname: >-
       Dancer
@@ -71,60 +83,48 @@ profiles:
     fullname: >-
       Nicole Laeno
     bio: >-
-      dancer | youtuber | @nicolelaenoxx business: lindalaeno@yahoo.com VLOGMAS ‘22 MERCH ⤵️🎄
+      18 | dancer & youtuber | @thelaenofamily business: lindalaeno@yahoo.com STAY POSITIVE💗
     location: "United States"
-    followers: 1703070
-    engagement: 822
-    commentsToLikes: 0.003498
+    followers: 1841305
+    engagement: 742
+    commentsToLikes: 0.002956
     id: ck0ttb3gq1xrs0i19jo59fsbj
     verified: true
-    hashtags: "#dkspartner, #hichewreducedsugar, #hichewbetterforchew, #youdotyou"
-  - username: "sona_dey_official"
+    hashtags: "#hiphop, #dance, #explorepage, #18"
+  - username: "marymargonzalez"
     fullname: >-
-      Sona Dey
+      Maria Del Mar Gonzalez
     bio: >-
-      Actor | Model | Dancer Work Hard Until Your Signature Turns to Autograph💫😊 - Any Queries - 6232770057
-    location: "India"
-    followers: 4450436
-    engagement: 446
-    commentsToLikes: 0.019763
-    id: ck9hcqspvmm3j0j78190rorkp
-    verified: false
-    hashtags: "#viral, #trending, #reels, #padmavati"
-  - username: "starkestruck"
-    fullname: >-
-      Taylor Starke
-    bio: >-
-      🍎 NY 🙏🏽Owner @poleposition_ny ✨Pole dancer and performer ✨FKA Twigs, Snoop Dogg, Doja Cat, French Montana ✨Hustler’s Movie ✨DM for collaborations
-    location: "France"
-    followers: 26822
-    engagement: 685
-    commentsToLikes: 0.040575
-    id: cl3w8zi0zczu10i23wwrog75s
-    verified: false
-    hashtags: "#blackgirlspole, #wednesday, #poledancersofig, #weekendvibes"
-  - username: "becheekha"
-    fullname: >-
-      Muhammad Diligent Blesslee
-    bio: >-
-      #SINGER 🎶 #DANCER 🕺 #ACTOR 🎭 #Youtube 840K🎬 #Biggboss Season 4 RunnerUp✌🏼 Manager : @_.am._nimya_.sn._ Business: @akhil_cj8
-    location: "India"
-    followers: 602602
-    engagement: 3922
-    commentsToLikes: 0.012958
-    id: ck6ugybcg5w2g0j713qomb4hz
-    verified: false
-    hashtags: "#blesslee, #becheekha, #biggbossmalayalam, #cyberpunk"
-  - username: "baffmasta"
-    fullname: >-
-      Baff
-    bio: >-
-      Actor | Entertainer | Dancer
+      Actress / Pole Dancer / Lifter / Dancer Legit: Prestige Management NYC @a3artistsagency 🇵🇷 Multi-Hyphenate artist / NYC / PR📍
     location: "United States"
-    followers: 168537
-    engagement: 308
-    commentsToLikes: 0.034479
-    id: ck1399866k5fj0i19x27xf8va
+    followers: 135234
+    engagement: 586
+    commentsToLikes: 0.021955
+    id: ck0uelcolll6s0i1967pwwwht
     verified: false
-    hashtags: "#ghana, #baffmasta, #clarence, #comedy"
+    hashtags: "#strongwomen, #puertorico, #palazzo, #italy"
+  - username: "alpha_clasher"
+    fullname: >-
+      Pratik Jogia
+    bio: >-
+      • Gamer | Vlogger | Dancer 🕺 • Content Creator for @revenantesports.gg • Managed by : @8bit_thug @8bit_creatives • My Channels! 👇
+    location: "United States"
+    followers: 260751
+    engagement: 1542
+    commentsToLikes: 0.008066
+    id: ck8td588y1xit0j78ni6ydpv7
+    verified: false
+    hashtags: "#india, #alphaclasher, #navratri, #garba"
+  - username: "kgj.14"
+    fullname: >-
+      K E N S L E Y
+    bio: >-
+      💕Kensley's Show💕 City Girl with a Country Girl VIBE 📍SC, USA ===>Dancer ===>Influencer ===>Reviewer Mom @yolanflem
+    location: "United States"
+    followers: 25506
+    engagement: 445
+    commentsToLikes: 0.063368
+    id: cl7ivx8djudk40i23g4k8u4vt
+    verified: false
+    hashtags: "#pastrypremierambassador, #adayouknow, #sundayfunday, #girlsfashioninspo"
 ---

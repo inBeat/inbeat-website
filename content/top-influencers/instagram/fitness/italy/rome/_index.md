@@ -1,24 +1,12 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Rome In 2023
+title: Top 10 Fitness Instagram Influencers In Rome In 2024
 description: >-
-  Find top fitness Instagram influencers in Rome in 2023. Most popular hashtags: #italy #fitness #rome #italia.
+  Find top fitness Instagram influencers in Rome in 2024. Most popular hashtags: #fitness #rome #italy #love.
 platform: Instagram
-hits: 78
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 78 Instagram influencers like this in Rome, Italy for you to pitch.
+hits: 86
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 86 Instagram influencers like this in Rome, Italy for you to connect with.
 profiles:
-  - username: "massimo_sammito"
-    fullname: >-
-      Massimosammitoofficial
-    bio: >-
-      📍Milano, 39 anni🇮🇹 / . Twitter: Massimosammitoofficial . ❤️Sentimentalmente IMPEGNATO ❤️ 🏷️ Sicily / 📸 Work to Editing photo ACCOUNT QUELLO VERO..
-    location: "Italy"
-    followers: 17007
-    engagement: 439
-    commentsToLikes: 0.074170
-    id: ck8t8x6epm6330j78yzwtcjdp
-    verified: false
-    hashtags: "#instamilano, #igerslombardia, #polizia, #milanocity"
   - username: "_lauranicolelifestyle__"
     fullname: >-
       ʟᴀᴜʀᴀ ɴɪᴄᴏʟᴇ 🍁 ᴅᴀɪʟʏ ɪɴsᴘᴏ 👜
@@ -31,6 +19,30 @@ profiles:
     id: ck6txvwb505su0j71oi2rqwp6
     verified: false
     hashtags: "#beautifulgirls, #cozyvibes, #christmasdecor, #christmaspresents"
+  - username: "diletta.ferretti_"
+    fullname: >-
+      DILETTA FERRETTI  | Lifestyle
+    bio: >-
+      Inspired by fashion and aesthetic La vie est belle 🌈 📍Cardano al Campo (VA)
+    location: "Italy"
+    followers: 17726
+    engagement: 344
+    commentsToLikes: 0.143055
+    id: ck6ualkaa48gn0j714ob46501
+    verified: false
+    hashtags: "#bionell, #freshlycosmetics, #outfitideas, #influencerswanted"
+  - username: "stefaniasugarfree"
+    fullname: >-
+      Stefania Susca
+    bio: >-
+      💌 adv & collab: stefania.susca@spacesports.it 💖 Allenati con e come me con GOGIRL 👯‍♀️+5800 Donne in Community 👇🏼 ALLENATI CON ME👇🏼
+    location: "Italy"
+    followers: 160398
+    engagement: 109
+    commentsToLikes: 0.019573
+    id: ck8t8ukvalvsn0j78jscoty6p
+    verified: false
+    hashtags: "#foodspring, #foodspringfamily, #stefaniasugarfree, #hairtransformation"
   - username: "djdavidmorales"
     fullname: >-
       David Morales
@@ -43,30 +55,30 @@ profiles:
     id: ck0udpeqsjkdz0i19yspb0pzx
     verified: true
     hashtags: "#freedom, #diridimrecords, #musica, #wearesocial"
-  - username: "altamashfaraz"
+  - username: "selvaggiaroma_"
     fullname: >-
-      Altamash Faraz
+      SELVAGGIA
     bio: >-
-      Mr.Supranational Asia and Oceania 2018 • Mr.India 2017 🇮🇳🏆 • Lawyer • Seeker • Sufi
+      Founder : @selvaggiaroma_brand @lucateti9 ♥️ Email: press@selvaggiaroma.com Sito ufficiale ⤵️
     location: "Italy"
-    followers: 47300
-    engagement: 349
-    commentsToLikes: 0.011209
-    id: ck602o0lsi83p0i14tdw3ld75
+    followers: 1077721
+    engagement: 216
+    commentsToLikes: 0.041370
+    id: ck5hgjx1035y90i116folea1w
     verified: true
-    hashtags: "#love, #photography, #portrait, #men"
-  - username: "veronicafabrianesi"
+    hashtags: "#smile, #lifestyle, #locri, #adoropotente"
+  - username: "crystalafrica_"
     fullname: >-
-      𝐕𝐄𝐑𝐎𝐍𝐈𝐂𝐀 𝐅𝐀𝐁𝐑𝐈𝐀𝐍𝐄𝐒𝐈
+      crystal africa
     bio: >-
-      🇮🇹 RUNNING | FITNESS 🏃🏻‍♀️Team Running: @runnertrainer 📍 Rome, Italy 💌 Collab: veronica.fabrianesi@gmail.com
+      right place at the right time 🪬 dubai 🇿🇦
     location: "Italy"
-    followers: 80032
-    engagement: 125
-    commentsToLikes: 0.110126
-    id: ck8ta5dlqqhh30j78h4anw4w1
+    followers: 41506
+    engagement: 71
+    commentsToLikes: -1.221040
+    id: cl6mazjcbkpbw0i23pl2c37m7
     verified: false
-    hashtags: "#rome, #ig, #instarunners, #marathontraining"
+    hashtags: "#mekongdelta, #funnymemes, #reels, #aj"
   - username: "pau_armeria"
     fullname: >-
       Pau Armeria
@@ -79,52 +91,40 @@ profiles:
     id: ck8syersokme20j78pnegh92k
     verified: false
     hashtags: "#sportiva, #fight, #fita, #keepgoing"
-  - username: "angelicaceci95"
+  - username: "giuliaimperioo"
     fullname: >-
-      Angelica 💙
+      Giulia Imperio
     bio: >-
-      Roma 🇮🇹 Estetista💆‍♀️ Nail artist 💅 Passion for fashion👗👠 Fitness addict🏋️‍♀️
+      📍Rome ⭐️ @esercitoitaliano 💌 Collab: @lgssportlab 🏋🏻‍♀️WEIGHTLIFTING- cat. 49kg 🇮🇹 🥇 Senior Europen Champion 2022 🥇 Mediterrean Games 2022
     location: "Italy"
-    followers: 3701
-    engagement: 1356
-    commentsToLikes: 0.078475
-    id: ck8t5wrudbi500j78diegkd83
+    followers: 749792
+    engagement: 1482
+    commentsToLikes: 0.003043
+    id: ck6tjzrkz3q0d0j71ab26rb08
     verified: false
-    hashtags: "#veneziagram, #viaggiare, #travelblog, #throwback"
-  - username: "luca_contartese"
+    hashtags: "#italiateam, #muscle, #sonyalpha, #fipe"
+  - username: "noemi_trm"
     fullname: >-
-      Luca Contartese
+      Noemi Trombetta
     bio: >-
-      ᴀᴍʙɪᴛɪᴏɴ ᴋᴇᴇᴘs ʏᴏᴜ ᴀʟɪᴠᴇ ▪️ Milan📍Rome ▪️ @premiumlab__ Founder ▪️ @unimib Economy&marketing student ▪️ @elitemodelworld
+      🌓♑️ Fitness🏋🏼‍♀️🥊and Food&Wine🥘🍷lover Digital content creator👩🏻‍💻 SSCN⚽️💙🌋🌶️
     location: "Italy"
-    followers: 10169
-    engagement: 1307
-    commentsToLikes: 0.048403
-    id: ckap03wuxom9n0i78fq2k4xnz
+    followers: 15217
+    engagement: 278
+    commentsToLikes: 0.020544
+    id: ck6uejrxrrc400j715q3z6stj
     verified: false
-    hashtags: "#dg, #milano, #modeling, #mindset"
-  - username: "alessia.fit"
+    hashtags: "#love, #girl, #positivevibes, #me"
+  - username: "maria_roberta_g"
     fullname: >-
-      Alessia 🌸
+      Gherca Maria Roberta
     bio: >-
-      #fitness 💪🇮🇹26y/o 🌍from Palermo @move__fit Atlete Coupon: ALESSIAFIT10 👩‍💻for collaboration⬇️ 📧 alessiatullio21@gmail.com
+      Aeronautica militare 🦅 📍 Rome 🤸🏼‍♀️ Pole Vault 🏅 P.B. 4.40m 🎂 9-3-2000 Per collaborazioni: mariar.gherca@gmail.com
     location: "Italy"
-    followers: 17076
-    engagement: 384
-    commentsToLikes: 0.131188
-    id: ckaov9pe43mxc0i78xl4id0ng
+    followers: 172927
+    engagement: 255
+    commentsToLikes: 0.028898
+    id: clqshej1e0ghm0k08jqj495n1
     verified: false
-    hashtags: "#siciliagram, #sicilia, #roma, #igers"
-  - username: "andrea_muzilla_ifbbpro"
-    fullname: >-
-      ANDREA MUZI IFBB PRO
-    bio: >-
-      📍ROME🇮🇹 ♦️Atleta PRO @yamamotonutrition ➡️ code YX20+MUZILLA ➡️25% 📧 coaching: andrea_muzi@live.it ➡️teamstones👊 🏅4thYamamotoCUP’19 🏅5thFitparade🇧🇬’19
-    location: "Italy"
-    followers: 37441
-    engagement: 788
-    commentsToLikes: 0.019021
-    id: ck6tyhxzw3tx70j71z9r5g9gx
-    verified: false
-    hashtags: "#ifbb, #andreamuzi, #photo, #comeon"
+    hashtags: "#love, #spring, #gymgirl, #polevault"
 ---

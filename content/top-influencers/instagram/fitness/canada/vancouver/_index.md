@@ -1,72 +1,84 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Vancouver In 2023
+title: Top 10 Fitness Instagram Influencers In Vancouver In 2024
 description: >-
-  Find top fitness Instagram influencers in Vancouver in 2023. Most popular hashtags: #vancouver #fitness #canada #vancity.
+  Find top fitness Instagram influencers in Vancouver in 2024. Most popular hashtags: #fitness #vancouver #workout.
 platform: Instagram
-hits: 44
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 44 Instagram influencers like this in Vancouver, Canada for you to contact.
+hits: 67
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database holds 67 Instagram influencers like this in Vancouver, Canada for you to pitch.
 profiles:
-  - username: "alidaggerkhanjari"
+  - username: "micjanee"
     fullname: >-
-      Ali Khanjari ( Dagger )
+      M I C H A E L A J A N E
     bio: >-
-      -International Muaythai(WMC)& Kickboxing(WAKO) Instructor -Bachelor of Kinesiology -co-own District Warrior gym 📍Vancouver-Canada 🇨🇦 📞+1778-855-3831
+      fashion • beauty • lifestyle • fitness vancouver + la based 💌 micjanee.k@gmail.com / @jabberhaus
     location: "Canada"
-    followers: 35672
-    engagement: 377
-    commentsToLikes: 0.052768
-    id: ck6trypyh1ue40j71lezmdj8n
+    followers: 136939
+    engagement: 136
+    commentsToLikes: 0.057982
+    id: ck0vw34ekrvwi0i19p5yqtkgk
     verified: false
-    hashtags: "#vanfitfam, #thaiboxing, #vanfit, #vancouver"
-  - username: "stevibreezy"
+    hashtags: "#cleaningasmr, #lovelulus, #vacationinspiration, #cleanwithme"
+  - username: "cheaplazyvegan"
     fullname: >-
-      Stevi Schnoor
+      Rose 🌹 Cheap Lazy Vegan
     bio: >-
-      #theBULL 🏈3x🇺🇸 National 🏆, 1x🇨🇦 National 🏆 🏉🇨🇦Rugby League World Cup Athlete ‘17 💙Fulfilling my dreams while trying to inspire greatness in others
+      🎥 YouTube.com/cheaplazyvegan 🍴 My Vegan Cafe @savegyyc 🎤 Podcast @thesavegpodcast 🥰 Personal @therosatron 👇RECIPES & LINKS 😍
     location: "Canada"
-    followers: 20710
-    engagement: 202
-    commentsToLikes: 0.060351
-    id: ck6uhok1oabma0j71bhar371d
+    followers: 202021
+    engagement: 77
+    commentsToLikes: 0.023917
+    id: ck136n1357aob0i199kseyulp
     verified: false
-    hashtags: "#nikewomen, #wellness, #nutrition, #nikeaddict"
-  - username: "phaedrafitness"
+    hashtags: "#cheapvegan, #cheaplazyvegan, #easyrecipe, #vegansofig"
+  - username: "alicia.waters"
     fullname: >-
-      Phaedra Fitness
+      Alicia Waters
     bio: >-
-      Founder & CEO @vipfitnessandlifestyle 🖤
+      Sharing snapshots of life’s endless adventures, healthy & balanced living and passion for things I love✨ Girl mama💗 📍Vancouver, Canada
     location: "Canada"
-    followers: 204190
-    engagement: 217
-    commentsToLikes: 0.027269
-    id: ck15r3dcd5xui0i195ny3gv86
+    followers: 1901
+    engagement: 522
+    commentsToLikes: 0.071038
+    id: ck0w31vv3r7n80i19w7s8n0ir
     verified: false
-    hashtags: "#fitnessjourney, #bossbabe, #fitnessgirl, #crophoodie"
-  - username: "kym.lifts"
+    hashtags: "#twonager, #mindset, #lifeisgood, #proudmama"
+  - username: "danieladibfitness"
     fullname: >-
-      Online Transformation Coach
+      Daniela Dib- DibFit ®
     bio: >-
-      Get FIT, get LEAN, get STRONG, get to the NEXT LEVEL ⚡️ @thebarvancouver_ physique & performance trainer ⚡️ @hammerfitness 👙 Apply for coaching👇🏽
+      🚴🏽 Founder @dibfitcycle - 806 Homer Street, Vancouver- Fitness instructor ⏰ Book your bikes MONDAY at NOON 💪🏼 DibFit apparel available in the studio
     location: "Canada"
-    followers: 5820
-    engagement: 442
-    commentsToLikes: 0.056323
-    id: ckapc9tbw2ypm0i787oi9cbo1
+    followers: 30471
+    engagement: 488
+    commentsToLikes: 0.208540
+    id: ck5zns6e5p1xk0i14t0t4wygf
     verified: false
-    hashtags: "#fitnessmotivation, #lifetimenatural, #iwontjudgeyou, #posedvsrelaxed"
-  - username: "vancityplus"
+    hashtags: "#glow, #photography, #styled, #bride"
+  - username: "ambers.paradox"
     fullname: >-
-      Vancity+
+      Amber | Motorcycle Influencer
     bio: >-
-      Vancouver BC 🇨🇦 We Repost 🔄 Use Hashtag #vancityplus to get your content reposted with us
+      ▫️Motorcycles ~ Fitness 📍Vancouver, BC
     location: "Canada"
-    followers: 100380
-    engagement: 16
-    commentsToLikes: 0.003226
-    id: ck9havcgyeap40j78izhimp1v
+    followers: 48711
+    engagement: 983
+    commentsToLikes: 0.027081
+    id: ck14jdirnjssx0i1969ablqz4
     verified: false
-    hashtags: "#vancouvervideographer, #vancouverweddingphotographer, #britishcolumbia, #vancouvertattooartist"
+    hashtags: "#damonmotorcycles, #s1000rr, #instamotogallery, #ducatipeople"
+  - username: "mtsinkorang"
+    fullname: >-
+      MATT TSINKORANG 🇨🇦🇬🇭🇺🇦
+    bio: >-
+      🥇2 X MR CANADA Bodybuilding Champ 🏋️‍♂️ Fitness Coach 📥 DM for Inquiries 🎙️ @musclediscord host ☣️ mutantnation TSINK20 🍽️ wearepremiummeals TSINK15
+    location: "Canada"
+    followers: 30604
+    engagement: 171
+    commentsToLikes: 0.044696
+    id: ck6tvb178l73f0j71z3bgp0k1
+    verified: false
+    hashtags: "#mealprep, #workout, #motivation, #bodybuilding"
   - username: "wil.loh"
     fullname: >-
       WILSON LOH | VANCOUVER FITNESS
@@ -79,6 +91,30 @@ profiles:
     id: ckap4u9908wjn0i78sn655hv2
     verified: false
     hashtags: "#1up, #1upnutrition, #gymshark, #homeworkout"
+  - username: "deannawoo"
+    fullname: >-
+      Deanna Woo
+    bio: >-
+      vancouver • food • fitness • travel etc. 💌: dcwoo9293@gmail.com 🎥: join my tiktok fam (69K+)
+    location: "Canada"
+    followers: 108706
+    engagement: 515
+    commentsToLikes: 0.201508
+    id: ck0vv5ehynmlc0i19v5dv41dt
+    verified: false
+    hashtags: "#vancouver, #vancouverfood, #dessert, #kimbap"
+  - username: "karaacoops"
+    fullname: >-
+      Kara 🌱✨
+    bio: >-
+      Vancouver | Yoga & Fitness Instructor | move with me- @oyfyaletown
+    location: "Canada"
+    followers: 8241
+    engagement: 307
+    commentsToLikes: 0.039078
+    id: ckap95i1mr8il0i78ks0t8stj
+    verified: false
+    hashtags: "#recentsdump, #fitness, #bodyweightworkout, #workout"
   - username: "angelicaalmirol"
     fullname: >-
       𝐀𝐍𝐆𝐄𝐋𝐈𝐂𝐀 𝐀𝐋𝐌𝐈𝐑𝐎𝐋
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.053664
     id: ck6u70c8ciqdx0j711klpwl0e
     verified: false
-    hashtags: "#dyegift, #teamboandtee, #gifted, #nvgtn"
-  - username: "hopsnscrubs"
-    fullname: >-
-      Davon Ehlner
-    bio: >-
-      2 RN’s and a Fitness Guru from Vancouver, BC. Weekly stories/comics/short films! 😀🍻
-    location: "Canada"
-    followers: 3276
-    engagement: 1052
-    commentsToLikes: 0.197625
-    id: ck0w31n5mr6fk0i19r1e9k0l2
-    verified: false
-    hashtags: "#stout, #funnycomics, #beerporn, #beertography"
-  - username: "alicia.waters"
-    fullname: >-
-      Alicia Waters
-    bio: >-
-      Sharing snapshots of life’s endless adventures, healthy & balanced living and passion for things I love✨ Girl mama💗 📍Vancouver, Canada
-    location: "Canada"
-    followers: 1901
-    engagement: 522
-    commentsToLikes: 0.071038
-    id: ck0w31vv3r7n80i19w7s8n0ir
-    verified: false
-    hashtags: "#summervibes, #outdooradventures, #vancouverhikes, #healthyeating"
-  - username: "yandjii"
-    fullname: >-
-      YANDJI💋 (yan-gee)
-    bio: >-
-      ‘WAVY’ out on ALL platforms 💎 Your favourite trouble maker 😈 If not me, then who? Click below!
-    location: "Canada"
-    followers: 12450
-    engagement: 1608
-    commentsToLikes: 0.069798
-    id: ckap5p95ocl1t0i78oxtkk7dh
-    verified: false
-    hashtags: "#music, #explorepage, #blackwoman, #exploremore"
+    hashtags: "#happyinternationalwomensday, #dyegift, #teamboandtee, #gifted"
 ---

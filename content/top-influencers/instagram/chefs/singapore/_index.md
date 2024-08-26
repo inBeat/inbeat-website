@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Singapore in 2023
+title: Top 10 Chefs Instagram Influencers In Singapore In 2024
 description: >-
-  Find top chefs Instagram influencers in Singapore in 2023. Most popular hashtags: #singapore #stayhome #instafood #love.
+  Find top chefs Instagram influencers in Singapore in 2024. Most popular hashtags: #singapore #sgfoodblogger #sgfood #sgfoodie.
 platform: Instagram
-hits: 11
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 11 Instagram influencers like this in Singapore for you to contact.
+hits: 10
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 10 Instagram influencers like this in Singapore for you to pitch.
 profiles:
   - username: "lennardy"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Once an engineer, now on a journey to learn about food In-house chef at Miele Singapore
     location: "Singapore"
-    followers: 79845
-    engagement: 292
-    commentsToLikes: 0.027470
+    followers: 375040
+    engagement: 380
+    commentsToLikes: 0.028789
     id: ck6tm39k773pc0j71b2kzsii9
     verified: false
-    hashtags: "#csfresh, #csfreshcollective, #coldstoragesg, #stayhome"
-  - username: "gayatriisingh"
+    hashtags: "#hawkerfood, #singapore, #willitwaffle, #singaporefood"
+  - username: "honeybeesweets.sg"
     fullname: >-
-      Gayatri Singh-Culinary Nirvana
+      Honey Bee 🐝
     bio: >-
-      #food | #recipes | #lifestyle •trained chef•recipe developer •photographer•thermomix chef & teacher #culinarynirvana DM for Collabs Tap👇🏼for recipes
+      ⬆️ Self taught home “Chef” Daily home cooked meals Creative dishes for👦🏻👧🏻 &👵🏻👴🏻 FB : Honeybeesweets Kitchen Loves to bake & experiment on recipes
     location: "Singapore"
-    followers: 37286
-    engagement: 103
-    commentsToLikes: 0.226808
-    id: ck5q80oyr3xfs0i11vvgn5phe
+    followers: 127840
+    engagement: 12
+    commentsToLikes: 0.024781
+    id: cllzvyvk1s04j0j08s9q9v7b0
     verified: false
-    hashtags: "#stylingmyseasons, #incredibleindia, #nothingisordinary, #food52community"
-  - username: "chef_sebastien_lepinoy"
+    hashtags: "#03, #honeybeecooksonepotmeals, #01, #butchersblock"
+  - username: "foodtravelbabe"
     fullname: >-
-      Lepinoy Sebastien
+      FOODTRAVELBABE by Eunice Lim
     bio: >-
-      ⭐️⭐️⭐Michelin Stars Chef, Haute Cuisine Typiquement Française ::: Chopard, Alpine Eagle Ambassador :::
+      top restaurants + hotels + travel guides 🗺️ world traveler & food lover 🥂 savor & share my best experiences + tips 💌 hello@foodtravelbabe.com
     location: "Singapore"
-    followers: 16759
-    engagement: 233
-    commentsToLikes: 0.025295
-    id: ck55kslk000750i11jx92252y
+    followers: 37691
+    engagement: 3031
+    commentsToLikes: 0.066994
+    id: cloxoi27d0fc30j08eq20abnn
     verified: false
-    hashtags: "#asia50best, #michelin3stars, #lesgrandestablesdumonde, #chopardalpineeagle"
-  - username: "aun_koh"
+    hashtags: "#jaanbykirkwestaway, #sp, #bali, #michelinguide"
+  - username: "goofytwocooks"
     fullname: >-
-      Aun Koh
+      Singapore Food • Travel • Lifestyle
     bio: >-
-      +65 dad. Food + Family + Travel Chubby Hubby to @sulyntan. Bladesmith @tskblades.
+      👣 TikTok、小红书 🔖 1 & Only Account 5% OFF KLOOK use code: GOOFYKLOOK
     location: "Singapore"
-    followers: 18812
-    engagement: 261
-    commentsToLikes: 0.027066
-    id: ck15slgkwdlum0i19cuusuxvy
+    followers: 20427
+    engagement: 77
+    commentsToLikes: 0.023191
+    id: clm70akz0gfq60j08f0aagnir
     verified: false
-    hashtags: "#homecooking, #loveyourlocalsg, #staythefuckhomerecipes, #unipasta"
-  - username: "wahyurahman"
+    hashtags: "#hiddengem, #foodphotography, #foodblogger, #sgfoodies"
+  - username: "benyeo23"
     fullname: >-
-      I𝗠𝗶𝘀𝘀𝗛𝘆𝘂™
+      𝗕𝗘𝗡 𝗬𝗘𝗢  𝘈𝘤𝘵𝘰𝘳 & 𝘋𝘢𝘥𝘥𝘺 𝘊𝘩𝘦𝘧 🇸🇬
     bio: >-
-      𝗟𝗶𝗳𝗲𝘀𝘁𝘆𝗹𝗲, 𝗜𝗺𝗮𝗴𝗲 & 𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗣𝗿𝗼𝗱𝘂𝗰𝗲𝗿 Punk Rocker Actress #IMissHyu #MissHyu imisshyu@gmail.com Clients Astro,Mediacorp etc
+      Husband to my Baby Father of 乐乐安安 Food Fashion @mediacorp Artiste managed by @the_celebrityagency
     location: "Singapore"
-    followers: 29528
-    engagement: 81
-    commentsToLikes: 0.067035
-    id: ck15q25tg0qjv0i195oljfzs0
-    verified: false
-    hashtags: "#producer, #quotes, #life, #alhamdulillah"
+    followers: 97251
+    engagement: 69
+    commentsToLikes: 0.027697
+    id: ck6tjmust30uv0j71u8f80pfs
+    verified: true
+    hashtags: "#mcdxbenyeo, #crispyhainanesechickenburger, #outdoorliving, #bangkok"
   - username: "foodilicious_diva"
     fullname: >-
       Foodilicious Singapore
     bio: >-
-      DM for Collabs / Invites Singapore Food/Beverage/Lifestyle Content Creator
+      TikTok: foodilicious_diva08 Food / Home cooking / Lifestyle / Beauty / Fitness 📩cyeo0530@gmail.com for Collaboration & invites Promo Code⬇️
     location: "Singapore"
-    followers: 10907
-    engagement: 492
-    commentsToLikes: 0.197497
+    followers: 24145
+    engagement: 101
+    commentsToLikes: 0.587429
     id: ck8tawwsotetg0j78mfxpc1qf
     verified: false
-    hashtags: "#malayfood, #savefnbsg, #sgfoodporn, #sgrestaurant"
-  - username: "foodirectory.sg"
+    hashtags: "#instafoodsg, #sglifestyleblogger, #sgfood, #foodphotography"
+  - username: "n3fn3f"
     fullname: >-
-      Christine • #foodirectorysg
+      𝗢𝗸𝘁𝗮𝘃𝗶𝗮𝗻𝗶 FenFen
     bio: >-
-      📍Singapore Wandering gastronaut 💫 • 📝 sg.foodirectory@gmail.com
+      ❤️𝗛𝗲𝗮𝗹𝘁𝗵 | 𝗙𝗶𝘁𝗻𝗲𝘀𝘀 | 𝗙𝗼𝗼𝗱 | 𝗟𝗶𝗳𝗲𝘀𝘁𝘆𝗹𝗲 📸Food Photography @shotby_fenfen 📧venalie@yahoo.com 🌱Nuzest: FenFen10 ✈️Klook: OKTAVIANI 📍🇸🇬
     location: "Singapore"
-    followers: 16393
-    engagement: 294
-    commentsToLikes: 0.069530
-    id: ck5zwkfy86a480i14zy68ci4y
+    followers: 20023
+    engagement: 259
+    commentsToLikes: 0.123121
+    id: clm70ajjmgeeh0j08n0kup6ix
     verified: false
-    hashtags: "#foodirectorysg, #violetoonsingapore, #cqtogether, #lafolie1111"
-  - username: "nadiahmdin"
+    hashtags: "#sgfoodstagram, #n3fn3feats, #sgeats, #sgfoodtrend"
+  - username: "mightyfoodie"
     fullname: >-
-      Nadiah M.Din
+      JOE YANG
     bio: >-
-      🎬 Tv/Film Actor & Host 👩🏽 🇸🇬Javanese and Pakistani. #asktherevertiglive #lapouponsmaison #lespouponsdecor @lespoupons.sg 📧-Nmdin.official@gmail.com
+      Alt: @mighty.explorers #joetravelaroundtheworld #mightystaycation #mightyhawkerfood #mightyhomecook 📸 Sony AR7iii with 24 to 70mm 💍 Married
     location: "Singapore"
-    followers: 158221
-    engagement: 144
-    commentsToLikes: 0.046027
-    id: ck0u2a0v2zdx90i19cggrb9qg
-    verified: true
-    hashtags: "#asktherevert, #nomadseries, #asktherevertqna, #lapouponsmaison"
-  - username: "heyrozz"
-    fullname: >-
-      ROZZ
-    bio: >-
-      🏴‍☠️singaporean. friend of @tagheuer 📸 helping out @hipxiongphotostudio 🛸 56 countries, 147 cities 👉🏼reachrozz@gmail.com ➕MY VLOGS:
-    location: "Singapore"
-    followers: 110157
-    engagement: 183
-    commentsToLikes: 0.016265
-    id: ck0w30r7mr1vw0i19302a1y2i
-    verified: true
-    hashtags: "#shotoniphone11pro, #letscookwithrozz, #rozzinsingapore, #rozzeats"
-  - username: "sushimastertessa"
-    fullname: >-
-      Tessa テッサ
-    bio: >-
-      The Sushi Girl from Singapore 🍣 Explored over 130 restaurants worldwide! 🌏 Follow my sushi adventures 😃 #sushitessa 私の寿司アドベンチャーについてきて
-    location: "Singapore"
-    followers: 27481
-    engagement: 281
-    commentsToLikes: 0.017095
-    id: ck15pxrrt05ty0i19bycljuh5
+    followers: 50033
+    engagement: 24
+    commentsToLikes: 0.033942
+    id: ck6ttrt8jc8rd0j71duvtlbq4
     verified: false
-    hashtags: "#featured, #food, #singapore, #sushi"
+    hashtags: "#sonyalphasg, #hungrygowhere, #mooncake2023, #joetravelaroundtheworld"
+  - username: "foodkingnoc"
+    fullname: >-
+      Food King By NOC
+    bio: >-
+      Hungry. Honest. Unapologetic. #FoodKingGood. ✉️: aiken@noc.com.sg / ryan@noc.com.sg Our LAST Episode After 3 Years👇
+    location: "Singapore"
+    followers: 114217
+    engagement: 141
+    commentsToLikes: 0.004563
+    id: ck5c5o1zy3u4q0i11m8vy02gd
+    verified: false
+    hashtags: "#makelifebetter, #eatbetter, #smartsensing, #perfectforcelebration"
+  - username: "chefbob.sg"
+    fullname: >-
+      Chef Bob
+    bio: >-
+      📍🇸🇬 Family|Faith|Fitness|Food Co-Founder: @9yards.cafe @krush.sg Manager: norlina.norbaidin@gmail.com @thelandmarksingapore @royalpalmocc
+    location: "Singapore"
+    followers: 81367
+    engagement: 4953
+    commentsToLikes: 0.038101
+    id: ck0w5dki634ak0i19n7edoqxr
+    verified: false
+    hashtags: "#jantankeberet, #genx, #geriatricmillennials, #jantanjoget"
 ---

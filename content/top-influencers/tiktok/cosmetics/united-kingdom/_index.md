@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers In United Kingdom In 2023
+title: Top 10 Cosmetics TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top cosmetics TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryou #makeup #viral.
+  Find top cosmetics TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #foryou #duet #viral.
 platform: TikTok
-hits: 21
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our search engine holds 21 TikTok influencers like this in United Kingdom for you to contact.
+hits: 22
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our database has 22 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
   - username: "lushhull"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.028958
     id: ck8ndqhqdk2vc0j780gdvjyho
     verified: false
-    hashtags: "#nespressotalents, #viral, #foryou, #makeup"
+    hashtags: "#emojichallenge, #colourpop, #nespressotalents, #foryou"
   - username: "bperfectcosmetics"
     fullname: >-
       BPerfect Cosmetics
@@ -43,6 +43,18 @@ profiles:
     id: ck8nh6dlozdvh0j780g0kwjkj
     verified: false
     hashtags: "#christmas, #indestructibrow, #manifestpalette, #carnivallovetahiti"
+  - username: "dr.karanr"
+    fullname: >-
+      Dr Karan Raj
+    bio: >-
+      Follow me on IG: drkaranrajan Sub to my YT⬇️⬇️ www.youtube.com/drkaran
+    location: "United Kingdom"
+    followers: 3400000
+    engagement: 1419
+    commentsToLikes: 0.015481
+    id: ck8z2vfue6yyc0j78erp513rv
+    verified: true
+    hashtags: "#berightbackworld, #learnontiktok, #dream, #schoolwithdrkaran"
   - username: "kevindp88"
     fullname: >-
       Kevin Daniel Parkhouse
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.034343
     id: ckce1mo2yicfz0j23sxelh24d
     verified: false
-    hashtags: "#acting, #funny, #bants, #foryou"
+    hashtags: "#dance, #car, #jokes, #acting"
   - username: "yes_its_rhys"
     fullname: >-
       Yes_Its_Rhys
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.109378
     id: ck9fq3z6paex70j78wj1yu1pf
     verified: false
-    hashtags: "#yesitsrhys, #gay, #duet, #gayguysoftiktok"
+    hashtags: "#gaysingle, #gayguys, #stitch, #duet"
   - username: "leonahoneyman1"
     fullname: >-
       leonahoneyman1
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.041221
     id: cka0hr4fyabse0i78lki2gooj
     verified: false
-    hashtags: "#haul, #foryoupage, #viral, #fyp"
-  - username: "amber_scottt"
-    fullname: >-
-      amber_scottt
-    bio: >-
-      Insta - @amber_scottt 22🌸 Northern Ireland🌻
-    location: "United Kingdom"
-    followers: 77600
-    engagement: 1413
-    commentsToLikes: 0.017329
-    id: ck8f7fzkx30ue0j789asf8wqu
-    verified: false
-    hashtags: "#goboldcolorista, #coming2america, #videosnapchallenge, #ourhouse2021"
+    hashtags: "#fyp, #viral, #sportsdirectreprace, #haul"
 ---

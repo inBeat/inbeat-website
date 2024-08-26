@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In New York In 2023
+title: Top 10 Architecture Instagram Influencers In New York In 2024
 description: >-
-  Find top architecture Instagram influencers in New York in 2023. Most popular hashtags: #newyork #architecture #newyorkcity #nyc.
+  Find top architecture Instagram influencers in New York in 2024. Most popular hashtags: #newyork #architecture #nyc #travel.
 platform: Instagram
 hits: 370
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 370 Instagram influencers like this in New York, United States for you to contact.
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 370 Instagram influencers like this in New York, United States for you to collaborate.
 profiles:
   - username: "imxplorer"
     fullname: >-
@@ -67,64 +67,64 @@ profiles:
     id: ck8t4r21y7r6g0j78was1fhqj
     verified: false
     hashtags: "#newyorkfood, #america, #ny, #nycity"
-  - username: "christinebottross"
+  - username: "naomisoms"
     fullname: >-
-      ChristineB. | Travel | Inspo
+      NAYONCÈ💋
     bio: >-
-      Stretching my life sides & taking you along with me. 📍#NYC based, #Cairo origins🐪 ✎ christinebottross@gmail.com
+      Forget maps, follow your instincts 💫 NYC 📍 HAIR, BEAUTY & TRAVEL ENTHUSIAST
     location: "United States"
-    followers: 30026
-    engagement: 234
-    commentsToLikes: 0.066910
-    id: ck0u95j7493ut0i19hmqcerhy
+    followers: 39624
+    engagement: 60
+    commentsToLikes: 1.757964
+    id: ck5zmzk14nhx10i148ea0eqbb
     verified: false
-    hashtags: "#nyc, #stayandwander, #visitdr, #travelinspo"
-  - username: "asthetique.atelier"
+    hashtags: "#curvybody, #melanin, #redhaircolor, #freespirit"
+  - username: "ntviz"
     fullname: >-
-      Asthetique Atelíer
+      Nazar Tsymbaliuk
     bio: >-
-      Alchemy For Your Home™ Inspired by Mystical Minimalism 1st Drop | JULY 2021 by @asthetiquegroup
+      All the images are made by myself/tag @ntviz - Worldwide Hi-end 3d-renderings; - Interior design; DM for cooperation - Mail: ntvizstudio@gmail.com
     location: "United States"
-    followers: 21498
-    engagement: 238
-    commentsToLikes: 0.011434
-    id: ck6u53f5f7del0j71p84a4smp
+    followers: 25803
+    engagement: 902
+    commentsToLikes: 0.013517
+    id: ck6tlrgum6i7e0j711p5jj448
     verified: false
-    hashtags: "#homedecor, #logomark, #branding, #asthetiqueatelier"
-  - username: "discover.n.y.c"
+    hashtags: "#architecturedesign, #archilovers, #architecturelovers, #villa"
+  - username: "andrewrafaelkim"
     fullname: >-
-      Discover NYC
+      Andrew Kim
     bio: >-
-      🅽 Daily 𝗧𝗜𝗣𝗦 for your next 𝗡𝗬𝗖 𝗧𝗥𝗜𝗣 🆈 Travel 𝗚𝗨𝗜𝗗𝗘𝗦 by real New Yorkers 🅲 Live 𝗦𝗧𝗢𝗥𝗜𝗘𝗦 everyday from NYC ✈︎ 𝗕𝗘𝗦𝗧 Instagram page if you LOVE NYC
+      김현준 • NYC & TX • architecture student • ✞ 📧: akim108@gmail.com new arch vlog out now ⬇️
     location: "United States"
-    followers: 432071
-    engagement: 262
-    commentsToLikes: 0.010232
-    id: ck0u6yzkv3ct80i19xxcytiny
+    followers: 149673
+    engagement: 1552
+    commentsToLikes: 0.004444
+    id: cloec8krzlg650j08c0n4akyt
     verified: false
-    hashtags: "#newyorklife, #manhattan, #thisisnewyorkcity, #flynyon"
-  - username: "lastsuspect"
+    hashtags: "#architect, #architecturestudent, #hitcny, #jblpartner"
+  - username: "joanshomesmiami"
     fullname: >-
-      🐇
+      𝗠𝗜𝗔𝗠𝗜🌴𝗟𝗨𝗫𝗨𝗥𝗬 𝗛𝗢𝗠𝗘𝗦✨𝗟𝗜𝗙𝗘𝗦𝗧𝗬𝗟𝗘
     bio: >-
-      Loading ...
+      Joan Bruggink 🇳🇱🇺🇸📍#Miami ✨ Luxury Real Estate Agent >’13 🌴•Buy •Sell •Rent 🏡📩 joan@joanshomesmiami.com #miamirealtor #miamirealestate #luxuryrealtor
     location: "United States"
-    followers: 201302
-    engagement: 76
-    commentsToLikes: 0.013512
-    id: ck0vvqv18qctm0i19c8rg0l4s
+    followers: 31008
+    engagement: 190
+    commentsToLikes: 0.143344
+    id: ck15rmujp8osv0i195h9x1o7n
     verified: false
-    hashtags: "#createcommune, #igshotz, #mobilemag, #streetmagazine"
-  - username: "joethommas"
+    hashtags: "#miamiluxurycondos, #dreamhome, #nyc, #nycviews"
+  - username: "travacs"
     fullname: >-
-      Joe Thomas
+      Travel & Vacation
     bio: >-
-      Travel + Architecture Photographer 𖤥 New York Interior work: @joethomasphoto ✉︎ joethomasphoto@gmail.com
+      Inspiring people to travel and explore our beautiful earth🌏 📍 Tag us and use #travacs to be featured Contact/Collab: travacs1@gmail.com
     location: "United States"
-    followers: 143293
-    engagement: 624
-    commentsToLikes: 0.015959
-    id: ck0tul0u17n2f0i193mgf2u2u
+    followers: 151146
+    engagement: 101
+    commentsToLikes: 0.192526
+    id: ck15r9acr6sfm0i19z716sslt
     verified: false
-    hashtags: "#thecapstonepi, #ad, #happyworldphotographyday"
+    hashtags: "#travel, #travacs, #nature, #resortliving"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In New York In 2023
+title: Top 10 Skincare TikTok Influencers In New York In 2024
 description: >-
-  Find top skincare TikTok influencers in New York in 2023. Most popular hashtags: #fyp #skincare #foryou #nyc.
+  Find top skincare TikTok influencers in New York in 2024. Most popular hashtags: #fyp #skincare #foryou #newyork.
 platform: TikTok
 hits: 63
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 63 TikTok influencers like this in New York, United States for you to contact.
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine holds 63 TikTok influencers like this in New York, United States for you to contact.
 profiles:
   - username: "ash.fromnyc"
     fullname: >-
@@ -19,18 +19,30 @@ profiles:
     id: ckbf22vp1orwy0j236ywe9rel
     verified: false
     hashtags: "#foryou, #dollartree, #fyp, #target"
-  - username: "robinholzken"
+  - username: "innahershko"
     fullname: >-
-      Robin Holzken
+      Inna Hershko
     bio: >-
-      Instagram: @robinholzken
+      Follow me for makeup - skincare - outfits - mom stuff Reviews + Favorites ❤️
     location: "United States"
-    followers: 17600
-    engagement: 1169
-    commentsToLikes: 0.008950
-    id: cka0rvcylin030i7845cbf37s
-    verified: true
-    hashtags: "#model, #fy, #work, #fyp"
+    followers: 2605
+    engagement: 445
+    commentsToLikes: 0.058592
+    id: ckai2mrcygej60i78ua82pjgm
+    verified: false
+    hashtags: "#kidsfashion, #activitiesforkids, #learnfromme, #ownthecurve"
+  - username: "iam.secunda"
+    fullname: >-
+      DatsMyRealName
+    bio: >-
+      Child of Oya Virgo Sun 🌞 Scorpio Moon 🌚 ⭐️10k followers 🎯
+    location: "United States"
+    followers: 7431
+    engagement: 1121
+    commentsToLikes: 0.156422
+    id: ckbf93s8sztz00j23ncr8jq68
+    verified: false
+    hashtags: "#videosnapchallenge, #viral, #tiktok, #foryoupage"
   - username: "angelisidro"
     fullname: >-
       Angel Isidro
@@ -43,6 +55,18 @@ profiles:
     id: ckbffuwrtau170j233vxoo70w
     verified: false
     hashtags: "#hi, #love, #fyp, #marcel"
+  - username: "lizlele"
+    fullname: >-
+      Liz Lele
+    bio: >-
+      Creator of the #showerhairchallenge
+    location: "United States"
+    followers: 376600
+    engagement: 784
+    commentsToLikes: 0.050977
+    id: ck7zp97doo19o0j78kodp1uya
+    verified: false
+    hashtags: "#dog, #pets, #showerhairchallengewig, #skin"
   - username: "ericgoldie"
     fullname: >-
       ericgoldie
@@ -54,7 +78,7 @@ profiles:
     commentsToLikes: 0.038039
     id: ckcultyf0hebh0j235cdvrc4k
     verified: false
-    hashtags: "#morpheus8, #lgbtq, #sipintosummer, #city"
+    hashtags: "#dermatologist, #skincare, #morpheus8, #lgbt"
   - username: "natalie.banilbo"
     fullname: >-
       nataliebanilbo
@@ -91,40 +115,16 @@ profiles:
     id: ckbqs6n2md1qy0j23da2m9g7b
     verified: false
     hashtags: "#allyship, #transition, #trans, #nonbinary"
-  - username: "winnielaux"
+  - username: "emma.lynnee"
     fullname: >-
-      winnielaux
+      Emmalynne
     bio: >-
-      OK boomer 👵🏼
+      NYC// FIT follow da insta 😋🍒🦋
     location: "United States"
-    followers: 2937
-    engagement: 311
-    commentsToLikes: 0.043995
-    id: ckb9qhl3mmfvw0j23qp5oyorc
+    followers: 12300
+    engagement: 1110
+    commentsToLikes: 0.025251
+    id: ckbf7yif3y8lo0j230xm6maav
     verified: false
-    hashtags: "#besties, #inyourface, #aapifamily, #asiangirl"
-  - username: "jayluxury"
-    fullname: >-
-      JAY LUXURY
-    bio: >-
-      INSTAGRAM: @jayluxury_1 BUISNESS: jayluxnyc@gmail.com Brooklyn, New York🗽
-    location: "United States"
-    followers: 17900
-    engagement: 1601
-    commentsToLikes: 0.035971
-    id: ckb9i3kkj82go0j236vcj7k3i
-    verified: false
-    hashtags: "#fyp, #nycbelike, #foryoupage, #6ix9ine"
-  - username: "maliamakaila"
-    fullname: >-
-      Malia Makaila 👼🏼
-    bio: >-
-      NEW YORK CITY GAL 🤍
-    location: "United States"
-    followers: 197500
-    engagement: 832
-    commentsToLikes: 0.040768
-    id: ck9rjt5bkppgu0j78hm0nuym0
-    verified: false
-    hashtags: "#transition, #nyc, #fyp, #fitness"
+    hashtags: "#newyork, #ootd, #nyc, #fyp"
 ---

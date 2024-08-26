@@ -1,48 +1,72 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Malaysia In 2023
+title: Top 10 Makeup Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top makeup Instagram influencers in Malaysia in 2023. Most popular hashtags: #makeupartist #makeuptutorial #makeup #muamalaysia.
+  Find top makeup Instagram influencers in Malaysia in 2024. Most popular hashtags: #makeuptutorial #makeup #muamalaysia #makeupartist.
 platform: Instagram
-hits: 91
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 91 Instagram influencers like this in Malaysia for you to pitch.
+hits: 104
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat has 104 Instagram influencers like this in Malaysia for you to connect with.
 profiles:
-  - username: "miisa_mhc"
+  - username: "nneve"
     fullname: >-
-      💙Miisa MHC💙
+      Eve
     bio: >-
-      ❀˖˚𝕄𝕒𝕝𝕒𝕪𝕤𝕚𝕒𝕟 ℍ𝕚𝕛𝕒𝕓 ℂ𝕠𝕤𝕡𝕝𝕒𝕪𝕖𝕣 ❀˖˚ 🍑Cosplay🍑Makeup🍑Lolita DM for Paid Review email : miisamhc@gmail.com
+      💋 Makeup addict 💋 DM for Makeup Inquiries check out @eveefxx
     location: "Malaysia"
-    followers: 13141
-    engagement: 674
-    commentsToLikes: 0.023658
-    id: ck136540a4sio0i19o5a4p8l3
+    followers: 11749
+    engagement: 223
+    commentsToLikes: 0.027255
+    id: ck0w20eaam11p0i194kj69ye9
     verified: false
-    hashtags: "#rukasarashina, #kimetsunoyaiba, #cosplayer, #hijabcosplay"
-  - username: "minghui.psd"
+    hashtags: "#switchtosmooth, #watsonsmalaysia, #lorealparismy, #nosmoke"
+  - username: "aishuash51"
     fullname: >-
-      李明慧// kl 🇲🇾
+      Aishuash Make-up/Hair/Academy
     bio: >-
-      hi im ming hui! graphic design student who luvs art n makeup 🖍 :@minghui.ai ⁣ 💌 : leemh133@gmail.com⁣ (pr/collabs)
+      💄professional makeup artist 🥻Founder of @sivappupattu @thebeautyoux 🌸 Private makeup class
     location: "Malaysia"
-    followers: 10672
-    engagement: 730
-    commentsToLikes: 0.086830
-    id: ckaoyhxhwhloz0i78sb87c47l
+    followers: 79834
+    engagement: 179
+    commentsToLikes: 0.006354
+    id: ck5zk27zfiorh0i14e4gcram3
     verified: false
-    hashtags: "#shapingsound, #sudiomoments, #01, #befabulash"
-  - username: "eatzzz7"
+    hashtags: "#southindianbridalmakeup, #bollywoodmakeup, #bridesofindia, #muamalaysia"
+  - username: "xtinaling_makeup"
     fullname: >-
-      !           🍒紀卜心
+      𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐧𝐚 Tan
     bio: >-
-      🌵ꉓꂦ꒒ꂦꋪŦꀎ꒒ ฅ•ω•ฅ ꒒ꀤŦꍟ🌵 🎨 Makeup trainee#Kimismakeupportfolio 📩📩📩🔜ellaine1779@gmail.com New✨ 一日工作vlog
+      𝙁𝙤𝙪𝙣𝙙𝙚𝙧 𝙤𝙛 @xtina_imagestudio_makeup 𝘼𝙧𝙩 𝙬𝙤𝙧𝙠 💄: #xis_christinaling 𝙈𝙤𝙩𝙝𝙚𝙧 𝙤𝙛 @shanebin.boy
     location: "Malaysia"
-    followers: 838596
-    engagement: 312
-    commentsToLikes: 0.005164
-    id: ck15suceaeuag0i19c5n98gtx
-    verified: true
-    hashtags: "#b5, #c10, #outfits, #osim"
+    followers: 76327
+    engagement: 159
+    commentsToLikes: 0.001959
+    id: ck5q7qg2u2ocq0i117ozbk07o
+    verified: false
+    hashtags: "#nanalingstyle, #freestyle, #xtinammmy, #nanalingmakeup"
+  - username: "aishaliyana"
+    fullname: >-
+      Aisha Liyana
+    bio: >-
+      Part time YouTuber. Full time makeup enthusiast. ✨ for business enquiries: aishaliyanakf@gmail.com [NO DM] WCOXAISHA for 15% off Wanderlust+co
+    location: "Malaysia"
+    followers: 193931
+    engagement: 57
+    commentsToLikes: 0.010745
+    id: ck5pyqizjxayz0i113wlvbdd7
+    verified: false
+    hashtags: "#zarawomen, #thisiswhatlovelookslike, #ergobedinspire3, #zarakids"
+  - username: "yasmeennrazak"
+    fullname: >-
+      Yasmeen Razak
+    bio: >-
+      ▫️TikTok: yasmeenrzk ▫️#yrtutorial @yasmeennrazak.makeup @prelovedbymimeen Any inquiries: Jam 📱 +6010 293 9371
+    location: "Malaysia"
+    followers: 69021
+    engagement: 22
+    commentsToLikes: 0.008596
+    id: ck14ig3cdf84z0i19u0n1a69r
+    verified: false
+    hashtags: "#beginnermakeup, #makeupsimple, #makeuplokal, #beautytips"
   - username: "joejaprin"
     fullname: >-
       JoeJaprin
@@ -55,30 +79,6 @@ profiles:
     id: ck5q3jofhl2180i11miqz60dt
     verified: false
     hashtags: "#snekviral, #doryskincheezysaltedegg, #doryskin, #makeup"
-  - username: "maymichelle"
-    fullname: >-
-      Michelle Yong 🇲🇾
-    bio: >-
-      @mayymichelleee Founder of @haleskin.care 🍃 Cookies lover🍪 @sweetconfection.kk 💄Freelance Professional Makeup Artist 📍Kota Kinabalu 👩🏼‍💻
-    location: "Malaysia"
-    followers: 35564
-    engagement: 434
-    commentsToLikes: 0.011902
-    id: ckap6rwcah67x0i78cx7g3qsi
-    verified: false
-    hashtags: "#danielwellington, #pictureoftheday, #dwinmy, #dwmalaysia"
-  - username: "xtinaling_makeup"
-    fullname: >-
-      𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐧𝐚 𝐋𝐢𝐧𝐠
-    bio: >-
-      𝙁𝙤𝙪𝙣𝙙𝙚𝙧 𝙤𝙛 @xtina_imagestudio_makeup 𝙈𝙤𝙩𝙝𝙚𝙧 𝙤𝙛 @xtinamummy
-    location: "Malaysia"
-    followers: 46970
-    engagement: 508
-    commentsToLikes: 0.003358
-    id: ck5q7qg2u2ocq0i117ozbk07o
-    verified: false
-    hashtags: "#asian, #like4like, #asiangirl, #xismakeupteam"
   - username: "chris_tan_mua"
     fullname: >-
       ℂ𝕙𝕣𝕚𝕤 𝕋𝕒𝕟 𝕄𝕦𝕒
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.010597
     id: ck5hlun8vkw550i11m1sib014
     verified: false
-    hashtags: "#photographer, #malaysiaplussize, #outofbox, #ongmari"
+    hashtags: "#plussizeinfluencer, #lailailai, #ourstyle, #makeupartist"
   - username: "anusreemua"
     fullname: >-
       ANUSREE PAL

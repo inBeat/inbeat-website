@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Italy In 2023
+title: Top 10 Architecture Instagram Influencers In Italy In 2024
 description: >-
-  Find top architecture Instagram influencers in Italy in 2023. Most popular hashtags: #italy #ig #lonelyplanet #italiainunoscatto.
+  Find top architecture Instagram influencers in Italy in 2024. Most popular hashtags: #design #italy #amazing.
 platform: Instagram
-hits: 627
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat has 627 Instagram influencers like this in Italy for you to pitch.
+hits: 641
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 641 Instagram influencers like this in Italy for you to collaborate.
 profiles:
   - username: "archepidemic26"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       architecture!
     location: "Italy"
-    followers: 3825
-    engagement: 1000
-    commentsToLikes: 0.015077
+    followers: 3004
+    engagement: 1319
+    commentsToLikes: 0.015537
     id: ck138m60agwxj0i19q6pqokxd
     verified: false
     hashtags: ""
-  - username: "__federicarusso"
+  - username: "robertopovero"
     fullname: >-
-      Federica Russo
+      Roberto Povero
     bio: >-
-      📍 Salerno, Italy 🤳🏻 IG filters creator 📚 Architecture and Building Engineering 📸 IG PRESET 👇🏻
+      Travel & Architecture photographer contact@robertopovero.com
     location: "Italy"
-    followers: 61823
-    engagement: 211
-    commentsToLikes: 0.035757
-    id: ckf5uir6ql3a90j239w8zuusc
+    followers: 35033
+    engagement: 2212
+    commentsToLikes: 0.011541
+    id: ck6tilp4j0yeq0j71k1bv201p
     verified: false
-    hashtags: "#benvenutialsud, #zaraoutfitsdaily, #zafulofficial, #spartoogram"
-  - username: "evatatay"
+    hashtags: "#procuratieaperte, #thehungriesteye, #thsninaction, #aworldofpotential"
+  - username: "iamjuliamartinez"
     fullname: >-
-      EVA TATAY
+      JULIA MARTÍNEZ
     bio: >-
-      Spread love & kindness 🕊 Spain | Plant based soul 🤍 architecture: @tatayatelier
+      —— Architecture || URL Bologna - BCN 📍🏠🇮🇹 Travel and truffle lover
     location: "Italy"
-    followers: 17587
-    engagement: 845
-    commentsToLikes: 0.074236
-    id: ck5ciwsbatj4c0i117v7mkwsc
+    followers: 11201
+    engagement: 668
+    commentsToLikes: 0.017348
+    id: ckw9lqa2sjv3g0j23midm5yp0
     verified: false
-    hashtags: "#valenciabonita, #elsaler, #valencia, #elperellonet"
-  - username: "s_marelli"
+    hashtags: "#curvaturaatodovolumen, #pesta, #maybelline"
+  - username: "yasmin_tango"
     fullname: >-
-      Stefano Marelli
+      Yasmine Tangou
     bio: >-
-      Into architecture, engineering, 3d modeling Love photography 🔭🌍Brescia, Italy 🇮🇹 🌐Google Local Guide🏞️
+      MSc Architecture student | @PoliMi Between 🇮🇹🇲🇦 Based in Milan
     location: "Italy"
-    followers: 5952
-    engagement: 1580
-    commentsToLikes: 0.213106
-    id: ck6twfywyrrlc0j71r0amajyt
+    followers: 11357
+    engagement: 629
+    commentsToLikes: 0.045039
+    id: ck0w4wxn70t9v0i19eq3fyrof
     verified: false
-    hashtags: "#roamtheplanet, #italiainunoscatto, #sunset, #volgobrescia"
-  - username: "lovegod83"
+    hashtags: "#countvronsky, #realism, #cigarette, #footlockereuforher"
+  - username: "architecture.alb"
     fullname: >-
-      Simone Lovegod®️
+      Architecture & Design
     bio: >-
-      📍Rome, ❗️Admin 👤➡️ @oh_myrome and @romeofdoors ❤️ Architecture, photography, Life. https://linktr.ee/Simone.lovegod
+      ▪️ Daily architecture posts.🌎 ▪️ The place where you get inspired.
     location: "Italy"
-    followers: 7015
-    engagement: 833
-    commentsToLikes: 0.004603
-    id: ck8t993sjn9ql0j78k4h1zp36
+    followers: 753038
+    engagement: 220
+    commentsToLikes: 0.006064
+    id: ck0tuzl4b9d1c0i19t0363rm2
     verified: false
-    hashtags: "#beardlifestyle, #cntraveler, #pantheon, #pantone2021"
-  - username: "stevaleri"
+    hashtags: "#arcfly, #architecturecontent, #lifeofanarchitecturestudent, #projectpresentationdone"
+  - username: "harinehas"
     fullname: >-
-      𝙎𝙏𝙀𝙁𝘼𝙉𝙊 𝙑𝘼𝙇𝙀𝙍𝙄
+      Srinis_photos📷🌏🌟
     bio: >-
-      📷 Amateur travel photographer 📍 Based in #rome, #italy 🏙️ In love with #cityscape and #architecture
+      Dallas TX- Travel inspirationalist. Exploring landscapes -architecture - culture India : currently 📸 shot by me
     location: "Italy"
-    followers: 12247
-    engagement: 1167
-    commentsToLikes: 0.070342
-    id: ck6tlmlcc68li0j718hi0zbc1
+    followers: 19729
+    engagement: 122
+    commentsToLikes: 0.023713
+    id: ck15qrf0m4af30i19vqav6pm7
     verified: false
-    hashtags: "#roma, #church, #siviglia, #countryside"
-  - username: "pigreco1971"
+    hashtags: "#travel, #ilovetravelling, #holidaysfocus, #travelnoire"
+  - username: "rrael"
     fullname: >-
-      Pierluigi 🤓
+      Ronald Rael
     bio: >-
-      World in my eyes 🌍 Engineer 📐 Art & architecture lover 😍 Taking photos for fun 📷 📱 @raw_community_member PLATINUM | @roma_cartoline_ Rome - Italy 🇮🇹
+      RRAEL studio Professor of Architecture @ucberkeleyofficial Department Chair @ucberkeley_artpractice
     location: "Italy"
-    followers: 6998
-    engagement: 1416
-    commentsToLikes: 0.113949
-    id: ck0u2dpr3zkgv0i1912u6sly2
+    followers: 137050
+    engagement: 109
+    commentsToLikes: 0.023501
+    id: ck0tv3lfn9s7h0i19vpftelj8
     verified: false
-    hashtags: "#beniculturali30, #lonelyplanet, #museide, #sorianonelcimino"
-  - username: "rachelfeeneyz"
+    hashtags: "#mudfrontiers, #aiart, #3dprinting, #aiarchitecture"
+  - username: "mario_cucinella_architects"
     fullname: >-
-      Rachel Feeney
+      Mario Cucinella Architects
     bio: >-
-      •PURA VIDA•🇨🇷•🇺🇸 Architecture in interior Design📚🤓 Surfer 🌊🏄🏼‍♀️Travel ✈️ Sporty girl 🚴🏼‍♀️🏋🏼‍♀️ Book Ur dreamy vacay to Costa Rica ! On the website
+      Sustainable Architecture, Interior Design, Product Design and Industrial Design Based in #Milan & #Bologna, active worldwide #MCArchitects
     location: "Italy"
-    followers: 14617
-    engagement: 532
-    commentsToLikes: 0.019647
-    id: ckap1udn7w6xs0i782i7ys5ij
+    followers: 50964
+    engagement: 110
+    commentsToLikes: 0.010995
+    id: ck6ttgs63aj3u0j71wg1caag2
     verified: false
-    hashtags: "#costarica, #puravida, #saltylife, #milanogram"
-  - username: "jolly_jumper1974"
+    hashtags: "#creativity, #unipolsaicorporate, #design, #headquarters"
+  - username: "politecnicoditorino"
     fullname: >-
-      Jonny Kristiansen
+      Politecnico di Torino
     bio: >-
-      📷 Architecture, city & street 🌍Travel photography 📸Sony A7r iii, dji Mavic 2 Pro
+      is the oldest Italian technical university, established in 1859. Politecnico offers courses in Architecture, Design, Engineering and Urban Planning.
     location: "Italy"
-    followers: 2716
-    engagement: 2105
-    commentsToLikes: 0.088942
-    id: ck5hfix4sxp6c0i11r38m2vvq
+    followers: 48118
+    engagement: 105
+    commentsToLikes: 0.005366
+    id: ck5zkjnjkjln70i14k4snzla1
     verified: false
-    hashtags: "#killaframez, #ourmoodydays, #night, #visualambassadors"
-  - username: "francesco_treu"
+    hashtags: "#tempidifficili, #politodate, #polito, #100under30"
+  - username: "stefanoboeriarchitetti"
     fullname: >-
-      Francesco Treu
+      Stefano Boeri Architetti
     bio: >-
-      • ✨ Architecture, Nature and More • 📸 Italian Living in VIENNA 🇮🇹🇦🇹 • 🙆🏻‍♂️ Personal Account @francis_citrus • 📧 Francesco_Treu@yahoo.com
+      Architecture studio, urban design, sustainable development.
     location: "Italy"
-    followers: 29179
-    engagement: 237
-    commentsToLikes: 0.184612
-    id: ck0tu8jas62e20i19012vwan2
+    followers: 83331
+    engagement: 91
+    commentsToLikes: 0.010653
+    id: ck6u1inwilyl60j71njce5sle
     verified: false
-    hashtags: "#topviennaphoto, #viennatouristboard, #thisweekoninstagram, #letsbecolourful"
+    hashtags: "#repost, #boscoverticale, #stir, #ecoarchitecture"
 ---

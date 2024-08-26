@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Indonesia In 2023
+title: Top 10 Nutrition Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top nutrition Instagram influencers in Indonesia in 2023. Most popular hashtags: #fitness #gym #healthy #instalike.
+  Find top nutrition Instagram influencers in Indonesia in 2024. Most popular hashtags: #fitness #gym #lifestyle #defisitkalori.
 platform: Instagram
-hits: 79
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 79 Instagram influencers like this in Indonesia for you to contact.
+hits: 85
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 85 Instagram influencers like this in Indonesia for you to connect with.
 profiles:
-  - username: "jihanerens"
+  - username: "katenotcate"
     fullname: >-
-      Jihanee🕊
+      Kate Hendley, NBC-HWC, INHC
     bio: >-
-      Model? Cek @jihanesmodelgallery 🏥 Nutritionist ❤️ Modelling 📩 For Business / Inq : DM 👑 Miss Jawa Tengah Berbakat 2020 Yogyakarta, +62 🇮🇩
+      : national board certified health & wellness coach : founder @wellspringbykate 🌿 : a ~realistic~ pov on nutrition, health, ed recovery & lifestyle 💕
     location: "Indonesia"
-    followers: 7125
-    engagement: 2168
-    commentsToLikes: 0.211365
-    id: ck5hpf5kgr97l0i11fv1rzhfv
+    followers: 2925
+    engagement: 1041
+    commentsToLikes: 0.047237
+    id: clnno1oxn21bz0j08pz5ao4xx
     verified: false
-    hashtags: "#dirumahaja, #lff, #instadaily, #likeforfollow"
-  - username: "faaam"
+    hashtags: "#mindbodyspirit, #fitnessjourney, #wellness, #balanceiskey"
+  - username: "noviawijayantiii"
     fullname: >-
-      Fahmi Ramadhan
+      novia wijayanti 🇮🇩
     bio: >-
-      Fashion & Lifestyle | 📍JKT-ID 🍴 Nutrition Expert 📮Business contact : Email : contact.fahmirama@gmail.com
+      #icnbikiniPRO 🥇bikini champ 🏋️‍♀️ BA : @ansperformanceindonesia 👩‍💻 Nutrition student @teamatlasmtl
     location: "Indonesia"
-    followers: 28377
-    engagement: 406
-    commentsToLikes: 0.015529
-    id: ck0w5re1w529v0i19hsb9ji6r
+    followers: 116849
+    engagement: 259
+    commentsToLikes: 0.019629
+    id: ck5c7loxn7ric0i11nbq7tu1a
     verified: false
-    hashtags: "#ootd, #danielwellington, #style, #seruputkopitorabika"
-  - username: "luciemin"
-    fullname: >-
-      Lucie Minářová
-    bio: >-
-      I run on lifting weights, coffee & vitamin sea🤍 ~ @jedunavykon founder ⚡ ~ crossfit | CFL1 Trainer ~ nutrition coach ~ podcast @thehealthytapes ~ ytb
-    location: "Indonesia"
-    followers: 60591
-    engagement: 566
-    commentsToLikes: 0.004123
-    id: ck5zqac68u8h80i14nyhusogd
-    verified: false
-    hashtags: "#jnvnutrition, #novevideo, #jedunav, #workout"
-  - username: "evelynmarietta"
-    fullname: >-
-      Evelyn Marieta (not Marietta)
-    bio: >-
-      I'm a #WUNDERWOMAN Founder of @wunderbath.co Cosmetic Formulator 👩🏻‍🔬 Bsc. Nutrition & Food Science (@ualberta)🍋 Creative Advocate 💡 @emma_marieta 👼🏻
-    location: "Indonesia"
-    followers: 31583
-    engagement: 231
-    commentsToLikes: 0.016704
-    id: ck5ce9eu6klqp0i11shp12u76
-    verified: false
-    hashtags: "#davinesenjoythesmallthings, #uniqlomy, #mylifewear, #10yearsofuniqlo"
-  - username: "rucilk"
-    fullname: >-
-      Rucilk
-    bio: >-
-      Ministry of Marine Affairs and Fisheries RI Forum Indonesia Muda #FIM12 Science of Nutrition UNHAS Traveling and Adventure
-    location: "Indonesia"
-    followers: 4122
-    engagement: 499
-    commentsToLikes: 0.071642
-    id: ck6ui36p2csjc0j71rh9nyd3u
-    verified: false
-    hashtags: "#creativitars, #indonesiakreatif, #wonderfulindonesia, #arsvlogcompetition2020"
-  - username: "sabri.paulipu"
-    fullname: >-
-      bang.sabri
-    bio: >-
-      I'm Nutritionist Random Picture 📷 Survivor C-19 Nikmati waktu mudamu karena ngak ada istilah muda jilid 2 😉
-    location: "Indonesia"
-    followers: 3821
-    engagement: 1289
-    commentsToLikes: 0.280784
-    id: ck13cr2dl1qxi0i19nspdw96q
-    verified: false
-    hashtags: "#instalike, #solopunya, #keluarbentar, #jogjajatengexplore"
-  - username: "shielyv"
-    fullname: >-
-      sʜɪᴇʟʏ ᴠᴇɴᴇssᴀ
-    bio: >-
-      🧢Practical Nutrition Coach (PN1) 💪🏻Help people to achieve body goal BA @sfidnfits, use "FITSXSV" for 10% OFF BA @evoleneofficial BA @sportpsych.id
-    location: "Indonesia"
-    followers: 48717
-    engagement: 199
-    commentsToLikes: 0.014080
-    id: ck15ub5b1mb9e0i19ojcin194
-    verified: false
-    hashtags: "#dirumahaja, #stayathome, #magicmirrorchallenge, #pasukanbodrex"
+    hashtags: "#gym, #gymmotivation, #fitnessmotivation, #gymlife"
   - username: "brodibalo"
     fullname: >-
-      Stephen Hardy
+      Brodibalo | Fitness, Health and Science!
     bio: >-
-      🥘 @madaboutprotein 🎓 B. Med. Science 📖 Stanford Nutrition Science 📧 Brodibalo@gmail.com 🏋️‍♂️ @gymfitnessindo Ambassador ☟ Kontak dan Coaching Info
+      I help transform your body! 📖 B. MedSci, Nutrition Science 🥘@madaboutprotein ☟ Coaching, Consults, Contact:
     location: "Indonesia"
-    followers: 60442
-    engagement: 223
-    commentsToLikes: 0.034770
+    followers: 102882
+    engagement: 189
+    commentsToLikes: 0.025772
     id: ck6uc14k7cvl60j71ui2j38gw
     verified: false
-    hashtags: "#fitstagram, #powerlifting, #protein, #healthy"
-  - username: "axelschura"
+    hashtags: "#madaboutprotein, #defisitkalori, #fitness, #tipslatihan"
+  - username: "yusufhendratnoo"
     fullname: >-
-      Axel Schurawlow 🥑
+      Yusuf Hendratno | Aspire To Inspire
     bio: >-
-      Mindset | Health | Nutrition 🌱@vivolife Athlete CODE “SHMONKEY“ 🎶 JOIN 340 000 ON TIKTOK! 📸 Youtube/axelschura 🎙 Podcast 📍 Bali - All my channels👇
+      🏆| BA @mutant.idn 💼| Model - Content Creator - Digital Preneur 🎓| Fitness & Nutrition Coach @fitnwell.101 📧 Email for job & inquiries
     location: "Indonesia"
-    followers: 28434
-    engagement: 370
-    commentsToLikes: 0.041371
-    id: ck0ttg7i12ksr0i195fpjvruy
+    followers: 298013
+    engagement: 161
+    commentsToLikes: 0.017797
+    id: ck13cwlks2iqg0i19ybxtc9v4
     verified: false
-    hashtags: "#dairy, #vegansofig, #vegangains, #fitfam"
-  - username: "sazali.samad"
+    hashtags: "#fitness, #workout, #trip, #lifestyle"
+  - username: "lisadewiwood"
     fullname: >-
-      sazali samad
+      Lisa Dewi
     bio: >-
-      Sazali Samad Official Pages : Sazali Samad @nutritionpro.my ambassador Duta Telur Omega @selasiheggshop zalieuniverse@yahoo.com www.sazalisamad.com
+      BA @soyjoyid BA @youvit_id Certified nutrition coach 5 world marathon major finisher Boston qualifier
     location: "Indonesia"
-    followers: 72493
-    engagement: 209
-    commentsToLikes: 0.014540
-    id: ck15sjov0dckz0i19ztkwx60a
+    followers: 194716
+    engagement: 121
+    commentsToLikes: 0.065297
+    id: ck5chr29yrb010i116qfs29rx
     verified: false
-    hashtags: "#binaraga, #repost, #sazalisamadgym, #bodybuilding"
+    hashtags: "#suamiistri, #resepsehat, #pelari, #makansehat"
+  - username: "arbiarso"
+    fullname: >-
+      Arbiarso W. - Tips Diet & Olahraga Ilmiah | S1 Sport Science
+    bio: >-
+      🌟 Bugar Daddy 📢 Tips Bugar Jiwa & Raga yang Mudah dan Ilmiah 🏋🏻‍♂️ Coach, Writer, & Public Speaker 🎓 Evidence Based Exercise & Nutrition
+    location: "Indonesia"
+    followers: 35674
+    engagement: 76
+    commentsToLikes: 0.114183
+    id: ckap1n6usv9q60i78k6ksg63l
+    verified: false
+    hashtags: "#janjibugar, #udahgerakaja, #turunberatbadan, #defisitkalori"
+  - username: "marikxx"
+    fullname: >-
+      MARIKA • Konsultasi Asuransi
+    bio: >-
+      🤍 greatly blessed, highly favored, deeply loved by God ✨ fulltime-team builder @anakngegas @teamgaspol_id 💪🏼 PN Nutrition Coach
+    location: "Indonesia"
+    followers: 37988
+    engagement: 155
+    commentsToLikes: 0.021611
+    id: ck6tktiqj5dq40j716xvmy90w
+    verified: false
+    hashtags: "#satumimpisatutekad, #cyclingshots, #cyclinggrils, #ridelikeagirl"
+  - username: "put.ang"
+    fullname: >-
+      Putri Anggraeni
+    bio: >-
+      Nutrition Stud Brand Ambassador of @acnesid Putri Pariwisata Indonesia - DKI JAKARTA’22 business inq : DM
+    location: "Indonesia"
+    followers: 27629
+    engagement: 30
+    commentsToLikes: 0.006946
+    id: ck9whnzo0yr5d0j78hhlj2fnt
+    verified: false
+    hashtags: "#growupandglowupwithilluminare, #growupandglowup, #storyofputang, #pondsvitaminmicellarwater"
+  - username: "petitedivaa"
+    fullname: >-
+      Diva|Fitness Healthy Lifestyle
+    bio: >-
+      Founder @petitedivafitness @precisionnutrition L1 Nutrition Coach @issaonline Strength & Conditioning Coach @thegirlsgonestrong Pre & Postnatal Coach
+    location: "Indonesia"
+    followers: 143022
+    engagement: 10
+    commentsToLikes: 0.010434
+    id: ck15ub45kmb350i19bmm1zkqn
+    verified: true
+    hashtags: "#gym, #wodoftheday, #training, #teamwork"
+  - username: "akbarry"
+    fullname: >-
+      Akbarry Noor
+    bio: >-
+      #Tertanduk Podcast | #BarBar @ussfeeds | MC | Certified Sports Nutritionist Bookings +681210257462 (Zan) Contact +6282136358570 (Nikita)
+    location: "Indonesia"
+    followers: 60995
+    engagement: 10
+    commentsToLikes: 0.001688
+    id: ck0tt41bj12dz0i19y36dopoj
+    verified: false
+    hashtags: "#barbar, #tertanduk, #ussfeed, #gadisthalassemia"
 ---

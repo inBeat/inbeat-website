@@ -1,12 +1,24 @@
 ---
-title: Top 10 Food Instagram Influencers In Phoenix In 2023
+title: Top 10 Food Instagram Influencers In Phoenix In 2024
 description: >-
-  Find top food Instagram influencers in Phoenix in 2023. Most popular hashtags: #phoenix #food #dessert #arizona.
+  Find top food Instagram influencers in Phoenix in 2024. Most popular hashtags: #phoenix #arizona #scottsdaleaz #scottsdale.
 platform: Instagram
-hits: 45
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 45 Instagram influencers like this in Phoenix, United States for you to contact.
+hits: 74
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 74 Instagram influencers like this in Phoenix, United States for you to work with.
 profiles:
+  - username: "newfoodphx"
+    fullname: >-
+      Joe Riedy - New Food Phoenix
+    bio: >-
+      • Restaurants / Experiences / Destinations • Sharing my picks in Phoenix, AZ and beyond! ✨ newfoodphx@gmail.com
+    location: "United States"
+    followers: 76375
+    engagement: 224
+    commentsToLikes: 0.048798
+    id: cldgp8mwbn4an0j08i7f4pac8
+    verified: false
+    hashtags: "#tlpicks, #besthotels, #brunch, #arizonasbest"
   - username: "the.cocco.channel"
     fullname: >-
       Brittney Cocco|Phx Blogger
@@ -18,7 +30,7 @@ profiles:
     commentsToLikes: 0.237786
     id: ck5ho4s9voxo70i11fn9yk30n
     verified: false
-    hashtags: "#girlswithcurves, #alifeconscious, #creativecontentcreation, #midsizefashionblogger"
+    hashtags: "#midsizeblogger, #phoenixinfluencer, #chattycaptioncommunity, #midsizefashionblogger"
   - username: "thebiteshot"
     fullname: >-
       Joanie Simon
@@ -31,18 +43,6 @@ profiles:
     id: ck0ueekj7l3l40i19xlvuwcca
     verified: true
     hashtags: "#thebiteshot, #foodphotography, #nikonnofilter, #sedona"
-  - username: "letthemeatthis"
-    fullname: >-
-      Let Them Eat This (Chelsey)
-    bio: >-
-      🏜 AZ food, travel & experience blogger 🌍 🎵 175k+ on Tik Tok 🎵 👑 Yelp elite 6 yrs 📝 📸 @bestfoodphoenix influencer 📷 ✉ Dm/email for collabs 📧 #azfoodie
-    location: "United States"
-    followers: 23980
-    engagement: 218
-    commentsToLikes: 0.123880
-    id: ck5znhq44ohix0i14lsb259c8
-    verified: false
-    hashtags: "#chocolate, #treatyoself, #foodie, #prescottarizona"
   - username: "slowroasted"
     fullname: >-
       The Slow Roasted Italian
@@ -55,76 +55,76 @@ profiles:
     id: ck5hpw18gs2cb0i118haqy0wh
     verified: false
     hashtags: "#yum, #cooking, #nomnom, #christmascookies"
-  - username: "ifindfood"
+  - username: "nomswithnoor"
     fullname: >-
-      RANDY | OREGON + SO CAL FOODIE
+      Noor | Houston & PHX Food + Lifestyle
     bio: >-
-      🕵️‍♂️ Finding tasty food and showing it here for you 🎖 Yelp Elite Black Badge 2017-2021 🖊 @zipkick @bestfoodfeed @palateconnect 📧 ifindfood@yahoo.com
+      🇯🇴 ✨ noms + lifestyle (& lots of ☕️) 👩‍💻 brand manager 🐾 UH alum | 🐯 @northwesternu grad 💜 📍 houston & phoenix 💍 bride-to-be 💌: nomswithnoor@gmail.com
     location: "United States"
-    followers: 6688
-    engagement: 438
-    commentsToLikes: 0.131667
-    id: ck13ctefa22a00i19x6j2fgl6
+    followers: 10126
+    engagement: 580
+    commentsToLikes: 0.232039
+    id: ck13ano71r9y60i19zm730ad5
     verified: false
-    hashtags: "#abqeats, #yelpoc, #yelpabq, #ocfood"
-  - username: "karsynkdupree"
+    hashtags: "#phoenix, #houston, #phxfood, #az"
+  - username: "drockeats"
     fullname: >-
-      karsyn dupree 🌼
+      DRockEats {Derek}
     bio: >-
-      ☀️lover of decor, vegan food, and plants 🌱 #dupreedwelling ✨mama to sage & phoenix (+ 1 on the way)
+      Featuring Food & Travel #DadBod, Seoul/Soul Food Living w/Type 2 Diabetes #DadJokes #Travel Tag #DRockEats 🍣🍜🍕🍔 DM/Email 4 collab
     location: "United States"
-    followers: 19455
-    engagement: 485
-    commentsToLikes: 0.043786
-    id: ck136dh0s5y8l0i19daarkile
+    followers: 9005
+    engagement: 458
+    commentsToLikes: 0.269796
+    id: cli4xz076o4n70j085dkmi61b
     verified: false
-    hashtags: "#wldrnessahome, #myspoak, #spoakdecor, #jungalowstyle"
-  - username: "ultimonaufrago75"
+    hashtags: "#arizona, #mexicanfood, #chandler, #friedchicken"
+  - username: "foodatory"
     fullname: >-
-      ultimonaufrago
+      Foodatory 🍔 Los Angeles / OC
     bio: >-
-      Adm. @bestpugliapics Ⓜ️ raw_community asi_es_selfie total_boat phoenix_mission / hdr world_great addicted_to_details photo_beaches colors_photogroup
+      💯 🍕🍫Los Angeles food influencer and diet destroyer!🤣😂😋👌👍✌🔥
     location: "United States"
-    followers: 4121
-    engagement: 949
-    commentsToLikes: 0.089513
-    id: ck55nfows63vy0i11qg110ee7
+    followers: 541429
+    engagement: 852
+    commentsToLikes: 0.015351
+    id: ck6ue442toq1c0j710uwt6ulb
     verified: false
-    hashtags: "#new, #europeanskies365, #world, #nonveniteinpuglia"
-  - username: "tonygrowsfood"
+    hashtags: "#cheese, #mexicanfood, #food, #brooklyn"
+  - username: "foodtherapy.az"
     fullname: >-
-      Tony Kasowski
+      Lisa Young
     bio: >-
-      Growing food with integrity and helping others do the same. Edible landscape and urban farm consultant, developer & educator. Hello@normalgardens.com
+      Food & Leisure Bringing the fun & flavors of AZ to your screen 🫧Foodtherapy.az@gmail.com 🇹🇭🇺🇸
     location: "United States"
-    followers: 21952
-    engagement: 206
-    commentsToLikes: 0.048533
-    id: ck9weuf3rlvkz0j78mlz3qdj4
+    followers: 57461
+    engagement: 371
+    commentsToLikes: 0.224209
+    id: clnlb51tsti580j08u3bcqqvn
     verified: false
-    hashtags: "#foraging, #permaculture, #mushrooms, #timelapse"
-  - username: "steves_shaves"
+    hashtags: "#azfood, #azfoodie, #scottsdale, #tacos"
+  - username: "ullerick"
     fullname: >-
-      Steven M.
+      Matt Ullerick
     bio: >-
-      Queens, N.Y. - Father, Husband, Traditional Wet Shaving Aficionado, Audiophile, Food & Liquor Connoisseur, Friend to Dogs. 🇺🇸🇩🇪
+      “THE PHOENIX” Actor / Athlete / Coach 📍CA | @vcbbaofficial 🥇 x6 Bodybuilding Champ ⤵️ My Programs
     location: "United States"
-    followers: 2189
-    engagement: 1156
-    commentsToLikes: 0.056943
-    id: ck9hbkfezh83w0j78k26jyl6p
+    followers: 9925
+    engagement: 327
+    commentsToLikes: 0.034614
+    id: cl3xlemulejmy0i23wumses6z
     verified: false
-    hashtags: "#shavelikeyourgrandpa, #wetshaveloyalists, #manstyle, #paladin"
-  - username: "mrdavidduran"
+    hashtags: "#love, #weightloss, #healthylifestyle, #exercise"
+  - username: "emiliametidieri"
     fullname: >-
-      David Duran
+      Emilia Metidieri - Arizona Food & Life
     bio: >-
-      World Traveler. Food & Travel Writer. Vegan. Dogtopian Doodle Dad. Member of the Alphabet Mafia.
+      Food | Travel | Fashion & More Sharing my life in Arizona and beyond! formerly eatinarizona 💌emiliametidieri1@gmail.com
     location: "United States"
-    followers: 52240
-    engagement: 55
-    commentsToLikes: 0.024717
-    id: ck6ttat3y9k8x0j71rma5zt0x
+    followers: 105298
+    engagement: 275
+    commentsToLikes: 0.100242
+    id: ck14gzjvx7ssg0i19tcnsnsdn
     verified: false
-    hashtags: "#pipertheladydoodle, #goldendoodle, #dtphx, #dttucson"
+    hashtags: "#disneyland, #arizona, #downtownphoenix, #midsizefashion"
 ---

@@ -1,36 +1,72 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Australia In 2023
+title: Top 10 Cyclists Instagram Influencers In Australia In 2024
 description: >-
-  Find top cyclists Instagram influencers in Australia in 2023. Most popular hashtags: #cycling #cyclinglife #racing.
+  Find top cyclists Instagram influencers in Australia in 2024. Most popular hashtags: #cycling #cyclinglife #womenscycling.
 platform: Instagram
-hits: 20
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 20 Instagram influencers like this in Australia for you to connect with.
+hits: 24
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 24 Instagram influencers like this in Australia for you to work with.
 profiles:
-  - username: "pavel_sivakov"
+  - username: "maeveplouffe"
     fullname: >-
-      Pavel Sivakov
+      MAEVE PLOUFFE
     bio: >-
-      Cyclist | @ineosgrenadiers Represented by @squadrasportsmanagement
+      Aussie Olympian 🇦🇺 & pro cyclist @teamdsm_ 🚴🏼‍♀️ Part time law & marine biology nerd 🐬 Get comfortable being uncomfortable 🔥 📍 🇳🇱 📥 @arcsports.mc
     location: "Australia"
-    followers: 33533
-    engagement: 1258
-    commentsToLikes: 0.009257
-    id: ck0w1fj6fj3550i19r26egy7z
+    followers: 36430
+    engagement: 696
+    commentsToLikes: 0.016007
+    id: ck5hiny1aehjy0i118t1lgg9k
     verified: false
-    hashtags: ""
+    hashtags: "#womenscycling, #tokyotogether, #ausolympicteam, #olympics"
   - username: "calebewan"
     fullname: >-
       Caleb Ewan
     bio: >-
-      Australian Professional cyclist for Lotto-Soudal Monaco Management: signaturesport.com.au
+      Australian Professional cyclist for Jayco-Alula Monaco Management: signaturesport.com.au
     location: "Australia"
-    followers: 137125
-    engagement: 633
-    commentsToLikes: 0.005029
+    followers: 176890
+    engagement: 533
+    commentsToLikes: 0.008248
     id: ck0vwfldrtgcs0i19jz0fuofi
     verified: false
-    hashtags: ""
+    hashtags: "#tourofoman"
+  - username: "pavel_sivakov"
+    fullname: >-
+      Pavel Sivakov
+    bio: >-
+      Cyclist | @uae_team_emirates Represented by @wassermancycling
+    location: "Australia"
+    followers: 55404
+    engagement: 735
+    commentsToLikes: 0.006013
+    id: ck0w1fj6fj3550i19r26egy7z
+    verified: false
+    hashtags: "#tokyo2020, #roadtotokyo, #weareuae, #uaeteamemirates"
+  - username: "sean_sako"
+    fullname: >-
+      Sean Sako Sakinofsky
+    bio: >-
+      Endurance Cyclist The pioneer of the keto | carnivore movement in the cycling world. Riding bikes for freedom of speech & health. 2A | Aviation | UAP
+    location: "Australia"
+    followers: 69711
+    engagement: 157
+    commentsToLikes: 0.026389
+    id: ck0tvdjxjaz750i19u3u0esj6
+    verified: false
+    hashtags: "#nutrition, #keto, #corima, #sunblock"
+  - username: "rapha_rcc"
+    fullname: >-
+      Rapha Cycling Club
+    bio: >-
+      Join our global community of passionate cyclists.
+    location: "Australia"
+    followers: 121176
+    engagement: 113
+    commentsToLikes: 0.006591
+    id: ck1392xedj92j0i19y45du5d5
+    verified: false
+    hashtags: "#rapha, #raphacyclingclub, #womens100, #12monuments"
   - username: "shannonmccurley_"
     fullname: >-
       Shannon McCurley             🦦
@@ -47,26 +83,14 @@ profiles:
     fullname: >-
       Annette Edmondson
     bio: >-
-      Aussie Cyclist 3xWorld Champion🌈 Olympic Medallist 2xCommonwealth Champ
+      Aussie Cyclist 3xWorld Champion🌈 3xOlympian + Olympic Medallist🥉 2xCommonwealth Champ
     location: "Australia"
-    followers: 36265
-    engagement: 456
-    commentsToLikes: 0.009657
+    followers: 37494
+    engagement: 624
+    commentsToLikes: 0.016762
     id: ckap5vk1wdclo0i78m2iveqi6
     verified: true
-    hashtags: "#mtbuffalo, #summer, #roadnats2021, #youbeauty"
-  - username: "georgiabaker_"
-    fullname: >-
-      Georgia Baker
-    bio: >-
-      aussie cyclist olympian & world champ
-    location: "Australia"
-    followers: 5641
-    engagement: 775
-    commentsToLikes: 0.013794
-    id: ck15r4cgs630z0i19tqwt9m63
-    verified: true
-    hashtags: "#5years, #isthisreallife, #challengeaccepted, #hbdnic"
+    hashtags: "#staytuned, #tokyo2021, #aussieaussieaussie, #cervelos5"
   - username: "rohandennis"
     fullname: >-
       Rohan Dennis
@@ -103,28 +127,4 @@ profiles:
     id: ck5zumr7s2ntg0i143lfdf2am
     verified: false
     hashtags: "#roadbike, #switchbacks, #travelbybike, #womenridebikes"
-  - username: "tiffanycromwell"
-    fullname: >-
-      Tiffany Cromwell
-    bio: >-
-      🇦🇺| Aussie Professional Cyclist @wmncycling // 🚴🏼‍♀️🌏 Managed by @bespoke_m 👩🏼‍💻 // Coffee + Brunch Connoisseur + World Traveller
-    location: "Australia"
-    followers: 109935
-    engagement: 506
-    commentsToLikes: 0.005702
-    id: ck135of7m2fa20i198ujnk2ei
-    verified: true
-    hashtags: "#trainingcamp, #fortheloveofsport, #finland, #offseason"
-  - username: "_leeturner"
-    fullname: >-
-      Lee “Hollywood” Turner 💥
-    bio: >-
-      💥MC / Host / Commentator 💥Giant Bicycles 💥Bicycle Aust Magazine 💥Shimano 💥Planex 💥BIcycle Network Ride Leader 💥Stitch & Dart 💥SKCC
-    location: "Australia"
-    followers: 27483
-    engagement: 474
-    commentsToLikes: 0.036396
-    id: ck15r48tk62i80i193img89ut
-    verified: false
-    hashtags: "#cadex, #fromwhereweride, #srm, #ridegiant"
 ---

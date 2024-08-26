@@ -1,12 +1,36 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Finland In 2023
+title: Top 10 Fitness Instagram Influencers In Finland In 2024
 description: >-
-  Find top fitness Instagram influencers in Finland in 2023. Most popular hashtags: #fitness #fitnessmotivation #finland #motivation.
+  Find top fitness Instagram influencers in Finland in 2024. Most popular hashtags: #fitness #finland #healthylifestyle #workout.
 platform: Instagram
-hits: 71
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 71 Instagram influencers like this in Finland for you to pitch.
+hits: 61
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 61 Instagram influencers like this in Finland for you to collaborate.
 profiles:
+  - username: "veerakononen"
+    fullname: >-
+      Veera Könönen | Valmentaja
+    bio: >-
+      💪🏼 Fitnessvalmentaja / Sisällöntuottaja 📱 TikTok: veerakononen 📩 miisa@featuremedia.fi VEERA15 -15% @intensed.fi
+    location: "Finland"
+    followers: 25397
+    engagement: 557
+    commentsToLikes: 0.031056
+    id: ck5cl1g6wy23f0i11jz1ltjjk
+    verified: false
+    hashtags: "#workout, #suomi, #tatuointi, #tattoo"
+  - username: "ainomarianne"
+    fullname: >-
+      Aino Vierimaa
+    bio: >-
+      Traveling the 🌏 & Certified personal trainer🏋️‍♀️ 1:1 online coaching & my fitness app⬇️
+    location: "Finland"
+    followers: 32343
+    engagement: 680
+    commentsToLikes: 0.189271
+    id: ck14ig906f8xu0i190o948h4l
+    verified: false
+    hashtags: "#thailand, #travel, #beautifuldestinations, #finland"
   - username: "marikahongisto"
     fullname: >-
       Marika Hongisto
@@ -18,7 +42,31 @@ profiles:
     commentsToLikes: 0.021562
     id: ckaoyptwiijlu0i78r83jkep3
     verified: false
-    hashtags: "#fitnessmotivation, #fitnessphotography, #bikinifitnessathlete, #mobility"
+    hashtags: "#fitnessmotivation, #bikinifitnessathlete, #fitnessphotography, #fitnessmodel"
+  - username: "pakkismike"
+    fullname: >-
+      Mike Siren
+    bio: >-
+      Kävelevä Hesari PAKKOTOISTO15 koodi fitnesstukku -15% PAKKOTOISTO koodi | nikotiinipussitcom -5% | gazoz.fi -10% @noccofinland
+    location: "Finland"
+    followers: 12797
+    engagement: 414
+    commentsToLikes: 0.008343
+    id: ck6000tc1cqxj0i14te6hbvjy
+    verified: false
+    hashtags: "#tokyo, #pakkotoisto, #mayorsgym, #hessu"
+  - username: "maiju_minea"
+    fullname: >-
+      Maiju Minea Kuusisto
+    bio: >-
+      🇫🇮 Fitness-urheilija 🌐 Valmentaja @teambalancedbody 🎓 Ft & LitM-opiskelija 👩🏼‍⚖️ IFBB tuomari 🏕️ Matkustus, luonto, seikkailut 🤍Äiti 🧑‍🧑‍🧒‍🧒
+    location: "Finland"
+    followers: 17831
+    engagement: 380
+    commentsToLikes: 0.021648
+    id: ck8t0cz2prn9j0j78ci9puh5i
+    verified: false
+    hashtags: "#visitlofoten, #fitness, #ootd, #teambalancedbody"
   - username: "wellness_mia"
     fullname: >-
       M i a
@@ -31,30 +79,6 @@ profiles:
     id: ckaos1gg8pq6x0i78e3kteybb
     verified: false
     hashtags: "#fitnesslifestyle, #workoutoutfit, #tattooedgirls, #strongmindset"
-  - username: "kipatiivola"
-    fullname: >-
-      ✨𝐊𝐈𝐏𝐀 𝐓𝐈𝐈𝐕𝐎𝐋𝐀🇫🇮
-    bio: >-
-      HYVINVOINTIA TOSISSAAN MUTTEI VAKAVISSAAN 🧠 Solution Focused Mind Coach 💫 Fitness Professional 👟 Trainer @lesmillsnordic ⚡️ Team @nopainsport
-    location: "Finland"
-    followers: 18053
-    engagement: 520
-    commentsToLikes: 0.054352
-    id: ckapa4tnuupmj0i78i35byeiu
-    verified: false
-    hashtags: "#hyvinvointi, #exercise, #core, #hyv"
-  - username: "annituuliali"
-    fullname: >-
-      Anni Lipponen
-    bio: >-
-      🤍 Fitness lifestyle ▪️ @icaniwill -20% ’ANNIL20’ ▪️ @myproteinfi -42% ’ANNIMP’ ▪️ @lohilo -10% ’ANNI’ 📨 Contacts: annilipponen@outlook.com
-    location: "Finland"
-    followers: 3355
-    engagement: 1430
-    commentsToLikes: 0.111831
-    id: ckap4wbp796e40i788mk2eyzb
-    verified: false
-    hashtags: "#lohilo, #lohiloambassador, #idealofsweden, #lohiloaf"
   - username: "glow.by.zaarakhan"
     fullname: >-
       زحرا
@@ -66,7 +90,7 @@ profiles:
     commentsToLikes: 0.068381
     id: ckaotmx93wko70i78wx7bsczb
     verified: false
-    hashtags: "#suomi, #innerpeace, #finnishnature, #transformation"
+    hashtags: "#photography, #nature, #innerpeace, #naturephotography"
   - username: "fitpilot12"
     fullname: >-
       JC (Justin)
@@ -90,7 +114,7 @@ profiles:
     commentsToLikes: 0.006247
     id: ck6tzmvjzan520j71fofr1lq3
     verified: false
-    hashtags: "#kes, #lesmills, #simerock, #jumppa"
+    hashtags: "#kev, #kes, #lesmills, #jumppa"
   - username: "mertsi_"
     fullname: >-
       MERI TURUNEN 🏋🏼‍♂️☀️
@@ -102,29 +126,5 @@ profiles:
     commentsToLikes: 0.014981
     id: ck5py90vtuvu00i11kipvxkir
     verified: false
-    hashtags: "#inspiration, #photoshootideas, #photographers, #lapland"
-  - username: "veerakononen"
-    fullname: >-
-      Veera Könönen | Valmentaja
-    bio: >-
-      Wellness Fitness NFE2021 Team @finnishphysiqueacademy veera15 -15% @same_goal_clothing @villitwellnessmimmit @wellnessmalli.fi🥇
-    location: "Finland"
-    followers: 14038
-    engagement: 1162
-    commentsToLikes: 0.014300
-    id: ck5cl1g6wy23f0i11jz1ltjjk
-    verified: false
-    hashtags: "#motivaatio, #alekoodi, #alennus, #helsinki"
-  - username: "sofiesejdija"
-    fullname: >-
-      SOFIE SABRIE S.
-    bio: >-
-      💪🏻IFBB Bikini Fitness | @euphoriafitnessteam 🤳🏻24 | 🇫🇮/🇽🇰 ✨@icaniwill code "SOFIESS20"
-    location: "Finland"
-    followers: 7793
-    engagement: 989
-    commentsToLikes: 0.024116
-    id: ck6tnq4mxachr0j71nb4ync5p
-    verified: false
-    hashtags: "#happy, #finnishgirl, #athlete, #bikinifitness"
+    hashtags: "#rovaniemi, #photoshoot, #babyshower, #lapland"
 ---

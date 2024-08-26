@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Colombia In 2023
+title: Top 10 Lifestyle TikTok Influencers In Colombia In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Colombia in 2023. Most popular hashtags: #foryou #viral #lifestyle #tiktok.
+  Find top lifestyle TikTok influencers in Colombia in 2024. Most popular hashtags: #foryou #viral #parati #tiktok.
 platform: TikTok
 hits: 10
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: inBeat holds 10 TikTok influencers like this in Colombia for you to work with.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 10 TikTok influencers like this in Colombia for you to connect with.
 profiles:
   - username: "jturcios_official"
     fullname: >-

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Bangkok In 2023
+title: Top 10 Beauty Instagram Influencers In Bangkok In 2024
 description: >-
-  Find top beauty Instagram influencers in Bangkok in 2023. Most popular hashtags: #thailand #bangkok #beauty #makeup.
+  Find top beauty Instagram influencers in Bangkok in 2024. Most popular hashtags: #beauty #thailand #beautiful.
 platform: Instagram
-hits: 11
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 11 Instagram influencers like this in Bangkok, Thailand for you to contact.
+hits: 15
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 15 Instagram influencers like this in Bangkok, Thailand for you to collaborate.
 profiles:
+  - username: "wjmild"
+    fullname: >-
+      𝑾𝑱𝑴𝑰𝑳𝑫
+    bio: >-
+      𝑭𝑶𝑹 𝑾𝑶𝑹𝑲 : (𝟬𝟗𝟑)𝟔𝟒𝟓𝟓𝟔𝟒𝟓 𝙇𝙄𝙉𝙀 : 𝙞𝙣𝙠_𝟮𝟬𝟭𝟰⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀ 💌𝙬𝙟𝙢𝙞𝙡𝙙.𝙬𝙤𝙧𝙠@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢 ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀
+    location: "Thailand"
+    followers: 3934616
+    engagement: 40
+    commentsToLikes: 0.000776
+    id: ck8ta1tcvq53y0j78t028c628
+    verified: true
+    hashtags: "#goodmate, #samsmith, #wjmild, #itsmildlive"
   - username: "june.jellyjune"
     fullname: >-
       - 𝙅𝙚𝙡𝙡𝙮𝙅𝙪𝙣𝙚 -
@@ -19,18 +31,54 @@ profiles:
     id: ck8swjwtmec8c0j78znrnu5nw
     verified: false
     hashtags: "#psbabyharry, #pshomesweethome, #missjandmrs, #jellyjunesstudio"
-  - username: "adriikuhn"
+  - username: "mossster_"
     fullname: >-
-      Adriana Kuhn
+      MOSSSTER ess
     bio: >-
-      Gaúcha, 24. | 🇧🇷 🦀 • Traveling around the world • 🌎 - 🇩🇪 🇨🇳 🇪🇸 🇺🇸 🇫🇷 🇭🇰 🇮🇳 🇮🇩 🇲🇾 🇲🇲 🇵🇾 🇸🇬 🇹🇭🇺🇾 📍- Bangkok, Thailand
+      Beauty Content Creator 📧 st.syncup@gmail.com
     location: "Thailand"
-    followers: 6435
-    engagement: 696
-    commentsToLikes: 0.081797
-    id: ckf5riz4ecu4x0j23rpeeyhem
+    followers: 168182
+    engagement: 101
+    commentsToLikes: 0.011170
+    id: ck13bpu0swle50i192zja4gdo
     verified: false
-    hashtags: "#jakarta, #india, #portrait, #modelos"
+    hashtags: "#comohotels, #comobhutan, #si, #awakenii"
+  - username: "ae_bong"
+    fullname: >-
+      AeBong
+    bio: >-
+      🇹🇭BEAUTY🌼INFLUENCER 📍Contact >> aebonglife@gmail.com 🍑 @lunasugar.official 😽 @indycatshome 👒 @alistnista 📌 For work > Line : ae_bong
+    location: "Thailand"
+    followers: 30585
+    engagement: 83
+    commentsToLikes: 0.006245
+    id: ck14i369edet40i19euw2t6b3
+    verified: false
+    hashtags: "#hatopetwellness, #cosmetics, #beauty, #instabeauty"
+  - username: "arushisaxena_"
+    fullname: >-
+      Arushi Saxena
+    bio: >-
+      Super dancer chapter 2 India's Next Superstar Asian Dance championx3 Asia Pacific Dance Champion Bangkok
+    location: "Thailand"
+    followers: 102792
+    engagement: 60
+    commentsToLikes: 0.063305
+    id: ck8sxb0uvgqgq0j78evua3hxm
+    verified: false
+    hashtags: "#reelitfeelit, #arushisaxena, #explorepage, #fyp"
+  - username: "razsa.e"
+    fullname: >-
+      รษา เอสเฮ้าส์
+    bio: >-
+      Bangkok. Traveller | model @travelbeforebackhome For work rasa.eshuis@gmail.com
+    location: "Thailand"
+    followers: 43552
+    engagement: 365
+    commentsToLikes: 0.006363
+    id: ck0tvakz8al0q0i19a8luhsbd
+    verified: false
+    hashtags: "#hydrabeauty, #skinhydration, #chanelskincare, #pomelogirls"
   - username: "byronbishop"
     fullname: >-
       Byron Bishop
@@ -79,52 +127,4 @@ profiles:
     id: ck6u0ptbch3900j71jo0zuhev
     verified: false
     hashtags: "#maybellinethailand, #comingsoon, #instabeauty, #makeupby"
-  - username: "nettytitiya"
-    fullname: >-
-      Netty Beauty Life
-    bio: >-
-      36| Love Simple beauty & Life 🎓B.Pharm M.Pharm (Clinical) Aging 😝 & Acne Prone Skin FB: Netty Beauty Life ✉️titiyav@gmail.com
-    location: "Thailand"
-    followers: 28747
-    engagement: 224
-    commentsToLikes: 0.046358
-    id: ck5pxdh3lr9ed0i1150vnu7cy
-    verified: false
-    hashtags: "#nettyxbag, #nettyxvichy, #chiangmaicafe, #cleanser"
-  - username: "siravariety"
-    fullname: >-
-      Sira MaNdonna 💖ไจ๋ ซีร่า💖
-    bio: >-
-      Jai SIRA 👑 Bangkok Diva Queen ติดต่องาน 0875005111 (คุณตั๊ก) Sydney Diva Awards winner Thailand’s Madonna impersonator Performer, Beauty blogger, etc.
-    location: "Thailand"
-    followers: 102981
-    engagement: 237
-    commentsToLikes: 0.007724
-    id: ck6tkleuu4xpx0j71i5y8vyci
-    verified: false
-    hashtags: "#lacefrontwig, #mermaid, #siravariety, #dragmakeupartist"
-  - username: "jack_l2y"
-    fullname: >-
-      Jack Kitti Suwanchoti
-    bio: >-
-      Photographer | Filmmaker | Editor Bangkok,Thailand 🇹🇭
-    location: "Thailand"
-    followers: 92485
-    engagement: 162
-    commentsToLikes: 0.008262
-    id: ck136ktme6zwe0i19aai35f0g
-    verified: false
-    hashtags: "#2470, #travelphotography, #canon70200mm, #fashionphotography"
-  - username: "gainmadeline"
-    fullname: >-
-      Personal Trainer / Athlete
-    bio: >-
-      Athlete🇹🇭 Line:@gainmadeline2 FB Page:TrainWithGain 🏆2nd-ShawnRho2019 🏆2nd-BenWCSpain2018 🏆2nd-OAAsiaHK2016 🥇Mr.THAILAND2016 Owner:@tammachaat.drink
-    location: "Thailand"
-    followers: 8382
-    engagement: 326
-    commentsToLikes: 0.020372
-    id: ck55ox92q9bfr0i11nn8p3w63
-    verified: false
-    hashtags: "#muscle, #personaltraining, #gym, #transformation"
 ---

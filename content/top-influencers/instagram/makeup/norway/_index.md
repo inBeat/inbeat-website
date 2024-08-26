@@ -1,12 +1,72 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Norway In 2023
+title: Top 10 Makeup Instagram Influencers In Norway In 2024
 description: >-
-  Find top makeup Instagram influencers in Norway in 2023. Most popular hashtags: #makeup #beauty #anastasiabeverlyhills.
+  Find top makeup Instagram influencers in Norway in 2024. Most popular hashtags: #makeup #makeupartist #wakeupandmakeup.
 platform: Instagram
-hits: 51
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 51 Instagram influencers like this in Norway for you to collaborate.
+hits: 56
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 56 Instagram influencers like this in Norway for you to connect with.
 profiles:
+  - username: "facebymalin"
+    fullname: >-
+      MALIN LOSSIUS
+    bio: >-
+      PRO MAKEUP ARTIST based in Oslo Represented by @blunkagency Booking/collabs: anniken@blunkagency.no Bryllup booking: facebymalin@gmail.com
+    location: "Norway"
+    followers: 20030
+    engagement: 209
+    commentsToLikes: 0.046227
+    id: ck15th5gri1wg0i19mge7hvo1
+    verified: false
+    hashtags: "#makeupartist, #makeupartistic, #muasfeaturing, #prettymakeup"
+  - username: "evelinekarlsen"
+    fullname: >-
+      Eveline Karlsen
+    bio: >-
+      I love makeup, beauty and life
+    location: "Norway"
+    followers: 132890
+    engagement: 203
+    commentsToLikes: 0.013717
+    id: ck13c53ufynrz0i19n7mrbo8q
+    verified: false
+    hashtags: "#selfcare, #sminketips, #lifehack, #interior"
+  - username: "itsmonicarose"
+    fullname: >-
+      Monica Rose
+    bio: >-
+      🌷 #makeup & #skincare ✉️ monicarosemua@gmail.com 🩵 Tiktok: itsmonicarosee ✨ YouTube ⤵️
+    location: "Norway"
+    followers: 431008
+    engagement: 28
+    commentsToLikes: 0.002332
+    id: ck0tusizu8j820i19zzvpq4fx
+    verified: false
+    hashtags: "#acneskin, #grwm, #portugalmua, #glam"
+  - username: "thereseaanonli"
+    fullname: >-
+      THERESE AANONLI
+    bio: >-
+      Makeupartist. Beauty, fashion, life🌈🫦🧴🫧👩‍👧 Add meg på snap:thereseaanonli Oslo,Norway #makeup #beauty #fashion #skincare
+    location: "Norway"
+    followers: 68862
+    engagement: 77
+    commentsToLikes: 0.067950
+    id: ck5bxebwynk6k0i11jin1uzyh
+    verified: false
+    hashtags: "#itcosmeticsnordics, #alwaysarden, #momanddaughter, #makeup"
+  - username: "dajanamakeup"
+    fullname: >-
+      Dajana Tomanovic
+    bio: >-
+      Dajanaamakeup@gmail.com Best selling author makeup books⬇️
+    location: "Norway"
+    followers: 90852
+    engagement: 49
+    commentsToLikes: 0.029913
+    id: ck5zrgct1wj170i14vvg6t85r
+    verified: true
+    hashtags: "#beauty, #mua, #sminke, #charlottetilbury"
   - username: "siljekgs"
     fullname: >-
       Silje Kristine G. Storhaug
@@ -67,64 +127,4 @@ profiles:
     id: ck6trcrgiy8xf0j71i7uotma0
     verified: false
     hashtags: "#ckmatgleden, #greenfluencer, #mittmyykehjem"
-  - username: "oliviabeautify"
-    fullname: >-
-      𝐎𝐋𝐈𝐕𝐈𝐀♡𝐇𝐀𝐍𝐒𝐒𝐎𝐍
-    bio: >-
-      ♡ Everything beauty & more ♡ Norwegian makeup enthusiast ♡ Snapchat & YouTube - Oliviabeautify
-    location: "Norway"
-    followers: 21927
-    engagement: 1163
-    commentsToLikes: 0.020798
-    id: ck15th6pri22p0i19gvdibgrc
-    verified: false
-    hashtags: "#idealofsweden, #beautycultxinglot, #desenio, #23weekspregnant"
-  - username: "sonaripley"
-    fullname: >-
-      Sona Ripley
-    bio: >-
-      📍 Norway / 1999 / Art enthusiast “Makeup is art, beauty is spirit.”
-    location: "Norway"
-    followers: 6542
-    engagement: 1624
-    commentsToLikes: 0.034611
-    id: ck1383td7ed5h0i19bb7y219h
-    verified: false
-    hashtags: "#wingedliner, #makeuplook, #velourliquidlipstick, #abstractmakeup"
-  - username: "helle.beauty"
-    fullname: >-
-      HELLE.BEAUTY | Helle Nordby
-    bio: >-
-      Makeup Artist and SOME consultant Oslo, Norway 📩 helle.beauty@outlook.com
-    location: "Norway"
-    followers: 87051
-    engagement: 221
-    commentsToLikes: 0.024854
-    id: ck0tufdrt6wsv0i1942aejcuo
-    verified: false
-    hashtags: "#beautyactor, #mybeautyact, #beautyact, #kvdveganbeauty"
-  - username: "makeupaoa"
-    fullname: >-
-      Daily Makeup Tutorials ❤️
-    bio: >-
-      Profile picture is @klaudia.owczarek 📧 Dm for credit/removal
-    location: "Norway"
-    followers: 490171
-    engagement: 84
-    commentsToLikes: 0.010929
-    id: ck15tffy3htlb0i191515nnhq
-    verified: false
-    hashtags: "#nailsoftheday, #fashion, #beauty, #vacationvibes"
-  - username: "helenegjessing"
-    fullname: >-
-      H E L E N E 🌙
-    bio: >-
-      ✨Long Beach, California ✨Norwegian ✨@glassons ambassador YouTube channel (#hauls & #weddingseries)
-    location: "Norway"
-    followers: 5853
-    engagement: 848
-    commentsToLikes: 0.313823
-    id: ck5c1mhpwvh9d0i11tvplniaa
-    verified: false
-    hashtags: "#popofgreen, #beachy, #beach, #beauty"
 ---

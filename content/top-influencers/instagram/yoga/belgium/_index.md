@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Belgium in 2023
+title: Top 10 Yoga Instagram Influencers In Belgium In 2024
 description: >-
-  Find top yoga Instagram influencers in Belgium in 2023. Most popular hashtags: #yoga #yogainspiration #nature #handstand.
+  Find top yoga Instagram influencers in Belgium in 2024. Most popular hashtags: #yoga #love #portrait #nature.
 platform: Instagram
-hits: 14
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 14 Instagram influencers like this in Belgium for you to pitch.
+hits: 10
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 10 Instagram influencers like this in Belgium for you to pitch.
 profiles:
+  - username: "inenijs"
+    fullname: >-
+      Ine Nijs
+    bio: >-
+      ♡ Mommy to Noah & Leo ♡ Writing [about love & life] ♡ Teaching yoga @licht.inenijs ♡ Vegetarian ♡ Co-author of the book ‘Lara’ [@ lara.by.lara]
+    location: "Belgium"
+    followers: 25537
+    engagement: 496
+    commentsToLikes: 0.147281
+    id: cl1opu2yz8ivf0i23m0k4xwxp
+    verified: false
+    hashtags: "#advertentie, #publiciteit, #babyleo, #prebdaycelebration"
   - username: "ina.ciumakova"
     fullname: >-
       Content Curator: Ina Ciumakova
     bio: >-
-      ••Picture Hunter (not a 📸) ••🍬Curator of @floating.sources ••My Poems in captions ••Creative thinking Propagator ••Vegetarian • Yoga • Belgium 🇧🇪
+      ••Red&Orange Photo Hunter (not a 📸) ••🍬Curator of @floating.sources ••My Poems in captions ••Daily Art, Yoga • Brussels, BE 🇧🇪 ••Highlight Covers:
     location: "Belgium"
-    followers: 18409
-    engagement: 1161
-    commentsToLikes: 0.020834
+    followers: 31590
+    engagement: 893
+    commentsToLikes: 0.024452
     id: ckapckrsm484m0i78311dhejy
     verified: false
-    hashtags: "#saturdaysmag, #filmscan, #poetsociety, #coronachallenge"
+    hashtags: "#makemeseemag, #screen, #thep0rtraitproject, #vivid"
   - username: "debby_the_chocoholic"
     fullname: >-
-      ZEN WITH DEBBY 🌺 Yoga & Food
+      𝐃𝐞𝐛𝐨𝐫𝐚𝐡 | Zen With Debby
     bio: >-
-      🧘🏻‍♀️ YouTube: 𝐙𝐞𝐧 𝗪𝐢𝐭𝐡 𝐃𝐞𝐛𝐛𝐲 🤸🏻‍♀️ Yoga & POP Pilates Teacher⁣⁣ 🥰 In love with @theofficialmrboyfriend 🐾 Cat Mom of 2 🍫 Chocolate lover
+      @zenwithdebby ❥ Yoga & Pilates in Meise 🧘🏻‍♀️ Yoga classes on YouTube 🍫 Chocoholic | Foodblogger 💘 @theofficialmrboyfriend 🐾 Cat Mom of 2
     location: "Belgium"
-    followers: 30558
-    engagement: 446
-    commentsToLikes: 0.060045
+    followers: 27958
+    engagement: 146
+    commentsToLikes: 0.063688
     id: ck0u1mk1nx9ka0i19juor7rxb
     verified: false
-    hashtags: "#heartopener, #budgetcooking, #belgianchocolate, #belgianfoodie"
-  - username: "cha.stas_"
-    fullname: >-
-      Yoga- Handstands- Calesthenics
-    bio: >-
-      Charlotte 📍Based in #belgium 🎥YouTube: Cha Stas Speaking :🇨🇵🇳🇱🇬🇧 ( feel free to choose one) 📩email : charlottestas@outlook.com
-    location: "Belgium"
-    followers: 5837
-    engagement: 579
-    commentsToLikes: 0.145386
-    id: ckapc0qhr20sm0i78y3ziicjr
-    verified: false
-    hashtags: "#upsidedown, #handstandchallenge, #yoga, #yogatutorial"
-  - username: "mystic_et_ses_poilus"
-    fullname: >-
-      Mystic
-    bio: >-
-      😼9 👠addict 🧘‍♀️yogi ☕️coffee 🌵urbanjungle 🕉 zen attitude 🙆‍♀️bodypositive 🌟monbanquiernestpastoujoursdaccord 🌕 womoon
-    location: "Belgium"
-    followers: 2155
-    engagement: 1005
-    commentsToLikes: 0.318875
-    id: ck8t5defi9qth0j78zthe3su6
-    verified: false
-    hashtags: "#cat, #over50, #mainecoonlovers, #kiki"
-  - username: "freeoversea"
-    fullname: >-
-      céline
-    bio: >-
-      being kind is cool ☽ belgian based in barcelona vegan for the animals ॐ founder of @irisretreat
-    location: "Belgium"
-    followers: 3340
-    engagement: 539
-    commentsToLikes: 0.044983
-    id: ck13692ep5cji0i19u4ps4dn1
-    verified: false
-    hashtags: "#sunset, #yoga, #vegan, #barcelona"
+    hashtags: "#thefeedfeedvegan, #yogabalance, #bakken, #smoothieforbreakfast"
   - username: "art.roc"
     fullname: >-
       Art of Roc
     bio: >-
-      Aurélien Rocteur 🇧🇪 Orders temporarily open for 2020 😉 artrocdrawing@gmail.com #art #draw #dance #illustration
+      Aurélien Rocteur 🇧🇪 Orders temporarily close for 2020 😉 Facebook : art.roc.drawing #art #draw #dance #illustration
     location: "Belgium"
-    followers: 81227
-    engagement: 320
-    commentsToLikes: 0.008046
+    followers: 69843
+    engagement: 399
+    commentsToLikes: 0.017457
     id: ck15ulxcintmz0i19m7mgxeqs
     verified: false
-    hashtags: "#rough, #danse, #drawingskills, #yoga"
-  - username: "hannemaudens"
+    hashtags: "#ballerina, #yoga, #dancersofinstagram, #flexibilidade"
+  - username: "freeoversea"
     fullname: >-
-      Hanne Maudens
+      
     bio: >-
-      Ex-heptathlete (6252 points) 400-800 m runner Longjump 6m53 @runnerslabathleticsteam @adidas Follow my dream to Tokyo2023 🎌 Equicoaching 🦓
+      
     location: "Belgium"
-    followers: 6672
-    engagement: 765
-    commentsToLikes: 0.013447
-    id: ckaosvm3wt7oq0i78p2zz24pq
+    followers: 5
+    engagement: 346333
+    commentsToLikes: 0.049924
+    id: ck13692ep5cji0i19u4ps4dn1
     verified: false
-    hashtags: "#motivation, #lacticacid, #athletics, #glutes"
-  - username: "ellemieke_vermolen"
+    hashtags: "#yogapractice, #vegan, #plantbased, #yogaeveryday"
+  - username: "steveboedt"
     fullname: >-
-      ELLEMIEKE VERMOLEN
+      Steve Boedt
     bio: >-
-      ♥︎ 𝙼𝚘𝚝𝚑𝚎𝚛 ➪ 𝙰𝚞𝚝𝚑𝚘𝚛 𝚘𝚏 𝟺 𝚑𝚎𝚊𝚕𝚝𝚑𝚢 𝚌𝚘𝚘𝚔𝚋𝚘𝚘𝚔𝚜 ☆ 𝚃𝚅 𝙷𝚘𝚜𝚝 ☯︎︎ 𝚈𝚘𝚐𝚊 & 𝙿𝚒𝚕𝚊𝚝𝚎𝚜 ✌︎︎ ♡ 𝚃𝚑𝚎𝚛𝚎 𝚒𝚜 𝚘𝚗𝚕𝚢 𝚘𝚗𝚎 𝚑𝚊𝚙𝚙𝚒𝚗𝚎𝚜𝚜 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚕𝚒𝚏𝚎, 𝚝𝚘 𝚕𝚘𝚟𝚎 𝚊𝚗𝚍 𝚋𝚎 𝚕𝚘𝚟𝚎𝚍
+      🗣️Confidence/ Happiness coach speaker 🌈 Help you find happiness 📖 ✍️ The Right Mindset 🌎 Presenter +100 countries 🏆 7 Awards 📍🇧🇪 Join 👇🏼 website
     location: "Belgium"
-    followers: 89573
-    engagement: 323
-    commentsToLikes: 0.037270
-    id: ck6u9b3mywipj0j71damlxkm8
+    followers: 153426
+    engagement: 116
+    commentsToLikes: 0.041797
+    id: ck135zw7b42gg0i19d2bkhv29
     verified: true
-    hashtags: "#keepsafe, #covid, #houvol, #vakantievoorbij"
-  - username: "vrijsendanny"
+    hashtags: "#mindset, #motivation, #zin, #zumbafitness"
+  - username: "aline_gobert"
     fullname: >-
-      Danny Vrijsen
+      Aline Gobert
     bio: >-
-      Belgian 🇧🇪 Acrobat/Amaluna/Cirque du Soleil
+      📍 Liège, BE 🇧🇪 Sport addict 💪🏼 & ice cream lover 🍦 #SportandHappiness 👟🏃‍♀️ 🥇FINISHER Half MDS 120km X2 🏃‍♀️ 🏅 Marathon x5
     location: "Belgium"
-    followers: 8836
-    engagement: 891
-    commentsToLikes: 0.028599
-    id: ck14ksq3zr4k40i19g9rk6wxt
+    followers: 26687
+    engagement: 412
+    commentsToLikes: 0.104123
+    id: ck0ty7ifylsj00i1923w9sd8f
     verified: false
-    hashtags: "#duo, #insidegym, #teeterboard, #handstand"
-  - username: "lindsaydcst"
+    hashtags: "#revolutionrace, #hikingday, #baladedujour, #happyrunners"
+  - username: "bella.illustration"
     fullname: >-
-      L I N D S A Y
+      Bella Sriwantana
     bio: >-
-      Sport, Food & Travel 🌏 Crossfit 🏋🏻‍♀️ // LesMills™ instructor ☠️ @northernspiritcf 🎒🦍 @kingkongapparel : Lindsay15 🔥 @hipro.belgium 🇨🇵 🇧🇪
+      📍 🇹🇭 Thai in Belgium 🇧🇪 ✏️ Comic Artist | Graphic Designer 💌 Press e-mail below for inquiries ‼️ Commissions OPEN‼️ 🧸 Patreon, Twitch, Shop links:
     location: "Belgium"
-    followers: 2806
-    engagement: 930
-    commentsToLikes: 0.028982
-    id: ckap9t0mgtjb50i78b1t0xl9h
+    followers: 108565
+    engagement: 1652
+    commentsToLikes: 0.004251
+    id: ck138pqcdheex0i19x4k49ahc
     verified: false
-    hashtags: "#mondaymood, #stronggirl, #kingkongbag, #abs"
+    hashtags: "#dogmomlife, #artwork, #comicdiary, #webcomics"
+  - username: "veronikaostrihonova"
+    fullname: >-
+      Veronika Cifrová Ostrihoňová
+    bio: >-
+      Sárina & Šimonova mama 〰️Maťova žena 〰️ talkshow host @sitdownsveronikou 🎬 @silnazostava_official na @rtvs_official
+    location: "Belgium"
+    followers: 216124
+    engagement: 163
+    commentsToLikes: 0.010697
+    id: ck5caapvad1rz0i11kxker88z
+    verified: true
+    hashtags: "#tentodensveri, #elections, #sunday, #family"
+  - username: "randhobbes"
+    fullname: >-
+      Rand Hobbes
+    bio: >-
+      Fine art photographer, SF, CA. Back-up account @randhobbes2 If you enjoy dance follow my 2nd IG account too: @rdhobbet DM me for collaborations
+    location: "Belgium"
+    followers: 322913
+    engagement: 179
+    commentsToLikes: 0.010291
+    id: ck5cca4y7gznn0i11sg2c4c86
+    verified: false
+    hashtags: "#bnw, #feminique, #infinity, #windowlight"
 ---

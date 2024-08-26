@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Houston In 2023
+title: Top 10 Lifestyle TikTok Influencers In Houston In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Houston in 2023. Most popular hashtags: #houston #fyp #lifestyle #foryou.
+  Find top lifestyle TikTok influencers in Houston in 2024. Most popular hashtags: #houston #lifestyle #fyp #texas.
 platform: TikTok
 hits: 15
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 15 TikTok influencers like this in Houston, United States for you to pitch.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 15 TikTok influencers like this in Houston, United States for you to work with.
 profiles:
   - username: "definitely_not_travis"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.032570
     id: cka0ouref5lfr0i7873cnwl9y
     verified: false
-    hashtags: "#houston, #houstontexas, #houstonfood, #houstontx"
+    hashtags: "#houston, #houstonfood, #houstontx, #houstontexas"
   - username: "customhomes"
     fullname: >-
       Riverwood Building
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.025808
     id: ckbkvb6gqqw9s0j23ug8p2egr
     verified: false
-    hashtags: "#foryou, #parati, #travel, #peru"
+    hashtags: "#foryou, #peru, #fyp, #parati"
   - username: "dtal"
     fullname: >-
       Dylan Talimoni🇹🇴
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.041589
     id: ck97zqhmd4mqh0j786baujfql
     verified: false
-    hashtags: "#cutebaby, #balloon, #easter, #roomtour"
+    hashtags: "#roomtour, #ad, #easter, #balloon"
 ---

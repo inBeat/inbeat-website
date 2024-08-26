@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Chicago In 2023
+title: Top 10 Gaming TikTok Influencers In Chicago In 2024
 description: >-
-  Find top gaming TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #gaming #foryou #chicago.
+  Find top gaming TikTok influencers in Chicago in 2024. Most popular hashtags: #fyp #gaming #chicago #foryou.
 platform: TikTok
-hits: 24
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our database holds 24 TikTok influencers like this in Chicago, United States for you to collaborate.
+hits: 23
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our platform has 23 TikTok influencers like this in Chicago, United States for you to connect with.
 profiles:
   - username: "carhuff7"
     fullname: >-
@@ -43,6 +43,18 @@ profiles:
     id: ckbkx20qkswhb0j2316y5fet9
     verified: false
     hashtags: "#warzoneclips, #warzone, #viral, #warzonefunnyclips"
+  - username: "vlogvato"
+    fullname: >-
+      Rip Dr. Broke
+    bio: >-
+      Idk. I made a scary video in bio
+    location: "United States"
+    followers: 287700
+    engagement: 715
+    commentsToLikes: 0.014781
+    id: ckbl44tny1jod0j23gxmau5p3
+    verified: false
+    hashtags: "#abandonedhospital, #mystery, #abandonedschool, #dumpsterdivers"
   - username: "mowithafro"
     fullname: >-
       Massimo
@@ -62,11 +74,11 @@ profiles:
       Chicago Next con: Acen Your favorite Epic Gamer Sc-katharina101 ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ
     location: "United States"
     followers: 32600
-    engagement: 1447
-    commentsToLikes: 0.017656
+    engagement: 1426
+    commentsToLikes: 0.017868
     id: ckceiftccqp7e0j235bk5x1lf
     verified: false
-    hashtags: "#makeup, #xyzbca, #dva, #foryoupage"
+    hashtags: "#gaming, #fyp, #foryou, #xyzbca"
   - username: "rombednarczyk"
     fullname: >-
       Roman Bednarczyk
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.038397
     id: cka8e6lyjw0d00i78wopderto
     verified: false
-    hashtags: "#basketball, #2k, #chicago, #xbox"
+    hashtags: "#basketball, #nba, #fyp, #greenscreen"
   - username: "juli_1110"
     fullname: >-
       Julian Carrillo
@@ -91,18 +103,18 @@ profiles:
     id: ck8f6fvqo2m140j78lugtocxk
     verified: false
     hashtags: "#chicago, #fyp, #zxycba, #meme"
-  - username: "playboierik22"
+  - username: "notproudmexican"
     fullname: >-
-      playboierik22
+      NotProudMexican
     bio: >-
-      16 Add me on Discord! @NotProudMexican#5182
+      16 Add me on Discord! @NotProudMexican#5182 Old account @playboierik21
     location: "United States"
-    followers: 15000
-    engagement: 1680
-    commentsToLikes: 0.063934
+    followers: 14900
+    engagement: 1547
+    commentsToLikes: 0.061430
     id: ckblf1yx090ng0j23p586s9uk
     verified: false
-    hashtags: "#funny, #rocketleague, #foryou, #twitch"
+    hashtags: "#fyp, #meme, #foryou, #naruto"
   - username: "reallyviral"
     fullname: >-
       Viral
@@ -115,16 +127,4 @@ profiles:
     id: ck9pmqvf5azzl0j78dgjgnj2c
     verified: false
     hashtags: "#tiktokgaming, #trump2020, #downbad, #funny"
-  - username: "legendaryb1rd"
-    fullname: >-
-      Shane Dodson
-    bio: >-
-      Join my Discord https://discord.gg/bGvPDpfxvt Merch https://streamlabs.com/thekr
-    location: "United States"
-    followers: 60700
-    engagement: 1640
-    commentsToLikes: 0.163912
-    id: ck8ophu7637e00j78fmw9lx69
-    verified: false
-    hashtags: "#laugh, #callofdutyclips, #cod, #codclips"
 ---

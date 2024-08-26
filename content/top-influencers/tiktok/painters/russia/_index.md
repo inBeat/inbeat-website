@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters TikTok Influencers In Russia In 2023
+title: Top 10 Painters TikTok Influencers In Russia In 2024
 description: >-
-  Find top painters TikTok influencers in Russia in 2023. Most popular hashtags: #fyp #foryou #artist #art.
+  Find top painters TikTok influencers in Russia in 2024. Most popular hashtags: #fyp #foryou #artist #art.
 platform: TikTok
 hits: 13
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat has 13 TikTok influencers like this in Russia for you to pitch.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our database holds 13 TikTok influencers like this in Russia for you to connect with.
 profiles:
   - username: "jeeromeo"
     fullname: >-

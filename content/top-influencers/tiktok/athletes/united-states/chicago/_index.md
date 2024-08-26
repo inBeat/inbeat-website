@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Chicago In 2023
+title: Top 10 Athletes TikTok Influencers In Chicago In 2024
 description: >-
-  Find top athletes TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #foryou #funny #athlete.
+  Find top athletes TikTok influencers in Chicago in 2024. Most popular hashtags: #fyp #foryou #athlete #viral.
 platform: TikTok
-hits: 9
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our platform holds 9 TikTok influencers like this in Chicago, United States for you to work with.
+hits: 8
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 8 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
   - username: "trevorfahnstrom"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.011017
     id: ck9skxl9xb2ui0j783zmm4l6v
     verified: false
-    hashtags: "#athlete, #mlb, #comedy, #baseball"
+    hashtags: "#softball, #sports, #athlete, #baseball"
   - username: "officialexavier"
     fullname: >-
       Official Exavier
@@ -55,18 +55,6 @@ profiles:
     id: ckdcebvcgk2g90j23lzs1gdt8
     verified: false
     hashtags: "#fyp, #matchingoutfits, #tallgirl, #xyzbca"
-  - username: "coldhearted04"
-    fullname: >-
-      Ryan Robinson
-    bio: >-
-      Chi📍 College Student Athlete🏀 AMOSC: rloading23🤟🏾 30k
-    location: "United States"
-    followers: 29600
-    engagement: 1587
-    commentsToLikes: 0.028339
-    id: ckave731bmav00j2346frw7ls
-    verified: false
-    hashtags: "#xyzbca, #greenscreen, #funny, #foryoupage"
   - username: "seny_acro_"
     fullname: >-
       seny_acro_
@@ -127,4 +115,16 @@ profiles:
     id: ck9kegkrwysvx0j78zzeuzoaf
     verified: false
     hashtags: "#exercise, #fitness, #bodybuilding, #workout"
+  - username: "teehiggins"
+    fullname: >-
+      Tee Higgins
+    bio: >-
+      Athlete
+    location: "United States"
+    followers: 83000
+    engagement: 1143
+    commentsToLikes: 0.014502
+    id: ck94l48tmxpge0j7838if7uw2
+    verified: true
+    hashtags: "#foryoupage, #fyp, #foryou, #viral"
 ---

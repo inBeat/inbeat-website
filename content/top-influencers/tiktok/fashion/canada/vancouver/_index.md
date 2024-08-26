@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Vancouver In 2023
+title: Top 10 Fashion TikTok Influencers In Vancouver In 2024
 description: >-
-  Find top fashion TikTok influencers in Vancouver in 2023. Most popular hashtags: #fashion #fyp #vancouver #foryou.
+  Find top fashion TikTok influencers in Vancouver in 2024. Most popular hashtags: #fashion #fyp #foryou #vancouver.
 platform: TikTok
-hits: 27
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine holds 27 TikTok influencers like this in Vancouver, Canada for you to pitch.
+hits: 26
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 26 TikTok influencers like this in Vancouver, Canada for you to collaborate.
 profiles:
   - username: "stylebykris"
     fullname: >-
@@ -18,7 +18,19 @@ profiles:
     commentsToLikes: 0.084107
     id: ckb9exrt7312x0j239w8pv4ml
     verified: false
-    hashtags: "#ootd, #tiktokfashionmonth, #winterfashion, #tiktokfashion"
+    hashtags: "#springoutfit, #tiktokfashion, #fashionnova, #styletip"
+  - username: "2hypevictor"
+    fullname: >-
+      2hypevictor
+    bio: >-
+      made for the world
+    location: "Canada"
+    followers: 19500
+    engagement: 1175
+    commentsToLikes: 0.038776
+    id: ckcp17xg2b4t90j2332yy9pf6
+    verified: false
+    hashtags: "#comedy, #funny, #vancouver, #fashion"
   - username: "zcankaya0"
     fullname: >-
       Zehra
@@ -97,12 +109,12 @@ profiles:
     bio: >-
       🥲🤘 ⏸ Vancouver-ish 🇬🇹🇹🇳 paypal.me/malikubi
     location: "Canada"
-    followers: 19400
-    engagement: 1555
-    commentsToLikes: 0.050420
+    followers: 19000
+    engagement: 1331
+    commentsToLikes: 0.070070
     id: ck90ykv9xapc90j78xldkgs2k
     verified: false
-    hashtags: "#duet, #greenscreen, #fyp, #viral"
+    hashtags: "#xyzbca, #viral, #foryou, #fyp"
   - username: "bluemstudios"
     fullname: >-
       Bluem
@@ -115,16 +127,4 @@ profiles:
     id: ck90z0k2ac8b60j78u33oru66
     verified: false
     hashtags: "#bluem, #xyzbca, #foryoupage, #fyp"
-  - username: "jcmillmill"
-    fullname: >-
-      jULES
-    bio: >-
-      Media grad trying to make it🥺 📍Vancouver Check out my latest YouTube video⬇️
-    location: "Canada"
-    followers: 5264
-    engagement: 1466
-    commentsToLikes: 0.032078
-    id: ckb9h3c8j6ell0j23xgm0z590
-    verified: false
-    hashtags: "#vlogmas, #fyp, #harrystyles, #vancouver"
 ---

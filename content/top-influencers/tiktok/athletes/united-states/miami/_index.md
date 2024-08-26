@@ -1,24 +1,12 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Miami In 2023
+title: Top 10 Athletes TikTok Influencers In Miami In 2024
 description: >-
-  Find top athletes TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #miami #athlete #xyzbca.
+  Find top athletes TikTok influencers in Miami in 2024. Most popular hashtags: #fyp #athlete #miami #viral.
 platform: TikTok
 hits: 14
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our platform holds 14 TikTok influencers like this in Miami, United States for you to contact.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform has 14 TikTok influencers like this in Miami, United States for you to connect with.
 profiles:
-  - username: "allnewyork"
-    fullname: >-
-      best content out 🤷🏼‍♂️
-    bio: >-
-      Business Email: benandnickweldon@gmail.com Use promo code “benn” to get 10% off
-    location: "United States"
-    followers: 24500
-    engagement: 1591
-    commentsToLikes: 0.073986
-    id: cka9kz60b17ur0i782wbhmp7m
-    verified: false
-    hashtags: "#nfl, #billsmafia, #nyc, #607"
   - username: "omaratalla"
     fullname: >-
       Omar Atalla
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.086988
     id: ck8km8t0o7hgx0j78cqdh3rca
     verified: false
-    hashtags: "#tracer, #tricks, #calisthenics, #tricking"
+    hashtags: "#miamiflorida, #fit, #vibe, #miamitrainer"
   - username: "josh24barry24"
     fullname: >-
       Josh
@@ -127,4 +115,16 @@ profiles:
     id: cka84a7drsq0p0i783qrehfbx
     verified: false
     hashtags: "#touchdown, #football, #sports, #athletic"
+  - username: "playerstribune"
+    fullname: >-
+      PlayersTribune
+    bio: >-
+      The voice of the game. 📸 IG @playerstribune 🎥 SUBSCRIBE to our YT channel
+    location: "United States"
+    followers: 75900
+    engagement: 844
+    commentsToLikes: 0.012549
+    id: ckcdmg8nna60j0j234475ret9
+    verified: true
+    hashtags: "#richcheck, #nba, #athlete, #nfl"
 ---

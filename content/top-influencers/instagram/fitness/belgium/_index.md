@@ -1,24 +1,24 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Belgium In 2023
+title: Top 10 Fitness Instagram Influencers In Belgium In 2024
 description: >-
-  Find top fitness Instagram influencers in Belgium in 2023. Most popular hashtags: #fitness #fitnessgirl #gymlife #motivation.
+  Find top fitness Instagram influencers in Belgium in 2024. Most popular hashtags: #fitness #fit #motivation #gym.
 platform: Instagram
-hits: 35
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 35 Instagram influencers like this in Belgium for you to work with.
+hits: 41
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 41 Instagram influencers like this in Belgium for you to connect with.
 profiles:
-  - username: "sachafarber"
+  - username: "lexharlee"
     fullname: >-
-      𝔰𝔞𝔠𝔥𝔞🦋סשה
+      Lex
     bio: >-
-      ♡ Personal Trainer 🏋️‍♀️ ♡ 𝙰𝚗𝚒𝚖𝚊𝚕 rights / veggie 🌱 ♡ Boxing / Fitness / Crossfit 🥊 ♡ Tattoo Apprentice @loveinketc 💉
+      LA Fitness•Vegan•Producer Panamanian & Belgian
     location: "Belgium"
-    followers: 20751
-    engagement: 109
-    commentsToLikes: 0.074123
-    id: ck5c1w6u6w1th0i11i7j99rx2
+    followers: 68256
+    engagement: 1370
+    commentsToLikes: 0.016974
+    id: ck5hf8yliwd0b0i118glo6s22
     verified: false
-    hashtags: "#samensterk, #mysportshero, #voetbal, #ek2021"
+    hashtags: "#sistersister"
   - username: "justinevandermeersch"
     fullname: >-
       JUSTINE VAN DER MEERSCH
@@ -31,18 +31,6 @@ profiles:
     id: ck5hmpp55me7b0i11zsn18amm
     verified: false
     hashtags: ""
-  - username: "lexharlee"
-    fullname: >-
-      Lex
-    bio: >-
-      LA @lexharleefitness coming soon Fitness•Vegan•Producer Panamanian & Belgian
-    location: "Belgium"
-    followers: 77400
-    engagement: 1162
-    commentsToLikes: 0.017735
-    id: ck5hf8yliwd0b0i118glo6s22
-    verified: false
-    hashtags: "#sistersister"
   - username: "magzzfit"
     fullname: >-
       MAGALI🌺
@@ -55,18 +43,6 @@ profiles:
     id: ck15t7ms7gq4z0i19nr9yidau
     verified: false
     hashtags: "#strongereveryday, #train, #fitnesspage, #gymlife"
-  - username: "coralie_vdb_"
-    fullname: >-
-      ℭ𝔬𝔯𝔞𝔩𝔦𝔢 🧜🏽‍♀️
-    bio: >-
-      ❝ BODY IS ART. ♒︎ Mauritian / belgian model ✐ Fitness life @v.d.body ☾ Dreamer and sea lover
-    location: "Belgium"
-    followers: 36748
-    engagement: 622
-    commentsToLikes: 0.019800
-    id: ck9wdjpx9fyhr0j78yjarlkst
-    verified: false
-    hashtags: "#mirrowselfie, #fitnessmotivations, #bikinilifestyle, #mirrorselfie"
   - username: "fit_with_kelly_"
     fullname: >-
       KELLY DEJAEGERE 🌻
@@ -79,18 +55,6 @@ profiles:
     id: ckf5qr4h8aao20j23kal0eayn
     verified: false
     hashtags: "#proud, #reign, #reignbodyfuel, #bootytoolsbe"
-  - username: "steveboedt"
-    fullname: >-
-      Steve Boedt
-    bio: >-
-      🙋🏼‍♂️ Life coach-Keynote speaker 🌎 Fitness presenter in 90 + 🌍 💪🏼 7 International 🏆 📺 3 national shows 📍🇧🇪🇪🇸🇩🇰 👩🏻‍🤝‍👨🏼Confidence coach 🕺 Zumba® ZES
-    location: "Belgium"
-    followers: 144008
-    engagement: 59
-    commentsToLikes: 0.029131
-    id: ck135zw7b42gg0i19d2bkhv29
-    verified: true
-    hashtags: "#selfcare, #growthmindset, #goals, #entrepreneur"
   - username: "rgls.fitness"
     fullname: >-
       尺ロ乃モ尺イロ.  G乚ら
@@ -103,28 +67,64 @@ profiles:
     id: ck600jwtwdql20i149rv3xbiz
     verified: false
     hashtags: "#belgium, #gymlife, #training, #instafit"
-  - username: "elizemol"
+  - username: "danny_dorland"
     fullname: >-
-      ELIZE MOL
+      Danny Dorland
     bio: >-
-      
+      Scott in @likemeketnet Freek in @vtmfamilie
     location: "Belgium"
-    followers: 20655
-    engagement: 672
-    commentsToLikes: 0.061903
-    id: ck5zxzx4o8z5j0i14x49rl884
+    followers: 37026
+    engagement: 908
+    commentsToLikes: 0.020481
+    id: ck55neil461ij0i11z7zcyae7
     verified: false
-    hashtags: "#fitnessmotivation, #outfitoftheday, #fitness, #outfitinspiration"
-  - username: "camillelaus"
+    hashtags: "#fit, #mensstyle, #crossfit, #style"
+  - username: "eliemudiayi"
     fullname: >-
-      C a m i l l e    L a u s
+      Elie Mudiayi B. כריסטיאן
     bio: >-
-      400m @belgiancheetahs Road to @tokyo2020 Represented by @vitam_sport Powered by @belleroseofficial @oppobelgium @basicfit_be @hyundaibelgium
+      Le bonheur est dans les choses simples 🔥 Healthy lifestyle Email for a collab 🙏🏽 #cokeambassador #ambassadorbasicfitbe #asosambassador 📍Bruxelles
     location: "Belgium"
-    followers: 23624
-    engagement: 1067
-    commentsToLikes: 0.028357
-    id: ck6tu06afdk4a0j71bjj4c97j
+    followers: 28009
+    engagement: 385
+    commentsToLikes: 0.018991
+    id: ck0txd9w9itsl0i19idjac8vj
     verified: false
-    hashtags: "#trackgirl, #healthylifestyle, #roadtotokyo, #trainingcamp"
+    hashtags: "#fitnessaddict, #style, #zante, #fitness"
+  - username: "sam.v_e"
+    fullname: >-
+      S a m 🧿
+    bio: >-
+      C r o s s f i t M e r c h t e m
+    location: "Belgium"
+    followers: 9466
+    engagement: 225
+    commentsToLikes: 0.022963
+    id: ckaowdvgs8i4d0i78oz47xrzd
+    verified: false
+    hashtags: "#fitness, #myproteinwomen, #crossfiteurope, #getfit"
+  - username: "steveboedt"
+    fullname: >-
+      Steve Boedt
+    bio: >-
+      🗣️Confidence/ Happiness coach speaker 🌈 Help you find happiness 📖 ✍️ The Right Mindset 🌎 Presenter +100 countries 🏆 7 Awards 📍🇧🇪 Join 👇🏼 website
+    location: "Belgium"
+    followers: 153426
+    engagement: 116
+    commentsToLikes: 0.041797
+    id: ck135zw7b42gg0i19d2bkhv29
+    verified: true
+    hashtags: "#mindset, #motivation, #zin, #zumbafitness"
+  - username: "remi.ganzeman"
+    fullname: >-
+      REMI GANZEMAN
+    bio: >-
+      𝐎𝐧𝐥𝐢𝐧𝐞 𝐅𝐢𝐭𝐧𝐞𝐬𝐬 𝐂𝐨𝐚𝐜𝐡 📈 Helping (busy) men gain lean muscle mass AND lose fat! 📲 DM the word '𝐆𝐀𝐈𝐍𝐒' and maybe I can help you!
+    location: "Belgium"
+    followers: 20362
+    engagement: 87
+    commentsToLikes: 0.015814
+    id: ck0twglz0fack0i196e89a169
+    verified: false
+    hashtags: "#fitnesstips, #onlinecoaching, #healtyhabits, #onlinecoach"
 ---

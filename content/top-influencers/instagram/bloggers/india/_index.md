@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In India In 2023
+title: Top 10 Bloggers Instagram Influencers In India In 2024
 description: >-
-  Find top bloggers Instagram influencers in India in 2023. Most popular hashtags: #ad #trendingreels #trending #india.
+  Find top bloggers Instagram influencers in India in 2024. Most popular hashtags: #reels #trending #instagood #instadaily.
 platform: Instagram
-hits: 1785
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 1785 Instagram influencers like this in India for you to connect with.
+hits: 1812
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 1812 Instagram influencers like this in India for you to collaborate.
 profiles:
-  - username: "mostlysane"
+  - username: "divya_saurabh_kedar"
     fullname: >-
-      Prajakta Koli
+      Divya Saurabh Kedar
     bio: >-
-      YouTuber | Blogger | Actor | Mess-er-up-er Mumbai, India Blog - MostlySane.in
+      👩🏻 Model/fashion blogger 📍 Ulhasnagar- Mumbai 🗨️Snapchat- gadaiwaldivya95 📧 divyaSkedar@gmail.com
     location: "India"
-    followers: 7338137
-    engagement: 511
-    commentsToLikes: 0.001446
-    id: ck0ttsfgd44nn0i19x8fgycny
-    verified: true
-    hashtags: "#realtalktuesday, #feedingindiaconcert, #16days, #notoviolence"
-  - username: "passionateaboutbaking"
-    fullname: >-
-      Deeba Rajpal
-    bio: >-
-      Cookbook Author | Baker | Content Creator | Blogger | Eggless Desserts | Food Stylist | Food Photography Recipes on @pabrecipes India 🇮🇳
-    location: "India"
-    followers: 416171
-    engagement: 1005
-    commentsToLikes: 0.016130
-    id: ck0twjmsvfofn0i19ffoazlr7
-    verified: true
-    hashtags: "#ad, #strawberries, #pabrecipes, #biscofflotus"
-  - username: "nayana_k.m"
-    fullname: >-
-      Nayana Km | Mom Blogger
-    bio: >-
-      Artist| mom blogger| fashion blogger Founder @inboxhairoil Shop now
-    location: "India"
-    followers: 106281
-    engagement: 486
-    commentsToLikes: 0.009569
-    id: ck0w35olmrpra0i19smw5mqqg
+    followers: 97102
+    engagement: 719
+    commentsToLikes: 0.014871
+    id: ck5zvfzge45tx0i1435ig00d8
     verified: false
-    hashtags: "#instagram, #sareedrapping, #krishna, #yashodhakrishna"
-  - username: "subhikshavenkat"
+    hashtags: "#instafashion, #instalike, #blogger, #instablogger"
+  - username: "ubaiidullah"
     fullname: >-
-      Subhiksha Venkat
+      Ubaid ullah
     bio: >-
-      Fashion | Food | Travel | Lifestyle blogger 🐝 #madeinchennai Founder of @kaathadi.madras 🪁 📍Madras
+      Just a boy with a dream. 💭 ⭐️FASHION BLOGGER | INFLUENCER | YOUTUBER Tiktok - 1.5Million+ Youtube - 6Million+ Snap 👻 - ubaiidullah1
     location: "India"
-    followers: 111152
-    engagement: 330
-    commentsToLikes: 0.023098
-    id: ck14girnc5fhk0i195aieuwr5
+    followers: 54558
+    engagement: 2009
+    commentsToLikes: 0.071340
+    id: ck8wf5gmpf5lq0j787jwnadri
     verified: false
-    hashtags: "#chennaiinfluencer, #ad, #discoverchennaiwithbee, #beeinparis"
-  - username: "anupriyakapur"
+    hashtags: "#instagood, #trend, #reels, #vr1"
+  - username: "unitedfeastforfoodies"
     fullname: >-
-      Anupriya
+      Snigdha Mahajan- Blog🤤🇮🇳
     bio: >-
-      Single Mom | Blogger | Co-founder @imbuenatural Fitness. Lifestyle. Travel. Relatable Fashion.
+      @i_am_snigdha_mahajan •Chandigarh •Bangalore •Level 8 on zomato •Food & Lifestyle Bloggers
     location: "India"
-    followers: 238882
-    engagement: 204
-    commentsToLikes: 0.029517
-    id: ck13bcdbvuqyd0i19b00ekhkl
+    followers: 5051
+    engagement: 606
+    commentsToLikes: 0.410879
+    id: ck8t7qj2uhnof0j7841xyskr8
+    verified: false
+    hashtags: "#photooftheday, #smilegirl, #chandigarhfood, #foodlover"
+  - username: "rida_arsalan08"
+    fullname: >-
+      Rida Arsalan
+    bio: >-
+      Dm for PR / Collaboration Life of a House Wife 👩 Fashion / lifestyle blogger 🇵🇰 My youtube channel link below
+    location: "India"
+    followers: 13572
+    engagement: 403
+    commentsToLikes: 0.183864
+    id: ckf5u5ijwjm3z0j23aaibbaoo
+    verified: false
+    hashtags: "#dubai, #reels, #instafashion, #dubailife"
+  - username: "bir_ramgarhia"
+    fullname: >-
+      The Dapper Sardar
+    bio: >-
+      ♠️ XXV VI 🎂 🇦🇺🇦🇪🇹🇭🇳🇵🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🇬🇪🇦🇲🇹🇷 🇮🇹🇳🇱🇫🇷🇻🇦🇨🇭 BLOGGER | VLOGGER | INFLUENCER Sc👻birramgarhia7 📧for collab/promos/queries
+    location: "India"
+    followers: 896173
+    engagement: 619
+    commentsToLikes: 0.007076
+    id: ck135wzh43nv00i19m269gzga
+    verified: false
+    hashtags: "#style, #reels, #tharroxx, #birramgarhia"
+  - username: "trend.in.myway"
+    fullname: >-
+      Neha Shaw
+    bio: >-
+      Fashion / Travel / Lifestyle MOM blogger Sharing feminine, Edgy, Mom style🙋‍♀️ Love making fun relatable videos 👨‍👩‍👦 Mom to @anaisha.says
+    location: "India"
+    followers: 144063
+    engagement: 547
+    commentsToLikes: 0.016566
+    id: ck14iyp6ihs5f0i19xt5u0w64
+    verified: false
+    hashtags: "#collab, #funreels, #naturalfluidfashion, #livaxneha"
+  - username: "soumili.mukherjee"
+    fullname: >-
+      Soumili Mukherjee
+    bio: >-
+      FASHION •BEAUTY •LIFESTYLE •TRAVEL 🌴💫 Won @thebnbmag Best BEAUTY BLOGGER DM / Mail for collaborations 📩 Managed by @bloggersbar
+    location: "India"
+    followers: 217099
+    engagement: 750
+    commentsToLikes: 0.030454
+    id: ck0w21jrwm6o20i19obm5wngy
+    verified: false
+    hashtags: "#italytravel, #urbanic, #bangkok, #parisfrance"
+  - username: "purva_rakhyani"
+    fullname: >-
+      POO💎
+    bio: >-
+      Actor | Model | Host | RJ | Blogger Data Analyst 🖥️ Pune📍
+    location: "India"
+    followers: 21444
+    engagement: 11013
+    commentsToLikes: 0.026058
+    id: ckf5o05q50epc0j23fwyg914k
+    verified: false
+    hashtags: "#reels, #makeupartist, #makeuplooks, #viral"
+  - username: "shenaztreasury"
+    fullname: >-
+      Travel, Romance, Smiles
+    bio: >-
+      Sustainable Travel, Wellness Happiness Influencer I collect Smiles Economic Times🏆 Cosmo blogger🏆 Forbes List 🏆 Filmfare🥇 Brandsforshenaz@gmail
+    location: "India"
+    followers: 1210255
+    engagement: 533
+    commentsToLikes: 0.020839
+    id: ck5cl6mqpybv10i11cxy89fce
     verified: true
-    hashtags: "#shotoniphone14promax, #ad, #srilanka, #fitover40"
-  - username: "meetbaggaa"
+    hashtags: "#inspirecreativity, #accorhotels, #ad, #thereverseproject"
+  - username: "foodie_muscle_man"
     fullname: >-
-      MEET ARORA ♥️
+      foodie_muscle_man
     bio: >-
-      Blogger | Model | Video creator Social marketing - ( @marketofmeetbaggaa ) 𝐌𝐚𝐧𝐚𝐠𝐞𝐝 𝐛𝐲 @baazdigitals 🦅 Ludhiana | Chandigarh | Delhi
+      Food blogger 🍖🍗🥩🍤🍔🌮🌯 @amr_fitness_46 🩸💪 Dm for collaboration India 🇮🇳 UAE 🇦🇪
     location: "India"
-    followers: 194003
-    engagement: 191
-    commentsToLikes: 0.010773
-    id: ckaosqdkzsmgp0i78pk14kyy4
+    followers: 112111
+    engagement: 1032
+    commentsToLikes: 0.012636
+    id: ckaove4hn47of0i7829pnef32
     verified: false
-    hashtags: "#beautyinfluencer, #trendingsongs, #fashioninfluencers, #fashionillustrator"
-  - username: "riaangeorge"
-    fullname: >-
-      Riaan J. George
-    bio: >-
-      Based Mumbai-Colombo🇮🇳🇱🇰 🖥Luxury Content-Cars-Planes-Watches-GroomingGuru-Style 💻 Captain @urbaneyestudio 📸Cosmo Best Luxury Blogger YouTube Channel
-    location: "India"
-    followers: 78819
-    engagement: 141
-    commentsToLikes: 0.076321
-    id: ck0ucmo26h3d80i19wma1lnf7
-    verified: true
-    hashtags: "#reels, #incredibleindia, #trending, #india"
-  - username: "mscocoqueen"
-    fullname: >-
-      Sukhneet Wadhwa Gujral
-    bio: >-
-      A Decade In Fashion • Lifestyle • Beauty Cosmopolitan Blogger Award Winner India
-    location: "India"
-    followers: 136228
-    engagement: 124
-    commentsToLikes: 0.019352
-    id: ck0uauj3md0om0i19ryrzepk4
-    verified: false
-    hashtags: "#explore, #trendingreels, #outfits, #travel"
-  - username: "shilpiboseofficial"
-    fullname: >-
-      𝙎𝙝𝙞𝙡𝙥𝙞 𝘽𝙤𝙨𝙚 🧿 𝙏𝙝𝙚 𝙎𝙩𝙮𝙡𝙚 𝙏𝙤𝙖𝙨𝙩
-    bio: >-
-      👑 National Pageant Winner 2018 🦋 Luxury | Fashion | Travel Blogger 🔆 Image Consultant For Business queries & Collaborations EMAIL 📍Mumbai, Maharashtra
-    location: "India"
-    followers: 442679
-    engagement: 94
-    commentsToLikes: 0.023451
-    id: ckto9uemreu5w0j23n92nk31y
-    verified: false
-    hashtags: "#thestyletoast, #cordeliacruises, #shilpixcordeliacruise, #luxurycruise"
-  - username: "sangeetabijlani9"
-    fullname: >-
-      Sangeeta Bijlani
-    bio: >-
-      Actor, Miss India,Supermodel, Blogger. DM for Collaborations Contact sbblog0907@gmail.com
-    location: "India"
-    followers: 2544153
-    engagement: 60
-    commentsToLikes: 0.031687
-    id: ck0tusbgr8i7t0i194g0oonq6
-    verified: true
-    hashtags: "#sangeetabijlanifans, #wisdom, #feelkaroreelkaro, #ascension"
+    hashtags: "#influencer, #home, #biriyani, #yum"
 ---

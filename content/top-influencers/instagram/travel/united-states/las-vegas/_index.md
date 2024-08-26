@@ -1,12 +1,24 @@
 ---
-title: Top 10 Travel Instagram Influencers In Las Vegas In 2023
+title: Top 10 Travel Instagram Influencers In Las Vegas In 2024
 description: >-
-  Find top travel Instagram influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #travel #photography #ootd.
+  Find top travel Instagram influencers in Las Vegas in 2024. Most popular hashtags: #lasvegas #travel #vegas #travelphotography.
 platform: Instagram
-hits: 374
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 374 Instagram influencers like this in Las Vegas, United States for you to pitch.
+hits: 533
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 533 Instagram influencers like this in Las Vegas, United States for you to pitch.
 profiles:
+  - username: "lasvegasloversnv"
+    fullname: >-
+      LAS VEGAS LOVERS ♥️
+    bio: >-
+      Discover the best of Las Vegas with our pics 📸 #LasVegasLovers to be featured 🏨🎰🎲 Collaborations 👉 DM 📩 Follow 👉 @lasvegasinfo
+    location: "United States"
+    followers: 96520
+    engagement: 682
+    commentsToLikes: 0.012001
+    id: ck0u83v886ijs0i193tsa53j1
+    verified: false
+    hashtags: "#vegasnightlife, #follow4followback, #following, #travel"
   - username: "j.backpacker"
     fullname: >-
       Jon Wilson | GoPro
@@ -31,42 +43,30 @@ profiles:
     id: ck15pcl8vx7h60i1984iim05l
     verified: false
     hashtags: "#thrust, #military, #followforfollowback, #pilot"
-  - username: "chefntailor"
+  - username: "ourvegasfam"
     fullname: >-
-      Hezekiah DaCosta
+      Jenna ☼ Las Vegas
     bio: >-
-      Fine Dining | Style | NYC 🗽 - Supper Clubs 🍝 - TailoredTaste 🍽 DM for all catering inquiries 📥 #chefntailor #chefpreneur #culinarycouture
+      girl mom • content creator • lifestyle • travel • fitness 📩 ourvegasfam@socialmediacollabs.com
     location: "United States"
-    followers: 6413
-    engagement: 554
-    commentsToLikes: 0.123479
-    id: ck55kjnr8zgsw0i1127rrvbo7
+    followers: 45523
+    engagement: 11
+    commentsToLikes: 0.017698
+    id: ck6ucffdwfa6a0j71owfentil
     verified: false
-    hashtags: "#chefntailor, #onthepass, #blackchefsnetwork, #brooklynnets"
-  - username: "jenonajetplane"
+    hashtags: "#bringjoyoutdoors, #immersive, #fabkidspartner, #affiliate"
+  - username: "jaebaeproductions"
     fullname: >-
-      Jen Ruiz | Travel Writer & Content Creator
+      Jae’lynn Chaney | Plus Size Travel ✈️
     bio: >-
-      Change your own life through travel ✈️ Memoir “12 Trips in 12 Months” 📖 🎙 TEDx Speaker 🇵🇷 Puerto Rican 🤳 250k TikTok ✉️ jenruiz@jenonajetplane.com
+      ✈️Helping plus size travelers travel confidently ⁣ 🫶Find me @ JaeBaeOfficial on social⁣ 💕Patreon: FatResourceHub⁣ 📰Featured @TravelAndLeisure @CNN
     location: "United States"
-    followers: 29315
-    engagement: 118
-    commentsToLikes: 0.116266
-    id: ck13c6x8yywn40i19ksc9tcl0
+    followers: 94151
+    engagement: 47
+    commentsToLikes: 0.098246
+    id: ck0w2xyxjqoad0i19tbgll1y2
     verified: false
-    hashtags: "#womentravelsolo, #discoverireland, #loveireland, #puertoricofood"
-  - username: "monaxris"
-    fullname: >-
-      Christian Trevino
-    bio: >-
-      🇲🇽 𝓫𝓮𝓪𝓾𝓽𝓲𝓯𝔂𝓲𝓷𝓰 𝓱𝓾𝓶𝓪𝓷𝓼 𝓲𝓷 @remakebeautystudio @makatiskincare RN|Esthetician 📍Texas For appointments ‭1 (877) 554-8244‬
-    location: "United States"
-    followers: 33863
-    engagement: 474
-    commentsToLikes: 0.037659
-    id: ckf5on0fy2wnx0j239dzfm3wr
-    verified: false
-    hashtags: "#photography, #houstoninfluencer, #cute, #rgvlife"
+    hashtags: "#bodyequalityintravel, #plussize, #travelblogger, #plussizetravel"
   - username: "sinfullyrealvegasvegan"
     fullname: >-
       💚𝑳𝒂𝒔"𝑽𝒆𝒈𝒂𝒏"𝑳𝒊𝒇𝒆🌸𝔓𝔞𝔪𝔢𝔩𝔞 𝔐.
@@ -79,52 +79,52 @@ profiles:
     id: ck6uhff5o8syt0j71n6ozxt7n
     verified: false
     hashtags: "#veganshare, #veganfoodlovers, #lasvegasvegans, #plantbased"
-  - username: "swidrakco"
+  - username: "ericgetpaid"
     fullname: >-
-      Swidrak & Co. | David Swidrak
+      Eric Grzybowski
     bio: >-
-      • Adventurous Wedding Photographer • Husband | Father | Coffee Expert ☕️ • Based in Cleveland, OH | Available for Travel ——— Inquire Here👇🏻
+      I am an International Speaker, Trainer, and Top Earner. I will show you what true freedom looks like and teach you how to get it!
     location: "United States"
-    followers: 8461
-    engagement: 338
-    commentsToLikes: 0.045845
-    id: ck5zuowf52rt10i14dmph78qp
+    followers: 29375
+    engagement: 239
+    commentsToLikes: 0.051027
+    id: ck6u69qn4ec030j71i7g0hge8
     verified: false
-    hashtags: "#wanderingweddings, #clevelandweddinggowns, #junebugweddings, #justsaidyes"
-  - username: "annjelife"
+    hashtags: "#dreamlife, #love, #takeoffandparty, #travel"
+  - username: "juanitoviajero"
     fullname: >-
-      Annjela
+      JuanitoViajero
     bio: >-
-      Call me Annj 💚 Cosplay | Fashion | Travel 📍Las Vegas, NV 📨 business@eminencemanagement.co ⬇️PO Box + Social Medias
+      Renuncie a mi trabajo👔para luchar x mis sueños 👥Expediciones Grupales con proposito 🇮🇸🇬🇷🇹🇷🇹🇭🇻🇳🇧🇴 ➡️@juanitoxpeditions 📖Libro De Gerente a Mochilero👇
     location: "United States"
-    followers: 75081
-    engagement: 486
-    commentsToLikes: 0.018997
-    id: ck6u2uqb0u1120j711fjhr3jy
+    followers: 237288
+    engagement: 152
+    commentsToLikes: 0.015872
+    id: ck0vyc81m39fo0i19rid2e59l
     verified: false
-    hashtags: "#california, #cali, #asian, #blondegirl"
-  - username: "hfergie11"
+    hashtags: "#boliviatravel, #bolivia, #viajerofrecuente, #usa"
+  - username: "vegasenvy"
     fullname: >-
-      Haley Ferguson
+      Las Vegas
     bio: >-
-      Lifestyle | Fitness | Travel 📍Las Vegas 🎙 Twinning At Life Podcast Host ✉️: Biz.thefergietwins@gmail.com New Podcast Twinning At Life ↓
+      Best of Las Vegas! Vegas Event Coverage! Highlight your #lasvegasevents Tag us @vegasenvy! DM for partnerships!
     location: "United States"
-    followers: 379294
-    engagement: 127
-    commentsToLikes: 0.022314
-    id: ck0w1ya3jlqbz0i19c7vi1wff
-    verified: true
-    hashtags: "#impressmanicure, #impresspedicure, #revolvexme, #ootd"
-  - username: "menace"
+    followers: 51986
+    engagement: 311
+    commentsToLikes: 0.012463
+    id: ck5qb0nc7j8ao0i11sovshyln
+    verified: false
+    hashtags: "#lasvegaslife, #vegasbaby, #vegasenvy, #lasvegasnevada"
+  - username: "lasvegas"
     fullname: >-
-      MENACE
+      Las Vegas
     bio: >-
-      @TheWoodyShow Mornings on @ALT987FM #LosAngeles + 30 more cities ❤️ #Frenchies #Travel #Food #LasVegas ⤵️ sub to our podcast & mine @whatsnewpod 🔊📻
+      Showcasing the views and to-dos of Las Vegas Tag #VEGASNOW to be featured!
     location: "United States"
-    followers: 58428
-    engagement: 488
-    commentsToLikes: 0.027050
-    id: ck0vxtx7e0pu90i19bk0p5w35
-    verified: true
-    hashtags: "#soulfood, #weouthere, #food, #fastfood"
+    followers: 72380
+    engagement: 578
+    commentsToLikes: 0.019870
+    id: ck0ttcc1723pg0i19mypjd48u
+    verified: false
+    hashtags: "#vegas, #travel, #vegasnow, #lasvegas"
 ---

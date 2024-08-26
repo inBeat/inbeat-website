@@ -1,24 +1,24 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Dallas In 2023
+title: Top 10 Rappers Instagram Influencers In Dallas In 2024
 description: >-
-  Find top rappers Instagram influencers in Dallas in 2023. Most popular hashtags: #explore #rapper #dallas #explorepage.
+  Find top rappers Instagram influencers in Dallas in 2024. Most popular hashtags: #explore #dallas #rapper #explorepage.
 platform: Instagram
-hits: 25
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 25 Instagram influencers like this in Dallas, United States for you to connect with.
+hits: 29
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 29 Instagram influencers like this in Dallas, United States for you to work with.
 profiles:
-  - username: "charleebravo_"
+  - username: "ahaygan"
     fullname: >-
-      “Plan in the Making” Out Now!
+      A Haygan ☥♎
     bio: >-
-      🇺🇸 Behavior out now! 📀ℙ𝕣𝕠𝕕 𝕓𝕪 @chrisreese_ffa 🎤𝕀𝕟𝕕𝕖𝕡𝕖𝕟𝕕𝕖𝕟𝕥 𝔸𝕣𝕥𝕚𝕤𝕥 ➡️𝕄𝕒𝕟𝕒𝕘𝕖𝕞𝕖𝕟𝕥 @thefgcgroup 📧𝔹𝕠𝕠𝕜𝕚𝕟𝕘: 𝕔𝕝𝕖𝕣𝕧𝕚𝕝𝕝𝕖𝕝𝕥𝕕@𝕘𝕞𝕒𝕚𝕝.𝕔𝕠𝕞/𝕔𝕙𝕒𝕣𝕝𝕖𝕖𝕓𝕓𝕠𝕠𝕜𝕚𝕟𝕘@𝕘𝕞𝕒𝕚𝕝.𝕔𝕠𝕞
+      Bookings/Features Contact ahaygan@gmail.com 👻 SC: ahaygan #Next2Me Ft. @robingpoetry On All Platforms 🔽🔽🔽
     location: "United States"
-    followers: 20462
-    engagement: 669
-    commentsToLikes: 0.071944
-    id: ck5ckwu9axrrm0i11sf976loe
+    followers: 14783
+    engagement: 125
+    commentsToLikes: 0.117829
+    id: ck5qbpiz1mr9i0i11pbjcg0jl
     verified: false
-    hashtags: "#viral, #rapmusic, #newmusic, #music"
+    hashtags: "#drakebell, #drakelyrics, #vybes, #countrymusicforever"
   - username: "mack_a_fool"
     fullname: >-
       Mack
@@ -67,6 +67,18 @@ profiles:
     id: ck9hb2vggf5s60j78ilzhht8a
     verified: false
     hashtags: "#charlidamelioedit, #tiktokdance, #charlidameliofan, #charlidamelioedits"
+  - username: "abfromtx"
+    fullname: >-
+      Adrion Butler
+    bio: >-
+      Christian Rapper @seaqmanagement Graphic Designer Sneakerhead Brand Owner @ongoduniversity Godmade Muzic
+    location: "United States"
+    followers: 15711
+    engagement: 185
+    commentsToLikes: 0.148174
+    id: ckmw1fo0z7gc00j23hd1d3y0b
+    verified: false
+    hashtags: "#dallasdance, #newmusic, #freestyle, #dallas"
   - username: "aimpointphoto"
     fullname: >-
       Atlanta Photographer
@@ -91,18 +103,6 @@ profiles:
     id: ck8wdbu2bdm0d0j78nc2caqk4
     verified: true
     hashtags: "#musiclovers, #candyshop, #c300, #christmasconcert"
-  - username: "thebossmannmagazine"
-    fullname: >-
-      The Boss Mann Magazine
-    bio: >-
-      Award-winning publication. Stories that change lives!. Main page Download our App today!! iTunes | Google Play Store Los Angeles, CA
-    location: "United States"
-    followers: 11365
-    engagement: 520
-    commentsToLikes: 0.029661
-    id: ck15u9vk1m4wn0i19isio8z2s
-    verified: false
-    hashtags: "#bosslady, #love, #explorepage, #hollywood"
   - username: "breeebomb"
     fullname: >-
       BreeeBand$
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.056804
     id: ckap1efy7u8q10i78p10cs349
     verified: false
-    hashtags: "#miamihairstylist, #pvgrad, #tiktok, #dallas"
+    hashtags: "#views, #atlantahair, #southbeach, #houstonhair"
   - username: "cassimonae"
     fullname: >-
       𝓒𝓪𝓼𝓼𝓲 𝓜𝓸𝓷𝓪𝓮
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.039780
     id: ck5hocasspbc40i115patezsl
     verified: false
-    hashtags: "#explorepage, #likesforlike, #model, #fashionnovababe"
+    hashtags: "#selfie, #likesforlike, #latinas, #explorepage"
 ---

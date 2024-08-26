@@ -1,24 +1,12 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Boston In 2023
+title: Top 10 Photographers TikTok Influencers In Boston In 2024
 description: >-
-  Find top photographers TikTok influencers in Boston in 2023. Most popular hashtags: #fyp #photographer #photography #viral.
+  Find top photographers TikTok influencers in Boston in 2024. Most popular hashtags: #fyp #photographer #photography #viral.
 platform: TikTok
 hits: 8
-text_top: Discover the top-rated TikTok influencers on inBeat.
+text_top: Analyze the most popular TikTok accounts on inBeat.
 text_bottom: Our platform holds 8 TikTok influencers like this in Boston, United States for you to collaborate.
 profiles:
-  - username: "benskaar"
-    fullname: >-
-      Ben Skaar
-    bio: >-
-      My Instagram is better 17 | Boston
-    location: "United States"
-    followers: 51200
-    engagement: 1910
-    commentsToLikes: 0.052223
-    id: ckbez3tpmk37q0j23nc2unbqj
-    verified: false
-    hashtags: "#massachusetts, #fyp, #photographer, #boston"
   - username: "eric.snyder"
     fullname: >-
       Eric Snyder
@@ -43,6 +31,18 @@ profiles:
     id: cka7ny2q3z9c80i78y37soofw
     verified: false
     hashtags: "#mifamilia, #roadto70k, #snowstorm, #snowday"
+  - username: "benskaar"
+    fullname: >-
+      Ben Skaar
+    bio: >-
+      My Instagram is better 17 | Boston
+    location: "United States"
+    followers: 51200
+    engagement: 1910
+    commentsToLikes: 0.052223
+    id: ckbez3tpmk37q0j23nc2unbqj
+    verified: false
+    hashtags: "#fyp, #massachusetts, #viral, #cinematic"
   - username: "thatkidrbm"
     fullname: >-
       Rudimir Martinez
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.096774
     id: ck8nbv6z0br1p0j78y854ke9r
     verified: false
-    hashtags: "#travel, #florida, #wee, #aesthetic"
+    hashtags: "#photography, #fyp, #projector, #challenge"
   - username: "taylormarieland"
     fullname: >-
       Tay
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.051004
     id: ck8nf5lmgqe8b0j78mk6exy1b
     verified: true
-    hashtags: "#patd, #photo, #photography, #fyp"
+    hashtags: "#photo, #photography, #patd, #fyp"
   - username: "chelseyrayphoto"
     fullname: >-
       chelseyrayphoto

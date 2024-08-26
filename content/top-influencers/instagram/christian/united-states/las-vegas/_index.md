@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian Instagram Influencers In Las Vegas In 2023
+title: Top 10 Christian Instagram Influencers In Las Vegas In 2024
 description: >-
-  Find top christian Instagram influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #love #photography #happybirthday.
+  Find top christian Instagram influencers in Las Vegas in 2024. Most popular hashtags: #lasvegas #love #photography #vegas.
 platform: Instagram
-hits: 10
+hits: 15
 text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 10 Instagram influencers like this in Las Vegas, United States for you to work with.
+text_bottom: inBeat holds 15 Instagram influencers like this in Las Vegas, United States for you to collaborate.
 profiles:
   - username: "_carlotah"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.011750
     id: ckaosxfqxtgfg0i78mv5aisdy
     verified: false
-    hashtags: "#realism, #tattoo, #intenzeink, #sacredgeometry"
+    hashtags: "#tattoo, #hillcrestsandiego, #sacredgeometry, #intenzeink"
   - username: "cocojenkinsbass"
     fullname: >-
       *CoCojenkins
@@ -31,30 +31,18 @@ profiles:
     id: ckaorv3ldovq70i78xyth6d2n
     verified: false
     hashtags: "#grateful, #coronacation, #femalemusician, #lace"
-  - username: "monaxris"
-    fullname: >-
-      Christian Trevino
-    bio: >-
-      🇲🇽 𝓫𝓮𝓪𝓾𝓽𝓲𝓯𝔂𝓲𝓷𝓰 𝓱𝓾𝓶𝓪𝓷𝓼 𝓲𝓷 @remakebeautystudio @makatiskincare RN|Esthetician 📍Texas For appointments ‭1 (877) 554-8244‬
-    location: "United States"
-    followers: 33863
-    engagement: 474
-    commentsToLikes: 0.037659
-    id: ckf5on0fy2wnx0j239dzfm3wr
-    verified: false
-    hashtags: "#photography, #houstoninfluencer, #cute, #rgvlife"
   - username: "jizzymack"
     fullname: >-
       Ray  Sadeghi
     bio: >-
-      Bodyguard for @floydmayweather All I need is you, Lord JESUS, and your word so I may live truly. CEO @smp.ink DM or Email for any business inquiries.
+      Bodyguard for @floydmayweather All I need is you, Lord JESUS CEO @smp.ink @mayweatherfithollywood DM or Email for business inquiries.
     location: "United States"
-    followers: 300164
-    engagement: 106
-    commentsToLikes: 0.035454
+    followers: 431299
+    engagement: 74
+    commentsToLikes: 0.006410
     id: ck0vx1u47wpyl0i19oypik8rj
     verified: false
-    hashtags: "#newyork, #tmt, #ufc, #beauty"
+    hashtags: "#workout, #muscle, #dubai, #paris"
   - username: "christiandelpech_official"
     fullname: >-
       Christian Delpech
@@ -66,7 +54,31 @@ profiles:
     commentsToLikes: 0.028252
     id: ckap4ebdl6zd10i78gzab1hel
     verified: false
-    hashtags: "#flair, #cooltricks, #bartending, #thisisflair"
+    hashtags: "#lifestyle, #flairbartending, #miami, #fun"
+  - username: "devincordle"
+    fullname: >-
+      D E V I N  C O R D L E
+    bio: >-
+      All glory to God 🙌🏼 T1 Diabetic 🫶🏼 thecordlefamily@currentsmgmt.com TikTok: thecordlefamily (4M+) NEW YouTube Video, links, + more 👇🏼
+    location: "United States"
+    followers: 636452
+    engagement: 545
+    commentsToLikes: 0.003988
+    id: cl3uqnok1b0hn0i23uuf0kqsu
+    verified: false
+    hashtags: "#hunteranddevin, #couple, #grwm, #sweet"
+  - username: "monaxris"
+    fullname: >-
+      Christian Trevino
+    bio: >-
+      Helping women look and feel their best @remakebeautystudio RN|injector Educator @blubeautyinstitute Host @sisvoice.podcast Let’s work together 👇🏻
+    location: "United States"
+    followers: 50085
+    engagement: 153
+    commentsToLikes: 0.060028
+    id: ckf5on0fy2wnx0j239dzfm3wr
+    verified: false
+    hashtags: "#womanstyle, #ootdfashion, #rgvblogger, #ootdinspiration"
   - username: "_paullyg"
     fullname: >-
       ᴘᴀᴜʟ ɢᴀʀᴢᴀ ⚡️
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.140084
     id: ck14htvt5c44b0i19yrvk07oa
     verified: false
-    hashtags: "#guitarist, #spanish, #unsignedartist, #jam"
+    hashtags: "#discover, #guitarist, #texas, #artist"
   - username: "christiancarnation"
     fullname: >-
       Christian
@@ -102,29 +114,17 @@ profiles:
     commentsToLikes: 0.044938
     id: ck8wfa8jwfekk0j78iiutog2j
     verified: false
-    hashtags: "#rogaine, #slurpeespacedelivery, #ad, #onlyat7eleven"
-  - username: "thextourlive"
+    hashtags: "#nutrilitepartner, #morenmoreu, #cloudybaymoments, #sundayscariespartner"
+  - username: "christina_lionscat"
     fullname: >-
-      Christina Aguilera 🖤🤍
+      Christina LionsCat 🐱
     bio: >-
-      🙅🏼 ❌6 Grammy Awards ❌5 #1 Billboard Hot 100 ❌6 Album Released Official ❌Over 140 Million Records Sold ❌Pop/Jaz/Electro/R&B/Rock/Soul
+      👩🏼‍🎓 Bachelor of Arts 📚 🇦🇹 Austria 👸🏼 Reel & Style Account: @christina_lions_cat 💕 ❤️‍🔥Content & DMs⬇️
     location: "United States"
-    followers: 7010
-    engagement: 1114
-    commentsToLikes: 0.017384
-    id: ckaor1yhbldld0i78adcf9wyw
+    followers: 944204
+    engagement: 367
+    commentsToLikes: 0.018207
+    id: ckzpxxcahkqrq0j233n4e56f0
     verified: false
-    hashtags: "#tbt, #love, #xtina, #reel"
-  - username: "cerinavincent"
-    fullname: >-
-      Cerina Vincent
-    bio: >-
-      ✨MAMMA✨ACTRESS✨WRITER ✨ 24 hour Valentine’s Day delivery on @cameo if any of you want to a little Vday love... 💕❤️💕❤️
-    location: "United States"
-    followers: 218675
-    engagement: 160
-    commentsToLikes: 0.015270
-    id: ck1389mmbf6720i19cvhp1qs3
-    verified: true
-    hashtags: "#birthday, #happybirthday, #semprefamiglia, #fbf"
+    hashtags: "#la, #gymlife, #recap, #gymgirl"
 ---

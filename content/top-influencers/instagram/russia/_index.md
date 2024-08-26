@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Russia In 2023
+title: Top 10 Instagram Influencers In Russia In 2024
 description: >-
-  Find top Instagram influencers in Russia in 2023. Most popular hashtags: #generativedesign #new #vj.
+  Find top Instagram influencers in Russia in 2024. Most popular hashtags: #reels #redhead #summer.
 platform: Instagram
-hits: 32664
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat has 32664 Instagram influencers like this in Russia for you to collaborate.
+hits: 23997
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat has 23997 Instagram influencers like this in Russia for you to collaborate.
 profiles:
-  - username: "anna__shcherbakova_"
+  - username: "fidhami"
     fullname: >-
-      Анна Щербакова
+      Fida fathima
     bio: >-
-      🔹𝐎𝐥𝐲𝐦𝐩𝐢𝐜 𝐂𝐡𝐚𝐦𝐩𝐢𝐨𝐧🥇 🔹𝐖𝐨𝐫𝐥𝐝 𝐂𝐡𝐚𝐦𝐩𝐢𝐨𝐧🥇 🔹𝐄𝐮𝐫𝐨𝐩𝐞🥈🥈 🇷🇺𝐑𝐮𝐬𝐬𝐢𝐚𝐧 𝐂𝐡𝐚𝐦𝐩𝐢𝐨𝐧🥇🥇🥇 @nike @sberbank @omoda.russia 𝐚𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 📩AS@LMMedia.ru 📞+79299830252 Levan Matua
+      Be better ✨ Medical student 🩺 📍Moscow 🇷🇺 Dm/email for collab/PR 🫰🏻 YouTube 👇
     location: "Russia"
-    followers: 811148
-    engagement: 821
-    commentsToLikes: 0.007448
-    id: ck6twzb4uuyi30j7184thafpy
+    followers: 51932
+    engagement: 3186
+    commentsToLikes: 0.032632
+    id: ck15qkvnq3cja0i19e9ulw8xg
+    verified: false
+    hashtags: "#selflove, #green, #hijab, #instalove"
+  - username: "erika_postnikova"
+    fullname: >-
+      Erika Postnikova
+    bio: >-
+      📍 London ✨Mother to a little prince 🧡Making the world ginger-friendly
+    location: "Russia"
+    followers: 60154
+    engagement: 573
+    commentsToLikes: 0.026103
+    id: ck6u5sc13bfyl0j71hdq1ylie
+    verified: false
+    hashtags: "#reels, #pregnancy, #redheadmodel, #finallylegal"
+  - username: "notcatart"
+    fullname: >-
+      Серега Любимов 👅
+    bio: >-
+      СЧАСТЛИВЫЙ ПАПОЧКА ДВУХ ПАЛЕТОК 💅🏼🩷 По вопросам сотрудничества/рекламы: @yescatart 🎀 👇🏻КУПИТЬ МОЖНО НА САЙТЕ ПО ССЫЛКЕ 💕
+    location: "Russia"
+    followers: 285205
+    engagement: 825
+    commentsToLikes: 0.024478
+    id: ck0vwgi0gtlib0i194osanwpl
+    verified: false
+    hashtags: "#jeffreestar, #notcatart, #jeffreestarcosmetics, #benefitcosmetics"
+  - username: "irine_meier"
+    fullname: >-
+      Irina Meier
+    bio: >-
+      Gamer, costume creator 🎮🎭📸 I 🧡 traveling, TTRPG, and board games 📧Business: irina@mediaw.net SOMETHING SPECIAL 😜⬇️
+    location: "Russia"
+    followers: 1213618
+    engagement: 574
+    commentsToLikes: 0.011588
+    id: ck0vvyx2jre2b0i19qk88o4fq
     verified: true
-    hashtags: "#oart, #otech, #nike, #ancientchinesemyths"
-  - username: "avtrusova"
+    hashtags: "#usa, #baldursgate, #thewitcher, #cosplay"
+  - username: "thatgirlsophy"
     fullname: >-
-      Sasha Trusova
+      Sophie Pavlovska
     bio: >-
-      🇷🇺⛸ Olympics🥈World🥉European🥉🥉Junior World🥇🥇 Невозможное возможно. #ImpossibleIsNothing @adidas 📧secsec7591@gmail.com
+      — nyc girlie 🍨 soft life, cozy vibes and colorful outfits 💌 thatgirlsophy@gmail.com
     location: "Russia"
-    followers: 1074224
-    engagement: 1063
-    commentsToLikes: 0.005417
-    id: ck5q5q05yu0xe0i119bpeooqh
+    followers: 209629
+    engagement: 1609
+    commentsToLikes: 0.005221
+    id: ck9hc32utjjcz0j78gk5ys99s
+    verified: false
+    hashtags: "#ad, #lovekm, #kevinmurphypartner, #kmgift"
+  - username: "kulepetova.me"
+    fullname: >-
+      Ксюша Кулепётова
+    bio: >-
+      макияж и мир моими глазами kulepetovaks@gmail.com для предложений ⠀ канал:
+    location: "Russia"
+    followers: 137533
+    engagement: 446
+    commentsToLikes: 0.010019
+    id: ck0tu3h6i5gqm0i199gko5g1p
+    verified: false
+    hashtags: "#shik, #clarinsrussia, #catrice, #oriflame"
+  - username: "palad1n"
+    fullname: >-
+      Andrey palad1n
+    bio: >-
+      👨🏻‍💻PC Engineer and blogger 🕹My Setup and me #PALAD1N 🛠PC Build Advice and collaboration! 📩Сотрудничество по бартеру и PC консультации в Direct!
+    location: "Russia"
+    followers: 49094
+    engagement: 826
+    commentsToLikes: 0.102221
+    id: ck13bmzxgw7ks0i19s1hkqlfe
+    verified: false
+    hashtags: "#hototools, #hotohack, #hotolife, #pcbuilds"
+  - username: "elizabethvasilenko"
+    fullname: >-
+      ᴇʟɪ ᴠᴀsɪʟᴇɴᴋᴏ 🐐
+    bio: >-
+      TikTok: elizabethvasilenko 🦋 vasilenkopromo@gmail.com
+    location: "Russia"
+    followers: 1729949
+    engagement: 947
+    commentsToLikes: 0.002985
+    id: ck8sxz6vmj6sr0j78qma8xgup
     verified: true
-    hashtags: "#avtrusova, #tru20va"
-  - username: "kamilavalieva26"
-    fullname: >-
-      Камила Валиева
-    bio: >-
-      ♦️European 2022🥇 ♦️Junior World 2020🥇 ♦️Russian 2022🥇 Сотрудничество: info@valievakamila.ru Амбассадор PUMA и @ozonru
-    location: "Russia"
-    followers: 1227458
-    engagement: 686
-    commentsToLikes: 0.007688
-    id: ck0vz6btt7iwi0i1991b26e2a
-    verified: false
-    hashtags: "#figureskating, #beauty, #kamilavalieva, #moon"
-  - username: "sasha_spelaya"
-    fullname: >-
-      ХОРОШИЙ НУТРИЦИОЛОГ | САША ХАЗИЕВА
-    bio: >-
-      ЕСЛИ -носишь XL,а хочешь M -качаешь пресс,а живот как шарик -вот бы выкинуть тональник -волос мало -сил нет всё решим👌 СО МНОЙ ХОРОШО >850 кейсов
-    location: "Russia"
-    followers: 9065
-    engagement: 927
-    commentsToLikes: 0.098301
-    id: ck6u7eqmrl2sx0j710kfy7n3o
-    verified: false
     hashtags: ""
-  - username: "dvabona"
+  - username: "crazy_dance_family"
     fullname: >-
-      2Bona
+      DMITRII & OLESYA | dance • travel • creation
     bio: >-
-      Artists @bontoni_ @kun808_ @gorillatvmk Booking : 070340499 - Darko Booking Europe: +41 76 347 29 10 Официјален Инстаграм на 2Bona ⬇️ ZEUS ⬇️
+      Хочешь жить как мы, просто начни танцевать. 📨 PR @crazy_dance_family.pr НАШИ ТАНЦЕВАЛЬНЫЕ ОНЛАЙН-КУРСЫ ⤵️
     location: "Russia"
-    followers: 50005
-    engagement: 908
-    commentsToLikes: 0.071712
-    id: ck5hfqh1qystw0i11m6c7du14
+    followers: 2312196
+    engagement: 466
+    commentsToLikes: 0.009640
+    id: ck6udxgo8nobw0j71b8qkndmg
     verified: false
-    hashtags: "#refreshreplay, #vapeinstagram, #party, #fresh"
-  - username: "unishkov"
+    hashtags: "#travellifestyle, #couplegoals, #loveisloveislove, #becauseofyou"
+  - username: "shevgi"
     fullname: >-
-      Denis Unishkov
+      Шевги Ахадов
     bio: >-
-      3D Motion Artist
+      🎥АКТЁР вырезанных сцен 🔥Шоу «ЖАРИЩЕ» 🌸Co-founder @bouquetandcomoscow 👑Креативный рекламщик 📝Сценарист 📩 p.ploskov@gmail.com ☎️+7(495)6423022 Telegram
     location: "Russia"
-    followers: 11999
-    engagement: 706
-    commentsToLikes: 0.030536
-    id: ck5c185r1umv90i11gfo294ri
-    verified: false
-    hashtags: "#sidefx, #houdinifx, #vj, #vjing"
-  - username: "aminaxo26"
-    fullname: >-
-      Амина Нуртаза
-    bio: >-
-      💄 𝐌𝐚𝐤𝐞-𝐮𝐩 𝐚𝐫𝐭𝐢𝐬𝐭|𝐅𝐨𝐨𝐝 𝐛𝐥𝐨𝐠𝐠𝐞𝐫 👩🏻‍🍳 ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ❤️ @justking31 👼🏻 @maliqueen_life ⠀⠀⠀⠀⠀⠀⠀⠀⠀ Сотрудничество: +𝟕 𝟕𝟎𝟕 𝟗𝟎𝟒 𝟓𝟕𝟕𝟔 Яна
-    location: "Russia"
-    followers: 4512923
-    engagement: 460
-    commentsToLikes: 0.017012
-    id: ck5qe8ts3z9hk0i11r21do3z6
-    verified: false
-    hashtags: ""
-  - username: "orkhanaslanov"
-    fullname: >-
-      ORKHAN ASLANOV
-    bio: >-
-      PHOTOGRAPHER & TRAVELER . INFLUENCER . Phone & whatsapp +994 502422242 Email: aslanovstudio@gmail.com
-    location: "Russia"
-    followers: 69535
-    engagement: 378
-    commentsToLikes: 0.029766
-    id: ck55n9dzy5qiu0i116c12jfsv
-    verified: false
-    hashtags: "#icelandwithjohnnie, #nomakeup, #noretouch, #samsung"
-  - username: "leyluwa"
-    fullname: >-
-      Лейла 🌸 Исмаилзаде
-    bio: >-
-      🍃Открыла эко-магазин @baby.qarishqa 🏡Сделаю тебе ремонт @nil.archistudio 👨‍👩‍👧Прививаю семейные ценности 📩ссылка для предзаписи на тг канал тут👇🏻
-    location: "Russia"
-    followers: 15963
-    engagement: 338
-    commentsToLikes: 0.036586
-    id: ckaorx1flp5660i78gwfku7e6
-    verified: false
-    hashtags: ""
-  - username: "juraj_sebalj"
-    fullname: >-
-      Juraj Šebalj
-    bio: >-
-      Race driver, TV host, Fake exhaust hater @inahrvatska @toyota_hr @continental_tire @huaweimobilehrv @ferratumbank_hr @best_drive_bih @autohrvatska.hr
-    location: "Russia"
-    followers: 188283
-    engagement: 294
-    commentsToLikes: 0.027612
-    id: ck5q6gxlxxcpv0i11x7mssww6
+    followers: 966363
+    engagement: 597
+    commentsToLikes: 0.015117
+    id: ck0u6z9lk3e4e0i196n3maopl
     verified: true
-    hashtags: "#huaweimate50pro, #madeonmate, #jurasefura, #gryaris"
+    hashtags: "#netflixturkiye, #lamborghini, #shevgicars, #svjroadster"
 ---

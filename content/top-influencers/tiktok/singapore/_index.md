@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Singapore In 2023
+title: Top 10 TikTok Influencers In Singapore In 2024
 description: >-
-  Find top TikTok influencers in Singapore in 2023. Most popular hashtags: #duet #foryoupage #fyp.
+  Find top TikTok influencers in Singapore in 2024. Most popular hashtags: #duet #fyp #foryoupage.
 platform: TikTok
 hits: 199
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database holds 199 TikTok influencers like this in Singapore for you to work with.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 199 TikTok influencers like this in Singapore for you to collaborate.
 profiles:
   - username: "eti677"
     fullname: >-

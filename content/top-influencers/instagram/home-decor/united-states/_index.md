@@ -1,24 +1,120 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In United States In 2023
+title: Top 10 Home Decor Instagram Influencers In United States In 2024
 description: >-
-  Find top home decor Instagram influencers in United States in 2023. Most popular hashtags: #diy #homedecor #handmade.
+  Find top home decor Instagram influencers in United States in 2024. Most popular hashtags: #homedecor #neutraldecor #livingroomdecor #ad.
 platform: Instagram
-hits: 3518
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our database holds 3518 Instagram influencers like this in United States for you to pitch.
+hits: 4338
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 4338 Instagram influencers like this in United States for you to collaborate.
 profiles:
-  - username: "paopati"
+  - username: "everyday_home"
     fullname: >-
-      paopati🧿 | Content Creator
+      Lidia Salazar
     bio: >-
-      💎 beauty • lifestyle • fashion • homedecor 🌴 beach lover 🎨 @paopatimakeup 🏰 orlando fl. special needs mom 🤍 @babynoahatencio
+      Everyday Home Decor Latina 🇲🇽🇵🇷 📍Phoenix, AZ 340k on TikTok: everyday_homedecor Hello@everydayhd.com
     location: "United States"
-    followers: 43516
-    engagement: 323
-    commentsToLikes: 0.026788
-    id: ck5q7n2hy2b6n0i11uxtiyf14
+    followers: 131846
+    engagement: 487
+    commentsToLikes: 0.063485
+    id: ckooq95bcpbza0j23w36py3np
     verified: false
-    hashtags: "#discoverycove, #orlandofl, #ootdpaopati, #fashionblogger"
+    hashtags: "#mybohostyle, #peepmypad, #californiacasual, #modernbohemian"
+  - username: "michandmila"
+    fullname: >-
+      Mich 👩🏻‍💼 + Mila 🐶
+    bio: >-
+      mich: lawyer lady mila: emotional support doodle 💌 collabs: michandmila@gmail.com dog-friendly #lifestyle #travel and #homedecor
+    location: "United States"
+    followers: 15796
+    engagement: 407
+    commentsToLikes: 0.140812
+    id: cl8g9aopv4np50i23d9nqnm14
+    verified: false
+    hashtags: "#antihero, #ad, #hillspartner, #downwarddog"
+  - username: "dennisse_homedecor"
+    fullname: >-
+      Dennisse Fernandez
+    bio: >-
+      God Above All 🙏🏼 Wife 💍 Mom of 7 ♥️ Lifeonstories 📸 HomeDecor| Cleaning| DIY's| Coffee lover ☕️ DM for collaborations 💌
+    location: "United States"
+    followers: 157614
+    engagement: 484
+    commentsToLikes: 0.209946
+    id: cktf3mtho974z0j23gasrs8g6
+    verified: false
+    hashtags: "#decorideas, #fypage, #livingroomideas, #followformorevideos"
+  - username: "we_dabble"
+    fullname: >-
+      VALERIE + MARIO Home Decor/DIY
+    bio: >-
+      Wife+Hubby Duo! 💚Loving what we do + Sharing it with all of you! 💚 HomeDecor/DIY 💚 Thrifting+VintageFinds • Featured @americanfarmhousestyle + more
+    location: "United States"
+    followers: 27206
+    engagement: 315
+    commentsToLikes: 0.172010
+    id: cknodnb202mow0j23ijzyiwm6
+    verified: false
+    hashtags: "#livingspaces, #dutchdoor, #plantsmakemehappy, #countrysamplerfarmhousestyle"
+  - username: "travelloop_swati"
+    fullname: >-
+      Swati Sachdeva 🧿
+    bio: >-
+      👩‍💻Senior Software Engineer ✈️ Exploring the world in style #fashion #travel #lifestyle #homedecor 💌 Collab: swatisachdeva97@gmail.com 📍Bay Area, USA
+    location: "United States"
+    followers: 38234
+    engagement: 245
+    commentsToLikes: 0.032060
+    id: cl85t9olk1rkh0i23crq5oxjw
+    verified: false
+    hashtags: "#distacartfashion, #streetstyle, #yellow, #affordablefashion"
+  - username: "sweetlittlesmithfarm"
+    fullname: >-
+      MIRANDA-CottageBohoFarmhouse
+    bio: >-
+      Faith | HomeDécor | Recipes FarmLife | DIY | FashionInspo BoyMom | PastorsWife #sweetlittlesmithfarm •DM to Collab• facebook.com/sweetlittlesmithfarm
+    location: "United States"
+    followers: 13064
+    engagement: 234
+    commentsToLikes: 0.106818
+    id: ck0w2vxasqfgl0i1900tz2wl5
+    verified: false
+    hashtags: "#modestswimwear, #apostolicfashion, #summerfashion, #farmhousekitchen"
+  - username: "anjagorjup"
+    fullname: >-
+      Anja Gorjup 🤍
+    bio: >-
+      ➳ lifestyle, homedecor, DIYs & outfits ➳ cofounder: @noatimeless ➳ shop my closet @anjagcloset ➳ collabs: anja.gorjup@gmail.com
+    location: "United States"
+    followers: 13652
+    engagement: 223
+    commentsToLikes: 0.125056
+    id: ck5cdzti9k2qw0i11ofl9c1mp
+    verified: false
+    hashtags: "#diyeaster, #outfitinspo, #easter, #easterdecor"
+  - username: "cosyquirk"
+    fullname: >-
+      CosyQuirk - Mohicka Gupta Bose
+    bio: >-
+      HomeDecor •SlowLiving Redesigning our old apartment into a Cosy nest with a twist of Quirk! Ex Country Head ⏩ Strategy&Brand Consultant @burgerama.in
+    location: "United States"
+    followers: 54056
+    engagement: 47
+    commentsToLikes: 0.006157
+    id: ck5qbixjflu540i11qd713q41
+    verified: false
+    hashtags: "#collaboration, #apartmenttherapy, #cosyquirk, #shelfie"
+  - username: "shaymone"
+    fullname: >-
+      Shay Sweeney
+    bio: >-
+      lifestyle fam travel home blogger |🤎Christ Owner: #content #homedecor studio @sweenshotsstudios Renovating 70s Colonial 1/4 of @influencingincolor
+    location: "United States"
+    followers: 48447
+    engagement: 30
+    commentsToLikes: 0.084288
+    id: ck135910b0aya0i19a3qva7c9
+    verified: false
+    hashtags: "#ltkstyletip, #liketkit, #dearahmad, #abercrombiestyle"
   - username: "letiespadas"
     fullname: >-
       𝐋𝐞𝐭𝐲 𝐄𝐬𝐩𝐚𝐝𝐚𝐬
@@ -31,100 +127,4 @@ profiles:
     id: ck0vzx5csbbkn0i19smj5hx8k
     verified: false
     hashtags: ""
-  - username: "mygorgeousmessylife"
-    fullname: >-
-      ♡𑁍 𝑨𝒍𝒚𝒔𝒔𝒂 𑁍♡
-    bio: >-
-      🌿#calitotexas 💗𝓦𝓲𝓯𝓮🍷𝓜𝓪𝓶𝓪 ☕️ 🌿#jesus #worship 🙏🏻 💗#hallmark 𝐉𝐮𝐧𝐤𝐢𝐞💕 🌿#homedecor ish 💗 Coffee & Target 🎯 🌿𝕃𝕚𝕧𝕚𝕟𝕘 𝕎𝕖𝕝𝕝🙌🏻 💗 Straight Shooter
-    location: "United States"
-    followers: 17818
-    engagement: 124
-    commentsToLikes: 0.633237
-    id: ck15s0swdanyh0i19dikuvot1
-    verified: false
-    hashtags: "#blessedandgrateful, #joyfulmamas, #christianmom, #healthandhappiness"
-  - username: "coffeycustombuilds"
-    fullname: >-
-      Mike Coffey
-    bio: >-
-      // 🔨Woodworker🔨//\\📸 Content Creator📸 \\ #woodworking #furniture #homedecor Co-Host of: @anotherwoodshoppodcast Partnered with: @macbeathhardwood
-    location: "United States"
-    followers: 43219
-    engagement: 218
-    commentsToLikes: 0.100841
-    id: ck6u5aznb8kz40j71lfwomofs
-    verified: false
-    hashtags: "#california, #bandsaw, #garageshop, #handmade"
-  - username: "cikitacikii"
-    fullname: >-
-      Cikita
-    bio: >-
-      Handmade Paper, Fine Stationery & Homedecor Enthusiast ☾ Worldwide Shipping #iuiguys
-    location: "United States"
-    followers: 17283
-    engagement: 420
-    commentsToLikes: 0.045792
-    id: ck5pvriuvjamk0i11wkv8sux6
-    verified: false
-    hashtags: "#diy, #midoritravelersnotebook, #flatlay, #scrapbook"
-  - username: "ello_betty"
-    fullname: >-
-      Jaclyn Dryden
-    bio: >-
-      Loving life each day is my motto. I adore #tech #influencer #lifestyle #travel #homedecor email: hellobettycompany@gmail.com
-    location: "United States"
-    followers: 19346
-    engagement: 9
-    commentsToLikes: 0.131132
-    id: ck6ud0sbtigh20j71uw5mytgq
-    verified: false
-    hashtags: "#ad, #cricutcreated, #love, #dogsofinstagram"
-  - username: "sabrina_soto"
-    fullname: >-
-      Sabrina Soto
-    bio: >-
-      • Mama • HGTV Designer • Affordable Style • Cubana • Rug & Bedding Collections • Bargain Hunter • Clean Freak #interiordesigner #homedecor #mama
-    location: "United States"
-    followers: 77199
-    engagement: 143
-    commentsToLikes: 0.041345
-    id: ck5ccf506h8u00i119a5fiwhs
-    verified: true
-    hashtags: "#myelf, #myelfonashelf, #namaste, #missoliviagrey"
-  - username: "vintagewhisperer"
-    fullname: >-
-      Sandy-{vintage whisperer
-    bio: >-
-      Interior Designer~DIY~Creative Spirit. Vintage~Antique~ HomeDecor DM or email for collaborations
-    location: "United States"
-    followers: 12166
-    engagement: 449
-    commentsToLikes: 0.060454
-    id: ck9h9sog39t6q0j78ri6pnak5
-    verified: false
-    hashtags: "#cottagesandbungalows, #myvintagetouches, #homeforalltheseasons, #cozyvintagelife"
-  - username: "taniastolyarenko"
-    fullname: >-
-      Tania Stolyarenko
-    bio: >-
-      ✖️ Alles ist jetzt. // #aesthetic #minimalstyle #editorialfashion #fragrancelover #homedecoration #homedesign
-    location: "United States"
-    followers: 67015
-    engagement: 142
-    commentsToLikes: 0.091848
-    id: ck5q9umwcd2t30i11lxecuj0x
-    verified: false
-    hashtags: "#motherhoodthroughinstagram, #sainteworld, #babyboy, #apmmonaco"
-  - username: "the_aesthetic_side_of_homes"
-    fullname: >-
-      TAHERA | Decor, DIY & FAMILY
-    bio: >-
-      ✨Mom of 2 sharing Design, DIY, homedecor & motherhood in REEL & REAL life🇵🇰🇺🇸 📧The.aesthetic.side.of.homes@gmail.com ✨Real FUN in IG Stories ✨LINK
-    location: "United States"
-    followers: 267487
-    engagement: 167
-    commentsToLikes: 0.073235
-    id: ckf5u98qek1e10j23cxrcqmvq
-    verified: false
-    hashtags: "#toiletpaperchallenge, #letsgo, #houstoninteriordesign, #budgetdiy"
 ---

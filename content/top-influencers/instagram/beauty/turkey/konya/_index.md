@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Konya In 2023
+title: Top 10 Beauty Instagram Influencers In Konya In 2024
 description: >-
-  Find top beauty Instagram influencers in Konya in 2023. Most popular hashtags: #fashion #instalike #travel #beauty.
+  Find top beauty Instagram influencers in Konya in 2024. Most popular hashtags: #fashion #instagood #beauty #travel.
 platform: Instagram
-hits: 13
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our platform holds 13 Instagram influencers like this in Konya, Turkey for you to work with.
+hits: 15
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database has 15 Instagram influencers like this in Konya, Turkey for you to contact.
 profiles:
   - username: "mimarca_makyaj"
     fullname: >-
@@ -79,6 +79,18 @@ profiles:
     id: ckapb2imgybv80i789vnokj18
     verified: false
     hashtags: "#healthyfood, #vscocam, #foodporn, #fit"
+  - username: "esrinozguler"
+    fullname: >-
+      Esrin Özgüler
+    bio: >-
+      #Sunucu , #influencer ,tercümanlık&halkla ilş.yapan, #uluslararasıilişkiler mezunu🎓Hollanda doğumlu🇳🇱 Eskişehirli🇹🇷Kadıköy' de yaşayan bir martıyım..🕊
+    location: "Turkey"
+    followers: 76114
+    engagement: 78
+    commentsToLikes: 0.040079
+    id: ck0txxwuokxoa0i19p43ot7sd
+    verified: false
+    hashtags: "#mu, #dog, #moda, #ke"
   - username: "1uqba_"
     fullname: >-
       Bremen📍
@@ -115,16 +127,4 @@ profiles:
     id: ckaovdxx146q40i78j8ailxye
     verified: false
     hashtags: "#love, #instagram, #photo, #canon"
-  - username: "songulayhasan"
-    fullname: >-
-      🇸​🇴​🇳​🇬​🇺​̈🇱​🇦​🇾​🇭​🇦​🇸​🇦​🇳​
-    bio: >-
-      MARKA VE TANITIM İÇİN DM 💌 #urfa #viranşehir li #aşıret #kizi . . .link tıkla alış verişin tadini çıkarın👎
-    location: "Turkey"
-    followers: 221016
-    engagement: 109
-    commentsToLikes: 0.079962
-    id: ck8t8w9ccm2wg0j783b92exqt
-    verified: false
-    hashtags: "#tbt, #happy, #evlat, #anlaml"
 ---

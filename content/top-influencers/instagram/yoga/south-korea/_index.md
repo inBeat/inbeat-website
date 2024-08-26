@@ -1,12 +1,24 @@
 ---
-title: Top 10 Yoga Instagram Influencers In South Korea In 2023
+title: Top 10 Yoga Instagram Influencers In South Korea In 2024
 description: >-
-  Find top yoga Instagram influencers in South Korea in 2023. Most popular hashtags: #yoga #yogalife #yogapractice.
+  Find top yoga Instagram influencers in South Korea in 2024. Most popular hashtags: #yoga #korea #doggymom.
 platform: Instagram
-hits: 24
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our database has 24 Instagram influencers like this in South Korea for you to pitch.
+hits: 26
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 26 Instagram influencers like this in South Korea for you to contact.
 profiles:
+  - username: "foodieonfleek"
+    fullname: >-
+      Skyler Lee
+    bio: >-
+      ✨I’m here for food & good times 😌✨ 💜#BTSarmy 🧘🏻‍♀️I also teach yoga 🙏🏼 🎬 17 followers on TikTok🕺🏻 ✈️TRAVEL w/ me or let’s collab!👇🏼
+    location: "South Korea"
+    followers: 138611
+    engagement: 46
+    commentsToLikes: 0.013686
+    id: ck0w4lus5z7zk0i19j9l7wa4c
+    verified: false
+    hashtags: "#korea, #ad, #bt21, #omakasebygino"
   - username: "kathy0805"
     fullname: >-
       
@@ -19,18 +31,6 @@ profiles:
     id: ck134i171wiu70i195xjz63fw
     verified: false
     hashtags: "#tofu, #bohemianislandspring2020, #bohemianisland, #stayhome"
-  - username: "yogibeachhouse"
-    fullname: >-
-      Aelee Oh
-    bio: >-
-      アイリー| 오애리﻿ ❖ Yoga Teacher E-RYT500 ﻿ ❖ Korean🇰🇷 born and raised in Japan🇯🇵﻿ 📍Gold Coast ⇄ 東京 ⇄ 제주﻿ ▼オンラインヨガレッスンはこちらから▼
-    location: "South Korea"
-    followers: 26246
-    engagement: 1225
-    commentsToLikes: 0.041712
-    id: ck15rb25f71vp0i195sgp78rx
-    verified: false
-    hashtags: "#aloboutdetoxing, #yogaphotography, #yogini, #yogisofinstagram"
   - username: "2so_k"
     fullname: >-
       소리쌤ღ
@@ -115,16 +115,16 @@ profiles:
     id: ckapa66y7uvpp0i78vowvdfai
     verified: false
     hashtags: "#vinyasaflow, #urdhvadhanurasana, #vinyasayoga, #yoga"
-  - username: "the_naeunmirae"
+  - username: "im_doodlely"
     fullname: >-
-      
+      골든두들🐾Doodlely 두들리
     bio: >-
-      👗 @si.official_ _ ᴀᴍʙᴀssᴀᴅᴏʀ ⛰ @_kolonsport . 🎓ʏᴏɴsᴇɪ ᴜɴɪᴠ ᴍᴀsᴛᴇʀ's ᴅᴇɢʀᴇᴇ 🛩 ғᴏʀᴍᴇʀ ᴋᴏʀᴇᴀɴ ᴀɪʀ ғʟɪɢʜᴛ ᴀᴛᴛᴇɴᴅᴀɴᴛ 👩🏻‍🏫 전 겸임교수
+      Lovely +Doodle= Doodlely ❤️
     location: "South Korea"
-    followers: 10661
-    engagement: 1050
-    commentsToLikes: 0.033676
-    id: ck6tmye378ro20j710uvsv3si
+    followers: 19621
+    engagement: 334
+    commentsToLikes: 0.025043
+    id: ck9wfj4dip1kl0j78unk3n1c0
     verified: false
-    hashtags: "#somewhere, #barebells, #kolonsport, #antarctica"
+    hashtags: "#doglovers, #goldendoodle, #doggymom, #dog"
 ---

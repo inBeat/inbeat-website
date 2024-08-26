@@ -1,130 +1,130 @@
 ---
-title: Top 10 Runners Instagram Influencers In 2023
+title: Top 10 Runners Instagram Influencers In 2024
 description: >-
-  Find top runners Instagram influencers in 2023. Most popular hashtags: #trailrunning #medalmonday #loveleam.
+  Find top runners Instagram influencers in 2024. Most popular hashtags: #marathontraining #running #runnergirl.
 platform: Instagram
-hits: 3142
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 3142 Instagram influencers like this for you to collaborate.
+hits: 3494
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database has 3494 Instagram influencers like this for you to connect with.
 profiles:
-  - username: "jonalbon"
+  - username: "funfitnessfam"
     fullname: >-
-      Jonathan Albon
+      Darla Slade
     bio: >-
-      Runner
+      NJ>FL>MD🗺Travel Addict•Fitness Instructor Runner•Former Disney•ADHD Mom•Plant-Based 🌱 Email to collab⬇️
     location: "United States"
-    followers: 23234
-    engagement: 370
-    commentsToLikes: 0.008799
-    id: ck1398ub1k3h70i19mezqsoxx
+    followers: 19073
+    engagement: 561
+    commentsToLikes: 0.076917
+    id: cl7zcllo4zik00i23vxwcv5vm
     verified: false
-    hashtags: "#skyrunning, #trailrunning, #obstaclecourseracing, #onthisday"
-  - username: "firhanmci6"
+    hashtags: "#mdinfocus, #newport, #familymovienight, #momlife"
+  - username: "kat_shultis"
     fullname: >-
-      Firhan
+      Kathryn Shultis
     bio: >-
-      💥 RUNNER UP MASTERCHEF INDONESIA S6💥 all those menu approved by mama👩🏻‍🦰💯 BA OF @megcheese.id Business/Endorse 📞 Adit +6281.2832.3002 / EMAIL
-    location: "Indonesia"
-    followers: 369223
-    engagement: 485
-    commentsToLikes: 0.010675
-    id: ck5zypibdaadl0i14ohtzeld4
-    verified: false
-    hashtags: "#holidayalakanemory, #jakarta, #pengenadem, #solargardindonesia"
-  - username: "daywithdad"
-    fullname: >-
-      𝐖𝐚𝐫𝐫𝐞𝐧, 𝐊𝐚𝐭𝐞 & 𝐂𝐨. 🌱
-    bio: >-
-      🙋🏽‍♂️ plant eating stay @ 🏡 dad ➕ left the rat race for family life 🏡 family moments post renovating ➕ big foodie 🥑 runner 🏃🏽‍♂️ family travel 🌍
-    location: "United Kingdom"
-    followers: 45060
-    engagement: 326
-    commentsToLikes: 0.211051
-    id: ck0ucb8kngfsl0i19g4le95w3
-    verified: false
-    hashtags: "#leamingtonspa, #loveleam, #10krun, #backtoschool"
-  - username: "edinakulcsar_official"
-    fullname: >-
-      Kulcsár Edina
-    bio: >-
-      🤍Mom:Medox,Nina,🔜👶🏻💖 📲Sajtó: Konyári Edinka e.konyari@gmail.com 👸🏻MissWorld2014 1st runner up ❗️A képek felhasználása engedélyköteles @braidmeandmore
-    location: ""
-    followers: 643386
-    engagement: 285
-    commentsToLikes: 0.062445
-    id: ck14l6t54t5ai0i19jk3rd71i
-    verified: false
-    hashtags: "#ennekaz, #szeretet, #friends, #sminkvide"
-  - username: "patriciagouw"
-    fullname: >-
-      patriciagunawan
-    bio: >-
-      🌈 #PatGoTravel #PatGo 📩 +6288213000032 #TeamPatGo 🇮🇩 @zozo.gouw 🎖Runner Up #AsNTM4
-    location: "Indonesia"
-    followers: 816789
-    engagement: 225
-    commentsToLikes: 0.020268
-    id: ck0vv4y1znkh30i19323v2azs
-    verified: true
-    hashtags: "#bcajcbjepang, #dekoruma, #itsmybirthday, #netflixid"
-  - username: "phuongngabui_"
-    fullname: >-
-      Phuong Nga Bui | Tueanh | Nana
-    bio: >-
-      🌸 1st Runner-up Miss Vietnam 2018 - Miss Grand VN 2018 ☎️ 0828983232 (Nhã Quyên - Manager) 📨 ahau.phuongngabui@gmail.com 🤩 VLOG MỚI NHẤT⬇️
-    location: ""
-    followers: 596849
-    engagement: 183
-    commentsToLikes: 0.003155
-    id: ck6u4utrk5x150j71ew3vzhjp
-    verified: true
-    hashtags: "#tamsonfashion, #vlog2, #happy, #lancel"
-  - username: "ngtran_huyenmy"
-    fullname: >-
-      Nguyen Tran Huyen My
-    bio: >-
-      ❤1st runner up Miss Vietnam 2014 ❤Top 10 MGI 2017 ❤️ BTV truyền hình K+
-    location: ""
-    followers: 710708
-    engagement: 119
-    commentsToLikes: 0.010810
-    id: ckf5pprml6wkv0j231g8pspt2
-    verified: true
-    hashtags: "#poodle, #lagunalangco, #hoianashores, #dulichdanang"
-  - username: "runmeb"
-    fullname: >-
-      Meb Keflezighi
-    bio: >-
-      Boston Marathon Champion NYC Marathon Champion Olympic Silver Medalist Runner
+      •author, runner, & wife to @caseyshultis14 💍 • @kathrynsdaily 💪🏼🏃‍♀️
     location: "United States"
-    followers: 121595
-    engagement: 110
-    commentsToLikes: 0.014903
-    id: ck135pf092kqw0i19i7ellh3i
-    verified: true
-    hashtags: "#worldsfastest5k, #medalmonday, #carlsbad5000, #runtowin"
-  - username: "jaclynmisch"
+    followers: 76084
+    engagement: 682
+    commentsToLikes: 0.010709
+    id: ckqu7spfo12po0j23iz7jwomr
+    verified: false
+    hashtags: "#slacking, #cleaning, #cleaningmotivation, #morningroutine"
+  - username: "katierunsthings"
     fullname: >-
-      𝐉𝐀𝐂𝐋𝐘𝐍 𝐌𝐈𝐒𝐂𝐇
+      Katie | Miles & Motherhood 🏃‍♀️
     bio: >-
-      Wine Educator🍷 @napavalleywineacademy Culinary Inst. Master’s in Wine🔜DipWSET CBS Survivor29 runner-up🌴 #RoadtoBabyMisch 🌈#MRKH | IVF | Surrogacy
+      Sharing my journey from #DeliverytoDopey 🤱💎 Mama | Runner | Dreamer | Motivator Marathon x1 | Dopey DNF '23 💌 Katierunsthings@gmail.com
     location: "United States"
-    followers: 57707
-    engagement: 837
-    commentsToLikes: 0.373606
-    id: ck135i1eu1j390i19iujfadya
+    followers: 9089
+    engagement: 620
+    commentsToLikes: 0.058478
+    id: ckap200pzwsov0i784m9erqk4
     verified: false
-    hashtags: "#ad, #roadtobabymisch, #12daysofchrismisch, #mrkh"
-  - username: "sarahonthegoo"
+    hashtags: "#runnerlife, #inspiringwomenrunners, #winterrunning, #philadelphiamarathon"
+  - username: "em_durgin"
     fullname: >-
-      Sarah G. Francis
+      EMILY DURGIN
     bio: >-
-      ⚙️ Electromechanical Engineer 🏍 Biker 🚎 VW Community 🧗‍♀️ Climber 🏊🏼‍♀️ Swimmer 🏃🏼‍♀️ Runner 🏕 Dite Ourson Complaisant☩ 🇱🇧 Dream it. Plan it. Do it.
-    location: "France"
-    followers: 2599
-    engagement: 2883
-    commentsToLikes: 0.151377
-    id: ckf5vgt9dojx60j2308y28xod
+      Professional Runner for @adidasrunning /// Former UCONN Husky 17’ 🐾 ||🄼🄰🄸🄽🄴🅁||
+    location: "United States"
+    followers: 26627
+    engagement: 495
+    commentsToLikes: 0.013467
+    id: ck5bvpar8k48j0i11v2g12i85
     verified: false
-    hashtags: "#campfire, #lakeview, #mountainviews, #sunsetrays"
+    hashtags: "#toronto, #maine, #marathon, #running"
+  - username: "aprils_hr"
+    fullname: >-
+      April Simpkins
+    bio: >-
+      Mental Health Advocate. Mom of 6, wife, runner, encourager, and follower of Christ’s teachings.❤️ Inquiries: Assistant@AprilSimpkins.com
+    location: "United States"
+    followers: 24185
+    engagement: 553
+    commentsToLikes: 0.066575
+    id: cl4kuhwksstk20i23z5lddcjc
+    verified: false
+    hashtags: "#chesliekryst, #iloveyou, #mentalhealthawareness, #esa"
+  - username: "isabelseidel"
+    fullname: >-
+      Izzy seidel
+    bio: >-
+      Average runner with above average outfits 📍nyc @sadgirltrackclub team captain 🦝 💖 hello.izzyseidel@gmail.com More chaotic on TikTok @izzyinthecity_
+    location: "United States"
+    followers: 24310
+    engagement: 556
+    commentsToLikes: 0.008385
+    id: cl00uqpk65ub40i23b0jy0d34
+    verified: false
+    hashtags: "#running, #nyc, #nycstreetstyle, #onrunning"
+  - username: "keiradamato"
+    fullname: >-
+      Keira D'Amato
+    bio: >-
+      Pro Runner for @nike + @flynnsports Fueled by @genucan One time, I broke the Marathon American Record: 2:19:12 …and another time, the Half: 66:39
+    location: "United States"
+    followers: 80464
+    engagement: 585
+    commentsToLikes: 0.025614
+    id: ckmw1i3ls8awe0j238e7gc51z
+    verified: false
+    hashtags: "#olympicmarathontrials, #olympicmarathon, #goteamusa, #teamnike"
+  - username: "akanksha_gupta"
+    fullname: >-
+      Akanksha Gupta| Plus Size Influencer
+    bio: >-
+      • Plus Size Model | Influencer • Body Positive #curvesarebeautiful 👑 Ms India Curvy 2020 1st Runner Up Embrace your curves 💌: akankshagpt7@gmail.com
+    location: "India"
+    followers: 12659
+    engagement: 629
+    commentsToLikes: 0.064420
+    id: ck6txc7vsx0gn0j71d9ge3pix
+    verified: false
+    hashtags: "#plussizemodel, #plussize, #comfyoutfit, #indianwear"
+  - username: "aliontherun1"
+    fullname: >-
+      Ali Feller — Ali on the Run
+    bio: >-
+      🎙 Host, Ali on the Run Show podcast 🎤 Race announcer 🏃🏼‍♀️ Runner with Crohn's disease 👧🏼 Annie 🐶 Ellie
+    location: "United States"
+    followers: 74336
+    engagement: 1034
+    commentsToLikes: 0.017088
+    id: ck5zstqgyz67d0i146gon93mq
+    verified: false
+    hashtags: ""
+  - username: "turnurr"
+    fullname: >-
+      Matt Turner
+    bio: >-
+      🎨 I make things ✨ Building @PlantBasedLoft 🔑 Second Runner-Up @BigBrotherCBS
+    location: "United States"
+    followers: 287616
+    engagement: 1189
+    commentsToLikes: 0.009863
+    id: clbew5goh0y2e0j088tm88bgl
+    verified: false
+    hashtags: "#interiordesign, #mcm, #diy, #woodworking"
 ---

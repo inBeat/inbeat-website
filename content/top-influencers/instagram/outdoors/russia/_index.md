@@ -1,11 +1,11 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Russia In 2023
+title: Top 10 Outdoors Instagram Influencers In Russia In 2024
 description: >-
-  Find top outdoors Instagram influencers in Russia in 2023. Most popular hashtags: #outdoors #nature #travel #photooftheday.
+  Find top outdoors Instagram influencers in Russia in 2024. Most popular hashtags: #outdoors #nature #travel #photooftheday.
 platform: Instagram
-hits: 98
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 98 Instagram influencers like this in Russia for you to contact.
+hits: 100
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 100 Instagram influencers like this in Russia for you to work with.
 profiles:
   - username: "away81"
     fullname: >-

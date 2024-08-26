@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health Instagram Influencers In San Francisco In 2023
+title: Top 10 Health Instagram Influencers In San Francisco In 2024
 description: >-
-  Find top health Instagram influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #health #bayarea.
+  Find top health Instagram influencers in San Francisco in 2024. Most popular hashtags: #health #sanfrancisco #fit.
 platform: Instagram
-hits: 56
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 56 Instagram influencers like this in San Francisco, United States for you to work with.
+hits: 74
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 74 Instagram influencers like this in San Francisco, United States for you to pitch.
 profiles:
   - username: "escobar415"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ck6uax9r367gj0j716yuomv3w
     verified: false
     hashtags: "#workfromhome, #nofoodwaste, #datenight, #healthyhabit"
-  - username: "gc_doodles"
-    fullname: >-
-      Gloria Camacho
-    bio: >-
-      I try my best to inspire, motivate, and empower others through my art. ⭐️ 🎨 ⤵️ MY SHOP 🛒 💜:
-    location: "United States"
-    followers: 7710
-    engagement: 651
-    commentsToLikes: 0.032450
-    id: ck6txeu5lxfmz0j71dbu9wp6a
-    verified: false
-    hashtags: "#quote, #mentalhealth, #artistic, #mentalhealthmatters"
   - username: "jonprice11"
     fullname: >-
       𝐉𝐨𝐧𝐧𝐲 𝐏𝐫𝐢𝐜𝐞
@@ -67,6 +55,30 @@ profiles:
     id: ckaoxh788d8u30i78650r559g
     verified: false
     hashtags: "#adventure, #traveladventures, #instatravelling, #travelphotography"
+  - username: "feastingjess"
+    fullname: >-
+      jess ⋆ bay area foodie
+    bio: >-
+      san francisco ♡ social media manager ⋆ content creator ♡ 5 year yelp elite ♡ dm or feastingjess@gmail.com
+    location: "United States"
+    followers: 7634
+    engagement: 5717
+    commentsToLikes: 0.013153
+    id: cl78lpmllq19r0i23co52tost
+    verified: false
+    hashtags: "#foodie, #bestfoodsf, #foodies, #singapore"
+  - username: "mashafastov"
+    fullname: >-
+      Maria Fastov
+    bio: >-
+      Health and wellness Registered Nurse, BSN Nutrition, lifestyle San Francisco Bay Area
+    location: "United States"
+    followers: 12695
+    engagement: 556
+    commentsToLikes: 0.095281
+    id: ck9wfxkulqyew0j78wgpgnlhp
+    verified: false
+    hashtags: "#healthylifestyle, #organicliving, #nutrition, #nutritionmatters"
   - username: "annaaelizabeth"
     fullname: >-
       ANNA ELIZABETH
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.022025
     id: ck6u8nrtcsnc50j71spk76za7
     verified: false
-    hashtags: "#vs, #rights, #humanrights, #crisis"
-  - username: "ucsf"
-    fullname: >-
-      UC San Francisco (UCSF)
-    bio: >-
-      The leading university exclusively focused on health. Follow to learn about #UCSFLife, celebrate #UCSFfamily, and see why we're so #UCSFProud.
-    location: "United States"
-    followers: 16368
-    engagement: 314
-    commentsToLikes: 0.028694
-    id: ck0w5xh225wxh0i1959svsdzz
-    verified: false
-    hashtags: "#ucsfproud, #covidvaccine, #ucsffamily, #sanfrancisco"
+    hashtags: "#vs, #fire, #climatechange, #politics"
 ---

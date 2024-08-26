@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In United States In 2023
+title: Top 10 Models TikTok Influencers In United States In 2024
 description: >-
-  Find top models TikTok influencers in United States in 2023. Most popular hashtags: #fyp #foryoupage #foryou #stitch.
+  Find top models TikTok influencers in United States in 2024. Most popular hashtags: #fyp #duet #foryoupage #stitch.
 platform: TikTok
-hits: 2338
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our database has 2338 TikTok influencers like this in United States for you to connect with.
+hits: 2322
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 2322 TikTok influencers like this in United States for you to connect with.
 profiles:
   - username: "mod3ls"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ckc8znaabopaf0j23vk9o3mcw
     verified: false
     hashtags: "#foryoupage, #foryou, #teamromeo09, #tiktokindia"
-  - username: "imjustabunchofbees"
-    fullname: >-
-      Bee
-    bio: >-
-      Hi I’m bee They/them Disabled model or at least trying to be
-    location: "United States"
-    followers: 21900
-    engagement: 2038
-    commentsToLikes: 0.101153
-    id: ckcvj1azgwc6e0j233csr6ykz
-    verified: false
-    hashtags: "#stitch, #foryou, #foryoupage, #digitalart"
   - username: "sheltercatmell"
     fullname: >-
       Michelle Pierce
@@ -54,7 +42,7 @@ profiles:
     commentsToLikes: 0.115869
     id: ckavo28jhyo4z0j23p7jrv1g7
     verified: false
-    hashtags: "#funny, #mentalhealth, #nonbionary, #kidsoftiktok"
+    hashtags: "#fyp, #duet, #elderemo, #makeup"
   - username: "vittoriald"
     fullname: >-
       vittoriald
@@ -66,7 +54,7 @@ profiles:
     commentsToLikes: 0.082399
     id: ckacvl92poalu0i782j8o6f1e
     verified: false
-    hashtags: "#republican, #usa, #fyp, #fy"
+    hashtags: "#usa, #trumptrain, #government, #republican"
   - username: "josheeirl"
     fullname: >-
       Joshee, In Real Life
@@ -90,31 +78,31 @@ profiles:
     commentsToLikes: 0.101317
     id: ck9flng3gox940j78ybffc259
     verified: false
-    hashtags: "#stitch, #duet, #fyp, #leo"
+    hashtags: "#fyp, #duet, #stitch, #lgbt"
   - username: "austenmarie"
     fullname: >-
       Austen Marie
     bio: >-
       artist of Soul on Hold on Webtoon✨ soon RYDER ⚡️alt model +singer. ⚡️
     location: "United States"
-    followers: 9515
-    engagement: 2047
-    commentsToLikes: 0.067300
+    followers: 9915
+    engagement: 2077
+    commentsToLikes: 0.054208
     id: ckamju2cqppic0i7875pcrk8w
     verified: false
-    hashtags: "#webtoon, #clipstudiopaint, #frombloodandash, #soulonhold"
+    hashtags: "#webtoon, #clipstudio, #soulonhold, #digitalart"
   - username: "luckybm"
     fullname: >-
       lucky bm🤗
     bio: >-
       💕 Actor,model in nepal💕 💚leader of dds lucky band💚 👍comnt.,follow🙏me
     location: "United States"
-    followers: 20600
-    engagement: 1750
-    commentsToLikes: 0.092507
+    followers: 20100
+    engagement: 1806
+    commentsToLikes: 0.096168
     id: ckbkdufih42n70j23uxykig44
     verified: false
-    hashtags: "#duet, #raph, #foryoupage, #imillionaudition"
+    hashtags: "#lol, #imillionaudition, #duet, #raph"
   - username: "agnesartych"
     fullname: >-
       Agnes Artych
@@ -127,4 +115,16 @@ profiles:
     id: ckb99zz5vuile0j23wpvbxc23
     verified: false
     hashtags: "#redheads, #ruda, #redhead, #rudow"
+  - username: "longleggedcommunalist"
+    fullname: >-
+      sonomi ☭
+    bio: >-
+      🧚🏽any pronouns🧚🏼 google social ecology! model Ⓥ creative MA links↓
+    location: "United States"
+    followers: 14200
+    engagement: 1635
+    commentsToLikes: 0.083978
+    id: ck9eulfi7ee8s0j785c5uj2by
+    verified: false
+    hashtags: "#pinterestaesthetic, #modelingtiktok, #greenscreen, #consumerismcheck"
 ---

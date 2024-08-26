@@ -1,130 +1,130 @@
 ---
-title: Top 10 Chefs Instagram Influencers In France In 2023
+title: Top 10 Chefs Instagram Influencers In France In 2024
 description: >-
-  Find top chefs Instagram influencers in France in 2023. Most popular hashtags: #recettefacile #tenuedujour #parisianstyle.
+  Find top chefs Instagram influencers in France in 2024. Most popular hashtags: #pastry #love #patisserie.
 platform: Instagram
-hits: 408
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 408 Instagram influencers like this in France for you to collaborate.
+hits: 447
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 447 Instagram influencers like this in France for you to pitch.
 profiles:
-  - username: "daphnecharice"
+  - username: "pierrejean_quinonero"
     fullname: >-
-      DAPHNE D調
+      Pierre-Jean Quinonero
     bio: >-
-      #deaftune music + pastry chef For work | daphkisses@hotmail.my My songs 聽我的歌「死心塌地」& 「CLOSE TO 9」on kkbox & spotify
+      Pastry Chef @fscapferrat ☀️ 🎂 @neulo_epicerie 🌾 Master class 🌎 🥇Champion de France du Dessert 21 🥇Top Pastry Chef Awards 23 🥇Passion dessert 23/24
     location: "France"
-    followers: 176495
-    engagement: 150
-    commentsToLikes: 0.003543
-    id: ck0vy22nw1v300i19q7ofwubg
+    followers: 211078
+    engagement: 510
+    commentsToLikes: 0.006754
+    id: ckap2ykeo0v7j0i78v3y7uddz
     verified: false
-    hashtags: "#subaruasia, #freshfoam, #newbalancemy, #celebrateresponsibly"
-  - username: "tziganette"
+    hashtags: "#team, #viral, #cake, #viralreels"
+  - username: "danny_khezzar"
     fullname: >-
-      Amélie
+      Danny Khezzar Top Chef
     bio: >-
-      👨‍👩‍👧‍👦 Mum of Estebán, Olivia & Alba 🌻Ex Auxiliaire de puériculture 👰🏻🤵 @n0un0ur5 🤱🏻Cheffe de moi chez @tziganettecreation Nos fringues lactés ⬇️
+      • Chef du Bayview ⭐️ Michelin • Top Chef 14 🔪 • 18/20 au G&m ✨ 📍Genève 🇨🇭 ✉️ contact@khezzarcook.fr Livre d’or 📕
     location: "France"
-    followers: 81107
-    engagement: 963
-    commentsToLikes: 0.024866
-    id: ck5zxa8u87moa0i141godp6v3
+    followers: 350899
+    engagement: 1011
+    commentsToLikes: 0.044985
+    id: clqi3fgill1ok0k08a7ajfaa9
     verified: false
-    hashtags: "#albadejourenjour, #breastfeeding, #17mois, #esteb"
-  - username: "marine_breadwhite"
+    hashtags: "#pastry, #food, #dannykhezzar, #geneve"
+  - username: "jonathan_jablonski_official"
     fullname: >-
-      Marine Breadwhite
+      Jonathan Jablonski
     bio: >-
-      📸 Product Content Creator 🤓 Chef de projet contenu e-commerce ✉️ marine.breadwhite@gmail.com 📍Paris - Strasbourg - Hossegor 🌊
+      🧑‍🍳Chef & Serial Entrepreneur 😎PDG @factoryandco 🤵🏻Co-Founder @italianqueen_official @heroessuperfood @rocknfreelife @los_pueblos_cartel
     location: "France"
-    followers: 54296
-    engagement: 241
-    commentsToLikes: 0.098951
-    id: ck0vwfembtfey0i19jjhmpdie
+    followers: 100895
+    engagement: 877
+    commentsToLikes: 0.016382
+    id: ck0tzdfufpx8m0i1920ilh9rw
     verified: false
-    hashtags: "#giveaway, #concours, #marrakech, #concoursinstagram"
-  - username: "lavieenlucie"
+    hashtags: "#gym, #entrepreneur, #inspiration, #motivation"
+  - username: "matthieu_carlin"
     fullname: >-
-      La vie en Lucie ✨
+      𝐌𝐚𝐭𝐭𝐡𝐢𝐞𝐮 𝐂𝐚𝐫𝐥𝐢𝐧
     bio: >-
-      🌿Skincare addict 🥰Bien-être & self-love 🍫Pâtissière du dimanche 📍PARIS 💻 Chef de projet influence 💌 lavieenlucie@gmail.com Blogueuse depuis 2013 ⬇️
+      PASTRY CHEF - Hôtel de Crillon - A Rosewood Hotel Butterfly Patisserie matthieu.carlin@rosewoodhotels.com
     location: "France"
-    followers: 30966
-    engagement: 221
-    commentsToLikes: 0.090567
-    id: ck5hp7ufgqwc70i117kuq0gzk
+    followers: 28838
+    engagement: 366
+    commentsToLikes: 0.080058
+    id: ck6u2tawhtt9s0j71tcmzteqn
     verified: false
-    hashtags: "#wearejolies, #bodypositive, #promod, #promodaddict"
-  - username: "capucinegoalard"
+    hashtags: "#teatime, #patisserie, #chocolat, #rwjourneys"
+  - username: "chef_sebastien_lepinoy"
     fullname: >-
-      Capucine Goalard
+      Lepinoy Sebastien
     bio: >-
-      Mère de famille & cheffe d’entreprises (oui c’est possible) créant avec passion du contenu sur notre quotidien près de Lyon ♥ CEO de @lesinstapreneurs
+      ⭐️⭐️⭐Michelin Star Chef -97 La Liste 2023 -5 stars Forbes Travel -Asia 50Best Listed Since 2013 "Haute Cuisine Française" ::: Chopard Ambassador :::
     location: "France"
-    followers: 78702
-    engagement: 225
-    commentsToLikes: 0.048252
-    id: ck0ue36n3kgzt0i19bsraqp7k
+    followers: 31457
+    engagement: 347
+    commentsToLikes: 0.012952
+    id: ck55kslk000750i11jx92252y
     verified: false
-    hashtags: "#merefille, #bebe2020, #maman2020, #monfilsmavie"
-  - username: "guayfrederique"
+    hashtags: "#kaviari, #caviar, #lesamisway, #chopardwatch"
+  - username: "damienjuquel"
     fullname: >-
-      Frédérique Guay
+      Damien Juquel / 📸 Photography
     bio: >-
-      Chef d’antenne, Animatrice, Reporter🎾⚽️🌎, @tvasports et @tvanouvelles 👱🏼‍♀️ . Fitness. Federer. Doritos. . Partenariats: martin@reverberesmedia.com
+      Fashion and Wedding Photographer 📍St Etienne / Paris Chef du Département Photo & Associé chez @auuna.studio Ambassador for @studio_gonnet
     location: "France"
-    followers: 16591
-    engagement: 828
-    commentsToLikes: 0.039260
-    id: ck5c8asjh93mg0i11kqrrr0in
-    verified: false
-    hashtags: "#wasspringthough, #tb2002, #lefondturquooiise, #habs"
-  - username: "shapla11"
-    fullname: >-
-      S H A P L A • H O Q U E💋
-    bio: >-
-      🇬🇧Influencer • Chef • movie connoisseur 🏴 DAILY Content TikTok | shapla_11 PR enquires: 📩 Shaplahoque@hotmail.com
-    location: "France"
-    followers: 55153
-    engagement: 724
-    commentsToLikes: 0.113782
-    id: ck5c9dfjtb8c00i11rxq1yyjd
-    verified: false
-    hashtags: "#asiangirls, #smallbusiness, #1minutemakeup, #asianwedding"
-  - username: "chef.etchebest"
-    fullname: >-
-      Philippe Etchebest
-    bio: >-
-      👨‍🍳 Chef étoilé et Meilleur Ouvrier de France 🇫🇷 Créateur du #programmementor 🎥 Jury du concours @topchefm6
-    location: "France"
-    followers: 906431
+    followers: 20558
     engagement: 318
-    commentsToLikes: 0.016048
-    id: ck0w731yubi810i19rh6gp5w9
+    commentsToLikes: 0.008164
+    id: ck55kja1izfrn0i11qzbzbvul
+    verified: false
+    hashtags: "#portraitphotography, #fashioneditorial, #fashionmodel, #instafashion"
+  - username: "heuss_lenfoire"
+    fullname: >-
+      Heuss L'enfoiré
+    bio: >-
+      📩 heuss.management@gmail.com Chef d’orchestre 🎻🇰🇵 - dispo partout ⬇️
+    location: "France"
+    followers: 1009624
+    engagement: 268
+    commentsToLikes: 0.005385
+    id: ck0tuhcxe75wm0i19a43hhalz
     verified: true
-    hashtags: "#marquefrancaise, #astuce, #patisserie, #textiles"
-  - username: "hamedbakayokoofficiel"
+    hashtags: "#kalitada, #enpassantpecho, #gucciversace, #islamujeres"
+  - username: "julie_pancakes"
     fullname: >-
-      Hamed BAKAYOKO
+      Julie 🌿
     bio: >-
-      Compte officiel du Premier ministre, Chef du Gouvernement, Ministre de la Défense de Côte d'Ivoire.
+      Cofondatrice @veirmagazine 🌱 Cheffe du #gangdestomates 🍅 📍 Pau (64)
     location: "France"
-    followers: 455189
-    engagement: 235
-    commentsToLikes: 0.023684
-    id: ck6010k93eml80i14o8zsp54o
+    followers: 31109
+    engagement: 267
+    commentsToLikes: 0.055851
+    id: ck5zvjt034daf0i14a6ezyt9c
     verified: false
-    hashtags: "#adopr, #ensemble, #restonsconcentr, #adociv2020"
-  - username: "iam_chlos"
+    hashtags: "#dumbledore, #michealgambon, #harrypotter, #gangdestomates"
+  - username: "teamamut"
     fullname: >-
-      Chloé Seguret🕊
+      Tea Mamut
     bio: >-
-      Biarritz Bordeaux | 22 Chef de projet digital 👩🏽‍💻 𝒀𝒐𝒖𝒓 𝒐𝒏𝒍𝒚 𝒍𝒊𝒎𝒊𝒕 𝒊𝒔 𝒚𝒐𝒖𝒓 𝒎𝒊𝒏𝒅
+      🍰Pastry chef/Owner of @oskolacpastry 🏫Alumni of @theculinaryinstituteofamerica 🌱Clean eating ✈️Travels 🎸John Mayer
     location: "France"
-    followers: 3514
-    engagement: 1474
-    commentsToLikes: 0.087911
-    id: ck8t9lm5mojpy0j78vh17r9fl
+    followers: 22323
+    engagement: 259
+    commentsToLikes: 0.018461
+    id: ck6tq9lcxq5zd0j71xrve1hyb
     verified: false
-    hashtags: "#selfietime, #confinementmood, #biarritz, #zaratop"
+    hashtags: "#weddingvibes, #easter, #oskolacpastry, #pastryshop"
+  - username: "keshiaknightpulliam"
+    fullname: >-
+      Keshia Knight Pulliam
+    bio: >-
+      Actor-Director-Entrepreneur. However, Wife & Mommy are my favorite titles… Follow @Keshiaskitchen my chef & spice journey!!
+    location: "France"
+    followers: 2163618
+    engagement: 257
+    commentsToLikes: 0.015516
+    id: ck0w3r0lmutsj0i19df97efx3
+    verified: true
+    hashtags: "#marriedatfirstsight, #love, #knightjames, #milkdoesabodygood"
 ---

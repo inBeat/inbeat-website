@@ -1,11 +1,11 @@
 ---
-title: Top 10 Soccer-Players TikTok Influencers In 2023
+title: Top 10 Soccer-Players TikTok Influencers In 2024
 description: >-
-  Find top soccer-players TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #greenscreen #soccer.
+  Find top soccer-players TikTok influencers in 2024. Most popular hashtags: #fyp #foryou #greenscreen #soccer.
 platform: TikTok
-hits: 96
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our database aggregates 96 TikTok influencers like this for you to connect with.
+hits: 98
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 98 TikTok influencers like this for you to pitch.
 profiles:
   - username: "lilbroboa"
     fullname: >-

@@ -1,12 +1,48 @@
 ---
-title: Top 10 Instagram Influencers In Hungary In 2023
+title: Top 10 Instagram Influencers In Hungary In 2024
 description: >-
-  Find top Instagram influencers in Hungary in 2023. Most popular hashtags: #budapest #hungary #budapestagram #ilovebudapest.
+  Find top Instagram influencers in Hungary in 2024. Most popular hashtags: #budapest #loves #vscohungary #budapestagram.
 platform: Instagram
-hits: 23
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 23 Instagram influencers like this in Hungary for you to connect with.
+hits: 21
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 21 Instagram influencers like this in Hungary for you to work with.
 profiles:
+  - username: "nebald_oliver"
+    fullname: >-
+      N É B A L D   O L I V É R
+    bio: >-
+      🥩 𝙲𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝙲𝚑𝚎𝚏 👨🏻‍🍳 💡 𝚄́𝚓 𝚛𝚎𝚌𝚎𝚙𝚝𝚎𝚔 📝 𝙾𝚠𝚗𝚎𝚛: #Tofu 🐷 #ElDiablo 🐕 #Nemelvagyunk #TheGrillguy Budapest, Hungary🇭🇺
+    location: "Hungary"
+    followers: 109295
+    engagement: 160
+    commentsToLikes: 0.020375
+    id: ck134sk9uxzqa0i19erhad611
+    verified: false
+    hashtags: "#metrochef, #photo, #summer, #mutimiteszel"
+  - username: "weiszlajosphotography"
+    fullname: >-
+      Weisz Lajos Photography 📷
+    bio: >-
+      📸 Freelance photographer 📍 Budapest 📩 DM to collab - rent - order
+    location: "Hungary"
+    followers: 27869
+    engagement: 32
+    commentsToLikes: 0.008722
+    id: ck0w1shpxkwvk0i19b41ggyoi
+    verified: false
+    hashtags: "#sonyalpha, #street, #model, #beautiful"
+  - username: "betti_lendvai"
+    fullname: >-
+      Lendvai Bernadett
+    bio: >-
+      26|Hungary/Debrecen🇭🇺🥐 Professional Makeup Artist/ @lendvai_betti_makeup 💄 Contact 💌DM or e-mail💌
+    location: "Hungary"
+    followers: 14587
+    engagement: 111
+    commentsToLikes: 0.019157
+    id: ck1354bnzzmzg0i1938ftb1y7
+    verified: false
+    hashtags: "#milani, #bobbibrown, #glitterlover, #anastasiabrows"
   - username: "missintercontinentalofficial"
     fullname: >-
       Miss Intercontinental
@@ -19,30 +55,6 @@ profiles:
     id: ck13839jdeagb0i19069q7jtr
     verified: false
     hashtags: "#missintercontinental, #mio, #powerofbeauty, #india"
-  - username: "themacarongirl.travels"
-    fullname: >-
-      𝐓𝐈𝐌𝐈  • 𝚝𝚛𝚊𝚟𝚎𝚕 𝚋𝚕𝚘𝚐𝚐𝚎𝚛
-    bio: >-
-      🌍 | Budapest based #travelgirl ✨ | Happy soul • Travel lover • Macaron addicted 🔜 | Mykonos, Croatia, Italy 👇🏻 | EDIT LIKE ME - Lightroom presets 👇🏻
-    location: "Hungary"
-    followers: 99102
-    engagement: 383
-    commentsToLikes: 0.035474
-    id: ck139okkzmcno0i19f9x0g1cj
-    verified: false
-    hashtags: "#darlingescapes, #wowhungary, #greece, #hianyoztatok"
-  - username: "schatzi_nadi"
-    fullname: >-
-      Schatzl Nadine
-    bio: >-
-      •[Handball player]🤾🏻‍♀️🇭🇺 •@ftc_kezilabda •@mkszkezilabda •@drkdorko •@dorkowomen •@dorkohungary •@marnyshungary
-    location: "Hungary"
-    followers: 13000
-    engagement: 1432
-    commentsToLikes: 0.006732
-    id: ck134x2umym0u0i19ua3rw2z1
-    verified: false
-    hashtags: "#dorkofamily, #dorko, #lvsport, #hummel"
   - username: "nomi.hu"
     fullname: >-
       Nomi 糯米 ♥️
@@ -67,18 +79,6 @@ profiles:
     id: ck0w1adlbicmv0i191u8u6i41
     verified: false
     hashtags: "#vscohungary, #europe, #bestcitybreaks, #theprettycities"
-  - username: "nebald_oliver"
-    fullname: >-
-      N É B A L D   O L I V É R
-    bio: >-
-      🥩 𝙲𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝙲𝚑𝚎𝚏 👨🏻‍🍳 🏃🏻‍♂️ 𝙴𝚍𝚣𝚎́𝚜 💪🏻 🎮 𝙶𝚊𝚖𝚎𝚛 👾 💡 𝚄́𝚓 𝚛𝚎𝚌𝚎𝚙𝚝𝚎𝚔 📝 𝙾𝚠𝚗𝚎𝚛: #Tofu 🐷 #ElDiablo 🐕 #Nemelvagyunk #TheGrillguy Budapest, Hungary🇭🇺
-    location: "Hungary"
-    followers: 92281
-    engagement: 512
-    commentsToLikes: 0.017539
-    id: ck134sk9uxzqa0i19erhad611
-    verified: false
-    hashtags: "#rekla, #nemelvagyunk, #nature, #mutimitcsinalsz"
   - username: "szabo__boglarka"
     fullname: >-
       BOGLARKA SZABO

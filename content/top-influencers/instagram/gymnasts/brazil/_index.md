@@ -1,12 +1,24 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Brazil In 2023
+title: Top 10 Gymnasts Instagram Influencers In Brazil In 2024
 description: >-
-  Find top gymnasts Instagram influencers in Brazil in 2023. Most popular hashtags: #ninjakidztv #ninjakids #love #gymnastics.
+  Find top gymnasts Instagram influencers in Brazil in 2024. Most popular hashtags: #ninjakidztv #ninjakids #love.
 platform: Instagram
-hits: 85
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 85 Instagram influencers like this in Brazil for you to contact.
+hits: 84
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 84 Instagram influencers like this in Brazil for you to collaborate.
 profiles:
+  - username: "jade_barbosa"
+    fullname: >-
+      Jade Barbosa
+    bio: >-
+      Flamengo/ Brazilian Gymnast All-around World Medalist 🥉 Vault World Medalist 🥉 📩 jade@amma.com.vc @team_amma
+    location: "Brazil"
+    followers: 756836
+    engagement: 634
+    commentsToLikes: 0.011237
+    id: ck5zu5pgk1qa00i14yjet8hn2
+    verified: true
+    hashtags: "#antwerp2023, #tbt, #chalkgirl, #gymnastics"
   - username: "dudacarvalho25"
     fullname: >-
       Duda Carvalho
@@ -67,18 +79,6 @@ profiles:
     id: ck6u3gt5oxp8s0j71rhlxllrl
     verified: false
     hashtags: "#cbginastica, #caixa, #timebrasil, #caixaesportes"
-  - username: "jade_barbosa"
-    fullname: >-
-      Jade Barbosa
-    bio: >-
-      Flamengo/ Brazilian Gymnast All-around World Medalist Vault World Medalist 📩 jadebarbosacontato@gmail.com
-    location: "Brazil"
-    followers: 681269
-    engagement: 174
-    commentsToLikes: 0.010486
-    id: ck5zu5pgk1qa00i14yjet8hn2
-    verified: true
-    hashtags: "#chalkgirl, #gymlife, #gymnastics, #2010"
   - username: "axel_augis"
     fullname: >-
       Axl 🙈🙉🙊

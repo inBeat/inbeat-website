@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In Colombia In 2023
+title: Top 10 Christian TikTok Influencers In Colombia In 2024
 description: >-
-  Find top christian TikTok influencers in Colombia in 2023. Most popular hashtags: #christiangirl #foryou #tiktokcristiano #viral.
+  Find top christian TikTok influencers in Colombia in 2024. Most popular hashtags: #christiangirl #foryou #tiktokcristiano #colombia.
 platform: TikTok
 hits: 36
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 36 TikTok influencers like this in Colombia for you to work with.
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 36 TikTok influencers like this in Colombia for you to collaborate.
 profiles:
   - username: "creyente.7"
     fullname: >-

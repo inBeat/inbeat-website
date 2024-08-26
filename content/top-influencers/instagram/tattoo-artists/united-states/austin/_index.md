@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Austin In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Austin In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Austin in 2023. Most popular hashtags: #tattooartist #tattoos #tattoo #inked.
+  Find top tattoo-artists Instagram influencers in Austin in 2024. Most popular hashtags: #tattooartist #inked #tattoo #tattoos.
 platform: Instagram
-hits: 21
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database holds 21 Instagram influencers like this in Austin, United States for you to connect with.
+hits: 34
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 34 Instagram influencers like this in Austin, United States for you to pitch.
 profiles:
   - username: "trentvalleau"
     fullname: >-
@@ -30,19 +30,7 @@ profiles:
     commentsToLikes: 0.028511
     id: ck8svtgwhcmow0j78y6btdvfr
     verified: false
-    hashtags: "#blackwork, #austintattoo, #floraltattoo, #artesobscurae"
-  - username: "acostattoo"
-    fullname: >-
-      Andrés Acosta
-    bio: >-
-      Austin, TX @exile_artcollective Webinar Videos ⤵️
-    location: "United States"
-    followers: 413130
-    engagement: 250
-    commentsToLikes: 0.009234
-    id: ck5c12dwmubop0i110cuqz8sx
-    verified: false
-    hashtags: "#tatuaje, #fkirons, #quickcaps, #tattoos"
+    hashtags: "#tattooartist, #onlyblackart, #blackworkerssubmission, #atxtattoo"
   - username: "coryjamestattoo"
     fullname: >-
       Cory james
@@ -67,18 +55,54 @@ profiles:
     id: ck13czvsg2yvk0i19qr0uquw2
     verified: false
     hashtags: "#ink, #fkironsxion, #texas, #newbraunfelstx"
+  - username: "acostattoo"
+    fullname: >-
+      Andrés Acosta
+    bio: >-
+      📍Austin, TX
+    location: "United States"
+    followers: 450147
+    engagement: 143
+    commentsToLikes: 0.007258
+    id: ck5c12dwmubop0i110cuqz8sx
+    verified: false
+    hashtags: "#exileartcollective, #space, #eye, #art"
   - username: "austinmaples"
     fullname: >-
       𝖆𝖚𝖘𝖙𝖎𝖓 𝖒𝖆𝖕𝖑𝖊𝖘
     bio: >-
-      For enquirers please email me. austinmaplestattoos@gmail.com @enjoy.tattoos.la @maplesmerchant @shop_hornys
+      @enjoy.tattoos.la 𝒴𝑜𝓊𝒯𝓊𝒷𝑒 𝓈𝑒𝓇𝒾𝑒𝓈 𝓁𝒾𝓃𝓀 𝒷𝑒𝓁𝑜𝓌 👇
     location: "United States"
-    followers: 111491
-    engagement: 246
-    commentsToLikes: 0.010452
+    followers: 130372
+    engagement: 97
+    commentsToLikes: 0.008070
     id: ck5pyb84wv6eo0i11tjh8hqhc
     verified: false
-    hashtags: "#tattooartist, #tatuagem, #tattooart, #tattooideas"
+    hashtags: "#tattooart, #tattooist, #inked, #tatted"
+  - username: "andypho"
+    fullname: >-
+      Andy Pho
+    bio: >-
+      ❤️ Artist | Mentor @UpsideTattoo, TX 📧 hello@upside.tattoo 🗽 New York City, May 10-24
+    location: "United States"
+    followers: 138665
+    engagement: 66
+    commentsToLikes: 0.024824
+    id: ck6udfen1krye0j71qcxpdga4
+    verified: false
+    hashtags: "#hivecaps, #dallastattoo, #houstontattoo, #bishoprotary"
+  - username: "skindesigntattoos"
+    fullname: >-
+      𝐒𝐤𝐢𝐧 𝐃𝐞𝐬𝐢𝐠𝐧 𝐓𝐚𝐭𝐭𝐨𝐨𝐬
+    bio: >-
+      For Appointments Text 702-297-6079 📲 • @Robert_Pho & SDT Family • Caesars Palace • LV • HI • NYC • OC • Nashville • Tokyo 🇯🇵
+    location: "United States"
+    followers: 112053
+    engagement: 38
+    commentsToLikes: 0.017477
+    id: ck55j59zewaos0i11v0js86qv
+    verified: false
+    hashtags: "#klarna, #lv, #smile, #honolulutattooshop"
   - username: "inked.exclusives"
     fullname: >-
       
@@ -102,29 +126,5 @@ profiles:
     commentsToLikes: 0.005890
     id: ck6ude3crkkev0j71bu35gkv8
     verified: false
-    hashtags: "#blackworktattoo, #tattoosleeve, #tattoos, #houstontattooartist"
-  - username: "atrainlanier"
-    fullname: >-
-      ᴀᴜsᴛɪɴ ʟᴀɴɪᴇʀ
-    bio: >-
-      757 ✈️🌎
-    location: "United States"
-    followers: 37070
-    engagement: 602
-    commentsToLikes: 0.051115
-    id: ck0tzmo84qx8s0i19agjmhhlw
-    verified: false
-    hashtags: "#schoolspeaker, #god, #crowdsurfing, #hope"
-  - username: "watchintheknowcreative"
-    fullname: >-
-      In The Know Creative
-    bio: >-
-      Bringing you the best in art, design, and creativity from across the globe.
-    location: "United States"
-    followers: 48885
-    engagement: 131
-    commentsToLikes: 0.010265
-    id: ck0w6gucv8hwy0i19nr2ljwxd
-    verified: false
-    hashtags: "#shotoniphone, #linkinbio, #oddlysatisfying, #suelymedeiros"
+    hashtags: "#blacktattooart, #blackwork, #btattooing, #tattooart"
 ---

@@ -1,12 +1,48 @@
 ---
-title: Top 10 Beauty Instagram Influencers In San Diego In 2023
+title: Top 10 Beauty Instagram Influencers In San Diego In 2024
 description: >-
-  Find top beauty Instagram influencers in San Diego in 2023. Most popular hashtags: #sandiego #beauty #makeup.
+  Find top beauty Instagram influencers in San Diego in 2024. Most popular hashtags: #sandiego #makeup #beauty #photography.
 platform: Instagram
-hits: 135
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 135 Instagram influencers like this in San Diego, United States for you to connect with.
+hits: 176
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 176 Instagram influencers like this in San Diego, United States for you to collaborate.
 profiles:
+  - username: "lovely50s"
+    fullname: >-
+      💋𝓐 𝓭𝓭𝓲𝓮 𝓥𝓮𝓮 𝓞𝓻𝓽𝓮𝓪𝓼𝓮
+    bio: >-
+      💄PinUp ⚓San Diego 🏋‍♀️Fitness🦋Lupus 💈Wife👑🦈🐾Momma ✨Legacy Passholder 🌹𝕮𝖍𝖎𝖈𝖆𝖓𝖆
+    location: "United States"
+    followers: 33809
+    engagement: 115
+    commentsToLikes: 0.071956
+    id: ck5zj9dach6k90i14uhpubgpe
+    verified: false
+    hashtags: "#memes, #oldschool, #chicana, #lowrider"
+  - username: "yuya_beauty"
+    fullname: >-
+      ･Yuya T. Tun･
+    bio: >-
+      Professional Makeup Artist 📩For bookings/pricing Inquiries: yuyaSbeauty@gmail.com 📍Denver ✖️ LA
+    location: "United States"
+    followers: 2864
+    engagement: 1498
+    commentsToLikes: 0.067083
+    id: ck5zn2p6uno1u0i14wt2jky1k
+    verified: false
+    hashtags: "#professional, #eyeliner, #losangeles, #stylist"
+  - username: "alexiismua"
+    fullname: >-
+      Alexis • Makeup Tutorials
+    bio: >-
+      lash swatches & makeup tutorials⚡️ ceo of @athenalashco 💕 ucsd | AEΦ 🕊 jordanian 🇯🇴
+    location: "United States"
+    followers: 18797
+    engagement: 215
+    commentsToLikes: 0.188352
+    id: ck5c4r2521x1s0i11sm7jg7j5
+    verified: false
+    hashtags: "#cutcrease, #underratedmuas, #muasfeature, #makeupprogress"
   - username: "kortneys_life"
     fullname: >-
       Kortney | OOTD
@@ -19,30 +55,54 @@ profiles:
     id: ck14kxgbnrt2w0i19sj5y2rom
     verified: false
     hashtags: "#cybermonday, #blackfriday"
-  - username: "orennicks"
+  - username: "hydrobeauty"
     fullname: >-
-      Olivia Rennicks
+      Makeup Artist
     bio: >-
-      Work Hard | Travel | Succeed | Be Kind | Stay Humble ✨ MA • SD 📍
+      D A N I E L L E 📍Find Me At Sephora #fashionvalley Portfolio👉🏼@hydro_mua #crayoncutie #benefitclubpink PR: leivadanielle@yahoo.com @boxycharm link⬇️
     location: "United States"
-    followers: 2880
-    engagement: 1120
-    commentsToLikes: 0.050528
-    id: ck8t1j8d6vze60j783hxuj4fj
+    followers: 6181
+    engagement: 121
+    commentsToLikes: 0.205237
+    id: ck6uda04vjwfo0j71ztoo8lcm
     verified: false
-    hashtags: "#goodtimes, #memories, #mexico, #love"
-  - username: "madisonmiller"
+    hashtags: "#makeupartist, #giftedbyboxy, #beautycreations, #mua"
+  - username: "briannanicolexoxo"
     fullname: >-
-      Madison Miller
+      ⠀⠀⠀ᗷᖇIᗩᑎᑎᗩ ᑎIᑕOᒪE
     bio: >-
-      🌴San Diego Beauty, Mommy, & Lifestyle Vlogger YouTube: Madison Miller (500k+) & Life of Maddy (200k+) Email: madison@slashmgmt.com
+      Founder of @mental.mondayz 🧠 📍San Diego/LA Snap: Breesargee @bangenergy 💥
     location: "United States"
-    followers: 111038
-    engagement: 190
-    commentsToLikes: 0.105905
-    id: ck5znutixp70q0i147n0jtgm5
+    followers: 154765
+    engagement: 302
+    commentsToLikes: 0.054730
+    id: ck6tt6ul28y310j71e1skngze
     verified: false
-    hashtags: "#newmakeuplaunches, #toddlersofinstagram, #madisonmiller, #newbeautylaunches"
+    hashtags: "#revolvearoundtheworld, #revolve, #yandyswim, #revolvesummer"
+  - username: "kristenxleanne"
+    fullname: >-
+      Kristen Leanne
+    bio: >-
+      🌸 Fire Wife • Pregnant Mama • Real Life Shit • TMI • Beauty • Hair • Animals 🇺🇸 San Diego + Nashville @kristenleannimal kristen@infagency.com
+    location: "United States"
+    followers: 704560
+    engagement: 139
+    commentsToLikes: 0.014633
+    id: ck13abczwpk6s0i19oxuq11ue
+    verified: true
+    hashtags: "#kristenleanne, #kristenxleanne, #pregnancy, #nailinspo"
+  - username: "vanezznezz"
+    fullname: >-
+      Vanessa Etheridge
+    bio: >-
+      tall & curvy fashion inspo with a beauty sprinkle 🤎 san diego | LA 🌞 ✉️ hello@vanezznezz.com
+    location: "United States"
+    followers: 415009
+    engagement: 86
+    commentsToLikes: 0.105353
+    id: cks10ox2l2a830j239pthjznk
+    verified: false
+    hashtags: "#size14style, #plussizefashion, #sandiegolife, #midsizefashion"
   - username: "allixreyes"
     fullname: >-
       Allizeth Reyes (Alli)
@@ -54,77 +114,17 @@ profiles:
     commentsToLikes: 0.017260
     id: ckap8rqevpkvm0i788yrj3q1r
     verified: false
-    hashtags: "#sandiegostylist, #sandiego, #blonde, #bestfriend"
-  - username: "organicoracle"
+    hashtags: "#blonde, #sandiego, #sandiegostylist, #sandycheeks"
+  - username: "sandiego.city"
     fullname: >-
-      Jeannine - Organic Oracle
+      Official San Diego Page
     bio: >-
-      Clean Beauty + Luxurious Lifestyle San Diego, California USA 👋💌 DM or email for Collab inquiries organicoraclemail@gmail.com
+      ♦️Tᴀɢ Us: @sandiego.city ♦️Hᴀsʜᴛᴀɢ Us: #sandiegocity ♦️Gᴏᴀʟ: #500 #500kfollowers ♦️Sʜᴀʀᴇ ᴀɴᴅ Rᴇᴘᴏsᴛ:🔁🔄 ♦️Nᴇᴡ Pᴏsᴛ Eᴠᴇʀʏ Dᴀʏ:📲📸 🔺SAN DIEGO CITY
     location: "United States"
-    followers: 39419
-    engagement: 314
-    commentsToLikes: 0.143563
-    id: ck6u7nxmtmn300j719ran25gm
+    followers: 141622
+    engagement: 224
+    commentsToLikes: 0.011488
+    id: ck5pvukg1jpio0i11o1rgzzx5
     verified: false
-    hashtags: ""
-  - username: "thisisdavidlee"
-    fullname: >-
-      David Lee
-    bio: >-
-      Film, music, photography, dreams, life. Los Angeles ↔ San Diego Texas State U
-    location: "United States"
-    followers: 22744
-    engagement: 323
-    commentsToLikes: 0.022424
-    id: ck5hdsrlnp6uo0i113e4e1ap1
-    verified: false
-    hashtags: "#window, #hotel, #sonyalpha, #fitchicks"
-  - username: "michmilla"
-    fullname: >-
-      MICHELLE
-    bio: >-
-      Content Creator - San Diego Lifestyle | Beauty | Motherhood michannemilla@gmail.com
-    location: "United States"
-    followers: 9040
-    engagement: 299
-    commentsToLikes: 0.247523
-    id: ck0uet3z3m67h0i19il3o9bt2
-    verified: false
-    hashtags: "#ad, #settingpowder, #igbeautyblogger, #beautybasics"
-  - username: "sassandsun"
-    fullname: >-
-      STEPH | MOM + STYLE BLOGGER
-    bio: >-
-      wife + mama + labor & delivery nurse + content creator everyday outfits, neutral style beauty + mom life in San Diego shop my looks+read the latest👇🏼
-    location: "United States"
-    followers: 25237
-    engagement: 54
-    commentsToLikes: 0.306824
-    id: ck0w13f06hd9e0i19cm0l0rcp
-    verified: false
-    hashtags: "#falltrends, #howtowearit, #ltkseasonal, #rewardstyleblogger"
-  - username: "beautyandthebenchpress"
-    fullname: >-
-      j e n  l o p e z
-    bio: >-
-      Hi! Glad you stopped by! 👋🏼 🥑I make healthy recipes 💕lover of beauty products & horror movies 📍 San Diego 👇🏼click here!
-    location: "United States"
-    followers: 52174
-    engagement: 90
-    commentsToLikes: 0.039652
-    id: ck5zr2eyvvroq0i1429u29lv6
-    verified: false
-    hashtags: "#makeup, #beautyandthebenchpress, #fivehead, #mondaywhere"
-  - username: "biancaalcazar"
-    fullname: >-
-      BIANCA ALCÁZAR 💫
-    bio: >-
-      Chief Beauty Innovator @MoxieLash @lashies Makeup Artist 💄 Made in 🇵🇷
-    location: "United States"
-    followers: 21577
-    engagement: 115
-    commentsToLikes: 0.180649
-    id: ck0u7q2if5get0i19mjj9c6k5
-    verified: false
-    hashtags: "#sandiego, #lulus, #dresswithstyle, #jevasapoyandojevas"
+    hashtags: "#downtown, #sd, #mastershots, #californiadreaming"
 ---

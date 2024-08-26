@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Belgium In 2023
+title: Top 10 Models TikTok Influencers In Belgium In 2024
 description: >-
-  Find top models TikTok influencers in Belgium in 2023. Most popular hashtags: #foryou #pourtoi #fyp #model.
+  Find top models TikTok influencers in Belgium in 2024. Most popular hashtags: #foryou #pourtoi #fyp #model.
 platform: TikTok
 hits: 14
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our database aggregates 14 TikTok influencers like this in Belgium for you to contact.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 14 TikTok influencers like this in Belgium for you to collaborate.
 profiles:
   - username: "hennyseroeyen"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.046217
     id: ck9flmorloqr70j78bnfjydvl
     verified: false
-    hashtags: "#foryou, #handmade, #smallbusiness, #fyp"
+    hashtags: "#summer, #pourtoi, #foryou, #handmade"
   - username: "hasamm777"
     fullname: >-
       ◣🅗🇮🇶🅢◢

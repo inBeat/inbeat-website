@@ -1,24 +1,48 @@
 ---
-title: Top 10 Fitness Instagram Influencers In San Diego In 2023
+title: Top 10 Fitness Instagram Influencers In San Diego In 2024
 description: >-
-  Find top fitness Instagram influencers in San Diego in 2023. Most popular hashtags: #sandiego #fitness #california.
+  Find top fitness Instagram influencers in San Diego in 2024. Most popular hashtags: #sandiego #fitness #workout.
 platform: Instagram
-hits: 166
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 166 Instagram influencers like this in San Diego, United States for you to pitch.
+hits: 204
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 204 Instagram influencers like this in San Diego, United States for you to pitch.
 profiles:
-  - username: "selenaenriquez_"
+  - username: "realnursekelley"
     fullname: >-
-      Selena
+      Kelley Johnson
     bio: >-
-      FITNESS ❌ LIFESTYLE Personal training (Private gym in San Diego) Owner of @selactivesquad
+      ✨ Head of Digital Marketing 👩🏼‍⚕️ Master’s of Science in Nursing 👑 Miss California USA 📍 San Diego, CA
     location: "United States"
-    followers: 8997
-    engagement: 520
-    commentsToLikes: 0.041259
-    id: ck0uchvvwgvuj0i1915shpyo1
+    followers: 288207
+    engagement: 86
+    commentsToLikes: 0.022199
+    id: cksfnihmco2ee0j234561w33j
     verified: false
-    hashtags: "#workouts, #fitness, #sandiego, #partnerworkouts"
+    hashtags: "#nurse, #travel, #love, #adventure"
+  - username: "lotsoftotss"
+    fullname: >-
+      Tatiana Koval | Fitness
+    bio: >-
+      💫Taking a Spiritual Approach to Fitness 🧘🏽‍♀️ Yoga Instructor 🌈Nutrition Coach 🌏Online Personal Trainer 🦋 Transformation Specialist
+    location: "United States"
+    followers: 22869
+    engagement: 161
+    commentsToLikes: 0.115396
+    id: ck6u9c8l1wpj10j71qvj9ymub
+    verified: false
+    hashtags: "#wellness, #personaltrainersandiego, #weightlosstransformation, #personaltrainerssandiego"
+  - username: "luke_hartelust"
+    fullname: >-
+      Luke Hartelust
+    bio: >-
+      🚀 Founder @getmnly 🌐 Partner @pulpculturejuice @othership 💡 Advisor @flowst8official @brandsofparadise GET 10% OFF MNLY HERE👇🏽👇🏽👇🏽
+    location: "United States"
+    followers: 21637
+    engagement: 91
+    commentsToLikes: 0.111246
+    id: ck5bxrg8goa7k0i119iljq98o
+    verified: false
+    hashtags: "#athlete, #ceo, #mensmentalhealth, #mnly"
   - username: "crystalv__"
     fullname: >-
       
@@ -54,19 +78,43 @@ profiles:
     commentsToLikes: 0.027592
     id: ckaot600vuj5g0i78voe196rx
     verified: false
-    hashtags: "#geoduck, #pnw, #laketahoe, #oystering"
-  - username: "lovely50s"
+    hashtags: "#pnw, #leavenworthwashington, #laketahoe, #clamming"
+  - username: "selenaenriquez_"
     fullname: >-
-      💋𝓐 𝓭𝓭𝓲𝓮 𝓥𝓮𝓮 𝓞𝓻𝓽𝓮𝓪𝓼𝓮
+      Selena
     bio: >-
-      💄PinUp ⚓San Diego 🏋‍♀️Fitness🦋Lupus 💈Wife👑🦈🐾Momma ✨Legacy Passholder 🌹𝕮𝖍𝖎𝖈𝖆𝖓𝖆
+      FITNESS ❌ LIFESTYLE Personal training (Private gym in San Diego) Owner of @selactivesquad
     location: "United States"
-    followers: 33809
-    engagement: 115
-    commentsToLikes: 0.071956
-    id: ck5zj9dach6k90i14uhpubgpe
+    followers: 8997
+    engagement: 520
+    commentsToLikes: 0.041259
+    id: ck0uchvvwgvuj0i1915shpyo1
     verified: false
-    hashtags: "#motivation, #summervibes, #pinup, #disneyland"
+    hashtags: "#fitness, #workouts, #sandiego, #stayconsistent"
+  - username: "makemoveswithjonas"
+    fullname: >-
+      Jonas J. 🇵🇭🇨🇳| IFBB PRO
+    bio: >-
+      The Man With The Plan 🏅@teammakemoves ⭕️ Olympian | 🇺🇸 Mr. USA’s 20’ 🐺 @darcsport “Jonas” 🧪 @globalformulas “Jonas” 🍩 @crumb_protein_doughnuts
+    location: "United States"
+    followers: 60180
+    engagement: 311
+    commentsToLikes: 0.032496
+    id: ckned11gnqz2x0j23npld490q
+    verified: false
+    hashtags: "#gymmotivation, #muscles, #exercise, #teammakemoves"
+  - username: "jennjade_"
+    fullname: >-
+      Jennifer Steen
+    bio: >-
+      
+    location: "United States"
+    followers: 55391
+    engagement: 179
+    commentsToLikes: 0.079878
+    id: ckap4iq1g7jyv0i78w4phsfv4
+    verified: false
+    hashtags: "#bikini, #fitness, #bikinimodel, #sandiego"
   - username: "savannahbleur"
     fullname: >-
       Savannah Bleu
@@ -79,52 +127,4 @@ profiles:
     id: ck5qd39i0tltk0i111fe24dj9
     verified: false
     hashtags: ""
-  - username: "timlambesis"
-    fullname: >-
-      Tim Lambesis
-    bio: >-
-      Starting over. 🎤 @asilaydying songwriter grateful person addiction recovery supporter mental health advocate fitness enthusiast ☀️ San Diego
-    location: "United States"
-    followers: 39002
-    engagement: 1740
-    commentsToLikes: 0.028404
-    id: ck5c93bgtapbc0i11gn1a0urn
-    verified: true
-    hashtags: "#4thofjuly"
-  - username: "hmillerfit"
-    fullname: >-
-      Hannah Miller Gonzalez
-    bio: >-
-      Simplifying A Fitness Lifestyle™ 🌴 San Diego, CA 💪🏽 Personal Training & Online Coaching TikTok: @hmillerfitness
-    location: "United States"
-    followers: 47925
-    engagement: 399
-    commentsToLikes: 0.028294
-    id: ck15u8gjhlxlg0i19p4laa1j3
-    verified: false
-    hashtags: "#carbsandcompounds, #chinups, #strengthtrainingforwomen, #gymtip"
-  - username: "stokedd"
-    fullname: >-
-      Erica Stokes
-    bio: >-
-      Out looking for rainbows in all this rain 🤍
-    location: "United States"
-    followers: 17506
-    engagement: 427
-    commentsToLikes: 0.026445
-    id: ck6ug61t5149i0j71odcaxwde
-    verified: false
-    hashtags: "#fitgirls, #goodvibes, #fitness, #socal"
-  - username: "ashleysprankles"
-    fullname: >-
-      Ashley Sprankles
-    bio: >-
-      Photography 📸 𝕀’𝕞 𝕡𝕣𝕠𝕓𝕒𝕓𝕝𝕪 𝕠𝕟 𝕋𝕚𝕜𝕋𝕠𝕜! [She/They]🌈•Dog Mom T💓Z ♥ 𝕯𝖔𝖓𝖚𝖙 𝖈𝖔𝖓𝖓𝖔𝖎𝖘𝖘𝖊𝖚𝖗 🍩
-    location: "United States"
-    followers: 93043
-    engagement: 111
-    commentsToLikes: 0.042942
-    id: ck13d2c203ba70i19cv94n42v
-    verified: false
-    hashtags: "#sdphotographer, #mukbang, #portrait, #sandiego"
 ---

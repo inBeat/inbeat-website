@@ -1,24 +1,24 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Vancouver In 2023
+title: Top 10 Nutrition Instagram Influencers In Vancouver In 2024
 description: >-
-  Find top nutrition Instagram influencers in Vancouver in 2023. Most popular hashtags: #fitness #fitnessmotivation #healthylifestyle #motivation.
+  Find top nutrition Instagram influencers in Vancouver in 2024. Most popular hashtags: #fitnessmotivation #healthylifestyle #fitness #motivation.
 platform: Instagram
-hits: 13
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 13 Instagram influencers like this in Vancouver, Canada for you to connect with.
+hits: 15
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 15 Instagram influencers like this in Vancouver, Canada for you to connect with.
 profiles:
-  - username: "melissamerk"
+  - username: "des_lifts_"
     fullname: >-
-      MELISSA MERK
+      𝐃𝐞𝐬𝐩𝐢𝐧𝐚 𝐒𝐭𝐚𝐢𝐤𝐨𝐬 🦋
     bio: >-
-      📍 Vancouver , Canada 📚 holistic nutrition 🐶 dog mom @tikatheaussie 🎬 new YT video every Monday 📩melissa@infagency.com
+      👙 CPA Bikini ➡️ Road to Wellness ✨ Be better than yesterday 💪🏼 @teamludachris Athlete 💥 @popeyesburnaby_coquitlam Ambassador
     location: "Canada"
-    followers: 89239
-    engagement: 398
-    commentsToLikes: 0.009295
-    id: ck0vv6qk1nsgx0i19k4xey9r7
-    verified: true
-    hashtags: "#summerofcupcake, #cupcakelighthearted, #choosejoy, #ad"
+    followers: 3475
+    engagement: 1081
+    commentsToLikes: 0.075894
+    id: ck8t3t42s4e680j788uwc3b0d
+    verified: false
+    hashtags: "#body, #noexcuses, #squats, #fitnessfreaks"
   - username: "wil.loh"
     fullname: >-
       WILSON LOH | VANCOUVER FITNESS
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.023499
     id: ck14gk5qo5mva0i19oibx2zo2
     verified: false
-    hashtags: "#swimbikerunworld, #swimming, #bike, #instadaily"
+    hashtags: "#competing, #feelgoodfuel, #bike, #instafitnes"
   - username: "nicolehutchinson__"
     fullname: >-
       Nicole Michaela Hutchinson
@@ -66,19 +66,31 @@ profiles:
     commentsToLikes: 0.022597
     id: ck8tbattpuya00j780g1d4ydo
     verified: false
-    hashtags: "#aestheticfashion, #thevisualmag, #photography, #aesthetica"
-  - username: "lindsaypleskot"
+    hashtags: "#beachshoot, #aestheticfashion, #aestheticposts, #kpopcover"
+  - username: "desireenielsenrd"
     fullname: >-
-      Dietitian |Nutritionist | Mom
+      Desiree Nielsen RD
     bio: >-
-      Let's #makefoodfeelgood! Mindful eating & nutrition for a lifelong feel good relationship with food & your body. 🍋 6 Week MFFG Program 🥑 Meal Plans
+      Plant-based nutrition + flavourful recipes 2x Bestselling 📚 🎧@theallsortspod PREORDER PLANT MAGIC 🪄 today! ⬇️
     location: "Canada"
-    followers: 18932
-    engagement: 159
-    commentsToLikes: 0.256294
-    id: ck6u7wtt9o4a30j71vmkqsh14
+    followers: 57337
+    engagement: 292
+    commentsToLikes: 0.095262
+    id: ck0vuwz0wmjiq0i19n8tgpge0
     verified: false
-    hashtags: "#thatmomlife, #vancouvermoms, #vancouverbloggers, #proteinpacked"
+    hashtags: "#plantbasedrecipes, #veganfood, #easyveganrecipes, #plantmagicbook"
+  - username: "iwillgetlean"
+    fullname: >-
+      Tanvi Parikh | Fitness, Mindset & Nutrition
+    bio: >-
+      Founder @tnvmethod Doing fitness the right way since 7 years Crossfit L1, NASM Certified Fitness & Nutrition Coach
+    location: "Canada"
+    followers: 217373
+    engagement: 18
+    commentsToLikes: 0.013193
+    id: ck1376q5wa2bx0i19o38g40m1
+    verified: false
+    hashtags: "#fitnessjourney, #mentalhealth, #fitspo, #legday"
   - username: "vancouversveryown"
     fullname: >-
       Brandon Nair | DJ Nizzy 🇫🇯🌺
@@ -90,41 +102,29 @@ profiles:
     commentsToLikes: 0.068972
     id: ck13b1trvt9wo0i19cb8j91bu
     verified: false
-    hashtags: "#exercise, #fitnessmotivation, #getfit, #health"
-  - username: "des_lifts_"
+    hashtags: "#me, #photography, #gym, #fitness"
+  - username: "super_singh1313"
     fullname: >-
-      𝐃𝐞𝐬𝐩𝐢𝐧𝐚 𝐒𝐭𝐚𝐢𝐤𝐨𝐬 🦋
+      SUPER SINGH WNBF PRO | TRANSFORMATION COACH
     bio: >-
-      👙 CPA Bikini ➡️ Road to Wellness ✨ Be better than yesterday 💪🏼 @teamludachris Athlete 💥 @popeyesburnaby_coquitlam Ambassador
+      👉🏻Natural Athlete💪🏽 👉🏻WNBF Canada PRO 🥇 👉🏻APU,Canada🇨🇦-Grand lift open champion74kg🥇 👉🏻 15 years of experience in Fitness 💪🏽 👉🏻Certified Trainer
     location: "Canada"
-    followers: 3475
-    engagement: 1081
-    commentsToLikes: 0.075894
-    id: ck8t3t42s4e680j788uwc3b0d
+    followers: 67078
+    engagement: 1223
+    commentsToLikes: 0.016981
+    id: ck8wfmbvrfxo90j78i0xupp5v
     verified: false
-    hashtags: "#bootybuilding, #whateverittakes, #fitnessmodel, #nopainnogain"
-  - username: "stevibreezy"
+    hashtags: "#gymtime, #bodybuilder, #healthylifestyle, #ufitcrossfit"
+  - username: "emmybikini"
     fullname: >-
-      Stevi Schnoor
+      Emily Adams | Fitness & Nutrition Coach
     bio: >-
-      #theBULL 🏈3x🇺🇸 National 🏆, 1x🇨🇦 National 🏆 🏉🇨🇦Rugby League World Cup Athlete ‘17 💙Fulfilling my dreams while trying to inspire greatness in others
+      Personal Training |Lifestyle |Bikini Prep • @officialbetterbodies @purevitalabs • Let me help you step into your most confident self ✨⬇️
     location: "Canada"
-    followers: 20710
-    engagement: 202
-    commentsToLikes: 0.060351
-    id: ck6uhok1oabma0j71bhar371d
+    followers: 16105
+    engagement: 134
+    commentsToLikes: 0.078937
+    id: cl4f69g1jq8zo0i23p6smt7gt
     verified: false
-    hashtags: "#nikewomen, #wellness, #nutrition, #nikeaddict"
-  - username: "joeysplate"
-    fullname: >-
-      Joelle LMP8 | BC 🇨🇦
-    bio: >-
-      Vegan recipe developer & photographer NFT artist Herbal medicine student 📺 Le meilleur pâtissier / La belle vie
-    location: "Canada"
-    followers: 31961
-    engagement: 235
-    commentsToLikes: 0.055934
-    id: ck0vwkrs7uaaq0i19tizrwxmb
-    verified: false
-    hashtags: "#sonyalpha, #roamtheplanet, #eatplants, #nightphotography"
+    hashtags: "#leadbyexample, #poweredbypvl, #confidence, #selflove"
 ---

@@ -1,24 +1,12 @@
 ---
-title: Top 10 Models TikTok Influencers In New York In 2023
+title: Top 10 Models TikTok Influencers In New York In 2024
 description: >-
-  Find top models TikTok influencers in New York in 2023. Most popular hashtags: #newyork #fyp #model #nyc.
+  Find top models TikTok influencers in New York in 2024. Most popular hashtags: #newyork #fyp #model #nyc.
 platform: TikTok
-hits: 88
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 88 TikTok influencers like this in New York, United States for you to connect with.
+hits: 83
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our database has 83 TikTok influencers like this in New York, United States for you to work with.
 profiles:
-  - username: "byjessicaweiss"
-    fullname: >-
-      Jessica
-    bio: >-
-      Writer She/Her 24 I’m a blogger and I post NYC event coverage
-    location: "United States"
-    followers: 101100
-    engagement: 1005
-    commentsToLikes: 0.041986
-    id: ck8j6d4ub980r0j78wkbrd817
-    verified: false
-    hashtags: "#nyc, #model, #newyork, #fyp"
   - username: "maggieyes"
     fullname: >-
       Maggie Yes
@@ -31,6 +19,18 @@ profiles:
     id: ck8j8yyxuky8n0j78dfjge92t
     verified: false
     hashtags: "#nyc, #model, #newyork, #view"
+  - username: "byjessicaweiss"
+    fullname: >-
+      Jessica
+    bio: >-
+      Writer She/Her 24 I’m a blogger and I post NYC event coverage
+    location: "United States"
+    followers: 101100
+    engagement: 1005
+    commentsToLikes: 0.041986
+    id: ck8j6d4ub980r0j78wkbrd817
+    verified: false
+    hashtags: "#tbt, #fashion, #fyp, #nyc"
   - username: "sunainabhagisb"
     fullname: >-
       Sunaina Bhagi
@@ -43,18 +43,6 @@ profiles:
     id: ckbwjfosa3jji0j23kdgxx6ip
     verified: false
     hashtags: "#christmas, #love, #bagelbopscontest, #sky"
-  - username: "bentleymescall"
-    fullname: >-
-      BENTLEY MESCALL
-    bio: >-
-      NYC 🦋 IMG Models Worldwide 🦋 ⇩ YOUTUBE CHANNEL ⇩
-    location: "United States"
-    followers: 239800
-    engagement: 2094
-    commentsToLikes: 0.007430
-    id: ckcekzi52uktu0j232agh7h3k
-    verified: false
-    hashtags: "#nyc, #foryou, #imgmodels, #modeltok"
   - username: "shotzbyalex"
     fullname: >-
       Alex Frank
@@ -79,30 +67,30 @@ profiles:
     id: ck9aaylbqmlmx0j78f0wepbvx
     verified: false
     hashtags: "#newyork, #model, #style, #fit"
-  - username: "emmymercado"
+  - username: "briscalesse"
     fullname: >-
-      Emmy M
+      briscalesse
     bio: >-
-      a little bit of everything ✨ $EmilyDancer
+      model, disability advocate, NYC ✨ insta: @briscalesse
     location: "United States"
-    followers: 36800
-    engagement: 1314
-    commentsToLikes: 0.055462
-    id: cka66lfu4hehl0i7835nyz4r5
+    followers: 438000
+    engagement: 1477
+    commentsToLikes: 0.022765
+    id: ck8ndykrcl9r50j78848sl8n3
     verified: false
-    hashtags: "#fyp, #xyzbca, #latina, #silouhettechallenge"
-  - username: "trini180528"
+    hashtags: "#ontherunway, #fyp, #newyork, #model"
+  - username: "jessicamarkowski"
     fullname: >-
-      Maria Roman
+      JessicaMarkowski
     bio: >-
-      Fans🙏🇩🇴artistas,amor, paz, respecto.Amo todos los seres vivos. Reírse.🦜🐕➕🎶
+      Fashion Model. Actress. Verified Instagramer. @jessicamarkowski
     location: "United States"
-    followers: 199500
-    engagement: 637
-    commentsToLikes: 0.036545
-    id: ck9eocrw3nn1m0j78biactf4u
+    followers: 2518
+    engagement: 1256
+    commentsToLikes: 0.046796
+    id: ckd18hserpzgo0j23co9q0vt5
     verified: false
-    hashtags: "#trap, #viral, #baby, #latin"
+    hashtags: "#streamlive, #fyp, #fouryourpage, #skin"
   - username: "kahanucu"
     fullname: >-
       Kahanu Cuban
@@ -127,4 +115,16 @@ profiles:
     id: ck90xz1nv8md70j78l306lmua
     verified: false
     hashtags: "#yungblud, #xyzcba, #triptok, #dumptrump"
+  - username: "newyorktiffany"
+    fullname: >-
+      newyorktiffany
+    bio: >-
+      NYC born and raised 🗽 Instagram @newyorktiffany Stone Model Management
+    location: "United States"
+    followers: 5485
+    engagement: 885
+    commentsToLikes: 0.060513
+    id: ck9tu8ry6k6zk0j78vmecor84
+    verified: false
+    hashtags: "#nyc, #nj, #fyp, #fy"
 ---

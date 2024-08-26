@@ -1,12 +1,60 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In Brazil In 2023
+title: Top 10 Hair Dressers Instagram Influencers In Brazil In 2024
 description: >-
-  Find top hair dressers Instagram influencers in Brazil in 2023. Most popular hashtags: #dress #hair #love #dresses.
+  Find top hair dressers Instagram influencers in Brazil in 2024. Most popular hashtags: #love #hair #makeup #dress.
 platform: Instagram
-hits: 11
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 11 Instagram influencers like this in Brazil for you to connect with.
+hits: 15
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: inBeat has 15 Instagram influencers like this in Brazil for you to contact.
 profiles:
+  - username: "luaralugli"
+    fullname: >-
+      Luara Lugli
+    bio: >-
+      & Atriz 🎭 | DRT: 0053413/SP • Influenciando você a viver uma vida mais leve, equilibrada e feliz 🤎
+    location: "Brazil"
+    followers: 259468
+    engagement: 114
+    commentsToLikes: 0.019162
+    id: ck5zq1280tq9p0i14nrgegvxr
+    verified: false
+    hashtags: "#sa, #bbbondbuilding, #bumbleandbumblebr, #hairdressersinvisibleoil"
+  - username: "juliorocha_"
+    fullname: >-
+      Julio Rocha
+    bio: >-
+      🎁Família, feliz 2024 🦸🏽‍♂️Pai de 3 👶🏻👦🏼🧒🏽 📍São Paulo 📲 ‪(11) 99021-4848‬
+    location: "Brazil"
+    followers: 3798339
+    engagement: 237
+    commentsToLikes: 0.041770
+    id: ck0vwf0vktdqy0i19tj86vswb
+    verified: true
+    hashtags: "#bebe, #filhos, #amor, #humor"
+  - username: "giovani_perinelli"
+    fullname: >-
+      Giovani Perinelli
+    bio: >-
+      ✂️ sua agenda cheia todos os dias! 🏆 proprietário de dois salões com faturamentos milionários 👇🏻 participe da JORNADA MECHAS PERFEITAS
+    location: "Brazil"
+    followers: 68995
+    engagement: 451
+    commentsToLikes: 0.045887
+    id: ck139tf3an0ux0i19xa7knsb5
+    verified: false
+    hashtags: "#loirosaudavel, #viral, #hair, #morenailuminada"
+  - username: "yslabrina"
+    fullname: >-
+      sabrina
+    bio: >-
+      📍 munich|augsburg 💌 follow your heart
+    location: "Brazil"
+    followers: 121123
+    engagement: 31
+    commentsToLikes: 0.000597
+    id: clncwt2yy99ge0j08tg6dvypt
+    verified: false
+    hashtags: "#inspo, #new, #makeup, #blogger"
   - username: "brunacuello"
     fullname: >-
       Bruna Cuello Vidotto
@@ -79,52 +127,4 @@ profiles:
     id: ck13ch5j90bli0i197tvu94qc
     verified: false
     hashtags: "#betterwithage, #caffeinated, #effortlessstyle, #fiftyandfabulous"
-  - username: "monikefreitas"
-    fullname: >-
-      Monike Freitas
-    bio: >-
-      🌻 Isaías 40:31 📺 Tv Ponta Verde-SBT | @tvpontaverdeoficial 🎤 Apresentadora do Tudo de Bom 📍PE | AL 👇🏻Saiba mais:
-    location: "Brazil"
-    followers: 16501
-    engagement: 946
-    commentsToLikes: 0.072536
-    id: ckaow9vxj7zqv0i78zp4ddr91
-    verified: false
-    hashtags: "#igdayly, #popularpic, #likelike, #friends"
-  - username: "luanna_charamba"
-    fullname: >-
-      Luanna_charamba
-    bio: >-
-      📍 Maringá PR ♑️ 2.6 ✨ Perfil pessoal 💼 Perfil profissional 👇🏻 @luannacharamba
-    location: "Brazil"
-    followers: 20039
-    engagement: 728
-    commentsToLikes: 0.024665
-    id: ck5hrj85yuyev0i1181gyt8d6
-    verified: false
-    hashtags: "#instagram, #vibes, #body, #makeup"
-  - username: "julianny.ferreira"
-    fullname: >-
-      Julianny Ferreira
-    bio: >-
-      •BR 📌MG 📢 PT//EN Modelo 👠♒ contato: julianny.ferreira@outlook.com.br
-    location: "Brazil"
-    followers: 4512
-    engagement: 1040
-    commentsToLikes: 0.099895
-    id: ckaoxn1r4dyku0i78kaskatdj
-    verified: false
-    hashtags: "#smileeveryday, #smile, #smiles, #photooftheday"
-  - username: "inesfdc"
-    fullname: >-
-      Inês de Castro
-    bio: >-
-      ♐️ •Porto, Portugal🇵🇹 •Tourism Management ✈️ • @nacozinhadeumauniversitaria ✨👩🏻‍🍳 • inesfcastro74@gmail.com
-    location: "Brazil"
-    followers: 4343
-    engagement: 1629
-    commentsToLikes: 0.034841
-    id: ck8sxqvaoibx10j78te4uevke
-    verified: false
-    hashtags: "#outfit, #mindfulness, #today, #beautifuldestinations"
 ---

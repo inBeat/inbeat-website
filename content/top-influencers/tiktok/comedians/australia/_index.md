@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Australia In 2023
+title: Top 10 Comedians TikTok Influencers In Australia In 2024
 description: >-
-  Find top comedians TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #comedy #duet #foryou.
+  Find top comedians TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #comedy #foryou #duet.
 platform: TikTok
-hits: 21
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our platform has 21 TikTok influencers like this in Australia for you to connect with.
+hits: 22
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 22 TikTok influencers like this in Australia for you to collaborate.
 profiles:
   - username: "lewspears"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.057041
     id: ckahz49up1wv20i78kwrci92i
     verified: false
-    hashtags: "#agt, #jjpantano, #howiemandel, #comedy"
+    hashtags: "#agt, #jjpantano, #howiemandel, #ausopen"
   - username: "luke.kidgell"
     fullname: >-
       luke.kidgell

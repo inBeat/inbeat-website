@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Argentina In 2023
+title: Top 10 Guitar TikTok Influencers In Argentina In 2024
 description: >-
-  Find top guitar TikTok influencers in Argentina in 2023. Most popular hashtags: #fyp #parati #foryou #guitar.
+  Find top guitar TikTok influencers in Argentina in 2024. Most popular hashtags: #fyp #parati #foryou #viral.
 platform: TikTok
-hits: 12
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: inBeat holds 12 TikTok influencers like this in Argentina for you to pitch.
+hits: 11
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 11 TikTok influencers like this in Argentina for you to work with.
 profiles:
   - username: "tusclasesdeguitarra"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       🇦🇷🇬🇧 Follow me on insta, i upload covers🤍 SPELL OUT NOW 🥰💕
     location: "Argentina"
-    followers: 44500
-    engagement: 1137
-    commentsToLikes: 0.031692
+    followers: 44200
+    engagement: 1369
+    commentsToLikes: 0.038349
     id: ckcdz3jerh0cg0j238n6090eo
     verified: false
-    hashtags: "#piano, #sing, #bodyissues, #voiceeffects"
+    hashtags: "#singer, #fyp, #sad, #parati"
   - username: "yamisafdie"
     fullname: >-
       yamisafdie
@@ -103,18 +103,6 @@ profiles:
     id: ckb9qihr4ml3v0j2387eq4c3j
     verified: false
     hashtags: "#humor, #xyzbca, #zorra, #parati"
-  - username: "diegopablo0"
-    fullname: >-
-      Diego Pablo
-    bio: >-
-      Solo Locura... 🤓
-    location: "Argentina"
-    followers: 3612
-    engagement: 514
-    commentsToLikes: 0.039009
-    id: ckbfik7mbegj70j23jtksgjdq
-    verified: false
-    hashtags: "#trending, #foryou, #follow, #siguiendo"
   - username: "yannickcohen"
     fullname: >-
       Yannick Cohen
@@ -127,4 +115,16 @@ profiles:
     id: ck901r883brka0j782ky8njby
     verified: false
     hashtags: "#parati, #comedia, #fyou, #fory"
+  - username: "india.thepitbull"
+    fullname: >-
+      India🐷
+    bio: >-
+      bienvenido!! te gustaria ser mi amigo? ❤🥺 ig: india.thepitbull
+    location: "Argentina"
+    followers: 808600
+    engagement: 2950
+    commentsToLikes: 0.113119
+    id: ckb91vh2ghvmp0j238apyvl0o
+    verified: false
+    hashtags: "#foryou, #fyp, #parati, #love"
 ---

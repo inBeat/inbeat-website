@@ -1,24 +1,24 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Cosmetics Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top cosmetics Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #cosmetics #beauty #dubai #eyeshadow.
+  Find top cosmetics Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #cosmetics #beauty #dubai #eyeshadow.
 platform: Instagram
-hits: 57
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 57 Instagram influencers like this in United Arab Emirates for you to contact.
+hits: 64
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 64 Instagram influencers like this in United Arab Emirates for you to work with.
 profiles:
-  - username: "dr.noorhedaya"
+  - username: "dr.aleenajijin"
     fullname: >-
-      DR. NOOR HEDAYAH
+      Aleena Jijin
     bio: >-
-      Cosmetic & General Dentist |BDS💉 UAE📍 Dentistry| Fashion | Beauty |mama-hood 🤓💄👶🏼💗 🇦🇪📞 (06) 522 7676
+      Cosmetic Dental Surgeon @dr.aleenajijindentistry UAE Licensed Blogger Fashion |Travel |Lifestyle Business Enquiries⬇️ aleenaalluz15@gmail.com
     location: "United Arab Emirates"
-    followers: 259978
-    engagement: 58
-    commentsToLikes: 0.039935
-    id: ck14kyewury6z0i19oy2hdzzu
+    followers: 288758
+    engagement: 180
+    commentsToLikes: 0.026166
+    id: ck9wg6qees5130j78fn8yy6di
     verified: false
-    hashtags: ""
+    hashtags: "#oman, #muscat, #reelsindia, #visitoman"
   - username: "pretty_tonia1_"
     fullname: >-
       👻 @prettytonia1 🧿
@@ -43,30 +43,42 @@ profiles:
     id: ck0tvpvlscc1q0i19vivzqz1o
     verified: false
     hashtags: "#resinacomposta, #orthodontics, #wedding, #porcelainveneers"
-  - username: "lillian.photographer"
-    fullname: >-
-      L   I    L    L    I    A    N
-    bio: >-
-      Beauty Photographer ✶ Retoucher Based in JORDAN 📍 / UAE اصور فقط موديلز 🙏 Contact direct or Whatsapp
-    location: "United Arab Emirates"
-    followers: 37684
-    engagement: 120
-    commentsToLikes: 0.137629
-    id: ck5zu7wsv1unn0i14nmyhnqfj
-    verified: false
-    hashtags: "#fashionista, #motd, #eyeshadow, #cosmetics"
   - username: "nabiha_fuqha_official"
     fullname: >-
-      💄N A B I H A | نبيهة الفقهاء
+      NABIEH ALFUGAHA
     bio: >-
-      ♦️Professional makeup artist اختصاص مكياج عرايس فقط❤️ ♦️snapchat: Nabiharafat 📍jordan , Dubai🇦🇪 📩 لحجوزات الميك اب واتسب فقط 0798047874
+      خبيره التجميل نبيهة الفقهاء 🇦🇪💄 Professional MUA, influencer,trainer تخصص عرايس وجروبات👰🏼 للحجوزات والدورات الفرديه والاعلانات واتساب⬇️
     location: "United Arab Emirates"
-    followers: 59799
-    engagement: 160
-    commentsToLikes: 0.029557
+    followers: 416489
+    engagement: 1052
+    commentsToLikes: 0.025413
     id: ck5zu7vrb1uma0i1479pyk26o
     verified: false
-    hashtags: "#art, #lipstick, #motd, #like"
+    hashtags: "#follow, #artist, #naturalmakeup, #glam"
+  - username: "lillian.photographer"
+    fullname: >-
+      Lilian jbarah
+    bio: >-
+      استقبل طلبات تصوير العروسات 🤍
+    location: "United Arab Emirates"
+    followers: 84475
+    engagement: 42
+    commentsToLikes: 0.071597
+    id: ck5zu7wsv1unn0i14nmyhnqfj
+    verified: false
+    hashtags: "#foryoupage, #valentines, #makeupjunkie, #wakeupandmakeup"
+  - username: "drdmontalvo"
+    fullname: >-
+      Dr. David Montalvo Arias
+    bio: >-
+      Aesthetic Dentistry
+    location: "United Arab Emirates"
+    followers: 82386
+    engagement: 86
+    commentsToLikes: 0.024161
+    id: ck138lmsbgu390i198uw4zm15
+    verified: false
+    hashtags: "#smilemakeover, #crownlengthening, #naturalveneers, #smile"
   - username: "alhadithystudio"
     fullname: >-
       ابراهيم الحديثيAlhadithy
@@ -115,16 +127,4 @@ profiles:
     id: ck6u70lbhirwx0j71rhw2a3ho
     verified: false
     hashtags: "#abudhabi, #skin, #scartreatment, #portugal"
-  - username: "drdmontalvo"
-    fullname: >-
-      Dr. David Montalvo Arias
-    bio: >-
-      Aesthetics | Implants | Periodontics Apa Aesthetic, Dubai, UAE dmontalvo@apaaesthetic.ae #Drdmontalvo #SmileExpert
-    location: "United Arab Emirates"
-    followers: 66405
-    engagement: 174
-    commentsToLikes: 0.020212
-    id: ck138lmsbgu390i198uw4zm15
-    verified: false
-    hashtags: "#naturalveneers, #cosmetic, #dentist, #dentistdubai"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Belgium In 2023
+title: Top 10 Lifestyle Instagram Influencers In Belgium In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Belgium in 2023. Most popular hashtags: #fashionblogger #fashion #ootdfashion.
+  Find top lifestyle Instagram influencers in Belgium in 2024. Most popular hashtags: #fashionblogger #belgianblogger #belgianinfluencer.
 platform: Instagram
-hits: 43
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our database holds 43 Instagram influencers like this in Belgium for you to work with.
+hits: 70
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 70 Instagram influencers like this in Belgium for you to contact.
 profiles:
+  - username: "norajoyness"
+    fullname: >-
+      Nora  🤍
+    bio: >-
+      FASHION~BEAUTY~LIFESTYLE 💄Beauty consultant @guerlain 📍Bruxelles Belgium Retrouvez tous mes liens ⤵️
+    location: "Belgium"
+    followers: 9466
+    engagement: 834
+    commentsToLikes: 0.270947
+    id: ck9wdomcogjpi0j78zjbf0hnj
+    verified: false
+    hashtags: "#luxurybrand, #concoursfrance, #prozis, #concoursbeaute"
   - username: "re.becc.a"
     fullname: >-
       REBECCA DE WEERDT  🤍
     bio: >-
-      Belgium | Fashion & lifestyle Bookings & social media inquiries - mail me ✉️ rebeccadw@skynet.be BE 0787.592.191
+      Belgium | Fashion & Lifestyle,.. UGC PORTFOLIO 👇🏼 ✉️ rebeccadw@skynet.be BE 0787.592.191
     location: "Belgium"
-    followers: 11026
-    engagement: 1129
-    commentsToLikes: 0.392103
+    followers: 10694
+    engagement: 667
+    commentsToLikes: 0.319060
     id: ck9haydsnekwm0j783ghxdhlu
     verified: false
-    hashtags: "#discoverunder10k, #ootdfashion, #instaootd, #summeraesthetic"
-  - username: "statiana.model"
+    hashtags: "#izipizicities, #ghddreamland, #gdhhairbenelux, #izipizi"
+  - username: "joy__puzzle"
     fullname: >-
-      Tatiana🎀
+      Justine
     bio: >-
-      🇧🇪 Belgian Model 📸 Portrait / Beauty / Lingerie / Lifestyle 📩 statiana.model@gmail.com 🎓 Luxury beauty advisor 🎂 23 Years 📍 Brussels
+      • J O Y﹒ Pᴜᴢᴢʟᴇ Lifestyle | Good Mood ﹒ Belgium - Liège 🇧🇪 ﹒ 📸 Piret_Justine ﹒ Vinted : Ju.pi5 ✨
     location: "Belgium"
-    followers: 46012
-    engagement: 682
-    commentsToLikes: 0.041315
-    id: ck8sxaggdgot90j78p5x5ww8u
-    verified: false
-    hashtags: "#sun, #sexy, #peach, #tuesday"
-  - username: "hi.itsjolienn"
-    fullname: >-
-      JOLIEN ✌🏻
-    bio: >-
-      💗 fashion - beauty - lifestyle content 🙋🏻‍♀️ psychology student @ugent 📍 Gent - Wevelgem 💬 itsjolienn@gmail.com
-    location: "Belgium"
-    followers: 10179
+    followers: 2285
     engagement: 722
-    commentsToLikes: 0.132551
-    id: ck5hhlx278wrn0i11oms8mi5w
+    commentsToLikes: 0.074623
+    id: ck6tz62bj7tw20j7129sd3514
     verified: false
-    hashtags: "#ad, #letsgreentheplanet, #myjewellerybelgium, #myjewellery"
-  - username: "celinemaufor"
+    hashtags: "#bergerallemand, #blackgermanshepherdsofinstagram, #enamoureux, #coucherdesoleil"
+  - username: "eloisebolly"
     fullname: >-
-      Céline Maufor
+      Eloïse | 🤍
     bio: >-
-      •Brussels •Fashion, food and lifestyle •Vinted:mauforceline •mauforceline@hotmail.com/DM
+      Lifestyle | Fashion Currently in 🇪🇸
     location: "Belgium"
-    followers: 13541
-    engagement: 497
-    commentsToLikes: 0.209256
-    id: ck14gsa5r6rv10i198hq8u1pl
+    followers: 20077
+    engagement: 883
+    commentsToLikes: 0.575189
+    id: cloxoheqg05xj0j08bqi72tyz
     verified: false
-    hashtags: "#ootd, #contest, #giveaway, #explore"
-  - username: "xzoelucas"
+    hashtags: "#nuitinsolite, #blond, #belgianinfluencer, #madrid"
+  - username: "dschft"
     fullname: >-
-      Zoë Lucas
+      Denys Schelfhaut
     bio: >-
-      ♡ 24Y ♡ belgium ♡ fashion,lifestyle and more ♡ horeca @bistrobar_koninckshof ♡ for collabs DM or mail ♡ Zoe.lucas97@hotmail.com
+      Photographer & Art Director @mcarnolds Fashion | Lifestyle | Commercial Contact — info@dschft.com Brussels / Paris
     location: "Belgium"
-    followers: 10908
-    engagement: 356
-    commentsToLikes: 0.068277
-    id: ck9hbe12ugett0j78lvofj2sg
+    followers: 17699
+    engagement: 648
+    commentsToLikes: 0.015040
+    id: ck0uco24jha2r0i19vy95gw57
     verified: false
-    hashtags: "#stylegram, #stylespo, #fashioninspo, #ootdmagazine"
-  - username: "eliengrosemans"
+    hashtags: "#pacorabanne, #findx3pro, #awakencolour, #findx3series"
+  - username: "eliemudiayi"
     fullname: >-
-      Elien Grosemans
+      Elie Mudiayi B. כריסטיאן
     bio: >-
-      📸 Belgian Content Creator 💄 Fashion, Beauty & Lifestyle 💌 Collab? Hit the e-mail button
+      Le bonheur est dans les choses simples 🔥 Healthy lifestyle Email for a collab 🙏🏽 #cokeambassador #ambassadorbasicfitbe #asosambassador 📍Bruxelles
     location: "Belgium"
-    followers: 26678
-    engagement: 192
-    commentsToLikes: 0.037558
-    id: ck136f5l466vt0i19gu5wjctb
+    followers: 28009
+    engagement: 385
+    commentsToLikes: 0.018991
+    id: ck0txd9w9itsl0i19idjac8vj
     verified: false
-    hashtags: "#anno1892, #virtualreception, #spashower, #noreception"
-  - username: "lafilleagateaux"
+    hashtags: "#fitnessaddict, #style, #zante, #fitness"
+  - username: "laura.oliveiragranja"
     fullname: >-
-      Kristel - Travel Blogger
+      𝐿𝑎𝑢𝑟𝑎 𝑂𝑙𝑖𝑣𝑒𝑖𝑟𝑎 𝐺𝑟𝑎𝑛𝑗𝑎
     bio: >-
-      Travel, lifestyle & food blogger 🌍 Content Creator | Story Teller | 📍Bxl but wanderlust spirit 🗺 Spending summer in #italy
+      Freelance Model | Fashion & Lifestyle Blogger | Personal Trainer @gofitwithlaura
     location: "Belgium"
-    followers: 33641
-    engagement: 254
-    commentsToLikes: 0.035338
-    id: ck13anyz9rbif0i198idr8gqq
+    followers: 18411
+    engagement: 345
+    commentsToLikes: 0.042292
+    id: ck6txv5tn019a0j71dktpndhx
     verified: false
-    hashtags: "#shein, #food, #cotebelge, #brussels"
-  - username: "valentinbruneau"
+    hashtags: "#outfitinspiration, #hkmambassador, #ootn, #blogger"
+  - username: "jemimv"
     fullname: >-
-      Valentin bruneau
+      Jemima
     bio: >-
-      🌍 Fashion for men | Lifestyle 📍 Brussels, Belgium 📬 valentin_bruneau@hotmail.com 📸 @vbr.pictures
+      Lifestyle | Fashion Brussels, BE Jemimv@Nakata.Agency
     location: "Belgium"
-    followers: 39103
-    engagement: 281
-    commentsToLikes: 0.102925
-    id: ck0w6zn3mb0xk0i1935o5l4v1
+    followers: 98960
+    engagement: 321
+    commentsToLikes: 0.002398
+    id: ckvi27195969o0j230rifzxvf
     verified: false
-    hashtags: "#streetphotography, #laboutiqueofficielle, #outfitideas, #streetwear"
-  - username: "annabelpesant"
+    hashtags: "#collab"
+  - username: "nuria_glztnva"
     fullname: >-
-      Annabel
+      Nuria Glztnva
     bio: >-
-      Fashion and lifestyle blogger/ content creator 💌 info@annabelpesant.com 📍Antwerp (Belgium) 📸 Founder @authentic__tales
+      Blind Getrouwd met mijn❣️ Gek op #momlife sinds 2018 Ik deel MIJN 🌍 met de 🌐 Food, lifestyle, good vibes only💖 💌nuria.gilizintinova@gmail.com 🇧🇪📍8500
     location: "Belgium"
-    followers: 131016
-    engagement: 108
-    commentsToLikes: 0.031808
-    id: ck14gwhy27dp10i19dzj95sy7
+    followers: 47514
+    engagement: 315
+    commentsToLikes: 0.015210
+    id: ck6u603stcrkh0j71ljd25yw4
     verified: false
-    hashtags: "#glamiradiamonds, #hutch, #engagement, #omoda"
-  - username: "ahmed44photography"
+    hashtags: "#koksijde, #advertentie, #th, #marriedatfirstsight"
+  - username: "katinkakempeneers"
     fullname: >-
-      Ahmed Al Maawali
+      Model | Katinka Kempeneers🌺
     bio: >-
-      #Equestrian & #lifestyle #Photographer 📸 🌎 👻 : alm3wali.44 Rider 🐎 Personal account : @ahmed44phy
+      ♡Content Creator|Freelance Model 📩 Inspo ♡ Lifestyle x Travel x Fashion x Animals 🌸TIKTOK 11K @leolive Katinka10 Portfolio📸👇🏻
     location: "Belgium"
-    followers: 14486
-    engagement: 1117
-    commentsToLikes: 0.008247
-    id: ck5bt6xcyffwv0i11vpp6fauw
+    followers: 18024
+    engagement: 293
+    commentsToLikes: 0.205117
+    id: ck8t42efv59gc0j78s8ent8a2
     verified: false
-    hashtags: "#showjumpingphotography, #trot, #gallop, #showjumpingedit"
+    hashtags: "#magazine, #city, #christmas, #photo"
 ---

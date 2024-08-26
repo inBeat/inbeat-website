@@ -1,12 +1,48 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Morocco In 2023
+title: Top 10 Fitness Instagram Influencers In Morocco In 2024
 description: >-
-  Find top fitness Instagram influencers in Morocco in 2023. Most popular hashtags: #fitness #photography #fitnessmotivation #morocco.
+  Find top fitness Instagram influencers in Morocco in 2024. Most popular hashtags: #fitness #motivation #morocco #lifestyle.
 platform: Instagram
-hits: 36
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 36 Instagram influencers like this in Morocco for you to work with.
+hits: 42
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 42 Instagram influencers like this in Morocco for you to pitch.
 profiles:
+  - username: "hayasawan_official"
+    fullname: >-
+      Haya Sawan®هيا صوان 🇸🇦
+    bio: >-
+      Fitness | Well-Being Motivational Speaker Runner @playballsaudi @_motionacademy_ Board Member @saudisurfing Founder SheFit Athlete @adidasmena
+    location: "Morocco"
+    followers: 628472
+    engagement: 302
+    commentsToLikes: 0.010711
+    id: ck5pzkp8f1g5e0i11n06yo95p
+    verified: false
+    hashtags: "#education, #mindset, #motivation, #selfgrowth"
+  - username: "guneetvirdimua"
+    fullname: >-
+      Guneet Virdi💄💋
+    bio: >-
+      BeautyInfluencer/MUA/ fitness/@gvhair_ 📲+91-9810177359, 011-49052873 (11am-7pm)📍A-264 1st floor Defence colony For collab👉🏻 collab@guneetvirdi.com
+    location: "Morocco"
+    followers: 1017281
+    engagement: 98
+    commentsToLikes: 0.014115
+    id: ck0ubsoslf9wp0i193ocw0dp0
+    verified: false
+    hashtags: "#indian, #reelsinstagram, #grwm, #celebrityhairstylist"
+  - username: "hichammasrar1"
+    fullname: >-
+      Hicham Masrar
+    bio: >-
+      📺 TV Host 🇲🇦 🥇 Fitness Addict | Ironman 70.3 🏅 marathon runner 🏃‍♂️ 📩 For collab : ☞︎ hichampekin@gmail.com
+    location: "Morocco"
+    followers: 4143452
+    engagement: 29
+    commentsToLikes: 0.010791
+    id: ck14ht75uc0fn0i191jg5ve4l
+    verified: true
+    hashtags: "#travel, #konahybrid, #germany, #hichammasrar1"
   - username: "chaymae_fit"
     fullname: >-
       🇲🇦C H A Y M A E 🇲🇦
@@ -31,18 +67,6 @@ profiles:
     id: ck5qa39l2ebpn0i11h813ztkj
     verified: false
     hashtags: "#happiness, #dancehall, #dance, #passion"
-  - username: "lahcen.attallah"
-    fullname: >-
-      One man army 🦁
-    bio: >-
-      اللهم رحمنا *استغفر الله * Coach musculation et fitness byb 🇬🇧 Model 🧞‍♂️ Acteur🌓 Comédien 🌚 Influenceur 🧬
-    location: "Morocco"
-    followers: 122055
-    engagement: 345
-    commentsToLikes: 0.015732
-    id: ck5zr5gg9vxte0i14xppwvrta
-    verified: false
-    hashtags: ""
   - username: "esirawi_aya"
     fullname: >-
       ALAMI AYA
@@ -55,76 +79,52 @@ profiles:
     id: ck9hblb22hc530j78i2603xya
     verified: false
     hashtags: "#casablanca, #saadlamjarred, #tlemcen, #invention"
-  - username: "zouhairelkhaldaoui"
+  - username: "chakouk_mohammed"
     fullname: >-
-      زهير الخلداوي
+      Mohammed "THE SERIOUS"Chakouk🌐
     bio: >-
-      .🇦🇪DUBAI📍 .🇲🇦Moroccan .🎓international certificat 🥇 .⏱COACH SPORTIF @tigerfitofficiel .🎓Sports & Fitness Instruction .🎓Muay thai"Thai massage"pro🇹🇭
+      •𝗜𝗙𝗕𝗕 𝗣𝗥𝗢 | From🇲🇦To Da🌎 •🫵🏾Send #trainwithchak for COACHING📉 •GTE TEAM •⛽️ @essakrnutrition
     location: "Morocco"
-    followers: 216099
-    engagement: 408
-    commentsToLikes: 0.009886
-    id: ck9wosdnp6est0j78blsbi1hp
+    followers: 18790
+    engagement: 628
+    commentsToLikes: 0.019344
+    id: ck5hp9d3jqyys0i112t3w7hr1
     verified: false
-    hashtags: "#beach, #travelphotography, #thailand, #life"
-  - username: "mandri_larosa"
+    hashtags: "#ifbbpro, #dreambig, #ifbb, #alpha"
+  - username: "hassan_cobraa"
     fullname: >-
-      🏅STREET WORKOUT KILLER.🏅
+      Hassan🐍cobra
     bio: >-
-      Coach ⚫️
+      ⚡️ONLINE COACHING (DM) @team_cobrra {اللَّهُمَّ دِمْهَا نِعْمَه واحْفِظْهَا مِنَ الزَّوَالْ}⚡️ ⚡️BIKER🏍️YAMAHA R1 ⚡️BODYBUILDER 🏋️
     location: "Morocco"
-    followers: 5829
-    engagement: 1324
-    commentsToLikes: 0.117601
-    id: ck9hborrjhsnv0j788vqto6b6
+    followers: 83930
+    engagement: 1486
+    commentsToLikes: 0.006722
+    id: ckf5tia2chvt70j23f3v4goj0
     verified: false
-    hashtags: "#calisthenics, #thenx, #baristiworkout, #teamortizsw"
-  - username: "krbataphoto"
+    hashtags: "#biker, #rabat, #r1, #fitness"
+  - username: "ayoub__azri"
     fullname: >-
-      KrbataPhoto | www.krbata.sk
+      Ayoub El Azri | Coach
     bio: >-
-      📷📽 Professional 👨 Influencer 🇸🇰 Based in Slovakia | Košice 📩 DM For Collab ❤️ @katkasalt
+      🌍Online trainer 📚ENS CASA "Education physique et sportive" 📜Coach "Force athlétique" IPF 📩Coaching team: @azri_pro_team 🎩@afleteathletics
     location: "Morocco"
-    followers: 34839
-    engagement: 188
-    commentsToLikes: 0.053624
-    id: ck5hnrtbkoa9i0i11fcu6m8dd
+    followers: 225357
+    engagement: 178
+    commentsToLikes: 0.022310
+    id: ck5hp9cjjqyxj0i11w3vu8typ
     verified: false
-    hashtags: "#kosice, #nightportrait, #skiing, #fitness"
-  - username: "seif_harnafi"
+    hashtags: "#healthychoices, #determination, #exercise, #gym"
+  - username: "starlit21"
     fullname: >-
-      Seif Harnafi
+      Jay Starlit
     bio: >-
-      •Professional Fighter 🇲🇦🥊 👻seifchampp Tiktok:Seifharnafi1
+      ‎الجود السفياني🇸🇦🖇‏ SaudiActress,YouTuber,TikToker ‏Snap QJA21 ‏BrandAmbassador @samsungsaudi @lorealmiddleeast ‏📍KSA🇸🇦 UAE 🇦🇪 ‏STARLITT21@gmail.com
     location: "Morocco"
-    followers: 4047
-    engagement: 1440
-    commentsToLikes: 0.059602
-    id: ck5zqlugguuet0i142hr0kqbj
+    followers: 97414
+    engagement: 113
+    commentsToLikes: 0.023921
+    id: ck6tys8pg5jrp0j7178z0453r
     verified: false
-    hashtags: "#fight, #germany, #fitness, #fitniss"
-  - username: "elham_haissoune"
-    fullname: >-
-      Ily🍯👅
-    bio: >-
-      00:00 ❤️❤️
-    location: "Morocco"
-    followers: 26829
-    engagement: 435
-    commentsToLikes: 0.019218
-    id: ck8t3w2th4pcd0j78hsszon0g
-    verified: false
-    hashtags: "#stayathome, #shooting, #instalove, #essaouira"
-  - username: "hgfphoto.kerman"
-    fullname: >-
-      MehrdadMontazer Photography©
-    bio: >-
-      contact : direct 🇮🇷 تهران-قيطريه كرمان -شفا-كوچه ١٩
-    location: "Morocco"
-    followers: 8240
-    engagement: 952
-    commentsToLikes: 0.014027
-    id: ckaosmi2is3wp0i78prhjpmjv
-    verified: false
-    hashtags: "#beauty, #fashion, #women, #studio"
+    hashtags: "#love, #beautiful, #photo, #fitness"
 ---

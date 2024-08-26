@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In United States In 2023
+title: Top 10 Nutrition Instagram Influencers In United States In 2024
 description: >-
-  Find top nutrition Instagram influencers in United States in 2023. Most popular hashtags: #bodybuilding #strongwomen #glutenfree.
+  Find top nutrition Instagram influencers in United States in 2024. Most popular hashtags: #momlife #momsofinstagram #workout.
 platform: Instagram
-hits: 2513
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 2513 Instagram influencers like this in United States for you to collaborate.
+hits: 2847
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 2847 Instagram influencers like this in United States for you to collaborate.
 profiles:
-  - username: "saschafitness"
+  - username: "fitness.by.nikki"
     fullname: >-
-      Sascha Barboza
+      N I K K I  R A Y
     bio: >-
-      Fitness-Nutrition Coach CEO- Sascha Fitness Corp Book author Mamá Youtube: Sascha Fitness 📧info@saschafitness.com @saschafitnessmarket 🛒⬇️Shop
+      ⭐️ CPT & Nutrition Coach 🥇 NPC Figure & Bikini NQ | Sponsored Athlete ⚡️ @cellucor @c4energy NIKKI 👙 @angelcompetitionbikinis NIKKI 👭 Mom 📚 Attorney
     location: "United States"
-    followers: 5312363
-    engagement: 450
-    commentsToLikes: 0.010945
-    id: ck13c63ygyssj0i19zjq0l5d2
-    verified: true
-    hashtags: "#11, #blackwidow"
-  - username: "becca_denae"
-    fullname: >-
-      Rebecca | CPT
-    bio: >-
-      I help individuals become their most confident selves through strength and performance training, and nutrition coaching 💪🏽 @rpstrength: BECCADENAE
-    location: "United States"
-    followers: 9845
-    engagement: 2817
-    commentsToLikes: 0.044594
-    id: clcbv5majoymz0j08d1s754s0
+    followers: 22168
+    engagement: 603
+    commentsToLikes: 0.035846
+    id: ck8t4t1j67vk00j78nzc491rw
     verified: false
-    hashtags: "#strongwomen, #tboathletes, #personaltrainer, #tbotraining"
-  - username: "alphaburnfit"
+    hashtags: "#noexcuses, #neverskiplegday"
+  - username: "josiahkhong"
     fullname: >-
-      Alphaburn | Duke Ihenacho
+      Josiah Khong
     bio: >-
-      Helping men and women make total health and lifestyle transformations through exercise and nutrition 🔥
+      💼 Young Entrepreneur 📖 Monash Uni Alumni 🏋🏻 Fitness Coach 🌱 Certified Nutrition Expert 💡 Managed by @alyfegroup Collab: josiahkhong@hotmail.com
     location: "United States"
-    followers: 50336
-    engagement: 566
-    commentsToLikes: 0.024146
-    id: clcbv5mrmoyxg0j0898qixrs4
+    followers: 35880
+    engagement: 6355
+    commentsToLikes: 0.013761
+    id: ck8sy1fvcjef00j785sax5769
     verified: false
-    hashtags: "#becometheheat, #alphaburn"
-  - username: "purely_healthy_living"
+    hashtags: "#geekfitlab, #alaska, #amwaymy, #gym"
+  - username: "kasha_grimes"
     fullname: >-
-      María | Easy Healthy Recipes
+      Kasha
     bio: >-
-      • Fun, Creative & Easy Healthy Recipes👩🏼‍🍳🌿 • Nutritionist🥑 • Bilingüal 🇺🇸 // 🇲🇽
+      AKA Mumma Grimes, promotes self help, loves fashion, styling, travel, women’s health, fitness, nutrition & most importantly living life to the full ❤️
     location: "United States"
-    followers: 34482
-    engagement: 343
-    commentsToLikes: 0.411498
-    id: ck0u9yj1jawhj0i19xe005yl5
+    followers: 34897
+    engagement: 1039
+    commentsToLikes: 0.025111
+    id: ck0w1gimkj8em0i191beptuaw
     verified: false
-    hashtags: "#prozis, #vegan, #lowcarb, #glutenfree"
-  - username: "ayamakramofficial"
+    hashtags: "#ad, #founditonamazon, #fashionhaul, #onlinefashion"
+  - username: "bodyxbrooke"
     fullname: >-
-      Aya Makram | آيه مكرم
+      BODY BY BROOKE | home workouts, wellness + mom life
     bio: >-
-      Healthy vibes 💫 Nutritionist 🍏
+      🌟 trainer, nutrition coach + mom 💗 helping women feel their best 💪🏼 home workout program + meal plans ⤵️ join me FREE for 10 days!
     location: "United States"
-    followers: 2230162
-    engagement: 331
-    commentsToLikes: 0.041616
-    id: ck5hcf49bhquu0i11tutt40v6
+    followers: 19506
+    engagement: 646
+    commentsToLikes: 0.123949
+    id: ckv7c9vwu13bz0j23g746o1ic
     verified: false
-    hashtags: ""
-  - username: "dreathomas"
+    hashtags: "#homeworkouts, #momsofinstagram, #momlife, #sweatathome"
+  - username: "doctordiaries"
     fullname: >-
-      Drea Thomas
+      Erica Wigdor, DO
     bio: >-
-      Founder @allyou + @soliswimwear Athlete for @bombshellsportswear My Workout & Nutrition Programs now on SALE! ⤵️
+      👩🏻‍⚕️ Board Certified Internal Medicine 📍 South FL ❤️ Health | Wellness | Lifestyle 🍎 Nutrition + Prevention 🧬 Evidence Based Science ⇩ Blog + More
     location: "United States"
-    followers: 1045177
-    engagement: 260
-    commentsToLikes: 0.009070
-    id: cl3dd174q5ncg0i23lcp79fq9
+    followers: 103028
+    engagement: 682
+    commentsToLikes: 0.026297
+    id: ck6trzr4420c50j71ui5zl0fg
     verified: false
-    hashtags: ""
-  - username: "maddyforberg"
+    hashtags: "#givingtuesday, #ezcpak, #flexispot, #figsambassador"
+  - username: "savaniimal"
     fullname: >-
-      Maddy Maddawg  | BSN | Coach
+      Savannah Ige
     bio: >-
-      Making YOU stronger @strong4lifeco 🐾 🎙 @fio.podcast Host Strength & Nutrition Coach. 📩contact@maddawgstrong.com @labradanutrition @revive_md
+      I love Jesus Here to encourage you to do hard things 🫶 Wife to @dynamitedan808 ❤️ Certified Sports Nutrition Coach CFL2 Coach
     location: "United States"
-    followers: 494144
-    engagement: 207
-    commentsToLikes: 0.008414
-    id: ck0w0kslzep8d0i19s5xe8bbv
+    followers: 27252
+    engagement: 762
+    commentsToLikes: 0.042703
+    id: cl6kwojb3k2ke0i23v40ik8qt
     verified: false
-    hashtags: "#bodybuilding, #fitness, #powerbuilding, #lifting"
-  - username: "milan_sadek"
+    hashtags: "#momanddad, #fitness, #running, #coach"
+  - username: "strong_with_sam"
     fullname: >-
-      Milan Šádek IFBB PRO
+      Samantha | PA-C & postpartum fitness
     bio: >-
-      IFBB PRO BODYBUILDER & Petrol Head 🥤Amix Nutrition Athlete (SADEK10) 🗽NY PRO 2019 TOP3 open 🏅212 Olympia 2017 TOP6 🚗 @srt392_amg63s
+      helping new moms pour into themselves with fitness & nutrition⚡️ boy mama • family medicine PA-C • at home fitness
     location: "United States"
-    followers: 70596
-    engagement: 161
-    commentsToLikes: 0.007885
-    id: ck5q5pkvrtyqv0i11d6qae24r
+    followers: 6125
+    engagement: 1047
+    commentsToLikes: 0.058280
+    id: clibaici8vm1x0j08bi1vle4s
     verified: false
-    hashtags: "#josefadlt, #spain, #alicante, #sadek"
-  - username: "cassidy.life.elevated"
+    hashtags: "#postpartumfitness, #momlife, #momhumor, #postpartum"
+  - username: "taliiiagram"
     fullname: >-
-      Cassidy Dickson
+      Talia Laurito
     bio: >-
-      Founder of @life.elevated.nutrition Health & Nutrition coaching that will change your life! ⚡️ Join our PEAK Fat-Loss Group for busy babes ⚡️
+      ✮Certified Trainer + Health & Nutrition ✮[ @solidcore ] Pro Coach ✮Former NFL Cheerleader ✮Dancer & Choreogragher 👇🏽TRAIN WITH ME
     location: "United States"
-    followers: 23140
-    engagement: 110
-    commentsToLikes: 0.084415
-    id: cl6kwo6emjufp0i23rbk8frf1
+    followers: 19317
+    engagement: 431
+    commentsToLikes: 0.059342
+    id: cl6p0b776ly190i230yr9mg2s
     verified: false
-    hashtags: "#iykyk, #bff, #coachingcon22, #happyfriday"
-  - username: "missjenlifts"
+    hashtags: "#outdoorworkout, #bostonpersonaltrainer, #personaltrainer, #seaportboston"
+  - username: "isabels.plate"
     fullname: >-
-      Jen🍍🤍 NASM CPT
+      Isabel Megale
     bio: >-
-      🤙🏽🇵🇹🇨🇳 Fitness | Flexibility | Nutrition NASM Nutritionist🍏 Macro-friendly Starbucks Coffee☕️ Meal Prep Recipes🍽 @nakoaapparelco 🌺 @nakoaradio 🎙
+      food freedom + balanced living certified nutritionist + intuitive eating counselor 💌 emelie@rowcollective.com
     location: "United States"
-    followers: 97454
-    engagement: 97
-    commentsToLikes: 0.030929
-    id: ckaottin6xg7z0i78m3t8nyew
+    followers: 27958
+    engagement: 640
+    commentsToLikes: 0.089690
+    id: clefyt9i2vtbn0j08hlzo1878
     verified: false
-    hashtags: "#sugarcookies, #starbuckssecretmenu, #coffeeculture, #powerlifting"
+    hashtags: "#balancedbody, #breakfastinspo, #foodfreedom, #allfoodsfit"
+  - username: "frankc.fit"
+    fullname: >-
+      Frank Cianciotta | Fitness & Lifestyle Coach
+    bio: >-
+      I help guys in their 20’s get in the best shape of their life CPT | Natural Bodybuilder My Free Nutrition Guide is out Click here to get it ⬇️
+    location: "United States"
+    followers: 29380
+    engagement: 1460
+    commentsToLikes: 0.069205
+    id: ckvrvpd52ee6p0j23y1xg9a7w
+    verified: false
+    hashtags: "#shoulderpress, #fullbackworkout, #tricepsworkout, #tricepsfordays"
 ---

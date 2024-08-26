@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar Instagram Influencers In South Korea In 2023
+title: Top 10 Guitar Instagram Influencers In South Korea In 2024
 description: >-
-  Find top guitar Instagram influencers in South Korea in 2023. Most popular hashtags: #guitar #youtube #illust.
+  Find top guitar Instagram influencers in South Korea in 2024. Most popular hashtags: #guitar #illust #illustration.
 platform: Instagram
 hits: 12
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 12 Instagram influencers like this in South Korea for you to contact.
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 12 Instagram influencers like this in South Korea for you to pitch.
 profiles:
   - username: "theofficialsunghajung"
     fullname: >-
@@ -43,18 +43,18 @@ profiles:
     id: ck5zlwjj6lhxm0i14vf5jdoxc
     verified: false
     hashtags: "#sunkim, #guitarsdaily, #guitarsecret, #guitarsarebetter"
-  - username: "kath_illust"
+  - username: "yeoleum"
     fullname: >-
-      KATH
+      손열음 | Yeol Eum Son
     bio: >-
-      🎸ɴᴏ ᴍᴜꜱɪᴄ ɴᴏ ʟɪꜰᴇ ✉️ᴋᴀᴛʜ7090@ɢᴍᴀɪʟ.ᴄᴏᴍ 🔥ᴀʟʟ ʀɪɢʜᴛꜱ ʀᴇꜱᴇʀᴠᴇᴅ 👇<드로잉 시네마>, <CLASS101> 등 링크트리
+      𝙶𝚎𝚝𝚝𝚒𝚗𝚐 𝚛𝚎𝚊𝚍𝚢 𝚏𝚘𝚛 👉@goinghome_kr
     location: "South Korea"
-    followers: 11456
-    engagement: 458
-    commentsToLikes: 0.008314
-    id: ck8t3gjo237if0j78yo057om4
+    followers: 70484
+    engagement: 490
+    commentsToLikes: 0.014138
+    id: ck5hd0j4akvf40i11hpxphlss
     verified: false
-    hashtags: "#rock, #ipaddrawing, #coloredpencil, #guitar"
+    hashtags: "#moscow, #mozart, #yeoleumson, #pyeongchang"
   - username: "shin_woong_hahm"
     fullname: >-
       함신웅
@@ -115,16 +115,16 @@ profiles:
     id: ck14l9zu1tlax0i19ksvf7a1x
     verified: false
     hashtags: "#illustration, #nano, #illust, #guitar"
-  - username: "ybrocks"
+  - username: "kath_illust"
     fullname: >-
-      윤도현,뜬도현
+      Minji Kwon
     bio: >-
-      
+      🎸ɴᴏ ᴍᴜꜱɪᴄ ɴᴏ ʟɪꜰᴇ ✉️ᴋᴀᴛʜ7090@ɢᴍᴀɪʟ.ᴄᴏᴍ 🔥ᴀʟʟ ʀɪɢʜᴛꜱ ʀᴇꜱᴇʀᴠᴇᴅ 👇클래스101, 드로잉 시네마 등 링크트리
     location: "South Korea"
-    followers: 66002
-    engagement: 408
-    commentsToLikes: 0.040184
-    id: ck15utcliog3z0i191ue4qr1f
-    verified: true
-    hashtags: "#supersonic"
+    followers: 15105
+    engagement: 661
+    commentsToLikes: 0.007974
+    id: ck8t3gjo237if0j78yo057om4
+    verified: false
+    hashtags: "#instaart, #coloredpencil, #dailydrawing, #illustration"
 ---

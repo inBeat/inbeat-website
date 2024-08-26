@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Los Angeles In 2023
+title: Top 10 Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top Instagram influencers in Los Angeles in 2023. Most popular hashtags: #bikers #fz07 #worldssp300.
+  Find top Instagram influencers in Los Angeles in 2024. Most popular hashtags: #ootd #fashion #skincare.
 platform: Instagram
-hits: 7743
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 7743 Instagram influencers like this in Los Angeles, United States for you to connect with.
+hits: 8971
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 8971 Instagram influencers like this in Los Angeles, United States for you to work with.
 profiles:
-  - username: "evemeetswest"
+  - username: "daniellee_esther"
     fullname: >-
-      evelynn escobar
+      Danielle Esther
     bio: >-
-      earth mother ~ creator ~ storyteller 🌱🌐🇬🇹♍️🐞🌍👩🏽‍🌾💅🏽 founder @hikeclerb @squarespace ambassador @evemeetsnails | los angeles hello@evemeetswest.com 💌
+      los angeles 💌 danielle@mvetalent.com
     location: "United States"
-    followers: 34339
-    engagement: 447
-    commentsToLikes: 0.102249
-    id: ck5cab4bfd2ny0i1172rmtwgw
+    followers: 181544
+    engagement: 814
+    commentsToLikes: 0.060045
+    id: ck137gy8ubhjd0i19krhqrk4n
     verified: false
-    hashtags: "#uniqlopartner, #uniqlo, #lifewear, #reipartner"
-  - username: "anas"
+    hashtags: "#ad, #seethescience, #nexxuslevelholiday, #mondaypartner"
+  - username: "lindaminjukim"
     fullname: >-
-      Anas
+      Linda Kim
     bio: >-
-      Anas Marwah❤️ |📍Los Angeles/Dubai | Father & Husband @asala @milamarwah @noahmarwah
+      Los Angeles📍 Lifestyle | Beauty | Fashion → lindaminjukim@gmail.com
     location: "United States"
-    followers: 5885436
-    engagement: 977
-    commentsToLikes: 0.009219
-    id: ckaoybh6sgt0m0i78ayxe8551
-    verified: true
-    hashtags: "#hibobianniversary, #4yearsanniversary, #womenday, #palestine"
-  - username: "ashleywicka"
-    fullname: >-
-      ashley wicka
-    bio: >-
-      20, los angeles tiktok: ashleywicka ashley@justpmg.com
-    location: "United States"
-    followers: 48726
-    engagement: 989
-    commentsToLikes: 0.014605
-    id: ck5c3nrl7zp6t0i119r3c00bp
+    followers: 10337
+    engagement: 534
+    commentsToLikes: 0.379834
+    id: ckq0ivezidd9i0j23dx5v7it4
     verified: false
-    hashtags: "#paybetter, #ad"
-  - username: "kevinarnold"
+    hashtags: "#brunchideas, #lovelulus, #summeroutfits, #eatstagram"
+  - username: "joanna_spicer"
     fullname: >-
-      Kevin
+      Joanna Spicer
     bio: >-
-      • Professional Stuntman from Los Angeles • 🚴🏾 💨 @maap.cc @perfecthydration @girocycling @canyon_na • @dyscothedoberman 🐶
+      📍Los Angeles Beauty. Fashion. Lifestyle ✉️joannaspicer26@gmail.com
     location: "United States"
-    followers: 19141
-    engagement: 587
-    commentsToLikes: 0.031042
-    id: ck5c88ftc8z080i11tlikolqw
+    followers: 36921
+    engagement: 550
+    commentsToLikes: 0.012373
+    id: cko1viryqbndj0j239gq9k158
     verified: false
-    hashtags: "#cyclist, #100percentgoggles, #iamspecialized, #cyclinglife"
-  - username: "777brit"
+    hashtags: "#beyondyogapartner, #moveinbeyond, #redlip, #blottedlip"
+  - username: "laurenluto"
     fullname: >-
-      Britney | fashion blogger
+      Lauren Lutostanski
     bio: >-
-      los angeles Jesus freak ✉️: britswizzzle@gmail.com
+      pink fits & style tips 🎀 Los Angeles laurenluto@gmail.com @metricmodels @luxefitagency fit model, print, commercial
     location: "United States"
-    followers: 11365
-    engagement: 18158
-    commentsToLikes: 0.134985
-    id: cl93d2bw9cvds0i237xxtudeo
+    followers: 21063
+    engagement: 742
+    commentsToLikes: 0.205789
+    id: cl30eeq5vxaw70i23yhpy1kb9
     verified: false
-    hashtags: "#minimaloutfit, #neutralaestheti"
-  - username: "synergist_"
+    hashtags: ""
+  - username: "shelly.camar"
     fullname: >-
-      Syn
+      Shelly
     bio: >-
-      👤| Brand Ambassador & Superbike Enthusiast 📍| Los Angeles, CA ✉️| DM / Email for inquiries ❤️| Check out my sponsors (& discounts) below!
+      fashion. beauty. lifestyle latina ♡ los angeles
     location: "United States"
-    followers: 93171
-    engagement: 1402
-    commentsToLikes: 0.036498
-    id: ck5pxeiqcre560i11i0gg6uv9
+    followers: 24552
+    engagement: 749
+    commentsToLikes: 0.163908
+    id: cl5l336i7995f0i23gmyn5gse
     verified: false
-    hashtags: "#sportbike, #r1, #revsyourheart, #wheelie"
-  - username: "bigbossboze"
+    hashtags: "#springfashion, #springoutfits, #ootd, #springstyle"
+  - username: "itsmeganvarner"
     fullname: >-
-      boze
+      megan varner | style inspo
     bio: >-
-      🍋 Los Angeles true crime on twitch & youtube | LIVE Mondays @ 5pm PST | subscribe to my channel below ✨
+      fashion + lifestyle | coffee addict | book lover social media manager + UGC 💌 megan@themodernmillennial.co Phoenix | Los Angeles
     location: "United States"
-    followers: 251981
-    engagement: 511
-    commentsToLikes: 0.008364
-    id: ck9hc369ujjvt0j78rkahllab
+    followers: 12388
+    engagement: 736
+    commentsToLikes: 0.182420
+    id: cl101prucvhn30i237qeu9abi
     verified: false
-    hashtags: "#blackhistorymonth"
-  - username: "iamjuliahuynh"
+    hashtags: "#ocleanxprodigital, #summer, #photobooth, #whitefoxboutique"
+  - username: "emyreyes"
     fullname: >-
-      julia
+      Emy Reyes
     bio: >-
-      ur mediocre best friend bay area + los angeles | tiktok: jigglyjulia —— juliachuynh@gmail.com all my links below ⇩
+      🪬Actress/Model 💌Emykreyes@gmail.com 📍Los Angeles
     location: "United States"
-    followers: 146407
-    engagement: 390
-    commentsToLikes: 0.435201
-    id: ckqv6psiv22ao0j233oacdlpk
+    followers: 55289
+    engagement: 1378
+    commentsToLikes: 0.043017
+    id: ck0tzqnzdr7r00i19cyunjzit
     verified: false
-    hashtags: "#nomakeup, #scentbirdpartner, #linkeverythingyouare, #monostravel"
-  - username: "magicalblackgirlalia"
+    hashtags: "#blogger, #beach, #collabs, #fashion"
+  - username: "saikofood"
     fullname: >-
-      Alia/MagicalBlackGirl Cosplay
+      NINA SoCal Foodie+Content Creator 🇵🇭
     bio: >-
-      Cosplayer, Model, Pinup, LA 🌴🏳️‍🌈 #mobilityaidbabe #18thcenturyhotgirl 🔜 @anime_los_angeles magicalblackgirlalia@gmail.com
+      🍟Local Food Favorites Food Finds | Lifestyle | Travel 💌Collab: ninacsaiko@gmail.com 📍Orange County ↔️ San Diego ↔️ Los Angeles
     location: "United States"
-    followers: 17910
-    engagement: 282
-    commentsToLikes: 0.033306
-    id: ckposp8of4zkl0j23tz8d1125
+    followers: 34948
+    engagement: 5519
+    commentsToLikes: 0.046560
+    id: ckmw1hdp9833a0j23vesrkiov
     verified: false
-    hashtags: "#sponsoredbyht, #transwitchesarewitches, #disneyland, #disneyplus"
-  - username: "weronikazalazinska"
+    hashtags: "#filipinofood, #foodfail, #foodvideo, #foodblogger"
+  - username: "masonoglesby"
     fullname: >-
-      Weronika Zalazinska
+      mason oglesby
     bio: >-
-      Los Angeles based ✉️ weronikazalazinska@gmail.com
+      chicago // los angeles ♡ managed by @therealdba email me: masonanneoglesby@gmail.com
     location: "United States"
-    followers: 239517
-    engagement: 276
-    commentsToLikes: 0.004881
-    id: ck0ud6h7hie5k0i19z0488r8u
-    verified: true
-    hashtags: "#dominicanrepublic, #casadecampo, #ad, #partner"
+    followers: 188936
+    engagement: 1837
+    commentsToLikes: 0.017442
+    id: ck55kz58n0epk0i11hhr7unx8
+    verified: false
+    hashtags: "#hairstyleideas, #dysonhair, #dysonairwrap, #frizzyhair"
+  - username: "dailyhungryla"
+    fullname: >-
+      Carolyn | Food + Lifestyle
+    bio: >-
+      — los angeles, orange county nom stop food adventurer 🍚 🥢 ♡ traveling to my heart’s content ♡ 💌: dailyhungryLA@gmail.com for all inquires
+    location: "United States"
+    followers: 37042
+    engagement: 1320
+    commentsToLikes: 0.059785
+    id: ckmw1h7j2813h0j23ws6ouv2o
+    verified: false
+    hashtags: "#chinesefood, #taiwanfood, #japanesefood, #travelvlog"
 ---

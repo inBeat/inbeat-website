@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Sydney In 2023
+title: Top 10 Athletes TikTok Influencers In Sydney In 2024
 description: >-
-  Find top athletes TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #parkour #foryou #viral.
+  Find top athletes TikTok influencers in Sydney in 2024. Most popular hashtags: #fyp #parkour #foryou #viral.
 platform: TikTok
 hits: 5
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 5 TikTok influencers like this in Sydney, Australia for you to connect with.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 5 TikTok influencers like this in Sydney, Australia for you to connect with.
 profiles:
   - username: "dylanpawson"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.013254
     id: ck81sw3ywtjc50j784a0o7gif
     verified: true
-    hashtags: "#tiktokviral, #viral, #omg, #australia"
+    hashtags: "#omg, #sydney, #iphone12, #viral"
   - username: "domtomato"
     fullname: >-
       Domtomato
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.013254
     id: ck81sw3ywtjc50j784a0o7gif
     verified: true
-    hashtags: "#tiktokviral, #viral, #omg, #australia"
+    hashtags: "#omg, #sydney, #iphone12, #viral"
   - username: "sleezey96"
     fullname: >-
       sleezey96
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.016504
     id: ckbl0vgn0xoc10j23ii8r0mmq
     verified: true
-    hashtags: "#pov, #escape, #security, #foryoupage"
+    hashtags: "#parkour, #flips, #escape, #foryou"
   - username: "morganrmoroney"
     fullname: >-
       Morgan Rose 
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.010604
     id: ck9rk74qyrjqk0j78oo6a38co
     verified: true
-    hashtags: "#challenge, #fitness, #gymshark, #australia"
+    hashtags: "#challenge, #gymshark, #australia, #fitness"
   - username: "julzjulzjulzz"
     fullname: >-
       Julia Woodford 

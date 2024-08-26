@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters Instagram Influencers In Greece In 2023
+title: Top 10 Painters Instagram Influencers In Greece In 2024
 description: >-
-  Find top painters Instagram influencers in Greece in 2023. Most popular hashtags: #painting #contemporaryart #love #greece.
+  Find top painters Instagram influencers in Greece in 2024. Most popular hashtags: #painting #contemporaryart #greece #artwork.
 platform: Instagram
-hits: 17
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 17 Instagram influencers like this in Greece for you to collaborate.
+hits: 22
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database holds 22 Instagram influencers like this in Greece for you to work with.
 profiles:
   - username: "avgoustidisermis"
     fullname: >-
@@ -95,14 +95,14 @@ profiles:
     fullname: >-
       KATIA DEDE
     bio: >-
-      • Player @farma.greece @ant1tv • Blogger Katia’s Clicks & Tricks @queengr • Photographer @katia_dede_photography • Dede.katia@gmail.com
+      🇺🇦🇬🇷 • Player @farma.greece 2021 • Blogger Katia’s Clicks & Tricks @queengr • Photographer @katia_dede_photography • Dede.katia@gmail.com
     location: "Greece"
-    followers: 27284
-    engagement: 550
-    commentsToLikes: 0.026696
+    followers: 28452
+    engagement: 380
+    commentsToLikes: 0.080678
     id: ck137owd4cmpy0i19h1dp3ejt
     verified: false
-    hashtags: "#white, #tuscany, #boat, #nature"
+    hashtags: "#fashion, #experience, #tuscany, #festive"
   - username: "archaeologist.gr"
     fullname: >-
       Digital excavation
@@ -115,16 +115,16 @@ profiles:
     id: ck6tsp89261ks0j71xerqtc3n
     verified: false
     hashtags: "#greece, #historical, #discovergreece, #architecture"
-  - username: "celiakipap"
+  - username: "goldiffic"
     fullname: >-
-      Συλια Παπανικολαου
+      𓁹 G O L D I F F I C 𓁹
     bio: >-
-      💣 Chemist (MSc) 🌸 Fashion lover🎾Tennis Hawkers 20% discount 👉🏻HCW20KIPAP👈🏻
+      𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 ❦︎ 𝐁𝐞𝐚𝐮𝐭𝐲, 𝐦𝐚𝐠𝐢𝐜 & 𝐥𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 𝐏𝐑 | 𝐔𝐆𝐂 | 𝐂𝐨𝐥𝐥𝐚𝐛𝐬༻𝐦𝐚𝐢𝐥 𝐨𝐫 𝐝𝐦 𝐖𝐞𝐢𝐫𝐝 ♉️ 𝐒𝐞𝐥𝐞𝐧𝐨𝐩𝐡𝐢𝐥𝐞 🌔 𝐈𝐍𝐅𝐉
     location: "Greece"
-    followers: 15713
-    engagement: 674
-    commentsToLikes: 0.047696
-    id: ckap070nxp0ly0i78y3ukidy8
+    followers: 64262
+    engagement: 326
+    commentsToLikes: 0.149945
+    id: ckap3iho334x80i780fs9jtpt
     verified: false
-    hashtags: "#inspo, #positivevibes, #girl, #instagood"
+    hashtags: "#viralmakeup, #coquettemakeup, #aestheticmakeup, #cbeautymakeup"
 ---

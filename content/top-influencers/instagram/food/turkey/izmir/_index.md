@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food Instagram Influencers In Izmir In 2023
+title: Top 10 Food Instagram Influencers In Izmir In 2024
 description: >-
-  Find top food Instagram influencers in Izmir in 2023. Most popular hashtags: #izmir #food #istanbul #ankara.
+  Find top food Instagram influencers in Izmir in 2024. Most popular hashtags: #izmir #food #istanbul #ankara.
 platform: Instagram
-hits: 120
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 120 Instagram influencers like this in Izmir, Turkey for you to connect with.
+hits: 116
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 116 Instagram influencers like this in Izmir, Turkey for you to collaborate.
 profiles:
   - username: "ecemkatiboglu"
     fullname: >-
@@ -67,6 +67,18 @@ profiles:
     id: ckf5x96neuuvz0j23xwo3xnn0
     verified: false
     hashtags: "#food, #instagram, #izmir, #lezzet"
+  - username: "melaybuseblog"
+    fullname: >-
+      ᗰEᒪᗩY ᗷᑌᔕE 🫧🪽⭐️
+    bio: >-
+      ★
+    location: "Turkey"
+    followers: 56682
+    engagement: 893
+    commentsToLikes: 0.036217
+    id: ckap0iko0qg5z0i78f3mcsmy7
+    verified: false
+    hashtags: "#istanbul, #pr, #trendyol, #makeup"
   - username: "ezgiparinn"
     fullname: >-
       Ezgi Parın
@@ -115,16 +127,4 @@ profiles:
     id: ck0w02ippc2cd0i19k2036a9u
     verified: false
     hashtags: "#breakfast, #food, #delicious, #ankara"
-  - username: "filizaydinc"
-    fullname: >-
-      Filiz Aydinc
-    bio: >-
-      🧿
-    location: "Turkey"
-    followers: 136358
-    engagement: 147
-    commentsToLikes: 0.036804
-    id: ck8tcx2q310ih0j78uv4lrp1k
-    verified: false
-    hashtags: "#green, #kiss, #makeup, #goodvibes"
 ---

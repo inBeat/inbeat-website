@@ -1,12 +1,36 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Rome In 2023
+title: Top 10 Beauty Instagram Influencers In Rome In 2024
 description: >-
-  Find top beauty Instagram influencers in Rome in 2023. Most popular hashtags: #rome #beauty #roma #love.
+  Find top beauty Instagram influencers in Rome in 2024. Most popular hashtags: #beauty #rome #roma #love.
 platform: Instagram
-hits: 130
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 130 Instagram influencers like this in Rome, Italy for you to collaborate.
+hits: 143
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 143 Instagram influencers like this in Rome, Italy for you to work with.
 profiles:
+  - username: "floackermans"
+    fullname: >-
+      Flo Ackermans Figus Diaz
+    bio: >-
+      Mom life. Outfits. Beauty. Rome Collabs : floackermans@gmail.com My job @floackermans_consulting
+    location: "Italy"
+    followers: 39512
+    engagement: 57
+    commentsToLikes: 0.057319
+    id: ckap3xd6k4wrp0i78764aiu2v
+    verified: false
+    hashtags: "#berladies, #momofone, #momanddaughter, #april"
+  - username: "sandralovisco"
+    fullname: >-
+      Sandra Lovisco
+    bio: >-
+      Content Creator&Digital Communication Founder @womcommunication | Digital Support Moleskine PGW The Queen #sportinfluencer #runner #cyclist
+    location: "Italy"
+    followers: 84607
+    engagement: 71
+    commentsToLikes: 0.183814
+    id: ckf5x2y0eu5o40j235ldwm8w0
+    verified: false
+    hashtags: "#cyclist, #mtb, #mtbitalia, #skincare"
   - username: "myrtamerlino"
     fullname: >-
       Myrta Merlino
@@ -55,18 +79,6 @@ profiles:
     id: ck5hotg9vq74h0i11nuegiddk
     verified: true
     hashtags: "#dellamonicaguarise, #smile, #picoftheday, #figureskating"
-  - username: "dianadelorenzi"
-    fullname: >-
-      DIANA DE LORENZI
-    bio: >-
-      Lifestyle blogger and lover of beauty from🇮🇹Rome Mail to: info@dianadelorenzi.com Working on a new journey: my new home🏠
-    location: "Italy"
-    followers: 121139
-    engagement: 129
-    commentsToLikes: 0.074536
-    id: ck14hp9unbg0a0i19q379ayh7
-    verified: false
-    hashtags: "#designinspiration, #designinterior, #italia, #autumnvibes"
   - username: "deniscassani"
     fullname: >-
       D⃘E⃘N⃘I⃘S⃘ C⃘A⃘S⃘S⃘A⃘N⃘I⃘
@@ -79,18 +91,6 @@ profiles:
     id: ck5zmhlgmml2n0i14ua8dng92
     verified: false
     hashtags: "#fragranze, #volgoroma, #iphone11, #makeup"
-  - username: "theladyxoxo"
-    fullname: >-
-      Eleonora Tani
-    bio: >-
-      ♡ Beauty & Lifestyle ◈ Rome, IT ✎ theladytv@gmail.com ✮ YouTube link ↓
-    location: "Italy"
-    followers: 165156
-    engagement: 1044
-    commentsToLikes: 0.006471
-    id: ck8t6wugkey4w0j78sh4maqw4
-    verified: false
-    hashtags: "#beautyangels, #thebeautyhouseit, #thebeautyhouse, #freshbeauty"
   - username: "gaia_cannavale"
     fullname: >-
       𝑮𝒂𝒊𝒂 𝑪𝒂𝒏𝒏𝒂𝒗𝒂𝒍𝒆 ♡

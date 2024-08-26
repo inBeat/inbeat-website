@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Peru In 2023
+title: Top 10 Comedians Instagram Influencers In Peru In 2024
 description: >-
-  Find top comedians Instagram influencers in Peru in 2023. Most popular hashtags: #comedia #humor #argentina #cuarentena.
+  Find top comedians Instagram influencers in Peru in 2024. Most popular hashtags: #comedia #humor #publicidad #peru.
 platform: Instagram
-hits: 29
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 29 Instagram influencers like this in Peru for you to contact.
+hits: 45
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 45 Instagram influencers like this in Peru for you to pitch.
 profiles:
   - username: "macamadernalaprebende"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck15pwf4bzyxu0i19k4ywbszr
     verified: false
     hashtags: "#reels, #humor, #colombia, #sorteo"
-  - username: "danilachepi"
-    fullname: >-
-      Daniela Viaggiamari (La Chepi)
-    bio: >-
-      Mama de Isa.Actriz.Comediante.Cantante Comercial: @latinfluence “Que vas a hacer”
-    location: "Peru"
-    followers: 2785432
-    engagement: 1077
-    commentsToLikes: 1.207653
-    id: ck5heo4fttxkj0i11uyxwnozq
-    verified: true
-    hashtags: "#javu, #isa, #chupamelax, #starchannel"
   - username: "kainospr"
     fullname: >-
       KAINOS | 1ST IS GOD
@@ -67,64 +55,76 @@ profiles:
     id: ck14ha3ox9auh0i19p3xc0lnn
     verified: false
     hashtags: "#standupcomedy, #online, #comedia, #show"
-  - username: "crissgeithner"
+  - username: "carlosespinal95"
     fullname: >-
-      Aura Cristina Geithner
+      Carlos Alonso Espinal Daza
     bio: >-
-      ACTRIZ,MODELO,CANTANTE. #auracristinageithner #lapotradelabanda @crissgeithner👉Twitter @auracristinageithner👉Facebook LINK:
+      Tiktok: carlosespinal1995 (3M) MIMIDORES 🤩😴 Flynn Rider de día, te mando a mimir de noche 💤 📌 Agencia: @lainap.pe
     location: "Peru"
-    followers: 890064
-    engagement: 274
-    commentsToLikes: 0.016509
-    id: ck0uabjx7bs1c0i19j1qfk3sm
+    followers: 117309
+    engagement: 485
+    commentsToLikes: 0.027964
+    id: ck6u7ewnil3vs0j71vnx9v0wo
+    verified: false
+    hashtags: "#reelsgraciosos, #memesenespa, #publicidad, #comedia"
+  - username: "lamujeralborde"
+    fullname: >-
+      Ale Ottazzi
+    bio: >-
+      Amor Propio y otros placeres ❤️🔥 🙏🏼Coach de bienestar @cuandoteves 🎙️Podcast @disculpenlosovarios Taller Cuestión de Ovarios👇🏼
+    location: "Peru"
+    followers: 124444
+    engagement: 627
+    commentsToLikes: 0.036673
+    id: ck15q985o1ple0i19p6netuee
+    verified: false
+    hashtags: "#mujeralborde, #autoestima, #amor, #amorpropio"
+  - username: "mateoglg"
+    fullname: >-
+      Mateo Garrido Lecca Gambetta
+    bio: >-
+      Ríete Siempre, es más fácil. 🤝 Rep: @contentstudiope Ven a mis shows / Mira mi contenido 👇🏼
+    location: "Peru"
+    followers: 593571
+    engagement: 604
+    commentsToLikes: 0.018223
+    id: ck6u90y6luugf0j714rd973bt
     verified: true
-    hashtags: "#likes4follo, #instacool, #usa, #funny"
-  - username: "alf.music"
+    hashtags: "#comedia, #publicidad, #standup, #bromates"
+  - username: "johanaadelacruz"
     fullname: >-
-      ALF RAVAZZANI
+      Johanna De La Cruz
     bio: >-
-      Cantante • Compositor • Actor 💛@opividal 📍Punta del Este, Uruguay Escucha "Luna Llena" acá!👇🏼
+      para el que cree, todo es posible ✨ ✦ psalms 139 ✦ peru 🇵🇪 ✦ caminando con @maickygd ♥️ ✦ johanna03delacruz@gmail.com 📩
     location: "Peru"
-    followers: 26702
-    engagement: 133
-    commentsToLikes: 0.252525
-    id: ck6tqwrxjv2d50j71ocivtohb
+    followers: 186680
+    engagement: 439
+    commentsToLikes: 0.008134
+    id: ck15pnl2pyr6w0i19ki6mmn16
     verified: false
-    hashtags: "#puntadeleste, #beach, #beachlife, #covers"
-  - username: "jbjorgebenavides"
+    hashtags: "#grwm, #humor, #comedia, #clasesonline"
+  - username: "deborahgeldres"
     fullname: >-
-      Jorge Benavides
+      DEBORAH GELDRES🌼✨
     bio: >-
-      📌 Humorista Peruano, Imitador, Actor y Director 😜 📌 Contacto: jbjorgebenavides@gmail.com
+      24's🇵🇪🇦🇷 | Marketing🤓 CEO: @happychildrenshow🌈 & @rankeadosproducciones ⚡️ Tiktok🎬: deborahgeldres🤳🏼(+369K) 📩: deborahgeldres10@gmail.com
     location: "Peru"
-    followers: 959761
-    engagement: 284
-    commentsToLikes: 0.045997
-    id: ck8sxv4khis660j78qh9f7704
-    verified: true
-    hashtags: "#jbjorgebenavides, #comedia, #humor, #jbenatv"
-  - username: "marianoperugiabruna"
-    fullname: >-
-      Mariano Perugia Bruna
-    bio: >-
-      Stand Up🎤 Actor 🎭 Soy la porción de pizza que te espera a la vuelta del boliche🍕🍕
-    location: "Peru"
-    followers: 8665
-    engagement: 376
-    commentsToLikes: 0.019103
-    id: ck8swtw3xf80y0j783je9zwom
+    followers: 36864
+    engagement: 351
+    commentsToLikes: 0.035979
+    id: ck6u7exlrl41x0j71zxamq2gq
     verified: false
-    hashtags: "#coronavirus, #viral, #cordobes, #funnyvideos"
-  - username: "chistosos_rexs"
+    hashtags: "#deborahgeldres, #chiste, #picofday, #feliza"
+  - username: "antoleon13"
     fullname: >-
-      Rexi y Bexi
+      Antonella León
     bio: >-
-      Somos Bexi y Rexi, los hermanos Rex más chistosos de Instagram. ¡Síguenos! ⬇️Dadle like a este video ⬇️
+      💓 la vida es un ratito 🦋 ★ Info: antonella@contentstudio.pe AQUÍ MI LIBRO: “La vida es un ratito” ✨👇🏼
     location: "Peru"
-    followers: 57068
-    engagement: 473
-    commentsToLikes: 0.005956
-    id: ck14iaagmeeo80i19v8okn7no
+    followers: 143254
+    engagement: 219
+    commentsToLikes: 0.033454
+    id: ck6u91228uv6b0j71dhhm8uvd
     verified: false
-    hashtags: "#risa, #memesespa, #memes, #risas"
+    hashtags: "#milibro, #publicidad, #amigas, #kardashian"
 ---

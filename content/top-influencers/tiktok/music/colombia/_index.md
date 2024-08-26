@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Colombia In 2023
+title: Top 10 Music TikTok Influencers In Colombia In 2024
 description: >-
-  Find top music TikTok influencers in Colombia in 2023. Most popular hashtags: #colombia #viral #reggaeton #parati.
+  Find top music TikTok influencers in Colombia in 2024. Most popular hashtags: #colombia #viral #reggaeton #parati.
 platform: TikTok
-hits: 111
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 111 TikTok influencers like this in Colombia for you to contact.
+hits: 113
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our database aggregates 113 TikTok influencers like this in Colombia for you to contact.
 profiles:
   - username: "nanpabasicooficial"
     fullname: >-

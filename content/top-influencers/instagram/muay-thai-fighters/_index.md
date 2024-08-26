@@ -1,24 +1,24 @@
 ---
-title: Top 10 Muay Thai Fighters Instagram Influencers In 2023
+title: Top 10 Muay Thai Fighters Instagram Influencers In 2024
 description: >-
-  Find top muay thai fighters Instagram influencers in 2023. Most popular hashtags: #muaythai #fighter #kickboxing.
+  Find top muay thai fighters Instagram influencers in 2024. Most popular hashtags: #muaythai #fighter #training.
 platform: Instagram
-hits: 380
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 380 Instagram influencers like this for you to connect with.
+hits: 385
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 385 Instagram influencers like this for you to connect with.
 profiles:
   - username: "almajuniku"
     fullname: >-
       ALMA JUNIKU
     bio: >-
-      🇦🇱🇽🇰 | Syd, Aus | ♏︎ Pro Muay Thai fighter @ONEchampionship athlete
+      @ONEchampionship athlete 🇦🇱\/🇽🇰 | ℜ𝔢𝔰𝔦𝔩𝔦𝔢𝔫𝔱 | Scorpio ♏︎ @MODERNWARRIORMUAYTHAI Professional Muay Thai fighter 🔙🔜⏳
     location: "Australia"
-    followers: 111640
-    engagement: 779
-    commentsToLikes: 0.018636
+    followers: 105145
+    engagement: 691
+    commentsToLikes: 0.021778
     id: ckap9d671s6he0i78rgq2cddd
     verified: true
-    hashtags: "#muaythai, #fairtexthailand, #onechampionship, #fighter"
+    hashtags: "#fighter, #mwmt, #muaythai, #fairtexthailand"
   - username: "damien_alamos"
     fullname: >-
       Damien Alamos
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.038411
     id: ck0w3psopun9k0i19i8ai76uk
     verified: false
-    hashtags: "#partner, #muaythai, #chinup, #sportiscalling"
+    hashtags: "#muaythai, #chinup, #sportiscalling, #partner"
   - username: "superlek789"
     fullname: >-
       🇹🇭🥊👊SUPERLEK KIATMOO 9🥊👊🇹🇭
@@ -73,12 +73,12 @@ profiles:
     bio: >-
       🇨🇭 From Geneva, Switzerland 🏆 - Pro Rider - 🏆 🥊 Muay Thai Fighter 👊 🤩 Adrenaline lover
     location: "Switzerland"
-    followers: 9316
-    engagement: 1044
-    commentsToLikes: 0.048049
+    followers: 9890
+    engagement: 971
+    commentsToLikes: 0.043145
     id: ck5zy2gkr93td0i14m8tzawy1
     verified: false
-    hashtags: "#usdskates, #besttrick, #scarbodyclothing, #bladergang"
+    hashtags: "#skating, #diegoguilloud, #usdskates, #rollerblades"
   - username: "officialhtoy"
     fullname: >-
       Hasan Toy

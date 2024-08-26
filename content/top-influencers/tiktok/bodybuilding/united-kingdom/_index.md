@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bodybuilding TikTok Influencers In United Kingdom In 2023
+title: Top 10 Bodybuilding TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top bodybuilding TikTok influencers in United Kingdom in 2023. Most popular hashtags: #bodybuilding #fitness #fyp #gym.
+  Find top bodybuilding TikTok influencers in United Kingdom in 2024. Most popular hashtags: #bodybuilding #fyp #fitness #gym.
 platform: TikTok
 hits: 25
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 25 TikTok influencers like this in United Kingdom for you to connect with.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our platform has 25 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
   - username: "benwestfitness"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.035774
     id: ckb9qimuymlx60j23klawjtzl
     verified: false
-    hashtags: "#stitch, #bodybuilding, #diet, #gymtok"
+    hashtags: "#gymtok, #aesthetic, #gym, #dejavu"
   - username: "barry.thomson"
     fullname: >-
       Barry Thomson
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.023223
     id: ck8add49759wz0j786thazs52
     verified: false
-    hashtags: "#ukrappers, #englishrapper, #ukrap, #englishrap"
+    hashtags: "#bodybuilding, #ukrap, #englishrap, #ukrapper"
   - username: "kissyfitness9_"
     fullname: >-
       kissyfitness9_
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.026263
     id: ckd6y7vtcvtqs0j235ztypigx
     verified: false
-    hashtags: "#fy, #scotland, #glutesworkout, #weightloss"
+    hashtags: "#foryou, #glutesworkout, #female, #outfitgoals"
   - username: "___miss__b__"
     fullname: >-
       bakerdavina

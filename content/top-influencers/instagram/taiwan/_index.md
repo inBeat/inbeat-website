@@ -1,84 +1,120 @@
 ---
-title: Top 10 Instagram Influencers In Taiwan In 2023
+title: Top 10 Instagram Influencers In Taiwan In 2024
 description: >-
-  Find top Instagram influencers in Taiwan in 2023. Most popular hashtags: #taipei #taiwan #taipeitravel.
+  Find top Instagram influencers in Taiwan in 2024. Most popular hashtags: #bikini #taiwan #ootd.
 platform: Instagram
-hits: 39
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform has 39 Instagram influencers like this in Taiwan for you to work with.
+hits: 38
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 38 Instagram influencers like this in Taiwan for you to pitch.
 profiles:
-  - username: "ooo_lin_ooo"
-    fullname: >-
-      林倩 🌹 Mercedes Lin
-    bio: >-
-      🦁Model / Travel Girl / Content Creator💛 📸 #Sony #A7iii 💌 合作邀約 : chianlin.official@gmail.com
-    location: "Taiwan"
-    followers: 270069
-    engagement: 597
-    commentsToLikes: 0.018401
-    id: ck0w0omeyf9t20i19j953rgbi
-    verified: false
-    hashtags: "#bior, #219, #guerlaintw, #guerlain"
-  - username: "elena_0921"
-    fullname: >-
-      𝓝𝓪𝓝𝓪 ♥️ 나나
-    bio: >-
-      旅遊여행 生活일상 美食음식 안녕하세요👋🏻저는 나나에요 | 📩合作相關邀約請私訊小盒子or mail 📪elenawang921@gmail.com | 旅遊🔍#na我們去哪玩 美食🔍#na我們吃什麼 登山🔍#na我們去爬山
-    location: "Taiwan"
-    followers: 31453
-    engagement: 177
-    commentsToLikes: 0.064850
-    id: ck14khzrwpl8q0i19qkh0bqif
-    verified: false
-    hashtags: "#kofen, #taiwan, #nantoutravel, #taichungtrip"
-  - username: "pattihuang"
-    fullname: >-
-      🎀Patti🎀采蓁
-    bio: >-
-      ♈️牡羊女❤️采蓁@ᴛᴀɪᴡᴀɴ 🇹🇼 YouTuber 喜歡釣魚🎣旅遊🌎美食🥗愛狗🐶愛露營⛺️ 工作連絡➡️pattihuang0408@gmail.com 🔗Youtube頻道 ► iampatti采蓁 🔗FB粉專► Iampatti采蓁
-    location: "Taiwan"
-    followers: 49817
-    engagement: 576
-    commentsToLikes: 0.018474
-    id: ck0tz2j42ox0m0i198qzv48qw
-    verified: false
-    hashtags: "#711, #ok, #partipost, #fishinggirl"
   - username: "yilunnnnn_"
     fullname: >-
       阿侖 Alun
     bio: >-
-      跟我一起出去玩🇰🇷🇹🇼 Korea·Food·Travel - 📮missidol1717@gmail.com 韓國代購 @forth.collect 我的男裝 @lun_closet - My Youtube ⬇️
+      韓國生活中🇰🇷 Korea•Food•Lifestyle - 협찬,광고📨alun@gushcloudtalent.com 📮tyti653@gmail.com - 韓國代購 @forth.collect 我的男裝 @lun_closet - My Youtube⬇️
     location: "Taiwan"
-    followers: 46336
-    engagement: 520
-    commentsToLikes: 0.016411
+    followers: 67916
+    engagement: 1219
+    commentsToLikes: 0.014425
     id: ck14hs4esbupd0i191qpn68mu
     verified: false
-    hashtags: "#bellavita, #universtar, #shooky, #chimmy"
-  - username: "yangyungwei"
+    hashtags: "#ootd, #cursh, #osaka, #afterlike"
+  - username: "rurubywang"
     fullname: >-
-      楊 勇緯 ヤン
+      rubi
     bio: >-
-      ▫️新民高校ˢᴵᴺᴹᴵᴺ ▫️國立臺灣體育運動大學ᴺᵀᵁˢ 🥋ᶜᴴᴵᴺᴱˢᴱ ᵀᴬᴵᴾᴱᴵ🥋 Judoka🇹🇼
+      
     location: "Taiwan"
-    followers: 6717
-    engagement: 1506
-    commentsToLikes: 0.009197
-    id: ck0w3kkrztvn90i19mv92aslm
+    followers: 23483
+    engagement: 302
+    commentsToLikes: 0.010033
+    id: ck13d5lvt3sad0i19c4u2rplb
     verified: false
-    hashtags: "#judo, #judomasters, #judodoha, #tpe"
+    hashtags: "#tbt, #leicaq2, #guerlain, #guerlaintw"
+  - username: "ooo_lin_ooo"
+    fullname: >-
+      林倩 🌹 Mercedes Lin
+    bio: >-
+      Daily life in @ooo_chian_ooo 📥chianlin.official@gmail.com More info ⬇️
+    location: "Taiwan"
+    followers: 319708
+    engagement: 274
+    commentsToLikes: 0.027859
+    id: ck0w0omeyf9t20i19j953rgbi
+    verified: false
+    hashtags: "#guerlaintw, #megara, #malaysia, #macao"
+  - username: "yga0721"
+    fullname: >-
+      蔡阿嘎
+    bio: >-
+      【🔥蔡阿嘎X純淨南極磷蝦油。優惠團購中】👇👇
+    location: "Taiwan"
+    followers: 1460991
+    engagement: 215
+    commentsToLikes: 0.004254
+    id: ck0vv1cqvn38y0i19gauo3939
+    verified: true
+    hashtags: "#hamucafe, #hahababy, #starbucks, #burgerking"
+  - username: "elena_0921"
+    fullname: >-
+      𝓝𝓪𝓝𝓪 🤍
+    bio: >-
+      旅遊/住宿/穿搭/咖啡廳/孕期分享 🥚#na的孵蛋日記 ｜ 📩合作相關邀約請私訊小盒子or mail 📪elenawang921@gmail.com | 衣服二手拍🛒 @nana.usedclothing
+    location: "Taiwan"
+    followers: 29924
+    engagement: 200
+    commentsToLikes: 0.053545
+    id: ck14khzrwpl8q0i19qkh0bqif
+    verified: false
+    hashtags: "#klooktravel, #ootd, #wantogo, #poptour"
+  - username: "love_ritakao"
+    fullname: >-
+      🩵RITA
+    bio: >-
+      ᴛᴀɪᴘᴇɪ ᴛᴀɪᴡᴀɴ🇹🇼☀️👙🥂✨ 🪽Fresho2x RITA聯名保養品系列🔗
+    location: "Taiwan"
+    followers: 605917
+    engagement: 160
+    commentsToLikes: 0.010193
+    id: ck0uaj34hcc240i19yj5o0da9
+    verified: false
+    hashtags: "#s20, #airspace, #bikini, #s2otaiwan"
+  - username: "marcosora"
+    fullname: >-
+      m a r c o s o r a .
+    bio: >-
+      #馬高食食食 食在乜乜乜系列 🇭🇰 #跟住馬高去旅行 之乜乜篇系列 🇹🇼🇯🇵🇲🇴 #在香港打卡才是馬高的正經事 #心靈馬湯 #馬高敗家博物館 #馬高電視城 #馬高愛門釘 #馬高影音雜誌 #秒速日記 系列
+    location: "Taiwan"
+    followers: 35602
+    engagement: 10
+    commentsToLikes: 0.000709
+    id: ck0u6xhld35y80i19hgz0txhv
+    verified: false
+    hashtags: "#wintergala, #grandlisboapalace, #pepperlunchhk, #simplyirresistible"
+  - username: "pattihuang"
+    fullname: >-
+      🎀Patti🎀采蓁
+    bio: >-
+      ♈️牡羊女❤️采蓁@ᴛᴀɪᴡᴀɴ 🇹🇼 YouTuber 喜歡釣魚🎣旅遊🌎美食🥗愛狗🐶愛露營⛺️ 工作連絡➡️pattihuang0408@gmail.com 🔗YouTube頻道 ► iampatti采蓁 🔗FB粉專► Iampatti采蓁
+    location: "Taiwan"
+    followers: 53497
+    engagement: 564
+    commentsToLikes: 0.021524
+    id: ck0tz2j42ox0m0i198qzv48qw
+    verified: false
+    hashtags: "#igdaily, #youtube, #hereandnow, #ubereats"
   - username: "rainbowalicee"
     fullname: >-
       彩虹愛麗絲🌈𝓕𝓪𝓼𝓱𝓲𝓸𝓷 𝓛𝓲𝓯𝓮𝓼𝓽𝔂𝓵𝓮
     bio: >-
-      ᴍᴏᴅᴇʟ_ʙᴀʀʙɪᴇ ᴄᴇᴏ_ʙʟᴏɢɢᴇʀ 🌈 ɪ ᴀᴍ ɴᴏᴛ ʟɪᴋᴇ ʜᴇʀ, ɪ'ᴍ ʟɪᴋᴇ ᴍᴇ ♡ #ɪɴsᴘᴏ ♡ #ᴇᴠᴇɴᴛs ♡ #ᴅɪᴀʀʏ ♡ #ғɪᴛɴᴇss ♡ #ᴍᴏᴅᴇʟɪɴɢ ♡ #ᴅᴀɴᴄᴇ ♡ #ᴄʀᴀғᴛʙᴇᴇʀ ❤️🧡💛💚💙💜🖤
+      🦋 ᴍᴏᴅᴇʟ_ʙᴀʀʙɪᴇ ᴄᴇᴏ_ʙʟᴏɢɢᴇʀ #followme #bostonlife #taiwanesegirl 🇹🇼 🏰 ɪɴ ʙᴏꜱᴛᴏɴ ᴜꜱᴀ 👸🏼: ᴇʟꜱᴀ ɪɴ ᴍᴜʟᴀɴ'ꜱ ʙᴏᴅʏ ♡ #ɪɴsᴘᴏ ♡ #ᴇᴠᴇɴᴛs ♡ #ᴅɪᴀʀʏ ♡ #ᴍᴏᴅᴇʟɪɴɢ
     location: "Taiwan"
-    followers: 30758
-    engagement: 82
-    commentsToLikes: 0.075637
+    followers: 33722
+    engagement: 67
+    commentsToLikes: 0.077866
     id: ck0tz8q1apip30i19nnkwdhfy
     verified: false
-    hashtags: "#sudiotw, #cheongsam, #makeup, #sudionio"
+    hashtags: "#colorfullife, #brooklynbridge, #lifestyle, #usa"
   - username: "_joyceee037"
     fullname: >-
       慈妹🎐
@@ -91,40 +127,4 @@ profiles:
     id: ck0w3bed4sjhj0i19lufamlyo
     verified: false
     hashtags: "#love, #fubonangels, #attraction, #taiwan"
-  - username: "bentsai_tw"
-    fullname: >-
-      Ben
-    bio: >-
-      🇹🇼Taiwanese 188/88♉️ 🏐️🏋️⛷🤿⛰️🏄‍♂️ 富邦金控/人壽 業務主任 任職 （Insurance）
-    location: "Taiwan"
-    followers: 29893
-    engagement: 509
-    commentsToLikes: 0.015643
-    id: ck0w4qoerzx770i1940qyewci
-    verified: false
-    hashtags: "#sudio, #sudiotw, #letdance, #gym"
-  - username: "kubrickgood"
-    fullname: >-
-      K U B R I C K   H O
-    bio: >-
-      傳統工藝 Taiwan🇹🇼
-    location: "Taiwan"
-    followers: 144255
-    engagement: 567
-    commentsToLikes: 0.007143
-    id: ck0ubyp5pfnjz0i19vs76ciae
-    verified: false
-    hashtags: "#snake, #taipei, #tattoos, #artwork"
-  - username: "joeyspencer218"
-    fullname: >-
-      Joey 鈞
-    bio: >-
-      #BJ 🐖🐕 #nurse 💉💉 #workout 🏋 #工作邀約請私訊小盒子 #Traveling 愛旅遊✈🌈 其實我是迷你犬～ 🇹🇼🏳️‍🌈🏴‍☠️🇱🇷🇰🇷🇯🇵 🇨🇳
-    location: "Taiwan"
-    followers: 10168
-    engagement: 1014
-    commentsToLikes: 0.044158
-    id: ck138yv4niot60i19qpbpxqei
-    verified: false
-    hashtags: "#mountains, #taiwantravel, #taipeitravel, #taipei"
 ---

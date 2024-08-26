@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food Instagram Influencers In Milan In 2023
+title: Top 10 Food Instagram Influencers In Milan In 2024
 description: >-
-  Find top food Instagram influencers in Milan in 2023. Most popular hashtags: #milano #milan #food #foodporn.
+  Find top food Instagram influencers in Milan in 2024. Most popular hashtags: #milano #foodporn #food #milanofood.
 platform: Instagram
-hits: 257
+hits: 266
 text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 257 Instagram influencers like this in Milan, Italy for you to work with.
+text_bottom: Our platform aggregates 266 Instagram influencers like this in Milan, Italy for you to work with.
 profiles:
   - username: "tasty.mi"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck8t2bcmdytw40j782kqkz0sa
     verified: false
     hashtags: "#milan, #foodiesmilano, #piattitipici, #pastaporn"
+  - username: "disciules"
+    fullname: >-
+      Matilde Carminati
+    bio: >-
+      🧭Viaggi & Sapori📍Milano /Arco (ᴛɴ) 🐻‍❄ ʙʟᴏɢ ɴᴏʀᴅ ɪᴛ ᴅᴀʟ 2016 Dis'cioles=sbrigati 👩‍💻 Ui&Ux designer ✈️ @my.trip.map 🍷@milanesarius 🫂 @ohmaoggi_milano
+    location: "Italy"
+    followers: 43094
+    engagement: 279
+    commentsToLikes: 0.027940
+    id: ck5q05hye4clm0i11rgxnylg2
+    verified: false
+    hashtags: "#milanodascoprire, #lombardia, #in, #foodmilano"
   - username: "italiandreamfood"
     fullname: >-
       Cristina Fiore
@@ -31,18 +43,18 @@ profiles:
     id: ckap6d8hnfemq0i782bxvxd4z
     verified: false
     hashtags: "#nycfoodblogger, #italianfoodblogger, #italianfoodporn, #fashion"
-  - username: "disciules"
+  - username: "hellergratitude"
     fullname: >-
-      Tilde |Meneghini,Viaggi&Sapori
+      ✨HeLLeR Gratitude ✨
     bio: >-
-      Nord IT e dintorni - 📷 Matilde Carminati 📍Milano / RivaDG Ui&Ux design • Travel Agent @my.trip.map @gowildescapes 🌲Dis'cioles, sbrigati🐺
+      Bellezza interiore ed esteriore!!! ☯️ Strumenti per MANIFESTARE con LA LEGGE DI ATTRAZIONE qui: www.HeLLeRChannel.com 🎦 #youtube 146k+➡️4VIDEO sett🇮🇹
     location: "Italy"
-    followers: 29231
-    engagement: 139
-    commentsToLikes: 0.032774
-    id: ck5q05hye4clm0i11rgxnylg2
+    followers: 46283
+    engagement: 117
+    commentsToLikes: 0.254231
+    id: ck6ualcv847b90j71go3knmf6
     verified: false
-    hashtags: "#montagna, #trentinofood, #milanodavedere, #lombardia"
+    hashtags: "#modellaitaliana, #travel, #summer, #model"
   - username: "__meggola"
     fullname: >-
       Margherita
@@ -55,6 +67,18 @@ profiles:
     id: ckaotw0mkxr500i78fw1rbqrr
     verified: false
     hashtags: "#girl, #lips, #adoro, #me"
+  - username: "food_advisor360"
+    fullname: >-
+      Food Advisor🍔🍟🍕🍰🥩
+    bio: >-
+      •c’è rimast’ o magnà 🍔🥩🍕🍰 - aspirante food blogger💼 • Amanti della buona cucina❗ ⭕️Per collaborazioni contattami in DM Segui #foodadvisor360
+    location: "Italy"
+    followers: 15022
+    engagement: 687
+    commentsToLikes: 0.125770
+    id: ckf5w7p75r5wh0j236cc73hqi
+    verified: false
+    hashtags: "#napoli, #bakery, #panettone, #christmasiscoming"
   - username: "mslipuma"
     fullname: >-
       𝐌𝐀𝐑𝐈𝐒𝐓𝐄𝐋𝐋𝐀 𝐋𝐈 𝐏𝐔𝐌𝐀
@@ -103,28 +127,4 @@ profiles:
     id: ck9wehy4hkco80j787o45t015
     verified: false
     hashtags: "#ootdmenswear, #fashionnovapartner, #classymen, #classymenstyle"
-  - username: "wemilano"
-    fullname: >-
-      WE MILANO
-    bio: >-
-      Ⓜ️ Milano ⁣Urban Explorer 🚹 Milano Google Local Guide 👇👇👇👇👇👇👇
-    location: "Italy"
-    followers: 31170
-    engagement: 343
-    commentsToLikes: 0.013510
-    id: ck0tv9gu6afy80i19wm9k7ixo
-    verified: false
-    hashtags: "#visititaly, #milano, #milanodaclick, #milanocity"
-  - username: "katerynagryniukh"
-    fullname: >-
-      Kateryna Gryniukh
-    bio: >-
-      Finalist #masterchefitalia Info e collaborazioni : ⬇️⬇️⬇️ katerynagryniukh@gmail.com
-    location: "Italy"
-    followers: 80571
-    engagement: 112
-    commentsToLikes: 0.046549
-    id: ck5c15lr7uieb0i11grd9iyyz
-    verified: true
-    hashtags: "#cibo, #art, #italy, #thebestchef"
 ---

@@ -1,24 +1,36 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Toronto In 2023
+title: Top 10 Home Decor Instagram Influencers In Toronto In 2024
 description: >-
-  Find top home decor Instagram influencers in Toronto in 2023. Most popular hashtags: #homedecor #torontoblogger #toronto #ad.
+  Find top home decor Instagram influencers in Toronto in 2024. Most popular hashtags: #homedecor #torontoblogger #toronto #torontolife.
 platform: Instagram
-hits: 20
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 20 Instagram influencers like this in Toronto, Canada for you to connect with.
+hits: 65
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 65 Instagram influencers like this in Toronto, Canada for you to pitch.
 profiles:
   - username: "working_chix"
     fullname: >-
-      Anna Przezak
+      Anna Przezak • Fashion Beauty Lifestyle Blogger
     bio: >-
-      Fashion, Beauty, Lifestyle, Personal Finance CPA, CA / Manager from 9 to 5 / Polish girl from Montreal, living in👇🏻 📍Toronto 📩 workingchix@gmail.com
+      CPA, CA Polish girl from Montreal, living in📍Toronto 📩 workingchix@gmail.com
     location: "Canada"
-    followers: 33270
-    engagement: 127
-    commentsToLikes: 0.041714
+    followers: 30666
+    engagement: 86
+    commentsToLikes: 0.072082
     id: ck9wh6amgwge60j782z3gl8jx
     verified: false
-    hashtags: "#toronto, #homedecor, #torontoblogger, #luxyhair"
+    hashtags: "#foodie, #torontoblogger, #parisianstyle, #homedecor"
+  - username: "raashiballal"
+    fullname: >-
+      𝕽𝖆𝖆𝖘𝖍𝖎
+    bio: >-
+      @bakerbyday Baddie by night 👩🏾‍🍳 📍Toronto 💌 raashi@sociallensmedia.com
+    location: "Canada"
+    followers: 19580
+    engagement: 705
+    commentsToLikes: 0.034808
+    id: clq3s09gtwqmz0k08les52dim
+    verified: false
+    hashtags: "#pinterest, #digitalcamera, #revolve, #summer"
   - username: "chanlmarshl"
     fullname: >-
       ENERGY 👑
@@ -31,6 +43,66 @@ profiles:
     id: ck5hctc5ujv770i114dz7n18l
     verified: false
     hashtags: "#music, #partygirlseries, #dj, #tattoosfornow"
+  - username: "lifeofmanpreetincanada"
+    fullname: >-
+      Manpreet | Life of Manpreet
+    bio: >-
+      I share everyday things about life in Canada for newcomers. 👩‍💻Digital Marketing - social, ads 📸 India’s leading Booktuber @indianbooktuber 📍Toronto
+    location: "Canada"
+    followers: 20598
+    engagement: 285
+    commentsToLikes: 0.028013
+    id: clo3xkgr1m6xh0j083h3pjs3f
+    verified: false
+    hashtags: "#trending, #lifeincanada, #explorecanada, #foryoupage"
+  - username: "mandy_sparkleshinylove"
+    fullname: >-
+      Mandy Furnis
+    bio: >-
+      📍Whitby Indiscriminate Shopper | Food Enthusiast | Fab Mom | Beauty Lover | Travel Junkie ✈️ Next ➡️ Martha’s Vineyard | Bahamas
+    location: "Canada"
+    followers: 32015
+    engagement: 5
+    commentsToLikes: 0.000000
+    id: ck0ttgoiz2mzh0i19heoll485
+    verified: false
+    hashtags: "#marthasvineyard, #marthasvineyardlife, #summerstyle, #summer"
+  - username: "myinspiredhome"
+    fullname: >-
+      Anam | My Inspired Home • Toronto 🇨🇦🇵🇰
+    bio: >-
+      ✨Create Your Oasis✨ Sharing home decor, organization tips, and easy meals for busy families like mine Owner of @shopinspiredhome • Mom of 3 • CPA, CA
+    location: "Canada"
+    followers: 128677
+    engagement: 606
+    commentsToLikes: 0.067476
+    id: ck5zu710o1t0a0i149o57vz9l
+    verified: false
+    hashtags: "#muslimblogger, #musliminfluencer, #easyrecipes, #canadianmuslim"
+  - username: "petertorkan"
+    fullname: >-
+      Peter & Paige Torkan
+    bio: >-
+      Star of “Luxe Listings Toronto” Streaming now on Amazon Prime Video 🎬 🙏”In Source We Walk and Breathe, Live & Breathe and Have Our Being in it”
+    location: "Canada"
+    followers: 171332
+    engagement: 32
+    commentsToLikes: 0.041146
+    id: ck5hpsbzxrvy90i11l7ltufsp
+    verified: false
+    hashtags: "#torontorealtors, #interiordesign, #homedecor, #teamtorkan"
+  - username: "josephineacreativelife"
+    fullname: >-
+      Vanessa | Lifestyle Blog
+    bio: >-
+      Lifestyle. TO 🇨🇦. Mama of 3 💗 Motherhood, recipes, decor, fashion, travel, self-care & slow living. For Collabs 💌 Ambassador @mamasformamas.
+    location: "Canada"
+    followers: 30965
+    engagement: 28
+    commentsToLikes: 0.064205
+    id: ck6tiaqm10d0p0j71f5g5jln6
+    verified: false
+    hashtags: "#trending, #torontomoms, #motherhoodunplugged, #itsthelittlethings"
   - username: "future.design.homes"
     fullname: >-
       Future Design Homes Corp.
@@ -42,89 +114,17 @@ profiles:
     commentsToLikes: 0.030332
     id: ck8t6h1x4dluq0j78j6cti875
     verified: false
-    hashtags: "#homedecor, #modernhomes, #torontobuilder, #artoftheday"
-  - username: "torontoplant.girl"
+    hashtags: "#mindblowing, #renovation, #design, #moderninterior"
+  - username: "nickibats"
     fullname: >-
-      Julia
+      NICKI BATS
     bio: >-
-      ⋐ Plant care tips and styling🌿✨ ⋐ Email for plant consultation services⬇️ ⋐ Let’s collab💚 📍Toronto, Canada #torontolovesplants to be featured
+      Toronto 🦋 Montréal ugc creator • influencer • model collab: contact.nickibats@gmail.com
     location: "Canada"
-    followers: 27539
-    engagement: 2707
-    commentsToLikes: 0.034875
-    id: ck5zij1cvfsx50i14kkqce03u
+    followers: 6634
+    engagement: 407
+    commentsToLikes: 0.111856
+    id: ckmw1dsgd6qqo0j23kndyy0s0
     verified: false
-    hashtags: "#houseplantplantclub, #plantsmakepeoplehappy, #houseplantcollection, #crazyplantpeople"
-  - username: "kat.vorobiev"
-    fullname: >-
-      Kat ✨ Positive Motherhood | Amazon | Wellness
-    bio: >-
-      ✨Positive Motherhood ✨Real life Amazon Finds ✨Family meals and activities ✨ Wellness Come for the stories & shop my looks ⬇️
-    location: "Canada"
-    followers: 13536
-    engagement: 124
-    commentsToLikes: 0.178125
-    id: ckt8qrrss68kq0j236s4x1djc
-    verified: false
-    hashtags: "#instamom, #zara, #stylediary, #ootd"
-  - username: "lauravandervoort"
-    fullname: >-
-      LAURA VANDERVOORT [11:11]
-    bio: >-
-      Actor+Producer+Director+Writer Toronto, 🇨🇦 DogMom @frankie_blueeyes @WorldVisionCan Ambassador Directorial Debut @mysoultotakefilm
-    location: "Canada"
-    followers: 272987
-    engagement: 130
-    commentsToLikes: 0.029993
-    id: ck0vwmzr9ulm80i19uriw8mu5
-    verified: true
-    hashtags: "#buildahome, #martianmanhunter, #supergirl, #newhome"
-  - username: "choudhurydib"
-    fullname: >-
-      Dibya | Fashion && Lifestyle
-    bio: >-
-      Fashion && Mamma Lifestyle 📍Toronto, CA 🇨🇦 🇺🇸 🇮🇳 Collab: choudhurydibya@gmail.com Shoedazzle👇
-    location: "Canada"
-    followers: 23419
-    engagement: 287
-    commentsToLikes: 0.415016
-    id: ck8tbjidovy1i0j78zwxaohqd
-    verified: false
-    hashtags: "#exploretoronto, #ad, #shoedazzlesquad, #sponsored"
-  - username: "teachme_style"
-    fullname: >-
-      Holly Forsberg
-    bio: >-
-      Dane’s Mom 👶🏼 💙 @lee_forsberg 💍 Sunny + Witt’s Fur Mama 🐶🐶 Teacher📚 | Lifestyle Blogger💻 Inquiries 💌 holly@infagency.com
-    location: "Canada"
-    followers: 65995
-    engagement: 232
-    commentsToLikes: 0.025825
-    id: ck5c8ew099bv80i11x8ny5s63
-    verified: false
-    hashtags: "#ad, #shopteach, #christmas, #weddingdecor"
-  - username: "sidafz"
-    fullname: >-
-      Sidrah | Toronto Blogger
-    bio: >-
-      Lifestyle & Travel blogger📍Toronto Sharing my child's autism journey Follow for kids inclusive activities Work with me: DM / 📧 siddyusman@gmail.com
-    location: "Canada"
-    followers: 13878
-    engagement: 115
-    commentsToLikes: 0.669998
-    id: cks8aqhhiupz50j23q90dq3w1
-    verified: false
-    hashtags: "#love, #torontocontentcreator, #muslimblogger, #canadianblogger"
-  - username: "simplysuppa"
-    fullname: >-
-      Julia Suppa
-    bio: >-
-      📹 Storyteller | Content Creator @suppamedia 📹 Host | Blogger 💫Inspire, Work Hard, Be Kind, Give Back. Repeat. 📍#Vaughan #Toronto #Canada 🇨🇦
-    location: "Canada"
-    followers: 7593
-    engagement: 417
-    commentsToLikes: 0.101940
-    id: ck8tbwm6jxgan0j78y4he4wod
-    verified: false
-    hashtags: "#ad, #simplysuppa, #homereno, #yyzmoms"
+    hashtags: "#torontofashion, #selinalife, #millennialmoney, #meetyouthere"
 ---

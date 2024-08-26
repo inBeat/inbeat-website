@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Berlin In 2023
+title: Top 10 Food TikTok Influencers In Berlin In 2024
 description: >-
-  Find top food TikTok influencers in Berlin in 2023. Most popular hashtags: #foryou #berlin #food #fyp.
+  Find top food TikTok influencers in Berlin in 2024. Most popular hashtags: #foryou #berlin #food #fyp.
 platform: TikTok
-hits: 24
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: inBeat holds 24 TikTok influencers like this in Berlin, Germany for you to work with.
+hits: 23
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 23 TikTok influencers like this in Berlin, Germany for you to pitch.
 profiles:
   - username: "fuerstwiacek"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.028124
     id: ckbexl187i0aj0j235603gbcl
     verified: false
-    hashtags: "#dm, #shein, #hairgrowth, #sheingals"
+    hashtags: "#firstimpression, #hairgrowth, #sheingals, #shein"
   - username: "tanni_berlin"
     fullname: >-
       TanNi_BerLin
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.027107
     id: ckb9asykcw1il0j23v3jvj38v
     verified: false
-    hashtags: "#comedy, #rezept, #tutorial, #bubbletea"
+    hashtags: "#rezept, #tutorial, #bubbletea, #comedy"
   - username: "numng"
     fullname: >-
       num

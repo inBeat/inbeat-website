@@ -1,24 +1,72 @@
 ---
-title: Top 10 Food Instagram Influencers In Vancouver In 2023
+title: Top 10 Food Instagram Influencers In Vancouver In 2024
 description: >-
-  Find top food Instagram influencers in Vancouver in 2023. Most popular hashtags: #vancouverfoodie #yvreats #dishedvan #eatvancouver.
+  Find top food Instagram influencers in Vancouver in 2024. Most popular hashtags: #vancouverfoodie #vancouver #vancouvereats #yvreats.
 platform: Instagram
-hits: 63
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 63 Instagram influencers like this in Vancouver, Canada for you to connect with.
+hits: 120
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database holds 120 Instagram influencers like this in Vancouver, Canada for you to work with.
 profiles:
+  - username: "with.rose.love"
+    fullname: >-
+      Rose 📸 Vancouver Foodie
+    bio: >-
+      🍰 Food Portrait 🎙 Guest speaker @radioAM1470📍 🎥 YouTube 📸 DM for collaboration $100 off Thermomix TM6 (link) for
+    location: "Canada"
+    followers: 12354
+    engagement: 341
+    commentsToLikes: 0.914488
+    id: ckxhnsid566d90j2371ftknj1
+    verified: false
+    hashtags: "#vancouverbc, #vancouverisawesome, #thrillist, #bubbletea"
+  - username: "eatwithmegg"
+    fullname: >-
+      Meg🌹| Vancouver Foodie
+    bio: >-
+      🍽️Food | ✈️Travel | 💃Lifestyle 🇨🇦 YVR 📩DM/Email for Collab/Media Inquiries 🍵& 🍣 Enthusiasts |🧋Bubble Tea Addict TIKTOK:
+    location: "Canada"
+    followers: 10843
+    engagement: 372
+    commentsToLikes: 0.323152
+    id: cky43n86shqek0j23nex6ihma
+    verified: false
+    hashtags: "#vancouverfoodie, #foodcouver, #foodie, #pasta"
+  - username: "yvreats"
+    fullname: >-
+      Alana - Vancouver Food
+    bio: >-
+      ~Vancouver, BC and beyond ~food blogging since 2014 📧 yvreats@gmail.com
+    location: "Canada"
+    followers: 38892
+    engagement: 125
+    commentsToLikes: 0.279293
+    id: ck6tsezwz4e2a0j710sccza5k
+    verified: false
+    hashtags: "#604eats, #yvrfoodie, #richmondeats, #vancouverfoodblogger"
   - username: "foodiemugs"
     fullname: >-
-      𝗠𝗮𝗴𝗴𝗶𝗲 | Vancouver Foodie
+      Maggie Lam .  Vancouver Foodie . Food Photographer
     bio: >-
-      📍 Vancouver, Canada 📸 Food Photographer/ Foodie 🔻 DM for Collabs/ Media 📧 foodiemugs@gmail.com Sharing Yummy Foods, New Restaurants, Latest Deals!
+      📍 Vancouver, Canada 🔻 DM for Collabs/ Marketing / Media / UGC 📧 foodiemugs@gmail.com Sharing Tasty Foods, New Restaurants, Latest Deals!
     location: "Canada"
-    followers: 11817
-    engagement: 749
-    commentsToLikes: 1.411074
+    followers: 18075
+    engagement: 83
+    commentsToLikes: 0.156888
     id: ck8sxvojgiuh30j78g1o0ceky
     verified: false
-    hashtags: "#gastropostvan, #yvreats, #foodcouver, #vietnamesefood"
+    hashtags: "#thrillist, #vancouverfoodie, #anywherevancouver, #instadfw"
+  - username: "vancityeats"
+    fullname: >-
+      VANCOUVER FOOD SCENE
+    bio: >-
+      😋The most delicious meals of Vancouver ‼️Giveaways to the best restaurants 🤳Providing marketing services for local restaurants
+    location: "Canada"
+    followers: 46093
+    engagement: 119
+    commentsToLikes: 0.475269
+    id: ck0typscwnp620i197njk8u3q
+    verified: false
+    hashtags: "#yvr, #vancityeats, #vancouvereats, #vancouver"
   - username: "food_with_howie"
     fullname: >-
       Howard | 🇨🇦 Vancouver Foodie
@@ -31,18 +79,42 @@ profiles:
     id: ck5q5xvddv2qk0i11gl6ede5r
     verified: false
     hashtags: "#vancouverfoodie, #sydneyeats, #yvreats, #foodcouver"
-  - username: "vancityeats"
+  - username: "lynneishungry"
     fullname: >-
-      VANCOUVER FOOD SCENE
+      Lynne Lien | YYC Foodie
     bio: >-
-      😋The most delicious meals of Vancouver ‼️Giveaways to the best restaurants 🍺Best local drinks @vancitydrinks 📸Managed by @mainmenus
+      📍#YYCFOODIE Crazy #plant + #furmama & #RDH 💁🏻‍♀️🦷🐶🌱 • 🌟 📧 DM or email for collabs & events
     location: "Canada"
-    followers: 41763
-    engagement: 178
-    commentsToLikes: 1.156581
-    id: ck0typscwnp620i197njk8u3q
+    followers: 4378
+    engagement: 857
+    commentsToLikes: 0.531055
+    id: ck5zlyfyell5c0i14rsduep1j
     verified: false
-    hashtags: "#vcbfood, #eatvancouver, #vancouverfoodies, #gastropostvan"
+    hashtags: "#instafood, #foodphotography, #yum, #ad"
+  - username: "yvrcookie"
+    fullname: >-
+      YVR Cookie 🍪
+    bio: >-
+      A Decadent Stuffed Cookie Experience Delivery across Canada and USA🎁 Free local delivery over $65
+    location: "Canada"
+    followers: 36977
+    engagement: 144
+    commentsToLikes: 0.578231
+    id: cky723u61jici0j237u1z4vu8
+    verified: false
+    hashtags: "#cookies, #yvrcookie, #cookiemonster, #vancouver"
+  - username: "__sugar.plum.chumm__"
+    fullname: >-
+      SWF ✨
+    bio: >-
+      Living the✨Life 🇨🇦 Lifestyle Influencer Fashion|Skincare|Food|Travel|Lifestyle & everything nice!
+    location: "Canada"
+    followers: 19842
+    engagement: 6
+    commentsToLikes: 0.005440
+    id: ckto9ubmrer2w0j23l60i6ifc
+    verified: false
+    hashtags: "#christmas, #holidayseason, #torontochristmas, #torontofoodie"
   - username: "dari_eats"
     fullname: >-
       Darius • Vancouver Foodie
@@ -54,77 +126,5 @@ profiles:
     commentsToLikes: 0.291190
     id: ck6tm0thd6zkb0j71lhlg1p3f
     verified: false
-    hashtags: "#vancouverkoreanfood, #foodintheair, #yvrfoodie, #604eats"
-  - username: "withnatwong"
-    fullname: >-
-      natasha wong | vancouver food
-    bio: >-
-      + vancouver food 🍟🥔 + med lab tech 🔬🧫 + also identifies as a koala 🐨💤 + contact: anothervancityfoodie@gmail.com
-    location: "Canada"
-    followers: 16347
-    engagement: 442
-    commentsToLikes: 0.188694
-    id: ck5zo98r3q1ow0i14mhwnjnr0
-    verified: false
-    hashtags: "#dishedvan, #nomsmag, #vancouver, #vancouverfoodie"
-  - username: "nomnomyvr"
-    fullname: >-
-      Vancouver | Food • Travel • 📷
-    bio: >-
-      Exploring Vancouver’s food scene and beyond. #NomNomYVR Photo journaling since March 2014 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 📧 Nora | nomnomyvr@gmail.com
-    location: "Canada"
-    followers: 28744
-    engagement: 138
-    commentsToLikes: 0.205013
-    id: ck1350umyz4oo0i19m11voow6
-    verified: false
-    hashtags: "#richmondbc, #madefromscratch, #shamelessbuns, #theirthere"
-  - username: "scoutmagazine"
-    fullname: >-
-      Scout Magazine
-    bio: >-
-      A daily guide to Vancouver food and culture.
-    location: "Canada"
-    followers: 41114
-    engagement: 201
-    commentsToLikes: 0.164021
-    id: ck0twbayeeqfi0i19ze3a9ysh
-    verified: false
-    hashtags: "#eastvan, #scoutyvr, #yvrfood, #seebcfirst"
-  - username: "riceoverload"
-    fullname: >-
-      Vancouver Food | Floating Food
-    bio: >-
-      Discover the best of Vancouver’s food scene...in the air #ibelievefoodcanfly #riceoverload @jen_tsl @ronniesum DM for collab
-    location: "Canada"
-    followers: 4564
-    engagement: 815
-    commentsToLikes: 0.156280
-    id: ck5zl3k9rko4n0i14vuihyeky
-    verified: false
-    hashtags: "#riceoverload, #media, #ibelievefoodcanfly, #wonderfflebc"
-  - username: "sk_foodoholic"
-    fullname: >-
-      Sharon N. | Vancouver Food
-    bio: >-
-      📍vancouver ✉️ sharoninyvr@gmail.com 📷 food photography since 2015
-    location: "Canada"
-    followers: 18162
-    engagement: 238
-    commentsToLikes: 0.293260
-    id: ckf5v9y1bntxo0j23yow4uon9
-    verified: false
-    hashtags: "#fairmontempress, #victoriabc, #media, #aprilfools"
-  - username: "yvreats"
-    fullname: >-
-      Alana - Vancouver Food
-    bio: >-
-      Vancouver, BC and beyond Check out @yvr.alana for more pics of everyday life 📧 yvreats@gmail.com
-    location: "Canada"
-    followers: 30187
-    engagement: 187
-    commentsToLikes: 0.207268
-    id: ck6tsezwz4e2a0j710sccza5k
-    verified: false
-    hashtags: "#richmondmoments, #dishedvan, #eastvan, #eatstagram"
+    hashtags: "#richmondeats, #vancouverfoodie, #koreanfoodlover, #foodmemes"
 ---

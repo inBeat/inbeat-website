@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Italy In 2023
+title: Top 10 Bakers Instagram Influencers In Italy In 2024
 description: >-
-  Find top bakers Instagram influencers in Italy in 2023. Most popular hashtags: #foodfluffer #thebakefeed #foodphotography #foodartblog.
+  Find top bakers Instagram influencers in Italy in 2024. Most popular hashtags: #foodfluffer #thebakefeed #bakery #dolce.
 platform: Instagram
-hits: 316
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 316 Instagram influencers like this in Italy for you to pitch.
+hits: 322
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 322 Instagram influencers like this in Italy for you to work with.
 profiles:
   - username: "bestobaker"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ck8t79kdyg1eh0j789b6xts54
     verified: false
     hashtags: "#foodphotographyandstyling, #foodstyleguide, #stilllifephotography, #foodphotononstop"
-  - username: "panelibrinuvole"
-    fullname: >-
-      Alice Del Re
-    bio: >-
-      email 📩 alicedelre@gmail.com Food photographer | Food writer | Serial baker
-    location: "Italy"
-    followers: 33346
-    engagement: 317
-    commentsToLikes: 0.197268
-    id: ck5q4xu9zqn9g0i11deeagnva
-    verified: false
-    hashtags: "#adv, #healthyfood, #foodshot, #cacao"
   - username: "devils.baker"
     fullname: >-
       Peppe - Pastry Chef
@@ -67,18 +55,18 @@ profiles:
     id: ckaozvyjznnbw0i78x8e38pl1
     verified: false
     hashtags: "#cioccolato, #pie, #bakery, #meringata"
-  - username: "dolcementeconmagda"
+  - username: "omarbusi"
     fullname: >-
-      𝓜𝓪𝓰𝓭𝓪 🌷
+      Omar Busi
     bio: >-
-      👉🏻 Blog: www.dolcementeconmagda.it 👉🏻 FB: Dolcemente con Magda 📩 Mail: dolcementeconmagda@gmail.com 🧁Sweetblogger Qui trovi la ricetta di oggi👇🏻
+      I'm an Italian pastry chef, consultant, trainer, food innovator and problem solver 👇🏻Book Author 📕📖📔
     location: "Italy"
-    followers: 15443
-    engagement: 830
-    commentsToLikes: 0.274311
-    id: ck55vfplmepll0i11nlau5uj0
+    followers: 223256
+    engagement: 79
+    commentsToLikes: 0.023296
+    id: ck0w10rongzop0i19lizzrv9k
     verified: false
-    hashtags: "#cibasande, #frolla, #licoli, #dolcidinatale"
+    hashtags: "#masterclass, #instalike, #painsuisse, #bakery"
   - username: "rossana_pegurri"
     fullname: >-
       Roxana
@@ -91,6 +79,18 @@ profiles:
     id: ck5znzayupg0e0i14v0w4r6pd
     verified: false
     hashtags: "#foodstylingandphotography, #bundtcake, #seasonalfood, #italiaintavola"
+  - username: "viaggiare_con_la_cucina"
+    fullname: >-
+      Elisa Simonati
+    bio: >-
+      🇮🇹 🇬🇧 Cooking, baking and travelling addict 👩‍🍳✈️ Panificatrice seriale,viggiatrice compulsiva. I miei viaggi nelle storie in evidenza😉 Vivo tra 🇲🇹e🇮🇹
+    location: "Italy"
+    followers: 15702
+    engagement: 441
+    commentsToLikes: 0.268202
+    id: ck15synzsfh7h0i19mzxq0a8w
+    verified: false
+    hashtags: "#ilovebaking, #italianfood, #foodlover, #bakersgonnabake"
   - username: "frames_of_sugar"
     fullname: >-
       Fotogrammi di zucchero

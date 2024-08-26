@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Berlin In 2023
+title: Top 10 Health TikTok Influencers In Berlin In 2024
 description: >-
-  Find top health TikTok influencers in Berlin in 2023. Most popular hashtags: #fyp #foryou #berlin #viral.
+  Find top health TikTok influencers in Berlin in 2024. Most popular hashtags: #fyp #foryou #berlin #viral.
 platform: TikTok
 hits: 4
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 4 TikTok influencers like this in Berlin, Germany for you to connect with.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 4 TikTok influencers like this in Berlin, Germany for you to contact.
 profiles:
   - username: "waffle_brothers"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.064508
     id: ck9c7pidks6ey0j78c6qweuav
     verified: false
-    hashtags: "#calisthenics, #cardio, #workout, #outdoorworkout"
+    hashtags: "#fit, #outdoorworkout, #calisthenics, #nature"
   - username: "healthy_mandy"
     fullname: >-
       healthy_mandy

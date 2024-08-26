@@ -1,130 +1,130 @@
 ---
-title: Top 10 Runners Instagram Influencers In India In 2023
+title: Top 10 Runners Instagram Influencers In India In 2024
 description: >-
-  Find top runners Instagram influencers in India in 2023. Most popular hashtags: #instagood #india #reelsinstagram #reels.
+  Find top runners Instagram influencers in India in 2024. Most popular hashtags: #trending #love #instagram #instagood.
 platform: Instagram
-hits: 137
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 137 Instagram influencers like this in India for you to collaborate.
+hits: 161
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat has 161 Instagram influencers like this in India for you to collaborate.
 profiles:
-  - username: "anwesha_bhatia_firegirl"
+  - username: "akanksha_gupta"
     fullname: >-
-      anwesha_bhatia_firegirl
+      Akanksha Gupta| Plus Size Influencer
     bio: >-
-      Top 8 in Super Dancer ch 3✨ 1st runner up of Super Dancer Maharashtra✨ Semifinalist of India's got talent seson 7 ✨ Dm for Collaborations ❤️✨
+      • Plus Size Model | Influencer • Body Positive #curvesarebeautiful 👑 Ms India Curvy 2020 1st Runner Up Embrace your curves 💌: akankshagpt7@gmail.com
     location: "India"
-    followers: 23121
-    engagement: 280
-    commentsToLikes: 0.154347
-    id: ck13cu4hg26500i19mz0y5q2h
+    followers: 12659
+    engagement: 629
+    commentsToLikes: 0.064420
+    id: ck6txc7vsx0gn0j71d9ge3pix
     verified: false
-    hashtags: "#divine, #shine, #iamaboathead, #diwali2020"
-  - username: "nishu9953"
+    hashtags: "#plussizemodel, #plussize, #comfyoutfit, #indianwear"
+  - username: "swethaa_naidu"
     fullname: >-
-      Nisha Jaiswal
+      Swetha Naidu
     bio: >-
-      Engineer/ Model/ fashion / beauty /fitness/ lifestyle 🏅1st runner miss odisha photogenic 2k17 DM for collaboration and promotion @missnisha885
+      Dance || Fashion || Singing || Fitness “Dhee Celebrity Special” Runner Up ✨ Founder - @dancing.divas01 @moonshine_pets Snap ID - swethaanaidu
     location: "India"
-    followers: 20473
-    engagement: 560
-    commentsToLikes: 0.199165
-    id: ck8t7azzvg60o0j78w0llw6jd
+    followers: 804807
+    engagement: 431
+    commentsToLikes: 0.003150
+    id: ck5cchjdjhdio0i11y16b7bky
     verified: false
-    hashtags: "#indianwear, #reelsindia, #beautybloggers, #outfitoftheday"
-  - username: "ninakmandal"
+    hashtags: "#instafashion, #kaadhalkurise, #fashioninfluencer, #fashion"
+  - username: "sumukhisuresh"
     fullname: >-
-      Nina Kant Mandal💋
+      Sumukhi Suresh
     bio: >-
-      🇳🇵Nepali 🇷🇺Russian 🇮🇳Indian 👑 Miss Universe Nepal 2020 2nd Runner Up 👑 Miss Asia Russia 2018 ❤️ She Speaks ✨ Mental health matters @mindswastha Tiktok
+      Comedian | Actor |@motormouthwriter | Slow runner | Wanna pay me? contact yell@sumukhisuresh.com | More shows of Hoemonal coming soon!
     location: "India"
-    followers: 10882
-    engagement: 677
-    commentsToLikes: 0.058078
-    id: ck5cdolzyjic50i118itw6881
-    verified: false
-    hashtags: "#indianmodel, #happy, #trend, #model"
-  - username: "rahul_rajasekharann"
-    fullname: >-
-      Rahul Rajasekharan Nair
-    bio: >-
-      Mr Supranational Asia 2021 Mr India 2015/16 1st runner up 🇮🇳 Rahul5411@gmail.com for any work enquires 😊
-    location: "India"
-    followers: 50266
-    engagement: 566
-    commentsToLikes: 0.036206
-    id: ck138muj0h03d0i19hff61qt2
+    followers: 260878
+    engagement: 911
+    commentsToLikes: 0.010841
+    id: ck5pwb3qylzf80i11o9ipyehg
     verified: true
-    hashtags: "#aspirational, #rahulrajasekharan, #mistersupranational2021, #5thmistersupranational"
-  - username: "nitinchandila"
+    hashtags: "#standup, #hoemonal, #sumukhisuresh, #london"
+  - username: "anupa_krishnan"
     fullname: >-
-      NITIN MAHIPAL CHANDILA
+      Anupa Krishnan
     bio: >-
-      🥇NBBUI Mr World 🥈IBBF Runner Up 🥉Olympia Amateur 📅24 Years Young 🏋️‍♂️Owner- @fitness_garage_gym_ ❤️ @priyanka_nitin___chandila 💍🌏
+      Mrs @aneesh_mohanan_92 Mrs Malayali 1st runnerup2022 Mrs Indian Icon2021 Mrs kerala 2021 third runner up Mrs Women of the year2020
     location: "India"
-    followers: 615188
-    engagement: 697
-    commentsToLikes: 0.004505
-    id: ck13bgk9wvbid0i19luc5k5yc
+    followers: 17332
+    engagement: 1472
+    commentsToLikes: 0.040803
+    id: ck9wgae5hsjn30j782dry2zwz
     verified: false
-    hashtags: "#fitnessfreak, #health, #instagood, #eatclean"
-  - username: "marina_grigoriou_"
+    hashtags: "#transformation, #instafashion, #viralreels, #malayalam"
+  - username: "poojabishnoi36"
     fullname: >-
-      Marina Grigoriou🧸🎈
+      Pooja Bishnoi
     bio: >-
-      🧚‍♀️Journalist💁🏻‍♀️📝 & Professional MUA💄Bridal Makeup✨ 1st RUNNER UP MISS HELLAS 2018👑 •For inquiries dm📩 Latest YouTube Video:⬇️⬇️⬇️🧚🏻‍♀️
+      Sixpack Abs | 13 years old| Runners Supported by @sevvafoundation Coach @sarwan.budiya￼ Managed by @cornerstoneway Account managed by parents
     location: "India"
-    followers: 94662
-    engagement: 679
-    commentsToLikes: 0.102371
-    id: ck5chpx39r8mk0i11a0nhx6ln
+    followers: 1214980
+    engagement: 711
+    commentsToLikes: 0.006097
+    id: ck0vyyrdz6fyo0i19gdovdjgd
+    verified: false
+    hashtags: "#explore, #75hard, #delhi, #minivlog"
+  - username: "saranshgoila"
+    fullname: >-
+      Saransh Goila
+    bio: >-
+      👨‍🍳 That Delishaaas Indian Chef 👔 Cofounder @goilabutterchicken 100+ stores 📺 Tv Host 🧳 Traveller 🏃 Marathon Runner & Author 📱9910421104
+    location: "India"
+    followers: 1291465
+    engagement: 400
+    commentsToLikes: 0.009508
+    id: ck139qxqump6q0i19slyd7lmd
     verified: true
-    hashtags: "#luigi, #onlinefashion, #newcollection"
-  - username: "vismayasunil_official"
+    hashtags: "#friendship, #saranshgoila, #khaanemeinkyahai, #cooking"
+  - username: "shivani_divkar"
     fullname: >-
-      vismaya sunil
+      🌸•SHIVANI | MOM BLOGGER •🌸
     bio: >-
-      Dm for paid promotion ❣︎❤︎ @emirates_fashion_company runner_up😍💯❤️ Freelance / model ❤️ 19.👅 may 21 🎂
+      📍GOA Founder of @modernaari Mommy to @awwmaira 🧚🏻‍♀️ | Fashion | Travel & Lifestyle | Parenting | •MISS GOA 2016 1ST RUNNER UP• #MOMBLOGGER
     location: "India"
-    followers: 12534
-    engagement: 532
-    commentsToLikes: 0.087753
-    id: ckapb3b94yf8l0i785pqhqpc9
+    followers: 100016
+    engagement: 413
+    commentsToLikes: 0.004752
+    id: ck6tmhwd17vo60j719avf4mr0
     verified: false
-    hashtags: "#reelsinstagram, #reels, #new, #copies"
-  - username: "gautamkhullarphotography"
+    hashtags: "#luxury, #fashion, #travel, #goatourism"
+  - username: "shivthakare9"
     fullname: >-
-      Gautam Khullar
+      Shiv Thakare
     bio: >-
-      First Runners Up "Wedding Photographer of the Year" by @wsengage 2020 Destination and International weddings Based in Delhi, India
+      Bigg Boss Marathi2 ~ Winner🏆 Bigg Boss16 ~ Runner Up💫 Roadies15 ~ Semifinalist💥 Khatron Ke Khiladi13 ~ Finalist⚡️ Jhalak Dikhlaa Jaa ~ MANIFESTATION✨
     location: "India"
-    followers: 34792
-    engagement: 349
-    commentsToLikes: 0.013718
-    id: ck5ztr1aj0ys30i14birmaa5q
-    verified: false
-    hashtags: "#weddingsutra, #popxowedding, #indianwedding, #canoneosr"
-  - username: "veeshakha_kavlekar"
+    followers: 2338193
+    engagement: 684
+    commentsToLikes: 0.007998
+    id: ck13chs8s0et20i19zs4df117
+    verified: true
+    hashtags: "#shivthakare9, #insta, #shivthakare, #india"
+  - username: "dance13_amanshah"
     fullname: >-
-      🖤💫make a vish🖤💫
+      Aman Shah
     bio: >-
-      🌴 GOA🌴 💀Welcome to ma world💀Too Glam to give a dam🔹️Wîńñéř Of Miss b'you.tiful 2019🔹️Wîńňêř Of Miss Glitz Global India 🔹️Miss Goa 2019 2nd Runner up🔹️
+      DANCE PLUS PRO 2nd RUNNER UP 🏆
     location: "India"
-    followers: 3378
-    engagement: 2249
-    commentsToLikes: 0.040927
-    id: ck5zu4n0s1oe00i14mbs3o4pn
+    followers: 286093
+    engagement: 1169
+    commentsToLikes: 0.018691
+    id: ck5zy3scw96c60i147mfw5n8g
     verified: false
-    hashtags: "#bridalmakeup, #promakeupartist, #makeupartist, #bridalgown"
-  - username: "anishavig"
+    hashtags: "#dancepluspro, #kunalshah14, #reels, #instafamily"
+  - username: "ankit.duhan"
     fullname: >-
-      A N I S H A 🦋
+      Ankit duhan
     bio: >-
-      JMC’19👩‍🎓 || Avid Runner 🏃‍♀️ If I don’t get my snacks I get angry... Influencer @garminindia
+      Influencer | Director | Editor Mr. India 1st runner up 2019 Founder ; @pindvibe
     location: "India"
-    followers: 48877
-    engagement: 842
-    commentsToLikes: 0.014751
-    id: ck8t9xhyjppbq0j78xpg0a6je
+    followers: 211027
+    engagement: 4637
+    commentsToLikes: 0.008318
+    id: ck6uf64ekv4xk0j71a8h4knxq
     verified: false
-    hashtags: "#ootdmagazine, #toldwithexposure, #nothingisordinary, #livecolorfully"
+    hashtags: "#desiharyana, #haryanakasher, #haryanapolice, #instagram"
 ---

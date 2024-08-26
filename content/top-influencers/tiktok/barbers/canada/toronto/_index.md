@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Toronto In 2023
+title: Top 10 Barbers TikTok Influencers In Toronto In 2024
 description: >-
-  Find top barbers TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #toronto #barber #canada.
+  Find top barbers TikTok influencers in Toronto in 2024. Most popular hashtags: #fyp #barber #toronto #canada.
 platform: TikTok
 hits: 10
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 10 TikTok influencers like this in Toronto, Canada for you to work with.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 10 TikTok influencers like this in Toronto, Canada for you to work with.
 profiles:
   - username: "kapillnagpal"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.030805
     id: ck90r261okrm70j782y2cmffd
     verified: false
-    hashtags: "#foryou, #barber, #haircut, #foryoupage"
+    hashtags: "#barber, #fyp, #foryoupage, #foryou"
   - username: "vrajeshdave7"
     fullname: >-
       vrajesh
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.062009
     id: ck90z7cgdcui90j78rg7uqdnh
     verified: false
-    hashtags: "#streamer, #fyp, #funny, #canada"
+    hashtags: "#streamer, #fyp, #funny, #toronto"
   - username: "damicuts"
     fullname: >-
       damicuts

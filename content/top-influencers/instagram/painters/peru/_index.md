@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters Instagram Influencers In Peru In 2023
+title: Top 10 Painters Instagram Influencers In Peru In 2024
 description: >-
-  Find top painters Instagram influencers in Peru in 2023. Most popular hashtags: #peru #limaperu #feliz #pazinterior.
+  Find top painters Instagram influencers in Peru in 2024. Most popular hashtags: #peru #ootd #grwm #humor.
 platform: Instagram
-hits: 14
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 14 Instagram influencers like this in Peru for you to work with.
+hits: 16
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 16 Instagram influencers like this in Peru for you to work with.
 profiles:
   - username: "luiscolanart"
     fullname: >-
@@ -19,30 +19,18 @@ profiles:
     id: ck14jcb3tjma90i19yqf4emqe
     verified: false
     hashtags: "#inspirationfriday, #sketchoftheday, #moleskine, #arthistory"
-  - username: "bylauracuadros"
-    fullname: >-
-      LauraCuadros
-    bio: >-
-      Peruvian artist lifestyle | Oil painting | Watercolors | Markers
-    location: "Peru"
-    followers: 28165
-    engagement: 168
-    commentsToLikes: 0.052633
-    id: ck5ckntflx9ap0i11beigduzu
-    verified: false
-    hashtags: "#teamoperu, #clouds, #oilpaint, #apoyaartistaslocales"
   - username: "paolasifuenttes"
     fullname: >-
-      𝕻𝖆𝖔𝖑𝖆
+      Paola
     bio: >-
-      ☁️🎶🧷📷 El arte eleva, no complace Pinterest : @paolasifuenttes
+      💋Hello besties 🇵🇪 lifestyle, moda y mucha DANZA 🌱♎ alma libre Pinterest : @paolasifuenttes
     location: "Peru"
-    followers: 7429
-    engagement: 1100
-    commentsToLikes: 0.042950
+    followers: 7926
+    engagement: 605
+    commentsToLikes: 0.040650
     id: ck8t1o1u9weip0j784f9z4m1r
     verified: false
-    hashtags: "#indieaesthetic, #howtopose, #indiestyle, #aesthetically"
+    hashtags: "#limaperu, #aestheticblog, #peru, #aesthetically"
   - username: "starstudygram_"
     fullname: >-
       S T A R S T U D Y G R A M💫
@@ -55,76 +43,88 @@ profiles:
     id: ck8t1izupvyeq0j78j0e4f8w4
     verified: false
     hashtags: "#wallpaperdiciembre, #bujo2021, #rosyposy, #apuntesdigitales"
-  - username: "nicollechangc"
+  - username: "karlabanto"
     fullname: >-
-      Nicolle Chang Makeup Artist.
+      Karla Abanto Tantaleán
     bio: >-
-      💄MUA & Beauty Content Creator 🎵Tiktok: nicollechangc [1.5M+] 📍Lima, Perú 📌 Citas en @nicollechangmakeup 📩nicollechangmakeup@gmail.com
+      ✨Inspiración diaria en moda, skincare y lifestyle 🤌🏼Directora @carmelperu Trujillo 🇵🇪 💫Shop @klosetsalebyk | @mbtperu 💌contacto.karlabanto@gmail.com
     location: "Peru"
-    followers: 125184
-    engagement: 902
-    commentsToLikes: 0.032827
-    id: ck6ucvwnlhrbb0j71u9zr5a8m
+    followers: 93382
+    engagement: 222
+    commentsToLikes: 0.027488
+    id: ck6u90jd7urwr0j714t9irs5n
     verified: false
-    hashtags: "#nicollechangmakeup, #redlips, #makeuplover, #christmas2022"
-  - username: "iambrigittecenteno"
+    hashtags: "#pinterestaesthetic, #casualchicstyle, #fashionaesthetic, #outfitgrid"
+  - username: "sofiasolisb"
     fullname: >-
-      Brigitte Gianella
+      Sofia Solis | founder & creator
     bio: >-
-      👑-BRIGITTE CENTENO SALAS-👑 El Cielo es el límite♥️ IMAGEN DE @nuurcolagenoperu 🇵🇪 PERUANA 💄 ANFITRIONA-MODELO 👷🏻‍♀ ING. CIVIL 💌 CONTRATOS AL DM
+      🧡 co-founder @joinklaia 📍 based in nyc ✉️ business@sofiasolisb.com ⬇️ Try Klaia for free
     location: "Peru"
-    followers: 13658
-    engagement: 1699
-    commentsToLikes: 0.064491
-    id: ckaoyen1kh72p0i78t0p2c2au
+    followers: 9616
+    engagement: 409
+    commentsToLikes: 0.144767
+    id: ck0tx9q5oie300i193gymzpzn
     verified: false
-    hashtags: "#chicasblancas, #cuarentenatime, #latinaspower, #latinasbellas"
-  - username: "artbycch"
+    hashtags: "#arthousehotel, #pcme, #thepreferredlife, #ad"
+  - username: "cristina.at"
     fullname: >-
-      Camila Chehade ☆
+      Cristina Asai
     bio: >-
-      ☆ Makeup Artist ☆ 📍 Milan, Italy 🪐✨💭 💌 camilachehade@hotmail.com
+      💌 kat@letscollabs.com NUEVO VIDEO👇🏻
     location: "Peru"
-    followers: 10107
-    engagement: 653
-    commentsToLikes: 0.104176
-    id: ck6tibs9h0f3y0j71zb553mbn
+    followers: 96717
+    engagement: 563
+    commentsToLikes: 0.020483
+    id: ck8sx84cygh5o0j78ivks39wz
     verified: false
-    hashtags: "#blendtherules, #fyp, #plouisebase, #wavyhairstyle"
-  - username: "brighuaman"
+    hashtags: "#tips, #amorpropio, #outfitinspo, #productividad"
+  - username: "antonellaamasse"
     fullname: >-
-      Brig Huaman
+      Antonella Massé
     bio: >-
-      Hija y hermana ♡
+      | 𝙼𝚎𝚍𝚒𝚌𝚒𝚗𝚊 𝚑𝚞𝚖𝚊𝚗𝚊 ⚕️👩🏽‍⚕️ | 𝘐𝘚𝘚𝘈 𝘤𝘦𝘳𝘵𝘪𝘧𝘪𝘦𝘥-𝘱𝘦𝘳𝘴𝘰𝘯𝘢𝘭 𝘵𝘳𝘢𝘪𝘯𝘦𝘳-𝘯𝘶𝘵𝘳𝘪𝘤𝘪𝘰𝘯 | 𝘔𝘪𝘴𝘴 𝘛𝘦𝘦𝘯 𝘚𝘶𝘥. 𝘐𝘯𝘵 👑 | 𝘚𝘢𝘭𝘶𝘥 𝘮𝘦𝘯𝘵𝘢𝘭 𝘺 𝘦𝘴𝘵𝘪𝘭𝘰 𝘥𝘦 𝘷𝘪𝘥𝘢 🏋🏻‍♀️🧠 | 𝘛𝘪𝘬 𝘵𝘰𝘬+700𝘬
     location: "Peru"
-    followers: 13124
-    engagement: 494
-    commentsToLikes: 0.166649
-    id: ckap3lo0i3iue0i78lwup2bkh
+    followers: 26587
+    engagement: 437
+    commentsToLikes: 0.021268
+    id: ck5q3ih2vkw4r0i118c32t6ll
     verified: false
-    hashtags: "#mujer, #peru, #lima, #latina"
-  - username: "jefferson_farfan_oficial"
+    hashtags: "#gimnasio, #postre, #workout, #entrenar"
+  - username: "deborahgeldres"
     fullname: >-
-      JEFFERSON FARFAN
+      DEBORAH GELDRES🌼✨
     bio: >-
-      📍Lima ,Peru 🇵🇪 10
+      24's🇵🇪🇦🇷 | Marketing🤓 CEO: @happychildrenshow🌈 & @rankeadosproducciones ⚡️ Tiktok🎬: deborahgeldres🤳🏼(+369K) 📩: deborahgeldres10@gmail.com
     location: "Peru"
-    followers: 3763026
-    engagement: 143
-    commentsToLikes: 0.008606
-    id: ck55m28pv30qo0i11dpt2r2yo
+    followers: 36864
+    engagement: 351
+    commentsToLikes: 0.035979
+    id: ck6u7exlrl41x0j71zxamq2gq
+    verified: false
+    hashtags: "#deborahgeldres, #chiste, #picofday, #feliza"
+  - username: "sof.malag"
+    fullname: >-
+      SOFÍA MÁLAGA
+    bio: >-
+      Life style & + Arequipa | pe
+    location: "Peru"
+    followers: 12250
+    engagement: 322
+    commentsToLikes: 0.012532
+    id: ck8taic4vrvp80j78bwp9n4r6
+    verified: false
+    hashtags: "#contenido, #per, #creadoradecontenido, #peru"
+  - username: "aleidanunez"
+    fullname: >-
+      Aleida Nuñez OFICIAL
+    bio: >-
+      Contacto México @fzmanagement USA @hispanomedio
+    location: "Peru"
+    followers: 4106759
+    engagement: 30
+    commentsToLikes: 0.011034
+    id: ck5bwzlphmpza0i11vyqcqhoh
     verified: true
-    hashtags: "#tranquilidad, #jf, #quedateencasa, #familia"
-  - username: "duiliovr"
-    fullname: >-
-      ᗪᑌIᒪIO
-    bio: >-
-      Mr. International Perú 🇵🇪 2018, Embajador: @yadealatinoamerica 🏍 ♻️ Contratos: duiliovr92@gmail.com #mediambiente #tenisplayer #modelo #entrepeneur
-    location: "Peru"
-    followers: 269477
-    engagement: 112
-    commentsToLikes: 0.017060
-    id: ckap0k020qn130i787zp90lr0
-    verified: true
-    hashtags: "#vamosquesepuede, #estilodevida, #logros, #so"
+    hashtags: "#diosesbueno, #actriz, #costarica, #playa"
 ---

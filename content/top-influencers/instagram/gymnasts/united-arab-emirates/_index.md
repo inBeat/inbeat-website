@@ -1,24 +1,12 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Gymnasts Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top gymnasts Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #gymnastics #fitness #dubai #circus.
+  Find top gymnasts Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #gymnastics #dubai #fitness #circus.
 platform: Instagram
 hits: 10
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 10 Instagram influencers like this in United Arab Emirates for you to contact.
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 10 Instagram influencers like this in United Arab Emirates for you to connect with.
 profiles:
-  - username: "demibradyx"
-    fullname: >-
-      Ｄｅｍｉ Ｂｒａｄｙ
-    bio: >-
-      DUBAI 📍 Dance & Gymnastics Coach 🤸🏻‍♀️ Primary 📚 MSc psychology 🧠
-    location: "United Arab Emirates"
-    followers: 27079
-    engagement: 342
-    commentsToLikes: 0.079728
-    id: ck6u34dn9vmzq0j71sdl8uixf
-    verified: false
-    hashtags: "#byrokko, #tan"
   - username: "flexifarah"
     fullname: >-
       Farah
@@ -127,4 +115,16 @@ profiles:
     id: ck0tt1z5q0t2k0i19qlaf7z0s
     verified: false
     hashtags: "#crossfit, #covid19, #crossfityas, #voguefitness"
+  - username: "gymnation_me"
+    fullname: >-
+      GymNation
+    bio: >-
+      The People's Gym 💪 جيم الناس Best Gym in 🇦🇪🇸🇦 أفضل جيم في Pay Monthly 💵 ادفع شهريا Open 24/7 ⏰ مفتوح #GymNationME FREE DAY PASS👇 تصريح يوم مجاني
+    location: "United Arab Emirates"
+    followers: 161958
+    engagement: 52
+    commentsToLikes: 0.098353
+    id: ck6ub55z87iz40j71tva40mnz
+    verified: true
+    hashtags: "#dubai, #thepeoplesgym, #gym, #gymnationme"
 ---

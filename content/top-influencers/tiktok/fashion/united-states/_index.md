@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In United States In 2023
+title: Top 10 Fashion TikTok Influencers In United States In 2024
 description: >-
-  Find top fashion TikTok influencers in United States in 2023. Most popular hashtags: #fyp #ootd #cleargenius #duet.
+  Find top fashion TikTok influencers in United States in 2024. Most popular hashtags: #fyp #ootd #cleargenius #duet.
 platform: TikTok
-hits: 6255
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 6255 TikTok influencers like this in United States for you to work with.
+hits: 6180
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 6180 TikTok influencers like this in United States for you to work with.
 profiles:
   - username: "andrewkwon_official"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.067943
     id: ckce3zwyhjcwm0j237bod4grp
     verified: false
-    hashtags: "#france, #kpop, #nyc, #andrewkwon"
+    hashtags: "#france, #korean, #fyp, #foru"
   - username: "akiadanielle_"
     fullname: >-
       Akia T.
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.135865
     id: ck85cprvf2vae0j78qlnnrxwy
     verified: false
-    hashtags: "#summeroutfits2021, #ootd, #summeroutfit, #selfcare"
+    hashtags: "#ootd, #blackbarbie, #fyp, #summeroutfit"
   - username: "lexinimmo"
     fullname: >-
       Lexinimmo
@@ -42,31 +42,19 @@ profiles:
     commentsToLikes: 0.301311
     id: ckbwejjfw1nji0j23hi2y641u
     verified: false
-    hashtags: "#thesuicidesquadmovie, #fatpositivty, #fatphobiaisnotcute, #cleargenius"
+    hashtags: "#welcomeback, #fatpositivty, #dontquityourdaydream, #plussizefashion"
   - username: "happyblackchick"
     fullname: >-
       Nkechi Chibueze
     bio: >-
       Come to my Comedy Zoom Show, “Funny But Make It Fashion” Wed Feb 3rd 8cst!
     location: "United States"
-    followers: 6746
-    engagement: 2151
-    commentsToLikes: 0.088837
+    followers: 6757
+    engagement: 2158
+    commentsToLikes: 0.094834
     id: ckbr2hb9aj6g00j234912d4h6
     verified: false
-    hashtags: "#critiquewhatieat, #pommedit, #weightlossjourney, #dailycheckin"
-  - username: "discoisntdead"
-    fullname: >-
-      🎀Disco🎀
-    bio: >-
-      Disco 🏳️‍🌈 ° 24 ° she/her 🔞🤚🔞 🦈🍉🐶🍨🍭 Art☆Alt Fashion☆Cosplay
-    location: "United States"
-    followers: 40800
-    engagement: 2093
-    commentsToLikes: 0.057799
-    id: ck8kjj44uuzvd0j78ylm2a2ub
-    verified: false
-    hashtags: "#personal, #furryart, #furrybadge, #fairykei"
+    hashtags: "#critiquewhatieat, #weightloss, #dailycheckin, #februaryhealthchallenge"
   - username: "kemeticwitch"
     fullname: >-
       Otto
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.116722
     id: ck8kmmzzm9a340j780h0flx1g
     verified: false
-    hashtags: "#ancientegypt, #fyp, #notwitchy, #greenscreen"
+    hashtags: "#greenscreen, #duet, #kemetok, #foryou"
   - username: "atomiclaundry"
     fullname: >-
       Colin Aceves
@@ -102,7 +90,7 @@ profiles:
     commentsToLikes: 0.070346
     id: ckeyxcq0f4ru70j2344qujtnb
     verified: true
-    hashtags: "#28xtremes, #pride, #wlw, #queer"
+    hashtags: "#monochromaticmonday, #28xtremes, #foryourpride, #pride"
   - username: "missyonmadison"
     fullname: >-
       missyonmadison
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.034864
     id: ckbf00b54lem60j23l97kdan5
     verified: false
-    hashtags: "#puppiesoftiktok, #bridetobe, #disneyworld, #vacation"
+    hashtags: "#puppiesoftiktok, #palmsprings, #disneyparks, #weddingvibes"
   - username: "lauren_reneeee_1"
     fullname: >-
       Lauren Renee’
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.052245
     id: ckck2p6dtm80v0j23a4ispsu8
     verified: false
-    hashtags: "#albumcoverchallenge, #fyp, #blackgirl, #21"
+    hashtags: "#howdeep, #blackgiirl, #singing, #posing"
+  - username: "scarredmewtwo"
+    fullname: >-
+      Zack
+    bio: >-
+      Cyr wheel, aerialist He/him Elven fashion, sewist, cosplayer YouTube: Zack H
+    location: "United States"
+    followers: 79400
+    engagement: 2110
+    commentsToLikes: 0.038998
+    id: ck8j3ndw0z1um0j78ke0e45wu
+    verified: false
+    hashtags: "#cyrwheel, #fyp, #circus, #fashion"
 ---

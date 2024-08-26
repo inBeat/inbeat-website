@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In 2023
+title: Top 10 Fashion TikTok Influencers In 2024
 description: >-
-  Find top fashion TikTok influencers in 2023. Most popular hashtags: #fyp #duet #ootd #foryou.
+  Find top fashion TikTok influencers in 2024. Most popular hashtags: #fyp #ootd #duet #cleargenius.
 platform: TikTok
-hits: 11312
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 11312 TikTok influencers like this for you to collaborate.
+hits: 11251
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 11251 TikTok influencers like this for you to pitch.
 profiles:
   - username: "fashionwithmae"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.143809
     id: ckc7nj76mtnxg0j23kaz9owb2
     verified: false
-    hashtags: "#aesthetic, #calming, #bookclub, #beach"
+    hashtags: "#foryoupage, #lifestyle, #beach, #fyp"
   - username: "andrewkwon_official"
     fullname: >-
       Andrew Kwon 엔드류 권
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.067943
     id: ckce3zwyhjcwm0j237bod4grp
     verified: false
-    hashtags: "#france, #kpop, #nyc, #andrewkwon"
+    hashtags: "#france, #korean, #fyp, #foru"
   - username: "akiadanielle_"
     fullname: >-
       Akia T.
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.135865
     id: ck85cprvf2vae0j78qlnnrxwy
     verified: false
-    hashtags: "#summeroutfits2021, #ootd, #summeroutfit, #selfcare"
+    hashtags: "#ootd, #blackbarbie, #fyp, #summeroutfit"
   - username: "lexinimmo"
     fullname: >-
       Lexinimmo
@@ -54,31 +54,19 @@ profiles:
     commentsToLikes: 0.301311
     id: ckbwejjfw1nji0j23hi2y641u
     verified: false
-    hashtags: "#thesuicidesquadmovie, #fatpositivty, #fatphobiaisnotcute, #cleargenius"
+    hashtags: "#welcomeback, #fatpositivty, #dontquityourdaydream, #plussizefashion"
   - username: "happyblackchick"
     fullname: >-
       Nkechi Chibueze
     bio: >-
       Come to my Comedy Zoom Show, “Funny But Make It Fashion” Wed Feb 3rd 8cst!
     location: "United States"
-    followers: 6746
-    engagement: 2151
-    commentsToLikes: 0.088837
+    followers: 6757
+    engagement: 2158
+    commentsToLikes: 0.094834
     id: ckbr2hb9aj6g00j234912d4h6
     verified: false
-    hashtags: "#critiquewhatieat, #pommedit, #weightlossjourney, #dailycheckin"
-  - username: "discoisntdead"
-    fullname: >-
-      🎀Disco🎀
-    bio: >-
-      Disco 🏳️‍🌈 ° 24 ° she/her 🔞🤚🔞 🦈🍉🐶🍨🍭 Art☆Alt Fashion☆Cosplay
-    location: "United States"
-    followers: 40800
-    engagement: 2093
-    commentsToLikes: 0.057799
-    id: ck8kjj44uuzvd0j78ylm2a2ub
-    verified: false
-    hashtags: "#personal, #furryart, #furrybadge, #fairykei"
+    hashtags: "#critiquewhatieat, #weightloss, #dailycheckin, #februaryhealthchallenge"
   - username: "kemeticwitch"
     fullname: >-
       Otto
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.116722
     id: ck8kmmzzm9a340j780h0flx1g
     verified: false
-    hashtags: "#ancientegypt, #fyp, #notwitchy, #greenscreen"
+    hashtags: "#greenscreen, #duet, #kemetok, #foryou"
   - username: "atomiclaundry"
     fullname: >-
       Colin Aceves
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.070346
     id: ckeyxcq0f4ru70j2344qujtnb
     verified: true
-    hashtags: "#28xtremes, #pride, #wlw, #queer"
+    hashtags: "#monochromaticmonday, #28xtremes, #foryourpride, #pride"
   - username: "missyonmadison"
     fullname: >-
       missyonmadison
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.034864
     id: ckbf00b54lem60j23l97kdan5
     verified: false
-    hashtags: "#puppiesoftiktok, #bridetobe, #disneyworld, #vacation"
+    hashtags: "#puppiesoftiktok, #palmsprings, #disneyparks, #weddingvibes"
+  - username: "lauren_reneeee_1"
+    fullname: >-
+      Lauren Renee’
+    bio: >-
+      fashion, singing, hair care 🤎
+    location: "United States"
+    followers: 21400
+    engagement: 2231
+    commentsToLikes: 0.052245
+    id: ckck2p6dtm80v0j23a4ispsu8
+    verified: false
+    hashtags: "#howdeep, #blackgiirl, #singing, #posing"
 ---

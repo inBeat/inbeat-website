@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In 2023
+title: Top 10 Nutrition Instagram Influencers In 2024
 description: >-
-  Find top nutrition Instagram influencers in 2023. Most popular hashtags: #motivation #healthyrecipes #easyrecipes.
+  Find top nutrition Instagram influencers in 2024. Most popular hashtags: #fitness #momsofinstagram #fitnessmotivation #workout.
 platform: Instagram
-hits: 5593
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 5593 Instagram influencers like this for you to contact.
+hits: 6461
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 6461 Instagram influencers like this for you to pitch.
 profiles:
-  - username: "amanda_strachan"
+  - username: "fitness.by.nikki"
     fullname: >-
-      AMANDA STRACHAN
+      N I K K I  R A Y
     bio: >-
-      Everything is more than what we see 👁 Clean Beauty | Rituals | Mindfulness 🧘🏼‍♀️ Ayurvedic Wisdom & Nutrition 🌱
+      ⭐️ CPT & Nutrition Coach 🥇 NPC Figure & Bikini NQ | Sponsored Athlete ⚡️ @cellucor @c4energy NIKKI 👙 @angelcompetitionbikinis NIKKI 👭 Mom 📚 Attorney
+    location: "United States"
+    followers: 22168
+    engagement: 603
+    commentsToLikes: 0.035846
+    id: ck8t4t1j67vk00j78nzc491rw
+    verified: false
+    hashtags: "#noexcuses, #neverskiplegday"
+  - username: "josiahkhong"
+    fullname: >-
+      Josiah Khong
+    bio: >-
+      💼 Young Entrepreneur 📖 Monash Uni Alumni 🏋🏻 Fitness Coach 🌱 Certified Nutrition Expert 💡 Managed by @alyfegroup Collab: josiahkhong@hotmail.com
+    location: "United States"
+    followers: 35880
+    engagement: 6355
+    commentsToLikes: 0.013761
+    id: ck8sy1fvcjef00j785sax5769
+    verified: false
+    hashtags: "#geekfitlab, #alaska, #amwaymy, #gym"
+  - username: "kasha_grimes"
+    fullname: >-
+      Kasha
+    bio: >-
+      AKA Mumma Grimes, promotes self help, loves fashion, styling, travel, women’s health, fitness, nutrition & most importantly living life to the full ❤️
+    location: "United States"
+    followers: 34897
+    engagement: 1039
+    commentsToLikes: 0.025111
+    id: ck0w1gimkj8em0i191beptuaw
+    verified: false
+    hashtags: "#ad, #founditonamazon, #fashionhaul, #onlinefashion"
+  - username: "bodyxbrooke"
+    fullname: >-
+      BODY BY BROOKE | home workouts, wellness + mom life
+    bio: >-
+      🌟 trainer, nutrition coach + mom 💗 helping women feel their best 💪🏼 home workout program + meal plans ⤵️ join me FREE for 10 days!
+    location: "United States"
+    followers: 19506
+    engagement: 646
+    commentsToLikes: 0.123949
+    id: ckv7c9vwu13bz0j23g746o1ic
+    verified: false
+    hashtags: "#homeworkouts, #momsofinstagram, #momlife, #sweatathome"
+  - username: "doctordiaries"
+    fullname: >-
+      Erica Wigdor, DO
+    bio: >-
+      👩🏻‍⚕️ Board Certified Internal Medicine 📍 South FL ❤️ Health | Wellness | Lifestyle 🍎 Nutrition + Prevention 🧬 Evidence Based Science ⇩ Blog + More
+    location: "United States"
+    followers: 103028
+    engagement: 682
+    commentsToLikes: 0.026297
+    id: ck6trzr4420c50j71ui5zl0fg
+    verified: false
+    hashtags: "#givingtuesday, #ezcpak, #flexispot, #figsambassador"
+  - username: "isafitlife"
+    fullname: >-
+      ISABEL l  ONLINE EXERCISE & NUTRITION
+    bio: >-
+      COACHING PAGE @aimhigherforyou BSc (Hons) Nutrition and Exercise currently MSc in Sports Nutrition @ljmu
     location: "United Kingdom"
-    followers: 146707
-    engagement: 401
-    commentsToLikes: 0.014126
-    id: ck0vv2h8dn8kb0i199rg3n3qx
+    followers: 104908
+    engagement: 446
+    commentsToLikes: 0.018065
+    id: ck8t7zjt0ijrw0j78q2sp5ehu
     verified: false
-    hashtags: "#simplerecipes, #healthyrecipes, #nutrition, #mindfulness"
-  - username: "rohitkhatrifitness"
+    hashtags: "#gymreels, #gym, #glutesworkout, #backworkout"
+  - username: "savaniimal"
     fullname: >-
-      Rohit Khatri
+      Savannah Ige
     bio: >-
-      🔹Sports Science Nutritionist 🔹Brands : rohitkhatribiz@gmail.com 🔹Dm For Paid Online Coaching 📝 🔹India’s No. 1 Fitness Channel (YouTube)
-    location: "India"
-    followers: 614738
-    engagement: 467
-    commentsToLikes: 0.004563
-    id: ck8wd6rbxdgf00j78gz3so4nb
+      I love Jesus Here to encourage you to do hard things 🫶 Wife to @dynamitedan808 ❤️ Certified Sports Nutrition Coach CFL2 Coach
+    location: "United States"
+    followers: 27252
+    engagement: 762
+    commentsToLikes: 0.042703
+    id: cl6kwojb3k2ke0i23v40ik8qt
     verified: false
-    hashtags: "#hotcouples, #bicepsworkout, #rohitsoniya, #motivation"
-  - username: "nicolas_aesthetics"
+    hashtags: "#momanddad, #fitness, #running, #coach"
+  - username: "strong_with_sam"
     fullname: >-
-      Nicolas Enache | Fitness, Cooking & Health
+      Samantha | PA-C & postpartum fitness
     bio: >-
-      🏅Nr1 fitness&healthy cooking in🇷🇴 📧:Nicolas_ec@yahoo.com 🏋🏻‍♂️Myprotein Ambassador 👨🏻‍🎓Nutritionist & PT 🌮DM Plan Alimentar 🥙+1900 Clients 🧬Natural
-    location: "Germany"
-    followers: 107721
+      helping new moms pour into themselves with fitness & nutrition⚡️ boy mama • family medicine PA-C • at home fitness
+    location: "United States"
+    followers: 6125
+    engagement: 1047
+    commentsToLikes: 0.058280
+    id: clibaici8vm1x0j08bi1vle4s
+    verified: false
+    hashtags: "#postpartumfitness, #momlife, #momhumor, #postpartum"
+  - username: "taliiiagram"
+    fullname: >-
+      Talia Laurito
+    bio: >-
+      ✮Certified Trainer + Health & Nutrition ✮[ @solidcore ] Pro Coach ✮Former NFL Cheerleader ✮Dancer & Choreogragher 👇🏽TRAIN WITH ME
+    location: "United States"
+    followers: 19317
     engagement: 431
-    commentsToLikes: 0.007534
-    id: ck5hdm6dio6r40i11vzge88qv
+    commentsToLikes: 0.059342
+    id: cl6p0b776ly190i230yr9mg2s
     verified: false
-    hashtags: "#wheninrome, #rome, #reels, #lacrescut"
-  - username: "saschafitness"
+    hashtags: "#outdoorworkout, #bostonpersonaltrainer, #personaltrainer, #seaportboston"
+  - username: "isabels.plate"
     fullname: >-
-      Sascha Barboza
+      Isabel Megale
     bio: >-
-      Fitness-Nutrition Coach CEO- Sascha Fitness Corp Book author Mamá Youtube: Sascha Fitness 📧info@saschafitness.com @saschafitnessmarket 🛒⬇️Shop
+      food freedom + balanced living certified nutritionist + intuitive eating counselor 💌 emelie@rowcollective.com
     location: "United States"
-    followers: 5312363
-    engagement: 450
-    commentsToLikes: 0.010945
-    id: ck13c63ygyssj0i19zjq0l5d2
-    verified: true
-    hashtags: "#11, #blackwidow"
-  - username: "becca_denae"
-    fullname: >-
-      Rebecca | CPT
-    bio: >-
-      I help individuals become their most confident selves through strength and performance training, and nutrition coaching 💪🏽 @rpstrength: BECCADENAE
-    location: "United States"
-    followers: 9845
-    engagement: 2817
-    commentsToLikes: 0.044594
-    id: clcbv5majoymz0j08d1s754s0
+    followers: 27958
+    engagement: 640
+    commentsToLikes: 0.089690
+    id: clefyt9i2vtbn0j08hlzo1878
     verified: false
-    hashtags: "#strongwomen, #tboathletes, #personaltrainer, #tbotraining"
-  - username: "alphaburnfit"
-    fullname: >-
-      Alphaburn | Duke Ihenacho
-    bio: >-
-      Helping men and women make total health and lifestyle transformations through exercise and nutrition 🔥
-    location: "United States"
-    followers: 50336
-    engagement: 566
-    commentsToLikes: 0.024146
-    id: clcbv5mrmoyxg0j0898qixrs4
-    verified: false
-    hashtags: "#becometheheat, #alphaburn"
-  - username: "jeet_selal"
-    fullname: >-
-      Jeet Selal (Himalayan Stallion)
-    bio: >-
-      S & C, NUTRITION Coach🇦🇺 SPORT Management🇬🇧 FOUNDER Himalayan Stallion @hsf_expo @hsajeetselal ▪️KNOWLEDGE AMB @myproteinin
-    location: "Australia"
-    followers: 903396
-    engagement: 2262
-    commentsToLikes: 0.006091
-    id: ckapasgboxai50i78atufxlox
-    verified: false
-    hashtags: "#warrior, #reelsinstagram, #hsfexpo2023, #mahadev"
-  - username: "nikibrah"
-    fullname: >-
-      Nikita Udovichenko
-    bio: >-
-      The God of Hormones. 🏅 Nutrition, Hormones, Training Expert 🔬 Engineering MSc 💉 Biochemistry MSc 🌎 Professional 1:1 Fitness Coaching by me ⤵
-    location: "Greece"
-    followers: 104646
-    engagement: 572
-    commentsToLikes: 0.111176
-    id: ck6uds6okmu4e0j716i3573lp
-    verified: false
-    hashtags: ""
-  - username: "jacobcollier"
-    fullname: >-
-      Jacob Collier
-    bio: >-
-      Quester of delicion and nutrition ☃️
-    location: "United Kingdom"
-    followers: 1971478
-    engagement: 783
-    commentsToLikes: 0.006086
-    id: ck0vy477k25qn0i19tjgji8cx
-    verified: true
-    hashtags: "#15, #19, #23"
-  - username: "purely_healthy_living"
-    fullname: >-
-      María | Easy Healthy Recipes
-    bio: >-
-      • Fun, Creative & Easy Healthy Recipes👩🏼‍🍳🌿 • Nutritionist🥑 • Bilingüal 🇺🇸 // 🇲🇽
-    location: "United States"
-    followers: 34482
-    engagement: 343
-    commentsToLikes: 0.411498
-    id: ck0u9yj1jawhj0i19xe005yl5
-    verified: false
-    hashtags: "#prozis, #vegan, #lowcarb, #glutenfree"
+    hashtags: "#balancedbody, #breakfastinspo, #foodfreedom, #allfoodsfit"
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Japan In 2023
+title: Top 10 Boxers Instagram Influencers In Japan In 2024
 description: >-
-  Find top boxers Instagram influencers in Japan in 2023. Most popular hashtags: #repost #jumbomaatch #reggae.
+  Find top boxers Instagram influencers in Japan in 2024. Most popular hashtags: #training #boxer #reggae.
 platform: Instagram
-hits: 11
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 11 Instagram influencers like this in Japan for you to pitch.
+hits: 13
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 13 Instagram influencers like this in Japan for you to work with.
 profiles:
+  - username: "xenobuilds"
+    fullname: >-
+      Michael Chis
+    bio: >-
+      Owner of @tuffluck.jp / 📩 XenoBuildsMFG@gmail.com @taysz33 🤍 🏎️95’ R33 🏎️95’ Sil80 🏎️97’ S14 🏎️13’ BRZ 🏎️02’ WRX
+    location: "Japan"
+    followers: 179308
+    engagement: 773
+    commentsToLikes: 0.006882
+    id: ck5cevxjdltf90i11amanazso
+    verified: false
+    hashtags: "#trd, #garretturbo, #86squad, #gt86nation"
   - username: "taku_20180303"
     fullname: >-
       TAKU
@@ -55,6 +67,18 @@ profiles:
     id: ck8t7y6gxie3j0j78n2grr5oq
     verified: false
     hashtags: "#kiiani, #rayban, #stayhome, #jollygoodclothing"
+  - username: "jillholterman"
+    fullname: >-
+      Jill Holterman
+    bio: >-
+      🇳🇱 Olympic marathoner chasing her dreams 🏃🏻‍♀️10k 32’15 | HM 1:11’41 | M 2:28’18 👟@asicsrunning 🍼@wielervoeding 🤝@dimensio_verpakkingen
+    location: "Japan"
+    followers: 68708
+    engagement: 77
+    commentsToLikes: 0.031928
+    id: ckf5rdgykcaqs0j23y60n1nra
+    verified: false
+    hashtags: "#soundmindsoundbody, #tokyo2020, #running, #instarunners"
   - username: "tak_z"
     fullname: >-
       tak_z
@@ -79,18 +103,6 @@ profiles:
     id: ck8svpfhdc8iy0j785nbn0tfm
     verified: false
     hashtags: "#reggae, #juice, #youtube, #songforyoutube"
-  - username: "jpduminy"
-    fullname: >-
-      JP Duminy
-    bio: >-
-      Jesus follower / Husband / Father / Broadcaster / CVO - @jp21foundation / Podcast - @thesuperover
-    location: "Japan"
-    followers: 676632
-    engagement: 125
-    commentsToLikes: 0.005434
-    id: ck8symsdclarh0j78jv4kw70b
-    verified: true
-    hashtags: "#strengthbeyond, #ad, #changinglives, #buildingstrongercommunities"
   - username: "jumbomaatch"
     fullname: >-
       マンチの親父
@@ -115,16 +127,4 @@ profiles:
     id: ck8svpj5yc8zf0j7819ujmha8
     verified: false
     hashtags: "#jumbomaatch, #boxerkid, #mightyjamrock, #cats"
-  - username: "wimpievdwalt"
-    fullname: >-
-      Wimpie van der Walt  ヴィンピー
-    bio: >-
-      Christian ✝️ Player at @redhurricanes_official @japan_rugby
-    location: "Japan"
-    followers: 20174
-    engagement: 977
-    commentsToLikes: 0.012339
-    id: ck5znrpo8p15q0i146kifjjw3
-    verified: false
-    hashtags: "#redhurricanes, #wolfpack, #doubledadstrength, #weddinganniversary"
 ---

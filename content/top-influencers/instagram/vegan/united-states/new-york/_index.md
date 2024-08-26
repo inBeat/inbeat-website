@@ -1,24 +1,12 @@
 ---
-title: Top 10 Vegan Instagram Influencers In New York In 2023
+title: Top 10 Vegan Instagram Influencers In New York In 2024
 description: >-
-  Find top vegan Instagram influencers in New York in 2023. Most popular hashtags: #vegan #foodie #plantbased #newyork.
+  Find top vegan Instagram influencers in New York in 2024. Most popular hashtags: #vegan #plantbased #veganfood #vegannewyork.
 platform: Instagram
-hits: 178
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 178 Instagram influencers like this in New York, United States for you to collaborate.
+hits: 215
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform has 215 Instagram influencers like this in New York, United States for you to work with.
 profiles:
-  - username: "colorsofyu"
-    fullname: >-
-      Yu Yu
-    bio: >-
-      Motherhood •lifestyle• travel• food 📍New York City colorsofyu@yahoo.com Use code: COLORS10 for 10% OFF 👇
-    location: "United States"
-    followers: 5811
-    engagement: 239
-    commentsToLikes: 0.122462
-    id: ck14jhz1zkfw20i19xks529cr
-    verified: false
-    hashtags: "#islandlife, #15monthsold, #montessori, #happyaloha"
   - username: "mayte_moncada_p"
     fullname: >-
       Mayte Moncada
@@ -31,6 +19,30 @@ profiles:
     id: ck0vy1ixt1s6m0i19gscfimxi
     verified: false
     hashtags: "#veganosargentina, #veganinspiration, #recetasveganas, #veganblog"
+  - username: "alyssiatsang"
+    fullname: >-
+      𝐀𝐋𝐘𝐒𝐒𝐈𝐀 𝐓𝐒𝐀𝐍𝐆 🐚
+    bio: >-
+      📍NYC || Travel • Lifestyle 🌺 Alyssiatsang4@gmail.com 🥑 Vegan @lovenlightjewelry_
+    location: "United States"
+    followers: 220520
+    engagement: 36
+    commentsToLikes: 0.031963
+    id: ck0vxi1pqyzu60i19sjeww07j
+    verified: false
+    hashtags: "#curlyhair, #vegan, #curls, #plantbasedjamaica"
+  - username: "vegnews"
+    fullname: >-
+      VegNews
+    bio: >-
+      The world’s #1 plant-based food + lifestyle magazine
+    location: "United States"
+    followers: 783569
+    engagement: 35
+    commentsToLikes: 0.062687
+    id: cl5m5nifzbizd0i23usk3zkg7
+    verified: false
+    hashtags: "#whatveganseat, #veganfoodie, #dairyfree, #vegnews"
   - username: "simplyquinoa"
     fullname: >-
       Alyssa Rimmer | Simply Quinoa
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.025146
     id: ck0tterl02efg0i19zd518fv1
     verified: false
-    hashtags: "#healthysnacking, #foodreels, #vegan, #recipereels"
+    hashtags: "#dairyfreelife, #veganbaking, #weddingphotos, #glutenfreebaking"
   - username: "imberrydamnit"
     fullname: >-
       Berry Boo
@@ -55,18 +67,6 @@ profiles:
     id: ck5cfuddrnmtd0i11vb678q31
     verified: false
     hashtags: "#brandambassador, #singer, #rapper, #reels"
-  - username: "lebanoneats"
-    fullname: >-
-      Lebanon Eats
-    bio: >-
-      Dubai Food Blogger 🇦🇪 🙋🏻‍♀️ Personal @travelingwiththyme #lebanoneats
-    location: "United States"
-    followers: 114405
-    engagement: 144
-    commentsToLikes: 0.117266
-    id: ck0vwbtzmszv90i191eg5827t
-    verified: false
-    hashtags: "#breakfast, #p2visitdxb, #lebanoneatsdubai, #trending"
   - username: "theuncreamery"
     fullname: >-
       The Uncreamery - Vegan Cheese
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.051448
     id: ck5zj9jjhh6vi0i14vb1nsfmk
     verified: false
-    hashtags: "#meatless, #vegetarian, #thefutureofdairyisnuts, #food52"
+    hashtags: "#vegancheeseboard, #heartshaped, #vegancheese, #thefeedfeed"
   - username: "naturalveganguy"
     fullname: >-
       NATURAL VEGAN GUY
@@ -102,29 +102,29 @@ profiles:
     commentsToLikes: 0.016439
     id: ck0udl2qmjfgg0i19ria0uveh
     verified: false
-    hashtags: "#veganbutshethick, #veganfood, #vegano, #veganasfuck"
-  - username: "sweetnattydee"
+    hashtags: "#vegan, #vegano, #foodie, #thickvegan"
+  - username: "mishkaivana"
     fullname: >-
-      Sweet Natty Yoga
+      Michelle Ivana
     bio: >-
-      📍just a lil yogi bouncin around ⁣✨ ⁣⁣⁣ @gocleveryoga|@bloomfarmscbd|@gym.gypsy⁣⁣ @ancientnutrition|@rodanandfields ⁣
+      ᴍɪᴀ📍• ɴʏᴄ • ʟᴅɴ ɢᴏᴅ & ꜰᴀᴍɪʟʏ 1ꜱᴛ ✡︎ ✞ International Model✦Home Chef✦Free Thinker @itmodels | @dollhousemgmt | @lenisagency | @nextmodelsmia
     location: "United States"
-    followers: 17329
-    engagement: 137
-    commentsToLikes: 0.097928
-    id: ck0txbw10innl0i1994iohz7e
+    followers: 66048
+    engagement: 453
+    commentsToLikes: 0.030465
+    id: ck5hpddcqr68v0i11a2gx6vow
     verified: false
-    hashtags: "#yogachallenge, #swoleandflexy, #whoayoga, #peoplescreatives"
-  - username: "jonprice11"
+    hashtags: "#lamodel, #fashionmodel, #beautymodel, #nymodel"
+  - username: "veganmak"
     fullname: >-
-      𝐉𝐨𝐧𝐧𝐲 𝐏𝐫𝐢𝐜𝐞
+      Makayla🌻
     bio: >-
-      👨🏼‍💼| 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐋𝐃𝐏 𝐛𝐲 𝐝𝐚𝐲 📚| 𝐂𝐨𝐫𝐧𝐞𝐥𝐥 𝐌𝐄𝐧𝐠 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐛𝐲 𝐧𝐢𝐠𝐡𝐭 🍷| 𝐓𝐡𝐞 𝐖𝐢𝐧𝐞 𝐆𝐮𝐲 - 𝐖𝐒𝐄𝐓 𝐥𝐯𝐥 𝟏 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 📍| 𝐒𝐚𝐧 𝐅𝐫𝐚𝐧𝐜𝐢𝐬𝐜𝐨 𝐁𝐚𝐲 𝐀𝐫𝐞𝐚, 𝐂𝐀
+      Anti-speciesist • Blasian • Vegan 🗽Bay Area gal living in NYC 💌: veganmakayla@gmail.com
     location: "United States"
-    followers: 53173
-    engagement: 708
-    commentsToLikes: 0.035453
-    id: ckaoxh788d8u30i78650r559g
+    followers: 21211
+    engagement: 1292
+    commentsToLikes: 0.060813
+    id: clgcjp3xgk9r60j08ptlt0e2e
     verified: false
-    hashtags: "#adventure, #traveladventures, #instatravelling, #travelphotography"
+    hashtags: "#vegannachos, #libertybagels, #goodtoeat, #millenium"
 ---

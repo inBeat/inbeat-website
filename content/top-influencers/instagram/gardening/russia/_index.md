@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Russia In 2023
+title: Top 10 Gardening Instagram Influencers In Russia In 2024
 description: >-
-  Find top gardening Instagram influencers in Russia in 2023. Most popular hashtags: #gardening #garden #mygarden #flowers.
+  Find top gardening Instagram influencers in Russia in 2024. Most popular hashtags: #gardening #garden #mygarden #flowers.
 platform: Instagram
 hits: 14
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 14 Instagram influencers like this in Russia for you to pitch.
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 14 Instagram influencers like this in Russia for you to collaborate.
 profiles:
   - username: "lisa_i_sad"
     fullname: >-
@@ -67,6 +67,18 @@ profiles:
     id: ck5zwne9r6flw0i14udxz3xd0
     verified: false
     hashtags: "#gardenlove, #gardenphoto, #winter, #artofvisuals"
+  - username: "avagfit"
+    fullname: >-
+      Avag Fitness
+    bio: >-
+      Online coach 💪🏻 Inquiries ✉️ fitavag@gmail.com
+    location: "Russia"
+    followers: 249238
+    engagement: 403
+    commentsToLikes: 0.016513
+    id: ckf5r7ib8bos60j23xmn69s76
+    verified: false
+    hashtags: "#handsome, #aesthetic, #coldwater, #malemodel"
   - username: "marharytabertosh"
     fullname: >-
       Marharyta Bertosh
@@ -115,16 +127,4 @@ profiles:
     id: ck5ziwzshgj5r0i14bltduonk
     verified: false
     hashtags: "#follow, #shakhty, #blogging, #yellow"
-  - username: "samodelkicreates"
-    fullname: >-
-      DIY Creates | САМОДЕЛКИ
-    bio: >-
-      🔽 Самоделки которые удивляют 🤔 🔽 Новое видео каждый день 📽️ 🔽 Присоединяйтесь 👍🔥 🔽 DIY Creates videos 😍 🔽 Subscribe 👍
-    location: "Russia"
-    followers: 200629
-    engagement: 61
-    commentsToLikes: 0.004961
-    id: ck13crfue1sx70i19smjrct7i
-    verified: false
-    hashtags: "#welders, #diys, #engineeringlife, #hack"
 ---

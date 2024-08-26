@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In United States In 2023
+title: Top 10 Models Instagram Influencers In United States In 2024
 description: >-
-  Find top models Instagram influencers in United States in 2023. Most popular hashtags: #fashion #style #freshface.
+  Find top models Instagram influencers in United States in 2024. Most popular hashtags: #fashion #fashionstyle #photoshoot.
 platform: Instagram
-hits: 19723
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 19723 Instagram influencers like this in United States for you to connect with.
+hits: 19164
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 19164 Instagram influencers like this in United States for you to work with.
 profiles:
   - username: "laurenharlee"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.041609
     id: ckaosrgwlsrv30i783es965cl
     verified: false
-    hashtags: "#dancevideos, #boyslie, #lipsync, #likee"
+    hashtags: "#lipsync, #likee, #dancevideos, #boyslie"
   - username: "diana_poli5"
     fullname: >-
       Diana
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.281219
     id: ckf5qj7sp9j8a0j237biufl96
     verified: false
-    hashtags: "#modelwanted, #fashionlook, #fashionissue, #photomodel"
+    hashtags: "#style, #beautygirl, #beautymakeup, #fashionlooks"
   - username: "imgiuliacocola"
     fullname: >-
       Giulia Cocola
@@ -43,18 +43,6 @@ profiles:
     id: ck5hcenmzhodg0i11cuv1mehs
     verified: false
     hashtags: "#adv, #tb"
-  - username: "beatricemarchetti__"
-    fullname: >-
-      BEATRICE MARCHETTI
-    bio: >-
-      Model
-    location: "United States"
-    followers: 15597
-    engagement: 442
-    commentsToLikes: 0.031883
-    id: ck5hsd1itwe8v0i11l8igp70k
-    verified: false
-    hashtags: ""
   - username: "koray.grb"
     fullname: >-
       Koray Garbi
@@ -79,52 +67,64 @@ profiles:
     id: ckapbixeb01u90i78qo12zhwh
     verified: false
     hashtags: "#gainwithabuuj01, #254fashion, #gainwithxtiandela, #tumewasha"
-  - username: "himba.girl"
+  - username: "laurenluto"
     fullname: >-
-      Varaa Hambira
+      Lauren Lutostanski
     bio: >-
-      MODEL
+      pink fits & style tips 🎀 Los Angeles laurenluto@gmail.com @metricmodels @luxefitagency fit model, print, commercial
     location: "United States"
-    followers: 15889
-    engagement: 721
-    commentsToLikes: 0.013759
-    id: ck15trdvzji6l0i19qc8fb498
+    followers: 21063
+    engagement: 742
+    commentsToLikes: 0.205789
+    id: cl30eeq5vxaw70i23yhpy1kb9
     verified: false
-    hashtags: "#giftedproduct, #skincarereel, #skincarereview, #skincarereels"
-  - username: "diana_eneje"
+    hashtags: ""
+  - username: "emyreyes"
     fullname: >-
-      Diana Eneje
+      Emy Reyes
     bio: >-
-      •Model|Influencer •Most Influential & Fashionable 🥇 💕 Shop @theshinecartel 📧management@dianaeneje.com
+      🪬Actress/Model 💌Emykreyes@gmail.com 📍Los Angeles
     location: "United States"
-    followers: 881412
-    engagement: 609
-    commentsToLikes: 0.010877
-    id: ck8syqlu2lmpq0j78qrada67j
+    followers: 55289
+    engagement: 1378
+    commentsToLikes: 0.043017
+    id: ck0tzqnzdr7r00i19cyunjzit
     verified: false
-    hashtags: "#completefreshprotection, #reels, #closeupnigeria, #maldives"
-  - username: "tracewinningham"
+    hashtags: "#blogger, #beach, #collabs, #fashion"
+  - username: "xomissdanielle"
     fullname: >-
-      Trace
+      Danielle Perry
     bio: >-
-      HTX• LA📍 Season 4 @temptationtv Founder: @trace.thebrand LA: @omodelsagency Model • Creator • Boss
+      Danielle Victoria ↟Northern California heart ☼Southern California dwelling ☾Content creator & published model
     location: "United States"
-    followers: 43010
-    engagement: 713
-    commentsToLikes: 0.015135
-    id: ck5zmhyflmlss0i14hjegshe3
+    followers: 349853
+    engagement: 1132
+    commentsToLikes: 0.006493
+    id: ck0ud7tsuik7e0i19biiz3ipc
     verified: false
-    hashtags: "#edikted, #ediktedad, #influencer, #beauty"
-  - username: "king_rome"
+    hashtags: "#bathandbodyworks, #paidlink, #liketkit, #athenaclub"
+  - username: "loveronnie"
     fullname: >-
-      King Rome
+      Ronnie Howard | Philly Influencer
     bio: >-
-      Model by day, 🐺🌕by night. LAFW Oct 22’ 📸 Next show: NYFW✈️ Feb 23’ Marathon 🏃🏽‍♂️🏅Next: Ultramarathon TBD 23’ 📍So Cal🇺🇸
+      ❤️ Lifestyle | Family | Fashion | Wellness ⭐️ Macy’s Style Crew 2024 📧 info@ronniehoward.com 📸 Real Life Model
     location: "United States"
-    followers: 129252
-    engagement: 617
-    commentsToLikes: 0.013688
-    id: ck8t8h4nkkgmb0j7853j7m81d
+    followers: 49537
+    engagement: 543
+    commentsToLikes: 0.099967
+    id: ck5bxe82xnjwd0i111mh7rwqk
     verified: false
-    hashtags: "#expressyou, #jbwwatches, #expresspartner, #myjbw"
+    hashtags: "#macyspartner, #macysstylecrew, #mahoganymarriage, #inmyheyday"
+  - username: "nicolexashleyy"
+    fullname: >-
+      Nicole Ashley
+    bio: >-
+      Content Creator | Model | Stylist Mama to be💙 ☼Florida @nicolexashley_photo
+    location: "United States"
+    followers: 16120
+    engagement: 641
+    commentsToLikes: 0.012971
+    id: ck0ty0bzxl29c0i19k6gkqqlp
+    verified: false
+    hashtags: ""
 ---

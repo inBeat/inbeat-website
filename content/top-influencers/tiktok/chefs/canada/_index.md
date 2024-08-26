@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs TikTok Influencers In Canada In 2023
+title: Top 10 Chefs TikTok Influencers In Canada In 2024
 description: >-
-  Find top chefs TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryou #chef #asmr.
+  Find top chefs TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #foryou #chef #asmr.
 platform: TikTok
-hits: 47
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat has 47 TikTok influencers like this in Canada for you to pitch.
+hits: 46
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 46 TikTok influencers like this in Canada for you to pitch.
 profiles:
   - username: "justagurlgenx"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.278322
     id: ckbb5pgu6vwkd0j2357x2tau4
     verified: false
-    hashtags: "#genx, #lifeisgood, #bucketlist, #beentheredonethat"
+    hashtags: "#lifeisgood, #beentheredonethat, #genx, #bucketlist"
   - username: "thehermitdruid"
     fullname: >-
       Nathan Jones
@@ -102,19 +102,19 @@ profiles:
     commentsToLikes: 0.009884
     id: ckc35jmt9uqif0j23k4g7kd92
     verified: false
-    hashtags: "#makeuplover, #toronto, #punjabi, #makeup"
+    hashtags: "#indian, #couplegoals, #baby, #makeup"
   - username: "queencarla64"
     fullname: >-
       Carla(she/her)
     bio: >-
       Sharing recipes and spreading positivity! Ratatouille is my favourite movie
     location: "Canada"
-    followers: 2619
-    engagement: 800
-    commentsToLikes: 0.023191
+    followers: 2601
+    engagement: 811
+    commentsToLikes: 0.024309
     id: ck8qdq6uopeg00j782djhd2my
     verified: false
-    hashtags: "#happyathome, #quickrecipes, #foryou, #italian"
+    hashtags: "#tiktokchef, #quickrecipes, #dogsoftiktok, #cook"
   - username: "bonifab"
     fullname: >-
       Rob Bonifacio

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Australia In 2023
+title: Top 10 Food TikTok Influencers In Australia In 2024
 description: >-
-  Find top food TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #melbourne #food #tiktokfood.
+  Find top food TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #melbourne #tiktokfood #food.
 platform: TikTok
-hits: 364
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our database aggregates 364 TikTok influencers like this in Australia for you to contact.
+hits: 362
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 362 TikTok influencers like this in Australia for you to contact.
 profiles:
   - username: "foodysporn"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.013335
     id: cka0ppso29by50i78i80k52y3
     verified: true
-    hashtags: "#melbournefood, #melbourne, #traveling, #weebsociety"
+    hashtags: "#melbournefood, #placestovisit, #otakus, #animelovers"
   - username: "jacobs_food_diaries"
     fullname: >-
       jacobs_food_diaries
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.034001
     id: ckauyssfw4aiw0j233wipxz1x
     verified: false
-    hashtags: "#boba, #thailand, #quarantine, #chiangrai"
+    hashtags: "#quarantine, #expectationvsreality, #asiancheck, #boba"
   - username: "thehdprogram"
     fullname: >-
       HD Program

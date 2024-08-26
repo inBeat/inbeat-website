@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Turin In 2023
+title: Top 10 Photographers Instagram Influencers In Turin In 2024
 description: >-
-  Find top photographers Instagram influencers in Turin in 2023. Most popular hashtags: #portrait #torino #italy #photography.
+  Find top photographers Instagram influencers in Turin in 2024. Most popular hashtags: #italy #torino #photography #turin.
 platform: Instagram
-hits: 18
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 18 Instagram influencers like this in Turin, Italy for you to contact.
+hits: 20
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 20 Instagram influencers like this in Turin, Italy for you to pitch.
 profiles:
   - username: "aluttoluca"
     fullname: >-
@@ -23,14 +23,14 @@ profiles:
     fullname: >-
       Nico Schneider Ruatta
     bio: >-
-      Social Media Strategist, Art Director, Fashion and Wildlife Photographer between Turin and Milan. IED Graduate.
+      Social Media Strategist, Art Director, Fashion and Wildlife Photographer between Turin and Milan. IED Graduate. Agency @interno9design
     location: "Italy"
-    followers: 32483
-    engagement: 132
-    commentsToLikes: 0.019018
+    followers: 30685
+    engagement: 286
+    commentsToLikes: 0.016274
     id: ck6txe9cbxc040j71kf61g862
     verified: false
-    hashtags: "#mfw, #fw2021, #milan, #lasuerte"
+    hashtags: "#lasuerte, #mfw, #milan, #fashionweek"
   - username: "giuse_joseph"
     fullname: >-
       © Giuse Joseph - Videomaker
@@ -79,6 +79,42 @@ profiles:
     id: ck8t7brg4g8qt0j78f0ghbkzu
     verified: false
     hashtags: ""
+  - username: "nicola_bertellotti"
+    fullname: >-
+      Nicola Bertellotti
+    bio: >-
+      Award winning fine art photographer Pietrasanta / Italy
+    location: "Italy"
+    followers: 68180
+    engagement: 895
+    commentsToLikes: 0.042595
+    id: ck6u8lants9450j716n4uo530
+    verified: false
+    hashtags: "#luoghiabbandonati, #pietrasanta, #elledecor, #atlasobscura"
+  - username: "szarnicole"
+    fullname: >-
+      NICOLE SZAR | content creator
+    bio: >-
+      🇵🇱 /📍Turin @dsmodelmanagement
+    location: "Italy"
+    followers: 18659
+    engagement: 184
+    commentsToLikes: 0.056827
+    id: ck5pxchoir4fq0i11chddjvwz
+    verified: false
+    hashtags: "#makeupartist, #spencerclothingstudio, #predierimoda, #usedcars"
+  - username: "augustopro"
+    fullname: >-
+      Augusto Pro
+    bio: >-
+      Creative Director & Photographer Collecting goals w/ @vanessadaylife ✉️ hello@augusto.pro 📍 Milan / Paris / London
+    location: "Italy"
+    followers: 43794
+    engagement: 155
+    commentsToLikes: 0.020577
+    id: ck8svp5ohc7jq0j78ga5isgdz
+    verified: false
+    hashtags: "#uk, #london, #travel, #details"
   - username: "milejuvelove"
     fullname: >-
       🤍🖤 Milena Garreffa 🤍🖤
@@ -91,40 +127,4 @@ profiles:
     id: ck8t66o44cfip0j787rsra0xs
     verified: false
     hashtags: "#finoallafine, #italy, #milejuve, #iorestoacasa"
-  - username: "alanzandona"
-    fullname: >-
-      Alan Zandonà
-    bio: >-
-      Italian Photographer | Retoucher | Videomaker | Drone Pilot Wedding @az_wedding_va Co-founder @la_cosca_ Varese-Gallarate
-    location: "Italy"
-    followers: 26474
-    engagement: 580
-    commentsToLikes: 0.060293
-    id: ck8t422vd58c80j78wcekgr9e
-    verified: false
-    hashtags: "#bw, #rsa, #igersroma, #fuji"
-  - username: "kennyhairartist"
-    fullname: >-
-      Kenny Scorrano
-    bio: >-
-      BLONDE SPECIALIST. Top Technician @hc.salon Hair trainer @wellahair |Turin | BERLINER . بدأت تحبني For collaboration DM or👇🏻
-    location: "Italy"
-    followers: 25074
-    engagement: 190
-    commentsToLikes: 0.033080
-    id: ck5zlptcbl5s70i14bie2gv1a
-    verified: false
-    hashtags: "#me, #man, #igers, #wella"
-  - username: "simococco"
-    fullname: >-
-      Simo | Photo & Hiking
-    bio: >-
-      📷 Outdoor & Travel Photographer 🥾 Hiking Guide | Certified GAE 🚁 Certified Drone Pilot 🌎 Trekking, Hiking, Tour in Italy and all over the world
-    location: "Italy"
-    followers: 10225
-    engagement: 933
-    commentsToLikes: 0.025541
-    id: ck134elmew2ko0i19ang18zs7
-    verified: false
-    hashtags: "#volgovalledaosta, #natgeotravel, #travelmore, #trentinoaltoadige"
 ---

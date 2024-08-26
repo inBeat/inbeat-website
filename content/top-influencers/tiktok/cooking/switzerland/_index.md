@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Switzerland In 2023
+title: Top 10 Cooking TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top cooking TikTok influencers in Switzerland in 2023. Most popular hashtags: #fyp #foryou #cooking #foryoupage.
+  Find top cooking TikTok influencers in Switzerland in 2024. Most popular hashtags: #foryou #fyp #switzerland #foryoupage.
 platform: TikTok
-hits: 20
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our database holds 20 TikTok influencers like this in Switzerland for you to pitch.
+hits: 18
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our database holds 18 TikTok influencers like this in Switzerland for you to contact.
 profiles:
   - username: "mehit77"
     fullname: >-
@@ -59,14 +59,14 @@ profiles:
     fullname: >-
       delikates.ch
     bio: >-
-      ☺️ FOLGE MIR AUF INSTA 😊 ⬆️ Oder Besuch mich in meinen Shop⬇️ Code: NEXT18FIVE
+      Neu! Lade dir unser App völlig Gratis herunter! Jetzt downloaden! ⤵️🤗
     location: "Switzerland"
-    followers: 3990
-    engagement: 180
-    commentsToLikes: 0.039336
+    followers: 4206
+    engagement: 300
+    commentsToLikes: 0.040355
     id: ck8tlndh7c7my0j781m6cfa20
     verified: false
-    hashtags: "#tutorials, #diy, #fyp, #tiktokkoch"
+    hashtags: "#fy, #lernenmittiktok, #rezepte, #1x1"
   - username: "pinupmom_"
     fullname: >-
       Pinupmom_
@@ -79,18 +79,6 @@ profiles:
     id: cka0nhqrlzqhe0i78sockg9qp
     verified: false
     hashtags: "#parents, #maman, #enfant, #viedemere"
-  - username: "soleil_fatima"
-    fullname: >-
-      soleil_fatima
-    bio: >-
-      Instagram: soleil_fatima - Dogmam 🐶 positiv and fit 🤸🏻‍♀️over50 - Dancer 💃🏻
-    location: "Switzerland"
-    followers: 8218
-    engagement: 676
-    commentsToLikes: 0.053717
-    id: ckbfbafnj36t70j23zpx9xo5k
-    verified: false
-    hashtags: "#vlogtime, #fitover50women, #snowboardgirl, #australianshepherd"
   - username: "boccalino.lana"
     fullname: >-
       boccalino.lana 🇨🇭
@@ -127,4 +115,16 @@ profiles:
     id: ckc32lpfcsr280j23ztni5lk1
     verified: false
     hashtags: "#beautiful, #foryou, #snow, #fun"
+  - username: "k.siy"
+    fullname: >-
+      𝐊 𝐒 𝐈 𝐘
+    bio: >-
+      ✨
+    location: "Switzerland"
+    followers: 13300
+    engagement: 752
+    commentsToLikes: 0.030861
+    id: ck9rp5vkefyeo0j78gdddda3m
+    verified: false
+    hashtags: "#tamilmovie, #foryou, #tamilsong, #foryoupage"
 ---

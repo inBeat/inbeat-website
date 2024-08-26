@@ -1,24 +1,36 @@
 ---
-title: Top 10 Health Instagram Influencers In 2023
+title: Top 10 Health Instagram Influencers In 2024
 description: >-
-  Find top health Instagram influencers in 2023. Most popular hashtags: #ad #skincareroutine #fitnessmotivation #giftguide.
+  Find top health Instagram influencers in 2024. Most popular hashtags: #momlife #toddlermom #targetfinds.
 platform: Instagram
-hits: 30335
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 30335 Instagram influencers like this for you to pitch.
+hits: 62270
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 62270 Instagram influencers like this for you to work with.
 profiles:
-  - username: "thehalliescene"
+  - username: "jessicalaure_l"
     fullname: >-
-      Hallie | Nashville Blogger
+      Jessica L Hall
     bio: >-
-      hi, i’m Hallie, like Halle Berry! everyday style + home reno | new mom 💕 normalizing life + mental health 🤍🌿 hannaht@shinetalentgroup.com
+      Lifestyle Creator, Mommy, Fashionista. Seen in @forbes @essence 📧 Hello@JessicaLHall.com 📍 #Raleigh #Durham #Charlotte #NC 👩🏾‍🏫 Mental Health
     location: "United States"
-    followers: 52689
-    engagement: 414
-    commentsToLikes: 0.115509
-    id: ckn9ayfvumbl20j23lt41y6yv
+    followers: 49582
+    engagement: 630
+    commentsToLikes: 0.111742
+    id: ck8t0odv7sp360j7874plcisd
     verified: false
-    hashtags: "#nursery, #expectingmom, #firsttimemom, #girlnursery"
+    hashtags: "#raleighinfluencers, #charlottefashion, #nccreatives, #liketkit"
+  - username: "camillia_lee"
+    fullname: >-
+      Cam Lee | Vancouver, Canada
+    bio: >-
+      Fitness • Health • Wellness • Mom • Blogger Chinese • Malaysian • Canadian 👉@camleeyoga for my other account ✉️ bycamlee@gmail.com
+    location: "United States"
+    followers: 19017
+    engagement: 14679
+    commentsToLikes: 0.352205
+    id: ck5q17zv59pbd0i11r2350xna
+    verified: false
+    hashtags: "#motherhoodinspired, #hbd, #motherhoodmoments, #vegansnacks"
   - username: "savannah_joyyy"
     fullname: >-
       Savannah Joy
@@ -30,55 +42,31 @@ profiles:
     commentsToLikes: 0.012208
     id: ck5q33lorj2160i11tlfrq9s1
     verified: false
-    hashtags: "#fitnessmotivation, #fitness, #bulkingseason, #fitfam"
-  - username: "nataliekennedyblog"
+    hashtags: "#legdayworkout, #bodybuilding, #fitgirls, #bulkingseason"
+  - username: "alyssa__burns"
     fullname: >-
-      Natalie Kennedy
+      alyssa burns
     bio: >-
-      Nashville • fashion • home • healthy recipes Poppy’s mom 🤍 + baby girl #2 on the way 💍 @patrickkennedy1223 Shop my outfits & presets ⬇️
+      living my life as a romcom ♡ chicago/det/nyc (or elsewhere) ☆ IIN health coach / NASM CPT @whynotpetites ⤹ links to my work:
     location: "United States"
-    followers: 573501
-    engagement: 452
-    commentsToLikes: 0.056414
-    id: ck15pk4joy9z30i19xg53dw1e
+    followers: 3869
+    engagement: 685
+    commentsToLikes: 0.076631
+    id: ckap6ya1zhv9z0i7855iwvcwn
     verified: false
-    hashtags: "#walmartpartner, #liketkit, #bumpstyle, #walmartfashion"
-  - username: "rrayyme"
+    hashtags: "#photoshoot, #calvinklein, #inmycalvins, #calvins"
+  - username: "kasha_grimes"
     fullname: >-
-      Remi Ishizuka
+      Kasha
     bio: >-
-      Health | Wellness | Easy recipes | Lifestyle Co-Founder @clubhomebodies Join our 21 day challenge👇🏼
+      AKA Mumma Grimes, promotes self help, loves fashion, styling, travel, women’s health, fitness, nutrition & most importantly living life to the full ❤️
     location: "United States"
-    followers: 377687
-    engagement: 414
-    commentsToLikes: 0.013939
-    id: ck0tztrryrlv90i19i3yavym2
-    verified: true
-    hashtags: "#targetfinds, #shopwithme, #hmxme, #skincare"
-  - username: "kirra.mov"
-    fullname: >-
-      Kirra Dickinson
-    bio: >-
-      🇺🇸🇯🇵⁣ ♡ Mgmt: @nextmodels ⁣ ♡ Lifestyle, Wellness, Mental Health⁣ ♡ Dickinsonkirra@gmail.com⁣⁣⁣⁣ / luis@nextmanagement.com
-    location: "United States"
-    followers: 101836
-    engagement: 1026
-    commentsToLikes: 0.009725
-    id: cl3u8mp8matcs0i238u8gj4gj
+    followers: 34897
+    engagement: 1039
+    commentsToLikes: 0.025111
+    id: ck0w1gimkj8em0i191beptuaw
     verified: false
-    hashtags: "#wellnessjourney, #morningvibes, #inspirationalreels, #minivlog"
-  - username: "itstheskinyourein"
-    fullname: >-
-      Serena✨beauty content creator - UGC
-    bio: >-
-      YOUR skin, YOUR rules ✨ Beauty enthusiast • health • lifestyle TikTok, Pinterest, discount codes and links below✨
-    location: "Italy"
-    followers: 36489
-    engagement: 1556
-    commentsToLikes: 0.159760
-    id: ck8tdo5fr44kc0j78ws6cotly
-    verified: false
-    hashtags: "#drugstoremakeup, #christmasmakeup, #selfcaresunday, #glowymakeup"
+    hashtags: "#ad, #founditonamazon, #fashionhaul, #onlinefashion"
   - username: "zarrine_beautyjunkie"
     fullname: >-
       Zarrine | London Beautyjunkie
@@ -90,41 +78,53 @@ profiles:
     commentsToLikes: 0.268348
     id: ck5zm1qadlqtg0i14gakgeiz9
     verified: false
-    hashtags: "#travelvlog, #dermalogicaskincare, #skincarecommunity, #travelgram"
-  - username: "kbfitusa"
+    hashtags: "#dermalogicaskincare, #travelgram, #skinhealth, #skincarecommunity"
+  - username: "our.chaotic.little.life"
     fullname: >-
-      KATIE🥊
+      Maveli Lira | Content Creator
     bio: >-
-      ≘ 22 | Denver + CO spgs 🌍 ≘ 4th degree black belt in karate🥋 ≘ Health + wellness enthusiast🧘🏽 ≘ Powered by @gymshark 🦈
+      🌊Cali babes 👨‍👩‍👧‍👦Family Fun 📸Obsessed 💪 Health DM/EMAIL to Collab. Lovedbyvictoria@gmail.com
     location: "United States"
-    followers: 74597
-    engagement: 2547
-    commentsToLikes: 0.009460
-    id: cl4ipwlnnsa1u0i23nwgkjc0b
+    followers: 18115
+    engagement: 1031
+    commentsToLikes: 0.088836
+    id: ck0tzh5v5qf070i198qmsbkjy
     verified: false
-    hashtags: "#gym, #fitnessmotivation, #fit, #workout"
-  - username: "sabrazaraa"
+    hashtags: "#targetfinds, #fableticspartner, #giftideas, #socalcontentcreator"
+  - username: "jesscarpenterwrites"
     fullname: >-
-      Seattle Lifestyle & Travel | PharmD, MPH, PhC
+      Jessica Carpenter
     bio: >-
-      🇹🇳🇺🇸 Healthy lifestyle, skincare, food & travel Pharmacist | Researcher Inspiring YOU to be the best version of yourself 💌 Sabra.zaraa@gmail.com
+      Texas mom of 3 & wife of an entrepreneur exploring life, food allergies & my books 📚 M.S. Health | CHES🎓 ⤵️Read my newest children’s books here
     location: "United States"
-    followers: 77441
-    engagement: 726
-    commentsToLikes: 0.023415
-    id: ck14lbl7wtu3i0i191qq4vdxr
+    followers: 47220
+    engagement: 12211
+    commentsToLikes: 0.023732
+    id: ckaorsu2dolp00i78tata8c1s
     verified: false
-    hashtags: "#visittunisia, #seattlewa, #visitdjerba, #skincaretips"
-  - username: "nicolas_aesthetics"
+    hashtags: "#toddlermomlife, #momlife, #toddlermom, #poolday"
+  - username: "lanestyled"
     fullname: >-
-      Nicolas Enache | Fitness, Cooking & Health
+      Abby Lane
     bio: >-
-      🏅Nr1 fitness&healthy cooking in🇷🇴 📧:Nicolas_ec@yahoo.com 🏋🏻‍♂️Myprotein Ambassador 👨🏻‍🎓Nutritionist & PT 🌮DM Plan Alimentar 🥙+1900 Clients 🧬Natural
-    location: "Germany"
-    followers: 107721
-    engagement: 431
-    commentsToLikes: 0.007534
-    id: ck5hdm6dio6r40i11vzge88qv
+      millennial mom | vlogs | maternal mental health 📍Syracuse, NY 📧abbylane@socialmediacollabs.com
+    location: "United States"
+    followers: 20724
+    engagement: 438
+    commentsToLikes: 0.037651
+    id: cl78lbj3epyxj0i23y3ia8ncu
     verified: false
-    hashtags: "#wheninrome, #rome, #reels, #lacrescut"
+    hashtags: "#motherhoodjourney, #momlife, #vlog, #motherhood"
+  - username: "brittanylynnlutz"
+    fullname: >-
+      Brittany Lutz (Gonzales)
+    bio: >-
+      healthy living 🌿 ❤️ @kellanlutz 👼👧👦| ✞ Jesus 🎙 @embracedwithgrace podcast collabs🤝dd@amibaconsulting.com
+    location: "United States"
+    followers: 99405
+    engagement: 627
+    commentsToLikes: 0.012853
+    id: ck5pynvhjwxfl0i11hr10qk8h
+    verified: true
+    hashtags: "#tslpartner, #glutenfree, #glutenfreerecipes, #dairyfree"
 ---

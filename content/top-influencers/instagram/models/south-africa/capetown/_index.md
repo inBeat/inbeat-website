@@ -1,36 +1,12 @@
 ---
-title: Top 10 Models Instagram Influencers In Capetown In 2023
+title: Top 10 Models Instagram Influencers In Capetown In 2024
 description: >-
-  Find top models Instagram influencers in Capetown in 2023. Most popular hashtags: #capetown #model #southafrica #fashion.
+  Find top models Instagram influencers in Capetown in 2024. Most popular hashtags: #capetown #model #southafrica #fashion.
 platform: Instagram
-hits: 26
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 26 Instagram influencers like this in Capetown, South Africa for you to collaborate.
+hits: 33
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 33 Instagram influencers like this in Capetown, South Africa for you to connect with.
 profiles:
-  - username: "ciara_tay_kruger"
-    fullname: >-
-      Ciara Taylor Kruger💋
-    bio: >-
-      •Cape Town, South Africa •Bcom student • Twenty • Aries •Model @covermodelscpt ——————————————
-    location: "South Africa"
-    followers: 5624
-    engagement: 1387
-    commentsToLikes: 0.111456
-    id: ckapbizlf021z0i78vsf48vsh
-    verified: false
-    hashtags: "#modeling, #tanning, #swimsuit, #vacation"
-  - username: "marcbermanphotography"
-    fullname: >-
-      Marc Berman | Photographer
-    bio: >-
-      #photographer #model #fashion #lifestyle 📍#capetown 👨🏻Personal Acc - @king_fool For bookings DM or Email : info@marcberman.co.za
-    location: "South Africa"
-    followers: 16600
-    engagement: 187
-    commentsToLikes: 0.023634
-    id: ck5cdtxbzjrsk0i114cjcvvst
-    verified: false
-    hashtags: "#instadaily, #blueeyes, #brunette, #portraitvision"
   - username: "carissaswart"
     fullname: >-
       Carissa💋
@@ -55,18 +31,18 @@ profiles:
     id: ck600u9d0ea4w0i14u23i1ja9
     verified: false
     hashtags: "#farmlife, #braids, #smile, #happy"
-  - username: "mattejacobs"
+  - username: "ciara_tay_kruger"
     fullname: >-
-      Matte Jacobs
+      Ciara Taylor Kruger
     bio: >-
-      Cape Town @20modelmanagement Johannesburg @syncmodels_ • Make Up⠀ • Fashion ⠀ • Face of @houseoflecap • Creative 🇿🇦 ✊🏽✊🏿✊🏾🏳️‍🌈⠀
+      •Cape Town, South Africa •Twenty Three• Aries •Social Media & Digital Marketer • @ctk_exclusive_events ——————————————————————
     location: "South Africa"
-    followers: 10035
-    engagement: 724
-    commentsToLikes: 0.122577
-    id: ck5zy5rny9a3r0i14dbfi53e1
+    followers: 5531
+    engagement: 485
+    commentsToLikes: 0.067807
+    id: ckapbizlf021z0i78vsf48vsh
     verified: false
-    hashtags: "#nextfacesofponds, #watchmenow, #avon, #ugg"
+    hashtags: "#capetownliving, #beach, #goodvibesonly, #igfashionista"
   - username: "amber_brits"
     fullname: >-
       A M B E R. BRITS. OFFICIAL 💥
@@ -79,6 +55,18 @@ profiles:
     id: ck5c26a7twmdj0i11124h90ib
     verified: false
     hashtags: "#shop, #fashioninspo, #babe, #cute"
+  - username: "kunene_ayanda"
+    fullname: >-
+      Ayanda Kunene
+    bio: >-
+      South African 🇿🇦 Twin: @amanda_Kunene 📍 CPT: @20modelmanagement 📍 DBN: @bossmodelsdbn
+    location: "South Africa"
+    followers: 5804
+    engagement: 252
+    commentsToLikes: 0.067949
+    id: ck138fd3bfyxf0i199d208qt8
+    verified: false
+    hashtags: "#fashion, #southafrica, #likeforlikes, #safari"
   - username: "magaramirezz"
     fullname: >-
       Maria Gabriela Ramirez ⚓️
@@ -90,41 +78,53 @@ profiles:
     commentsToLikes: 0.065761
     id: ckap0qc7qrepz0i78yrvmaxt0
     verified: false
-    hashtags: "#losangeles, #beach, #milan, #shooting"
-  - username: "olivermatthieu"
+    hashtags: "#makeup, #work, #la, #summer"
+  - username: "mattejacobs"
     fullname: >-
-      Oliver Matthieu
+      Matte Jacobs
     bio: >-
-      Child Model & Actor 112cm / 18.5kg Chinese-Indonesian🇮🇩 & South African🇿🇦 Cape Town, South Africa🇿🇦 Account managed by dad DM for collaboration
+      Cape Town @20modelmanagement Johannesburg @syncmodels_ Mother of @thehouseoflecap 🇿🇦 ✊🏽✊🏿✊🏾🏳️‍🌈⠀
     location: "South Africa"
-    followers: 5393
-    engagement: 1299
-    commentsToLikes: 0.091890
-    id: ck15pkwu6ye0b0i19o3n9yx4s
+    followers: 10781
+    engagement: 545
+    commentsToLikes: 0.112981
+    id: ck5zy5rny9a3r0i14dbfi53e1
     verified: false
-    hashtags: "#childmodel, #friendship, #boy, #schoolboy"
-  - username: "frema.mensah"
+    hashtags: "#avon, #watchmenow, #nextfacesofponds, #myhairisme"
+  - username: "marcbermanphotography"
     fullname: >-
-      🇬🇭Frema Mensah🇬🇭
+      Marc Berman | Photographer
     bio: >-
-      Model | Fashion | Beauty | lifestyle 📧 fremamensah95@gmail.com @topcomodels cpt 🇿🇦 @fabulousdotcom_models Jhb 🇿🇦 Cape Town 📍
+      #photographer #model #fashion #lifestyle #NFTcommunity #nft #NFTart 📍#capetown 👨🏻Personal Acc - @king_fool 📧 info@marcberman.co.za to book
     location: "South Africa"
-    followers: 7981
-    engagement: 721
-    commentsToLikes: 0.085715
-    id: ck55mwkjc4zg40i11b4gc4y7d
+    followers: 16539
+    engagement: 170
+    commentsToLikes: 0.020955
+    id: ck5cdtxbzjrsk0i114cjcvvst
     verified: false
-    hashtags: "#bluesky, #blackgirl, #melaninqueen, #afrohairstyles"
-  - username: "vvbrownskin"
+    hashtags: "#marcbermanphotography, #instadaily, #southafrica, #photography"
+  - username: "lukegoliath"
     fullname: >-
-      Vanessa Vanderpuye
+      @Lukegoliath
     bio: >-
-      Actress & Model 🇬🇧 🇬🇭 Arjana Pike in Bulletproof 📍UK 📧: info@vanessavanderpuye.com Hair Page @vvhairlondon 💇🏾‍♀️
+      💿 Multi-platinum/diamond Dj/Producer. 🏆 SAMA Winner. 🚫 I Ain’t no Role Model.
     location: "South Africa"
-    followers: 38933
-    engagement: 436
-    commentsToLikes: 0.060173
-    id: ck15qtmbu4kym0i19rnxcpnkk
+    followers: 21449
+    engagement: 629
+    commentsToLikes: 0.463259
+    id: ckf5rj6vlcv0p0j236h85nyyv
     verified: false
-    hashtags: "#darkskinnedbeauty, #actress, #afrohair, #blackgirlmagic"
+    hashtags: "#guitar, #music, #musician, #bhfyp"
+  - username: "deborah__darling"
+    fullname: >-
+      Deborah Chambers
+    bio: >-
+      L￼ate-blossoming silver model and show-off. Embracing my age and all that goes with it. I’m 61. Tag your do #deborahdoo
+    location: "South Africa"
+    followers: 113018
+    engagement: 266
+    commentsToLikes: 0.068654
+    id: ck6u4nfny4q2i0j71lc5gp4dt
+    verified: false
+    hashtags: "#silverhair, #over60andfabulous, #deborahdarling, #nevertooold"
 ---

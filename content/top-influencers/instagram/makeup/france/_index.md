@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In France In 2023
+title: Top 10 Makeup Instagram Influencers In France In 2024
 description: >-
-  Find top makeup Instagram influencers in France in 2023. Most popular hashtags: #nyxcosmetics #makeupartist #morphebabe.
+  Find top makeup Instagram influencers in France in 2024. Most popular hashtags: #makeup #makeupartist #makeuplover.
 platform: Instagram
-hits: 1899
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 1899 Instagram influencers like this in France for you to pitch.
+hits: 2159
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 2159 Instagram influencers like this in France for you to pitch.
 profiles:
-  - username: "ellieekellyy"
+  - username: "giorginajuanita"
     fullname: >-
-      ELLIEKELLY
+      giorgina juanita
     bio: >-
-      fashion • makeup • lifestyle @iconmanagement.ie co-host of hold my drink podcast🎙✨ Shop EK Eyewear below⬇️
+      makeup + haircare place to bee my beauty brand @gigibeebeauty inquiries: info@gjuanita.com
     location: "France"
-    followers: 293521
-    engagement: 431
-    commentsToLikes: 0.030517
-    id: ck0w2y0dpqoho0i19uyvmvrcc
+    followers: 944710
+    engagement: 422
+    commentsToLikes: 0.057847
+    id: ck5bxeadank2a0i11a1hkjl3q
     verified: false
-    hashtags: "#ad, #ba, #makeupartist, #elliekelly"
-  - username: "noor_m_officiel"
+    hashtags: "#milkmakeuppartner, #elemispartner, #makeup, #glowup"
+  - username: "lily_on_the_moon"
     fullname: >-
-      Nour El Houda Bouhalissa
+      Lily on the Moon 🌙
     bio: >-
-      Youtuber | Traveler | Content creator | Makeup Artist 📍- Algeria 🇩🇿 💡- 600K on Youtube 📌- For business: m.khelil@outlook.com
+      🤝Cospositive Cosplayer ☀️ 🪶Plumette in @ouas.cosplay 🥀 👑Disney & Mermaid lover 🧜‍♀️ 💄Makeup & Travel addict ✈️
     location: "France"
-    followers: 2536082
-    engagement: 265
-    commentsToLikes: 0.009125
-    id: ck6u54b7d7iio0j71jzz1ccdp
+    followers: 132961
+    engagement: 471
+    commentsToLikes: 0.009623
+    id: ck0w2fl53o3vc0i19s9fd1swl
     verified: false
-    hashtags: "#happybirthday, #couplegoals, #jnmfamily, #restons"
-  - username: "rawaa_beauty"
+    hashtags: "#barbieanneliese, #barbiemovies, #princessandthepauper, #disney"
+  - username: "theprettyusmu"
     fullname: >-
-      R A W A A • B E A U T Y
+      Le monde de Soline - Distributrice de good vibes☀️
     bio: >-
-      📍currently, PARIS - Makeup, Beauty & Lifestyle - 🤍🤎 ▫️Inquiries : ContactRawaaBeauty@gmail.com ▫️Tiktok: rawaa_beauty ▫️Facebook: rawaabeauty
+      🫶 Je parle de tout ce qui me passionne 🤓 Overthinkeuse Lifestyle - Skincare - Capillaire - Makeup #atypique #multipotentiel Concentré d’amour 🤍👇
     location: "France"
-    followers: 3756319
-    engagement: 52
-    commentsToLikes: 0.007096
-    id: ck8syvlpmm6qw0j78l4vtd4xo
-    verified: true
-    hashtags: "#baby, #maman, #par, #caftanmarocain"
-  - username: "marioncameleon"
-    fullname: >-
-      Marion Moretti
-    bio: >-
-      ✨ French Makeup Artist & YouTuber 📍 Paris | France 💌 Influence | marion@po.agency 🎨 Pro Booking | @b_agency
-    location: "France"
-    followers: 743755
-    engagement: 629
-    commentsToLikes: 0.009381
-    id: ck0w0e3vkdqdk0i19nsygnm8p
+    followers: 47485
+    engagement: 656
+    commentsToLikes: 0.027051
+    id: ck6u08gn6e7lx0j71m69oko8n
     verified: false
-    hashtags: "#bleachedbrows, #toofaced, #sephorafrance, #byterry"
-  - username: "ans_makeup_"
+    hashtags: "#mamanheureuse, #theprettyusmu, #mamande2, #cnis"
+  - username: "anaellepostollec"
     fullname: >-
-      Makeup / Ootd / Lifestyle
+      Anaëlle
     bio: >-
-      👻 : ans_makeup69 TIK TOK 26k : ans_ makeup_ 💌 collab : makeupby.ans29@gmail.com
+      🍎 Farmer & Makeup Artist
     location: "France"
-    followers: 21737
-    engagement: 2060
-    commentsToLikes: 0.117665
-    id: ck6u56e7p7uxl0j71menit0lj
+    followers: 141659
+    engagement: 597
+    commentsToLikes: 0.002863
+    id: ck15rhqcb7zr90i198vkpxmaq
     verified: false
-    hashtags: "#ootd, #dress, #nyxcosmeticsfrance, #lagirlproconcealer"
-  - username: "jen_ny69"
+    hashtags: "#claropsyche, #jeanpaulgaultier, #labelle, #byredo"
+  - username: "paulina_kurkowska"
     fullname: >-
-      JENNY SIXTY NINE
+      Paulina Kurkowska ✨
     bio: >-
-      CEO @baddieblashes Autism Mommy 🧩 💌 Makeupbyjenny69@gmail.com
+      Eye Makeup tutorials ✨ 📩 PR: paulina.kurkowska98@gmail.com 💄@paulinakurkowska_makeup
     location: "France"
-    followers: 1968016
-    engagement: 550
-    commentsToLikes: 0.016167
-    id: ck0tubo6c6hce0i19g26wn0i5
+    followers: 151818
+    engagement: 710
+    commentsToLikes: 0.023236
+    id: ck135bz640q260i19swc47j4v
     verified: false
-    hashtags: "#toxic, #lashgame, #baddie, #savagexambassador"
-  - username: "mi1lou"
+    hashtags: "#makeuptutorial, #polishgirl, #makeuponpoint, #makeupjunkie"
+  - username: "s.comme.stephanie"
     fullname: >-
-      MiLOu
+      Stephanie Juglard
     bio: >-
-      ✖️ Mylène, 29 ans 💄 Makeup enthusiast MORPHE -5€ avec le code GLAMFAM1014 📩 mi1loucontact@gmail.com 📍 South 🇫🇷
+      𝕍𝕚𝕖𝕟𝕤 𝕥𝕖 𝕤𝕦𝕓𝕝𝕚𝕞𝕖𝕣 𝕖𝕥 𝕥'𝕒𝕞𝕦𝕤𝕖𝕣 𝕒𝕧𝕖𝕔 𝕕𝕤 𝕞𝕒𝕜𝕖𝕦𝕡 𝕗𝕒𝕔𝕚𝕝𝕖𝕤 à 𝕣é𝕒𝕝𝕚𝕤er 💄Tips makeup 🌿Soins 💲Opportunité
     location: "France"
-    followers: 11321
-    engagement: 1549
-    commentsToLikes: 0.066421
-    id: ck8tdd7gk2w0v0j782arxnb3i
+    followers: 24072
+    engagement: 728
+    commentsToLikes: 0.071223
+    id: clexewn3akqsr0j08y0imkrom
     verified: false
-    hashtags: "#morpheglamfam, #morphe, #beautyhacks, #pridemakeup"
-  - username: "luluetsespinceaux"
+    hashtags: "#femme40ans, #makeup, #stephanietesteer, #antiaging"
+  - username: "ben_biton__"
     fullname: >-
-      Lucie
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀BEN BITON
     bio: >-
-      Esthéticienne en formation 💅🏼 Always with passion❤️‍🔥| Makeup/Beauty 📧 luluetsespinceauxrush@gmail.com # Share your look with #luluetsespinceaux
+      Dubai 📍⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ •Hair & makeup• ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀📞 +972542192747
     location: "France"
-    followers: 11254
-    engagement: 1191
-    commentsToLikes: 0.079502
-    id: ck8tdnnat42jq0j781apsggap
+    followers: 28726
+    engagement: 420
+    commentsToLikes: 0.079622
+    id: ck0vylvyp4n4t0i19w848upu9
     verified: false
-    hashtags: "#nyxcosmetics, #glittermakeup, #lauramercier, #nyxprofessionalmakeup"
-  - username: "brxxe"
+    hashtags: "#hairstylist, #wedding, #kimkardashian, #abudhabi"
+  - username: "solenexpasquier"
     fullname: >-
-      Martyna 💫
+      SOLÈNE PASQUIER
     bio: >-
-      🇵🇱PL 💄makeup
+      French Creative Makeup Artist UK | Business: solenexpasquier@gmail
     location: "France"
-    followers: 25890
-    engagement: 751
-    commentsToLikes: 0.090223
-    id: ck0txx8plkuet0i1935ckoi4y
+    followers: 19550
+    engagement: 890
+    commentsToLikes: 0.054284
+    id: ck8tapng2slrb0j78eat8nmr7
     verified: false
-    hashtags: "#makeupaddict, #eyeshadow, #creativemakeup, #hudabeauty"
-  - username: "enillasmu"
+    hashtags: "#beautiful, #gifted, #undiscoveredmuas, #sfxmakeup"
+  - username: "aleyna_g_"
     fullname: >-
-      Enillasmu
+      Aleyna
     bio: >-
-      ♡ Apolline | 24 | France (le Havre) 💌 enillasmu@outlook.fr - @enillasleeve & @enillas - nails 💅🏻 & makeup
+      @aleyna_g_makeup
     location: "France"
-    followers: 36172
-    engagement: 837
-    commentsToLikes: 0.052440
-    id: ck15th1agi1c80i19a1hdqb8i
+    followers: 97839
+    engagement: 738
+    commentsToLikes: 0.009383
+    id: clto0xyt4nuz30k083izlsx3l
     verified: false
-    hashtags: "#makeupenthusiast, #makeupoftheday, #makeup, #wearebrows"
+    hashtags: ""
+  - username: "leonardmzr"
+    fullname: >-
+      Léonard Mazzara
+    bio: >-
+      🧴 skincare, makeup, lifestyle 👨‍🔬 founder @focusskincare.fr 🎬 tiktok : 600k 💌 contact@leonardmzr.com 📍 Paris
+    location: "France"
+    followers: 73417
+    engagement: 582
+    commentsToLikes: 0.039778
+    id: cl1uc0zsycf2f0i23fjixg7om
+    verified: false
+    hashtags: "#skinreset, #skincarebarbe, #uriagefrance, #soinspeau"
 ---

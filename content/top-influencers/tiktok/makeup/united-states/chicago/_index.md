@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Chicago In 2023
+title: Top 10 Makeup TikTok Influencers In Chicago In 2024
 description: >-
-  Find top makeup TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #makeup #chicago #foryou.
+  Find top makeup TikTok influencers in Chicago in 2024. Most popular hashtags: #fyp #makeup #chicago #foryou.
 platform: TikTok
 hits: 80
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 80 TikTok influencers like this in Chicago, United States for you to pitch.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 80 TikTok influencers like this in Chicago, United States for you to work with.
 profiles:
   - username: "yulissa_9"
     fullname: >-
@@ -43,6 +43,18 @@ profiles:
     id: ckcv2cf5io2tg0j23y1exj1a3
     verified: false
     hashtags: "#snowglobe, #teacher, #greenscreen, #teachersontiktok"
+  - username: "hailee.harris"
+    fullname: >-
+      Hail
+    bio: >-
+      I’m somewhat above average entertainment MMG NYC&LA Email: haileeh007@gmail.com
+    location: "United States"
+    followers: 119600
+    engagement: 1421
+    commentsToLikes: 0.027437
+    id: ck8z4zvydfukb0j78xu18p5s0
+    verified: false
+    hashtags: "#styleinspo, #trend, #style, #outfits"
   - username: "alexyssnkeirsten"
     fullname: >-
       Sisters
@@ -79,18 +91,6 @@ profiles:
     id: ckc8hzbmmbriw0j23xwle44re
     verified: false
     hashtags: "#makeup, #foryou, #fyp, #hairstyle"
-  - username: "lauraldrin"
-    fullname: >-
-      lauraldrin
-    bio: >-
-      9748 Hey 🥰 Spanish model living in 📍Chicago Follow my ig: @lauraldrin
-    location: "United States"
-    followers: 18000
-    engagement: 613
-    commentsToLikes: 0.050195
-    id: ck9nhf644fz3g0j78osemjvf2
-    verified: false
-    hashtags: "#blushmarksquad, #chicago, #tiktokdance, #foxyeyes"
   - username: "malortluvr"
     fullname: >-
       malortluvr

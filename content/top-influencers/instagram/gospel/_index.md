@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gospel Instagram Influencers In 2023
+title: Top 10 Gospel Instagram Influencers In 2024
 description: >-
-  Find top gospel Instagram influencers in 2023. Most popular hashtags: #style #fashion #sunday.
+  Find top gospel Instagram influencers in 2024. Most popular hashtags: #faithoverfear #godisgood #biblequotes.
 platform: Instagram
-hits: 1112
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 1112 Instagram influencers like this for you to work with.
+hits: 1218
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database has 1218 Instagram influencers like this for you to contact.
 profiles:
-  - username: "kylerlovesjesus"
+  - username: "gretchensaffles"
     fullname: >-
-      ky ☆
+      Gretchen Saffles
     bio: >-
-      ☆Husband and Minister of the Gospel ☆If you desire to give your heart to Jesus click the LINK below.
+      Give me Jesus, plus nothing 🖊 Writing about the gospel in everyday life 📖 Founder of @wellwateredwomen 🌿 Author of The Well-Watered Woman ↓
     location: "United States"
-    followers: 33128
-    engagement: 669
-    commentsToLikes: 0.052724
-    id: ck5q9sgkicro30i11hptlopzh
+    followers: 38352
+    engagement: 798
+    commentsToLikes: 0.029933
+    id: cky72q8ptjq720j23cz4z4bne
     verified: false
-    hashtags: ""
-  - username: "billygraham"
+    hashtags: "#wellwateredwomen, #tgcw24, #heaven, #heisrisen"
+  - username: "mlorenzen21"
     fullname: >-
-      Billy Graham
+      Michael Lorenzen
     bio: >-
-      Official Instagram account of the late Billy Graham. Posts are made by @bgea, the ministry he founded in 1950 that continues sharing the Gospel today.
-    location: ""
-    followers: 205420
-    engagement: 626
-    commentsToLikes: 0.015342
-    id: ck15ttmwiju7x0i19y9lixrk9
-    verified: false
-    hashtags: "#racism, #laborday, #mlkday, #billygraham"
-  - username: "jeremy_vuolo"
-    fullname: >-
-      Jeremy Vuolo
-    bio: >-
-      Christ Follower 👸🏻@jingervuolo 🎤 🛒@hopewehold Sharing Gospel Hope Business inquiries: jenny@fromthegiftshoppe.com
+      Unashamed of the Gospel of Christ|| Married to @cassilorenzen || CSUF TITAN 🐘|| DETROIT TIGER 🐅 II Twitter:@Lorenzen55
     location: "United States"
-    followers: 695142
-    engagement: 252
-    commentsToLikes: 0.019443
-    id: ck14ke32kp2nc0i196hgimo23
+    followers: 92626
+    engagement: 804
+    commentsToLikes: 0.009347
+    id: ck0w1dhl2ith00i19fnrgtkmq
     verified: true
-    hashtags: ""
-  - username: "simplynatx_"
+    hashtags: "#neweranastyboys, #batwalkchallenge, #batbalancechallenge, #2021"
+  - username: "success_in_jesus"
     fullname: >-
-      Natalie🇨🇲
+      Success in Jesus™️
     bio: >-
-      Devoted to Christ and His Gospel ✨ Learn, Love and Let Go. The Lord, Jesus Christ is my saviour. MCR📍 CEO:@exoduscouture.
+      † Jesus Transforms Lives 🕊 † Spreading the Gospel of Jesus Christ † Founder and writer: @pareenakhubani 👇 Follow to stay rooted in faith ✝️❤️
     location: "United States"
-    followers: 12286
-    engagement: 752
-    commentsToLikes: 0.069104
-    id: ckap90yokqqt70i78j02l7p2o
-    verified: false
-    hashtags: "#jesus, #love, #christian, #christ"
-  - username: "apostlelocadia"
-    fullname: >-
-      𝑳𝒐𝒄𝒂𝒅𝒊𝒂 𝑻𝒆𝒎𝒃𝒐 𝑲𝒂𝒓𝒊𝒎𝒂𝒕𝒔𝒆𝒏𝒈𝒂
-    bio: >-
-      📌Minister of The Gospel 📌Philanthropist 📌Entrepreneur #BeOfService
-    location: "India"
-    followers: 216896
-    engagement: 437
-    commentsToLikes: 0.008033
-    id: ck6010sc7emun0i14my4ih9po
-    verified: false
-    hashtags: "#jehovahshammah, #nationofglory, #jehovahjireh, #elshaddai"
-  - username: "christyljohnston"
-    fullname: >-
-      Christy Johnston
-    bio: >-
-      your business is meant for good, i help creatives find out how. co-founder: @creativrise + @compassioncauses how sweet the gospel is. 💍: @joeyspeers
-    location: "United States"
-    followers: 18061
-    engagement: 434
-    commentsToLikes: 0.039478
-    id: ck138zqa0itcd0i19ystr7zlr
+    followers: 1030077
+    engagement: 856
+    commentsToLikes: 0.053127
+    id: ckzot0u8uigd50j23402ya77x
     verified: false
     hashtags: ""
-  - username: "jamesjazzyhall"
+  - username: "rebecaferrarii"
     fullname: >-
-      James Hall
+      Rebeca Ferrari
     bio: >-
-      CEO-MusicBlend Inc. NY, Gospel Artist, founder of WAP, Songwriter of many Hits, Organist, Producer, Jazz Singer, Actor, The Duke of Gospel & More! Lol
-    location: "United States"
-    followers: 69937
-    engagement: 288
-    commentsToLikes: 0.033636
-    id: ck15tlfk0inl10i19f8t7d6rx
+      Perfil da cristã, gospel, evangélica, crente, do manto! 🔥🤣 Casada 💍❤️ ❣️ Humor, cabelos e looks do culto! 👇🏻 Meus links/ Descontos
+    location: "Brazil"
+    followers: 273396
+    engagement: 884
+    commentsToLikes: 0.019700
+    id: ck15uh308n5jc0i19sbno4xgx
     verified: false
-    hashtags: "#bold, #suitandtie, #fashion, #louisvuitton"
-  - username: "msfasttwitch"
+    hashtags: "#modafeminina, #jovenscristaos, #modaevangelica, #crente"
+  - username: "lejuiice"
     fullname: >-
-      Morolake Akinosun™
+      TRAP MAMA 🥷🏾🇨🇮
     bio: >-
-      tryna live my life in a manner worthy of the gospel of Christ • 🇳🇬 • Olympic Gold Medalist • World Champion • Nike Sprinter • Texas-Ex 🤘🏾
+      🧠 @homi.tv Collab📥 : lejuiice@2yagency.com GOSPEL OUT NOW 🎶
+    location: "France"
+    followers: 82256
+    engagement: 491
+    commentsToLikes: 0.017818
+    id: ck0twkj9zfsln0i197gnrttkd
+    verified: false
+    hashtags: "#fyp, #63, #watchme, #sansforcer"
+  - username: "uarmycaroli"
+    fullname: >-
+      CAROL | BTS COM B DE BUTTER🧈 ( mundo _army_brasil)
+    bio: >-
+      oi, eu sou a Carol ⁷ Siga o ig: @uarmycarolii Only bts, OT7 Memes, vídeos, vida diária e mt surtos Venham todos entrar no meu close friends gospel
+    location: "Brazil"
+    followers: 72774
+    engagement: 674
+    commentsToLikes: 0.051424
+    id: ck0vyan2t31b80i19g3k6h7g7
+    verified: false
+    hashtags: "#jeonjungkook, #jungkook, #jin, #parkjimin"
+  - username: "stranglersofficial"
+    fullname: >-
+      The Stranglers
+    bio: >-
+      The gospel according to the men in black.
     location: "United States"
-    followers: 17139
-    engagement: 602
-    commentsToLikes: 0.033836
-    id: ck6tyznle6sj80j717neg7wdi
+    followers: 18440
+    engagement: 380
+    commentsToLikes: 0.030706
+    id: ck5zmol7bmxmg0i143c9usc2g
+    verified: false
+    hashtags: "#darkmatters, #thestranglers, #dmnzoz23, #premiere"
+  - username: "jessi.green"
+    fullname: >-
+      Jessi Green | Revivalist
+    bio: >-
+      I preach the Gospel + baptize people. Director of @saturateglobal ✨ Join me for 4 weeks LIVE online to move in DUNAMIS POWER 💥 👇🏼
+    location: "United States"
+    followers: 32769
+    engagement: 308
+    commentsToLikes: 0.050489
+    id: cliteb5llyvcb0j08zs0d8io0
+    verified: false
+    hashtags: "#godisgood, #christian, #jesuspaiditall, #baptism"
+  - username: "godisglamorous"
+    fullname: >-
+      Johanna Marie
+    bio: >-
+      💡Spreading the Gospel all over your timeline ♥️Disciple | Bible Teacher | Singer 🎵Best Friend Album Out Now 🎤Bookings:Hello@GodisGlamorous.com
+    location: "United States"
+    followers: 87438
+    engagement: 301
+    commentsToLikes: 0.071427
+    id: cl0sro9y8qyur0i23r5qc3pmd
+    verified: false
+    hashtags: "#godlywomen, #christianmusic, #gospelartist, #biblestudy"
+  - username: "1kphew"
+    fullname: >-
+      PHEWSKIII™
+    bio: >-
+      GOSPEL RAP IS BACK. JACK😝 All bookings/features • 225.650.4844
+    location: "United States"
+    followers: 186704
+    engagement: 258
+    commentsToLikes: 0.027733
+    id: ck0twq8swgebj0i19bxl7xdl5
     verified: true
-    hashtags: "#resilience, #tokyo2020ne, #trackandfield, #training"
-  - username: "aishjames"
-    fullname: >-
-      Aishwarya - Washington D.C.
-    bio: >-
-      I rejoice in the simple gospel 🐑🤍🩹
-    location: "United States"
-    followers: 17958
-    engagement: 386
-    commentsToLikes: 0.049756
-    id: ck0tt2kdv0vuz0i19gpbcsl87
-    verified: false
-    hashtags: "#ootd, #floridalife, #beachlife, #fashion"
-  - username: "ayandancwane"
-    fullname: >-
-      Ayanda Ncwane 🇿🇦
-    bio: >-
-      By God’s grace - CEO of Ncwane Communications . President of Africa Gospel Awards . Philanthropist ✊🏽
-    location: "South Africa"
-    followers: 1112913
-    engagement: 241
-    commentsToLikes: 0.011270
-    id: ck5c3s7exzy9s0i11304b803e
-    verified: false
-    hashtags: "#goforward, #ex14, #ithembalami, #thegumedes"
+    hashtags: "#gospelrapisback, #asiam"
 ---

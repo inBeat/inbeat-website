@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Spain In 2023
+title: Top 10 Photographers TikTok Influencers In Spain In 2024
 description: >-
-  Find top photographers TikTok influencers in Spain in 2023. Most popular hashtags: #fyp #foryou #photographer #photo.
+  Find top photographers TikTok influencers in Spain in 2024. Most popular hashtags: #foryou #fyp #photographer #photo.
 platform: TikTok
 hits: 13
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our platform holds 13 TikTok influencers like this in Spain for you to contact.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 13 TikTok influencers like this in Spain for you to pitch.
 profiles:
   - username: "thuwedekind"
     fullname: >-

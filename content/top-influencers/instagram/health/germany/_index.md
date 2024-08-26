@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Germany In 2023
+title: Top 10 Health Instagram Influencers In Germany In 2024
 description: >-
-  Find top health Instagram influencers in Germany in 2023. Most popular hashtags: #fitfam #summervibes #mindset.
+  Find top health Instagram influencers in Germany in 2024. Most popular hashtags: #mentalhealthmatters #couple #mentalhealth.
 platform: Instagram
-hits: 1323
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 1323 Instagram influencers like this in Germany for you to connect with.
+hits: 1577
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 1577 Instagram influencers like this in Germany for you to contact.
 profiles:
-  - username: "nicolas_aesthetics"
+  - username: "kindakiri"
     fullname: >-
-      Nicolas Enache | Fitness, Cooking & Health
+      Kiri 🩵
     bio: >-
-      🏅Nr1 fitness&healthy cooking in🇷🇴 📧:Nicolas_ec@yahoo.com 🏋🏻‍♂️Myprotein Ambassador 👨🏻‍🎓Nutritionist & PT 🌮DM Plan Alimentar 🥙+1900 Clients 🧬Natural
+      dating, fashion, tattoos, mental health & adhd🧠💙 cgn 🎧| 26 | queer kiri@tysm-media.com
     location: "Germany"
-    followers: 107721
-    engagement: 431
-    commentsToLikes: 0.007534
-    id: ck5hdm6dio6r40i11vzge88qv
+    followers: 48490
+    engagement: 681
+    commentsToLikes: 0.015872
+    id: ck55lmjnd1x8b0i110jw3lhcs
     verified: false
-    hashtags: "#wheninrome, #rome, #reels, #lacrescut"
-  - username: "marisa.hofmeister"
-    fullname: >-
-      Marisa Hofmeister
-    bio: >-
-      🌱Certified Holistic Health & Nutrition Coach 🌈 TÄGLICHE Food & Lifestyle Inspo 💌 mgmt@marisahofmeister.com 🎙Podcast: M&Mpowerment 📍BER🇩🇪
-    location: "Germany"
-    followers: 67112
-    engagement: 435
-    commentsToLikes: 0.041615
-    id: ck0txg2zcizdk0i19ulv1zs53
-    verified: false
-    hashtags: "#mindset, #gesunderezepte, #tuscanywedding, #vollgem"
+    hashtags: "#nyxcosmeticsgermany, #nyxcosmeticspartner, #ultimateshadowpalette, #eyemakeup"
   - username: "miriamneureuther"
     fullname: >-
       Miriam Neureuther
     bio: >-
-      TRY TO START EVERY DAY WITH A SMILE! Happy mum 👧🏼👶🏻 nature lover🌳 healthy lifestyle 🍉
+      TRY TO START EVERY DAY WITH A SMILE! Happy mum 👧🏼🧒🏼👶🏻 nature lover🌳 healthy lifestyle 🍉
     location: "Germany"
-    followers: 136955
-    engagement: 616
-    commentsToLikes: 0.038223
+    followers: 162019
+    engagement: 495
+    commentsToLikes: 0.033679
     id: ck0u6aerv1hs30i19phfbl3fp
     verified: false
-    hashtags: "#werbung, #imeigenentempo, #werbungwegenmarkennennung, #refillthegood"
-  - username: "tim_stammberger"
+    hashtags: "#imeigenentempo, #werbung, #werbungwegenmarkennennung, #refillthegood"
+  - username: "minnahigh"
     fullname: >-
-      Tim Stammberger
+      Laura Hettich
     bio: >-
-      Fitness, Health, Food & good vibes ⠀ 📍 Köln
+      NO TIME FOR THINGS THAT HAVE NO SOUL. Sustainability, photography, mental health Mallorca @soulbooksociety contact@minnahigh.eu
     location: "Germany"
-    followers: 142435
-    engagement: 612
-    commentsToLikes: 0.005068
-    id: ck13blpfiw0uq0i19hunuop5v
-    verified: true
-    hashtags: "#huaweimatebook, #huaweimatebookxpro, #touchscreen, #huawei"
-  - username: "_jennifer_hen"
-    fullname: >-
-      𝓙𝓮𝓷𝓷𝓲𝓯𝓮𝓻 𝓗𝓮𝓷𝓴𝓮
-    bio: >-
-      ♡ nice to meet you🤓 ♡ germany ♡ nicu nurse ♡ fitness and health interested ♡ somehow different, but find out for yourself ⬇️
-    location: "Germany"
-    followers: 6276
-    engagement: 1982
-    commentsToLikes: 0.125521
-    id: ck8t5o4kcao240j78xi6wr6e5
+    followers: 272340
+    engagement: 458
+    commentsToLikes: 0.003936
+    id: ck13896hzf3qd0i19c0a7x9jy
     verified: false
-    hashtags: "#climatechange, #feelit, #safe, #liebenwir"
-  - username: "miss_high_voltage"
+    hashtags: "#onfilm, #mentalhealthmatters, #super8"
+  - username: "alianasophie"
     fullname: >-
-      ↯‡Katharina‡↯
+      ALIANA ✨ 23 yrs
     bio: >-
-      ♥️“𝙱𝚎𝚏𝚘𝚛𝚎 𝙴𝚕𝚟𝚒𝚜 𝚝𝚑𝚎𝚛𝚎 𝚠𝚊𝚜 𝚗𝚘𝚝𝚑𝚒𝚗𝚐.” Music lover•~Healthy lifestyle•~Globetrotter 🎼 BFMV🙏🏻 MIW🌹
+      be the girl, that just went for it 🧚🏼 💖 mindset & healthy lifestyle inspo 🤸‍♂️ (Leistungs-)Tanzen ✈️ @missalianas_sommerhaus 👇🏼alle Infos zu Trips
     location: "Germany"
-    followers: 23964
-    engagement: 952
-    commentsToLikes: 0.067259
-    id: ck0w060sscjxl0i19kwsxm1gr
+    followers: 41596
+    engagement: 1023
+    commentsToLikes: 0.007726
+    id: cl9ktusoojb100i23uijocst8
     verified: false
-    hashtags: "#teamzverev"
-  - username: "sophieklex"
+    hashtags: "#freund, #couple, #motivation, #sport"
+  - username: "henriettehaase"
     fullname: >-
-      s o p h i e k l e x
+      JETTE (she/her)
     bio: >-
-      📍KO | Germany 💌 sophieklex@gmail.com 💛 LIFESTYLE • TRAVEL ✈️ Flight Attendant 🎓 Health- and Nutrition Science ⏰ Post at 20pm
+      Welcome to my digital diary✨ Lass uns einen safe space schaffen 🤍 Schaumbadlos ehrlich Podcast🫧 SELFLOVE,SELFCARE,MENTAL HEALTH co.henriette@gmx.de
     location: "Germany"
-    followers: 51228
-    engagement: 374
-    commentsToLikes: 0.156021
-    id: ck0tvfydjb6lo0i19t6d5a0zu
+    followers: 42649
+    engagement: 832
+    commentsToLikes: 0.024424
+    id: cl5l32t5b910h0i23llxncqg4
     verified: false
-    hashtags: "#wearthisnext, #alm, #berge, #styledomino"
-  - username: "run4mh"
+    hashtags: "#selflove, #mentalhealthmatters, #mentalhealthawareness, #mentalhealth"
+  - username: "laura.frida"
     fullname: >-
-      MARK | 🏃‍♂️
+      Laura Frida
     bio: >-
-      Runner, mental health advocate, @runtalkrunsouthampton leader⁣ Brooks #runhappy team 🇬🇧@corosglobal Impi Ambassador @gatosports mh first aider
+      ALLTAG ALS MAMA, OUTFITS & LIFESTYLE Ehrliche Einblicke: Momlife, Toxic Family, Mental Health 📍Köln Impressum👇🏼
     location: "Germany"
-    followers: 8472
-    engagement: 807
-    commentsToLikes: 0.054226
-    id: ck5hpb46kr2ef0i11kk6afn4d
+    followers: 75371
+    engagement: 767
+    commentsToLikes: 0.019011
+    id: clilkxbqwcy2o0j08mo1wspxd
     verified: false
-    hashtags: "#halfmarathon, #runnersofinstagram, #medalmonday, #marathontraining"
-  - username: "_there_s_a"
+    hashtags: "#wedding, #lifewear, #lorealpariscolorathome, #schaebens"
+  - username: "aboutbella"
     fullname: >-
-      🌸 Theresa 🌸
+      Bella ♡
     bio: >-
-      🏋🏼‍♀️ Fitness 🌱 Health 🌸 Lifestyle 📍 Innsbruck, Austria 💍 @_dany_ibk 📩 kontakt.theresaliner@gmail.com
+      Fashion| Travel | Mental Health ↠ ᴮᴱᴵᴺᴳ ᵁᴺᴵᵠᵁᴱ ᴵᴺ ʸᴼᵁᴿ ᴼᵂᴺ ᵂᴬʸ ᴵˢ ᵂᴴᴬᵀ ᴹᴬᴷᴱˢ ʸᴼᵁ ᴮᴱᴬᵁᵀᴵᶠᵁᴸ ↞ ✘ use #aboutbella DD, GER 📍 💌 aboutbella@online.de
     location: "Germany"
-    followers: 39479
-    engagement: 930
-    commentsToLikes: 0.028758
-    id: ckap825ommhx50i78oz7gdsin
+    followers: 11586
+    engagement: 1029
+    commentsToLikes: 0.115968
+    id: ck14l6hupt3p00i19asgky5qg
     verified: false
-    hashtags: "#tb, #fitfam, #happy, #autumn"
-  - username: "jasmin_katharina._"
+    hashtags: "#nakdfashion"
+  - username: "wayofkatrin"
     fullname: >-
-      Jasi
+      Katrin
     bio: >-
-      ✨ Welcome to my world ✨ ✨ Fitnessaddict ✨ Dreamcatcher ✨ Just enjoy life ✨ Healthyfood
+      › Intersektionaler Feminismus, Mental Health, Hundeflausch & viel Randomness › Social Media ist politisch. › Anfragen: wayofkatrin@gmail.com
     location: "Germany"
-    followers: 7548
-    engagement: 2949
-    commentsToLikes: 0.044310
-    id: ck0vze7he8o590i19tt5g25wx
+    followers: 20905
+    engagement: 1583
+    commentsToLikes: 0.027062
+    id: cl5l3346y97re0i23zm5t3tw7
     verified: false
-    hashtags: "#lovemylife, #herzmenschen, #thankfulforeverything, #happinessisachoice"
+    hashtags: "#mentalegesundheit, #toxischepositivit, #feminismus, #sch"
+  - username: "joeachilles"
+    fullname: >-
+      Joe Achilles
+    bio: >-
+      Cars and Motorbikes YouTube Films 🎥 Proud @michelinuk Ambassador Peace, Health & Happiness ❤️ @oakley 😎 @rstmoto 🏍️ Latest Youtube ⬇️
+    location: "Germany"
+    followers: 94847
+    engagement: 543
+    commentsToLikes: 0.028559
+    id: ck0tuk1go7ihf0i19a9usb1fa
+    verified: false
+    hashtags: "#germany, #teampixel, #bmwx5mcompetition, #britishracinggreen"
+  - username: "mellefrnk"
+    fullname: >-
+      Melle ✨ • mom to be 🤰🏻• daily struggle
+    bio: >-
+      ⚡️lipödem • motivation • realität 🕊️mental health 👼🏻🍪 loading 💍 René
+    location: "Germany"
+    followers: 10572
+    engagement: 542
+    commentsToLikes: 0.090078
+    id: clipg9lzljyab0j08af1enmwt
+    verified: false
+    hashtags: "#liposuction, #intervallfasten, #liposuktionbeilip, #aufkl"
 ---

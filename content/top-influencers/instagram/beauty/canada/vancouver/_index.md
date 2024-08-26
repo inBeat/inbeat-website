@@ -1,12 +1,24 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Vancouver In 2023
+title: Top 10 Beauty Instagram Influencers In Vancouver In 2024
 description: >-
-  Find top beauty Instagram influencers in Vancouver in 2023. Most popular hashtags: #beauty #vancouver #makeup #portraitphotography.
+  Find top beauty Instagram influencers in Vancouver in 2024. Most popular hashtags: #fashion #beauty #vancouver #yvr.
 platform: Instagram
-hits: 63
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 63 Instagram influencers like this in Vancouver, Canada for you to work with.
+hits: 114
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 114 Instagram influencers like this in Vancouver, Canada for you to work with.
 profiles:
+  - username: "femmemandyj"
+    fullname: >-
+      MandyJohal
+    bio: >-
+      Vancouver HMUA I Actor I Creator I Makeup Educator 📧COLLABS . PR : mandeepjohal101@gmail.com Click ⬇️
+    location: "Canada"
+    followers: 1079
+    engagement: 382
+    commentsToLikes: 0.055170
+    id: cktdxnyif8m000j235j1xaf1r
+    verified: false
+    hashtags: "#model, #kyliejenner, #iluvsarahii, #hudabeauty"
   - username: "catherinebyrdy"
     fullname: >-
       Cat’s Meow 😽
@@ -19,30 +31,90 @@ profiles:
     id: ck6ui64ljdao70j71atkot49b
     verified: false
     hashtags: "#vancouverisawesome, #vancouvercreatives, #darkspirit, #motion"
+  - username: "melissasollee"
+    fullname: >-
+      Melissa Sol
+    bio: >-
+      style • beauty • fashion vancouver • nyc 💌 melissasol.contact@gmail.com youtube, outfit links ↓
+    location: "Canada"
+    followers: 109261
+    engagement: 594
+    commentsToLikes: 0.442021
+    id: cl9ra3f86m5w90i23ck1cfl2y
+    verified: false
+    hashtags: "#liketkit, #michaelkors, #mkpartner, #ootdreel"
   - username: "theopenjournal"
     fullname: >-
       T A S H A
     bio: >-
       𝓜𝔂 𝓣𝔀𝓸 𝓒𝓮𝓷𝓽𝓼 Lifestyle | Fashion | Beauty 📍Vancouver 🤍Authentic > perfect 👓Read my captions 💌Tasha@TheOpenJournal.Net ⬇️ Blog
     location: "Canada"
-    followers: 19559
-    engagement: 387
-    commentsToLikes: 0.045185
+    followers: 17996
+    engagement: 372
+    commentsToLikes: 0.046930
     id: ck5q95z1j9kcw0i118jfk13qa
     verified: false
-    hashtags: "#sheingals, #shein, #gifted, #ad"
+    hashtags: "#shein, #sheingals, #ad, #gifted"
+  - username: "milafilipovic"
+    fullname: >-
+      Mila
+    bio: >-
+      Fashion + beauty + wellness Vancouver ✉️ milica.filipovic13@hotmail.com
+    location: "Canada"
+    followers: 13030
+    engagement: 84
+    commentsToLikes: 0.058223
+    id: ckxtmj475cpo90j23jf1bvd1i
+    verified: false
+    hashtags: "#outfitinspiration, #reelsinstagram, #dayinmylife, #gifted"
+  - username: "sophiapierson"
+    fullname: >-
+      Sophia Pierson
+    bio: >-
+      Vancouver 🇨🇦 Beauty School on Snapchat 💄 Self Care Sundays on Youtube ❤️
+    location: "Canada"
+    followers: 581484
+    engagement: 22
+    commentsToLikes: 0.004461
+    id: ck55jwepvxx1s0i11tc9iuya3
+    verified: true
+    hashtags: "#whotfdidimarry"
   - username: "katewhytephoto"
     fullname: >-
-      𝕂𝕒𝕥𝕖 𝕎𝕙𝕪𝕥𝕖
+      Kate Whyte
     bio: >-
-      Official Canon Ambassador Educator @ Portrait Masters 2020 Vancouver
+      West Coast Official Canon Ambassador Profoto Light Shaper
     location: "Canada"
-    followers: 33097
-    engagement: 233
-    commentsToLikes: 0.039808
+    followers: 67588
+    engagement: 122
+    commentsToLikes: 0.024604
     id: ck0tzccd1ps540i19z3gh3olz
     verified: false
-    hashtags: "#beautyshoot, #freshmakeup, #vancouvermua, #retouchingstudio"
+    hashtags: "#byrdiebeauty, #editorial, #modeling, #profoto"
+  - username: "oneclinicmd"
+    fullname: >-
+      One Clinic MD
+    bio: >-
+      🏥Medical Aesthetics 👨🏻‍⚕️ @doctorj.md, @dr.nel_md 💎Redefine Your Elegance 💻oneclinicmd.com 🛒shoponeclinicmd.com ☎️604-773-1191 📍Vancouver 🇨🇦
+    location: "Canada"
+    followers: 6828
+    engagement: 159
+    commentsToLikes: 0.191515
+    id: ckyu5qphjxlga0j231cekhkzh
+    verified: false
+    hashtags: "#vancouver, #beauty, #yvrbeauty, #beautytips"
+  - username: "fashionsandwichbybahar"
+    fullname: >-
+      Bahar Eslami |Content Creator
+    bio: >-
+      Beauty|Fashion|Lifestyle @bahareslamisupport Collaboration @divanevents_canada Co.Founder @bahareslami_journal Creator Vancouver,BC
+    location: "Canada"
+    followers: 228285
+    engagement: 185
+    commentsToLikes: 0.044645
+    id: ckng6k74fs9gw0j23g73ldv6k
+    verified: false
+    hashtags: "#fashionsandwichbybahar, #streetstyle, #fashion, #blogger"
   - username: "vancityplus"
     fullname: >-
       Vancity+
@@ -54,77 +126,5 @@ profiles:
     commentsToLikes: 0.003226
     id: ck9havcgyeap40j78izhimp1v
     verified: false
-    hashtags: "#vancouvervideographer, #vancouverweddingphotographer, #britishcolumbia, #vancouvertattooartist"
-  - username: "rubygillett"
-    fullname: >-
-      RUBY GILLETT
-    bio: >-
-      Fashion • Beauty • Lifestyle 📍Vancouver, BC 🇨🇦
-    location: "Canada"
-    followers: 10527
-    engagement: 278
-    commentsToLikes: 0.111067
-    id: ck5zk4ycdithz0i14mci6hlj1
-    verified: false
-    hashtags: "#founditonamazon, #gifted, #amazonassociate, #ad"
-  - username: "jad.warde"
-    fullname: >-
-      JAD WARDE
-    bio: >-
-      📸 FASHION AND BEAUTY PHOTOGRAPHER ✈ Vancouver - Early September ✉ jad-warde@hotmail.com 📍 Kelowna BC 📞 +1 250 808 7298
-    location: "Canada"
-    followers: 32471
-    engagement: 729
-    commentsToLikes: 0.033665
-    id: ck5q9q4amces60i11b26cblir
-    verified: false
-    hashtags: "#nailstagram, #beauty, #swimsuit, #nailsoftheday"
-  - username: "winnspiration"
-    fullname: >-
-      Winnie 〰️
-    bio: >-
-      lifestyle, fashion & beauty 📍 toronto / vancouver ✉️ winnspiration@gmail.com
-    location: "Canada"
-    followers: 39057
-    engagement: 138
-    commentsToLikes: 0.081859
-    id: ck0u7we575wk90i19jj9lkasq
-    verified: false
-    hashtags: "#detoxmode, #wearitwithpandora, #expressie, #pandorasignature"
-  - username: "bethanygillatt"
-    fullname: >-
-      Beth Gillatt
-    bio: >-
-      fashion, beauty & lifestyle 📍Vancouver Island, Canada ✉️ bethpgillatt@gmail.com
-    location: "Canada"
-    followers: 10970
-    engagement: 607
-    commentsToLikes: 0.102583
-    id: ckap3j6nq37ul0i785qhyveeh
-    verified: false
-    hashtags: "#princesspolly, #vitaeapparel, #vitaebabe, #vitaebabes"
-  - username: "monasangha"
-    fullname: >-
-      Mona Sangha
-    bio: >-
-      Makeup artist & part time foodie ☺️ #eatwithmona 📍Vancouver, BC Canada, available worldwide 🌎 📧Email: monasangha@hotmail.com
-    location: "Canada"
-    followers: 108504
-    engagement: 99
-    commentsToLikes: 0.008675
-    id: ck8sx5nb4g8qz0j78x8m3o7ju
-    verified: false
-    hashtags: "#indianwedding, #vancouver, #vancouvermakeupartist, #hudabeauty"
-  - username: "kane.a.roberts"
-    fullname: >-
-      Kane Roberts
-    bio: >-
-      @thewhoareyou MA: @lizbellagency Currently: Vancouver, Canada. 📞@lizbellagency, @newmadisonmodels, @whynotmodels, @pma_models
-    location: "Canada"
-    followers: 5058
-    engagement: 903
-    commentsToLikes: 0.021500
-    id: ck14hum06c81o0i196zr3n385
-    verified: false
-    hashtags: "#canada, #thewhoareyou, #theway, #kane"
+    hashtags: "#downtownvancouver, #bc, #gastown, #toronto"
 ---

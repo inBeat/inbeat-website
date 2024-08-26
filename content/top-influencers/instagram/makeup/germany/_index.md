@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Germany In 2023
+title: Top 10 Makeup Instagram Influencers In Germany In 2024
 description: >-
-  Find top makeup Instagram influencers in Germany in 2023. Most popular hashtags: #makeup #makeuplook #hudabeauty #anastasiabeverlyhills.
+  Find top makeup Instagram influencers in Germany in 2024. Most popular hashtags: #makeup #summer #makeupartist.
 platform: Instagram
-hits: 1477
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our database holds 1477 Instagram influencers like this in Germany for you to connect with.
+hits: 1797
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 1797 Instagram influencers like this in Germany for you to pitch.
 profiles:
-  - username: "madameplatinum"
+  - username: "_hey.nancy_"
     fullname: >-
-      HELEN | MAKEUP
+      Nancy
     bio: >-
-      👄 | All about Makeup 📍 | Leipzig | GER ↓ | Impressum
+      Mami 👶🏼 mit ❤️ für Makeup 💄 und Gaming 🎮 Impressum: @heynancy.impressum
     location: "Germany"
-    followers: 3649
-    engagement: 2371
-    commentsToLikes: 0.257348
-    id: ck6u73kfij9s60j71b7h8iqg4
+    followers: 15541
+    engagement: 544
+    commentsToLikes: 0.016617
+    id: ck5c7klvn7p3m0i1128wig1em
     verified: false
-    hashtags: "#glammakeup, #teenmakeup, #beginnermakeup, #100daysofmakeup"
-  - username: "lujain.albayat"
+    hashtags: "#schwangerschaftsbauch, #nancywenzmakeup, #momtobe, #twitchstreamer"
+  - username: "jbunzie"
     fullname: >-
-      لجين البيات | Lujain Al Bayat
+      𝐉𝐄𝐒𝐒𝐈𝐂𝐀 𝐕𝐈𝐋𝐋
     bio: >-
-      Professional MakeupArtist💄 🎥YouTube 700k subscribers Beauty&Fashion 📍🇩🇪 Germany
+      Latina Screenwriter, Filmmaker, and Founder of @somberstudios 🦇🥀 Makeup Artist Check out my book “When SHTF”:
     location: "Germany"
-    followers: 226340
-    engagement: 618
-    commentsToLikes: 0.040940
-    id: ckap9xyzmu0620i78vscx3mal
-    verified: false
-    hashtags: "#travel, #spain, #makeup, #fashion"
-  - username: "lorenayessir"
+    followers: 507360
+    engagement: 561
+    commentsToLikes: 0.005111
+    id: ck6tij3570t9s0j718w97ek0o
+    verified: true
+    hashtags: "#girls, #vintage, #marilynmonroe, #vixen"
+  - username: "g_nikaa"
     fullname: >-
-      lorena ☽ petite style
+      Nika 🩵
     bio: >-
-      petite girl • fashion • makeup • skincare • manchmal bin ich auch lustig salzburg | klagenfurt 🇦🇹 💌 lorena@followaustria.management #petitefashion
+      -ZFA 🦷 - Makeup Artist✨@makeup_by_nikaa
     location: "Germany"
-    followers: 78511
-    engagement: 344
-    commentsToLikes: 0.032855
-    id: ck0vwd4brt5og0i198cha8hmj
+    followers: 12835
+    engagement: 1022
+    commentsToLikes: 0.021112
+    id: ck8t8ps8plawt0j78clb6syes
     verified: false
-    hashtags: "#petitegirl, #petitefashion, #mallorca, #vacation"
-  - username: "themuamara"
+    hashtags: "#insta, #photography, #instalike, #ootdgermany"
+  - username: "julia_eff"
     fullname: >-
-      m a r a
+      𝓙𝓾𝓵𝓲𝓪 ♡
     bio: >-
-      💄selftaught makeupartist 📍Niedersachsen, Germany 💌 muamaraig@gmail.com
+      📍Germany/NRW 😻 CatMum 💄 MakeupLover 💌 PR Friendly 👉🏻 Reviews, Swatches & EyeLooks 🎨 #juliaxeff
     location: "Germany"
-    followers: 3704
-    engagement: 1731
-    commentsToLikes: 0.153773
-    id: ck6tidk2h0iix0j71m2wxb2nu
+    followers: 4339
+    engagement: 439
+    commentsToLikes: 0.037910
+    id: ckap6ia5gfye10i78blw1ly52
     verified: false
-    hashtags: "#brows, #nakeddrama, #hudabeauty, #muasupport"
-  - username: "juliastiglbauer"
+    hashtags: "#bblogger, #makeup, #natashadenonabeauty, #charlottetilbury"
+  - username: "vicky_pink13"
     fullname: >-
-      JULI ☾
+      Vicky Gehrig
     bio: >-
-      MAKEUP - LOVER @beqaj_arbnor ♥️ 21 y/o 🥀 | business psychology
+      Makeup Artistin💄 Täglich neue Looks👸🏼 Schönheit liegt im Auge des Betrachters 💞 PR/AD Vicky@starkesmanagement.de 👩🏼‍💻
     location: "Germany"
-    followers: 11036
-    engagement: 1405
-    commentsToLikes: 0.097591
-    id: ck9wen8yul0ry0j7893y2oyss
+    followers: 24578
+    engagement: 426
+    commentsToLikes: 0.067499
+    id: clilkx8y4cvtw0j08i930nbyj
     verified: false
-    hashtags: "#hair, #denisebobepreset, #denisebobe, #mirror"
-  - username: "marisol_prada"
+    hashtags: "#makeuptransition, #makeupartist, #makeup, #halloween"
+  - username: "lisa.scharff"
     fullname: >-
-      Marisol Prada
+      Lisa Scharff | Mindful Beauty Coach | Organic Makeup Artist
     bio: >-
-      •• sustainable hair & makeup artist •• based in germany •• second base mexico •• BOOKING / COLLABORATION INFO management@marisolprada.de
+      🤍Ganzheitliche Beauty Coachings 🌱Online und Live im Studio 🌱Naturkosmetik & Healthy Skin, MakeUp 🤍innere Schönheit- Beauty Inside Out 🤍Mehr Infos:
     location: "Germany"
-    followers: 42571
-    engagement: 305
-    commentsToLikes: 0.036954
-    id: ck6udsgj9mvsn0j71f6uttao8
+    followers: 16875
+    engagement: 382
+    commentsToLikes: 0.144322
+    id: cln3gjudufgbk0j084c1qmwtt
     verified: false
-    hashtags: "#hope, #fairdenim, #fairfitsbetter, #denimlovers"
-  - username: "noa.sofia"
+    hashtags: "#naturkosmetik, #beautycoaching, #happyplace, #diezeitfliegt"
+  - username: "amandalunamaria"
     fullname: >-
-      𝐍𝐎𝐀 𝐒𝐎𝐅𝐈𝐀 𝐁𝐎𝐄𝐇𝐌𝐄𝐑
+      amanda
     bio: >-
-      Curvy Model 🦋 Germany @modelwerk (maximilian@modelwerk.de) @statemgmt @vdmmodels @francinamodels @motmodels MUA: @noa_makeup_art
+      ♡ fashion, lifestyle & makeup! ✰ munich 📧 contactamandaluna@gmail.com
     location: "Germany"
-    followers: 20644
-    engagement: 274
-    commentsToLikes: 0.059854
-    id: ck6tpd4j9j6ig0j71335gfe1a
+    followers: 61982
+    engagement: 308
+    commentsToLikes: 0.031846
+    id: cl9k31ggziq890i230h5dikna
     verified: false
-    hashtags: "#fun, #shooting, #wabde, #girls"
-  - username: "makeup.bypat"
+    hashtags: "#mycalvins, #adidassamba, #zalandostyle, #topvintage"
+  - username: "alexandraclare"
     fullname: >-
-      P A T R I C I A
+      Alexandra Clare Price
     bio: >-
-      👩🏼 Pat , 29 💍 💄Makeup-Artist & -Coach 📍Frankfurt a.M., Germany
+      makeup | vitiligo | music tiktok @lxndrclr info@alexandraclare.co.uk
     location: "Germany"
-    followers: 7020
-    engagement: 647
-    commentsToLikes: 0.161553
-    id: ck55kimokzdw20i119yqxl2fb
+    followers: 154582
+    engagement: 921
+    commentsToLikes: 0.016911
+    id: ck0tx8wysiaei0i19jzcibv1w
     verified: false
-    hashtags: "#vielglu, #makeupgiveaway, #verlosungen, #giveaway"
-  - username: "oliviaxpauline"
+    hashtags: "#vievemuse, #milkmakeup, #lillylashes, #meltdarkmatter"
+  - username: "angelique.st88"
     fullname: >-
-      OLIVIA PAULINE FILUELLA A.
+      Angelique Strauß - Hamburg
     bio: >-
-      🐆 . MAKEUP CONTENT @ssoulface dancer | model | creative mind | soft soul PA & casting MAIL: olarkhurst@web.de YOUTUBE 🎥 👇🏽 || #dancer #hamburg
+      Beauty I Makeup I Momlife Mom of 💙Ahcim💙Ilay💜Khaleesi 💄Make-Up Artist Anfragen: Angelique@dc-mgmt.de Impressum: @dc_mgmt_impressum
     location: "Germany"
-    followers: 2403
-    engagement: 2084
-    commentsToLikes: 0.126107
-    id: ck6tvr2rlnsfk0j71zrsocy2p
+    followers: 123811
+    engagement: 288
+    commentsToLikes: 0.020054
+    id: clo9dhc7186i30j08edb6hp3d
     verified: false
-    hashtags: "#makeup, #braids, #dawndenim, #loveyourself"
-  - username: "nikolinapavic13"
+    hashtags: "#bigdeals2023, #eis, #bortsch, #amazonprimedays"
+  - username: "silanmakeup"
     fullname: >-
-      Nikolina Pavić💄
+      Silan Hüseyinoglu
     bio: >-
-      💄 Certified makeup artist 😍 Certified for LASH&BROW LIFT 💙🖇M
+      tiktok: silanmakeup (1,9M) youtube: Silan Makeup (300k) ✉️ | silan@gl-management.net Impressum👇🏼
     location: "Germany"
-    followers: 6810
-    engagement: 914
-    commentsToLikes: 0.025028
-    id: ck9hc8ejek86z0j782tk9nwqt
+    followers: 196086
+    engagement: 252
+    commentsToLikes: 0.011201
+    id: ck15pjzjxy9ak0i19iplhzow3
     verified: false
-    hashtags: "#makeupbyme, #lovemakeup, #anastasiabeverlyhills, #makeup"
+    hashtags: "#makeuptrend, #romania, #makeuptransition, #makeuptransformation"
 ---

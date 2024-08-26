@@ -1,36 +1,12 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Japan In 2023
+title: Top 10 Barbers Instagram Influencers In Japan In 2024
 description: >-
-  Find top barbers Instagram influencers in Japan in 2023. Most popular hashtags: #barber #menshair #barbershop #mensfashion.
+  Find top barbers Instagram influencers in Japan in 2024. Most popular hashtags: #barber #mensfashion #barbershop #japan.
 platform: Instagram
-hits: 15
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 15 Instagram influencers like this in Japan for you to pitch.
+hits: 14
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 14 Instagram influencers like this in Japan for you to contact.
 profiles:
-  - username: "metanastis_panagiotis"
-    fullname: >-
-      💈♠️𝕿𝖍𝖊 𝕹𝖔𝖙𝖔𝖗𝖎𝖔𝖚𝖘 𝕾𝖈𝖚𝖒𝖇𝖆𝖌♠️💈
-    bio: >-
-      📍Owner @the_rabbit_hole_barber_shop 📍Modern barber
-    location: "Japan"
-    followers: 13556
-    engagement: 691
-    commentsToLikes: 0.025897
-    id: ck9hbhmwygvd10j78k60glzpe
-    verified: false
-    hashtags: "#follow, #art, #mensfashion, #hairdressing"
-  - username: "tufavoritobarber"
-    fullname: >-
-      By: ABEL - Tuty 🇩🇴
-    bio: >-
-      𝐈 𝐥𝐨𝐯𝐞 𝐣𝐞𝐬𝐮𝐬 💎"𝐍𝐮𝐞𝐬𝐭𝐫𝐚 𝐮́𝐧𝐢𝐜𝐚 𝐲 𝐯𝐞𝐫𝐝𝐚𝐝𝐞𝐫𝐚 𝐩𝐫𝐨𝐦𝐨𝐜𝐢𝐨́𝐧 𝐞𝐬 𝐞𝐥 𝐛𝐮𝐞𝐧 𝐭𝐫𝐚𝐛𝐚𝐣𝐨"💈✂️❤️"𝐄𝐥 𝐁𝐚𝐫𝐛𝐞𝐫𝐨 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐨 𝐝𝐞 𝐭𝐮 𝐛𝐚𝐫𝐛𝐞𝐫𝐨 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐨" 🦍🙏🏻𝟖𝟐𝟗𝟔𝟓𝟐𝟖𝟐𝟗𝟗" 🦍 @lyanjdad
-    location: "Japan"
-    followers: 36242
-    engagement: 202
-    commentsToLikes: 0.063682
-    id: ck0w4qaiszv7x0i19hx38nfq5
-    verified: false
-    hashtags: "#labebe, #barberlove, #barberrespect, #barberporn"
   - username: "mrpotatohead59"
     fullname: >-
       Tomoya Nishimori
@@ -67,6 +43,18 @@ profiles:
     id: ck0w56lyn259z0i19dv4fkjjq
     verified: false
     hashtags: "#menshair, #shave, #vintage, #grooming"
+  - username: "johnpetrucciofficial"
+    fullname: >-
+      John Petrucci
+    bio: >-
+      Guitarist, producer, songwriter/lyricist and founding member of the Grammy Award winning band Dream Theater. All things JP here 👇
+    location: "Japan"
+    followers: 790467
+    engagement: 259
+    commentsToLikes: 0.009694
+    id: ck0tx7xtpi5tx0i196o9vqh67
+    verified: true
+    hashtags: "#jpgu, #dreamtheater, #johnpetrucci, #laborday"
   - username: "tomo.american"
     fullname: >-
       トモユキ
@@ -127,4 +115,16 @@ profiles:
     id: ck136ifvw6n1a0i1903b204js
     verified: true
     hashtags: "#summer, #rugbylife, #uasportsmask, #friends"
+  - username: "eijikatano"
+    fullname: >-
+      aniki(eiji katano)
+    bio: >-
+      片野英児(かたの えいじ) アニ散歩、赤星探偵団 を企画執筆出演中。YouTube「アニチューブ」企画運営。イベント出演、商品プロデュース、コラボ企画、コンテンツ企画出演等、個人お仕事のご依頼は下記まで。 eiji19681125@gmail.com #アニ散歩 #赤星探偵団 #アニチューブ
+    location: "Japan"
+    followers: 32581
+    engagement: 471
+    commentsToLikes: 0.005361
+    id: ck8t7y6gxie3j0j78n2grr5oq
+    verified: false
+    hashtags: "#kiiani, #rayban, #stayhome, #jollygoodclothing"
 ---

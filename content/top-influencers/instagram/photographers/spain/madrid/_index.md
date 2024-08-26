@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Madrid In 2023
+title: Top 10 Photographers Instagram Influencers In Madrid In 2024
 description: >-
-  Find top photographers Instagram influencers in Madrid in 2023. Most popular hashtags: #photography #madrid #photographer #photo.
+  Find top photographers Instagram influencers in Madrid in 2024. Most popular hashtags: #model #madrid #photographer.
 platform: Instagram
-hits: 128
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 128 Instagram influencers like this in Madrid, Spain for you to pitch.
+hits: 134
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 134 Instagram influencers like this in Madrid, Spain for you to connect with.
 profiles:
   - username: "patriciasemirphotography"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       👉🏻 Photographer Madrid y Barcelona. ᴱᴺᴬᴹᴼᴿᴬᴰᴬ ᴰᴱ ᴹᴵ ᵀᴿᴬᴮᴬᴶᴼ www.patriciasemir.es 630964800
     location: "Spain"
-    followers: 22791
-    engagement: 133
-    commentsToLikes: 0.043188
+    followers: 23007
+    engagement: 117
+    commentsToLikes: 0.037070
     id: ckaoqthw8kba70i78i2hr7yc0
     verified: false
-    hashtags: "#verano, #labube, #fotosencasa, #lamparasdetecho"
+    hashtags: "#coolroomsatocha, #menorca, #shootingday, #verano2021"
   - username: "dannielrojas"
     fullname: >-
       DANNIEL ROJAS
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.067964
     id: ckaor7lmsm27r0i78bik7nouz
     verified: false
-    hashtags: "#photoassistant, #stylistassistant, #campaign, #gosee"
+    hashtags: "#photo, #profoto, #digitaledition, #photoshoot"
   - username: "cesarvaldesphoto"
     fullname: >-
       César Valdés
@@ -55,18 +55,6 @@ profiles:
     id: ck6uhkf5t9mt20j71n6lfkdyk
     verified: false
     hashtags: "#woman, #madrid, #photo, #photography"
-  - username: "ana.torres___"
-    fullname: >-
-      🍒Ana Torres 🍒
-    bio: >-
-      MADRID-BCN📍 Futura mamá 🤰 @robertopinilla_madrid 💍 ❤️🔐 Colaboraciones 📩 Inbox
-    location: "Spain"
-    followers: 28551
-    engagement: 361
-    commentsToLikes: 0.081590
-    id: ck8tdk9mb3nip0j78mn9b9l8b
-    verified: false
-    hashtags: "#photography, #inkedgirls, #lifestyle, #fotografia"
   - username: "anabeljsantana"
     fullname: >-
       Anabel Santana
@@ -79,18 +67,18 @@ profiles:
     id: ck8sx1otjfwyd0j78itx96knh
     verified: false
     hashtags: "#glamour, #makeupartist, #redheadbeauty, #redhead"
-  - username: "jie_in_spain"
+  - username: "dipalmapietro"
     fullname: >-
-      Jie Wang
+      PIETRO DIPALMA
     bio: >-
-      Asesora de Marcas | Brand Advisor Promoción y asesoramiento a Marcas Premium, Gastronomía, Hoteles, Arte y Destinos dirigido al mercado asiático.
+      🇮🇹 El Tano 🇦🇷 Actor dando vuelta por el mundo. 📩 pietro.dipalma99@gmail.com
     location: "Spain"
-    followers: 28130
-    engagement: 214
-    commentsToLikes: 0.024802
-    id: ck5c3tz1402030i11g0r76agh
+    followers: 5457
+    engagement: 563
+    commentsToLikes: 0.066605
+    id: ck14h6vss8u8o0i19bcjo3puo
     verified: false
-    hashtags: "#photography, #ticino, #style, #restaurante"
+    hashtags: "#travelphotography, #espa, #model, #spaintravel"
   - username: "sergio.loshak.photography"
     fullname: >-
       Sergio Loshak
@@ -102,7 +90,7 @@ profiles:
     commentsToLikes: 0.058502
     id: ck6u51i6271ai0j714r0704cu
     verified: false
-    hashtags: "#marbellaclub, #porsheboxter, #marbellarestaurants, #sunset"
+    hashtags: "#puertobanus, #sunset, #bikinigirl, #porsche"
   - username: "chiki335_owl_photo"
     fullname: >-
       Owl Photo
@@ -125,6 +113,18 @@ profiles:
     engagement: 506
     commentsToLikes: 0.040139
     id: ck5q9lihgbpo00i11wpqcvuk1
+    verified: false
+    hashtags: ""
+  - username: "adriosphoto"
+    fullname: >-
+      Adrian Rios
+    bio: >-
+      Photographer based in Madrid.
+    location: "Spain"
+    followers: 3951
+    engagement: 1024
+    commentsToLikes: 0.054389
+    id: ck139cyzkkp430i19wv0ms7i8
     verified: false
     hashtags: ""
 ---

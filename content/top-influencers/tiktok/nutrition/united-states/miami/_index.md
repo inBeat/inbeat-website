@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In Miami In 2023
+title: Top 10 Nutrition TikTok Influencers In Miami In 2024
 description: >-
-  Find top nutrition TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #miami #foryou #health.
+  Find top nutrition TikTok influencers in Miami in 2024. Most popular hashtags: #fyp #foryou #miami #health.
 platform: TikTok
 hits: 7
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 7 TikTok influencers like this in Miami, United States for you to work with.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our database has 7 TikTok influencers like this in Miami, United States for you to contact.
 profiles:
   - username: "jpark_fit"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.061208
     id: ckbqfrpfi1ed40j23wzp0fu72
     verified: false
-    hashtags: "#getfit, #healthyliving, #staywoke, #wellnesstips"
+    hashtags: "#getfit, #healthyliving, #nutrition, #wellnesstips"
   - username: "jonbezrouch"
     fullname: >-
       JonBezrouch
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.051868
     id: ckbfj8sqafg5j0j23q057jchq
     verified: false
-    hashtags: "#foryou, #garden, #lit, #fy"
+    hashtags: "#vegan, #tiktokpartner, #fyp, #wellness"
   - username: "the.muscle"
     fullname: >-
       The Muscle 

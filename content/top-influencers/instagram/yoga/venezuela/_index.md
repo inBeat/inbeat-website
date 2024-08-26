@@ -1,24 +1,24 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Venezuela In 2023
+title: Top 10 Yoga Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top yoga Instagram influencers in Venezuela in 2023. Most popular hashtags: #yoga #love #lifestyle #venezuela.
+  Find top yoga Instagram influencers in Venezuela in 2024. Most popular hashtags: #yoga #venezuela #love #lifestyle.
 platform: Instagram
-hits: 12
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 12 Instagram influencers like this in Venezuela for you to pitch.
+hits: 9
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 9 Instagram influencers like this in Venezuela for you to pitch.
 profiles:
-  - username: "adrisilvac"
+  - username: "andreaminski"
     fullname: >-
-      ADRIANA SILVA
+      Andrea Minski
     bio: >-
-      Actriz 🇨🇴🎭 Amante del Yoga🕉️ Con alma sin límites y Dios en mi💖 Twitter:adrisilvaactriz FB:Adriana Silva Actriz
+      Happinista. TV host. Latina ⭐️ Media x social good 🎥🎤👦🏻👶🏼 🐶Mom . Yoga 🧘 teacher. Alma feliz. Content creator @guidemiami @mujerbalance 🌴MIAMI
     location: "Venezuela"
-    followers: 136795
-    engagement: 93
-    commentsToLikes: 0.030422
-    id: ck6tvbw7tlchz0j71eoccuwmz
+    followers: 177049
+    engagement: 36
+    commentsToLikes: 0.060014
+    id: ck6u99wyzwbh80j71sx1l7jc3
     verified: true
-    hashtags: "#alnatital, #homemade, #love, #vidademisvidas"
+    hashtags: "#instatravel, #travelgram, #wellnessjourney, #italia"
   - username: "andreina_p"
     fullname: >-
       Andreina Peñaloza
@@ -31,18 +31,6 @@ profiles:
     id: ck6tpq0culo5y0j715s3gny0z
     verified: false
     hashtags: "#kitesurf, #sorteobarcelona, #ocean, #un"
-  - username: "bio.lunatic"
-    fullname: >-
-      𝘎𝘌𝘕𝘌𝘚𝘐𝘚 𝘗𝘜𝘎𝘓𝘐𝘌𝘚𝘌
-    bio: >-
-      - from Venezuela, currently Barcelona 📩: gen.pugliesep@gmail.com Ambassador: @vitaminwellesp #adidasrunnersbarcelona 👇🏻 Healthy recipes on YouTube
-    location: "Venezuela"
-    followers: 17976
-    engagement: 616
-    commentsToLikes: 0.162496
-    id: ck0tvwbrnd2mu0i19v8w7tipq
-    verified: false
-    hashtags: "#shufflestyles, #vitaminwell, #deportista, #adidasrunnersbarcelona"
   - username: "karlafvs"
     fullname: >-
       Karla Vieira
@@ -79,18 +67,6 @@ profiles:
     id: ckaozvqymnmcd0i78zlmk3zsu
     verified: false
     hashtags: "#house, #instagood, #women, #fotografia"
-  - username: "cricrivoz"
-    fullname: >-
-      Cris Hernandez
-    bio: >-
-      🌟#Actriz #locutora #voiceover 🌟#dubbingvoices #dubbing ✨Amante de la vida✨. ⚡️soy voz de Sakura Kinomoto, Anne Hathaway, Alegría... etc
-    location: "Venezuela"
-    followers: 31593
-    engagement: 702
-    commentsToLikes: 0.031835
-    id: ck13csrxb1z680i196mqnz5kp
-    verified: false
-    hashtags: "#actricesdedoblaje, #maquillaje, #actrizdedoblaje, #voiceacting"
   - username: "caraqueandoando"
     fullname: >-
       Morella Atencio - gastronomia
@@ -115,16 +91,28 @@ profiles:
     id: ck5hoigtzpmgv0i11g38xaftf
     verified: true
     hashtags: "#ccs, #quedateencasa, #cuarentena, #venezuela"
-  - username: "andreaminski"
+  - username: "doctorheal7"
     fullname: >-
-      Andrea Minski
+      Dr. Alberto M Wulff.🇻🇪
     bio: >-
-      Happy soul/ Mom/TV host 🎬 Proud latina ⭐️ Social media for social good. 🎥🎤👦🏻👶🏼 looking for BALANCE . @guidemiami @mbalancestore @mujerbalance 🌴Miami.
+      ▪️Consulta médica integrativa⁣⁣⁣⁣⁣⁣⁣ ▪️Buscamos la raíz de tus problemas de salud⁣⁣⁣ para que vivas saludable y con bienestar⁣⁣⁣⁣ 👇Solicita consulta
     location: "Venezuela"
-    followers: 49315
-    engagement: 101
-    commentsToLikes: 0.126714
-    id: ck6u99wyzwbh80j71sx1l7jc3
-    verified: true
-    hashtags: "#activelifestyle, #mujerbalance, #miami, #fitmom"
+    followers: 114186
+    engagement: 115
+    commentsToLikes: 0.095524
+    id: ck6u5vwkmc22l0j71vd4g89y4
+    verified: false
+    hashtags: "#sueroterapia, #prevenciondeenfermedades, #medicinaintegrativa, #saludable"
+  - username: "andreinasocorro"
+    fullname: >-
+      Andreina Socorro Bernardoni
+    bio: >-
+      Mamá, periodista,locutora y coach , mi sueño : #quetodosseamosUNO . Mi misión: @fundacioninnocens
+    location: "Venezuela"
+    followers: 89503
+    engagement: 96
+    commentsToLikes: 0.075527
+    id: ck5hggjx12ng10i117ljvz0fe
+    verified: false
+    hashtags: "#tryitoutfit, #quetodosseamosuno, #palabreando, #mam"
 ---

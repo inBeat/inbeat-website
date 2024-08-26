@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Switzerland In 2023
+title: Top 10 Beauty Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top beauty Instagram influencers in Switzerland in 2023. Most popular hashtags: #giveaway #blogger #fashion.
+  Find top beauty Instagram influencers in Switzerland in 2024. Most popular hashtags: #makeup #switzerland #ad.
 platform: Instagram
-hits: 254
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 254 Instagram influencers like this in Switzerland for you to contact.
+hits: 361
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 361 Instagram influencers like this in Switzerland for you to connect with.
 profiles:
-  - username: "stefanytalita"
+  - username: "m.kralj"
     fullname: >-
-      Stefany Talita Visa
+      Mariela Kraljevic
     bio: >-
-      Dental Co-Assistant & Beauty Content Creator 🦷🧚🏻‍♀️ CP Manager : Uli - WA 0877-0877-9395
+      Zurich, Switzerland | Zagreb, Croatia fashion | beauty | lifestyle 🇩🇪: mariela@rachel-mgmt.com 🇨🇭: info@rf-management.ch
     location: "Switzerland"
-    followers: 317522
-    engagement: 181
-    commentsToLikes: 0.011108
-    id: ck6twwa2yugov0j71gs4l8yfc
-    verified: true
-    hashtags: "#unboxingchanel, #transformasiinstantanpabatas, #fusiodose, #kerastaseid"
-  - username: "bisous_marie"
-    fullname: >-
-      𝐌𝐀𝐑𝐈𝐄   ♎︎
-    bio: >-
-      FASHION • BEAUTY • LIFESTYLE 𖡡 ordinary swiss girl based in Germany🕊 ☁️ get 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐝 using by #bisous_marie ✉️ bisous_marie@outlook.de
-    location: "Switzerland"
-    followers: 33880
-    engagement: 740
-    commentsToLikes: 0.094556
-    id: ck9hc3nu4jmbx0j788toj5q3w
+    followers: 44241
+    engagement: 303
+    commentsToLikes: 0.021095
+    id: ckf5qc0w08uzz0j23feejvb2y
     verified: false
-    hashtags: "#liketimegermany, #basel, #saturday, #blogger"
-  - username: "friedahodel"
+    hashtags: "#awakenyourbest, #elseve, #entdeckecetaphil, #anzeige"
+  - username: "mimozarudaj"
     fullname: >-
-      F R I E D A   H O D E L
+      Mimoza
     bio: >-
-      • Beauty, Body & Shape Expert: 👉🏼@fh.health.and.lifestyle👈🏼 • First🇨🇭Bachelorette 2015🌹 • Mama & Content Creator • ❤️ @fabiozerzuben
+      𝓜 ♾️ my life in little boxes 💋 🇨🇭Fashion|Beauty|Lifestyle ✉️Contact: rudaj_mimoza@hotmail.com
     location: "Switzerland"
-    followers: 37313
-    engagement: 587
-    commentsToLikes: 0.024418
-    id: ckap0qb07rejq0i78ud5qp3yk
-    verified: true
-    hashtags: "#switzerland, #happiness, #travel, #vacation"
-  - username: "massixda"
-    fullname: >-
-      Massimo
-    bio: >-
-      Fashion I Lifestyle I Travel I Beauty I Health 📍Located Zürich 🇨🇭
-    location: "Switzerland"
-    followers: 34356
-    engagement: 350
-    commentsToLikes: 0.075341
-    id: ck6u3kk6tybjm0j71mr7mpp06
+    followers: 13405
+    engagement: 282
+    commentsToLikes: 0.119859
+    id: clo0mhj68aaji0j08p719y2ee
     verified: false
-    hashtags: ""
+    hashtags: "#greece, #vacay, #ad, #mykonos"
   - username: "patricia.cori.na"
     fullname: >-
-      𝙿𝚊𝚝𝚛𝚒𝚌𝚒𝚊 𝙲𝚘𝚛𝚒𝚗𝚊
+      Patricia Corina
     bio: >-
-      BEAUTY | CREATIVITY | FASHION Swiss Blogger - Content Creator 🇨🇭 Professional Makeup Artist Founder @daisysaccessoires Blog since 2012↓
+      BEAUTY | CREATIVITY | FASHION Swiss Content Creator 🇨🇭 Professional Makeup Artist Contact ✉️ anfragen@patriciacorina.ch
     location: "Switzerland"
-    followers: 23172
-    engagement: 413
-    commentsToLikes: 0.133008
+    followers: 25453
+    engagement: 268
+    commentsToLikes: 0.008968
     id: ck5znr6vtp0550i14nyiskvyh
     verified: false
-    hashtags: "#beautycreations, #muasofinstagram, #win, #verlosung"
-  - username: "thechicadvocate"
+    hashtags: "#glamyou, #anzeige, #brunch, #glamfam"
+  - username: "elif_gedik"
     fullname: >-
-      Priscilla 🖤 INSPO • FASHION
+      ELIF GEDIK
     bio: >-
-      TRAVEL & BEAUTY LOVER 🌎 Boss Babe✨ Lawyer⚖️ Free mind🌞 🤍 @the.swiss.gentleman based 📍Lucerne 🇨🇭 ⬇️ Blog ⬇️
+      My Journey on 🌎 TRAVEL | ART | BEAUTY Take me to the beach @dalga.swim
     location: "Switzerland"
-    followers: 30733
-    engagement: 277
-    commentsToLikes: 0.223753
-    id: ck55oajp27yxh0i11xgvnl6ut
+    followers: 24534
+    engagement: 246
+    commentsToLikes: 0.018356
+    id: cll83935r89g50j0814frmsua
     verified: false
-    hashtags: "#pixi, #tallygang, #valentinesday, #maccosmetics"
-  - username: "carina.raquel_"
+    hashtags: "#howtorebuildcivilization, #ad, #zermatt, #hungrymindsbooks"
+  - username: "corestilo.ch"
     fullname: >-
-      Carina Raquel
+      Gabriela J. A. Birchler Rissmann
     bio: >-
-      🤎Fashion-beauty & travel lover 👼🏽Girl mama ✌🏽Be positive! Be cool! Be yourself! 📍Based in Switzerland
+      CorEstilo Style 🇨🇭Zürich Blogger: Fashion | Travel | Beauty & Lifestyle Creative Visual Content & Social Media Management
     location: "Switzerland"
-    followers: 8569
-    engagement: 639
-    commentsToLikes: 0.226045
-    id: ckf5vrwhzppp20j23k0eaxt69
+    followers: 7555
+    engagement: 224
+    commentsToLikes: 0.019485
+    id: cll8393cf89le0j08olvywdik
     verified: false
-    hashtags: "#swissfashionblog, #concourssuisse, #igerssuisse, #noel2020"
-  - username: "dilekpacacioglu"
+    hashtags: "#switzerland, #stylepost, #voguemagazine, #dailyoutfitideas"
+  - username: "shantyvidalofficial"
     fullname: >-
-      D I L E K  P A C A C I O G L U
+      Shanty Vidal
     bio: >-
-      Beauty l Fashion l Lifestyle l Travel _______________________________ 📍Zurich 🔻My latest YouTube video
+      FASHION | BEAUTY | LIFESTYLE 💎🧿 💌:shantybeauty@hotmail.com
     location: "Switzerland"
-    followers: 351446
-    engagement: 699
-    commentsToLikes: 0.008866
-    id: ck9hak5yhcu5o0j78dnegpc1i
+    followers: 59930
+    engagement: 173
+    commentsToLikes: 0.011991
+    id: cll8394pd8awr0j0834fs12gs
     verified: false
-    hashtags: "#helpturkey, #havadanm, #ootd, #palmademallorca"
-  - username: "lisaholdshteyn"
+    hashtags: "#blackopium, #fragrance, #genesiseurope, #makeup"
+  - username: "felixfischerhair"
     fullname: >-
-      Lisa
+      Felix Fischer
     bio: >-
-      Fashion Beauty & Coffee lover Switzerland 🇨🇭 lisa@soeuretteproductions.com
+      BEAUTY IS MY LIFE TÖDISTRASSE 16. ZUERICH felix@felixfischerhair.com +41 76 387 38 31 ZUERICH +1 646 246 3113 NEW YORK
     location: "Switzerland"
-    followers: 65265
-    engagement: 264
-    commentsToLikes: 0.020290
-    id: ck5hmtl4cmlle0i11ogtkwbkp
-    verified: false
-    hashtags: "#fashionreel, #wearthisnext, #bestlook, #discoverunder100k"
-  - username: "amorrealbeauty"
+    followers: 227657
+    engagement: 146
+    commentsToLikes: 0.001002
+    id: ck15r37kd5wz90i19bul49wvp
+    verified: true
+    hashtags: ""
+  - username: "shubhangi_anand__"
     fullname: >-
-      Melanie ✨
+      SHUBHANGI ANAND 🧿👑
     bio: >-
-      💄Makeup & Beauty Content 🌴German with peruvian roots 📍 Switzerland 💌 amorrealbeauty@hotmail.com or DM
+      💁🏻‍♀️Makeup | Beauty ✨#20 on Forbes - India’s Top 100 Digital Stars 🦋 1M on Yt✨ 🍯Managed by @honeycombtalent 📮shubhangi.anand@honeycombmedia.in
     location: "Switzerland"
-    followers: 4470
-    engagement: 797
-    commentsToLikes: 0.355898
-    id: ck5hfog4lyhj10i11067kqkhc
+    followers: 305263
+    engagement: 143
+    commentsToLikes: 0.012296
+    id: ckxp82g3ladn90j23kvyg61yy
     verified: false
-    hashtags: "#blazin, #nudelip, #ofrahighlighter, #blueglitter"
+    hashtags: "#switzerland, #heeramandi, #hairstyle, #fentybeauty"
+  - username: "ohheyvivi"
+    fullname: >-
+      VIVI | FASHION | BEAUTY | FUN
+    bio: >-
+      fashion • beauty •fun • twinmum • wifey • boss 📩: viviburkhardt@gmail.com 📍🇨🇭
+    location: "Switzerland"
+    followers: 14519
+    engagement: 128
+    commentsToLikes: 0.156106
+    id: ck5hppjbcrrbo0i11avgftyjb
+    verified: false
+    hashtags: "#jeansoutfit, #typedesign, #schweiz, #instadaily"
+  - username: "the_zlist"
+    fullname: >-
+      Zahara Khan | Miami Blogger
+    bio: >-
+      Fashion | Beauty | Skincare Sharing my culture 🇮🇳 Contact: infothezlist@gmail.com
+    location: "Switzerland"
+    followers: 92714
+    engagement: 122
+    commentsToLikes: 0.037262
+    id: ck0ucc11mgjll0i193xtclc0j
+    verified: false
+    hashtags: "#hotrollers, #nordstrombeauty, #target, #targetpartneryes"
 ---

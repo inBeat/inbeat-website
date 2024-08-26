@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Poland In 2023
+title: Top 10 Fitness TikTok Influencers In Poland In 2024
 description: >-
-  Find top fitness TikTok influencers in Poland in 2023. Most popular hashtags: #dc #fitness #foryou #dlaciebie.
+  Find top fitness TikTok influencers in Poland in 2024. Most popular hashtags: #dc #fitness #foryou #fyp.
 platform: TikTok
 hits: 27
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 27 TikTok influencers like this in Poland for you to connect with.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 27 TikTok influencers like this in Poland for you to connect with.
 profiles:
   - username: "strongpoint.pl"
     fullname: >-

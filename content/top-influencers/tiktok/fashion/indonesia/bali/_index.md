@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Bali In 2023
+title: Top 10 Fashion TikTok Influencers In Bali In 2024
 description: >-
-  Find top fashion TikTok influencers in Bali in 2023. Most popular hashtags: #fyp #bali #foryou #tiktoktravel.
+  Find top fashion TikTok influencers in Bali in 2024. Most popular hashtags: #fyp #foryou #bali #tiktoktravel.
 platform: TikTok
 hits: 5
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 5 TikTok influencers like this in Bali, Indonesia for you to pitch.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 5 TikTok influencers like this in Bali, Indonesia for you to contact.
 profiles:
   - username: "stephaniesrikandi"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.020852
     id: ck9rgytjjd5fs0j78u4ifngrb
     verified: false
-    hashtags: "#nature, #travel, #wildones, #cute"
+    hashtags: "#bali, #indonesian, #indonesia, #viral"
   - username: "backpackertampan"
     fullname: >-
       tampan
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.011498
     id: ck8kjxev8wpgy0j78iidyn8n7
     verified: true
-    hashtags: "#fethiye, #indonesia, #fyp, #turkiye"
+    hashtags: "#travel, #maldives, #bali, #balisquad"
   - username: "choiibad1"
     fullname: >-
       Choi Ibad
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.016690
     id: ckcusnenvk6ut0j23kg9zt8dp
     verified: true
-    hashtags: "#fashion, #fashiontransition, #outfitinspiration, #ventelashoes"
+    hashtags: "#ventelashoes, #outfitinspiration, #fashion, #fashiontransition"
   - username: "jejakbayuubay69"
     fullname: >-
       Jejakbayuubay 

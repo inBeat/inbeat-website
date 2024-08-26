@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Austria in 2023
+title: Top 10 Nutrition Instagram Influencers In Austria In 2024
 description: >-
-  Find top nutrition Instagram influencers in Austria in 2023. Most popular hashtags: #instagood #vienna #austria #fitnessmotivation.
+  Find top nutrition Instagram influencers in Austria in 2024. Most popular hashtags: #fitness #nutrition #austria #vegan.
 platform: Instagram
-hits: 15
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 15 Instagram influencers like this in Austria for you to pitch.
+hits: 16
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 16 Instagram influencers like this in Austria for you to connect with.
 profiles:
-  - username: "martin_migschitz"
+  - username: "thechocolatesuitcase"
     fullname: >-
-      MARTIN MIGSCHITZ ◈
+      Natacha 🐚 Yoga & Fitness Mom
     bio: >-
-      🌍 International Model - bookings worldwide 💯 Plantbased 🌱 🐒 Movement & Sportscience 📚🏋🏻‍♂️ 🔜 online coaching // fitness & nutrition
+      🇵🇹📍Vienna ⚡️new mom ⚡️Yoga & Pilates Instructor, Nutrition Coach ⚡️CrossFit Lover
     location: "Austria"
-    followers: 166035
-    engagement: 241
-    commentsToLikes: 0.013864
-    id: ck9hcm8v3m05o0j78tsaca9pq
+    followers: 14026
+    engagement: 194
+    commentsToLikes: 0.036244
+    id: clq9hxrul5xbd0k08ltjhouri
     verified: false
-    hashtags: ""
+    hashtags: "#newmom, #ssw40, #meineersteschwangerschaft, #crossfitmom"
+  - username: "avec.eva"
+    fullname: >-
+      Eva
+    bio: >-
+      sunshine energy ♐︎ here for fashion, well-being, self love & a happy mindset 🦋 based in vienna | 🎧 sweet but spicy @eat.avec.eva nutritionist to be
+    location: "Austria"
+    followers: 28467
+    engagement: 23
+    commentsToLikes: 0.000790
+    id: ckaoszev7tp040i78wgpa222d
+    verified: false
+    hashtags: "#week10, #bluejeanswhiteshirt, #scandiblonde, #cremeblonde"
+  - username: "laura_sommer"
+    fullname: >-
+      Laura Sommer
+    bio: >-
+      MOTORSPORT | CARS | FITNESS 🏎️ PS driven positive girl 👩🏼‍💻 Ad placements @motorsportmagazin ⛽️ @vast.sports „Laura10“ 🎓 BA M&S | Nutrition Coach
+    location: "Austria"
+    followers: 125547
+    engagement: 103
+    commentsToLikes: 0.027187
+    id: clr7d85o1wcrj0k08ot88opo1
+    verified: false
+    hashtags: "#mclarenvienna, #cargirl, #wearevast, #artura"
+  - username: "trackingmona"
+    fullname: >-
+      Mona
+    bio: >-
+      🏃🏻‍♀️ running girl who studies nutrition & sports ✨ @myu.studios 📍 Vienna | Aarhus ✉️ trackingmona@gmail.com
+    location: "Austria"
+    followers: 115518
+    engagement: 314
+    commentsToLikes: 0.004569
+    id: ck5budyuohlsx0i1120gqe0rd
+    verified: false
+    hashtags: "#vsun, #berlinmarathon, #runninglife, #vegannutrition"
+  - username: "addictedtopeas"
+    fullname: >-
+      ed recovery ✨vegan 🌿 kathy
+    bio: >-
+      nutrition student 👩🏻‍🎓 🌿 gaining my strength and happiness back with lots of good vegan food ✨a mix of mental health & good food😋 🇦🇹 vienna
+    location: "Austria"
+    followers: 3346
+    engagement: 881
+    commentsToLikes: 0.138983
+    id: ck9weyzqhmici0j784u0hwgqx
+    verified: false
+    hashtags: "#anorexiafighter, #eatingdisorderrecovery, #vegangermany, #veganstudent"
+  - username: "stefaniegoldmarie"
+    fullname: >-
+      Stefanie
+    bio: >-
+      Former food & lifestyle photographer 🔚 Not active anymore ❌ Only posting on @stefanieanich 🙋‍♀️
+    location: "Austria"
+    followers: 100466
+    engagement: 24
+    commentsToLikes: 0.027009
+    id: ck1392nmuj7ol0i19lby599s3
+    verified: false
+    hashtags: "#veganrecipes, #dinnerideas, #dessert, #rezeptideen"
+  - username: "frankortler"
+    fullname: >-
+      Frank
+    bio: >-
+      💙 Brooks Run Happy Team @brooksrunningde #brooksrunningde #runhappy 50 Years 👨/Austria 🇦🇹/❤Running 5km➡️42km/ 36 times Marathon 🏃‍♂️
+    location: "Austria"
+    followers: 10425
+    engagement: 688
+    commentsToLikes: 0.068982
+    id: ck13bgw8svc9b0i19h8cvjdjn
+    verified: false
+    hashtags: "#brooksfindyourrun, #runhappyteam, #instarun, #runnersofinstagram"
+  - username: "lukasmuelr"
+    fullname: >-
+      Lukas Müller
+    bio: >-
+      Lifestyle & Fitness unhealthy obsession with running @saltysportsclub
+    location: "Austria"
+    followers: 202277
+    engagement: 187
+    commentsToLikes: 0.019987
+    id: clpwuj1l7l9v20k08svrhx03p
+    verified: false
+    hashtags: "#health, #75hard, #fitness, #selfimprovement"
   - username: "hoffelnerfitness"
     fullname: >-
-      Nutrition | Coaching & Support
+      Markus Hoffelner
     bio: >-
-      Coaching ☞ @erfolgsernaehrung 🥗🏃🏽 Photograph ☞ @hoffelnerphotography 📸 TEAM ☞ @atombody @nocco.at @multipower.at Weihnachtsaktion ⤵️
+      ☞ @erfolgsernaehrung 🌱🧠 TEAM ☞ @atombody @loewenanteil ↘️ ERSTELLE DEINE COACHING-APP
     location: "Austria"
-    followers: 13606
-    engagement: 451
-    commentsToLikes: 0.173348
+    followers: 13450
+    engagement: 178
+    commentsToLikes: 0.051112
     id: ck6ttcy639x1s0j71qk9c5vj9
     verified: false
-    hashtags: "#success, #fitness, #befitmotivation, #fitnesslifestyle"
-  - username: "squatilia"
-    fullname: >-
-      Powerlifting | Kraftdreikampf
-    bio: >-
-      Eva. 🎥 YouTube: squatilia_ 🏡 Wiesbaden / Eifel
-    location: "Austria"
-    followers: 10976
-    engagement: 1623
-    commentsToLikes: 0.059045
-    id: ck6tkprtm56i50j71t2zi47do
-    verified: false
-    hashtags: "#weightlifting, #gymlife, #art, #kraftdreikampf"
+    hashtags: "#blueeyes, #sea, #love, #atombody"
   - username: "avramov.zoran"
     fullname: >-
       ZORAN AVRAMOVIC
     bio: >-
-      Vienna 🌏 #streetstyle #menfashion #fitness @smilodox -10% „Zoran10“ ❗️
+      
     location: "Austria"
-    followers: 169389
-    engagement: 295
-    commentsToLikes: 0.043495
+    followers: 149078
+    engagement: 128
+    commentsToLikes: 0.041965
     id: ck5bw3bemkwzn0i1166i6nno2
     verified: false
-    hashtags: "#menwithstyle, #mensstyle, #dapper, #outfitoftheday"
-  - username: "vanessaandreah"
-    fullname: >-
-      VANESSA ANDREA|
-    bio: >-
-      📍KLU| AT 🇦🇹 Only here for the memes Sometimes i do Yoga•Fluent in sarcasm ✉️ ‎info.vanessaandreah@gmail.com
-    location: "Austria"
-    followers: 89628
-    engagement: 80
-    commentsToLikes: 0.067410
-    id: ck0u8ycl98k940i19pe64b5m5
-    verified: false
-    hashtags: "#carinthia, #fitnessmotivation, #fitchoices, #yogaliebe"
-  - username: "evajohannaegg"
-    fullname: >-
-      Eva Egg
-    bio: >-
-      🇦🇹21/tirol🗻/Travel ✈️/Fitness addicted💪 📩eva.egg@hotmail.com
-    location: "Austria"
-    followers: 23330
-    engagement: 299
-    commentsToLikes: 0.063222
-    id: ck9wos7j26dzi0j7846hvv2xk
-    verified: false
-    hashtags: "#landscape, #austria, #photography, #travelgram"
-  - username: "danistrailcooking"
-    fullname: >-
-      Daniela/Austria
-    bio: >-
-      🌱Healthy Recipes & Inspiration 📘Recipe developer/food fotographer 📩work with me danistrailcooking@gmail.com
-    location: "Austria"
-    followers: 53302
-    engagement: 393
-    commentsToLikes: 0.086660
-    id: ck13bnpiewajm0i19tgnvsand
-    verified: false
-    hashtags: "#healthyfood, #bakinglove, #panckes, #healthydessert"
-  - username: "juliachavanne"
-    fullname: >-
-      FITNESS | MODEL | LIFESTYLE
-    bio: >-
-      𝟡𝟞‘🦋 •Vienna 🇦🇹 & Berlin 🇩🇪 • Diplom online marketing • BWL👩‍🎓 •400k TikTok juliachavanne 𝐹𝑜𝓁𝓁𝑜𝓌 𝓎𝑜𝓊𝓇 𝒹𝓇𝑒𝒶𝓂𝓈✨
-    location: "Austria"
-    followers: 196624
-    engagement: 270
-    commentsToLikes: 0.023945
-    id: ck5c8wqggacms0i11500ujazv
-    verified: false
-    hashtags: "#vienna, #quarantine, #dessous, #picture"
-  - username: "alex.uhlig_fitness"
-    fullname: >-
-      Alexander Uhlig
-    bio: >-
-      👨‍🏫 Personal Trainer 🏋️‍♂️ @atombody Athlete 👨‍💻 Atombody Shop, Sterngasse 11, 1230 🇦🇹 🚀 Limits exist only in your mind!
-    location: "Austria"
-    followers: 8562
-    engagement: 859
-    commentsToLikes: 0.169791
-    id: ck8t54kfn8qyg0j78fq6msev9
-    verified: false
-    hashtags: "#dedication, #absaremadeinthekitchen, #fitnessfreak, #naturalbodybuildingmotivation"
-  - username: "dejepisinak"
-    fullname: >-
-      Dejepis Inak
-    bio: >-
-      👩‍🏫 Sandra Sviteková @sandra_svitekova 🎬 28yo youtuber 🏫 teacher 🏛 philosophy⏳history ✒️contact: dejepisinak@gmail.com 💸patreon: dejepisinak
-    location: "Austria"
-    followers: 41991
-    engagement: 1081
-    commentsToLikes: 0.008353
-    id: ckap39c0f23gu0i786oj5s8y8
-    verified: false
-    hashtags: "#vedator, #dejepisinak, #bookstagram, #klimatapotrebuje"
+    hashtags: "#igersaustria, #mensstyle, #menwithstyle, #guyswithstyle"
 ---

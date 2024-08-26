@@ -1,11 +1,11 @@
 ---
-title: Top 10 Djs Instagram Influencers In Argentina In 2023
+title: Top 10 Djs Instagram Influencers In Argentina In 2024
 description: >-
-  Find top djs Instagram influencers in Argentina in 2023. Most popular hashtags: #dj #techno #music #djs.
+  Find top djs Instagram influencers in Argentina in 2024. Most popular hashtags: #dj #music #techno #djset.
 platform: Instagram
-hits: 54
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 54 Instagram influencers like this in Argentina for you to work with.
+hits: 55
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 55 Instagram influencers like this in Argentina for you to work with.
 profiles:
   - username: "kevin_kopp"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck5cdtbrljqif0i11ewt2gggi
     verified: false
     hashtags: ""
-  - username: "mel_omana"
-    fullname: >-
-      Mel Ömana
-    bio: >-
-      S a b r o s u r a Hecha en Canarias Mgmt: +34 695 03 37 40 #EatPapaya DJSET⤵️⤵️
-    location: "Argentina"
-    followers: 8847
-    engagement: 539
-    commentsToLikes: 0.062360
-    id: ck6u24z2qpqo10j71a5696oun
-    verified: false
-    hashtags: "#netflix, #documental, #eatpapaya"
   - username: "tomorrowlandismydream"
     fullname: >-
       Tomorrowland is my dream 🎧❤
@@ -67,6 +55,18 @@ profiles:
     id: ck6tie1lz0jgw0j71y1icyb02
     verified: false
     hashtags: "#electronicdancemusic, #dj, #pioneerddj, #techno"
+  - username: "da.carbone"
+    fullname: >-
+      Da Carbone
+    bio: >-
+      ＤＡ ＣＡＲＢＯＮＥ 🎧𝘋𝘑 𝘭 𝘈𝘳𝘨𝘦𝘯𝘵𝘪𝘯𝘢 🇦🇷 (Living in Ibiza 🇪🇸) 📥 𝘉𝘰𝘰𝘬𝘪𝘯𝘨. Co-Owner en @ibizasocialbrunch
+    location: "Argentina"
+    followers: 14807
+    engagement: 589
+    commentsToLikes: 0.038939
+    id: ckaoz57dxkf430i78zl98yhs0
+    verified: false
+    hashtags: "#djlife, #set, #dj, #djset"
   - username: "juanarmusic"
     fullname: >-
       ᴊᴜᴀɴ (ᴀʀ)
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.090336
     id: ck5cdtalajqgs0i11wn74smrs
     verified: false
-    hashtags: "#djlife, #producer, #djs, #dj"
+    hashtags: "#producerlife, #producertechno, #djlife, #technolovers"
   - username: "apolleus"
     fullname: >-
       Apolleus

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Ankara In 2023
+title: Top 10 Models Instagram Influencers In Ankara In 2024
 description: >-
-  Find top models Instagram influencers in Ankara in 2023. Most popular hashtags: #model #ankara #istanbul #izmir.
+  Find top models Instagram influencers in Ankara in 2024. Most popular hashtags: #model #ankara #istanbul #instagram.
 platform: Instagram
-hits: 47
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 47 Instagram influencers like this in Ankara, Turkey for you to collaborate.
+hits: 43
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 43 Instagram influencers like this in Ankara, Turkey for you to contact.
 profiles:
   - username: "bilginw124"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck5hlaaxajuxr0i11mhgaaiuo
     verified: false
     hashtags: "#testerparf, #afrodizyaketkiliparf, #hediyelike, #konya"
+  - username: "radmehrbrothers"
+    fullname: >-
+      Radmehrbrothers official
+    bio: >-
+      💣Personal training🥊 .📍🇹🇷 İstanbul 🔰 trainer 🔰 online coaching 🔰 lose weight gain weight 🔰 fitness,kickboxing,muay thai 🥈wako europa cup champion
+    location: "Turkey"
+    followers: 51643
+    engagement: 261
+    commentsToLikes: 0.039943
+    id: ck1399rmkk8at0i19eybkxyr1
+    verified: false
+    hashtags: "#kingradmehrbrothers, #fight, #spor, #crazy"
   - username: "talatakarr"
     fullname: >-
       Talat Akar
@@ -79,6 +91,18 @@ profiles:
     id: ck15qej4p2gfc0i19ho83uqle
     verified: false
     hashtags: "#crochetblankets, #100likes, #excerpts, #ceyiz"
+  - username: "tugcedemiraallll"
+    fullname: >-
+      Tugce DEMİRAL
+    bio: >-
+      Güzellik | Moda | Lifestyle ✉️tuqce21@hotmail.com Bitlis | Ankara
+    location: "Turkey"
+    followers: 105737
+    engagement: 45
+    commentsToLikes: 0.018473
+    id: ck8tbm7r0w7iy0j783rvzy3g2
+    verified: false
+    hashtags: "#istanbul, #instagram, #instagood, #nature"
   - username: "sudesudemirelofficial"
     fullname: >-
       sudesu demirel
@@ -91,18 +115,6 @@ profiles:
     id: ck5ca2qshcl140i11atatabbq
     verified: false
     hashtags: "#mardin, #foto, #fashionweek, #podyum"
-  - username: "radmehrbrothers"
-    fullname: >-
-      Mobin_mohamad
-    bio: >-
-      🔱 Efsaneikizler .📍🇹🇷 Ankara 🔶Member of Muay Thai National Team 2015 🔶Muay Thai 2016 Champion 🔶Kick Box 2017 Champion
-    location: "Turkey"
-    followers: 37072
-    engagement: 580
-    commentsToLikes: 0.141342
-    id: ck1399rmkk8at0i19eybkxyr1
-    verified: false
-    hashtags: "#survivor2021, #acunmedya, #strong, #tv8"
   - username: "abdullah_caliskanli"
     fullname: >-
       Abdullah Çalışkanlı
@@ -115,16 +127,4 @@ profiles:
     id: ck0w2tnzdq4k50i19lvc20gpr
     verified: false
     hashtags: "#likeforalike, #s2000, #honda, #civic"
-  - username: "_sunumzade_busra_"
-    fullname: >-
-      💎BÜŞRA_KAYA💎👰👮‍♂️ 🇹🇷
-    bio: >-
-      👩‍🍳🇹🇷 Pastary chef🔪 Akademi Moms, dad ⚡⚡ MY Photoğraphic Frame🎬 Ankara🎑
-    location: "Turkey"
-    followers: 17578
-    engagement: 159
-    commentsToLikes: 0.271675
-    id: ckaosbibxqz1c0i78l6uaabmr
-    verified: false
-    hashtags: "#kesfetteyim, #like, #sunum, #urfa"
 ---

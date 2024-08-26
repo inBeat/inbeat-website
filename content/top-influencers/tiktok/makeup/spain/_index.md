@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Spain In 2023
+title: Top 10 Makeup TikTok Influencers In Spain In 2024
 description: >-
-  Find top makeup TikTok influencers in Spain in 2023. Most popular hashtags: #makeup #fyp #parati #makeupartist.
+  Find top makeup TikTok influencers in Spain in 2024. Most popular hashtags: #makeup #fyp #makeupartist #parati.
 platform: TikTok
-hits: 118
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 118 TikTok influencers like this in Spain for you to collaborate.
+hits: 119
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 119 TikTok influencers like this in Spain for you to collaborate.
 profiles:
   - username: "heyeiko"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.010609
     id: ck904fvc3e8110j78ehh8w2o5
     verified: true
-    hashtags: "#tutorial, #makeupartist, #ad, #elinternadolascumbres"
+    hashtags: "#publi, #maquillaje, #elinternadolascumbres, #tutorial"
   - username: "latoxi"
     fullname: >-
       Latoxi

@@ -1,24 +1,36 @@
 ---
-title: Top 10 Beauty TikTok Influencers In San Diego In 2023
+title: Top 10 Beauty TikTok Influencers In San Diego In 2024
 description: >-
-  Find top beauty TikTok influencers in San Diego in 2023. Most popular hashtags: #fyp #sandiego #beauty #foryou.
+  Find top beauty TikTok influencers in San Diego in 2024. Most popular hashtags: #fyp #sandiego #beauty #foryou.
 platform: TikTok
 hits: 18
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our database holds 18 TikTok influencers like this in San Diego, United States for you to work with.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 18 TikTok influencers like this in San Diego, United States for you to pitch.
 profiles:
-  - username: "vaneberlin1"
+  - username: "erica_kramer"
     fullname: >-
-      Vanessa Berlin✨
+      Erica Kramer
     bio: >-
-      Beauty Tips | Lifestyle Main account 👉🏻 @vaneberlin
+      Hey👋🏼
     location: "United States"
-    followers: 8548
-    engagement: 1095
-    commentsToLikes: 0.029634
-    id: cka0urg71vkij0i78111pt1ij
+    followers: 33600
+    engagement: 1234
+    commentsToLikes: 0.036638
+    id: ckcdjf6c28tgf0j23cpybghbm
     verified: false
-    hashtags: "#beautytip, #fy, #fyp, #skincare"
+    hashtags: "#dogsoftiktok, #couplegoals, #cute, #funny"
+  - username: "itshuyennguyen"
+    fullname: >-
+      Huyen Nguyen | NYC
+    bio: >-
+      📍New York City Fashion • Beauty • Self Love 📩 : itshuyennguyen@gmail.com
+    location: "United States"
+    followers: 14700
+    engagement: 689
+    commentsToLikes: 0.045216
+    id: ckdbspcxxclpo0j2348ud9z0c
+    verified: false
+    hashtags: "#nyc, #greenscreenvideo, #greenscreen, #fashion"
   - username: "lilla.keresztely"
     fullname: >-
       L I L L A
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.119889
     id: ck9r99ue7fquf0j78p89mqqgd
     verified: false
-    hashtags: "#fyp, #fitchicks, #fitchicksoftiktok, #fypage"
+    hashtags: "#fypage, #fitchicksoftiktok, #fitchicks, #fyp"
   - username: "courtknee_24"
     fullname: >-
       Courtney Ilten
@@ -54,7 +66,19 @@ profiles:
     commentsToLikes: 0.006235
     id: ckcdn063oaicy0j23cknmeils
     verified: false
-    hashtags: "#glutenfree, #cleaneating, #cocktail, #vegan"
+    hashtags: "#recipe, #vegan, #traderjoes, #recipes"
+  - username: "vaneberlin1"
+    fullname: >-
+      Vanessa Berlin✨
+    bio: >-
+      Beauty Tips | Lifestyle Main account 👉🏻 @vaneberlin
+    location: "United States"
+    followers: 8548
+    engagement: 1095
+    commentsToLikes: 0.029634
+    id: cka0urg71vkij0i78111pt1ij
+    verified: false
+    hashtags: "#fyp, #beautytip, #skincare, #beautytips"
   - username: "lizlovery"
     fullname: >-
       Liz Lovery
@@ -66,7 +90,7 @@ profiles:
     commentsToLikes: 0.010880
     id: ck9n95kv096p10j78zt3ojycm
     verified: false
-    hashtags: "#styletips, #tiktokpartner, #hometips, #loft"
+    hashtags: "#homerenovation, #hometips, #tiktokpartner, #loft"
   - username: "explore_sd"
     fullname: >-
       user7751984492931
@@ -78,7 +102,7 @@ profiles:
     commentsToLikes: 0.077486
     id: ckcpd8p1mfwz40j233wdcyqu9
     verified: false
-    hashtags: "#sandiegorestaurant, #sandiegoadventures, #sandiegoblogger, #easyrecipes"
+    hashtags: "#sandiegoadventures, #sandiegoblogger, #foodie, #lasvegas"
   - username: "tailoredbytaylor.xo"
     fullname: >-
       tailoredbytaylor.xo
@@ -90,19 +114,7 @@ profiles:
     commentsToLikes: 0.223719
     id: ckbf87ofxyoza0j23ffh9anh8
     verified: false
-    hashtags: "#childlifetiktok, #springootdideas, #tiktokunder30, #realtalktiktok"
-  - username: "itshuyennguyen"
-    fullname: >-
-      Huyen Nguyen | NYC
-    bio: >-
-      📍New York City Fashion • Beauty • Self Love 📩 : itshuyennguyen@gmail.com
-    location: "United States"
-    followers: 14700
-    engagement: 689
-    commentsToLikes: 0.045216
-    id: ckdbspcxxclpo0j2348ud9z0c
-    verified: false
-    hashtags: "#fashion, #nyc, #greenscreen, #greenscreenvideo"
+    hashtags: "#springootdideas, #tiktokunder30, #fridayvibesbelike, #childlifetiktok"
   - username: "skysugaring"
     fullname: >-
       skysugaring
@@ -115,16 +127,4 @@ profiles:
     id: ckb9rqfiyojlv0j23vm8uu8gg
     verified: false
     hashtags: "#tattoo, #sugaring, #daddy, #hairy"
-  - username: "kathy.nguyen195"
-    fullname: >-
-      Kathy Nguyen
-    bio: >-
-      Travel enthusiast ✈️ Animals lover 🐻 Beauty stuff LETS GO SEATTLE
-    location: "United States"
-    followers: 11400
-    engagement: 418
-    commentsToLikes: 0.044883
-    id: ck9pm9o6489me0j782szu5t8x
-    verified: false
-    hashtags: "#foryou, #dogreaction, #puppy, #dailyvlog"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Spain In 2023
+title: Top 10 Fashion TikTok Influencers In Spain In 2024
 description: >-
-  Find top fashion TikTok influencers in Spain in 2023. Most popular hashtags: #fashion #fyp #foryou #viral.
+  Find top fashion TikTok influencers in Spain in 2024. Most popular hashtags: #fashion #fyp #foryou #viral.
 platform: TikTok
-hits: 89
+hits: 91
 text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 89 TikTok influencers like this in Spain for you to collaborate.
+text_bottom: Our search engine has 91 TikTok influencers like this in Spain for you to connect with.
 profiles:
   - username: "anutabelike"
     fullname: >-

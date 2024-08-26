@@ -1,11 +1,11 @@
 ---
-title: Top 10 Softball-Players TikTok Influencers In 2023
+title: Top 10 Softball-Players TikTok Influencers In 2024
 description: >-
-  Find top softball-players TikTok influencers in 2023. Most popular hashtags: #fyp #softball #foryoupage #foryou.
+  Find top softball-players TikTok influencers in 2024. Most popular hashtags: #fyp #softball #foryou #foryoupage.
 platform: TikTok
-hits: 21
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our search engine holds 21 TikTok influencers like this for you to connect with.
+hits: 20
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine holds 20 TikTok influencers like this for you to work with.
 profiles:
   - username: "apefaceee"
     fullname: >-
@@ -103,18 +103,6 @@ profiles:
     id: ckav27hu68ars0j23wfac2hk6
     verified: false
     hashtags: "#valentinesday, #fyp, #greenscreen, #classof2021"
-  - username: "lifewarianabuckman"
-    fullname: >-
-      🇺🇸ariana buckman🤠
-    bio: >-
-      DE📍17.8k💗 tried to follow the best tiktok acct but it said edit profile🥴💪🏼
-    location: "United States"
-    followers: 17800
-    engagement: 1407
-    commentsToLikes: 0.080311
-    id: ck99auzn9j8of0j78w47g851u
-    verified: false
-    hashtags: "#countrycouple, #plaid, #foryoupage, #americaneagle"
   - username: "briceleste34"
     fullname: >-
       Briannaceleste
@@ -127,4 +115,16 @@ profiles:
     id: ck9dvw73emlo80j78uoiboxpe
     verified: false
     hashtags: "#viral, #catcher, #greenscreen, #foryou"
+  - username: "courtneyleehewitt"
+    fullname: >-
+      Courtney Lee Jacobs
+    bio: >-
+      • Mommy + wifey 💗 • Softball 🥎 It’s okay, #metoo.
+    location: "United States"
+    followers: 217300
+    engagement: 835
+    commentsToLikes: 0.044790
+    id: ck8ndrws5kfg70j785ywvm6m8
+    verified: false
+    hashtags: "#married, #hotmessmamas, #facts, #momthoughts"
 ---

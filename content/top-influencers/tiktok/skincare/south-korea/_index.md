@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In South Korea In 2023
+title: Top 10 Skincare TikTok Influencers In South Korea In 2024
 description: >-
-  Find top skincare TikTok influencers in South Korea in 2023. Most popular hashtags: #skincare #korea #fyp #makeup.
+  Find top skincare TikTok influencers in South Korea in 2024. Most popular hashtags: #skincare #fyp #korea #makeup.
 platform: TikTok
 hits: 9
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 9 TikTok influencers like this in South Korea for you to collaborate.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 9 TikTok influencers like this in South Korea for you to connect with.
 profiles:
   - username: "y.hx_xi"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.013345
     id: ckbkym1p1uska0j237tb398en
     verified: true
-    hashtags: "#korea, #korealife, #seoul, #lifeinkorea"
+    hashtags: "#seoul, #korealife, #lifeinkorea, #thizisdan"
   - username: "aiden_parkk"
     fullname: >-
       Aiden_parkk

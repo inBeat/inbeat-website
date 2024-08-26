@@ -1,12 +1,24 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Chile In 2023
+title: Top 10 Stylists Instagram Influencers In Chile In 2024
 description: >-
-  Find top stylists Instagram influencers in Chile in 2023. Most popular hashtags: #stylist #model #tbt #style.
+  Find top stylists Instagram influencers in Chile in 2024. Most popular hashtags: #stylist #model #beauty.
 platform: Instagram
-hits: 15
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform has 15 Instagram influencers like this in Chile for you to work with.
+hits: 13
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 13 Instagram influencers like this in Chile for you to contact.
 profiles:
+  - username: "mimazamall"
+    fullname: >-
+      MIMA ZAMALL
+    bio: >-
+      Diseñadora + Stylist + Directora de arte + Productora de moda 🎨 🏠 Directora Creativa @mimazamallclub 📚 Cursos de Fashion Stylist 👇🏼
+    location: "Chile"
+    followers: 24499
+    engagement: 57
+    commentsToLikes: 0.016178
+    id: ck0vyw57r62rw0i19s05m66vn
+    verified: false
+    hashtags: "#fashioneditorial, #moda, #backstage, #fashionstylist"
   - username: "charliecuevas"
     fullname: >-
       Charlie Cuevas
@@ -31,18 +43,6 @@ profiles:
     id: ck8svwomgczid0j786p64y0h9
     verified: false
     hashtags: "#blackandwhitephotography, #disney, #model, #music"
-  - username: "mimazamall"
-    fullname: >-
-      MIMA ZAMALL
-    bio: >-
-      🏳️‍🌈 Ser, es el acto más rebelde 🏳️‍🌈 Fashion Designer + Stylist + Art Director 🌍 @mimazamallshop
-    location: "Chile"
-    followers: 21774
-    engagement: 410
-    commentsToLikes: 0.121233
-    id: ck0vyw57r62rw0i19s05m66vn
-    verified: false
-    hashtags: "#supportartists, #fashionstylist, #supportlocal, #aprueboconvenci"
   - username: "mariacarrasco"
     fullname: >-
       MARÍA IGNACIA CARRASCO
@@ -55,18 +55,6 @@ profiles:
     id: ck5bx7xogn6ic0i119vm0v6yd
     verified: false
     hashtags: "#patagonia, #vistechile, #skincare, #thisischile"
-  - username: "carola.jorquera"
-    fullname: >-
-      Carolina Jorquera Oficial
-    bio: >-
-      Periodista/ Modelo/ TV Host ASESORA De IMAGEN/ Fashion Expert Gestora Cultural/ CEO CJ-Un Concepto cjorquera.asesorias@gmail.com YOUTUBE👇🏽
-    location: "Chile"
-    followers: 136232
-    engagement: 183
-    commentsToLikes: 0.048263
-    id: ck5c78t1371xz0i11olpe35ga
-    verified: false
-    hashtags: "#quedateencasa, #tendencia, #tutorial, #stayhome"
   - username: "facundosciutto"
     fullname: >-
       Facundo Sciutto
@@ -115,16 +103,28 @@ profiles:
     id: ck0tzexqzq47v0i198cm32xht
     verified: false
     hashtags: "#job, #2020, #oscarponce, #ponce"
-  - username: "anticostudio"
+  - username: "ignaciaa_antonia"
     fullname: >-
-      ANTICO STUDIO
+      Ignacia Hernandez👑
     bio: >-
-      ▫️Interiorismo para los 5 sentidos ▫️Socios AdD | Chile | Hygge ▫️contacto@anticostudio.cl 👇👇👇#anticostudio
+      🇨🇱 en 🇲🇽📍 Ignacia@rawtalent.co
     location: "Chile"
-    followers: 32086
-    engagement: 142
-    commentsToLikes: 0.051989
-    id: ck5zmpu0un0580i14gdngdyyy
+    followers: 10046422
+    engagement: 126
+    commentsToLikes: 0.003679
+    id: ck0u67b1e13920i19mic5m3p9
+    verified: true
+    hashtags: "#influencer, #tiktok, #chile, #podcast"
+  - username: "angieezepeda"
+    fullname: >-
+      ANGIE ZEPEDA
+    bio: >-
+      🇨🇱 -twenty one-
+    location: "Chile"
+    followers: 10580
+    engagement: 831
+    commentsToLikes: 0.041421
+    id: ck5q54vhare6l0i11van9zv0o
     verified: false
-    hashtags: "#interiordesign, #hogaresmasfelices, #interiorismo, #archilovers"
+    hashtags: "#blackouttuesday, #theshowmustbepaused, #amorcitopa, #challengeaccepted"
 ---

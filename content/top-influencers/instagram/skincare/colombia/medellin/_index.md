@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Medellín In 2023
+title: Top 10 Skincare Instagram Influencers In Medellín In 2024
 description: >-
-  Find top skincare Instagram influencers in Medellín in 2023. Most popular hashtags: #skincare #skin #makeup #beauty.
+  Find top skincare Instagram influencers in Medellín in 2024. Most popular hashtags: #makeup #skincare #colombia #reels.
 platform: Instagram
 hits: 6
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 6 Instagram influencers like this in Medellín, Colombia for you to contact.
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 6 Instagram influencers like this in Medellín, Colombia for you to connect with.
 profiles:
   - username: "lizcastromakeup"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck6uelp0bro7m0j71gd9jkc23
     verified: false
     hashtags: "#makeup, #novia, #bridemakeup, #lizcastromakeupnovias"
-  - username: "chdermatologia"
-    fullname: >-
-      CLAUDIA HERNÁNDEZ
-    bio: >-
-      МD.Derмaтologιѕт •Injector💉•KOL🌎•Research 🔬 Anti-aging & beauty strategies 📍Medellín-Colombia🇨🇴 📲574-4443072-3006413849
-    location: "Colombia"
-    followers: 93179
-    engagement: 192
-    commentsToLikes: 0.016119
-    id: ck0w71ryubc2d0i19xvjyd5io
-    verified: false
-    hashtags: "#fillers, #envejecimiento, #beauty, #skincare"
   - username: "auraoro"
     fullname: >-
       Aura Maria Orozco
@@ -55,6 +43,18 @@ profiles:
     id: ck55osusa927v0i11ix4c50ni
     verified: false
     hashtags: "#nature, #bodyart, #cheyennetattooequipment, #boudoir"
+  - username: "sandraposa"
+    fullname: >-
+      SANDRA POSADA
+    bio: >-
+      𝕬𝖓 𝖕𝖔𝖈𝖔 𝖉𝖊 𝖒𝖎 𝖛𝖎𝖉𝖆... 𝖒𝖎 𝖋𝖆𝖒𝖎𝖑𝖎𝖆, 𝖒𝖎 𝖙𝖗𝖆𝖇𝖆𝖏𝖔 𝖞 𝖍𝖆𝖘𝖙𝖆 𝖒𝖎𝖘 𝖌𝖚𝖘𝖙𝖔𝖘. . 𝙲𝚘𝚛𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚊𝚕 𝚍𝚒́𝚊 𝚊 𝚍𝚒́𝚊 (𝚖𝚎𝚍) 𝙿𝚛𝚎𝚜𝚎𝚗𝚝𝚊𝚍𝚘𝚛𝚊: 𝙻𝚊𝚜 𝚝𝚛𝚎𝚜 𝚐𝚛𝚊𝚌𝚒𝚊𝚜 𝙴𝚗 𝚌𝚊𝚜𝚊 𝚌𝚘𝚗 𝚃𝙰.
+    location: "Colombia"
+    followers: 297640
+    engagement: 73
+    commentsToLikes: 0.023965
+    id: ck14lnztdvm9f0i191w4gizym
+    verified: false
+    hashtags: "#familia, #disfrutar, #reir, #vivir"
   - username: "marianelamodel"
     fullname: >-
       MARIANELA | PRESENTADORA
@@ -79,18 +79,30 @@ profiles:
     id: ck5cfq336nflb0i11evw37gn7
     verified: false
     hashtags: "#fashionblogger, #marketingdigital, #reels, #medelli"
-  - username: "juliepardau"
+  - username: "danielasalazarc_"
     fullname: >-
-      JULIETTE | PARDAU
+      Daniela Salazar C.
     bio: >-
-      🎭 Actriz - Atriz - Actress 📩 Rep: @mclmanager 🧖🏻‍♀️ Skincare enthusiast at @la.jolie.skin
+      🦋 Founder of @meni.cookies @bydanielasalazar @ikuals_skincare @creoenmisinlimites 🎙️
     location: "Colombia"
-    followers: 607725
-    engagement: 471
-    commentsToLikes: 0.012911
-    id: ck15u05wxkrqd0i19gf27locd
-    verified: true
-    hashtags: "#maquillajelbel, #obviobobis, #muack, #oscarwilde"
+    followers: 1806060
+    engagement: 284
+    commentsToLikes: 0.005098
+    id: ck0udl4v1jfrp0i19ws4b7c3w
+    verified: false
+    hashtags: "#humor, #publicidad, #loslindos, #ecoprotect"
+  - username: "joha_yepes"
+    fullname: >-
+      Joha Yepes
+    bio: >-
+      mamá perruna, empresaria y creadora 🧘🏼‍♀️ @legacy_esthetic_center @kova.skincare @luxyhaircr @hairpointcr @happyplace.fortuna @moi_moi_lingerie
+    location: "Colombia"
+    followers: 66248
+    engagement: 186
+    commentsToLikes: 0.016754
+    id: ck5pzfadf0oy90i117pvn6tst
+    verified: false
+    hashtags: "#fun, #costarica, #makeup, #reels"
   - username: "fqdermato"
     fullname: >-
       FAY QUIROZ CHARRIS
@@ -103,28 +115,16 @@ profiles:
     id: ck135dci50vzv0i194y46ooiw
     verified: false
     hashtags: "#haircare, #skincareroutine, #skin, #uriage"
-  - username: "yessenxaa"
+  - username: "chdermatologia"
     fullname: >-
-      Yessenia Andrade
+      CLAUDIA HERNÁNDEZ
     bio: >-
-      ‘97 | Colombian & Cape Verdean BIG animal lover 🌱 📍: Rhode Island 📧: andradey10@yahoo.com God is good all the time. All the time God is good.
+      🇨🇴 Board-Certified Dermatologist • AAD 🇺🇸member •Injector💉•KOL & Global speaker 🌎 •Research🔬 •Lifestyle • Beauty 📲 +574443072 / 3006413849
     location: "Colombia"
-    followers: 63156
-    engagement: 184
-    commentsToLikes: 0.090517
-    id: ckaova9cd3pg30i785lpflyn0
+    followers: 122456
+    engagement: 733
+    commentsToLikes: 0.002903
+    id: ck0w71ryubc2d0i19xvjyd5io
     verified: false
-    hashtags: "#clearskin, #theme, #love, #curlsfordays"
-  - username: "auraoro"
-    fullname: >-
-      Aura Maria Orozco
-    bio: >-
-      Tips de Belleza👱🏻‍♀️ #tipsbyaura Embajadora @bioderma_colombia 🙋🏼‍♀️ 🎥PRESENTADORA @liketv.co 👍🏼 @canalcalitv Modelo 📸 Com Social UAO📚📽 Cali-Col
-    location: "Colombia"
-    followers: 27098
-    engagement: 98
-    commentsToLikes: 0.365928
-    id: ckap7vyvwlszz0i7805o7f2u5
-    verified: false
-    hashtags: "#pielsensible, #salud, #cute, #reelsinstagram"
+    hashtags: "#lifestyle, #skincare, #fillers, #beauty"
 ---

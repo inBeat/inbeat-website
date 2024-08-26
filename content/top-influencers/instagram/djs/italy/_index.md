@@ -1,24 +1,72 @@
 ---
-title: Top 10 Djs Instagram Influencers In Italy In 2023
+title: Top 10 Djs Instagram Influencers In Italy In 2024
 description: >-
-  Find top djs Instagram influencers in Italy in 2023. Most popular hashtags: #dj #edm #music #remix.
+  Find top djs Instagram influencers in Italy in 2024. Most popular hashtags: #djset #dj #music #italy.
 platform: Instagram
-hits: 98
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 98 Instagram influencers like this in Italy for you to collaborate.
+hits: 116
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat has 116 Instagram influencers like this in Italy for you to work with.
 profiles:
-  - username: "nicolapigini"
+  - username: "scarlettmusic_"
     fullname: >-
-      NICOLA PIGINI
+      SCARLETT
     bio: >-
-      🇮🇹 DJ / Producer / Speaker 🚴🏻‍♂️Dj for @giroditalia (@rairadio2), @motogp (@enelxglobal) and @scuderiaferrari (SFMeets) 🏅Record djset: 24h no-stop
+      Blending human emotions Mind @plsr.recs • New djset for @denondjofficial @djmagofficial↓
     location: "Italy"
-    followers: 17978
-    engagement: 260
-    commentsToLikes: 0.053248
-    id: ck5c0socktryj0i112dv3n31h
+    followers: 25820
+    engagement: 218
+    commentsToLikes: 0.112587
+    id: ckap0v6gsry3e0i78s3oz59q7
     verified: false
-    hashtags: "#sanfrancisco"
+    hashtags: "#dariakolosova, #paulatemple, #djing, #charlottedewitte"
+  - username: "robertoferrarideejay"
+    fullname: >-
+      Roberto Ferrari
+    bio: >-
+      🔥 Ciao Belli su Deejay info & Booking : ferroenergy@gmail.com ☝🏻scarica la mia App FERRO ENERGY e ascolta i miei DJSET 🎧
+    location: "Italy"
+    followers: 105164
+    engagement: 87
+    commentsToLikes: 0.071011
+    id: ck5pzmdoa1ose0i11rkewzieo
+    verified: true
+    hashtags: "#robertoferrari, #ciaobelli, #sondaggio, #tropea"
+  - username: "official_cat"
+    fullname: >-
+      Catherine Poulain
+    bio: >-
+      🎧 Model - DJ - Music Selector Management & DJSET: cat@catherinepoulain.com 🤍 proud mama of Ludovico 🔮☉ Libra ☽ Libra ↑ Capricorn
+    location: "Italy"
+    followers: 454990
+    engagement: 17
+    commentsToLikes: 0.000705
+    id: ck0uaug6id0bc0i19aelrcvj9
+    verified: true
+    hashtags: "#adv, #catherinepoulain, #misspoulainlovescampiglio, #gucci"
+  - username: "phibeachofficial"
+    fullname: >-
+      Phi Beach Official
+    bio: >-
+      The iconic club in Baja Sardinia 🧡 Beach ∙ Fine dining ∙ Top djs See you next year✨ Book here ⬇️
+    location: "Italy"
+    followers: 141024
+    engagement: 82
+    commentsToLikes: 0.013602
+    id: ck0u2fykozuov0i19pw0bl3ot
+    verified: false
+    hashtags: "#season2023, #phibeachofficial, #djset, #summer2023"
+  - username: "technodancers.mag"
+    fullname: >-
+      TECHNO DANCERS®
+    bio: >-
+      DJs, festivals, clubs.. the whole world of electronic music, dedicated only to dancers! 📒 TD MAGAZINE link in bio. 📮 info@technodancers-mag.com
+    location: "Italy"
+    followers: 139128
+    engagement: 79
+    commentsToLikes: 0.007204
+    id: ck0tvq0whccph0i19df6sg04n
+    verified: false
+    hashtags: "#buongiornoclorophilla"
   - username: "strulle_industry"
     fullname: >-
       STRULLE🇮🇹🏳️‍🌈
@@ -55,30 +103,6 @@ profiles:
     id: ck13boci1wdkc0i19970clmxh
     verified: false
     hashtags: "#hiphop, #underdogfunk, #unlimitedstruggle, #djshocca"
-  - username: "mimmo.modem"
-    fullname: >-
-      Mimmo Modem ®
-    bio: >-
-      Staff: @michele.di.croce , @kapa.it , @tyfon_75 , @lucagra92, @ciro_gargiulo87, @djsaul.it, @h_e_l_l_c_a_t Lo shop di Mimmo:
-    location: "Italy"
-    followers: 324971
-    engagement: 432
-    commentsToLikes: 0.013649
-    id: ck6ueueujt5rp0j711ylpudhz
-    verified: false
-    hashtags: "#mimmomodem, #viral, #trash, #nonsense"
-  - username: "dabrozz"
-    fullname: >-
-      Da Brozz™
-    bio: >-
-      🇮🇹 Djs/Producers/Gamers 🇮🇹 @musicalfreedom @dharmaworldwide @generationsmash Contact: info@dabrozz.com ⏬ MISTAKES REMIX ⏬
-    location: "Italy"
-    followers: 44044
-    engagement: 274
-    commentsToLikes: 0.035333
-    id: ck5hkcmt1i6td0i11oycb4cl4
-    verified: true
-    hashtags: "#musicalfreedom, #edmnation, #dj, #djmatrix"
   - username: "iceone_official"
     fullname: >-
       IceOne
@@ -91,40 +115,16 @@ profiles:
     id: ck0tznv4yr2uk0i19otem622m
     verified: false
     hashtags: "#buttamolaincaciara, #therealcal, #iceonehiphoplegend, #dystopiastore"
-  - username: "djstephanieofficial"
-    fullname: >-
-      Dj Stephanie
-    bio: >-
-      #HARDSTYLEDJ Info & Bookings ✉️deejaystephanie@gmail.com For Spain : Sandra@mainanmusicagency.com
-    location: "Italy"
-    followers: 56579
-    engagement: 237
-    commentsToLikes: 0.030687
-    id: ck6ubggy49fh70j71hzxr4b1q
-    verified: false
-    hashtags: "#5monthspregnant, #babyshower, #babyinprogress, #terzotrimestre"
-  - username: "djschenetti"
-    fullname: >-
-      Nicola Schenetti
-    bio: >-
-      📍Uomo di Mondo 🌍 . 📍DJ at @papeetebeach➕@villapapeete 🎧 . 📍DJ at @salietabacchi . 📍DJ at @laviadellespezie 📍Travels Lover ✈️ MY SOUNDCLOUD HERE👇🏻⬇️
-    location: "Italy"
-    followers: 15379
-    engagement: 411
-    commentsToLikes: 0.061505
-    id: ck5c7sjml841h0i11jqaz1tta
-    verified: false
-    hashtags: "#nicolaschenetti, #speakers, #usa, #mexico"
   - username: "djshablo"
     fullname: >-
       SHABLO
     bio: >-
-      👇🏼Produced by
+      founder @urubambastudio co founder @moysa.official co founder @thaurusmusic co founder @bhmgofficial co founder @thauruspublishing
     location: "Italy"
-    followers: 230188
-    engagement: 529
-    commentsToLikes: 0.006693
+    followers: 247791
+    engagement: 262
+    commentsToLikes: 0.013948
     id: ck0vvq924q9wp0i19ats2hr3h
     verified: true
-    hashtags: "#awlabisme, #adv"
+    hashtags: "#gshockitalia, #builtdifferent, #glimpses, #ploomx"
 ---

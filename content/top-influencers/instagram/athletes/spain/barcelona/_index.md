@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Barcelona In 2023
+title: Top 10 Athletes Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top athletes Instagram influencers in Barcelona in 2023. Most popular hashtags: #workout #barcelona #running.
+  Find top athletes Instagram influencers in Barcelona in 2024. Most popular hashtags: #barcelona #running #photooftheday.
 platform: Instagram
-hits: 19
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 19 Instagram influencers like this in Barcelona, Spain for you to work with.
+hits: 23
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 23 Instagram influencers like this in Barcelona, Spain for you to pitch.
 profiles:
   - username: "yulimarrojas45"
     fullname: >-
@@ -13,12 +13,24 @@ profiles:
     bio: >-
       💠 Athletics Venezuela 🇻🇪 💠 FC Barcelona Athlete 🤝 💠 Olympic Games Río 2016 🥈 💠 World Champion 🥇🥇🥇🥇 ▪️NIKE 👖👚👟 💍9 ▪️ @teamrojas45
     location: "Spain"
-    followers: 291781
-    engagement: 655
-    commentsToLikes: 0.033216
+    followers: 770552
+    engagement: 980
+    commentsToLikes: 0.033853
     id: ck5hndjprnlif0i11b048mo1o
     verified: true
-    hashtags: "#monacodl, #diamondleague, #nikezoomx, #nikerunning"
+    hashtags: "#worldathleticsawards, #flywhitme"
+  - username: "luciasainzp"
+    fullname: >-
+      Lucía Sainz
+    bio: >-
+      🎾 Professional padel player 🥇 #1WPT2020 👟 @kuikmapadel athlete 🤝🏻 📍 Barcelona, Spain
+    location: "Spain"
+    followers: 51614
+    engagement: 260
+    commentsToLikes: 0.026329
+    id: ck0vwkxkkub420i19frbz9z75
+    verified: true
+    hashtags: "#wpt, #worldpadeltour, #argentina, #padel"
   - username: "7sanchezc"
     fullname: >-
       CARMEN SÁNCHEZ SILVA
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.015885
     id: ck15udw6xmoxt0i199z5ord3t
     verified: false
-    hashtags: "#track, #trackandfield, #runningmotivation, #workout"
+    hashtags: "#athletics, #runner, #nature, #fitness"
   - username: "isaseu4"
     fullname: >-
       ISA M
@@ -43,42 +55,18 @@ profiles:
     id: ck8szg3tboazy0j78jxofh4fx
     verified: false
     hashtags: "#crossfitgirls, #8mar, #esportfemeni, #wecandoit"
-  - username: "sgd_2"
+  - username: "alexroca91"
     fullname: >-
-      Sergiño Dest
+      Alex Roca ➕
     bio: >-
-      Player of FC Barcelona / US National Team / Nike Athlete
+      EL LÍMITE TE LO PONES TÚ Parálisis cerebral 76% física Twitter/alexroca91 🤝 Embajador FCB @fundaciofcb ✍️ Nike athlete @nike
     location: "Spain"
-    followers: 1743700
-    engagement: 1765
-    commentsToLikes: 0.004839
-    id: ck0ueb240l20u0i19g5siwby6
+    followers: 434642
+    engagement: 1382
+    commentsToLikes: 0.045910
+    id: ck5q961059knh0i11vz2394yk
     verified: true
-    hashtags: "#futurestars, #fifa21, #ucl"
-  - username: "pitufollow"
-    fullname: >-
-      SERGIO TURULL
-    bio: >-
-      🦁 Adidas Athlete | 🔜 UTMB 170KM 🌱 Foodspring -15%: pitufollowFSG 📩 sergiopitufollow@gmail.com 📖 Autor #Corroporquecaminarmecansa
-    location: "Spain"
-    followers: 81951
-    engagement: 359
-    commentsToLikes: 0.115300
-    id: ck5bz45gnqevz0i11af9b59hl
-    verified: true
-    hashtags: "#vitaminwell, #sportsmotivation, #athlete, #menorca"
-  - username: "anaatuse"
-    fullname: >-
-      Ana Turull
-    bio: >-
-      💪🏻 Adidas Athlete 🗺 World Traveler 📩 anatuse92@gmail.com 📍 Barcelona
-    location: "Spain"
-    followers: 14288
-    engagement: 957
-    commentsToLikes: 0.021553
-    id: ck8t99bvlnadn0j7840x51c3n
-    verified: false
-    hashtags: "#memuevoenfebrero, #memuevo, #ad, #keepmoving"
+    hashtags: "#deporte, #paralisiscerebral, #discapacidad, #pensamientos"
   - username: "adriwp90"
     fullname: >-
       Adrià Delgado Baches
@@ -91,6 +79,18 @@ profiles:
     id: ck5q8yn4c8kfr0i116zu2syga
     verified: false
     hashtags: "#spain, #waterpolo, #cnb, #leneuropeanchampionships"
+  - username: "mapivd"
+    fullname: >-
+      Mari Paz Vilas
+    bio: >-
+      Futbolista profesional @realbetisfem |@sefutbol Puma athlete @pumafootball Twitter @maripaz_vilas Management:@futbolcore Fisioterapeuta/Readaptadora
+    location: "Spain"
+    followers: 26438
+    engagement: 436
+    commentsToLikes: 0.026019
+    id: ck5hfnmk7ycrd0i11onx20534
+    verified: true
+    hashtags: "#futfem, #betisf, #futbolfemenino, #pumafootball"
   - username: "patri8guijarro"
     fullname: >-
       Patri Guijarro
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.030249
     id: ck5zvl4zd4fw00i14r0yv8e36
     verified: false
-    hashtags: "#gymnastics, #freestyle, #balance, #gymnasticsshoutouts"
-  - username: "luciasainzp"
+    hashtags: "#balance, #powerclean, #streetworkout, #fullplanche"
+  - username: "ericmoyarodriguez"
     fullname: >-
-      Lucía Sainz
+      Eric Moya Rodriguez
     bio: >-
-      🎾 Professional padel player @worldpadeltour 🇪🇸 @asicseurope athlete 📍Madrid, Spain 🥇#1 WPT 2020 👥 @beagonzalez_padel
+      Dynafit Athlete🐱 Coros Athlete⌚ Cébé Athlete🕶
     location: "Spain"
-    followers: 47633
-    engagement: 335
-    commentsToLikes: 0.033535
-    id: ck0vwkxkkub420i19frbz9z75
-    verified: true
-    hashtags: "#wptmalagaopen, #mustangmache, #cars, #worldpadeltour"
+    followers: 6560
+    engagement: 935
+    commentsToLikes: 0.025146
+    id: ck0tyx4qxofve0i19aejj3258
+    verified: false
+    hashtags: "#up, #alpinism, #run, #ripoll"
 ---

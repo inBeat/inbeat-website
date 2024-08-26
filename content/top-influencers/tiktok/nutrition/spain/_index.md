@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In Spain In 2023
+title: Top 10 Nutrition TikTok Influencers In Spain In 2024
 description: >-
-  Find top nutrition TikTok influencers in Spain in 2023. Most popular hashtags: #nutricion #perdergrasa #salud #dieta.
+  Find top nutrition TikTok influencers in Spain in 2024. Most popular hashtags: #nutricion #perdergrasa #salud #dieta.
 platform: TikTok
 hits: 12
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 12 TikTok influencers like this in Spain for you to contact.
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 12 TikTok influencers like this in Spain for you to collaborate.
 profiles:
   - username: "thephilhugo"
     fullname: >-

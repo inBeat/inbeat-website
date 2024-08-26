@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian Instagram Influencers In Ukraine In 2023
+title: Top 10 Christian Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top christian Instagram influencers in Ukraine in 2023. Most popular hashtags: #likeme #lviv #liketime #like4likes.
+  Find top christian Instagram influencers in Ukraine in 2024. Most popular hashtags: #likeme #lviv #like4likes.
 platform: Instagram
-hits: 11
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 11 Instagram influencers like this in Ukraine for you to connect with.
+hits: 10
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 10 Instagram influencers like this in Ukraine for you to work with.
 profiles:
   - username: "yelizavetushka"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck8t3q8z742u70j78m8y5skwh
     verified: false
     hashtags: "#ilovegod, #sky, #blacksea, #ukraine"
-  - username: "nazenihovhannisyan"
-    fullname: >-
-      Nazeni Hovhannisyan
-    bio: >-
-      http://www.facebook.com/NazeniHovhannisyanOfficial/
-    location: "Ukraine"
-    followers: 508530
-    engagement: 192
-    commentsToLikes: 0.024428
-    id: ck6tr3rc3wrdj0j71undxdqne
-    verified: true
-    hashtags: "#armenia, #green, #2021, #nazenihovhannisyan"
   - username: "captainco9"
     fullname: >-
       C.O. Pis©apo
@@ -127,4 +115,16 @@ profiles:
     id: ckap0w39ts2i00i78nu530r4f
     verified: false
     hashtags: "#motherdaughter, #bosniaandherzegovina, #beautifuldestinations, #medjugorje"
+  - username: "dr.christina_hryvnyak"
+    fullname: >-
+      Christina Hryvnyak
+    bio: >-
+      Founder @beautycode.lviv Запис 0631626251 🦸🏽‍♀️Mama 👩🏽‍🦱💉Doctor. Ін‘єкційна косметологія , дерматологія. Ліцензія МОЗ Lviv , Ukraine 🇺🇦
+    location: "Ukraine"
+    followers: 16203
+    engagement: 335
+    commentsToLikes: 0.018514
+    id: ck5q9x469dgcp0i116wwmsw89
+    verified: false
+    hashtags: "#lviving"
 ---

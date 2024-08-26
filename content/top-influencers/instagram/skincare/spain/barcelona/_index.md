@@ -1,12 +1,24 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Barcelona In 2023
+title: Top 10 Skincare Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top skincare Instagram influencers in Barcelona in 2023. Most popular hashtags: #skincare #barcelona #beauty #moda.
+  Find top skincare Instagram influencers in Barcelona in 2024. Most popular hashtags: #skincare #ootd #barcelona #summer.
 platform: Instagram
-hits: 23
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 23 Instagram influencers like this in Barcelona, Spain for you to connect with.
+hits: 36
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 36 Instagram influencers like this in Barcelona, Spain for you to connect with.
 profiles:
+  - username: "patpm"
+    fullname: >-
+      ᴘᴀᴛᴘᴍ 🧿
+    bio: >-
+      #artdirector #contentcreator #stylist Fashion • Beauty • Lifestyle • Travel 📍BCN COLLABS ✉️ hipatpm@gmail.com Founder @eunoia.bcn 🌱 More link in bio
+    location: "Spain"
+    followers: 16834
+    engagement: 24
+    commentsToLikes: 0.000000
+    id: ck6uaahzc2ggj0j71fknxc71e
+    verified: false
+    hashtags: "#micashaul, #ad, #micasgal, #travelblogger"
   - username: "andrea_m_m"
     fullname: >-
       A
@@ -31,100 +43,88 @@ profiles:
     id: ckaozkbapm94x0i78mgbbd94m
     verified: false
     hashtags: "#autocuidado, #espa, #bloguerasespa, #cuidadopersonal"
-  - username: "miss_style.88"
+  - username: "aliciaduran11"
     fullname: >-
-      🌸 MONICA🌸
+      Alicia Durán
     bio: >-
-      LIFESTYLE / FASHION 〰️#wolfiesstyle 📍Granollers-Barcelona “No te pongas límites, ponte guapa”
+      📍Barcelona 💌 aliciaduran@boulevard22.com ⭐️ Curvy & + size model 📲 Community Manager👗Asesora de Imagen
     location: "Spain"
-    followers: 5289
-    engagement: 1682
-    commentsToLikes: 0.679633
-    id: ck5zt5abpzrfw0i14rrllevew
+    followers: 74895
+    engagement: 372
+    commentsToLikes: 0.022937
+    id: ckap0zvnlsiuw0i78gxe5em8b
     verified: false
-    hashtags: "#loveeenero, #january, #magicofebrero, #igercatalunya"
-  - username: "thegoldlipstick"
+    hashtags: "#ad, #tallagrande, #curvy, #plussize"
+  - username: "natalie_ortegaa"
     fullname: >-
-      Mireia | Fashion & Lifestyle
+      Natalie Ortega
     bio: >-
-      ▪️The Gold Lipstick blog 📍Bath / Barcelona ✉️thegoldlipstick@gmail.com ✨founder @epoch.jewellery ▫️www.thegoldlipstick.com
+      Spanish/ Norwegian Barcelona📍Traveling✈️🌎 MA Heartbreak mgmt 🇳🇴 | MAD 🇪🇸 | FashionCult 🇬🇷
     location: "Spain"
-    followers: 4091
-    engagement: 519
-    commentsToLikes: 0.249043
-    id: ck0tyj2kvn1ds0i19upv4nd49
+    followers: 17839
+    engagement: 282
+    commentsToLikes: 0.397176
+    id: ck0w6w57majkf0i199mgoqs7f
     verified: false
-    hashtags: "#instagramreels, #minimalchic, #neutraltones, #frenchfashion"
-  - username: "alegnaslife"
+    hashtags: "#photoshoot, #blond, #goldenhour, #makeup"
+  - username: "leopask"
     fullname: >-
-      Angiie
+      Julien 🐣
     bio: >-
-      Born in Valencia🔥 Living in #barcelona 📍 🛸👽🎮 Teal’c🐇 Bobby🐕 ♥️25/09/09♥️ Collab~DM or Email📲
+      ⚡️You better like virgo 🤡, coquetas & baguettes🥖 📍Living between Barcelona and Paris 🇪🇸🇫🇷 💌 bonjour@leopask.com 🕯️ Proud daddy of @opaark 👑
     location: "Spain"
-    followers: 18318
-    engagement: 796
-    commentsToLikes: 0.040653
-    id: ck5hp3szwqpj90i110u60i0k0
+    followers: 101496
+    engagement: 235
+    commentsToLikes: 0.031634
+    id: ck6ug68hs15e40j71eu140isn
     verified: false
-    hashtags: "#laresistenciadelfollow, #mirrorselfie, #sorteo, #spain"
-  - username: "mariiiasanchz"
+    hashtags: "#influenceur, #carpoolkaraoke, #influencermarketing, #skincare"
+  - username: "marusya_style"
     fullname: >-
-      María Sánchez
+      Maria
     bio: >-
-      ~ you are brave and powerful ✨ 📍 Mataró, Barcelona 📚 Marketing & Publicidad 💌 mariiiasanchz1988@gmail.com
+      📍Barcelona 📩 marusyabcn@gmail.com
     location: "Spain"
-    followers: 8717
-    engagement: 84
-    commentsToLikes: 0.103675
-    id: ck5zmi7lcmm990i14ri28oa7y
+    followers: 11332
+    engagement: 158
+    commentsToLikes: 0.114072
+    id: clnaa9qkjzod30j08qibwd4gb
     verified: false
-    hashtags: "#kissmylook, #lookoftheday, #inspofashion, #lorealparisespa"
-  - username: "nataliagtimofeeva"
+    hashtags: "#sustainablefashion, #lookoftheday, #modasostenible, #barcelonalife"
+  - username: "beatrizestrada"
     fullname: >-
-      Natalia Garcia Timofeeva
+      Beatriz Estrada
     bio: >-
-      Spanish National Team of Rhytmic Gymnastics🇪🇸💖 nataliagtimofeeva@gmail.com💌 📍Barcelona
+      ✨Trucos de moda, belleza y estilo 💍 Preparando mi BODA 💌 beatrizestrada@letsbeinfluenced.com 📍Barcelona YOUTUBE BSTYLE
     location: "Spain"
-    followers: 101107
-    engagement: 517
-    commentsToLikes: 0.016658
-    id: ck5py5wd2ugsk0i11wlm1jny7
+    followers: 421511
+    engagement: 137
+    commentsToLikes: 0.252800
+    id: ck5c09og3spdf0i11qhl27l59
     verified: false
-    hashtags: "#therabody, #ibiza, #encuentratufitness, #ringana"
-  - username: "danirull.official"
+    hashtags: "#ibiza, #playa, #nature, #haulshein"
+  - username: "barbaraders"
     fullname: >-
-      danielrull
+      Barbaraders ☾ Content Creator Barcelona
     bio: >-
-      HAIR & MAKEUP ARTIST / DIOR / CREATIVE DIRECTOR / CASTING DIRECTOR Barcelona/Zurich
+      ➳ 📍Barcelona | Costa Brava ➳ Social Media Strategist and Community Manager ➳ barbaraderobles@hotmail.com ➳ Couple account: @whitenightscouple
     location: "Spain"
-    followers: 19043
-    engagement: 368
-    commentsToLikes: 0.095710
-    id: ck0w0ii8tedh20i19eb5soii8
+    followers: 35458
+    engagement: 97
+    commentsToLikes: 0.097144
+    id: ck0ubmkylexqb0i19fwg46n1w
     verified: false
-    hashtags: "#hairstyle, #instafashion, #fashionblogger, #production"
-  - username: "agustinadeveras"
+    hashtags: "#blanes, #shein, #contentcreator, #amalficoast"
+  - username: "coconstans"
     fullname: >-
-      Agus De Veras | Make Up Artist
+      Coco Constans
     bio: >-
-      Maquillaje profesional especializada en novias. Libre de crueldad animal 🐰 España (base en Barcelona centro)
+      @ffitcoco | ffitpilates coco.constans@gmail.com Barcelona
     location: "Spain"
-    followers: 14815
-    engagement: 604
-    commentsToLikes: 0.060199
-    id: ckap0gpovq7d10i783omj2dah
+    followers: 278069
+    engagement: 105
+    commentsToLikes: 0.002349
+    id: ck0tvh1vibbfo0i191xe7rgev
     verified: false
-    hashtags: "#makeuplover, #makeupaddict, #highlighter, #beautyblogger"
-  - username: "dr.alejandro.segarra"
-    fullname: >-
-      Dr. Alejandro Segarra
-    bio: >-
-      Diplomado Internacional de Med Estética 📍Barcelona y Madrid. 📞Información/citas 930107517 (BCN)
-    location: "Spain"
-    followers: 53832
-    engagement: 229
-    commentsToLikes: 0.037778
-    id: ck55kbo51yxte0i11zato21js
-    verified: false
-    hashtags: ""
+    hashtags: "#winterskincare, #skincare, #biotherm"
 ---

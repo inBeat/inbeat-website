@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening TikTok Influencers In United Kingdom In 2023
+title: Top 10 Gardening TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top gardening TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #gardening #foryoupage #duet.
+  Find top gardening TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #gardening #foryoupage #duet.
 platform: TikTok
 hits: 22
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our database holds 22 TikTok influencers like this in United Kingdom for you to connect with.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 22 TikTok influencers like this in United Kingdom for you to pitch.
 profiles:
   - username: "jack.bennet"
     fullname: >-

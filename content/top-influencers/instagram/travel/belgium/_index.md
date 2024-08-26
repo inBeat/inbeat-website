@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Belgium In 2023
+title: Top 10 Travel Instagram Influencers In Belgium In 2024
 description: >-
-  Find top travel Instagram influencers in Belgium in 2023. Most popular hashtags: #fashion #travel #belgium #sheingals.
+  Find top travel Instagram influencers in Belgium in 2024. Most popular hashtags: #belgium #travel #beautifuldestinations #travelgram.
 platform: Instagram
-hits: 81
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 81 Instagram influencers like this in Belgium for you to pitch.
+hits: 131
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 131 Instagram influencers like this in Belgium for you to collaborate.
 profiles:
-  - username: "kayamaes"
+  - username: "dylancalluy"
     fullname: >-
-      Kaya
+      Dylan Calluy
     bio: >-
-      Come with me on my happy moments 🎞 ✉️ Kayamaesss@hotmail.com Fashion, beauty & travel | Not your typical ultra skinny freelance model BE 0788.246.447
+      • Content: Automotive - Commercial - Travel • Sony A7IV | @sonyalpha • Official @djiglobal creator • Inquiry through mail or DM
     location: "Belgium"
-    followers: 19196
-    engagement: 311
-    commentsToLikes: 0.146594
-    id: ck9wflb14pczt0j78u9wwvcjc
+    followers: 12587
+    engagement: 499
+    commentsToLikes: 0.137909
+    id: ck6tpcccij1ql0j71fpjh4vrp
     verified: false
-    hashtags: "#advertising, #loavies, #girlsgoneloavies, #sochickenspiesjes"
-  - username: "maartenvda"
+    hashtags: "#oppofindx2pro, #beautifuldestinations, #sonyalpha, #dji"
+  - username: "joli_laur"
     fullname: >-
-      Maarten Van der Auwera
+      Laurette Jolivot
     bio: >-
-      📍Antwerp, Belgium 🏔Belgian (travel) photographer 📸 Photographing my way through life ✏️Collab/shoot: DM or Mail 📚UAntwerp Master of Physiotherapy
+      BEAUTY - FASHION - TRAVEL & GOOD VIBES🤍 Belgique | Maroc | France Contact: jolivot.laurette@gmail.com
     location: "Belgium"
-    followers: 9412
-    engagement: 1235
-    commentsToLikes: 0.150845
-    id: ck55ll4yg1tsz0i113p90q0ik
+    followers: 15344
+    engagement: 1070
+    commentsToLikes: 0.013085
+    id: cl9xi5woxo4bw0i23y4j9sls3
     verified: false
-    hashtags: "#sonyphotography, #sunsetlover, #travelblogging, #dronephotography"
+    hashtags: "#maison123, #summer, #smallluxuryhotels, #thedominican"
+  - username: "kelvinvanderlinde"
+    fullname: >-
+      Kelvin van der Linde
+    bio: >-
+      Racing Driver. Traveling the world. Creating things @vdlbros.
+    location: "Belgium"
+    followers: 76900
+    engagement: 1401
+    commentsToLikes: 0.010557
+    id: ck0w02wy6c4a70i1903d4bmhe
+    verified: true
+    hashtags: "#racedriver, #dtm, #motivation, #nordschleife"
+  - username: "coconut_story_"
+    fullname: >-
+      Karim & Eloïse 🥥
+    bio: >-
+      ♥ Married travel couple & content creators 🇧🇪 ♥ Social Media Manager Freelance - Web3 Entrepreneur ♥ Dog parents 🐾 ♥ Travel blog ↓
+    location: "Belgium"
+    followers: 15118
+    engagement: 541
+    commentsToLikes: 0.058612
+    id: ck8tdkczg3nxt0j78szfp6nt8
+    verified: false
+    hashtags: "#travelcouple, #travelblogger, #yucatanmexico, #traveltheworld"
   - username: "nathaliemeskensofficial"
     fullname: >-
-      Nathalie Meskens
+      Nathalie Meskens/MSKNS
     bio: >-
-      Belgian Actress, singer, tv host, travel lover and a foodie
+      Belgian Actress, singer-songwriter, tv host, travel lover, a foodie and mom of the 2most amazing kids in the world❤️
     location: "Belgium"
-    followers: 245865
-    engagement: 901
-    commentsToLikes: 0.026324
+    followers: 262133
+    engagement: 466
+    commentsToLikes: 0.019395
     id: ck15q8ikm1ls10i1929c6dm67
     verified: false
-    hashtags: "#spon, #lima, #pampersbe, #weledamommy"
-  - username: "rosevaniity"
+    hashtags: "#newsingle, #music, #mskns, #holiday"
+  - username: "epicalpinepics"
     fullname: >-
-      Your Fav Guinean ✨
+      Robin Lardon
     bio: >-
-      🇬🇳| Brussels 🇧🇪 | Travel lover ✈️🌴| Business Management and Marketing 🎓
+      🇧🇪🌱 Belgian outdoor enthusiast. 👨🏻‍🎓🧬 PhD in bioscience engineering. 📷🏔 Sharing my best mountain/travel pics. 🚁🎞 Check my latest drone edits at:
     location: "Belgium"
-    followers: 11917
-    engagement: 1046
-    commentsToLikes: 0.131256
-    id: ck8t69d3scqyg0j78ijzc2y0s
+    followers: 18312
+    engagement: 382
+    commentsToLikes: 0.013397
+    id: ck8t5f8xe9yqc0j78exlz6by9
     verified: false
-    hashtags: "#outfitlove, #discoverunder10k, #outfit, #outfits"
-  - username: "sunlight_seeker"
+    hashtags: "#engelbergtitlis, #visitbelgium, #visitluxembourg, #nepal"
+  - username: "larissadc"
     fullname: >-
-      Sunshine Traveller Jetske ☀️
+      Larissa de Castro
     bio: >-
-      NICU nurse by day 👩‍⚕️ Sunlight lover at VACATION 😎 Belgian Girl 🇧🇪 FOLLOW for tips about travelling with a fulltime job ✈️
+      ✧ Belgian girl with Spanish blood ♡ Anna Giulia’s mom, baby #2 on the way 💕 ♡ Owner @maison28.be ♡ Traveling ✧ Ambassador @xotopremiumcars
     location: "Belgium"
-    followers: 6526
-    engagement: 898
-    commentsToLikes: 0.295884
-    id: ckaoyoog3iell0i78aautde8p
+    followers: 35727
+    engagement: 369
+    commentsToLikes: 0.028422
+    id: ck5c2dbt8x16u0i1192qksatn
     verified: false
-    hashtags: "#vacationideas, #summeraddicted, #vacationtimes, #traveldreamseeker"
-  - username: "liafailwijnen"
+    hashtags: "#mom, #suncare, #collistar, #product"
+  - username: "itisjessie.v"
     fullname: >-
-      ✰ 𝐓𝐑𝐀𝐕𝐄𝐋 ✰ 𝐈𝐍𝐒𝐏𝐎 ✰ 𝐅𝐀𝐒𝐇𝐈𝐎𝐍
+      Jessie V
     bio: >-
-      🌸 Sharing what i love 🎀 Travel | Fashion | Inspo 💌 liafail.wijnen98@hotmail.com
+      ~ Enjoy the little things in life ~ Belgium • 26 • Running • Walking • fashion • Traveling Stella 🐶
     location: "Belgium"
-    followers: 29727
-    engagement: 239
-    commentsToLikes: 0.105355
-    id: ck0vx1hkwwo3a0i194d524iz0
+    followers: 54495
+    engagement: 340
+    commentsToLikes: 0.018298
+    id: cky72qai4js6z0j233b2yalcs
     verified: false
-    hashtags: "#travelphotography, #travelblogger, #travelgram, #shein"
-  - username: "vanessaa.hn"
+    hashtags: "#bikinigirl, #christmas, #bikinibody, #beaglesofinstagram"
+  - username: "katinkakempeneers"
     fullname: >-
-      ꪜanessa | CREATIVE CONTENT
+      Model | Katinka Kempeneers🌺
     bio: >-
-      Travel | Edits | Photohacks Storyideas | Tutorials 📸 #vanessaahn ⬇️ Presets & Storysticker
+      ♡Content Creator|Freelance Model 📩 Inspo ♡ Lifestyle x Travel x Fashion x Animals 🌸TIKTOK 11K @leolive Katinka10 Portfolio📸👇🏻
     location: "Belgium"
-    followers: 12730
-    engagement: 1168
-    commentsToLikes: 0.257299
-    id: ck8tby4o8xn2d0j78b2x5x0v2
+    followers: 18024
+    engagement: 293
+    commentsToLikes: 0.205117
+    id: ck8t42efv59gc0j78s8ent8a2
     verified: false
-    hashtags: "#selflove, #kirschbl, #fotoideen, #minimal"
-  - username: "lynnfitbalance"
+    hashtags: "#magazine, #city, #christmas, #photo"
+  - username: "travel.in.my.soul"
     fullname: >-
-      Lynn Janssens
+      Elke ♡ Travel & Lifestyle
     bio: >-
-      ~ANTWERP~ 🎾tennisplayer🎾💪🏻fitgirl&personal coach💪🏻 LOVE TO TRAVEL😍
+      🥰Belgian traveller by heart 📍#belgium 📸model @elke.vandenborre 🏝✈️Owner of travelagency @soul_and_charm
     location: "Belgium"
-    followers: 9575
-    engagement: 574
-    commentsToLikes: 0.076375
-    id: ckaowvwmyaooz0i78nampmvq5
+    followers: 16461
+    engagement: 289
+    commentsToLikes: 0.026782
+    id: ckaowj3x395hu0i78fmx93dgq
     verified: false
-    hashtags: "#spain, #lifestyle, #dogmom, #fashion"
-  - username: "lesleystraveldiary"
-    fullname: >-
-      Lesley | Belgian traveller 🎒
-    bio: >-
-      ➳ Belgian #travelblogger 🇧🇪 Exploring with @hetisdemerckx 🌍 📍 Dreaming 🎒 🏆 3 x award winning travel blog • hetisdemerckx.be 📧 lesley@hetisdemerckx.be
-    location: "Belgium"
-    followers: 22364
-    engagement: 292
-    commentsToLikes: 0.044927
-    id: ckapac544vicn0i786qbsr9sh
-    verified: false
-    hashtags: "#inspiredtravelcouple, #venice, #brusselsairport, #thewanderingtourist"
-  - username: "lafilleagateaux"
-    fullname: >-
-      Kristel - Travel Blogger
-    bio: >-
-      Travel, lifestyle & food blogger 🌍 Content Creator | Story Teller | 📍Bxl but wanderlust spirit 🗺 Spending summer in #italy
-    location: "Belgium"
-    followers: 33641
-    engagement: 254
-    commentsToLikes: 0.035338
-    id: ck13anyz9rbif0i198idr8gqq
-    verified: false
-    hashtags: "#shein, #food, #cotebelge, #brussels"
+    hashtags: "#iamtb, #enjoywithcorendon, #exploremore, #dubaitravel"
 ---

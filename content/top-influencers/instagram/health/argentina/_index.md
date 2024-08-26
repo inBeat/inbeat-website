@@ -1,12 +1,60 @@
 ---
-title: Top 10 Health Instagram Influencers In Argentina In 2023
+title: Top 10 Health Instagram Influencers In Argentina In 2024
 description: >-
-  Find top health Instagram influencers in Argentina in 2023. Most popular hashtags: #love #happy #fitness.
+  Find top health Instagram influencers in Argentina in 2024. Most popular hashtags: #happy #love #travel.
 platform: Instagram
-hits: 226
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 226 Instagram influencers like this in Argentina for you to work with.
+hits: 218
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 218 Instagram influencers like this in Argentina for you to collaborate.
 profiles:
+  - username: "gabycogorno"
+    fullname: >-
+      Gaby Cogorno
+    bio: >-
+      Health Coach Mens sāna in corpore sāno @beshop_py @fitwaypy
+    location: "Argentina"
+    followers: 92375
+    engagement: 188
+    commentsToLikes: 0.016796
+    id: ck8t5wn82bhm30j78nrpx26gc
+    verified: false
+    hashtags: "#incomodidas, #ejercicio, #salud, #saludenocional"
+  - username: "cataguimarey"
+    fullname: >-
+      Cata Guimarey
+    bio: >-
+      🦋Founder @befitbycata 💪🏽Entreno y motivo a mujeres 🌎 🔜 IIN Health Coach 🔜Prof. De Yoga 🧘🏽‍♀️ ✨ @adidasar
+    location: "Argentina"
+    followers: 139007
+    engagement: 126
+    commentsToLikes: 0.025801
+    id: ck5q3nkfxllar0i11ze99lq3f
+    verified: false
+    hashtags: "#sukhaproductos, #mat, #matyoga, #befitbycata"
+  - username: "happylikeahippo"
+    fullname: >-
+      ʍɛʀʏ
+    bio: >-
+      v̲i̲d̲a̲ ̲s̲a̲n̲a̲ ̲-̲ ̲e̲q̲u̲i̲l̲i̲b̲r̲i̲o̲ ̲-̲ ̲m̲o̲t̲i̲v̲a̲c̲i̲ó̲n̲ ingeniera🤓 // Health Coach🍎 // eco♻️ 🚲🏖🍣💃🏋‍♀️🥳🧉🧘🏻‍♀️🥗👭🍷✈️🎾🇦🇷 📩 Charlas y Clases
+    location: "Argentina"
+    followers: 115036
+    engagement: 81
+    commentsToLikes: 0.018095
+    id: ck136a0yf5hgz0i19yz9j6j7l
+    verified: false
+    hashtags: "#workout, #hamburguesashlh, #quesovegano, #colgatezero"
+  - username: "kikasilvas"
+    fullname: >-
+      Kika Silva
+    bio: >-
+      TV Host Holistic Health Coach IIN  Founder @iki__cl - CEO @fundacion_roxy CoFounder @vogo_cl
+    location: "Argentina"
+    followers: 1009620
+    engagement: 16
+    commentsToLikes: 0.013329
+    id: ck14ikuhtfwvn0i19tphdo0ge
+    verified: true
+    hashtags: "#vogo, #streetstyle, #moda, #chile"
   - username: "csbotti"
     fullname: >-
       Camila Sol Botti ⚡️🌈 🖤
@@ -79,52 +127,4 @@ profiles:
     id: ck5zqgdfcujq60i14de5glgnw
     verified: false
     hashtags: ""
-  - username: "gabi_graf"
-    fullname: >-
-      Gabriela Graf Stillfried
-    bio: >-
-      📍Venezolana en México DF 🎬Conductora @canalclaro @queimportatv 👑2da Finalista MissVzla13 🥑Health CoachIIN 📩 gabs5323@hotmail.com
-    location: "Argentina"
-    followers: 170337
-    engagement: 344
-    commentsToLikes: 0.015512
-    id: ck5cauj95e5m70i11d52ccg55
-    verified: false
-    hashtags: "#throwback, #forevergratefull, #look, #ootd"
-  - username: "soledadfandino"
-    fullname: >-
-      Fandiño
-    bio: >-
-      📍@theremakenet Actriz y Conductora de TV / Actress & TV Host Alimentación intuitiva / PlantBased Chef NGI 🔜 Nutrición Integral / Health Coach IIN
-    location: "Argentina"
-    followers: 1105012
-    engagement: 189
-    commentsToLikes: 0.010563
-    id: ck13c4v87ymhq0i19488bic92
-    verified: true
-    hashtags: "#feriado, #santosabado, #alimentacionconsciente, #alimentacionintuitiva"
-  - username: "blanqui_ro"
-    fullname: >-
-      Blanca
-    bio: >-
-      💎Nutrición\Dietetica\Deporte🤸🏼‍♀️ realfooding 💙chef healthy 🌱dermo y nutricosmética diy #blanquinatural 👩🏼‍⚕️sociosanitaria 💌 blanc.arp@hotmail.com
-    location: "Argentina"
-    followers: 9398
-    engagement: 945
-    commentsToLikes: 0.633989
-    id: ck5btvesegojj0i11689jf1gd
-    verified: false
-    hashtags: "#sorteo, #premio, #foodinfluencer, #foodie"
-  - username: "amelialedesmaof"
-    fullname: >-
-      Amelia Ledesma
-    bio: >-
-      📽 Actriz 🥑 #HealthyLife 📲 Representante: Ernesto Talent Agency 🌟 Cuenta oficial
-    location: "Argentina"
-    followers: 18409
-    engagement: 2253
-    commentsToLikes: 0.022056
-    id: ck6ucruogh76y0j71sr0bdnik
-    verified: false
-    hashtags: "#kissmemore, #inlove, #amelialedesma, #amareternamente"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Cali In 2023
+title: Top 10 Lifestyle Instagram Influencers In Cali In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Cali in 2023. Most popular hashtags: #colombia #lifestyle #cali #fitness.
+  Find top lifestyle Instagram influencers in Cali in 2024. Most popular hashtags: #colombia #cali #lifestyle #photography.
 platform: Instagram
-hits: 32
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our platform has 32 Instagram influencers like this in Cali, Colombia for you to contact.
+hits: 33
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 33 Instagram influencers like this in Cali, Colombia for you to collaborate.
 profiles:
   - username: "nathaliaduquef"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck9wd786vedof0j78c7w5bgia
     verified: false
     hashtags: "#reels, #streetfood, #burgerlover, #cali"
-  - username: "caroferrerb"
-    fullname: >-
-      CARO FERRER ★Cycling★Lifestyle
-    bio: >-
-      🇨🇴Colombiana 📍Vivo la vida en Bici 👩🏼‍⚕️Fisioterapeuta ★ 🛒@ilvento.life_ 🚲@bicicletas.strongman Gobik•Look•Koo•Kask•ESPN ⇩ ⇩ ⇩ ⇩
-    location: "Colombia"
-    followers: 237300
-    engagement: 312
-    commentsToLikes: 0.014056
-    id: ck15u9qa3m4550i19gusw1mho
-    verified: false
-    hashtags: "#ilvento, #yolo, #cycling, #gobikwear"
   - username: "mcamilarodriguezf"
     fullname: >-
       María Camila Rodríguez
@@ -55,6 +43,18 @@ profiles:
     id: ck600tv4he9dz0i14ajb0997s
     verified: false
     hashtags: "#girl, #colombia, #beauty, #lifestyle"
+  - username: "natassiacapra"
+    fullname: >-
+      Natassia Capra Chamorro
+    bio: >-
+      🇨🇷 ½ Costa Rican 🇳🇮 ½ Nicaraguan ✉️capra.natassia@gmail.com Representante de @portdebras vendo la marca de athleisure Postres @dulcerencia
+    location: "Colombia"
+    followers: 55694
+    engagement: 157
+    commentsToLikes: 0.029927
+    id: ck5buahjmhfq80i11mjy17t7g
+    verified: false
+    hashtags: "#roseau, #muglerhm, #hmcostarica, #ferragamo"
   - username: "annyriveraduque"
     fullname: >-
       Anny Rivera
@@ -115,16 +115,16 @@ profiles:
     id: ck1355k1iztis0i19modiycp1
     verified: false
     hashtags: "#repost, #liveset, #spain, #livestreaming"
-  - username: "isabellacubillos"
+  - username: "alemontoya038"
     fullname: >-
-      ISABELLA CUBILLOS
+      𝐀𝐋𝐄   𝐌𝐎𝐍𝐓𝐎𝐘𝐀
     bio: >-
-      Founder @symmetric.sportswear ⚡️ Cali, Colombia Fitness / Workouts / Lifestyle
+      🥈Semifinalista @4elementoscol 🚴🏻‍♀️Ciclismo-Lifestyle 👩🏻‍💻Contadora Pública 🇨🇴Cali-Col 🩱By @bikinicoraldorado #vosquesisabes
     location: "Colombia"
-    followers: 96205
-    engagement: 159
-    commentsToLikes: 0.023262
-    id: ck8t6makke3v20j78m7phwtob
-    verified: false
-    hashtags: "#fitnessmotivation, #cardiohiit, #ootd, #fitness"
+    followers: 247944
+    engagement: 362
+    commentsToLikes: 0.014733
+    id: ck5ci7p09s62z0i11zukn12z6
+    verified: true
+    hashtags: "#run, #running"
 ---

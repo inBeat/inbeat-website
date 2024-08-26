@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Sydney In 2023
+title: Top 10 Makeup TikTok Influencers In Sydney In 2024
 description: >-
-  Find top makeup TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #makeup #sydney #foryoupage.
+  Find top makeup TikTok influencers in Sydney in 2024. Most popular hashtags: #makeup #fyp #sydney #foryoupage.
 platform: TikTok
 hits: 26
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 26 TikTok influencers like this in Sydney, Australia for you to collaborate.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 26 TikTok influencers like this in Sydney, Australia for you to collaborate.
 profiles:
   - username: "makeupbydrew_"
     fullname: >-
@@ -91,30 +91,6 @@ profiles:
     id: ckbffu4i5aq5q0j236gty6bbu
     verified: false
     hashtags: "#exersize, #beautifulbody, #fitness, #mysexymoves"
-  - username: "beazknees"
-    fullname: >-
-      maddi
-    bio: >-
-      20 she/her 🦦
-    location: "Australia"
-    followers: 780000
-    engagement: 1664
-    commentsToLikes: 0.009183
-    id: ck9skc03w80ec0j78pcoa404s
-    verified: false
-    hashtags: "#cosplay, #fyp, #disney, #vlog"
-  - username: "anishasharma1931"
-    fullname: >-
-      Anisha Sharma
-    bio: >-
-      Music❤ Nepal🇳🇵 Australia🇭🇲 Makeup artist 💄 Instagram for product details 😇
-    location: "Australia"
-    followers: 70600
-    engagement: 309
-    commentsToLikes: 0.111063
-    id: ck9c4zr6cq9y20j78qltcbs4g
-    verified: false
-    hashtags: "#trending, #shorthair, #foryoupage, #groupchat"
   - username: "sadlyelliot"
     fullname: >-
       *･ﾟ✧E l l i o t✧ *･ﾟ
@@ -127,4 +103,28 @@ profiles:
     id: ck8kmo0gf9hhg0j78pnk5jxrq
     verified: false
     hashtags: "#kenmakozume, #tinkerbell, #cosplayer, #tinkerbellcosplay"
+  - username: "brookie12601"
+    fullname: >-
+      Brooke
+    bio: >-
+      💕I appreciate you💕 🇦🇺Newcastle/Sydney Australia🇦🇺 🙂Smile beautiful🙂
+    location: "Australia"
+    followers: 19400
+    engagement: 1828
+    commentsToLikes: 0.022596
+    id: ckc384h9lwxjw0j231otyge09
+    verified: false
+    hashtags: "#trend, #greenscreenvideo, #outfit, #australiatiktok"
+  - username: "anishasharma1931"
+    fullname: >-
+      Anisha Sharma
+    bio: >-
+      Music❤ Nepal🇳🇵 Australia🇭🇲 Makeup artist 💄 Instagram for product details 😇
+    location: "Australia"
+    followers: 70600
+    engagement: 309
+    commentsToLikes: 0.111063
+    id: ck9c4zr6cq9y20j78qltcbs4g
+    verified: false
+    hashtags: "#mua, #euphoriamakeup, #latenighttiktok, #sydney"
 ---

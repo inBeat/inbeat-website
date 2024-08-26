@@ -1,130 +1,130 @@
 ---
-title: Top 10 Divers Instagram Influencers In United States In 2023
+title: Top 10 Divers Instagram Influencers In United States In 2024
 description: >-
-  Find top divers Instagram influencers in United States in 2023. Most popular hashtags: #tlpicks #melaninjourney #blacktravelfeed.
+  Find top divers Instagram influencers in United States in 2024. Most popular hashtags: #travel #bookreview #bookish #maternity.
 platform: Instagram
-hits: 2302
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 2302 Instagram influencers like this in United States for you to collaborate.
+hits: 2400
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 2400 Instagram influencers like this in United States for you to collaborate.
 profiles:
-  - username: "kelleesetgo"
+  - username: "angelazbao"
     fullname: >-
-      Kellee Edwards | Multi-Media Host
+      Angela Bao 🇨🇳🇺🇸
     bio: >-
-      Travel & Adventure Journalist/TV Host Pilot✈️| Global Explorer 🌍| Scuba Diver👌🏾 🎙@TravelandLeisure Let’s Go Together 🏆Winning TV Host @discoveryplus
+      Diverse books, maximalist looks. Highlighting books by BIPOC, women, and LGBTQIA+, outfits & rando makeup lewks. It’s not hoarding it’s MAXIMALISM.
     location: "United States"
-    followers: 151655
-    engagement: 120
-    commentsToLikes: 0.012824
-    id: ck5zjged0hjk30i14xuqhxidw
-    verified: true
-    hashtags: "#exploremore, #outdoorwomen, #inlovewithswitzerland, #pilotlife"
-  - username: "officersofcolor"
-    fullname: >-
-      Officers Of Color
-    bio: >-
-      ⚫️🔵⚫️ Celebrating the diversity in Law Enforcement. Showing the world a different perspective. Erasing the stereotype one day at a time. 🇺🇸
-    location: "United States"
-    followers: 33142
-    engagement: 689
-    commentsToLikes: 0.031483
-    id: ck13bso3wwzeg0i19pljegpug
+    followers: 15829
+    engagement: 698
+    commentsToLikes: 0.040151
+    id: ckv9fm9j73wjd0j23wpmvth35
     verified: false
-    hashtags: "#bluelinefamily, #blackandblue, #the, #thinblueline"
-  - username: "sonalicheruku"
+    hashtags: "#bookreels, #literature, #bookworm, #fitcheck"
+  - username: "smithalee"
     fullname: >-
-      Sonali ♡
+      Smitha An-Tione Lee
     bio: >-
-      @DiversifiTalent | @FlaveHouse Talent Management and Influencer Marketing
+      ATLANTA/SPARTANBURG Creative at @forwardvantage A Creative Entrepreneur who excels in fostering impactful discussions that creates diverse audiences
     location: "United States"
-    followers: 18593
-    engagement: 699
-    commentsToLikes: 0.121613
-    id: ck5zr272nvr8d0i140r7bz2zp
+    followers: 28666
+    engagement: 1739
+    commentsToLikes: 0.009292
+    id: ckqyz4byq4b9i0j23g2i4r3de
     verified: false
-    hashtags: "#happydiwali, #diwali, #inmyjs"
-  - username: "alexxandranicole"
+    hashtags: "#maternity, #maternityshoot, #weddingphotography, #engaged"
+  - username: "paulines.passport"
     fullname: >-
-      ALEX 🤍
+      Pauline | Adventure Travel
     bio: >-
-      ✩ bay area ✩ @gammaphibetacsuf ✩ ✩ panhellenic vp of diversity and inclusion ✩
+      Viet-American 🌎 Adventurer Encouraging Diversity Abroad & Outdoors ♡︎ Based in VA/DC | ✈︎ Currently 🚗 paulinespassport@gmail.com
     location: "United States"
-    followers: 2311
-    engagement: 2315
-    commentsToLikes: 0.084415
-    id: ckf5m59m2sb6e0j23l8ghpqfe
+    followers: 15755
+    engagement: 5186
+    commentsToLikes: -0.774649
+    id: cl7lda508vk700i23j1nj2rmu
     verified: false
-    hashtags: "#divafam, #bidday"
-  - username: "chrisandregtravel"
+    hashtags: "#womenwhodrone, #traveldiaries, #wanderireland, #mothernature"
+  - username: "thelifestylediaryy"
     fullname: >-
-      Chris and Reg Travel - Atlanta
+      Suman Kothari
     bio: >-
-      TRAVEL| WINE/SPIRITS | LIFESTYLE #atlantablogger #contentcreator Promoting #Diversity and #Inclusion in Travel and Lifestyle! ⬇️VIEW MEDIA KIT HERE⬇️
+      Lifestyle & Travel Creator🐥 🇮🇳 @gopro Ambassador 💎 @stylewithbliss Pilot 🪂 Scuba diver 🤿 Freediver 🌊 Horse rider 🐎 Youtube - 285k subscribers🔥
     location: "United States"
-    followers: 59522
-    engagement: 683
-    commentsToLikes: 0.028177
-    id: ckf5m5m1lscu60j230bu14xjm
+    followers: 564992
+    engagement: 754
+    commentsToLikes: 0.010944
+    id: ck6uevgydtb4y0j71wqufe2zj
     verified: false
-    hashtags: "#atlantaphotographer, #savannahgeorgia, #travelingislife, #canonusa"
-  - username: "oneikatraveller"
+    hashtags: "#punakha, #trip, #indian, #traveller"
+  - username: "houstonsgotspice"
     fullname: >-
-      Oneika Raymond🇨🇦🇯🇲 | TV Host
+      Christina Autry
     bio: >-
-      🎥 Emmy-nominated Journalist & Host ✊🏾 Amplifier of diverse voices | ✈️ Perpetual explorer 📺 @TravelChannel @NewYorkLiveTV 📧oneika@oneikaraymond.com
+      🌍 Showcasing Houston’s best international food + unique finds in the nation’s most diverse city! 🫶 Owner: @bayoubuzz Social Media
     location: "United States"
-    followers: 116532
-    engagement: 414
-    commentsToLikes: 0.041509
-    id: ck13c2kglyb9e0i19ah6upip8
-    verified: true
-    hashtags: "#lonelyplanet, #blacktravelmovement, #melaninjourney, #betchestravel"
-  - username: "katie_parrott"
-    fullname: >-
-      Katie Parrott (she/her)
-    bio: >-
-      26 | living on lutruwita/Tasmania 🇦🇺⁣ fat fashion ~ normalising diverse bodies mental health chats serious feed, no-filter stories 💌 @young_mgmt 💖🟪🔵
-    location: "United States"
-    followers: 27465
-    engagement: 429
-    commentsToLikes: 0.084044
-    id: ck5c38dwbysff0i117mn00qcd
+    followers: 310891
+    engagement: 521
+    commentsToLikes: 0.109472
+    id: ck139priimj350i19s6ru7m6k
     verified: false
-    hashtags: "#ad, #modibodi, #arthurpants, #yorkpinaforehack"
-  - username: "jovankalexndra"
+    hashtags: "#houstonfood, #htxfoodie, #halalfood, #eeeeeats"
+  - username: "_asipoftee_"
     fullname: >-
-      Jovanka Alexàndra
+      Tee George- Hiking & Outdoors
     bio: >-
-      🌊| Licensed Scuba Divers 🌏| Bibliophile|Astrophile|Thallasophile 🌱| @lembehfoundation ______________________________________
+      Encouraging diversity in the outdoors 🥾 Outdoor adventures in the Southeast & beyond 📍Atlanta 📩asipofteeblog@gmail.com Group Trips • Merch • Ebook ⤵️
     location: "United States"
-    followers: 42037
-    engagement: 641
-    commentsToLikes: 0.028980
-    id: ck14i7k21e1920i19ebi6p017
+    followers: 236575
+    engagement: 410
+    commentsToLikes: 0.056382
+    id: cl7zw0gp2zvxh0i231suj84u3
     verified: false
-    hashtags: "#exsportbags, #spreadthegoodness, #celebrategoodness, #womenempowerment"
-  - username: "irietoaurora"
+    hashtags: "#northgeorgia, #atlantaga, #northgeorgiamountains, #northga"
+  - username: "alexsandropalombo"
     fullname: >-
-      Noami 🇹🇹| Dustin | Amara 🐶
+      aleXsandro Palombo
     bio: >-
-      Writer | Podcaster | Digital Nomad 🚐 Irie: state of feeling great 👩🏾‍💻Founder @diversify.vanlife 🎙@nomadsattheintersectionspod 💰@irietoaurora LINKS👇🏾
+      Contemporary Pop artist & Activist, focusing on Pop culture, society, diversity, ethics & human rights. Authentic Outsider info@alexsandropalombo.com
     location: "United States"
-    followers: 57125
-    engagement: 292
-    commentsToLikes: 0.043219
-    id: ck0vw628ss9r40i19dl3u0nx3
+    followers: 22141
+    engagement: 2369
+    commentsToLikes: 0.046584
+    id: ck5hrd1ebuo0s0i11zqz9j516
     verified: false
-    hashtags: "#sayhisname, #blacklivesmatter, #canidaecrew, #melaninpoppin"
-  - username: "bj.thetraveller"
+    hashtags: "#humanrights, #iran, #ellyschlein, #iranrevolution"
+  - username: "maryandherlibrary"
     fullname: >-
-      B.Scott | Adventure Traveller
+      mary 🦋
     bio: >-
-      📍Expat in Australia Photographer 📷 USMC VET 🏅 Certified Chef 🔪 Certified Diver🤿 Adventurer 🏄🏽 Gamer 🎮
+      🇩🇪🏳️‍🌈 | 22 #bookstagram 📚 co-host of @diversifyyourshelves
     location: "United States"
-    followers: 8990
-    engagement: 613
-    commentsToLikes: 0.092716
-    id: ck8t0ha4vs22x0j78jby8l3k4
+    followers: 6622
+    engagement: 537
+    commentsToLikes: 0.069556
+    id: ck8t2l7d5zuou0j78z0dbdhq2
     verified: false
-    hashtags: "#soulsociety, #blacktravelmovement, #theblacktravelclub, #blackvoyageurs"
+    hashtags: "#featuredbooklovers, #diversebooks, #bookreview, #booksofig"
+  - username: "whereintheworldiselshu"
+    fullname: >-
+      Elshu ✈︎ Travel, Hiking, Adventure
+    bio: >-
+      ✈️ Traveling the world solo on a budget 🥾 Encouraging diversity in the outdoors 💌 collabs.elshu@gmail.com 🌍 Ethiopian American | ♥️Join YT fam⤵️
+    location: "United States"
+    followers: 69770
+    engagement: 515
+    commentsToLikes: 0.025719
+    id: clhheu6ktvj2v0j08wrmz5yz7
+    verified: false
+    hashtags: "#travelblogger, #travelgram, #femaletravel, #blacktravelgram"
+  - username: "annieelainey"
+    fullname: >-
+      Annie Segarra
+    bio: >-
+      ✍️ Writer, Digital Creative, Advocate ♿️ ♾ Disabled (EDS &co) 🏳️‍🌈 Queer 🇵🇪 Latinx 🧿 🗣 Accessibility, Diverse Representation, Mental Health 📍Tampa, FL
+    location: "United States"
+    followers: 32161
+    engagement: 411
+    commentsToLikes: 0.027995
+    id: ck5ch7i95q8q00i11v0p46te4
+    verified: false
+    hashtags: "#pots, #disability, #spoonie, #ad"
 ---

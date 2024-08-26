@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Makeup Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top makeup Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #makeup #dubai #uae.
+  Find top makeup Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #dubaiblogger #makeup #ootd.
 platform: Instagram
-hits: 290
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 290 Instagram influencers like this in United Arab Emirates for you to contact.
+hits: 318
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 318 Instagram influencers like this in United Arab Emirates for you to work with.
 profiles:
   - username: "haya.husseinn"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck5qdug14xdcq0i1196ia6p2h
     verified: false
     hashtags: "#makeup"
-  - username: "mayadaa.hisham"
+  - username: "anastasile"
     fullname: >-
-      Mayada Hisham ميادة هشام
+      ANASTASILE 💋
     bio: >-
-      🇪🇬Alexandria 💉 Clinical Pharmacist ⚜️ Partner At @hammam.al.sham ⚜️partner At @ricciclinic 💄 Makeup Artist 📤 For Inquiries: Admin@MayadaHisham.com
+      Queen of makeup transitions 💕 TikTok 5,8m❤️‍🔥 AD/PR mail@globaldigital.agency
     location: "United Arab Emirates"
-    followers: 574178
-    engagement: 48
-    commentsToLikes: 0.215827
-    id: ck5hcfjb1ht880i11o76rw5y9
+    followers: 2841609
+    engagement: 1049
+    commentsToLikes: 0.004072
+    id: cl2y2ox35vtv20i23ofk0ffaq
     verified: false
-    hashtags: "#makeupparty, #makeup, #copied, #happygraduation"
-  - username: "zainabalalwan_"
+    hashtags: "#birthday, #transition, #makeup, #hairstyle"
+  - username: "glowmonster3460"
     fullname: >-
-      Zainab Al Alwan
+      Duaa Siddiqui
     bio: >-
-      👻 Zainab_Makeup Business inquires: +973 33344432 📧 Zainabalwan_makeup@outlook.com
+      📍🇵🇰🇦🇪 Makeup Lover💄 Wife to @bilalkhan228 ❤️💋 Pr managed by @page3magazine
     location: "United Arab Emirates"
-    followers: 1635305
-    engagement: 124
-    commentsToLikes: 0.009298
-    id: ck5q655jvvzno0i112bv1huqn
-    verified: true
-    hashtags: "#superfriday, #6thstreetstyle, #supernovember, #iamseamless"
-  - username: "gisoodiba"
-    fullname: >-
-      GISOO DIBA
-    bio: >-
-      Beauty & makeup Youtube:Gisoodiba Businesses:gisoodiba@gmail.com www.gisoodiba.com 💍@navidaneshfar Based in dubai
-    location: "United Arab Emirates"
-    followers: 620892
-    engagement: 1412
-    commentsToLikes: 0.069284
-    id: ck6u5giqa9i3g0j71azzfhbkm
+    followers: 222068
+    engagement: 1446
+    commentsToLikes: 0.011528
+    id: ck15qg1at2nxy0i19zj8n9h5u
     verified: false
-    hashtags: "#makeup, #hudabeauty, #kyliecosmetics, #fentybeauty"
-  - username: "nour.ghazwan"
+    hashtags: ""
+  - username: "isma.diaries"
     fullname: >-
-      نُورْ غَزوانْ
+      Isma Imran
     bio: >-
-      Feminist ♀ ♀ #dubai 🇦🇪 #makeup #lifestyle #motherhood For business dm please 📩 Snapchat : nour.mallouk
+      🇴🇲🇦🇪🇵🇰 ( A little bit of everything ) -@isma.studios for makeup bookings💄 - CHECK MY LINKS 👇🏻
     location: "United Arab Emirates"
-    followers: 249127
-    engagement: 233
-    commentsToLikes: 0.262721
-    id: ckap0lrktqv3j0i782sme8haj
+    followers: 180576
+    engagement: 557
+    commentsToLikes: 0.040652
+    id: ck13983stk0g90i19fycp0f1g
     verified: false
-    hashtags: "#dubai, #kuwait, #abudhabi, #africa"
-  - username: "alintzaa"
+    hashtags: "#motfpartner, #vlog, #ismaimran, #mymotf"
+  - username: "rimshaasiddiqi"
     fullname: >-
-      Alintzaa
+      Rimsha | Makeup Artist Dubai
     bio: >-
-      💄 makeup and skincare 👗 fashion ✈️ travel Living a bikini kind of life 👙 📍Dubai 🇦🇪
+      📍Dubai-UAE🇦🇪/🇵🇰 💄Aspiring Makeup Artist 📸Content Creator 📩DM/Email For Inquires
     location: "United Arab Emirates"
-    followers: 48958
-    engagement: 322
-    commentsToLikes: 0.102782
-    id: ck5c3fio4z8880i11ivk1g8i1
+    followers: 5458
+    engagement: 642
+    commentsToLikes: 0.074835
+    id: ck9wgfno1t7j80j785h32c1tf
     verified: false
-    hashtags: "#travelblogger, #mydubai, #fashionstyle, #beachclub"
-  - username: "sinead_murphy_"
+    hashtags: "#skincareflatlay, #makeuplovers, #makeupreview, #likeforlikes"
+  - username: "shafiasohail"
     fullname: >-
-      Sinead Murphy
+      Shafia
     bio: >-
-      PRO MAKEUP ARTIST 📍Ireland & Dubai Ambassador @inglotireland Owner @sineadmurphy_makeup Collabs/Business enquiries - sineadmurphymakeup@gmail.com
+      Bridal Makeup Artist✨💄 ❕Open for Bridal, Party Booking 2023-2024 DM for booking/ Enquiries Owner @m.s.a_boutique @shafiasohail2.0
     location: "United Arab Emirates"
-    followers: 19487
-    engagement: 380
-    commentsToLikes: 0.073695
-    id: ckaoxvkgyexvx0i78v159ugi9
+    followers: 5303
+    engagement: 336
+    commentsToLikes: 0.106325
+    id: ck5qcheprqkzh0i118pk5pim1
     verified: false
-    hashtags: "#sineadmurphymakeup, #inglotxmaura, #dubai, #makeup"
-  - username: "juliaa_aks"
+    hashtags: "#blackandgold, #jewelryindubai, #eidready, #tiktoktrends"
+  - username: "hajertareq"
     fullname: >-
-      • Julia ✈️ Flight Attendant •
+      Hajer Tareq - هاچر طارق
     bio: >-
-      • 24 y.o. Russian 🇷🇺 Based in Dubai 🇦🇪 UAE • • 36/195 countries 🌏• • Follow your dreams♥️ • • Mua page: @make.up.aks 💋•
+      🧿🕊 🇱🇧 | 🇪🇬 Fashion | lifestyle | Beauty | Makeup Hajertareqofficial@gmail.com
     location: "United Arab Emirates"
-    followers: 7770
-    engagement: 1840
-    commentsToLikes: 0.023622
-    id: ckap6auoof49f0i78ehmd6pq9
+    followers: 1013798
+    engagement: 323
+    commentsToLikes: 0.012467
+    id: ckaotw2hixrcq0i78u4xjsky0
     verified: false
-    hashtags: "#uae, #summervibes, #autumn, #kazan"
-  - username: "nidasbeautybag"
+    hashtags: ""
+  - username: "majdouline_nazih"
     fullname: >-
-      Nida Arshad
+      Majdouline Saoud
     bio: >-
-      📍Dubai #dubai🇦🇪 💋Creative Makeup Artist 🏆Filmfare Arab Asia Starz2 1st Runner up in ‘Beauty’ 📩 Business/ PR: nidaarshad@live.com
+      NEW HIJABI 🫀 Influencer\model\ makeup artist الإعلانات التواصل على الخاص 🎀
     location: "United Arab Emirates"
-    followers: 61576
-    engagement: 122
-    commentsToLikes: 0.255835
-    id: ck5bxldlvny3o0i113hngxmmk
+    followers: 409522
+    engagement: 314
+    commentsToLikes: 0.002952
+    id: ckxp82fdbad310j23jpktchje
     verified: false
-    hashtags: "#sheglam, #trending, #hudabeauty, #transition"
-  - username: "ahlam.soufan"
+    hashtags: "#trueserenity, #authenticliving, #realconnections"
+  - username: "divsglam"
     fullname: >-
-      Ahlam Soufan | Makeup Artist💄
+      Divya
     bio: >-
-      Makeup artist 💄 LvL 👁 Eyebrow lamination 🇯🇴🇨🇴📍🇦🇪UAE YouTuber Tiktok:Ahlam.soufan
+      🇮🇳 living in 🇦🇪 A makeup obsessed girlie 💄eating her way in Dubai 🍜and traveling the world ✈️ Influencer marketer 👩‍💻
     location: "United Arab Emirates"
-    followers: 23564
-    engagement: 284
-    commentsToLikes: 0.038521
-    id: ck135bxk30ptf0i192j0v3f45
+    followers: 8798
+    engagement: 434
+    commentsToLikes: 0.052163
+    id: ck0w5yyqt63wf0i19rvjgig4v
     verified: false
-    hashtags: "#our"
+    hashtags: "#beach, #adventure, #nepal, #dubaitravel"
+  - username: "diana.mohameddd"
+    fullname: >-
+      🎀 ديـانا || Diana 🎀
+    bio: >-
+      🇪🇬🇦🇪 Makeup Artist|| Blogger|| lifestyle🛍 Based in UAE 🇦🇪 Electrical Engineer👷‍♀️ MoM of 3 👩‍👩‍👦 DM for collabs. 📩 Eng.diana91@Gmail.com 📩
+    location: "United Arab Emirates"
+    followers: 318915
+    engagement: 204
+    commentsToLikes: 0.062565
+    id: ckaoy9dbvgjsg0i78v7ukb6h1
+    verified: false
+    hashtags: "#fashion, #makeuptutorial, #ootd, #makeup"
 ---

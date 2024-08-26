@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Chicago In 2023
+title: Top 10 Athletes Instagram Influencers In Chicago In 2024
 description: >-
-  Find top athletes Instagram influencers in Chicago in 2023. Most popular hashtags: #athlete #chicago #model.
+  Find top athletes Instagram influencers in Chicago in 2024. Most popular hashtags: #chicago #chicagomodel #athlete.
 platform: Instagram
-hits: 73
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 73 Instagram influencers like this in Chicago, United States for you to work with.
+hits: 84
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 84 Instagram influencers like this in Chicago, United States for you to connect with.
 profiles:
   - username: "heldilox"
     fullname: >-
@@ -31,66 +31,6 @@ profiles:
     id: ck8t2eowzz77z0j78aadtxhmg
     verified: false
     hashtags: "#bullsnation, #basketball, #detroitpistons, #athlete"
-  - username: "priscillamoy"
-    fullname: >-
-      ✨𝒫𝑅𝐼𝒮𝒞𝐼𝐿𝐿𝒜 𝑀𝒪𝒴 ✨
-    bio: >-
-      🇨🇳🇺🇸♌️ © Chicago ⇢📍Las Vegas Model•Actress•Dancer Athlete•Painter•YouTuber Illinois Wesleyan '15 @focus_mediagroup @bestagencylv @envymodels
-    location: "United States"
-    followers: 45108
-    engagement: 170
-    commentsToLikes: 0.109554
-    id: ck0vuw6wxmfun0i198b0j1dan
-    verified: false
-    hashtags: "#ootd, #tonedgirls, #lasvegasmodels, #explorevegas"
-  - username: "joshdixon"
-    fullname: >-
-      Josh Dixon
-    bio: >-
-      📍SoCal •athlete, entrepreneur, owner @chicagoredstars ⚽️ •alumni: @TeamUSA 🇺🇸 🤸🏽‍♂️ | @stanford 🌲🤓
-    location: "United States"
-    followers: 238675
-    engagement: 173
-    commentsToLikes: 0.025664
-    id: ck0tzs1csre3b0i19vcydn7vo
-    verified: true
-    hashtags: "#la, #team, #athlete, #tech"
-  - username: "courtneygano"
-    fullname: >-
-      Courtney Gano Gaddy
-    bio: >-
-      CONNECTED TO THE SOURCE Mama & Wife 🤍 Pro Softballer @chicagobandits Wilson Athlete @wilsonballglove Louisville Slugger Athlete @sluggerfp
-    location: "United States"
-    followers: 30154
-    engagement: 579
-    commentsToLikes: 0.019692
-    id: ck6u5w7fhc3vo0j71cos3u642
-    verified: true
-    hashtags: "#2020, #blackboyjoy, #rxt, #ad"
-  - username: "alecmapa"
-    fullname: >-
-      Alec Mapa
-    bio: >-
-      Series Regular. Podcast - ALEC MAPA: HOT MESS with @mjdempseypsych !
-    location: "United States"
-    followers: 30280
-    engagement: 235
-    commentsToLikes: 0.059040
-    id: ck6uhy9n4by6v0j71v1j8dze2
-    verified: true
-    hashtags: "#gaydads, #blacklivesmatter, #trans, #dadsofinstagram"
-  - username: "mlbmemegod"
-    fullname: >-
-      MLB Memes ⚾️
-    bio: >-
-      Follow me for: 😂 Baseball Memes ⚾️ MLB News 🎥 Videos ❓Polls and much more DMs open for Promo/Business, Meme Ideas Blocked by Jose Altuve 😂 FOLLOW👇👇👇👇👇
-    location: "United States"
-    followers: 18733
-    engagement: 1131
-    commentsToLikes: 0.015694
-    id: ck15u0qm8kutq0i19mu0xbgdp
-    verified: false
-    hashtags: "#mlbtrades, #javierbaez, #mlbmemes, #mlbtrade"
   - username: "kenkenbeastmode"
     fullname: >-
       Kennedy Moore
@@ -103,28 +43,88 @@ profiles:
     id: ck14jsrlolzv50i192uvhbjpc
     verified: false
     hashtags: "#model, #2020, #fun, #chicagomodel"
-  - username: "tayansagestans"
+  - username: "carlodarang"
     fullname: >-
-      Tayan Stansfield
+      Carlo Darang
     bio: >-
-      Tayyy mlchs | Chi @therockagency | Nash @amaxagency | Booking: ntennicott@therockagency.com Miss Teen Shelby Co | fitness addict | adventurer | KY |
+      #Dancer | #Choreographer | @kinjaz | Co-Director: @ChoreoCookies and @gwownups | @buildingblock_ & @studiofxlive | Contact: CarloDarang@gmail.com
     location: "United States"
-    followers: 8782
-    engagement: 1217
-    commentsToLikes: 0.216303
-    id: ckap4d3zc6t580i781orsx7ny
+    followers: 26449
+    engagement: 528
+    commentsToLikes: 0.017602
+    id: ck15su99zetuq0i19bqkrp33e
     verified: false
-    hashtags: "#tayansage, #urbanoutfitters, #fitnessobsessed, #therockagency"
+    hashtags: "#dance, #movementintheshadows, #changesthemovement, #choreography"
   - username: "tierna_davidson"
     fullname: >-
       Tierna Davidson
     bio: >-
       USWNT | Chicago Red Stars @nike Athlete @wasserman
     location: "United States"
-    followers: 66558
-    engagement: 1403
-    commentsToLikes: 0.002985
+    followers: 88873
+    engagement: 1018
+    commentsToLikes: 0.005309
     id: ck0vxgrezytf60i19gls82kqc
     verified: true
-    hashtags: "#blackouttuesday, #youcantstopus, #betrue, #untilweallwin"
+    hashtags: "#tokyo2020, #allstatepartner, #soccer, #soccertraining"
+  - username: "agilli16"
+    fullname: >-
+      Arin Wright {gilliland}
+    bio: >-
+      Chicago Red Stars @adidas Athlete @nwsl KY ➡️ CHI
+    location: "United States"
+    followers: 11208
+    engagement: 724
+    commentsToLikes: 0.022140
+    id: ck0tt5vs31an10i19jkybhr8g
+    verified: false
+    hashtags: "#therealheros, #firstmothersday, #heavenonearth, #blackouttuesday"
+  - username: "caroline_dolehide"
+    fullname: >-
+      Caroline Dolehide
+    bio: >-
+      🇺🇸 est. 1998 🌃 Chicago - Orlando Professional ASICS Athlete 🥇 2019 Pan American Gold and Silver Medalist
+    location: "United States"
+    followers: 17652
+    engagement: 671
+    commentsToLikes: 0.030976
+    id: ck55mp5vr4g7s0i11zde23vqp
+    verified: true
+    hashtags: "#nooffense, #lfg, #beboldgetcold, #nyc"
+  - username: "caseykrueger"
+    fullname: >-
+      Casey Krueger
+    bio: >-
+      Wife to @ckruegerrr . Pro Footballer for Chicago Red Stars. Nike Athlete.FSU Alum. Isaiah 40:28-31. Don’t settle for less than an extraordinary life
+    location: "United States"
+    followers: 40940
+    engagement: 1044
+    commentsToLikes: 0.012752
+    id: ckapcmoae4dgu0i7879cclrq0
+    verified: true
+    hashtags: "#goldendoodle, #isaidyes, #timesuppayup, #indoorrelay"
+  - username: "aesthetics.rockstar"
+    fullname: >-
+      Vlad
+    bio: >-
+      Rockstar of aesthetics 🔱🎸 ⚡️Fitness lifestyle ⚡️ @evogennutrition Athlete 🧬 TikTok 50,000+ 📍Chicago
+    location: "United States"
+    followers: 2115
+    engagement: 1113
+    commentsToLikes: 0.027954
+    id: ck9ha3st5b0tv0j78lgmcvx3d
+    verified: false
+    hashtags: "#benchwork, #bicepcurls, #shouldersday, #lowerabs"
+  - username: "gidepat"
+    fullname: >-
+      Gideon Patrick O
+    bio: >-
+      #LoVe ThE LiFe YoU LiVe, LiVe ThE LiFe YoU LoVe, #BeLiEvE In YoUrSeLf . 📍Chicago 🇳🇬🇺🇸 ♌️ @selectmodelglobal Chi/ Miami
+    location: "United States"
+    followers: 13437
+    engagement: 1180
+    commentsToLikes: 0.044779
+    id: ck0vz7u787qu60i193f8wbzvw
+    verified: false
+    hashtags: "#fashionmodel, #fashionshoot, #explorepage, #fitness"
 ---

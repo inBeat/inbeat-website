@@ -1,24 +1,48 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Montreal In 2023
+title: Top 10 Fitness Instagram Influencers In Montreal In 2024
 description: >-
-  Find top fitness Instagram influencers in Montreal in 2023. Most popular hashtags: #fitness #montreal #toronto #fit.
+  Find top fitness Instagram influencers in Montreal in 2024. Most popular hashtags: #fitness #montreal #training #boxe.
 platform: Instagram
-hits: 20
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 20 Instagram influencers like this in Montreal, Canada for you to collaborate.
+hits: 41
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 41 Instagram influencers like this in Montreal, Canada for you to contact.
 profiles:
-  - username: "miraclewhips123"
+  - username: "outwithshev.mtl"
     fullname: >-
-      Miracle Whips
+      Shev | Montreal Foodie
     bio: >-
-      ✌️Roller Derby Skater ⚜️ MTL New Skids 🇨🇦 Team Canada 2017 🙌 Riedell▫️Frogmouth▫️S-One 5000+ Camp Attendees #miraclewhipscoaching
+      MTL eats | coffee | life Boujie Broké - restaurants or activities - invites-reviews-recommendations ⬇️ 📍Based in Montreal, Canada
     location: "Canada"
-    followers: 17786
-    engagement: 484
-    commentsToLikes: 0.017957
-    id: ck136id0t6moj0i19bkzk15dm
+    followers: 6495
+    engagement: 279
+    commentsToLikes: 0.304696
+    id: cln3emz74f0ay0j08nkycz4pl
     verified: false
-    hashtags: "#rampskating, #wftda, #rollerderby, #spinning"
+    hashtags: "#love, #mood, #explore, #fitness"
+  - username: "speedballbailey"
+    fullname: >-
+      Speedball Mike Bailey
+    bio: >-
+      Professional Wrestler in Canada, Japan and Europe. Martial Arts. Tricking. Traveling. #MLX2017 Em19966@hotmail.com
+    location: "Canada"
+    followers: 7937
+    engagement: 768
+    commentsToLikes: 0.036658
+    id: ck5q3ca1mk6dl0i11d0yg143w
+    verified: false
+    hashtags: "#travel, #backflip, #lutte, #photography"
+  - username: "abedelsafadi"
+    fullname: >-
+      T E A M A B E D🦁
+    bio: >-
+      Canada, Montréal 🇲🇦|🇵🇸 Professionnel Boxer🥊 Record: 3-0-0💥 Active on Snapchat 👻 : Abed80 -What doesn't kill you makes you stronger-👑
+    location: "Canada"
+    followers: 2821
+    engagement: 1275
+    commentsToLikes: 0.037345
+    id: ck601tcd3g4vt0i14dqtejepg
+    verified: false
+    hashtags: "#boxer, #mma, #boxinggym, #champion"
   - username: "wilyuarata"
     fullname: >-
       Wil Yuarata|🇵🇭
@@ -31,100 +55,76 @@ profiles:
     id: ck5ccr721huzj0i11zwthohfh
     verified: false
     hashtags: "#pnw, #summer2020, #vancity, #creatorsofvancity"
-  - username: "abedelsafadi"
+  - username: "miraclewhips123"
     fullname: >-
-      T E A M A B E D🦁
+      Miracle Whips
     bio: >-
-      Canada, Montréal 🇲🇦|🇵🇸 Professionnel Boxer🥊 Record: 3-0-0💥 Active on Snapchat 👻 : Abed80 -What doesn't kill you makes you stronger-👑
+      ✌️Roller Derby Skater ⚜️ MTL New Skids 🇨🇦 Team Canada 2017 🙌 Riedell▫️Frogmouth▫️S-One 5000+ Camp Attendees #miraclewhipscoaching
     location: "Canada"
-    followers: 2821
-    engagement: 1275
-    commentsToLikes: 0.037345
-    id: ck601tcd3g4vt0i14dqtejepg
+    followers: 17786
+    engagement: 484
+    commentsToLikes: 0.017957
+    id: ck136id0t6moj0i19bkzk15dm
     verified: false
-    hashtags: "#workout, #judo, #boxeo, #fighter"
-  - username: "monicawehlan"
+    hashtags: "#wftda, #rollerderby, #rampskating, #winkwink"
+  - username: "meemiegosselin"
     fullname: >-
-      Monica Wehlan
+      Meemie Gosselin | Mom Boss ✨
     bio: >-
-      Mexican🇲🇽 German 🇩🇪 Outdoors gal with a great passion for music, sports, nature & movies. 🌱 ⚽️ 🎵 🎥 📍Montreal, Canada 🇨🇦
+      Be U, Be Unique is my phrase ✨ Authenticity level 1000 💯 Owner of @dammyawear 👙 Mom of soon to be three 👨‍👩‍👧‍👦🤰🏻
     location: "Canada"
-    followers: 276189
-    engagement: 77
-    commentsToLikes: 0.028659
-    id: ckapbpr9f0uke0i78xiz6fpvy
+    followers: 38702
+    engagement: 25
+    commentsToLikes: 0.007706
+    id: ckaorahrnmf6t0i78s8y4ilvx
     verified: false
-    hashtags: "#lesoleilbrille, #hiking, #summer, #quebec"
-  - username: "jean.phil.l"
+    hashtags: "#beubeunique, #picoftheday, #bodypositive, #outfitoftheday"
+  - username: "loganmedeiros"
     fullname: >-
-      Jean-Philip / JP
+      Logan Medeiros
     bio: >-
-      Montréal 🇨🇦 👨🏼‍⚕️🏋🏼‍♂️🌎😇 What you put out to the world is what you will get in return 💫
+      fashion, fitness, beauty & lifestyle 📍montréal 💌 loganmedeiros44@gmail.com tiktok (270k), links & more:
     location: "Canada"
-    followers: 86006
-    engagement: 421
-    commentsToLikes: 0.041431
-    id: ckap7uq39lnay0i780rancqgx
+    followers: 33499
+    engagement: 6576
+    commentsToLikes: 0.051953
+    id: ckf5n0rnmw99f0j238jo8l9i0
     verified: false
-    hashtags: "#motivation, #christmas, #love, #workout"
-  - username: "working_chix"
+    hashtags: "#apartmentlife, #highrise, #aesthetic, #apartmentliving"
+  - username: "fairygramz"
     fullname: >-
-      Anna Przezak
+      Ferdaous Ben Abderrahmen
     bio: >-
-      Fashion, Beauty, Lifestyle, Personal Finance CPA, CA / Manager from 9 to 5 / Polish girl from Montreal, living in👇🏻 📍Toronto 📩 workingchix@gmail.com
+      Lifestyle, beauty and fitness 📧 ferdaws.bn@gmail.com 📍 Montreal 🇨🇦 YouTube and social links ⬇️
     location: "Canada"
-    followers: 33270
-    engagement: 127
-    commentsToLikes: 0.041714
-    id: ck9wh6amgwge60j782z3gl8jx
+    followers: 117064
+    engagement: 788
+    commentsToLikes: 0.014006
+    id: cksh9xngfvq8e0j2327l3eptw
     verified: false
-    hashtags: "#toronto, #homedecor, #torontoblogger, #luxyhair"
-  - username: "martinegauthier1"
+    hashtags: "#momlife, #commense, #canadianinfluencer, #sheinforall"
+  - username: "christopher_the_pig"
     fullname: >-
-      martine gauthier
+      
     bio: >-
-      Fitness model canadian🇨🇦 & portugues🇵🇹 Training💪metal chick🎸alt model Sold my soul to rock and roll For business model Collaboration Dm
+      👍🏻شوف الاىىىـ/ـتوري وتفهم كل شي سبحانك ربي ان كنت من الضالمين @instagram @christopher_the_pig
     location: "Canada"
-    followers: 4701
-    engagement: 467
-    commentsToLikes: 0.073722
-    id: ck15r8yx46qwl0i19lss1eo0i
-    verified: false
-    hashtags: "#lingeriemodel, #valentinephotoshoot, #gothgirlsofinstagram, #fitnessgirldoitbetter"
-  - username: "sherbatov"
+    followers: 103558
+    engagement: 273
+    commentsToLikes: 0.016314
+    id: ck135rz2d2xiy0i19q8sd5mum
+    verified: true
+    hashtags: "#vegan, #instapig, #fun, #animals"
+  - username: "frankboxingcoach"
     fullname: >-
-      Eliezer Sherbatov
+      François Haché Lacombe
     bio: >-
-      Professional Hockey Player (Mariupol, UA) 🇨🇦From Montreal 🇮🇱Born in Israël 🇷🇺Русский говорящий 🎹Pianist 🌱Vegan lover @sherbatovgym @sherbatovfit
+      🥊Former boxer, turned coach, 20yrs in the game 🧠No nonsense approach to boxing training 📩for Pro & Amateur Training @hayabusacombat Coach 📍Montreal
     location: "Canada"
-    followers: 26483
-    engagement: 342
-    commentsToLikes: 0.031349
-    id: ck5cgfgqyoqgj0i113j7go62b
+    followers: 512304
+    engagement: 211
+    commentsToLikes: 0.015302
+    id: ck5hj0h78fsg00i11u8yrt91t
     verified: false
-    hashtags: "#jewish, #mma, #poland, #dad"
-  - username: "stracey1"
-    fullname: >-
-      Stephen Tracey🇨🇦🇮🇪
-    bio: >-
-      From the farm to the runway Actor/Model •@annewithane 👨🏻 •@expanseonprime 🧑🏻‍🚀 S5 •Toronto •IHOP The Talent House 6829
-    location: "Canada"
-    followers: 137247
-    engagement: 488
-    commentsToLikes: 0.007521
-    id: ck6006a2xd0yo0i1405ll8nyz
-    verified: false
-    hashtags: "#fashionphotography, #menstyle, #thursdayboots, #style"
-  - username: "ayats94"
-    fullname: >-
-      A Y A T | آيــات
-    bio: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀ | Environmental Scientist ⠀⠀⠀⠀⠀⠀⠀⠀⠀ | 〽️ find me outside 〽️ ⠀⠀⠀⠀⠀⠀⠀⠀⠀ | 25 countries ↟ 22 states ⠀⠀⠀⠀⠀⠀⠀⠀⠀ | Colorado . Alberta . بغداد⁣
-    location: "Canada"
-    followers: 5374
-    engagement: 882
-    commentsToLikes: 0.136377
-    id: ck15qtiy64kid0i19rcvxn3dw
-    verified: false
-    hashtags: "#outdoorbella, #wyominglife, #coloradohikes, #coloradoinstagram"
+    hashtags: "#boxeo, #boxing, #mtlfitness, #mma"
 ---

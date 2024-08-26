@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Los Angeles In 2023
+title: Top 10 Fashion TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top fashion TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fashion #fyp #losangeles #ootd.
+  Find top fashion TikTok influencers in Los Angeles in 2024. Most popular hashtags: #fashion #fyp #losangeles #foryou.
 platform: TikTok
-hits: 144
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 144 TikTok influencers like this in Los Angeles, United States for you to work with.
+hits: 145
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 145 TikTok influencers like this in Los Angeles, United States for you to contact.
 profiles:
   - username: "cosette"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck7zo2x2ihagg0j784nsd54p8
     verified: true
     hashtags: "#experiment, #randomthings, #lifehack, #magic"
-  - username: "mariaaluisabb"
-    fullname: >-
-      MariaLuisa
-    bio: >-
-      IG: @mariaaluisabb Lifestyle | Fashion | Skincare Thelulubenavides@gmail.com
-    location: "United States"
-    followers: 16300
-    engagement: 460
-    commentsToLikes: 0.040134
-    id: ckb9q730xlspj0j23xo0p4snq
-    verified: false
-    hashtags: "#california, #lifestyle, #beauty, #style"
   - username: "majorwavezz"
     fullname: >-
       Majorwavez 
@@ -43,6 +31,30 @@ profiles:
     id: ck80crtx3aur40j78v451zh6u
     verified: false
     hashtags: "#customshoes, #majorwavezlab, #sneakerhead, #asmr"
+  - username: "afashionnerd"
+    fullname: >-
+      Amy Roiland
+    bio: >-
+      Fashion blogger A Fashion Nerd , @afashionnerd living in Los Angeles 💕
+    location: "United States"
+    followers: 54500
+    engagement: 1078
+    commentsToLikes: 0.040816
+    id: ck9k9omuudzo80j78c4fbrndi
+    verified: false
+    hashtags: "#madcapmotel, #fashiontok, #thrifted, #fy"
+  - username: "itsobinwankwo"
+    fullname: >-
+      Obi Nwankwo👑
+    bio: >-
+      🌴LA Afrikan boi 🇳🇬 Actor • Model • Designer 📧: obinwankwomgmt@yahoo.com
+    location: "United States"
+    followers: 112700
+    engagement: 1572
+    commentsToLikes: 0.044358
+    id: ck9f1qbc29ce60j78vrb1ng7q
+    verified: false
+    hashtags: "#fashiontiktok, #foryoupage, #fyp, #yearontiktok"
   - username: "marccolcer"
     fullname: >-
       Marc Colcer
@@ -55,6 +67,18 @@ profiles:
     id: ckbeyufd2jiua0j23fnnszccw
     verified: false
     hashtags: "#foryoupage, #modeling, #bikini, #photoshoot"
+  - username: "greg.rha"
+    fullname: >-
+      Greg
+    bio: >-
+      CoFounder of andagain Artist Success at MakersPlace
+    location: "United States"
+    followers: 4499
+    engagement: 925
+    commentsToLikes: 0.031791
+    id: ckcjhqtugceoo0j237jtjk2h3
+    verified: false
+    hashtags: "#fashion, #dog, #losangeles, #vibes"
   - username: "dreaknowsbest"
     fullname: >-
       Drea Knowsbest 
@@ -91,40 +115,16 @@ profiles:
     id: ck8vw3kwrne3e0j78e124rzzt
     verified: true
     hashtags: "#ootd, #runway, #fashion, #chanel"
-  - username: "_christinemariie4"
+  - username: "waltzb7"
     fullname: >-
-      _christinemariie
+      Waltz B.
     bio: >-
-      ☆ Let’s have some fun ☆ High & Bi
+      SC: Waltzb7 Los Angeles, CA International Choreographer Inst: Waltzb7 🏳️‍🌈 31
     location: "United States"
-    followers: 5295
-    engagement: 1158
-    commentsToLikes: 0.049888
-    id: ckcdygja4gmuu0j23sd4svf6t
+    followers: 20300
+    engagement: 1871
+    commentsToLikes: 0.109629
+    id: ckbr93e2antvo0j23qz0cc0jj
     verified: false
-    hashtags: "#oregon, #outfitinspo, #fyp, #foryou"
-  - username: "maysuncardwell"
-    fullname: >-
-      Maysun Cardwell
-    bio: >-
-      ATL to LA baby
-    location: "United States"
-    followers: 3735
-    engagement: 640
-    commentsToLikes: 0.061217
-    id: ckcpstbg7n9b50j23je2f5fhv
-    verified: false
-    hashtags: "#fyp, #greenscreen, #catsoftiktok, #typo"
-  - username: "arthurtparra"
-    fullname: >-
-      Arthurparra
-    bio: >-
-      Fashion & Lifestyle IG : @arthurtparra Los Angeles
-    location: "United States"
-    followers: 38100
-    engagement: 514
-    commentsToLikes: 0.025555
-    id: ck8z5ye1ejtgf0j78epi9g5dx
-    verified: false
-    hashtags: "#fashion, #outfitinspo, #fyp, #ootd"
+    hashtags: "#latino, #lgbtq, #fyp, #alphabetmafia"
 ---

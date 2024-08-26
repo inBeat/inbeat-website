@@ -1,36 +1,48 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Berlin In 2023
+title: Top 10 Bloggers Instagram Influencers In Berlin In 2024
 description: >-
-  Find top bloggers Instagram influencers in Berlin in 2023. Most popular hashtags: #blogger #berlin #fashion #ootd.
+  Find top bloggers Instagram influencers in Berlin in 2024. Most popular hashtags: #blogger #berlin #berlincity #outfitinspiration.
 platform: Instagram
-hits: 320
+hits: 349
 text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 320 Instagram influencers like this in Berlin, Germany for you to collaborate.
+text_bottom: Our platform has 349 Instagram influencers like this in Berlin, Germany for you to contact.
 profiles:
-  - username: "fitweltweit.cathi"
+  - username: "cindy.minni"
     fullname: >-
-      Catharina
+      Cindy🦋
     bio: >-
-      ✨Lernen, lieben, lachen, leben✨ •fit-weltweit.de, beautycatze.de •Mindset, Gesundheit & Fitness •Berlin / Scorpio² / 16 Lizenzen Codes & Impressum ⤵️
+      📍BERLIN 🇩🇪 1997 ♡ daily storys - Tiktok 720k ♡ Email: Business.cindy.minni@web.de
     location: "Germany"
-    followers: 28275
-    engagement: 151
-    commentsToLikes: 0.068894
-    id: ckap59d0qar0j0i78joyyw90f
+    followers: 31776
+    engagement: 453
+    commentsToLikes: 0.029472
+    id: ck5zzblinbfz20i14mb29p8mg
     verified: false
-    hashtags: "#blogger, #berlinblogger, #anajohnson, #bananabeauty"
-  - username: "_carolinetmm_"
+    hashtags: "#palmademallorca, #blondehair, #fashion, #dubai"
+  - username: "olivia.engl"
     fullname: >-
-      Food
+      olivia
     bio: >-
-      
+      𝑐𝑜𝑛𝑡𝑖𝑛𝑢𝑜𝑢𝑠 𝑖𝑚𝑝𝑟𝑜𝑣𝑒𝑚𝑒𝑛𝑡 | 𝑡𝑎𝑘𝑒𝑛 olivia.engl@gmx.de YouTube: olivia isabell Civil Engineer
     location: "Germany"
-    followers: 6231
-    engagement: 152
-    commentsToLikes: 0.078618
-    id: ck15r2hpr5tit0i192a2epagq
+    followers: 16041
+    engagement: 149
+    commentsToLikes: 0.006464
+    id: ck8t1rgwqwqpz0j78f1y5w2qz
     verified: false
-    hashtags: "#burgerdelivery, #lieferdienst, #burgerliebe, #hamburg"
+    hashtags: "#regensburg, #fashionblogger, #frankfurt, #dortmund"
+  - username: "bilmen___"
+    fullname: >-
+      Ugur Bilmen | Fashion - Creator 🧿
+    bio: >-
+      📍Berlin 🎵 TikTok : bilmen___ 📧 contact@bilmen.de
+    location: "Germany"
+    followers: 146811
+    engagement: 26
+    commentsToLikes: 0.016807
+    id: ck6twrvektqoh0j71oo20j27k
+    verified: false
+    hashtags: "#outfitpost, #streetwearfashion, #fashiontips, #styleinspiration"
   - username: "foodtasterberlin"
     fullname: >-
       FOODTASTER
@@ -43,30 +55,42 @@ profiles:
     id: ck5hkxddhj75e0i11tnuilzi6
     verified: false
     hashtags: "#vegan, #foodie, #berlinfoodie, #foodstagram"
-  - username: "aline.lawin"
+  - username: "juliainberlin_"
     fullname: >-
-      Aline | Are You The One?
+      Julia | berlin city • balanced lifestyle
     bio: >-
-      📍 Cologne, GER 🎬 @areyoutheone.de | @tvnow
+      sharing my love for berlin, food & sport ツ 🌟 berlin tips & balanced lifestyle 🏃🏻‍♀️ currently training for my first HM 💌 management@juliainberlin.com
     location: "Germany"
-    followers: 15136
-    engagement: 1003
-    commentsToLikes: 0.078383
-    id: ck0vz0yoi6r040i19you5wsdt
+    followers: 36583
+    engagement: 1071
+    commentsToLikes: 0.031659
+    id: ck9we3yvhih790j78s4zbmdak
     verified: false
-    hashtags: "#wintertime, #loveisintheair, #areyoutheone, #summerfeeling"
-  - username: "bergnbeef"
+    hashtags: "#berlincity, #beach, #explore, #running"
+  - username: "melinaesmeralda"
     fullname: >-
-      Christian Bergenthal
+      Melina | Berlin
     bio: >-
-      🔥Grill- und BBQ-Blogger aus Berlin 📝 Rezeptblog: www.bergnbeef.de ❗️Alle Infos: 👇🏻
+      📍 Portland From Germany to the USA 🇩🇪🇺🇸 I‘m so glad you’re here ✨
     location: "Germany"
-    followers: 109977
-    engagement: 724
-    commentsToLikes: 0.011057
-    id: ck5c4lks51llf0i11b7jbxm2r
+    followers: 83632
+    engagement: 182
+    commentsToLikes: 0.026143
+    id: ck13bd3d7uukh0i191u5sl7pz
     verified: false
-    hashtags: "#ribeye, #rumpsteak, #bestseller, #deepfried"
+    hashtags: "#bachata, #food, #ldr, #usa"
+  - username: "samar_miryeganeh"
+    fullname: >-
+      Samar Miryeganeh
+    bio: >-
+      Fashion lover 👠 | Dentistry student 🦷 📍 Berlin 💌 hello.samar@gmx.de
+    location: "Germany"
+    followers: 10483
+    engagement: 805
+    commentsToLikes: 0.088813
+    id: ck138jdb3gia00i19zv0japu3
+    verified: false
+    hashtags: "#neuk, #beautifuldays, #softhair, #fashioninspiration"
   - username: "malena.elisa"
     fullname: >-
       Malena Elisá
@@ -79,52 +103,28 @@ profiles:
     id: ckaowf5wd8o360i789pmsf9ci
     verified: false
     hashtags: "#ootdgermany, #bremen, #fitnessfam, #fitfamgermany"
-  - username: "david.nicke"
+  - username: "me.soeren"
     fullname: >-
-      DAVID NICKE 🇩🇪
+      Søren
     bio: >-
-      ▫️ based in germany ▫️ @phdnutritionde ‘DAVID40‘ ▫️ contact: david@revoirmedia.com
+      „Be in love with your life“ 🔹Germany 📍Berlin 🔹📩 DM: soerenger@gmx.de
     location: "Germany"
-    followers: 131778
-    engagement: 289
-    commentsToLikes: 0.036879
-    id: ck8t1ecu0vfyf0j78o6e0tgu0
+    followers: 5735
+    engagement: 791
+    commentsToLikes: 0.043737
+    id: ckaoyrmrliro90i78gzp5vhll
     verified: false
-    hashtags: "#bestofstreetwear, #berlin, #blogger, #fitfam"
-  - username: "cindy.minni"
+    hashtags: "#gingerboy, #instalike, #instaboy, #menstagram"
+  - username: "katharina.sophia.t"
     fullname: >-
-      Cindy🦋
+      Katharina
     bio: >-
-      📍Berlin , 24 💡Youtube: 𝗕𝗿𝗮𝘄𝗹 𝗚𝗶𝗿𝗹 ⏱TikTok: 𝗰𝗶𝗻𝗱𝘆.𝗺𝗶𝗻𝗻𝗶, 700k 📩 Business: Business.cindy.minni@web.de
+      ｂｅａｕｔｙ ｉｎ ｓｉｍｐｌｉｃｉｔｙ ｐｈｏｔｏｇｒａｐｈｙ ａｒｔ ＆ ｆｏｏｄ ｆｏｏｄ ａｒｔ @kornsalzundholz ｔａｋｅｎ @sebastian.lechner87
     location: "Germany"
-    followers: 35700
-    engagement: 611
-    commentsToLikes: 0.040789
-    id: ck5zzblinbfz20i14mb29p8mg
+    followers: 5274
+    engagement: 254
+    commentsToLikes: 0.027750
+    id: ck134e9w0w0up0i194zi2wc1b
     verified: false
-    hashtags: "#berlin, #blogger, #palmademallorca, #fashion"
-  - username: "leslieangelov"
-    fullname: >-
-      𝗟𝗘𝗦𝗟𝗜𝗘 𝗔𝗡𝗚𝗘𝗟𝗢𝗩 🦅
-    bio: >-
-      —————— ▪ ᴅᴊ & ᴘʀᴏᴅᴜᴄᴇʀ ▪ ʀᴇQᴜᴇsᴛs: ɪɴғᴏ@ᴅᴊʟᴇsʟɪᴇ.ᴅᴇ ▪ ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴsᴛᴀɢʀᴀᴍ & sᴘᴏᴛɪғʏ 📸🎶
-    location: "Germany"
-    followers: 20507
-    engagement: 535
-    commentsToLikes: 0.047829
-    id: ck136i6kq6ltm0i19kdn2dqg3
-    verified: false
-    hashtags: "#leipzig, #zitate, #shooting, #dankbar"
-  - username: "lena_mxb"
-    fullname: >-
-      lena
-    bio: >-
-      ♥️💯💪🏽 Dm for collab 🎉 Rabattcodes: in den Highlights ♥️ 24❤️NRW
-    location: "Germany"
-    followers: 11383
-    engagement: 887
-    commentsToLikes: 0.041484
-    id: ck8tcz3o718j50j78hjv3f49g
-    verified: false
-    hashtags: "#girlscar, #models, #tiefergelegt, #hatepeopellovecarps"
+    hashtags: "#foodfotografie, #gesund, #brotbacken, #anstellgut"
 ---

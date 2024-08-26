@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comics Instagram Influencers In 2023
+title: Top 10 Comics Instagram Influencers In 2024
 description: >-
-  Find top comics Instagram influencers in 2023. Most popular hashtags: #webcomic #comic #comics #mood.
+  Find top comics Instagram influencers in 2024. Most popular hashtags: #comics #comic #webcomic #webcomics.
 platform: Instagram
-hits: 6881
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 6881 Instagram influencers like this for you to connect with.
+hits: 7175
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 7175 Instagram influencers like this for you to collaborate.
 profiles:
   - username: "the.comic.dog"
     fullname: >-
@@ -31,100 +31,100 @@ profiles:
     id: ck0twt8ktgn2c0i19la6vmgtd
     verified: true
     hashtags: "#comics, #webcomic, #comic, #webcomics"
-  - username: "pet_foolery"
+  - username: "selahvictor"
     fullname: >-
-      Ben
+      Selah Victor
     bio: >-
-      -I make funny comics!… at least… I THINK they’re funny, otherwise what’s everyone following me for? @mosquitoes_suk = Art Page ⬇️WEBTOON⬇️
+      Actor. Comic. Mom. 🐝Voice of Chloe Bourgeois // Miraculous Ladybug 👶Boy Mama ⬇️Merch | Appearances | Products
     location: "United States"
-    followers: 2568237
-    engagement: 1532
-    commentsToLikes: 0.004090
-    id: ck0uekn8nlhz20i19t595zgmz
+    followers: 44205
+    engagement: 458
+    commentsToLikes: 0.032906
+    id: ckaoy724yg9p80i78tlc8wok7
     verified: false
-    hashtags: "#funnymeme, #meme, #pixieandbrutus, #dogsofinstagram"
-  - username: "sydsugoi.cosplay"
+    hashtags: "#momofboyslife, #momlaughs, #thirdpregnancy, #miraculousladybug"
+  - username: "siennahubertross"
     fullname: >-
-      S Y D S U G O I
+      Sienna Hubert-Ross
     bio: >-
-      Cosplayer • Digital Creator • ⁣Nostalgia Queen 📰Feat: DC Comics, Adult Swim, Rare Beauty If Sydsugoi posts it, she produced it.
-    location: "Brazil"
-    followers: 8176
-    engagement: 709
-    commentsToLikes: 0.040517
-    id: cl34yk06l0kwi0i23j89oie1b
+      📍NYC natural blonde comic @sugarbabiescomedyshow April 19th 9pm wilhelmina nyc
+    location: "United States"
+    followers: 33505
+    engagement: 1094
+    commentsToLikes: 0.023794
+    id: ck6udmav2lwkq0j71tkmdwg3z
     verified: false
-    hashtags: "#blackcosplayersrock, #blackwomenincostume, #sidebysidecosplay, #blackgirlcosplay"
-  - username: "joerogan"
+    hashtags: "#comedy, #jokes, #wlw, #standup"
+  - username: "shubhamgaur09"
     fullname: >-
-      Joe Rogan
+      Shubham Gaur
     bio: >-
-      Stand up comic/mixed martial arts fanatic/psychedelic adventurer Tour date info at: joerogan.com
-    location: ""
-    followers: 16031048
-    engagement: 197
-    commentsToLikes: 0.018527
-    id: ck0tuwcfx8yoo0i1900lk9shx
+      Right arm fast medium comic. Building @2sloggers Impact Fan @lucknowsupergiants
+    location: "United States"
+    followers: 607824
+    engagement: 4114
+    commentsToLikes: 0.006486
+    id: ckaoyujmoj54w0i78mwz7s47u
+    verified: false
+    hashtags: "#ipl2024, #lsg, #shubhamgaur, #lucknowsupergiants"
+  - username: "gretlusky"
+    fullname: >-
+      Gretel Lusky
+    bio: >-
+      Illustrator & comic artist 🦋 WAYFINDER now up for pre-order! 🦋 ✨ YouTube || Patreon || Shop ✨↓links below 🌸 Personal acc: @gretel.lusky
+    location: "United States"
+    followers: 775241
+    engagement: 509
+    commentsToLikes: 0.005401
+    id: ck9hb0yyiewxy0j78li78ny2j
+    verified: false
+    hashtags: "#traditionalart, #witch, #witchyvibes, #pastelcolors"
+  - username: "thepandaredd"
+    fullname: >-
+      Panda Redd
+    bio: >-
+      He/They Comics, Content, and Chaos Art Account: @jaymortonart
+    location: "United States"
+    followers: 43865
+    engagement: 1765
+    commentsToLikes: 0.008320
+    id: cln4q7ldqk0r80j0852gclf67
+    verified: false
+    hashtags: "#redhood, #funny, #pandareddhood, #nerd"
+  - username: "rmpg_kazuma_kawamura"
+    fullname: >-
+      川村壱馬
+    bio: >-
+      Kazuma Kawamura from "THE RAMPAGE" 1st Photo Book 『Etoile』 2024.04.24 Release. Rap / Sing / Krump / Act / Game / Comic / Anime / Baseball ↓X Official
+    location: "United States"
+    followers: 856285
+    engagement: 1334
+    commentsToLikes: 0.008871
+    id: ck0w20sw7m3660i19qwkcpxep
     verified: true
-    hashtags: "#joeroganexperience, #joerogan, #joerogantattoo, #realism"
-  - username: "aabhimanyu"
+    hashtags: "#therampage, #07, #gianna, #exiletribe"
+  - username: "usamastandsup"
     fullname: >-
-      A B H I M A N Y U  K A K
+      Usama Siddiquee
     bio: >-
-      Just a Kadak “Roaster Comic” 🎭 Dream - Believe - Live - Love 💫
-    location: "India"
-    followers: 140200
-    engagement: 104
-    commentsToLikes: 0.050604
-    id: ck5zmg9lxmipc0i14ljsp7z67
-    verified: true
-    hashtags: "#india, #instagram, #reelsindia, #reelsinstagram"
-  - username: "rachelsavaunnah"
-    fullname: >-
-      RAE SAVAUNNAH
-    bio: >-
-      Jesus• Beauty• Fashion• Lifestyle• Comic relief 📍🇨🇦 Business inquiries 💌 savaunnah.rachel@gmail.com @hautelash.xyz • ✝️🛍💄👶🏻 #torontoblogger ⇣✨👀✨⇣
+      🇧🇩 Brown stand up comic in NYC 🔥 Upcoming shows get tix!⬇️
     location: "United States"
-    followers: 10526
-    engagement: 847
-    commentsToLikes: 0.523128
-    id: ck5zz5d5vb4450i140detajo0
+    followers: 115551
+    engagement: 412
+    commentsToLikes: 0.045432
+    id: ck55iz9gdvuh60i11vujb5qzb
     verified: false
-    hashtags: "#melanin, #justforfun, #loveguess, #sheingals"
-  - username: "davicrimmins"
+    hashtags: "#indian, #explore, #comedy, #reels"
+  - username: "the__reddot"
     fullname: >-
-      Davi Crimmins
+      Kim Winder (The RedDot Comic)
     bio: >-
-      Comic | VO | Actor | Cohost🎙 @thebertshow & @broadlyspeakingpodcast COMEDY TOUR:
+      Finessed impropriety in #comic form by @ladyee_kw
     location: "United States"
-    followers: 45193
-    engagement: 429
-    commentsToLikes: 0.035403
-    id: ck15sjufmddch0i19ecmm8pxu
+    followers: 452135
+    engagement: 467
+    commentsToLikes: 0.005347
+    id: ck0u291qpz9fr0i19t5vle5fw
     verified: false
-    hashtags: "#homediy, #mood, #gratitude, #mcm"
-  - username: "qeeriefire"
-    fullname: >-
-      Justyna 🔥
-    bio: >-
-      Poland Music▪️Self-taught beginner guitarist▪️ Dogs▪️Cooking▪️ Marvel Comics▪️Yoga #metalhead
-    location: "United States"
-    followers: 21346
-    engagement: 819
-    commentsToLikes: 0.045993
-    id: ck0w6ezy8892n0i19b3l6lf3r
-    verified: false
-    hashtags: "#beginnerguitarist"
-  - username: "jillgraysonofficial"
-    fullname: >-
-      Jill Grayson
-    bio: >-
-      Model/Cosplayer🦄 Comics,Disney, Rocknroll and video games lover! DM for partnership Facebook:Jill Grayson
-    location: "United States"
-    followers: 45827
-    engagement: 409
-    commentsToLikes: 0.059835
-    id: ck5c7kj5g7oxx0i111p4c5k7v
-    verified: false
-    hashtags: "#sportmotivation, #kawaiigirl, #rocknrollbaby, #fitnessgirl"
+    hashtags: "#webcomic, #webtoon, #comicart, #married"
 ---

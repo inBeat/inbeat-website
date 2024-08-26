@@ -1,11 +1,11 @@
 ---
-title: Top 10 Crafts And Diy TikTok Influencers In United States In 2023
+title: Top 10 Crafts And Diy TikTok Influencers In United States In 2024
 description: >-
-  Find top crafts and diy TikTok influencers in United States in 2023. Most popular hashtags: #diy #craft #fyp #foryou.
+  Find top crafts and diy TikTok influencers in United States in 2024. Most popular hashtags: #diy #craft #foryou #fyp.
 platform: TikTok
-hits: 22
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our platform has 22 TikTok influencers like this in United States for you to connect with.
+hits: 24
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 24 TikTok influencers like this in United States for you to work with.
 profiles:
   - username: "athomewithshannon"
     fullname: >-
@@ -30,19 +30,19 @@ profiles:
     commentsToLikes: 0.018956
     id: ckbq74g4vti6l0j23anm030w5
     verified: false
-    hashtags: "#christmas, #fyp, #vday, #diy"
+    hashtags: "#fyp, #valentinesday, #crafts, #foryou"
   - username: "quarantineparty101"
     fullname: >-
       quarantine party <3
     bio: >-
       recipes, crafts, diys and things to pass time! join the party ☆
     location: "United States"
-    followers: 32000
-    engagement: 1636
-    commentsToLikes: 0.035950
+    followers: 31000
+    engagement: 1633
+    commentsToLikes: 0.040600
     id: ckbkn6fjgh5tn0j2359frecsp
     verified: false
-    hashtags: "#foryou, #foryoupage, #jointheparty, #skylight"
+    hashtags: "#foryoupage, #jointheparty, #fyp, #wearamask"
   - username: "leafdiy"
     fullname: >-
       comback
@@ -79,18 +79,6 @@ profiles:
     id: ck9rgqq75c1c70j784tq1tobd
     verified: false
     hashtags: "#foryou, #art, #painting, #tiktokdiy"
-  - username: "diyholic"
-    fullname: >-
-      DIYholic
-    bio: >-
-      I’m a DIYholic 💁🏻‍♀️✂️ Why buy when you can DIY ✨ ⬇️Don’t be shy, Subscribe!⬇️
-    location: "United States"
-    followers: 310000
-    engagement: 607
-    commentsToLikes: 0.011571
-    id: ckbf0p5o7mhhm0j23pn0rsbrb
-    verified: false
-    hashtags: "#cricutvinyl, #cricutmade, #amazonfinds, #cricuthacks"
   - username: "lisafioriniahmad"
     fullname: >-
       Lisa Fiorini Ahmad
@@ -127,4 +115,16 @@ profiles:
     id: ckb9kh5u0cel70j23yy5ver8h
     verified: false
     hashtags: "#gifts, #handmadegifts, #htvvinyl, #craft"
+  - username: "carlotagreen"
+    fullname: >-
+      Carlota Green
+    bio: >-
+      Go to my YouTube channel for slow tutorial ☝️☝️☝️
+    location: "United States"
+    followers: 174600
+    engagement: 1015
+    commentsToLikes: 0.004655
+    id: ckai7461nyrzz0i78syczttiz
+    verified: false
+    hashtags: "#diyidea, #diyfashion, #summer2020, #flowers"
 ---

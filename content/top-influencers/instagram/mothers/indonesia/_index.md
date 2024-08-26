@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Indonesia In 2023
+title: Top 10 Mothers Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top mothers Instagram influencers in Indonesia in 2023. Most popular hashtags: #family #bumpstyle #ootd.
+  Find top mothers Instagram influencers in Indonesia in 2024. Most popular hashtags: #umrohhemat #nmhouse #whatprisyawears.
 platform: Instagram
-hits: 333
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 333 Instagram influencers like this in Indonesia for you to connect with.
+hits: 367
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 367 Instagram influencers like this in Indonesia for you to contact.
 profiles:
+  - username: "janiceslogbook"
+    fullname: >-
+      Janice-Tanaya
+    bio: >-
+      MSc Experimental & Developmental Psychology turned SAHM 💡Encourage moms to feel capable through motherhood ✏️ Parenting tricks, house & travel tips
+    location: "Indonesia"
+    followers: 3882
+    engagement: 704
+    commentsToLikes: 0.025995
+    id: ck14j8lwnj3jc0i198kyxomr3
+    verified: false
+    hashtags: "#cny2021, #theyearofox, #decemberdaily, #tistheseason"
+  - username: "putrilagilagi"
+    fullname: >-
+      Putri Safira Della Del Piera
+    bio: >-
+      JKT, ID | Bussiness inq: WA +6289518526507 Mother of @blackswan_books @againrent @protagonist_storyscent
+    location: "Indonesia"
+    followers: 41736
+    engagement: 1390
+    commentsToLikes: 0.026807
+    id: ckaouu77n1ud30i78f48n95ay
+    verified: false
+    hashtags: "#wattpad, #wattpadindonesia, #wattpadrekomendasi, #dreamehairdryer"
+  - username: "drshafira"
+    fullname: >-
+      dr. Shafira Ninditya Aulia, MARS
+    bio: >-
+      #ShafiraShares 🇮🇩24/7 mother & wife, work-life rhythm kind of person, med doctor, health speaker/educator, hospital digital marketer, LPDP Awardee ‘21
+    location: "Indonesia"
+    followers: 64944
+    engagement: 12776
+    commentsToLikes: 0.008491
+    id: ckaovfx1m4gcq0i78q8y7bypc
+    verified: false
+    hashtags: "#lebaranalakami, #yuksekolahlagi, #december17th, #artjakarta"
+  - username: "taniaraymina"
+    fullname: >-
+      Tania Ray Mina
+    bio: >-
+      Mothering three little ninjas 🦸‍♂️🦸‍♀️🦸 • In between @zaskiamecca_id @biabyzaskiamecca @zamcosmetics @ruangraqyat @vreedom.official
+    location: "Indonesia"
+    followers: 92419
+    engagement: 1048
+    commentsToLikes: 0.014268
+    id: ck8t0dgaqrp440j782lf994yb
+    verified: false
+    hashtags: "#sisterandbrother, #noketombeautopede, #clearyourhead, #beblessedinbia"
+  - username: "syarifahlubis"
+    fullname: >-
+      Nursyarifah Lubis | Motherhood Inspo
+    bio: >-
+      Sharing relatable motherhood journey🎢 Parenting | Traveling with @sulthanstrolls Privilege @ibuberwisata 🏡JKT | 📩DM for business inq
+    location: "Indonesia"
+    followers: 21080
+    engagement: 1040
+    commentsToLikes: 0.096442
+    id: ck9wh0eqfvobv0j78a0ar6bn5
+    verified: false
+    hashtags: "#relatable, #motherhoodtips, #newmom, #motherhoodinspo"
   - username: "nisrinadhiya"
     fullname: >-
       Nisrina
     bio: >-
-      An architect who likes simplicity but elegance, passionate in creating with @sudut_ruang, enjoys life as mother and wife, takes care of @nmhouse.id
+      An architect who is passionate in creating with @sudut_ruang while enjoying life as woman, mother, wife, and also taking care of @nmhouse.id
     location: "Indonesia"
-    followers: 14832
-    engagement: 735
-    commentsToLikes: 0.012034
+    followers: 15702
+    engagement: 897
+    commentsToLikes: 0.014277
     id: ckap9akbsruob0i784be3p0so
     verified: false
-    hashtags: "#uniqloindonesia, #reels, #nmfamily, #tacoid"
-  - username: "dithapurwana"
+    hashtags: "#explorebanyuwangi, #nmhouse, #architecture, #nmjournal"
+  - username: "chiceniza"
     fullname: >-
-      dita novianty
+      Puti Ceniza Sapphira
     bio: >-
-      Mother of 4 boys 💍 @ranggana.purwana ▶️ youtube chanel : #inikamii https://youtu.be/aLyilOdZv0I Business inq : 081311270349 Eltasya
+      Mother of two teenage boys Library Wizard @pustakalanalibrary @mamarantau 🇮🇩, Houghton,MI “ABC Perpustakaan” @bookdragon.pub Free Palestine 🇵🇸
     location: "Indonesia"
-    followers: 125943
-    engagement: 573
-    commentsToLikes: 0.012107
-    id: ck5q5u5seulq90i11eqquwqoi
+    followers: 6536
+    engagement: 675
+    commentsToLikes: 0.108077
+    id: ck6ufgwjuwze60j71wjg97e8v
     verified: false
-    hashtags: "#weekendvibes, #sunday, #thursdayvibes, #saturdayvibes"
-  - username: "mikailapatritz"
+    hashtags: "#dirumahaja, #puisigagal, #malikazka, #pagingopi"
+  - username: "imaz._"
     fullname: >-
-      ⓜⓘⓚⓐⓘⓛⓐ ⓟⓐⓣⓡⓘⓣⓩ
+      Imas fatmah zahro
     bio: >-
-      💍FardhanKhan's. Mother of #Arupalaka Co-founder Of @zooman.id Head Of #ATVBeautyIcon @Atvcreative.asia
+      a Wife & Mother✨ Khodimah @pp.alihsan_lirboyo @jp3mnusantara @fatayatnujateng Founder of @almala.tourtravel
     location: "Indonesia"
-    followers: 430642
-    engagement: 303
-    commentsToLikes: 0.006003
-    id: ck0w6zd89azgc0i19abelzch5
-    verified: true
-    hashtags: "#bumpstyle, #transition, #fashionreels, #ootd"
-  - username: "ritanadhira"
-    fullname: >-
-      Rita Nadhira.
-    bio: >-
-      📍JKT • Wife and Blessed mother of two @kay_and_kal • Business Contact: +6285764324545 (Finan) or DM. @hi__noora @fleek.official @littlenoora.id
-    location: "Indonesia"
-    followers: 84778
-    engagement: 135
-    commentsToLikes: 0.010593
-    id: ck5hps0j4rvbn0i11shi4uvjo
+    followers: 332130
+    engagement: 1160
+    commentsToLikes: 0.007202
+    id: ckf5q6rgi8cya0j23opj0xx8e
     verified: false
-    hashtags: "#breastfeeding, #familypotrait, #familypotraits, #fourever"
-  - username: "kevinlln"
+    hashtags: "#umrohningimaz, #ningimaz, #almalatravel, #umroh2024"
+  - username: "radenprisya"
     fullname: >-
-      Kevin Lilliana, S.Sn., M.M.
+      Raden Prisya
     bio: >-
-      Bachelor of Arts & Master of Management🎓 Living my life to the fullest as a mother, and a speaker💫 📞Selfi +628121421416
+      A Mother || Mindfulness & Well Being 🌿 Join my classes at @mindrevive.id #prisyawrites Work inquiries:
     location: "Indonesia"
-    followers: 499492
-    engagement: 123
-    commentsToLikes: 0.006426
-    id: ck0w3yjufvxix0i195khct2bf
-    verified: true
-    hashtags: "#lebihderas, #bebasulat, #sambalabcnyalakansuasana, #mandialabundaalaayah"
-  - username: "indahnadapuspita"
-    fullname: >-
-      Indah Nada Puspita
-    bio: >-
-      A Mother. Creativepreneur. Founder & Creative Director of @nadapuspita.official @npwoman Business contact ⬇️
-    location: "Indonesia"
-    followers: 1072871
-    engagement: 94
-    commentsToLikes: 0.010149
-    id: ckaox85wmc7i40i78rhih40nt
-    verified: true
-    hashtags: "#bulgarijewelry, #grwm, #sekaranguntuknanti, #beautyfestasia2022"
-  - username: "tengkudewiputri_tdp"
-    fullname: >-
-      TengkuDewiPutri
-    bio: >-
-      Motherhood ,Who's into healthy Lifestyle, Beach Lover BA of @purebaby.id CP ⬇️ Endorsement : 085218311214 WA (Nadya) TV : 081318447677 (Ricco)
-    location: "Indonesia"
-    followers: 889274
-    engagement: 31
-    commentsToLikes: 0.006833
-    id: ck6tqy43vvf8j0j71qil04a1i
-    verified: true
-    hashtags: "#kreasijawaranyachalenge, #poleworkout, #bali, #baliphotographer"
-  - username: "uwiemariska"
-    fullname: >-
-      Uwie Mariska
-    bio: >-
-      🤎Coffee addict 🤍Motherhood | Fashion | Affordable Style @wieshare.preloved Business Inquiries | 📩Line : uwie_mariskaa
-    location: "Indonesia"
-    followers: 85671
-    engagement: 19
-    commentsToLikes: 0.082273
-    id: ck139165nj0q00i19ild0rqld
+    followers: 101295
+    engagement: 359
+    commentsToLikes: 0.009075
+    id: ck5hksyw2izj90i11yr4eigx9
     verified: false
-    hashtags: "#hootd, #hlladies, #hijabootd, #hijabstyle"
-  - username: "shynnz"
+    hashtags: "#prisyawrites, #prisyareels, #prisyaxaudrey, #whatprisyawears"
+  - username: "arintiamutiara"
     fullname: >-
-      Shannon she/her
+      Arintia Mutiara 💎
     bio: >-
-      Motherhood, honestly. Normalizing the highs the lows + everything in between. We believe ❤️ is ❤️ and BLM Muchmostdarling@gmail.com
+      👩🏻‍💻☕️🎬🎧🍂📷🎞️🤍 Beauty • Business • Lifestyle A mother of two adorable kids Part of @id.oriflame & @nlcworldcom Mau dibimbing punya 5jutaan/bulan?👇🏻
     location: "Indonesia"
-    followers: 64350
+    followers: 8544
     engagement: 340
-    commentsToLikes: 0.114113
-    id: ck14hkjbparz00i193kidn9b3
+    commentsToLikes: 0.037134
+    id: ckaoz6ep0kkq00i78kx43xare
     verified: false
-    hashtags: "#bumpstyle, #homebirth, #hellomeridian, #greyhair"
-  - username: "arumi_ningsih1"
-    fullname: >-
-      GIVEAWAY - Arumi ningsih
-    bio: >-
-      Beauty||lifestyle||motherhood 📧 Arumie_01@yahoo.com https://www.ruminingsih.com/2020/12/pentingnya-manfaat-air-untuk-kulit-aqua.html?m=1
-    location: "Indonesia"
-    followers: 53562
-    engagement: 328
-    commentsToLikes: 0.054977
-    id: ck6u0t59qhm2e0j71fn9u5vls
-    verified: false
-    hashtags: "#skincare, #clozzeteid, #clozetteid, #anti"
+    hashtags: "#bisnisbarengarintia, #90days2021, #oriflame, #oriflameid"
 ---

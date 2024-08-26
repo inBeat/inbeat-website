@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In South Africa In 2023
+title: Top 10 Health Instagram Influencers In South Africa In 2024
 description: >-
-  Find top health Instagram influencers in South Africa in 2023. Most popular hashtags: #healthy #training #makeup #healthylifestyle.
+  Find top health Instagram influencers in South Africa in 2024. Most popular hashtags: #fitness #food #healthylifestyle.
 platform: Instagram
-hits: 86
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 86 Instagram influencers like this in South Africa for you to collaborate.
+hits: 105
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 105 Instagram influencers like this in South Africa for you to contact.
 profiles:
-  - username: "preciousxabamakeup"
+  - username: "uleenfourie"
     fullname: >-
-      PreciousXABA
+      Uleen Fourie | Health & Fitness Coach
     bio: >-
-      Makeup artist, Health & Skin care therapist & Make-up Educator Makeup bookings email-xaba.precious@yahoo.com Campaign bookings email -Percy@uvba.co.za
+      🙋‍♀️ Let me help you to STOP dieting & make it a lifestyle 📖 Health Coach 📱Co-founder @health_eapp 👇Gym & Home Programs
     location: "South Africa"
-    followers: 42238
-    engagement: 278
-    commentsToLikes: 0.123191
-    id: ck5hkod83isj10i11i7nk6c8f
+    followers: 75381
+    engagement: 400
+    commentsToLikes: 0.019496
+    id: ckaouird90g760i78bc049lwx
     verified: false
-    hashtags: "#editorialmakeup, #bridalmakeup, #makeup, #editorialphotography"
-  - username: "liviesofine"
+    hashtags: "#burntstudios, #quickandeasymeals, #balancedlifestyle, #bodylove"
+  - username: "buli_makhubo"
     fullname: >-
-      Livie ❤️
+      Buli Makhubo
     bio: >-
-      Future mental health counselor 📚🧠 ❤️ Libra ♎️ 10/09 God first 🙏🏾 Music 👇🏾
+      Beauty, Lifestyle, Health, Fashion |YouTuber | Speaker Zech 4:6 Intentional about Living A Life Well Built🤍 Founder: @refiine_
     location: "South Africa"
-    followers: 14123
-    engagement: 746
-    commentsToLikes: 0.067851
-    id: ck6ufr2t1yo6z0j71sxeq6qu7
+    followers: 72446
+    engagement: 771
+    commentsToLikes: 0.021014
+    id: cloxohr0e0anb0j08m2a0rh1g
     verified: false
-    hashtags: "#myblackisbeautiful, #goodvibes, #nigeria, #blackbeauty"
-  - username: "ashley_rothman"
+    hashtags: "#vichysa, #liftactivvitaminc, #cottononkids, #lorealparissa"
+  - username: "azeegreen"
     fullname: >-
-      Ashley Rothman
+      Az’emahle🦋
     bio: >-
-      ✈️ travel addict 🌱 adventure lover 🍉 health + fitness enthusiast I want to make memories all over the world 🌍
+      Model 1/2 @talentlesstakes podcast Fashion, Beauty and Health& Wellness. Living Intentionally L&A🤍
     location: "South Africa"
-    followers: 23618
-    engagement: 484
-    commentsToLikes: 0.037399
-    id: ckaowktx19d380i78yhvj56zi
+    followers: 52053
+    engagement: 408
+    commentsToLikes: 0.023660
+    id: ck6to4jrmc2710j71o2vejsbb
     verified: false
-    hashtags: "#peaches, #happysunday, #hellosummer, #summer2020"
-  - username: "saskiatopp"
-    fullname: >-
-      Saskia Jordyn Topp
-    bio: >-
-      I smile for a living.🌸 Model ~ Health & Fitness ~ Travel South African📍Chicago 🇺🇸 Select 🇿🇦Boss 🇩🇪PARS 🇬🇧MOT
-    location: "South Africa"
-    followers: 30712
-    engagement: 204
-    commentsToLikes: 0.054259
-    id: ck6u2s7s2tmls0j71eprx8zjp
-    verified: false
-    hashtags: "#capetown, #valentinesday, #chicago, #sunday"
-  - username: "hlubihadebe_"
-    fullname: >-
-      Nomahlubi Hadebe
-    bio: >-
-      •Mental Health •Jeremiah 29:11 Giving myself the love, breath and safety to find my own space and journey. 📍Cape Town, South Africa SC:nomahlubi
-    location: "South Africa"
-    followers: 20370
-    engagement: 494
-    commentsToLikes: 0.022163
-    id: ck8svw51zcxa10j782xsxohbe
-    verified: false
-    hashtags: "#summeryomuthi"
-  - username: "rinajacobs1"
-    fullname: >-
-      Rina Jacobs
-    bio: >-
-      22 |📍#southAfrica HR Grad @my_nwu Health Editor @blossmagazine Admin & trader @malatjitraders
-    location: "South Africa"
-    followers: 14555
-    engagement: 787
-    commentsToLikes: 0.068234
-    id: ck6ub4uel7h370j710kslexde
-    verified: false
-    hashtags: "#blonde, #southafrica, #ootd, #girl"
-  - username: "zsuzsubell"
-    fullname: >-
-      Zsuzsanna Jakabos
-    bio: >-
-      olympic swimmer
-    location: "South Africa"
-    followers: 97372
-    engagement: 457
-    commentsToLikes: 0.015214
-    id: ck6twml0msvh30j71g31vf82z
-    verified: true
-    hashtags: "#pool, #bikini, #swimming, #pooldeck"
-  - username: "alex_robinho"
-    fullname: >-
-      Alex_⭐️Robinho🌟
-    bio: >-
-      🇿🇦Born And Raised X 🇨🇩 Heritage Fitness Model 💪🏽 Dm For Online training 👨🏽‍💻 Fitpreneur🍃 Based In Hangzhou China 🇨🇳 Checkout my Article feature! ⬇️
-    location: "South Africa"
-    followers: 12579
-    engagement: 950
-    commentsToLikes: 0.018923
-    id: ckap7i8bfk6pr0i78d4iprweu
-    verified: false
-    hashtags: "#tightfit, #classicphysique, #bodybuilding, #healthy"
+    hashtags: "#sponsored, #niveasouthafrica, #oilyskin, #mycottonon"
   - username: "marcielhopkins"
     fullname: >-
       Marciel Hopkins
     bio: >-
-      International Model | Boer Soek 'n Vrou aanbieder | Actress | Life Coach | Inspirational Speaker | Ice Genetics 🇿🇦 | Ice Artistes 🎭|
+      TV Presenter | Actress | Model | Life Coach | Inspirational Speaker & MC | Psychology Honours | Health & Fitness | hello@marcielhopkins.com 🙋🏻‍♀️🇿🇦
     location: "South Africa"
-    followers: 67222
-    engagement: 339
-    commentsToLikes: 0.014449
+    followers: 94707
+    engagement: 139
+    commentsToLikes: 0.014470
     id: ck0u0rmiguqs80i19rkdnqwhx
     verified: true
-    hashtags: "#healthnotsize, #feelgoodfitness, #madeforyou, #sweatgear"
-  - username: "miriannjoh"
+    hashtags: "#hierdiewinteristekoud, #rezaferreiraoptometrists, #boutiqueoptometrist, #paarl"
+  - username: "katinkadiekat_official"
     fullname: >-
-      Mirian Njoh
+      Katinka
     bio: >-
-      💫 You Were Born To Shine 🦄 West African girl with albinism (🇳🇬 x 🇱🇷) 🎙️ Host @welovetoseeitpodcast 📧 info@miriannjoh.com
+      Your favourite relatable Introverted extroverted gal. Who loves fashion and humor My babies: @dearbeb.media @getupgurl_health @casa.amor.mosselbay
     location: "South Africa"
-    followers: 21298
-    engagement: 427
-    commentsToLikes: 0.055245
-    id: ck0u6kba824vc0i19sjowmvva
+    followers: 126979
+    engagement: 141
+    commentsToLikes: 0.011639
+    id: ck6u4ngvu4q9x0j71pvwe3lyn
+    verified: true
+    hashtags: "#garniersa, #garnierhairfood, #wtf, #ad"
+  - username: "ifathindes"
+    fullname: >-
+      Ifat Hindes
+    bio: >-
+      𝘈ward Winning Entrepreneur⁣ 🌟⁣ Photographer 📸⁣ @ikhphotography Epilepsy & Health Awareness 💜⁣ 💌 DM for COLLABS ⁣ Nourish Your Soul 🥰
+    location: "South Africa"
+    followers: 28471
+    engagement: 135
+    commentsToLikes: 0.021284
+    id: ck0vv12s4n1uv0i19sjhh4v8i
     verified: false
-    hashtags: "#voiceofhair, #haircrush, #torontoblogger, #naturalhairrocks"
+    hashtags: "#hair, #instagood, #cute, #hongkong"
+  - username: "juakhumalo"
+    fullname: >-
+      Juanita K. Khumalo
+    bio: >-
+      Mental Health Advocate 🧠 @trovewellness Founder @fitlifemagsa Cover Girl @brandsouthafrica Ambassador @cosmopolitansa Best Wellness Influencer
+    location: "South Africa"
+    followers: 46988
+    engagement: 122
+    commentsToLikes: 0.081578
+    id: ck5zt85bxzwz70i14g08qav66
+    verified: false
+    hashtags: "#tuesdayvibes, #bbbakeries, #tuesdaymotivation, #hydrate"
+  - username: "monique.fit"
+    fullname: >-
+      Monique Lopes
+    bio: >-
+      ❤️ ONLINE Health & Fitness Coach 💦 @get.revive 🔥 @npl_prolifestyle Athlete
+    location: "South Africa"
+    followers: 39879
+    engagement: 113
+    commentsToLikes: 0.073291
+    id: ck134xdcjynll0i19depmqik3
+    verified: false
+    hashtags: "#fitness, #mf, #fit, #getrevive"
+  - username: "kaminipather"
+    fullname: >-
+      Kamini Like Harmony
+    bio: >-
+      Host of #GirlEatWorldTV @Netflix @MasterChef_SA winner S2 @nutritionschool certified Nutrition & Health Coach Runner. Dog-person.
+    location: "South Africa"
+    followers: 37230
+    engagement: 89
+    commentsToLikes: 0.050337
+    id: ckaost6k2szaw0i78ocytqyhn
+    verified: true
+    hashtags: "#wine, #run, #cooking, #runrunrun"
+  - username: "miss_dhanusha"
+    fullname: >-
+      Dhanusha | Self-Care Coach| Holistic Wellness
+    bio: >-
+      I help women prioritise themselves & live an authentic life through selfcare CPT| Speaker| Veggie| Mental health @kikovitals "Dhanusha10" 10% ⬇️Shop
+    location: "South Africa"
+    followers: 10471
+    engagement: 26
+    commentsToLikes: 0.010115
+    id: ck6uhlvy49vjz0j71qdeiefxu
+    verified: false
+    hashtags: "#april2023, #tbt, #partner, #femininehealth"
 ---

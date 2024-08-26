@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Spain In 2023
+title: Top 10 Models TikTok Influencers In Spain In 2024
 description: >-
-  Find top models TikTok influencers in Spain in 2023. Most popular hashtags: #foryou #fyp #fashion #model.
+  Find top models TikTok influencers in Spain in 2024. Most popular hashtags: #foryou #fashion #fyp #foryoupage.
 platform: TikTok
 hits: 88
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our platform holds 88 TikTok influencers like this in Spain for you to work with.
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 88 TikTok influencers like this in Spain for you to pitch.
 profiles:
   - username: "ansesurff"
     fullname: >-
@@ -37,12 +37,12 @@ profiles:
     bio: >-
       🇪🇸Actress/Model/Youtuber/Taekwondo ESP/ENG/한국어 Albatkd1111@gmail.com 📩
     location: "Spain"
-    followers: 46500
-    engagement: 1245
-    commentsToLikes: 0.028449
+    followers: 47700
+    engagement: 1024
+    commentsToLikes: 0.037575
     id: cka0rvn3nipqp0i78drf6n9wl
     verified: false
-    hashtags: "#aprendecoreano, #kpop, #lentejas, #coreano"
+    hashtags: "#korean, #corea, #aprendecontiktok, #viajaracorea"
   - username: "tata_0rozco"
     fullname: >-
       tata_0rozco

@@ -1,36 +1,36 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Colombia In 2023
+title: Top 10 Cyclists Instagram Influencers In Colombia In 2024
 description: >-
-  Find top cyclists Instagram influencers in Colombia in 2023. Most popular hashtags: #cycling #cyclinglife #ciclismo #cyclist.
+  Find top cyclists Instagram influencers in Colombia in 2024. Most popular hashtags: #cycling #ciclismo #cyclist #cyclinglife.
 platform: Instagram
-hits: 16
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 16 Instagram influencers like this in Colombia for you to contact.
+hits: 19
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 19 Instagram influencers like this in Colombia for you to pitch.
 profiles:
   - username: "carolinafrancov"
     fullname: >-
       Carolina Franco Villegas
     bio: >-
-      ●•Social Media Communicator ●•Singer ●•Model ●•Cyclist 》From Medellín, Colombia 》carolina.franco.villegas@gmail.com
+      ●•Social Media ●•Cyclist ●•Model ●•Singer 》From Medellín, Colombia 》carolina.franco.villegas@gmail.com
     location: "Colombia"
-    followers: 64316
-    engagement: 540
-    commentsToLikes: 0.058125
+    followers: 102712
+    engagement: 391
+    commentsToLikes: 0.047147
     id: ck5bwvxkemiqi0i11a3j02jli
     verified: false
-    hashtags: "#cyclinglife, #ciclismo, #gorigogooficial, #cycling"
+    hashtags: "#carrera, #ciclismo, #autoland, #cycling"
   - username: "caroamayac"
     fullname: >-
-      C A R O L I N A  A M A Y A
+      Carolina Amaya
     bio: >-
-      Amateur cyclist 🚲 🇨🇴 Ruta ⛰Mtb Fashion designer 👚✂️ @carolinaamayac
+      Fashion designer @carolinaamayac @maglia____ 🇨🇴Amateur cyclist 🚲 Ruta ⛰Mtb |
     location: "Colombia"
-    followers: 57879
-    engagement: 227
-    commentsToLikes: 0.030542
+    followers: 94935
+    engagement: 67
+    commentsToLikes: 0.036138
     id: ck14hx0ntck8t0i191jawclxe
     verified: false
-    hashtags: "#cyclingwomen, #wearetifosi, #colombiabike, #bestcyclingkits"
+    hashtags: "#roadbike, #travellers, #colombiabike, #altatecnolog"
   - username: "verona92"
     fullname: >-
       Carlos Verona
@@ -43,6 +43,30 @@ profiles:
     id: ck6tmdibf7n570j7184bpdd8l
     verified: true
     hashtags: "#rodamosjuntos, #veronavlog, #feedyourdreams, #lavuelta20"
+  - username: "davidguetri"
+    fullname: >-
+      David Guete | Triatleta Elite 🇨🇴
+    bio: >-
+      Atleta @idrd @superfood.co @proyectowerun
+    location: "Colombia"
+    followers: 7891
+    engagement: 549
+    commentsToLikes: 0.062757
+    id: ckapcnndu4haz0i78qmkqha02
+    verified: false
+    hashtags: "#swimbikerun, #running, #cicismocolombiano, #marathon"
+  - username: "nataliapardod"
+    fullname: >-
+      Natalia Pardo D
+    bio: >-
+      •Ex Ciclista Profesional •Psicóloga •Viajera SOÑAR PARA VIVIR💗 📍Medellin- 🇨🇴 Sígueme en FB👇🏽
+    location: "Colombia"
+    followers: 118750
+    engagement: 292
+    commentsToLikes: 0.022031
+    id: ck5zq0eq9toxq0i14v7lu64dp
+    verified: false
+    hashtags: "#cycling, #cyclist, #ciclista, #cyclingmotivation"
   - username: "taty8a"
     fullname: >-
       𝗧𝗮𝘁𝗶𝗮𝗻𝗮 𝗦á𝗻𝗰𝗵𝗲𝘇
@@ -103,28 +127,4 @@ profiles:
     id: ck6ue49r8oqx60j71bxgo5yxa
     verified: true
     hashtags: "#repost, #ciclismo, #morelifecycling, #cyclist"
-  - username: "alexa.kstro"
-    fullname: >-
-      Alexa Castro
-    bio: >-
-      Cycling Lover🇨🇴 Ciclista Amateur Ruta/MTB 🔺embajadora oficial®️ @gorigogooficial Team🔥 Adm Neg/E.Finanz/E.Comex👩🏼‍💻 CM @edgar.mateo1
-    location: "Colombia"
-    followers: 42132
-    engagement: 818
-    commentsToLikes: 0.033558
-    id: ck5hmy0semuar0i113wby51al
-    verified: false
-    hashtags: "#cyclinggirls, #ruteros, #roadbike, #bikequeens"
-  - username: "xiomy.guerrero"
-    fullname: >-
-      Xiomy Guerrero
-    bio: >-
-      Un pedacito de mi vida en fotos 📸
-    location: "Colombia"
-    followers: 86130
-    engagement: 517
-    commentsToLikes: 0.010793
-    id: ck5hmy1scmuc00i114g6conxg
-    verified: true
-    hashtags: "#biciwoman, #bikelife, #womenriders, #pedaleando"
 ---

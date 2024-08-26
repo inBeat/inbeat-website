@@ -1,12 +1,72 @@
 ---
-title: Top 10 Instagram Influencers In Miami In 2023
+title: Top 10 Instagram Influencers In Miami In 2024
 description: >-
-  Find top Instagram influencers in Miami in 2023. Most popular hashtags: #miami #pinterest #outfitinspo.
+  Find top Instagram influencers in Miami in 2024. Most popular hashtags: #grwm #aesthetic #everydaymakeup.
 platform: Instagram
-hits: 5897
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 5897 Instagram influencers like this in Miami, United States for you to pitch.
+hits: 7005
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 7005 Instagram influencers like this in Miami, United States for you to connect with.
 profiles:
+  - username: "alexajsanchez"
+    fullname: >-
+      Alexa J. Sanchez
+    bio: >-
+      Miami 🇨🇺 🇵🇷
+    location: "United States"
+    followers: 16991
+    engagement: 730
+    commentsToLikes: 0.037388
+    id: ck134kmvbwvvp0i1923bhwy4w
+    verified: false
+    hashtags: "#rauwalejandro, #problema, #miami, #dance"
+  - username: "tal.hirschornn"
+    fullname: >-
+      טל הירשהורן
+    bio: >-
+      🇺🇸•🇮🇱 Miami
+    location: "United States"
+    followers: 32575
+    engagement: 128
+    commentsToLikes: 0.045291
+    id: ckapbwysr1ls10i78x4ska3zc
+    verified: false
+    hashtags: "#birthdaygirl, #purim"
+  - username: "milenazavl"
+    fullname: >-
+      Milena
+    bio: >-
+      miami🪽
+    location: "United States"
+    followers: 35779
+    engagement: 84
+    commentsToLikes: 0.012178
+    id: cl4cnznr0nsxj0i23552nkj85
+    verified: false
+    hashtags: "#fashion, #instagram, #mood, #murica"
+  - username: "amandatayylor"
+    fullname: >-
+      𝒜𝓂𝒶𝓃𝒹𝒶 𝒯𝒶𝓎𝓁𝑜𝓇
+    bio: >-
+      Miami
+    location: "United States"
+    followers: 1100645
+    engagement: 19
+    commentsToLikes: 0.004694
+    id: ck0u8kvqo7ku10i19finhjjhb
+    verified: false
+    hashtags: ""
+  - username: "jilissa"
+    fullname: >-
+      Jilissa
+    bio: >-
+      miami
+    location: "United States"
+    followers: 1769306
+    engagement: 72
+    commentsToLikes: 0.008736
+    id: ck55l3a300nep0i11peoghq4c
+    verified: false
+    hashtags: ""
   - username: "joshwolff_"
     fullname: >-
       
@@ -19,18 +79,6 @@ profiles:
     id: ck14jx8w7mnch0i19ifnjmy6z
     verified: false
     hashtags: "#linkinbio"
-  - username: "alexajsanchez"
-    fullname: >-
-      Alexa J. Sanchez
-    bio: >-
-      Miami
-    location: "United States"
-    followers: 12284
-    engagement: 800
-    commentsToLikes: 0.041520
-    id: ck134kmvbwvvp0i1923bhwy4w
-    verified: false
-    hashtags: "#mtv, #miami, #los40, #nickiminaj"
   - username: "emilyperezz_"
     fullname: >-
       E
@@ -67,64 +115,16 @@ profiles:
     id: ckaotjw64w8ua0i783c05hp2t
     verified: false
     hashtags: "#tangowithpole, #tangowithpoleonlinecourse, #pole, #poleart"
-  - username: "alix_earle"
+  - username: "vanessaperezxo"
     fullname: >-
-      Alix Ashley Earle
+      Vanessa Perez
     bio: >-
-      ❣︎ MIAMI
+      miami based ✨🫶🏼📷🎧 beauty | fashion | lifestyle 💌 vanessa@v1sionventures.com
     location: "United States"
-    followers: 1504761
-    engagement: 1718
-    commentsToLikes: 0.014486
-    id: cl7ffp5vjr4b70i23x2xwdzip
+    followers: 17544
+    engagement: 1592
+    commentsToLikes: 0.017510
+    id: ck55jpfa7xi2t0i113c9rthiu
     verified: false
-    hashtags: "#ootd, #explore, #ad, #inspo"
-  - username: "knolldoll"
-    fullname: >-
-      Ivana Knöll
-    bio: >-
-      5’ 11 📍Miami/ Croatia 🇭🇷 Owner of @wearknolldoll
-    location: "United States"
-    followers: 3661041
-    engagement: 1270
-    commentsToLikes: 0.008337
-    id: ck5zz2hwqayf50i141b90jmug
-    verified: true
-    hashtags: "#bangenergy, #energydrink"
-  - username: "chicismyniche"
-    fullname: >-
-      Chicismyniche
-    bio: >-
-      ✿ STUART/MIAMI FL ✿ Chic looks good on you ✿ Owner: @sydney_cozza 💌chicismyniche@gmail.com
-    location: "United States"
-    followers: 10678
-    engagement: 729
-    commentsToLikes: 0.214196
-    id: cl7ffqu1nr5o30i23ugs0lyyg
-    verified: false
-    hashtags: "#pinterestaesthetic, #summeroutfit, #outfitideas, #astrbabe"
-  - username: "xileniamena"
-    fullname: >-
-      X I L E
-    bio: >-
-      MIAMI / LA twitter: @ xileniaM Tiktok: itsxileyo (1mil+) xile@thelilacagency.com @thelilacagency @forever21 ambassador
-    location: "United States"
-    followers: 262433
-    engagement: 1608
-    commentsToLikes: 3.568767
-    id: cksvjmll59x7n0j23fpwsu682
-    verified: false
-    hashtags: "#foreverbabe, #f21holiday, #foreverla, #f21xfoh"
-  - username: "jelian"
-    fullname: >-
-      Jelian Mercado
-    bio: >-
-      based in miami mom @jelianunfiltered 💌 jelianmercado@select.co links:
-    location: "United States"
-    followers: 163869
-    engagement: 1049
-    commentsToLikes: 0.002528
-    id: ck6uajvui3za30j71zw2rjcfq
-    verified: false
-    hashtags: "#sheinxtrevorproject, #sheinpartner, #madeforyou, #sheinpride"
+    hashtags: "#everydaymakeup, #makeup, #getreadywithme, #grwm"
 ---

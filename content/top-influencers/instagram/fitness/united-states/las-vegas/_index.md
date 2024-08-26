@@ -1,12 +1,24 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Las Vegas In 2023
+title: Top 10 Fitness Instagram Influencers In Las Vegas In 2024
 description: >-
-  Find top fitness Instagram influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #fitness #love #vegas.
+  Find top fitness Instagram influencers in Las Vegas in 2024. Most popular hashtags: #lasvegas #fitness #vegas #bikini.
 platform: Instagram
-hits: 277
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 277 Instagram influencers like this in Las Vegas, United States for you to collaborate.
+hits: 340
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 340 Instagram influencers like this in Las Vegas, United States for you to collaborate.
 profiles:
+  - username: "andrii_bondarenko"
+    fullname: >-
+      Andrii Bondarenko
+    bio: >-
+      📍Currently in Las Vegas at @absinthe_vegas For handstand lessons📩 STOP WAR IN UKRAINE 🇺🇦 #stoprussianaggression #славаукраїні
+    location: "United States"
+    followers: 174793
+    engagement: 136
+    commentsToLikes: 0.014566
+    id: ck139ozy5meya0i19hegq2vhn
+    verified: false
+    hashtags: "#gymnastics, #gymnasticsshoutouts, #calisthenics, #handstandonline"
   - username: "laurenfogle10"
     fullname: >-
       lauren fogle
@@ -19,6 +31,18 @@ profiles:
     id: ckap6e1s3fi8n0i78jq34kkp5
     verified: false
     hashtags: "#cosplaygirl, #fun, #wrestling, #boobs"
+  - username: "olya_jakubowski"
+    fullname: >-
+      Olya Jakubowski
+    bio: >-
+      NQ NPC Wellness Athlete🏆 📍-Utah CF-L1 trainer💪🏻🏋🏼‍♂️ SUU 🎾 Alumni Living the dream💖 👻- olya_kunz Check out all the amazing companies i work with 👇🏻
+    location: "United States"
+    followers: 9101
+    engagement: 1100
+    commentsToLikes: 0.048693
+    id: ck0w4sbfr063e0i19wa8tbnha
+    verified: false
+    hashtags: "#waikiki, #fitspo, #instagood, #utah"
   - username: "ali.na89"
     fullname: >-
       Ali Na Skater
@@ -55,18 +79,18 @@ profiles:
     id: ck8t0g926ryl50j78e5dubucd
     verified: false
     hashtags: "#handbalance, #handbalancing, #contortion, #lasvegas"
-  - username: "reneepaquette"
+  - username: "ajcats"
     fullname: >-
-      Renee Paquette
+      Andrea Catsimatidis
     bio: >-
-      Canadian tuxedo aficionado.
+      💰Billionaire Heiress 💃🏼Business Bombshell ✈️Jetsetter 🇺🇸NYC Native 🐘Manhattan Republican Party Chair 💗Philanthropist 🏈Footballer
     location: "United States"
-    followers: 2843783
-    engagement: 133
-    commentsToLikes: 0.000325
-    id: ck0w6nr259fuz0i19d4ait7g5
+    followers: 65130
+    engagement: 407
+    commentsToLikes: 0.085031
+    id: ck8sxtn03imaz0j78fd8f670p
     verified: true
-    hashtags: "#vegasfit, #vegasworkouts, #lasvegasgyms, #motivation"
+    hashtags: "#politics, #manhattanrepublicanparty, #godblessamerica, #love"
   - username: "og_ducks_14u"
     fullname: >-
       OG DUCKS 14u
@@ -91,40 +115,16 @@ profiles:
     id: ckap5fcr9bf7r0i78c6fr9l1x
     verified: false
     hashtags: ""
-  - username: "carlitosway78"
+  - username: "christina_lionscat"
     fullname: >-
-      Las Vegas Photographer
+      Christina LionsCat 🐱
     bio: >-
-      "..And Really I Think I Like Who I'm Becoming ..-Drake 📍Visalia,CA 👉🏼 Las Vegas,NV 📸 ￼Vegas ￼Photographer￼ 🍽 Foodie 💻 Social Media
+      👩🏼‍🎓 Bachelor of Arts 📚 🇦🇹 Austria 👸🏼 Reel & Style Account: @christina_lions_cat 💕 ❤️‍🔥Content & DMs⬇️
     location: "United States"
-    followers: 8952
-    engagement: 334
-    commentsToLikes: 0.099465
-    id: ck5buc7qrhipj0i112u6pwzor
+    followers: 944204
+    engagement: 367
+    commentsToLikes: 0.018207
+    id: ckzpxxcahkqrq0j233n4e56f0
     verified: false
-    hashtags: "#naturelovers, #hike, #travelbug, #travelgram"
-  - username: "ohh_rebecca"
-    fullname: >-
-      Fuzz🥀
-    bio: >-
-      The sweetest nectar is within🦜 A good deed brightens a dark world 🌎 San Diego, CA. 🔆 @thelostinsandiego @beccbites
-    location: "United States"
-    followers: 2944
-    engagement: 1979
-    commentsToLikes: 0.085198
-    id: ck15qkjzn3asv0i19oy1f7oho
-    verified: false
-    hashtags: "#travel, #electrumperformance, #sandiego, #cabosanlucas"
-  - username: "contoulzii"
-    fullname: >-
-      Ulziibayar Chimed-Sahagun
-    bio: >-
-      💥 Head Coach @kstar.lv Academy 💥 Cirque Du Soleil Artist 25 years 💥 Alegria (1994-2005) Zumanity (2005 to 2020) 💥 Study Authentic Contortion ⬇️
-    location: "United States"
-    followers: 6215
-    engagement: 381
-    commentsToLikes: 0.037935
-    id: ck5q1r4dtcd410i112uoo0iwa
-    verified: false
-    hashtags: "#contortionclass, #handstand365, #stregthandconditioning, #coachulzii"
+    hashtags: "#la, #gymlife, #recap, #gymgirl"
 ---

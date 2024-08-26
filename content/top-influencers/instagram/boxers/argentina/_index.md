@@ -1,11 +1,11 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Argentina In 2023
+title: Top 10 Boxers Instagram Influencers In Argentina In 2024
 description: >-
-  Find top boxers Instagram influencers in Argentina in 2023. Most popular hashtags: #boxer #verano #summer #chile.
+  Find top boxers Instagram influencers in Argentina in 2024. Most popular hashtags: #boxer #verano #summer #automovilismo.
 platform: Instagram
-hits: 10
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 10 Instagram influencers like this in Argentina for you to connect with.
+hits: 9
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 9 Instagram influencers like this in Argentina for you to contact.
 profiles:
   - username: "antonia_cristal"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck13bp4wjwhqo0i19ffrpeqbn
     verified: true
     hashtags: "#coquimbo, #vacaciones, #photography, #bikini"
-  - username: "ojedaluisina"
-    fullname: >-
-      Luisina Ojeda
-    bio: >-
-      Periodista y modelo Con ♥️ @selva.basics 📍Buenos Aires
-    location: "Argentina"
-    followers: 147009
-    engagement: 286
-    commentsToLikes: 0.006098
-    id: ck6tyffoe3epz0j71fk69y58n
-    verified: false
-    hashtags: "#angus, #comunidadoldprince, #oldprince, #tripleimpacto"
   - username: "elnitromp"
     fullname: >-
       Diogenes Bojorquez Lopez

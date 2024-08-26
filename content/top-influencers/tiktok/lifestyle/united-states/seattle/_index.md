@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Seattle In 2023
+title: Top 10 Lifestyle TikTok Influencers In Seattle In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Seattle in 2023. Most popular hashtags: #seattle #fyp #lifestyle #foodie.
+  Find top lifestyle TikTok influencers in Seattle in 2024. Most popular hashtags: #seattle #fyp #lifestyle #foodie.
 platform: TikTok
 hits: 10
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: inBeat holds 10 TikTok influencers like this in Seattle, United States for you to pitch.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 10 TikTok influencers like this in Seattle, United States for you to pitch.
 profiles:
   - username: "sorelle.hardin"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.028191
     id: ck8ophmvo36cg0j78vyi7dg2o
     verified: false
-    hashtags: "#homedecor, #hometour, #seattletiktok, #boyfriend"
+    hashtags: "#hometour, #boyfriend, #seattletiktok, #seattle"
   - username: "suhgenuine"
     fullname: >-
       Suhgenuine
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.071705
     id: ckbf22xrnos4a0j235abtmqn2
     verified: false
-    hashtags: "#grwm, #fyp, #thrifthaul, #makeup"
+    hashtags: "#thrifthaul, #makeup, #grwm, #rn"
   - username: "bymichellelei"
     fullname: >-
       Michelle Pinlac
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.229849
     id: cka5yfb44hzzz0i78fg84p7l7
     verified: false
-    hashtags: "#millionactsoflove, #coversong, #makemomepic, #fyp"
+    hashtags: "#ryantedder, #fyp, #makemomepic, #millionactsoflove"
   - username: "joellefriend"
     fullname: >-
       Joelle
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.018955
     id: ck9fg84ue0npy0j78nuqxv4w9
     verified: true
-    hashtags: "#travel, #christmas2020, #pnw, #seattle"
+    hashtags: "#washingtoncheck, #pnw, #travel, #fitcheck"
   - username: "michael96513"
     fullname: >-
       Michael Bisnett
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.029737
     id: ck81qv6vok4yq0j78n4lvety3
     verified: true
-    hashtags: "#blackgirlluxury, #fyp, #womenstyle, #ifeelweightless"
+    hashtags: "#fyp, #ifeelweightless, #womenstyle, #blackgirlluxury"
   - username: "_angiemata"
     fullname: >-
       A N G I E  M A T A
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.006360
     id: ck932idajjn7l0j78nk9obu71
     verified: false
-    hashtags: "#latina, #comida, #fyp, #dessert"
+    hashtags: "#comida, #seafood, #latino, #food"
   - username: "annabannerz"
     fullname: >-
       annersz

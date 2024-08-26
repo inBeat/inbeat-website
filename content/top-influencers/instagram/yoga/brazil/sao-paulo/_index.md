@@ -1,12 +1,24 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Sao Paulo In 2023
+title: Top 10 Yoga Instagram Influencers In Sao Paulo In 2024
 description: >-
-  Find top yoga Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #yoga #saopaulo #praia #brasil.
+  Find top yoga Instagram influencers in Sao Paulo in 2024. Most popular hashtags: #yoga #saopaulo #brasil #praia.
 platform: Instagram
-hits: 25
+hits: 24
 text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 25 Instagram influencers like this in Sao Paulo, Brazil for you to work with.
+text_bottom: Our search engine aggregates 24 Instagram influencers like this in Sao Paulo, Brazil for you to work with.
 profiles:
+  - username: "hideo_official"
+    fullname: >-
+      Hideo Muraoka
+    bio: >-
+      🇧🇷🇯🇵Father Entrepreneur life student. CEO @muraokamassoterapia Photographer @hideomuraokaphotography Yoga Teacher @the_movement_tribe_ph_
+    location: "Brazil"
+    followers: 202711
+    engagement: 62
+    commentsToLikes: 0.022773
+    id: ck5c0l7butcxh0i11bj2ckoph
+    verified: true
+    hashtags: "#yoga, #muraokamassoterapia, #myofascial, #saopaulo"
   - username: "tamysilva.ofc"
     fullname: >-
       Tamy 🌸
@@ -19,18 +31,6 @@ profiles:
     id: ck6u7yb1hodvd0j71fo0e39qw
     verified: false
     hashtags: "#cinelandia, #foto, #mar, #feed"
-  - username: "rotaveg"
-    fullname: >-
-      RotaVEG | Victor
-    bio: >-
-      O RotaVEG é onde compartilho minhas veganices por aí! 🌱 (São Paulo/SP) 🧘‍♂️ Yoga on-line comigo de terças e quintas, às 19h pelo Zoom. Manda direct!
-    location: "Brazil"
-    followers: 61666
-    engagement: 222
-    commentsToLikes: 0.072458
-    id: ck602bgiqh2li0i14kbsilqek
-    verified: false
-    hashtags: "#rotaveg, #chocolife, #germinouoficial, #vegan"
   - username: "_lilipersonal"
     fullname: >-
       Lili Pessoa 🌻
@@ -79,18 +79,18 @@ profiles:
     id: ck138j4qtgh0w0i19pllcapy3
     verified: false
     hashtags: "#travelcouple, #travelgirlsgo, #beachlovers, #travelwithpurpose"
-  - username: "rafadeieno"
+  - username: "pamelaotero"
     fullname: >-
-      Nutrição | Rafaella Deieno
+      • PAMELA OTERO • ATRIZ • YOGA
     bio: >-
-      🍍Nutrição sem modismo 🍴Receitas 🎓Estudante de Nutrição 8/8 📖@liga_maternoinfantil 📍São Paulo 👇🏻LINKS 👇🏻
+      ✡️ABIGAIL (irmã de Davi) em @seriereis 🎙Podcast OTERO🧘🏻‍♀️ Profe Yoga/ Meditação 🎬 @primevideobr @disneyplusbr 🤦🏻‍♀ Publicitária @espmsaopaulo
     location: "Brazil"
-    followers: 8444
-    engagement: 1084
-    commentsToLikes: 0.375167
-    id: ckaox6gm3bzu30i78zc0bcgl3
+    followers: 84268
+    engagement: 44
+    commentsToLikes: 0.188709
+    id: ck6ugfls12qyy0j71wcu7urf0
     verified: false
-    hashtags: "#nutri, #academia, #dieta, #emagrecerdicas"
+    hashtags: "#vidadeatriz, #respeito, #hair, #for"
   - username: "edi_aysha"
     fullname: >-
       ☀️ Edi Aysha 🌙

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Kyoto In 2023
+title: Top 10 Photographers Instagram Influencers In Kyoto In 2024
 description: >-
-  Find top photographers Instagram influencers in Kyoto in 2023. Most popular hashtags: #japan #photo #kyoto #ig.
+  Find top photographers Instagram influencers in Kyoto in 2024. Most popular hashtags: #japan #ig #photo #kyoto.
 platform: Instagram
-hits: 28
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 28 Instagram influencers like this in Kyoto, Japan for you to collaborate.
+hits: 27
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 27 Instagram influencers like this in Kyoto, Japan for you to pitch.
 profiles:
   - username: "yu_umaa06"
     fullname: >-
@@ -115,16 +115,16 @@ profiles:
     id: ck5hopm7qpzrv0i11z8c1yq05
     verified: false
     hashtags: "#photography, #photooftheday, #haveaniceday, #ootd"
-  - username: "masatoshi_nagase_official"
+  - username: "amrgnd"
     fullname: >-
-      永瀬正敏  Masatoshi Nagase
+      Amar GND
     bio: >-
-      actor / photographer 永瀬正敏公式インスタグラム / 永瀨正敏官方IG / Masatoshi Nagase's official instagram #masatoshinagase #永瀬正敏 @masatoshi_nagase_official
+      📍Paris 💚Japan🎌 ♾️Dancer | Photographer | Traveler Portraits @soulsbyamar 📩DM for photo sessions 🖼️Prints available DM 📷© @lumix_france
     location: "Japan"
-    followers: 38597
-    engagement: 553
-    commentsToLikes: 0.021666
-    id: ck6tx7bl7w88y0j71geei0jea
+    followers: 10061
+    engagement: 468
+    commentsToLikes: 0.035341
+    id: ck8t1xh71xfof0j78cw7efuwt
     verified: false
-    hashtags: "#thankyou, #masatoshinagase, #masatoshi, #kyoto"
+    hashtags: "#blancnoir2, #paris, #lumixfr, #bcncollective"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In South Africa In 2023
+title: Top 10 Lifestyle Instagram Influencers In South Africa In 2024
 description: >-
-  Find top lifestyle Instagram influencers in South Africa in 2023. Most popular hashtags: #southafrica #ootd #fashion.
+  Find top lifestyle Instagram influencers in South Africa in 2024. Most popular hashtags: #ad #makeup #gifted.
 platform: Instagram
-hits: 83
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 83 Instagram influencers like this in South Africa for you to connect with.
+hits: 133
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 133 Instagram influencers like this in South Africa for you to contact.
 profiles:
-  - username: "kay.yarms"
+  - username: "uleenfourie"
     fullname: >-
-      Kay Yarms
+      Uleen Fourie | Health & Fitness Coach
     bio: >-
-      God • Beauty • Lifestyle @saxxbeauty 💎 YouTube : Kay Yarms
+      🙋‍♀️ Let me help you to STOP dieting & make it a lifestyle 📖 Health Coach 📱Co-founder @health_eapp 👇Gym & Home Programs
     location: "South Africa"
-    followers: 433820
-    engagement: 632
-    commentsToLikes: 0.007879
-    id: ck5hmtw11mm800i11j8u3psf6
+    followers: 75381
+    engagement: 400
+    commentsToLikes: 0.019496
+    id: ckaouird90g760i78bc049lwx
     verified: false
-    hashtags: "#keepwalkingsa, #hiltonbig5, #youbelong, #ad"
-  - username: "fehmz"
+    hashtags: "#burntstudios, #quickandeasymeals, #balancedlifestyle, #bodylove"
+  - username: "dimmaumeh"
     fullname: >-
-      Fehmz
+      DIMMA UMEH
     bio: >-
-      Sharing my life adventure with you Lifestyle | Travel | Food | Plus+ Go to > www.fehmz.com JHB, ZA 🇿🇦 #southafrica @halaalgoodsmarket @fehmzmocktails
+      Beauty | Fashion | Lifestyle dimmaumeh@bossmgmtgrp.com (Global) info@dimmaumeh.com (Nigeria)
     location: "South Africa"
-    followers: 125944
-    engagement: 313
-    commentsToLikes: 0.015450
-    id: ck0w6espr882r0i19xmu3iovq
+    followers: 220355
+    engagement: 778
+    commentsToLikes: 0.017173
+    id: ck15pef3mxh7o0i19us74nj99
+    verified: true
+    hashtags: "#streamingforafrica, #esteelauderdreamdusk, #perfumecollection, #ashowforeveryshowmaxer"
+  - username: "nikitajoshua"
+    fullname: >-
+      NIKITA JOSHUA
+    bio: >-
+      Momma | digital content creator | model | pro makeup artist beauty | fashion | lifestyle owner @prettybishbeauty co-founder @shopcalnik Cape Town
+    location: "South Africa"
+    followers: 34639
+    engagement: 610
+    commentsToLikes: 0.025989
+    id: ck5q1k1wmbddf0i113a465475
     verified: false
-    hashtags: "#fehmzsavoury, #cooking, #fehmzsweet, #fehmz"
+    hashtags: "#gifted, #parentstobe, #colorstay, #vanityline"
+  - username: "chane_grobler18"
+    fullname: >-
+      Chané Grobler
+    bio: >-
+      Lifestyle, beauty, fashion🤍 Pretoria, ZA📍 PR & Business: info@starburstmusic.co.za @starburst_promotions @johanstroh 🩷 Jewelry: @gracethebrand.co.za 💛
+    location: "South Africa"
+    followers: 104675
+    engagement: 2091
+    commentsToLikes: 0.005903
+    id: ck5q1k6eabdxq0i1196otdgno
+    verified: false
+    hashtags: "#centrum7daychallenge, #vodacomworldcollectibles, #sponsored, #ad"
+  - username: "diariesofanislandergirl"
+    fullname: >-
+      𝘇 𝗮 𝗶 𝗻 𝗮 𝗵  ✨
+    bio: >-
+      ✧ food • skincare • makeup • lifestyle 🇲🇺 ✧ shop @_mocouture_ ✧ book acc @diariesofabooknerd ✧ other links ⤵
+    location: "South Africa"
+    followers: 12565
+    engagement: 439
+    commentsToLikes: 0.016002
+    id: ck5hqose9tghk0i11u4gxah0n
+    verified: false
+    hashtags: "#realmagic, #cokefoodfestival, #larocheposay, #diariesofanislandergirl"
+  - username: "regodise"
+    fullname: >-
+      Rego & Dise
+    bio: >-
+      Just An Ordinary Couple Creating To Inspire Love • Family • Travel & Lifestyle #RegoDise
+    location: "South Africa"
+    followers: 322813
+    engagement: 994
+    commentsToLikes: 0.008252
+    id: cloxohrj30avz0j08uzho54nn
+    verified: false
+    hashtags: "#regodise, #myfirstchristmas, #regodisekgosi, #babybumpday"
+  - username: "buli_makhubo"
+    fullname: >-
+      Buli Makhubo
+    bio: >-
+      Beauty, Lifestyle, Health, Fashion |YouTuber | Speaker Zech 4:6 Intentional about Living A Life Well Built🤍 Founder: @refiine_
+    location: "South Africa"
+    followers: 72446
+    engagement: 771
+    commentsToLikes: 0.021014
+    id: cloxohr0e0anb0j08m2a0rh1g
+    verified: false
+    hashtags: "#vichysa, #liftactivvitaminc, #cottononkids, #lorealparissa"
   - username: "ismaeelbagus"
     fullname: >-
       Ismaeel Bagus
     bio: >-
-      Fashion | Photography | Lifestyle 📍Cape Town, South Africa 📨 ismaeelbagus@gmail.com 👫🏽 @pastthebag Shop the look & more ⤵️
+      Fashion | Photography | Lifestyle 📍Cape Town, South Africa 📨 ismaeelbagus@gmail.com 📸 @flashmeishi Tiktok: ismaeel.bagus
     location: "South Africa"
-    followers: 4451
-    engagement: 1441
-    commentsToLikes: 0.098271
+    followers: 4814
+    engagement: 822
+    commentsToLikes: 0.077386
     id: ck136233x4dks0i19e0kr7qsm
     verified: false
-    hashtags: "#hmxme, #hm, #letspush, #mrpmystyle"
-  - username: "majestic_mey"
+    hashtags: "#hindash, #mycottonon, #nofearxhm, #ad"
+  - username: "beautifully.flawed.one"
     fullname: >-
-      Razaan Meyer-Khan 🖤
+      Abena | Traveling Africa and the Diaspora 🇬🇭
     bio: >-
-      Fashion, Beauty & Lifestyle Content Creator Promos & PR: info@majesticza.co.za | NO DMs ↘️ shop @majesticza_
+      On a mission to create a life I don’t need a vacation from and helping you to do it too! Travel, Lifestyle, Black Liberation✊🏿📍DAKAR Free 🇨🇩🇸🇩🇵🇸
     location: "South Africa"
-    followers: 232492
-    engagement: 893
-    commentsToLikes: 0.149581
-    id: ck6u4o8l84uvj0j71pe28pxwj
+    followers: 57471
+    engagement: 1351
+    commentsToLikes: 0.064449
+    id: ck8t0ricxt10h0j78zyqlykgb
     verified: false
-    hashtags: "#beautyathomewithu, #forgirlsbygirls, #youdosummer"
-  - username: "frema.mensah"
+    hashtags: "#believe, #africa, #travelafrique, #renaissancetour"
+  - username: "aluvenguza"
     fullname: >-
-      🇬🇭Frema Mensah🇬🇭
+      Aluve Nguza
     bio: >-
-      Model | Fashion | Beauty | lifestyle 📧 fremamensah95@gmail.com @topcomodels cpt 🇿🇦 @fabulousdotcom_models Jhb 🇿🇦 Cape Town 📍
+      Natural Hair • Beauty • Lifestyle • Thespian
     location: "South Africa"
-    followers: 7981
-    engagement: 721
-    commentsToLikes: 0.085715
-    id: ck55mwkjc4zg40i11b4gc4y7d
+    followers: 17723
+    engagement: 751
+    commentsToLikes: 0.030538
+    id: ck6tlg55q5zy20j71po2b4ekx
     verified: false
-    hashtags: "#bluesky, #blackgirl, #melaninqueen, #afrohairstyles"
-  - username: "nicole.gibbons"
-    fullname: >-
-      NICOLE | Beauty & Lifestyle
-    bio: >-
-      Lifestyle & Beauty creator 🦋 Pr/Collabs : Nicolegibbonsbusiness@gmail.com⠀ LLB LAW 👩‍🎓 @tiaan10_stander 🤍⠀ ⠀ ⠀
-    location: "South Africa"
-    followers: 12949
-    engagement: 865
-    commentsToLikes: 0.358580
-    id: ck9wfav3fo0v00j782q0ik9xq
-    verified: false
-    hashtags: "#instadaily, #beauty, #quotes, #lookbook"
-  - username: "kwanda_photography"
-    fullname: >-
-      Kwanda Photography
-    bio: >-
-      Wedding and Lifestyle photographer. For bookings contact@kwandaphotography.com www.kwandaphotography.com
-    location: "South Africa"
-    followers: 29507
-    engagement: 167
-    commentsToLikes: 0.059161
-    id: ck6u4nwmh4t0s0j714gkg68yp
-    verified: false
-    hashtags: ""
-  - username: "karlobaker"
-    fullname: >-
-      Karlo Baker
-    bio: >-
-      🔥Chat @ CAMEO👇 📕 Men's Lifestyle, Fashion & Travel Blog 💻 Entrepreneur|PublicSpeaker|Advocate 🗣 Face of #Nero in #devilmaycry5 ✝️ Christian 📍Cape Town
-    location: "South Africa"
-    followers: 45284
-    engagement: 286
-    commentsToLikes: 0.049609
-    id: ck6tpfsiyjmb60j71epp6drpu
-    verified: false
-    hashtags: "#truewisdom, #behindthescenes, #nofilter, #pain"
-  - username: "lorettahove"
-    fullname: >-
-      Loretta P Hove
-    bio: >-
-      • Fashion & Lifestyle • CEO: @xariahofficial • Founder/Co-owner: @nekid_beauty Cape Town, SA
-    location: "South Africa"
-    followers: 37796
-    engagement: 261
-    commentsToLikes: 0.029286
-    id: ck0vw8jorsl1l0i19cm7i1ewu
-    verified: false
-    hashtags: "#stylemeafrica, #melaninblogger, #outfitselfie, #theoutfitscrapbook"
-  - username: "demiknoetze"
-    fullname: >-
-      DEMI KNOETZE
-    bio: >-
-      Photography | Lifestyle | Fashion 🦋 South African @bydemiknoetze @the_illegal_eagle xo Buy my presets on @line29presets
-    location: "South Africa"
-    followers: 17951
-    engagement: 1611
-    commentsToLikes: 0.005648
-    id: ck5znbw1do5yg0i14gugnllnk
-    verified: false
-    hashtags: ""
+    hashtags: "#styleidambassador, #crocosign, #easycurls, #foodlovers"
 ---

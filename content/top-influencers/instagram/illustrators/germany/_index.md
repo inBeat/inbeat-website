@@ -1,12 +1,48 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Germany In 2023
+title: Top 10 Illustrators Instagram Influencers In Germany In 2024
 description: >-
-  Find top illustrators Instagram influencers in Germany in 2023. Most popular hashtags: #illustration #illustrationartists #artwork #art.
+  Find top illustrators Instagram influencers in Germany in 2024. Most popular hashtags: #illustration #drawing #art #procreate.
 platform: Instagram
-hits: 140
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 140 Instagram influencers like this in Germany for you to connect with.
+hits: 149
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database holds 149 Instagram influencers like this in Germany for you to connect with.
 profiles:
+  - username: "madalinadraws"
+    fullname: >-
+      Madalina Tantareanu ♡ Artist
+    bio: >-
+      Germany 🇩🇪 based illustrator who loves drawing magical cities and dreamy worlds. 🎨 SHOP art prints, puzzles & books👇🏻
+    location: "Germany"
+    followers: 23096
+    engagement: 563
+    commentsToLikes: 0.053718
+    id: ckaos7um7qhru0i78lgu9bkh3
+    verified: false
+    hashtags: "#travelprints, #idrawandtravel, #ink, #artistonetsy"
+  - username: "rita.berman"
+    fullname: >-
+      Rita Berman
+    bio: >-
+      Illustrator | Travel Lover | FFM Germany Author of the coloring book & puzzle #ritaberman
+    location: "Germany"
+    followers: 36439
+    engagement: 712
+    commentsToLikes: 0.052649
+    id: ck14ifi9qf53t0i19evezoa8b
+    verified: false
+    hashtags: "#illustrationartists, #meinereisedurchafrika, #colouringbook, #illustration"
+  - username: "julika.illustration"
+    fullname: >-
+      Julia Kretschmann
+    bio: >-
+      Freelance Illustrator based in Hamburg . Let's work together 💌 hej@kretschmann.ink
+    location: "Germany"
+    followers: 18361
+    engagement: 544
+    commentsToLikes: 0.033913
+    id: ck0tyvprao9ea0i19d0q2ja3m
+    verified: false
+    hashtags: "#wrapmagazine, #ad, #bookillustration, #portraitart"
   - username: "franzizo"
     fullname: >-
       Franziska Viviane Zobel ✏️ Illustration & Gestaltung
@@ -18,113 +54,77 @@ profiles:
     commentsToLikes: 0.032500
     id: ck8t8whjqm3t60j78x6h0tmdk
     verified: false
-    hashtags: "#illustrator, #illustratorin, #dtiys, #kunst"
-  - username: "yvurdem"
+    hashtags: "#merrycrisis, #dtiys, #illustration, #illustree"
+  - username: "clemence_gouy"
     fullname: >-
-      Yaşar Vurdem
+      Clémence Gouy
     bio: >-
-      Digital Artist / Illustrator ⬇️My tutorials and brushes⬇️
+      French illustrator based in Amsterdam ✸ Agents: @thedifferentfolk 🇬🇧 & @creasenso🇫🇷 💌 hello@clemgouy.com Also graphic designer: @clemgouy
     location: "Germany"
-    followers: 232564
-    engagement: 271
-    commentsToLikes: 0.020703
-    id: ck0w49s6nxi1t0i19ifr4g266
+    followers: 52010
+    engagement: 300
+    commentsToLikes: 0.030957
+    id: ck6uazxfa6obs0j71djcw5gwe
     verified: false
-    hashtags: "#digitaldrawing, #wacom, #digitalpaintingtutorial, #illustrations"
-  - username: "ilkabruehl"
+    hashtags: "#art, #procreate, #painting, #mural"
+  - username: "simonbailly"
     fullname: >-
-      Ilka Brühl (she/ her)
+      
     bio: >-
-      Autorin | Illustratorin | Mutmacherin Unsere Vielfalt ist eine Bereicherung. 💛 🎙️Podcast 'Du bist wunderbar' MGMT: @femgmt.impressum
+      Illustrator (Lyon): simon-bailly@outlook.fr Represented by @kg_talents_illustration (France) @sepiaillustration (Germany) ⬇️SHOP⬇️
     location: "Germany"
-    followers: 32881
-    engagement: 298
-    commentsToLikes: 0.046119
-    id: ck6trg2d9ys4k0j71jrkkskpl
+    followers: 163616
+    engagement: 1213
+    commentsToLikes: 0.002983
+    id: cl51wccmw0exq0i238uf3gswb
     verified: false
-    hashtags: "#autorin, #gittinails, #everystepcounts, #illustratorin"
-  - username: "damienvignaux"
+    hashtags: "#ecology, #flyingsaucer, #eggs, #comics"
+  - username: "marius.kindler"
     fullname: >-
-      Damien Vignaux
+      Marius Kindler
     bio: >-
-      Berlin/Biarritz. Film director, photographer, collage illustrator. Maison Vignaux with mom boss @jaqvignaux
+      industrial designer & illustrator designer at @stokkebaby online course available on my website!
     location: "Germany"
-    followers: 31115
-    engagement: 387
-    commentsToLikes: 0.010778
-    id: ck5ce6sdakftw0i11l5lfv0yw
+    followers: 130248
+    engagement: 280
+    commentsToLikes: 0.005020
+    id: ck5q6iuibxk440i11d8qfcufg
     verified: false
-    hashtags: "#portra400, #pentax645"
-  - username: "milamarquis"
+    hashtags: "#idsketch, #produktdesign, #dailysketch, #sketches"
+  - username: "johanna_and_the_grunlings"
     fullname: >-
-      mila marquis
+      Johanna Forster
     bio: >-
-      Freelance Illustrator . living in cloud-cuckoo-land . contact: milamarquis@gmx.de . all pics copyright mila marquis .
+      🤖 Illustrator from Germany 🌿 creating a card game @grunlinggames 🎨 selling prints, originals & more 👩🏻‍🎨 check out my drawing course
     location: "Germany"
-    followers: 5911
-    engagement: 1124
-    commentsToLikes: 0.090774
-    id: ckf5vhiotomjg0j235jjydahr
+    followers: 112790
+    engagement: 256
+    commentsToLikes: 0.009327
+    id: cl3cuhf8b4vtl0i23xhbkl32h
     verified: false
-    hashtags: "#togetherness, #catstagram, #instaillustration, #loveisallyouneed"
-  - username: "pelinkan_"
+    hashtags: "#watercolor, #drawing, #painting, #sketchbook"
+  - username: "marc.majewski"
     fullname: >-
-      Pelin Cesur 🌜
+      Marc Majewski
     bio: >-
-      👩🏽‍💻 Media Designer & freelance illustrator 🎨 watercolor & digital art 📍Hanover, Germany 🇩🇪 💌 plnkan@outlook.de
+      Illustrator Represented by @catbirdagencypix and @agencydu
     location: "Germany"
-    followers: 27499
-    engagement: 753
-    commentsToLikes: 0.047940
-    id: ck13cs3yl1vm00i1974ecqmny
+    followers: 103903
+    engagement: 227
+    commentsToLikes: 0.003889
+    id: ckaoxeietcwzj0i78yndk0hkn
     verified: false
-    hashtags: "#artwork, #botanicalillustration, #artofinstagram, #botanicalart"
-  - username: "franziska_maria_art"
+    hashtags: "#drawing, #picturebookillustration, #sketch, #abramsbook"
+  - username: "ramandjafari"
     fullname: >-
-      🌟Franzi ♡ thanks for 9 k🌟
+      Raman Djafari 🌿
     bio: >-
-      🎈 • Art between cute & nerdy ☀️ • Tiktok: franziska_maria_art (200k followers) 🦄 • Illustrator: dm me for prints and commissions
+      #filmmaker #animator #illustrator // based in Berlin 🤍new music video for @ashnikko :
     location: "Germany"
-    followers: 9222
-    engagement: 2011
-    commentsToLikes: 0.121140
-    id: ck8wgf3a7h8en0j7872u9yk33
+    followers: 80703
+    engagement: 218
+    commentsToLikes: 0.016762
+    id: ckq66ks4mhfmr0j23iinfabfz
     verified: false
-    hashtags: "#youngartistsofinstagram, #moviefanart, #movieartwork, #fanart"
-  - username: "caricarimusic"
-    fullname: >-
-      CARI CARI
-    bio: >-
-      1/2 of Cari Cari 🥁Drummer, Filmmaker & Illustrator //
-    location: "Germany"
-    followers: 6937
-    engagement: 691
-    commentsToLikes: 0.026523
-    id: ck138hz2agbxs0i19yu1dlwfs
-    verified: false
-    hashtags: "#analogphotography, #merchandise, #caricarimusic, #concertphotography"
-  - username: "binebraendle"
-    fullname: >-
-      Bine Brändle
-    bio: >-
-      ✍️Vorlagen-ONLINESHOP 🌈Multimarker🎉 🎨Eigene Kreativprodukte ✂️Stoffe 🧞‍♂️Teppiche . 👩‍🎨Illustratorin 📚Autorin 🧚🏼‍♀️Kreativ-Ideen 🍶Töpfern (Hobby)
-    location: "Germany"
-    followers: 114314
-    engagement: 391
-    commentsToLikes: 0.018475
-    id: ck6to86bucn4a0j711h55wfaf
-    verified: true
-    hashtags: "#selbermachen, #download, #basteln, #sommer"
-  - username: "martina_hoffmann"
-    fullname: >-
-      Martina Hoffmann Illustration
-    bio: >-
-      • Berlin based illustrator and animator • Portraits, plants + landscapes • Commissions open • Freebies, Shop + Portfolio:
-    location: "Germany"
-    followers: 18534
-    engagement: 903
-    commentsToLikes: 0.023557
-    id: ckap2eoycyiho0i783y3op9z3
-    verified: false
-    hashtags: "#femaleportrait, #styleillustration, #feminine, #plantaddict"
+    hashtags: "#characterillustration, #characteranimation, #3dmodeling, #illustrationartists"
 ---

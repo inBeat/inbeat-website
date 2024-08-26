@@ -1,24 +1,36 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Chile In 2023
+title: Top 10 Nutrition Instagram Influencers In Chile In 2024
 description: >-
-  Find top nutrition Instagram influencers in Chile in 2023. Most popular hashtags: #chile #santiago #happy.
+  Find top nutrition Instagram influencers in Chile in 2024. Most popular hashtags: #chile #fitness #happy.
 platform: Instagram
-hits: 30
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 30 Instagram influencers like this in Chile for you to contact.
+hits: 34
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 34 Instagram influencers like this in Chile for you to pitch.
 profiles:
+  - username: "dewii.veg"
+    fullname: >-
+      Dewii
+    bio: >-
+      Nutrition coach | Author of the books “Vegan Guide” and “Eco Guide” | Activist | Nomad 📍 Italy 📩 info@dewi.cz
+    location: "Chile"
+    followers: 88154
+    engagement: 478
+    commentsToLikes: 0.016517
+    id: ck5zpn72zsywl0i148khl2952
+    verified: false
+    hashtags: "#hustleculture, #veganapproved, #vyzvaproprirodu, #afrikaburn"
   - username: "micamurua"
     fullname: >-
-      
+      Micaela Murua
     bio: >-
-      📌BsAs, Argentina Model / Holistic Health / Beauty New York @emg_models CL @elitemodel_chile MEX @baxtmodels Student INN @nutritionschool 📚
+      📍Arg y del 🌎 Artista. Fashion Model. Beauty. Holistic New York @emg_models CL @elitemodel_chile MEX @baxtmodels Student INN @nutritionschool
     location: "Chile"
-    followers: 23851
-    engagement: 336
-    commentsToLikes: 0.145892
+    followers: 25241
+    engagement: 256
+    commentsToLikes: 0.128789
     id: ck139t27qmz500i19t1yqfv2v
     verified: false
-    hashtags: "#stbarths, #goldenhour, #stbarth, #lookoftheday"
+    hashtags: "#naturalmakeup, #pijamasmujer, #bridalmakeup, #totalblack"
   - username: "marialagunafitness"
     fullname: >-
       Maria Laguna Fitness
@@ -31,6 +43,30 @@ profiles:
     id: ck5zjfrlehidm0i14o15gj44f
     verified: false
     hashtags: "#desafiojunio, #energialimpia, #bajoconsumo, #entrenamientolive"
+  - username: "soficfit"
+    fullname: >-
+      Sofía Cavallini
+    bio: >-
+      Wellness Lifestyle Motivo, entreno & reflexionó TikTok (+215 k) Atleta @nikerunning Owner @this.sofit @sc.estudio 💌: scavallini@uc.cl
+    location: "Chile"
+    followers: 101022
+    engagement: 1694
+    commentsToLikes: 0.006033
+    id: clnbn6qx63z7x0j08dufw5ne5
+    verified: false
+    hashtags: "#wellness, #frases, #soficfitchallenge, #motivacion"
+  - username: "verobianchi89"
+    fullname: >-
+      Veronica Bianchi
+    bio: >-
+      Sports Journalist🇨🇱 TV Host Amo las papas fritas y los perros Contacto💌: veronicabianchi1989@gmail.com
+    location: "Chile"
+    followers: 256371
+    engagement: 436
+    commentsToLikes: 0.022993
+    id: ck8sz3h8kn12e0j785s9k3wat
+    verified: false
+    hashtags: "#tntdatasports, #tst, #chile, #diadelperro"
   - username: "leslie.fredes"
     fullname: >-
       𝑳𝒆𝒔𝒍𝒊𝒆 𝑭𝒓𝒆𝒅𝒆𝒔 ❀
@@ -54,77 +90,41 @@ profiles:
     commentsToLikes: 0.012474
     id: ck6txrwg6zhwe0j712thcx2g6
     verified: false
-    hashtags: "#endurance, #cycling, #bebrave, #bike"
-  - username: "primos_grimalt"
-    fullname: >-
-      Primos Grimalt
-    bio: >-
-      🇨🇱 WT🥇🥇🥇🥈🥈 JJOO Río 2016 JJPP🥇 JJSS 🥈🥉🥉 JJBB🥇🥇🥈 CT🥇X18 @herbalifenutritioncl @oakley_chile @gatoradechile @clinicameds
-    location: "Chile"
-    followers: 45991
-    engagement: 255
-    commentsToLikes: 0.012287
-    id: ck5pwlrwinfa40i11tklcsojk
-    verified: false
-    hashtags: "#chile, #beachvolleyball, #fortheloveofsport, #medicinadeportiva"
+    hashtags: "#mtb, #happy, #mtbgirl, #bortecycling"
   - username: "barbarehlla_h"
     fullname: >-
       Bárbara Hernández H.
     bio: >-
-      Psicóloga Mg #UChile #SirenaDelHielo #iceswimmer #Oceans7❄️🧜🏼‍♀️❤️ First Chilean #TripleCrown 👑👑👑🌊🏊‍♀️🇨🇱 #CatalinaChannel #EnglishChannel #Manhattan
+      #IceMermaid ❄️🧜🏽‍♀️ Psicóloga #UChile #Speaker 2xGuinness World Record #ExtreamSwimmer 6th ➡️ #Ocean's7 🏊‍♀️ #IceTeam❤️
     location: "Chile"
-    followers: 36296
-    engagement: 819
-    commentsToLikes: 0.081277
+    followers: 139063
+    engagement: 488
+    commentsToLikes: 0.065050
     id: ck5hs0mu7vsk60i11p9wvu213
     verified: false
-    hashtags: "#aysen, #coldwater, #sirenadelhielo, #womanoftheyear"
-  - username: "nicolas.amigo"
+    hashtags: "#icemermaid, #iceteam, #lollapalooza2023, #janequeo"
+  - username: "sirialopez__"
     fullname: >-
-      Nicolas Amigo Saavedra
+      Siria López
     bio: >-
-      Asesoría nutricional 100% online Fisicoculturista C. Absoluto Chile 🇨🇱 x 3 🏆🏆🏆 Team Ayala 🇵🇾 @imperio_gym Embajador @rocket.burger.iqq 🍔
+      Nta.👩🏽‍⚕️ Magíster en Nutrición deportiva💪🏽 Diplomado en fisiología del ejercicio (c)🏋🏽‍♀️ Agenda en @cualtzin.estetica Trini Mom❤️
     location: "Chile"
-    followers: 34095
-    engagement: 280
-    commentsToLikes: 0.032803
-    id: ck5q12p5w8zc60i11n41ut1xh
+    followers: 155984
+    engagement: 187
+    commentsToLikes: 0.012659
+    id: ck5qclwz1r7zg0i11lumrez23
     verified: false
-    hashtags: "#chile, #bodybuilding, #teamayala, #chestworkout"
-  - username: "javieraignacia.2"
+    hashtags: ""
+  - username: "lucrebernardo"
     fullname: >-
-      յαѵίεɾα ίɡηαɕία
+      LUCRECIA BERNARDO S.
     bio: >-
-      ᴄʜɪʟʟáɴ 🇨🇱 •ᴘᴇsᴄᴇᴛᴀʀɪᴀɴᴀ @nutricionista.javiera2 𝖤𝗌𝗍. 𝖽𝗂𝗉𝗅𝗈 𝖮𝖻𝖾𝗌𝗂𝖽𝖺𝖽 𝖢𝖾𝗋𝗍𝗂𝖿𝗂𝖼𝖺𝖽𝖺 𝖾𝗇 🍓𝖭𝗎𝗍.𝗏𝖾𝗀𝖺𝗇𝖺/𝗏𝖾𝗀𝖾𝗍. 🍓𝖯𝗌𝗂𝖼𝗈𝗇𝗎𝗍𝗋𝗂𝖼𝗂𝗈́𝗇 𝗒 𝖳𝖢𝖠 🍓𝖭𝗎𝗍.𝖽𝖾𝗉𝗈𝗋𝗍𝗂𝗏𝖺
+      born in chile | half spanish Lic. en Nutrición y dietética Make up artist Amante de viajar mbernardos@udd.cl
     location: "Chile"
-    followers: 92395
-    engagement: 303
-    commentsToLikes: 0.008762
-    id: ck6tzyyx1co7c0j71tfchk59g
+    followers: 20963
+    engagement: 134
+    commentsToLikes: 0.019931
+    id: clnbn6r833zgl0j08kvwy0b1u
     verified: false
-    hashtags: "#sopranoice, #lamejordepilacionlaser, #siemprelista, #enn"
-  - username: "rosario_balma"
-    fullname: >-
-      Rosario Balmaceda 🚀
-    bio: >-
-      💠 Estudiante de nutrición📚🤓 💠 Jugadora de @santiagomorningfem ⚽💪 💠 Seleccionada chilena 🇨🇱 @laroja
-    location: "Chile"
-    followers: 11324
-    engagement: 797
-    commentsToLikes: 0.009949
-    id: ck5qb44ewjptp0i1142abfxbm
-    verified: false
-    hashtags: "#playinside, #playfortheworld, #youcantstopus, #aburrida"
-  - username: "mjosefaj_"
-    fullname: >-
-      Mαrία joѕeғα Jiménez
-    bio: >-
-      ☆ Be happy, it drives people crazy ☆ Nutrición UC •@ohmnatural •@ohmnatural_reposteria
-    location: "Chile"
-    followers: 5725
-    engagement: 1016
-    commentsToLikes: 0.032988
-    id: ckf5lpurbqitj0j238uhy8tix
-    verified: false
-    hashtags: "#6months"
+    hashtags: "#ootd, #galapagos, #couplegoals, #revolveme"
 ---

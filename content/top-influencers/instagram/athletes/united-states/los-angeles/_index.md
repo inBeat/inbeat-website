@@ -1,24 +1,36 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Los Angeles In 2023
+title: Top 10 Athletes Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top athletes Instagram influencers in Los Angeles in 2023. Most popular hashtags: #athlete #fitnessmotivation #losangeles.
+  Find top athletes Instagram influencers in Los Angeles in 2024. Most popular hashtags: #fitnessmotivation #athlete #fitness.
 platform: Instagram
-hits: 140
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 140 Instagram influencers like this in Los Angeles, United States for you to work with.
+hits: 157
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 157 Instagram influencers like this in Los Angeles, United States for you to work with.
 profiles:
-  - username: "shanemosleyjr"
+  - username: "mookiebetts"
     fullname: >-
-      TRIBE CALLED MOSLEY
+      Mookie Betts
     bio: >-
-      🥊Pro Boxer 🥊Golden Boy 👊🏾The Contender Season 5 finalist 💍 @lyssa.renea 📍LA to LV Business inquires: shanemosleyjr.business@gmail.com
+      Pro Athlete: Los Angeles Dodgers #50 Founder: @team_mookiebetts Co-Founder: @theonemarketinggroup My Foundation: @5050foundation
     location: "United States"
-    followers: 22776
-    engagement: 409
-    commentsToLikes: 0.044896
-    id: ck8swmr0aek3m0j780q742ohr
+    followers: 1380245
+    engagement: 308
+    commentsToLikes: 0.007847
+    id: ck0u06cdjsrst0i1932kb11q7
     verified: true
-    hashtags: "#snacathlete, #couplesofinstagram, #goldenboy, #boydad"
+    hashtags: "#dodgers, #dodgersnation, #onthebase, #linkinbio"
+  - username: "ohjoy"
+    fullname: >-
+      Joy Cho / Oh Joy!
+    bio: >-
+      👩🏻 Founder of Oh Joy! • Entrepreneur💡• Designer 🎨 • Author 📚• Small Biz Mentor 📊 • Mama 👭🏻 • Thai American 🇹🇭 • Amateur Athlete 🎾 • Los Angeles 📍
+    location: "United States"
+    followers: 452256
+    engagement: 2
+    commentsToLikes: 0.003248
+    id: ckzp0btc8jjdy0j23azli655f
+    verified: false
+    hashtags: "#ootd, #ohjoyacademy, #losangelesfood, #smallbusinessmentor"
   - username: "anniepfit"
     fullname: >-
       Annie • Fitness & Mom Life
@@ -31,6 +43,18 @@ profiles:
     id: ck8t3g4o834ga0j782b5ezvht
     verified: false
     hashtags: "#cybexsport"
+  - username: "jociefit"
+    fullname: >-
+      JOCELYN MADAI | FITNESS COACH | CONTENT CREATOR
+    bio: >-
+      Los Angeles Athlete Code | JOCIE @legion @rawgear @licifit @diosafitofficial Come to Costa Rica with me 👇🏻
+    location: "United States"
+    followers: 103837
+    engagement: 26
+    commentsToLikes: 0.023943
+    id: cksi99a90bocw0j23gyd7wqfl
+    verified: false
+    hashtags: "#legdayworkout, #fitnesscreator, #legdayexercises, #contentcreator"
   - username: "mercadelcameron2024"
     fullname: >-
       CAM The Ankle Collector
@@ -43,30 +67,18 @@ profiles:
     id: ckap3s9vd4ce50i78tufr1lmh
     verified: false
     hashtags: "#trainwithpurpose, #work, #reels, #love"
-  - username: "pjfperformance"
+  - username: "callahanvolleyball"
     fullname: >-
-      Paul J. Fabritz
+      Traci Callahan 🍀
     bio: >-
-      NBA Performance Specialist|Building Explosive & Durable Athletes|Exercise Scientist|Los Angeles, Ca|Click Link👇 For Vert Code Online Programs + EdgeU
+      Pro Beach Volleyball Player 🇺🇸🏝🏐 FIVB World Tour | AVP Tour 6’2, 188cm @teamusa @chasinggoldusa @vein911
     location: "United States"
-    followers: 544151
-    engagement: 182
-    commentsToLikes: 0.010425
-    id: ck0w3jlahtr0d0i19vr7z18ui
-    verified: true
-    hashtags: "#30days30drills"
-  - username: "piotrowskapaulina"
-    fullname: >-
-      Paulina Piotrowska
-    bio: >-
-      BODY FAT REDUCTION, Strength and conditioning COACH. @ryderwear Athlete- code PAULINA Los Angeles, CA 🇵🇱🇺🇸 Contact📩 Piotrowskapaulinamedia@gmail.com
-    location: "United States"
-    followers: 18109
-    engagement: 451
-    commentsToLikes: 0.063642
-    id: ck134psdaxm3k0i19o7w2p9kw
+    followers: 110171
+    engagement: 951
+    commentsToLikes: 0.038630
+    id: ck5pzszow2m240i11wdfl79v4
     verified: false
-    hashtags: "#goldsgym, #goldsgymvenice, #fitnessmotivation, #coreworkout"
+    hashtags: "#girlswholift, #avpbeach, #volleyball, #losangeles"
   - username: "samfaganphoto"
     fullname: >-
       Sam Fagan
@@ -79,30 +91,18 @@ profiles:
     id: ck5hnwglkoiib0i11ihlwzesj
     verified: false
     hashtags: "#womensbest, #aesthetics, #cleaneating, #gym"
-  - username: "annavladiii"
+  - username: "warestudios"
     fullname: >-
-      Anna Contortionist
+      Ware Studios
     bio: >-
-      Obsessed with travel 🧭 @annacontortion2018 work
+      Award winning ￼Cinematographer/Photographer/ Director Von Ware 🇺🇸 //San Diego/LA Former Professional Athlete 🥇 👇
     location: "United States"
-    followers: 198978
-    engagement: 469
-    commentsToLikes: 0.020041
-    id: ck9wikdyq2nfw0j780m1g390a
+    followers: 112269
+    engagement: 175
+    commentsToLikes: 0.054267
+    id: ck0w3mw4ru7zn0i19lseju7le
     verified: false
-    hashtags: "#rhythmicgymnastics, #gymnastics, #performer, #lamodels"
-  - username: "bodybyvenus"
-    fullname: >-
-      VENUS MOORE™️
-    bio: >-
-      🙏🏽 Godschild 🏋🏽‍♀️ LA Celebrity Trainer 🦋 Transformation Specialist 💼 Body By Venus, CEO 🏆Athlete @womensbest @ryderwear @respin
-    location: "United States"
-    followers: 276415
-    engagement: 109
-    commentsToLikes: 0.039838
-    id: ck6u8239pozkp0j71uxqxmz1v
-    verified: false
-    hashtags: "#blessed, #coreworkout, #40isthenew20, #fitnessinspiration"
+    hashtags: "#warestudios, #fitness, #boxing, #nfl"
   - username: "explicit__sports"
     fullname: >-
       explicit__sports
@@ -119,12 +119,12 @@ profiles:
     fullname: >-
       Matt Tralli
     bio: >-
-      @DOGPOUND trainer 💪🏻🐶 Former D1 & Professional Athlete 🏈 New York | Los Angeles 📍 NCCPT, PPSC 📚 @celsiusofficial 🔋 EL CONQUISTADOR
+      Fitness Trainer 💪🏻 Former D1 & Professional Athlete 🏈 New York | Los Angeles 📍 NCCPT, PPSC 📚
     location: "United States"
-    followers: 53793
-    engagement: 470
-    commentsToLikes: 0.018057
+    followers: 455043
+    engagement: 123
+    commentsToLikes: 0.014677
     id: ck55ofu1w89re0i11l91u94y4
     verified: false
-    hashtags: "#arms, #core, #coreworkout, #backworkout"
+    hashtags: "#homeworkout, #fitness, #armsworkout, #indonesia"
 ---

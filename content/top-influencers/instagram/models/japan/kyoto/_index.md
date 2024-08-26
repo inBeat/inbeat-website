@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Kyoto In 2023
+title: Top 10 Models Instagram Influencers In Kyoto In 2024
 description: >-
-  Find top models Instagram influencers in Kyoto in 2023. Most popular hashtags: #model #kyoto #japan #pr.
+  Find top models Instagram influencers in Kyoto in 2024. Most popular hashtags: #kyoto #model #japan #osaka.
 platform: Instagram
-hits: 21
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 21 Instagram influencers like this in Kyoto, Japan for you to collaborate.
+hits: 24
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database holds 24 Instagram influencers like this in Kyoto, Japan for you to connect with.
 profiles:
   - username: "kumai_yurina"
     fullname: >-
@@ -79,6 +79,18 @@ profiles:
     id: ck5buknzbhynm0i114i04suq6
     verified: false
     hashtags: "#repost, #japan, #goodkitten, #rkemishi"
+  - username: "tsukiyoga"
+    fullname: >-
+      tsuki ☾ yoga lifestylist
+    bio: >-
+      yoga(RYT500)| fitness | self-care video creator・fit model 🧘‍♂️くびれるヨガトレ 🕊あしたが変わるセルフケア @tsukiyoga TikTok 320k @tarzanweb 監修トレーナー @mandukayoga ambassador
+    location: "Japan"
+    followers: 216531
+    engagement: 636
+    commentsToLikes: 0.010242
+    id: ck5ckqwbvxfhp0i11rzj6fukf
+    verified: false
+    hashtags: "#sustainableliving, #selfmassage, #yogateacher, #healthylifestyle"
   - username: "jumy_as"
     fullname: >-
       🎪じゅみ (𝕁𝕦𝕞𝕪 )  | 芦田純子
@@ -115,16 +127,4 @@ profiles:
     id: ckap65if2ehfc0i78sbrkrlmd
     verified: false
     hashtags: "#samanthathavasa, #mercuryduo, #pr, #cafe"
-  - username: "matsuidaisuke_official"
-    fullname: >-
-      松井大輔
-    bio: >-
-      公式インスタ daisuke matsui お仕事はメール📩お願いします Please request job matter in E-mail. #fashion #saigonfc #kyoto #japan #tokyo #soccer #旅行#trip #家具#温泉
-    location: "Japan"
-    followers: 78748
-    engagement: 770
-    commentsToLikes: 0.005710
-    id: ckf5vymozqb1q0j23w6zxugdr
-    verified: true
-    hashtags: "#vietnam, #saigon, #hochiminhcity, #japan"
 ---

@@ -1,12 +1,48 @@
 ---
-title: Top 10 Dancers Instagram Influencers In South Africa In 2023
+title: Top 10 Dancers Instagram Influencers In South Africa In 2024
 description: >-
-  Find top dancers Instagram influencers in South Africa in 2023. Most popular hashtags: #dancer #dance #capetown.
+  Find top dancers Instagram influencers in South Africa in 2024. Most popular hashtags: #dance #dancer #capetown #southafrica.
 platform: Instagram
-hits: 25
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 25 Instagram influencers like this in South Africa for you to connect with.
+hits: 27
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 27 Instagram influencers like this in South Africa for you to work with.
 profiles:
+  - username: "robot_boii"
+    fullname: >-
+      Roboto x3
+    bio: >-
+      TGDSOY | Trace African Award Winning Dancer 🏆 🎤🇿🇦 -> 🇳🇦🇧🇼🇿🇼🇱🇸🇺🇬🇦🇪🇬🇧🇺🇸 #SalarySalary MOFAYA 🔥 | TRH 💯 | Living Meme Programmed by God. 🚦
+    location: "South Africa"
+    followers: 896831
+    engagement: 240
+    commentsToLikes: 0.018964
+    id: ck0w6uusnadxs0i1929xv1pzz
+    verified: false
+    hashtags: "#robopopps, #popcornandcheese, #robotboii, #percyb"
+  - username: "realwarripikin"
+    fullname: >-
+      ANITA ASUOHA
+    bio: >-
+      African Queen of Comedy Wife| Mum| Comedienne| MC| Actor| Dancer| Territorial commander😎 ‘Unapologetically Me Tour’ 2024
+    location: "South Africa"
+    followers: 4082888
+    engagement: 45
+    commentsToLikes: 0.027554
+    id: ck0vyh6td3z870i193rz0dtju
+    verified: true
+    hashtags: "#odogwunobeguyname, #odogwubitters, #standupcomedy, #africanqueenofcomedy"
+  - username: "angelnyigu"
+    fullname: >-
+      ANGEL NYIGU 🐝
+    bio: >-
+      East African Choreographer 🇹🇿 Award winning Dancer 2022 Founder @tanzania_dance Credit @euintanzania @cocacola_africa @tecnomobiletanzania
+    location: "South Africa"
+    followers: 2036165
+    engagement: 27
+    commentsToLikes: 0.010028
+    id: ckap36li01rv90i78ew6a4tai
+    verified: false
+    hashtags: "#energetictymlez, #viral, #explore, #reels"
   - username: "milaguy"
     fullname: >-
       mila guy
@@ -55,18 +91,6 @@ profiles:
     id: ck5byec5dozlo0i118ovz4xmq
     verified: false
     hashtags: "#albinakireeva, #model, #modeling, #decemberissue"
-  - username: "kejtofficial"
-    fullname: >-
-      KEJT (Kate) 🌠
-    bio: >-
-      🌟Singer + Actress + Dancer🌟 Serija Folk TLZP2 📍Based in Belgrade CURE SA BALKANA 👇
-    location: "South Africa"
-    followers: 18613
-    engagement: 479
-    commentsToLikes: 0.022107
-    id: ckap5iyy7bw750i782a4g465j
-    verified: false
-    hashtags: "#lifeisbeautiful, #giveaway, #curesabalkanakejt, #checkthisout"
   - username: "rudi_smit"
     fullname: >-
       RUDI SMIT
@@ -103,28 +127,4 @@ profiles:
     id: ck6uhk8na9lo90j71pu55y2ax
     verified: false
     hashtags: "#dancewithkeke, #dancers, #beautifulmess, #sexy"
-  - username: "zuluboy_ndlovu"
-    fullname: >-
-      Andile Ndlovu
-    bio: >-
-      🇿🇦South African 🕺🏿Professional Ballet Dancer @thewashingtonballet 😎🔥Choreographer📍Washington, D.C
-    location: "South Africa"
-    followers: 3147
-    engagement: 639
-    commentsToLikes: 0.039619
-    id: ckaorfhbmmz870i78w2y7x7dg
-    verified: false
-    hashtags: "#dance, #artistsoninstagram, #life, #afro"
-  - username: "zodwalibram"
-    fullname: >-
-      zodwalibram
-    bio: >-
-      Doctor 0315615316. Bookings 0728402010 or email events@afrotainment.co.za-Zodwa Wabantu contacts 0603048882 as a Socialite,MC,Dancer👊 Perfume Link
-    location: "South Africa"
-    followers: 1510898
-    engagement: 30
-    commentsToLikes: 0.027550
-    id: ck0txq97fk4hd0i19o0dd71ew
-    verified: false
-    hashtags: ""
 ---

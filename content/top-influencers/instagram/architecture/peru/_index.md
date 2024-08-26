@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Peru In 2023
+title: Top 10 Architecture Instagram Influencers In Peru In 2024
 description: >-
-  Find top architecture Instagram influencers in Peru in 2023. Most popular hashtags: #peru #igersperu #mountains #nature.
+  Find top architecture Instagram influencers in Peru in 2024. Most popular hashtags: #peru #igersperu #mountains #nature.
 platform: Instagram
-hits: 8
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 8 Instagram influencers like this in Peru for you to collaborate.
+hits: 9
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 9 Instagram influencers like this in Peru for you to work with.
 profiles:
   - username: "bermont__"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck8tbno84wds50j78upkafcth
     verified: false
     hashtags: "#summervibes, #per, #travelphotography, #sea"
+  - username: "johanna_san_miguel_dammert"
+    fullname: >-
+      Johanna San Miguel Dammert
+    bio: >-
+      #TEAM56 📺TV Host @estoesguerraperutv /ACTRIZ Entradas aquí 👇🏼
+    location: "Peru"
+    followers: 1545416
+    engagement: 34
+    commentsToLikes: 0.028107
+    id: ck6u94bknvf5a0j71j0vov1av
+    verified: true
+    hashtags: "#yasi, #johannasanmiguel, #decoraci, #estoesguerraperutv"
   - username: "vangers1"
     fullname: >-
       Véronique Angers

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Turkey In 2023
+title: Top 10 Bodybuilding Instagram Influencers In Turkey In 2024
 description: >-
-  Find top bodybuilding Instagram influencers in Turkey in 2023. Most popular hashtags: #bodybuilding #fitness #gymkong.
+  Find top bodybuilding Instagram influencers in Turkey in 2024. Most popular hashtags: #bodybuilding #fitness #gym #workout.
 platform: Instagram
-hits: 49
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 49 Instagram influencers like this in Turkey for you to work with.
+hits: 53
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 53 Instagram influencers like this in Turkey for you to contact.
 profiles:
   - username: "firoofficiall"
     fullname: >-
@@ -23,26 +23,14 @@ profiles:
     fullname: >-
       🇦🇿Renad Əfəndiyev
     bio: >-
-      ▪Fitness&Bodybuilding💪🏻 ▪Personal Trainer👤 ▪Fitness Instructor👤 ▪Diet planlari🍽 ▪Meşq programlari🏋‍♀ ▪PowerHouseGym🏢 ▪️ GoFitness 🏢
+      ▪Fitness&Bodybuilding💪🏻 ▪Personal Trainer👤 ▪Fitness Instructor👤 ▪Diet planlari🍽 ▪Meşq programlari🏋‍♀
     location: "Turkey"
-    followers: 114540
-    engagement: 224
-    commentsToLikes: 0.023657
+    followers: 180160
+    engagement: 93
+    commentsToLikes: 0.017630
     id: ck5hr1xwyu4fu0i11bvdrwwq4
     verified: false
-    hashtags: "#10yearschallenge"
-  - username: "shukran_soltanov"
-    fullname: >-
-      
-    bio: >-
-      ShukranSoltanov. . 🏋️‍♀️Azerbaijan Bodybuilding Champion 2019🏆🥇.Director 🏋️‍♀️Gorgud Fitnes Spa.D🔐
-    location: "Turkey"
-    followers: 273165
-    engagement: 95
-    commentsToLikes: 0.025993
-    id: ck0vzoiz7a4080i19ti6ofhgw
-    verified: false
-    hashtags: "#karizma, #brutal, #byshukransoltanov, #baku"
+    hashtags: "#qaqahamisiproteindi, #shouldermotivation, #chestday, #reardelts"
   - username: "boroda_master_"
     fullname: >-
       
@@ -55,76 +43,88 @@ profiles:
     id: ck5hr200lu4jp0i116tm92x2b
     verified: false
     hashtags: "#fullenergy, #batman, #gymgirl, #bomdia"
-  - username: "agirsaglam_fitness"
-    fullname: >-
-      AĞIRSAĞLAM
-    bio: >-
-      Daha güçlü ol, daha iyi görün! Amacım Fitness’a bilimsel yaklaşarak tüm 🇹🇷 Türkiye’yi #ağırsağlam yapmak! Koçluk, program ve mağaza ürünleri için:
-    location: "Turkey"
-    followers: 138014
-    engagement: 575
-    commentsToLikes: 0.020192
-    id: ck6typgl253jp0j71sauzl4ld
-    verified: false
-    hashtags: "#weightlifting, #calisthenics, #bodybuilding, #crossfit"
-  - username: "shahyad_khojandi"
-    fullname: >-
-      shahyad.khojandi
-    bio: >-
-      📥تبلیغات پذیرفته میشود 📥 🔷️Fitness 🔷️Boxing🥊 🔷️Height:194 🔷️(BE WITH GOD BE KING) . 𝐒 🇮🇷Live in Istanbul 🇹🇷
-    location: "Turkey"
-    followers: 27521
-    engagement: 249
-    commentsToLikes: 0.176164
-    id: ck0vxfuh8yoxz0i194feiqrqr
-    verified: false
-    hashtags: "#gym, #zhest, #fitness, #shahyad"
   - username: "bugra_keskin"
     fullname: >-
-      Bugra Keskin
+      Bugra Keskin IFBB PRO
     bio: >-
-      Founder GYM KONG 🏆Arnold classic 2018 classic bb -1.75 🥇 🏆Kai Greene Classic CP ‘19🥇 🏆Olympia amateur🇵🇹 CP 5. ☘️organiksatinal 🔴musclebalancenutrition
+      Owner @gymkong IFBB PRO 🏆OG Classic ‘23 🥇 🏆Kai Greene Classic ‘19🥇 🏆Arnold Classic ‘18 🥇 @proteinocean BUGRA10
     location: "Turkey"
-    followers: 53763
-    engagement: 587
-    commentsToLikes: 0.023374
+    followers: 71917
+    engagement: 405
+    commentsToLikes: 0.019548
     id: ck1396owvjsxw0i19fb30k6gz
     verified: false
-    hashtags: "#bodybuilding, #abs, #gymkong, #shredded"
-  - username: "racon1sahne"
+    hashtags: "#bodybuilding, #shredded, #kongmentality, #gymkong"
+  - username: "betulavci"
     fullname: >-
-      ⚠️ ▄ ▅ █ ℜ𝔞𝔠𝔬𝔫 𝔄𝔩𝔢𝔪 █ ▇ ▆  ⚠️
+      Betül TEVGE🐺
     bio: >-
-      Hayatımız İllegal Yaşantımız İllegal ⚠️
+      🇹🇷MİLLİ SPORCU 🥇2xBikini Champ İndirim kodu: bet10 @swissnutritiontr designer @bet.designer @bet.handmade Marmara Ünv.Besyo Coach @mutasyonacademy
     location: "Turkey"
-    followers: 3853
-    engagement: 980
-    commentsToLikes: 0.167584
-    id: ck9hanxhfdaq30j78f2kwgzo0
+    followers: 28146
+    engagement: 430
+    commentsToLikes: 0.015181
+    id: ckap469r5615f0i786lp3qr1n
     verified: false
-    hashtags: "#nemutlut, #cio, #vatan, #yuzuk"
-  - username: "emincapan"
-    fullname: >-
-      Emin Çapan
-    bio: >-
-      CoFounder GYMKONG Kai Green Classic19🥈 Olympia Amateur Portugal19🥈 Cup Macedonia18🥇 ArnoldClassic18’4th @organiksatinal @musclebalancenutrition
-    location: "Turkey"
-    followers: 72520
-    engagement: 592
-    commentsToLikes: 0.016259
-    id: ck1396p4tjsz50i197523dv96
-    verified: false
-    hashtags: ""
+    hashtags: "#strong, #instaphotography, #photographyart, #health"
   - username: "serdaraktolga"
     fullname: >-
-      SERDAR AKTOLGA
+      Serdar Aktolga
     bio: >-
-      𝐀𝐍𝐓𝐑𝐄𝐍Ö𝐑 𝐈𝐅𝐁𝐁 𝐏𝐑𝐎 / 𝐖𝐎𝐑𝐋𝐃 𝐂𝐇𝐀𝐌𝐏𝐈𝐎𝐍 𝐔𝐙𝐀𝐊𝐓𝐀𝐍 𝐄Ğİ𝐓İ𝐌 İÇİ𝐍 , 𝐃𝐌 𝐘𝐎𝐋𝐔 İ𝐋𝐄 𝐁İ𝐋𝐆İ 𝐀𝐋𝐀𝐁İ𝐋İ𝐑𝐒İ𝐍İ𝐙 : @serdar_aktolga_uzaktan_egitim
+      𝗔𝗡𝗧𝗥𝗘𝗡𝗢𝗥 𝗜𝗙𝗕𝗕 𝗣𝗥𝗢 𝗕𝗢𝗗𝗬𝗕𝗨𝗜𝗟𝗗𝗘𝗥 𝗦𝗜𝗡𝗖𝗘 𝟮𝟬𝟬𝟵 𝗪𝗢𝗥𝗟𝗗/ 𝗖𝗛𝗔𝗠𝗣𝗜𝗢𝗡 𝙐𝙕𝘼𝙆𝙏𝘼𝙉 𝙀𝙂𝙄𝙏𝙄𝙈 𝙄𝘾𝙄𝙉 : @serdar_aktolga_uzaktan_egitim
     location: "Turkey"
-    followers: 109804
-    engagement: 463
-    commentsToLikes: 0.015400
+    followers: 136013
+    engagement: 331
+    commentsToLikes: 0.005508
     id: ck15ts3lkjlzs0i19v31hjles
     verified: false
-    hashtags: "#nutrition, #england, #legend, #usa"
+    hashtags: "#hardlinenutrition, #shapeclub, #foods, #serdaraktolga"
+  - username: "marcusgreerfitness"
+    fullname: >-
+      Furkan Imamoglu (MARCUS)
+    bio: >-
+      🚀Co-Founder @mgfitnessapp & @vimstorm 📱 Sponsors; @culapharma & @proteinocean En Verimli Uzaktan PT Hizmetini Aşağıdaki Linkten Al! 👇🏽
+    location: "Turkey"
+    followers: 385343
+    engagement: 636
+    commentsToLikes: 0.038274
+    id: ck15ts25ujlsa0i192157xh77
+    verified: true
+    hashtags: "#instagram, #marcusgreerfitness, #instagood, #gym"
+  - username: "aliyulla"
+    fullname: >-
+      Aliyulla
+    bio: >-
+      Team: @kraftfabrik PT. Online coaching Dm 📥 🏆Arnold Classic 🥇 🏆Bigman Weekend 🥇 🏆2X Azerbaijan 1x🥇 🏆Atef Gym 🥇 🏆Siberian Power show 🥈 🏆 World champ 🏅
+    location: "Turkey"
+    followers: 70982
+    engagement: 169
+    commentsToLikes: 0.002189
+    id: ck5hr227mu4ng0i11jzgc240i
+    verified: false
+    hashtags: "#fitnessmotivation, #fitness, #hardwork, #motivation"
+  - username: "ertugrulgazisener"
+    fullname: >-
+      Ertuğrul Gazi Şener
+    bio: >-
+      Founder of EGS Beauty Cosmetics 💄 @ertugrulgazisener1
+    location: "Turkey"
+    followers: 1003085
+    engagement: 112
+    commentsToLikes: 0.012081
+    id: ckapadupgvplg0i78cu15cst7
+    verified: false
+    hashtags: "#fyp, #bodybuilding, #fitness, #motivasyon"
+  - username: "chagaev4x20"
+    fullname: >-
+      Emin Babayev⚜️
+    bio: >-
+      🥇Place Men’s fizik Aze 2022 ve🥉ATEF2017 🥇Place Bjj Baku cemp Aze 2018 🥈Place Men’s fizik Aze 2018 ve🥇 2017 🥇Place Bjj Respublika Aze 2017
+    location: "Turkey"
+    followers: 3446138
+    engagement: 1
+    commentsToLikes: 0.000000
+    id: ck5hr1xfru4el0i11gc08gmhn
+    verified: false
+    hashtags: "#instagram, #tb, #azerbaycan, #workout"
 ---

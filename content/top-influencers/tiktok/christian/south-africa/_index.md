@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In South Africa In 2023
+title: Top 10 Christian TikTok Influencers In South Africa In 2024
 description: >-
-  Find top christian TikTok influencers in South Africa in 2023. Most popular hashtags: #christian #fyp #jesus #foryoupage.
+  Find top christian TikTok influencers in South Africa in 2024. Most popular hashtags: #christian #fyp #jesus #foryoupage.
 platform: TikTok
 hits: 30
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our database holds 30 TikTok influencers like this in South Africa for you to connect with.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our platform has 30 TikTok influencers like this in South Africa for you to pitch.
 profiles:
   - username: "stellaboo_xoxo"
     fullname: >-

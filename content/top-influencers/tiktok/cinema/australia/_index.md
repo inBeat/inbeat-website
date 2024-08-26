@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Australia In 2023
+title: Top 10 Cinema TikTok Influencers In Australia In 2024
 description: >-
-  Find top cinema TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #australia #foryou #sydney.
+  Find top cinema TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #australia #sydney #cinematic.
 platform: TikTok
-hits: 26
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 26 TikTok influencers like this in Australia for you to contact.
+hits: 25
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our platform holds 25 TikTok influencers like this in Australia for you to work with.
 profiles:
   - username: "cinemaliss"
     fullname: >-
@@ -115,16 +115,16 @@ profiles:
     id: ckbkvahnbqso10j23t2qlug0w
     verified: false
     hashtags: "#nature, #tiktok, #cinematography, #australia"
-  - username: "ghostghang"
+  - username: "demas"
     fullname: >-
-      Ghostghang
+      Demas Rusli
     bio: >-
-      Hi, our name is Ghostghang, we’re a co-conscious DID system. Any pronouns r cool
+      Photographer / IG: 387K 👆🏻 👇🏻 My first NFT drop! 1 of 1 Digital Artworks
     location: "Australia"
-    followers: 89700
-    engagement: 1579
-    commentsToLikes: 0.046465
-    id: ckcj3mtzb4um50j239a3tqh66
-    verified: false
-    hashtags: "#vlog, #mentalhealth, #vlogs, #minivlogs"
+    followers: 396700
+    engagement: 1285
+    commentsToLikes: 0.052697
+    id: ckbl5fq152z4j0j23tyj3ehn0
+    verified: true
+    hashtags: "#japan, #googleearth, #photography, #fyp"
 ---

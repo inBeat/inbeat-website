@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Montreal In 2023
+title: Top 10 Photographers TikTok Influencers In Montreal In 2024
 description: >-
-  Find top photographers TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #photographer #montreal #photography.
+  Find top photographers TikTok influencers in Montreal in 2024. Most popular hashtags: #fyp #photographer #photography #montreal.
 platform: TikTok
 hits: 5
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 5 TikTok influencers like this in Montreal, Canada for you to work with.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 5 TikTok influencers like this in Montreal, Canada for you to connect with.
 profiles:
   - username: "_pifou"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck83z40iyxiok0j787a6cc0w8
     verified: false
     hashtags: "#vietnam, #quebec, #tiktokfrance, #canada"
-  - username: "benjyfilms"
-    fullname: >-
-      benjy
-    bio: >-
-      Follow me on Instagram 🖤🦋 @benjyfilms
-    location: "Canada"
-    followers: 11400
-    engagement: 981
-    commentsToLikes: 0.026334
-    id: ckcozizwiaibj0j2315vg30ls
-    verified: false
-    hashtags: "#filmmaker, #photographer, #fyp, #travel"
   - username: "jimy233"
     fullname: >-
       Jim Yang
@@ -66,7 +54,19 @@ profiles:
     commentsToLikes: 0.022843
     id: ck8vyxe9fva7n0j78ozs12vja
     verified: false
-    hashtags: "#4k, #apurture, #bts, #r5"
+    hashtags: "#foryou, #qc, #bts, #4k"
+  - username: "benjyfilms"
+    fullname: >-
+      benjy
+    bio: >-
+      Follow me on Instagram 🖤🦋 @benjyfilms
+    location: "Canada"
+    followers: 11400
+    engagement: 981
+    commentsToLikes: 0.026334
+    id: ckcozizwiaibj0j2315vg30ls
+    verified: false
+    hashtags: "#photographer, #wanderlust, #costarica, #fyp"
   - username: "praveensapkota"
     fullname: >-
       praveensapkota
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.067906
     id: ck81qa9x4h6aj0j78xdh42wdm
     verified: false
-    hashtags: "#peaceful, #chickadee, #slowmotion, #birds"
+    hashtags: "#slowmo, #chickadee, #peaceful, #birds"
   - username: "lourdeslasala"
     fullname: >-
       lourdes📸
@@ -121,10 +121,10 @@ profiles:
     bio: >-
       Singer/songwriter/comedian/podcaster/multi-hyphenate/photographer/plant-guy/etc.
     location: "Canada"
-    followers: 2453
-    engagement: 913
-    commentsToLikes: 0.116482
+    followers: 2443
+    engagement: 892
+    commentsToLikes: 0.067135
     id: ckbqq63saay2x0j23ue0gqjoa
     verified: false
-    hashtags: "#chipmunks, #keepingitcute, #chipmunk, #fyp"
+    hashtags: "#keepingitcute, #chipmunk, #xyzbca, #fyp"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Chile In 2023
+title: Top 10 Bodybuilding Instagram Influencers In Chile In 2024
 description: >-
-  Find top bodybuilding Instagram influencers in Chile in 2023. Most popular hashtags: #bodybuilding #fitness #chile #fit.
+  Find top bodybuilding Instagram influencers in Chile in 2024. Most popular hashtags: #bodybuilding #fitness #chile #fit.
 platform: Instagram
 hits: 9
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 9 Instagram influencers like this in Chile for you to work with.
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 9 Instagram influencers like this in Chile for you to collaborate.
 profiles:
   - username: "alef.cero"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.018522
     id: ck5hs6imzw2q20i118f33ad45
     verified: false
-    hashtags: "#abs, #boy, #curlyhair, #fitness"
+    hashtags: "#curlyhair, #abs, #boy, #fitness"
   - username: "hugolalo.z"
     fullname: >-
       

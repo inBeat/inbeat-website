@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers In 2023
+title: Top 10 Cosmetics TikTok Influencers In 2024
 description: >-
-  Find top cosmetics TikTok influencers in 2023. Most popular hashtags: #fyp #duet #makeup #smallbusiness.
+  Find top cosmetics TikTok influencers in 2024. Most popular hashtags: #fyp #duet #makeup #smallbusiness.
 platform: TikTok
-hits: 379
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our database holds 379 TikTok influencers like this for you to work with.
+hits: 383
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our database has 383 TikTok influencers like this for you to work with.
 profiles:
   - username: "lipfix_cosmetics"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Istanbul In 2023
+title: Top 10 Fitness Instagram Influencers In Istanbul In 2024
 description: >-
-  Find top fitness Instagram influencers in Istanbul in 2023. Most popular hashtags: #fitness #istanbul #photography #gym.
+  Find top fitness Instagram influencers in Istanbul in 2024. Most popular hashtags: #fitness #istanbul #gym #workout.
 platform: Instagram
-hits: 106
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat has 106 Instagram influencers like this in Istanbul, Turkey for you to collaborate.
+hits: 108
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 108 Instagram influencers like this in Istanbul, Turkey for you to pitch.
 profiles:
   - username: "yakanspor"
     fullname: >-
@@ -91,6 +91,18 @@ profiles:
     id: ck6uh5pji75np0j71un1i66wb
     verified: false
     hashtags: "#instagram, #weekend, #weekendvibes, #view"
+  - username: "sami_jafary"
+    fullname: >-
+      MOBIN RAEIS JAFARI
+    bio: >-
+      📍Istanbul Certified PERSONAL TRAINER 🇹🇷🇦🇪🇮🇷 🔖advanced nutrition coach sponsor @alo.fitt 💵
+    location: "Turkey"
+    followers: 656145
+    engagement: 597
+    commentsToLikes: 0.032638
+    id: ck9why8p8004l0j78d975usoc
+    verified: false
+    hashtags: "#sami, #gym, #istanbul, #fitnessmotivation"
   - username: "zazakaraa"
     fullname: >-
       Z.z Kara
@@ -115,16 +127,4 @@ profiles:
     id: ck6tks2mu5aol0j71ug2lcqnq
     verified: false
     hashtags: "#motivation, #swissotel, #life, #istanbul"
-  - username: "yiltaygunay"
-    fullname: >-
-      Avukat Yıltay Günay
-    bio: >-
-      Avukat - Nişantaşı Üniversitesi Öğretim Görevlisi - Haçiko Derneği Yönetim Kurulu Üyesi #avukat #hayvansever #tedx
-    location: "Turkey"
-    followers: 15764
-    engagement: 325
-    commentsToLikes: 0.046386
-    id: ckap0oxx8r8ou0i78sfcrw069
-    verified: false
-    hashtags: "#news, #karde, #fitness, #sea"
 ---

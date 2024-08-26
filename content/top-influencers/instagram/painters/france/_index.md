@@ -1,24 +1,24 @@
 ---
-title: Top 10 Painters Instagram Influencers In France In 2023
+title: Top 10 Painters Instagram Influencers In France In 2024
 description: >-
-  Find top painters Instagram influencers in France in 2023. Most popular hashtags: #painting #drawing #illustration.
+  Find top painters Instagram influencers in France in 2024. Most popular hashtags: #sketchbook #painting #drawing #artoftheday.
 platform: Instagram
-hits: 309
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 309 Instagram influencers like this in France for you to pitch.
+hits: 432
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 432 Instagram influencers like this in France for you to collaborate.
 profiles:
-  - username: "erikahausser"
+  - username: "restyleart"
     fullname: >-
-      Erika Hauser Content Creator
+      Jan Skácelík
     bio: >-
-      🦢Fashion | Painter | Content creator 🏹Paris based ✨Personal styling 🤍CEO @eherikahauser ☁️ I own all my pictures
+      • Graphic designer, painter, interior design addict • DM for wholesale & collabs • 🖼 check out my art account: @janskacelikart Shop my art prints:
     location: "France"
-    followers: 77445
-    engagement: 404
-    commentsToLikes: 0.047501
-    id: ck5zp45orrydt0i14610hfqp8
+    followers: 299325
+    engagement: 118
+    commentsToLikes: 0.016503
+    id: ck0w5jc363x030i19w2mkxcgq
     verified: false
-    hashtags: ""
+    hashtags: "#midcenturyfurniture, #bohointeriors, #interior123, #bohodecor"
   - username: "novae.lita"
     fullname: >-
       Novaé Lita
@@ -79,18 +79,6 @@ profiles:
     id: ck9h9qmyx9krm0j78cxt4a0z2
     verified: false
     hashtags: "#oilpainting, #figurativepainting, #sketchbook, #observationalpainting"
-  - username: "sweetvanlife"
-    fullname: >-
-      🇫🇷  𝔹𝕖𝕟 & ℙ𝕠𝕡𝕡𝕪  🚐
-    bio: >-
-      • Painter & Traveler • 🎥 IPhone & @insta360 One R • Ambassador @michelinvoyage @insta360 • Love to make Reels, shorts trips & improving my van
-    location: "France"
-    followers: 73539
-    engagement: 1395
-    commentsToLikes: 0.024446
-    id: ck5zpvgqrtfdc0i14e0r2drgm
-    verified: false
-    hashtags: "#roadtrip, #fiat238, #insta360, #vanlife"
   - username: "_robin_art"
     fullname: >-
       RobinDessin ✏️
@@ -127,4 +115,16 @@ profiles:
     id: ck8t4g0go6nwr0j78rwq8eapm
     verified: false
     hashtags: "#todaysartreport, #lyrical, #canvas, #abstractpromoter"
+  - username: "sandrine_lmp5"
+    fullname: >-
+      Gateaux & Toiles
+    bio: >-
+      ✨Freelance Food Stylist & Painter ✨ Content Creator ✨ Mum of 👯‍♀️ 📭 for collabs : sandrine@gateaux-et-toiles.com
+    location: "France"
+    followers: 35347
+    engagement: 233
+    commentsToLikes: 0.058738
+    id: ck6u55dzj7oxk0j71e0tw58it
+    verified: false
+    hashtags: "#homemade, #instapastry, #eastercake, #chantilly"
 ---

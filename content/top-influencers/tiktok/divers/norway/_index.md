@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In Norway In 2023
+title: Top 10 Divers TikTok Influencers In Norway In 2024
 description: >-
-  Find top divers TikTok influencers in Norway in 2023. Most popular hashtags: #foryou #fyp #foryoupage #driverslicense.
+  Find top divers TikTok influencers in Norway in 2024. Most popular hashtags: #foryou #fyp #driverslicense #foryoupage.
 platform: TikTok
 hits: 9
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 9 TikTok influencers like this in Norway for you to contact.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: inBeat has 9 TikTok influencers like this in Norway for you to work with.
 profiles:
   - username: "sofieasora"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.083688
     id: cka666jf8fy0p0i78r4euukns
     verified: false
-    hashtags: "#new, #holidaymusic, #newmusic, #studio"
+    hashtags: "#lenee, #new, #studio, #newmusic"
   - username: "ninidiem"
     fullname: >-
       🦋🦋NINI DIEM🦋🦋

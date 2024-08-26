@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Brazil In 2023
+title: Top 10 Lifestyle Instagram Influencers In Brazil In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Brazil in 2023. Most popular hashtags: #moda #lookdodia #explorar #look.
+  Find top lifestyle Instagram influencers in Brazil in 2024. Most popular hashtags: #reels #humor #hairstyle.
 platform: Instagram
-hits: 3937
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 3937 Instagram influencers like this in Brazil for you to work with.
+hits: 3989
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 3989 Instagram influencers like this in Brazil for you to work with.
 profiles:
-  - username: "raluizaa"
+  - username: "sadaf_beauty_diary"
     fullname: >-
-      Rayssa | Fitness
+      Sadaf Masaeli
     bio: >-
-      🌱 Hey! Grow with me ✨ Fitness | Motivation | lifestyle Tiktok: @raluizaa
+      📍San Francisco Travel ✈️ Lifestyle 🏕 Fashion 👒 Follow my Beauty Page👉🏼 @sadaf_beauty 💄 Contact@sadafbeauty.net
     location: "Brazil"
-    followers: 75533
-    engagement: 485
-    commentsToLikes: 0.014541
-    id: ckf5ociij1qbq0j237ax3x0wt
+    followers: 1816276
+    engagement: 935
+    commentsToLikes: 0.010492
+    id: ckaoxog5pe49p0i78efq8o9lq
     verified: false
-    hashtags: "#gym, #treino, #academia, #fit"
-  - username: "dani.silvaneves"
+    hashtags: "#goizmir, #izmir, #goturkey, #homerenovation"
+  - username: "allaboardfamily"
     fullname: >-
-      DANIELA NEVES
+      Catarina Almeida e Filipe | Travel Family
     bio: >-
-      Salvador-BA || Biomédica & Estetacosmetóloga Pós graduada em Saúde Estética ❤️‍🔥🏃🏽‍♀️🍳💦🥗 TREINO • ALIMENTAÇÃO • LIFESTYLE
+      Around the world with Gui, Manuel, Vasco Travel | Dialysis | Family | Lifestyle ✨ 📍 Portugal
     location: "Brazil"
-    followers: 26090
-    engagement: 592
-    commentsToLikes: 0.009573
-    id: ck8t4dcyy6dbe0j784h2yim6t
+    followers: 155263
+    engagement: 670
+    commentsToLikes: 0.560604
+    id: ck139yvpnnsyj0i19c9p0ieaz
     verified: false
-    hashtags: "#cosmetologia, #bemestar, #labiosperfeitos, #estetica"
-  - username: "petit_sophia"
+    hashtags: "#egito, #dublincity, #irelandtravel, #dublinireland"
+  - username: "emanuelribeiro__"
     fullname: >-
-      sophia d’avila 💋
+      Emanuel Ribeiro
     bio: >-
-      🇧🇷| RS fashion content • beauty • lifestyle• trips • assista os stories ✨| focused on me
+      ✨ Humor & Lifestyle 🧿 📥 emanuelribeiro@agenciamurano.com 🌎 Brasil | ❤️ @aser_sticazzi
     location: "Brazil"
-    followers: 54430
-    engagement: 252
-    commentsToLikes: 0.145205
-    id: ck15qxf2i546v0i19rlo9iv32
+    followers: 126948
+    engagement: 1109
+    commentsToLikes: 0.045347
+    id: ck8welslse8xq0j78ecf2ot0v
     verified: false
-    hashtags: "#maquiagem, #lookinspira, #outfitoftheday, #look"
-  - username: "livia.apereira"
+    hashtags: "#barbiethemovie, #barbiecore, #barbieofilme, #barbie"
+  - username: "matheussampaio___"
     fullname: >-
-      LIVIA PEREIRA ☀️
+      Matheus Sampaio
     bio: >-
-      🤡 Vida real com HUMOR 📍SP 🔥 Viagens | Lifestyle | Fashion | Gastronomia ✈️ A menina do brigadeiro na sala VIP! 💌 contato@viajandocomlivia.com.br
+      ✨ • Hybrid A • Travel • Lifestyle • Sports 👨🏽‍🎓• Personal Trainer • Journalist 🇺🇸 • 🇧🇷
     location: "Brazil"
-    followers: 102302
-    engagement: 235
-    commentsToLikes: 0.154026
-    id: ck5zuv0gs33br0i14vitdf03w
+    followers: 633572
+    engagement: 429
+    commentsToLikes: 0.012698
+    id: cku8q8l77mfx60j231gkte4bc
     verified: false
-    hashtags: "#humorbr, #viagem, #memesbr, #humor"
-  - username: "bia.liraa"
+    hashtags: "#parecefake, #nabalsa"
+  - username: "isabelatesch"
     fullname: >-
-      BEATRIZ LIRA☀️
+      Isabela Theodorovicz Tesch
     bio: >-
-      • moda • viagens • lifestyle • Modelo Comercial | Criadora de Conteúdo assessoria: contatobialira@gmail.com 📩
+      Fashion • Lifestyle • Makeup Parcerias|Jobs: Direct Medicina veterinária🐾_ UniCesumar Cristã Maringá_PR📍
     location: "Brazil"
-    followers: 145090
-    engagement: 168
-    commentsToLikes: 0.011709
-    id: ckaox4vs2bsla0i78pg95zf6s
+    followers: 18423
+    engagement: 1914
+    commentsToLikes: 0.046571
+    id: ck8tb5lxkudpc0j78p4iaq51p
     verified: false
-    hashtags: "#explorar, #moda, #style, #looks"
-  - username: "anegabrielly_mg"
+    hashtags: "#makebeauty, #parana, #lehpequenomakeup, #modelofotografica"
+  - username: "brunamurtaa"
     fullname: >-
-      𝕬𝖓𝖊 𝕲𝖆𝖇𝖗𝖎𝖊𝖑𝖑𝖞
+      BM
     bio: >-
-      ✨Fashion I Lifestyle I Dance I Disclosure 💖Simples, divertida e alegre💖 Dona do @recanto_das_utilidades
+      fashion | beauty | lifestyle 💌 bruna.murta@popcommunication.com.br
     location: "Brazil"
-    followers: 15589
-    engagement: 158
-    commentsToLikes: 0.049726
-    id: ckap2w8mn0l8d0i789tcmfqpw
+    followers: 14431
+    engagement: 741
+    commentsToLikes: 0.067673
+    id: ck5c27sqowpng0i119hdf4of5
     verified: false
-    hashtags: "#amor, #photo, #brazil, #boanoite"
-  - username: "larissatomasia"
+    hashtags: "#bailedavogue, #bailedavogue2023"
+  - username: "ana.passaretti"
     fullname: >-
-      Larissa Tomásia
+      Ana Clara Passaretti
     bio: >-
-      BBB22 🍋 | Model | Beauty | Lifestyle 📫 Cx postal 37 CEP: 55700-000 Assessoria: 📧 larissatomasia@vox.plus 📲 (11) 96615-4180
+      🖤 beauty & lifestyle. ⛓️ São Paulo, Brasil. ✉️ anapassaretti@agenciabae.com 🤓 @anaheartbooks
     location: "Brazil"
-    followers: 1058112
-    engagement: 110
-    commentsToLikes: 0.011703
-    id: ckap7r7kml7hk0i7833sy38oq
+    followers: 139070
+    engagement: 453
+    commentsToLikes: 0.012943
+    id: cl4f68x31pw850i23cjzss9iy
     verified: false
-    hashtags: "#modera, #jeans, #mood, #publi"
-  - username: "_feamorim"
+    hashtags: "#ttdeye, #ttd"
+  - username: "gabycastellarr"
     fullname: >-
-      Fernanda Amorim
+      GABY CASTELLAR✨ MIAMI MOM BLOGGER
     bio: >-
-      26, Beauty and fashion 👗💄 •Moda, Beleza, Makes, Lifestyle• Batalha de looks 👚👙👠 Contato: Fernanda.amorim96@yahoo.com.br 📩📬
+      🤍 Jesus Follower 📍Miami 🎥 Motherhood | Lifestyle | Cajitas para niños ✨🎁 💌 gabycastellarc@gmail.com ✨ Tiktok 190K 💕@socialthinkclub @madresincreibles
     location: "Brazil"
-    followers: 61073
-    engagement: 106
-    commentsToLikes: 0.201346
-    id: ck9ha92efbmg50j78iuttzoo5
+    followers: 184787
+    engagement: 760
+    commentsToLikes: 0.034180
+    id: ckf5nlxdeyqe10j2347gk7vvi
     verified: false
-    hashtags: "#ootd, #littleblackdress, #saopaulo, #lookjantar"
-  - username: "jujunorremose"
+    hashtags: "#maternidadsinfiltros, #reels, #mommyblogger, #bestblogger"
+  - username: "fuscadadrika"
     fullname: >-
-      Julia Norremose Ferreira
+      Drika
     bio: >-
-      Healthy and Positive LifeStyle🌴💕😜 💌contato@jujunorremose.com.br 🍫 @amohaoma
+      🌈 cars + lifestyle + colors 🚙 vw beetle 1968 is Zé! 🔴 +40k Youtube 📷 Photographer @drika.photofilm
     location: "Brazil"
-    followers: 1322956
-    engagement: 51
-    commentsToLikes: 0.038108
-    id: ck55oyjih9eoj0i11sfrutcg7
-    verified: true
-    hashtags: "#biquini, #trip, #laserfast4anos, #unboxing"
-  - username: "olaju_"
-    fullname: >-
-      julia gimenez
-    bio: >-
-      🔗 22 | SP alternative style content, beauty and lifestyle ✉ julia99gimenez@gmail.com or dm #olajulook
-    location: "Brazil"
-    followers: 32111
-    engagement: 438
-    commentsToLikes: 0.077611
-    id: ck9hcj61flnwb0j7834ibf8bg
+    followers: 117677
+    engagement: 716
+    commentsToLikes: 0.025039
+    id: ck15rd3837brc0i19j2ep1uzo
     verified: false
-    hashtags: "#sheingals, #alternativegirl, #shein, #alternativefashion"
+    hashtags: "#fuscadadrika, #kfcmaringa, #publi, #colorista"
+  - username: "pretaevan"
+    fullname: >-
+      𝙁𝙚𝙧𝙣𝙖𝙣𝙙𝙖 𝙀𝙫𝙖𝙣 👑
+    bio: >-
+      📍Psicóloga @fernandaevangelista.psi ✊🏿 📍AUTOESTIMA• LIFESTYLE• BELEZA NEGRA 📍📧: pretaevanassessoria@yahoo.com
+    location: "Brazil"
+    followers: 248493
+    engagement: 398
+    commentsToLikes: 0.036938
+    id: ckap5d22ub4oj0i78fm033idz
+    verified: false
+    hashtags: "#tbt, #preta, #maravilhosa, #amorproprio"
 ---

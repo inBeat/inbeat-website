@@ -1,130 +1,130 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Italy In 2023
+title: Top 10 Chefs Instagram Influencers In Italy In 2024
 description: >-
-  Find top chefs Instagram influencers in Italy in 2023. Most popular hashtags: #love #madeinitaly #africa.
+  Find top chefs Instagram influencers in Italy in 2024. Most popular hashtags: #foodporn #pasta #food #foodblogger.
 platform: Instagram
-hits: 336
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 336 Instagram influencers like this in Italy for you to connect with.
+hits: 357
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat has 357 Instagram influencers like this in Italy for you to connect with.
 profiles:
-  - username: "giulialoscodalcollo"
+  - username: "aurychefamily"
     fullname: >-
-      Giulia Losco Dal Collo
+      💕Aury Chef & family👩🏻‍🍳👩🏻‍🍳🌸
     bio: >-
-      RIDE OR DIE #67 👊✊ braaap life 🇮🇹 Italy 🎂 06/07 🍪 pastry chef 🔴 YT: 👇👇👇
+      Ciao Amici!🌸Sono Miriam,mamma di Aury e Ambra,le chef più piccole d’Italia💕 📍based in Luino Tips e risate nelle storie💖
     location: "Italy"
-    followers: 32393
-    engagement: 1836
-    commentsToLikes: 0.019345
-    id: ck600t3oze8080i14cit5ojk3
+    followers: 135743
+    engagement: 651
+    commentsToLikes: 0.053786
+    id: clqshei0u0fdr0k0841cg491t
     verified: false
-    hashtags: "#motolife, #rr, #bike, #fashion"
-  - username: "monafstevens"
+    hashtags: "#love, #natale, #aurychefamily, #ricetteveloci"
+  - username: "pastrychef081"
     fullname: >-
-      Mona Francesca | Pastry Chef
+      PastryChef081 Danilo Romano
     bio: >-
-      Patisserie Chef Model 🇿🇲🇮🇹 📍AMS/ JHB 100% Hustle 0% Luck Management: @bloc13agency
+      👨🏻‍🍳| Pastry Chef 📍| Napoli 🎂| 29 years old 💌| appstoredaniloromano@gmail.com
     location: "Italy"
-    followers: 20746
-    engagement: 424
-    commentsToLikes: 0.082308
-    id: ck6tn9akw9dyt0j71latc7l3k
+    followers: 147302
+    engagement: 729
+    commentsToLikes: 0.014762
+    id: clqshe90w05eu0k08l0t3b4gb
     verified: false
-    hashtags: ""
-  - username: "notordinarychef"
+    hashtags: "#ricette, #ricetteveloci, #dolci, #dolcifattiincasa"
+  - username: "cucinagideon"
     fullname: >-
-      Roberto Valbuzzi
+      Gideon Kad
     bio: >-
-      Varese,1.07.89 👨🏻‍🍳Owner and chef @crotto_valtellina 🥖Owner @laboratoriovalbuzzi 🍾@notordinarycatering ®️ 🍝Founder Oltregusto 📺#cortesiepergliospiti
+      Giovane CHEF appassionato con un AMORE profondo per la CUCINA ITALIANA🇮🇹❤️🇳🇬NOOOOT BAAAD!
     location: "Italy"
-    followers: 554776
-    engagement: 490
-    commentsToLikes: 0.018903
-    id: ck6tntyorakfq0j7144oq7l37
+    followers: 244602
+    engagement: 747
+    commentsToLikes: 0.021353
+    id: clqshe8fv04r70k08erwpcegk
+    verified: false
+    hashtags: "#cucinagideon, #chicken, #foodies, #instagram"
+  - username: "luca__salatino"
+    fullname: >-
+      Luca salatino
+    bio: >-
+      Chef @cabiria.laperladelmediterraneo Ex Responsabile del fritto @qvinto_restaurant V classificato migliore carbonara @gambero_rosso Colla@stan_mgmt
+    location: "Italy"
+    followers: 323597
+    engagement: 498
+    commentsToLikes: 0.019339
+    id: clqshehvd0f760k08j9zy29tv
+    verified: false
+    hashtags: "#food, #foodporn, #foodblogger, #pasta"
+  - username: "barbarellagreenchef"
+    fullname: >-
+      Barbarella (creator & CEO)
+    bio: >-
+      👩‍🍳 Vegan Chef (Matthew Kenney 2011) 👩‍💼CEO & restaurant owner 🌱Barbarella PLANT & 🌱Barbarella JUICEBAR 📚3 Cookbooks content @hoferslo @hoferat
+    location: "Italy"
+    followers: 9524
+    engagement: 399
+    commentsToLikes: 0.030404
+    id: ck6u6oaqqgrmf0j716it426nl
+    verified: false
+    hashtags: "#plantbased, #veganlife, #barbarellagchef, #veganfoodshare"
+  - username: "the_messy_cheffy"
+    fullname: >-
+      Ali Daly NZ Food-photographer
+    bio: >-
+      •Irish chef 👩‍🍳 • Vegan, vegetarian & plant based recipes •Food photographer / Video creator 📍Tauranga New Zealand Email: messycheffy89@gmail.com
+    location: "Italy"
+    followers: 8853
+    engagement: 242
+    commentsToLikes: 0.126871
+    id: ckaornksno0tv0i78xj0uhgyz
+    verified: false
+    hashtags: "#newzealandfood, #nzfoodies, #saladinspo, #nzfoodie"
+  - username: "chefmaxmariola"
+    fullname: >-
+      Chef Max Mariola
+    bio: >-
+      Romano di Roma, Docente di corsi, Ex triatlonista Owner of @maxmariolarestaurant 🇮🇹 EASY ITALIAN FOOD RECIPES BY ITALIAN CHEF
+    location: "Italy"
+    followers: 2862220
+    engagement: 216
+    commentsToLikes: 0.015271
+    id: ck5c4la8d1l240i113zhiit8a
     verified: true
-    hashtags: "#cookingathome, #adv, #notordinarychef, #aliseavalbuzzi"
-  - username: "simonerugiati"
+    hashtags: "#chefmaxmariola, #ricettadelgiorno, #traditionalcuisine, #adv"
+  - username: "diegorossichef"
     fullname: >-
-      Simone Rugiati
+      Diego Rossi
     bio: >-
-      Italian Chef TV presenter Activist • Per collaborazioni: info@foodloft.it @foodloftmilano
+      Owner/ chef @trippamilano @osteria_alla_concorrenza @testinahk
     location: "Italy"
-    followers: 523681
-    engagement: 191
-    commentsToLikes: 0.054065
-    id: ck55opzoy8vlr0i11ydxtbms9
-    verified: true
-    hashtags: "#buonapernatura, #madeinitaly, #africa, #phpietroruffato"
-  - username: "dreamy_wanderess"
-    fullname: >-
-      𝗡𝗵𝘆𝗹 𝗭𝗲𝗻𝗶𝘁𝗵 │ ℭ𝚘𝚗𝚝𝚎𝚗𝚝 ℭ𝚛𝚎𝚊𝚝𝚘𝚛
-    bio: >-
-      ✨𝙷𝚒𝚐𝚑 𝚅𝚒𝚋𝚎𝚜 𝙾𝚗𝚕𝚢✨ ⁣↠𝚆𝚊𝚗𝚍𝚎𝚛𝚜ˣ𝚆𝚘𝚗𝚍𝚎𝚛𝚜⁣ ⁣↠𝙱𝚛𝚊𝚗𝚍 𝙰𝚖𝚋𝚊𝚜𝚜𝚊𝚍𝚘𝚛-𝙲𝚑𝚎𝚏'𝚜𝚃𝚊𝚋𝚕𝚎 𝙳𝚒𝚗𝚒𝚗𝚐 𝚂𝚎𝚛𝚒𝚎𝚜 @adculinaryseason⁣⁣ #ADCulinary#ChefsTable⁣#InAbuDhabi#UnboxAmazing
-    location: "Italy"
-    followers: 10036
-    engagement: 444
-    commentsToLikes: 0.157675
-    id: ck6ue61j2p0s90j71peb3fnkv
+    followers: 33726
+    engagement: 213
+    commentsToLikes: 0.033342
+    id: ck55q9ezlcgcu0i11vgpvr9o9
     verified: false
-    hashtags: "#dreamywanderess, #artonaplate, #chefstable, #adcs"
-  - username: "chefdiiorio"
+    hashtags: "#trippamilano, #trattoriatrippa, #scoolinary, #diegorossi"
+  - username: "sweetportfolio"
     fullname: >-
-      Chef Giuseppe Di Iorio
+      Valentina Mussi
     bio: >-
-      1 ⭐️ Michelin Executive Chef @aroma_restaurant - @palazzomanfredi Relais & Chateaux #Roma 🇮🇹
+      traveler. pastry chef. author. cat + dog mom. italian-colombian living in miami ✌︎︎ tiktok @sweetportfolio 1.4m :) team@sweetportfolio.com
     location: "Italy"
-    followers: 23895
-    engagement: 314
-    commentsToLikes: 0.056914
-    id: ck0u1lmoox5oy0i19kdugigto
+    followers: 609753
+    engagement: 200
+    commentsToLikes: 0.007824
+    id: ck0tv6ulla6ww0i198osxo9ho
     verified: false
-    hashtags: "#restaurant, #italy, #topchef, #palazzomanfredi"
-  - username: "simofit_xw"
+    hashtags: "#londonfood, #desserts, #easyrecipe, #chocolates"
+  - username: "cheffacchini"
     fullname: >-
-      Simona Bartolini | FITNESS
+      Fabrizio Facchini
     bio: >-
-      Allenamento Femminile e Dolci Fit 𝑀𝑒𝑔𝓁𝒾𝑜 𝓊𝓃𝒶 𝓋𝑒𝓇𝒾𝓉à 𝒸𝒽𝑒 𝒻𝑒𝓇𝒾𝓈𝒸𝑒 𝒹𝒾 𝓊𝓃𝒶 𝒷𝓊𝑔𝒾𝒶 𝒹𝒾 𝒸𝑜𝓂𝑜𝒹𝑜 XWoman Coach®️Chef Model @xwoman_nutrition -10% XWPRO119
+      Chef, Dad @anticoborgoarcevia @stellinany @swnwnyc @slowfoodusa @adgitaly @urbanitruffles @pastadimartino @foodnetwork @ifeedamerica
     location: "Italy"
-    followers: 13551
-    engagement: 339
-    commentsToLikes: 0.092906
-    id: ckaparbigx67u0i78bu1khe1b
+    followers: 41867
+    engagement: 180
+    commentsToLikes: 0.006420
+    id: ck14hc8jw9lc80i19tj48lbe1
     verified: false
-    hashtags: "#tortafit, #bodyrecomp, #fitnesslifestyle, #countingmacros"
-  - username: "mattia_trani.official"
-    fullname: >-
-      𝕄𝔸𝕋𝕋𝕀𝔸 𝕋R𝔸N𝕀
-    bio: >-
-      Famous Italian Techno Chef🇮🇹 Label Head of @pushmasterdiscs 💽 ⬇️⏬
-    location: "Italy"
-    followers: 31649
-    engagement: 275
-    commentsToLikes: 0.086175
-    id: ck5qc5i62oydr0i11q1h3y2hc
-    verified: true
-    hashtags: "#love, #music, #pushmasterdiscs, #picoftheday"
-  - username: "natalieyospina"
-    fullname: >-
-      Nataly Ospina🖤
-    bio: >-
-      If you want to be happy be Pastry Chef @basemodelsuk Colombiana/Italian London
-    location: "Italy"
-    followers: 61221
-    engagement: 249
-    commentsToLikes: 0.021899
-    id: ck5zk51f6itph0i14l18pp4lt
-    verified: false
-    hashtags: "#saturdays"
-  - username: "frauknam"
-    fullname: >-
-      Frau Knam
-    bio: >-
-      Food blogger, Manager e Apprendista pasticcera. Il mio Maestro? Chef @ernstknam Accedi al mio sito web, scopri le mie ricette e tanto altro ancora!👇🏻
-    location: "Italy"
-    followers: 65522
-    engagement: 310
-    commentsToLikes: 0.016172
-    id: ck9wddz2xf7qd0j786k759iuw
-    verified: false
-    hashtags: "#loveisintheair, #pastry, #frauknam, #leideedifrauknam"
+    hashtags: "#newyork, #family, #nyc, #repost"
 ---

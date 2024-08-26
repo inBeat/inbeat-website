@@ -1,24 +1,36 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Dallas In 2023
+title: Top 10 Beauty Instagram Influencers In Dallas In 2024
 description: >-
-  Find top beauty Instagram influencers in Dallas in 2023. Most popular hashtags: #beauty #model #dallas #photoshoot.
+  Find top beauty Instagram influencers in Dallas in 2024. Most popular hashtags: #beauty #photoshoot #model #fashion.
 platform: Instagram
-hits: 249
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 249 Instagram influencers like this in Dallas, United States for you to contact.
+hits: 310
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 310 Instagram influencers like this in Dallas, United States for you to pitch.
 profiles:
-  - username: "carmenvanelly"
+  - username: "itsnadialouise"
     fullname: >-
-      
+      nadia louise
     bio: >-
-      To buy my published feature click on the link 🤍
+      faith | fashion | lifestyle | beauty dallas, tx 🤍🫶🏻 ✉️: itsnadialouise@gmail.com fave products & outfits ↓
     location: "United States"
-    followers: 9796
-    engagement: 131
-    commentsToLikes: 0.006617
-    id: ckmw1a63i5gvt0j23m35vd1av
+    followers: 66412
+    engagement: 3246
+    commentsToLikes: 0.034354
+    id: cky15p7c1f0to0j23d9bk4zha
     verified: false
-    hashtags: "#photography, #modeling, #blackandwhitephotography, #sheinbikini"
+    hashtags: "#morningroutine, #amazonfashion, #versedskincare, #amazonfashionfinds"
+  - username: "thecheydawn"
+    fullname: >-
+      DAWN
+    bio: >-
+      • Music Artist & Digital Creative 🎶 • • North TX 🌵 • DM TO BOOK •
+    location: "United States"
+    followers: 16333
+    engagement: 235
+    commentsToLikes: 0.123574
+    id: ck5qdqa7rwt3e0i11bltc53rf
+    verified: false
+    hashtags: "#altfashion, #texasmodel, #newmusic, #dallasbusiness"
   - username: "tacticalgirlrobinraider"
     fullname: >-
       Robin Banks
@@ -43,42 +55,6 @@ profiles:
     id: ck8swjyv9ecco0j78n5epipc9
     verified: false
     hashtags: "#explore, #beauty, #dallasdancers, #heelsdance"
-  - username: "fashionablylateboymom"
-    fullname: >-
-      Letty | DFW Influencer
-    bio: >-
-      Fashion + Fitness + Food Obsessed with Tacos&Spicy Margaritas & Working Out 💌 Fashionablylateboymom@gmail.com 📍Dallas Tx
-    location: "United States"
-    followers: 17993
-    engagement: 70
-    commentsToLikes: 0.320487
-    id: ck5qaykpxixhm0i11xg3o2xkk
-    verified: false
-    hashtags: "#dallas, #dallasblogger, #ootn, #dallasfitnessambassadors"
-  - username: "sandiego.city"
-    fullname: >-
-      Official San Diego Page
-    bio: >-
-      ♦️Tᴀɢ Us: @sandiego.city ♦️Hᴀsʜᴛᴀɢ Us: #sandiegocity ♦️Gᴏᴀʟ: #500 #500kfollowers ♦️Sʜᴀʀᴇ ᴀɴᴅ Rᴇᴘᴏsᴛ:🔁🔄 ♦️Nᴇᴡ Pᴏsᴛ Eᴠᴇʀʏ Dᴀʏ:📲📸 🔺SAN DIEGO CITY
-    location: "United States"
-    followers: 141622
-    engagement: 224
-    commentsToLikes: 0.011488
-    id: ck5pvukg1jpio0i11o1rgzzx5
-    verified: false
-    hashtags: "#cali, #instagood, #visitcalifornia, #sunriseoftheday"
-  - username: "shotsbystoney"
-    fullname: >-
-      Shots by Stoney
-    bio: >-
-      📸 Beauty & Fashion Photographer 📩 stoney@shotsbystoney.com 📍Aspen, CO
-    location: "United States"
-    followers: 2820
-    engagement: 1080
-    commentsToLikes: 0.076417
-    id: ck14j9ipfj8il0i192q4opkfr
-    verified: false
-    hashtags: "#dallasphotographer, #atxphotographer, #atxmodel, #mensbeauty"
   - username: "voorheesstudios"
     fullname: >-
       Voorhees Studios
@@ -103,18 +79,18 @@ profiles:
     id: ck6ug94oj1n4y0j712ml0sk2z
     verified: false
     hashtags: "#ootdfashion, #fitnessgoals, #portrait, #dfwmodel"
-  - username: "kanyasesser"
+  - username: "glowperfecto"
     fullname: >-
-      𝔎𝔞𝔫𝔶𝔞 𝔖𝔢𝔰𝔰𝔢𝔯 🖤🌹👁🌙🌊
+      I L S E | Beauty Content Creator
     bio: >-
-      Skater/Surfer Actress/Stunt Model Speaker/Women Advocate @sagaftra @dragonflyagency @dfatalent @prestigiousmodels 🖤 @jeffantonsphotography
+      ✨Let’s glow together | skincare & beauty 📍Dallas, TX | Latina 💌 glowperfecto@gmail.com Save some money + more…👇🏻
     location: "United States"
-    followers: 79444
-    engagement: 230
-    commentsToLikes: 0.022063
-    id: ck6u9d4bhwv4b0j71gupwgb9w
-    verified: true
-    hashtags: "#skate, #happiness, #beauty, #texas"
+    followers: 12029
+    engagement: 89
+    commentsToLikes: 0.145444
+    id: ck13czaoe2vog0i19h816na51
+    verified: false
+    hashtags: "#acne, #cleanbeauty, #realskin, #acneproneskincare"
   - username: "shellybenson"
     fullname: >-
       Shelly Benson
@@ -127,4 +103,28 @@ profiles:
     id: ck8t2jr5dzrf70j780dkb5951
     verified: false
     hashtags: "#mermaid, #vintagestyle, #travelgram, #styleinspo"
+  - username: "steviedphotos"
+    fullname: >-
+      Stevie D.
+    bio: >-
+      📷 Commercial Beauty/Fashion Photographer 🎥 Director - Midnight Club NO DM’s Please Booking Manager: michelle@steviereid.com Houston, TX 🤘🏾
+    location: "United States"
+    followers: 29622
+    engagement: 97
+    commentsToLikes: 0.049162
+    id: ck0u23fnsyto70i198c716u41
+    verified: false
+    hashtags: "#1lightmagic, #photographer, #feature, #portraitphotography"
+  - username: "nia4luv"
+    fullname: >-
+      🌸Nia4Luv • Travel + Food🌸
+    bio: >-
+      💫Founder of The Evolution of Happiness 💜Self-Love | Travel | Life & Style 📍SATX 🌎Citizen of the World
+    location: "United States"
+    followers: 8961
+    engagement: 741
+    commentsToLikes: 0.185438
+    id: ck5pz1x7cyv2o0i11tkiow53r
+    verified: false
+    hashtags: "#viewfromthetop, #latina, #selfcare, #hikingadventures"
 ---

@@ -1,24 +1,48 @@
 ---
-title: Top 10 Cinema Instagram Influencers In South Korea In 2023
+title: Top 10 Cinema Instagram Influencers In South Korea In 2024
 description: >-
-  Find top cinema Instagram influencers in South Korea in 2023. Most popular hashtags: #korean #seoul #cinematic #ig.
+  Find top cinema Instagram influencers in South Korea in 2024. Most popular hashtags: #korea #cinematic #voyaged #somewheremagazine.
 platform: Instagram
-hits: 14
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 14 Instagram influencers like this in South Korea for you to contact.
+hits: 16
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 16 Instagram influencers like this in South Korea for you to pitch.
 profiles:
-  - username: "breakdown.universe"
+  - username: "w3rsip"
     fullname: >-
-      Breakdown Channel Universe
+      이경호(Kyung-Ho Lee)🇰🇷
     bio: >-
-      🕹 Movies & Games 🎬 Pop Culture 🍿 Fandom & Fan Topic 🚀 All Cinematic Universe Keep exploring the Universe Business Inquiries : business@bcunetwork.com
+      • Cinematographer || Photographer • Fine-art photography || Digital art || Collage Philippians 4:13
     location: "South Korea"
-    followers: 114051
-    engagement: 378
-    commentsToLikes: 0.029831
-    id: ckaoylcmchyw70i783q1fdyxp
+    followers: 70837
+    engagement: 610
+    commentsToLikes: 0.018776
+    id: ck8tdgred38qs0j78bfywgfo7
     verified: false
-    hashtags: ""
+    hashtags: "#cinegrams, #thecreativers, #bealpha, #35mm"
+  - username: "jaitkenracer"
+    fullname: >-
+      Jack Aitken - 한세용
+    bio: >-
+      #AH19 🇬🇧🇰🇷 Scottish/Korean Racing driver. IMSA in the #31 Whelen Engineering Cadillac. DTM in the #14 Emil Frey Ferrari.
+    location: "South Korea"
+    followers: 157541
+    engagement: 546
+    commentsToLikes: 0.009602
+    id: ck5c1t101vv9f0i11da8o4hhg
+    verified: true
+    hashtags: "#cinematography, #cadillacracing, #roadatlanta, #petitlemans"
+  - username: "jinsu.foto"
+    fullname: >-
+      박진수 l 𝐉𝐢𝐧𝐬𝐮 𝐏𝐚𝐫𝐤
+    bio: >-
+      영화 같은 사진과 영상 그리고 영화 같은 여행을✈ . 𝐂𝐈𝐍𝐄𝐌𝐀𝐓𝐈𝐂 𝐇𝐎𝐋𝐈𝐂 #진수포토 #진수필름 . @travelholic_insta Crew . Team @insta360 . <마블, 무한히 팽창하는 우주>저자 . 협찬&제휴 문의는 DM 📧 . 유튭 링크👇
+    location: "South Korea"
+    followers: 9648
+    engagement: 887
+    commentsToLikes: 0.085189
+    id: ck5zrptmax1fi0i14po4ydyyn
+    verified: false
+    hashtags: "#travelholic, #2021, #cherryblossom, #seoulkorea"
   - username: "cameron_chafin"
     fullname: >-
       Cameron Chafin 카메론
@@ -31,54 +55,54 @@ profiles:
     id: ckap2zekn0z640i78c2zigvle
     verified: false
     hashtags: "#sublimestreet, #seoulmate, #rawurbanshots, #photographylife"
-  - username: "korea_nightscape"
-    fullname: >-
-      준가을
-    bio: >-
-      Professional in Timelapse & Hyperlapse
-    location: "South Korea"
-    followers: 14251
-    engagement: 695
-    commentsToLikes: 0.012715
-    id: ck0w2dhoknt1t0i196uo17qht
-    verified: false
-    hashtags: "#koreatravel, #korean, #longexposure, #afterrain"
   - username: "dear.abby_"
     fullname: >-
-      
+      Find your mood : 혜 영
     bio: >-
-      혜 영 공간을 담고 당신을 담아요, Find your mood #파인드유어무드 #혜영x숙소 #공간촬영 #개인촬영 촬영문의 📩 findurmood@gmail.com or DM
+      #혜영x숙소 #exhibitionstory_findurmood 문의 : 오픈카카오톡 #파인드유어무드 [위로:will be fine] 액자판매 링크 ⬇️
     location: "South Korea"
-    followers: 4759
-    engagement: 759
-    commentsToLikes: 0.166261
+    followers: 5435
+    engagement: 502
+    commentsToLikes: 0.097723
     id: ck6twwj1lui7a0j716asv5dwi
     verified: false
-    hashtags: "#specialfilm, #filmisnotdead, #somewheremagazine, #voyaged"
-  - username: "shimmycocopuffs"
+    hashtags: "#saturdaysmag, #moodyfilm, #shootonfilm, #profilepictures"
+  - username: "yhpark326"
     fullname: >-
-      Shimmy
+      Yunho Park
     bio: >-
-      OG YouTuber 🎥 Digital Entrepreneur 💻 Life Mentor 📚 Mood & Vibe 🧠❤️ Inspirator & Motivator 📣🎤 Toronto & Korean 🇨🇦🇰🇷
+      - MAIN ll Motion Design & Class - BUSINESS ll @chigong.official ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
     location: "South Korea"
-    followers: 19930
-    engagement: 2551
-    commentsToLikes: 0.154572
-    id: ck14hyqv3ct990i19nuostep8
+    followers: 10253
+    engagement: 2332
+    commentsToLikes: 0.006146
+    id: clpb6fpi78n0q0k08am17d2r5
     verified: false
-    hashtags: "#asianguy, #asianboy, #koreanboy, #bubbletea"
-  - username: "cix.official"
+    hashtags: "#motionmate, #aftereffectsanimation, #motiondesigners, #aftereffects"
+  - username: "saram.travel"
     fullname: >-
-      CIX (씨아이엑스)
+      SARAM
     bio: >-
-      C9 Entertainment CIX Official Instagram
+      
     location: "South Korea"
-    followers: 1125195
-    engagement: 743
-    commentsToLikes: 0.009290
-    id: ck0ue4swuko4q0i19dtu2pu3t
-    verified: true
-    hashtags: "#jinyoung, #kimseunghun, #bx, #yonghee"
+    followers: 26141
+    engagement: 112
+    commentsToLikes: 0.040207
+    id: ck6tkji9y4ts00j71qqhzhkta
+    verified: false
+    hashtags: "#africa, #newyork, #streetphotography, #sonya7r4"
+  - username: "clarissaacindy"
+    fullname: >-
+      𝐂𝐢𝐧𝐝𝐲🌼
+    bio: >-
+      👫 making and creating things with @dionjonathn 🇲🇨 motion designer📍Seoul 🇰🇷 🌐 300k+ on TikTok @clarissaacindy 📩 hi.clarissaacindy@gmail.com
+    location: "South Korea"
+    followers: 72757
+    engagement: 6
+    commentsToLikes: 0.000461
+    id: ck5hpknlmril80i112duewd7r
+    verified: false
+    hashtags: "#seoulclinic, #korea, #singlesinferno, #singlesinferno3"
   - username: "justin_lkj"
     fullname: >-
       Justin
@@ -103,28 +127,4 @@ profiles:
     id: ck6toq4f3fgrr0j71sftucinp
     verified: false
     hashtags: "#film, #broll, #moza, #filmmakersworld"
-  - username: "seonsu_photo"
-    fullname: >-
-      선수포토(광주광역시)
-    bio: >-
-      저 혼자만 좋아하는 사진보다는... 많은 분들이 좋아하는 사진을 담고싶어요.
-    location: "South Korea"
-    followers: 3262
-    engagement: 781
-    commentsToLikes: 0.042018
-    id: ckaoz3gm4k7da0i78cy4nziam
-    verified: false
-    hashtags: "#sonyimages, #sunset, #autumn, #profile"
-  - username: "donami0521"
-    fullname: >-
-      도남이 Donam
-    bio: >-
-      Hi🐷안녕하세요! 유튜브에서 리얼사운드먹방하는 도남이 입니다!^^
-    location: "South Korea"
-    followers: 108068
-    engagement: 379
-    commentsToLikes: 0.008361
-    id: ck14hvawmcaz40i19zmxmzuud
-    verified: false
-    hashtags: "#donam, #yupgitteokbokki, #koreanfood, #friedrice"
 ---

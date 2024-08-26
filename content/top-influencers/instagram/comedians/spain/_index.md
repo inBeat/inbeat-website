@@ -1,24 +1,48 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Spain In 2023
+title: Top 10 Comedians Instagram Influencers In Spain In 2024
 description: >-
-  Find top comedians Instagram influencers in Spain in 2023. Most popular hashtags: #publicidad #smile #compl.
+  Find top comedians Instagram influencers in Spain in 2024. Most popular hashtags: #standupcomedy #bogot #bogota.
 platform: Instagram
-hits: 125
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 125 Instagram influencers like this in Spain for you to collaborate.
+hits: 152
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 152 Instagram influencers like this in Spain for you to pitch.
 profiles:
   - username: "aleotero"
     fullname: >-
       Alejandra Otero Ramia
     bio: >-
-      Comediante. TikTok: @soyaleotero. Webshow: @vamosPeloaPelo. Cursos de humor @laescueladehumor ⬇️⬇️⬇️
+      Comediante venezolana. Hago stand up, videos, imitaciones y bebés. Franelas “Mejor que la Original” aquí
     location: "Spain"
-    followers: 231690
-    engagement: 467
-    commentsToLikes: 0.090142
+    followers: 267160
+    engagement: 316
+    commentsToLikes: 0.074409
     id: ck14li9mqutaw0i19ypr498w9
     verified: false
-    hashtags: "#diadelron, #parecesloco, #callatelajeta, #tbt"
+    hashtags: "#callatelajeta, #tbt, #cocinandoconpaulinaymondongo, #diadelron"
+  - username: "manualerod"
+    fullname: >-
+      Manuel Rodríguez
+    bio: >-
+      Comediante, monologuista y creador digital Publicidad: manualerodshop@gmail.com ⚡️ Madrid city 📍🇪🇸
+    location: "Spain"
+    followers: 1287341
+    engagement: 248
+    commentsToLikes: 0.031653
+    id: ck5q9369a95zp0i11s9x3gzd4
+    verified: false
+    hashtags: "#madrid, #venezuela, #paris, #qloecd"
+  - username: "belen_monteroi"
+    fullname: >-
+      Belén Montero
+    bio: >-
+      🎙 Host & Founder Melena Suelta Podcast ✨ Comediante de Stand Up
+    location: "Spain"
+    followers: 26002
+    engagement: 397
+    commentsToLikes: 0.028868
+    id: ck6tzo6bmav1m0j714xz5ldqz
+    verified: false
+    hashtags: "#pridemonth, #ceibosescasaimpro, #traumas, #lamidodevaca"
   - username: "gatoderisa"
     fullname: >-
       Jonathan Gato
@@ -54,19 +78,7 @@ profiles:
     commentsToLikes: 0.040524
     id: ck6tj6q0j246x0j71c0hd2txg
     verified: true
-    hashtags: "#nuevaslechesproteinmas, #yapodemosviajarxchile, #emprendedoradigital, #lidermania"
-  - username: "jorgetalaveraca"
-    fullname: >-
-      Jorge Talavera
-    bio: >-
-      Comediante - Actor Mi podcast🎙: @nisumaniresta LINK PARA EL SHOW👇🏼
-    location: "Spain"
-    followers: 113796
-    engagement: 314
-    commentsToLikes: 0.075371
-    id: ck6u90yqouukl0j7121lnh6ju
-    verified: true
-    hashtags: "#chicago, #publicidad, #sinfiltroperoconrespeto, #chicagogram"
+    hashtags: "#yoelijoesika, #publicidad, #tbt, #vivechile"
   - username: "manuelsilvah"
     fullname: >-
       ManuelSilvaH
@@ -115,16 +127,4 @@ profiles:
     id: ck1377mfka75z0i197m4z8gfo
     verified: true
     hashtags: "#hechoencantera"
-  - username: "ricardoelcomediante"
-    fullname: >-
-      Ricardo Mendoza Castillo
-    bio: >-
-      Soy comediante, toco guitarra, salí en asu mare 1, 2 y 3... 🌟 Únete a premium aquí: 👇
-    location: "Spain"
-    followers: 402161
-    engagement: 229
-    commentsToLikes: 0.010515
-    id: ck5zufofb29rs0i14u9bzm8zn
-    verified: false
-    hashtags: "#estreno, #radiohuevadas, #compl, #9pm"
 ---

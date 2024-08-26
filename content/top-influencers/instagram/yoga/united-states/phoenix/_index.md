@@ -1,12 +1,48 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Phoenix In 2023
+title: Top 10 Yoga Instagram Influencers In Phoenix In 2024
 description: >-
-  Find top yoga Instagram influencers in Phoenix in 2023. Most popular hashtags: #yoga #phoenix #love #fitness.
+  Find top yoga Instagram influencers in Phoenix in 2024. Most popular hashtags: #yoga #phoenix #love #arizona.
 platform: Instagram
-hits: 25
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 25 Instagram influencers like this in Phoenix, United States for you to connect with.
+hits: 31
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat has 31 Instagram influencers like this in Phoenix, United States for you to work with.
 profiles:
+  - username: "courtney_yoga"
+    fullname: >-
+      Courtney Fox | Yoga & Wellness | Scottsdale
+    bio: >-
+      🧘🏼‍♀️E-RYT 500 @modern_yoga_scottsdale 🪷Wellness @civanaresort 📸Model/talent @fordrba 💪🏼CYE Fest @thexlife.co 🦊Love @cfoxrun25 🔥@fromthewildfire
+    location: "United States"
+    followers: 12025
+    engagement: 205
+    commentsToLikes: 0.072305
+    id: ck5q9s1uecpao0i110r32leth
+    verified: false
+    hashtags: "#selflove, #meditation, #courtneyyoga, #yogapractice"
+  - username: "hannahlorschphotofilm"
+    fullname: >-
+      AZ Based + Travel Photographer
+    bio: >-
+      I believe in love & magic Timeless & emotion filled 🤍 Weddings+ hlorsch.photography@gmail.com AZ based, but passport ready
+    location: "United States"
+    followers: 18987
+    engagement: 602
+    commentsToLikes: 0.012092
+    id: ck6tygtiq3n490j71tvjigba4
+    verified: false
+    hashtags: "#arizonaweddingphotography, #weddinginspiration, #portraitphotography, #photographer"
+  - username: "msjeanettejenkins"
+    fullname: >-
+      Jeanette Jenkins
+    bio: >-
+      Turn on post notifications 👆 30yrs Experience Trainer+Health Coach 30Day Total Body Bootcamps 500+ streaming workouts! @hollywoodtrainerclub 👇
+    location: "United States"
+    followers: 977262
+    engagement: 78
+    commentsToLikes: 0.038815
+    id: ck0ttvi5q4hsc0i19w6trk0o0
+    verified: true
+    hashtags: "#fitnessmotivation, #homeworkouts, #exercisemotivation, #healthyliving"
   - username: "yogamaris"
     fullname: >-
       maris degener
@@ -19,30 +55,18 @@ profiles:
     id: ck0u8rs0783vx0i19h7eiobib
     verified: false
     hashtags: "#repost, #meetequip, #miaw, #covid"
-  - username: "lifestylejules"
+  - username: "aieshabeasley"
     fullname: >-
-      Lifestyle Jules
+      Aiesha | AZ Content Creator
     bio: >-
-      Fitness,Fashion,Wellness, Beauty. 46 year old mom of 3 who tries EVERYTHING 🙆🏻‍♀️so you don’t have to🤪follow me for education, discounts and fun!
+      A visual documentation of my life living in Arizona. 📷 📍Phoenix//🌵#Arizona TikTok (163k+)
     location: "United States"
-    followers: 210831
-    engagement: 18
-    commentsToLikes: 0.475308
-    id: ck5hkn3tdiq760i11cn7nyfgt
+    followers: 143967
+    engagement: 88
+    commentsToLikes: 0.045808
+    id: ck6tubkpbfekb0j710f24842i
     verified: false
-    hashtags: "#workoutvideos, #fitness, #paradisevalley, #professionalphotography"
-  - username: "alyssagermeroth"
-    fullname: >-
-      Alyssa Germeroth
-    bio: >-
-      Yoga 🧘‍♀️ fitness 🤸‍♂️ Arizona ☀️
-    location: "United States"
-    followers: 99132
-    engagement: 212
-    commentsToLikes: 0.024352
-    id: ck5pygwx2vykg0i11qv22q2fn
-    verified: false
-    hashtags: "#sedona, #azliving, #arizona, #handstand"
+    hashtags: "#azfoodie, #visitarizona, #phoenix, #azfood"
   - username: "nailamatloub"
     fullname: >-
       Naila Matloub
@@ -54,7 +78,7 @@ profiles:
     commentsToLikes: 0.052817
     id: ck0vyuc065tbn0i19nw2myqed
     verified: false
-    hashtags: "#fashioninspo, #yogainstructor, #thingsilove, #botd"
+    hashtags: "#thingsilove, #yogainstructor, #botd, #25thbirthday"
   - username: "parasnayal"
     fullname: >-
       Paras  (THE PHOENIX)
@@ -66,7 +90,7 @@ profiles:
     commentsToLikes: 0.049664
     id: ck5zkqrosjzjb0i14ppr9hhmn
     verified: false
-    hashtags: "#fitspo, #photooftheday, #lifestyle, #exercise"
+    hashtags: "#fit, #training, #fitnessmotivation, #bodybuilding"
   - username: "monikakolb.de"
     fullname: >-
       Circus Artist, Hula Hoop Shop
@@ -78,7 +102,7 @@ profiles:
     commentsToLikes: 0.163285
     id: ck139o719majb0i19s49ynrbo
     verified: false
-    hashtags: "#fairfashion, #yogawear, #fitmama, #instamama"
+    hashtags: "#greenfashion, #lilikoiyogaclothing, #circuseverydamnday, #slowfashion"
   - username: "taaaylorquinn"
     fullname: >-
       Taylor Quinn
@@ -90,7 +114,7 @@ profiles:
     commentsToLikes: 0.024954
     id: ck5q8jt4n6jee0i11t4l26h57
     verified: false
-    hashtags: "#openingnumber, #goshowstopper, #choreographer, #pink"
+    hashtags: "#vegas, #rehearsal, #letsgetit, #selfie"
   - username: "siannasherman"
     fullname: >-
       Sianna Sherman she/her
@@ -103,28 +127,4 @@ profiles:
     id: ck6tj4t2s20940j719b22bthd
     verified: false
     hashtags: "#om, #ignitemagic, #rasayogacollective, #alchemypriestess"
-  - username: "thebalancedpt"
-    fullname: >-
-      Dr. Dava Nichol // PT + Yoga
-    bio: >-
-      📚 Founder @MedFlowYoga 💫 I help people heal from injury & transform their yoga practice 💻 FREE 7 Day Yoga Mobility Course ⤵️
-    location: "United States"
-    followers: 44767
-    engagement: 163
-    commentsToLikes: 0.060492
-    id: ck0u88ia76qmd0i192h3bk2cj
-    verified: false
-    hashtags: "#yogaanatomy, #yogatraining, #ptmeetsyoga, #ytt200"
-  - username: "plutomami"
-    fullname: >-
-      P L U T O  (Only Account)
-    bio: >-
-      1908 | PHX | Loc’d | CoolKicks | PlantMom | MUVA Owner: @marymamaorganics
-    location: "United States"
-    followers: 172786
-    engagement: 527
-    commentsToLikes: 0.020088
-    id: ck5cj2bjstu4j0i11egplvotf
-    verified: false
-    hashtags: "#toes, #wcw, #goddess, #loclife"
 ---

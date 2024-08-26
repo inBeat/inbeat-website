@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In Miami In 2023
+title: Top 10 Graphic-Designers TikTok Influencers In Miami In 2024
 description: >-
-  Find top graphic-designers TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #foryoupage #foryou #viral.
+  Find top graphic-designers TikTok influencers in Miami in 2024. Most popular hashtags: #fyp #foryoupage #foryou #viral.
 platform: TikTok
 hits: 11
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 11 TikTok influencers like this in Miami, United States for you to contact.
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 11 TikTok influencers like this in Miami, United States for you to collaborate.
 profiles:
   - username: "adysonmayhall"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.023770
     id: ckdsyogd9r1br0j23jdqe2tyq
     verified: false
-    hashtags: "#transformation, #makeitvogue, #fyp, #makeup"
+    hashtags: "#makeup, #theprom, #transformation, #snowmanchallenge"
   - username: "__daxiela__"
     fullname: >-
       Dani C

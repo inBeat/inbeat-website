@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Ukraine In 2023
+title: Top 10 Travel TikTok Influencers In Ukraine In 2024
 description: >-
-  Find top travel TikTok influencers in Ukraine in 2023. Most popular hashtags: #travel #love #ukraine.
+  Find top travel TikTok influencers in Ukraine in 2024. Most popular hashtags: #travel #love #ukraine.
 platform: TikTok
 hits: 17
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 17 TikTok influencers like this in Ukraine for you to pitch.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 17 TikTok influencers like this in Ukraine for you to pitch.
 profiles:
   - username: "bodyann"
     fullname: >-

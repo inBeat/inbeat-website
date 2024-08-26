@@ -1,36 +1,84 @@
 ---
-title: Top 10 Skincare Instagram Influencers In 2023
+title: Top 10 Skincare Instagram Influencers In 2024
 description: >-
-  Find top skincare Instagram influencers in 2023. Most popular hashtags: #skincareroutine #skincaretips #skincare #selfcare.
+  Find top skincare Instagram influencers in 2024. Most popular hashtags: #skincare #skincaretips #skincareroutine #yslbeauty.
 platform: Instagram
-hits: 12307
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 12307 Instagram influencers like this for you to connect with.
+hits: 28593
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 28593 Instagram influencers like this for you to contact.
 profiles:
-  - username: "skincare.loveers"
+  - username: "trulymeganblog"
     fullname: >-
-      skincare
+      Megan Saustad
     bio: >-
-      Hi beautiful. Advertising: skincareloveerscontact@gmail.com
+      UGC Creator | Fashion | Beauty | Skincare | Over 50 | Dallas, TX Collabs 💌megan@trulymegan.com All Links Here ⬇️
     location: "United States"
-    followers: 85091
-    engagement: 1163
-    commentsToLikes: 0.011391
-    id: ckf5w5c6pqws90j23oi4xxcde
+    followers: 35550
+    engagement: 608
+    commentsToLikes: 0.063738
+    id: ck0vzqxedagw20i19kyr2nh6r
     verified: false
-    hashtags: ""
-  - username: "naturally_madisen"
+    hashtags: "#pumiey, #trulymeganstyle, #pumieytees, #styleover40"
+  - username: "beautiliciousc"
     fullname: >-
-      Madisen | Beauty + Wellness Blogger
+      Champika Budhagoda
     bio: >-
-      Helping You Upgrade Your Skincare, Body Care, & Self-Care Routine 🧖🏽‍♀️ Charlotte, NC 📍 📧 naturallymadisen@gmail.com Read My Blog + Shop Links ↴
+      ( Champs ) Beauty, Skincare & Aesthetics UGC Content Creator 📍Austin, TX 🇺🇸 📧 beautiliciousc80@gmail.com
     location: "United States"
-    followers: 33279
-    engagement: 1496
-    commentsToLikes: 0.106471
-    id: ckmw1cpl86d6e0j23cxiqwqe1
+    followers: 42358
+    engagement: 1073
+    commentsToLikes: 0.073729
+    id: ck0u74p3i3qn90i195xev2zcc
     verified: false
-    hashtags: "#hydratedskin, #selfcareblogger, #bodyproducts, #bodycareroutine"
+    hashtags: "#giftedbyyslbeauty, #yslbeautygiftedme, #beigeaesthetic, #luxebeauty"
+  - username: "geniussrblog"
+    fullname: >-
+      Sabeen Faraz
+    bio: >-
+      Founder @dihconcepts Beauty Lover💄Mom 👨‍👨‍👦 | Entrepreneur Luxury Makeup| Fashion| Skincare| Perfume 📍: Virginia, USA 📧 : geniussr2000@gmail.com
+    location: "United States"
+    followers: 50862
+    engagement: 468
+    commentsToLikes: 0.033347
+    id: ckaozhoiclxns0i781fwvob05
+    verified: false
+    hashtags: "#makeuporganizer, #makeupgeek, #chanelbeauty, #blush"
+  - username: "cristinaviseu"
+    fullname: >-
+      Cristina Viseu • San Francisco
+    bio: >-
+      📍San Francisco 💕 Pretty food + cozy home + luxury skincare 💌 viseu.c@gmail.com
+    location: "United States"
+    followers: 102725
+    engagement: 697
+    commentsToLikes: 0.017095
+    id: ckaorswleolz40i78clw0wbry
+    verified: false
+    hashtags: "#cozyhome, #softaesthetic, #sanfrancisco, #homedecor"
+  - username: "alessa"
+    fullname: >-
+      Alessa | アレッサ 💫
+    bio: >-
+      Skincare, beauty 🤍 SF📍 📧info.alessamiki@gmail.com 🎵 alessa.miki (800k)
+    location: "Japan"
+    followers: 252910
+    engagement: 590
+    commentsToLikes: 0.005205
+    id: ck14gwkbf7e1m0i191nzti4t0
+    verified: false
+    hashtags: "#jbeauty, #beautytips, #kbeauty, #skincaretips"
+  - username: "byjessicawong"
+    fullname: >-
+      jessica | fashion + lifestyle
+    bio: >-
+      • fashion, lifestyle, skincare, + beauty • based in San Francisco, CA • byjessicawong@gmail.com
+    location: "United States"
+    followers: 12777
+    engagement: 485
+    commentsToLikes: 0.052449
+    id: ckq0ivf8qddl90j2397axhen5
+    verified: false
+    hashtags: "#outfitinspo, #aritziastyle, #sezanelovers, #outfitinsporation"
   - username: "zarrine_beautyjunkie"
     fullname: >-
       Zarrine | London Beautyjunkie
@@ -42,89 +90,41 @@ profiles:
     commentsToLikes: 0.268348
     id: ck5zm1qadlqtg0i14gakgeiz9
     verified: false
-    hashtags: "#travelvlog, #dermalogicaskincare, #skincarecommunity, #travelgram"
-  - username: "sabrazaraa"
+    hashtags: "#dermalogicaskincare, #travelgram, #skinhealth, #skincarecommunity"
+  - username: "iamyeychii"
     fullname: >-
-      Seattle Lifestyle & Travel | PharmD, MPH, PhC
+      Onyinyechi Anozie (Engr)
     bio: >-
-      🇹🇳🇺🇸 Healthy lifestyle, skincare, food & travel Pharmacist | Researcher Inspiring YOU to be the best version of yourself 💌 Sabra.zaraa@gmail.com
+      Fashion| Skincare| Lifestyle Living through my content 📷 Manchester 🇬🇧 2M+ YT views| 30K subs Cofounder- @facilbyyy ✉️- Onyinye@iamyeychi.com
+    location: "United Kingdom"
+    followers: 84024
+    engagement: 2716
+    commentsToLikes: 0.029827
+    id: ckaorw78fp1100i78xx00y8fj
+    verified: false
+    hashtags: "#ootd, #howtostyle, #ukcontentcreator, #wigtutorial"
+  - username: "skinandkisses"
+    fullname: >-
+      Katrina Soriano
+    bio: >-
+      Skincare, beauty and makeup enthusiast Chasing glowing skin 😉✨ soon-to-be 👰🏻 💍 Filipina 🇵🇭 in Los Angeles, CA ⬇️ Links ⬇️
     location: "United States"
-    followers: 77441
-    engagement: 726
-    commentsToLikes: 0.023415
-    id: ck14lbl7wtu3i0i191qq4vdxr
+    followers: 16009
+    engagement: 581
+    commentsToLikes: 0.115398
+    id: cl7lda4fbvjux0i239o97u21u
     verified: false
-    hashtags: "#visittunisia, #seattlewa, #visitdjerba, #skincaretips"
-  - username: "byemmaleah"
+    hashtags: "#sephorahaul, #skincare, #makeupfavorites, #makeuptrends"
+  - username: "skincare.ninja"
     fullname: >-
-      Em | skincare + beauty
+      Kin Wa Wu
     bio: >-
-      sydney, aus 📍 skincare / hair / beauty + everyday life 🤍 💌: emilia@cloutcommunications.com.au
-    location: "Australia"
-    followers: 15952
-    engagement: 1913
-    commentsToLikes: 0.112932
-    id: cl4l962k3t1en0i232ak4mtb9
-    verified: false
-    hashtags: "#aveneau, #personalbestskin, #tymodryer, #tymobeauty"
-  - username: "doctorly"
-    fullname: >-
-      Dr. Muneeb Shah
-    bio: >-
-      📚 | Board Certified Dermatologist 👥 | Married to an OBGYN 🧴 | Shop Skincare & More ⬇️
+      👍🏼 Help you get clear glowy skin! TT(125K+) 🌈 Creator/ Product Expert📍LA 📧 Collab💕skincare.ninjala@gmail.com 🤓 Biochem+Design+Biz grad & US Veteran🇺🇸
     location: "United States"
-    followers: 901741
-    engagement: 412
-    commentsToLikes: 0.019049
-    id: cl3w8yr4iccu10i231ibfhf2k
+    followers: 131369
+    engagement: 552
+    commentsToLikes: 0.038063
+    id: ckr3qy1mk7dl30j23vucfcde9
     verified: false
-    hashtags: "#skincare, #spf, #dermatologist, #ceravepartner"
-  - username: "skin.and.scrubs"
-    fullname: >-
-      Stefanie
-    bio: >-
-      med student | skincare & beauty | self-care queen | 🇨🇦 reviews, recos, routines 💌skinandscrubs18@gmail.com 👇discounts, support, shop my faves
-    location: "Canada"
-    followers: 7875
-    engagement: 465
-    commentsToLikes: 0.274806
-    id: cl45xxt82jicz0i23w3as78e0
-    verified: false
-    hashtags: "#skincaretips, #skinfluencer, #creamblush, #makeuptips"
-  - username: "aj_sensitive_skincare"
-    fullname: >-
-      AJ  |  Beauty Content
-    bio: >-
-      Sharing my faves New launches • Reviews Easy beauty + better skincare decisions 📍🇺🇸
-    location: ""
-    followers: 70141
-    engagement: 409
-    commentsToLikes: 0.066838
-    id: ckvb7848i5ye30j23e7oysdw7
-    verified: false
-    hashtags: "#acnetips, #onmyvanity, #sephora, #luxuryskincare"
-  - username: "skingasmid"
-    fullname: >-
-      Fitri
-    bio: >-
-      Skincare . Beauty 📸 @trizastudio 🍂 @sheisfitri_
-    location: "Indonesia"
-    followers: 13797
-    engagement: 468
-    commentsToLikes: 0.197752
-    id: cl3w8ztbod9z00i23ifj2oupn
-    verified: false
-    hashtags: "#modernurban, #azarinecosmetic, #marvelxazarine, #reviewrombongan"
-  - username: "curlsbydaviana"
-    fullname: >-
-      Daviana | Miami Based Creator
-    bio: >-
-      Afro-Latina 🇨🇴🇩🇴 💌Daviana@cfg.co 🕐TikTok: curlsbydaviana (350k+) 💗Clean Haircare + Body & Skincare
-    location: "United States"
-    followers: 136637
-    engagement: 465
-    commentsToLikes: 0.013146
-    id: cl37w9m1b26f40i23n08cta1v
-    verified: false
-    hashtags: "#hairtutorial, #haircare, #hairgrowthtips, #hair"
+    hashtags: "#glowingskincare, #skincarejunkie, #elemis, #dryskin"
 ---

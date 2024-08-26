@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Brazil In 2023
+title: Top 10 Vegan Instagram Influencers In Brazil In 2024
 description: >-
-  Find top vegan Instagram influencers in Brazil in 2023. Most popular hashtags: #redhead #ruiva #ruivasacobreadas.
+  Find top vegan Instagram influencers in Brazil in 2024. Most popular hashtags: #vegan #govegan #vegana.
 platform: Instagram
 hits: 481
 text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 481 Instagram influencers like this in Brazil for you to work with.
+text_bottom: inBeat aggregates 481 Instagram influencers like this in Brazil for you to collaborate.
 profiles:
-  - username: "nubiafelipeti"
+  - username: "caroldestro"
     fullname: >-
-      Núbia Felipeti
+      Carol Destro
     bio: >-
-      📍Vinhedo/Botucatu - SP | 25 🐾 Médica Veterinária - UNESP Botucatu 🌱 Vegan Dicas | Cabelos | Edição de Fotos | Dia a Dia
+      Compartilhando a vida real, entre e aproveite!⠀ 💚Vegana ⠀ 💫Thetahealing ⠀ 🫶Mãe, yogi e outras tretas
     location: "Brazil"
-    followers: 61492
-    engagement: 708
-    commentsToLikes: 0.089601
-    id: ck13cgkeu08f10i19xnckkiv0
+    followers: 91425
+    engagement: 695
+    commentsToLikes: 0.044533
+    id: ck5cdzihak27t0i11zwg8696g
     verified: false
-    hashtags: "#redhead, #ruivasradiantes, #ruivas, #ruiva"
-  - username: "renatoshippee"
+    hashtags: "#veganosbrasil, #vegetarianos, #veganismobrasil, #vegana"
+  - username: "thee_burger_dude"
     fullname: >-
-      Renato Shippee
+      Thee Burger Dude
     bio: >-
-      🇧🇷 Criador da @karenkardasha📍Los Angeles🇺🇸 🌱 Vegan - Actor / 🎶 writer 🎬 Filmmaker 📩 renato.solipe@hotmail.com Ouça minhas músicas👇🏼
+      Watson - Vegan Home Cook Author of “VEGAN FAST FOOD” YouTube, Blog & Book ⤵️
     location: "Brazil"
-    followers: 1284588
-    engagement: 741
-    commentsToLikes: 0.011950
-    id: ck8t3ure44kk30j78co17t0w8
+    followers: 207424
+    engagement: 480
+    commentsToLikes: 0.020866
+    id: ck15rhv7t80gz0i19624o2mab
     verified: false
-    hashtags: "#vam, #brasil, #fashioneditorial, #renatoshippe"
-  - username: "lurygrabovski"
-    fullname: >-
-      Lury Grabovski
-    bio: >-
-      VEGAN 🌱 • Beauty & lifestyle • Cook • Horror fan Collabs/Business: Direct or e-mail. 💌 New collab vídeo:
-    location: "Brazil"
-    followers: 19249
-    engagement: 632
-    commentsToLikes: 0.165473
-    id: ck14hmvtub4ce0i19sb5oo7sg
-    verified: false
-    hashtags: "#tbt, #bussitchallenge"
-  - username: "triveganas"
-    fullname: >-
-      Laís Palma Elsing
-    bio: >-
-      Um casal vegano, duas cachorras e trigêmeas surpresa! São Paulo triveganas@gmail.com
-    location: "Brazil"
-    followers: 35782
-    engagement: 954
-    commentsToLikes: 0.033279
-    id: ck14l5s0aszwd0i19128yrh80
-    verified: false
-    hashtags: "#paralisiacerebral, #trigemeas, #oftalmologia, #trigemeos"
-  - username: "lorna_foxye_lady_"
-    fullname: >-
-      🦊Lorna🍁
-    bio: >-
-      📍Cotia, SP | BR 🇧🇷 💫Just being myself Ruiva | Vegan | Pets | Modelo | Chef contatolornafoxyelady@gmail.com Links⬇️
-    location: "Brazil"
-    followers: 59476
-    engagement: 292
-    commentsToLikes: 0.115220
-    id: ck8t81b6giqw10j78jw7o791t
-    verified: false
-    hashtags: "#browneyes, #redheads, #bikini, #coppertop"
+    hashtags: "#ad, #followyourheartpartner"
   - username: "vegetarirango"
     fullname: >-
       Flavio Giusti
     bio: >-
-      🐷 Criador do 1º canal de culinária vegana do Brasil 🎥 432k no Youtube
+      🎥 1º youtuber de culinária vegana do Brasil 🧀 Aprenda a fazer QUEIJO BRIE e GORGONZOLA ⤵️ Inscreva-se no Curso Presencial aqui
     location: "Brazil"
-    followers: 205941
-    engagement: 332
-    commentsToLikes: 0.077618
+    followers: 178844
+    engagement: 905
+    commentsToLikes: 0.065030
     id: ck5pzwzji35kj0i11cv9m24cw
     verified: true
-    hashtags: "#pegaaquinomeutender, #maldade, #fodaseafriboi, #fam"
-  - username: "mialvess"
+    hashtags: "#posedequebrada, #petesperan, #amparanimal, #rs"
+  - username: "rotaveg"
     fullname: >-
-      Michelle Alves | Intercâmbio
+      Victor Sanches
     bio: >-
-      🌎 Intercambista, Viajante, Vegana 🌱 🎥 Maior canal do Brasil sobre #intercâmbio 📩 contato@mialves.com ✨ Descontos e indicações:
+      O RotaVEG é onde compartilho minhas veganices por aí! 🌱 📦 ROTAVEG BOX: box mensal surpresa de produtos veganos 🤝 Parcerias: rotaveg@gmail.com
     location: "Brazil"
-    followers: 115877
-    engagement: 692
-    commentsToLikes: 0.019830
-    id: ck13aaphhpgok0i19xymufbkb
+    followers: 81611
+    engagement: 584
+    commentsToLikes: 0.078482
+    id: ck602bgiqh2li0i14kbsilqek
     verified: false
-    hashtags: "#publicidade, #santacatarina, #naturalumina, #miileva"
-  - username: "alineribeiroficial"
+    hashtags: "#pizzavegana, #vegan, #sejavegano, #vegano"
+  - username: "iamkalera"
     fullname: >-
-      Aline Ribeiro
+      K A L E R A  🎤
     bio: >-
-      🤱🏻 Mamãe aos 21, Esposa, Dona de casa & Empreendedora 🥗 Estilo de Vida Saudável 🌱 Vegan por ♥️ aos animais 🐷
+      ELA/DELA 🏳️‍🌈 singer(cantora)/streamer/mua/vet/vegan Vocals for: @rockdecember _ POWERED BY @furiagg https://linktr.ee/iamkalera OUÇA "ME SINTA":
     location: "Brazil"
-    followers: 29269
-    engagement: 382
-    commentsToLikes: 0.642567
-    id: ck6u5so13bi1t0j71a6snh4k0
+    followers: 146011
+    engagement: 759
+    commentsToLikes: 0.008789
+    id: ck5zqen6xugqx0i14dcqplbqt
     verified: false
-    hashtags: "#treinocombebe, #treinodiario, #treinoemcasa, #perdergordura"
-  - username: "bernardovillasboas"
+    hashtags: "#pridemonth, #baldursgate3, #cosplay, #ootd"
+  - username: "triveganas"
     fullname: >-
-      Bernardo Villas Bôas
+      Laís Palma Elsing
     bio: >-
-      🌱 Plant-based / Vegan 🇧🇷 Rio de Janeiro
+      Um casal vegano, um cão, um gato e trigêmeas! São Paulo
     location: "Brazil"
-    followers: 106845
-    engagement: 955
-    commentsToLikes: 0.018902
-    id: ckf5ucxtokg0i0j23yvbyuouc
+    followers: 58225
+    engagement: 397
+    commentsToLikes: 0.035901
+    id: ck14l5s0aszwd0i19128yrh80
     verified: false
-    hashtags: "#govegan, #tbt, #worldveganday"
-  - username: "kafe"
+    hashtags: "#trigemeas, #paralesiacerebral, #paralisiacerebral, #cerebralpalsy"
+  - username: "luisa_motta"
     fullname: >-
-      Kafé
+      Luísa Motta | Larica Vegana
     bio: >-
-      🎤 Singer/Songwriter 📍Salvador, Bahia 🌱 Vegan 🎵 Ouça o novo single “LONGE”:
+      Comunicadora social & cozinheira 🌱 Lariquenta profissional 🦥 Autora do livro Veganismo Descomplicado ✍️ + de 1/2 🌽 no YouTube + de 2 mil alunos 👩🏻‍🍳
     location: "Brazil"
-    followers: 17805
-    engagement: 444
-    commentsToLikes: 0.076451
-    id: ck5bxnp10o2b20i11lqqj30l2
-    verified: true
-    hashtags: "#lovesongs, #rnb, #rnbbrasil, #lovesong"
+    followers: 293134
+    engagement: 385
+    commentsToLikes: 0.015542
+    id: ck6uia1d6dxvb0j71r0zo9qa9
+    verified: false
+    hashtags: "#publidalarica, #comidaboaimporta, #reelsbrasil, #diadosnamorados"
+  - username: "macriscarneiro"
+    fullname: >-
+      Macrís Carneiro
+    bio: >-
+      🇧🇷 Volleyball player 🌱 Vegan 🏐 Olympic medalist🥈Tokyo 📩 livia@manilacomunica.com.br
+    location: "Brazil"
+    followers: 277823
+    engagement: 374
+    commentsToLikes: 0.004140
+    id: ck0tvfh4ib4ra0i19yqjwstzm
+    verified: false
+    hashtags: "#jogo2, #volley, #repost, #vaiminas"
+  - username: "olena.starodubets"
+    fullname: >-
+      Olena Starodubets
+    bio: >-
+      • 100% Atleta Natural • Vegan • Mãe • @starphysique / @stargutkombucha • @prozis : cupão OLENA/OLENA10 • YouTube 2M ♡ • Treinos Gratuitos
+    location: "Brazil"
+    followers: 432852
+    engagement: 336
+    commentsToLikes: 0.026179
+    id: ck8t8yy9bmc9w0j78haonvy8z
+    verified: false
+    hashtags: "#naturalbodubuilding, #treino, #naturalbodybuilding, #vegan"
+  - username: "vegtododia"
+    fullname: >-
+      Lívia Nunes | VegTodoDia
+    bio: >-
+      🍃 criadora de conteúdo, cozinheira & vegana 💌 contato | li.vegan95@gmail.com ⛰ niterói, rj
+    location: "Brazil"
+    followers: 39801
+    engagement: 314
+    commentsToLikes: 0.029376
+    id: ck8t6bfnzcyz80j78hfm44cyz
+    verified: false
+    hashtags: "#bolovegano, #bolodefesta, #semtrigo, #niverlola"
 ---

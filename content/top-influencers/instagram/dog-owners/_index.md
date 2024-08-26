@@ -1,12 +1,84 @@
 ---
-title: Top 10 Dog Owners Instagram Influencers In 2023
+title: Top 10 Dog Owners Instagram Influencers In 2024
 description: >-
-  Find top dog owners Instagram influencers in 2023. Most popular hashtags: #scandinavianhome #scandihome #pocketofmyhome.
+  Find top dog owners Instagram influencers in 2024. Most popular hashtags: #dogowner #dogmom #ad.
 platform: Instagram
-hits: 320
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 320 Instagram influencers like this for you to contact.
+hits: 376
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 376 Instagram influencers like this for you to connect with.
 profiles:
+  - username: "jamesgunn"
+    fullname: >-
+      James Gunn
+    bio: >-
+      DC Studios co-CEO, #GuardiansoftheGalaxy chief, dog owner, husband, servant to my cat.
+    location: "United States"
+    followers: 2722246
+    engagement: 377
+    commentsToLikes: 0.009926
+    id: ck0tu7ula5z720i19xh8tit0m
+    verified: true
+    hashtags: "#thesuicidesquad, #tsswatchparty, #bluebeetle, #peacemaker"
+  - username: "myboyrudder"
+    fullname: >-
+      MADDIE & RUDDER
+    bio: >-
+      ✨ practical ✨ advice for dog owners ✉️ myboyrudder@gmail.com 👇🏻 codes + favorite products + amazon lists
+    location: "United States"
+    followers: 154647
+    engagement: 240
+    commentsToLikes: 0.049896
+    id: cllz2bvjlokyk0j08yo15comz
+    verified: false
+    hashtags: "#dogtraining, #dogfood, #hikingwithdogs, #dogexercise"
+  - username: "chiffonthemaltipoo"
+    fullname: >-
+      Chiffon the Maltipoo : Dog-friendly lifestyle, dog mom & fashion
+    bio: >-
+      ♡ Maltese + Toy poodle (doodle dog)🐩 ♡ Princess puppy ♡ Cuteness • Fashionista • Dog owner ♡ Organization • Cooking • Pet-friendly home ♡ 📍NY
+    location: "United States"
+    followers: 180629
+    engagement: 176
+    commentsToLikes: 0.097219
+    id: ck15u3hwql8w00i19mn2iy8gt
+    verified: false
+    hashtags: "#grwm, #dogsofig, #puppylife, #dogowner"
+  - username: "dogmommentality"
+    fullname: >-
+      Karoline May 🫶 self care & mental health for dog moms
+    bio: >-
+      found healing through my reactive dog🫶 mid20s + mental health + dog owner 📍touchin trees in kentucky journal & podcast🔗⤵️ 💌collab@dogmommentality.com
+    location: "United States"
+    followers: 13694
+    engagement: 122
+    commentsToLikes: 0.035312
+    id: cl7kdxmquv9lo0i23hb2saefz
+    verified: false
+    hashtags: "#dogmom, #aussiemix, #dogtrainingexperience, #kentuckydog"
+  - username: "father_of_daughters"
+    fullname: >-
+      Simon
+    bio: >-
+      Cyclist, sports enthusiast, DIYer, sausage dog owner, dad
+    location: "Greece"
+    followers: 853906
+    engagement: 113
+    commentsToLikes: 0.016960
+    id: ck0tu4ur95n740i19rnbcay7p
+    verified: true
+    hashtags: "#ad, #parenting, #greece, #fatherofdaughters"
+  - username: "remy.barista"
+    fullname: >-
+      F&B photographer
+    bio: >-
+      📍 | Brussels based 🇧🇪 🥇 | Belgium barista champion 2018 🐶 | Proud Dog Owner @iamgujithecocker 📩 | remy.barista@gmail.com
+    location: "France"
+    followers: 68877
+    engagement: 48
+    commentsToLikes: 0.113505
+    id: ck5hpqdtxrsul0i11ck3jljs2
+    verified: false
+    hashtags: "#delonghi, #perfetto, #specialtycoffee, #cabinlife"
   - username: "costeee"
     fullname: >-
       𝖈𝖔𝖘𝖙𝖊𝖊
@@ -31,6 +103,18 @@ profiles:
     id: ck6tz16cc71yz0j71e9jk5vgd
     verified: true
     hashtags: "#heroeswearmasks"
+  - username: "valdecs"
+    fullname: >-
+      Valdemar Bjørn Vangså
+    bio: >-
+      26 🇩🇰 Professional Counter-Strike player for @ogesports 🕹 Dog owner 🐶 C63S 🏎
+    location: "United States"
+    followers: 33166
+    engagement: 518
+    commentsToLikes: 0.005417
+    id: ck6u4f5sg3d3z0j71a5fyhe81
+    verified: true
+    hashtags: ""
   - username: "emilyhatfield"
     fullname: >-
       Emily Hatfield
@@ -43,88 +127,4 @@ profiles:
     id: ck5zrnfdbwwre0i14wcpfu7mw
     verified: false
     hashtags: "#fuckcancer"
-  - username: "joachim_pastor"
-    fullname: >-
-      Joachim Pastor
-    bio: >-
-      🇫🇷Home of joachim pastor 🔊Electronic music artist 💽Member of @armadamusic 🎛Full analog geek 🏎Car lover 🦅Dog owner 🎧750k monthly spotify auditors
-    location: "United States"
-    followers: 20961
-    engagement: 315
-    commentsToLikes: 0.066414
-    id: ck5bwsoiemc7f0i11v01i4icr
-    verified: false
-    hashtags: "#3danimation, #abletonlive, #studer, #homestudio"
-  - username: "jnnfr2607"
-    fullname: >-
-      JENNY • INTERIOR.MOM.RHODESIAN
-    bio: >-
-      🇩🇪🇵🇱 • MOM. WIFE. DOG OWNER. INTERIOR LOVER. ♥ @dnl2608 you're my always und forever.
-    location: "Germany"
-    followers: 5483
-    engagement: 838
-    commentsToLikes: 0.076391
-    id: ck5hn4mk3n72n0i1112083riq
-    verified: false
-    hashtags: "#interior, #furniture, #house, #bathroominspiration"
-  - username: "koschtaaa"
-    fullname: >-
-      Kostas Kind
-    bio: >-
-      He/Him 📸 YouTuber from Berlin 💙 Gay dude, in love with @darkviktory 🐾 Dog Owner & Lover 📩 info@kostaskind.de
-    location: "Germany"
-    followers: 119355
-    engagement: 579
-    commentsToLikes: 0.021281
-    id: ck6u9nxcvym5u0j71xmhvang9
-    verified: false
-    hashtags: "#gayboy, #youtuber, #germanyoutuber, #potd"
-  - username: "carleemcdot"
-    fullname: >-
-      Carlee McDot (she/her)
-    bio: >-
-      Wife. Daughter. Friend. Runner. Michigan/Detroit Sports Fan. Plant-Based. Dog Owner. Change Maker. Sunshine Lover. World Wanderer. Oceanside, CA
-    location: "United States"
-    followers: 38443
-    engagement: 114
-    commentsToLikes: 0.057257
-    id: ckap7k4ezkevh0i78k32ozpn0
-    verified: false
-    hashtags: "#truckee, #waltthewienerdog, #optoutside, #laketahoe"
-  - username: "nickyshomeedit"
-    fullname: >-
-      Nicky X
-    bio: >-
-      🏡Just sold our newbuild and embarking on a renovation project, come stay the journey 🐶Mad dog owner ☕️Coffee lover 💖Homewares addict 🇬🇧CHESHIRE
-    location: "United Kingdom"
-    followers: 18724
-    engagement: 141
-    commentsToLikes: 0.117722
-    id: ckaoyo096ib860i7881bz2nt8
-    verified: false
-    hashtags: "#myhome2inspire, #pocketofmyhome, #showusyournewbuild, #newhome"
-  - username: "myheart_chakra"
-    fullname: >-
-      My Heart Chakra 🤍
-    bio: >-
-      Dog lover. Dog blogger. Dog owner. Baloo Aussie Good Boy 🥰 Ruby adopted Aussie Troublemaker 🤪 Nenya Bc Shrimp 🦐 #onehappypack #myheartchakracrew
-    location: "Poland"
-    followers: 7155
-    engagement: 973
-    commentsToLikes: 0.028051
-    id: ckap4hfr17e4g0i78h9t2hvo0
-    verified: false
-    hashtags: "#holidaysarecoming, #psioludzkarodzina, #raisedwithdogs, #owczarekaustralijskibluemerle"
-  - username: "remy.barista"
-    fullname: >-
-      F&B photographer
-    bio: >-
-      📍 | Brussels based 🇧🇪 🥇 | Belgium barista champion 2018 🐶 | Proud Dog Owner @iamgujithecocker 📩 | remy.barista@gmail.com
-    location: "United States"
-    followers: 74996
-    engagement: 61
-    commentsToLikes: 0.124904
-    id: ck5hpqdtxrsul0i11ck3jljs2
-    verified: false
-    hashtags: "#brewmethods, #roasterdaily, #coffeemakesmetravel, #specialtycoffeeroaster"
 ---

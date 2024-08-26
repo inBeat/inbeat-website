@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hockey Players TikTok Influencers In 2023
+title: Top 10 Hockey Players TikTok Influencers In 2024
 description: >-
-  Find top hockey players TikTok influencers in 2023. Most popular hashtags: #hockey #fyp #funny #greenscreen.
+  Find top hockey players TikTok influencers in 2024. Most popular hashtags: #hockey #fyp #funny #greenscreen.
 platform: TikTok
 hits: 27
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our platform has 27 TikTok influencers like this for you to pitch.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 27 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "eriknagyy"
     fullname: >-
@@ -59,14 +59,14 @@ profiles:
     fullname: >-
       Neal.Lindemoen 
     bio: >-
-      Hockey Player 15 venmo: neal-lindemoen
+      Hockey Player venmo: neal-lindemoen
     location: "United States"
-    followers: 17600
-    engagement: 1056
-    commentsToLikes: 0.029310
+    followers: 18400
+    engagement: 1522
+    commentsToLikes: 0.040844
     id: ckbf4o0r6tcoj0j23b1tsf0wh
     verified: false
-    hashtags: "#magic, #foryou, #imabeast, #beastmode"
+    hashtags: "#beastmode, #foryou, #imabeast, #boy"
   - username: "alwayshockey"
     fullname: >-
       Zac Bell
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.020189
     id: ckbfcy2kt5xq90j23ahd0x0h7
     verified: false
-    hashtags: "#father, #wife, #abg, #daughter"
+    hashtags: "#relationship, #asian, #father, #challenge"
 ---

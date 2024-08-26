@@ -1,12 +1,24 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Melbourne In 2023
+title: Top 10 Fashion Instagram Influencers In Melbourne In 2024
 description: >-
-  Find top fashion Instagram influencers in Melbourne in 2023. Most popular hashtags: #melbourne #fashion #ootd #australia.
+  Find top fashion Instagram influencers in Melbourne in 2024. Most popular hashtags: #fashion #melbourne #ootd #australia.
 platform: Instagram
-hits: 83
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 83 Instagram influencers like this in Melbourne, Australia for you to contact.
+hits: 195
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 195 Instagram influencers like this in Melbourne, Australia for you to pitch.
 profiles:
+  - username: "chlotobin"
+    fullname: >-
+      Chloe Tobin
+    bio: >-
+      victoria, australia ✉️~ dm/email for sponsorships and collabs
+    location: "Australia"
+    followers: 9538
+    engagement: 1141
+    commentsToLikes: 0.067152
+    id: ck0vznix29ze70i19ftx2r6rw
+    verified: false
+    hashtags: "#ootd, #outfitoftheday, #curves, #australianmodel"
   - username: "gustavoviglio"
     fullname: >-
       Gustavo Viglio
@@ -19,112 +31,100 @@ profiles:
     id: ck5hmh7flly1p0i11p1bvdhqe
     verified: false
     hashtags: "#likeforlikes, #fashionblogger, #fashion, #melbourne"
-  - username: "mikayla_stevens.06"
+  - username: "thisiselif77"
     fullname: >-
-      MIKAYLA STEVENS
+      Elif 🪬 Fashion 🪬 Lifestyle
     bio: >-
-      🌸@mikayla.stevens.backup 🌸MANAGER jay@jr-management.com.au 🌸 @jrmanagement 🌸MELBOURNE AUSTRALIA 🌸DM TO COLLAB
+      📍Sydney, Australia 𝕊𝕡𝕣𝕖𝕒𝕕 𝕝𝕠𝕧𝕖 𝕨𝕙𝕖𝕣𝕖𝕖𝕧𝕖𝕣 𝕪𝕠𝕦 𝕘𝕠 ツ🤍⚖ ♡𓂀☾ ⋆⁺₊⋆ ☮︎ ๛ 📧 thisiselif77@gmail.com
     location: "Australia"
-    followers: 38392
-    engagement: 235
-    commentsToLikes: 0.083246
-    id: ck6u71fqeiww80j712x08dvh3
+    followers: 32133
+    engagement: 234
+    commentsToLikes: 0.075216
+    id: ckap0hbozqago0i7832tq6gru
     verified: false
-    hashtags: "#melbourneinfluencer, #emerald, #fashion, #agentmodel"
-  - username: "mackenzieduffy_"
+    hashtags: "#fashionblogger, #ootd, #instagram, #styleinfluencer"
+  - username: "melissajadestyle"
     fullname: >-
-      MACKENZIE JADE DUFFY
+      Melissa Doughty Plus Size Fashion
     bio: >-
-      DANCER. MODEL. •Samoan/Australian• @energetiks model @tiktok kenziejade_
+      ✨Curvy Content Creator | Size 18-20 ✨Try On Hauls | Styling Tips ✨Everyday Style ✨Mum💕💙 📍Mornington Peninsula, VIC 📧Email: melissabovell@live.com.au
     location: "Australia"
-    followers: 17423
-    engagement: 251
-    commentsToLikes: 0.102668
-    id: ck5hdrdn3ozai0i112di2rbza
+    followers: 23809
+    engagement: 86
+    commentsToLikes: 0.115311
+    id: ckr0aw1e65abq0j23zs8t4f1f
     verified: false
-    hashtags: "#melbourne, #naturallight, #aussie, #dance"
-  - username: "juthamat.by.jem"
+    hashtags: "#melbournestyle, #size20, #melbourne, #australia"
+  - username: "themelbourne.mum"
     fullname: >-
-      Jem Juthamat
+      Jena Nichola
     bio: >-
-      Lifestyle | Interior Melbourne Australia Creative Director + Co Founder @jemandbianca.interiors Collab w/ me - contact@vivemanagement.com.au
+      ☼ Bestie vibes only 🫶🏽 ☼ Here to inspire, laugh & keep it real ✨ ☼ Founder: @thesocialpreneur_ 👩🏻‍💻 ☼ Enquiries: themelbourne.mum@outlook.com 💌
     location: "Australia"
-    followers: 60470
-    engagement: 92
-    commentsToLikes: 0.166739
-    id: ck13bpl4bwk2n0i19gi6bl1gm
+    followers: 62234
+    engagement: 60
+    commentsToLikes: 0.162010
+    id: cloqu1jeyguix0j080u3gcc24
     verified: false
-    hashtags: "#melbourneinteriors, #livingroomdecor, #interior4all, #homeinspo"
-  - username: "alifya_ansari"
+    hashtags: "#funnyreels, #selfcare, #motherhoodhumour, #postpartummum"
+  - username: "chloe.a.reid"
     fullname: >-
-      Brown Wonder-Woman 📍Melbourne
+      C H L O E
     bio: >-
-      La Vie en Rose 💗🧿 Fashion, Beauty, Lifestyle Influencer Email for Collaboration 📧 🇺🇸 🇬🇷 🇮🇹 🇨🇭 🇭🇺 🇦🇹 🇪🇸 🇫🇷 🇨🇿 🇳🇱 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇳🇿 🇸🇬 🇮🇩 🇲🇾 🇦🇺 🇮🇳 & counting
+      📍Sydney #chloecreative
     location: "Australia"
-    followers: 38653
-    engagement: 78
-    commentsToLikes: 0.178074
-    id: ck9wgqow3ukc80j78s88vej5z
+    followers: 6441
+    engagement: 405
+    commentsToLikes: 0.231623
+    id: ck6tknarz51ii0j71u9cwrn4m
     verified: false
-    hashtags: "#fashionbloggerau, #australia, #indianblogger, #melbourneblogger"
-  - username: "katiestaffordd"
+    hashtags: "#sydneystyle, #bts, #nswtravel, #airbnbaustralia"
+  - username: "hannahmcknightt"
     fullname: >-
-      Katie | Style & Fashion
+      Hannah Mcknight
     bio: >-
-      Lover of good clothes, a good handbag and good wine. Blogger - Fashion - Feminine Style Melbourne - Australia Contact/Email👇🏼 B.B 🤍
+      22 Melb, Aus Collabs DM or 💌 hannah.mcknightt@gmail.com Tiktok - hannahmcknightt Exercise sport science student
     location: "Australia"
-    followers: 11955
-    engagement: 632
-    commentsToLikes: 0.210953
-    id: ck13a5esfopze0i19fsbbs2t6
+    followers: 13615
+    engagement: 1253
+    commentsToLikes: 0.009196
+    id: clb3f6ov438iy0i23oy5pr74r
     verified: false
-    hashtags: "#asistylist"
-  - username: "macarenapaz.xo"
+    hashtags: "#melbourneinfluencer, #melbournecocktailbar, #fashion, #explorepage"
+  - username: "lisateh_"
     fullname: >-
-      Macarena
+      Lisa Teh
     bio: >-
-      🤍On a Self love journey #Melbourne 🧿Fashion | Lifestyle | Travel | Motherhood Represented by @vive_management Collab-contact@vivemanagement.com.au
+      📖 Co-Author Aus Style & Aus Beauty 🍑 Founder @codiagency & @mooningagency 🔥 40U40 Most Influential Asian-Australians
     location: "Australia"
-    followers: 32327
-    engagement: 284
-    commentsToLikes: 0.126289
-    id: ck138kandgn5w0i19v036t07c
+    followers: 39073
+    engagement: 3
+    commentsToLikes: 0.010522
+    id: ck0u26qq7yy4j0i19cx6a4ewp
     verified: false
-    hashtags: "#statusanxietypartner, #mahlithelabel, #ad, #choosekynd"
-  - username: "kellykelly.h"
+    hashtags: "#foodie, #melbourne, #fashion, #restaurant"
+  - username: "kyliesouthwoodphotography"
     fullname: >-
-      K E L L Y  H O
+      Kylie Southwood Photography
     bio: >-
-      Stylist . Photographer . Content Creator #Fashion | #Beauty | #Lifestyle #Melbourne, #Australia Contact and Collab please DM or Email me
+      AIPP accredited Photographer | fashion | head shots | portrait | mentoring | Melbourne | kyliesouthwood@bigpond.com
     location: "Australia"
-    followers: 35313
-    engagement: 63
-    commentsToLikes: 0.118478
-    id: ck14l4wa5svbd0i190oyfztsg
+    followers: 27955
+    engagement: 75
+    commentsToLikes: 0.066259
+    id: ck13cxxr82plf0i191zwb7zf6
     verified: false
-    hashtags: "#sheingals, #bbgratis, #ghdrise, #ghdanz"
-  - username: "natkalinowski"
+    hashtags: "#style, #beautifulfaces, #portraitphotography, #model"
+  - username: "petrakonyit"
     fullname: >-
-      Natalia Kalinowski
+      Petra Könyit
     bio: >-
-      Model•Lifestyle & Fashion Blogger 📍Melbourne ✈️ Luxury Traveler @themoderndaylifestyle 📩 natalia@nataliakalinowski.com 📸 @silhouettemanagement
+      🇭🇷🇦🇺 On holiday in Croatia until Jan 2024 Co-founder @twoevolve Co-founder @ambitionthelabel Founder @streetboxzagreb
     location: "Australia"
-    followers: 116385
-    engagement: 277
-    commentsToLikes: 0.008310
-    id: ck6trxfdr1mj30j71xddclqcz
+    followers: 53043
+    engagement: 518
+    commentsToLikes: 0.011652
+    id: ck9hbm7aehglm0j78ypg3x14b
     verified: false
-    hashtags: "#shein, #ad, #lanistar, #sheinx"
-  - username: "gentsempire"
-    fullname: >-
-      Simon | Gents Empire
-    bio: >-
-      📍Melbourne, AUS 🇦🇺 Fashion, Lifestyle & Travel images and content that inspire the Modern Gentleman.
-    location: "Australia"
-    followers: 32794
-    engagement: 250
-    commentsToLikes: 0.045987
-    id: ck8tbx9omxjjo0j7823gm8z9v
-    verified: false
-    hashtags: "#gentsempire"
+    hashtags: "#fashion, #brisbanefashionblogger, #melbournefashion, #melbournefashionblogger"
 ---

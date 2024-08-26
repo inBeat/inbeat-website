@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Indonesia In 2023
+title: Top 10 Gardening Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top gardening Instagram influencers in Indonesia in 2023. Most popular hashtags: #homedecor #rumahminimalis #inspirasirumah #homeinspiration.
+  Find top gardening Instagram influencers in Indonesia in 2024. Most popular hashtags: #homedecor #homeinspiration #inspirasirumahidaman #rumahminimalis.
 platform: Instagram
-hits: 10
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 10 Instagram influencers like this in Indonesia for you to contact.
+hits: 8
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 8 Instagram influencers like this in Indonesia for you to pitch.
 profiles:
   - username: "mamazie68"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ckaout7e81pp70i785w7z9noo
     verified: false
     hashtags: "#mallugram, #bhfyp, #cochin, #malayalamtypography"
-  - username: "poppyseptia"
-    fullname: >-
-      
-    bio: >-
-      beauty & family 🐦 @sloppypoppy 🏙 @femaledailynetwork ☎️ CP: +62 812-9887-5074 (Tara)
-    location: "Indonesia"
-    followers: 10725
-    engagement: 441
-    commentsToLikes: 0.020634
-    id: ck6u7lvremahs0j71c6ohjeg1
-    verified: false
-    hashtags: "#skincarejunkie, #fujifilm, #igdaily, #beautyeditor"
   - username: "dina_rafasya"
     fullname: >-
       Inspirasi Rumah Mungil
@@ -55,6 +43,18 @@ profiles:
     id: ck55ocnjj83t30i11zd6q6x6c
     verified: false
     hashtags: "#pojokfavorit, #rumahcantik, #bedroomideas, #dapurcantik"
+  - username: "manuelbergmann"
+    fullname: >-
+      Sustainability Coach
+    bio: >-
+      📍Bali 🏝️ 🌿Sustainability Activist & Conservationist 🌊 🎥Environmental Filmmaker 🌍 🙏Founder @coachingforcause 🏃‍♂️ Join us in a RUN for BALI ⬇️
+    location: "Indonesia"
+    followers: 8087
+    engagement: 211
+    commentsToLikes: 0.103605
+    id: ck138jazqgi150i19f41rwkaf
+    verified: false
+    hashtags: "#repost, #naturelover, #ecocommunity, #treeplanting"
   - username: "robinavicula"
     fullname: >-
       Gede Robi
@@ -67,30 +67,6 @@ profiles:
     id: ck0w5tx4t5f680i19ou0mun3a
     verified: false
     hashtags: "#home, #bali, #family, #robinavicula"
-  - username: "ratnatjahyo"
-    fullname: >-
-      ratnatjahyoinsani
-    bio: >-
-      Home diary ✏️decor creator 🏡My home style➡️ @rumah_3g 📸backpack traveller 📌bussiness inquiry ➡️DM 📍west java 🇲🇨 🥋Is just my style
-    location: "Indonesia"
-    followers: 10491
-    engagement: 325
-    commentsToLikes: 0.242685
-    id: ck9wd96koenkz0j78u9fkt7q9
-    verified: false
-    hashtags: "#rustichome, #tanamanhijau, #gadiningroom, #kitchendecor"
-  - username: "tristanjulianos"
-    fullname: >-
-      Tristan Juliano S.
-    bio: >-
-      @mantravutura @groots_id @daily.cubo @lombasihiryes New Releases: 2020, Percakapan Pt. I, Kehendak Tuhan
-    location: "Indonesia"
-    followers: 98426
-    engagement: 285
-    commentsToLikes: 0.009424
-    id: ck0ttqpwi3wdn0i19a1tghl10
-    verified: false
-    hashtags: "#kadovalentine, #kadowisuda, #grootsforvalentine, #valentinehampersjakarta"
   - username: "ditte_id"
     fullname: >-
       Ditte Halide

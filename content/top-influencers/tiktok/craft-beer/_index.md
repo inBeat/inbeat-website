@@ -1,11 +1,11 @@
 ---
-title: Top 10 Craft Beer TikTok Influencers In 2023
+title: Top 10 Craft Beer TikTok Influencers In 2024
 description: >-
-  Find top craft beer TikTok influencers in 2023. Most popular hashtags: #craftbeer #beer #fyp #foryoupage.
+  Find top craft beer TikTok influencers in 2024. Most popular hashtags: #craftbeer #beer #fyp #foryoupage.
 platform: TikTok
-hits: 43
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our database aggregates 43 TikTok influencers like this for you to work with.
+hits: 44
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 44 TikTok influencers like this for you to contact.
 profiles:
   - username: "laurenkelly224"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.019080
     id: ckb9hewue75l10j23buc5tjb7
     verified: false
-    hashtags: "#loungewear, #momsoftiktok, #quarantine, #mombod"
+    hashtags: "#milftok, #loungewear, #mombod, #craftbeer"
   - username: "4thtap"
     fullname: >-
       4th Tap
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.027631
     id: ck9gknmcfkclo0j78gj1nxrq9
     verified: false
-    hashtags: "#homebar, #cocktails, #starbucksrecipes, #craftbeer"
+    hashtags: "#cocktails, #homebar, #mixology, #starbucksrecipes"
 ---

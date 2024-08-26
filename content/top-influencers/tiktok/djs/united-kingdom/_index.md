@@ -1,11 +1,11 @@
 ---
-title: Top 10 Djs TikTok Influencers In United Kingdom In 2023
+title: Top 10 Djs TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top djs TikTok influencers in United Kingdom in 2023. Most popular hashtags: #dance #fyp #bossit2021 #duet.
+  Find top djs TikTok influencers in United Kingdom in 2024. Most popular hashtags: #dance #fyp #duet #bossit2021.
 platform: TikTok
 hits: 23
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our platform holds 23 TikTok influencers like this in United Kingdom for you to collaborate.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 23 TikTok influencers like this in United Kingdom for you to pitch.
 profiles:
   - username: "michellemccormick19"
     fullname: >-

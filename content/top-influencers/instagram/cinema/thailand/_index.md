@@ -1,24 +1,24 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Thailand In 2023
+title: Top 10 Cinema Instagram Influencers In Thailand In 2024
 description: >-
-  Find top cinema Instagram influencers in Thailand in 2023. Most popular hashtags: #film #food #movie.
+  Find top cinema Instagram influencers in Thailand in 2024. Most popular hashtags: #film #director #filmmaking.
 platform: Instagram
-hits: 8
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 8 Instagram influencers like this in Thailand for you to contact.
+hits: 13
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 13 Instagram influencers like this in Thailand for you to connect with.
 profiles:
   - username: "blue_pongtiwat"
     fullname: >-
       Pongtiwat Tangwancharoen
     bio: >-
-      📱For work 062-545-5699 (K.EM) 083-9988965 (K.Dear) Twitter : @bluepongtiwat_ 📚Assumption College 132⚪️🔴 🎬Cinema SWU
+      📱For work 083-9988965 (K.Dear) Line ID : nadearzz7 Twitter : @bluepongtiwat_ 📚Assumption College 132⚪️🔴 🎬Cinema SWU
     location: "Thailand"
-    followers: 1181574
-    engagement: 936
-    commentsToLikes: 0.004921
+    followers: 2237009
+    engagement: 512
+    commentsToLikes: 0.002907
     id: ck0w6lxn297qm0i19ovof46gk
     verified: true
-    hashtags: "#galaxys21th, #teamgalaxy, #galaxys21, #ffgreen"
+    hashtags: "#tods, #valentinogaravaniandporter, #netflixth, #todsss24"
   - username: "yeenplairung"
     fullname: >-
       yoonyeen
@@ -61,12 +61,36 @@ profiles:
     bio: >-
       𝔽𝕚𝕝𝕞𝕞𝕒𝕜𝕖𝕣 - 𝔼𝕕𝕚𝕥𝕠𝕣 - ℙ𝕒𝕜𝕒 𝔽𝕖𝕤𝕥𝕚𝕧𝕒𝕝 📍Bangkok & Bretagne 🏴‍☠️ 🎥 095 Paka Pictures / Final Kid Films 🚨Youtube : Kolour in the Park (shot on iPhone) 📱✨
     location: "Thailand"
-    followers: 5444
-    engagement: 793
-    commentsToLikes: 0.079234
+    followers: 5448
+    engagement: 802
+    commentsToLikes: 0.076417
     id: ck5c4aze40z1t0i11m9dqusfg
     verified: false
-    hashtags: "#lumixgh5, #filmisnotdead, #directorofphotography, #documentary"
+    hashtags: "#filmmakerslife, #filmmaker, #filmisnotdead, #ultramiami"
+  - username: "traciesinidol_official"
+    fullname: >-
+      TRACIE SINIDOL
+    bio: >-
+      𝗗𝗲𝘄𝗶 𝗥𝗲𝗺𝗮𝗷𝗮 𝟮𝟬𝟮𝟮 👑 📞: +60 16 600 6548 (Sean) 🤍: @tracestarsofficial @capsulesbytracie
+    location: "Thailand"
+    followers: 182709
+    engagement: 648
+    commentsToLikes: 0.006167
+    id: clm70aw38gprc0j08bpxd2r3f
+    verified: false
+    hashtags: "#onitsukatiger, #fujifilm, #cinematics, #photography"
+  - username: "chanyamcclory"
+    fullname: >-
+      Chanya McClory
+    bio: >-
+      /\-/< Email : info@chanyamcclory.com @workwithchanyamc
+    location: "Thailand"
+    followers: 900499
+    engagement: 181
+    commentsToLikes: 0.000587
+    id: ck0tu619j5sp40i19kp18wh8r
+    verified: false
+    hashtags: "#penanggal, #portra400, #inhumankiss, #leak"
   - username: "aberonx"
     fullname: >-
       Anurag Baruah
@@ -91,16 +115,16 @@ profiles:
     id: ck0vvia87p9ky0i19vhedav43
     verified: false
     hashtags: "#illustrator, #singarajadesign, #logodesignapp, #logodesignmalaysia"
-  - username: "wawwa_nc"
+  - username: "astromotion"
     fullname: >-
-      ณิชชา โชคประจักษ์ชัด (วาววา)
+      BILL WATCHARAINTHORN K. (บิล)
     bio: >-
-      actress For Work Thai Contact: 088-622-0555 English Contact: 095-171-4997 owner of @soyoungsoymilk @cocowawa_organic VR www.corvecto.com
+      ✿ Singer & Filmmaker ✿ YouTube : AstroMotion & bilive.
     location: "Thailand"
-    followers: 1071569
-    engagement: 39
-    commentsToLikes: 0.003422
-    id: ck6to28bobp1z0j71jk0y7dag
+    followers: 10434
+    engagement: 1254
+    commentsToLikes: 0.005996
+    id: ck13b4pt1tnux0i19ks1it1hf
     verified: false
-    hashtags: "#esteepartner, #25celebxlineman, #advancednightrepair, #lineman"
+    hashtags: "#oita, #director, #sony, #aputure"
 ---

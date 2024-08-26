@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Malaysia In 2023
+title: Top 10 Food TikTok Influencers In Malaysia In 2024
 description: >-
-  Find top food TikTok influencers in Malaysia in 2023. Most popular hashtags: #food #fyp #tiktokmalaysia #foodie.
+  Find top food TikTok influencers in Malaysia in 2024. Most popular hashtags: #food #fyp #foodie #tiktokmalaysia.
 platform: TikTok
 hits: 28
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 28 TikTok influencers like this in Malaysia for you to contact.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 28 TikTok influencers like this in Malaysia for you to connect with.
 profiles:
   - username: "njwaaaaaa_"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.013141
     id: ckbl44u3s1jrm0j23cjxrb4i8
     verified: false
-    hashtags: "#avocado, #slim, #egg, #food"
+    hashtags: "#tiktokclassroom, #avocado, #slim, #food"
   - username: "pj.foodie"
     fullname: >-
       PJ Foodie
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.052841
     id: ckbqfjtnb15vq0j23yiy86cu2
     verified: false
-    hashtags: "#cosplay, #malaysia, #foodporn, #cosplayer"
+    hashtags: "#cosplay, #cosplayer, #foodporn, #malaysia"
   - username: "lofstedtdude"
     fullname: >-
       Eric Lau Lofstedt

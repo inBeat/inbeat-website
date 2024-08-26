@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Hamburg In 2023
+title: Top 10 Food TikTok Influencers In Hamburg In 2024
 description: >-
-  Find top food TikTok influencers in Hamburg in 2023. Most popular hashtags: #fyp #foryou #hamburg #food.
+  Find top food TikTok influencers in Hamburg in 2024. Most popular hashtags: #fyp #foryou #food #hamburg.
 platform: TikTok
 hits: 13
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 13 TikTok influencers like this in Hamburg, Germany for you to work with.
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 13 TikTok influencers like this in Hamburg, Germany for you to collaborate.
 profiles:
   - username: "vsco_starshine"
     fullname: >-

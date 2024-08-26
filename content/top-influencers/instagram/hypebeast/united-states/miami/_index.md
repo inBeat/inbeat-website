@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Miami In 2023
+title: Top 10 Hypebeast Instagram Influencers In Miami In 2024
 description: >-
-  Find top hypebeast Instagram influencers in Miami in 2023. Most popular hashtags: #hypebeast #miami #streetwear #fashion.
+  Find top hypebeast Instagram influencers in Miami in 2024. Most popular hashtags: #hypebeast #miami #artofvisuals.
 platform: Instagram
-hits: 36
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 36 Instagram influencers like this in Miami, United States for you to pitch.
+hits: 47
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 47 Instagram influencers like this in Miami, United States for you to contact.
 profiles:
   - username: "gallivanti"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck0w1mn4qk35t0i19uaagd6sf
     verified: false
     hashtags: "#miamiphotographer, #creativeminds, #acetheillest, #illestgrammers"
+  - username: "natethedonn"
+    fullname: >-
+      Nathan Delva
+    bio: >-
+      MIA | LA📍🇭🇹| mgmt: @cgemtalent | @NovaMEN Ambassador|God 1st| NUPE ♦️|CEO of @envisionapparel_ LONG LIVE OTIS ANDERSON🕊
+    location: "United States"
+    followers: 57915
+    engagement: 384
+    commentsToLikes: 0.029653
+    id: ckxlenbox87x50j23kzcwmx57
+    verified: false
+    hashtags: "#atlanta, #socal, #newmusic, #producer"
   - username: "ovomanda"
     fullname: >-
       Amanda Trudeau
@@ -42,7 +54,19 @@ profiles:
     commentsToLikes: 0.016247
     id: ck9hcyimtnhgo0j78hnzkvn3d
     verified: false
-    hashtags: "#kithmiami, #hypebeast, #kithtreats, #miami"
+    hashtags: "#icecream, #kith, #kithmiami, #hypebeast"
+  - username: "thecravingscurator"
+    fullname: >-
+      Travel Photography & Content
+    bio: >-
+      📱content creator + curator Travel•Food - NY•Boston
+    location: "United States"
+    followers: 24875
+    engagement: 125
+    commentsToLikes: 0.038973
+    id: ck14hla8aavvi0i192ff9ymm1
+    verified: false
+    hashtags: "#nycfoodies, #nyceats, #nyc, #nycfood"
   - username: "quaintbaba"
     fullname: >-
       Baba Diop 🇸🇳
@@ -55,6 +79,18 @@ profiles:
     id: ck0vz6us27lqe0i195j2vtcsl
     verified: false
     hashtags: "#babadiop, #harlem, #shotbybaba, #galsen"
+  - username: "qiasomar"
+    fullname: >-
+      Qias Omar
+    bio: >-
+      SneakerHead • LA/Bay • M.O. @dreamqrew Snap: qiasomar24 SUBSCRIBE ⬇️
+    location: "United States"
+    followers: 672201
+    engagement: 98
+    commentsToLikes: 0.014062
+    id: ck0tx8te5i9wx0i19vha5xaof
+    verified: true
+    hashtags: "#sneakerhead, #sneakers, #whatnot, #jumpman"
   - username: "junejissle"
     fullname: >-
       Chris Highsmith
@@ -66,7 +102,7 @@ profiles:
     commentsToLikes: 0.186359
     id: ck1371o7r9cdm0i19cd99nr0s
     verified: false
-    hashtags: "#yashicafx2, #creative, #bleachmyfilm, #portraitvision"
+    hashtags: "#floridaphotographer, #bleachmyfilm, #portrait, #creative"
   - username: "joemigraine"
     fullname: >-
       Joe Migraine
@@ -91,40 +127,4 @@ profiles:
     id: ckaov8apj3hb20i78oykep7ad
     verified: false
     hashtags: "#explorepage, #chuvadeseguidores, #gainwithmchina, #fashionista"
-  - username: "justin_web"
-    fullname: >-
-      Justin Weber
-    bio: >-
-      @jayblancofficial I make cool people look cooler.
-    location: "United States"
-    followers: 7121
-    engagement: 910
-    commentsToLikes: 0.083049
-    id: ckaoyvcp0j91d0i78hv7ll365
-    verified: false
-    hashtags: "#frankfurt, #069, #frankfurtammain, #fashiondesigner"
-  - username: "mariortizxx"
-    fullname: >-
-      
-    bio: >-
-      𝓜𝓪𝓻𝓲 ♥
-    location: "United States"
-    followers: 2751
-    engagement: 1948
-    commentsToLikes: 0.192038
-    id: ck5zv2gzq3gz70i14fjmkdvi3
-    verified: false
-    hashtags: "#stylepost, #summertrends, #lv, #latinainfluencer"
-  - username: "adam_polidano"
-    fullname: >-
-      Adam Polidano
-    bio: >-
-      🔥| @ezcarcareuk 🔥| Photographer 🔥| @berthacalleja 🥰 💍 Followed by 𝐜𝐡𝐚𝐫𝐥𝐢𝐝𝐚𝐦𝐞𝐥𝐢𝐨, 𝐥𝐢𝐥𝐡𝐮𝐝𝐝𝐲 and 𝟏𝟕 𝐨𝐭𝐡𝐞𝐫𝐬
-    location: "United States"
-    followers: 12424
-    engagement: 820
-    commentsToLikes: 0.053587
-    id: ckapb0epiy5ov0i78zadjl4k4
-    verified: false
-    hashtags: "#fitrotation, #trueoutfit, #fitsonpoint, #itsaboutdetail"
 ---

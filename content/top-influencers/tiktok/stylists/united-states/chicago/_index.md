@@ -1,11 +1,11 @@
 ---
-title: Top 10 Stylists TikTok Influencers In Chicago In 2023
+title: Top 10 Stylists TikTok Influencers In Chicago In 2024
 description: >-
-  Find top stylists TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #fashion #chicago #makeup.
+  Find top stylists TikTok influencers in Chicago in 2024. Most popular hashtags: #fyp #fashion #chicago #stylist.
 platform: TikTok
 hits: 5
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 5 TikTok influencers like this in Chicago, United States for you to collaborate.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 5 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
   - username: "russiaancream"
     fullname: >-
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.050905
     id: ck8vtijhbgby80j78ng3gjcha
     verified: false
-    hashtags: "#makeup, #vintagevibes, #merrychristmas, #cosplay"
+    hashtags: "#vintagefashion, #vintagevibes, #merrychristmas, #vintagestyle"
   - username: "beebins"
     fullname: >-
       Beebins 
     bio: >-
-      Hair stylist,Green Cheek Conure mommy to Piper! In memory of my parakeet, Kevin
+      Hair stylist, Bird mommy!!
     location: "United States"
-    followers: 33500
-    engagement: 1188
-    commentsToLikes: 0.076545
+    followers: 33400
+    engagement: 1276
+    commentsToLikes: 0.094251
     id: ckae4h3et2e2d0i78fsjwbszv
     verified: false
-    hashtags: "#blackstock37, #chuuby, #disney, #sunconure"
+    hashtags: "#chuuby, #disney, #sunconure"
 ---

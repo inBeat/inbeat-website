@@ -1,12 +1,60 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Poland In 2023
+title: Top 10 Architecture Instagram Influencers In Poland In 2024
 description: >-
-  Find top architecture Instagram influencers in Poland in 2023. Most popular hashtags: #architecture #interior #interiordesign #instagood.
+  Find top architecture Instagram influencers in Poland in 2024. Most popular hashtags: #architecture #interiordesign #building #architektura.
 platform: Instagram
-hits: 165
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 165 Instagram influencers like this in Poland for you to pitch.
+hits: 237
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 237 Instagram influencers like this in Poland for you to connect with.
 profiles:
+  - username: "maciejdusiciel"
+    fullname: >-
+      turysta futurysta
+    bio: >-
+      Architectural photojournalism ▫️socialist architecture ▫️modernism, brutalism ▫️space age, futurism ▫️vintage interior design
+    location: "Poland"
+    followers: 45850
+    engagement: 192
+    commentsToLikes: 0.005784
+    id: ck15sd6muceuc0i19550i0btn
+    verified: false
+    hashtags: "#polisharchitecture, #socmodernism, #architecture, #socialistmodernism"
+  - username: "architectanddesign"
+    fullname: >-
+      Architecture & Design
+    bio: >-
+      🌍 The best Architecture & Design platform. 📩 Contact: info@architectanddesign.net
+    location: "Poland"
+    followers: 7090951
+    engagement: 282
+    commentsToLikes: 0.007836
+    id: ck0w3iuwvtmzr0i19zpfq46dp
+    verified: true
+    hashtags: "#building, #architecture, #architectanddesign, #design"
+  - username: "traveliciouspl"
+    fullname: >-
+      Travelicious
+    bio: >-
+      9 years describing and photographing inspiring journeys full of design, architecture, art and flavors. Editor of @vogue.polska travel Podcast|Blog 5M+
+    location: "Poland"
+    followers: 113008
+    engagement: 129
+    commentsToLikes: 0.047596
+    id: ck15tidfyi89r0i19k2sgjl8p
+    verified: false
+    hashtags: "#wspolpracareklamowa"
+  - username: "marcelies"
+    fullname: >-
+      Marcelina 🕊
+    bio: >-
+      In love with fashion, interior and architecture🤍🤎🖤 💌Collaboration: collab@marcelies.eu 📍 Poland
+    location: "Poland"
+    followers: 132839
+    engagement: 75
+    commentsToLikes: 0.029007
+    id: ck138ke7rgns00i19oqzz9z7k
+    verified: false
+    hashtags: "#reklama, #fashionreel, #autumnlook, #wspolpraca"
   - username: "maartizle"
     fullname: >-
       𝐌𝐀𝐑𝐓𝐘𝐍𝐀 𝐉𝐀𝐂𝐇𝐈𝐌𝐄𝐊  ♛
@@ -67,18 +115,6 @@ profiles:
     id: ck6u1j85im26s0j715c77ww6t
     verified: false
     hashtags: "#archi, #archdaily, #illgrammers, #jj"
-  - username: "labelmagazine"
-    fullname: >-
-      LABEL Magazine
-    bio: >-
-      The bilingual Polish-English magazine of contemporary craft & design. www.facebook.com/labelmagazine #design #trends #architecture #interior #art
-    location: "Poland"
-    followers: 49557
-    engagement: 123
-    commentsToLikes: 0.012683
-    id: ck15sd3iycehq0i19pu2q0358
-    verified: false
-    hashtags: "#architecture, #archilovers, #artistic, #living"
   - username: "architectureisagoodidea"
     fullname: >-
       Architecture is a good idea
@@ -91,40 +127,4 @@ profiles:
     id: ck9wdl3o7g5js0j780kox4w4o
     verified: false
     hashtags: "#architectureisagoodidea, #architekturapolska, #historia, #goodidea"
-  - username: "olczaaaaa"
-    fullname: >-
-      𝓐𝓵𝓮𝓴𝓼𝓪𝓷𝓭𝓻𝓪
-    bio: >-
-      ∘ parisian soul ∘ vintage lover ∘ beige aesthetic ∘
-    location: "Poland"
-    followers: 45448
-    engagement: 356
-    commentsToLikes: 0.058001
-    id: ck8t0mi9pskic0j78i3lix9cf
-    verified: false
-    hashtags: "#morning, #beigeaesthetic, #ootd, #warsaw"
-  - username: "paulawuczko"
-    fullname: >-
-      Paulina Wuczko
-    bio: >-
-      ▪️paulaxd50@wp.pl /DM ✉ 📍 Antwerp https://bit.ly/3mS2wIS New post 📸 👇
-    location: "Poland"
-    followers: 17875
-    engagement: 620
-    commentsToLikes: 0.055224
-    id: ck0ubm7frew3k0i19tzsc1mr6
-    verified: false
-    hashtags: "#dlugiewlosy, #flatlay, #belgique, #fashionblogger"
-  - username: "_troosh"
-    fullname: >-
-      Łᴜᴋᴀꜱᴢ | 🅽🅴🆅🅴🆁 🆂🆃🅾🅿 🅴🆇🅿🅻🅾🆁🅸🅽🅶
-    bio: >-
-      🌍 Świat mnie kręci! 😉 🧭 Travel. Eat. Love. Repeat. 🇵🇱 Poland - Silesia - Gliwice 🕵️‍♂️ Zajrzyj na bloga 🧭
-    location: "Poland"
-    followers: 14360
-    engagement: 583
-    commentsToLikes: 0.048405
-    id: ck8t6g6k8dia00j78sk7bydz8
-    verified: false
-    hashtags: "#jesie, #iledelareunion, #weekend, #przyjaciele"
 ---

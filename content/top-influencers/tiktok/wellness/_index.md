@@ -1,12 +1,24 @@
 ---
-title: Top 10 Wellness TikTok Influencers In 2023
+title: Top 10 Wellness TikTok Influencers In 2024
 description: >-
-  Find top wellness TikTok influencers in 2023. Most popular hashtags: #wellness #selfcare #selflove #duet.
+  Find top wellness TikTok influencers in 2024. Most popular hashtags: #wellness #selfcare #duet #selflove.
 platform: TikTok
-hits: 574
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our database holds 574 TikTok influencers like this for you to connect with.
+hits: 580
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 580 TikTok influencers like this for you to collaborate.
 profiles:
+  - username: "fitwithdawn"
+    fullname: >-
+      Dawn | PT and LifeCoach
+    bio: >-
+      ✨Positivity/Motivation👟Fitness 💪🏻Wellness 🤪Fun #mylifeonTikTok #beretlady
+    location: "United States"
+    followers: 10600
+    engagement: 3024
+    commentsToLikes: 0.701530
+    id: ckcptslsjomg90j23hh5c4bxu
+    verified: false
+    hashtags: "#welcomeback, #summermashup, #choosehappy, #quickbooksvictorypose"
   - username: "mr.tracyb"
     fullname: >-
       Tracy J. Brown
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.051751
     id: ck9kg8mrz6qif0j782z2md5hc
     verified: false
-    hashtags: "#stitch, #boys, #dating, #men"
+    hashtags: "#mentalhealth, #boys, #mentalhealthawareness, #stitch"
   - username: "catvolcy"
     fullname: >-
       cat
@@ -79,6 +91,18 @@ profiles:
     id: ckbwdubrf1bry0j23qpmocvzd
     verified: false
     hashtags: "#painting, #australia, #art, #mentalhealthmatters"
+  - username: "agracemartin"
+    fullname: >-
+      A. Grace Martin
+    bio: >-
+      Wellness Potential Teacher and Author ❤️ Self Care and Science 🇨🇦
+    location: "Canada"
+    followers: 6243
+    engagement: 1161
+    commentsToLikes: 0.109598
+    id: ckdt4jkj3stlf0j2394vjykv0
+    verified: false
+    hashtags: "#wellness, #positivevibes, #selfcare, #energy"
   - username: "wellnesswithjorde"
     fullname: >-
       Jorde Lenoy
@@ -91,18 +115,6 @@ profiles:
     id: ckdnjkbsiitm10j234r8w2lsb
     verified: false
     hashtags: "#weights, #recharge, #wellness, #wellnesswithjorde"
-  - username: "agracemartin"
-    fullname: >-
-      A. Grace Martin
-    bio: >-
-      Author, science teacher, wellness coach ❤️ Self Love 🇨🇦
-    location: "Canada"
-    followers: 6158
-    engagement: 1134
-    commentsToLikes: 0.129894
-    id: ckdt4jkj3stlf0j2394vjykv0
-    verified: false
-    hashtags: "#wellness, #selfcare, #selflove, #energy"
   - username: "madamjuss"
     fullname: >-
       Juss Stinson
@@ -115,16 +127,4 @@ profiles:
     id: ckbqh07j82ecz0j233ebczm38
     verified: false
     hashtags: "#fyp, #witchtok, #pagan, #witchhumor"
-  - username: "ashleythepatriot"
-    fullname: >-
-      Ashley B
-    bio: >-
-      Boycott Walmart shop Conservative 🇺🇸 More info about the Wellness Store 👇👇
-    location: "United States"
-    followers: 31900
-    engagement: 1135
-    commentsToLikes: 0.130500
-    id: ck8qfq0gkxv310j782ot9tkcf
-    verified: false
-    hashtags: "#momsoftiktok, #biblechallenge, #momtiktok, #pupperonishuffle"
 ---

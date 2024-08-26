@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters TikTok Influencers In United States In 2023
+title: Top 10 Painters TikTok Influencers In United States In 2024
 description: >-
-  Find top painters TikTok influencers in United States in 2023. Most popular hashtags: #fyp #painting #art #artist.
+  Find top painters TikTok influencers in United States in 2024. Most popular hashtags: #fyp #painting #artist #acrylicpainting.
 platform: TikTok
-hits: 1064
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform holds 1064 TikTok influencers like this in United States for you to pitch.
+hits: 1066
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 1066 TikTok influencers like this in United States for you to work with.
 profiles:
   - username: "bumbunniii"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.065396
     id: ck7zoz8hjmma80j78y8qws3x7
     verified: false
-    hashtags: "#danganronpa, #toko, #anime, #cosplay"
+    hashtags: "#cosplayartist, #genicidersyo, #tokofuwaka, #toko"
   - username: "vanessahorabuena"
     fullname: >-
       Vanessa Horabuena
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.046729
     id: ckcekqws1u9180j231anphsw7
     verified: false
-    hashtags: "#skypainting, #paintmixing, #oilpaintingsoftiktok, #oilpainter"
+    hashtags: "#oilpaintingsoftiktok, #oilpainting, #oilpainters, #oilpaintingtechniques"
   - username: "basicpainter01"
     fullname: >-
       ℙ𝕒𝕚𝕟𝕥𝕖𝕣--•☾
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.102969
     id: ckd6xw4czv5dz0j230ioukwu5
     verified: false
-    hashtags: "#tiktokindia, #bye2020, #fyp, #glowup"
+    hashtags: "#frozen2, #react, #skinwars, #trend"
   - username: "theobanoth"
     fullname: >-
       Theobanoth
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.036414
     id: ck8s4idvmbggj0j78wu69mdy5
     verified: false
-    hashtags: "#painter, #feelinggood, #sarahlapierre, #acrylicpainting"
+    hashtags: "#sarahlapierre, #tiktokart, #paint, #mural"
 ---

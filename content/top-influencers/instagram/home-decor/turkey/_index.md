@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Turkey In 2023
+title: Top 10 Home Decor Instagram Influencers In Turkey In 2024
 description: >-
-  Find top home decor Instagram influencers in Turkey in 2023. Most popular hashtags: #homedecor #home #interior #homesweethome.
+  Find top home decor Instagram influencers in Turkey in 2024. Most popular hashtags: #homedecor #interiordesign #home #photooftheday.
 platform: Instagram
-hits: 266
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database holds 266 Instagram influencers like this in Turkey for you to contact.
+hits: 265
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 265 Instagram influencers like this in Turkey for you to pitch.
 profiles:
   - username: "filiz_home"
     fullname: >-
@@ -67,64 +67,64 @@ profiles:
     id: ckaor679zlw5w0i78g4wmfcb3
     verified: false
     hashtags: "#home, #bohemyatako, #makrome, #macramedecor"
-  - username: "ozge.urkmezz"
+  - username: "sevilovees"
     fullname: >-
-      Özge Ürkmez
+      Sevil 🐘
     bio: >-
-      🐆Lifestyle ✉️ ozge.urkmz@gmail.com 🤎@ersnurkmz
+      🐘🦒🐅🦓🐆🦏 Frankfurt am Main 📍
     location: "Turkey"
-    followers: 8151
-    engagement: 748
-    commentsToLikes: 0.102381
-    id: ck8td8tqn2dcv0j78qw55god0
+    followers: 11683
+    engagement: 1958
+    commentsToLikes: 0.098041
+    id: ckap5jrn6bzx10i78eg7yn8xn
     verified: false
-    hashtags: "#me, #home, #girlsgirlsgirls, #filtre"
-  - username: "blogzeynosu"
+    hashtags: "#instafashion, #spring, #reels, #outfitoftheday"
+  - username: "mehmetioksuz"
     fullname: >-
-      Zeynep 🍂
+      Mehmet Öksüz
     bio: >-
-      𝓲𝓬𝓲𝓶´𝓭𝓮𝓷 𝓰𝓮𝓵𝓭𝓲 ♡︎
+      Mekan, yemek, müzik yaparım. Daha niceleri öne çıkan hikayelerde. Yuva. @gibibodrum
     location: "Turkey"
-    followers: 7931
-    engagement: 588
-    commentsToLikes: 0.031076
-    id: ckf5mfn57tla00j2355ycknu8
+    followers: 40943
+    engagement: 1204
+    commentsToLikes: 0.023878
+    id: ck8t6n24ae6ma0j78siq8lvk9
     verified: false
-    hashtags: "#homesweethome, #sweet, #food, #interiordesign"
-  - username: "thehomesocial"
+    hashtags: "#interior, #evdekorasyonu, #architecture, #dekorasyon"
+  - username: "istanbuldomes"
     fullname: >-
-      Ceren Kaya
+      ISTANBUL DOMES
     bio: >-
-      Sharing my daily vibes🍃 ▪Interior | Lifestyle | Product photography📸 @thehomesocialphotography @b4soc ✉ cerenkaya@b4social.com
+      Thousands Domes of the Istanbul All photos taken by @evrenmrt with iPhone #istanbuldomes
     location: "Turkey"
-    followers: 17163
-    engagement: 304
-    commentsToLikes: 0.040991
-    id: ck6ue7uzlpbvg0j71qqmphpna
+    followers: 10138
+    engagement: 400
+    commentsToLikes: 0.009431
+    id: ckaox7pnpc5h00i78cr8kabyw
     verified: false
-    hashtags: "#scandinavianinterior, #scandinavianstyle, #myhmhome, #scandi"
-  - username: "ayseorberk"
+    hashtags: "#dome, #style, #artofinstagram, #travelling"
+  - username: "gnl_lifestyle"
     fullname: >-
-      ayse orberk
+      Gönöl Cam
     bio: >-
-      Antique store , interior decoration, antique , vintage , art, collectible items Turnacıbasi sok no:51 Cukurcuma Beyoğlu Istanbul
+      Owner & founder of @hollandstuffandco ▪️Influencer: Interior & Lifestyle▪️For collabs 👉📩/tanıtım ve iş birliği için 👉📩 ▪️HOLLAND📍BELGIUM
     location: "Turkey"
-    followers: 5452
-    engagement: 1400
-    commentsToLikes: 0.125932
-    id: ck5q0xerb88bi0i11xjsmraxq
+    followers: 139283
+    engagement: 267
+    commentsToLikes: 0.126653
+    id: ckaoufddj017s0i78qjm8ahlp
     verified: false
-    hashtags: "#antiqueshop, #uptown, #homedecoration, #livingroomdecor"
-  - username: "aiser0se"
+    hashtags: "#ala, #passion4interior, #interiorwarrior, #igers"
+  - username: "sahraherdili"
     fullname: >-
-      aiserose
+      ❥  S A H R A  ❥
     bio: >-
-      A i ş e g ü l Lifestyle&Mommblogger 🎀 I’m a D U A come true. Dua Asena & Azer Alparslan❤️ Collabs 📩 aiserosed@outlook.com
+      𝐑𝐨𝐬𝐚 𝐍𝐢𝐥♡ 𝑀𝑎𝑙𝑖 𝑚üş𝑎𝑣𝑖𝑟 ~𝘪𝘯𝘧𝘭𝘶𝘦𝘯𝘤𝘦𝘳. 𝗔𝗻𝗻𝗲&𝗸ı𝘇 𝗸𝗼𝗺𝗯𝗶𝗻𝗹𝗲𝗿𝗶 ,𝘀𝗲𝘆𝗮𝗵𝗮𝘁 ,𝗮𝗹ış𝘃𝗲𝗿𝗶ş,𝗱𝗲𝗸𝗼𝗿𝗮𝘀𝘆𝗼𝗻 ö𝗻𝗲𝗿𝗶𝗹𝗲𝗿𝗶 🫶🏻𝗚ü𝗻𝗹ü𝗸 𝘆𝗮ş𝗮𝗺
     location: "Turkey"
-    followers: 134129
-    engagement: 395
-    commentsToLikes: 0.111836
-    id: ck6tzhuxt9shu0j71tn7cya9l
+    followers: 104356
+    engagement: 174
+    commentsToLikes: 0.020223
+    id: ck8t2wpfy0zb60j78q7ahdbqw
     verified: false
-    hashtags: "#family, #design, #motherhood, #instagood"
+    hashtags: "#homedecor, #2yas, #instagood, #weewell"
 ---

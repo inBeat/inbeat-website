@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Los Angeles In 2023
+title: Top 10 Skincare TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top skincare TikTok influencers in Los Angeles in 2023. Most popular hashtags: #skincare #fyp #foryoupage #foryou.
+  Find top skincare TikTok influencers in Los Angeles in 2024. Most popular hashtags: #skincare #fyp #foryou #losangeles.
 platform: TikTok
-hits: 37
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 37 TikTok influencers like this in Los Angeles, United States for you to connect with.
+hits: 34
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: inBeat has 34 TikTok influencers like this in Los Angeles, United States for you to connect with.
 profiles:
   - username: "munopiaportraits"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckc8xn8uxlqjq0j23ggm31hoj
     verified: false
     hashtags: "#photoshoot, #smallbusiness, #phototips, #photographytricks"
+  - username: "jessicamarkowski"
+    fullname: >-
+      JessicaMarkowski
+    bio: >-
+      Fashion Model. Actress. Verified Instagramer. @jessicamarkowski
+    location: "United States"
+    followers: 2518
+    engagement: 1256
+    commentsToLikes: 0.046796
+    id: ckd18hserpzgo0j23co9q0vt5
+    verified: false
+    hashtags: "#streamlive, #fyp, #fouryourpage, #skin"
   - username: "susieplussteven"
     fullname: >-
       Susie and Steven
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.053369
     id: ckav8txvmg3ny0j23mthl7c0e
     verified: false
-    hashtags: "#plussizefashion, #viral, #bodypositve, #losangeles"
+    hashtags: "#plussize, #asoscurve, #tryonhaul, #psootd"
   - username: "ryanmeaneyy"
     fullname: >-
       ryan
@@ -67,18 +79,6 @@ profiles:
     id: ckciyg0ze2b790j23ber4suq4
     verified: false
     hashtags: "#greenscreen, #surfer, #foryou, #obx"
-  - username: "unclejessiie"
-    fullname: >-
-      jessica danielle 
-    bio: >-
-      Los Angeles 💌: jessicamesa.contact@gmail.com
-    location: "United States"
-    followers: 11100
-    engagement: 1120
-    commentsToLikes: 0.032343
-    id: ck8fa3mav42v30j78joczu2iw
-    verified: false
-    hashtags: "#girls, #foryoupage, #distancedance, #fyp"
   - username: "darealhottie"
     fullname: >-
       Nae Nae
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.033471
     id: ck8or69beash70j7851384jqu
     verified: false
-    hashtags: "#beauty, #makeup, #traderjoes, #hair"
+    hashtags: "#foodtok, #yum, #hair, #makeup"
 ---

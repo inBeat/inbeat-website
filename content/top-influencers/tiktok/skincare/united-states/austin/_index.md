@@ -1,24 +1,12 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Austin In 2023
+title: Top 10 Skincare TikTok Influencers In Austin In 2024
 description: >-
-  Find top skincare TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #skincare #foryou #greenscreen.
+  Find top skincare TikTok influencers in Austin in 2024. Most popular hashtags: #fyp #skincare #foryou #austin.
 platform: TikTok
-hits: 48
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine holds 48 TikTok influencers like this in Austin, United States for you to work with.
+hits: 47
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 47 TikTok influencers like this in Austin, United States for you to work with.
 profiles:
-  - username: "therealtarnanlamb"
-    fullname: >-
-      taryn lamb
-    bio: >-
-      a series of major social media faux pas insta: taryn_lamb
-    location: "United States"
-    followers: 49800
-    engagement: 490
-    commentsToLikes: 0.092546
-    id: ck83z8ucfyq3j0j78p94ss0nz
-    verified: false
-    hashtags: "#fyp, #greenscreen, #throwback, #film"
   - username: "haley.snider"
     fullname: >-
       Haley Snider
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.027271
     id: cka0laieuq7ar0i78n9d14fky
     verified: false
-    hashtags: "#whydidimakethis, #ad, #hack, #stitch"
+    hashtags: "#hack, #foryou, #fyp, #worththewait"
   - username: "thefairygodmentor"
     fullname: >-
       Cassidy Torrence
@@ -127,4 +115,16 @@ profiles:
     id: ckbf4mhpvt4e60j233ebr3m73
     verified: false
     hashtags: "#internship, #forsmallbusiness, #smallbusiness, #fyp"
+  - username: "nikahola"
+    fullname: >-
+      Niklas Ahola
+    bio: >-
+      Real Estate 🏡 Naples, FL 🌴 @hellonaples
+    location: "United States"
+    followers: 2844
+    engagement: 806
+    commentsToLikes: 0.045843
+    id: ck8tst70vrjgq0j78rrd9f67g
+    verified: false
+    hashtags: "#miami, #rave, #ultramusic, #edm"
 ---

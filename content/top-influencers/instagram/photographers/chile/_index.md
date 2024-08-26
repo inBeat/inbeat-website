@@ -1,12 +1,48 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Chile In 2023
+title: Top 10 Photographers Instagram Influencers In Chile In 2024
 description: >-
-  Find top photographers Instagram influencers in Chile in 2023. Most popular hashtags: #portrait #chile #sunset #filmphotography.
+  Find top photographers Instagram influencers in Chile in 2024. Most popular hashtags: #chile #portrait #fashion #sunset.
 platform: Instagram
-hits: 120
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 120 Instagram influencers like this in Chile for you to connect with.
+hits: 122
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 122 Instagram influencers like this in Chile for you to collaborate.
 profiles:
+  - username: "bryandiaz_cr"
+    fullname: >-
+      Bryan Díaz 🔥 Fotógrafo
+    bio: >-
+      Photographer director 📸 Fashion and portraits PURA VIDA Lifestyle COSTA RICA 📍
+    location: "Chile"
+    followers: 13132
+    engagement: 344
+    commentsToLikes: 0.023054
+    id: ck5qeeq48049p0i11cu1x69hg
+    verified: false
+    hashtags: "#menshealth, #photographer, #costarica, #shooting"
+  - username: "mauricionarea"
+    fullname: >-
+      Mauricio Fabián Narea Pizarro
+    bio: >-
+      Landscape Photographer @haidafilter ambassador @tamron_chile ambassador @gnomowear family 👆🏼Usa “MAURICIONAREA” (Código Dcto) Los Andes 🇨🇱
+    location: "Chile"
+    followers: 41967
+    engagement: 339
+    commentsToLikes: 0.034239
+    id: ck0ub39fudpyt0i1930g5hdtk
+    verified: false
+    hashtags: "#canonphotography, #mountain, #visitchile, #forestlovers"
+  - username: "matiaskosznik"
+    fullname: >-
+      Matias Kosznik
+    bio: >-
+      🖥Designer, 🗺Traveler & 📷Photographer... #CHIC! Cazadores de tendencias x MEGAplus 🐥 @matiaskosznik 📧 mkosznik@hotmail.com
+    location: "Chile"
+    followers: 161957
+    engagement: 50
+    commentsToLikes: 0.055864
+    id: ck5q2583debyv0i1135hwr2cn
+    verified: true
+    hashtags: "#chile, #zardoz, #ad, #vivosquad"
   - username: "ozcar"
     fullname: >-
       Os
@@ -18,31 +54,19 @@ profiles:
     commentsToLikes: 0.031945
     id: ck0u6dgrc1kue0i19agewn2xf
     verified: false
-    hashtags: "#photo, #houstonphotographer, #longexposurephotography, #noestamosenguerra"
-  - username: "rociodelvalle"
-    fullname: >-
-      ROCIO  ✨ Travel + photography
-    bio: >-
-      🌎 Life is always better outside Nature │ Outdoor │ Travel │ Photographer » Founder of @palosantoestudio ◦ Friend Of @apple 📍Chile
-    location: "Chile"
-    followers: 37141
-    engagement: 928
-    commentsToLikes: 0.016800
-    id: ck0tukuzu7mcv0i19c8n31z2t
-    verified: false
-    hashtags: "#parquesnacionales, #sudamerica, #chile, #nortedechile"
+    hashtags: "#houstonphotographer, #photograph, #reels, #estonohaterminado"
   - username: "ernestovillalba"
     fullname: >-
       Ernesto Villalba
     bio: >-
       Fotógrafo de bodas Weddings + elopement photographer Candid photos for fun loving couples. Seville,Spain. Available 🌎 ernestovillalba.photo@gmail.com
     location: "Chile"
-    followers: 16618
-    engagement: 355
-    commentsToLikes: 0.069829
+    followers: 16708
+    engagement: 334
+    commentsToLikes: 0.064662
     id: ck0u14t0bvupl0i19hb7lwfs0
     verified: false
-    hashtags: "#instawedding, #bohobride, #weddingstyle, #weddingphotographer"
+    hashtags: "#weddingfashion, #fotografobodas, #indiebride, #weddingsevilla"
   - username: "alef.cero"
     fullname: >-
       José Martínez
@@ -103,28 +127,4 @@ profiles:
     id: ckaowps6b9wuw0i78u4sahcos
     verified: false
     hashtags: "#opendoorsgallery, #imaginarymagnitude, #fotografos, #patagonia"
-  - username: "matiaskosznik"
-    fullname: >-
-      Matias Kosznik
-    bio: >-
-      🖥Designer, 🗺Traveler & 📷Photographer... #CHIC! Cazadores de tendencias x MEGAplus 🐥 @matiaskosznik 📧 mkosznik@hotmail.com
-    location: "Chile"
-    followers: 141671
-    engagement: 100
-    commentsToLikes: 0.034940
-    id: ck5q2583debyv0i1135hwr2cn
-    verified: true
-    hashtags: "#miami, #travel, #traveler, #ad"
-  - username: "javier.vergara.photo"
-    fullname: >-
-      Javier Vergara 📸
-    bio: >-
-      Photographer based in Chile 🇨🇱 * 📍 Santiago | Talcahuano * 📸 All photos taken by me * 📩 Contact via Direct.
-    location: "Chile"
-    followers: 36926
-    engagement: 457
-    commentsToLikes: 0.030992
-    id: ck55k2tkzybpg0i113xly89we
-    verified: false
-    hashtags: "#losjaivas, #chileresiste, #vamoslau, #afep"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Argentina In 2023
+title: Top 10 Barbers Instagram Influencers In Argentina In 2024
 description: >-
-  Find top barbers Instagram influencers in Argentina in 2023. Most popular hashtags: #barberia #barbershop #barber #menshair.
+  Find top barbers Instagram influencers in Argentina in 2024. Most popular hashtags: #barberia #barber #barbershop #menshair.
 platform: Instagram
-hits: 42
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 42 Instagram influencers like this in Argentina for you to contact.
+hits: 43
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 43 Instagram influencers like this in Argentina for you to collaborate.
 profiles:
   - username: "javitolop"
     fullname: >-
@@ -23,11 +23,11 @@ profiles:
     fullname: >-
       Alexis Gabriel 💈🇦🇷
     bio: >-
-      •Barbero •Dueño [Alexis Gabriel] salón masculino •🏆 Award winner barber X14🏆 •God is good • 💈desde $500 •🏠 desde $1500 (domicilio)
+      •Barbero •Dueño [Alexis Gabriel] @elmundodelbarber0 •🏆 Award winner barber X14🏆 •God is good • 💈desde $600 •🏠 desde $2000 (domicilio)
     location: "Argentina"
-    followers: 17861
-    engagement: 1643
-    commentsToLikes: 0.021852
+    followers: 28477
+    engagement: 1382
+    commentsToLikes: 0.017510
     id: ckap0w1eqs2dx0i78j8iy7kna
     verified: false
     hashtags: ""

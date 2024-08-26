@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Kyoto In 2023
+title: Top 10 Vegan Instagram Influencers In Kyoto In 2024
 description: >-
-  Find top vegan Instagram influencers in Kyoto in 2023. Most popular hashtags: #vegan #pr #japan #kyoto.
+  Find top vegan Instagram influencers in Kyoto in 2024. Most popular hashtags: #vegan #pr #japan #veganbeauty.
 platform: Instagram
-hits: 5
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 5 Instagram influencers like this in Kyoto, Japan for you to pitch.
+hits: 7
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 7 Instagram influencers like this in Kyoto, Japan for you to pitch.
 profiles:
   - username: "zerowaste.japan"
     fullname: >-
@@ -43,6 +43,30 @@ profiles:
     id: ckaouww8p25yx0i78ky0w4jt1
     verified: false
     hashtags: "#kyoto, #veganicecream, #japan, #plantall"
+  - username: "whyte_shiori"
+    fullname: >-
+      中島潮里 Shiori Nakajima
+    bio: >-
+      Vegan Beauty salon & Vegan cafe「whyte」 Top Stylist✂︎ 海を守る為のサスティナブルアンバサダー🌍 ELLEスタイルインサイダー 自然由来で身体にも環境にも優しいコスメで自然体に過ごせるスタイルを提案🌿 #オーガニックコスメだけでメイク
+    location: "Japan"
+    followers: 66340
+    engagement: 130
+    commentsToLikes: 0.000424
+    id: ck15paft8wwc60i19jyal9jpm
+    verified: false
+    hashtags: "#celvoke, #bob, #sustainablebeauty, #veganbeauty"
+  - username: "tsukiyoga"
+    fullname: >-
+      tsuki ☾ yoga lifestylist
+    bio: >-
+      yoga(RYT500)| fitness | self-care video creator・fit model 🧘‍♂️くびれるヨガトレ 🕊あしたが変わるセルフケア @tsukiyoga TikTok 320k @tarzanweb 監修トレーナー @mandukayoga ambassador
+    location: "Japan"
+    followers: 216531
+    engagement: 636
+    commentsToLikes: 0.010242
+    id: ck5ckqwbvxfhp0i11rzj6fukf
+    verified: false
+    hashtags: "#sustainableliving, #selfmassage, #yogateacher, #healthylifestyle"
   - username: "yukiya.terai"
     fullname: >-
       yukiya.terai
@@ -67,64 +91,40 @@ profiles:
     id: ck6ugkvw43mim0j71tojklfxa
     verified: false
     hashtags: "#lunchbox, #pr, #brandcollaboration, #paidpartnership"
+  - username: "tokyovegangirl_miyu"
+    fullname: >-
+      Miyu🌱前本美結 Sustainable Life Creator
+    bio: >-
+      Sustainability ✴︎ Human rights ✴︎ Vegan 💁🏻‍♀️ サステナブルライフクリエイター🪄model✨ 🌱 地球と人と動物に優しい生活を発信 🧡 『できる人ができることをできるだけ』 🌏 100年後の未来に残って欲しいモノだけ 💭 @umtokyo manager
+    location: "Japan"
+    followers: 17515
+    engagement: 647
+    commentsToLikes: 0.014034
+    id: ck0txuox7kifh0i19d2ja2pxe
+    verified: false
+    hashtags: "#japan, #ftwotw, #featuremeseas, #bravogreatphoto"
+  - username: "yo_onityan"
+    fullname: >-
+      Yo Onityan 30
+    bio: >-
+      🇯🇵Guitarist for every where🌏 DM for Guitar Lesson,Tour,Work📩 VEGAN Sub account @onityan_yo String 🤝@ernieball
+    location: "Japan"
+    followers: 105985
+    engagement: 342
+    commentsToLikes: 0.016377
+    id: ck55ky11r0cg10i11v5djmnbf
+    verified: false
+    hashtags: "#7stringguitar, #guitarlife, #djent, #deathmetal"
   - username: "whyte_shiori"
     fullname: >-
       中島潮里 Shiori Nakajima
     bio: >-
-      Vegan beauty salon & vegancafe「whyte」 Hair stylist✂︎ サスティナブルアンバサダー🌍 自然由来で身体にも環境にも優しいコスメで自然体に過ごせるスタイルを提案します🌿 @whyte_mare.amo
+      Vegan Beauty salon & Vegan cafe「whyte」 Top Stylist✂︎ 海を守る為のサスティナブルアンバサダー🌍 ELLEスタイルインサイダー 自然由来で身体にも環境にも優しいコスメで自然体に過ごせるスタイルを提案🌿 #オーガニックコスメだけでメイク
     location: "Japan"
-    followers: 64324
-    engagement: 129
-    commentsToLikes: 0.000692
+    followers: 66340
+    engagement: 130
+    commentsToLikes: 0.000424
     id: ck15paft8wwc60i19jyal9jpm
     verified: false
-    hashtags: "#vegan, #cosmekitchen, #veganbeauty, #bob"
-  - username: "missatoooo"
-    fullname: >-
-      misato komatsubara
-    bio: >-
-      ⛸ Japanese Icedancer 小松原美里 🇯🇵 3 times National Champion 🌱 Vegan Sponsored by #筑波記念病院 Official Ambassador of @dollynoire_japan
-    location: "Japan"
-    followers: 11410
-    engagement: 1193
-    commentsToLikes: 0.020984
-    id: ck6udkka8lmir0j71o0x7grvq
-    verified: false
-    hashtags: "#icedance, #dreamgirls, #dollynoire, #teamkoko"
-  - username: "yo_onityan"
-    fullname: >-
-      Shredder27
-    bio: >-
-      All SNS Yo onityan SNSは全部Yo onityan @ernieball @swiss_picks ダイレクトメッセージでレッスン仕事依頼、 DM for lesson,session,work vegan
-    location: "Japan"
-    followers: 39333
-    engagement: 245
-    commentsToLikes: 0.021219
-    id: ck55ky11r0cg10i11v5djmnbf
-    verified: false
-    hashtags: "#ibanez, #metal, #metalhead, #shredding"
-  - username: "akicocoakicoco2"
-    fullname: >-
-      𝒜𝓀𝒾𝒸𝑜𝒸𝑜【笑顔になるごはん】
-    bio: >-
-       𝓌𝒾𝓉𝒽 𝒾𝒫𝒽𝑜𝓃𝑒  𝓂𝑜𝒹: @wp_deli_recipe @wp_deli_story @veganrecipes_vcook 認定シェフ 𝒶𝓂𝒷: FoodieTable、FINC、1883syrup、日本蒸留酒酒造組合西日本支部、タイガー魔法瓶、寺岡有機農場・醸造…𝑒𝓉𝒸
-    location: "Japan"
-    followers: 39781
-    engagement: 222
-    commentsToLikes: 0.003162
-    id: ck6ugkvw43mim0j71tojklfxa
-    verified: false
-    hashtags: "#lunchbox, #pr, #brandcollaboration, #paidpartnership"
-  - username: "vegan.kurumi.shirakawa"
-    fullname: >-
-      白川くるみ
-    bio: >-
-      🍨PLANTALL inc. co_Founder @vegan.shojin.plantall 『世の中のアイスクリームのスタンダードをヴィーガンにする』 出身はKyotoの🦊⛩があるところです
-    location: "Japan"
-    followers: 93196
-    engagement: 82
-    commentsToLikes: 0.004523
-    id: ckaouww8p25yx0i78ky0w4jt1
-    verified: false
-    hashtags: "#kyoto, #veganicecream, #japan, #plantall"
+    hashtags: "#celvoke, #bob, #sustainablebeauty, #veganbeauty"
 ---

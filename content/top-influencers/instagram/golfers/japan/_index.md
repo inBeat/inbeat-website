@@ -1,11 +1,11 @@
 ---
-title: Top 10 Golfers Instagram Influencers In Japan In 2023
+title: Top 10 Golfers Instagram Influencers In Japan In 2024
 description: >-
-  Find top golfers Instagram influencers in Japan in 2023. Most popular hashtags: #golf #golfswing #golfwear #golflife.
+  Find top golfers Instagram influencers in Japan in 2024. Most popular hashtags: #golf #golfswing #golfer #golfwear.
 platform: Instagram
-hits: 19
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 19 Instagram influencers like this in Japan for you to pitch.
+hits: 20
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 20 Instagram influencers like this in Japan for you to contact.
 profiles:
   - username: "sakura_yokomine"
     fullname: >-
@@ -79,6 +79,18 @@ profiles:
     id: ckap0b7ehpkg50i78a5iv4w80
     verified: false
     hashtags: "#newbalance, #burger, #golfstagram, #golfgirl"
+  - username: "sae_golf"
+    fullname: >-
+      sae_golf
+    bio: >-
+      ⛳️(🔴83 𝐡𝐚𝐥𝐟39 ⚪️90) ▶︎0歳男の子ママ👶🏻 @babyjjj_2022 ▶︎お家 | ごはん🍚 @st_home_2022
+    location: "Japan"
+    followers: 73393
+    engagement: 212
+    commentsToLikes: 0.005723
+    id: ckaoxy3zrf8u10i78zgiz54yn
+    verified: false
+    hashtags: "#golf, #golfstagram, #girlsgolf, #golfswing"
   - username: "snow122_golf"
     fullname: >-
       YUKI♡GOLF
@@ -115,16 +127,4 @@ profiles:
     id: ckf5ntckyzm8g0j23irayw85j
     verified: false
     hashtags: "#love, #golfswing, #golflife, #nature"
-  - username: "nana_ayase_"
-    fullname: >-
-      綾瀬 奈々
-    bio: >-
-      #関西 #大阪 を拠点に #モデル #ラウンドガール #RQ #イベントコンパニオン 等活動してる姉妹の姉、NANAです｡.:*♡ よく笑います😆 #美容好きと繋がりたい ❤️好きな言葉❤️ 全て上手くいく  #美容 #fashion #cosme #綺麗な写真　が好きです💄💕 ▶︎Twitter
-    location: "Japan"
-    followers: 21748
-    engagement: 324
-    commentsToLikes: 0.042735
-    id: ck9hb8f1mfsl20j78pa2bjttp
-    verified: false
-    hashtags: "#pr, #girlsgolf, #golfr, #follome"
 ---

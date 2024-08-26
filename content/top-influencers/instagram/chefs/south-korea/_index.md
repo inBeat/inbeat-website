@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs Instagram Influencers In South Korea In 2023
+title: Top 10 Chefs Instagram Influencers In South Korea In 2024
 description: >-
-  Find top chefs Instagram influencers in South Korea in 2023. Most popular hashtags: #cooking #kimchi #mukbang.
+  Find top chefs Instagram influencers in South Korea in 2024. Most popular hashtags: #chef #ootd #itoo.
 platform: Instagram
-hits: 16
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 16 Instagram influencers like this in South Korea for you to work with.
+hits: 19
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 19 Instagram influencers like this in South Korea for you to contact.
 profiles:
   - username: "chefhoyoon"
     fullname: >-
@@ -55,6 +55,18 @@ profiles:
     id: ck5pw78z0lg110i11xf5ptj9i
     verified: false
     hashtags: "#mukbang, #challengeaccepted, #lunarnewyear, #gluten"
+  - username: "hdk_chef"
+    fullname: >-
+      규슐랭가이드
+    bio: >-
+      마포구르메,맛포구청장 저의 맛집이 당신의 맛집이 될순 없어요 참고만 하시고 판단은 각자 알아서 제휴/협업 문의 DM #규슐랭 +지역명 검색 ex) 규슐랭제주도, 마포구, 신사동
+    location: "South Korea"
+    followers: 113058
+    engagement: 180
+    commentsToLikes: 0.016268
+    id: ckap8ohoqp9at0i78zfmdkm8g
+    verified: false
+    hashtags: "#jadewater, #dott, #20"
   - username: "chef__angelo"
     fullname: >-
       김 성 진
@@ -67,18 +79,6 @@ profiles:
     id: ckap0s8xvrkdf0i78r9xrzwwx
     verified: false
     hashtags: "#korealife, #southkorea, #hanok"
-  - username: "hdk_chef"
-    fullname: >-
-      규슐랭가이드
-    bio: >-
-      저의 맛집이 당신의 맛집이 될순 없어요 참고만 하시고 판단은 각자 알아서 #규슐랭 +지역명 검색 ex) 제주도, 마포구, 연남동 #옐로우보울 설거지맨
-    location: "South Korea"
-    followers: 103080
-    engagement: 242
-    commentsToLikes: 0.034270
-    id: ckap8ohoqp9at0i78zfmdkm8g
-    verified: false
-    hashtags: ""
   - username: "mulkong_chef"
     fullname: >-
       물콩식당의 주인장
@@ -115,16 +115,16 @@ profiles:
     id: ck8t3zym4535a0j78ehdgfnvs
     verified: false
     hashtags: "#lg, #ootd, #itoo, #diorbeautylovers"
-  - username: "gongsam_table"
+  - username: "yyunwoody"
     fullname: >-
-      이공삼
+      김윤우/한식전공
     bio: >-
-      Youtube:GONGSAM TABLE 이공삼⬇️ 📨gongsam203@gmail.com
+      행복을 요리하는 #요리사 #한식조리 전공 #Traveler ~ ing ✈️ 🇰🇷🇺🇸🇻🇳🇸🇬🇭🇰🇹🇼🇲🇴 🛒 Market : #하남미사 롯데캐슬헤븐시티 #롯데프레시 🍗 Food : 하남 #미사역 #HOchicken #호치킨 운영
     location: "South Korea"
-    followers: 226476
-    engagement: 234
-    commentsToLikes: 0.007294
-    id: ck13c72reyxf50i19krdmrckh
+    followers: 97336
+    engagement: 124
+    commentsToLikes: 0.013667
+    id: ckap9pwe7t6670i78ne9czu8f
     verified: false
-    hashtags: "#eatingasmr, #noodles, #eatingshow, #cookingasmr"
+    hashtags: "#dyson, #dysonhair, #flyawaynozzle, #ballantines30yoritualkit"
 ---

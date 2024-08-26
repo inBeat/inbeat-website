@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Germany In 2023
+title: Top 10 Lifestyle Instagram Influencers In Germany In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Germany in 2023. Most popular hashtags: #ootd #verlosung #love #happy.
+  Find top lifestyle Instagram influencers in Germany in 2024. Most popular hashtags: #motivation #interior #reelsinstagram #interiordesign.
 platform: Instagram
-hits: 2235
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 2235 Instagram influencers like this in Germany for you to connect with.
+hits: 2557
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 2557 Instagram influencers like this in Germany for you to pitch.
 profiles:
-  - username: "teresa.jg"
+  - username: "juliainberlin_"
     fullname: >-
-      Teresa
+      Julia | berlin city • balanced lifestyle
     bio: >-
-      daily outfits, beauty & lifestyle🙃 contact: teresa@fab4media.de Germany - Impressum: @fab4media
+      sharing my love for berlin, food & sport ツ 🌟 berlin tips & balanced lifestyle 🏃🏻‍♀️ currently training for my first HM 💌 management@juliainberlin.com
     location: "Germany"
-    followers: 96139
-    engagement: 868
-    commentsToLikes: 0.011271
-    id: ck6u19gjzked40j71d5cgv43v
+    followers: 36583
+    engagement: 1071
+    commentsToLikes: 0.031659
+    id: ck9we3yvhih790j78s4zbmdak
     verified: false
-    hashtags: "#azoren, #blonde, #skigirl, #skiing"
-  - username: "oh.hey.nina"
+    hashtags: "#berlincity, #beach, #explore, #running"
+  - username: "natasha_milani"
     fullname: >-
-      ♡ NINA ♡
+      NATASHA MUTHONI🇰🇪
     bio: >-
-      FASHION • OOTD • LIFESTYLE 📍 w ü r z b u r g | Germany Life is about moments - don‘t wait for them - CREATE them! ♥
+      You don't manifest dreams without taking chances. Proverbs 3:5-6 Fashion, Lifestyle & Travel
     location: "Germany"
-    followers: 13792
-    engagement: 543
-    commentsToLikes: 0.133250
-    id: ck8ta74syqp8f0j78lxllfyfe
+    followers: 16945
+    engagement: 472
+    commentsToLikes: 0.014657
+    id: ck6ucm27mgedn0j71z1y3yfm8
     verified: false
-    hashtags: "#styleblogger, #streetstylefashion, #malediven, #mylookoftheday"
-  - username: "denise.mski"
+    hashtags: "#nairobinationalpark, #bethereirl, #gamedrives, #holidayinnnairobi"
+  - username: "tim_stammberger"
     fullname: >-
-      Denise Mski
+      Tim Stammberger
     bio: >-
-      daily stories • lifestyle • deeptalks • mommy content 22 years | bln city youtube : denise mski ↓ Impressum
+      HOME, FOOD, LIFESTYLE, SPORT & GOOD VIBES ⠀ 📍 Köln | Deutschland 🚀 Agentur: @mediafive.de ✉️ Mail: tim@mediafive.de
     location: "Germany"
-    followers: 887693
-    engagement: 838
-    commentsToLikes: 0.057118
-    id: ck5hgfqcv2jb90i11762oj13m
+    followers: 171922
+    engagement: 466
+    commentsToLikes: 0.011678
+    id: ck13blpfiw0uq0i19hunuop5v
     verified: true
-    hashtags: "#momtobe, #pregnant, #parentstobe, #babygirl"
-  - username: "offiziellalinebachmann"
+    hashtags: "#lorealmen, #pepemeup, #sch, #menexpert"
+  - username: "thedronebook"
     fullname: >-
-      💕 Beauty, Inspiration & Lifestyle
+      CHRIS & MARISA – Creative Production – Germany
     bio: >-
-      𝒀𝒐𝒖 𝒏𝒆𝒗𝒆𝒓 𝒇𝒂𝒊𝒍 𝒖𝒏𝒕𝒊𝒍 𝒚𝒐𝒖 𝒔𝒕𝒐𝒑 𝒕𝒓𝒚𝒊𝒏𝒈 𝑮𝒊𝒓𝒍 ▫ Beauty, Inspiration & Lifestyle ▫ 📩 collab.alinebachmann@web.de ▫ @impressum_alinebachmann
+      Taking Visions to New Heights Aerial | Hospitality | Travel | Lifestyle | Commercial ⠀⠀⠀⠀⠀⠀⠀⠀⠀ 👇🏼📸 SHOWREEL 2022 & PORTFOLIO Website
     location: "Germany"
-    followers: 442979
-    engagement: 310
-    commentsToLikes: 0.089817
-    id: ck5hp73lmqv4x0i11qibdgmes
-    verified: true
-    hashtags: ""
-  - username: "soulfollowsdesign"
-    fullname: >-
-      Sori | Soul Follows Design
-    bio: >-
-      • Homestyling & Modern Scandi Interior • Positive Lifestyle 🤍 Loving what is • Blog: soulfollowsdesign.com • Online Shop: @sorikamee
-    location: "Germany"
-    followers: 9456
-    engagement: 312
-    commentsToLikes: 0.121453
-    id: ck14kqp1xqu170i19n0gfwbd4
+    followers: 26057
+    engagement: 466
+    commentsToLikes: 0.041412
+    id: ckap9qll5t95k0i7876yapud9
     verified: false
-    hashtags: "#kr, #wohnzimmerinspo, #myinterior, #gartenideen"
-  - username: "fit.suny84"
+    hashtags: "#takemoreadventures, #sunset, #maldives, #beyondthelands"
+  - username: "jacqisdiary"
     fullname: >-
-      Sara | Darmstadt 🇩🇪 🇵🇱
+      Jacqueline
     bio: >-
-      🤍 Fitness, Travel, Lifestyle 🔜 Thailand 🇹🇭 ❗️NEW ACCOUNT @ fit.suny 250k gehackt
+      ♾️ ✨ wellness | lifestyle | vlogs 🕋 revert journey ✉️ info@jacqifit.com
     location: "Germany"
-    followers: 129163
-    engagement: 267
-    commentsToLikes: 0.029216
-    id: cl9ofguoykx9b0i23a2drjjgc
+    followers: 155046
+    engagement: 809
+    commentsToLikes: 0.012399
+    id: ckap2325hx61s0i78ga1hud1d
     verified: false
-    hashtags: "#fitnessgirl, #muskeln, #aufbau, #beach"
-  - username: "uls_andthekids"
+    hashtags: "#sun, #morningroutine, #positivity, #happy"
+  - username: "aysenurr"
     fullname: >-
-      Ulli | Interior • Fashion • Lifestyle
+      Aysenur
     bio: >-
-      Hello: uls.andthekids@gmail.com Interior | Lifestyle | Fashion Impressum:
+      Momlife, Fashion, Beauty & Lifestyle 📍Deutschland ✉️: aysenur@elevensocial.de
     location: "Germany"
-    followers: 65856
-    engagement: 187
-    commentsToLikes: 0.076438
-    id: ck55nuals6zoy0i11ocwl0j65
+    followers: 43998
+    engagement: 1426
+    commentsToLikes: 0.028408
+    id: clbvnhjkee3ff0j086et653aj
     verified: false
-    hashtags: "#decohome, #fuchsegg, #plantsofinstagram, #interior"
-  - username: "lifestyle.mom"
+    hashtags: "#beauty, #family, #interior, #recapoftheday"
+  - username: "saradesideria"
     fullname: >-
-      Sophia Böhm
+      Sara Desideria Zdravkovic
     bio: >-
-      | Lifestyle | Mom / Family | Creator | Photography
+      FASHION • FOOD • LIFESTYLE • PETS info@saradesideria.de
     location: "Germany"
-    followers: 39954
-    engagement: 170
-    commentsToLikes: 0.060948
-    id: ck0w196phi67q0i19l1vow9gw
+    followers: 1243819
+    engagement: 443
+    commentsToLikes: 0.133946
+    id: ck13btp7mx45l0i19bq3xl19x
     verified: false
-    hashtags: "#dallmayrkaffee, #dallmayracademy, #wellaflex, #cewe"
-  - username: "_eva_evelin__"
+    hashtags: "#healthyrecipes, #gesunderezepte, #dubai, #einfacherezepte"
+  - username: "rommel.anna"
     fullname: >-
-      𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 𝐁𝐥𝐨𝐠𝐠𝐞𝐫
+      Anna
     bio: >-
-      ☾ Ger | 25yrs » Snap: evaevelin ♡ @daniel__wiski ⤷ Use #evascommunity ☼ evaevelin.insta@gmail.com ☆ #lifestyle #fashion #travel
+      photography, fashion, lifestyle Berlin📍 @sesamyagency EMAIL: anna@sesamyagency.com
     location: "Germany"
-    followers: 108338
-    engagement: 154
-    commentsToLikes: 0.184383
-    id: ck8t1xcqjxf2h0j78s5i214ke
+    followers: 300212
+    engagement: 888
+    commentsToLikes: 0.005172
+    id: ck0w6j2qc8sr80i19sr9v1kqp
     verified: false
-    hashtags: "#fashion, #inspo, #fashionblogger, #rabattcode"
-  - username: "_dolce__deborina"
+    hashtags: "#cretegettogether, #peachymagazine, #erlemag, #portraits"
+  - username: "miriamneureuther"
     fullname: >-
-      Deborah
+      Miriam Neureuther
     bio: >-
-      Wifey of @manuel.fiori 🤍 Mum of Luca 👶🏻 Fashion & Lifestyle ✨ 💌 dolcedeborina@hypage.de
+      TRY TO START EVERY DAY WITH A SMILE! Happy mum 👧🏼🧒🏼👶🏻 nature lover🌳 healthy lifestyle 🍉
     location: "Germany"
-    followers: 119672
-    engagement: 134
-    commentsToLikes: 0.026352
-    id: ck0vuzwlrmwj50i1956i3rv1s
+    followers: 162019
+    engagement: 495
+    commentsToLikes: 0.033679
+    id: ck0u6aerv1hs30i19phfbl3fp
     verified: false
-    hashtags: "#mumlife, #couplegoals, #reelsinstagram, #look"
+    hashtags: "#imeigenentempo, #werbung, #werbungwegenmarkennennung, #refillthegood"
+  - username: "erdnussfrosch"
+    fullname: >-
+      Melanie | Travel | Family | Lifestyle
+    bio: >-
+      📍Austria ♡ Familie ⚐ Reisen ∞ Lifestyle 🔛 ROADTRIP 32 days Spain | Portugal ☆ life is too short for later #travelfamily #reisebloggerin
+    location: "Germany"
+    followers: 49214
+    engagement: 624
+    commentsToLikes: 0.033112
+    id: ck8tavvjvta7z0j783t8t423p
+    verified: false
+    hashtags: "#travelfamily, #mamavonzwei, #roadtrip, #urlaubstipps"
 ---

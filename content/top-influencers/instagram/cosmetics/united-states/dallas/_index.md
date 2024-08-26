@@ -1,36 +1,60 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Dallas In 2023
+title: Top 10 Cosmetics Instagram Influencers In Dallas In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Dallas in 2023. Most popular hashtags: #cosmetics #fashion #makeup #skincare.
+  Find top cosmetics Instagram influencers in Dallas in 2024. Most popular hashtags: #skincareroutine #skincare #makeup #beauty.
 platform: Instagram
-hits: 28
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our platform has 28 Instagram influencers like this in Dallas, United States for you to collaborate.
+hits: 36
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our platform has 36 Instagram influencers like this in Dallas, United States for you to connect with.
 profiles:
-  - username: "chinalatinadfw"
+  - username: "theplasticnp"
     fullname: >-
-      CHINA LATINA DFW
+      Jen Pilotte NP - Dallas Injector
     bio: >-
-      Multicultural Lifestyle 🏆 Award Winning Influencer 💎 Jewelry Designer @minerdeng Get 20% OFF with code CHINALATINA20 💻 Creative @yourmarketingmedia
+      Minimalist Facial Balancing NP Real results. Your no B.S. skincare bestie @cultclinics @cultconference @squeezeskn
     location: "United States"
-    followers: 21108
-    engagement: 150
-    commentsToLikes: 0.062612
-    id: ckaoqn1ypjg6q0i78ljajvlib
+    followers: 73257
+    engagement: 38
+    commentsToLikes: 0.057661
+    id: ck5q52uitr5mo0i118g52dmmw
     verified: false
-    hashtags: "#dallasevents, #ootdfashion, #dallaslifestyleblogger, #styleinspo"
-  - username: "michaelvincentacademy"
+    hashtags: "#skincareroutine, #jawlinefiller, #love, #cosmeticdoctor"
+  - username: "andreawiththecurls"
     fullname: >-
-      MVA- Adv Makeup, Hair
+      Andrea Reed
     bio: >-
-      MVA.LA - OPEN ENROLLMENT #september ONLINE + ELITE program build your portfolio #1 Beauty, Hair, SFX ,Airbrush ,Affliate, Onset
+      🦋Natural Hair In 15 Secs Beauty & More 📧:Royallandrea@gmail.com 📌Andreawiththecurls•TikTok 226K 📌Personal: @andreaxoreed 📍Dallas, Texas
     location: "United States"
-    followers: 188719
-    engagement: 114
-    commentsToLikes: 0.005452
-    id: ck5bxawrand8n0i11qyy9i0mv
+    followers: 78083
+    engagement: 814
+    commentsToLikes: 0.010883
+    id: ckapafmdqvwr40i78pjj7b4t8
     verified: false
-    hashtags: "#photography, #microblading, #kyliecosmetics, #maccosmetics"
+    hashtags: "#healthynaturalhair, #braids, #permrods, #washngo"
+  - username: "houshmandmd"
+    fullname: >-
+      Elizabeth Bahar Houshmand,MD
+    bio: >-
+      📚Fluent English/Spanish/Farsi 🥼Beauty+Hair+Cosmetic Expert 🎥 Media Contributor/Author AAD Social Media Ambassador 📍Dallas www.houshmanddermatology.com
+    location: "United States"
+    followers: 82803
+    engagement: 167
+    commentsToLikes: 0.105471
+    id: cl9ra3gzim6rh0i23uc0maaap
+    verified: false
+    hashtags: "#dallas, #dermatologist, #doctor, #acne"
+  - username: "ambeautyshweta"
+    fullname: >-
+      𝐒𝐇𝐖𝐄𝐓𝐀 / UGC creator/ Dallas Influencer #dallasblogger
+    bio: >-
+      Spreading Smiles and sparkles Model / Creative PR/ Collabs⬇️ angels.shweta@gmail.com Welcome to A little haul of my life!! 📍Dallas(for now) 🏡Seattle
+    location: "United States"
+    followers: 29825
+    engagement: 148
+    commentsToLikes: 0.132494
+    id: cksh5otycrq2h0j2374o5ttab
+    verified: false
+    hashtags: "#roadtrip, #temubaes, #temufinds, #springstyle"
   - username: "thesoberstyle"
     fullname: >-
       Abigail Doty
@@ -42,7 +66,7 @@ profiles:
     commentsToLikes: 0.070699
     id: ck9har4kfdr5x0j78tsc512ga
     verified: false
-    hashtags: "#mocktail, #frewines, #styleoftheday, #soberaf"
+    hashtags: "#wedorecover, #mocktailmonday, #styled, #supportnetwork"
   - username: "jessyjphoto"
     fullname: >-
       Jessy J Photo 📷
@@ -54,7 +78,7 @@ profiles:
     commentsToLikes: 0.050534
     id: ck0w4gvtpyiaw0i19jh6pfwqy
     verified: false
-    hashtags: "#melaninbeauty, #miami, #dallasphotographer, #laphotographer"
+    hashtags: "#swimwearphotographer, #melanin, #melaningoddess, #swimwearphotography"
   - username: "miriammelonn"
     fullname: >-
       
@@ -66,7 +90,7 @@ profiles:
     commentsToLikes: 0.013227
     id: ck0vy5fys2blr0i19z6oh14bb
     verified: false
-    hashtags: "#dallasmakeupartist, #trendymakeup, #bhcosmetics, #benefitcosmetics"
+    hashtags: "#benefitcosmetics, #springmakeup, #bhcosmetics, #maquillajedeojos"
   - username: "fatimathemua"
     fullname: >-
       Voted DFW Best MUA 2020
@@ -78,7 +102,7 @@ profiles:
     commentsToLikes: 0.040685
     id: ck6u7tab1njfo0j713y4h6dh0
     verified: false
-    hashtags: "#contour, #protectivestyles, #atlmua, #makeuppage"
+    hashtags: "#straightbacks, #houstonmua, #blackownedbusiness, #dfwmua"
   - username: "dr.rose.ilift"
     fullname: >-
       Dr. Rose, DDS
@@ -91,40 +115,16 @@ profiles:
     id: ck8t7k1aqh3i30j782aukmq0q
     verified: false
     hashtags: "#smilemakeover, #bigsmile, #beautifulsmile, #quotes"
-  - username: "madaleinemurphy"
+  - username: "swetadas_beauty"
     fullname: >-
-      madaleine murphy☁️
+      Sweta Das -Dallas,Tx📍Beauty /Fashion/Ugc content creator
     bio: >-
-      https://blacklivesmatters.carrd.co/ 📩madaleinemurphy16@gmail.com
+      💗A Brown Girl Beauty Nerd📚 💗Everyday Makeup & skincare Tips for Begineers & Busy Moms 💗UGCcreator 👪A Mom with a purpose 🇮🇳SouthAsian Shop My Looks👇
     location: "United States"
-    followers: 10292
-    engagement: 1499
-    commentsToLikes: 0.061965
-    id: ck0vvcwauokul0i19rto5ksi1
+    followers: 14657
+    engagement: 83
+    commentsToLikes: 0.124180
+    id: ckw1dybuzgprz0j23cz6wj1h9
     verified: false
-    hashtags: "#ad, #gobareoutside, #ultabeauty, #sunscreen"
-  - username: "jannaortiz1"
-    fullname: >-
-      𝙅𝘼𝙉𝙉𝘼 𝙊𝙍𝙏𝙄𝙕
-    bio: >-
-      Filipina 🇵🇭 Austin TX Twitter: Jannaortiz1
-    location: "United States"
-    followers: 3504
-    engagement: 1522
-    commentsToLikes: 0.074640
-    id: ck5q6e1jrx0dy0i11ssc44sp5
-    verified: false
-    hashtags: "#fashion, #fashionista, #officialfuegobabe, #mua"
-  - username: "roccothegoddess"
-    fullname: >-
-      𝘾𝙧𝙚𝙖𝙩𝙚 𝙒𝙚𝙖𝙡𝙩𝙝 & 𝘼𝙘𝙝𝙞𝙚𝙫𝙚 𝙈𝙤𝙧𝙚
-    bio: >-
-      Taken by @DerdyDadeDre 👑 Disciplined Heathen 🖤 Powered by Plants🌱 Fitnessy🏋🏿‍♀️💅🏾 Serial Investor 📈 Funding The Mental📚 Toronto ✈️ Miami
-    location: "United States"
-    followers: 8758
-    engagement: 1938
-    commentsToLikes: 0.011708
-    id: ckf5qzls8awt60j23z8t6ovat
-    verified: false
-    hashtags: "#fitchicks, #healthyhair, #kinky, #happyanniversary"
+    hashtags: "#goldeyeshadow, #dallasmomblogger, #bengaligirl, #eyemakeupideas"
 ---

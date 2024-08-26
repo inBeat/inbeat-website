@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Australia In 2023
+title: Top 10 Fitness Instagram Influencers In Australia In 2024
 description: >-
-  Find top fitness Instagram influencers in Australia in 2023. Most popular hashtags: #fit #fitnessmotivation #fitnessgirl.
+  Find top fitness Instagram influencers in Australia in 2024. Most popular hashtags: #fitness #gym #motivation #gymgirl.
 platform: Instagram
-hits: 364
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 364 Instagram influencers like this in Australia for you to pitch.
+hits: 570
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 570 Instagram influencers like this in Australia for you to connect with.
 profiles:
-  - username: "zolobustami"
+  - username: "alpendlebury"
     fullname: >-
-      Hamzah Bustami
+      Alex Pendlebury
     bio: >-
-      🌏Travel | 🤪Jester | 🏋️Fitness | 🇦🇺 Aussie-born Indo 🇮🇩 CP: @kynycreative: +62 819-9617-1666 (Risa)
+      Mum 👨‍👩‍👧‍👦❤️ Presenter, nutrition, fitness, fashion, travel☀️ 📧Matthew @chadwickmodels .com BScFood&Nutrition
     location: "Australia"
-    followers: 22721
-    engagement: 369
-    commentsToLikes: 0.024114
-    id: ck5c1a5bhur650i11cwbi0icc
+    followers: 112991
+    engagement: 485
+    commentsToLikes: 0.008146
+    id: ck0txbzfbio1x0i19f710v5df
     verified: false
-    hashtags: "#asianmodel, #mensoutfit, #exercise, #dirgahayuindonesia"
-  - username: "monique_bodycraft"
+    hashtags: "#sixsensesfiji, #outoftheordinary, #partner, #eatwithsixsenses"
+  - username: "trainedbylany"
     fullname: >-
-      M O N I Q U E  C R A F T
+      LANY HERMAN
     bio: >-
-      🌊☀️ 🌎 † 👟 🍉✨💪🏽 🌻 🌈 A fitness coach, presenter, support worker, & model; who’s obsessed with sunshine, surfing & smiling! (And seeing you smile too ♡ )
+      On a mission to help you fall in love with training 🥊 Boxing & Fitness Tips 💥 Training Hype Vids ⚡️ @nikestudios Trainer 🐨 Aussie📍LA 💪🏼 LET’S TRAIN👇🏼
     location: "Australia"
-    followers: 24458
-    engagement: 147
-    commentsToLikes: 0.121995
-    id: ck5c390dsyttq0i1111pgiigf
+    followers: 40902
+    engagement: 988
+    commentsToLikes: 0.046951
+    id: ck5hlkjzkkdsh0i117aoayc3q
     verified: false
-    hashtags: "#comvitaaustralia, #run, #timelesswellness, #letsgo"
-  - username: "emilyskyefit"
+    hashtags: "#womenwhobox, #fitness, #choiceofchampions, #mittwork"
+  - username: "kirtanraj"
     fullname: >-
-      Emily Skye
+      Kirtanraj 💀 | Online Coach
     bio: >-
-      Fitness ♡ Wellness ♡ Beauty @james_cosmetics Owner @womensbest partner 50% off my FIT APP 12m plan - tap here ⬇️
+      Creating Something⚡️ Fitness consultant // @myproteinmy athlete // @chillnspillpodcast Fat-loss & muscle building Book a free consultation with me👇🏽
     location: "Australia"
-    followers: 2723386
-    engagement: 87
-    commentsToLikes: 0.024309
-    id: ck136fczj67xj0i19enbq3wrk
+    followers: 64120
+    engagement: 638
+    commentsToLikes: 0.007385
+    id: ck6u83d2kp76j0j71cpuan8ab
+    verified: false
+    hashtags: "#gym, #pump, #reels, #men"
+  - username: "ashleighgivins"
+    fullname: >-
+      Ashleigh | Syd Creator • UGC
+    bio: >-
+      fashion | fitness | body positivity 22 | Syd, Aus 🪐☁️🦋✨ 💌 collabs/pr > ash.givins@gmail.com @antuis.apparel ambassador: ASH10 🤍
+    location: "Australia"
+    followers: 45706
+    engagement: 482
+    commentsToLikes: -2.641646
+    id: clb7mp1l36cvq0i23ya5w72k2
+    verified: false
+    hashtags: "#disvoverunder3k, #discoverunder10k, #fashion, #microinfluencer"
+  - username: "brookecurriee"
+    fullname: >-
+      BROOKE CURRIE
+    bio: >-
+      australia , bris @keepthatpump athlete: BC10 @silvaactivesport athlete: BROOKIE @brookec.fitness fitness account
+    location: "Australia"
+    followers: 6302
+    engagement: 487
+    commentsToLikes: 0.004934
+    id: clnyeawdu2tt60j0856jqzo3s
+    verified: false
+    hashtags: "#gymmotivation, #gymgirl, #gymlife, #sport"
+  - username: "josephmencel"
+    fullname: >-
+      Joseph Mencel
+    bio: >-
+      CEO @MJFitness.AU @TMJApparel Husband To @AmyMencel Fitness x Business Podcast Host IFBB Mens Physique Pro IFBB Pro League Promoter Lifelong Learner
+    location: "Australia"
+    followers: 28742
+    engagement: 513
+    commentsToLikes: 0.010418
+    id: ck0w5p9r04s2d0i192jtbb4bp
+    verified: false
+    hashtags: "#bodybuilding, #fitness, #ifbbproleague, #workout"
+  - username: "diren.kartal"
+    fullname: >-
+      Diren Kartal
+    bio: >-
+      Diren Kartal 🇬🇧 / 🇹🇷 TRANSFORMATION COACH My Fitness App> @progress247app 💪 Management - luke@neatup247.com FREE Resources + Work With Me👇📲
+    location: "Australia"
+    followers: 285332
+    engagement: 1323
+    commentsToLikes: 0.022996
+    id: ck8wdfjtrdrqf0j78jchj7q1c
+    verified: false
+    hashtags: "#pt, #wedonthavesharednotes, #whathaveyoubeendoingwithyourlife, #ifyouarereadytolevelupyourlife"
+  - username: "cameronbyrnespt"
+    fullname: >-
+      CAM  BYRNES
+    bio: >-
+      Australian Fitness Expert & Personal Trainer Online Coach AUS-NY-LA-UK
+    location: "Australia"
+    followers: 74835
+    engagement: 577
+    commentsToLikes: 0.017399
+    id: ckaoxvas4ewp00i78w4494twn
     verified: true
-    hashtags: "#soblessed, #bodyappreciation, #parentlife, #langhamgala"
-  - username: "kellympreston"
+    hashtags: "#grateful, #muscle, #happy, #home"
+  - username: "sophii_maree"
     fullname: >-
-      Kelly Preston
+      SOPHIE MAREE HULL
     bio: >-
-      🏋🏻‍♀️ EHP Labs - Discount code: KMP10 📥 contact@kellympreston.com 📍 Sydney 🇦🇺 🎓 UNSW B.I.Arch (Hons), 🎓 M.P.D 💪🏼 Fitness | 🍔 Food | 💋 Beauty
+      🌎 Online fitness & nutrition coaching @ultra_bodies 👠 Pose with me @natkitneyposingcoach 💪🏼 @ruleoneproteins_au athlete
     location: "Australia"
-    followers: 160384
-    engagement: 503
-    commentsToLikes: 0.028158
-    id: ck0u1bzaxwhw00i199j4biujl
+    followers: 70287
+    engagement: 3505
+    commentsToLikes: 0.088005
+    id: clb9x8scx7oq90i23f02h4rwy
     verified: false
-    hashtags: "#fit, #bodyinspo, #hairstyle, #makeup"
-  - username: "ttayahpick__"
+    hashtags: "#fitchick, #fitnessmumma, #fitfam, #rule1"
+  - username: "selineabroad"
     fullname: >-
-      TAYAH ♡
+      S E L I N E - Handstand & Mobility Coach
     bio: >-
-      📍Newcastle health, fitness & bikini competitor things #TeamDestroy ✖️ @ryderwear TAYAH10 ✖️ @food4fitnessmeals TAYAH10 ✖️ @mr.myo_massage
+      🤸🏼‍♂️In-person & online coaching 💪🏼learn to handstand and get strong & mobile with me 🔥20 years of experience in the fitness industry 📩DM for details
     location: "Australia"
-    followers: 13233
-    engagement: 583
-    commentsToLikes: 0.079082
-    id: ck55nbyrl5vxf0i11n9hkgmxh
+    followers: 11799
+    engagement: 546
+    commentsToLikes: 0.111750
+    id: ck5cj75zlu4ev0i11kr9r929b
     verified: false
-    hashtags: "#nofoodisofflimits, #moderationiskey"
-  - username: "laralive2lift"
-    fullname: >-
-      Lara Gya
-    bio: >-
-      📚QUALIFIED NUTRITIONIST 👊🏻Lost 25kg 💪🏼 @vitalstrength LARA10 🏋🏼‍♂️ FITNESS 🎓Biomed 🥊 @musclerepublicapparel LARA10 🥗@liftbyday
-    location: "Australia"
-    followers: 76452
-    engagement: 186
-    commentsToLikes: 0.072186
-    id: ck55n53he5hvy0i11xw64mhqz
-    verified: false
-    hashtags: "#teamvs, #lancomeau, #lovegenifique, #brookfarm"
-  - username: "eliseknowles"
-    fullname: >-
-      ELISE
-    bio: >-
-      #mymirroredmemories • Musings of a mother ♕ • Fitness, lifestyle & self-care ♡ • Encouraging conversation ❁ • Perth, AUS
-    location: "Australia"
-    followers: 26416
-    engagement: 289
-    commentsToLikes: 0.121451
-    id: ck5c2h2kdx8z60i11l52xyxsw
-    verified: false
-    hashtags: "#myhappydays, #honestmothering, #mypostpartum, #birthbumpandbeyond"
-  - username: "zoelafon"
-    fullname: >-
-      Zoe Lafon
-    bio: >-
-      🇨🇦🇦🇺 up in the gym just workin on my fitness ✨ @cropshopboutique
-    location: "Australia"
-    followers: 25088
-    engagement: 885
-    commentsToLikes: 0.020896
-    id: ck5c6xgt66ehq0i11uyd7rmt1
-    verified: false
-    hashtags: "#blackouttuesday, #hi, #itsbeenawhile"
-  - username: "ayla_cally"
-    fullname: >-
-      𝖠𝖸𝖫𝖠 𝖢𝖠𝖫𝖫𝖸
-    bio: >-
-      Kiwi in Melbourne 📍 Fitness || Lifestyle || Adventure ✨ ⟶ ✉ Ayla-cally@hotmail.com
-    location: "Australia"
-    followers: 51147
-    engagement: 321
-    commentsToLikes: 0.035161
-    id: ck6uckxw3g7iw0j71ieylc6q1
-    verified: false
-    hashtags: "#eliteelevensporting, #spon, #madeinmelbourne, #ezrracollection"
-  - username: "la_fashionista_vita"
-    fullname: >-
-      la_fashionista_vita
-    bio: >-
-      Builder by trade | Fashionista by heart STYLE | FITNESS influencer 🇮🇹🇦🇺 #keepitclassy
-    location: "Australia"
-    followers: 36971
-    engagement: 373
-    commentsToLikes: 0.045741
-    id: ck6u3j5k6y3dt0j71ivssmddz
-    verified: false
-    hashtags: ""
+    hashtags: "#yoga, #hamstringstretch, #movement, #handstand"
 ---

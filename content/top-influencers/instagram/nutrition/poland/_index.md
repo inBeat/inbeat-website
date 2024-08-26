@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Poland In 2023
+title: Top 10 Nutrition Instagram Influencers In Poland In 2024
 description: >-
-  Find top nutrition Instagram influencers in Poland in 2023. Most popular hashtags: #workout #smile #fitnessmotivation.
+  Find top nutrition Instagram influencers in Poland in 2024. Most popular hashtags: #gym #motivation #reklama #workout.
 platform: Instagram
-hits: 70
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 70 Instagram influencers like this in Poland for you to pitch.
+hits: 61
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 61 Instagram influencers like this in Poland for you to connect with.
 profiles:
-  - username: "m_onika_k"
+  - username: "pati_bukowska"
     fullname: >-
-      MONIKA ⚜️ KUREK
+      Pati Bukowska
     bio: >-
-      🔱Team @real_pharm_nutrition Kod -20%: Monika20 🕊cooperation🕊: mkurek1308@web.de
+      ▫️ceo + founder of @bootymakerpl ▫️co-owner @goodmoves_ ▫️ambassador @underarmour @olimp_nutrition_pl ▫️bukowska.patrycja.natalia@gmail.com
     location: "Poland"
-    followers: 123759
-    engagement: 501
-    commentsToLikes: 0.039324
-    id: ck14icxfjesif0i196uoxpnd3
+    followers: 106593
+    engagement: 410
+    commentsToLikes: 0.011721
+    id: cl6chiblki0g50i23tf696tmz
     verified: false
-    hashtags: "#polskakobieta, #sexydresses, #nylonlegs, #behappy"
-  - username: "dominika_wisniewska2"
+    hashtags: "#gymmotivation, #wsp, #motivation, #gymgirl"
+  - username: "barbie_hulk"
     fullname: >-
-      Dominika Wiśniewska
+      Nikoletta Karat
     bio: >-
-      🇵🇱 Warszawa https://mym.fans/dominika_wisniewska2 Team @real_pharm_nutrition -10% "Domi10" @fitby.nature @gattafashioneurope 🥰
+      💕Barbie Hulk💕 💎Personal Trainer 💎NPC Bikini Fitness 🥈Open Class H BM 🥈True Begginers ⭕️ 🥉🥉Novice ⭕️& BM 💎Sports Nutritionist 💎Online Collaboration
     location: "Poland"
-    followers: 130140
-    engagement: 461
-    commentsToLikes: 0.053377
-    id: ck8t1rewdwqkv0j78cj59oftk
+    followers: 21537
+    engagement: 880
+    commentsToLikes: 0.002031
+    id: ckap7e52kjoi30i7837fh1qn0
     verified: false
-    hashtags: "#lingiere, #body, #czarnulka, #goodnight"
-  - username: "bembenikklaudia"
+    hashtags: "#bodybuilding, #gymfreak, #competition, #gymmotivation"
+  - username: "barteksanocki"
     fullname: >-
-      Klaudia Bembenik® 🇵🇱
+      Bartłomiej Sanocki
     bio: >-
-      mom | girl boss | IFBB Athlete owner @claudiawingsshop athlete @olimp_nutrition_pl -10% code: klaudiab
+      Hundred of lives changed worldwide 🌎 Online Personal Trainer & Nutrition Coach Diet & workout program @sanockicompany Bartlomiejsanocki@gmail.com
     location: "Poland"
-    followers: 36952
-    engagement: 242
-    commentsToLikes: 0.063974
-    id: ck5hh71ln6pnt0i114du8yklt
+    followers: 133221
+    engagement: 374
+    commentsToLikes: 0.025684
+    id: ckaowhyyn90px0i78utukxupi
     verified: false
-    hashtags: "#autumnvibes, #catchthemoment, #gymwear, #mountains"
-  - username: "nikola_strzyz"
+    hashtags: "#usa, #fitnessmodel, #travel, #gym"
+  - username: "gabrielajaworska"
     fullname: >-
-      𝒩𝒾𝓀𝑜𝓁𝒶
+      Gabriela Jaworska
     bio: >-
-      📍 Warsaw team @gymhero_official & @olimp_nutrition_pl 🖤 wsparcie dietetyczne ᴅɪᴇᴛʙᴏx🍽 kod %: 𝕟𝕚𝕜𝕠𝕝𝕒𝕤𝕥𝕣𝕫𝕪𝕫 Dołącz do grupy⬇️
+      Blogger @sheinofficial -15 % „GJ15” @czasnabutypl -20 % „gabrielajaworska” @real_pharm_nutrition -20 % „Gabi20” 💌 gabriela911@wp.pl or DM
     location: "Poland"
-    followers: 41305
-    engagement: 154
-    commentsToLikes: 0.073015
-    id: ck8t2rxfo0hoy0j78hxj2g288
+    followers: 26396
+    engagement: 209
+    commentsToLikes: 0.017099
+    id: ck0w3mdsuu56m0i1985vik417
     verified: false
-    hashtags: "#photomood, #weekendmood"
-  - username: "wolver_terrorysta"
+    hashtags: "#blogerka, #meeting, #sheinquickship, #pakuten"
+  - username: "patrycjaslaby_"
     fullname: >-
-      Wolver Terrorysta-Tomasz Nobis
+      Patrycja Słaby Talar
     bio: >-
-      🏅2x IFBB Men's Physique Overall 🥈Diamond Cup 💥OlimpTeam @olimp_nutrition_pl 💥DEADlift -15%code: wolver15 💥ONLINE COACH 💥Personal Trainer Warsaw
+      Mgr.👩🏼‍🎓 💎PRO CARD 🏆WORLD CHAMPION 2x EUROPEAN CHAMPION 🥇ARNOLD CLASSIC #bikinifitness Team @olimp_nutrition_pl @carpatree 📩patrycja.slabyy@gmail.com
     location: "Poland"
-    followers: 26362
-    engagement: 368
-    commentsToLikes: 0.032595
-    id: ck6tx8b68we7t0j71bdh0ugwz
+    followers: 67902
+    engagement: 204
+    commentsToLikes: 0.007905
+    id: ck0vy1e491rdw0i19oe9inlbg
     verified: false
-    hashtags: "#couplegoals, #sixpack, #competition, #dreamteam"
-  - username: "piotr.lisek.pv"
+    hashtags: "#blue, #wsp, #gymgirl, #reklama"
+  - username: "piotr.piechowiak"
     fullname: >-
-      Piotr Lisek
+      Piotr „BESTIA”Piechowiak
     bio: >-
-      Pole Vault #polishboy Polish record holder 6.02! 🥉🥈🥉 WC 🥉🥉 IWC 🥇🥈🥉IEC 🇧🇷Olympian🇧🇷 🤝partners🤝 @puma @pkn.orlen @olimp_nutrition_pl @kia_polmotor
+      Zawodnik @cloutmma 🥊 MMA (3-0)🥊 BODYBUILDER💪 Ambasador @6pak_nutrition 15% rabat -BESTIA15 przy zamówieniu za minimum 100 zł
     location: "Poland"
-    followers: 43393
-    engagement: 812
-    commentsToLikes: 0.005062
-    id: ck0vxps7203wj0i19bqujjo2e
+    followers: 190502
+    engagement: 196
+    commentsToLikes: 0.024293
+    id: ck5zt63yazt4s0i14l67g316y
     verified: false
-    hashtags: "#polishboy, #goforit, #piotrlisek, #swietoniepodleglosci"
-  - username: "bigmajkmikulewicz"
+    hashtags: "#body, #smile, #muscle, #bodybuilding"
+  - username: "agabrady"
     fullname: >-
-      Michał Mikulewicz
+      ᴀ ɢ ᴀ | ʙ ʀ ᴀ ᴅ ʏ
     bio: >-
-      📧Online@bigmajk.pl @kfdnutrition kod 🔥BydlaTex🔥 @e_monsterpower - Kod 💣Powermajk💣 📧CoachingONLINE-fanpage 🍗Nutrition Coach @adam_rebis_thebodychanger
+      Certified Personal Trainer 📖 Passionate about nutrition 🍇 Plant-based cooking and recipes🥕🍓🍏🥑 Flexible dieting 🥗🍕🥑 Redhead from IRE🇮🇪 + PL🇵🇱 Married💍
     location: "Poland"
-    followers: 93982
-    engagement: 334
-    commentsToLikes: 0.011918
-    id: ck5cd4nndij4p0i11jnhuplzs
+    followers: 9861
+    engagement: 196
+    commentsToLikes: 0.042422
+    id: ckapa1wrfudvp0i78bn14aqmo
     verified: false
-    hashtags: "#bodybuildingmotivation, #fitfam, #muscle, #bodygoals"
-  - username: "adakaczmarekifbbpro"
+    hashtags: "#notanadd, #gingers, #polskamodelka, #dublingirl"
+  - username: "pudzianofficial"
     fullname: >-
-      Adrianna Kaczmarek IFBB PRO
+      Mariusz Pudzianowski
     bio: >-
-      ⭕️LYMPIAN BIKINI PRO 🏋🏽‍♀️Online coach ✨@olimp_nutrition_pl Team 🌪@carpatree Team 💥@protan_europe Team 📩adakaczmarekak7@gmail.com #kaczmarekteam®️
+      MMA FIGHTER and 5x World's Strongest Man. https://sklep.pudzian.pl 💪🏻 https://pudzian.pl 💪🏻 youtube.com/@pudzianofficial 🤜 🤛 @olimp_nutrition_pl
     location: "Poland"
-    followers: 135029
-    engagement: 431
-    commentsToLikes: 0.010239
-    id: ck13amu5or5i80i19i64xk31r
-    verified: false
-    hashtags: "#kaczmarek, #mentality, #10daysout, #2daysout"
-  - username: "biernatagata"
-    fullname: >-
-      MISS WORLD POLAND 2018👑
-    bio: >-
-      👑 MISS POLONIA 2017 👑 MISS WORLD Poland 2018 🇵🇱 💪🏻 Fit Freak 💃🏻 Dancer 👸🏻 Model @olimp_nutrition_pl @etam kontakt@agatabiernat.com
-    location: "Poland"
-    followers: 90645
-    engagement: 216
-    commentsToLikes: 0.053164
-    id: ck0udl13djf8y0i196fnwovvx
+    followers: 737897
+    engagement: 185
+    commentsToLikes: 0.006739
+    id: ck5hi69kmbv2j0i117ilq09bb
     verified: true
-    hashtags: "#photomodel, #model, #womanstyle, #biernat"
-  - username: "iga.co.smiga"
+    hashtags: "#reklama, #strongman, #strongmantraining, #porannazaprawa"
+  - username: "miejski_drwal_insta"
     fullname: >-
-      Iga Baumgart-Witan
+      Piotr Szczurek Trener
     bio: >-
-      Athlete 400m Collab: iga.baumgart@wp.pl ⛽ PKN Orlen 🏃‍♀️ New Balance Poland 🥣 Olimp Sport Nutrition
+      Trener ON-LINE 💻 Ambasador TREC Nutrition💪🏻 Nowy plan treningowy dla Kobiet🚨⬇️
     location: "Poland"
-    followers: 34534
-    engagement: 609
-    commentsToLikes: 0.010783
-    id: ck5hhh4j7879f0i11t95hxgwe
+    followers: 105671
+    engagement: 169
+    commentsToLikes: 0.024980
+    id: ck8t6j4jedtvb0j78vnd1vje4
     verified: false
-    hashtags: "#partnersincrime, #olimpsportnutrition, #pknorlen, #girlpower"
+    hashtags: "#health, #workout, #warszawa, #poland"
+  - username: "katarzyna_kepka"
+    fullname: >-
+      Katarzyna Kępka
+    bio: >-
+      tv presenter | 🌿 tcm nutritionist | ceo @gymbreakpl & @roots_retreat 🏨 | embracing island life in Sri Lanka • workout platform • retreats & • more ↓
+    location: "Poland"
+    followers: 50467
+    engagement: 59
+    commentsToLikes: 0.031600
+    id: ck5zpiisisqfu0i14g2ksv2ht
+    verified: false
+    hashtags: "#zdrowo, #rootsretreat, #jesiennydetoks, #tcm"
 ---

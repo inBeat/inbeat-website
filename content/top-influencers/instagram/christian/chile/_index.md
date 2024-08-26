@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian Instagram Influencers In Chile In 2023
+title: Top 10 Christian Instagram Influencers In Chile In 2024
 description: >-
-  Find top christian Instagram influencers in Chile in 2023. Most popular hashtags: #chile #lifestyle #tbt.
+  Find top christian Instagram influencers in Chile in 2024. Most popular hashtags: #lifestyle #tbt #chile.
 platform: Instagram
-hits: 43
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 43 Instagram influencers like this in Chile for you to collaborate.
+hits: 44
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database holds 44 Instagram influencers like this in Chile for you to collaborate.
 profiles:
   - username: "christianhors"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.014376
     id: ck5c395zlyu3i0i11c31iqfpa
     verified: false
-    hashtags: "#photo, #travel, #likeforlikes, #bike"
+    hashtags: "#ps, #light, #thailand, #shooting"
   - username: "christiangarciaph"
     fullname: >-
       christiangarciaph
@@ -55,18 +55,30 @@ profiles:
     id: ck9weu08gltps0j78gd3oou0n
     verified: false
     hashtags: "#mariocasasfotos, #tbt, #mariocasas, #jueves"
-  - username: "anahi.ve"
+  - username: "catalipedema"
     fullname: >-
-      Anahi Vega
+      Cata Monsalve | Lipedema Lifestyle
     bio: >-
-      🇨🇱Santiago - 23 años ⚖️Estudiante de Derecho (UDP) 💜Feminista 🥦#PlantBased 🏋🏼‍♀️#CrossFitter @justfitness_blackhatcf
+      💕 Outfits Midsize | Amor propio | Lifestyle ✨Trabajando por el Lipedema en @adalich.cl 🇨🇱 📱Más info en el link ⬇️
     location: "Chile"
-    followers: 49377
-    engagement: 527
-    commentsToLikes: 0.058054
-    id: ck6tt7r1193k70j71qka2ewzf
+    followers: 27407
+    engagement: 476
+    commentsToLikes: 0.069870
+    id: clpfe0en7j2oz0k08rt9u8jiu
     verified: false
-    hashtags: "#veganpower, #poweredbyplants, #dermatitisato, #vegan"
+    hashtags: "#bodypositive, #midsizefashion, #bodyneutrality, #plussize"
+  - username: "elialbasetti"
+    fullname: >-
+      Eliana Albasetti
+    bio: >-
+      Actriz 🎭🇦🇷en🇨🇱 Mamá de Emi y Luján Cocinera 🌱Vegana Cofundadora @santuarioempatia Autora 📚 #NoNacíVegana #LosNiñosNosEnseñanSobreEmpatía
+    location: "Chile"
+    followers: 393867
+    engagement: 32
+    commentsToLikes: 0.020061
+    id: ck5zkv5ibk7r70i14104fbmux
+    verified: true
+    hashtags: "#picoteonavidad, #losni, #focaccia, #mimujereselgasfiter"
   - username: "mazoyercath"
     fullname: >-
       Catherine Mazoyer
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.058739
     id: ck5zucely23cv0i14bh1ceevk
     verified: false
-    hashtags: "#fresh, #aionengottalent, #gottalentchile, #chile"
+    hashtags: "#gottalentchile, #fresh, #lifestyle, #aionengottalent"
   - username: "juanaactiscaporale"
     fullname: >-
       JUANA ACTIS CAPORALE
@@ -115,16 +127,4 @@ profiles:
     id: ck5q1hswtb1pe0i11fgrbje81
     verified: false
     hashtags: "#epbookers, #liveboldly, #revlongirlsclub, #encasa"
-  - username: "tere.abumohor"
-    fullname: >-
-      Tere Abumohor 🇨🇱
-    bio: >-
-      🦁Viajes y Aventuras 🎬Fotografa •Filmmaker •Youtuber 🏕👯‍♂️ Síguenos 👉@ruteranas Mujeres en Ruta 4x4! #VanLife 📸IG Fotos @tere.wild 🌍Nuevo 📽Youtube!👇
-    location: "Chile"
-    followers: 41971
-    engagement: 233
-    commentsToLikes: 0.022472
-    id: ck5hofe8gpgr60i111xwygz0x
-    verified: false
-    hashtags: "#aventura, #chile, #vivechile, #viaje"
 ---

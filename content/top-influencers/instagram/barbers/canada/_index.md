@@ -1,12 +1,24 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Canada In 2023
+title: Top 10 Barbers Instagram Influencers In Canada In 2024
 description: >-
-  Find top barbers Instagram influencers in Canada in 2023. Most popular hashtags: #menshair #canada #haircut.
+  Find top barbers Instagram influencers in Canada in 2024. Most popular hashtags: #barber #menshair #haircut.
 platform: Instagram
-hits: 18
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database holds 18 Instagram influencers like this in Canada for you to connect with.
+hits: 30
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat has 30 Instagram influencers like this in Canada for you to pitch.
 profiles:
+  - username: "missvictorious"
+    fullname: >-
+      Victoria Hazell
+    bio: >-
+      Professional Barber | Salon Owner | Educator | Certified Trichologist | Hair Artist | @theofficehairstudio @babylissprocanada @thesocialctv
+    location: "Canada"
+    followers: 33471
+    engagement: 46
+    commentsToLikes: 0.047521
+    id: ck5q8qeve7hmz0i11o4h2wl37
+    verified: false
+    hashtags: "#missvictorious, #babylisspro, #victorioushair, #torontobalayage"
   - username: "marcoprinceton"
     fullname: >-
       Princeton // Toronto Barber 👑
@@ -18,7 +30,7 @@ profiles:
     commentsToLikes: 0.071743
     id: ck5bw3mmzkxnv0i11r25qxkpd
     verified: false
-    hashtags: "#thebarberprince, #royalvseveryone, #halloffadesstudio"
+    hashtags: "#royalvseveryone, #halloffadesstudio, #thebarberprince"
   - username: "farzadthehappybarber"
     fullname: >-
       Farzad Salehi
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.105390
     id: ck8swu8yqf9bv0j78w9stmizb
     verified: false
-    hashtags: "#faded, #wahl, #malton, #surrey"
+    hashtags: "#2020, #wahloffame, #toronto, #barbershopconnect"
   - username: "waseemyouans"
     fullname: >-
       Waseem Youans
@@ -66,7 +78,43 @@ profiles:
     commentsToLikes: 0.008030
     id: ck5hk4s5dhsdj0i11zul9cms7
     verified: false
-    hashtags: "#hairclay, #inspire, #hairstyle, #menshair"
+    hashtags: "#hairtexture, #hairvolume, #wy, #menshair"
+  - username: "thecuriouscreature"
+    fullname: >-
+      Solmaz K
+    bio: >-
+      Award-winning travel & food blogger based in #Toronto. Mama. @destination_toronto ambassador. Iranian 🇨🇦 🎥 TikTok: TheCuriousCreature 44K
+    location: "Canada"
+    followers: 63783
+    engagement: 410
+    commentsToLikes: 0.283001
+    id: ck0vzhujg96dm0i191vlcd7xc
+    verified: false
+    hashtags: "#explorecanada, #bonjourquebec, #torontofoodie, #ad"
+  - username: "_yasmeen_sidhu"
+    fullname: >-
+      Yas Sidhu🧜🏻‍♀️
+    bio: >-
+      🌟 Free spirit ✨ Snap: yasmeensidhu2 Fan of shaheed bhagat Singh 💪🏻 🇮🇳 🇨🇦 🇺🇸
+    location: "Canada"
+    followers: 480832
+    engagement: 637
+    commentsToLikes: 0.004213
+    id: ck6u9v4f1zudu0j71dwszaewz
+    verified: false
+    hashtags: "#brampton, #punjabi, #yasmeensidhu, #viral"
+  - username: "jmlgold"
+    fullname: >-
+      James-Michael Lavigne
+    bio: >-
+      I coach Olympic and aspiring athletes during the day and then I kick back with a great cigar at night. I live to love, laugh, give and win 🥇🥈🥉. 🤝🇨🇦🕋
+    location: "Canada"
+    followers: 38262
+    engagement: 208
+    commentsToLikes: 0.018170
+    id: ck15tdyz8hm4e0i19su2qhjs2
+    verified: false
+    hashtags: "#coach, #kickasscoach, #dedication, #pleasures"
   - username: "erichsaide"
     fullname: >-
       Erich Saide Photography
@@ -78,53 +126,5 @@ profiles:
     commentsToLikes: 0.079245
     id: ck5cabibld3n20i11z1qc8lna
     verified: false
-    hashtags: "#tethertoolspro, #fitnessphotographer, #iso1200, #nikonphotographer"
-  - username: "cbcottawa"
-    fullname: >-
-      CBC Ottawa Community
-    bio: >-
-      Celebrating the city we love. CBC Ottawa’s community Instagram account curated by Communications. For breaking local news, follow @cbcottawanews.
-    location: "Canada"
-    followers: 35395
-    engagement: 60
-    commentsToLikes: 0.041080
-    id: ck5zzbw27bgd50i14tnikq7xp
-    verified: true
-    hashtags: "#strongwomen, #613, #empowerment, #community"
-  - username: "dolino.real"
-    fullname: >-
-      Dolino
-    bio: >-
-      
-    location: "Canada"
-    followers: 3066
-    engagement: 693
-    commentsToLikes: 0.203815
-    id: ck601t273g4fl0i14vmxhmmr3
-    verified: false
-    hashtags: "#canada, #montreal, #coronavirus, #rires"
-  - username: "creatrnick"
-    fullname: >-
-      NC
-    bio: >-
-      creatr • creative direction 📧: nick@creatr.ca photo | video | branding #creatrway
-    location: "Canada"
-    followers: 10850
-    engagement: 244
-    commentsToLikes: 0.076533
-    id: ck0tvz5thdfea0i1904bk7neg
-    verified: false
-    hashtags: "#hamont, #creatr, #creatrway, #notanad"
-  - username: "cbcthenational"
-    fullname: >-
-      CBC News: The National
-    bio: >-
-      Watch The National live at 9 p.m. ET and see more of our stories here ⬇️
-    location: "Canada"
-    followers: 84139
-    engagement: 97
-    commentsToLikes: 0.068170
-    id: ck5q7gbc71f7b0i115c4j7ie7
-    verified: true
-    hashtags: "#covid19, #themoment, #covid, #cbcnews"
+    hashtags: "#vancouverportraitsphotographer, #ironworkers, #betterwhenyoutether, #nikonphotographer"
 ---

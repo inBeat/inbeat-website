@@ -1,12 +1,48 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Italy In 2023
+title: Top 10 Rappers Instagram Influencers In Italy In 2024
 description: >-
-  Find top rappers Instagram influencers in Italy in 2023. Most popular hashtags: #hiphop #rap #pensieri.
+  Find top rappers Instagram influencers in Italy in 2024. Most popular hashtags: #hiphop #hiphopitaliano #rapitaliano.
 platform: Instagram
-hits: 92
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 92 Instagram influencers like this in Italy for you to connect with.
+hits: 97
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 97 Instagram influencers like this in Italy for you to connect with.
 profiles:
+  - username: "neroneofficial"
+    fullname: >-
+      NERONE. AKA BRUCE BARRE AKA MR100K AKA RITA LEVI MORTAL KOMBAT
+    bio: >-
+      BRAVA GENTE w/ @therealensi 2 giugno 2023 👑 MILANO LAST RAPPER ALIVE 👑 WE CAN ALL neronebooking@gmail.com
+    location: "Italy"
+    followers: 139755
+    engagement: 1105
+    commentsToLikes: 0.015308
+    id: ck6tu3e82e2zi0j71ictrxfsa
+    verified: true
+    hashtags: "#mh9, #backvalley"
+  - username: "shamevergogna"
+    fullname: >-
+      SHAME ☢️
+    bio: >-
+      🎶 Freestyler® | MC | Rapper🎙 🥇 Guinness World Recordman🏆 📬 Booking: shamevergogna@outlook.it ASCOLTA IL NUOVO ALBUM⤵️🔥
+    location: "Italy"
+    followers: 19442
+    engagement: 1514
+    commentsToLikes: 0.036996
+    id: ckap558tba96a0i7812zul3mu
+    verified: false
+    hashtags: "#improvvisazione, #freestylerap, #freestylebattle, #yeah"
+  - username: "ghettogeasy"
+    fullname: >-
+      Getoar Selimi
+    bio: >-
+      aka MMV Albanian rapper, songwriter, record producer, fashion designer, and entrepreneur.
+    location: "Italy"
+    followers: 742050
+    engagement: 283
+    commentsToLikes: 0.010273
+    id: ck14l2qnusjyf0i19ivb5y5u6
+    verified: true
+    hashtags: "#zurich, #ghettogeasy, #outnow, #albafestival"
   - username: "tommy_kuti"
     fullname: >-
       Big Tolu
@@ -25,24 +61,12 @@ profiles:
     bio: >-
       Rapper, Producer, Writer, and Jedi Master
     location: "Italy"
-    followers: 10955
-    engagement: 320
-    commentsToLikes: 0.079608
+    followers: 11409
+    engagement: 431
+    commentsToLikes: 0.078984
     id: ck5c4tt2t23b20i11aeou4nby
     verified: false
-    hashtags: "#rapitaliano, #hiphop, #rapnapoletano, #sabato"
-  - username: "flueraroo"
-    fullname: >-
-      Vlad Flueraru 🎵
-    bio: >-
-      🔧 Rapper, Producer @facemrecords ⏰ Noi sesiuni de beatmaking, soon: 🔽🔽🔽
-    location: "Italy"
-    followers: 8967
-    engagement: 1190
-    commentsToLikes: 0.006222
-    id: ck5cfh6nrmy0v0i11vrumr77a
-    verified: false
-    hashtags: "#homedelivery, #asap, #carantunes"
+    hashtags: "#hiphopnapoli, #rapitaliano, #hiphopitaliano, #napoli"
   - username: "davideshorty"
     fullname: >-
       Davide Shorty
@@ -67,18 +91,6 @@ profiles:
     id: ck0vxbho9y35j0i19odql5bzc
     verified: false
     hashtags: "#namdohyon, #crushonu, #dohyon, #bae173"
-  - username: "neroneofficial"
-    fullname: >-
-      NERONE. ENNE E ERRE O ENNE E
-    bio: >-
-      👑 MILANO LAST RAPPER ALIVE 👑 Info- booking-Management: thomas@gunamanagement.com IL CIELO È NEROBLU ⚫️🔵 MAXTAPE 👑
-    location: "Italy"
-    followers: 140979
-    engagement: 1382
-    commentsToLikes: 0.019722
-    id: ck6tu3e82e2zi0j71ictrxfsa
-    verified: true
-    hashtags: "#mh9"
   - username: "ceskielloo"
     fullname: >-
       THE ØNLY ONE CESKIELLØ
@@ -115,16 +127,4 @@ profiles:
     id: ck9hcfyqil7bk0j78hfqwnkl3
     verified: false
     hashtags: "#frasi, #pensierieparole, #vita, #momenti"
-  - username: "espressionerap"
-    fullname: >-
-      Espressione rap
-    bio: >-
-      Ci si esprime sinceramente con il rap ☻. Meme con i rapper ♪ . Citazioni rap ★. Guarda le storie in evidenza Per pubblicità, scrivimi in direct
-    location: "Italy"
-    followers: 8579
-    engagement: 2232
-    commentsToLikes: 0.028396
-    id: ckaos0wq8pno60i78xpgpqe00
-    verified: false
-    hashtags: "#rappermeme, #memeitaliani, #memerapitaliano, #guepequeno"
 ---

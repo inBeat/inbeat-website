@@ -1,24 +1,48 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Belgium In 2023
+title: Top 10 Cyclists Instagram Influencers In Belgium In 2024
 description: >-
-  Find top cyclists Instagram influencers in Belgium in 2023. Most popular hashtags: #cyclist #rideyourbike #lifebehindbars.
+  Find top cyclists Instagram influencers in Belgium in 2024. Most popular hashtags: #cycling #cyclist #procycling.
 platform: Instagram
-hits: 12
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 12 Instagram influencers like this in Belgium for you to work with.
+hits: 14
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 14 Instagram influencers like this in Belgium for you to contact.
 profiles:
   - username: "imogencotter"
     fullname: >-
-      𝙸𝚖𝚘𝚐𝚎𝚗 𝙲𝚘𝚝𝚝𝚎𝚛
+      Imogen Cotter
     bio: >-
-      ☘️ Irish cyclist in Belgium 👩🏻‍🎓 Coach with @panache_coaching 💥 E-rider for @movistar_eteam 💥 IRL rider for @keukensredantcycling
+      👩🏻‍💻 Ex-pro cyclist 🔜 first triathlon 🚨 Road safety advocate ☘️ Irish
     location: "Belgium"
-    followers: 84596
-    engagement: 464
-    commentsToLikes: 0.016667
+    followers: 109045
+    engagement: 466
+    commentsToLikes: 0.025361
     id: ck0w6m35m98ij0i19h3qxh6z4
     verified: false
-    hashtags: "#ad, #pceseries"
+    hashtags: "#sundaythoughts, #procycling, #roadrace, #womenscycling"
+  - username: "fabriziodekoning"
+    fullname: >-
+      Fabrizio Dekoning
+    bio: >-
+      Belgian cyclist 🚴🇧🇪 Sports Physio @rev.training Knokke Wingene | BE 📍 fabrizio.dekoning@gmail.com📩
+    location: "Belgium"
+    followers: 13015
+    engagement: 692
+    commentsToLikes: 0.059882
+    id: ck8t98ngxn88d0j7842guf1bs
+    verified: false
+    hashtags: "#cbearssp, #velogram, #poweredby4iiii, #cyclinglife"
+  - username: "speedywally"
+    fullname: >-
+      Jelle Wallays
+    bio: >-
+      🚴‍♂️ Triathlete & Former Pro cyclist 🏡 Owner @kooon_staden ☕ Coffee Brand Owner Dressed by @castelli.benelux ,@allathletes.be and @naos_optics
+    location: "Belgium"
+    followers: 12812
+    engagement: 382
+    commentsToLikes: 0.027644
+    id: ck5bxar6dncv90i11tlzkrpp5
+    verified: false
+    hashtags: "#triathlon, #nevergiveup, #ironmantri, #tourtocalpe"
   - username: "olivernaesen"
     fullname: >-
       Oliver Naesen
@@ -31,18 +55,6 @@ profiles:
     id: ck0ublmnoetdh0i19vf0xujwb
     verified: false
     hashtags: "#g90, #tdf2020, #sorrybelgium"
-  - username: "fabriziodekoning"
-    fullname: >-
-      Fabrizio Dekoning
-    bio: >-
-      Belgian cyclist 🚴🇧🇪 Physiotherapy @UGent 📚 Wingene | BE 📍 fabrizio.dekoning@gmail.com📩
-    location: "Belgium"
-    followers: 11378
-    engagement: 620
-    commentsToLikes: 0.077873
-    id: ck8t98ngxn88d0j7842guf1bs
-    verified: false
-    hashtags: "#wymtm, #stravacycling, #cbearssp, #roadto2021"
   - username: "tim.wellens"
     fullname: >-
       Tim Wellens
@@ -79,6 +91,18 @@ profiles:
     id: ck5q4zuriqty20i11o3tugy6j
     verified: false
     hashtags: "#zijaanzij"
+  - username: "bertoniiii"
+    fullname: >-
+      ʙᴇʀᴛᴏɴ
+    bio: >-
+      ▪️| MOM & Multibiker ▪️| Brand awareness ▪️| Cycling exploration & education
+    location: "Belgium"
+    followers: 180459
+    engagement: 49
+    commentsToLikes: 0.002201
+    id: ck0u8mred7tfs0i19tf4szwkk
+    verified: false
+    hashtags: "#cycling, #cyclinggirl, #bringyourlife, #cyclingphotos"
   - username: "the_pedaleur"
     fullname: >-
       the_pedaleur
@@ -103,28 +127,4 @@ profiles:
     id: ck0w4oqvtzn3u0i19ieypep67
     verified: false
     hashtags: "#birthday, #jura, #procycling, #rvv"
-  - username: "matteo.declercq"
-    fullname: >-
-      🚴‍♂️ 𝐌𝐚𝐭𝐭𝐞𝐨 𝐃𝐞𝐜𝐥𝐞𝐫𝐜𝐪 🚴‍♂️
-    bio: >-
-      Young 🇧🇪 🚴 Team @smartcyclingdoltcini ambassador ❈ @velotoze ❈ @pipacyclingclub Parents manage this account 👇 subscribe my YouTube
-    location: "Belgium"
-    followers: 19958
-    engagement: 1877
-    commentsToLikes: 0.014376
-    id: ck8t01ojqqj7v0j78xm6mx886
-    verified: false
-    hashtags: "#cyclingculture, #cxiscoming, #cyclingtips, #cx"
-  - username: "sigfrid_eggers"
-    fullname: >-
-      Sigfrid Eggers
-    bio: >-
-      Belgian photographer portrait glamour/commercial/cycling
-    location: "Belgium"
-    followers: 10460
-    engagement: 780
-    commentsToLikes: 0.008803
-    id: ck0u1tz09xxld0i195n3mrohc
-    verified: false
-    hashtags: "#365daysatthewheel, #deceuninckquickstepteam, #commercial, #sonyalpha"
 ---

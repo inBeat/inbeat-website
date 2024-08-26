@@ -1,11 +1,11 @@
 ---
-title: Top 10 Stylists TikTok Influencers In Brazil In 2023
+title: Top 10 Stylists TikTok Influencers In Brazil In 2024
 description: >-
-  Find top stylists TikTok influencers in Brazil in 2023. Most popular hashtags: #fyp #fy #foryou #viral.
+  Find top stylists TikTok influencers in Brazil in 2024. Most popular hashtags: #fyp #fy #viral #foryou.
 platform: TikTok
 hits: 8
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 8 TikTok influencers like this in Brazil for you to connect with.
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 8 TikTok influencers like this in Brazil for you to collaborate.
 profiles:
   - username: "evertonrizze"
     fullname: >-

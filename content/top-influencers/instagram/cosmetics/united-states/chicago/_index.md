@@ -1,24 +1,24 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Chicago In 2023
+title: Top 10 Cosmetics Instagram Influencers In Chicago In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Chicago in 2023. Most popular hashtags: #skincare #makeup #miami.
+  Find top cosmetics Instagram influencers in Chicago in 2024. Most popular hashtags: #makeup #skincare #makeupartist #explorepage.
 platform: Instagram
-hits: 32
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 32 Instagram influencers like this in Chicago, United States for you to collaborate.
+hits: 44
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 44 Instagram influencers like this in Chicago, United States for you to connect with.
 profiles:
-  - username: "officialgabija"
+  - username: "dandrasimmons"
     fullname: >-
-      Gabija Guzauskaite
+      D'Andra Simmons
     bio: >-
-      Model, actress, content creator ✨ REMOTE SHOOTS -> @thegabijaagency MA: @suprisemodelmanagement
+      Actress, Host, Chef & Food Judge, #RHOD ⭐️ @bravotv 🎙Host: Simply Simmons CEO: @hardnightgoodmorning @ultimatelivingd
     location: "United States"
-    followers: 20079
-    engagement: 271
-    commentsToLikes: 0.137281
-    id: ck14hpzjlbjts0i19bjcmwpet
-    verified: false
-    hashtags: "#photooftheday, #losangeles, #cosmetics, #chicagomodel"
+    followers: 336730
+    engagement: 74
+    commentsToLikes: 0.027042
+    id: ck5hgwqz956420i1175uy9z6k
+    verified: true
+    hashtags: "#fashion, #texas, #hngm, #dallasphotographer"
   - username: "realsircruse"
     fullname: >-
       Sir Cruse
@@ -55,76 +55,76 @@ profiles:
     id: ck0u0oa0rubqn0i19ixb0zoea
     verified: true
     hashtags: "#oxanafit, #miami, #oxanarumyantseva, #onlinecoaching"
-  - username: "phil_siegel"
+  - username: "elenaristeska_era"
     fullname: >-
-      Phil | Minnesota | Photography
+      ELENA RISTESKA ERA
     bio: >-
-      📍 Minneapolis | on the list: Chicago, Colorado, NYC, Florida, Toronto, LA Founder/owner @vitality.cosmetics
+      #Singer ( @eurovision 2006), #songwriter & #founder of @era_cosmetics Booking CALL & EMAIL👇🏽 ORDER MY #COSMETICS👇🏽(WORLDWIDE)
     location: "United States"
-    followers: 9771
-    engagement: 964
-    commentsToLikes: 0.068076
-    id: ck5cixr7qtl540i11syl7qv8e
-    verified: false
-    hashtags: "#summerffa"
-  - username: "ramyagmd"
-    fullname: >-
-      Dr. Ramya Garlapati | Derm
-    bio: >-
-      Dermatology resident ⁣⁣ Chicago | Miami⁣⁣ Wifey 💍 to a Derm ⁣⁣ ✖️No DMs for medical advice Shop my product recs 👇🏼
-    location: "United States"
-    followers: 10848
-    engagement: 538
-    commentsToLikes: 0.080453
-    id: ck9hb1pktf0800j78tyg3s31g
-    verified: false
-    hashtags: "#acne, #skincare, #sunscreen, #wrinkles"
-  - username: "maliyahlondyn"
-    fullname: >-
-      Maliyah Londyn
-    bio: >-
-      Beautifully TRANS 🖤 Model - Chicago Fashion Week 2019 Actress - Steppenwolf LOS ‘20 Don't be afraid to take risks If you never try— you'll never know
-    location: "United States"
-    followers: 11465
-    engagement: 2528
-    commentsToLikes: 0.018663
-    id: ckf5l0i2qnwpz0j23vllmhpip
-    verified: false
-    hashtags: "#epilynx, #cleanbeauty, #hydration, #glow"
-  - username: "drchrisgojdz"
-    fullname: >-
-      Krzysztof Gojdź MD, PHD
-    bio: >-
-      🎓Board Certified/Faculty American Academy Aesthetic Med. 📍Miami Beach/ Chicago 👩‍💻@reviveclinic_official 📺Host Discovery TV ⭐️Celebrity/Philantropist
-    location: "United States"
-    followers: 87213
-    engagement: 254
-    commentsToLikes: 0.034636
-    id: ck8t89jpzjkvj0j78hlmxg5se
+    followers: 127992
+    engagement: 232
+    commentsToLikes: 0.059157
+    id: ck15tb7whh8i40i19kw2i58n7
     verified: true
-    hashtags: "#happy, #drgojdz, #love, #happiness"
-  - username: "fabcocoberry"
+    hashtags: "#livemusic, #singer, #chamberorchestra, #concert"
+  - username: "lalaluvbeauty"
     fullname: >-
-      Joyo F Baby
+      Chicago MUA
     bio: >-
-      Ephesians 3:20 🇳🇬📍Chicago 👩🏾‍⚕️ Nurse 💋 Lipstick lover 📧 fabcocoberry@gmail.com 🎥 Youtube 👇🏾
+      Cruelty Free 🐰 Chicago📍 lalaluvbeauty@gmail.com
     location: "United States"
-    followers: 15459
-    engagement: 352
-    commentsToLikes: 0.171353
-    id: ck0uaqedmcwfy0i19be7peq6f
+    followers: 49189
+    engagement: 111
+    commentsToLikes: 0.592778
+    id: ckaouyycs2eyu0i78ws3b02te
     verified: false
-    hashtags: "#kola, #nudelip, #wakeupandmakeup, #lauramercier"
-  - username: "gl1tch_cosplays"
+    hashtags: "#newmakeup, #glowingskin, #crueltyfree, #crueltyfreebeauty"
+  - username: "misslailamcqueen"
     fullname: >-
-      Sapphire Ink
+      Laila McQueen
     bio: >-
-      lvl 21 • Chicago Next Convention: ✨ TBA ✨ Jackalope Code: gl1tch15 ✊🏿✊🏾✊🏽✊🏼✊🏻
+      🏆 Emmy Award Winning Makeup Artist booking inquiries: lailamcqueen@gmail 📍Chicago
     location: "United States"
-    followers: 8393
-    engagement: 575
-    commentsToLikes: 0.007952
-    id: ck8welqoce8tz0j78oed19fgt
+    followers: 267327
+    engagement: 112
+    commentsToLikes: 0.021473
+    id: ck55ndlic5zb10i11hqidhv2w
+    verified: true
+    hashtags: "#turnupthebase, #onesizebeauty, #ad, #sponsored"
+  - username: "theodisseya"
+    fullname: >-
+      TheOdisseya | skincare beauty lifestyle
+    bio: >-
+      Chicago 📍 TikTok @theodisseya theodisseya@gmail.com
+    location: "United States"
+    followers: 30539
+    engagement: 90
+    commentsToLikes: 0.039708
+    id: cl7gc78w0sec20i23v4sp9fgn
     verified: false
-    hashtags: "#duckcosplay, #cosplayersofinstagram, #goodbyedespair, #souleater"
+    hashtags: "#skin, #skincareroutine, #skincareblogger, #koreanskincare"
+  - username: "aryanaheredia"
+    fullname: >-
+      Aryana Heredia🌹
+    bio: >-
+      Welcome My Roses🌹Chicago Makeup Artist🌹 @makeupbyaryana_ 🌹PR inquiries|promo|bookings Email or DM
+    location: "United States"
+    followers: 43114
+    engagement: 191
+    commentsToLikes: 0.017807
+    id: ck0tyz82dohwo0i19c5s7csqu
+    verified: false
+    hashtags: "#bredmasvanity, #makeuptutorials, #wakeupandmakeup, #discoveringmuas"
+  - username: "jessicasbeautyblog_"
+    fullname: >-
+      Jessica | chicago beauty creator
+    bio: >-
+      Makeup ~ Skincare~ Self Care Curly girl w/ combo skin who loves affordable & attainable beauty Out & About in Chicago📍 jessicasbeautyblog20@gmail.com
+    location: "United States"
+    followers: 11972
+    engagement: 58
+    commentsToLikes: 0.069774
+    id: cl7rmj0axxmoy0i23dsfpfugv
+    verified: false
+    hashtags: "#jessicasbeautyblog, #benefitclubpink, #chicagocontentcreator, #easymakeuplook"
 ---

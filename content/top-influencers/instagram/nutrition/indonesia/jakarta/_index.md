@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Jakarta In 2023
+title: Top 10 Nutrition Instagram Influencers In Jakarta In 2024
 description: >-
-  Find top nutrition Instagram influencers in Jakarta in 2023. Most popular hashtags: #jakarta #nutrition #herbalife #herbalifeindonesia.
+  Find top nutrition Instagram influencers in Jakarta in 2024. Most popular hashtags: #jakarta #shakeherbalife #herbalifenutrition #herbalifeindonesia.
 platform: Instagram
-hits: 31
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 31 Instagram influencers like this in Jakarta, Indonesia for you to collaborate.
+hits: 32
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 32 Instagram influencers like this in Jakarta, Indonesia for you to connect with.
 profiles:
   - username: "joko.widodo_"
     fullname: >-
@@ -31,18 +31,30 @@ profiles:
     id: ck8t82w8piwrk0j78ub1ubsmm
     verified: false
     hashtags: "#shakeherbalife, #bandung, #taiwan, #herbalifejakarta"
-  - username: "alfonzheng"
+  - username: "yusufhendratnoo"
     fullname: >-
-      Alfon Zheng アルフォン
+      Yusuf Hendratno | Aspire To Inspire
     bio: >-
-      📷 🎥 @alfonphotographie & @kalyanastudio 🎹 🎼 Song Writer, Pianist, Composer 📩 DM or email for business! #jakarta #jambi ⬇️ DHAMMA WAY - Official MV
+      🏆| BA @mutant.idn 💼| Model - Content Creator - Digital Preneur 🎓| Fitness & Nutrition Coach @fitnwell.101 📧 Email for job & inquiries
     location: "Indonesia"
-    followers: 7505
-    engagement: 1090
-    commentsToLikes: 0.054675
-    id: ck9whb0ajx3m10j78zg0ij2qr
+    followers: 298013
+    engagement: 161
+    commentsToLikes: 0.017797
+    id: ck13cwlks2iqg0i19ybxtc9v4
     verified: false
-    hashtags: "#qotd, #muscle, #studio, #flash"
+    hashtags: "#fitness, #workout, #trip, #lifestyle"
+  - username: "put.ang"
+    fullname: >-
+      Putri Anggraeni
+    bio: >-
+      Nutrition Stud Brand Ambassador of @acnesid Putri Pariwisata Indonesia - DKI JAKARTA’22 business inq : DM
+    location: "Indonesia"
+    followers: 27629
+    engagement: 30
+    commentsToLikes: 0.006946
+    id: ck9whnzo0yr5d0j78hhlj2fnt
+    verified: false
+    hashtags: "#growupandglowupwithilluminare, #growupandglowup, #storyofputang, #pondsvitaminmicellarwater"
   - username: "venila.grosir"
     fullname: >-
       venila.grosir
@@ -55,6 +67,18 @@ profiles:
     id: ck13as1q5rw7k0i194tfbuxgr
     verified: false
     hashtags: "#bajumurmer, #sarwendah, #thaliaonsu, #thania"
+  - username: "brodibalo"
+    fullname: >-
+      Brodibalo | Fitness, Health and Science!
+    bio: >-
+      I help transform your body! 📖 B. MedSci, Nutrition Science 🥘@madaboutprotein ☟ Coaching, Consults, Contact:
+    location: "Indonesia"
+    followers: 102882
+    engagement: 189
+    commentsToLikes: 0.025772
+    id: ck6uc14k7cvl60j71ui2j38gw
+    verified: false
+    hashtags: "#madaboutprotein, #defisitkalori, #fitness, #tipslatihan"
   - username: "makankenyang56"
     fullname: >-
       Makan Kenyang
@@ -103,28 +127,4 @@ profiles:
     id: ck0u8y1u48itm0i192qw2ms3t
     verified: false
     hashtags: "#nutrition, #healthyeating, #shakeherbalife, #fansnikita"
-  - username: "niikiitamirzanimawardi_17"
-    fullname: >-
-      akun fans💞
-    bio: >-
-      🚻akun fans bebs,. akun nyai yang asli 👇👇👇👇👇👇👇👇👇 @nikitamirzanimawardi_17 @nikitamirzanimawardi_172 📌Fans nyai niki follow ya
-    location: "Indonesia"
-    followers: 83252
-    engagement: 60
-    commentsToLikes: 0.014669
-    id: ckap1gq6cuiv90i78qe68fyzt
-    verified: false
-    hashtags: "#herbalifejakarta, #faktanutrisi, #nikitamirzani, #bandung"
-  - username: "janethes.galeri"
-    fullname: >-
-      Jan Ethes Galeri
-    bio: >-
-      Mau tau keseruan mas Ethes? Info kerjasama klik link dibawah
-    location: "Indonesia"
-    followers: 33666
-    engagement: 211
-    commentsToLikes: 0.011777
-    id: ck0u8y1d38isd0i193p2u1ptc
-    verified: false
-    hashtags: "#janethes, #cucujokowi, #kaesangpangarep, #presidenjokowi"
 ---

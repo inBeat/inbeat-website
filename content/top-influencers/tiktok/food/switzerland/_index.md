@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Switzerland In 2023
+title: Top 10 Food TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top food TikTok influencers in Switzerland in 2023. Most popular hashtags: #food #fyp #viral #foryou.
+  Find top food TikTok influencers in Switzerland in 2024. Most popular hashtags: #fyp #foryou #switzerland #viral.
 platform: TikTok
 hits: 50
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our platform holds 50 TikTok influencers like this in Switzerland for you to pitch.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 50 TikTok influencers like this in Switzerland for you to connect with.
 profiles:
   - username: "thispronto"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       Man ist nicht dumm, nur weil man etwas nicht kann! ❤️ sie/ihr/ihre
     location: "Switzerland"
-    followers: 17200
-    engagement: 723
-    commentsToLikes: 0.040759
+    followers: 17100
+    engagement: 707
+    commentsToLikes: 0.041795
     id: ck8qgc4ly09wq0j78li1ao8nz
     verified: false
-    hashtags: "#foodtiktok, #1minuterezept, #rezeptideen, #einfachkochen"
+    hashtags: "#foodtiktok, #tiktokmama, #rezeptideen, #1minuterezept"
   - username: "worldeconomicforum"
     fullname: >-
       World Economic Forum
@@ -79,30 +79,18 @@ profiles:
     id: ckafu405k8twm0i78j274l97r
     verified: false
     hashtags: "#yummy, #nature, #christmas, #wildlife"
-  - username: "delikates.ch"
-    fullname: >-
-      delikates.ch
-    bio: >-
-      ☺️ FOLGE MIR AUF INSTA 😊 ⬆️ Oder Besuch mich in meinen Shop⬇️ Code: NEXT18FIVE
-    location: "Switzerland"
-    followers: 3990
-    engagement: 180
-    commentsToLikes: 0.039336
-    id: ck8tlndh7c7my0j781m6cfa20
-    verified: false
-    hashtags: "#tutorials, #diy, #fyp, #tiktokkoch"
   - username: "mrsflury"
     fullname: >-
       Mrs Flury
     bio: >-
-      Doris 🌻 Gesunde Rezepte Insta @mrsflury #eatgoodfood BLOG | YOUTUBE | SHOP👇🏻
+      Doris 🌻 Gesunde Rezepte Insta @mrsflury #eatgoodfood MEIN BUCH 🤗👇🏻
     location: "Switzerland"
-    followers: 70600
-    engagement: 840
-    commentsToLikes: 0.014061
+    followers: 73100
+    engagement: 929
+    commentsToLikes: 0.015306
     id: ck8qgc40n09rq0j78lb0w0w5d
     verified: false
-    hashtags: "#gesund, #whatieatinaday, #rezepte, #vegan"
+    hashtags: "#plantbased, #easy, #rezepte, #backen"
   - username: "normanofficially.tv"
     fullname: >-
       👑 NORMANOFFICIALLY.tv 👑
@@ -115,6 +103,18 @@ profiles:
     id: ck8opvh504q9g0j78dlu49lpu
     verified: false
     hashtags: "#italy, #italia, #swiss, #italiano"
+  - username: "rico.dmnr"
+    fullname: >-
+      sunkid 🔆
+    bio: >-
+      🌻Typ mit Herz🦦 ☮︎♡✌︎☺︎︎ 𝘀𝗻𝗮𝗽: 𝗿𝗶𝗰𝗼.𝗱𝗺𝗻𝗿 🇨🇭artist✍🏼
+    location: "Switzerland"
+    followers: 30900
+    engagement: 636
+    commentsToLikes: 0.073304
+    id: ckb8znptef4y80j2371s0ri8e
+    verified: false
+    hashtags: "#love, #peace, #lovealwayswins, #nurderbvb"
   - username: "ichesseleim"
     fullname: >-
       Ichesseleim

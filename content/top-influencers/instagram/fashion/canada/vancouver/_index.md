@@ -1,24 +1,108 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Vancouver In 2023
+title: Top 10 Fashion Instagram Influencers In Vancouver In 2024
 description: >-
-  Find top fashion Instagram influencers in Vancouver in 2023. Most popular hashtags: #fashion #vancouver #ootd.
+  Find top fashion Instagram influencers in Vancouver in 2024. Most popular hashtags: #vancouver #fashion #photography.
 platform: Instagram
-hits: 99
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 99 Instagram influencers like this in Vancouver, Canada for you to collaborate.
+hits: 192
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 192 Instagram influencers like this in Vancouver, Canada for you to pitch.
 profiles:
-  - username: "imaansaboune"
+  - username: "elizagraciehodgson"
     fullname: >-
-      Imaan Sabouné
+      eliza hodgson
     bio: >-
-      fashion, skincare & more fashion vancouver ✉️ imaansaboune@gmail.com @bentleythebernedoodledog
+      travel • hotels • fashion vancouver based | photo & video @pinkpalmmedia
     location: "Canada"
-    followers: 20578
-    engagement: 226
-    commentsToLikes: 0.252429
-    id: ck5q1j7rcb94x0i118ogiwjbb
+    followers: 5527
+    engagement: 786
+    commentsToLikes: 0.110126
+    id: ckzosommbif940j231dlyrsjp
     verified: false
-    hashtags: "#revolveme, #bentleythebernedoodle, #michaelkors, #sukis"
+    hashtags: "#dametraveler, #socality, #femalephotographer, #livebravely"
+  - username: "melissasollee"
+    fullname: >-
+      Melissa Sol
+    bio: >-
+      style • beauty • fashion vancouver • nyc 💌 melissasol.contact@gmail.com youtube, outfit links ↓
+    location: "Canada"
+    followers: 109261
+    engagement: 594
+    commentsToLikes: 0.442021
+    id: cl9ra3f86m5w90i23ck1cfl2y
+    verified: false
+    hashtags: "#liketkit, #michaelkors, #mkpartner, #ootdreel"
+  - username: "thebarkhadiaries"
+    fullname: >-
+      Barkha Patel
+    bio: >-
+      wellness • motivation • fashion Vancouver girl thriving on routines🧸 rn entire personality revolves around 🩷ིྀ PR/collabs : barkha.npatel@gmail.com
+    location: "Canada"
+    followers: 39149
+    engagement: 177
+    commentsToLikes: 0.045412
+    id: clo3xkk8am8pj0j08dlims2my
+    verified: false
+    hashtags: "#girlthings, #coffeelover, #pinterestaesthetic, #selfcarethreads"
+  - username: "katewhytephoto"
+    fullname: >-
+      Kate Whyte
+    bio: >-
+      West Coast Official Canon Ambassador Profoto Light Shaper
+    location: "Canada"
+    followers: 67588
+    engagement: 122
+    commentsToLikes: 0.024604
+    id: ck0tzccd1ps540i19z3gh3olz
+    verified: false
+    hashtags: "#byrdiebeauty, #editorial, #modeling, #profoto"
+  - username: "vancityplus"
+    fullname: >-
+      Vancity+
+    bio: >-
+      Vancouver BC 🇨🇦 We Repost 🔄 Use Hashtag #vancityplus to get your content reposted with us
+    location: "Canada"
+    followers: 100380
+    engagement: 16
+    commentsToLikes: 0.003226
+    id: ck9havcgyeap40j78izhimp1v
+    verified: false
+    hashtags: "#downtownvancouver, #bc, #gastown, #toronto"
+  - username: "keeratgillsharma"
+    fullname: >-
+      Keerat Gill
+    bio: >-
+      Sr. Accountant | Entrepreneur | YouTuber 100K + Chandigarh🇮🇳|Vancouver 🇨🇦 For Collaboration- keeratgillsharma@gmail.com Managed by @marketinghook21
+    location: "Canada"
+    followers: 48393
+    engagement: 1713
+    commentsToLikes: 0.008370
+    id: clnjn0nduo6j00j08hluunxey
+    verified: false
+    hashtags: "#foryou, #canada, #vancouver, #vancouverinfluencers"
+  - username: "igursimran"
+    fullname: >-
+      ਗਰੇਵਾਲ
+    bio: >-
+      ਕਦੇ ਦਿਲਾਂ ਨੂੰ ਰਾਹ ਦਿਲਾਂ ਦੇ ਨਈ ਭੁੱਲਦੇ
+    location: "Canada"
+    followers: 106127
+    engagement: 1331
+    commentsToLikes: 0.008056
+    id: ckap8p52ypc3r0i78gw1c5l42
+    verified: false
+    hashtags: "#surrey, #phulkari, #canada, #floraltattoo"
+  - username: "niraarora"
+    fullname: >-
+      Nira Arora - Media - POC
+    bio: >-
+      🔹RadioHost🔹TV🔹Speaker🔹Blogger🔹Producer 🔹Storyteller🔹TEDxModerator🔹Content Creator🔹Mom of 3🔹Wifey🔹Dreamer🔹Spirituality Seeker🔹Grateful #NirasHotList
+    location: "Canada"
+    followers: 14996
+    engagement: 111
+    commentsToLikes: 0.041490
+    id: cksiaddvrbq2k0j23tt99fwur
+    verified: false
+    hashtags: "#nirashotlist, #604, #vancity, #momofagirl"
   - username: "macyngrae"
     fullname: >-
       MACYN GRAE WATCHORN | model
@@ -30,101 +114,17 @@ profiles:
     commentsToLikes: 0.225697
     id: ck9hcx0vonbd90j78wz5r8jp1
     verified: false
-    hashtags: "#yyj, #pauseshot, #ltkfashion, #alyaskin"
-  - username: "rahatavakolifard"
+    hashtags: "#minimalstylist, #aestheticaccounts, #corefemales, #100flavouruk"
+  - username: "miriellecloutier"
     fullname: >-
-      Raha Tavakolifard🤍
+      mirielle ♥
     bio: >-
-      ☕️ Lifestyle & Fashion 🤎 Vancouver, bc ✨ ubc kinesiology ‘21 🕊 @serenitynchic
+      vancouver | fashion, beauty + lifestyle cat mommy 🐈🐈‍⬛ ✉️ miriellecloutier32@gmail.com my small business 🤍 @angelsonly
     location: "Canada"
-    followers: 5622
-    engagement: 677
-    commentsToLikes: 0.101157
-    id: ck9hcahe6kick0j78wlrs6tls
+    followers: 28648
+    engagement: 395
+    commentsToLikes: 0.074468
+    id: cksiadeoebqtq0j23y83m8vtx
     verified: false
-    hashtags: "#thesuitelifeofzackandcody, #kollyy"
-  - username: "shehnaznijjar"
-    fullname: >-
-      Shehnaz Nijjar
-    bio: >-
-      Makeup & hair artist | Modern astrologer 🤍 For any inquiries & 1:1 consultations⬇️ 📩| shehnaznijjar@hotmail.com 📍| Vancouver 🌎 | Available for travel
-    location: "Canada"
-    followers: 27508
-    engagement: 74
-    commentsToLikes: 0.024165
-    id: ck6u0hiidfqb80j71aclleqqz
-    verified: false
-    hashtags: "#tamannaombreextentions, #motn, #vancouverinfluencer, #followforfollow"
-  - username: "ellenartsig"
-    fullname: >-
-      Ellen Sigurdson
-    bio: >-
-      Vancouver BC~📸 Fuji X-H1 ~ #photographer
-    location: "Canada"
-    followers: 6965
-    engagement: 656
-    commentsToLikes: 0.032997
-    id: ck5hsaswiw9zi0i11tq4258aj
-    verified: false
-    hashtags: "#photography, #vancitywears, #portrait, #filmwave"
-  - username: "rachelp8i"
-    fullname: >-
-      Rachel
-    bio: >-
-      💼 Real Estate Advisor 📍Vancouver 🇨🇦 ❤️ Fashion & 🏡 ★ DM for Collab / Inquiry 📩
-    location: "Canada"
-    followers: 21009
-    engagement: 84
-    commentsToLikes: 0.071830
-    id: ck9wdvnsdhgzr0j78nasyugeq
-    verified: false
-    hashtags: "#mood, #knowyourworth, #familytime, #mondaymood"
-  - username: "jessieka._"
-    fullname: >-
-      Jessica
-    bio: >-
-      📍Vancouver Island {Fashion Marketing} 📩 jessica.yezhkova@gmail.com Custom Clothing -> @pickdapart
-    location: "Canada"
-    followers: 8268
-    engagement: 645
-    commentsToLikes: 0.026123
-    id: ckf5ufpsvkqla0j23aqbfvuoj
-    verified: false
-    hashtags: ""
-  - username: "theopenjournal"
-    fullname: >-
-      T A S H A
-    bio: >-
-      𝓜𝔂 𝓣𝔀𝓸 𝓒𝓮𝓷𝓽𝓼 Lifestyle | Fashion | Beauty 📍Vancouver 🤍Authentic > perfect 👓Read my captions 💌Tasha@TheOpenJournal.Net ⬇️ Blog
-    location: "Canada"
-    followers: 19559
-    engagement: 387
-    commentsToLikes: 0.045185
-    id: ck5q95z1j9kcw0i118jfk13qa
-    verified: false
-    hashtags: "#sheingals, #shein, #gifted, #ad"
-  - username: "jazrabarnes"
-    fullname: >-
-      Jazrabarnes
-    bio: >-
-      Fashion | Beauty | Hacks & DIYs on TikTok @jazrabarnes Content Creator & Digital Marketing jazrabarnes.collabs@gmail.com
-    location: "Canada"
-    followers: 22298
-    engagement: 315
-    commentsToLikes: 0.127320
-    id: ck6u3pvlrz6xm0j71psh4fgpx
-    verified: false
-    hashtags: "#stylereel, #summeraesthetic, #giveaway, #aesthetic"
-  - username: "jdphotostudios"
-    fullname: >-
-      JD Photo Studios
-    bio: >-
-      Award Winning Wedding Photographer. Based in Vancouver BC, Available Worldwide 🌎 📧 info@jdphotos.ca #jdphotostudios
-    location: "Canada"
-    followers: 17028
-    engagement: 196
-    commentsToLikes: 0.022388
-    id: ck0w0rbkdfneo0i19zd4fgwml
-    verified: false
-    hashtags: "#authenticlovemag, #vancouver, #indianbridal, #weddingwire"
+    hashtags: "#getdressedwithme, #cozyoutfits, #plt, #zara"
 ---

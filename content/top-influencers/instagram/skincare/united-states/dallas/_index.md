@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Dallas In 2023
+title: Top 10 Skincare Instagram Influencers In Dallas In 2024
 description: >-
-  Find top skincare Instagram influencers in Dallas in 2023. Most popular hashtags: #skincare #dallasblogger #dallasinfluencer #skincareroutine.
+  Find top skincare Instagram influencers in Dallas in 2024. Most popular hashtags: #skincare #dallas #ootd #dallasinfluencer.
 platform: Instagram
-hits: 53
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 53 Instagram influencers like this in Dallas, United States for you to collaborate.
+hits: 90
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 90 Instagram influencers like this in Dallas, United States for you to pitch.
 profiles:
-  - username: "missearthusa"
+  - username: "paigexmackenzie"
     fullname: >-
-      Miss Earth USA
+      Paige Mackenzie
     bio: >-
-      Marisa Paige Butler Official preliminary to @missearth #MissEarthUSA #MissEarth #BeautiesforaCause
+      20/DTX📍 TikTok: paigemackenzie (8M+) Business email: paige.mackenzie1@yahoo.com Snapchat: paigekenzie02
     location: "United States"
-    followers: 38870
-    engagement: 54
-    commentsToLikes: 0.039183
-    id: ck6tpogptl6dn0j71hedghx2l
+    followers: 390235
+    engagement: 478
+    commentsToLikes: 0.006064
+    id: ck5ceq8v2lhpn0i111v1r5itz
     verified: false
-    hashtags: "#swimwear, #models, #nyfw, #mrsusaearth"
-  - username: "joannaczechofficial"
+    hashtags: "#trend, #insta, #reelsinstagram, #relatable"
+  - username: "iamnicolejae"
     fullname: >-
-      Joanna Czech
+      Nikki
     bio: >-
-      • Esthetician • Founder of CzechList • Dior Global Skincare Expert • NYC + Dallas #JoannaCzech #Czeched
+      Skincare | Beauty | Lifestyle | Video Creator Licensed Esthetician Evolving Daily 💫 ✉️ contact@iamnicolejae.com Owner of @blackandblushlaser 📍 Dallas
     location: "United States"
-    followers: 163037
-    engagement: 112
-    commentsToLikes: 0.038971
-    id: ck0twg5kjf8700i19uda4ecfr
-    verified: true
-    hashtags: "#linkinbio, #tbt"
-  - username: "afifa.aadil"
-    fullname: >-
-      Afifa. Toronto | Dallas 🇵🇰🇨🇦🇱🇷
-    bio: >-
-      FOHR Verified🎗 Pakistani Canadian In Texas Beauty | Fashion | Lifestyle 📺 YouTube: Afifa Aadil 🎥 Tik Tok: Afifa.aadil 📩 neverbeoutofstyle@gmail.com
-    location: "United States"
-    followers: 58881
-    engagement: 93
-    commentsToLikes: 0.109180
-    id: ck9wgiexotk0a0j78jtb7wa5n
+    followers: 72498
+    engagement: 290
+    commentsToLikes: 0.046148
+    id: clmg75g9u9ads0j08uj3d0zb4
     verified: false
-    hashtags: "#toronto, #markham, #torontoinfluencer, #torontocanada"
-  - username: "go__ryy"
+    hashtags: "#dallasesthetician, #houston, #napa, #blackinfluencers"
+  - username: "emilyylandon"
     fullname: >-
-      Alyssa Ryen| Dallas Trainer
+      Emily Landon
     bio: >-
-      Masters Shawty📚 🤓 Let’s Reach Your Business & Body Goals❗️😏 💰 CLICK the Link ⬇️
+      ICT 🌾—>DTX 🫶🏼 tik tok @emilyfromkansassss 💌 emily.landon94@gmail.com dm for collabs 📲 add me on snapchat @ emily.landon 🤍
     location: "United States"
-    followers: 36211
-    engagement: 115
-    commentsToLikes: 0.036035
-    id: ckap8821ln8i80i78nje64c3f
+    followers: 20195
+    engagement: 171
+    commentsToLikes: 0.002733
+    id: cl3ca31e33y580i233gnc0ub0
     verified: false
-    hashtags: "#melaninmom, #blackmom, #millenialmom, #fitchallenge"
+    hashtags: "#dayinmylife, #ootd, #socialmediagrowth, #comedy"
+  - username: "looksbyarie"
+    fullname: >-
+      Ariella Beamon
+    bio: >-
+      ✨Master Esthetician & Mentor ✨7 Years+ ✨Electrologist- Hair Removal ✨Natural Skincare & Waxing ✨Shop @skinonbeam ✨Book us here @lss_spa_planotx
+    location: "United States"
+    followers: 18423
+    engagement: 98
+    commentsToLikes: 0.021993
+    id: ckvb785le5yyp0j23ox4ek968
+    verified: false
+    hashtags: "#blackesthetician, #esthetician, #planoesthetician, #skinonbeam"
+  - username: "trulymeganblog"
+    fullname: >-
+      Megan Saustad
+    bio: >-
+      UGC Creator | Fashion | Beauty | Skincare | Over 50 | Dallas, TX Collabs 💌megan@trulymegan.com All Links Here ⬇️
+    location: "United States"
+    followers: 35550
+    engagement: 608
+    commentsToLikes: 0.063738
+    id: ck0vzqxedagw20i19kyr2nh6r
+    verified: false
+    hashtags: "#pumiey, #trulymeganstyle, #pumieytees, #styleover40"
   - username: "glowperfecto"
     fullname: >-
-      I L S E  |  Content Creator
+      I L S E | Beauty Content Creator
     bio: >-
-      〰️skincare & beauty enthusiast 📍Dallas,TX 🖋 English/Spanish #latinablogger 💌 glowperfecto@gmail.com Shop With Me👇🏻
+      ✨Let’s glow together | skincare & beauty 📍Dallas, TX | Latina 💌 glowperfecto@gmail.com Save some money + more…👇🏻
     location: "United States"
-    followers: 12580
-    engagement: 135
-    commentsToLikes: 0.243594
+    followers: 12029
+    engagement: 89
+    commentsToLikes: 0.145444
     id: ck13czaoe2vog0i19h816na51
     verified: false
-    hashtags: "#skinstagram, #sephora, #octolyfamily, #cleanbeauty"
-  - username: "brittanyardito"
+    hashtags: "#acne, #cleanbeauty, #realskin, #acneproneskincare"
+  - username: "haley.ringenberg"
     fullname: >-
-      Brittany Ardito
+      HALEY CHRISTINE
     bio: >-
-      Sharing what I love & what might help others. Health, Beauty & Dogs #dogsitter Follow my pups @texandrowdy 📍 Dallas, TX 📧 britsilver04@gmail.com
+      Jesus. lifestyle | wellness | travel soon to be doodle mom 🐾 @coco.thedallasdoodle @jexyagency
     location: "United States"
-    followers: 10968
-    engagement: 241
-    commentsToLikes: 0.143385
-    id: cl8balz1g3ddv0i235byjgofi
+    followers: 15897
+    engagement: 19
+    commentsToLikes: 0.000000
+    id: ckrliokkrfb0y0j23cyc8wr1g
     verified: false
-    hashtags: "#keto, #glutenfree, #texasinfluencer, #texturetuesday"
-  - username: "thebrand_beline"
+    hashtags: "#mexico, #helicopter, #workoutset, #cabosanlucas"
+  - username: "its.stephj"
     fullname: >-
-      Brittany
+      Stephany J | Dallas Beauty + Lifestyle
     bio: >-
-      📍CLT✈️DTX Beauty | Skincare | Fashion 📧BritStribling06@gmail.com #benefitclubpink 💗TikTok: TheBeLine_2 💗YouTube: TheBeLine
+      🇭🇹 beauty • lifestyle • ugc • dallas adventures 💌 thestephanyjean@gmail.com 📍Dallas, TX
     location: "United States"
-    followers: 24645
-    engagement: 522
-    commentsToLikes: 1.382875
-    id: ck5bu5ta8h7fz0i11zu01u7da
+    followers: 8310
+    engagement: 153
+    commentsToLikes: 0.063212
+    id: cllq9oylixt130j08gy7caww5
     verified: false
-    hashtags: "#renaissance, #benefitcosmetics, #makeuptransformation, #coffinnails"
-  - username: "thehautechristian"
+    hashtags: "#selfcare, #ugccreator, #skincare, #wellnesslifestyle"
+  - username: "dandrasimmons"
     fullname: >-
-      ⇺TᕼE ᕼᗩᑌTE ᑕᕼᖇIᔕTIᗩᑎ⇻
+      D'Andra Simmons
     bio: >-
-      𝙲𝚛𝚎𝚊𝚝𝚒𝚟𝚎𝚕𝚢 𝙳𝚒𝚟𝚎𝚛𝚜𝚎 𝙳𝚒𝚐𝚒𝚝𝚊𝚕 𝙲𝚛𝚎𝚊𝚝𝚘𝚛▪︎𝙸𝚗𝚏𝚕𝚞𝚎𝚗𝚌𝚎𝚛 𝙳𝚊𝚕𝚕𝚊𝚜▪︎𝚃𝚇 #𝚃𝚑𝚎𝙷𝚊𝚞𝚝𝚎𝙲𝚑𝚛𝚒𝚜𝚝𝚒𝚊𝚗
+      Actress, Host, Chef & Food Judge, #RHOD ⭐️ @bravotv 🎙Host: Simply Simmons CEO: @hardnightgoodmorning @ultimatelivingd
     location: "United States"
-    followers: 70473
-    engagement: 295
-    commentsToLikes: 0.050274
-    id: ck0w00ug2bttp0i19vc6y7nsw
-    verified: false
-    hashtags: "#picoftheday, #wellness, #beautyblogger, #fashionaccessories"
-  - username: "thedallasaesthetician"
+    followers: 336730
+    engagement: 74
+    commentsToLikes: 0.027042
+    id: ck5hgwqz956420i1175uy9z6k
+    verified: true
+    hashtags: "#fashion, #texas, #hngm, #dallasphotographer"
+  - username: "paigeforrest"
     fullname: >-
-      SAVANNA BODA AESTHETICS ♡︎
+      Paige Martindell
     bio: >-
-      ★ ethical + results driven aesthetics ☆ @theskinpen HEAD AMBASSADOR ★ @dermascope IN HOUSE ESTHETICIAN ☆ @theblondestpodcast ★ REAPPLY TIL YOU DIE ©
+      Dallas | Fueled by His strength† Fitness Instructor & Graphic Designer Co-Owner + Creative: @class_studios @lululemon legacy ambassador
     location: "United States"
-    followers: 166361
-    engagement: 305
-    commentsToLikes: 0.025231
-    id: ck14hr9tebqeu0i19s63j2izy
+    followers: 11161
+    engagement: 644
+    commentsToLikes: 0.144166
+    id: ck0ucamt0gcsl0i199uow2uol
     verified: false
-    hashtags: "#skincarememe, #estiebestie, #dfwesthetician, #skincare"
-  - username: "chinalatinadfw"
-    fullname: >-
-      CHINA LATINA DFW
-    bio: >-
-      Multicultural Lifestyle 🏆 Award Winning Influencer 💎 Jewelry Designer @minerdeng Get 20% OFF with code CHINALATINA20 💻 Creative @yourmarketingmedia
-    location: "United States"
-    followers: 21108
-    engagement: 150
-    commentsToLikes: 0.062612
-    id: ckaoqn1ypjg6q0i78ljajvlib
-    verified: false
-    hashtags: "#dallasevents, #ootdfashion, #dallaslifestyleblogger, #styleinspo"
+    hashtags: "#supportlocal, #hatcollection, #giveaway, #psadventuring"
 ---

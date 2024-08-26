@@ -1,12 +1,48 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Barcelona In 2023
+title: Top 10 Cosmetics Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Barcelona in 2023. Most popular hashtags: #fashion #barcelona #moda #summer.
+  Find top cosmetics Instagram influencers in Barcelona in 2024. Most popular hashtags: #skincare #makeup #fashion.
 platform: Instagram
-hits: 24
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 24 Instagram influencers like this in Barcelona, Spain for you to pitch.
+hits: 27
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 27 Instagram influencers like this in Barcelona, Spain for you to pitch.
 profiles:
+  - username: "glorirovi"
+    fullname: >-
+      🦁Glorirovi
+    bio: >-
+      📍Barcelona 𝗖𝗘𝗢 @pina_rizada 🌀Recupera y luce tus rizos Con mi método curly ⬇️
+    location: "Spain"
+    followers: 88977
+    engagement: 609
+    commentsToLikes: 0.345555
+    id: ck14jhydbkfsb0i19hgiggb4i
+    verified: false
+    hashtags: "#cocunat, #corte, #cocunatrocks, #naturalcosmetics"
+  - username: "natalie_ortegaa"
+    fullname: >-
+      Natalie Ortega
+    bio: >-
+      Spanish/ Norwegian Barcelona📍Traveling✈️🌎 MA Heartbreak mgmt 🇳🇴 | MAD 🇪🇸 | FashionCult 🇬🇷
+    location: "Spain"
+    followers: 17839
+    engagement: 282
+    commentsToLikes: 0.397176
+    id: ck0w6w57majkf0i199mgoqs7f
+    verified: false
+    hashtags: "#photoshoot, #blond, #goldenhour, #makeup"
+  - username: "justinagafaro"
+    fullname: >-
+      JUSTINA GAFARO
+    bio: >-
+      founder of @gafaro.beautyhouse creator of @bygafaro cosmetics made in EU www.gafaro.com
+    location: "Spain"
+    followers: 56909
+    engagement: 24
+    commentsToLikes: 0.034546
+    id: ck5zkmuzhjrmh0i14f7ynu3cl
+    verified: false
+    hashtags: "#loveofmylife, #sister, #dubai, #thelanadubai"
   - username: "eirebrush"
     fullname: >-
       𝐼𝓇𝑒𝓃𝑒 𝓂𝑜𝓃𝓉𝑒𝓈
@@ -30,7 +66,7 @@ profiles:
     commentsToLikes: 0.234149
     id: ck6u3igg5xz220j715klj0obb
     verified: false
-    hashtags: "#pinkducklondon, #primor, #onlinecosmeticos, #maquillajeespa"
+    hashtags: "#onlinecosmeticos, #nyxespa, #skinglazing, #beautybaycom"
   - username: "mariiiasanchz"
     fullname: >-
       María Sánchez
@@ -54,7 +90,7 @@ profiles:
     commentsToLikes: 0.028008
     id: ck5c3aw4iyxm60i11u1a1p61n
     verified: false
-    hashtags: "#dragundiva, #makeup, #revolutionmakeup, #kvdveganbeauty"
+    hashtags: "#highlight, #colourpopme, #anastasiabeverlyhills, #dragundiva"
   - username: "agustinadeveras"
     fullname: >-
       Agus De Veras | Make Up Artist
@@ -85,46 +121,10 @@ profiles:
     bio: >-
       𝔸𝕤𝕥𝕦𝕣𝕚𝕒𝕟𝕠 𝕖𝕟 𝕄𝕒𝕕𝕣𝕚𝕕 & 𝕚𝕟 𝕝𝕠𝕧𝕖 𝕨𝕚𝕥𝕙 𝕃𝕚𝕤𝕓𝕠𝕟 ❤️
     location: "Spain"
-    followers: 12298
-    engagement: 929
-    commentsToLikes: 0.118338
+    followers: 12155
+    engagement: 1046
+    commentsToLikes: 0.113014
     id: ck5q0v6lj7xlb0i11q2fexp39
     verified: false
-    hashtags: "#vibes, #igersmadrid, #goodvibes, #igersspain"
-  - username: "gabbyrucci"
-    fullname: >-
-      GABBY RUCCI💖 Ourglam.com
-    bio: >-
-      🌵Happy #lifestyle🌵 Tips de Belleza🔹Moda🔸Makeup 29K Youtube |Emprendedora💎 💫 Unidas somos magia💫 📩info@ourglam.com #monatespaña #influencerespaña
-    location: "Spain"
-    followers: 26422
-    engagement: 257
-    commentsToLikes: 0.029000
-    id: ck5ztj8yx0ioi0i14y42m29t7
-    verified: false
-    hashtags: "#influencerbarcelona, #monat, #blondie, #fitgirl"
-  - username: "dibarzstyle"
-    fullname: >-
-      Desireé Ibarz
-    bio: >-
-      #periodista #fashionblogger 🦄 Live 💖 Love 🙃 Laugh✌️ 📩 desibarz90@gmail.com
-    location: "Spain"
-    followers: 33405
-    engagement: 398
-    commentsToLikes: 0.102217
-    id: ck6tk2gd93vl10j713pozfyql
-    verified: false
-    hashtags: "#tarragona, #barcelona, #beautiful, #influencer"
-  - username: "cynthiaoficial_"
-    fullname: >-
-      Cynthia Martinez
-    bio: >-
-      🎙Presentadora/Colab Tv 🎬Actriz 👗MissBcn2007 C.E.O @cynthia_microbeauty Micropigmentadora TikTok cynthiamartinez19 📩 Contrataciones 649950297(Tatiana)
-    location: "Spain"
-    followers: 82109
-    engagement: 258
-    commentsToLikes: 0.051750
-    id: ckap0nsjbr3w10i78xs5sqft0
-    verified: true
-    hashtags: "#madrid, #influencer, #photooftheday, #model"
+    hashtags: "#holidays, #lifestyle, #fashionstyle, #vibes"
 ---

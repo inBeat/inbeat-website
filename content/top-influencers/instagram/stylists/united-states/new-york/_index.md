@@ -1,36 +1,36 @@
 ---
-title: Top 10 Stylists Instagram Influencers In New York In 2023
+title: Top 10 Stylists Instagram Influencers In New York In 2024
 description: >-
-  Find top stylists Instagram influencers in New York in 2023. Most popular hashtags: #fashion #stylist #photooftheday.
+  Find top stylists Instagram influencers in New York in 2024. Most popular hashtags: #stylist #fashion #newyork #beauty.
 platform: Instagram
-hits: 256
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 256 Instagram influencers like this in New York, United States for you to connect with.
+hits: 284
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database holds 284 Instagram influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "marinaingvarsson"
+  - username: "em_henderson"
     fullname: >-
-      Marina Ingvarsson
+      Emily Henderson
     bio: >-
-      Stylist, New York. 📮marina@bonaupetite.com
+      Stylist, New York Times bestselling author of STYLED, TV personality, and founder of stylebyemilyhenderson.com. #showemyourstyled #showemyourdiy
     location: "United States"
-    followers: 112136
-    engagement: 154
-    commentsToLikes: 0.012233
-    id: ck0vy5pny2d110i19y51ztofh
+    followers: 1023470
+    engagement: 19
+    commentsToLikes: 0.014343
+    id: ckzp0bqlmjgy90j23hso0l050
     verified: false
-    hashtags: "#stayhome, #cuffbag, #quarantine, #ad"
-  - username: "hybridhues"
+    hashtags: "#madewellpartner, #ourarticle, #wayfair, #ltkfindsunder100"
+  - username: "mc.cloudd"
     fullname: >-
-      Reva Bhatt
+      Latoya/Azima
     bio: >-
-      creative director and stylist 📍 new york + los angeles 💌 reva.bhatt@gmail.com
+      ✎ Never a failure, Always a lesson Freelance stylist/model ✉ for inquiries: latoyamccloudd@gmail.com
     location: "United States"
-    followers: 18150
-    engagement: 776
-    commentsToLikes: 0.032477
-    id: ck0ubn61nf09k0i19ghvxgdmh
+    followers: 6726
+    engagement: 80
+    commentsToLikes: 0.024825
+    id: clq918c3n5bhb0k08dgtvjd6z
     verified: false
-    hashtags: "#greygooseessences, #essencesinbloom, #wevegotoureyeson, #warbyparker"
+    hashtags: "#getthelook, #zalandostyle, #ootd, #stylecreator"
   - username: "tillztime"
     fullname: >-
       Tillie🧜🏻‍♀️☔️♉️
@@ -67,6 +67,42 @@ profiles:
     id: ck14iy90ahpse0i19dxl2f1vw
     verified: false
     hashtags: "#creative, #brooklyn, #style, #fashion"
+  - username: "robinlirb"
+    fullname: >-
+      Ruo Bing Li
+    bio: >-
+      Photographer | Director based in NYC represented by @saintlukeartists
+    location: "United States"
+    followers: 28945
+    engagement: 196
+    commentsToLikes: 0.012814
+    id: ck0ue8r87kr430i19s6i24xbo
+    verified: false
+    hashtags: "#editorial, #summer, #color, #macro"
+  - username: "seanhatahit"
+    fullname: >-
+      Hisham htahit
+    bio: >-
+      Hair Artist | Freelance Educator “Work Is Love Visible” KG 📍OC Hair Room 💇🏽‍♀️Certifications ⏬ ◾️Chris Appleton ◾️Glam seamless, Bellami
+    location: "United States"
+    followers: 24677
+    engagement: 55
+    commentsToLikes: 0.148464
+    id: ckq6b07elihi70j23hzb1p5bz
+    verified: false
+    hashtags: "#behindthechair, #seanhatahithair, #hairgoals, #hairtransformation"
+  - username: "sagarmanjarres"
+    fullname: >-
+      Sagar Manjarres
+    bio: >-
+      📍Currently #barcelona #photography | #coaching | #workshops www.sagarmanjarres.com Unpublished work, BTS, retouching & moodboards here:
+    location: "United States"
+    followers: 48635
+    engagement: 269
+    commentsToLikes: 0.040543
+    id: ckf5ommz62va80j23ypsqogje
+    verified: false
+    hashtags: "#modeltest, #modelagency, #sunlight, #sun"
   - username: "thalygomezzz"
     fullname: >-
       Thalia Gomez 🕊
@@ -79,18 +115,6 @@ profiles:
     id: ckaotxa6pxwzs0i78ir2f34yb
     verified: false
     hashtags: "#photography, #outfits, #fashionstyle, #instagood"
-  - username: "adelyhernandezz"
-    fullname: >-
-      Adely
-    bio: >-
-      🎭Performing Arts student 💃🏻Model and Actress 🏠Not your typical Realtor®
-    location: "United States"
-    followers: 21553
-    engagement: 675
-    commentsToLikes: 0.036289
-    id: ckap26k62xlbh0i78i433o7iz
-    verified: false
-    hashtags: "#model, #babesofinstagram, #photography, #instagram"
   - username: "livvofficial"
     fullname: >-
       Livv. 🕊
@@ -103,28 +127,4 @@ profiles:
     id: ck5zyo76oa8bm0i14cpiauowd
     verified: false
     hashtags: "#bbtalkspobcast, #simplesinging, #love, #shurebeta58a"
-  - username: "annikawhite"
-    fullname: >-
-      annika
-    bio: >-
-      ☆彡 stylist + creative brand 📍 new york city 💌 annikawhite0@gmail.com
-    location: "United States"
-    followers: 9760
-    engagement: 409
-    commentsToLikes: 0.027065
-    id: ck6uib7zfe3vf0j71myg6j7aa
-    verified: false
-    hashtags: ""
-  - username: "jesseszewczyk"
-    fullname: >-
-      Jesse Szewczyk⠀⠀⠀
-    bio: >-
-      new york // food stylist + recipe writer 📔 Cookies: The New Classics (out Oct 26) is now available for preorder ↓
-    location: "United States"
-    followers: 42264
-    engagement: 231
-    commentsToLikes: 0.037717
-    id: ck0u878bz6ktk0i19w4hzgkwx
-    verified: false
-    hashtags: "#quarantinecookies2020, #bakeittilyoumakeit, #ad"
 ---

@@ -1,24 +1,36 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Russia In 2023
+title: Top 10 Cinema Instagram Influencers In Russia In 2024
 description: >-
-  Find top cinema Instagram influencers in Russia in 2023. Most popular hashtags: #filmisnotdead #sunsiyamresorts #movie.
+  Find top cinema Instagram influencers in Russia in 2024. Most popular hashtags: #shooting #tcp #cinema.
 platform: Instagram
-hits: 241
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 241 Instagram influencers like this in Russia for you to work with.
+hits: 245
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 245 Instagram influencers like this in Russia for you to collaborate.
 profiles:
-  - username: "nikino.kino"
+  - username: "ralitsapaskaleva"
     fullname: >-
-      VERONIKA FILM PHOTOGRAPHER
+      Ralitsa K. Paskaleva
     bio: >-
-      Film photographer, actress and model in love with arts and cinematography 📸 Фотограф пленочный, модель. Сотрудничество - DM💌 #фотографминск
+      TV Host “Игри на Волята: България” ⚔️ “Oh how Shakespeare would have loved cinema!” 🎬
     location: "Russia"
-    followers: 10876
-    engagement: 977
-    commentsToLikes: 0.070716
-    id: ck0tzf2ohq4vm0i19hqodo287
+    followers: 168883
+    engagement: 635
+    commentsToLikes: 0.051823
+    id: ckapc894s2sq10i78iznnneqm
     verified: false
-    hashtags: "#filmislove, #filmisnotdead, #filmlovers, #filmlove"
+    hashtags: "#novabg, #igrinavoliata5, #igrinavoliata, #novatv"
+  - username: "emma.sapunjyan"
+    fullname: >-
+      Emma Sapunjyan
+    bio: >-
+      📩For cooperation: @ids__media Official Instagram of Armenian actress Emma Sapunjyan Graduated Yerevan State Institute of Theatre and Cinematography
+    location: "Russia"
+    followers: 87058
+    engagement: 317
+    commentsToLikes: 0.006760
+    id: ck6ueahz9ps360j7198sajffe
+    verified: false
+    hashtags: "#azatanibaryan, #etechlinersut, #anardarblic"
   - username: "xenichez"
     fullname: >-
       Xenie Zasetskaya
@@ -91,18 +103,6 @@ profiles:
     id: ck139p4mvmfoj0i19yffimkzh
     verified: false
     hashtags: ""
-  - username: "nika_shatova"
-    fullname: >-
-      Nika Shatova ★ Iliushina
-    bio: >-
-      • Photographer @nikashatova.ru • esthetic pics • style | outfits | inspo | cinemalover • живые будни в сториз ✍🏻 ig.nikashatova@gmail.com
-    location: "Russia"
-    followers: 185693
-    engagement: 251
-    commentsToLikes: 0.009144
-    id: ck5zrhgn1wl3r0i14s4n0ysq4
-    verified: false
-    hashtags: "#sunsiyam, #iruveli, #sunsiyamresorts, #messyhair"
   - username: "janson.art"
     fullname: >-
       ARTHUR "BezBit" JANSON

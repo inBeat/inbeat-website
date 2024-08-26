@@ -1,12 +1,24 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Durban In 2023
+title: Top 10 Beauty Instagram Influencers In Durban In 2024
 description: >-
-  Find top beauty Instagram influencers in Durban in 2023. Most popular hashtags: #beauty #southafrica #reels #travel.
+  Find top beauty Instagram influencers in Durban in 2024. Most popular hashtags: #beauty #skincare #fashion #reels.
 platform: Instagram
-hits: 4
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 4 Instagram influencers like this in Durban, South Africa for you to collaborate.
+hits: 8
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 8 Instagram influencers like this in Durban, South Africa for you to connect with.
 profiles:
+  - username: "amandajingela"
+    fullname: >-
+      Belinda
+    bio: >-
+      📍Durban | 🎓Environmentalist | Beauty Enthusiast | Brand Influencer | YouTube channel ⬇️
+    location: "South Africa"
+    followers: 202495
+    engagement: 116
+    commentsToLikes: 0.013406
+    id: ck14ik1lgfst40i19ze5nyz1l
+    verified: false
+    hashtags: "#lorealproza, #ceravepartner, #jimmychoo, #darkandlovelymaintenancerange"
   - username: "innographer"
     fullname: >-
       Innographer
@@ -19,6 +31,42 @@ profiles:
     id: ck5zu2r2e1km00i14450k4dm8
     verified: false
     hashtags: "#blackwomen, #potrait, #culture, #bantuknot"
+  - username: "katlego_tefu"
+    fullname: >-
+      Katlego Tefu
+    bio: >-
+      Fashion, Beauty, Hair & Everything Else! Collabos : kt@mansamusabrands.co.za Styling : ktefu@yahoo.com New videos weekly 👇🏽
+    location: "South Africa"
+    followers: 17493
+    engagement: 191
+    commentsToLikes: 0.038249
+    id: ck6u4o0ti4tlh0j716qfc7snm
+    verified: false
+    hashtags: "#fashionstyle, #casualstyle, #fashiongram, #reelsinstagram"
+  - username: "hausofkendy"
+    fullname: >-
+      Kendra | Lifestyle | UGC
+    bio: >-
+      📸 Beauty, Fashion & Lifestyle Content Creator ✨ 📧 admin@hausofkendy.co.za 📍 Jhb TFG Rewards Gamification👇🏽
+    location: "South Africa"
+    followers: 38566
+    engagement: 96
+    commentsToLikes: 0.053076
+    id: ck14kwq4zrpa10i19wbo1w3rh
+    verified: false
+    hashtags: "#hausofkendy, #southafricanstyle, #undiscoveredunder50k, #beautyblogger"
+  - username: "kunene_ayanda"
+    fullname: >-
+      Ayanda Kunene
+    bio: >-
+      South African 🇿🇦 Twin: @amanda_Kunene 📍 CPT: @20modelmanagement 📍 DBN: @bossmodelsdbn
+    location: "South Africa"
+    followers: 5804
+    engagement: 252
+    commentsToLikes: 0.067949
+    id: ck138fd3bfyxf0i199d208qt8
+    verified: false
+    hashtags: "#fashion, #southafrica, #likeforlikes, #safari"
   - username: "vergetherappersa"
     fullname: >-
       ☆VERGE THE RAPPER☆
@@ -30,7 +78,7 @@ profiles:
     commentsToLikes: 0.233658
     id: ckap1ye6ywlqv0i782kg54cz7
     verified: false
-    hashtags: "#newmusic, #soviet, #travel, #thelegacyyard"
+    hashtags: "#insta, #yourself, #loveyourself, #lifestyle"
   - username: "withlovebloomingrose"
     fullname: >-
       Aminah Gallie
@@ -43,88 +91,40 @@ profiles:
     id: ck136p5yx7ksg0i19ai5exdqp
     verified: false
     hashtags: "#houseplants, #plantsmakepeoplehappy, #girlswithplants, #capetown"
-  - username: "kaminipather"
+  - username: "roxyamas"
     fullname: >-
-      Kamini Like Harmony
+      Roxy Barker
     bio: >-
-      Host of #GirlEatWorldTV @Netflix SAFTA winner @MasterChef_SA winner S2. Runner.
+      ℕ𝕠𝕥 𝕪𝕠𝕦𝕣 𝕒𝕧𝕖𝕣𝕒𝕘𝕖 𝕚𝕟𝕤𝕥𝕒𝕘𝕣𝕒𝕞 𝕞𝕠𝕕𝕖𝕝 Pro makeup artist @makeup_by_roxy_ Stylist & Creator @__raidmycloset WBFF Bikini Pro
     location: "South Africa"
-    followers: 36569
-    engagement: 148
-    commentsToLikes: 0.144325
-    id: ckaost6k2szaw0i78ocytqyhn
+    followers: 43617
+    engagement: 138
+    commentsToLikes: 0.014172
+    id: ck0w49eacxfyk0i195a1n2l0w
+    verified: false
+    hashtags: "#womenstyle, #streetstyle, #instagood, #instafashion"
+  - username: "dimmaumeh"
+    fullname: >-
+      DIMMA UMEH
+    bio: >-
+      Beauty | Fashion | Lifestyle dimmaumeh@bossmgmtgrp.com (Global) info@dimmaumeh.com (Nigeria)
+    location: "South Africa"
+    followers: 220355
+    engagement: 778
+    commentsToLikes: 0.017173
+    id: ck15pef3mxh7o0i19us74nj99
     verified: true
-    hashtags: "#food, #supportlocal, #win, #competition"
-  - username: "kay.yarms"
+    hashtags: "#streamingforafrica, #esteelauderdreamdusk, #perfumecollection, #ashowforeveryshowmaxer"
+  - username: "nikitajoshua"
     fullname: >-
-      Kay Yarms
+      NIKITA JOSHUA
     bio: >-
-      God • Beauty • Lifestyle @saxxbeauty 💎 YouTube : Kay Yarms
+      Momma | digital content creator | model | pro makeup artist beauty | fashion | lifestyle owner @prettybishbeauty co-founder @shopcalnik Cape Town
     location: "South Africa"
-    followers: 433820
-    engagement: 632
-    commentsToLikes: 0.007879
-    id: ck5hmtw11mm800i11j8u3psf6
+    followers: 34639
+    engagement: 610
+    commentsToLikes: 0.025989
+    id: ck5q1k1wmbddf0i113a465475
     verified: false
-    hashtags: "#keepwalkingsa, #hiltonbig5, #youbelong, #ad"
-  - username: "katlego_tefu"
-    fullname: >-
-      Katlego Tefu
-    bio: >-
-      Fashion, Beauty, Hair & Everything Else! Collabos : kt@mansamusabrands.co.za Styling : ktefu@yahoo.com New videos weekly 👇🏽
-    location: "South Africa"
-    followers: 16874
-    engagement: 394
-    commentsToLikes: 0.033650
-    id: ck6u4o0ti4tlh0j716qfc7snm
-    verified: false
-    hashtags: "#thespot, #styleinspiration, #brunchoutfit, #rotd"
-  - username: "thelastmaharaja"
-    fullname: >-
-      Jiveshen Moodley
-    bio: >-
-      Noor Fawaar ✨🫧 Son of Venus ♎️ Beauty Junkie 🙆🏽‍♂️ Joburg | London 🇿🇦🇬🇧 Innit
-    location: "South Africa"
-    followers: 10198
-    engagement: 587
-    commentsToLikes: 0.048089
-    id: ckap3qdwx43sz0i78nxp0ygj3
-    verified: false
-    hashtags: "#favoboys, #pride, #gay, #pov"
-  - username: "charlixboi"
-    fullname: >-
-      Charli X Boi
-    bio: >-
-      Hello, Hi 👋 I’m Charli and this is my journal filled with #beauty #grooming & #selfcare 🦄 @clicks_sa #clicksbeautysquad 🎬 Director @nimblemediaza
-    location: "South Africa"
-    followers: 17123
-    engagement: 63
-    commentsToLikes: 0.170458
-    id: ck5c261ajwlr00i11zda4ydsm
-    verified: false
-    hashtags: "#makeuplover, #makeuplovers, #face, #sunprotection"
-  - username: "diariesofanislandergirl"
-    fullname: >-
-      ZAINAH | LIFESTYLE BLOGGER
-    bio: >-
-      📍 Mauritian 🇲🇺 ♡ owner @_mocouture_ ♡ bookworm @diariesofabooknerd ♡ beauty - skincare - food - fashion ♡ Join my group ‘Lady Loves’ on Facebook!👇
-    location: "South Africa"
-    followers: 10575
-    engagement: 612
-    commentsToLikes: 0.018917
-    id: ck5hqose9tghk0i11u4gxah0n
-    verified: false
-    hashtags: "#mauritianblogger, #maurice, #mauritius, #lifestyleblogger"
-  - username: "majestic_mey"
-    fullname: >-
-      Razaan Meyer-Khan 🖤
-    bio: >-
-      Fashion, Beauty & Lifestyle Content Creator Promos & PR: info@majesticza.co.za | NO DMs ↘️ shop @majesticza_
-    location: "South Africa"
-    followers: 232492
-    engagement: 893
-    commentsToLikes: 0.149581
-    id: ck6u4o8l84uvj0j71pe28pxwj
-    verified: false
-    hashtags: "#beautyathomewithu, #forgirlsbygirls, #youdosummer"
+    hashtags: "#gifted, #parentstobe, #colorstay, #vanityline"
 ---

@@ -1,12 +1,120 @@
 ---
-title: Top 10 Painters Instagram Influencers In United Kingdom In 2023
+title: Top 10 Painters Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top painters Instagram influencers in United Kingdom in 2023. Most popular hashtags: #figurativeart #oilpainting #artistsoninstagram #painting.
+  Find top painters Instagram influencers in United Kingdom in 2024. Most popular hashtags: #art #contemporaryart #painting.
 platform: Instagram
-hits: 373
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 373 Instagram influencers like this in United Kingdom for you to collaborate.
+hits: 646
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat has 646 Instagram influencers like this in United Kingdom for you to collaborate.
 profiles:
+  - username: "childartiste"
+    fullname: >-
+      child.
+    bio: >-
+      a painter.
+    location: "United Kingdom"
+    followers: 33175
+    engagement: 430
+    commentsToLikes: 0.031543
+    id: ck0tte51y2cgd0i19pk3ecckr
+    verified: false
+    hashtags: "#alexandermcqueen"
+  - username: "haideejosummers"
+    fullname: >-
+      Haidee-Jo Summers VPROI RSMA
+    bio: >-
+      I find beauty in the ordinary places 🧡 Vice President of the Royal Institute of Oil painters Royal Society of Marine Artists⚓️ More info & website ⬇️
+    location: "United Kingdom"
+    followers: 61100
+    engagement: 289
+    commentsToLikes: 0.047264
+    id: ck0vy9afy2uv40i194w2tfrdi
+    verified: false
+    hashtags: "#pleinairmagazine, #keeponkeepingon, #happyplace, #happypainter"
+  - username: "alicesheridanstudio"
+    fullname: >-
+      Alice Sheridan | artist
+    bio: >-
+      London painter Art Juice no.1 podcast Connected Artist membership 🥳 open during May 👇 come on in!
+    location: "United Kingdom"
+    followers: 49109
+    engagement: 257
+    commentsToLikes: 0.086505
+    id: ck5zj9pqbh7ai0i14tbj5zrpm
+    verified: false
+    hashtags: "#londonliving, #sketchbookpages, #abstractcollage, #markmaking"
+  - username: "byrebeccamorris"
+    fullname: >-
+      Rebecca Morris
+    bio: >-
+      UK painter of large-scale expressionist skies & landscapes. Private & group tuition available - DM for details. Solo exhibition March 3-11, GL50 1SW.
+    location: "United Kingdom"
+    followers: 12120
+    engagement: 152
+    commentsToLikes: 0.045890
+    id: ckap1h6a1ukpj0i78e7rzwvkp
+    verified: false
+    hashtags: "#skyscapepainting, #alwayslookingup, #bigexpressiveskies, #byrebeccamorris"
+  - username: "matthewstoneart"
+    fullname: >-
+      Matthew Stone
+    bio: >-
+      The digital painter. Artist working with paint & computers to create works on screens and linen.
+    location: "United Kingdom"
+    followers: 111173
+    engagement: 142
+    commentsToLikes: 0.025817
+    id: ck0vzr56xahzb0i197yaji0h9
+    verified: false
+    hashtags: "#matthewstone, #painting, #digitalpainting, #art"
+  - username: "ninabrookeart"
+    fullname: >-
+      NINA BROOKE
+    bio: >-
+      THE AERIAL SEASCAPE PAINTER Contemporary British Artist from Cornwall Limited Edition Prints & Original Artwork
+    location: "United Kingdom"
+    followers: 37511
+    engagement: 135
+    commentsToLikes: 0.022811
+    id: ck6002yamcuzv0i141ukya8q9
+    verified: false
+    hashtags: "#st, #gallery, #art, #painting"
+  - username: "ianrayersmith"
+    fullname: >-
+      Ian Rayer-Smith
+    bio: >-
+      Contemporary Expressionist Painter. Studios in Cheshire & Shropshire, England. Only original paintings. No NFTs
+    location: "United Kingdom"
+    followers: 90300
+    engagement: 120
+    commentsToLikes: 0.027210
+    id: ckaoqq2x4ju6f0i78yiee3pil
+    verified: false
+    hashtags: "#manchester, #dekooning, #london, #modernart"
+  - username: "shan_mcconnell"
+    fullname: >-
+      Shannon McConnell
+    bio: >-
+      Manchester Fashion, makeup & hair styling MUA & Body Painter - @shannonmcconnellartistry Brand Enquiries - Please Click Email Link Below
+    location: "United Kingdom"
+    followers: 17233
+    engagement: 51
+    commentsToLikes: 0.016785
+    id: ck6u3ptp5z6ld0j716077a2wr
+    verified: false
+    hashtags: "#boohoobabes, #monochromefashion, #transitionaloutfit, #casualoutfitideas"
+  - username: "solangesmith"
+    fullname: >-
+      Madhatter
+    bio: >-
+      Painter | Poet AKIRA 1.0 I AM THE BAD THAT MADE ME Tess Mgmt | D Mgmt 🇫🇷 🇳🇱 🇲🇾 🇨🇳 Kristina@tessmanagement.com
+    location: "United Kingdom"
+    followers: 138790
+    engagement: 1
+    commentsToLikes: 0.001843
+    id: ck5hpo7errp0a0i11mo8xwef4
+    verified: false
+    hashtags: "#lfw, #mulberryengland, #mulberrypimlico"
   - username: "maya_gat"
     fullname: >-
       Maya Gat Tattoos 🌿 מיה גת
@@ -18,113 +126,5 @@ profiles:
     commentsToLikes: 0.069048
     id: ckf5mm1zkufzc0j23pzpw6z21
     verified: false
-    hashtags: "#tattoos, #tatts, #tattooideas, #tattooed"
-  - username: "massimilianopironti"
-    fullname: >-
-      Massimiliano Pironti
-    bio: >-
-      Royal Society of Portrait Painters 2020-Mall Galleries, London 3rd Prize BP Portrait Award 2019 National Portrait Gallery, London BP PortraitAward2018
-    location: "United Kingdom"
-    followers: 16956
-    engagement: 1128
-    commentsToLikes: 0.051197
-    id: ck6u6fxyffdo20j71i2sj06qq
-    verified: false
-    hashtags: "#artoftheday, #oilportrait, #paintpaintpaint, #pintura"
-  - username: "shan_mcconnell"
-    fullname: >-
-      Shannon McConnell
-    bio: >-
-      Manchester Brand Enquiries - Please Click Email Link Below Body Painter & MUA - @shannonmcconnellartistry Fine Art Grad👩🏼‍🎨 TikTok - shannonmcconnell8
-    location: "United Kingdom"
-    followers: 17357
-    engagement: 254
-    commentsToLikes: 0.102406
-    id: ck6u3ptp5z6ld0j716077a2wr
-    verified: false
-    hashtags: "#motelrocks, #primarkuk, #manchesterstyle, #outfitideasforyou"
-  - username: "jadelaurice"
-    fullname: >-
-      Jade Laurice
-    bio: >-
-      Painter @Pocalondon Shop my heART 🎨 #BLM🇬🇧 💌Jade@kmprpublicitymanagement.co.uk Mgmt @kmpr_publicity YouTube▶️Jadelaurice Depop:POCALONDON ♈️🏳️‍🌈👽🦋
-    location: "United Kingdom"
-    followers: 54498
-    engagement: 284
-    commentsToLikes: 0.048589
-    id: ck55mcwyj3ook0i11bo2z8c67
-    verified: false
-    hashtags: "#ad, #inyourdreamsworkshop, #cantubeautyuk, #quebellabeauty"
-  - username: "janefrenchartist"
-    fullname: >-
-      Jane French
-    bio: >-
-      Exhibited with Royal Soc of Portrait Painters 2020 Royal Institute of Oil Painters 2020 Available for commissions & teaching Based in Leicester, UK
-    location: "United Kingdom"
-    followers: 17065
-    engagement: 1079
-    commentsToLikes: 0.015260
-    id: ck9halulnd0ps0j78ofb9pe4a
-    verified: false
-    hashtags: "#paotw, #tbt, #mypaotw"
-  - username: "frances_bell_paintings"
-    fullname: >-
-      Frances Bell
-    bio: >-
-      Painter. 🇬🇧. Member of the Royal Society of Portrait Painters. #francesbellartist
-    location: "United Kingdom"
-    followers: 27580
-    engagement: 678
-    commentsToLikes: 0.018706
-    id: ck135p1ee2iq20i1991eloe6v
-    verified: false
-    hashtags: "#portraiture, #oilportrait, #charcoaldrawing, #northumberland"
-  - username: "mitch_griffiths_paint"
-    fullname: >-
-      Mitch Griffiths
-    bio: >-
-      Oil Painter. Represented by @halcyongallery 144-146 New Bond St. Mayfair, London, Uk.
-    location: "United Kingdom"
-    followers: 80340
-    engagement: 551
-    commentsToLikes: 0.012822
-    id: ck5cc4hpugph00i11k9444tia
-    verified: true
-    hashtags: "#paint, #chiaroscuro, #figurativepainting, #paintinghands"
-  - username: "sblackartistry"
-    fullname: >-
-      Sophie Black
-    bio: >-
-      🎨Makeup artist & body painter ✨TikTok (16.7k)- sblackartistry 📍UK ✉️ PR/enquiries: sblackartistry@gmail.com
-    location: "United Kingdom"
-    followers: 3169
-    engagement: 1034
-    commentsToLikes: 0.361945
-    id: ckf5xcoriv6xp0j23nuw9wt7h
-    verified: false
-    hashtags: "#mehron, #makeupdolls, #makeuprevolution, #makeup"
-  - username: "simon_davis_painter"
-    fullname: >-
-      Simon Davis VPRP RBSA
-    bio: >-
-      Painter and comic book illustrator based in London. Vice-president of the Royal Society of Portrait Painters..
-    location: "United Kingdom"
-    followers: 43300
-    engagement: 446
-    commentsToLikes: 0.014585
-    id: ck5hh9l9k73sp0i11atktwx32
-    verified: false
-    hashtags: "#occult, #sepia, #darkness, #comics"
-  - username: "buttonfruit"
-    fullname: >-
-      GiLL BUTTON
-    bio: >-
-      post@gillbutton.com London based painter
-    location: "United Kingdom"
-    followers: 90727
-    engagement: 381
-    commentsToLikes: 0.049107
-    id: ck5q23q0ve49m0i11yni9b6v0
-    verified: false
-    hashtags: "#gillbutton, #jamesfreemangallery, #londonartfair, #oilonlinen"
+    hashtags: "#tattoo, #tattooartist, #spiritedaway, #tats"
 ---

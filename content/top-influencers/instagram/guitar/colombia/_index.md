@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Colombia In 2023
+title: Top 10 Guitar Instagram Influencers In Colombia In 2024
 description: >-
-  Find top guitar Instagram influencers in Colombia in 2023. Most popular hashtags: #guitar #music #tbt #photography.
+  Find top guitar Instagram influencers in Colombia in 2024. Most popular hashtags: #guitar #tbt #music #guitarist.
 platform: Instagram
-hits: 28
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 28 Instagram influencers like this in Colombia for you to connect with.
+hits: 30
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 30 Instagram influencers like this in Colombia for you to pitch.
 profiles:
   - username: "tobytobon"
     fullname: >-
@@ -103,28 +103,28 @@ profiles:
     id: ck5hq855zso9w0i111m6wbqco
     verified: false
     hashtags: "#stage, #nature, #snow, #guitar"
-  - username: "andeezeta"
+  - username: "alfredoautiero"
     fullname: >-
-      Andee Zeta
+      Alfredo Autiero Benassai
     bio: >-
-      Artist ⚡️ Producer ⚡️Song Writer 2 x Grammy winner Medellín📍 Welcome to my life 🎶🐶😸🍺🎵 Escucha: LO BONITO ES SIMPLE👇👇👇
+      Operador de Turismo hacia Zonas Remotas Guía de Montaña... Enamorado de la luz, el color y la vida. "Eco Trip Match" al Mejor Guía de Naturaleza 2021
     location: "Colombia"
-    followers: 44605
-    engagement: 172
-    commentsToLikes: 0.091510
-    id: ck5he8j3yrlyk0i11jqo3ndsu
-    verified: true
-    hashtags: "#bogota, #newmusic, #newsingalert, #fashionphotography"
-  - username: "astriid.oficial1"
-    fullname: >-
-      A S T R I I D
-    bio: >-
-      Cantante / compositora 👁‍🗨.👁‍🗨 BAILA REGGAETÓN Escúchalo aqui👇
-    location: "Colombia"
-    followers: 6181
-    engagement: 93
-    commentsToLikes: 0.082740
-    id: ck9hc311yjj5h0j78p694m7x9
+    followers: 9822
+    engagement: 566
+    commentsToLikes: 0.075172
+    id: ck6uhluhm9v9f0j71wxnr7pi5
     verified: false
-    hashtags: "#instagood, #photography, #flow, #reggaeton"
+    hashtags: "#monta, #nepal2023, #nepal, #nostalgia"
+  - username: "juliantrujilloactor"
+    fullname: >-
+      Julián Trujillo
+    bio: >-
+      Colombiano
+    location: "Colombia"
+    followers: 429633
+    engagement: 304
+    commentsToLikes: 0.073231
+    id: ck5c0zr88u5xt0i11ekzcdvrk
+    verified: false
+    hashtags: "#grabaciones, #colombia, #2022, #lacasadelosfamosos"
 ---

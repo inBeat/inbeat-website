@@ -1,72 +1,108 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Miami In 2023
+title: Top 10 Comedians Instagram Influencers In Miami In 2024
 description: >-
-  Find top comedians Instagram influencers in Miami in 2023. Most popular hashtags: #comedy #miami #funny #comedian.
+  Find top comedians Instagram influencers in Miami in 2024. Most popular hashtags: #comedy #miami #funny #comedian.
 platform: Instagram
-hits: 36
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 36 Instagram influencers like this in Miami, United States for you to work with.
+hits: 56
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 56 Instagram influencers like this in Miami, United States for you to pitch.
 profiles:
-  - username: "marlonwayans"
+  - username: "marioramilcomedy"
     fullname: >-
-      Marlon Wayans
+      MARIO RAMIL | MIAMI
     bio: >-
-      Come see me LIVE 👇... I’m on some other shit
+      Tampa Improv Feb 22 🎟️🎟️
     location: "United States"
-    followers: 5854682
-    engagement: 93
-    commentsToLikes: 0.019512
-    id: ck0tx4i80hvj20i19vkh6pg4y
-    verified: true
-    hashtags: "#whitechicks, #classic, #wayanswednsdays, #comedyinmiami"
-  - username: "realchingobling"
-    fullname: >-
-      RED PILL TAMALES PODCAST 🫔💊
-    bio: >-
-      aka Gringo Bling 🤘🏽Freedom of speech tour! 🇺🇸🫔🔌
-    location: "United States"
-    followers: 216288
-    engagement: 63
-    commentsToLikes: 0.052474
-    id: ck5c2h3umx91v0i114fpogkni
-    verified: true
-    hashtags: "#comedy, #redpilltamales, #chingobling, #podcast"
-  - username: "mario_ramil"
-    fullname: >-
-      MARIO RAMIL | Miami Comedian
-    bio: >-
-      Dad 👧🏼 | Boyfriend ❤️ | Comedian🤣| Musician 🪕 Host of @theramilpodcast 🎙 Business : marioramilcomedy@gmail.com
-    location: "United States"
-    followers: 39693
-    engagement: 377
-    commentsToLikes: 0.082840
+    followers: 136693
+    engagement: 271
+    commentsToLikes: 0.040372
     id: ck55lcwcl1afw0i11lx7x9g9q
     verified: false
-    hashtags: "#comedy, #voiceover, #miami, #marioramilcomedy"
+    hashtags: "#hispanics, #comedian, #miami, #funny"
+  - username: "andrethecomedian"
+    fullname: >-
+      Andre Kim
+    bio: >-
+      Link for tour tickets 👇
+    location: "United States"
+    followers: 83830
+    engagement: 4325
+    commentsToLikes: 0.036112
+    id: ckq2f01oqf0mk0j23ep0a88jt
+    verified: false
+    hashtags: "#comedy, #florida, #nyc, #funny"
+  - username: "jazzysworldtv"
+    fullname: >-
+      Jazlyn aka Jazzy 🇺🇸🇵🇦
+    bio: >-
+      Bushwick, Brooklyn 🗽🍎 Reporter/Actress Acct. Managed by/Inquiries: @ninovaldes Tiktok: @iamjazzysworldtv
+    location: "United States"
+    followers: 893256
+    engagement: 309
+    commentsToLikes: 0.019403
+    id: ckwvisahbvni90j23fcbnjl9h
+    verified: false
+    hashtags: "#queens, #harlem, #nyc, #love"
   - username: "_fatandfunny"
     fullname: >-
       Miami Comedian Kitchen
     bio: >-
       🌴Miami,Fl🌴 Booking Email: FatandFunnyEnt@gmail.com #FatandFunnyEnt #BleeEnt
     location: "United States"
-    followers: 286768
-    engagement: 120
-    commentsToLikes: 0.055432
+    followers: 292620
+    engagement: 114
+    commentsToLikes: 0.056239
     id: ck5cfndtmna6r0i11l45kfo2a
     verified: false
-    hashtags: "#bleeent, #injeanwetrust, #mr3bs, #nopwess"
-  - username: "michaellenoci"
+    hashtags: "#bleeent, #fatandfunnyent, #comedy, #miami"
+  - username: "mitchburrow"
     fullname: >-
-      Michael Lenoci
+      Mitch Burrow
     bio: >-
-      Stand-up Comedian and future owner of the Miami Dolphins •🐶 @wadethedog •🎧 Weekly Podcast @thetakeoverpod ⤵️
+      Subscribe to the Patreon for Exclusive Content
     location: "United States"
-    followers: 46483
-    engagement: 174
-    commentsToLikes: 0.050692
-    id: ckf5lshiuquhh0j23nivhcbbq
+    followers: 7813
+    engagement: 1504
+    commentsToLikes: 0.048785
+    id: ckqh1du58ppnc0j23fab6eqrz
+    verified: false
+    hashtags: "#standup, #comedian, #laugh, #comediansofinstagram"
+  - username: "marlonwayans"
+    fullname: >-
+      Marlon Wayans
+    bio: >-
+      📧 Marlon@uglybabyproductions.com Come see me LIVE 👇... I’m on some other shit
+    location: "United States"
+    followers: 6635088
+    engagement: 27
+    commentsToLikes: 0.028812
+    id: ck0tx4i80hvj20i19vkh6pg4y
     verified: true
-    hashtags: "#timsbachelorparty, #thetakeoverpod, #thedatingdetective, #beccamingadornford"
+    hashtags: "#huntsville, #marlonwayans, #standup, #huntsvillealabama"
+  - username: "mikejonesucrazy"
+    fullname: >-
+      FunnyNdFocused😂🎤™
+    bio: >-
+      RIPMOM💔 Comedian/Actor 🎤😂 Seen on @foodnetwork Worst Cooks Season 18 & 20 & Dirty Dishes Seen On @tlc #DarkSkinSexSymbol #Blessed #ChaseYourDreams
+    location: "United States"
+    followers: 6155
+    engagement: 515
+    commentsToLikes: 0.125874
+    id: ck5qdbegcure80i11vqhj7lq9
+    verified: false
+    hashtags: "#mood, #comedy, #viral, #comment"
+  - username: "antwonmaxwellphotography"
+    fullname: >-
+      Antwon Maxwell
+    bio: >-
+      Photographer. DC📍 Travel to: NYC/ MIA/LA. Husband of @marciamax @mbmswim
+    location: "United States"
+    followers: 23605
+    engagement: 504
+    commentsToLikes: 0.024745
+    id: ck55m0wza2x9d0i11tvn69tu2
+    verified: false
+    hashtags: "#mbmswim, #blackownedbusiness, #fashionbombdaily, #antwonmaxwellphotography"
   - username: "mallowfrenchie"
     fullname: >-
       Mallow Frenchie
@@ -78,7 +114,7 @@ profiles:
     commentsToLikes: 0.079741
     id: ck0vv2ltyn96t0i19k1lpj8qh
     verified: false
-    hashtags: "#pawlidaywishlist, #petfriendly, #sponsored, #friyay"
+    hashtags: "#friyay, #ad, #petfriendly, #nationaldogday"
   - username: "reneewillett"
     fullname: >-
       Renée Willett
@@ -91,40 +127,4 @@ profiles:
     id: ck5cj6bo3u2hk0i11riieh0wb
     verified: true
     hashtags: "#finally, #nofilter, #selfiesunday, #itslit"
-  - username: "thefunnybombshell"
-    fullname: >-
-      Bombshell 💣✨
-    bio: >-
-      Miami Made • ATL 🏡 A day without her is a day without laughter! @bombshellest1992 @thefunnybombshellentertainment #GHAPFMB💎 It’s all there ⇩
-    location: "United States"
-    followers: 50871
-    engagement: 322
-    commentsToLikes: 0.042481
-    id: ck5qa2qrbe9880i1165f3c81d
-    verified: false
-    hashtags: "#atlanta, #funny, #funnyvideos, #tagsomeone"
-  - username: "markvieracomedy"
-    fullname: >-
-      Mark Viera
-    bio: >-
-      🇵🇷Puerto Rican Comedian from the #Bronx! #thelatinassasin Watch me on @hbomax @trutv @showtime @comedycentral and more! Show tickets & NEW special!👇
-    location: "United States"
-    followers: 31642
-    engagement: 170
-    commentsToLikes: 0.075289
-    id: ck5zunsg32pqa0i1448uf33bv
-    verified: false
-    hashtags: "#love, #statenisland, #nyc, #laugh"
-  - username: "zoilafrausto"
-    fullname: >-
-      Zoila💋WarriorPrincess🥊Frausto
-    bio: >-
-      1st @BellatorMMA Women’sWorld Champ •IKKC MuayThaiWorld🏆•WBC National MuayThai🏆•💍to this game🥊 •TaxPrep📑• RSO•Thai/Boxing Instructor•Ninja🥷🏻•Comedian🤣
-    location: "United States"
-    followers: 42245
-    engagement: 193
-    commentsToLikes: 0.047903
-    id: ck5cebkcxkq3l0i11hxdycah5
-    verified: true
-    hashtags: "#blessed, #repost, #skills, #mma"
 ---

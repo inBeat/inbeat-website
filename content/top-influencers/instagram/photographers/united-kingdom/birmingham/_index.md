@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Birmingham In 2023
+title: Top 10 Photographers Instagram Influencers In Birmingham In 2024
 description: >-
-  Find top photographers Instagram influencers in Birmingham in 2023. Most popular hashtags: #photography #birmingham #bhamgram.
+  Find top photographers Instagram influencers in Birmingham in 2024. Most popular hashtags: #photography #london #birmingham.
 platform: Instagram
-hits: 12
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 12 Instagram influencers like this in Birmingham, United Kingdom for you to collaborate.
+hits: 21
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 21 Instagram influencers like this in Birmingham, United Kingdom for you to pitch.
 profiles:
   - username: "1217_mike"
     fullname: >-
@@ -31,18 +31,66 @@ profiles:
     id: ckap6quk2h1jm0i78ov9j0iv6
     verified: false
     hashtags: "#rsa, #astreetminute, #streetleaks, #woofermagazine"
-  - username: "liveuptohername"
+  - username: "steppingthroughfilm"
     fullname: >-
-      Lexi 🎀
+      Thomas Duke
     bio: >-
-      💃🏽 Latina 📍 Birmingham 🇬🇧 👸🏼- Founder of @lfhairofficial
+      Hi, I’m Tom. Step through film (& TV) with me! 🏳️‍🌈 Photographer, Film Lover, Explorer 📬 info@steppingthroughfilm.co.uk 🌎 Based in the UK
     location: "United Kingdom"
-    followers: 31707
-    engagement: 689
-    commentsToLikes: 0.006258
-    id: ck5cik16gsslf0i11w5ovnhua
+    followers: 338260
+    engagement: 1421
+    commentsToLikes: 0.013042
+    id: ck0uca0d8g9ul0i19sdn79602
     verified: false
-    hashtags: "#happy, #instadaily, #style, #beauty"
+    hashtags: "#nicknelson, #movies, #asabutterfield, #cinema"
+  - username: "oli_spotting"
+    fullname: >-
+      Oli | Aviation Photographer
+    bio: >-
+      19 | CanonUK All my own content & collabs Aviation & Travel Photographer!
+    location: "United Kingdom"
+    followers: 12389
+    engagement: 359
+    commentsToLikes: 0.131361
+    id: ck6tyvdje630m0j71lwhpswgu
+    verified: false
+    hashtags: "#singapore, #aviationlover, #boeing777, #avgeek"
+  - username: "beforeandagain_"
+    fullname: >-
+      Rida Suleri-Johnson
+    bio: >-
+      📸Photographer & Creative ✨Mama in #Brum 🎞 Mini Movie Maker 🏝 Finding the Best Parent Friendly© hotels est2014 👩🏽‍❤️‍👩🏽Podcaster @ridaandrabya
+    location: "United Kingdom"
+    followers: 35358
+    engagement: 81
+    commentsToLikes: 0.174192
+    id: ck15tdxryhlze0i19h923zt8g
+    verified: false
+    hashtags: "#nailinspo, #memyselfandportrait, #igersontour, #writeyouonmyheart"
+  - username: "henryruggeri"
+    fullname: >-
+      Henry Ruggeri
+    bio: >-
+      www.henryruggeri.net - @virginradioit official photographer - @jerrylorenzo @fearofgod - @henryruggeri.bts Info @cg_claudiagrandinetti @__rebelhouse
+    location: "United Kingdom"
+    followers: 165000
+    engagement: 60
+    commentsToLikes: 0.030246
+    id: ck0twdfhff0aq0i19272zeuc1
+    verified: true
+    hashtags: "#hardrock, #stayrock, #gigphotography, #happybirthday"
+  - username: "therollinson"
+    fullname: >-
+      Nathan Rollinson
+    bio: >-
+      • Timeless Elegance Lifestyle Photographer • The Rollinson Home @therollinsonhome • Email - nathan@therollinson.com
+    location: "United Kingdom"
+    followers: 92412
+    engagement: 5
+    commentsToLikes: 0.000000
+    id: ck0ttl26q37et0i193kozl4b2
+    verified: false
+    hashtags: "#therollinson, #scotland, #westonpark, #visitscotland"
   - username: "mirstudstill"
     fullname: >-
       Miranda Johnson Studstill
@@ -67,64 +115,16 @@ profiles:
     id: ckf5qojxfa2360j23koumk4xa
     verified: false
     hashtags: ""
-  - username: "jaybirminghamphotography"
+  - username: "cambridge_row"
     fullname: >-
-      Jay Birmingham
+      Cambridge Row | Laurin White
     bio: >-
-      📷 Landscape Photographer based in the Midlands, UK. It would be appreciated if you can vote for my picture in the British Photography Awards. See link
+      Tailored Interiors. Birmingham, AL // will travel
     location: "United Kingdom"
-    followers: 3342
-    engagement: 1188
-    commentsToLikes: 0.037066
-    id: ck5hmvo5mmphq0i11d2vu5vks
+    followers: 3970
+    engagement: 1396
+    commentsToLikes: 0.114571
+    id: ckap30n8i14hs0i787s2e6lrb
     verified: false
-    hashtags: "#derbyshire, #peakdistrict, #ig, #scotland"
-  - username: "nyontheradio"
-    fullname: >-
-      Nuyork 💛
-    bio: >-
-      🔸God ☝🏽st 🔸PD of Bham’s #1 station @957jamz 🔸AKA 💗💚 🔸📸 Photographer @Nikkiprempeh
-    location: "United Kingdom"
-    followers: 28746
-    engagement: 75
-    commentsToLikes: 0.090090
-    id: ck5hl5l95jly00i11juqou8h7
-    verified: false
-    hashtags: "#subscribe, #fyp, #alwaysfamily, #addictedtoadidas"
-  - username: "birmingham.live"
-    fullname: >-
-      BirminghamLive
-    bio: >-
-      The official BirminghamLive Instagram. Use #BigOnBrum for a repost 🤳🏻
-    location: "United Kingdom"
-    followers: 69449
-    engagement: 77
-    commentsToLikes: 0.024653
-    id: ck0vxi58qz0d50i19fai2tw82
-    verified: true
-    hashtags: "#thisisbham, #britains, #bupicoftheweek, #0121shooters"
-  - username: "cwrjets"
-    fullname: >-
-      Charlie | Aviation
-    bio: >-
-      Aviation Photographer Email for enquiries / promotions 📧 @AeroHubNews writer
-    location: "United Kingdom"
-    followers: 2805
-    engagement: 1694
-    commentsToLikes: 0.060608
-    id: ck8tc8fiyynos0j78p8j2wo7j
-    verified: false
-    hashtags: "#aviation, #aviationlovers, #aviationdaily, #aviationeverywhere"
-  - username: "kalleashatamzin"
-    fullname: >-
-      KALLEASHA TAMZIN 👽🦄
-    bio: >-
-      Owner of @kchouseofdollz @kchodbeautyrange 💉🌸 Model | Dancer | Influencer | LashTech | Aesthetician China Doll 👽🦊 📍 Liverpool
-    location: "United Kingdom"
-    followers: 23808
-    engagement: 236
-    commentsToLikes: 0.028187
-    id: ck14lddv3u3y50i194uvgk1tb
-    verified: false
-    hashtags: "#fashion, #gymwear, #tracksuit, #influencer"
+    hashtags: "#whiteoakcabinets, #birminghamalabama, #potfiller, #unlacqueredbrass"
 ---

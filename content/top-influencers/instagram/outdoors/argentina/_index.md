@@ -1,11 +1,11 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Argentina In 2023
+title: Top 10 Outdoors Instagram Influencers In Argentina In 2024
 description: >-
-  Find top outdoors Instagram influencers in Argentina in 2023. Most popular hashtags: #outdoors #argentina #sunset #patagonia.
+  Find top outdoors Instagram influencers in Argentina in 2024. Most popular hashtags: #outdoors #argentina #sunset #patagonia.
 platform: Instagram
-hits: 58
+hits: 60
 text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 58 Instagram influencers like this in Argentina for you to collaborate.
+text_bottom: Our platform holds 60 Instagram influencers like this in Argentina for you to work with.
 profiles:
   - username: "danielmchef6"
     fullname: >-

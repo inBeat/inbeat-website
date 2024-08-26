@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In France In 2023
+title: Top 10 Bloggers TikTok Influencers In France In 2024
 description: >-
-  Find top bloggers TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #fyp #foryou #tiktoktravel.
+  Find top bloggers TikTok influencers in France in 2024. Most popular hashtags: #pourtoi #fyp #foryou #tiktoktravel.
 platform: TikTok
 hits: 9
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 9 TikTok influencers like this in France for you to pitch.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 9 TikTok influencers like this in France for you to contact.
 profiles:
   - username: "travelmimii"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.077674
     id: ckb9gfze75n6f0j2383331b6n
     verified: false
-    hashtags: "#travelblogger, #visitfrance, #monaco, #tiktokfrance"
+    hashtags: "#cotedazur, #monaco, #fyp, #srbijatiktok"
   - username: "korbeninfo"
     fullname: >-
       Korben
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.066589
     id: ck9dwvka0qqt90j78po69an1j
     verified: false
-    hashtags: "#parisphotographer, #cherryblossoms, #parisphotospots, #wisteria"
+    hashtags: "#cherryblossoms, #tiktokparis, #parisphotospots, #sakura"
   - username: "emmanuelle.miralles"
     fullname: >-
       Emmanuelle Miralles
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.024286
     id: ck8scvpk2cx5u0j78bfvmq0ka
     verified: false
-    hashtags: "#fyp, #instagram, #tiktoktravel, #italy"
+    hashtags: "#foryoupage, #fyp, #foryou, #tiktoktravel"
   - username: "angelinkkofff"
     fullname: >-
       Angie ♡
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.015077
     id: ck81rzxh4ozpf0j7898coxv75
     verified: false
-    hashtags: "#love, #pourtoi, #abonnetoi, #sheingals"
+    hashtags: "#love, #lejardindangie, #teampetitboudin, #sheingals"
   - username: "onikapeja"
     fullname: >-
       ONIKA
@@ -114,5 +114,5 @@ profiles:
     commentsToLikes: 0.002806
     id: ckaftt9mc6yal0i78hhny9q52
     verified: true
-    hashtags: "#fyp, #pourtoi, #fy, #foryou"
+    hashtags: "#fy, #foryou, #pourtoi, #fyp"
 ---

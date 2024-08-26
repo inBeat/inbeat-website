@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Montreal In 2023
+title: Top 10 Home Decor TikTok Influencers In Montreal In 2024
 description: >-
-  Find top home decor TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #homedecor #foryoupage #foryou.
+  Find top home decor TikTok influencers in Montreal in 2024. Most popular hashtags: #homedecor #fyp #foryoupage #learnontiktok.
 platform: TikTok
-hits: 5
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 5 TikTok influencers like this in Montreal, Canada for you to contact.
+hits: 4
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 4 TikTok influencers like this in Montreal, Canada for you to connect with.
 profiles:
   - username: "fleuroutlines"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.070026
     id: ck8tprzjpqnjr0j78mnkej2yw
     verified: false
-    hashtags: "#zqlu, #foryoupage, #fleuroutlines, #fyp"
+    hashtags: "#xyzcba, #notforyou, #fleuroutlines, #foryou"
   - username: "craftcupid"
     fullname: >-
       Craft Cupid
@@ -31,18 +31,6 @@ profiles:
     id: ck8f7tyte34jv0j78zu2yanx2
     verified: false
     hashtags: "#foryoupage, #painting, #fyp, #homedecor"
-  - username: "jaimielitwin__"
-    fullname: >-
-      Jaimie Litwin 
-    bio: >-
-      just for fun🤪
-    location: "Canada"
-    followers: 18900
-    engagement: 602
-    commentsToLikes: 0.021831
-    id: ck97xnvsqw39j0j784a4pacep
-    verified: false
-    hashtags: "#foryou, #justvisiting, #2021, #foryoupage"
   - username: "katiecung"
     fullname: >-
       katiecung
@@ -54,7 +42,7 @@ profiles:
     commentsToLikes: 0.045092
     id: ck9v8tefjb49r0j78t713sdez
     verified: false
-    hashtags: "#styletips, #howto, #fyp, #bts"
+    hashtags: "#outfitinspo, #photomagic, #bts, #fyp"
   - username: "mimzyel"
     fullname: >-
       Mimzy
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.088157
     id: ckace9kecltqt0i78fzu4m3f9
     verified: false
-    hashtags: "#tiktokdiy, #catsoftiktok, #xyzabc, #homediy"
+    hashtags: "#xyzabc, #tiktokdiy, #homedecor, #catsoftiktok"
   - username: "boyuba"
     fullname: >-
       Boyu Ba
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.062355
     id: ckb9lz5cdeutg0j23ldiqk0h0
     verified: false
-    hashtags: "#fyp, #nailsartvideos, #nails, #supportlocalbusiness"
+    hashtags: "#firsttimehomebuyer, #supportlocalbusiness, #homedecor, #fyp"
   - username: "the_fabricated_fox"
     fullname: >-
       the_fabricated_fox
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.034325
     id: ckb0ppp4lfjbj0j234xxanlcu
     verified: false
-    hashtags: "#homedecor, #stepbystep, #ikeatok, #tiktokdiy"
+    hashtags: "#stepbystep, #learnontiktok, #tiktokdiy, #homedecor"
   - username: "meetthemehras"
     fullname: >-
       Meet the Mehras
@@ -127,4 +115,16 @@ profiles:
     id: ckauze5su4x7c0j23ehmkgn84
     verified: false
     hashtags: "#foryoupage, #homesense, #couplegoals, #over30"
+  - username: "jaclynhdesigns"
+    fullname: >-
+      Jaclyn Harper
+    bio: >-
+      HGTV Stylist & TV Host Design/Decor/Styling Videos 👉🏻👈🏻IG @jaclynhdesigns
+    location: "Canada"
+    followers: 154600
+    engagement: 421
+    commentsToLikes: 0.063442
+    id: ck8hk5cvvcfpf0j7820x9i7lf
+    verified: true
+    hashtags: "#hometips, #mistake, #styletips, #interiordesigntiktok"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Mumbai In 2023
+title: Top 10 Food TikTok Influencers In Mumbai In 2024
 description: >-
-  Find top food TikTok influencers in Mumbai in 2023. Most popular hashtags: #food #mumbai #tiktokchef #desifood.
+  Find top food TikTok influencers in Mumbai in 2024. Most popular hashtags: #food #tiktokchef #mumbai #desifood.
 platform: TikTok
 hits: 36
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 36 TikTok influencers like this in Mumbai, India for you to work with.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 36 TikTok influencers like this in Mumbai, India for you to collaborate.
 profiles:
   - username: "livetoeatbombay"
     fullname: >-

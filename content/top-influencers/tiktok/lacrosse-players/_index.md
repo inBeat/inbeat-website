@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lacrosse Players TikTok Influencers In 2023
+title: Top 10 Lacrosse Players TikTok Influencers In 2024
 description: >-
-  Find top lacrosse players TikTok influencers in 2023. Most popular hashtags: #rabilovernight #fashion #teambose #whooplive.
+  Find top lacrosse players TikTok influencers in 2024. Most popular hashtags: #rabilovernight #boseearbuds #foryou #teambose.
 platform: TikTok
 hits: 2
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 2 TikTok influencers like this for you to work with.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 2 TikTok influencers like this for you to work with.
 profiles:
   - username: "paulrabil"
     fullname: >-

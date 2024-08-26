@@ -1,24 +1,60 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Colombia In 2023
+title: Top 10 Dancers Instagram Influencers In Colombia In 2024
 description: >-
-  Find top dancers Instagram influencers in Colombia in 2023. Most popular hashtags: #salsa #dancer #mexico.
+  Find top dancers Instagram influencers in Colombia in 2024. Most popular hashtags: #dancer #dance #love.
 platform: Instagram
 hits: 114
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 114 Instagram influencers like this in Colombia for you to pitch.
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 114 Instagram influencers like this in Colombia for you to pitch.
 profiles:
-  - username: "maylin.h"
+  - username: "soynickycast"
     fullname: >-
-      Maylin Hernández🕊
+      니키 NICKY 🇰🇷
     bio: >-
-      📍From Cuba 🇨🇺 💃🏼Profesional Dancer 🎶Tiktok @maylinht95 🧘🏼‍♀️Yogi 🌅Sunset Buster 🍀Pido deseos a las 11:11 👙Summer Lover ♎️ Libra 🌜ALMA LUNAR
+      ♡ dancer, singer & kpop enthusiastic ♡ mgmt: @airama.digital ♡ tiktok 150k + / my dc @newwings_dc
     location: "Colombia"
-    followers: 106246
-    engagement: 591
-    commentsToLikes: 0.030649
-    id: ckap4low27uf80i78no06943x
+    followers: 72070
+    engagement: 1411
+    commentsToLikes: 0.042687
+    id: ck0w5g95y3hw10i19ow50d2pp
     verified: false
-    hashtags: "#tbt"
+    hashtags: "#kpopcover, #kpopcolombia, #reggaeton, #colombia"
+  - username: "laurarosguer"
+    fullname: >-
+      Laura Rosguer
+    bio: >-
+      Singer | Actress | Dancer | Model | Songwriter Kindness is free 💘 Mgmt: @palomeragroup @alepalomera1 alex@palomeragroup.com
+    location: "Colombia"
+    followers: 107293
+    engagement: 559
+    commentsToLikes: 0.010640
+    id: ck5bzj55nr8y20i11akp60idp
+    verified: false
+    hashtags: "#superdad, #quemaita, #palomeratalent, #siblingsday"
+  - username: "just.princesa"
+    fullname: >-
+      Princesa Capolupo
+    bio: >-
+      ✖️Actress - Dancer - Host - Model ✖ Designer: @SHOPJUST.PRINCESA 👚 CEO: @ARIGATO.MIAMI 🧋 💋 Si no vas por todo, entonces no vayas...
+    location: "Colombia"
+    followers: 135823
+    engagement: 129
+    commentsToLikes: 0.014626
+    id: ck5cch6gthcop0i11mfoi9649
+    verified: false
+    hashtags: "#elsaberdapoder, #miami, #cultura, #culturageneralconprincesacapolupo"
+  - username: "anitaloynaz"
+    fullname: >-
+      Anita Loynaz | Art & Wellness
+    bio: >-
+      Flamenco Dancer & Gymnast Fitness & Wellness Lifestyle Mom & Business Women Nike Athlete 🇻🇪❤️🇵🇦❤️
+    location: "Colombia"
+    followers: 41263
+    engagement: 54
+    commentsToLikes: 0.036455
+    id: ck0u14sv9vuoc0i19r0r8hpfk
+    verified: false
+    hashtags: "#nikewomen, #flamencoenpanama, #flamencodancer, #fitness"
   - username: "yamirootz__"
     fullname: >-
       Rootz
@@ -91,40 +127,4 @@ profiles:
     id: ck13avifbsebo0i190xkzz888
     verified: false
     hashtags: "#poet, #losangeles, #love, #choreography"
-  - username: "cassaragon"
-    fullname: >-
-      Cass Aragón•🇲🇽Mexi-leira🇧🇷
-    bio: >-
-      Viajar es la mejor escuela ✈️Travel blogger pata salada 💃Zumba instructor & Latin dancer 🌎Medio ambiente y mar 🌊 💼Manager:@alexandraglez 🎥YouTube👇🏼
-    location: "Colombia"
-    followers: 28350
-    engagement: 565
-    commentsToLikes: 0.035466
-    id: ck0w2himboe3k0i19or90fx8f
-    verified: false
-    hashtags: ""
-  - username: "kaylamelisssa"
-    fullname: >-
-      ƘƛƳԼƛ MЄԼƖƧƧƛ. ♣️
-    bio: >-
-      "Unstopabble dreamer" ✈️ 🎲Model/Dancer/fashion designer💄 ♣️Fashion addict.👠 ♠️"your actions say more than your words" Modern languages student 🌍
-    location: "Colombia"
-    followers: 6273
-    engagement: 333
-    commentsToLikes: 0.083450
-    id: ckapc3js42bqa0i78gqzsp2b1
-    verified: false
-    hashtags: "#paisabarbie, #2021"
-  - username: "lialawrencef"
-    fullname: >-
-      Lia Lawrence✨
-    bio: >-
-      Ex TV host- PN @telemetro Ex Actress- familia internet @nexpanama Ex Dancer- Teen @complotpanama Actual campaign model- @newfacesdf @dfmodelos 🇵🇦🇺🇸
-    location: "Colombia"
-    followers: 4403
-    engagement: 1830
-    commentsToLikes: 0.060957
-    id: ck6u5wegyc53n0j71xprq338m
-    verified: false
-    hashtags: "#quarantinesenior"
 ---

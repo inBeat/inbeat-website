@@ -1,132 +1,132 @@
 ---
-title: Top 10 Instagram Influencers In India In 2023
+title: Top 10 Instagram Influencers In India In 2024
 description: >-
-  Find top Instagram influencers in India in 2023. Most popular hashtags: #fashionblogger #fashion #ootd #trendingreels.
+  Find top Instagram influencers in India in 2024. Most popular hashtags: #trending #ootd #reels #explore.
 platform: Instagram
-hits: 16115
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 16115 Instagram influencers like this in India for you to pitch.
+hits: 30400
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 30400 Instagram influencers like this in India for you to contact.
 profiles:
-  - username: "ayushsemwal08"
+  - username: "leo_girl4"
     fullname: >-
-      ✨A Y U S H  S E M W A L✨
+      MEHAK
     bio: >-
-      More than just a face 💫 Interior designer by profession For business : 📩 ayushsemwal22@gmail.com 📍Dehradun | Delhi | Gurgaon
+      📧 leogirl4chandigarh@gmail.com
     location: "India"
-    followers: 60043
-    engagement: 1894
-    commentsToLikes: 0.014528
-    id: ck5zm43t8lv1d0i147lv0z9x9
+    followers: 14941
+    engagement: 444
+    commentsToLikes: 0.111272
+    id: ck9hcmlflm1u30j78w0yzqn3n
     verified: false
-    hashtags: "#wedding, #style, #ad, #winterfashion"
-  - username: "taukeer_editz"
+    hashtags: "#instagood, #trendingreels, #instadaily, #instamood"
+  - username: "seeratsaini"
     fullname: >-
-      𝐓 🔥 𝐔 𝐊 𝐄 𝐄 𝐑   𝐄 𝐃 𝐈 𝐓 𝐙 👑
+      Seerat Saini
     bio: >-
-      • Photography | Editor | Youtuber • Fashion 👔 | New Delhi📍 • Snapchat : taukeerroxx • MGMT @gaur_media
+      Punjabi-American hair growth | fashion | beauty We’re all the universe pretending to be individuals 🦋
     location: "India"
-    followers: 544505
-    engagement: 503
-    commentsToLikes: 0.017597
-    id: ck15r3put5zoz0i19o97av7e3
+    followers: 297003
+    engagement: 640
+    commentsToLikes: 0.007590
+    id: ck15qrhhc4asl0i19olt959xc
     verified: false
-    hashtags: "#menfashion, #photography, #editzarmy, #goldenhour"
-  - username: "rj_yuvraaj"
+    hashtags: "#desigirls, #skit, #punjabimemes, #indianmemes"
+  - username: "fitgirl_08"
     fullname: >-
-      RJ Yuvraaj
+      Soniya Singh Khatri
     bio: >-
-      Fittest💪 | Digital Head @radioonefm95📻 | (Ex RJ) . Actor🎭 | Model🎬 | Host🎙| Artist🎨 #artist #calisthenics #creative
+      EAT - LIFT - REPEAT Founder @rkfitnessbyrohitkhatri Email : teamfitgirl07@gmail.com
     location: "India"
-    followers: 59444
-    engagement: 1849
-    commentsToLikes: 0.023350
-    id: ck6tqpfl2sywy0j71t7qo6xf6
+    followers: 1814916
+    engagement: 785
+    commentsToLikes: 0.008287
+    id: ck8tb43uau6os0j78bofg2h1j
     verified: false
-    hashtags: "#amdavad, #classic, #bhavnagar, #workout"
-  - username: "harshitmittal15"
+    hashtags: "#hyugalife, #authenticprotein, #paydaysale, #proteindeals"
+  - username: "dsoulfoodie"
     fullname: >-
-      HARSHIT MITTAL
+      Shipra
     bio: >-
-      Men’s Fashion | Grooming | Lifestyle 📍 Chandigarh | Delhi ✉️ : harshitmittal152001@gmail.com
+      BOI Certified 🎓 Passionate Food Critic & Beauty Influencer By ❤ 🤝Email or DM For Paid Collabs. Lucknow 👉 Delhi 👉 Kolkata 👉 Bengaluru 👉 UP 👉 Mumbai 👉
     location: "India"
-    followers: 100200
-    engagement: 555
-    commentsToLikes: 0.012492
-    id: ck8t4jupg70nt0j78yxv91uzz
+    followers: 17711
+    engagement: 683
+    commentsToLikes: 0.113337
+    id: ckf5oy33g49au0j233eeonreq
     verified: false
-    hashtags: "#ad, #menswear, #beautysale, #selfieready"
-  - username: "rohittt_09_"
+    hashtags: "#firstcryindia, #ad, #mothersday, #fussyisfantastic"
+  - username: "sauravnagar_"
     fullname: >-
-      𝐑𝐨𝐡𝐢𝐭 𝐙𝐢𝐧𝐣𝐮𝐫𝐤𝐞 ~ 𝐫𝐞𝐚𝐜𝐭𝐢𝐨𝐧𝐛𝐨𝐢 💫
+      Saurav Nagar
     bio: >-
-      • Fashion • Lifestyle • Video Creator 📍Surat ➰ Mumbai #reactionboi • YouTube : Rohit Zinjurke ( 35 Lakh Subscribers)
+      • Luxury, Fashion, Lifestyle and a lot more 💫 •Business Email- nagarsaurav31@gmail.com Co-founder- @zingyzest
     location: "India"
-    followers: 24801559
-    engagement: 537
-    commentsToLikes: 0.009176
-    id: ck8tc6k3dygnd0j783tc47cg7
+    followers: 79132
+    engagement: 1194
+    commentsToLikes: 0.012380
+    id: ck8swwmcmfhul0j78s288724b
     verified: false
-    hashtags: "#fifaworldcup, #tvf, #amazonminitv, #watchnow"
-  - username: "dr.siddhant.bhargava"
+    hashtags: "#delhiblogger, #instafashion, #instagood, #trending"
+  - username: "ismailsk.24"
     fullname: >-
-      Dr. Siddhant Bhargava
+      Ismail SK
     bio: >-
-      🧑🏻‍⚕️ Fat-Loss Ninja 😎 Avid Entrepreneur 💼 Running @food.darzee 🧑🏻‍💻 Building @feet.wings 🏋🏻‍♂️ Director @jgsfitnesscentre 🎧 Listen to My Podcast👇🏻
+      • Rider | Motovlogger🇮🇳 • Bike Before Girl ! • Murshidabad | Kolkata📍 • More At @skeditz.in 👀 • DM / Email For Paid Collab📧
     location: "India"
-    followers: 551128
-    engagement: 533
-    commentsToLikes: 0.006750
-    id: ck0tvkw48btab0i19fj0y5qew
+    followers: 246557
+    engagement: 1216
+    commentsToLikes: 0.016594
+    id: ck8t9ylo0ptlp0j78wdvarohv
     verified: false
-    hashtags: "#ad, #drsidsays, #drsid, #doctor"
-  - username: "belinda.fashionista"
+    hashtags: "#reels, #bikeride, #biker, #foryou"
+  - username: "desertroze"
     fullname: >-
-      Seoul travel fashion
+      Saher Javid
     bio: >-
-      Visual content creator 🧜‍♀️ Best fashion/beauty award winner @kachenmagazine Fashion stylist👠 Traveler🌏 Sharing fashion and travel tips
+      ✈️ Effortless Travel & Feminine Lifestyle ✨ Traveling the world, one photo at a time
     location: "India"
-    followers: 12994
-    engagement: 5050
-    commentsToLikes: 0.213421
-    id: ck5zxl8hh884e0i14gmlv01lm
+    followers: 76114
+    engagement: 719
+    commentsToLikes: 0.008491
+    id: ckf5pgy2362nu0j23xqvwtstx
     verified: false
-    hashtags: "#koreanadventures, #bukchonhanokvillage, #seoulfashionweek, #blogger"
-  - username: "brarnavi_"
+    hashtags: "#thingstodo, #kerela, #jordan, #microinfluencer"
+  - username: "aditya_rana"
     fullname: >-
-      Navi Brar
+      Aditya rana
     bio: >-
-      Always be kinder than you feel 🦋
+      New Delhi📍 Airline Pilot | Airbus 320 ✈️ Travel | Lifestyle Snapchat - aditya_rana25 📧adityaranainfo@gmail.com
     location: "India"
-    followers: 348034
-    engagement: 1396
-    commentsToLikes: 0.005554
-    id: ckaot9ayzuvrw0i78isj62kmj
+    followers: 63547
+    engagement: 1699
+    commentsToLikes: 0.010389
+    id: ck8t46xld5pl60j78q8a8q24r
     verified: false
-    hashtags: "#reelkarofeelkaro, #punjabisong, #punjabisuit, #outfitinspiration"
-  - username: "the_indian_messieurs"
+    hashtags: "#pet, #ootd, #menswear, #dubai"
+  - username: "kratisaini_"
     fullname: >-
-      Shivam Gupta
+      Krati Saini
     bio: >-
-      💡 Fashion | Lifestyle | Travel 👔 NIFT | Content Creator & Designer 📩 DM/Mail To Collaborate 📍 Delhi NCR | Mumbai
+      99 problems, 999999 blessings.🫶🏻 Backup account: @kratisainimusic_ Snapchat: Kratisaini18 YouTube: 👇🏻
     location: "India"
-    followers: 283319
-    engagement: 432
-    commentsToLikes: 0.011731
-    id: ck6tmcgr07l2x0j71tc2tt54p
+    followers: 1464303
+    engagement: 608
+    commentsToLikes: 0.010668
+    id: ck0w53cst1oox0i19i2vwsxv3
     verified: false
-    hashtags: "#hairstylemen, #menshairstyle, #traditionalwear, #bloggerstyle"
-  - username: "mostlysane"
+    hashtags: "#onlyonflipkart, #flipkartglamupsale, #makeup, #lorealglam"
+  - username: "gauri.more666"
     fullname: >-
-      Prajakta Koli
+      Gauri More Kamthe✨
     bio: >-
-      YouTuber | Blogger | Actor | Mess-er-up-er Mumbai, India Blog - MostlySane.in
+      I refuse to sink🍂👁 Fashion•Travel•Beauty•Lifestyle 📍 Mumbai,INDIA
     location: "India"
-    followers: 7338137
-    engagement: 511
-    commentsToLikes: 0.001446
-    id: ck0ttsfgd44nn0i19x8fgycny
-    verified: true
-    hashtags: "#realtalktuesday, #feedingindiaconcert, #16days, #notoviolence"
+    followers: 400324
+    engagement: 971
+    commentsToLikes: 0.007436
+    id: ck139i5rrlfbi0i198ucapx7z
+    verified: false
+    hashtags: "#explorepage, #reels, #reelsvideo, #beauty"
 cities:
   - name: Mumbai
     link: /instagram/india/mumbai

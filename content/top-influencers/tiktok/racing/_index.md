@@ -1,11 +1,11 @@
 ---
-title: Top 10 Racing TikTok Influencers In 2023
+title: Top 10 Racing TikTok Influencers In 2024
 description: >-
-  Find top racing TikTok influencers in 2023. Most popular hashtags: #greenscreen #fyp #foryou #dothescottsslide.
+  Find top racing TikTok influencers in 2024. Most popular hashtags: #greenscreen #fyp #foryou #forza.
 platform: TikTok
-hits: 1585
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 1585 TikTok influencers like this for you to pitch.
+hits: 1589
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat has 1589 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "gabrielnespoli_ok"
     fullname: >-
@@ -122,9 +122,9 @@ profiles:
       I am the owner of Revved Racing. Have fun and rev on! My gt is COLESTER2525
     location: "United States"
     followers: 14400
-    engagement: 2345
-    commentsToLikes: 0.039274
+    engagement: 2341
+    commentsToLikes: 0.038976
     id: ckdntxsgkmcnr0j23326bhon8
     verified: false
-    hashtags: "#fh4, #forzahorizon4, #drift, #fastandfurious"
+    hashtags: "#faf, #supercar, #car, #edit"
 ---

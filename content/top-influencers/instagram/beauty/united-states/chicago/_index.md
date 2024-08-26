@@ -1,24 +1,36 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Chicago In 2023
+title: Top 10 Beauty Instagram Influencers In Chicago In 2024
 description: >-
-  Find top beauty Instagram influencers in Chicago in 2023. Most popular hashtags: #beauty #chicago #blonde.
+  Find top beauty Instagram influencers in Chicago in 2024. Most popular hashtags: #beauty #chicago #fashion #makeup.
 platform: Instagram
-hits: 249
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 249 Instagram influencers like this in Chicago, United States for you to work with.
+hits: 326
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database has 326 Instagram influencers like this in Chicago, United States for you to work with.
 profiles:
-  - username: "leehocampo"
+  - username: "cai.eats.chi"
     fullname: >-
-      ALESSANDRA OCAMPO
+      Cailynn | Food, Travel, Lifestyle
     bio: >-
-      lifestyle • fashion • beauty chicago il • nwi contact.aocampo@gmail.com
+      Helping you discover your new favorite spots💕 📍Chicago (mostly) TikTok: cai.eats.chi (32k) 💌cai.eats.chi@gmail.com
     location: "United States"
-    followers: 55437
-    engagement: 190
-    commentsToLikes: 0.011873
-    id: ck6tzf0mu9b030j71013ug1gu
+    followers: 28595
+    engagement: 516
+    commentsToLikes: 0.105352
+    id: clivw7y1o3v2t0j0848hsps3y
     verified: false
-    hashtags: "#foreverbabe, #ad, #shoedazzlepartner, #alayanaturals"
+    hashtags: "#foodie, #chicagogram, #chicagobucketlist, #ootd"
+  - username: "cityangelic"
+    fullname: >-
+      Angelic Brockman | Model
+    bio: >-
+      DM to book ✨ ✖️ Chicago ✖️ Jeremiah 29:11 ✖️ 23, German/Chinese/Irish @angelicbrockman
+    location: "United States"
+    followers: 3317
+    engagement: 1003
+    commentsToLikes: 0.095980
+    id: ck137pfjmcpi60i19mdzfvrho
+    verified: false
+    hashtags: "#photooftheday, #style, #portraitphotography, #model"
   - username: "irynamiami"
     fullname: >-
       Iryna  🇺🇦🇷🇺🇺🇸
@@ -43,88 +55,76 @@ profiles:
     id: ck14jjpizkpc60i19i3e7i77k
     verified: false
     hashtags: "#usa, #sexy, #fridayvibes, #pink"
+  - username: "mrs.gharbi1"
+    fullname: >-
+      Perla A Gharbi
+    bio: >-
+      𝘈𝘴𝘴𝘢𝘭𝘢𝘮𝘶 𝘢𝘭𝘢𝘪𝘬𝘶𝘮 📿 Age is just a Number Beauty will always shine from within. agelessbeautymx@gmail.com #skincare #makeup #wellness
+    location: "United States"
+    followers: 10160
+    engagement: 440
+    commentsToLikes: 0.142990
+    id: ck5cheybzqn5b0i11zum7y2hd
+    verified: false
+    hashtags: "#bucktownchicago, #agelessbeauty, #crueltyfree, #consciousliving"
+  - username: "missmonolids"
+    fullname: >-
+      dani ✨
+    bio: >-
+      📍Chicago beauty creator | (80K+ TikTok) 😪 Lazy lazy makeup girls safe space ✨ 💌 missmonolids@gmail.com
+    location: "United States"
+    followers: 33134
+    engagement: 271
+    commentsToLikes: 0.024770
+    id: cl430i646h9260i2342v9f676
+    verified: false
+    hashtags: "#ad, #baseroutine, #basemakeuproutine"
   - username: "skinbeautyaddict"
     fullname: >-
       Mari 🌸
     bio: >-
-      📍Chicago Beauty & Skincare is my weakness Cute & Colorful is where its at! 📧 skinbeautyaddict@gmail.com 📸 All pics are my own
+      📍Chicago Beauty & Skincare is my weakness Also love reading 📚 👇🏼 shop my discounts here
     location: "United States"
-    followers: 47765
-    engagement: 191
-    commentsToLikes: 0.170864
+    followers: 47419
+    engagement: 54
+    commentsToLikes: 11.979163
     id: ck9wdnxixggaw0j78fwrjq2kk
     verified: false
-    hashtags: "#shelfiemoment, #skincare, #minis, #octolyfamily"
-  - username: "savvydermdiva"
+    hashtags: "#soldejaneirogiftedme, #soldejaneiro, #octolyfamily, #bodylove"
+  - username: "np_britt"
     fullname: >-
-      Renata | Savvy Derm Diva ®️
+      Brittony Croasdell, MS, FNP-BC, APRN
     bio: >-
-      💋PA-C in Dermatology 💋Trusted Skin Care Blogger 💋FEATURED on #wgnradio #cbschicago #dermspotlight 💋Chicago 💋#collab info@savvydermdiva.com
+      🌟CMAC Board Member @cma.collaborative 🌟National Trainer @allergan_medical_institute 🌟National Trainer @gainbygalderma.usa 🌟Board Member@pawschicago
     location: "United States"
-    followers: 54604
-    engagement: 119
-    commentsToLikes: 0.309450
-    id: ck9h9n1qe94vm0j78b5ixgub1
+    followers: 30830
+    engagement: 126
+    commentsToLikes: 0.091287
+    id: clm42v2225p9h0j08e60o0sgd
     verified: false
-    hashtags: "#savvydermdiva, #dontstop, #weekend, #chicagocolumn"
-  - username: "malii_b8by"
+    hashtags: "#revanesse, #explorepage, #teoxane, #fulcrumchicago"
+  - username: "thedewyskin"
     fullname: >-
-      Malii b8by
+      Arma • ارما
     bio: >-
-      Email for inquiries @ malii.b8by@gmail.com
+      🇵🇸 #istandwithpalestine Thedewyskin@yahoo.com All content Copyrighted©️ Do not repost without permission!
     location: "United States"
-    followers: 50184
-    engagement: 145
-    commentsToLikes: 0.108837
-    id: ck5cfnru6nazk0i11i5br6m75
+    followers: 83032
+    engagement: 47
+    commentsToLikes: 0.003680
+    id: ckmw1d2k56i7v0j23eqxz0vsz
     verified: false
-    hashtags: "#passthebrush, #makeup, #passiton, #chicago"
-  - username: "ivyleaguestyles"
+    hashtags: "#newmakeup, #makeupreel, #skincare, #maquillajeviral"
+  - username: "dashescape"
     fullname: >-
-      Ivy
+      Pooja Sudi Reddy🧿| BayArea| Travel & Lifestyle
     bio: >-
-      🌹Chicago 💄 BEAUTY INFLUENCER 🎥CONTENT CREATOR 👇
+      Sharing the hidden gems & experiences California and beyond
     location: "United States"
-    followers: 242654
-    engagement: 224
-    commentsToLikes: 0.005655
-    id: ck0vzyu59bju80i19o6gddm14
+    followers: 54399
+    engagement: 203
+    commentsToLikes: 0.024622
+    id: ckr74y6409fd60j23hjuds7l1
     verified: false
-    hashtags: "#indiancurlyhair, #paolinarusso, #ivypark, #savagexambassador"
-  - username: "onceuponadollhouse"
-    fullname: >-
-      The Original Best Friend Blog
-    bio: >-
-      👯‍♀️ Caitlin + Dani 🎀 Blog with Substance 🤱🏼👩🏽‍🍼 #BoyMom + Hot Aunt 🛍Fashion, Beauty, Wellness 📍 #Chicago 💌 onceuponadollhouse@gmail.com
-    location: "United States"
-    followers: 66093
-    engagement: 351
-    commentsToLikes: 0.040385
-    id: ck0w3hezntfbb0i19us1ke59h
-    verified: false
-    hashtags: "#liketkit, #barebeauties, #longchamp, #choosetochallenge"
-  - username: "willrettflowerco"
-    fullname: >-
-      Willrett Flower Co.
-    bio: >-
-      Floral and Event Design Team based in Chicago Ephemeral beauty enthusiasts As seen in Martha Stewart, Magnolia Rouge, and The Knot
-    location: "United States"
-    followers: 4776
-    engagement: 560
-    commentsToLikes: 0.065495
-    id: ck6u7pvqhmyxr0j71o64a9nuz
-    verified: false
-    hashtags: ""
-  - username: "cityangelic"
-    fullname: >-
-      Angelic Brockman | Model
-    bio: >-
-      DM to book ✨ ✖️ Chicago ✖️ Jeremiah 29:11 ✖️ 23, German/Chinese/Irish @angelicbrockman
-    location: "United States"
-    followers: 3317
-    engagement: 1003
-    commentsToLikes: 0.095980
-    id: ck137pfjmcpi60i19mdzfvrho
-    verified: false
-    hashtags: "#fashion, #instagram, #nycmodel, #chicago"
+    hashtags: "#texas, #chitown, #losangeles, #explorepage"
 ---

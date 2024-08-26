@@ -1,24 +1,72 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In India In 2023
+title: Top 10 Home Decor Instagram Influencers In India In 2024
 description: >-
-  Find top home decor Instagram influencers in India in 2023. Most popular hashtags: #homedecor #reelitfeelit #reelsindia #reels.
+  Find top home decor Instagram influencers in India in 2024. Most popular hashtags: #homedecor #interiorstyling #indianhomedecor #reels.
 platform: Instagram
-hits: 210
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 210 Instagram influencers like this in India for you to connect with.
+hits: 340
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 340 Instagram influencers like this in India for you to contact.
 profiles:
+  - username: "avanifashionbeautydecor"
+    fullname: >-
+      Avani (FASHION BEAUTY DECOR)
+    bio: >-
+      Indian-American Influencer🇺🇸🇮🇳 Mommy | Wifey | UGC Creator Partnerships: COLLAB@FashionBeautyDecor.com Inquiries- DM Admin: @homedecor_inspirations
+    location: "India"
+    followers: 181276
+    engagement: 91
+    commentsToLikes: 0.016333
+    id: ck5py6blluizu0i11gs4cidm0
+    verified: false
+    hashtags: "#planomoms, #ltkbeauty, #fall, #shopltk"
   - username: "designdecoranddisha"
     fullname: >-
-      Disha Mishra Dubey
+      Disha Mishra Dubey | DIY | Home Decor
     bio: >-
-      #HousetoHome #YouTuber #DecorBlogger #DIY #ContentCreator #HomeDecor #Gardening #HomeMakeover #BudgetDecorating #Art #Craft #CreativeTribe New Video👇
+      Unique & Fun #DIY Practical #HomeDecor Budget-friendly #HomeMakeovers #Indianart #selfreliance
     location: "India"
-    followers: 52642
-    engagement: 182
-    commentsToLikes: 0.030288
+    followers: 52699
+    engagement: 85
+    commentsToLikes: 0.081123
     id: ck8t3pabj3z5l0j78ahmk8x6g
     verified: false
-    hashtags: "#housetohome, #indiandecorblogger, #urbanjungle, #puneinstagrammers"
+    hashtags: "#indianhomedecor, #walldecor, #workspace, #creativetribe"
+  - username: "kajal8212"
+    fullname: >-
+      KAJAL TYAGI
+    bio: >-
+      India's Premier Design Influencer in Interiors 🏆Top HomeDecor Blogger in India-Qoruz 2024 Featured in @yahoo @archdigestindia @google 📍Mumbai/ Delhi
+    location: "India"
+    followers: 138455
+    engagement: 35
+    commentsToLikes: 0.221977
+    id: ck134ez3sw4c60i194e49619j
+    verified: false
+    hashtags: "#indianhomedecor, #interiordesign, #interiordesigner, #goodhomesmagazine"
+  - username: "rashmi1169"
+    fullname: >-
+      Rashmi
+    bio: >-
+      #homedecor #stylist
+    location: "India"
+    followers: 62376
+    engagement: 37
+    commentsToLikes: 0.014008
+    id: ck6txbwnmwyn30j71t3unyh9h
+    verified: false
+    hashtags: "#livingroomdecor, #instareels, #apartmentliving, #apartmenttherapy"
+  - username: "meraki_by_prachi"
+    fullname: >-
+      Prachi - Home decor & Gifting (Est.2017)
+    bio: >-
+      •Self learned Artist 🎨 •Hand painted name plates,gifting & much more🌻 •7100+ happy clients 🌈❤️✨ •10 days TAT 📍India #homedecor #nameplate #handmade
+    location: "India"
+    followers: 132094
+    engagement: 28
+    commentsToLikes: 0.023242
+    id: ck9wfupa9qknk0j78bcy9jvnx
+    verified: false
+    hashtags: "#welcomehome, #woodensignboard, #housewarming, #merakibyprachi"
   - username: "texasbluebungalow"
     fullname: >-
       DeeDee Campbell
@@ -43,88 +91,40 @@ profiles:
     id: ckapbsf6j164u0i78hjlt9lvk
     verified: false
     hashtags: "#workingmom, #ootd, #momdaughter, #indianmoms"
-  - username: "avanifashionbeautydecor"
+  - username: "storypals"
     fullname: >-
-      Avani (FASHION BEAUTY DECOR)
+      Mridu Agarwal | Designer
     bio: >-
-      Indian-American Influencer ▪︎Mommy▪︎Wifey▪︎Content Creator DM Admin: @homedecor_inspirations Promo: Avani@A-listme.com
+      Design • Disney • Films • Lifestyle • Books I have a thing for magic ⚡️ Marketing Lead at NIIT MTS reach out for book covers and marketing collaterals
     location: "India"
-    followers: 192524
-    engagement: 81
-    commentsToLikes: 0.033145
-    id: ck5py6blluizu0i11gs4cidm0
+    followers: 161317
+    engagement: 3365
+    commentsToLikes: 0.006029
+    id: cl7gc77kvsdgk0i23e89f14hz
     verified: false
-    hashtags: "#ltkhome, #ltkshoecrush, #ltksalealert, #liketkit"
-  - username: "decorholics_abode"
+    hashtags: "#disneylife, #disneymagic, #aiartcommunity, #disney"
+  - username: "goboho.decor"
     fullname: >-
-      Neha Anindya Singh
+      Shefali Pandey 🔹 India's Pallet Furniture Pioneer
     bio: >-
-      Decor/DIY Enthusiast/Home Stylist/KOL 🇮🇳 Art @stringsofhappiness Feat @theidealhomeandgarden @pinterestindia @indiatoday_home DM/Email-Collab
+      Sharing our Boho🔸Cosy🔸Rental Home 3rd Generation in Furniture Making Business @goboho.in_ Order Furniture & Furnishings via DM/Website All 🇮🇳Delivery
     location: "India"
-    followers: 75154
-    engagement: 48
-    commentsToLikes: 0.112298
-    id: ck14h2tr189kt0i1928xy036n
+    followers: 104954
+    engagement: 1705
+    commentsToLikes: 0.014583
+    id: ck9wd0hygdi7n0j78bgv83et9
     verified: false
-    hashtags: "#mydesiswag, #idealhome, #instahomedecor, #lbb"
-  - username: "janv_mua"
+    hashtags: "#budget, #indianhome, #bohemianstyle, #ig"
+  - username: "pallabiguha"
     fullname: >-
-      J A N H A V I   S O N A R
+      Pallabi Guha
     bio: >-
-      Founder @fiumebeauty @fiumecasa Makeup Artist | Photographer DM or Email for PR
+      📍 From Kolkata 🛍 Helping you with Useful & Exciting Finds ⭐️ Fashion | Beauty | Lifestyle 👩‍💻 Engineer turned Marketer | 🤳Creator
     location: "India"
-    followers: 48970
-    engagement: 106
-    commentsToLikes: 0.050541
-    id: ck55paj62a5uj0i114rkti58b
+    followers: 66566
+    engagement: 802
+    commentsToLikes: 0.020507
+    id: ckto9u74tem9g0j23gac95c7w
     verified: false
-    hashtags: "#eyemakeupideas, #makeupgoals, #wakeupandmakeup, #homedecor"
-  - username: "pupulpachauri"
-    fullname: >-
-      Pupul
-    bio: >-
-      
-    location: "India"
-    followers: 21298
-    engagement: 119
-    commentsToLikes: 0.083024
-    id: ck14l2szwsk9o0i19mqvmxxz5
-    verified: false
-    hashtags: "#prettylittletrips, #decorraga, #itsmywaydecor, #rkhome"
-  - username: "kraftdeck"
-    fullname: >-
-      Kraftdeck By Prerna
-    bio: >-
-      Artist | Home Decor | DIY | Wall Plates DM for makeovers/collaborations
-    location: "India"
-    followers: 56403
-    engagement: 268
-    commentsToLikes: 0.057545
-    id: ckap7hilfk3o10i78qjl6h6q0
-    verified: false
-    hashtags: "#bohovibes, #myhomestyle, #lbbdelhincr, #homedesign"
-  - username: "style_in_a_suitcase"
-    fullname: >-
-      Vrishakha | Travel & Lifestyle
-    bio: >-
-      MBA, Content Creator & Pro Digital Marketer Creative Photography • Vlogger • Blogger • Youtuber Your daily dose of #Travel #Fashion #Positivity #Goa
-    location: "India"
-    followers: 10710
-    engagement: 1603
-    commentsToLikes: 0.060197
-    id: ck5cciglbhf9z0i11l7s4jb1y
-    verified: false
-    hashtags: "#sadhana, #vegfoodblogger, #incredibleindia, #goafoodlovers"
-  - username: "kreativeartsby_kalyani"
-    fullname: >-
-      Kalyani Pradhan|Mandala Art
-    bio: >-
-      Mandala Art Team @brustro_official Coupon code: KALYANI10 for 10%off on⬇ www.creativehands.in Online Class *DM YouTube Tutorial Link👇
-    location: "India"
-    followers: 27732
-    engagement: 370
-    commentsToLikes: 0.067559
-    id: ckaoqra9vk02p0i78trrsoumq
-    verified: false
-    hashtags: "#reelkarofeelkaro, #instagramreels, #reelsindia, #artvideo"
+    hashtags: "#kolkatashopping, #kolkatareels, #kolkatafinds, #kolkatamarket"
 ---

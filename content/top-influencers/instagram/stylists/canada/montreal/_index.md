@@ -1,24 +1,24 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Montreal In 2023
+title: Top 10 Stylists Instagram Influencers In Montreal In 2024
 description: >-
-  Find top stylists Instagram influencers in Montreal in 2023. Most popular hashtags: #montreal #love #fashion.
+  Find top stylists Instagram influencers in Montreal in 2024. Most popular hashtags: #montreal #mtl #mtlmoments #styleinspo.
 platform: Instagram
-hits: 4
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 4 Instagram influencers like this in Montreal, Canada for you to work with.
+hits: 10
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 10 Instagram influencers like this in Montreal, Canada for you to pitch.
 profiles:
-  - username: "aliciasmcn"
+  - username: "karinedube_styliste"
     fullname: >-
-      Alicia S Mcnamara
+      Karine Dubé Styliste Perso
     bio: >-
-      @etcanada 💕 Be Kind & Hustle 💕
+      Styliste personnelle Bloom par Karine Dubé/ Fashion stylist karine@bloomkd.com 📍 Montreal karine@bloomkd.com
     location: "Canada"
-    followers: 13478
-    engagement: 536
-    commentsToLikes: 0.277124
-    id: ck138v2jui69c0i19purjhp67
+    followers: 13286
+    engagement: 1282
+    commentsToLikes: 0.004646
+    id: cld8ldsvodfdi0j08pcdj1jb7
     verified: false
-    hashtags: "#toronto, #ootd, #wardrobestylist, #love"
+    hashtags: "#mtl, #montrealentrepreneur, #mystylediary, #fashionstylist"
   - username: "leahmcflywaackeisha"
     fullname: >-
       Leah McFly-Waackeisha
@@ -30,7 +30,55 @@ profiles:
     commentsToLikes: 0.075310
     id: ck8swtzvkf8dm0j78c7hu0l8b
     verified: false
-    hashtags: "#mtlvintage, #90s, #funk, #dance"
+    hashtags: "#summerdanceforever2021, #dance, #90s, #mtlvintage"
+  - username: "liatyomanchic"
+    fullname: >-
+      Liat Neuman| Digital creator
+    bio: >-
+      Content creator & fashion stylist. Born 🇮🇱 live 🇨🇦 mom to autistic boy and basketball player Owner of @yomanchiccottage 🏡 Tiktok: @liatyomanchic
+    location: "Canada"
+    followers: 32417
+    engagement: 136
+    commentsToLikes: 0.318093
+    id: ck9hbnw5lhoc20j78xhbol1ar
+    verified: false
+    hashtags: "#quebeccity, #falltrends2023, #exploringla, #streetstyleinspo"
+  - username: "hairbyshawna_russell"
+    fullname: >-
+      Shawna lee russell
+    bio: >-
+      @SCHWARZKOPFCAN AMBASSADOR 🧡Owner of @bleachedsalon where beauty meets luxury 🤍Mentoring new Stylists & educating clients
+    location: "Canada"
+    followers: 131591
+    engagement: 88
+    commentsToLikes: 0.087315
+    id: ck0u28a7ez5m00i19c3ktpyne
+    verified: false
+    hashtags: "#hair, #schwarzkopfcan, #portcoquitlam, #highlights"
+  - username: "juliadantasbeauty"
+    fullname: >-
+      JULIA DANTAS • Makeup Artist & Beauty Educator
+    bio: >-
+      Celebrity Makeup Artist & Hairstylist 🌎 Global #BeautyEducator 💄I Train & Certify MUA’s 🎨 Makeup Workshop [July 25-27] 🇨🇦 ✨@juliadantasbeautyacademy
+    location: "Canada"
+    followers: 46375
+    engagement: 82
+    commentsToLikes: 0.043033
+    id: ck0vv9esko4s90i19mbakatqk
+    verified: false
+    hashtags: "#biossancepartner, #makeupartist, #fyf, #montreal"
+  - username: "saydejabraphotography"
+    fullname: >-
+      Sayde Jabra
+    bio: >-
+      Fashion|Food|Event|Lifestyle MTL 🇨🇦 / BEY 🇱🇧 📩 saydejabra@gmail.com 🍩 @sissitable 🥂@sissifilms Isaiah 60:22 Book a Free Photoshoot Consultancy ⬇️
+    location: "Canada"
+    followers: 24888
+    engagement: 122
+    commentsToLikes: 0.127940
+    id: ck14gw55z7bsz0i19djv9yas2
+    verified: false
+    hashtags: "#behindthescenes, #montrealphotography, #saydejabraphotography, #fashionphotography"
   - username: "allisonelang"
     fullname: >-
       ALLISON E. LANG
@@ -42,7 +90,31 @@ profiles:
     commentsToLikes: 0.099625
     id: ckap3rwrc4ar60i78z29q3lf1
     verified: false
-    hashtags: "#ardenelove, #sponsored, #ardenebabe, #ad"
+    hashtags: "#ardenelove, #ad, #sponsored, #ardenebabe"
+  - username: "jess.metni"
+    fullname: >-
+      𝐽𝐸𝑆𝑆/ 𝑀𝐸𝑇𝑁𝐼
+    bio: >-
+      I have all kind of Passiøns Entrepreneur Founder of HERMUST.COM Represented by @humankindmgmt ✉️ Marianne@humankindmgmt.com
+    location: "Canada"
+    followers: 65789
+    engagement: 123
+    commentsToLikes: 0.002355
+    id: ck0tv2x1x9phk0i19w9f4uxlt
+    verified: false
+    hashtags: "#lifestyleinspo, #styleinspiration, #vintagestyle, #styleblogger"
+  - username: "aliciasmcn"
+    fullname: >-
+      Alicia S Mcnamara
+    bio: >-
+      @etcanada 💕 Be Kind & Hustle 💕
+    location: "Canada"
+    followers: 13478
+    engagement: 536
+    commentsToLikes: 0.277124
+    id: ck138v2jui69c0i19purjhp67
+    verified: false
+    hashtags: "#love, #toronto, #wardrobestylist, #ootd"
   - username: "ouijdane_mo"
     fullname: >-
       Ouijdane | Fashion Blogger ✨
@@ -54,77 +126,5 @@ profiles:
     commentsToLikes: 0.031466
     id: ckap5jd9rby2q0i78j7t0sbgr
     verified: false
-    hashtags: "#mtl, #fashioninspo, #smile, #photooftheday"
-  - username: "styledbyamrita"
-    fullname: >-
-      Amrita 🌸
-    bio: >-
-      LA | Vancouver Published Wardrobe Stylist | PR | styledbyamrita@gmail.com
-    location: "Canada"
-    followers: 15572
-    engagement: 471
-    commentsToLikes: 0.052211
-    id: ck15pzh1f0ec70i19leafodw0
-    verified: false
-    hashtags: "#alohouse"
-  - username: "arshmultanii"
-    fullname: >-
-      𝐀𝐑𝐒𝐇 𝐌𝐔𝐋𝐓𝐀𝐍𝐈
-    bio: >-
-      vancouver, bc • 6’2” influencer, stylist, owner @offwhitefilms and more use #yourstyleplug to get noticed email to work 🤍
-    location: "Canada"
-    followers: 10106
-    engagement: 1485
-    commentsToLikes: 0.041385
-    id: ck9whlru1yg5q0j78b0c5bxrf
-    verified: false
-    hashtags: "#trueoutfit, #modishgallery, #trillestoufit, #urbanstylemens"
-  - username: "bohemewandering"
-    fullname: >-
-      Leilani ⋒ piscean mermaid
-    bio: >-
-      Philosophic spiritualist . Poet & speaker. Channeller. Vintage curator & stylist. Collage artist. Microdosing with @blumlabss - “LEILANI15” 🍄
-    location: "Canada"
-    followers: 18968
-    engagement: 75
-    commentsToLikes: 0.136602
-    id: ck5hm2zualaad0i116k5nnxmm
-    verified: false
-    hashtags: "#islandgirl, #yyj, #vintagestyle, #bohemehoney"
-  - username: "aurelafashionista"
-    fullname: >-
-      Aurela Nasedkin
-    bio: >-
-      STYLIST 📩 aurelafashionista@gmail.com
-    location: "Canada"
-    followers: 149371
-    engagement: 46
-    commentsToLikes: 0.144150
-    id: ck0tv8m4iabzl0i19t4aimlpi
-    verified: false
-    hashtags: "#haircut, #hairtransformation, #maxmara"
-  - username: "josiestevens"
-    fullname: >-
-      Josie Stevens
-    bio: >-
-      Fashion designer & stylist, interior designer, MUA. TV Personality-E!’s “Married to Rock”.
-    location: "Canada"
-    followers: 46142
-    engagement: 290
-    commentsToLikes: 0.062584
-    id: ck0vw9j9wspmu0i1933ue7baz
-    verified: true
-    hashtags: "#youractionssavelives, #rockthevote, #dollskill, #slowthespread"
-  - username: "hoodhippiespice"
-    fullname: >-
-      🦋SUZUKI🦋
-    bio: >-
-      🧚🏾 we connected bb GROOVY STYLIST expressive🎍 @spice.disposablez☮️
-    location: "Canada"
-    followers: 6544
-    engagement: 957
-    commentsToLikes: 0.067502
-    id: ck5bukbt3hxw90i11rm05cbk2
-    verified: false
-    hashtags: "#pride"
+    hashtags: "#mtlfashionbloggers, #montreal, #amazing, #hijabi"
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Finland In 2023
+title: Top 10 Yoga Instagram Influencers In Finland In 2024
 description: >-
-  Find top yoga Instagram influencers in Finland in 2023. Most popular hashtags: #yoga #nature #photography #fitness.
+  Find top yoga Instagram influencers in Finland in 2024. Most popular hashtags: #yoga #summer #summervibes #helsinki.
 platform: Instagram
-hits: 17
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 17 Instagram influencers like this in Finland for you to contact.
+hits: 25
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 25 Instagram influencers like this in Finland for you to connect with.
 profiles:
+  - username: "kriselda"
+    fullname: >-
+      Kriselda Mustonen
+    bio: >-
+      Mindful and slow living — yoga teacher from Helsinki sharing beauty secrets, soft movement and nourishing recipes.
+    location: "Finland"
+    followers: 18312
+    engagement: 104
+    commentsToLikes: 0.004045
+    id: ck13cwclf2hhg0i19uxbm92y1
+    verified: false
+    hashtags: "#lovestory, #empoweredbyscience, #skincare, #parisuhde"
   - username: "ttaruannikas"
     fullname: >-
       TARU ANNIKA
@@ -18,19 +30,7 @@ profiles:
     commentsToLikes: 0.198346
     id: ck6u6m0wngdro0j71gfciv63x
     verified: false
-    hashtags: "#mibovi, #instablogit, #summer, #thisisme"
-  - username: "kriselda"
-    fullname: >-
-      𝐊 𝐑 𝐈 𝐒 𝐄 𝐋 𝐃 𝐀
-    bio: >-
-      🚺 Co-Founder @yesgirlofficial 🕉 Yoga Teacher 💟 Positive Psychology student ☮️ Podcast ⤵️
-    location: "Finland"
-    followers: 13052
-    engagement: 741
-    commentsToLikes: 0.040872
-    id: ck13cwclf2hhg0i19uxbm92y1
-    verified: false
-    hashtags: "#esteepartner, #jooga, #lovemylumene, #advancednightrepair"
+    hashtags: "#instablogit, #momandson, #instablogitfinland, #vanhemmuus"
   - username: "eevsku"
     fullname: >-
       Eveliina Tistelgren
@@ -54,77 +54,77 @@ profiles:
     commentsToLikes: 0.071810
     id: ck5ho32mgoudz0i11grsa9g48
     verified: false
-    hashtags: "#crochet, #crocheting, #instaneulojat, #instaknit"
+    hashtags: "#virkkaaminen, #instaneulojat, #virkkaa, #knitter"
+  - username: "iidapeltonen"
+    fullname: >-
+      Iida Peltonen | Opiskelu
+    bio: >-
+      🤸🏼‍♀️Tasapainottelemassa .. oikiksessa ⚖ @universityofhelsinki .. ja psykalla 🧠 @uniuef ✉ Ota yhteyttä: iidapeltonen@hotmail.com 📍 Helsinki, Finland
+    location: "Finland"
+    followers: 7963
+    engagement: 747
+    commentsToLikes: 0.022454
+    id: ck8tbvy76xcxj0j78ec3duzjv
+    verified: false
+    hashtags: "#handstandpractice, #handstandprogress, #handstandlover, #handstandjourney"
   - username: "greenwindowfinlandnuuksio"
     fullname: >-
       A man from the forest
     bio: >-
       All photos mine, taken with phone . Every year min 300 days in the forest, I hug the trees. Guide. Sunsets. Poems. Food from nature www.greenwindow.fi
     location: "Finland"
-    followers: 11461
-    engagement: 746
-    commentsToLikes: 0.041585
+    followers: 12318
+    engagement: 600
+    commentsToLikes: 0.042027
     id: ck5hfi96exlvh0i117cx4u6ve
     verified: false
-    hashtags: "#trees, #earthfocus, #sky, #suomenluonto"
-  - username: "pernillabockerman"
+    hashtags: "#yourshotphotographer, #reflection, #wanderlust, #everything"
+  - username: "ddanikay"
     fullname: >-
-      PERNILLA FANNY MATILDA
+      Daniela Kälviläinen
     bio: >-
-      🧡 Elämäntapana treenaaminen, 22 & Finlandssvensk Team @gymnation @noccofinland @myproteinfi 📩 salla@fament.fi Uusi kotitreeni joka ma 👉🏼 @podimo_fi
+      TRAVEL DIARY 🛩️ / OUTFIT IDEAS 🤎 📍Greece from Finland 🇫🇮 🧸🎞️🧺🍪🧋 discount codes & links for my favorite every day pieces⬇️
     location: "Finland"
-    followers: 205778
-    engagement: 355
-    commentsToLikes: 0.054876
-    id: ck5hl6tvujoa70i11k15pxcnu
+    followers: 3930
+    engagement: 489
+    commentsToLikes: 0.025137
+    id: ckap1u93aw6c70i7829cf65ip
     verified: false
-    hashtags: "#yoga, #matsmartsuomi, #olematsmart, #ruokah"
-  - username: "enna_enkeli"
+    hashtags: "#workout, #myprotein, #workoutmotivation, #gymwear"
+  - username: "imsagr"
     fullname: >-
-      Elina Finning
+      Walid Al-Shahin
     bio: >-
-      ❤️ Mother of 4 kids ❤️ #Jkl 🇫🇮 -81 My Kids ❤️ family ❤️ friends ❤️ #Groupfitnessinstructor 😊 #Traveling 👍🇬🇷 💎 🏋️‍♀️ Katso Facebook Ennan ulkojumpat
+      | Menswear | Fashion | Lifestyle | 🌍 Finland 🇫🇮 | Espoo📍 🏷@pulsnutritionfinland ( CODE : WALID ) -25% ✉️ For business inquiries DM
     location: "Finland"
-    followers: 7361
-    engagement: 1795
-    commentsToLikes: 0.101501
-    id: ckaotta56xf6u0i78twz9s6kw
+    followers: 12344
+    engagement: 477
+    commentsToLikes: 0.051346
+    id: ck0w4e6rey53j0i19svsiy9od
     verified: false
-    hashtags: "#groupexerciseinstructor, #finnishwoman, #brunette, #hyv"
-  - username: "glow.by.zaarakhan"
+    hashtags: "#mainos, #menstyle, #suomi, #helsinki"
+  - username: "leighewin"
     fullname: >-
-      زحرا
+      Leigh Ewin
     bio: >-
-      🏋🏻‍♂️ Health & Fitness things • Flexible Dieting 💥 Sustainable weight loss - Backed by Science 🌏 ethnic • Afghanistan 🇦🇫 / Finland 🇫🇮 📍 Helsinki
+      Breathwork facilitator | Cold exposure expert | Educator ⬇️Links for courses, breathing gear and more
     location: "Finland"
-    followers: 8225
-    engagement: 465
-    commentsToLikes: 0.068381
-    id: ckaotmx93wko70i78wx7bsczb
+    followers: 22273
+    engagement: 147
+    commentsToLikes: 0.063094
+    id: ck13czbs02vup0i19wt4jlcua
     verified: false
-    hashtags: "#suomi, #innerpeace, #finnishnature, #transformation"
-  - username: "maijuriskala"
+    hashtags: "#inspirit, #letgo, #love, #breathhold"
+  - username: "laura.kaartinen"
     fullname: >-
-      MAIJU RISKALA
+      Laura Kaartinen | ʜᴇᴀʟᴛʜʏ | ᴄᴏᴏʟ ᴍᴏᴍ | ᴇɴᴛʀᴇᴘʀᴇɴᴇᴜʀ
     bio: >-
-      🧚🏼 @mybnb_suomi 🤍 TEAM @gymnation 🎙 @omantienkulkijapodcast GET FIT, STAY HEALTHY myynnissä nyt ! 🔥
+      Behind a happy life is not a perfect life,but finding a balance with yourself.💛 Wellness coach @laurak_valmennus Owner @greenfitruoholahti 🍀 Links👇🏽
     location: "Finland"
-    followers: 11579
-    engagement: 952
-    commentsToLikes: 0.025026
-    id: ck55k2jm4yazs0i11jci1ify8
+    followers: 15913
+    engagement: 52
+    commentsToLikes: 0.013113
+    id: ck9hck99glsd90j78hx3r1844
     verified: false
-    hashtags: "#kiskis, #hyvinvointi, #fitness, #jengiviihtyy"
-  - username: "monika_agarwall_04"
-    fullname: >-
-      Moni💖💖
-    bio: >-
-      @christian___bella_ ➡️5➖ßøYf®!€ñd ➡️DõN't Wo®®y !t'$ My ß!®tHdAt€😉 ➡️$€ãLf!€ Add!©tD📱 ➡️DõN't Pl@Y W!tH M€ B'©ôZ I KñôW I ©ãN Pl@Y ßâTt€® Th@ñ U😎
-    location: "Finland"
-    followers: 104182
-    engagement: 113
-    commentsToLikes: 0.084674
-    id: ck9wh9d19wvay0j78vl96zkqp
-    verified: false
-    hashtags: "#model, #literasi, #post, #gururandhawa"
+    hashtags: "#hyvinvointivalmentaja, #el, #tasapaino, #homesweethome"
 ---

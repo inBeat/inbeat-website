@@ -1,24 +1,24 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Austria In 2023
+title: Top 10 Cinema Instagram Influencers In Austria In 2024
 description: >-
-  Find top cinema Instagram influencers in Austria in 2023. Most popular hashtags: #photocinematica #urbanromantix #theimaged #toneception.
+  Find top cinema Instagram influencers in Austria in 2024. Most popular hashtags: #streetdreamsmag #depthobsessed #citygrammers #photocinematica.
 platform: Instagram
-hits: 21
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 21 Instagram influencers like this in Austria for you to work with.
+hits: 31
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 31 Instagram influencers like this in Austria for you to contact.
 profiles:
   - username: "holyhohli"
     fullname: >-
-      Triathlet
+      Matthias Hohlrieder
     bio: >-
-      👨‍🚀 Matthias Hohlrieder 🏊🚴🏃 Triathlet with a passion for cinematography 📽
+      🇦🇹 Wannabe Pro Triathlete training in 🇦🇺 | Cinematographer 🎥 | Photographer 📸 / Part-time coffee shop owner @kaffeeschmiede_steyr
     location: "Austria"
-    followers: 5774
-    engagement: 505
-    commentsToLikes: 0.013694
+    followers: 24009
+    engagement: 277
+    commentsToLikes: 0.014345
     id: ck6tmmt7v84sl0j71me16nyk1
     verified: false
-    hashtags: "#zipp, #athlete, #themomentisnow, #ridemybike"
+    hashtags: "#themomentisnow, #swim, #triathlon, #leicamag"
   - username: "danielkofler"
     fullname: >-
       Daniel Kofler
@@ -43,6 +43,18 @@ profiles:
     id: ck0u9of6dad4b0i195gmdmolj
     verified: false
     hashtags: "#globalwarming, #tedcountdown, #natgeo, #sundance"
+  - username: "patrick.fpv"
+    fullname: >-
+      Patrick Lombardi
+    bio: >-
+      Professional FPV Drone Pilot 🚁 🌍Currently: lake Garda, North Italy 🇮🇹 DM or email for Collab 🤝
+    location: "Austria"
+    followers: 13793
+    engagement: 4524
+    commentsToLikes: 0.038336
+    id: ck0tuxk58946f0i19v83cjzoc
+    verified: false
+    hashtags: "#fpvmagazine, #gopro, #extreme, #fpvamazing"
   - username: "a_l_x_ender"
     fullname: >-
       Alexander
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.031130
     id: ck0vuxfusmlqu0i19cpi6p6mp
     verified: false
-    hashtags: "#agameoftones, #streets, #streetdreamsmag, #cinematicmodeon"
+    hashtags: "#timeless, #agameoftones, #streetshared, #depthobsessed"
   - username: "patrick.hawlik"
     fullname: >-
       ᴘᴀᴛʀɪᴄᴋ ʜᴀᴡʟɪᴋ
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.254426
     id: ck9wdvgrwhg2p0j78o68ju8hw
     verified: false
-    hashtags: "#fotografwien, #creativeportraits, #photocinematica, #ports"
+    hashtags: "#photocinematica, #ports, #visualmags, #cinesomnia"
   - username: "a_l_x_2.0"
     fullname: >-
       Alexander
@@ -90,41 +102,29 @@ profiles:
     commentsToLikes: 0.085900
     id: ck5qdbpc1ut0v0i117y1umkhr
     verified: false
-    hashtags: "#verybusymag, #playoftones, #cinematicphotography, #darkshinemag"
+    hashtags: "#streetdreamsmag, #nightmaremagazine, #dofaddicts, #knowthismind"
   - username: "robz_shotz"
     fullname: >-
       Robert Nitsch
     bio: >-
       I love photography and coffee! • Vienna📍🇦🇹 •Dad🎈🎈 •2nd @robz_carz •📷 Canon Eos R5/Leica •Architecture•Street•Urbex•Nature •DM for collaboration!
     location: "Austria"
-    followers: 10675
-    engagement: 1124
-    commentsToLikes: 0.106697
+    followers: 13615
+    engagement: 503
+    commentsToLikes: 0.091846
     id: ck15ub7wqmbn90i19kclm2lef
     verified: false
-    hashtags: "#supremeshutter, #leicacameraaustria, #ig, #bokehobsessed"
+    hashtags: "#electic, #leica, #fujilovers, #toneception"
   - username: "hyprdhan"
     fullname: >-
       DHAN LIM
     bio: >-
-      URBAN & PORTRAIT PHOTOGRAPHER —————————————————— แทน + My perspective NIKON D750/ Dji Mavic Mini 📍Vienna, Austria DM for collabs & prints!
+      URBAN & PORTRAIT PHOTOGRAPHER —————————————————— แทน + My perspective 🇦🇹🇹🇭 📸: @xiaomi.austria #teamxiaomi 📍Vienna | Europe DM for collabs & prints!
     location: "Austria"
-    followers: 4772
-    engagement: 999
-    commentsToLikes: 0.241340
+    followers: 6553
+    engagement: 758
+    commentsToLikes: 0.170682
     id: ckaoraznpmhgn0i78go8z78fb
     verified: false
-    hashtags: "#trappingtones, #1000thingsinvienna, #visualambassadors, #wienerblicke"
-  - username: "spoti"
-    fullname: >-
-      Norbert | Vienna | Street
-    bio: >-
-      🇸🇰🇭🇺 ✖️Fujifilm X | iPhone 12 Pro Max #momentsquad #fujifilm 📍Vienna, Austria 🇦🇹 🎥 Instagram Stories 📧 norbert.spot@gmail.com ⬇️ Check my links
-    location: "Austria"
-    followers: 6466
-    engagement: 910
-    commentsToLikes: 0.059811
-    id: ck0vw8wjssmpl0i19ifgmmbwa
-    verified: false
-    hashtags: "#wienerblicke, #igersaustria, #supremeshutter, #uas10k"
+    hashtags: "#streetgrammers, #wien, #depthgrammers, #streetsineurope"
 ---

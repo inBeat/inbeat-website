@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Milan In 2023
+title: Top 10 Beauty TikTok Influencers In Milan In 2024
 description: >-
-  Find top beauty TikTok influencers in Milan in 2023. Most popular hashtags: #beauty #foryou #perte #fyp.
+  Find top beauty TikTok influencers in Milan in 2024. Most popular hashtags: #beauty #perte #foryou #fyp.
 platform: TikTok
-hits: 7
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 7 TikTok influencers like this in Milan, Italy for you to collaborate.
+hits: 8
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 8 TikTok influencers like this in Milan, Italy for you to work with.
 profiles:
   - username: "giuliamoshi"
     fullname: >-
@@ -43,6 +43,18 @@ profiles:
     id: ckacaj6lrgyoh0i78p5edvgr1
     verified: false
     hashtags: "#equestrian, #pferd, #cavallo, #foryoupage"
+  - username: "_domizia"
+    fullname: >-
+      Domi
+    bio: >-
+      romana de Roma a Milano parlo tanto ma non dico “pazzesco” IG: _DOMIZIA
+    location: "Italy"
+    followers: 178500
+    engagement: 976
+    commentsToLikes: 0.004528
+    id: cka67e1u2kpie0i78o5z7svqv
+    verified: false
+    hashtags: "#makeup, #makeuptutorial, #beauty, #hair"
   - username: "cataldihealth"
     fullname: >-
       Cataldi Health 
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.016638
     id: ck8fbwkyt56wl0j78b5g6sa8h
     verified: false
-    hashtags: "#naturopata, #oliessenziali, #cataldibeauty, #duetto"
+    hashtags: "#naturopata, #cataldibeauty, #naturopatia, #cataldi"
   - username: "terry.lozano"
     fullname: >-
       Terry Lozano
@@ -115,16 +127,4 @@ profiles:
     id: ckck5u04wqvuj0j23hqar0ei1
     verified: false
     hashtags: "#iomidiverto, #duetto, #francescobeautycoach, #viral"
-  - username: "jessicadenic"
-    fullname: >-
-      Jessica De Nicola 🌹
-    bio: >-
-      💅Trucchi e consigli Beauty💄 💌 denicolajessica@gmail.com
-    location: "Italy"
-    followers: 357500
-    engagement: 1500
-    commentsToLikes: 0.015813
-    id: ck8vshug6dmpg0j78bxaq31ie
-    verified: false
-    hashtags: "#imparacontiktok, #doppiepunte, #nails, #sheglam"
 ---

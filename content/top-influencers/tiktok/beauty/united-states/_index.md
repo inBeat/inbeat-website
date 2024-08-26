@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In United States In 2023
+title: Top 10 Beauty TikTok Influencers In United States In 2024
 description: >-
-  Find top beauty TikTok influencers in United States in 2023. Most popular hashtags: #fyp #duet #foryou #disney.
+  Find top beauty TikTok influencers in United States in 2024. Most popular hashtags: #fyp #duet #foryou #disney.
 platform: TikTok
-hits: 7068
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: inBeat has 7068 TikTok influencers like this in United States for you to contact.
+hits: 7059
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 7059 TikTok influencers like this in United States for you to contact.
 profiles:
   - username: "beauty"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.052231
     id: ckc91lm2fronk0j23uo0hgtbd
     verified: false
-    hashtags: "#blackfae, #chicagocheck, #cleargenius, #thesuicidesquadmovie"
+    hashtags: "#chicagocheck, #suicidesquad, #thesuicidesquadmovie, #cleargenius"
   - username: "lexisroc"
     fullname: >-
       ✨Alexis✨
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.046760
     id: ckbbdo6pn2izp0j2342epu47j
     verified: false
-    hashtags: "#magickingdom, #luca, #callmebyyourname, #disneymovies"
+    hashtags: "#callmebyyourname, #disneypark, #disneymovie, #luca"
   - username: "priyankapahari3"
     fullname: >-
       🔥Prîyàñká🔥
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.034864
     id: ckbf00b54lem60j23l97kdan5
     verified: false
-    hashtags: "#puppiesoftiktok, #bridetobe, #disneyworld, #vacation"
+    hashtags: "#puppiesoftiktok, #palmsprings, #disneyparks, #weddingvibes"
   - username: "cringytoddler"
     fullname: >-
       TiktokikItSaysToddlerButIm18
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.027833
     id: ck9v10vs4f0k70j78mujh0g28
     verified: false
-    hashtags: "#foryou, #colorcustomizer, #xyzbca, #greenscreen"
+    hashtags: "#greenscreen, #foryoupage, #colorcustomizer, #xyzbca"
   - username: "thedisneyland_dame"
     fullname: >-
       Mariel Moreno
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.088118
     id: ckdckqv5cmsaw0j237ofzhosr
     verified: false
-    hashtags: "#makeuproutine, #fyp, #makeup, #transformation"
+    hashtags: "#fyp, #bodypositivity, #makeup, #makeuproutine"
 ---

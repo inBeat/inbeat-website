@@ -1,130 +1,130 @@
 ---
-title: Top 10 Runners Instagram Influencers In Germany In 2023
+title: Top 10 Runners Instagram Influencers In Germany In 2024
 description: >-
-  Find top runners Instagram influencers in Germany in 2023. Most popular hashtags: #running #runningmotivation #laufen #laufliebe.
+  Find top runners Instagram influencers in Germany in 2024. Most popular hashtags: #running #runningmotivation #runningcommunity #runner.
 platform: Instagram
-hits: 165
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 165 Instagram influencers like this in Germany for you to pitch.
+hits: 190
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 190 Instagram influencers like this in Germany for you to connect with.
 profiles:
-  - username: "run4mh"
+  - username: "izzyseidel"
     fullname: >-
-      MARK | 🏃‍♂️
+      Izzy Seidel
     bio: >-
-      Runner, mental health advocate, @runtalkrunsouthampton leader⁣ Brooks #runhappy team 🇬🇧@corosglobal Impi Ambassador @gatosports mh first aider
+      Average runner with above average outfits in nyc/mke @sadgirltrackclub team captain 🦝 💖 hello.izzyseidel@gmail.com
     location: "Germany"
-    followers: 8472
-    engagement: 807
-    commentsToLikes: 0.054226
-    id: ck5hpb46kr2ef0i11kk6afn4d
+    followers: 29907
+    engagement: 521
+    commentsToLikes: 0.012503
+    id: clnq442qb9pct0j089p9y41xd
     verified: false
-    hashtags: "#halfmarathon, #runnersofinstagram, #medalmonday, #marathontraining"
-  - username: "runninggirl.joyce"
+    hashtags: "#marathontraining, #runningmotivation, #running, #runninginspiration"
+  - username: "lilavolken"
     fullname: >-
-      Joyce | Laufliebe
+      FELICIA
     bio: >-
-      🏃🏼‍♀️Komm in mein Team @running.rangers🌳 🏃🏼‍♀️Brooks #runhappy Team 💙 🏃🏼‍♀️Nordic Runner @vitaminwelldeutschland Meine Empfehlungen⬇️
+      festival blogger⚡️ runner🏃🏼‍♀️ DJ @felicia.bianco.dj
     location: "Germany"
-    followers: 10201
-    engagement: 1176
-    commentsToLikes: 0.072717
-    id: ck8t1meukw8w30j78k3esy3r0
+    followers: 27489
+    engagement: 561
+    commentsToLikes: 0.026594
+    id: ck9hcgnq7laqu0j78nza385gk
     verified: false
-    hashtags: "#laufenmachts, #berlinhalf, #marathontraining, #reels"
-  - username: "_sicht_weise"
+    hashtags: "#fashion, #nakt, #technoconnectingpeople, #ravemore"
+  - username: "taunus_runner"
     fullname: >-
-      Kathrin | 📍 Augsburg
+      David
     bio: >-
-      Meine (nicht immer so weise) Sicht der Dinge 🏊‍♀️ #bleiente 🚴🏼‍♀️ #cyclist 🏃‍♀️ #runner 42k ♥️ empathische Wortakrobatin 🍑 schenkt & sucht #motivation
+      👉🏻 taunus_runner 📍Taunus 🇩🇪 🏁 ❶⓿: 36:52 | 🅷🅼: 01:24:07 | 🅼: 03:04:01
     location: "Germany"
-    followers: 13987
-    engagement: 1344
-    commentsToLikes: 0.046314
-    id: ck0tvvcizcy860i193wvocbnr
+    followers: 10522
+    engagement: 774
+    commentsToLikes: 0.030851
+    id: ck15ui3ounaw20i19deuujqxb
     verified: false
-    hashtags: "#correr, #rennradm, #runningmom, #instafriends"
-  - username: "_johanna_kl_"
+    hashtags: "#gemeinsamgehtmehr, #mainovabewegt, #runtheregion, #teammainova"
+  - username: "hello.scotty"
     fullname: >-
-      Johanna
+      Flo and Scotty 🐕
     bio: >-
-      Berlin📍 Model Osteopathin/Heilpraktikerin Vitamin Well Runners Team🙏🏼 @vitaminwelldeutschland Running with wolves 🐺 🏃🏼‍♀️ @runningwithwolves
+      ¥ Vibes don’t lie | Trails and Paws ¥ Long distance runner | Canicross | Digital Creator ¥ On our way to 10k sub 40:00 | 1k Canicross sub 03:30
     location: "Germany"
-    followers: 23358
-    engagement: 812
-    commentsToLikes: 0.025724
-    id: ck5hls5bvkrbe0i11x8t6d3ts
+    followers: 48306
+    engagement: 499
+    commentsToLikes: 0.041660
+    id: clrhncg3yl7n30k0851ik9hcs
     verified: false
-    hashtags: "#goodmorning, #weekend, #happy, #running"
-  - username: "runningjazzy"
+    hashtags: "#longdistancerunning, #runningwithdogs, #running, #trailrunning"
+  - username: "runners_highest"
     fullname: >-
-      Jasmin🏃🏻‍♀️ASICS FrontRunner🇩🇪
+      runners_highest
     bio: >-
-      23, 📍Germany 💉med student👩🏻‍⚕️ 🏃🏻‍♀️#runner 🥇5k-20:26, 10k-43:04, HM-1:35:51, M-3:56:07
+      A mostly digital place dedicated to all stuff contemporary running-related // by @chrisflanell #runnershighest - newsletter, blog & more:
     location: "Germany"
-    followers: 20287
-    engagement: 711
-    commentsToLikes: 0.029386
-    id: ck13c0t5jy39x0i1968i5szr9
+    followers: 39002
+    engagement: 343
+    commentsToLikes: 0.005734
+    id: cldcy00pzixpn0j08o6cu6v7d
     verified: false
-    hashtags: "#womensrunningcommunity, #marathontraining, #heidelberg, #pfalz"
-  - username: "judijumper"
+    hashtags: "#kotd, #hypebeast, #hskicks, #running"
+  - username: "piamalina"
     fullname: >-
-      Judith Havers
+      Pia Malin Jensen
     bio: >-
-      plant-powered Ultra Runner 1st Woman UMED 2020 Fastest Known Times on several Ultra Trails 10k: 0:38:57 HM: 1:27:13 M: 3:12:12
+      🎓Sports Scientist 👩🏽‍🔬Performance Nutritionist @s04 🍌Co-Founder @wtf_sportsnutrition 🏃🏽‍♀️Middle Distance Runner 🍝My Cookbooks & Tips👇🏼
     location: "Germany"
-    followers: 7293
-    engagement: 838
-    commentsToLikes: 0.048562
-    id: ckaozgk94lsj60i78a3t3oan2
+    followers: 6372
+    engagement: 1039
+    commentsToLikes: 0.027412
+    id: ckaosbq0xqzx90i78pb6n5eo1
     verified: false
-    hashtags: "#fckcorona, #waschtag, #herabschauendermist, #sunrisemind"
-  - username: "mama_liebt_laufen"
+    hashtags: "#runningmotivation, #berlin, #trackandfield, #trainingmotivation"
+  - username: "nikola_uhlirova"
     fullname: >-
-      SABRINA ❤️ TRIATHLETE & MOM
+      Nikola Uhlířová
     bio: >-
-      #runner 👟 #triathlon 🏊🏻‍♀️🚴🏼‍♀️🏃🏼‍♀️ Mom of 🧑🏼🧑🏼🧒🏼 @thonimara.de @hansbrainfood @zone3official @tripleperform 🏊🏻‍♀️ @br_franken Staffel 2022 #ironman
+      MISS CZECH REPUBLIC 2016👸🏼 MISS GRAND 4th Runner up 2017🇨🇿 My brand @nikuzi.swim 👙 @monsterenergygirls 💚
     location: "Germany"
-    followers: 8065
-    engagement: 634
-    commentsToLikes: 0.046147
-    id: ckap89mxjnfi20i78rxiddzvp
+    followers: 133528
+    engagement: 279
+    commentsToLikes: 0.047415
+    id: ck5qec757zr980i11lpl8u3gu
     verified: false
-    hashtags: "#triathlonlove, #lovetorun, #sport, #runnermum"
-  - username: "running_love_lux"
+    hashtags: "#bikinilife, #maldives, #missgrand, #nikuzi"
+  - username: "jennymarximus"
     fullname: >-
-      JeSsIcA
+      JennyMarximus
     bio: >-
-      💙BoY Mom 💙 runner 2018 🏃‍♀️🦀 @truemotionrunning Ambassador @ingnightmarathonluxembourg @coros_benelux @aftershokz_de
+      💙Brooks Running Collective💙 • 🅹🆄🆂🆃 🅰 🅶🅸🆁🅻 🅵🆁🅾🅼 🅱🅴🆁🅻🅸🅽 •💛Sneaker and Fashion🧡 •Runner 🏃🏻‍♀️ Mom 🔒 Fitness @brooksrunningde
     location: "Germany"
-    followers: 7903
-    engagement: 1149
-    commentsToLikes: 0.016014
-    id: ck15qzcmm5cvl0i198ptzop5f
+    followers: 60027
+    engagement: 252
+    commentsToLikes: 0.005705
+    id: cl9ofgrtekv5t0i23sg93qvii
     verified: false
-    hashtags: "#laufenmachtglu, #afterworkrun, #centeryourrun, #run"
-  - username: "iva_runstheworld"
+    hashtags: "#runners, #zalandostyle, #marathon, #familie"
+  - username: "kellogs_ontherun"
     fullname: >-
-      My 💛 is in running shoes!
+      Kelly Ruck
     bio: >-
-      @top4running.cz Ambassador > 🤪5% sale with "IVA5" Hobby runner 🏅 21,1km: 1:34 🏃‍♀️ 42,2km: 3:21 ⛰️65km, +2700m, 9:51
+      🌍 Running Mummy 👼💓💙💓💙 💉Type 1 💫Dream chaser 🌈 Marathon/Ultra Runner 💓 @thewelshrunner ⬇️ #youtubechannel
     location: "Germany"
-    followers: 14482
-    engagement: 640
-    commentsToLikes: 0.023647
-    id: ck9hao9lhdcgx0j783t9a1sb7
+    followers: 63760
+    engagement: 207
+    commentsToLikes: 0.020763
+    id: ck13542n4zlnb0i199op3df0x
     verified: false
-    hashtags: "#bieganie, #torunistolive, #laufen, #runningterritory"
-  - username: "theatritralisch"
+    hashtags: "#70point3, #triathlontraining, #runningmotivation, #triathlon"
+  - username: "schonherrdavid"
     fullname: >-
-      Thea | Laufen & Neurodermitis
+      David Schönherr
     bio: >-
-      📍Hessen 🏃🏼‍♀️ Runner 💓 Triathlon ☀️ Neurodermitis 🌎 Ehrenamt ist Ehrensache 💌theatritralisch@gmail.com
+      German Ultra Marathon Runner | 2:23h Marathon | PT | Coach Founder @runningcrew.ms & @laufschule_muenster @falkesport athlete ⌚️ @garmin_beatyesterday
     location: "Germany"
-    followers: 29567
-    engagement: 300
-    commentsToLikes: 0.056569
-    id: ck0u8yb978k0d0i1934n3wcu9
+    followers: 113792
+    engagement: 174
+    commentsToLikes: 0.021208
+    id: ck8ta8cmxqtpb0j784wj89xhd
     verified: false
-    hashtags: "#runningcommunity, #triathlon, #laufmotivation, #instarunners"
+    hashtags: "#runninginspiration, #flyhumanfly, #wingsforlife, #wingsforlifeworldrun"
 ---

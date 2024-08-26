@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Denver In 2023
+title: Top 10 Beauty Instagram Influencers In Denver In 2024
 description: >-
-  Find top beauty Instagram influencers in Denver in 2023. Most popular hashtags: #denver #colorado #beauty #ootd.
+  Find top beauty Instagram influencers in Denver in 2024. Most popular hashtags: #denver #colorado #beauty #ootd.
 platform: Instagram
-hits: 70
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 70 Instagram influencers like this in Denver, United States for you to collaborate.
+hits: 85
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 85 Instagram influencers like this in Denver, United States for you to connect with.
 profiles:
   - username: "1eofreitas"
     fullname: >-
@@ -30,19 +30,7 @@ profiles:
     commentsToLikes: 0.154748
     id: ckwbef71akzmq0j23297hxcgr
     verified: false
-    hashtags: "#shesfarout, #discoverunder5k, #mypublicgoods, #fashionfury"
-  - username: "taliacolalancia"
-    fullname: >-
-      Talia Colalancia
-    bio: >-
-      My ONLY account Published/Runway Model/Actor Engineer 🚀 Denver 📍 LA 📍 Miami 📍NYC Bookings & Inquires: 💌 taliacolalancia.contact@gmail.com
-    location: "United States"
-    followers: 66978
-    engagement: 20
-    commentsToLikes: 0.087090
-    id: ck5zxcx2l7s1p0i1421u9uvn9
-    verified: false
-    hashtags: "#picoftheday, #colorado, #beautiful, #fun"
+    hashtags: "#classystreetweargirls, #tigermist, #whatiamwearingtoday, #styl"
   - username: "leahblock"
     fullname: >-
       Leah Block
@@ -55,18 +43,6 @@ profiles:
     id: ck55j4o2lw9cq0i11aekpws86
     verified: true
     hashtags: "#superdown, #mercedesbenz, #glam, #revolve"
-  - username: "misssjaz"
-    fullname: >-
-      Jazz
-    bio: >-
-      MISS HIN DENVER TikTok: misssjaz
-    location: "United States"
-    followers: 3060
-    engagement: 1167
-    commentsToLikes: 0.053740
-    id: ck5hgldzk3dwl0i11i3zl8189
-    verified: false
-    hashtags: "#mixedgirl, #hotel, #beauty, #outfit"
   - username: "missangelrenee"
     fullname: >-
       Angel Martinez
@@ -79,6 +55,18 @@ profiles:
     id: ck14hyjatcs590i19ewlqzs3a
     verified: false
     hashtags: "#skincare, #milehighmakeover, #esthetics, #denverfacials"
+  - username: "sarahxjoel"
+    fullname: >-
+      ＳＡＲＡＨ
+    bio: >-
+      University of Colorado Denver 2019 Grand Canyon University Master’s @express Partner
+    location: "United States"
+    followers: 27321
+    engagement: 504
+    commentsToLikes: 0.041470
+    id: ck5hgldwz3duu0i117802uagb
+    verified: false
+    hashtags: "#expresspartner, #style, #ootd, #expressu"
   - username: "christine.clarissa"
     fullname: >-
       ↠ C h r i s t i n e  N ↞
@@ -114,7 +102,19 @@ profiles:
     commentsToLikes: 0.551534
     id: ck8sw27uvdj4n0j78ocp8umag
     verified: false
-    hashtags: "#texturetuesday, #follain, #diptyqueparis, #eaucapitale"
+    hashtags: "#mercihandy, #eaucapitale, #lemoneaudeparfum, #octolyfamily"
+  - username: "mountainsandmimosas"
+    fullname: >-
+      Colorado Blogger
+    bio: >-
+      👋🏼 Morgan & Celia 🏥 Healthcare by day 🍹 Foodies by night 🏔 Travel 💌 Mountainsandmimosas@gmail.com 📍 Boulder & Denver, CO
+    location: "United States"
+    followers: 12717
+    engagement: 153
+    commentsToLikes: 0.091162
+    id: ckqm6wo68u0nj0j23rjmiskqj
+    verified: false
+    hashtags: "#colorado, #covidvaccine, #doingmypartco, #denver"
   - username: "scott_deppe"
     fullname: >-
       Scott Deppe

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Montreal In 2023
+title: Top 10 Models TikTok Influencers In Montreal In 2024
 description: >-
-  Find top models TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #foryou #model #fashion.
+  Find top models TikTok influencers in Montreal in 2024. Most popular hashtags: #fyp #model #foryou #pourtoi.
 platform: TikTok
 hits: 8
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 8 TikTok influencers like this in Montreal, Canada for you to pitch.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our database has 8 TikTok influencers like this in Montreal, Canada for you to connect with.
 profiles:
   - username: "craig_major"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.025861
     id: cka67s8pnm5nm0i78cboyvn7n
     verified: false
-    hashtags: "#fashion, #muscle, #boy, #menstyle"
+    hashtags: "#style, #muscle, #men, #bf"
   - username: "hjerando"
     fullname: >-
       hjerando
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.041706
     id: ck806vqz3me7r0j78bxtikj1s
     verified: false
-    hashtags: "#greenscreenvideo, #blackcat, #kitten, #model"
+    hashtags: "#greenscreenvideo, #kitten, #model, #blackcat"
   - username: "sunsetsandbellinis"
     fullname: >-
       t a n y a
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.058252
     id: ckdstgewwpi5p0j23wqf6j88m
     verified: false
-    hashtags: "#fitnesscreator, #tiktokcanadacreates, #haitiangirl, #fitok"
+    hashtags: "#haiti, #haitianedition, #fitnesslifestyle, #musclewomencheck"
   - username: "annekrystelgoyerofficial"
     fullname: >-
       Anne Krystel
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.033204
     id: ck8qe3pseqveb0j7863m12jn0
     verified: false
-    hashtags: "#fragrance, #sexy, #perfume, #parfum"
+    hashtags: "#parfum, #funny, #makeup, #perfume"
   - username: "therealjohnpasha"
     fullname: >-
       Ｊｏｈｎ   Ｐａｓｈａ

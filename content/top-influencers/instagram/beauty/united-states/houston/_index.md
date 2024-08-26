@@ -1,24 +1,12 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Houston In 2023
+title: Top 10 Beauty Instagram Influencers In Houston In 2024
 description: >-
-  Find top beauty Instagram influencers in Houston in 2023. Most popular hashtags: #beauty #houston #houstonmakeupartist #houstonmua.
+  Find top beauty Instagram influencers in Houston in 2024. Most popular hashtags: #beauty #houston #houstonmakeupartist #houstonmua.
 platform: Instagram
-hits: 221
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 221 Instagram influencers like this in Houston, United States for you to collaborate.
+hits: 285
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 285 Instagram influencers like this in Houston, United States for you to contact.
 profiles:
-  - username: "ambreenkhwaja_makeup"
-    fullname: >-
-      Ambreen Khwaja Makeup
-    bio: >-
-      📍new york | houston | 🌎 clean and creative beauty⚡️ personal acct @ambreenkhwaja 💌 a@ambreenkhwajamakeup.com
-    location: "United States"
-    followers: 5383
-    engagement: 285
-    commentsToLikes: 0.204325
-    id: ck8tbqivnwpxj0j78iabgtwrg
-    verified: false
-    hashtags: "#glamourmagazine, #tokyoolympics, #nycmua, #cleanskin"
   - username: "styleqhair"
     fullname: >-
       Style Q  Hair
@@ -43,6 +31,54 @@ profiles:
     id: ck15s878cbpz10i19mid3eg1b
     verified: false
     hashtags: "#makeuptutorial, #soooprodidit, #houstonmua, #houstonmakeupartist"
+  - username: "jacquelinejohnette"
+    fullname: >-
+      Jacqueline Johnette
+    bio: >-
+      Child of God ✝️ Lifestyle | Beauty | Fashion Houston - Dallas 📍 YOUTUBE: Jacqueline Johnette
+    location: "United States"
+    followers: 61285
+    engagement: 564
+    commentsToLikes: 0.004523
+    id: cld6qdjf7cdgz0j080non84u3
+    verified: false
+    hashtags: "#nordstrombeauty, #nordstrombeautypartner, #denimondenim, #makeuplover"
+  - username: "drkritimohan"
+    fullname: >-
+      Kriti Mohan, MD
+    bio: >-
+      Board Certified Plastic Surgeon @ciaravino.total.beauty #thebreastdoc ™ Featured in: Forbes, Vanity Fair, New Beauty 📌 Houston, Texas
+    location: "United States"
+    followers: 73239
+    engagement: 138
+    commentsToLikes: 0.062722
+    id: ckap16mwbt9xi0i7811jphv5m
+    verified: false
+    hashtags: "#implants, #thebreastdoc, #plasticsurgery, #ciaravinototalbeauty"
+  - username: "gabrielzamora"
+    fullname: >-
+      ɢᴀʙʀɪᴇʟ ᴢᴀᴍᴏʀᴀ
+    bio: >-
+      Brows | Beauty | Lifestyle 🇲🇽 Houston raised, LA based 📍 📧 gabrielzamora@select.co
+    location: "United States"
+    followers: 693038
+    engagement: 114
+    commentsToLikes: 0.022405
+    id: ck13831qle9h40i198xuiree9
+    verified: true
+    hashtags: "#grwm, #eyebrows, #eyebrowtransplant, #whatsinmybag"
+  - username: "veronabrit"
+    fullname: >-
+      Veronika
+    bio: >-
+      Veronika's Blushing | #grandmillennial home decor, everyday outfits & beauty | 📍Houston | veronabrit@gmail.com | shop my home & outfits via link 👇🏻
+    location: "United States"
+    followers: 57194
+    engagement: 49
+    commentsToLikes: 0.084349
+    id: ck6u1v7hno2zv0j71f4m45m4t
+    verified: false
+    hashtags: "#liketkit, #founditonamazon, #grandmillennial, #grandmillennialstyle"
   - username: "iam.megans"
     fullname: >-
       MEGAN S.
@@ -54,7 +90,7 @@ profiles:
     commentsToLikes: 0.114984
     id: ckaornm7xo0yr0i780rrkjycj
     verified: false
-    hashtags: "#birthdaybehavior, #thisis33, #cancerseasonbaby, #happy713day"
+    hashtags: "#funfact, #sneakherstyle, #fhwl, #cancerseason"
   - username: "belaanbeauty"
     fullname: >-
       BRIDAL MAKEUP ARTIST
@@ -67,64 +103,28 @@ profiles:
     id: ck6u0gqxmflp50j71lp8cj62l
     verified: false
     hashtags: "#destinationmakeupartist, #puertorico, #motd, #houstonhairstylists"
-  - username: "veronabrit"
+  - username: "ambreenkhwaja_makeup"
     fullname: >-
-      Veronika
+      Ambreen Khwaja Makeup
     bio: >-
-      Veronika's Blushing | home decor #grandmillennial, style & beauty | 📍Houston | veronabrit@gmail.com | shop my home & outfits via link 👇🏻
+      📍new york | houston | 🌎 clean and creative beauty⚡️ personal acct @ambreenkhwaja 💌 a@ambreenkhwajamakeup.com
     location: "United States"
-    followers: 52216
-    engagement: 79
-    commentsToLikes: 0.105446
-    id: ck6u1v7hno2zv0j71f4m45m4t
+    followers: 5383
+    engagement: 285
+    commentsToLikes: 0.204325
+    id: ck8tbqivnwpxj0j78iabgtwrg
     verified: false
-    hashtags: "#liketkit, #ltkhome, #founditonamazon, #amazonfashion"
-  - username: "londono_smiles"
+    hashtags: "#makeupforever, #makeupartistsworldwide, #creativemakeup, #tokyoolympics"
+  - username: "paulandmego"
     fullname: >-
-      PORCELAIN VENEERS Dr. LONDONO
+      Mego Ayvazian 🇱🇧🇦🇲
     bio: >-
-      W H E R E • S M I L E S • B E C O M E • A R T #Veneers #PorcelainVeneers #Smiledesign CONSULTATION / VALORACION ONLINE👇🏼
+      My creations resume my biography. - Creative global director for Farouk systems - 📞+961 70 269191- 04719118 03 086347
     location: "United States"
-    followers: 69869
-    engagement: 79
-    commentsToLikes: 0.013087
-    id: ck6ttx4j7d2lp0j71mxuyrarn
+    followers: 73073
+    engagement: 193
+    commentsToLikes: 0.007712
+    id: ck5zpuss0tdxm0i14azmhfalc
     verified: false
-    hashtags: "#makeover, #teethwhitening, #perfectteeth, #dallas"
-  - username: "rioredskyg"
-    fullname: >-
-      Rio Red Sky Gonzales
-    bio: >-
-      Grand Traverse Band of Ottawa and Chippewa Indians HTX // Musician Click link for a sexy video! 💌
-    location: "United States"
-    followers: 35877
-    engagement: 414
-    commentsToLikes: 0.036395
-    id: ck6uc99h6e8yb0j71o6vbbwbl
-    verified: false
-    hashtags: "#thickwomen, #instagramreels, #sheingal, #fyp"
-  - username: "ridaalisahibzada"
-    fullname: >-
-      Rida | Lifestyle Influencer
-    bio: >-
-      📍Houston, Texas 🇺🇸 💫Parenting/ Step-parenting 💫Remarriage 💫Blended Family 💫Modest Fashion
-    location: "United States"
-    followers: 69181
-    engagement: 555
-    commentsToLikes: 0.040371
-    id: ck9hbq96li0960j78843lb2kn
-    verified: false
-    hashtags: "#mombloggersofig, #momblogger, #pakistani, #babiesofinstagram"
-  - username: "bagd_pnda"
-    fullname: >-
-      
-    bio: >-
-      s550🐼 ht fm 2nd stang with 2013 style taillights in tx 🇲.🇽 🇲🇽 📍Houston TX spns @lightingtrendz @carlock.co @automafiaracing
-    location: "United States"
-    followers: 14130
-    engagement: 537
-    commentsToLikes: 0.023715
-    id: ck5zoagtdq4bh0i14qmizco4m
-    verified: false
-    hashtags: "#carsofinstagram, #2018, #explorepage, #photo"
+    hashtags: "#paulandmego, #hairlife, #paris, #hairdresser"
 ---

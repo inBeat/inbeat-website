@@ -1,24 +1,60 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Venezuela In 2023
+title: Top 10 Cooking Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top cooking Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #foodporn #model #instagram.
+  Find top cooking Instagram influencers in Venezuela in 2024. Most popular hashtags: #recetas #cooking #fitness #receta.
 platform: Instagram
-hits: 14
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 14 Instagram influencers like this in Venezuela for you to connect with.
+hits: 17
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 17 Instagram influencers like this in Venezuela for you to connect with.
 profiles:
+  - username: "janinbarboza"
+    fullname: >-
+      Janin Barboza
+    bio: >-
+      Lifestyle sin manual Creadora de #aprendecomojanin Organizo Experiencias: etiqueta y protocolo 👩🏻‍🍳 Cocina, moda 🇪🇸 Madrid Healing Vzla Ambassador
+    location: "Venezuela"
+    followers: 882551
+    engagement: 41
+    commentsToLikes: 0.040509
+    id: ck5q3j0n0kyn80i11h4gxn4za
+    verified: false
+    hashtags: "#madridblogger, #nuevovideo, #aventura, #modalesenlamesa"
   - username: "morellafitness"
     fullname: >-
       Morella Potolicchio Villalba
     bio: >-
-      👣 #HealthyMom @bemorechiara 👩🏻‍🍳Chef Saludable Certificada 🍞CEO @eatmorefit 💡Content Creator & Recipe Developer 🏆6ta BikiniWorldRanking 17’
+      🍫CEO @morellachocolate @eatmorefit 👩🏻‍🍳Chef Saludable Certificada 👣 #HealthyMom @bemorechiara 🏆6ta BikiniWorldRanking 17’
     location: "Venezuela"
-    followers: 41721
-    engagement: 238
-    commentsToLikes: 0.031316
+    followers: 51906
+    engagement: 282
+    commentsToLikes: 0.030156
     id: ck15sckg2cbp50i19o02ptrgu
     verified: false
-    hashtags: "#motherhood, #fitfood, #momsofinstagram, #momlife"
+    hashtags: "#fitnesslifestyle, #emprendedor, #healthydessert, #healthyfoodporn"
+  - username: "makeitgrain"
+    fullname: >-
+      Andrea Sambrano - Nutrición
+    bio: >-
+      🌶️ te ayudo a llevar una alimentación saludable sin extremismos 🔜 nutrición y dietética - UCV
+    location: "Venezuela"
+    followers: 61964
+    engagement: 246
+    commentsToLikes: 0.025656
+    id: ck15qt0cw4htp0i19o8g6i5dn
+    verified: false
+    hashtags: "#nutricionista, #healthy, #recetasfaciles, #saludable"
+  - username: "ohlalamacarons"
+    fullname: >-
+      Mafer
+    bio: >-
+      Horneo todos los días🥄 Mi pastelería @vainilla Consigue mis recetas con #recetasohlala Únete al baking club más cool 🌈
+    location: "Venezuela"
+    followers: 257108
+    engagement: 108
+    commentsToLikes: 0.122425
+    id: ck55lbnrp17t60i11gg1w2uen
+    verified: false
+    hashtags: "#reelsinstagram, #tresleches, #foodporn, #recetasohlala"
   - username: "larinolari"
     fullname: >-
       L A R I N O   L A R I
@@ -31,18 +67,6 @@ profiles:
     id: ck602yfe8k0480i140xrrpur8
     verified: false
     hashtags: "#face, #fitnesaddict, #photography, #fitnesslife"
-  - username: "ohlalamacarons"
-    fullname: >-
-      Mafer
-    bio: >-
-      Horneo todos los días🥄 Hago macarons en @vainilla Consigue mis recetas con #recetasohlala Aprende a hacer macarons con mi Workshop👇🏻#ohlalabakingclub
-    location: "Venezuela"
-    followers: 38591
-    engagement: 393
-    commentsToLikes: 0.045585
-    id: ck55lbnrp17t60i11gg1w2uen
-    verified: false
-    hashtags: "#food52, #yummy, #macaronslady, #tutorial"
   - username: "ray_hevia"
     fullname: >-
       RAY HEVIA | Cocinero / Cook
@@ -79,52 +103,28 @@ profiles:
     id: ck0ucp4vshf4p0i19syjovgn3
     verified: false
     hashtags: "#fitness, #gluteosfirmes, #stephvfit, #stepvfit"
-  - username: "gasibae"
+  - username: "adso"
     fullname: >-
-      𝐄𝐋𝐈𝐙𝐀𝐁𝐄𝐓𝐇 𝐆𝐀𝐒𝐈𝐁𝐀
+      ADSO
     bio: >-
-      🪐 Odontología USM Model | Miss Distrito Capital 2020 | Miss Fotogénica 20’ 🇻🇪 @bookingsima @intermodels 📮 workingwith.gasiba@gmail.com
+      📩 Management @alekandavu x @jovydagent 🦝 LACRADSOOOO 📎 Booking/Streaming
     location: "Venezuela"
-    followers: 44425
-    engagement: 638
-    commentsToLikes: 0.014845
-    id: ck5cfpfsfnege0i11i3rdr0vh
-    verified: false
-    hashtags: "#tbt, #missdistritocapital2020"
-  - username: "boomingvision"
+    followers: 860625
+    engagement: 171
+    commentsToLikes: 0.012203
+    id: ck5butaqzieja0i11y53a88oq
+    verified: true
+    hashtags: "#100porciento, #chobi, #chapulin, #elmapache"
+  - username: "valentinafiguerm"
     fullname: >-
-      Javier Sulbaran 🇻🇪
+      valentina
     bio: >-
-      Booking / Presets / Workshop on line 📲 DM
+      infovfwork@gmail.com @bookingsima x @jcmorant
     location: "Venezuela"
-    followers: 10596
-    engagement: 1056
-    commentsToLikes: 0.049424
-    id: ck15taoxsh5vi0i195jvw2tjt
-    verified: false
-    hashtags: "#instagood, #photooftheday, #beautiful, #photographer"
-  - username: "chichi_vzla"
-    fullname: >-
-      Genesis Muñeton-chichi twerk
-    bio: >-
-      Cuenta respaldo @chichi_vzla1 Bailarina 💃 #chichitwerking #chichitwerk 21 años Venezolana 🇻🇪🇨🇴🇩🇴 Booking ‪+1 (786) 224‑7700‬ 🤯😱😈
-    location: "Venezuela"
-    followers: 107491
-    engagement: 714
-    commentsToLikes: 0.030653
-    id: ck602x6dxjsz00i14sps4fq4r
-    verified: false
-    hashtags: "#halloween2020, #venezuela, #halloween, #tamborvenezolano"
-  - username: "federicagarciac"
-    fullname: >-
-      Federica García Carrero
-    bio: >-
-      Made in Venezuela, based in Brussels💫 M.A | @bookingsima My art | @fedeloreak
-    location: "Venezuela"
-    followers: 3620
-    engagement: 1868
-    commentsToLikes: 0.068248
-    id: ckap2qoruzwi80i78x8sztz1c
-    verified: false
-    hashtags: "#portraitshoot, #editorialphotography, #venezuelangirl, #lifestyleblogger"
+    followers: 459052
+    engagement: 12
+    commentsToLikes: 0.000241
+    id: ck5bxvga6ohgs0i11xec5ly87
+    verified: true
+    hashtags: "#wearehello, #hellohair, #hellofamily"
 ---

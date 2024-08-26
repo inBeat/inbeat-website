@@ -1,130 +1,118 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Japan in 2023
+title: Top 10 Gymnasts Instagram Influencers In Japan In 2024
 description: >-
-  Find top gymnasts Instagram influencers in Japan in 2023. Most popular hashtags: #gymnastics #acrobat #flip #tricking.
+  Find top gymnasts Instagram influencers in Japan in 2024. Most popular hashtags: #gymnastics #kobe #tricking #adrenalineworldwide.
 platform: Instagram
-hits: 16
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our platform has 16 Instagram influencers like this in Japan for you to connect with.
+hits: 9
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 9 Instagram influencers like this in Japan for you to collaborate.
 profiles:
+  - username: "jadecarey"
+    fullname: >-
+      Jade Carey
+    bio: >-
+      Olympic Gold Medalist @beavergym gymnast Business Inquiries: teamjade@smithsaint.com
+    location: "Japan"
+    followers: 317318
+    engagement: 1784
+    commentsToLikes: 0.008827
+    id: ck15qxg4q54bv0i19feeoihyy
+    verified: false
+    hashtags: "#xfinitychamps, #ad, #gkelite, #startatthecore"
   - username: "sapirfi"
     fullname: >-
       ספיר פישלזון-מאיר
     bio: >-
       נינג'ה ישראל Baby Power Mom Fitness 🤘 Hands stands Gymnastics | Acrobatics | Parkour | Ninja🤸‍♀️ Harder| Better | Faster | STRONGER #אמאנינגה 👩
     location: "Japan"
-    followers: 14110
-    engagement: 1037
-    commentsToLikes: 0.028930
+    followers: 14244
+    engagement: 779
+    commentsToLikes: 0.031599
     id: ck13cvsmv2ery0i19obywhslt
     verified: false
-    hashtags: "#34weekspregnant, #momlife, #strongwoman, #balance"
-  - username: "gymnasticsjapan"
-    fullname: >-
-      日本体操協会 (Jpn. Gym. Association)
-    bio: >-
-      日本体操協会公式アカウント。The official Instagram account for Japan Gymnastics Association.　Twitter: https://twitter.com/gymnasticsjapan/ #体操ニッポン
-    location: "Japan"
-    followers: 12493
-    engagement: 808
-    commentsToLikes: 0.002112
-    id: ck9wisxxm3tzr0j78b86l2w9m
-    verified: true
-    hashtags: "#kahominagawa, #rhythmicgymnastics, #mensrythmicgymnastics, #chacott"
-  - username: "figymnastics"
-    fullname: >-
-      FIG Gymnastics
-    bio: >-
-      The official account of the International Gymnastics Federation (FIG)
-    location: "Japan"
-    followers: 70348
-    engagement: 280
-    commentsToLikes: 0.008998
-    id: ck0w2a420nbyt0i198zsvck8z
-    verified: false
-    hashtags: "#gymnasticslife, #trampoline, #baku2019, #staystrong"
+    hashtags: "#fitnesslife, #handstand, #momlove, #babyworkout"
   - username: "zen_kajihara"
     fullname: >-
       Zen Kajihara / 梶原 善
     bio: >-
-      𝐀𝐃𝐑𝐄𝐍𝐀𝐋𝐈𝐍𝐄 𝐏𝐑𝐎 𝐓𝐑𝐈𝐂𝐊𝐈𝐍𝐆 𝐀𝐓𝐇𝐋𝐄𝐓𝐄 ●3 years ●2004 ●2ND IN JAPAN ●Gym: @tum_dra ●📥Contact →DM ●案件などのご依頼はDMまで🙇🏻‍♂️
+      💔𝙏𝙃𝙄𝙎 𝙄𝙎 𝙈𝙔 𝙒𝙊𝙍𝙇𝘿💔 Filmer/Tricker 2004 One of @adrenalineworldwide Gym @tum_dra ・ ↓↓NEW YOUTUBE VIDEO↓↓
     location: "Japan"
-    followers: 31406
-    engagement: 2233
-    commentsToLikes: 0.017243
+    followers: 33032
+    engagement: 1013
+    commentsToLikes: 0.016889
     id: ck1399bf9k5v70i19ek9kceqd
     verified: false
-    hashtags: "#nextwave, #goatrickz, #parkour, #reebok"
+    hashtags: "#reebok, #battleoffury, #adrenalineworldwide, #atg"
   - username: "shosei_iwamoto"
     fullname: >-
       Shosei Iwamoto / 岩本 将成
     bio: >-
-      Japan🇯🇵 Tricking World Champion🌎🥇 Adrenaline Pro Athlete PLEASE SUBSCRIBE MY YOUTUBE!👇🏻
+      from Japan🇯🇵 Tricking World Champion🌎🥇 Adrenaline Pro Athlete PLEASE SUBSCRIBE MY YOUTUBE!👇🏻
     location: "Japan"
-    followers: 113203
-    engagement: 1215
-    commentsToLikes: 0.010453
+    followers: 113405
+    engagement: 698
+    commentsToLikes: 0.012184
     id: ck0vwd05it56y0i19v4xdgf4c
     verified: true
-    hashtags: "#instagood, #kick, #power, #colantotte"
-  - username: "ryota_volatricks"
+    hashtags: "#tricking, #pr, #japan, #tumdra"
+  - username: "enterzagreb"
     fullname: >-
-      Ryota Koya
+      Enter Zagreb
     bio: >-
-      🇯🇵JAPANESE TRICKER 👑Red bull HKD gathering 日本一 🤝@volatricks and @valdeztokyo 所属 🙇‍♂️お仕事案件はDMまでお願い致します🙇‍♂️
+      97 i 99 MHz #mojavibra ↯ Listen LIVE! 💪🏼👇🏼
     location: "Japan"
-    followers: 5327
-    engagement: 2014
-    commentsToLikes: 0.028975
-    id: ckaowmila9ich0i78s0gksr1u
+    followers: 25101
+    engagement: 154
+    commentsToLikes: 0.029364
+    id: ck5pxuqpgt0ec0i11e8r51hhn
+    verified: false
+    hashtags: "#hrvatska, #entermusic, #zagreb, #sample"
+  - username: "megankealy"
+    fullname: >-
+      Megan Kealy
+    bio: >-
+      OFFICIAL QUATRO ATHLETE @quatrogymnastics 💕 GBR Tumbler🇬🇧 World medalist 🥇🥇🥇🥇🥉 European medalist🥇🥇🥈 @rejuven8physio ambassador ✨
+    location: "Japan"
+    followers: 6207
+    engagement: 625
+    commentsToLikes: 0.037711
+    id: ck55oqpw68x670i11ss9usb7c
+    verified: false
+    hashtags: "#fitness, #quatrogymnastics, #quatroleotards, #rejuven8physioambassador"
+  - username: "slovenskyolympijskytim"
+    fullname: >-
+      Slovenský olympijský tím
+    bio: >-
+      Fandite slovenským športovcom! 🇸🇰 #smejedentim
+    location: "Japan"
+    followers: 13078
+    engagement: 484
+    commentsToLikes: 0.010008
+    id: ck5zwao7t5sfi0i14rzfnr816
+    verified: false
+    hashtags: "#darujkrv, #slovensko, #slovakia, #sport"
+  - username: "paulablanco2001"
+    fullname: >-
+      Paula Blanco Carrelo
+    bio: >-
+      📍| Gijón, Asturias 🤸🏼‍♀️| Gimnasta, @crgalaica 🥇🇪🇸
+    location: "Japan"
+    followers: 3325
+    engagement: 2030
+    commentsToLikes: 0.174471
+    id: ck8sx1m8efwp90j78kwmo578u
     verified: false
     hashtags: ""
-  - username: "ava.ghnbri"
+  - username: "cac0o0"
     fullname: >-
-      @v@
+      ↟⍋↟⍋↟ Caco ↟⍋↟⍋↟
     bio: >-
-      لنگرود | گيلان | ايران . رویاهاتو دنبال کن...🦋 . ٩٦/٧/٢٣♾❤🧿
+      ᴛʀᴇᴋᴋɪɴɢ | ᴄᴀᴍᴘ | ʙᴏᴜʟᴅᴇʀɪɴɢ 𖥍𖠰 ғᴜᴊɪғɪʟᴍ xᴛ ⁴ 𖥍𖠰 ʜʏᴏɢᴏ ᴊᴀᴘᴀɴ 𖥍𖠰 ᴄᴏᴏᴋɪɴɢ | @cacomeshi . ʏᴏᴜᴛᴜʙᴇ はじめました 毎週土曜日に更新してます⚑︎⚐︎
     location: "Japan"
-    followers: 8064
-    engagement: 2035
-    commentsToLikes: 0.155341
-    id: ckaouxqk82a0e0i785f269ron
+    followers: 12352
+    engagement: 575
+    commentsToLikes: 0.002775
+    id: ck5ckxguaxt140i11oybhj5lz
     verified: false
-    hashtags: "#picpoem, #top, #portrait, #photoaxgram"
-  - username: "haptic404"
-    fullname: >-
-      ⚠️ 360 HyPeR VillAiN
-    bio: >-
-      « Creative Director · 360 Innovator » ■ 360 Cameras ■ CyBeRPUNK/TecHWeaR ■ URBeX!!
-    location: "Japan"
-    followers: 8388
-    engagement: 506
-    commentsToLikes: 0.065226
-    id: ck5hgluxw3gvc0i11yuskagm1
-    verified: false
-    hashtags: "#insta360, #urbex, #tokyo, #360video"
-  - username: "siiritumbless"
-    fullname: >-
-      siiri 🤍
-    bio: >-
-      🤍🌿🌸 @airtracknordic code: SIIRI10 @elasticgymwear & @makeaa.fin ambassador ily tuuli <3
-    location: "Japan"
-    followers: 13491
-    engagement: 1830
-    commentsToLikes: 0.130290
-    id: ck6tiv17r1hei0j713m81r59d
-    verified: false
-    hashtags: "#elasticfamily, #elasticgymwear, #feelelastic, #siiritumbless"
-  - username: "belleyogatokyo"
-    fullname: >-
-      Jo in Tokyo 🇯🇵
-    bio: >-
-      #MoveForThePlanetWednesdays @liforme mat code 👉BELLETOKYO 🛍Discount Codes 👇
-    location: "Japan"
-    followers: 64024
-    engagement: 114
-    commentsToLikes: 0.090738
-    id: ck0tycg14mewo0i19onieu1ta
-    verified: false
-    hashtags: "#motivation, #yinyoga, #meditation, #yogalife"
+    hashtags: "#camplife, #camphack, #ig, #negativemag"
 ---

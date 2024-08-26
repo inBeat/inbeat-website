@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Greece In 2023
+title: Top 10 Barbers Instagram Influencers In Greece In 2024
 description: >-
-  Find top barbers Instagram influencers in Greece in 2023. Most popular hashtags: #instagood #giveaway #barber #greece.
+  Find top barbers Instagram influencers in Greece in 2024. Most popular hashtags: #hair #instagood #style #barberlife.
 platform: Instagram
-hits: 14
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 14 Instagram influencers like this in Greece for you to contact.
+hits: 12
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 12 Instagram influencers like this in Greece for you to connect with.
 profiles:
   - username: "xzotos"
     fullname: >-
@@ -19,30 +19,6 @@ profiles:
     id: ckap0aovkpi0t0i786jtl59qg
     verified: false
     hashtags: "#fuckcovid19, #mood, #inked, #tillnexttime"
-  - username: "mercuris_hair_design"
-    fullname: >-
-      Mercuris
-    bio: >-
-      ☎️Ηράκλειο 2810 285812 ☎️Χερσόνησος 28973 00673 🏆Best barber of the year 2019 🇬🇷 🥇1st old school 🇬🇷 🥇1st fastest fade 🇬🇷 👨🏻‍🏫Barber Educator
-    location: "Greece"
-    followers: 27711
-    engagement: 484
-    commentsToLikes: 0.014925
-    id: ck15trgy6jio30i19451h6d2z
-    verified: false
-    hashtags: ""
-  - username: "vasilissera"
-    fullname: >-
-      Vasilis Serafetinidis
-    bio: >-
-      •Founder/Head of @joysbirththebarbershop •Director of @joysbirtheducation Traditional Barber ~ Classic Haircuts & Shaves 🔥Classics Never Die🔥
-    location: "Greece"
-    followers: 8548
-    engagement: 1217
-    commentsToLikes: 0.026181
-    id: ckf5qhcqf9d5u0j23sxprcjyt
-    verified: false
-    hashtags: ""
   - username: "joysbirththebarbershop"
     fullname: >-
       𝙅𝙤𝙮'𝙨 𝘽𝙞𝙧𝙩𝙝 𝙏𝙝𝙚 𝘽𝙖𝙧𝙗𝙚𝙧𝙨𝙝𝙤𝙥
@@ -55,6 +31,42 @@ profiles:
     id: ck0vzj9a79dp80i19ryheefbk
     verified: false
     hashtags: ""
+  - username: "mercuris_hair_concept"
+    fullname: >-
+      Mercuris
+    bio: >-
+      
+    location: "Greece"
+    followers: 36176
+    engagement: 297
+    commentsToLikes: 0.022117
+    id: ck15trgy6jio30i19451h6d2z
+    verified: false
+    hashtags: "#manstyle, #barbershopconnect, #inspiration, #starbeach"
+  - username: "romariothanasi"
+    fullname: >-
+      Romario Thanasi
+    bio: >-
+      Rio | Men’s Hair Consulting | @sophisticated.academy @menshairconsulting Online Booking Appointment
+    location: "Greece"
+    followers: 35116
+    engagement: 152
+    commentsToLikes: 0.022869
+    id: ck5c6frej5cgm0i11pgkqr9gz
+    verified: false
+    hashtags: "#menstattoo, #menshairstyles, #barber, #menshaircuts"
+  - username: "el.education_"
+    fullname: >-
+      El.education
+    bio: >-
+      The 🏛️ of men's hair structure your thinking within the el.education
+    location: "Greece"
+    followers: 194776
+    engagement: 52
+    commentsToLikes: 0.011443
+    id: ck15trh71jipc0i199tum3a9g
+    verified: false
+    hashtags: "#barbersince98, #barbershopconnect, #fadegame2raw, #eleducation"
   - username: "jim_kehagias"
     fullname: >-
       ᴊɪᴍ ᴋᴇʜᴀɢɪᴀs
@@ -67,30 +79,6 @@ profiles:
     id: ckap6b08tf4ut0i782amr8h8v
     verified: false
     hashtags: "#photooftheday, #athens, #greece, #influencer"
-  - username: "official_mariospriamos"
-    fullname: >-
-      Marios  Priamos
-    bio: >-
-      Producer - Presenter @travelpassengergr Ceo 🎬MPi media production Business inquiries 👇👇 📧 marios.p.ioannides@gmail.com
-    location: "Greece"
-    followers: 166202
-    engagement: 298
-    commentsToLikes: 0.144628
-    id: ck5zmdv5ume2m0i14oi5nqogx
-    verified: true
-    hashtags: "#travel, #survivor2017, #ad, #cyprus"
-  - username: "sakiskats"
-    fullname: >-
-      Sakis Katsoulis
-    bio: >-
-      Co-owner @invoid_spa & @invoid_fashion_store Founder @barberadiko_invoid_shopinshop Owner @goalkeeper_gloves_greece @sb_handmade_collection
-    location: "Greece"
-    followers: 22491
-    engagement: 487
-    commentsToLikes: 0.004879
-    id: ck5zkgclvjfj50i14x7wj84v3
-    verified: false
-    hashtags: "#shooting, #picoftheday, #menfashion, #instaselfie"
   - username: "lydia12l"
     fullname: >-
       📚Λυδία Λεσιώτη📚
@@ -115,16 +103,28 @@ profiles:
     id: ck5cc4l0ogppi0i11f3thxkr6
     verified: false
     hashtags: "#architecture, #expression, #natgeotravel, #beardlife"
-  - username: "alan_food"
+  - username: "spirosgrammenos_"
     fullname: >-
-      aLaN FoodChallenge
+      Σπύρος Γραμμένος
     bio: >-
-      🍔 🅼🅰️🅽🅶🅴🆄🆁 🅵🅾️🆄 🍔 💥28 αηѕ 📍Ƥαяιѕ 🎥ƳσυƬυвєυя ❗️780Ƙ ƑσƖƖσωєяѕ 🔥OηƁєgαуєƤαѕ 💪🏼 𝑴𝒀𝑷𝑹𝑶𝑻𝑬𝑰𝑵 : - 𝟒𝟓% ⭐️ 𝕄𝕠𝕟 𝕊𝕠𝕟 « 𝕁’𝕍𝕒𝕚𝕤 𝕋𝕠𝕦𝕥 𝔾𝕣𝕒𝕚𝕝𝕝𝕖 » 𝔻𝕚𝕤𝕡𝕠 𝕖𝕟 𝕤𝕥𝕣𝕖𝕒𝕞𝕚𝕟𝕘
+      Τραγουδοποιός #Influencer Συστημικός κονφερανσιέ Παραμυθάς Beauty Editor Χερ στάιλερ Λάιφ κόουτσερ Φάσιον άικον Επόμενος στόχος: #eurovision2021
     location: "Greece"
-    followers: 147874
-    engagement: 241
-    commentsToLikes: 0.025274
-    id: ck5c496ge0v3x0i1163oi940e
+    followers: 14010
+    engagement: 827
+    commentsToLikes: 0.009442
+    id: ck6tiok73148u0j71vzi74mgl
     verified: false
-    hashtags: "#yum, #loveyou, #love, #tasty"
+    hashtags: "#grammenoslive, #grammentinos, #marketing, #coffe"
+  - username: "vasilissera"
+    fullname: >-
+      Vasilis Serafetinidis 👹
+    bio: >-
+      Proud father of my family ❤️‍🔥@joysbirththebarbershop ❤️‍🔥@joysbirtheducation 𝐋𝐎𝐍𝐆 𝐋𝐈𝐕𝐄 𝐓𝐇𝐄 𝐂𝐋𝐀𝐒𝐒𝐈𝐂𝐒 • 精神力
+    location: "Greece"
+    followers: 183048
+    engagement: 1480
+    commentsToLikes: 0.019991
+    id: ckf5qhcqf9d5u0j23sxprcjyt
+    verified: false
+    hashtags: "#classicsneverdie, #keeptheoldschoolspiritalive, #comeandgetyourclassic, #joysbirththebarbershop"
 ---

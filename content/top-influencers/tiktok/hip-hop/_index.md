@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hip-Hop TikTok Influencers In 2023
+title: Top 10 Hip-Hop TikTok Influencers In 2024
 description: >-
-  Find top hip-hop TikTok influencers in 2023. Most popular hashtags: #fyp #hiphop #rap #freestyle.
+  Find top hip-hop TikTok influencers in 2024. Most popular hashtags: #fyp #hiphop #rap #stitch.
 platform: TikTok
-hits: 1326
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our database has 1326 TikTok influencers like this for you to connect with.
+hits: 1333
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 1333 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "jamsonslams"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckaij7okpdpti0i784caieaxp
     verified: false
     hashtags: "#eminem, #dialitforward, #doitbold, #freestyle"
+  - username: "djtyedupofficial"
+    fullname: >-
+      TyeDup the DJ
+    bio: >-
+      -Nebraska -DJ/Music Producer/Raver -Humor, EDM/HipHop, Turntablism ⬇️My Music⬇️
+    location: "United States"
+    followers: 141000
+    engagement: 1319
+    commentsToLikes: 0.047549
+    id: ckcdj82mw8nxr0j23u3khljcn
+    verified: false
+    hashtags: "#fyp, #greenscreen, #nebraska, #omaha"
   - username: "passionrap"
     fullname: >-
       PassionRap
@@ -115,16 +127,4 @@ profiles:
     id: ckbl6j2hb49bl0j23s19usojm
     verified: false
     hashtags: "#stitch, #fyp, #duet, #vine"
-  - username: "rhonamaev"
-    fullname: >-
-      rhonamae
-    bio: >-
-      Dancer/Singer/Madeer ‘Southside Hiphop’ 💃🏻 Cebuana 😉 For fun 🤘🏻
-    location: "Philippines"
-    followers: 1851
-    engagement: 881
-    commentsToLikes: 0.052000
-    id: ckb9jpdt6b3a40j23i3u0bp1l
-    verified: false
-    hashtags: "#tiktokph, #cebuanagirl, #xyzbca, #dancechallenge"
 ---

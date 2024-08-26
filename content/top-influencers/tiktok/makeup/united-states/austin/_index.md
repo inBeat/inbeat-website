@@ -1,12 +1,24 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Austin In 2023
+title: Top 10 Makeup TikTok Influencers In Austin In 2024
 description: >-
-  Find top makeup TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #foryou #makeup #greenscreen.
+  Find top makeup TikTok influencers in Austin in 2024. Most popular hashtags: #fyp #foryou #makeup #greenscreen.
 platform: TikTok
-hits: 124
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat has 124 TikTok influencers like this in Austin, United States for you to connect with.
+hits: 123
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our database holds 123 TikTok influencers like this in Austin, United States for you to collaborate.
 profiles:
+  - username: "siennaajohnson"
+    fullname: >-
+      Sienna :))
+    bio: >-
+      ATX|| 19 Insta: typicalsienna
+    location: "United States"
+    followers: 5614
+    engagement: 1228
+    commentsToLikes: 0.061227
+    id: ck8qj4wxwbw5n0j788x5qidmc
+    verified: false
+    hashtags: "#goodwill, #texas, #vintage, #austin"
   - username: "xo.dejamarie"
     fullname: >-
       déja
@@ -19,18 +31,6 @@ profiles:
     id: ckbw7oucwyy9f0j23bzbrqgu0
     verified: false
     hashtags: "#neverfitin, #teenwolf, #greenscreen, #codychristianedit"
-  - username: "therealtarnanlamb"
-    fullname: >-
-      taryn lamb
-    bio: >-
-      a series of major social media faux pas insta: taryn_lamb
-    location: "United States"
-    followers: 49800
-    engagement: 490
-    commentsToLikes: 0.092546
-    id: ck83z8ucfyq3j0j78p94ss0nz
-    verified: false
-    hashtags: "#fyp, #greenscreen, #throwback, #film"
   - username: "jenn_chaa"
     fullname: >-
       Jennifer Chavez
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.055528
     id: ck8qj4ulbbvom0j78vlg0prgr
     verified: false
-    hashtags: "#cover, #singing, #duet, #fyp"
+    hashtags: "#foryou, #fyp, #singing, #arianagrande"
   - username: "austinweberr"
     fullname: >-
       austin weber

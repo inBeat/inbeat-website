@@ -1,12 +1,24 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In San Francisco In 2023
+title: Top 10 Nutrition Instagram Influencers In San Francisco In 2024
 description: >-
-  Find top nutrition Instagram influencers in San Francisco in 2023. Most popular hashtags: #california #sanfrancisco #fitness #healthylifestyle.
+  Find top nutrition Instagram influencers in San Francisco in 2024. Most popular hashtags: #healthylifestyle #nutrition #california #fitness.
 platform: Instagram
-hits: 11
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 11 Instagram influencers like this in San Francisco, United States for you to pitch.
+hits: 14
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 14 Instagram influencers like this in San Francisco, United States for you to contact.
 profiles:
+  - username: "mashafastov"
+    fullname: >-
+      Maria Fastov
+    bio: >-
+      Health and wellness Registered Nurse, BSN Nutrition, lifestyle San Francisco Bay Area
+    location: "United States"
+    followers: 12695
+    engagement: 556
+    commentsToLikes: 0.095281
+    id: ck9wfxkulqyew0j78wgpgnlhp
+    verified: false
+    hashtags: "#healthylifestyle, #organicliving, #nutrition, #nutritionmatters"
   - username: "thepunjabilion"
     fullname: >-
       ROBO The Punjabi Lion
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.022025
     id: ck6u8nrtcsnc50j71spk76za7
     verified: false
-    hashtags: "#vs, #rights, #humanrights, #crisis"
+    hashtags: "#vs, #fire, #climatechange, #politics"
   - username: "thekatelync"
     fullname: >-
       Katelyn Ribero
@@ -45,16 +57,16 @@ profiles:
     hashtags: "#strongwomen, #personaltrainer, #mondaymotivation, #christianquotes"
   - username: "ericastenz"
     fullname: >-
-      ERICA STENZ
+      ERICA STENZ, CWP, CSNC, WFS, NASM-CPT
     bio: >-
-      Northern California @barrys ❌ Instructor NASM Certified Fitness Nutrition Specialist Author & Speaker Brand Ambassador & Model Discount: ERICASTENZ
+      𝗖𝗘𝗢 @weshredcollective 14 yrs Nutrition/Health/Fitness Investing Member @barrys +1:1 Coach (Biz+ IG) May 1st WeShred + Event Day Sun 5/19
     location: "United States"
-    followers: 57205
-    engagement: 225
-    commentsToLikes: 0.023244
+    followers: 57385
+    engagement: 172
+    commentsToLikes: 0.011508
     id: ck8t07gktr2r00j78byjqfi8p
     verified: false
-    hashtags: "#barrys, #ericastenz, #support, #dreamscometrue"
+    hashtags: "#accountability, #santamonica, #nutritionist, #influencer"
   - username: "myworkout.ig"
     fullname: >-
       My Workout
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.090231
     id: ckf5uex1vknim0j23wtyemo3v
     verified: false
-    hashtags: "#macrocounting, #iifym, #santacruz, #sf"
+    hashtags: "#santacruz, #nutritioncoach, #eathealthy, #hereforit"
   - username: "tripsbygelly"
     fullname: >-
       Gelly
@@ -90,41 +102,29 @@ profiles:
     commentsToLikes: 0.033855
     id: ckaoqxpcjkvvy0i78gz7rt8ec
     verified: false
-    hashtags: "#socal, #instapassport, #exploringtheglobe, #visitcalifornia"
-  - username: "belleofthedesert"
+    hashtags: "#girlswhotravel, #girlsborntotravel, #explorecalifornia, #wearetravelgirls"
+  - username: "tanechkabeautifulady"
     fullname: >-
-      Maribel 🌵
+      Tatiana O | Long Hair Girl
     bio: >-
-      Getting closer to God, my #1 Building mental and physical resiliency Running towards my fears Conquering my mind Worry less, Warrior more
+      DM📩 to collab 🇺🇸 California 🧝🏻‍♀️ Hair expert/Rapunzel #hairtips #beautytips 🎥Subscribe to my YouTube channel 👇🏻
     location: "United States"
-    followers: 10193
-    engagement: 1099
-    commentsToLikes: 0.021414
-    id: ckap2mwrjzjgj0i78zeux0efg
+    followers: 62122
+    engagement: 154
+    commentsToLikes: 0.111520
+    id: ck6ua7p2r1zmk0j71un2gnjsr
     verified: false
-    hashtags: "#roadtrippin, #halloweeneveryday, #desert, #trails"
-  - username: "kittiefactory"
+    hashtags: "#pelolargo, #healthylifestyle, #darkblondehair, #hairblogger"
+  - username: "kirstenalexisadventures"
     fullname: >-
-      The Kittie Factory
+      Kirsten Alexis | Mountaineer, Skier, Creator
     bio: >-
-      Free Heart and Paw Necklace 👇
+      Welcome to my highlight reel 📸 Adventure athlete ⛷ Content creator Meniscus surgery recovery/PT ❤️‍🩹 Journey of healing, strength, & purpose 🧘🏼‍♀️
     location: "United States"
-    followers: 52900
-    engagement: 173
-    commentsToLikes: 0.015425
-    id: ck0u80y0t64ts0i199utiddr4
+    followers: 20738
+    engagement: 96
+    commentsToLikes: 0.036191
+    id: ck5cfsmt6njyh0i11v2zen0t8
     verified: false
-    hashtags: "#adorable, #igdaily, #catoftheday, #catstagram"
-  - username: "myhomemantra"
-    fullname: >-
-      Radhika ☘️  BayArea MomBlog
-    bio: >-
-      👩🏻‍💻 Working Mom raising a happy 👧🏻 ✨ Obsessed with Simple Healthy Lifestyle ☘️ Homemade food Yoga Ayurveda are my jam! 💜 ⇩ Blog & YouTube Videos ⇩
-    location: "United States"
-    followers: 12088
-    engagement: 287
-    commentsToLikes: 0.102499
-    id: ck8t73t77fjxr0j78f5s2272q
-    verified: false
-    hashtags: "#homeschoolmom, #momlife, #workingmomlife, #mommyandme"
+    hashtags: "#livefearlessly, #hikecalifornia, #mtnchicks, #mindsetofgreatness"
 ---

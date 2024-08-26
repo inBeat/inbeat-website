@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Montreal In 2023
+title: Top 10 Athletes Instagram Influencers In Montreal In 2024
 description: >-
-  Find top athletes Instagram influencers in Montreal in 2023. Most popular hashtags: #montreal #fitness #work.
+  Find top athletes Instagram influencers in Montreal in 2024. Most popular hashtags: #montreal #athlete #fitness #workoutmotivation.
 platform: Instagram
-hits: 5
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 5 Instagram influencers like this in Montreal, Canada for you to contact.
+hits: 9
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 9 Instagram influencers like this in Montreal, Canada for you to connect with.
 profiles:
   - username: "mirage.boxing"
     fullname: >-
@@ -19,6 +19,54 @@ profiles:
     id: ck0twiunbfkw60i19bwnlh637
     verified: false
     hashtags: "#athlete, #montreal, #boxinglife, #fightsports"
+  - username: "23gregoire"
+    fullname: >-
+      Gregoire Bellemare
+    bio: >-
+      Streetworkout / Calisthenics Athlete & Coach Montreal🇨🇦 🌐WSWCF Certified Trainer 📥DM for Coaching/Business Inquiries
+    location: "Canada"
+    followers: 94652
+    engagement: 839
+    commentsToLikes: 0.018741
+    id: clin42hbsfory0j08c0w4eoak
+    verified: false
+    hashtags: "#humanflag, #streetworkout, #flag, #workout"
+  - username: "pharmathlete"
+    fullname: >-
+      Christopher Kebreau
+    bio: >-
+      Doctorate of Pharmacy 2k15 💊 LESS IS MORE ☯️ Beast Gohan 😈 Good things take time 🫡 #ACROCALISTHENIPOWERBUILDER BW: 230lbs
+    location: "Canada"
+    followers: 1409598
+    engagement: 126
+    commentsToLikes: 0.021385
+    id: ck5byy6h4q33q0i113ddg2yib
+    verified: false
+    hashtags: "#workoutmotivation, #lifelessons, #fitnessfreak, #fallsaga"
+  - username: "kait_hawayek"
+    fullname: >-
+      Kaitlin Hawayek, OLY
+    bio: >-
+      Olympian @teamusa 4x US National Medalist Currently 📍Montréal 🎧 K Haw
+    location: "Canada"
+    followers: 34124
+    engagement: 572
+    commentsToLikes: 0.018707
+    id: ck8swyajefmog0j78weu5iro4
+    verified: true
+    hashtags: "#figureskating, #icedancer, #jeanlucbaker, #skater"
+  - username: "frankboxingcoach"
+    fullname: >-
+      François Haché Lacombe
+    bio: >-
+      🥊Former boxer, turned coach, 20yrs in the game 🧠No nonsense approach to boxing training 📩for Pro & Amateur Training @hayabusacombat Coach 📍Montreal
+    location: "Canada"
+    followers: 512304
+    engagement: 211
+    commentsToLikes: 0.015302
+    id: ck5hj0h78fsg00i11u8yrt91t
+    verified: false
+    hashtags: "#boxeo, #boxing, #mtlfitness, #mma"
   - username: "allisonelang"
     fullname: >-
       ALLISON E. LANG
@@ -30,7 +78,7 @@ profiles:
     commentsToLikes: 0.099625
     id: ckap3rwrc4ar60i78z29q3lf1
     verified: false
-    hashtags: "#ardenelove, #sponsored, #ardenebabe, #ad"
+    hashtags: "#ardenelove, #ad, #sponsored, #ardenebabe"
   - username: "sherbatov"
     fullname: >-
       Eliezer Sherbatov
@@ -42,7 +90,7 @@ profiles:
     commentsToLikes: 0.031349
     id: ck5cgfgqyoqgj0i113j7go62b
     verified: false
-    hashtags: "#jewish, #mma, #poland, #dad"
+    hashtags: "#family, #poland, #father, #fatherdaughter"
   - username: "shreddedd_chicken"
     fullname: >-
       Ron Lee Fitness
@@ -67,64 +115,16 @@ profiles:
     id: ck5c2v9m4y24n0i1182gh5x6i
     verified: false
     hashtags: "#mycareer, #boxing, #montreal1976, #canada"
-  - username: "george_ahhh"
+  - username: "super_singh1313"
     fullname: >-
-      Georgia Ellenwood
+      SUPER SINGH WNBF PRO | TRANSFORMATION COACH
     bio: >-
-      🇨🇦 Heptathlete Olympian 8xAll American, NCAA Champ Earthlover 🌎 ..Not defined by my sport UA Athlete CAN Fund #150Women Recipient
+      👉🏻Natural Athlete💪🏽 👉🏻WNBF Canada PRO 🥇 👉🏻APU,Canada🇨🇦-Grand lift open champion74kg🥇 👉🏻 15 years of experience in Fitness 💪🏽 👉🏻Certified Trainer
     location: "Canada"
-    followers: 587094
-    engagement: 873
-    commentsToLikes: 0.014362
-    id: ck0vvscydqjkc0i198hfdkgl4
-    verified: true
-    hashtags: "#transitionsstylecolours, #underarmour, #giveaway, #uarunning"
-  - username: "thebenchase"
-    fullname: >-
-      Ben Chase
-    bio: >-
-      PEI | AB - 2x #1 Songs on iTunes Country Charts 🇨🇦 - 2019 Country Music Alberta’s Fan’s Choice Winner & 5x Nominee 🙌 - BJJ Athlete
-    location: "Canada"
-    followers: 16019
-    engagement: 587
-    commentsToLikes: 0.028175
-    id: ck13d6qi23ybn0i19i8awxw8l
+    followers: 67078
+    engagement: 1223
+    commentsToLikes: 0.016981
+    id: ck8wfmbvrfxo90j78i0xupp5v
     verified: false
-    hashtags: "#countrymusic, #single, #newmusic, #blackouttuesday"
-  - username: "mylougi3"
-    fullname: >-
-      Mylène Gionet
-    bio: >-
-      Fitness coach🤍 DM to get started! • Co-owner & online coach of @team_sunrise__ • Athlete manager of @moresupplements • Bikini athlete @teamatlasmtl
-    location: "Canada"
-    followers: 9094
-    engagement: 349
-    commentsToLikes: 0.065163
-    id: ck13781t4a9930i19pmmjc272
-    verified: false
-    hashtags: "#11weeksout, #unbothered, #7weeks, #exercices"
-  - username: "taylorxcross"
-    fullname: >-
-      Taylor Cross
-    bio: >-
-      🇨🇦 Canada. 🥇 Classic Physique 🥦 @hd.muscle Athlete code: CROSS 🏊🏼‍♂️ Commercial Diver/ Underwater Welder 👨‍🏭
-    location: "Canada"
-    followers: 16398
-    engagement: 206
-    commentsToLikes: 0.110018
-    id: ck8syvtfdm7ft0j78ugrn2b83
-    verified: false
-    hashtags: ""
-  - username: "allisonelang"
-    fullname: >-
-      ALLISON E. LANG
-    bio: >-
-      amputee & body inclusivity advocate 🇨🇦 educator | athlete | model | traveler | jokester rep by @agencelasuite 𖤥 mtl subscribe to my YouTube⤵
-    location: "Canada"
-    followers: 9872
-    engagement: 501
-    commentsToLikes: 0.099625
-    id: ckap3rwrc4ar60i78z29q3lf1
-    verified: false
-    hashtags: "#ardenelove, #sponsored, #ardenebabe, #ad"
+    hashtags: "#gymtime, #bodybuilder, #healthylifestyle, #ufitcrossfit"
 ---

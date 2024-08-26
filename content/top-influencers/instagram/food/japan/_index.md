@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Japan In 2023
+title: Top 10 Food Instagram Influencers In Japan In 2024
 description: >-
-  Find top food Instagram influencers in Japan in 2023. Most popular hashtags: #pr #fashion #ootd.
+  Find top food Instagram influencers in Japan in 2024. Most popular hashtags: #japan #parfait #patisserie.
 platform: Instagram
-hits: 525
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 525 Instagram influencers like this in Japan for you to pitch.
+hits: 543
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 543 Instagram influencers like this in Japan for you to pitch.
 profiles:
-  - username: "stefatty_"
+  - username: "splusdesign"
     fullname: >-
-      Stephanie
+      SuPlusDesign (Su)
     bio: >-
-      📍Tokyo, Japan 🍔 A burger a day keeps the doctor away ⬇️ New YT Video: Kobe & Kyoto Food Adventure
+      IGMA Artisan (Food) 1:12 scale Miniature New York 🇺🇸 インターナショナルギルド(アーティザン/フード) 1:12スケールのミニチュアを作っています。無言フォロー歓迎です。こちらからの無言フォロー失礼します🙇🏻‍♀️
     location: "Japan"
-    followers: 39011
-    engagement: 955
-    commentsToLikes: 0.042617
-    id: ckap1n6hav9o80i783vql3rm8
+    followers: 5117
+    engagement: 4088
+    commentsToLikes: 0.058021
+    id: ckap60byadx410i78cxocq84e
     verified: false
-    hashtags: "#novababe, #mycalvins, #pr"
-  - username: "helitiiamaria"
+    hashtags: "#fimo, #minithings, #dollhouse, #polymerclayartist"
+  - username: "nomkakaii"
     fullname: >-
-      𝒯𝒾𝓃𝓀𝑒𝓇𝒷𝑒𝓁𝓁𝒶
+      kai カイ
     bio: >-
-      #momlife #kids #fashion #beauty #food #flower #flatlay 👶🏽💗 Rosa 6/20 👶🏽💗 Jade 5/19 👦🏽💗 Lukas 9/12 💌 tinkerbellaheli@gmail.com 💕 Uusin video ⤵️
+      *ೃ˚📍 東京/香港/ LA • 20 🇭🇰 ꒱ ✶ ✎ food illustration + lifestyle ----- ＊dm for inquiries / collabs📩 📮 nomkakaiii@gmail.com *ੈ✩ shop + youtube ➷
     location: "Japan"
-    followers: 16327
-    engagement: 1069
-    commentsToLikes: 0.013703
-    id: ckap3dwfb2ntp0i78htwfh769
+    followers: 151020
+    engagement: 307
+    commentsToLikes: 0.008363
+    id: clocqd4emgziw0j08j9w89fuo
     verified: false
-    hashtags: "#ootd, #makeistukku, #taffelpandashop, #fillerina"
-  - username: "kiyomi_biyori"
+    hashtags: "#foodillustration, #ootd, #foodartist, #nomkakaii"
+  - username: "whatcouldbebutter"
     fullname: >-
-      kiyomi
+      sydney yorkshire •└A
     bio: >-
-      𝙵𝚄𝙺𝚄𝙾𝙺𝙰＊日々の記録 #旅行 #大人旅 #お出かけ #日常 ・ ⓈⓅⓄⓉ ▶︎📖まとめ📖 ・ 福岡のお店を中心としたグルメ記録◡̈⋆* ☞ @kiyomi_food #福岡グルメ #福岡ランチ #福岡カフェ #福岡スイーツ
+      half japanese. half jewish. full hungry. social media consulting • food 📷• @egg.salad.sando ✉️: whatcouldbebutter@gmail.com
     location: "Japan"
-    followers: 10672
-    engagement: 1569
-    commentsToLikes: 0.010811
-    id: ck5zmqjbpn1g90i14m7bi3aqn
+    followers: 34533
+    engagement: 291
+    commentsToLikes: 0.092497
+    id: ck0w43szkwnw40i19gfh2aotq
     verified: false
-    hashtags: "#pr, #withthestyle, #withthestylefukuoka, #crowncoffee"
-  - username: "kuuu.kumiko"
+    hashtags: "#wcbbdoeshawaii, #burger, #cheeseburger, #wcbbdoesnewyork"
+  - username: "tennisweets"
     fullname: >-
-      Kumiko Suzuki  鈴木久美子
+      てにすい
     bio: >-
-      #beauty #fashion #health #foods #lifestyle #猫のいる暮らし 🎂1976 ♎︎ 164cm 🇯🇵 ・Freelance model ・経歴…第8回国民的美魔女コンテストfinalist ※仕事以外のDMへは返信していません 。
+      🇯🇵Japan / Foodie / Traveler🇫🇷 📷美しく美味しいスイーツを求める日々🍰 ・ 🙇他の媒体での掲載・引用は希望していません🙏
     location: "Japan"
-    followers: 41897
-    engagement: 316
-    commentsToLikes: 0.032118
-    id: ckap4ky277r6y0i78yzmchql7
+    followers: 44925
+    engagement: 252
+    commentsToLikes: 0.002246
+    id: ck8t3u5864i6b0j78ehhtvx5k
     verified: false
-    hashtags: "#lifestyle, #fashion, #beautiful, #health"
-  - username: "rareirurero"
+    hashtags: "#pastery, #gateau, #parfait, #pierreherme"
+  - username: "sayuri__offi"
     fullname: >-
-      Rei 大おお猿ざる
+      藤渡小百合/fujito sayuri
     bio: >-
-      Little Monkey💢🐵 。サイヤ人 。737年04月09日 。When I look at 🌕 I turn into a nasty monkey. 。music/cat/food/anime 。Kawaiistep/Jpop-rock/RAP-RnB/V系 M.A.D.A.O
+      ※左顔面神経麻痺　闘病中💉※ 【現役ナース🏥&タレント📺】 ブレイキングダウンガール🥊🔥 ・ abemaTV『シャッフルアイランド2』 TBS系列『週刊さんまとマツコ』 日テレ系列『マツコ会議』 ・ お尻アカ🍑 @sayuri__225 料理垢🍳　@sayuri__food
     location: "Japan"
-    followers: 46288
-    engagement: 1613
-    commentsToLikes: 0.006166
-    id: ck14lpg8uvtvx0i19qt4l4lmy
+    followers: 94463
+    engagement: 221
+    commentsToLikes: 0.013690
+    id: ck6tuvt8riphh0j716szm8qvi
     verified: false
-    hashtags: "#altervenomv, #kny, #mitsurikanrojicosplay, #piercing"
-  - username: "xshizzyx"
+    hashtags: "#wanima, #kayg, #bbqlife, #pr"
+  - username: "khshu_"
     fullname: >-
-      Shizuka Anderson | アンダーソン静香✨
+      千千
     bio: >-
-      Miss World Japan 2020 Finalist 特別賞受賞 🏆 NHK World TV & YouTube presenter 🎥 🇯🇵x🇨🇦 Halfie See our latest Japan By Food episode here! 😋⤵︎
+      @suisuikitchen @chienseating @chien_foodcart
     location: "Japan"
-    followers: 73625
-    engagement: 773
-    commentsToLikes: 0.015620
-    id: ck13741jw9o240i198fwx7yt4
-    verified: false
-    hashtags: "#japanbyfood, #harajuku, #cp, #missworldjapan2020"
-  - username: "ryoko_kobayashi_ryoko"
-    fullname: >-
-      小林涼子/ Ryoko “Toko” Kobayashi
-    bio: >-
-      Japanese,Korean,English/ food,beauty,travel... お問い合わせは☞kobayashi.ryoko.info@gmail.com ☟活動こちらにまとめています☟
-    location: "Japan"
-    followers: 63403
-    engagement: 621
-    commentsToLikes: 0.011867
-    id: ck0vz9fbj7z6p0i19ln6fsjwd
+    followers: 803552
+    engagement: 211
+    commentsToLikes: 0.003965
+    id: ck0vvrkbbqg830i19a7phuz9y
     verified: true
-    hashtags: "#2021, #family, #heart, #nomadis"
-  - username: "azuayu"
+    hashtags: "#superstar, #teamlabplanets, #toyosu, #gummydrops"
+  - username: "77.food"
     fullname: >-
-      🍓azu🍓
+      巨鳥胃77 ｜台北 ｜桃園 ｜台中 ｜日本｜美食 ｜旅遊
     bio: >-
-      あづ🐰Japan ❤️#fashion ❤️#food #海外旅行 だいすき✈︎ オンライン #パーソナルトレーナー 👟 YouTube始めました「ゆるあづTube」 #美容大好き 🍬 Twitter🐤@azu1oo2 tiktok@azuayu #フリーモデル お仕事依頼はDM💌
+      LINE@：@77.food 🐱：@junming_cat → 🇹🇭 BKK 8/30-9/4 → 🇲🇦 Morocco Oct. → 🇯🇵 Tokyo 11/22-11/26 → 🐧 Antarctica Dec.
     location: "Japan"
-    followers: 42664
+    followers: 336268
+    engagement: 203
+    commentsToLikes: 0.021626
+    id: ck55og5k68acz0i11tyvuiifj
+    verified: false
+    hashtags: "#bangkok, #harrypotter, #thailand, #bkk"
+  - username: "kfclovesyou"
+    fullname: >-
+      Kirstie Chan
+    bio: >-
+      food • travel • life + sharing experiences & self-care 📍 Seattle 📧: kirstie@kirstiechan.com
+    location: "Japan"
+    followers: 23230
+    engagement: 187
+    commentsToLikes: 0.029083
+    id: clpdgyi8bf8o80k089161kruz
+    verified: false
+    hashtags: "#tokyotravel, #seattleblogger, #seattlefoodie, #hosted"
+  - username: "bymichellewon"
+    fullname: >-
+      MICHELLE WON previously known as califreenails
+    bio: >-
+      Just a girl born and raised in Los Angeles ! ★~(◠ω◕✿) Pregnancy | Nails | Foodie 🌟 ORDER YOUR CUSTOM PRESS ON NAILS TODAY ⬇️
+    location: "Japan"
+    followers: 63280
     engagement: 162
-    commentsToLikes: 0.044681
-    id: ckap8l9epotvx0i7846bd4og0
+    commentsToLikes: 0.033001
+    id: ck5zsti5sz5pr0i14412xpuyo
     verified: false
-    hashtags: "#fashion, #topards, #247, #pr"
-  - username: "stephyyiwen"
+    hashtags: "#jupiternails, #pressonnails, #nails, #smallbusinessowner"
+  - username: "crazydeya"
     fullname: >-
-      STEPHY 郑意文
+      crazydeya
     bio: >-
-      Travel | Music | Food | Beauty 💌 stephyyiwen55@gmail.com MY LATEST YOUTUBE VIDEO :
+      DEYA® | MUAH | HAIR SPECIALIST | EXTENSIONS CEO: @salon.deya hobby: @mylovely_food @deya_original collab: crazydeya@pobox.sk 📍Bratislava
     location: "Japan"
-    followers: 499424
-    engagement: 279
-    commentsToLikes: 0.001982
-    id: ck0vz393x72lz0i190xw0ysei
+    followers: 59648
+    engagement: 117
+    commentsToLikes: 0.025006
+    id: ck5ci3381rx780i114cyx68py
     verified: false
-    hashtags: "#myacer, #swift5, #acerday2021, #crunchykawkaw"
-  - username: "anzu_akiba"
-    fullname: >-
-      🌹Anzu Akiba🌹
-    bio: >-
-      👸🏻 Miss Japan 🇯🇵 💃 Miss Asia 3rd 👯‍♀️ Best Body Japan Tokyo&Chiba GP 🧜🏻‍♀️ Model｜Editor｜Secretly｜Food analyst ❤️ travel｜food｜art｜fashion
-    location: "Japan"
-    followers: 9817
-    engagement: 627
-    commentsToLikes: 0.027776
-    id: ckap7wrqblwkw0i781qzx2ckb
-    verified: false
-    hashtags: "#asias50best, #japanesegirl, #bikini, #workout"
+    hashtags: "#summervibes, #prazdniny, #realpeople, #samsung"
 ---

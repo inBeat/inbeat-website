@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Portugal In 2023
+title: Top 10 Fitness TikTok Influencers In Portugal In 2024
 description: >-
-  Find top fitness TikTok influencers in Portugal in 2023. Most popular hashtags: #fitness #fyp #funny #viral.
+  Find top fitness TikTok influencers in Portugal in 2024. Most popular hashtags: #fitness #fyp #viral #funny.
 platform: TikTok
 hits: 14
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our database holds 14 TikTok influencers like this in Portugal for you to work with.
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 14 TikTok influencers like this in Portugal for you to contact.
 profiles:
   - username: "maurosimoes_142"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.026982
     id: ck9glci1knl150j78kmvzjgzr
     verified: true
-    hashtags: "#prank, #comedia, #fy, #today"
+    hashtags: "#bday, #lol, #dance, #happybirthday"
   - username: "nunopintor"
     fullname: >-
       Nuno Pinto

@@ -1,24 +1,12 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Bali In 2023
+title: Top 10 Skincare Instagram Influencers In Bali In 2024
 description: >-
-  Find top skincare Instagram influencers in Bali in 2023. Most popular hashtags: #bali #skincare #balilife #baliindonesia.
+  Find top skincare Instagram influencers in Bali in 2024. Most popular hashtags: #bali #skincare #birthday #fashion.
 platform: Instagram
 hits: 95
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 95 Instagram influencers like this in Bali, Indonesia for you to connect with.
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 95 Instagram influencers like this in Bali, Indonesia for you to collaborate.
 profiles:
-  - username: "annita.liem"
-    fullname: >-
-      Annita🦁
-    bio: >-
-      as bad as it can get, good as it can be⚡ × @leighwoods.healthygourmet 🍽️ endorse/invitation: DM
-    location: "Indonesia"
-    followers: 28946
-    engagement: 161
-    commentsToLikes: 0.066586
-    id: ck6u0rndchdha0j71062bxkt4
-    verified: false
-    hashtags: "#travel, #travelgram, #balibeachclub, #lifestyleblogger"
   - username: "vybeaute.id"
     fullname: >-
       𝕭𝖊𝖆𝖚𝖙𝖞 𝖆𝖘 𝖞𝖔𝖚;
@@ -31,30 +19,90 @@ profiles:
     id: ckap9wf2jttuh0i78bhjxsx47
     verified: false
     hashtags: "#lotionpemutih, #skincare, #bali, #sabunkefircollostrum"
-  - username: "ikasanz"
+  - username: "karinporavne"
     fullname: >-
-      Ikasanz Yoe ♠️
+      Karin Poravne
     bio: >-
-      ●》INFLUENCER《● [ Fitness Enthusiast , Beauty & Healthy Lifestyle ] ENDORSE // COLLABS DM 💌 https://affiliate.shopee.co.id/ 📍 BALI 🥥🌴
+      📍Bali Owner of @kp.beautystudio Co-Founder of @elinorcosmetics Also mine @eyeimpactslovenija 🐶 Bali paws projekt:
     location: "Indonesia"
-    followers: 53312
-    engagement: 224
-    commentsToLikes: 0.142564
-    id: ck9wgk1f5trp10j78o2ldtyun
+    followers: 22502
+    engagement: 568
+    commentsToLikes: 0.014260
+    id: ck6tuqz0uhwdy0j71pn10zbsd
     verified: false
-    hashtags: "#balivibes, #fitnessmom, #styleblogger, #balibible"
-  - username: "vanessaangelofficial"
+    hashtags: "#balivibes, #womeninbusiness, #glowlikeneverbefore, #cleansingbalm"
+  - username: "yaelahbro"
     fullname: >-
-      Vanessa AngeL 🍌
+      Mega Gumelar
     bio: >-
-      A mother and a wife. Boleh endorse : 081385886836 😁 @kebabngidam BA of : @beningsclinic_jakarta @applesolution.id @madu_amil
+      📸 @mgcostudio 📍Bali • TikTok 150K+ @megaieo 📧 megagumelar.contact@gmail.com ⬇️Pricelist & Booking Photoshoot ⬇️
     location: "Indonesia"
-    followers: 2528394
-    engagement: 191
-    commentsToLikes: 0.012589
-    id: ck137q51vct9j0i19lm7je9ys
+    followers: 58586
+    engagement: 1520
+    commentsToLikes: 0.012113
+    id: ckap0zp96si5u0i7891bncxda
     verified: true
-    hashtags: "#beningsekarang, #sahabatbening, #golf, #keluargala"
+    hashtags: "#love, #fashion, #cute, #art"
+  - username: "risyadsalman"
+    fullname: >-
+      RISYAD | BALI MODEL
+    bio: >-
+      📍 Bali ▪️Sport, lifestyle, and fashion enthusiast ▪️Part of @studio47id ▪️ #janganlupaolahraga #risyadpergike
+    location: "Indonesia"
+    followers: 19192
+    engagement: 2319
+    commentsToLikes: 0.022912
+    id: ck13a91c1p83t0i19upvm8gbk
+    verified: false
+    hashtags: "#model, #fashionmodel, #modellife, #modelbali"
+  - username: "meme.comic.id_"
+    fullname: >-
+      SAYA JUGGA SAYANG KAMU KOK
+    bio: >-
+      ASSALAMUALAIKUM MAU INFO PP DM AJA GK USH TAKUT MURAH KOK meme tergaring:@algifac_ LEBIH NGAKAK :@ngakaktaugak FOLLOW:@meme.ngaklucu ikuti:@fucek.ki_
+    location: "Indonesia"
+    followers: 79678
+    engagement: 852
+    commentsToLikes: 0.025910
+    id: ck8t440yb5fnq0j78ybmhdvi6
+    verified: false
+    hashtags: "#memecomikindonesia, #paidpromote, #memecomic, #guyonanjowokoplak"
+  - username: "bunnyvox"
+    fullname: >-
+      Varshinne Varma
+    bio: >-
+      Yours Chittamma 🦋
+    location: "Indonesia"
+    followers: 2192649
+    engagement: 627
+    commentsToLikes: 0.001925
+    id: ck55lhhmp1ktp0i11s6xqu4jv
+    verified: false
+    hashtags: "#bunnyvox, #birthday, #yemayaundo, #olayretinol"
+  - username: "ariacous"
+    fullname: >-
+      𝔸𝕣𝕚𝕒𝕟𝕖
+    bio: >-
+      Fashion & lifestyle 28 | Belgium l Ghent | ♓️ Founder of @variablethelabel UGC, Tiktok & Youtube ✉️ arianecouss@gmail.com
+    location: "Indonesia"
+    followers: 133972
+    engagement: 955
+    commentsToLikes: 0.343721
+    id: ck6ub5q557mii0j7132rl8uut
+    verified: false
+    hashtags: "#fashiongram, #outfitinspo, #balilife, #belgianblogger"
+  - username: "its_amritakhanal"
+    fullname: >-
+      𝐀𝐦𝐫𝐢𝐭𝐚 𝐤𝐡𝐚𝐧𝐚𝐥
+    bio: >-
+      Snapchat : amrukhanal
+    location: "Indonesia"
+    followers: 1007601
+    engagement: 134
+    commentsToLikes: 0.008655
+    id: ck15rj4o586bg0i190xktsspx
+    verified: false
+    hashtags: "#amritakhanal, #reelkarofeelkaro, #reelsinstagram, #foryoupage"
   - username: "syahrini.reino_2702"
     fullname: >-
       Syahrini Reino Fans
@@ -79,52 +127,4 @@ profiles:
     id: ck13cwr982jhy0i19u93yaykk
     verified: false
     hashtags: "#bali, #infokarangasem, #karangasem, #rawatwajah"
-  - username: "animoji_indonesia"
-    fullname: >-
-      story video
-    bio: >-
-      ▶️ cuma ingin menghibur kalian 🙌 👥 suport terus ya teman akun kita. 📩 pp / kerjasama, whatsapp ╮
-    location: "Indonesia"
-    followers: 170022
-    engagement: 88
-    commentsToLikes: 0.009618
-    id: ck15sc3qbc9az0i1980xdnhj8
-    verified: false
-    hashtags: "#studio42uhf, #micinngakak, #cantik, #nisasabyan"
-  - username: "risyadsalman"
-    fullname: >-
-      RISYAD | BALI MODEL
-    bio: >-
-      📍 Bali ▪️Sport, lifestyle, and fashion enthusiast ▪️Part of @studio47id ▪️ #janganlupaolahraga #risyadpergike
-    location: "Indonesia"
-    followers: 19192
-    engagement: 2319
-    commentsToLikes: 0.022912
-    id: ck13a91c1p83t0i19upvm8gbk
-    verified: false
-    hashtags: "#balimodel, #canggubali, #uluwatu, #ubudbali"
-  - username: "saintsunnn"
-    fullname: >-
-      ☀️sun☀️
-    bio: >-
-      Akun real📌 📩 Open ENDORS/PP = DM 🥀Mau di follback cukup spam like❤️ 📌 Pontianak , Kalimantan barat 🧑 Chinese ✝️✝️✝️✝️✝️
-    location: "Indonesia"
-    followers: 17467
-    engagement: 1979
-    commentsToLikes: 0.054867
-    id: ck9wgrsrbupcx0j78fmc2s777
-    verified: false
-    hashtags: "#followforfollowback, #selebgram, #fff, #tiktok"
-  - username: "linkangelia"
-    fullname: >-
-      Linka Angelia
-    bio: >-
-      1994 | @rumahsenjapagi | @katakita_apparel.id | @little.linka
-    location: "Indonesia"
-    followers: 544310
-    engagement: 1173
-    commentsToLikes: 0.006340
-    id: ckapasdsrxa7p0i78jojo8oyz
-    verified: false
-    hashtags: "#cgi, #pubgm, #antiputusnyambungterus, #3d"
 ---

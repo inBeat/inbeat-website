@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Dallas In 2023
+title: Top 10 Mothers Instagram Influencers In Dallas In 2024
 description: >-
-  Find top mothers Instagram influencers in Dallas in 2023. Most popular hashtags: #newmexico #travelblogger #travelphotography.
+  Find top mothers Instagram influencers in Dallas in 2024. Most popular hashtags: #momlife #momsofinstagram #pregnant.
 platform: Instagram
-hits: 36
+hits: 51
 text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 36 Instagram influencers like this in Dallas, United States for you to connect with.
+text_bottom: Our search engine aggregates 51 Instagram influencers like this in Dallas, United States for you to contact.
 profiles:
   - username: "iinkstar_pinkyy"
     fullname: >-
@@ -18,19 +18,7 @@ profiles:
     commentsToLikes: 0.032822
     id: ck8szkvedou700j78u9jkqdoo
     verified: false
-    hashtags: "#pretty, #outside, #ok, #im"
-  - username: "toddabrams"
-    fullname: >-
-      Todd Abrams
-    bio: >-
-      Redefining the #DadBod CEO of @iconmeals 🍽 Father, Husband 👶👨 Entrepreneur and Connector! Test yourself Everyday💯👉Be Relentless👈
-    location: "United States"
-    followers: 15765
-    engagement: 268
-    commentsToLikes: 0.070679
-    id: ck15u1c4ukxx30i195e0wg3oo
-    verified: false
-    hashtags: "#mindset, #life, #neversettle, #dad"
+    hashtags: "#duh, #outside, #pretty, #ok"
   - username: "quewhyareaye"
     fullname: >-
       Slim 🍷
@@ -42,7 +30,7 @@ profiles:
     commentsToLikes: 0.043024
     id: ck5qe6iytyylb0i11omguapc3
     verified: false
-    hashtags: "#princessczh, #bouttomakeheraig, #upanditsstuck, #family"
+    hashtags: "#totwentytwentyone, #carazuri, #fuckcovid19, #101019"
   - username: "mommadeesimmons"
     fullname: >-
       Dee Simmons
@@ -55,76 +43,88 @@ profiles:
     id: ck55mbz6i3mj40i11eicdkwg4
     verified: false
     hashtags: ""
+  - username: "ashleydaniellemeadows"
+    fullname: >-
+      Ashley Danielle Meadows
+    bio: >-
+      faith + motherhood + everything in between ✨ Wife • @iammichaelmeadows 💍 Mama • Johnathon + Olivia 🤍 Founder • @womanunleashed.inc
+    location: "United States"
+    followers: 20261
+    engagement: 146
+    commentsToLikes: 0.059465
+    id: cl6m47w3wkl9u0i23fqs1s8tb
+    verified: false
+    hashtags: "#blacklove, #funnyreels, #expectingmom, #momofboth"
+  - username: "shoplovelucy"
+    fullname: >-
+      Lucy Murchison
+    bio: >-
+      Mother of four sharing what I love most 💗 Family, Faith, Celebrations, Solutions & Stationery ✨ 💌 : shoplovelucy@gmail.com
+    location: "United States"
+    followers: 28789
+    engagement: 168
+    commentsToLikes: 0.064042
+    id: ckqvvt21c2nqm0j23t7dfpwud
+    verified: false
+    hashtags: "#momsofinstagram, #lovelucytutorial, #fridayflorals, #simplesolutions"
   - username: "theprinceandthep"
     fullname: >-
-      𝙎𝙝𝙖𝙮
+      Shay
     bio: >-
-      Dallas, TX ✨ intentional mother, exceptional realness, incredible faith ✨ life|style of a baddie + a hipster + a misses + a mister ✨ curl whisperHer ➿
+      📍 : dallas, tx 🕊 : heal w/ me: @hopeinthenow 🖤 : OUR joy, MY peace, HIS promise 🙏🏾 ✨️ : incredible faith, intentional mother, exceptional realness
     location: "United States"
-    followers: 45476
-    engagement: 283
-    commentsToLikes: 0.058380
+    followers: 83055
+    engagement: 84
+    commentsToLikes: 0.050167
     id: ck6tkdlib4hql0j71zsqt9zuk
     verified: false
-    hashtags: "#theprinceandthep, #baddiep, #theprinceandthepreels, #theprinceandthepparents"
-  - username: "marcosal85"
+    hashtags: "#theprinceandthepmommy, #hopeinthenow, #theprinceandthep, #dashwafflemaker"
+  - username: "chels.arnott"
     fullname: >-
-      Marco
+      Chelsea Arnott
     bio: >-
-      •ARCHITECT •MODEL •TRAVELER •CONTENT CREATOR •DALLAS, TX. 📍 For bookings/brand deals: ✉️officialmarcosal85@gmail.com
+      sharing all things mamahood, lifestyle & home tiktok & youtube- chels.arnott ⭒ dallas, tx ↓ LINKS ↓ chelsea.arnott@outlook.com
     location: "United States"
-    followers: 129488
-    engagement: 408
-    commentsToLikes: 0.024418
-    id: ckaoujcuc0iy50i78ms1a6005
+    followers: 97828
+    engagement: 37
+    commentsToLikes: 0.035360
+    id: clddcuy6zjh9b0j08uim87k08
     verified: false
-    hashtags: "#travel, #newmexico, #hairy, #scruff"
-  - username: "deecorseytattoos"
+    hashtags: "#momlife, #mom, #pregnant, #momroutine"
+  - username: "laurynlately"
     fullname: >-
-      D E R E K   C O R S E Y
+      Lauryn Henry
     bio: >-
-      🐐 🇨🇱Dallas, Tx (469) 755-9769 👍🏾Please select the “TEXT” tab for tattoo inquiries!!! 🙅🏾‍♂️DO NOT select the “Message” tab
+      PETITE FASHION | TRAVEL | LIFESTYLE | MOM 🤍 📍DALLAS 📩: lauryn@laurynlately.com
     location: "United States"
-    followers: 11442
-    engagement: 419
-    commentsToLikes: 0.037536
-    id: ck9wdxqs1hqua0j78altw3va1
+    followers: 18876
+    engagement: 32
+    commentsToLikes: 0.013737
+    id: ck5zxuutd8pgk0i14b89ayddp
     verified: false
-    hashtags: "#blackandgreytattoo, #colortattoo, #tattoorealistic, #blackandgrey"
-  - username: "nehulicious"
+    hashtags: "#dallasblogger, #lifestyleinfluencer, #ootd, #momblogger"
+  - username: "gabysballoons_"
     fullname: >-
-      Neha Malhotra | Millennial Mom
+      Gabrielle Gonzalez       Gaby's Balloons LLC 🎈
     bio: >-
-      • Fashion • Travel • Lifestyle • Motherhood • Published on @google @thebump Indian Influencer🇮🇳🇺🇸in Dallas TX #PunjabiMom of @the.k.boys 🛍Shop here👇🏼
+      Mother & Daughter Gaby & Gabs SoCal: IE, LA, OC 🎈 Fill out an Inquiry form on our website! Minimum order $750
     location: "United States"
-    followers: 35916
-    engagement: 241
-    commentsToLikes: 0.196800
-    id: ck0w0ywt0gpt10i193wq7pat2
+    followers: 123912
+    engagement: 13
+    commentsToLikes: 0.066932
+    id: ck5c4swqv217f0i11z32dwh4e
     verified: false
-    hashtags: "#dallasblogger, #nehulicious, #trendingreels, #browngirlgang"
-  - username: "eatingthebigd"
+    hashtags: "#balloonworkshop, #jungleteam, #balloons, #yeehaw"
+  - username: "slapdee"
     fullname: >-
-      Eating the Big D • Dallas Food
+      Slap Dee
     bio: >-
-      Fork it I’m getting the pizza 💞DALLAS FOODIE 📩 GET IN TOUCH: eatingthebigD@gmail.com
+      http://www.eventbrite.com/e/slap-dee-performing-live-in-dallas-tx-tickets-604189435867?aff=ebdssbdestsearch
     location: "United States"
-    followers: 19516
-    engagement: 295
-    commentsToLikes: 0.105939
-    id: ckap9pse9t5pa0i78jr1322fe
-    verified: false
-    hashtags: "#mother, #earth, #bowl, #laspalmasambassador"
-  - username: "sherrieshepherd"
-    fullname: >-
-      Sherri
-    bio: >-
-      Newest Co-Host of Fox’ Dish Nation * 1/2 of Two Funny Mamas the Podcast on YouTube • Emmy Winner • Actress • Funny Girl • Mother & Dancing Machine 😉
-    location: "United States"
-    followers: 1034187
-    engagement: 83
-    commentsToLikes: 0.048474
-    id: ck0vypqzi56tu0i19l69nujgh
+    followers: 492267
+    engagement: 99
+    commentsToLikes: 0.022668
+    id: ck6u5dszr91tb0j71ep3vo63n
     verified: true
-    hashtags: "#kymwhitley, #sherrishepherd, #teamhealthy, #comic"
+    hashtags: "#tele, #supremacy, #yourfavouritemc, #mayc"
 ---

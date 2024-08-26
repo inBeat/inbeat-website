@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Switzerland In 2023
+title: Top 10 Gaming TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top gaming TikTok influencers in Switzerland in 2023. Most popular hashtags: #gaming #fyp #foryou #fortnite.
+  Find top gaming TikTok influencers in Switzerland in 2024. Most popular hashtags: #gaming #fyp #foryou #fortnite.
 platform: TikTok
-hits: 25
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our platform holds 25 TikTok influencers like this in Switzerland for you to pitch.
+hits: 23
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our search engine holds 23 TikTok influencers like this in Switzerland for you to work with.
 profiles:
   - username: "chiefavalon"
     fullname: >-
@@ -50,11 +50,11 @@ profiles:
       SJHVPY Creator Code Gueaezi ⚔️ Profilbild von @5lingaming
     location: "Switzerland"
     followers: 13900
-    engagement: 1080
-    commentsToLikes: 0.047597
+    engagement: 1052
+    commentsToLikes: 0.047199
     id: ckamm4f96yxow0i785z74zyca
     verified: false
-    hashtags: "#video, #starwars, #foryou, #gaming"
+    hashtags: "#porgies, #gta5, #ichzocke, #ps4"
   - username: "5lingaming"
     fullname: >-
       .
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.064552
     id: ckan5zydxhldj0i78hryc1o92
     verified: false
-    hashtags: "#varoxcraft, #ichzocke, #fun, #gaming"
+    hashtags: "#gta5, #fun, #ichzocke, #fy"
   - username: "brominga"
     fullname: >-
       brominga

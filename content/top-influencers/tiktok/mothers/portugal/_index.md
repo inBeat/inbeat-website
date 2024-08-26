@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Portugal In 2023
+title: Top 10 Mothers TikTok Influencers In Portugal In 2024
 description: >-
-  Find top mothers TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #viral #tiktok #foryou.
+  Find top mothers TikTok influencers in Portugal in 2024. Most popular hashtags: #fyp #viral #tiktok #portugal.
 platform: TikTok
 hits: 9
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 9 TikTok influencers like this in Portugal for you to connect with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our database has 9 TikTok influencers like this in Portugal for you to collaborate.
 profiles:
   - username: "officialharry06"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.005514
     id: cka6nwrfkd5ft0i782ax1h0xa
     verified: false
-    hashtags: "#fyp, #viral, #makeup, #anime"
+    hashtags: "#alt, #cocoandeve, #anime, #hudabeauty"
   - username: "anaferreira_of"
     fullname: >-
       Ana Ferreira

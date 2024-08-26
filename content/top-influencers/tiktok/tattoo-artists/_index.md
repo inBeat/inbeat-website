@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In 2023
+title: Top 10 Tattoo-Artists TikTok Influencers In 2024
 description: >-
-  Find top tattoo-artists TikTok influencers in 2023. Most popular hashtags: #tattooartist #tattoo #fyp #tattoos.
+  Find top tattoo-artists TikTok influencers in 2024. Most popular hashtags: #fyp #tattoo #tattooartist #stitch.
 platform: TikTok
-hits: 513
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 513 TikTok influencers like this for you to contact.
+hits: 510
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 510 TikTok influencers like this for you to connect with.
 profiles:
   - username: "bluerosetattoo"
     fullname: >-
@@ -37,12 +37,12 @@ profiles:
     bio: >-
       🇨🇦 tattoo artist / Atheist / 🏳️‍🌈 Ally / BLM - link to buy shirts below vvvv
     location: "Canada"
-    followers: 23800
-    engagement: 1458
-    commentsToLikes: 0.162153
+    followers: 24800
+    engagement: 1438
+    commentsToLikes: 0.124065
     id: ck9skix0v8z0r0j788n9r3406
     verified: false
-    hashtags: "#duet, #greenscreen, #tattoos, #stitch"
+    hashtags: "#stitch, #cult45, #duet, #photographytricks"
   - username: "chelctattoos"
     fullname: >-
       ChelC
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.058130
     id: ckd6xl5tguj3l0j23b4xeypuj
     verified: false
-    hashtags: "#greenscreenvideo, #inverted, #studioghibli, #fyp"
+    hashtags: "#greenscreen, #greenscreenvideo, #inverted, #studioghibli"
   - username: "brandon_draws"
     fullname: >-
       Brandon Also Tattoos
@@ -67,18 +67,6 @@ profiles:
     id: ckd0w55vbkf6x0j236x8cafra
     verified: false
     hashtags: "#halloween, #pen, #flower, #inktober"
-  - username: "mr.koo"
-    fullname: >-
-      Mr.koo
-    bio: >-
-      MR.KOO TORONTO TATTOO ARTIST IG: @release852
-    location: "Canada"
-    followers: 5375
-    engagement: 1325
-    commentsToLikes: 0.193304
-    id: cka0l394npdzo0i78e23fbh2z
-    verified: false
-    hashtags: "#tattoolover, #money, #hustle, #handtattoo"
   - username: "mr.tattooguy1"
     fullname: >-
       Everett
@@ -91,30 +79,42 @@ profiles:
     id: ckcprmig6lhv80j23pzl0pzrh
     verified: false
     hashtags: "#lmao, #stitch, #skiptherinse, #funnyvideos"
+  - username: "mr.koo"
+    fullname: >-
+      Mr.koo
+    bio: >-
+      MR.KOO TORONTO TATTOO ARTIST IG: @release852
+    location: "Canada"
+    followers: 5364
+    engagement: 1314
+    commentsToLikes: 0.186678
+    id: cka0l394npdzo0i78e23fbh2z
+    verified: false
+    hashtags: "#hustle, #tattoochick, #money, #tattooed"
   - username: "eli_jorgensen"
     fullname: >-
       eli_jorgensen
     bio: >-
       33 | Tattoo artist, illustrator, emotional about everything. They/Them
     location: "United States"
-    followers: 20600
-    engagement: 1286
-    commentsToLikes: 0.069516
+    followers: 21100
+    engagement: 1397
+    commentsToLikes: 0.080039
     id: ckcjibry2cq620j23eicft11r
     verified: false
-    hashtags: "#elijorgensen, #drawing, #seattletattooartist, #queertattooartist"
+    hashtags: "#queertattooartist, #seattletattooartist, #fyp, #elijorgensen"
   - username: "lucegrey"
     fullname: >-
       Luce
     bio: >-
-      🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Tattoo Artist lucegrey.bigcartel.com
+      🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Tattoo Artist
     location: "United Kingdom"
-    followers: 413200
-    engagement: 1217
-    commentsToLikes: 0.030095
+    followers: 472100
+    engagement: 1003
+    commentsToLikes: 0.031913
     id: ckcjnrpshfkkn0j23tnnkcluw
     verified: false
-    hashtags: "#fyp, #drawing, #inked, #tattooartist"
+    hashtags: "#inked, #tattoo, #fyp, #artist"
   - username: "ceciliamarietattoos"
     fullname: >-
       Cecilia Marie
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.053516
     id: ckd6wvwcjt4x60j23lbbo8d09
     verified: false
-    hashtags: "#757, #fyp, #ceciliamarietattoos, #witchesoftiktok"
+    hashtags: "#witchesoftiktok, #tattooartistsoftiktok, #757, #fyp"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers Instagram Influencers In South Korea In 2023
+title: Top 10 Rappers Instagram Influencers In South Korea In 2024
 description: >-
-  Find top rappers Instagram influencers in South Korea in 2023. Most popular hashtags: #rapper #model #jennie #jenniefancam.
+  Find top rappers Instagram influencers in South Korea in 2024. Most popular hashtags: #rapper #model #thealbum #artist.
 platform: Instagram
 hits: 8
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform has 8 Instagram influencers like this in South Korea for you to pitch.
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 8 Instagram influencers like this in South Korea for you to collaborate.
 profiles:
   - username: "temgongju"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.013944
     id: ck5btjq3jg3630i111dxsexg5
     verified: false
-    hashtags: "#photographer, #portraitphotography, #snapsights, #art"
+    hashtags: "#photogram, #fotografia, #film, #portraitphotography"
   - username: "jennierubyqueenjane"
     fullname: >-
       Ｋｉｍ Ｊｅｎｎｉｅ

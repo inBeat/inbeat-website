@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In United Kingdom In 2023
+title: Top 10 Makeup TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top makeup TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #duet #makeup #foryoupage.
+  Find top makeup TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #makeup #duet #sfxmakeup.
 platform: TikTok
-hits: 1096
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 1096 TikTok influencers like this in United Kingdom for you to connect with.
+hits: 1098
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: inBeat has 1098 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
   - username: "amyjartistry"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       Makeup Artist amyjartistry@gmail.com
     location: "United Kingdom"
-    followers: 33300
-    engagement: 1894
-    commentsToLikes: 0.058846
+    followers: 34300
+    engagement: 1813
+    commentsToLikes: 0.064917
     id: ckavjfllas2qv0j234brs62i2
     verified: false
-    hashtags: "#valentine, #duet, #makeupartist, #bossit2021"
+    hashtags: "#sfxmakeup, #zodiacmakeup, #carebearmakeup, #carebear"
   - username: "uniqueangelxo"
     fullname: >-
       Stacey
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.058662
     id: ckdi7mp8r9lxv0j23a38wr63j
     verified: false
-    hashtags: "#testreadychic, #generationbeautybay, #emojimakeup, #creativemakeup"
+    hashtags: "#generationbeautybay, #testreadychic, #creativemakeup, #emojimakeup"
   - username: "abbyroberts"
     fullname: >-
       Abby Roberts
@@ -103,28 +103,28 @@ profiles:
     id: ckavdezz2lfsy0j23yo3uh6mm
     verified: false
     hashtags: "#foryoupage, #scottish, #alt, #pinup"
-  - username: "megannaliceee"
-    fullname: >-
-      Megs Alice ♡
-    bio: >-
-      20⚡️ CEO of reaction videos✌🏼 My makeup is a joke😂 Keep being you ✨ 🏳️‍🌈
-    location: "United Kingdom"
-    followers: 1100000
-    engagement: 1615
-    commentsToLikes: 0.032916
-    id: ckceh5fj0os6u0j23l9iz65b1
-    verified: false
-    hashtags: ""
   - username: "dragonfinity"
     fullname: >-
       Dragon Finity🐉
     bio: >-
       If you want your makeup done: Follow my Instagram & send your selfie on DM ❤️
     location: "United Kingdom"
-    followers: 394700
-    engagement: 1033
-    commentsToLikes: 0.069940
+    followers: 393700
+    engagement: 1049
+    commentsToLikes: 0.068382
     id: ck81sb8dcregu0j78xieiufm4
     verified: false
-    hashtags: "#edit, #art, #drawing, #makeupartist"
+    hashtags: "#foryoupage, #fyp, #makeupartist, #dragonfinity"
+  - username: "annabaxtermakeup"
+    fullname: >-
+      Anna Baxter
+    bio: >-
+      Makeup Artist | UK Thank you for 260k 🥰 💌: annabaxtermakeup@outlook.com
+    location: "United Kingdom"
+    followers: 270800
+    engagement: 1604
+    commentsToLikes: 0.034446
+    id: ckcuw2mm7lhzx0j23tv49ykdt
+    verified: false
+    hashtags: "#creativemakeup, #jokercosplay, #learnontiktok, #sfxmakeup"
 ---

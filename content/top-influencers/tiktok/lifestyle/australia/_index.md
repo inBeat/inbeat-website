@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Australia In 2023
+title: Top 10 Lifestyle TikTok Influencers In Australia In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #foryoupage #foryou #viral.
+  Find top lifestyle TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #foryoupage #foryou #viral.
 platform: TikTok
-hits: 30
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat has 30 TikTok influencers like this in Australia for you to work with.
+hits: 31
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 31 TikTok influencers like this in Australia for you to connect with.
 profiles:
   - username: "oi.oiii"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.032877
     id: ckbf76fbmwvmx0j23kkji392z
     verified: false
-    hashtags: "#onedirection, #fineline, #tpwk, #foryou"
+    hashtags: "#foryou, #fineline, #1d, #onedirection"
   - username: ".almond.lusk"
     fullname: >-
       ✰ almondlusk
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.048493
     id: cka7o7mp10qyp0i78xk1mluw6
     verified: false
-    hashtags: "#dance, #tune, #tiktok, #foryou"
+    hashtags: "#dance, #fun, #mood, #earphones"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dog Owners Instagram Influencers In United Kingdom In 2023
+title: Top 10 Dog Owners Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top dog owners Instagram influencers in United Kingdom in 2023. Most popular hashtags: #dogsofinstagram #dogsofinsta #puppylove #dogphotography.
+  Find top dog owners Instagram influencers in United Kingdom in 2024. Most popular hashtags: #dogsofinstagram #dogowner #doglife #puppiesofinstagram.
 platform: Instagram
-hits: 11
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 11 Instagram influencers like this in United Kingdom for you to collaborate.
+hits: 20
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 20 Instagram influencers like this in United Kingdom for you to contact.
 profiles:
   - username: "nickyshomeedit"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ckaoyo096ib860i7881bz2nt8
     verified: false
     hashtags: "#myhome2inspire, #pocketofmyhome, #showusyournewbuild, #newhome"
-  - username: "allaboutlloyd_"
+  - username: "beagleskiko"
     fullname: >-
-      Lloyd + Paz | Dog Lifestyle
+      Kiki & Koko | Beagles 🐶
     bio: >-
-      The adventures of a dog and a human who love food, style, travel & the simple pleasures of everyday living. 📍London 📩 allaboutlloyd@MAIL.com
+      🐶 Beagle sisters in the UK 🇬🇧 🧑‍🍳 Cooking with beagles every Sunday! 🎵 We’re on TikTok ✉️ beagleskiko@gmail.com for collabs
     location: "United Kingdom"
-    followers: 24614
-    engagement: 521
-    commentsToLikes: 0.040144
-    id: ck0tsqodz0bbu0i19e223t5fv
+    followers: 1000660
+    engagement: 862
+    commentsToLikes: 0.014309
+    id: ck8t4m4am798p0j78jp9axw71
     verified: false
-    hashtags: "#galgo, #levrier, #sighthound, #ilovemydog"
-  - username: "spaniellife"
+    hashtags: "#dogsofig, #funnydog, #londondog, #cutepuppy"
+  - username: "lollythewhippet"
     fullname: >-
-      Inactive ⚡️DON’T FOLLOW
+      Lolly, Elisa & Sam | Adventures with tails
     bio: >-
-      New Account Name: @stephandthespaniels
+      Two thirty-somethings and a whippet 👋 ⛰ Dog-friendly adventures & stays ⛺️ Camping & travel 📷 Photography & lifestyle lollythewhippet@outlook.com
     location: "United Kingdom"
-    followers: 2
-    engagement: 5080000
-    commentsToLikes: 0.080457
-    id: ck14kdogep0j30i19vm6uxge8
+    followers: 42758
+    engagement: 598
+    commentsToLikes: 0.016967
+    id: ck0vyzzzu6m6v0i19uieuwo1u
     verified: false
-    hashtags: "#dogsincornwall, #stayhome, #bestwoof, #dogsonadventures"
-  - username: "prowlwithpoppy"
+    hashtags: "#lifewithadog, #galgo, #adventureswithdogs, #levriero"
+  - username: "nos__k9"
     fullname: >-
-      Poppy
+      Norman Schwitters K9 Services
     bio: >-
-      ↟ || Independently Owner Trained Guide Dog / Autism Assistance Dog ↟ || Assistance dog advocate ↟ || Trick dog ▵ || Essex, UK
+      🇬🇧 Professional dog trainer based in UK 🚀Help you to get the most out of your dog ⬇️ Book online or DM me
     location: "United Kingdom"
-    followers: 7572
-    engagement: 354
-    commentsToLikes: 0.112695
-    id: ckaoy2laifsmt0i78m1r4du4h
+    followers: 40724
+    engagement: 473
+    commentsToLikes: 0.060590
+    id: ckap6x5z7hq5s0i78lnp46gxj
     verified: false
-    hashtags: "#assistancedogintraining, #ownertrainedassistancedog, #assistancedogsuk, #dogsofinstagram"
-  - username: "thewakefieldwhitehouse"
+    hashtags: "#dogwalk, #blackandtan, #belgianmalinois, #malinoistraining"
+  - username: "tameramowrytwo"
     fullname: >-
-      The Wakefield whitehouse
+      tameramowryhousley
     bio: >-
-      30 something acting 18 Swears a lot Business owner @ashleighsocial @ashleighbranding Interior obsessed 🤩 Dog mum to a good dog and a bad dog 🐶
+      Wife, mommy, ✨Emmy award winning talk show host & NAACP Image Award winning host & actress. Author, & Jesus lover 🙏🏽
     location: "United Kingdom"
-    followers: 13908
-    engagement: 231
-    commentsToLikes: 0.064643
-    id: ck14hoghpbbud0i19ndwc8k5p
-    verified: false
-    hashtags: "#frenchcountrystyle, #ikeauk, #sofastyling, #bedroomideas"
-  - username: "edenharvzofficial"
+    followers: 11841819
+    engagement: 95
+    commentsToLikes: 0.015765
+    id: ck137j041bs5d0i19g0glpfit
+    verified: true
+    hashtags: "#keepingitreal, #married, #mommylife, #parent"
+  - username: "kirstyoung"
     fullname: >-
-      𝐸𝒹𝑒𝓃 𝐻𝒶𝓇𝓋𝓏 | 24 🖤🤍
+      K I R S T E N
     bio: >-
-      Lloyd. 💍 OWNER OF @edenharvzcosmetics ☁️ PR/ENQUIRIES : hello@edenharvey.com (temporary)
+      🎬 MODEL / TRAVELLER / CREATOR Travels with my Toddler🤱🏽✈️ 📍 🇹🇭
     location: "United Kingdom"
-    followers: 287405
-    engagement: 280
-    commentsToLikes: 0.002386
-    id: cl56a8v0p1ybi0i23uv1ew774
+    followers: 20012
+    engagement: 76
+    commentsToLikes: 0.109515
+    id: ckqq5yzyewm5s0j23mll2c0x5
     verified: false
-    hashtags: "#itvx, #ad, #tellmeeverything, #happy"
-  - username: "fromfieldtohouse"
+    hashtags: "#mummyblogger, #authenticself, #parkfun, #travellingthroughtheworld"
+  - username: "daisysausage"
     fullname: >-
-      Fromfieldtohouse
+      Lois, Daisy, Lilah and Elijah
     bio: >-
-      Dawn lambe Self build • interiors Fetured @selfbuildireland Mammy and wifey Coffee shop owner ☕️ @thelilyrosebuncrana
+      Welcome to the madness 🇬🇧🐶🐶👶 Micro Ambassador @microscooters 20% off @rawgeouspetfoodco using the link below
     location: "United Kingdom"
-    followers: 19096
-    engagement: 261
-    commentsToLikes: 0.076170
-    id: ck0w1hwrljfl10i19p9loxm5q
+    followers: 102212
+    engagement: 172
+    commentsToLikes: 0.011323
+    id: ck6uckozpg63u0j713la6v9qa
     verified: false
-    hashtags: "#kitcheninspo, #home, #livingroomideas, #greyandwhitehome"
-  - username: "leila_hackett"
+    hashtags: "#cutedogs, #puppies, #doglife, #mybabies"
+  - username: "lizeindisney"
     fullname: >-
-      l e i l a
+      lize | Disney plush news °o°
     bio: >-
-      Owner👉🏻@cococuscino I waffle on about interiors, my brand, my dog, fitness, decent food & dresses Life’s what you make it. Be kind; give it your best🤩
+      🧸 Disney YouTuber & Plush collector 📸 Creator of #DisneyDreamersUK 💍 @joepurchase8 📍 Dudley, UK
     location: "United Kingdom"
-    followers: 33438
-    engagement: 112
-    commentsToLikes: 0.131554
-    id: ckap0j0reqi9h0i78owf77216
+    followers: 20388
+    engagement: 81
+    commentsToLikes: 0.060975
+    id: cks22rhpb2ht10j23k9mxwi3t
     verified: false
-    hashtags: "#showcockerspaniel, #neutraldecor, #puppiesofinstagram, #luxury"
-  - username: "twobergersinabun"
+    hashtags: "#disneyplushes, #plushiecommunity, #disneystyle, #dlp"
+  - username: "bfiit_2"
     fullname: >-
-      Ivy & Otis 🐾🐾
+      🦋 Bethan 🦋
     bio: >-
-      2 Bergers 🍔🍔 - Ivy (12/07/15) & Otis (01/04/18) KC names: Jomiriclus Heart of Mine & Dock of the Bay. Owner/photographer/bun 📸:@themoonismaple
+      •Enquiries 📧 - bfiitt2@gmail.com • •@beyondapp Ambassador☁️• •@myvitaminsuk | Bethan • 🧚🏼‍♀️
     location: "United Kingdom"
-    followers: 6568
-    engagement: 396
-    commentsToLikes: 0.024327
-    id: ck0tx2vtnhohw0i19mc2eit9b
+    followers: 11481
+    engagement: 80
+    commentsToLikes: 0.031504
+    id: clpwuiuc7l50v0k08344h16tl
     verified: false
-    hashtags: "#happydogface, #christmasdog, #happydogs, #tinsel"
-  - username: "buddy_the_lab_19"
+    hashtags: "#selfcare, #gymgirl, #reels, #gymshark66"
+  - username: "weegeorgethepug"
     fullname: >-
-      𝙱𝚄𝙳𝙳𝚈 ⋆ 𝟶𝟾.𝟶𝟼.𝟷𝟿
+      George & Co
     bio: >-
-      ⊱ 𝙇𝙞𝙛𝙚𝙨𝙩𝙮𝙡𝙚, 𝘼𝙙𝙫𝙚𝙣𝙩𝙪𝙧𝙚𝙨 & 𝙋𝙝𝙤𝙩𝙤𝙜𝙧𝙖𝙥𝙝𝙮 🌱 ⊱ 🇬🇧 Yorkshire ⊱ Raw fed by @paleoridge ⊱ DM to collaborate ⇽
+      🤦‍♂️ Our Life Tormenting Dad 😂 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Pug Life : Thug Life 🙄 ⬇️ Check Out My SUPER Balm Moisturiser for Pets 🐕😸⬇️
     location: "United Kingdom"
-    followers: 13672
-    engagement: 528
-    commentsToLikes: 0.117278
-    id: ckap4dxri6xfe0i78ru5jr1jh
+    followers: 32177
+    engagement: 277
+    commentsToLikes: 0.028718
+    id: ck8tcanbayv650j781td9cwzl
     verified: false
-    hashtags: "#woof, #labradoroftheday, #retrieversofinstagram, #labradors"
+    hashtags: "#mops, #doggosbeingdoggos, #pugpuppy, #pugsofig"
 ---

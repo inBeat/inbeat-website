@@ -1,24 +1,48 @@
 ---
-title: Top 10 Models Instagram Influencers In Dallas In 2023
+title: Top 10 Models Instagram Influencers In Dallas In 2024
 description: >-
-  Find top models Instagram influencers in Dallas in 2023. Most popular hashtags: #dallas #fashion #model.
+  Find top models Instagram influencers in Dallas in 2024. Most popular hashtags: #dallasmodels #model #dallas #fashion.
 platform: Instagram
-hits: 218
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 218 Instagram influencers like this in Dallas, United States for you to work with.
+hits: 259
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat has 259 Instagram influencers like this in Dallas, United States for you to collaborate.
 profiles:
-  - username: "melaniesanroman"
+  - username: "thecheydawn"
     fullname: >-
-      Melanie San Roman WBFF PRO
+      DAWN
     bio: >-
-      WBFF Bikini Model Pro 🥇 Playboy May 2020 @playboymagsweden Big Heart, Bigger Dreams 💕 Dm me for booking rates: paid shoots only 🌟 Dallas, Texas
+      • Music Artist & Digital Creative 🎶 • • North TX 🌵 • DM TO BOOK •
     location: "United States"
-    followers: 20103
-    engagement: 532
-    commentsToLikes: 0.065523
-    id: ck5c3g3lrz9730i11v1bdgis4
+    followers: 16333
+    engagement: 235
+    commentsToLikes: 0.123574
+    id: ck5qdqa7rwt3e0i11bltc53rf
     verified: false
-    hashtags: "#lingeriemodel, #february, #valentines, #wbffpro"
+    hashtags: "#altfashion, #texasmodel, #newmusic, #dallasbusiness"
+  - username: "carmenvanelly"
+    fullname: >-
+      
+    bio: >-
+      To buy my published feature click on the link 🤍
+    location: "United States"
+    followers: 9796
+    engagement: 131
+    commentsToLikes: 0.006617
+    id: ckmw1a63i5gvt0j23m35vd1av
+    verified: false
+    hashtags: "#dallas, #dallasphotographers, #studiophotography, #modelswanted"
+  - username: "stephanieayala7"
+    fullname: >-
+      Stephanie McHugh WBFF Pro
+    bio: >-
+      👑 4X Fitness World Champion 🇸🇻🇺🇸 💍 @bigirish_teamdynasty 💎 @dynastytraining 💊 Athlete @revive_md @getrawnutrition code:DYNASTY 🎤 @queendivaspod
+    location: "United States"
+    followers: 135623
+    engagement: 232
+    commentsToLikes: 0.041338
+    id: ck0u22ih9ypdq0i19dguyjxtv
+    verified: false
+    hashtags: "#fitnessmodel, #fashion, #wbff, #wbffworlds"
   - username: "bybxev"
     fullname: >-
       
@@ -31,6 +55,18 @@ profiles:
     id: ck5c35r2wyngt0i11wv8k4uj9
     verified: false
     hashtags: "#fatalframes, #fashion, #folkgood, #igmasters"
+  - username: "erbanegalore"
+    fullname: >-
+      Erbane
+    bio: >-
+      𝗗𝗿𝗲𝗮𝗺. 𝗪𝗿𝗶𝘁𝗲. 𝗦𝗵𝗼𝗼𝘁. 𝗘𝗱𝗶𝘁. 𝗦𝗲𝗻𝗱. Cinematographerrr | Editor | Colorist | Content Creator 🚨BobbyV - Reply ⬇️⬇️⬇️
+    location: "United States"
+    followers: 44857
+    engagement: 428
+    commentsToLikes: 0.008573
+    id: ck5q388rqjoxp0i11hebfyzwa
+    verified: false
+    hashtags: "#cinematographer, #colorgrading, #chicagovideographer, #djimavicair2"
   - username: "mirandaxsasha"
     fullname: >-
       𝙈𝙄𝙍𝘼𝙉𝘿𝘼 𝙎𝘼𝙎𝙃𝘼| MODEL| Dallas
@@ -43,18 +79,18 @@ profiles:
     id: ck5c4ub5z24ex0i116ld2lx5a
     verified: false
     hashtags: "#style, #beautyshoot, #curlyhair, #editorial"
-  - username: "llil.yas"
+  - username: "theamberlacy"
     fullname: >-
-      yasmeen nicole
+      Amber♡︎
     bio: >-
-      Dallas Model Email Me For Booking 600,000+ subs on YT 🎥 snap: chickacurls twitter: yasmeennikole YouTube #yassygoons
+      Dallas | Model | Creative connected 🤝🏽 📧: ambertlacy@gmail.com
     location: "United States"
-    followers: 1222566
-    engagement: 854
-    commentsToLikes: 0.005648
-    id: ck0ttbug521f20i19uu4xvruk
+    followers: 10714
+    engagement: 30
+    commentsToLikes: 0.000000
+    id: ckqeisskem5km0j23uq39pc97
     verified: false
-    hashtags: ""
+    hashtags: "#dallasmodel, #dallascreatives, #dallasmodels, #dallasfashionblogger"
   - username: "quewhyareaye"
     fullname: >-
       Slim 🍷
@@ -66,7 +102,19 @@ profiles:
     commentsToLikes: 0.043024
     id: ck5qe6iytyylb0i11omguapc3
     verified: false
-    hashtags: "#princessczh, #bouttomakeheraig, #upanditsstuck, #family"
+    hashtags: "#totwentytwentyone, #carazuri, #fuckcovid19, #101019"
+  - username: "monroelapaislie"
+    fullname: >-
+      Dallas Makeup Artist
+    bio: >-
+      📍Dallas, Tx GLAM Studio: @monroelapaisliestudio Link below for booking! 🚨NO DMS🚨
+    location: "United States"
+    followers: 27742
+    engagement: 303
+    commentsToLikes: 0.033740
+    id: ckv23d1f7wfvd0j23xwxo56nu
+    verified: false
+    hashtags: "#photography, #dallasmakeupartist, #hairandmakeup, #model"
   - username: "924photography"
     fullname: >-
       Keydrin Keylo Franklin
@@ -79,52 +127,4 @@ profiles:
     id: ck5byuwtbpw9m0i11tp2mq5c8
     verified: false
     hashtags: "#fwcamera, #924photography, #sigma85mmdgdn, #sonyalpha"
-  - username: "cassimonae"
-    fullname: >-
-      𝓒𝓪𝓼𝓼𝓲 𝓜𝓸𝓷𝓪𝓮
-    bio: >-
-      Dallas, TX 📍 📷 Published Model 👻Snapchat: cassimonae1 💌 Email for booking +rates (collabs) cassi.monae@yahoo.com or DM
-    location: "United States"
-    followers: 5923
-    engagement: 1006
-    commentsToLikes: 0.039780
-    id: ck5hocasspbc40i115patezsl
-    verified: false
-    hashtags: "#explorepage, #likesforlike, #model, #fashionnovababe"
-  - username: "anactingangel"
-    fullname: >-
-      Angel
-    bio: >-
-      The organized, non-shitposting social media account for @angelinaduplisea
-    location: "United States"
-    followers: 1253
-    engagement: 2344
-    commentsToLikes: 0.024632
-    id: ck13clp7s0yhn0i19ll1tanq0
-    verified: false
-    hashtags: "#dallasphotographer, #model, #repost, #mattblum"
-  - username: "inked.exclusives"
-    fullname: >-
-      
-    bio: >-
-      Representing inked talent, artists & models! #inkedexclusives || Premium content below! 💥 ||
-    location: "United States"
-    followers: 32244
-    engagement: 49
-    commentsToLikes: 0.026088
-    id: ck5cffuv2mvc10i116l0bvdiq
-    verified: false
-    hashtags: "#pursuitofportraits, #uncensored, #fashion, #fitmodels"
-  - username: "tatti.thebody"
-    fullname: >-
-      Tatti ♥️
-    bio: >-
-      JXN ➡️ DTX 📍 Girl mom 👶🏽👧🏿👧🏽 @securethebodyllc 🛍
-    location: "United States"
-    followers: 23497
-    engagement: 493
-    commentsToLikes: 0.036073
-    id: ck8t85h6qj6cw0j78quegnws1
-    verified: false
-    hashtags: "#fashion, #boutiqueclothing, #instafashion, #womensfashion"
 ---

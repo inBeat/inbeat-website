@@ -1,12 +1,60 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Australia In 2023
+title: Top 10 Cinema Instagram Influencers In Australia In 2024
 description: >-
-  Find top cinema Instagram influencers in Australia in 2023. Most popular hashtags: #penguinbloommovie #x50pro #s15.
+  Find top cinema Instagram influencers in Australia in 2024. Most popular hashtags: #australia #filmmaker #goldcoast.
 platform: Instagram
-hits: 71
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 71 Instagram influencers like this in Australia for you to collaborate.
+hits: 131
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 131 Instagram influencers like this in Australia for you to pitch.
 profiles:
+  - username: "chad_gerber"
+    fullname: >-
+      Chad Gerber
+    bio: >-
+      📷photographer / filmmaker 🌊from perth, western australia ✉️chad.gerber@hotmail.com 📽️new cinematic arctic circle film link below
+    location: "Australia"
+    followers: 25087
+    engagement: 587
+    commentsToLikes: 0.073816
+    id: ck15s2aodavpu0i19pudbg6sw
+    verified: false
+    hashtags: "#cinematic, #voyaged, #westernaustralia, #beautifuldestinations"
+  - username: "dimatikmusic"
+    fullname: >-
+      Dimatik
+    bio: >-
+      ✉️ Bookings Aus- bookings@raveonly.com ✉️ Bookings Europe/Asia- yap@yap-agency.com 🎶 Owner of @cinematikrecordings 🎉 Co-Owner of @culture_aus
+    location: "Australia"
+    followers: 107956
+    engagement: 1807
+    commentsToLikes: 0.075989
+    id: ck6u8c93fqprz0j71mmvobmqu
+    verified: false
+    hashtags: "#throwbackthursday, #hardwell, #lg, #stay"
+  - username: "dilpreetvfx"
+    fullname: >-
+      Dilpreetvfx
+    bio: >-
+      📍MELBOURNE, AUSTRALIA 📞 +61455576762 🌍 available worldwide Director / cinematographer / editor / colourist / VFX artist Dilpreetvfx x @rupanbal
+    location: "Australia"
+    followers: 42065
+    engagement: 433
+    commentsToLikes: 0.028940
+    id: clt4fshwue75o0k086k62sup0
+    verified: false
+    hashtags: "#colour, #grading, #australia, #melbourne"
+  - username: "7xills"
+    fullname: >-
+      7xills
+    bio: >-
+      Video | Photo | Marketing 🎬 Bespoke Cinematic Production. 🖥️ Meta & Google Ad Specialists. 📍 Gold Coast local agency.
+    location: "Australia"
+    followers: 9005
+    engagement: 79
+    commentsToLikes: 0.085545
+    id: ck13805r2dv8o0i197ufbsacf
+    verified: false
+    hashtags: "#lovegoldcoast, #visitgoldcoast, #goldcoastphotographer, #mediaagency"
   - username: "benizzard"
     fullname: >-
       Ben Izzard
@@ -47,26 +95,14 @@ profiles:
     fullname: >-
       Alexandra Adoncello
     bio: >-
-      CINEMATOGRAPHER BOOKINGS - Contact below
+      film, fill and fulfill CINEMATOGRAPHER
     location: "Australia"
-    followers: 8824
+    followers: 9365
     engagement: 379
-    commentsToLikes: 0.034347
+    commentsToLikes: 0.042527
     id: ck5ztv8lx16r20i14bz2ry072
     verified: false
     hashtags: ""
-  - username: "penguinthemagpie"
-    fullname: >-
-      Penguin Bloom
-    bio: >-
-      International bestselling book now in 13 languages Netflix selected territories and Aust Cinema release Jan 2021
-    location: "Australia"
-    followers: 186269
-    engagement: 530
-    commentsToLikes: 0.019389
-    id: ck0u0vcgiuxek0i19ya4thq0a
-    verified: true
-    hashtags: "#realpenguinbloom, #penguinbloom, #penguinbloommovie, #whatpenguinsaw"
   - username: "whereswalle"
     fullname: >-
       Steve Wall
@@ -91,40 +127,4 @@ profiles:
     id: ck0ubgaxwejy70i199ptewb3l
     verified: false
     hashtags: "#mamiya7, #yearoftherat"
-  - username: "chrisbryanfilms"
-    fullname: >-
-      Chris Bryan
-    bio: >-
-      CINEMATOGRAPHER 🎥 Email or DM me for Bookings.
-    location: "Australia"
-    followers: 18796
-    engagement: 262
-    commentsToLikes: 0.027510
-    id: ck0u9yp52axav0i19wirffdq8
-    verified: false
-    hashtags: "#phantomflex4k, #teahupoo, #humanmovement, #djironin2"
-  - username: "ainraadik"
-    fullname: >-
-      Ain Raadik
-    bio: >-
-      director, cinematographer & photographer moments from movements co-founder @1814creative australia
-    location: "Australia"
-    followers: 16690
-    engagement: 350
-    commentsToLikes: 0.047768
-    id: ck0u1t2uvxtll0i19llswpb46
-    verified: false
-    hashtags: ""
-  - username: "dm_jon"
-    fullname: >-
-      Jon Pumfrey / DomesticMango
-    bio: >-
-      Aussie YouTubey 280,000+ Subscribers Automotive Cinematographer
-    location: "Australia"
-    followers: 64611
-    engagement: 544
-    commentsToLikes: 0.007163
-    id: ck55k1vi0y9fc0i11djdkr6i1
-    verified: false
-    hashtags: "#s15, #fastandfurious, #domesticmango, #r34gtr"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Russia In 2023
+title: Top 10 Rappers Instagram Influencers In Russia In 2024
 description: >-
-  Find top rappers Instagram influencers in Russia in 2023. Most popular hashtags: #rap #music #new.
+  Find top rappers Instagram influencers in Russia in 2024. Most popular hashtags: #rap #music #hiphop.
 platform: Instagram
-hits: 16
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 16 Instagram influencers like this in Russia for you to work with.
+hits: 15
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 15 Instagram influencers like this in Russia for you to pitch.
 profiles:
   - username: "lina_markova_"
     fullname: >-
@@ -79,18 +79,6 @@ profiles:
     id: ck5hr1dpbu3fv0i11kmwvhy64
     verified: false
     hashtags: "#sopranoman, #hugo, #2021, #new"
-  - username: "sheloveeeeeee"
-    fullname: >-
-      𝓓𝓶𝓲𝓽𝓻𝓲𝔂 𝓢𝓱𝓲𝓵𝓸𝓿
-    bio: >-
-      Check my stories🤪 I`m not rapper 🦄 TIkTok : shelovee 1m🍋,imnotshelovee 1/2m🍋 PR:+7-988-333-77-67 Эрик
-    location: "Russia"
-    followers: 259237
-    engagement: 192
-    commentsToLikes: 0.110405
-    id: ck5zw7tt75n4i0i14xn7h2dwq
-    verified: false
-    hashtags: ""
   - username: "dinomc47"
     fullname: >-
       Dino MC47
@@ -127,4 +115,16 @@ profiles:
     id: ck1359ejk0d1x0i19ooqbnnbd
     verified: false
     hashtags: ""
+  - username: "dima_dek_official"
+    fullname: >-
+      Dima Dek
+    bio: >-
+      🎛Mixing & Mastering Engineer 💻🎚💸💸Музыкант🎤🎼🎼🎼#RASTAMAFIA Сотрудничаю с @gorky_records Пишу песни @mc__young_ 🔥🔥🔥
+    location: "Russia"
+    followers: 11207
+    engagement: 931
+    commentsToLikes: 0.013597
+    id: ck15tqec4jdt30i19ge42nesb
+    verified: false
+    hashtags: "#love, #america, #trapmusic, #trap"
 ---

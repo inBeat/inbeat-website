@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Switzerland In 2023
+title: Top 10 Lifestyle Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #travel #love.
+  Find top lifestyle Instagram influencers in Switzerland in 2024. Most popular hashtags: #switzerland #zurich #skincare #ad.
 platform: Instagram
-hits: 107
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 107 Instagram influencers like this in Switzerland for you to pitch.
+hits: 178
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 178 Instagram influencers like this in Switzerland for you to pitch.
 profiles:
-  - username: "qqq"
+  - username: "artur_lutfiu"
     fullname: >-
-      A. AlGhafri 🇶🇦 عبدالله الغافري
+      𝗔𝗿𝘁𝘂𝗿 𝗟𝘂𝘁𝗳𝗶𝘂 🦅
     bio: >-
-      Love All, Trust Few 🖤 —— 🎭 Lifestyle 🎓 Business&Mgmt. 👔 Entrepreneur 🎙 Host ✈️ Travel —— ⭐️ Snapchat&TikTok : QQQ 🎥 YouTube +2M👇🏽
+      ▪️ Addicted to the Grind 🏋🏻 ▪️ Lifestyle 📸🎥 ▪️ 📍Switzerland 🇨🇭🇽🇰 ▪️ Content Creator 🧑🏻‍💻
     location: "Switzerland"
-    followers: 1309739
-    engagement: 479
-    commentsToLikes: 0.227558
-    id: ck5qb9m7gki5k0i11k7fvnlqv
+    followers: 12874
+    engagement: 2817
+    commentsToLikes: 0.056083
+    id: ck0vwf26ftdzp0i1901cgspfi
     verified: false
-    hashtags: "#worldcup, #qatar2022, #youtube, #qqq"
-  - username: "irina_cerutti"
+    hashtags: "#instagram, #fashion, #instagood, #dance"
+  - username: "slavia_karlen"
     fullname: >-
-      Irina Cerutti
+      Slavia Karlen | Blogger and Content Creator
     bio: >-
-      📌 ||Based in Zurich 🌍 || Travel Journalist 🏙 || Lifestyle, Food & Fashion 📩 || Contact: Direct Messagel
+      Lifestyle-Blogger womentalk.ch Content Creator Inspiration Testing products Fun & travel & health ü40 🇨🇭 📧 for collaboration: slavia@event-creator.ch
     location: "Switzerland"
-    followers: 1101853
-    engagement: 217
-    commentsToLikes: 0.006566
-    id: ck15tlswdipln0i19jly1nbbc
+    followers: 39333
+    engagement: 525
+    commentsToLikes: 0.020551
+    id: ck15u6q7alol00i19zder1ye4
     verified: false
-    hashtags: ""
-  - username: "dedalnok"
+    hashtags: "#zff, #gown, #stadtgefl, #hotelrecap"
+  - username: "couple.rn"
     fullname: >-
-      MICHEL DE DÁLNOK 🇭🇺
+      Njomëza Kastrati
     bio: >-
-      ADVENTURE • TRAVEL • LIFESTYLE ⍋ Overland & Outdoors enthusiast ⚑ Zürich, Switzerland / Black Forest, Germany
+      𝐏𝐎𝐒𝐈𝐓𝐈𝐕𝐄 𝐕𝐈𝐁𝐄𝐒 𝐎𝐍𝐋𝐘 Switzerland Fashion • Inspiration • Lifestyle Owner | @nkstudio.ch
     location: "Switzerland"
-    followers: 5254
-    engagement: 1986
-    commentsToLikes: 0.124511
-    id: ck14jdnyljtj60i19p5r0cuvv
+    followers: 354170
+    engagement: 642
+    commentsToLikes: 0.007867
+    id: ck14jhxvnkfpt0i19mtlu5hmj
     verified: false
-    hashtags: "#alsace, #dolomiti, #southtyrol, #inlovewithswitzerland"
-  - username: "bisous_marie"
+    hashtags: "#party, #beauty, #fyp, #couplegoals"
+  - username: "glamthug"
     fullname: >-
-      𝐌𝐀𝐑𝐈𝐄   ♎︎
+      Cerasela📍: Zurich, Switzerland Creator 🇨🇭
     bio: >-
-      FASHION • BEAUTY • LIFESTYLE 𖡡 ordinary swiss girl based in Germany🕊 ☁️ get 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐝 using by #bisous_marie ✉️ bisous_marie@outlook.de
+      Expat from 🇷🇴-📍: Switzerland 🇨🇭 Travel | Fashion | Lifestyle | glamthug.com since 2012 📜Online Business & Marketing
     location: "Switzerland"
-    followers: 33880
-    engagement: 740
-    commentsToLikes: 0.094556
-    id: ck9hc3nu4jmbx0j788toj5q3w
+    followers: 9601
+    engagement: 729
+    commentsToLikes: 0.161217
+    id: ck9hamoc3d4kp0j787qbcnjp2
     verified: false
-    hashtags: "#liketimegermany, #basel, #saturday, #blogger"
-  - username: "hildawestin"
+    hashtags: "#phuket, #thailand, #visitthailand, #mahanakhon"
+  - username: "maixadeline"
     fullname: >-
-      HILDA | SWEDE IN SWITZERLAND
+      mai (she/ her)
     bio: >-
-      TRAVEL | LIFESTYLE | FASHION 📍Zürich 🇸🇪 → 🇺🇸→🇨🇭
+      lifestyle, fashion based in: switzerland 💌 agency: @lives_luxury
     location: "Switzerland"
-    followers: 3479
-    engagement: 2801
-    commentsToLikes: 0.080411
-    id: ckf5tdn15hjvk0j23ufl1q9z3
+    followers: 10077
+    engagement: 766
+    commentsToLikes: 0.113330
+    id: clerzfdn8deu40j08sye6g5km
     verified: false
-    hashtags: "#nakdfashion, #iammightysolo, #stsworldwide, #stsjourney"
-  - username: "friedahodel"
+    hashtags: "#pinterestinspired, #aesthetic, #femfeed, #pinterestaesthetic"
+  - username: "thelittleblogpic"
     fullname: >-
-      F R I E D A   H O D E L
+      Caroline R
     bio: >-
-      • Beauty, Body & Shape Expert: 👉🏼@fh.health.and.lifestyle👈🏼 • First🇨🇭Bachelorette 2015🌹 • Mama & Content Creator • ❤️ @fabiozerzuben
+      Lifestyle blogger 📍Genève Lausanne Switzerland 📩 thelittleblogpic@hotmail.com 👇🏻 Dans la Bio CODE PROMO 📸All rights reserved by TLBP
     location: "Switzerland"
-    followers: 37313
-    engagement: 587
-    commentsToLikes: 0.024418
-    id: ckap0qb07rejq0i78ud5qp3yk
-    verified: true
-    hashtags: "#switzerland, #happiness, #travel, #vacation"
-  - username: "doriane_dml"
-    fullname: >-
-      Doriane | Amsterdam Blogger
-    bio: >-
-      + Midsize Fashion & Lifestyle + French Expat in Amsterdam + Marketing & Communication Specialist + Contact: doriane.blog@gmail.com
-    location: "Switzerland"
-    followers: 20299
-    engagement: 356
-    commentsToLikes: 0.114677
-    id: ck6tx8aaqwe0g0j712ueqckkb
+    followers: 9246
+    engagement: 434
+    commentsToLikes: 0.307080
+    id: ck8t73027fgwb0j78i6l8vh2x
     verified: false
-    hashtags: "#lesbiologiques, #ad, #cliniquefrance, #happyskin"
-  - username: "massixda"
+    hashtags: "#photography, #swissblog, #specialitaitaliane, #pasta"
+  - username: "killiane.hmch"
     fullname: >-
-      Massimo
+      Killiane
     bio: >-
-      Fashion I Lifestyle I Travel I Beauty I Health 📍Located Zürich 🇨🇭
+      Good vibes • lifestyle • food • skincare 🌼💛🌙🍯🍋 Sun & Vitamins killianepro@gmail.com 📍Genève / Lausanne 🇨🇭
     location: "Switzerland"
-    followers: 34356
-    engagement: 350
-    commentsToLikes: 0.075341
-    id: ck6u3kk6tybjm0j71mr7mpp06
+    followers: 17594
+    engagement: 413
+    commentsToLikes: 0.069606
+    id: cll8394cy8akf0j08gazctyzz
     verified: false
-    hashtags: ""
-  - username: "fit_life_physics"
+    hashtags: "#uluwatu, #komodoisland, #geneve, #trionsmieux"
+  - username: "loriszimmerli"
     fullname: >-
-      Basti | CERN Science & Fitness
+      Loris Zimmerli
     bio: >-
-      Fitness Lifestyle & Science Motivation ⁣📍Physicist @CERN, Switzerland 💪🏼 Gym & Fitness 🏊‍♂️🚴🏃🏼Aspiring Triathlete
+      📍 Olten 🇨🇭 Berlin 🇩🇪 🎬 Creator | Actor | Lifestyle | Entertainment 🎥 TikTok | YouTube 📩 Contact: loris.zimmerli@bluewin.ch 🌍🧳🇹🇿🇿🇦⬇️⬇️
     location: "Switzerland"
-    followers: 26418
-    engagement: 724
-    commentsToLikes: 0.042790
-    id: ckaotarayv2wm0i78fbzc4c0k
+    followers: 109848
+    engagement: 858
+    commentsToLikes: 0.012368
+    id: ck14khr91pk240i19fjdrg6us
     verified: false
-    hashtags: "#frodissimofriday, #workingfromhome, #yfood, #machinelearning"
-  - username: "nicoceps"
+    hashtags: "#jointheworld, #comedy, #schweizer, #globerocker"
+  - username: "melanielaurah"
     fullname: >-
-      Nicolas „Nico“ Sandmeier
+      melanie laura
     bio: >-
-      fitness, natural bodybuilding & healthy lifestyle zurich, switzerland YT VIDEO ⬇️
+      lifestyle | health | fashion 🧸 switzerland ☁️ more fun on tiktok
     location: "Switzerland"
-    followers: 47275
-    engagement: 857
-    commentsToLikes: 0.011184
-    id: ck9haymr3em1v0j78kjmpd8xl
+    followers: 7885
+    engagement: 3776
+    commentsToLikes: 0.029439
+    id: ck8szmubzp19k0j78bv4vo93d
     verified: false
-    hashtags: "#sun, #bodybuilder, #spain, #hollywood"
+    hashtags: "#ad, #scandistyle, #skincare, #zurich"
+  - username: "harrysding"
+    fullname: >-
+      Harry Meier | Zürich & Switzerland
+    bio: >-
+      ♢ Harry & Carrie 🇨🇭🇸🇬 ♢ insider tips to places in zurich and Switzerland ♢ Zurich based lifestyle & travel
+    location: "Switzerland"
+    followers: 161943
+    engagement: 3751
+    commentsToLikes: 0.007924
+    id: ck0ty3mnelhg60i196dac6cxx
+    verified: false
+    hashtags: "#switzerland, #summerinswitzerland, #christmasinzurich, #swissalps"
 ---

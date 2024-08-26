@@ -1,24 +1,24 @@
 ---
-title: Top 10 TikTok Influencers In Brisbane In 2023
+title: Top 10 TikTok Influencers In Brisbane In 2024
 description: >-
-  Find top TikTok influencers in Brisbane in 2023. Most popular hashtags: #foryoupage #fyp #brisbane #foryou.
+  Find top TikTok influencers in Brisbane in 2024. Most popular hashtags: #foryoupage #fyp #foryou #duet.
 platform: TikTok
-hits: 202
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our platform holds 202 TikTok influencers like this in Brisbane, Australia for you to contact.
+hits: 200
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 200 TikTok influencers like this in Brisbane, Australia for you to contact.
 profiles:
   - username: "kikafilipo"
     fullname: >-
-      Kika Filipo
+      Mama Wifey Baddie😎🇼🇸
     bio: >-
-      you might as well hit that follow 📍Brisbane Australia 👨‍👩‍👦‍👦💍🇼🇸
+      🇼🇸 📍Brisbane Australia i post random 💩 #forthelolz😏
     location: "Australia"
-    followers: 7490
-    engagement: 1937
-    commentsToLikes: 0.099906
+    followers: 12200
+    engagement: 1524
+    commentsToLikes: 0.057791
     id: ckc7m8exssqbr0j23x7tonq6x
     verified: false
-    hashtags: "#issavibe, #duet, #mumbod, #tiktokaustralia"
+    hashtags: "#duet, #babyfilipo, #samoa, #misssamoa2020"
   - username: "thatsgilbert"
     fullname: >-
       GILBEEERT✝️

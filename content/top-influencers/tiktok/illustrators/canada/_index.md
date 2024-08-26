@@ -1,11 +1,11 @@
 ---
-title: Top 10 Illustrators TikTok Influencers In Canada In 2023
+title: Top 10 Illustrators TikTok Influencers In Canada In 2024
 description: >-
-  Find top illustrators TikTok influencers in Canada in 2023. Most popular hashtags: #artist #art #drawing #fyp.
+  Find top illustrators TikTok influencers in Canada in 2024. Most popular hashtags: #artist #art #drawing #fyp.
 platform: TikTok
 hits: 11
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our search engine holds 11 TikTok influencers like this in Canada for you to contact.
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat holds 11 TikTok influencers like this in Canada for you to connect with.
 profiles:
   - username: "artbyjill"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.016469
     id: ck9ffgpixxas30j78yxyakrs9
     verified: false
-    hashtags: "#shopsmall, #artist, #winx, #enamelpins"
+    hashtags: "#enamelpins, #artist, #drawing, #cat"
   - username: "dopechief"
     fullname: >-
       Dope Chief
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.049686
     id: ck8qhxhw16vyc0j780b52kb8v
     verified: false
-    hashtags: "#dopeart, #howtoartist, #nftart, #creating"
+    hashtags: "#animation, #popart, #art, #canadianartist"
   - username: "stevestoncreative"
     fullname: >-
       Steveston Creative 
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.088539
     id: ck81q4n5rfwrj0j78bqny15bs
     verified: false
-    hashtags: "#smallbusiness, #neontwin, #led, #leds"
+    hashtags: "#smallbusiness, #vancouver, #canada, #tiktokcanadacreates"
   - username: "pauljacksonlives"
     fullname: >-
       Paul Jackson

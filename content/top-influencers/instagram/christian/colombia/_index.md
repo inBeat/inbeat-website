@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian Instagram Influencers In Colombia In 2023
+title: Top 10 Christian Instagram Influencers In Colombia In 2024
 description: >-
-  Find top christian Instagram influencers in Colombia in 2023. Most popular hashtags: #colombia #christian #cristiano.
+  Find top christian Instagram influencers in Colombia in 2024. Most popular hashtags: #colombia #christian #mexico.
 platform: Instagram
-hits: 96
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 96 Instagram influencers like this in Colombia for you to connect with.
+hits: 95
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 95 Instagram influencers like this in Colombia for you to work with.
 profiles:
   - username: "christianacosta"
     fullname: >-
@@ -43,18 +43,18 @@ profiles:
     id: ck9wd2lx9dsjh0j78kb8nou5f
     verified: false
     hashtags: "#fun, #reels, #jesus, #christian"
-  - username: "madiellara"
+  - username: "el_robotico"
     fullname: >-
-      OnTheBeatBro!🇩🇴⚡️⚡️⚡️
+      ɆⱠ ⱤØ฿Ø₮ł₵Ø
     bio: >-
-      Music Producer | Artist | madiel.lara@gmail.com | Manager @arias_ykwii #MLOTB #TieneDueño 🚀 OUT NOW
+      🧠 Self Made 🎵 Music Business Expert 💡 Creative Director 🎥 Owner @robotvision_ 📲 Manager @pulsopopnews 🇳🇮 Nicaragüense
     location: "Colombia"
-    followers: 167313
-    engagement: 204
-    commentsToLikes: 0.023782
-    id: ck0w6rjwt9yja0i19ajz4xv1d
-    verified: true
-    hashtags: "#madiellara, #youtube, #gospel, #onthebeat"
+    followers: 122207
+    engagement: 148
+    commentsToLikes: 0.017920
+    id: ck5hlkoh2kdyh0i114dgo1e4j
+    verified: false
+    hashtags: "#youtube, #karolg, #badbunny, #eslabonarmado"
   - username: "danielroaart"
     fullname: >-
       Daniel Roa
@@ -91,40 +91,40 @@ profiles:
     id: ckf5mx6wzvryc0j23r3fecpyk
     verified: false
     hashtags: "#polombia, #colombianlivesmatter, #paronacional, #protesta"
-  - username: "camposalex"
+  - username: "ourdailylivesg"
     fullname: >-
-      Alex Campos
+      JOSE Y CAMI
     bio: >-
-      Ya disponible mi nuevo álbum Soldados 🔽
+      Sí, estamos casados 🏳️‍🌈 Sí, vamos a ser papás 👧🏻👦🏼 +1 M en Tiktok Nuestra marca @kocodio Manager @tatianazuluagal
     location: "Colombia"
-    followers: 1852925
-    engagement: 80
-    commentsToLikes: 0.015568
-    id: ck5pwq84yo1ti0i11n5r0lhce
-    verified: true
-    hashtags: "#qu, #soldados, #diosesfiel, #fe"
-  - username: "camiloroanutricionista"
-    fullname: >-
-      Dr. Camilo Roa® 👨🏻‍⚕️👱🏻‍♀️✍🏻
-    bio: >-
-      🇨🇴🥇Nutricionista Dietista Coach 💻 Online 🌎 📞+573044713952 🇪🇸Esp.N.Deportiva y Fitness🏃🏻 🇪🇸Esp.Sobrepeso Obesidad🍴 🥗Recomposición Corporal⚙️ 🍔 Hábitos
-    location: "Colombia"
-    followers: 121517
-    engagement: 102
-    commentsToLikes: 0.027509
-    id: ck8sz2favmx340j78unmqz99n
+    followers: 596523
+    engagement: 415
+    commentsToLikes: 0.022225
+    id: ck5qadgslfto80i11itf10evo
     verified: false
-    hashtags: "#fitness, #nutri, #bajardepesorapido, #tonificar"
-  - username: "leovalderrama_"
+    hashtags: "#soyrebeldetour, #happyhalloween, #littlemermaid, #lasirenita"
+  - username: "julianaramirez16"
     fullname: >-
-      Leo Valderrama📸
+      Juliana Ramirez🇦🇼
     bio: >-
-      Publicidad y sesiones DM
+      Born in Aruba🇦🇼🌴| 📍Living in Col 🇨🇴| • Owner @jlbraand ✨ @ethical.sh ♻️ •Embajadora de @starkcolombia 💪🏽 @atheneaaccesories 💕 UNICA CUENTA!
     location: "Colombia"
-    followers: 23122
-    engagement: 993
-    commentsToLikes: 0.100461
-    id: ck5zvrivo4sj20i14hjslpoi1
+    followers: 137193
+    engagement: 747
+    commentsToLikes: 0.014411
+    id: ckap66khxem8c0i78rjs7ml1a
     verified: false
     hashtags: ""
+  - username: "carlacarrilloof"
+    fullname: >-
+      Carla Carrillo
+    bio: >-
+      Actriz Melómana de ❤️ 🎶 Guionista 📖 ✍️ Contando cuentos... 📚🤪 @elchematv @elsenordeloscielos
+    location: "Colombia"
+    followers: 223042
+    engagement: 439
+    commentsToLikes: 0.012702
+    id: ck6u3o24uyvsa0j71vo2cp4l3
+    verified: true
+    hashtags: "#besossalados, #actriz, #beachlife, #actress"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Japan In 2023
+title: Top 10 Illustrators Instagram Influencers In Japan In 2024
 description: >-
-  Find top illustrators Instagram influencers in Japan in 2023. Most popular hashtags: #pr #illustration #draw.
+  Find top illustrators Instagram influencers in Japan in 2024. Most popular hashtags: #illustration #originalcharacter #illust.
 platform: Instagram
-hits: 126
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 126 Instagram influencers like this in Japan for you to connect with.
+hits: 127
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 127 Instagram influencers like this in Japan for you to collaborate.
 profiles:
   - username: "nimuradaisuke"
     fullname: >-
@@ -19,6 +19,30 @@ profiles:
     id: ck5buvx1piixp0i11y1pefk11
     verified: false
     hashtags: "#stayhome"
+  - username: "sakusya2"
+    fullname: >-
+      さくしゃ2
+    bio: >-
+      ⁡さくしゃ2（に） ⁡男子ばっか描いてるイラストレーター⁡ ⁡Illustrator ⁡ ⁡お仕事のご連絡はメールにて！ ↓グッズが売ってるよ(周边)
+    location: "Japan"
+    followers: 525335
+    engagement: 668
+    commentsToLikes: 0.001246
+    id: ck15pytym0b690i196vkfq0wy
+    verified: false
+    hashtags: "#originalcharacter, #illust, #illustration, #oriental"
+  - username: "zumizumi1254"
+    fullname: >-
+      水視ずみ🐟
+    bio: >-
+      🇯🇵illustrator/お仕事募集中/精神病の治療中ですがもしお役に立てることがあればHP等よりお願いします HP↓
+    location: "Japan"
+    followers: 369831
+    engagement: 637
+    commentsToLikes: 0.000474
+    id: cl3cuegk44rgv0i23numwpcls
+    verified: false
+    hashtags: "#illustration, #drawing, #originalcharacter, #illustrator"
   - username: "hollystarlight"
     fullname: >-
       ✨Miss Holly Starlight✨
@@ -79,18 +103,6 @@ profiles:
     id: ck0w6ducq841l0i196y1q36cq
     verified: false
     hashtags: "#dollskill"
-  - username: "ow.o"
-    fullname: >-
-      Yobi 葉媚 よーび
-    bio: >-
-      Taiwan📍Tokyo #yobi_works model / actress / illustrator 工作邀約請寄信📩 🎥 #よーびとおいしい台湾失恋旅 LINEvision #おろかもの 劇場上映中 #閃光 AmazonVideo配信 . 🥗 #yobi飯 🎨 #yobi_draw
-    location: "Japan"
-    followers: 29834
-    engagement: 290
-    commentsToLikes: 0.005750
-    id: ck55pk9xgaqki0i119exkwm5l
-    verified: false
-    hashtags: "#sketchbook, #instadraw, #gucci, #drawing"
   - username: "nenecchu"
     fullname: >-
       Nessa | Art 🌸
@@ -115,16 +127,4 @@ profiles:
     id: ck0w25gspmpge0i191gof3dny
     verified: false
     hashtags: "#cosplaygirl, #anastasia, #rapunzelhair, #disneyfrozen"
-  - username: "muratasaki"
-    fullname: >-
-      muratasaki／©︎ むらたさき
-    bio: >-
-      #illustrator 🇯🇵 #3boys (7y•4y•1y)＆🐶🐶 ． #三兄弟 との暮らしと仕事の記録📝 Ameba／HugMug official blogger #親子コーデ#156cm #LINEスタンプ ご依頼等は↓webより💌🙏🥰 ． (写真の無断転載等はお控え願います🙇‍♀️)
-    location: "Japan"
-    followers: 47256
-    engagement: 177
-    commentsToLikes: 0.007372
-    id: ck55plxw8aues0i11i9wvn0dk
-    verified: false
-    hashtags: "#converse, #pr, #sunnybrothers, #hugmug"
 ---

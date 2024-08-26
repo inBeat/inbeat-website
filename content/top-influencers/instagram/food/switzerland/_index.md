@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Switzerland In 2023
+title: Top 10 Food Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top food Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #zurich #love #foodlover.
+  Find top food Instagram influencers in Switzerland in 2024. Most popular hashtags: #schweiz #zurich #switzerland #summer.
 platform: Instagram
-hits: 75
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 75 Instagram influencers like this in Switzerland for you to contact.
+hits: 140
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 140 Instagram influencers like this in Switzerland for you to pitch.
 profiles:
-  - username: "anina.gepp"
+  - username: "killiane.hmch"
     fullname: >-
-      Anina 🦋
+      Killiane
     bio: >-
-      ☼ gesund, bewusst & im Moment leben ☼ sharing my passion for yoga, poems & food ☼ yoga teacher & author📍Tenerife ☼ Januar-Retreat - jetzt anmelden ⇣
+      Good vibes • lifestyle • food • skincare 🌼💛🌙🍯🍋 Sun & Vitamins killianepro@gmail.com 📍Genève / Lausanne 🇨🇭
     location: "Switzerland"
-    followers: 98250
-    engagement: 249
-    commentsToLikes: 0.034483
-    id: ck0vyo0mf4y1v0i19m1bn9fbo
+    followers: 17594
+    engagement: 413
+    commentsToLikes: 0.069606
+    id: cll8394cy8akf0j08gazctyzz
     verified: false
-    hashtags: "#gl, #selbstf, #bewusstleben, #gutertag"
-  - username: "irina_cerutti"
-    fullname: >-
-      Irina Cerutti
-    bio: >-
-      📌 ||Based in Zurich 🌍 || Travel Journalist 🏙 || Lifestyle, Food & Fashion 📩 || Contact: Direct Messagel
-    location: "Switzerland"
-    followers: 1101853
-    engagement: 217
-    commentsToLikes: 0.006566
-    id: ck15tlswdipln0i19jly1nbbc
-    verified: false
-    hashtags: ""
-  - username: "i_am_birebaumli"
-    fullname: >-
-      
-    bio: >-
-      BOOKINGS TEMPORARLY CLOSED Welcome to my portfolio! Based in 🇨🇭 Interested in martial arts 🥊 & fitness, photography, nature, healthy v. food
-    location: "Switzerland"
-    followers: 6750
-    engagement: 1985
-    commentsToLikes: 0.126511
-    id: ck13d3pg53irf0i190hd1hu57
-    verified: false
-    hashtags: "#swissphotographer, #urbexlovers, #lookslikefilm, #thun"
-  - username: "ana_carugati"
-    fullname: >-
-      ◻️◽️▫️Ana Carugati ▫️◽️◻️
-    bio: >-
-      Serbian & Swiss married Sotl 🔸 Posts about cigars, food & beverage, travels, luxury and cars 🔸 English🇬🇧🇺🇸, Français🇫🇷🇨🇭, Srpski🇷🇸 🔸 #AnaCarugati
-    location: "Switzerland"
-    followers: 9028
-    engagement: 1508
-    commentsToLikes: 0.082277
-    id: ck9hanl2rd92o0j781ai90s05
-    verified: false
-    hashtags: "#cigarlady, #anacarugati, #tb, #tbt"
-  - username: "_jasmineonajourney_"
-    fullname: >-
-      🅹🅰🆂🅼🅸🅽🅴
-    bio: >-
-      ♥ USA➝ 🇨🇭Zürich ♥ Foodie 🥟(➝ on Story) ♥ Travels ✈️ ♥ GGI CM 👯‍♀️
-    location: "Switzerland"
-    followers: 4365
-    engagement: 1094
-    commentsToLikes: 0.242133
-    id: ckf5q59hi88420j23f92hsiol
-    verified: false
-    hashtags: "#hikingvibes, #nature, #wintervibes, #snowyday"
-  - username: "clairedombrowski_"
-    fullname: >-
-      Claire Dombrowski
-    bio: >-
-      📍Zürich, CH | FASHION | FITNESS & FOOD | TRAVEL “treat me right and I’ll treat you better” 🥀 𝔱𝔥𝔦𝔰 𝔦𝔰 𝔪𝔶 𝔣𝔬𝔱𝔬𝔞𝔩𝔟𝔲𝔪. 𝖋𝖊𝖊𝖑 𝖋𝖗𝖊𝖊 𝖙𝖔 𝖘𝖍𝖔𝖜 𝖘𝖔𝖒𝖊 𝖑𝖔𝖛𝖊
-    location: "Switzerland"
-    followers: 10709
-    engagement: 418
-    commentsToLikes: 0.023297
-    id: ckap666vwekfj0i78rwfj70pe
-    verified: false
-    hashtags: "#love, #tan, #sea, #summer"
-  - username: "athletico80"
-    fullname: >-
-      Whatever...
-    bio: >-
-      Taken 💍 Mix of 🇳🇱🇮🇹🇱🇧 Living in Zurich🇨🇭 Travel maniac 🚁✈️🚤 Workout 🏋🏽🚴🏽💪🏼 Foodlover 🍣🥩🍷 Explorer 🧗🏻‍♂️🏝🌋 #fitdutchies #travelholic #workout
-    location: "Switzerland"
-    followers: 3011
-    engagement: 1273
-    commentsToLikes: 0.040798
-    id: ckapbs12714lz0i78xoacotcx
-    verified: false
-    hashtags: "#myswitzerland, #wanderlust, #speedo, #swimsuit"
+    hashtags: "#uluwatu, #komodoisland, #geneve, #trionsmieux"
   - username: "ready4meat"
     fullname: >-
       Patrick Manhard
     bio: >-
-      🍴Passionated Food-Blogger 🥩Meat Specialist / Butcher 🇨🇭St. Gallen / Switzerland 💯% Selfmade Content 📸Food Photographer 📩Requests / Mail
+      Schweizer #Foodblogger 🍽️ Gelernter Metzger 🥩 Professionelle Fotos, Videos und Rezepte 📸 Hochwertiger, leidenschaftlicher Fleisch- und Food-Content 🍗
     location: "Switzerland"
-    followers: 9766
-    engagement: 1033
-    commentsToLikes: 0.108700
+    followers: 15289
+    engagement: 455
+    commentsToLikes: 0.144529
     id: ckaorrt35ogm10i78pzf4t1f1
     verified: false
-    hashtags: "#charcoalgrill, #grill, #cookingmypassion, #germancuisine"
-  - username: "styledby.s"
-    fullname: >-
-      Sabrina
-    bio: >-
-      Really into deep talks, outdoor activities & vegan food 🌱 Always up for something new „fill your live with adventures, not things“ 📍Switzerland
-    location: "Switzerland"
-    followers: 13781
-    engagement: 253
-    commentsToLikes: 0.019193
-    id: ck14ikqwofwbj0i198wl4xa88
-    verified: false
-    hashtags: "#skitouring, #outfitboard, #styledbys, #heutetrageich"
+    hashtags: "#beaf, #homechef, #moremeat, #rezept"
   - username: "whats_alexandra_up_to"
     fullname: >-
       WHAT‘S ALEXANDRA UP TO?
     bio: >-
-      TRAVEL ✈️, FOOD 🍉 & MORE 📍Zurich🇨🇭
+      TRAVEL ✈️, FOOD 🍉 & MORE 📍Zurich, Switzerland 🇨🇭
     location: "Switzerland"
-    followers: 6185
-    engagement: 1486
-    commentsToLikes: 0.039240
+    followers: 11470
+    engagement: 619
+    commentsToLikes: 0.036516
     id: ck8syww2ymbvt0j78q007t7kw
     verified: false
-    hashtags: "#wintermoments, #travelpic, #zu, #zurich"
+    hashtags: "#tasteintravel, #cozy, #lhwtraveler, #bulgarihotel"
+  - username: "jasminea.decker"
+    fullname: >-
+      Jasmine🇨🇭| Creator in Switzerland
+    bio: >-
+      Helping You Discover Food & Travel in Switzerland! UGC brands • Content creation services 📍Moved from Geneva to Zurich🇨🇭 ✉️: Jasmine@SwissOrMiss.com
+    location: "Switzerland"
+    followers: 40203
+    engagement: 363
+    commentsToLikes: 0.117393
+    id: clodkr6drj8yt0j08apltmqwe
+    verified: false
+    hashtags: "#swisstravel, #lucerne, #swissblog, #swissinfluencer"
+  - username: "diana_mengyan"
+    fullname: >-
+      Mengyan Yu
+    bio: >-
+      tiktok: 1.5M+ food 🍜 @diana_mengyan91 ✨Thy word is a lamp unto my feet And light unto my path✨
+    location: "Switzerland"
+    followers: 59130
+    engagement: 352
+    commentsToLikes: 0.018592
+    id: ck5hi6i9zbwch0i119v5h5dn7
+    verified: false
+    hashtags: "#relatable, #ad, #reelsinstagram, #lipgloss"
+  - username: "djallyssonluis"
+    fullname: >-
+      DjAllyssonLuis
+    bio: >-
+      Zurich 📍 DJ&PRODUCER Bookings only by email 👇👉djallyssonluis@gmail.com Music is my soul 🎵🎶🎧 Gym 💪🏽 Healthy food 🥦Sports 🥊Travel ✈️ 🗣🇩🇪🇪🇸🇬🇧🇧🇷🇫🇷
+    location: "Switzerland"
+    followers: 100189
+    engagement: 300
+    commentsToLikes: 0.021857
+    id: ck6u341xgvkw30j71gjshii8h
+    verified: false
+    hashtags: "#happy, #music, #sintra, #djallyssonluis"
+  - username: "andrisilberschmidt"
+    fullname: >-
+      Andri Silberschmidt-Buhofer
+    bio: >-
+      🗳 Nationalrat 🇨🇭 & Vizepräsident @FDP_Schweiz 🥙 Mitgründer + VRP @kaisin.food 🚚 VR Sekretär @planzer_official 👨‍🌾 VR @jucker_farm
+    location: "Switzerland"
+    followers: 6838
+    engagement: 1014
+    commentsToLikes: 0.019746
+    id: clpfdzvkriymp0k0829dtg090
+    verified: false
+    hashtags: "#altersvorsorge, #zukunft, #rentenl, #teamfdp"
+  - username: "sabrinacipolla_"
+    fullname: >-
+      Sabrina Cipolla
+    bio: >-
+      Food is about telling a story Private Chef and FoodArt Owner of @KochRaum.ch Zurich @lecordonbleuparis alumni
+    location: "Switzerland"
+    followers: 17693
+    engagement: 285
+    commentsToLikes: 0.043693
+    id: ck0w0u99cg28l0i19nh8hqwiq
+    verified: false
+    hashtags: "#workshops, #swiss, #chefslife, #loveit"
+  - username: "zurich_is_beautiful"
+    fullname: >-
+      Manuela Leonhard
+    bio: >-
+      Homebase Zürich, Travels🇨🇭🌍 www.manuelaleonhard.ch 📱food, restaurants, hotels, photography, travel, lifestyle, Influencer ü50 #shotoniphone15promax
+    location: "Switzerland"
+    followers: 38198
+    engagement: 268
+    commentsToLikes: 0.054196
+    id: clo0mhjdaaand0j08pbreykj1
+    verified: false
+    hashtags: "#zurich, #roses, #lifeisbeautiful, #excellenceflussreisen"
+  - username: "eat.click.travel"
+    fullname: >-
+      Vegan food & lifestyle
+    bio: >-
+      🦁Shiruna & Family | 🇨🇭 Zurich 📸Foodie | Photos & Videos | Vegan Recipes ⬇️Blog
+    location: "Switzerland"
+    followers: 24725
+    engagement: 324
+    commentsToLikes: 0.202508
+    id: clonw4xiu8i3n0j08fmqtgzsc
+    verified: false
+    hashtags: "#veganschweiz, #gewinnspiele, #geschenkideen, #basel"
 ---

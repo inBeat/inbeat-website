@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Kyoto In 2023
+title: Top 10 Yoga Instagram Influencers In Kyoto In 2024
 description: >-
-  Find top yoga Instagram influencers in Kyoto in 2023. Most popular hashtags: #yoga #pr #kyoto #cafe.
+  Find top yoga Instagram influencers in Kyoto in 2024. Most popular hashtags: #yoga #kyoto #yogaevent #japan.
 platform: Instagram
-hits: 6
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 6 Instagram influencers like this in Kyoto, Japan for you to pitch.
+hits: 9
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform has 9 Instagram influencers like this in Kyoto, Japan for you to pitch.
 profiles:
   - username: "naachan__"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckap65if2ehfc0i78sbrkrlmd
     verified: false
     hashtags: "#samanthathavasa, #mercuryduo, #pr, #cafe"
+  - username: "tsukiyoga"
+    fullname: >-
+      tsuki ☾ yoga lifestylist
+    bio: >-
+      yoga(RYT500)| fitness | self-care video creator・fit model 🧘‍♂️くびれるヨガトレ 🕊あしたが変わるセルフケア @tsukiyoga TikTok 320k @tarzanweb 監修トレーナー @mandukayoga ambassador
+    location: "Japan"
+    followers: 216531
+    engagement: 636
+    commentsToLikes: 0.010242
+    id: ck5ckqwbvxfhp0i11rzj6fukf
+    verified: false
+    hashtags: "#sustainableliving, #selfmassage, #yogateacher, #healthylifestyle"
   - username: "hiromi.tomii"
     fullname: >-
       Hiromi.Tomii
@@ -67,6 +79,30 @@ profiles:
     id: ck1367c0253dj0i191b5d19po
     verified: false
     hashtags: "#2020, #rickieg, #kyotomuse, #miroku"
+  - username: "aesthetic_ys"
+    fullname: >-
+      Yuki Sorci
+    bio: >-
+      ◽️CEO @evolifeapparel ◾️USBB All Japan Mens Physique Overall🏆 ◽️Fmr Pro MMA Fighter👊🏼 ◾️Trader📈 🔹@vqfit 🔹@yavalabs.official 🔹@mycookiedealer
+    location: "Japan"
+    followers: 347088
+    engagement: 247
+    commentsToLikes: 0.004277
+    id: ck5qcepneq7670i11a2jqf9am
+    verified: false
+    hashtags: "#pt, #fitspo, #muscle, #tokyo"
+  - username: "_z_eric_o_"
+    fullname: >-
+      治部恵里子
+    bio: >-
+      Eriko Jibu 🧘🏻‍♀️wellness アドバイザー 食事・ピラティス・美容・メイク 🧴@evella_official_ ディレクター スキンケア製品開発・PR 41歳 🐰二羽と大阪住み
+    location: "Japan"
+    followers: 60552
+    engagement: 124
+    commentsToLikes: 0.019641
+    id: ck0w5esgt3anv0i193lvt8swp
+    verified: false
+    hashtags: "#kimonostyle, #yukinosnowflora, #aloyoga, #luluremon"
   - username: "moemurakami_"
     fullname: >-
       Moe Murakami
@@ -79,52 +115,16 @@ profiles:
     id: ckaouqt2a1ezv0i782eaw049k
     verified: false
     hashtags: "#discovertochigi, #happybifestaday, #moii, #newans"
-  - username: "miawatanabe_yoga"
+  - username: "tsukiyoga"
     fullname: >-
-      Mia
+      tsuki ☾ yoga lifestylist
     bio: >-
-      ERYT500+ YACEP, Yoga&Pilates Teacher, Sports Nutrition Coach 身体の柔軟性と体幹エクササイズ 必要栄養素推奨と生涯健康体作りのコーチ 🌁Live in USA🇺🇸 お仕事ご依頼はDMにてご連絡ください Day1Stretch/Founder
+      yoga(RYT500)| fitness | self-care video creator・fit model 🧘‍♂️くびれるヨガトレ 🕊あしたが変わるセルフケア @tsukiyoga TikTok 320k @tarzanweb 監修トレーナー @mandukayoga ambassador
     location: "Japan"
-    followers: 28155
-    engagement: 421
-    commentsToLikes: 0.087569
-    id: ck14l4qmzsuh90i19pq2tx3ir
+    followers: 216531
+    engagement: 636
+    commentsToLikes: 0.010242
+    id: ck5ckqwbvxfhp0i11rzj6fukf
     verified: false
-    hashtags: "#agepositive, #love, #selfy, #stanford"
-  - username: "taylorjyoga"
-    fullname: >-
-      Taylor Johnson
-    bio: >-
-      Yoga | Acro | Rocket | Buti 📍Longmont, CO Knotty girl: @macrametay Children: @spagnball 200 YTT Jan 2021 @sol19yoga👇🏼
-    location: "Japan"
-    followers: 17882
-    engagement: 278
-    commentsToLikes: 0.101476
-    id: ck5pzsk8z2jky0i11gfzzm594
-    verified: false
-    hashtags: "#nafbabeschallenge2, #longmont, #ad, #sol19yoga"
-  - username: "arisa28lucia"
-    fullname: >-
-      Arisa Ⅰアリサ🇯🇵🇮🇹
-    bio: >-
-      》Model,YogaRYT200,PADIrescueDiver 》YouTube"arisarah channel "🌹 📲DM or EMail for collabo
-    location: "Japan"
-    followers: 14020
-    engagement: 643
-    commentsToLikes: 0.045579
-    id: ckaow4b797dc10i787gcj4ovu
-    verified: false
-    hashtags: "#pr, #training, #travelphotography, #workout"
-  - username: "blifetokyo"
-    fullname: >-
-      B-life
-    bio: >-
-      Yoga & Fitness Workout Creator. 痩せたい！健康的になりたい！すべての方の悩みを解決するエクササイズ動画を無料で配信しています。10〜15分くらいの空き時間で気軽に行えますので、是非お試しください♪
-    location: "Japan"
-    followers: 48334
-    engagement: 471
-    commentsToLikes: 0.019041
-    id: ckapb665gypre0i78i1v3kh7d
-    verified: false
-    hashtags: "#blifeconnect"
+    hashtags: "#sustainableliving, #selfmassage, #yogateacher, #healthylifestyle"
 ---

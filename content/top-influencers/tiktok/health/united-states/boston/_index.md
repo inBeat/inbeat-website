@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Boston In 2023
+title: Top 10 Health TikTok Influencers In Boston In 2024
 description: >-
-  Find top health TikTok influencers in Boston in 2023. Most popular hashtags: #fyp #foryou #boston #health.
+  Find top health TikTok influencers in Boston in 2024. Most popular hashtags: #fyp #foryou #boston #health.
 platform: TikTok
 hits: 18
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 18 TikTok influencers like this in Boston, United States for you to work with.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 18 TikTok influencers like this in Boston, United States for you to pitch.
 profiles:
   - username: "ian.brownhill"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.023701
     id: ckbw7avy6ys0v0j23y4frx98u
     verified: false
-    hashtags: "#shadowandbone, #chipsgottalent, #boys, #destinationdepop"
+    hashtags: "#story, #nanny, #shadowandbone, #makemomepic"
   - username: "jamesdeveney"
     fullname: >-
       James Deveney
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.052433
     id: ck81t23qwuvky0j78av0e1n3l
     verified: false
-    hashtags: "#fail, #family, #travel, #viral"
+    hashtags: "#insurance, #baby, #health, #fail"
   - username: "haon.memeclub"
     fullname: >-
       haon.memeclub

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Los Angeles In 2023
+title: Top 10 Gaming TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top gaming TikTok influencers in Los Angeles in 2023. Most popular hashtags: #gaming #fyp #losangeles #foryou.
+  Find top gaming TikTok influencers in Los Angeles in 2024. Most popular hashtags: #fyp #gaming #losangeles #foryou.
 platform: TikTok
-hits: 17
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 17 TikTok influencers like this in Los Angeles, United States for you to connect with.
+hits: 16
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 16 TikTok influencers like this in Los Angeles, United States for you to pitch.
 profiles:
   - username: "mikeoofs"
     fullname: >-
@@ -67,30 +67,18 @@ profiles:
     id: ckbat4samjqn10j2373t33jjv
     verified: false
     hashtags: "#spartan, #lol, #gaming, #support"
-  - username: "therealrasberry"
-    fullname: >-
-      Jonmarc Rasberry
-    bio: >-
-      Artist, Teacher, Christian Welcome, love you all 3000 ❤️ ⬇️My other socials⬇️
-    location: "United States"
-    followers: 25400
-    engagement: 915
-    commentsToLikes: 0.114078
-    id: ckcur2kwvji9f0j236hr9i4qo
-    verified: false
-    hashtags: "#marvel, #nfl, #fyp, #geicolipsync"
   - username: "patrikthelast"
     fullname: >-
       Patrik
     bio: >-
-      Insta & YouTube ⬆️ Producer for @TeamLiquid
+      Producer for @TeamLiquid
     location: "United States"
-    followers: 38000
-    engagement: 695
-    commentsToLikes: 0.033311
+    followers: 37800
+    engagement: 740
+    commentsToLikes: 0.030921
     id: ck9rdp4hvytk80j78odakyi30
     verified: false
-    hashtags: "#videogames, #comedy, #gaming, #twitch"
+    hashtags: "#starwars, #videogames, #gaming, #twitch"
   - username: "95denises"
     fullname: >-
       Denise
@@ -102,7 +90,7 @@ profiles:
     commentsToLikes: 0.041919
     id: ckcjds3ksa5qh0j235tltf73c
     verified: false
-    hashtags: "#relatable, #gamergirl, #foryou, #siblings"
+    hashtags: "#facts, #relatable, #childhood, #kids"
   - username: "kennybsanders"
     fullname: >-
       GTA5 vs. Reality
@@ -127,4 +115,16 @@ profiles:
     id: ckcdmgenta6df0j2354579kz2
     verified: false
     hashtags: "#smarthome, #tech, #invention, #gadgets"
+  - username: "jolteonninja"
+    fullname: >-
+      Andres👾
+    bio: >-
+      Sprite Cranberry Season🎄 19 🌴LA🌴
+    location: "United States"
+    followers: 3297
+    engagement: 887
+    commentsToLikes: 0.035301
+    id: ck83zcn45zpi10j78g8c2p8zp
+    verified: false
+    hashtags: "#foryou, #foryoupage, #xyzbca, #pokemon"
 ---

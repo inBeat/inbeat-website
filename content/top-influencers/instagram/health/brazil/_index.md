@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Brazil In 2023
+title: Top 10 Health Instagram Influencers In Brazil In 2024
 description: >-
-  Find top health Instagram influencers in Brazil in 2023. Most popular hashtags: #ootd #look #instagood.
+  Find top health Instagram influencers in Brazil in 2024. Most popular hashtags: #tbt #reels #brasil.
 platform: Instagram
-hits: 818
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 818 Instagram influencers like this in Brazil for you to work with.
+hits: 821
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 821 Instagram influencers like this in Brazil for you to contact.
 profiles:
-  - username: "jujunorremose"
+  - username: "mariana.collyer"
     fullname: >-
-      Julia Norremose Ferreira
+      Mari Collyer
     bio: >-
-      Healthy and Positive LifeStyle🌴💕😜 💌contato@jujunorremose.com.br 🍫 @amohaoma
+      Youtuber || Influencer o meu mais sincero eu. 🥗 • healthy lifestyle🏋🏻‍♀️ 🤳 • tiktok: @eumaricollyer
     location: "Brazil"
-    followers: 1322956
-    engagement: 51
-    commentsToLikes: 0.038108
-    id: ck55oyjih9eoj0i11sfrutcg7
+    followers: 448477
+    engagement: 626
+    commentsToLikes: 0.568837
+    id: ck0w16u0zhu5f0i19pebfhjt1
+    verified: false
+    hashtags: "#sorteio, #sorteiomaterialescolar, #sorteiotop, #sorteiodinheiro"
+  - username: "jorgerichardirochin"
+    fullname: >-
+      Jorge Richardi Rochin
+    bio: >-
+      Amo Viajar y Emprender. #travel #homestyle #luxurylifestyle #fitness #healthylifestyle #gym#motivation#entrepreneur#india #brasil #brazil #indonesia
+    location: "Brazil"
+    followers: 146003
+    engagement: 732
+    commentsToLikes: 0.013113
+    id: ck8t3fz5v33z50j78k43mf0av
+    verified: false
+    hashtags: "#picturetoday, #menstyles, #sugarbabys, #sugardaddybrasil"
+  - username: "asnove"
+    fullname: >-
+      Sofia de Castro Fernandes
+    bio: >-
+      Host Podcast @premiocincoestrelas Keynote Speaker Leadership | G.T.D | Mental Health
+    location: "Brazil"
+    followers: 566875
+    engagement: 324
+    commentsToLikes: 0.012601
+    id: ck5zr1f17vplg0i147d7wn4yi
     verified: true
-    hashtags: "#biquini, #trip, #laserfast4anos, #unboxing"
-  - username: "harleyalves"
+    hashtags: "#mereces, #womenshealthportugal, #eusouwh, #asnove"
+  - username: "laisgoomes"
     fullname: >-
-      Harley Alves
+      Laís Gomes
     bio: >-
-      health & art @simplehale @feliccejoias harley@pappondigital.com.br
+      🍏 Healthy life ☀️ Praiana Paraty - Rio de Janeiro Brasil 🇧🇷🌊 💌 Parcerias via direct
     location: "Brazil"
-    followers: 182781
-    engagement: 712
-    commentsToLikes: 0.034547
-    id: ck0w5kgop43360i19njt39xkc
+    followers: 10567
+    engagement: 322
+    commentsToLikes: 0.049300
+    id: ck6u9fvpwxbku0j71mwv0gdqj
     verified: false
-    hashtags: "#chamadodooceano, #imunidade, #fortepordentro, #publi"
-  - username: "thalitaalipio"
+    hashtags: "#paraty, #go, #photography, #praia"
+  - username: "gleycefortalezadermato"
     fullname: >-
-      THALITA ALÍPIO
+      Gleyce Fortaleza
     bio: >-
-      Mc • 5:41 ✨ Jesus † dentista | modelo fotográfica | healthy fashion | beauty | lifestyle | work → @dra.thalitaalipio Cupons de desconto ⤵︎
+      Dermatologista SBD Sócia Fundadora Clínica Pele Recife Speaker Dermadream Cursos Sem Segredos Digital HEalth XP CRM PE 15446 RQE 2912
     location: "Brazil"
-    followers: 37641
-    engagement: 866
-    commentsToLikes: 1.850249
-    id: ck8t637jfc3610j782arnjcks
+    followers: 136300
+    engagement: 343
+    commentsToLikes: 0.028479
+    id: ck6u31ub1v77c0j71yeqrydjd
     verified: false
-    hashtags: "#photo, #instagood, #brasil, #love"
-  - username: "sufontes"
+    hashtags: "#dermatologista, #cuidado, #skincare, #dermatologia"
+  - username: "fialitton"
     fullname: >-
-      💕 Su 💕
+      Fia Litton Healy 🤍
     bio: >-
-      Fit and healthy over 45y💪 Beauty💄 Motos🏍 Crossfit🏋🏻‍♀️ @eunutrition_pt @cascarija @maisvoce_cabeleireiros @officialcrossgear ‼️DESCONTOS ⬇️‼️
+      Hecho con amor 🖤 Dublin | ♐︎ Mental health ✨ BA👇🏽 @biabellebeauty “FIA10” @alicia__lipfiller__academy
     location: "Brazil"
-    followers: 30827
-    engagement: 776
-    commentsToLikes: 0.066660
-    id: ck14i1ox8d84m0i19ztlsj9ap
+    followers: 72504
+    engagement: 214
+    commentsToLikes: 0.004687
+    id: ck55mjqap44fj0i119nm3xj0x
     verified: false
-    hashtags: "#bikerlifestyle, #bikeriders, #cute, #girl"
-  - username: "juh_almoaya"
+    hashtags: "#collab, #missygirl, #missyempire, #brandambassador"
+  - username: "ludidelfino"
     fullname: >-
-      JULIA ALMOAYA
+      Ludi Delfino
     bio: >-
-      •Barrel Racer 🐎 •Direito ⚖️ •Health Life - Musculação ✨ •Apaixonada por todos os animais.
+      Model // Health Coach // Personal Trainer // Lover of Life Health inside & out.🇧🇷🇺🇸
     location: "Brazil"
-    followers: 6924
-    engagement: 676
-    commentsToLikes: 0.038013
-    id: ckf5o2p9i0nl50j23ykkq4p8l
+    followers: 175816
+    engagement: 181
+    commentsToLikes: 0.019216
+    id: ck5hgjfw033dj0i11cegevqui
     verified: false
-    hashtags: "#moda, #bruta, #brutarusticaesistematica, #brutasertaneja"
-  - username: "alessandradelduque"
+    hashtags: "#gramabay, #bts, #ludionduty, #corfu"
+  - username: "nix.luisa"
     fullname: >-
-      Alessandra Delduque
+      Nicole Luisa
     bio: >-
-      • Fitness | Healthy Life • @teamcarolvaz @mundomarombabr @dcx.nutrition
+      healthy | lifestyle | and some other things 🎞☄️🇧🇷🌎🫀 19y - Oliveira (MG)
     location: "Brazil"
-    followers: 27465
-    engagement: 358
-    commentsToLikes: 0.041807
-    id: ck6u6wsczi63l0j71mq2m35ud
+    followers: 26533
+    engagement: 248
+    commentsToLikes: 0.073395
+    id: ck9hamg65d3jz0j78j33cuqzd
     verified: false
-    hashtags: "#coisasboasacontecem, #lifestyle, #botox, #belezafeminina"
-  - username: "dudurodrigues_oficial"
+    hashtags: "#treino, #rotina, #saudavel, #lifestyle"
+  - username: "beatrix_amaral"
     fullname: >-
-      Eduardo Rodrigues
+      Beatriz Amaral
     bio: >-
-      Deus em primeiro lugar. 🙏🏼 - Modelo | Mister | Fitness | Lifestyle - Graduando em Educação Física #menswear #fitness #lifestyle #health
+      CEO @_bazardabia | @bstore.br dear life, i trust you. ✨🦋 niterói, rio de janeiro health lifestyle | moda 📥 parcerias
     location: "Brazil"
-    followers: 43100
-    engagement: 273
-    commentsToLikes: 0.069667
-    id: ck9hcgb5el91m0j78p6xffxhx
+    followers: 35386
+    engagement: 239
+    commentsToLikes: 0.059627
+    id: ck6tr4v3ywxz10j71aac4a9uz
     verified: false
-    hashtags: "#boanoite, #bahia, #ootd, #bomdia"
-  - username: "raaquelmatoss"
+    hashtags: "#babomuito"
+  - username: "thecarolinalifestyle"
     fullname: >-
-      Raquel Matos Baião
+      Carolina Salazar
     bio: >-
-      📍Porto/ Setúbal Fashion, Lifestyle, Healthy Living Um fraquinho por desporto e amor pela cozinha 💪🍴 RAQUELM 15% @tummytox_pt anarsmatos9@gmail.com
+      NYC based with a Brazilian heart 🇧🇷 certified holistic health coach / hormone specialist pod: @innergrowth.co perfectionism + body love + recipes
     location: "Brazil"
-    followers: 16398
-    engagement: 478
-    commentsToLikes: 0.259990
-    id: ckap1o61jvdsj0i78njw9k4qr
+    followers: 44500
+    engagement: 129
+    commentsToLikes: 0.034449
+    id: ckqyg6tx53jns0j23hh2zv8y2
     verified: false
-    hashtags: "#summertime, #alentejo, #setubal, #lifestyleblogger"
-  - username: "anajuliach"
-    fullname: >-
-      🧿 Ana Júlia M. Chiamolera
-    bio: >-
-      ASSISTA OS STORIES❕ Healthy | lifestyle 👩🏻‍💻Gerente Wave Centro @prezepratas @maju_healthyfood @academiawave BC/SC
-    location: "Brazil"
-    followers: 9210
-    engagement: 648
-    commentsToLikes: 0.089272
-    id: ckaos38wppyp40i78spyfavhi
-    verified: false
-    hashtags: "#prata925, #praiabrava, #summerdays, #olhogrego"
-  - username: "marciasamuca"
-    fullname: >-
-      Marcia/Samuca
-    bio: >-
-      Healthy and Positive lifestyle Musculação 🏋️/Mtb🚵/tênis 🎾 ➡️ @racckety 🏊|VIDA ATIVA#t21 Samuca Filho Meu💙
-    location: "Brazil"
-    followers: 7161
-    engagement: 655
-    commentsToLikes: 0.490087
-    id: ck0ubkstyepeb0i19tigc41oy
-    verified: false
-    hashtags: "#hotelfazenda, #vidaativa, #t21, #familia"
+    hashtags: "#healthyfood, #breakfast, #easyrecipes, #breakfastlover"
 ---

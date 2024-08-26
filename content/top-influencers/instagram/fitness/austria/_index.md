@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Austria In 2023
+title: Top 10 Fitness Instagram Influencers In Austria In 2024
 description: >-
-  Find top fitness Instagram influencers in Austria in 2023. Most popular hashtags: #workout #ootdmen #streetstyle.
+  Find top fitness Instagram influencers in Austria in 2024. Most popular hashtags: #fitness #austria #summer.
 platform: Instagram
-hits: 73
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 73 Instagram influencers like this in Austria for you to contact.
+hits: 104
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 104 Instagram influencers like this in Austria for you to work with.
 profiles:
-  - username: "joortner"
+  - username: "manuel_digallo"
     fullname: >-
-      Joachim Ortner
+      Manuel di Gallo
     bio: >-
-      Here to spread positivity🔥 📍based in Linz | Vienna 🇦🇹 🤍 @lenadannerx 💪🏼 @foodspring 15% Code: joachimFSG Team @happyfit.fitnesscenter
+      Graz Austria European 1.85m Fitness Freak💪 Dog lover🐕 ~~~~~MyLiFeMyRuLeS~~~~~ Come in and find out ~~~~~~love it or leave it~~~
     location: "Austria"
-    followers: 48690
-    engagement: 445
-    commentsToLikes: 0.080895
-    id: ck0ucj2j5h1ha0i199tilory5
+    followers: 19000
+    engagement: 1047
+    commentsToLikes: 0.028045
+    id: ckf5ozktq4fad0j23qvklc9lz
     verified: false
-    hashtags: "#mode, #haul, #pump, #travel"
-  - username: "markserw"
+    hashtags: "#happyme, #muscle, #inkedboy, #gayman"
+  - username: "die_kollands"
     fullname: >-
-      Mark
+      Karina kolland .29 🇦🇹
     bio: >-
-      Just trying to share my style with you🤟🏼 Menswear | Streetstyle | Fitness 📍Vienna | Giessen Contact: m.serwuschok@web.de
+      ⋙ LIFESTYLE | FITNESS | BEAUTY | #realtalk 🎥 📍 Österreich - In der schönen Steiermark 📩 Karina-kolland@gmx.at 📺 Dauerwerbesendung
     location: "Austria"
-    followers: 4167
-    engagement: 888
-    commentsToLikes: 0.230552
-    id: ck9hch2njlcuo0j78nm3m6uhm
+    followers: 15801
+    engagement: 345
+    commentsToLikes: 0.084452
+    id: ck5c60n5n4hin0i11h13uw7iz
     verified: false
-    hashtags: "#backprint, #ootdmen, #denimstyle, #menwithstreetstyle"
-  - username: "viviennenoemi_"
+    hashtags: "#einbisschengl, #momof3, #cutie, #contentcreator"
+  - username: "gerid_rux"
     fullname: >-
-      Vivienne Noemi‘s Diary 🌸
+      GERID RUX🦋
     bio: >-
-      ~ my goal is to inspire healthy living ~ 💗 Dipl. Fitness-, Gesundheits- & Personal Trainerin 📍 Vienna, AT ✨ spread positivity 💻 Health Coach BTY
+      🇦🇹 Vienna Girl | Daily stories 💫Fitness | Motivation | Balance | Recipes 💓Owner of @giconic.de
     location: "Austria"
-    followers: 10100
-    engagement: 732
-    commentsToLikes: 0.062365
-    id: ckf5qlnhw9s0x0j23u26ublip
+    followers: 553748
+    engagement: 295
+    commentsToLikes: 0.027209
+    id: ck55jpz9hxja90i11rkatzq9l
+    verified: true
+    hashtags: "#gesunderezepte, #gesundessen, #gesundeern, #fulldayofeating"
+  - username: "beate.kie"
+    fullname: >-
+      Beate
+    bio: >-
+      from 📍Vienna all around the 🌍 just a girl trying to live her best life ✨️ law 🎓 • fitness 🏋🏼‍♀️• mindset 🌱
+    location: "Austria"
+    followers: 11205
+    engagement: 384
+    commentsToLikes: 0.222884
+    id: ck0w5tgn25czz0i19733mgypr
     verified: false
-    hashtags: "#lockdown, #lockdownworkout, #workout, #legdayworkout"
-  - username: "juliachavanne"
+    hashtags: "#fitandhappy, #fitness, #summerdays, #traveldiaries"
+  - username: "fabiankitzweger"
     fullname: >-
-      FITNESS | MODEL | LIFESTYLE
+      FABIAN KITZWEGER
     bio: >-
-      𝟡𝟞‘ 🤍 Real estate 🏗 @biotechusa_de 💙 •Vienna 🇦🇹 & 🇩🇪 • Dipl. online marketing • BWL👩‍🎓 •400k TikTok juliachavanne #fitness #athlete
+      🇦🇹Fitness | Travel | Lifestyle 🙋🏻‍♂️Chemical Engineer | Mister Austria
     location: "Austria"
-    followers: 233474
-    engagement: 122
-    commentsToLikes: 0.022943
-    id: ck5c8wqggacms0i11500ujazv
+    followers: 211563
+    engagement: 191
+    commentsToLikes: 0.061824
+    id: ck0ttcmlx259p0i19vzjjjii6
+    verified: true
+    hashtags: "#fitcouple, #gymgirl, #gymmemes, #fitnesscouple"
+  - username: "lukasmuelr"
+    fullname: >-
+      Lukas Müller
+    bio: >-
+      Lifestyle & Fitness unhealthy obsession with running @saltysportsclub
+    location: "Austria"
+    followers: 202277
+    engagement: 187
+    commentsToLikes: 0.019987
+    id: clpwuj1l7l9v20k08svrhx03p
     verified: false
-    hashtags: "#mood, #tb, #biotechusa, #sunday"
-  - username: "isabellakordasch"
+    hashtags: "#health, #75hard, #fitness, #selfimprovement"
+  - username: "connyhawk"
     fullname: >-
-      𝔦𝔰𝔞𝔟𝔢𝔩𝔩𝔞🦂
+      Cornelia Hauk
     bio: >-
-      -fashion student -fitness -mindset -dance more than you think you should
+      📍🇦🇹🇬🇧 Lifestyle | Fitness | Fashion 💕 ✉️ chawkmanagement@gmail.com
     location: "Austria"
-    followers: 3830
-    engagement: 1770
-    commentsToLikes: 0.049704
-    id: ckapc3tzu2cua0i78g42thecc
+    followers: 443230
+    engagement: 135
+    commentsToLikes: 0.030924
+    id: ck5bxejl1nkl30i11mn6ao9v5
     verified: false
     hashtags: ""
-  - username: "melanie_lechner"
+  - username: "carinasophy"
     fullname: >-
-      𝔐𝔢𝔩𝔞𝔫𝔦𝔢 𝔏𝔢𝔠𝔥𝔫𝔢𝔯
+      Carina
     bio: >-
-      •Dipl. Health Trainerin •IFBB Bikini Fitness Champion 🏆🥇 •AnoVona ————————
+      🤱🏼 Mom of 2 🤍 👰‍♀️ Bride to be 💍 💪🏼 fitness • lifestyle • momlife 🇦🇹 Austria📍Leoben 💌 carina.sophy@gmx.at
     location: "Austria"
-    followers: 14906
-    engagement: 238
-    commentsToLikes: 0.091919
-    id: ck9wf3dljn3sc0j78f00ublil
+    followers: 62850
+    engagement: 75
+    commentsToLikes: 0.057144
+    id: ckaow4nz17eug0i78ktul1obg
     verified: false
-    hashtags: "#brotherandsister, #girlstrip, #einzigenmitsoundboxunterwegs"
-  - username: "eleonora__v"
+    hashtags: "#ssw40, #ssw39, #neeeeew"
+  - username: "missevalutz"
     fullname: >-
-      Eleonora 🌹
+      Eva
     bio: >-
-      🤍Fitness & Motivation 🤍Positive Energy Founder of: @the.loyalfood Workouts bei @liveonakira ⬇️
+      loves fitness, movies, music & vegan food 🌱 ♓️ ✨🤍🧿📍Austria, Linz 📚⚖️👩‍💻 lawyer assistant
     location: "Austria"
-    followers: 31497
-    engagement: 709
-    commentsToLikes: 0.004132
-    id: ck5q7v9f537ym0i117w9u25ib
+    followers: 83400
+    engagement: 61
+    commentsToLikes: 0.109531
+    id: ck6tzasl38m4l0j71s1at1ngz
     verified: false
-    hashtags: "#akira, #workout, #trusttheprocess, #heimat"
-  - username: "avramov.zoran"
+    hashtags: "#eyes, #garden, #curves, #beach"
+  - username: "martinsmahel"
     fullname: >-
-      ZORAN AVRAMOVIC
+      Martin Šmahel
     bio: >-
-      Vienna 🌏 #streetstyle #menfashion #fitness @smilodox -10% „Zoran10“ ❗️
+      •🧽 CLEANCLEAN.SK tepovanie •👫 ♥️ Bea = Lily&Mia&Ema 👱🏼‍♀️👧🏼👶🏼 •💯%natural🇸🇰body •🏐 volleyball&💪fitness🪂 •🏍 Yamaha FJR •🧍‍♂️191cm 91kg 41yo •🌱fit #vegan
     location: "Austria"
-    followers: 162321
-    engagement: 239
-    commentsToLikes: 0.043819
-    id: ck5bw3bemkwzn0i1166i6nno2
+    followers: 47569
+    engagement: 51
+    commentsToLikes: 0.023100
+    id: ck0w5kf9l42u10i19ht8nudf4
     verified: false
-    hashtags: "#dappermen, #suitup, #mensweardaily, #fashiongram"
-  - username: "mariahoeflriesch"
-    fullname: >-
-      Maria Höfl-Riesch
-    bio: >-
-      - former alpine ski racer⛷ - 3 times Olympic Champion🥇 - expert for skiing, fitness, motivation💪🏼 - food and fashion lover🥗👗 - travel and lifestyle🚗💃🏼
-    location: "Austria"
-    followers: 52119
-    engagement: 301
-    commentsToLikes: 0.021132
-    id: ck5hl1hafjegl0i11yw7zuld4
-    verified: true
-    hashtags: "#instafashion, #nomination, #staypositive, #fashiongirl"
-  - username: "larissaseraphia"
-    fullname: >-
-      𝐋𝐀𝐑𝐈𝐒𝐒𝐀 𝐒𝐄𝐑𝐀𝐏𝐇𝐈𝐀 𝐋𝐄𝐇𝐍𝐄𝐑
-    bio: >-
-      @fitbelt_dach (coming soon.. 🚀) 20 y/o @happyfit.fitnesscenter 🧡 @floryan.br ❤️🧸
-    location: "Austria"
-    followers: 19302
-    engagement: 288
-    commentsToLikes: 0.020653
-    id: ck6ttcxha9wwm0j71gimoq72n
-    verified: false
-    hashtags: "#iciw, #bellaitalia, #italy, #travelgram"
+    hashtags: "#veganathlete, #motivation, #plantbased, #vegan"
 ---

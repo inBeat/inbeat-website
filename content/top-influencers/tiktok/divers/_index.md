@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In 2023
+title: Top 10 Divers TikTok Influencers In 2024
 description: >-
-  Find top divers TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #fy.
+  Find top divers TikTok influencers in 2024. Most popular hashtags: #fyp #foryou #fy.
 platform: TikTok
-hits: 4470
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 4470 TikTok influencers like this for you to contact.
+hits: 4363
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our database aggregates 4363 TikTok influencers like this for you to contact.
 profiles:
   - username: "thomasciprick"
     fullname: >-

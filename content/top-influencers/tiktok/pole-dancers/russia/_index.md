@@ -1,11 +1,11 @@
 ---
-title: Top 10 Pole Dancers TikTok Influencers In Russia In 2023
+title: Top 10 Pole Dancers TikTok Influencers In Russia In 2024
 description: >-
-  Find top pole dancers TikTok influencers in Russia in 2023. Most popular hashtags: #poledance #dance #poledancer.
+  Find top pole dancers TikTok influencers in Russia in 2024. Most popular hashtags: #poledance #poledancer #dance.
 platform: TikTok
 hits: 10
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 10 TikTok influencers like this in Russia for you to work with.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 10 TikTok influencers like this in Russia for you to work with.
 profiles:
   - username: "ilia_med"
     fullname: >-

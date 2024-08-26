@@ -1,12 +1,72 @@
 ---
-title: Top 10 Music Instagram Influencers In Nigeria In 2023
+title: Top 10 Music Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top music Instagram influencers in Nigeria in 2023. Most popular hashtags: #alongcametuzi #lollywood #afrikasocial.
+  Find top music Instagram influencers in Nigeria in 2024. Most popular hashtags: #samsung #asmr #travel.
 platform: Instagram
-hits: 52
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 52 Instagram influencers like this in Nigeria for you to work with.
+hits: 59
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 59 Instagram influencers like this in Nigeria for you to collaborate.
 profiles:
+  - username: "dj_spitnoise"
+    fullname: >-
+      Spitnoise
+    bio: >-
+      🇳🇱 UPTEMPO HARDCORE 🎛 Bookings: info@the-wishlist.nl 💿 SNAKEPIT MUSIC ⬇️ ARMAGEDDON (NOXIOUZ REMIX)
+    location: "Nigeria"
+    followers: 47009
+    engagement: 679
+    commentsToLikes: 0.033943
+    id: ck5c8rngsa3ea0i11abhc8ct0
+    verified: false
+    hashtags: ""
+  - username: "soma_apex"
+    fullname: >-
+      Somadina Anyama
+    bio: >-
+      Bbnaija All Star 🎯 TV Personality | Brand Influencer | Actor | Musical genius Geng leader @somageng_ 📧: itissomaapex@gmail.com
+    location: "Nigeria"
+    followers: 523577
+    engagement: 235
+    commentsToLikes: 0.052763
+    id: ck6tnjlix9z620j71meve1u07
+    verified: false
+    hashtags: "#somageng, #somaapex, #abs, #legendnigeria"
+  - username: "fisayofosudo"
+    fullname: >-
+      Fisayo Fosudo 🇳🇬
+    bio: >-
+      Without #FodaAdu, I’m a: 🌄 Visual Storyteller, Tech & Finance Creator 🎥 YouTube: 600K+ Subscribers: 100M+ Views 🎵 Ambassador @musicbed 👇🏾 MORE INFO🌛🐘🐺
+    location: "Nigeria"
+    followers: 295388
+    engagement: 158
+    commentsToLikes: 0.055240
+    id: ck5zjernehgj60i14rkhrho7q
+    verified: false
+    hashtags: "#satisfying, #tech, #unboxing, #samsungs24ultra"
+  - username: "pst_iren"
+    fullname: >-
+      Emmanuel Iren
+    bio: >-
+      Raising an army of Culture influencers by Apostolic ministry and role modeling in music, movies and media _ Song writer Apostle @cci_global _
+    location: "Nigeria"
+    followers: 883579
+    engagement: 136
+    commentsToLikes: 0.015998
+    id: ck5hhgr7y85330i11fcapknax
+    verified: false
+    hashtags: "#familypictures, #deepersouthsouth, #cciglobal, #cciportharcourt"
+  - username: "peterpsquare"
+    fullname: >-
+      Mr P
+    bio: >-
+      Musician/Entertainer/Businessman/Dr & CEO PSQUARE Bookings: booking@psquareworld.com info@one1mgt.com +2348121110000
+    location: "Nigeria"
+    followers: 12387787
+    engagement: 36
+    commentsToLikes: 0.039511
+    id: ckti73q9caq4a0j23faq1zcnb
+    verified: false
+    hashtags: "#200, #100, #50, #mrsp"
   - username: "superstarace"
     fullname: >-
       Superstar Ace
@@ -67,64 +127,4 @@ profiles:
     id: ck5ho9i5dp6cu0i11av0i5c8o
     verified: false
     hashtags: "#fitnesswithola, #02challenge, #silhouette, #olawiththemost"
-  - username: "haroonworld"
-    fullname: >-
-      Haroon Official
-    bio: >-
-      Singer/Director/Producer Peabody Award Winner Emmy Nominated Creator/Director: @Burka.Avenger CEO UnicornBlack.com Watch New Music Video below:
-    location: "Nigeria"
-    followers: 38536
-    engagement: 608
-    commentsToLikes: 0.040937
-    id: ck0vv84x3nyur0i19fdypseff
-    verified: false
-    hashtags: "#lahore, #himalayas, #peacefulpakistan, #pakistaniweddings"
-  - username: "tuzi_beatz"
-    fullname: >-
-      AlongCametuzi
-    bio: >-
-      #ALONGCAMETUZI 🇳🇬 Music producer Serial Hitmaker 💣 For Bookings 📧 tuzibookings@thezoneagency.com ☎️ +2349012474222
-    location: "Nigeria"
-    followers: 9509
-    engagement: 631
-    commentsToLikes: 0.074068
-    id: ck5zuof3n2r0v0i144us5cn5e
-    verified: false
-    hashtags: "#alongcametuzi, #afrobeats, #teamgoodmusic, #lagos"
-  - username: "paulcleverlee"
-    fullname: >-
-      CLEVERLEE
-    bio: >-
-      Music Producer • Remix Engineer • Song Writer • Influencer * For music productions, jingles and info: +2349097374375 Backup page : @1cleverlee
-    location: "Nigeria"
-    followers: 232148
-    engagement: 429
-    commentsToLikes: 0.028472
-    id: ck14lr664w2zh0i19kwbpmih8
-    verified: false
-    hashtags: "#loriiro, #jojobysuniwhiz, #510, #drillbeats"
-  - username: "sidwell_n"
-    fullname: >-
-      SIDWELL
-    bio: >-
-      Proud music and television producer! Retired actor/tv presenter. 🇿🇦🇳🇬🎭🎬🎤🎹
-    location: "Nigeria"
-    followers: 88444
-    engagement: 703
-    commentsToLikes: 0.013589
-    id: ck0txqaa2k4md0i197brl3z2n
-    verified: false
-    hashtags: "#nottobedeleted, #havefaith, #happyheritageday, #saynotpxenophobia"
-  - username: "maureenkunga"
-    fullname: >-
-      Maureen Kunga
-    bio: >-
-      Singer, Songwriter, YouTuber, Advocate of the High Court of Kenya. 1 of @elanimuziki. Music, Love, Light, Food and Hair and Health! (That sums it up!)
-    location: "Nigeria"
-    followers: 279405
-    engagement: 127
-    commentsToLikes: 0.053949
-    id: ck5zqdvs1ufaj0i14cbzgbjta
-    verified: true
-    hashtags: "#cashmoney, #mkgiveaway, #35000, #supportkebusinesses"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Seoul In 2023
+title: Top 10 Makeup Instagram Influencers In Seoul In 2024
 description: >-
-  Find top makeup Instagram influencers in Seoul in 2023. Most popular hashtags: #makeup #model #seoul.
+  Find top makeup Instagram influencers in Seoul in 2024. Most popular hashtags: #seoul #ootd #makeup #korea.
 platform: Instagram
-hits: 22
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 22 Instagram influencers like this in Seoul, South Korea for you to connect with.
+hits: 26
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 26 Instagram influencers like this in Seoul, South Korea for you to contact.
 profiles:
   - username: "sandy_joung023"
     fullname: >-
@@ -55,6 +55,66 @@ profiles:
     id: ck5pw4bzyl1bn0i11a94fpj2o
     verified: false
     hashtags: "#instamood, #snow, #urbanbike, #bts"
+  - username: "hehejihee"
+    fullname: >-
+      Julie Hwang
+    bio: >-
+      Kiwi Korean in Dubai 🦋 EMIRATES MAKEUP VIDEO
+    location: "South Korea"
+    followers: 114406
+    engagement: 492
+    commentsToLikes: 0.006724
+    id: ckaozhqm2lxud0i78ep1u8e99
+    verified: false
+    hashtags: "#style, #greece, #mykonos, #korean"
+  - username: "iammaeng"
+    fullname: >-
+      WOOSUN 이명선 원장
+    bio: >-
+      🕊우선 @woosunofficial 🏡27, Apgujeong-ro 79-gil, Gangnam-gu, Seoul 🤳🏻예약 및 비지니스문의 +82-2-540-1107
+    location: "South Korea"
+    followers: 418297
+    engagement: 441
+    commentsToLikes: 0.012798
+    id: ck14jm8uql2200i1942f13yl8
+    verified: false
+    hashtags: "#me, #woosun, #makeup, #iammaeng"
+  - username: "namu_bear"
+    fullname: >-
+      Mina 🧿
+    bio: >-
+      i like art & music | based in Seoul 🇰🇷 (🇪🇸) ✉️ PR/협찬 문의: DM/e-mail code NAMUBEAR for 10% off Cokodive
+    location: "South Korea"
+    followers: 87894
+    engagement: 252
+    commentsToLikes: 0.014552
+    id: ck0u1firwwog80i19o855g17q
+    verified: false
+    hashtags: "#kpopcollection, #bt21merch, #btsmerchandise, #btsroom"
+  - username: "joannaho1122"
+    fullname: >-
+      Joanna 小賀
+    bio: >-
+      KOL/Model/Outfit/Makeup 🩰🤎🦢 合作聯繫📩 joannaho1122@gmail.com @bimo0308 🐱
+    location: "South Korea"
+    followers: 78745
+    engagement: 240
+    commentsToLikes: 0.007902
+    id: ck5hdr1oxoxa90i11bhc2482h
+    verified: false
+    hashtags: "#wear, #outfit, #mood, #seoul"
+  - username: "gurum.soda"
+    fullname: >-
+      구름소다
+    bio: >-
+      female photographer 🌼 🇰🇷Seoul,Gangwon-do 촬영,협찬문의
+    location: "South Korea"
+    followers: 34558
+    engagement: 193
+    commentsToLikes: 0.009432
+    id: ckaoxo7ite37e0i78a734xelb
+    verified: false
+    hashtags: "#koreagirl, #tokyo"
   - username: "d2nasoaring"
     fullname: >-
       Dina 디나 Mujanović
@@ -67,64 +127,4 @@ profiles:
     id: ck6tvpzpwnm7r0j718srk9qrl
     verified: false
     hashtags: "#selfie, #skincare, #koreanbeauty, #koreanskincare"
-  - username: "seungsse2"
-    fullname: >-
-      🇰🇷 승스이 | 리우[Liu Makeup]
-    bio: >-
-      (❣️ 연애 중) 📩 DM & E-mail (ryou3339@naver.com) 👑 Makeup Artist · Beauty Creator · 브랜딩 · 모델 • ———————————————————————— • 🔻 Youtube · TikTok · Portfolio 🔻
-    location: "South Korea"
-    followers: 99336
-    engagement: 245
-    commentsToLikes: 0.023286
-    id: ck0w794mqcdt30i19zgt8hieh
-    verified: false
-    hashtags: "#makeupartist, #mensstyle, #menshair, #makeupkorea"
-  - username: "seangraphy"
-    fullname: >-
-      SEANGRAPHY 션그래피
-    bio: >-
-      ⠀ photographer @_kimkisung ⠀ Korea National University of Arts ⠀ Seoul, Republic of Korea ⠀ Less is More ⠀
-    location: "South Korea"
-    followers: 80479
-    engagement: 371
-    commentsToLikes: 0.008368
-    id: ckap0s8slrkc60i78m6tamsy3
-    verified: false
-    hashtags: ""
-  - username: "amelia_tantono"
-    fullname: >-
-      Amelia Tantono
-    bio: >-
-      Indonesian currently living in Seoul, South Korea. 🎥 LUNCH BOX (2015) - Please see Highlight 👇 . CURRENT BODY CARE & DAILY MAKEUP :
-    location: "South Korea"
-    followers: 279184
-    engagement: 1157
-    commentsToLikes: 0.004413
-    id: ck0u0vuthuzuw0i19i7996b5a
-    verified: true
-    hashtags: "#truebeauty, #1212shopeebirthdaysale, #1212shopeeid, #got7"
-  - username: "edomrode"
-    fullname: >-
-      김혜정
-    bio: >-
-      based in seoul, korea 🇰🇷 e-mail : edomrode@naver.com contact : DM /kakao:edomrode 스냅계정 : @near_n_deer
-    location: "South Korea"
-    followers: 55400
-    engagement: 289
-    commentsToLikes: 0.006494
-    id: ck8t35p7r1z3p0j78bd5livp0
-    verified: false
-    hashtags: ""
-  - username: "naina_thapa"
-    fullname: >-
-      Naina ★네나★🧿
-    bio: >-
-      INDIA 🇮🇳 | SEOUL 🇰🇷 Founder of @flawinabeauty
-    location: "South Korea"
-    followers: 7162
-    engagement: 908
-    commentsToLikes: 0.051511
-    id: ck6uevqevtcty0j718rd4gh5w
-    verified: false
-    hashtags: "#photooftheday, #fashionista, #beauty, #makeup"
 ---

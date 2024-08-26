@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Barcelona In 2023
+title: Top 10 Photographers Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top photographers Instagram influencers in Barcelona in 2023. Most popular hashtags: #photography #portrait #art.
+  Find top photographers Instagram influencers in Barcelona in 2024. Most popular hashtags: #barcelona #photographer #portrait.
 platform: Instagram
-hits: 105
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 105 Instagram influencers like this in Barcelona, Spain for you to work with.
+hits: 109
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 109 Instagram influencers like this in Barcelona, Spain for you to contact.
 profiles:
   - username: "softdaylight"
     fullname: >-
@@ -31,6 +31,30 @@ profiles:
     id: ck5q9esupara90i11l7gbmj2h
     verified: false
     hashtags: "#lanzarote, #capetown, #hondaprelude, #35mm"
+  - username: "unrealbazh"
+    fullname: >-
+      Photographer Barcelona
+    bio: >-
+      👋🏻 меня зовут Бажена 👩🏽‍💻 обучаю мобильной фотографии 📸 я фотограф @unrealbazh_photo 🥐 я выходного дня @bazhhlebprom Мои проекты 👇🏼
+    location: "Spain"
+    followers: 28608
+    engagement: 439
+    commentsToLikes: 0.008869
+    id: ck55jgcb7wz0s0i11p30hn0al
+    verified: false
+    hashtags: "#whereto, #photographerbarcelona, #lloretdemar"
+  - username: "mashaderevianko"
+    fullname: >-
+      MARIIA DEREVIANKO 🇺🇦
+    bio: >-
+      Barcelona Photographer @we_naked MA @mc2telaviv @blowmodels @selectmodellondon @munichmodels @uniquemodelsdenmark @whynotmodels @pma_models …
+    location: "Spain"
+    followers: 92573
+    engagement: 61
+    commentsToLikes: 0.000862
+    id: ck0tww95wh0lq0i19gjxajogb
+    verified: false
+    hashtags: "#memento24, #ajeworld"
   - username: "uripalaci"
     fullname: >-
       Oriol Palací
@@ -54,7 +78,7 @@ profiles:
     commentsToLikes: 0.037134
     id: ckapaux8pxkaz0i78jehjziek
     verified: false
-    hashtags: "#photography, #art, #instagood, #marcosalberca"
+    hashtags: "#photography, #marcosalberca, #instagood, #arte"
   - username: "sportvalen"
     fullname: >-
       Valentí Enrich
@@ -67,64 +91,40 @@ profiles:
     id: ck133yda5ucfp0i19trcombux
     verified: false
     hashtags: "#messi, #soccer, #championsleague, #sportphotography"
-  - username: "javith13"
+  - username: "lauranfotografia_"
     fullname: >-
-      Javi Martinez
+      Laura Núñez Fotografia 📷
     bio: >-
-      🕶 Co-founder @hawkersco 💬 Motivator & entrepreneur 🏎 Car addict & Bike lover ⬇️ ⬇️ ⬇️
+      📷 Portrait and adverstising Photographer 💭 DreamingWithPhotographs 📍 Rubí, BCN | ✈️📸 VLC, MAD, GIRONA 🤰👰 @dreamingwithphotographs 🖼️ Portfolio👇
     location: "Spain"
-    followers: 177206
-    engagement: 142
-    commentsToLikes: 0.010497
-    id: ck5hp03atqj2r0i11t3qpi1nz
-    verified: true
-    hashtags: "#supercars, #bmwm, #bmw, #enjoy"
-  - username: "joseptienzaphoto"
-    fullname: >-
-      JOSEP TIENZA
-    bio: >-
-      Photographer & Filmmaker✨ 📍Barcelona, Spain CEO @streikmanagement ⚡️ + Info (DM) 💌 Personal account: @joseptienza
-    location: "Spain"
-    followers: 26506
-    engagement: 1248
-    commentsToLikes: 0.045558
-    id: ck6tiaxqq0dek0j71itcwcylm
+    followers: 18052
+    engagement: 303
+    commentsToLikes: 0.155143
+    id: ck6u0nlnkgqh60j71tdbfj3q9
     verified: false
-    hashtags: ""
-  - username: "marcel.wydaxx"
+    hashtags: "#photoshop, #portrait, #barcelona, #photographer"
+  - username: "acarolinabenitez"
     fullname: >-
-      Marcel " WyDaXx " 📸
+      Carolina Benitez
     bio: >-
-      Marcel, C♡ 📍Barcelona Filmmaker & Photographer Do whatever it takes to get an epic photo 🤘🏼 Business and Inquiry 👇🏼
+      Model | Actress | Entrepreneur. ❣️📸🎥🌍✈️👣♏️❤️🅰️🐾🙏🏽 @monsterenergygirls Ambassador 💚 From Brazil 📍 Based Barcelona. 📮carolinabenitezz@hotmail.com
     location: "Spain"
-    followers: 47893
-    engagement: 1764
-    commentsToLikes: 0.015913
-    id: ck5q71s0azni50i11fyl318bn
+    followers: 34579
+    engagement: 378
+    commentsToLikes: 0.042370
+    id: ckaovznrq6s5u0i78irimhnn8
     verified: false
-    hashtags: "#visualambassadors, #cinematography, #earth, #igrefined"
-  - username: "crissro"
+    hashtags: "#aroundtheworld, #tulum, #grateful, #monsterenergy"
+  - username: "marynacanalda"
     fullname: >-
-      crissro
+      
     bio: >-
-      📷 @suicidegirls staff photographer 🌹 📍 Barcelona Let's work together!! write me 💌 🚀 Pers acount - @travelwithcrisro 🛸Twitter- itscrisro
+      ❤Made in Ukraine ♡Barcelona 📍España 📩Colab: marcan8585@gmail.com 🗨Castellano, ruso
     location: "Spain"
-    followers: 55132
-    engagement: 493
-    commentsToLikes: 0.007209
-    id: ck55oucol95f10i1120audrea
+    followers: 10587
+    engagement: 401
+    commentsToLikes: 0.046368
+    id: ck8tdtu114qvq0j788gryynpq
     verified: false
-    hashtags: "#membereview, #ingenue, #doublemalta"
-  - username: "andreadesignphotography"
-    fullname: >-
-      Andrea Design Photography
-    bio: >-
-      ω e ∂ ∂ ι η g & F α ѕ h ι o η photographers • 📍Valladolid - Barcelona 📍 + ⓘ ⓝ ⓕ ⓞ
-    location: "Spain"
-    followers: 33064
-    engagement: 126
-    commentsToLikes: 0.017348
-    id: ck6tjeq5n2kk80j711nktxg21
-    verified: false
-    hashtags: "#navidad2020, #london, #circus, #madrid"
+    hashtags: "#sol, #photography, #photooftheday, #barcelona"
 ---

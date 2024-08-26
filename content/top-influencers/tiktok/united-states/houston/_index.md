@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Houston In 2023
+title: Top 10 TikTok Influencers In Houston In 2024
 description: >-
-  Find top TikTok influencers in Houston in 2023. Most popular hashtags: #fyp #foryou #greenscreen #houston.
+  Find top TikTok influencers in Houston in 2024. Most popular hashtags: #fyp #foryou #greenscreen #houston.
 platform: TikTok
-hits: 857
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our platform has 857 TikTok influencers like this in Houston, United States for you to contact.
+hits: 853
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 853 TikTok influencers like this in Houston, United States for you to pitch.
 profiles:
   - username: "emiliobernot"
     fullname: >-
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.404379
     id: ckcegu805ocw70j23ycv5c8tj
     verified: false
-    hashtags: "#goofy, #dork, #koolaid, #mfs"
+    hashtags: "#boatsandhoez, #lmfao, #mygirls, #goofy"
 ---

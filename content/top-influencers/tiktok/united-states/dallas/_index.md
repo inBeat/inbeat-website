@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Dallas In 2023
+title: Top 10 TikTok Influencers In Dallas In 2024
 description: >-
-  Find top TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #foryou #texas #duet.
+  Find top TikTok influencers in Dallas in 2024. Most popular hashtags: #fyp #foryou #texas #duet.
 platform: TikTok
-hits: 801
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our platform holds 801 TikTok influencers like this in Dallas, United States for you to collaborate.
+hits: 794
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 794 TikTok influencers like this in Dallas, United States for you to contact.
 profiles:
   - username: "drippyy.dallas"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.014188
     id: ck8or5qgyaokv0j78p0t13tkq
     verified: false
-    hashtags: "#fyp, #fypchallenge, #terjiah, #greenscreenvideo"
+    hashtags: "#fypchallenge, #terjiah, #greenscreenvideo, #fyp"
   - username: ".tabaki"
     fullname: >-
       Its spelled taba’ki 🕵🏾‍♂️
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.125140
     id: ck9gtbqqim12b0j78rru2d51f
     verified: false
-    hashtags: "#skiptherinse, #duet, #texas, #ifeelweightless"
+    hashtags: "#transgender, #truckdrivingchef, #fyp, #widenthescreen"
   - username: "dallasmavs"
     fullname: >-
       Dallas Mavericks
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.039528
     id: ck8kkshg10p400j78ameijwl8
     verified: true
-    hashtags: "#mffl, #luka, #mcxfun, #porzingis"
+    hashtags: "#mffl, #luka, #mcxfun, #doge"
 ---

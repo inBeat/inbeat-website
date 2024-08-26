@@ -1,24 +1,48 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Colombia In 2023
+title: Top 10 Stylists Instagram Influencers In Colombia In 2024
 description: >-
-  Find top stylists Instagram influencers in Colombia in 2023. Most popular hashtags: #miami #stylist #nyc.
+  Find top stylists Instagram influencers in Colombia in 2024. Most popular hashtags: #stylist #styling #miami.
 platform: Instagram
-hits: 20
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 20 Instagram influencers like this in Colombia for you to contact.
+hits: 26
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 26 Instagram influencers like this in Colombia for you to collaborate.
 profiles:
-  - username: "laupantoja"
+  - username: "amara.aa"
     fullname: >-
-      LAURA PANTOJA
+      𝐀𝐦𝐚𝐫𝐚 𝐪𝐮𝐞 𝐥𝐢𝐧𝐝𝐚 | 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐢𝐧𝐬𝐩𝐨 ❤️‍🔥
     bio: >-
-      PRO MAKEUP ARTIST / HAIR STYLIST NYC 7 SEP / 2 OCT • @bridesbylaupantoja • @_serendipityweddings
+      hi bestie❤️‍🔥 stylist | fashion influencer + tips mi vida sin censura podcast 🎙️
     location: "Colombia"
-    followers: 47199
-    engagement: 184
-    commentsToLikes: 0.030919
-    id: ck13c5vlcyrim0i190ndyqzfl
+    followers: 4514306
+    engagement: 99
+    commentsToLikes: 0.005494
+    id: ck0vz8l7n7v2d0i19wma34aud
+    verified: true
+    hashtags: "#grwm"
+  - username: "danielastyling"
+    fullname: >-
+      Daniela Riaño
+    bio: >-
+      Celebrity stylist | Producer | Fashion journalist Inquiries work@danielastyling.com 📍MIA | COL
+    location: "Colombia"
+    followers: 36011
+    engagement: 94
+    commentsToLikes: 0.023043
+    id: ck6tte13za3jy0j71bltrxt5e
     verified: false
-    hashtags: "#makeupartist, #redcarpetmakeup, #makeupcolombia, #makeupartistcolombia"
+    hashtags: "#stylist, #danielastyling, #styling, #aimeleondore"
+  - username: "paulabaset"
+    fullname: >-
+      Paula Baset
+    bio: >-
+      Paula Fernández 📩 pausfdez@hotmail.com Art work @paulabasetart Freelance Photographer @paulabasetfoto Stylist, Art Director 🫶 👩🏼‍🍳 Amateur -
+    location: "Colombia"
+    followers: 51339
+    engagement: 22
+    commentsToLikes: 0.004982
+    id: ck55nwejy74sj0i11f9rkmvfb
+    verified: false
+    hashtags: "#outfitpost, #sundayvibes, #lookcasual, #haul"
   - username: "pialdf"
     fullname: >-
       PIA | Fashion • Motherhood
@@ -103,28 +127,4 @@ profiles:
     id: ck5zwg95d62o00i14ekcc64ry
     verified: false
     hashtags: "#nyc, #ootd, #giveaway, #happy"
-  - username: "stephaniayepes"
-    fullname: >-
-      Stephania Yepes
-    bio: >-
-      Colombian bird Stylist - Creative director
-    location: "Colombia"
-    followers: 15281
-    engagement: 416
-    commentsToLikes: 0.027621
-    id: ck5q6znqszfhy0i11lyxql1et
-    verified: false
-    hashtags: ""
-  - username: "mafprada"
-    fullname: >-
-      SOY DE MAF PRADA
-    bio: >-
-      @stylebymaf | Fashion Designer @macarela_ Fashion Stylist - TEAM @sunshinemediacol T r e n d y l o v e r ✨
-    location: "Colombia"
-    followers: 5325
-    engagement: 940
-    commentsToLikes: 0.051288
-    id: ck9wg0kv9rd0h0j78oei6whs1
-    verified: false
-    hashtags: "#sola"
 ---

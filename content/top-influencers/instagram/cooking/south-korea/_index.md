@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking Instagram Influencers In South Korea In 2023
+title: Top 10 Cooking Instagram Influencers In South Korea In 2024
 description: >-
-  Find top cooking Instagram influencers in South Korea in 2023. Most popular hashtags: #koreanfood #cooking #instafood #homecooking.
+  Find top cooking Instagram influencers in South Korea in 2024. Most popular hashtags: #cooking #instafood #homecooking #food.
 platform: Instagram
-hits: 74
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 74 Instagram influencers like this in South Korea for you to contact.
+hits: 66
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 66 Instagram influencers like this in South Korea for you to pitch.
 profiles:
   - username: "iamladymandy"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck5zs65pyxwjj0i14lr32x9jn
     verified: false
     hashtags: "#bodylove, #turbantuesday, #theladystyles, #igkenya"
-  - username: "maangchi"
-    fullname: >-
-      Maangchi
-    bio: >-
-      Korean born, I love to cook & eat delicious food! I teach Korean cooking on YouTube & my website & I wrote 2 bestselling books. Let’s cook together! 🔨
-    location: "South Korea"
-    followers: 273911
-    engagement: 364
-    commentsToLikes: 0.013084
-    id: ck13bru02wv840i19f8aregcc
-    verified: false
-    hashtags: ""
   - username: "jiwoni_table"
     fullname: >-
       Yoon Jiwon
@@ -67,18 +55,18 @@ profiles:
     id: ck5zw4tuy5hd30i14fgp0q5xy
     verified: false
     hashtags: "#delicious, #chocolate, #food, #cake"
-  - username: "colorful.palate"
+  - username: "stephaniekimchi"
     fullname: >-
-      Kelsey | Food Photos
+      Stephanie Kim(chi)
     bio: >-
-      Colorful dishes for hungry eyes. food content creator | packaging designer | korean american | los angeles, california
+      #스테파니킴치쿡 Say Kimchi📸💖 @pani.kimm
     location: "South Korea"
-    followers: 22832
-    engagement: 868
-    commentsToLikes: 0.188407
-    id: ck0u6mw8f2gox0i19z6m2x4xl
+    followers: 153903
+    engagement: 88
+    commentsToLikes: 0.034573
+    id: ck6uienqfen9q0j71q3ypfu1q
     verified: false
-    hashtags: "#heresmyfood, #onmyplate, #eattheworld, #onthetable"
+    hashtags: "#cooking, #homecooking, #asmr, #cookingwithsister"
   - username: "coe2493"
     fullname: >-
       최여사 (hyeonyeong)
@@ -115,16 +103,28 @@ profiles:
     id: ck0ubn1hsezpk0i19hp462qou
     verified: false
     hashtags: "#kimbap, #cookingvideos, #the, #cj"
-  - username: "awesometable7"
+  - username: "1week_cook"
     fullname: >-
-      어썸식탁
+      Ｃｏｏｋ & Ｒｅｖｅｉｗ
     bio: >-
-      내가 만들고 맛있게 먹는 음식들 소통은 행복이여요 유튜브로 자세히 👇 Eng subtitle
+      нoмe cooĸ & нoмe вαĸιɴɢ
     location: "South Korea"
-    followers: 4134
-    engagement: 746
-    commentsToLikes: 0.174013
-    id: ck9ha3u7eb10y0j78d003zbdz
+    followers: 4077
+    engagement: 2745
+    commentsToLikes: 0.068939
+    id: ck8tdmhvk3xif0j78veqss8bi
     verified: false
-    hashtags: "#koreanfood, #koreanfoods, #cookingvideos, #homecooking"
+    hashtags: "#shrimp, #italy, #cooking, #cook"
+  - username: "2haneul_"
+    fullname: >-
+      하늘
+    bio: >-
+      먹는 기록
+    location: "South Korea"
+    followers: 6774
+    engagement: 801
+    commentsToLikes: 0.037965
+    id: ckaot8yrguubj0i78clqm3j0s
+    verified: false
+    hashtags: "#dieta, #cooking, #diet, #healthylifestyle"
 ---

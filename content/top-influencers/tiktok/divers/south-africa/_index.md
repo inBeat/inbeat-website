@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In South Africa In 2023
+title: Top 10 Divers TikTok Influencers In South Africa In 2024
 description: >-
-  Find top divers TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #foryou #viral #trending.
+  Find top divers TikTok influencers in South Africa in 2024. Most popular hashtags: #fyp #foryou #viral #trending.
 platform: TikTok
 hits: 19
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 19 TikTok influencers like this in South Africa for you to work with.
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our platform has 19 TikTok influencers like this in South Africa for you to pitch.
 profiles:
   - username: "ultraverse"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.070992
     id: ckce6wyu1kuow0j23bzxfy664
     verified: false
-    hashtags: "#fyp, #tiktoksouthafrica, #johnvuligate, #bestmzanzimemer"
+    hashtags: "#fyp, #viral, #danceofjoy, #tiktoksa"
   - username: "a.e.s.t.h.e.t.i.c_15"
     fullname: >-
       ℝ𝕠𝕤𝕖𝕤🌹❤️

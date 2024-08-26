@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Dallas In 2023
+title: Top 10 Vegan Instagram Influencers In Dallas In 2024
 description: >-
-  Find top vegan Instagram influencers in Dallas in 2023. Most popular hashtags: #vegan #ad #fitness #skincare.
+  Find top vegan Instagram influencers in Dallas in 2024. Most popular hashtags: #vegan #dallas #foodie #veganrecipes.
 platform: Instagram
-hits: 41
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 41 Instagram influencers like this in Dallas, United States for you to collaborate.
+hits: 58
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 58 Instagram influencers like this in Dallas, United States for you to pitch.
 profiles:
   - username: "roccothegoddess"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckf5qzls8awt60j23z8t6ovat
     verified: false
     hashtags: "#fitchicks, #healthyhair, #kinky, #happyanniversary"
+  - username: "emsnutfreeeats"
+    fullname: >-
+      Emily | Em’s Nut-Free Eats
+    bio: >-
+      Sharing restaurants, reviews & life with food allergies! ⭐️ nut-free & gluten-free 📍San Francisco Check out my blog!⬇️
+    location: "United States"
+    followers: 5708
+    engagement: 360
+    commentsToLikes: 0.160119
+    id: ckrhu9i9qf0sf0j23t6wk0s04
+    verified: false
+    hashtags: "#sfeats, #allergyfree, #icecreamaddict, #glutenfreeeats"
   - username: "julianestaban"
     fullname: >-
       Dallas | Vegan | Photographer
@@ -31,6 +43,78 @@ profiles:
     id: ck6uhmeww9ypg0j71g6z3uks3
     verified: false
     hashtags: "#dfwportraits, #tatted, #dreadlockstyles, #inkedmen"
+  - username: "mogulnaj"
+    fullname: >-
+      Najee Kelley | Vegan Fitness Coach
+    bio: >-
+      Made in Chicago, Built By Plants® Helping Vegans Lose Fat while Eating Their Fav Meals 💊 Supplements @bbpsupps 💍 @boricuareina7 COACHING & PROGRAMS👇🏾
+    location: "United States"
+    followers: 11478
+    engagement: 255
+    commentsToLikes: 0.049057
+    id: ckr0v781t5ov60j23xiromrzm
+    verified: false
+    hashtags: "#veganbaefit, #vegansupplements, #veganweightloss, #veganswholift"
+  - username: "eatindallas"
+    fullname: >-
+      Eat in Dallas - Josh Wilbanks
+    bio: >-
+      📍Your guide to Dallas • Texas • DFW ⭐️ North Texas hot spots & hidden 💎s 🏆 Best Food Influencer | @dallasobserver 📧 eatindallas@gmail.com TIKTOK 110K
+    location: "United States"
+    followers: 123950
+    engagement: 514
+    commentsToLikes: 0.044387
+    id: cl2uhrvrzu98n0i23pfexpnvx
+    verified: false
+    hashtags: "#mexicanfood, #dfweats, #dallasrestaurants, #dallasfoodie"
+  - username: "chefgillesepie"
+    fullname: >-
+      Gilles Epie
+    bio: >-
+      Born in France, made in America! known as the Rock Star Chef World Burger Champion🏆🏅🍔🇫🇷🇺🇸 #chefgillesepie #rockstarchef
+    location: "United States"
+    followers: 49032
+    engagement: 88
+    commentsToLikes: 0.038502
+    id: ck139fguel1d90i19e8w2g0e7
+    verified: true
+    hashtags: "#worldfoodchampionships, #teamburgerfrance, #hawaii, #chefgillesepie"
+  - username: "you_had_me_at_halal"
+    fullname: >-
+      Mir | Halal Foodie | Houston, Dallas, & Beyond!
+    bio: >-
+      📍HTX & DFW The best in HALAL Food in Texas and beyond! Founder: @houstonhalalfest @houstonmuslimmarket 📩 DM for Collabs
+    location: "United States"
+    followers: 66529
+    engagement: 81
+    commentsToLikes: 0.171891
+    id: ckmw1hf2q83i10j23vu7ut770
+    verified: false
+    hashtags: "#houston, #foodforfoodies, #houstonhalal, #houstonfoodtrucks"
+  - username: "thecolorfulcourtney"
+    fullname: >-
+      Courtney McCullagh☘️
+    bio: >-
+      📍Dallas, TX {& beyond} vegan eats 🌱 Writer/Journalist ✍🏻👩🏻‍💻 Social Media Agency Founder 📲 Bus 🚌 Tour Host 🎤 Email to connect 📧
+    location: "United States"
+    followers: 13627
+    engagement: 81
+    commentsToLikes: 0.088900
+    id: ckmw1cilc6b6s0j23jkzmsurj
+    verified: false
+    hashtags: "#texasvegans, #dallasvegan, #veganicecream, #smallbusinessowner"
+  - username: "tasheatsmore"
+    fullname: >-
+      Tash Eats More
+    bio: >-
+      📍Dallas ↔️ D.C. Food is the ingredient that binds us together #commUnity 🙋🏽‍♀️ @tasheatsmore previously @dallaseatmore 🇺🇸 @d.c.eatmore
+    location: "United States"
+    followers: 52091
+    engagement: 63
+    commentsToLikes: 0.116511
+    id: clgcjp4l4ka9q0j08tubcmntq
+    verified: false
+    hashtags: "#foodgram, #dallaseats, #dallaseatmore, #foodie"
   - username: "japanstylez"
     fullname: >-
       🎎Japanese Hair Assassin🇳🇬
@@ -43,88 +127,4 @@ profiles:
     id: ck5hqpyfhtil70i11d6hd64kv
     verified: false
     hashtags: "#picoftheday, #naturalhairstyles, #ponytail, #longponytail"
-  - username: "fitw_bri"
-    fullname: >-
-      Briana 🤍
-    bio: >-
-      I am a Mom before anything. Fitness | Music Business owner @sweetpeachcollection @tc1gel | @brianasingsss_ 📧: Fitw_bri@yahoo.com
-    location: "United States"
-    followers: 89072
-    engagement: 222
-    commentsToLikes: 0.023744
-    id: ck0tx8koti8sx0i19ero5iynn
-    verified: false
-    hashtags: "#womenempowerment, #love, #selflove, #empoweringwomen"
-  - username: "themindfulhapa"
-    fullname: >-
-      Casey | healthy&easy eats!
-    bio: >-
-      hapa = half asian mix of: pescatarian | GF | dairy free | vegan 📸 + 🎥 content creation 🌵 Dallas, TX 📧: themindfulhapa@gmail.com
-    location: "United States"
-    followers: 28559
-    engagement: 392
-    commentsToLikes: 0.101846
-    id: ck0tvnfrfc0q30i19rrp9qc6g
-    verified: false
-    hashtags: "#grainfreerecipes, #easydesserts, #foodvideos, #refinedsugarfree"
-  - username: "mariasjsanchez"
-    fullname: >-
-      Lifestyle Buzz by Maria 🌈
-    bio: >-
-      #Latina ⚽️ Mom in Dallas Making #Motherhood fun!! #Lifestyle #Fashion #DFWHotSpots Daily shenanigans on stories 📩 mariasjsanchez@gmail.com
-    location: "United States"
-    followers: 29711
-    engagement: 463
-    commentsToLikes: 0.063598
-    id: ckap8rwxwpluu0i78o8a243kg
-    verified: false
-    hashtags: "#dfwinfluencers, #whatiworetoday, #sheinfinds, #ad"
-  - username: "brittanyardito"
-    fullname: >-
-      Brittany Ardito
-    bio: >-
-      Sharing what I love & what might help others. Health, Beauty & Dogs #dogsitter Follow my pups @texandrowdy 📍 Dallas, TX 📧 britsilver04@gmail.com
-    location: "United States"
-    followers: 10968
-    engagement: 241
-    commentsToLikes: 0.143385
-    id: cl8balz1g3ddv0i235byjgofi
-    verified: false
-    hashtags: "#keto, #glutenfree, #texasinfluencer, #texturetuesday"
-  - username: "theinvestor"
-    fullname: >-
-      Justin Kimbrough💰
-    bio: >-
-      🌱 Vegan 😁 Positivity 🗣 Speak it into existence 🏌🏼 Pro Golfer ⚡️ Manifest Your Dreams 💰 BIZ OPPORTUNITYS/PASSIVE INCOME DM ME
-    location: "United States"
-    followers: 231109
-    engagement: 88
-    commentsToLikes: 0.060955
-    id: ck8t4m2ef794u0j78da1jawt9
-    verified: false
-    hashtags: "#peace, #europe, #mindset, #travelgoals"
-  - username: "nataliaavegaa"
-    fullname: >-
-      NATALIA VEGA
-    bio: >-
-      Vegan is the new black Ⓥ⠀ Me gusta tomar fotos 📸⠀ 📍Dallas, Texas 🍂
-    location: "United States"
-    followers: 6769
-    engagement: 662
-    commentsToLikes: 0.024373
-    id: ck6uc7xdae0hh0j71x8mgeequ
-    verified: false
-    hashtags: "#calm, #veganmiami, #keybiscane, #greennature"
-  - username: "ransomeand"
-    fullname: >-
-      RANSOME ROMBAUER
-    bio: >-
-      Rombauer Vineyards G3• Equestrian • Show Jumper • Fashion • Fitness • Vegan-ish • Horse & Dog Rescue • SMU 2021 • Napa Valley • Dallas • Welli
-    location: "United States"
-    followers: 12741
-    engagement: 497
-    commentsToLikes: 0.010321
-    id: ck6u5nfp1an2r0j71yy9liowh
-    verified: false
-    hashtags: "#emorkusre, #jumper, #jumpers, #washyourhands"
 ---

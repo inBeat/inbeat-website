@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Chicago In 2023
+title: Top 10 Vegan TikTok Influencers In Chicago In 2024
 description: >-
-  Find top vegan TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #vegan #chicago #foryoupage.
+  Find top vegan TikTok influencers in Chicago in 2024. Most popular hashtags: #fyp #vegan #duet #foryoupage.
 platform: TikTok
 hits: 8
 text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our platform has 8 TikTok influencers like this in Chicago, United States for you to work with.
+text_bottom: inBeat aggregates 8 TikTok influencers like this in Chicago, United States for you to contact.
 profiles:
   - username: "laughlikeit"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.113267
     id: ck9e3tvkcl3lb0j784jlpdm9v
     verified: false
-    hashtags: "#veganfoodie, #trending, #phlebotomist, #duet"
+    hashtags: "#trending, #fyp, #duet, #veganfoodie"
   - username: "madisonhut"
     fullname: >-
       Madison
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.044282
     id: ckai6qcrrx7l30i78hffcxjxw
     verified: false
-    hashtags: "#food, #ghana, #fyp, #african"
+    hashtags: "#food, #duet, #fyp, #minnesota"
   - username: "vmatt_mason36"
     fullname: >-
       Matt
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.023043
     id: ckc30vh0lrhgg0j23jjv1vwv9
     verified: false
-    hashtags: "#asianfood, #fy, #tiktokrecipe, #noodles"
+    hashtags: "#fy, #food, #noodles, #koreanfood"
   - username: "satexasfoodies"
     fullname: >-
       San Antonio Texas Foodies eats
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.039490
     id: ckcjq0odjgmf60j237teiu72h
     verified: false
-    hashtags: "#tiktokfood, #newyearnewmio, #cheeseburger, #foodtiktok"
+    hashtags: "#sanantoniofoodie, #sanantoniotx, #foodtiktok, #newyearnewmio"
   - username: "subwrestler"
     fullname: >-
       sub wrestler
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.137265
     id: ckdi698kc7kx40j23kfpcva2q
     verified: false
-    hashtags: "#stitch, #vegan, #plantbased, #leftist"
+    hashtags: "#stitch, #plantbased, #leftist, #vegan"
 ---

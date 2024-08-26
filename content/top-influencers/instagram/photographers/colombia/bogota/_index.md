@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Bogotá In 2023
+title: Top 10 Photographers Instagram Influencers In Bogotá In 2024
 description: >-
-  Find top photographers Instagram influencers in Bogotá in 2023. Most popular hashtags: #photography #photographer #bogota #photooftheday.
+  Find top photographers Instagram influencers in Bogotá in 2024. Most popular hashtags: #photography #photographer #bogota.
 platform: Instagram
-hits: 24
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 24 Instagram influencers like this in Bogotá, Colombia for you to work with.
+hits: 27
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 27 Instagram influencers like this in Bogotá, Colombia for you to collaborate.
 profiles:
   - username: "mattarteaga"
     fullname: >-
@@ -55,18 +55,6 @@ profiles:
     id: ckf5ttwqrirdz0j23ffk4z0se
     verified: false
     hashtags: "#picoftheday, #citytvportodabogot, #idlatino, #illustrator"
-  - username: "julianatomann"
-    fullname: >-
-      𝙀𝙈𝙋𝙍𝙀𝙉𝘿𝙀𝘿𝙊𝙍𝘼 𝘿𝙄𝙂𝙄𝙏𝘼𝙇
-    bio: >-
-      •ƒαмιℓια❤️ •#Bogota🇨🇴 •Eɴғᴇʀᴍᴇʀᴀ💉 •𝐷𝑖𝑜𝑠 𝑝𝑟𝑖𝑚𝑒𝑟𝑜🤲🏻 •𝙵𝚞𝚗𝚍𝚊𝚍𝚘𝚛𝚊💍@__sofiana0_ @byjulianatomann 💰𝗜𝗡𝗧𝗘𝗥𝗡𝗘𝗧=𝗗𝗜𝗡𝗘𝗥𝗢 𝗬𝗢 𝗧𝗘 𝗘𝗡𝗦𝗘𝗡̃𝗢⬇️
-    location: "Colombia"
-    followers: 15931
-    engagement: 626
-    commentsToLikes: 0.092550
-    id: ck14ltbuxwdna0i19naqt0jed
-    verified: false
-    hashtags: "#girl, #libertad, #instagood, #colombiana"
   - username: "felipemartinezfotografia"
     fullname: >-
       Felipe Martínez
@@ -91,6 +79,18 @@ profiles:
     id: ck9wey9bymeeq0j78xcue3ftv
     verified: false
     hashtags: "#productora, #chile, #love, #photo"
+  - username: "zionhwang_"
+    fullname: >-
+      Zion 🇰🇷
+    bio: >-
+      📍Bogota Propietario: @time_korea_ Restaurante Koreano 🇰🇷 👇🏻Culpa de @jessiuribe3 ✨Culpa de Quién Remix✨
+    location: "Colombia"
+    followers: 2306134
+    engagement: 272
+    commentsToLikes: 0.016276
+    id: ck8swy3nafm620j78p48wknlf
+    verified: false
+    hashtags: "#undialohare, #reggaeton, #coreano, #kpop"
   - username: "davidvisuals_ph"
     fullname: >-
       David Pinilla
@@ -103,6 +103,18 @@ profiles:
     id: ck5hmy57bmuih0i11uont2ws2
     verified: false
     hashtags: "#tips, #tipsfoto, #vivov20, #ma"
+  - username: "julianatomann"
+    fullname: >-
+      𝙀𝙈𝙋𝙍𝙀𝙉𝘿𝙀𝘿𝙊𝙍𝘼 𝘿𝙄𝙂𝙄𝙏𝘼𝙇
+    bio: >-
+      •ƒαмιℓια❤️ •#Bogota🇨🇴 •Eɴғᴇʀᴍᴇʀᴀ💉 •𝐷𝑖𝑜𝑠 𝑝𝑟𝑖𝑚𝑒𝑟𝑜🤲🏻 •𝙵𝚞𝚗𝚍𝚊𝚍𝚘𝚛𝚊💍@__sofiana0_ @byjulianatomann 💰𝗜𝗡𝗧𝗘𝗥𝗡𝗘𝗧=𝗗𝗜𝗡𝗘𝗥𝗢 𝗬𝗢 𝗧𝗘 𝗘𝗡𝗦𝗘𝗡̃𝗢⬇️
+    location: "Colombia"
+    followers: 15931
+    engagement: 626
+    commentsToLikes: 0.092550
+    id: ck14ltbuxwdna0i19naqt0jed
+    verified: false
+    hashtags: "#libertad, #tiktok, #photography, #emprendedores"
   - username: "ramvidzapata"
     fullname: >-
       🆁🅰🅼🆅🅸🅳
@@ -115,16 +127,4 @@ profiles:
     id: ck6u070hhdyy10j71x6lygpcd
     verified: false
     hashtags: "#men, #photography, #inkedmen, #medellin"
-  - username: "camivargasm_"
-    fullname: >-
-      𝐶𝑎𝑚𝑖𝑙𝑎 𝑉𝑎𝑟𝑔𝑎𝑠
-    bio: >-
-      Estudiante de Adm.hotelera y turismo🏝️ 📍Bogotá, Colombia ▪️Art account: @mcv_art ▪️Bussines:@antojos.mc
-    location: "Colombia"
-    followers: 6431
-    engagement: 940
-    commentsToLikes: 0.031825
-    id: ck9we4m8qikhb0j781pletgyi
-    verified: false
-    hashtags: "#selflove, #instalike, #bogot, #fotografia"
 ---

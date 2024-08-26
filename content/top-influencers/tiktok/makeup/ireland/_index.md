@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Ireland In 2023
+title: Top 10 Makeup TikTok Influencers In Ireland In 2024
 description: >-
-  Find top makeup TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #makeup #mua #foryou.
+  Find top makeup TikTok influencers in Ireland in 2024. Most popular hashtags: #fyp #makeup #foryou #mua.
 platform: TikTok
-hits: 48
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat has 48 TikTok influencers like this in Ireland for you to connect with.
+hits: 47
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 47 TikTok influencers like this in Ireland for you to work with.
 profiles:
   - username: "itsdylanjordan_"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.036644
     id: ckb9g5p7v51zs0j23chqmpouw
     verified: false
-    hashtags: "#transformation, #stitch, #fyp, #dublinma"
+    hashtags: "#transformation, #stitch, #fyp, #kashbeauty"
   - username: "iconicaidann"
     fullname: >-
       IconicAidan 🏳️‍🌈

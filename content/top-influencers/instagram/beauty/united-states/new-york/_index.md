@@ -1,36 +1,36 @@
 ---
-title: Top 10 Beauty Instagram Influencers In New York In 2023
+title: Top 10 Beauty Instagram Influencers In New York In 2024
 description: >-
-  Find top beauty Instagram influencers in New York in 2023. Most popular hashtags: #beauty #newyork #fashion.
+  Find top beauty Instagram influencers in New York in 2024. Most popular hashtags: #newyork #newyorkcity #beauty #fashion.
 platform: Instagram
-hits: 818
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 818 Instagram influencers like this in New York, United States for you to work with.
+hits: 1051
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 1051 Instagram influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "mrobinnaobioma"
+  - username: "medesoo0"
     fullname: >-
-      Obinna Obioma 🇳🇬
+      Fahmida
     bio: >-
-      Visual Artist | Photographer | Art Director @mr.o.o_ 1/2 of @xnvstudio New York. Abuja . A.P at @Bighstudios . Inquiries:Email
+      If we vibe, we vibe📍NYC Beauty• Lifestyle• Foodie Collaborations 💌 medesul96@gmail.com
     location: "United States"
-    followers: 26344
-    engagement: 405
-    commentsToLikes: 0.061712
-    id: ck602ixqshhes0i14nbrn9ke9
+    followers: 32583
+    engagement: 32
+    commentsToLikes: 0.000224
+    id: clczodfk05my10j08x9j26hza
     verified: false
-    hashtags: "#teal, #newyork, #fashion, #fineartphotography"
-  - username: "thejenniferdoll"
+    hashtags: "#makeuplover, #ugc, #ugccreator, #ugccontentcreator"
+  - username: "emmy_milan"
     fullname: >-
-      Jennifer Doll 🍒
+      Emmy Milan ⋆ᴛʀᴀᴠᴇʟ⋆ʟɪꜰᴇꜱᴛʏʟᴇ⋆
     bio: >-
-      Just a girl that doesn't know what to do with her hands in pictures travel•lifestyle 🍎NYC 📸 @gofginc @gofgincstaff 💌 jenniferkarenhing@gmail.com
+      -🙏🏾God is Within Her,She Will Not Fail! -🌎Travel:Lifestyle:Visionary -🧘🏽‍♀️Visualize your highest self -📸 Creator
     location: "United States"
-    followers: 59504
-    engagement: 297
-    commentsToLikes: 0.006761
-    id: ckap20n9ywvel0i78094xj0hn
+    followers: 16732
+    engagement: 506
+    commentsToLikes: 0.061293
+    id: ck14lev6bub340i199hl0lh9a
     verified: false
-    hashtags: "#nyceats, #summerofnyc, #revolveme, #notmilk"
+    hashtags: "#blogger, #travelgram, #love, #godisgood"
   - username: "jenniferr0d"
     fullname: >-
       Jen
@@ -43,18 +43,6 @@ profiles:
     id: ck5ck3rl5w2oo0i11oqad8gn4
     verified: false
     hashtags: "#model, #photoshoot, #beach, #style"
-  - username: "ascarlett_"
-    fullname: >-
-      NYC Blogger 💖 Andrea Scarlett
-    bio: >-
-      YOUTUBER Beauty and Fashion Content Creator Costa Rican 🇨🇷 📍New York City 💌:info@andreascarlett.com 🎥 :YouTube channel : Andrea Scarlett
-    location: "United States"
-    followers: 2761
-    engagement: 729
-    commentsToLikes: 0.192231
-    id: ckf5wznxwtspw0j232mooy8px
-    verified: false
-    hashtags: "#nanoinfluencer, #youtubeinfluencer, #fashionblogger, #travelbloggervibes"
   - username: "ninajhair"
     fullname: >-
       Nina J
@@ -67,30 +55,42 @@ profiles:
     id: ck5qaff71g4hl0i11jfpi8r09
     verified: false
     hashtags: "#mua, #hair, #style, #blackgirlmagic"
-  - username: "dzebokoeva"
+  - username: "daniiasjn"
     fullname: >-
-      ᴅᴢᴇʀᴀssᴀ ʙᴏᴋᴏᴇᴠᴀ
+      ✨𝓓𝓪𝓷𝓲𝓪✨
     bio: >-
-      ᴼˢˢᴱᵀᴵᴬ✈ᴺᴱᵂ ᵞᴼᴿᴷ ²² ᵞᴼ☼ᴸᴵᶠᴱ'ˢ ᴼᴺᴸᵞ ᴳᴱᵀᵀᴵᴺᴳ ᴳᴿᴱᴬᵀᴱᴿ PM @dze_permanent TATTOO @dze_tattoo
+      🇭🇳| 𝓜𝓞𝓜 4🤍 𝒮𝓉𝓇ℴ𝓃ℊ 𝒶𝓈 𝒶 𝓂ℴ𝓉𝒽ℯ𝓇💞🔗 | Coffee lover ☕️ | Ambassador’ @classyloft code: DANIIA10 @shopbloombella code:Dania10 #blogger♡
     location: "United States"
-    followers: 13317
-    engagement: 421
-    commentsToLikes: 0.011708
-    id: ck6u634jid8r20j71h2vczdfn
+    followers: 6053
+    engagement: 236
+    commentsToLikes: 0.094535
+    id: ck0u0poxhuhyk0i19tjso4y25
     verified: false
-    hashtags: ""
-  - username: "avtalova"
+    hashtags: "#momlife, #tx, #march, #honduren"
+  - username: "sstephkoutss"
     fullname: >-
-      Nil
+      stephanie koutsoukos
     bio: >-
-      lifestyle. fashion & beauty. 📍New York. Miami
+      fashion • beauty • lifestyle new york, ny ✉️ steph@aceinfluencers.com
     location: "United States"
-    followers: 54454
-    engagement: 123
-    commentsToLikes: 0.159225
-    id: ckaosoojusee40i780402od5g
+    followers: 32774
+    engagement: 159
+    commentsToLikes: 0.117647
+    id: ck8t7drhmgfn40j786ilzpkal
     verified: false
-    hashtags: "#reels, #igreels, #nycreel, #30dayoutfitchallenge"
+    hashtags: "#falltransition, #autumnoutfit, #pinterestoutfit, #blazeroutfit"
+  - username: "thetiarawillis"
+    fullname: >-
+      Tiara Willis
+    bio: >-
+      SKINCARE • MAKEUP • BEAUTY ⭒ New York Esthetician ⭒ Advocating for creators at @yourcreatorbff ⭒ contact@giftofgabrielle.com ⭒ @topicals Expert
+    location: "United States"
+    followers: 180624
+    engagement: 86
+    commentsToLikes: 0.021946
+    id: ck8sxnqrci0h90j78ddouo27w
+    verified: true
+    hashtags: "#contentcreatortips, #nycontentcreator, #ad, #withyouforlife"
   - username: "laselmastyle"
     fullname: >-
       Selma Ali
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.120387
     id: ck5ck4x7yw59g0i11f7xa9nyt
     verified: false
-    hashtags: "#justfabshoes, #cataloniaroyalbavaro, #selfdisclosure, #grandcanyon"
+    hashtags: "#cataloniaroyalbavaro, #nojudgement, #happysaturday, #selfdisclosure"
   - username: "cyberkay"
     fullname: >-
       Kiara🎨
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.067612
     id: ck6tk5amb419x0j712onrcbne
     verified: false
-    hashtags: "#underratedmuas, #makeupforblackwomen, #cyberkay, #giftedbymaybelline"
+    hashtags: "#underratedmuas, #makeupforblackwomen, #hairbeautydirectory, #giftedbymaybelline"
   - username: "nyclivesnyc"
     fullname: >-
       New York City 📸 🌃❤️

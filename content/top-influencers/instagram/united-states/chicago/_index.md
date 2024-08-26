@@ -1,24 +1,36 @@
 ---
-title: Top 10 Instagram Influencers In Chicago In 2023
+title: Top 10 Instagram Influencers In Chicago In 2024
 description: >-
-  Find top Instagram influencers in Chicago in 2023. Most popular hashtags: #over50andfit #midlife #over50.
+  Find top Instagram influencers in Chicago in 2024. Most popular hashtags: #dysonairwrap #deb #hairinspo.
 platform: Instagram
-hits: 3675
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our database has 3675 Instagram influencers like this in Chicago, United States for you to work with.
+hits: 4384
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 4384 Instagram influencers like this in Chicago, United States for you to work with.
 profiles:
-  - username: "kahlilwhitney"
+  - username: "chicago"
     fullname: >-
-      The One
+      Chicago
     bio: >-
-      CHICAGO
+      📷 Tag us in your posts for a chance to be featured! 🌆 Pictures and videos of Chicago 👤 Admin @RBH
     location: "United States"
-    followers: 73304
-    engagement: 651
-    commentsToLikes: 0.015060
-    id: ck5qb4iopjrq40i11gc72qky5
+    followers: 1409792
+    engagement: 162
+    commentsToLikes: 0.006194
+    id: ck0tv19389hth0i19oivmgqja
     verified: true
-    hashtags: "#lljw, #buzzcity"
+    hashtags: ""
+  - username: "madzgoetz"
+    fullname: >-
+      Maddie Goetz
+    bio: >-
+      Chicago
+    location: "United States"
+    followers: 129294
+    engagement: 58
+    commentsToLikes: 0.023421
+    id: cl3dd0yho5fyp0i235pznktsx
+    verified: false
+    hashtags: "#abuela, #viral, #crumblcookies, #recipe"
   - username: "domi26bokk"
     fullname: >-
       Dominik Bokk
@@ -79,17 +91,17 @@ profiles:
     id: ck8t4qj1x7po50j78ova1gv6n
     verified: false
     hashtags: "#repost"
-  - username: "chicago"
+  - username: "mariagiannetos"
     fullname: >-
-      Chicago, IL
+      maria
     bio: >-
-      📷 Tag us in your photos for a chance to be featured! 🌆 Pictures of Chicago 👤 Admin @RBH
+      chicago
     location: "United States"
-    followers: 760276
-    engagement: 303
-    commentsToLikes: 0.003920
-    id: ck0tv19389hth0i19oivmgqja
-    verified: true
+    followers: 9935
+    engagement: 790
+    commentsToLikes: 0.055911
+    id: ck0w6cdo67wwq0i19fetta5l6
+    verified: false
     hashtags: ""
   - username: "pat_lee"
     fullname: >-
@@ -103,28 +115,16 @@ profiles:
     id: ck5q6rwyuylsg0i11o8jl1mat
     verified: false
     hashtags: "#muscle, #fitness, #abs, #aesthetics"
-  - username: "tingmystyle"
+  - username: "masonoglesby"
     fullname: >-
-      Ting Ma
+      mason oglesby
     bio: >-
-      Fashion🎸Fitness🎸Beauty #thisis52 #proaging Aging is a privilege ! 📍Chicago/San Diego 📧: tingmystyle168@gmail.com
+      chicago // los angeles ♡ managed by @therealdba email me: masonanneoglesby@gmail.com
     location: "United States"
-    followers: 137144
-    engagement: 613
-    commentsToLikes: 0.084561
-    id: ck0w49r7mxhxq0i198zn6sfa8
+    followers: 188936
+    engagement: 1837
+    commentsToLikes: 0.017442
+    id: ck55kz58n0epk0i11hhr7unx8
     verified: false
-    hashtags: "#over50fitness, #over50women, #absworkout, #over50andfit"
-  - username: "lifewithashleyann"
-    fullname: >-
-      ashley || chicago creator
-    bio: >-
-      ✨mom life around chicagoland + beyond • food to eat, places to go, what to wear • ✨lunch packing + recipe reels⬇️ 💌contactlifewithashleyann@gmail.com
-    location: "United States"
-    followers: 36554
-    engagement: 3783
-    commentsToLikes: -0.449386
-    id: cl7i0lxqdtv2n0i23c3joq3hq
-    verified: false
-    hashtags: "#luncheazepartner, #christmaspopup, #chicagopopup, #chicagobar"
+    hashtags: "#hairstyleideas, #dysonhair, #dysonairwrap, #frizzyhair"
 ---

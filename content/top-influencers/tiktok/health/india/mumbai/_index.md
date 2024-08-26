@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Mumbai In 2023
+title: Top 10 Health TikTok Influencers In Mumbai In 2024
 description: >-
-  Find top health TikTok influencers in Mumbai in 2023. Most popular hashtags: #tiktok #mumbai #foryou #foryoupage.
+  Find top health TikTok influencers in Mumbai in 2024. Most popular hashtags: #tiktok #mumbai #foryoupage #foryou.
 platform: TikTok
 hits: 13
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our search engine has 13 TikTok influencers like this in Mumbai, India for you to collaborate.
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 13 TikTok influencers like this in Mumbai, India for you to contact.
 profiles:
   - username: "dr.rahul.g"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.004028
     id: ckbqfk0hb16pi0j23namd4cv2
     verified: false
-    hashtags: "#3ingredientsrecipes, #foryoupage, #foodlover, #foodie"
+    hashtags: "#3ingredientsrecipes, #whatieatinaday, #foodporn, #tiktokfoodie"
   - username: "shahmisba"
     fullname: >-
       Shah Misba
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.003457
     id: cka620xrwxv910i78ydk1zy8l
     verified: false
-    hashtags: "#foryourpage, #food, #hungry, #yum"
+    hashtags: "#yum, #foodie, #eat, #food"
 ---

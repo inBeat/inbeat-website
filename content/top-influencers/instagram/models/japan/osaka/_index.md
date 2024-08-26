@@ -1,24 +1,24 @@
 ---
-title: Top 10 Models Instagram Influencers In Osaka In 2023
+title: Top 10 Models Instagram Influencers In Osaka In 2024
 description: >-
-  Find top models Instagram influencers in Osaka in 2023. Most popular hashtags: #model #fashion #osaka.
+  Find top models Instagram influencers in Osaka in 2024. Most popular hashtags: #model #osaka #fashion #instagood.
 platform: Instagram
-hits: 36
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 36 Instagram influencers like this in Osaka, Japan for you to collaborate.
+hits: 35
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 35 Instagram influencers like this in Osaka, Japan for you to contact.
 profiles:
-  - username: "morgankriz"
+  - username: "rion_nakamura89"
     fullname: >-
-      Morgyy
+      中村りおん(りぃたむ) RionNakamura
     bio: >-
-      Ciotti Models - Toronto - M/A Primo Models - Hong Kong Cosmopolitan Models - Osaka, Japan Axelle Models - Tokyo, Japan
+      2002.0929 21歳 nuts専属モデル ・ お仕事のご依頼はメールにお願いします！
     location: "Japan"
-    followers: 45695
-    engagement: 346
-    commentsToLikes: 0.012883
-    id: ck5cal4wfdm7k0i11krjrtt5w
+    followers: 95814
+    engagement: 102
+    commentsToLikes: 0.011120
+    id: ck5zvf2vf44590i14qv7ovf40
     verified: false
-    hashtags: ""
+    hashtags: "#instagood, #nuts, #ootd, #kawaii"
   - username: "misakuma_17live"
     fullname: >-
       𝕄𝕀𝕊𝔸𝕂𝕀🦄💕
@@ -91,6 +91,18 @@ profiles:
     id: ck5hn1onen1dv0i1157kdqd4f
     verified: false
     hashtags: "#ameri, #amerivintage, #aoyanagrandhotel, #kiels"
+  - username: "varyaren"
+    fullname: >-
+      ALEXIA
+    bio: >-
+      🍒Freelance Make-up Artist & Model
+    location: "Japan"
+    followers: 142932
+    engagement: 546
+    commentsToLikes: 0.022717
+    id: ck55o5fll7nsg0i11j0w8y98u
+    verified: false
+    hashtags: "#longhair, #japanesefood, #yukata, #skincare"
   - username: "emilijaagate"
     fullname: >-
       Emīlija Agate Palina
@@ -109,22 +121,10 @@ profiles:
     bio: >-
       Osaka | Japan Beauty💄Fashion👗Travel🌍 155cmコーデ 撮影等お仕事依頼はDM💌にお願い致します💕
     location: "Japan"
-    followers: 39010
-    engagement: 287
-    commentsToLikes: 0.059405
+    followers: 42431
+    engagement: 218
+    commentsToLikes: 0.058179
     id: ck5hiace7cgwh0i11o7iuh993
     verified: false
-    hashtags: "#kuih, #kuihst, #locari, #ac"
-  - username: "jumy_as"
-    fullname: >-
-      🎪じゅみ (𝕁𝕦𝕞𝕪 )  | 芦田純子
-    bio: >-
-      📺youtube声優番組公開中🎤 累計1100万再生突破ありがとう✨ ▶︎歌ったり喋ったり﻿/ model ▶︎cosplayer (@jumy___jumy )﻿ 📍大阪 🎥サンテレビ『週感PV』/ 魔女イチQueen /舞台『旅立ちの詩』/イルコ2020写真集 お仕事依頼はDMより
-    location: "Japan"
-    followers: 34774
-    engagement: 173
-    commentsToLikes: 0.063194
-    id: ckapbh2rcztud0i78s8p40qna
-    verified: false
-    hashtags: "#model, #hifu, #pr, #usj"
+    hashtags: "#onzoro, #mybirthday, #pr, #kyoto"
 ---

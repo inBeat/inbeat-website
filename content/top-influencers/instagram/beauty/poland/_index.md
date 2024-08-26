@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Poland In 2023
+title: Top 10 Beauty Instagram Influencers In Poland In 2024
 description: >-
-  Find top beauty Instagram influencers in Poland in 2023. Most popular hashtags: #makija #makeup #makijaz #makeuplover.
+  Find top beauty Instagram influencers in Poland in 2024. Most popular hashtags: #makeup #polskadziewczyna #instagood #ootd.
 platform: Instagram
-hits: 1881
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database holds 1881 Instagram influencers like this in Poland for you to collaborate.
+hits: 1933
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 1933 Instagram influencers like this in Poland for you to contact.
 profiles:
-  - username: "magdapieczonkamakeup"
+  - username: "swinkamiki"
     fullname: >-
-      Magda Pieczonka
+      Wiktoria Miklis
     bio: >-
-      💄Makijażystka Wszech Czasów wizaż.pl💄 Beauty Influencer Roku magazynu JOY 💄Autorka pędzli do makijażu oraz rzęs @lovenue_cosmetics_and_tools
+      TikTok: wiktoriamiklis beauty | lifestyle | fashion ✉️ wiktoria.miklis@o2.pl
     location: "Poland"
-    followers: 717845
-    engagement: 251
-    commentsToLikes: 0.007085
-    id: ck0vzxfj1bcy70i19joogf0g7
-    verified: true
-    hashtags: "#like, #makeup, #wsp, #makijazclinique"
-  - username: "klatex"
-    fullname: >-
-      KLAUDIA TARKA (YouTuber)
-    bio: >-
-      🏆 Beauty Influencer @joypoland 🏆Influencer Roku @wizazpl 📩 Kacper@KaczmarskiManagement.pl 🙋🏼‍♀️ Moje marki: drogeria @flowy_pl 🛍 & @wowcow.pl 🐮
-    location: "Poland"
-    followers: 138625
-    engagement: 765
-    commentsToLikes: 0.018582
-    id: ck5c9fnukbckz0i11nby5qngw
+    followers: 24682
+    engagement: 698
+    commentsToLikes: 0.025057
+    id: ck6u1ow8pn04d0j71nbxses7q
     verified: false
-    hashtags: "#maybellinepl, #makija, #makijaz, #drogeriaflowy"
-  - username: "klaudia_cukierpuder"
+    hashtags: "#polskadziewczyna, #instagood, #picoftheday, #outfit"
+  - username: "nikkisetnik"
     fullname: >-
-      Klaudia Łańcucka
+      Nikki Setnik
     bio: >-
-      💄 Makeup Artist & Beauty Blogger from Poland 🇵🇱 🎬 YouTube - KlaudiaCukierPuder 🔥 Kontakt: wspolpraca@klaudiacukierpuder.pl 👇🏻Bądź pierwszy👇🏻
+      Juror - INFLUENCERS TOP 2022 🌿 Beauty / Lifestyle / Travel / Off Road 🌿 💌 Kontakt - nikolsetnik@o2.pl / DM 🌍🏝❤️ - @life_road_travel
     location: "Poland"
-    followers: 80544
-    engagement: 503
-    commentsToLikes: 0.024974
-    id: ck0udksxmje6g0i19nktkpvoc
+    followers: 41564
+    engagement: 413
+    commentsToLikes: 0.043664
+    id: ck15qb5z21zv40i19tpe5behf
     verified: false
-    hashtags: "#ootd, #springvibes, #makeuplover, #nowo"
-  - username: "noemisparkle"
+    hashtags: "#polskamama, #polskadziewczyna, #polskakobieta, #pielegnacja"
+  - username: "weronika.jagus"
     fullname: >-
-      Noemi Makeup
+      Weronika Jaguś
     bio: >-
-      Makeup | Hair | Beauty tips 👸🏼Włosy falowane 🥬Hashimoto, PCOS, IO girl 💪🏼 🎨My Art: @noemidraw Tag me: #noemiinspo Bussiness: noemisparkle@gmail.com
+      ✉️ wjagus.contact@gmail.com 🏆 makeup innovator 2022 🏆 beauty expert 2021 🏆 influencerka roku 2020
     location: "Poland"
-    followers: 67701
-    engagement: 802
-    commentsToLikes: 0.020220
-    id: ck5zjnmt4hwzg0i14qcg9o19r
+    followers: 170643
+    engagement: 800
+    commentsToLikes: 0.019211
+    id: ck5bvzj05kpef0i11hdqqnimu
     verified: false
-    hashtags: "#underratedmuas, #makeuptutorial, #muasfeaturing, #miyo"
-  - username: "anastazja_aksa"
+    hashtags: "#travelgirls, #europe, #summer2021, #maybelline"
+  - username: "gabriellaszklarz"
     fullname: >-
-      Anastazja M
+      Gabriella Szklarz 💎
     bio: >-
-      📸Photomodel / Beauty & Equestrian influencer 🐴 Wasali 5yo Arabian Horse 🎶 TikTok : AksaTV 235 K 💌Business contact : DM/ aksa.records@op.pl
+      LIFESTYLE/BEAUTY/FASHION Cracow 🫶🏼 With passion for travel 🌴
     location: "Poland"
-    followers: 20933
-    engagement: 1335
-    commentsToLikes: 0.066497
-    id: ck8wensw7ec9a0j78mnob63kp
+    followers: 21087
+    engagement: 466
+    commentsToLikes: 0.026630
+    id: ck15seqjlcn220i197tw6vdqy
     verified: false
-    hashtags: "#equine, #cloverconceptstore, #horseriding, #arabianhorse"
-  - username: "agnieszka.bokotaa"
+    hashtags: "#blonde, #igerspoland, #blondeme, #braids"
+  - username: "o_czarnecka"
     fullname: >-
-      Aga
+      Aleksandra Czarnecka
     bio: >-
-      Fashion 👗👠nails 💅nail stylization💅beauty💄 Kontakt /współpraca 📩 bokotaaga@gmail.com 🇵🇱Poland
+      | MAKEUP | BEAUTY | LIFESTYLE | 📩 Collab: o.czarnecka.yt@gmail.com 🎶 TikTok: o_czarnecka
     location: "Poland"
-    followers: 37869
-    engagement: 360
-    commentsToLikes: 0.080545
-    id: ck14j07d7hywz0i196nlbxqm4
+    followers: 56686
+    engagement: 879
+    commentsToLikes: 0.018980
+    id: ck8t70ghsf8u80j78dgdq0npw
     verified: false
-    hashtags: "#claresanails, #fashion, #piegi, #beskidy"
-  - username: "inesbeautypl"
+    hashtags: "#morphexjamescharles, #nyxcosmeticspl, #makegirlz, #revolutionpro"
+  - username: "narcyza.czartoryska"
     fullname: >-
-      𝙞𝙣𝙚𝙨𝙗𝙚𝙖𝙪𝙩𝙮 -Aga Wroclaw 🌷🎀💝🇵🇱
+      Narcyza Czartoryska InstaBlog
     bio: >-
-      𝓐𝓰𝓮42|Dentist|Beautyblogger |A lover of life |Beauty|Lifestyle|Fashion|Homedecor|Yoga| Olympus 𝓙𝓾𝓼𝓽 𝓱𝓪𝓿𝓮 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓕𝓪𝓲𝓽𝓱 Contact : ines@inesbeauty.pl
+      Beauty 💅💄Foodie Lover🍦Lifestyle 🛍🌍 Collab: 💌 narcyza.czartoryska@gmail.com 💕
     location: "Poland"
-    followers: 48228
-    engagement: 344
-    commentsToLikes: 0.110260
-    id: ck8tdgwnv399r0j78scov01sy
+    followers: 18485
+    engagement: 567
+    commentsToLikes: 0.015403
+    id: ck8t6h44zdm280j78hzlqx711
     verified: false
-    hashtags: "#niechsiedziejenajlepiej, #storiediseta, #kobietylancome, #skincare"
-  - username: "miish.beauty"
+    hashtags: "#restaurantweekpolska, #kosmetykidotwarzy, #krem, #testujemy"
+  - username: "betty.grucela"
     fullname: >-
-      Dominika Mierzwa
+      Betty Grucela
     bio: >-
-      MAKEUP | BEAUTY | TUTORIALS ♥️ 💄 Professional MUA | Beauty Blogger♥️ 💌 Collab: DM or miish.makeup@gmail.com 💥 Makijaże okazjonalne 👉🏻 Chrzanów!
+      Owner @beautygroup.by.grucela @luxdogway TV personality Love Island Poland I
     location: "Poland"
-    followers: 11001
-    engagement: 553
-    commentsToLikes: 0.171746
-    id: ck14ji76mkh520i199ms0ec8h
+    followers: 40919
+    engagement: 603
+    commentsToLikes: 0.033674
+    id: ckf5p5b9g51fz0j232i1tzm46
     verified: false
-    hashtags: "#eyeshadow, #eyelook, #makeupideas, #photooftheday"
-  - username: "rapujacepierogi"
+    hashtags: "#beatagrucela, #happy, #photoshoot, #blondegirl"
+  - username: "maryla_a"
     fullname: >-
-      
+      Maryla
     bio: >-
-      Parisian soul and beige aesthetics lover PL 🇵🇱 Warsaw 💌 rapujace@gmail.com Fashion ✖ Lifestyle ✖ Beauty
+      Contact - marylakowalikk@gmail.com TikTok - maryla_aa 28,1K @mk.beauty.concept
     location: "Poland"
-    followers: 12486
-    engagement: 551
-    commentsToLikes: 0.059271
-    id: ck8t70s9xf9s70j780sso23xk
+    followers: 53709
+    engagement: 434
+    commentsToLikes: 0.014895
+    id: ckap27c3txov60i78vip534cj
     verified: false
-    hashtags: "#minimalstreetstyle, #dailylookbook, #picnictime, #llemerci"
-  - username: "noelle.makeup"
+    hashtags: "#instadaily, #bershka, #smile, #zara"
+  - username: "studio_pieknaa"
     fullname: >-
-      Natalia Marian
+      Paula Zaprasza! :)
     bio: >-
-      🌸 MAKEUP | BEAUTY | ART 🌸 📩 Contact & Collaboration: DM or nataliaa.mariann@gmail.com 💄Student PRO Make Up Academy 2019/2020 ➡️ #noelleinspiruje
+      Beauty Blogger ♥ Makeup | Beauty | Lifestyle COLLAB/PR: studio_pieknaa@wp.pl or DM 📥 Zakaz kopiowania zdjęć !
     location: "Poland"
-    followers: 30916
-    engagement: 681
-    commentsToLikes: 0.173249
-    id: ck8tc8db3ynj20j783bq5d9y1
+    followers: 28730
+    engagement: 559
+    commentsToLikes: 0.029404
+    id: ck8t83f65iyq40j78y0dnm7d2
     verified: false
-    hashtags: "#makeupaddict, #makeupbrushes, #mintishop, #zielony"
+    hashtags: "#polecam, #nowosci, #pielegnacjatwarzy, #rozdanie"
+  - username: "olaszkolda"
+    fullname: >-
+      Ola Szkołda 💫
+    bio: >-
+      OFFICIAL ACCOUNT🤍 #fashion #beauty #photomodel Manager @jaredkostrzewa manager@olaszkolda.com TikTok ola.szkolda [310k]
+    location: "Poland"
+    followers: 164600
+    engagement: 810
+    commentsToLikes: 0.004943
+    id: ck0w6xucgas270i19ymrjhj3c
+    verified: false
+    hashtags: "#fashionable, #redhair, #fashioninspiration, #fashioninfluencer"
 ---

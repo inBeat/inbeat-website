@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Poland In 2023
+title: Top 10 Photographers TikTok Influencers In Poland In 2024
 description: >-
-  Find top photographers TikTok influencers in Poland in 2023. Most popular hashtags: #photographer #fotografia #photography #polska.
+  Find top photographers TikTok influencers in Poland in 2024. Most popular hashtags: #photographer #fotografia #photography #polska.
 platform: TikTok
 hits: 12
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 12 TikTok influencers like this in Poland for you to work with.
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 12 TikTok influencers like this in Poland for you to pitch.
 profiles:
   - username: "aga_niko"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.012262
     id: ckc2ztmyvqnnf0j2360qj1t8i
     verified: false
-    hashtags: "#hubby, #man, #malzenstwo, #mezczyzna"
+    hashtags: "#husband, #couplegoals, #transformation, #marriage"
   - username: "victor.borsuk"
     fullname: >-
       Most viewed

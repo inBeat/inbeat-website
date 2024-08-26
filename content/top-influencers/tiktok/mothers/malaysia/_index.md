@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Malaysia In 2023
+title: Top 10 Mothers TikTok Influencers In Malaysia In 2024
 description: >-
-  Find top mothers TikTok influencers in Malaysia in 2023. Most popular hashtags: #foryou #fyp #trending #foryoupage.
+  Find top mothers TikTok influencers in Malaysia in 2024. Most popular hashtags: #foryou #fyp #duet #foryoupage.
 platform: TikTok
 hits: 11
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our platform has 11 TikTok influencers like this in Malaysia for you to contact.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 11 TikTok influencers like this in Malaysia for you to collaborate.
 profiles:
   - username: "ruthbellpan"
     fullname: >-
@@ -121,10 +121,10 @@ profiles:
     bio: >-
       🇲🇾 | Youtuber ↓ My other social media accounts ↓ ↓ Latest youtube video ↓
     location: "Malaysia"
-    followers: 587800
-    engagement: 1312
-    commentsToLikes: 0.008615
+    followers: 657700
+    engagement: 1395
+    commentsToLikes: 0.008303
     id: ckcekf1z3trn30j230apvfzt8
     verified: false
-    hashtags: "#fyp, #trending, #foryou, #viral"
+    hashtags: "#duet, #6secchallenge, #agechallenge, #timewarpwaterfall"
 ---

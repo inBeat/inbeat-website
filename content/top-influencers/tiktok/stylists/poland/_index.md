@@ -1,11 +1,11 @@
 ---
-title: Top 10 Stylists TikTok Influencers In Poland In 2023
+title: Top 10 Stylists TikTok Influencers In Poland In 2024
 description: >-
-  Find top stylists TikTok influencers in Poland in 2023. Most popular hashtags: #dlaciebie #moda #foryou #fashion.
+  Find top stylists TikTok influencers in Poland in 2024. Most popular hashtags: #dlaciebie #fashion #foryou #moda.
 platform: TikTok
 hits: 8
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our database aggregates 8 TikTok influencers like this in Poland for you to contact.
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our database has 8 TikTok influencers like this in Poland for you to connect with.
 profiles:
   - username: "magnesia1"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.103824
     id: ck9ad64hfvtml0j78n27gvxar
     verified: true
-    hashtags: "#shoes, #eobuwie, #trend, #dlaciebie"
+    hashtags: "#dlaciebie, #foryou, #fashiontiktok, #eobuwie"
   - username: "ssolkosss"
     fullname: >-
       ssolkosss

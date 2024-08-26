@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In United Kingdom In 2023
+title: Top 10 Yoga Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top yoga Instagram influencers in United Kingdom in 2023. Most popular hashtags: #fitness #health #fitnessmotivation.
+  Find top yoga Instagram influencers in United Kingdom in 2024. Most popular hashtags: #yoga #mindset #strength #london.
 platform: Instagram
-hits: 217
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 217 Instagram influencers like this in United Kingdom for you to pitch.
+hits: 318
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 318 Instagram influencers like this in United Kingdom for you to work with.
 profiles:
-  - username: "graceru_x"
+  - username: "alanamurrin"
     fullname: >-
-      G R A C E 🌸
+      Alana Murrin
     bio: >-
-      Sunsets & selfies 🦋✨ Gym & yoga 🧘‍♀️💫 Northerner living down south 🇬🇧✌🏻
+      Head of Ride @psyclelondon ⁣ Master Ride instructor @psyclelondon Yoga Instructor @psyclelondon Ambassador @lululemoneurope ⁣⁣⁣⁣⁣⁣ ⁣ ☘️Irish 📍London
     location: "United Kingdom"
-    followers: 99214
-    engagement: 270
-    commentsToLikes: 0.056818
-    id: ckaovj44k4rvm0i78zczj4qi8
+    followers: 5286
+    engagement: 711
+    commentsToLikes: 0.065127
+    id: ck6uab8wb2l0s0j71j91hjeq1
     verified: false
-    hashtags: "#ootd, #instagram, #instadaily, #happy"
-  - username: "yoga_girl"
+    hashtags: "#team, #connection, #lululemonambassador, #strength"
+  - username: "scotteeisfat"
     fullname: >-
-      Rachel Brathen
+      Scottee
     bio: >-
-      we mostly talk about plants here. we drink a lot of tea. and sometimes we do yoga. come on in! ❤️🌾 @yogagirlpodcast / @yogagirlofficial / @island.yoga
+      🎭 Failed Actor 🎨 Troubled Artist 🎤 Self Help Podcast - Out Now! 💭 Online Yoga - @wonkee.club 👟 Amateur Runner 🧠 Autistic + Mad 📍 Manchester, UK
     location: "United Kingdom"
-    followers: 2020010
-    engagement: 148
-    commentsToLikes: 0.047782
-    id: ck55p81u59zsx0i1151stgv6c
-    verified: true
-    hashtags: "#pregnancy, #nature, #motherhood, #family"
-  - username: "elly_yoga_"
-    fullname: >-
-      Elly
-    bio: >-
-      Yoga, meditation, practice . Cornwall, UK
-    location: "United Kingdom"
-    followers: 16857
-    engagement: 610
-    commentsToLikes: 0.158953
-    id: ckaozyofko00o0i78jlm2qbok
+    followers: 144531
+    engagement: 841
+    commentsToLikes: 0.028714
+    id: ck5zw5nwc5j5e0i14bzen4t9b
     verified: false
-    hashtags: "#yogiscomingforcoffee, #yst2021, #yogastopstraffick, #kurmasana"
-  - username: "jodi_yogini"
+    hashtags: "#mentalhealth, #fatyoga, #fatrunners, #queerrunner"
+  - username: "tania_ah"
     fullname: >-
-      Jodi | Yoga
+      Tania Ahmad
     bio: >-
-      🦋 My Yoga Journey 🌊 Cornwall UK ➡️ Dm for collabs 👇 Discount codes
+      London📍 Certified Yoga & Pilates Teacher taniaah.info@gmail.com📧
     location: "United Kingdom"
-    followers: 41087
-    engagement: 257
-    commentsToLikes: 0.107264
-    id: ck5zwlss46ckd0i14y6gyh99v
+    followers: 120396
+    engagement: 449
+    commentsToLikes: 0.052075
+    id: clibcpfonvqmf0j081tvvg130
     verified: false
-    hashtags: "#heartopener, #igyoga, #yogastrong, #yogaposes"
-  - username: "as.danai"
+    hashtags: "#yoga, #wellness, #pilatesathome, #yogainspiration"
+  - username: "janajung"
     fullname: >-
-      𝐷𝑎𝑛𝑎𝑖   |  𝑌𝑜𝑔𝑎 - 𝑀𝑖𝑛𝑑𝑓𝑢𝑙𝑛𝑒𝑠𝑠
+      Jana Jung | Clinical Herbalist
     bio: >-
-      🙏Yoga Teacher 200hr 💙 based in Greece • connected with the World 🌎 🌱 Vegan 💌 DM/email for collabs
+      Represented by TWOMANAGEMENT worldwide Certified Naturopath, Iridologist, Herbalist 500hr YTT Yogasana 🧘🏽‍♀️
     location: "United Kingdom"
-    followers: 11481
-    engagement: 360
-    commentsToLikes: 0.128849
-    id: ck9woonfe5yeq0j78ggq92tjm
+    followers: 103740
+    engagement: 409
+    commentsToLikes: 0.013135
+    id: ck5qa45i2ega10i11qe9mznzr
     verified: false
-    hashtags: ""
-  - username: "allaboutnori"
+    hashtags: "#climatechangeisreal, #formanymoretimes, #ceramicwork"
+  - username: "tiffany_soi"
     fullname: >-
-      Nori Olivia
+      Tiffany Soithongsuk
     bio: >-
-      Made in Germany, home in London 🤸🏻 yoga teacher 📷 @modelmanagement collabs: noraoliviacontact@gmail.com
+      The Climb @hbomax ✼ EurAsian Brit climber ✼ actor+presenter ✼ yoga+wellness coach ✼ astrophysicist(ex) ✼ START my @climbflow yoga programme↓ 🇬🇧🇵🇱🇹🇭
     location: "United Kingdom"
-    followers: 51770
-    engagement: 585
-    commentsToLikes: 0.043659
-    id: ck0vyis9h47cs0i19o83o8ggm
+    followers: 40385
+    engagement: 362
+    commentsToLikes: 0.023272
+    id: ck8syqw5wlnvl0j78z0lmv4vq
     verified: false
-    hashtags: "#advert, #cocooning, #myloungelife, #nivealiebe"
-  - username: "b.plus.other.stories"
+    hashtags: "#rockclimber, #wellbeing, #fitnessjourney, #yogaforclimbing"
+  - username: "yogawitholive"
     fullname: >-
-      B 🌿
+      olive
     bio: >-
-      Capturing some moments 💫 Finding some peace 🌙 Doing some yoga 🧘🏼‍♀️ I make jewellery ✨ @abirdnamedcharlie
+      👽 yoga, mobility & strength coach 🤸🏽‍♀️ sharing movement with curiosity & playfulness 🤝🏽 @lululemoneurope @vivobarefoot 🇮🇳🇬🇧🏳️‍🌈
     location: "United Kingdom"
-    followers: 10875
-    engagement: 446
-    commentsToLikes: 0.233926
-    id: ck55lyd852qzp0i11gbhmcal4
+    followers: 15662
+    engagement: 321
+    commentsToLikes: 0.047301
+    id: ck9wdaxrretfk0j78jiv5o5b3
     verified: false
-    hashtags: "#takemeaway, #callingmrblueskies, #fyfelilacandzephyr, #posiepops"
-  - username: "agfalzon"
+    hashtags: "#yogateacher, #yogawitholive, #lululemonambassador, #brightonyoga"
+  - username: "wholesome.mils"
     fullname: >-
-      Alain Falzon
+      Millie
     bio: >-
-      👶🏻 Born in Paris 🏡 Raised in Barcelona 📍Based in London 🗣 🇪🇸🇫🇷🇬🇧🇧🇷🇮🇹 🏋🏻‍♂️ GYM/ HIIT/ YOGA/ SWIM/ TRAVEL/ LIVING!
+      ✨ wholesome living ✨ • london • 24 healthy recipes | running + yoga | travel ⬇️ recipe e-book, podcast + tiktok 📧 wholesome.mils@gmail.com
     location: "United Kingdom"
-    followers: 7133
-    engagement: 1006
-    commentsToLikes: 0.057138
-    id: ckap8mef9oz7p0i78yxa0v7bj
+    followers: 244954
+    engagement: 1513
+    commentsToLikes: 0.047503
+    id: clpwuio21l0s60k08b57nabnz
     verified: false
-    hashtags: "#london, #fit, #formentera, #fitnessmotivation"
-  - username: "travelwithtereza"
+    hashtags: "#proteinpacked, #chocolatecake, #healthyfood, #refinedsugarfree"
+  - username: "jonelleyoga"
     fullname: >-
-      TEREZA | Travel blogger
+      Jonelle Lewis
     bio: >-
-      ☾ London based ♡ Seeking sun, self-growth, yoga & coffee ☼ 47 countries 🔜 Mauritius ✐ travelwithtereza@gmail.com
+      @applefitnessplus trainer 💚Yoga = wellbeing🙏🏾 ✨Come as you are✨ 🖤Be brave, be fierce, be free ✊🏾 Black Lives Matter Philly | London | L.A.
     location: "United Kingdom"
-    followers: 25663
-    engagement: 191
-    commentsToLikes: 0.255014
-    id: ck0w6dubb840d0i19y671l1dm
+    followers: 118179
+    engagement: 410
+    commentsToLikes: 0.064024
+    id: ckraz0rmhbc5e0j23t7k7xv72
     verified: false
-    hashtags: "#thetraveltribe, #best, #stayandwander, #darlingplaces"
-  - username: "bodybyvicky"
+    hashtags: "#closeyourrings, #yoga, #inversion, #matriarch"
+  - username: "nandini_envy"
     fullname: >-
-      Vicky Hadley
+      Nandini Sree
     bio: >-
-      Owner: @sculptandsweatstudio PT | YOGA | Barre | Pre & Anti Natal 💍 JB 💕 🐶 @prepperfectuk athlete & @myproteinuk code: VICKY
+      A beautiful Paradox! DJ Anchor | Actor | Yoga Sadhak Will always accept books as gifts 🥰! 🇦🇪 🇮🇳 🇬🇧
     location: "United Kingdom"
-    followers: 30874
-    engagement: 152
-    commentsToLikes: 0.088943
-    id: ck15ubg11mctv0i19tscb2cs9
+    followers: 74061
+    engagement: 294
+    commentsToLikes: 0.018996
+    id: ck0u29shtzcui0i198c7k1nv0
     verified: false
-    hashtags: "#fitness, #nutrition, #gymlife, #exercise"
+    hashtags: "#retro, #london, #photooftheday, #instagood"
+  - username: "rhiannoncbailey"
+    fullname: >-
+      Rhiannon Bailey - Online Coach
+    bio: >-
+      I run, I yoga, I attempt to triathlon Be coached by me!👇🏼 @myprotein code : RHIANNON 💌 marianne@milkmanagement.co.uk
+    location: "United Kingdom"
+    followers: 103826
+    engagement: 289
+    commentsToLikes: 0.007457
+    id: ckaoryy63peet0i789g971lyw
+    verified: false
+    hashtags: "#fyp, #lifestyle, #run, #running"
 ---

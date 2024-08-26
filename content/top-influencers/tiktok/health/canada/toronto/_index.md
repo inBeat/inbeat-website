@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Toronto In 2023
+title: Top 10 Health TikTok Influencers In Toronto In 2024
 description: >-
-  Find top health TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #toronto #duet #foryoupage.
+  Find top health TikTok influencers in Toronto in 2024. Most popular hashtags: #fyp #toronto #duet #foryoupage.
 platform: TikTok
 hits: 23
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 23 TikTok influencers like this in Toronto, Canada for you to work with.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database holds 23 TikTok influencers like this in Toronto, Canada for you to connect with.
 profiles:
   - username: "mindonstrength"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.109245
     id: ckbf228pqoo3a0j23yvlu4av3
     verified: false
-    hashtags: "#canada, #toronto, #tiktokdoc, #blacklivesmatter"
+    hashtags: "#toronto, #fyp, #learnontiktok, #doctor"
   - username: "ashtonthebeard"
     fullname: >-
       Ashton
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.198070
     id: ckcem2lh5w6mr0j23et3wm83r
     verified: false
-    hashtags: "#fittoker, #fitnessismylife, #torontofitness, #over35club"
+    hashtags: "#fitnessismylife, #torontofitness, #fittoker, #fitnessismypassion"
   - username: "nickyb_fitness"
     fullname: >-
       NickyBFitness

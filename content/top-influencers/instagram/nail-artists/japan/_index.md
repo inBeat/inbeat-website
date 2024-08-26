@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Japan In 2023
+title: Top 10 Nail Artists Instagram Influencers In Japan In 2024
 description: >-
-  Find top nail artists Instagram influencers in Japan in 2023. Most popular hashtags: #nailart #nails #naildesign.
+  Find top nail artists Instagram influencers in Japan in 2024. Most popular hashtags: #nailart #nails #naildesign.
 platform: Instagram
-hits: 24
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform has 24 Instagram influencers like this in Japan for you to collaborate.
+hits: 25
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 25 Instagram influencers like this in Japan for you to connect with.
 profiles:
   - username: "naild_o_g"
     fullname: >-

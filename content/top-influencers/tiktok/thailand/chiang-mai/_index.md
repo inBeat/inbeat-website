@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Chiang Mai In 2023
+title: Top 10 TikTok Influencers In Chiang Mai In 2024
 description: >-
-  Find top TikTok influencers in Chiang Mai in 2023. Most popular hashtags: #chiangmai #thailand #fyp #tiktokthailand.
+  Find top TikTok influencers in Chiang Mai in 2024. Most popular hashtags: #chiangmai #thailand #fyp #foryoupage.
 platform: TikTok
 hits: 23
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our database has 23 TikTok influencers like this in Chiang mai, Thailand for you to work with.
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: inBeat has 23 TikTok influencers like this in Chiang mai, Thailand for you to work with.
 profiles:
   - username: "haydocampbell"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.068001
     id: ck8qncm2du17e0j786xa1vfzn
     verified: false
-    hashtags: "#luxury, #phuket, #tiktokthailand, #foryoupage"
+    hashtags: "#chiangmai, #foryoupage, #thailand, #fyp"
   - username: "stamp.hoosier"
     fullname: >-
       |||จงเป็นมนุษย์

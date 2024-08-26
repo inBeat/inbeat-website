@@ -1,48 +1,36 @@
 ---
-title: Top 10 Health Instagram Influencers In Houston In 2023
+title: Top 10 Health Instagram Influencers In Houston In 2024
 description: >-
-  Find top health Instagram influencers in Houston in 2023. Most popular hashtags: #houston #health #loveyourself.
+  Find top health Instagram influencers in Houston in 2024. Most popular hashtags: #health #love #houston #pregnancy.
 platform: Instagram
-hits: 111
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat has 111 Instagram influencers like this in Houston, United States for you to collaborate.
+hits: 140
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 140 Instagram influencers like this in Houston, United States for you to work with.
 profiles:
-  - username: "_gifted_handzvip"
+  - username: "polgarkriszta"
     fullname: >-
-      Pro Grooming
+      Krisztina Polgar
     bio: >-
-      Business Consultant Movie Director 🎬 GSU Alum 🎓 CEO of “Gifted Handz VIP” ⚜️La. 🛫 HTX📍 U.S. Air Force Veteran ⬇️ Products, Courses, Services ⬇️
+      🇭🇺🇺🇸📍HTX Proud mom and wife 👨‍👩‍👦‍👦 Miss Earth Hungary 2008👸 Hungarian model💃🏼 Poker enthusiast ♣️ Adrenalin junkie 🎢 Fashion addict 👗👠
     location: "United States"
-    followers: 21622
-    engagement: 92
-    commentsToLikes: 0.022672
-    id: ck5cl4k5ky8fv0i11hhkr69wc
+    followers: 97611
+    engagement: 377
+    commentsToLikes: 0.011375
+    id: ckaoudkudztac0i78r034zzkn
     verified: false
-    hashtags: "#houstonbarbers, #redcarpetfresh, #phillybarber, #organic"
-  - username: "maimedicalmuse"
+    hashtags: "#parenthood, #parentingmemes, #parenting, #houston"
+  - username: "jasminerdh"
     fullname: >-
-      👑 Maius | Medical Student
+      Jasmine Williams, RDH, BSDH, MHA
     bio: >-
-      just a med student keepin it real 👩🏻‍⚕️ MS2, she/her 🩺 Dell Med (all opinions are my own) 🥼 current rotation: gyn surg 🇵🇭 -->📍Austin, TX
+      Registered Dental Hygienist | Houston📍 Health • Wellness • Lifestyle Personal: @JasminesDailyLifestyle Dental Products I Use⤵️
     location: "United States"
-    followers: 14484
-    engagement: 1239
-    commentsToLikes: 0.038508
-    id: ckap08v69p9i50i78elf6fa07
+    followers: 169394
+    engagement: 680
+    commentsToLikes: 0.138896
+    id: ck8wgldpvhku30j78qdp4u1ya
     verified: false
-    hashtags: "#healthcare, #premedstudent, #medical, #medicine"
-  - username: "unearthedamber"
-    fullname: >-
-      Amber 🩺
-    bio: >-
-      Family Nurse Practitioner ❤️ Wife 💍 Content Creator📍Houston Health & Wellness | Natural Hair 💌 amber@unearthedamber.com
-    location: "United States"
-    followers: 29458
-    engagement: 303
-    commentsToLikes: 0.048339
-    id: ckaoxmq2kdwzk0i78y3e3804k
-    verified: false
-    hashtags: "#black, #blacknursesmatter, #nursepractitioner, #blacknursesrock"
+    hashtags: "#dentaltips, #oralhealth, #healthtips, #healthylifestyle"
   - username: "chubbystruggles"
     fullname: >-
       Alex Sundstrom
@@ -54,7 +42,7 @@ profiles:
     commentsToLikes: 0.052317
     id: ck14kfgxqp9h30i19esmzrc35
     verified: false
-    hashtags: "#visiblyfat, #athleta, #plussizeathleisure, #fatgirlsummer"
+    hashtags: "#athleta, #palmsprings, #visiblyfat, #plussizefashion"
   - username: "aphricanace"
     fullname: >-
       Dami Olatunde
@@ -66,55 +54,67 @@ profiles:
     commentsToLikes: 0.053332
     id: ck0vwhtu2tuyj0i19cbafjoq1
     verified: true
-    hashtags: "#funnyrealtor, #realestateagent, #texasrealestateagent, #dtr"
-  - username: "jasminerdh"
+    hashtags: "#damitherealtor, #realtorwithasenseofhumor, #flashbackfriday, #dtr"
+  - username: "thebigfashionguy"
     fullname: >-
-      Jasmine RDH, BSDH, MHA🦷💕
+      Michael-Anthony
     bio: >-
-      Registered Dental Hygienist | Houston📍 Oral Health Educator | Content Creator 600,000+ supporters on TikTok Side Hustle E-Book | Teeth Whitening⤵️
+      Live Big, Dress Big, & Leave a Big Impression! The Wife @iamplusblog The Couple @hisbigherplus The Purpose @menofsize 📍Houston
     location: "United States"
-    followers: 42474
-    engagement: 2987
-    commentsToLikes: 0.040319
-    id: ck8wgldpvhku30j78qdp4u1ya
+    followers: 43702
+    engagement: 150
+    commentsToLikes: 0.048627
+    id: ck137f3xkb8d20i19ooed29qp
     verified: false
-    hashtags: "#smilecouncil, #barcobrigade, #barcouniforms, #ad"
-  - username: "atrainlanier"
+    hashtags: "#mensstyle, #bigandtall, #junetenth, #mensfashion"
+  - username: "ffadejumo"
     fullname: >-
-      ᴀᴜsᴛɪɴ ʟᴀɴɪᴇʀ
+      Funke Felix-Adejumo
     bio: >-
-      757 ✈️🌎
+      *Female Enthusiast *Global Speaker Honoring God...Blessing Humanity +2348180299999 +2349027775557
     location: "United States"
-    followers: 37070
-    engagement: 602
-    commentsToLikes: 0.051115
-    id: ck0tzmo84qx8s0i19agjmhhlw
-    verified: false
-    hashtags: "#schoolspeaker, #god, #crowdsurfing, #hope"
-  - username: "rioredskyg"
+    followers: 1414847
+    engagement: 21
+    commentsToLikes: 0.030692
+    id: ck0w27ci4myco0i19ggy3z49s
+    verified: true
+    hashtags: "#convention, #love, #women, #vacation"
+  - username: "sincerelyonyi"
     fullname: >-
-      Rio Red Sky Gonzales
+      Onyi Azih | Mom & Lifestyle Blogger
     bio: >-
-      Grand Traverse Band of Ottawa and Chippewa Indians HTX // Musician Click link for a sexy video! 💌
+      ✨TikTok 95k+ 👩🏾‍⚕️Psych PA ♾Balancing Motherhood, Wellness & Travel 💻 Ft @insiderbusiness @health 💌sincerelyonyi@gmail.com 📍Houston
     location: "United States"
-    followers: 35877
-    engagement: 414
-    commentsToLikes: 0.036395
-    id: ck6uc99h6e8yb0j71o6vbbwbl
+    followers: 105202
+    engagement: 126
+    commentsToLikes: 0.030683
+    id: ck14kv4onrgjq0i19spnw2j8k
     verified: false
-    hashtags: "#thickwomen, #instagramreels, #sheingal, #fyp"
-  - username: "kennedybonham_"
+    hashtags: "#ad, #boymom, #aapa24, #walmartpartner"
+  - username: "lynzchristiantv"
     fullname: >-
-      Kennedy Bonham
+      LYNDSAY LEVINGSTON
     bio: >-
-      health & wellness ⚡️ @ehplabs & @inakapower code 'KENNEDY10' houston, texas TrainWithKennedy ✨👇🏽
+      🙏🏾 Jeremiah 29:11💕💚 Founder @imasurviveher Media Multihyphenate
     location: "United States"
-    followers: 119770
-    engagement: 1098
-    commentsToLikes: 0.011210
-    id: cl7i19kuptxul0i23f4u9t8fi
+    followers: 7237
+    engagement: 430
+    commentsToLikes: 0.138130
+    id: ckap2ef6pyh3v0i78il6i8lqp
+    verified: true
+    hashtags: "#htown, #morocco, #africa, #ktsuradio"
+  - username: "farahnofal__"
+    fullname: >-
+      Farah Nofal - فرح نوفل
+    bio: >-
+      Expecting Mama 🫶🏻 ▫️Lifestyle•Wellness•Yoga•Nutrition▫️ ▫️YOGA TEACHER & HEALTH COACH @nestlepurelifeeg & @egyfoodbank Ambassador 📍Cairo/ Houston
+    location: "United States"
+    followers: 289417
+    engagement: 57
+    commentsToLikes: 0.006006
+    id: ck6tv8qhaktfr0j71py61b5fj
     verified: false
-    hashtags: ""
+    hashtags: "#pregnancy, #summerdays, #egypt, #preggooutfits"
   - username: "every_now_and_jenn"
     fullname: >-
       Jenn Peterson

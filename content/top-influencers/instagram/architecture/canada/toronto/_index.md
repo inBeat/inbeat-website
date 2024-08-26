@@ -1,24 +1,72 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Toronto In 2023
+title: Top 10 Architecture Instagram Influencers In Toronto In 2024
 description: >-
-  Find top architecture Instagram influencers in Toronto in 2023. Most popular hashtags: #toronto #architecture #canada #explorecanada.
+  Find top architecture Instagram influencers in Toronto in 2024. Most popular hashtags: #architecture #toronto #design #realestate.
 platform: Instagram
-hits: 22
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform has 22 Instagram influencers like this in Toronto, Canada for you to collaborate.
+hits: 32
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 32 Instagram influencers like this in Toronto, Canada for you to work with.
 profiles:
+  - username: "gtahouses4sale"
+    fullname: >-
+      Toronto & GTA Listings
+    bio: >-
+      Showcasing the GTA’s Current Listings #FORSALE Providing Top Exposure for GTA #REALTORS Daily. DM/Email For Feature To Get Your Listings Sold 🏡
+    location: "Canada"
+    followers: 26992
+    engagement: 530
+    commentsToLikes: 0.009099
+    id: ck0uefbo4l72d0i1932ljomzp
+    verified: false
+    hashtags: "#mansion, #throwback, #torontorealestateboard, #kingrealestate"
   - username: "wadoodbhatti"
     fullname: >-
       Wadood Bhatti
     bio: >-
-      All photos are mine. Repost with credit only. 📸 XT2 & 📱Google Pixel 4XL Hubby: @hameedbhatti62 Son @moezb Checkout our car channel on YouTube.
+      All photos are mine. 📸 XT2 & 📱Google Pixel 6 PRO Hubby: @hameedbhatti62
     location: "Canada"
-    followers: 4861
-    engagement: 1548
-    commentsToLikes: 0.199192
+    followers: 5107
+    engagement: 1383
+    commentsToLikes: 0.210927
     id: ck0u9ij7ca05j0i19jocaj5s4
     verified: false
-    hashtags: "#themoon, #streetgrammers, #torontoison, #fatalframes"
+    hashtags: "#artofvisuals, #discoverontario, #visitoakville, #lovetoronto"
+  - username: "westbankcorp"
+    fullname: >-
+      Westbank
+    bio: >-
+      Dedicated to the creation of beauty, integration of art and architecture #fightforbeauty #vancouver #toronto #seattle #tokyo #siliconvalley
+    location: "Canada"
+    followers: 43530
+    engagement: 40
+    commentsToLikes: 0.009809
+    id: ck6tph9exjuxy0j719bg2fr55
+    verified: false
+    hashtags: "#vancouver, #art, #design, #seattle"
+  - username: "deanthomasdesigngroup"
+    fullname: >-
+      Dean Thomas Design Group
+    bio: >-
+      International Award Winning Design Firm. Specializing in high-end #luxuryhomes across North America.
+    location: "Canada"
+    followers: 30212
+    engagement: 260
+    commentsToLikes: 0.019805
+    id: ck0twxfaph5r40i19ejoak7zk
+    verified: false
+    hashtags: "#yeghomes, #ontario, #instahome, #comox"
+  - username: "oben_design"
+    fullname: >-
+      OBEN Design
+    bio: >-
+      Architectural and civil engineering company We build your dream. Toronto, Canada YouTube: #obendesign
+    location: "Canada"
+    followers: 193840
+    engagement: 53
+    commentsToLikes: 0.021277
+    id: ck0vz4h0g79cn0i192bx6wy9g
+    verified: false
+    hashtags: "#architecturelife, #instagram, #toronto, #britishcolumbia"
   - username: "richardwengle"
     fullname: >-
       Richard Wengle
@@ -31,42 +79,42 @@ profiles:
     id: ck15tenl2hpg50i19yyentqdf
     verified: false
     hashtags: "#lifestyle, #architecturephotography, #design, #modern"
-  - username: "westbankcorp"
+  - username: "og_architect"
     fullname: >-
-      Westbank
+      Omar Gandhi Architect
     bio: >-
-      Dedicated to the creation of beauty, integration of art and architecture #buildingartistry #fightforbeauty #tokyo #vancouver #toronto #seattle
+      Architecture | Landscape | Design Halifax | Toronto | 2010
     location: "Canada"
-    followers: 30880
-    engagement: 77
-    commentsToLikes: 0.016027
-    id: ck6tph9exjuxy0j719bg2fr55
-    verified: false
-    hashtags: "#design, #vancouver, #architecture, #vancouverhouse"
-  - username: "kyleandcodesign"
+    followers: 76820
+    engagement: 124
+    commentsToLikes: 0.017451
+    id: ck5hkgx9tiecz0i11efh0ivcl
+    verified: true
+    hashtags: "#halifax, #model, #omargandhiarchitect, #design"
+  - username: "vsdesigninc"
     fullname: >-
-      Kyle & Co. Design Studio
+      𝕍&𝕊 𝔻𝕖𝕤𝕚𝕘𝕟 | Interior Design
     bio: >-
-      Servicing Edmonton,AB 📍 Full Service Design Studio www.kyleandcodesign.com
+      ▪️Bespoke Interior + Architectural Design Firm ▪️Aram Vakili + Ebad Shalchi ▪️Exclusively Featuring Our Portfolio ▪️Toronto Based, Globally Available
     location: "Canada"
-    followers: 6323
-    engagement: 683
-    commentsToLikes: 0.057964
-    id: ckap8xwhsqd530i78cdwiorsp
+    followers: 16281
+    engagement: 209
+    commentsToLikes: 0.037302
+    id: ckv8vj91u2piv0j23rgi9tbyp
     verified: false
-    hashtags: "#decoration, #designinspo, #yegrealestate, #yeggers"
-  - username: "gtahouses4sale"
+    hashtags: "#archidaily, #designs, #interi, #architect"
+  - username: "sarahpsmart"
     fullname: >-
-      Toronto & GTA Listings
+      Sarah Smart  Travel & Events
     bio: >-
-      Showcasing the GTA’s Current Listings #FORSALE Providing Top Exposure for GTA #REALTORS Daily. DM/Email For Feature To Get Your Listings Sold 🏡
+      📍Toronto 🌃 City girl 🌎 World Traveller 🎶 Concert Obsessed ✨DM for Collabs 👩‍💻 Blogger for WeChooseToday.com
     location: "Canada"
-    followers: 26992
-    engagement: 530
-    commentsToLikes: 0.009099
-    id: ck0uefbo4l72d0i1932ljomzp
+    followers: 10114
+    engagement: 333
+    commentsToLikes: 0.419843
+    id: ckyy1pgac0v4d0j23silqrcj8
     verified: false
-    hashtags: "#luxurylifestyle, #interiordesign, #homeinspo, #broker"
+    hashtags: "#torontohotel, #spaintravel, #toronto, #yyzfoodies"
   - username: "marc_koegel"
     fullname: >-
       Marc Koegel
@@ -79,52 +127,4 @@ profiles:
     id: ck5hfzd1503oe0i11n8a0hcfv
     verified: false
     hashtags: "#phaseonephoto, #blackandwhite, #harmonyoflight, #mediumformatmag"
-  - username: "creativemaazk"
-    fullname: >-
-      Maaz Khan
-    bio: >-
-      26|Filmmaker|Photographer|Cinematographer| 🎥📸 TIFF & IFFSA Screened Films 📍Toronto
-    location: "Canada"
-    followers: 6096
-    engagement: 812
-    commentsToLikes: 0.121100
-    id: ck6u9usmtzsgq0j71sc5a6hl8
-    verified: false
-    hashtags: "#travelblogger, #canada, #lovetoronto, #fujifilm"
-  - username: "theopenworkshop"
-    fullname: >-
-      THE OPEN WORKSHOP
-    bio: >-
-      Architecture x Territorial Environment San Francisco + Toronto Registered Architect in California 🇺🇸 & Ontario 🇨🇦 📖 👇🏽
-    location: "Canada"
-    followers: 28091
-    engagement: 155
-    commentsToLikes: 0.008311
-    id: ckaov30re2wrr0i78193umh8i
-    verified: false
-    hashtags: "#ccarts, #commoning, #ccaarchitecture, #biennalearchitettura2021"
-  - username: "sidafz"
-    fullname: >-
-      Sidrah | Toronto Blogger
-    bio: >-
-      Lifestyle & Travel blogger📍Toronto Sharing my child's autism journey Follow for kids inclusive activities Work with me: DM / 📧 siddyusman@gmail.com
-    location: "Canada"
-    followers: 13878
-    engagement: 115
-    commentsToLikes: 0.669998
-    id: cks8aqhhiupz50j23q90dq3w1
-    verified: false
-    hashtags: "#love, #torontocontentcreator, #muslimblogger, #canadianblogger"
-  - username: "irisy_8"
-    fullname: >-
-      Iris | Toronto Photographer
-    bio: >-
-      Exploring Toronto through my lens. @torontopixel @city__features #exploretoronto #shotbymi Live. Laugh. Love. 📷🐰 DM for inquiries.
-    location: "Canada"
-    followers: 9148
-    engagement: 3761
-    commentsToLikes: 0.148099
-    id: ck13976vqjvm60i19us2bl17s
-    verified: false
-    hashtags: "#streetleaks, #torontoclx, #creatingfromhome, #city"
 ---

@@ -1,12 +1,48 @@
 ---
-title: Top 10 Instagram Influencers In Ecuador In 2023
+title: Top 10 Instagram Influencers In Ecuador In 2024
 description: >-
-  Find top Instagram influencers in Ecuador in 2023. Most popular hashtags: #ecuador #photooftheday #instagood.
+  Find top Instagram influencers in Ecuador in 2024. Most popular hashtags: #ecuador #photooftheday #quito.
 platform: Instagram
-hits: 20
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 20 Instagram influencers like this in Ecuador for you to collaborate.
+hits: 18
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 18 Instagram influencers like this in Ecuador for you to connect with.
 profiles:
+  - username: "gioandrade_oficial"
+    fullname: >-
+      Giuliana Andrade
+    bio: >-
+      TikTok +2M ✨ Para publicidad al correo 💌👇 🔞👇🏻🙈
+    location: "Ecuador"
+    followers: 399108
+    engagement: 1500
+    commentsToLikes: 0.011217
+    id: ck0w4spu5084o0i19r8wbtbyd
+    verified: false
+    hashtags: "#playboy"
+  - username: "amelinaespinosa"
+    fullname: >-
+      AMELINA ESPINOSA
+    bio: >-
+      📺🎙 Tv&Radio Host 🎥ProductoraTv 🎤Presentadora eventos 👩🏻‍🎓Mtr. Com.Transmedia y Producción 🌎Traveler 📍Quito 🇪🇨Ambateña
+    location: "Ecuador"
+    followers: 37411
+    engagement: 214
+    commentsToLikes: 0.045053
+    id: ck136mf5477ja0i19inu39xwp
+    verified: false
+    hashtags: "#picoftheday, #reportaje, #fabricasecuador, #reeloftheday"
+  - username: "priscilacastrojara"
+    fullname: >-
+      Priscila Castro Jara
+    bio: >-
+      🕊 | Espiritualidad 🧘🏻‍♀️ | Sesiones de Bioneuroemoción® 🌈 | Ho’oponopono
+    location: "Ecuador"
+    followers: 724859
+    engagement: 190
+    commentsToLikes: 0.019389
+    id: ck0w1v4b7la5y0i19lpb96sex
+    verified: false
+    hashtags: "#heridas, #priscilacastrojara, #aquiyahora, #abundancia"
   - username: "6susanagonzalez"
     fullname: >-
       Susana González
@@ -19,6 +55,18 @@ profiles:
     id: ck0w6tv77aa030i19i3kye985
     verified: true
     hashtags: "#2023, #eldragadovaporqueva, #rayatoditititola6, #guayasrenacecontigo"
+  - username: "soyvicka"
+    fullname: >-
+      vicka
+    bio: >-
+      it’s me, hi! welcome to my world of color art-maker person 𝐚𝐫𝐭 𝐩𝐚𝐫𝐭𝐧𝐞𝐫 @its_diegoart
+    location: "Ecuador"
+    followers: 32268
+    engagement: 100
+    commentsToLikes: 0.016368
+    id: ck0w1g66uj6jg0i19lcvztbb7
+    verified: false
+    hashtags: "#drawing, #photoart, #illustrationartists, #illustration"
   - username: "solange_azuero"
     fullname: >-
       Solange Azuero🌻🥑
@@ -43,18 +91,6 @@ profiles:
     id: ck13aiyqzqlqi0i19ifmppa4y
     verified: false
     hashtags: "#aecuadorlosacamostodos, #juntosecuador, #porunecuadormejor, #mallvirtual"
-  - username: "gioandradecruz"
-    fullname: >-
-      Gio Andrade 🧜🏻‍♀️
-    bio: >-
-      La loca mas cool 🥴 Quito- Ecuador 🇪🇨 Sesiones y colab al DM
-    location: "Ecuador"
-    followers: 25179
-    engagement: 1332
-    commentsToLikes: 0.019028
-    id: ck0w4spu5084o0i19r8wbtbyd
-    verified: false
-    hashtags: "#monta"
   - username: "gianpieromusic"
     fullname: >-
       G I A N P I E R O
@@ -67,30 +103,6 @@ profiles:
     id: ck13adeuapu7d0i19fkfhf4et
     verified: false
     hashtags: "#grand, #efrainruales, #alfredito, #rosasrojas"
-  - username: "amelinaespinosa"
-    fullname: >-
-      Amelina Espinosa
-    bio: >-
-      🎥 Tv Host 📺 Reportera 🎤 Presentadora de eventos 🌎Traveler 🇪🇨 Ambateña 📍#Quito-#Ecuador
-    location: "Ecuador"
-    followers: 31433
-    engagement: 622
-    commentsToLikes: 0.037532
-    id: ck136mf5477ja0i19inu39xwp
-    verified: false
-    hashtags: "#picoftheday, #tbt, #quito, #news"
-  - username: "marecevallos"
-    fullname: >-
-      Mare Cevallos
-    bio: >-
-      Actriz de música y magia #endthestigma 🇪🇨
-    location: "Ecuador"
-    followers: 683334
-    engagement: 122
-    commentsToLikes: 0.008244
-    id: ck0w6u15uaaln0i19vlfbfekl
-    verified: false
-    hashtags: "#elteatrocci, #vivalabonita, #meduelesecuador"
   - username: "ricardovelastegui"
     fullname: >-
       Ricardo Velástegui
@@ -115,16 +127,4 @@ profiles:
     id: ck14itelqh2vy0i19dz6iu8uc
     verified: false
     hashtags: ""
-  - username: "art_cncoec"
-    fullname: >-
-      Eliana
-    bio: >-
-      Artist 20 ❤ Ecuador 🇪🇨
-    location: "Ecuador"
-    followers: 9949
-    engagement: 215
-    commentsToLikes: 0.018163
-    id: ck14i55vfdow10i199xsqiv9z
-    verified: false
-    hashtags: "#art, #artist, #artec, #drawing"
 ---

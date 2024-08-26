@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In Canada In 2023
+title: Top 10 Divers TikTok Influencers In Canada In 2024
 description: >-
-  Find top divers TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #canada #greenscreen #duet.
+  Find top divers TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #canada #duet #greenscreen.
 platform: TikTok
-hits: 196
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our database aggregates 196 TikTok influencers like this in Canada for you to work with.
+hits: 185
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 185 TikTok influencers like this in Canada for you to collaborate.
 profiles:
   - username: "thomasciprick"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.044119
     id: ckbez2dw6jwfc0j23a3fpkniv
     verified: false
-    hashtags: "#readinglist, #shadowandbone, #booktok, #reading"
+    hashtags: "#bookhaul, #booktok, #reading, #shadowandbone"
   - username: "jaxonsorchafenris"
     fullname: >-
       Jax

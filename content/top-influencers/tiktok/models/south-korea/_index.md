@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In South Korea In 2023
+title: Top 10 Models TikTok Influencers In South Korea In 2024
 description: >-
-  Find top models TikTok influencers in South Korea in 2023. Most popular hashtags: #model #foryou #fyp #trend.
+  Find top models TikTok influencers in South Korea in 2024. Most popular hashtags: #model #foryou #fyp #korea.
 platform: TikTok
 hits: 17
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 17 TikTok influencers like this in South Korea for you to contact.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 17 TikTok influencers like this in South Korea for you to collaborate.
 profiles:
   - username: "evan185_"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       Hi I'm Hayoung. I'm a pianist, composer, singer and a model. Nice to enter here♡
     location: "South Korea"
-    followers: 8975
-    engagement: 823
-    commentsToLikes: 0.143160
+    followers: 10500
+    engagement: 647
+    commentsToLikes: 0.116691
     id: ck9jzci2g84xk0j78b6giyzxt
     verified: false
-    hashtags: "#model, #foryou, #dance, #singer"
+    hashtags: "#model, #pianist, #funny, #dance"
   - username: "iamalexischang"
     fullname: >-
       Alexis 🧚‍♀️

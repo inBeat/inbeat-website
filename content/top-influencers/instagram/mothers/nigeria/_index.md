@@ -1,12 +1,24 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Nigeria In 2023
+title: Top 10 Mothers Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top mothers Instagram influencers in Nigeria in 2023. Most popular hashtags: #blackgirlmagic #photography #birthday.
+  Find top mothers Instagram influencers in Nigeria in 2024. Most popular hashtags: #teamnatural #naturalhair #reels.
 platform: Instagram
-hits: 22
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 22 Instagram influencers like this in Nigeria for you to contact.
+hits: 25
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 25 Instagram influencers like this in Nigeria for you to collaborate.
 profiles:
+  - username: "chinyereabang"
+    fullname: >-
+      Chichi | Lifestyle Content Creator
+    bio: >-
+      womanhood • motherhood • lifestyle 👧🏾Girl Mum x 3 🎓 YouTube Black Voices Class of '22 📩 workwithchinyereabang@gmail.com I share amazing stuff here 👇🏾
+    location: "Nigeria"
+    followers: 32613
+    engagement: 572
+    commentsToLikes: 0.065655
+    id: cl0drim7cgy930i23e21fdkly
+    verified: false
+    hashtags: "#blulagos, #mothersdaymemories, #loveandlaughter, #radissonbluanchoragehotel"
   - username: "hafizayahayabello"
     fullname: >-
       HAFIZA YAHAYA BELLO
@@ -67,64 +79,52 @@ profiles:
     id: ck8sx5utkg9gv0j78a7juirfg
     verified: false
     hashtags: "#nutraburst, #iasotea, #cwkgirls, #naturallyshesdope"
-  - username: "ovia_reflex"
+  - username: "ifyokoye1"
     fullname: >-
-      Nigeria Based Photographer
+      Ify Okoye | Beauty & Fashion
     bio: >-
-      Creative Director/ Photographer / Retoucher Bookings: Oviareflex3112@gmail.com WhatsApp: +2347055930290 Published Photographer Lightroom presets 🔗
+      Sharing Fashion & Beauty tips for my girlies 💁‍♀️ Promoting Afro Hair and Natural Nails Youtube - Ify Okoye TikTok - ify_okoye 📍Lagos, Nigeria
     location: "Nigeria"
-    followers: 15859
-    engagement: 556
-    commentsToLikes: 0.025037
-    id: ck0w0uiuag3n90i197bxelsvm
-    verified: false
-    hashtags: "#stylist, #blue, #beautyphotographer, #birthday"
-  - username: "nicole_riziki"
+    followers: 185740
+    engagement: 585
+    commentsToLikes: 0.042146
+    id: ck5q75n0o03d90i11oknei0qe
+    verified: true
+    hashtags: "#ifyschivitasstory, #whatsyourchivita, #ribenacheers, #festiveflavorswithribena"
+  - username: "itsthatezi"
     fullname: >-
-      Ziki Cole
+      Ezinne Chukwu A.
     bio: >-
-      Creative Designer 🎓Fashion and Interior design 📍Nairobi 🇰🇪 Illustrator @zikicole 🌿natural hair enthusiast God's child 🙏 ✉nikkyefex@gmail.com
+      Jesus❤️ Natural Hair 💁🏾 Dancer/singer🙈 Co-founder of @nkitidesigns @chinedu13 💍 Bouclème - EZI15 for 15% off
     location: "Nigeria"
-    followers: 7606
-    engagement: 1408
-    commentsToLikes: 0.011250
-    id: ckap9061bqng80i78grdtofus
+    followers: 25954
+    engagement: 1691
+    commentsToLikes: 0.044755
+    id: ck0w27rjjn0e60i19rl0waq62
     verified: false
-    hashtags: "#happymood, #melaninafrica, #beautifulsmiles, #muse"
-  - username: "khaleegraphy"
+    hashtags: "#blackhair, #naturalhairdaily, #natural, #4chair"
+  - username: "sola_adesakin"
     fullname: >-
-      DaNLaDi
+      Sola Adesakin | Finance & Wealth Coach |
     bio: >-
-      Portrait + Wedding Photographer We burn incense, drink tea and create beautiful portraits of people! @khaleegraphyweddings
+      Personal Finance—Make Manage Multiply Money FCA. FCCA. CPA. MBA.CFEI Lead Coach—@SmartStewards Founder—@fruitfoundation Author—8📚 Join—#smartstewards
     location: "Nigeria"
-    followers: 8348
-    engagement: 451
-    commentsToLikes: 0.065476
-    id: ck8szwbstpyde0j78f92o27na
+    followers: 106463
+    engagement: 190
+    commentsToLikes: 0.050870
+    id: cllrlx7fi1je90j080qjeh0jm
     verified: false
-    hashtags: "#instagood, #naijabeauty, #instatag, #africa"
-  - username: "ceracerni"
+    hashtags: "#leadership, #wealthbuilding, #makemoney, #abundancemindset"
+  - username: "doubledstwins"
     fullname: >-
-      Cera Cerni | Muralist
+      DAVEVO & DANNIELO
     bio: >-
-      MY DREAMS HAVE INSOMNIA..... THEY DON'T LET ME SLEEP ~ Cera Cerni Somewhere painting!!! ⚠ @ceracernis_arthub For Bookings Call: 08061176101
+      ▪️Founder: @ds.gamehouse ▪️ @dsexperiment | @ds_react Inquires: 📧 itdoubleds@gmail.com
     location: "Nigeria"
-    followers: 25247
-    engagement: 749
-    commentsToLikes: 0.077845
-    id: ck5pz1pmuyu3m0i11c2fl978b
+    followers: 273240
+    engagement: 136
+    commentsToLikes: 0.027312
+    id: ckapbzr3m1wxv0i78m1o1wy7k
     verified: false
-    hashtags: "#school, #wallmural, #art, #color"
-  - username: "hayoor"
-    fullname: >-
-      PHOTOGRAPHER || SHOOTMEHAYOOR
-    bio: >-
-      Beauty || Fashion || lifestyle || Events 📞 : 08147497239 📧 : Ayodeleadebunmi015@gmail.com
-    location: "Nigeria"
-    followers: 16177
-    engagement: 571
-    commentsToLikes: 0.066618
-    id: ck0w0vz1zgar60i198oda8ib1
-    verified: false
-    hashtags: "#explore, #lagosnigeria, #lagosphotographer, #explorepage"
+    hashtags: "#twins, #yabaleftonline, #dsexperiment, #twinsofinstagram"
 ---

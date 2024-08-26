@@ -1,12 +1,36 @@
 ---
-title: Top 10 Fitness Instagram Influencers In South Korea In 2023
+title: Top 10 Fitness Instagram Influencers In South Korea In 2024
 description: >-
-  Find top fitness Instagram influencers in South Korea in 2023. Most popular hashtags: #workout #fitness #diet.
+  Find top fitness Instagram influencers in South Korea in 2024. Most popular hashtags: #fitness #workout #diet.
 platform: Instagram
-hits: 59
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 59 Instagram influencers like this in South Korea for you to work with.
+hits: 63
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 63 Instagram influencers like this in South Korea for you to contact.
 profiles:
+  - username: "julienkang"
+    fullname: >-
+      줄리엔강
+    bio: >-
+      Fitness • Travel • Food • Life 🇰🇷🇫🇷🇨🇦
+    location: "South Korea"
+    followers: 118922
+    engagement: 295
+    commentsToLikes: 0.008698
+    id: ckaoy1e9tfnns0i783h3ykym3
+    verified: true
+    hashtags: "#workout, #tanning, #gym, #fitness"
+  - username: "euddeume_"
+    fullname: >-
+      심으뜸
+    bio: >-
+      contact📩 fitnessfm11@gmail.com @vivliv_official @__domdomi
+    location: "South Korea"
+    followers: 782265
+    engagement: 158
+    commentsToLikes: 0.009884
+    id: ckaosw6hxtadc0i78xirf6mhk
+    verified: true
+    hashtags: "#popup, #teslamodels, #coachkorea, #couragetobereal"
   - username: "wo.om"
     fullname: >-
       우미미🍑움쌤
@@ -79,30 +103,6 @@ profiles:
     id: ck5q2550nebge0i11tloacp7l
     verified: false
     hashtags: "#ebbetsfield, #merrychristmas"
-  - username: "freshnam219"
-    fullname: >-
-      Park Nam
-    bio: >-
-      Korean living in Jakarta🇮🇩🇰🇷 ICN Fitness Model World Champion🏆 Sports Instructor @humanbalance_indo Men of Ekle’s Clinic @eklesclinic_id
-    location: "South Korea"
-    followers: 69622
-    engagement: 209
-    commentsToLikes: 0.018716
-    id: ck5zytax5ahs90i14d7smo8is
-    verified: false
-    hashtags: "#reelsindonesia, #workout, #reels, #stayhomechallenge"
-  - username: "nam_yeo_couple"
-    fullname: >-
-      
-    bio: >-
-      #fitness #travel #lovestagram
-    location: "South Korea"
-    followers: 6735
-    engagement: 154
-    commentsToLikes: 0.025337
-    id: ck6u84togpfxv0j71kbvscy22
-    verified: false
-    hashtags: "#cardio, #lovetotravel"
   - username: "nana_koreazes"
     fullname: >-
       NANA_KoreaZES

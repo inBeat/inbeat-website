@@ -1,24 +1,24 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Portugal In 2023
+title: Top 10 Architecture Instagram Influencers In Portugal In 2024
 description: >-
-  Find top architecture Instagram influencers in Portugal in 2023. Most popular hashtags: #architecture #nature #ig #travelphotography.
+  Find top architecture Instagram influencers in Portugal in 2024. Most popular hashtags: #architecture #ig #portugal #travel.
 platform: Instagram
-hits: 29
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 29 Instagram influencers like this in Portugal for you to work with.
+hits: 28
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 28 Instagram influencers like this in Portugal for you to pitch.
 profiles:
-  - username: "joanafneves"
+  - username: "gracinhaviterbo"
     fullname: >-
-      Joana Neves
+      Gracinha Viterbo
     bio: >-
-      📍 Lisbon, Portugal 🎓 Architecture & Urban Planning 📩 General inquiries or collaborations: lara@next.pt
+      A Human being. Work➡️Interior Architecture + custom-made interiors @viterbo_interior_design -Mom of 4+Practice positive education Book:{LIFEstyle}
     location: "Portugal"
-    followers: 35292
-    engagement: 184
-    commentsToLikes: 0.013751
-    id: ck6twykmfuu800j71swdkmp1y
+    followers: 52789
+    engagement: 76
+    commentsToLikes: 0.036886
+    id: ck5hdl1y7o0kj0i11lurqgiz5
     verified: false
-    hashtags: "#lisbonrestaurants, #snaptasteapp, #ad, #botichallenge"
+    hashtags: "#viterbo, #interiordesignportugal, #portugueseinteriors, #gracinhaviterbo"
   - username: "ceulemansfabian"
     fullname: >-
       Fabian Ceulemans
@@ -49,24 +49,36 @@ profiles:
     bio: >-
       Architecture - Barcelona - New York
     location: "Portugal"
-    followers: 34428
-    engagement: 549
-    commentsToLikes: 0.012570
+    followers: 36278
+    engagement: 622
+    commentsToLikes: 0.016888
     id: ck5q6sbguyn6w0i11jpxhn7fh
     verified: false
-    hashtags: "#model, #dogma, #catherinemosbach, #tttt"
-  - username: "adriano.fy"
+    hashtags: "#tttt, #housing, #workinprogress, #model"
+  - username: "worldarchitectureinterior"
     fullname: >-
-      Adriano Batista
+      Interior Design
     bio: >-
-      Editor-in-chief of @fuuuckingyoung magazine & Fashion Editor of @veinmagazine. 🙈 📍Barcelona
+      | Founder @vedrankustura | Architect | + @worldarchitecturedesign | DM/Email for collaboration I | worldinteriorgram@gmail.com |
     location: "Portugal"
-    followers: 15380
-    engagement: 544
-    commentsToLikes: 0.017924
-    id: ck14jovlzlg6k0i193682yx0b
+    followers: 548291
+    engagement: 190
+    commentsToLikes: 0.024239
+    id: ck5hjsftjh6an0i11jb5fu8if
     verified: false
-    hashtags: "#canaryislands, #marlosaalmink, #richbrian, #lisbon"
+    hashtags: "#interiores, #interiorinspiration, #arquitecturadeinteriores, #vogueliving"
+  - username: "themarquesworld"
+    fullname: >-
+      John Marques
+    bio: >-
+      ⁣Founder & Creative behind @themarquesofficial Marketing Strategist @beamphora 📍 Barcelona
+    location: "Portugal"
+    followers: 80282
+    engagement: 6
+    commentsToLikes: 0.000161
+    id: ck0ub0zwwdfm20i193ril2bip
+    verified: false
+    hashtags: "#boutiquehotels, #architecture, #barcelona, #travel"
   - username: "luisa_berger"
     fullname: >-
       Luisa Berger
@@ -79,18 +91,18 @@ profiles:
     id: ck8swubzof9oj0j78rmsq3bjb
     verified: false
     hashtags: "#learnminimalism, #minimalistgrammer, #shutterspoetry, #architecture"
-  - username: "travelmemories.rm"
+  - username: "morfeum"
     fullname: >-
-      Rui Medeiros
+      Pedro | neo-Cosmic Minimalism
     bio: >-
-      ● Physics & Chemistry Teacher ☢ ● Travel Addicted 🛫 ● Photo Lover 📷 ● From Azores, Portugal 🇵🇹 ● All pictures are mine
+      📍Lisboa | Instiesgerador 2021 “Best instagrammer” award |📱Huawei ambassador | #rsa_minimal member | 📚 Check my new book here:
     location: "Portugal"
-    followers: 11394
-    engagement: 1548
-    commentsToLikes: 0.040784
-    id: ck9hay490ek850j78jh2amqkt
+    followers: 8232
+    engagement: 686
+    commentsToLikes: 0.202228
+    id: ck5zplhiesvd60i148p8mv9s0
     verified: false
-    hashtags: "#shooters, #naturecolors, #ocean, #portugaldenorteasul"
+    hashtags: "#nicanorgarcia, #architecture, #arquitectura, #p40pro"
   - username: "gina_zaf"
     fullname: >-
       Gina_Zafeiroudi🍑
@@ -103,28 +115,16 @@ profiles:
     id: ck5pw20rlkpx20i116j9l419h
     verified: false
     hashtags: "#travellingthroughtheworld, #streets, #architecture, #streetphotography"
-  - username: "myinspireproject"
+  - username: "super_lisboa"
     fullname: >-
-      Andrew▪Luxury▪Travel▪Lifestyle
+      Lisboa ✦ Lisbon ✦ SUPER LISBOA
     bio: >-
-      ▪ 1st @influencerawardsmonaco Finalist (2018) 🏆 ▪︎ 🥂 Excel The Art of Living 💠 ▪📍 #Greece 🇬🇷
+      ◎ inspire and be inspired ◎ tag #Super_Lisboa #Lisboa #Lisbon ◎ affiliated @superhubs ◉ World’s Leading City Destination 2018
     location: "Portugal"
-    followers: 182242
-    engagement: 141
-    commentsToLikes: 0.019109
-    id: ck0tzy4dhry970i19d593wsd6
+    followers: 89278
+    engagement: 418
+    commentsToLikes: 0.006116
+    id: ck8sxqtaoibo90j78ma7ze84u
     verified: false
-    hashtags: "#foodie, #lifestyleblogger, #summerlook, #hotspot"
-  - username: "worldarchitectureinterior"
-    fullname: >-
-      Interior Design
-    bio: >-
-      | Founder @vedrankustura | Architect | + @worldarchitecturedesign | worldinteriorgram@gmail.com |
-    location: "Portugal"
-    followers: 176274
-    engagement: 477
-    commentsToLikes: 0.006141
-    id: ck5hjsftjh6an0i11jb5fu8if
-    verified: false
-    hashtags: "#architecturelovers, #interior4you, #interiordecor, #maison"
+    hashtags: "#lisboa, #alfama, #super, #lisbon"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In South Africa In 2023
+title: Top 10 Health TikTok Influencers In South Africa In 2024
 description: >-
-  Find top health TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #foryou #foryoupage #tiktoksa.
+  Find top health TikTok influencers in South Africa in 2024. Most popular hashtags: #fyp #foryou #foryoupage #duet.
 platform: TikTok
 hits: 25
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 25 TikTok influencers like this in South Africa for you to pitch.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 25 TikTok influencers like this in South Africa for you to collaborate.
 profiles:
   - username: "vintage_doll"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.059912
     id: ckbkxz3f3u4to0j23q35zvek1
     verified: true
-    hashtags: "#lilnasx, #fyp, #bellamonsoon, #risingvoices"
+    hashtags: "#tiktoksa, #creativemakeup, #fyp, #callmebyyourname"
   - username: "life_with_lerato"
     fullname: >-
       Life_with_Lerato

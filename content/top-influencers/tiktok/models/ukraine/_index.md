@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Ukraine In 2023
+title: Top 10 Models TikTok Influencers In Ukraine In 2024
 description: >-
-  Find top models TikTok influencers in Ukraine in 2023. Most popular hashtags: #model #girls #beautiful #fashion.
+  Find top models TikTok influencers in Ukraine in 2024. Most popular hashtags: #model #girls #beautiful #love.
 platform: TikTok
 hits: 12
 text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat has 12 TikTok influencers like this in Ukraine for you to collaborate.
+text_bottom: Our platform has 12 TikTok influencers like this in Ukraine for you to work with.
 profiles:
   - username: "kintiger7"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.006446
     id: ck8qmjrt1qhfm0j78obospd19
     verified: false
-    hashtags: "#fyp, #foryoupage, #fup, #xyzcba"
+    hashtags: "#foryoupage, #fup, #fyp, #panicroom"
   - username: "kotova75"
     fullname: >-
       Аннета

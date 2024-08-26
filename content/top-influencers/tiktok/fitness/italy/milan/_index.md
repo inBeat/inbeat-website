@@ -1,24 +1,12 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Milan In 2023
+title: Top 10 Fitness TikTok Influencers In Milan In 2024
 description: >-
-  Find top fitness TikTok influencers in Milan in 2023. Most popular hashtags: #fitness #milano #gym #foryou.
+  Find top fitness TikTok influencers in Milan in 2024. Most popular hashtags: #fitness #milano #perte #milan.
 platform: TikTok
 hits: 13
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 13 TikTok influencers like this in Milan, Italy for you to contact.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 13 TikTok influencers like this in Milan, Italy for you to pitch.
 profiles:
-  - username: "timeless.production"
-    fullname: >-
-      Timeless Production
-    bio: >-
-      🎥 Videomaker 📩 timeless.produzioni@gmail.com IG: @timeless.production
-    location: "Italy"
-    followers: 21400
-    engagement: 806
-    commentsToLikes: 0.014587
-    id: ck901ycj8bynv0j78j9xgxkkr
-    verified: false
-    hashtags: "#shooting, #streetvideo, #fashion, #timelessproduction"
   - username: "francesca.pezzano"
     fullname: >-
       𝐅𝐑𝐀𝐍𝐂𝐄𝐒𝐂𝐀
@@ -54,7 +42,7 @@ profiles:
     commentsToLikes: 0.007445
     id: ck8f8vjo63mkk0j78jjed68rf
     verified: false
-    hashtags: "#macro, #flattummyapp, #summer, #homeworkout"
+    hashtags: "#macro, #ad, #homeworkout, #eyes"
   - username: "calis_mata"
     fullname: >-
       Tommaso Mata
@@ -115,6 +103,18 @@ profiles:
     id: ck9f9csc368yt0j78vb4njeaq
     verified: false
     hashtags: "#vitadicoppiacomedy, #maritoemogliecomedy, #maritoemoglie, #italiangirl"
+  - username: "timeless.production"
+    fullname: >-
+      Timeless Production
+    bio: >-
+      🎥 Videomaker 📩 timeless.produzioni@gmail.com IG: @timeless.production
+    location: "Italy"
+    followers: 21400
+    engagement: 806
+    commentsToLikes: 0.014587
+    id: ck901ycj8bynv0j78j9xgxkkr
+    verified: false
+    hashtags: "#milano, #fashionvideo, #glamour, #roma"
   - username: "behrangyoga"
     fullname: >-
       Behrang Danesh Eshraghi 

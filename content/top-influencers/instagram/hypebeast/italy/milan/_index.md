@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Milan In 2023
+title: Top 10 Hypebeast Instagram Influencers In Milan In 2024
 description: >-
-  Find top hypebeast Instagram influencers in Milan in 2023. Most popular hashtags: #hypebeast #fashion #hype #photography.
+  Find top hypebeast Instagram influencers in Milan in 2024. Most popular hashtags: #hypebeast #fashion #hype #streetwear.
 platform: Instagram
-hits: 21
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 21 Instagram influencers like this in Milan, Italy for you to collaborate.
+hits: 23
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 23 Instagram influencers like this in Milan, Italy for you to work with.
 profiles:
   - username: "rickoschwartz"
     fullname: >-
@@ -43,6 +43,18 @@ profiles:
     id: ckf5mkw37uagp0j235j2gtpxy
     verified: false
     hashtags: "#goexplore, #camerapixels, #gameoftones, #citygrammers"
+  - username: "tbhnoemi"
+    fullname: >-
+      NOEMI MIRRA
+    bio: >-
+      qualcuno dice che mi piacciono le scarpe fashion communication student ✉️ @zerozero.mgmt Milan, Italy mi trovi anche qua:
+    location: "Italy"
+    followers: 26552
+    engagement: 11
+    commentsToLikes: 0.000692
+    id: ck6ugc4yi256q0j71j2z9qgoh
+    verified: false
+    hashtags: "#houseofheat, #sneakerfreaker, #summerstreetwear, #highsnobietysneakers"
   - username: "giulia.debernardi"
     fullname: >-
       JULIET
@@ -115,16 +127,4 @@ profiles:
     id: ckaosxli5th7a0i78kib667t8
     verified: false
     hashtags: "#hypebae, #design, #ikea, #home"
-  - username: "rich_kids_milano"
-    fullname: >-
-      Rich_kids_milano
-    bio: >-
-      -RICH | MILANO | LIFE | STYLE | CARS| 👻snap :Richkidsmilano 📥DM for promo follow richkidsmilano follow Follower by Richkidsmilano
-    location: "Italy"
-    followers: 35794
-    engagement: 840
-    commentsToLikes: 0.015110
-    id: ck8t46u1d5pc30j780ycks9q4
-    verified: false
-    hashtags: "#tirana, #dollar, #view, #dollars"
 ---

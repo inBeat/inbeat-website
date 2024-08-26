@@ -1,24 +1,36 @@
 ---
-title: Top 10 Vegan Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Vegan Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top vegan Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #mydubai #vegan #dubai #love.
+  Find top vegan Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #vegan #dubai #reels #dubaiblogger.
 platform: Instagram
-hits: 21
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 21 Instagram influencers like this in United Arab Emirates for you to connect with.
+hits: 31
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 31 Instagram influencers like this in United Arab Emirates for you to connect with.
 profiles:
-  - username: "joyfulhomecooking"
+  - username: "rinkipamnani3"
     fullname: >-
-      Joyce Nicolas Mrad
+      R I N K I  P A M N A N I
     bio: >-
-      👩🏻‍🍳Happy, healthy cooking in my Dubai kitchen 😋Beautiful food that puts a smile on your face 💗Gluten, dairy & sugar free |Vegan |Paleo 🍴Food stylist
+      🇦🇪 | Tiktok : ritu.rinki 🌟 TWIN 1 to @ritupamnani 👭🏻 Fashion | Beauty | ME 🎥 #VEGAN 🌱 💌 | Pamnanirinky@gmail.com 👭 | ritu.rinki.pr@gmail.com
     location: "United Arab Emirates"
-    followers: 71920
-    engagement: 308
-    commentsToLikes: 0.077204
-    id: ck138wefhicbv0i19f898cdo1
+    followers: 492332
+    engagement: 57
+    commentsToLikes: 0.017571
+    id: ck5zoa9uxq3vu0i14jaioszy6
     verified: false
-    hashtags: "#veganinspo, #thenewhealthy, #plantbased, #foodporn"
+    hashtags: "#fashion, #reels, #beauty, #makeup"
+  - username: "missmaisaa"
+    fullname: >-
+      Maisa | Fashion Beauty Travel
+    bio: >-
+      🍉✌🏾🇨🇦 📍UAE It cost $0.00 to be kind Fashion & beauty hacker Vegan 🌱🦾cuz it’s a win win for all🐣🏋️‍♀️🌎🫀 Be the 🅴🅽🅴🆁🅶🆈 you want to attract💫
+    location: "United Arab Emirates"
+    followers: 85163
+    engagement: 24
+    commentsToLikes: 0.000210
+    id: ck0w4wji80r800i19r3o1c9cj
+    verified: false
+    hashtags: "#freepalestine, #nailart, #abudhabinails, #greece"
   - username: "peacelovenegin"
     fullname: >-
       Negin
@@ -31,42 +43,54 @@ profiles:
     id: ck6uarfnp57gv0j7153gqs3c0
     verified: false
     hashtags: "#balilife, #beatsteppro, #technomusic, #travelling"
-  - username: "rinkipamnani3"
+  - username: "healthy___bites"
     fullname: >-
-      R I N K Y   P A M N A N I
+      Payal Mittal
     bio: >-
-      -. --- .-- 📍Dubai | #Vegan 🌱 ☕️Tea Lover 🆕 YOUTUBE 👇🏻 💌 Pamnanirinky@gmail.com
+      Dubai UAE 🇦🇪 Hometown: Shamgarh (M.P.)India🇮🇳 #proudvegetarian 🍃🍃🍃 💚💚💚 DM for invites/collabs/reviews 📧-payalmittal004@gmail.com
     location: "United Arab Emirates"
-    followers: 118702
-    engagement: 118
-    commentsToLikes: 0.079389
-    id: ck5zoa9uxq3vu0i14jaioszy6
+    followers: 608631
+    engagement: 587
+    commentsToLikes: 0.006658
+    id: ck6u26nxaq13t0j7114xovfby
     verified: false
-    hashtags: "#beauty, #mydubai, #love, #hotairballoon"
-  - username: "myprdiaries"
+    hashtags: "#foodforthought, #halwa, #reelindia, #instafood"
+  - username: "joyfulhomecooking"
     fullname: >-
-      Bijal Soni
+      Joyce Mrad
     bio: >-
-      Head, Social & Community @shopsivvi Ex @namshi Partner @feyrejewelry @hala_social Happiness. Travel. Wellness. Vegan soul 🌱 Dubai 🇦🇪
+      👩🏻‍🍳Passionate self-taught cook 🍰Food architect creating edible masterpieces ✨Infusing joy into every creation 📷Food Stylist & Photographer 📍Dubai
     location: "United Arab Emirates"
-    followers: 32024
+    followers: 408508
+    engagement: 1362
+    commentsToLikes: 0.042162
+    id: ck138wefhicbv0i19f898cdo1
+    verified: false
+    hashtags: "#pastry, #healthydessert, #recipe, #plantpower"
+  - username: "itsconorkenny"
+    fullname: >-
+      Conor Kenny
+    bio: >-
+      🇬🇧UK 🇨🇮IRL 🇿🇦SA 🇦🇪UAE ⏳Crypto YouTuber & Investor 🔥Stunt Man w/ British Stunt Register 📩 I will never DM for any investment. EVER.
+    location: "United Arab Emirates"
+    followers: 30244
+    engagement: 53
+    commentsToLikes: 0.098013
+    id: ck8wg88ewgw840j780kp7ft8k
+    verified: false
+    hashtags: "#plantbased, #veganboy, #travelling, #crypto"
+  - username: "petites_choses"
+    fullname: >-
+      Yasmine Idriss Tannir
+    bio: >-
+      Culinary Explorer | Recipe Developer 🇱🇧 | 🇦🇪 Pop up bakery @petitekitchendxb www.petites-choses.com
+    location: "United Arab Emirates"
+    followers: 114598
     engagement: 52
-    commentsToLikes: 0.057880
-    id: ck5zkobbvjuka0i14irrhdgkl
+    commentsToLikes: 0.114807
+    id: ckap9rs88te6y0i78h6lvnmky
     verified: false
-    hashtags: "#dubaiblogger, #mindset, #quoteoftheday, #travelblogger"
-  - username: "bilalmehsen"
-    fullname: >-
-      BILAL  MEHSEN
-    bio: >-
-      📍DUBAI PASSIONATE ABOUT LUXURY BRANDS , STYLE , TRAVEL & FITNESS LIFE.
-    location: "United Arab Emirates"
-    followers: 27725
-    engagement: 449
-    commentsToLikes: 0.120846
-    id: ckap8o2cpp7650i78j964gf3u
-    verified: false
-    hashtags: "#birkenstocknaturalskincare, #styled, #dubai, #fit"
+    hashtags: "#galette, #dairyfree, #easybaking, #glutenfree"
   - username: "odia_uae_foodie"
     fullname: >-
       Subhasree - Dubai Blogger
@@ -79,18 +103,6 @@ profiles:
     id: ckapbuv291d250i78cedndv6a
     verified: false
     hashtags: "#dubaifoodblogger, #fa, #food, #dubai"
-  - username: "oatsandthyme"
-    fullname: >-
-      ＭＡＨＡ M K
-    bio: >-
-      Stories from my home 🌴 ⠀⠀⠀⠀ 🌿 90% PLANT-BASED 🧘🏻‍ WELLBEING 〰 MINIMALIST LOVER 🍵 TEAHOLIC 👸🏻 Founder @pinkygoatlashes 📍 DUBAI, UAE
-    location: "United Arab Emirates"
-    followers: 111735
-    engagement: 130
-    commentsToLikes: 0.108186
-    id: ckaouu1p71tl90i78bhyqkgb1
-    verified: false
-    hashtags: "#dubaifood, #teawithmaha, #oatsandthyme, #avocado"
   - username: "cookingwithralph"
     fullname: >-
       UAE Blogger - Ralph
@@ -103,28 +115,16 @@ profiles:
     id: ckf5nufsszq450j23yrgr1jov
     verified: false
     hashtags: "#foodstagram, #foodlover, #foodgram, #photooftheday"
-  - username: "satisfieddubai"
+  - username: "divsglam"
     fullname: >-
-      Satisfied Dubai
+      Divya
     bio: >-
-      I’m not an influencer! I’m just a greedy foodie who loves taking & sharing lots of 📸’s 😂 CONTENT CREATOR | FOODIE 🍲 🌎 🍴 Facebook, Snapchat & Tiktok
+      🇮🇳 living in 🇦🇪 A makeup obsessed girlie 💄eating her way in Dubai 🍜and traveling the world ✈️ Influencer marketer 👩‍💻
     location: "United Arab Emirates"
-    followers: 85686
-    engagement: 88
-    commentsToLikes: 0.044555
-    id: ck0w6dtjx83wz0i194pxlzyjs
+    followers: 8798
+    engagement: 434
+    commentsToLikes: 0.052163
+    id: ck0w5yyqt63wf0i19rvjgig4v
     verified: false
-    hashtags: "#dubairestaurants, #dubaimall, #trendingreels, #satisfieddubai"
-  - username: "themandarinegirl"
-    fullname: >-
-      Daisy🍷 Travel & Lifestyle
-    bio: >-
-      Mykonos🔜Mallorca, Cannes
-    location: "United Arab Emirates"
-    followers: 98145
-    engagement: 267
-    commentsToLikes: 0.112523
-    id: ck8taf4vmri8n0j78xrm9fxeo
-    verified: false
-    hashtags: "#bohostyle, #bohofashion, #munich, #ootd"
+    hashtags: "#beach, #adventure, #nepal, #dubaitravel"
 ---

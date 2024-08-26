@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Australia In 2023
+title: Top 10 Fashion Instagram Influencers In Australia In 2024
 description: >-
-  Find top fashion Instagram influencers in Australia in 2023. Most popular hashtags: #ad #reels #sponsored.
+  Find top fashion Instagram influencers in Australia in 2024. Most popular hashtags: #modestfashion #reelitfeelit #partner.
 platform: Instagram
-hits: 590
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 590 Instagram influencers like this in Australia for you to collaborate.
+hits: 1058
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 1058 Instagram influencers like this in Australia for you to work with.
 profiles:
-  - username: "itsjohnnymagz"
+  - username: "alpendlebury"
     fullname: >-
-      Johnny Magz
+      Alex Pendlebury
     bio: >-
-      Here to have Fun show you how to Stay Young and show you how Fashion is Done 😘 😸Daddy to @life_of_calliee 🏷 J&J Closet
+      Mum 👨‍👩‍👧‍👦❤️ Presenter, nutrition, fitness, fashion, travel☀️ 📧Matthew @chadwickmodels .com BScFood&Nutrition
     location: "Australia"
-    followers: 32832
-    engagement: 1110
-    commentsToLikes: 0.044257
-    id: ck5pwlevtndcd0i11a1p4sbyj
+    followers: 112991
+    engagement: 485
+    commentsToLikes: 0.008146
+    id: ck0txbzfbio1x0i19f710v5df
     verified: false
-    hashtags: "#instagay, #gaypride, #gayfollow, #gayusa"
-  - username: "love.christina.xo"
+    hashtags: "#sixsensesfiji, #outoftheordinary, #partner, #eatwithsixsenses"
+  - username: "fakhiaarif"
     fullname: >-
-      ✨Christina✨
+      Fakhia Arif
     bio: >-
-      🌟Digital creator & photographer 💫Travel, fashion, beauty, health & lifestyle ✨WINK model: info@winkmodels.com.au or hello@lovechristinaxo.com
+      ksa | ind | sydney, au📍 modest fashion & life 💌 fakhiaarif@gmail.com
     location: "Australia"
-    followers: 280068
-    engagement: 382
-    commentsToLikes: 0.080138
-    id: ck13c84lqz1y50i192xk9bkvq
+    followers: 42038
+    engagement: 1536
+    commentsToLikes: 0.017163
+    id: ck8t7jhkuh1e70j782yq53oh2
     verified: false
-    hashtags: "#wearingtoday, #macquariepassnationalpark, #outfitshot, #editorialfashion"
-  - username: "she.isamy"
+    hashtags: "#hijabiblogger, #ceasefirenow, #hijabifashion, #modestfashion"
+  - username: "emilie"
     fullname: >-
-      Amy
+      Emilie Fife
     bio: >-
-      Content creator ✨ Beauty. Fashion. Travel DM or email to work together 🤍
+      a new yorker in sydney previously fashion at @instagram, @cfda, @thewallgroup lover of polka dots
     location: "Australia"
-    followers: 33828
-    engagement: 288
-    commentsToLikes: 0.300074
-    id: ck0w0n5ovf1ul0i19gwdrag4c
+    followers: 18074
+    engagement: 532
+    commentsToLikes: 0.021711
+    id: ck5hpex4wr8sq0i11a0iw8bow
     verified: false
-    hashtags: "#mynaturealbase, #nudebynaturepartner, #ad, #zenasalonexperience"
-  - username: "sabinamx"
+    hashtags: "#ttyl, #podcastcommunity, #podcastnetwork, #podcastclips"
+  - username: "yasssminjay"
     fullname: >-
-      Sabina Mx
+      Yasmin Jamaleddine
     bio: >-
-      FASHION | TRAVEL | INSPO 📍 Brisbane, Australia 📧 sabinamx@outlook.com 🤍 From Germany
+      Fashion Designer @yasminjaythelabel 📍Sydney AU // Collaborations 💌 Modest Fashion Fusing Middle East & West
     location: "Australia"
-    followers: 6933
-    engagement: 583
-    commentsToLikes: 0.152012
-    id: ck8tbmepew8f40j78dxmxkt9r
+    followers: 204012
+    engagement: 722
+    commentsToLikes: 0.019936
+    id: ck5hle953k29h0i11bbrklacf
     verified: false
-    hashtags: "#mejuri, #mejuripartner"
-  - username: "katiestaffordd"
+    hashtags: "#umrah, #palestine, #blackfriday, #modestfashion"
+  - username: "kara_aus"
     fullname: >-
-      Katie | Style & Fashion
+      KARA | Import Model • Cars • Sydney Australia
     bio: >-
-      Lover of good clothes, a good handbag and good wine. Blogger - Fashion - Feminine Style Melbourne - Australia Contact/Email👇🏼 B.B 🤍
+      Australian model in Sydney Australia passionate about cars, automotive events & fashion Sharing her lifestyle as an import model at car events
     location: "Australia"
-    followers: 11955
-    engagement: 632
-    commentsToLikes: 0.210953
-    id: ck13a5esfopze0i19fsbbs2t6
+    followers: 16882
+    engagement: 593
+    commentsToLikes: 0.020696
+    id: ck14lmkqfvf4m0i19logfnzgc
     verified: false
-    hashtags: "#asistylist"
-  - username: "ateaspoonofstyle"
+    hashtags: "#australiangirl, #babesofinsta, #australianinfluencer, #schassisloyalty"
+  - username: "isobel_larkin"
     fullname: >-
-      Tanaka Tarou
+      Isobel Larkin
     bio: >-
-      👦 Short Asian trying to be stylish but really just eating away his feelings 📷 Lifestyle/Fashion/Food/Content Creation 📍 SYD,🇦🇺 ✉️DM or Email to collab
+      Freelance fashion & beauty editor, bride-to-be, dreamer 🤍 @the_glowfiles hello@isobellarkin.com Gadigal land | Sydney
     location: "Australia"
-    followers: 30201
-    engagement: 175
-    commentsToLikes: 0.218128
-    id: ck15seuspcnp30i19ut0843ge
+    followers: 8083
+    engagement: 408
+    commentsToLikes: 0.192717
+    id: cl3w8z5cncovq0i23h94v850l
     verified: false
-    hashtags: "#doughnuts, #flatlays, #smashedavo, #beautifulcuisines"
-  - username: "erika.dwyer"
+    hashtags: "#summer2023, #europeansummer, #shonajoy, #sydneystyle"
+  - username: "paulpayasalad"
     fullname: >-
-      Erika Dwyer
+      Thirapat Ekbundit
     bio: >-
-      📍Brisbane, Australia | Fashion & Lifestyle ✨ Training at @plc_albion 🏋️‍♀️ TikTok 🎥: erika.dwyer Watch my latest YouTube video ⬇️
+      Fashion, home decor, food and travel around 🇦🇺 📧 gday@huume.com.au ﹏﹏
     location: "Australia"
-    followers: 30909
-    engagement: 1239
-    commentsToLikes: 0.021223
-    id: ck0w136qehc490i193p3vskwx
+    followers: 50945
+    engagement: 448
+    commentsToLikes: 0.009509
+    id: ck0ttrl5440le0i190hh9a3nl
     verified: false
-    hashtags: "#tiktokfashion, #instagramreels, #styletips, #fashionreels"
-  - username: "eviemareee"
+    hashtags: "#spon, #danielwellingtonau, #dwau, #danielwellington"
+  - username: "milesfyfe__"
     fullname: >-
-      Evie McClelland
+      Miles 🦋
     bio: >-
-      Model | Content | Fashion Australia @daisyandchains Tiktok @eviemareee evie.mcclelland@hotmail.com
+      MOTHERHOOD | KIDS | FASHION | MENTAL HEALTH 🦋 real motherhood 🦋 four kids 👧🏼👧🏼👧🏼👦💍 MELBOURNE VIC - DM TO COLLAB
     location: "Australia"
-    followers: 35147
-    engagement: 117
-    commentsToLikes: 0.090285
-    id: ck0vvd8msom140i19vv65dnqp
+    followers: 40346
+    engagement: 2348
+    commentsToLikes: 0.086638
+    id: clnhuj1emij530j08tbchu5aa
     verified: false
-    hashtags: "#whitsundays, #mcobeautycherry, #mcobeauty, #glassons"
-  - username: "fabulizeyourlife"
+    hashtags: "#reelvideo, #reels, #mumlife, #honestmum"
+  - username: "ughsy"
     fullname: >-
-      Trishi
+      siew yong 🤍
     bio: >-
-      👗 Fashion Lover 💄 Lipstick Lover 🧩 Inner Health 📸 Selfie Queen 💯 Mover & Shaker #fabulizeyourlife
+      Singapore 🇸🇬 | Fashion, Beauty & Lifestyle 👩🏻‍🎓NTU Banking & Finance 💌: ughsy00@gmail.com 🎥 TikTok: ughsy (38K)
     location: "Australia"
-    followers: 128696
-    engagement: 215
-    commentsToLikes: 0.054496
-    id: ck0vx3s6xwzvj0i19om4i3owm
+    followers: 56769
+    engagement: 2619
+    commentsToLikes: 0.009842
+    id: clmumxct6l79p0j08uxk8chi7
     verified: false
-    hashtags: "#outfitselfie, #fabulizeyourlife, #bossbabe, #tshirtcouture"
-  - username: "macarenapaz.xo"
+    hashtags: "#sg, #sgig, #trending, #trendingreels"
+  - username: "pippuveendran"
     fullname: >-
-      Macarena
+      Pip Puveendran
     bio: >-
-      🤍On a Self love journey #Melbourne 🧿Fashion | Lifestyle | Travel | Motherhood Represented by @vive_management Collab-contact@vivemanagement.com.au
+      look & feel your best 💪🏾 👨🏽‍🦱 fashion | hair | lifestyle 📩 pippuveendran@gmail.com 👇🏽 to learn more about UP Express
     location: "Australia"
-    followers: 32327
-    engagement: 284
-    commentsToLikes: 0.126289
-    id: ck138kandgn5w0i19v036t07c
+    followers: 15028
+    engagement: 443
+    commentsToLikes: 0.087433
+    id: cl0ir9uf1k8ks0i23is6885tr
     verified: false
-    hashtags: "#statusanxietypartner, #mahlithelabel, #ad, #choosekynd"
+    hashtags: "#menscurlyhair, #menshair, #toronto, #fallfashion"
 ---

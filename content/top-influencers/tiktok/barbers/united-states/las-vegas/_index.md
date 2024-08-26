@@ -1,24 +1,24 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Las Vegas In 2023
+title: Top 10 Barbers TikTok Influencers In Las Vegas In 2024
 description: >-
-  Find top barbers TikTok influencers in Las Vegas in 2023. Most popular hashtags: #duet #fyp #lasvegas.
+  Find top barbers TikTok influencers in Las Vegas in 2024. Most popular hashtags: #fyp #duet #lasvegas.
 platform: TikTok
-hits: 4
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 4 TikTok influencers like this in Las Vegas, United States for you to pitch.
+hits: 5
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 5 TikTok influencers like this in Las Vegas, United States for you to pitch.
 profiles:
-  - username: "doc_egemba"
+  - username: "joker_pinkmask"
     fullname: >-
-      doc_egemba
+      🃏😇J0K3R💀😂
     bio: >-
-      Doctor’s Office... I hope you have an appointment 🧐 https://youtu.be/rPQPgItxfg
+      LV 🏜 Caribbean mf Yes Im 17 Sc:luisgaricaoni Positive vibes only
     location: "United States"
-    followers: 87800
-    engagement: 1409
-    commentsToLikes: 0.028016
-    id: ck8qpxpc75int0j78lyhj8tjz
+    followers: 16400
+    engagement: 1516
+    commentsToLikes: 0.038634
+    id: ckdspjjrqogta0j237yi1kiwz
     verified: false
-    hashtags: "#dontdroptheohyeah, #cobrakai, #gatorade, #sleepparalysis"
+    hashtags: "#hispanics, #toxic, #crush, #love"
   - username: "marcinteodoru"
     fullname: >-
       Marcin Teodoru
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.088563
     id: ck9gkm3w6jydx0j7885r2su20
     verified: false
-    hashtags: "#lasvegas, #elonmusk, #vegas, #share"
+    hashtags: "#share, #dogecoin, #cryptocurrency, #travel"
   - username: "deanothebarber"
     fullname: >-
       deanothebarber
@@ -43,6 +43,18 @@ profiles:
     id: ckcjcj30i9jeq0j23774ac3vl
     verified: false
     hashtags: "#tattoo, #barber, #tattoos, #barberlife"
+  - username: "doc_egemba"
+    fullname: >-
+      doc_egemba
+    bio: >-
+      Doctor’s Office... I hope you have an appointment 🧐 https://youtu.be/rPQPgItxfg
+    location: "United States"
+    followers: 87800
+    engagement: 1409
+    commentsToLikes: 0.028016
+    id: ck8qpxpc75int0j78lyhj8tjz
+    verified: false
+    hashtags: "#soda, #nerd, #barber, #netflixdreams"
   - username: "dlordink"
     fullname: >-
       DLORDINK
@@ -115,16 +127,4 @@ profiles:
     id: ckdnukkosnc090j2300rewt19
     verified: false
     hashtags: "#duet"
-  - username: "ashlandg251"
-    fullname: >-
-      Ashland Nicole Goldm
-    bio: >-
-      Just vibin🙃🤙🏽 Instagram-ashlandgoldman Barber Instagram💈- ashlandg251
-    location: "United States"
-    followers: 75300
-    engagement: 820
-    commentsToLikes: 0.067120
-    id: ckb9g63k7541t0j23bh5gqf2g
-    verified: false
-    hashtags: ""
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Miami In 2023
+title: Top 10 Comedians TikTok Influencers In Miami In 2024
 description: >-
-  Find top comedians TikTok influencers in Miami in 2023. Most popular hashtags: #comedy #fyp #comedian #funny.
+  Find top comedians TikTok influencers in Miami in 2024. Most popular hashtags: #comedy #fyp #comedian #funny.
 platform: TikTok
 hits: 58
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: inBeat has 58 TikTok influencers like this in Miami, United States for you to contact.
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 58 TikTok influencers like this in Miami, United States for you to work with.
 profiles:
+  - username: "marioramilcomedy"
+    fullname: >-
+      Mario Ramil Comedy 
+    bio: >-
+      My names Mario Ramil the dude that did that TikTok
+    location: "United States"
+    followers: 61000
+    engagement: 906
+    commentsToLikes: 0.032068
+    id: ckacw74dcr8mr0i78talvafr3
+    verified: false
+    hashtags: "#lmao, #foryourpage, #lol, #moves"
   - username: "elviscasely"
     fullname: >-
       Elvis Casely
@@ -18,7 +30,7 @@ profiles:
     commentsToLikes: 0.021506
     id: ckbb6orhbwrvd0j237514db7s
     verified: false
-    hashtags: "#fyp, #jokes, #comedy, #funny"
+    hashtags: "#jokes, #stitch, #comedy, #funny"
   - username: "wendybesadarodrig"
     fullname: >-
       Wendy Besada Rodrigu
@@ -31,6 +43,18 @@ profiles:
     id: ckd172g6co6ox0j23b2um6711
     verified: false
     hashtags: "#parati, #buenosdias, #2021, #happynewyear"
+  - username: "barry_s_naylor"
+    fullname: >-
+      barry_s_naylor
+    bio: >-
+      Comedian I Writer I Actor Mr. #FakeFamous Host/Creator of BS’n w/BSN
+    location: "United States"
+    followers: 16200
+    engagement: 1595
+    commentsToLikes: 0.057027
+    id: cka7r8xjedy430i780kdqd78d
+    verified: false
+    hashtags: "#greenscreen, #instagram, #funny, #fyp"
   - username: "larryventurino"
     fullname: >-
       LarryVenturino
@@ -42,7 +66,7 @@ profiles:
     commentsToLikes: 0.176023
     id: ck8s75e0dnpvw0j78za6u4j18
     verified: false
-    hashtags: "#tips, #dad, #notwoke, #standupcomedy"
+    hashtags: "#comedian, #dad, #pizza, #tips"
   - username: "carebearkieran"
     fullname: >-
       Kieran
@@ -54,7 +78,7 @@ profiles:
     commentsToLikes: 0.014102
     id: ck8w1aiyh16dh0j78r3ly3t5p
     verified: false
-    hashtags: "#sports, #comedy, #soccer, #itwasntme"
+    hashtags: "#comedy, #greenscreenvideo, #sports, #greenscreen"
   - username: "whatyouneedtoknow"
     fullname: >-
       Geoff Plitt | Comedian
@@ -79,18 +103,6 @@ profiles:
     id: ck982lod8gmdh0j78tfd7czlj
     verified: false
     hashtags: "#tiktok, #texas, #puertorico, #love"
-  - username: "marioramilcomedy"
-    fullname: >-
-      Mario Ramil Comedy 
-    bio: >-
-      My names Mario Ramil the dude that did that TikTok
-    location: "United States"
-    followers: 61000
-    engagement: 906
-    commentsToLikes: 0.032068
-    id: ckacw74dcr8mr0i78talvafr3
-    verified: false
-    hashtags: "#teachers, #dancer, #kids, #florida"
   - username: "sammyobeid"
     fullname: >-
       Sammy Obeid
@@ -115,16 +127,4 @@ profiles:
     id: cka61zz53xn1i0i780djar4go
     verified: false
     hashtags: "#repost, #nba, #bachelorready, #funny"
-  - username: "betoshabela"
-    fullname: >-
-      BETO Y SHABELA 🤪 (RenyMiami)
-    bio: >-
-      🙏🏼50K followers🙏🏼 ♥️1.0M Likes♥️ 😭DOMINADO POR EL IMPERIO DEL BLÚMER😭
-    location: "United States"
-    followers: 48000
-    engagement: 711
-    commentsToLikes: 0.085360
-    id: cka6qd24pn2kp0i78iqds3q97
-    verified: false
-    hashtags: "#toxica, #beto, #amor, #betoyshabela"
 ---

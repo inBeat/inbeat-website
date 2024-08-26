@@ -1,10 +1,10 @@
 ---
-title: Top 10 Cricket Players TikTok Influencers In 2023
+title: Top 10 Cricket Players TikTok Influencers In 2024
 description: >-
-  Find top cricket players TikTok influencers in 2023. Most popular hashtags: #tiktok #trending #viral #foryou.
+  Find top cricket players TikTok influencers in 2024. Most popular hashtags: #tiktok #trending #viral #foryou.
 platform: TikTok
 hits: 17
-text_top: Identify the best TikTok influencers on inBeat.
+text_top: Identify the best TikTok accounts on inBeat.
 text_bottom: inBeat aggregates 17 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "mr____523"

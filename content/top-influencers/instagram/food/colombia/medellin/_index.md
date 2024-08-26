@@ -1,12 +1,24 @@
 ---
-title: Top 10 Food Instagram Influencers In Medellín In 2023
+title: Top 10 Food Instagram Influencers In Medellín In 2024
 description: >-
-  Find top food Instagram influencers in Medellín in 2023. Most popular hashtags: #medellin #colombia #food #nature.
+  Find top food Instagram influencers in Medellín in 2024. Most popular hashtags: #food #medellin #colombia #nature.
 platform: Instagram
-hits: 12
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: inBeat has 12 Instagram influencers like this in Medellín, Colombia for you to pitch.
+hits: 11
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 11 Instagram influencers like this in Medellín, Colombia for you to connect with.
 profiles:
+  - username: "iroramirezs"
+    fullname: >-
+      Iro Ramirez
+    bio: >-
+      🇨🇴 VideoBlogger Colombiano 🎬 Comelón y Contador de historias 🍔 Solo publico lo que me gusta 😎 📧 WhatsApp (+57) 322-9503651
+    location: "Colombia"
+    followers: 304410
+    engagement: 257
+    commentsToLikes: 0.019894
+    id: ck55pkldyarck0i114soiugjc
+    verified: false
+    hashtags: "#colombia, #comidacolombiana, #riohacha, #comidacallejera"
   - username: "tatii_agb"
     fullname: >-
       Tatiana Agudelo B.
@@ -43,6 +55,18 @@ profiles:
     id: ck14kqbleqs1u0i197i23bz9a
     verified: false
     hashtags: "#instagood, #videosgraciosos, #capturas, #humor"
+  - username: "angulosaul"
+    fullname: >-
+      Saul Angulo
+    bio: >-
+      PR & Influencer MKT Foodie || LifeStyle Industrial Enginner 📍México City || (Made in Sinaloa).
+    location: "Colombia"
+    followers: 41914
+    engagement: 308
+    commentsToLikes: 0.041209
+    id: ck15pzooq0fdj0i19f9p9wznt
+    verified: false
+    hashtags: "#mensstyle, #vacation, #menstyle, #travel"
   - username: "juandaimond"
     fullname: >-
       JUANDAIMOND
@@ -67,30 +91,6 @@ profiles:
     id: ck9wd786vedof0j78c7w5bgia
     verified: false
     hashtags: "#reels, #streetfood, #burgerlover, #cali"
-  - username: "marialejamirandap"
-    fullname: >-
-      -M A R I A  A L E J A N D R A-
-    bio: >-
-      📍Cali |Co •ℂ𝕣𝕖𝕒𝕟𝕕𝕠 𝕝𝕒 𝕧𝕚𝕕𝕒 𝕢𝕦𝕖 𝕒𝕞𝕠 • •MIP•|Icesi Creadora de 🧁:@factorycakebymale
-    location: "Colombia"
-    followers: 8470
-    engagement: 510
-    commentsToLikes: 0.041288
-    id: ckaouqrjw1esd0i78decx4wuk
-    verified: false
-    hashtags: "#playa, #picoftheday, #ootd, #repostdolookdodia"
-  - username: "colombiaentusojos"
-    fullname: >-
-      Colombia En Tus Ojos 🇨🇴
-    bio: >-
-      Mostramos las maravillas de COLOMBIA 🇨🇴🇨🇴 Sigue mis viajes: @padondespues ⚡ ¿Negocios? Envíanos un mensaje directo 📩 Vídeo Concepción👇🏼👇🏼
-    location: "Colombia"
-    followers: 49989
-    engagement: 300
-    commentsToLikes: 0.188898
-    id: ckap8ds6mnvxg0i78wnupluqx
-    verified: false
-    hashtags: "#colombiatravel, #visitcolombia, #viaje, #travel"
   - username: "lucerovilchezcocina"
     fullname: >-
       Lucero Vilchez
@@ -115,16 +115,16 @@ profiles:
     id: ckaowayl184dp0i780p2exrj9
     verified: false
     hashtags: "#popular, #viral, #viralvideos, #dailygram"
-  - username: "guillodeviaje"
+  - username: "julindda"
     fullname: >-
-      Guillo Enciso | Travel & Food
+      ↞Juliana #ElBaúlDeJulindda
     bio: >-
-      🔹Viajes, experiencias, comida, ☕ y 🍻 🔹Misión: conocer toda 🇨🇴 y explorar el 🗺️ 🔹🇨🇴: 25/32 (78%) 🔹🌍: 31/194 (16%) 🇸🇻🇧🇿🇬🇹🇨🇷 #Travel
+      ☾ Modelo•Community Manager•Creadora de contenido•¡La vida Real Sin Drama! •El Movimiento genera progreso•🇨🇴 @elbauldejulindda @visual_julindda #Ninfa
     location: "Colombia"
-    followers: 20526
-    engagement: 163
-    commentsToLikes: 0.074699
-    id: ck5hrs59jvdwb0i11i0ys8ta4
+    followers: 35194
+    engagement: 158
+    commentsToLikes: 0.070187
+    id: ck5cfq336nflb0i11evw37gn7
     verified: false
-    hashtags: "#visitcolombia, #colombiahd, #micolombiaoficial, #visitencolombia"
+    hashtags: "#fashionblogger, #marketingdigital, #reels, #medelli"
 ---

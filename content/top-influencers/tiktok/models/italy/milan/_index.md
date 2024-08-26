@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Milan In 2023
+title: Top 10 Models TikTok Influencers In Milan In 2024
 description: >-
-  Find top models TikTok influencers in Milan in 2023. Most popular hashtags: #foryou #model #perte #viral.
+  Find top models TikTok influencers in Milan in 2024. Most popular hashtags: #perte #foryou #model #fashion.
 platform: TikTok
-hits: 12
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 12 TikTok influencers like this in Milan, Italy for you to collaborate.
+hits: 11
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 11 TikTok influencers like this in Milan, Italy for you to connect with.
 profiles:
   - username: "varyaren"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.033171
     id: cka6bswc91kwu0i7863fhkaav
     verified: false
-    hashtags: "#fashion, #viral, #perte, #trend"
+    hashtags: "#fy, #zodiactiktok, #outfit, #astrology"
   - username: "giulia_scotti17"
     fullname: >-
       Giulia
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.023930
     id: ckcdu4lk7ebez0j23ixth6xyi
     verified: false
-    hashtags: "#models, #modellife, #greenscreen, #foryou"
+    hashtags: "#viral, #models, #modelle, #casting"
   - username: "valentina_galassi"
     fullname: >-
       valentina_galassi
@@ -67,18 +67,6 @@ profiles:
     id: ck8s5i8exfxau0j78dyuxgjag
     verified: false
     hashtags: "#challenge, #tiktokartist, #fyp, #greenscreen"
-  - username: "gianspe"
-    fullname: >-
-      Gian
-    bio: >-
-      📸 Photographer 📍Milan For shooting and collab: IG or ✉ gianspez@gmail.com
-    location: "Italy"
-    followers: 7902
-    engagement: 827
-    commentsToLikes: 0.019742
-    id: ckbqionll3wdj0j2300k8cemq
-    verified: false
-    hashtags: "#tech, #mare, #foto, #photography"
   - username: "gabriele.boccard0"
     fullname: >-
       GABRIELE BOCCARDO
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.034021
     id: ck97ylpzz00og0j783lykwm8t
     verified: false
-    hashtags: "#stilista, #madeinitaly, #sartoria, #mode"
+    hashtags: "#stilista, #sartoria, #fashion, #styleinspiration"
   - username: "babyhesse"
     fullname: >-
       Dana Hesse
@@ -127,4 +115,16 @@ profiles:
     id: ck9re30nu0jbu0j783nilkwxn
     verified: false
     hashtags: "#lovedisoloqua, #imparacontiktok, #4yp, #foryou"
+  - username: "martybardelli"
+    fullname: >-
+      martybardelli
+    bio: >-
+      
+    location: "Italy"
+    followers: 4330
+    engagement: 487
+    commentsToLikes: 0.013906
+    id: ck9eo4yb9mh6o0j78qihujhny
+    verified: false
+    hashtags: "#girls, #girl, #outfit, #fun"
 ---

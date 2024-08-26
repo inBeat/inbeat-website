@@ -1,12 +1,36 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Russia In 2023
+title: Top 10 Wellness Instagram Influencers In Russia In 2024
 description: >-
-  Find top wellness Instagram influencers in Russia in 2023. Most popular hashtags: #love #gifted #kbeauty.
+  Find top wellness Instagram influencers in Russia in 2024. Most popular hashtags: #love #wedding #mindfulness.
 platform: Instagram
-hits: 61
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database holds 61 Instagram influencers like this in Russia for you to connect with.
+hits: 67
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 67 Instagram influencers like this in Russia for you to connect with.
 profiles:
+  - username: "sokhranova"
+    fullname: >-
+      Polina Sokhranova
+    bio: >-
+      Co-founder at @rute.world & journalist / editor [previously at: Cosmopolitan, Interview, Vogue] wellness, fashion & music lover
+    location: "Russia"
+    followers: 40476
+    engagement: 188
+    commentsToLikes: 0.014498
+    id: ck5hgjntm34ls0i11ieg3b7pz
+    verified: false
+    hashtags: "#olgadunina, #islandlife, #paros"
+  - username: "therjacobs"
+    fullname: >-
+      RHEA JACOBS 🧿
+    bio: >-
+      Entrepreneur | Model | Digital Creator | TED Speaker Founder: @RHE.AE_ : Selfcare and wellness for all Through Gods Grace Always🙏🏽 | 📍 Dubai
+    location: "Russia"
+    followers: 109764
+    engagement: 18
+    commentsToLikes: 0.012607
+    id: ck0ub2c2odlp20i19ze9b7cxq
+    verified: true
+    hashtags: "#podcastforwomen, #moscow, #selflove, #mindfulness"
   - username: "chichinaalina"
     fullname: >-
       Alina Chichina
@@ -66,7 +90,7 @@ profiles:
     commentsToLikes: 0.027615
     id: ck15rz0anaer50i19xjik4xax
     verified: false
-    hashtags: "#poledance, #heels, #poleexotic, #polefun"
+    hashtags: "#upartist, #poledance, #heels, #poleexotic"
   - username: "mary.yakhonova"
     fullname: >-
       ☆  𝖬𝖺𝗋𝗒 𝖿𝗅𝖺𝗍𝗅𝖺𝗒 & 𝗅𝗂𝖿𝖾𝗌𝗍𝗒𝗅𝖾 ☆
@@ -91,30 +115,6 @@ profiles:
     id: ck5ccn1dihnpu0i11s0c3w7ie
     verified: false
     hashtags: "#management, #happy2021, #ihaveafeelingweshouldkiss, #detox"
-  - username: "thatgirlsophy"
-    fullname: >-
-      Sophie • self-care & marketing
-    bio: >-
-      🧋живу в Нью-Йорке 〰️ пишу о ментальном здоровье, self-care и саморазвитии ☁️ wellness • маркетинг • матча ↧ обо мне и проекты
-    location: "Russia"
-    followers: 36195
-    engagement: 971
-    commentsToLikes: 0.016514
-    id: ck9hc32utjjcz0j78gk5ys99s
-    verified: false
-    hashtags: ""
-  - username: "glamorable"
-    fullname: >-
-      Anastasia • Blogger (35+)
-    bio: >-
-      Sharing passion for skincare and wellness since 2011 • #BeGlamorable 👩‍🔬 Pro-science 💌 anastasia@glamorable.com
-    location: "Russia"
-    followers: 45274
-    engagement: 70
-    commentsToLikes: 0.061583
-    id: ck9wd29drdquv0j786735tuso
-    verified: false
-    hashtags: "#kbeauty, #texturetuesday, #octolyfamily, #gifted"
   - username: "anna_life_journey"
     fullname: >-
       Anna Abramova / Moro

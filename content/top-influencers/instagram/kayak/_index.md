@@ -1,130 +1,130 @@
 ---
-title: Top 10 Kayak Instagram Influencers In 2023
+title: Top 10 Kayak Instagram Influencers In 2024
 description: >-
-  Find top kayak Instagram influencers in 2023. Most popular hashtags: #nature #trailrunning #selfie.
+  Find top kayak Instagram influencers in 2024. Most popular hashtags: #kayakfishing #kayaking #fishing #fishingislife.
 platform: Instagram
-hits: 1078
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 1078 Instagram influencers like this for you to pitch.
+hits: 1231
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database has 1231 Instagram influencers like this for you to work with.
 profiles:
+  - username: "fishingirl94"
+    fullname: >-
+      Emily Grace Wood
+    bio: >-
+      Kayak bassin… Go Dawgs!
+    location: "United States"
+    followers: 33779
+    engagement: 435
+    commentsToLikes: 0.017901
+    id: cl2fxsn2inbos0i23grp65ab7
+    verified: false
+    hashtags: "#fishinglife, #largemouthbassfishing, #ladyanglernation, #kayakfishing"
+  - username: "the.reel.yak.dragger"
+    fullname: >-
+      Ryan Reed
+    bio: >-
+      Your Premier Kayak Fishing Lifestyle Page; Gear, apparel, and seasonal techniques to help catch fish! @ecofishingshop @hukgear @revo @bluestormgear
+    location: "United States"
+    followers: 93848
+    engagement: 1762
+    commentsToLikes: 0.060048
+    id: clb6jm15w5sls0i235dohfnql
+    verified: false
+    hashtags: "#oldtownsportsman, #bass, #proguidebatteries, #flipkat"
+  - username: "vavrinec_hradilek"
+    fullname: >-
+      Vávra Hradilek
+    bio: >-
+      Kayaking World Champion, Olympic Medalist, Redbull Athlete
+    location: "United States"
+    followers: 31895
+    engagement: 417
+    commentsToLikes: 0.007347
+    id: ck5zw0ocy595f0i14fqucrxow
+    verified: false
+    hashtags: "#olympijskyfestival, #olympijskytym, #spoluprace, #voguecs"
+  - username: "floridawithyasmin"
+    fullname: >-
+      Yasmin |  Miami Based | Florida Destinations & Experiences
+    bio: >-
+      Helping you explore Florida 🌴 Top things to do, unique destinations & more! ✉️ Info@floridawithyasmin.com 📍Miami | ⤵️ Book the Night Kayak Tour here
+    location: "United States"
+    followers: 168089
+    engagement: 1369
+    commentsToLikes: 0.009769
+    id: cl1w4qvsrdowj0i23qyfg6xvg
+    verified: false
+    hashtags: "#orlandoflorida, #miamifoodie, #floridavacation, #foodiesofinstagram"
   - username: "cesarporai"
     fullname: >-
       César Trifone | Viagens+Life
     bio: >-
-      📍Campinas/SP | 🌍44 Países 🗺Te ensino a VIAJAR BARATO desde 2016✈️ 🏆Melhor Influenciador de Viagens KAYAK 2019 📱@porai.midia 👇Telegram/Canal
+      🏠Campinas/SP ↔️ 55 países 🗺Dicas de TURISMO e GASTRONOMIA ✈️🥘 🏆Melhor Influenciador de Viagens KAYAK YouTube e Descontos👇 📩 contato@cesarporai.com.br
     location: "Brazil"
-    followers: 108716
-    engagement: 536
-    commentsToLikes: 0.068159
+    followers: 844467
+    engagement: 455
+    commentsToLikes: 0.020780
     id: ck5c70n9y6krb0i11w0976m12
     verified: false
-    hashtags: "#mygrabrstory"
+    hashtags: "#meuprimeirocart, #ad, #qatarairways, #goingplacestogether"
+  - username: "jonastfishing"
+    fullname: >-
+      Jonas Töllner
+    bio: >-
+      @bfe_fishing_ BFE Fishing Team @polestar_fishing_kayaks 🇩🇪Germany, Hamburg/Schleswig-Holstein #fish #pike #zander #kayakfishing #fishing🐟
+    location: "Germany"
+    followers: 22257
+    engagement: 403
+    commentsToLikes: 0.054632
+    id: ckaov4gd3309f0i783ossh6ld
+    verified: false
+    hashtags: "#fortiseyewear, #angeln, #quantum, #summervibes"
+  - username: "veronicayoko"
+    fullname: >-
+      Veronica Yoko Plebani 🌸
+    bio: >-
+      Paralympic athlete born on Friday ✨ Triathlete in Tokyo 2020 🥉 Kayaker in Rio 2016 Snowboarder in Sochi 2014 @doom_entertainment
+    location: "Japan"
+    followers: 85168
+    engagement: 388
+    commentsToLikes: 0.029386
+    id: ck0w49ejdxg1e0i19pntque1j
+    verified: false
+    hashtags: "#scalpcare, #impossibleisnothing, #changemaker, #bottegaveneta"
+  - username: "louiswildlife"
+    fullname: >-
+      Louis Wildlife
+    bio: >-
+      🐈 Maine Coon Cat 🏡 Lives outdoors and in a cabin at a river 🌍 kayaking paw patrol for a clean river 📍Berlin, Germany, available worldwide
+    location: "Germany"
+    followers: 126463
+    engagement: 359
+    commentsToLikes: 0.024255
+    id: ck0tzdt65pyz40i194w98c03t
+    verified: false
+    hashtags: "#outdoorcat, #katze, #foxes, #catsofinstagram"
+  - username: "bodhi_theadventurecat"
+    fullname: >-
+      Bodhi the Adventure Cat
+    bio: >-
+      Bodhi explores 🇨🇦 Nature Adventures Wildlife Sports Hike Kayak Bike Swim Paddleboard Crag cat Catskier Maine Coon 08/01/18 Bugaboo🌈00-18❤️
+    location: "Canada"
+    followers: 40444
+    engagement: 277
+    commentsToLikes: 0.058279
+    id: ck0w35glwroqi0i19xngxku88
+    verified: false
+    hashtags: "#oceanlifestyle, #wetcat, #catventurer, #activecat"
   - username: "tommybrady7"
     fullname: >-
       Tommy Brady
     bio: >-
-      Former Team GB Kayaker Explorer Freeing the Ocean of plastic: #WavesOfSustainability Ambassador @wwf_uk All enquires: ✉️ tommy@ixbtalent.com
+      Former Team GB Kayaker Explorer & Photographer Enquiries: tommybrady07@gmail.com
     location: "United Kingdom"
-    followers: 82395
-    engagement: 197
-    commentsToLikes: 0.074258
+    followers: 82688
+    engagement: 26
+    commentsToLikes: 0.015466
     id: ck5c04a05sf720i11cjtm5mdd
     verified: true
-    hashtags: "#ad, #goldenhour, #photography, #adventures"
-  - username: "lovelaughteradventure"
-    fullname: >-
-      𝐀𝐩𝐫𝐢𝐥 𝐊𝐨𝐞𝐧𝐢𝐠 🦋
-    bio: >-
-      ➳ 𝒞𝑜𝓃𝓉𝑒𝓃𝓉 𝒸𝓇𝑒𝒶𝓉𝑜𝓇 𝚠𝚒𝚝𝚑 𝚊 𝚕𝚘𝚟𝚎 𝚘𝚏 𝚊𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎 𝚑𝚘𝚙𝚒𝚗𝚐 𝚝𝚘 𝚒𝚗𝚜𝚙𝚒𝚛𝚎 𝚢𝚘𝚞 𝚝𝚘 𝚐𝚎𝚝 𝚘𝚞𝚝 𝚝𝚑𝚎𝚛𝚎 𝚊𝚗𝚍 𝚕𝚒𝚟𝚎 𝚕𝚒𝚏𝚎! 📷 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚍 𝚘𝚗 @theviewabc @kayak ➴ 𝙵𝚘𝚛 𝚝𝚛𝚊𝚟𝚎𝚕 𝚐𝚞𝚒𝚍𝚎𝚜
-    location: "United States"
-    followers: 36781
-    engagement: 288
-    commentsToLikes: 0.053556
-    id: ck0tyuwqgo5pt0i190h8b8gbp
-    verified: false
-    hashtags: "#ad, #swedishstyleicecream, #vegan, #ketofriendly"
-  - username: "phyllisburchettphoto"
-    fullname: >-
-      Ranch Photography
-    bio: >-
-      📸 Pro Photographer, Workshop/Tour Leader, horsewoman, kayaker & adventurer...suffers from a severe case of wanderlust.✈️ Team @weaverleather 🇺🇸
-    location: "United States"
-    followers: 35213
-    engagement: 666
-    commentsToLikes: 0.028876
-    id: ck5hooyffpyjw0i11cg96ldn2
-    verified: false
-    hashtags: "#aqhalways, #workingranch, #ranchkid, #ranchphotography"
-  - username: "cheyfit_stayfit"
-    fullname: >-
-      Cheyenne
-    bio: >-
-      Mom of 2 kids and a furbabes Finding Adventure Everywhere Baby not beer... yes I'm pregnant Jet skis, Kayak, SUP Hiking, Donuts, Life
-    location: "United States"
-    followers: 6089
-    engagement: 509
-    commentsToLikes: 0.049116
-    id: ck8szryzsphrv0j78z6kq4j8q
-    verified: false
-    hashtags: "#cheyfitstayfit, #postpartumfitness, #longdistance, #medaladdict"
-  - username: "kayakkidmd"
-    fullname: >-
-      Colt
-    bio: >-
-      I am the founder of Kayak Kid- we sell ice cream by boat! It’s fun but what is more rewarding is giving back to causes that help ignite change.
-    location: "United States"
-    followers: 34507
-    engagement: 236
-    commentsToLikes: 0.029192
-    id: ck0vy8emt2q5d0i19dkijkaw2
-    verified: false
-    hashtags: "#qualitytime, #happybirthdaytome, #puttinginthework, #fitkids"
-  - username: "sandor_totka"
-    fullname: >-
-      Totka Sandor
-    bio: >-
-      🇭🇺 Hungarian Olympic athlete 🛶 flatwater kayak 🥇2x World champion 👇Marie Claire interjú👇
-    location: ""
-    followers: 5596
-    engagement: 1177
-    commentsToLikes: 0.010466
-    id: ck8t1halzvrme0j789jaip8nx
-    verified: false
-    hashtags: "#canon, #stayhungry, #lovekayaking, #redbull"
-  - username: "dana.ivanovova"
-    fullname: >-
-      Dana Danuska
-    bio: >-
-      2xviceWORLDCHAMPION🥈2019, 2016🇸🇰#DYNAFIT #SALEWA #WILDCOUNTRY #EVOLV #SUUNTO ATHLETE dynafit#trailhero #canon 👉💙climb💙bike💙ski💙kayak
-    location: ""
-    followers: 8657
-    engagement: 1057
-    commentsToLikes: 0.027012
-    id: ck8t4ltzj786r0j78ayzlflvn
-    verified: false
-    hashtags: "#teamsalewa, #bikini, #traveling, #climber"
-  - username: "marco_westinfishing"
-    fullname: >-
-      Marco Drewer
-    bio: >-
-      Kayak addict | German ⬇️ 🥇Fishing | Outdoors 🎣🛶🏕️ 🥈Crossfit 🏋🏼‍♂️ 🥉Food 🔹Westin Fishing 🔸Humminbird Deutschland 🔹NRS Fishing
-    location: "Germany"
-    followers: 10742
-    engagement: 429
-    commentsToLikes: 0.037492
-    id: ck15rsdea9gix0i19vqfgb7q4
-    verified: false
-    hashtags: "#perchfishing, #westink, #crankbaits, #natur"
-  - username: "heikekuzminski"
-    fullname: >-
-      Heike Kuzminski
-    bio: >-
-      Designer, Artist, Wife and Mama of two. ❤️watercolour, hiking, kayaking, yoga and chocolate. Not necessarily in that order. Vancouver, 🇨🇦
-    location: "Canada"
-    followers: 28004
-    engagement: 1240
-    commentsToLikes: 0.035031
-    id: ck14j8nnfj3s30i198ea8wvh5
-    verified: false
-    hashtags: "#illustrationoftheday, #watercolourchallenge, #bcartist, #bird"
+    hashtags: "#maliboo, #wales, #explore, #adventure"
 ---

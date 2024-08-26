@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Germany In 2023
+title: Top 10 Athletes Instagram Influencers In Germany In 2024
 description: >-
-  Find top athletes Instagram influencers in Germany in 2023. Most popular hashtags: #fitness #bodybuilding #motivation #fitnessmotivation.
+  Find top athletes Instagram influencers in Germany in 2024. Most popular hashtags: #motivation #mindset #training #outdoors.
 platform: Instagram
-hits: 279
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 279 Instagram influencers like this in Germany for you to collaborate.
+hits: 325
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 325 Instagram influencers like this in Germany for you to collaborate.
 profiles:
-  - username: "kjetilborch"
+  - username: "cocoolinaa"
     fullname: >-
-      Kjetil Borch
+      Carolin Kaul
     bio: >-
-      🇧🇻 Olympic Rower 🥈🥉 World Championships 🥇🥇🥉 European Championships 🥇🥉🥉🥉 x Red Bull athlete Playstation Ambassador 🕹 x
+      📍Germany 5’9” ♌️ who loves fashion and food Athlete for 35 years 💨 Vegan since October 2019 🌱 ✝️ Travel addicted 🌎 nature lover 🌳 Inquiries only via 📧
     location: "Germany"
-    followers: 18450
-    engagement: 1540
-    commentsToLikes: 0.040127
-    id: ck0w55j8i1zyh0i19tk5pceuk
+    followers: 192081
+    engagement: 1836
+    commentsToLikes: 0.002446
+    id: ckaozit8om2k60i784j0ynw9b
     verified: false
-    hashtags: "#roing, #olympics, #rowing, #rudern"
-  - username: "alimansory_"
+    hashtags: "#ootdfashion, #streetfashion, #allblack, #sheinhaul"
+  - username: "amin_elkach"
     fullname: >-
-      Ali Mansour
+      AMIN ELKACH | ONLINE COACH
     bio: >-
-      🏆 Natural Bodybuilding Pro 👮🏽 Police Officer 🏋🏽‍♂️ @esncom Athlete | Code „Ali“ 🔜 Road to Stage 2023
+      I‘ll help you to reach your fitness goals! @officialbodylab24 Athlete / Code: AMIN Train with me 👇🏾
     location: "Germany"
-    followers: 11209
-    engagement: 378
-    commentsToLikes: 0.361270
-    id: ckaoybs6bgueb0i78ejoujesq
+    followers: 1267581
+    engagement: 687
+    commentsToLikes: 0.008090
+    id: ck6tidwo10j6w0j71yrw3n9ez
     verified: false
-    hashtags: "#gym, #fitness, #trainhard, #weightlifting"
-  - username: "jasmin.diem"
+    hashtags: "#dayinlife, #fit, #lifestyle, #sunday"
+  - username: "lukefithyrox"
     fullname: >-
-      POSITIVITY | FITNESS | LIFE
+      Lukas Storath, Hyrox, Coaching
     bio: >-
-      Cologne, Germany @nvgtn athlete ♡
+      1st Hyrox WORLDCHAMPION & COACH @esncom athlete | Code: lukefit YouTube: LukeFitHyrox 🎥
     location: "Germany"
-    followers: 131674
-    engagement: 467
-    commentsToLikes: 0.052851
-    id: ckapc5qp02kvr0i78qyqxk2j5
+    followers: 16310
+    engagement: 441
+    commentsToLikes: 0.018466
+    id: ck6tmo6ew87c10j719cyopf14
     verified: false
-    hashtags: "#fit, #fitness, #lachen, #yummy"
-  - username: "florhabif"
+    hashtags: "#fitfam, #muskeln, #hyrox, #hybridathlete"
+  - username: "jacquelinewiles"
     fullname: >-
-      ꜰ ʟ ᴏ ʀ  ʜ ᴀ ʙ ɪ ꜰ
+      Jacqueline Wiles
     bio: >-
-      MHC | GEBA | Nike Athlete | Vlack Hockey 📍Mannheim, Germany.
+      U.S. Alpine Skier🎿, 3x Olympian 🇺🇸 Pilot & @textronaviation athlete ✈️
     location: "Germany"
-    followers: 106260
-    engagement: 416
-    commentsToLikes: 0.020328
-    id: ck55ln1vc1yi30i11o9cmpi63
+    followers: 13288
+    engagement: 657
+    commentsToLikes: 0.027680
+    id: ck0u93kww8ufe0i193t4nopoz
     verified: true
-    hashtags: "#gritalo, #vlackplayer"
-  - username: "moni.lu.official"
+    hashtags: "#southamerica, #chile, #textronaviation, #stifelusskiteam"
+  - username: "little.parkour.hulk"
     fullname: >-
-      Fit Mommy| 100% NATURAL BODY|
+      Ihab Yassin
     bio: >-
-      ◾️Wifey💍 ◾️Mommy👧🏽 ◾️ NRW 🇩🇪 ◾️🏃🏾‍♀️ Athlete @womensbest ◾️ 📧Monica-alice17@hotmail.com
+      28 yrs| vegan 🌱| B.A. Social Worker PK athlete | ⛸️| My Goal: to show society what handicapped people are able to do #inclusionist 📍Frankfurt🇩🇪
     location: "Germany"
-    followers: 11394
-    engagement: 1094
-    commentsToLikes: 0.127948
-    id: ckaowx9f0av5j0i78cslueyzt
+    followers: 39400
+    engagement: 7515
+    commentsToLikes: 0.024134
+    id: ck0udegoziz8s0i19667rohd7
     verified: false
-    hashtags: "#sunnyday, #fitfam, #helathylifestyle, #melainpoppin"
-  - username: "magdensz"
+    hashtags: "#pkfr, #pkfrtv, #inclusion, #inclusionmatters"
+  - username: "pauline_schaefer"
     fullname: >-
-      Magdalena Gorzkowska🇵🇱
+      Pauline Schäfer 🤸🏽‍♀️
     bio: >-
-      Olimpic athlete🏅 Crossing THE LIMITS 😎 𝐎𝐧 𝐦𝐲 𝐰𝐚𝐲 𝐭𝐨 𝟏𝟒𝐱𝟖𝟎𝟎𝟎𝐦🏔️ Trener & dietetyk 🏋‍♂️🏃‍♀️💪
+      ✨GYMNAST OF THE GERMAN NATIONAL TEAM 🇩🇪 ✨World champion 🥇 + 🥈 + 🥉… ✨Olympic Athlete (Rio 2016, Tokio 2021)🔜Paris 📩management@magari.international
     location: "Germany"
-    followers: 30319
-    engagement: 610
-    commentsToLikes: 0.021713
-    id: ck0w12uighag30i193i5i5lwh
-    verified: false
-    hashtags: "#beautiful, #rockclimbing, #smile, #tatry"
-  - username: "doc.maximilian"
-    fullname: >-
-      M A X
-    bio: >-
-      medical doctor track&field athlete 📍 Munich 📸 @mostwantedmodels_official ✉️ max@mediathleten.club
-    location: "Germany"
-    followers: 30967
-    engagement: 511
-    commentsToLikes: 0.036657
-    id: ck5pv8wt4gplz0i11xsdm0tlg
-    verified: false
-    hashtags: "#blackrollworks, #ergok860, #notsospring, #staatsexamen"
-  - username: "lisa.frank93"
-    fullname: >-
-      Lisa
-    bio: >-
-      „Be you. Believe in yourself.“ Law I Athlete I Fitfood I Team @olimp_sport_nutrition Code: „LISA10“ 🏅4. Platz @gnbf_ev ‘19 🏅5. Platz @nac_germany ‘19
-    location: "Germany"
-    followers: 4929
-    engagement: 961
-    commentsToLikes: 0.196921
-    id: ck0w04cadcbfh0i196lrwvzmi
-    verified: false
-    hashtags: "#gesunderezepte, #cleaneating, #gesundeern, #fridaymood"
-  - username: "codyderfinisher"
-    fullname: >-
-      Cody
-    bio: >-
-      Athlete Vice World Champion @EASPORTSFIFA ✉️ Business: codybusiness@gmx.de
-    location: "Germany"
-    followers: 5774
-    engagement: 1841
-    commentsToLikes: 0.053249
-    id: ck5q8p30t7a9y0i11ne03aahf
+    followers: 92647
+    engagement: 632
+    commentsToLikes: 0.017354
+    id: ck5q3answk0m20i11cx1lrvcp
     verified: true
-    hashtags: "#adidas, #finishers, #rotblau, #throwback"
-  - username: "leo__theresa"
+    hashtags: "#germany, #sport, #passion, #training"
+  - username: "andi_jo_wo"
     fullname: >-
-      𝐿𝑒𝑜 ⭑
+      Andreas Wolff
     bio: >-
-      Model and Manager x @elipamodels.agency Smilodox Athlete (leotheresa 10%) More Content🔻
+      Handballtorwart • Deutsche Nationalmannschaft • Europameister 2016 • Łomża Industria Kielce • @kempa_de Athlete
     location: "Germany"
-    followers: 138370
-    engagement: 465
-    commentsToLikes: 0.018238
-    id: ck9wovtya6t240j78gy2pxrmi
+    followers: 129223
+    engagement: 556
+    commentsToLikes: 0.003421
+    id: ck600qhx7e2v60i145djeydgk
     verified: true
-    hashtags: "#strongwoman, #anzeige, #teamsmilodox, #fitnessmotivation"
+    hashtags: "#werbung, #dhb, #teamcocacola, #gramyrazem"
+  - username: "jigzaw"
+    fullname: >-
+      Jiggi
+    bio: >-
+      𝔍𝔞𝔦𝔩𝔟𝔯𝔢𝔞𝔨 𝔐𝔞𝔠𝔥𝔢𝔱𝔢𝔫 𝔊𝔞𝔫𝔤 .. God did @take_hiq Athlete
+    location: "Germany"
+    followers: 182284
+    engagement: 637
+    commentsToLikes: 0.031741
+    id: ckaoton2hwt1w0i78fxft2fkt
+    verified: true
+    hashtags: "#jiggi, #jailbreak, #untouchable, #untouchable2"
+  - username: "thomas_iceberg"
+    fullname: >-
+      𝗧𝗛𝗢𝗠𝗔𝗦 𝗘𝗜𝗖𝗛𝗕𝗘𝗥𝗚𝗘𝗥 | 𝗔𝗨𝗦𝗧𝗥𝗜𝗔 🇦🇹
+    bio: >-
+      ▪️ Team @thenorthfacede @atomicski ▪️ @lasportivagram @garmin_beatyesterday ▪️ @leki.trailrunning @athleteseyewear 📧 eisberg95@gmx.net 📲 DM collab
+    location: "Germany"
+    followers: 164510
+    engagement: 849
+    commentsToLikes: 0.016840
+    id: ck14jfsxzk4a80i19qszdfhlp
+    verified: false
+    hashtags: "#climbinginspiration, #mountainside, #alps, #extreme"
+  - username: "laurafreigang"
+    fullname: >-
+      Laura Freigang
+    bio: >-
+      @eintrachtfrankfurtfrauen / @dfb_frauenteam @underarmour athlete
+    location: "Germany"
+    followers: 127979
+    engagement: 723
+    commentsToLikes: 0.009775
+    id: ck5pwq7e6o1oa0i11osgonk7i
+    verified: true
+    hashtags: "#finalll, #aboutyesterday, #dieliga, #imteam"
 ---

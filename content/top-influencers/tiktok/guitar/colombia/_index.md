@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Colombia In 2023
+title: Top 10 Guitar TikTok Influencers In Colombia In 2024
 description: >-
-  Find top guitar TikTok influencers in Colombia in 2023. Most popular hashtags: #fyp #colombia #viral #foryou.
+  Find top guitar TikTok influencers in Colombia in 2024. Most popular hashtags: #fyp #colombia #viral #parati.
 platform: TikTok
 hits: 12
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine holds 12 TikTok influencers like this in Colombia for you to work with.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 12 TikTok influencers like this in Colombia for you to connect with.
 profiles:
   - username: "xngelx.sx"
     fullname: >-
@@ -37,12 +37,12 @@ profiles:
     bio: >-
       Riamos juntos 🇨🇴🇮🇹 INSTAGRAM @Lily_gio15 🌹🥛🍎🌹
     location: "Colombia"
-    followers: 4787
-    engagement: 2817
-    commentsToLikes: 0.373580
+    followers: 4684
+    engagement: 2703
+    commentsToLikes: 0.346377
     id: ckavsvzs65jgd0j23ybxuh7w9
     verified: false
-    hashtags: "#teamlosmalaleche, #italia, #anime, #amor"
+    hashtags: "#capcut, #teamlosmalaleche, #manzanita, #modoprincesa"
   - username: "1camilat"
     fullname: >-
       emo clown
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.043841
     id: ckbfflvvbadwu0j23snqwup8w
     verified: true
-    hashtags: "#foryou, #skincare, #fyp, #beauty"
+    hashtags: "#marrebeauty, #fyp, #skincare, #beauty"
   - username: "gris272"
     fullname: >-
       Gris272

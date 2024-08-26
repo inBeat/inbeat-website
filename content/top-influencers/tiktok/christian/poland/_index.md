@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In Poland In 2023
+title: Top 10 Christian TikTok Influencers In Poland In 2024
 description: >-
-  Find top christian TikTok influencers in Poland in 2023. Most popular hashtags: #dlaciebie #dc #foryou #fyp.
+  Find top christian TikTok influencers in Poland in 2024. Most popular hashtags: #dlaciebie #dc #foryou #fyp.
 platform: TikTok
 hits: 9
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 9 TikTok influencers like this in Poland for you to work with.
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 9 TikTok influencers like this in Poland for you to pitch.
 profiles:
   - username: "igorek.t"
     fullname: >-

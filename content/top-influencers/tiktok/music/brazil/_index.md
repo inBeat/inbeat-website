@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Brazil In 2023
+title: Top 10 Music TikTok Influencers In Brazil In 2024
 description: >-
-  Find top music TikTok influencers in Brazil in 2023. Most popular hashtags: #dueto #foryou #fyp #foryoupage.
+  Find top music TikTok influencers in Brazil in 2024. Most popular hashtags: #foryou #dueto #fyp #foryoupage.
 platform: TikTok
 hits: 775
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 775 TikTok influencers like this in Brazil for you to connect with.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 775 TikTok influencers like this in Brazil for you to pitch.
 profiles:
   - username: "marlysousa64"
     fullname: >-

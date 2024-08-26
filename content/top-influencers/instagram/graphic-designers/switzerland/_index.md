@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Switzerland In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Switzerland in 2023. Most popular hashtags: #natgeotravel #folkscenery #discoverearth.
+  Find top graphic-designers Instagram influencers in Switzerland in 2024. Most popular hashtags: #graphicdesign #typography #natgeotravel #switzerland.
 platform: Instagram
-hits: 8
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 8 Instagram influencers like this in Switzerland for you to connect with.
+hits: 23
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 23 Instagram influencers like this in Switzerland for you to work with.
 profiles:
   - username: "ivan.margot"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.025262
     id: ck5c5pp2s3xf30i1123a9kk8d
     verified: false
-    hashtags: "#hikaricreative, #streetleaks, #streetizm, #myspcnewstart"
+    hashtags: "#littleboxcollective, #newtopographics, #storytelling, #reportage"
   - username: "edipix"
     fullname: >-
       Edvard L. 🇨🇭📷
@@ -67,18 +67,6 @@ profiles:
     id: ck5hk2ib5hoa80i11jb4r8mzd
     verified: false
     hashtags: ""
-  - username: "fxxu___"
-    fullname: >-
-      Felix Brönnimann
-    bio: >-
-      Hi, I’m a Freelance Graphic Designer, Web Developer and Photographer from Bern. 📷 Contact: info@dreigestalten.ch ⬇️
-    location: "Switzerland"
-    followers: 6784
-    engagement: 622
-    commentsToLikes: 0.007217
-    id: ck5hcy623kj3d0i11be8qt7dq
-    verified: false
-    hashtags: "#monkey, #macaque, #giraffeprint, #giraffemakeup"
   - username: "xtianmiller"
     fullname: >-
       Xtian Miller
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.008352
     id: ck6tnj30b9y2d0j718c794jnv
     verified: false
-    hashtags: "#wallart, #adobeillustrator, #typefacedesign, #graphicdesigndaily"
+    hashtags: "#digitalartists, #graphicdesigndaily, #swissmodernism, #tdkpeepshow"
   - username: "ashworthchris"
     fullname: >-
       Chris Ashworth
@@ -103,4 +91,40 @@ profiles:
     id: ck13a3hd3og160i19ahjfbyax
     verified: false
     hashtags: "#typematters, #typeeverything, #typeinspire, #typedaily"
+  - username: "stefankunz"
+    fullname: >-
+      Stefan Kunz
+    bio: >-
+      👉🏻Clients: Nespresso, Porsche, Coke 📨Inquiries: mail@stefankunz.com ✨Online Course: Animation, Lettering
+    location: "Switzerland"
+    followers: 783193
+    engagement: 915
+    commentsToLikes: 0.014089
+    id: ck0tvjhembmu60i19u2xf5xyf
+    verified: false
+    hashtags: "#goodtype, #logoanimation, #logo, #procreatelettering"
+  - username: "kaischoene"
+    fullname: >-
+      KAI SCHÖNE
+    bio: >-
+      🙋🏻‍♂️ Geschäftsführer @youmedia.ch 🛒 Gründer @galerie.83 🎙️ Podcaster @luegeundlose.podcast 📸 KI-Fotograf @ai_shootings 🇨🇭📍Lucerne
+    location: "Switzerland"
+    followers: 16048
+    engagement: 698
+    commentsToLikes: 0.037999
+    id: cl5j74ewe6yst0i23whlh9cjx
+    verified: false
+    hashtags: "#schweiz, #dogoftheday, #swiss, #dogsofinstagram"
+  - username: "ne7io"
+    fullname: >-
+      UX Design /// Neil de Barros
+    bio: >-
+      Maker of Heensa - True modular furniture: @heensa.design I teach UX & Design with memes 🇨🇭
+    location: "Switzerland"
+    followers: 9268
+    engagement: 511
+    commentsToLikes: 0.062050
+    id: ckap6c4e9f9ng0i78vu36gohz
+    verified: false
+    hashtags: "#creativelife, #designconcept, #userinterface, #designstudio"
 ---

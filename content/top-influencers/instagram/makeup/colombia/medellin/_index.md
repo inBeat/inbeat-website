@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Medellín In 2023
+title: Top 10 Makeup Instagram Influencers In Medellín In 2024
 description: >-
-  Find top makeup Instagram influencers in Medellín in 2023. Most popular hashtags: #makeup #medellin #makeupmedellin #makeupcolombia.
+  Find top makeup Instagram influencers in Medellín in 2024. Most popular hashtags: #makeup #medellin #makeupmedellin #makeupcolombia.
 platform: Instagram
-hits: 35
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 35 Instagram influencers like this in Medellín, Colombia for you to contact.
+hits: 36
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 36 Instagram influencers like this in Medellín, Colombia for you to contact.
 profiles:
   - username: "wilsbeauty"
     fullname: >-
@@ -91,6 +91,18 @@ profiles:
     id: ck6u8z3jmujc30j71zuw9zsly
     verified: false
     hashtags: "#latina, #dance, #dancerlife, #dancers"
+  - username: "tiffanialvarez"
+    fullname: >-
+      Tiffani Alvarez
+    bio: >-
+      Makeup | beauty | wellness | lifestyle | moda +250k en TT 🤝🏻 muchos reviews allá info@tiffanialvarez.com 📍Medellín hubby 🫀 @davidbravod
+    location: "Colombia"
+    followers: 22730
+    engagement: 245
+    commentsToLikes: 0.018727
+    id: ck8wevvpseoo90j78cq9vxrh8
+    verified: false
+    hashtags: "#maquillajenatural, #maquillajefavorito, #maquillaje, #labiales"
   - username: "mortianamakeup"
     fullname: >-
       𝕿 𝖆 𝖙 𝖎 𝖆 𝖓 𝖆 🍒
@@ -115,16 +127,4 @@ profiles:
     id: ck13asfrcryak0i19lkojnh29
     verified: false
     hashtags: "#test, #bali, #manila, #lospapasdedonqui"
-  - username: "danielacvelez"
-    fullname: >-
-      ✨DANIELA CASTAÑO✨
-    bio: >-
-      • ⚖️Abogada • 🎥Presentadora @telemedellin • 👠Modelo • 📍 Medellín, Colombia 🇨🇴
-    location: "Colombia"
-    followers: 27290
-    engagement: 158
-    commentsToLikes: 0.045910
-    id: ckap6xa6khqp50i78cv0gu14w
-    verified: false
-    hashtags: "#saturday"
 ---

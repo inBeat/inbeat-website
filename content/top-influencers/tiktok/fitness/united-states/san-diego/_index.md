@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In San Diego In 2023
+title: Top 10 Fitness TikTok Influencers In San Diego In 2024
 description: >-
-  Find top fitness TikTok influencers in San Diego in 2023. Most popular hashtags: #workout #fitness #fyp #sandiego.
+  Find top fitness TikTok influencers in San Diego in 2024. Most popular hashtags: #workout #fitness #fyp #sandiego.
 platform: TikTok
 hits: 34
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our database holds 34 TikTok influencers like this in San Diego, United States for you to connect with.
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 34 TikTok influencers like this in San Diego, United States for you to pitch.
 profiles:
   - username: "the_fitevolution"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck83zgge00jgm0j78459tmumn
     verified: false
     hashtags: "#personaltrainer, #sports, #sandiego, #fitness"
+  - username: "secret.losangeles"
+    fullname: >-
+      Secret Los Angeles
+    bio: >-
+      https://secretlosangeles.com/black-lives-matter-movement-action/
+    location: "United States"
+    followers: 25800
+    engagement: 919
+    commentsToLikes: 0.012598
+    id: ckai6izgdwbql0i78umdouw1i
+    verified: false
+    hashtags: "#hiking, #mysecretla, #losangeles, #hiketok"
   - username: "denzeleusebio"
     fullname: >-
       Denzel Eusebio
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.008901
     id: ck80oaixtgd0o0j78k4ahjjes
     verified: false
-    hashtags: "#sandiego, #partnerchallenge, #abs, #gymnastics"
+    hashtags: "#calisthenics, #gymnastics, #sandiego, #partnerchallenge"
   - username: "chefonlyphans"
     fullname: >-
       phan
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.008437
     id: ckbqbxl0rxzug0j23tn66539s
     verified: false
-    hashtags: "#krakboba, #fyp, #boba, #barista"
-  - username: "nutritionwithles"
-    fullname: >-
-      Leslie gonzalez
-    bio: >-
-      HELLLOO 🤍 Future RD 🔜 Realistic nutrition 🥑 San Diego📍 / SDSU 📚 / 20
-    location: "United States"
-    followers: 6073
-    engagement: 802
-    commentsToLikes: 0.041750
-    id: ckcuyupu6mjd10j23llt9kvil
-    verified: false
-    hashtags: "#health, #nutrition, #thatwitch, #rd2b"
+    hashtags: "#barista, #krakboba, #boba, #fyp"
 ---

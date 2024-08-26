@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Australia In 2023
+title: Top 10 Rappers TikTok Influencers In Australia In 2024
 description: >-
-  Find top rappers TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #foryou #foryoupage #rapper.
+  Find top rappers TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #foryou #foryoupage #rapper.
 platform: TikTok
 hits: 13
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat has 13 TikTok influencers like this in Australia for you to contact.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database holds 13 TikTok influencers like this in Australia for you to contact.
 profiles:
   - username: "thandog21"
     fullname: >-

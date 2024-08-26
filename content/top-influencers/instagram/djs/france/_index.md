@@ -1,11 +1,11 @@
 ---
-title: Top 10 Djs Instagram Influencers In France In 2023
+title: Top 10 Djs Instagram Influencers In France In 2024
 description: >-
-  Find top djs Instagram influencers in France in 2023. Most popular hashtags: #dj #music #party.
+  Find top djs Instagram influencers in France in 2024. Most popular hashtags: #dj #music #hiphop.
 platform: Instagram
-hits: 103
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 103 Instagram influencers like this in France for you to collaborate.
+hits: 118
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 118 Instagram influencers like this in France for you to collaborate.
 profiles:
   - username: "raquelrodallegas"
     fullname: >-
@@ -79,17 +79,17 @@ profiles:
     id: ck5zj6dt4h0zg0i14w1bqmg6w
     verified: true
     hashtags: "#acidmusic, #airmax, #ctrfcn, #covid"
-  - username: "djsnake"
+  - username: "djslimofficial"
     fullname: >-
-      djsnake
+      DJ SLIM
     bio: >-
-      🔒🔒🔒
+      INTERNATIONAL DJ | PRODUCER Partner @jetlag_dubai @sohogardendxb @whitedubai @slsdubai @viidubai @cavodxb @billionairedubaiofficial
     location: "France"
-    followers: 8233394
-    engagement: 276
-    commentsToLikes: 0.008845
-    id: ck0tt2vkm0x7q0i19g63zulyu
-    verified: true
+    followers: 404342
+    engagement: 177
+    commentsToLikes: 0.004415
+    id: ck5bz1qg1qa2f0i11mu2a9c3v
+    verified: false
     hashtags: ""
   - username: "djswagzilla"
     fullname: >-
@@ -115,16 +115,16 @@ profiles:
     id: ck5zm7zrim2nk0i14iz9caeyo
     verified: false
     hashtags: "#producer, #hiphop, #spotifyartist, #rapperlife"
-  - username: "gioliandassia"
+  - username: "morpheus_neo"
     fullname: >-
-      Giolì & Assia
+      Morpheus
     bio: >-
-      Live Act/Producers/Songwriters LOST w/ Mahmut Orhan⬇️
+      - Journaliste / CEO @morpheuscom 📍Paris - Ex: @radiofrance @delabel - Founder : @morpheusgolfclub - Expert @nfl @mlb - Radio Host Hip Hop since 1989
     location: "France"
-    followers: 180878
-    engagement: 423
-    commentsToLikes: 0.029031
-    id: ck13amz4kr68h0i1965agj9pu
+    followers: 47467
+    engagement: 310
+    commentsToLikes: 0.057170
+    id: ck0w18zt6i5930i19ic0j735x
     verified: false
-    hashtags: "#ibiza, #edm, #pride, #party"
+    hashtags: "#vintage, #instagolf, #radio, #rapfrancais"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Turkey In 2023
+title: Top 10 Barbers Instagram Influencers In Turkey In 2024
 description: >-
-  Find top barbers Instagram influencers in Turkey in 2023. Most popular hashtags: #barber #berber #moda #hair.
+  Find top barbers Instagram influencers in Turkey in 2024. Most popular hashtags: #barber #barbershop #berber #moda.
 platform: Instagram
 hits: 34
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 34 Instagram influencers like this in Turkey for you to work with.
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 34 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
   - username: "muhammetorstylle"
     fullname: >-
@@ -71,11 +71,11 @@ profiles:
     fullname: >-
       Onur ÇELİK
     bio: >-
-      ERKEK SAÇ MODELLERİ KARS 🌍 #barber 💈#hairstyle 💈#besthairsalon 💈#hairstyles 📞 05344745215 reservation 28.07.2010👪 TikTok 👉 Onur3636
+      ERKEK SAÇ MODELLERİ KARS 🌍 #barber 💈#hairstyle 💈#besthairsalon 💈#hairstyles 📞 05344745215 reservation TikTok 👉 Onur3636
     location: "Turkey"
-    followers: 28142
-    engagement: 336
-    commentsToLikes: 0.017789
+    followers: 39629
+    engagement: 1156
+    commentsToLikes: 0.018075
     id: ck6uh4yu9711q0j71mkhzag1l
     verified: false
     hashtags: ""
@@ -103,28 +103,28 @@ profiles:
     id: ck0w31b55r4ni0i19gfxglt6s
     verified: false
     hashtags: "#teambarberstown, #taktaktik, #gazver, #barberstown"
+  - username: "ali___barberr"
+    fullname: >-
+      Ali sabouhi bilehdaragh
+    bio: >-
+      📍 istanbul Nişantaşı🇹🇷 🔺 Nail 💅 🔻 Extension ◾️Hair Color ◾️Hair ombré ◾️Hair keratin ◾️Hair porotein 🔻 Eyelash 🔺 Skin facial 📞 WhatsApp 👇
+    location: "Turkey"
+    followers: 281448
+    engagement: 394
+    commentsToLikes: 0.160731
+    id: ckaou9h8xzelg0i78k3f7qsby
+    verified: false
+    hashtags: "#barbers, #ardebili, #fadegame, #menhaircuts"
   - username: "_h_e_b_u_n_"
     fullname: >-
-      ⚫️𝐒İ𝐘𝐀𝐇 𝐒𝐀𝐊𝐀𝐋𝐋𝐈⚫️
+      🔘ᴠᴇᴅᴀᴛ ᴜ̈ɴᴀʟ🔘
     bio: >-
-      🇹🇷𝐓ü𝐫𝐤𝐢𝐲𝐞 𝟕’𝐧𝐜𝐢𝐬𝐢🇹🇷 🔳𝕙𝕒𝕚𝕣 𝕤𝕡𝕖𝕔𝕚𝕒𝕝𝕚𝕤𝕥🔳 ⚫️𝐁𝐋𝐀𝐂𝐊_𝐀𝐃𝐀𝐌⚫️ ▪️𝙆𝙖𝙡𝙗𝙞𝙣𝙞 𝙙𝙚ğ𝙞ş𝙩𝙞𝙧, 𝙝𝙖𝙮𝙖𝙩ı𝙣 𝙙𝙚ğ𝙞ş𝙨𝙞𝙣.▪️ 🔲𝐀ş𝐤 𝐲𝐚𝐥𝐚𝐧(𝐌ış)𝐒𝐞𝐯𝐝𝐚 𝐲𝐚𝐥𝐚𝐧🔲
+      ⚫️𝐒İ𝐘𝐀𝐇 𝐒𝐀𝐊𝐀𝐋𝐋𝐈⚫️ 🔳𝕙𝕒𝕚𝕣 𝕤𝕡𝕖𝕔𝕚𝕒𝕝𝕚𝕤𝕥🔳 ⬛️𝐦𝐚𝐧 𝐢𝐧 𝐥𝐨𝐯𝐞 𝐰𝐢𝐭𝐡 𝐡𝐢𝐬 𝐣𝐨𝐛⬛️ 🔘𝗜̇𝘆𝗶,𝗱𝘂̈𝗿𝘂̈𝘀𝘁 𝘃𝗲 𝗱𝗼𝗴̆𝗿𝘂 𝗼𝗹𝗮𝗻𝗹𝗮𝗿 𝗸𝗮𝘆𝗯𝗲𝘁𝗺𝗲𝘇.𝗞𝗔𝗬𝗕𝗘𝗗𝗜̇𝗟𝗜̇𝗥.🔘
     location: "Turkey"
-    followers: 12930
-    engagement: 936
-    commentsToLikes: 0.074712
+    followers: 18463
+    engagement: 800
+    commentsToLikes: 0.092385
     id: ck9weva1qm0450j783ad0jm9c
     verified: false
-    hashtags: "#sultanbeyli, #instagramers, #kartalsahil, #barberlove"
-  - username: "__hhecer__085"
-    fullname: >-
-      Fit  barber Baku✂️✂️
-    bio: >-
-      https://youtube.com/channel/UCL30A6PbGTpJXkz9V706WPA .Naxçıvan ve talış qarışıqı😊Nəticə mən😁.saç kesimi üçün əlaqə nömresi 050-540-77-01
-    location: "Turkey"
-    followers: 115823
-    engagement: 217
-    commentsToLikes: 0.016008
-    id: ckap8186dmdue0i78uszvw22c
-    verified: false
-    hashtags: "#follow, #followmeto, #fyp, #hello"
+    hashtags: "#modafeminina, #barberlove, #instagramers, #berberlerdunyasi"
 ---

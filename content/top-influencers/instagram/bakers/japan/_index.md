@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Japan In 2023
+title: Top 10 Bakers Instagram Influencers In Japan In 2024
 description: >-
-  Find top bakers Instagram influencers in Japan in 2023. Most popular hashtags: #bakery #bread #stayhome #sourdough.
+  Find top bakers Instagram influencers in Japan in 2024. Most popular hashtags: #bread #bakery #stayhome.
 platform: Instagram
-hits: 66
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 66 Instagram influencers like this in Japan for you to connect with.
+hits: 73
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 73 Instagram influencers like this in Japan for you to connect with.
 profiles:
   - username: "nov1966"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck5c4mstv1o720i11g4hivj64
     verified: false
     hashtags: "#valentine, #art, #konel, #bakery"
+  - username: "sheneller"
+    fullname: >-
+      Shenelle Rodrigo | Sri Lanka Travel Creator
+    bio: >-
+      Taking stories of Sri Lanka to the world! 🎥 The milk that runs the world! Journey through the Rubber industry of Sri Lanka 🇱🇰
+    location: "Japan"
+    followers: 113200
+    engagement: 179
+    commentsToLikes: 0.021442
+    id: ck0uc656ig6il0i19evov66u5
+    verified: false
+    hashtags: "#srilankatravel, #digana, #srilanka, #kandy"
   - username: "komama777"
     fullname: >-
       komama7
@@ -55,6 +67,18 @@ profiles:
     id: ck9hb657afjwb0j78y2qy5ysk
     verified: false
     hashtags: "#radiodj, #radio, #2tightradio, #radioshow"
+  - username: "cokshara"
+    fullname: >-
+      Cok Shara
+    bio: >-
+      @temptedstudio_ WA +62 812 39479590 for inquiries (admin)
+    location: "Japan"
+    followers: 173250
+    engagement: 20
+    commentsToLikes: 0.000957
+    id: ck5bzh8rur5000i11uwsz5w5z
+    verified: false
+    hashtags: "#charleskeithss24, #ckid, #dreameindonesia, #dreamehairdryer"
   - username: "lacolaco0612"
     fullname: >-
       LALA❤︎COCO
@@ -103,28 +127,4 @@ profiles:
     id: ck15uaazfm6un0i19rjefuyrg
     verified: false
     hashtags: "#yoyogiuehara, #fumigrafico, #wildyeast, #foodpics"
-  - username: "ca329ino"
-    fullname: >-
-      いちこ🌱Ichico
-    bio: >-
-      愛知県のちょっとだけバイク好きなOL﻿ @xxmotoholicxx ﻿ Born 🇺🇸 grew up🇨🇿﻿ Z900/Daytona675/ksr110/﻿ serow225 on restore﻿ ♛ご依頼はDMへ♛
-    location: "Japan"
-    followers: 21929
-    engagement: 1440
-    commentsToLikes: 0.026173
-    id: ck13ak7gzqrzi0i19cfkqoifg
-    verified: false
-    hashtags: "#ladybikers, #ss, #bikersofinstagram, #girlsbiker"
-  - username: "ri.na1640"
-    fullname: >-
-      
-    bio: >-
-      Japan🇯🇵RINA(23)🏡aichi 毎日ハッピーに生きてます😆‬ MC51 CBR250RR フルカスタム❤ 夫婦でSSライダー🏍🏍 料理も好きです💕🍳 2020.2.22💍💐 bike🏍 small rider👸 Height 152cm🤪
-    location: "Japan"
-    followers: 12453
-    engagement: 2332
-    commentsToLikes: 0.006825
-    id: ck6tov91jgalr0j715ns3c1qb
-    verified: false
-    hashtags: "#universalbikers, #bikersfamily, #coolgirl, #bikegirl"
 ---

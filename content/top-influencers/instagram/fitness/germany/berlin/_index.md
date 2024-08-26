@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Berlin In 2023
+title: Top 10 Fitness Instagram Influencers In Berlin In 2024
 description: >-
-  Find top fitness Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #fitness #fashion #fitnessmotivation.
+  Find top fitness Instagram influencers in Berlin in 2024. Most popular hashtags: #berlin #fitness #travelgram #fashion.
 platform: Instagram
-hits: 325
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 325 Instagram influencers like this in Berlin, Germany for you to collaborate.
+hits: 386
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 386 Instagram influencers like this in Berlin, Germany for you to work with.
 profiles:
   - username: "fitweltweit.cathi"
     fullname: >-
@@ -18,7 +18,19 @@ profiles:
     commentsToLikes: 0.068894
     id: ckap59d0qar0j0i78joyyw90f
     verified: false
-    hashtags: "#blogger, #berlinblogger, #anajohnson, #bananabeauty"
+    hashtags: "#blogger, #anajohnson, #bananabeauty, #beautyblogger"
+  - username: "rebecca.ku"
+    fullname: >-
+      Rebecca Kunikowski
+    bio: >-
+      🎥actress/model Maleficent 2 / Love - am Ende zählst du @bullsmanagement 🎬@marmulla_rudolph 🇬🇧@mediaartistsgroup 📸@mostwantedmodels_official
+    location: "Germany"
+    followers: 69863
+    engagement: 430
+    commentsToLikes: 0.030845
+    id: ckap4jqj07odb0i78co87djgy
+    verified: true
+    hashtags: "#gewinnspiel, #agency, #makeup, #fitness"
   - username: "bencze1"
     fullname: >-
       Alex Bencze
@@ -31,18 +43,6 @@ profiles:
     id: ck5cjq1ncv8z70i11js9atz50
     verified: false
     hashtags: "#fitfamgermany, #weihnachtszeit, #ootd, #fitfam"
-  - username: "leonard.freier"
-    fullname: >-
-      Leonard Freier
-    bio: >-
-      Bachelor 2016, Host @budgetbattle_official , @shoppingqueen.vox , 3rd Dance Dance Dance , Ambassador @kia_motors_deutschland , Entrepreneur & Investor
-    location: "Germany"
-    followers: 64232
-    engagement: 107
-    commentsToLikes: 0.067785
-    id: ck14k2djcndvn0i19nc5xpmba
-    verified: true
-    hashtags: "#nature, #entrepreneur, #muscle, #training"
   - username: "marianna.ovl"
     fullname: >-
       ➖MARIANNA OVL➖
@@ -67,18 +67,6 @@ profiles:
     id: ck14lbjd9ttti0i19bsa4r6p9
     verified: false
     hashtags: "#mlb, #running, #workout, #runningterritory"
-  - username: "sarah.ws"
-    fullname: >-
-      
-    bio: >-
-      
-    location: "Germany"
-    followers: 12
-    engagement: 6646215
-    commentsToLikes: 0.028289
-    id: ck0vv7809nulu0i190233sluv
-    verified: false
-    hashtags: "#motivation, #fashionblogger, #fitfam, #falloutfits"
   - username: "robinrayanian"
     fullname: >-
       Robin Rayanian
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.042775
     id: ck55lagyy153q0i117zvvzh6s
     verified: true
-    hashtags: "#ilovemydog, #instagood, #fitness, #happy"
+    hashtags: "#photography, #loveislove, #rayanian, #shadowrayanian"
   - username: "ann_fitness_love"
     fullname: >-
       𝒜𝒩𝒯𝒥𝐸
@@ -103,28 +91,40 @@ profiles:
     id: ck8t1phjowjm20j78602egao5
     verified: false
     hashtags: "#tattoomodel, #gymbabes, #annfitnesslove, #mcfit"
-  - username: "maher_ayada"
+  - username: "mr.denny_k"
     fullname: >-
-      Maher Ayada
+      Denny Kinder
     bio: >-
-      Professional Boxer 🥊 Berlin 📍
+      Hairdresser, Make Up Artist & Beauty Coach CEO/Owner - @dennykbeauty Studio Berlin Share my passion for beauty, mensfashion & travel
     location: "Germany"
-    followers: 2337
-    engagement: 2331
-    commentsToLikes: 0.057122
-    id: ck5ciic88sp2j0i11ec7yqlbw
+    followers: 55297
+    engagement: 263
+    commentsToLikes: 0.007310
+    id: ck6u4adav2lzy0j71d6tbhojv
     verified: false
-    hashtags: "#photography, #teamayada, #nevergiveup, #instafit"
-  - username: "heyxngoc"
+    hashtags: "#berlin, #dennykbeauty, #hairstylist, #friseur"
+  - username: "chantinity"
     fullname: >-
-      NGOC Youtube•Fitness•Berlin
+      Chanty
     bio: >-
-      𝒹𝒶𝒾𝓁𝓎 𝓈𝓉𝑜𝓇𝓎𝓈 ♡ ʙʀɪɴɢ ᴍᴇ ᴀɴʏᴡʜᴇʀᴇ ɪɴ ᴛʜᴇ ᴡᴏʀʟᴅ, ɪ‘ʟʟ sᴛɪʟʟ ᴏʀᴅᴇʀ #ᴘɪᴢᴢᴀ & sᴇxʏ fᴏᴏᴅᴀcᴛɪᴏɴs ♡ Realtalk über ALLES 🎥
+      Founder of @jointhecurlsclub based in Berlin 🇩🇪🇪🇨 ✉️contact@chantinity.com
     location: "Germany"
-    followers: 15599
-    engagement: 663
-    commentsToLikes: 0.096123
-    id: ck55jxuj6y0oj0i1101o1kwiz
+    followers: 29357
+    engagement: 151
+    commentsToLikes: 0.006646
+    id: ckapbqnj40yll0i78hb6xlkwk
     verified: false
-    hashtags: "#reelsinstagram, #cyberobics, #reels, #explore"
+    hashtags: "#ootd, #ad, #thatgirl, #thatgirlaesthetic"
+  - username: "moto.baby_"
+    fullname: >-
+      Jasmin 🌹
+    bio: >-
+      Motorrad | Tattoo | Fitness 📍Berlin
+    location: "Germany"
+    followers: 5943
+    engagement: 1639
+    commentsToLikes: 0.026059
+    id: ck8t3db822tzd0j787lxs1pjg
+    verified: false
+    hashtags: "#2wheelslover, #bikercouple, #bikenation, #berlin"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Rio De Janeiro In 2023
+title: Top 10 Models Instagram Influencers In Rio De Janeiro In 2024
 description: >-
-  Find top models Instagram influencers in Rio De Janeiro in 2023. Most popular hashtags: #model #021 #reels.
+  Find top models Instagram influencers in Rio De Janeiro in 2024. Most popular hashtags: #model #biquini #summer.
 platform: Instagram
-hits: 59
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 59 Instagram influencers like this in Rio de Janeiro, Brazil for you to contact.
+hits: 54
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 54 Instagram influencers like this in Rio de Janeiro, Brazil for you to contact.
 profiles:
   - username: "gabrielecury"
     fullname: >-
@@ -103,6 +103,18 @@ profiles:
     id: ck8t396pg2ejm0j78adadywgx
     verified: false
     hashtags: "#pet, #doglove, #dogoftheday, #shitzulove"
+  - username: "yasmimsurf"
+    fullname: >-
+      yas oficial 🏄‍♀️
+    bio: >-
+      rio de janeiro | 🇧🇷 vida real. lifestyle. modelo
+    location: "Brazil"
+    followers: 159618
+    engagement: 1123
+    commentsToLikes: 0.011939
+    id: ckaow901s7vq70i78ufmoknm9
+    verified: false
+    hashtags: "#riodejaneiro, #summer, #natureza, #likesforlike"
   - username: "izabella.aguiar_"
     fullname: >-
       • IZA•
@@ -115,16 +127,4 @@ profiles:
     id: ckapbap00z7e20i78zbw9m19a
     verified: false
     hashtags: "#estilo, #look, #moda, #model"
-  - username: "willyrodriguess"
-    fullname: >-
-      willy
-    bio: >-
-      .23y •Rio de janeiro .pisciano
-    location: "Brazil"
-    followers: 19137
-    engagement: 1491
-    commentsToLikes: 0.065828
-    id: ck9ha5phcb9e40j78t3zxoahv
-    verified: false
-    hashtags: "#boys, #instatumblr, #travel, #boy"
 ---

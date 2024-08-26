@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Germany In 2023
+title: Top 10 Bakers Instagram Influencers In Germany In 2024
 description: >-
-  Find top bakers Instagram influencers in Germany in 2023. Most popular hashtags: #bakersofinstagram #foodblogger #backenistliebe #feedfeed.
+  Find top bakers Instagram influencers in Germany in 2024. Most popular hashtags: #bakersofinstagram #foodblogger #backenistliebe #feedfeed.
 platform: Instagram
-hits: 482
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform has 482 Instagram influencers like this in Germany for you to connect with.
+hits: 492
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 492 Instagram influencers like this in Germany for you to work with.
 profiles:
   - username: "katjas_tortenfabrik"
     fullname: >-
@@ -33,16 +33,16 @@ profiles:
     hashtags: "#fruitcakecookbook"
   - username: "cloedis_sweet_corner"
     fullname: >-
-      Claudia
+      Claudia Saidi
     bio: >-
-      Weekendbaker and hobby-photographer from Niedersachsen / Germany 🍦🍰🍨📸📷
+      Weekendbaker and Hobby-Photographer from Bremen / Germany 🍦🍰🍨📸📷
     location: "Germany"
-    followers: 4304
-    engagement: 2002
-    commentsToLikes: 0.226568
+    followers: 12501
+    engagement: 736
+    commentsToLikes: 0.208642
     id: ck55mjmn844420i1194i1932l
     verified: false
-    hashtags: "#spicyfood, #bakefeed, #easypeasy, #selbstgemacht"
+    hashtags: "#beautifulcuisines, #foodblogliebe, #ilovebaking, #coffeelovers"
   - username: "homenherbs"
     fullname: >-
       Home and Herbs
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.134123
     id: ck13550yvzqpb0i19pwgs9vyu
     verified: false
-    hashtags: "#beerenliebe, #backenmachtglu, #abendessen, #cakeoftheday"
+    hashtags: "#cakeoftheday, #brotzeit, #fr, #schnellerezepte"
   - username: "nicestthingsblog"
     fullname: >-
       Vera Wohlleben | Nicest Things
@@ -67,18 +67,6 @@ profiles:
     id: ck0vv9ct7o4ji0i19agn6md17
     verified: false
     hashtags: "#gloobyfood, #sweetmagazine, #thebestinstafoods, #huffposttaste"
-  - username: "mamaglueckundkuchenzauber"
-    fullname: >-
-      Stini•Mamaglück&Kuchenzauber
-    bio: >-
-      • Rezepte zum Nachbacken • •Familie, Haus & Garten • BaWü❤️ Mama von 3 #backliebe #backenmitliebe #mamablogger_de
-    location: "Germany"
-    followers: 11777
-    engagement: 640
-    commentsToLikes: 0.090071
-    id: ck8tdd0u12v940j78828qbojk
-    verified: false
-    hashtags: "#diykids, #mamaglueckundkuchenzauber, #bakersofinstagram, #backenmitkindern"
   - username: "zuckerzimtundliebe"
     fullname: >-
       Zuckerzimtundliebe
@@ -102,7 +90,7 @@ profiles:
     commentsToLikes: 0.024309
     id: ck6twqvp3tkux0j715oks63cc
     verified: false
-    hashtags: "#froheostern, #cakedesign, #osterhase, #mariaplusvieraufreisen"
+    hashtags: "#instabaker, #instatravel, #mariaplusvieraufreisen, #easter"
   - username: "besondersgut"
     fullname: >-
       Katharina Arrigoni
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.053606
     id: ck8tacm53r81x0j78j6dvnbrr
     verified: false
-    hashtags: "#kuchen, #bakersgonnabake, #erdbeeren, #heuteaufmeinemteller"
+    hashtags: "#tastycake, #foodblogging, #wandern, #thermomix"
+  - username: "_missys.kitchen_"
+    fullname: >-
+      Missy-licious | macht SinGy
+    bio: >-
+      Produzentin von @drink_singy Foodbloggerin sweet & salty #missylicious 📝 Rezepte | Impressum: www.missys.kitchen 📬 hallo@missys.kitchen
+    location: "Germany"
+    followers: 4273
+    engagement: 893
+    commentsToLikes: 0.176433
+    id: ck9hc2v5ijidz0j78ik8rpai7
+    verified: false
+    hashtags: "#sommer, #gesundundlecker, #dessert, #fr"
 ---

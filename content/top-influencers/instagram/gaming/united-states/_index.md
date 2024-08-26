@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming Instagram Influencers In United States In 2023
+title: Top 10 Gaming Instagram Influencers In United States In 2024
 description: >-
-  Find top gaming Instagram influencers in United States in 2023. Most popular hashtags: #cosplay #gamer #gamergirl.
+  Find top gaming Instagram influencers in United States in 2024. Most popular hashtags: #nintendo #gaming #gamergirl #pokemon.
 platform: Instagram
-hits: 2143
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database has 2143 Instagram influencers like this in United States for you to contact.
+hits: 2318
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat has 2318 Instagram influencers like this in United States for you to connect with.
 profiles:
   - username: "simplyfahad"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ckap8424gmqnb0i78t8oje54g
     verified: false
     hashtags: "#gaming"
-  - username: "dielenka"
+  - username: "mayfiscella"
     fullname: >-
-      LENKA 🇸🇰🇦🇹 | Software Engineer
+      M A Y 👽 美 芝
     bio: >-
-      ✨I write code and love tech Collab: dielenka@gmail.com @travelwithageek ✈️ F1 🏎️ Gaming 👾 Gym 🏋️‍♀️ 🎓 PhD. student 👩🏻‍🔬 Working in cybersec 🔐
+      *ᴍᴜᴄʜ ᴡᴇɪʀᴅᴇʀ ɪɴ ᴘᴇʀsᴏɴ #fashion #beauty #lifestyle #gaming PR/Collabs: mayfiscella@gmail.com 📍: D[M]V 🕙: Tiktok @mayfiscella (64K+)
     location: "United States"
-    followers: 99416
-    engagement: 216
-    commentsToLikes: 0.033877
-    id: ck8t1rehjwqid0j78v901qvua
+    followers: 38619
+    engagement: 1610
+    commentsToLikes: 0.021078
+    id: ck9hcxh2nnd9c0j785mcc1rut
     verified: false
-    hashtags: "#codinglife, #programmerlife, #fitness, #programmerslife"
-  - username: "qqchana"
+    hashtags: "#selfie, #hapakristin, #dating, #selca"
+  - username: "wasabi_doughnut"
     fullname: >-
-      Chana Chiang QQ阿醬
+      Serge
     bio: >-
-      𝐋𝐞𝐚𝐫𝐧 𝐟𝐫𝐨𝐦 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐈𝐝𝐞𝐧𝐭𝐢𝐟𝐲 𝐰𝐢𝐭𝐡 𝐧𝐨𝐭𝐡𝐢𝐧𝐠 ©本人 Photography 攝影號➜ @chanachiang 𝙲𝙷🇹🇼｜𝙴𝙽🇺🇸｜𝙴𝚂🇵🇪 模特x攝影師x電玩宅x旅遊控 #travel #gaming #food
+      Pokémon - Gaming - Lifestyle Join me in sharing our hobbies! DM/e-mail ⬇️ for collabs/rates
     location: "United States"
-    followers: 32564
-    engagement: 192
-    commentsToLikes: 0.036219
-    id: ck0ty4j7mllio0i19hf3shu4m
+    followers: 46150
+    engagement: 494
+    commentsToLikes: 0.085379
+    id: ckaosix69rowo0i788z4wydzb
     verified: false
-    hashtags: "#fifa22, #fifa, #bikinimodel, #merrychristmas"
-  - username: "annjoyy"
+    hashtags: "#pokemonscarletandviolet, #nintendofans, #pokemoncenter, #desksetups"
+  - username: "gov.madison"
     fullname: >-
-      Annjoy | Twitch Streamer
+      madison
     bio: >-
-      ☆ Streamer, Content Creator I live for gaming, weightlifting and self growth 🎮 𝘐 𝘱𝘭𝘢𝘺 𝘵𝘩𝘦 𝘮𝘰𝘴𝘵 𝘥𝘪𝘧𝘧𝘪𝘤𝘶𝘭𝘵 𝘨𝘢𝘮𝘦𝘴 Twitter: Annjoy
+      harvard graduate | engineer twitch streamer & pokémon enthusiast 💗 socal gaming account @xxgigglypuff
     location: "United States"
-    followers: 25446
-    engagement: 923
-    commentsToLikes: 0.074399
-    id: ck0u1ha49wvn60i19ffimovup
+    followers: 17554
+    engagement: 734
+    commentsToLikes: 0.035742
+    id: ckap6kupyga850i78ch8fo8r8
     verified: false
-    hashtags: "#blackouttuesday"
-  - username: "itsbrianawhite"
+    hashtags: "#nintendo, #twitchgamer, #gamergirl, #egirls"
+  - username: "laurenzside"
     fullname: >-
-      Briana
+      LaurenzSide
     bio: >-
-      Actress. Gamer. Content Creator. @TheStrangeRebel Gaming. Voice actress of Aerith #FF7R
+      ⭐️ Self-Proclaimed Gaming Comedian 💜 8M+ On YouTube ⭐️ Everything is Creepy Podcast Host 💜 @bobizard13 is my Player 2 👇🏻 Click below for EVERYTHING
     location: "United States"
-    followers: 46799
-    engagement: 1320
-    commentsToLikes: 0.034211
-    id: ck5q6xew8z5wi0i119pv236xj
-    verified: false
-    hashtags: "#finalfantasy, #selfcare, #actress, #dailyselfcarechallenge"
-  - username: "thescarlettegamer"
+    followers: 771153
+    engagement: 402
+    commentsToLikes: 0.009178
+    id: ck5pztj402o7w0i11onbatv3i
+    verified: true
+    hashtags: "#vidconblt23, #alienwarepartner, #rtxon, #vlog"
+  - username: "beskarbaby"
     fullname: >-
-      Tia | Playstation and Tech
+      ash 🏳️‍⚧️
     bio: >-
-      Tia, Sydney, Australia Platinum hunter Plat Count: 186 PSN: Tia431 @empress.gaming⚔️ #videogame enthusiast and #collector of #playstation games
+      GETTING THE GIRLS INTO GAMING current game: BG3 twitch, wigs, gaming setup, media kit👇🏻 DM/email for a collab: beskarbby@gmail.com
     location: "United States"
-    followers: 36897
-    engagement: 336
-    commentsToLikes: 0.055230
-    id: ck0tudnmf6qrs0i19cd2113a6
+    followers: 37786
+    engagement: 2388
+    commentsToLikes: 0.012320
+    id: clp0bnplz7frk0j08l5l9tuy9
     verified: false
-    hashtags: "#playstation, #surveys, #gamerlife, #instagaming"
-  - username: "kittyk838_"
+    hashtags: "#astarionedit, #karlach, #pcgaming, #viral"
+  - username: "tprshadow"
     fullname: >-
-      KATE | TWITCH STREAMER
+      Markus Schrader👾🎮 Nintendo | Pokémon | Gaming | Retro
     bio: >-
-      she do be thicc, she do be gaming.
+      🎮 Gamer | Retro Gaming | Console Gamer 🍄 Nintendo Enthusiast 👾 Pokémon
     location: "United States"
-    followers: 8952
-    engagement: 1387
-    commentsToLikes: 0.056560
-    id: ckap544bja4ch0i78ton1rwjl
+    followers: 20830
+    engagement: 653
+    commentsToLikes: 0.035752
+    id: ck5q4qn05pxxc0i11n3koyfr2
     verified: false
-    hashtags: "#gains, #apexlegends, #egirl, #quads"
-  - username: "miesileinx"
+    hashtags: "#nintendods, #gameboycolor, #pokemon, #gamersofinstagram"
+  - username: "reallygorgeous1"
     fullname: >-
-      Gamer & Streamer 🎮 🇩🇪
+      Catrina Garcia
     bio: >-
-      🌿 Fabienne | Germany 👾 Twitch Affiliate ❤️ Gaming | Nerdstuff | Metal | Tattoos | Cosplay 🎮 Social Media Links ⬇️
+      👾 Twitch Affiliate 🎮 Gaming Meme Page ⤹ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙢𝙮 𝙗𝙖𝙙 𝙝𝙖𝙗𝙞𝙩𝙨.🎙 🔥 Use code “GORGEOUS1” @threatllama🦙🏴‍☠️
     location: "United States"
-    followers: 11419
-    engagement: 956
-    commentsToLikes: 0.050900
-    id: ck14ky9f9rxe40i19noy1zar9
+    followers: 10133
+    engagement: 801
+    commentsToLikes: 0.034897
+    id: ckaow6rf67ns50i78bwsco0lj
     verified: false
-    hashtags: "#inkedgirl, #germangamer, #miesileinx, #blondegirl"
-  - username: "koolysmiley"
+    hashtags: "#ps4, #codmw2memes, #memesdaily, #gamermemes"
+  - username: "lizgainsexp"
     fullname: >-
-      Laurel Rothamel
+      LIZZIE | pink gamer girl 💞🌙🎮✨
     bio: >-
-      Partnered Twitch Streamer l ATX Fitness. Gaming. Cosplay. Singing. Self Love. Business inquries: koolysmiley@tyrus.tv
+      💗pink kawaii gaming setup inspo 🎮 🌟IBC content creator for amazon ✨ 🌸 filipina | cali | mom | stage 4 colon cancer fighter 🌙
     location: "United States"
-    followers: 22226
-    engagement: 1188
-    commentsToLikes: 0.015094
-    id: ckaowtuitafdz0i78bu3v4pvo
+    followers: 34133
+    engagement: 612
+    commentsToLikes: 0.035113
+    id: clcgsh8c3pv690j08ztrikxts
     verified: false
-    hashtags: "#bi, #wanderlust, #twitchpartner, #closetcosplay"
-  - username: "neosphotography_"
+    hashtags: "#kawaiigamingsetup, #gamergirlsetup, #gamergirl, #setupinspiration"
+  - username: "whiteliongames"
     fullname: >-
-      NEOS photography
+      Jasmine Newby
     bio: >-
-      📸 Professional Photographer 📍Andorra🇦🇩Madrid🇪🇸 🎮 Directos gaming 19:00 en Twich
+      🎮 gaming + tech 🎥 videographer 🌿 all content is my own ✉️ business: whiteliongamesco@gmail.com
     location: "United States"
-    followers: 26460
-    engagement: 947
-    commentsToLikes: 0.027309
-    id: ck5c9l6x6bmtw0i11of2g2ast
+    followers: 12131
+    engagement: 451
+    commentsToLikes: 0.070486
+    id: clg616tdhcrp20j08uk85uetm
     verified: false
-    hashtags: "#weiderlovers"
+    hashtags: "#gamingcontroller, #ps5, #cyberpunk2077, #tvsetups"
 ---

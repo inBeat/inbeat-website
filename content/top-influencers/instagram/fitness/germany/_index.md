@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Germany In 2023
+title: Top 10 Fitness Instagram Influencers In Germany In 2024
 description: >-
-  Find top fitness Instagram influencers in Germany in 2023. Most popular hashtags: #fitness #fitnessmotivation #gymgirl #motivation.
+  Find top fitness Instagram influencers in Germany in 2024. Most popular hashtags: #ootd #summer #fashion #fitness.
 platform: Instagram
-hits: 1973
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 1973 Instagram influencers like this in Germany for you to connect with.
+hits: 2249
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 2249 Instagram influencers like this in Germany for you to collaborate.
 profiles:
   - username: "filipexferreira"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck9hctx2cmyit0j78mqxuciyl
     verified: false
     hashtags: "#halloween"
-  - username: "nicolas_aesthetics"
+  - username: "nicole.luckic"
     fullname: >-
-      Nicolas Enache | Fitness, Cooking & Health
+      n i c o l e 🫶🏼
     bio: >-
-      🏅Nr1 fitness&healthy cooking in🇷🇴 📧:Nicolas_ec@yahoo.com 🏋🏻‍♂️Myprotein Ambassador 👨🏻‍🎓Nutritionist & PT 🌮DM Plan Alimentar 🥙+1900 Clients 🧬Natural
+      welcome to my digital diary 🫶🏼 m 🧸 fitness | fashion | lifee? ______________________
     location: "Germany"
-    followers: 107721
-    engagement: 431
-    commentsToLikes: 0.007534
-    id: ck5hdm6dio6r40i11vzge88qv
+    followers: 115760
+    engagement: 1473
+    commentsToLikes: 0.006705
+    id: ckap45vdo5z9m0i783zdhwwkn
     verified: false
-    hashtags: "#wheninrome, #rome, #reels, #lacrescut"
-  - username: "vicces_"
+    hashtags: "#fitness, #ootd, #fashion, #bodypositivity"
+  - username: "paulinawallner"
     fullname: >-
-      victoria
+      PAULINA WALLNER
     bio: >-
-      🦋 fitness • fashion • model ☁️ cologne | 22 🏋🏽‍♀️ Teveo -10% mit Viccesx10 🤎 @naughtynuts -10% mit Victoria10
+      FITNESS | FOOD | FASHION & BEAUTY 📽 YouTube: Paulina Wallner (+350.000 Abos) ❤️ Founder @confitly ✨ Meine Marke (Fitness Produkte & Kochbuch):
     location: "Germany"
-    followers: 91635
-    engagement: 723
-    commentsToLikes: 0.029055
-    id: ck8t8e2rsk3ta0j78t0okncez
+    followers: 174794
+    engagement: 1273
+    commentsToLikes: 0.011507
+    id: ck5byku2lpcbx0i11frygcdqh
     verified: false
-    hashtags: "#potd, #teveo, #gymmotivation, #fitfamgermany"
-  - username: "healthy_mandy"
+    hashtags: "#workout, #fitness, #fitgirl"
+  - username: "nelenuebel"
     fullname: >-
-      ⭐️-Mama von Rio ❤️
+      Nele Nübel
     bio: >-
-      Ehefrau von @fitnessoskar ❤️
+      Fashion • Lifestyle • Fitness ▫️ #münster | Germany ▫️ Dog Mom 🐾 ▫️ n.nuebel@gmx.de
     location: "Germany"
-    followers: 689359
-    engagement: 1619
-    commentsToLikes: 0.044480
-    id: ck13723uq9dwn0i19hv2tcm7x
+    followers: 11193
+    engagement: 1087
+    commentsToLikes: 0.020918
+    id: ckaow70h07p3j0i78laxf5wk7
     verified: false
-    hashtags: "#fr, #liebe, #baby, #rezept"
-  - username: "bambi_jenny"
+    hashtags: "#beach, #meer, #sand, #love"
+  - username: "hannaahcarolina"
     fullname: >-
-      Jenny 🫶
+      HANNAH CAROLINA
     bio: >-
-      Ehrlicher Mama Content 💖 Authentisch🫶Echt Mai 2018👦🏼 #sommerbaby2021 🌈 👶🏽 #hausgeburt 🏡 Kaia 2019🐶 Friseurmeisterin & Fitnesstrainerin ⬇️Superfoods⬇️
+      🫧 all about fitness, fashion & my life 🪩 @teveowomen - 10% mit hannah10 ☁️ hamburg
     location: "Germany"
-    followers: 46503
-    engagement: 306
-    commentsToLikes: 0.046115
-    id: ckox6uu2ftihi0j23xdnjivxt
+    followers: 118818
+    engagement: 684
+    commentsToLikes: 0.010652
+    id: ck8szd84znyuh0j780hqzlab8
     verified: false
-    hashtags: "#sommerbaby2021, #stillen, #mamaleben, #stilleninder"
-  - username: "analena.lz"
+    hashtags: "#fitnessmotivation, #fashionblogger, #inspofashion, #stylediary"
+  - username: "selinalisa__"
     fullname: >-
-      𝓐𝓷𝓪-𝓛𝓮𝓷𝓪 𝓛𝓮𝔃𝓪𝓲𝓬
+      Selina Lisa
     bio: >-
-      🍑it’s all about gains 🦾licensed fitness trainer 🤍𝐬𝐞𝐥𝐟𝐥𝐨𝐯𝐞 | mindset | trading 👩🏽‍💻working online - DM to join me
+      📍BAVARIA, MUC/ FS 🇩🇪 | ♌️ | Fitness 🤸🏽‍♀️ 🥇 Freisinger Volksfestmadl 2018 🥈 Vize - tz Wiesn-Madl 2019 📧 Selinalisaa@gmx.de
     location: "Germany"
-    followers: 83258
-    engagement: 294
-    commentsToLikes: 0.018687
-    id: ckf5lhxlnpmno0j23vc4wp9u5
+    followers: 29605
+    engagement: 613
+    commentsToLikes: 0.024720
+    id: ckaoxyjdufapm0i781ht8a5j7
     verified: false
-    hashtags: "#shein, #gym, #sheingals, #fitness"
-  - username: "fit.suny84"
+    hashtags: "#portrait, #dirndlimdirndl, #podt, #dirndlzeit"
+  - username: "amin_elkach"
     fullname: >-
-      Sara | Darmstadt 🇩🇪 🇵🇱
+      AMIN ELKACH | ONLINE COACH
     bio: >-
-      🤍 Fitness, Travel, Lifestyle 🔜 Thailand 🇹🇭 ❗️NEW ACCOUNT @ fit.suny 250k gehackt
+      I‘ll help you to reach your fitness goals! @officialbodylab24 Athlete / Code: AMIN Train with me 👇🏾
     location: "Germany"
-    followers: 129163
-    engagement: 267
-    commentsToLikes: 0.029216
-    id: cl9ofguoykx9b0i23a2drjjgc
+    followers: 1267581
+    engagement: 687
+    commentsToLikes: 0.008090
+    id: ck6tidwo10j6w0j71yrw3n9ez
     verified: false
-    hashtags: "#fitnessgirl, #muskeln, #aufbau, #beach"
-  - username: "adriaan.vanveen"
+    hashtags: "#dayinlife, #fit, #lifestyle, #sunday"
+  - username: "debby_schoepe"
     fullname: >-
-      ADRIAAN VAN VEEN
+      Deborah Sue Schöpe
     bio: >-
-      🎭 #Schauspieler 🌱 #Vegan 🏌️ #Golf 🤸🏼 #Fitness 🖤 #Techno 📌 #Hannover 🇩🇪🇳🇱 🎬 Agentur @agentur.frehse 📰 PR @newstarmediamuc
+      💁🏽‍♀️Debby Schöpe 🇩🇪🇮🇹 Powerlifting seit April‘ 23 💪🏽@ai_fitness_de 💥#babyhulkmodus
     location: "Germany"
-    followers: 18483
-    engagement: 93
-    commentsToLikes: 0.028050
-    id: ck8syv0u3m47i0j7850l8c3el
+    followers: 6534
+    engagement: 515
+    commentsToLikes: 0.061937
+    id: ck9webqxdjl0e0j78vg4j6rl8
     verified: false
-    hashtags: "#onset, #pixxlounge, #schauspieler, #zdf"
-  - username: "yeahitsmanu"
+    hashtags: "#happy, #gym, #babyhulk, #powerlifting"
+  - username: "marius_bohn"
     fullname: >-
-      Manuel K.
+      MARIUS
     bio: >-
-      Licensed Gym Coach & Finance Nerd 🌐 Frankfurt 📍 @elements_fitness_wellness @gq_germany @tommyhilfiger @pure_training_official Impressum👇🏼
+      this is your life - make every second legendary. 🔗 | Fitness & Festivals 🌍 | Germany 📧 | mariusbohn@outlook.com
     location: "Germany"
-    followers: 15462
-    engagement: 97
-    commentsToLikes: 0.023713
-    id: ck6uc4uasdira0j71aj56im0u
+    followers: 103641
+    engagement: 869
+    commentsToLikes: 0.016746
+    id: ck0tt1sve0sbj0i19ayxbgpzq
     verified: false
-    hashtags: "#fitness, #frankfurt, #motivation, #challenges"
-  - username: "zallibhai"
+    hashtags: "#summervibes, #tbt, #gymmotivation, #greeneyes"
+  - username: "mashagldk"
     fullname: >-
-      Zehra Allibhai - The FitNest
+      Masha | Würzburg
     bio: >-
-      Fɪᴛɴᴇss | Fᴏoᴅ | Fᴀᴍɪʟʏ | Tʀᴀᴠᴇʟ 🇨🇦 Fitness Coach, Kinesiologist, @cityline expert Let’s Connect ⬇️
+      fashion, fitness, lifestyle Code: mashagl
     location: "Germany"
-    followers: 280776
-    engagement: 90
-    commentsToLikes: 0.025523
-    id: ck5hlkkxwkdtq0i11rtmqm0cg
-    verified: true
-    hashtags: "#moveyourbody, #mealprep, #movedaily, #fitatanyage"
+    followers: 13102
+    engagement: 768
+    commentsToLikes: 0.021209
+    id: ck6tp1zp0he2d0j71igowpjgv
+    verified: false
+    hashtags: "#summer, #kroatien, #alps, #styleinspo"
 ---

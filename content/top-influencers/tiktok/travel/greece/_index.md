@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Greece In 2023
+title: Top 10 Travel TikTok Influencers In Greece In 2024
 description: >-
-  Find top travel TikTok influencers in Greece in 2023. Most popular hashtags: #travel #greece #fyp #foryoupage.
+  Find top travel TikTok influencers in Greece in 2024. Most popular hashtags: #travel #fyp #greece #foryou.
 platform: TikTok
 hits: 16
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our database holds 16 TikTok influencers like this in Greece for you to work with.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: inBeat has 16 TikTok influencers like this in Greece for you to connect with.
 profiles:
   - username: "katemeets"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       • Modeling since forever • Lifestyle/travel/fashion blog @queengr • Traveling
     location: "Greece"
-    followers: 19800
-    engagement: 571
-    commentsToLikes: 0.012971
+    followers: 20500
+    engagement: 577
+    commentsToLikes: 0.013986
     id: ckbkqu2yyl80g0j23cw87olwr
     verified: true
-    hashtags: "#foryoupage, #foruyou, #foryou, #savage"
+    hashtags: "#foryou, #foryoupage, #foruyou, #fy"
   - username: "spanof"
     fullname: >-
       span of 

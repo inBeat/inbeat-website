@@ -1,12 +1,24 @@
 ---
-title: Top 10 Vegan Instagram Influencers In San Francisco In 2023
+title: Top 10 Vegan Instagram Influencers In San Francisco In 2024
 description: >-
-  Find top vegan Instagram influencers in San Francisco in 2023. Most popular hashtags: #vegan #sanfrancisco #bayarea #plantbased.
+  Find top vegan Instagram influencers in San Francisco in 2024. Most popular hashtags: #vegan #sanfrancisco #bayarea #sffoodie.
 platform: Instagram
-hits: 26
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database holds 26 Instagram influencers like this in San Francisco, United States for you to connect with.
+hits: 45
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 45 Instagram influencers like this in San Francisco, United States for you to collaborate.
 profiles:
+  - username: "beleafvegan"
+    fullname: >-
+      Beleaf Plant-Based Foods
+    bio: >-
+      🍃Beleaf in Better We make seafood and meat out of plants 🌱 🏆 Winner 2022- Best Plant-Based Shrimp 🍤🥇
+    location: "United States"
+    followers: 28030
+    engagement: 58
+    commentsToLikes: 0.089445
+    id: ck5zjaegch8nq0i14ar7qwyc1
+    verified: false
+    hashtags: "#atlantavegan, #veganfood, #buffalosauce, #justvegan"
   - username: "theuncreamery"
     fullname: >-
       The Uncreamery - Vegan Cheese
@@ -18,7 +30,7 @@ profiles:
     commentsToLikes: 0.051448
     id: ck5zj9jjhh6vi0i14vb1nsfmk
     verified: false
-    hashtags: "#meatless, #vegetarian, #thefutureofdairyisnuts, #food52"
+    hashtags: "#vegancheeseboard, #heartshaped, #vegancheese, #thefeedfeed"
   - username: "consciouschris"
     fullname: >-
       Chris • Ⓥ
@@ -42,7 +54,31 @@ profiles:
     commentsToLikes: 0.074823
     id: ckap7l52rkjmz0i78tvefuly2
     verified: false
-    hashtags: "#bayarea, #birthday, #sanfrancisco, #birthdaygirl"
+    hashtags: "#bayarea, #birthday, #sanfrancisco, #newyorkcity"
+  - username: "bellythebeast"
+    fullname: >-
+      Sylvia • NYC & Cali Eats
+    bio: >-
+      Entering "Beast Mode" in NYC, SF, LA & beyond #BellytheBeast ✉ bellythebeasteats@gmail.com
+    location: "United States"
+    followers: 40340
+    engagement: 231
+    commentsToLikes: 0.191038
+    id: ck0w2l7f9ox2c0i19j7keq026
+    verified: false
+    hashtags: "#bayareaeats, #cheese, #fish, #spoonfeed"
+  - username: "emsnutfreeeats"
+    fullname: >-
+      Emily | Em’s Nut-Free Eats
+    bio: >-
+      Sharing restaurants, reviews & life with food allergies! ⭐️ nut-free & gluten-free 📍San Francisco Check out my blog!⬇️
+    location: "United States"
+    followers: 5708
+    engagement: 360
+    commentsToLikes: 0.160119
+    id: ckrhu9i9qf0sf0j23t6wk0s04
+    verified: false
+    hashtags: "#sfeats, #allergyfree, #icecreamaddict, #glutenfreeeats"
   - username: "andoni_lekue"
     fullname: >-
       The Vegan Wolf 🌱🐺
@@ -55,76 +91,40 @@ profiles:
     id: ck9wdybf4htln0j781fhen8i9
     verified: false
     hashtags: "#calisthenics, #family, #wework, #beast"
-  - username: "lisamyaf"
+  - username: "eatwithnora"
     fullname: >-
-      Lisa Myaf 🌱 VEGAN FOOD
+      NORA | BAY AREA EATS ☁️
     bio: >-
-      🧀 Vegan cheese maker 💝@theuncreamery co-founder 🍴Total Foodie 🌱San Francisco, CA ⬇CLICK HERE TO ORDER OUR CHEESE⬇
+      ⋒ sharing the simple pleasures in life ☼ bay area, ca ✎ eatwithnora@gmail.com
     location: "United States"
-    followers: 25241
-    engagement: 315
-    commentsToLikes: 0.078021
-    id: ck0tv12mg9h380i19zqgmri55
+    followers: 14513
+    engagement: 1037
+    commentsToLikes: 0.058432
+    id: ckmw1dk3w6n8d0j23v9i6n8yr
     verified: false
-    hashtags: "#ketodiet, #vegan, #meatlessmonday, #bestofvegan"
-  - username: "sanfrancisco_iloveyou"
+    hashtags: "#sffood, #foodblogger, #sfeats, #sanfrancisco"
+  - username: "fayludes"
     fullname: >-
-      We Love San Francisco ❤️🌁
+      Fāy Ludes✨🍃ⓥ🧡
     bio: >-
-      We keep you posted on all the great places to visit, dishes to try & adventures to have in San Francisco! 🦀🍸 🏷@SanFrancisco_iLoveYou to get featured
+      Nomadic d¥k€ drag queen on tour #GiGitheRV🚐💨 ‼️Currently in SAN FRANCISCO‼️ Former host @thisisitbar @maryschicago @marysmke✨ RIP @strummeragogo🐕💔
     location: "United States"
-    followers: 7284
-    engagement: 712
-    commentsToLikes: 0.026965
-    id: ckf5rrzlzdptm0j235yskv93t
+    followers: 17047
+    engagement: 2936
+    commentsToLikes: 0.040719
+    id: ck5q3ttm0md360i11dydbbhm6
     verified: false
-    hashtags: "#sanfran, #sanfranciscoiloveyou, #bayarea, #california"
-  - username: "natsplantlife"
+    hashtags: "#mullet, #qwerrrk, #dragqueen, #dragqueensofinstagram"
+  - username: "keneats_"
     fullname: >-
-      Vegan | Low Waste Lifestyle
+      kenya // sf + bay area foodie 😋
     bio: >-
-      ⋒ Nataly | CA | Latina ↠ She/Her ♡ ↠ Simple vegan meals 🌱 ↠ Earth X Climate advocate ↠ Mental Health Positivity
+      📸 Food | Lifestyle | Travel | Fitness 📍San Francisco Bay Area 💌 kkeneats@gmail.com
     location: "United States"
-    followers: 8063
-    engagement: 435
-    commentsToLikes: 0.178114
-    id: ck0udd2j7issa0i19orq4ogr5
+    followers: 5500
+    engagement: 393
+    commentsToLikes: 0.198277
+    id: clhdzrbz2rck80j08qiop2wm7
     verified: false
-    hashtags: "#consciousconsumer, #bayareavegans, #consciousliving, #environmentallyfriendly"
-  - username: "souleyvegan"
-    fullname: >-
-      SOULEY VEGAN
-    bio: >-
-      EST. 2006 We are a Vegan Louisiana Creole restaurant in Oakland Ca Known 4 Bold approach to the vegan industry. Visit our website for locations!
-    location: "United States"
-    followers: 41535
-    engagement: 660
-    commentsToLikes: 0.013168
-    id: ck8szxanrq2cm0j78ugwn24sh
-    verified: false
-    hashtags: "#vegansofla, #souleyveganla, #crueltyfree, #veganofig"
-  - username: "pinkispalate"
-    fullname: >-
-      Priyanka Shah, PA-C
-    bio: >-
-      🌱Easy, nourishing vegan & Jain fusion recipes 👩🏽‍⚕️ Stanford Physician Associate 🧘🏽‍♀️Compassionate & conscious living 👇🏽Blog, more recipes, & links
-    location: "United States"
-    followers: 6075
-    engagement: 636
-    commentsToLikes: 0.072660
-    id: ckaory46dpai50i7811juasz0
-    verified: false
-    hashtags: "#vegansnacks, #easyrecipes, #veganindian, #indianfoodbloggers"
-  - username: "classycleanchic"
-    fullname: >-
-      Emerson 🦋
-    bio: >-
-      👩🏼‍💻Engineer turned FULL TIME FASHION BLOGGER 🐶Minneapolis dog mom @classycleancoco 🛍@shopclassycleanchic ✨I bought a condo🏡🏙🌤
-    location: "United States"
-    followers: 425759
-    engagement: 179
-    commentsToLikes: 0.105149
-    id: ck136v23q8epd0i19wfd6l9i5
-    verified: false
-    hashtags: "#revolveme, #ltksalealert, #winteroutfit, #minnesota"
+    hashtags: "#sffood, #italianfood, #sanfrancisco, #nikon"
 ---

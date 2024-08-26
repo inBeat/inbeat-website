@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Japan In 2023
+title: Top 10 Hypebeast Instagram Influencers In Japan In 2024
 description: >-
-  Find top hypebeast Instagram influencers in Japan in 2023. Most popular hashtags: #hypebeast #streetfashion #japan #sneakers.
+  Find top hypebeast Instagram influencers in Japan in 2024. Most popular hashtags: #hypebeast #japan #moodygrams #beautifuldestinations.
 platform: Instagram
-hits: 44
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 44 Instagram influencers like this in Japan for you to pitch.
+hits: 46
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 46 Instagram influencers like this in Japan for you to collaborate.
 profiles:
   - username: "poggytheman"
     fullname: >-
@@ -19,6 +19,30 @@ profiles:
     id: ck15qa0gf1trm0i19qwus16da
     verified: false
     hashtags: "#poggy, #repost, #thegentlemanintheparlour, #erichaze"
+  - username: "jungraphy_"
+    fullname: >-
+      Junya Watanabe / Tokyo 🇯🇵
+    bio: >-
+      Roaming the Night City Based in Tokyo / Akihabara Contact : junyawtmanagement@gmail.com
+    location: "Japan"
+    followers: 377672
+    engagement: 962
+    commentsToLikes: 0.005688
+    id: ck0ublx70euqt0i197hu6mwm4
+    verified: false
+    hashtags: "#hellofrom, #discoverearth, #visualambassadors, #tokyocameraclub"
+  - username: "tokyo_streets_shots"
+    fullname: >-
+      Kei P. Nagai
+    bio: >-
+      Lost in Japan' streets, shows Tokyo’s daily life 25 years in Lyon 🇫🇷 | 15 years in 東京 🇯🇵 iPhone only account: @tokyo_gone
+    location: "Japan"
+    followers: 137879
+    engagement: 345
+    commentsToLikes: 0.005078
+    id: ck0ublt5eeu6t0i19ete5pcpe
+    verified: false
+    hashtags: "#visualgrams, #agameoftones, #visitjapanjp, #streetphotography"
   - username: "hy_ym0207"
     fullname: >-
       HiROYUKi
@@ -103,28 +127,4 @@ profiles:
     id: ck0w2h3fzocc00i190mxjyx5b
     verified: false
     hashtags: "#seratodj, #funk, #artofvisuals, #newmusic"
-  - username: "lupus_solum"
-    fullname: >-
-      lupus
-    bio: >-
-      camping Journey 🏕 Jeep Wrangler interior Scandinavian design coffee ☕︎ コメント フォローお気軽にどうぞ⛰
-    location: "Japan"
-    followers: 5635
-    engagement: 1724
-    commentsToLikes: 0.011350
-    id: ck5q637t2vrar0i11izk9o3x8
-    verified: false
-    hashtags: "#wp, #pt, #sunsetclimax, #pashadelic"
-  - username: "k04z04y"
-    fullname: >-
-      𝙁𝙐𝙆𝙐 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-    bio: >-
-      𝔭𝔩𝔢𝔞𝔰𝔢 𝔣𝔬𝔩𝔩𝔬𝔴 𝔪𝔢. #supreme #sneaker #streetwear
-    location: "Japan"
-    followers: 8305
-    engagement: 2477
-    commentsToLikes: 0.006099
-    id: ck9wfyks4r3570j78o1jpwuo9
-    verified: false
-    hashtags: "#boxlogohoodie, #jordanretro, #supremenyc, #supremenorthface"
 ---

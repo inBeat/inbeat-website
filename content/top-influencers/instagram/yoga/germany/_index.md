@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Germany In 2023
+title: Top 10 Yoga Instagram Influencers In Germany In 2024
 description: >-
-  Find top yoga Instagram influencers in Germany in 2023. Most popular hashtags: #happyme #mondaymotivation #yogadeutschland #style.
+  Find top yoga Instagram influencers in Germany in 2024. Most popular hashtags: #yoga #running #laufliebe #laufen.
 platform: Instagram
-hits: 394
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 394 Instagram influencers like this in Germany for you to contact.
+hits: 470
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 470 Instagram influencers like this in Germany for you to work with.
 profiles:
-  - username: "picturing.spirit"
+  - username: "muellerflix"
     fullname: >-
-      Sustainable Yogini ✨ Johanna
+      Felix M. ↟ Nature ↟ Germany
     bio: >-
-      📍germany - she/her Ich • große yogaliebe | vegan | feministIn | real-life person | 🏳️‍🌈
+      》photography is my yoga《 📍based near @stadtulm 🏞️ ⬇️ Imprint & Linktree 🌲
     location: "Germany"
-    followers: 18652
-    engagement: 675
-    commentsToLikes: 0.035410
-    id: ck9hazujierui0j78teooufdv
+    followers: 17866
+    engagement: 409
+    commentsToLikes: 0.136811
+    id: ck5ckms21x71f0i11dbsdd2ht
     verified: false
-    hashtags: ""
-  - username: "endless_footsteps"
+    hashtags: "#sigmafoto, #theimaged, #visitrlp, #allg"
+  - username: "fionafuchs_official"
     fullname: >-
-      va̧nlife łravel ɱindfulness
+      🦊 Ｆｉｏｎａ Ｆｕｃｈｓ 🦊
     bio: >-
-      ⋖ daniela x patrick ⋗ ♒︎ fulltime vanlife vw lt 28 ⥉ poland ॐ yoga teacher ↡ homepage & products
+      Yogalehrerin mit einem Augenzwinkern. Auf der Suche nach dem Gleichgewicht zwischen Humor und Tiefe.
     location: "Germany"
-    followers: 12117
-    engagement: 508
-    commentsToLikes: 0.091738
-    id: ck0tytyoio1g30i19aqgl2p7t
+    followers: 165655
+    engagement: 400
+    commentsToLikes: 0.017813
+    id: ck0vyq6cf58wv0i19m6qlp61t
     verified: false
-    hashtags: "#fulltimetravel, #vwlt28, #mindfulliving, #couplegoals"
-  - username: "charmed_by_yoga"
+    hashtags: "#throwback, #photoshoot, #fionafuchs, #redlips"
+  - username: "yogasteph_"
     fullname: >-
-      BINA MAQBOOL - Yoga Coach Köln
+      Steph Jaksch🤸🏼‍♂️Yoga teacher
     bio: >-
-      Youtube: bina maqbool *reconnect to your body & soul* 🧘‍♀️1:1 yoga | womencircles ambassador @vioyoga @vayumudra @onzie @mindfulnesshop
+      International Yoga Teacher www.stephjakschyoga.com Privates. Prenatal. Jivamukti. Online.📍🇵🇹 Lisboa
     location: "Germany"
-    followers: 18787
-    engagement: 507
-    commentsToLikes: 0.305507
-    id: ck6tu7hb9eqvv0j710okd7z1x
+    followers: 17381
+    engagement: 386
+    commentsToLikes: 0.017113
+    id: cktorkvkyfdgl0j236jkpjd4v
     verified: false
-    hashtags: "#alomoves, #yoga, #yogalifestyle, #yogapose"
-  - username: "kathaaab"
-    fullname: >-
-      Kathi | fashion
-    bio: >-
-      Petite Girl 🕊 Yoga🧘🏽‍♀️ 24 • § • M🤍
-    location: "Germany"
-    followers: 5662
-    engagement: 572
-    commentsToLikes: 0.089656
-    id: ck0vybse7379g0i19sztgonwe
-    verified: false
-    hashtags: "#sunday, #anajohnson, #style, #fashiondiaries"
-  - username: "elke.offiziell"
-    fullname: >-
-      Leni‘s Mom oder Elke
-    bio: >-
-      #mompreneur @fairpackage_agency #Tvhost @channel21_official #momblog #veg #yogagirl #strokesurvivor #animallove jahn.management@gmail.com DXB - MUC
-    location: "Germany"
-    followers: 211134
-    engagement: 1047
-    commentsToLikes: 0.008165
-    id: ckap3hyv432nt0i78vnwsqck2
-    verified: false
-    hashtags: "#likemotherlikedaughter, #matchymatchy, #mysiblingsoutfit, #stayhome"
+    hashtags: "#scoliosis, #workout, #strongwomen, #strongass"
   - username: "madymorrison"
     fullname: >-
-      YOGA & FIT LIFESTYLE
+      Mady Morrison
     bio: >-
-      » Youtuber | Yogateacher | Designer » Yoga, Fitness & Lifestyle 🎥Youtube: Mady Morrison 1,9 Mio.🤘🏻 ✨30 Min. Full Body Stretch:
+      » Youtuber | Yogateacher | Designer ✺ @madymorrison.label 🎥Youtube: Mady Morrison 3,4 Mio.🤘🏻 ⚡️Neues Yoga-Video auf YouTube:
     location: "Germany"
-    followers: 669501
-    engagement: 636
-    commentsToLikes: 0.015549
+    followers: 1020965
+    engagement: 335
+    commentsToLikes: 0.060327
     id: ck13bieknvk160i190slpq2el
     verified: false
-    hashtags: "#zalandostyle, #handstandlover, #teammorrison, #yogamitmady"
-  - username: "tanja_lanaeus"
+    hashtags: "#yogamitmady, #communitycollection, #youtubeyoga, #yogaf"
+  - username: "running.miss.sandyd"
     fullname: >-
-      Tanja Lanäus
+      Sandra | Brooks Run Happy Team
     bio: >-
-      Agentur Actors Connection ✨ Running ✨ Fitness ✨ Yoga (Beginner)
+      🧘🏼‍♀️ Yogalehrerin • Power Vinyasa Yoga • 💙 Laufverliebt ⭐ HM: 01:43:09 📍 Cologne #runhappy #brooksrunningde @brooksrunningde
     location: "Germany"
-    followers: 27038
-    engagement: 696
-    commentsToLikes: 0.106528
-    id: ck5hkvnkgj44v0i11pgjxghxx
+    followers: 10009
+    engagement: 329
+    commentsToLikes: 0.045634
+    id: ck0w6abc77m9z0i19vchjslye
     verified: false
-    hashtags: "#actresslife, #sundaysin, #fiftyyearsold, #coffeelover"
-  - username: "anne_bodykiss"
+    hashtags: "#iloverunning, #laufliebe, #instarunners, #brooksrunning"
+  - username: "running.ricarda"
     fullname: >-
-      Anne Kissner ❤ BodyKiss
+      Ricarda Alt
     bio: >-
-      FitnessLover & YogaTeacher🏋️Dackel Mum🐶 Lawyer⚖️ #TeamGalaxy 600.000 Abos YouTube🎥 Impressum: https://bodykiss.net/impressum💚 Gewinnspiel TNB💚👇🏽
+      TRAILRUNNING | ULTRAMARATHON | YOGA | ABENTEUER | REISEN Deutscher Meister Ultratrail 🥇 @scc.la 🏃🏻‍♀️ Senior Social Media Manager Based in Berlin | 🇩🇪
     location: "Germany"
-    followers: 314892
-    engagement: 283
-    commentsToLikes: 0.018092
-    id: ck5bw7hn2l52w0i1133wyqhmc
+    followers: 12653
+    engagement: 689
+    commentsToLikes: 0.026895
+    id: clnny6ahf2q510j0843bcc7f5
+    verified: false
+    hashtags: "#ultrarunning, #runningmemes, #enduranceathlete, #mountainreels"
+  - username: "_learh"
+    fullname: >-
+      lea rohe 🫴🏼🦋
+    bio: >-
+      semi-private camera roll of a personal stylist, yoga guide and coach that sells vintage & talks on a podcast for fun,too.🌻 represented by @rsa.mgmt 💌
+    location: "Germany"
+    followers: 17525
+    engagement: 300
+    commentsToLikes: 0.033185
+    id: clipg9nngjzp30j08fyzt83t2
+    verified: false
+    hashtags: "#stylingcowboyboots, #stylingcardigans, #stylinglatesummeroutfits, #glambou"
+  - username: "laetitia_channel_model"
+    fullname: >-
+      LAETITIA BOUFFARD-ROUPE✨MODEL
+    bio: >-
+      PUBLISHED MODEL FINE-ART | BALLET | YOGA | FITNESS MY BOOK ➡️ @timeless_bnw_book MY MODEL COURSE ➡️ @artmodelacademy
+    location: "Germany"
+    followers: 104312
+    engagement: 390
+    commentsToLikes: 0.111845
+    id: ckapalhq7wl430i78mord77kj
+    verified: false
+    hashtags: "#model, #travelingmodel, #modelling, #genevaphotographer"
+  - username: "namastevelyn__"
+    fullname: >-
+      Evelyn Stephanie - HATHA YOGA - ACHTSAMKEIT 🧘🏼‍♀️
+    bio: >-
+      🤎Yoga- Achtsamkeit - Wellness 🤎Yogateacher 🧘🏼‍♀️ 🤎Travelguide @jolyntravel 🤎Dackel 🐶 @dackelrocky 🤎🏡Schwarzwald
+    location: "Germany"
+    followers: 13469
+    engagement: 286
+    commentsToLikes: 0.116956
+    id: ckap234xax6az0i78fgv97n55
+    verified: false
+    hashtags: "#adventskalender, #prettylittleinspo, #yogapractice, #americanstyle"
+  - username: "jana_azizi"
+    fullname: >-
+      Jana Azizi
+    bio: >-
+      📺 TV Moderatorin | RTL EXPLOSIV | ntv deluxe 🌈 IRONMAN 70.3 Cozumel | HYROX | YOGA Teacher ✉️ ja@srmanagement.de @janaazizi_impressum
+    location: "Germany"
+    followers: 119548
+    engagement: 255
+    commentsToLikes: 0.024875
+    id: ck5hm92zdliwy0i1157g5xrq1
     verified: true
-    hashtags: "#unfoldyourworld, #withgalaxy, #teamgalaxy, #galaxyunpacked"
-  - username: "xenia.greta"
-    fullname: >-
-      𝐗𝐞𝐧𝐢𝐚 ☼ 𝐆𝐫𝐮̈𝐧𝐝𝐞𝐫𝐢𝐧 𝐯𝐨𝐧 𝐒𝐨𝐡𝐚
-    bio: >-
-      𝑫𝒆𝒓 𝑴𝒐𝒎𝒆𝒏𝒕, 𝒘𝒆𝒏𝒏 𝒘𝒊𝒓 𝒖𝒏𝒔 𝒂𝒏 𝒖𝒏𝒔𝒆𝒓𝒆 𝑮𝒂𝒏𝒛𝒉𝒆𝒊𝒕, 𝑳𝒆𝒊𝒄𝒉𝒕𝒊𝒈𝒌𝒆𝒊𝒕 & 𝑳𝒆𝒃𝒆𝒏𝒔𝒍𝒊𝒆𝒃𝒆 𝒆𝒓𝒊𝒏𝒏𝒆𝒓𝒏... ♡ @sohacommunity ⇨ Yoga ~ Coaching ~ Kurse ~ Ausbildung ~ Retreats
-    location: "Germany"
-    followers: 9947
-    engagement: 485
-    commentsToLikes: 0.079984
-    id: ck1363z3e4nij0i19n5bs2ods
-    verified: false
-    hashtags: "#sohacommunity, #sohafeeling, #sohayoga, #ver"
-  - username: "its___carl"
-    fullname: >-
-      Caroline 🌞 カロリネ
-    bio: >-
-      Just a girl that likes to travel ✈️ nature 🌱 the ocean 🌊 hugging trees 🌳 dreaming 🔮 and yoga 🧘🏻‍♀️ based in Hamburg, Germany 🇩🇪
-    location: "Germany"
-    followers: 15540
-    engagement: 343
-    commentsToLikes: 0.078806
-    id: ckf5qri62abxs0j239o2yl0qj
-    verified: false
-    hashtags: "#practiceandalliscoming, #loveandalliscoming, #yogadeutschland, #onandoffthemat"
+    hashtags: "#janaexplosiv, #explosiv, #rtlexplosiv, #explosivstories"
 ---

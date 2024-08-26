@@ -1,24 +1,12 @@
 ---
-title: Top 10 Food TikTok Influencers In Brisbane In 2023
+title: Top 10 Food TikTok Influencers In Brisbane In 2024
 description: >-
-  Find top food TikTok influencers in Brisbane in 2023. Most popular hashtags: #food #fyp #australia #brisbane.
+  Find top food TikTok influencers in Brisbane in 2024. Most popular hashtags: #food #fyp #australia #brisbane.
 platform: TikTok
 hits: 9
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 9 TikTok influencers like this in Brisbane, Australia for you to pitch.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our platform has 9 TikTok influencers like this in Brisbane, Australia for you to connect with.
 profiles:
-  - username: "misscravenbakes"
-    fullname: >-
-      Karly Jaye
-    bio: >-
-      Australian Cake Maker 🎂 Dont be shy, add me on Insta I reply to all comments
-    location: "Australia"
-    followers: 31100
-    engagement: 654
-    commentsToLikes: 0.013295
-    id: ckbqej6qe0e770j233rbw7bzc
-    verified: false
-    hashtags: "#cake, #brisbane, #food, #cakedecorating"
   - username: "kosti.sistas"
     fullname: >-
       kita & doo
@@ -31,6 +19,18 @@ profiles:
     id: ckb9sp0g9q3a20j23cdtckux9
     verified: false
     hashtags: "#fashion, #tiktokaustralia, #siblings, #shein"
+  - username: "misscravenbakes"
+    fullname: >-
+      Karly Jaye
+    bio: >-
+      Australian Cake Maker 🎂 Dont be shy, add me on Insta I reply to all comments
+    location: "Australia"
+    followers: 33100
+    engagement: 782
+    commentsToLikes: 0.014468
+    id: ckbqej6qe0e770j233rbw7bzc
+    verified: false
+    hashtags: "#cake, #cakes, #tutorial, #food"
   - username: "teshaleigh"
     fullname: >-
       Tesha Leigh 
@@ -49,12 +49,12 @@ profiles:
     bio: >-
       Live For Today⚱️ Plan For Tomorrow 👨‍🏫 Party Tonight 🍻
     location: "Australia"
-    followers: 147100
-    engagement: 838
-    commentsToLikes: 0.029337
+    followers: 147000
+    engagement: 785
+    commentsToLikes: 0.027921
     id: ck9n54tej6gqs0j78etrr9739
     verified: false
-    hashtags: "#snake, #australia, #watchtilltheend, #tiktok"
+    hashtags: "#watchtilltheend, #animal, #onlyinaustralia, #melbourne"
   - username: "alexmcgaughey"
     fullname: >-
       alexmcgaughey
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.042272
     id: ck8farqus4mkt0j785qqk209v
     verified: false
-    hashtags: "#trending, #fyp, #f45, #plussize"
+    hashtags: "#workoutroutine, #trending, #plussizeedition, #weightloss"
   - username: "brissybabe"
     fullname: >-
       Ash

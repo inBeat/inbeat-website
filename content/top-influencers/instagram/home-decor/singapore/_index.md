@@ -1,106 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Singapore in 2023
+title: Top 10 Home Decor Instagram Influencers In Singapore In 2024
 description: >-
-  Find top home decor Instagram influencers in Singapore in 2023. Most popular hashtags: #stayhome #homedecor #cute #plants.
+  Find top home decor Instagram influencers in Singapore in 2024. Most popular hashtags: #homedecor #singapore #interiorstyling #homeinspo.
 platform: Instagram
-hits: 8
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 8 Instagram influencers like this in Singapore for you to connect with.
+hits: 12
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 12 Instagram influencers like this in Singapore for you to contact.
 profiles:
-  - username: "esteezaki"
+  - username: "madspatial"
     fullname: >-
-      𝑬𝒔𝒕𝒆𝒆 & 𝒁𝒂𝒌𝒊
+      adri • interior lifestyle
     bio: >-
-      🔸Reno/I.D @idah.interior 🌿HomeFragrance @ma.homefragrance 🔹️HomeDecor @esteezaki.lux 👨‍👩‍👧‍👦Maya Alessandra&Zayn Isaac
+      cozy living at home, singapore adritwn@gmail.com @thestackedstore
     location: "Singapore"
-    followers: 17341
-    engagement: 461
-    commentsToLikes: 0.017986
-    id: ck14ihsm4fgw30i19gw5ypwg2
+    followers: 235537
+    engagement: 826
+    commentsToLikes: 0.019938
+    id: clto0y4einyxm0k08u78y82qr
     verified: false
-    hashtags: "#mayaalessandra, #zaynisaac, #family, #siblings"
-  - username: "germaine.ttran"
+    hashtags: "#elledecor, #darkhome, #slowliving, #mood"
+  - username: "peggyleong.sg"
     fullname: >-
-      Germaine✨ TRAVEL & FASHION
+      Peggy Leong
     bio: >-
-      👩🏻‍🎨Visual Storyteller & Creative 👾Twerking in my PJs 📷Intl. publ in UK Harper’s Bazaar,HelloBali &> 📍🏡 #singapore🇸🇬 👇🏼Blog
+      🏠 𝑬𝒗𝒆𝒓𝒚 𝒅𝒂𝒚 𝒊𝒔 𝒂 𝒋𝒐𝒖𝒓𝒏𝒆𝒚, 𝒂𝒏𝒅 𝒕𝒉𝒆 𝒋𝒐𝒖𝒓𝒏𝒆𝒚 𝒊𝒕𝒔𝒆𝒍𝒇 𝒊𝒔 𝒉𝒐𝒎𝒆. Follow along to witness our new house renovation and hometour journey! 🩷
     location: "Singapore"
-    followers: 50225
-    engagement: 258
-    commentsToLikes: 0.101404
-    id: ck5c8rdama2wt0i11hxyfd2wx
+    followers: 63706
+    engagement: 332
+    commentsToLikes: 0.071810
+    id: clm70agozgbx90j0874eewhzq
     verified: false
-    hashtags: "#coldstoragesg, #livemoremagic, #posttheordinary, #sghomes"
-  - username: "everestsays"
+    hashtags: "#homeliving, #sginterior, #coastalvibes, #sghome"
+  - username: "lemonfridgestudio"
     fullname: >-
-      E v e r e s t
+      Lemonfridge Studio - Interior Designer
     bio: >-
-      D R E A M S | L O V E S | T R A V E L S New YouTube Video 👇🏻
+      🍋Interior design studio @lemonfridge.lifestyle @lemonfridge.landed @lemonfridge.commercial 📬 hello@lemonfridge.sg | 📳 87507675 (WA only)
     location: "Singapore"
-    followers: 17221
-    engagement: 176
-    commentsToLikes: 0.091809
-    id: ck9woqvmo67u80j78d89v3vbd
+    followers: 67438
+    engagement: 69
+    commentsToLikes: 0.007118
+    id: cl6yfaihto7hj0i23rft8lsmv
     verified: false
-    hashtags: "#ootdsg, #partipost, #uniqlo, #stayhome"
-  - username: "nadiahmdin"
+    hashtags: "#interior, #sginteriorarchitecture, #japandi, #hdb"
+  - username: "qanvast"
     fullname: >-
-      Nadiah M.Din
+      Qanvast | Renovation Platform
     bio: >-
-      🎬 Tv/Film Actor & Host 👩🏽 🇸🇬Javanese and Pakistani. #asktherevertiglive #lapouponsmaison #lespouponsdecor @lespoupons.sg 📧-Nmdin.official@gmail.com
+      Find reliable IDs for free on Qanvast! ✨👷 🙋 Get free quotes, no hidden fees 💰 $50K Qanvast Guarantee 👋 Meet IDs @ Hangout (27 - 28 July)
     location: "Singapore"
-    followers: 158221
-    engagement: 144
-    commentsToLikes: 0.046027
-    id: ck0u2a0v2zdx90i19cggrb9qg
+    followers: 174445
+    engagement: 72
+    commentsToLikes: 0.016412
+    id: ck14j6lt6iu1v0i19jjfddp8z
+    verified: false
+    hashtags: "#renovation, #singapore, #interiorsg, #sghomes"
+  - username: "sojaoshop"
+    fullname: >-
+      S O J A O
+    bio: >-
+      Obsessed With Only The Best For Your Home Certified Organic Sheets, Towels & Loungewear Ships Worldwide🌍
+    location: "Singapore"
+    followers: 20158
+    engagement: 37
+    commentsToLikes: 0.007033
+    id: cloxog8g2znsa0j08yge2lrtt
+    verified: false
+    hashtags: "#housetohome, #vogueliving, #howwelive, #sghomes"
+  - username: "marjhankausar"
+    fullname: >-
+      Marjhan Emaan 🧿
+    bio: >-
+      She’s in her mama era 🇵🇰🇪🇨🇺🇸 📍 Singapore 📧 marjhankausar.pr@gmail.com
+    location: "Singapore"
+    followers: 45317
+    engagement: 1820
+    commentsToLikes: 0.041707
+    id: ck55mjej543g30i11o5t04lh6
+    verified: false
+    hashtags: "#londonlife, #desifashion, #toddlermom, #londonfashion"
+  - username: "shunicorn_"
+    fullname: >-
+      Sherrine wh
+    bio: >-
+      a little cooler on the internet ✨ 📍 singapore 💌 sherrinewh@gmail.com 🎥 tiktok shunicorn_ (56k)
+    location: "Singapore"
+    followers: 55624
+    engagement: 291
+    commentsToLikes: 0.010600
+    id: clmumxcvrl7bz0j081qv5o4ox
+    verified: false
+    hashtags: "#thisonemyshopeehaul, #relatable, #imwithcharleskeith, #jk"
+  - username: "paulfosterrr"
+    fullname: >-
+      Paul Foster
+    bio: >-
+      Singaporean 🇸🇬 Host🎙️ Actor 🎬 Model 📷 Fitness 💪🏻 Food 🍴 Travel 🛩️ Charity 💞 Eco Conscious Citizen 🌏 @crustsingapore Singapore Sustainable Beer 🍺
+    location: "Singapore"
+    followers: 52155
+    engagement: 267
+    commentsToLikes: 0.011208
+    id: ck5bzgi1jr3hz0i11m5lwqyhc
     verified: true
-    hashtags: "#asktherevert, #nomadseries, #asktherevertqna, #lapouponsmaison"
-  - username: "beautifulbuns_sg"
+    hashtags: "#fosterthelove, #communityhomestaynepal, #alwaysrememberingneverforgetting, #samsonitesg"
+  - username: "chewchormeng"
     fullname: >-
-      Cheryl 세린 🙋🏻
+      Rafael 周初明
     bio: >-
-      Editor, Ex-journalist, Multi-award-winning beauty blogger HerWorld Beauty Awards Judge HerWorldPlus SMA Beauty Winner ‘16 Most Popular Beauty Blog ‘15
+      @mediacorp actor managed by @the_celebrityagency
     location: "Singapore"
-    followers: 35746
-    engagement: 144
-    commentsToLikes: 0.100739
-    id: ck5cb6rp1euka0i11zuuwh70y
-    verified: false
-    hashtags: "#liptint, #redlipstick, #guerlain, #instabeauty"
-  - username: "gayatriisingh"
+    followers: 74785
+    engagement: 193
+    commentsToLikes: 0.027113
+    id: ck5c8r1m1a28x0i11vp1kqpal
+    verified: true
+    hashtags: "#steigensingapore, #sgrenovation, #pleasesupport, #veryfathidebehind"
+  - username: "simplysue"
     fullname: >-
-      Gayatri Singh-Culinary Nirvana
+      Surya Rahmanty (SR) ☀️
     bio: >-
-      #food | #recipes | #lifestyle •trained chef•recipe developer •photographer•thermomix chef & teacher #culinarynirvana DM for Collabs Tap👇🏼for recipes
+      Model | Actress | Host Indomix Miss International Worldwide 2011, SupermodelAwardStatus 🇸🇬🇮🇩🇵🇭🇬🇧🇭🇰🇺🇸🇦🇺 📧Enquiries/Collab:suezsg@gmail.com #simplysue
     location: "Singapore"
-    followers: 37286
-    engagement: 103
-    commentsToLikes: 0.226808
-    id: ck5q80oyr3xfs0i11vvgn5phe
+    followers: 50024
+    engagement: 123
+    commentsToLikes: 0.006417
+    id: ck13bg45nv9bi0i199j4iynv6
     verified: false
-    hashtags: "#stylingmyseasons, #incredibleindia, #nothingisordinary, #food52community"
-  - username: "riverbirchthreads"
-    fullname: >-
-      RiverBirchThreads
-    bio: >-
-      Olivia SG 🚩Toronto, Canada Fibre Artist 📣 Custom Orders Currently Paused until August 2020
-    location: "Singapore"
-    followers: 108860
-    engagement: 313
-    commentsToLikes: 0.011851
-    id: ck0w1tj6il2nn0i19fd18p1h9
-    verified: false
-    hashtags: "#handmade, #stitchfix, #threadpainting, #artistsoninstagram"
-  - username: "adridwitomo"
-    fullname: >-
-      Adri Dwitomo | 𝗗𝗨𝗧
-    bio: >-
-      ☠️ Geeky Emo Musician 🇮🇩🇸🇬 🖤 @cryheartsofficial 🦊 @iweardut ↡ LISTEN TO 'BERHENTI BERHARAP' ON SPOTIFY ↡
-    location: "Singapore"
-    followers: 8849
-    engagement: 670
-    commentsToLikes: 0.037617
-    id: ck0vvvdnoqxn90i196s6hkho9
-    verified: false
-    hashtags: "#letsplay, #dut, #reaksianakemo, #react"
+    hashtags: "#bridal, #cateringsingapore, #flowers, #autobacs"
 ---

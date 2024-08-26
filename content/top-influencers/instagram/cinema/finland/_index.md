@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Finland in 2023
+title: Top 10 Cinema Instagram Influencers In Finland In 2024
 description: >-
-  Find top cinema Instagram influencers in Finland in 2023. Most popular hashtags: #digitalart #cinematicmodeon #art.
+  Find top cinema Instagram influencers in Finland in 2024. Most popular hashtags: #finland #cinematic #keralaattraction.
 platform: Instagram
-hits: 17
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 17 Instagram influencers like this in Finland for you to collaborate.
+hits: 10
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 10 Instagram influencers like this in Finland for you to connect with.
 profiles:
   - username: "petterilappalainen"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       🎥 Cinematographer II Helsinki II vimeo.com/petterilappalainen
     location: "Finland"
-    followers: 13086
-    engagement: 1058
-    commentsToLikes: 0.017923
+    followers: 13007
+    engagement: 1032
+    commentsToLikes: 0.017917
     id: ck55nx2oz763f0i11o5fn9lbq
     verified: false
-    hashtags: "#sneakpeek, #aidostimin, #pentax67, #120film"
+    hashtags: "#aidostimin, #pentax67, #120film, #sneakpeek"
   - username: "leoplaketti"
     fullname: >-
-      LEO PLAKETTI🗺VIDEO CREATOR©
+      LEO PLAKETTI🌐VIDEO CREATOR©
     bio: >-
-      Helsinki📍 ғᴜʟʟᴛɪᴍᴇ🕳ᴠɪᴅᴇᴏ ᴄʀᴇᴀᴛᴏʀ, 20yrs ʙᴇᴇɴ ʀᴇᴄᴏʀᴅɪɴɢ ᴜʀ ғᴀᴠᴏʀɪᴛᴇ ᴀʀᴛɪsᴛs sɪɴᴄᴇ 2017©️ @cinematic.studios
+      Helsinki📍 CEO of @cinematicstudios.no 🇳🇴📷🇫🇮 @dropout.jpg ғᴜʟʟᴛɪᴍᴇ ᴠɪᴅᴇᴏ ᴄʀᴇᴀᴛᴏʀ, 20yrs ʙᴇᴇɴ ʀᴇᴄᴏʀᴅɪɴɢ ᴜʀ ғᴀᴠᴏʀɪᴛᴇ ᴀʀᴛɪsᴛs sɪɴᴄᴇ 2017©️
     location: "Finland"
-    followers: 5226
-    engagement: 970
-    commentsToLikes: 0.029446
+    followers: 5098
+    engagement: 902
+    commentsToLikes: 0.024267
     id: ck5zrxf7hxfhr0i14m17pc4e9
     verified: false
-    hashtags: "#dropoutlife, #winteriscoming, #sun, #military"
-  - username: "meerikoutaniemi"
+    hashtags: "#reels, #intti, #sun, #norway"
+  - username: "jones_supertramp"
     fullname: >-
-      Meeri Koutaniemi
+      Jones
     bio: >-
-      Photographer & Journalist // Documentary director & Cinematographer // Dance & Nature Lover // Feminist & Human rights Activist
+      Negroni whisperer 🥃 CEO & Creator @superdoob 📍 Helsinki, Finland
     location: "Finland"
-    followers: 68837
-    engagement: 732
-    commentsToLikes: 0.020062
-    id: ck135z8c53yv00i19q3ssb9ld
+    followers: 5038
+    engagement: 410
+    commentsToLikes: 0.018287
+    id: ck8tdh6103afl0j78a8ojsl0h
     verified: false
-    hashtags: "#kotona, #eihymyilyt, #naistenp, #korona"
-  - username: "mpkarlin"
-    fullname: >-
-      Mikko-Pekka Karlin
-    bio: >-
-      Outdoor photography from Finland Cinematographer & Photographer working at @Kuulu.fi Vaellusblogi ja portfolio:
-    location: "Finland"
-    followers: 3720
-    engagement: 1253
-    commentsToLikes: 0.023038
-    id: ck0tz6e49p7nz0i19sc31owuy
-    verified: false
-    hashtags: "#ainolanpuisto, #visitoulu"
-  - username: "moodphoto_teija"
-    fullname: >-
-      𝙼𝚘𝚘𝚍𝚙𝚑𝚘𝚝𝚘 𝚃𝚎𝚒𝚓𝚊 | 𝚅𝚊𝚕𝚘𝚔𝚞𝚟𝚊𝚊𝚓𝚊
-    bio: >-
-      𝑀𝓎 𝒸𝒶𝓂𝑒𝓇𝒶 𝓉𝒶𝓀𝑒𝓈 𝓅𝒾𝒸𝓉𝓊𝓇𝑒𝓈 📸 𝙿𝚘𝚛𝚝𝚛𝚊𝚒𝚝 | 𝚆𝚎𝚍𝚍𝚒𝚗𝚐 | 𝙻𝚒𝚏𝚎𝚜𝚝𝚢𝚕𝚎 |𝙵𝚊𝚜𝚑𝚒𝚘𝚗 | 💜 𝚍𝚛𝚎𝚊𝚖𝚢 𝚘𝚛 𝚖𝚘𝚘𝚍𝚢 ( 𝚊𝚗𝚍 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 𝚋𝚎𝚝𝚠𝚎𝚎𝚗 ) 📍🇫🇮 📥 𝙳𝙼/𝚎𝚖𝚊𝚒𝚕 𝚏𝚘𝚛 𝚋𝚘𝚘𝚔𝚒𝚗𝚐𝚜
-    location: "Finland"
-    followers: 2975
-    engagement: 2067
-    commentsToLikes: 0.253231
-    id: ckaoyagn5gogq0i78jmbgqeit
-    verified: false
-    hashtags: "#stylegrid, #cinematicmodeon, #flanellemagazine, #weshoothumans"
-  - username: "jerianie"
-    fullname: >-
-      jerianie
-    bio: >-
-      🍂 Photographer and artist loving nature and quiet living. 🌾 Don’t use my photos without permission. 🍁 Art account: @jerianieart ✨ Youtube:
-    location: "Finland"
-    followers: 305650
-    engagement: 670
-    commentsToLikes: 0.007788
-    id: ck0txmro6jo1g0i19k4rof9xj
-    verified: false
-    hashtags: "#cottagecore, #finland, #autumncolours, #visualofearth"
-  - username: "joeypalmroos"
-    fullname: >-
-      Joey Palmroos
-    bio: >-
-      #filmmaker | #creativedirector joey.palmroos@gmail.com PRESETS @joeyspresets #youtube
-    location: "Finland"
-    followers: 76433
-    engagement: 366
-    commentsToLikes: 0.044296
-    id: ck0u8m0gm7q010i19p3vz3a0h
-    verified: false
-    hashtags: "#canon, #filmmaking, #canonnordic, #hotsauce"
+    hashtags: "#dreamermagazine, #subjectivelyobjective, #somewheremagazine, #ifyouleave"
   - username: "lucas_zanotto"
     fullname: >-
       Lucas Zanotto
     bio: >-
-      Director/Designer/Animator + Founder of @yatatoy
+      Designer/Artist + Founder of @yatatoy
     location: "Finland"
-    followers: 148494
-    engagement: 375
-    commentsToLikes: 0.017457
+    followers: 183363
+    engagement: 116
+    commentsToLikes: 0.011829
     id: ck0uawatmd8pa0i19gk1bkdtu
     verified: false
-    hashtags: "#character, #eyes, #smile, #3d"
-  - username: "jones_supertramp"
+    hashtags: "#kinetic, #artwork, #3d, #satisfying"
+  - username: "jerianie"
     fullname: >-
-      JOHANNES WESSLIN
+      jerianie // on hiatus
     bio: >-
-      Engineer during the day, photographer by night. Helsinki based. DM / e-mail for collaborations
+      🍂 Photographer and artist loving nature and quiet living. 🌾 Don’t use my photos without permission.
     location: "Finland"
-    followers: 5703
-    engagement: 861
-    commentsToLikes: 0.036820
-    id: ck8tdh6103afl0j78a8ojsl0h
+    followers: 272062
+    engagement: 760
+    commentsToLikes: 0.008061
+    id: ck0txmro6jo1g0i19k4rof9xj
     verified: false
-    hashtags: "#dreaminstreets, #streetclassics, #cinematicmodeon, #streetsineurope"
-  - username: "oscu"
+    hashtags: "#linenclothing, #vintageinspired, #witchyvibes, #adventurevisuals"
+  - username: "dq_the_prince_of_kerala"
     fullname: >-
-      Oscar Böckerman
+      official fans a©©ount{100k}®
     bio: >-
-      RENDER☯️SOUNDS 1/3 of @_____aoa_____
+      @dqsalmaan ғᴀɴ ᴘᴀɢᴇ💖 ᴛᴜʀɴ ᴏɴ ᴘᴏsᴛ ɴᴏᴛɪғɪᴄᴀᴛɪᴏɴs 📣 ᴛᴏ ɢᴇᴛ ᴜᴘᴅᴀᴛᴇs ғᴀsᴛᴇʀ💥 sʜᴀʀᴇ , ʟɪᴋᴇ , ᴄᴏᴍᴍᴇɴᴛ 😘 ᴛᴀɢ ᴍᴇ ɪɴ ʏᴏᴜʀ ᴘᴏsᴛ 🙌
     location: "Finland"
-    followers: 8477
-    engagement: 800
-    commentsToLikes: 0.043978
-    id: ck6u5dejg8zdc0j71bftwp438
+    followers: 30190
+    engagement: 1051
+    commentsToLikes: 0.004557
+    id: ckap63seje9n60i783bgtit6q
     verified: false
-    hashtags: "#design, #sciencefiction, #future, #digital"
+    hashtags: "#kunjikka, #oruyamandanpremakadha, #actor, #cinematography"
+  - username: "kurutham.ketton"
+    fullname: >-
+      kurutham.ketton [34k]🔐
+    bio: >-
+      🔰 ᴏʟᴅ ᴀᴄᴄᴏᴜɴᴛ ᴅɪsᴀʙʟᴇᴅ💔 🔰 ᴅᴀɪʟʏ ᴜᴘᴅᴀᴛɪᴏɴ 🔰 sᴛᴀᴛᴜs‹ᴛʜᴜɢᴠɪᴅᴇᴏs› 🔰 ᴠɪʀᴀʟ ᴠɪᴅᴇᴏs
+    location: "Finland"
+    followers: 134
+    engagement: 243631
+    commentsToLikes: 0.008110
+    id: ck9wiwyh14a0v0j786s0oipnk
+    verified: false
+    hashtags: ""
+  - username: "jarcce"
+    fullname: >-
+      Jari Romppainen
+    bio: >-
+      Stories from Lapland❄️Finland 🇫🇮 Photo and video production🎥📷 @lumix PRO collaborator Contact⬇️ info@jarcce.fi o
+    location: "Finland"
+    followers: 232108
+    engagement: 877
+    commentsToLikes: 0.016101
+    id: ck0tvy1xwdadm0i19ri6eymwd
+    verified: false
+    hashtags: "#ranua, #wonderlustcollective, #lumixnordic, #aurora"
+  - username: "obelixy"
+    fullname: >-
+      Nikolaos Haaponiemi
+    bio: >-
+      Helsinki, Based Photographer I shoot film @filmbyobelixy Infobelixy@gmail.com
+    location: "Finland"
+    followers: 33063
+    engagement: 505
+    commentsToLikes: 0.068954
+    id: ck0tznjgdr1920i194dgdi34o
+    verified: false
+    hashtags: "#thisweekoninstagram, #discoverer, #visithelsinki, #visualgrams"
+  - username: "cvltfvck"
+    fullname: >-
+      Antti Kertsi Keränen
+    bio: >-
+      ↟ Wildlife Photographer from Arctic Circle ↟ ↟ Finnish Mythology & Folklore ↟ ↟ Wondering & Wandering ↟
+    location: "Finland"
+    followers: 25767
+    engagement: 661
+    commentsToLikes: 0.010556
+    id: ck0vvuh5nqtr20i19o5emayfm
+    verified: false
+    hashtags: "#natureismetal, #strixnebulosa, #greatgreyowl, #mustelanivalis"
 ---

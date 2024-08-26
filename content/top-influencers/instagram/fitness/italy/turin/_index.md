@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Turin In 2023
+title: Top 10 Fitness Instagram Influencers In Turin In 2024
 description: >-
-  Find top fitness Instagram influencers in Turin in 2023. Most popular hashtags: #turin #torino #photography #fitness.
+  Find top fitness Instagram influencers in Turin in 2024. Most popular hashtags: #turin #fitness #summer #torino.
 platform: Instagram
-hits: 7
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 7 Instagram influencers like this in Turin, Italy for you to collaborate.
+hits: 6
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 6 Instagram influencers like this in Turin, Italy for you to work with.
 profiles:
   - username: "egolifeofficial"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck14guqwz74lt0i192gmg5z09
     verified: false
     hashtags: "#portrait, #love, #videomaker, #behindthescenes"
-  - username: "giadamasii"
-    fullname: >-
-      𝐆𝐈𝐀𝐃𝐀 𝐌𝐀𝐒𝐈
-    bio: >-
-      📍𝙄𝙩𝙖𝙡𝙮 Torino ▫️𝙁𝙖𝙨𝙝𝙞𝙤𝙣||𝙋𝙝𝙤𝙩𝙤𝙜𝙧𝙖𝙥𝙝𝙮 ▫️DM for collaboration
-    location: "Italy"
-    followers: 3085
-    engagement: 1533
-    commentsToLikes: 0.047503
-    id: ck6tmvv498mmx0j71sgeuotur
-    verified: false
-    hashtags: "#stylish, #italian, #italians, #love"
   - username: "_milk_and_cookies__"
     fullname: >-
       Giulia Premutati
@@ -67,18 +55,6 @@ profiles:
     id: ck6toaslsd11r0j717rv70rur
     verified: false
     hashtags: "#wakesurf, #bangkok, #surf, #windsurf"
-  - username: "marcelloiaconetti"
-    fullname: >-
-      InstaViolinist™
-    bio: >-
-      🟢 Hi, I take pictures and I play violin ⚪ Runner 🏃 🌿 🔴 Regional Brand Lover @huaweimobileit
-    location: "Italy"
-    followers: 19989
-    engagement: 590
-    commentsToLikes: 0.028905
-    id: ckf5nwrmv006m0j23ia2e12ge
-    verified: false
-    hashtags: "#colors, #piemonte, #turin, #italy"
   - username: "desire_desix"
     fullname: >-
       𝒟𝐸𝒮𝐼𝑅𝐸’⭐️𝑅𝒪𝒞𝒞𝐻𝐼𝐸𝒯𝒯𝐼
@@ -91,6 +67,18 @@ profiles:
     id: ckaoyomgoieac0i78t17kt5gv
     verified: false
     hashtags: "#mountainlovers, #cyclinglife, #travel, #bikini"
+  - username: "run_and_the_city"
+    fullname: >-
+      Cristina Turini
+    bio: >-
+      Sono fatta della stessa materia di cui è fatta la pizza 🍕 SMM @ MagNet, redattrice @runningmagazine @padel.biz🏃🏻‍♀️lazy runner👉🏻info@runandthecity.it
+    location: "Italy"
+    followers: 37264
+    engagement: 164
+    commentsToLikes: 0.040119
+    id: ck6u9q1ewyywg0j71cs0i3vwo
+    verified: false
+    hashtags: "#endorphinelite, #flyhumanfly, #runningshoes, #runandthecity"
   - username: "lovefit_girl"
     fullname: >-
       fitness
@@ -103,28 +91,40 @@ profiles:
     id: ck0vv6j7hnrfu0i19g45powzl
     verified: false
     hashtags: "#natalericettre, #colazionefit, #breakfast, #colazione"
-  - username: "belladally"
+  - username: "theresaadimarco"
     fullname: >-
-      B e  l l a   D a l l y 🕊
+      Theresa Di Marco
     bio: >-
-      — my work & creative space — Wife to Arif Iz❣️ KL, Malaysia Actor | Modest Fashion | Fitness | Traveler Ambassador of @galeriariani
+      PANTA REI 🌊 Lover of Tattoos ,Travel ,Fashion and fitness… Available for Collaboration 🆙
     location: "Italy"
-    followers: 2353642
-    engagement: 19
-    commentsToLikes: 0.008925
-    id: ck0w5s6lg56hg0i19v9j0zt9r
-    verified: true
-    hashtags: "#garniergreenbeauty, #garniermalaysia, #greenerneverstops, #bellaforariani"
-  - username: "siledona"
-    fullname: >-
-      Sile
-    bio: >-
-      ❤️Fashion/Fitness & 🧘‍♀️/🐈/Dentistry • Founder of @sile.style 👗 • #siledona #silestyle ✒️🇬🇧🇷🇺🇮🇹🇱🇹 📩siledona7@gmail.com • ⬇️SILE clothing store⬇️
-    location: "Italy"
-    followers: 17753
-    engagement: 829
-    commentsToLikes: 0.588470
-    id: ck13byiddxrgy0i1987nbvc01
+    followers: 79768
+    engagement: 469
+    commentsToLikes: 0.015779
+    id: ck8tb9851uslw0j78muvex6yq
     verified: false
-    hashtags: "#buonaserataatutti, #instamood, #siledona, #mare"
+    hashtags: "#wild, #acquapark, #lunedi"
+  - username: "taryn_cosplay"
+    fullname: >-
+      TARYN ☆ タリン・コスプレ
+    bio: >-
+      "Surpass your limits and Go Beyond the Impossible!" Professional Coser - Model - Performer 🌍🎭 FiTnEsS FrEaK Con Booking: events@taryncosplay.com
+    location: "Italy"
+    followers: 1153334
+    engagement: 399
+    commentsToLikes: 0.009960
+    id: ck13b2pqntef30i19w5calgbk
+    verified: false
+    hashtags: "#onepieceanime, #naruto, #taryncosplay, #japan"
+  - username: "alessiasodi"
+    fullname: >-
+      Alessia Sodi | Fitness & Lifestyle
+    bio: >-
+      workouts + mindset & more 🌿 disciplined & focused 🐺 health, fitness and travel lover ☁️ gym sis @rebeccasodi ♡ from 📍Italy // dreamin’ 🇺🇸
+    location: "Italy"
+    followers: 103524
+    engagement: 522
+    commentsToLikes: 0.002791
+    id: ck0w5aagi2ogd0i19s91zxm28
+    verified: false
+    hashtags: "#winterfashion, #mondaymotivation, #suppliedby, #frontlevertuck"
 ---

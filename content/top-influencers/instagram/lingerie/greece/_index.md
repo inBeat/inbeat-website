@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Greece In 2023
+title: Top 10 Lingerie Instagram Influencers In Greece In 2024
 description: >-
-  Find top lingerie Instagram influencers in Greece in 2023. Most popular hashtags: #fashion #lingerie #greece #photography.
+  Find top lingerie Instagram influencers in Greece in 2024. Most popular hashtags: #fashion #lingerie #greece #travel.
 platform: Instagram
-hits: 21
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 21 Instagram influencers like this in Greece for you to contact.
+hits: 17
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 17 Instagram influencers like this in Greece for you to contact.
 profiles:
   - username: "titi.valencia"
     fullname: >-
@@ -55,18 +55,42 @@ profiles:
     id: ck8t0aqdorf8f0j78oacl8z1s
     verified: false
     hashtags: "#quarantinedays, #glyfadabeach, #mara, #maradarmousli"
-  - username: "evelina_nikoliza"
+  - username: "katia_dede"
     fullname: >-
-      𝔼𝕧𝕖𝕝𝕚𝕟𝕒 ℕ𝕚𝕜𝕠𝕝𝕚𝕫𝕒
+      KATIA DEDE
     bio: >-
-      🅂🄸🄽🄶🄴🅁, 🄰🄲🅃🅁🄴🅂🅂, 🅅🄻🄾🄶🄶🄴🅁, ψυχαναγκαστική. Και αν με ψάχνετε τα Σαββατοκύριακα @kalyteradeginetai 😉 Proud co-founder @entoama ❤️
+      🇺🇦🇬🇷 • Player @farma.greece 2021 • Blogger Katia’s Clicks & Tricks @queengr • Photographer @katia_dede_photography • Dede.katia@gmail.com
     location: "Greece"
-    followers: 80766
-    engagement: 1327
-    commentsToLikes: 0.071544
-    id: ck55n9jng5qx20i11bflektzm
+    followers: 28452
+    engagement: 380
+    commentsToLikes: 0.080678
+    id: ck137owd4cmpy0i19h1dp3ejt
     verified: false
-    hashtags: "#backstage, #kalytera, #lookoftheday, #streetstyle"
+    hashtags: "#fashion, #experience, #tuscany, #festive"
+  - username: "kaltrinakryeziu__"
+    fullname: >-
+      Kaltrina Kryeziu
+    bio: >-
+      ⭐️Artist 🎶Musician 💄Makeup artist
+    location: "Greece"
+    followers: 58174
+    engagement: 202
+    commentsToLikes: 0.010430
+    id: ck0w117ikh25b0i19uxn5wchr
+    verified: false
+    hashtags: "#vacation, #turkey, #travel, #holiday"
+  - username: "frederiqueligtvoet"
+    fullname: >-
+      Fréderique Ligtvoet 🦋
+    bio: >-
+      (MA) @touchemodels • @mmgmodels • @lemanagement • @munichmodels • @wildmgmt • @mlleagency social inquiries: info@the-board.management
+    location: "Greece"
+    followers: 52076
+    engagement: 179
+    commentsToLikes: 0.033719
+    id: ck8sy2gckjhz50j78oi0x0dbp
+    verified: false
+    hashtags: "#lingerie, #asuniqueasyouare, #london, #suitcaselife"
   - username: "marianna_painesi"
     fullname: >-
       Marianna Painesi
@@ -79,18 +103,6 @@ profiles:
     id: ck5hkepw0ialc0i1124dpsg2g
     verified: false
     hashtags: "#batistebabes, #dryshampoo, #teambatiste, #rethinkdryshampoo"
-  - username: "dimitrabesiri"
-    fullname: >-
-      Besiri Dimitra💜
-    bio: >-
-      𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙘𝙨 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜-𝙆𝙖𝙨𝙩𝙤𝙧𝙞𝙖 🎓 • 𝙢𝙪𝙢 𝙤𝙛 𝙩𝙝𝙚 𝙘𝙪𝙩𝙚𝙨𝙩 𝙨𝙝𝙖𝙧𝙥𝙚𝙞 🐾 • @𝙫𝙤𝙚.𝙖𝙩𝙝𝙚𝙣𝙨 🔆 • @𝙫𝙤𝙞𝙙𝙢𝙮𝙠𝙤𝙣𝙤𝙨 ⚜️ 📍𝘼𝙩𝙝𝙚𝙣𝙨
-    location: "Greece"
-    followers: 14437
-    engagement: 1240
-    commentsToLikes: 0.171845
-    id: ckapbja55039r0i78q48xlost
-    verified: false
-    hashtags: "#girl, #photooftheday, #winter, #woman"
   - username: "rittageha"
     fullname: >-
       𝐓𝐫α𝐯є𝐥 𝐂σ𝐮𝐩𝐥є 👫🌏 Rita Geha
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.049008
     id: ck8t3comw2rlp0j78zx5o7jq2
     verified: false
-    hashtags: "#girl, #accessories, #birds, #outdoors"
+    hashtags: "#thecoupleonboard, #adventure, #travelgram, #lifestyle"
   - username: "chrisakont"
     fullname: >-
       Της γνωστής οικογενείας
@@ -115,16 +127,4 @@ profiles:
     id: ckapavxz9xo0h0i78g9te9x7g
     verified: false
     hashtags: "#instablackandwhite, #worldviewmag, #supremeshutter, #bnw"
-  - username: "elion_ang"
-    fullname: >-
-      Elizabeth Ainatzoglou Official
-    bio: >-
-      "Life is an adventure take risks” • Journalism / Economics and Law • Model / Actress • Survivor Girl 2017
-    location: "Greece"
-    followers: 90987
-    engagement: 285
-    commentsToLikes: 0.045936
-    id: ck6tv1jkzjn3q0j71czyuj0pa
-    verified: false
-    hashtags: "#womensfashion, #instalifo, #winter, #love"
 ---

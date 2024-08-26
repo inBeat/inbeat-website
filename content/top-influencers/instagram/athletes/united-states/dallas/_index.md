@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Dallas In 2023
+title: Top 10 Athletes Instagram Influencers In Dallas In 2024
 description: >-
-  Find top athletes Instagram influencers in Dallas in 2023. Most popular hashtags: #dallas #fitness #athlete.
+  Find top athletes Instagram influencers in Dallas in 2024. Most popular hashtags: #dallas #texas #athlete.
 platform: Instagram
-hits: 69
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database holds 69 Instagram influencers like this in Dallas, United States for you to contact.
+hits: 79
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 79 Instagram influencers like this in Dallas, United States for you to pitch.
 profiles:
   - username: "crashbanogu"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       DE Indianapolis Colts Business Inquiries: cjlaboy@teamwass.com @nike athlete Dallas, TX || TCU 🏈🐸 ||
     location: "United States"
-    followers: 13206
-    engagement: 974
-    commentsToLikes: 0.023773
+    followers: 13546
+    engagement: 936
+    commentsToLikes: 0.023633
     id: ck0tuu9748oww0i19oo733104
     verified: true
-    hashtags: "#victorymonday, #lemmetakethatoffyahandsbuddy, #crashcourse, #ad"
+    hashtags: "#lemmetakethatoffyahandsbuddy, #ad, #budlight, #hangitup"
   - username: "sarahannlopez"
     fullname: >-
       Sarah Ann
@@ -31,18 +31,30 @@ profiles:
     id: ckaora7c3mdx50i7835wzj7ot
     verified: false
     hashtags: "#personalgrowth, #fitmom, #grow, #texas"
-  - username: "jaydenpollard16"
+  - username: "missjoyce22"
     fullname: >-
-      Jayden Pollard
+      JMoney Basketball Expert
     bio: >-
-      5-year-old-gymnast @rolandp90x and @stephanie_pollard’s daughter! Haleigh@os-agency.co
+      🇺🇸Joyce Ekworomadu - 12th female of the Harlem Globetrotters🌍 🏆Former WNBA🏆 🇳🇬Nigerian Nat'l Team🇳🇬 🎤Motivational Speaker🎤
     location: "United States"
-    followers: 218799
-    engagement: 760
-    commentsToLikes: 0.014376
-    id: ckaotru7mx7x00i78546iehap
-    verified: false
-    hashtags: "#cheer, #gymnastics, #gymnast, #woga"
+    followers: 21434
+    engagement: 279
+    commentsToLikes: 0.165666
+    id: ckap224czx1sk0i78so6v39ut
+    verified: true
+    hashtags: "#baller, #wnba, #hooper, #ncaa"
+  - username: "nateboyer37"
+    fullname: >-
+      Nate Boyer
+    bio: >-
+      #GreenBeret #TexasLonghorn #MVP Executive Director @mergingvetsandplayers #INDIVISIBLE on @nflnetwork https://bit.ly/3yVb86f
+    location: "United States"
+    followers: 31234
+    engagement: 149
+    commentsToLikes: 0.041647
+    id: ck13a91zfp86b0i19e5kix0ae
+    verified: true
+    hashtags: "#repost, #exercise, #mvp, #mergingvetsandplayers"
   - username: "edwincerrillo"
     fullname: >-
       
@@ -91,18 +103,6 @@ profiles:
     id: ckaowgrmq8v8e0i789hk8sagr
     verified: false
     hashtags: ""
-  - username: "jarrah_floyde"
-    fullname: >-
-      Jarrah Floyde
-    bio: >-
-      Made in Australia ♻️ DALLAS📍🌴 Athlete 🏈🔒
-    location: "United States"
-    followers: 14206
-    engagement: 584
-    commentsToLikes: 0.021697
-    id: ck6ui0lxyccua0j712l7meki0
-    verified: false
-    hashtags: "#beenwaitingallyearforthis, #mentalstrong, #projectdumptruck, #backtobuisness"
   - username: "breezylu"
     fullname: >-
       Bree'Anna Lucero
@@ -115,16 +115,16 @@ profiles:
     id: ck5cd522rijuy0i112xkqmg3l
     verified: false
     hashtags: ""
-  - username: "aditwirls"
+  - username: "djguthrie"
     fullname: >-
-      Adaline Bebo
+      dj guthrie
     bio: >-
-      All my Glory to God • Baton Twirling World Champion • CMMOA • Baylor Neuro ‘19 • #BeBold Dallas, TX @nymmg
+      Entrepreneur 🦋 Owner: 300 Below Productions 💎 President: @luxdanceco ⭕️ President: @ensodanceco Faculty: @ladancemagic 🐺 WolfPack Alpha
     location: "United States"
-    followers: 13768
-    engagement: 728
-    commentsToLikes: 0.020020
-    id: ck0twuvnigufi0i19qpn5l5zt
+    followers: 18390
+    engagement: 252
+    commentsToLikes: 0.032892
+    id: ck5ck0lzzvvpc0i11gcf2of1t
     verified: false
-    hashtags: "#dancer, #dallas, #dallastexas, #performingarts"
+    hashtags: "#nikegolf, #fun, #2021, #tour"
 ---

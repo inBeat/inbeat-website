@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Italy In 2023
+title: Top 10 Health TikTok Influencers In Italy In 2024
 description: >-
-  Find top health TikTok influencers in Italy in 2023. Most popular hashtags: #perte #healthy #healthyfood #viral.
+  Find top health TikTok influencers in Italy in 2024. Most popular hashtags: #perte #healthy #healthyfood #viral.
 platform: TikTok
-hits: 47
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our platform holds 47 TikTok influencers like this in Italy for you to connect with.
+hits: 46
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 46 TikTok influencers like this in Italy for you to connect with.
 profiles:
   - username: "valentina_galassi"
     fullname: >-

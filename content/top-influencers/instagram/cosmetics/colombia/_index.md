@@ -1,24 +1,24 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Colombia In 2023
+title: Top 10 Cosmetics Instagram Influencers In Colombia In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Colombia in 2023. Most popular hashtags: #makeup #makeupartist #colombia #maquillaje.
+  Find top cosmetics Instagram influencers in Colombia in 2024. Most popular hashtags: #makeupartist #makeup #maquillaje #makeuplover.
 platform: Instagram
-hits: 34
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 34 Instagram influencers like this in Colombia for you to pitch.
+hits: 32
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database has 32 Instagram influencers like this in Colombia for you to connect with.
 profiles:
-  - username: "stephanieolivier"
+  - username: "tiffanialvarez"
     fullname: >-
-      Stephanie Olivier ♛
+      Tiffani Alvarez
     bio: >-
-      GENEVA🇨🇭| LONDON 🇬🇧|📍 ғaѕнιon | тravel | ѕнoppιng Founder & Owner @s.o__cosmetics Swiss & Colombian
+      Makeup | beauty | wellness | lifestyle | moda +250k en TT 🤝🏻 muchos reviews allá info@tiffanialvarez.com 📍Medellín hubby 🫀 @davidbravod
     location: "Colombia"
-    followers: 55237
-    engagement: 306
-    commentsToLikes: 0.061051
-    id: ckf5spow4g1nn0j23rglmp709
+    followers: 22730
+    engagement: 245
+    commentsToLikes: 0.018727
+    id: ck8wevvpseoo90j78cq9vxrh8
     verified: false
-    hashtags: "#ootd, #mood, #caribbean, #outfits"
+    hashtags: "#maquillajenatural, #maquillajefavorito, #maquillaje, #labiales"
   - username: "bymariajoserodriguez"
     fullname: >-
       Maria Jose Rodriguez
@@ -31,18 +31,42 @@ profiles:
     id: ck5hfmngfy7cg0i11axnpyvew
     verified: false
     hashtags: "#bymariajoserodriguez, #maquillaje, #egotyteam, #beauty"
-  - username: "joha_yepes"
+  - username: "soynickycast"
     fullname: >-
-      Joha Yepes
+      니키 NICKY 🇰🇷
     bio: >-
-      🇨🇴 From #Colombia, 🚩 #CostaRica 🇨🇷 Owner in @legacy_esthetic_center 🧳👙🐶🐄😽💄💪🌴❤ Live life in full bloom 🌺 G R A T I T U D 🙏 #travelgirl #animallover
+      ♡ dancer, singer & kpop enthusiastic ♡ mgmt: @airama.digital ♡ tiktok 150k + / my dc @newwings_dc
     location: "Colombia"
-    followers: 33218
-    engagement: 189
-    commentsToLikes: 0.025746
-    id: ck5pzfadf0oy90i117pvn6tst
+    followers: 72070
+    engagement: 1411
+    commentsToLikes: 0.042687
+    id: ck0w5g95y3hw10i19ow50d2pp
     verified: false
-    hashtags: "#skincaretips, #costarica, #summer, #love"
+    hashtags: "#kpopcover, #kpopcolombia, #reggaeton, #colombia"
+  - username: "andremakeup30"
+    fullname: >-
+      ANDRE
+    bio: >-
+      🎨 Maquilladora Profesional 👰🏻‍♀️ Especialista en novias 📦 PR: andremakeup3001@gmail.com / DM ✨ Citas o cursos de maquillaje | WhatsApp 👇🏼 🇨🇴 CO📍Cúcuta
+    location: "Colombia"
+    followers: 50214
+    engagement: 465
+    commentsToLikes: 0.020881
+    id: ck9wdprbhgphf0j78ms3prvr3
+    verified: false
+    hashtags: "#makeuptutorial, #maquillajecolombia, #hairstyle, #hudabeauty"
+  - username: "manumontoz"
+    fullname: >-
+      Manuela Montoya
+    bio: >-
+      aquí vivimos un día a la vez 🪽 fashion•makeup•hair•wellness 💌manuemontoyaperez@gmail.com ambassador @FashionNova
+    location: "Colombia"
+    followers: 224410
+    engagement: 214
+    commentsToLikes: 0.007167
+    id: ck5zutgbp30cx0i14hmrkznmq
+    verified: false
+    hashtags: "#beautyunderyourinfluence, #colourpopcollection, #secretomakeup, #pixipretties"
   - username: "makeupby.gisselle"
     fullname: >-
       Gisselle Elneser ✨ جيزيل النسر
@@ -103,28 +127,4 @@ profiles:
     id: ck5zvsgwa4u8z0i1424bundgz
     verified: false
     hashtags: "#ropacool, #macarena, #6amchallenge, #parati"
-  - username: "valeriahidalgomakeup"
-    fullname: >-
-      Valeria Hidalgo ✨
-    bio: >-
-      Maquilladora de la ciudad sorpresa 💄 🌋 📍Pasto Citas 👇🏼 @valeriahidalgo_makeup @leo.maquillaje
-    location: "Colombia"
-    followers: 14803
-    engagement: 482
-    commentsToLikes: 0.072947
-    id: ck5hjtkwqh86s0i11zrtooonk
-    verified: false
-    hashtags: "#girls, #narin, #maquillajeojos, #nari"
-  - username: "mortianamakeup"
-    fullname: >-
-      𝕿 𝖆 𝖙 𝖎 𝖆 𝖓 𝖆 🍒
-    bio: >-
-      Maquilladora profesional💄 Social👩🏻 Novias👰 Fotografía📸 Audiovisual🎥 Si quieres aprender conmigo enviame un Dm 📩 Medellín 🇨🇴 Portafolio de maquillaje⬇️
-    location: "Colombia"
-    followers: 25081
-    engagement: 700
-    commentsToLikes: 0.026695
-    id: ck6uapbio4v3x0j71591o9clh
-    verified: false
-    hashtags: "#colorfullmakeup, #masterclass, #maquilladoramedellin, #maquillajecolombia"
 ---

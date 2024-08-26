@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tennis Players TikTok Influencers In 2023
+title: Top 10 Tennis Players TikTok Influencers In 2024
 description: >-
-  Find top tennis players TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #tennis #tabletennis.
+  Find top tennis players TikTok influencers in 2024. Most popular hashtags: #foryou #fyp #tennis #pingpong.
 platform: TikTok
-hits: 42
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our search engine has 42 TikTok influencers like this for you to pitch.
+hits: 41
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 41 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "dayana_yastremska"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ckbffn10hajzb0j23h055mf45
     verified: false
     hashtags: "#sweden, #2021, #australia, #tennis"
-  - username: "yanismoundir"
-    fullname: >-
-      Yanis Moundir
-    bio: >-
-      Luzern🇨🇭| 18 Call me Daniil Tennis / Player😎
-    location: "Switzerland"
-    followers: 14900
-    engagement: 1338
-    commentsToLikes: 0.018441
-    id: ckb9d6mio08mw0j23x0ew4io3
-    verified: false
-    hashtags: "#joke, #anime, #fyp, #ps4"
   - username: "thepinggonggirl"
     fullname: >-
       Soo Yeon Lee
@@ -127,4 +115,16 @@ profiles:
     id: cka0xl8ol7lh90i78uccr1ptd
     verified: false
     hashtags: "#tennis, #atptour, #habilidad, #lifestyle"
+  - username: "hj.physique9"
+    fullname: >-
+      Hemant jain
+    bio: >-
+      God First🙏 K11 certified personal trainer Sports Nutritionist Jaipur
+    location: "India"
+    followers: 5153
+    engagement: 469
+    commentsToLikes: 0.020563
+    id: ckaiazls1ecyr0i78e3vjjp46
+    verified: false
+    hashtags: "#foryou, #foryoupage, #india, #fun"
 ---

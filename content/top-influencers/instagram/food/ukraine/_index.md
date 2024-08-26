@@ -1,12 +1,24 @@
 ---
-title: Top 10 Food Instagram Influencers In Ukraine In 2023
+title: Top 10 Food Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top food Instagram influencers in Ukraine in 2023. Most popular hashtags: #food #foodporn #makeup.
+  Find top food Instagram influencers in Ukraine in 2024. Most popular hashtags: #food #foodporn #makeup.
 platform: Instagram
-hits: 37
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 37 Instagram influencers like this in Ukraine for you to pitch.
+hits: 41
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 41 Instagram influencers like this in Ukraine for you to pitch.
 profiles:
+  - username: "joe_woodhouse"
+    fullname: >-
+      Joe Woodhouse
+    bio: >-
+      Food / Drink Photographer & CookbookAuthor📚 ‘Your Daily Veg’ + MORE DAILY VEG - OUT NOW! Please don’t DM me about work I will miss it. Email is best.
+    location: "Ukraine"
+    followers: 79529
+    engagement: 144
+    commentsToLikes: 0.024112
+    id: ck5zudm0625rt0i14fiv3p0zy
+    verified: false
+    hashtags: "#yourdailyveg, #lentils, #curry, #moredailyveg"
   - username: "annagirm"
     fullname: >-
       A.n.n.a G.i.r Malowany 🌺
@@ -43,18 +55,6 @@ profiles:
     id: ckaowtlq4aeaj0i7836f64q6l
     verified: false
     hashtags: "#kraken"
-  - username: "klopotenko"
-    fullname: >-
-      Ievgen Klopotenko
-    bio: >-
-      Chef🔪Improver of the Ukrainian food culture 🇺🇦 Co-owner @100rokivtomuvpered Store @gastroprikhozhane Ambassador @frankeukraine info@klopotenko.com
-    location: "Ukraine"
-    followers: 547276
-    engagement: 173
-    commentsToLikes: 0.014884
-    id: ck5hrjyzxuzqt0i11djcpm5e7
-    verified: true
-    hashtags: "#franke, #makeitwonderful, #frankeukraine"
   - username: "fashionfoodfoto"
     fullname: >-
       ФУД ФОТОГРАФ (ХАРЬКОВ)

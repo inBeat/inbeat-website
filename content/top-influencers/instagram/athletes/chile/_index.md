@@ -1,12 +1,24 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Chile In 2023
+title: Top 10 Athletes Instagram Influencers In Chile In 2024
 description: >-
-  Find top athletes Instagram influencers in Chile in 2023. Most popular hashtags: #chile #athlete #love #fitness.
+  Find top athletes Instagram influencers in Chile in 2024. Most popular hashtags: #chile #athlete #fitness #deporte.
 platform: Instagram
-hits: 18
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 18 Instagram influencers like this in Chile for you to connect with.
+hits: 17
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 17 Instagram influencers like this in Chile for you to connect with.
 profiles:
+  - username: "sofisaphier"
+    fullname: >-
+      Sofi Cofré Saphier
+    bio: >-
+      27, Mountain Climber - Athlete. @corosglobal @adidasterrex | Civil Engineering, UChile. 🥇San Jose Vol FKT Record Ascent
+    location: "Chile"
+    followers: 32911
+    engagement: 796
+    commentsToLikes: 0.033210
+    id: ck6tt91079ao40j719b7av8hy
+    verified: false
+    hashtags: "#mountains, #mountainadventures, #createdwithadidas, #exploreperfection"
   - username: "simonettifiorella"
     fullname: >-
       Simona Quintana Silva
@@ -55,30 +67,18 @@ profiles:
     id: ck0vykv5c4i8o0i198m6eg4zl
     verified: false
     hashtags: "#trekfactoryracing, #redbullbike, #redbullmca, #freeride"
-  - username: "bichocarrera"
-    fullname: >-
-      Bicho Carrera
-    bio: >-
-      Professional Paragliding Athlete 🪂 @ADVANCEGLIDERS @REDBULL @CASINOENCHILE
-    location: "Chile"
-    followers: 17501
-    engagement: 637
-    commentsToLikes: 0.021780
-    id: ck0txrngwkabg0i19hswe06ag
-    verified: false
-    hashtags: "#explore, #discover, #photooftheday, #picoftheday"
   - username: "nicolecarpenter___"
     fullname: >-
       N I C O L E  C A R P E N T E R
     bio: >-
       University of Miami Team Chile Beach Volleyball🇨🇱 🦋✨🌷🌴
     location: "Chile"
-    followers: 4438
-    engagement: 2606
-    commentsToLikes: 0.035003
+    followers: 4297
+    engagement: 2409
+    commentsToLikes: 0.044190
     id: ck5q24yw8eal90i110ws5613h
     verified: false
-    hashtags: "#amor, #familia, #feliz, #stayhome"
+    hashtags: "#volleyball, #happy, #calor, #amor"
   - username: "nataliaduco"
     fullname: >-
       N a t a l i a   D u c o
@@ -109,22 +109,22 @@ profiles:
     bio: >-
       CF🏋🏻‍♂️/ @team_zero13 @pionerochile @wodbeater @bufalo.fit @nutricionista.renatta @kine_global @unbrokenfitnesscl @thegoodshaman @unbrokenprogram
     location: "Chile"
-    followers: 3076
-    engagement: 910
-    commentsToLikes: 0.082121
+    followers: 3118
+    engagement: 852
+    commentsToLikes: 0.096912
     id: ck6u17povk3jc0j715dyfsqir
     verified: false
-    hashtags: "#brave, #conditioning, #hardwork, #power"
-  - username: "thfitcl"
+    hashtags: "#squat, #healthy, #athlete, #strong"
+  - username: "nuriagodgiven"
     fullname: >-
-      TH FIT chile
+      Nuria Diosdado
     bio: >-
-      Entrena THFIT y marca la diferencia✨ Online y Clases Presenciales en nuestros Centros🏛 📍Vitacura 📍Lo Barnechea 📍Maitencillo☀️🌊 Obtén tu Plan aquí 👇🏼
+      🇲🇽 Artistic swimmer Tapatía📍en la CDMX 3x Olympian 🥇🥇PanAmerican Champion 2023 Clasificada a @paris2024 💫 @adidasmx 📩 contacto@agencialibredigital.com
     location: "Chile"
-    followers: 110398
-    engagement: 164
-    commentsToLikes: 0.025680
-    id: ck5zjjhs4hpd60i1407powok5
-    verified: false
-    hashtags: "#gym, #humor, #wellness, #deporte"
+    followers: 51403
+    engagement: 424
+    commentsToLikes: 0.034673
+    id: ck8syewiikmtw0j78nohdkq4h
+    verified: true
+    hashtags: "#natacionartisticamexico, #espa, #juegospanamericanos, #paris2024"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers In Germany In 2023
+title: Top 10 Cosmetics TikTok Influencers In Germany In 2024
 description: >-
-  Find top cosmetics TikTok influencers in Germany in 2023. Most popular hashtags: #fyp #foryoupage #foryou #beauty.
+  Find top cosmetics TikTok influencers in Germany in 2024. Most popular hashtags: #fyp #foryoupage #foryou #beauty.
 platform: TikTok
 hits: 17
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 17 TikTok influencers like this in Germany for you to connect with.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 17 TikTok influencers like this in Germany for you to contact.
 profiles:
   - username: "yeauty_official"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.060289
     id: ckd66j13n37ca0j23mu4f0q2p
     verified: false
-    hashtags: "#yeauty, #comedy, #eyepadmask, #winwinwin"
+    hashtags: "#yeauty, #verlosung, #skincare, #gewinnspiel"
   - username: "pilotmadeleine"
     fullname: >-
       Travel Blogger
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.015662
     id: ckb9bqd4ly44l0j239rfhulnb
     verified: false
-    hashtags: "#maldives, #christmas, #travelblogger, #baby"
+    hashtags: "#sonevajani, #malediven, #christmas, #travel"
   - username: "sasakitoucoser"
     fullname: >-
       รครคкเ_t๏ยς๏รєг  丂ﾑ丂
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.017999
     id: ckbezcbqekh270j23ro1wk08f
     verified: false
-    hashtags: "#fy, #ke, #lashes, #germany"
+    hashtags: "#lashes, #germany, #foryoupage, #foryou"
   - username: "chams.aunt"
     fullname: >-
       Chams.aunt

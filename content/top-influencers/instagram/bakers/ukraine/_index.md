@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Ukraine In 2023
+title: Top 10 Bakers Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top bakers Instagram influencers in Ukraine in 2023. Most popular hashtags: #instagood #happy #world.
+  Find top bakers Instagram influencers in Ukraine in 2024. Most popular hashtags: #happy #summer #love.
 platform: Instagram
-hits: 11
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 11 Instagram influencers like this in Ukraine for you to work with.
+hits: 12
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 12 Instagram influencers like this in Ukraine for you to contact.
 profiles:
   - username: "artyrkovalchyk"
     fullname: >-
@@ -91,6 +91,18 @@ profiles:
     id: ck15s6swzbiek0i19t60t5ihr
     verified: false
     hashtags: ""
+  - username: "osia2013"
+    fullname: >-
+      OSIA YOUTUBE BLOGGER
+    bio: >-
+      Beauty | Fashion | Home | Cooking 14 years in Poland🇺🇦 500K+ YouTube channel Instagram PL : @olga.muszynska Contact: olga.donczenko@gmail.com
+    location: "Ukraine"
+    followers: 238223
+    engagement: 806
+    commentsToLikes: 0.011912
+    id: ck0w3hdw1tf460i1912161s2o
+    verified: false
+    hashtags: "#makeup, #zara, #stylefashion, #vacationmode"
   - username: "sergey_ternov"
     fullname: >-
       Sergey Ternov
@@ -115,16 +127,4 @@ profiles:
     id: ck6ue9rjupnd50j713e8cfj3k
     verified: false
     hashtags: "#lerabrumina, #57sqmetersapartment, #residential, #interiordesign"
-  - username: "trollcatcher"
-    fullname: >-
-      Alice Tochylovska
-    bio: >-
-      ↟↟↟ Magizoologist ↟↟↟🇺🇦 #Sculptor ↟ plant lover ↟ #redhead ↟ artist ↟ traveller ↟ bookworm ↟ #fantasy & #scifi nerd ↟ And Pippin the #corgi ↟
-    location: "Ukraine"
-    followers: 26177
-    engagement: 478
-    commentsToLikes: 0.019621
-    id: ck14kvbeirhkb0i19g0f0cfl4
-    verified: false
-    hashtags: "#sculptureart, #dreadshare, #fantasy, #darkart"
 ---

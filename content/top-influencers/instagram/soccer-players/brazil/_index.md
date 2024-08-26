@@ -1,11 +1,11 @@
 ---
-title: Top 10 Soccer-Players Instagram Influencers In Brazil In 2023
+title: Top 10 Soccer-Players Instagram Influencers In Brazil In 2024
 description: >-
-  Find top soccer-players Instagram influencers in Brazil in 2023. Most popular hashtags: #tbt #predator #persebaya.
+  Find top soccer-players Instagram influencers in Brazil in 2024. Most popular hashtags: #cristianoronaldo #soccertraining #soccerdrills.
 platform: Instagram
-hits: 28
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 28 Instagram influencers like this in Brazil for you to contact.
+hits: 25
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 25 Instagram influencers like this in Brazil for you to collaborate.
 profiles:
   - username: "souza0808"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ck5zj8amzh4g90i14acsbmbip
     verified: true
     hashtags: "#sister, #love, #sogro, #vamointer"
-  - username: "daniweatherholt"
-    fullname: >-
-      Dani Weatherholt
-    bio: >-
-      Living intentionally. Sustainable Pro Soccer Player | @olreign | @Adidas Athlete | @voiceinsport Advocate
-    location: "Brazil"
-    followers: 18825
-    engagement: 587
-    commentsToLikes: 0.016825
-    id: ck5qe401bylpf0i11r3kq7rs8
-    verified: true
-    hashtags: "#createdwithadidas"
   - username: "mariana_dantas22"
     fullname: >-
       Mariana Dantas
@@ -103,18 +91,6 @@ profiles:
     id: ck5c5v7fa47me0i11ji9tu20n
     verified: true
     hashtags: "#guerreirodef, #koroki, #wearereds, #leo9"
-  - username: "davidasilva14"
-    fullname: >-
-      David Da Silva
-    bio: >-
-      Professional soccer player @officialterengganufc @fanpacanaro 💍👩🏻❤️ 👶🏽👧🏽 @mobileoutfitters.sp 📱⌚️💻 @haaramloungebar 😚💨💨 Blessed by God Js 1;9. 🙇🏾✝️
-    location: "Brazil"
-    followers: 216446
-    engagement: 1162
-    commentsToLikes: 0.016121
-    id: ck13674qu52bc0i191fvk0w2l
-    verified: true
-    hashtags: "#dds14, #predator, #davidasilva, #bonita"
   - username: "bgallo20"
     fullname: >-
       Bruno Gallo 🐔
@@ -127,4 +103,28 @@ profiles:
     id: ckf5shw76fjhj0j23fn359r7t
     verified: true
     hashtags: "#meuparceiro, #amordepaiefilho, #blackouttuesday, #2021"
+  - username: "luisinho___10"
+    fullname: >-
+      
+    bio: >-
+      soccer player alta e ftvl🔛
+    location: "Brazil"
+    followers: 2287
+    engagement: 2632
+    commentsToLikes: 0.150875
+    id: ck6ui9p0xdvri0j71vb28ovbr
+    verified: false
+    hashtags: ""
+  - username: "cr7d.es"
+    fullname: >-
+      . . عماد |  𝗘𝗠𝗔𝗗 🇸🇦
+    bio: >-
+      🎥 | 𝗩𝗶𝗱𝗲𝗼 𝗘𝗱𝗶𝘁𝗼𝗿 𝗙𝗼𝗿 𝗖𝗥7 🚩 | 𝗖𝗥𝗜𝗦𝗧𝗜𝗔𝗡𝗢 𝗥𝗢𝗡𝗔𝗟𝗗𝗢 𝗙𝗔𝗡 𝗣𝗔𝗚𝗘 💌 | 𝗗𝗠 𝗙𝗼𝗿 𝗺𝗼𝗿𝗲 𝗖𝗼𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻 🔔 | 𝗙𝗼𝗹𝗹𝗼𝘄 𝗺𝘆 𝗕𝗮𝗰𝗸𝘂𝗽 𝗮𝗰𝗰 @skil1hd7
+    location: "Brazil"
+    followers: 26567
+    engagement: 2207
+    commentsToLikes: 0.013498
+    id: ck9hcbrdkko550j78nf9wt2mm
+    verified: false
+    hashtags: "#soccertime, #soccerworld, #ronaldo, #finoallafine"
 ---

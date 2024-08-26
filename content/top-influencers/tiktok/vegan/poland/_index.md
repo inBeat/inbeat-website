@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Poland In 2023
+title: Top 10 Vegan TikTok Influencers In Poland In 2024
 description: >-
-  Find top vegan TikTok influencers in Poland in 2023. Most popular hashtags: #polska #dc #poland #dlaciebie.
+  Find top vegan TikTok influencers in Poland in 2024. Most popular hashtags: #poland #dlaciebie #dc #walentynki.
 platform: TikTok
-hits: 17
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our platform has 17 TikTok influencers like this in Poland for you to work with.
+hits: 16
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 16 TikTok influencers like this in Poland for you to pitch.
 profiles:
   - username: "m.e_l.i_d.a"
     fullname: >-
@@ -115,16 +115,16 @@ profiles:
     id: ck9dquuox1g9d0j78hgx2nojh
     verified: true
     hashtags: "#serial, #aktor, #historiemi, #pies"
-  - username: "lili.antoniak"
+  - username: "oliviaabrose"
     fullname: >-
-      Aga Lili Antoniak
+      liv
     bio: >-
-      Parodiuje życie 🤪🦄 IG: lili.antoniak (183 🔓🔥) A.b.warszawa@gmail.com ✉️
+      
     location: "Poland"
-    followers: 515200
-    engagement: 1327
-    commentsToLikes: 0.010457
-    id: ck8oshji8gxjp0j78hflg53ib
+    followers: 12300
+    engagement: 1352
+    commentsToLikes: 0.020125
+    id: ck9a6xno458qm0j78o0pd90ef
     verified: false
-    hashtags: "#storytime, #heheszki, #fyp, #trend"
+    hashtags: "#dc, #dlaciebie, #y2k, #fyp"
 ---

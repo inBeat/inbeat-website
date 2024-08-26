@@ -1,36 +1,48 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Barcelona In 2023
+title: Top 10 Home Decor Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top home decor Instagram influencers in Barcelona in 2023. Most popular hashtags: #homedecor #barcelona #homesweethome #lifestyle.
+  Find top home decor Instagram influencers in Barcelona in 2024. Most popular hashtags: #homedecor #homesweethome #navidad #barcelona.
 platform: Instagram
-hits: 13
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 13 Instagram influencers like this in Barcelona, Spain for you to pitch.
+hits: 17
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 17 Instagram influencers like this in Barcelona, Spain for you to work with.
 profiles:
-  - username: "pompomilicious"
+  - username: "viajandonuestravida"
     fullname: >-
-      Pompomilicious | DogLifeStyle
+      Maeva Aguilera & Manel García | Travel
     bio: >-
-      🌟 | Somos la Pomifamily 👩🏻‍🦰 | Beauty & DIY 🧔🏻 | Music & Food 🦊 | Pomeranians & Fun 👑 | Embajadores: @laboutiquedeldiamante
+      Vanlife • Viajes • Naturaleza • Veggies 📍 Barcelona 🔜 🇳🇿 📚 Libros @furgorecetas & Camperízate
     location: "Spain"
-    followers: 29282
-    engagement: 154
-    commentsToLikes: 0.191842
-    id: ck6uiihp4fa160j713w267gja
+    followers: 155046
+    engagement: 440
+    commentsToLikes: 0.014220
+    id: closq4dcznmzi0j085h56u1dh
     verified: false
-    hashtags: "#japanesespitz, #dog, #love, #pomeranianpage"
-  - username: "sweetmadness_sv"
+    hashtags: "#blackforest, #reel, #recap2023, #schiltach"
+  - username: "daviniamc"
     fullname: >-
-      𝚂𝚊𝚛𝚊𝚒 𝚅𝚎𝚐𝚊
+      𝔽𝕒𝕞𝕚𝕝𝕪, 𝕕𝕖𝕔𝕠 & 𝕗𝕒𝕤𝕙𝕚𝕠𝕟
     bio: >-
-      📲👩🏼‍💻|Gestión RRSS 🏥💉|Work HSM 👠🥻|Imᥲgᥱ ᥴoᥒsᥙᥣtᥲᥒt ~🏢 Cofunder @vera_community2019 📲
+      ♡ DAVINIA MORENO CASAS 👨‍👩‍👧‍👦 𝕄𝕒𝕞𝕒 𝕕𝕖 𝔻𝕒𝕟𝕚𝕖𝕝𝕝𝕒 𝕪 𝔹𝕚𝕖𝕝 💌 daviniamorenocasas@gmail.com 📍 BARCELONA
     location: "Spain"
-    followers: 7448
-    engagement: 425
-    commentsToLikes: 0.220192
-    id: ck5zminjpmn5u0i14bnqxou7g
+    followers: 31475
+    engagement: 247
+    commentsToLikes: 0.052722
+    id: ck5zjsdppi61e0i14xfac27f1
     verified: false
-    hashtags: "#lookoftheday, #personalshopper, #look, #monday"
+    hashtags: "#muebles, #ikea, #home, #modainfantil"
+  - username: "inmyattic_"
+    fullname: >-
+      Luciana | In My Attic
+    bio: >-
+      🤍Welcome to my world in Barcelona ✨Home decor, lifestyle & things 🪩👁️💐🪄🍭⚡️ 💌soyinmyattic@gmail.com
+    location: "Spain"
+    followers: 23580
+    engagement: 5
+    commentsToLikes: 0.002415
+    id: closq3upqndpf0j0874yr1hzo
+    verified: false
+    hashtags: "#livingroomdecor, #homesweethome, #homedecor, #sinkstyle"
   - username: "kira.davser"
     fullname: >-
       𝐾𝑖𝑟𝑎 𝐷𝑎𝑣𝑠𝑒𝑟 -𝑀𝑎𝑚𝑎́ 𝑑𝑒 𝑐𝑢𝑎𝑡𝑟𝑜
@@ -43,30 +55,6 @@ profiles:
     id: ck9wdxnjwhqip0j78am29qt57
     verified: false
     hashtags: "#kidzootd, #navidades2020, #babiesofinsta, #minin"
-  - username: "soyainhhoa"
-    fullname: >-
-      A I N H O A❤️| CASUAL OUTFITS
-    bio: >-
-      ⚡️ Amante de la moda y amiga de Amancio 🐹 FIV I (23/12) 👉🏻🤰futura mamá 📩 soyainhhoa@gmail.com 📍 Barcelona
-    location: "Spain"
-    followers: 19455
-    engagement: 335
-    commentsToLikes: 0.125479
-    id: ck8t2wl8z0ype0j78wxnjki7x
-    verified: false
-    hashtags: "#zaraoutfit, #influencer, #chalecos, #21buttons"
-  - username: "danaeandco"
-    fullname: >-
-      D A N A E
-    bio: >-
-      👩🏻 Mamá, diseñadora y aficionada a la fotografía 📍 Barcelona ⚡️ Emprendiendo en @mamamood.es @danaeandco_foto 👇🏼Si quieres saber más
-    location: "Spain"
-    followers: 25770
-    engagement: 189
-    commentsToLikes: 0.110314
-    id: ck5zjscqai5yw0i14v1o0tbhr
-    verified: false
-    hashtags: "#thewaytotravel, #family, #vacaciones, #amordemadre"
   - username: "destinowanderlust"
     fullname: >-
       IRENE  Y JAVI 🌍 TRAVEL COUPLE
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.085241
     id: ck15plqqryig50i19n7uj23cl
     verified: false
-    hashtags: "#andalucia, #visitbarcelona, #viajar, #costadelsol"
+    hashtags: "#travel, #earthcouples, #andalucia, #buscablogs"
   - username: "hap_fashion"
     fullname: >-
       H͙E͙I͙D͙Y͙ ✨ LIFESTYLE
@@ -97,12 +85,24 @@ profiles:
     bio: >-
       Illustrator from Barcelona 📩 info@joanalturo.com
     location: "Spain"
-    followers: 12452
-    engagement: 434
-    commentsToLikes: 0.025304
+    followers: 12921
+    engagement: 347
+    commentsToLikes: 0.022437
     id: ck8tag3p0rlzm0j78w2rb90st
     verified: false
-    hashtags: "#joanalturo, #perfume, #editorialillustration, #creative"
+    hashtags: "#contemporaryillustration, #creative, #conceptualillustration, #dise"
+  - username: "cristinagnz"
+    fullname: >-
+      CRISTINA GNZ
+    bio: >-
+      𖤥 Bαrcelonα ✉︎ Cristinagnz92@gmail.com ✈ Trαvel. Lαugh. Eαt. Repeαt!
+    location: "Spain"
+    followers: 17258
+    engagement: 252
+    commentsToLikes: 0.149917
+    id: ckw9lq7wujsvh0j23wsz1aw1g
+    verified: false
+    hashtags: "#igersbcn, #portugal, #girlslovetravel, #christmas"
   - username: "soniamarnez"
     fullname: >-
       Sonia Martínez
@@ -115,16 +115,16 @@ profiles:
     id: ck55mkgzu45xl0i11gsygurfh
     verified: false
     hashtags: "#journalist, #igersbarcelona, #beauty, #barcelona"
-  - username: "sav45"
+  - username: "woodabu"
     fullname: >-
-      Sav Fortyfive
+      WOODABU - Wood Art Studio
     bio: >-
-      Represented by @larcadaartgallery savforty5@yahoo.com
+      🌳 1 Tree for every sale 🛠️ Custom-made to your specifications 🙌 Hand crafted with love 📍 Made in Madrid, Spain
     location: "Spain"
-    followers: 10608
-    engagement: 1151
-    commentsToLikes: 0.042251
-    id: ck6uifdzoermo0j71edq3ih5k
+    followers: 72051
+    engagement: 92
+    commentsToLikes: 0.193784
+    id: ck5zuz4tn3aok0i14owzl2t9f
     verified: false
-    hashtags: "#classicart, #3dart, #fatcap, #portraitart"
+    hashtags: "#bhfyp, #muebles, #decoracioninteriores, #art"
 ---

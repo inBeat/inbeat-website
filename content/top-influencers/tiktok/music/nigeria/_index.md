@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Nigeria In 2023
+title: Top 10 Music TikTok Influencers In Nigeria In 2024
 description: >-
-  Find top music TikTok influencers in Nigeria in 2023. Most popular hashtags: #fyp #foryoupage #music #viral.
+  Find top music TikTok influencers in Nigeria in 2024. Most popular hashtags: #foryoupage #fyp #music #funny.
 platform: TikTok
 hits: 18
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our search engine has 18 TikTok influencers like this in Nigeria for you to contact.
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 18 TikTok influencers like this in Nigeria for you to connect with.
 profiles:
   - username: "badsonbreny"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Toronto In 2023
+title: Top 10 Barbers Instagram Influencers In Toronto In 2024
 description: >-
-  Find top barbers Instagram influencers in Toronto in 2023. Most popular hashtags: #menshair #toronto #haircut.
+  Find top barbers Instagram influencers in Toronto in 2024. Most popular hashtags: #canada #haircut #toronto #vancouver.
 platform: Instagram
-hits: 5
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 5 Instagram influencers like this in Toronto, Canada for you to collaborate.
+hits: 8
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 8 Instagram influencers like this in Toronto, Canada for you to connect with.
 profiles:
   - username: "marcoprinceton"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.071743
     id: ck5bw3mmzkxnv0i11r25qxkpd
     verified: false
-    hashtags: "#thebarberprince, #royalvseveryone, #halloffadesstudio"
+    hashtags: "#royalvseveryone, #halloffadesstudio, #thebarberprince"
   - username: "shawn_barbz"
     fullname: >-
       SHAWN BARBZ🏆10xAward Winning ✪
@@ -30,7 +30,31 @@ profiles:
     commentsToLikes: 0.105390
     id: ck8swu8yqf9bv0j78w9stmizb
     verified: false
-    hashtags: "#faded, #wahl, #malton, #surrey"
+    hashtags: "#2020, #wahloffame, #toronto, #barbershopconnect"
+  - username: "sammibarber"
+    fullname: >-
+      Sammi Barber | Canadian Actress & Creator
+    bio: >-
+      + #Creator LIFESTYLE | FASHION | FUN | UGC 🎬 I play crazy well #actress 📍#toronto & probably at the beach🌊 #soulsearcher 💌infosammibarber@gmail.com
+    location: "Canada"
+    followers: 26334
+    engagement: 55
+    commentsToLikes: 0.211166
+    id: ck5c8ww8iacz20i11dfma8gt6
+    verified: false
+    hashtags: "#fringebangs, #haircut, #hemwayglittergrout, #hemway"
+  - username: "missvictorious"
+    fullname: >-
+      Victoria Hazell
+    bio: >-
+      Professional Barber | Salon Owner | Educator | Certified Trichologist | Hair Artist | @theofficehairstudio @babylissprocanada @thesocialctv
+    location: "Canada"
+    followers: 33471
+    engagement: 46
+    commentsToLikes: 0.047521
+    id: ck5q8qeve7hmz0i11o4h2wl37
+    verified: false
+    hashtags: "#missvictorious, #babylisspro, #victorioushair, #torontobalayage"
   - username: "erichsaide"
     fullname: >-
       Erich Saide Photography
@@ -42,7 +66,7 @@ profiles:
     commentsToLikes: 0.079245
     id: ck5cabibld3n20i11z1qc8lna
     verified: false
-    hashtags: "#tethertoolspro, #fitnessphotographer, #iso1200, #nikonphotographer"
+    hashtags: "#vancouverportraitsphotographer, #ironworkers, #betterwhenyoutether, #nikonphotographer"
   - username: "hyablak"
     fullname: >-
       MONSTAPOP
@@ -67,6 +91,30 @@ profiles:
     id: ck5q7gbc71f7b0i115c4j7ie7
     verified: true
     hashtags: "#covid19, #themoment, #covid, #cbcnews"
+  - username: "itsmrjladner"
+    fullname: >-
+      J Ladner | Joshua Ladner
+    bio: >-
+      🚀 I edu hair stylists how to become more efficient 💰 📍 Los Angeles 🎙 NSLB podcast @ninatulio ✨ Dir of Edu @fastfoils 🪄Chief Brand Amb @oligopro
+    location: "Canada"
+    followers: 222378
+    engagement: 23
+    commentsToLikes: 0.077442
+    id: ck15qnrlk3ren0i19ezylsjya
+    verified: false
+    hashtags: "#oligopro, #fastfoilseducation, #caluragloss, #haireducation"
+  - username: "missvictorious"
+    fullname: >-
+      Victoria Hazell
+    bio: >-
+      Professional Barber | Salon Owner | Educator | Certified Trichologist | Hair Artist | @theofficehairstudio @babylissprocanada @thesocialctv
+    location: "Canada"
+    followers: 33471
+    engagement: 46
+    commentsToLikes: 0.047521
+    id: ck5q8qeve7hmz0i11o4h2wl37
+    verified: false
+    hashtags: "#missvictorious, #babylisspro, #victorioushair, #torontobalayage"
   - username: "marcoprinceton"
     fullname: >-
       Princeton // Toronto Barber 👑
@@ -78,53 +126,5 @@ profiles:
     commentsToLikes: 0.071743
     id: ck5bw3mmzkxnv0i11r25qxkpd
     verified: false
-    hashtags: "#thebarberprince, #royalvseveryone, #halloffadesstudio"
-  - username: "farzadthehappybarber"
-    fullname: >-
-      Farzad Salehi
-    bio: >-
-      Barber, motorcycle rider, whisky lover, lover of life......born in Iran, proud Canadian and Vancouverite since 1994 🇨🇦💈🏍♥️ @farzadsbarbershop
-    location: "Canada"
-    followers: 86372
-    engagement: 165
-    commentsToLikes: 0.039857
-    id: ck5hffyfuxaev0i11otorm50m
-    verified: false
-    hashtags: "#barbering, #thehappybarber, #shave, #keepitsimple"
-  - username: "aztroo"
-    fullname: >-
-      Enrique Tapia
-    bio: >-
-      🔪🏰 Barber / Visual artist Endurance running YouTube: 3versince (5M+) Creative director @3versince 23
-    location: "Canada"
-    followers: 52537
-    engagement: 556
-    commentsToLikes: 0.009989
-    id: ck5pzj2x5182s0i114zr3uddz
-    verified: false
-    hashtags: ""
-  - username: "shawn_barbz"
-    fullname: >-
-      SHAWN BARBZ🏆10xAward Winning ✪
-    bio: >-
-      TORONTO CANADA 🇨🇦 Owner: ColdKutzBarberShop 📍Malton Coldkutz Salon & Spa📍Toronto 🏆CANADIAN NATIONAL CHAMPION🏆 •WAHL Educator and Brand Ambassador
-    location: "Canada"
-    followers: 25138
-    engagement: 72
-    commentsToLikes: 0.105390
-    id: ck8swu8yqf9bv0j78w9stmizb
-    verified: false
-    hashtags: "#faded, #wahl, #malton, #surrey"
-  - username: "waseemyouans"
-    fullname: >-
-      Waseem Youans
-    bio: >-
-      Founder/CEO @wy.signaturebrand 🎬As featured by @insider and @insiderbeauty
-    location: "Canada"
-    followers: 182570
-    engagement: 308
-    commentsToLikes: 0.008030
-    id: ck5hk4s5dhsdj0i11zul9cms7
-    verified: false
-    hashtags: "#hairclay, #inspire, #hairstyle, #menshair"
+    hashtags: "#royalvseveryone, #halloffadesstudio, #thebarberprince"
 ---

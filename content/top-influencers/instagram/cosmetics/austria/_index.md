@@ -1,36 +1,24 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Austria In 2023
+title: Top 10 Cosmetics Instagram Influencers In Austria In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Austria in 2023. Most popular hashtags: #makeup #vienna #fashion #beauty.
+  Find top cosmetics Instagram influencers in Austria in 2024. Most popular hashtags: #vienna #makeup #creativemakeup #facepainting.
 platform: Instagram
-hits: 11
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 11 Instagram influencers like this in Austria for you to contact.
+hits: 10
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 10 Instagram influencers like this in Austria for you to pitch.
 profiles:
-  - username: "terezabudkova"
+  - username: "miascoziness"
     fullname: >-
-      Tereza Budková
+      MIA
     bio: >-
-      Czech model 📸💄 Simply Model Management - Prague; Louisa Models- Hamburg, Munchen; Born Models- Denmark; AMT- Vienna ☺️
+      Interior • Nordic • Living Brand Ambassador | WESTWING #westwinghomies #miascoziness
     location: "Austria"
-    followers: 110131
-    engagement: 473
-    commentsToLikes: 0.016313
-    id: ck6tpthc4mrf00j717n7qvztb
-    verified: true
-    hashtags: "#lovemyjob, #muah, #germany, #makeup"
-  - username: "caroline.lena"
-    fullname: >-
-      Lena
-    bio: >-
-      📍 #vienna 📷 #behindthescenes 🍴 #foodstories 🇦🇹 #contentcreator ✉️ lenacaroline.lc@gmail.com
-    location: "Austria"
-    followers: 11291
-    engagement: 223
-    commentsToLikes: 0.218527
-    id: ck0w4tdkd0bjo0i19ho2fzyd7
+    followers: 55854
+    engagement: 168
+    commentsToLikes: 0.090264
+    id: clmizkqqyiq6a0j08n028fc3z
     verified: false
-    hashtags: "#bts, #lightroom, #sustainable, #rabattcode"
+    hashtags: "#interiordesign, #bathroom, #wohnzimmer, #wohnzimmerdeko"
   - username: "frederika_kurtulikova"
     fullname: >-
       Frederika Kurtulíková
@@ -42,19 +30,31 @@ profiles:
     commentsToLikes: 0.032683
     id: ck5hjktdmgsxc0i115a8scbex
     verified: false
-    hashtags: "#face, #bratislava, #woman, #slovenka"
-  - username: "sheri_show"
+    hashtags: "#outfit, #face, #model, #woman"
+  - username: "giveherglitter"
     fullname: >-
-      Shqlawa
+      Ursula Reiter
     bio: >-
-      📍 Vienna •Certified MUA •Makeup• Hair •Beauty • Lifestyle •For appointment: +43 681 10884281 •10/192
+      makeup | everything beauty | life vienna • linz
     location: "Austria"
-    followers: 61326
-    engagement: 244
-    commentsToLikes: 0.055980
-    id: ck8ta6eejqlzf0j78zskkwc4n
+    followers: 17667
+    engagement: 84
+    commentsToLikes: 0.064395
+    id: ck0w3kb2hturt0i19kopndlop
     verified: false
-    hashtags: "#vienna, #fashion, #styleblogger, #shein"
+    hashtags: "#drogerie, #skincare, #naturalmakeup, #hair"
+  - username: "christina.bischof"
+    fullname: >-
+      Christina Bischof | formerly biluca
+    bio: >-
+      Contact: christina@biluca.de 💌 • Podcast: Echt & Ungeschminkt 🎙 Shop my Haircare: @feschi.shop
+    location: "Austria"
+    followers: 292146
+    engagement: 71
+    commentsToLikes: 0.009644
+    id: ck137fmyebadh0i19jc17vyc0
+    verified: false
+    hashtags: "#grwm, #uluwatu, #vienna, #bali"
   - username: "shadesbynina"
     fullname: >-
       nina 🤍 makeup artist
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.087818
     id: ck8t0ixkis7tt0j7848javd0l
     verified: false
-    hashtags: "#beginnermakeup, #eyemakeupideas, #eyeart, #abhbrows"
+    hashtags: "#makeup4glam, #igersvienna, #muasfam, #eyeartist"
   - username: "sarah.stormborn"
     fullname: >-
       Sarah Stormborn
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.116110
     id: ck5hrx5ayvmq60i11mxx72d7d
     verified: false
-    hashtags: "#cutcrease, #eyemakeupoftheday, #eyemakeup, #revlonprofessional"
+    hashtags: "#sparklejoy, #eyemakeupideas, #photoart, #makeupvienna"
   - username: "sweetenzias"
     fullname: >-
       Sᴡᴇᴇᴛᴇɴᴢɪᴀꜱ | Mᴀᴋᴇᴜᴘ Aʀᴛɪꜱᴛ
@@ -102,19 +102,7 @@ profiles:
     commentsToLikes: 0.194898
     id: ckap22w1xx5820i783b7th47f
     verified: false
-    hashtags: "#editorialmakeup, #creativeart, #mehronhalloween, #faceproject2018"
-  - username: "olga_sankin"
-    fullname: >-
-      Olga Sankin
-    bio: >-
-      🇰🇿 🇷🇺 Makeup & Opinions 🇩🇪 🇦🇹 Twitter & TikTok: olga_sankin
-    location: "Austria"
-    followers: 33130
-    engagement: 514
-    commentsToLikes: 0.086034
-    id: ckap50rbj9o6q0i78fn3bgc30
-    verified: false
-    hashtags: "#makeuptutorial, #eyeliner, #oljaljas, #makeuplook"
+    hashtags: "#creativemakeup, #halloweenmakeup, #31daysofmehronhalloween, #thisismakeup"
   - username: "xmakeupista"
     fullname: >-
       Sandra Lukić
@@ -127,4 +115,16 @@ profiles:
     id: ckaorb593mi9m0i786fodtnp1
     verified: false
     hashtags: "#anastasiabrows, #abh, #brautmakeup, #muasupport"
+  - username: "melanie.zehner"
+    fullname: >-
+      Model | Stylist
+    bio: >-
+      Professional Model & Master Stylist Content Creator📸 🌱Vegan Food 📍Based in 🇨🇭 born in 🇦🇹 Next✈️: Balearen Trip For cooperations and bookings DM me😘
+    location: "Austria"
+    followers: 11298
+    engagement: 661
+    commentsToLikes: 0.101776
+    id: ck14kfzsypc600i194gkksqo4
+    verified: false
+    hashtags: "#mallorcalifestyle, #portraitphotography, #modelsearch, #instagood"
 ---

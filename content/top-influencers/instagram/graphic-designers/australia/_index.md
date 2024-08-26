@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Australia In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Australia In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Australia in 2023. Most popular hashtags: #graphicdesign #artwork #westernaustralia #digitalillustration.
+  Find top graphic-designers Instagram influencers in Australia in 2024. Most popular hashtags: #graphicdesign #photoshop #design #digitalillustration.
 platform: Instagram
-hits: 14
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 14 Instagram influencers like this in Australia for you to pitch.
+hits: 33
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 33 Instagram influencers like this in Australia for you to connect with.
 profiles:
   - username: "lana_del_red"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.018142
     id: ckaor7qw3m2wr0i783lrhf0w0
     verified: false
-    hashtags: "#digitalillustration, #drawingoftheday, #illo, #handlettering"
+    hashtags: "#illo, #selfcaretips, #stilllife, #stillherestilllife"
   - username: "carterhookdesigns"
     fullname: >-
       Carter Hook
@@ -115,16 +115,16 @@ profiles:
     id: ck0w1zzs0lyxn0i19zwdplhb7
     verified: false
     hashtags: "#classifiedmind, #gramslayers, #reflectionjunkiez, #toneception"
-  - username: "dainwalker"
+  - username: "rndesign"
     fullname: >-
-      Dain Walker • Brand Strategist
+      Robert Nowland | Brand Design
     bio: >-
-      🟨 • Daily snackable brand tips ⬜️ • Founder of @rivyl.co 🟧 • Text me +61438 333 038 ⬛️ • Book my agency, link below
+      ✍️ Logos & Identities ⚡ I help purposeful brands boogie with the best 📖 Teaching & inspiring 🇦🇺 Aussie available globally 📩 DM/emails open 👇 Discover
     location: "Australia"
-    followers: 422461
-    engagement: 146
-    commentsToLikes: 0.047151
-    id: ck6u539o47cg80j71p8n6cq79
+    followers: 26936
+    engagement: 365
+    commentsToLikes: 0.085239
+    id: ck8wcybawd5zp0j78oz2bmuaz
     verified: false
-    hashtags: "#branddesigner, #graphicdesign, #graphicdesigner, #brand"
+    hashtags: "#logoolshop, #corporateidentity, #logosai, #logoprocess"
 ---

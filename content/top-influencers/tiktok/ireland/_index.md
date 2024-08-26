@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Ireland In 2023
+title: Top 10 TikTok Influencers In Ireland In 2024
 description: >-
-  Find top TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #duet #foryoupage #irish.
+  Find top TikTok influencers in Ireland in 2024. Most popular hashtags: #fyp #duet #foryoupage #irish.
 platform: TikTok
 hits: 626
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: inBeat has 626 TikTok influencers like this in Ireland for you to connect with.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 626 TikTok influencers like this in Ireland for you to work with.
 profiles:
   - username: "kyaslife"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.036277
     id: ckb9jy1u5bght0j23nikmocau
     verified: false
-    hashtags: "#tppaudition2big, #foryoupage, #dayinthelife, #style"
+    hashtags: "#foryoupage, #tppaudition2big, #dayinthelife, #style"
   - username: "user1635428352"
     fullname: >-
       Loraine Crowley

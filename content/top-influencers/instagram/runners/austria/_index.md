@@ -1,36 +1,60 @@
 ---
-title: Top 10 Runners Instagram Influencers In Austria In 2023
+title: Top 10 Runners Instagram Influencers In Austria In 2024
 description: >-
-  Find top runners Instagram influencers in Austria in 2023. Most popular hashtags: #mountains #run #running #training.
+  Find top runners Instagram influencers in Austria in 2024. Most popular hashtags: #running #run #runner #mountains.
 platform: Instagram
-hits: 11
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database has 11 Instagram influencers like this in Austria for you to work with.
+hits: 14
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 14 Instagram influencers like this in Austria for you to work with.
 profiles:
-  - username: "debreczenidora"
+  - username: "frankortler"
     fullname: >-
-      Debreczeni Dóra
+      Frank
     bio: >-
-      🤍mom & wife ▫️model | trail runner | trainer 👙#DDFitt online program
+      💙 Brooks Run Happy Team @brooksrunningde #brooksrunningde #runhappy 50 Years 👨/Austria 🇦🇹/❤Running 5km➡️42km/ 36 times Marathon 🏃‍♂️
     location: "Austria"
-    followers: 65337
-    engagement: 283
-    commentsToLikes: 0.023278
-    id: ckaovvloe6a190i78ehp6n2m1
+    followers: 10425
+    engagement: 688
+    commentsToLikes: 0.068982
+    id: ck13bgw8svc9b0i19h8cvjdjn
     verified: false
-    hashtags: "#run, #zal, #ddfitt, #zar"
+    hashtags: "#brooksfindyourrun, #runhappyteam, #instarun, #runnersofinstagram"
   - username: "theflyingflip"
     fullname: >-
       PHILIPP AUSSERHOFER
     bio: >-
-      Runner | Alpinist | Skier @scarpaspa / @karpos athlete ✘ made in Ahrntal | South Tyrol ✘ actual homebase: Tyrol ✘ wild heart | deep mind | free soul
+      Ultra trail athlete @boafitsystem @scarpaspa @karpos Running far to discover our planet and to push my limits. wild heart | deep mind | free soul
     location: "Austria"
-    followers: 12293
-    engagement: 894
-    commentsToLikes: 0.018228
+    followers: 54854
+    engagement: 1172
+    commentsToLikes: 0.016955
     id: ck5bud3vphk9d0i114c6ydkdx
     verified: false
-    hashtags: "#trainhard, #dolomiti, #noplacetoofar, #ultrarunner"
+    hashtags: "#ultrarunning, #mindset, #sunset, #tirol"
+  - username: "sylvannatoledo"
+    fullname: >-
+      Sylvanna Toledo
+    bio: >-
+      Guatemala 🇬🇹 🏃🏼‍♀️ ▪️PB HALF MARATHON 1:17:36 ▪️PB MARATHON 2:55:13
+    location: "Austria"
+    followers: 130238
+    engagement: 834
+    commentsToLikes: 0.037751
+    id: ck8syminvl9w70j781t5iyo36
+    verified: false
+    hashtags: "#athlete, #marathon, #training, #goals"
+  - username: "debreczenidora"
+    fullname: >-
+      Debreczeni Dóra
+    bio: >-
+      ▫️mom | trailrunner | coach (EXOS, CFSC) ▫️New Balance Run Club | Head coach ▫️Nutriversum ambasador ▫️Garmin Team Hungary
+    location: "Austria"
+    followers: 76189
+    engagement: 122
+    commentsToLikes: 0.003932
+    id: ckaovvloe6a190i78ehp6n2m1
+    verified: false
+    hashtags: "#runner, #runningmotivation, #run, #rekl"
   - username: "annaburgstaller"
     fullname: >-
       Anna Maria Burgstaller
@@ -61,70 +85,46 @@ profiles:
     bio: >-
       A running mountaineer 💥🏃🏻‍♂️🧗‍♂️ 🔥Powered by @redbull @lasportivagram @grivel 🥇Ultra Andorra🇦🇩 🥇&🥈36h Survival Run🇨🇦&🇳🇮 🥉24h Spartan World Ch.🇮🇸
     location: "Austria"
-    followers: 20198
-    engagement: 259
-    commentsToLikes: 0.018095
+    followers: 19946
+    engagement: 166
+    commentsToLikes: 0.012487
     id: ck6tyybct6k6s0j71iloyco7k
     verified: false
-    hashtags: "#mountainlove, #runrunrun, #mountaineering, #ultratraining"
-  - username: "trackingmona"
+    hashtags: "#trailrun, #trailrunner, #alpen, #swissalps"
+  - username: "inn_sta_tinchen"
     fullname: >-
-      Mona
+      Tina
     bio: >-
-      🏃🏻‍♀️ running girl who studies nutrition & sports ✨ @myu.studios 📍 Vienna | Aarhus ✉️ trackingmona@gmail.com
+      🎿 @origplus made in 🇦🇹 📍Innviertel 🇦🇹 #upperaustria 🐾 @hannibal_mountainvizsla @rossignol #werise
     location: "Austria"
-    followers: 115518
-    engagement: 314
-    commentsToLikes: 0.004569
-    id: ck5budyuohlsx0i1120gqe0rd
+    followers: 16835
+    engagement: 351
+    commentsToLikes: 0.037255
+    id: ck6ud3v4rizl80j71ybbvbiex
     verified: false
-    hashtags: "#recovery, #coralfriendly, #runningmotivation, #runninggirl"
-  - username: "michaelwerlberger"
+    hashtags: "#sheisthewild, #austriancreators, #upperaustria, #alps"
+  - username: "maximilianwarum"
     fullname: >-
-      Michael Werlberger
+      Maximilian Warum
     bio: >-
-      Action and Landscape Photographer Based in Kitzbühel / Austria
+      running @saltysportsclub
     location: "Austria"
-    followers: 5195
-    engagement: 1091
-    commentsToLikes: 0.018231
-    id: ck5hggbeh2mbf0i11bcldae2t
+    followers: 65008
+    engagement: 153
+    commentsToLikes: 0.024410
+    id: clpfql3tpjw300k081bnhnjw4
     verified: false
-    hashtags: "#thediscoverer, #tirol, #race, #discoverearth"
-  - username: "clemensdoppler"
+    hashtags: "#staysalty, #austria, #vienna, #trainwithcoros"
+  - username: "dersteira"
     fullname: >-
-      Clemens Doppler
+      derSteira
     bio: >-
-      🇦🇹Beachvolleyball Player 💥Vice World Champion🥈 💥Double European Champion🥇🥇🥈🥉 💥3x Olympian 👨‍👩‍👧Proud Dad 👨‍🎓MBA - Businessadmin. & Sports
+      When the sun shines on you, you‘re a fool to turn away ☀️
     location: "Austria"
-    followers: 12059
-    engagement: 695
-    commentsToLikes: 0.018055
-    id: ck1353ny7zjdz0i199m51jwb4
-    verified: true
-    hashtags: "#keepmovingkeepticking, #austria, #givesyouwings, #sportlandnoe"
-  - username: "patricklange1"
-    fullname: >-
-      Patrick Lange
-    bio: >-
-      • 2-time IRONMAN WORLD CHAMPION • First athlete to finish sub 8h in Kona
-    location: "Austria"
-    followers: 222714
-    engagement: 193
-    commentsToLikes: 0.003355
-    id: ck0tvf6n7b3ef0i19appdjkjj
-    verified: true
-    hashtags: "#aerodynamicsbyswissside, #adidas, #triathlon, #pl5"
-  - username: "anamarija.lampic"
-    fullname: >-
-      AnamarijaLampič
-    bio: >-
-      🇸🇮 sLOVEnija 💙Cross-Country Skier💙 💥🥉🥉World Ski Championship Obersdorf 2021 🥇Sprinter in the world season 2020/2021 💪🏼✌🏻 💥OLYMPIAN ✌💥
-    location: "Austria"
-    followers: 16706
-    engagement: 1833
-    commentsToLikes: 0.009674
-    id: ck5hl6xgsjohp0i11g6gx6hxz
+    followers: 51505
+    engagement: 121
+    commentsToLikes: 0.009673
+    id: ckaow41bs7bx10i78uaqvq241
     verified: false
-    hashtags: "#mylife, #mountains, #roadtobeijing2022, #offday"
+    hashtags: "#bibshorts, #kaernten, #seeitinprizm, #bikeride"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Poland In 2023
+title: Top 10 Fitness Instagram Influencers In Poland In 2024
 description: >-
-  Find top fitness Instagram influencers in Poland in 2023. Most popular hashtags: #polishgirl #polskadziewczyna #love #instagood.
+  Find top fitness Instagram influencers in Poland in 2024. Most popular hashtags: #reklama #fitness #fitnessmotivation #motivation.
 platform: Instagram
-hits: 581
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 581 Instagram influencers like this in Poland for you to pitch.
+hits: 593
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 593 Instagram influencers like this in Poland for you to collaborate.
 profiles:
-  - username: "ela_fab_"
+  - username: "aenka_an"
     fullname: >-
-      Ela🇵🇱
+      Anna Zuch Official
     bio: >-
-      💪20%https://olimpsport.com/pl/ kod rabat „Elafab” 💪Team @xtreme_fitness_gyms 💪15% Sklep Furia Kod rabat „elafab” www. sklepfuria.pl/
+      🔸Mama na pełen etat 🔸Trenerka personalna i fitness 🔸Aktorka 🔸Darmowe treningi na YouTube: Anna Zuch 📩annazuch.biznes@gmail.com
     location: "Poland"
-    followers: 9191
-    engagement: 1401
-    commentsToLikes: 0.122452
-    id: ck9hbtw96iff10j78lo7v1r3a
+    followers: 365814
+    engagement: 611
+    commentsToLikes: 0.005398
+    id: ck9h9zkb5alke0j785jgsz1gu
     verified: false
-    hashtags: "#mylife, #motywacja, #muscle, #olimpsportnutrition"
-  - username: "adrianna.kalisz"
+    hashtags: "#mama, #parents, #mother, #parenting"
+  - username: "filipzabielski"
     fullname: >-
-      Adrianna Kalisz
+      Filip Zabielski 💪🏻
     bio: >-
-      🗞Redaktor 🏃🏼‍♀️Branża Fitness 🌆 Warsaw, Poland🇵🇱 📞 Contact: adakalisz93@wp.pl
+      💪🏻 Gym, Fitness & MMA 👤 Mindset, Business, Lifestyle 📧 filip.zabielski@spacecat.pl KONTENT PREMIUM TUTAJ ⬇️
     location: "Poland"
-    followers: 17027
-    engagement: 622
-    commentsToLikes: 0.088578
-    id: ckaoze6ynlhep0i78breboukg
+    followers: 278383
+    engagement: 554
+    commentsToLikes: 0.009113
+    id: ck6ts8w0p3e5p0j710rwl6qc8
     verified: false
-    hashtags: "#adatakniewypada, #humanforhuman, #dzienszpilek"
-  - username: "kaaaro_wu"
+    hashtags: "#dubai, #reklama, #polishboy, #thefreestyle"
+  - username: "barbie_hulk"
     fullname: >-
-      Karolina Walawko
+      Nikoletta Karat
     bio: >-
-      📍Warsaw 🇵🇱 . •Fitness • Health • Fashion • Skin Care . 💌 kaaaro.wu@gmail.com
+      💕Barbie Hulk💕 💎Personal Trainer 💎NPC Bikini Fitness 🥈Open Class H BM 🥈True Begginers ⭕️ 🥉🥉Novice ⭕️& BM 💎Sports Nutritionist 💎Online Collaboration
     location: "Poland"
-    followers: 20684
-    engagement: 454
-    commentsToLikes: 0.078143
-    id: ck15qb5cc1zsm0i19nwb10g5b
+    followers: 21537
+    engagement: 880
+    commentsToLikes: 0.002031
+    id: ckap7e52kjoi30i7837fh1qn0
     verified: false
-    hashtags: "#beauty, #stylefashion, #polskadziewczyna, #motywacja"
-  - username: "mammy.mon"
+    hashtags: "#bodybuilding, #gymfreak, #competition, #gymmotivation"
+  - username: "galczynska.project"
     fullname: >-
-      Monika
+      Sonia Gałczyńska |  Choreograf
     bio: >-
-      DANCE • FITNESS • ZUMBA INSTRUCTOR 🇵🇱in ➡️📍Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿Scotland TikTok: mammy.mon
+      𝐒𝐩𝐞𝐜𝐣𝐚𝐥𝐢𝐬𝐭𝐤𝐚 𝐨𝐝 𝐰𝐲𝐫𝐚𝐳𝐮 𝐬𝐜𝐞𝐧𝐢𝐜𝐳𝐧𝐞𝐠𝐨👠 📍Choreograf Miss Polonia'19 📍Tancerka, Pedagog, Choreograf 📍Nauczycielka WF 📍Mgr AWF 📍Instruktor pływania, fitness
     location: "Poland"
-    followers: 9007
-    engagement: 674
-    commentsToLikes: 0.090671
-    id: ck8t3qc1z43820j78ino2x3z1
+    followers: 29695
+    engagement: 470
+    commentsToLikes: 0.021456
+    id: ck5hj44wgfyw40i11q040q8s0
     verified: false
-    hashtags: "#usmiech, #instagirls, #fitnessgirl, #longlegs"
-  - username: "aidualkylno"
+    hashtags: "#baywatch, #ratowniczka, #pozytywnemy, #wychowawcakolonijny"
+  - username: "satinva"
     fullname: >-
-      Klaudia Jóźwiak
+      Satinva
     bio: >-
-      🎤@mamtalent_tvn 12 💃Dancer/Choreographer 💪Fitness Instructor 💀Tattoo Artist 🍕Dietician 📩 aidualkylno@wp.pl
+      FITNESS | LIFESTYLE | MOTIVATION 🎥 YouTube : SATINVA 🍑 @satinva_collection 💗 Aplikacja: @bodybysatinva Programy treningowe ⬇️⬇️
     location: "Poland"
-    followers: 16717
-    engagement: 958
-    commentsToLikes: 0.035935
-    id: ck8t6yr61f3xl0j78p4y19drf
+    followers: 175460
+    engagement: 389
+    commentsToLikes: 0.017868
+    id: ck5hk5cr2htgq0i11edbn0eb5
     verified: false
-    hashtags: "#time, #positive, #girl, #nature"
-  - username: "summerszysz"
+    hashtags: "#polishgirl, #trener, #zdroweprzepisy, #motywacja"
+  - username: "paulaa_fitness"
     fullname: >-
-      Aneta
+      Paulaa - Paulina Śmietanka
     bio: >-
-      🇵🇱 🇬🇷 Wszystko możesz nic nie musisz 😊 Fitness💪 Motivation 👌 Mama 👦👧 44 🎂 Love🌞🐈🏃‍♀️🏋️‍♀️🍫⚽ -10% z kodem summerszysz na sfd.pl/sklep 📩oliviaviko@wp.pl
+      🤸🏼‍♀️ fit lover & 👩🏼‍🍳 cooking lover @sklep.sfd ambasador ➡️ -10% PAULAA_FITNESS 📍Warszawa
     location: "Poland"
-    followers: 128139
-    engagement: 541
-    commentsToLikes: 0.042412
-    id: ck8tds92n4l4p0j78vkzkldjk
+    followers: 35010
+    engagement: 262
+    commentsToLikes: 0.029148
+    id: ck0udjrolj9670i191a6spd0s
     verified: false
-    hashtags: "#picoftheday, #si, #shape, #bez"
-  - username: "a_ania6"
+    hashtags: "#smile, #foodie, #polishgirl, #jednoporcjowe"
+  - username: "gosia_galkowska"
     fullname: >-
-      Bikini IFBB
+      Małgorzata Galkowska
     bio: >-
-      ➡️ KRAKÓW 🔥 TRENINGI PERSONALNE 🏋️‍♀️ 🥗 PLANY DIETETYCZNE 🥞 💎 Bikini fitness IFBB 🏅 📩 DM
+      🏋🏻 Gotowe TRENINGI 🗒️ Duża dawka WIEDZY sportowej ⚡️ MOTYWACJA 👉🏻 20lat doświadczenia w branży FITNESS 🫵🏼 Zadbaj o swoje CIAŁO ze mną
     location: "Poland"
-    followers: 51687
-    engagement: 244
-    commentsToLikes: 0.078385
-    id: ckf5vifkroq0b0j23bofffajq
+    followers: 60657
+    engagement: 174
+    commentsToLikes: 0.025142
+    id: ck600v7dsebzp0i14l9x7yvjv
     verified: false
-    hashtags: "#fitissexy, #motywacja, #kochamsiebie, #selfie"
-  - username: "babcia.w.adidasach"
+    hashtags: "#happy, #photography, #bikini, #motivation"
+  - username: "jullla.r"
     fullname: >-
-      Kasia🇵🇱🇩🇪
+      Julia Rozhkova
     bio: >-
-      Kobieta 40 + Zumba & fitness freak 💪 Collab/DM 📤/E-Mail📧
+      МАРАФОН 2024↓ owner of the JFIT fitness project @flame69.krk @artandmore.krk @goldbaby.swimwear trainings. motivation. content for brands.
     location: "Poland"
-    followers: 127370
-    engagement: 206
-    commentsToLikes: 0.046031
-    id: ck6trwzmz1jx20j71kyfzfd8h
+    followers: 233109
+    engagement: 199
+    commentsToLikes: 0.008920
+    id: ck6twd5yurc240j71uyq6gzlx
     verified: false
-    hashtags: "#polskadziewczyna, #dobrywiecz, #love, #goodvibes"
-  - username: "sev_ita"
+    hashtags: ""
+  - username: "kasia_m_fitness"
     fullname: >-
-      sevita® ⚡️
+      ᴋᴀsɪᴀ ʀᴏᴅᴢɪᴋ ᴍᴀʟɪsᴢᴇᴡsᴋᴀ
     bio: >-
-      •content creator - passion🤍 •dentist + ae.med👩🏼‍⚕️ •esthete ✨ •D.👩‍❤️‍💋‍👨 •fashion lover👡 •fitness🤸🏼‍♀️ •TVseriesPotterheadQueenLadyGagaSamSmith
+      🥇Absolutna Mistrzyni Polski Bikini Fitness 📥 malikasia.km@gmail.com 👯‍♀️ @posing_time COACH 💚 @kamion_fitness_club
     location: "Poland"
-    followers: 24132
-    engagement: 286
-    commentsToLikes: 0.082196
-    id: ck9hcai8nkifv0j78yeg6w8rp
+    followers: 39434
+    engagement: 82
+    commentsToLikes: 0.051128
+    id: ck6tlyfbz6v5q0j7190ux29he
     verified: false
-    hashtags: "#zaraoutfit, #fashionstyles2you, #look2021, #krakowplaces"
-  - username: "gabikuczynskaa"
+    hashtags: "#kobietapotrzydziestce, #modnamama, #forma, #fitkobieta"
+  - username: "justyna.czerwonka"
     fullname: >-
-      Gabriela Kuczyńska
+      Justyna Czerwonka🧝🏽‍♀️
     bio: >-
-      🎮YouTube: Gabi, Mano i Gabi 👫 🎶TikTok: gabikuczynska ❤️ Fitness freak💪 Food lover 🍜 @manoyek 👫❤️
+      💚🐷🌿🐮🌱 Tik tok - justyna.czerwonka🔥 Instruktor Fitness @endorfina_lublin 🧘🏼‍♀️🏃🏼‍♀️ Kup mój kurs z @yxes.be 👇🏾 Kosmetolog👩🏼‍⚕️👩🏼‍🎓
     location: "Poland"
-    followers: 40405
-    engagement: 1111
-    commentsToLikes: 0.015765
-    id: ck8t6lx9qe2hm0j78g3e45z8t
+    followers: 115309
+    engagement: 69
+    commentsToLikes: 0.013757
+    id: ck6twh3w1ry3d0j71xjr77yzf
     verified: false
-    hashtags: "#winter, #december, #wibo, #gymmotivation"
+    hashtags: "#bluza, #strojkapielowy, #yxes, #sporty"
 ---

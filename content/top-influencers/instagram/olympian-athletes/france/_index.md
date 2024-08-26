@@ -1,24 +1,24 @@
 ---
-title: Top 10 Olympian Athletes Instagram Influencers In France In 2023
+title: Top 10 Olympian Athletes Instagram Influencers In France In 2024
 description: >-
-  Find top olympian athletes Instagram influencers in France in 2023. Most popular hashtags: #olympics #tokyo2020 #ad #teamcanada.
+  Find top olympian athletes Instagram influencers in France in 2024. Most popular hashtags: #olympics #tokyo2020 #jeuxolympiques #bodybuilding.
 platform: Instagram
-hits: 17
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 17 Instagram influencers like this in France for you to pitch.
+hits: 13
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 13 Instagram influencers like this in France for you to pitch.
 profiles:
   - username: "benjaminmace_"
     fullname: >-
       Benjamin Mace
     bio: >-
-      2 x Olympian Athlete Lifestyle / sport / travel @underarmourfr athlète 🏃‍♂️ATTEINS TON OBJECTIF ICI👇
+      2 x Olympian Athlete speed skating Lifestyle / sport / travel 🏃‍♂️ATTEINS TON OBJECTIF ICI👇
     location: "France"
-    followers: 38968
-    engagement: 410
-    commentsToLikes: 0.028661
+    followers: 40445
+    engagement: 273
+    commentsToLikes: 0.012784
     id: ck5hd2hgcl5vj0i11dnalwqoq
     verified: false
-    hashtags: "#dubailife, #fitnessmodel, #lifestyle, #homeworkout"
+    hashtags: "#absworkout, #malemodel, #trainingathome, #homeworkout"
   - username: "sachavalleau"
     fullname: >-
       Sacha Valleau ||
@@ -31,18 +31,6 @@ profiles:
     id: ck6tz95fg8c8b0j71bsoq4aw0
     verified: true
     hashtags: "#insach, #dubai, #crvhybrid, #2021"
-  - username: "nursey16"
-    fullname: >-
-      Sarah Nurse
-    bio: >-
-      Olympian 🇨🇦🥈 @adidasca & @CCMHockey Athlete @pwhpa • Wisconsin Badger Alum 👐🏽
-    location: "France"
-    followers: 30277
-    engagement: 619
-    commentsToLikes: 0.028135
-    id: ck5zijek7ftla0i141b68j1xd
-    verified: true
-    hashtags: "#createdwithadidas, #ad, #matrixambassador, #beautyproducts"
   - username: "nellymoenneloccoz"
     fullname: >-
       Moenne-loccoz Nelly
@@ -55,6 +43,18 @@ profiles:
     id: ck5pw11k7kks20i116gto9ycz
     verified: false
     hashtags: "#lescopainsdabord, #sardinia, #ffstv, #teamcera"
+  - username: "maximeyedess.nfc"
+    fullname: >-
+      MAXIME « YUJIRO » YEDESS
+    bio: >-
+      God’s Child 🧚🏽‍♀️ married ⭕️| 2 x Olympian 20’ 23’ 🏆| 1 Pro win 👕| @vqfit athlete 📥|Online coaching 🇫🇷🇺🇸 Owner @yeday_fitness
+    location: "France"
+    followers: 137194
+    engagement: 314
+    commentsToLikes: 0.020992
+    id: ck6u6sb70hfes0j71wuyv8gbs
+    verified: false
+    hashtags: "#bodybuildingnation, #workhardstayhumble, #bodybuilding, #athletemotivation"
   - username: "roselinefilion"
     fullname: >-
       Roseline Filion
@@ -67,18 +67,6 @@ profiles:
     id: ck6udqew9mk720j71wujefgn7
     verified: true
     hashtags: "#sports, #hiver, #olympian, #teamcanada"
-  - username: "jennabel91"
-    fullname: >-
-      Jennifer Abel || Olympic diver
-    bio: >-
-      4x Olympian 2x Olympic medalist 🥈🥉 10X world medalist Commonwealth & Panams games🥇 FB: Jennifer Abel Twitter: Jennabel91 @rw_co ambassadrice
-    location: "France"
-    followers: 64563
-    engagement: 572
-    commentsToLikes: 0.020452
-    id: ck5zuuzeu339a0i14o3ukftdb
-    verified: true
-    hashtags: "#diving, #canada, #tokyo2020, #jennabel"
   - username: "evan_bates"
     fullname: >-
       Evan Bates
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.019621
     id: ck0ttpq803rm50i197m00ntmb
     verified: true
-    hashtags: "#olympics, #olympicspirit, #tokyo2020, #jeuxolympiques"
+    hashtags: "#olympics, #tokyo2020, #jeuxolympiques, #surfing"
   - username: "ladjidoucoure7"
     fullname: >-
       Doucoure ladji
@@ -127,4 +115,16 @@ profiles:
     id: ck55iywajvtek0i11be0s08gz
     verified: true
     hashtags: "#nikonfr, #elinchrom, #infinitecolorpanel, #key2"
+  - username: "insep_officiel"
+    fullname: >-
+      INSEP
+    bio: >-
+      Institut National du Sport, de l’Expertise et de la Performance 🇫🇷
+    location: "France"
+    followers: 46820
+    engagement: 239
+    commentsToLikes: 0.003010
+    id: ck6ui31pscrqe0j712hbaoign
+    verified: false
+    hashtags: "#fencer, #fencing, #paris2024, #fencingtime"
 ---

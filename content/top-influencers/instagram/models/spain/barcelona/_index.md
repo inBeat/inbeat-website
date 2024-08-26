@@ -1,24 +1,24 @@
 ---
-title: Top 10 Models Instagram Influencers In Barcelona In 2023
+title: Top 10 Models Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top models Instagram influencers in Barcelona in 2023. Most popular hashtags: #model #barcelona #happy #fashion.
+  Find top models Instagram influencers in Barcelona in 2024. Most popular hashtags: #model #fashion #barcelona #happy.
 platform: Instagram
-hits: 148
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our platform has 148 Instagram influencers like this in Barcelona, Spain for you to contact.
+hits: 159
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 159 Instagram influencers like this in Barcelona, Spain for you to contact.
 profiles:
-  - username: "jordirodriguezmoreno"
+  - username: "acarolinabenitez"
     fullname: >-
-      Jordi Rodriguez Moreno
+      Carolina Benitez
     bio: >-
-      📍 Barcelona 🏳️‍🌈 ✍🏻/ mi verdad más oculta ( mi libro) disponible en Amazon. Tik tok: 1,4M @jordirodriguezmorenoo jordi.rodriguez@lolitamanager.es
+      Model | Actress | Entrepreneur. ❣️📸🎥🌍✈️👣♏️❤️🅰️🐾🙏🏽 @monsterenergygirls Ambassador 💚 From Brazil 📍 Based Barcelona. 📮carolinabenitezz@hotmail.com
     location: "Spain"
-    followers: 214771
-    engagement: 294
-    commentsToLikes: 0.008401
-    id: ck6tml3se81gb0j71iyxqckql
+    followers: 34579
+    engagement: 378
+    commentsToLikes: 0.042370
+    id: ckaovznrq6s5u0i78irimhnn8
     verified: false
-    hashtags: "#top, #model, #barcelona, #tiktok"
+    hashtags: "#aroundtheworld, #tulum, #grateful, #monsterenergy"
   - username: "judywhitee"
     fullname: >-
       ✨𝕁𝕦𝕕𝕪 𝕎𝕙𝕚𝕥𝕖✨
@@ -30,43 +30,43 @@ profiles:
     commentsToLikes: 0.031737
     id: ck15uii0unc7l0i19ofrr3tn0
     verified: false
-    hashtags: "#model, #beauty, #faldabrillante, #christmasphotoshoot"
-  - username: "romypazart"
+    hashtags: "#partyoutfit, #rojo, #christmasphotoshoot, #modelosbarcelona"
+  - username: "francesc.mestre"
     fullname: >-
-      Romy Paz
+      Francesc Mestre
     bio: >-
-      -𝘔𝘰𝘥𝘦𝘭𝘰 y Actriz - Presentadora de Tv en Hola País PAT -𝘙𝘦𝘪𝘯𝘢 𝘥𝘦𝘭 𝘊𝘢𝘳𝘯𝘢𝘷𝘢𝘭 𝘊𝘳𝘶𝘤𝘦ñ𝘰 2020 -Premio Joven Modelo SCZ 2018 -Chica Calendario El Deber 2018
+      📸Modelo publicidad 🎬Actor ✉ frankmesma@gmail.com / Barcelona /
     location: "Spain"
-    followers: 65671
-    engagement: 203
-    commentsToLikes: 0.015276
-    id: ck5zxh7g0807p0i1403potfyx
+    followers: 5174
+    engagement: 987
+    commentsToLikes: 0.074705
+    id: ckap6hwblfwpu0i78uaoieq19
     verified: false
-    hashtags: "#bolivia, #niteimagin, #sanvalent, #travel"
-  - username: "alopez_esp"
+    hashtags: "#modelobarcelona, #manmodel, #streetphotobarcelona, #barrigoticbarcelona"
+  - username: "michisarzi"
     fullname: >-
-      𝑨𝑮𝑼𝑺 𝑳𝑶𝑷𝑬𝒁👻
+      FITNESS•LIFESTYLE•WATER
     bio: >-
-      🍋Embajador: @le.mon.tours 🎤| Cuenta de TikTok :+530k 📥| Colaboraciones: (DM) 📲 | (jaranaagency@gmail.com)
+      MICHELE SARZANA 🇮🇨 CANARILIANO 🇮🇹 Collabs 📩 colmichisarzi@gmail.com 📍Barcelona
     location: "Spain"
-    followers: 39646
-    engagement: 1762
-    commentsToLikes: 0.024443
-    id: ck5qbx209nsnm0i112r4hm7p1
+    followers: 14247
+    engagement: 562
+    commentsToLikes: 0.040808
+    id: ck13ceh3pzyik0i192cto1uvx
     verified: false
-    hashtags: "#parejas, #friends, #tumblr, #foryou"
+    hashtags: "#surfing, #healthy, #boystyle, #feelings"
   - username: "itslaiafidalgo"
     fullname: >-
       LAIA FIDALGO
     bio: >-
-      📍 Dancer,Choreographer & model of Barcelona 👸🏽 TikTok; itslaiafidalgo (+970k) 📥 Contact: laia@bushidotalent.com
+      📍 Dancer,Choreographer & model of Barcelona 👸🏽 TikTok: itslaiafidalgo (1M) 📥 Contact: laia@bushidotalent.com
     location: "Spain"
-    followers: 151998
-    engagement: 771
-    commentsToLikes: 0.036418
+    followers: 126716
+    engagement: 22
+    commentsToLikes: 0.000992
     id: ck5cdgjzrj56o0i118eon8b58
     verified: false
-    hashtags: "#mariabecerra, #jbalvin, #dancevideo, #dance"
+    hashtags: "#couple, #dance, #couplegoals, #inspo"
   - username: "nayrareig"
     fullname: >-
       Nayra Reig
@@ -78,19 +78,7 @@ profiles:
     commentsToLikes: 0.064967
     id: ckaoyejewh6m30i78szc4s0lj
     verified: false
-    hashtags: "#phoskiters, #teenmodel, #style, #fashion"
-  - username: "abrilraluy"
-    fullname: >-
-      Abril Raluy de Jong
-    bio: >-
-      Check my email below... 🦋✨ spanishdutch in Barcelona, model nd psychologist rep by @wildmgmt // supporting: @savethechildren_es
-    location: "Spain"
-    followers: 100881
-    engagement: 169
-    commentsToLikes: 0.023320
-    id: ck5bvxo7uklpl0i11dqlp1fkn
-    verified: false
-    hashtags: "#pilatesstretch, #ad"
+    hashtags: "#fashion, #blancoynegro, #happy, #blueeyes"
   - username: "laiayeti"
     fullname: >-
       Laia González♡
@@ -103,28 +91,40 @@ profiles:
     id: ckaoqowfwjoqh0i78igk7y7v8
     verified: false
     hashtags: "#modelosespa, #live, #fotos, #laiayeti"
-  - username: "niedziela.raluy"
+  - username: "tania.rdg"
     fullname: >-
-      N R
+      TANIA RODRÍGUEZ AGUILERA
     bio: >-
-      Mi casa es @circoraluy Legacy✨ Circus girl🎪 #poledancer #skater Finalist: ⛸Got Talent 👁GH16 Coach en Eso lo hago! Sometimes YouTuber⬇️
+      Luxury Real Estate Broker @dcanorealestate_agency Marketing & Events @etereagence
     location: "Spain"
-    followers: 134078
-    engagement: 247
-    commentsToLikes: 0.036819
-    id: ck5q0peqd73uq0i11j4pk82hc
-    verified: true
-    hashtags: "#polecombo, #split, #poledancers, #poletricks"
-  - username: "martinapuiggalii"
-    fullname: >-
-      MARTINA PUIGGALÍ ;)
-    bio: >-
-      -WELCOME ;))) -Barcelona📍| CostaBrava (pals) -📩📲 martinapdosta@gmail.com -Collaborations DM📂
-    location: "Spain"
-    followers: 22951
-    engagement: 1612
-    commentsToLikes: 0.026157
-    id: ck8t9cnfdnlxv0j78m1a1lj1u
+    followers: 10915
+    engagement: 378
+    commentsToLikes: 0.095505
+    id: ck5hr3uo2u7ys0i11ntw0a7bv
     verified: false
-    hashtags: "#shein, #photo, #fashion, #beautiful"
+    hashtags: "#fitnessaddict, #fit, #muscle, #fitnessmodel"
+  - username: "hans_varaderey"
+    fullname: >-
+      HANS VARA DE REY 🌀
+    bio: >-
+      #businessman | #culoinquieto | #golf | #surf | #music "Enjoy and let enjoy / Disfruta y deja disfrutar" 📍MADRID / JÁVEA 📩 hans.varaderey@gmail.com
+    location: "Spain"
+    followers: 31297
+    engagement: 414
+    commentsToLikes: 0.129662
+    id: ck8sxmbk7hvaa0j78hdhm811c
+    verified: false
+    hashtags: "#feliz, #nickbateman, #budapest, #madrid"
+  - username: "paubcn95"
+    fullname: >-
+      🌝Pau🌚
+    bio: >-
+      📍 B A R C E L O N A 🎶TikTok (35k) ➡️ Paubcn95 📩 pramelln95@gmail.com CEO of @zamakjewels
+    location: "Spain"
+    followers: 39544
+    engagement: 451
+    commentsToLikes: 0.019089
+    id: ckaoyt6z1iyw60i78nr1hvr0e
+    verified: false
+    hashtags: "#boy, #happy, #instagood, #love"
 ---

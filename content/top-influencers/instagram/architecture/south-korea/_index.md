@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In South Korea In 2023
+title: Top 10 Architecture Instagram Influencers In South Korea In 2024
 description: >-
-  Find top architecture Instagram influencers in South Korea in 2023. Most popular hashtags: #architecture #portrait #landscapephotography #architecturesketch.
+  Find top architecture Instagram influencers in South Korea in 2024. Most popular hashtags: #architecture #sunset #landscape #photography.
 platform: Instagram
-hits: 13
+hits: 16
 text_top: See the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 13 Instagram influencers like this in South Korea for you to connect with.
+text_bottom: inBeat aggregates 16 Instagram influencers like this in South Korea for you to connect with.
 profiles:
   - username: "korea_magichour"
     fullname: >-
@@ -67,18 +67,18 @@ profiles:
     id: ckap2zekn0z640i78c2zigvle
     verified: false
     hashtags: "#sublimestreet, #seoulmate, #rawurbanshots, #photographylife"
-  - username: "sketch_forum"
+  - username: "saram.travel"
     fullname: >-
-      Sketcher/Architect/Instructor
+      SARAM
     bio: >-
-      현대건설 건축설계실/삼성그룹/JAD근무 [감성스케치 스튜디오]운영중 스케치 시연 리얼레슨 📽 YouTube ▶️sketch_forum 어반,건축,실내스케치 관련 상담문의:DM <프리핸드스케치> 출간 <프로페셔널 스케치> 출간 www.class101.net 동영상 강좌
+      
     location: "South Korea"
-    followers: 56502
-    engagement: 428
-    commentsToLikes: 0.009956
-    id: ck8t46oih5ove0j78fw0iqqjz
+    followers: 26141
+    engagement: 112
+    commentsToLikes: 0.040207
+    id: ck6tkji9y4ts00j71qqhzhkta
     verified: false
-    hashtags: "#arqsketch, #sketchwork, #travelsketch, #dailydrawing"
+    hashtags: "#africa, #newyork, #streetphotography, #sonya7r4"
   - username: "travelwormwithabook"
     fullname: >-
       Doodoshi | 두도시
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.017940
     id: ck15tyxf1kl9y0i198b4orb5m
     verified: false
-    hashtags: "#swimsuits, #modeling, #puntacana, #paradise"
+    hashtags: "#throwback, #puntacana, #italy, #traveler"
   - username: "snowcake4"
     fullname: >-
       snowcake

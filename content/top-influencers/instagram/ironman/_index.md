@@ -1,130 +1,130 @@
 ---
-title: Top 10 Ironman Instagram Influencers In 2023
+title: Top 10 Ironman Instagram Influencers In 2024
 description: >-
-  Find top ironman Instagram influencers in 2023. Most popular hashtags: #running #runningmotivation #triathlontraining #triathlon.
+  Find top ironman Instagram influencers in 2024. Most popular hashtags: #triathlon #cycling #triathlontraining #swimbikerun.
 platform: Instagram
-hits: 2150
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 2150 Instagram influencers like this for you to pitch.
+hits: 2270
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 2270 Instagram influencers like this for you to work with.
 profiles:
-  - username: "cheryltaysg"
+  - username: "runswithmal"
     fullname: >-
-      Cheryl Tay
+      Mallory l NYC runner
     bio: >-
-      💻 Digital Content Creator 🌍 Championing Sustainability ❤ Founder |@RockTheNakedTruthSG 🎥 @HuangHouseProductions 🏊🏼‍♀️🚴🏻‍♀️🏃🏽‍♀️ Ironman Triathlete
+      CPT 4x Marathon 2x 70.3 Ironman🏅 Next race-> 👀 Run Club- @nomorelonelyruns_ Runswithmal@gmail.com Train with me ↓
     location: "United States"
-    followers: 47213
-    engagement: 200
-    commentsToLikes: 0.004167
-    id: ck0w3hjnttfy10i19wuw37289
+    followers: 40658
+    engagement: 486
+    commentsToLikes: 0.046926
+    id: clqer5k2hg8mw0k082o8zkcq3
     verified: false
-    hashtags: "#taykemehuangmoretime, #bmwsingapore, #bmwxcheryltay, #shotoniphone"
-  - username: "elien_janssen"
+    hashtags: "#nomorelonelyruns, #nycrunclub, #marathontraining, #runnersofinstagram"
+  - username: "fredericfunk97"
     fullname: >-
-      E l i e n 🌱 Vegan
+      Frederic Funk
     bio: >-
-      📍 𝐵𝑒𝑙𝑔𝑖𝑎𝑛 𝑡𝑟𝑖𝑎𝑡𝘩𝑙𝑒𝑡𝑒 🇧🇪 . 🌴 Ironman Hawaii finisher | 10K 36:35 | M: 2h54 🚲 Next: IM Hamburg . 🌲 Oᴜᴛᴅᴏᴏʀs . @intenzafitnessglobal @ridley_bikes .
+      Pro Triathlete 🇩🇪 • @zsazsatri 💍 • 6x 70.3 Champion 🏆 • 5th Ironman 70.3 World Championships 2022 • Team @erdingeralkoholfrei.de
+    location: "Germany"
+    followers: 24606
+    engagement: 814
+    commentsToLikes: 0.021413
+    id: ck6tw7rbrqgvo0j71f4tdiyvn
+    verified: false
+    hashtags: "#wahooligan, #teekicktjetztanders, #cubebikes, #teekanne"
+  - username: "andi_dreitz"
+    fullname: >-
+      Andreas Dreitz
+    bio: >-
+      🇩🇪 PRO triathlete 🏊 🚴 🏃 🏆 Challenge Roth 7:59:02h ‘19 🏆 European Champion IRONMAN 70.3 ‘16 🏆 Ironman Italy 8:03:27h ‘17 🥈Challenge Roth 7:53:06h 2018
+    location: "Germany"
+    followers: 26228
+    engagement: 418
+    commentsToLikes: 0.011475
+    id: ck0tu9nw167ws0i19fsjumzvq
+    verified: false
+    hashtags: "#lovemywilier, #frankenpower, #triathlontraining, #wintertraining"
+  - username: "alastairday"
+    fullname: >-
+      A L I D A Y
+    bio: >-
+      IRONMAN GYM THINGS: @actvstrengthco @actvonline_ SKIN THINGS: @thegentlemanroutine Agency: @richdigital.au
+    location: "Australia"
+    followers: 23334
+    engagement: 403
+    commentsToLikes: 0.015561
+    id: ck13d42lu3kp90i19tfwlh6ej
+    verified: false
+    hashtags: "#liveunstoppable"
+  - username: "em_pallant"
+    fullname: >-
+      Emma Pallant-Browne
+    bio: >-
+      3x World Duathlon Champ⭐️World Aquathlon Champ⭐️Silver medalist World 70.3⭐️ 33x @ironmantri 70.3 Podium 18x @ironmantri 70.3 Champ🥇 Coach @peak_team
     location: "United States"
-    followers: 171816
-    engagement: 600
-    commentsToLikes: 0.044217
-    id: ck5hjhor6gndp0i11r19tf8qk
+    followers: 43809
+    engagement: 879
+    commentsToLikes: 0.057089
+    id: ck0vv736znu2n0i19uvjwaas2
     verified: false
-    hashtags: "#runforlife, #laufenmachtgl, #runnerscommunity, #workoutmotivation"
-  - username: "urrechu_"
+    hashtags: "#timetrialtuesday, #prayforsouthafrica, #impossiblyfast, #crushtheclock"
+  - username: "belousova_ylia"
     fullname: >-
-      Iñigo Urrechu
+      Ylia Belousova
     bio: >-
-      Cocinero,IronMan y UltraMaratoniano 📺 ComoSapiens-TVE1 📺 CanalCocina @urrechu_zoco @cielodeurrechu @urrechuvelazquez @erreurrechu @akangasbyurrechu
+      🔺 Ironman *4 🔺 Marathon *13(PB 3.09) 🔺 Yoga 🧘‍♀️ ambassador @rawlifesport
+    location: "Russia"
+    followers: 17692
+    engagement: 707
+    commentsToLikes: 0.041266
+    id: ck8taqoyxsp1q0j78kfggyok1
+    verified: false
+    hashtags: "#swimbikerun, #runningmotivation, #runforfun, #runforlife"
+  - username: "alba_rm85"
+    fullname: >-
+      Alba Maria Rodriguez Martin
+    bio: >-
+      #Triathlete amateur since 2019 🇪🇦 Half triatlon Ibiza 2021 + Half triatlon Peñíscola 2022 #Ironman Frankfurt 2022 🏅 🔜 Half Challenge Salou 2023
     location: "Spain"
-    followers: 9114
-    engagement: 938
-    commentsToLikes: 0.091870
-    id: ck55l6q630vui0i11pe5f7v7i
+    followers: 32602
+    engagement: 650
+    commentsToLikes: 0.003250
+    id: ckw51fmpziei40j23fb4skrmh
     verified: false
-    hashtags: "#familia, #superaci, #actitud, #urrechuvelazquez"
-  - username: "pinkironlady"
+    hashtags: "#race, #running, #roadcycling, #training"
+  - username: "santiagoherediao"
     fullname: >-
-      💖Shelley💖
+      SANTIAGO HEREDIA 🐺
     bio: >-
-      3 X IRONMAN 🏃🏼‍♀️ 8 X IRONMAN 70.3🚴🏻‍♀️ IM70.3 WorldChampionships, France🌟 Masters Swimmer 🏊🏻‍♀️ Marathon Runner 🏃🏼‍♀️ 💓LOVES PINK & 👙 💓
-    location: "United States"
-    followers: 9155
-    engagement: 913
-    commentsToLikes: 0.050239
-    id: ck6u6qndbh5rf0j71ty2dlh9t
+      Ironman 140.6 Finisher Ironman 70.3 x 3 Marathoner x 3 🏊🏻‍♂️🚴🏼🏃🏼 @underarmourlatam #athlete 🔥 Papá de @bandido_heredia
+    location: "Colombia"
+    followers: 33889
+    engagement: 1160
+    commentsToLikes: 0.027026
+    id: ck8t01oiaqj6n0j786t7ufmzv
     verified: false
-    hashtags: "#fitnessgirl, #instarunner, #bikinifitness, #swim"
-  - username: "nico_dream"
-    fullname: >-
-      🇫🇷 𝗡𝗜𝗖𝗢𝗟𝗔𝗦 🆂🆆🅸🅼 🅱🅸🅺🅴 🆁🆄🅽
-    bio: >-
-      ↝❃↜ ↝❃↜ ↝❃↜ ↝❃↜ ↝❃↜ 🥇1 Ironman 🥈8 Triathlons 🥉9 Marathons 🎽150 Dossards 🏁10 〰 130km 🔜 Une idée ? 🤨 ↝❃↜ ↝❃↜ ↝❃↜ ↝❃↜ ↝❃↜ 🎁 → #concoursnicodream
-    location: "France"
-    followers: 16390
-    engagement: 606
-    commentsToLikes: 0.089520
-    id: ck6ty5sqj1ujt0j71jcb7r42j
-    verified: false
-    hashtags: "#werunparis, #osezcourir, #runitfast, #run"
-  - username: "laeti_mtls"
-    fullname: >-
-      Laetitia Mtls🚒
-    bio: >-
-      🚒 Sapeur Pompier Paris ⚓️ plongée 💦 🤗 ironman 70.3 les sables 💪Tour de Corse à vélo 🚲 🥜@foodspring_fr laetiFSG (-15%) 👨‍👩‍👧‍👦@grouss_est_la ❤️
-    location: "France"
-    followers: 72538
-    engagement: 634
-    commentsToLikes: 0.026810
-    id: ck6tkfsbc4m5z0j71vnizd5vz
-    verified: false
-    hashtags: "#swimming, #femmepompier, #triathlontraining, #bomberos"
+    hashtags: "#bestmoments, #training, #sundayrunday, #runningmotivation"
   - username: "projekt_tri"
     fullname: >-
-      Aga Badyna🇵🇱🇱🇺 𝗧𝗥𝗜𝗔𝗧𝗛𝗟𝗢𝗡
+      Aga Badyna • swim • bike • run • mom 🇵🇱🇱🇺
     bio: >-
-      🖤Mom, AG triathlete 🎯IRONMAN to become✊🏻 🔜5150 Kraichgau 🖤INSTAGRAM HELP @instadlasportowcow 📍polish in Lux🇱🇺 🖤TRI content Creator📸🖋🎤 👇SPORT&MORE👇
+      • you live once, but if you are having fun than you are doing it right! • training for my first IRONMAN ever🦾 @tomicacoaching
     location: "Poland"
-    followers: 6522
-    engagement: 930
-    commentsToLikes: 0.151853
+    followers: 9067
+    engagement: 567
+    commentsToLikes: 0.128781
     id: ck8t4sqfy7uw90j780mrw965v
     verified: false
-    hashtags: "#bieganiejestprzereklamowane, #runninggirls, #hokaoneone, #triathlonistki"
-  - username: "danigogs"
+    hashtags: "#triathlonistki, #triathlon, #raceday, #instadlasportowcow"
+  - username: "tapshi"
     fullname: >-
-      Dani Gogarty
+      Tapesh Kumar
     bio: >-
-      •Triathlete🏅3x Ironman, Ultrarunner 50m •Owner @the.rad.fam 🐰 •Supporting humans in 🏊🏻‍♀️🚴🏻‍♀️🏃🏽‍♀️ •USAT, USMS, ALTS, NASM Cert & RD 📢
-    location: "United States"
-    followers: 2659
-    engagement: 1409
-    commentsToLikes: 0.131008
-    id: ckaoqzqa7l37l0i78tml1cpa0
+      Father | Husband | Pilot | Ironman | YouTuber (450k) TeamON member @optimumnutri_in
+    location: "India"
+    followers: 365110
+    engagement: 2097
+    commentsToLikes: 0.003263
+    id: ck9wevhm6m0s80j78xlkwq9ul
     verified: false
-    hashtags: "#triathlon, #cyclestyle, #cycleshots, #cyclegirl"
-  - username: "deric_tv"
-    fullname: >-
-      Skye 📍📺
-    bio: >-
-      📺 Irish TV Broadcaster 💚 Environmentalist 🌈 Ironman, Swimrise & Adventurer ▶️ Content Creator 💡 MC & Collabs 📩 greg@bigandbright.ie
-    location: ""
-    followers: 33295
-    engagement: 352
-    commentsToLikes: 0.043945
-    id: ck5zva9gu3uq70i14z01l6azt
-    verified: false
-    hashtags: "#heatwave, #ad, #belfast, #swimrise"
-  - username: "ahappypace"
-    fullname: >-
-      Ash Davis 🏊🏻‍♀️🚴🏼‍♀️🏃🏼‍♀️
-    bio: >-
-      Optimist 🤗 Runner 🎉 3x IRONMAN @iFit Trainer ✨ USAT/RRCA Coach Mommy 💙💗🤰🏼🤰🏼Air Force wife @mattydtri 🏅5K-19:10 • 13.1-1:27 • 26.2-3:12 • 140.6-11:56
-    location: "United States"
-    followers: 35379
-    engagement: 406
-    commentsToLikes: 0.040427
-    id: ck14gqqbz6klg0i19v6rs6i5m
-    verified: false
-    hashtags: "#pregnantwithtwins, #bumpdate, #33weekspregnant, #runnersmakethebestfriends"
+    hashtags: "#tapshi, #cockpitcrew, #love, #minivlog"
 ---

@@ -1,12 +1,48 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Indonesia In 2023
+title: Top 10 Hypebeast Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top hypebeast Instagram influencers in Indonesia in 2023. Most popular hashtags: #hypebeast #ootd #streetstyle #streetwear.
+  Find top hypebeast Instagram influencers in Indonesia in 2024. Most popular hashtags: #hypebeast #ootd #hypebeaststyle #streetwear.
 platform: Instagram
-hits: 55
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 55 Instagram influencers like this in Indonesia for you to contact.
+hits: 54
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 54 Instagram influencers like this in Indonesia for you to contact.
 profiles:
+  - username: "gmjinterior"
+    fullname: >-
+      GMJ | INTERIOR + ARCHITECTURE
+    bio: >-
+      #BORNTOBEDETAIL #LUXURYMODERNDESIGN #NOLIGHTNOBEAUTY #HYPEBEASTINTERIOR 🟣Worldwide Service 🟣Design & Build 🟣Residence / Office / Commercial
+    location: "Indonesia"
+    followers: 365424
+    engagement: 99
+    commentsToLikes: 0.007480
+    id: ckaozrrwan4bj0i78g4f6a2r0
+    verified: false
+    hashtags: "#bedroom, #homedecor, #decor, #modernelegance"
+  - username: "ilahmohmadnor"
+    fullname: >-
+      D E S I G N E R
+    bio: >-
+      HIJAB MODEL @the.lecu @kronichonged @luth_rizqi
+    location: "Indonesia"
+    followers: 36981
+    engagement: 432
+    commentsToLikes: 0.005397
+    id: ck13a52caoo6a0i195px3wx7d
+    verified: false
+    hashtags: "#hijab, #hypebeast, #ootdmalaysia, #ootdhijabindo"
+  - username: "bryantbrian"
+    fullname: >-
+      Brian Notodihardjo
+    bio: >-
+      @heartbreaksports • @kankysportstyle • @byslashb • @never_seen.before
+    location: "Indonesia"
+    followers: 34025
+    engagement: 146
+    commentsToLikes: 0.007404
+    id: ck5qa0r44dykc0i11axn62e23
+    verified: false
+    hashtags: "#heartbreakfits, #everythinginbetween, #waywt, #whatyourocking"
   - username: "ikamil1"
     fullname: >-
       Ibrahim Kamil
@@ -43,18 +79,6 @@ profiles:
     id: ck6udfbitkrfl0j71prm18afl
     verified: false
     hashtags: "#hypebeaststyle, #street, #streetkekinian, #kids"
-  - username: "aldoirwnptr"
-    fullname: >-
-      Aldo Irawan
-    bio: >-
-      💽 Business inquiries : Whatsapp Business: ‪+62 815‑8535‑5702‬ Line@ ID : @xqa9949c TikTok id : @secondaldoirwnptr @aldoirwnptr_
-    location: "Indonesia"
-    followers: 13834
-    engagement: 693
-    commentsToLikes: 0.021840
-    id: ck5cjm33bv0ex0i11ngg9u0ux
-    verified: false
-    hashtags: "#fashion, #cover, #hypebeast, #bahasakalbu"
   - username: "aldiirwandi26"
     fullname: >-
       Muhamad Aldi Irwandi
@@ -67,18 +91,6 @@ profiles:
     id: ck6u2h8qcrtbl0j71ccndmo3m
     verified: false
     hashtags: "#bikeaddict, #agvpista, #helmetindonesia, #indobikelifestyle"
-  - username: "petitenyvi"
-    fullname: >-
-      Nyvi Stephanie
-    bio: >-
-      • Traveller & Food enthusiast • Endorsement & inq. : DM • Owner @NVbyNyvi • SOP SUBARASHI • UTSUKUSHHII • Mark 10:27
-    location: "Indonesia"
-    followers: 50993
-    engagement: 727
-    commentsToLikes: 0.006832
-    id: ck0w007f9bqss0i197wyfwdf4
-    verified: false
-    hashtags: "#hypebeast, #styleinspo, #babyphotography, #envyroyalwedding"
   - username: "johankriis"
     fullname: >-
       𝙹𝚘𝚑𝚊𝚗 𝙺𝚛𝚒𝚜
@@ -115,16 +127,4 @@ profiles:
     id: ck9woola05y4m0j78ttia1fp4
     verified: false
     hashtags: "#thenaybandung, #naisafans, #thenayindonesia, #offwhitesneakers"
-  - username: "vhallah"
-    fullname: >-
-      ＶＨＡＬＬ
-    bio: >-
-      📍BALI / #35mm Travel • Menswear • Photography — CP: RISSA +6285719526234 ✉️: vhallah@gmail.com —
-    location: "Indonesia"
-    followers: 24762
-    engagement: 214
-    commentsToLikes: 0.071661
-    id: ck8sxgsvghca50j78md1u8xh6
-    verified: false
-    hashtags: "#ootd, #hsstyle, #beststreetoutfit, #minimalhouse1"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Tokyo In 2023
+title: Top 10 Hypebeast Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top hypebeast Instagram influencers in Tokyo in 2023. Most popular hashtags: #hypebeast #japan #voyaged #hellofrom.
+  Find top hypebeast Instagram influencers in Tokyo in 2024. Most popular hashtags: #hypebeast #voyaged #japan #artofvisuals.
 platform: Instagram
-hits: 11
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 11 Instagram influencers like this in Tokyo, Japan for you to connect with.
+hits: 13
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 13 Instagram influencers like this in Tokyo, Japan for you to collaborate.
 profiles:
   - username: "lupus_solum"
     fullname: >-
@@ -19,6 +19,30 @@ profiles:
     id: ck5q637t2vrar0i11izk9o3x8
     verified: false
     hashtags: "#wp, #pt, #sunsetclimax, #pashadelic"
+  - username: "jungraphy_"
+    fullname: >-
+      Junya Watanabe / Tokyo 🇯🇵
+    bio: >-
+      Roaming the Night City Based in Tokyo / Akihabara Contact : junyawtmanagement@gmail.com
+    location: "Japan"
+    followers: 377672
+    engagement: 962
+    commentsToLikes: 0.005688
+    id: ck0ublx70euqt0i197hu6mwm4
+    verified: false
+    hashtags: "#hellofrom, #discoverearth, #visualambassadors, #tokyocameraclub"
+  - username: "tokyo_streets_shots"
+    fullname: >-
+      Kei P. Nagai
+    bio: >-
+      Lost in Japan' streets, shows Tokyo’s daily life 25 years in Lyon 🇫🇷 | 15 years in 東京 🇯🇵 iPhone only account: @tokyo_gone
+    location: "Japan"
+    followers: 137879
+    engagement: 345
+    commentsToLikes: 0.005078
+    id: ck0ublt5eeu6t0i19ete5pcpe
+    verified: false
+    hashtags: "#visualgrams, #agameoftones, #visitjapanjp, #streetphotography"
   - username: "ssym.ry"
     fullname: >-
       SHIMO.®
@@ -55,18 +79,6 @@ profiles:
     id: ck0tuyuux99u60i19r3wkkqhn
     verified: true
     hashtags: "#thegreatplanet, #wonderful, #architecture, #earthoffcial"
-  - username: "jhon_indon"
-    fullname: >-
-      JHONO | ジョノ
-    bio: >-
-      🌏 98 | Indonesian 🇮🇩 📍Based in shizuoka 🇯🇵 📩 DM or mail for rates, other requirements
-    location: "Japan"
-    followers: 3792
-    engagement: 1489
-    commentsToLikes: 0.113753
-    id: ck8ta7vlqqs5r0j78y3lmzi5s
-    verified: false
-    hashtags: "#highsnobiety, #travel, #longexpo, #discoverearth"
   - username: "dragon76art"
     fullname: >-
       Dragon76
@@ -91,6 +103,18 @@ profiles:
     id: ck0w2h3fzocc00i190mxjyx5b
     verified: false
     hashtags: "#seratodj, #funk, #artofvisuals, #newmusic"
+  - username: "jhon_indon"
+    fullname: >-
+      Ahmad Sujono | Hotel and travel
+    bio: >-
+      📍Bali 📮 hello.jhonindon@gmail.com
+    location: "Japan"
+    followers: 36797
+    engagement: 127
+    commentsToLikes: 0.088730
+    id: ck8ta7vlqqs5r0j78y3lmzi5s
+    verified: false
+    hashtags: "#reelsinstagram, #streetdreamsmag, #tropicalvibes, #rafflesbali"
   - username: "blancomxm"
     fullname: >-
       Blanco MxM
@@ -103,28 +127,4 @@ profiles:
     id: ck6tjy2ci3mmm0j71hxe4gic7
     verified: false
     hashtags: "#digitalart, #animedrawings, #characterdesign, #manga"
-  - username: "nyarumaa.cosplay"
-    fullname: >-
-      にゃるまー。🦊 Nyarumaa.
-    bio: >-
-      Japanese cosplayer 🇯🇵 All images here are copyrighted by Nyarumaa. ・ お仕事依頼はDMまたはメールにてお願いします💌 ・ 💓🦊💓Thank you💓🦊💓
-    location: "Japan"
-    followers: 116519
-    engagement: 367
-    commentsToLikes: 0.014528
-    id: ck8t837xqixzn0j78fzjegagn
-    verified: false
-    hashtags: "#animecosplayer, #selfie, #beautygram, #cosplaygirl"
-  - username: "nico_kids_10"
-    fullname: >-
-      Daiki Kitsukawa
-    bio: >-
-      📍Tokyo Based | Landscapes/Cityscapes/Portrait 👆Fujifilm User 🔥You're always welcome to follow🙌 📭Contact to DM or Comment
-    location: "Japan"
-    followers: 4777
-    engagement: 478
-    commentsToLikes: 0.009972
-    id: ck8taxjr4tho90j78797y9pkq
-    verified: false
-    hashtags: "#looklookjapan, #japon, #streetshootjapan, #fujifilmxh1"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Turkey In 2023
+title: Top 10 Fitness TikTok Influencers In Turkey In 2024
 description: >-
-  Find top fitness TikTok influencers in Turkey in 2023. Most popular hashtags: #fitness #ke #motivation #fyp.
+  Find top fitness TikTok influencers in Turkey in 2024. Most popular hashtags: #fitness #ke #kickboxing #motivation.
 platform: TikTok
 hits: 35
 text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 35 TikTok influencers like this in Turkey for you to work with.
+text_bottom: Our database aggregates 35 TikTok influencers like this in Turkey for you to collaborate.
 profiles:
   - username: "alfagirl22"
     fullname: >-

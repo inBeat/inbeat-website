@@ -1,12 +1,24 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Austin In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Austin In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Austin in 2023. Most popular hashtags: #art #graphicdesigner #vision #design.
+  Find top graphic-designers Instagram influencers in Austin in 2024. Most popular hashtags: #graphicdesign #design #austintexas #illustration.
 platform: Instagram
-hits: 14
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 14 Instagram influencers like this in Austin, United States for you to connect with.
+hits: 40
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 40 Instagram influencers like this in Austin, United States for you to connect with.
 profiles:
+  - username: "larslagaisse"
+    fullname: >-
+      Lars Lagaisse
+    bio: >-
+      Founder of @kaartblanche | Freelance graphic designer & social media guy | Editor at @sosoirmagazine 💌 lars@kaartblanche.com 📍BE
+    location: "United States"
+    followers: 19243
+    engagement: 265
+    commentsToLikes: 0.011883
+    id: ck6tqttgyu7sb0j71v35r71wn
+    verified: false
+    hashtags: "#oaxaca, #mexico, #italy, #nycpride2023"
   - username: "daphnasebbane"
     fullname: >-
       Daphna Sebbane
@@ -18,7 +30,7 @@ profiles:
     commentsToLikes: 0.011992
     id: ck14kgqf4pfuz0i19xoixa5p8
     verified: false
-    hashtags: "#typetopia, #theskullreserve, #thedesignfix, #mystical"
+    hashtags: "#visforvector, #mysticmoon, #designspiration, #thedesignfix"
   - username: "koludro"
     fullname: >-
       𝕯𝖆𝖓𝖎𝖊𝖑 𝕶𝖔𝖑𝖚𝖉𝖗𝖔𝖛𝖎𝖈𝖍
@@ -43,6 +55,18 @@ profiles:
     id: ck55q8p5cc68z0i11ygl5vr4y
     verified: false
     hashtags: "#weeklyfluff, #halloweendogs, #ratemydog, #woofrepublic"
+  - username: "retrosupply"
+    fullname: >-
+      RetroSupply Co
+    bio: >-
+      ✏️ Retro brushes, textures, and fonts. ⚡️ Retro effects for graphic designers ⭐️ Tag @retrosupply or #RetroSupply for a feature!
+    location: "United States"
+    followers: 84129
+    engagement: 106
+    commentsToLikes: 0.011673
+    id: ck0ty1axyl6hu0i19k2064fnh
+    verified: false
+    hashtags: "#design, #procreateart, #illustration, #digitalart"
   - username: "saizagus"
     fullname: >-
       Agustina Saiz
@@ -55,18 +79,42 @@ profiles:
     id: ck6tib47c0dr60j718aqm1lzk
     verified: false
     hashtags: "#food, #smile, #life, #instacool"
-  - username: "miguelwilson"
+  - username: "drwlkn"
     fullname: >-
-      Miguel Wilson
+      Drew Lakin
     bio: >-
-      ✏️ Toy Designer/Product Developer 📈 Project Management and Consultant 🏃🏽‍♂️Fitness and Healthy Lifestyle 🕺🏽Former Professional Dancer
+      Color, type, illustration and functionality. Email hello@relay.rodeo
     location: "United States"
-    followers: 6796
-    engagement: 467
-    commentsToLikes: 0.041344
-    id: ck5zvnddz4kaj0i14adhidqdj
+    followers: 8676
+    engagement: 528
+    commentsToLikes: 0.039793
+    id: ck6u1v1aoo1tm0j71xxn1qojl
     verified: false
-    hashtags: "#characterart, #marvelcomics, #characterdesign, #design"
+    hashtags: "#craftmeats, #craftbeer, #micklethwaitbbq, #collateraldesign"
+  - username: "palmvisuals"
+    fullname: >-
+      Palm Visuals ™️
+    bio: >-
+      A Cinematic Production Company 🎬 The Power Of Quality Branding 🎥 Award Winning Videography Team🏆 Texas | Miami | Seattle | LA 🌎
+    location: "United States"
+    followers: 7102
+    engagement: 611
+    commentsToLikes: 0.033854
+    id: ck5zvnkh34kna0i14d7njvut6
+    verified: false
+    hashtags: "#realtors, #realtor, #house, #homesforsale"
+  - username: "jomcintyrehair"
+    fullname: >-
+      Jo McIntyre: HAIR + DESIGN
+    bio: >-
+      Intuitive Cutting for All Hair Types ▫️Head of Creative @strangebirdsalon ▫️#austinhairstylist ▫️#uxdesign ▫️Accepting New Clients: Book Below
+    location: "United States"
+    followers: 13226
+    engagement: 133
+    commentsToLikes: 0.048412
+    id: ck5bvdtkvjgis0i11bkw8jkse
+    verified: false
+    hashtags: "#atxhair, #austinhair, #bangs, #haircut"
   - username: "thekylecyr"
     fullname: >-
       Kyle Cyr 𓅓 | 20K 🔜
@@ -79,52 +127,4 @@ profiles:
     id: ckapaohpewuv60i78m5xln6hr
     verified: false
     hashtags: "#httr, #bills, #patrickmahomes, #nba"
-  - username: "carlosgzz003"
-    fullname: >-
-      Carloz Gzz 🌙
-    bio: >-
-      Graphic designer/ Painter/ illustrator PRINTS & MERCH . visit my ArtSHOP🔥
-    location: "United States"
-    followers: 110788
-    engagement: 581
-    commentsToLikes: 0.018418
-    id: ck14h7ufq8z360i19qauuigaz
-    verified: false
-    hashtags: "#wanda, #badbunny, #versace, #saintseiya"
-  - username: "j_cal_designs"
-    fullname: >-
-      Justin Calvin
-    bio: >-
-      graphic designer for 23XI, Pittsburgh Native Graphic designer for William Byron, Josh Bilicki, Denny Hamlin, Bobby Dale Earnhardt and Bubba Wallace
-    location: "United States"
-    followers: 11295
-    engagement: 1082
-    commentsToLikes: 0.023575
-    id: ck8t7mcn9hbxb0j78into066n
-    verified: false
-    hashtags: "#nascardesign, #nascardiecast, #nascarreverseretro, #hendrickmotorsports"
-  - username: "melalelou"
-    fullname: >-
-      MEL | Lyrics Artworks 🎶
-    bio: >-
-      🇨🇭Graphic Designer ※ 🎶🌴🏋🏼‍♀️✏️🎨💓 🧘🏻‍♀️ drawing letters is my yoga ❣️ tagg me when you re- draw/post my works🤗
-    location: "United States"
-    followers: 3437
-    engagement: 828
-    commentsToLikes: 0.074122
-    id: ck9wel2b8kqq10j78bz74lvez
-    verified: false
-    hashtags: "#todiefor, #xellence, #photoshop, #photoedit"
-  - username: "_beccacherry"
-    fullname: >-
-      Becca Cherry
-    bio: >-
-      Artist • Designer • Maker One of those creative types. >hello@beccacherry.com<
-    location: "United States"
-    followers: 5439
-    engagement: 380
-    commentsToLikes: 0.096594
-    id: ck6uh8q487ogs0j71vu8a5mgp
-    verified: false
-    hashtags: "#capturequiet, #aseasonalshift, #alliseeispretty, #flashesofdelight"
 ---

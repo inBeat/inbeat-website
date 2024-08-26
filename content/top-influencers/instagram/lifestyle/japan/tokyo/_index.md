@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Tokyo In 2023
+title: Top 10 Lifestyle Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Tokyo in 2023. Most popular hashtags: #japanawaits #tokyo #japan #unknownjapan.
+  Find top lifestyle Instagram influencers in Tokyo in 2024. Most popular hashtags: #tokyolife #japan #fashionstyle #japanawaits.
 platform: Instagram
-hits: 38
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 38 Instagram influencers like this in Tokyo, Japan for you to collaborate.
+hits: 57
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 57 Instagram influencers like this in Tokyo, Japan for you to connect with.
 profiles:
   - username: "tamura_shoko"
     fullname: >-
@@ -67,6 +67,42 @@ profiles:
     id: ckap36wyv1t7a0i78hso24ybe
     verified: false
     hashtags: "#beautifuljapan, #japonica, #culturajaponesa, #traveljapan"
+  - username: "junkosuzuki"
+    fullname: >-
+      Junko Suzuki
+    bio: >-
+      愛でるものを集めています。 160cm | FASHION | LIFESTYLE | ART&DESIGN 📍Tokyo Art Director | Branding Director | CEO 案件ご依頼はマネージャー 小林宛に💁🏻‍♀️ デザインに関するお仕事はHPから
+    location: "Japan"
+    followers: 39726
+    engagement: 1
+    commentsToLikes: 0.000000
+    id: ck0vyltbf4mp80i19td5d6nd1
+    verified: false
+    hashtags: "#fashionstyle, #ceciliebahnsen, #pocopocolady, #outfitideas"
+  - username: "kimdaoblog"
+    fullname: >-
+      Kim Dao
+    bio: >-
+      Lifestyle | Japan Travel Guide 🇯🇵 📍 Tokyo, JP Sony Digital Imaging Ambassador YT: KimDao 780K | KimDaoVlog 170K | KimDaoGame 170K 📧 kimdao90@gmail.com
+    location: "Japan"
+    followers: 171454
+    engagement: 757
+    commentsToLikes: 0.015006
+    id: ck1373xue9ni40i19n75j7k3q
+    verified: false
+    hashtags: "#japantraveltips, #tokyo, #japan, #tokyotravelguide"
+  - username: "petitbonheur.cooking"
+    fullname: >-
+      Yuki
+    bio: >-
+      ❁多数メディア出演 独学でのお菓子作り 子供の喜ぶ顔が見たくてお菓子＆子供服作り始めました🍀 娘のウエディングケーキ作るのが夢💗 東京在住 Threadsではスイーツ作りの裏側やプライベートを発信しています! 子供服ハンドメイド @petitbonheur.handmade
+    location: "Japan"
+    followers: 121766
+    engagement: 102
+    commentsToLikes: 0.004842
+    id: ck6ugko0e3l750j710eosgcxl
+    verified: false
+    hashtags: "#homemadecake, #crostata, #cotta, #wp"
   - username: "hiroshige_narimiya"
     fullname: >-
       HiroshigeNarimiya
@@ -79,52 +115,16 @@ profiles:
     id: ckaotrismx6f40i78c4odxsh1
     verified: true
     hashtags: "#hopenecklace, #hnproduct, #thriver, #perfectdisaster"
-  - username: "moeoshikiri"
+  - username: "hikarimurakami"
     fullname: >-
-      Moe Oshikiri.   押切もえ
+      Hikari Murakami
     bio: >-
-      モデル・文筆家 お仕事のご依頼は所属事務所（株）pearl へお願いします。 Fashion&Beauty, Cooking,Art,Healthy&natural lifestyle YouTube↓ 資格…#ワインエキスパート #アスリートフードマイスター
+      📍Japanese American creator in Orange County 🎥 Motherhood, homestyle 🇯🇵 cooking, & lifestyle Shop: @shoplilyandonyx
     location: "Japan"
-    followers: 109708
-    engagement: 174
-    commentsToLikes: 0.022739
-    id: ck0vzceq68ep60i19638qqorb
-    verified: true
-    hashtags: "#cosmetics, #flowers, #organic, #sawai"
-  - username: "kumikofunayama"
-    fullname: >-
-      舟山久美子  くみっきー
-    bio: >-
-      @micoameriofficial Producer fashion/make/lifestyle/work 骨格診断アナリストになりました♡ 日本化粧品検定一級 日本ダイエット検定インストラクター 強く美しくしなやかに🕊
-    location: "Japan"
-    followers: 296058
-    engagement: 148
-    commentsToLikes: 0.012777
-    id: ck0w204u1lzmd0i19ibzepkrl
-    verified: true
-    hashtags: "#new, #micoameri, #spring, #girlsnight"
-  - username: "maripo_jp"
-    fullname: >-
-      M A R I 🌐 神林真里
-    bio: >-
-      📍Based in Tokyo 🗣Japanese | English | Mandarin 🎖Ambassador: @odlo_japan @finc_app - #maripo_fitness - #maripo_beauty - #maripo_fashion
-    location: "Japan"
-    followers: 29240
-    engagement: 178
-    commentsToLikes: 0.010545
-    id: ck14i2zyrddu80i19pfnkl5to
+    followers: 9315
+    engagement: 414
+    commentsToLikes: 0.039798
+    id: clcuv3szw3jt90j088wbn0hty
     verified: false
-    hashtags: "#skincaretips, #maripo, #168cm, #amazon"
-  - username: "golf_yoshimi"
-    fullname: >-
-      yoshimi（よしし）
-    bio: >-
-      Golf / Fitness / Trip / Lifestyle ⛳️ 2years（❤️79 🤍82） 🌏 aichi → tokyo, japan 会社員とフリーランスモデルしております☺︎ ※お仕事依頼以外のDM/メールは対応できません🙏💦 　 ▼ TikTok♪
-    location: "Japan"
-    followers: 48291
-    engagement: 411
-    commentsToLikes: 0.025055
-    id: ckf5ntckyzm8g0j23irayw85j
-    verified: false
-    hashtags: "#love, #golfswing, #golflife, #nature"
+    hashtags: "#oogieboogiebash2023, #disneyparks, #mommandmecostumes, #disneyland"
 ---

@@ -1,24 +1,72 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Dallas In 2023
+title: Top 10 Nutrition Instagram Influencers In Dallas In 2024
 description: >-
-  Find top nutrition Instagram influencers in Dallas in 2023. Most popular hashtags: #texas #dallas #fitnessmotivation #healthylifestyle.
+  Find top nutrition Instagram influencers in Dallas in 2024. Most popular hashtags: #dallas #fitness #motivation.
 platform: Instagram
-hits: 21
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our database holds 21 Instagram influencers like this in Dallas, United States for you to connect with.
+hits: 31
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 31 Instagram influencers like this in Dallas, United States for you to collaborate.
 profiles:
+  - username: "james_baldwin37"
+    fullname: >-
+      James Baldwin | Fitness Coach
+    bio: >-
+      Owner/CEO🏋🏾‍♂️: @fliptheswitchfit 🏀 📸 : @dallasmavsshop ⚾️: @rangers | Brand Partner #USAPL 90kg Powerlifter 🍲 : @theprepkitchen Click Link Below 👇🏾
+    location: "United States"
+    followers: 9889
+    engagement: 1604
+    commentsToLikes: -0.585703
+    id: cl5j74dqe6y080i23c9sl81cn
+    verified: false
+    hashtags: "#dallasfitness, #fliptheswitch, #onlinetraining, #exercise"
+  - username: "bartiseb"
+    fullname: >-
+      Bartise Bowden
+    bio: >-
+      Little bit of fitness, lots of fun Dallas, TX @netflix Book.bartise@gmail.com
+    location: "United States"
+    followers: 238321
+    engagement: 46
+    commentsToLikes: 0.013642
+    id: clid5neeazk410j08rhsux3st
+    verified: false
+    hashtags: "#fitness, #dallas, #motivation, #realitytv"
   - username: "anamariagoltes"
     fullname: >-
-      A N A M A R I A
+      ANAMARIA
     bio: >-
-      Fashion and lifestyle content creator Embrace your uniqueness 🕊 🐾 @hugo__gia
+      Fashion and lifestyle content creator
     location: "United States"
-    followers: 148732
-    engagement: 782
-    commentsToLikes: 0.007056
+    followers: 197333
+    engagement: 3685
+    commentsToLikes: 0.006874
     id: ck5cdx6kajyc40i11hhj6z8gd
     verified: true
-    hashtags: "#bloggerinspo, #texas, #outfit, #cozyoutfit"
+    hashtags: "#guasha, #nutrispoint, #fashiongoals, #stylehunters"
+  - username: "davidgryffon"
+    fullname: >-
+      David | Dallas Personal Trainer
+    bio: >-
+      CEO @gryffonperformace TikTok | Davidgryffon 🌎I train men and women struggling to get results in the gym. 📲Link in bio
+    location: "United States"
+    followers: 27532
+    engagement: 143
+    commentsToLikes: 0.041108
+    id: cl4kugycgspet0i23ztrw4i54
+    verified: false
+    hashtags: "#workout, #workoutplans, #fitness, #musclebuildingplan"
+  - username: "mikaelaa_markel"
+    fullname: >-
+      Mika
+    bio: >-
+      📍Dallas 💍 Wifey ✨Nutrition Guru 🏡 @dallasdreamhomes_
+    location: "United States"
+    followers: 35827
+    engagement: 64
+    commentsToLikes: 0.016127
+    id: ckapboigl0pdf0i78gumyuzjl
+    verified: false
+    hashtags: "#dallas, #kenya, #smikasaysido, #nairobi"
   - username: "aneshea_shali"
     fullname: >-
       Aneshea Shali
@@ -31,66 +79,6 @@ profiles:
     id: ck6ui0kwvccno0j713equ14rl
     verified: false
     hashtags: "#speaklife, #fitness, #beempowerednutrition, #checkonyourstrongfriends"
-  - username: "brittanyardito"
-    fullname: >-
-      Brittany Ardito
-    bio: >-
-      Sharing what I love & what might help others. Health, Beauty & Dogs #dogsitter Follow my pups @texandrowdy 📍 Dallas, TX 📧 britsilver04@gmail.com
-    location: "United States"
-    followers: 10968
-    engagement: 241
-    commentsToLikes: 0.143385
-    id: cl8balz1g3ddv0i235byjgofi
-    verified: false
-    hashtags: "#keto, #glutenfree, #texasinfluencer, #texturetuesday"
-  - username: "elijahmaine.1"
-    fullname: >-
-      Chief Maine
-    bio: >-
-      Navy Chief/Father/Husband 🇺🇸 Dallas,TX Navy Recruiter 🇺🇸 Entrepreneur/CEO @cnc.apparel @be.empowered.nutrition
-    location: "United States"
-    followers: 14772
-    engagement: 527
-    commentsToLikes: 0.041663
-    id: ck0w1lmp8jyfj0i19t3xkayo1
-    verified: false
-    hashtags: "#navyrecruiter, #texas, #recruiter, #navy"
-  - username: "_cecereneee"
-    fullname: >-
-      Sierra 🎀
-    bio: >-
-      👩🏽‍⚕️| Crisis Response + Pediatric Nurse 🏈| Athletics Screening Specialist 📚| LVN-RN 𝓬/𝓸 ‘21 📍| Dallas, TX
-    location: "United States"
-    followers: 6259
-    engagement: 3418
-    commentsToLikes: 0.083029
-    id: ck0w77irbc5ji0i19s0srz1in
-    verified: false
-    hashtags: "#brandambassador, #melanin, #pwrcorwaistband, #medicine"
-  - username: "_ronaldguzman"
-    fullname: >-
-      Ronald Guzman
-    bio: >-
-      #blessed #Diosestaconmigo. 🇩🇴 •Profesional Baseball player for the Texas Rangers @rangers •Dallas Tx📍 •La Vega DR •👻 Ronaldguzman11
-    location: "United States"
-    followers: 69538
-    engagement: 891
-    commentsToLikes: 0.029171
-    id: ck55jsgpixna20i11nr3g6g6d
-    verified: true
-    hashtags: "#healthyfood, #sdc2021, #blessed, #sfm"
-  - username: "heathermarsh_fitness"
-    fullname: >-
-      Heather Marsh
-    bio: >-
-      I help busy moms build body confidence with fast workouts and simple nutrition! ✨@bowmar_nutrition Code: HEATHER
-    location: "United States"
-    followers: 64702
-    engagement: 95
-    commentsToLikes: 0.088967
-    id: ck6u6jjeufyet0j711orevted
-    verified: false
-    hashtags: "#getactive, #fitnessmoms, #healthylifestyle, #fitmom"
   - username: "tonyd_ifbbpro"
     fullname: >-
       Tony Davis
@@ -102,29 +90,41 @@ profiles:
     commentsToLikes: 0.063045
     id: ck14j5e8jipst0i19l5sgeup7
     verified: false
-    hashtags: "#thedriven, #influencerstyle, #whatdrivesyou, #ambitionovereverything"
-  - username: "anjelicacirone"
+    hashtags: "#thedriven, #whatdrivesyou, #ambitionovereverything, #influencerstyle"
+  - username: "the.doxies.and.div"
     fullname: >-
-      A N J E L I C A
+      Bruno, Nova, & Murphy | Denver Doxies
     bio: >-
-      💪 Trainer at @bodymachinefitness 📍 Dallas ❤️ University of Louisville All-Girl Cheerleader alumna 🇺🇸 2X USA World Champion
+      🏔️ Denver, CO lifestyle 🐶 Reactivity Work • R+ Training • Dog Nutrition 🩵 Animal Rights Advocacy • Rescue Awareness
     location: "United States"
-    followers: 4889
-    engagement: 1076
-    commentsToLikes: 0.064432
-    id: ckaoynh0ai8w10i78e9maxo2e
+    followers: 10871
+    engagement: 163
+    commentsToLikes: 0.167709
+    id: clrswx564hhg10k08q42clqao
     verified: false
-    hashtags: "#lululemon, #fitnessmotivation, #frisco, #activelifestyle"
-  - username: "anitahawkinsofficial"
+    hashtags: "#hotdog, #love, #dogstagram, #doxiefever"
+  - username: "raisingmytribe12"
     fullname: >-
-      Anita Hawkins
+      Roxandra McDonald
     bio: >-
-      Book me: Anita@findonereasontosmile.org ✨Global Philanthropist ✨Producer ✨LifeStyle & Nutrition Specialist ✨Author ✨Fashion Model ✨Speaker SGRHO 💙🐩💛
+      - Motherhood | Lifestyle ✨ - Mama x 3 | Wife | Dallas, Tx 💌Raisingmytribe12@gmail.com
     location: "United States"
-    followers: 41102
-    engagement: 138
-    commentsToLikes: 0.111986
-    id: ck6tvyoxrp0rk0j71cnuh8k3k
+    followers: 30330
+    engagement: 162
+    commentsToLikes: 0.056961
+    id: ck0u7xj7l61rr0i196okyxqdx
     verified: false
-    hashtags: "#live, #findonereasontosmile, #love, #friendraiser"
+    hashtags: "#roomdecoration, #girlsroom, #ad, #roominspiration"
+  - username: "melaabooo"
+    fullname: >-
+      MELANIE ANABALON 🇦🇷💙
+    bio: >-
+      I LOVE JESUS ❤️ Certified Nutrition Coach🥝🍒🥑🍇 100% natural 📍 Dallas Let Me Help You Reach Your Fitness Goals ⬇️
+    location: "United States"
+    followers: 580571
+    engagement: 26
+    commentsToLikes: 0.015836
+    id: ck6tn4ewx94300j71b6nzzj3c
+    verified: false
+    hashtags: "#gym, #gymmotivation, #fitnessdallas, #25"
 ---

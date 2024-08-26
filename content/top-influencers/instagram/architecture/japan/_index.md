@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Japan In 2023
+title: Top 10 Architecture Instagram Influencers In Japan In 2024
 description: >-
-  Find top architecture Instagram influencers in Japan in 2023. Most popular hashtags: #architecture #japan #landscape #streetmobs.
+  Find top architecture Instagram influencers in Japan in 2024. Most popular hashtags: #architecture #japan #landscape #streetmobs.
 platform: Instagram
-hits: 40
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 40 Instagram influencers like this in Japan for you to connect with.
+hits: 42
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 42 Instagram influencers like this in Japan for you to work with.
 profiles:
   - username: "01hi_ji21"
     fullname: >-

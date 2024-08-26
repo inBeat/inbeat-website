@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Tokyo In 2023
+title: Top 10 Rappers Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top rappers Instagram influencers in Tokyo in 2023. Most popular hashtags: #hiphop #tokyo #nylonjapan.
+  Find top rappers Instagram influencers in Tokyo in 2024. Most popular hashtags: #hiphop #tokyo #japan.
 platform: Instagram
 hits: 4
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 4 Instagram influencers like this in Tokyo, Japan for you to pitch.
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 4 Instagram influencers like this in Tokyo, Japan for you to work with.
 profiles:
   - username: "djgo_730"
     fullname: >-
@@ -55,6 +55,18 @@ profiles:
     id: ck5bzyuk2s3sf0i11eabtjt61
     verified: false
     hashtags: "#ncbb, #ddg, #spock, #dirtyjokercc"
+  - username: "skyhidaka"
+    fullname: >-
+      SKY-HI
+    bio: >-
+      Rapper / Producer / BMSG CEO Staff ▶︎ @skyhi_staff
+    location: "Japan"
+    followers: 863599
+    engagement: 566
+    commentsToLikes: 0.006327
+    id: ck5zq9zf2u7qz0i141x49x1ol
+    verified: true
+    hashtags: "#repost, #thefirst, #rag, #skyhi"
   - username: "gashima"
     fullname: >-
       GASHIMA (WHITE JAM)
@@ -91,18 +103,6 @@ profiles:
     id: ck5qc5s75ozqh0i114odwcb6d
     verified: false
     hashtags: "#365anniversary, #nylonjapan, #uncensoredvlogosignature, #valentino"
-  - username: "sorry_wavy"
-    fullname: >-
-      🇯🇵🌊🐉JP THE WAVY
-    bio: >-
-      🌊Rapper🌊🐉 “I WANT ONE” OUT NOW
-    location: "Japan"
-    followers: 150921
-    engagement: 629
-    commentsToLikes: 0.004040
-    id: ck0w56x9426z40i19xet3yfb1
-    verified: true
-    hashtags: "#loewetotoro"
   - username: "straykidshyunjins"
     fullname: >-
       HYUNJIN (현진)

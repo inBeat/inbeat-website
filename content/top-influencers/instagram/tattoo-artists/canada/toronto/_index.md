@@ -1,24 +1,36 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Toronto In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Toronto In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Toronto in 2023. Most popular hashtags: #tattoo #tattooartist #tattoos.
+  Find top tattoo-artists Instagram influencers in Toronto in 2024. Most popular hashtags: #tattoo #tattooartist #tattoos #torontotattoo.
 platform: Instagram
-hits: 8
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat has 8 Instagram influencers like this in Toronto, Canada for you to connect with.
+hits: 12
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 12 Instagram influencers like this in Toronto, Canada for you to collaborate.
 profiles:
+  - username: "lin_tattooer"
+    fullname: >-
+      Samuel．Toronto tattoo artist
+    bio: >-
+      💐Colour realism, flowers, pets, fine line🐱 🇨🇦Toronto books open for October to December🦋 📍717 Queen St East, Toronto🇨🇦 ❤️Studio @lovestrucktattoos
+    location: "Canada"
+    followers: 10303
+    engagement: 62
+    commentsToLikes: 0.008792
+    id: ckyecgvqqpzps0j2300nw0pwp
+    verified: false
+    hashtags: "#canadatattooartist, #canada, #cutetattoo, #minitattoo"
   - username: "curtmontgomerytattoos"
     fullname: >-
       Curt Montgomery
     bio: >-
       Tattoo Artist = Honey Badger Hero He who dares wins yo Inside Out Toronto curtmontgomerytattoos@gmail.com
     location: "Canada"
-    followers: 430661
-    engagement: 252
-    commentsToLikes: 0.003392
+    followers: 412053
+    engagement: 175
+    commentsToLikes: 0.003450
     id: ck136mgxd77s10i19q23xulh4
     verified: true
-    hashtags: "#tattoos, #tattooartist, #safestsex, #toronto"
+    hashtags: "#art, #illustration, #tattooartist, #torontofashion"
   - username: "release852"
     fullname: >-
       Mr. Koo 🔵
@@ -42,7 +54,19 @@ profiles:
     commentsToLikes: 0.023275
     id: ck8t0bxvwrjqh0j782ij2nrwm
     verified: false
-    hashtags: "#photoshop, #digitalart, #6fanarts, #flowers"
+    hashtags: "#illustration, #6fanarts, #procreate, #photoshop"
+  - username: "insideouttoronto"
+    fullname: >-
+      INSIDE OUT
+    bio: >-
+      Permanently closed. Follow artists' personal pages 👇 @alexsappy @_novaraye @love______letters @qsl.tattoo @earthyliltats @cavescene
+    location: "Canada"
+    followers: 14305
+    engagement: 67
+    commentsToLikes: 0.003178
+    id: ck136mh1177ta0i19mcbov3bg
+    verified: true
+    hashtags: "#linework, #finelinetattoo, #artistoninstagram, #insideouttoronto"
   - username: "ivamarcina"
     fullname: >-
       I   V   A   N   A
@@ -55,6 +79,18 @@ profiles:
     id: ck8sz2vlvmyqh0j78stz019nm
     verified: false
     hashtags: "#tattooartist, #tattoosofig, #tattoos, #ink"
+  - username: "artistgill"
+    fullname: >-
+      Randeep Singh Gill
+    bio: >-
+      ਕਲਾ ਵਾਹਿਗੁਰੂ ਦੀ👏🏻🦅 Pro Tattoo artist🎨💉SINCE 2010 All Canada 🍁📍🇨🇦 Freelance ✈️ INQUIRIES🤙🏻🇨🇦+1 (365) 822-6111 🤙🏻🇮🇳+91 9855407907,
+    location: "Canada"
+    followers: 493511
+    engagement: 111
+    commentsToLikes: 0.007557
+    id: ck8t7pet9hk0d0j78ha0dbqje
+    verified: false
+    hashtags: "#inked, #respect, #love, #instagood"
   - username: "vic.ink_"
     fullname: >-
       ＶＩＣ 🥀
@@ -67,18 +103,18 @@ profiles:
     id: ck6txdagxx6ka0j71dftggnv7
     verified: false
     hashtags: "#menswear, #snaketattoo, #collaboration, #fashiondesign"
-  - username: "lukecormiertattoo"
+  - username: "maplehawks"
     fullname: >-
-      Luke Cormier
+      MAPLE HAWKS
     bio: >-
-      @9thgategallery Nova Scotia 🇨🇦 Sponsored by @fkirons @fusion_ink @saniderm @mdwipeoutz @hivecaps @northerntattoosupply
+      @amanmaplehawks @harpmaplehawks 🗞️EXPLAINERS 🎙️PODCASTS 🎤UNFILTERED MAPLE 🎥REVIEWS 🎬YT/FB/TIKTOK DM- MAIL FOR PROMOTION 📬maplehawk6@gmail.com
     location: "Canada"
-    followers: 74344
-    engagement: 145
-    commentsToLikes: 0.016467
-    id: ck13ap5hirhtx0i196tnzew78
+    followers: 41050
+    engagement: 4298
+    commentsToLikes: 0.007644
+    id: clo3xnalfm9qw0j084j4lxtq2
     verified: false
-    hashtags: "#saniderm, #tattoos, #sanidermproteam, #smartphotocase"
+    hashtags: "#punjaab, #indiatocanada, #immigration, #punjabi"
   - username: "higorart"
     fullname: >-
       Higor Sales
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.071084
     id: ck8sz2v2mmyp80j78d4f34zd5
     verified: false
-    hashtags: "#animetattoos, #anime, #animetattoo, #animemasterink"
-  - username: "tiffleetattoo"
-    fullname: >-
-      🌱Tiff Lee🌱
-    bio: >-
-      Tattoos | Queer | Gentle | They/Them OWNER AND ARTIST OF @HEARTSTRONGTATTOO NO DMS PLZ N THANKS ✖️📖 BOOKS CLOSED📖✖️
-    location: "Canada"
-    followers: 16338
-    engagement: 378
-    commentsToLikes: 0.026599
-    id: ck6u46xdz21jm0j71dkj3j7eg
-    verified: false
-    hashtags: "#copperplate, #torontotattoo, #greyharbourtattoo, #firefundraiser"
-  - username: "naomikingofficial"
-    fullname: >-
-      Naomi King
-    bio: >-
-      Musician, actor, author, digital & tattoo artist, nonbinary, asexual, animal-loving vegan. 💖 Vancouver, Canada 🍁 🇵🇭🇨🇦🇳🇱🇯🇵🇦🇺🇮🇳🇸🇬 @naomikingtattoos
-    location: "Canada"
-    followers: 12495
-    engagement: 526
-    commentsToLikes: 0.031121
-    id: ck5heggxyss1y0i115qyylh0v
-    verified: false
-    hashtags: ""
-  - username: "lukalajoie"
-    fullname: >-
-      Luka lajoie
-    bio: >-
-      🕺🏼 Tattoo artist 🇨🇦 Montreal For bookings, my Youtube channel and everything else click the link below👇
-    location: "Canada"
-    followers: 284931
-    engagement: 114
-    commentsToLikes: 0.011542
-    id: ck5buaythhgrf0i11wozlkgzk
-    verified: false
-    hashtags: "#ifyouknowyouknow"
+    hashtags: "#animetattoo, #anime, #narutotattoo, #animetattoosink"
 ---

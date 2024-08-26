@@ -1,12 +1,36 @@
 ---
-title: Top 10 Instagram Influencers In Istanbul In 2023
+title: Top 10 Instagram Influencers In Istanbul In 2024
 description: >-
-  Find top Instagram influencers in Istanbul in 2023. Most popular hashtags: #bo #reklam #makeuplooks.
+  Find top Instagram influencers in Istanbul in 2024. Most popular hashtags: #istanbul #turkey #bo.
 platform: Instagram
-hits: 3531
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 3531 Instagram influencers like this in Istanbul, Turkey for you to connect with.
+hits: 3538
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 3538 Instagram influencers like this in Istanbul, Turkey for you to contact.
 profiles:
+  - username: "istanbul"
+    fullname: >-
+      @istanbul - i̇stanbul  - اسطنبول
+    bio: >-
+      Join us in exploring the enchanting world of Istanbul, where history and culture collide in a unforgettable experience! 🇹🇷 DM for collaboration ✨
+    location: "Turkey"
+    followers: 450676
+    engagement: 330
+    commentsToLikes: 0.011393
+    id: ck0uddpzbivt10i190slk77gz
+    verified: false
+    hashtags: "#istanbul, #spring, #istanbullife, #clouds"
+  - username: "ysnyaman"
+    fullname: >-
+      Yasin Yaman
+    bio: >-
+      İstanbul
+    location: "Turkey"
+    followers: 62997
+    engagement: 1019
+    commentsToLikes: 0.017616
+    id: ck14jdfewjsbf0i19ngmw3x21
+    verified: false
+    hashtags: "#turkey, #architecture, #midjourney, #istanbul"
   - username: "kadirsaglik"
     fullname: >-
       Kadir Saglik
@@ -43,18 +67,6 @@ profiles:
     id: ck5c59ja930yk0i11j5wz4sgy
     verified: false
     hashtags: ""
-  - username: "istanbul"
-    fullname: >-
-      @istanbul
-    bio: >-
-      İstanbul'un tüm güzelliklerini sizinle paylaşıyoruz! / Sharing wondrous moments in Istanbul! Owned by @nesetdereli managed by @yeniistanbullular
-    location: "Turkey"
-    followers: 334830
-    engagement: 324
-    commentsToLikes: 0.012749
-    id: ck0uddpzbivt10i190slk77gz
-    verified: false
-    hashtags: "#valentinesday2021, #istanbulclassics, #valentinesday, #kedilerg"
   - username: "siibelmete"
     fullname: >-
       Sibel Mete
@@ -91,40 +103,28 @@ profiles:
     id: ck6tntp9najvq0j71d2lef501
     verified: false
     hashtags: "#istanbuls, #bo, #tbt, #summer2020"
-  - username: "yoldabiblog"
+  - username: "mangamusic"
     fullname: >-
-      Yolda bi' Blog
+      maNga
     bio: >-
-      a travel blog from 𖤥 Istanbul | Berlin 𓀠 Asya | Umut | Leo ✎ iletisim@yoldabiblog.com
+      • Menajerlik: Talent Istanbul • İletişim Hizmetleri & PR: Özgür Aras #Antroposen002 şimdi tüm dijital platformlarda yayında!
     location: "Turkey"
-    followers: 221616
-    engagement: 402
-    commentsToLikes: 0.260298
-    id: ck5ca1871cik10i11nanokltr
-    verified: false
-    hashtags: "#portekiz, #destinationofart, #france, #christmasmarket"
-  - username: "rachelaraz"
+    followers: 294929
+    engagement: 506
+    commentsToLikes: 0.011340
+    id: ck5hsmj2twu1y0i11pgw3pg8o
+    verified: true
+    hashtags: "#mangayirminciy, #manga20, #mangaturnede, #benibenimleb"
+  - username: "pinar.erdurmaz"
     fullname: >-
-      Rachel Araz Kiresepi
+      Pinar Erbas Erdurmaz
     bio: >-
-      Halı, Kilim, Reels 🌎 Istanbul 🎤 rachelaraz@gmail.com
+      📍Istanbul,Montréal,Oakville #bonjourhi 🐚 #göğebakalım 📚Psychology @concordiauniversity 💟Solidarity @gocmen.kadinlar 🇨🇦Consultancy @kanadaya_gidelim
     location: "Turkey"
-    followers: 933658
-    engagement: 51
-    commentsToLikes: 0.002523
-    id: ck15qhu4s2wxf0i19j8lrnux9
+    followers: 15009
+    engagement: 428
+    commentsToLikes: 0.066887
+    id: ckf5r41ojbcfz0j23okvg5qk1
     verified: false
-    hashtags: "#reklam, #grandnumerochanel, #rachelaraz, #cocomademoiselle"
-  - username: "esrakochaan"
-    fullname: >-
-      Esra Koçhan
-    bio: >-
-      based in Istanbul. founder of @ra.withu
-    location: "Turkey"
-    followers: 144743
-    engagement: 672
-    commentsToLikes: 0.055473
-    id: ckaoufunq038h0i78fsqzadau
-    verified: false
-    hashtags: "#danielwellington, #ad, #iconiclinkceramic, #thelittleblackwatch"
+    hashtags: "#madonna, #girlgonewild, #iyibayramlar, #2024"
 ---

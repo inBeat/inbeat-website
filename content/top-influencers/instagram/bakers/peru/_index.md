@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Peru In 2023
+title: Top 10 Bakers Instagram Influencers In Peru In 2024
 description: >-
-  Find top bakers Instagram influencers in Peru in 2023. Most popular hashtags: #peru #love #lakers #lifestyle.
+  Find top bakers Instagram influencers in Peru in 2024. Most popular hashtags: #peru #lifestyle #love.
 platform: Instagram
-hits: 9
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 9 Instagram influencers like this in Peru for you to work with.
+hits: 8
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 8 Instagram influencers like this in Peru for you to contact.
 profiles:
   - username: "lorenzomendez7"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck0ucgjlogpjm0i19pkgmsaag
     verified: true
     hashtags: "#lorenzomendez, #lm7entertainment, #lm7, #eldinerovieneyva"
+  - username: "tephaloza8"
+    fullname: >-
+      TEPHA 🦋
+    bio: >-
+      🇵🇪 • Lima Founder @carlotas_bakery Founder @closetdetepha_ TikTok ➡️ tephalo8
+    location: "Peru"
+    followers: 1837022
+    engagement: 75
+    commentsToLikes: 0.006544
+    id: ck6ucvv1khr3a0j71d27f75re
+    verified: true
+    hashtags: "#laacademia"
   - username: "antonellasalini02"
     fullname: >-
       Antonella Salini
@@ -31,30 +43,6 @@ profiles:
     id: ck8szk2ltoqxw0j789716ampe
     verified: false
     hashtags: "#likesforlike, #trujillo, #beauty, #lifestyle"
-  - username: "tephaloza8"
-    fullname: >-
-      Spheffany Loza
-    bio: >-
-      𝐒𝐩𝐨𝐫𝐭𝐬𝐰𝐨𝐦𝐚𝐧 & 𝐦𝐨𝐝𝐞𝐥𝐨 🇵🇪 Founder @carlotas_bakery Tips @tephatips 📩 Contacto: @mrayubu Tiktok: tephalo8
-    location: "Peru"
-    followers: 1536162
-    engagement: 156
-    commentsToLikes: 0.009850
-    id: ck6ucvv1khr3a0j71d27f75re
-    verified: true
-    hashtags: "#amor, #cuidemosnuestroplaneta, #inspo, #mentesana"
-  - username: "laespatulaverde"
-    fullname: >-
-      Karen Lema | Recetas caseras
-    bio: >-
-      👩🏻‍🍳Cocinera y autora del libro La Espátula Verde. 🥙Aprende a cocinar fácil y saludable. 💚Más recetas, ideas y tips en mi libro:
-    location: "Peru"
-    followers: 122171
-    engagement: 374
-    commentsToLikes: 0.338682
-    id: ck13cqhvt1o2l0i19xu2swugr
-    verified: false
-    hashtags: "#instafood, #recetadeldia, #easyrecipes, #cuidad"
   - username: "pierina_dg"
     fullname: >-
       Pierina De La Borda Gotuzzo

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Turkey In 2023
+title: Top 10 Travel Instagram Influencers In Turkey In 2024
 description: >-
-  Find top travel Instagram influencers in Turkey in 2023. Most popular hashtags: #ig #travel #roamersclub #travelblogger.
+  Find top travel Instagram influencers in Turkey in 2024. Most popular hashtags: #turkey #travel #do #ke.
 platform: Instagram
-hits: 1260
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 1260 Instagram influencers like this in Turkey for you to pitch.
+hits: 1320
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 1320 Instagram influencers like this in Turkey for you to pitch.
 profiles:
-  - username: "yoldabiblog"
+  - username: "hadleyogarro"
     fullname: >-
-      Yolda bi' Blog
+      Hadley Ogarro
     bio: >-
-      a travel blog from 𖤥 Istanbul | Berlin 𓀠 Asya | Umut | Leo ✎ iletisim@yoldabiblog.com
+      #InHadleyWeTrust 🌍 food, events, fits, lifestyle + travel 📧 hello@hadleyogarro.com 📍 london
     location: "Turkey"
-    followers: 221616
-    engagement: 402
-    commentsToLikes: 0.260298
-    id: ck5ca1871cik10i11nanokltr
+    followers: 15447
+    engagement: 835
+    commentsToLikes: 0.092943
+    id: clivee2x62kfo0j08i3hyv71x
     verified: false
-    hashtags: "#portekiz, #destinationofart, #france, #christmasmarket"
-  - username: "iamrxngh"
+    hashtags: "#celestyaljourney, #londonrestaurants, #celestyal, #wizzair"
+  - username: "gurkankacmazz"
     fullname: >-
-      R O X A N N A
+      Gürkan Kaçmaz
     bio: >-
-      Travel | Youtube | Lifestyle Mine💍 @sepy.ak Ad : @roxana.ads 📥
+      91119919111✨ Influencer | Marketing&Pr Travel | LifeStyle | Fashion Reklam ve İş birlikleri için 📩 gurkan@thepeggi.co @eventmag Private Club
     location: "Turkey"
-    followers: 2407735
-    engagement: 938
-    commentsToLikes: 0.013647
-    id: ck9wiyr0j4iob0j78bnmw90qi
+    followers: 107673
+    engagement: 416
+    commentsToLikes: 0.038907
+    id: ckf5ttxg6irk50j237na50dj0
     verified: false
-    hashtags: "#fashion, #explore, #love, #style"
-  - username: "elvin"
+    hashtags: "#reklam, #kesfet, #fashionstyle, #dubai"
+  - username: "mucahitmuglu"
     fullname: >-
-      Elvin Levinler 🌈
+      Mücahit Muğlu
     bio: >-
-      ◛ elvin@thedigitalnomads.co ➵ London┆Istanbul┆Datça ♡ motivation • yoga • healthy • food • reels #travel #lifestyle #storyteller #reels ✩ new video
+      Görsel Öykü Anlatıcısı 🌿 Nature and Travel Photographer 👣 mucahitmuglu@gmail.com 📬
     location: "Turkey"
-    followers: 1185764
-    engagement: 120
-    commentsToLikes: 0.016211
-    id: ck15uwgu4ou830i19ej5guzkx
-    verified: true
-    hashtags: "#relatable, #yogapractice, #trendingreels, #mymarks"
+    followers: 812173
+    engagement: 399
+    commentsToLikes: 0.011424
+    id: ck14ld1ldu20m0i19krqm2nq4
+    verified: false
+    hashtags: "#seyahat, #mu, #seninlebirba, #sahil"
+  - username: "emreevegi"
+    fullname: >-
+      Emre EVEGİ
+    bio: >-
+      Travel - Photographer Content creator 📩 emreevegi@gmail.com
+    location: "Turkey"
+    followers: 137494
+    engagement: 1039
+    commentsToLikes: 0.011478
+    id: ck0txqqenk6o40i19b4jtwati
+    verified: false
+    hashtags: "#antalya, #ke, #travel, #mu"
+  - username: "efecanefee"
+    fullname: >-
+      Efecan Efe
+    bio: >-
+      Traveller - Visual Artist • Türkiye 🇹🇷
+    location: "Turkey"
+    followers: 68542
+    engagement: 1082
+    commentsToLikes: 0.010316
+    id: ck15rkeec8cn30i19n18mwqvc
+    verified: false
+    hashtags: "#istanbul, #kapadokya, #cappadociaturkey, #balloons"
+  - username: "celebiligizem"
+    fullname: >-
+      Gizem Çelebi
+    bio: >-
+      Traveller & Content Creator | Graphic Designer @futureimage.co
+    location: "Turkey"
+    followers: 10647
+    engagement: 1956
+    commentsToLikes: 0.018329
+    id: ck5hnzd1konnw0i11mitbma0l
+    verified: false
+    hashtags: "#cappadocia, #travelturkey, #turkey, #memories"
+  - username: "baburvatansever"
+    fullname: >-
+      baburvatansever
+    bio: >-
+      Gezer, Yazar, Kayar Traveller, Writer, Rider @sportpointextreme @quiksilver_tr @habitattv_tr @bumugicom
+    location: "Turkey"
+    followers: 16197
+    engagement: 427
+    commentsToLikes: 0.058041
+    id: ck6tmpzjc8ayb0j71x7htnb8n
+    verified: false
+    hashtags: "#nomadlife, #do, #snowboarding, #da"
+  - username: "nedayasee"
+    fullname: >-
+      Neda Yasee
+    bio: >-
+      Makeup, Lifestyle, Travel ✈️ Main Account @nedayasee2 📍Istanbul, Turkey
+    location: "Turkey"
+    followers: 1269433
+    engagement: 1458
+    commentsToLikes: 0.122544
+    id: ck9werjgllief0j783wcx8twv
+    verified: false
+    hashtags: ""
+  - username: "esrauurlu"
+    fullname: >-
+      Esra Uğurlu
+    bio: >-
+      🌍🌎🌏 🔙Hindistan, Tayland, Malezya, Endonezya ✈ Traveller ✈ Backpacker En mutlu olduğum anlar, yolda olduğum zamanlar.
+    location: "Turkey"
+    followers: 11462
+    engagement: 683
+    commentsToLikes: 0.112167
+    id: ck9hbk2avh6eg0j78c41mftk7
+    verified: false
+    hashtags: "#hindistan, #indiatravelgram, #indiatravel, #likyayolu"
   - username: "sultanismm"
     fullname: >-
       
     bio: >-
-      -Istanbul -Teacher -Traveller -Reader -Animalover -Daydreamer Okurgezer 📚🌎 - Hayvansever🐱🐈❤ ➡️ Reklam ve İşbirliği için ▶️▶️ DM
+      -Istanbul -Teacher -Traveller -Reader -Animalover -Daydreamer Okurgezer 📚🌎 - Hayvansever🐱🐈❤
     location: "Turkey"
-    followers: 20636
-    engagement: 1201
-    commentsToLikes: 0.046239
+    followers: 16036
+    engagement: 1589
+    commentsToLikes: 0.025065
     id: ckaowhzgw90sf0i78u3kxspxq
     verified: false
-    hashtags: "#travelblogger, #travelislife, #istanbul, #traveltheworld"
-  - username: "evrimertekin"
-    fullname: >-
-      Evrim Ertekin Ergün 🌿
-    bio: >-
-      Nature | Travel | Lifestyle Wanderlust ✈︎ Gezgin Gazetesi Köşe Yazarı ✍︎ Yuvacık köşe yazısı için⇩
-    location: "Turkey"
-    followers: 20739
-    engagement: 643
-    commentsToLikes: 0.286789
-    id: ckaow60vj7kj30i78yy87i76d
-    verified: false
-    hashtags: "#photooftheday, #goturkey, #geziyoruz, #wanderlust"
-  - username: "hamysuniverse"
-    fullname: >-
-      Hamy
-    bio: >-
-      ♥︎ İskoçya’da Yaşam 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ❦ Scotland•UK | Turkey 🇹🇷 ✈ #traveller ♛ #iskocya #momtobe
-    location: "Turkey"
-    followers: 24041
-    engagement: 685
-    commentsToLikes: 0.118396
-    id: ck9hbrsd2i5in0j781738kszo
-    verified: false
-    hashtags: "#iskoc, #turklergeziyor, #instabritain, #hobimphoto"
-  - username: "plannedmap"
-    fullname: >-
-      PlannedMap 🗺✈️🚘🛵
-    bio: >-
-      🌎Travel Destinations Planner 📝Travel Blogger 📍İstanbul
-    location: "Turkey"
-    followers: 11941
-    engagement: 651
-    commentsToLikes: 0.055070
-    id: ckaos2kivpvj50i78qytsxksu
-    verified: false
-    hashtags: "#travel, #tbt, #plannedmap, #plannedmapt"
-  - username: "akcayymehmettt"
-    fullname: >-
-      Mehmet AKÇAY
-    bio: >-
-      📍From ; Turkey 🇹🇷 🌍 Traveler ; ✈️🚞 ✏️ Kocaeli University 🧬 Anatolia Geneworks
-    location: "Turkey"
-    followers: 6705
-    engagement: 1360
-    commentsToLikes: 0.048223
-    id: ck0w3bgwfsjul0i192kw4h0em
-    verified: false
-    hashtags: "#roamersclub, #foto, #photographer, #traveltheworld"
-  - username: "littlenomadic_girl"
-    fullname: >-
-      İpek Yalçın 🧿
-    bio: >-
-      📍Bulgaria🇧🇬 Turkey🇹🇷 ♾ Travel | LifeStyle | Gym >>Do small things with great love 💫 •Wanderlust 👣🎒🌎 #grateful #happy #free 🌻 H a p p y W i f e💍
-    location: "Turkey"
-    followers: 18051
-    engagement: 1005
-    commentsToLikes: 0.045473
-    id: ck13bwa9wxg090i19i24gzfax
-    verified: false
-    hashtags: "#tbt, #ig, #aniyakala, #igtravel"
-  - username: "meltem.blk"
-    fullname: >-
-      Meltem Bölük
-    bio: >-
-      M★B Everything here is a choice...📸 Coffee. ☕💕 Travelling.. ✈️⚓ Nature.. 🍀🌾 Serenity.. 🙏🏻 İstanbul..🔻 ➡️ @ig_dynamic ➡️ @___meltemm____
-    location: "Turkey"
-    followers: 6550
-    engagement: 903
-    commentsToLikes: 0.111831
-    id: ckap7u0cwlk4b0i78xzwsohkz
-    verified: false
-    hashtags: "#portico, #sublimestreet, #thecitymag, #streetizm"
+    hashtags: "#gezgin, #travelphotography, #ke, #travelblogger"
 ---

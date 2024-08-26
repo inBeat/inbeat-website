@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In Mumbai In 2023
+title: Top 10 Nutrition TikTok Influencers In Mumbai In 2024
 description: >-
-  Find top nutrition TikTok influencers in Mumbai in 2023. Most popular hashtags: #fitness #tiktok #tiktokindia #foryou.
+  Find top nutrition TikTok influencers in Mumbai in 2024. Most popular hashtags: #fitness #tiktok #tiktokindia #foryou.
 platform: TikTok
 hits: 4
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our search engine holds 4 TikTok influencers like this in Mumbai, India for you to pitch.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 4 TikTok influencers like this in Mumbai, India for you to pitch.
 profiles:
   - username: "yagnapunjabi"
     fullname: >-

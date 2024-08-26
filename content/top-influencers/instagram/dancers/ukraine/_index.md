@@ -1,12 +1,36 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Ukraine In 2023
+title: Top 10 Dancers Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top dancers Instagram influencers in Ukraine in 2023. Most popular hashtags: #poledance #poledancer #pole.
+  Find top dancers Instagram influencers in Ukraine in 2024. Most popular hashtags: #poledance #vintageaesthetic #orientaldance.
 platform: Instagram
-hits: 39
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 39 Instagram influencers like this in Ukraine for you to collaborate.
+hits: 46
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 46 Instagram influencers like this in Ukraine for you to collaborate.
 profiles:
+  - username: "anela.kuzmina"
+    fullname: >-
+      Alëna Kuzmina
+    bio: >-
+      🔝 World-renowned exotic dancer 🌎 38 countries with workshops & judging ➡️ DM 🏆 European Fitness Bikini Vice-Champion 🥇 Arnold Classic EU Winner
+    location: "Ukraine"
+    followers: 110323
+    engagement: 576
+    commentsToLikes: 0.017740
+    id: ck5bwjyg5lue60i112p42f8fz
+    verified: false
+    hashtags: "#acrobatics, #exoticdance, #exoticcombo, #poleacrobatic"
+  - username: "tsybulskayana"
+    fullname: >-
+      Yana Tsybulska
+    bio: >-
+      • owner @thestage.platform • Dancer in a tv show “Dancing with the stars” • Choreographer 📍Kyiv
+    location: "Ukraine"
+    followers: 42288
+    engagement: 528
+    commentsToLikes: 0.025503
+    id: ck13ae8p9pykj0i19rzi63o0t
+    verified: false
+    hashtags: "#fructis, #fakebody, #jimny, #garnier"
   - username: "alla_smyshlyaeva"
     fullname: >-
       𝐀 𝐋 𝐋 𝐀 الَا عزيزة 𝐀 𝐙 𝐈 𝐙 𝐀 🦋
@@ -103,28 +127,4 @@ profiles:
     id: ck6tjsbly3bqx0j710dndlkbp
     verified: false
     hashtags: "#olenaminina"
-  - username: "andreystylez"
-    fullname: >-
-      Andrey Stylez Onoprienko
-    bio: >-
-      ◾️Dancer from UKRAINE | ◾️Organizer HIP HOP VIBE BATTLE | ◾️Repping SARCELLITE & MADSTATE CREWS | ◾️Founder STYLEZ STUDIO | ◾️In love with DANCE
-    location: "Ukraine"
-    followers: 21732
-    engagement: 1122
-    commentsToLikes: 0.021293
-    id: ck5zk5wjfivhs0i14qd8e98ov
-    verified: false
-    hashtags: "#teacherstudent"
-  - username: "ms.lizard"
-    fullname: >-
-      Elizabeth
-    bio: >-
-      Self-taught exotic pole dancer since 2017 Exotic pole dance classes Barcelona @feelingwoman . Ukrainian.
-    location: "Ukraine"
-    followers: 18518
-    engagement: 707
-    commentsToLikes: 0.044226
-    id: ck5zo7ms6pxz00i14jobb3sp4
-    verified: false
-    hashtags: "#poledance, #artist, #polecombo, #barcelonadance"
 ---

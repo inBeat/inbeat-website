@@ -1,130 +1,130 @@
 ---
-title: Top 10 Reggae Instagram Influencers In 2023
+title: Top 10 Reggae Instagram Influencers In 2024
 description: >-
-  Find top reggae Instagram influencers in 2023. Most popular hashtags: #gram #dj #cannalogica.
+  Find top reggae Instagram influencers in 2024. Most popular hashtags: #mexico #fashion #love.
 platform: Instagram
-hits: 2291
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 2291 Instagram influencers like this for you to connect with.
+hits: 2387
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 2387 Instagram influencers like this for you to pitch.
 profiles:
-  - username: "pendejaonwheels"
+  - username: "labellakath"
     fullname: >-
-      isabella
+      Bellakath
     bio: >-
-      🌈 Latina Roller Skater & Actor from Miami ♏️ 🍾1/2 of @perreoenpatines - A queer, reggaeton skate party ‼️ 💌 PendejaOnWheels@Gmail.com
-    location: "United States"
-    followers: 16352
-    engagement: 297
-    commentsToLikes: 0.058756
-    id: ckaotc0z3v9260i78i6dzvshm
+      Booking:+52 56 1110 5061 ⭐️⬇️ Mexican reggaetonera pioneer 💜🇲🇽👸🏻🦁 👑Sello: @lamafiadelperreo_ ✨ YA DISPONIBLE “Kittyponeo” 🎀✨⤵️
+    location: "Mexico"
+    followers: 2132251
+    engagement: 435
+    commentsToLikes: 0.002476
+    id: ckaozoa0hmnqu0i78vkjm34cz
     verified: false
-    hashtags: "#rollerskater, #fitness, #rollerdisco, #skills"
-  - username: "koniyahhh"
+    hashtags: "#spotifyequal"
+  - username: "lauraglentemose"
     fullname: >-
-      Konya Plummer
+      🌞 Laura Glentemose
     bio: >-
-      +Pro footballer @orlpride +Reggae Girlz #5 🇯🇲 +UCF ALUM ⚔️ -Management: @uppervathletes
-    location: ""
-    followers: 5369
-    engagement: 1573
-    commentsToLikes: 0.048526
-    id: ck6uakfwp42700j71cpo2xkvp
+      CPH🇩🇰 studied spanish and lived in 🇪🇸 & South America alone 🇨🇴🇦🇷🇺🇾🇵🇪🇪🇨 enamorada en la vida con reggaeton y bachata todavía 💌lauraglentemose@gmail.com
+    location: "Spain"
+    followers: 94511
+    engagement: 373
+    commentsToLikes: 0.003711
+    id: ck6tpzsl0olgk0j71350ep0wm
     verified: false
-    hashtags: "#skincare, #cannalogica, #hemp, #cbd"
-  - username: "bun_bun10"
+    hashtags: ""
+  - username: "bimacho_bstrd"
     fullname: >-
-      Khadija Shaw
+      bimacho
     bio: >-
-      Reggae Girlz #11 Girondins de Bordeaux 🔵⚪️ @nike Info@avsports.co 🌴 🇯🇲
-    location: ""
-    followers: 14293
-    engagement: 1650
-    commentsToLikes: 0.020626
-    id: ck6u1ckopkxj10j71zda6jblj
+      🔵 #business 0851-8688-8823 ⚫️ @anggur_ot ⚫️ @morevapor.id ⚫️ @bravesboy_official ⚫️ @lukaofficial86 ⚫️ @reggaendugal
+    location: "Indonesia"
+    followers: 242586
+    engagement: 285
+    commentsToLikes: 0.012102
+    id: ck14hh7j0abeh0i193vp6xgo6
+    verified: false
+    hashtags: "#76merdekaheppiii, #76heppiiicommunity, #indonesiaadalahkita, #boogiedownbar"
+  - username: "bajabeachfest"
+    fullname: >-
+      Baja Beach Fest
+    bio: >-
+      The Reggaeton & Latin Music Festival 🌊August 9th-11th 🏝️Rosarito, MX 🍑Rauw Alejandro, Kali Uchis, Peso Pluma & más 🔊Passes SOLD OUT Lyte Waitlist👇🏽
+    location: "Mexico"
+    followers: 421904
+    engagement: 359
+    commentsToLikes: 0.021120
+    id: ck0u28h24z6l90i19v3e2pa6o
     verified: true
-    hashtags: "#nolimit, #justdoit, #strikehard, #stayhome"
-  - username: "arletterm"
+    hashtags: "#rosarito, #nyc, #menoshatem, #donomar"
+  - username: "maltymaiden"
     fullname: >-
-      Arlette Ramirez Marcos
+      H E A T H E R
     bio: >-
-      🇲🇽♉️ Embajadora del Reggaeton aka Arly G Host de @trapeoyperreo ✨🖤 @vixenarmymty VXN Master Trainer Co-Founder @latina.tribe 📲 @theinnfluencers
-    location: "Venezuela"
-    followers: 17918
-    engagement: 789
-    commentsToLikes: 0.103266
-    id: ckf5s67kceu1w0j230hdh93gi
+      ➵ The Original MALTY MAIDEN 🍻🧿🍄 ➵ Craft Beer Addict w/ a Fashion Lifestyle * Wife * Mama * Reggae * Camping * CycleBar 📧 heather@maltymaiden.com
+    location: "United States"
+    followers: 30590
+    engagement: 238
+    commentsToLikes: 0.032987
+    id: ck5zr6mglw0890i14z5axnkzo
     verified: false
-    hashtags: "#loading, #bodychallenge, #eutdm, #badbunny"
-  - username: "djosmancr"
+    hashtags: "#doubleipa, #florida, #explorepage, #beergirl"
+  - username: "ivyqueendiva"
     fullname: >-
-      
+      IvyQueenDiva
     bio: >-
-      @grlabrand @omr.kong @reggaecr
-    location: ""
-    followers: 10197
-    engagement: 511
-    commentsToLikes: 0.095159
-    id: ck5qef50z06ec0i11jdlz8w5e
-    verified: false
-    hashtags: "#show, #dancehall, #dj, #like"
-  - username: "davidramjamrodigan"
+      REGGAETON PIONEER MOTHA 🇵🇷
+    location: "United States"
+    followers: 8864503
+    engagement: 162
+    commentsToLikes: 0.004064
+    id: ck0tw8w3sef8y0i195slng4ad
+    verified: true
+    hashtags: "#premiosrollingstoneenespa"
+  - username: "samuelbromwich"
     fullname: >-
-      David Rodigan MBE. OD.
+      Sammy | Birmingham & Beyond ✨
     bio: >-
-      43 Years in Reggae. BBC 1Xtra Bookings: lucy.putman@paradigmagency.com
+      - Samuel Stephen Bromwich - Just happy 😊 - Model, socialite & reggae icon… Ok, so maybe not the last one, but still - samuelbromwich@googlemail.com ✉️
     location: "United Kingdom"
-    followers: 98541
-    engagement: 526
-    commentsToLikes: 0.050940
-    id: ck0w6088q6aci0i1923maze4m
-    verified: true
-    hashtags: "#reggae, #tune, #summer"
-  - username: "homer_elmeromero"
+    followers: 27381
+    engagement: 155
+    commentsToLikes: 0.048878
+    id: ckf5n5oafwuw50j23agau4hco
+    verified: false
+    hashtags: "#love, #ad, #thehomeofdrinks, #menswear"
+  - username: "theclintwarren"
     fullname: >-
-      H
+      Clint Warren
     bio: >-
-      @barderos 🔫 MDB CREW. ⬇️ REGGAETON SESSION #3
-    location: "Argentina"
-    followers: 627358
-    engagement: 1271
-    commentsToLikes: 0.006759
-    id: ck0u7oil359c20i19tjoiaq1g
-    verified: true
-    hashtags: ""
-  - username: "gracielarodarte"
-    fullname: >-
-      Graciela
-    bio: >-
-      reggaetón enthusiast | AZ |
+      Midwest 🏔️ Reggae Rock USMC🧂🐶🎖US Peace Corps ☮️ iAfrica 🇿🇦
     location: "United States"
-    followers: 6125
-    engagement: 1583
-    commentsToLikes: 0.016820
-    id: ck8t3xr024vh30j78qotlm6wg
+    followers: 31212
+    engagement: 157
+    commentsToLikes: 0.092569
+    id: ck6tyjz1a46to0j71ng79tcd2
     verified: false
-    hashtags: ""
-  - username: "bobmarlon_oficial"
+    hashtags: "#aussiepuppylove, #cellar59, #australianshepherdpuppy, #rootfirecooperative"
+  - username: "romanoaspas"
     fullname: >-
-      Marlon Onassis
+      Romano Aspas
     bio: >-
-      Bob Marlon - Cantor/Compositor de Natal/RN 🔥#reggaemusic #potiguar #reggaebrasil ⬇️“TODOS PRECISAM DO AMOR”⬇️
+      Crooner del reggaeton Adicto a las orgías emocionales Compositor #esnifandovida #planazo 👇🏻DALE PLAY👇🏻
+    location: ""
+    followers: 99761
+    engagement: 152
+    commentsToLikes: 0.044140
+    id: ck9wf7uxjnlbd0j78evcicnv0
+    verified: false
+    hashtags: "#reggaeton, #rd, #canada, #newsingle"
+  - username: "macetaminofen"
+    fullname: >-
+      Alexis Zárraga
+    bio: >-
+      Soy Ponceño, zambo, escritor, gurú farandulero, filósofo, podcastero, reggaetonólogo, pinto rejas, hago mudanzas y boto escombros. 🇵🇷🦍🪴🍺 @badabelardo
     location: "Brazil"
-    followers: 15396
-    engagement: 248
-    commentsToLikes: 0.116834
-    id: ck5qbqw0umynp0i11az2pvfy9
+    followers: 137314
+    engagement: 114
+    commentsToLikes: 0.040334
+    id: ck5hnz7y0one50i11qw9klx64
     verified: false
-    hashtags: "#tbt, #gratid, #givethanks"
-  - username: "rocioragonesi"
-    fullname: >-
-      Rago🤪
-    bio: >-
-      Instructora de reggaeton | Bailarina Ed.fisica - UNLAM CANJES/ PUBLICIDAD AL MD @r.rkids @r.r_indumentaria @rragonesi.clases
-    location: "Argentina"
-    followers: 34428
-    engagement: 504
-    commentsToLikes: 0.020843
-    id: ck55jq5d4xjo80i111oeisily
-    verified: false
-    hashtags: "#twerk, #entucuerporemix, #entucuerpo, #reggaetonestrella"
+    hashtags: "#macetatv, #labibliotecaoculta, #elplaylist, #tepusealeer"
 ---

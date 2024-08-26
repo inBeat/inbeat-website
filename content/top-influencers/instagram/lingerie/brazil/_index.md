@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Brazil In 2023
+title: Top 10 Lingerie Instagram Influencers In Brazil In 2024
 description: >-
-  Find top lingerie Instagram influencers in Brazil in 2023. Most popular hashtags: #lingerie #modafeminina #instagood #girl.
+  Find top lingerie Instagram influencers in Brazil in 2024. Most popular hashtags: #love #lingerie #moda #girls.
 platform: Instagram
-hits: 360
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 360 Instagram influencers like this in Brazil for you to pitch.
+hits: 353
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 353 Instagram influencers like this in Brazil for you to connect with.
 profiles:
   - username: "roselielingerie"
     fullname: >-
@@ -103,28 +103,28 @@ profiles:
     id: ckf5p0jtc4ivd0j23rq48qhkz
     verified: false
     hashtags: "#inspired, #mood, #love, #confywear"
-  - username: "gabrielammariani"
+  - username: "gabboficial"
     fullname: >-
-      Gabriela Mariani
+      Gabriela Fonseca
     bio: >-
-      23 • modelo/miss umuarama 2019 UNIPAR • odontologia 3/4 ⚕ — seja gentil, espalhe gentileza! ♡ 🦋🌙🦷📷
+      📍São Paulo • Fashion influencer & independent model • Trabalhos e parcerias: @assessoriagabb
     location: "Brazil"
-    followers: 13113
-    engagement: 748
-    commentsToLikes: 0.068515
-    id: ck8sz1k2bmtv60j78nejod8m2
+    followers: 359054
+    engagement: 220
+    commentsToLikes: 0.023532
+    id: ckap7ufcxllxu0i78efjvqdgt
     verified: false
-    hashtags: "#mulher, #modelo, #ensaio, #glow"
-  - username: "marianasofiacanelas"
+    hashtags: "#foconoobjetivo, #model, #instagood, #me"
+  - username: "laysesinatra"
     fullname: >-
-      MARIANA CANELAS
+      Layse Sinatra
     bio: >-
-      💪PROZIS 10%: MARICANELAS 💡 𝒍𝒊𝒇𝒆𝒔𝒕𝒚𝒍𝒆 ◦𝒇𝒂𝒔𝒉𝒊𝒐𝒏 ◦ 𝒃𝒆𝒂𝒖𝒕𝒚 ◦ 𝒕𝒊𝒑𝒔 🌎 Environmental Engineer 📍 Porto | Coimbra 📩 𝙢𝙖𝙧𝙞𝙖𝙣𝙖.𝙨𝙤𝙛𝙞𝙖.𝙘𝙖𝙣𝙚𝙡𝙖𝙨@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢
+      lifestyle | decor | dogos | art | beauty | Belém- PA @floresceart | @pavepateoficial | Divulgação 👇🏻
     location: "Brazil"
-    followers: 22712
-    engagement: 544
-    commentsToLikes: 0.332355
-    id: ck5qdve62xhpb0i11h4wsty48
+    followers: 59152
+    engagement: 191
+    commentsToLikes: 0.025487
+    id: ck5hh81396v5r0i11glwva5x9
     verified: false
-    hashtags: "#picsartphoto, #portugal, #lingerie, #portugueseblogger"
+    hashtags: "#moda, #meujeansdamyller, #dicas, #lingerietorra"
 ---

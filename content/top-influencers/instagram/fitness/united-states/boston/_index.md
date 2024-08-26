@@ -1,48 +1,48 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Boston In 2023
+title: Top 10 Fitness Instagram Influencers In Boston In 2024
 description: >-
-  Find top fitness Instagram influencers in Boston in 2023. Most popular hashtags: #fitness #boston #motivation #fitnessmotivation.
+  Find top fitness Instagram influencers in Boston in 2024. Most popular hashtags: #fitness #boston #bostonfitness #summer.
 platform: Instagram
-hits: 111
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 111 Instagram influencers like this in Boston, United States for you to collaborate.
+hits: 140
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 140 Instagram influencers like this in Boston, United States for you to connect with.
 profiles:
-  - username: "runnersrepost"
+  - username: "gordiegronk"
     fullname: >-
-      Runners Repost
+      Gordie Gronkowski Jr
     bio: >-
-      RUN / SHARE / INSPIRE TO BE FEATURED: 👉🏻 Follow @runnersrepost 👉🏻 #RunnersRepost Keep on running!
+      💪1st and tallest Gronk 🤝Helping people live a healthier life with @gronkfitness ✖️@cuts - use GORDIEGRONK for 15% off
     location: "United States"
-    followers: 29746
-    engagement: 49
-    commentsToLikes: 0.006958
-    id: ck5cjix23utc40i11z399c37f
+    followers: 47137
+    engagement: 136
+    commentsToLikes: 0.071134
+    id: ck0vxgx3vyu7t0i19jq20zdcg
     verified: false
-    hashtags: "#halfmarathontraining, #fitfluential, #runnergirl, #runnerscommunity"
-  - username: "sarahmc_fit"
+    hashtags: "#boston, #pickleball, #comedy, #vuecrew"
+  - username: "tolakinyo54"
     fullname: >-
-      Sarah McElligott
+      Tola Morakinyo
     bio: >-
-      📍Boston Fitness / Lifestyle 🦋 👸🏻Owner: @mcfitclique 💫 @nvgtn / @legion athlete ↓ apply for 1:1 coaching & links ↓
+      Fitness|Food|Naps🔄 @nobull @invictusboston @properfuel IF3|GRID|CF
     location: "United States"
-    followers: 262000
-    engagement: 125
-    commentsToLikes: 0.022820
-    id: ck8t4ljw177160j78igq2m2p6
+    followers: 28820
+    engagement: 459
+    commentsToLikes: 0.016567
+    id: ck5zua9vz1zdy0i14eqz5kvab
     verified: false
-    hashtags: "#justcbd"
-  - username: "clairerunsthere"
+    hashtags: "#vegasfitness, #crossfit, #nobull, #squats"
+  - username: "mindovermadeline"
     fullname: >-
-      Claire
+      Madeline 🦋 Adams
     bio: >-
-      🔹Non🏃🏼‍♀️->self coached Boston mthnr x 3🦄 🔹Boston ‘21💙💛 🔹26.2x21, BQx9, 🏃🏼‍♀️ing 9 yrs 🔹Momx4 💙💗💗💙 🔹Interior dsgnr/Artist 🔹Nutrition grad stdnt
+      @muscletech athlete • @express ambassador • kitten lover • the best is yet to come • 💌 Mindovermadeline@gmail.com SHOP HERE ⇩
     location: "United States"
-    followers: 20620
-    engagement: 343
-    commentsToLikes: 0.173559
-    id: ckap52ymi9ynt0i788vwaujei
+    followers: 5266
+    engagement: 588
+    commentsToLikes: 0.101500
+    id: ckaoqtfsqkb2l0i78j0bslj8n
     verified: false
-    hashtags: "#runnerscommunity, #womenrunning, #bostonmarathontraining, #runitfast"
+    hashtags: "#bikinimodel, #outfitinspiration, #dailyoutfitinspo, #minimalstyle"
   - username: "laurenwelcome"
     fullname: >-
       Lauren Welcome
@@ -55,30 +55,30 @@ profiles:
     id: ckf5le9eup9qf0j236gj9mry3
     verified: false
     hashtags: "#equinoxtrainer, #igfit, #homeworkout, #womenshealth"
-  - username: "payydayyy"
+  - username: "therealapbp"
     fullname: >-
-      Payton Stumbaugh Chadwick
+      Alyssa Pannozzi // APBP
     bio: >-
-      @asics Athlete • Arkansas Alumni • USA 🥈 • @traegergrills • @macrostax • @uniblen 📍Fayetteville, AR
+      Trainer + Talent Director @revdcycling | @revd.x @tiktok Shop Star Creator | Runner Wifey to @themikeonabike | #girlmom 📧: kaitlyn@fifthwellness.com
     location: "United States"
-    followers: 9943
-    engagement: 1119
-    commentsToLikes: 0.051758
-    id: ck6ttzvwrdif40j71zt7z25ev
+    followers: 27939
+    engagement: 86
+    commentsToLikes: 0.009724
+    id: ckmw1aplo5mm30j234708b1t5
     verified: false
-    hashtags: "#soundmindsoundbody, #usatf, #olympictrials, #track"
-  - username: "rodneylavoiejr"
+    hashtags: "#apbpruns, #teamrevd, #clubapbp, #falmouth"
+  - username: "laurajpizzuti"
     fullname: >-
-      Rodney Lavoie Jr. “𝓢𝓾𝓻𝓿𝓲𝓿𝓸𝓻”
+      Laura Pizzuti | Everyday Fashion | Deals
     bio: >-
-      🎙 Motivational Speaker 🧠 Mental Health Awareness 🫂 Life Coach 📚501(c)3:@TheWarriorsofPurpose 🎧 Podcast:@SilenceKillsMovement 📲 Back-up:@SurvivorRodney
+      Affordable Fashion • Sale lover • Amazon deals • Try on hauls • Target • Gluten free • Fitness • Mom •Dogs • Boston ✉︎ laurajpizzuti@gmail.com
     location: "United States"
-    followers: 393099
-    engagement: 659
-    commentsToLikes: 0.040046
-    id: ck6u2a8u3qmzb0j71yukdua4n
-    verified: true
-    hashtags: "#motivation, #miami, #depression, #selflove"
+    followers: 66946
+    engagement: 132
+    commentsToLikes: 0.663145
+    id: ckmw19uta5ck70j23n3zzvra2
+    verified: false
+    hashtags: "#ltkfashion, #weddingguestdress, #leatherfashion, #ltkunder30"
   - username: "mojax98"
     fullname: >-
       Moses Jackson
@@ -91,30 +91,30 @@ profiles:
     id: ck0w2yh1jqqjn0i191be54o7t
     verified: false
     hashtags: "#tb, #freerunning, #boston, #gymnastics"
-  - username: "andrewmolen"
+  - username: "elisecaira"
     fullname: >-
-      Andrew Molen
+      ELISE CAIRA
     bio: >-
-      🍴🍷#Food & #Beverage 🏠NewYork,NY|Boston,MA
+      Boy Mom • Entrepreneur • Small Business Investor Founder & Instructor @sweatfixx Co-founder @fixxedstudios Co-host 🎙️ @businessmusclepodcast
     location: "United States"
-    followers: 40835
-    engagement: 377
-    commentsToLikes: 0.032136
-    id: ck5cfy6fsnt5r0i1132qbzjea
+    followers: 25399
+    engagement: 82
+    commentsToLikes: 0.050234
+    id: ckmw1apii5mkw0j23q9d5pvd1
     verified: false
-    hashtags: "#covid19, #chefsofinstagram, #lol, #fun"
-  - username: "petermollofitness"
+    hashtags: "#sweatfixx, #fixxed, #bossmom, #businesstips"
+  - username: "nickandanthony"
     fullname: >-
-      Peter Mollo
+      Nick&Ant
     bio: >-
-      * Founder Peter Mollo Fitness * B.S. Physical Education * ACE CPT * Fit/Nutrition Specialist * Sports Performance Specialist * ⬇️ JOIN US NOW ⬇️
+      🏳️‍🌈 Tampa Bay 👨🏻‍🤝‍👨🏼 Fiancés ✨ Lifestyle • Wellness • Travel
     location: "United States"
-    followers: 21622
-    engagement: 147
-    commentsToLikes: 0.076023
-    id: ck5hllsi1kfwh0i11cmj9znyk
+    followers: 47044
+    engagement: 341
+    commentsToLikes: 0.024829
+    id: ck55o5fxp7ntp0i11iuzqsqty
     verified: false
-    hashtags: "#fitness, #legs, #womenshealth, #boston"
+    hashtags: "#loveislove, #casadecampo, #gaytravel, #tampa"
   - username: "jessicagcookmusicc"
     fullname: >-
       Jessica Glynn Cook

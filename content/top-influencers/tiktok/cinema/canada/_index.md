@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Canada In 2023
+title: Top 10 Cinema TikTok Influencers In Canada In 2024
 description: >-
-  Find top cinema TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryou #cinematics #foryoupage.
+  Find top cinema TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #foryou #cinematics #foryoupage.
 platform: TikTok
-hits: 91
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our database holds 91 TikTok influencers like this in Canada for you to contact.
+hits: 94
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 94 TikTok influencers like this in Canada for you to connect with.
 profiles:
   - username: "kiersten.annee"
     fullname: >-
@@ -71,14 +71,14 @@ profiles:
     fullname: >-
       Rachel Hall
     bio: >-
-      NovaScotia🇨🇦 Forever chasing the sun☀️ Ocean lover🌊 Mom to 🐱🐶🌿 DIY🏡
+      Nova Scotia🇨🇦 Forever chasing the sun☀️ Ocean lover🌊 Mom to 🐱🐶 DIY🏡
     location: "Canada"
-    followers: 18300
-    engagement: 875
-    commentsToLikes: 0.060812
+    followers: 20500
+    engagement: 736
+    commentsToLikes: 0.055450
     id: ckdbrqr2nc9k90j23dgrr555g
     verified: false
-    hashtags: "#halifax, #cinematic, #homeimprovement, #puppy"
+    hashtags: "#home, #travel, #dog, #explore"
   - username: "nickynonis"
     fullname: >-
       Nicky Nonis

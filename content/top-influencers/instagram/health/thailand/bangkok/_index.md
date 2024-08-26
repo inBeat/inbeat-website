@@ -1,12 +1,24 @@
 ---
-title: Top 10 Health Instagram Influencers In Bangkok In 2023
+title: Top 10 Health Instagram Influencers In Bangkok In 2024
 description: >-
-  Find top health Instagram influencers in Bangkok in 2023. Most popular hashtags: #healthylifestyle #bangkok #healthy #thailand.
+  Find top health Instagram influencers in Bangkok in 2024. Most popular hashtags: #fitness #fitnessmotivation #training #healthylifestyle.
 platform: Instagram
 hits: 5
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 5 Instagram influencers like this in Bangkok, Thailand for you to work with.
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 5 Instagram influencers like this in Bangkok, Thailand for you to contact.
 profiles:
+  - username: "healthydiarywithme"
+    fullname: >-
+      ms.self-love, hdwm ✨
+    bio: >-
+      👩🏻‍⚕️Physiotherapist 🌈Heathy(physical&mental health)diary ✨Self-improvement, Healthy Lifestyle 🤍@plamilland 💌for work: DM or click
+    location: "Thailand"
+    followers: 108868
+    engagement: 14
+    commentsToLikes: 0.021293
+    id: ck6u78urfk4u80j71j3hadb2i
+    verified: false
+    hashtags: "#asics, #gourmetmarketthailand, #asicsth, #themallgroup"
   - username: "anitabye"
     fullname: >-
       Anita Bye/อันนิต้า บี Thailand
@@ -31,100 +43,88 @@ profiles:
     id: ck55oxbb99boi0i11sdxrlv2b
     verified: false
     hashtags: "#travel, #goals, #beautiful, #happy"
-  - username: "sajadsattarii"
-    fullname: >-
-      Sajad "The Superman" Sattari
-    bio: >-
-      Iranian Made 🇮🇷 Based in Pattaya, Thailand 🇹🇭 Muaythai world champion Always be happy, and Dream on! My YouTube channel👇🏼
-    location: "Thailand"
-    followers: 20728
-    engagement: 874
-    commentsToLikes: 0.041630
-    id: ck5zjlk5phsut0i14gnwfoc7z
-    verified: false
-    hashtags: "#helath, #modeling, #nature, #kickboxing"
   - username: "gainmadeline"
     fullname: >-
       Personal Trainer / Athlete
     bio: >-
       Athlete🇹🇭 Line:@gainmadeline2 FB Page:TrainWithGain 🏆2nd-ShawnRho2019 🏆2nd-BenWCSpain2018 🏆2nd-OAAsiaHK2016 🥇Mr.THAILAND2016 Owner:@tammachaat.drink
     location: "Thailand"
-    followers: 8382
-    engagement: 326
-    commentsToLikes: 0.020372
+    followers: 8410
+    engagement: 291
+    commentsToLikes: 0.018402
     id: ck55ox92q9bfr0i11nn8p3w63
     verified: false
-    hashtags: "#muscle, #personaltraining, #gym, #transformation"
-  - username: "zeemyiinz"
+    hashtags: "#diet, #gymlife, #teamgain, #athlete"
+  - username: "sajadsattarii"
     fullname: >-
-      αρcу
+      Sajad Venum Muaythai
     bio: >-
-      ♪•● ✰ zεεмчııпz✰ ●•♪ ❶ ❾ ❾ ❹ кмυтив єиgιиєєя ⚙🇹🇭🇩🇪 мιѕѕ иєd ② ⓪ ① ② ♕♔ 1 ˢᵗ ʟιиє : zeemyiinz ( шoяκ oиʟч )
+      🧿 RAJADAMNERN Stadium World Champion WBC World Champion IFMA World Champion Venum Training Camp Managed by Mehdi Zatout Dream On & Always Be Happy✨
     location: "Thailand"
-    followers: 27475
-    engagement: 92
-    commentsToLikes: 0.010887
-    id: ck1384i6oegkp0i19grs2d8ec
+    followers: 35573
+    engagement: 617
+    commentsToLikes: 0.028929
+    id: ck5zjlk5phsut0i14gnwfoc7z
     verified: false
-    hashtags: "#jajatahwedding, #lanlanathailand, #lanlana, #healthylife"
-  - username: "emilysfooddiaryyy"
+    hashtags: "#workhard, #liveyourdreams, #wbcmuaythai, #venum"
+  - username: "pimwa"
     fullname: >-
-      
+      Pimwa Ouilapan
     bio: >-
-      🥐 healthy food & workout 🍞 #emily👊🏻 #emilyshealthyfood #กินขนมกับเอมมิลี่
+      Health, Lifestyle & Music 🐈🤍 For Work : pimwa.o@gmail.com K. Korn 0922540208 🎬✨ตะลุยร้านเนื้อตัวท็อปโตเกียว 2024 🥩✨
     location: "Thailand"
-    followers: 17504
-    engagement: 466
-    commentsToLikes: 0.130759
-    id: ckap94193r26n0i78n7t3ecio
+    followers: 88747
+    engagement: 403
+    commentsToLikes: 0.006505
+    id: ckap93crwqz7q0i782h3x2tlw
     verified: false
-    hashtags: "#grainthailand, #grainxsinghalemonsoda, #orderagrain, #emilyshealthyfood"
-  - username: "daisydiiva"
+    hashtags: "#thisisforeveryone, #sasixoxonext, #maybelline127, #secondschallenge"
+  - username: "yoyossavadee"
     fullname: >-
-      DaisyDiiva
+      YOYO 👑
     bio: >-
-      I'm DAY Owner : @wearevery.day Healthy Life Diary, Flexible Diet , Eat Well & Exercise, I Love Workout Thailand 🇹🇭
+      Health/Beauty Certified Personal trainer Certified Weight loss specialist @golden.hour88 @qlique_studio Full Ironman-70.3 📲 For work> DM
     location: "Thailand"
-    followers: 52405
-    engagement: 99
-    commentsToLikes: 0.112820
-    id: ck5pv3e8pfxef0i11go96lpmt
-    verified: false
-    hashtags: "#healthy, #eatclean, #fitness, #diet"
-  - username: "on_lyy13"
+    followers: 603768
+    engagement: 211
+    commentsToLikes: 0.004659
+    id: ck5ztt2dl12n90i14ntakv3hj
+    verified: true
+    hashtags: "#trainhard, #cycling, #fitwithyo, #wakesurf"
+  - username: "healthh.me"
     fullname: >-
-      Gin Gub ON 🇹🇭 food lover
+      #healthhme trying… ♡
     bio: >-
-      ชอบถ่ายรูปอาหาร รีวิวแบบบ้านๆ cooking 🍳eating🍰 💄healthy🍃 ติดต่อรีวิวได้ทาง DM น่ะค่ะ
+      ♡ I’m Mickie ♡ #healthhme ♡ Healthy ♡ Workout ♡ 163cm.|Start 67 kg | Now 53 kg |🔻14 kg ♡ DM for work ♡ พิกัดกด Bio 👇🏻
     location: "Thailand"
-    followers: 77307
-    engagement: 90
-    commentsToLikes: 0.055871
-    id: ck6u78h53k2xv0j71y95r4adf
+    followers: 93706
+    engagement: 202
+    commentsToLikes: 0.013054
+    id: ck14ig5rpf8hl0i19y66eicfi
     verified: false
-    hashtags: "#thaifood, #sizzlervaluemeal, #wongnai, #food"
-  - username: "kittyart_healthy"
+    hashtags: "#gymmotivation, #backworkout, #healthhme, #thaifood"
+  - username: "jamaporn"
     fullname: >-
-      Kittyart Healthy
+      Jamaporn Saengthong
     bio: >-
-      🥑 Healthy Food 🍳 Easy Cooking 🧘‍♀️ Workout 👩‍💼 Owner @avalonhealthydrink ❤️ My Life at IG : @kittyart 💛 Start 7Dec18 💜 เราจะแก่แบบมีคุณภาพ
+      🌈 Work:0855951949 Line : jah.ja 🥕Asc90|Cu ARTS74|CUBAND 🎤 Singer 🌸Asian cover🎈Entrepreneur 💖Flexible Diet 🇦🇺🇺🇸🇩🇪 Eat well,Stay healthy,Plant based🥗
     location: "Thailand"
-    followers: 35171
-    engagement: 87
-    commentsToLikes: 0.168245
-    id: ckap93ztpr1z50i78s0lsm1tq
+    followers: 76460
+    engagement: 77
+    commentsToLikes: 0.021144
+    id: ck9wgar6bslfy0j78w5jnls8e
     verified: false
-    hashtags: "#cleanrecipes, #cleaneating, #eatclean, #healthyfood"
-  - username: "ueelicious"
+    hashtags: "#7dayshealthysocialchallenge, #dwinth, #danielwellington, #dwelevation"
+  - username: "healthydiarywithme"
     fullname: >-
-      ueelicious (ยุ้ย)*
+      ms.self-love, hdwm ✨
     bio: >-
-      🏋️‍♀️Workout 🥑Healthy Food 🍳Cooking 📸Photography ✈️Traveler❣️Hopeless Romantic 🌈For Work : Direct Message #HappyUee #Ueeliciouscuisine
+      👩🏻‍⚕️Physiotherapist 🌈Heathy(physical&mental health)diary ✨Self-improvement, Healthy Lifestyle 🤍@plamilland 💌for work: DM or click
     location: "Thailand"
-    followers: 26468
-    engagement: 78
-    commentsToLikes: 0.148750
-    id: ckaov4dob2zwp0i78ccb36dgc
+    followers: 108868
+    engagement: 14
+    commentsToLikes: 0.021293
+    id: ck6u78urfk4u80j71j3hadb2i
     verified: false
-    hashtags: "#ueeliciouseating, #ueeliciouscuisine, #happyuee, #ueelicious"
+    hashtags: "#asics, #gourmetmarketthailand, #asicsth, #themallgroup"
 ---

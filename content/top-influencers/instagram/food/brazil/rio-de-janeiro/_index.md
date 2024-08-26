@@ -1,12 +1,24 @@
 ---
-title: Top 10 Food Instagram Influencers In Rio De Janeiro In 2023
+title: Top 10 Food Instagram Influencers In Rio De Janeiro In 2024
 description: >-
-  Find top food Instagram influencers in Rio De Janeiro in 2023. Most popular hashtags: #food #riodejaneiro #girl #photo.
+  Find top food Instagram influencers in Rio De Janeiro in 2024. Most popular hashtags: #food #riodejaneiro #smile #girl.
 platform: Instagram
-hits: 10
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our database has 10 Instagram influencers like this in Rio de Janeiro, Brazil for you to contact.
+hits: 11
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 11 Instagram influencers like this in Rio de Janeiro, Brazil for you to collaborate.
 profiles:
+  - username: "gab.lobo"
+    fullname: >-
+      Gabriela Passos Lobo e Campos
+    bio: >-
+      🇧🇷 Rio de Janeiro 🫀 canto, componho e crio conteúdo 💫 o daily é o close friends, pede na dm 📧 contato@vitoriafleck.com 👇🏼 spotify, youtube, pinterest
+    location: "Brazil"
+    followers: 66760
+    engagement: 37
+    commentsToLikes: 0.039576
+    id: ck0tyqas4nrl20i197e3zq8p8
+    verified: false
+    hashtags: "#riodejaneiro, #beach, #bikini, #couples"
   - username: "gi_vannucci"
     fullname: >-
       Giovanna Vannucci
@@ -115,16 +127,4 @@ profiles:
     id: ck0w4bnahxrs90i19htg0h468
     verified: false
     hashtags: "#cute, #procreate, #digitalartist, #art"
-  - username: "lecordonbleubrasiloficial"
-    fullname: >-
-      Le Cordon Bleu Brasil
-    bio: >-
-      Presente em 20 países com 35 escolas internacionais e 20 mil alunos, o Le Cordon Bleu chega ao Brasil, em São Paulo e no Rio de Janeiro.
-    location: "Brazil"
-    followers: 200455
-    engagement: 49
-    commentsToLikes: 0.014440
-    id: ck0u0widnv2pe0i19xmp38xj8
-    verified: false
-    hashtags: "#alumni, #cooking, #receita, #gastronomia"
 ---

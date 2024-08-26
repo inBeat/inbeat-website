@@ -1,12 +1,24 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Turkey In 2023
+title: Top 10 Comedians Instagram Influencers In Turkey In 2024
 description: >-
-  Find top comedians Instagram influencers in Turkey in 2023. Most popular hashtags: #evdekal #comedia #tbt #komedi.
+  Find top comedians Instagram influencers in Turkey in 2024. Most popular hashtags: #evdekal #comedia #video #komedi.
 platform: Instagram
-hits: 13
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 13 Instagram influencers like this in Turkey for you to collaborate.
+hits: 14
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform has 14 Instagram influencers like this in Turkey for you to work with.
 profiles:
+  - username: "gulsebir"
+    fullname: >-
+      Gülse Birsel Official
+    bio: >-
+      Screenwriter&comedian
+    location: "Turkey"
+    followers: 3498339
+    engagement: 227
+    commentsToLikes: 0.011730
+    id: ck0w6v87laff40i19waznsp0w
+    verified: true
+    hashtags: "#bazaarwomenoftheyear, #tanerbirsel, #repost, #davet"
   - username: "gamzeilefelix"
     fullname: >-
       Gamze ile Felix
@@ -55,30 +67,6 @@ profiles:
     id: ck0w40ygew8ww0i19mtblrzsp
     verified: true
     hashtags: "#evdekalt, #coronavirus, #avm, #sourdough"
-  - username: "gulsebir"
-    fullname: >-
-      Gülse Birsel Official
-    bio: >-
-      Screenwriter&comedian
-    location: "Turkey"
-    followers: 3405228
-    engagement: 266
-    commentsToLikes: 0.011773
-    id: ck0w6v87laff40i19waznsp0w
-    verified: true
-    hashtags: "#covidoscope, #supradynchallenge, #tanerbirsel, #gu"
-  - username: "kaan.sekban"
-    fullname: >-
-      Kaan Sekban
-    bio: >-
-      stand-up comedian, talk show host, ex-banker 📺 @alttarafibitalkshow 📚 Tebrikler Kovuldunuz ✉️ demircanmetin@yahoo.com
-    location: "Turkey"
-    followers: 408070
-    engagement: 351
-    commentsToLikes: 0.017642
-    id: ck0vyfgbm3puo0i19mmohbgy7
-    verified: true
-    hashtags: "#mavis, #tedxkocadere, #garagaradu, #tbt"
   - username: "berkulusoyyyy"
     fullname: >-
       🐼Big Panda🐼
@@ -103,6 +91,18 @@ profiles:
     id: ck5c892rd908i0i11mlvd60a4
     verified: false
     hashtags: "#evdekal, #harleen, #dccomics, #jbcyay"
+  - username: "zeyneptugcebayat"
+    fullname: >-
+      zeynep tugce bayat
+    bio: >-
+      Actress | Actriz | Comédienne | Management: @ph7entertainment Digital: zeyneptugce@theverticalz.com
+    location: "Turkey"
+    followers: 1371735
+    engagement: 73
+    commentsToLikes: 0.007760
+    id: ck5q7s8kt2vtf0i11hiroxc58
+    verified: true
+    hashtags: "#travelgram, #traveler, #france, #reklam"
   - username: "sanatsokakta.official"
     fullname: >-
       Emre Balım

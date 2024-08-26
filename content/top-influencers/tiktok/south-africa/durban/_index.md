@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Durban In 2023
+title: Top 10 TikTok Influencers In Durban In 2024
 description: >-
-  Find top TikTok influencers in Durban in 2023. Most popular hashtags: #foryoupage #tiktoksa #durban #southafrica.
+  Find top TikTok influencers in Durban in 2024. Most popular hashtags: #foryoupage #tiktoksa #southafrica #durban.
 platform: TikTok
 hits: 14
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 14 TikTok influencers like this in Durban, South Africa for you to contact.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our platform holds 14 TikTok influencers like this in Durban, South Africa for you to work with.
 profiles:
   - username: "clintonseach"
     fullname: >-
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.023511
     id: ck978grmd7wvg0j78yyqurpn3
     verified: true
-    hashtags: "#aesthetic, #photocrop, #vibes, #music"
+    hashtags: "#fy, #vibes, #pinterest, #colorcustomizer"
   - username: "nicolasubben"
     fullname: >-
       Nicola Subben

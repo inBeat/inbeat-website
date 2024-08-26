@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Norway In 2023
+title: Top 10 Beauty TikTok Influencers In Norway In 2024
 description: >-
-  Find top beauty TikTok influencers in Norway in 2023. Most popular hashtags: #fyp #foryou #beauty #viral.
+  Find top beauty TikTok influencers in Norway in 2024. Most popular hashtags: #fyp #foryou #beauty #viral.
 platform: TikTok
 hits: 17
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: inBeat holds 17 TikTok influencers like this in Norway for you to connect with.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat has 17 TikTok influencers like this in Norway for you to connect with.
 profiles:
   - username: "dasheys"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.019010
     id: cka0fmwdz063b0i784wmotrdu
     verified: true
-    hashtags: "#tik, #fun, #hjelp, #girls"
+    hashtags: "#vibe, #stopp, #sad, #ny"
   - username: "nubbsofchubb"
     fullname: >-
       Chubbnubb
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.009139
     id: ckbbo6yowc6s40j236c07tbnc
     verified: false
-    hashtags: "#aries, #xyzbca, #girls, #foryou"
+    hashtags: "#xyzbca, #fyp, #foryou, #aries"
   - username: "jost1peders1"
     fullname: >-
       Jostein

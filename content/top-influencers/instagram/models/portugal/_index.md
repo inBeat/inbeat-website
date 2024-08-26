@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Portugal In 2023
+title: Top 10 Models Instagram Influencers In Portugal In 2024
 description: >-
-  Find top models Instagram influencers in Portugal in 2023. Most popular hashtags: #fashion #lisboa #ootd.
+  Find top models Instagram influencers in Portugal in 2024. Most popular hashtags: #prozisportugal #prozis #exceedyourself.
 platform: Instagram
-hits: 56
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 56 Instagram influencers like this in Portugal for you to connect with.
+hits: 71
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 71 Instagram influencers like this in Portugal for you to pitch.
 profiles:
-  - username: "tiago.mmteixeira"
+  - username: "gwenpique"
     fullname: >-
-      Tiago Teixeira
+      Gwen Piqué
     bio: >-
-      Model ,, Drummer ,, Athlete PR , Digital & Brands : gustavo@centralmodels.pt 🇵🇹: @centralmodels 🌍: @sugar__kids
+      @platformagencyamsterdam @models1
     location: "Portugal"
-    followers: 20341
-    engagement: 815
-    commentsToLikes: 0.208951
-    id: ck6uco3lzgp0c0j71bqxh1rn9
+    followers: 5487
+    engagement: 526
+    commentsToLikes: 0.035949
+    id: ckw9lqbf1jwgm0j238o6pauei
     verified: false
-    hashtags: "#dejavu, #dejavucover, #drums, #peaches"
-  - username: "phoenix.vida"
+    hashtags: ""
+  - username: "nuno_gemeos_moreira"
     fullname: >-
-      Art♥Beauty♥Lifestyle♥Fashion
+      Nuno Moreira
     bio: >-
-      Educator｜Artist｜#HKKOL Portuguese mixed🇵🇹 #influencer #Model 👉🏻𝘔𝘢𝘨𝘢𝘻𝘪𝘯𝘦, 𝘚𝘶𝘯𝘥𝘢𝘺𝘒𝘪𝘴𝘴, 𝘏𝘢𝘱𝘱𝘺𝘱𝘢𝘮𝘢 𝘦𝘵𝘤 📩Please DM for JoB／Collab
+      CEO - Escola de dança Gémeos Moreira Choreographer at TV show Dancing with the stars Model Twitter: twinfitness1
     location: "Portugal"
-    followers: 20301
-    engagement: 422
-    commentsToLikes: 0.087758
-    id: ckf5vfj3loeqa0j23pi7yo2fw
+    followers: 134226
+    engagement: 705
+    commentsToLikes: 0.028998
+    id: ckaozbg76l4od0i782zr49zhr
     verified: false
-    hashtags: "#vidadephoenix, #beautyshare, #hkfoodie, #naturalbeauty"
-  - username: "yogawith.iva"
+    hashtags: "#andrewchristianmodel, #blacknwhite, #body, #paris"
+  - username: "jani_gabriel"
     fullname: >-
-      ivazanotte
+      Jani
     bio: >-
-      🇵🇹 💪instructor stretching 👚👖yoga model 👉IVA20 my code for discount 👇 🧘‍♂️@yantraconnection Embassador 👵grandmother 👩‍👧‍👧mother of 2 @yoga.feminine
+      🧿 hello.janigabriel@gmail.com Model & TV Host /Apresentadora TV 🎤 Psychology 🧠 Clinical Neuropsychology student 🤓 Management @glam.celebrity
     location: "Portugal"
-    followers: 16826
-    engagement: 331
-    commentsToLikes: 0.304315
-    id: ckapauezvxic70i78ot2ctr0a
-    verified: false
-    hashtags: "#yogafeature, #yogasanas, #pilateiras, #faroalgarveportugal"
-  - username: "_raquelsampaio_"
-    fullname: >-
-      𝐑𝐚𝐪𝐮𝐞𝐥 𝐒𝐚𝐦𝐩𝐚𝐢𝐨
-    bio: >-
-      Asian | African | European • Model @lagence_lisboa • TV Host @famashowoficial • Engineer to be 📩 sarasaavedra@lagence.pt
-    location: "Portugal"
-    followers: 82721
-    engagement: 715
-    commentsToLikes: 0.004114
-    id: ck5zoglckqiti0i14hnigyifg
+    followers: 77943
+    engagement: 345
+    commentsToLikes: 0.010749
+    id: ck5q5msaitkpm0i11zh2ki7ye
     verified: true
-    hashtags: "#sensibio, #1down100togo, #lorealparispub, #pub"
-  - username: "kevinsampaiotwin"
+    hashtags: "#bali, #indonesia, #uluwatu, #makeup"
+  - username: "sandra_ramos_fernandes"
     fullname: >-
-      Kevin Sampaio
+      Sandra Fer
     bio: >-
-      •Portuguese model 🇵🇹 •Twin brother with @jonathansampaio •Currently living in NYC 🇺🇸
+      Face Models My booker: pedro@facemodels.pt CC
     location: "Portugal"
-    followers: 104598
-    engagement: 297
-    commentsToLikes: 0.026761
-    id: ck5btkddmg4fv0i11z5m30slo
+    followers: 10220
+    engagement: 972
+    commentsToLikes: 0.025373
+    id: ck5zx3flt79sj0i14yz5yp1i3
+    verified: false
+    hashtags: "#wlyg, #prozisportugal, #prozis, #excedeyourself"
+  - username: "filipaofficial"
+    fullname: >-
+      A Patroa 🤍
+    bio: >-
+      People will stare so make it worth while ✨ TVD / 23y.o / Model 🎬 Connect w/ me 👇🏼
+    location: "Portugal"
+    followers: 24429
+    engagement: 237
+    commentsToLikes: 0.035640
+    id: ckap1tvcfw4fj0i78zaoj3lmd
+    verified: false
+    hashtags: "#prozis, #ad, #sheingals, #exceedyourself"
+  - username: "cassandra.chiu"
+    fullname: >-
+      Cass🎀
+    bio: >-
+      portuguese chinese🇵🇹🇨🇳 yes I speak cantonese🫶🏻 freelance creator dancer mc model🌈/* @cassandras.portfolio @jorgeisthebest🧸🗝 dm/email for collab/work🖤
+    location: "Portugal"
+    followers: 73308
+    engagement: 206
+    commentsToLikes: 0.000720
+    id: clswn1nuxyp7k0k0843vczlii
+    verified: false
+    hashtags: "#explore, #instareels, #thebigapplegalaxy, #thebigapple"
+  - username: "valtinhodelcampo"
+    fullname: >-
+      Valter Silva
+    bio: >-
+      Retired Superhero 🦸🏼‍♂️ Engineer, Entrepreneur and Model 🇵🇹🇬🇧🇦🇷
+    location: "Portugal"
+    followers: 140219
+    engagement: 202
+    commentsToLikes: 0.005470
+    id: ck0w683gp7bn10i19a0rux850
+    verified: false
+    hashtags: "#larvotto, #larvottobeach, #citywanderer, #lisbonlove"
+  - username: "bernardogirao"
+    fullname: >-
+      Bernardo Girão
+    bio: >-
+      portuguese model shop my clothes at @bernardogirao_closet
+    location: "Portugal"
+    followers: 101530
+    engagement: 172
+    commentsToLikes: 0.264495
+    id: ck6tljkgp63q50j71dp7cyo60
     verified: true
-    hashtags: "#nyc, #design, #fashion, #art"
-  - username: "iamfabioteles"
+    hashtags: "#fashionnovapartner, #siksilkdecembercollection, #followthemovement"
+  - username: "jonathansampaio"
     fullname: >-
-      F A B I O • T E L E S
+      Jonathan Sampaio
     bio: >-
-      - @centralmodels 🇵🇹 @nevsmodels 🇬🇧 For model, Digital & Brands: • Gustavo@centralmodels.pt (manager) - @myproteinpt Ambassador
+      •🇵🇹 represented by @weare_models and @nextmodels 🇺🇸•Twin with @kevinsampaiotwin •currently living in New York City
     location: "Portugal"
-    followers: 219684
-    engagement: 369
-    commentsToLikes: 0.011520
-    id: ck5qdynmfxw7z0i118o9xwukj
-    verified: false
-    hashtags: "#porto, #lisboa, #algarve, #outfit"
-  - username: "magui_corceiro"
-    fullname: >-
-      Margarida Corceiro
-    bio: >-
-      🇵🇹 Actress / Model Acting Agent: leonorbaboactores@gmail.com PR, Digital & Brands: beatrizalves@centralmodels.pt
-    location: "Portugal"
-    followers: 1173479
-    engagement: 1238
-    commentsToLikes: 0.002090
-    id: ck6tq17rrou050j71ypufu2i3
+    followers: 112031
+    engagement: 168
+    commentsToLikes: 0.025504
+    id: ck5btkc5pg4d30i11y71l0q03
     verified: true
-    hashtags: "#uniplaces, #casasemlisboa, #pub, #whmagui"
-  - username: "diogoalmeidacunha"
+    hashtags: "#summertime, #portrait, #jonathansampaio, #sampaiotwins"
+  - username: "luisborgesoficial"
     fullname: >-
-      Diogo Cunha
+      Luis Borges
     bio: >-
-      • Portugal 🇵🇹 • Digital Creator / Model • diogocunhateam@gmail.com
+      Founder and Creative Director @callmegorgeousstore Model @centralmodels TV | Digital | Brands | Press @lagence_lisboa
     location: "Portugal"
-    followers: 125138
-    engagement: 101
-    commentsToLikes: 0.137617
-    id: ck5zm3t05lufs0i14g3ls3b2q
-    verified: false
-    hashtags: "#look, #pic, #ootd, #style"
-  - username: "henriquesadio"
-    fullname: >-
-      H E N R I Q U E   S A D I O
-    bio: >-
-      ✖️ Photographer & Model ✖️ Based in #Lisbon ✖️ Email: sandrosadio@gmail.com
-    location: "Portugal"
-    followers: 19174
-    engagement: 349
-    commentsToLikes: 0.077940
-    id: ck6tzni0paqyv0j711dovhaoc
-    verified: false
-    hashtags: "#bandanas, #bandanastyle, #modafashion, #lisboa"
-  - username: "_helderafonso_"
-    fullname: >-
-      Helder Afonso
-    bio: >-
-      "Put everything you are into the smallest thing you do."RR Portuguese Model | Central🇵🇹| Berta🇪🇸| Next🇬🇧| Crew🇮🇹| TwoLA🇺🇸|Q NY🇺🇸
-    location: "Portugal"
-    followers: 32178
-    engagement: 628
-    commentsToLikes: 0.015891
-    id: ck5pz1af7ys2z0i11khhbq95z
-    verified: false
-    hashtags: "#intimissimiuomo, #summer, #ad, #nightwear"
+    followers: 240780
+    engagement: 85
+    commentsToLikes: 0.000185
+    id: ck55kbabjywzc0i11z4my183i
+    verified: true
+    hashtags: "#risedeltaqwithstarck, #pub, #risedeltaq, #perfectlyinreverse"
 ---

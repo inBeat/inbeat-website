@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Toronto In 2023
+title: Top 10 TikTok Influencers In Toronto In 2024
 description: >-
-  Find top TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #trending #foryoupage.
+  Find top TikTok influencers in Toronto in 2024. Most popular hashtags: #fyp #trending #duet.
 platform: TikTok
-hits: 995
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 995 TikTok influencers like this in Toronto, Canada for you to contact.
+hits: 1000
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine holds 1000 TikTok influencers like this in Toronto, Canada for you to pitch.
 profiles:
   - username: "bigchungasmode"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.053552
     id: ckce054suhjo50j23g8e69eoi
     verified: false
-    hashtags: "#art, #toronto, #iykyk, #rnb"
+    hashtags: "#rareaesthetic, #art, #iykyk, #dogsoftiktok"
   - username: "_daniielaxo"
     fullname: >-
       ♡︎daniela♡︎
@@ -91,6 +91,18 @@ profiles:
     id: ckajbi89jntlg0i78azy3nq6f
     verified: false
     hashtags: "#canadianmallus, #friends, #toronto, #tiktok"
+  - username: "corinnehaddad"
+    fullname: >-
+      corinne
+    bio: >-
+      Toronto
+    location: "Canada"
+    followers: 11200
+    engagement: 364
+    commentsToLikes: 0.059105
+    id: cka9m58jg3y0l0i78f7t67l6r
+    verified: false
+    hashtags: "#duet"
   - username: "sukhgill110"
     fullname: >-
       Sukh Gill11
@@ -115,16 +127,4 @@ profiles:
     id: ckacwliqht40d0i78ch265rpz
     verified: false
     hashtags: "#duet, #fyp, #boo, #pumpkinseason"
-  - username: "stevencrompton37"
-    fullname: >-
-      Steven Crompton
-    bio: >-
-      Toronto
-    location: "Canada"
-    followers: 27600
-    engagement: 214
-    commentsToLikes: 0.015614
-    id: ck8toyjdqogyn0j780z3ofx3h
-    verified: false
-    hashtags: "#streetwear, #foryoupage, #golffail, #ericemanuel"
 ---

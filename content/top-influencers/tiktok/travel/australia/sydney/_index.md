@@ -1,10 +1,10 @@
 ---
-title: Top 10 Travel TikTok Influencers In Sydney In 2023
+title: Top 10 Travel TikTok Influencers In Sydney In 2024
 description: >-
-  Find top travel TikTok influencers in Sydney in 2023. Most popular hashtags: #sydney #foryou #australia #travel.
+  Find top travel TikTok influencers in Sydney in 2024. Most popular hashtags: #sydney #foryou #australia #travel.
 platform: TikTok
 hits: 47
-text_top: Identify the top-rated TikTok profiles on inBeat.
+text_top: See the most popular TikTok influencers on inBeat.
 text_bottom: Our database aggregates 47 TikTok influencers like this in Sydney, Australia for you to pitch.
 profiles:
   - username: "helenchikx"

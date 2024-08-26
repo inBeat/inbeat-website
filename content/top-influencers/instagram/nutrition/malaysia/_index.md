@@ -1,12 +1,48 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Malaysia In 2023
+title: Top 10 Nutrition Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top nutrition Instagram influencers in Malaysia in 2023. Most popular hashtags: #reels #reelsinstagram #fitness #reelitfeelit.
+  Find top nutrition Instagram influencers in Malaysia in 2024. Most popular hashtags: #love #fitness #malaysia.
 platform: Instagram
-hits: 8
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 8 Instagram influencers like this in Malaysia for you to collaborate.
+hits: 14
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 14 Instagram influencers like this in Malaysia for you to contact.
 profiles:
+  - username: "siulim"
+    fullname: >-
+      Siu Lim
+    bio: >-
+      Cert Pilates Instructor @theflowstudio | Content Creator | Cert Nutritionist | fitness | lifestyle | Mother of 4 l hisiulim@gmail.com
+    location: "Malaysia"
+    followers: 67181
+    engagement: 1441
+    commentsToLikes: 0.029992
+    id: ck5q1rlptcfmz0i11mepegscy
+    verified: false
+    hashtags: "#100peratusmantap, #larocheposaymy, #nodandruff, #pasticlear"
+  - username: "_boblow"
+    fullname: >-
+      bob low 刘丝儿
+    bio: >-
+      yoga + health + nutrition ♡ love love everybody ~ ♡ 🍟 @rightside.my @luv_fits
+    location: "Malaysia"
+    followers: 103347
+    engagement: 375
+    commentsToLikes: 0.018019
+    id: ck5c5iynj3kba0i11q6datx22
+    verified: false
+    hashtags: "#happyfriday, #lbootd, #lbhaul, #shopeecelebritysquadmy"
+  - username: "nanabebu"
+    fullname: >-
+      ! 娜娜 Nana Bebu 🐝🌼
+    bio: >-
+      🌱 NASM Certified Nutrition Coach 🏋🏻‍♀️ Fitness 💋 Beauty ✈️ Travel 🇲🇾🌍 ✨ YouTuber 📹 . . 🌟 ᴄᴏʟʟᴀʙ 📩 nanabebu@hotmail.com
+    location: "Malaysia"
+    followers: 312070
+    engagement: 40
+    commentsToLikes: 0.000764
+    id: ck0w5fbca3d8s0i19tpgao8ym
+    verified: false
+    hashtags: "#reopening, #lazadamy, #lamerskincare, #lazadamy1212"
   - username: "hannaqeela"
     fullname: >-
       Hanna Aqeela
@@ -31,18 +67,54 @@ profiles:
     id: ck6ttba7y9n3g0j71nflt3vht
     verified: false
     hashtags: "#amazingthailand, #levytwinsjourney, #levytravels, #chinesenewyear2021"
-  - username: "vireema"
+  - username: "colleenaugustinmma"
     fullname: >-
-      Reema
+      Colleen Augustin | MMA Fighter
     bio: >-
-      Free soul #Nutritionist & #Yoga instructor Moj Id @vireema
+      Kasun J. Botheju 💍❤️ @belifmalaysia “BELIFCOLL” @myprotein “COLLEEN” @samsungmalaysia “CAUGW5”
     location: "Malaysia"
-    followers: 476408
-    engagement: 438
-    commentsToLikes: 0.016385
-    id: ck0ua71hsbm2h0i19yohlwtn9
+    followers: 11479
+    engagement: 470
+    commentsToLikes: 0.021778
+    id: ck0u22cyoyooh0i19ffdyivtt
     verified: false
-    hashtags: "#reels, #stayhappy, #goodvibes, #nofilter"
+    hashtags: "#gym, #throwback, #fitness, #girlswhofight"
+  - username: "sweatlee"
+    fullname: >-
+      Suet Li
+    bio: >-
+      👩‍🏫 Passionate Malaysian and advocate for educational excellence and equity 💉 @sweatlee_ivf for updates on my IVF journey 💌 suetliliew@gmail.com
+    location: "Malaysia"
+    followers: 28121
+    engagement: 483
+    commentsToLikes: 0.015588
+    id: ck8t44cur5gwv0j78svwzrlez
+    verified: false
+    hashtags: "#blw, #kidsrecipes, #12monthsold, #babyrecipes"
+  - username: "pschan88"
+    fullname: >-
+      陈炳顺Chan Peng Soon
+    bio: >-
+      Rio Olympic sliver medalist badminton 🏸
+    location: "Malaysia"
+    followers: 222602
+    engagement: 372
+    commentsToLikes: 0.005867
+    id: ck5bwlrh5ly4e0i11r23equs9
+    verified: false
+    hashtags: "#protech, #seikomy, #seikomalaysia, #prospex"
+  - username: "thierrychanthabin"
+    fullname: >-
+      Thierry Chantha Bin
+    bio: >-
+      Professional footballer 🇰🇭⚔️🔵 Impossible is nothing🙏 @athlete_trainoff🛡️⚽ @katesutherlnd 👶👶👸❤
+    location: "Malaysia"
+    followers: 126609
+    engagement: 19
+    commentsToLikes: 0.005797
+    id: ck5zt7jq0zvsd0i14fch3bkj9
+    verified: true
+    hashtags: "#phnompenh, #cambodia, #love, #family"
   - username: "hossein_salimzadeh"
     fullname: >-
       Hossein Salimzadeh
@@ -55,52 +127,4 @@ profiles:
     id: ck5q33mrvj27u0i11myxyywt3
     verified: false
     hashtags: "#kurd, #kurdish, #bodybuilding, #oman"
-  - username: "juliewoon"
-    fullname: >-
-      Julie Woon
-    bio: >-
-      Emcee | TV Host | Automotive enthusiast Live | Love | Laugh | 🇲🇾🇲🇾🇲🇾
-    location: "Malaysia"
-    followers: 56124
-    engagement: 268
-    commentsToLikes: 0.017509
-    id: ck14knobyqf3o0i19coljaor3
-    verified: false
-    hashtags: "#workout, #cny2021, #homeworkout, #workoutoftheday"
-  - username: "ragunathan24"
-    fullname: >-
-      Ragunathan (Men Of Steel)
-    bio: >-
-      🇲🇾 bodybuilder • Trainer/coach • Mr.Malaysia 2014 ( C.O.C )🏆 • Mr.Johor 2x ( C.O.C )🏆 • Men OF Steel 2014 🥇 • IFBB Regional SCC 2019 (C.O.C)🏆
-    location: "Malaysia"
-    followers: 16137
-    engagement: 686
-    commentsToLikes: 0.043163
-    id: ck15sjqdkdcsh0i1948xpciq0
-    verified: false
-    hashtags: "#igfitfam, #swole, #ootd, #instafitness"
-  - username: "aboydatingfood"
-    fullname: >-
-      ABoyDatingFood©|Nashik Blogger
-    bio: >-
-      Filling Our Feed With Delicious Food🤤 Food | Travel | Photography Exploring Food From Street To Cuisine Mail/Dm For Collaboration And Review📥 Goal:10k
-    location: "Malaysia"
-    followers: 9711
-    engagement: 802
-    commentsToLikes: 0.236333
-    id: ckf5ro7ncddlq0j230ic72p5y
-    verified: false
-    hashtags: "#fries, #mumbaifoodie, #indianfood, #foodphotography"
-  - username: "gookgiik_kochakorn"
-    fullname: >-
-      กุ๊กกิ๊ก กชกร
-    bio: >-
-      CH7 (Work) K.pinit 084-9165656 Review DM Tiktok:gookgiik21 @yuzuyuzubkk #utcc
-    location: "Malaysia"
-    followers: 490752
-    engagement: 84
-    commentsToLikes: 0.004424
-    id: ck15qaf5o1vxv0i198u4cpz61
-    verified: true
-    hashtags: "#nutritious, #ningpanita, #brunobrowniecrisp, #brunohealthysnack"
 ---

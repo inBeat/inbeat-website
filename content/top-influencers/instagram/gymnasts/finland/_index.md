@@ -1,24 +1,12 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Finland In 2023
+title: Top 10 Gymnasts Instagram Influencers In Finland In 2024
 description: >-
-  Find top gymnasts Instagram influencers in Finland in 2023. Most popular hashtags: #gymnastics #voimistelu #flexibility #helsinki.
+  Find top gymnasts Instagram influencers in Finland in 2024. Most popular hashtags: #gymnastics #love #finland #nature.
 platform: Instagram
-hits: 13
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 13 Instagram influencers like this in Finland for you to collaborate.
+hits: 14
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 14 Instagram influencers like this in Finland for you to collaborate.
 profiles:
-  - username: "joukiaino"
-    fullname: >-
-      Jouki Tikkanen
-    bio: >-
-      FIN✨ Rhythmic gymnastics World AA finalist RG coach Grand Prix, World Cup finalist 🌸 Finnish Champion x 28 🏆 National team member 2010-2019 🇫🇮
-    location: "Finland"
-    followers: 7595
-    engagement: 1520
-    commentsToLikes: 0.011062
-    id: ck5qa5uryep7d0i11atl4s0i4
-    verified: false
-    hashtags: "#piruetti, #tampereensisu, #2019, #lapirouette"
   - username: "anttonlaine"
     fullname: >-
       Antton Laine
@@ -43,18 +31,6 @@ profiles:
     id: ck5hmxkxsmtd40i11t8qzg5q9
     verified: false
     hashtags: "#joukkuevoimistelu, #ovofi, #voimistelu, #ifagg"
-  - username: "laura.kaartinen"
-    fullname: >-
-      Laura | Lifestyle | Sport
-    bio: >-
-      𝕄𝕠𝕞𝕞𝕪𝕝𝕚𝕗𝕖 𝕨𝕚𝕥𝕙 𝕥𝕙𝕣𝕖𝕖👧🏼👦🏼👧🏼 𝕊𝕡𝕠𝕣𝕥 𝕚𝕤 𝕞𝕪 𝕡𝕒𝕤𝕤𝕚𝕠𝕟❤️ 𝔾𝕠𝕠𝕕𝕧𝕚𝕓𝕖𝕤 𝕒𝕟𝕕 𝕟𝕠𝕥 𝕤𝕠 𝕤𝕖𝕣𝕚𝕠𝕦𝕤𝕝𝕪 Collab➡️Dm ✉️ •@place_oflove •Linkit👇🏼Klikkaa auki 🎀
-    location: "Finland"
-    followers: 9233
-    engagement: 865
-    commentsToLikes: 0.180607
-    id: ck9hck99glsd90j78hx3r1844
-    verified: false
-    hashtags: "#homesweethome, #smile, #inked, #mommylife"
   - username: "rhythmicgym_rg"
     fullname: >-
       RHYTHMIC GYMNASTICS 🌍
@@ -67,6 +43,30 @@ profiles:
     id: ck8tb42mzu6j20j78jv7rv2ft
     verified: false
     hashtags: "#rhythmic, #rhythmicgymnastics, #gymnastics, #rgrussia"
+  - username: "jorikotis"
+    fullname: >-
+      J O R I   K O T A - A H O 🇫🇮
+    bio: >-
+      ◾️ Dad ◾️ Husband ◾️ Coach ◾️ Mover ◾️ Vegan
+    location: "Finland"
+    followers: 13116
+    engagement: 1404
+    commentsToLikes: 0.013558
+    id: ck6trctegy98e0j71oijjv64x
+    verified: false
+    hashtags: "#flexibility, #rakkaus, #terveys, #vegaaninen"
+  - username: "linaz_jani"
+    fullname: >-
+      LINAZ
+    bio: >-
+      🔶7 years 🔸Finland 🇫🇮 🔶Account run by mum 🔶Linaz_jani@hotmail.com 🔶snapchat👻 Linaz_jani
+    location: "Finland"
+    followers: 39547
+    engagement: 331
+    commentsToLikes: 0.131180
+    id: ck6uhy4qibxbh0j71b5cdkyha
+    verified: false
+    hashtags: "#hmxme, #finland, #summervibes, #zarakids"
   - username: "monika_agarwall_04"
     fullname: >-
       Moni💖💖
@@ -79,18 +79,18 @@ profiles:
     id: ck9wh9d19wvay0j78vl96zkqp
     verified: false
     hashtags: "#model, #literasi, #post, #gururandhawa"
-  - username: "iidapeltonen"
+  - username: "szjudy"
     fullname: >-
-      Iida Peltonen
+      Judit Sziva
     bio: >-
-      Oikisopintoja ja reenihömpötystä. ✨🤍 ... sekä Simban elämää 🐶 💫 Team @barebells.fin ⚖ @universityofhelsinki 🏋🏼‍♀️ @crossfitherttoniemi 💍 @larimikaell
+      Stunt woman Parkour | Climbing | Martial arts 📍 Helsinki ⬇️ Girl fight video ⬇️
     location: "Finland"
-    followers: 8199
-    engagement: 966
-    commentsToLikes: 0.023424
-    id: ck8tbvy76xcxj0j78ec3duzjv
+    followers: 7238
+    engagement: 442
+    commentsToLikes: 0.060404
+    id: ck14ivjf2hcj10i19eo930pei
     verified: false
-    hashtags: "#opiskelu, #crossfit, #fitness, #opiskeluvinkit"
+    hashtags: "#parkourwomen, #tricking, #climbing, #sportmodel"
   - username: "vellusta"
     fullname: >-
       Veli-Matti Saarela
@@ -103,28 +103,28 @@ profiles:
     id: ck0vwd08rt5870i19ciyig56t
     verified: false
     hashtags: "#legendtrickgym, #trikkaus, #battleliiga, #martialarts"
-  - username: "pernillabockerman"
+  - username: "piruetti"
     fullname: >-
-      PERNILLA FANNY MATILDA
+      Valmistettu lähellä sinua🇫🇮
     bio: >-
-      🧡 Elämäntapana treenaaminen, 22 & Finlandssvensk Team @gymnation @noccofinland @myproteinfi 📩 salla@fament.fi Uusi kotitreeni joka ma 👉🏼 @podimo_fi
+      Kotimainen liikunnan erikoisliike! • Finnish quality sportswear #lapirouette #piruetti #madeintampere 📍Tampere Helsinki Turku
     location: "Finland"
-    followers: 205778
-    engagement: 355
-    commentsToLikes: 0.054876
-    id: ck5hl6tvujoa70i11k15pxcnu
+    followers: 13389
+    engagement: 936
+    commentsToLikes: 0.087316
+    id: ck5qa5veuep9a0i11wvkmhs0a
     verified: false
-    hashtags: "#yoga, #matsmartsuomi, #olematsmart, #ruokah"
+    hashtags: "#piruetti, #lapirouette, #madeintampere, #onhansiin"
   - username: "laurarosilla"
     fullname: >-
-      Laura Rosilla🦋
+      Laura Rosilla Laukka
     bio: >-
-      ⚡️valmentaja @herotreeni 🤎team @puhdistamo @barebells.fin @gymnation 🌿koodi ”LAURA15” -15% @puhdistamo 💌 laurarosilla@gmail.com 👇🏼3 vkon livevalmennus
+      🏃🏼‍♀️800m runner | team @gymnation @newbalance Autan sua löytämään liikunnan ilon ja jaksamaan arjessa❤️‍🔥 Wellness coaching👇🏼
     location: "Finland"
-    followers: 28860
-    engagement: 943
-    commentsToLikes: 0.024611
+    followers: 33438
+    engagement: 697
+    commentsToLikes: 0.006924
     id: ck5hfixf8xp850i112m1ipw45
     verified: false
-    hashtags: "#gymnationwear, #yvesrochernordic, #botanicalbeauty, #actbeautiful"
+    hashtags: "#juoksu, #onlinecoaching, #yleisurheilu, #gymnationwear"
 ---

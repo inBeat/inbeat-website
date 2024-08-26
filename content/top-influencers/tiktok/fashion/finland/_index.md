@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Finland In 2023
+title: Top 10 Fashion TikTok Influencers In Finland In 2024
 description: >-
-  Find top fashion TikTok influencers in Finland in 2023. Most popular hashtags: #fyp #fashion #foryoupage #foryou.
+  Find top fashion TikTok influencers in Finland in 2024. Most popular hashtags: #fyp #fashion #foryoupage #foryou.
 platform: TikTok
 hits: 10
 text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: inBeat has 10 TikTok influencers like this in Finland for you to pitch.
+text_bottom: Our database holds 10 TikTok influencers like this in Finland for you to contact.
 profiles:
   - username: "ywzzv"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.049110
     id: ckan3ziuz7n7t0i78arpz656w
     verified: false
-    hashtags: "#fyp, #foryoupage, #muslim, #model"
+    hashtags: "#fashion, #fyp, #foryoupage, #hijabi"
   - username: "nami.hani"
     fullname: >-
       Namikolinx
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.022024
     id: cka0fnd3g0anz0i78kz5zwv9z
     verified: false
-    hashtags: "#tiktoksuomi, #foryoupage, #fyp, #finland"
+    hashtags: "#fyp, #finland, #foryoupage, #tiktoksuomi"
   - username: "jejkobbb"
     fullname: >-
       Jejkobbb

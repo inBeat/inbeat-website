@@ -1,72 +1,84 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Canada In 2023
+title: Top 10 Gymnasts Instagram Influencers In Canada In 2024
 description: >-
-  Find top gymnasts Instagram influencers in Canada in 2023. Most popular hashtags: #gymnastics #fitness #strength #handstand.
+  Find top gymnasts Instagram influencers in Canada in 2024. Most popular hashtags: #gymnastics #handstand #olympics #dance.
 platform: Instagram
-hits: 18
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 18 Instagram influencers like this in Canada for you to connect with.
+hits: 27
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 27 Instagram influencers like this in Canada for you to contact.
 profiles:
+  - username: "twinyrez"
+    fullname: >-
+      Anjelika Reznik
+    bio: >-
+      📍Toronto • 2012 Olympic Gymnast 🇨🇦 RG Bronze Youth Olympics • 5x Pan Am Medalist 💌anjelika.reznik@olympian.org TIKTOK ⤵️ 100k followers
+    location: "Canada"
+    followers: 13597
+    engagement: 635
+    commentsToLikes: 0.150677
+    id: ck9hcwlrzn9vi0j78082apteg
+    verified: false
+    hashtags: "#throwback, #christmasdecor, #dubailife, #toronto"
+  - username: "evita.griskenas"
+    fullname: >-
+      Evita Griskenas, OLY
+    bio: >-
+      ✨Elegantly Fierce✨ TeamUSA Rhythmic Gymnast 🇺🇸 Tokyo 2020 Olympian 🎌 AA Pan-Am Games Champion🥇 Columbia University ‘24 🦁💙 2 Timothy 2
+    location: "Canada"
+    followers: 15566
+    engagement: 1012
+    commentsToLikes: 0.018504
+    id: ckf5ley6fpc3f0j23xbc3t6c2
+    verified: false
+    hashtags: "#japan, #tokyo2021, #elegantlyfierce, #olympian"
+  - username: "sydneybrown_xo"
+    fullname: >-
+      𝗦𝘆𝗱𝗻𝗲𝘆 𝗕𝗿𝗼𝘄𝗻
+    bio: >-
+      gymnast | alegria cirque du soleil sydneybrown_xo@hotmail.com
+    location: "Canada"
+    followers: 202046
+    engagement: 217
+    commentsToLikes: 0.011479
+    id: ck55o72j67rvo0i1113qd587b
+    verified: false
+    hashtags: "#jasper, #happiness, #canada, #gymnastics"
   - username: "gymnasticsshoutouts"
     fullname: >-
       Gymnastics/Dance/Cheer/Fitness
     bio: >-
       Hashtag photos/videos to #gymnasticsshoutouts collab: gymnasticsshoutouts@outlook.com 📨
     location: "Canada"
-    followers: 242291
-    engagement: 82
-    commentsToLikes: 0.004755
+    followers: 235623
+    engagement: 81
+    commentsToLikes: 0.005339
     id: ck139p0f7mf0s0i19zumh99ex
     verified: false
-    hashtags: "#gymnasticsshoutouts, #gymnastics, #xmas, #acroyoga"
+    hashtags: "#gymnasticsshoutouts, #xmas, #gymnastics, #dance"
   - username: "ashwatson92"
     fullname: >-
       Ashley Watson
     bio: >-
-      Cirque du Soleil Artist. Ex GBR Gymnast. ⬇️ 🎮 TWITCH 🎮 ⬇️
+      Ex GBR Gymnast The 'VOID' Champion 🥇 Guinness World Record Holder!
     location: "Canada"
-    followers: 72709
-    engagement: 787
-    commentsToLikes: 0.010590
+    followers: 74909
+    engagement: 765
+    commentsToLikes: 0.010395
     id: ck14jiws1kl160i19ykx6ddhy
     verified: false
-    hashtags: "#tbt, #cirquefam, #gsxr600, #ad"
-  - username: "sydneybrown_xo"
-    fullname: >-
-      𝗦𝘆𝗱𝗻𝗲𝘆 𝗕𝗿𝗼𝘄𝗻
-    bio: >-
-      gymnast | yyc 🇨🇦 sydneybrown_xo@hotmail.com
-    location: "Canada"
-    followers: 204086
-    engagement: 228
-    commentsToLikes: 0.018534
-    id: ck55o72j67rvo0i1113qd587b
-    verified: false
-    hashtags: "#happiness, #canada, #plankchallenge, #urgonightpartner"
+    hashtags: "#underthesamesky, #gsxr600, #ad, #bluesteel"
   - username: "ellieblack_"
     fullname: >-
       Ellie Black
     bio: >-
-      🇨🇦 Gymnast | 2x Olympian | ONS | Worlds 🥈 | Pan Am & CWG 🥇 | Halifax ⚓️ @adidasca athlete #RBCOlympian CANFund #150women Contact: mclarke@wearesbx.com
+      🇨🇦 Gymnast | 3x Olympian | ONS | Worlds 🥈 | Pan Am & CWG 🥇 | Halifax ⚓️ @adidasca athlete #RBCOlympian CANFund #150women Contact: mclarke@wearesbx.com
     location: "Canada"
-    followers: 59014
-    engagement: 467
-    commentsToLikes: 0.012002
+    followers: 75536
+    engagement: 783
+    commentsToLikes: 0.010703
     id: ckap19tfftnql0i781cmz001f
     verified: true
-    hashtags: "#teamcanada, #tokyo2021, #createdwithadidas, #readysteadytokyo"
-  - username: "alanadoust"
-    fullname: >-
-      Alana Doust- Home Workouts
-    bio: >-
-      🇦🇺Former Gymnast|Pole Vaulter 💪🏽 @alanadoustpt | Yoga & Pilates teacher FREE 5 DAY AB CHALLENGE👇🏽
-    location: "Canada"
-    followers: 6766
-    engagement: 480
-    commentsToLikes: 0.048013
-    id: ck0w2bp94nk3b0i19k45t9thk
-    verified: false
-    hashtags: "#homeworkouts, #homeworkout, #coreworkout, #handstandworkshop"
+    hashtags: "#jagwearpartner, #partner, #tokyo2020ne, #gymnastics"
   - username: "actress_ariana4"
     fullname: >-
       Ariana Williams
@@ -79,6 +91,30 @@ profiles:
     id: ck9hapxc9dkz00j788n98e87g
     verified: false
     hashtags: "#active, #love, #sweet, #actress"
+  - username: "ecarnie"
+    fullname: >-
+      Erin Carnie
+    bio: >-
+      Professional Circus Entertainment Flexibility/Contortion/Acro & Aerial Instructor Owner of @bendybodies Vancouver 🇨🇦 Book an Experience ⬇️
+    location: "Canada"
+    followers: 10662
+    engagement: 434
+    commentsToLikes: 0.049338
+    id: ck5hcrfc2jl2j0i11ih8kyk8h
+    verified: false
+    hashtags: "#yoga, #acroyoga, #fitgirls, #cirque"
+  - username: "slavagoloubov"
+    fullname: >-
+      Slava Goloubov
+    bio: >-
+      Creator of the Movement Flow System 🤸‍♀️ Humble students of the Human Body 🧠 Teaching Physical Education for over 12 Years 📚
+    location: "Canada"
+    followers: 96597
+    engagement: 56
+    commentsToLikes: 0.037834
+    id: ck8sw24lkdiub0j7840qyxrg4
+    verified: false
+    hashtags: "#movement, #super, #movementismedicine, #movementtraining"
   - username: "natasha_zaborski"
     fullname: >-
       Natasha Zaborski
@@ -91,40 +127,4 @@ profiles:
     id: ck9wow3c46u4s0j78orqtthr5
     verified: false
     hashtags: "#tvshows, #myperfectlanding, #gymnastics, #netflix"
-  - username: "ecarnie"
-    fullname: >-
-      Erin Carnie
-    bio: >-
-      Circus🤸🏼‍♀️Fitness🏋🏼‍♀️Wellness🧘🏼‍♀️ Flexibility&Acrobatics Coach🇨🇦 Contortionist/Aerialist/Dancer Owner of @bendybodies Van Plant Powered🌱♏️🦂
-    location: "Canada"
-    followers: 11919
-    engagement: 539
-    commentsToLikes: 0.059184
-    id: ck5hcrfc2jl2j0i11ih8kyk8h
-    verified: false
-    hashtags: "#handstands, #fitgirls, #fit, #yogainspiration"
-  - username: "kiana_ng"
-    fullname: >-
-      KIANA NG | Yoga + Handstands
-    bio: >-
-      ✨Yoga Teacher & Handstand Coach✨ • creator @bodytosoulmovement • dm for 1:1 sessions • handstand workshops • online classes ⭣ practice w/ me ⤵️
-    location: "Canada"
-    followers: 47188
-    engagement: 306
-    commentsToLikes: 0.041026
-    id: ckaorab4mmedq0i78tall95aa
-    verified: false
-    hashtags: "#photoshoot, #innerthighs, #yogapose, #yogalove"
-  - username: "alissesfitness"
-    fullname: >-
-      Alisse | Health & Fitness
-    bio: >-
-      
-    location: "Canada"
-    followers: 4484
-    engagement: 1007
-    commentsToLikes: 0.354554
-    id: ck8t4fmvv6m7d0j783a7wisfe
-    verified: false
-    hashtags: "#gainsville, #chestworkout, #eattogrow, #plantpowered"
 ---

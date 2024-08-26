@@ -1,24 +1,24 @@
 ---
-title: Top 10 Food Instagram Influencers In Dallas In 2023
+title: Top 10 Food Instagram Influencers In Dallas In 2024
 description: >-
-  Find top food Instagram influencers in Dallas in 2023. Most popular hashtags: #dallas #food #fitness #dallastexas.
+  Find top food Instagram influencers in Dallas in 2024. Most popular hashtags: #food #dallas #dallasrestaurants #foodie.
 platform: Instagram
-hits: 100
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 100 Instagram influencers like this in Dallas, United States for you to connect with.
+hits: 171
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 171 Instagram influencers like this in Dallas, United States for you to pitch.
 profiles:
-  - username: "nelliecronenn"
+  - username: "monroelapaislie"
     fullname: >-
-      Nellie Cronen
+      Dallas Makeup Artist
     bio: >-
-      Sailor | Bread Guru | Full time explorer🌎 US -> Bahamas -> 📍DR -> ... ⛵️ @sailingzola 🦈 @neptunic_com Follow along on YouTube as well❤️⬇️
+      📍Dallas, Tx GLAM Studio: @monroelapaisliestudio Link below for booking! 🚨NO DMS🚨
     location: "United States"
-    followers: 234087
-    engagement: 128
-    commentsToLikes: 0.021876
-    id: ck8sxgbdshaez0j78n5o0pyfd
+    followers: 27742
+    engagement: 303
+    commentsToLikes: 0.033740
+    id: ckv23d1f7wfvd0j23xwxo56nu
     verified: false
-    hashtags: "#bahamas, #sailing, #bikini, #swimsuit"
+    hashtags: "#photography, #dallasmakeupartist, #hairandmakeup, #model"
   - username: "desmondmarie"
     fullname: >-
       Bye Quida! ♓️
@@ -31,18 +31,18 @@ profiles:
     id: ck14gr9p36mi90i19note83x5
     verified: false
     hashtags: "#tuesday, #original, #mebeingme, #desmondmarie"
-  - username: "dina.thimslick"
+  - username: "eatindallas"
     fullname: >-
-      I AM HER!😤
+      Eat in Dallas - Josh Wilbanks
     bio: >-
-      25 ♈️ IRAQI 🇮🇶 📍Arlington/Dallas TX ▫️MEAL PLANS 🥦 & meals 🍱 ▫️MACRO COACHING ▫️1 on 1 & group training 🏋🏽‍♀️ YouTube: Dina.thimslick 🎥
+      📍Your guide to Dallas • Texas • DFW ⭐️ North Texas hot spots & hidden 💎s 🏆 Best Food Influencer | @dallasobserver 📧 eatindallas@gmail.com TIKTOK 110K
     location: "United States"
-    followers: 31941
-    engagement: 249
-    commentsToLikes: 0.029385
-    id: ck134pj8oxkru0i196cnnblos
+    followers: 123950
+    engagement: 514
+    commentsToLikes: 0.044387
+    id: cl2uhrvrzu98n0i23pfexpnvx
     verified: false
-    hashtags: "#instafit, #instamood, #trainhard, #fit"
+    hashtags: "#mexicanfood, #dfweats, #dallasrestaurants, #dallasfoodie"
   - username: "suellasmr"
     fullname: >-
       Suella
@@ -55,76 +55,76 @@ profiles:
     id: ck13byudrxt7k0i19indff1rh
     verified: false
     hashtags: "#instafood, #yummy, #noodles, #spicynoodles"
-  - username: "fashionablylateboymom"
+  - username: "tierrajenaae"
     fullname: >-
-      Letty | DFW Influencer
+      Tierra Jenae Giles
     bio: >-
-      Fashion + Fitness + Food Obsessed with Tacos&Spicy Margaritas & Working Out 💌 Fashionablylateboymom@gmail.com 📍Dallas Tx
+      Multifaceted | Model• Actress• Coach• Designer
     location: "United States"
-    followers: 17993
-    engagement: 70
-    commentsToLikes: 0.320487
-    id: ck5qaykpxixhm0i11xg3o2xkk
+    followers: 14824
+    engagement: 665
+    commentsToLikes: 0.074201
+    id: ck5c4ucm324hw0i11n4geck2p
     verified: false
-    hashtags: "#dallas, #dallasblogger, #ootn, #dallasfitnessambassadors"
-  - username: "mindykimdaily"
+    hashtags: "#dcmodel, #natural, #film, #highfashion"
+  - username: "ashleydaniellemeadows"
     fullname: >-
-      Mindy Kim
+      Ashley Danielle Meadows
     bio: >-
-      💫PCOS 🦋 Relatable wellness tips for women ✖ Create Daily habits ✖ Sustainable routines #TIUteam #thatdailyglow
+      faith + motherhood + everything in between ✨ Wife • @iammichaelmeadows 💍 Mama • Johnathon + Olivia 🤍 Founder • @womanunleashed.inc
     location: "United States"
-    followers: 7463
-    engagement: 362
-    commentsToLikes: 0.130888
-    id: ck5q6ysajzbqi0i117c7kwr8b
+    followers: 20261
+    engagement: 146
+    commentsToLikes: 0.059465
+    id: cl6m47w3wkl9u0i23fqs1s8tb
     verified: false
-    hashtags: "#sundayfunday, #tiucommunity, #toneitupxtarget, #loveyourself"
-  - username: "anjelicacirone"
+    hashtags: "#blacklove, #funnyreels, #expectingmom, #momofboth"
+  - username: "lifewitheunie"
     fullname: >-
-      A N J E L I C A
+      Eunie | Dallas Food & Life
     bio: >-
-      💪 Trainer at @bodymachinefitness 📍 Dallas ❤️ University of Louisville All-Girl Cheerleader alumna 🇺🇸 2X USA World Champion
+      🇰🇷✝️ 👩🏻‍💼CRE | TX Retail/Early Education Sales Specialist 📍Dallas | Carrollton | Plano | Frisco 💌 collabswitheunice@gmail.com
     location: "United States"
-    followers: 4889
-    engagement: 1076
-    commentsToLikes: 0.064432
-    id: ckaoynh0ai8w10i78e9maxo2e
+    followers: 12272
+    engagement: 787
+    commentsToLikes: 0.346941
+    id: cljqq2yh1t5820j08u51donyy
     verified: false
-    hashtags: "#lululemon, #fitnessmotivation, #frisco, #activelifestyle"
-  - username: "marricaevans"
+    hashtags: "#koreanfriedchicken, #morethanamovie, #wanderlust, #onlyatcineopolis"
+  - username: "kellysimplyeats"
     fullname: >-
-      DIGITAL CONTENT PHOTOGRAPHER
+      Kelly | Dallas Food & Travel
     bio: >-
-      ✨I help influencers + business owners create recurring content that attracts their target audience and tells the brands story. 👇🏾 Join The Waitlist!
+      🇰🇷🇺🇸 💖I simply love to eat & travel ✈️ 🍜Your Dallas guide to Asian food 🧋I love being a Barista at Bucees🥤 🌟Tiktok 91k+ ⇩Hit me up to collab
     location: "United States"
-    followers: 11041
-    engagement: 822
-    commentsToLikes: 0.038622
-    id: ck139363cjaaa0i19mfb1ae7g
+    followers: 29312
+    engagement: 359
+    commentsToLikes: 0.109711
+    id: cl9u3cvson4q80i23z6bumr5i
     verified: false
-    hashtags: "#dallasblogger, #contentphotographer, #dallasphotographer, #dallasbloggers"
-  - username: "candiceeatsnyc"
+    hashtags: "#dallaskoreanrestaurant, #dallasrestaurants, #dallasthingstodo, #koreanfood"
+  - username: "txfoodiemama"
     fullname: >-
-      Candice’s Food Journal
+      Lauren | Dallas Food Photographer
     bio: >-
-      I run on coffee and sugar ☕️🍪 📍nyc | chi | tx | 🇨🇦 | 💌 hi.candiceeats@gmail.com #YelpElite
+      📸 𝗢𝗿𝗴𝗮𝗻𝗶𝗰/𝗡𝗮𝘁𝘂𝗿𝗮𝗹 𝗟𝗶𝗴𝗵𝘁 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗲𝗿 👩🏽‍💻𝙲𝚘𝚗𝚝𝚎𝚗𝚝𝙲𝚛𝚎𝚊𝚝𝚘𝚛 | 👩🏽‍🍳𝑹𝒆𝒄𝒊𝒑𝒆𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 📩DM for rates/collab/invite |📍Plano/DFW txfoodiemama@gmail.com
     location: "United States"
-    followers: 3264
-    engagement: 1735
-    commentsToLikes: 0.230345
-    id: ckaou41vtyp9e0i78vner51sm
+    followers: 11940
+    engagement: 299
+    commentsToLikes: 0.311029
+    id: ckraybb9zb8i80j23uj8ouurs
     verified: false
-    hashtags: "#eeeeeats, #sweettooth, #breakfast, #acaibowl"
-  - username: "datenight.dallas"
+    hashtags: "#momtips, #lesaucecompany, #pasta, #sundayfunday"
+  - username: "dallasfoodnerd"
     fullname: >-
-      Date Night Dallas | Food & Travel
+      Dallas Food Nerd
     bio: >-
-      ideas your next date night in dallas ✨ ✉️ contact@datenightdallas.com
+      🍴DFW Community food & lifestyle blog 👓 We NERD out about restaurants, kitchen gadgets and technology Est. 2011 by Elysa & Rory
     location: "United States"
-    followers: 38777
-    engagement: 363
-    commentsToLikes: 0.081483
-    id: ckzdjnefwccjy0j23ccefydgg
+    followers: 54435
+    engagement: 15
+    commentsToLikes: 0.156695
+    id: clgcjp7qzkcxf0j08pxzz5x7l
     verified: false
-    hashtags: "#dallas, #datenight, #cocktails, #foodie"
+    hashtags: "#dallasfoodie, #dfwrestaurants, #dfwfood, #dallasrestaurants"
 ---

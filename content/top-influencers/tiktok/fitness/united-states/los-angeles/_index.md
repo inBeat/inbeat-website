@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Los Angeles In 2023
+title: Top 10 Fitness TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top fitness TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #fitness #losangeles #foryou.
+  Find top fitness TikTok influencers in Los Angeles in 2024. Most popular hashtags: #fyp #fitness #losangeles #funny.
 platform: TikTok
-hits: 64
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 64 TikTok influencers like this in Los Angeles, United States for you to contact.
+hits: 66
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 66 TikTok influencers like this in Los Angeles, United States for you to contact.
 profiles:
   - username: "kerttukaron"
     fullname: >-
@@ -31,6 +31,30 @@ profiles:
     id: ckb0ughfbjrko0j239d0ttiss
     verified: false
     hashtags: "#tiktokpartner, #cardio, #learnontiktok, #pushup"
+  - username: "derektpratt"
+    fullname: >-
+      derektpratt
+    bio: >-
+      Fitness Friday: Gym Talk on YouTube & IMDb Entrepreneur & C4 Energy Athlete
+    location: "United States"
+    followers: 35800
+    engagement: 918
+    commentsToLikes: 0.068734
+    id: ckb97tezzqthn0j23sq4231l5
+    verified: false
+    hashtags: "#derekpratt, #losangeles, #fitness, #work"
+  - username: "genewpark"
+    fullname: >-
+      Gene W Park
+    bio: >-
+      Stand Up Comedian/Actor Follow Insta and DM: genewpark Subscribe to my YouTube
+    location: "United States"
+    followers: 376700
+    engagement: 1565
+    commentsToLikes: 0.031822
+    id: ck8s8hzpetoyp0j782eb87kg5
+    verified: false
+    hashtags: "#bts, #asianboy, #asian, #comedy"
   - username: "_dinoman"
     fullname: >-
       Alfredo L
@@ -55,18 +79,6 @@ profiles:
     id: ck8vurio1jrdq0j78l3mxpypy
     verified: false
     hashtags: "#perfectasiam, #raiseyourgame, #nyc, #handstand"
-  - username: "garrett.travels"
-    fullname: >-
-      Garrett Travels
-    bio: >-
-      ↟ CEO of Shirtless Hikes ↟ grbruno14@gmail.com 28 ↯ LA
-    location: "United States"
-    followers: 147000
-    engagement: 721
-    commentsToLikes: 0.025862
-    id: ckfpm777s1l3w0j23x28no0pl
-    verified: false
-    hashtags: "#gaypride, #foryou, #shirtlessboy, #tiktoktravel"
   - username: "marccolcer"
     fullname: >-
       Marc Colcer
@@ -79,30 +91,18 @@ profiles:
     id: ckbeyufd2jiua0j23fnnszccw
     verified: false
     hashtags: "#foryoupage, #modeling, #bikini, #photoshoot"
-  - username: "sarahromanowsky"
+  - username: "jennleezy"
     fullname: >-
-      Sarah Romanowsky
+      Jennleezy
     bio: >-
-      Teaching virtual lessons in Silks/Hammock/Hoop — email SarahRomanowsky@gmail.com
+      IG: @jennleezy JenniferJLeezy@gmail.com
     location: "United States"
-    followers: 23700
-    engagement: 1814
-    commentsToLikes: 0.007882
-    id: ckcughpc9f66i0j23u63uo57u
+    followers: 261200
+    engagement: 472
+    commentsToLikes: 0.016133
+    id: ck9782t3f6ghw0j7892veg46s
     verified: false
-    hashtags: "#dancer, #bungee, #foryou, #aerialhammock"
-  - username: "kellybellyboom"
-    fullname: >-
-      kellybellyboom
-    bio: >-
-      Half Indian - Half Australian. Kinda Swedish. Check out my YouTube page.
-    location: "United States"
-    followers: 24200
-    engagement: 358
-    commentsToLikes: 0.011834
-    id: ck9er2amnzuj40j785qepqoqa
-    verified: true
-    hashtags: "#fyp, #model, #workout, #tiktokdance"
+    hashtags: "#travel, #swimwear, #monkey, #vacation"
   - username: "wanderolin"
     fullname: >-
       wanderolin
@@ -115,16 +115,16 @@ profiles:
     id: ckbwjunj03rb50j23ahs3ajsg
     verified: false
     hashtags: "#feature, #featureme, #fun, #food"
-  - username: "genewpark"
+  - username: "kaileyelisemann"
     fullname: >-
-      Gene W Park
+      Kailey Mann
     bio: >-
-      Stand Up Comedian/Actor Follow Insta and DM: genewpark Subscribe to my YouTube
+      health & confidence coach beauty, snacks, life advice LA, CA IG: @kaileyeliseman
     location: "United States"
-    followers: 376700
-    engagement: 1565
-    commentsToLikes: 0.031822
-    id: ck8s8hzpetoyp0j782eb87kg5
-    verified: false
-    hashtags: "#bts, #lol, #funny, #asianboy"
+    followers: 183300
+    engagement: 772
+    commentsToLikes: 0.112258
+    id: ck8kexqyqbie40j783f6coxjb
+    verified: true
+    hashtags: "#snacks, #palmsprings, #grwm, #fyp"
 ---

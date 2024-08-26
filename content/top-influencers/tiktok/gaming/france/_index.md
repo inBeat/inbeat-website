@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In France In 2023
+title: Top 10 Gaming TikTok Influencers In France In 2024
 description: >-
-  Find top gaming TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #gaming #fyp #fortnite.
+  Find top gaming TikTok influencers in France in 2024. Most popular hashtags: #pourtoi #gaming #fyp #fortnite.
 platform: TikTok
 hits: 104
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 104 TikTok influencers like this in France for you to pitch.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform has 104 TikTok influencers like this in France for you to connect with.
 profiles:
   - username: "warroxx"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.007963
     id: ck9ads0cyyo980j786f1lsz74
     verified: true
-    hashtags: "#humour, #prank, #pourtoi, #lolfrance"
+    hashtags: "#humour, #pourtoi, #prank, #sponsoris"
   - username: "tobi_md"
     fullname: >-
       Tobi 🎩😎

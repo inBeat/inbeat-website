@@ -1,11 +1,11 @@
 ---
-title: Top 10 Handball Players Instagram Influencers In 2023
+title: Top 10 Handball Players Instagram Influencers In 2024
 description: >-
-  Find top handball players Instagram influencers in 2023. Most popular hashtags: #handball #smile #motivation.
+  Find top handball players Instagram influencers in 2024. Most popular hashtags: #handball #smile #tokyo2020.
 platform: Instagram
-hits: 85
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database has 85 Instagram influencers like this for you to collaborate.
+hits: 80
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 80 Instagram influencers like this for you to connect with.
 profiles:
   - username: "crinapintea11"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.018523
     id: ck600665ad0ri0i14z6uu2mka
     verified: false
-    hashtags: "#liveyourlife, #liveyourdreams, #nevergiveup, #nothingiseasy"
+    hashtags: "#liveyourdreams, #hardworkwillpayoff, #nopainnogain, #nothingiseasy"
   - username: "cristinaneaguofficial"
     fullname: >-
       Cristina Neagu
@@ -31,6 +31,30 @@ profiles:
     id: ck600674wd0tk0i14v7o6c7bj
     verified: true
     hashtags: "#fici, #csmbucuresti, #redbull, #friendssinceforever"
+  - username: "allisonpineau"
+    fullname: >-
+      ALLISON PINEAU /AP7
+    bio: >-
+      🇫🇷 Handball Player @rkkrim 🔸 Olympic🥇🥈 🔸 World🥇🥈🥈🥈 🔸 Euro 🥇🥉 🔸 @edhec_bschool 📚 🔸Crypto learner 🤓 @adidas @usanaathletes @bvsport
+    location: "Japan"
+    followers: 33748
+    engagement: 895
+    commentsToLikes: 0.008942
+    id: ck14hmgn5b2970i19dldmairi
+    verified: true
+    hashtags: "#insidetokyo, #handball, #teamfrance, #bleuetfier"
+  - username: "schatzl_nada"
+    fullname: >-
+      Schatzl Nadine
+    bio: >-
+      Professional Handball Player • Győri Audi ETO 🟢⚪️ • Hungarian National Team 🇭🇺 📍Győr
+    location: "Japan"
+    followers: 14708
+    engagement: 834
+    commentsToLikes: 0.004719
+    id: ck134x2umym0u0i19ua3rw2z1
+    verified: false
+    hashtags: "#hungary, #sun, #smile, #handball"
   - username: "elizabethomoregie"
     fullname: >-
       Elizabeth Omoregie
@@ -43,6 +67,18 @@ profiles:
     id: ck600680td0ut0i14csbrw5iw
     verified: false
     hashtags: "#friday, #ehfeuro2022, #family, #vacation"
+  - username: "kamil_syprzak"
+    fullname: >-
+      Kamil Syprzak
+    bio: >-
+      🇫🇷Handball Player at @psghandofficiel 🇵🇱 Polish National Team since 2011’😉 World🥉& Olympic athlete 4th🇧🇷 Ambassador @stowarzyszenie4kids
+    location: "Germany"
+    followers: 47628
+    engagement: 306
+    commentsToLikes: 0.017427
+    id: ck5pxy6o5tflp0i11vj6m4tqg
+    verified: true
+    hashtags: "#handball, #sport, #psg, #paris"
   - username: "estavana"
     fullname: >-
       Estavana Polman
@@ -55,18 +91,6 @@ profiles:
     id: ck5c2i9h4xbaa0i11it7jex7y
     verified: true
     hashtags: "#2023, #polmansport, #altijdblijvenlachen, #hetwordzwaarmaarwegaanervoor"
-  - username: "mimikraus"
-    fullname: >-
-      Michael Kraus
-    bio: >-
-      •Pro Handball Player🤾🏼‍♂️ •Business: mimikraus1983@gmail.com •World Champion •Championsleague Founder @nice_athletic_club
-    location: "Germany"
-    followers: 241265
-    engagement: 466
-    commentsToLikes: 0.004436
-    id: ck5qdxd3kxq1l0i11je7pxypy
-    verified: true
-    hashtags: "#family, #mimikraus, #weekend, #happy"
   - username: "masii119"
     fullname: >-
       Masi
@@ -103,28 +127,4 @@ profiles:
     id: ck6tqthx8u49c0j71kc91ccvg
     verified: true
     hashtags: "#corse, #corsica"
-  - username: "angelamalestein"
-    fullname: >-
-      Angela Malestein
-    bio: >-
-      🤾🏼 Professional handball player 🥇World champion 2019 🇳🇱@dutch_national_handballteam 💥@ftc_kezilabda 📩Contact: @double_msportmarketing
-    location: "United States"
-    followers: 35999
-    engagement: 1070
-    commentsToLikes: 0.015114
-    id: ckf5ugbv2ksux0j231gfx4afk
-    verified: true
-    hashtags: "#handball, #hajrafradi, #sunrisemind, #ferencva"
-  - username: "carmen_martin4"
-    fullname: >-
-      Carmen Martin
-    bio: >-
-      〰️ Handball player 🤾🏽‍♀️ 〰️ Champions League winner 🏆 〰️ From #almeria 🏜️🏖️ 〰️ Playing for @csm_bucharest & living in #bucharest 🤘🤘🏽
-    location: "Spain"
-    followers: 31819
-    engagement: 846
-    commentsToLikes: 0.011334
-    id: ck6006pwbd1u90i14rze8d3bn
-    verified: false
-    hashtags: "#guerreras, #equipo, #handball, #championsleague"
 ---

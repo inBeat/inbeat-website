@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Ireland In 2023
+title: Top 10 Health TikTok Influencers In Ireland In 2024
 description: >-
-  Find top health TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #ireland #irish #healthyrecipes.
+  Find top health TikTok influencers in Ireland in 2024. Most popular hashtags: #fyp #ireland #irish #healthyrecipes.
 platform: TikTok
 hits: 19
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our platform holds 19 TikTok influencers like this in Ireland for you to contact.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 19 TikTok influencers like this in Ireland for you to contact.
 profiles:
   - username: "coachciaranpt"
     fullname: >-

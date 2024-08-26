@@ -1,24 +1,36 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Venezuela In 2023
+title: Top 10 Chefs Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top chefs Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #caracas #venezolanosenespa #receta.
+  Find top chefs Instagram influencers in Venezuela in 2024. Most popular hashtags: #venezuela #chef #caracas #gastronomia.
 platform: Instagram
-hits: 17
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 17 Instagram influencers like this in Venezuela for you to contact.
+hits: 15
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 15 Instagram influencers like this in Venezuela for you to pitch.
 profiles:
   - username: "ivangarciah"
     fullname: >-
       Iván García
     bio: >-
-      🔪 Cocinero Venezolano 💡 Chef / Owner @ElBosqueBistro @pastelesrex 📍 Venezuela
+      🔪 Cocinero Venezolano 💡 Chef de @ElBosqueBistro 📍 #KilometroVenezuela
     location: "Venezuela"
-    followers: 17363
-    engagement: 465
-    commentsToLikes: 0.055353
+    followers: 28468
+    engagement: 403
+    commentsToLikes: 0.024556
     id: ck5hln2itki510i11bca30sqv
     verified: false
-    hashtags: "#finedininglovers, #pandemic, #venezuela, #50bestrestaurants"
+    hashtags: "#cocinavenezolana, #margarita, #brasil, #elbosquebistro"
+  - username: "morellafitness"
+    fullname: >-
+      Morella Potolicchio Villalba
+    bio: >-
+      🍫CEO @morellachocolate @eatmorefit 👩🏻‍🍳Chef Saludable Certificada 👣 #HealthyMom @bemorechiara 🏆6ta BikiniWorldRanking 17’
+    location: "Venezuela"
+    followers: 51906
+    engagement: 282
+    commentsToLikes: 0.030156
+    id: ck15sckg2cbp50i19o02ptrgu
+    verified: false
+    hashtags: "#fitnesslifestyle, #emprendedor, #healthydessert, #healthyfoodporn"
   - username: "larinolari"
     fullname: >-
       L A R I N O   L A R I
@@ -43,42 +55,6 @@ profiles:
     id: ck6tsv7nh70op0j71oah6m97e
     verified: false
     hashtags: "#proud2bcia, #burgers, #caracas, #emprendimiento"
-  - username: "daniel_chique"
-    fullname: >-
-      Daniel Chique
-    bio: >-
-      Creativo Gastronomico, Chef, Asesor Culinario. Ensayos EP 04:
-    location: "Venezuela"
-    followers: 7956
-    engagement: 429
-    commentsToLikes: 0.107904
-    id: ck5hgfodk2j0s0i11qd8oci2t
-    verified: false
-    hashtags: "#lecheria, #chef, #cocinero, #venezuela"
-  - username: "morellafitness"
-    fullname: >-
-      Morella Potolicchio Villalba
-    bio: >-
-      👣 #HealthyMom @bemorechiara 👩🏻‍🍳Chef Saludable Certificada 🍞CEO @eatmorefit 💡Content Creator & Recipe Developer 🏆6ta BikiniWorldRanking 17’
-    location: "Venezuela"
-    followers: 41721
-    engagement: 238
-    commentsToLikes: 0.031316
-    id: ck15sckg2cbp50i19o02ptrgu
-    verified: false
-    hashtags: "#motherhood, #fitfood, #momsofinstagram, #momlife"
-  - username: "co_cinero"
-    fullname: >-
-      CESAR GONZALEZ Cocinero
-    bio: >-
-      Foodie, Restaurateur, Chef based in Miami Restaurant @taikinrestaurant YouTube: Cesar Cocinero 👇 🇻🇪 🇺🇸
-    location: "Venezuela"
-    followers: 2181053
-    engagement: 119
-    commentsToLikes: 0.028616
-    id: ck136dd4p5xm50i196eioy10t
-    verified: false
-    hashtags: "#recetas, #venezuelanfood, #cocina, #recetasfaciles"
   - username: "adalbertolrr"
     fullname: >-
       Adalberto Luis Rodriguez
@@ -91,18 +67,6 @@ profiles:
     id: ck5zx0n9d74240i14neha5aqo
     verified: false
     hashtags: "#cakedesign, #cake, #maracay, #venezolanosenchile"
-  - username: "sabrinasalemi"
-    fullname: >-
-      Sabrina
-    bio: >-
-      Miss dependencias federales 2002 🇻🇪🇮🇹🇱🇧 abogada, comunicadora social , chef, actriz, animadora, @venevision twiter @sabrinasalemi
-    location: "Venezuela"
-    followers: 1135649
-    engagement: 82
-    commentsToLikes: 0.020780
-    id: ck15qssjh4gn70i19a54llzpy
-    verified: true
-    hashtags: "#repost, #aqueteries, #venezolanosenbogota, #chistes"
   - username: "variedadesnice"
     fullname: >-
       VARIEDADES NICE
@@ -127,4 +91,40 @@ profiles:
     id: ck1377l6ia6yh0i19qxjf940q
     verified: false
     hashtags: "#maracaibo, #mamadedos, #miocapricciovzla, #vinoparaquedarse"
+  - username: "daniel_chique"
+    fullname: >-
+      Daniel Chique
+    bio: >-
+      @tasty.bestfood @bodeguitadejackie @greenpadelandgolf @rositamexicana.lc @gardenkids.lc @mariaantoniarest @casagarden.eventos @mediadocenave
+    location: "Venezuela"
+    followers: 21336
+    engagement: 276
+    commentsToLikes: 0.082843
+    id: ck5hgfodk2j0s0i11qd8oci2t
+    verified: false
+    hashtags: "#lecheria, #venezuela, #gastronomia, #chef"
+  - username: "rubensantiagomgta"
+    fullname: >-
+      Rubén Santiago
+    bio: >-
+      🟡Margariteño nacido en Trujillo 🔵Cocinero. Padre y abuelo 🔴Creador del Pastel de Chucho 🇻🇪Impulsando la gastronomía venezolana ☎️ 02952645969
+    location: "Venezuela"
+    followers: 23034
+    engagement: 427
+    commentsToLikes: 0.063525
+    id: ck5hlmaogkgu80i113slv6ag8
+    verified: false
+    hashtags: "#venezuela, #cocinamargarite, #chef, #cocinavenezolana"
+  - username: "merlingessen"
+    fullname: >-
+      Merlín Gessen Pantin
+    bio: >-
+      Presidente Asociación Venezolana de Neurogastronomía 🧠 @todounchef 🔪🍽️ Yo soy el @neurogastronomo 🤯
+    location: "Venezuela"
+    followers: 55375
+    engagement: 104
+    commentsToLikes: 0.133167
+    id: ck5ch3z8yq2m20i11nrsz65vl
+    verified: false
+    hashtags: "#amor, #neuro, #facil, #happy"
 ---

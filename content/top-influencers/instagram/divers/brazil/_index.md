@@ -1,130 +1,130 @@
 ---
-title: Top 10 Divers Instagram Influencers In Brazil In 2023
+title: Top 10 Divers Instagram Influencers In Brazil In 2024
 description: >-
-  Find top divers Instagram influencers in Brazil in 2023. Most popular hashtags: #brasil #influencer #tbt.
+  Find top divers Instagram influencers in Brazil in 2024. Most popular hashtags: #tbt #love #humor.
 platform: Instagram
-hits: 868
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 868 Instagram influencers like this in Brazil for you to contact.
+hits: 1016
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 1016 Instagram influencers like this in Brazil for you to contact.
 profiles:
-  - username: "sebastianismos"
+  - username: "johndlms"
     fullname: >-
-      tropikal punk
+      Jonathan Delmares
     bio: >-
-      🌴💀 Quase ganhamos um Grammy 💀🌴 👨‍👩‍👧‍👦 : @franciscoelhombreoficial diversão e foda-se 👇🏼 VIDEOCLIPS 👇🏼
+      • Physiotherapist ☤ Kiné • 🌍 +47 | soon…🇫🇮 • 📍based in Bordeaux, 🇫🇷 • Sony A7iv & Mavic air2s & Gopro 11 black • Diver AdOW | 🤿 +56
     location: "Brazil"
-    followers: 33500
-    engagement: 773
-    commentsToLikes: 0.059749
-    id: ck6tjoih4349l0j71bof85lkg
+    followers: 117264
+    engagement: 624
+    commentsToLikes: 0.133003
+    id: clpb5vnn38l0u0k084rdcsnjb
     verified: false
-    hashtags: "#baroesdapunkadinha, #tropikalpunk, #sebastianismos, #jaloo"
-  - username: "thayanenesi"
+    hashtags: "#indonesie, #voyageursdumonde, #voyageurs, #norv"
+  - username: "nbasemlimites_"
     fullname: >-
-      Thayane Nesi Teixeira
+      𝗡𝗕𝗔 𝗦𝗲𝗺 𝗟𝗶𝗺𝗶𝘁𝗲𝘀 | 𝗧𝗿𝗶𝗻𝗱𝗮𝗱𝗲
     bio: >-
-      🌸 Maquiagem | Treinos | Diversão 📍Balneário Rincão/SC 🇧🇷Seleção Brasileira de Karatê🇧🇷 •Procurando futuro nessa vida de aspirante a blogueira•
+      🔸Memes e Diversão com a NBA 🏀 🔸Perfil reserva @nbasemlimitesreserva 🔸Ganhe dinheiro apostando na NBA 👇🏾
     location: "Brazil"
-    followers: 7023
-    engagement: 4198
-    commentsToLikes: 0.041880
-    id: ck8t4hyn46vrq0j78tcksckgi
+    followers: 125149
+    engagement: 574
+    commentsToLikes: 0.014447
+    id: ckaoykxhohwum0i7857y96r6p
     verified: false
-    hashtags: "#love, #bhfyp, #natalcomthayanenesi, #tbt"
-  - username: "claud1o_"
+    hashtags: "#nbamemes, #explorar, #follow, #boatarde"
+  - username: "malugolden_"
     fullname: >-
-      ℂ𝕝𝕒𝕦𝕕𝕚𝕠 ℝ𝕚𝕓𝕖𝕚𝕣𝕠
+      Malu | Lennon | Totó | Jaque
     bio: >-
-      🔥 Use-me e abuse-me! 🏊‍♀️ Carioca e escorpiano ♏️ LifeStyle, Viagens & Diversão. 🎬 Atitude é tudo! ❤️ #️⃣ #Claud1o_ @claud1o_
+      • 02 Goldens e 01 vira-lata • Diversão | Dicas | Humor e Muito Amor • São Paulo 📩 malugolden@virau.com.br
     location: "Brazil"
-    followers: 21236
-    engagement: 347
-    commentsToLikes: 0.079603
-    id: ck9weu8rjluxi0j78kj1kas1z
+    followers: 310102
+    engagement: 675
+    commentsToLikes: 0.048371
+    id: ck0u0hfkwtp540i199ndtwosc
     verified: false
-    hashtags: "#beardlover, #bear, #bearlife, #beardlife"
-  - username: "gioemanu.butzke"
+    hashtags: "#reelsinstagram, #retrieverdailystyle, #animalsinfluence, #dog"
+  - username: "luiz"
     fullname: >-
-      Giovanna e Manuella
+      Luiz Moreno
     bio: >-
-      Gio e Manu são irmãs e influencers ❤️ Dicas de moda, diversão, passeios, hotéis e restaurantes. Joinville - SC adm @alinebutzkesouza
+      O FBI não chega nem perto duma muié desconfiada 🤔 🎈 Pura diversão, sem fins comerciais
     location: "Brazil"
-    followers: 56676
-    engagement: 223
-    commentsToLikes: 0.072202
-    id: ck6tmergw7pnq0j712nr1oi5j
-    verified: false
-    hashtags: "#editorialscfk"
-  - username: "beatrice"
+    followers: 1500115
+    engagement: 628
+    commentsToLikes: 0.229728
+    id: ck0w4xgd60w120i19wirmz90g
+    verified: true
+    hashtags: "#comedia, #casal, #humor, #namoro"
+  - username: "roberthill"
     fullname: >-
-      Beatrice T. Stopa
+      † Robert Hill
     bio: >-
-      Dia a dia real e dicas q vc pode confiar. Moda, carreira, assuntos necessários, causa animal e diversão jobs@messs.com.br comercialbeatrice@gmail.com
+      Sky Diver 🪂 Filmmaker 🎥 FPV Pilot rob@hillstudios.ca Business Account: @hillstudios_
     location: "Brazil"
-    followers: 46207
-    engagement: 162
-    commentsToLikes: 0.058226
-    id: ck0vwf3chte2b0i19ilgilit8
+    followers: 159724
+    engagement: 436
+    commentsToLikes: 0.006577
+    id: ck5q2ynkfiesh0i11pnkth9mr
     verified: false
-    hashtags: "#momentolabasque, #nailart, #nail, #minhasoleah"
-  - username: "layantuness"
+    hashtags: "#tulum, #mexico, #beautifuldestinations, #travel"
+  - username: "renatafalcao"
     fullname: >-
-      LAY GAMA ANTUNES
+      Renata Falcão
     bio: >-
-      Ba - ☀️ • Iae babies, tudo bem com vocês? 🥰 • Beleza, autoestima e diversão. 💄💃🏼 • Bacharela em Direito ⚖️ 👩🏼‍💼 @labeautyy_
+      🎤 Cantora, apaixonada pela música brasileira e toda sua diversidade de sons e ritmos. 🔐 Agente de Registro @onlinecertificadora
     location: "Brazil"
-    followers: 12221
-    engagement: 1553
-    commentsToLikes: 0.639348
-    id: ckaov2ayi2t8e0i78tqcnp14j
+    followers: 33074
+    engagement: 293
+    commentsToLikes: 0.085186
+    id: ck6u28xaxqf920j71r5zmxbax
     verified: false
-    hashtags: "#reels, #modafeminina, #makeup, #tutorial"
-  - username: "orlandices"
+    hashtags: "#tbtdarf, #vemcomarf, #orepertorioquevicia, #tbt"
+  - username: "profnathmasson"
     fullname: >-
-      MARINA - Orlandices
+      Nathalia Masson
     bio: >-
-      Bom Dia & Gargalhada & Mickey & Muita diversão. Assessoria de viagem... direto das Orlandias. @compra_usa_store
+      Professora de Direito Constitucional. Coordenadora e autora de diversas obras jurídicas.
     location: "Brazil"
-    followers: 86957
-    engagement: 117
-    commentsToLikes: 0.051393
-    id: ck0w0ps4jffvv0i19h1ndio2g
+    followers: 74343
+    engagement: 339
+    commentsToLikes: 0.034328
+    id: ck138shglht0i0i19t7pjybmk
     verified: false
-    hashtags: "#celebration, #waltdisneyworld, #comprasemorlando, #brasileirosemorlando"
-  - username: "lucaskerkhoff"
+    hashtags: "#tbt"
+  - username: "essanossapele"
     fullname: >-
-      Lucas kerkhoff
+      Tuani | skincare, make, cabelo
     bio: >-
-      Filho de um Deus vivo! Modelo/tiktoker (+441K) Master Scuba Diver @paditv 🇧🇷🇵🇾🇦🇷🇬🇧🇱🇺🇫🇷🇺🇾🇨🇱🇲🇽 Lifestyle/Travels 📍Maringa-PR/P.Porã-MS
+      💛 Compartilho dicas e resenhas sinceras sobre diversos produtos! 👉🏻 Promoções no perfil @essanossapromo 💌 direct / e-mail
     location: "Brazil"
-    followers: 147778
-    engagement: 208
-    commentsToLikes: 0.057942
-    id: ckf5ukjsfl81d0j23eoc186hc
+    followers: 88133
+    engagement: 188
+    commentsToLikes: 0.020153
+    id: ck8t1ervavhjq0j789n8byini
     verified: false
-    hashtags: "#fyp, #reelsinstagram, #explore, #viral"
-  - username: "henriquefrancoo"
+    hashtags: "#promo, #baratinhosqueamamos, #gloss, #maquiagemnacional"
+  - username: "2xdani"
     fullname: >-
-      Henrique Franco 📍
+      Daniel Simas
     bio: >-
-      ✨ Por puro amor e diversão!! 🤍 🌏 Castanhal/Belém-PA
+      ou te distraio ou aqueço teu coração nos stories: a boa fofoca nossa e outras diversões no feed: risos, cotidiano e amor 🧔🏻‍♂️👨🏻‍🦰😻😻😻
     location: "Brazil"
-    followers: 18349
-    engagement: 323
-    commentsToLikes: 0.061102
-    id: ckf5olz8s2tfv0j23zr7j67gf
+    followers: 62238
+    engagement: 157
+    commentsToLikes: 0.056874
+    id: ck8tb703oujtj0j78zvi70kqh
     verified: false
-    hashtags: "#brasil, #bussitdownchallenge, #challenger, #informatica"
-  - username: "blogmaedamanuela"
+    hashtags: "#bae, #tbt, #love, #danipe"
+  - username: "tripbyvan"
     fullname: >-
-      Manuela por Mamãe Camila
+      Van • Viagem• Paris
     bio: >-
-      Moda e Estilo em forma de diversão! ✨👗 FASHIONISMO COM INFÂNCIA ☆☆☆ 📱Dicas | App | Edição Perfil administrado pela mamãe @camila495 👩‍🚀 Uberlândia-MG
+      📍Vivendo em Paris🇫🇷 {No insta por pura diversão} ☢️ World Association of Nuclear Operators✨ 🌏5 continentes ✈️ Viajar sozinha mudou minha vida
     location: "Brazil"
-    followers: 26001
-    engagement: 112
-    commentsToLikes: 0.412043
-    id: ck15ra4ex6ww10i19lm15n6is
+    followers: 15945
+    engagement: 69
+    commentsToLikes: 0.127806
+    id: ck8t7sruuhvfe0j78ai9athj3
     verified: false
-    hashtags: "#centershoppinguberlandia, #curlykids, #digitalinfluencermirim, #modelomirim"
+    hashtags: "#pelomundo, #parisvibes, #empoderese, #tbtdehoje"
 ---

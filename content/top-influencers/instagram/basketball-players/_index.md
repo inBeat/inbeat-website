@@ -1,130 +1,130 @@
 ---
-title: Top 10 Basketball Players Instagram Influencers In 2023
+title: Top 10 Basketball Players Instagram Influencers In 2024
 description: >-
-  Find top basketball players Instagram influencers in 2023. Most popular hashtags: #honeymoon #shooting #15yearold.
+  Find top basketball players Instagram influencers in 2024. Most popular hashtags: #basketball #fiba3x3 #nba.
 platform: Instagram
-hits: 487
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 487 Instagram influencers like this for you to pitch.
+hits: 498
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 498 Instagram influencers like this for you to connect with.
 profiles:
-  - username: "otaldo_daniel"
+  - username: "specialk23_"
     fullname: >-
-      Daniel costa
+      Kamile Nacickaite ♛
     bio: >-
-      021 ... Veja os storyes ❤✊🏾 basketball player 🏀 Physical education student 💪😎 40 graus models Tt: Otaldo_daniel
-    location: "Brazil"
-    followers: 21578
-    engagement: 733
-    commentsToLikes: 0.091851
-    id: ck5qd1fsrtczw0i11mzokl4qs
+      •Pro basketball player🏀🇮🇹🇷🇺🇪🇸🇵🇱🇹🇷🇫🇷 •Lithuania’s National Team🇱🇹#6 •@princessmaya_1 mommy 🐶🎀🐾
+    location: "Spain"
+    followers: 14558
+    engagement: 636
+    commentsToLikes: 0.018558
+    id: ck5qbog5smll70i11ocln2q56
     verified: false
-    hashtags: "#24anos"
-  - username: "notfurkan"
+    hashtags: "#fiba, #womenbasketball, #fiert, #3x3wskatowice"
+  - username: "andakaraprastawa"
     fullname: >-
-      𝔽𝕦𝕣𝕜𝕒𝕟
+      Andakara Prastawa
     bio: >-
-      17 Leicester📍 Basketball player 🇹🇷 🇬🇧 Stay postive test negative
-    location: "United Kingdom"
-    followers: 4750
-    engagement: 2674
-    commentsToLikes: 0.086503
-    id: ckapc33ct2a330i78zwr1pyiw
-    verified: false
-    hashtags: "#mugshotchallenge, #gossipgang"
-  - username: "sertacsanli"
-    fullname: >-
-      Sertaç Şanlı
-    bio: >-
-      Basketball Player / @anadoluefessk Business and communication: @sagatise
-    location: ""
-    followers: 10464
-    engagement: 1296
-    commentsToLikes: 0.049263
-    id: ck5zmcuxlmc6g0i148id7d7ej
+      🏀 Indonesian Basketball Player 🥇Gold medalist Sea Games 2021 Brand Ambassador @crystallinewaterid Business inquiries : 📩 ap.dhyaksa@gmail.com
+    location: "Indonesia"
+    followers: 110473
+    engagement: 679
+    commentsToLikes: 0.006331
+    id: ck6u369rovywm0j714w6omgxb
     verified: true
-    hashtags: "#benimyerimburasi, #23nisan, #customshoes, #benimyerimburas"
-  - username: "tcwaldo"
-    fullname: >-
-      Corey Walden
-    bio: >-
-      📍Florida 🏀Professional Basketball Player🇷🇸 ☝🏾John 3:16 😇R.I.P Grandma, R.I.P Uncle B
-    location: ""
-    followers: 17281
-    engagement: 3827
-    commentsToLikes: 0.042338
-    id: ck5bye9x5ozgh0i11gezxi9ed
-    verified: true
-    hashtags: "#top8, #blackouttuesday"
-  - username: "dimitricastro"
-    fullname: >-
-      Dimitri
-    bio: >-
-      Brazilian Basketball Player Sociedade Thalia Combo Guard 1.80 m / 5'11 ft 61 kg / 134 lbs 15 y / 10th grade Paraná / Curitiba CLASS OF 2023
-    location: "Brazil"
-    followers: 2581
-    engagement: 2662
-    commentsToLikes: 0.131045
-    id: ckap77i13iyem0i787kep0j6k
-    verified: false
-    hashtags: ""
-  - username: "194_jw"
-    fullname: >-
-      오정헌(吴定轩)
-    bio: >-
-      전기 엔지니어 (Electrical Engineer) 농구 선수 (Basketball player) 🏀 194 cm🕴 Tik-Tok: 194_jw
-    location: ""
-    followers: 437753
-    engagement: 719
-    commentsToLikes: 0.016758
-    id: ck0vyr8655e9q0i19hxxb0zrx
-    verified: false
-    hashtags: "#hugoboss, #soju"
-  - username: "belickaitee"
-    fullname: >-
-      Dalia Belickaitė
-    bio: >-
-      •Former Basketball Player🇱🇹🇵🇱 •#TimeoutŽalgiris & @2tv.lt TV host🎤 •Nike ambassador •Apple ambassador •Sports/ Fashion/ Food
-    location: "Philippines"
-    followers: 122043
-    engagement: 961
-    commentsToLikes: 0.002302
-    id: ck14kmsboqaf80i1987s8pggs
-    verified: false
-    hashtags: "#honeymoon, #ladigue, #reklama, #seychelles"
-  - username: "ingridvasconcelos1"
-    fullname: >-
-      Ingrid Vasconcelos
-    bio: >-
-      💪🏼 PERSONAL TRAINER•(CREF 010136-G/PE)• 🏀 #Basketball Player🇧🇷 👙 Fitness Model 🤱🏼 Mom 💍 married ✨ Digital inspirer 🛬 Recife-PE🛫
-    location: "Brazil"
-    followers: 59904
-    engagement: 322
-    commentsToLikes: 0.125968
-    id: ck5zyvbcwalj20i140mc2ksf5
-    verified: false
-    hashtags: "#goldenhou, #redbulltedaasas, #casal, #powercouple"
-  - username: "dcash_11"
-    fullname: >-
-      David Holston
-    bio: >-
-      🏀 Basketball player for @jdadijonbasket. 🇺🇸 From Pontiac, Michigan. 📲 @hskagency
-    location: "United States"
-    followers: 11428
-    engagement: 1407
-    commentsToLikes: 0.024524
-    id: ck6u8ddttqx2c0j714wcqgup3
-    verified: true
-    hashtags: "#blessed, #hardwork, #dijon, #thankful"
+    hashtags: "#crystalinwater, #2xseal2xlebihaman, #perisaihidupku, #ligakita"
   - username: "dinoradja_official"
     fullname: >-
       Dino Rađa
     bio: >-
-      Basketball player. Hall of Fame 2018. ❤️ Kiki and my boys
+      Basketball player. Hall of Fame 2018
     location: "Germany"
-    followers: 15385
-    engagement: 1503
-    commentsToLikes: 0.028849
+    followers: 22064
+    engagement: 1011
+    commentsToLikes: 0.022407
     id: ck5c0irnmt7v10i11ia9tlxg9
     verified: false
-    hashtags: "#nba, #celtics, #greece, #boston"
+    hashtags: "#boston, #greece, #nba, #celtics"
+  - username: "deboracosta18"
+    fullname: >-
+      Débora Costa
+    bio: >-
+      🇧🇷| Basketball Player @sesiararaquarabasquete
+    location: "Brazil"
+    followers: 12106
+    engagement: 727
+    commentsToLikes: 0.029409
+    id: ckap608awdwmz0i78fd071k0j
+    verified: true
+    hashtags: "#sampaiobasquete, #levanteaboladelas, #basketball, #ilovethisgame"
+  - username: "waelarakji"
+    fullname: >-
+      Wael Arakji
+    bio: >-
+      🏀 Basketball Player 🏃 @redbull @youbetterfly @nike Athlete 💼 Co-owner @oakberryes (calle Valencia) @therevivehub 🛎 Management: zena@theconsultium.me
+    location: "Lebanon"
+    followers: 166282
+    engagement: 537
+    commentsToLikes: 0.016496
+    id: ck0tv4oxb9x680i19tn73j7bz
+    verified: true
+    hashtags: "#basketball, #lebanon, #fiba, #waelarakji"
+  - username: "wojtek.pietras"
+    fullname: >-
+      Basketball
+    bio: >-
+      🏀Basketball Player 🙏Mentor 🤝 pietraswojciech96@gmail.com
+    location: "Poland"
+    followers: 11000
+    engagement: 560
+    commentsToLikes: 0.022387
+    id: ck6u6kjnsg4mq0j71lvelb5ou
+    verified: false
+    hashtags: "#nikebasketball, #basketballshooting, #handlelife, #basketballer"
+  - username: "beworthy"
+    fullname: >-
+      Worthy de Jong
+    bio: >-
+      ⭐️ Maze & Mylo 🏀 Pro Basketball Player 🏆 @teamamsterdam3x3_hipro 🇳🇱 @teamnlinsta 📸 📹 Content Creator
+    location: "Netherlands"
+    followers: 11708
+    engagement: 919
+    commentsToLikes: 0.027819
+    id: ck14ip1avgicc0i195c60rgme
+    verified: false
+    hashtags: "#3x3wthongkong, #magicofchildhood, #fujixt4, #thiswildlingsoul"
+  - username: "dsabonis11"
+    fullname: >-
+      Domantas Sabonis
+    bio: >-
+      @shushsabonis 🌟 Tigerman and baby Elle’s Dada Professional Basketball Player for the Sacramento Kings
+    location: "United States"
+    followers: 304653
+    engagement: 1044
+    commentsToLikes: 0.009346
+    id: ck5q33bs5j0np0i11vcfgjcff
+    verified: true
+    hashtags: "#nbaplayoffs, #beamteam, #lightthebeam, #mesu"
+  - username: "aleksaavramovic"
+    fullname: >-
+      Aleksa Avramovic
+    bio: >-
+      Basketball player of @partizanbc
+    location: "Spain"
+    followers: 135188
+    engagement: 2118
+    commentsToLikes: 0.001706
+    id: ck5howdg5qcqg0i11gde23izx
+    verified: false
+    hashtags: "#aleksaavramovic, #mozzart, #fondacijamozzart, #naspogledsrcem"
+  - username: "christheoretduarte05"
+    fullname: >-
+      Christopher Duarte
+    bio: >-
+      Pro Basketball Player Indiana Pacers #3 💛🅿️ Dominican BaByyyyyy 🇩🇴 Former Oregon basketball Player 💚🦆 S🤍 C💙 S💞
+    location: "India"
+    followers: 363834
+    engagement: 772
+    commentsToLikes: 0.014036
+    id: ck5zvor7v4msv0i14p9omngt1
+    verified: false
+    hashtags: "#onelove, #linkinbio"
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Las Vegas In 2023
+title: Top 10 Beauty TikTok Influencers In Las Vegas In 2024
 description: >-
-  Find top beauty TikTok influencers in Las Vegas in 2023. Most popular hashtags: #fyp #foryou #makeup #foryoupage.
+  Find top beauty TikTok influencers in Las Vegas in 2024. Most popular hashtags: #fyp #foryou #makeup #vegas.
 platform: TikTok
-hits: 18
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our database holds 18 TikTok influencers like this in Las Vegas, United States for you to connect with.
+hits: 21
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 21 TikTok influencers like this in Las Vegas, United States for you to pitch.
 profiles:
+  - username: "potati_"
+    fullname: >-
+      🍟
+    bio: >-
+      ✌🏻🌺😴
+    location: "United States"
+    followers: 20200
+    engagement: 1382
+    commentsToLikes: 0.027579
+    id: ckamwcu607xxu0i78ko6l1d6z
+    verified: false
+    hashtags: "#picnicdate, #tokyo, #koreanfood, #picnicaesthetic"
   - username: "brittballs"
     fullname: >-
       brittballs
@@ -18,7 +30,7 @@ profiles:
     commentsToLikes: 0.010057
     id: ck9fmallys3810j78tozkgj3a
     verified: false
-    hashtags: "#foryou, #makeup, #fyp, #foru"
+    hashtags: "#fyp, #foru, #makeup, #foryou"
   - username: "kingxcromwell"
     fullname: >-
       King Cromwell
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.089105
     id: ck9vdfprzupy50j7820ula9a3
     verified: false
-    hashtags: "#sayquaynotkway, #foryou, #makemomepic, #maquillaje"
+    hashtags: "#foryou, #makemomepic, #maquillaje, #sayquaynotkway"
   - username: "beauty_holics_"
     fullname: >-
       Beauty_holics
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.140217
     id: ckb9forsq4ap30j23r7q5d4by
     verified: false
-    hashtags: "#contentcreator, #makeup, #igtips, #instagramtips"
+    hashtags: "#beauty, #igtips, #makeup, #makeuptutorial"
   - username: "skeletonkiids"
     fullname: >-
       Jenny
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.015411
     id: ck90xysxy8kau0j78gwwflawx
     verified: false
-    hashtags: "#vegas, #nyc, #model, #lips"
+    hashtags: "#photoshoot, #lips, #model, #vegas"
   - username: "explore_sd"
     fullname: >-
       user7751984492931
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.077486
     id: ckcpd8p1mfwz40j233wdcyqu9
     verified: false
-    hashtags: "#sandiegorestaurant, #sandiegoadventures, #sandiegoblogger, #easyrecipes"
-  - username: "trishrave"
-    fullname: >-
-      Trishrave
-    bio: >-
-      Insta - trbeautyacademy 💋Beauty Educator & Stylist💋
-    location: "United States"
-    followers: 79600
-    engagement: 488
-    commentsToLikes: 0.049291
-    id: ckavb11sqimry0j23eff5k5ih
-    verified: false
-    hashtags: "#4upage, #body, #skin, #selfcare"
+    hashtags: "#sandiegoadventures, #sandiegoblogger, #foodie, #lasvegas"
 ---

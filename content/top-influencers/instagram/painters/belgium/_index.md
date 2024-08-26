@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters Instagram Influencers In Belgium In 2023
+title: Top 10 Painters Instagram Influencers In Belgium In 2024
 description: >-
-  Find top painters Instagram influencers in Belgium in 2023. Most popular hashtags: #artwork #contemporaryart #figurativeart #painter.
+  Find top painters Instagram influencers in Belgium in 2024. Most popular hashtags: #artwork #painter #contemporaryart #figurativeart.
 platform: Instagram
-hits: 17
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 17 Instagram influencers like this in Belgium for you to contact.
+hits: 20
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 20 Instagram influencers like this in Belgium for you to connect with.
 profiles:
   - username: "tijanadraws"
     fullname: >-
@@ -43,6 +43,18 @@ profiles:
     id: ck0w19304i5pe0i197rokccrl
     verified: false
     hashtags: "#artistsnicc, #marcdonnadieu, #leonspilliaert, #repost"
+  - username: "mutonisketches"
+    fullname: >-
+      Sankara Mutoni
+    bio: >-
+      .artist & architect .sketch book author ✍🏾 .from Rwanda 🇷🇼 & work in Belgium 🇧🇪 @mutoniartist
+    location: "Belgium"
+    followers: 134704
+    engagement: 98
+    commentsToLikes: 0.012934
+    id: ckap7tvkbljhz0i78rybbqjru
+    verified: false
+    hashtags: "#architecturesketch, #brushmarkers, #micron, #artwork"
   - username: "ellenmarieart"
     fullname: >-
       Ellen Marie
@@ -55,18 +67,6 @@ profiles:
     id: ck1390ejliww70i19evjrxtb2
     verified: false
     hashtags: "#kunst, #figurativeart, #antwerp, #fineart"
-  - username: "bys147.0"
-    fullname: >-
-      
-    bio: >-
-      
-    location: "Belgium"
-    followers: 142694
-    engagement: 182
-    commentsToLikes: 0.006494
-    id: ckap7tvkbljhz0i78rybbqjru
-    verified: false
-    hashtags: "#pencilsketching, #arch, #architectural, #sketchartgallery"
   - username: "svenrayen"
     fullname: >-
       Sven Rayen
@@ -115,16 +115,16 @@ profiles:
     id: ckaoqq66zjumo0i78kgny951m
     verified: false
     hashtags: "#puppy, #instagood, #malinoisofig, #babyboy"
-  - username: "re.becc.a"
+  - username: "juliekerckaert"
     fullname: >-
-      REBECCA DE WEERDT  🤍
+      Julie 🌸
     bio: >-
-      Belgium | Fashion & lifestyle Bookings & social media inquiries - mail me ✉️ rebeccadw@skynet.be BE 0787.592.191
+      💭 Frankly, my dear, I don't give a damn. 🎓 PhD Researcher at Ghent University • Master of Laws ✨ Made in Belgium 📷 @jk.arw
     location: "Belgium"
-    followers: 11026
-    engagement: 1129
-    commentsToLikes: 0.392103
-    id: ck9haydsnekwm0j783ghxdhlu
+    followers: 7021
+    engagement: 1708
+    commentsToLikes: 0.057422
+    id: ckaosf4hxrcko0i78ihpv0u3r
     verified: false
-    hashtags: "#discoverunder10k, #ootdfashion, #instaootd, #summeraesthetic"
+    hashtags: "#nikonphoto, #90saesthetic, #flowers, #brunette"
 ---

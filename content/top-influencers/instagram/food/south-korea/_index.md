@@ -1,12 +1,84 @@
 ---
-title: Top 10 Food Instagram Influencers In South Korea In 2023
+title: Top 10 Food Instagram Influencers In South Korea In 2024
 description: >-
-  Find top food Instagram influencers in South Korea in 2023. Most popular hashtags: #asianfood #foodstyling #koreanfood.
+  Find top food Instagram influencers in South Korea in 2024. Most popular hashtags: #taipei #summer #tanning.
 platform: Instagram
-hits: 150
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our database has 150 Instagram influencers like this in South Korea for you to contact.
+hits: 158
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 158 Instagram influencers like this in South Korea for you to connect with.
 profiles:
+  - username: "jovanepjy"
+    fullname: >-
+      Jovane 彭嘉伊
+    bio: >-
+      actress • model • content creator for work : +60 11-1191 7370 (Sandy) Food Hunting in Seoul Vlog 🇰🇷
+    location: "South Korea"
+    followers: 569070
+    engagement: 362
+    commentsToLikes: 0.002526
+    id: ck5ci51zns1b50i11n7r9ph6w
+    verified: false
+    hashtags: "#macau, #seoulkorea, #opporeno12series5g, #mjdaisy"
+  - username: "julienkang"
+    fullname: >-
+      줄리엔강
+    bio: >-
+      Fitness • Travel • Food • Life 🇰🇷🇫🇷🇨🇦
+    location: "South Korea"
+    followers: 118922
+    engagement: 295
+    commentsToLikes: 0.008698
+    id: ckaoy1e9tfnns0i783h3ykym3
+    verified: true
+    hashtags: "#workout, #tanning, #gym, #fitness"
+  - username: "wanna._b"
+    fullname: >-
+      Bora Kim
+    bio: >-
+      취미는 @foodbora 🫧 📧 work contact (Global) wannab.bora@gmail.com
+    location: "South Korea"
+    followers: 1189911
+    engagement: 282
+    commentsToLikes: 0.007142
+    id: ck6topzj7fg1x0j71oohhvlx7
+    verified: false
+    hashtags: "#monaco, #taiwan, #taipei, #hellohongkong"
+  - username: "jjunkim"
+    fullname: >-
+      김형준 / Visual architecture
+    bio: >-
+      Photography / Food Directing @jjunkim_table @pizzadelpapa
+    location: "South Korea"
+    followers: 20400
+    engagement: 150
+    commentsToLikes: 0.008427
+    id: ckf5m8j9zsrbh0j23mjas9x58
+    verified: false
+    hashtags: ""
+  - username: "hyoooooni_"
+    fullname: >-
+      효니 HYONI ヒョニ 🩷
+    bio: >-
+      SEOUL & TOKYO 🇯🇵 #효니_도쿄놀이 - - 협업 및 문의: DM • F&B Director @minute.papillon.official • Trip Cafe food : Photographer
+    location: "South Korea"
+    followers: 36876
+    engagement: 184
+    commentsToLikes: 0.027898
+    id: ck136eit363lp0i197q4qcme7
+    verified: false
+    hashtags: "#aufglet, #tokyo, #japan, #tokyofood"
+  - username: "foodieonfleek"
+    fullname: >-
+      Skyler Lee
+    bio: >-
+      ✨I’m here for food & good times 😌✨ 💜#BTSarmy 🧘🏻‍♀️I also teach yoga 🙏🏼 🎬 17 followers on TikTok🕺🏻 ✈️TRAVEL w/ me or let’s collab!👇🏼
+    location: "South Korea"
+    followers: 138611
+    engagement: 46
+    commentsToLikes: 0.013686
+    id: ck0w4lus5z7zk0i19j9l7wa4c
+    verified: false
+    hashtags: "#korea, #ad, #bt21, #omakasebygino"
   - username: "samaralee_etcetc"
     fullname: >-
       Samara Lee - Official Account
@@ -55,76 +127,4 @@ profiles:
     id: ck5q8bvau5eex0i117ynwkl9u
     verified: false
     hashtags: "#getitweek, #ameowzingdeals, #eunsolinbkk, #happysunday"
-  - username: "colorful.palate"
-    fullname: >-
-      Kelsey | Food Photos
-    bio: >-
-      Colorful dishes for hungry eyes. food content creator | packaging designer | korean american | los angeles, california
-    location: "South Korea"
-    followers: 22832
-    engagement: 868
-    commentsToLikes: 0.188407
-    id: ck0u6mw8f2gox0i19z6m2x4xl
-    verified: false
-    hashtags: "#heresmyfood, #onmyplate, #eattheworld, #onthetable"
-  - username: "bubminji"
-    fullname: >-
-      Minji’s foodstagram
-    bio: >-
-      Enjoying life with Good Food & Coffee 📍: Seoul 🇰🇷 협찬/문의는 DM 🥰
-    location: "South Korea"
-    followers: 4691
-    engagement: 935
-    commentsToLikes: 0.222621
-    id: ck0w5k8nm41vj0i19r3tvzvp3
-    verified: false
-    hashtags: "#abc, #lab41"
-  - username: "jl_yoojin"
-    fullname: >-
-      장유진👩🏽라미엄마
-    bio: >-
-      @fseasonsfitness #포시즌휘트니스 🏋🏼‍♀️ @jl___food 🧑🏽‍🍳 💟 짱유진 유투브 💟
-    location: "South Korea"
-    followers: 115789
-    engagement: 148
-    commentsToLikes: 0.022062
-    id: ck5hlvis4kxvr0i11qlz27xvf
-    verified: false
-    hashtags: "#mlbcrew, #mlb, #mlbkorea"
-  - username: "healthyfoodmakesyoufeelgood"
-    fullname: >-
-      Foodblog Sin
-    bio: >-
-      🤱 Mommy 🌱 Tea lover 🛫 Globetrotter 🍉 World cuisine foodie 🇰🇷 Korean-Belgian blogger 🇧🇪 🏠 Flanders, Belgium
-    location: "South Korea"
-    followers: 3796
-    engagement: 879
-    commentsToLikes: 0.402066
-    id: ck5ho75oap27p0i118v7gt28f
-    verified: false
-    hashtags: "#collab, #gezondeten, #vegan, #foodfotografie"
-  - username: "maangchi"
-    fullname: >-
-      Maangchi
-    bio: >-
-      Korean born, I love to cook & eat delicious food! I teach Korean cooking on YouTube & my website & I wrote 2 bestselling books. Let’s cook together! 🔨
-    location: "South Korea"
-    followers: 273911
-    engagement: 364
-    commentsToLikes: 0.013084
-    id: ck13bru02wv840i19f8aregcc
-    verified: false
-    hashtags: ""
-  - username: "_kim_uni_"
-    fullname: >-
-      김우니😋
-    bio: >-
-      🇰🇷🇯🇵 food & trip & daily✌︎('ω'✌︎ ) 기록✏️日記 . 호이💫가 계속되어 둘리가된 둘리씨와 사는 프로주부🤷‍♀️ 죽을때 단한푼도 남기지 않는것이 삶의 목표💸🤑😇
-    location: "South Korea"
-    followers: 11107
-    engagement: 635
-    commentsToLikes: 0.038617
-    id: ckaoqpfbkjr390i78f77szgbg
-    verified: false
-    hashtags: "#sugalabov, #louisvuitton, #sugalabo, #birkintouch"
 ---

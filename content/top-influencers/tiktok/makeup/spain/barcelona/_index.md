@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Barcelona In 2023
+title: Top 10 Makeup TikTok Influencers In Barcelona In 2024
 description: >-
-  Find top makeup TikTok influencers in Barcelona in 2023. Most popular hashtags: #fyp #makeup #foryou #makeupartist.
+  Find top makeup TikTok influencers in Barcelona in 2024. Most popular hashtags: #fyp #makeup #foryou #makeupartist.
 platform: TikTok
 hits: 5
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 5 TikTok influencers like this in Barcelona, Spain for you to connect with.
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 5 TikTok influencers like this in Barcelona, Spain for you to contact.
 profiles:
   - username: "annersite"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.010609
     id: ck904fvc3e8110j78ehh8w2o5
     verified: true
-    hashtags: "#tutorial, #makeupartist, #ad, #elinternadolascumbres"
+    hashtags: "#publi, #maquillaje, #elinternadolascumbres, #tutorial"
   - username: "lov3boyyy666"
     fullname: >-
       𝙖𝙡𝙗𝙚𝙧𝙩 ™️
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.042937
     id: ck90267agc6lk0j784gec8o5n
     verified: false
-    hashtags: "#barcelona, #fyp, #pregnant, #embarazo"
+    hashtags: "#fyp, #pregnancyannouncement, #cuarentena, #foryourpage"
   - username: "heyeiko"
     fullname: >-
       Hey! Eiko!
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.010609
     id: ck904fvc3e8110j78ehh8w2o5
     verified: true
-    hashtags: "#tutorial, #makeupartist, #ad, #elinternadolascumbres"
+    hashtags: "#publi, #maquillaje, #elinternadolascumbres, #tutorial"
   - username: "latoxi"
     fullname: >-
       Latoxi

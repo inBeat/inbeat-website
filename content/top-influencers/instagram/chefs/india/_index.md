@@ -1,130 +1,130 @@
 ---
-title: Top 10 Chefs Instagram Influencers In India In 2023
+title: Top 10 Chefs Instagram Influencers In India In 2024
 description: >-
-  Find top chefs Instagram influencers in India in 2023. Most popular hashtags: #indianfood #instafood #foodporn #foodblogger.
+  Find top chefs Instagram influencers in India in 2024. Most popular hashtags: #explorepage #explore #instagood #reelsindia.
 platform: Instagram
-hits: 159
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 159 Instagram influencers like this in India for you to connect with.
+hits: 233
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 233 Instagram influencers like this in India for you to contact.
 profiles:
-  - username: "aperfectfusion"
+  - username: "mory_coco"
     fullname: >-
-      Disha Khurana
+      Mariam Bakre
     bio: >-
-      Content Creator, Recipe Developer, Food Stylist. Previously worked with Chef @saranshgoila Digital Partner - @uppercrustmag Food Show 2022
+      God 💛 A creative 🎯 Story teller 📖 Chef 🧑‍🍳 @flavoursofmory Watch my short film. Subscribe to my mailing list👇🏻 📩 Email: mory@lit.com.ng
     location: "India"
-    followers: 57530
-    engagement: 99
-    commentsToLikes: 0.242613
-    id: ckaoukslc0pa40i78zoc9m3fu
+    followers: 245299
+    engagement: 451
+    commentsToLikes: 0.016164
+    id: ck15p9f5vwr4l0i19ix8fwrgw
     verified: false
-    hashtags: "#contentcreator, #somumbai, #mumbai, #boireels"
-  - username: "papare_thebeautyofsmallthings"
+    hashtags: "#chopbeta, #eatforgood, #chivitahollandiabrunch, #knorr"
+  - username: "saranshgoila"
     fullname: >-
-      Papare 🍴 Mirela Andoni
+      Saransh Goila
     bio: >-
-      TV Chef&TV presenter #Instafood #çfarëkashtëpia @tring_albania Cooking editor-Receta në 2 minuta 📫DM for collaboration
+      👨‍🍳 That Delishaaas Indian Chef 👔 Cofounder @goilabutterchicken 100+ stores 📺 Tv Host 🧳 Traveller 🏃 Marathon Runner & Author 📱9910421104
     location: "India"
-    followers: 53422
-    engagement: 94
-    commentsToLikes: 0.037961
-    id: ckap6jyl5g5ys0i78nnuhw8l4
-    verified: false
-    hashtags: "#gatimetradicionale, #cookhome, #yummy, #bestfoodfeed"
-  - username: "__miss_manu__"
-    fullname: >-
-      Mrudula Dixit
-    bio: >-
-      CHEF👩🏻‍🍳 🚩BRAHMIIN🚩 नाशिककर😎 ♥️♥️M24i♥️♥️ #Love❤photoshoot😎
-    location: "India"
-    followers: 3991
-    engagement: 1613
-    commentsToLikes: 0.039070
-    id: ck8wf4qztf4hv0j78cu1kcvmw
-    verified: false
-    hashtags: "#post, #mu, #panda, #degree"
-  - username: "iamkenferns"
-    fullname: >-
-      🅺🅴🅽 🅵🅴🆁🅽🆂
-    bio: >-
-      An expressionist 🖌️ A dreamer 🦄 A creator🕴️ A traveller 🧭 A home chef 🍲 A melomaniac 🎧 DM me for expressive collaborations on fashion/arts/lifestyle
-    location: "India"
-    followers: 130910
-    engagement: 1098
-    commentsToLikes: 0.055267
-    id: ck5zwq0zo6kk10i144lsahsyh
-    verified: false
-    hashtags: "#biggboss14, #repost, #kenferns, #shehnazians"
-  - username: "being_sriman"
-    fullname: >-
-      Foodie|Odisha|Karnataka
-    bio: >-
-      Welcome to my plating world. ❤️ Home chef. Food blogger in process Odisha -> Delhi -> Bangalore Use #beingsriman or #chotaplatter to get featured.
-    location: "India"
-    followers: 3322
-    engagement: 2015
-    commentsToLikes: 0.325217
-    id: ckaovz55h6pq70i78si75guxo
-    verified: false
-    hashtags: "#bhubaneswarfoodblogger, #desithali, #delhifoodie, #bangalorefoodbloggers"
-  - username: "chefs_snacks"
-    fullname: >-
-      𝕾𝖔𝖓𝖆𝖑𝖎
-    bio: >-
-      𝗙𝗼𝗼𝗱 ० 𝗕𝗲𝗮𝘂𝘁𝘆 ० 𝗧𝗿𝗮𝘃𝗲𝗹 ० 𝗙𝗮𝘀𝗵𝗶𝗼𝗻 📍🇮🇳 👩‍💻Software Engineer & Founder of @chefs_snacks 📨: Link www.dettolsalutes.com ✈️ around the 🌎with @nomadic_boho
-    location: "India"
-    followers: 20677
-    engagement: 347
-    commentsToLikes: 0.155436
-    id: ck6uhfxtb8wbo0j714a97spzs
-    verified: false
-    hashtags: "#coffeegram, #morning, #eeeeeats, #beertography"
-  - username: "cityfoodwalk"
-    fullname: >-
-      City Food Walk | Udit
-    bio: >-
-      Discover The Best Of Food, Varanasi Has To Offer!! • Ex. Chef 👨‍🍳 📍Varanasi, INDIA DM / Mail For Invites / Collaboration / Promotions 📨
-    location: "India"
-    followers: 4201
-    engagement: 2085
-    commentsToLikes: 0.356175
-    id: ckaouo3pm14fd0i78e4l55i5l
-    verified: false
-    hashtags: "#cheese, #foodporn, #coffee, #northindianfood"
-  - username: "gothamcitydc"
-    fullname: >-
-      Goutham Elangovan
-    bio: >-
-      Model🕴🏻interior designer 🎪 Foodie🍿🍩🍺🍷🍾🥡🍗🍕🍔🥓🍟🍤🍱🍣gamer animallover Chef👨‍🍳 The Alien Guy👽 @3rd_dimensional_agency
-    location: "India"
-    followers: 6924
-    engagement: 2530
-    commentsToLikes: 0.009527
-    id: ckap5tt6nd4uq0i78f25sk7be
-    verified: false
-    hashtags: "#cosmicspirit2, #goa, #feb29, #2020"
-  - username: "shagunmehra_"
-    fullname: >-
-      Shagun Mehra
-    bio: >-
-      Chef 👩🏻‍🍳| Oenophile🍷| Conservationist 🐘|
-    location: "India"
-    followers: 55760
-    engagement: 157
-    commentsToLikes: 0.048534
-    id: ck14j3xnwiief0i19yago4gns
+    followers: 1291465
+    engagement: 400
+    commentsToLikes: 0.009508
+    id: ck139qxqump6q0i19slyd7lmd
     verified: true
-    hashtags: "#indianchef, #invinoveritas, #popuprestaurant, #cheflife"
-  - username: "missbiryani"
+    hashtags: "#friendship, #saranshgoila, #khaanemeinkyahai, #cooking"
+  - username: "chef_rachit"
     fullname: >-
-      Swati Pathak
+      Chef Rachit Kirteeman
     bio: >-
-      Kolkata Food Blogger Proud to be #vegetarian #missbiryani #Foodie/ Chef🍔🍟🍝🍿🍫🍩 #Blogger 📖 ✍️ Strict note - No Repost without credit🚫
+      • Chef 👨‍🍳Culinary Consultant • Chef Trainer Odia Cuisine @wgsha.manipal • Documenting Odia food,hyperlocal produce, culinary heritage and stories.
     location: "India"
-    followers: 27454
-    engagement: 268
-    commentsToLikes: 0.114503
-    id: ck9hbwa7aiqcj0j782kplefiw
+    followers: 5592
+    engagement: 532
+    commentsToLikes: 0.055165
+    id: ck5ccimj5hfjs0i116dalpzxd
     verified: false
-    hashtags: "#healthylifestyle, #indianfood, #vegetarianfood, #londonfoodie"
+    hashtags: "#foodphotography, #foodfindo, #indiapicturehub, #timelapse"
+  - username: "indian_bawarchi"
+    fullname: >-
+      Eshaan Nagpal
+    bio: >-
+      You already know who I am ! ~ @chef.eshaan.nagpal BIZZ - @clencarat.club
+    location: "India"
+    followers: 3012989
+    engagement: 482
+    commentsToLikes: 0.003671
+    id: clnsite2ugtzm0j08fmjqy6dn
+    verified: false
+    hashtags: "#delhifoodie, #mumbaifoodilicious, #punjabifood, #snacks"
+  - username: "afrozshaikh_95"
+    fullname: >-
+      Afroz Anwar Shaikh
+    bio: >-
+      Mumbai📍 👉 Chef 👩‍🍳 / Vlogger Paid Promotion Email : mrmrabusiness@gmail.com
+    location: "India"
+    followers: 621794
+    engagement: 683
+    commentsToLikes: 0.009651
+    id: ck9wdc1seez820j78mtp8tvf9
+    verified: false
+    hashtags: "#reels, #reelsviral, #trendingreels, #like"
+  - username: "muneeramohaideen"
+    fullname: >-
+      Muneera Mohaideen / Influencer
+    bio: >-
+      👩‍🍳 Home Chef | Stay - at - home 🎀Plain lifestyle with a tint of Modest Middle East ↔️Chennai Paid Collabs muneeramohaideen94@gmail.com
+    location: "India"
+    followers: 63601
+    engagement: 423
+    commentsToLikes: 0.023793
+    id: ck0u9id8s9zaa0i19lx9k1uco
+    verified: false
+    hashtags: "#letsexplorechennai, #freepalestine, #bestfinds, #nammachennai"
+  - username: "pavneet_saini_42"
+    fullname: >-
+      Kudi italy too 🇮🇹
+    bio: >-
+      ☬ 🙏 ☬ strong Believer of God Talent without working Hard is nothing ✌️ OWNER -at @bar_neet23 DIY = Do It Yourself 💯 #barlady🍷 #chef👩‍🍳 #simplegirl
+    location: "India"
+    followers: 15316
+    engagement: 843
+    commentsToLikes: 0.064911
+    id: ck8wf90jdfc6u0j78j1k133a5
+    verified: false
+    hashtags: "#hoshiarpuriye, #photography, #indiapaklove, #waheguruji"
+  - username: "hiteshbhayal_"
+    fullname: >-
+      हितेश भयाल
+    bio: >-
+      || कृष्ण सदा सहायते || Managed by - @iplixmedia Gratitude✨ CHEF 👨🏻‍🍳
+    location: "India"
+    followers: 100982
+    engagement: 3096
+    commentsToLikes: 0.010792
+    id: ck8wex2opeqz00j78ll926fey
+    verified: false
+    hashtags: "#reelsvideos, #reelsinstagram, #iskconfood, #iskcontemple"
+  - username: "realsophy"
+    fullname: >-
+      SOSO (Sophia Chisom)
+    bio: >-
+      Actor | Content Creator | Influencer | Model | Chef Tiktok: 2.7M+
+    location: "India"
+    followers: 630930
+    engagement: 397
+    commentsToLikes: 0.047008
+    id: ck5hrhn71uw9s0i11uinjrqi5
+    verified: false
+    hashtags: "#thursday, #portharcourt, #twopiece, #love"
+  - username: "chefhussainshahzad"
+    fullname: >-
+      Hussain Shahzad
+    bio: >-
+      Executive chef at Hunger Inc. (@thebombaycanteen @opedromumbai @veronicasbombay & @papasbombay ) Line cook at @elevenmadisonpark | From Chennai 📍
+    location: "India"
+    followers: 25131
+    engagement: 395
+    commentsToLikes: 0.013294
+    id: ck6trxeyk1mfc0j71p9edz91b
+    verified: false
+    hashtags: "#mumbai, #culinaryexcellence, #tfna24, #newmenu"
 ---

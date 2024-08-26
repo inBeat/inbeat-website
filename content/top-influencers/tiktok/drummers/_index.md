@@ -1,11 +1,11 @@
 ---
-title: Top 10 Drummers TikTok Influencers In 2023
+title: Top 10 Drummers TikTok Influencers In 2024
 description: >-
-  Find top drummers TikTok influencers in 2023. Most popular hashtags: #drummer #fyp #duet.
+  Find top drummers TikTok influencers in 2024. Most popular hashtags: #drummer #fyp #duet.
 platform: TikTok
-hits: 189
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our platform holds 189 TikTok influencers like this for you to collaborate.
+hits: 190
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 190 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "xxrook"
     fullname: >-

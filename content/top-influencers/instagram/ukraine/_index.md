@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Ukraine In 2023
+title: Top 10 Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top Instagram influencers in Ukraine in 2023. Most popular hashtags: #standwithukraine #stoprussia #artvertex.
+  Find top Instagram influencers in Ukraine in 2024. Most popular hashtags: #style #aesthetic #streetstyle.
 platform: Instagram
-hits: 1592
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database has 1592 Instagram influencers like this in Ukraine for you to collaborate.
+hits: 1727
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 1727 Instagram influencers like this in Ukraine for you to pitch.
 profiles:
-  - username: "wanderreds"
+  - username: "burlutskyi"
     fullname: >-
-      Alvaro Rojas
+      Travel Dreamer #109 countries
     bio: >-
-      Youngest Spaniard to Visit Every Country in the World. ⇝ Professional Traveler. ⇝ Founder: @wanderexpedition ⇝ JOIN AN EXPEDITION ⤵
+      ⭐️ Luxury Traveler & Lifestyle ⭐️ Professional Business Coach ⭐️ Brand Ambassador of VISA ⭐️ Friends & Family HILTON
     location: "Ukraine"
-    followers: 313767
-    engagement: 904
-    commentsToLikes: 0.016538
-    id: ck8syazsekbfo0j781wlj7dic
-    verified: true
+    followers: 759768
+    engagement: 410
+    commentsToLikes: 0.012872
+    id: ck13aupffsa5k0i19qox0h2jb
+    verified: false
+    hashtags: "#instatravel, #anantiresort, #travelblog, #instagram"
+  - username: "olgakharlan"
+    fullname: >-
+      Kharlan Olga
+    bio: >-
+      Olympic Games 🇨🇳‘08🥇 • 🇬🇧‘12🥉• 🇧🇷‘16🥈🥉 Ukrainian fencer🤺🇺🇦 @redbull athlete • @nike athlete • @athleteps athlete PR & Cooperation @kharlan.cooperation
+    location: "Ukraine"
+    followers: 134218
+    engagement: 523
+    commentsToLikes: 0.011298
+    id: ck5zua1eq1yv90i14q4lgrp3h
+    verified: false
+    hashtags: "#amore, #fencing, #fashion, #dancingwithstars"
+  - username: "tetyanamaryshko"
+    fullname: >-
+      Tetyana Maryshko
+    bio: >-
+      ◾️Images carved out of feelings ◾️portraits | family | commercial ◾️Visual artist ◾️Ukrainian ◾️Dublin
+    location: "Ukraine"
+    followers: 8708
+    engagement: 497
+    commentsToLikes: 0.077789
+    id: ck6ub12qq6uqz0j71n8v7ncv0
+    verified: false
+    hashtags: "#wayoutwest, #discoverireland, #happybirthdaytome, #projecttwelve20"
+  - username: "sania_camelli"
+    fullname: >-
+      Anastasiia
+    bio: >-
+      Based in Cannes, France Model Content creator: @camelli.s my soul: @camelli__shop ✉️camelli.pr@gmail.com
+    location: "Ukraine"
+    followers: 135006
+    engagement: 602
+    commentsToLikes: 0.007345
+    id: ck55lphw2241d0i11hzvj4c26
+    verified: false
     hashtags: ""
+  - username: "ptuxerman"
+    fullname: >-
+      Anton Ptushkin
+    bio: >-
+      Збір на кейсевак:
+    location: "Ukraine"
+    followers: 2071936
+    engagement: 458
+    commentsToLikes: 0.014830
+    id: ck0w42fw2wh2o0i19wywm6v9f
+    verified: false
+    hashtags: ""
+  - username: "valerakomarova"
+    fullname: >-
+      ᴠᴀʟᴇʀɪʏᴀ ᴋᴏᴍᴀʀᴏᴠᴀ
+    bio: >-
+      ▫️ my @affluenceua 🧶 ▫️ cooperation 💌@valera.komarova ▫️ content creator for brands 💌 PR/AD➡️ collabs.komarova@gmail.com 📍Ukraine 🇺🇦
+    location: "Ukraine"
+    followers: 445072
+    engagement: 478
+    commentsToLikes: 0.009839
+    id: ck0ttmprf3dt60i19mzx6f2fi
+    verified: false
+    hashtags: "#ootd"
+  - username: "shura.i.am"
+    fullname: >-
+      𝐔𝐆𝐂 𝗰𝗿𝗲𝗮𝘁𝗼𝗿  | 𝐂𝐎𝐍𝐓𝐄𝐍𝐓 𝐐𝐔𝐄𝐄𝐍
+    bio: >-
+      •𝗖𝗢𝗡𝗧𝗘𝗡𝗧 𝗙𝗢𝗥 𝗕𝗥𝗔𝗡𝗗𝗦 •Minimal Style | fashion inspo •Life in stories Cooperation DM
+    location: "Ukraine"
+    followers: 11393
+    engagement: 538
+    commentsToLikes: 0.072043
+    id: ckap4x14899mk0i78smyym246
+    verified: false
+    hashtags: "#style, #streetstyle, #styleblogger, #details"
+  - username: "osia2013"
+    fullname: >-
+      OSIA YOUTUBE BLOGGER
+    bio: >-
+      Beauty | Fashion | Home | Cooking 14 years in Poland🇺🇦 500K+ YouTube channel Instagram PL : @olga.muszynska Contact: olga.donczenko@gmail.com
+    location: "Ukraine"
+    followers: 238223
+    engagement: 806
+    commentsToLikes: 0.011912
+    id: ck0w3hdw1tf460i1912161s2o
+    verified: false
+    hashtags: "#makeup, #zara, #stylefashion, #vacationmode"
   - username: "s.nova.vintage"
     fullname: >-
-      Vintage Style Guide 🇺🇦
+      Anastasiia Hryhoruk | Vintage Style Guide 🇺🇦
     bio: >-
-      Anastasiia Nova 🤍 29 Femininity lives here. Vintage Content Creator and Digital Consultant from Kyiv, Ukraine 💙💛 Currently in Bratislava, Slovakia.
+      Anastasiia Nova 🤍 Feminine vintage looks 🤍 TikTok: 2.1M+ 🤍 Content Creator/Digital Consultant 🤍 Backup: @s.nova.vintage2
     location: "Ukraine"
-    followers: 254361
-    engagement: 521
-    commentsToLikes: 0.008532
+    followers: 1633080
+    engagement: 478
+    commentsToLikes: 0.010072
     id: ck0u1o8qoxhf10i19rybvye34
     verified: false
-    hashtags: "#vintagemakeup, #fiftiesstyle, #50sstyle, #parisianlifestyle"
-  - username: "melynutty"
+    hashtags: "#bighats, #truevintageootd, #fifties, #truevintage"
+  - username: "im.arinari"
     fullname: >-
-      Melis Özten
+      ᴀʀɪɴᴀ ʟᴜʙɪᴛᴇʟᴇᴠᴀ 🇺🇦
     bio: >-
-      Pharmacist mely@51digital.com Youtube👉🏻Mely Nutty @melisozten Youtube Kanalım;
+      LA 📍🇺🇸 model @geneticmodels | host | music ʙᴇᴀᴜᴛʏ & ꜰᴀꜱʜɪᴏɴ ʟᴏᴠᴇʀ 🫀 ᴏᴡɴᴇʀ @lav.brand ᴀᴅ 📮 @arina.ri_cooperation
     location: "Ukraine"
-    followers: 370103
-    engagement: 397
-    commentsToLikes: 0.031409
-    id: ck8t1fcyevjyc0j78tt0msohm
-    verified: false
-    hashtags: "#switzerland, #ibiza, #spain, #metime"
-  - username: "anni_tett"
-    fullname: >-
-      Tania Yakunova
-    bio: >-
-      🇺🇦 illustrator, artist and ceramic enthusiast 🏆 WIA 2022 and Red Dot Winner ❤️ Domestika course👇 🤓 E-mail for collaboration 📮 yakunova.t@gmail.com
-    location: "Ukraine"
-    followers: 49101
-    engagement: 529
-    commentsToLikes: 0.013505
-    id: ckaotc3ysv9i40i78j4dt2lav
-    verified: false
-    hashtags: "#webillustration, #springillustration, #greetingcarddesign, #summerillustration"
-  - username: "zelenskiy_official"
-    fullname: >-
-      Володимир Зеленський
-    bio: >-
-      Президент України
-    location: "Ukraine"
-    followers: 16885442
-    engagement: 145
-    commentsToLikes: 0.012336
-    id: ck0tzrzxsrdx20i19hg48a4si
+    followers: 123507
+    engagement: 578
+    commentsToLikes: 0.004056
+    id: ck6tq3fyrp5zt0j71i6rjgqxf
     verified: true
-    hashtags: "#russiaisateroriststate, #lightupukraine"
-  - username: "olya__beshta"
-    fullname: >-
-      Olya Beshta
-    bio: >-
-      •Jesus is the Lord ✞ •Wifey🤍 •Mama👩🏼👱🏼‍♀️👧🏼 •Ukrainian🇺🇦 •CA📍 •Travel 🗺 •Photo lover📸 • «Не суди про книгу по її обкладинці…»
-    location: "Ukraine"
-    followers: 48837
-    engagement: 138
-    commentsToLikes: 0.010419
-    id: ckf5oergb1z230j23e4f4b5o5
-    verified: false
-    hashtags: "#waves, #beshtafamily, #travel, #shastamountain"
-  - username: "anastasia_fotachi"
-    fullname: >-
-      Anastasia Stati🖤
-    bio: >-
-      💌Co -Prezentatoare @roatanoroculuimoldova 💌Closet @anastasiasclothes95 . 💌 For collaboration @pr_anastasiafotachi Balance your mind here☺️
-    location: "Ukraine"
-    followers: 248959
-    engagement: 138
-    commentsToLikes: 0.019119
-    id: ck6u48val2cur0j71muqb2pjl
-    verified: false
-    hashtags: "#mykonos, #mykonosisland, #vibes, #takemeback"
-  - username: "begalisvetlana"
-    fullname: >-
-      𝐒 𝐕 𝐄 𝐓 𝐋 𝐀 𝐍 𝐀⠀⠀𝐀 𝐑 𝐓
-    bio: >-
-      • Self-taught artist based in Ukraine 🇺🇦 ⠀ • рисую портреты по фото 📩 contact • begali.sveta@gmail.com ⠀
-    location: "Ukraine"
-    followers: 43908
-    engagement: 914
-    commentsToLikes: 0.057333
-    id: ck14jrlzqltug0i19dyqm2358
-    verified: false
-    hashtags: "#colorpencildrawing, #pencilartist, #drawdaily, #artvertex"
-  - username: "yana_schedrina"
-    fullname: >-
-      Yana Schedriná🪐Visual creator
-    bio: >-
-      та сама Яна контент якої продає фотосесія & візуал під ключ ⠀ 🥞 work @muse.mood ☕️ в stories про бренди, тренди і обробку
-    location: "Ukraine"
-    followers: 24301
-    engagement: 1481
-    commentsToLikes: 0.140241
-    id: ck5cev93yls100i11wimf7izu
-    verified: false
-    hashtags: ""
-  - username: "holovenko_photo"
-    fullname: >-
-      
-    bio: >-
-      ▫️Wedding & Love Story ▫️Ivano-Frankivsk🔸Lviv🔸Kiev ▫️Випускниця @weddschool ▫️Про мене @anna_holovenko 📲+380961037779
-    location: "Ukraine"
-    followers: 9313
-    engagement: 1494
-    commentsToLikes: 0.083741
-    id: ck5qcyjcosyeh0i11emumhcks
-    verified: false
-    hashtags: "#wedding, #holovenkowedding, #weddingdress, #holovenko"
+    hashtags: "#ysl, #zielinskiandrozen, #nyc, #arcticmonkeys"
 ---

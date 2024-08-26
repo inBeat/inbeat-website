@@ -1,24 +1,36 @@
 ---
-title: Top 10 Runners Instagram Influencers In Switzerland In 2023
+title: Top 10 Runners Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top runners Instagram influencers in Switzerland in 2023. Most popular hashtags: #running #runningmotivation #picoftheday #runnersofinstagram.
+  Find top runners Instagram influencers in Switzerland in 2024. Most popular hashtags: #running #runnersofinstagram #runners.
 platform: Instagram
-hits: 17
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 17 Instagram influencers like this in Switzerland for you to work with.
+hits: 18
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 18 Instagram influencers like this in Switzerland for you to pitch.
 profiles:
-  - username: "sarah_atcho"
+  - username: "lenkavacval"
     fullname: >-
-      Sarah Atcho
+      Lenka Poláčková
     bio: >-
-      200m runner 🏃🏾‍♀️ 4x100 national record holder @puma | @mauricelacroix | Cronos @vitaminwellswitzerland | @foodspring_athletics
+      VER SVOJEJ CESTE EVEREST no OX summiter ⛰ actress & TV host ultra trail runner 2100km Via Alpina(2023) 880km Peru 1000km Colorado KOCÚR V SVETRI ⬇️
     location: "Switzerland"
-    followers: 18480
-    engagement: 1126
-    commentsToLikes: 0.019327
-    id: ck5cbwhdtgak70i11zpg39uae
+    followers: 155971
+    engagement: 616
+    commentsToLikes: 0.010823
+    id: ck14guzrh75xf0i195ws2lc8o
+    verified: true
+    hashtags: "#najdemodvahu, #slovensko, #mixa, #mixalabsserums"
+  - username: "gipfelistuermer"
+    fullname: >-
+      Timo
+    bio: >-
+      A Runner's Heart That Beats for Mountains 🇨🇭 esa Trailrunning Guide ☁️ Coach x Ambassador @on ⏱️ Creator @garmin_beatyesterday
+    location: "Switzerland"
+    followers: 10211
+    engagement: 617
+    commentsToLikes: 0.019814
+    id: ckf5w8na6r91s0j233rlrfoua
     verified: false
-    hashtags: "#motivation, #gymgirl, #howtorun, #reelsinstagram"
+    hashtags: "#stmoritzruns, #runonclouds, #beatyesterday, #onrunning"
   - username: "rabina17"
     fullname: >-
       Peter Lewis
@@ -31,18 +43,6 @@ profiles:
     id: ck0u9g1me9obw0i197dl4ob56
     verified: false
     hashtags: ""
-  - username: "premekvida"
-    fullname: >-
-      Přemysl Vida
-    bio: >-
-      Proud father 👧@mujzivotseli #vidovicz Runner 👟 50k 3:32, 360km 6days Photo❤️ #vida_nature_photo 📷 #vidadronevideo #vidagravityglue
-    location: "Switzerland"
-    followers: 16689
-    engagement: 280
-    commentsToLikes: 0.019243
-    id: ck5cezcuum0n10i11xptyuim6
-    verified: false
-    hashtags: "#sunrise, #krkonose, #nature, #winterwonderland"
   - username: "prorunner71"
     fullname: >-
       Gionatan Paglialunga
@@ -55,6 +55,42 @@ profiles:
     id: ckap2t2b6072y0i781pa8w3ds
     verified: false
     hashtags: "#lowlife, #dfccustoms, #mopar, #dodgedartcustom"
+  - username: "regamey_wildlife_photographer"
+    fullname: >-
+      Julien Regamey
+    bio: >-
+      Africa Geographic photographer of the year 2020 Runner-up Safaris Guide Kruger National Park
+    location: "Switzerland"
+    followers: 24570
+    engagement: 204
+    commentsToLikes: 0.020348
+    id: ck6u85qfapl7y0j71j3kehfpo
+    verified: false
+    hashtags: "#krugernationalpark, #l4l, #travelphotography, #krugerpark"
+  - username: "thesportyblonde"
+    fullname: >-
+      Camille Chenaux
+    bio: >-
+      🇨🇭🥉🥈🥈 Swiss ATHLETE ⬇️ 💻 ⭐️ PhD Agency @joydisrl
+    location: "Switzerland"
+    followers: 100216
+    engagement: 591
+    commentsToLikes: 0.028635
+    id: ck0u2nivr0hib0i19j9b8py17
+    verified: false
+    hashtags: "#fitfam, #nevergiveup, #hardwork, #motivation"
+  - username: "premekvida"
+    fullname: >-
+      Přemysl Vida
+    bio: >-
+      Proud father👧👧 @mujzivotseliamadlen #vidovicz ▪️Runner👟jiz50RUN 3:32▪️Coach 🏂🇨🇿 ▪️Ambassador: ON RUNNING,2XU,TOP4RUNNIG, PEAK DESIGN,THULE,Běhej🌲
+    location: "Switzerland"
+    followers: 17371
+    engagement: 192
+    commentsToLikes: 0.022526
+    id: ck5cezcuum0n10i11xptyuim6
+    verified: false
+    hashtags: "#welovenature, #spoluprace, #runningtime, #behej"
   - username: "janvberkel"
     fullname: >-
       Jan van Berkel
@@ -78,53 +114,17 @@ profiles:
     commentsToLikes: 0.014102
     id: ck0u6rhbn2py40i19jsy9aj59
     verified: false
-    hashtags: "#runnersdelights, #running, #switzerland, #dresses"
-  - username: "anina.gepp"
+    hashtags: "#running, #switzerland, #runnersdelights, #bubbles"
+  - username: "leasprunger"
     fullname: >-
-      Anina 🦋
+      Lea Sprunger
     bio: >-
-      ☼ gesund, bewusst & im Moment leben ☼ sharing my passion for yoga, poems & food ☼ yoga teacher & author📍Tenerife ☼ Januar-Retreat - jetzt anmelden ⇣
+      🇨🇭 400m hurdles - 3x Olympian Double European champion & Two times world Top 5 Swiss record holder 400mH, 400 @smove.ch
     location: "Switzerland"
-    followers: 98250
-    engagement: 249
-    commentsToLikes: 0.034483
-    id: ck0vyo0mf4y1v0i19m1bn9fbo
+    followers: 30932
+    engagement: 849
+    commentsToLikes: 0.015370
+    id: ck0vzvlz4b41y0i195aq5vfp8
     verified: false
-    hashtags: "#gl, #selbstf, #bewusstleben, #gutertag"
-  - username: "lalacla_"
-    fullname: >-
-      Claudia
-    bio: >-
-      Simplicity is the ultimate sophistication✨ Made in Italy📍Zurich 📚curious |🎢crazy | 🌍empatic |🧘🏻mindfull |🎭Arts |💫Aquarius
-    location: "Switzerland"
-    followers: 5442
-    engagement: 2545
-    commentsToLikes: 0.034823
-    id: ck8t6drijd8il0j78i9zqzkcn
-    verified: false
-    hashtags: "#lago, #swissalps, #lake, #clouds"
-  - username: "damianalvarezt"
-    fullname: >-
-      Damián Álvarez
-    bio: >-
-      Half Galician / Half Swiss Model based in Italy 🏃🏽‍♂️ ASICSFrontRunner
-    location: "Switzerland"
-    followers: 16200
-    engagement: 368
-    commentsToLikes: 0.072595
-    id: ck6ucwaipht760j71vebrip79
-    verified: false
-    hashtags: "#capetown, #sunrisemind, #asicsfrontrunner, #damianalvarez"
-  - username: "lauraceldrans"
-    fullname: >-
-      LAURA CELDRAN SUBIELA
-    bio: >-
-      💃MTB Instructor💃 • Passionated Mountain Biker • YouTuber 🎥 👇🏻👇🏻 CLICA AQUÍ 👇🏻👇🏻
-    location: "Switzerland"
-    followers: 94863
-    engagement: 528
-    commentsToLikes: 0.015710
-    id: ck5btrc3nggm40i11lrwciato
-    verified: false
-    hashtags: "#bornfromdirt, #sharethemoment, #girlswhoride, #picoftheday"
+    hashtags: "#onestepcloser, #workhardinsilence, #letsuccessmakethenoise, #proud"
 ---

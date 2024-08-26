@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Israel In 2023
+title: Top 10 Instagram Influencers In Israel In 2024
 description: >-
-  Find top Instagram influencers in Israel in 2023. Most popular hashtags: #israel #israeli #telavivcity.
+  Find top Instagram influencers in Israel in 2024. Most popular hashtags: #love #makeup #paid.
 platform: Instagram
-hits: 24
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 24 Instagram influencers like this in Israel for you to work with.
+hits: 23
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 23 Instagram influencers like this in Israel for you to contact.
 profiles:
   - username: "nicol_zelikman"
     fullname: >-
@@ -19,6 +19,66 @@ profiles:
     id: ck0vz4hld79hz0i19jasnyrvl
     verified: false
     hashtags: "#passion, #flexible, #rg, #nicolzelikman"
+  - username: "tali_moas_makeup"
+    fullname: >-
+      Tali Moas
+    bio: >-
+      Tali Moas|טלי מואס Makeup artist|מאפרת מקצועית Brides, Evening & Fashion|כלות, ערב ואופנה 0544712701 🇮🇱
+    location: "Israel"
+    followers: 30992
+    engagement: 596
+    commentsToLikes: 0.014567
+    id: ck15q5fhp16t60i19g3sqzob2
+    verified: false
+    hashtags: "#bride, #urbanbrides, #love, #style"
+  - username: "shoshiil5551"
+    fullname: >-
+      🌷שושנה תמם🌷 2\25
+    bio: >-
+      Religious 🇮🇱 שושי תמם , נשואה לבועז ואמא של בניה רפאל ונטע👶🏻🧒🏻 קישור למותג הבגדים שלי⬇️
+    location: "Israel"
+    followers: 57200
+    engagement: 251
+    commentsToLikes: 0.105504
+    id: ck0vwuvqyvpm40i1978s1hmfn
+    verified: false
+    hashtags: "#genderreveal, #vanish"
+  - username: "shaharsaul"
+    fullname: >-
+      שחר סאול - Shahar Saul
+    bio: >-
+      🇮🇱 & 🇨🇩 להופעות: אופיר - 050-8499347 גאגא - 03-6056511 ניהול וייצוג: @roman_buchatsky & @gagamanagement‬ 👇
+    location: "Israel"
+    followers: 40883
+    engagement: 186
+    commentsToLikes: 0.011602
+    id: ck0w6gaw38f840i19y6n1nnxb
+    verified: false
+    hashtags: "#jointheflipside, #teamgalaxy, #galaxyzflip5, #fuyamobile"
+  - username: "karin__greenberg"
+    fullname: >-
+      Karin Greenberg Nezer
+    bio: >-
+      Owner of @goldenmia_cosmetics Owner of @greenberg_cosmetic @karingreenberg.women_ עמוד לנשים בלבד 🥰
+    location: "Israel"
+    followers: 117074
+    engagement: 108
+    commentsToLikes: 0.034354
+    id: ck0u8nakj7w1j0i19fm1x0gax
+    verified: false
+    hashtags: "#proudjew, #bringthemhomenow, #women"
+  - username: "gal_gold"
+    fullname: >-
+      Gal_Gold
+    bio: >-
+      ✨ GG Classes | Workshops Founder ✨ Israel📍LA ✨ Galgold.dance@gmail.com
+    location: "Israel"
+    followers: 239354
+    engagement: 185
+    commentsToLikes: 0.021188
+    id: ck0w72dklbfba0i19n0vuywlr
+    verified: false
+    hashtags: "#wildsidedancechallenge, #imwithtrue, #myrlgn, #sponsored"
   - username: "liz_itach"
     fullname: >-
       LIZ  ITACH | ליז איטח
@@ -67,64 +127,4 @@ profiles:
     id: ck0tzd2uhpvjz0i1902aeqzfx
     verified: false
     hashtags: ""
-  - username: "karingreenbergg"
-    fullname: >-
-      Karin Greenberg nezer
-    bio: >-
-      @goldenmia_cosmetics @karingreenberg_jewelry ‏Israel 🇮🇱 27.11.1990
-    location: "Israel"
-    followers: 72986
-    engagement: 453
-    commentsToLikes: 0.021025
-    id: ck0u8nakj7w1j0i19fm1x0gax
-    verified: false
-    hashtags: "#alwayssmile, #liam, #happyholiday, #happiness"
-  - username: "oranefergan"
-    fullname: >-
-      Oran efergan ♡
-    bio: >-
-      Elia@itmodels.co.il @itmodels__ 🇬🇧 @nextmodels Co-owner @jewels.il
-    location: "Israel"
-    followers: 17244
-    engagement: 317
-    commentsToLikes: 0.047741
-    id: ck0w48mtkxc2x0i19qoxyr8wx
-    verified: false
-    hashtags: ""
-  - username: "linoy_ashram"
-    fullname: >-
-      Linoy_ashram
-    bio: >-
-      🎉13/05/99🎉 Israel 🇮🇱 WCH baku 2019🥈🥈🥈🥈🥉🥉. my shop ⬇️
-    location: "Israel"
-    followers: 59074
-    engagement: 913
-    commentsToLikes: 0.015259
-    id: ck0vz4h9v79fb0i19463hposd
-    verified: true
-    hashtags: "#21, #birthday, #readyforsport, #createdwithadidas"
-  - username: "elishiri"
-    fullname: >-
-      Eli Shiri
-    bio: >-
-      Urban Stories | Tel-Aviv | 🇮🇱 🗣 English/עברית ✉️ DM for Photo/Video Shoots 💻 Check out my Facebook page👇🏻
-    location: "Israel"
-    followers: 5655
-    engagement: 1024
-    commentsToLikes: 0.038874
-    id: ck0tvvqtbczxr0i19neqjgney
-    verified: false
-    hashtags: "#israel, #livetlv, #insrael, #insta"
-  - username: "hook_killian_colin"
-    fullname: >-
-      
-    bio: >-
-      
-    location: "Israel"
-    followers: 15672
-    engagement: 514
-    commentsToLikes: 0.004757
-    id: ck0w0huymea0s0i19rpx3nxbl
-    verified: false
-    hashtags: "#captainhook, #killianjones, #onceuponatime, #colinodonoghue1"
 ---

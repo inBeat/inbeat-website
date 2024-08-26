@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs TikTok Influencers In Italy In 2023
+title: Top 10 Chefs TikTok Influencers In Italy In 2024
 description: >-
-  Find top chefs TikTok influencers in Italy in 2023. Most popular hashtags: #chef #imparacontiktok #food #italia.
+  Find top chefs TikTok influencers in Italy in 2024. Most popular hashtags: #chef #food #imparacontiktok #italia.
 platform: TikTok
 hits: 32
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 32 TikTok influencers like this in Italy for you to collaborate.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our database aggregates 32 TikTok influencers like this in Italy for you to contact.
 profiles:
   - username: "chefmassimiliano"
     fullname: >-
@@ -18,19 +18,19 @@ profiles:
     commentsToLikes: 0.010763
     id: ck9re3ac60lpp0j78y98jh3bh
     verified: false
-    hashtags: "#ricettefacili, #masterchef, #ricette, #italia"
+    hashtags: "#ricette, #ricettefacili, #misterybox, #masterchef"
   - username: "bruno.barbieri"
     fullname: >-
       BrunoBarbieriChef
     bio: >-
       Official Tik Tok Page Chef Bruno Barbieri 7 Michelin Star in Career #madeintaly
     location: "Italy"
-    followers: 669000
-    engagement: 1009
-    commentsToLikes: 0.010968
+    followers: 673800
+    engagement: 957
+    commentsToLikes: 0.009570
     id: ck9re386z0l3v0j780o0g1y12
     verified: true
-    hashtags: "#segnodamicizia, #brunopolpette, #2021, #masterchef10"
+    hashtags: "#solocosebelle, #crescentine, #masterchef10, #insieme"
   - username: "chefdamianocarrara"
     fullname: >-
       ChefDamianoCarrara
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.008252
     id: ckdhbd5p0vsrz0j23ldglj2f3
     verified: true
-    hashtags: "#tik, #bellino, #imparacontiktok, #cioccolato"
+    hashtags: "#imparacontiktok, #tik, #bellino, #cioccolato"
   - username: "letortedigiadaofficial"
     fullname: >-
       Letortedigiada
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.008626
     id: ck9du530iezqq0j78clvjkl0p
     verified: true
-    hashtags: "#imparacontiktok, #recipe, #tricks, #cooking"
+    hashtags: "#sweet, #food, #chef, #imparacontiktok"
   - username: "ilgladiatorethereal"
     fullname: >-
       Emanuele vaccarini
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.009841
     id: ck92xosu1zjd70j78jp5i3r6t
     verified: false
-    hashtags: "#like, #italia, #delicious, #ita"
+    hashtags: "#viral, #italia, #foodies, #delicious"
   - username: "simonlucareal"
     fullname: >-
       SimonLuca

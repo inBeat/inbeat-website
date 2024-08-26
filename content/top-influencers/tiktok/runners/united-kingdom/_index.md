@@ -1,11 +1,11 @@
 ---
-title: Top 10 Runners TikTok Influencers In United Kingdom In 2023
+title: Top 10 Runners TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top runners TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #runner #foryou #duet.
+  Find top runners TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #foryou #runner #duet.
 platform: TikTok
 hits: 19
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our platform holds 19 TikTok influencers like this in United Kingdom for you to contact.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 19 TikTok influencers like this in United Kingdom for you to connect with.
 profiles:
   - username: "dianakilduff"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.000000
     id: ck9si8h97xjd40j788zr8vkqr
     verified: false
-    hashtags: "#equality, #gay, #lesbian, #lgbtq"
+    hashtags: "#lesbian, #equality, #lesbianmom, #womenempowerment"
   - username: "theduddlefamily"
     fullname: >-
       TheDuddleFamily
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.007582
     id: ck97ww3c0su8q0j78xuxx29pe
     verified: true
-    hashtags: "#funny, #foryou, #bmg, #fyp"
+    hashtags: "#lockdown, #bmg, #foryou, #bigshaq"
   - username: "independent"
     fullname: >-
       The Independent

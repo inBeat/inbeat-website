@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Indonesia In 2023
+title: Top 10 Lingerie Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top lingerie Instagram influencers in Indonesia in 2023. Most popular hashtags: #lingerie #photooftheday #instagood #fashion.
+  Find top lingerie Instagram influencers in Indonesia in 2024. Most popular hashtags: #ootd #travel #lingerie.
 platform: Instagram
-hits: 18
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 18 Instagram influencers like this in Indonesia for you to collaborate.
+hits: 20
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 20 Instagram influencers like this in Indonesia for you to connect with.
 profiles:
   - username: "jaydekemp12"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck6udfffaks2h0j71f0qnbowl
     verified: false
     hashtags: "#muakfm, #kfmupdete, #crf, #crfsupermoto"
-  - username: "ps.artnaked"
-    fullname: >-
-      PAULIUS STEFANOVICIUS
-    bio: >-
-      📍Lithuania 📷 Swimwear•Lingerie•Artnude•Lifestyle ⌨️ DM / Email for Inqueries Art Nude Gallery ⤵️
-    location: "Indonesia"
-    followers: 13145
-    engagement: 694
-    commentsToLikes: 0.005199
-    id: ck15pqq5wz6q30i19vxqlyqh6
-    verified: false
-    hashtags: "#balibody, #baliphotographer, #holidayphotoshoot, #baliphotographers"
   - username: "drhandamari"
     fullname: >-
       ꦲꦤ꧀ꦢꦩꦫꦶ
@@ -67,64 +55,76 @@ profiles:
     id: ck5q0y5wz8bxx0i11jxgm2ggi
     verified: false
     hashtags: "#maryamfatimah, #maryamkhadija, #founderlemaream, #maryamlathifa"
-  - username: "staniaszekx"
+  - username: "sonny_sun_"
     fullname: >-
-      Dominika Staniaszek
+      Not Found 🦂🇩🇿
     bio: >-
-      🇵🇱♒️ Model at @as_management caro.grynik@asmanagement.pl
+      Bali📍 @karinmodels_official 🇫🇷 @boundarylondon 🇬🇧 @mikasstockholm 🇸🇪 @freedommodelsla 🇺🇸 @wave_management 🇮🇹
     location: "Indonesia"
-    followers: 9766
-    engagement: 2161
-    commentsToLikes: 0.021204
-    id: ckap86xw2n3l60i78siohlyyd
+    followers: 50385
+    engagement: 124
+    commentsToLikes: 0.014030
+    id: ck5c0cjz0svh00i119an17luq
     verified: false
-    hashtags: "#model, #yachtlife, #girl, #instamood"
-  - username: "zaralenajackson"
+    hashtags: "#ootd, #swimsuit, #girl, #sea"
+  - username: "corrieyee"
     fullname: >-
-      𝐙𝐚𝐫𝐚𝐋𝐞𝐧𝐚 𝐉𝐚𝐜𝐤𝐬𝐨𝐧
+      Corrie Yee
     bio: >-
-      🌬𝙿𝚛𝚎𝚜𝚝𝚘𝚗/𝙼𝚊𝚗𝚌𝚑𝚎𝚜𝚝𝚎𝚛📍 🗣𝙰𝚕𝚘𝚙𝚎𝚌𝚒𝚊𝚗 𝙵𝚊𝚒𝚛𝚢 @zaralenacosmetics🧚‍♀️ 👗𝙳𝚛𝚎𝚜𝚜𝚖𝚊𝚔𝚎𝚛 𝙻𝚊𝚋𝚎𝚕 @zaralena✨ 📺𝐌𝐓𝐕📺 📸𝙼𝚘𝚍𝚎𝚕/𝙿𝚁 𝙴𝚗𝚚𝚞𝚒𝚛𝚒𝚎𝚜 - Brandon@pwrmanagement.co.uk 💌
+      Creativity is contagious pass it on!
     location: "Indonesia"
-    followers: 207772
-    engagement: 128
-    commentsToLikes: 0.056286
-    id: ck5zpzngctnjc0i14gmj4185w
+    followers: 2327523
+    engagement: 59
+    commentsToLikes: 0.007437
+    id: ck5c59wpf31u20i11pe9ixd9q
+    verified: false
+    hashtags: "#miami, #bali, #fashion, #la"
+  - username: "orlabrain_"
+    fullname: >-
+      Orla Brain
+    bio: >-
+      𝙶𝚎𝚖𝚒𝚗𝚒 Owner - @orlasbeautybox_ orla.brain@outlook.com for collabs
+    location: "Indonesia"
+    followers: 31979
+    engagement: 54
+    commentsToLikes: 0.015994
+    id: ckprgrq8e8pyx0j23sqkznpw4
+    verified: false
+    hashtags: "#styleblogger, #instastyle, #explorepage, #styleoftheday"
+  - username: "wholovesvanilla"
+    fullname: >-
+      WENNY VANILLA
+    bio: >-
+      ✨ Beauty - Obesity Journey - Healthy Lifestyle 🕊️ Clinical Hypnotherapist CHt® @rumahinsanmulia 🎨 Certified MUA @jsmartnacademy 📞 Vivi 082260008550
+    location: "Indonesia"
+    followers: 49952
+    engagement: 8
+    commentsToLikes: 0.002990
+    id: ck55obn3x81di0i11lfcoe4t6
+    verified: false
+    hashtags: "#sesa, #jomalone, #skinproblems, #golfisland"
+  - username: "sherpieksma"
+    fullname: >-
+      Sharon Pieksma
+    bio: >-
+      ᴍɪꜱꜱ ᴜɴɪᴠᴇʀꜱᴇ ɴᴇᴛʜᴇʀʟᴀɴᴅꜱ 2019 ᴇɴᴠɪʀᴏɴᴍᴇɴᴛᴀʟɪꜱᴛ🌱🌍 ᴅᴊ/ ᴘʀᴏᴅᴜᴄᴇʀ —> @sharemusicdj ᴍᴏᴅᴇʟ ᴀɢᴇɴᴄʏ @euromodelamsterdam @bodyengineers “ʙᴇsʜᴀʀᴏɴ” ᴍʏ ᴍᴜꜱɪᴄ⬇️
+    location: "Indonesia"
+    followers: 119785
+    engagement: 175
+    commentsToLikes: 0.019368
+    id: ck5qefx3m0am10i1197syx57u
     verified: true
-    hashtags: "#teamboandtee, #ohpolly, #fashion, #nikkintimates"
-  - username: "hanickach"
+    hashtags: "#sustainable, #tulum, #mexico, #mexicomagico"
+  - username: "alxx.c.s"
     fullname: >-
-      Ing. Hana Chomaničová
+      Alexandria Strawn
     bio: >-
-      Model, Photo-model 💞@zlyart Ambassador @tajnaclub Finalist Miss Czech Press 2016 Cooperation with eshops 👙
+      Based in Boise, ID 🏔 Management : @42modelmanagement Nature & cats put my mind at ease ♡
     location: "Indonesia"
-    followers: 114586
-    engagement: 206
-    commentsToLikes: 0.031239
-    id: ck5q229kfdx5k0i11qkkir2wo
+    followers: 7589
+    engagement: 311
+    commentsToLikes: 0.064397
+    id: ck5zv3ziv3ju20i1407qug08m
     verified: false
-    hashtags: "#hanickach, #prahacity, #fashionartist, #zlyart"
-  - username: "stephanie.bex"
-    fullname: >-
-      Stephanie | TRAVEL l HEALTH |
-    bio: >-
-      𖥸 CRYPTO INVESTOR 𖥸 SOCIAL MEDIA MANAGEMENT 𓃠. @stephanie.bexvip
-    location: "Indonesia"
-    followers: 13636
-    engagement: 447
-    commentsToLikes: 0.060963
-    id: ckaovrfse5u1b0i78qcaq89rj
-    verified: false
-    hashtags: "#instagood, #photooftheday, #photography, #love"
-  - username: "iszakeszti"
-    fullname: >-
-      iszakeszti
-    bio: >-
-      Viva Tv - Tv presenter - Model - Has sick attraction to music...••• Founder and owner of @isaanofficial •••
-    location: "Indonesia"
-    followers: 200752
-    engagement: 189
-    commentsToLikes: 0.013155
-    id: ck5byg1nip2qf0i11cbbk7pns
-    verified: true
-    hashtags: "#ootd, #yogalife, #yoga, #healthylife"
+    hashtags: "#cute, #highfashion, #commercialmodel, #nature"
 ---

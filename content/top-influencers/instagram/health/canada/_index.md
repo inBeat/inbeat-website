@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Canada In 2023
+title: Top 10 Health Instagram Influencers In Canada In 2024
 description: >-
-  Find top health Instagram influencers in Canada in 2023. Most popular hashtags: #healthylifestyle #mentalhealth #toronto.
+  Find top health Instagram influencers in Canada in 2024. Most popular hashtags: #selflove #trendymom #selflovejourney.
 platform: Instagram
-hits: 399
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 399 Instagram influencers like this in Canada for you to collaborate.
+hits: 846
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database holds 846 Instagram influencers like this in Canada for you to contact.
 profiles:
-  - username: "maddison.noel"
+  - username: "scarlett_morse"
     fullname: >-
-      Maddison | Travel & Adventure
+      Scarlett Morse
     bio: >-
-      HAVE THE BEST DAY EVER ▾ Encouraging you - because you’re worth it ↟ CPT + Health Coach ⋙ owner @_mylesfitness
+      Easy plant based recipes 🥑 Healthy lifestyle & good vibes 🌿 Mamma to ✌💕 10% @coconutbowls: Use SCARLETTCOCOBOWLS10
     location: "Canada"
-    followers: 117368
-    engagement: 327
-    commentsToLikes: 0.011174
-    id: ck15pveawztko0i19qnk287xo
+    followers: 7454
+    engagement: 1079
+    commentsToLikes: 0.142211
+    id: ck5c5wj3h49z30i11ma5vs87k
     verified: false
-    hashtags: "#travelalberta, #explorealberta, #travelnevada, #travelusa"
-  - username: "melsays"
+    hashtags: "#nicecream, #smoothierecipe, #vegandesserts, #mycbsmoothiebowl"
+  - username: "_ktinaaa"
     fullname: >-
-      MELSAYS
+      Tina Rogers
     bio: >-
-      Bilingual TV/Podcast Host | Writer 🗣✍🏻 @theoffners Productions 📺 CPT/FNS Cancer survivor 💪🏻 Mental & physical health advocate 🧠🏃🏼‍♀️
+      healthy hair girly | affordable fashion | outfit & home inspo 📍yyc STUDIO: @hausofhair.yyc
     location: "Canada"
-    followers: 14373
-    engagement: 141
-    commentsToLikes: 0.144922
-    id: ckpn0tv8z3kfb0j235ms3mo84
+    followers: 16027
+    engagement: 1322
+    commentsToLikes: 0.174642
+    id: clb9x522j7o1t0i23gon0yvb3
     verified: false
-    hashtags: "#snowboard, #vancouverisland, #museum, #pcr"
-  - username: "simple_ula"
+    hashtags: "#yychair, #yychairstylist, #yycfashion, #momfashion"
+  - username: "alexjiggs"
     fullname: >-
-      simple Ula ▫️ Urszula Truchan
+      Alex Jiggs
     bio: >-
-      wife&mama 🇵🇱&🇨🇦 🏆Canadian Business Awards:Lifestyle Blog of 2022 Here to encourage you to live a happy,healthy &more productive life🤍 Visit my blog👇
+      𝘮𝘺 𝘥𝘪𝘨𝘪𝘵𝘢𝘭 𝘥𝘪𝘢𝘳𝘺 Travel | Photography | Mental Health AuDHD Creative ✨🌈 ⇩ all my links ⇩
     location: "Canada"
-    followers: 77466
-    engagement: 62
-    commentsToLikes: 0.079169
-    id: ck5zijmh5fu0m0i14r3po37fc
+    followers: 20290
+    engagement: 567
+    commentsToLikes: 0.027887
+    id: ck0ueta4em6zj0i19sve4ome3
     verified: false
-    hashtags: "#ottawablogger, #minimalistichome, #canadianfamily, #canadianmom"
-  - username: "healthynumnumblog"
+    hashtags: "#hellobc, #vancouverbc, #paddleboard, #paddleboardingadventures"
+  - username: "sebas.and.amelia"
     fullname: >-
-      Michelle | Healthy Recipes
+      The Mateos 🌴 Family Blog
     bio: >-
-      healthy yummy recipes by @michellevonhahn mostly: gluten, dairy, & refined sugar free ✉️ — michelle@healthynumnum.com my blog ↓
+      💫 A sparkle of Lifestyle, Childhood & Fashion 🌎 Come join us on our family adventures! 📍 Florida 👀 Mom: @jennyfulcar Travel | Healthy Living
     location: "Canada"
-    followers: 101272
-    engagement: 33
-    commentsToLikes: -0.366543
-    id: clabntkbzsgzk0i23m9rpnnw3
+    followers: 5633
+    engagement: 549
+    commentsToLikes: 0.184530
+    id: cl7i0llswto020i23c10iw1kw
     verified: false
-    hashtags: "#healthyfood, #christmas, #healthyrecipes, #healthylifestyle"
-  - username: "seedsofthree"
+    hashtags: "#fashioninspo, #themateos, #styleover40blogger, #founditonamazon"
+  - username: "thepurrpawsbros"
     fullname: >-
-      LEIGH | Lifestyle, Wellness & Quick Recipes
+      The Purr Paws Bros
     bio: >-
-      • Mom • Writer • Author • Advocate for Mental Health • Focused on the joy of living a full and healthy life • Contributor to Huffington Post
+      😻food tips/health nutrition/raw! Coming 🔜 🥩📋🍽️ ⬜️ Leo 🔲 Milo 🟧 Pablo Join our channels! Ambass: @kittytime99 📣 @meowfestival @catfluence @blogto
     location: "Canada"
-    followers: 40841
-    engagement: 50
-    commentsToLikes: 2.245820
-    id: cks10oy3q2b480j23hvm1fptg
+    followers: 12841
+    engagement: 632
+    commentsToLikes: 0.078675
+    id: cln7vfw8ktbim0j0825xsi2su
     verified: false
-    hashtags: "#recipes, #instagood, #mentalhealth, #recipe"
-  - username: "kgmtl"
+    hashtags: "#catphoto, #catlovers, #kittensofinstagram, #instagatos"
+  - username: "internationalsingh"
     fullname: >-
-      Katherine Garbarino
+      Sukhmeet Singh Sachal
     bio: >-
-      Founder @girlslivingwell ✨ 👩🏽‍🤝‍👩🏻 Your virtual BFF 🍋 Health & Wellness 💅🏽 Beauty & Skincare 🎞 Daily Tips & Tricks 💌 emma@kg-mtl.com
+      🇨🇦 Medical Student 🦄 Social Entrepreneur 🔊Health Activist 🌍 Public Speaker 🎨 Life with a blend of art & science
     location: "Canada"
-    followers: 89793
-    engagement: 379
-    commentsToLikes: 0.009993
-    id: ck55ke17yz3wj0i11cnnamu23
+    followers: 8318
+    engagement: 790
+    commentsToLikes: 0.118324
+    id: ck5zxagon7n4n0i14ka9yd3j4
     verified: false
-    hashtags: "#protectyoface, #kgmtlxardene, #welcometothelowerlevel, #dondala"
-  - username: "natashaahuja"
+    hashtags: "#publichealth, #medschool, #physician, #canadianmedicalassociation"
+  - username: "bodyposipower"
     fullname: >-
-      𝐍𝐚𝐭𝐚𝐬𝐡𝐚 | 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠
+      Michelle | Your Self Love Bestie
     bio: >-
-      ♡ if no one told you today, you matter » positivity, mental health and self-care ☆ social media mgmt + content creation
+      ↳ gettin’ real on the internet ↰ no really, check my reels tab ➝ ✿ mental health | beauty | laughs | life ✶ bodyposipower@gmail.com ☻ “Vancouver”
     location: "Canada"
-    followers: 73726
-    engagement: 269
-    commentsToLikes: 0.047160
-    id: ck5c6oq5h5vn40i11619eva0c
+    followers: 32038
+    engagement: 1308
+    commentsToLikes: 0.046657
+    id: ck0w000f3bptk0i194euaev6r
     verified: false
-    hashtags: "#bellletstalk"
-  - username: "mariapapadakiss"
+    hashtags: "#selflovejourney, #bodyimagehealing, #selflove, #plussize"
+  - username: "desreclark_fit"
     fullname: >-
-      Maria Papadakis
+      MIND + BODY TRANSFORMATION COACH
     bio: >-
-      🎥 Digital Host & In Stadium Host | @torontofc 🎬 Producer | MLSE 💪🏼 Trainer & Healthy Eating Advocate
+      Ready to become your healthiest, happiest, hottest self? @thebodyrebuild | owner apply to work with me below!
     location: "Canada"
-    followers: 5282
-    engagement: 1155
-    commentsToLikes: 0.046551
-    id: ck5bw8ylgl8e70i11csi5gtz1
+    followers: 25375
+    engagement: 619
+    commentsToLikes: 0.048145
+    id: clpdif3vkfcbd0k08v39d63a1
     verified: false
-    hashtags: "#ootd, #toronto, #healthyplanet, #torontolife"
-  - username: "jdolll_x"
+    hashtags: "#growingseason, #fitnessmotivation, #kelownafitness, #growthphase"
+  - username: "_madswellness"
     fullname: >-
-      JDoll | Online Fitness Coach
+      Maddi Cerasuolo | UGC & Content Creator
     bio: >-
-      🍯Multi-faceted as f*ck 📝Mental health advocate | BPD/DBT 🏋🏻‍♀️Gym rat | personal trainer - @yummysports 👇🏽Link for coaching
+      🍩❤️‍🔥🥑 🏋🏼‍♀️ Your realistic health + wellness bestie @mind.body.mingle @therosewoodsocial 💌maddi_cerasuolo@hotmail.com
     location: "Canada"
-    followers: 17014
-    engagement: 445
-    commentsToLikes: 0.092792
-    id: ck5bv32xdiwl80i11qhyoluh8
+    followers: 3229
+    engagement: 438
+    commentsToLikes: 0.079781
+    id: clmwam00zpm3i0j08wr7zyww9
     verified: false
-    hashtags: "#yyc, #girlswithtattoos, #womensupportingwomen, #yycnow"
-  - username: "nachoserricchio"
+    hashtags: "#intuitiveeating, #foodie, #tastetest, #selflove"
+  - username: "sylvia.hussein.fit"
     fullname: >-
-      Ｉｇｎａｃｉｏ Ｓｅｒｒｉｃｃｈｉo
+      Sylvia Emefa Hussein
     bio: >-
-      Mental Health Advocate 💚 Tu Salud Mental Importa
+      FITNESS| HEALTH| LIFESTYLE |FASHION🌱 🇬🇭 🇳🇬 🇨🇦 Email: Sylviahussein@yahoo.com PayPal: sylviahussein@yahoo.com Shop all my links ⬇️ youtube ⬇️
     location: "Canada"
-    followers: 103203
-    engagement: 479
-    commentsToLikes: 0.018802
-    id: ck14k6m7enzsc0i19v2u46wgb
-    verified: true
-    hashtags: "#mentalhealth, #mentalhealthawareness, #nostigma, #yougotthis"
+    followers: 193262
+    engagement: 806
+    commentsToLikes: 0.016247
+    id: cl7k01jimuzay0i23o3woxn39
+    verified: false
+    hashtags: "#strongwomenrock, #fitnessreels, #fitnessgram, #womeninfitness"
 ---

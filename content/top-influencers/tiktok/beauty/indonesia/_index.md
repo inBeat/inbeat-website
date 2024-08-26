@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Indonesia In 2023
+title: Top 10 Beauty TikTok Influencers In Indonesia In 2024
 description: >-
-  Find top beauty TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #makeup #skincare #foryou.
+  Find top beauty TikTok influencers in Indonesia in 2024. Most popular hashtags: #fyp #makeup #foryou #skincare.
 platform: TikTok
 hits: 71
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: inBeat has 71 TikTok influencers like this in Indonesia for you to pitch.
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 71 TikTok influencers like this in Indonesia for you to pitch.
 profiles:
   - username: "qonitcah"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.159415
     id: ck8khxt17opqi0j78jxqe9m2f
     verified: false
-    hashtags: "#beauty, #lashes, #learnwithme, #hair"
+    hashtags: "#learnwithme, #hair, #skincareroutine, #lashes"
   - username: "asmeri315"
     fullname: >-
       asmeri31
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.015914
     id: ckd62pc6t1v580j233y4exrhy
     verified: false
-    hashtags: "#makeup, #foryou, #fyp, #makeuphacks"
+    hashtags: "#foryou, #makeup, #fyp, #adayinthelife"
   - username: "astariririaja"
     fullname: >-
       Astari Budi
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.019089
     id: ckc91c35lr8v00j23bxeyg3lr
     verified: true
-    hashtags: "#beautyinsideout, #pov, #tiktoktainment, #keepitreal"
+    hashtags: "#dearmebeauty, #keepitreal, #beautyinsideout, #fyp"
 ---

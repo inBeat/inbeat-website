@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Rome In 2023
+title: Top 10 Instagram Influencers In Rome In 2024
 description: >-
-  Find top Instagram influencers in Rome in 2023. Most popular hashtags: #nature #travel #milano.
+  Find top Instagram influencers in Rome in 2024. Most popular hashtags: #roma #rome #italy #italia.
 platform: Instagram
-hits: 980
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 980 Instagram influencers like this in Rome, Italy for you to work with.
+hits: 1084
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 1084 Instagram influencers like this in Rome, Italy for you to pitch.
 profiles:
   - username: "camillafalsini"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck0w0hwchea7c0i19tutwwcc5
     verified: false
     hashtags: "#zodiac, #zodiaco, #illustratorsofinstagram, #editorial"
-  - username: "gabriele__diamanti"
+  - username: "la_pauselli"
     fullname: >-
-      Gabriele Diamanti
+      𝐆𝐢𝐮𝐥𝐢𝐚 𝐏𝐚𝐮𝐬𝐞𝐥𝐥𝐢
     bio: >-
-      Italian show jumping rider🇮🇹 national and international competitions 📍Rome sponsored by:@kepitalia @sergiograsso_ridingboots @sarmhippique @erreplus
+      𝗗𝗮𝗻𝗰𝗲𝗿 @amiciufficiale 𝘼𝙣𝙣 𝘼𝙩𝙤𝙢𝙞𝙘 𝙖𝙩 @crazyhorseparis_official 𝙂𝙧𝙖𝙙𝙪𝙖𝙩𝙚𝙙 𝙖𝙩 @teatroallascala 𝙏𝙖𝙡𝙚𝙣𝙩 @wannabemgmt 👶🏼Romeo’s mom ♾️@marcellosacchetta
     location: "Italy"
-    followers: 19540
-    engagement: 1025
-    commentsToLikes: 0.078924
-    id: ck8sy9ezck6ka0j78q7k9qniy
-    verified: false
-    hashtags: "#equestrian, #myhorse, #fyp, #ironia"
-  - username: "stereolady"
+    followers: 486148
+    engagement: 408
+    commentsToLikes: 0.005708
+    id: ck5c2dmm2x1vx0i11f9n3wroe
+    verified: true
+    hashtags: "#interiordesign, #adv, #homedesign, #ad"
+  - username: "lovegod83"
     fullname: >-
-      StereoLady 🎧❤️
+      Simone Lovegod®️🏳️‍🌈
     bio: >-
-      Rome 🇮🇹 music 🎵 drums & piano 🥁 cooking 🍽️ walking 🚶 programming 💾 languages 🈴 sharing thoughts & emotions 💭 being awake at night 🌙 astronomy 💫
+      📸✈️🚇🏛🏋🏻 my love Owner of @romeofdoors and @oh_myrome 🏳️‍🌈🏳️‍🌈🏳️‍🌈
     location: "Italy"
-    followers: 33450
-    engagement: 602
-    commentsToLikes: 0.075964
-    id: ck8tahj87rs2p0j78rh1p3ygr
+    followers: 9017
+    engagement: 416
+    commentsToLikes: 0.018362
+    id: ck8t993sjn9ql0j78k4h1zp36
     verified: false
-    hashtags: "#pianist, #longhairgirl, #angel, #piano"
-  - username: "luca_contartese"
+    hashtags: "#beardsofinstagram, #beardlife, #pride, #man"
+  - username: "ema210m"
     fullname: >-
-      Luca Contartese
+      Emanuele Mariotti
     bio: >-
-      ᴀᴍʙɪᴛɪᴏɴ ᴋᴇᴇᴘs ʏᴏᴜ ᴀʟɪᴠᴇ ▪️ Milan📍Rome ▪️ @premiumlab__ Founder ▪️ @unimib Economy&marketing student ▪️ @elitemodelworld
+      🏡 Rome, 🇮🇹 📸:@bemphotography_ 🎥: @blackewhite_management Digital: @wontymedia 💁🏼‍♂️: @fashionartwise 👇🏻
     location: "Italy"
-    followers: 10169
-    engagement: 1307
-    commentsToLikes: 0.048403
-    id: ckap03wuxom9n0i78fq2k4xnz
+    followers: 85889
+    engagement: 772
+    commentsToLikes: 0.009436
+    id: ck5c5nba13stq0i116p9y1e14
     verified: false
-    hashtags: "#dg, #milano, #modeling, #mindset"
-  - username: "martinamariottiph"
-    fullname: >-
-      Photographer🥀Fashion/Portrait
-    bio: >-
-      🔛 Rome/Milan, Italy 📷 @nikonitalia Creator 2021 👇🏻 Portfolio
-    location: "Italy"
-    followers: 26581
-    engagement: 519
-    commentsToLikes: 0.062730
-    id: ck13a9fpopa4y0i19cfgl83en
-    verified: false
-    hashtags: "#777luckyfish, #portraitphotography, #cityports, #martinamariottiph"
-  - username: "giadagreggi"
-    fullname: >-
-      Giada Greggi
-    bio: >-
-      🐺 @officialasroma 🇮🇹 @azzurrefigc ✍️ @unik.team 📍 Rome, Italy
-    location: "Italy"
-    followers: 12096
-    engagement: 1212
-    commentsToLikes: 0.024152
-    id: ck13bylsjxryk0i19li4tsxsq
-    verified: false
-    hashtags: "#asroma, #forzaroma, #noisiamolaroma, #serieafemminile"
-  - username: "daval_09"
-    fullname: >-
-      Daval_09
-    bio: >-
-      Davide, Rome, Italy🇮🇹 ▪️Lawyer,HR Recruiter, 🔹Model Agency @nextbestmodel_agency 🔺COLLABORATION with BRAND: DM or EMAIL
-    location: "Italy"
-    followers: 12359
-    engagement: 828
-    commentsToLikes: 0.286051
-    id: ckap1khl0ux4h0i7818ojwjfw
-    verified: false
-    hashtags: "#travel, #travelgram, #travelphotography, #traveltheworld"
-  - username: "cristiano.demasi"
-    fullname: >-
-      www.creativeideas.tv
-    bio: >-
-      Ceo, International Talent's Manager,Producer Cinema, TV & Fashion 🏡🇺🇸Miami -Los Angeles •Currently in Rome 🇮🇹
-    location: "Italy"
-    followers: 21547
-    engagement: 505
-    commentsToLikes: 0.122994
-    id: ck6uarlfa58es0j71uwlvf8z4
-    verified: false
-    hashtags: "#luxurylifestyle, #travel, #beautybloggers, #styleoftheday"
+    hashtags: "#portrait, #visithelsinki, #man, #bearded"
   - username: "jleniabalzano"
     fullname: >-
       Jlenia 💄👠
     bio: >-
-      🇮🇹 Anzio, Rome, Italy 💅 Estetista https://m.facebook.com/profile.php 📩 Collaborazioni in dm o email
+      🇮🇹 Anzio, Rome, Italy @shein_it 15% 𝗤𝟮𝗷𝗹𝗲𝗻𝗶𝗮𝗯𝗮𝗹𝘇𝗮𝗻𝗼 📩 Collaborazioni in dm
     location: "Italy"
-    followers: 17709
-    engagement: 570
-    commentsToLikes: 0.179369
+    followers: 17015
+    engagement: 649
+    commentsToLikes: 0.137950
     id: ck5q9ag7wa5a80i11gknu4qg8
     verified: false
-    hashtags: "#shewin, #newswimsuit, #dresslilyfashion, #plussize"
-  - username: "matthewbolds_"
+    hashtags: "#pubblicit, #aspettandote, #sheinforall, #ad"
+  - username: "marta_zenoni"
     fullname: >-
-      Matthew🔥
+      Marta 🏃‍♀️
     bio: >-
-      Rome - Italy 🇮🇹 19y - Italian🚶🏻‍♂️ ⬇️Check out my online art shop⬇️
+      📍Rome Athletics🫀 marta.zenoni@gmail.com MSc Management @uniluiss 🎓 Economia&Management 🥇x25 🇮🇹 Champion 🥈🥉🥉EuroU23, World Youth Champ
     location: "Italy"
-    followers: 33702
-    engagement: 861
-    commentsToLikes: 0.032472
-    id: ck8tc8n62yofd0j78jsi3cs7a
+    followers: 23069
+    engagement: 426
+    commentsToLikes: 0.010474
+    id: ck8syeu2bkmk80j78ljh9m5px
     verified: false
-    hashtags: "#manga, #anime, #drawing, #art"
+    hashtags: "#rehab, #summer, #sea, #athletics"
+  - username: "sara_"
+    fullname: >-
+      Sara White
+    bio: >-
+      A Canadian living in Rome, Italy. Product designer & occasional photographer
+    location: "Italy"
+    followers: 17556
+    engagement: 488
+    commentsToLikes: 0.010921
+    id: ck0ub3j67drab0i19znxscw4g
+    verified: false
+    hashtags: "#yolojournal, #ilikeitaly, #voyagevoyagemagazine, #passionpassport"
+  - username: "frarexx"
+    fullname: >-
+      Francesco Rellini
+    bio: >-
+      💼Manager | Entrepreneur | @wontymedia 🇮🇹Made in Italy |📍Rome | 🚉Milan 🚣🏽Travelling | Sport | Movies 🌻Per aspera ad astra
+    location: "Italy"
+    followers: 23276
+    engagement: 454
+    commentsToLikes: 0.019880
+    id: ck5c5nblb3sv10i115j97fjtc
+    verified: false
+    hashtags: "#ig, #sicily, #tbt, #maiolica"
+  - username: "valeriobenincasa.ph"
+    fullname: >-
+      Valerio
+    bio: >-
+      #Rome based photographer Ambassador @oppoitalia
+    location: "Italy"
+    followers: 30093
+    engagement: 791
+    commentsToLikes: 0.087530
+    id: ck0tt0v6v0o9t0i19e4te8858
+    verified: false
+    hashtags: "#fatalframes, #creativeoptic, #rome, #toneception"
+  - username: "calopes7"
+    fullname: >-
+      
+    bio: >-
+      🥇No Man Is An Island 🧩 📍Born in Naples☀️Based in Rome 🏟 📩 ca_86@live.it 📬 🎓Graduated in Economy 🗃 👨🏻‍💻Consultant 💼
+    location: "Italy"
+    followers: 21164
+    engagement: 520
+    commentsToLikes: 0.127491
+    id: ckap82jnkmjon0i78sgb2egxy
+    verified: false
+    hashtags: "#menswear, #suppliedby, #mensfashion, #fashionmensdaily"
 ---

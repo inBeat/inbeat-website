@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Greece In 2023
+title: Top 10 Food TikTok Influencers In Greece In 2024
 description: >-
-  Find top food TikTok influencers in Greece in 2023. Most popular hashtags: #foryou #food #fyp #foryoupage.
+  Find top food TikTok influencers in Greece in 2024. Most popular hashtags: #foryou #food #fyp #foryoupage.
 platform: TikTok
-hits: 19
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our platform holds 19 TikTok influencers like this in Greece for you to collaborate.
+hits: 18
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 18 TikTok influencers like this in Greece for you to contact.
 profiles:
   - username: "grigoris.apostolou"
     fullname: >-
@@ -55,18 +55,6 @@ profiles:
     id: ckauptv6zuxg50j23k71ny0k6
     verified: false
     hashtags: "#gr, #saladtime, #cookme, #greece"
-  - username: "iliaskarafoulidis"
-    fullname: >-
-      Ηλιας Καραφουλιδης
-    bio: >-
-      🇬🇷ɢʀᴇᴇᴄᴇ-ᴀᴛʜᴇɴs 🏋🏻‍♂️CrossFit®️ 🍏nutrition tips 💪Personal Trainer
-    location: "Greece"
-    followers: 5758
-    engagement: 568
-    commentsToLikes: 0.027779
-    id: cka0pi98m8evg0i787fe8gvpj
-    verified: false
-    hashtags: "#foodporn, #crossfitter, #greece, #crossfit"
   - username: "annaantwniadou"
     fullname: >-
       Anna Antwniadou
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.019077
     id: ckcptn27wofvj0j23dpib9w97
     verified: false
-    hashtags: "#foryoupage, #decor, #viral, #annatony"
+    hashtags: "#greekgirl, #decor, #recipes, #foryou"
   - username: "diy_labs"
     fullname: >-
       DIY Labs
@@ -102,7 +90,7 @@ profiles:
     commentsToLikes: 0.179115
     id: ckbabf7fe40gn0j231a599f8n
     verified: false
-    hashtags: "#bookclub, #foryoupage, #glossier, #upclose"
+    hashtags: "#houseoftiktok, #upclose, #grwm, #foryoupage"
   - username: "anwarnzamba"
     fullname: >-
       Anwar N. Zamba
@@ -127,4 +115,16 @@ profiles:
     id: ckcdwgxm5foxq0j23xhbm6w1a
     verified: false
     hashtags: "#fyp, #funnyvideos, #tiktokgreece, #foryoupage"
+  - username: "lennertwolfs"
+    fullname: >-
+      DJ Lennert Wolfs 
+    bio: >-
+      DJ / VLOGGER from🇧🇪 🔥🎧 played at Tomorrowland NIEUWE VLOG ONLINE:
+    location: "Greece"
+    followers: 11200
+    engagement: 1065
+    commentsToLikes: 0.055372
+    id: ck8ae2u5k9bn10j78tewnsm1r
+    verified: false
+    hashtags: "#belgie, #dj, #djmix, #pioneerdj"
 ---

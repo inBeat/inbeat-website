@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Barcelona In 2023
+title: Top 10 Models TikTok Influencers In Barcelona In 2024
 description: >-
-  Find top models TikTok influencers in Barcelona in 2023. Most popular hashtags: #foryou #parati #fyp #viral.
+  Find top models TikTok influencers in Barcelona in 2024. Most popular hashtags: #foryou #parati #fyp #dance.
 platform: TikTok
 hits: 5
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat holds 5 TikTok influencers like this in Barcelona, Spain for you to pitch.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: inBeat holds 5 TikTok influencers like this in Barcelona, Spain for you to work with.
 profiles:
   - username: "chris_loan"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.015795
     id: ckbbaxsie00gd0j237s0xvqvi
     verified: false
-    hashtags: "#comedia, #viralvideo, #xyzbca, #medicina"
+    hashtags: "#foryou, #medicina, #fyp, #viralvideo"
   - username: "evecasino"
     fullname: >-
       Eve
@@ -97,12 +97,12 @@ profiles:
     bio: >-
       🇪🇸Actress/Model/Youtuber/Taekwondo ESP/ENG/한국어 Albatkd1111@gmail.com 📩
     location: "Spain"
-    followers: 46500
-    engagement: 1245
-    commentsToLikes: 0.028449
+    followers: 47700
+    engagement: 1024
+    commentsToLikes: 0.037575
     id: cka0rvn3nipqp0i78drf6n9wl
     verified: false
-    hashtags: "#aprendecoreano, #kpop, #lentejas, #coreano"
+    hashtags: "#korean, #corea, #aprendecontiktok, #viajaracorea"
   - username: "tata_0rozco"
     fullname: >-
       tata_0rozco

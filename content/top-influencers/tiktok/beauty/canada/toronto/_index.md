@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Toronto In 2023
+title: Top 10 Beauty TikTok Influencers In Toronto In 2024
 description: >-
-  Find top beauty TikTok influencers in Toronto in 2023. Most popular hashtags: #toronto #fyp #canada #foryou.
+  Find top beauty TikTok influencers in Toronto in 2024. Most popular hashtags: #toronto #fyp #beauty #foryou.
 platform: TikTok
-hits: 20
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our database has 20 TikTok influencers like this in Toronto, Canada for you to work with.
+hits: 19
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 19 TikTok influencers like this in Toronto, Canada for you to collaborate.
 profiles:
   - username: "amypigeonmua"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ckbf8g1qyz0q50j23eammhxkp
     verified: false
     hashtags: "#toronto, #stpatricksday, #spfx, #foryou"
-  - username: "ratedameerah"
-    fullname: >-
-      Ameerah
-    bio: >-
-      Toronto. Recording artist. Click the link to stream my music💫
-    location: "Canada"
-    followers: 69400
-    engagement: 910
-    commentsToLikes: 0.058654
-    id: ckcol5b1e5dhb0j23mnocr4c2
-    verified: false
-    hashtags: "#singingcover, #fyp, #friendlyfuture, #tiktokggt"
   - username: "victoriasabovitch"
     fullname: >-
       Victoria Sabovitch🤍
@@ -42,7 +30,7 @@ profiles:
     commentsToLikes: 0.030123
     id: ck9kdng2puxz00j7891cbtzfr
     verified: false
-    hashtags: "#beauty, #canadian, #dollskill, #makeup"
+    hashtags: "#canadian, #fyp, #lgbtq, #lgbt"
   - username: "hashtagmariah"
     fullname: >-
       ✨M A R I A H ✨ YOUTUBER
@@ -54,7 +42,19 @@ profiles:
     commentsToLikes: 0.068182
     id: ckce1tug2ig6s0j23wtwly765
     verified: false
-    hashtags: "#stitch, #hydrafacial, #greenscreen, #dance4tomorrow"
+    hashtags: "#hydrafacial, #greenscreen, #stitch, #asmr"
+  - username: "chantalmaguire"
+    fullname: >-
+      Chantal Maguire
+    bio: >-
+      Persian/Irish 🧿 For any business inquires email: chantaldesigns@hotmail.com
+    location: "Canada"
+    followers: 12000
+    engagement: 552
+    commentsToLikes: 0.157488
+    id: ckdc0mguifdyj0j23bgqv2w3s
+    verified: false
+    hashtags: "#zara, #styleinspo, #toronto, #unboxing"
   - username: "_m.naeem_"
     fullname: >-
       Muhammad Naeem
@@ -67,18 +67,18 @@ profiles:
     id: ckb9g5on651w60j2318hjztrg
     verified: false
     hashtags: "#love, #winter, #pakistani, #life"
-  - username: "victoriagouveia_"
+  - username: "ratedameerah"
     fullname: >-
-      Victoria Gouveia
+      Ameerah
     bio: >-
-      a toronto songstress 🦋✨ 𝐋𝐈𝐊𝐄 𝐌𝐄 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐌𝐔𝐒𝐈𝐂 𝐕𝐈𝐃𝐄𝐎 ↓
+      Toronto. Recording artist. Click the link to stream my music💫
     location: "Canada"
-    followers: 5185
-    engagement: 659
-    commentsToLikes: 0.030763
-    id: ckbqumfeaf2i90j232t2o90s4
+    followers: 69400
+    engagement: 910
+    commentsToLikes: 0.058654
+    id: ckcol5b1e5dhb0j23mnocr4c2
     verified: false
-    hashtags: "#diy, #singing, #music, #toronto"
+    hashtags: "#fyp, #friendlyfuture, #singingcover, #tiktokggt"
   - username: "nilou.fardd"
     fullname: >-
       Nilou Fard
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.026151
     id: ck8tprmbcqlja0j78bj045pzy
     verified: false
-    hashtags: "#foryou, #photographer, #toronto, #tallgirl"
+    hashtags: "#foryou, #tallgirl, #toronto, #myfuturethanksme"
 ---

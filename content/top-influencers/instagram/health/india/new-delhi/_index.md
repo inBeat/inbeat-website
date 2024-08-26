@@ -1,12 +1,36 @@
 ---
-title: Top 10 Health Instagram Influencers In New Delhi In 2023
+title: Top 10 Health Instagram Influencers In New Delhi In 2024
 description: >-
-  Find top health Instagram influencers in New Delhi in 2023. Most popular hashtags: #fitness #motivation #health #love.
+  Find top health Instagram influencers in New Delhi in 2024. Most popular hashtags: #fashion #love #reels #reelsinstagram.
 platform: Instagram
-hits: 22
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 22 Instagram influencers like this in New Delhi, India for you to pitch.
+hits: 29
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 29 Instagram influencers like this in New Delhi, India for you to work with.
 profiles:
+  - username: "mohit_bisht"
+    fullname: >-
+      Mohit Bisht
+    bio: >-
+      📍New Delhi 🙅🏻‍♂️ Partner @moyo_apparels 🖥 Streamer @mobeast_official 👕 @nexstepapparel (code - MOHIT) 💪🏻 @muscleblaze (code - MOHIT30) 🎥Youtube 👇
+    location: "India"
+    followers: 26944
+    engagement: 2916
+    commentsToLikes: 0.012626
+    id: ck6u0w3dyi2uh0j71qgl9sdkw
+    verified: false
+    hashtags: "#explore, #funny, #gymmemes, #reels"
+  - username: "styleawhileofficial"
+    fullname: >-
+      Shreya Jain
+    bio: >-
+      Fashion | Lifestyle | Fitness | Dance | Beauty ✨ 👗 Costume Stylist 🐶 Dog Lover 📍 New Delhi / Punjab ☎️ Managed by One Club
+    location: "India"
+    followers: 277225
+    engagement: 30
+    commentsToLikes: 0.069050
+    id: ck9wgrkyfuokp0j78wjzd69ae
+    verified: true
+    hashtags: "#ayurvedichealingvillage, #fashion, #healingretreat, #fyp"
   - username: "nikhilsharmaa._"
     fullname: >-
       N I K H I L
@@ -19,18 +43,6 @@ profiles:
     id: ck9wp305l7l0t0j783xjn34fr
     verified: false
     hashtags: "#twins, #fitness, #bhfyp, #fashion"
-  - username: "himanshuchwdhary"
-    fullname: >-
-      Himanshu Choudhary
-    bio: >-
-      Director at @modelmakersofficial Director at @meoproduction Director at @meostudiodelhi NEW-DELHI/MUMBAI
-    location: "India"
-    followers: 21656
-    engagement: 275
-    commentsToLikes: 0.032328
-    id: ckapaz00ky04c0i78xsuuaxro
-    verified: false
-    hashtags: "#mtvsplitsvilla, #mtvroadies, #mtv, #mtvindia"
   - username: "devansh.narula"
     fullname: >-
       DEVANSH NARULA
@@ -43,30 +55,54 @@ profiles:
     id: ck9ha3nchb0570j78spativ5s
     verified: false
     hashtags: "#life, #healthy, #instagram, #fitnessmotivation"
-  - username: "imayeshakaur"
+  - username: "hansoloandsoami"
     fullname: >-
-      Anjali
+      Aditya Wadhawan
     bio: >-
-      👸🏻Fashion / Blogger / influencer / YouTuber🔺 📩 Business enquiry DM or Mail 📍 New Delhi Backup AC @anji_officially ♥️ Waheguru 🙏🏻
+      An Example That Nerds Can Be Goodlooking Too 😏 Loves Leg Day & Deadlift Expert 🏋🏻 Gurgaon 📍 DM To Collab 💵
     location: "India"
-    followers: 186329
-    engagement: 58
-    commentsToLikes: 0.064020
-    id: ckf5qlkpb9rsx0j2315656sva
+    followers: 65610
+    engagement: 1565
+    commentsToLikes: 0.007695
+    id: ck5pyh2u0vzg80i11ekrij88n
     verified: false
-    hashtags: "#loveyourself, #keepsupporting, #imayeshakaur, #instamood"
-  - username: "spoonofflavours"
+    hashtags: "#viral, #cosplay, #exploremore, #viralvideos"
+  - username: "manojpatil_ifbbpro_official"
     fullname: >-
-      Suhas Nigam/ Dr. Sakshi Nigam
+      IFBB PRO🌐MANOJ D PATIL🇮🇳
     bio: >-
-      Delhi 🇮🇳 & Dubai 🇸🇩 Food/travel/lifestyle/health Two siblings on a way to explore the world 📩Dm-invites/collaboration/promotion/pr Purani Dilli wale 😊
+      🕉 सामान्य भारतीय 🇮🇳 TURNING SWEAT INTO GOLD MEDALS 🥇 🏆 🔱Jo Bhi Hai Sab Unka Hai😇👆🏻 Event & collab:7400373414
     location: "India"
-    followers: 46583
-    engagement: 322
-    commentsToLikes: 0.097626
-    id: ck8t9vlsapi680j78v384w8np
+    followers: 602829
+    engagement: 127
+    commentsToLikes: 0.005559
+    id: ck5zyaobm9j6p0i14eelsa3l9
     verified: false
-    hashtags: "#spoonofflavours, #chowmein, #thali, #omnomnom"
+    hashtags: "#ifbbpro, #mrindia, #abs, #poss"
+  - username: "shagunmehra_"
+    fullname: >-
+      Shagun Agrawal
+    bio: >-
+      Chef 👩🏻‍🍳 Peddlar 🇮🇳🌎 ‘Satvik’ Food, Wine 🌱 Hospitality Curator Wildlife NGO Founder🐘🇮🇳 Storyteller 🤍
+    location: "India"
+    followers: 218318
+    engagement: 64
+    commentsToLikes: 0.050896
+    id: ck14j3xnwiief0i19yago4gns
+    verified: true
+    hashtags: "#delhi, #cheflife, #sukhkitchen, #gujarat"
+  - username: "bharti__attri"
+    fullname: >-
+      Bharti Attri
+    bio: >-
+      INDIA🇮🇳 Fashion Model👠Blogger☘️ Influencer🌏Teacher📚 Fashion|Beauty|Travel|Food|Lifestyle💫 DM/ Work Enquires: @bhartiattri.bkk@gmail.com
+    location: "India"
+    followers: 271693
+    engagement: 21
+    commentsToLikes: 0.087285
+    id: ckvas7grq5mfp0j23gb88ilk5
+    verified: false
+    hashtags: "#enjoy, #natural, #reelitfeelit, #shimla"
   - username: "solewayfarer"
     fullname: >-
       Nidhi
@@ -79,52 +115,16 @@ profiles:
     id: ck8t5jl8vabuj0j78gbsip0c7
     verified: false
     hashtags: "#noidadiaries, #dogs, #pahadi, #himalayas"
-  - username: "food_mandi"
+  - username: "amul_india"
     fullname: >-
-      Food Mandi🥘🍜🍔
+      Amul - The Taste of India
     bio: >-
-      Delhi | NCR 🇮🇳 Food | Travel |Product Reviews | Daily Mouthwatering posts🤤 DM for Collab | Invites |Promation| Reviews🤝📩 Admin - @rajput_bhanu1110
+      India's largest FMCG brand with a turnover of ₹72,000 Crores (USD 9 Billion) in 2022-23.
     location: "India"
-    followers: 4405
-    engagement: 843
-    commentsToLikes: 0.147696
-    id: ck8ta3p70qcnx0j783pemzz94
+    followers: 430676
+    engagement: 364
+    commentsToLikes: 0.016843
+    id: cl34yjfma02oo0i23qzxn1rr2
     verified: false
-    hashtags: "#delhifoodies, #delhistreetfood, #desifoodie, #foodbloger"
-  - username: "palkakhurana"
-    fullname: >-
-      Palka Khurana
-    bio: >-
-      Fashion l Fitness | Traveller | Lifestyle *Mom of 2 Boys* DM/Email for Collabs
-    location: "India"
-    followers: 26467
-    engagement: 217
-    commentsToLikes: 0.095806
-    id: ckap6vk93hixs0i787foe2jbp
-    verified: false
-    hashtags: "#fitnessmotivation, #milohomeground, #fitnesslover, #healthinsideout"
-  - username: "the_indianbodybuilding"
-    fullname: >-
-      Indian Bodybuilding
-    bio: >-
-      Official Instagram page of Indian Bodybuilding Blog (IBB). Follow us for all the latest in Indian Bodybuilding and Fitness @the_indianbodybuilding
-    location: "India"
-    followers: 120649
-    engagement: 345
-    commentsToLikes: 0.004448
-    id: ck13bgjh9vbfv0i193avrhy05
-    verified: false
-    hashtags: "#fitness, #repost, #bodybuilding, #teambasekofitness"
-  - username: "asees.chadha"
-    fullname: >-
-      Asees Chadha | Choreographer
-    bio: >-
-      🧿Choreographer.Influencer.Traveler. ™Nachanshah Delhi Regular classes - Nachanshah Studio (add 👇) Bookings queries: www.nachanshah.com New Video
-    location: "India"
-    followers: 52657
-    engagement: 273
-    commentsToLikes: 0.033663
-    id: ck13c228sy8qz0i190q6ttlde
-    verified: false
-    hashtags: "#longhair, #indian, #punjabi, #dance"
+    hashtags: "#dessert, #icecream, #powerupwithamulprotein, #amulprotein"
 ---

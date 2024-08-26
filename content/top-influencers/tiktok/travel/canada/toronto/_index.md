@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Toronto In 2023
+title: Top 10 Travel TikTok Influencers In Toronto In 2024
 description: >-
-  Find top travel TikTok influencers in Toronto in 2023. Most popular hashtags: #toronto #fyp #travel #canada.
+  Find top travel TikTok influencers in Toronto in 2024. Most popular hashtags: #fyp #toronto #travel #foryou.
 platform: TikTok
-hits: 63
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our platform has 63 TikTok influencers like this in Toronto, Canada for you to contact.
+hits: 62
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 62 TikTok influencers like this in Toronto, Canada for you to pitch.
 profiles:
   - username: "moustachoooo"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckai5yafdu0rm0i784o5alxn5
     verified: false
     hashtags: "#frontline, #frontal, #travel, #toronto"
+  - username: "melissa"
+    fullname: >-
+      MELISSA
+    bio: >-
+      Traveling the world non stop! Follow me on Instagram @melissa
+    location: "Canada"
+    followers: 19800
+    engagement: 722
+    commentsToLikes: 0.038271
+    id: ck9tveb98q7mk0j78f5lua0dn
+    verified: false
+    hashtags: "#luxury, #tiktoktravel, #fyp, #greece"
   - username: "itsbaewatch"
     fullname: >-
       Bae Watch
@@ -43,18 +55,6 @@ profiles:
     id: ckcv70kd8pudd0j23vv7y9por
     verified: false
     hashtags: "#travelbucketlist, #myaesthetic, #toronto, #traveltheworld"
-  - username: "vladasedova"
-    fullname: >-
-      vladasedova
-    bio: >-
-      yyc
-    location: "Canada"
-    followers: 13100
-    engagement: 1006
-    commentsToLikes: 0.023978
-    id: ckcphhec5hiq30j23pyyrgyej
-    verified: false
-    hashtags: "#sunset, #moments, #fyp, #nofilter"
   - username: "bianca88new"
     fullname: >-
       B I A N C A
@@ -67,6 +67,18 @@ profiles:
     id: ckbaqzelfhnbc0j234tc5m3lp
     verified: false
     hashtags: "#explore, #fyp, #foryou, #comedy"
+  - username: "estrelladestiny"
+    fullname: >-
+      Destiny Estrella
+    bio: >-
+      baddie with brains bitches
+    location: "Canada"
+    followers: 38100
+    engagement: 801
+    commentsToLikes: 0.025349
+    id: ckcv6ptm4pr7a0j23912tsyjn
+    verified: false
+    hashtags: "#fyp, #greenscreen, #trend, #greenscreenvideo"
   - username: "ashwin_k_johns0n"
     fullname: >-
       Ashwin Johnson
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.088157
     id: ckace9kecltqt0i78fzu4m3f9
     verified: false
-    hashtags: "#tiktokdiy, #catsoftiktok, #xyzabc, #homediy"
+    hashtags: "#xyzabc, #tiktokdiy, #homedecor, #catsoftiktok"
   - username: "jessjager"
     fullname: >-
       JessJager
@@ -115,16 +127,4 @@ profiles:
     id: ckbf61xphvcpk0j23cpgwlxh6
     verified: false
     hashtags: "#earth, #travel, #foryoupage, #nature"
-  - username: "melissa"
-    fullname: >-
-      MELISSA
-    bio: >-
-      Traveling the world non stop! Follow me on Instagram @melissa
-    location: "Canada"
-    followers: 19800
-    engagement: 722
-    commentsToLikes: 0.038271
-    id: ck9tveb98q7mk0j78f5lua0dn
-    verified: false
-    hashtags: "#fyp, #travel, #tiktoktravel, #foryou"
 ---

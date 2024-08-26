@@ -1,12 +1,84 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Colombia In 2023
+title: Top 10 Athletes Instagram Influencers In Colombia In 2024
 description: >-
-  Find top athletes Instagram influencers in Colombia in 2023. Most popular hashtags: #colombia #love #panama.
+  Find top athletes Instagram influencers in Colombia in 2024. Most popular hashtags: #fitness #reels #crossfit.
 platform: Instagram
-hits: 29
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 29 Instagram influencers like this in Colombia for you to work with.
+hits: 32
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 32 Instagram influencers like this in Colombia for you to pitch.
 profiles:
+  - username: "deshaun"
+    fullname: >-
+      Deshaun Malik (Highler) 🏴‍☠️
+    bio: >-
+      Pro G 🪖🏴‍☠️ Watch @lastchanceu on @netflix 🍿 1st Ever Self-Branded NCAA Athlete Sac State ‘22 🎓 Collabs and UGC 📲 deshaunhighler@gmail.com @teamvktry
+    location: "Colombia"
+    followers: 402846
+    engagement: 886
+    commentsToLikes: 0.003805
+    id: clfhg3x7xbuvm0j08fynuhxue
+    verified: false
+    hashtags: "#rockstaroriginal, #lastchanceu, #nba, #ncaa"
+  - username: "santiagoherediao"
+    fullname: >-
+      SANTIAGO HEREDIA 🐺
+    bio: >-
+      Ironman 140.6 Finisher Ironman 70.3 x 3 Marathoner x 3 🏊🏻‍♂️🚴🏼🏃🏼 @underarmourlatam #athlete 🔥 Papá de @bandido_heredia
+    location: "Colombia"
+    followers: 33889
+    engagement: 1160
+    commentsToLikes: 0.027026
+    id: ck8t01oiaqj6n0j786t7ufmzv
+    verified: false
+    hashtags: "#bestmoments, #training, #sundayrunday, #runningmotivation"
+  - username: "dreathomas"
+    fullname: >-
+      Andrea Thomas
+    bio: >-
+      Making women feel strong & healthy ♡ @allyou + @soliswimwear Founder @bombshellsportswear athlete Management@andrea-thomas.com Get coached by me ✨
+    location: "Colombia"
+    followers: 1788777
+    engagement: 143
+    commentsToLikes: 0.006760
+    id: cl3dd174q5ncg0i23lcp79fq9
+    verified: false
+    hashtags: "#bombshellsportswear, #bombshellsportwear"
+  - username: "mariajosev0908"
+    fullname: >-
+      Maria Jose Vargas
+    bio: >-
+      📍 🇺🇸 / 🇨🇴 🇨🇴 National Champ 2023 🌎 CrossFit Games Teen Athlete 2021 🇧🇷 Semifinals Athlete 2023 🏠: @atalantabox 😤: @lycanfitness.co #iam1stphorm
+    location: "Colombia"
+    followers: 152883
+    engagement: 141
+    commentsToLikes: 0.008596
+    id: ck8sxh7wbhdv30j784xj2aczj
+    verified: false
+    hashtags: "#crossfitgames, #crossfit, #crossfitteens, #iam1stphorm"
+  - username: "anitaloynaz"
+    fullname: >-
+      Anita Loynaz | Art & Wellness
+    bio: >-
+      Flamenco Dancer & Gymnast Fitness & Wellness Lifestyle Mom & Business Women Nike Athlete 🇻🇪❤️🇵🇦❤️
+    location: "Colombia"
+    followers: 41263
+    engagement: 54
+    commentsToLikes: 0.036455
+    id: ck0u14sv9vuoc0i19r0r8hpfk
+    verified: false
+    hashtags: "#nikewomen, #flamencoenpanama, #flamencodancer, #fitness"
+  - username: "mariaclaraceballos89"
+    fullname: >-
+      Maria Clara Ceballos
+    bio: >-
+      Mamá de Vicente y Cristobal CrossFit Athlete 💼 @Soyhakuna 📱@comunidadnow 📧 mariaclaraceballos@gmail.com
+    location: "Colombia"
+    followers: 444938
+    engagement: 37
+    commentsToLikes: 0.015840
+    id: ck8sxh8y1hdyg0j78njfdve7w
+    verified: true
+    hashtags: "#blw, #mariaclaraceballos, #vicenteycristobal, #maternidad"
   - username: "orianavalenti89"
     fullname: >-
       Oriana Valenti | Dentist
@@ -43,18 +115,6 @@ profiles:
     id: ck6tmt8738hn60j71nllvp2a8
     verified: false
     hashtags: "#powerwoman, #business, #trabajoenequipo, #sanvalentineday"
-  - username: "suevygramer"
-    fullname: >-
-      sᴜᴇᴠʏ
-    bio: >-
-      🏃🏼‍♀️Nike Athlete ⚡️ @homeathlete_method 🥑No meat athlete 🌱Plant mami 🐱Cat mom AF @bakerandblair
-    location: "Colombia"
-    followers: 58030
-    engagement: 103
-    commentsToLikes: 0.015653
-    id: ck6u879q9pudr0j71zonz7f7s
-    verified: false
-    hashtags: "#trailrunner, #panama, #trailrun, #nikerunning"
   - username: "dilian_jurado"
     fullname: >-
       Dilian Jurado
@@ -67,64 +127,4 @@ profiles:
     id: ck14gkaeo5nkb0i19z2hym60m
     verified: false
     hashtags: "#lovewhatyoudo, #fitnesslifestyle, #focus, #panama"
-  - username: "mulatafit"
-    fullname: >-
-      Sunny Dova WBFF PRO
-    bio: >-
-      @wbffentertainment champion usa 1st colombian to be crowned diva PRO @megaplexstars athlete elite Team @sportfitness.shop.latam Entrena aquí ⤵️
-    location: "Colombia"
-    followers: 618588
-    engagement: 199
-    commentsToLikes: 0.034961
-    id: ck5q5bhkks4yj0i11prd3sjk9
-    verified: false
-    hashtags: "#megaplex, #burnerchallenge, #happy, #medellin"
-  - username: "santiagoherediao"
-    fullname: >-
-      SANTIAGO HEREDIA 🐺
-    bio: >-
-      Runner | Triatleta | Golfista @underarmourlatam #athlete 🔥 Admin de Empresas | Smart Cities | Digital Business. Apasionado por los deportes.
-    location: "Colombia"
-    followers: 19133
-    engagement: 160
-    commentsToLikes: 0.025791
-    id: ck8t01oiaqj6n0j786t7ufmzv
-    verified: false
-    hashtags: "#runningcommunity, #ad, #run, #swim"
-  - username: "espana927"
-    fullname: >-
-      𝗔𝗡𝗔 𝗖φ𝗭𝗔𝗥 𝗜𝗙𝗕𝗕
-    bio: >-
-      ˃ 𝖬𝖸 𝖡𝖱𝖠𝖭𝖣 ❤︎ @corset_espana ˃ @ryderwear Athlete “espana10” ˃ @nutrexresearch Athlete Shop here ⇣
-    location: "Colombia"
-    followers: 2985340
-    engagement: 97
-    commentsToLikes: 0.030740
-    id: ck9wd7f1zeer60j782th5zn6m
-    verified: true
-    hashtags: "#supplements, #gymangelessport, #nutrexresearch, #coreworkout"
-  - username: "lalajv92"
-    fullname: >-
-      Laura Jaillier 👑
-    bio: >-
-      -Crossfit athlete & coach CF L1 💪🏻 -3X crossfit games south regionals 🏋🏻‍♀️ -Mama 😍 -@soyhakuna
-    location: "Colombia"
-    followers: 18129
-    engagement: 492
-    commentsToLikes: 0.220528
-    id: ck8sxha8vhe4p0j78applpxe1
-    verified: false
-    hashtags: "#crossfitcolombia, #crossfit, #crossfitmedellin, #twins"
-  - username: "lizsurley_bmx_"
-    fullname: >-
-      ✌🏼L I C H U⚡️
-    bio: >-
-      🇨🇴 📍C O L - BUGA RedBull Athlete 🏆 🗺 17 yo @redbullcol🐂Gives You Wings!
-    location: "Colombia"
-    followers: 12482
-    engagement: 859
-    commentsToLikes: 0.027765
-    id: ck0w0dybvdpi00i19hbxwfkfv
-    verified: false
-    hashtags: "#stylo, #allday, #bowl, #soymid"
 ---

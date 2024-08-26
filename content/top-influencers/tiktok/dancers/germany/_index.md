@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Germany In 2023
+title: Top 10 Dancers TikTok Influencers In Germany In 2024
 description: >-
-  Find top dancers TikTok influencers in Germany in 2023. Most popular hashtags: #fyp #foryou #dance #fy.
+  Find top dancers TikTok influencers in Germany in 2024. Most popular hashtags: #fyp #foryou #dance #fy.
 platform: TikTok
 hits: 69
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 69 TikTok influencers like this in Germany for you to pitch.
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 69 TikTok influencers like this in Germany for you to work with.
 profiles:
   - username: "kenn2go"
     fullname: >-

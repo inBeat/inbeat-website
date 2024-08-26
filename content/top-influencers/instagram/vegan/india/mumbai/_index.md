@@ -1,24 +1,36 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Mumbai In 2023
+title: Top 10 Vegan Instagram Influencers In Mumbai In 2024
 description: >-
-  Find top vegan Instagram influencers in Mumbai in 2023. Most popular hashtags: #foodphotography #reelsinstagram #foodporn #vegan.
+  Find top vegan Instagram influencers in Mumbai in 2024. Most popular hashtags: #mumbai #vegan #reelsinstagram #foodporn.
 platform: Instagram
-hits: 85
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 85 Instagram influencers like this in Mumbai, India for you to contact.
+hits: 99
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 99 Instagram influencers like this in Mumbai, India for you to work with.
 profiles:
-  - username: "savorytales"
+  - username: "pooja_onegirlonejourney"
     fullname: >-
-      Richa
+      Pooja Sundrani- Vegan | Offbeat Travel
     bio: >-
-      IFBA Awards - Best Instagram-Recipe Orange Flower Award Best #foodgram Runner Up Canon #eosinfluencer #featured Femina India, Tripoto, Travel+Leisure
+      Serial Dog Befriender 🐶 Vegan 🌱 | Offbeat, Sustainable Travel 🍃 Making #Veganism easy for you 📧: pooja@onegirlonejourney.in 📍 Mumbai
     location: "India"
-    followers: 45236
-    engagement: 91
-    commentsToLikes: 0.251796
-    id: ck13cmjmm12zq0i19fvqnun7j
+    followers: 65085
+    engagement: 186
+    commentsToLikes: 0.020147
+    id: ck5qbintklssh0i117s7ojof3
     verified: false
-    hashtags: "#foodstyling, #easyrecipes, #mumbaifoodbloggers, #foodblogger"
+    hashtags: "#indianvegan, #veganinspiration, #onegirlonejourney, #incredibleindia"
+  - username: "kavitasvegrecipes"
+    fullname: >-
+      Kavita Mahendra
+    bio: >-
+      Home Chef I Recipe Developer | Baker Easy Healthy Veg Recipes https://linki.fi/e/TataSampannGulabJamunMix?c=huys-or5tjs
+    location: "India"
+    followers: 38162
+    engagement: 83
+    commentsToLikes: 0.243953
+    id: ckaoy62urg5ae0i78kkvhi7a2
+    verified: false
+    hashtags: "#bangalorefoodies, #streetfoodmumbai, #maharastra, #mumbaikar"
   - username: "hetankshi.sejpal"
     fullname: >-
       FOOD O' MANIA - Hetankshi
@@ -79,30 +91,18 @@ profiles:
     id: ck8t5s0irb1f00j78251ouq7y
     verified: false
     hashtags: "#picoftheday, #itz, #photography, #indian"
-  - username: "babelicious_indiana"
+  - username: "hot_for_food"
     fullname: >-
-      𝗗𝗥.𝗥𝗜𝗧𝗨 𝗦𝗜𝗡𝗚𝗛 𝗬𝗔𝗟𝗔𝗚𝗜 | 𝘍𝘈𝘚𝘏𝘐𝘖𝘕 & 𝘓𝘐𝘍𝘌𝘚𝘛𝘠𝘓𝘌
+      Vidhi and Mansi
     bio: >-
-      🦷 𝗗𝗘𝗡𝗧𝗜𝗦𝗧 Owner @dr.ritusdentalstudio 📍𝕄𝕌𝕄𝔹𝔸𝕀 Travel | Beauty | Luxury 📩 𝐬𝐦𝐚𝐫𝐭.𝐝𝐞𝐧𝐭𝐢𝐬𝐭𝟏𝟗𝟗𝟎@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦 “𝘘𝘜𝘈𝘓𝘐𝘛𝘠 𝘪𝘯 𝘌𝘷𝘦𝘳𝘺 𝘬𝘪𝘯𝘥 𝘰𝘧 𝘈𝘋𝘝𝘌𝘙𝘛𝘐𝘚𝘌”
+      We recreate recipes from across the world and tell their stories! Vegetarian 🌱 🇭🇺🇦🇹🇮🇳🇯🇵🇪🇨🇮🇹
     location: "India"
-    followers: 60203
-    engagement: 365
-    commentsToLikes: 0.017261
-    id: ck5bxlj67nygn0i11l5uuez5r
+    followers: 63528
+    engagement: 45
+    commentsToLikes: 0.058212
+    id: ck0w41usewdss0i19sym1ygcd
     verified: false
-    hashtags: "#explore, #trendingreels, #ad, #posesforpictures"
-  - username: "poojakhemi"
-    fullname: >-
-      Poojakhemi
-    bio: >-
-      Motherhood, self love & more❤️ Reels & IGTV for baby food & tips 👶🏻 Ahmedabad/Surat 🏠 DM or Mail for Collaboration 💯
-    location: "India"
-    followers: 40158
-    engagement: 143
-    commentsToLikes: 0.015661
-    id: ck8wegfx4e0nd0j7820gap21h
-    verified: false
-    hashtags: "#babyboy, #navratri, #momsonlove, #momson"
+    hashtags: "#lbbdelhi, #delhigram, #reelkarofeelkaro, #momo"
   - username: "myfoodcrushh"
     fullname: >-
       Naman Pandey

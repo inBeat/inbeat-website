@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Portugal In 2023
+title: Top 10 Fashion TikTok Influencers In Portugal In 2024
 description: >-
-  Find top fashion TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #fashion #foryou #portugal.
+  Find top fashion TikTok influencers in Portugal in 2024. Most popular hashtags: #fyp #fashion #foryou #portugal.
 platform: TikTok
 hits: 18
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat has 18 TikTok influencers like this in Portugal for you to connect with.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 18 TikTok influencers like this in Portugal for you to pitch.
 profiles:
   - username: "itsgonolivier"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.031471
     id: cka6nib7tbj7u0i78vifxhcic
     verified: false
-    hashtags: "#aesthetic, #foryou, #outfitinspo, #fashioninspo"
+    hashtags: "#outfitideas, #outfitinspiration, #mingalondon, #foryou"
   - username: "terrible___kid"
     fullname: >-
       Terrible___kid
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.005514
     id: cka6nwrfkd5ft0i782ax1h0xa
     verified: false
-    hashtags: "#fyp, #viral, #makeup, #anime"
+    hashtags: "#alt, #cocoandeve, #anime, #hudabeauty"
   - username: "lucasviegaswk"
     fullname: >-
       Lucas Viegas

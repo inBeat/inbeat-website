@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Belgium In 2023
+title: Top 10 Fashion Instagram Influencers In Belgium In 2024
 description: >-
-  Find top fashion Instagram influencers in Belgium in 2023. Most popular hashtags: #girlsgoneloavies #idealofsweden #loavies #ootdfashion.
+  Find top fashion Instagram influencers in Belgium in 2024. Most popular hashtags: #fashionblogger #belgianblogger #outfitinspiration #outfitinspo.
 platform: Instagram
-hits: 95
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 95 Instagram influencers like this in Belgium for you to connect with.
+hits: 135
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 135 Instagram influencers like this in Belgium for you to work with.
 profiles:
+  - username: "norajoyness"
+    fullname: >-
+      Nora  🤍
+    bio: >-
+      FASHION~BEAUTY~LIFESTYLE 💄Beauty consultant @guerlain 📍Bruxelles Belgium Retrouvez tous mes liens ⤵️
+    location: "Belgium"
+    followers: 9466
+    engagement: 834
+    commentsToLikes: 0.270947
+    id: ck9wdomcogjpi0j78zjbf0hnj
+    verified: false
+    hashtags: "#luxurybrand, #concoursfrance, #prozis, #concoursbeaute"
   - username: "re.becc.a"
     fullname: >-
       REBECCA DE WEERDT  🤍
     bio: >-
-      Belgium | Fashion & lifestyle Bookings & social media inquiries - mail me ✉️ rebeccadw@skynet.be BE 0787.592.191
+      Belgium | Fashion & Lifestyle,.. UGC PORTFOLIO 👇🏼 ✉️ rebeccadw@skynet.be BE 0787.592.191
     location: "Belgium"
-    followers: 11026
-    engagement: 1129
-    commentsToLikes: 0.392103
+    followers: 10694
+    engagement: 667
+    commentsToLikes: 0.319060
     id: ck9haydsnekwm0j783ghxdhlu
     verified: false
-    hashtags: "#discoverunder10k, #ootdfashion, #instaootd, #summeraesthetic"
-  - username: "kayamaes"
+    hashtags: "#izipizicities, #ghddreamland, #gdhhairbenelux, #izipizi"
+  - username: "joli_laur"
     fullname: >-
-      Kaya
+      Laurette Jolivot
     bio: >-
-      Come with me on my happy moments 🎞 ✉️ Kayamaesss@hotmail.com Fashion, beauty & travel | Not your typical ultra skinny freelance model BE 0788.246.447
+      BEAUTY - FASHION - TRAVEL & GOOD VIBES🤍 Belgique | Maroc | France Contact: jolivot.laurette@gmail.com
     location: "Belgium"
-    followers: 19196
-    engagement: 311
-    commentsToLikes: 0.146594
-    id: ck9wflb14pczt0j78u9wwvcjc
+    followers: 15344
+    engagement: 1070
+    commentsToLikes: 0.013085
+    id: cl9xi5woxo4bw0i23y4j9sls3
     verified: false
-    hashtags: "#advertising, #loavies, #girlsgoneloavies, #sochickenspiesjes"
-  - username: "lunavissers"
+    hashtags: "#maison123, #summer, #smallluxuryhotels, #thedominican"
+  - username: "eloisebolly"
     fullname: >-
-      Luna Vissers
+      Eloïse | 🤍
     bio: >-
-      Belgian harpist living in Switzerland 💃🏻 Tea lover in my freetime🍵 Secondhand fashion🍃
+      Lifestyle | Fashion Currently in 🇪🇸
     location: "Belgium"
-    followers: 2946
-    engagement: 1605
-    commentsToLikes: 0.242260
-    id: ckf5ojnzb2ixq0j23ut9e0jwk
+    followers: 20077
+    engagement: 883
+    commentsToLikes: 0.575189
+    id: cloxoheqg05xj0j08bqi72tyz
     verified: false
-    hashtags: "#idealofsweden, #classicalmusician, #gifted, #harp"
-  - username: "hi.itsjolienn"
+    hashtags: "#nuitinsolite, #blond, #belgianinfluencer, #madrid"
+  - username: "dschft"
     fullname: >-
-      JOLIEN ✌🏻
+      Denys Schelfhaut
     bio: >-
-      💗 fashion - beauty - lifestyle content 🙋🏻‍♀️ psychology student @ugent 📍 Gent - Wevelgem 💬 itsjolienn@gmail.com
+      Photographer & Art Director @mcarnolds Fashion | Lifestyle | Commercial Contact — info@dschft.com Brussels / Paris
     location: "Belgium"
-    followers: 10179
-    engagement: 722
-    commentsToLikes: 0.132551
-    id: ck5hhlx278wrn0i11oms8mi5w
+    followers: 17699
+    engagement: 648
+    commentsToLikes: 0.015040
+    id: ck0uco24jha2r0i19vy95gw57
     verified: false
-    hashtags: "#ad, #letsgreentheplanet, #myjewellerybelgium, #myjewellery"
-  - username: "jarnebaele"
+    hashtags: "#pacorabanne, #findx3pro, #awakencolour, #findx3series"
+  - username: "oliviatps"
     fullname: >-
-      JARNE BAELE
+      Olivia Anna-Catharina T
     bio: >-
-      IF | Running | Fashion ​ 📩 jarne.baele@hotmail.com​​ ​🧔🏻 Ambassador @beleef_oudenaarde
+      • Everyday fashion, beauty and hair • Next 🌎 Spain 🇪🇸 • oliviatps@listheagency.com • Brussels & Antwerp, Belgium 📍
     location: "Belgium"
-    followers: 77873
-    engagement: 850
-    commentsToLikes: 0.057824
-    id: ck5zx3lqs7a090i14pem36vhr
+    followers: 231095
+    engagement: 794
+    commentsToLikes: 0.015348
+    id: ck0tu6nsp5ve20i19a7a16cyc
     verified: false
-    hashtags: "#instagramgiveaway, #iskodna, #ad, #ambassadors"
-  - username: "celinemaufor"
+    hashtags: "#summerinthecity, #ootdmagazine, #chaneldenim, #streetstylelook"
+  - username: "ellenclaesen"
     fullname: >-
-      Céline Maufor
+      Ellen Claesen ___
     bio: >-
-      •Brussels •Fashion, food and lifestyle •Vinted:mauforceline •mauforceline@hotmail.com/DM
+      something beautiful about kids ◞ fashion ◞ design ◞ getaways ◞ things we like ◞ belgian ◞ mom of Esme and Noud ◞ telling stories in pictures
     location: "Belgium"
-    followers: 13541
-    engagement: 497
-    commentsToLikes: 0.209256
-    id: ck14gsa5r6rv10i198hq8u1pl
+    followers: 6714
+    engagement: 857
+    commentsToLikes: 0.409207
+    id: ckwef15cfmtph0j23rqcs919z
     verified: false
-    hashtags: "#ootd, #contest, #giveaway, #explore"
-  - username: "liafailwijnen"
+    hashtags: "#esmenoud, #theartofslowliving, #clickinmoms, #noudlove"
+  - username: "laura.oliveiragranja"
     fullname: >-
-      ✰ 𝐓𝐑𝐀𝐕𝐄𝐋 ✰ 𝐈𝐍𝐒𝐏𝐎 ✰ 𝐅𝐀𝐒𝐇𝐈𝐎𝐍
+      𝐿𝑎𝑢𝑟𝑎 𝑂𝑙𝑖𝑣𝑒𝑖𝑟𝑎 𝐺𝑟𝑎𝑛𝑗𝑎
     bio: >-
-      🌸 Sharing what i love 🎀 Travel | Fashion | Inspo 💌 liafail.wijnen98@hotmail.com
+      Freelance Model | Fashion & Lifestyle Blogger | Personal Trainer @gofitwithlaura
     location: "Belgium"
-    followers: 29727
-    engagement: 239
-    commentsToLikes: 0.105355
-    id: ck0vx1hkwwo3a0i194d524iz0
+    followers: 18411
+    engagement: 345
+    commentsToLikes: 0.042292
+    id: ck6txv5tn019a0j71dktpndhx
     verified: false
-    hashtags: "#travelphotography, #travelblogger, #travelgram, #shein"
-  - username: "jobbyba"
+    hashtags: "#outfitinspiration, #hkmambassador, #ootn, #blogger"
+  - username: "itisjessie.v"
     fullname: >-
-      Joséphine B. - Fashion/Deco
+      Jessie V
     bio: >-
-      📍🇧🇪🇨🇩 Welcome to my fashion page If you like my style and it inspires you, let me know 🙂😉 Let the show begin 📸🛍👡👜👖👚🩱👗 Contact: mllebadeba@hotmail.com
+      ~ Enjoy the little things in life ~ Belgium • 26 • Running • Walking • fashion • Traveling Stella 🐶
     location: "Belgium"
-    followers: 7546
-    engagement: 542
-    commentsToLikes: 0.226001
-    id: ckapbjpu104vm0i78m0hcuqyk
+    followers: 54495
+    engagement: 340
+    commentsToLikes: 0.018298
+    id: cky72qai4js6z0j233b2yalcs
     verified: false
-    hashtags: "#onparledemode, #pullandbear, #pullandbearcommunity, #anotheroutfitpost"
-  - username: "xzoelucas"
+    hashtags: "#bikinigirl, #christmas, #bikinibody, #beaglesofinstagram"
+  - username: "mandisfashionworld"
     fullname: >-
-      Zoë Lucas
+      SOPHIE MANDI
     bio: >-
-      ♡ 24Y ♡ belgium ♡ fashion,lifestyle and more ♡ horeca @bistrobar_koninckshof ♡ for collabs DM or mail ♡ Zoe.lucas97@hotmail.com
+      Fashion lover Mom of two ♡ Living in Belgium VAT on my website
     location: "Belgium"
-    followers: 10908
-    engagement: 356
-    commentsToLikes: 0.068277
-    id: ck9hbe12ugett0j78lvofj2sg
+    followers: 93201
+    engagement: 325
+    commentsToLikes: 0.348456
+    id: ck55msmse4ols0i11ev3mett4
     verified: false
-    hashtags: "#stylegram, #stylespo, #fashioninspo, #ootdmagazine"
-  - username: "janiceracaj"
-    fullname: >-
-      FINALISTE MISS FASHION 2022 🦋
-    bio: >-
-      🇧🇪🇽🇰, Belgium based 📖| Real estate student 📧| janice.racaj@gmail.com 🤍| Finaliste Miss Fashion 2021-2022
-    location: "Belgium"
-    followers: 7989
-    engagement: 657
-    commentsToLikes: 0.397008
-    id: ckf5sbvnuf7aa0j23diw9a5hu
-    verified: false
-    hashtags: "#loavies, #aexme, #girlsgoneloavies, #strongersweden"
+    hashtags: "#outfitinspiration, #skincare, #girlsgoneloavies, #fashionkids"
 ---

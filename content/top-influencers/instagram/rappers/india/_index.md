@@ -1,130 +1,130 @@
 ---
-title: Top 10 Rappers Instagram Influencers In India In 2023
+title: Top 10 Rappers Instagram Influencers In India In 2024
 description: >-
-  Find top rappers Instagram influencers in India in 2023. Most popular hashtags: #instagood #song #tiktok.
+  Find top rappers Instagram influencers in India in 2024. Most popular hashtags: #music #hiphop #india #reels.
 platform: Instagram
-hits: 109
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 109 Instagram influencers like this in India for you to pitch.
+hits: 148
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 148 Instagram influencers like this in India for you to collaborate.
 profiles:
-  - username: "yohanimusic"
+  - username: "agsyworld"
     fullname: >-
-      Yohani
+      Agsy•Mother OG
     bio: >-
-      🇱🇰 Singer / Songwriter/ Rapper / Producer 📍Mumbai 🇮🇳. #TuSaamneAaye Song Out Now 👇👇👇
+      Composer | Lyricist | Rapper | Singer | Director + INTP Virgo 🧠🇮🇳
     location: "India"
-    followers: 1045729
-    engagement: 393
-    commentsToLikes: 0.007020
-    id: ck5hq87x4soe50i11p0e4r04q
+    followers: 273878
+    engagement: 797
+    commentsToLikes: 0.015211
+    id: ck15sktbjdif90i19w3a65m8n
     verified: false
-    hashtags: "#krishankumar, #jehdanasha, #bhushankumar, #anactionhero"
-  - username: "mr_rongpaz"
+    hashtags: "#motherog, #freeversefriday, #agsy, #parwah"
+  - username: "talhahyunus"
     fullname: >-
-      Mayank Rongpaz Rawat
+      Talhah Yunus
     bio: >-
-      Rapper🎤 lyricist📝 film maker📽 Top36 Dil Hai Hindustani 2 Top40 Mtv Hustle Latest Song Nind Chori👇
+      Rapper/Songwriter/Record Producer/Filmmaker @youngstunnersofficial @stunnervisionofficial 📩 For Queries: @alinanaghman @alihafeezurrahman
     location: "India"
-    followers: 11020
-    engagement: 1480
-    commentsToLikes: 0.019651
-    id: ck5zy3txt96fx0i14tyrtvw78
+    followers: 781329
+    engagement: 1035
+    commentsToLikes: 0.008026
+    id: ck15pfh3mxmqi0i19nb2t6ioi
     verified: false
-    hashtags: "#comming, #song, #mai, #uttarakhand"
-  - username: "mack_the_rapperr"
+    hashtags: "#youngstunners, #talhahyunus, #stunnervision, #talhaanjum"
+  - username: "skndrkalo"
     fullname: >-
-      Mack-The Rapper
+      SIKANDER KAHLON
     bio: >-
-      Indian Rapper || Swagger
+      Your Favourite Rapper | KKG 🏴 | RIP SMW | EAST PUNJAB | MOHALI | INDEPENDENT | #GIWTB out now🚨 ⚠️
     location: "India"
-    followers: 19821
-    engagement: 99
-    commentsToLikes: 0.069935
-    id: ck8t07fenr2lw0j78c8j9fdy7
+    followers: 126930
+    engagement: 1294
+    commentsToLikes: 0.018899
+    id: ckaozwyaenrxc0i78vagyr4iu
     verified: false
-    hashtags: "#punjabisongs, #ramjigulati, #ranveerkapoor, #luckdikasam"
-  - username: "iam_roysoulchild"
+    hashtags: "#sikanderkahlon, #stormshadow, #2023flow, #kkgforever"
+  - username: "rahul_dito"
     fullname: >-
-      Roy SöulChild
+      Rahul Dit-O
     bio: >-
-      Singer || Rapper || Song writer || Independent recording artiste. Checkout "Cellphone"👇
+      ಕನ್ನಡದ Gangsta Rapper 🎤 ಬೆಂಗಳೂರಿನ ಬೆಂಕಿ 🔥ನಾ ಹೇಳೋದು ನಂಗನ್ಸಿದ್ದನ್ನೇ, ತಗೋ 😈 Queries & Bookings DM @harishvictory Plz Worry 👇🏼
     location: "India"
-    followers: 53521
-    engagement: 202
-    commentsToLikes: 0.038483
-    id: ck6u40mlk0zku0j71y7h0fhpg
+    followers: 422190
+    engagement: 1093
+    commentsToLikes: 0.004537
+    id: ck14icz0qest40i19qkbihzdx
     verified: false
-    hashtags: "#homeofclassics, #thejourney, #sapologie, #sape"
-  - username: "clintonlarrabee"
+    hashtags: "#rahuldito, #kannadarap, #plzworry, #allnotok"
+  - username: "jagirdarrv47"
     fullname: >-
-      Clinton
+      Raghuveer Singh Rajpurohit
     bio: >-
-      Rappers hml if u needa dancer for a video‼️ Tiktok- Clinton_Larrabee (750k+) Snapchat- Clinton_828 (20k+) Email me for business: clintonsl@icloud.com
+      देशभक्त by blood🇮🇳 • Lyricist । Rapper | singer
     location: "India"
-    followers: 31253
-    engagement: 2080
-    commentsToLikes: 0.018434
-    id: ck8wfx1j5ge590j781wvqrnng
+    followers: 117626
+    engagement: 2327
+    commentsToLikes: 0.016651
+    id: ckaowb4rm85750i78j7p3z1ug
     verified: false
-    hashtags: "#selfie, #satisfying, #corona, #funny"
+    hashtags: "#rajpurohit, #shoot, #hindu, #rapperiyabaalam"
   - username: "luckyyadavartist"
     fullname: >-
       Lucky Yadav
     bio: >-
-      Rapper | Musician | Performing Arts 🎬🎤 • TikTok 375k :- LuckyYadavArtist YouTube :- LuckyYadavMusic • Subscribe Now🔔 • 'Yaadan Teriyaan' Out Now 👇
+      Rapper 🎤 Music Producer 🎹 Performing Arts 🎬 • 💿 Listen To My Songs Here👇🏻 YouTube : LUCKY YADAV MUSIC 🔔 • Subscribe Now🔔 • 💿 "Tsunami" Song Out Now ⬇️
     location: "India"
-    followers: 7239
-    engagement: 787
-    commentsToLikes: 0.077574
+    followers: 8920
+    engagement: 572
+    commentsToLikes: 0.107279
     id: ck9wg8j95sasj0j78avt6c3gr
     verified: false
-    hashtags: "#vfxcrewluckyyadav, #indorediaries, #indorecity, #luckyyadavmusic"
-  - username: "alanzmusic"
+    hashtags: "#video, #reels, #reelsvideo, #photooftheday"
+  - username: "adil.kalyanpur"
     fullname: >-
-      Alan Z
+      Adil Kalyanpur
     bio: >-
-      Rapper. Singer. Actor. Featured on: FOX 5, AJC, Newsy, Yahoo News, NextShark, ABS-CBN, SCMP News Credits: Netflix, The CW, Sony Music
+      Here to make your life a little better :) 🎾 Indian tennis pro by day, 🎶 Rapper and magician by night 👇 “My Story” music video OUT NOW!!
     location: "India"
-    followers: 17252
-    engagement: 1136
-    commentsToLikes: 0.124901
-    id: ck0vypzd157xs0i19uwkifj25
+    followers: 23941
+    engagement: 9049
+    commentsToLikes: 0.029120
+    id: ck6uau12z5nmc0j719c687fqw
     verified: false
-    hashtags: "#asiansinger, #fightforchange, #culturalawareness, #facevalue"
-  - username: "twicexmomo"
+    hashtags: "#instareels, #reelsindia, #explorepage, #reels"
+  - username: "officialfejo"
     fullname: >-
-      TWICE MOMO (모모)
+      FEJO
     bio: >-
-      𝐎𝐍𝐄 𝐈𝐍 𝐀 𝐌𝐈𝐋𝐋𝐈𝐎𝐍! Main Dancer | Vocalist | Rapper TWICE 모모 | 11.9.1996 ♡ est. #160101 Dm for paid promotions 📥
+      Rapper, Song Writer, Composer, Actor, Director 🎥 422K+ community on Youtube 🤗 📩 DM for shows, collabs, enquiries 🙌🏻 🔁 latest video ⤵️ #Fejo
     location: "India"
-    followers: 134741
-    engagement: 491
-    commentsToLikes: 0.003847
-    id: ckf5vw2hdq3cq0j23chsvgpto
+    followers: 201125
+    engagement: 947
+    commentsToLikes: 0.007220
+    id: ck6ugyaa15vxu0j71w51d96f8
     verified: false
-    hashtags: ""
-  - username: "bakhtawarbz"
+    hashtags: "#indie, #hiphop, #thrissur, #mallurapper"
+  - username: "kd.desirock"
     fullname: >-
-      Bakhtawar Bhutto-Zardari
+      KD
     bio: >-
-      #SZABIST Chairperson Occasional Rapper 1st child born to a sitting Female Prime Minister 📍🇵🇰 & 🇦🇪
+      Business Inquiries : +91-9808880000 +91-8607152001 Haryana’s Best Rapper Award Holder https://youtube.com/@DESIROCKKD?si=kHqBFaIrMdjc5IPG
     location: "India"
-    followers: 381288
-    engagement: 1023
-    commentsToLikes: 0.025082
-    id: ck6uaw0a55zja0j714lv26l2c
+    followers: 386722
+    engagement: 391
+    commentsToLikes: 0.017251
+    id: ck14hyz1dcuh00i19sxw4qq9n
+    verified: false
+    hashtags: "#tandav, #kddesirock, #kd, #desirock"
+  - username: "rollrida"
+    fullname: >-
+      Roll Rida
+    bio: >-
+      Telugu Rapper | Actor | Lyricist Managed by @nikunjjjjj For Brand Collaborations Email: bookrollrida@gmail.com Rana Naidu Music Video
+    location: "India"
+    followers: 318917
+    engagement: 336
+    commentsToLikes: 0.003301
+    id: ck5hhi5hl8cjz0i111bfta9ls
     verified: true
-    hashtags: "#virtual, #engaged, #1991, #besafe"
-  - username: "onlyoneunprivate"
-    fullname: >-
-      onlyoneprivate (FAN ACCOUNT)
-    bio: >-
-      Our CEO #정제원 JUNG JAEWON A solo rapper‼️part time as an actor, producer, model✨ @onlyoneprivate @privateonlyofficial JAEWON VIRTUAL CONCERT⤵️
-    location: "India"
-    followers: 20670
-    engagement: 800
-    commentsToLikes: 0.009290
-    id: ckap0fxpjq3p40i78k01sdwee
-    verified: false
-    hashtags: ""
+    hashtags: "#music, #telugu, #fyp, #rananaidu"
 ---

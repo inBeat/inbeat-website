@@ -1,12 +1,48 @@
 ---
-title: Top 10 Mma Fighters Instagram Influencers In Brazil In 2023
+title: Top 10 Mma Fighters Instagram Influencers In Brazil In 2024
 description: >-
-  Find top mma fighters Instagram influencers in Brazil in 2023. Most popular hashtags: #mma #jiujitsu #ufc #wrestling.
+  Find top mma fighters Instagram influencers in Brazil in 2024. Most popular hashtags: #mma #bjj #ufc #jiujitsu.
 platform: Instagram
-hits: 31
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 31 Instagram influencers like this in Brazil for you to connect with.
+hits: 33
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 33 Instagram influencers like this in Brazil for you to contact.
 profiles:
+  - username: "mariosaeedmma"
+    fullname: >-
+      𝙈𝙖𝙧𝙞𝙤 “𝙍𝙪𝙙𝙚𝙗𝙤𝙮” 𝙎𝙖𝙚𝙚𝙙
+    bio: >-
+      🔷️CEO- @trojan_bristol 🔷️ 🔷️ Professional MMA Fighter 🔷️ 🔷️1ST Degree BJJ Black belt ⬛️🟥⬛️⬛️🔷️
+    location: "Brazil"
+    followers: 288791
+    engagement: 857
+    commentsToLikes: 0.025065
+    id: ckap7n7b8kpvf0i78d3t8qp3m
+    verified: false
+    hashtags: "#kurdish, #bjj, #mma, #bristol"
+  - username: "victoriavortex"
+    fullname: >-
+      Victoria Vortex Anthony | MMA • WRESTLING
+    bio: >-
+      Team 🇺🇸 Wrestler | MMA Fighter 🤜🏾 2x Olympic Alternate • 10x US Natl Team 2x US Open Champ • 3x Pan Am Champ Judo Black Belt🥋 | Kambo Practitioner 🐸
+    location: "Brazil"
+    followers: 127190
+    engagement: 257
+    commentsToLikes: 0.027746
+    id: ck5q8crf65iz30i11w6be4szg
+    verified: false
+    hashtags: "#ad, #mma, #techniquetuesday, #freestylewrestling"
+  - username: "michele_bjj"
+    fullname: >-
+      Michele Oliveira
+    bio: >-
+      🏆 Atleta Profissional 👊 MMA FIGHTER 🥋BLACK BELT 👩🏻‍💻Gerenciada por @oopagency Embaixadora do @onlyfans Embaixadora da @shineraydobrasil
+    location: "Brazil"
+    followers: 43084
+    engagement: 167
+    commentsToLikes: 0.056941
+    id: ckap7gxkqk0x50i78ydf07uya
+    verified: true
+    hashtags: "#ufcfightpass, #mmagirl, #micheleoliveira, #ufc"
   - username: "pantoja_oficial"
     fullname: >-
       Alexandre Pantoja
@@ -91,40 +127,4 @@ profiles:
     id: ck9wfd4zzoc220j78454sv921
     verified: false
     hashtags: "#fight, #bangkok, #tbt, #traveling"
-  - username: "marcinheld"
-    fullname: >-
-      Marcin Held
-    bio: >-
-      Pro MMA fighter (26-7) BJJ Black Belt (2nd Degree) Medicals by @multi_med CBD products by @newgardenlab -20% code: marcin20 Sportswear by @ground_game
-    location: "Brazil"
-    followers: 23310
-    engagement: 182
-    commentsToLikes: 0.009409
-    id: ck15ts8wqjmra0i190yy41g9m
-    verified: true
-    hashtags: "#motivated, #mieszanesztukiwalki, #sportywalki, #mma"
-  - username: "patrickypitbull"
-    fullname: >-
-      patrickypitbull
-    bio: >-
-      Brazilian 🇧🇷 MMA fighter in Bellator the king of K.O
-    location: "Brazil"
-    followers: 59449
-    engagement: 373
-    commentsToLikes: 0.045475
-    id: ck55p3fb39q3o0i11ebozo7vn
-    verified: true
-    hashtags: ""
-  - username: "makhmud_muradov"
-    fullname: >-
-      Makhmud “Mach” Muradov
-    bio: >-
-      UFC Middleweight Fighter 🇺🇿🇨🇿 First MMA Fighter TMT
-    location: "Brazil"
-    followers: 1242405
-    engagement: 439
-    commentsToLikes: 0.012690
-    id: ck134p8srxj8m0i191xvdhngv
-    verified: false
-    hashtags: "#happy, #ufc, #mma, #uzbek"
 ---

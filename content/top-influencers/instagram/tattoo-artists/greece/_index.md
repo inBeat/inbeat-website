@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Greece In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Greece In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Greece in 2023. Most popular hashtags: #tattoo #greece #athens #tattoos.
+  Find top tattoo-artists Instagram influencers in Greece in 2024. Most popular hashtags: #tattoo #tattoos #greece #inked.
 platform: Instagram
-hits: 8
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 8 Instagram influencers like this in Greece for you to work with.
+hits: 11
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 11 Instagram influencers like this in Greece for you to connect with.
 profiles:
   - username: "tattoosbygonzo"
     fullname: >-
@@ -31,18 +31,42 @@ profiles:
     id: ck8t6mp11e5fj0j78o0kxzrvg
     verified: false
     hashtags: "#tattooedgirls, #blackandgraytattoo, #blackandgreytattoo, #tattooartist"
-  - username: "black_velour"
+  - username: "pavlos_terzopoulos"
     fullname: >-
-      B L A C K   V E L O U R
+      Pavlos Terzopoulos
     bio: >-
-      ▫️NAIL ARTIST💅🏾 ▫️YOUTUBER🎥 👨🏼‍💻@dimitriskourakos 🐱&🐶@thevelourians 💅🏾#blackvelournails 👇🏼ΝΕΟ ΒΙΝΤΕΟ
+      🇬🇷@new_model_agency 🇬🇷@topclassmodelsagency 🇧🇷@youmodelsbrasiloficial 🌎@youinternationalmodelmgmt 🇿🇦@gio.models.ct
     location: "Greece"
-    followers: 54913
-    engagement: 1712
-    commentsToLikes: 0.447637
-    id: ck13a5xunorwc0i19hc5fde23
+    followers: 63695
+    engagement: 287
+    commentsToLikes: 0.054168
+    id: ck5zkgdvzjfmw0i14dir6zotg
     verified: false
-    hashtags: "#nailstyle, #manicure, #nails, #makeup"
+    hashtags: "#nutrition, #style, #styleoftheday, #videoshoot"
+  - username: "irini_kolida_original"
+    fullname: >-
+      Irini Kolida
+    bio: >-
+      •Artist •Personal Trainer •Survivor girl 2017 •Presenter of “It’s your life”Skai •Presenter of “Mesimeriatika"Open •Radio Producer
+    location: "Greece"
+    followers: 196681
+    engagement: 150
+    commentsToLikes: 0.018992
+    id: ck5pvibpxi0i70i11qdkv20h1
+    verified: false
+    hashtags: "#happyme, #summering, #mountainlife, #natureaddict"
+  - username: "benjaminlaukis"
+    fullname: >-
+      𝕭enjamin 𝕷aukis 🇦🇺
+    bio: >-
+      Athens, Greece @silverletter_gallery • 📩 𝚋𝚕𝚊𝚞𝚔𝚒𝚜.𝚝𝚊𝚝𝚝𝚘𝚘@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖 • 𝐈𝐧𝐤𝐣𝐞𝐜𝐭𝐚 • 𝐈𝐧𝐭𝐞𝐧𝐳𝐞 𝐂𝐡𝐞𝐲𝐞𝐧𝐧𝐞 • 𝐇𝟐𝐎𝐜𝐞𝐚𝐧 • 💍 𝒩𝒶𝓉𝒶𝓁𝒾𝑒 🖤
+    location: "Greece"
+    followers: 426905
+    engagement: 85
+    commentsToLikes: 0.015613
+    id: ck5zqxov9vi080i14ad4mclw3
+    verified: false
+    hashtags: "#oilpainting, #tattooarmourpro, #mhoilpaints, #cheyennetattooequipment"
   - username: "sevenpavel"
     fullname: >-
       BABY THUG 13/4
@@ -91,16 +115,16 @@ profiles:
     id: ckaovtuyy654v0i789lt1a3ea
     verified: false
     hashtags: "#happymoments, #tattoos, #totalblack, #memories"
-  - username: "damianszymanskii"
+  - username: "iamandreasjason"
     fullname: >-
-      Damian Szymański
+      𝓐.𝓘.𝓜 888
     bio: >-
-      God is First☝️ @aekfc_official 🇵🇱🇬🇷 4️⃣🙏
+      Content creator 🎥 Writer ✍🏻 Astrologer 🪐 Yeap I'm a Libra ♎️ 📍Greece "𝐁𝐞𝐥𝐢𝐞𝐯𝐞 𝐚𝐧𝐝 𝐢𝐭 𝐰𝐢𝐥𝐥 𝐡𝐚𝐩𝐩𝐞𝐧" . Βρες το βιβλίο μου εδώ ⤵️
     location: "Greece"
-    followers: 18420
-    engagement: 2737
-    commentsToLikes: 0.020857
-    id: ck5hq8wxespl30i11dilwqgnm
+    followers: 16652
+    engagement: 488
+    commentsToLikes: 0.013459
+    id: ckap2ywqh0wrk0i781ouqkf0e
     verified: false
-    hashtags: "#kot, #artist, #london, #fulham"
+    hashtags: "#boy, #athens, #smile, #greece"
 ---

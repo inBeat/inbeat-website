@@ -1,24 +1,72 @@
 ---
-title: Top 10 Food Instagram Influencers In Philadelphia In 2023
+title: Top 10 Food Instagram Influencers In Philadelphia In 2024
 description: >-
-  Find top food Instagram influencers in Philadelphia in 2023. Most popular hashtags: #philadelphia #foodporn #food #dessert.
+  Find top food Instagram influencers in Philadelphia in 2024. Most popular hashtags: #philadelphia #philly #phillyfood #visitphilly.
 platform: Instagram
-hits: 53
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 53 Instagram influencers like this in Philadelphia, United States for you to pitch.
+hits: 85
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 85 Instagram influencers like this in Philadelphia, United States for you to collaborate.
 profiles:
+  - username: "phlmyplate"
+    fullname: >-
+      PHLmyPlate 🍽
+    bio: >-
+      Philadelphia Food and Lifestyle Join us through Philly and beyond📍 📸 Original content by @wdans22 @kaitglock DM// phlmyplate@gmail.com 📧
+    location: "United States"
+    followers: 23202
+    engagement: 47
+    commentsToLikes: 0.020855
+    id: ckqg6flkcnxj70j23cbo9uxiv
+    verified: false
+    hashtags: "#instafood, #instafoodie, #phillyfoodscene, #cheesyfood"
+  - username: "tasteofphl"
+    fullname: >-
+      Taste of Philly
+    bio: >-
+      Your guide to #Philly & more Philly Food • Travel • Experiences ➡️TikTok: @tasteofphilly 22k
+    location: "United States"
+    followers: 37125
+    engagement: 1679
+    commentsToLikes: 0.047542
+    id: clgcjpa83kf150j08nawsoha5
+    verified: false
+    hashtags: "#philadelphiafoodie, #foodiesofinstagram, #phillyfoodies, #eats"
   - username: "josheatsphilly"
     fullname: >-
       Philadelphia Food & Lifestyle
     bio: >-
-      👶🏾 Hungry since birth 📸 by @joshcmoore 🌈 #JoshEatsPhilly 📫 josheatsphilly@gmail.com
+      🏆 @phillymag Food Influencer of the Year 👶🏾 Hungry since birth 🌈 #JoshEatsPhilly 📫 josheatsphilly@gmail.com
     location: "United States"
-    followers: 35084
-    engagement: 243
-    commentsToLikes: 0.170945
+    followers: 166037
+    engagement: 185
+    commentsToLikes: 0.010523
     id: ck0tyekujmhfy0i196kndu1er
     verified: false
-    hashtags: "#mltrw, #eastmarketpartner, #microdrive, #nationalchocolatechipcookieday"
+    hashtags: "#summer, #visitphilly, #philly, #newinphilly"
+  - username: "philmytummy"
+    fullname: >-
+      Philadelphia Food Blog
+    bio: >-
+      😋 Feasting in Philadelphia and beyond 📩 philmytummy1@gmail.com 📸 All original photos + video 📍Visit our website for full feature articles
+    location: "United States"
+    followers: 40355
+    engagement: 53
+    commentsToLikes: 0.113148
+    id: ckqjjlln7rm930j239uexpsro
+    verified: false
+    hashtags: "#philmytummy, #nationalcheesesteakday, #sponsored, #thanksubereats"
+  - username: "phlfoodstagram"
+    fullname: >-
+      Philadelphia Food & Lifestyle
+    bio: >-
+      Samantha @ssschwartz 🙋🏽‍♀️ Philadelphia & beyond 📍 #phlfoodstagram 📲 DM/Phlfoodstagram@gmail.com 💌
+    location: "United States"
+    followers: 37900
+    engagement: 30
+    commentsToLikes: 0.009157
+    id: ck0w5u9pk5gyy0i19fczmow3h
+    verified: false
+    hashtags: "#icecream, #philadelphia, #phlfoodstagram, #phillyfeeling"
   - username: "eatswithjb"
     fullname: >-
       JB | Philadelphia Food Blogger
@@ -30,19 +78,7 @@ profiles:
     commentsToLikes: 0.295784
     id: ckaor94k0m9060i78suz39gzn
     verified: false
-    hashtags: "#phillyphilly, #foodlover, #yelpphilly, #recipeoftheday"
-  - username: "phlfoodstagram"
-    fullname: >-
-      Philadelphia Food & Lifestyle
-    bio: >-
-      Samantha @ssschwartz 🙋🏽‍♀️ Philadelphia & beyond 📍 #phlfoodstagram 📲 DM // Phlfoodstagram@gmail.com 💌
-    location: "United States"
-    followers: 26956
-    engagement: 387
-    commentsToLikes: 0.247736
-    id: ck0w5u9pk5gyy0i19fczmow3h
-    verified: false
-    hashtags: "#phillyfood, #follow, #foodporn, #dietstartstomorrow"
+    hashtags: "#chocolate, #phillyblogger, #recipeshare, #philadelphiafoodie"
   - username: "phillyinsider"
     fullname: >-
       Michael Klein
@@ -54,19 +90,31 @@ profiles:
     commentsToLikes: 0.036093
     id: ck8swn6hgelk70j788vy49p2o
     verified: false
-    hashtags: "#restaurant, #philly, #food, #alwayssomething"
-  - username: "bunch.ofbs"
+    hashtags: "#food, #restaurant, #philly, #bar"
+  - username: "koryaversa"
     fullname: >-
-      Becca Scholes I Bunch of BS
+      Kory Aversa - Philly Publicist
     bio: >-
-      20-something running on coffee & dry shampoo Daily Fashion & Lifestyle 💌 rscholes@udel.edu Delaware 👇🏻👇🏻Shop My Outfits & Blog
+      PR Santa 🎅 Philly Publicist 📢 Grand openings, restaurant / food tips, things to do, Pennsylvania things. Content Creator & Entrepreneur @aversapr 🏳️‍🌈
     location: "United States"
-    followers: 10019
-    engagement: 291
-    commentsToLikes: 0.431000
-    id: ck5hn3o7an5830i113z3lyblr
+    followers: 97199
+    engagement: 19363
+    commentsToLikes: 0.054123
+    id: cl37w9lni26510i23eid4hpe9
     verified: false
-    hashtags: "#liketkit, #ltkstyletip, #discoverunder20k, #discoverunder10k"
+    hashtags: "#spookyseason, #christmas, #philly, #philadelphia"
+  - username: "phlspecial"
+    fullname: >-
+      Philly Philly!
+    bio: >-
+      experiences | food & bev | travel 📍 philadelphia & beyond ✈️ 💌 phlspecial@gmail.com 📸 #phlspecial
+    location: "United States"
+    followers: 37061
+    engagement: 304
+    commentsToLikes: 0.177996
+    id: ckqjjlls2rmdv0j237oood1vn
+    verified: false
+    hashtags: "#gobirds, #philly, #doingthings, #ovphilly"
   - username: "philadelphiapulse"
     fullname: >-
       Philadelphia Pulse
@@ -79,52 +127,4 @@ profiles:
     id: ckap7rr5yl9t50i78ljhoy4sd
     verified: false
     hashtags: "#phillypulse"
-  - username: "eastpassyunk"
-    fullname: >-
-      East Passyunk Avenue BID
-    bio: >-
-      Home to 160+ independently-owned shops and restaurants in South Philadelphia #eastpassyunk
-    location: "United States"
-    followers: 31915
-    engagement: 142
-    commentsToLikes: 0.020885
-    id: ck8sxpeuwi6jr0j78ko2v9i5k
-    verified: false
-    hashtags: "#openinphl, #delivery, #smallbusiness, #passyunkstrong"
-  - username: "chubby_life"
-    fullname: >-
-      Chubby Life
-    bio: >-
-      No discrimination of the food pyramid 🍕Don't mean to offend with use of *chubby*🍩 #chubbylife 📍NJ, NY, PA, MD & beyond. chubbylifeinstagram@gmail.com
-    location: "United States"
-    followers: 19288
-    engagement: 77
-    commentsToLikes: 0.141998
-    id: ck5bu2uf6h2or0i11iyat289i
-    verified: false
-    hashtags: "#eeeeeats, #beachlife, #pasta, #philadelphia"
-  - username: "eatersanonymous"
-    fullname: >-
-      #EatersAnonymous
-    bio: >-
-      🍴 We have a problem. We love to eat. 🍔🍟🍕🍗🍳 #eatersanonymous is your ultimate food guide! 📧:info@eatersanonymous.com 👇 WORK WITH US!
-    location: "United States"
-    followers: 233182
-    engagement: 57
-    commentsToLikes: 0.052521
-    id: ck15uoilno5we0i19xfkery4v
-    verified: false
-    hashtags: "#eatfamous, #burbank, #cheese, #sandwich"
-  - username: "food_ilysm"
-    fullname: >-
-      Devon Rushton • Philly based
-    bio: >-
-      FOOD I LOVE YOU SO MUCH 🍕 Philadelphia based 🥨 Featuring food around the 🌎 @devon_rushton 💁🏻‍♀️ #foodilysm 📱 devon@foodilysm.com 📧
-    location: "United States"
-    followers: 245626
-    engagement: 144
-    commentsToLikes: 0.019676
-    id: ck9h9tfwa9wf10j78e8z219jt
-    verified: false
-    hashtags: "#matzahcrack, #dunkin, #ad, #heartshapeddonuts"
 ---

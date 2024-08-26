@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Switzerland In 2023
+title: Top 10 Cinema TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top cinema TikTok influencers in Switzerland in 2023. Most popular hashtags: #viral #switzerland #fyp #schweiz.
+  Find top cinema TikTok influencers in Switzerland in 2024. Most popular hashtags: #viral #switzerland #fyp #schweiz.
 platform: TikTok
-hits: 13
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 13 TikTok influencers like this in Switzerland for you to connect with.
+hits: 12
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat has 12 TikTok influencers like this in Switzerland for you to pitch.
 profiles:
   - username: "daimset"
     fullname: >-
@@ -67,18 +67,6 @@ profiles:
     id: ck9sjq7hi4vxf0j7889bm3uzs
     verified: false
     hashtags: "#movie, #cinema, #moviescene, #1minmovie"
-  - username: "nickantik"
-    fullname: >-
-      Nick Antik
-    bio: >-
-      🇨🇭 Canto, intrattengo e sono un pirla INSTAGRAM: @nickantik !❤️ BUSINESS⬇️
-    location: "Switzerland"
-    followers: 128800
-    engagement: 1271
-    commentsToLikes: 0.030154
-    id: ckcovwtxs9amk0j23pctcwhuh
-    verified: false
-    hashtags: "#ticino, #casa, #lugano, #nickantik"
   - username: "sveeneey"
     fullname: >-
       sven.schiefer
@@ -109,12 +97,12 @@ profiles:
     bio: >-
       ☀️Creator Code☀️ ☀️lost-raixer-ttv☀️ ☀️Mein Twitch☀️
     location: "Switzerland"
-    followers: 44900
-    engagement: 1286
-    commentsToLikes: 0.022197
+    followers: 44800
+    engagement: 1285
+    commentsToLikes: 0.022057
     id: ckauu37quz27o0j23ibhhdc3z
     verified: false
-    hashtags: "#roadto50k, #horizon, #update, #clip"
+    hashtags: "#foryoupage, #viral, #roadto50k, #horizon"
   - username: "amavelsardo"
     fullname: >-
       Dear Traveler ®
@@ -127,4 +115,16 @@ profiles:
     id: ckbf7gnxdxfwq0j23jbcwaf38
     verified: false
     hashtags: "#swisstourism, #switzerland, #viral, #film"
+  - username: "azyzthegoat"
+    fullname: >-
+      AzyzTheGoat
+    bio: >-
+      If i reach 10k Follower on Instagram i will give a PS5 away!! Lets Go 💪🏽
+    location: "Switzerland"
+    followers: 13200
+    engagement: 832
+    commentsToLikes: 0.034571
+    id: ckcpgmxzqh7gd0j23dw7wietv
+    verified: false
+    hashtags: "#tiktok, #fyp, #acting, #savage"
 ---

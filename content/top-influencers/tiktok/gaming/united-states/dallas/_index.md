@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Dallas In 2023
+title: Top 10 Gaming TikTok Influencers In Dallas In 2024
 description: >-
-  Find top gaming TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #gaming #foryou #dallas.
+  Find top gaming TikTok influencers in Dallas in 2024. Most popular hashtags: #fyp #gaming #texas #foryoupage.
 platform: TikTok
-hits: 19
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our database aggregates 19 TikTok influencers like this in Dallas, United States for you to connect with.
+hits: 17
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 17 TikTok influencers like this in Dallas, United States for you to connect with.
 profiles:
   - username: "deltafox757"
     fullname: >-
@@ -115,16 +115,16 @@ profiles:
     id: ckb0pbqp0f7g40j23lvujse7b
     verified: false
     hashtags: "#makeuproutine, #timewarpscan, #heartdrop, #fyp"
-  - username: "adrean_i"
+  - username: "kennamaylol"
     fullname: >-
-      Adrean Indolos
+      Kenna May
     bio: >-
-      So like, I do photography stuff 📸 Insta: @adrean_i
+      Michigan | 22 | Venmo: Kenna-May
     location: "United States"
-    followers: 11500
-    engagement: 1085
-    commentsToLikes: 0.041999
-    id: ck8khqn6xnx9p0j78uauhpp1k
+    followers: 8254
+    engagement: 1037
+    commentsToLikes: 0.044800
+    id: ckbfi2vhodpyj0j23vzi9fb6r
     verified: false
-    hashtags: "#tennis, #photographer, #photography, #photomagic"
+    hashtags: "#fyp, #dallas, #viral, #dothescottsslide"
 ---

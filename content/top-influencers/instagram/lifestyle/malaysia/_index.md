@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Malaysia In 2023
+title: Top 10 Lifestyle Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Malaysia in 2023. Most popular hashtags: #airspacemalaysia #beauty #tanned.
+  Find top lifestyle Instagram influencers in Malaysia in 2024. Most popular hashtags: #fashion #singapore #malaysia #outfitoftheday.
 platform: Instagram
-hits: 74
+hits: 109
 text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 74 Instagram influencers like this in Malaysia for you to pitch.
+text_bottom: Our search engine has 109 Instagram influencers like this in Malaysia for you to pitch.
 profiles:
-  - username: "yixuenn_travellife"
+  - username: "gladishchan"
     fullname: >-
-      Y I X U E N
+      Gladish Chan祤琹😄
     bio: >-
-      Travel & Lifestyle 🤿 SCUBA DIVER | FREEDIVER | MERMAID🧜🏻‍♀️ 🌍 @yixuenn_freedive 📕小红书: yixuenn_travellife DM for sponsorship/events/collab
+      🇲🇾Influencer |Youtuber| Lifestyle 💼For job enquiry : gladishofficial@gmail.com My Girl @tara.tara0309 @gladishwahaha 🐶：@potatopoodle @steadydotdot
     location: "Malaysia"
-    followers: 34052
-    engagement: 70
-    commentsToLikes: 0.029388
-    id: ck9haaripbtpg0j78xe6xqf99
+    followers: 450784
+    engagement: 413
+    commentsToLikes: 0.004183
+    id: ck6twwl8duijd0j71yu53142i
     verified: false
-    hashtags: "#travelphotography, #scubadiver, #bikini, #christmas"
-  - username: "sellysherwin"
+    hashtags: "#ulike, #malaysiaairlines, #guardianmy, #myguardianchoice"
+  - username: "siulim"
     fullname: >-
-      Selly Sherwin
+      Siu Lim
     bio: >-
-      #TravellyDiary #OutfitLly Woman Lifestyle •Tiktok [170k] & Youtube [42k]:sellysherwin •📍SBY Inquiries 📩DM/Sherwinselly@gmail.com ⤹ Link Product & New🎥
+      Cert Pilates Instructor @theflowstudio | Content Creator | Cert Nutritionist | fitness | lifestyle | Mother of 4 l hisiulim@gmail.com
     location: "Malaysia"
-    followers: 81600
-    engagement: 44
-    commentsToLikes: 0.063610
-    id: ck5chnw8sr4qg0i11jvod24bm
+    followers: 67181
+    engagement: 1441
+    commentsToLikes: 0.029992
+    id: ck5q1rlptcfmz0i11mepegscy
     verified: false
-    hashtags: "#racunlly, #charisceleb, #promogopay, #wondelfullindonesia"
-  - username: "ohmykaylagirl_k"
+    hashtags: "#100peratusmantap, #larocheposaymy, #nodandruff, #pasticlear"
+  - username: "dan_foong"
     fullname: >-
-      K A Y L A💋
+      Dan Foong
     bio: >-
-      ✈️ Airasia Brand Ambassador 💸 Entrepreneur Travel | Lifestyle | Business **Living my best everyday life😉🇨🇭**
+      Travel | Lifestyle | Music 🌏 Sydney 🇦🇺 📮 danielfoong@hotmail.com 🔻 New YouTube Vid! 🎙
     location: "Malaysia"
-    followers: 40502
+    followers: 14558
+    engagement: 681
+    commentsToLikes: 0.033550
+    id: ck8t2cdxdyy6z0j78ryr36cbm
+    verified: false
+    hashtags: "#malaysian, #newzealand, #newzealandlife, #traveladdict"
+  - username: "martasielska.pl"
+    fullname: >-
+      Marta Sielska ✩ Phuket, Thailand
+    bio: >-
+      ❖ Content Creator | UGC | Travel & Lifestyle | Vegan | Digital Nomad ♡ I help you with traveling and moving to Thailand ➞ Cooperation: DM 📩 and below:
+    location: "Malaysia"
+    followers: 25507
+    engagement: 531
+    commentsToLikes: 0.064114
+    id: ck8t2dhr2z2d70j78iwvd63r3
+    verified: false
+    hashtags: "#thailandtravel, #amazingthailand, #tajlandia, #thailand"
+  - username: "rlinachang"
+    fullname: >-
+      apt. Erlina Chang, S. Farm.
+    bio: >-
+      Beauty Content Creator, Lifestyle, Home Tips 🏠 #ErlinaTips #RlinaHomeTips Email : Rlinachang@gmail.com Tiktok : Rlinachang
+    location: "Malaysia"
+    followers: 195295
+    engagement: 912
+    commentsToLikes: 0.192615
+    id: ck0w1r9j3kqyr0i197p57sa53
+    verified: false
+    hashtags: "#celdam, #rlinahometips, #kyoto, #erlinatips"
+  - username: "yashpadhye"
+    fullname: >-
+      YASH PADHYE
+    bio: >-
+      Travel & Lifestyle 🔺YouTube : Yash & Nilam [1.2 Million Subscriber’s] ⭐️Snapchat : yashpadhye 🤑WEBSITE LINK⬇️
+    location: "Malaysia"
+    followers: 198917
+    engagement: 2299
+    commentsToLikes: 0.010473
+    id: ck8weyv5zeu5j0j78ambg0qin
+    verified: false
+    hashtags: "#skincare, #skincareroutine, #singapore, #singaporetravel"
+  - username: "vincy.tan"
+    fullname: >-
+      Vincy Tan 💝
+    bio: >-
+      Mummy of baby Stefan Parenting | Lifestyle | Beauty | Fashion 📩|wengyee60@gmail.com FB page: Vincy 陈咏儿
+    location: "Malaysia"
+    followers: 17377
     engagement: 361
-    commentsToLikes: 0.027983
-    id: ck9ha754wbfqe0j781ij27o2e
+    commentsToLikes: 0.031512
+    id: ckf5mnjr5ums10j23dc21x529
     verified: false
-    hashtags: "#airasia, #flightattendant, #bangkoklife, #beauty"
-  - username: "kirtanraj"
+    hashtags: "#baby, #ootdmalaysia, #photography, #ootdfashion"
+  - username: "heyyitsbowen"
     fullname: >-
-      Kirtanraj 💀
+      BOWEN TIONG 張柏溫⍣ 🇲🇾
     bio: >-
-      Creating Something ⚡️ @myproteinmy athlete // fitness & lifestyle // kindness TikTok : kirtanrajfitness Online coaching / YouTube / MyProtein 👇🏽
+      Miss Tourism World Malaysia 16’RU👑 Law by day👩🏻‍💼 Music by night🎶 Voiceover, emcee & host🎤 Travel & lifestyle creator✈️ #FlyWithBowen #DineWithBowen
     location: "Malaysia"
-    followers: 29648
-    engagement: 921
-    commentsToLikes: 0.012064
-    id: ck6u83d2kp76j0j71cpuan8ab
+    followers: 93208
+    engagement: 324
+    commentsToLikes: 0.008120
+    id: ck55okr2n8jos0i115d40gov0
     verified: false
-    hashtags: "#tiktok, #km4l, #fitness, #fatloss"
-  - username: "blogitwithaqsa_"
+    hashtags: "#malaysia, #yuyuactive, #visittaipei, #skintightening"
+  - username: "iamnazirul"
     fullname: >-
-      ✨ AQSA ALI ✨
+      Nazirul Hakim | Kampung Boy
     bio: >-
-      🔆 Welcome to my Instagram 🔆 Fashion•beauty•lifestyle•food Dm for PR/ Collab / review 📥 Pakistan, Karachi 📍🇵🇰
+      Food, Travel, Countryside, Lifestyle 📩 nazirularman94@gmail.com TRIP KG TEMAN 👇🏻
     location: "Malaysia"
-    followers: 25338
-    engagement: 185
-    commentsToLikes: 0.078883
-    id: ck0vxl3nmzfk80i19bvk8axkb
+    followers: 173087
+    engagement: 511
+    commentsToLikes: 0.037643
+    id: ck5hjwudbhdzx0i11f1c114w7
     verified: false
-    hashtags: ""
-  - username: "jeschuhan"
+    hashtags: "#nostalgia, #uzbekistan, #smilingwestjava, #terbangasikdarikertajati"
+  - username: "miss_polkadot"
     fullname: >-
-      Jes楚涵🍀
+      Miss Polkadot
     bio: >-
-      Slashie 斜杠族 👉lifestyle | fitness | beauty | fashion 👉@jes_room 👉电商 @mayandzymes core partner | Jes Team. Leader | 👉ACCA certified | Igcse tutor
+      🇸🇬SG Beauty💃🏻Lifestyle🍴Foodie 📩DM for Collabs 🥘Featured on Straits Times 2018 👩🏻‍🍳Cooking & Photography 💃🏻SG Influencer 📸Food & Product Photographer
     location: "Malaysia"
-    followers: 26783
-    engagement: 328
-    commentsToLikes: 0.039495
-    id: ckap2834axs9o0i78q5pv2mze
+    followers: 12715
+    engagement: 455
+    commentsToLikes: 0.180249
+    id: ckaorsspsolg90i78k4bysrn4
     verified: false
-    hashtags: "#sp, #bepositive, #mco2021, #cnyootd2021"
-  - username: "icebabby"
-    fullname: >-
-      icebabby
-    bio: >-
-      🇲🇾Lifestyle #socialmedia Sharing 💡Crowdfunding Entrepreneur 📕Social media marketing 📝Digital marketing (SEO services) 📩xiiaoice0515@hotmail.com
-    location: "Malaysia"
-    followers: 131041
-    engagement: 67
-    commentsToLikes: 0.052158
-    id: ck9wejrhbkkuc0j7895iuzwcd
-    verified: false
-    hashtags: "#promocode, #ootd, #as, #airspace"
-  - username: "brittanyjohnson_xoxo"
-    fullname: >-
-      B R I T T A N Y J O H N S O N
-    bio: >-
-      Sharing my life: raw motherhood + lifestyle 🌸 Owner: 🖤 @thehandeboutique TIKTOK/YT: 175K BESTIES ✨ Balance + WW GREEN 💚 -35lbs IN 🦋 BUT GOD 🙌🏼
-    location: "Malaysia"
-    followers: 18820
-    engagement: 260
-    commentsToLikes: 0.049212
-    id: ck9we4084ihev0j78i49eomg7
-    verified: false
-    hashtags: "#boutiquefashion, #mondaymotivation, #weightlosstransformation, #sahm"
-  - username: "alfredchia"
-    fullname: >-
-      Alfred chia
-    bio: >-
-      •KUL / PEN •MY 📍 •Travel || Lifestyle || Food || Gym
-    location: "Malaysia"
-    followers: 22660
-    engagement: 361
-    commentsToLikes: 0.020491
-    id: ck5hk1g5nhmf20i11gwfyg5px
-    verified: false
-    hashtags: "#throwback, #workout, #stayathome"
-  - username: "_geying"
-    fullname: >-
-      _geying
-    bio: >-
-      Miss Astro 2018 Top 5 Miss Tourism World Msia 2017 Top 8 Lifestyle/ Fashion/ Beauty 🌼 job: geyinglee@hotmail.com
-    location: "Malaysia"
-    followers: 23359
-    engagement: 605
-    commentsToLikes: 0.009827
-    id: ck5c5jv1q3lze0i11zy6ot1sy
-    verified: false
-    hashtags: "#moreisevenmore, #mcobirthday, #dwgiftsoflove, #dwinmy"
+    hashtags: "#partnership, #mediainvitation, #misspolkadotcooking, #01"
 ---

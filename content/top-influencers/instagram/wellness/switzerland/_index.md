@@ -1,12 +1,24 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Switzerland In 2023
+title: Top 10 Wellness Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top wellness Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #wellness #love #motivation.
+  Find top wellness Instagram influencers in Switzerland in 2024. Most popular hashtags: #switzerland #wellness #travel #fitness.
 platform: Instagram
-hits: 16
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 16 Instagram influencers like this in Switzerland for you to pitch.
+hits: 43
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform has 43 Instagram influencers like this in Switzerland for you to work with.
 profiles:
+  - username: "bysofiaziani"
+    fullname: >-
+      Sofia / SZ
+    bio: >-
+      Skincare | Wellness | Women Empowerment | Communication Consultant Mia’s Mama Keep Growing 💫
+    location: "Switzerland"
+    followers: 18168
+    engagement: 70
+    commentsToLikes: 0.088498
+    id: ckap6ioyig0730i78ce7ompgo
+    verified: false
+    hashtags: "#outfitreel, #ootd, #stylegoals, #summer23"
   - username: "bless.travel"
     fullname: >-
       SWISS TRAVEL COUPLE❤️Domi&Pati
@@ -18,7 +30,67 @@ profiles:
     commentsToLikes: 0.070001
     id: ck0w23gh7mfuv0i19pdz0cz3h
     verified: false
-    hashtags: "#schweiz, #dubaihotel, #couplegoals, #switzerland"
+    hashtags: "#switzerland, #fivepalmjumeirah, #handinhand, #schweiz"
+  - username: "michaelwiget98"
+    fullname: >-
+      Michael Wiget
+    bio: >-
+      🇨🇭 🤼 swiss wrestling ⚖️ law student 📩 mail@michaelwiget.ch
+    location: "Switzerland"
+    followers: 11089
+    engagement: 1199
+    commentsToLikes: 0.007957
+    id: ckap0sbk5rkre0i78bss2ds2z
+    verified: false
+    hashtags: "#sport, #tradition, #armee, #thanks"
+  - username: "andrea__schaerer"
+    fullname: >-
+      Andrea
+    bio: >-
+      🥦 Nutrition Coach 📍 Zurich 🍑 booty trainer 💗 I Love Transformations⬇️ 🔴 @andrea__coaching ⬇️ all discounts %
+    location: "Switzerland"
+    followers: 63902
+    engagement: 85
+    commentsToLikes: 0.044721
+    id: ck6u3vjue04ua0j71gialera8
+    verified: false
+    hashtags: "#goodvibes, #passion, #happiness, #andreacoaching"
+  - username: "hellomanuela"
+    fullname: >-
+      Manuela | 👘
+    bio: >-
+      ❥ Daily life, travel + outfits. Founder @monpetitsouk.ch . Suisse | Marrakech | Portugal.
+    location: "Switzerland"
+    followers: 19341
+    engagement: 25
+    commentsToLikes: 0.000833
+    id: ck5q3n7wtljmh0i11117mztht
+    verified: false
+    hashtags: "#quoteoftheday, #eatclean, #healthtips, #smile"
+  - username: "house.of.huber"
+    fullname: >-
+      Nadine Huber
+    bio: >-
+      The Voice of Collagen I help women to feel great & look their best Daily selfcare, style & healthy living tips Founder @houseofstyle.ch
+    location: "Switzerland"
+    followers: 603761
+    engagement: 1
+    commentsToLikes: 0.000000
+    id: ck0udjxf9j9v70i19pfyn3ym1
+    verified: true
+    hashtags: "#wellness, #fettkiller, #abnehmmotivation, #fettabbau"
+  - username: "parkhotelvitznau"
+    fullname: >-
+      Park Hotel Vitznau
+    bio: >-
+      Enjoy pure privacy at the jewel on the shores of Lake Lucerne. #parkhotelvitznau #phvmoments
+    location: "Switzerland"
+    followers: 68240
+    engagement: 100
+    commentsToLikes: 0.017365
+    id: ck5zuhhin2d7y0i14kijgqhs3
+    verified: false
+    hashtags: "#health, #parkhotel, #vitznau, #2024"
   - username: "morganemeirebrand"
     fullname: >-
       𝑴𝒐𝒓𝒈𝒂𝒏𝒆 𝑴𝒆𝒊𝒓𝒆-𝑩𝒓𝒂𝒏𝒅  🇫🇷🇨🇭
@@ -35,96 +107,24 @@ profiles:
     fullname: >-
       Fabio Hayoz
     bio: >-
-      🥇SNBF 2018 Swiss-Champion 📍CH🇨🇭 🏢 @hf.werbetechnik 💪 @coach__bruno ❤️ @jasmine.gsell ‼️SPONSORED BY‼️ @extrifitschweiz - Fabio10 @autocenterhalten
+      🚨 Team Extrifit 🚨 🏢 Owner of @extrifitschweiz 🥇 2018 SNBF Swiss Champ 📍 Switzerland ❤️ @jasmine.gsell
     location: "Switzerland"
-    followers: 10459
-    engagement: 290
-    commentsToLikes: 0.029399
+    followers: 10269
+    engagement: 264
+    commentsToLikes: 0.038793
     id: ck8svr3moce3r0j78a3lf79cp
     verified: false
-    hashtags: "#yoga, #photooftheday, #fitnessathlete, #fitfam"
-  - username: "jessykardakova"
+    hashtags: "#workout, #poollife, #summertime, #muscle"
+  - username: "amorea"
     fullname: >-
-      Jessica 🇨🇭 Zürich
+      Ramona‘s Travel Diary
     bio: >-
-      👠 @devichnik.ch 🛋 @forpostshop.msc Ecology supportive♻️ grad.ZHAW/MSU/MGIMO🎓 📧e-mail: jessykardakova@mail.ch Soul✂️ @jess_collection_official
+      ∞ adventurous spirit TikTok 340k + 🇨🇭swiss based | ✉️ connectwith@amorea.ch
     location: "Switzerland"
-    followers: 28102
-    engagement: 115
-    commentsToLikes: 0.055387
-    id: ck5q423jfneut0i11t73ar680
+    followers: 70268
+    engagement: 4634
+    commentsToLikes: 0.040624
+    id: ck0w3236qr8p50i19thwxvl8c
     verified: false
-    hashtags: "#grapehydration, #ad, #caudalie, #liveclicquot"
-  - username: "tiiineli"
-    fullname: >-
-      Tina Thommen
-    bio: >-
-      🌊🌿 PR Account Manager @prticular Fashion & Commercials in CH/CapeTown/Barcelona/Milan/Munich/Paris 💪🧘‍♀️Ambassador for
-    location: "Switzerland"
-    followers: 4297
-    engagement: 1646
-    commentsToLikes: 0.048196
-    id: ckaot29rgu1wh0i78z05um8x0
-    verified: false
-    hashtags: "#switzerland, #hitzberger, #burton, #winterzauber"
-  - username: "smartsanti"
-    fullname: >-
-      Angel
-    bio: >-
-      🇩🇴🇨🇭 🔸| PowerFood Ambassador @powerfood.ch „angelPF“for 15% ———— 📸 Photography account @smartsanti.visuals
-    location: "Switzerland"
-    followers: 11329
-    engagement: 605
-    commentsToLikes: 0.069125
-    id: ck8szmumzp1at0j78yd2s0ka8
-    verified: false
-    hashtags: "#exercise, #quotes, #fitness, #train"
-  - username: "dadaherzogalattas"
-    fullname: >-
-      🇲🇾 DADA HERZOG ALATTAS 🇨🇭
-    bio: >-
-      A Malaysian 🇲🇾 based in Switzerland🇨🇭    This is my Digital Diary: Life at the Swiss Riviera✨ #whenevrydayisahôliday👒 www.ladyofleisure.online
-    location: "Switzerland"
-    followers: 31814
-    engagement: 215
-    commentsToLikes: 0.025501
-    id: ck6uhtg6qb5ft0j71ylnfp157
-    verified: false
-    hashtags: "#gstaad, #winter, #winterwonderland, #switzerland"
-  - username: "tomer_israeli"
-    fullname: >-
-      TOMER Israeli
-    bio: >-
-      1️⃣9️⃣8️⃣4️⃣ 📍TLV ☀️ 🇮🇱🔛🇨🇭 Digital 📲 Fitness 💪🏼 Fashion 👕 Wine&Dine🥂 Coffee ☕️ Music 🎵 Love 💗 Y.O.L.O 🏳️‍🌈✌🏼Follow my 🌍
-    location: "Switzerland"
-    followers: 8321
-    engagement: 441
-    commentsToLikes: 0.039345
-    id: ckf5nble7xkaq0j23cimlqp6f
-    verified: false
-    hashtags: "#blondehair, #adidas, #fall, #sport"
-  - username: "selmaferrah"
-    fullname: >-
-      Selma سلمى ☮♒🙏
-    bio: >-
-      ➡️ selmaferati@hotmail.ch ---------- 🌸🎪🧚‍♀️Creator of my own Fantasy 🧚‍♀️🎪🌸 ---------- Located in 🇨🇭 #zurich ----------
-    location: "Switzerland"
-    followers: 14982
-    engagement: 350
-    commentsToLikes: 0.070747
-    id: ck5hnozmto5ao0i11hj2s2ir5
-    verified: false
-    hashtags: "#helloworld, #kisses, #pictureoftheday, #loveyall"
-  - username: "ninaburriofficial"
-    fullname: >-
-      Nina Burri
-    bio: >-
-      Contortionist 🐍 Actress 👀 Model 💋 Based in Berlin 🇩🇪 & Switzerland 🇨🇭 ninaburri.com Bookings: ninaburri@gmail.com
-    location: "Switzerland"
-    followers: 27329
-    engagement: 369
-    commentsToLikes: 0.028216
-    id: ck8swefjsdv840j789xz7y932
-    verified: true
-    hashtags: "#noiretblanc, #love, #print, #blueeyes"
+    hashtags: "#hotelsandresorts, #travelblogger, #bahamas, #italy"
 ---

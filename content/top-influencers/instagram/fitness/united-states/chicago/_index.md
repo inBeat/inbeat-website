@@ -1,12 +1,36 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Chicago In 2023
+title: Top 10 Fitness Instagram Influencers In Chicago In 2024
 description: >-
-  Find top fitness Instagram influencers in Chicago in 2023. Most popular hashtags: #chicago #fitnessmotivation #fitness.
+  Find top fitness Instagram influencers in Chicago in 2024. Most popular hashtags: #chicago #fitness #fitnessmotivation #explorepage.
 platform: Instagram
-hits: 220
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 220 Instagram influencers like this in Chicago, United States for you to pitch.
+hits: 246
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 246 Instagram influencers like this in Chicago, United States for you to collaborate.
 profiles:
+  - username: "trainwithhec"
+    fullname: >-
+      Hector “Thee Trainer” Regalado
+    bio: >-
+      🎓SIUC 15 (Sports Admin) 📚CPT (NESTA) 💪🏻IFBB/NPC Coach 🧎🏻Mobility Specialist (FRC)(FRA)(ISM) 🥊Professional S&C Coach 💻 Manager For @kenzie_vance
+    location: "United States"
+    followers: 96205
+    engagement: 153
+    commentsToLikes: 0.039123
+    id: ckvla38q5bn9n0j23nd53o6s1
+    verified: false
+    hashtags: "#hdcfitness, #trainer, #coach, #wealth"
+  - username: "sincerelysabreen"
+    fullname: >-
+      sabreen said
+    bio: >-
+      wife 💍 mom 👶🏻 foodie🍴 traveler ✈️ I have a unique love for delicious food 🥰 my bakery shop 👉🏼 @cakedbysabreen 🧁 find my blog, recipes, & amazon👇🏼
+    location: "United States"
+    followers: 10296
+    engagement: 641
+    commentsToLikes: 0.064069
+    id: ck8t7w23ji5ke0j78758estap
+    verified: false
+    hashtags: "#momlife, #sweets, #chicago, #sweettooth"
   - username: "maria.koche"
     fullname: >-
       Maria Koché
@@ -18,19 +42,7 @@ profiles:
     commentsToLikes: 0.072883
     id: ck15qs12r4ct40i190sexxn5p
     verified: false
-    hashtags: "#chicagoyoga, #activeflexibility, #flexible, #chicago"
-  - username: "jestafford"
-    fullname: >-
-      𝐉𝐞𝐫𝐞𝐦𝐲 𝐒𝐭𝐚𝐟𝐟𝐨𝐫𝐝 | 𝐖𝐫𝐢𝐭𝐞𝐫
-    bio: >-
-      𝙷𝚊𝚗𝚍𝚐𝚞𝚗 𝙴𝚍𝚒𝚝𝚘𝚛 𝚏𝚘𝚛 @gunsandammomag 𝙶𝚞𝚗𝚜, 𝚐𝚎𝚊𝚛, 𝚠𝚑𝚒𝚜𝚔𝚎𝚢, 𝚙𝚒𝚙𝚎𝚜 & 𝚜𝚘𝚖𝚎 𝚑𝚊𝚛𝚍 𝚎𝚊𝚛𝚗𝚎𝚍 𝚠𝚒𝚜𝚍𝚘𝚖 𝙻𝚒𝚏𝚝 𝚑𝚎𝚊𝚟𝚢, 𝚝𝚛𝚊𝚟𝚎𝚕 𝚕𝚒𝚐𝚑𝚝 𝙱𝚎 𝚝𝚑𝚎 𝚙𝚎𝚛𝚜𝚘𝚗 𝚢𝚘𝚞𝚛 🐶 𝚝𝚑𝚒𝚗𝚔𝚜 𝚢𝚘𝚞 𝚊𝚛𝚎
-    location: "United States"
-    followers: 6611
-    engagement: 687
-    commentsToLikes: 0.062032
-    id: ck5zj0o5tgq3l0i14ado5mv0z
-    verified: false
-    hashtags: "#guns, #police, #handgun, #9mm"
+    hashtags: "#chicagofitness, #chicago, #flexibility, #chicagofit"
   - username: "conexao.america"
     fullname: >-
       Conexão América
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.017131
     id: ck5q2yd9didcp0i11kxkjc1wh
     verified: false
-    hashtags: "#nycityworld, #florida, #miami, #dream"
+    hashtags: "#losangeles, #usa, #seeyourcity, #trip"
   - username: "jzpthomas"
     fullname: >-
       JP | Fashion & Fitness
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.176869
     id: ck8t3z3o950dg0j78vy93iljh
     verified: false
-    hashtags: "#fableticspartner, #plantbaseddiet, #moveinfabletics, #strongnotskinny"
+    hashtags: "#fitnessmotivation, #myfabletics, #moveinfabletics, #plantbaseddiet"
   - username: "mr_meighen"
     fullname: >-
       MITCHEL | he/him
@@ -67,18 +79,42 @@ profiles:
     id: ckaothyj6vzsp0i781s7bde6h
     verified: false
     hashtags: "#my2020peak, #vote2see, #tbt, #spiritday"
-  - username: "amir_morris"
+  - username: "whitneybae"
     fullname: >-
-      Amir Morris  (he/him)
+      휘트니 whitneybae
     bio: >-
-      Live free, live true. Screw respectability politics. 🏡 in Chicago, US 🇺🇸/ Costa Rica🇨🇷 Seen on @queerty , @outmagazine Backup: @its_amirmorris
+      always trolling 🤪 📍mostly New York City / sometimes Seoul, Korea 📧: whitneybaeinfo@gmail.com
     location: "United States"
-    followers: 55267
-    engagement: 701
-    commentsToLikes: 0.023714
-    id: ck13c9ff0z8qx0i1969zpgpbf
+    followers: 45058
+    engagement: 478
+    commentsToLikes: 0.013755
+    id: ckqv6prpe21rs0j23dmrz676o
     verified: false
-    hashtags: "#explorepage, #marketdays, #chicago, #explore"
+    hashtags: "#nyc, #goodvibes, #marathon, #halfmarathon"
+  - username: "icansports413"
+    fullname: >-
+      LOVE
+    bio: >-
+      Phil 4:13 ICANSPORTS413 Sports Performance Trainer Fitness Trainer NUPE♦️ @boss__rentalz @delikinginc
+    location: "United States"
+    followers: 15269
+    engagement: 272
+    commentsToLikes: 0.047908
+    id: cks11bol436dp0j23q7b2d5el
+    verified: false
+    hashtags: "#squats, #chicagofitness, #bodypositive, #madeinthewinter"
+  - username: "missearthusa"
+    fullname: >-
+      Miss Earth USA
+    bio: >-
+      USA National Prelims Jan 2-5, 2025 #MissEarthUSA 2024 is Bea Millan-Windorski 🌎✨ #BeautiesforaCause @missearth @b4acusa @stillsheroseorg #missearth
+    location: "United States"
+    followers: 89521
+    engagement: 23
+    commentsToLikes: 0.041054
+    id: ck6tpogptl6dn0j71hedghx2l
+    verified: false
+    hashtags: "#missearthinvietnam, #environmental, #pageant, #roadtomissearth"
   - username: "mrwilliamcruse"
     fullname: >-
       Sir Cruse
@@ -91,40 +127,4 @@ profiles:
     id: ck5c6ekj559zm0i11030vuue0
     verified: false
     hashtags: "#barber, #muscles, #tiktok, #chicagosalon"
-  - username: "katelemere"
-    fullname: >-
-      Chicago Fitness Blogger
-    bio: >-
-      Evidence-based fitness expert keeping it SIMPLE ✨CHIEF INSTRUCTOR @barrys My Master Class is your ticket to total empowerment in & out of the gym.
-    location: "United States"
-    followers: 21798
-    engagement: 239
-    commentsToLikes: 0.044855
-    id: ck9wf9tlmnvk90j78221apd3b
-    verified: false
-    hashtags: "#headspace, #findyourfocus, #tfpgetreal, #ad"
-  - username: "heathergraceifbbpro"
-    fullname: >-
-      Heather Grace IFBB Pro
-    bio: >-
-      IFBB Women's Physique.🥇6x Olympian (2x top 3) 5x IFBB Champ🥇@axidesignstudio @sculptedmdMD @neufitrfp Practitioner/Prep Coach/Training
-    location: "United States"
-    followers: 39955
-    engagement: 156
-    commentsToLikes: 0.044574
-    id: ck5zmogu5mxg30i14ujv01p3m
-    verified: false
-    hashtags: "#olympia2019, #delts, #makethemnotice, #motivation"
-  - username: "amandadevon"
-    fullname: >-
-      𝒶𝓂𝒶𝓃𝒹𝒶 𝒹𝑒𝓋𝑜𝓃
-    bio: >-
-      Makeup Artist & Esthetician 💌 contact@amandadevon.com 🎥YOUTUBE: amanda devon
-    location: "United States"
-    followers: 6438
-    engagement: 852
-    commentsToLikes: 0.075601
-    id: ckap4orwg87c70i787a6t55eu
-    verified: false
-    hashtags: "#jordan1, #kickboxing, #girlpower, #airmax90"
 ---

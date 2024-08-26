@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In New York In 2023
+title: Top 10 Yoga TikTok Influencers In New York In 2024
 description: >-
-  Find top yoga TikTok influencers in New York in 2023. Most popular hashtags: #fyp #yoga #nyc #newyork.
+  Find top yoga TikTok influencers in New York in 2024. Most popular hashtags: #fyp #yoga #newyork #nyc.
 platform: TikTok
-hits: 13
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 13 TikTok influencers like this in New York, United States for you to pitch.
+hits: 12
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 12 TikTok influencers like this in New York, United States for you to pitch.
 profiles:
   - username: "herosbreath"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.018162
     id: ck9106yxhgju30j78i1qpxfny
     verified: false
-    hashtags: "#tulummexico, #dubai, #uae, #nyc"
+    hashtags: "#tulum, #tulumbeach, #nyc, #dubai"
   - username: "shakti_sita_"
     fullname: >-
       SHAKTI SITA
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.027639
     id: ckb9foos14a6m0j23w0cghbre
     verified: false
-    hashtags: "#outfitinspo, #outfitchange, #isolation, #quote"
+    hashtags: "#outfitinspo, #outfitchange, #isolation, #nzcovid19"
   - username: "kerttukaron"
     fullname: >-
       Kerttu Karon
@@ -91,18 +91,6 @@ profiles:
     id: ckav5sqb1cgkf0j23b2n7o7ny
     verified: false
     hashtags: "#fire, #massage, #selfcare, #yoga"
-  - username: "bexxxy_"
-    fullname: >-
-      bexxxy_
-    bio: >-
-      Random content that occasionally goes viral DC | 23 | she/her Insta: @bexxxy_
-    location: "United States"
-    followers: 85500
-    engagement: 1286
-    commentsToLikes: 0.026861
-    id: ck8vtabowfm3k0j78djn3n4wz
-    verified: false
-    hashtags: "#stitch, #fyp, #fitness, #socialmedia"
   - username: "ithinkmylifeisadream"
     fullname: >-
       mim1018
@@ -127,4 +115,16 @@ profiles:
     id: ck8ja6izhqtw70j78l4g7xrri
     verified: false
     hashtags: "#duet, #trend, #foryou, #bestfriends"
+  - username: "coast2coastcrew"
+    fullname: >-
+      C2C 🌊🌴
+    bio: >-
+      COAST2COAST CREW 🌊🌴 // Used to be 203HypeHouse // Members followed
+    location: "United States"
+    followers: 4886
+    engagement: 1130
+    commentsToLikes: 0.030264
+    id: cka8dws61ulgb0i78kzkxcch6
+    verified: false
+    hashtags: "#xyzbca, #foryoupage, #foryou, #860"
 ---

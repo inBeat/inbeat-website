@@ -1,21 +1,21 @@
 ---
-title: Top 10 Models Instagram Influencers In Bangkok In 2023
+title: Top 10 Models Instagram Influencers In Bangkok In 2024
 description: >-
-  Find top models Instagram influencers in Bangkok in 2023. Most popular hashtags: #thailand #thaigirl #bangkok.
+  Find top models Instagram influencers in Bangkok in 2024. Most popular hashtags: #thailand #instagood #photooftheday.
 platform: Instagram
 hits: 24
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 24 Instagram influencers like this in Bangkok, Thailand for you to pitch.
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 24 Instagram influencers like this in Bangkok, Thailand for you to collaborate.
 profiles:
   - username: "lisamaartinez"
     fullname: >-
-      Olmands
+      Lisa
     bio: >-
-      Mother Agent: Peggi Lepage B&M Management ~ Toronto Specs Models ~ Montreal Zoom Models ~ Bangkok TFM Model Management ~ Mumbai
+      Toronto M/A: Peggi LePage Specs Models ~ Montreal Zoom Models ~ Bangkok TFM Model Management ~ Mumbai
     location: "Thailand"
-    followers: 2561
-    engagement: 1678
-    commentsToLikes: 0.039078
+    followers: 2703
+    engagement: 1620
+    commentsToLikes: 0.038017
     id: ck5hs2garvvl70i11qt2xmi56
     verified: false
     hashtags: "#blackouttuesday"
@@ -59,14 +59,14 @@ profiles:
     fullname: >-
       รษา เอสเฮ้าส์
     bio: >-
-      Bangkok. Traveller | model @travelbeforebackhome
+      Bangkok. Traveller | model @travelbeforebackhome For work rasa.eshuis@gmail.com
     location: "Thailand"
-    followers: 43866
-    engagement: 403
-    commentsToLikes: 0.005871
+    followers: 43552
+    engagement: 365
+    commentsToLikes: 0.006363
     id: ck0tvakz8al0q0i19a8luhsbd
     verified: false
-    hashtags: "#marimekkothailand, #tanachira, #toeipupwedding, #tiplady"
+    hashtags: "#hydrabeauty, #skinhydration, #chanelskincare, #pomelogirls"
   - username: "byronbishop"
     fullname: >-
       Byron Bishop
@@ -103,18 +103,6 @@ profiles:
     id: ck15t64zggjbk0i19hqzk09ym
     verified: true
     hashtags: "#pillowchallenge, #tb, #quarantine, #26"
-  - username: "xs.lin.xs"
-    fullname: >-
-      🧍🏻‍♀️Born to Be Real⭐️
-    bio: >-
-      C’est Lin #Bangkok🇹🇭 Tourismus Management, Frequent Traveller, TFP Model, Techno Music Lover & Dj 🏠Düsseldorf
-    location: "Thailand"
-    followers: 4275
-    engagement: 1001
-    commentsToLikes: 0.039045
-    id: ck0vwr1cuv63e0i19ljw851om
-    verified: false
-    hashtags: "#frequenttraveller, #portrait, #travelagentlife, #transisbeautiful"
   - username: "newwy_official"
     fullname: >-
       Be Humble🌸💓
@@ -127,4 +115,16 @@ profiles:
     id: ck55oxbb99boi0i11sdxrlv2b
     verified: false
     hashtags: "#travel, #goals, #beautiful, #happy"
+  - username: "mariekitsova"
+    fullname: >-
+      Marie Kitsóva | model | creator
+    bio: >-
+      now in📍Bangkok 🇹🇭 open for collabs MA: @secret.mngt 📩 contact@mariekitsova.com my website ↓
+    location: "Thailand"
+    followers: 123248
+    engagement: 60
+    commentsToLikes: 0.014831
+    id: ck55nq82v6qmw0i11nx5lemtn
+    verified: false
+    hashtags: "#modelasia, #backstagevideo, #photoidea, #elegantstyles"
 ---

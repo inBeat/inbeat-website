@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In France In 2023
+title: Top 10 Photographers TikTok Influencers In France In 2024
 description: >-
-  Find top photographers TikTok influencers in France in 2023. Most popular hashtags: #foryou #pourtoi #foryoupage #fyp.
+  Find top photographers TikTok influencers in France in 2024. Most popular hashtags: #foryou #pourtoi #foryoupage #fyp.
 platform: TikTok
 hits: 67
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our platform has 67 TikTok influencers like this in France for you to work with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 67 TikTok influencers like this in France for you to collaborate.
 profiles:
   - username: "tallissa"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.008303
     id: ck90tr5cmtq8c0j78a3lxcsyb
     verified: false
-    hashtags: "#tricks, #foryou, #quarantine, #fy"
+    hashtags: "#foryou, #splash, #beauty, #lockdown"
   - username: "justingalant"
     fullname: >-
       Justin Galant
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.025845
     id: ck9ve0zmex63j0j78dyhzmv77
     verified: false
-    hashtags: "#gopromax, #trip, #travel, #pourtoi"
+    hashtags: "#goprofusion, #gopro, #travel, #gopromax"
   - username: "elliot.aubin"
     fullname: >-
       Elliot.aubin
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.016022
     id: ckbbw747jji350j23vaibxsjs
     verified: false
-    hashtags: "#travel, #photography, #plansequence, #foryoupage"
+    hashtags: "#photographer, #travel, #elliotaubin, #plansequence"
   - username: "edwardspict"
     fullname: >-
       edwardspict
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.018412
     id: ck900b4coabfi0j783rm7s2gw
     verified: true
-    hashtags: "#streetstyle, #mode, #parisfashionweek, #paris"
+    hashtags: "#streetstyle, #pfw, #mode, #fashion"
   - username: "supercars.geneva"
     fullname: >-
       Supercars.geneva

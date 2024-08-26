@@ -1,130 +1,130 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Sydney in 2023
+title: Top 10 Comedians Instagram Influencers In Sydney In 2024
 description: >-
-  Find top comedians Instagram influencers in Sydney in 2023. Most popular hashtags: #sydney #comedian #lockdown.
+  Find top comedians Instagram influencers in Sydney in 2024. Most popular hashtags: #comedy #comedian #standupcomedy.
 platform: Instagram
-hits: 4
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat has 4 Instagram influencers like this in Sydney, Australia for you to collaborate.
+hits: 7
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 7 Instagram influencers like this in Sydney, Australia for you to connect with.
 profiles:
-  - username: "supanovaexpo"
+  - username: "spicyjohnston"
     fullname: >-
-      Supanova Comic Con & Gaming 💥
+      BELLA JOHNSTON⚡️
     bio: >-
-      It's comic con, down under! #Supanova Next Stop 🚀 Sydney & Perth #Sydnova #Perthnova
+      Comedian girly, cancer survivor, oysters ❤️‍🔥 @onenightstandpod out on Spotify 💅🏼 TikTok 🌶️ spicyjohnston MGMT 💌 lucinda@baylypr.com 📍 Sydney, AU
     location: "Australia"
-    followers: 44070
-    engagement: 214
-    commentsToLikes: 0.024894
-    id: ck0tyncg1ndnt0i192iloqpnv
+    followers: 13495
+    engagement: 1604
+    commentsToLikes: 0.038425
+    id: cliu00w1hzvgk0j08yrevl5z5
     verified: false
-    hashtags: "#supanova, #perth, #marvel, #voiceactor"
-  - username: "aarizsaiyed"
+    hashtags: "#datingmemes, #makeuptutorial, #notajoketho, #pov"
+  - username: "alrighthey"
     fullname: >-
-      Aariz
+      Matt Hey ✨(Alright, Hey!)
     bio: >-
-      Music, Comedy aur Film making pasand hai, so teeno ko mix karta hoon 👇🏻All my short comedy videos are here #gyaandude Lockdown special song KYA KARE👇🏻
+      💥 IT’S A BIG SHOW LUV! 💥 ✨Australia’s Biggest Glamazon✨ ⚠️ #FatAndFabulous ⚠️ 💎 Comedian • Podcaster • Digital Creator 💎 🏷 Any Pronouns
     location: "Australia"
-    followers: 16190
-    engagement: 621
-    commentsToLikes: 0.031345
-    id: ck5pwjctgn37w0i11mo0ti4t6
+    followers: 84541
+    engagement: 240
+    commentsToLikes: 0.025965
+    id: ck5zvucnh4xcj0i14cvf6zurv
     verified: false
-    hashtags: "#puranaaariz, #hindi, #funny, #comedyvideos"
-  - username: "eddiejowilliams"
-    fullname: >-
-      Eddie Williams
-    bio: >-
-      SINGING STRONGMAN 🏆 2 x Australia’s Strongest Man 17,18 🏆 SH STRONGEST MAN ✝️ SAVED @kindafitkindafat_apparel Get 10% off use my code: CHUBZ
-    location: "Australia"
-    followers: 51738
-    engagement: 164
-    commentsToLikes: 0.018543
-    id: ck135pai02k1s0i197qafhsmy
-    verified: false
-    hashtags: "#kfkf, #johnnybigg, #kindafitkindafat, #fitnessaddict"
-  - username: "theageaustralia"
-    fullname: >-
-      The Age
-    bio: >-
-      Giving Melburnians the bigger picture 📸 🇦🇺 🚃 ☀️ ☔️🗞 Tag us: #theage Facebook: @TheAgeAustralia Twitter: @TheAge Subscribe: subscribe.theage.com.au
-    location: "Australia"
-    followers: 69050
-    engagement: 63
-    commentsToLikes: 0.044657
-    id: ck5c1871jumzh0i11qfa09aet
-    verified: true
-    hashtags: "#isolation, #podcaster, #throwbackthursday, #pod"
-  - username: "georgia_productions"
-    fullname: >-
-      G E O R G I A
-    bio: >-
-      21, Aussie 🇦🇺, Self proclaimed “Comedian”
-    location: "Australia"
-    followers: 297995
-    engagement: 1401
-    commentsToLikes: 0.006931
-    id: ck0vwprw5uzfi0i19s45ave2r
-    verified: true
-    hashtags: "#shotforpandora, #somethingaboutyou, #ad, #frommetoyou"
-  - username: "merrickwatts"
-    fullname: >-
-      Merrick Watts
-    bio: >-
-      Comedian Head Clown @grapesofmirth Loves Comedy, Wine and People. WSET 3
-    location: "Australia"
-    followers: 23470
-    engagement: 323
-    commentsToLikes: 0.055123
-    id: ck0w3q8jsupml0i19dyskis5w
-    verified: false
-    hashtags: "#thewinewarrior, #sasaustralia, #seemezdie, #commitmenttobraindamage"
+    hashtags: "#sydneyworldpride, #sydney, #imacelebrityau, #ad"
   - username: "nikkiosborneofficial"
     fullname: >-
       Nikki Osborne
     bio: >-
-      Comedian. Writer. Adequate mother. Host of Just For Laughs-Ch10. Bush Barbie. Bird on the Tele. Scotch enthusiast. Drunk Historian. Jungle evictee.
+      Comedian. Bush Barbie. Actor. Writer. National Columnist. Comedian torn between respect and pretty dresses. Currently abroad. Tour coming.
     location: "Australia"
-    followers: 39273
-    engagement: 216
-    commentsToLikes: 0.055057
+    followers: 163167
+    engagement: 639
+    commentsToLikes: 0.032789
     id: ck5cl1n60y2i10i11u15hjj31
     verified: false
-    hashtags: "#swoopytime, #magpie, #swoop, #boomerbread"
-  - username: "jimeoinmckeown"
+    hashtags: "#nikkiosborne, #reels, #comedian, #funny"
+  - username: "theskygupta"
     fullname: >-
-      Jimeoin Mckeown
+      Aakash Gupta
     bio: >-
-      Irish / Australian comedian on tour near you soon! www.jimeoin.com
+      SHOW bookings: aakashgupta.business@gmail.com CONTENT enquiry: warren.lvc@gmail.com Singapore show Tickets 👇
     location: "Australia"
-    followers: 23401
-    engagement: 192
-    commentsToLikes: 0.059361
-    id: ckaorztvqpid00i78ie95k57y
-    verified: false
-    hashtags: ""
-  - username: "belltowertimes"
+    followers: 1418794
+    engagement: 224
+    commentsToLikes: 0.002614
+    id: ck5hks59xiyqn0i11j0so5lmf
+    verified: true
+    hashtags: "#standupcomedy, #comedian, #comedyshow, #comedy"
+  - username: "nazeemhussain"
     fullname: >-
-      The Bell Tower Times
+      Nazeem Hussain
     bio: >-
-      Writer. Comedian. Public figure. Entrepreneur. #blessed
+      • Touring Australia and New Zealand with my brand new show ‘Totally Normal’ 👇🏽
     location: "Australia"
-    followers: 105530
-    engagement: 465
-    commentsToLikes: 0.042237
-    id: ck8sxcj5vgw740j7849fcbqfv
-    verified: false
-    hashtags: "#smh"
-  - username: "bella_midnightbella"
+    followers: 170346
+    engagement: 680
+    commentsToLikes: 0.029882
+    id: ck0w0lveqev4o0i19kkj5qhti
+    verified: true
+    hashtags: "#nazeemhussain, #comedy, #standupcomedy, #australia"
+  - username: "madmadswest"
     fullname: >-
-      Bella Mokaraka
+      Madeleine West Actor
     bio: >-
-      Hype Girl - Comedian - Commentator - Maori - Boss
+      Actor. Author. Activist. Podcaster - Invisible Heroes. Founder of Help Home Heal. https://action.asrc.org.au/support_help_home_heal.
     location: "Australia"
-    followers: 11325
-    engagement: 215
-    commentsToLikes: 0.053852
-    id: ck6u31k8bv5gy0j71l2qiftw6
+    followers: 70231
+    engagement: 144
+    commentsToLikes: 0.040191
+    id: ck5cbs0qtg2390i116irnnyyt
     verified: false
-    hashtags: "#girlsonlycunts"
+    hashtags: "#melbourne, #parenting, #method, #actortraining"
+  - username: "droubeidallah"
+    fullname: >-
+      Oubeid Hlal - عبيد هلال 🇲🇦 🇲🇫
+    bio: >-
+      Cardiologist - Comedian - Producer
+    location: "Australia"
+    followers: 1415210
+    engagement: 273
+    commentsToLikes: 0.015393
+    id: ck8t61xskby600j78pmer3y6n
+    verified: false
+    hashtags: "#droubeidallah, #syndey, #2m, #quotes"
+  - username: "nikkiosborneofficial"
+    fullname: >-
+      Nikki Osborne
+    bio: >-
+      Comedian. Bush Barbie. Actor. Writer. National Columnist. Comedian torn between respect and pretty dresses. Currently abroad. Tour coming.
+    location: "Australia"
+    followers: 163167
+    engagement: 639
+    commentsToLikes: 0.032789
+    id: ck5cl1n60y2i10i11u15hjj31
+    verified: false
+    hashtags: "#nikkiosborne, #reels, #comedian, #funny"
+  - username: "spicyjohnston"
+    fullname: >-
+      BELLA JOHNSTON⚡️
+    bio: >-
+      Comedian girly, cancer survivor, oysters ❤️‍🔥 @onenightstandpod out on Spotify 💅🏼 TikTok 🌶️ spicyjohnston MGMT 💌 lucinda@baylypr.com 📍 Sydney, AU
+    location: "Australia"
+    followers: 13495
+    engagement: 1604
+    commentsToLikes: 0.038425
+    id: cliu00w1hzvgk0j08yrevl5z5
+    verified: false
+    hashtags: "#datingmemes, #makeuptutorial, #notajoketho, #pov"
+  - username: "dilrukj"
+    fullname: >-
+      Dilruk Jayasinha
+    bio: >-
+      🇱🇰 🇦🇺 Logie award winning Sri Lankan born Aussie Stand Up comedian & actor. New 2024 tour PRELOVED on sale;
+    location: "Australia"
+    followers: 51474
+    engagement: 5155
+    commentsToLikes: 0.034108
+    id: ck5zo88shpzf30i14c6jzog95
+    verified: false
+    hashtags: "#victoriouslion, #matthewlenevez, #imax, #podcast"
 ---

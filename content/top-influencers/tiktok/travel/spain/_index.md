@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Spain In 2023
+title: Top 10 Travel TikTok Influencers In Spain In 2024
 description: >-
-  Find top travel TikTok influencers in Spain in 2023. Most popular hashtags: #travel #foryou #fyp #parati.
+  Find top travel TikTok influencers in Spain in 2024. Most popular hashtags: #travel #foryou #fyp #parati.
 platform: TikTok
-hits: 71
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our database has 71 TikTok influencers like this in Spain for you to work with.
+hits: 72
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our database has 72 TikTok influencers like this in Spain for you to contact.
 profiles:
   - username: "dianamiaus"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.065697
     id: ck90163ufb9qy0j78wgnmommt
     verified: false
-    hashtags: "#parati, #viajes, #portugal, #fyp"
+    hashtags: "#fyp, #galicia, #parati, #portugal"
   - username: "paulamayool"
     fullname: >-
       Paula Mayol
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.021178
     id: ckb9r74lbni1d0j234q6cbxc1
     verified: false
-    hashtags: "#lipedema, #fyp, #japan, #parati"
+    hashtags: "#japan, #lipedema, #canaima, #parati"
   - username: "ssharankyna"
     fullname: >-
       Anna - Ssharankyna

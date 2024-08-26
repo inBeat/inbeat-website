@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Christian Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top christian Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #fashion #style.
+  Find top christian Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #dubai #style #love #fashion.
 platform: Instagram
-hits: 15
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 15 Instagram influencers like this in United Arab Emirates for you to pitch.
+hits: 18
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform has 18 Instagram influencers like this in United Arab Emirates for you to contact.
 profiles:
   - username: "samar_tm"
     fullname: >-
@@ -31,6 +31,54 @@ profiles:
     id: ck600ctmrdd0q0i14ptdlo4gz
     verified: false
     hashtags: ""
+  - username: "ahmaddaabas"
+    fullname: >-
+      Ahmad
+    bio: >-
+      Regional Director @bold_management MENA Founder & Editor @amdmode Lecturer @istitutomarangonidubai 📍DUBAI / MILAN
+    location: "United Arab Emirates"
+    followers: 434694
+    engagement: 130
+    commentsToLikes: 0.005160
+    id: ck14la36wtlu60i190a09f12s
+    verified: true
+    hashtags: "#mfw, #mydubai, #dubai, #creedmiddleeast"
+  - username: "sally_a.y"
+    fullname: >-
+      Sally سالي الجليلي
+    bio: >-
+      Lawyer. Makeup enthusiast. Wifey. Twin mum 📍UAE I 🇮🇶 🇳🇿
+    location: "United Arab Emirates"
+    followers: 50168
+    engagement: 95
+    commentsToLikes: 0.082167
+    id: ckf5rzllzedcu0j23pmzndz32
+    verified: false
+    hashtags: "#boygirltwins, #makeuplooks, #twinbabies, #eyemakeup"
+  - username: "thesukilu"
+    fullname: >-
+      🇦🇪 Suki Lu 🇨🇳
+    bio: >-
+      مذيعة صينية في دبي 📺Chinese Celebrity TV Host 🇨🇳 Entrepreneur | Investor 🔑 Reach 1.4B Chinese Market U can’t get in 📧 info.sukilu@gmail.com
+    location: "United Arab Emirates"
+    followers: 201156
+    engagement: 4
+    commentsToLikes: 0.010617
+    id: ck5q5xrzav2dg0i114r5hqhfe
+    verified: false
+    hashtags: "#influencer, #blogger, #italytravel, #lifestyle"
+  - username: "themayaahmad"
+    fullname: >-
+      MAYA مايا
+    bio: >-
+      ☼Virgo ☾Leo ↑Virgo Dubai Based Content Creator I created @mynethelabel Cycling Instructor @motion_cycling ✎ info@themayaahmad.com
+    location: "United Arab Emirates"
+    followers: 1290567
+    engagement: 2
+    commentsToLikes: 0.000691
+    id: ckaoqork5jo0c0i788s86vyui
+    verified: true
+    hashtags: "#summer2024, #bobbibrown, #makeup, #ibiza"
   - username: "marloflex"
     fullname: >-
       Marlo Flexxx
@@ -55,18 +103,6 @@ profiles:
     id: ck15r47yk62d80i192twk4gxn
     verified: false
     hashtags: "#red, #keraladiaries, #followforfollowback, #love"
-  - username: "fundakocakm"
-    fullname: >-
-      Funda 🧿
-    bio: >-
-      With good basics, you’ll have endless options! I love timeless pieces & daily outfits Heidelberg 🇩🇪 • İzmir • Dubai married 💍 📧 funda.kocakm@gmail.com
-    location: "United Arab Emirates"
-    followers: 153371
-    engagement: 201
-    commentsToLikes: 0.022359
-    id: ck137xdt3dive0i1975tt628i
-    verified: false
-    hashtags: "#benimtarz, #styledbyme, #streetstyleinspiration, #ootddaily"
   - username: "_mem_6"
     fullname: >-
       mena🖤
@@ -79,52 +115,16 @@ profiles:
     id: ck8t4qipl7pmw0j78ttg01qka
     verified: false
     hashtags: "#hijabstreetstyle, #hijabfashionista, #tesett, #hijabstories"
-  - username: "themaryoom"
+  - username: "bloggerwanabe"
     fullname: >-
-      Mariam💓مريم
+      Sarah Grey
     bio: >-
-      🇦🇪🇬🇧 📍Dubai Hotels | Beauty | Lifestyle Order my abayas via dm💓 Masters 👩🏻‍🎓 Collabs :themaryoom@gmail.com 👻Mariamt44 ماشاء الله💕 Protect your peace🕊
+      Lebanese Comedian 📍Dubai
     location: "United Arab Emirates"
-    followers: 93338
-    engagement: 160
-    commentsToLikes: 0.137061
-    id: ck8t9xvkmpqvf0j7888syfurq
+    followers: 632381
+    engagement: 185
+    commentsToLikes: 0.034066
+    id: ck0w64fy56uxb0i19mraqpxp3
     verified: false
-    hashtags: "#ramadan, #themaryoom, #abaya, #bisht"
-  - username: "nabilelh_"
-    fullname: >-
-      Nabil El Hamdaoui
-    bio: >-
-      📸 🇳🇱 | Dubai @alphalete Code: NABIL | Lightroom Presets 👇🏽
-    location: "United Arab Emirates"
-    followers: 61127
-    engagement: 590
-    commentsToLikes: 0.013948
-    id: ck0vvqfs5qaug0i19xsfzxtuz
-    verified: false
-    hashtags: "#lutbundle"
-  - username: "katia.mrtn"
-    fullname: >-
-      Katia Martin
-    bio: >-
-      Model in Paris and in Dubai ☀️ Management of models Photo event on @katiamrtnevents modelekatia@gmail.com ~ Y 💍 Bruxelles 20-21/05 Amsterdam 22-23/05
-    location: "United Arab Emirates"
-    followers: 87614
-    engagement: 125
-    commentsToLikes: 0.038566
-    id: ck55mf6nm3tfd0i11oydhi2ur
-    verified: false
-    hashtags: "#friends, #fashion, #dubai, #photographer"
-  - username: "ablasofy"
-    fullname: >-
-      Abla Sofy 🌸
-    bio: >-
-      Queen A 💅🏻 Humanitarian 🤍 TV presenter MBC1 LA ✨
-    location: "United Arab Emirates"
-    followers: 934168
-    engagement: 151
-    commentsToLikes: 0.011607
-    id: ck0uc6fxag7x40i19hk7hb2m6
-    verified: true
-    hashtags: "#2021, #fashion, #2020, #morocco"
+    hashtags: "#the, #khalliwalli, #freepalestine"
 ---

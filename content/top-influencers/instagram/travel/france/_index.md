@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In France In 2023
+title: Top 10 Travel Instagram Influencers In France In 2024
 description: >-
-  Find top travel Instagram influencers in France in 2023. Most popular hashtags: #christmas #photography #family.
+  Find top travel Instagram influencers in France in 2024. Most popular hashtags: #ootd #travel #babygirl #family.
 platform: Instagram
-hits: 3029
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 3029 Instagram influencers like this in France for you to collaborate.
+hits: 3353
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 3353 Instagram influencers like this in France for you to collaborate.
 profiles:
-  - username: "aureliestory"
+  - username: "lifewithelliott"
     fullname: >-
-      Aurélie | travel fashion home
+      Elliott Chau | Travel and Adventure Photographer
     bio: >-
-      Content creator from France 🇫🇷 Itineraries, road trips & luxury travel Ambassador for @hotel (1,1M+) TikTok : aureliestoryy (910k+)
+      Romans 8:38-39 I like to travel and take pictures 📸 @canoncanada ambassador 6 years of full-time travel to 67 countries Currently in Mexico 🇲🇽
     location: "France"
-    followers: 282540
-    engagement: 560
-    commentsToLikes: 0.013870
-    id: ck5ho1x06os960i118pgxd358
+    followers: 163649
+    engagement: 2191
+    commentsToLikes: 0.011493
+    id: ck0w2tbypq2x10i19jh48i0fy
     verified: false
-    hashtags: "#newyorkerfashion, #allbeyondlimits, #fairmontmayakoba, #marriottbonvoy"
+    hashtags: "#icelandtravel, #japantrip, #tlpicks, #earthofficial"
+  - username: "jessicabertola"
+    fullname: >-
+      J e s s i c a  C o h e n   B e r t o l a 🌵
+    bio: >-
+      Mom of 3 👧🏽👶🏽🐶 📍Paris ♡ Family ♡ Outfit ♡ Travel ♡ Deco ♡ Food & Fun 💌 contactjessicabertola@gmail.com
+    location: "France"
+    followers: 153596
+    engagement: 578
+    commentsToLikes: 0.079606
+    id: ck5byfm4jp2040i1125n7ml7x
+    verified: false
+    hashtags: "#justmarried, #funnyvideos, #wesaidyes, #humour"
+  - username: "icesam75"
+    fullname: >-
+      Sam & The Happy Family
+    bio: >-
+      Papa qui déchire #lifestyle #travel #family #sport Contact Pro 📧 iceman75yt@gmail.com
+    location: "France"
+    followers: 144824
+    engagement: 627
+    commentsToLikes: 0.011119
+    id: ckf5mlps9uegf0j23s7iwsfie
+    verified: false
+    hashtags: "#family, #papa, #babygirl, #happyfamily"
+  - username: "ginab.xo"
+    fullname: >-
+      GINA B. 💖
+    bio: >-
+      Faith | fashion | beauty | travel | 🇬🇭 💌: ginab@kensingtongrey.co Become an Influencer in 2024👇🏾 📸 tips: @herinfluence.co
+    location: "France"
+    followers: 100902
+    engagement: 1063
+    commentsToLikes: 0.014935
+    id: ck9whg2uvxovq0j785r2hjvta
+    verified: false
+    hashtags: "#grwmoutfit, #outfitinspo, #outfitideas, #outfitinspiration"
+  - username: "annamariasoupioni"
+    fullname: >-
+      ANNAMARIASOUPIONI
+    bio: >-
+      8/10🎂Animal lover ❤️ Content creator :fashion /Beauty/travel 💌For Collaborations:annamaria.soup@gmail.com
+    location: "France"
+    followers: 69470
+    engagement: 494
+    commentsToLikes: 0.563909
+    id: ck6tsp0sm60ea0j713qf2c3e6
+    verified: false
+    hashtags: "#win, #girl, #annamariasgiveaway, #ootdfashion"
+  - username: "die.reuters"
+    fullname: >-
+      Nadine Reuter
+    bio: >-
+      ¨̮ 🇩🇪| Mädchenmama #mom of 3 girls 👱🏼‍♀️👧🏼🧒🏼 and 🐾 #motherhood #travel #fashion #dogmom
+    location: "France"
+    followers: 81630
+    engagement: 532
+    commentsToLikes: 0.048021
+    id: ck0u8dql770u20i19qjo6wguc
+    verified: false
+    hashtags: "#liebe, #loveyou, #partydeco, #maternity"
+  - username: "joanandandre"
+    fullname: >-
+      Joana & Andre
+    bio: >-
+      Photographers & Videographers Luxury Travel & Lifestyle Founders @lostintwomedia Contact: hello@lostintwo.com
+    location: "France"
+    followers: 22329
+    engagement: 402
+    commentsToLikes: 0.014840
+    id: ck0u12aejvj8w0i19k9pnujgn
+    verified: false
+    hashtags: "#lapland, #paris, #couplevideo, #snow"
+  - username: "hellotravelers_"
+    fullname: >-
+      Margot & Julien
+    bio: >-
+      🌿 Travel ~ Nature ~ Adventure ~ Vanlife 📷 Photographes & telepilote de drone agréé 📍Caen, Normandie, FR
+    location: "France"
+    followers: 56941
+    engagement: 3349
+    commentsToLikes: 0.051272
+    id: ck13czi792wtp0i19dfyv9ueu
+    verified: false
+    hashtags: "#lofoten, #exploremore, #pyrenees, #positano"
   - username: "juliepekinexpress"
     fullname: >-
       Julie Rosso
     bio: >-
-      Gagnante Pekin Express @m6officiel Itinerairebis @m6officiel Mom of Dea 👧🤍 Momlife, lifestyle & travel 📍Corse 🏝 💌 juliepekinexpress2020@gmail.com
+      Gagnante Pekin Express + Itinéraire Bis @m6officiel Mom of Dea ♾️ Momlife, lifestyle & travel ✨ 📍Corse 🏝️ 💌 juliepekinexpress2020@gmail.com 👩‍🎓ARPP
     location: "France"
-    followers: 142551
-    engagement: 486
-    commentsToLikes: 0.034619
+    followers: 163751
+    engagement: 502
+    commentsToLikes: 0.027589
     id: ck9weobhsl5wj0j787bl6x70j
     verified: false
-    hashtags: "#sun, #happiness, #home, #love"
-  - username: "capucinerqllrt"
+    hashtags: "#summer, #home, #momanddaughter, #holidays"
+  - username: "itsevel"
     fullname: >-
-      Capucine 🌞
+      Evelyne Yontchev
     bio: >-
-      Lille-Paris Passionate about fashion and travel ☁️ capucinerqllrtpro@gmail.com
+      outfits, lifestyle, travels Paris 💌 evel@gopmedia.ae mon podcast ↓
     location: "France"
-    followers: 128371
-    engagement: 497
-    commentsToLikes: 0.046909
-    id: ckwzuvdikyf7h0j235yuyayod
+    followers: 287126
+    engagement: 438
+    commentsToLikes: 0.011009
+    id: ck8t3z30n50aa0j78r0k5bp6c
     verified: false
-    hashtags: "#browniegirls, #feelscollection, #primark, #workwithprimark"
-  - username: "yaelle.ab"
-    fullname: >-
-      Yaelle 🌵
-    bio: >-
-      Lifestyle, ,Travel , Food Mum of 👧🏼👧🏼👦👶 🌍 : Toulouse ✉️ : yaelle@josephine-agency.com
-    location: "France"
-    followers: 71708
-    engagement: 343
-    commentsToLikes: 0.090446
-    id: ck5hn8y1lnev30i11rnx42h69
-    verified: false
-    hashtags: "#humour, #postpartumbody, #homedecor, #fashion"
-  - username: "gossiproomoff"
-    fullname: >-
-      Gossip Room
-    bio: >-
-      Bienvenue 👋 Twitter et TikTok : GossipRoomOff ✉️ : gossiproom@marmeladz.com #news #travel #food #tv #cinema #media
-    location: "France"
-    followers: 2229913
-    engagement: 392
-    commentsToLikes: 0.005735
-    id: ck15puxoxzr560i19a5btshve
-    verified: true
-    hashtags: "#picoftheday, #cinema, #videooftheday, #avengers"
-  - username: "walidestinations"
-    fullname: >-
-      Walid 🇫🇷 | World Traveler
-    bio: >-
-      World Traveler ▲ Photo ▲ Video @canonfrance photographer 📸 📍 Bali 🇮🇩 ➳ Where next ? ✈︎ +80 pays/countries
-    location: "France"
-    followers: 41378
-    engagement: 272
-    commentsToLikes: 5.766981
-    id: ck0vxipdlz3b90i19pq0k1hoe
-    verified: false
-    hashtags: "#paris, #djiglobal, #nomadict, #visit"
-  - username: "larmoiredesoso"
-    fullname: >-
-      Anne-So
-    bio: >-
-      ▪️Lifestyle, outfit, travel ... ▪️Larmoiredesoso ( blog + eshop) ▪️Lorient - Dijon - Paris 📩 Annesophiegodet7@gmail.com
-    location: "France"
-    followers: 620076
-    engagement: 363
-    commentsToLikes: 0.014009
-    id: ck5c6iwwd5j6q0i11izxfc1o9
-    verified: false
-    hashtags: "#happy, #amour, #pic, #girl"
-  - username: "noor_m_officiel"
-    fullname: >-
-      Nour El Houda Bouhalissa
-    bio: >-
-      Youtuber | Traveler | Content creator | Makeup Artist 📍- Algeria 🇩🇿 💡- 600K on Youtube 📌- For business: m.khelil@outlook.com
-    location: "France"
-    followers: 2536082
-    engagement: 265
-    commentsToLikes: 0.009125
-    id: ck6u54b7d7iio0j71jzz1ccdp
-    verified: false
-    hashtags: "#happybirthday, #couplegoals, #jnmfamily, #restons"
-  - username: "ryma_beautyaddict"
-    fullname: >-
-      Ryma
-    bio: >-
-      Beauty&Lifestyle influencer Youtuber & Traveler ✈ Collaboration : ryma.ba.mg@gmail.com @tulip.home.ryma
-    location: "France"
-    followers: 2238685
-    engagement: 251
-    commentsToLikes: 0.062990
-    id: ck6u54fw67j810j71i4gzimcf
-    verified: false
-    hashtags: "#foreo, #lunamini3, #foreoufo2, #foreoufo"
-  - username: "juliamateian"
-    fullname: >-
-      JULIA MATEIAN
-    bio: >-
-      Talent Manager | Luxury Travel juliamateian@gmail.com Paris, France
-    location: "France"
-    followers: 172450
-    engagement: 126
-    commentsToLikes: 0.031330
-    id: ck0vvacmco91k0i19k5dl33fn
-    verified: false
-    hashtags: "#brunaloveletter, #arket, #akrisai, #ad"
+    hashtags: "#couple, #inspo, #tipsforgirls, #aesthetic"
 ---

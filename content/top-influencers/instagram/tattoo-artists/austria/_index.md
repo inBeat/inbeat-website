@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Austria In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Austria In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Austria in 2023. Most popular hashtags: #tattoo #vienna #tattooartist #tattooart.
+  Find top tattoo-artists Instagram influencers in Austria in 2024. Most popular hashtags: #tattoo #vienna #tattooart #tattoos.
 platform: Instagram
-hits: 13
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database holds 13 Instagram influencers like this in Austria for you to work with.
+hits: 12
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 12 Instagram influencers like this in Austria for you to collaborate.
 profiles:
   - username: "julesboho.tattoo"
     fullname: >-
@@ -30,19 +30,7 @@ profiles:
     commentsToLikes: 0.035081
     id: ck5q7wr3t3eoj0i11c81qgfmg
     verified: false
-    hashtags: "#wien, #ibiza, #tattoo, #ink"
-  - username: "katereplay"
-    fullname: >-
-      🏳️‍🌈◼️Kate ◼️🏳️‍🌈
-    bio: >-
-      a gentle rebel pain is temporary, drip is forever gothic & divine ✨ ▫️𝕿𝖆𝖙𝖙𝖔𝖔𝖘 / 𝕷𝖎𝖋𝖊𝖘𝖙𝖞𝖑𝖊 / 𝕬𝖉𝖛𝖊𝖓𝖙𝖚𝖗𝖊▫️ VIENNA | 22 ☠️❤️‍🔥⛓
-    location: "Austria"
-    followers: 106691
-    engagement: 1913
-    commentsToLikes: 0.013962
-    id: ck5q7vugm3ad90i11b9uw3i3i
-    verified: false
-    hashtags: "#tattoodesign, #tattoostyle, #angel, #tattoogirl"
+    hashtags: "#inkedgirl, #finelinetattoo, #blackandgreytattoo, #ibiza"
   - username: "tattooed.girlz_2"
     fullname: >-
       Hottest Premium Inked Girls
@@ -59,26 +47,14 @@ profiles:
     fullname: >-
       Violeta Arús
     bio: >-
-      GUEST: Madrid: 8 - 13 March Vienna @truecanvas 12 - 16 April
+      GUEST: Rome @swtroma 30 August - 4 September 📧 violeta.arus@gmail.com
     location: "Austria"
-    followers: 122252
-    engagement: 125
-    commentsToLikes: 0.014937
+    followers: 119198
+    engagement: 152
+    commentsToLikes: 0.018850
     id: ck5zuy684390x0i14bk0g75xz
     verified: false
-    hashtags: "#stuttgart, #blackworkers, #tattrx, #btattooing"
-  - username: "_._a_n_i_k_a_._"
-    fullname: >-
-      Anika Bankhofer
-    bio: >-
-      Vienna-Austria 🇦🇹 (NOOO kangaroos🦘 in austria) 🏍️ 🏋️💃🤿⛸️✈️🌍⛷️ ❤️ @dainesewien ❤️ 🤍 @sena_deutschland 🤍
-    location: "Austria"
-    followers: 75596
-    engagement: 547
-    commentsToLikes: 0.027839
-    id: ck8ta8kqyqueb0j787do1y126
-    verified: false
-    hashtags: "#love, #agv, #soback, #tflers"
+    hashtags: "#barcelona, #tattoos, #stuttgart, #tattoo"
   - username: "xchrisschmalzlockex"
     fullname: >-
       ⚡️xchrisschmalzlockex⚡️
@@ -103,6 +79,30 @@ profiles:
     id: ck5qcx5xssrdo0i11iwhxihkt
     verified: false
     hashtags: ""
+  - username: "michaelhackerillustration"
+    fullname: >-
+      Michael Hacker
+    bio: >-
+      Illustrator, comic & gig poster artist • @pizzeriadisgusto • @elherpez • @gigpostershow • El Herpez #2 is now available for pre-order over at
+    location: "Austria"
+    followers: 24966
+    engagement: 226
+    commentsToLikes: 0.022980
+    id: ck0uaotrxcozx0i19r9t52a8w
+    verified: false
+    hashtags: "#wip, #vienna, #stickerapp, #comiccover"
+  - username: "maaike.sanfrinnon"
+    fullname: >-
+      Maaike Sanfrinnon
+    bio: >-
+      I tattoo @maaikesantattoo & i make graphic content for artists @maaikesanfrinnon
+    location: "Austria"
+    followers: 106985
+    engagement: 31
+    commentsToLikes: 0.000518
+    id: clple2a3rx3jn0k08nbbhvdol
+    verified: false
+    hashtags: "#mammal, #altarofplagues"
   - username: "ninadelianin"
     fullname: >-
       Nina de Lianin
@@ -115,16 +115,16 @@ profiles:
     id: ck5q88rrs4zof0i11tps6w42j
     verified: false
     hashtags: "#portrait, #stylebible, #performer, #elegantstyle"
-  - username: "realdeethane"
+  - username: "anatolknotek"
     fullname: >-
-      Damien Dante
+      anatol knotek | artist & poet
     bio: >-
-      Artist 🎤|Caster🗣️|Streamer🎮| Album RESPAWN here 🔽
+      artist and visual poet from vienna 🇦🇹 ➡️ @typewriterartist
     location: "Austria"
-    followers: 45957
-    engagement: 1163
-    commentsToLikes: 0.005993
-    id: ck5zmejytmf970i140gjwslbt
+    followers: 40958
+    engagement: 502
+    commentsToLikes: 0.012818
+    id: ck0u89k8y6vdx0i19btanlhzr
     verified: false
-    hashtags: "#tlupa, #letsgo, #music, #dog"
+    hashtags: "#tattooart, #poetsofinstagram, #thepoem, #textbasedvisualart"
 ---

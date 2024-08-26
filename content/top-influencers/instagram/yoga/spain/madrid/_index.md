@@ -1,12 +1,24 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Madrid In 2023
+title: Top 10 Yoga Instagram Influencers In Madrid In 2024
 description: >-
-  Find top yoga Instagram influencers in Madrid in 2023. Most popular hashtags: #yoga #yogainspiration #madrid #yogalife.
+  Find top yoga Instagram influencers in Madrid in 2024. Most popular hashtags: #yoga #yogamadrid #madrid #yogainspiration.
 platform: Instagram
-hits: 21
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 21 Instagram influencers like this in Madrid, Spain for you to pitch.
+hits: 32
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 32 Instagram influencers like this in Madrid, Spain for you to contact.
 profiles:
+  - username: "absmo"
+    fullname: >-
+      ALESSANDRA ORAM - YOGA
+    bio: >-
+      Co-Owner👩🏽‍🤝‍👨🏻of @ma.na_yogaloft My retreats @ma.na_retreats Senior Alumni of Navakaraṇa vinyāsa Yoga Mats @recklessred_om Kiwi, British, Filipina
+    location: "Spain"
+    followers: 87580
+    engagement: 200
+    commentsToLikes: 0.020488
+    id: ck0tyjan5n2cs0i19pxkoz4eh
+    verified: false
+    hashtags: "#manayogaloft, #navakara, #yogamadrid, #yogabarcelona"
   - username: "redyogini"
     fullname: >-
       Ina
@@ -19,18 +31,30 @@ profiles:
     id: ck5znrfipp0kl0i1432dlkqfl
     verified: false
     hashtags: "#oysho, #espa, #yogaespa, #yogaonline"
+  - username: "kaitlynpatrizia"
+    fullname: >-
+      Kaitlyn Patrizia
+    bio: >-
+      Psiconeuroinmunóloga Functional Mind, Movement & Medicine Aerial Silks Artist + Coach 📩 kaitlynpatrizia@gmail.com 📍BCN
+    location: "Spain"
+    followers: 26327
+    engagement: 94
+    commentsToLikes: 0.065998
+    id: ck136klx26ysm0i19b7brmqcl
+    verified: false
+    hashtags: "#yogabcn, #yogaparatodos, #yogabeginners, #intelligenceemotionnelle"
   - username: "almudena_yogalife"
     fullname: >-
       Almudena
     bio: >-
-      🌿Yoga For Life 🌿 ♾Ashtanga Yoga♾ My Shala, tu espacio de práctica virtual Clases diarias online en directo @mandukaeurope Dto ALMUDENAYL
+      🌿Yoga For Life 🌿 ♾Ashtanga Yoga♾ My Shala,clases diarias online en directo Profesora Yoga Certificada RYT-500,E-RYT200 @mandukaeurope Dto ALMUDENAYL
     location: "Spain"
-    followers: 27790
-    engagement: 168
-    commentsToLikes: 0.047770
+    followers: 27927
+    engagement: 125
+    commentsToLikes: 0.047828
     id: ck13b6rzutyhz0i19zd9xc52d
     verified: false
-    hashtags: "#yogalife, #ashtangayogalove, #thepowerofnow, #compassion"
+    hashtags: "#namaste, #yogamadrid, #compassion, #yogastudent"
   - username: "la_korby"
     fullname: >-
       Marta Korby
@@ -42,89 +66,65 @@ profiles:
     commentsToLikes: 0.060034
     id: ck5zj2zq8guqq0i14mueliv1m
     verified: false
-    hashtags: "#freelife, #yogagirl, #martakorby, #snowboarding"
-  - username: "absmo"
+    hashtags: "#lesdeuxalpes, #summervibes, #yogaoutdoor, #yogagirl"
+  - username: "pedro_arce_yoga"
     fullname: >-
-      ALESSANDRA ORAM - YOGA
+      Pedro Arce
     bio: >-
-      Co-Owner👩🏽‍🤝‍👨🏻of @ma.na_yogaloft🏛 #GirlBOSS of @recklessred_om Senior Alumni Teacher🧘🏽‍♀️of @navakarana vinyāsa @oysho Ambassador Barcelona 📍 •
+      Director del Instituto de yoga y ayurveda. Sesiones privadas práctica avanzada yoga. DM📩 FORMACIÓN INTEGRAL AYURVEDA ONLINE⬇️⬇️
     location: "Spain"
-    followers: 73363
-    engagement: 302
-    commentsToLikes: 0.018540
-    id: ck0tyjan5n2cs0i19pxkoz4eh
+    followers: 17065
+    engagement: 137
+    commentsToLikes: 0.081747
+    id: ckwnjke83r5as0j23z7xbnj71
     verified: false
-    hashtags: "#yogabarcelona, #navakara, #oysho, #yogaformacion"
-  - username: "mavitrapos"
+    hashtags: "#ayurveda, #shirodhara, #ayurvedayoga, #abhyanga"
+  - username: "marialeonstyle"
     fullname: >-
-      Mavi Sales
+      María de León Castillejo
     bio: >-
-      🌺Fashion•Lifestyle🌺 📍Valencia-Madrid, Spain 👰🤵🏻 @daquidivino Último video en #youtube
+      👩🏼‍💻Travel & Style Consulting ❤️Digital Humanism @think2bu @ufvmadrid 💫Wellbeing @viajescontemplativos 📚MariaLeonBookClub @cultura_actualidad_zayas
     location: "Spain"
-    followers: 29660
-    engagement: 172
-    commentsToLikes: 0.164497
-    id: ck5zxyqeq8wwb0i14xlmntifd
-    verified: false
-    hashtags: "#fashionblog, #tendencias2020, #medionoviiembre, #chaleco"
+    followers: 127062
+    engagement: 25
+    commentsToLikes: 0.023039
+    id: ck5zvaajr3usp0i1457vk945m
+    verified: true
+    hashtags: "#estilo, #dublin, #belleza, #accesorios"
   - username: "lady.loah"
     fullname: >-
       Lorena Alvarez
     bio: >-
-      🌲Go wild, for a while! ↟Wellness↟Sports↟Art↟Fun ❤️Teacher & Model• dreamer, adventurer, foodie 📧Collabs→lady.loah@gmail.com 🌎33countries 📍Madrid,Spain
+      🌲Do your best↟Sports↟Culture↟Gastronomy 📚 Philosopher, Linguistic, Teacher 📧Collabs→lady.loah@gmail.com 🌎35countries 📍Madrid,Spain
     location: "Spain"
-    followers: 21530
-    engagement: 603
-    commentsToLikes: 0.107888
+    followers: 21128
+    engagement: 403
+    commentsToLikes: 0.071506
     id: ck5c3lahazjwv0i11uaxqcuv9
     verified: false
-    hashtags: "#cycling, #quehacerenmadrid, #sportmodels, #triathlon"
-  - username: "penos_gussi"
+    hashtags: "#pirineosfranceses, #planespormadrid, #visitmadrid, #abs"
+  - username: "alex.muhi"
     fullname: >-
-      ♤☆RENOS °●GuSSI☆♤🎬₩¥🎥
+      💕Alex 💕
     bio: >-
-      ♤Español🇪🇸Morocco 🇲🇦✴💯 @🗼Madrid 》《t...z ☆ ■ Instagram ♧ Facebook 01♥️🗼 @ Official_account$•°HD ☆📲+°°.•••••••••****** @ ADD FOLLOW Me🙋‍♂️
+      📍ⓂⒶⒹⓇⒾⒹ 𝙈𝙖𝙠𝙚 𝙮𝙤𝙪𝙧𝙨𝙚𝙡𝙛 𝙨𝙩𝙧𝙤𝙣𝙜𝙚𝙧 𝙩𝙝𝙖𝙣 𝙮𝙤𝙪𝙧 𝙚𝙭𝙘𝙪𝙨𝙚𝙨. 📷ＩＮＳＴ▲ＢＬＯＧ ✉ instalexmuhi@gmail.com -30% "dky3892" @temu_spain
     location: "Spain"
-    followers: 10733
-    engagement: 333
-    commentsToLikes: 0.125766
-    id: ckap5wg4mdg8m0i78473x4wcx
+    followers: 29239
+    engagement: 566
+    commentsToLikes: 0.017084
+    id: ck15u5aa8lh690i19h72aio7p
     verified: false
-    hashtags: "#inspiration, #casablanca, #frases, #youtuber"
-  - username: "p.delacalle"
+    hashtags: "#oriflameespa, #top, #fitnessmotivation, #makeuplook"
+  - username: "cenasadivina"
     fullname: >-
-      Patricia de la Calle
+      Silvia, organización de eventos
     bio: >-
-      Co-founder @theplacetobe.agency 💛 PR, comunicación y marketing 📍Madrid Travel the world 📧 delacalle.patricia@gmail.com
+      Vive la experiencia Cenas Adivina emoción-aprendizaje-conexión Organizamos eventos privado-empresa-marca Alquila CA HOME, tu casa C/ Bejar 36 Madrid
     location: "Spain"
-    followers: 26861
-    engagement: 101
-    commentsToLikes: 0.242704
-    id: ck15pl4chyf5k0i19j9sfijan
+    followers: 64609
+    engagement: 124
+    commentsToLikes: 0.054366
+    id: ck14i1bz1d69y0i19bdupfq1f
     verified: false
-    hashtags: "#turismo, #mar, #rome, #sport"
-  - username: "desko_amat"
-    fullname: >-
-      🇪🇸 Desko (Official Account)
-    bio: >-
-      🇪🇸Spanish circus artist🇪🇸 SHOWS / EVENTS / MODEL For inquires and bookings 📩DM📥 🌏CREATOR OF FIND & FIX METHOD🌏 🙌🏼HANDSTAND MASTER🙌🏼 📍MADRID & ONLINE
-    location: "Spain"
-    followers: 70956
-    engagement: 184
-    commentsToLikes: 0.045800
-    id: ckap8vv76q4dz0i788giznnaz
-    verified: false
-    hashtags: "#reels, #circuseverydamnday, #show, #madridocio"
-  - username: "fernandotmon"
-    fullname: >-
-      ᖴ ᗴ ᖇ
-    bio: >-
-      Canarión 🇮🇨 en Madrid • Periodista • Amante del deporte, la vida sana y la gente buena • sígueme en Twitter: @FernandoTimon
-    location: "Spain"
-    followers: 3759
-    engagement: 996
-    commentsToLikes: 0.054401
-    id: ck5c2uwoay1ce0i11pn9swrnw
-    verified: false
-    hashtags: "#hazbrillar, #instagood, #beardedmen, #actitud"
+    hashtags: "#familiaadivina, #cenasadivinahome, #cenasadivina, #madrid"
 ---

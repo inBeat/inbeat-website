@@ -1,11 +1,11 @@
 ---
-title: Top 10 Wellness Instagram Influencers In South Korea In 2023
+title: Top 10 Wellness Instagram Influencers In South Korea In 2024
 description: >-
-  Find top wellness Instagram influencers in South Korea in 2023. Most popular hashtags: #wellness #yoga #fashion.
+  Find top wellness Instagram influencers in South Korea in 2024. Most popular hashtags: #wellness #fitness #skincare.
 platform: Instagram
-hits: 8
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 8 Instagram influencers like this in South Korea for you to connect with.
+hits: 15
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 15 Instagram influencers like this in South Korea for you to connect with.
 profiles:
   - username: "anachoii"
     fullname: >-
@@ -13,12 +13,60 @@ profiles:
     bio: >-
       480k+ YouTuber 🎬 Spanish speaking Korean 🇰🇷 Beauty • Lifestyle/Wellness • Culture ⤵️
     location: "South Korea"
-    followers: 17657
-    engagement: 1001
-    commentsToLikes: 0.051681
+    followers: 15290
+    engagement: 1166
+    commentsToLikes: 0.052060
     id: ck9wookw95y240j78xszkt8a4
     verified: false
-    hashtags: "#modaestilo, #sheinbuenfin2020, #sheinss21, #jeans"
+    hashtags: "#uniqlo, #fashion, #sheingals, #jeans"
+  - username: "bad__yoyo"
+    fullname: >-
+      YOYO
+    bio: >-
+      Beauty | Fashion | Wellness
+    location: "South Korea"
+    followers: 72870
+    engagement: 114
+    commentsToLikes: 0.011272
+    id: ck5zns74np1yt0i145d4yw223
+    verified: false
+    hashtags: "#dazedayztrip, #premiervillagephuquocresort, #dazedayz, #15"
+  - username: "ifbb_pro_kimjunho"
+    fullname: >-
+      김준호
+    bio: >-
+      Ph.D in Sport Medicine IFBB PRO 5X OLYMPIAN Olympia Certification Master @newtech_wellness Sponsored Athlete
+    location: "South Korea"
+    followers: 83776
+    engagement: 104
+    commentsToLikes: 0.010036
+    id: ck8sx3dvpg2tz0j78uk9kj54l
+    verified: false
+    hashtags: "#2023fibo, #fibo, #fibo2023, #cmg"
+  - username: "dr.zionko"
+    fullname: >-
+      Zion Ko Lamm
+    bio: >-
+      👩🏻‍⚕️𝔹𝕠𝕒𝕣𝕕-𝕔𝕖𝕣𝕥𝕚𝕗𝕚𝕖𝕕 𝕀𝕟𝕥𝕖𝕣𝕟𝕒𝕝 𝕄𝕖𝕕𝕚𝕔𝕚𝕟𝕖 🇰🇷<Korean> 𝐒𝐤𝐢𝐧𝐜𝐚𝐫𝐞 x Holistic Wellness x Gut health 📚Featured @vogue @shape @allure ✨ @zionkolamm
+    location: "South Korea"
+    followers: 640507
+    engagement: 74
+    commentsToLikes: 0.043371
+    id: cl5m5m9dyart10i238p8gsnai
+    verified: false
+    hashtags: "#koreanskincareroutine, #aginggracefully, #skincareroutine, #koreanskincare"
+  - username: "shimmycocopuffs"
+    fullname: >-
+      Daniel Shim
+    bio: >-
+      Marketing Advisor 📈 Digital Entrepreneur 💻 OG YouTuber '06 🎥 Mental & Physical Advocate 🧠💪 Inspirator & Motivator 📣🎤 Toronto & Korean 🇨🇦🇰🇷
+    location: "South Korea"
+    followers: 18508
+    engagement: 365
+    commentsToLikes: 0.163440
+    id: ck14hyqv3ct990i19nuostep8
+    verified: false
+    hashtags: "#motivation, #koreanfashion, #gyminspiration, #automotive"
   - username: "hyehwa_elin"
     fullname: >-
       혜화동엘린 윤재원
@@ -31,18 +79,18 @@ profiles:
     id: ck13ayw3bsuzp0i198i43shxn
     verified: false
     hashtags: "#biehler, #smith, #captainmarvel, #cyclinggirl"
-  - username: "hwamok_mermaid"
+  - username: "jooju__fit"
     fullname: >-
-      화목🐠 프리다이빙•여행•위스키•롱보드•킥복싱•스팅어
+      쭈
     bio: >-
-      Seoul, Korea 다이빙 14년째. 알콜 마니아와 중독 사이. 위스키와 장난감, 롱보드와 바다를 사랑하는 아가미녀(gillgirl) Scuba diving, whisky, Toys, Travel, Longboard 👇🏻유튜브에 이것저것 올리는 중
+      
     location: "South Korea"
-    followers: 14157
-    engagement: 280
-    commentsToLikes: 0.045091
-    id: ck6u3uewnzxwb0j71wsitb6h0
+    followers: 6668
+    engagement: 307
+    commentsToLikes: 0.022156
+    id: ck6u84togpfxv0j71kbvscy22
     verified: false
-    hashtags: "#freediver, #royalsalute, #trailblazer, #freediving"
+    hashtags: "#workout, #legday, #backworkout, #fitnessmotivation"
   - username: "jell_o_baby"
     fullname: >-
       함지연 jello baby🔮 Fitness
@@ -79,28 +127,4 @@ profiles:
     id: ck6uidsf6ehy10j71jxshguv9
     verified: false
     hashtags: "#yoga, #running, #plogging, #gogreen"
-  - username: "physique.class_thefit"
-    fullname: >-
-      🇰🇷IFBB Physique Pro 🌏 최봉석
-    bio: >-
-      📍프로짐 강남구청점 / 방학점 18 IFBB Japan Pro Qualify Champion🏆 19 IFBB Japan Pro Show Champion🏆 20 IFBB physique ⭕lympian 📌sponsor @opledotcom / 오플닷컴 유튜브 ⬇️
-    location: "South Korea"
-    followers: 75032
-    engagement: 183
-    commentsToLikes: 0.014711
-    id: ck5btbuaxfop00i11qw4jwfym
-    verified: false
-    hashtags: "#mensphysique, #mrolympia, #ifbb, #ifbbpro"
-  - username: "teoyang"
-    fullname: >-
-      Teo Yang 양태오
-    bio: >-
-      TeoYang Studio & Eastern Edition for work please contact teoyang.studio@gmail.com
-    location: "South Korea"
-    followers: 86560
-    engagement: 145
-    commentsToLikes: 0.021640
-    id: ck5zwlc7j6brv0i145d16j0s3
-    verified: false
-    hashtags: "#therestaurant, #kukjegallery, #phaidon, #phaidonbooks"
 ---

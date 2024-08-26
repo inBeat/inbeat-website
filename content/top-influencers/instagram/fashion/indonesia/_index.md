@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Indonesia In 2023
+title: Top 10 Fashion Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top fashion Instagram influencers in Indonesia in 2023. Most popular hashtags: #ootdinspiration #ootd #ootdfashion.
+  Find top fashion Instagram influencers in Indonesia in 2024. Most popular hashtags: #ootd #outfitoftheday #outfitideas #bali.
 platform: Instagram
-hits: 1167
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 1167 Instagram influencers like this in Indonesia for you to pitch.
+hits: 1309
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 1309 Instagram influencers like this in Indonesia for you to connect with.
 profiles:
-  - username: "clarissaputri_"
+  - username: "rohittt_09_"
     fullname: >-
-      Clarissa Putri H 😽
+      𝐑𝐨𝐡𝐢𝐭 𝐙𝐢𝐧𝐣𝐮𝐫𝐤𝐞 🇮🇳
     bio: >-
-      Beauty & Fashion Enthusiast✨ #GenerasiKulitSehat Bersama @npureofficial Olshop: 081389164343 (WA) Brand: 081294584704 (Kartika) / 0812 82820619 (Momi)
+      Built • @ziro9.official Fashion • Lifestyle • Video Creator #reactionboi YouTube : Rohit Zinjurke (38 Lakh Subscribers) @Stake Code - Reactionboi09
     location: "Indonesia"
-    followers: 1205363
-    engagement: 530
-    commentsToLikes: 0.003916
-    id: ck0vvfnomoxe20i19i2qvn84r
+    followers: 28401168
+    engagement: 509
+    commentsToLikes: 0.006321
+    id: ck8tc6k3dygnd0j783tc47cg7
     verified: false
-    hashtags: "#fdnevent, #enjoyamazingskin, #lazadafestivalfashion, #sipalingbestie"
-  - username: "nabilaishma"
+    hashtags: "#inabudhabi, #stake, #momslilboi, #reactionboi"
+  - username: "apoorvamishra_"
     fullname: >-
-      Nabila Ishma Nurhabibah
+      Apoorvaa
     bio: >-
-      Enthusiast Learner, Fashion, & Beauty BA of @airinbeautycare @umama_id @texlascarf CP : +62 877-8595-4834 / +62 821-3077-7424
+      All about Fashion▪️Makeup▪️skin care ▪️Lifestyle ▪️ Travel Snap ID :- apoomish Mail - team.apoorvamishra@gmail.com
     location: "Indonesia"
-    followers: 1237200
-    engagement: 1757
-    commentsToLikes: 0.003851
-    id: ck9whra3nz4ed0j78ypsblpwy
+    followers: 502755
+    engagement: 578
+    commentsToLikes: 0.005839
+    id: ck9hcq9vxmk7z0j78zmdh5zf5
     verified: false
-    hashtags: "#wardahrenewyou, #youthpowerdroplets, #7wonderstoners, #lifeyourway"
-  - username: "steffisanta"
+    hashtags: "#foryou, #foryoupage, #reelsinstagram, #reels"
+  - username: "ariacous"
     fullname: >-
-      Steffi Santa
+      𝔸𝕣𝕚𝕒𝕟𝕖
     bio: >-
-      🐿 Fashion Stylist @steffisantaswork / TikTok/Reels Producer (porto di IG highlight) Endorsement: 0878-8369-5662 (Cindy) 💌 steffisantas@gmail.com
+      Fashion & lifestyle 28 | Belgium l Ghent | ♓️ Founder of @variablethelabel UGC, Tiktok & Youtube ✉️ arianecouss@gmail.com
     location: "Indonesia"
-    followers: 13636
-    engagement: 327
-    commentsToLikes: 0.029745
-    id: ck8sx7vvzggci0j78zgcb3gwn
+    followers: 133972
+    engagement: 955
+    commentsToLikes: 0.343721
+    id: ck6ub5q557mii0j7132rl8uut
     verified: false
-    hashtags: "#ootd, #outfits, #outfitinspo, #ootdindo"
-  - username: "adindathomas"
+    hashtags: "#fashiongram, #outfitinspo, #balilife, #belgianblogger"
+  - username: "songofmarch"
     fullname: >-
-      Adinda N.N Thomas
+      *Caroline Tan*
     bio: >-
-      -Fashion & Travel Enthusiast - #dindadimana @kknmovie * Founder @parole.id * Event @langit.tak.beratap
+      Create sweet melody through food, fashion & lifestyle #songofmarch 📩: songofmarch@yahoo.com Business inquiries : 0811160770 ☁️: Jakarta, ID
     location: "Indonesia"
-    followers: 1408514
-    engagement: 215
-    commentsToLikes: 0.002721
-    id: ck5bt8i5pfiuu0i11sbiq724q
-    verified: true
-    hashtags: "#yslbeautyid, #havaianasindonesia, #roninfitcamp, #babysitting"
-  - username: "novkrisst"
-    fullname: >-
-      Nova ~ 🍭
-    bio: >-
-      Beauty | Fashion | Games | Lifestyle 🌸 ¦ Live Youtube : Novkrisst (7pm) 🌸 ¦ Tiktok : Nopnopajah 🌸 ¦ Inq / Endorsement : -Yap (081937076365)
-    location: "Indonesia"
-    followers: 100586
-    engagement: 211
-    commentsToLikes: 0.030437
-    id: ck0tsy0as0ebf0i194k71wy0a
+    followers: 92356
+    engagement: 475
+    commentsToLikes: 0.038324
+    id: ck5c42u640j6v0i11hwoo73ip
     verified: false
-    hashtags: "#gaminggear, #onlinemedan, #mousegaming, #komputermedan"
-  - username: "widya98"
+    hashtags: "#foodstyling, #feedfeed, #eatingfortheinsta, #songofmarch"
+  - username: "iam_oliviatan"
     fullname: >-
-      Surabaya Foodies
+      Olivia Tan | 📍Jakarta 🇮🇩
     bio: >-
-      Fashion•Beauty•Lifestyle•Staycation♡ 📩 TAP LINK FOR ENDORSEMENT 🖤 Tiktok(22k+) & Youtube #Wstaycationdisini #Wayukicob 🙆‍♀️ KursusMUA @widya98_mua
+      Miss Charm 2nd Runner Up 👑 Travel & Fashion Content Creator✈️ TikTok 500K+ Endorsement (Shanty)⬇️ BA @mariominardi_ladies
     location: "Indonesia"
-    followers: 62374
-    engagement: 212
-    commentsToLikes: 0.145789
-    id: ck9wght21th390j78fik69ir7
+    followers: 133235
+    engagement: 514
+    commentsToLikes: 0.019845
+    id: ck5zit3zzgbri0i14bndp6luy
     verified: false
-    hashtags: "#wstaycationdisini, #gengkulinerseru, #wayukicob, #mangkokkusurabaya"
-  - username: "vallerieaudrey"
+    hashtags: "#weddingevent, #art, #rinaldyyunardi, #weddinginspiration"
+  - username: "thomsofficiel__"
     fullname: >-
-      Vallerie Audrey
+      𝙆𝙪𝙢𝙖𝙡𝙖𝙡𝙖𝙑𝙄𝙋
     bio: >-
-      ♥ Fashion | Beauty | Food | Lifestyle ♥ #StylebyVall 🪐 ☁️Line@ : @vallerieaudrey (with @)📲 // DM 🇮🇩Jakarta, Indonesia 💌vallerie.audrey@yahoo.com
+      🛍 @roude.tm 🛒 𝘼𝙢𝙗𝙖𝙨𝙨𝙖𝙙𝙤𝙧 @novamen by @fashionnova 📤 contact.kumalala@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢 🫡 𝑻𝒊𝒌𝒕𝒐𝒌 3,5 𝑴𝒊𝒍𝒍𝒊𝒐𝒏 🐦 Twitch: 𝙆𝙪𝙢𝙖𝙡𝙖𝙡𝙖𝙑𝙄𝙋
     location: "Indonesia"
-    followers: 37903
-    engagement: 202
-    commentsToLikes: 0.013240
-    id: ck5cbcc48f5jc0i118nrotk24
+    followers: 732026
+    engagement: 728
+    commentsToLikes: 0.023060
+    id: ck5zq968yu6650i144rxh2wvq
     verified: false
-    hashtags: "#ootdfashion, #ootdindo, #ootdinspiration, #ootdstyle"
-  - username: "sabrinachairunnisa_"
+    hashtags: "#kumalala, #meme, #waduh, #concours"
+  - username: "mjsehonanda"
     fullname: >-
-      Mrs. Corbuzier | Beauty Creators
+      MJ Sehonanda Wongso
     bio: >-
-      👰🏻‍♀️A Proud Wife 💄Beauty,👗Fashion & Sport Enthusiast 💅🏻Founder of @adelinee.id 📞Business WA+6287872484815(Lisa) 👑RU-3 PuteriIndonesia'11
+      Fashion | Beauty | Lifestyle | Mom&Kids ‼️BUKAN MICHELLE‼️ @pa.ca.pa.ca @precuratedbymjs @lviors_official ‘s BA✨ Mjsehonanda@gmail.com
     location: "Indonesia"
-    followers: 1112900
-    engagement: 198
-    commentsToLikes: 0.012736
-    id: ck15sitsqd8370i19jmk12rwz
-    verified: true
-    hashtags: "#reels, #ootd, #deddycorbuzier, #tampildireels"
-  - username: "vellaaania"
-    fullname: >-
-      Vellania
-    bio: >-
-      dance & fashion enthusiast🍒 BUSINESS/ENDORSEMENT? WA : +62 813-8069-9508 (Adm 1) WA : +62 821-2453-6413 (Adm 2)
-    location: "Indonesia"
-    followers: 159020
-    engagement: 289
-    commentsToLikes: 0.004528
-    id: ck0vx8bjpxnfu0i19a8hntudf
+    followers: 53717
+    engagement: 748
+    commentsToLikes: 0.050385
+    id: ck5hpgjzyrbmq0i11fkmby86z
     verified: false
-    hashtags: "#dancecover, #blackpink, #barenbliss, #shutdown"
-  - username: "farasyahid"
+    hashtags: "#kerfxmjsehonanda, #bashamarket"
+  - username: "sena_asbhoel"
     fullname: >-
-      Farsya || GIVEAWAY tiap bulan✨🌈
+      Sena Senjani S.Ikom
     bio: >-
-      Beauty & Fashion OPEN ENDORSEMENT, COLLAB, VISIT! —— 𝙄’𝙢 𝙞𝙣𝙩𝙤 𝙢𝙖𝙠𝙚𝙪𝙥 ଘ(੭ˊᵕˋ)੭* ੈ✩‧˚ Sub, ID #revu_id_73405fc1
+      “Young enterpreneur and fashion enthusiast”
     location: "Indonesia"
-    followers: 39611
-    engagement: 185
-    commentsToLikes: 0.018396
-    id: ckaoslom3s05e0i78hv93uoyg
+    followers: 65143
+    engagement: 600
+    commentsToLikes: 0.014119
+    id: ck5ci3loury9a0i11qw2iu5f3
     verified: false
-    hashtags: "#momsfluencer, #videounboxing, #giveawayindo, #makeuptutorial"
+    hashtags: "#asbhoelfamily, #asbhoel, #timnas, #masyaallahtabarakallah"
+  - username: "sofyansap"
+    fullname: >-
+      Sofyan Pratama
+    bio: >-
+      Fashion | Photography | Creative @shotbysap @goodsbysap Bussiness Inquiries : +6287871632398 (Chris) 📩 hello.sofyansap@gmail.com 📍Jakarta, ID
+    location: "Indonesia"
+    followers: 710854
+    engagement: 588
+    commentsToLikes: 0.010664
+    id: ck0w5regw52b60i1940ang9d1
+    verified: false
+    hashtags: "#lookbook, #behindthescenes, #shotoniphone, #sentosasensoryscape"
+  - username: "brl.lin"
+    fullname: >-
+      Brilliant Lin
+    bio: >-
+      Slow Fashion Enthusiast You can’t buy ‘style’ Fuse of #ruggedcasualstyle
+    location: "Indonesia"
+    followers: 7459
+    engagement: 595
+    commentsToLikes: 0.050632
+    id: ck8tcz9jk19an0j78seikgen8
+    verified: false
+    hashtags: "#llbean, #dadstyle, #vintagemilitary, #newbalanceshoes"
 ---

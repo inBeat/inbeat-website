@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Australia In 2023
+title: Top 10 Gaming TikTok Influencers In Australia In 2024
 description: >-
-  Find top gaming TikTok influencers in Australia in 2023. Most popular hashtags: #gaming #fyp #foryou #twitch.
+  Find top gaming TikTok influencers in Australia in 2024. Most popular hashtags: #gaming #fyp #foryou #twitch.
 platform: TikTok
-hits: 195
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 195 TikTok influencers like this in Australia for you to collaborate.
+hits: 194
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 194 TikTok influencers like this in Australia for you to pitch.
 profiles:
   - username: "nonstopclm"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.023386
     id: ckb98uj5esiyh0j238mi3nzy8
     verified: false
-    hashtags: "#gaming, #otaku, #weebtok, #mha"
+    hashtags: "#anime, #mha, #weebs, #otaku"
   - username: "channel5213"
     fullname: >-
       ✨Channel- 27k🖤✨

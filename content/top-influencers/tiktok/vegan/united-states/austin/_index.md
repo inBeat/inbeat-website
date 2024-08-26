@@ -1,12 +1,24 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Austin In 2023
+title: Top 10 Vegan TikTok Influencers In Austin In 2024
 description: >-
-  Find top vegan TikTok influencers in Austin in 2023. Most popular hashtags: #vegan #fyp #stitch #lgbt.
+  Find top vegan TikTok influencers in Austin in 2024. Most popular hashtags: #vegan #fyp #foryou #lgbt.
 platform: TikTok
-hits: 23
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: inBeat has 23 TikTok influencers like this in Austin, United States for you to connect with.
+hits: 24
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 24 TikTok influencers like this in Austin, United States for you to contact.
 profiles:
+  - username: "thegingerrapper"
+    fullname: >-
+      Susie Reed Comedy
+    bio: >-
+      Stand up comedian - AC, NJ Not sure what I’m doing, but I’m trying my best
+    location: "United States"
+    followers: 305800
+    engagement: 1556
+    commentsToLikes: 0.012548
+    id: ckbfc9fd54y4o0j23ymb1ni03
+    verified: false
+    hashtags: "#standup, #funny, #thecoldeswater, #comidian"
   - username: "cozyrosati"
     fullname: >-
       Cosette Rosati
@@ -18,7 +30,7 @@ profiles:
     commentsToLikes: 0.078181
     id: ckacfmt0yrjis0i787jm6lk9x
     verified: false
-    hashtags: "#thrifting, #ootd, #thrifthaul, #atx"
+    hashtags: "#ootd, #thrifthaul, #ad, #vegan"
   - username: "philthefixer"
     fullname: >-
       Phil the Fixer
@@ -115,16 +127,4 @@ profiles:
     id: ck9eodhztnv9b0j780zmtq6oa
     verified: false
     hashtags: "#fyp, #panama, #whoknew, #nature"
-  - username: "chubbycucumber"
-    fullname: >-
-      Drew Schroeder
-    bio: >-
-      🍔Plantbased Chef🍔 ✨NOT here to turn you vegan✨ Followers = Caulifollowers
-    location: "United States"
-    followers: 27600
-    engagement: 1280
-    commentsToLikes: 0.102982
-    id: ckc2zk06cqgki0j238u4qvkcm
-    verified: false
-    hashtags: "#plantbased, #foodie, #seitan, #thatveganteacher"
 ---

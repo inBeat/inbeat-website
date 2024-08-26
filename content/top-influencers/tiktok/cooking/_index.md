@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In 2023
+title: Top 10 Cooking TikTok Influencers In 2024
 description: >-
-  Find top cooking TikTok influencers in 2023. Most popular hashtags: #stitch #fyp #aesthetic.
+  Find top cooking TikTok influencers in 2024. Most popular hashtags: #stitch #fyp #foryou.
 platform: TikTok
-hits: 4833
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform has 4833 TikTok influencers like this for you to connect with.
+hits: 4802
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 4802 TikTok influencers like this for you to contact.
 profiles:
   - username: "symphonic_bear"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.196902
     id: ck9glnlycp67y0j78qhgmu8w8
     verified: false
-    hashtags: "#clarinet, #otherkinfamily, #stitch, #gaybears"
+    hashtags: "#gaybears, #bearinet, #stitch, #clarinet"
   - username: "growingthroughtheweeds"
     fullname: >-
       Growing Through The Weeds 🍓
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.309111
     id: ckc8xfm28lcen0j23p1lup6zq
     verified: false
-    hashtags: "#gardening, #garden, #summer, #growfoodnow"
+    hashtags: "#growfoodnow, #gardening, #vacation, #garden"
   - username: "sanctuaryvegan"
     fullname: >-
       Matthew Sanctuary
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.049218
     id: ck81s2bslphml0j783w2qxzry
     verified: false
-    hashtags: "#stitch, #harrypotter, #smallbusiness, #sewing"
+    hashtags: "#smallbusiness, #cashapron, #halfasssedcooking, #wand"
   - username: "cookingwithlynja"
     fullname: >-
       Lynja
@@ -91,18 +91,6 @@ profiles:
     id: ck9tua84vklv40j78c04vzwq6
     verified: false
     hashtags: "#gingercat, #ilovemycat, #junetheshoweringcat, #wetcat"
-  - username: "jaimemessina"
-    fullname: >-
-      Jaime Messina
-    bio: >-
-      ✨High Vibes 💫 🌴 Boston to Florida 🥓LC Cooking 🐱Cat Lady 🏳️‍🌈LGBTQ
-    location: "United States"
-    followers: 43400
-    engagement: 1226
-    commentsToLikes: 0.185046
-    id: ckb9rx26xonjw0j23t3wupa4n
-    verified: false
-    hashtags: "#lgbtq, #persiancat, #catlady, #lgbt"
   - username: "supremestephany20"
     fullname: >-
       SupremeStephany20
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.263452
     id: ck9flkuatobgx0j78tbwy8i1l
     verified: false
-    hashtags: "#fy, #honeymoon, #hawaii, #tryonhaulclothes"
+    hashtags: "#honeymoon, #fy, #hawaii, #boilingcrab"
   - username: "glossygurrl"
     fullname: >-
       aesthetic
@@ -127,4 +115,16 @@ profiles:
     id: ckbeo2x2p3w9e0j231mb7x5nm
     verified: false
     hashtags: "#foryou, #aesthetic, #closeup, #tasty"
+  - username: "levelupirl"
+    fullname: >-
+      levelupirl
+    bio: >-
+      Anime Computers Cooking Gardening Photography
+    location: "United States"
+    followers: 2874
+    engagement: 967
+    commentsToLikes: 0.090171
+    id: cka0kuku7o7l20i78ksst02ak
+    verified: false
+    hashtags: "#foryou, #fyp, #onepiece, #stitch"
 ---

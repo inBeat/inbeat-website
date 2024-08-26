@@ -1,24 +1,48 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Chile In 2023
+title: Top 10 Beauty Instagram Influencers In Chile In 2024
 description: >-
-  Find top beauty Instagram influencers in Chile in 2023. Most popular hashtags: #makeup #love #maquillaje #skincare.
+  Find top beauty Instagram influencers in Chile in 2024. Most popular hashtags: #love #makeup #makeupartist #chile.
 platform: Instagram
-hits: 220
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 220 Instagram influencers like this in Chile for you to pitch.
+hits: 243
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 243 Instagram influencers like this in Chile for you to connect with.
 profiles:
-  - username: "valemiaaaaau"
+  - username: "wedont_like"
     fullname: >-
-      Valentina Leni 💕
+      Camila S. Byrt🦋
     bio: >-
-      Cosmetologa, MUA & Beauty blogger 🇨🇱 Maquillaje/ Skincare/ Cabello/ Reseñas💘 Psicologa y mamá de Vicente👩‍👦 valentina.leni@live.com 💌 Stgo, Chile📍
+      Dra. & Fashion Addicted ♈️🐍 • Hobby: Producción de Moda • Médica Cirujana y Estética 👩🏻‍⚕️🇨🇱 • Dra. @beautytechnique.scl • TikTok: wedontlike
     location: "Chile"
-    followers: 23799
-    engagement: 427
-    commentsToLikes: 0.401485
-    id: ck1382qs7e85m0i19qjp0c1lo
+    followers: 23162
+    engagement: 308
+    commentsToLikes: 0.037063
+    id: ck14h66728qc80i19s6q9ovow
     verified: false
-    hashtags: "#benebabe, #bloggerchilena, #influencerchilena, #muachilena"
+    hashtags: "#itsinourspirit, #shein, #hairtutorial, #lessisworefemales"
+  - username: "jesudelahorra"
+    fullname: >-
+      Jesu De la Horra
+    bio: >-
+      Beauty / Moda / Maternidad ♡ Founder @estudio.jesudelahorra mjesusdlh@gmail.com
+    location: "Chile"
+    followers: 34961
+    engagement: 303
+    commentsToLikes: 0.026813
+    id: clnbn6qu93z5o0j08u91c3vjm
+    verified: false
+    hashtags: "#makeupchile, #mysummer, #nestl, #maquillajedenoche"
+  - username: "vanesaborghi"
+    fullname: >-
+      Vanesa Borghi
+    bio: >-
+      Lifestyle-Fashion-Beauty Animando Mujeres q inspiran @muybuenosdiastvn Aquí encontrarás los mejores datos de VIAJES, RESTAURANTES/ MODA y BELLEZA ❤️
+    location: "Chile"
+    followers: 1149197
+    engagement: 24
+    commentsToLikes: 0.061117
+    id: ck136fsnu6a7v0i19fvy55gve
+    verified: true
+    hashtags: "#estonoespublicidad, #fromclassicbeyondclassic, #chile, #arcoris"
   - username: "pascalealvo_makeup"
     fullname: >-
       Pascale Alvo Makeup
@@ -30,19 +54,19 @@ profiles:
     commentsToLikes: 0.185983
     id: ck5pwoyabnvbo0i11jzwapkl0
     verified: false
-    hashtags: "#maquilladorachilena, #inglotchile, #beautiful, #inbeautmag"
+    hashtags: "#maccosmeticschile, #cliniquechile, #maquilladorachilena, #lorealchile"
   - username: "micamurua"
     fullname: >-
-      
+      Micaela Murua
     bio: >-
-      📌BsAs, Argentina Model / Holistic Health / Beauty New York @emg_models CL @elitemodel_chile MEX @baxtmodels Student INN @nutritionschool 📚
+      📍Arg y del 🌎 Artista. Fashion Model. Beauty. Holistic New York @emg_models CL @elitemodel_chile MEX @baxtmodels Student INN @nutritionschool
     location: "Chile"
-    followers: 23851
-    engagement: 336
-    commentsToLikes: 0.145892
+    followers: 25241
+    engagement: 256
+    commentsToLikes: 0.128789
     id: ck139t27qmz500i19t1yqfv2v
     verified: false
-    hashtags: "#stbarths, #goldenhour, #stbarth, #lookoftheday"
+    hashtags: "#naturalmakeup, #pijamasmujer, #bridalmakeup, #totalblack"
   - username: "ivisimunovic"
     fullname: >-
       Ivana Simunovic
@@ -54,7 +78,7 @@ profiles:
     commentsToLikes: 0.051666
     id: ck5zlyiv6llbl0i148dghdbf8
     verified: false
-    hashtags: "#look, #fashion, #love, #ootd"
+    hashtags: "#fashion, #momlife, #look, #love"
   - username: "isaacmachoph"
     fullname: >-
       Isaac Macho
@@ -78,7 +102,7 @@ profiles:
     commentsToLikes: 0.052629
     id: ck5hofvcrphno0i11llrldisl
     verified: false
-    hashtags: "#imitadores, #campa, #sebastiansichel, #makeup"
+    hashtags: "#yosoychv, #campa, #respeto, #imitadores"
   - username: "breakeven18"
     fullname: >-
       Fran Yañez 🎀
@@ -103,28 +127,4 @@ profiles:
     id: ck6u9nrx2yl7i0j71rrel6bn0
     verified: false
     hashtags: "#tulum, #cancun, #cozumel, #holbox"
-  - username: "estiloemily"
-    fullname: >-
-      EMILY PÉREZ
-    bio: >-
-      Soy periodista y hablo de beauty Piel mixta a grasa + acné ✉️ hello@estiloemily.com 📍 Santiago, Chile Podcast La Hora Beauty 👇🏻
-    location: "Chile"
-    followers: 38270
-    engagement: 157
-    commentsToLikes: 0.155389
-    id: ckap54v3da7lp0i78jnf2xgur
-    verified: false
-    hashtags: "#narschile, #lahorabeauty, #lifestyle, #beauty"
-  - username: "eluniverso.defran"
-    fullname: >-
-      ☆ FRAN ☆
-    bio: >-
-      YouTuber #beauty #skincare #vlogs 🇨🇱 ↳ ElUniversodeFRAN | Fran y Chris CEO @manevi.cl 🔮 👇🏻CÓMO COMPRAR AL EXTRANJERO?👇🏻
-    location: "Chile"
-    followers: 47054
-    engagement: 937
-    commentsToLikes: 0.031828
-    id: ck15uhpufn8vk0i190wuu7ja5
-    verified: false
-    hashtags: "#rarebeauty, #selenagomez, #glowyskin, #makeupnomakeup"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In France In 2023
+title: Top 10 Instagram Influencers In France In 2024
 description: >-
-  Find top Instagram influencers in France in 2023. Most popular hashtags: #reels #reelsinstagram #collaboration.
+  Find top Instagram influencers in France in 2024. Most popular hashtags: #travel #paris #landscapephotography.
 platform: Instagram
-hits: 28356
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 28356 Instagram influencers like this in France for you to work with.
+hits: 29272
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database holds 29272 Instagram influencers like this in France for you to connect with.
 profiles:
-  - username: "claire_most"
+  - username: "brixana"
     fullname: >-
-      Claire Most
+      B R I A N A
     bio: >-
-      📍Portland | From Paris 💌cmosteghanemi@gmail.com 🎨 Pinterest: @claire_most 🕊use your voice and take action 〰️ views are my own
+      Fashion | Beauty | Lifestyle • Creator of @fleshnudebeauty • Youtube: Briana Monique’ • NEW VIDEO IN LINK BELOW
     location: "France"
-    followers: 93288
-    engagement: 401
-    commentsToLikes: 0.008865
-    id: ck5q1k93ybeai0i11j6ka5a0b
+    followers: 445480
+    engagement: 688
+    commentsToLikes: 0.010521
+    id: ck6tu7n4aersv0j71tpztu043
     verified: false
-    hashtags: "#uefitsyou, #letitout, #wonderboom3, #ultimateears"
-  - username: "lenamahfouf"
+    hashtags: "#keyssoulcarepartner, #keyssoulcare, #ad, #ultabeautypartner"
+  - username: "nathbourhis"
     fullname: >-
-      Lena Situations
+      Nathalie 💯 Enthousiaste
     bio: >-
-      @HOTELMAHFOUF i <3 making videos 🇫🇷
+      follow your dreams…💫 Content créator & photographer 📸 Lifestyle✨Good Vibes✨Nature Lover✨Wellness & Beauty ✨ 💌 collab.nath@gmail.com
     location: "France"
-    followers: 4001665
-    engagement: 738
-    commentsToLikes: 0.027286
-    id: ck0ttyba34uic0i1954uwmrnu
-    verified: true
-    hashtags: "#gimmebrow, #romantismemoderne, #valentinobeauty, #guccivaligeria"
-  - username: "chloe_letellier"
-    fullname: >-
-      𝑪𝒉𝒍𝒐𝒆́ 𝑳𝒆𝒕𝒆𝒍𝒍𝒊𝒆𝒓
-    bio: >-
-      Mode, beauté, humour, lifestyle, humour, déco, et humour. Founder of @outfitbychloe 📍Paris Chloe.letellier@agencejb.fr
-    location: "France"
-    followers: 277873
-    engagement: 499
-    commentsToLikes: 0.084693
-    id: ckap8s2umpmn00i7893j9h7tm
+    followers: 23256
+    engagement: 416
+    commentsToLikes: 0.073684
+    id: ck6u0zfg3ing30j715f5yp27u
     verified: false
-    hashtags: "#miami, #momlook, #family, #paris"
-  - username: "tinakunakey"
+    hashtags: "#smile, #corse, #flowers, #outfit"
+  - username: "kaykaybrown"
     fullname: >-
-      tina
+      ashley kaylen brown👼🏾
     bio: >-
-      Andrea.Cairo@img.com (IT) @cairoandrea Jeremyk@nextmodels.com (FR) @jeremykouyate
+      🕊 los angeles based 💌 ashleybrown@mvetalent.com 🎀 romantic fashion and aesthetics @ashley.kaylen
     location: "France"
-    followers: 1426049
-    engagement: 445
-    commentsToLikes: 0.004044
-    id: ck0w0ji3beihf0i19i609rcow
-    verified: true
-    hashtags: "#labgrowndiamonds, #amazonluxurystores, #swarovski, #valentinothepartycollection"
-  - username: "cindypoum"
-    fullname: >-
-      Cindy Poumeyrol
-    bio: >-
-      Bordeaux, mom of Alba&Victoire 🤰🏼 Fondatrice @maison_nicole.fr Rénovation @la_casa_de_lamour 📩partenariats.cindypoum@gmail.com
-    location: "France"
-    followers: 479927
-    engagement: 467
-    commentsToLikes: 0.096497
-    id: ck0w5ov1b4psg0i19ihx5cg2j
+    followers: 33291
+    engagement: 452
+    commentsToLikes: 0.020169
+    id: ckr1nl430612y0j23gk6ppnce
     verified: false
-    hashtags: "#espaceplaisir, #safari, #concours, #collaboration"
-  - username: "ellieekellyy"
+    hashtags: "#pinkfashion, #girlyfashion, #coquetteaesthetic, #feminineaesthetic"
+  - username: "heymadinelson"
     fullname: >-
-      ELLIEKELLY
+      Madi Nelson
     bio: >-
-      fashion • makeup • lifestyle @iconmanagement.ie co-host of hold my drink podcast🎙✨ Shop EK Eyewear below⬇️
+      david 🤍 + east + noah + navy @shoptalulah
     location: "France"
-    followers: 293521
-    engagement: 431
-    commentsToLikes: 0.030517
-    id: ck0w2y0dpqoho0i19uyvmvrcc
+    followers: 1083858
+    engagement: 1710
+    commentsToLikes: 0.337259
+    id: ck13d1oxz37wq0i1983yr35v3
     verified: false
-    hashtags: "#ad, #ba, #makeupartist, #elliekelly"
-  - username: "capucine_cine"
+    hashtags: "#siblinglove, #bigbrother, #pregnant, #newborn"
+  - username: "leilachemam"
     fullname: >-
-      Capucine Cine
+      Leila Chemam
     bio: >-
-      💻 Chaine Youtube
+      Smile to fight cancer 💪🏻💓 كائن مُحب للحياة Founder : @chemamshop 📩 leilachemam@gmail.com 📍🇲🇦 / 🇫🇷 Chaîne YouTube 👇🏻
     location: "France"
-    followers: 144938
-    engagement: 539
-    commentsToLikes: 0.044987
-    id: ck5hn8wjknes20i11ubg6pu0f
+    followers: 594009
+    engagement: 652
+    commentsToLikes: 0.031480
+    id: ck139nwd3m90p0i195833jcnk
     verified: false
-    hashtags: "#chlorophylle, #lifestyle, #litenbois, #conifere"
-  - username: "sally"
+    hashtags: "#bahae, #fyp, #morocco"
+  - username: "sarahjenkinsxo"
     fullname: >-
-      Crazy Sally 🐝
+      Sarah Jenkins
     bio: >-
-      Fondatrice de @motherlandtheserie Fondatrice de @sally.academy 📧 salimajenkins@gmail.com | sally@sallymanagement.com ⤵️ Mon ITW avec Omar Sy
+      Producer at Paris 2024 // @cbcolympics🥇🇨🇦 🎥 Daily vlogs, among other things 🎙️:@talkingfastshow 📍Toronto, Canada ✉️: sarahjenkinsmedia@gmail.com
     location: "France"
-    followers: 901620
-    engagement: 599
-    commentsToLikes: 0.015892
-    id: ckap28q4lxvcw0i78m5o9rbre
+    followers: 33909
+    engagement: 487
+    commentsToLikes: 0.007653
+    id: ckt1028vsu0f80j23cm82bytp
     verified: false
-    hashtags: "#abidjan, #ivorycoast, #melaninpoppin, #reelsinstagram"
-  - username: "sosazerafa"
+    hashtags: "#olympics, #parisolympics, #olympics2024, #travelvlog"
+  - username: "diana_eneje"
     fullname: >-
-      Sarah Zerafa - Fashion Inspo
+      Diana Eneje
     bio: >-
-      #fashion - #malta - #lifestyle ✨ *Award Winning Fashion Influencer 🇲🇹 🏆SMA Best Overall Content Creator 2021 💌sarahzerafa23@gmail.com
+      •Model|Influencer •Most Influential & Fashionable 🥇 💕 Shop @theshinecartel 📧management@dianaeneje.com
     location: "France"
-    followers: 272565
-    engagement: 473
-    commentsToLikes: 0.039730
-    id: ck0tyvc8co7qb0i19cv0cph9x
+    followers: 1061699
+    engagement: 541
+    commentsToLikes: 0.008732
+    id: ck8syqlu2lmpq0j78qrada67j
     verified: false
-    hashtags: "#outfitinspo, #editorial, #styleinspo, #explore"
-  - username: "aureliestory"
+    hashtags: "#paris, #reels, #lancome, #idolehouse"
+  - username: "aishafarida"
     fullname: >-
-      Aurélie | travel fashion home
+      Aïsha Farida
     bio: >-
-      Content creator from France 🇫🇷 Itineraries, road trips & luxury travel Ambassador for @hotel (1,1M+) TikTok : aureliestoryy (910k+)
+      I wear clothes and make whiskey NYC 💌 aishacolindres@gmail.com
     location: "France"
-    followers: 282540
-    engagement: 560
-    commentsToLikes: 0.013870
-    id: ck5ho1x06os960i118pgxd358
+    followers: 24969
+    engagement: 614
+    commentsToLikes: 0.018525
+    id: ckyx20ejh0ce80j235l4alqqi
     verified: false
-    hashtags: "#newyorkerfashion, #allbeyondlimits, #fairmontmayakoba, #marriottbonvoy"
+    hashtags: "#emceepartner, #mynuuly, #nuulypartner"
+  - username: "noemiememories"
+    fullname: >-
+      Noémie Sato | Photographe & créatrice de contenu
+    bio: >-
+      Slow & seasonal life 🍂 Famille~ Recettes~ Déco~ Mode responsable Plus de food 👉🏻 @slow.food.noemiememories Ebook recettes familiales japonaises 🇯🇵👇🏻
+    location: "France"
+    followers: 18057
+    engagement: 517
+    commentsToLikes: 0.100602
+    id: ck5zx85ob7itr0i14u6umh78b
+    verified: false
+    hashtags: "#frenchgirl, #moderesponsable, #grwm, #bienvenuechezmoi"
+  - username: "lifewithelliott"
+    fullname: >-
+      Elliott Chau | Travel and Adventure Photographer
+    bio: >-
+      Romans 8:38-39 I like to travel and take pictures 📸 @canoncanada ambassador 6 years of full-time travel to 67 countries Currently in Mexico 🇲🇽
+    location: "France"
+    followers: 163649
+    engagement: 2191
+    commentsToLikes: 0.011493
+    id: ck0w2tbypq2x10i19jh48i0fy
+    verified: false
+    hashtags: "#icelandtravel, #japantrip, #tlpicks, #earthofficial"
 ---

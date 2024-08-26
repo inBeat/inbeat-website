@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Brazil In 2023
+title: Top 10 Hypebeast Instagram Influencers In Brazil In 2024
 description: >-
-  Find top hypebeast Instagram influencers in Brazil in 2023. Most popular hashtags: #hypebeast #hype #nike #adidas.
+  Find top hypebeast Instagram influencers in Brazil in 2024. Most popular hashtags: #hypebeast #hype #brasil #nike.
 platform: Instagram
-hits: 38
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 38 Instagram influencers like this in Brazil for you to pitch.
+hits: 36
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 36 Instagram influencers like this in Brazil for you to contact.
 profiles:
   - username: "desativado.andre1"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.144049
     id: ck5q93lfh97to0i11tt8gqnif
     verified: false
-    hashtags: "#c4d, #aesthetic, #3douchebagss, #xuxoe"
+    hashtags: "#abstract, #cgi, #albumart, #yourartside"
   - username: "mk_o_terror_de_sp"
     fullname: >-
       MK O mlk de ? Ixxquece🔥
@@ -115,16 +115,16 @@ profiles:
     id: ck5pxd3ccr7g80i11mfllgfuw
     verified: false
     hashtags: "#vscoportrait, #igpodium, #bleachmyfilm, #theglobewanderer"
-  - username: "gickmaria"
+  - username: "shadowguardianofc"
     fullname: >-
-      𝙶𝙸𝙾𝚅𝙰𝙽𝙽𝙰 𝙼𝙰𝚁𝙸𝙰
+      SHADOW GUARDIAN E-SPORTS
     bio: >-
-      𝑴𝑨𝑲𝑬 |𝑴𝑶𝑫𝑨 |𝑳𝑰𝑭𝑬𝑺𝑻𝒀𝑳𝑬 🤳🏾 ASSISTA OS STORIES/BEAUTY INFLUENCER 🎓Maquiadora, Designer de Sobrancelhas e Extensionista 👩🏽‍💻CEO: @giomariamakeup_
+      Organização profissional de esportes eletrônicos 📍Bahia - BA / São Paulo - SP 🏅Semi-finalista pro league season 2 📬 contato.shadowguardian@gmail.com
     location: "Brazil"
-    followers: 41986
-    engagement: 331
-    commentsToLikes: 0.042521
-    id: ck8t3v0mb4ljt0j78qllc2nvi
+    followers: 19786
+    engagement: 96
+    commentsToLikes: 0.168703
+    id: ckapbak08z6ur0i78lcfpv58m
     verified: false
-    hashtags: "#girls, #prettyflwt, #curlyhair, #waveshair"
+    hashtags: "#fire, #leagueoflegends, #garenafreefire, #nobrutv"
 ---

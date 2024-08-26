@@ -1,36 +1,72 @@
 ---
-title: Top 10 Beauty Instagram Influencers In San Francisco In 2023
+title: Top 10 Beauty Instagram Influencers In San Francisco In 2024
 description: >-
-  Find top beauty Instagram influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #beauty #travel #liketkit.
+  Find top beauty Instagram influencers in San Francisco in 2024. Most popular hashtags: #sanfrancisco #sfblogger #skincareroutine #liketkit.
 platform: Instagram
-hits: 97
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 97 Instagram influencers like this in San Francisco, United States for you to contact.
+hits: 129
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database holds 129 Instagram influencers like this in San Francisco, United States for you to collaborate.
 profiles:
-  - username: "wanting__zhao"
+  - username: "sf.beforesunset"
     fullname: >-
-      WanTing Zhao
+      Beata | San Francisco Stories
     bio: >-
-      •Principal Dancer San Francisco Ballet •Ambassador @blochdanceusa 📧 wzhao227@gmail.com
+      •The timeless beauty of San Francisco. •Untold stories of the City by the Bay.
     location: "United States"
-    followers: 21418
-    engagement: 667
-    commentsToLikes: 0.016194
-    id: ck15qwixd4zgu0i19ltwlb6u0
+    followers: 49959
+    engagement: 760
+    commentsToLikes: 0.017746
+    id: ckyghvv1hqw150j23c9aod1kf
     verified: false
-    hashtags: "#blochambassador, #blochpointeshoes, #sfballet, #dancer"
+    hashtags: "#sony, #sf, #sfgate, #sonyalpha"
+  - username: "byjessicawong"
+    fullname: >-
+      jessica | fashion + lifestyle
+    bio: >-
+      • fashion, lifestyle, skincare, + beauty • based in San Francisco, CA • byjessicawong@gmail.com
+    location: "United States"
+    followers: 12777
+    engagement: 485
+    commentsToLikes: 0.052449
+    id: ckq0ivf8qddl90j2397axhen5
+    verified: false
+    hashtags: "#outfitinspo, #aritziastyle, #sezanelovers, #outfitinsporation"
   - username: "sweetandpetite_"
     fullname: >-
       Khanh Cagley
     bio: >-
       Petite Fashion, Beauty and Lifestyle | San Francisco 💕 | 💌: sweetandpetite623@gmail.com | Shop my IG below ✨
     location: "United States"
-    followers: 93733
-    engagement: 130
-    commentsToLikes: 0.046091
+    followers: 104584
+    engagement: 69
+    commentsToLikes: 0.060471
     id: ck0u8ly9q7pnj0i19c2l7xviw
     verified: false
-    hashtags: "#abercrombiestyle, #liketkit, #abercrombiepartner, #ad"
+    hashtags: "#ltkbeautysale, #ltkbeauty, #ad, #liketkit"
+  - username: "ahliyah.michelle"
+    fullname: >-
+      Ahliyah Michelle • Bay Area Beauty Creator & Influencer
+    bio: >-
+      I’ll have YOU looking like a ✨Walking Filter✨ Luxuriously elevating your beauty routines 📍San Francisco, California 💌 contact@ahliyahmichelle.com
+    location: "United States"
+    followers: 29585
+    engagement: 57
+    commentsToLikes: 0.157471
+    id: ck14jez4mjzx80i19cy1a3ce9
+    verified: false
+    hashtags: "#blackbeautyinfluencer, #beautyinfluencers, #blackgirlskincare, #bayareamedspa"
+  - username: "stylexkavya"
+    fullname: >-
+      Kavya Pernankil Hartke / San Francisco Style + Beauty Blogger
+    bio: >-
+      ✶ Style, beauty, & life 📍San Francisco ✶ #sanfranciscoblogger Let’s talk 📩 kavya@stylexkavya.com Shop my looks👇🏽
+    location: "United States"
+    followers: 41591
+    engagement: 39
+    commentsToLikes: 0.071589
+    id: ck5hht4ap9ya10i118gjtwmz7
+    verified: false
+    hashtags: "#sf, #sanfrancisco, #caliblogger, #stylereels"
   - username: "sarahjeangirl"
     fullname: >-
       Sarahjeangirl
@@ -42,31 +78,31 @@ profiles:
     commentsToLikes: 0.390241
     id: ck13c6zd4yww10i19grm8jaba
     verified: false
-    hashtags: "#gifted, #giftedbyipsy, #octolyfamily, #estatemakeup"
-  - username: "juliarobertxs"
+    hashtags: "#octolyfamily, #giftedbyipsy, #gifted, #estatecosmetics"
+  - username: "smolandsilky"
     fullname: >-
-      Julia Roberts
+      Kara (แพร)
     bio: >-
-      @juliaroberts don't give up on love
+      🇹🇭 beauty marketer + foodie in san francisco 🎶 tiktok: @smolandsilky @kara.okiee 💌 smolandsilky@gmail.com ↓ save $$ with my links
     location: "United States"
-    followers: 61269
-    engagement: 537
-    commentsToLikes: 0.028306
-    id: ck0w75oxzbvz30i19b1z9834e
+    followers: 10273
+    engagement: 10793
+    commentsToLikes: 0.127467
+    id: ckmw1a8s95hro0j235ucrxl5r
     verified: false
-    hashtags: "#prettywoman, #juliarobertsfans, #life, #juliarobertssmile"
-  - username: "irinabarol"
+    hashtags: "#sfblogger, #newyorkcity, #skincareroutine, #goodmolecules"
+  - username: "lifestylebygianna"
     fullname: >-
-      Irina Barol | SF Bay Area 🌉
+      Gianna Herrera
     bio: >-
-      | Photographer & Content Creator | Lifestyle • Beauty • Fashion | Based in San Francisco ✉️ getirinahere@gmail.com
+      ♡ san francisco fashion | beauty | lifestyle ✉️ lifestylebygianna@yahoo.com
     location: "United States"
-    followers: 40299
-    engagement: 380
-    commentsToLikes: 0.004730
-    id: ck6tp90zbii780j71l3v6elmi
+    followers: 65225
+    engagement: 6
+    commentsToLikes: 0.000000
+    id: ck13czhdr2wpy0i19cvfhcgi9
     verified: false
-    hashtags: "#eatbobos, #dermalogicagiftedme, #smartypartner, #spagirlcocktails"
+    hashtags: "#sandiego, #newportbeach, #liketkit, #happyholidays"
   - username: "donidarkowitz"
     fullname: >-
       Taj
@@ -79,52 +115,16 @@ profiles:
     id: ck0txihafj9u00i19mz5dtz3u
     verified: false
     hashtags: "#beauty, #mua, #wig, #hercules"
-  - username: "anyela_damas"
-    fullname: >-
-      Anyela Mariam Damas
-    bio: >-
-      #soscuba 🇨🇺Cuban 📍Miami ↔️LA Professional Actress• Model•Entrepreneur @sheinofficial discount code D2Anyela TikTok anyela_damas CEO @damas_agency
-    location: "United States"
-    followers: 192260
-    engagement: 32
-    commentsToLikes: 0.037412
-    id: ck8szq89gpbce0j78lk5tts1o
-    verified: false
-    hashtags: "#spring, #fashion, #beach, #dress"
-  - username: "stylexkavya"
-    fullname: >-
-      Style Blogger | StylexKavya
-    bio: >-
-      ✶ Style, beauty, & life ✶ Houston-> Austin->#SanFranciscoblogger ✶ TikTok: @stylexkavya Let’s talk 📩 kavya@stylexkavya.com Shop my looks 👇🏽👇🏽
-    location: "United States"
-    followers: 45087
-    engagement: 99
-    commentsToLikes: 0.072173
-    id: ck5hht4ap9ya10i118gjtwmz7
-    verified: false
-    hashtags: "#caliblogger, #reelsoftheday, #sanfrancisco, #reelsofinstagram"
   - username: "petitetammie"
     fullname: >-
-      Tammie | petite style & beauty
+      Tammie Leung
     bio: >-
-      Petite Lifestyle + beauty | 5'1 #5footstyle Based in San Francisco Bay area + 🇭🇰🇨🇦 Mom of @poodlekiwi420sf 🐶 PR Collab: doublezeroshort@gmail.com
+      Effortless Beauty • Lifestyle • Fashion #5footstyle 📍San Francisco Bay Area + 🇭🇰🇨🇦🇹🇼 🐶 @poodlekiwi420sf PR: Doublezeroshort@gmail.com
     location: "United States"
-    followers: 15423
-    engagement: 629
-    commentsToLikes: 0.164937
+    followers: 21902
+    engagement: 324
+    commentsToLikes: 0.244467
     id: ck5c5ur1d46mf0i111fea4grc
     verified: false
-    hashtags: "#nestnewyork, #nestnewyorkgiftedme, #diptyqueparisgiftedme, #necessaireambassador"
-  - username: "alexiistherese"
-    fullname: >-
-      alexis (ali) castillo
-    bio: >-
-      fashion | beauty | travel 📍 phoenix, arizona wifey to @bryanadamc ♥️ contact: alexiistherese@gmail.com buy my presets here! ⬇️
-    location: "United States"
-    followers: 138824
-    engagement: 252
-    commentsToLikes: 0.017929
-    id: ck0vw200krqvn0i19jxq9yp8w
-    verified: false
-    hashtags: "#styleinspo, #revolveme, #explorecolorado, #photography"
+    hashtags: "#selfcaresunday, #flawlessskin, #radiantskin, #beautyessentials"
 ---

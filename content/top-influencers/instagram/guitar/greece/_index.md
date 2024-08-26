@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Greece In 2023
+title: Top 10 Guitar Instagram Influencers In Greece In 2024
 description: >-
-  Find top guitar Instagram influencers in Greece in 2023. Most popular hashtags: #music #guitar #cover #love.
+  Find top guitar Instagram influencers in Greece in 2024. Most popular hashtags: #guitar #music #love #athens.
 platform: Instagram
-hits: 16
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 16 Instagram influencers like this in Greece for you to collaborate.
+hits: 18
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 18 Instagram influencers like this in Greece for you to connect with.
 profiles:
   - username: "konstantinos.kazakos"
     fullname: >-
@@ -91,6 +91,18 @@ profiles:
     id: ck137hkenbkwg0i19l35tupfm
     verified: false
     hashtags: "#guitarsolo, #guitar, #solo, #cover"
+  - username: "popevil"
+    fullname: >-
+      Pop Evil
+    bio: >-
+      Follow @lkakaty @daveygrahs @nickfuelling @joeychicagowalser 👇Check out our new album “Skeletons” Out Now👇
+    location: "Greece"
+    followers: 132899
+    engagement: 58
+    commentsToLikes: 0.036115
+    id: ck5cbyt8fgerd0i11rbcy6jpc
+    verified: true
+    hashtags: "#throwback, #crashandburn, #tour, #paranoid"
   - username: "thodorisferris"
     fullname: >-
       Thodoris Ferris
@@ -115,16 +127,4 @@ profiles:
     id: ck5zkfwtkjeng0i14hd5q4llr
     verified: false
     hashtags: "#skg, #unplugged, #music, #summer"
-  - username: "papatsak_d_official"
-    fullname: >-
-      🔶️ Dimitris Papatsakonas
-    bio: >-
-      ⚫ Δημήτρης Παπατσάκωνας 🎼❌ Factor Greece 2019 finalist 🎤 🥈 🌌25/4♉ 🔸️Rock n' Rolla
-    location: "Greece"
-    followers: 9105
-    engagement: 4590
-    commentsToLikes: 0.012682
-    id: ck5c658jd4qui0i11rrdq0y87
-    verified: false
-    hashtags: "#cover, #xfactor, #xfactorgreece, #teammastoras"
 ---

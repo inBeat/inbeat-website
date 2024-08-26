@@ -1,24 +1,24 @@
 ---
-title: Top 10 Health TikTok Influencers In Miami In 2023
+title: Top 10 Health TikTok Influencers In Miami In 2024
 description: >-
-  Find top health TikTok influencers in Miami in 2023. Most popular hashtags: #health #fyp #miami #weightloss.
+  Find top health TikTok influencers in Miami in 2024. Most popular hashtags: #health #miami #fyp #weightloss.
 platform: TikTok
 hits: 57
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 57 TikTok influencers like this in Miami, United States for you to connect with.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform has 57 TikTok influencers like this in Miami, United States for you to work with.
 profiles:
-  - username: "steellafferty"
+  - username: "drthierryjacquemin"
     fullname: >-
-      steellafferty
+      DrThierryJacquemin
     bio: >-
-      CEO of Water 💧 Insta: @steellafferty
+      Physician dedicated to Beauty, Wellness, and Performance 💪💪💪 (305) 667-1511
     location: "United States"
-    followers: 126100
-    engagement: 815
-    commentsToLikes: 0.016787
-    id: ck978v20e9gs00j785l9exx8l
+    followers: 70800
+    engagement: 726
+    commentsToLikes: 0.082758
+    id: ck9fx9k895jc70j78c92r6sun
     verified: false
-    hashtags: "#vibes, #fyp, #foryou, #foryoupage"
+    hashtags: "#kickass, #health, #doctor, #drjacquemin"
   - username: "thenutritiousblonde"
     fullname: >-
       nutritious blonde.
@@ -31,6 +31,18 @@ profiles:
     id: ck81s43tfpukc0j78kgbwmd9s
     verified: false
     hashtags: "#sibo, #greenbeauty, #weightloss, #healthy"
+  - username: "mr.eats305"
+    fullname: >-
+      George | Mr.Eats305
+    bio: >-
+      📸 IG = 77K 🍔 📍 Miami ☀️ | Food, Hats, Sports, Cards 📩 George@MrEats305.com
+    location: "United States"
+    followers: 62100
+    engagement: 892
+    commentsToLikes: 0.063560
+    id: ckac9y4iwgjif0i78p9r5l1l5
+    verified: false
+    hashtags: "#yum, #foodies, #keylimepie, #comfortfood"
   - username: "manamoj"
     fullname: >-
       ✨Mona🦩
@@ -43,18 +55,6 @@ profiles:
     id: ckbf7fv5vxch00j234cc59p5k
     verified: false
     hashtags: "#lasvegas, #tiktokusa, #funny, #lasvegasbaby"
-  - username: "drthierryjacquemin"
-    fullname: >-
-      DrThierryJacquemin
-    bio: >-
-      Physician dedicated to Beauty, Wellness, and Performance 💪💪💪 (305) 667-1511
-    location: "United States"
-    followers: 70800
-    engagement: 726
-    commentsToLikes: 0.082758
-    id: ck9fx9k895jc70j78c92r6sun
-    verified: false
-    hashtags: "#kickass, #miami, #boom, #weightloss"
   - username: "austinchiangmd"
     fullname: >-
       Dr. Austin, MD MPH
@@ -67,18 +67,6 @@ profiles:
     id: ck8w4v3sz94z50j78e6ixg8nn
     verified: true
     hashtags: "#lgbtq, #acidreflux, #medicine, #stopasianhate"
-  - username: "mr.eats305"
-    fullname: >-
-      George | Mr.Eats305
-    bio: >-
-      📸 IG = 77K 🍔 📍 Miami ☀️ | Food, Hats, Sports, Cards 📩 George@MrEats305.com
-    location: "United States"
-    followers: 62100
-    engagement: 892
-    commentsToLikes: 0.063560
-    id: ckac9y4iwgjif0i78p9r5l1l5
-    verified: false
-    hashtags: "#miamifood, #foodies, #yum, #keylimepie"
   - username: "jpark_fit"
     fullname: >-
       Jeremy Park
@@ -127,4 +115,16 @@ profiles:
     id: ck9dz5xcf05o70j78kjgpmjh8
     verified: false
     hashtags: "#singlelife, #fyp, #dogsoftiktok, #aftermycoffee"
+  - username: "coachjeremy305"
+    fullname: >-
+      Jeremy Abramson
+    bio: >-
+      Miami 🌞 Spreading Love ❤️ Tik Tok’s Health Coach 🥑 FREE LIVE TRAINING👇🏼
+    location: "United States"
+    followers: 669100
+    engagement: 853
+    commentsToLikes: 0.061208
+    id: ckbqfrpfi1ed40j23wzp0fu72
+    verified: false
+    hashtags: "#getfit, #healthyliving, #nutrition, #wellnesstips"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Canada In 2023
+title: Top 10 Barbers TikTok Influencers In Canada In 2024
 description: >-
-  Find top barbers TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #barber #foryou #duet.
+  Find top barbers TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #barber #foryou #duet.
 platform: TikTok
 hits: 51
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 51 TikTok influencers like this in Canada for you to work with.
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 51 TikTok influencers like this in Canada for you to pitch.
 profiles:
   - username: "tri__barber"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.063181
     id: ck8z2vzyy73dg0j78tnwiam7t
     verified: false
-    hashtags: "#fyp, #barber, #viral, #funny"
+    hashtags: "#fyp, #viral, #barber, #projectcar"
   - username: "vincegambowah"
     fullname: >-
       Vince Gamboa
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.030805
     id: ck90r261okrm70j782y2cmffd
     verified: false
-    hashtags: "#foryou, #barber, #haircut, #foryoupage"
+    hashtags: "#barber, #fyp, #foryoupage, #foryou"
   - username: "nagarhairstyle"
     fullname: >-
       Nagar Hairstyle
@@ -85,12 +85,12 @@ profiles:
     bio: >-
       Armenian 🇦🇲 Follow Instagram @RitaKevrikian @Art_of_Barbers
     location: "Canada"
-    followers: 10200
-    engagement: 281
-    commentsToLikes: 0.021823
+    followers: 10100
+    engagement: 306
+    commentsToLikes: 0.020710
     id: ckb9c8pjmywlk0j23nbrzvgi2
     verified: false
-    hashtags: "#foryourpage, #foryourpagechallange, #gf, #viral"
+    hashtags: "#bf, #foryourpagechallange, #couplechallenge, #foryou"
   - username: "damicuts"
     fullname: >-
       damicuts

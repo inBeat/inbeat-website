@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In India In 2023
+title: Top 10 Music TikTok Influencers In India In 2024
 description: >-
-  Find top music TikTok influencers in India in 2023. Most popular hashtags: #duet #tiktok #foryoupage.
+  Find top music TikTok influencers in India in 2024. Most popular hashtags: #duet #tiktok #foryoupage.
 platform: TikTok
 hits: 1448
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 1448 TikTok influencers like this in India for you to connect with.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 1448 TikTok influencers like this in India for you to contact.
 profiles:
   - username: "the_anu_v"
     fullname: >-
@@ -50,11 +50,11 @@ profiles:
       I m gujju singer 🎤🎤🇮🇳 insta I'd Urvi Rathva wish me 26/8/1997🎂 music is my
     location: "India"
     followers: 18600
-    engagement: 2148
-    commentsToLikes: 0.050035
+    engagement: 2126
+    commentsToLikes: 0.049520
     id: ckbr5dycgl6160j23h4qiup2c
     verified: false
-    hashtags: "#hindi, #gujratilove, #urvirathva, #duet"
+    hashtags: "#urvirathva, #gujratilove, #myvoice, #hindi"
   - username: "coolgirly1234"
     fullname: >-
       coolgirl

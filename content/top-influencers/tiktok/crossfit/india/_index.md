@@ -1,11 +1,11 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In India In 2023
+title: Top 10 Crossfit TikTok Influencers In India In 2024
 description: >-
-  Find top crossfit TikTok influencers in India in 2023. Most popular hashtags: #crossfit #fitness #workout #fitnessindia.
+  Find top crossfit TikTok influencers in India in 2024. Most popular hashtags: #crossfit #fitness #workout #motivation.
 platform: TikTok
 hits: 21
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our database has 21 TikTok influencers like this in India for you to work with.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 21 TikTok influencers like this in India for you to collaborate.
 profiles:
   - username: "vivek_jr_cr"
     fullname: >-

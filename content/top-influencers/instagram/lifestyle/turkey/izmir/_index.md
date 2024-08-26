@@ -1,12 +1,24 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Izmir In 2023
+title: Top 10 Lifestyle Instagram Influencers In Izmir In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Izmir in 2023. Most popular hashtags: #photooftheday #izmir #lifestyle #instagood.
+  Find top lifestyle Instagram influencers in Izmir in 2024. Most popular hashtags: #instagood #izmir #istanbul #photooftheday.
 platform: Instagram
-hits: 95
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 95 Instagram influencers like this in Izmir, Turkey for you to contact.
+hits: 99
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 99 Instagram influencers like this in Izmir, Turkey for you to collaborate.
 profiles:
+  - username: "bitutamhatira"
+    fullname: >-
+      Bitutamhatira
+    bio: >-
+      Fizyoterapist // Ayres Sensory Integration 🌈 Biraz fotoğraf, biraz edebiyat 😇🙆🏼 İşbirliği için DM #bitutamhatira
+    location: "Turkey"
+    followers: 12861
+    engagement: 432
+    commentsToLikes: 0.050217
+    id: ck5znxsrapcs00i14ohhapmh3
+    verified: false
+    hashtags: "#beautifuldestinations, #coffee, #gu, #turkey"
   - username: "yol__izleri"
     fullname: >-
       P.Karadeniz🌏📷 Gavur İzmirli
@@ -31,18 +43,6 @@ profiles:
     id: ck15sub6ueu3h0i19jzemod3j
     verified: false
     hashtags: "#skincarelover, #skincareblogger, #skincareaddict, #avon"
-  - username: "dr.cemkaras"
-    fullname: >-
-      Dr. Cem Karas
-    bio: >-
-      🔹 #ckklinik DOCTOR. 🔹 #ckoffroadteam hobby 🏀 #kskbasket President
-    location: "Turkey"
-    followers: 93230
-    engagement: 332
-    commentsToLikes: 0.032967
-    id: ck8t6fehgdet20j78xngllr2z
-    verified: false
-    hashtags: "#izmirnoseaesthetic, #neusoperatie, #rhinoplasty, #couples"
   - username: "nihanayanoglu"
     fullname: >-
       ℕ I H A ℕ
@@ -79,6 +79,18 @@ profiles:
     id: ck8t55fku8u8a0j78ivw0olo2
     verified: false
     hashtags: "#ke, #musterimemnuniyeti, #selamunaleykum, #takipedenitakipederim"
+  - username: "neslininobjektifinden"
+    fullname: >-
+      Neslihan Kalkan
+    bio: >-
+      🧿Gezgin Kız Nesli🧿 📍#istanbul #izmir 🏝Lifestyle / Yemek / Seyahat / Güzellik / Alışveriş 🦋Kozmik Enerji Terapisti🦋 #influencer Dijital Pazarlama
+    location: "Turkey"
+    followers: 45519
+    engagement: 5
+    commentsToLikes: 0.000000
+    id: ck8t4voes817l0j787gkmv18y
+    verified: false
+    hashtags: "#reklam, #paris, #clubmedpalmiye, #ala"
   - username: "guzellikmodu"
     fullname: >-
       Buse ⭐️ÇEKİLİŞ VAR
@@ -91,6 +103,18 @@ profiles:
     id: ck13cm47f10p40i199bxda3ru
     verified: false
     hashtags: "#trending, #nail, #likelike, #followforfollowback"
+  - username: "fehmi.clk"
+    fullname: >-
+      F A M E S
+    bio: >-
+      Fashion l Lifestyle l Travel Industrial Engineer Contact: fehmi.clk3@gmail.com
+    location: "Turkey"
+    followers: 30746
+    engagement: 714
+    commentsToLikes: 0.082717
+    id: ck8t6jhagdv880j78xxvoyj1z
+    verified: false
+    hashtags: "#ootdfashion, #istanbul, #instainspo, #essen"
   - username: "cagdas_poyraz"
     fullname: >-
       ⚓çağdaş⚓
@@ -103,28 +127,4 @@ profiles:
     id: ck5zvrlt24spf0i14wwqsvuks
     verified: false
     hashtags: "#me, #mercy, #izmir, #landscape"
-  - username: "bysulekurtar"
-    fullname: >-
-      Şule Kurtar Butik®️ ♥
-    bio: >-
-      ♡ @sulekurtar ♡ Reklam ve İşbirliği için dm ♡ Değişim mevcut (3 gün) ♡ İndirimli ürünlerde değişim yoktur ♡ İade yoktur ♡ Ürün ayrımı yapamıyoruz ♥
-    location: "Turkey"
-    followers: 117398
-    engagement: 163
-    commentsToLikes: 0.006477
-    id: ckf5lw2w7r9wi0j23p1zxa41y
-    verified: false
-    hashtags: "#streetstyle, #outfits, #adana, #ankara"
-  - username: "tatil_delisi"
-    fullname: >-
-      Tatil Delisi / İzmir
-    bio: >-
-      Travel Blogger 🌍✈️🛵 Digital Sosyal Medya Uzmanı Gastronomi Dergisi Reklam Uzmanı Özel kitaplar reklam uzmanı Fotoğrafçı📷 Motosiklet aşığı Ressam🎨
-    location: "Turkey"
-    followers: 23623
-    engagement: 414
-    commentsToLikes: 0.384751
-    id: ck6ue5avzowjr0j71t8oqh52t
-    verified: false
-    hashtags: "#travel, #izmirgezilecekyerler, #gezi, #fujifilm"
 ---

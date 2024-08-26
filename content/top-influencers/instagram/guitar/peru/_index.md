@@ -1,24 +1,24 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Peru In 2023
+title: Top 10 Guitar Instagram Influencers In Peru In 2024
 description: >-
-  Find top guitar Instagram influencers in Peru in 2023. Most popular hashtags: #cover #argentina #music.
+  Find top guitar Instagram influencers in Peru in 2024. Most popular hashtags: #cover #music #argentina.
 platform: Instagram
 hits: 37
 text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 37 Instagram influencers like this in Peru for you to connect with.
+text_bottom: inBeat has 37 Instagram influencers like this in Peru for you to work with.
 profiles:
   - username: "sanderalex1"
     fullname: >-
       Sander Alex
     bio: >-
-      🎸Guitarrista en @lajoyarock • Endorser de #Amphenol | @marin_import | @yawarelectronics | @leatherstraps.co Nuevo videoclip👇🏻LaJoya
+      Guitarrista • Prod Musical • Creador Contenido 🇵🇪 🎸 @difoniaperu, @lajoyarock y Solista 🤝 #Amphenol, @leatherstraps.co 🚨70% dscto en mi curso!👇🏼
     location: "Peru"
-    followers: 25308
-    engagement: 1036
-    commentsToLikes: 0.022310
+    followers: 108218
+    engagement: 476
+    commentsToLikes: 0.016696
     id: ckf5xlcqvw30b0j23titq5a6k
     verified: false
-    hashtags: "#eddievanhalen, #gibsonguitar, #pedalboardoftheday, #guitarplayer"
+    hashtags: "#lespaulcustom, #gibsoncustom, #gibsonguitars, #guitarsolo"
   - username: "caro.alurralde"
     fullname: >-
       Carolina Alurralde❤️

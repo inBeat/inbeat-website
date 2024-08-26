@@ -1,11 +1,11 @@
 ---
-title: Top 10 Muay Thai Fighters TikTok Influencers In 2023
+title: Top 10 Muay Thai Fighters TikTok Influencers In 2024
 description: >-
-  Find top muay thai fighters TikTok influencers in 2023. Most popular hashtags: #muaythai #fighter #boxing #mma.
+  Find top muay thai fighters TikTok influencers in 2024. Most popular hashtags: #muaythai #fighter #boxing #kickboxing.
 platform: TikTok
 hits: 27
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine holds 27 TikTok influencers like this for you to connect with.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 27 TikTok influencers like this for you to contact.
 profiles:
   - username: "brodiegilbert"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       Owner RUCKUS Muay Thai (Kru/Fighter/Coach) Insta: brian_tyle_ruckus FLA & N.GA
     location: "United States"
-    followers: 14200
-    engagement: 611
-    commentsToLikes: 0.036981
+    followers: 14700
+    engagement: 213
+    commentsToLikes: 0.042221
     id: ck9si8t04xmkm0j78wafcqbpe
     verified: false
-    hashtags: "#fight, #win, #kru, #ring"
+    hashtags: "#pets, #dog, #muaythai, #thaiboxing"
   - username: "farakicks"
     fullname: >-
       Master Fa
@@ -55,18 +55,6 @@ profiles:
     id: ckal7s8zxgjeg0i78dv1rfqda
     verified: true
     hashtags: "#bjj, #kick, #kickboxing, #mma"
-  - username: "gustavooliveiramma"
-    fullname: >-
-      Gustavo Oliveira
-    bio: >-
-      Lutador profissional de MMA 🇧🇷Tiktoker Amador🇵🇹 30k???
-    location: "Portugal"
-    followers: 28900
-    engagement: 504
-    commentsToLikes: 0.026387
-    id: ckb9akg3hvqb70j23yv5wfv26
-    verified: false
-    hashtags: "#viral, #brasil, #portugal, #training"
   - username: "muaythai_world"
     fullname: >-
       MuayThai_World
@@ -91,18 +79,6 @@ profiles:
     id: ckbktiyhhoou00j23vtt52tou
     verified: false
     hashtags: "#shouldbeme, #cubauntukhafal, #headdancechallenge, #yearontiktok"
-  - username: "quinty.klein.gotink"
-    fullname: >-
-      Quinty Klein Gotink
-    bio: >-
-      ⬆️Follow me on Instagram⬆️ Multiple Champion Kickboxing Muay Thai. 14 years🇳🇱
-    location: "Netherlands"
-    followers: 4718
-    engagement: 894
-    commentsToLikes: 0.021623
-    id: ck9eiy5juzu2z0j78jd2ckobl
-    verified: false
-    hashtags: "#training, #kickboxinggirls, #muaythaifight, #boxing"
   - username: "leapfrogcombattv"
     fullname: >-
       LeapFrogCombatTV
@@ -127,4 +103,28 @@ profiles:
     id: ckb9aj62mvjzk0j23rel9pr9c
     verified: false
     hashtags: "#muaythai, #summerworkout, #martialarts, #workoutplan"
+  - username: "iissyfilippazzo"
+    fullname: >-
+      Isabella Filippazzo
+    bio: >-
+      Muay Thai/ Kickboxing/ MMA Fight like a girl🦋 #issyfights 🏆
+    location: "Canada"
+    followers: 20500
+    engagement: 1368
+    commentsToLikes: 0.094544
+    id: ckcji6ly5cn750j23aupt2c46
+    verified: false
+    hashtags: "#strongisbeautiful, #fightlikeagirl, #fyp, #dance4tomorrow"
+  - username: "quinty.klein.gotink"
+    fullname: >-
+      Quinty Klein Gotink
+    bio: >-
+      ⬆️Follow me on Instagram⬆️ Multiple Champion Kickboxing Muay Thai. 14 years🇳🇱
+    location: "Netherlands"
+    followers: 4718
+    engagement: 894
+    commentsToLikes: 0.021623
+    id: ck9eiy5juzu2z0j78jd2ckobl
+    verified: false
+    hashtags: "#muaythaitraining, #muaythaifeminino, #muaythaifight, #boksen"
 ---

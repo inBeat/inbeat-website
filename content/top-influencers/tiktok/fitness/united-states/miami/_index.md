@@ -1,24 +1,24 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Miami In 2023
+title: Top 10 Fitness TikTok Influencers In Miami In 2024
 description: >-
-  Find top fitness TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #miami #fitness #foryou.
+  Find top fitness TikTok influencers in Miami in 2024. Most popular hashtags: #miami #fitness #fyp #funny.
 platform: TikTok
-hits: 94
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our database aggregates 94 TikTok influencers like this in Miami, United States for you to connect with.
+hits: 95
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 95 TikTok influencers like this in Miami, United States for you to connect with.
 profiles:
-  - username: "geminkels"
+  - username: "happychoicelife"
     fullname: >-
-      Kel
+      HappyChoiceLife
     bio: >-
-      Insta:keeping.up.with.kells SC👻kelsmariad
+      Follow me on Instagram for more travel tips. Happy Life is for all!
     location: "United States"
-    followers: 22700
-    engagement: 541
-    commentsToLikes: 0.034143
-    id: ckcuqp0i5jd2b0j23dcjpqfru
+    followers: 2145
+    engagement: 268
+    commentsToLikes: 0.260923
+    id: ckdtekj0nvqi00j23bi1bc02v
     verified: false
-    hashtags: "#greeneyes, #travel, #fyp, #florida"
+    hashtags: "#fyp, #foodie, #madewithrush, #tiktokfoodie"
   - username: "akflash_"
     fullname: >-
       Akash Patel 😛🤣
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.014701
     id: ckbf87l00yokk0j23in5beigf
     verified: false
-    hashtags: "#miami, #fitness, #bladegang, #fyp"
+    hashtags: "#bladegang, #fyp, #miami, #fitness"
   - username: "_nizhu"
     fullname: >-
       Nina Mora 🍑
@@ -79,6 +79,18 @@ profiles:
     id: ckbfiijj7e8jd0j23m2t527vb
     verified: false
     hashtags: "#miami, #fitness, #whiskey, #fyp"
+  - username: "erika.calty"
+    fullname: >-
+      Erika 🖤
+    bio: >-
+      mom • wife • dancer 🤘 • let’s dance •
+    location: "United States"
+    followers: 7321
+    engagement: 1201
+    commentsToLikes: 0.046248
+    id: ck94o5v8i9rfg0j78qm92h0a0
+    verified: false
+    hashtags: "#duet, #goodvibes, #goingpro, #momsoftiktok"
   - username: "lilly27sings"
     fullname: >-
       Lilly Brown
@@ -91,18 +103,6 @@ profiles:
     id: ckav9176igbdb0j23hy9bk20t
     verified: false
     hashtags: "#dadjoke, #wlw, #lgbtq, #fyp"
-  - username: "tyseemarie"
-    fullname: >-
-      Tys
-    bio: >-
-      I post way more on IG & YOUTUBE 🌸 Come say hiiiiiii New vid out! 👙🤍
-    location: "United States"
-    followers: 69000
-    engagement: 689
-    commentsToLikes: 0.018153
-    id: ck9dyej4qwz2a0j78oggtajqt
-    verified: false
-    hashtags: "#swim, #swimwear, #provewhatspossible, #puertorico"
   - username: "joehadley96"
     fullname: >-
       Joseph JP Hadley
@@ -115,16 +115,16 @@ profiles:
     id: ck9tu8w7sk87z0j786zjpgboa
     verified: false
     hashtags: "#lifetime, #gay, #equinox, #gaymen"
-  - username: "r3alwrld"
+  - username: "soxsoul"
     fullname: >-
-      Just Vic
+      _SOXSOUL _
     bio: >-
-      NJ/NYC Couldn’t be more real with you Advice/Motivation
+      Instagram Soxsoul Inquiries👇🏽 Soxsoul.666@gmail.com
     location: "United States"
-    followers: 162900
-    engagement: 1672
-    commentsToLikes: 0.037529
-    id: ckc7qdp2vvvo80j234r6ct3p9
-    verified: false
-    hashtags: "#fyp, #coming2america, #foryoupage, #foryou"
+    followers: 532700
+    engagement: 1074
+    commentsToLikes: 0.019270
+    id: ck8kexmqdbh960j786rpvtn14
+    verified: true
+    hashtags: "#itbelikethat, #youshouldknow, #pufik, #newyork"
 ---

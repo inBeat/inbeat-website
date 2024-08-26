@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Germany In 2023
+title: Top 10 Mothers Instagram Influencers In Germany In 2024
 description: >-
-  Find top mothers Instagram influencers in Germany in 2023. Most popular hashtags: #weekend #sunday #verlosung #instagood.
+  Find top mothers Instagram influencers in Germany in 2024. Most popular hashtags: #momlife #ootd #trending.
 platform: Instagram
-hits: 767
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database holds 767 Instagram influencers like this in Germany for you to work with.
+hits: 912
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 912 Instagram influencers like this in Germany for you to pitch.
 profiles:
-  - username: "anne_wuensche"
+  - username: "buhnella"
     fullname: >-
-      Anne Wünsche
+      Sandra
     bio: >-
-      👩‍👧‍👧 Mother of 2 Girls & 1 Boy ✈️ 🔜 Dubai 🎥 Anne Wünsche ⬇️ Mein Onlineshop ✨
+      DIY | SPIELIDEEN | MOMLIFE ain’t no hood like motherhood buhnella@brainandbabes.com
     location: "Germany"
-    followers: 1116719
-    engagement: 368
-    commentsToLikes: 0.129976
-    id: ck5hj9ub8g9c90i11ho5xuh46
-    verified: true
-    hashtags: "#adventskalender, #toniebox, #grinchmas, #xmas"
-  - username: "katiazygouli"
-    fullname: >-
-      Katia Zygouli
-    bio: >-
-      Mother of 4 I love to share stories @katias_stories Fashion model Paris @martineswomenagency Germany @parsmanagement Austria @wiener_models
-    location: "Germany"
-    followers: 333643
-    engagement: 265
-    commentsToLikes: 0.009306
-    id: ck5q8m8316vgz0i114eun6fi9
+    followers: 10884
+    engagement: 519
+    commentsToLikes: 0.042485
+    id: ck15rt2w19k9u0i19ic7flrbw
     verified: false
-    hashtags: "#syosscolor, #oleointense, #syosscare, #omorfamalliakathemera"
+    hashtags: "#mamasein, #familienleben, #hairinspo, #hairtutorial"
+  - username: "jessica_von_bredow_werndl"
+    fullname: >-
+      Jessica von Bredow-Werndl
+    bio: >-
+      Mother, Animal lover, dressage rider, author, businesswoman & enjoying a🌱plant based diet 🐴 training @aubenhausen_club Double Olympic Champion🥇🥇
+    location: "Germany"
+    followers: 345258
+    engagement: 515
+    commentsToLikes: 0.003322
+    id: ck0u0kr30u52m0i191c7xcujp
+    verified: true
+    hashtags: "#grateful, #horses, #teamaubi, #ridingtogether"
+  - username: "ot_modutle"
+    fullname: >-
+      Orapeleng Modutle
+    bio: >-
+      Creative director @orapelengmodutle Managing Director and Executive Producer @birthof_stars Mother of the House ✨
+    location: "Germany"
+    followers: 25532
+    engagement: 612
+    commentsToLikes: 0.056234
+    id: ck6tzr81vbdkd0j718im05ji2
+    verified: false
+    hashtags: "#mylittlesomethingsomething, #kingofcouture, #omstyle, #germancars"
+  - username: "mothers_ad"
+    fullname: >-
+      Cathrin Reese
+    bio: >-
+      Persönlicher Blog Mom of 3🤍 *Food*Lifestyle*Fashion Content Creator Mothersad Concept: HOMECOACHING 📨 mothersad-concept@web.de
+    location: "Germany"
+    followers: 24931
+    engagement: 666
+    commentsToLikes: 0.142238
+    id: ckap1i291uorq0i78qedxnjee
+    verified: false
+    hashtags: "#kaffeezeit, #kochenf, #omasrezept, #schnellerezepte"
+  - username: "mother.ink.stinct"
+    fullname: >-
+      𝕍𝕒𝕟𝕖𝕤𝕤𝕒
+    bio: >-
+      #mamalocker 💌 mother.ink.stinct@wi-influencer.de 📍MG, Germany ⬇️ Impressum:
+    location: "Germany"
+    followers: 12286
+    engagement: 819
+    commentsToLikes: 0.036362
+    id: clipg9l89jxor0j083yhpwfv9
+    verified: false
+    hashtags: "#alltagsgedanken, #ehrlichemutterschaft, #gedankenkarussell, #mamablogger"
+  - username: "vanessa.boesh"
+    fullname: >-
+      Vanessa Bösch
+    bio: >-
+      Dateideen | Kreativ | Kindheit | Motherhood Komm wir tauchen in besondere Momente ein 🫧
+    location: "Germany"
+    followers: 76575
+    engagement: 642
+    commentsToLikes: 0.043597
+    id: clny2ta8o1bok0j08wk13b89s
+    verified: false
+    hashtags: "#reminder, #elternzeit, #mamagedanken, #mama"
+  - username: "raffasplasticlife"
+    fullname: >-
+      Raffasplasticlife
+    bio: >-
+      Königin. Kaiserin. Mother. Für Bookings ⬇️ info@raffasplastic.com Impressum: @heyally_impressum
+    location: "Germany"
+    followers: 366145
+    engagement: 743
+    commentsToLikes: 0.016105
+    id: ck5bxprlso6vi0i11q31opybb
+    verified: true
+    hashtags: "#sharkbeautyde, #forallhairkind, #geduldd, #werbung"
+  - username: "daliaskitchen"
+    fullname: >-
+      Dalia  داليا
+    bio: >-
+      daughter of immigrants, mother of dragons travelling chef & cookbook author @harpersbazaararabia food editor
+    location: "Germany"
+    followers: 154206
+    engagement: 628
+    commentsToLikes: 0.031777
+    id: ck6tr9s4axqx20j71vbkgq6gi
+    verified: true
+    hashtags: "#morocco, #berlin"
   - username: "mother_of_six_dragons"
     fullname: >-
-      Valeska
+      Valeska Levinia
     bio: >-
       MOTHER OF 7 - WIFEY - TV EDITOR - BASED IN COLOGNE. FOOD - FASHION - LIFESTYLE. CONTRIBUTOR for @mummymag
     location: "Germany"
-    followers: 51983
-    engagement: 856
-    commentsToLikes: 0.048951
+    followers: 71411
+    engagement: 381
+    commentsToLikes: 0.131240
     id: ck134cfzvvrn90i19nzgv7sm9
     verified: false
-    hashtags: "#liebeliebeliebe, #altbauliebe, #frankreichliebe, #collectmomentsnotthings"
-  - username: "reissmannevelyn"
+    hashtags: "#kleinerfeinerfeed, #metime, #reisenmitkindern, #liebeliebeliebe"
+  - username: "clarissa__neumann"
     fullname: >-
-      Evelyn Reißmann
+      Clarissa Neumann
     bio: >-
-      Bestagermodel 🙋‍♀️ Miss50plusgermany 2019 Mother👩‍❤️‍👩
+      fashion enthusiast, boy momager & power mother-daughter duo with @angelika__hanel | Frankfurt Inquiries: clarissa@net-talents.com
     location: "Germany"
-    followers: 39223
-    engagement: 887
-    commentsToLikes: 0.066961
-    id: ck8t26tg1yctg0j78wfmfyfpy
+    followers: 50650
+    engagement: 382
+    commentsToLikes: 0.004246
+    id: clq9hy3rv6ani0k08uubcynyb
     verified: false
-    hashtags: "#agelesswomen, #bestagermodel50plus, #valentinstag, #woman"
-  - username: "life_mirroring"
-    fullname: >-
-      Storysticker by life_mirroring
-    bio: >-
-      INSPO | LIFESTYLE | MOTHERHOOD Sharing my experiences, thoughts and motivations via Instagram 📍BW, Germany🇩🇪🥨🇷🇴 💌Collabs: life_mirroring@yahoo.com
-    location: "Germany"
-    followers: 18855
-    engagement: 275
-    commentsToLikes: 0.118450
-    id: ck6u19cudkdq80j710dy70zlz
-    verified: false
-    hashtags: "#zarafashion, #anajohnson, #tezzapresets, #inspohome"
-  - username: "iamfabsi"
-    fullname: >-
-      Fabsi Berlin Blogger
-    bio: >-
-      Ironie und schlechter Humor sind Programm 21 jahre alt Mother of Zuckerpüppchen Founder @vandalize.de Impressum:
-    location: "Germany"
-    followers: 91989
-    engagement: 1070
-    commentsToLikes: 0.020063
-    id: ck134yy6fyvhz0i19armuwlzq
-    verified: false
-    hashtags: "#myuntoldstory, #pride, #gapxzalando, #beigeaesthetic"
-  - username: "moritz_hau"
-    fullname: >-
-      MORITZ HAU
-    bio: >-
-      🇩🇪 23 | Germany | 🌐 Mother Agency @nomadmgmt Create stunning pictures with one click 📸 Click here 👇🏻
-    location: "Germany"
-    followers: 456582
-    engagement: 1412
-    commentsToLikes: 0.012466
-    id: ck55mmafd49n80i112l301ujf
-    verified: false
-    hashtags: "#emilyinparis, #cuteguys, #collegelife, #germanytravel"
-  - username: "myveryown.journey"
-    fullname: >-
-      Ｙｏｇａ  ｂｙ  ＡＭＢＥＲ ＳＣＨＩＭＰＦ
-    bio: >-
-      • 🧘🏻‍♀️🪴🦆🥑🍫🤸🏻‍♀️ • self taught yogi • obsessed w/ good + healthy food • taking care of Mother Nature • #sustainable | #ecofriendly | mostly #vegan
-    location: "Germany"
-    followers: 37410
-    engagement: 137
-    commentsToLikes: 0.141218
-    id: ck15rldii8hna0i19ywi6cbdq
-    verified: false
-    hashtags: "#yoga, #heartopener, #yogainspiration, #mybodymychoice"
-  - username: "vavavilde"
-    fullname: >-
-      Vava Vilde
-    bio: >-
-      BO∆RD THE MOTHERSHIP 🛸 Alien / artist / LGBTQ* activist / Visual chameleon 🪐 In drag: she / her @impressumvava
-    location: "Germany"
-    followers: 27782
-    engagement: 475
-    commentsToLikes: 0.059247
-    id: ck5bxo7joo37j0i11abzqa4c8
-    verified: false
-    hashtags: "#avantgardemakeup, #cutcrease, #cosplaygermany, #bluehaircolor"
-  - username: "_shopaholic_girl"
-    fullname: >-
-      Natalie Oettgen
-    bio: >-
-      Mother of ✌🏻 Mom to be🤰🏼 Passion for Fashion & Interior 📍Cologne 📧 info@shopaholic-girl.de Impressum ⬇️
-    location: "Germany"
-    followers: 317022
-    engagement: 545
-    commentsToLikes: 0.026581
-    id: ck0u9gsn79rvg0i19uk8f828e
-    verified: false
-    hashtags: "#holidays, #weekend, #pregnant, #home"
+    hashtags: "#minimalstyle, #classyvision, #scandinavianstyle, #styleblogger"
 ---

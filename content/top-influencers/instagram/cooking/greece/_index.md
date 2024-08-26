@@ -1,12 +1,24 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Greece In 2023
+title: Top 10 Cooking Instagram Influencers In Greece In 2024
 description: >-
-  Find top cooking Instagram influencers in Greece in 2023. Most popular hashtags: #cooking #foodphotography #greece #foodstagram.
+  Find top cooking Instagram influencers in Greece in 2024. Most popular hashtags: #cooking #summer #greece #foodstagram.
 platform: Instagram
-hits: 63
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 63 Instagram influencers like this in Greece for you to collaborate.
+hits: 84
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 84 Instagram influencers like this in Greece for you to pitch.
 profiles:
+  - username: "sophiewyburd"
+    fullname: >-
+      Sophie Wyburd
+    bio: >-
+      cooking, food writing, supper clubbing comfort food on cute plates pod @illhavewhatsheshavingpod
+    location: "Greece"
+    followers: 115140
+    engagement: 432
+    commentsToLikes: 0.012286
+    id: clfb7s48o2zd70j087gma4k8c
+    verified: false
+    hashtags: "#thepeoplebehindthefood, #mob, #pasta, #recipe"
   - username: "thodoris_papanikolaou"
     fullname: >-
       Thodoris_Papanikolaou
@@ -43,6 +55,54 @@ profiles:
     id: ckaoxm55ydub50i78odtcuxly
     verified: false
     hashtags: "#instafood, #healthychoices, #nutrition, #diet"
+  - username: "timoleon_diamantis"
+    fullname: >-
+      Timoleon Diamantis
+    bio: >-
+      @ouzeri_karakatsanis 📺 YouTube - Timoleon Diamantis 🍽️ Βίντεο, συνταγές, νέα εδώ 👇
+    location: "Greece"
+    followers: 61954
+    engagement: 271
+    commentsToLikes: 0.006626
+    id: ckaovbsst3wc80i78ef2gdyw5
+    verified: true
+    hashtags: "#easyrecipes, #farmtotable, #handmade, #timoleondiamantis"
+  - username: "lefterislazarouofficial"
+    fullname: >-
+      Lefteris Lazarou
+    bio: >-
+      Chef • Owner @varoulkoseaside Greek Ambassador @henditoolsforchefs 📩 contactlazarou@gmail.com
+    location: "Greece"
+    followers: 68736
+    engagement: 220
+    commentsToLikes: 0.010877
+    id: ck6tsr3e66cus0j71en17pd9x
+    verified: false
+    hashtags: "#drinknaturewise, #henditoolsforchefs, #theoniwater, #sourceoflife"
+  - username: "misstastygr"
+    fullname: >-
+      Maria Patsia
+    bio: >-
+      Foodie | Recipe Developer | Civil engineer 📍 Based in Larissa, Greece 📮Contact : DM or info@misstasty.gr ⬇️ Visit my website for more recipes ⬇️
+    location: "Greece"
+    followers: 46351
+    engagement: 207
+    commentsToLikes: 0.042828
+    id: ck9wfgp6hoths0j78dbhotnwh
+    verified: false
+    hashtags: "#greekfoodlovers, #greekgastronomy, #skgstories, #breakfast"
+  - username: "yiannislucacos"
+    fullname: >-
+      YiannisLucacos ΓιάννηςΛουκάκος
+    bio: >-
+      Chef - Owner @psomikaialati @alio.restaurant @buddhashand.gr @theseminarproject @aliopizzeria @comal.athens Youtube: Yiannis Lucacos
+    location: "Greece"
+    followers: 131013
+    engagement: 132
+    commentsToLikes: 0.010989
+    id: ck8t0b8vjrh350j78hhtyd0ph
+    verified: false
+    hashtags: "#pasta, #recipeoftheday, #yiannislucacos, #foodlover"
   - username: "lucastoma"
     fullname: >-
       Lucas Toma
@@ -67,64 +127,4 @@ profiles:
     id: ck5q4upylqbml0i11anrn069q
     verified: false
     hashtags: "#cookinglife, #lovecooking, #cheflife, #cooking"
-  - username: "justlife.gr"
-    fullname: >-
-      justlife.gr
-    bio: >-
-      Founded by @tinamel123 Owner & Content Creator Cook🍲 Travel 🛴 lifestyle 🍷 mum 💕 foodphotography All 📸 & 📽 by me YouTube justlife.gr Dm for collabs 📩
-    location: "Greece"
-    followers: 5281
-    engagement: 682
-    commentsToLikes: 0.258875
-    id: ck6tiox5v14z30j71u8ov18hi
-    verified: false
-    hashtags: "#foodblogger, #perfect, #justlife, #justliferecipies"
-  - username: "dimitris_konidaris"
-    fullname: >-
-      Dimitris konidaris
-    bio: >-
-      Head pastry Chef at @sovolosofficial Athens Greece🇬🇷
-    location: "Greece"
-    followers: 33079
-    engagement: 323
-    commentsToLikes: 0.019747
-    id: ck0w0bc9mdcb00i19yp40m6f4
-    verified: false
-    hashtags: "#instagood, #cook, #pastrypassion, #sweet"
-  - username: "barkas_christos"
-    fullname: >-
-      Christos Barkas
-    bio: >-
-      Gastronomictraveler YouTube channel👇
-    location: "Greece"
-    followers: 52714
-    engagement: 267
-    commentsToLikes: 0.017647
-    id: ck5btda0rfr890i11lnpoqjbr
-    verified: true
-    hashtags: "#chickenrecipes, #staytuned, #pindos, #chicken"
-  - username: "asterios_koustoudis"
-    fullname: >-
-      Asterios Koustoudis
-    bio: >-
-      📍Based in Athens, Greece 🇬🇷 • Executive Chef @hotelgrandebretagne and @kinggeorgeathens and two times dad ❣ •Culinary writer @gastronomos_ 🍴📒
-    location: "Greece"
-    followers: 7978
-    engagement: 817
-    commentsToLikes: 0.034550
-    id: ck5q0834y4pc10i11rqznvb09
-    verified: false
-    hashtags: "#stayhome, #greekvibes, #lovegreece, #cookathome"
-  - username: "artos_kai_theamata"
-    fullname: >-
-      Άρτος & Θεάματα
-    bio: >-
-      • Όσα μας ανοίγουν την όρεξη στην Αθήνα • Η πρώτη μου συνταγή στο blog! ⬇️
-    location: "Greece"
-    followers: 9636
-    engagement: 430
-    commentsToLikes: 0.030497
-    id: ckap71y1iiaf60i78laob71bk
-    verified: false
-    hashtags: "#foodfluffer, #foodilysm, #foodforfoodies, #brunch"
 ---

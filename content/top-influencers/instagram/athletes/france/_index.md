@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In France In 2023
+title: Top 10 Athletes Instagram Influencers In France In 2024
 description: >-
-  Find top athletes Instagram influencers in France in 2023. Most popular hashtags: #calisthenics #healthy #fitfrenchies.
+  Find top athletes Instagram influencers in France in 2024. Most popular hashtags: #olympics #paris2024 #workout.
 platform: Instagram
-hits: 388
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 388 Instagram influencers like this in France for you to collaborate.
+hits: 381
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 381 Instagram influencers like this in France for you to contact.
 profiles:
-  - username: "sayayassine"
+  - username: "ibra_acro_boy"
     fullname: >-
-      SAYA YASSINE
+      I B R A
     bio: >-
-      Athlète
+      | Pro Movement Athlete
     location: "France"
-    followers: 332717
-    engagement: 101
-    commentsToLikes: 0.013847
-    id: ck0w2kw6lovib0i1910dseoih
+    followers: 304567
+    engagement: 410
+    commentsToLikes: 0.026131
+    id: ck15t631ogj0b0i1916v7pc23
     verified: false
-    hashtags: "#withlove, #babyfashion, #princess, #anytimeanywhere"
-  - username: "majdoulinsr"
+    hashtags: "#foryou, #wakanda, #jump, #cute"
+  - username: "nojo18"
     fullname: >-
-      PT & Nutritionist 🍑🇲🇦🇫🇷
+      Noah Lyles
     bio: >-
-      Coaching & Transformations @team.happybodies 🍑 Sponsored @happybody.officiel Athlete @myproteinfr ( links )👇🏽
+      Olympic Champion 6x World Champion @adidas & @celsiusofficial Athlete Nonprofit- @lylesbrotherssf Agency- @gamupdates
     location: "France"
-    followers: 64535
-    engagement: 257
-    commentsToLikes: 0.025364
-    id: ck6u6kgl5g43p0j71w1wbla9g
-    verified: false
-    hashtags: "#leggings, #recipe, #lifestyle, #healthyfood"
-  - username: "karenmattar"
-    fullname: >-
-      Karen Mattar  كارن مطر
-    bio: >-
-      I empower you to be the BEST version of yourself. Personalized training & nutrition via MotivNation or DM for 1:1 online coaching. Athlete womensBest
-    location: "France"
-    followers: 156212
-    engagement: 151
-    commentsToLikes: 0.017906
-    id: ck14lk6eev3mt0i19ux5okwka
+    followers: 1504039
+    engagement: 785
+    commentsToLikes: 0.014862
+    id: ck0twtgf1gnv30i19c7vtbpw5
     verified: true
-    hashtags: "#vacation, #health, #flexibility, #yoga"
-  - username: "cyril_guillemin"
+    hashtags: "#yougotthis, #teamvisa, #olympics, #paris2024"
+  - username: "veramichelle__"
     fullname: >-
-      Cyril Guillemin
+      V E R A  |  LL.M.
     bio: >-
-      Celebrities stylist | CM | Former athlete Founder @cyca.agency cyril.inquiries@gmail.com
+      💛 • Infatuated with all great things life has to offer 👧🏽 • 🎓 • Law Student • Radboud University 🏋🏽‍♀️ • MyProtein Athlete • VERA = 30% off! ⬇️
     location: "France"
-    followers: 213403
-    engagement: 95
-    commentsToLikes: 0.035810
-    id: ck5zttwaj13yd0i145jyxgshc
+    followers: 11398
+    engagement: 1161
+    commentsToLikes: 0.038367
+    id: ck15twx2ykbhq0i19q7yoghmi
     verified: false
-    hashtags: "#pfw, #fashionweek, #paris, #dior"
-  - username: "samuelpiette"
+    hashtags: "#interiordesign, #aprilrecap, #whatyoumissed, #posterstore"
+  - username: "daisybguerrero"
     fullname: >-
-      Samuel Piette
+      ✿ DAISY B. ✿
     bio: >-
-      @clubdefootmtl #6 | Adidas Athlete ||| Proud ambassador of; • @videotron • @denisbretonchevroletbuickgmc
+      dressing cute. being fit. 💌daisyb@select.co @ehplabs athlete ‘DAISY10’ @gymshark code: ‘DAISYB’
     location: "France"
-    followers: 27041
-    engagement: 820
-    commentsToLikes: 0.046551
-    id: ck5c45lnv0nlx0i11wk3qsch2
+    followers: 113056
+    engagement: 413
+    commentsToLikes: 0.004918
+    id: ck5c8el1x9ba70i1124jh2eby
+    verified: false
+    hashtags: "#fitnessmotivation, #gymvlog, #legday, #teamehp"
+  - username: "lhz_perf"
+    fullname: >-
+      🇫🇷 Lucas Heuzé 🦁
+    bio: >-
+      2x Games Athlete @crossfitgenas Coach @fitprocess.prog 📈 . @purvitae.fr @fitandrack @unchained_fr @monka_france
+    location: "France"
+    followers: 12740
+    engagement: 738
+    commentsToLikes: 0.011571
+    id: cktoaa8fbf7jz0j23m32l0iwl
+    verified: false
+    hashtags: "#crossfitfrance, #blackandwhite, #crossfit, #unjouronfera120sousfatigue"
+  - username: "christophe_lemaitre_officiel"
+    fullname: >-
+      Christophe Lemaitre OLY
+    bio: >-
+      🇫🇷 sprinter - Olympic 🥉🥉- world 🥉- 8 European medals (4🥇2🥈2🥉) - #Asics athlete - 🇫🇷 record holder on 200m (19s80) - Fan of video games
+    location: "France"
+    followers: 57673
+    engagement: 572
+    commentsToLikes: 0.007642
+    id: ck0vw4v10s4540i192kt19tcl
     verified: true
-    hashtags: "#mlsisback, #muralfestival, #festivalmural, #videotron"
-  - username: "lauriane_lamperim"
+    hashtags: "#sprinteur, #athletisme, #france3, #athlelor"
+  - username: "theo_deblic"
     fullname: >-
-      Lauriane Lamperim
+      Théo de Blic
     bio: >-
-      Surfer girl Kinésithérapeute Ex-team France tumbling Athlète @foodspring_fr 🌱 ↪️ -15% « LaurianeFSG » Mon livre : Renaissance Mon programme abdo ⬇️
+      • Professional Paragliding athlete 🌪 • Co-Founder @riseparagliding 📈 • 🏆 5 x Acro World Tour Champion • 🏆 3 x Acro Game Champion
     location: "France"
-    followers: 175006
-    engagement: 619
-    commentsToLikes: 0.023254
-    id: ck13chvij0f9w0i199dwubasm
+    followers: 169023
+    engagement: 2782
+    commentsToLikes: 0.019290
+    id: ck0w1k31rjqpe0i19hrckorjq
     verified: false
-    hashtags: ""
-  - username: "saketgokhale"
+    hashtags: "#novaglitch, #nature, #txc, #extreme"
+  - username: "m.burbayea"
     fullname: >-
-      Saket Gokhale
+      محمد ابراهيم بوربيّع
     bio: >-
-      20 | Transform Yourself 🏋🏻 Athlete @muscleblaze 💰Discount Code ‘SAKET30’ 🎥 YouTube: Saket Gokhale
+      🔹🌎3X Guinness World Record Title Holder 🔹🏆25X World Champion 🔹Red Bull Athlete - Jet Ski 🔹ProRiderKw 🔹mohammed.burbayea@gmail.com
     location: "France"
-    followers: 211294
-    engagement: 2823
-    commentsToLikes: 0.012537
-    id: ck8t6pvbreebe0j78eukn84fh
+    followers: 27899
+    engagement: 580
+    commentsToLikes: 0.148767
+    id: ck5pyfogbvsen0i1147r1iu8j
     verified: false
-    hashtags: "#shotoniphone, #streetphotography"
-  - username: "ilyas_workout"
+    hashtags: "#repost, #givesyouwings, #mashaallah, #best"
+  - username: "cheslinkolbe"
     fullname: >-
-      𝕴𝖑𝖎𝖆𝖘 𝖘𝖆𝖆𝖎𝖊𝖋
+      Cheslin Kolbe
     bio: >-
-      ʏᴇꜱ ɪᴛ’ꜱ ᴍᴇ ᴛʜᴇ ᴋɪᴅ ᴛʜᴀᴛ ʏᴏᴜ’ᴠᴇ ʜᴇᴀʀᴅ ᴀʙᴏᴜᴛ . Professionnel Street Workout Athlete 🏆 Tik tok : +116K 🥵
+      @bokrugby International 🇿🇦🏉 @nike Athlete Matthew 21:22 ✉business@rocnation.com | @rocnationsi Twitter @Cheslin_Kolbe11
     location: "France"
-    followers: 18952
-    engagement: 929
-    commentsToLikes: 0.041068
-    id: ck9hakcafcuzs0j78qrgj3e3e
-    verified: false
-    hashtags: "#baristiworkout, #dsworkout, #calisthenicstraining, #best"
-  - username: "kalvinnsk"
+    followers: 458569
+    engagement: 637
+    commentsToLikes: 0.004345
+    id: ck13axprzsp5u0i194vggy0ag
+    verified: true
+    hashtags: "#sheownshersuccess, #rwc2023, #gilbertrugby, #cheslinkolbe"
+  - username: "balzersara"
     fullname: >-
-      L'HOMME NSK - BIG KALV’
+      Sara BALZER
     bio: >-
-      🌺 Mktg & Creative Director @teascodrink 🦾 Co-founder @savvymedias 💼 Marketing & Branding Strategist 🦾 Hybrid Athlete & Fitness Consultant @nsk.fit
+      World n°1 🪐 Olympic 🥈🥈 @dior ambassador @adidas athlete Image architecture @lamdeparis
     location: "France"
-    followers: 10739
-    engagement: 1375
-    commentsToLikes: 0.286182
-    id: ck5c8njdj9uxb0i11c8rs20wa
+    followers: 159591
+    engagement: 1388
+    commentsToLikes: 0.008314
+    id: ck8t3gqte38ex0j78gfqlotk5
     verified: false
-    hashtags: "#blackmodels, #fitmodel, #elegance, #pittiuomo"
-  - username: "leo.cressant"
-    fullname: >-
-      Léo Cressant
-    bio: >-
-      🌎 Photography | Model 📍 France 🎗 Athlete @bodyandfit_fr | LEO10 👇🏻 Certified Fitness & Nutrition Coach
-    location: "France"
-    followers: 190347
-    engagement: 445
-    commentsToLikes: 0.024026
-    id: ck0ttkiiu34si0i1920lxgbsx
-    verified: false
-    hashtags: "#mensphysique, #ibizastyle, #boattrip, #boatlife"
+    hashtags: "#roadtoparis2024, #fencing, #parisolympics, #olympics"
 ---

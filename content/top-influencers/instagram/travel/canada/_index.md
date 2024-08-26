@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Canada In 2023
+title: Top 10 Travel Instagram Influencers In Canada In 2024
 description: >-
-  Find top travel Instagram influencers in Canada in 2023. Most popular hashtags: #banff #earthpix #sonyalpha #beautifuldestinations.
+  Find top travel Instagram influencers in Canada in 2024. Most popular hashtags: #travelgram #streetstyle #ootd #travelblogger.
 platform: Instagram
-hits: 782
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 782 Instagram influencers like this in Canada for you to work with.
+hits: 1588
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 1588 Instagram influencers like this in Canada for you to pitch.
 profiles:
-  - username: "lifewithelliott"
+  - username: "aman.shai.xox"
     fullname: >-
-      Elliott | Adventure + Travel Photographer †
+      Shaista & Aman
     bio: >-
-      Come travel the world with me 📸🗺 Let’s work together → hello@lifewithelliott.com 👇🏻 My eBooks, courses, presets, vlogs, & more! Next ✈️: Vancouver 🇨🇦
+      ♡ Mr. Mrs. & Mini Doctor & Engineer traveling the world #YYC Canadian 🇨🇦 aman.shai.xox@gmail.com
     location: "Canada"
-    followers: 112572
-    engagement: 740
-    commentsToLikes: 0.020163
-    id: ck0w2tbypq2x10i19jh48i0fy
+    followers: 55140
+    engagement: 1256
+    commentsToLikes: 0.089060
+    id: ck0tw1z1ydo9m0i19chqlkzca
     verified: false
-    hashtags: "#beautifuldestinations, #depthsofearth, #santorini, #hikingadventures"
-  - username: "twourism"
+    hashtags: "#couplesofig, #creativetravelcouples, #journeysofcouples, #iamtb"
+  - username: "andreafcannon"
     fullname: >-
-      A & M - Toronto Foodies
+      Andrea Cannon | Adventure Travel & Outdoors
     bio: >-
-      Eats 🍔| Travels ✈️| Lifestyle👫🏽l Newly weds💍 🚨Sharing the best deals 🎥 Tiktok: 9.2k 💌 DM/Email to collab or to say hi! #torontofoodie #toronto #halal
+      📍SLC (moved from PDX) Inspiring YOU to travel, get outside, & share your story 💌 andrea@beaUTAHfulworld.com
     location: "Canada"
-    followers: 12221
-    engagement: 724
-    commentsToLikes: 0.226612
-    id: ck6ubkqqma5jw0j718b18nc2f
+    followers: 68006
+    engagement: 3200
+    commentsToLikes: 0.146363
+    id: ck0vznqg7a09f0i194rct91nu
     verified: false
-    hashtags: "#torontoeats, #mississaugafood, #pakistanifashion, #torontobride"
-  - username: "kristascompass"
+    hashtags: "#alaskalife, #visitutah, #bucketlistadventures, #alaska"
+  - username: "wooitsmelody"
     fullname: >-
-      Krista 🌻 adventure travel + photography
+      MELODY 🐙
     bio: >-
-      🌎 Canadian girl traveling the world 📍home: Quebec ⛰travel tips, photography + adventures 💌 krista@kristascompass.com ⇣Travel Guides + Presets + more⇣
+      toronto | soon: nyc 🗽✨ —— fashion, wellness, and travel ✉️ wooitsmelody@gmail.com
     location: "Canada"
-    followers: 47208
-    engagement: 708
-    commentsToLikes: 0.046493
-    id: cl7k00zhzuwba0i2330x8mayc
+    followers: 6540
+    engagement: 473
+    commentsToLikes: 0.193713
+    id: cktdxnzz18n8z0j234wse30mt
     verified: false
-    hashtags: "#thegreatplanet, #andshesdopetoo, #bevisuallyinspired, #bestvacations"
-  - username: "love.from.steph"
+    hashtags: "#barbiecore, #diycandle, #couplegoals, #barbie"
+  - username: "frugalandfrills_"
     fullname: >-
-      Steph | Travel & Photography
+      𝐀𝐒𝐈𝐀 | 𝗙𝗮𝗺𝗶𝗹𝘆 𝗟𝗶𝗳𝗲 + 𝗧𝗿𝗮𝘃𝗲𝗹
     bio: >-
-      ↠ Travel Blogger in Vancouver, BC ⩕ Sharing travel inspo and tips for Canada & US 💌 info@lovefromsteph.com ↡ Travel, Road Trips & Hiking Guides
+      ⋒ 𝗔 𝗹𝗶𝘁𝘁𝗹𝗲 𝗯𝗶𝘁 𝗼𝗳 𝗲𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 ⋒ Frugal Mom of ✌️ Family Life + Travel 👀 CTV news 🏆 YVR Top 30 Mom Blogger 🏆 Best Motherhood Advisory Platform Links⬇️
     location: "Canada"
-    followers: 10264
-    engagement: 415
-    commentsToLikes: 0.180454
-    id: cky7uz2b5kbee0j23q93nqs2e
+    followers: 21027
+    engagement: 496
+    commentsToLikes: 0.279407
+    id: ck8t5m1ewahdl0j78bflufnv1
     verified: false
-    hashtags: "#vancouvercanada, #vancouverviews, #thingstodoinvancouver, #beautifulbritishcolumbia"
-  - username: "siberian_reinhardt"
+    hashtags: "#momtruth, #momstyle, #positiveparenting, #wheremymamasat"
+  - username: "vivianwong_"
     fullname: >-
-      𝐑𝐞𝐢𝐧𝐡𝐚𝐫𝐝𝐭 🧶
+      V
     bio: >-
-      ‣ Full-time travel cat ‣ Ft. @perseus_purrs & @alifeonpaws 📍Vancouver, BC 🇨🇦
+      Lifestyle, fashion, travel… It’s just my life 🥀 @yegcycle ambassador 🚲 @socialties.ca 🌙 ✉️ hello@vivian-wong.ca
     location: "Canada"
-    followers: 383383
-    engagement: 841
-    commentsToLikes: 0.006631
-    id: ck0w6xg7maq0g0i19rzpeh0oc
+    followers: 50406
+    engagement: 670
+    commentsToLikes: 0.014720
+    id: ck0vww6iuvvt90i19rap5fjx1
     verified: false
-    hashtags: "#canada, #cutepets, #travelblog, #travelcat"
-  - username: "yakeandmarie"
+    hashtags: "#travelgram, #workoutwithme, #style, #ootd"
+  - username: "azarialuvsu"
     fullname: >-
-      JAKE & MARIE 🇨🇦
+      A Z A R I A
     bio: >-
-      Photographers & travel bloggers from Vancouver, BC ↓ hiking, camping, & road-tripping tips 🏔 ↓ check out the blog & new reels yakeandmarie@gmail.com
+      Lifestyle ★ Beauty ★ Wellness ★ Travel ★ Self Love 📍Toronto -> Currently: NC 💌 azarialuvsu@gmail.com CEO & Founder @digitaleyesinc
     location: "Canada"
-    followers: 50132
-    engagement: 383
-    commentsToLikes: 0.080729
-    id: ckpn0txlc3n1z0j231bpbkko6
+    followers: 22050
+    engagement: 15756
+    commentsToLikes: 0.236991
+    id: ck5zp4iyjrz710i14hd8ttob6
     verified: false
-    hashtags: "#hikingtheglobe, #luxurytravel, #tourcanada, #optoutside"
-  - username: "mel77wa"
+    hashtags: "#torontoblogger, #torontostyle, #canadianblogger, #styleoftheday"
+  - username: "foodierrachel"
     fullname: >-
-      Melanie Roy
+      RACHEL ˙ᵕ˙♡ ྀིྀི
     bio: >-
-      Part-time wanderer | full-time mommy<3 Mel77wa@gmail.com • Made in *•🇨🇦•* • Family Travel | clean beauty | ethical + sustainable living | slow fashion
+      life diaries • food • travel • yap 📍vancouver, bc 💌 foodierrachel@gmail.com
     location: "Canada"
-    followers: 20412
-    engagement: 284
-    commentsToLikes: 0.235919
-    id: cksa05djdjbis0j23qso5olea
+    followers: 37805
+    engagement: 1829
+    commentsToLikes: 0.018267
+    id: ck8sxvoc5iuf30j78wtopnze9
     verified: false
-    hashtags: "#jackandjillkids, #loveverybaby, #receiptjar, #trainingpants"
-  - username: "theoretically.teddy"
+    hashtags: "#igvancouver, #vancouverfoodie, #vancouverfood, #discovervancouver"
+  - username: "punsandlittleones"
     fullname: >-
-      Teddy
+      Jen
     bio: >-
-      🌎🐾😾 The Grumpy Cat Explorer Cat friendly travel and adventures 📍Vancouver, BC 🇨🇦
+      Just trying to be creative 🫶✨ 🙋🏼‍♀️: Mom of two boys ✈️: Family travel & fun 📍: Calgary, Canada 💌: punsandlittleones@outlook.com More on TikTok ⤦
     location: "Canada"
-    followers: 65021
-    engagement: 264
-    commentsToLikes: 0.047200
-    id: ck1365v164w8e0i19d4uhfc8k
+    followers: 29628
+    engagement: 2146
+    commentsToLikes: 0.120297
+    id: ck5zuh0b02cc90i14omirz113
     verified: false
-    hashtags: "#theoreticallyteddy, #cutecats, #adventurecats, #explore"
-  - username: "lifewithfarihaa"
+    hashtags: "#lasvegas, #nevergrowup, #realmotherhood, #parenthood"
+  - username: "angie_campanelli"
     fullname: >-
-      Fariha⚡️| content creator & recipe developer
+      ᴀɴɢɪᴇ ꜱᴍɪᴛʜ-ᴄᴀᴍᴘᴀɴᴇʟʟɪ
     bio: >-
-      ✨ follow me for recipes, food/home styling + travel 👩🏽‍💻 public policy advisor | freelance recipe developer 📩 lifewithfarihaa@gmail.com 📍Toronto
+      ▪️Lifestyle, Travel, Wellness & Mindset 😻😼@sofya.and.figs 📲Video Marketing Coach/Producer @notonbrand.ca 💻 Marketing & Ad PT Prof @mohawk.college
     location: "Canada"
-    followers: 8704
-    engagement: 217
-    commentsToLikes: 0.203509
-    id: ckyu5qpgkxlf30j237rxofi63
+    followers: 32641
+    engagement: 438
+    commentsToLikes: 0.124830
+    id: ckxhnsjdr67790j23j2xapvgt
     verified: false
-    hashtags: "#vealathome, #ontarioveal, #bakeadifference2022, #partner"
-  - username: "caleyvanular"
+    hashtags: "#canadianmade, #burlingtonmoms, #ad, #thecampanellis"
+  - username: "sippystackz"
     fullname: >-
-      Caley Vanular
+      ♡ SIPPY ♡
     bio: >-
-      snowboard | photo | surf | travel | culture 📩 contact@caleyvanular.com ☀️ @fforahh 🎞 @cahhhley 🌀 @billabongwomens @k2.snowboarding
+      beauty, travel, fashion & married life 🧸 💌 sippystackz@gmail.com tiktok: sippystackz muslim + kurdish + canadian 🇨🇦
     location: "Canada"
-    followers: 70137
-    engagement: 171
-    commentsToLikes: 0.050948
-    id: ck0ubyzxkfoyb0i19efj88wa4
+    followers: 22024
+    engagement: 516
+    commentsToLikes: 0.033954
+    id: ck138rkudho3k0i19689iz4oy
     verified: false
-    hashtags: "#contaxt2, #fj62, #bcday, #desolationsound"
+    hashtags: "#microinfluencer, #outfitreel, #streetwear, #longhair"
 ---

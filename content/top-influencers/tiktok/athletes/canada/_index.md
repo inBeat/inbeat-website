@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Canada In 2023
+title: Top 10 Athletes TikTok Influencers In Canada In 2024
 description: >-
-  Find top athletes TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #athlete #fitness #workout.
+  Find top athletes TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #athlete #fitness #motivation.
 platform: TikTok
-hits: 71
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 71 TikTok influencers like this in Canada for you to pitch.
+hits: 70
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: inBeat holds 70 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "jorden_hall"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.016863
     id: ck964of3qzjoo0j78qxhle0ub
     verified: false
-    hashtags: "#lgbtq, #lol, #trackstar, #gay"
+    hashtags: "#trackandfield, #trackstar, #mascgirl, #gay"
   - username: "flippinghub"
     fullname: >-
       Flipping Hub
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.023828
     id: ckbl76zw44zl80j23em4x9ron
     verified: false
-    hashtags: "#smoothie, #fitness, #beach, #man"
+    hashtags: "#workout, #smoothie, #beach, #man"
   - username: "mc.design"
     fullname: >-
       mc design
@@ -50,11 +50,11 @@ profiles:
       16 yr old artist I design stuff and draw athletes Goal 🔀 20K
     location: "Canada"
     followers: 12100
-    engagement: 1572
-    commentsToLikes: 0.039633
+    engagement: 1570
+    commentsToLikes: 0.039542
     id: ck9r3mn24qlnt0j78r2rs71j3
     verified: false
-    hashtags: "#trending, #nba2k, #rap, #nba"
+    hashtags: "#nba2k, #drake, #basketball, #fyp"
   - username: "streamlineathletes"
     fullname: >-
       streamlineathletes

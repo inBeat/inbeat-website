@@ -1,12 +1,72 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Malaysia In 2023
+title: Top 10 Skincare Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top skincare Instagram influencers in Malaysia in 2023. Most popular hashtags: #skincare #love #ootd #tiktok.
+  Find top skincare Instagram influencers in Malaysia in 2024. Most popular hashtags: #skincare #hyperpigmentation #ubattinggi.
 platform: Instagram
-hits: 52
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 52 Instagram influencers like this in Malaysia for you to connect with.
+hits: 86
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 86 Instagram influencers like this in Malaysia for you to work with.
 profiles:
+  - username: "ismailroslyy"
+    fullname: >-
+      TATAGALTIER MIMPIMIKA SNOVVHITE ZARZOU KL 🔥
+    bio: >-
+      stay lowkey My baby @skinbyir nak contact me, skincare & shopping ⤵️
+    location: "Malaysia"
+    followers: 64023
+    engagement: 295
+    commentsToLikes: 0.093047
+    id: ck5hd8vjpm4r10i11zggibbmo
+    verified: false
+    hashtags: "#mykiehls, #pendidikankulit, #kiehlsgiftedme, #glowup"
+  - username: "therajaatiqullah"
+    fullname: >-
+      Raja Muhd Atiqullah
+    bio: >-
+      🇲🇾 Founder of @freshatiq.hq Booster Serum Skincare . 📩 Atiqazmanwork00@gmail.com . 📞 +60 19- 5324622(Manager)
+    location: "Malaysia"
+    followers: 458170
+    engagement: 108
+    commentsToLikes: 0.008803
+    id: ckaoyhnlbhkhw0i785dnd952x
+    verified: true
+    hashtags: "#dramasangat, #howtohackett, #hawtfallas, #melium"
+  - username: "melissathng"
+    fullname: >-
+      Melissa Th'ng
+    bio: >-
+      • Events, TV, Radio Host (Eng,BM) • Content Creator • Youtuber • AsNTM S1 Skincare-Beauty-Travel-Lifestyle #melissathngvideos For work, please email 💌
+    location: "Malaysia"
+    followers: 145446
+    engagement: 51
+    commentsToLikes: 0.060251
+    id: ck5zvtli84vy90i14ogplxaam
+    verified: true
+    hashtags: "#valiram, #says, #armanifragrance, #shuuemuraxhiroando"
+  - username: "glowyame"
+    fullname: >-
+      Amelia Alexander
+    bio: >-
+      👯‍♀️ Your oily & sensitive skin bestie ✨ Honest skincare review & tips (mostly K-Beauty) 📍Singapore 💌 Work/Collab: glowyame@gmail.com
+    location: "Malaysia"
+    followers: 58653
+    engagement: 46
+    commentsToLikes: 0.009227
+    id: cl5m5mku9aym30i23blosna9v
+    verified: false
+    hashtags: "#cicaplast, #skintreatment, #sunprotection, #reedleshot"
+  - username: "alvinseeck"
+    fullname: >-
+      Alvin • 徐金强 💎
+    bio: >-
+      🌟 Content Creator | Photographer 🔗 I talk about Tech & Gadgets & Beauty on TikTok ™️ TikTok (7k+) 🌊 Skincare is chef kiss 🫶🏻 📨 alvinseeck@gmail.com
+    location: "Malaysia"
+    followers: 46532
+    engagement: 13
+    commentsToLikes: 0.006149
+    id: ck0u7q7tu5h3t0i19u7kym7xn
+    verified: false
+    hashtags: "#techreview, #skincare, #photography, #foryou"
   - username: "nsazmmm_"
     fullname: >-
       | 𝐇𝐚𝐧𝐢𝐬 𝐀𝐳𝐦𝐚𝐧🕊
@@ -19,18 +79,6 @@ profiles:
     id: ckf5x5v0xuh9f0j23o23sj6u7
     verified: false
     hashtags: "#tiensmalaysia, #ubattinggi, #ubattinggimalaysia, #heightup"
-  - username: "tysnasaputra"
-    fullname: >-
-      TYSNA SAPUTRA
-    bio: >-
-      티스나 nice clothes & good skincare products make me happy . 📩 hallo.tysnasaputra@hotmail.com
-    location: "Malaysia"
-    followers: 175182
-    engagement: 241
-    commentsToLikes: 0.016304
-    id: ck0uad0pvbyor0i19xo0jz8sy
-    verified: false
-    hashtags: "#ootdreel, #style, #outfitreel, #fashionreels"
   - username: "goo.roo.review"
     fullname: >-
       audrey
@@ -43,18 +91,6 @@ profiles:
     id: ck5hgffi32hk80i11cbcelehj
     verified: false
     hashtags: "#skincarereviews, #octolyfamily, #farmacybeauty, #farmacist"
-  - username: "ken_doll_dubaiii"
-    fullname: >-
-      Adnan Zafar🧿
-    bio: >-
-      1st 🇵🇰 Ken Doll 📍🇦🇪 Fashion ° Skincare ° Food Throwing kindness around like confetti.
-    location: "Malaysia"
-    followers: 57361
-    engagement: 107
-    commentsToLikes: 0.371163
-    id: ck9wgdlsxsyfu0j78x13l2lwd
-    verified: false
-    hashtags: "#foodporn, #luxurylifestyle, #dubaiinfluencer, #skincare"
   - username: "_faizfarhaah"
     fullname: >-
       Farhana Azad Jhimi  🇧🇩
@@ -66,65 +102,29 @@ profiles:
     commentsToLikes: 0.132045
     id: ckf5wpwh9susy0j23jfcyhz23
     verified: false
-    hashtags: "#lafzskincare, #lafzserum, #lafzfoamingfacewash, #halalcertified"
-  - username: "naesanya"
+    hashtags: "#ad, #lafz, #lafzskincare, #vegan"
+  - username: "_hakkencoser_"
     fullname: >-
-      Naellita Sanya N.
+      Hakken 八犬
     bio: >-
-      𝑰𝒏 𝒕𝒉𝒆 𝒄𝒆𝒍𝒆𝒔𝒕𝒊𝒂𝒍 𝒔𝒑𝒉𝒆𝒓𝒆𝒔 𝒐𝒇 𝒕𝒉𝒆 𝒃𝒓𝒂𝒊𝒏 ✨ 💌 Business Enquiries, DM/E-mail — "Beli dimana itu?" Click this link below 👇🏻
+      🇲🇾 ｜cosplayer ｜model ｜ Tokyo Tourism Ambassador
     location: "Malaysia"
-    followers: 7330
-    engagement: 200
-    commentsToLikes: 0.140278
-    id: ck15u2s1al55n0i19l236ggks
+    followers: 3717355
+    engagement: 1133
+    commentsToLikes: 0.005294
+    id: ck136577k4sz50i1917sjsc3x
     verified: false
-    hashtags: "#tiktokindonesia, #hijabstyle, #tiktoktrending, #bandungbeautyvlogger"
-  - username: "the_beauty_insideout"
+    hashtags: "#lorealparismy, #haircare, #tatlermalaysia, #moonlightbladem"
+  - username: "aaryonstar"
     fullname: >-
-      shub here
+      Aaryonstar ⭐️
     bio: >-
-      23 🦄Content Creator🌌 Aspiring MUA💄💋💋 💯Honest review's only! 📬Dm or E-mail for PR/collab thebeautyinsideout1218@gmail.com
+      AARON WONG 。🇸🇬｜🇲🇾 。𝗠𝗲𝗻 𝗦𝘁𝘆𝗹𝗲 . 𝗟𝗶𝗳𝗲𝘀𝘁𝘆𝗹𝗲 . 𝗖𝗼𝗳𝗳𝗲𝗲 。DM for COLLAB .
     location: "Malaysia"
-    followers: 3240
-    engagement: 3899
-    commentsToLikes: 0.261234
-    id: ck8t8hci9khfe0j7826jffwpq
+    followers: 12683
+    engagement: 529
+    commentsToLikes: 0.084303
+    id: ckf5ndcwnxs8y0j23tpg7xvt6
     verified: false
-    hashtags: "#makeupartist, #makeuplooks, #indianblogger, #indianbeautyblogger"
-  - username: "vanillaclio"
-    fullname: >-
-      ❁ ➵♡ 𝐂𝐥𝐢𝐨 𝐆𝐢𝐥. 𝐂 ✯☽
-    bio: >-
-      合作洽談請私訊或email💌
-    location: "Malaysia"
-    followers: 22132
-    engagement: 392
-    commentsToLikes: 0.009260
-    id: ck5znr3dsozys0i14f83ljujx
-    verified: false
-    hashtags: "#waveshine, #2021, #skincare, #yuyuactive"
-  - username: "scarlettmeganliew_95"
-    fullname: >-
-      Scarlett Megan Liew Zi Ling
-    bio: >-
-      Miss Intercontinental Malaysia 2018 👑
-    location: "Malaysia"
-    followers: 35101
-    engagement: 153
-    commentsToLikes: 0.012040
-    id: ck5zrvp1axcq30i14wvtjcwtl
-    verified: false
-    hashtags: "#thesatincream, #love, #skincare, #olumes"
-  - username: "elsatriutamii"
-    fullname: >-
-      Sasa
-    bio: >-
-      @andriirmdhnn_ ✨"Forbearing all need a Process"✨ 💌Bussines inq/Review ?DM or Email 📩elsatriutami2@gmail.com
-    location: "Malaysia"
-    followers: 10552
-    engagement: 345
-    commentsToLikes: 0.288157
-    id: ck9wh3z0fw50e0j78lmijgenm
-    verified: false
-    hashtags: "#skincare, #tiktok, #racunskincare, #racunshopee"
+    hashtags: "#skincareformen, #dailymenswear, #youthfulskin, #mensweardaily"
 ---

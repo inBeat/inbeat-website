@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Chicago In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Chicago In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Chicago in 2023. Most popular hashtags: #chicago #art #chicagotattooartist #tattoo.
+  Find top tattoo-artists Instagram influencers in Chicago in 2024. Most popular hashtags: #tattoo #chicago #chicagotattooartist #tattooartist.
 platform: Instagram
-hits: 68
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 68 Instagram influencers like this in Chicago, United States for you to connect with.
+hits: 70
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 70 Instagram influencers like this in Chicago, United States for you to collaborate.
 profiles:
   - username: "mwanhala"
     fullname: >-
@@ -42,7 +42,31 @@ profiles:
     commentsToLikes: 0.037304
     id: ck1399k17k76p0i195pk2fqlk
     verified: false
-    hashtags: "#portrait, #tattooartist, #blacktattooart, #tattoos"
+    hashtags: "#portrait, #blackskin, #coverup, #drawing"
+  - username: "lulutattooart"
+    fullname: >-
+      Lulu • Miami Tattoo Artist •
+    bio: >-
+      Tattoo Artist ❖ @thegoldenneedle_tattoos ❖ — booking@lulutattoo.art | +17868654194 — ProTeam @fytsupplies Sponsor @balmtattoousa
+    location: "United States"
+    followers: 45231
+    engagement: 171
+    commentsToLikes: 0.065875
+    id: ck6u738uyj7ss0j71buu8lb7o
+    verified: false
+    hashtags: "#florida, #newyorktattoo, #miami, #miamitattoo"
+  - username: "rawrberryjams"
+    fullname: >-
+      𝕽𝖔𝖇𝖞𝖓 𝕭𝖆𝖗𝖓𝖘𝖉𝖆𝖑𝖊
+    bio: >-
+      Bartender/Model Lover of Beards English Girl/Detroit Internationally Published Primal Siren/Ink Addict/Sin & Skin⚡️💀 RobynBarnsdaleModel@gmail.com 💌
+    location: "United States"
+    followers: 20874
+    engagement: 428
+    commentsToLikes: 0.074746
+    id: ck6udmcx7lwyc0j717qnlzuws
+    verified: false
+    hashtags: "#tattoo2me, #tulum, #tattooist, #tattooing"
   - username: "onlythedeadaresmiling"
     fullname: >-
       Tim Biedron
@@ -67,6 +91,18 @@ profiles:
     id: ck0w42m75whyi0i191msr7p1d
     verified: false
     hashtags: "#portraittattoo, #mexicanstyle, #aztec, #chicagoartist"
+  - username: "futureteller"
+    fullname: >-
+      gifford kasen
+    bio: >-
+      Artist/owner @logansquaretattoo Chicago Sponsored by @jconly_official
+    location: "United States"
+    followers: 30802
+    engagement: 59
+    commentsToLikes: 0.014818
+    id: ck15u2qtll5000i19gpgx1tp1
+    verified: false
+    hashtags: "#futureteller, #mech, #tattoo, #floraltattoo"
   - username: "makeupbyfee"
     fullname: >-
       Fee Fromkin | Chicago
@@ -78,7 +114,7 @@ profiles:
     commentsToLikes: 0.032897
     id: ck0vv829qnyh00i19khgb9lyq
     verified: false
-    hashtags: "#artist, #clubkid, #clubkidmakeup, #mehronmakeup"
+    hashtags: "#graphicliner, #art, #makeupphotography, #makeup"
   - username: "adamaguastattoos"
     fullname: >-
       Adam  Aguas
@@ -91,40 +127,4 @@ profiles:
     id: ck5cboc8nfur20i11co222lh8
     verified: false
     hashtags: "#fyttattoosupplies, #chicago, #newschooltattoos, #axysrotary"
-  - username: "auntieheroine"
-    fullname: >-
-      Auntie Heroine
-    bio: >-
-      Marketing the Non-binary Fantasy She/Her/They/Them Drag is a caricature of gender expression. Artist. CHICAGO, IL . auntieheroine@gmail.com
-    location: "United States"
-    followers: 6553
-    engagement: 528
-    commentsToLikes: 0.027341
-    id: ck0uch6argsjs0i19cvm03ga2
-    verified: false
-    hashtags: "#dragqueen, #gay, #gender, #art"
-  - username: "futureteller"
-    fullname: >-
-      gifford kasen
-    bio: >-
-      @logansquaretattoo Chicago @bornweird_tattoo Boise sept28-oct1st Futuretellerart@gmail.com
-    location: "United States"
-    followers: 24841
-    engagement: 82
-    commentsToLikes: 0.017116
-    id: ck15u2qtll5000i19gpgx1tp1
-    verified: false
-    hashtags: "#blackandgrey, #boise, #futureteller, #biomech"
-  - username: "flee_kay"
-    fullname: >-
-      OG KK
-    bio: >-
-      Rapper | Sneaker Enthusiast | Song Writer Sneaker Page @fleekickzcustoms 🚯 Business Inquiries: sluglifeent@gmail.com #17 OUT NOW 🥳
-    location: "United States"
-    followers: 7642
-    engagement: 430
-    commentsToLikes: 0.266109
-    id: ckap7wjq2lvl60i78hnzu7aro
-    verified: false
-    hashtags: "#nike, #exploremore, #sneakers, #instadaily"
 ---

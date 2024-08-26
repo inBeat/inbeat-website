@@ -1,11 +1,11 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Italy In 2023
+title: Top 10 Pole Dancers Instagram Influencers In Italy In 2024
 description: >-
-  Find top pole dancers Instagram influencers in Italy in 2023. Most popular hashtags: #poledance #pole #poledancer #love.
+  Find top pole dancers Instagram influencers in Italy in 2024. Most popular hashtags: #poledance #love #poledancer #pole.
 platform: Instagram
-hits: 23
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 23 Instagram influencers like this in Italy for you to connect with.
+hits: 25
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 25 Instagram influencers like this in Italy for you to contact.
 profiles:
   - username: "brokendollhatesyou"
     fullname: >-
@@ -67,6 +67,18 @@ profiles:
     id: ck1359q7f0erw0i195qx9r9o2
     verified: false
     hashtags: "#bw, #love, #photooftheday, #instagood"
+  - username: "francesprinivoice"
+    fullname: >-
+      𝙁𝙧𝙖𝙣𝙘𝙚𝙨𝙘𝙖 𝙋𝙧𝙞𝙣𝙞 𝙥𝙤𝙡𝙚 𝙙𝙖𝙣𝙘𝙚
+    bio: >-
+      Finalista TSQV, IGT etc 🤍@florence_poledance_studio in Oltrarno e a Campo di Marte 🥇Bikini 🥇ÉlitePoler 💄vitiligomodel @makeupforever 🇨🇦WorldGames19
+    location: "Italy"
+    followers: 23892
+    engagement: 152
+    commentsToLikes: 0.057827
+    id: ckap6yoqyhx010i78pa4wujp7
+    verified: false
+    hashtags: "#firenzepole, #love, #florencepoledance, #fc"
   - username: "marikawaldorf"
     fullname: >-
       EXOTIC👠POLEDANCER
@@ -103,18 +115,6 @@ profiles:
     id: ck55pd8akabbg0i11nt034y3y
     verified: false
     hashtags: "#healthy, #poletrick, #art, #fitnessbody"
-  - username: "francesprinivoice"
-    fullname: >-
-      𝙁𝙧𝙖𝙣𝙘𝙚𝙨𝙘𝙖 𝙋𝙧𝙞𝙣𝙞 𝙥𝙤𝙡𝙚 𝙙𝙖𝙣𝙘𝙚
-    bio: >-
-      Élite Poler scienze motorie FinaleIGT INVERTIKAPRINI10 10%OFF Bikini IFBBproleague 🥇BikiniAngels 🥇Pole Art19 🥇Artistic Pole18/19 NazionalePolesport
-    location: "Italy"
-    followers: 27890
-    engagement: 166
-    commentsToLikes: 0.092553
-    id: ckap6yoqyhx010i78pa4wujp7
-    verified: false
-    hashtags: "#legs, #love, #bikiniprep, #flexibility"
   - username: "nikykikka_"
     fullname: >-
       𝑁𝑖𝑐𝑜𝑙𝑒 𝑃𝑟𝑖𝑚𝑜 ♡

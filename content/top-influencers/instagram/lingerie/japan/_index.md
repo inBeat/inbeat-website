@@ -1,12 +1,24 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Japan In 2023
+title: Top 10 Lingerie Instagram Influencers In Japan In 2024
 description: >-
-  Find top lingerie Instagram influencers in Japan in 2023. Most popular hashtags: #lingerie #gravure #fashion #selfie.
+  Find top lingerie Instagram influencers in Japan in 2024. Most popular hashtags: #lingerie #gravure #selfie #japanesegirl.
 platform: Instagram
-hits: 59
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 59 Instagram influencers like this in Japan for you to connect with.
+hits: 60
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 60 Instagram influencers like this in Japan for you to collaborate.
 profiles:
+  - username: "reikamarianna"
+    fullname: >-
+      Reika MariannA / 宮崎麗果
+    bio: >-
+      美容🧬腸温活🌿植物療法 CEO @vitolabo_official @herbacie_official skincare @genis.official bath products @nukashop.official Lingerie @re_by_reinest_official
+    location: "Japan"
+    followers: 369468
+    engagement: 281
+    commentsToLikes: 0.014640
+    id: ck5hia7xicg660i11dw587pue
+    verified: false
+    hashtags: "#birkin25, #parisfashionweek2023, #birkinshadow, #f8spider"
   - username: "mokochan319"
     fullname: >-
       桜もこ（Moko Sakura）
@@ -19,6 +31,30 @@ profiles:
     id: ckaowuwpcak0r0i78d41ek4np
     verified: false
     hashtags: "#japan, #white, #japanesegirl, #instagram"
+  - username: "_kana627_"
+    fullname: >-
+      Kana
+    bio: >-
+      Tokyo ⇔ Fukuoka 🇯🇵 Freelance 男の子mama🍼👶🏻
+    location: "Japan"
+    followers: 390577
+    engagement: 158
+    commentsToLikes: 0.010908
+    id: ck5bukcwyhxz40i11ai55fbix
+    verified: true
+    hashtags: "#lingerie, #pardon, #cyberjapan, #seekhairdesign"
+  - username: "naomi_majima"
+    fullname: >-
+      真島 なおみ (Naomi Majima)
+    bio: >-
+      ゼロイチファミリア所属 1998.3.17 171cm "令和の愛人" とも呼んでいただきます💭💋 お芝居・DJ・歌・ダンス・モデル /コスメ収集🫧 ヤンジャン表紙・週刊プレイボーイ・FRIDAY・FLASH etc.
+    location: "Japan"
+    followers: 1008691
+    engagement: 44
+    commentsToLikes: 0.006773
+    id: ck8t1h4oyvr0a0j7824ghph60
+    verified: false
+    hashtags: "#model, #selfie, #asiangirl, #japan"
   - username: "_rosemelle"
     fullname: >-
       Rose Melle
@@ -55,18 +91,6 @@ profiles:
     id: ck8tcr6510d350j78s2omtfgd
     verified: true
     hashtags: "#gravure, #selfie, #fashion, #lingerie"
-  - username: "naomi_majima"
-    fullname: >-
-      真島 なおみ (Naomi Majima)
-    bio: >-
-      ゼロイチファミリア所属 1998.3.17(22) 170cm💓マイメロが好きです 役者・モデル・歌 ヤンジャン表紙・週刊プレイボーイ・FRIDAY・FLASH etc.
-    location: "Japan"
-    followers: 374038
-    engagement: 278
-    commentsToLikes: 0.010239
-    id: ck8t1h4oyvr0a0j7824ghph60
-    verified: false
-    hashtags: "#pinupgirl, #comel, #sexy, #sexyhot"
   - username: "tatsumi_natsuko"
     fullname: >-
       辰巳奈都子
@@ -103,28 +127,4 @@ profiles:
     id: ck6tinlu4129d0j71suuuyhbc
     verified: false
     hashtags: "#japan, #selfie, #lingerie, #code"
-  - username: "kanou_yume_0110"
-    fullname: >-
-      叶夢(かのうゆめ)
-    bio: >-
-      マイウェイプロモーション所属 お仕事の御依頼は事務所又はDMまでお願い致します。 🌸叶 夢 (かのう ゆめ) 🌸グラビアアイドル 🌸Twitter / Cheerz 🌸撮影会(平日リクエスト受付中) / ビデオ通話(リクエスト受付中) ※スタジオズームのHPからお問い合わせください。DM不可。
-    location: "Japan"
-    followers: 116752
-    engagement: 185
-    commentsToLikes: 0.012476
-    id: ck5c5wrtr4aen0i11adznwbpj
-    verified: false
-    hashtags: "#instabeauty, #fabulous, #instaart, #igers"
-  - username: "stilbruch_photography"
-    fullname: >-
-      Stilbruch_photography
-    bio: >-
-      Photographer based near Munich. 🔜 Split - Mykonos
-    location: "Japan"
-    followers: 99043
-    engagement: 186
-    commentsToLikes: 0.010653
-    id: ck5hd6bqelq3d0i11gakvs7nf
-    verified: false
-    hashtags: "#instalove, #sensual, #hot, #fashion"
 ---

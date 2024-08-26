@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Malaysia In 2023
+title: Top 10 Travel Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top travel Instagram influencers in Malaysia in 2023. Most popular hashtags: #cuticutimalaysia #travel #travelphotography #tanned.
+  Find top travel Instagram influencers in Malaysia in 2024. Most popular hashtags: #bangkok #mensfashion #roamtheplanet.
 platform: Instagram
-hits: 125
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our platform has 125 Instagram influencers like this in Malaysia for you to work with.
+hits: 167
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database has 167 Instagram influencers like this in Malaysia for you to collaborate.
 profiles:
-  - username: "dududedoodle"
+  - username: "dan_foong"
     fullname: >-
-      DuDu Kent
+      Dan Foong
     bio: >-
-      Art, Coffee, Food and Travel #DuDuXplores #DuDuCoffeeArt ✉️dududedoodle@gmail.com
+      Travel | Lifestyle | Music 🌏 Sydney 🇦🇺 📮 danielfoong@hotmail.com 🔻 New YouTube Vid! 🎙
     location: "Malaysia"
-    followers: 60959
-    engagement: 153
-    commentsToLikes: 0.005005
-    id: ck136puxd7ocb0i19eu71b4fl
+    followers: 14558
+    engagement: 681
+    commentsToLikes: 0.033550
+    id: ck8t2cdxdyy6z0j78ryr36cbm
     verified: false
-    hashtags: "#dududedoodle, #igfeedsmenarik, #coffeepainting, #my"
-  - username: "yixuenn_travellife"
+    hashtags: "#malaysian, #newzealand, #newzealandlife, #traveladdict"
+  - username: "med.chou"
     fullname: >-
-      Y I X U E N
+      mohamed.choukani | 🇹🇳
     bio: >-
-      Travel & Lifestyle 🤿 SCUBA DIVER | FREEDIVER | MERMAID🧜🏻‍♀️ 🌍 @yixuenn_freedive 📕小红书: yixuenn_travellife DM for sponsorship/events/collab
+      FOOD & TRAVEL CONTENT CREATOR @eatlikealocal_tn Medchou.contact@gmail.com
     location: "Malaysia"
-    followers: 34052
-    engagement: 70
-    commentsToLikes: 0.029388
-    id: ck9haaripbtpg0j78xe6xqf99
+    followers: 572365
+    engagement: 436
+    commentsToLikes: 0.062156
+    id: cl8vb6ad2ab380i23gx2w1bpv
     verified: false
-    hashtags: "#travelphotography, #scubadiver, #bikini, #christmas"
-  - username: "sueannekang"
+    hashtags: ""
+  - username: "martasielska.pl"
     fullname: >-
-      Sueanne 施格
+      Marta Sielska ✩ Phuket, Thailand
     bio: >-
-      努力洗版丢回照片中⚠️ TRAVEL ADDICT ✈️✨ FOODIE 🍣 👩‍👦 Penang 🇲🇾 🔗 小红书： sueannekang Food page @sueanneeats #sueanneeats #sueannetravel #sueannestaycation ♥️
+      ❖ Content Creator | UGC | Travel & Lifestyle | Vegan | Digital Nomad ♡ I help you with traveling and moving to Thailand ➞ Cooperation: DM 📩 and below:
     location: "Malaysia"
-    followers: 211331
-    engagement: 65
-    commentsToLikes: 0.016611
-    id: ck5px66voqb0s0i114cja9a4o
+    followers: 25507
+    engagement: 531
+    commentsToLikes: 0.064114
+    id: ck8t2dhr2z2d70j78iwvd63r3
     verified: false
-    hashtags: "#sueannetravel, #sueanneinlangkawi, #sueanneeats, #cuticutimalaysia"
-  - username: "sellysherwin"
+    hashtags: "#thailandtravel, #amazingthailand, #tajlandia, #thailand"
+  - username: "hanipras"
     fullname: >-
-      Selly Sherwin
+      P r a s t i a n i ✨| Place to Go
     bio: >-
-      #TravellyDiary #OutfitLly Woman Lifestyle •Tiktok [170k] & Youtube [42k]:sellysherwin •📍SBY Inquiries 📩DM/Sherwinselly@gmail.com ⤹ Link Product & New🎥
+      • Traveling • Parenting • Review • Bussines Inquiries, DM📩 Link produk klik di bio🔗⬇️
     location: "Malaysia"
-    followers: 81600
-    engagement: 44
-    commentsToLikes: 0.063610
-    id: ck5chnw8sr4qg0i11jvod24bm
+    followers: 3123
+    engagement: 829
+    commentsToLikes: 0.050855
+    id: ck6uc10jycuvv0j71n81thoox
     verified: false
-    hashtags: "#racunlly, #charisceleb, #promogopay, #wondelfullindonesia"
-  - username: "feniasworld"
+    hashtags: "#fiance, #ringbox, #bandungfoodies, #wallsign"
+  - username: "yashpadhye"
     fullname: >-
-      Fenia
+      YASH PADHYE
     bio: >-
-      Model | Traveller | Influencer | Artist 📸 My pics: 44 countries Manager : @photravel_iphone 📩 feniasworld@gmail.com 📌Malaysia @sazzito
+      Travel & Lifestyle 🔺YouTube : Yash & Nilam [1.2 Million Subscriber’s] ⭐️Snapchat : yashpadhye 🤑WEBSITE LINK⬇️
     location: "Malaysia"
-    followers: 53301
-    engagement: 349
-    commentsToLikes: 0.044948
-    id: ck60029k1ctu60i14dgo1jhth
+    followers: 198917
+    engagement: 2299
+    commentsToLikes: 0.010473
+    id: ck8weyv5zeu5j0j78ambg0qin
     verified: false
-    hashtags: "#girl, #beach, #valentineday, #smile"
-  - username: "ritanassiri"
+    hashtags: "#skincare, #skincareroutine, #singapore, #singaporetravel"
+  - username: "st.srh"
     fullname: >-
-      RITA NASSIRI ✨ Traveling Soul
+      Sarah M.
     bio: >-
-      🌏 Travel • Learn • Grow 🌴 #NatureAddict ❤️ Self-Love & Positive Thinking 💫 📍 Cosmopolitan “Nationalism is an infantile disease” A.Einstein
+      Fashion, Beauty & Travel @rahsaeofficial
     location: "Malaysia"
-    followers: 31686
-    engagement: 770
-    commentsToLikes: 0.014109
-    id: ck55jfqrnwxqs0i11c5cvf3ig
+    followers: 94577
+    engagement: 490
+    commentsToLikes: 0.006430
+    id: ckap3zou4576h0i78mhpodaf4
     verified: false
-    hashtags: "#chefchaouen, #reels, #morocco, #travelphotography"
-  - username: "ohmykaylagirl_k"
+    hashtags: "#advancednightrepair, #libre, #yslbeautymy, #freedomdoesntwait"
+  - username: "drsean_l"
     fullname: >-
-      K A Y L A💋
+      Sean Lim
     bio: >-
-      ✈️ Airasia Brand Ambassador 💸 Entrepreneur Travel | Lifestyle | Business **Living my best everyday life😉🇨🇭**
+      Mentally based in Japan Travel photographer* Occasionally surgeon *I travel between work and home
     location: "Malaysia"
-    followers: 40502
-    engagement: 361
-    commentsToLikes: 0.027983
-    id: ck9ha754wbfqe0j781ij27o2e
+    followers: 13128
+    engagement: 475
+    commentsToLikes: 0.073682
+    id: ckaow8hdb7td90i78a9868ty0
     verified: false
-    hashtags: "#airasia, #flightattendant, #bangkoklife, #beauty"
-  - username: "kayeepo"
+    hashtags: "#citykillerz, #stayandwander, #yourshotphotographer, #madewithlightroom"
+  - username: "pojiegraphy"
     fullname: >-
-      譚嘉儀 𝒦𝒶𝓎𝑒𝑒 𝒯𝒶𝓂
+      pojiegraphy
     bio: >-
-      Singer/ Actress/ TV Host, Music, Travel, Fashion, Motor Bike🏍 📩Job contact: Ella 💻Office : 2335 2305 ☎️ Email : ella.heung@tvb.com.hk 🎥My Latest MV
+      travel blogger & content creator based in kuala lumpur who wrote for www.pojiegraphy.com & can be reached at hello@pojiegraphy.com
     location: "Malaysia"
-    followers: 170188
-    engagement: 250
-    commentsToLikes: 0.015586
-    id: ck5c5ipe33jpk0i1117y74mln
-    verified: true
-    hashtags: "#happysunday, #love, #youtubechannel, #kayeetam"
-  - username: "rdnwan_"
-    fullname: >-
-      One
-    bio: >-
-      👨🏻‍💻 Engr ✈️ Millennial Traveler 📱DM for Collab/Review 📩 riduanwahab@icloud.com Get your amazing vaseline men face wash here 🔽
-    location: "Malaysia"
-    followers: 17432
-    engagement: 435
-    commentsToLikes: 0.021949
-    id: ck0w5h7yk3mw40i1936y3we96
+    followers: 28383
+    engagement: 393
+    commentsToLikes: 0.049537
+    id: ck14iav2iehrh0i19pi9ar0kw
     verified: false
-    hashtags: "#instagood, #mensfashion, #duitnowqr, #igers"
-  - username: "alfredchia"
+    hashtags: "#timbs, #builtforthebold, #thisisouroutdoors, #timberland"
+  - username: "a.helmiy"
     fullname: >-
-      Alfred chia
+      Helmiy
     bio: >-
-      •KUL / PEN •MY 📍 •Travel || Lifestyle || Food || Gym
+      ⦿ Fitness | Travel | Urban Planner | Architecture | Nature 🌿 ⦿ Email or DM for Collab 📩
     location: "Malaysia"
-    followers: 22660
-    engagement: 361
-    commentsToLikes: 0.020491
-    id: ck5hk1g5nhmf20i11gwfyg5px
+    followers: 30216
+    engagement: 379
+    commentsToLikes: 0.020575
+    id: ck0w5h7td3muv0i19xmzsjf0d
     verified: false
-    hashtags: "#throwback, #workout, #stayathome"
+    hashtags: "#smile, #ootd, #model, #igers"
+  - username: "lamsailong"
+    fullname: >-
+      Sailong Lam 🐋丨 Hong Kong 🇭🇰
+    bio: >-
+      著作 《#就活在未知裡 》 Follow me for more travel inspirations 🌏 Enquiry:silaslamkl@gmail.com
+    location: "Malaysia"
+    followers: 68987
+    engagement: 366
+    commentsToLikes: 0.014651
+    id: ck15q95qr1p7n0i195x9g2gbe
+    verified: false
+    hashtags: "#visitjapan, #taiwan, #japan, #turtles"
 ---

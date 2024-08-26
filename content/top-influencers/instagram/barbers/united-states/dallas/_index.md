@@ -1,24 +1,12 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Dallas In 2023
+title: Top 10 Barbers Instagram Influencers In Dallas In 2024
 description: >-
-  Find top barbers Instagram influencers in Dallas in 2023. Most popular hashtags: #barber #haircut #dallasbarber #barbershopconnect.
+  Find top barbers Instagram influencers in Dallas in 2024. Most popular hashtags: #barber #dallasbarber #barberlife #haircut.
 platform: Instagram
-hits: 35
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 35 Instagram influencers like this in Dallas, United States for you to work with.
+hits: 38
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 38 Instagram influencers like this in Dallas, United States for you to contact.
 profiles:
-  - username: "thestarsbarber"
-    fullname: >-
-      Barry Hairston /TheStarsBarber
-    bio: >-
-      🔵 AList 🧳#DallasBarber 🔵 💪🏽Junkie 🔵 @jetaime211 👸 🔵 @schedulicity #brandambassador 🔵 @gillette🪒#BarberCouncil 🔵 @seen on 🎥 @uninterrupted @overtime
-    location: "United States"
-    followers: 48926
-    engagement: 222
-    commentsToLikes: 0.006922
-    id: ck5q89pw353pb0i111ops9k9v
-    verified: false
-    hashtags: "#topnine, #barbersociety, #skinfade, #hairbeauty"
   - username: "abelthebarber"
     fullname: >-
       Dallas Barber
@@ -30,7 +18,31 @@ profiles:
     commentsToLikes: 0.035763
     id: ck15rspkg9ia20i19y65rx7xa
     verified: false
-    hashtags: "#barbering, #freshcut, #dallascowboys, #barber"
+    hashtags: "#texasbarber, #barberworld, #haircut, #mensfashion"
+  - username: "thestarsbarber"
+    fullname: >-
+      Barry Hairston
+    bio: >-
+      A List Barber 🧳 #DallasBarber #Barber 💪🏽Junkie @jetaime211👰‍♀️💍 Brand Partnerships 🤝 🌎 @gillette @gammaplusna @stylecraftpro @bosleymedical
+    location: "United States"
+    followers: 107802
+    engagement: 189
+    commentsToLikes: 0.007361
+    id: ck5q89pw353pb0i111ops9k9v
+    verified: false
+    hashtags: "#barbers, #barber, #skinfade, #dallasbarber"
+  - username: "deanothebarber_"
+    fullname: >-
+      LA Barber Dean Lauer ✪
+    bio: >-
+      • Men’s hairstylist • @studio57online • God fearing / Risk taker • #prettybarbers • Salon republic unit 57 (book now below)
+    location: "United States"
+    followers: 407012
+    engagement: 787
+    commentsToLikes: 0.007278
+    id: ckaorsv41olsr0i78hpwbjjjc
+    verified: false
+    hashtags: "#hollywoodbarber, #viral, #hairstyles, #menshair"
   - username: "huntdabarber"
     fullname: >-
       JustBnHunt
@@ -43,6 +55,18 @@ profiles:
     id: ck6u7xfseo8cj0j71xsjw070p
     verified: false
     hashtags: "#nastybarbers, #barbersinctv, #baldandbearded44seriebearded70, #barbernomics"
+  - username: "bhonstylez"
+    fullname: >-
+      Dallas Barber •  Angel
+    bio: >-
+      • Licensed Professional • Dallas, TX • APPOINTMENTS- Click the link below 👇🏽
+    location: "United States"
+    followers: 34244
+    engagement: 539
+    commentsToLikes: 0.016865
+    id: ckaoshlqwrjvm0i785cw6bruk
+    verified: false
+    hashtags: "#addisonbarber, #dentonbarber, #sanantoniobarber, #irvingbarber"
   - username: "tink_tinkk"
     fullname: >-
       Dallas barber
@@ -54,19 +78,7 @@ profiles:
     commentsToLikes: 0.015695
     id: ck5q7c1sm0tov0i11qvqtdy12
     verified: false
-    hashtags: "#booknow, #femalebarber, #barber, #atlanta"
-  - username: "bhonstylez"
-    fullname: >-
-      Dallas Barber •  Angel
-    bio: >-
-      • Licensed Professional • Dallas, TX • APPOINTMENTS- Click The Link Down Below 👇🏽
-    location: "United States"
-    followers: 26404
-    engagement: 413
-    commentsToLikes: 0.014702
-    id: ckaoshlqwrjvm0i785cw6bruk
-    verified: false
-    hashtags: ""
+    hashtags: "#atlanta, #femalebarber, #atl, #travelingbarber"
   - username: "matthewgraber"
     fullname: >-
       Matt Graber
@@ -79,6 +91,18 @@ profiles:
     id: ck137f2a2b84b0i19fl0vphpx
     verified: false
     hashtags: "#blackouttuesday, #grabergrid, #wfh, #resetthedesk"
+  - username: "jrp10"
+    fullname: >-
+      John Rhys Plumlee
+    bio: >-
+      Christian // UCF Football and Baseball ⚔️ NIL Inquiries: @jeffreylweiner
+    location: "United States"
+    followers: 64278
+    engagement: 1259
+    commentsToLikes: 0.008029
+    id: cl0huzwd7jg650i239nd1rrse
+    verified: false
+    hashtags: "#ucfamily, #knightnation, #orlandoflorida, #oviedo"
   - username: "kdemery_"
     fullname: >-
       Mr. Demery
@@ -91,40 +115,16 @@ profiles:
     id: ck15rsofo9i4f0i19ibvl3m7q
     verified: false
     hashtags: "#grandprairiebarber, #arlingtonbarber, #irvingbarber, #faded"
-  - username: "worldclassbarbering"
+  - username: "gillie_edits"
     fullname: >-
-      ♛WorldClassBarbering♛
+      GillieEdits
     bio: >-
-      Posting the Best Haircuts In the WORLD 🌎 For Features Tag @WorldClassBarbering and use hashtag #worldclassbarbering For Advertising: DM 📤
+      ✖️Where Sports & Art Collide ✖️ NY based artist 🇺🇸 ✖️self taught ✖️ DM for Custom edits ✖️YouTube 🔻
     location: "United States"
-    followers: 38191
-    engagement: 313
-    commentsToLikes: 0.042969
-    id: ck5c6es9e5afb0i117ca8hb6w
+    followers: 15772
+    engagement: 1290
+    commentsToLikes: 0.016394
+    id: ck13d16o8357m0i19vxn12x2y
     verified: false
-    hashtags: "#fadeuy, #blurryfade, #denverbarber, #wahl"
-  - username: "angelluuhhh_"
-    fullname: >-
-      Angela Nguyen ✪
-    bio: >-
-      Instructor @californiabarberbeautycollege Owner of Big Boy's Barbershop 🏆39x Award Winning Barber
-    location: "United States"
-    followers: 20288
-    engagement: 306
-    commentsToLikes: 0.024636
-    id: ck13bxd39xlig0i19kxr3v8xt
-    verified: false
-    hashtags: "#ladybarber, #haircut, #bigboysbarbershop, #sandiegobarbershop"
-  - username: "acyisfaster"
-    fullname: >-
-      Lil Acy⛄️
-    bio: >-
-      @moodisset🔥 RIP🖤DEBU Dallas, Tx⭐️
-    location: "United States"
-    followers: 10467
-    engagement: 406
-    commentsToLikes: 0.083389
-    id: ck5zollupqtp60i14gezaql9b
-    verified: false
-    hashtags: "#viral, #topflow, #barbers, #funny"
+    hashtags: "#nfl, #graphicdesign, #graphicdesigner, #goat"
 ---

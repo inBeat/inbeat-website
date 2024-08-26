@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food Instagram Influencers In Cali In 2023
+title: Top 10 Food Instagram Influencers In Cali In 2024
 description: >-
-  Find top food Instagram influencers in Cali in 2023. Most popular hashtags: #food #cali #colombia #travel.
+  Find top food Instagram influencers in Cali in 2024. Most popular hashtags: #food #cali #colombia #travel.
 platform: Instagram
-hits: 14
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: inBeat holds 14 Instagram influencers like this in Cali, Colombia for you to collaborate.
+hits: 12
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 12 Instagram influencers like this in Cali, Colombia for you to connect with.
 profiles:
   - username: "natyarbelaezs"
     fullname: >-
@@ -19,18 +19,18 @@ profiles:
     id: ck6u3hnslxu800j717qzscv1u
     verified: false
     hashtags: "#triathletesfood, #trilifestyle, #triathletelife, #runnerscommunity"
-  - username: "theclub1991"
+  - username: "iroramirezs"
     fullname: >-
-      G a s t r o n o m i c o ®
+      Iro Ramirez
     bio: >-
-      🎩 Antojate con nuestras Reseñas ❤️ Aprendamos a Cocinar juntos 🏡Cali-Co. ⚡@karigarcesmorales @juansebascalvo
+      🇨🇴 VideoBlogger Colombiano 🎬 Comelón y Contador de historias 🍔 Solo publico lo que me gusta 😎 📧 WhatsApp (+57) 322-9503651
     location: "Colombia"
-    followers: 24336
-    engagement: 337
-    commentsToLikes: 0.541688
-    id: ck6u9mpqkyezz0j71p26ise4j
+    followers: 304410
+    engagement: 257
+    commentsToLikes: 0.019894
+    id: ck55pkldyarck0i114soiugjc
     verified: false
-    hashtags: "#calicultural, #sanantoniocultural, #yoquieroacali, #calivalle"
+    hashtags: "#colombia, #comidacolombiana, #riohacha, #comidacallejera"
   - username: "soy.hache"
     fullname: >-
       Heverth Aponte
@@ -67,18 +67,6 @@ profiles:
     id: ck5q2qrfnhcc50i11qd0qax73
     verified: false
     hashtags: "#healthspo, #bici, #mtb, #patrocinado"
-  - username: "marialejamirandap"
-    fullname: >-
-      -M A R I A  A L E J A N D R A-
-    bio: >-
-      📍Cali |Co •ℂ𝕣𝕖𝕒𝕟𝕕𝕠 𝕝𝕒 𝕧𝕚𝕕𝕒 𝕢𝕦𝕖 𝕒𝕞𝕠 • •MIP•|Icesi Creadora de 🧁:@factorycakebymale
-    location: "Colombia"
-    followers: 8470
-    engagement: 510
-    commentsToLikes: 0.041288
-    id: ckaouqrjw1esd0i78decx4wuk
-    verified: false
-    hashtags: "#playa, #picoftheday, #ootd, #repostdolookdodia"
   - username: "calicolfit"
     fullname: >-
       LUZ MARINA GARCIA A 🐼🦄
@@ -115,6 +103,18 @@ profiles:
     id: ckap5376j9zuo0i786btfdgqt
     verified: false
     hashtags: "#holiday, #takayama, #montenegro, #adriaticsea"
+  - username: "marrana.eats"
+    fullname: >-
+      Mariana Arango A
+    bio: >-
+      🌍 𝙫𝙞𝙖𝙟𝙖𝙢𝙤𝙨 𝙥𝙖𝙧𝙖 𝙘𝙤𝙢𝙚𝙧, 𝙘𝙤𝙢𝙚𝙢𝙤𝙨 𝙥𝙖𝙧𝙖 𝙫𝙞𝙖𝙟𝙖𝙧 👩🏼‍🍳chef ✈️ agencia de viajes 🍽 reviews y recetas 📲info
+    location: "Colombia"
+    followers: 62801
+    engagement: 134
+    commentsToLikes: 0.033615
+    id: ck5ch6qvwq7de0i11f0c2mnfo
+    verified: false
+    hashtags: "#viajes, #lima, #restaurantes, #travel"
   - username: "lacoachdevida"
     fullname: >-
       Susana Arango

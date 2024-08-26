@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Indonesia In 2023
+title: Top 10 Travel Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top travel Instagram influencers in Indonesia in 2023. Most popular hashtags: #travel #indonesia #hotel.
+  Find top travel Instagram influencers in Indonesia in 2024. Most popular hashtags: #indonesia #travel #ubud #traveler.
 platform: Instagram
-hits: 1684
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our database holds 1684 Instagram influencers like this in Indonesia for you to pitch.
+hits: 1853
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 1853 Instagram influencers like this in Indonesia for you to work with.
 profiles:
-  - username: "milla_khs"
+  - username: "riccorick"
     fullname: >-
-      MILLA HISYAM S.Pd 🇲🇨🇸🇦
+      Ricco Kurniawan
     bio: >-
-      LIFESTYLE,BEAUTY,FOOD,TRAVEL JOGJA Pp/Endorse(DM/Email/Wa CP) 📩millakhs1999@gmail.com TIKTOK 30K CEO @myndmanagement @rioslvs_ 🔒 Wa Cp (Mario) 👇🏻
+      #photo | #menswear | #travel Business Inquiries : riccokurniawan@yahoo.com Dreamer. Believer. Whatever!
     location: "Indonesia"
-    followers: 122173
-    engagement: 408
-    commentsToLikes: 0.025745
-    id: ckf5s6zluewgv0j232p2dmoz5
+    followers: 168094
+    engagement: 686
+    commentsToLikes: 0.019351
+    id: ck5hlvhjskxt90i11bnnrklom
     verified: false
-    hashtags: "#pesanuntuknur, #thatskygameid, #glowingjuicyskin, #kelilingbarengbecakichitan"
-  - username: "leo_edw"
+    hashtags: "#grwm, #lessiswore, #outfit, #pauseshots"
+  - username: "rizmazara"
     fullname: >-
-      Leonardo Edwin
+      Rizma Dzikri Azahra
     bio: >-
-      nature nerd 🏕 travel addict 🚲 avgeek✈️ (Manager: +62 82230193060 @jehianps)
+      • Travel with Style • Dm or email for bussines 📩 zararizma@gmail.com 📍Bandung, Indonesia
     location: "Indonesia"
-    followers: 805594
-    engagement: 721
-    commentsToLikes: 0.005083
-    id: ck5pyjegswaun0i11c6ufukkw
+    followers: 60032
+    engagement: 3900
+    commentsToLikes: 0.056578
+    id: ck5hpfrn8raam0i112sjcqeit
     verified: false
-    hashtags: "#koinku2021, #kompetisigratis, #lombagratis, #callforpaper"
-  - username: "thewaytowherever"
+    hashtags: "#hijabstyle, #exploremalang, #hijabinspiration, #cafebandung"
+  - username: "apoorvamishra_"
     fullname: >-
-      TRAVEL • PHOTOGRAPHY • AUSTRALIA
+      Apoorvaa
     bio: >-
-      ☽ Erin & Jackson | Adventure Travel ≋ All things travel & photography ⤵ Learn photography like us ✩ Our creative agency @lensandlumen
+      All about Fashion▪️Makeup▪️skin care ▪️Lifestyle ▪️ Travel Snap ID :- apoomish Mail - team.apoorvamishra@gmail.com
     location: "Indonesia"
-    followers: 26488
-    engagement: 361
-    commentsToLikes: -1.921547
-    id: clb3r3c723lnc0i231jaa5rpt
+    followers: 502755
+    engagement: 578
+    commentsToLikes: 0.005839
+    id: ck9hcq9vxmk7z0j78zmdh5zf5
     verified: false
-    hashtags: "#beautifuldestinations, #travel, #traveltheworld, #explorethe"
-  - username: "pujirisee"
+    hashtags: "#foryou, #foryoupage, #reelsinstagram, #reels"
+  - username: "compass.couple"
     fullname: >-
-      Puji Setyowati | Indonesia 🇮🇩
+      WES & ENES | Travel Couple
     bio: >-
-      📩 DM/Email for Business/Endorse 🌍 Lifestyle | Travel Enthusiast 👣 Part of @travelculture.id 📍 Semarang, Jawa Tengah
+      ✈️ Sold everything we owned to #travel the world. 📍 #Denver #Colorado ✉ Partnerships@compasscouple.com 👇 Travel Blog | Media Coverage 🌍
     location: "Indonesia"
-    followers: 20362
-    engagement: 342
-    commentsToLikes: 0.076215
-    id: ck8sz9s3gnlz00j7832bgegj9
+    followers: 20592
+    engagement: 686
+    commentsToLikes: 0.066888
+    id: ck8t4a91761440j78glp5s3jl
     verified: false
-    hashtags: "#potala, #paramountvillagesemarang, #paramountland, #paramountvillage"
-  - username: "rizkypepew"
+    hashtags: "#ushuaia, #dativeapp, #travelcouples, #couplegoals"
+  - username: "zia_suarez"
     fullname: >-
-      RIZKYPEPEW
+      Zia Suarez
     bio: >-
-      I mostly post Travel Tips, Illustration, Animation and Apple 🧑🏽‍🚀 • Founder @illustation.id / @pew.studio • 1/5 of @official5romeo ——
+      ✎ Lifestyle Content Creator from South Africa ➳ Ambassador @nomadixco @kimasurf ⋒ My group tours @travelwithzia
     location: "Indonesia"
-    followers: 18293
-    engagement: 341
-    commentsToLikes: 0.052768
-    id: ck15tgvvui0oh0i19mrhjcv4g
+    followers: 191308
+    engagement: 619
+    commentsToLikes: 0.064739
+    id: ck0tt22xv0tlw0i19puxwwbly
     verified: false
-    hashtags: "#illustration, #garudaindonesia, #kembalikemelbourne, #apple"
-  - username: "her_journeys"
+    hashtags: "#saltoangel, #indotrip, #capetownsouthafrica, #venezuela"
+  - username: "azizahannah"
     fullname: >-
-      ANGGEY ANGGRAINI
+      Aziza hannah
     bio: >-
-      Love to travel, share her experiences and enjoy the little joys of life 🫶🏽 🌏: 𝚠𝚠𝚠.𝚑𝚎𝚛𝚓𝚘𝚞𝚛𝚗𝚎𝚢𝚜.𝚌𝚘𝚖 📺: 𝚢𝚘𝚞𝚝𝚞𝚋𝚎.𝚌𝚘𝚖/𝚑𝚎𝚛_𝚓𝚘𝚞𝚛𝚗𝚎𝚢𝚜 📍Bali, Indonesia
+      Traveling & Hiking 🇮🇩 Endorsement/campaign/collabs by 👉🏻 DM 📍 Wnsb Tiktok 👇🏻
     location: "Indonesia"
-    followers: 183483
-    engagement: 290
-    commentsToLikes: 6.448539
-    id: ck0w287kqn2pj0i19lqinfn4t
+    followers: 41288
+    engagement: 476
+    commentsToLikes: 0.033657
+    id: ck5qa0armdwoi0i11djeyox79
     verified: false
-    hashtags: "#sahabatperjalananmu, #bliblisahabatperjalananmu, #pastipuaspastidiblibli, #paidpromote"
-  - username: "dsenjaya89"
+    hashtags: "#wonosobo, #pendaki, #lfl, #sindorosumbing"
+  - username: "nomaddelia_"
     fullname: >-
-      DODY SENJAYA | TRAVEL BLOGGER
+      Delia Melviyanti
     bio: >-
-      LANGKAHKU‼️ Part of @transmateindonesia 🇮🇩Travelling and Lifestyle #langkahdody 📩 hello@langkahdody.com 📍JAKARTA tiktok.com/@langkahdody
+      Beware ! Racun Travel 💃 📙Writer of “Explore Bandung Handbook” 🎗@swj.ambassador 💍 @damhanalmar
     location: "Indonesia"
-    followers: 31244
-    engagement: 288
-    commentsToLikes: 0.237285
-    id: ck8tae4etre2g0j785ed85jr9
+    followers: 125036
+    engagement: 871
+    commentsToLikes: 0.040282
+    id: ck15rbed173p40i19p7qmx8eo
     verified: false
-    hashtags: "#langkahdody, #g20kebudayaan, #transmatepenghubungindonesia, #hotel"
-  - username: "ciawardhana"
+    hashtags: "#bandung, #explorechiangrai, #thailand, #explorebandung"
+  - username: "evelina_nikoliza"
     fullname: >-
-      Cia Wardhana Roesman
+      Evelina Nikoliza
     bio: >-
-      찌아 | A Radio Announcer who love k-culture and travel | MC | Korea University KLC student | @mustang88fm @radionuna Cp : chacha 081288038420
+      🅂🄸🄽🄶🄴🅁, 🄰🄲🅃🅁🄴🅂🅂, 🅅🄻🄾🄶🄶🄴🅁, midnight snacker, traveler, ψυχαναγκαστική Αν με ψάχνετε τα Σαββατοκύριακα @kalyteradeginetai 😉 ❤️ @alphatv 📺
     location: "Indonesia"
-    followers: 78957
-    engagement: 257
-    commentsToLikes: 0.023078
-    id: ck0tzq00ar4qu0i19lyssxn4p
+    followers: 143034
+    engagement: 755
+    commentsToLikes: 0.023796
+    id: ck55n9jng5qx20i11bflektzm
+    verified: false
+    hashtags: "#moments, #indonesia, #inspiration, #vuse"
+  - username: "dimasramadhan"
+    fullname: >-
+      Dimas Ramadhan
+    bio: >-
+      Dalam misi trip ke semua negara di dunia. Follow biar gak ketinggalan 🌎 68/197 | Travel, Lifestyle & Self growth 🔥 Sharing tips ✉️ +6287877582198
+    location: "Indonesia"
+    followers: 321143
+    engagement: 1624
+    commentsToLikes: 0.011685
+    id: ck0w26m0nmuqz0i19oxz7d85z
     verified: true
-    hashtags: "#explorebangkok, #ciaajakjalanjalandong, #konmustang, #binginbeach"
-  - username: "adindathomas"
+    hashtags: "#traveling, #indonesia, #nabawi, #derawan"
+  - username: "katnisfatimah"
     fullname: >-
-      Adinda N.N Thomas
+      Katnis Fatimah
     bio: >-
-      -Fashion & Travel Enthusiast - #dindadimana @kknmovie * Founder @parole.id * Event @langit.tak.beratap
+      Lifetyle & Travel• Contact: katnisfa@gmail.com
     location: "Indonesia"
-    followers: 1408514
-    engagement: 215
-    commentsToLikes: 0.002721
-    id: ck5bt8i5pfiuu0i11sbiq724q
-    verified: true
-    hashtags: "#yslbeautyid, #havaianasindonesia, #roninfitcamp, #babysitting"
-  - username: "triutamiraudani"
-    fullname: >-
-      Tri Utami Raudani
-    bio: >-
-      A Mom, Lifestyle, Parenting 📩 tamiraudani@gmail.com 📌MAMS by @travelokaxperience || AII
-    location: "Indonesia"
-    followers: 54904
-    engagement: 133
-    commentsToLikes: 0.086461
-    id: ck9wp5ktm7wmd0j78q0bu59z9
+    followers: 44811
+    engagement: 691
+    commentsToLikes: 0.044722
+    id: ck0u9t57ial790i19k1b32jrw
     verified: false
-    hashtags: "#lomboktrip, #playground, #toddlerlife, #appetonindonesia"
+    hashtags: "#lauterbrunnen, #jungfrau, #lol, #dramakonteninstagram"
 ---

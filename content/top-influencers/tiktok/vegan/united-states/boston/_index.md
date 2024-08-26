@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Boston In 2023
+title: Top 10 Vegan TikTok Influencers In Boston In 2024
 description: >-
-  Find top vegan TikTok influencers in Boston in 2023. Most popular hashtags: #fyp #vegan #foryou #foryoupage.
+  Find top vegan TikTok influencers in Boston in 2024. Most popular hashtags: #fyp #vegan #republican #democrat.
 platform: TikTok
 hits: 6
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 6 TikTok influencers like this in Boston, United States for you to collaborate.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 6 TikTok influencers like this in Boston, United States for you to collaborate.
 profiles:
   - username: "mikaelamstewart"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.084104
     id: ckbqpr5k1alwq0j23dkkxp397
     verified: false
-    hashtags: "#itwasntme, #foryou, #fyp, #pajamajam"
+    hashtags: "#pajamajam, #itwasntme, #trulyglowingselfielove, #foryou"
   - username: "conservative.humor"
     fullname: >-
       Conservative Humor
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.137265
     id: ckdi698kc7kx40j23kfpcva2q
     verified: false
-    hashtags: "#stitch, #vegan, #plantbased, #leftist"
+    hashtags: "#stitch, #plantbased, #leftist, #vegan"
   - username: "veganmumu"
     fullname: >-
       Shannon
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.401234
     id: ckavlfj1duq540j237nx3htr9
     verified: false
-    hashtags: "#mom, #davematthewsband, #floridavegan, #heal"
-  - username: "kawaiikingb"
+    hashtags: "#heal, #cats, #animallover, #nontoxic"
+  - username: "giuliasabatinoo"
     fullname: >-
-      MJ Cobra
+      giulia
     bio: >-
-      (๑˃ᴗ˂)◜✧˖° MJ ♡ The Banana King 👑 キラ キラ Energy 100%! 25 ☆ Bigender ☆ Vegan
+      vegan 🌱✨ (we’re not all like the vegan teacher i promise)
     location: "United States"
-    followers: 4459
-    engagement: 2638
-    commentsToLikes: 0.068353
-    id: ckav30jp99aym0j2355hwtnvy
+    followers: 21800
+    engagement: 1629
+    commentsToLikes: 0.306454
+    id: ckbevm1ivf82w0j239aiiq4na
     verified: false
-    hashtags: "#foryoupage, #decora, #harajukuboy, #decorafashion"
+    hashtags: "#fyp, #duet, #greenscreen, #veganteacher"
 ---

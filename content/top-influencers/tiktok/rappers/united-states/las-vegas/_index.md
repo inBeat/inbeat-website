@@ -1,12 +1,24 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Las Vegas In 2023
+title: Top 10 Rappers TikTok Influencers In Las Vegas In 2024
 description: >-
-  Find top rappers TikTok influencers in Las Vegas in 2023. Most popular hashtags: #foryou #lasvegas #fyp #duet.
+  Find top rappers TikTok influencers in Las Vegas in 2024. Most popular hashtags: #foryou #lasvegas #fyp #duet.
 platform: TikTok
-hits: 6
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 6 TikTok influencers like this in Las Vegas, United States for you to connect with.
+hits: 7
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: inBeat has 7 TikTok influencers like this in Las Vegas, United States for you to work with.
 profiles:
+  - username: "kalikoop"
+    fullname: >-
+      DunnieManJr
+    bio: >-
+      DunnieTown, USA📍 Rapper/Skater/Entrepreneur🏆 46K in the KooperGang🖤
+    location: "United States"
+    followers: 45900
+    engagement: 1845
+    commentsToLikes: 0.140113
+    id: ckcvjpvesx7ha0j23x5jehapl
+    verified: false
+    hashtags: "#kalikoop, #foryou, #skateboarding, #fyp"
   - username: "biglewwis"
     fullname: >-
       BIG LEWIS
@@ -74,11 +86,11 @@ profiles:
       an Indie Comedy Content Powerhouse deep in the Underground
     location: "United States"
     followers: 11400
-    engagement: 472
-    commentsToLikes: 0.009885
+    engagement: 481
+    commentsToLikes: 0.009350
     id: ckb9r8340nmrz0j234uuoxdhr
     verified: false
-    hashtags: "#standupcomedy, #lmao, #roastme, #funny"
+    hashtags: "#roastbattle, #lmao, #comedy, #standupcomedy"
   - username: "youngmercfire"
     fullname: >-
       Young Merc
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.032166
     id: ck9kb9w0okaxm0j78rigij2f1
     verified: true
-    hashtags: "#wholesomecontent, #originalmusic, #rapper, #sillysongs"
-  - username: "kiwifro0ot"
-    fullname: >-
-      keke
-    bio: >-
-      BLM RAPPER any prns cashapp: $kiwifro0ot
-    location: "United States"
-    followers: 52100
-    engagement: 2308
-    commentsToLikes: 0.038926
-    id: ckav9n5cth2bq0j23l6utavce
-    verified: false
-    hashtags: "#multistan, #rap, #greenscreen, #upcomingartist"
+    hashtags: "#originalmusic, #wholesomecontent, #rapper, #sillysongs"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Milan In 2023
+title: Top 10 Home Decor Instagram Influencers In Milan In 2024
 description: >-
-  Find top home decor Instagram influencers in Milan in 2023. Most popular hashtags: #homedecor #love #milano #home.
+  Find top home decor Instagram influencers in Milan in 2024. Most popular hashtags: #homedecor #home #milano #love.
 platform: Instagram
-hits: 56
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 56 Instagram influencers like this in Milan, Italy for you to contact.
+hits: 66
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 66 Instagram influencers like this in Milan, Italy for you to pitch.
 profiles:
   - username: "elisabettamarangoni"
     fullname: >-
@@ -31,30 +31,18 @@ profiles:
     id: ck8t46u1d5pc30j780ycks9q4
     verified: false
     hashtags: "#tirana, #dollar, #view, #dollars"
-  - username: "paolamarella"
+  - username: "alexstyleitaly"
     fullname: >-
-      Paola Marella
+      Alex
     bio: >-
-      #Architetto e conduttrice e per gioco mi piace parlare di #lifestyle e anche un po' di #fashion 😉
+      🇮🇹 Fashion 🥂 Lifestyle 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻 📩 𝗮𝗹𝗲𝘅𝘀𝘁𝘆𝗹𝗲𝗶𝘁𝗮𝗹𝘆@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 I have the simplest tastes. I am always satisfied with the best. (Oscar Wilde)
     location: "Italy"
-    followers: 354308
-    engagement: 144
-    commentsToLikes: 0.032874
-    id: ck55nt9z76xgb0i1176xl5t8t
-    verified: true
-    hashtags: "#adv, #monday, #milano, #ootd"
-  - username: "tegamini"
-    fullname: >-
-      Francesca Crescentini
-    bio: >-
-      🖊 Scrivo delle cose 📚 Traduco libri 🎉 Propago entusiasmi 💌 francesca@tegamini.it 👇🏻 Blog e altre mete utili
-    location: "Italy"
-    followers: 199570
-    engagement: 689
-    commentsToLikes: 0.012113
-    id: ck5zsnuxtyv1b0i145s6mboc7
+    followers: 44649
+    engagement: 352
+    commentsToLikes: 0.336715
+    id: ck6ttwl31czh90j715eu5lfoq
     verified: false
-    hashtags: "#baby, #adv, #pov, #beb"
+    hashtags: "#dapper, #streetstyle, #summer, #photooftheday"
   - username: "valentinamoreo"
     fullname: >-
       𝐕𝐚𝐥𝐞𝐧𝐭𝐢𝐧𝐚 | 𝐁𝐞𝐚𝐮𝐭𝐲 & 𝐅𝐚𝐬𝐡𝐢𝐨𝐧
@@ -67,18 +55,18 @@ profiles:
     id: ckap8nh4tp4d70i784ot7z27y
     verified: false
     hashtags: "#liketime, #outfitoftheday, #modadonna, #aesthetic"
-  - username: "basilgreenpencil"
+  - username: "andreacastrignano_official"
     fullname: >-
-      Basil Green Pencil
+      Andrea Castrignano
     bio: >-
-      Chiara&Maykol || Milan #DesignTastesGood 🌿Interior designers 👩🏻‍💻👨🏻‍💻 📍Progettiamo ristoranti/bar/hotel 📍Vetrine/scenografie 📍Ideas suppliers
+      🏠Il primo Interior designer⁣ in Italia 📺Autore di Cambio Casa, Cambio Vita e Food and Design
     location: "Italy"
-    followers: 26238
-    engagement: 213
-    commentsToLikes: 0.085241
-    id: ck6txne86yrrn0j71sdt0kd3h
-    verified: false
-    hashtags: "#xmasdecor, #funkycandles, #restaurantsdecor, #diyidea"
+    followers: 262424
+    engagement: 55
+    commentsToLikes: 0.082493
+    id: ck5zmz7cwnh8d0i146noaeq58
+    verified: true
+    hashtags: "#homeplans, #interior, #casadidesign, #homedesign"
   - username: "francescadeandre"
     fullname: >-
       Francesca De André
@@ -103,28 +91,40 @@ profiles:
     id: ck6u853kbphli0j71b27qe0lc
     verified: false
     hashtags: "#futureoftravel, #photooftheday, #photography, #photo"
-  - username: "ariannacorrado"
+  - username: "accadeintavola"
     fullname: >-
-      Arianna🎀
+      MariangelaRusso
     bio: >-
-      📍Salento 📸 Scatto foto per passione e vado sempre al mare 🗺 Alla scoperta di nuovi posti 💗 Pillole di fashion e beauty Team @raccontiamo_italia 🇮🇹
+      Bernalda- Mt-Milan Travel food and lifestyle writer Sommelier 🍷 Food experience and dinner at home Content creator Finalista cucinablogaward '18
     location: "Italy"
-    followers: 12372
-    engagement: 465
-    commentsToLikes: 0.116328
-    id: ck6ti8etx08lu0j71ventwyas
+    followers: 15348
+    engagement: 208
+    commentsToLikes: 0.078450
+    id: ck0vzivcj9bsa0i19v8p8vsa2
     verified: false
-    hashtags: "#girl, #loveisintheair, #breakfast, #sanvalentino"
-  - username: "lorenzodin"
+    hashtags: "#viaggiareinitalia, #travelling, #slowlife, #breakfast"
+  - username: "domisferra"
     fullname: >-
-      LORENZO
+      Domiziana
     bio: >-
-      — Milan info.lorenzodinoto@gmail.com
+      Rome | Milan
     location: "Italy"
-    followers: 5655
-    engagement: 1238
-    commentsToLikes: 0.069819
-    id: ck5ck7enpwain0i11tdxsqe0m
+    followers: 29869
+    engagement: 172
+    commentsToLikes: 0.026578
+    id: ck5c36435yo830i11sd1wjl9v
     verified: false
-    hashtags: "#shadow, #portraitphotography, #blackandwhitephotography, #baldandbearded"
+    hashtags: "#postitfortheaesthetic, #aesthetically, #frenchstyle, #neutralshades"
+  - username: "myway_"
+    fullname: >-
+      FRANCESCA CINÀ
+    bio: >-
+      Milan mywaydifrancescacina@gmail.com
+    location: "Italy"
+    followers: 117601
+    engagement: 21
+    commentsToLikes: 0.003854
+    id: ck55j32znw5c10i112nqbcjvy
+    verified: false
+    hashtags: "#koreanskincare, #yepoda, #kbeauty, #nailart"
 ---

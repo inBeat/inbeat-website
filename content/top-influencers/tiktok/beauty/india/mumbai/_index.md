@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Mumbai In 2023
+title: Top 10 Beauty TikTok Influencers In Mumbai In 2024
 description: >-
-  Find top beauty TikTok influencers in Mumbai in 2023. Most popular hashtags: #tiktok #india #beauty #foryou.
+  Find top beauty TikTok influencers in Mumbai in 2024. Most popular hashtags: #tiktok #india #beauty #foryou.
 platform: TikTok
 hits: 18
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: inBeat has 18 TikTok influencers like this in Mumbai, India for you to connect with.
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our database has 18 TikTok influencers like this in Mumbai, India for you to connect with.
 profiles:
   - username: "wakeupandmakeup_shradha"
     fullname: >-
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.005203
     id: ckbeym7yij4e60j233saao6hg
     verified: true
-    hashtags: "#edutok, #styleindia, #trending, #justjam"
+    hashtags: "#styleindia, #mumbaitiktok, #trending, #featureme"
   - username: "kamrankhan0005"
     fullname: >-
       kk___9125

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In San Francisco In 2023
+title: Top 10 Cosmetics Instagram Influencers In San Francisco In 2024
 description: >-
-  Find top cosmetics Instagram influencers in San Francisco in 2023. Most popular hashtags: #lashes #ootd #lash #eyelashextensions.
+  Find top cosmetics Instagram influencers in San Francisco in 2024. Most popular hashtags: #makeupartist #dalycity #octolyfamily #giftedbyipsy.
 platform: Instagram
-hits: 9
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 9 Instagram influencers like this in San Francisco, United States for you to pitch.
+hits: 13
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 13 Instagram influencers like this in San Francisco, United States for you to work with.
 profiles:
   - username: "jennyclise_"
     fullname: >-
@@ -19,6 +19,30 @@ profiles:
     id: ck5cbx4o0gbr70i11zexbfmd0
     verified: false
     hashtags: "#backbend, #yogalove, #alobackbendlovers, #yoga"
+  - username: "miemiqyu"
+    fullname: >-
+      MIEMIQYU
+    bio: >-
+      📧 Jamiequezada07@gmail.com 📍San Francisco 🇵🇭🇺🇸
+    location: "United States"
+    followers: 30435
+    engagement: 289
+    commentsToLikes: 0.076131
+    id: ck6u7oa4ympa90j71e9uajdcg
+    verified: false
+    hashtags: "#dalycity, #yesmoda, #benefitclubpink, #benefitbrows"
+  - username: "cherylshops"
+    fullname: >-
+      Cheryl Maday
+    bio: >-
+      I see it, I like it, I want it, I got it 📍 San Francisco 📧 cherylshopsblog@gmail.com
+    location: "United States"
+    followers: 18157
+    engagement: 181
+    commentsToLikes: 0.026189
+    id: ckv3cr2gdyhhg0j23sux810d9
+    verified: false
+    hashtags: "#liketkit, #ltkworkwear, #linkinbio, #ltksalealert"
   - username: "sarahjeangirl"
     fullname: >-
       Sarahjeangirl
@@ -30,7 +54,7 @@ profiles:
     commentsToLikes: 0.390241
     id: ck13c6zd4yww10i19grm8jaba
     verified: false
-    hashtags: "#gifted, #giftedbyipsy, #octolyfamily, #estatemakeup"
+    hashtags: "#octolyfamily, #giftedbyipsy, #gifted, #estatecosmetics"
   - username: "francesvc_"
     fullname: >-
       Frances CasLla
@@ -42,7 +66,7 @@ profiles:
     commentsToLikes: 0.326920
     id: ck8t5d63v9pu50j780bc8hcv4
     verified: false
-    hashtags: "#expresspartner, #highheels, #marriagegoals, #redbottoms"
+    hashtags: "#est122407, #zcreators, #highheels, #bumpstyle"
   - username: "lashedbylynelle"
     fullname: >-
       LASH EDUCATOR | 5x LASH ARTIST
@@ -66,7 +90,31 @@ profiles:
     commentsToLikes: 0.124257
     id: ck13a5aspopcw0i19vipvzx2s
     verified: false
-    hashtags: "#sacramentomodel, #sacramentoartist, #makeupartistsworldwide, #stocktonmakeupartist"
+    hashtags: "#bridemakeup, #peachyqueenblog, #mua, #bridemua"
+  - username: "createfacee"
+    fullname: >-
+      CA Makeup Artist + Hairstylist
+    bio: >-
+      Stephanie Rodriguez 🇲🇽 🪶 Makeup Artist • LA/SF📍 Bridal CFW @createfaceeweddings PR/ Inquiries: CreateFacee@gmail.com
+    location: "United States"
+    followers: 1957
+    engagement: 335
+    commentsToLikes: 0.142641
+    id: cl4l96jywtc060i23resn9vws
+    verified: false
+    hashtags: "#lahairstylist, #wakeupandmakeup, #editorial, #lamakeupartist"
+  - username: "rahmanbeauty"
+    fullname: >-
+      Mariam Rahman
+    bio: >-
+      makeup & stuff ✨ 🇨🇦📍Treaty 7 land 💌 rahmanbeauty7@gmail.com
+    location: "United States"
+    followers: 391518
+    engagement: 49
+    commentsToLikes: 0.008464
+    id: ck13cpegk1ih80i1920dq7s7z
+    verified: false
+    hashtags: "#friendswithbenefit, #powmade, #beautytips, #birdsofinstagram"
   - username: "sorinabrumariu"
     fullname: >-
       Sorina
@@ -78,53 +126,5 @@ profiles:
     commentsToLikes: 0.007984
     id: ck6ty13np12cy0j71rue1n0ak
     verified: false
-    hashtags: "#ceraveromania, #paidprojectbycerave, #cleanselikeaderm, #skinchat"
-  - username: "itslitliz420"
-    fullname: >-
-      Lit Liz 🦋🦋
-    bio: >-
-      Your favorite stoner makeup girl💄🌱💨 Bay Area, California 🌉 Tyler ❤️💍 10/08/11🥰 Email/DM for collaboration inquiries Check out my links for more✨🦋
-    location: "United States"
-    followers: 13771
-    engagement: 330
-    commentsToLikes: 0.059288
-    id: ck6ugysgh5z770j71pw2ugst7
-    verified: false
-    hashtags: "#makeupartist, #cbdwellness, #smallbusiness, #420"
-  - username: "anisamakhoul"
-    fullname: >-
-      Anisa Makhoul
-    bio: >-
-      Author, Activist, Waffle Weave Enthusiast anisamakhoul@gmail.com 🇺🇸🇱🇧Portland, OR 🧿
-    location: "United States"
-    followers: 46984
-    engagement: 155
-    commentsToLikes: 0.013927
-    id: ck6u12j4tj6hs0j71tjcq4f78
-    verified: false
-    hashtags: "#foodillustration, #sketchbook, #handprinted, #travelillustration"
-  - username: "my_lashing"
-    fullname: >-
-      For lashmakers
-    bio: >-
-      Best group for lash artists💥 Everything for eyelash extensions we buy here 👇🏼
-    location: "United States"
-    followers: 112021
-    engagement: 59
-    commentsToLikes: 0.012046
-    id: ck9we1egwi5bx0j78pf4wx53h
-    verified: false
-    hashtags: "#lashstylist, #volumelashes, #lashtrainer, #lashtech"
-  - username: "selam_romantesfaye"
-    fullname: >-
-      𝐬𝐞𝐥𝐚𝐦 𝐭𝐞𝐬𝐟𝐚𝐲𝐞
-    bio: >-
-      🦋 @st__cosmeticss loading… Ethiopian 🇪🇹
-    location: "United States"
-    followers: 879120
-    engagement: 256
-    commentsToLikes: 0.011436
-    id: ck5zqcj7uucu80i14zmaxwnmr
-    verified: false
-    hashtags: "#earlybirthdaydress"
+    hashtags: "#cleanselikeaderm, #paidprojectbycerave, #skinchat, #ceraveromania"
 ---

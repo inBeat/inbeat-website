@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In United Arab Emirates In 2023
+title: Top 10 Beauty TikTok Influencers In United Arab Emirates In 2024
 description: >-
-  Find top beauty TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #foryou #fyp #beauty #fashion.
+  Find top beauty TikTok influencers in United Arab Emirates in 2024. Most popular hashtags: #foryou #fyp #fashion #dubai.
 platform: TikTok
 hits: 72
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our database holds 72 TikTok influencers like this in United Arab Emirates for you to pitch.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 72 TikTok influencers like this in United Arab Emirates for you to collaborate.
 profiles:
   - username: "leanneeverett"
     fullname: >-

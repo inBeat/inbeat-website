@@ -1,130 +1,130 @@
 ---
-title: Top 10 Theater Instagram Influencers In 2023
+title: Top 10 Theater Instagram Influencers In 2024
 description: >-
-  Find top theater Instagram influencers in 2023. Most popular hashtags: #portrait #summervibes #photography.
+  Find top theater Instagram influencers in 2024. Most popular hashtags: #cover #theater #chanelincinema.
 platform: Instagram
-hits: 3497
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 3497 Instagram influencers like this for you to connect with.
+hits: 3828
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 3828 Instagram influencers like this for you to connect with.
 profiles:
-  - username: "_maralu_"
+  - username: "christinaaustinlopez"
     fullname: >-
-      ოa͏r1a͏nтonιou
+      Christina Austin Lopez
     bio: >-
-      եհҽ bҽsե եհíղց ɑbօմե ʍҽʍօɾíҽs ís ʍɑƙíղց եհҽʍ ▪︎Dreamer 💫 ▪︎Kindergarten teacher-Special educatior ▪︎Volunteering,theater,travel ▪︎Sifnos-Kaloskopi♡
+      tik tok: xtina_lopez (1.8M besties)💓 💌: christina@sparktalentgroup.com ◡̈ Resident Actor at Dallas Theater Center🎭 ◡̈ content creator 🤳🏼
     location: "United States"
-    followers: 5830
-    engagement: 1511
-    commentsToLikes: 0.126405
-    id: ckap38heg1zqz0i78rmoz4eca
+    followers: 15595
+    engagement: 627
+    commentsToLikes: 0.045138
+    id: ckprgreob8bv90j23fi0to843
     verified: false
-    hashtags: "#summervibes, #sifnos, #blonde, #summer2020"
-  - username: "evagelia_siriopoulou_official"
+    hashtags: "#musicaltheater, #musicaltheatre, #cinderella, #reelsxtina"
+  - username: "bahramafshariofficial"
     fullname: >-
-      evagelia_siriopoulou
+      Bahram Afshari
     bio: >-
-      Actress / Greek National Theater Drama School.
-    location: "Greece"
-    followers: 226551
-    engagement: 728
-    commentsToLikes: 0.071711
-    id: ck0w4goldyh520i199s1ssb4s
-    verified: false
-    hashtags: "#pregnant, #powerofhair, #strongisbeautiful, #pantenehair"
-  - username: "toktam_akhjavani1313"
-    fullname: >-
-      TOKTAM AKHJAVANI
-    bio: >-
-      A C T R E S S theater🎭 Cinema📽
-    location: "Iran"
-    followers: 2690
-    engagement: 2289
-    commentsToLikes: 0.120477
-    id: ck9wj0xhv4t1u0j78mm009neq
+      Iranian cinema , TV and theater actor
+    location: "India"
+    followers: 6053735
+    engagement: 583
+    commentsToLikes: 0.013233
+    id: ck0w0qccnfist0i19x99vuwk6
     verified: false
     hashtags: ""
-  - username: "eirini_sterianou"
+  - username: "stelioskritikos"
     fullname: >-
-      Ειρήνη Στεριανού 🧿
+      Stelios Kritikos
     bio: >-
-      MISS GREECE 2015 👑 💟owner of @bibas_petsboutique 🧛‍♀️actress @theaterofchanges 🎧radio producer & D.J Social and educational policy @uniofpel
+      •𝗔𝗰𝘁𝗼𝗿 🎭 •𝗢𝘄𝗻𝗲𝗿: @kastel__theater_dance_culture 🏢 📚✍︎“Ο ΠΙΚΑΣΤΡΟ ΨΑΧΝΕΙ ΤΟ ΧΡΩΜΑ ΠΟΥ ΔΕΝ ΥΠΑΡΧΕΙ” 📚✍︎ “ΟΤΑΝ Ο ΜΙΚΡΟΣ ΝΤΟΜΙΝΙΚ ΘΥΜΩΣΕ ΜΕ ΤΟ ΦΕΓΓΑΡΙ”
     location: "Greece"
-    followers: 111290
-    engagement: 817
-    commentsToLikes: 0.036043
-    id: ck5hgqhcn478b0i11wjp15f46
+    followers: 116134
+    engagement: 851
+    commentsToLikes: 0.014105
+    id: ck6tioq9c14k30j71mhf52ntd
     verified: true
-    hashtags: "#mytaste, #mychoice, #myblu"
-  - username: "nilo.n4ns1"
+    hashtags: "#niose, #viledabattles, #vileda, #nutrition"
+  - username: "esmaeil.salmani"
     fullname: >-
-      nilo.n4ns‌
+      اسماعیل سلمانی
     bio: >-
-      Photogerapher actor.theater Kalimba 🎼 #حامی_حیوانات_باشیم
-    location: ""
-    followers: 2702
-    engagement: 2439
-    commentsToLikes: 0.098141
-    id: ck9wd5uz5e70l0j7890y00ldk
-    verified: false
-    hashtags: "#modeling, #model, #photography, #portrait"
-  - username: "juliadufvenius"
-    fullname: >-
-      Julia
-    bio: >-
-      Swedish actress- film, TV, theater and audio books. www.artistgruppen.se
-    location: "Sweden"
-    followers: 19741
-    engagement: 1082
-    commentsToLikes: 0.044532
-    id: ck5hhauyc7ajo0i11boe6jvoi
-    verified: false
-    hashtags: "#svt, #girlpower, #tacksam, #blackouttuesday"
-  - username: "jones.ja2"
-    fullname: >-
-      jasmine jones🌸
-    bio: >-
-      USC ‘24 // track, dance, theater ☀️🥑🌮 Psalm 119:144 • University of Southern California ‘24 • Pan Am #1 100m hurdles 💪🏾 • Atlanta, GA
-    location: "United States"
-    followers: 2187
-    engagement: 3000
-    commentsToLikes: 0.081044
-    id: ckap3n5qy3pkx0i781sng71e6
-    verified: false
-    hashtags: "#protecttheshield, #blackouttuesday, #year1, #letsgo"
-  - username: "mohammadrezahelalzadeh"
-    fullname: >-
-      🇮🇷محمدرضا هلال زاده🇮🇷
-    bio: >-
-      🎬🎭Actor🎭🎬 ((Rima theater group))
-    location: ""
-    followers: 7565
-    engagement: 1616
-    commentsToLikes: 0.046338
-    id: ck9wikrmp2pf60j78xj42074v
-    verified: false
-    hashtags: ""
-  - username: "aliasghar.dashti"
-    fullname: >-
-      Ali Asghar Dashti
-    bio: >-
-      • theater director
+      🎭بازیگر تلویزیون ،سینماو تئاتر🎭 🎭Actor in Tv& cinema & Theater📽🎭
     location: "Iran"
-    followers: 14298
-    engagement: 1401
-    commentsToLikes: 0.040389
-    id: ck6tky77u5mwm0j71qso8uktj
+    followers: 114895
+    engagement: 533
+    commentsToLikes: 0.050149
+    id: ck9wgu1dhuznf0j78oy8zt9zc
     verified: false
-    hashtags: ""
-  - username: "alitabatabaei14"
+    hashtags: "#actor, #esmaeilsalmani, #fun, #komik"
+  - username: "thevurdem"
     fullname: >-
-      علی طباطبایی
+      Eren Vurdem
     bio: >-
-      🎥Video Creator/ Videographer 🏀@iribf #Photographer 📸 🎭#Theater Photographer📸 🎸@ritmeayandeh Photographer 📸 💥 Founder of @ruby__studio 🎥🖥
+      Talent Co. | info@aycakardes.com Actor / Haliç University Conservatory Theater Department
     location: "United States"
-    followers: 19913
-    engagement: 1327
-    commentsToLikes: 0.039524
-    id: ck5zx6fs17fg80i14yj97z9ho
+    followers: 1709875
+    engagement: 714
+    commentsToLikes: 0.009236
+    id: ck6u8hle2rmrz0j713flcmjfi
+    verified: true
+    hashtags: "#mywife, #kanald, #sadakatsiz, #medyap"
+  - username: "david_hugo"
+    fullname: >-
+      David Hugo Schmitz
+    bio: >-
+      schauspiel: gast @theaterbonn studium @filmuni musik: @sofdmusic_ regie & buch: @kopfbahnhof_film @nino_shortfilm agentur: @schwarzberlinmanagement
+    location: "Germany"
+    followers: 11714
+    engagement: 534
+    commentsToLikes: 0.053339
+    id: ck135n43g28h50i19689ta66f
     verified: false
-    hashtags: "#guardiansofthegalaxy, #happylifeenergydrink, #chrispratt"
+    hashtags: "#explore, #explorepage, #cover, #reels"
+  - username: "sophialillis"
+    fullname: >-
+      Sophia
+    bio: >-
+      Catch Dungeons & Dragons: Honor Among Thieves in theaters March 31!
+    location: ""
+    followers: 3305037
+    engagement: 486
+    commentsToLikes: 0.000138
+    id: ck1383bxoeasu0i19wc999g91
+    verified: true
+    hashtags: "#chaneltribeca2023, #fendipartner, #parisfashionweek, #dndmovie"
+  - username: "sadiesink_"
+    fullname: >-
+      Sadie Sink
+    bio: >-
+      The Whale now playing in theaters! Get tickets now!
+    location: "Germany"
+    followers: 25517225
+    engagement: 1111
+    commentsToLikes: 0.004149
+    id: ck0tzfnxeq7t10i19d2hyatnb
+    verified: true
+    hashtags: "#chanelfinejewelry, #armanibeauty, #thewhale, #cococrush"
+  - username: "emmakeuven"
+    fullname: >-
+      Emma Keuven
+    bio: >-
+      acteren | theater | presenteren | dans acteur in opleiding contact: emma@socialreblz.com veel liefs 💞
+    location: "Netherlands"
+    followers: 210594
+    engagement: 365
+    commentsToLikes: 0.007767
+    id: ck0vv1eoln3hp0i19av6h2u9w
+    verified: false
+    hashtags: "#partner, #dezomervanzo, #zomervanzo, #startmetnachtrust"
+  - username: "vasuki_vaibhav_"
+    fullname: >-
+      Vasuki Vaibhav
+    bio: >-
+      Theater being 🎭 For collaborations: karmayogiproductions@gmail.com For Live Show enquiry: aniketh@gigmanlive.com +91 9620 288177 - Aniketh
+    location: "United Kingdom"
+    followers: 642548
+    engagement: 339
+    commentsToLikes: 0.002174
+    id: ck0w4og7nzlh10i19g289tqis
+    verified: false
+    hashtags: "#prajwaldevaraj, #meghanaraj, #tatsamatadbhava, #anvitcinemas"
 ---

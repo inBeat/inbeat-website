@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Peru In 2023
+title: Top 10 Comedians TikTok Influencers In Peru In 2024
 description: >-
-  Find top comedians TikTok influencers in Peru in 2023. Most popular hashtags: #fyp #humor #comedian #comedia.
+  Find top comedians TikTok influencers in Peru in 2024. Most popular hashtags: #fyp #comedian #humor #comedia.
 platform: TikTok
 hits: 231
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: inBeat has 231 TikTok influencers like this in Peru for you to pitch.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 231 TikTok influencers like this in Peru for you to contact.
 profiles:
   - username: "kevinlox"
     fullname: >-
@@ -85,12 +85,12 @@ profiles:
     bio: >-
       🇵🇪 Ig: @marioirivarren
     location: "Peru"
-    followers: 914400
-    engagement: 704
-    commentsToLikes: 0.009848
+    followers: 962100
+    engagement: 680
+    commentsToLikes: 0.011988
     id: ckcdztzrphefq0j23w1xm5zhl
     verified: false
-    hashtags: "#camilo, #parati, #per, #fyp"
+    hashtags: "#miami, #cuoplegoals, #funny, #per"
   - username: "teddynilsson"
     fullname: >-
       Teddy Nilsson

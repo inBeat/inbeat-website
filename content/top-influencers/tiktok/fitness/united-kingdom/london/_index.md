@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In London In 2023
+title: Top 10 Fitness TikTok Influencers In London In 2024
 description: >-
-  Find top fitness TikTok influencers in London in 2023. Most popular hashtags: #fitness #london #workout #gym.
+  Find top fitness TikTok influencers in London in 2024. Most popular hashtags: #fitness #london #viral #fyp.
 platform: TikTok
-hits: 42
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine holds 42 TikTok influencers like this in London, United Kingdom for you to work with.
+hits: 44
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 44 TikTok influencers like this in London, United Kingdom for you to connect with.
 profiles:
   - username: "tomhanfy"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.024163
     id: ck8add4xd5a3s0j789y7no97d
     verified: false
-    hashtags: "#gymuk, #boredvibes, #gym, #london"
+    hashtags: "#london, #bodytransformation, #houseoftiktok, #gym"
   - username: "londonfitnessguy"
     fullname: >-
       London Fitness Guy
@@ -43,18 +43,6 @@ profiles:
     id: ckb9ooaprj7jh0j23l5nestub
     verified: false
     hashtags: "#strongwoman, #fitgirl, #deadlift, #strong"
-  - username: "smallspartanjay"
-    fullname: >-
-      Small Spartan 
-    bio: >-
-      Jay@ixbtalent.com INSTAGRAM - @Smallspartanjay YOUTUBE - SMALLSPARTANTV
-    location: "United Kingdom"
-    followers: 386600
-    engagement: 755
-    commentsToLikes: 0.016068
-    id: ck83wyzr0n5k10j78grbaw3ur
-    verified: false
-    hashtags: "#memes, #gym, #planche, #uk"
   - username: "demi.bars"
     fullname: >-
       Demetri Alvanis
@@ -66,7 +54,19 @@ profiles:
     commentsToLikes: 0.023041
     id: ck81s0wxgp7nu0j78oaox24gh
     verified: false
-    hashtags: "#viral, #strong, #workout, #fitness"
+    hashtags: "#london, #calisthenics, #fitness, #learnontiktok"
+  - username: "papz14"
+    fullname: >-
+      Papz__
+    bio: >-
+      get me to 40k on insta @papz__. Sub to my Y0UTUBE👇🏽 500k?🥺 🇳🇬
+    location: "United Kingdom"
+    followers: 480800
+    engagement: 2339
+    commentsToLikes: 0.026469
+    id: ckcdlzkk39xml0j23r4zg4d20
+    verified: false
+    hashtags: "#foryoupage, #british, #funny, #snapchat"
   - username: "kelly_convey"
     fullname: >-
       Kelly Convey

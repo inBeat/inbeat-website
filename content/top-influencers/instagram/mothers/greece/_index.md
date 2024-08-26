@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Greece In 2023
+title: Top 10 Mothers Instagram Influencers In Greece In 2024
 description: >-
-  Find top mothers Instagram influencers in Greece in 2023. Most popular hashtags: #greece #giveawaygr #giveaway #giveawaysgreece.
+  Find top mothers Instagram influencers in Greece in 2024. Most popular hashtags: #momlife #summer #giveawaygr.
 platform: Instagram
-hits: 81
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 81 Instagram influencers like this in Greece for you to contact.
+hits: 109
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 109 Instagram influencers like this in Greece for you to pitch.
 profiles:
-  - username: "sissychristidou"
+  - username: "nonoram"
     fullname: >-
-      Sissy
+      Εleonora Meleti
     bio: >-
-      • Mother of Dragons • Travel Addict • Digital Content Creator • TV hostess @ela_xamogela @opentvgr • Youtuber #Megalokanalo Latest Video👇🏻
+      Journalist- tvhostess: @mega_kalimera Author: «γυναίκα ψάχνει» @dioptrabooks Mother of Alexandra Oceanis Married to @psycho_25
     location: "Greece"
-    followers: 867709
-    engagement: 685
-    commentsToLikes: 0.315222
-    id: ck0w1rw69ktop0i19hef4fpwj
-    verified: true
-    hashtags: "#christmasgifts, #efoodgr, #diplis, #giveaway"
-  - username: "themomdiary"
-    fullname: >-
-      The Mom Diary - Greek Family
-    bio: >-
-      Meggie Greek/Canadian Mom of 2 boys Raw motherhood🤱 Lifestyle 🕶 Wellness🌿 Selfcare💗 Mental health⚖️ Traveling ✈️ YouTube👇
-    location: "Greece"
-    followers: 11576
-    engagement: 953
-    commentsToLikes: 0.122528
-    id: ck5q40ewhn6qm0i113xdjlzan
+    followers: 517737
+    engagement: 417
+    commentsToLikes: 0.013116
+    id: ck0vvx5vor60h0i198cbs2fu8
     verified: false
-    hashtags: "#greeklifestyle, #greeksummer, #greekfamily, #greekbeaches"
+    hashtags: "#mysummer, #mylove, #summer, #mydaughter"
   - username: "annie_pantazi"
     fullname: >-
       Annie Pantazi
     bio: >-
-      • Olympic Champion in Rhythmic Gymnastics-Athens 2004 🇬🇷 • Special Olympics Global Ambassador RG • Mother 👩‍👧 • @filathlitikos_kallitheas 🤸🏼‍♀️
+      • Olympic Champion in Rhythmic Gymnastics-Athens 2004 🇬🇷 • Special Olympics Global Ambassador RG • Mother 👩‍👧‍👦 • @filathlitikos_kallitheas 🤸🏼‍♀️
     location: "Greece"
-    followers: 26531
-    engagement: 1351
-    commentsToLikes: 0.082056
+    followers: 30886
+    engagement: 416
+    commentsToLikes: 0.005492
     id: ck0w1f88lj1jm0i196qqrcmuk
     verified: false
-    hashtags: "#mygirl, #greece, #happymoments, #tartibeach"
-  - username: "korina_koumantaki"
-    fullname: >-
-      Korina Koumantaki
-    bio: >-
-      Style addict In search for beautiful things,places,people. Wife&mother of 3 Contact me 📩 Do not waste any day of your life!🎀💖💝
-    location: "Greece"
-    followers: 5644
-    engagement: 993
-    commentsToLikes: 0.141864
-    id: ck13b37v3tg910i192ek9jjid
-    verified: false
-    hashtags: "#vacationmode, #greekislands, #holidaysingreece, #kythnos"
+    hashtags: "#mysunshine, #venice, #myeverything, #mygirl"
   - username: "ster_eleni"
     fullname: >-
       🎀Eleni Ster🎀
     bio: >-
-      | Mother 👶🏻 👶🏻| Alex`s Wife | Fitness | Friends | Fashion | Lifestyle | Makeup | Nails | UH | OWNER OF ‘KARMA BY ELENI STER’ limited collections
+      Owner of @karma_by_elenister | Mother of 👶🏻 👶🏻| | Alex`s Wife | | UH |
     location: "Greece"
-    followers: 82902
-    engagement: 1745
-    commentsToLikes: 0.076681
+    followers: 80476
+    engagement: 1184
+    commentsToLikes: 0.080510
     id: ck6tspc4s628n0j71mqeapn3a
     verified: false
-    hashtags: "#ster, #karmabyelenister, #myfrezyderm, #menswimwear"
-  - username: "nikolettaralli"
-    fullname: >-
-      Nikoletta Ralli
-    bio: >-
-      • Mother 👶🏻🐶 • Tv hostess 📺 • Sailor @karma_sailing ⛵️ • Lifestyle blogger @queengr 🧚🏻‍♀️ #LoveLaughLivegr Athens
-    location: "Greece"
-    followers: 306139
-    engagement: 276
-    commentsToLikes: 0.004718
-    id: ck6tzs5vqbjj70j71njl9ms9u
-    verified: true
-    hashtags: "#visitgreece, #alwaysgreece, #horse, #kiriakistoxorio"
-  - username: "littlethings.sweetlife"
-    fullname: >-
-      𝘓𝘪𝘵𝘵𝘭𝘦𝘛𝘩𝘪𝘯𝘨𝘴.𝘚𝘸𝘦𝘦𝘵𝘓𝘪𝘧𝘦
-    bio: >-
-      @avg.angel 🧸 #GirlMom to #AmiraAndAmelia✨ Motherhood | Holiday Magic | Fashion | Lifestyle #LittleThingsSweetLife #ItsTheLittleThings @newmodel_kids
-    location: "Greece"
-    followers: 16449
-    engagement: 1176
-    commentsToLikes: 0.625472
-    id: ck8t9e9xfnrsd0j78p1qa2xn5
-    verified: false
-    hashtags: "#mommylife, #giveawaysgr, #littlethingssweetlife, #momlife"
-  - username: "africaprz"
-    fullname: >-
-      África Pérez
-    bio: >-
-      Mother agency @viewmanagement 🇩🇪 @pma_models 🇮🇹 @whynotmodels 🇬🇷 @ace_models_athens 📍Athens
-    location: "Greece"
-    followers: 2509
-    engagement: 1332
-    commentsToLikes: 0.040361
-    id: ck6uaiowa3s4f0j71yistlt05
-    verified: false
-    hashtags: "#modelstyle, #blackandwhite, #photography, #photoshoot"
+    hashtags: "#myfrezyderm, #ster, #limitedcollection, #karmabyelenister"
   - username: "pi_hbp"
     fullname: >-
-      Mother of Three
+      P   I   N   A   R
     bio: >-
-      M i n i m a l i s m 🕊 Motherhood, Fashion & Beauty
+      Mother of Three Masterpieces Fashion | Beauty | lifestyle Greece📍| DM for Collabs 📩
     location: "Greece"
-    followers: 10557
-    engagement: 849
-    commentsToLikes: 0.566344
+    followers: 22922
+    engagement: 419
+    commentsToLikes: 0.379631
     id: ck5q403u1n5eq0i112ipr5mor
     verified: false
-    hashtags: "#kidsfashion, #giveawaygr, #giveawayhellas, #sonandmom"
-  - username: "maradarmousli"
+    hashtags: "#son, #fashion, #alouette, #momlifebelike"
+  - username: "dat_lilly"
     fullname: >-
-      Mara Darmousli
+      Angeliki Kokla
     bio: >-
-      •Actress •Model •Acrobat...Wife •Mother •Zookeeper
+      AKA mother of GOGO FAMILY 🦐 🏆Viral Hero at VMA’s 2023 🏆Viral Hero at VMA’s 2022 🏆 Female YouTuber 2022
     location: "Greece"
-    followers: 26189
-    engagement: 558
-    commentsToLikes: 0.054941
-    id: ck8t0aqdorf8f0j78oacl8z1s
+    followers: 379221
+    engagement: 1223
+    commentsToLikes: 0.019260
+    id: ck6tsov625zh60j71osi5kty9
     verified: false
-    hashtags: "#quarantinedays, #glyfadabeach, #mara, #maradarmousli"
+    hashtags: "#disneyplusgr, #yslloveshine, #lipgloss, #lipstick"
+  - username: "littlethings.sweetlife"
+    fullname: >-
+      𝐀𝐧𝐠𝐞𝐥𝐢𝐤𝐢
+    bio: >-
+      @avg.angel ✿ It’s our #LittleThingsSweetLife ✿ mama @amelia.su4 +Amira & wife @hykman2002 ✿ motherhood, home decor, fashion, lifestyle & holiday lover
+    location: "Greece"
+    followers: 27997
+    engagement: 510
+    commentsToLikes: 0.515550
+    id: ck8t9e9xfnrsd0j78p1qa2xn5
+    verified: false
+    hashtags: "#bdaykids, #staytuned, #diagonismos, #tothemoonandback"
+  - username: "natasaskafida"
+    fullname: >-
+      Natasa Skafida
+    bio: >-
+      ✨ wife of @giannisvardis ✨ mother of two angels 👼🏼👼🏼
+    location: "Greece"
+    followers: 56634
+    engagement: 509
+    commentsToLikes: 0.146030
+    id: ck5zkex02jcvu0i14m665l6fe
+    verified: false
+    hashtags: "#bedifferent, #push, #elitegreece, #myfrezydem"
+  - username: "chraniotis_giorgos_official"
+    fullname: >-
+      Chraniotis Giorgos Official
+    bio: >-
+      📽 Αόρατοι @cosmote_greece 🎤 @imitate_your_mother_ •POSTING IS GOOD,LIVING IS BETTER•
+    location: "Greece"
+    followers: 99252
+    engagement: 423
+    commentsToLikes: 0.016873
+    id: ck6tionxj14gc0j714wb79p2w
+    verified: false
+    hashtags: "#travelling, #fun, #onelove, #water"
+  - username: "sissychristidou"
+    fullname: >-
+      Sissy
+    bio: >-
+      • Mother of Dragons • Travel Addict • Digital Content Creator • TV hostess @xamogelakaipali @megatvcom
+    location: "Greece"
+    followers: 901939
+    engagement: 219
+    commentsToLikes: 0.032146
+    id: ck0w1rw69ktop0i19hef4fpwj
+    verified: true
+    hashtags: "#newyearresolution, #eviviosmed, #wecandoit, #contest"
+  - username: "nancystergiou"
+    fullname: >-
+      Nancy Stergiou
+    bio: >-
+      📺 Content Creator: Funny | (Reel) Life Mom | Tips | Hacks | Motherhood 🎬 New Youtube Video: Vlog! Ψώνια & pr, supermarket!Πηγαμε στο παζαρι!🔻
+    location: "Greece"
+    followers: 35960
+    engagement: 182
+    commentsToLikes: 0.294025
+    id: ck1389001f2si0i19ilfs06eb
+    verified: false
+    hashtags: "#ad, #giveawaygr, #toddler, #funnyvideos"
 ---

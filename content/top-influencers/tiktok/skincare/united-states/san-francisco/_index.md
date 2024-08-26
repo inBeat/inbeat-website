@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In San Francisco In 2023
+title: Top 10 Skincare TikTok Influencers In San Francisco In 2024
 description: >-
-  Find top skincare TikTok influencers in San Francisco in 2023. Most popular hashtags: #skincare #makeup #greenscreen #duet.
+  Find top skincare TikTok influencers in San Francisco in 2024. Most popular hashtags: #skincare #makeup #greenscreen #asian.
 platform: TikTok
 hits: 4
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our search engine has 4 TikTok influencers like this in San Francisco, United States for you to collaborate.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 4 TikTok influencers like this in San Francisco, United States for you to work with.
 profiles:
   - username: "daytran12"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.004606
     id: ck9v17kvyfsuf0j78dt4u81qd
     verified: false
-    hashtags: "#ad, #dollartree, #targetfinds, #affordablemakeup"
+    hashtags: "#targetfinds, #affordablemakeup, #dollartree, #ad"
   - username: "natforprez"
     fullname: >-
       N A T | 辣椒妹
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.016500
     id: ck9k4yol5un3k0j78mpopq7n8
     verified: false
-    hashtags: "#yellowfever, #asian, #greenscreen, #republicanbf"
+    hashtags: "#greenscreen, #girlfriend, #republicanbf, #asian"
   - username: "21_hm"
     fullname: >-
       21HM
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.151081
     id: ckbbpkbd9dfjp0j23g7rkokkx
     verified: false
-    hashtags: "#grwm, #upclose, #closeups, #aesthetic"
+    hashtags: "#routine, #trendy, #closeup, #ootd"
   - username: "jc.dombrowski"
     fullname: >-
       J.C. Dombrowski
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.010895
     id: ck80obynrgodq0j786z4nwcq0
     verified: true
-    hashtags: "#fyp, #scary, #ocean, #edutok"
+    hashtags: "#wtf, #lifehacks, #funny, #ocean"
   - username: "avecnou"
     fullname: >-
       Minou
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.151162
     id: ckbfflxyvae6l0j23v9fyz53x
     verified: false
-    hashtags: "#skincareroutine, #ootd, #makeuptutorial, #makeuptips"
+    hashtags: "#casualoutfits, #ootd, #glowymakeuptutorial, #asianmakeuptutorial"
   - username: "seechelleflow"
     fullname: >-
       Lynn
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.076720
     id: ck92xai6sxwye0j787t00wjw0
     verified: false
-    hashtags: "#headbandwig, #naturalhair, #naturalhairstyles, #foryou"
+    hashtags: "#foryou, #naturalhairstyles, #naturalhair, #type4hair"
 ---

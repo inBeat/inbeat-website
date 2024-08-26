@@ -1,12 +1,48 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Japan In 2023
+title: Top 10 Guitar Instagram Influencers In Japan In 2024
 description: >-
-  Find top guitar Instagram influencers in Japan in 2023. Most popular hashtags: #fender #gibson #guitarist.
+  Find top guitar Instagram influencers in Japan in 2024. Most popular hashtags: #guitar #fender #gibson.
 platform: Instagram
-hits: 71
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 71 Instagram influencers like this in Japan for you to pitch.
+hits: 74
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 74 Instagram influencers like this in Japan for you to collaborate.
 profiles:
+  - username: "yo_onityan"
+    fullname: >-
+      Yo Onityan 30
+    bio: >-
+      🇯🇵Guitarist for every where🌏 DM for Guitar Lesson,Tour,Work📩 VEGAN Sub account @onityan_yo String 🤝@ernieball
+    location: "Japan"
+    followers: 105985
+    engagement: 342
+    commentsToLikes: 0.016377
+    id: ck55ky11r0cg10i11v5djmnbf
+    verified: false
+    hashtags: "#7stringguitar, #guitarlife, #djent, #deathmetal"
+  - username: "fendergaichiban"
+    fullname: >-
+      RYU
+    bio: >-
+      Guitarist, Musician 🇯🇵
+    location: "Japan"
+    followers: 44331
+    engagement: 265
+    commentsToLikes: 0.044242
+    id: ck6tvzmtpp6fg0j710uj0hjug
+    verified: false
+    hashtags: "#gibsoncustomshop, #marshall, #vintagerock, #oldguitars"
+  - username: "johnpetrucciofficial"
+    fullname: >-
+      John Petrucci
+    bio: >-
+      Guitarist, producer, songwriter/lyricist and founding member of the Grammy Award winning band Dream Theater. All things JP here 👇
+    location: "Japan"
+    followers: 790467
+    engagement: 259
+    commentsToLikes: 0.009694
+    id: ck0tx7xtpi5tx0i196o9vqh67
+    verified: true
+    hashtags: "#jpgu, #dreamtheater, #johnpetrucci, #laborday"
   - username: "miyastagram__"
     fullname: >-
       MIYAKO
@@ -91,40 +127,4 @@ profiles:
     id: ckaox96plcbxm0i78dnm1doml
     verified: false
     hashtags: "#nubiantokyo, #instagood, #f4follow, #streetstyle"
-  - username: "hotei_official"
-    fullname: >-
-      HOTEI Official
-    bio: >-
-      布袋寅泰　TOMOYASU HOTEI ギタリスト。Japanese legendary guitarist, songwriter, producer, & creator of the Kill Bill theme song. @hotei_official
-    location: "Japan"
-    followers: 147383
-    engagement: 940
-    commentsToLikes: 0.015725
-    id: ck8t7062jf85i0j78g29atc5y
-    verified: false
-    hashtags: "#livestream, #nhk, #evh, #photo"
-  - username: "fendergaichiban"
-    fullname: >-
-      RYU
-    bio: >-
-      Guitarist, Musician 🇯🇵
-    location: "Japan"
-    followers: 19230
-    engagement: 499
-    commentsToLikes: 0.051533
-    id: ck6tvzmtpp6fg0j710uj0hjug
-    verified: false
-    hashtags: "#oldguitars, #gibsonguitar, #flyingv, #americanvintage"
-  - username: "sugizo_official"
-    fullname: >-
-      SUGIZO
-    bio: >-
-      杉原有音 Composer, Guitarist, Violinist, Arranger, Producer. Member of LUNA SEA & X JAPAN. LUNA SEA Instagram @lunaseaofficial
-    location: "Japan"
-    followers: 120425
-    engagement: 795
-    commentsToLikes: 0.008780
-    id: ck13d0s6i33440i19vtbaecja
-    verified: true
-    hashtags: "#kenken, #shag, #bulenotetokyo, #sugizo"
 ---

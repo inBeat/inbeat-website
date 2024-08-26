@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Morocco In 2023
+title: Top 10 Food TikTok Influencers In Morocco In 2024
 description: >-
-  Find top food TikTok influencers in Morocco in 2023. Most popular hashtags: #fyp #foodlover #food #maroc.
+  Find top food TikTok influencers in Morocco in 2024. Most popular hashtags: #fyp #foodlover #food #maroc.
 platform: TikTok
 hits: 13
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 13 TikTok influencers like this in Morocco for you to collaborate.
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our platform has 13 TikTok influencers like this in Morocco for you to collaborate.
 profiles:
   - username: "sujithbhakthan"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.007072
     id: ck9numbewnty80j78es3g8m8p
     verified: false
-    hashtags: "#techtraveleat, #travel, #withme, #kerala"
+    hashtags: "#travel, #kerala, #covid, #inbtrip"
   - username: "recette_de_hayat"
     fullname: >-
       la gourmande 😋
@@ -85,12 +85,12 @@ profiles:
     bio: >-
       if you want any promo/collab you can dm. us on insta or gmail follow us on inst
     location: "Morocco"
-    followers: 11300
-    engagement: 603
-    commentsToLikes: 0.012920
+    followers: 11200
+    engagement: 539
+    commentsToLikes: 0.008058
     id: ckc80rpe623ab0j23r8xjavcm
     verified: false
-    hashtags: "#gagets, #product, #carproduct, #amazingproduct"
+    hashtags: "#product, #carproduct, #kichenhacks, #gagets"
   - username: "kapildoorkapersad"
     fullname: >-
       Kapil Doorkapersadh

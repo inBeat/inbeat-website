@@ -1,36 +1,24 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In New York In 2023
+title: Top 10 Home Decor TikTok Influencers In New York In 2024
 description: >-
-  Find top home decor TikTok influencers in New York in 2023. Most popular hashtags: #nyc #fyp #homedecor #newyorkcity.
+  Find top home decor TikTok influencers in New York in 2024. Most popular hashtags: #nyc #homedecor #fyp #newyork.
 platform: TikTok
 hits: 30
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 30 TikTok influencers like this in New York, United States for you to work with.
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our database has 30 TikTok influencers like this in New York, United States for you to collaborate.
 profiles:
-  - username: "brittanyleighball"
+  - username: "kayleighskloset"
     fullname: >-
-      Brittany Leigh
+      kayleighskloset
     bio: >-
-      NYC // lifestyle & funny stuff More on IG 👋🏼 @brittanyleighball
+      27 💃 NYC Things & PR Life Unfiltered version of @kayleighskloset
     location: "United States"
-    followers: 34700
-    engagement: 690
-    commentsToLikes: 0.023851
-    id: ckbf2zqacqbjx0j23bx39l3a5
+    followers: 45900
+    engagement: 702
+    commentsToLikes: 0.021211
+    id: ckcv2ovnwo6tk0j23x7o8nuc8
     verified: false
-    hashtags: "#newyorkcity, #mothersday, #millionactsoflove, #makemomepic"
-  - username: "themarianajames"
-    fullname: >-
-      MarianaJames
-    bio: >-
-      Husband and Wife Tech Reviews 🖤 💌TheMarianaJames@gmail.com
-    location: "United States"
-    followers: 29400
-    engagement: 667
-    commentsToLikes: 0.035810
-    id: ckacjmts2879q0i78znvbjtgw
-    verified: false
-    hashtags: "#techreview, #review, #unboxing, #tech"
+    hashtags: "#amazongadgets, #soho, #lovememode, #nycrestaurants"
   - username: "zharmb"
     fullname: >-
       🖤ZMB🤍
@@ -54,7 +42,7 @@ profiles:
     commentsToLikes: 0.102959
     id: ckbkmy534gvoc0j239z0ysh1p
     verified: false
-    hashtags: "#funny, #duet, #4u, #foru"
+    hashtags: "#foru, #funny, #stitch, #4u"
   - username: "naty_michele"
     fullname: >-
       Naty Michele
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.023581
     id: ckbfb1lo62sh90j23320vk1oz
     verified: false
-    hashtags: "#manhattan, #apartment, #dayinmylife, #fyp"
+    hashtags: "#nyc, #apartmenttour, #apartment, #couple"
   - username: "itsagracebigworld"
     fullname: >-
       Grace Zantua
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.028533
     id: ckbfgr4luc1ja0j23rdvi34bs
     verified: false
-    hashtags: "#travel, #destinationdepop, #millionactsoflove, #diy"
+    hashtags: "#bucketlist, #miami, #traveltiktok, #hotels"
   - username: "shotzbyalex"
     fullname: >-
       Alex Frank
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.037661
     id: ckacbpyn3hqhf0i78mre9iywy
     verified: true
-    hashtags: "#minivlog, #girlboss, #corporate, #careertiktok"
+    hashtags: "#fashion, #corporate, #nyctiktok, #nycvlog"
   - username: "homeworthy"
     fullname: >-
       Homeworthy
@@ -127,4 +115,16 @@ profiles:
     id: ck8hj5g1489ye0j78andu2k5l
     verified: false
     hashtags: "#hometour, #nyc, #homedecor, #apartment"
+  - username: "brittanyleighball"
+    fullname: >-
+      Brittany Leigh
+    bio: >-
+      NYC // lifestyle & funny stuff More on IG 👋🏼 @brittanyleighball
+    location: "United States"
+    followers: 34700
+    engagement: 690
+    commentsToLikes: 0.023851
+    id: ckbf2zqacqbjx0j23bx39l3a5
+    verified: false
+    hashtags: "#nycapartment, #thrifting, #mothersday, #meetthegroup"
 ---

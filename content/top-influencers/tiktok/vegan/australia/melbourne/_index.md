@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Melbourne In 2023
+title: Top 10 Vegan TikTok Influencers In Melbourne In 2024
 description: >-
-  Find top vegan TikTok influencers in Melbourne in 2023. Most popular hashtags: #fyp #melbourne #australia #vegan.
+  Find top vegan TikTok influencers in Melbourne in 2024. Most popular hashtags: #fyp #melbourne #australia #vegan.
 platform: TikTok
 hits: 7
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 7 TikTok influencers like this in Melbourne, Australia for you to pitch.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 7 TikTok influencers like this in Melbourne, Australia for you to connect with.
 profiles:
   - username: "ava_rawrr"
     fullname: >-

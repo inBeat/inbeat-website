@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Germany In 2023
+title: Top 10 Bloggers TikTok Influencers In Germany In 2024
 description: >-
-  Find top bloggers TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #fy #fyp #ootd.
+  Find top bloggers TikTok influencers in Germany in 2024. Most popular hashtags: #foryou #fy #fyp #fashion.
 platform: TikTok
 hits: 27
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine has 27 TikTok influencers like this in Germany for you to work with.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat holds 27 TikTok influencers like this in Germany for you to work with.
 profiles:
   - username: "lourenegoll"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.024527
     id: ck8oxkjvs2v8u0j78ohk1x8t6
     verified: false
-    hashtags: "#glowup, #blondgirl, #viral, #4you"
+    hashtags: "#foryou, #glowup, #trend, #4you"
   - username: "sayokurohoshi"
     fullname: >-
       Sayo Kurohoshi
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.015662
     id: ckb9bqd4ly44l0j239rfhulnb
     verified: false
-    hashtags: "#maldives, #christmas, #travelblogger, #baby"
+    hashtags: "#sonevajani, #malediven, #christmas, #travel"
   - username: "glamupyourlifestyle"
     fullname: >-
       Cla
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.028692
     id: ck8owjz90y8lu0j78fqhr73fw
     verified: true
-    hashtags: "#beach, #saturdayoutfit, #greenootd, #creamoutfit"
+    hashtags: "#bridetobe, #bridetobe2021, #italiannight, #christmas"
   - username: "carolinelosse"
     fullname: >-
       Caroline Loße
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.033323
     id: ck83zbxzvzj7u0j78y71cz77l
     verified: false
-    hashtags: "#modeblogger, #shootingchallange, #werbung, #dresdencity"
+    hashtags: "#reiselust, #dresdencity, #taschenkaufhaus, #shootingchallange"
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Athletes Instagram Influencers In South Korea In 2023
+title: Top 10 Athletes Instagram Influencers In South Korea In 2024
 description: >-
-  Find top athletes Instagram influencers in South Korea in 2023. Most popular hashtags: #kick #taekwondo #tricking.
+  Find top athletes Instagram influencers in South Korea in 2024. Most popular hashtags: #kick #taekwondo #tricking.
 platform: Instagram
-hits: 12
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 12 Instagram influencers like this in South Korea for you to contact.
+hits: 13
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 13 Instagram influencers like this in South Korea for you to pitch.
 profiles:
+  - username: "ifbb_pro_kimjunho"
+    fullname: >-
+      김준호
+    bio: >-
+      Ph.D in Sport Medicine IFBB PRO 5X OLYMPIAN Olympia Certification Master @newtech_wellness Sponsored Athlete
+    location: "South Korea"
+    followers: 83776
+    engagement: 104
+    commentsToLikes: 0.010036
+    id: ck8sx3dvpg2tz0j78uk9kj54l
+    verified: false
+    hashtags: "#2023fibo, #fibo, #fibo2023, #cmg"
   - username: "glam_dana"
     fullname: >-
       운동하는간호사ㅣ다나(Dana)
@@ -79,18 +91,6 @@ profiles:
     id: ck0udey7cj1kj0i191hfl984s
     verified: false
     hashtags: "#1080, #onekickman, #c1260, #jackknife"
-  - username: "sofjin_"
-    fullname: >-
-      Sofia Jin
-    bio: >-
-      British Korean entertainer @unitedagents, adventure athlete @ospreyeurope @thenorthfaceuk, exploring🌍 + creating diverse content. Embrace all you are!
-    location: "South Korea"
-    followers: 103324
-    engagement: 295
-    commentsToLikes: 0.011850
-    id: ck13cfi9r030u0i19x95av55i
-    verified: false
-    hashtags: ""
   - username: "akiyamachoo"
     fullname: >-
       추성훈 Sexyama 秋山成勲
@@ -115,16 +115,16 @@ profiles:
     id: ckaouip2x0fxv0i78jk3ypuac
     verified: false
     hashtags: "#athlete, #master, #geungi, #training"
-  - username: "lutce"
+  - username: "kimyk10"
     fullname: >-
-      Lucía Fresco
+      김연경 Yeon Koung Kim
     bio: >-
-      🏐 Professional Volleyball Player 🇦🇷 National Team - Olympics Río 2016 🌍 World traveler🌈
+      Professional Volleyball Player 🔟 @kyk_foundation Chairman 3x KOREA Olympian 🇰🇷🏐 Team- @underarmourkr @activia_kr.official @juvisdiet
     location: "South Korea"
-    followers: 33558
-    engagement: 865
-    commentsToLikes: 0.019045
-    id: ck5hdi9cjnkdm0i11mnctukmp
-    verified: false
-    hashtags: "#heunkuk, #volleyball, #kimchi, #food"
+    followers: 1645101
+    engagement: 732
+    commentsToLikes: 0.012021
+    id: ck0tu8on7634r0i19wgs5v4lm
+    verified: true
+    hashtags: "#studiokalopsia, #portre, #reuterssport, #strongwomen"
 ---

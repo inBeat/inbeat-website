@@ -1,12 +1,36 @@
 ---
-title: Top 10 Christian Instagram Influencers In Canada In 2023
+title: Top 10 Christian Instagram Influencers In Canada In 2024
 description: >-
-  Find top christian Instagram influencers in Canada in 2023. Most popular hashtags: #ad #shopsmall #cyberpunk #amen.
+  Find top christian Instagram influencers in Canada in 2024. Most popular hashtags: #love #lifestyle #outfitinspo #fashion.
 platform: Instagram
-hits: 61
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 61 Instagram influencers like this in Canada for you to contact.
+hits: 119
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 119 Instagram influencers like this in Canada for you to work with.
 profiles:
+  - username: "christianelinee"
+    fullname: >-
+      Christiane Line
+    bio: >-
+      toronto inquiries —— christianeline2@gmail.com
+    location: "Canada"
+    followers: 17562
+    engagement: 1123
+    commentsToLikes: 0.019324
+    id: cl12gviy8y3ac0i23p94hfirb
+    verified: false
+    hashtags: "#discoverunder20k, #reelsinstagram, #vlog, #vibes"
+  - username: "samdolceofficial"
+    fullname: >-
+      SAM DOLCE
+    bio: >-
+      DESIGNER & CREATIVE DIRECTOR @missczechrepublic & @misterczechrepublic & @derzacz Bc & History lover DESIGN◾️STYLING▪️MAKE-UP CHRISTIAN🕊CATHOLIC⚜️
+    location: "Canada"
+    followers: 38903
+    engagement: 148
+    commentsToLikes: 0.075607
+    id: ck13836jyea490i19pms5uwk3
+    verified: false
+    hashtags: "#garden, #high, #art, #like"
   - username: "christian.covington"
     fullname: >-
       Christian Covington
@@ -42,7 +66,7 @@ profiles:
     commentsToLikes: 0.022602
     id: ckaoz8j81kuba0i78diz0y58p
     verified: false
-    hashtags: "#shelbycobra, #dreamcar, #garagegoals, #chevy"
+    hashtags: "#thereisnosubstitute, #horsepower, #lsswap, #cobra"
   - username: "mundydunn"
     fullname: >-
       Mandy T
@@ -55,6 +79,18 @@ profiles:
     id: ckf5n8anhx4ko0j231jgnmupg
     verified: false
     hashtags: "#japantravelphoto, #nature, #himejicastle, #sunrise"
+  - username: "christian.peper"
+    fullname: >-
+      Christian Peper 🌶 Creative Mtn Biking
+    bio: >-
+      📐 Creator of @betterbikeparks 📍 UTAH // 550k TikTok, 125k YouTube 👇🏼 Learn to jump your bike
+    location: "Canada"
+    followers: 126826
+    engagement: 453
+    commentsToLikes: 0.013924
+    id: ck1353yd7zkzh0i19pzwi5mwk
+    verified: false
+    hashtags: "#dirtjumps, #mtbcoach, #osmoaction, #mtb"
   - username: "christianzanephotography"
     fullname: >-
       Christian Zane Clado
@@ -79,52 +115,16 @@ profiles:
     id: ck9we3o02ifxh0j7886h938fr
     verified: false
     hashtags: "#biblescripture, #melanin, #amen, #trustgod"
-  - username: "onthecovehomeschool"
+  - username: "moniqueesmithxo"
     fullname: >-
-      Paige | Home Education 🍶🧺🍃
+      Monique Smith
     bio: >-
-      ebbing & flowing with the tides of motherhood & homeschool | anchored in Jesus | seasonal rhythms . new brunswick 🇨🇦 #tidesofmotherhood
+      speaker, creative + faith 📍toronto & la | 280k tiktok ✉️ info@moniqueesmith.com
     location: "Canada"
-    followers: 30253
-    engagement: 120
-    commentsToLikes: 0.242627
-    id: ckaormqf7nx4b0i789nm8q7oc
+    followers: 151991
+    engagement: 716
+    commentsToLikes: 0.025591
+    id: ckrbkmvpxbtut0j236mkfw01d
     verified: false
-    hashtags: "#homeschoolfamily, #homeschoollife, #homeschoolroom, #charlottemason"
-  - username: "georgeunice.adventures"
-    fullname: >-
-      Eunice | Canadian Mama 🇨🇦
-    bio: >-
-      ▪️family is the ultimate adventure ▪️mama to 👧👧👦 ▪️motherhood musings & marriage tips ✉️ georgeunice2015@gmail.com ⬇️
-    location: "Canada"
-    followers: 22590
-    engagement: 66
-    commentsToLikes: 0.040896
-    id: ckaoryl3apcwh0i78dv6d1c4c
-    verified: false
-    hashtags: "#momhumor, #listerinegreenteazero, #momcomedy, #funnyreels"
-  - username: "saguilar_"
-    fullname: >-
-      𝐂𝐎𝐍𝐅𝐈𝐃𝐄𝐍𝐂𝐄 𝐈𝐍 𝐌𝐎𝐕𝐄𝐌𝐄𝐍𝐓
-    bio: >-
-      God First 🙏🏽🕊 Dance Instructor+Performer 💃🏼 ＭＥＮＴＯＲ💰 @confidenceinmovement_ 🎓SSW
-    location: "Canada"
-    followers: 13009
-    engagement: 432
-    commentsToLikes: 0.111274
-    id: ck5himxzkeced0i112deaidsx
-    verified: false
-    hashtags: "#smallbusinessowner, #contentcreator, #godisgood, #confidenceinmovement"
-  - username: "molly_onthemove"
-    fullname: >-
-      Molly
-    bio: >-
-      I’ve rebranded! 🥳 Find me at @livewildlywell 💖
-    location: "Canada"
-    followers: 15
-    engagement: 205444
-    commentsToLikes: 0.177639
-    id: ckaorribjof9v0i78m8b4pwou
-    verified: false
-    hashtags: "#glitterguide, #austinsnowday, #theeverygirl, #sustainable"
+    hashtags: "#visionboard2024, #2023recap, #luxebirthday, #valentine"
 ---

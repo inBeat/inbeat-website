@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Australia In 2023
+title: Top 10 Wellness Instagram Influencers In Australia In 2024
 description: >-
-  Find top wellness Instagram influencers in Australia in 2023. Most popular hashtags: #chocolate #athleticsaustralia #livemeditation.
+  Find top wellness Instagram influencers in Australia in 2024. Most popular hashtags: #ad #selfcare #morningroutine #healthylifestyle.
 platform: Instagram
-hits: 85
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 85 Instagram influencers like this in Australia for you to contact.
+hits: 211
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 211 Instagram influencers like this in Australia for you to pitch.
 profiles:
-  - username: "emilyskyefit"
+  - username: "aeilign"
     fullname: >-
-      Emily Skye
+      ♡ angie
     bio: >-
-      Fitness ♡ Wellness ♡ Beauty @james_cosmetics Owner @womensbest partner 50% off my FIT APP 12m plan - tap here ⬇️
+      🪷 syd, aus // mini vlogs, wellness, hobbies 🎐soul care; soft living˚ ♡ ·˚ ₊˚ˑ༄ؘ — align with your soul 📔🌱🌼 🧸🌙 💌 pr/collab: aeilignn@gmail.com
     location: "Australia"
-    followers: 2723386
-    engagement: 87
-    commentsToLikes: 0.024309
-    id: ck136fczj67xj0i19enbq3wrk
+    followers: 49535
+    engagement: 1505
+    commentsToLikes: 0.028745
+    id: clnrydtlqezai0j08v9xmalbc
+    verified: false
+    hashtags: "#journaling, #sydney, #australia, #digitaldiary"
+  - username: "spoonful_of_sarah"
+    fullname: >-
+      Sarah Davidson (Holloway)
+    bio: >-
+      ✌🏼 Lawyer turned funtrepreneur 🎧 @seize_the_yay™ 📺 @wellnessaustralia @channel7 presenter 📖 Best selling author, speaker, MC
+    location: "Australia"
+    followers: 128671
+    engagement: 909
+    commentsToLikes: 0.011680
+    id: ck1343nyeujgg0i191y9cnojs
     verified: true
-    hashtags: "#soblessed, #bodyappreciation, #parentlife, #langhamgala"
-  - username: "austenharvey"
+    hashtags: "#bloops, #bunningsinspo, #partner, #ad"
+  - username: "greymurmurs"
     fullname: >-
-      A U S T E N  H A R V E Y
+      Alisha 🌿
     bio: >-
-      Style | Beauty | Wellness Aussie gal livin in, OC, CA🕊 Click the link to shop my bikini collab💕
+      founder & storyteller @brightsidejournal documenting my travels, lifestyle & wellness rituals
     location: "Australia"
-    followers: 10066
-    engagement: 788
-    commentsToLikes: 0.067388
-    id: ck137b474anvo0i19e9c2jcnn
+    followers: 48698
+    engagement: 1718
+    commentsToLikes: 0.012293
+    id: clik9aohnaqhb0j081eug0k9j
     verified: false
-    hashtags: "#pacpartner, #glassons, #pacsunswim, #pacfamily"
-  - username: "liv.pollock"
+    hashtags: "#undyingloveforbasics, #2023, #ootd"
+  - username: "arin.things"
     fullname: >-
-      LIV POLLOCK
+      Arin | makeup ⋆ skincare ⋆ beauty
     bio: >-
-      @viviensmodelmgmt Ambassador @redcrossau Contact: Nicola@viviensmodels.com.au Coming soon: @own.wellness
+      • Beauty ⋆ Wellness ⋆ Lifestyle • Enquiries ⇢ info.arinthings@gmail.com • Australia 🇦🇺
     location: "Australia"
-    followers: 75158
-    engagement: 372
-    commentsToLikes: 0.008998
-    id: ck5zwebj05zaa0i14ols5m6l9
-    verified: true
-    hashtags: "#aafw"
-  - username: "kirivasales"
-    fullname: >-
-      BAZAARMUMMA - KIRI VASALES
-    bio: >-
-      Fashion • Motherhood • Wellness 🇦🇺 Designer of @kiriakiswim Managed by jess@thetalentcollective.com.au
-    location: "Australia"
-    followers: 24729
-    engagement: 137
-    commentsToLikes: 0.086615
-    id: ck0w6as7u7oh70i1900nu439n
+    followers: 37399
+    engagement: 304
+    commentsToLikes: 0.102691
+    id: cl7gbc22us3uw0i23m4mb68tt
     verified: false
-    hashtags: "#wbw2021, #sleeptraining, #dailywellness, #laluna"
-  - username: "alioetjen"
+    hashtags: "#asmrbeauty, #thatgirlaesthetic, #ad, #everythingshower"
+  - username: "_chelseaforbes"
     fullname: >-
-      ALI WELLNESS 👸🏼
+      Chels Forbes
     bio: >-
-      🧝🏼‍♀️LOVE & LIGHT WARRIOR 🧘🏼‍♀️Meditation & Yoga Teacher 👩🏼‍💻Certified Life Coach 🙏🏽Wellness Retreats 🎥TV Personality 🥗@raisethebarfoods
+      QLD, AUS 🤍 Movement master trainer & Wellness ambassador contact@chelseaforbes.com.au - for all enquires 💌
     location: "Australia"
-    followers: 227692
-    engagement: 250
-    commentsToLikes: 0.025267
-    id: ck0twtjrfgo530i19t755qoqn
-    verified: true
-    hashtags: "#meditation, #onelove, #allconnected, #livemeditation"
-  - username: "robbijan"
-    fullname: >-
-      ROBBI JAN
-    bio: >-
-      Aussie with a splash of Cali daily style • health & wellness 🍃 haley@underscoretalent.com ☇ YouTube saved by grace
-    location: "Australia"
-    followers: 209791
-    engagement: 388
-    commentsToLikes: 0.015147
-    id: ck55ok6ju8iob0i11pngurjvz
+    followers: 8677
+    engagement: 297
+    commentsToLikes: 0.041673
+    id: clik9amogap9x0j0872p0o8ul
     verified: false
-    hashtags: "#ohpollypartner, #ohpolly, #beautyxitaly, #style"
-  - username: "dani___stevens"
+    hashtags: "#gifted, #simkaskin, #omega3, #simkasquad"
+  - username: "tessshanahan"
     fullname: >-
-      Dani Stevens (nee Samuels)
+      Tess Shanahan
     bio: >-
-      Discus chucker | @ASICS 🌏 World Champion 💛 Commonwealth Champion 💚 Australia, sport, family, health and wellness 🌻 PE teacher in the making
+      Model • Presenter • Wellness • Business @project.no4 🏠🔨
     location: "Australia"
-    followers: 5378
-    engagement: 843
-    commentsToLikes: 0.020688
-    id: ck6uf03vju2bt0j71gsowmmwa
-    verified: true
-    hashtags: "#tokyotogether, #australianolympicteam, #australia, #imoveme"
-  - username: "lalasplate"
-    fullname: >-
-      Lara De Bruyne
-    bio: >-
-      you are loved ✞ Healthy(ish) food, lifestyle + wellness 🍉🍓🍒🌸 Brisbane, Australia ♡ hello@lalasplate.com ☻
-    location: "Australia"
-    followers: 45930
-    engagement: 864
-    commentsToLikes: 0.026087
-    id: ck15tte3pjswb0i19uj4bboe5
+    followers: 196207
+    engagement: 281
+    commentsToLikes: 0.000648
+    id: ck0w0xfoegigy0i19ylsaoob6
     verified: false
-    hashtags: "#healthybreakfast, #nicecream, #fooddiary, #chocolate"
-  - username: "eden.yoga"
+    hashtags: "#beckham, #pregnancy, #mfw, #mfw23"
+  - username: "bellas___life"
     fullname: >-
-      Eden Yoga
+      BELLA SOPHIA, CPT
     bio: >-
-      Everything is in Divine order. World wide retreats and workshops Wellness creator. Byron bay/ Australia 🇦🇺
+      miami, fl recipes fitness wellness & life things B.S. Health Science & CPT bella@vivemanagement.com.au
     location: "Australia"
-    followers: 21705
-    engagement: 102
-    commentsToLikes: 0.042077
-    id: ck0ty59zglow60i19dqs7my13
+    followers: 99136
+    engagement: 274
+    commentsToLikes: 0.009058
+    id: ckmw1aluy5ll40j23yuwuvvyf
     verified: false
-    hashtags: ""
-  - username: "cgmfit_"
+    hashtags: "#balancedlifestyle, #selflove, #wellnessaesthetic, #motivation"
+  - username: "baylee_saltmarsh"
     fullname: >-
-      CAROLINE
+      BAYLEE SALTMARSH
     bio: >-
-      lift, eat, rest 💪🏼 🧚🏼‍♀️ health + wellness + workouts 💫 NASM certified personal trainer 🧠 exercise science major ⇩ 8 WEEK GUIDE ⇩
+      Pilates X Fitness X Wellness Find me at @palmheightsathletics @palmheightsgc Contact: balancebybaylee@gmail.com Passion project @balancebybaylee
     location: "Australia"
-    followers: 55515
-    engagement: 124
-    commentsToLikes: 0.113118
-    id: ck5hkb1xei3si0i11p71mdtv3
+    followers: 52547
+    engagement: 241
+    commentsToLikes: 0.031725
+    id: ck55jrh2axm180i11kuil0y3b
     verified: false
-    hashtags: "#fitnessreels, #personaltrainer, #fitgirlcommunity, #balancedlifestyle"
+    hashtags: "#pilatesreformer, #pilateslovers, #pilatesinspiration, #reformerpilates"
+  - username: "nourishfulsabrina"
+    fullname: >-
+      Sabrina | Melbourne food & lifestyle 🤍
+    bio: >-
+      @sabrinaa.lu_ | melb gal romanticising life✨ wellness, recipes, eats & experiences ❤️ 15% off @nakedharvestsupplements “SABRINA15” 💌 Collabs~DM/email
+    location: "Australia"
+    followers: 25113
+    engagement: 217
+    commentsToLikes: 0.114376
+    id: ck5c6i2nk5hbl0i11si0axatk
+    verified: false
+    hashtags: "#seoulcafe, #pinterestaesthetic, #melbournecafe, #pinterestinspired"
+  - username: "deanogladstone"
+    fullname: >-
+      Dean Gladstone
+    bio: >-
+      Helping people 🫶Breathwork Coach,PT, Wellness, Stress management n Bondi Lifeguard 💪human performance @powerofthebreath app
+    location: "Australia"
+    followers: 59668
+    engagement: 165
+    commentsToLikes: 0.021680
+    id: ck6u1856ok67e0j71jmoce5yt
+    verified: false
+    hashtags: "#wimhof, #breathwork, #myotape, #oxygenadvantage"
 ---

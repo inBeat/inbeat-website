@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Seoul In 2023
+title: Top 10 Models Instagram Influencers In Seoul In 2024
 description: >-
-  Find top models Instagram influencers in Seoul in 2023. Most popular hashtags: #korea #seoul #model.
+  Find top models Instagram influencers in Seoul in 2024. Most popular hashtags: #model #seoul #korea.
 platform: Instagram
-hits: 31
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 31 Instagram influencers like this in Seoul, South Korea for you to connect with.
+hits: 36
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat has 36 Instagram influencers like this in Seoul, South Korea for you to contact.
 profiles:
   - username: "mariamaria.dantas"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck8t2c74oyxhv0j78u0cjp1s7
     verified: false
     hashtags: "#tbt, #sevenknights, #lego, #ikea"
-  - username: "sandra_ssong"
-    fullname: >-
-      Sasha Song (모델 사샤)
-    bio: >-
-      Seoul / 서울 🇰🇷 Model / 인플루언서 모델 📸💃🏻 광고,촬영문의 / Business- DM 📩
-    location: "South Korea"
-    followers: 692345
-    engagement: 3617
-    commentsToLikes: 0.011403
-    id: ck8t8gcnikdal0j7833hnrq5k
-    verified: false
-    hashtags: "#korea, #lifeinkorea, #russianmodel, #internationalcouple"
   - username: "d2nasoaring"
     fullname: >-
       Dina 디나 Mujanović
@@ -43,18 +31,30 @@ profiles:
     id: ck6tvpzpwnm7r0j718srk9qrl
     verified: false
     hashtags: "#selfie, #skincare, #koreanbeauty, #koreanskincare"
-  - username: "mounecasta"
+  - username: "xxi_zhen"
     fullname: >-
-      Moon Casta 윤아
+      시시 CeCe
     bio: >-
-      🧿•Paris🇫🇷 •Seoul🇰🇷 •Alger🇩🇿 • Model• 👑Miss France Veet 14’ •Tiktok : Mounecasta. @newme.in.korea
+      MODEL 🇰🇷 📍Seoul xxizhen816@gmail.com @cecesveu
     location: "South Korea"
-    followers: 59042
-    engagement: 238
-    commentsToLikes: 0.017956
-    id: ckf5tntk7i9xo0j23olqhf879
+    followers: 98746
+    engagement: 1269
+    commentsToLikes: 0.004552
+    id: cl4l97e5utvew0i23nx8s5stc
     verified: false
-    hashtags: "#paris, #lyon, #gangnam, #alger"
+    hashtags: "#ukglamorous, #p31, #dubetica, #sculptor"
+  - username: "niko_seoul"
+    fullname: >-
+      니코
+    bio: >-
+      FREELANCER living in Seoul 🇰🇷 #모델문의 DM ✍🏼 #프리랜서모델니코
+    location: "South Korea"
+    followers: 5372
+    engagement: 501
+    commentsToLikes: 0.027126
+    id: ckap57qwfajx70i78ox45r9x5
+    verified: false
+    hashtags: "#fashion, #barbie, #roadcycling, #namsantower"
   - username: "ellgimogi"
     fullname: >-
       ellgimogi ❤️ 국제커플
@@ -79,18 +79,6 @@ profiles:
     id: ckaoruzgbov5v0i7829jirrui
     verified: false
     hashtags: "#dancer, #choreo, #ayble, #dance"
-  - username: "ji_kat"
-    fullname: >-
-      Kat(이루나)
-    bio: >-
-      Daily photos 🐙 ⠀ 제주 lover⛱🏝 Christ follower 🕊 Living in Seoul 🌃 프리랜서 모델~ 모델 문의 Portfolio @le_model_kat Happy girl Kat🐱
-    location: "South Korea"
-    followers: 6384
-    engagement: 1281
-    commentsToLikes: 0.023574
-    id: ck9hbs5d9i7ed0j78a0badowv
-    verified: false
-    hashtags: "#model, #travel, #ji, #korea"
   - username: "yangayoung"
     fullname: >-
       Ayoung🇰🇷
@@ -103,28 +91,40 @@ profiles:
     id: ck5ca2pfyckzu0i11cr8v969o
     verified: false
     hashtags: "#pdgripchange, #tinkerbellpolestudio, #poler, #bendy"
-  - username: "marianapinam"
+  - username: "sandra_ssong"
     fullname: >-
-      M A R I A N A   P I Ñ A  🍍
+      Sasha Song 모델|유튜버🇰🇷
     bio: >-
-      🇲🇽MA| @capitalmodel 🇺🇸@selectmodellosangeles 🇰🇷 @modeldirectors 🇨🇳 @gfimodels 🇯🇵 @wildflower_model 🇨🇱🇦🇷 @welovemodels._
+      서울/Seoul 🇰🇷📍 290만명 유튜버 ,모델 📸 광고,촬영문의 / Business ⬇️ sasha_song@naver.com
     location: "South Korea"
-    followers: 17177
-    engagement: 1392
-    commentsToLikes: 0.009940
-    id: ck5ci5u32s2t90i11x4pt2qpc
+    followers: 686415
+    engagement: 599
+    commentsToLikes: 0.008739
+    id: ck8t8gcnikdal0j7833hnrq5k
     verified: false
-    hashtags: ""
-  - username: "taelaraa"
+    hashtags: "#koreanstyle, #koreanmodel, #model, #osaka"
+  - username: "iammaeng"
     fullname: >-
-      Dilara ILGAZ
+      WOOSUN 이명선 원장
     bio: >-
-      #모델 #model 촬영문의 ⤵️ 📩 이메일:anj-ent@naver.com ☎️연락처 (백철호): +82 010-7455-0175
+      🕊우선 @woosunofficial 🏡27, Apgujeong-ro 79-gil, Gangnam-gu, Seoul 🤳🏻예약 및 비지니스문의 +82-2-540-1107
     location: "South Korea"
-    followers: 7566
-    engagement: 1016
-    commentsToLikes: 0.029799
-    id: ck8t2ajzoyqub0j78rmpoc531
+    followers: 418297
+    engagement: 441
+    commentsToLikes: 0.012798
+    id: ck14jm8uql2200i1942f13yl8
     verified: false
-    hashtags: "#girl, #me, #makeup, #taelara"
+    hashtags: "#me, #woosun, #makeup, #iammaeng"
+  - username: "jovanepjy"
+    fullname: >-
+      Jovane 彭嘉伊
+    bio: >-
+      actress • model • content creator for work : +60 11-1191 7370 (Sandy) Food Hunting in Seoul Vlog 🇰🇷
+    location: "South Korea"
+    followers: 569070
+    engagement: 362
+    commentsToLikes: 0.002526
+    id: ck5ci51zns1b50i11n7r9ph6w
+    verified: false
+    hashtags: "#macau, #seoulkorea, #opporeno12series5g, #mjdaisy"
 ---

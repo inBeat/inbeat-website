@@ -1,12 +1,96 @@
 ---
-title: Top 10 Music Instagram Influencers In Chile In 2023
+title: Top 10 Music Instagram Influencers In Chile In 2024
 description: >-
-  Find top music Instagram influencers in Chile in 2023. Most popular hashtags: #instagood #instadaily #music.
+  Find top music Instagram influencers in Chile in 2024. Most popular hashtags: #santiagodechile #chile #lollalove.
 platform: Instagram
-hits: 214
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 214 Instagram influencers like this in Chile for you to collaborate.
+hits: 233
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 233 Instagram influencers like this in Chile for you to contact.
 profiles:
+  - username: "noahblancomusic"
+    fullname: >-
+      Noah Blanco
+    bio: >-
+      El NENE de Chile 💘 Artista / Compositor / Productor musical
+    location: "Chile"
+    followers: 15058
+    engagement: 985
+    commentsToLikes: 0.034119
+    id: ck6ti7f9906hj0j71hgexkc0z
+    verified: false
+    hashtags: "#musicachilena, #lollalove, #lgbt, #lgbtq"
+  - username: "foreromusic"
+    fullname: >-
+      Forero 💀
+    bio: >-
+      • I make music & play games 👾 • fckgenres 🧔🏻‍♂️/💀 • Monsterbeats x Twitch/ Miercoles 21:00 ❇️ • The One Piece is real 🏴‍☠️ ——————————————
+    location: "Chile"
+    followers: 14185
+    engagement: 417
+    commentsToLikes: 0.059103
+    id: ck5zjfozehi7d0i14ippd1duv
+    verified: false
+    hashtags: "#planthouse, #breakbeat, #nomedejaetiquetararakun, #nsync"
+  - username: "pipogormaz"
+    fullname: >-
+      Francisco Gormaz Arteaga
+    bio: >-
+      Papá, Actor, Músico, entre otros varios. • Viajando con #DobleVida por @chilevision • Además @estudioolmue
+    location: "Chile"
+    followers: 58638
+    engagement: 379
+    commentsToLikes: 0.034561
+    id: ck55mn5xl4bit0i11yudfhirg
+    verified: false
+    hashtags: "#estoespublicidad, #oyealchefchv, #thecovers, #musicaenvivo"
+  - username: "maxdonosos"
+    fullname: >-
+      Max Donoso
+    bio: >-
+      ▪️Compositor & Productor musical 📀 ▪️Multi instrumentista 🎻 ▪️Fundador de @xfire.music Business: contacto@xfire.cl
+    location: "Chile"
+    followers: 11289
+    engagement: 318
+    commentsToLikes: 0.060300
+    id: ck6ti7e0f06ex0j71usnjz7de
+    verified: false
+    hashtags: "#pal93, #drago200, #ak420, #tbt"
+  - username: "alonso_qc"
+    fullname: >-
+      Alonso Quintero Contreras
+    bio: >-
+      Actor, músico, licenciado en sociología. Si, me visto de negro 😊 Contacto vía mail 📨
+    location: "Chile"
+    followers: 106078
+    engagement: 180
+    commentsToLikes: 0.017616
+    id: ck6uht9jfb48s0j71zqj3yl5g
+    verified: true
+    hashtags: "#kancino, #negocios, #localcomercial, #moment"
+  - username: "theklanchile"
+    fullname: >-
+      TheKlan | Events & Music
+    bio: >-
+      🔥Events 🎧Music 💡TikTok @theklanchile ⚡VIP MESA > assistant@theklan.cl Todos nuestros eventos aquí 👇🏻
+    location: "Chile"
+    followers: 85218
+    engagement: 276
+    commentsToLikes: 0.133852
+    id: ck14gu9f2724y0i19qnoaxiom
+    verified: false
+    hashtags: "#comenta, #etiqueta, #comparte"
+  - username: "pablitopesadilla"
+    fullname: >-
+      Pablito Pesadilla ®
+    bio: >-
+      ESTO NO ES UN SUEÑO ES PABLITO PESADILLA Dj ❌ Music Producer 🇨🇱 #CUCHOXSIEMPRE #BabyOtaku #Bella #BabyDoll
+    location: "Chile"
+    followers: 437256
+    engagement: 146
+    commentsToLikes: 0.033776
+    id: ck5zyneaaa6sw0i14mq65pcz6
+    verified: true
+    hashtags: "#estonoesunsue, #gigaawards, #djcitylatino, #creadoconadidas"
   - username: "luisd07"
     fullname: >-
       Luis De⚡️
@@ -43,88 +127,4 @@ profiles:
     id: ck5heo5rftxsm0i110zcnv02k
     verified: false
     hashtags: ""
-  - username: "vinnatti"
-    fullname: >-
-      TINA
-    bio: >-
-      ‍‍ ‍‍‍ 　♌‍‍ ‍ ‍ sing, dance, music production @prodbyatina my music account! ‍📩 — wiggumv@gmail.com
-    location: "Chile"
-    followers: 31041
-    engagement: 1471
-    commentsToLikes: 0.015004
-    id: ck5q54jr8rcjx0i114gnumxt9
-    verified: false
-    hashtags: "#staytonight, #chunghacover, #hyuna, #imnotcool"
-  - username: "djkili"
-    fullname: >-
-      Dj Kili
-    bio: >-
-      🎧 Dj desde los 13 🎹 Tech House Music 📱 Booking @robinson_anriquez ⚡️ Out Now ⬇️
-    location: "Chile"
-    followers: 19224
-    engagement: 826
-    commentsToLikes: 0.035552
-    id: ck14jc7l3jlri0i19tt4jby5f
-    verified: false
-    hashtags: "#shishigang, #perreoflayte, #foda, #desayunofeliz"
-  - username: "dulceyagrazmusic"
-    fullname: >-
-      Dulce y Agraz ✧
-    bio: >-
-      Compositora / Música-Poeta ✍️✨ Contact: contacto@dulceyagrazmusic.cl Management: nbenavente@dulceyagrazmusic.cl Escucha “Quiero Que Seas Tú” 👇🏼
-    location: "Chile"
-    followers: 32273
-    engagement: 627
-    commentsToLikes: 0.019890
-    id: ck5c07ylzsm2t0i1178izbuw3
-    verified: false
-    hashtags: "#challengeeligeeducar, #qqst"
-  - username: "nevenilic"
-    fullname: >-
-      Neven Ilic Vigil
-    bio: >-
-      Cantante, Compositor y Productor Musical Finalista #Festivaldeviña2019. 🏳️‍🌈 Mi productora es @haus.of.fenix Ya disponible @elcuentodelfenix 🔥
-    location: "Chile"
-    followers: 101226
-    engagement: 143
-    commentsToLikes: 0.395260
-    id: ck15pfhg8xmrr0i19hjzuijcr
-    verified: true
-    hashtags: "#kingshawaiiancl, #lambily, #cajafe, #rainonme"
-  - username: "yahismusica"
-    fullname: >-
-      YAHIS
-    bio: >-
-      Música, compositora, autora, cantante, pianista, Psicóloga, con expresiones artísticas en la pintura y escritura.
-    location: "Chile"
-    followers: 2510
-    engagement: 1032
-    commentsToLikes: 0.145075
-    id: ck6u73qzbjaw00j715lwu4ved
-    verified: false
-    hashtags: "#festivalpatagonia, #musica, #fluirconlavida, #creacion"
-  - username: "nicoalamoj"
-    fullname: >-
-      𝗡𝗜𝗖𝗢𝗟𝗔́𝗦 𝗔𝗟𝗔𝗠𝗢
-    bio: >-
-      La música me transporta ✨ Estoy trabajando en mi próximo disco.
-    location: "Chile"
-    followers: 30660
-    engagement: 392
-    commentsToLikes: 0.096084
-    id: ck5hfos5xyjmu0i11j0fuetnp
-    verified: false
-    hashtags: "#menstyle, #love, #fitnessmotivation, #instadaily"
-  - username: "peque_2_"
-    fullname: >-
-      ⚜ 𝐆𝐞𝐧𝐞𝐬𝐢𝐬 ⚜
-    bio: >-
-      👑𝐓𝐢𝐤 𝐓𝐨𝐤:Ｐｅｑｕｅ_２👑 MUSIC 🤍@genessiss_2 🖤@makeuppeque
-    location: "Chile"
-    followers: 10447
-    engagement: 1107
-    commentsToLikes: 0.033417
-    id: ckaovl4e6511e0i78hgt529z4
-    verified: false
-    hashtags: "#chilena, #mujer, #instatiktok, #likelike"
 ---

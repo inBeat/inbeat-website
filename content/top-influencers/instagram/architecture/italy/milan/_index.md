@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Milan In 2023
+title: Top 10 Architecture Instagram Influencers In Milan In 2024
 description: >-
-  Find top architecture Instagram influencers in Milan in 2023. Most popular hashtags: #milano #architecture #milan #igersmilano.
+  Find top architecture Instagram influencers in Milan in 2024. Most popular hashtags: #milano #architecture #milan #italy.
 platform: Instagram
-hits: 164
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat has 164 Instagram influencers like this in Milan, Italy for you to pitch.
+hits: 169
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 169 Instagram influencers like this in Milan, Italy for you to connect with.
 profiles:
   - username: "milanstagramcom"
     fullname: >-
@@ -55,18 +55,6 @@ profiles:
     id: ck0uba49be6y00i19e6pswk9y
     verified: false
     hashtags: "#zahahadid, #milan, #carlostanga, #architettura"
-  - username: "simonecioe"
-    fullname: >-
-      Simone Cioè
-    bio: >-
-      🎥 Filmmaker 🔴 Content Creator 💟 @twitch.italy partner 🎖 @alphauniversebysony.eu Ambassador
-    location: "Italy"
-    followers: 20985
-    engagement: 662
-    commentsToLikes: 0.010217
-    id: ck55nxgso770x0i11kh59o8e8
-    verified: false
-    hashtags: "#streets, #photooftheday, #italy, #photography"
   - username: "sfiziusello78"
     fullname: >-
       sfiziusello78
@@ -103,18 +91,6 @@ profiles:
     id: ck13947gcjfp70i192d0nhzov
     verified: false
     hashtags: "#milano, #architecture, #architettura, #architecturephotography"
-  - username: "francinnocenti"
-    fullname: >-
-      Francesco Innocenti
-    bio: >-
-      ✰Travel, style and design enthusiast ⚑ Milano ✎ francesco@andyjam.com
-    location: "Italy"
-    followers: 163828
-    engagement: 153
-    commentsToLikes: 0.024563
-    id: ck55my6cd52wu0i11iv936upg
-    verified: false
-    hashtags: "#summerinitaly, #calafelice, #tuscany, #sandrohomme"
   - username: "ilpiccionedimilano"
     fullname: >-
       Il Piccione di Milano
@@ -127,4 +103,28 @@ profiles:
     id: ck8t5u7h8b9ut0j7847fahdtp
     verified: false
     hashtags: "#fotografimilanesi, #italianarchitecture, #milanese, #ilovemilano"
+  - username: "chiara._marchese"
+    fullname: >-
+      Chiara Marchese
+    bio: >-
+      Mathematician 🇮🇹 🇪🇸 Volleyball 🏐 Fitboxer 🥊
+    location: "Italy"
+    followers: 2566
+    engagement: 2971
+    commentsToLikes: 0.129422
+    id: ckaoxxgwqf6cr0i78smi1yrsx
+    verified: false
+    hashtags: "#playa, #italy, #ig, #sicily"
+  - username: "rosario__siragusa"
+    fullname: >-
+      Rosario Siragusa
+    bio: >-
+      ●Passione Fotografica● Nikon📷🔎 DJI Mavic Pro 🎮🛩 La fotocamera che possiedi è un oggetto con memoria, ma senza capacità di pensiero
+    location: "Italy"
+    followers: 3342
+    engagement: 1034
+    commentsToLikes: 0.049224
+    id: ck5q0ktk86h9f0i11qc6blq8s
+    verified: false
+    hashtags: "#italianlandscapes, #volgomilano, #visitlombardia, #nightphotography"
 ---

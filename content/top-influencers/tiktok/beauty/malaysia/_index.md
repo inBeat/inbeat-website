@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Malaysia In 2023
+title: Top 10 Beauty TikTok Influencers In Malaysia In 2024
 description: >-
-  Find top beauty TikTok influencers in Malaysia in 2023. Most popular hashtags: #fyp #foryoupage #duet #tiktokmalaysia.
+  Find top beauty TikTok influencers in Malaysia in 2024. Most popular hashtags: #fyp #duet #foryoupage #tiktokmalaysia.
 platform: TikTok
 hits: 17
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 17 TikTok influencers like this in Malaysia for you to work with.
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 17 TikTok influencers like this in Malaysia for you to contact.
 profiles:
   - username: "nickyalias_"
     fullname: >-

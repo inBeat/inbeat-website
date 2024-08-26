@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rowing Instagram Influencers In 2023
+title: Top 10 Rowing Instagram Influencers In 2024
 description: >-
-  Find top rowing Instagram influencers in 2023. Most popular hashtags: #rowing #remo #worldrowing.
+  Find top rowing Instagram influencers in 2024. Most popular hashtags: #rowing #aviron #rudern #remo.
 platform: Instagram
-hits: 2639
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform has 2639 Instagram influencers like this for you to contact.
+hits: 600
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 600 Instagram influencers like this for you to contact.
 profiles:
   - username: "angelfournierrodriguez"
     fullname: >-
@@ -43,6 +43,54 @@ profiles:
     id: ck6u101neir9l0j71ptrtdjlc
     verified: false
     hashtags: ""
+  - username: "sens.robert"
+    fullname: >-
+      Robert Sens
+    bio: >-
+      Austrian Rowing 🇦🇹 Head Coach @austrianrowing AIROW - Head of Sports https://airow.univie.ac.at former rower: World Champion in sweep and scull 🥇🥇🥇
+    location: "Austria"
+    followers: 13971
+    engagement: 1075
+    commentsToLikes: 0.004556
+    id: ck6txdp3jx8kc0j71rksivfff
+    verified: false
+    hashtags: "#rowingmorethanasport, #rowingboat, #rowingispassion, #austrianrowingteam"
+  - username: "usrowing"
+    fullname: >-
+      USRowing
+    bio: >-
+      National Governing Body for rowing in the U.S. 🚣🇺🇸
+    location: "United States"
+    followers: 69976
+    engagement: 338
+    commentsToLikes: 0.005544
+    id: ck5c3oqzvzr8e0i11r2rw0huu
+    verified: true
+    hashtags: "#wru19ch, #tokyoolympics, #rowing, #teamusa"
+  - username: "rp3rowingusa"
+    fullname: >-
+      RP3 Dynamic USA
+    bio: >-
+      World best rowing dynamic machine
+    location: "Netherlands"
+    followers: 29656
+    engagement: 302
+    commentsToLikes: 0.003128
+    id: ck5zjjpf5hpqx0i14s18d2vxp
+    verified: false
+    hashtags: "#repost, #ergometer, #canottagio, #rp3t"
+  - username: "rowingmorethanasport"
+    fullname: >-
+      Rowing: More Than A Sport
+    bio: >-
+      Promoting sports values around the world 🌎 ℹ️ For Collab. Post Reel/Photos->Tag @rowingmorethanasport ->Or Invite as Collaborator.
+    location: "United States"
+    followers: 38107
+    engagement: 156
+    commentsToLikes: 0.002222
+    id: ck6txdlsbx8040j71d6mkrk67
+    verified: false
+    hashtags: "#rowingteam, #australiarowing, #generationrowing, #rowinglife"
   - username: "sergi_miro"
     fullname: >-
       𝗦𝗘𝗥𝗚𝗜 𝗠𝗜𝗥𝗢́
@@ -54,7 +102,7 @@ profiles:
     commentsToLikes: 0.014298
     id: ck5c9b794b4i90i11y7et16z6
     verified: false
-    hashtags: "#hoscos, #gym, #beardedmen, #exultis"
+    hashtags: "#hunk, #beardedselfie, #beardisus, #workout"
   - username: "merijnsoeters"
     fullname: >-
       Merijn Soeters Photography
@@ -79,52 +127,4 @@ profiles:
     id: ck138f1hgfx6t0i19cu3okuds
     verified: false
     hashtags: "#seiko5sports, #suppliedbyseikoitalia, #adv, #showyourstyle"
-  - username: "n.jordanov"
-    fullname: >-
-      ℕ𝕀𝕂𝕆𝕃𝔸 𝕁𝕆ℝ𝔻𝔸ℕ𝕆𝕍
-    bio: >-
-      #rowing 🚣‍♀️ #crossfit 🏋🏻‍♂️ #outdoor 🏃‍♂️ #djimavic2pro 🚁 #canoneosr 📸 ⬇️⬇️⬇️
-    location: ""
-    followers: 12805
-    engagement: 774
-    commentsToLikes: 0.038335
-    id: ckapcha9h3sxk0i787javzsrg
-    verified: false
-    hashtags: "#djimavic2pro, #dji, #bulgaria, #shotdjimavicpro"
-  - username: "biel_boorgess"
-    fullname: >-
-      NAUGHTY🔥🐺
-    bio: >-
-      +55081 ZN🌴 BASKETBALL 🏀🥇 ROWING 🚣🏽
-    location: "Brazil"
-    followers: 3037
-    engagement: 865
-    commentsToLikes: 0.269731
-    id: ck5znpzx8oxya0i14xkuziqzu
-    verified: false
-    hashtags: "#tbtzada"
-  - username: "sens.robert"
-    fullname: >-
-      Robert Sens
-    bio: >-
-      Head Coach Austrian Rowing Federation 🇦🇹 @austrianrowing former rower: World Champion in sweep and scull 🥇🥇🥇 Olympian Sports Scientist
-    location: "United States"
-    followers: 9570
-    engagement: 1705
-    commentsToLikes: 0.004845
-    id: ck6txdp3jx8kc0j71rksivfff
-    verified: false
-    hashtags: "#rowinglife, #rowingworkout, #training, #rowingmotivation"
-  - username: "birgitskarstein"
-    fullname: >-
-      Birgit Skarstein
-    bio: >-
-      4x world rowing champion, nordic skiing world Cup winner. Global Shaper🤸‍♀️ kontakt@birgitskarstein.no
-    location: "Norway"
-    followers: 49901
-    engagement: 1281
-    commentsToLikes: 0.028411
-    id: ck0vwekkdtcah0i19siifwofh
-    verified: false
-    hashtags: "#giveaway, #vennefamiliejul, #juledugnad"
 ---

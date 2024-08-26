@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Brazil In 2023
+title: Top 10 Travel TikTok Influencers In Brazil In 2024
 description: >-
-  Find top travel TikTok influencers in Brazil in 2023. Most popular hashtags: #tiktoktravel #fy #foryou #viagem.
+  Find top travel TikTok influencers in Brazil in 2024. Most popular hashtags: #tiktoktravel #fy #foryou #travel.
 platform: TikTok
 hits: 207
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 207 TikTok influencers like this in Brazil for you to work with.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 207 TikTok influencers like this in Brazil for you to pitch.
 profiles:
   - username: "colorfulworldtravel"
     fullname: >-
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.010210
     id: cka0tv3mzripq0i78mjsb303m
     verified: false
-    hashtags: "#brasil, #brazil, #maragogi, #sc"
+    hashtags: "#alagoas, #sc, #brazil, #maragogi"
   - username: "marcelladidonato"
     fullname: >-
       Marcella Di Donato

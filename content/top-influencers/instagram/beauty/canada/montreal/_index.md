@@ -1,24 +1,72 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Montreal In 2023
+title: Top 10 Beauty Instagram Influencers In Montreal In 2024
 description: >-
-  Find top beauty Instagram influencers in Montreal in 2023. Most popular hashtags: #model #montreal #makeup #beauty.
+  Find top beauty Instagram influencers in Montreal in 2024. Most popular hashtags: #portrait #montreal #aesthetic #beauty.
 platform: Instagram
-hits: 24
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 24 Instagram influencers like this in Montreal, Canada for you to work with.
+hits: 78
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 78 Instagram influencers like this in Montreal, Canada for you to pitch.
 profiles:
-  - username: "kateheartsbeauty"
+  - username: "jugiguere"
     fullname: >-
-      Kate
+      Justine | Montreal Blogger
     bio: >-
-      📷 Content Creator ♥️ By reviews for dry combo skin. 💌 PR/Collab: DM or e-mail kateheartsbeauty1@gmail.com @fohr.co verified
+      Fashion, lifestyle & beauty Montreal 💌 justinegiguere@gmail.com
     location: "Canada"
-    followers: 4348
-    engagement: 561
-    commentsToLikes: 0.294710
-    id: ckap8t13xpr930i786w6qq1k5
+    followers: 14676
+    engagement: 67
+    commentsToLikes: 0.047983
+    id: cktdxo0zv8o620j23e4cf2fyk
     verified: false
-    hashtags: "#glowyskin, #productphotography, #skincaregoals, #skincareblogger"
+    hashtags: "#reelsphoto, #trendysong, #reelsinstagram, #torontoblogger"
+  - username: "stracey1"
+    fullname: >-
+      Stephen Tracey🇨🇦🇮🇪
+    bio: >-
+      From the farm to the runway Actor/Model •@annewithane 👨🏻 •@expanseonprime 🧑🏻‍🚀 S5 •Toronto •IHOP The Talent House 6829
+    location: "Canada"
+    followers: 137247
+    engagement: 488
+    commentsToLikes: 0.007521
+    id: ck6006a2xd0yo0i1405ll8nyz
+    verified: false
+    hashtags: "#fashionphotography, #portrait, #nyc, #fashion"
+  - username: "lavieencreme"
+    fullname: >-
+      sandrine
+    bio: >-
+      beauty ~ aesthetics 🩵 montréal ugc content creator 💌 lavieencream@gmail.com
+    location: "Canada"
+    followers: 41590
+    engagement: 807
+    commentsToLikes: 0.058106
+    id: ckp73p32kykpt0j23qiocertt
+    verified: false
+    hashtags: "#aestheticreels, #skincarereels, #beautyreels, #makeupreels"
+  - username: "audreyrivet"
+    fullname: >-
+      Audrey Rivet
+    bio: >-
+      Fashion, Lifestyle & Beauty ✨ Montreal, Canada 🇨🇦 Inquiries ✉️ julia@26apt.com
+    location: "Canada"
+    followers: 233580
+    engagement: 162
+    commentsToLikes: 0.036900
+    id: ck0txxshwkx6t0i19m9eljlpj
+    verified: false
+    hashtags: "#homedecor, #dovepartenaire, #scandinaviandesign, #interiordesign"
+  - username: "nirmeenka"
+    fullname: >-
+      Nirmeen Kazem
+    bio: >-
+      📍#Montreal 🇨🇦 🇮🇶 -Beauty | Fashion and everything in between -𝖬arried 🤍Beautician -Collab 📩 𝗡𝗶𝗿𝗺𝗲𝗲𝗻.𝗸𝗮@𝗵𝗼𝘁𝗺𝗮𝗶𝗹.𝗰𝗼𝗺
+    location: "Canada"
+    followers: 25261
+    engagement: 114
+    commentsToLikes: 0.119955
+    id: cks311bqbxnqk0j2334m84696
+    verified: false
+    hashtags: "#mtl, #mtlblogger, #montreal, #canadianblogger"
   - username: "mommy_and_mira"
     fullname: >-
       Tahani.H 🇨🇦🇮🇶✨Ottawa♡Canada
@@ -31,6 +79,18 @@ profiles:
     id: ck6u7w19snz1x0j71cpu5wk7j
     verified: false
     hashtags: "#15daysofgiving, #ad, #shein, #sheingals"
+  - username: "helenebujold"
+    fullname: >-
+      HÉLÈNE BUJOLD
+    bio: >-
+      👩🏻‍💻 @believesupplements 📧 helenebujold.contact@gmail.com 🎥 @tiktok | @Helenebujold
+    location: "Canada"
+    followers: 15633
+    engagement: 190
+    commentsToLikes: 0.101690
+    id: ck6ua8g9u245a0j71eck6qspg
+    verified: false
+    hashtags: "#portrait, #portraithood, #fit, #colors"
   - username: "joaohguedes"
     fullname: >-
       Joao Guedes
@@ -43,88 +103,28 @@ profiles:
     id: ck5q6dcmywy5a0i11ddpbgnxw
     verified: false
     hashtags: "#lifestyle, #chasinglight, #model, #vancouver"
-  - username: "bylauragdiaz"
+  - username: "loganmedeiros"
     fullname: >-
-      Laura - Conscious Lifestyle
+      Logan Medeiros
     bio: >-
-      📸 Visual storytelling for ethical, sustainable & vegan-friendly brands ⋗ product • fashion • lifestyle ♡ green beauty ☼ body positivity 📍 Montreal
+      fashion, fitness, beauty & lifestyle 📍montréal 💌 loganmedeiros44@gmail.com tiktok (270k), links & more:
     location: "Canada"
-    followers: 2513
-    engagement: 1204
-    commentsToLikes: 0.244004
-    id: ck13bok3gwepl0i19265dty97
+    followers: 33499
+    engagement: 6576
+    commentsToLikes: 0.051953
+    id: ckf5n0rnmw99f0j238jo8l9i0
     verified: false
-    hashtags: "#travelandleisure, #mtlblogger, #travelinladies, #womenwhotravel"
-  - username: "moralview"
+    hashtags: "#apartmentlife, #highrise, #aesthetic, #apartmentliving"
+  - username: "jamiepaigebeauty"
     fullname: >-
-      Carlos Mora
+      Jamie Paige
     bio: >-
-      🇨🇴🇨🇦 Canada YYC, YOW Other account @morac3 DM for pics
+      🇨🇦 Montréal 🎥 Beauty & lifestyle YouTuber 🎨 Stationery shop @jamiepaigedoodles YouTube Channel & more ↓ ✨
     location: "Canada"
-    followers: 15180
-    engagement: 448
-    commentsToLikes: 0.054234
-    id: ck9hb13ozexi20j78vutjkasl
+    followers: 130971
+    engagement: 108
+    commentsToLikes: 0.013073
+    id: ck14ju6t2m7ft0i19n6eatclw
     verified: false
-    hashtags: "#portraitpage, #montreal, #edits, #calgary"
-  - username: "mayawith_love"
-    fullname: >-
-      The Queen Maya 👑 الملكة مايا
-    bio: >-
-      Aphrodite of the 21st century! Singer 🎤 LINK in Bio...رابط التويتر تحت ناااار يراقبونني بشدة ويقلدونني بدقة🐆جيش مايا
-    location: "Canada"
-    followers: 152888
-    engagement: 193
-    commentsToLikes: 0.071413
-    id: ckap1ez0subag0i78z7d9uog6
-    verified: false
-    hashtags: "#body, #turkey, #gym, #hot"
-  - username: "anacruz"
-    fullname: >-
-      Ana Cruz🌶
-    bio: >-
-      Colombiana 🇨🇴 Based in Montreal Fashion + lifestyle • contactanacruz@gmail.com
-    location: "Canada"
-    followers: 21900
-    engagement: 202
-    commentsToLikes: 0.108976
-    id: ck0u9oei7ad2e0i198tdo1bex
-    verified: false
-    hashtags: "#makeup, #ad, #makeuptutorial, #foodie"
-  - username: "harleens3khon"
-    fullname: >-
-      Harleen Sekhon
-    bio: >-
-      Toronto | @designbyharleen fashion • beauty • art Collab/PR 📧 harleensekhonofficial@gmail.com
-    location: "Canada"
-    followers: 3271
-    engagement: 966
-    commentsToLikes: 0.169015
-    id: ckf5o291c0m3d0j232y4q9oxq
-    verified: false
-    hashtags: "#aesthetic, #zarawoman, #longhairgoals, #neutralfashion"
-  - username: "zelatakogan"
-    fullname: >-
-      Zelata Kogan
-    bio: >-
-      Based in Montreal 📍⁣⁣ Naturopathic student ⁣⁣🌿 How I met Dave👇🏻👇🏻
-    location: "Canada"
-    followers: 27410
-    engagement: 147
-    commentsToLikes: 0.125755
-    id: ck0w5crhg30dy0i19c333e796
-    verified: false
-    hashtags: "#gifted, #todaysatkins, #atkins, #lowcarb"
-  - username: "gabiliciousxsx"
-    fullname: >-
-      𝐠𝐚𝐛𝐢𝐥𝐢𝐜𝐢𝐨𝐮𝐬𝐱𝐬𝐱 🖤|𝑀𝒶𝓀𝑒𝓊𝓅 𝒜𝓇𝓉𝒾𝓈𝓉
-    bio: >-
-      ✨💖👼🏼 Angel @danessamyricksangels 💌 DM for business & PR TikTok : Gabiliciousxsx Self Taught 💄& 📸 📍🇨🇦 Montreal Discount Codes In Highlights ⬇️
-    location: "Canada"
-    followers: 11398
-    engagement: 387
-    commentsToLikes: 0.167061
-    id: ck5bu5ibeh70r0i11pv62kfct
-    verified: false
-    hashtags: "#afl, #ardellca, #morpheglamfam, #ttdeye"
+    hashtags: "#crochet, #ootd, #crochetsweater, #crocheting"
 ---

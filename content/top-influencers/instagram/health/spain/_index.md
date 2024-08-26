@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Spain In 2023
+title: Top 10 Health Instagram Influencers In Spain In 2024
 description: >-
-  Find top health Instagram influencers in Spain in 2023. Most popular hashtags: #fitness #nature #model #beautiful.
+  Find top health Instagram influencers in Spain in 2024. Most popular hashtags: #spain #healthylifestyle #airfryer.
 platform: Instagram
-hits: 530
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 530 Instagram influencers like this in Spain for you to connect with.
+hits: 626
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 626 Instagram influencers like this in Spain for you to pitch.
 profiles:
-  - username: "franroxe"
+  - username: "hablandoderaciones"
     fullname: >-
-      F R A N R O X E
+      Hablando De Raciones
     bio: >-
-      🌍 Traveller 🐕 Animal lover 🏋🏻‍♂️ Healthy and Fitness life 📍 España 🇪🇸
+      2 Enfermeros - 1 pasión: Healthylifestyle 🥑 + 🚴‍♀️+🧠 ¡CREA UNA BUENA RELACIÓN CON LA COMIDA!
     location: "Spain"
-    followers: 35166
-    engagement: 607
-    commentsToLikes: 0.200806
-    id: ckap0i3ulqe0w0i78zpi9owcb
+    followers: 146482
+    engagement: 1111
+    commentsToLikes: 0.129608
+    id: clo1taku1ea1f0j08e0k2ex32
     verified: false
-    hashtags: "#holzkern, #holzkernwatches, #woodwatches, #relojesdemadera"
-  - username: "lauraalago"
+    hashtags: "#recetasfaciles, #comidasaludable, #recetasnavide, #hablandoderaciones"
+  - username: "portimismo"
     fullname: >-
-      𝐋𝐀𝐔𝐑𝐀 𝐋𝐀𝐆𝐎 -ᵉᵐᵖʳᵉᶰᵈᵉ
+      Portimismo♥️♥️
     bio: >-
-      💡De estudiante a emprendedora ⚡️Ayudo a dominar objetivos Cᥲmbιᥲ tᥙ ᥴhιρ | ᴹᵁᴺᴰᴼ ᴴᴱᴬᴸᵀᴴᵞ 📍Tomiño, Galicia 📮 lauralago2000@gmail.com
+      ♥️Cocina con amor #fit 🍴Reto Recetas #comidaestrellada by Jen y #healthyyyum 🧐Cuídate #beautypostjen 🌎Lugars increíbls #jenporelmundo 💌⬇️
     location: "Spain"
-    followers: 6282
-    engagement: 814
-    commentsToLikes: 0.149262
-    id: ckap295ghxxem0i78jpwtdtmn
+    followers: 15567
+    engagement: 471
+    commentsToLikes: 0.048306
+    id: ckapcpw254q4w0i78s6ozn6k6
     verified: false
-    hashtags: "#galiciam, #photoofday, #nuevafoto, #diariodenetworker"
-  - username: "martabisshopp"
+    hashtags: "#foodart, #cuidadofacial, #f52grams, #familia"
+  - username: "vanessa.kyosina"
     fullname: >-
-      M A R T A  B I S S H O P P
+      VANESSA KYOSINA | Lifestyle✨Beauty✨Fashion
     bio: >-
-      ▫️ Fitness&Health ▫️ Médico👩🏽‍⚕️🩺 ▫️ @myproteines : BISSHOPP ▫️#naturalbodybuilding
+      🗣️🇧🇬🇬🇧🇷🇺 📍Barcelona 🍑 @fitbabestore 👩🏻‍💻SMM ✨I share my secrets in highlights⤵️ 🥑Health💎Acne advice✨Personal development
     location: "Spain"
-    followers: 10487
-    engagement: 856
-    commentsToLikes: 0.014264
-    id: ck8talv1osaqn0j780xyqs5v2
+    followers: 67765
+    engagement: 526
+    commentsToLikes: 0.023532
+    id: ck8syma8dl9310j78bfo4hsmp
     verified: false
-    hashtags: "#healthylifestyle, #lifestyle, #health, #train"
-  - username: "alexguinot"
+    hashtags: "#leoenergy, #giveaway, #ifiwas, #xiaomibulgaria"
+  - username: "petraarvelatrainer"
     fullname: >-
-      Alejandro Guinot
+      Petra Arvela | Personal Trainer
     bio: >-
-      ΛLΞX GUINФT Born in Castellón Sports & healthy food👨🏻‍🍳 🇪🇦Tribemodels,Fleming,Pophouse🇮🇹Ilovemanagement🇩🇪Spinmodels🇫🇷Metropolitan🇺🇲Wilhelmina
+      💥Motivation, Health, Training 🏃🏼‍♀️Spartan Pro / Hybrid athlete living Vanlife 👩🏼‍🎓Sport scientist ✨Certified Personal Trainer in Mallorca and online
     location: "Spain"
-    followers: 10471
-    engagement: 932
-    commentsToLikes: 0.065932
-    id: ck55j9kr0wkdp0i11wuqu30gn
+    followers: 41822
+    engagement: 398
+    commentsToLikes: 0.028395
+    id: ck5ca0n0pchbf0i118h4bknza
     verified: false
-    hashtags: "#naturephotography, #fashionstyle, #style, #moda"
-  - username: "xavillnu"
+    hashtags: "#spain, #movementislife, #fitnessmotivation, #fitfam"
+  - username: "annacometpascua"
     fullname: >-
-      🅧🅐🅥🅘
+      Anna Comet Pascua // entrenadora, periodista i atleta
     bio: >-
-      Sport is my healthy fun 🏊🏽🚴🏽🏃🏽 & friends MY PHOTOGRAPHY PAGE⏩@XAVILLPHOTO 💥 código FXXavier15 -15% montonsports
+      Professional trailrunner athlete 🏃🏽‍♀️🏔️ Journalist 📝& trainer Family lover 👨‍👩‍👦 Health habits follower 🍏🥬🥔🥑🤸🏽‍♀️😴 👟 @scarpa_world ⏰ @corosesp
     location: "Spain"
-    followers: 9821
-    engagement: 2833
-    commentsToLikes: 0.023823
-    id: ck8t68t8icosz0j78qltknhfj
+    followers: 13481
+    engagement: 492
+    commentsToLikes: 0.044370
+    id: ck13c9269z6td0i19q48lh8hj
     verified: false
-    hashtags: "#keeponrunning, #swimmerlife, #cyclingshots, #montonsports"
-  - username: "lidiaavellido"
+    hashtags: "#speedup, #noplacetoofar, #theelementsteam, #occ"
+  - username: "toks_amy"
     fullname: >-
-      Lidia A. Vellido
+      Amy Ramirez
     bio: >-
-      Healthylife🤸🏻‍♂️|Recetas👩🏻‍🍳|Ejercicio🏋🏻‍♀️ Mama primeriza del 93’ 🤱🏻 Enzo👶🏻 Ya somos 5 👨‍👩‍👦🐶🐱
+      London based Mum 50% 🇬🇧 50% 🇪🇸 Email: amy.toks@weareera.com Fashion | Travel Healthy Lifestyle YouTube: Toks
     location: "Spain"
-    followers: 14978
-    engagement: 915
-    commentsToLikes: 0.036046
-    id: ckf5qgi899a3y0j23rhhnfbnb
+    followers: 50693
+    engagement: 334
+    commentsToLikes: 0.022762
+    id: ck5hfnhnzyc1p0i11cwgfap07
     verified: false
-    hashtags: "#publi, #regalodeindola, #productoregalado, #indola"
-  - username: "alejandro_sandi"
+    hashtags: "#ootd, #family, #baby, #ukinfluencer"
+  - username: "_lydslife"
     fullname: >-
-      Alejandro Sandí
+      Lydia Finnegan
     bio: >-
-      Conductor / Host 🎤 MEX 🇲🇽 / LA 🇺🇸 Traveler • Healthy Lifestyle • Fitness • Positive Mind #HazQueTePasenCosasChingonas @100diassaludables @gnc_mexico
+      Good Skin • Good Health • Happy Relationships • 👇Read My Eczema Blog 🙋‍♀️💕
     location: "Spain"
-    followers: 44506
-    engagement: 191
-    commentsToLikes: 0.091217
-    id: ck5hjmnpygw6b0i11r202rhm3
+    followers: 24795
+    engagement: 299
+    commentsToLikes: 0.025559
+    id: ckap5w3jmdexv0i78et4uc2du
     verified: false
-    hashtags: "#beachlife, #respira, #hazquetepasencosaschingonas, #alejandrosandi"
-  - username: "mypersonalkloset"
+    hashtags: "#atopicdermatitis, #anxiety, #dryskin, #fungalacne"
+  - username: "isabel.lainer"
     fullname: >-
-      My Personal Kloset
+      Isabel Lainer
     bio: >-
-      Healthylife 🥑 Amante del deporte🏃‍♀️ Ambassador @vitaminwellesp @ikaikafit_ 10% 'MPK' Mypersonalkloset2@gmail.com
+      based in Austria (sbg,vie) pilates teacher, health coach & model for bookings DM ✨
     location: "Spain"
-    followers: 31437
-    engagement: 204
-    commentsToLikes: 0.182454
-    id: ck6u11pufj1gf0j71pdg3djud
+    followers: 3997
+    engagement: 290
+    commentsToLikes: 0.005323
+    id: cl0rwncl3qjk90i23670763r4
     verified: false
-    hashtags: "#disfrutona, #agradecida, #dreamer, #compartiresvivir"
-  - username: "valeriaa_lm"
+    hashtags: "#portraitpage, #shoot, #dreamersmagazin, #summermood"
+  - username: "jeiranmoosavi"
     fullname: >-
-      V A L E R I A 🧘‍♀️
+      Jeiran Moosavi
     bio: >-
-      📍 Madrid, Spain 📚 Business Management 🌱 Fitness & Healthy lifestyle
+      📸 Beauty & Fashion 👗 +🩺 Health Model & influencer 🌸 Surgery & operating nurse 👩‍⚕️ #SportyGirl 🏋️‍♀️ | 📺 YT | 🇩🇰
     location: "Spain"
-    followers: 10193
-    engagement: 1050
-    commentsToLikes: 0.038255
-    id: ck15scoakcc9q0i19op42xc8m
+    followers: 41365
+    engagement: 246
+    commentsToLikes: 0.036150
+    id: ck6u4mivh4kjd0j711n1xou9z
     verified: false
-    hashtags: "#nomakeup, #sun, #peaceful, #picoftheday"
-  - username: "paulafrailevelasco"
+    hashtags: "#persianstyle, #spain, #hunkem, #iranian"
+  - username: "stefan_pollmann"
     fullname: >-
-      Amaraslamoda
+      Stefan Pollmann
     bio: >-
-      🦁 I'm a leo woman 🤓 #marketingmanager 🥑 #healthyfoody 🌎 Made in 🇪🇸 📩 info@amaraslamoda.com 📍 Madrid
+      Model | Health | Dad of two 👧🏻 | Podcast 🎙️ 📍currently in Sydney 🇩🇪🇦🇺 @kultmodels @wilhelminamodels 🇺🇸 Train with me 🏋️‍♂️ @stefanpollmannfitness
     location: "Spain"
-    followers: 95366
-    engagement: 134
-    commentsToLikes: 0.044849
-    id: ckf5nt4g1zllk0j23bd7ajzvz
+    followers: 196286
+    engagement: 210
+    commentsToLikes: 0.041591
+    id: ck8szt30splz70j786b49u93r
     verified: false
-    hashtags: "#homedesign, #newhome, #duchallorona, #deco"
+    hashtags: "#bookclub, #garraf, #wannabe, #poser"
 ---

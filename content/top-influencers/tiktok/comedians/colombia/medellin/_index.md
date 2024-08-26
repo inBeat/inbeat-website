@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Medellín In 2023
+title: Top 10 Comedians TikTok Influencers In Medellín In 2024
 description: >-
-  Find top comedians TikTok influencers in Medellín in 2023. Most popular hashtags: #comedia #parati #viral #fyp.
+  Find top comedians TikTok influencers in Medellín in 2024. Most popular hashtags: #parati #comedia #viral #fyp.
 platform: TikTok
 hits: 22
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 22 TikTok influencers like this in Medellín, Colombia for you to collaborate.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 22 TikTok influencers like this in Medellín, Colombia for you to contact.
 profiles:
   - username: "el_pelon_1"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.020029
     id: ckb1bygb20nbh0j23v28nh6od
     verified: true
-    hashtags: "#lulu99, #challenge, #viral, #comedia"
+    hashtags: "#risa, #transformation, #viral, #comedia"
   - username: "santivelezs"
     fullname: >-
       Santiago Velez

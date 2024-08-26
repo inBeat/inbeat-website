@@ -1,12 +1,72 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Colombia In 2023
+title: Top 10 Wellness Instagram Influencers In Colombia In 2024
 description: >-
-  Find top wellness Instagram influencers in Colombia in 2023. Most popular hashtags: #wellness #fitnessmotivation #fitness #beauty.
+  Find top wellness Instagram influencers in Colombia in 2024. Most popular hashtags: #motivacion #wellness #tbt.
 platform: Instagram
-hits: 23
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 23 Instagram influencers like this in Colombia for you to connect with.
+hits: 34
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database has 34 Instagram influencers like this in Colombia for you to collaborate.
 profiles:
+  - username: "tiffanialvarez"
+    fullname: >-
+      Tiffani Alvarez
+    bio: >-
+      Makeup | beauty | wellness | lifestyle | moda +250k en TT 🤝🏻 muchos reviews allá info@tiffanialvarez.com 📍Medellín hubby 🫀 @davidbravod
+    location: "Colombia"
+    followers: 22730
+    engagement: 245
+    commentsToLikes: 0.018727
+    id: ck8wevvpseoo90j78cq9vxrh8
+    verified: false
+    hashtags: "#maquillajenatural, #maquillajefavorito, #maquillaje, #labiales"
+  - username: "pameperez.p"
+    fullname: >-
+      Pame Perez
+    bio: >-
+      Mamá de MARIANO 💙 Co-Founder @pamelas.wellnessfood Founder @by.pameperez IIN Health Coach Fitness Enthusiast LiveHealthy-LiveLonger
+    location: "Colombia"
+    followers: 45351
+    engagement: 225
+    commentsToLikes: 0.040558
+    id: ck13c63keysra0i19xh0geu5r
+    verified: false
+    hashtags: "#saludable, #marianopelaezperez, #21diasconpameperez, #creandohabitos"
+  - username: "manumontoz"
+    fullname: >-
+      Manuela Montoya
+    bio: >-
+      aquí vivimos un día a la vez 🪽 fashion•makeup•hair•wellness 💌manuemontoyaperez@gmail.com ambassador @FashionNova
+    location: "Colombia"
+    followers: 224410
+    engagement: 214
+    commentsToLikes: 0.007167
+    id: ck5zutgbp30cx0i14hmrkznmq
+    verified: false
+    hashtags: "#beautyunderyourinfluence, #colourpopcollection, #secretomakeup, #pixipretties"
+  - username: "sophiegiraldo"
+    fullname: >-
+      Sophie
+    bio: >-
+      self-care | wellness | slow travel ✨ modern slow living enthusiast
+    location: "Colombia"
+    followers: 1235769
+    engagement: 125
+    commentsToLikes: 0.001989
+    id: ckap4ed9o6zlw0i7834eonjl7
+    verified: true
+    hashtags: "#barbieextra, #reels, #sophiemiami, #travel"
+  - username: "anitaloynaz"
+    fullname: >-
+      Anita Loynaz | Art & Wellness
+    bio: >-
+      Flamenco Dancer & Gymnast Fitness & Wellness Lifestyle Mom & Business Women Nike Athlete 🇻🇪❤️🇵🇦❤️
+    location: "Colombia"
+    followers: 41263
+    engagement: 54
+    commentsToLikes: 0.036455
+    id: ck0u14sv9vuoc0i19r0r8hpfk
+    verified: false
+    hashtags: "#nikewomen, #flamencoenpanama, #flamencodancer, #fitness"
   - username: "bebasantander"
     fullname: >-
       Thalia Santander 🐰💪
@@ -67,64 +127,4 @@ profiles:
     id: ckf5pnk4x6oer0j232fvt6n01
     verified: false
     hashtags: ""
-  - username: "mariadalmazzo"
-    fullname: >-
-      mariadalmazzo
-    bio: >-
-      🙏 Aprendiz 💫Viajera 🧘🏼‍♀️Amante del bienestar ⭐️Creadora de @mimosymimosas ✨Manager @deisymarroquin
-    location: "Colombia"
-    followers: 39318
-    engagement: 171
-    commentsToLikes: 0.026932
-    id: ck14ig057f7pz0i193f3i40v8
-    verified: true
-    hashtags: "#wellness, #loquehariamaria, #bienestar, #beautyexpert"
-  - username: "vero__ospina"
-    fullname: >-
-      Vero Ospina
-    bio: >-
-      Respira, respira, respira 🍃🌬 Guía de bienestar📖 @atmavillas
-    location: "Colombia"
-    followers: 47735
-    engagement: 262
-    commentsToLikes: 0.042843
-    id: ck136gciz6d2g0i19pezkgsqq
-    verified: false
-    hashtags: "#pranayama, #bienestar, #justbreathe, #meditar"
-  - username: "anamorenoft"
-    fullname: >-
-      Personal Trainer
-    bio: >-
-      💪 ENTRENADORA PERSONAL 1️⃣ Coach on-line y presencial @angelmioaccesorio 🏅 Est.Actividad física ➡️Clase grupal a domicilio 🏐Vóley - Bailar Mi pasión
-    location: "Colombia"
-    followers: 7165
-    engagement: 308
-    commentsToLikes: 0.058866
-    id: ck5c7l1gt7q3i0i11ycxf7fbc
-    verified: false
-    hashtags: "#entrenamientofuncional, #calistenia, #wellness, #bootygains"
-  - username: "marianelamodel"
-    fullname: >-
-      MARIANELA | PRESENTADORA
-    bio: >-
-      🇨🇴 Miss sudamerica 2020 🏋🏽‍♀️ fitness 👩🏼‍💼Creadora de @malena_stylee
-    location: "Colombia"
-    followers: 70301
-    engagement: 217
-    commentsToLikes: 0.023285
-    id: ck5q3ihpokw7e0i11gl42nznm
-    verified: false
-    hashtags: "#instagood, #instafashion, #photography, #mexico"
-  - username: "racolmenero"
-    fullname: >-
-      Ra Colmenero
-    bio: >-
-      📍 CDMX 🏴‍☠️Co-Founder @tootoxicshop 🏋️‍♀️ Fitness coach @fvrclubmx 💻 Manager: @lulucasgar @pineapplemgmt 🚀 Social media ⬇️
-    location: "Colombia"
-    followers: 48158
-    engagement: 99
-    commentsToLikes: 0.062561
-    id: ck5bwg654ln820i11cyisja0y
-    verified: false
-    hashtags: "#men, #menstyle, #gym, #fitness"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Venezuela In 2023
+title: Top 10 Cinema Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top cinema Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #caracas #photography #art.
+  Find top cinema Instagram influencers in Venezuela in 2024. Most popular hashtags: #venezuela #caracas #photography #amor.
 platform: Instagram
 hits: 9
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 9 Instagram influencers like this in Venezuela for you to work with.
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 9 Instagram influencers like this in Venezuela for you to contact.
 profiles:
   - username: "chrisbettelli"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck0vypnki56cl0i19l9tsx9vv
     verified: false
     hashtags: "#mar, #lecheria, #cerroelmorro, #dji"
+  - username: "yosoymarca"
+    fullname: >-
+      Chrys Vásquez - Marketing Digital
+    bio: >-
+      Desarrollo estrategias de marketing para que logres marcar la diferencia y posicionar tu marca CEO en @creatorstudioagency 🔥🚀 Ccs - LG 🇻🇪 Únete⤵️
+    location: "Venezuela"
+    followers: 72884
+    engagement: 66
+    commentsToLikes: 0.121666
+    id: ck602zdoqk5tu0i14g9gy22y7
+    verified: false
+    hashtags: "#posicionamientodemarca, #contentcreator, #formaci, #videomarketing"
   - username: "karlafvs"
     fullname: >-
       Karla Vieira
@@ -43,18 +55,6 @@ profiles:
     id: ck5qcgd1yqfg90i11qseikytd
     verified: false
     hashtags: "#let, #pasitoapasitollegamosalobjetivo, #karics, #missmundord"
-  - username: "elgatogolosoblog"
-    fullname: >-
-      Maru Aveledo▪️Food Photography
-    bio: >-
-      Baker•E-courses•Content creator CEO @backsico Curso Fotografía de Alimentos con Smartphone Inicio:25/02 👇🏻Enlace a mis cursos y recursos GRATIS👇🏻
-    location: "Venezuela"
-    followers: 39579
-    engagement: 209
-    commentsToLikes: 0.059871
-    id: ck5hd17n3kz7r0i1123y7t6zp
-    verified: false
-    hashtags: "#foodartblog, #hautescuisines, #gloobyfood, #bakingfromscratch"
   - username: "adrianlarat"
     fullname: >-
       Adrián Eduardo Lara Torres

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Japan In 2023
+title: Top 10 Nutrition Instagram Influencers In Japan In 2024
 description: >-
-  Find top nutrition Instagram influencers in Japan in 2023. Most popular hashtags: #nutrition #love #eatclean.
+  Find top nutrition Instagram influencers in Japan in 2024. Most popular hashtags: #nutrition #love #motivation.
 platform: Instagram
-hits: 13
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 13 Instagram influencers like this in Japan for you to collaborate.
+hits: 14
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 14 Instagram influencers like this in Japan for you to connect with.
 profiles:
   - username: "miawatanabe_yoga"
     fullname: >-
@@ -91,6 +91,18 @@ profiles:
     id: ckaos2lptpvpi0i781ha8xym5
     verified: false
     hashtags: "#registereddietitian, #diettian, #nurtrition, #nutrition"
+  - username: "sagewatson"
+    fullname: >-
+      Sage Walker
+    bio: >-
+      Woman of Faith 2xOlympian Private coaching ⬇️ ⁣⁣⁣ Canadian Record Holder⁣⁣ Pan Am Champion ⁣⁣⁣⁣ NCAA Champion for Arizona⁣⁣⁣
+    location: "Japan"
+    followers: 90231
+    engagement: 429
+    commentsToLikes: 0.016333
+    id: ck0u9m9r5a3bk0i19qw7p3r3x
+    verified: true
+    hashtags: "#trackandfield, #olympics, #grateful, #tokyo2020"
   - username: "edenthecollection"
     fullname: >-
       Fashion | Beauty Photographer
@@ -115,16 +127,4 @@ profiles:
     id: ck6ugl3do3nxl0j71l8rehupv
     verified: false
     hashtags: "#nasmcertifiedpersonaltrainer, #nasmcpt, #personaltrainer, #coacht"
-  - username: "satisforest"
-    fullname: >-
-      Stefan Gerbl 🌿 Vegan Coach
-    bio: >-
-      I help Vegans lose weight, build lean muscle & reclaim their Health/Performance (BODY&MINDSET) 🌱💪🏻🧠⚡️📈 . ↘️BECOME A FIT VEGAN↙️
-    location: "Japan"
-    followers: 41636
-    engagement: 276
-    commentsToLikes: 0.032615
-    id: ck136is8n6oua0i19uhbinil3
-    verified: false
-    hashtags: "#vegansofig, #vegantips, #veganpump, #plantbased"
 ---

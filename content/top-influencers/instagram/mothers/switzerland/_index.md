@@ -1,12 +1,48 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Switzerland In 2023
+title: Top 10 Mothers Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top mothers Instagram influencers in Switzerland in 2023. Most popular hashtags: #love #nature #happy #switzerland.
+  Find top mothers Instagram influencers in Switzerland in 2024. Most popular hashtags: #switzerland #love #momlife.
 platform: Instagram
-hits: 51
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 51 Instagram influencers like this in Switzerland for you to work with.
+hits: 74
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 74 Instagram influencers like this in Switzerland for you to collaborate.
 profiles:
+  - username: "ourslowdiary"
+    fullname: >-
+      Safaa | Storyteller, Photographer
+    bio: >-
+      Diary of slow moments and places 🎞️ Dreamer - Lover - Mother Mama of Léonie & Hazel Bordeaux 🇫🇷 | Zug 🇨🇭 💌 ourslowdiary@gmail.com
+    location: "Switzerland"
+    followers: 14208
+    engagement: 419
+    commentsToLikes: 0.162599
+    id: ckaowp5tz9tx10i78rfmfa8bj
+    verified: false
+    hashtags: "#ourslowdiaryhome, #worldtraveler, #uniquehotels, #iamatraveler"
+  - username: "monikabuser"
+    fullname: >-
+      𝐌𝐨𝐧𝐢𝐤𝐚 𝐁𝐮𝐬𝐞𝐫 ❥
+    bio: >-
+      ✨ Fashion, Family & Skincare 🤍 New Mama 🌸 Celebrating life’s chic moments & motherhood magic 📸 UGC Creator 📍Basel CH & Dornbirn AT 📩 DM for Collabs
+    location: "Switzerland"
+    followers: 9199
+    engagement: 2791
+    commentsToLikes: 0.092085
+    id: cll83932e89cw0j08w8ydbo87
+    verified: false
+    hashtags: "#ootd, #grwmroutine, #grwm, #mumlife"
+  - username: "morenadiaz"
+    fullname: >-
+      Morena Diaz
+    bio: >-
+      motherhood ✨ healing ✨ selflove 📫morena@brandertainment.com
+    location: "Switzerland"
+    followers: 58144
+    engagement: 386
+    commentsToLikes: 0.030153
+    id: ck601tqazg5lh0i14yaq5yhvv
+    verified: true
+    hashtags: "#selbstliebelernen, #selbstliebe, #alleinerziehend, #jedentageinbisschenm0reniita"
   - username: "gasparinselina"
     fullname: >-
       Selina Gasparin
@@ -43,6 +79,42 @@ profiles:
     id: ck5hn10wdn0580i116nf8sxcn
     verified: false
     hashtags: "#coconuthunt, #oops, #bigwin, #jinglebells"
+  - username: "romanosalis"
+    fullname: >-
+      Romano Salis
+    bio: >-
+      🇨🇭 mountainguide • stills & motion • ☁️🪂☁️
+    location: "Switzerland"
+    followers: 15395
+    engagement: 714
+    commentsToLikes: 0.016184
+    id: ck6tuhbqmgcda0j71zpwt3qw6
+    verified: false
+    hashtags: "#switzerland, #graubu, #carpediem, #bundi"
+  - username: "therealindapavlova"
+    fullname: >-
+      LINDA STRONCEROVA ليندا بافلوفا
+    bio: >-
+      • 𝗦𝗼𝗽𝗵𝗶𝘀𝘁𝗶𝗰𝗮𝘁𝗲𝗱 𝘁𝗿𝗮𝘃𝗲𝗹 & 𝗹𝗶𝗳𝗲𝘀𝘁𝘆𝗹𝗲 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 𝗽𝗿𝗼𝗱𝘂𝗰𝗲𝗿 • 𝗧𝗵𝗲 𝗻𝗲𝘄 “𝗰𝗼𝘁𝘁𝗼𝗻“ CEO @duedilatte.ch • 𝟮𝟯.𝟭𝟭.𝟮𝟯 @jemaimebyduedilatte • 𝟮𝟯.𝟭𝟭.𝟮𝟮 @mathilbet
+    location: "Switzerland"
+    followers: 324256
+    engagement: 21
+    commentsToLikes: 0.000020
+    id: ck6u1ur9do04r0j712nb3n5k6
+    verified: false
+    hashtags: "#breastfeeding, #noadv, #cotedazur, #supplied"
+  - username: "annecarole_w"
+    fullname: >-
+      Aesthetics | Mom Life | Lifestyle 🤍✨
+    bio: >-
+      Wifey of @adamvld #brunchlover #aesthetic #momlife Living in Zürich 🇨🇭.
+    location: "Switzerland"
+    followers: 11757
+    engagement: 60
+    commentsToLikes: 0.021204
+    id: clonw4ya48ibu0j08h0q1poc9
+    verified: false
+    hashtags: "#parenthood, #aesthetics, #momlife, #motherhood"
   - username: "lucy_zzz"
     fullname: >-
       ✨LU✨
@@ -54,77 +126,5 @@ profiles:
     commentsToLikes: 0.032923
     id: ck5bvc1pajdcf0i11s89j9r47
     verified: false
-    hashtags: "#italia, #bluesky, #milano, #mountains"
-  - username: "fabienne_wernly"
-    fullname: >-
-      Fabienne Wernly
-    bio: >-
-      🎙Moderatorin Energy Zürich 📻
-    location: "Switzerland"
-    followers: 17127
-    engagement: 620
-    commentsToLikes: 0.011293
-    id: ck5zxfi347x0z0i143jomwnj0
-    verified: false
-    hashtags: "#energy, #happy, #stayhealthy, #mom"
-  - username: "shazna_ilham"
-    fullname: >-
-      🇨🇭Shazna . Lifestyle . Beauty
-    bio: >-
-      Basel-Switzerland roots 🇱🇰 Founder @la.oud 💍 to @pyaarkitchen info@shaznailham.com
-    location: "Switzerland"
-    followers: 33394
-    engagement: 733
-    commentsToLikes: 0.088920
-    id: ck6tio193135z0j71bdk1mi3n
-    verified: false
-    hashtags: "#basel, #esteelauder, #sonntag, #swissblogger"
-  - username: "thomas.biasotto"
-    fullname: >-
-      Thomas Biasotto
-    bio: >-
-      I'm a photographer and musician and I love it, share photo's and emotions. I love what I do! Thanks for visiting me and my gallery!!! Thomas
-    location: "Switzerland"
-    followers: 16012
-    engagement: 356
-    commentsToLikes: 0.024475
-    id: ck5pv8yhvgput0i1127iwxnvj
-    verified: false
-    hashtags: "#natgeolandscape, #mountainview, #landschaft, #landscaping"
-  - username: "mahabeautycare"
-    fullname: >-
-      Maha Maharajah - Pro Make up and Hair artist
-    bio: >-
-      15+ yrs experience | Based in Switzerland🇨🇭 🔓BRIDAL DIARY OPEN FOR 2023 🚫DM - mahabeautycareswiss@gmail.com
-    location: "Switzerland"
-    followers: 39624
-    engagement: 732
-    commentsToLikes: 0.014930
-    id: ck5zihgcrfpi80i14a8f3gzvo
-    verified: false
-    hashtags: "#mommytobe, #tamilwedding, #baby, #pregnant"
-  - username: "koelve"
-    fullname: >-
-      Elvira 🦋
-    bio: >-
-      fashion is my passion 🎀 music inspires me 🎶 🖤sports make me feel
-    location: "Switzerland"
-    followers: 14084
-    engagement: 1918
-    commentsToLikes: 0.187688
-    id: ck0uetn9rm8rc0i19tbe58bm9
-    verified: false
-    hashtags: "#enjoy, #love, #loveit, #dreams"
-  - username: "lalacla_"
-    fullname: >-
-      Claudia
-    bio: >-
-      Simplicity is the ultimate sophistication✨ Made in Italy📍Zurich 📚curious |🎢crazy | 🌍empatic |🧘🏻mindfull |🎭Arts |💫Aquarius
-    location: "Switzerland"
-    followers: 5442
-    engagement: 2545
-    commentsToLikes: 0.034823
-    id: ck8t6drijd8il0j78i9zqzkcn
-    verified: false
-    hashtags: "#lago, #swissalps, #lake, #clouds"
+    hashtags: "#water, #free, #happy, #kiss"
 ---

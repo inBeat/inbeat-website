@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Singapore In 2023
+title: Top 10 Fashion Instagram Influencers In Singapore In 2024
 description: >-
-  Find top fashion Instagram influencers in Singapore in 2023. Most popular hashtags: #happyniuyear #mydogist #fursiblings.
+  Find top fashion Instagram influencers in Singapore in 2024. Most popular hashtags: #sgfamily #singapore #sgfood #ootd.
 platform: Instagram
-hits: 36
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 36 Instagram influencers like this in Singapore for you to contact.
+hits: 87
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 87 Instagram influencers like this in Singapore for you to pitch.
 profiles:
-  - username: "gracelsyy"
+  - username: "peroro_"
     fullname: >-
-      GRACE LIM
+      ⋆·˚ ༘ * Persie Y  ੈ✩‧₊˚
     bio: >-
-      𝘧𝘢𝘴𝘩𝘪𝘰𝘯 • 𝘣𝘦𝘢𝘶𝘵𝘺 • 𝘮𝘦𝘯𝘵𝘢𝘭 𝘩𝘦𝘢𝘭𝘵𝘩 fashion stylist ☁️🪄
+      ♡ Lifestyle, Health,Motherhood,Food,Beauty,Fashion ҉ therealpersie@gmail.com ＊*✩˚ interior designer ✩ boy mum @bbbhung_ ☽ SG ˚｡⋆
     location: "Singapore"
-    followers: 72133
-    engagement: 36
-    commentsToLikes: 0.010123
-    id: ck0ucnofrh88i0i19a47ad3tf
+    followers: 19155
+    engagement: 441
+    commentsToLikes: 0.072755
+    id: clm70aj3igdys0j08urosqknx
     verified: false
-    hashtags: "#adidas, #martellnoblige, #swipe, #lazadasgalloutyearendsale"
-  - username: "lihuijapanlove"
+    hashtags: "#newborn, #thingstodo, #baby, #sp"
+  - username: "jessluvzs"
     fullname: >-
-      Lihui利慧| Singapore新加坡🇸🇬
+      𝒥𝑒𝓈𝓈𝒾𝒸𝒶 𝐿𝑒𝑒
     bio: >-
-      Food | Fashion | Beauty | Lifestyle 🏅Top 100 SG Lifestyle Blogger Founder of @creativeinfluencermedia 📩Collab/工作/代言: lihuijapanlove@gmail.com
+      SG Lifestyle | Food | Fashion | Travel ✈️🇹🇭🇹🇷🇨🇳 💜YouTrip Ambassador <JESSL5> 💗Bioderma Creator 💙#joashloon #jonasloon Skaterboys
     location: "Singapore"
-    followers: 41454
-    engagement: 208
-    commentsToLikes: 0.075530
-    id: ckaotr1v0x4230i78w5diw0tm
+    followers: 11350
+    engagement: 587
+    commentsToLikes: 0.229463
+    id: clm70ak0kgeu50j08pov34h6m
     verified: false
-    hashtags: "#kbeauty, #koreanbeauty, #atomekittens, #tmgmgroup"
-  - username: "rebeccachenxoxo"
-    fullname: >-
-      Rebecca Chen
-    bio: >-
-      @fashionnova Ambassador 𝐿𝑒𝓉’𝓈 𝒸𝒽𝒶𝓉 ♡ ⬇️
-    location: "Singapore"
-    followers: 585124
-    engagement: 192
-    commentsToLikes: 0.023245
-    id: ck5c6u55m67770i11dmjixi25
-    verified: false
-    hashtags: ""
-  - username: "glennjarrel"
-    fullname: >-
-      GLENN JARREL
-    bio: >-
-      — visual kid + fashion enthusiast @byglennjarrel talk to me: sadboys0rrow@outlook.com
-    location: "Singapore"
-    followers: 2234
-    engagement: 2731
-    commentsToLikes: 0.025112
-    id: ck9hbpy69hyu60j78580knf2k
-    verified: false
-    hashtags: ""
-  - username: "aimeechengbradshaw"
-    fullname: >-
-      Aimee Cheng-Bradshaw
-    bio: >-
-      ✨British-Chinese 🐝Fashion, beauty, fitness ⭒☽ mental health | psychology 🧠
-    location: "Singapore"
-    followers: 114797
-    engagement: 311
-    commentsToLikes: 0.011660
-    id: ck55jn7nsxd3r0i11s2wl5m3n
-    verified: true
-    hashtags: "#ad, #ilovesilkygirl, #sp, #diorholidays"
+    hashtags: "#whati8todaysg, #sgfood, #jessicaloon, #sglifestyle"
   - username: "weiloongbrian"
     fullname: >-
       Weiloongbrian | 伟龙
     bio: >-
-      📻Radio DJ| Bilingual host| VO| Modelling| Acting 🎙UFM 100.3《独门秀 Two Men Show》4-8PM Love sports, travel, music, fashion, happiness Wllow@sph.com.sg
+      🇸🇬🎙Former Radio DJ| Bilingual host| VO| Acting 💻weiloongbrian88@gmail.com 🏸Love sports, travel, music, fashion, happiness
     location: "Singapore"
-    followers: 12483
-    engagement: 668
-    commentsToLikes: 0.018262
+    followers: 17754
+    engagement: 524
+    commentsToLikes: 0.023158
     id: ck138ds6ffqzj0i194wd3gepr
     verified: false
-    hashtags: "#mensfashionpost, #shapingsound, #lookgoodfeelgood, #outfitoftheday"
-  - username: "nadisukova"
+    hashtags: "#wherearemyabs, #urbanrevivo, #ootd, #whatiwore"
+  - username: "naploes"
     fullname: >-
-      Fashion | Sketch | Singapore
+      natalie ꒰ •ᴗ•｡꒱
     bio: >-
-      ❗️Life in SG🇸🇬 vs HK🇭🇰 ❗️I discover and write about HK and SG fashion💃 ❗️Jewellery business💍 ❗️Illustrator @sketchbynadi ❗️Model💃
+      📍 Singapore 🎬 Beauty, Fashion & Lifestyle on the clock app [77k] 💌 natalienaploes@gmail.com
     location: "Singapore"
-    followers: 7147
-    engagement: 394
-    commentsToLikes: 0.099478
-    id: ckf5vanb6nwcg0j23izf9elhe
+    followers: 11684
+    engagement: 10034
+    commentsToLikes: 0.002207
+    id: clmumxdk2l7tv0j086e1fgh67
     verified: false
-    hashtags: ""
-  - username: "glenngoh"
+    hashtags: "#singapore, #travel, #explore, #reels"
+  - username: "crysta.bel"
     fullname: >-
-      Glenn Goh
+      Crystabel Tan
     bio: >-
-      fashion creative - design & styling. DM for collaborations. 📍🇸🇬
+      ✨˚ Makeup ✧ Fashion ✧ Lifestyle ˚✨ 🌷Tiktok [820k] @ crystabel_ 🎀 M-20.4 @berrybel__ My Socials! ⬇️
     location: "Singapore"
-    followers: 20311
-    engagement: 303
-    commentsToLikes: 0.035402
-    id: ck8sxjwbtho1y0j78lazjbpgs
+    followers: 116884
+    engagement: 1269
+    commentsToLikes: 0.007653
+    id: ck5qcivjuqsrm0i11oniljb3b
     verified: false
-    hashtags: "#giveaway, #quayaustralia, #lvmenss21, #swisslinesingapore"
-  - username: "delilahxnapoleon"
+    hashtags: "#msi, #gaming, #laptop, #cyborg15"
+  - username: "aldiaan"
     fullname: >-
-      Shih Tzu with an attitude
+      Aldian Muhammad, S.T., M.M.
     bio: >-
-      *DELILAH* The boss *NAPOLEON* The sidekick Fierce, fabulous, floofy, fashion <DELILAH>30% off @poshpuppy <DELILAH10>10% off @hello.furry
+      Fashionpreneur but Sport Enthusiast in disguise🏃🏻 Developing @kato.plus — @casa.kato 🏡 📍 MLG 🇮🇩 ☎️ Contact Person ⬇️ •••
     location: "Singapore"
-    followers: 10290
-    engagement: 552
-    commentsToLikes: 0.166397
-    id: ck13ahi4zqezm0i196dl06dbo
+    followers: 68808
+    engagement: 671
+    commentsToLikes: 0.023457
+    id: ck9wgp67gud430j780zn9456d
     verified: false
-    hashtags: "#cuteasabutton, #shihtzulove, #bossdog, #dogbesties"
-  - username: "shavonne.wong"
+    hashtags: "#indonesia, #giveaway, #run, #maybank"
+  - username: "aliciacho"
     fullname: >-
-      Shavonne Wong | Photographer
+      Alicia Cho
     bio: >-
-      🇸🇬📸 Singapore based fashion and celebrity photographer 👩Twitter: @shavonnewong_ AsNTM Guest Photographer Forbes 30U30 Asia Fujifilm-X Photographer
+      🎬 Freelance Talent 🇸🇬 Lifestyle l Adventures | Fashion | Cafe ✈️ Klook - ALICIACHO for 5% off
     location: "Singapore"
-    followers: 23585
-    engagement: 187
-    commentsToLikes: 0.019250
-    id: ck14ihwyofhg30i19gzusp79h
+    followers: 15716
+    engagement: 266
+    commentsToLikes: 0.267548
+    id: clm70agmjgbuy0j08un4871m5
     verified: false
-    hashtags: "#gfx50, #femalephotographer, #humanedge, #photography"
+    hashtags: "#discoverhongkong, #sgfood, #happy2024, #klookkreator"
+  - username: "yenern88"
+    fullname: >-
+      Yen 🌷SG Foodie 🍔 Lifestyle 💖 Home 🌸Travel ✈️ Blogger 🇸🇬
+    bio: >-
+      Content Creator 💃🏻Petite 155 🌷Cooking, foodie, fashion, lifestyle ✈️ Mar🇯🇵 April🇹🇼 May🇮🇩 DM / 💌 me for collabs 💌
+    location: "Singapore"
+    followers: 14441
+    engagement: 263
+    commentsToLikes: 0.107910
+    id: clm70ajvkgepn0j080wb06cq4
+    verified: false
+    hashtags: "#sp, #sghomecooking, #sgeats, #instafood"
+  - username: "j.jaikishan"
+    fullname: >-
+      KISHAN
+    bio: >-
+      Behaving in “unpredictable fashion” and 🤪 - Chaos Theory Actor | Host | Dinosaur For more 👇🏽
+    location: "Singapore"
+    followers: 23497
+    engagement: 258
+    commentsToLikes: 0.036215
+    id: ck5zvecq142pk0i14zltcvb66
+    verified: false
+    hashtags: "#sennheiser, #themoreyouknow, #sgmoji, #mammoth"
+  - username: "mamasinfinitylove"
+    fullname: >-
+      Joyce | Mum➰ContentCreator|📍SG
+    bio: >-
+      👧🏻#joreentanjiyoon 7yo ♡Beauty | Fashion | Food |📷| Pastel Sharing #joy #motherhood #lifestyle #deals 💌 Promo codes👇🏻
+    location: "Singapore"
+    followers: 11646
+    engagement: 225
+    commentsToLikes: 0.140358
+    id: clm70ajlsgegq0j08lkkenith
+    verified: false
+    hashtags: "#foodsg, #whati8today, #klookbirthday, #bondingtime"
 ---

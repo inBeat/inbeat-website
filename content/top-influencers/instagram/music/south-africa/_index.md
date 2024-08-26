@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In South Africa In 2023
+title: Top 10 Music Instagram Influencers In South Africa In 2024
 description: >-
-  Find top music Instagram influencers in South Africa in 2023. Most popular hashtags: #blackhair #brownskin #model.
+  Find top music Instagram influencers in South Africa in 2024. Most popular hashtags: #southafrica #summer #reels.
 platform: Instagram
-hits: 95
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 95 Instagram influencers like this in South Africa for you to work with.
+hits: 113
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 113 Instagram influencers like this in South Africa for you to connect with.
 profiles:
-  - username: "casspernyovest"
+  - username: "iamzackknight"
     fullname: >-
-      Refiloe Phoolo 🇿🇦
+      Zack Knight
     bio: >-
-      👑 of South African Music/ celebrity boxer CLICK LINK BELOW
+      🌍 iamzackknight.com 🎵 TikTok: RealZackKnight ✉️ bookings@iamzackknight.com 🏅 Music Direction - IIFA 2019
     location: "South Africa"
-    followers: 5889001
-    engagement: 95
-    commentsToLikes: 0.011742
-    id: ck5hrq0rsvaaj0i11x7kd345g
-    verified: true
-    hashtags: "#cassperxsportsbetio, #cryptoknightwithcass, #billiatoatasteofwealth, #billiatoallwhite"
-  - username: "liviesofine"
-    fullname: >-
-      Livie ❤️
-    bio: >-
-      Future mental health counselor 📚🧠 ❤️ Libra ♎️ 10/09 God first 🙏🏾 Music 👇🏾
-    location: "South Africa"
-    followers: 14123
-    engagement: 746
-    commentsToLikes: 0.067851
-    id: ck6ufr2t1yo6z0j71sxeq6qu7
-    verified: false
-    hashtags: "#myblackisbeautiful, #goodvibes, #nigeria, #blackbeauty"
-  - username: "yaleofficial_"
-    fullname: >-
-      Y Δ L E
-    bio: >-
-      🎧 Club & Festival DJ 🎹 Electronic Music Producer 🎉 Owner @deepstatepro 📍 Durban, South Africa ✖️ ‘Star Sign’ available to stream/buy 👇🏻
-    location: "South Africa"
-    followers: 2573
-    engagement: 1109
-    commentsToLikes: 0.095246
-    id: ckf5mazsvt0dy0j23xlzias79
-    verified: false
-    hashtags: ""
-  - username: "iamdaskapital"
-    fullname: >-
-      das kapital
-    bio: >-
-      • musician / dj / designer / voice • host of #indaswetrust on @5fm • dj bookings: seb@tenfoldagency.com click here for more everything ↙️
-    location: "South Africa"
-    followers: 12203
-    engagement: 375
-    commentsToLikes: 0.059070
-    id: ck135v8u63ecx0i19vrf2smig
-    verified: false
-    hashtags: "#rescuedog, #madeinsouthafrica, #eatlocal, #capetown"
-  - username: "hollyreymusic"
-    fullname: >-
-      Holly Rey
-    bio: >-
-      Multi Platinum Award Winning South African Musician New Single #WannaBe is available Now
-    location: "South Africa"
-    followers: 39545
-    engagement: 157
-    commentsToLikes: 0.035215
-    id: ck5c3xe8k08bo0i11z08m3txz
-    verified: false
-    hashtags: "#baking, #sisters, #africaday, #stayhometogether"
-  - username: "mathildamennen"
-    fullname: >-
-      Mathilda Mennen
-    bio: >-
-      Medical doctor + researcher Musician Morning person 📍Cape Town, SA
-    location: "South Africa"
-    followers: 9850
-    engagement: 730
-    commentsToLikes: 0.016826
-    id: ckap743rwijt20i78pesresv7
-    verified: false
-    hashtags: ""
-  - username: "lura_criola"
-    fullname: >-
-      Lura
-    bio: >-
-      With more than 20 years of a recognized career and nominated for BBC World Music Awards,Lura is one of the most recognizable african singers.
-    location: "South Africa"
-    followers: 46089
-    engagement: 225
-    commentsToLikes: 0.028086
-    id: ck5zp9x48s9pp0i14506lbeb4
+    followers: 659670
+    engagement: 670
+    commentsToLikes: 0.013424
+    id: ck136cz3c5vo60i1959dusja2
     verified: true
     hashtags: ""
-  - username: "dwsonofficial"
+  - username: "kususaofficial"
     fullname: >-
-      Dwson
+      Kususa
     bio: >-
-      Producer/DJ bookings@blackmajor.co.za ______ Apple Music #Isgubhu
+      MGMT: @backnoisemusicafrica BOOKINGS AFRICA: info@backnoisemusicafrica.com EU/UK: lee@nevershuttingdown.com ASANDA Music Video OUT NOW⤵️
     location: "South Africa"
-    followers: 20975
-    engagement: 638
-    commentsToLikes: 0.026170
-    id: ck5hj95ljg87t0i11eouy95ie
+    followers: 105561
+    engagement: 449
+    commentsToLikes: 0.006130
+    id: ck5zlzhlyln2r0i14tt1hwbtt
     verified: false
-    hashtags: "#stayhomeedition, #linkinbio, #isgubhu, #30"
-  - username: "dlalathukzin"
+    hashtags: "#kususa, #ubomiep, #ubomi, #asanda"
+  - username: "londie_london_official"
     fullname: >-
-      Chicago
+      Londie London
     bio: >-
-      ☎ +27 65 890 9792 / +27 79 438 1336 ✉ bookings@dlalarecords.co.za Permanent Music Ep ⤵️
+      Musician•Actress•MaZulu •Jewelry Designer• Entrepreneur • Reality TV star • @fly.clothingstore • Mommy 👼🏽 👼🏽 • Twitter: @TheLondieLondon
     location: "South Africa"
-    followers: 82028
-    engagement: 440
-    commentsToLikes: 0.014623
-    id: ck55ml6kr47on0i11vnzjdkvb
-    verified: false
-    hashtags: "#permanentmusicepii, #permanentmusicii, #dlalathukzin, #dlala"
-  - username: "iamnaakmusiq"
-    fullname: >-
-      Anga Makubalo 🇿🇦
-    bio: >-
-      Entrepreneur Award winning actor/musician @swishapparelsa| CEO @royalflushgin @lonsdalelondonza @huaweiza @npl_international Bookings 0783479273
-    location: "South Africa"
-    followers: 1793132
-    engagement: 118
-    commentsToLikes: 0.008949
-    id: ck15sx1xxf8h30i19zzrnue72
+    followers: 1642262
+    engagement: 313
+    commentsToLikes: 0.007209
+    id: ck5c94a57ar330i11k3i40s5z
     verified: true
-    hashtags: "#huaweimegasale, #huaweimatebookd15, #huaweiwatchgt2pro"
+    hashtags: "#bigbrothertitans2023, #spotyourfav, #10yearsofera"
+  - username: "kejtofficial"
+    fullname: >-
+      Katarina Bogicevic Kejt☀️
+    bio: >-
+      Serija Folk/TLZP2 Acting agent @slavic_artists Music manager @miss.lady.bug 📍Based in Belgrade/Dubai KEJT Šaman👇
+    location: "South Africa"
+    followers: 29617
+    engagement: 246
+    commentsToLikes: 0.013438
+    id: ckap5iyy7bw750i782a4g465j
+    verified: false
+    hashtags: "#firegirl, #art, #loveislove, #love"
+  - username: "majozimusic"
+    fullname: >-
+      MAJOZI ❤️
+    bio: >-
+      🎵 Singer/Songwriter 💁🏾‍♂️ Love God 🙌🏾 Love People 🤗 Love Music 🎸 📍 Cape Town, South Africa 🇿🇦 ✉️ majozi@majozi.co.za
+    location: "South Africa"
+    followers: 18545
+    engagement: 245
+    commentsToLikes: 0.066099
+    id: ck13a6pxoovxw0i19fr1ndyr2
+    verified: true
+    hashtags: "#southafrica, #sponsored, #thisismaj, #gardenroute"
+  - username: "mathieuleca"
+    fullname: >-
+      Mathieu Leca
+    bio: >-
+      ✈ Corsican Globetrotter ♫ Music Producer @palaisvertmusic ⫸ African Safari Organizer 📩 ⤵️ Mon dernier single Ukraine
+    location: "South Africa"
+    followers: 47198
+    engagement: 231
+    commentsToLikes: 0.027469
+    id: ck5pw14xzkld80i11l5aylec6
+    verified: false
+    hashtags: "#safari, #africa, #calvi, #tanzania"
+  - username: "karl_kugelmann"
+    fullname: >-
+      ＫＡＲＬ ＫＵＧＥＬＭＡＮＮ
+    bio: >-
+      MODEL/ DJ/CREATIVE Cape Town 📍 - INFO@FANJAM.CO.ZA Psidn_music 🎵@mixroomstudios
+    location: "South Africa"
+    followers: 608894
+    engagement: 224
+    commentsToLikes: 0.006370
+    id: ck0u076lasvw30i19z0nt5852
+    verified: false
+    hashtags: "#garnierhangryhair, #discoverybestbank, #vitalitytravel, #summerwithav"
+  - username: "willembotha"
+    fullname: >-
+      Willem Botha
+    bio: >-
+      Singer/TV Presenter/Photographer 🇿🇦 🎧 New Music - n Liefde Soos Die Co-owner @willembothabeauty Photography - willem.photo@yahoo.com 👇🏼
+    location: "South Africa"
+    followers: 103280
+    engagement: 200
+    commentsToLikes: 0.022191
+    id: ck55j1vxcw22l0i11sflcoht5
+    verified: false
+    hashtags: "#filorga, #voelgoed, #island, #kilimanjaro"
+  - username: "avi_subban_"
+    fullname: >-
+      Avi Subban
+    bio: >-
+      Welcome to my journey through music. Dance Music Award winning Producer, DJ from South Africa🇿🇦 Off Centre Agency Bookings: avisubban@offcentre.co
+    location: "South Africa"
+    followers: 9655
+    engagement: 155
+    commentsToLikes: 0.028603
+    id: ck5zqccn1uchm0i14ouyprsmm
+    verified: false
+    hashtags: "#stayconnected, #techno, #throwback"
+  - username: "marioo_tz"
+    fullname: >-
+      BAD🤴
+    bio: >-
+      Musician from Est Africa 🇹🇿
+    location: "South Africa"
+    followers: 4256356
+    engagement: 88
+    commentsToLikes: 0.016023
+    id: ck0u6936e1blt0i19mhbympe4
+    verified: false
+    hashtags: "#spidikasi, #ananipenda, #yesa, #gusanishaijae"
 ---

@@ -1,24 +1,72 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Poland In 2023
+title: Top 10 Yoga Instagram Influencers In Poland In 2024
 description: >-
-  Find top yoga Instagram influencers in Poland in 2023. Most popular hashtags: #love #karmieniepiersi #family.
+  Find top yoga Instagram influencers in Poland in 2024. Most popular hashtags: #love #yoga #praca.
 platform: Instagram
-hits: 102
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 102 Instagram influencers like this in Poland for you to pitch.
+hits: 112
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 112 Instagram influencers like this in Poland for you to pitch.
 profiles:
-  - username: "inesbeautypl"
+  - username: "madalena_yoga"
     fullname: >-
-      𝙞𝙣𝙚𝙨𝙗𝙚𝙖𝙪𝙩𝙮 -Aga Wroclaw 🌷🎀💝🇵🇱
+      Magdalena Janik •YOGA
     bio: >-
-      𝓐𝓰𝓮42|Dentist|Beautyblogger |A lover of life |Beauty|Lifestyle|Fashion|Homedecor|Yoga| Olympus 𝓙𝓾𝓼𝓽 𝓱𝓪𝓿𝓮 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓕𝓪𝓲𝓽𝓱 Contact : ines@inesbeauty.pl
+      https://www.madalenayoga.com/yoga-mama/ 🤰🏻 yoga ॐ #poczujswojecialo •Retreats•workshops•yoga•surf •500 E-RYT🌿meditation•breath•mindfulness
     location: "Poland"
-    followers: 48228
-    engagement: 344
-    commentsToLikes: 0.110260
-    id: ck8tdgwnv399r0j78scov01sy
+    followers: 60200
+    engagement: 259
+    commentsToLikes: 0.022038
+    id: ck8t99lrwnbbn0j78i6uqx4ro
     verified: false
-    hashtags: "#niechsiedziejenajlepiej, #storiediseta, #kobietylancome, #skincare"
+    hashtags: "#yoga, #cia, #praktykajogi, #ci"
+  - username: "edytaherbus"
+    fullname: >-
+      Edyta Herbuś
+    bio: >-
+      A R T Y S T A 🎬 Actress 💃 Dancer 🫀 Host #Youcandance #Tańczącazeświatem 🧘🏻 Yoga & 🌿ecostyle 📩 e.herbus@gmail.com , 💎 managment @selectivemgmt
+    location: "Poland"
+    followers: 270556
+    engagement: 62
+    commentsToLikes: 0.029588
+    id: ck138j1gpggje0i19lxq46hts
+    verified: true
+    hashtags: "#wsp, #dance, #host, #love"
+  - username: "basiatworek_ninjayogi"
+    fullname: >-
+      Basia Tworek • joga
+    bio: >-
+      Twoja jogowa przyjaciółka🙌🏼 joga🧘🏼‍♀️neuro🧠psychologia📖yogamama🤱 Jedź ze mną na camp🏕️ 💌kontakt@basiatworek.pl Poćwicz, posłuchaj, poczytaj ⬇️
+    location: "Poland"
+    followers: 37223
+    engagement: 151
+    commentsToLikes: 0.091489
+    id: ck5zp7nx4s59t0i14u9g4f8pb
+    verified: false
+    hashtags: "#ninjamondaymantra, #comfortyoga, #mase, #newsletter"
+  - username: "czechpaulina"
+    fullname: >-
+      Paulina Czech
+    bio: >-
+      Doctor to be 💉 Yoga, Windsurf, climb & ski instructor 🌎 +🎥 travel and videography Don't wanna be a pro in 1 thing only I want it all! YT👇🏻 ▶️
+    location: "Poland"
+    followers: 38849
+    engagement: 35
+    commentsToLikes: 0.063468
+    id: ck0ttd7yv284v0i19d3956iz6
+    verified: false
+    hashtags: "#studentka, #tanzania, #medycyna, #africa"
+  - username: "magdalenalinkekoszek"
+    fullname: >-
+      Magdalena Linke Koszek
+    bio: >-
+      📍Copenhagen, Warsaw, Paris Educating in business 👩🏼‍🏫, Yoga teacher 🧘🏼‍♀️ Journalist at @unpolishedmagazine Use it or loose it!
+    location: "Poland"
+    followers: 21322
+    engagement: 23
+    commentsToLikes: 0.015789
+    id: ckwvisd3gvpki0j23g76axx8w
+    verified: false
+    hashtags: "#healthymind, #copenhagen, #italy, #holidays"
   - username: "bymartawisniewska"
     fullname: >-
       Marta Wiśniewska
@@ -31,30 +79,6 @@ profiles:
     id: ck15sj1xnd9bd0i1902n87op0
     verified: false
     hashtags: "#polskajestpiekna, #love, #mi, #coreczka"
-  - username: "ogonowska_maja"
-    fullname: >-
-      Beauty & Lifestyle
-    bio: >-
-      🎬 Beauty & Lifestyle YT 💄 Makeup Artist / Powiśle, WARSAW 🖌 majablog.pl 👶🏻 Mom 🧘🏼‍♀️ Yoga & Running Enthusiast 🐶 Boerboel Orion NEW VIDEO:
-    location: "Poland"
-    followers: 22055
-    engagement: 534
-    commentsToLikes: 0.032847
-    id: ckaot496iubfs0i78nxkhs373
-    verified: false
-    hashtags: "#xrun, #boerboel, #xlander, #niemowle"
-  - username: "justdeliciousx"
-    fullname: >-
-      Justyna🌔| Joga,Ajurweda,Magia.
-    bio: >-
-      food lover👅yoga & ayurveda teacher🧘🏼‍♀️ Pomagam kobietom poczuć moc, połączyć się ze swoim ciałem i duchem ✨ @akademia.shakti🦋 Więcej tutaj ❤️👇🏻
-    location: "Poland"
-    followers: 53402
-    engagement: 166
-    commentsToLikes: 0.062683
-    id: ck5hhh84a87ri0i116o6nol4a
-    verified: false
-    hashtags: "#kobieta, #medytacja, #ajurweda, #energia"
   - username: "dagmarabryzek"
     fullname: >-
       DagmaraBryzek
@@ -78,31 +102,7 @@ profiles:
     commentsToLikes: 0.023406
     id: ck6tpiknhk2mk0j71nv2sq1e9
     verified: false
-    hashtags: "#ma, #realparenting, #litwa, #matkatrojki"
-  - username: "imsaranka"
-    fullname: >-
-      SARANKA
-    bio: >-
-      Sara🧘🏻 📖🌿🌻✨ sara.pray.contact@gmail.com @carpatree -20% SARANKA Yoga lover Books Plants Fashion Makeup Nail&Hair
-    location: "Poland"
-    followers: 37317
-    engagement: 295
-    commentsToLikes: 0.019319
-    id: ck5zjnnuthx1y0i148g4l37sb
-    verified: false
-    hashtags: "#doggy, #zmora, #mylife, #forever"
-  - username: "tiffany_soi"
-    fullname: >-
-      Tiffany | MultiDimensional
-    bio: >-
-      climber ◦ presenter+actor ◦ astrophysicist(ex)🚀 @climbflow Fit-Yoga START NOW👇 🇬🇧ldn born, 🇵🇱pl+🇹🇭th made @livenow.fitness ☟ClimbFlow Online +MORE!☟
-    location: "Poland"
-    followers: 37588
-    engagement: 553
-    commentsToLikes: 0.021489
-    id: ck8syqw5wlnvl0j78z0lmv4vq
-    verified: false
-    hashtags: "#wonderwoman, #badasswomen, #mobilitytraining, #climbergirl"
+    hashtags: "#matkatrojki, #ma, #kobietaniezalezna, #baltyk"
   - username: "weiss_natalia_"
     fullname: >-
       Natalia Weiss

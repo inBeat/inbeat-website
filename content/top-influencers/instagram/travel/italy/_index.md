@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Italy In 2023
+title: Top 10 Travel Instagram Influencers In Italy In 2024
 description: >-
-  Find top travel Instagram influencers in Italy in 2023. Most popular hashtags: #italy #italygram #travelinspiration.
+  Find top travel Instagram influencers in Italy in 2024. Most popular hashtags: #travel #beautifuldestinations #travelblogger #italy.
 platform: Instagram
-hits: 3107
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 3107 Instagram influencers like this in Italy for you to collaborate.
+hits: 3555
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 3555 Instagram influencers like this in Italy for you to work with.
 profiles:
-  - username: "rebidragomir"
+  - username: "sallytrubella"
     fullname: >-
-      Rebeca Dragomir | Parisian aesthetic
+      Sally Nguyen
     bio: >-
-      🥐 living in Romania but my heart is in Paris ✉️ : rebiidragomir@yahoo.com University of Medicine #paris #outfitinspo #travel #lifestyle
+      TRAVEL & LIFESTYLE 🌎Travel Advisor • Content Creator • Travel Tips 🏡Boston 📍43 Countries 🛩️TikTok270K 🐣 @theadventuresofmilajo @sallytrubella_oceanblu
     location: "Italy"
-    followers: 76244
-    engagement: 1621
-    commentsToLikes: 0.022376
-    id: ckxr7wq4nba550j234pt4txe7
+    followers: 179633
+    engagement: 712
+    commentsToLikes: 0.020968
+    id: ck5cdncb3jfxn0i11r5zusqjp
     verified: false
-    hashtags: "#parisianvibes, #explorepage, #parisianlifestyle, #minimalfashion"
-  - username: "teresacasamonti"
+    hashtags: "#feelnewsydney, #feelnsw, #ad, #sponsored"
+  - username: "findingalexx"
     fullname: >-
-      INTERIOR | FASHION | FAMILY
+      ALEXX ║ solo female traveller
     bio: >-
-      Teresa Casamonti Mom of 3 Kids Interior, Travel & Fashion Lover
+      ◌ Sharing epic adventures around the world » Quit 9-5 life to travel solo full-time ♡ Helping you plan the perfect trip ↯ My travel blog
     location: "Italy"
-    followers: 197654
-    engagement: 350
-    commentsToLikes: 0.020955
-    id: ck0vv7bn9nv3c0i19y648rh4q
+    followers: 39816
+    engagement: 2801
+    commentsToLikes: 0.050477
+    id: ck0u95xd595xt0i19n0refz5i
     verified: false
-    hashtags: "#hochzeit, #herbst, #makeover, #italianwedding"
-  - username: "blank_amarillo"
+    hashtags: "#switzerland, #travelgenius, #travelblogger, #newzealandtravel"
+  - username: "theresaadimarco"
     fullname: >-
-      Susana | Travel Photography
+      Theresa Di Marco
     bio: >-
-      From: Lisbon, Portugal 🇵🇹 🌍 Travel 📷 Photography🌲 Nature
+      PANTA REI 🌊 Lover of Tattoos ,Travel ,Fashion and fitness… Available for Collaboration 🆙
     location: "Italy"
-    followers: 12274
-    engagement: 329
-    commentsToLikes: 0.088607
-    id: ck5c2wh4jy4lt0i11vzlw9qo3
+    followers: 79768
+    engagement: 469
+    commentsToLikes: 0.015779
+    id: ck8tb9851uslw0j78muvex6yq
     verified: false
-    hashtags: "#turquoisewater, #italy, #egyptology, #egyptphotography"
-  - username: "whensailing"
+    hashtags: "#wild, #acquapark, #lunedi"
+  - username: "keenanlam"
     fullname: >-
-      Greta and Michael ⛵️ Boatlife
+      Keenan Lam | Filmmaker
     bio: >-
-      👫 🇮🇹 living on our #sailboat ForTuna ⛵️ spreading love for #ecofriendly #travels 🌍 Miles sailed: 14.250 since: April 2019 🌊 ⬇️ Boatlife Tips ⬇️
+      » Travel | Lifestyle | Automotive » Keenan@ddapr.com » My $5 Video LUT👇🏼 #TeamGalaxy
     location: "Italy"
-    followers: 60911
-    engagement: 311
-    commentsToLikes: 0.024513
-    id: ck8tc35d8y49p0j78x4oww9on
+    followers: 229706
+    engagement: 2662
+    commentsToLikes: 0.036078
+    id: ck0w731nhbi5j0i19rw6owdru
     verified: false
-    hashtags: "#ycass, #sailingday, #sailingboats, #saltylife"
-  - username: "kristine_virsnite"
+    hashtags: "#galaxys23, #premierepro, #newyorkcity, #filmmaking"
+  - username: "violahelen_"
     fullname: >-
-      Kristine Virsnite
+      viola | lisbon, solo travel + self-growth
     bio: >-
-      📺: Content creator and traveller from Latvia 🏔: founder of @balticoverlanders ⬇️ “IZGLĀBT KEMPERI” - piedzīvojumu seriāls!
+      digital nomad sharing life solo travelling the 🌏 working a 9-5 inspiring you to live the life you want 🕊 lisbon based • 📍🇵🇹 💌 apieceofviola@gmail.com
     location: "Italy"
-    followers: 49980
-    engagement: 239
-    commentsToLikes: 0.078224
-    id: ck0w2g6epo74d0i19l5mg3ac6
+    followers: 10479
+    engagement: 403
+    commentsToLikes: 0.012570
+    id: ckapbvf151fb00i78fydp29i5
     verified: false
-    hashtags: "#travelitaly, #manssamsung, #virsn, #visititaly"
-  - username: "selvaggialucarelli"
+    hashtags: "#thehappynow, #reelinstagram, #violainitaly, #dametraveler"
+  - username: "mrsblinks"
     fullname: >-
-      Selvaggia Lucarelli
+      Diana ✨
     bio: >-
-      Italian journalist and gattara. Books. Tv. Podcast. Travels. I take pictures. J'aime la querelle. Milan. selvaggialucarelli@gmail.com
+      Traveling with my kids around the world. Worldschooling - Showing the real and raw! ✨800k friends on TikTok✨ 💌 Hello@withtheblinks.com
     location: "Italy"
-    followers: 1260383
-    engagement: 149
-    commentsToLikes: 0.063002
-    id: ck55mn9554brk0i11mq1t83rm
-    verified: true
-    hashtags: "#nepal, #seoul, #palermo, #corea"
-  - username: "gretastravels"
-    fullname: >-
-      GRETA OMOBONI | Travel Blogger
-    bio: >-
-      Escaped the 9-5 to chase sunsets, hike mountains and catch waves ☀️✈️ 👇My travel tips
-    location: "Italy"
-    followers: 87692
-    engagement: 66
-    commentsToLikes: 0.075422
-    id: ck15pltwfyiwe0i190fkcppg7
+    followers: 60125
+    engagement: 1049
+    commentsToLikes: 0.054086
+    id: ck5c9i4uzbgx10i11txth03ul
     verified: false
-    hashtags: "#realaustria, #stantonamarlberg, #tenerife, #visittrentino"
-  - username: "pamelaalexandra"
+    hashtags: "#familytraveltips, #worldschooling, #dreamsloscabos, #visitsingapore"
+  - username: "thewhitemelanin"
     fullname: >-
-      Pamela Alexandra
+      SANCHAN | CONTENT CREATOR
     bio: >-
-      When I'm not in the office, I'm either eating, trying to get my curls under control or traveling the🌎|🇨🇭🇧🇷 📧info@pamelaalexandra.com for brand collabs
+      Fashion | beauty | lifestyle | travel Having fun @huniwrld 🇳🇬 🇯🇵
     location: "Italy"
-    followers: 5564162
-    engagement: 63
-    commentsToLikes: 0.021727
-    id: cks6rhtr9dvf70j23a93rb9j9
+    followers: 66772
+    engagement: 923
+    commentsToLikes: 0.036826
+    id: ck5hdnqz3oezp0i11osjbukbz
     verified: false
-    hashtags: ""
-  - username: "fabiana_russo"
+    hashtags: "#opporeno8t, #internationalwomensday, #darlingnigeria, #empressbraids"
+  - username: "_intotheale_"
     fullname: >-
-      Fabiana Russo
+      Alessandro Trazzi
     bio: >-
-      Fashion tips, shopping, travel and real life on my stories 👆🏻💕 ⠀ Siciliana 🍋 ⠀ Based in Milan📍 ⠀ Work @fabianarusso_microblading
+      Photography does not show reality, it shows the idea you have of it. Traveler | content creator
     location: "Italy"
-    followers: 104734
-    engagement: 52
-    commentsToLikes: 0.011199
-    id: ckf5krdu2n0co0j23o4lie327
+    followers: 16481
+    engagement: 1425
+    commentsToLikes: 0.081700
+    id: ck0tvucccctpp0i19wmqg249k
     verified: false
-    hashtags: "#madonnadicampiglio, #suppliedby, #home, #missyou"
-  - username: "belladally"
+    hashtags: "#italy, #fantastic, #skypainters, #italia"
+  - username: "polymathmom"
     fullname: >-
-      B e  l l a   D a l l y 🕊
+      Karla Lu
     bio: >-
-      — my work & creative space — Wife to Arif Iz❣️ KL, Malaysia Actor | Modest Fashion | Fitness | Traveler Ambassador of @galeriariani
+      Family | Luxury Travel | Lifestyle 460k TikTok📍#Arizona ✈️California #Mom #Latina #Travel #Fashion Founder: @thepolymathmom 📩: karla@godandbeauty.com
     location: "Italy"
-    followers: 2353642
-    engagement: 19
-    commentsToLikes: 0.008925
-    id: ck0w5s6lg56hg0i19v9j0zt9r
-    verified: true
-    hashtags: "#garniergreenbeauty, #garniermalaysia, #greenerneverstops, #bellaforariani"
+    followers: 416017
+    engagement: 766
+    commentsToLikes: 0.000619
+    id: ckqva15z128n40j238girckqs
+    verified: false
+    hashtags: "#travelblogger, #hostedbydisney, #blue, #palazzomood"
+  - username: "sarahwitpeerd"
+    fullname: >-
+      Sarah ☽ Cosy Aesthetics
+    bio: >-
+      🕰️ Slow city life, coffee, books & travel 🎞 Maastricht, Netherlands ✉️ sarahwitpeerd@hotmail.com Shop my presets ↷
+    location: "Italy"
+    followers: 45336
+    engagement: 508
+    commentsToLikes: 0.042960
+    id: ck55o8kwo7uq80i11cdrswotn
+    verified: false
+    hashtags: "#sponsored, #abetterwaytostay, #prstay, #community"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In United Kingdom In 2023
+title: Top 10 Music Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top music Instagram influencers in United Kingdom in 2023. Most popular hashtags: #love #sabahantiktokers #violinpractice.
+  Find top music Instagram influencers in United Kingdom in 2024. Most popular hashtags: #comedy #london #funny.
 platform: Instagram
-hits: 1241
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 1241 Instagram influencers like this in United Kingdom for you to collaborate.
+hits: 1642
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 1642 Instagram influencers like this in United Kingdom for you to collaborate.
 profiles:
-  - username: "londonphilharmonicorchestra"
+  - username: "lovellart"
     fullname: >-
-      London Philharmonic Orchestra
+      Christopher Lovell
     bio: >-
-      Sharing the wonder of classical music ✨ 🏠 At home at the @southbankcentre and @glyndebourne 📺 Streaming on @marqueeartstv
+      UK based Artist |Nerd | Musician |Traveller. Work Enquiries:👉🏻chris@christopherlovell.com Signed art prints available👇🏻
     location: "United Kingdom"
-    followers: 151117
-    engagement: 139
-    commentsToLikes: 0.006826
-    id: ck0tx8n3ii9460i19ygcmxld5
+    followers: 155785
+    engagement: 535
+    commentsToLikes: 0.034073
+    id: ck14iqr6mgr9y0i19ibhw4tcz
     verified: false
-    hashtags: "#timpani, #carminaburana, #wagner, #cake"
-  - username: "keephushuk"
+    hashtags: "#topnine2020, #mtgcommunity, #mtgkaldheim, #painting"
+  - username: "officialharrisj"
     fullname: >-
-      Keep Hush
+      Harris J
     bio: >-
-      Global dance music community Back the Underground Become a member ↓
+      Just Trying🤍 Travelling, music, food and faith content
     location: "United Kingdom"
-    followers: 55965
-    engagement: 210
-    commentsToLikes: 0.035342
-    id: ck6ty2n371bzn0j7123br2vt3
-    verified: false
-    hashtags: ""
-  - username: "vincetogram"
-    fullname: >-
-      Vince Chong
-    bio: >-
-      🇲🇾🇬🇧Music Producer, Director ,Hubby and Daddy. For enquiries plz email 📨 vinnervoice@gmail.com
-    location: "United Kingdom"
-    followers: 75476
-    engagement: 80
-    commentsToLikes: 0.052583
-    id: ck5pw72d5lf630i11enfitpub
-    verified: true
-    hashtags: "#newyear2023, #fyp, #kampunglife, #guessthegibberish"
-  - username: "bethdolling"
-    fullname: >-
-      Beth Dolling
-    bio: >-
-      @mmodelsmanagement Collabs - bethanydolling@hotmail.com depop - bethdollingx music ig - @bdollingmusic
-    location: "United Kingdom"
-    followers: 21240
-    engagement: 725
-    commentsToLikes: 0.075648
-    id: ckaovdp3d45hr0i78vj4lyx7l
-    verified: false
-    hashtags: "#isawitfirst, #isawicons, #oliviaxisaw, #zaful"
-  - username: "nathaniel.dass"
-    fullname: >-
-      Nate Dass
-    bio: >-
-      Hey, I sing in @thewonderlandband 🎸 Filming @almostnevershow 🎬 MA: @unsignedgrp Go here for our new music x ⬇️
-    location: "United Kingdom"
-    followers: 22126
-    engagement: 2155
-    commentsToLikes: 0.030785
-    id: ck6udjmnklhbq0j71luw4orsw
-    verified: false
-    hashtags: ""
-  - username: "samtompkinsuk"
-    fullname: >-
-      sam tompkins
-    bio: >-
-      for enquiries: nim@catalyst-music.com UP THE SAMWICHES 🥪🥪🥪🥪 go grab a ticket to the tour 🥺💙
-    location: "United Kingdom"
-    followers: 459589
-    engagement: 468
-    commentsToLikes: 0.037427
-    id: ck55mg3k53vu30i11vv3jq97a
+    followers: 890810
+    engagement: 544
+    commentsToLikes: 0.020060
+    id: ck5bzvc55rwom0i11l56dscoc
     verified: true
     hashtags: ""
-  - username: "sweetlittleviolinist"
+  - username: "arjunaharjai"
     fullname: >-
-      KATHINKA WITZKE🧚‍♀️ VIOLINIST🎻
+      ARJUNĀ
     bio: >-
-      🧚‍♀️ 10 y.o violinist 🇩🇰 🙋‍♀️ What I love. Is to make people happy sharing my music | art | life 👩‍👧 Acc run by mum and Kath
+      Musician 🇬🇧 🇮🇳 ⬇️ Listen to Zikar Hai ⬇️
     location: "United Kingdom"
-    followers: 11619
-    engagement: 914
-    commentsToLikes: 0.311125
-    id: ck9wfp9o2pvzk0j78gacyte3n
-    verified: false
-    hashtags: "#violinpassion, #violine, #violinlife, #musicality"
-  - username: "jojocarterr"
-    fullname: >-
-      Fly Girl
-    bio: >-
-      @set.music_
-    location: "United Kingdom"
-    followers: 81807
-    engagement: 1338
-    commentsToLikes: 0.019635
-    id: ck5pyp0erx3be0i11xay5sa22
-    verified: false
-    hashtags: "#ch"
-  - username: "bethzienna"
-    fullname: >-
-      🦂BETHZIENNA WILLIAMS🌊
-    bio: >-
-      Actress @thebwhagency “Though she be but little she is fierce” bethzienna-williams.com depop.com/bethzienna InDeep music vid👇🏼
-    location: "United Kingdom"
-    followers: 13869
-    engagement: 571
-    commentsToLikes: 0.082813
-    id: ck602tnrpj2zs0i14y8fbgviu
-    verified: false
-    hashtags: "#nhs, #love, #grateful, #feminist"
-  - username: "albertogiurioli"
-    fullname: >-
-      Alberto Giurioli
-    bio: >-
-      🎹 I #compose my #music on the #piano 🏆Youngest #composer #ClassicFm Hall of Fame 💿 New album 2021 👇🏻 Check out my #music
-    location: "United Kingdom"
-    followers: 46374
-    engagement: 591
-    commentsToLikes: 0.066772
-    id: ck0tyjorpn4610i19abn749xt
+    followers: 375774
+    engagement: 1413
+    commentsToLikes: 0.008270
+    id: ckaoto01zwq120i785qc0lf5n
     verified: true
-    hashtags: "#pianist, #london, #composer, #cover"
+    hashtags: "#jhoothe, #birmingham, #natashanoorani, #jyoticatangri"
+  - username: "pinaforesandpeonies"
+    fullname: >-
+      Lucy • Style | New Mum 🤱🏻
+    bio: >-
+      🙋🏻‍♀️ Wife, mum of 2, dog mum ✨ IVF mum x 2 💙 Harrison & Luca 🎶 Music Teacher 📍Liverpool, UK
+    location: "United Kingdom"
+    followers: 14489
+    engagement: 435
+    commentsToLikes: 0.063862
+    id: ckxledc2r83l40j23e1uubasv
+    verified: false
+    hashtags: "#waveoflight, #everychildareader, #mambottles, #waveoflight2022"
+  - username: "or.junn"
+    fullname: >-
+      Arjun Manohar
+    bio: >-
+      Music + Comedy = Mumedy. Enquiries: arjun.manohar@clout.pocketaces.in
+    location: "United Kingdom"
+    followers: 240045
+    engagement: 2926
+    commentsToLikes: 0.005230
+    id: ck9hbaq1ng22d0j78z8r8j67v
+    verified: false
+    hashtags: "#tamil, #tamilmashup, #vadivelumemes, #tamilcomedy"
+  - username: "officialmajorsteez"
+    fullname: >-
+      MAJORSTEEZ 🇿🇦
+    bio: >-
+      Musical Brother-Duo🎤 Bookings/Enquiries📩: wearemajorsteez@gmail.com ☎️: +27 (63) 233-0567 / +27 (65) 804-7838 Stream Our New BANGER⬇️🔥
+    location: "United Kingdom"
+    followers: 176986
+    engagement: 510
+    commentsToLikes: 0.007088
+    id: ck55ovlna980r0i11qvpgpvy6
+    verified: false
+    hashtags: "#mrdfoodsnackme, #sponsored, #giftfailface, #realmagic"
+  - username: "londonhilll"
+    fullname: >-
+      Project Princess 🎀
+    bio: >-
+      Ms.Write & Style My Own Shit 💌: booklondonhill@yahoo.com (LONDON DRILL Music Video Out Now LINK Below 👇🏽👇🏽👇🏽)
+    location: "United Kingdom"
+    followers: 109847
+    engagement: 427
+    commentsToLikes: 0.071701
+    id: ck5zxpngf8fnf0i14ssgjynsj
+    verified: false
+    hashtags: "#londondrill, #nyartist, #interview, #dumborlit"
+  - username: "jasjohalkudos"
+    fullname: >-
+      Jas Johal
+    bio: >-
+      • Owner @kudosmusic @printstationuk @cnc.production @kudosav_ • Kudos Music DJ for Luxury Weddings & Events 🌍 • Enquiries: jasjohalkudos@gmail.com
+    location: "United Kingdom"
+    followers: 14119
+    engagement: 1985
+    commentsToLikes: 0.047645
+    id: ck5qd0ifft8hr0i11rnuasevw
+    verified: false
+    hashtags: "#jasjohal, #kudosinternational, #kudosmusic, #jiyahjohal"
+  - username: "liammiiler"
+    fullname: >-
+      Liam Miller
+    bio: >-
+      yes i also make music ;) PRESAVE “TEMPORARY” out 3.15 tiktok/liammillerr 7.1M
+    location: "United Kingdom"
+    followers: 1343805
+    engagement: 782
+    commentsToLikes: 0.003621
+    id: ckxp7yc44a3ki0j23c2nfcl90
+    verified: false
+    hashtags: "#christmas, #comedy, #meme, #wasitallalie"
+  - username: "kyden.fire"
+    fullname: >-
+      kyden 🔥
+    bio: >-
+      goth cinnamon roll 🗡 alt music & alt fashion 🖤 back-up: @kydenfire london // AuDHD + sober // kyden.fire@gmail.com
+    location: "United Kingdom"
+    followers: 186389
+    engagement: 503
+    commentsToLikes: 0.013406
+    id: ck8sw2gi0djrx0j78u0varhoi
+    verified: false
+    hashtags: "#download2024, #disturbiaclothing, #rockgirl, #platforms"
 ---

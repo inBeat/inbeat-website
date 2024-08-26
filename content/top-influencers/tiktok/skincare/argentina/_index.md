@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Argentina In 2023
+title: Top 10 Skincare TikTok Influencers In Argentina In 2024
 description: >-
-  Find top skincare TikTok influencers in Argentina in 2023. Most popular hashtags: #skincare #makeup #fyp #argentina.
+  Find top skincare TikTok influencers in Argentina in 2024. Most popular hashtags: #skincare #fyp #makeup #parati.
 platform: TikTok
-hits: 9
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 9 TikTok influencers like this in Argentina for you to pitch.
+hits: 10
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: inBeat has 10 TikTok influencers like this in Argentina for you to contact.
 profiles:
   - username: "inkietablog"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.049829
     id: ckb99s7wfua390j23drdb01zm
     verified: false
-    hashtags: "#soycreador, #makeuptutorial, #makeup, #beautytips"
+    hashtags: "#makeuptutorial, #soycreador, #transformation, #makeup"
   - username: "maiarebeca_"
     fullname: >-
       mai versace
@@ -103,6 +103,18 @@ profiles:
     id: ckbf1ctafnfar0j23vwdv7e1c
     verified: false
     hashtags: "#makeup, #eyeshadow, #makeuplook, #tutorial"
+  - username: "iammikkawillows"
+    fullname: >-
+      Mikka Willows
+    bio: >-
+      🦋☽ | ’01 ✨fashion - lifestyle 📨business: mikkawillowscontact@gmail.co
+    location: "Argentina"
+    followers: 12600
+    engagement: 1160
+    commentsToLikes: 0.008395
+    id: ckb9dfls90lzu0j23leyw7e9d
+    verified: false
+    hashtags: "#style, #edits, #subespa, #songs"
   - username: "martiscaglione09"
     fullname: >-
       Martina Scaglione

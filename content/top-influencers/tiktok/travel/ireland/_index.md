@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Ireland In 2023
+title: Top 10 Travel TikTok Influencers In Ireland In 2024
 description: >-
-  Find top travel TikTok influencers in Ireland in 2023. Most popular hashtags: #travel #fyp #ireland #dublin.
+  Find top travel TikTok influencers in Ireland in 2024. Most popular hashtags: #travel #fyp #ireland #dublin.
 platform: TikTok
-hits: 22
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our search engine holds 22 TikTok influencers like this in Ireland for you to collaborate.
+hits: 20
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 20 TikTok influencers like this in Ireland for you to connect with.
 profiles:
   - username: "jattii0"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.039253
     id: ckb9kz4m1d8110j23bp5ag2ny
     verified: false
-    hashtags: "#mayo4sam, #jrs, #irish, #leavingcert"
+    hashtags: "#jrs, #irishtowns, #4u, #leavingcert"
   - username: "ej.officiel"
     fullname: >-
       EJ.Travels🗺️

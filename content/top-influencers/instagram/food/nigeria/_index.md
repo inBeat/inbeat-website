@@ -1,12 +1,48 @@
 ---
-title: Top 10 Food Instagram Influencers In Nigeria In 2023
+title: Top 10 Food Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top food Instagram influencers in Nigeria in 2023. Most popular hashtags: #food #explore #ootd.
+  Find top food Instagram influencers in Nigeria in 2024. Most popular hashtags: #explore #food #lagosfoodvendor #explorepage.
 platform: Instagram
-hits: 24
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 24 Instagram influencers like this in Nigeria for you to contact.
+hits: 27
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 27 Instagram influencers like this in Nigeria for you to work with.
 profiles:
+  - username: "professoroffood"
+    fullname: >-
+      Amenze | Food Expert + Food Business Coach
+    bio: >-
+      💡I provide solutions to problems in Food Business. 🏆The IDAN of Food Costing 🧑‍🍳 Chef x Biochemist x Foodpreneur Click here👇🏽for my Books + Classes
+    location: "Nigeria"
+    followers: 65947
+    engagement: 158
+    commentsToLikes: 0.201610
+    id: ck9wd1ge2dmxi0j78mgbfebkj
+    verified: false
+    hashtags: "#portharcourtchef, #nigerianentrepreneur, #businesstips, #businessoffood"
+  - username: "dolapogrey"
+    fullname: >-
+      Dolapo Grey
+    bio: >-
+      • Facebook • YouTube • TikTok - Dolapo Grey • Vlogs l Food l Lifestyle dolapogrey.com
+    location: "Nigeria"
+    followers: 38217
+    engagement: 49
+    commentsToLikes: 0.050597
+    id: ck9haztgwerot0j785bhiq4au
+    verified: false
+    hashtags: "#pizza, #mrchefcookbookchallenge, #rice, #dolapogrey"
+  - username: "thelagosweekender"
+    fullname: >-
+      Lagos Weekender
+    bio: >-
+      Download our FREE guide to Lagos👇 We share recommendations for #events #food #nightlife #travel #lifestyle to help you find fun things to do in Lagos
+    location: "Nigeria"
+    followers: 115310
+    engagement: 16
+    commentsToLikes: 0.027176
+    id: cllrlx9571l540j08naayx6f4
+    verified: false
+    hashtags: "#travel, #explorelagos, #nightlifeinlagos, #eventsinlagos"
   - username: "omollara"
     fullname: >-
       ⓄⓂⓄⓁⒶⓇⒶ Obafemi || Entrepren”
@@ -19,18 +55,6 @@ profiles:
     id: ck5q9p0quc8ze0i11eifkgehh
     verified: false
     hashtags: "#indomie, #stayhome, #staysafe, #endsars"
-  - username: "horlaroflagos"
-    fullname: >-
-      Bolarinwa Y.O
-    bio: >-
-      OLOUNJE EKO 🤟🏾 Local Guide 🥇 Photographer 🥈 Lifestyle|Fashion|Food Enthusiast 🥉 Media Strategist • Photography + Lifestyle = 💯😍❤️
-    location: "Nigeria"
-    followers: 27542
-    engagement: 588
-    commentsToLikes: 0.036266
-    id: ck5c9qdqzbwuz0i111eypf4jw
-    verified: false
-    hashtags: "#fakelife, #badcommentsthemovie, #calltobar"
   - username: "official_marylove"
     fullname: >-
       Mary Love
@@ -55,18 +79,6 @@ profiles:
     id: ck5zqdvs1ufaj0i14cbzgbjta
     verified: true
     hashtags: "#cashmoney, #mkgiveaway, #35000, #supportkebusinesses"
-  - username: "ifys.kitchen"
-    fullname: >-
-      Ify's Kitchen (KITCHEN QUEEN)⭐
-    bio: >-
-      Brand Ambassador for @mamadorng 🏆Award winning food blogger 📍 Instructor #cookwithify 📩 Ads/Biz - ifyskitchen1@gmail.com 📽 Learn to cook like a pro👇
-    location: "Nigeria"
-    followers: 581452
-    engagement: 71
-    commentsToLikes: 0.057919
-    id: ck13ay30csr050i1982459fz6
-    verified: false
-    hashtags: "#foodblogger, #nigerianfoodblogger, #weightloss, #youtuber"
   - username: "val.hilda"
     fullname: >-
       Titi ChopLife 💸🦩
@@ -115,16 +127,4 @@ profiles:
     id: ckaosz9nxtoc50i78f5unv920
     verified: false
     hashtags: "#lagosfoodvendor, #simvendors, #surprisedeliveryinlagos, #afternoonsales"
-  - username: "giancardinale"
-    fullname: >-
-      Gianni Cardinale
-    bio: >-
-      |God first 🙏🏼🙏🏼|Disciple| . Hair is my passion , Stylist/Educator @menspiresalon https://menspire.co.uk/education/ukcourses/1to1/
-    location: "Nigeria"
-    followers: 34399
-    engagement: 208
-    commentsToLikes: 0.012706
-    id: ck55kcmh7yznc0i11m7lsl52a
-    verified: false
-    hashtags: ""
 ---

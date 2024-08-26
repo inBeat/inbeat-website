@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Toronto In 2023
+title: Top 10 Bloggers TikTok Influencers In Toronto In 2024
 description: >-
-  Find top bloggers TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #foryoupage #toronto #ootd.
+  Find top bloggers TikTok influencers in Toronto in 2024. Most popular hashtags: #fyp #foryoupage #toronto #foryou.
 platform: TikTok
 hits: 6
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our database has 6 TikTok influencers like this in Toronto, Canada for you to collaborate.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 6 TikTok influencers like this in Toronto, Canada for you to pitch.
 profiles:
   - username: "alanapancyr"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.043073
     id: cka0rvx57isd50i783z1jqf59
     verified: false
-    hashtags: "#fitcheck, #art, #sketchbook, #ootd"
+    hashtags: "#makeup, #dailyvlog, #art, #painting"
   - username: "nehahaxo"
     fullname: >-
       Neha
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.111219
     id: ckc3eylbx0u2u0j23ftzagj18
     verified: false
-    hashtags: "#smallbusinesstips, #smallbizowner, #fabulashqueencosmetics, #bossbabe"
+    hashtags: "#lippiesbiz, #fqc, #smallbizowner, #sheearnedit"
   - username: "pinkmillennial"
     fullname: >-
       pinkmillennial_
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.091257
     id: ckc3elrwz09v60j23kr335xp7
     verified: false
-    hashtags: "#pinkdress, #pinklover, #tiktokggt, #ootd"
+    hashtags: "#springoutfit, #pinkdress, #tiktokggt, #picnicaesthetic"
   - username: "pamperplace"
     fullname: >-
       thepamperplace
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.015909
     id: ckcp9huhcebyu0j23087mfvtl
     verified: false
-    hashtags: "#pimplepatch, #pimplepopping, #pimplepatchremoval, #yttp"
+    hashtags: "#pimplepopping, #yttp, #pimplepatchremoval, #pimplepatch"
   - username: "stefanaarnio"
     fullname: >-
       Stefan Aarnio

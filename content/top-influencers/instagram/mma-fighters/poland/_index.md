@@ -1,12 +1,48 @@
 ---
-title: Top 10 Mma Fighters Instagram Influencers In Poland In 2023
+title: Top 10 Mma Fighters Instagram Influencers In Poland In 2024
 description: >-
-  Find top mma fighters Instagram influencers in Poland in 2023. Most popular hashtags: #mma #ksw #fighter #tattoo.
+  Find top mma fighters Instagram influencers in Poland in 2024. Most popular hashtags: #mma #fighter #ksw #fight.
 platform: Instagram
-hits: 13
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 13 Instagram influencers like this in Poland for you to connect with.
+hits: 14
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 14 Instagram influencers like this in Poland for you to connect with.
 profiles:
+  - username: "pudzianofficial"
+    fullname: >-
+      Mariusz Pudzianowski
+    bio: >-
+      MMA FIGHTER and 5x World's Strongest Man. https://sklep.pudzian.pl 💪🏻 https://pudzian.pl 💪🏻 youtube.com/@pudzianofficial 🤜 🤛 @olimp_nutrition_pl
+    location: "Poland"
+    followers: 737897
+    engagement: 185
+    commentsToLikes: 0.006739
+    id: ck5hi69kmbv2j0i117ilq09bb
+    verified: true
+    hashtags: "#reklama, #strongman, #strongmantraining, #porannazaprawa"
+  - username: "damian.janikowski"
+    fullname: >-
+      Damian Janikowski
+    bio: >-
+      🥊@ksw_mma Fighter🥊 🥉Medalist Olympic Games in🤼‍♂️ 👨‍👩‍👧‍👧 Husband and Father. NA KOD: JANIKOWSKI20 -20% na wszystkie suple ze sklepu FA.Link w Bio
+    location: "Poland"
+    followers: 251578
+    engagement: 180
+    commentsToLikes: 0.015428
+    id: ck0twqxhhgh4t0i192vtd5a91
+    verified: true
+    hashtags: "#hurghada, #holiday, #egipt, #goonnutrition"
+  - username: "adamniedzwiedz"
+    fullname: >-
+      Jiu Jitsu | MMA Fighter
+    bio: >-
+      PRO MMA FIGHTER 8-4-1💪 7 WINS BY SUBMISSION 🐍 BJJ Brownbelt 👊
+    location: "Poland"
+    followers: 82827
+    engagement: 111
+    commentsToLikes: 0.006594
+    id: ck6tptbwzmpmp0j71b2pmg0ce
+    verified: false
+    hashtags: "#mma, #jiujitsu, #420, #wrestling"
   - username: "szymanskimma"
     fullname: >-
       Roman Szymański
@@ -31,18 +67,6 @@ profiles:
     id: ck0u29boezap00i199k39wfib
     verified: false
     hashtags: "#fightlikeagirl, #birthdaygirl, #carpatreeteam, #tbt"
-  - username: "adamniedzwiedz"
-    fullname: >-
-      Adam Niedźwiedź
-    bio: >-
-      PRO MMA FIGHTER 7-4💪 KSW Welterweight BJJ Brownbelt 👊 Techno 🚀
-    location: "Poland"
-    followers: 96344
-    engagement: 270
-    commentsToLikes: 0.004796
-    id: ck6tptbwzmpmp0j71b2pmg0ce
-    verified: false
-    hashtags: "#fighter, #mma, #mountains, #trip"
   - username: "skiba_daniel"
     fullname: >-
       Daniel Skibiński
@@ -103,28 +127,4 @@ profiles:
     id: ck5zkpzavjy0n0i14gqtsji2u
     verified: false
     hashtags: "#igerspoland, #lodz, #ankosmma, #kickboxing"
-  - username: "pudzianofficial"
-    fullname: >-
-      Mariusz Pudzianowski
-    bio: >-
-      MMA FIGHTER and 5x World's Strongest Man. https://sklep.pudzian.pl https://pudzian.pl
-    location: "Poland"
-    followers: 408871
-    engagement: 266
-    commentsToLikes: 0.009928
-    id: ck5hi69kmbv2j0i117ilq09bb
-    verified: true
-    hashtags: "#pudzilla, #gym, #mmafighter, #pudzian"
-  - username: "martinlewandowski"
-    fullname: >-
-      Martin Lewandowski
-    bio: >-
-      @ksw_mma Co-Founder 🥊 @myland_agency Marketing Agency co-owner 💻 @mmapolska_org President
-    location: "Poland"
-    followers: 49520
-    engagement: 200
-    commentsToLikes: 0.017177
-    id: ck5hqp0oetgws0i11yw7tweb1
-    verified: true
-    hashtags: "#mmapolska, #mma, #ksw, #pantarhei"
 ---

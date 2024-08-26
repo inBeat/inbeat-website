@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In 2023
+title: Top 10 Mothers TikTok Influencers In 2024
 description: >-
-  Find top mothers TikTok influencers in 2023. Most popular hashtags: #duet #fyp #greenscreen.
+  Find top mothers TikTok influencers in 2024. Most popular hashtags: #duet #fyp #greenscreen.
 platform: TikTok
-hits: 5508
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 5508 TikTok influencers like this for you to work with.
+hits: 6837
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 6837 TikTok influencers like this for you to pitch.
 profiles:
   - username: "kagonineko"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.060815
     id: ckail7094msgt0i78zholii6r
     verified: false
-    hashtags: "#caincosplay, #quickbooksvictorypose, #cleargenius, #demonoc"
+    hashtags: "#caindeardoor, #caincosplay, #demontime, #femalehowl"
   - username: "geethurajesh3"
     fullname: >-
       Geethu Rajesh
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.560262
     id: ckck5esowqb8l0j23sjrlaa7d
     verified: false
-    hashtags: "#sillyduets, #disney, #funnyduets, #funny"
+    hashtags: "#over30, #duetswithfriends, #funny, #disney"
   - username: "rnete"
     fullname: >-
       Renee
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.320502
     id: ckd1840uypkb50j23ixhnr14o
     verified: false
-    hashtags: "#funn, #tiktoker, #comedy, #fypsounds"
+    hashtags: "#tiktok, #comedy, #fypage, #funn"
   - username: "shakib010"
     fullname: >-
       SHAKIB
@@ -79,6 +79,18 @@ profiles:
     id: ck8qnjaaaur060j78pndxbahl
     verified: false
     hashtags: "#tahmina, #duet"
+  - username: "truckerleezah"
+    fullname: >-
+      Leezah422 
+    bio: >-
+      18+only Wife mother trucker artist vocalist musician 🇺🇸Proud American Patriot
+    location: "United States"
+    followers: 32500
+    engagement: 2676
+    commentsToLikes: 0.106915
+    id: cka7or7bz3qu70i78tb2f6v2c
+    verified: false
+    hashtags: "#duet, #greenscreen"
   - username: "kissialot"
     fullname: >-
       Jasmond P. Kisses
@@ -115,16 +127,4 @@ profiles:
     id: ckbwg12b82aio0j232givmc97
     verified: false
     hashtags: "#iwannafeelwhatloveis, #mypride, #thestaplessingers, #fyp"
-  - username: "me_my_mental_self"
-    fullname: >-
-      Me̮̟͈̣̖̰̩̹͈̾ͨ̑͑n͉̠̙͉̗̺̋̋̔ͧ̊t̉̈́
-    bio: >-
-      mother of 3409 weebs ⚠️not taking requests⚠️ 🚫pls dont spam like🚫 her/she
-    location: "United States"
-    followers: 3406
-    engagement: 2312
-    commentsToLikes: 0.086705
-    id: ckd6wzujdtcyw0j23mjy04ehx
-    verified: false
-    hashtags: "#haikyuu, #weeb, #duet, #4upage"
 ---

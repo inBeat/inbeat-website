@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Melbourne In 2023
+title: Top 10 Instagram Influencers In Melbourne In 2024
 description: >-
-  Find top Instagram influencers in Melbourne in 2023. Most popular hashtags: #melbourne #mom #reelsinstagram.
+  Find top Instagram influencers in Melbourne in 2024. Most popular hashtags: #japan #japantrip #japantravel.
 platform: Instagram
-hits: 775
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 775 Instagram influencers like this in Melbourne, Australia for you to collaborate.
+hits: 1242
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 1242 Instagram influencers like this in Melbourne, Australia for you to collaborate.
 profiles:
+  - username: "eatswithkayli"
+    fullname: >-
+      Melbourne Food & Travel | Eats with Kayli
+    bio: >-
+      📍Based in Melbourne 🇦🇺 💌 eatswithkayli@gmail.com 💘Tiktok: eatswithkayli ✖️Reposting my content without permission will be reported
+    location: "Australia"
+    followers: 123227
+    engagement: 653
+    commentsToLikes: 0.050043
+    id: ck14joyuslglv0i19r3j5haud
+    verified: false
+    hashtags: "#asmr, #japanesedessert, #parisfood, #koreatrip"
+  - username: "yantastic"
+    fullname: >-
+      Peter Yan
+    bio: >-
+      Melbourne Australia Currently posting content from Japan Shop my Lr Presets, LUTs ⇊
+    location: "Australia"
+    followers: 664064
+    engagement: 1467
+    commentsToLikes: 0.008704
+    id: ck0u6zut03goh0i199oo7xj8s
+    verified: true
+    hashtags: "#tokyo, #japan, #ausopen, #lensbible"
   - username: "princesshoneybelle"
     fullname: >-
       HONEY | Cat Chef | Princess
     bio: >-
-      🎀 Daily Dose of Sweetness 🧁 Mixy Mix Weekly Recipes 🎂 October 20, 2019 🏰 Melbourne, Australia 💖 Adopt Don’t Shop 👛 @belle.by.honey
+      💖 Sweet & Cute Cat Content 🧁 Mixy Mix Recipes 🏆 AiMCO Best Pet & Food Creator 📰 Business Insider + TIME 🏰 Melbourne, Australia ✉️ honey@onefluent.com
     location: "Australia"
-    followers: 151482
-    engagement: 1002
-    commentsToLikes: 0.033815
+    followers: 339605
+    engagement: 773
+    commentsToLikes: 0.029182
     id: ck8t3oy6m3y5y0j78ika48mor
     verified: false
-    hashtags: "#comedy, #contentcreator, #catscatscats, #weeklyfluff"
-  - username: "editionalbeauty"
+    hashtags: "#cutecat, #makeship, #funnycats, #catlife"
+  - username: "tinatanakaharris"
     fullname: >-
-      ⚡️editional beauty⚡️
+      Tina Tanaka Harris
     bio: >-
-      🌸 beauty obsessed 🌸 melbourne, australia 🌸 editionalbeauty@gmail.com
+      Japanese Aussie passionate about beauty✨ 📍Melbourne, AUS 💗J+K Beauty 💦Dry/Dehydrated Skin ▶️YouTube Channel (170k+♥️) + more ↓
     location: "Australia"
-    followers: 13565
-    engagement: 496
-    commentsToLikes: 0.155522
-    id: ck5c05d2hsh9m0i11o1yt0e9n
+    followers: 36795
+    engagement: 842
+    commentsToLikes: 0.013259
+    id: cl3w8yyw3cjbu0i23dwh147jh
     verified: false
-    hashtags: "#meccamoment, #luxuryfragrance, #fragrancecollection, #skincareroutine"
-  - username: "miss2ariki"
+    hashtags: "#oliveyoung, #skincareaddict, #jbeauty, #kbeautyblogger"
+  - username: "emilywardyo"
     fullname: >-
-      Tash Tuariki
+      Emily Ward 🦋
     bio: >-
-      Founder & Creator of @manea_skin ▫️14 Clinic locations - Aus wide▫️ 📍Melbourne 🇨🇰 Cook Island / Australian 🏋🏻‍♀️ @luxefitness #Natasha2021
+      @loveislandau S3 ❤️ melbourne/gold coast emily@thesocial.agency emilywardbusiness@gmail.com
     location: "Australia"
-    followers: 79065
-    engagement: 567
-    commentsToLikes: 0.021891
-    id: ck5c398e1yu8k0i11uk21grge
+    followers: 92371
+    engagement: 410
+    commentsToLikes: 0.015268
+    id: ckapbc2lszcna0i78n02fc2co
     verified: false
-    hashtags: "#ambassador, #lockdownbirthday, #mom, #babygirl"
-  - username: "junclarekim"
+    hashtags: "#reel, #discover, #explore, #australia"
+  - username: "simmyeats.melb"
     fullname: >-
-      JUN KIM
+      Melbourne Foodie & Lifestyle
     bio: >-
-      Aspiring academic, part-time content creator Based in Naarm (Melbourne) Tiktok: @junclarekim ✉️: junkim.instagram@gmail.com
+      🤓 Simmy 🍔 Food is life - Eating my way through Melbourne 📬 DM or Email for collabs: simmyeats.melb@hotmail.com
     location: "Australia"
-    followers: 13284
-    engagement: 342
-    commentsToLikes: 0.046836
-    id: ck8t85l9wj6tf0j7827j65yse
+    followers: 6155
+    engagement: 566
+    commentsToLikes: 0.827717
+    id: ck5zr1anzvpbc0i148a6j4ja9
     verified: false
-    hashtags: "#dreamyaesthetic, #momentsofchic, #aeccxinfluencers, #melbourne"
-  - username: "mymelbournediary"
+    hashtags: "#zomato, #melbournefoodie, #aussietraveller, #goodfoodau"
+  - username: "soukaina.co"
     fullname: >-
-      Sanjana | My Melbourne Diary 🇦🇺📔❤️✨
+      Soukaïna - سكينة 🧡
     bio: >-
-      -Documenting my life in #Melbourne🇦🇺- Places to visit✨Food🧆Coffee☕️Parks🌳 Beaches🏝Sunsets🌅Nightlife🥂 ✈️- @travel.withsanj 💌mymelbournediary@gmail.com
+      📍Melbourne ✨ Belly dance, Life, Skin Care & curls ✨ 📪 : soukainascollab@gmail.com
     location: "Australia"
-    followers: 100288
-    engagement: 282
-    commentsToLikes: 0.010668
-    id: clb3r3bew3l0l0i23eml0zqww
-    verified: false
-    hashtags: "#melbourne, #sydney, #christmasinmelbourne, #brisbane"
-  - username: "get_fit_lauren"
-    fullname: >-
-      L A U R E N   T O O H E Y 💕
-    bio: >-
-      Follow my journey to a happier healthier life 💕 Real•Raw•Inspire•Uplift 🤩 🔪 VSG 18 RNY 21 👇🏽105kgs 💪🏽 📍 Melbourne 🇦🇺 👩🏼‍🍳 @get_thermo_lauren
-    location: "Australia"
-    followers: 24220
-    engagement: 93
-    commentsToLikes: 0.030675
-    id: cksgfi7yv9iqa0j23u4fs64to
-    verified: false
-    hashtags: "#mumlife, #ford, #proud, #loveyou"
-  - username: "nurann_saad"
-    fullname: >-
-      F 4 Ś H Í Ø Ń 📸⛓
-    bio: >-
-      🇹🇷🇮🇶 📍Melbourne, Aus🇦🇺
-    location: "Australia"
-    followers: 7426
-    engagement: 1660
-    commentsToLikes: 0.121885
-    id: ck15ti5sii74e0i19z5fvok3f
+    followers: 155140
+    engagement: 568
+    commentsToLikes: 0.013369
+    id: ck134o4vsxde50i19r2c0j4gn
     verified: false
     hashtags: ""
-  - username: "harveypetito"
+  - username: "monsieurbanana"
     fullname: >-
-      Harvey Petito
+      Monsieur Banana
     bio: >-
-      📍Melbourne, Australia
+      📍Melbourne, Australia ▶️ Youtube Channel | Monsieur Banana ✉️ hello@monsieurbanana.com Watch my latest video 👇🏻
     location: "Australia"
-    followers: 630579
-    engagement: 500
-    commentsToLikes: 0.037532
-    id: ck0tzj93gqh5q0i191agtrpmm
+    followers: 41279
+    engagement: 436
+    commentsToLikes: 0.038350
+    id: ck136dirf5yg40i19tpd3mmxu
+    verified: false
+    hashtags: "#rebuiltbyoriginals, #legopartner, #havaianaspartner, #nike"
+  - username: "miss.elishab"
+    fullname: >-
+      ELISHA
+    bio: >-
+      🇦🇺 melbourne,australia 👶🏽 mama to kyson, kaelan & aiko 📧 collaborations: elisha@bluechiptalent.com.au
+    location: "Australia"
+    followers: 60761
+    engagement: 459
+    commentsToLikes: 0.040633
+    id: ck6tjq3eh37bc0j71bkl6bqux
     verified: true
-    hashtags: "#chadstonefashion, #allkindspartner, #unisex, #moombafestival2021"
-  - username: "tshadelrosario"
+    hashtags: "#collaboration, #debras, #bctsponsored, #splashblanket"
+  - username: "melbournefoodspots"
     fullname: >-
-      𝐓𝐈𝐒𝐇 ♡
+      Shaye | Food Blogger
     bio: >-
-      𝘠𝘰𝘶𝘳 𝘴𝘩𝘺 𝘐𝘕𝘛𝘑 𝘸𝘪𝘵𝘩 𝘢 𝘭𝘰𝘵 𝘰𝘧 𝘵𝘦𝘢 ☽꙳✧ 📍 Melbourne | 🇵🇭x😉 💌 tishcollabs@gmail.com 🔓@tshascloset pre-loved outfits
+      🤍 @shaye___ 🍽 Capturing the ultimate to-do list in #Melbourne 💌 melbournefoodspots@gmail.com
     location: "Australia"
-    followers: 76358
-    engagement: 820
-    commentsToLikes: 0.037562
-    id: ck1382yi8e94m0i19dvvazppu
+    followers: 2766
+    engagement: 894
+    commentsToLikes: 0.418709
+    id: ck5zwx7l86xol0i14593thzl9
     verified: false
-    hashtags: ""
-  - username: "shaniakufner_"
-    fullname: >-
-      shania
-    bio: >-
-      Melbourne, Aus I fly for a living, and take ridiculous amounts of photos of myself for fun 🦋🦖🍄🧚🏼🌙🥑 ✉️ shania.kufner96@hotmail.com
-    location: "Australia"
-    followers: 42599
-    engagement: 435
-    commentsToLikes: 0.061587
-    id: ck0tyij5ymz1s0i19s0gue21w
-    verified: false
-    hashtags: "#disneyxcasetify, #highpointsc, #hpshoppingday"
+    hashtags: "#sbsc, #partner, #crustworthy, #crustpizza"
 ---

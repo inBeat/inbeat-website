@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Istanbul In 2023
+title: Top 10 Fitness TikTok Influencers In Istanbul In 2024
 description: >-
-  Find top fitness TikTok influencers in Istanbul in 2023. Most popular hashtags: #istanbul #fitness #ke #turkey.
+  Find top fitness TikTok influencers in Istanbul in 2024. Most popular hashtags: #istanbul #fitness #ke #diyet.
 platform: TikTok
 hits: 9
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform holds 9 TikTok influencers like this in Istanbul, Turkey for you to connect with.
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our database has 9 TikTok influencers like this in Istanbul, Turkey for you to contact.
 profiles:
   - username: "ferdii.34"
     fullname: >-

@@ -1,24 +1,48 @@
 ---
-title: Top 10 Divers Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Divers Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top divers Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #visitdubai #mydubai #diversity.
+  Find top divers Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #dubai #scubadiving #travel #bestvacations.
 platform: Instagram
-hits: 11
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 11 Instagram influencers like this in United Arab Emirates for you to connect with.
+hits: 15
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 15 Instagram influencers like this in United Arab Emirates for you to connect with.
 profiles:
-  - username: "jessicasmith27"
+  - username: "michellestaudenherz"
     fullname: >-
-      Jessica Smith OAM
+      Michelle Staudenherz
     bio: >-
-      Paralympian 🏊🏼‍♀️ Speaker | MC | Author Diversity & Inclusion Advisor Body Image & Disability Activist Dubai 📍#diversityandinclusion Plant Based🌱
+      Yoga ☼ Travel ☼ Wellness 📍Austrian girl based in Dubai 3 Shoulder Surgeries | Ex- Platform Diver
     location: "United Arab Emirates"
-    followers: 56141
-    engagement: 214
-    commentsToLikes: 0.033300
-    id: ck5hfba4vwocd0i11nq7maa9d
-    verified: true
-    hashtags: "#disability, #difference, #motherhood, #diversity"
+    followers: 115075
+    engagement: 1199
+    commentsToLikes: 0.056513
+    id: ck136krb56zkx0i1909lteccd
+    verified: false
+    hashtags: "#yogainspiration, #handstandpractice, #michellechallengesyou, #yogadubai"
+  - username: "mishaalsraw"
+    fullname: >-
+      Mishaal AK | Dubai Videographer
+    bio: >-
+      Saved by grace ✞ Founder @merakicreativemedia Underwater Video & Photo 🤿 🐬@oceanwhisperer Freediver, Emergency First Responder & Rescue Diver
+    location: "United Arab Emirates"
+    followers: 16230
+    engagement: 887
+    commentsToLikes: 0.049363
+    id: ck14lg0m7uha20i19c2lu2gxg
+    verified: false
+    hashtags: "#seychelles, #ourplanetdaily, #madeofocean, #underwatervideographerdubai"
+  - username: "rxneem"
+    fullname: >-
+      Dr.Raneem Ghassan✨د.رنيم غسان
+    bio: >-
+      Dentist 🦷 DM for appointments 📥 Equestrian🐴 Traveler ✈️ Diver🤿
+    location: "United Arab Emirates"
+    followers: 136804
+    engagement: 40
+    commentsToLikes: 0.024948
+    id: ck6uhxoj9bujf0j71eq5w2kjt
+    verified: false
+    hashtags: "#travel, #vacation, #jordan, #diastemaclosure"
   - username: "nicol999"
     fullname: >-
       Niki Dunckova
@@ -31,18 +55,6 @@ profiles:
     id: ckap5vchydboc0i78exqeicsf
     verified: false
     hashtags: "#maldivesresorts, #hightatras, #maldivesbeach, #vysoke"
-  - username: "mishaalsraw"
-    fullname: >-
-      Dubai Videographer
-    bio: >-
-      Self taught content creator🎥 Saved by grace ✞ Scuba diver🤿 #ProjectAWARE #Savetheocean
-    location: "United Arab Emirates"
-    followers: 6858
-    engagement: 1075
-    commentsToLikes: 0.067557
-    id: ck14lg0m7uha20i19c2lu2gxg
-    verified: false
-    hashtags: "#emirates, #bestplacestogo, #justaportrait, #dubaifog"
   - username: "abdualla75"
     fullname: >-
       
@@ -91,40 +103,28 @@ profiles:
     id: ck6ttbw9f9qso0j71x07ifd4s
     verified: false
     hashtags: "#sports, #family, #saudiarabia, #ballet"
-  - username: "czworonas"
+  - username: "stephanieatalaofficial"
     fullname: >-
-      C Z W O R O N A S
+      Stéphanie Atala ستيفاني عطالله
     bio: >-
-      ✈︎Travel with kids ♥︎ Family goals ♀Karolina OWNER @oplotka ♂Jacek @jacekgluchowski 🅙🅤🅛🅚🅐 8yo 🅩🅞🅢🅘🅐 5yo ✉︎ hello@czworonas.com 📍HOME 🇵🇱 📽DUBAI
+      I like jokes, kindness and fries. 📧 stephanieatala@gmail.com ⬇️ #bentMbareh 🎶
     location: "United Arab Emirates"
-    followers: 22250
-    engagement: 281
-    commentsToLikes: 0.022259
-    id: ck15qltgw3gt60i195gtyb6p5
+    followers: 1782276
+    engagement: 256
+    commentsToLikes: 0.005234
+    id: ck135vk903g0t0i19rt1aujb5
     verified: false
-    hashtags: "#familytime, #familytravel, #czworonas, #podrozowaniezdzieckiem"
-  - username: "afrod3si"
+    hashtags: "#stephanieatala, #dubai, #lebanon, #bentmbareh"
+  - username: "daly_fit"
     fullname: >-
-      AfroDesi
+      Dalila Ortega López
     bio: >-
-      🏠 - London, Mumbai @pranavpatel.jpg @aakashphulwani @ashokadainsta 🌐 - Mumbai, London, Dubai, Dar Es Salaam ⬇️ - Shake body x Ole Ole
+      I help busy people to lose fat and build muscle without giving up their social life 💪🏽🥗 Backup account: @dalilaortegalopez
     location: "United Arab Emirates"
-    followers: 13678
-    engagement: 453
-    commentsToLikes: 0.042542
-    id: ck0w0jam2eh860i193z1z5pgi
+    followers: 295991
+    engagement: 136
+    commentsToLikes: 0.009865
+    id: ck5q0rg697e720i11nf77u1ua
     verified: false
-    hashtags: "#tanzania, #choreography, #dancegram, #dar"
-  - username: "mane3_63"
-    fullname: >-
-      Manea Al Marzooqi
-    bio: >-
-      UAE 🇦🇪 ⭐️Professional WaterShow ✨ ⭐️Jet Ski World Champion 🥇 ⭐️Powerboat Pilot 👻snap : mane3_63
-    location: "United Arab Emirates"
-    followers: 99993
-    engagement: 1069
-    commentsToLikes: 0.018258
-    id: ck9wgye6avhwt0j788myleg7y
-    verified: false
-    hashtags: "#burjalarab, #flyboard, #fly, #watersports"
+    hashtags: "#dubai30x30, #dubai, #scubadiving, #personaltrainer"
 ---

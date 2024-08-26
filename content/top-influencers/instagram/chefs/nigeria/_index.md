@@ -1,24 +1,24 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Nigeria In 2023
+title: Top 10 Chefs Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top chefs Instagram influencers in Nigeria in 2023. Most popular hashtags: #love #nigeria #endsars.
+  Find top chefs Instagram influencers in Nigeria in 2024. Most popular hashtags: #endsars #lagosfoodvendor #love.
 platform: Instagram
-hits: 11
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 11 Instagram influencers like this in Nigeria for you to contact.
+hits: 10
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat has 10 Instagram influencers like this in Nigeria for you to pitch.
 profiles:
-  - username: "realsophy"
+  - username: "professoroffood"
     fullname: >-
-      SHADES OF SOPHIA ♉️
+      Amenze | Food Expert + Food Business Coach
     bio: >-
-      👩‍🍳Chef @tastewithsophy Twitter: Realsophy Snapchat: Real_sophy
+      💡I provide solutions to problems in Food Business. 🏆The IDAN of Food Costing 🧑‍🍳 Chef x Biochemist x Foodpreneur Click here👇🏽for my Books + Classes
     location: "Nigeria"
-    followers: 96019
-    engagement: 738
-    commentsToLikes: 0.104403
-    id: ck5hrhn71uw9s0i11uinjrqi5
+    followers: 65947
+    engagement: 158
+    commentsToLikes: 0.201610
+    id: ck9wd1ge2dmxi0j78mgbfebkj
     verified: false
-    hashtags: "#nomakeup, #brandinfluencer, #thursday, #nigeria"
+    hashtags: "#portharcourtchef, #nigerianentrepreneur, #businesstips, #businessoffood"
   - username: "missnduati"
     fullname: >-
       Tracy Nduati
@@ -91,18 +91,6 @@ profiles:
     id: ck6tvg0z5m10k0j719qlnie68
     verified: false
     hashtags: "#happychild, #positivevibes, #happymoments, #happynewmonth"
-  - username: "ifys.kitchen"
-    fullname: >-
-      Ify's Kitchen (KITCHEN QUEEN)⭐
-    bio: >-
-      Brand Ambassador for @mamadorng 🏆Award winning food blogger 📍 Instructor #cookwithify 📩 Ads/Biz - ifyskitchen1@gmail.com 📽 Learn to cook like a pro👇
-    location: "Nigeria"
-    followers: 581452
-    engagement: 71
-    commentsToLikes: 0.057919
-    id: ck13ay30csr050i1982459fz6
-    verified: false
-    hashtags: "#foodblogger, #nigerianfoodblogger, #weightloss, #youtuber"
   - username: "val.hilda"
     fullname: >-
       Titi ChopLife 💸🦩
@@ -127,4 +115,16 @@ profiles:
     id: ck5bv7cygj48n0i11awagfpxh
     verified: true
     hashtags: "#love, #beatingcorona, #nigeria, #oliveemodi"
+  - username: "horlaroflagos"
+    fullname: >-
+      Bolarinwa Y.O
+    bio: >-
+      NO🥇LIFESTYLE PHOTOGRAPHER IN 🇳🇬 Sneakerhead 👟 (Check my REELS)
+    location: "Nigeria"
+    followers: 73830
+    engagement: 307
+    commentsToLikes: 0.027059
+    id: ck5c9qdqzbwuz0i111eypf4jw
+    verified: false
+    hashtags: "#calltobar, #badcommentsthemovie, #number1"
 ---

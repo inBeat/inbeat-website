@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Colombia In 2023
+title: Top 10 Beauty TikTok Influencers In Colombia In 2024
 description: >-
-  Find top beauty TikTok influencers in Colombia in 2023. Most popular hashtags: #beauty #fyp #trend #viral.
+  Find top beauty TikTok influencers in Colombia in 2024. Most popular hashtags: #beauty #fyp #trend #foryou.
 platform: TikTok
 hits: 21
 text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: inBeat holds 21 TikTok influencers like this in Colombia for you to pitch.
+text_bottom: Our platform aggregates 21 TikTok influencers like this in Colombia for you to collaborate.
 profiles:
   - username: "vivitorresv"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.043841
     id: ckbfflvvbadwu0j23snqwup8w
     verified: true
-    hashtags: "#foryou, #skincare, #fyp, #beauty"
+    hashtags: "#marrebeauty, #fyp, #skincare, #beauty"
   - username: "sophiegiraldo.of"
     fullname: >-
       Sophie Giraldo 

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Australia In 2023
+title: Top 10 Architecture Instagram Influencers In Australia In 2024
 description: >-
-  Find top architecture Instagram influencers in Australia in 2023. Most popular hashtags: #architecture #australianarchitecture #home.
+  Find top architecture Instagram influencers in Australia in 2024. Most popular hashtags: #architecture #interiordesign #design #interior.
 platform: Instagram
-hits: 108
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 108 Instagram influencers like this in Australia for you to contact.
+hits: 139
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database has 139 Instagram influencers like this in Australia for you to collaborate.
 profiles:
-  - username: "shaynebrooksimpson"
+  - username: "elvi_chuang"
     fullname: >-
-      S H A Y N E | B R O O K
+      Elvi Chuang
     bio: >-
-      Interior architecture student Agency: @themodelsau Email for enquires @ shaynebrooksimpson@gmail.com
+      👩🏻‍💻UXUI | Product designer | Taiwan 💭Minimal architecture lover 🤳Mostly shot on iPhone ✈️#digitalnomad #workation 📍 Currently in Taiwan 🇹🇼
     location: "Australia"
-    followers: 39103
-    engagement: 303
-    commentsToLikes: 0.012409
-    id: ck5c09seispm70i11vh21hzut
+    followers: 11516
+    engagement: 345
+    commentsToLikes: 0.035701
+    id: ck5zrginzwjct0i14okafla8g
     verified: false
-    hashtags: "#styleblogger, #styleinspo, #balenciaga, #styleoftheday"
-  - username: "wealthy.ld"
+    hashtags: "#arquitecturamax, #viewtaiwan, #iseetaiwan, #taiwan"
+  - username: "vestigare_"
     fullname: >-
-      Wealthy Lifestyle
+      VESTIGARE ARCHITECTURE
     bio: >-
-      •Luxury Realestate & Architecture• •Contact me by DM or by email at lndenterprises@icloud.com •Check out my other page @amg.ld
+      in search for architecture that instigates and provokes. — contact dm or e-mail curated by @luizagiurni
     location: "Australia"
-    followers: 36176
-    engagement: 274
-    commentsToLikes: 0.065718
-    id: ckapblaqd0b3j0i78vthxl24k
+    followers: 194466
+    engagement: 222
+    commentsToLikes: 0.002282
+    id: clpwuj3pllbb50k08b43a686l
     verified: false
-    hashtags: ""
-  - username: "zofia_mb"
+    hashtags: "#cabin, #arquitectura, #arquitetura, #photography"
+  - username: "editionoffice"
     fullname: >-
-      Zofia MB
+      Edition Office
     bio: >-
-      Architecture student🥰
+      An architecture studio based in Melbourne, Australia.
     location: "Australia"
-    followers: 17878
-    engagement: 589
-    commentsToLikes: 0.014296
-    id: ck15rjjs888cr0i19ig1cqt9j
+    followers: 71591
+    engagement: 181
+    commentsToLikes: 0.009315
+    id: ck0w1cgvcinvu0i19smi6ccr3
     verified: false
-    hashtags: "#piano, #cover, #mua, #missuniverseaustralia"
-  - username: "johngollings"
+    hashtags: "#architecture, #eokynetonhouse, #editionoffice, #interiordesign"
+  - username: "wowowaarch"
     fullname: >-
-      John Gollings
+      WOWOWA Architecture 🦘
     bio: >-
-      Australian based photographer specialising in architecture and cultural projects in Sth East Asia for publications, exhibitions and prints.
+      Melbourne/Naarm & Perth/Boorloo ••Seriously Playful Architecture #StoryInPlace @bcorpanz Certified •• Life’s too short for boring spaces!
     location: "Australia"
-    followers: 25360
-    engagement: 260
-    commentsToLikes: 0.032224
-    id: ck0vyxk8p69y60i190kierm0c
+    followers: 45923
+    engagement: 124
+    commentsToLikes: 0.013355
+    id: ck135xcrt3psm0i19n0fvvwtt
     verified: false
-    hashtags: "#johngollings, #archdaily, #victoriaarchitecture, #architecturevictoria"
-  - username: "timstokesart"
+    hashtags: "#wowowapony, #wowowawrongchamp, #wowowa, #tdf"
+  - username: "visualpleasuremag"
     fullname: >-
-      Tim Stokes Artist
+      VISUAL PLEASURE • Magazine
     bio: >-
-      Architecture,Scifi,Fantasy,Landscapes,Space,Surrealism,Cityscape art DM or email for commission requests :-) Tap View Shop below for prints
+      Photography • Architecture • Design • Art • Travel VISUAL PLEASURE Escapes @visualpleasuretravel VISUAL PLEASURE Studio @visualpleasurestudio
     location: "Australia"
-    followers: 20063
-    engagement: 482
-    commentsToLikes: 0.036563
-    id: ck9hbnxwhhokt0j78fac7sq9c
+    followers: 284406
+    engagement: 96
+    commentsToLikes: 0.008834
+    id: ck0u74fin3pgr0i193wtff0oa
     verified: false
-    hashtags: "#drawing, #archisketch, #parisjetaime, #detailedart"
-  - username: "blachford"
+    hashtags: "#art, #flower, #travel, #visualpleasuremag"
+  - username: "maynardarchitect"
     fullname: >-
-      Tom Blachford
+      Andrew Maynard
     bio: >-
-      Fine Art/Interiors/Architecture/Aerial Lover of puns + cheese + @kateballis
+      Founding director of @austinmaynardarchitects, @Dezeen’s “Architecture Studio of the Year”.
     location: "Australia"
-    followers: 48887
-    engagement: 323
-    commentsToLikes: 0.013461
-    id: ck0u0d6o7tegl0i197r33rgpq
+    followers: 53934
+    engagement: 59
+    commentsToLikes: 0.031373
+    id: ck15t145vftpo0i19fdelh7h9
     verified: false
-    hashtags: ""
-  - username: "uma.jeyaseelan"
+    hashtags: "#designinspo, #langhouseama, #interiorarchitecture, #innovation"
+  - username: "arch.design.daily"
     fullname: >-
-      By Uma © Artist
+      Interior | Architecture | Design
     bio: >-
-      Yoga . Art . Architecture Illustrator . Building Designer . Environmentalist . 200hr Yoga Teacher No Instagram DMs please . No custom work. Sydney
+      Daily Interior, Architecture & Design Inspo 💡
     location: "Australia"
-    followers: 17263
-    engagement: 277
-    commentsToLikes: 0.033683
-    id: ck602llkdhvlh0i1457hyrvfx
+    followers: 879383
+    engagement: 124
+    commentsToLikes: 0.006365
+    id: ck0u6shde2ulj0i1997i7y6mt
     verified: false
-    hashtags: "#embossing, #indiandance, #sydneyartist, #indianmythology"
-  - username: "studioblackinteriors"
+    hashtags: "#architecture, #design, #archdesigndaily, #interior"
+  - username: "joeadsettarchitects"
     fullname: >-
-      STUDIO BLACK INTERIORS
+      Joe Adsett Architects
     bio: >-
-      Maria Cerne | Interior Designer & Stylist | Lover of design, architecture & inspirational quotes | Sharing my work & those of others I find inspiring
+      National Award-Winning • Subtropical Modernism Architecture, Interior Design, Development Designing Australia-wide.
     location: "Australia"
-    followers: 124054
-    engagement: 176
-    commentsToLikes: 0.015490
-    id: ck15q38oe0vqe0i19j8j2yxvg
+    followers: 129479
+    engagement: 64
+    commentsToLikes: 0.016405
+    id: ck15tpe8nj8mv0i19hsp9xm4v
     verified: false
-    hashtags: "#project346"
-  - username: "jackmerlolandscapedesign"
+    hashtags: "#goldcoast, #joeadsett, #househunting, #archilovers"
+  - username: "cerastribley"
     fullname: >-
-      Jack Merlo
+      Cera Stribley
     bio: >-
-      Jack Merlo leads Australia’s premier landscape architecture studio. Each project receives his personal attention.
+      Architecture and Interior Design practice, with studios in Melbourne and Brisbane.
     location: "Australia"
-    followers: 13328
-    engagement: 270
-    commentsToLikes: 0.014854
-    id: ck5c3knr7ziks0i11nyb42znt
+    followers: 63276
+    engagement: 60
+    commentsToLikes: 0.013791
+    id: ck13b3p03timy0i19vdb125rz
     verified: false
-    hashtags: "#landscape, #home, #architecture, #architecturelovers"
-  - username: "adamkanearchitects"
+    hashtags: "#architecture, #exterior, #ourteam, #architect"
+  - username: "mimdesignstudio"
     fullname: >-
-      Adam Kane Architects
+      Mim Design
     bio: >-
-      Melbourne based Architecture and Interior Design Studio, passionate about creating timeless homes and spaces that exceed our clients’ expectations.
+      Architecture • Interiors • Furniture & Styling Design Studio based in Melbourne, Australia
     location: "Australia"
-    followers: 32304
-    engagement: 238
-    commentsToLikes: 0.015826
-    id: ck0w3xhxlvsa80i19rgqkfnug
+    followers: 158685
+    engagement: 40
+    commentsToLikes: 0.028117
+    id: ck0vy44ts25f40i19z75thc0b
     verified: false
-    hashtags: "#melbourneinteriors, #interiordesign, #sydneyarchitecture, #sydneyinteriors"
+    hashtags: "#interiordesign, #design, #mimdesign, #architecture"
 ---

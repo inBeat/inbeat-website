@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Las Vegas In 2023
+title: Top 10 Comedians TikTok Influencers In Las Vegas In 2024
 description: >-
-  Find top comedians TikTok influencers in Las Vegas in 2023. Most popular hashtags: #comedy #fyp #lasvegas #foryou.
+  Find top comedians TikTok influencers in Las Vegas in 2024. Most popular hashtags: #comedy #fyp #foryou #lasvegas.
 platform: TikTok
-hits: 16
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our database holds 16 TikTok influencers like this in Las Vegas, United States for you to collaborate.
+hits: 15
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 15 TikTok influencers like this in Las Vegas, United States for you to work with.
 profiles:
   - username: "heathharmison"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.040666
     id: ck9vaxjd8ku7z0j78yrtl8nrq
     verified: false
-    hashtags: "#comedy, #toxica, #funnyvideos, #familytime"
+    hashtags: "#funnytiktok, #millennialsoftiktok, #familytime, #toxica"
   - username: "tristandoescomdy"
     fullname: >-
       tristanisacomedian
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.005909
     id: ckb9rhi7do5yi0j23by9mhbak
     verified: false
-    hashtags: "#funny, #comedy, #fyp, #comedian"
+    hashtags: "#xyzbca, #standup, #fyp, #comedy"
   - username: "recyclingrandy"
     fullname: >-
       Randy James
@@ -66,7 +66,19 @@ profiles:
     commentsToLikes: 0.078674
     id: ck81qyg6fky730j78kx9ipiqh
     verified: false
-    hashtags: "#dapper, #teacher, #bowtie, #recycle"
+    hashtags: "#cleaningstrike, #teacherlife, #teacherappreciationweek, #fyp"
+  - username: "juansalazarjs"
+    fullname: >-
+      Juan Salazar
+    bio: >-
+      ¡Sígueme en Instagram! ¡Solo por diversión!🤠
+    location: "United States"
+    followers: 119000
+    engagement: 712
+    commentsToLikes: 0.019236
+    id: ck9036r2cd2fz0j78thsixv30
+    verified: false
+    hashtags: "#cowboy, #mexican, #fun, #guitar"
   - username: "guanakolife503"
     fullname: >-
       al3xand3r503
@@ -115,16 +127,4 @@ profiles:
     id: ck9emcrlqeoeq0j78yljdrazf
     verified: false
     hashtags: "#foryou, #wera, #parati, #comedia"
-  - username: "raskloony1ne"
-    fullname: >-
-      RaskLoony
-    bio: >-
-      much cora for your support loony squad smile now Laffs for ever LOONYSQUAD.
-    location: "United States"
-    followers: 38100
-    engagement: 796
-    commentsToLikes: 0.067879
-    id: ckb9jh0ukarpa0j237m7btaku
-    verified: false
-    hashtags: "#calivibes, #alratovato, #working, #funny"
 ---

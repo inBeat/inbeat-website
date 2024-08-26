@@ -1,11 +1,11 @@
 ---
-title: Top 10 Crafts And Diy TikTok Influencers In 2023
+title: Top 10 Crafts And Diy TikTok Influencers In 2024
 description: >-
-  Find top crafts and diy TikTok influencers in 2023. Most popular hashtags: #diy #fyp #craft #foryou.
+  Find top crafts and diy TikTok influencers in 2024. Most popular hashtags: #fyp #diy #foryou #craft.
 platform: TikTok
-hits: 39
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat holds 39 TikTok influencers like this for you to pitch.
+hits: 38
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 38 TikTok influencers like this for you to work with.
 profiles:
   - username: "athomewithshannon"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.018956
     id: ckbq74g4vti6l0j23anm030w5
     verified: false
-    hashtags: "#christmas, #fyp, #vday, #diy"
+    hashtags: "#fyp, #valentinesday, #crafts, #foryou"
   - username: "anything.craft"
     fullname: >-
       Anything Craft
@@ -61,12 +61,12 @@ profiles:
     bio: >-
       recipes, crafts, diys and things to pass time! join the party ☆
     location: "United States"
-    followers: 32000
-    engagement: 1636
-    commentsToLikes: 0.035950
+    followers: 31000
+    engagement: 1633
+    commentsToLikes: 0.040600
     id: ckbkn6fjgh5tn0j2359frecsp
     verified: false
-    hashtags: "#foryou, #foryoupage, #jointheparty, #skylight"
+    hashtags: "#foryoupage, #jointheparty, #fyp, #wearamask"
   - username: "pixiekawaiishop"
     fullname: >-
       Ashley
@@ -79,18 +79,6 @@ profiles:
     id: ckc1xjal21hdv0j23ybsmui0e
     verified: false
     hashtags: "#epoxy, #doityourself, #pastel, #handmade"
-  - username: "saltecrafter"
-    fullname: >-
-      NerdEcrafter
-    bio: >-
-      Yes. I'm the real NerdEcrafter on YouTube
-    location: "Canada"
-    followers: 251000
-    engagement: 2627
-    commentsToLikes: 0.013646
-    id: ck8fc0jjz5trd0j78lvt6jc87
-    verified: true
-    hashtags: "#art, #learnontiktok, #pets, #crafts"
   - username: "leafdiy"
     fullname: >-
       comback
@@ -127,4 +115,16 @@ profiles:
     id: ckcd6n40e2fxi0j2337eoxymf
     verified: false
     hashtags: "#oragami, #tutorial, #stpatricksday, #craft"
+  - username: "monstresss"
+    fullname: >-
+      Susete
+    bio: >-
+      IG/YT: @monstresss summoning tiny demons 🌙✨ SHOP ⤵️
+    location: "Canada"
+    followers: 625000
+    engagement: 1722
+    commentsToLikes: 0.006905
+    id: ck806zlm7ndkm0j78w7r6aob5
+    verified: false
+    hashtags: "#halloween, #horror, #mini, #artist"
 ---

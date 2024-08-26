@@ -1,12 +1,24 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Berlin In 2023
+title: Top 10 Fitness TikTok Influencers In Berlin In 2024
 description: >-
-  Find top fitness TikTok influencers in Berlin in 2023. Most popular hashtags: #berlin #foryou #fitness #viral.
+  Find top fitness TikTok influencers in Berlin in 2024. Most popular hashtags: #berlin #foryou #fitness #viral.
 platform: TikTok
 hits: 14
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: inBeat holds 14 TikTok influencers like this in Berlin, Germany for you to work with.
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 14 TikTok influencers like this in Berlin, Germany for you to work with.
 profiles:
+  - username: "kaihou718"
+    fullname: >-
+      user2430847450557
+    bio: >-
+      Artist, Coach, Stunt man, Guinness World records Holder,🏡Berlin IG Kaihou718
+    location: "Germany"
+    followers: 43600
+    engagement: 1106
+    commentsToLikes: 0.011625
+    id: cka0kfhm3mf5c0i78ge0qdhzp
+    verified: false
+    hashtags: "#gymnastics, #training, #fun, #art"
   - username: "y._slife"
     fullname: >-
       y._slife
@@ -55,18 +67,6 @@ profiles:
     id: ckd68lc263tue0j2343hernir
     verified: false
     hashtags: "#foryou, #mallorca, #deutschland, #germany"
-  - username: "kaihou718"
-    fullname: >-
-      user2430847450557
-    bio: >-
-      Artist, Coach, Stunt man, Guinness World records Holder,🏡Berlin IG Kaihou718
-    location: "Germany"
-    followers: 43600
-    engagement: 1106
-    commentsToLikes: 0.011625
-    id: cka0kfhm3mf5c0i78ge0qdhzp
-    verified: false
-    hashtags: "#fyp, #crazy, #2021, #gym"
   - username: "hendrik_senf"
     fullname: >-
       Senfi
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.018325
     id: ckbkop3i3ivsp0j23ckxr89ww
     verified: false
-    hashtags: "#funny, #viral, #muscleup, #fy"
+    hashtags: "#viral, #muscleup, #gewichtheben, #foryou"
   - username: "yakup_sakarya54"
     fullname: >-
       Berlin5454

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In New York In 2023
+title: Top 10 Cosmetics Instagram Influencers In New York In 2024
 description: >-
-  Find top cosmetics Instagram influencers in New York in 2023. Most popular hashtags: #beauty #makeup #cosmetics #fashion.
+  Find top cosmetics Instagram influencers in New York in 2024. Most popular hashtags: #beauty #makeup #skincare #summer.
 platform: Instagram
-hits: 83
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 83 Instagram influencers like this in New York, United States for you to work with.
+hits: 97
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 97 Instagram influencers like this in New York, United States for you to connect with.
 profiles:
   - username: "sdmedicalarts"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck8sxtn7uimdh0j787km4s3wo
     verified: false
     hashtags: "#stayhealthy, #virtualconsultation, #staysafe, #teleconsultation"
-  - username: "celebritydentistry"
-    fullname: >-
-      Celebrity 👄 Dentistry
-    bio: >-
-      🤩 smile care inspo from real dentists
-    location: "United States"
-    followers: 116051
-    engagement: 150
-    commentsToLikes: 0.019337
-    id: ckf5vs2bfpqcw0j23oierzhxe
-    verified: false
-    hashtags: "#transformation, #veneers, #surgery, #dentist"
   - username: "jennylliana"
     fullname: >-
       Jenny Lliana | Beauty Blogger
@@ -42,19 +30,19 @@ profiles:
     commentsToLikes: 0.495001
     id: ck5cbfjgsfbpu0i11uy1xf95w
     verified: false
-    hashtags: "#cosmeticswithacause, #jazminefightsdiabetes, #everydaymakeuproutine, #simplemakeuplook"
-  - username: "leckieroberts"
+    hashtags: "#jazminefightsdiabetes, #everydaymakeuproutine, #udvice, #avoninsider"
+  - username: "dylanperlot"
     fullname: >-
-      LECKIE
+      Dylan Perlot
     bio: >-
-      SERIOUS STYLE FOR UNSERIOUS PEOPLE 📍#NYC
+      Fashion Photographer NYC: Aug 19 - Aug 24 represented by @exclusiveartists contact: matt@eamgmt.com @iamdylanperlot
     location: "United States"
-    followers: 252022
-    engagement: 74
-    commentsToLikes: 0.057164
-    id: ck0ub3253dp120i19qq7ok91s
+    followers: 21812
+    engagement: 137
+    commentsToLikes: 0.101882
+    id: ck0vvww7sr4si0i1987irl39v
     verified: false
-    hashtags: "#westvillage, #charlestonsc, #nyc, #eggfreezing"
+    hashtags: "#magazine, #cover, #modeling, #fashion"
   - username: "areiihairjourney"
     fullname: >-
       Areion✨
@@ -66,7 +54,7 @@ profiles:
     commentsToLikes: 0.029552
     id: ckaow1dd16zfr0i78lttpmvij
     verified: false
-    hashtags: "#naturalhairstyles, #longhairdontcare, #naturalchixs, #kinkycurly"
+    hashtags: "#longhairdontcare, #teamnatural, #respectmyhair, #myhaircrush"
   - username: "manizarrin"
     fullname: >-
       MANI ZARRIN
@@ -79,52 +67,64 @@ profiles:
     id: ck13582tw060k0i19awjivu2k
     verified: false
     hashtags: "#photography, #beauty, #salmon, #art"
-  - username: "mishkaivana"
+  - username: "drchrisgojdz"
     fullname: >-
-      M I S H K A  ʕ•ᴥ•ʔ
+      Krzysztof Gojdź MD, PHD
     bio: >-
-      NYC•LA•MIA Vegan 🌱🇷🇺🇺🇿🧿 MA @dollhousemgmt God and family above all else ✡︎ 💌 collab: mishkaivana1@gmail.com
+      💉Longevity & Aesthetic 🎓Fellowship American Academy of Anti-Aging Med 🎓Board Certified & Faculty AA of Aesthetic Med 📍LA/ Chicago/Miami/NYC
     location: "United States"
-    followers: 31373
-    engagement: 180
-    commentsToLikes: 0.041626
-    id: ck5hpddcqr68v0i11a2gx6vow
-    verified: false
-    hashtags: "#makeup, #nymodel, #veganmodel, #lamodel"
-  - username: "brandonligons"
+    followers: 214277
+    engagement: 82
+    commentsToLikes: 0.046447
+    id: ck8t89jpzjkvj0j78hlmxg5se
+    verified: true
+    hashtags: "#beverlyhills, #reviveclinic, #glowingskin, #drchrisgojdz"
+  - username: "makeupbymcruz"
     fullname: >-
-      Brandon Ligons
+      Mariana Cruz🌙
     bio: >-
-      📍New York, Ny Beauty & Fashion is my VIBE ! Welcome to my World 🌎
+      Latina🇻🇪 New Jersey / New York 📍 Bookings and brands: 📩 info@bymcruz.com
     location: "United States"
-    followers: 15799
-    engagement: 593
-    commentsToLikes: 0.090276
-    id: ck0u0w28sv0re0i19jocdpj0w
+    followers: 81961
+    engagement: 1438
+    commentsToLikes: 0.035245
+    id: ck8tce5koz5ww0j78w4tgeogz
     verified: false
-    hashtags: ""
-  - username: "nadiakazakova"
+    hashtags: "#makeuptransformation, #eyeliner, #makeup, #fashionweek"
+  - username: "skintrovertt"
     fullname: >-
-      Nadia Kazakova | Model
+      🫶🏼Olivia
     bio: >-
-      Model at Q managementinc NYC Direct 🔥Influencer 🏡New York City🏡 🌪Beauty takes me captive Love blinds my soul🌿 #nadiakazakova
+      📍New York State Licensed Esthetician 🧖🏻‍♀️ ✨ Sugar, Spice + Skincare Advice
     location: "United States"
-    followers: 78910
-    engagement: 359
-    commentsToLikes: 0.026374
-    id: ck15qq9z644kc0i19pphvutgu
+    followers: 6887
+    engagement: 385
+    commentsToLikes: 0.156714
+    id: clelodm2n31j60j08yb53envj
     verified: false
-    hashtags: "#blondegirl, #sheisnotlost, #nadiakazakova, #nycmodels"
-  - username: "albertmarashistudio"
+    hashtags: "#crueltyfree, #koreanskincare, #skincare, #antiaging"
+  - username: "elliestarr_makeup"
     fullname: >-
-      Albert Marashi
+      Ellen mcevoy
     bio: >-
-      Creative Director | Photographer I work with some beautiful people. New York 📍 🇺🇸🇦🇱 Fashion Beauty Celebrity
+      📍New York City ✨ Dress it up ™️ makeup content & swatches ✨DM or email me for my rates 💰
     location: "United States"
-    followers: 12212
-    engagement: 619
-    commentsToLikes: 0.071926
-    id: ck5ztb7ck030q0i14pfxvayqu
+    followers: 54405
+    engagement: 176
+    commentsToLikes: 0.067764
+    id: cl3dd0xva5fem0i2340k3bgfj
     verified: false
-    hashtags: "#redhair, #pink, #hair, #beauty"
+    hashtags: "#multichromemakeup, #makeupideas, #instamakeuplovers, #wakeup2slay"
+  - username: "drmarisagarshick"
+    fullname: >-
+      Marisa Garshick MD FAAD
+    bio: >-
+      👩🏻‍⚕️Board Certified Dermatologist 📍NYC and NJ 📚Clinical Assistant Professor at Cornell 🏆New York SuperDoctors 🌟Media Contributor
+    location: "United States"
+    followers: 24105
+    engagement: 63
+    commentsToLikes: 0.140795
+    id: cknw0gm059ik80j23qc4h8k0i
+    verified: false
+    hashtags: "#cleanselikeaderm, #nycderm, #products, #beauty"
 ---

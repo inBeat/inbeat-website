@@ -1,24 +1,12 @@
 ---
-title: Top 10 Architecture TikTok Influencers In Los Angeles In 2023
+title: Top 10 Architecture TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top architecture TikTok influencers in Los Angeles in 2023. Most popular hashtags: #architecture #interiordesign #losangeles #fyp.
+  Find top architecture TikTok influencers in Los Angeles in 2024. Most popular hashtags: #architecture #interiordesign #losangeles #fyp.
 platform: TikTok
 hits: 12
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform has 12 TikTok influencers like this in Los Angeles, United States for you to pitch.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 12 TikTok influencers like this in Los Angeles, United States for you to work with.
 profiles:
-  - username: "realestate.adriana"
-    fullname: >-
-      Realtor ADRIANA
-    bio: >-
-      Save $$ Selling your home w Adriana 💌 hello@realestateadriana.com 📍Los Angeles
-    location: "United States"
-    followers: 5362
-    engagement: 528
-    commentsToLikes: 0.017325
-    id: ckcdsgkladdsw0j233lhfhzam
-    verified: false
-    hashtags: "#realestate, #backyardgoals, #luxuryrealestate, #estate"
   - username: "aarongrushowhomes"
     fullname: >-
       Aaron Grushow
@@ -30,7 +18,7 @@ profiles:
     commentsToLikes: 0.021967
     id: ck80oo2ohiocw0j78mtngppaf
     verified: true
-    hashtags: "#realestate, #house, #architecture, #modern"
+    hashtags: "#pool, #realestate, #mansion, #house"
   - username: "justinfreeling"
     fullname: >-
       Justin Freeling
@@ -67,6 +55,18 @@ profiles:
     id: ck8hk4l3cc9iu0j786flqtz44
     verified: false
     hashtags: "#travel, #california, #photography, #fyp"
+  - username: "realestate.adriana"
+    fullname: >-
+      Realtor ADRIANA
+    bio: >-
+      Save $$ Selling your home w Adriana 💌 hello@realestateadriana.com 📍Los Angeles
+    location: "United States"
+    followers: 5362
+    engagement: 528
+    commentsToLikes: 0.017325
+    id: ckcdsgkladdsw0j233lhfhzam
+    verified: false
+    hashtags: "#homeinterior, #mansiontour, #fyp, #beautifulhomes"
   - username: "designbuildla"
     fullname: >-
       DESIGNBUILDLA
@@ -102,19 +102,19 @@ profiles:
     commentsToLikes: 0.031791
     id: ckcjhqtugceoo0j237jtjk2h3
     verified: false
-    hashtags: "#losangeles, #dog, #vibes, #design"
+    hashtags: "#fashion, #dog, #losangeles, #vibes"
   - username: "ash_briana"
     fullname: >-
       𝓑𝓪𝓫𝓮💓 𝓑
     bio: >-
       Ashley💋♉️💄 ✈️ All travel videos are my experiences 🗺
     location: "United States"
-    followers: 2373
-    engagement: 620
-    commentsToLikes: 0.025284
+    followers: 2402
+    engagement: 624
+    commentsToLikes: 0.021174
     id: ck9jyyv6t6l9e0j7872ouv9io
     verified: false
-    hashtags: "#wanderlust, #italy, #views, #eurotrip"
+    hashtags: "#views, #italy, #travel, #europe"
   - username: "felixsemper"
     fullname: >-
       felixsemper
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.006575
     id: ckb9mfm08fiae0j23ns0kxde7
     verified: false
-    hashtags: "#semperart, #art, #rap, #sculpture"
+    hashtags: "#uk, #music, #esculturas, #semperart"
 ---

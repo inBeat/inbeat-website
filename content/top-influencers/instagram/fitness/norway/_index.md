@@ -1,12 +1,36 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Norway In 2023
+title: Top 10 Fitness Instagram Influencers In Norway In 2024
 description: >-
-  Find top fitness Instagram influencers in Norway in 2023. Most popular hashtags: #fitness #fit #norway #beach.
+  Find top fitness Instagram influencers in Norway in 2024. Most popular hashtags: #fitness #workout #bootybuilding.
 platform: Instagram
-hits: 87
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat has 87 Instagram influencers like this in Norway for you to work with.
+hits: 89
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 89 Instagram influencers like this in Norway for you to work with.
 profiles:
+  - username: "mariataftesund"
+    fullname: >-
+      MARIA TAFTESUND
+    bio: >-
+      🇳🇴 -📍Dubai ▫️Personal trainer and online coach ▫️I help women achieve their fitness goals 🤍 Join my team ⬇️
+    location: "Norway"
+    followers: 416133
+    engagement: 268
+    commentsToLikes: 0.020310
+    id: ck5hn9ucnng290i113x0vrqza
+    verified: false
+    hashtags: ""
+  - username: "omerzuri"
+    fullname: >-
+      TeamZuri by Omer Zuri
+    bio: >-
+      ​ Fitness Studio in TLV 🧘🏼‍♀️🏋🏻‍♀️ ​ Ⓜ️ MyProtein code OMER​ רוצים להתאמן איתי בת״א? בואו לפה ⬇️
+    location: "Norway"
+    followers: 30838
+    engagement: 184
+    commentsToLikes: 0.058456
+    id: ck13cvvwj2f9g0i19fc593ngo
+    verified: false
+    hashtags: "#teamzuri, #teammyp, #healthy, #tastyvideos"
   - username: "sydney_wilsonxoxo"
     fullname: >-
       Sydney Wilson
@@ -19,18 +43,6 @@ profiles:
     id: ckap5dqgmb7qj0i78cyeajkdx
     verified: false
     hashtags: "#lovemyjob, #lovethesegirls, #gratefulheart, #blessedbeyondmeasure"
-  - username: "saranilsen"
-    fullname: >-
-      Sara Benedikte Nilsen 👸🏼
-    bio: >-
-      Founder of @msmissy Fitness|Travel| Ex-politician Tv | Model | Entrepreneur ♡ Norwegian🇳🇴 in 🇪🇸 ♡sarabenedikte@hotmail.com📩
-    location: "Norway"
-    followers: 400035
-    engagement: 179
-    commentsToLikes: 0.024216
-    id: ck5pvrpgyjbjp0i11lwrfwx8u
-    verified: false
-    hashtags: "#ibiza, #uae, #beach, #fitgirl"
   - username: "kamisaaurora"
     fullname: >-
       Kamisa | Glute & Fitness
@@ -91,18 +103,6 @@ profiles:
     id: ck6ui2ry2cq060j7160nfenns
     verified: false
     hashtags: "#teamwit, #wit, #mayhemathlete, #whateverittakes"
-  - username: "rachelsimone320"
-    fullname: >-
-      Rachel Simone
-    bio: >-
-      @fitnessbyrachelsimone Girl Mom 👩‍👧 Personal Trainer, CrossFit Games Athlete 2013, 2014, 2015, 2017
-    location: "Norway"
-    followers: 19257
-    engagement: 165
-    commentsToLikes: 0.036628
-    id: ck0vuvvifmecv0i19ueaej0p4
-    verified: false
-    hashtags: "#tyivy, #babygirl, #fitness, #gymnastics"
   - username: "reganhuckaby"
     fullname: >-
       Regan Huckaby

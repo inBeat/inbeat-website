@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Switzerland in 2023
+title: Top 10 Gaming Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top gaming Instagram influencers in Switzerland in 2023. Most popular hashtags: #gaming #photooftheday #anime #love.
+  Find top gaming Instagram influencers in Switzerland in 2024. Most popular hashtags: #gaming #playstation #game #nintendo.
 platform: Instagram
-hits: 16
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 16 Instagram influencers like this in Switzerland for you to pitch.
+hits: 12
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database has 12 Instagram influencers like this in Switzerland for you to contact.
 profiles:
   - username: "blueberrymilk"
     fullname: >-
       Corinna
     bio: >-
-      Cat whisperer, Leggings Lover, videogame addict. Lost between Switzerland and Japan🐱🌼Posting gaming stuff, travelpics and cats Game-Reviewer@TheGnet🇨🇭
+      Cat whisperer,LeggingsLover, game addict. Lost between Switzerland and Japan🐱🌼Posting gaming stuff, travelpics&cats She/her Game-Reviewer@TheGnet🇨🇭
     location: "Switzerland"
-    followers: 17349
-    engagement: 1275
-    commentsToLikes: 0.023874
+    followers: 19612
+    engagement: 672
+    commentsToLikes: 0.028622
     id: ck15s5noibchl0i195cw4r4r9
     verified: false
-    hashtags: "#gamersofinstagram, #ps4love, #merchfornerds, #coffeeandgames"
-  - username: "pcmr_setup"
-    fullname: >-
-      Gaming is our passion!
-    bio: >-
-      🇨🇭| Swiss 🖥️| Pc builder and tech reviewer 🗓️| Daily #pcbuilds and #gamingsetups 📩| Dm for business and promotion 👉🏼| Follow now 🎯| Goal 100k
-    location: "Switzerland"
-    followers: 53027
-    engagement: 341
-    commentsToLikes: 0.019388
-    id: ck5q4qtpmpyoy0i112k7snw3t
-    verified: false
-    hashtags: "#gamingrig, #gamingpcbuild, #pcgamers, #gamingnation"
+    hashtags: "#farcry, #girlgamer, #ubisoft, #gamingaddict"
   - username: "fastlanegaming"
     fullname: >-
-      Virtual Photography since 2017
+      Virtual Photography 🇩🇴🇨🇭
     bio: >-
-      YT: Fast Lane Gaming (111’000+) Shots & Edits by @fastlaneyordan 🇩🇴 Real Car Pictures @fastlanecaptures Wallpapers Link ⤵️ #FastLaneGaming est. '16
+      #FastLaneGaming est. '16 Shots & Edits by @fastlaneyordan 🇩🇴 YouTube: Fast Lane Gaming (115’000+) Subscribe (LINK)⤵️ Real Pictures @fastlanecaptures
     location: "Switzerland"
-    followers: 85106
-    engagement: 285
-    commentsToLikes: 0.008691
+    followers: 84409
+    engagement: 323
+    commentsToLikes: 0.013240
     id: ck1387bwmeucy0i197kwmo4lt
     verified: false
-    hashtags: "#fastforza, #forzahorizon, #makeforzalookreal, #fasterliving"
-  - username: "vaneziasm"
+    hashtags: "#design, #carxdriftracing, #fastlanegaming, #carxdriftracing2"
+  - username: "lucidbelle"
     fullname: >-
-      Vanessa/Deco-Lifestyle & More
+      ✨Belle✨
     bio: >-
-      26y/ Switzerland 📩vaneziasmpro@gmail.com ART ACCOUNT - @vanezia.art SHOP ⬇️ Endometriose névralgie ( nerfpudendal )🎗🕊 Infografiker-Motiondesigner
+      ✮ International Cosplayer & Judge ✮ Casual/Modeling/dance @softfanserve_ ✮ Craftsmanship @lucid_craftcouture ✮ Netherlands 📍 ⬇️ All my links
     location: "Switzerland"
-    followers: 2903
-    engagement: 2521
-    commentsToLikes: 0.032451
-    id: ck8t82qxliw8p0j78oosbc9io
+    followers: 42036
+    engagement: 227
+    commentsToLikes: 0.032132
+    id: ck5cckhbohj3n0i110tvanvkm
     verified: false
-    hashtags: "#homestaging, #madecoamoi, #swisslifestyleblogger, #animalcrossingnewhorizons"
-  - username: "og.bird"
+    hashtags: "#kofxv, #finalfantasy, #capcom, #streetfighterv"
+  - username: "pcmr_setup"
     fullname: >-
-      bird 🦋
+      Manuel - PCMR_Setup
     bio: >-
-      blue:///error swiss made like rolly 🇨🇭 @chrome.castle 🗝
+      📸 Creating The Best Content For Techbrands 🖥️ PC Builder ✉️ Dm For Inquiries
     location: "Switzerland"
-    followers: 3130
-    engagement: 1542
-    commentsToLikes: 0.049234
-    id: ck0w1dot0iucp0i194q0iu479
+    followers: 52582
+    engagement: 43
+    commentsToLikes: 0.003458
+    id: ck5q4qtpmpyoy0i112k7snw3t
     verified: false
-    hashtags: "#dankmemes, #vaporwaveart, #fanart, #traditionalart"
+    hashtags: "#wallpaper, #gamingpc, #desksituation, #pcgamer"
   - username: "bds_esports"
     fullname: >-
-      BDS_esports
+      Team BDS
     bio: >-
-      Instagram officiel de la structure BDS_esport. Suivez notre histoire ! #BDSPOWER
+      Official Instagram of Team BDS twitter.com/TeamBDS #BDSPOWER
     location: "Switzerland"
-    followers: 15566
-    engagement: 679
-    commentsToLikes: 0.011555
+    followers: 20628
+    engagement: 579
+    commentsToLikes: 0.012403
     id: ck6ud482qj1vd0j71jignw735
     verified: false
-    hashtags: "#rainbowsixsiege, #esport, #rlcsx, #gaming"
-  - username: "al.cosplays"
+    hashtags: "#lfl, #fortnite, #rlcsx, #esport"
+  - username: "the.swiss.gentleman"
     fullname: >-
-      call me al 🃏
+      Marvin Walker | Travel • Lifestyle
     bio: >-
-      🇨🇭swiss cosplayer 🔥i have a blonde character bias ♥️happily taken ✨she/her
+      📍 Switzerland 🇨🇭 | Lucerne 🎩👔 all about fashion & style 🎓 MSc Computer Science 🖤 @thechicadvocate 📩 DM for collaboration 🌐 Blog
     location: "Switzerland"
-    followers: 2765
-    engagement: 2012
-    commentsToLikes: 0.105367
-    id: ck8szi03koiuj0j788zdewun2
+    followers: 14117
+    engagement: 388
+    commentsToLikes: 0.276714
+    id: ck55q4wamc2xt0i118wex5hra
     verified: false
-    hashtags: "#avatarcosplayer, #cosplayphotography, #cosplaygirl, #atlaazula"
-  - username: "amelie_stiefvatter"
+    hashtags: "#classy, #suitup, #classic, #bespoke"
+  - username: "stevemerson"
     fullname: >-
-      AMELIE STIEFVATTER
+      Steve Merson
     bio: >-
-      🐸 Tigerentenclub - ARD / KIKA / SWR 🎥 Freelance Producer / Host 📍BERLIN | SALZBURG 📩 info@schoenhauser-promotion.de
+      Merson Döner Exklusiv im @mitundohne.kebab Tiktok: mersonfood (230K+) Snap: stevemerson1337 Links⤵️
     location: "Switzerland"
-    followers: 11410
-    engagement: 580
-    commentsToLikes: 0.033165
-    id: ck139gq5fl7np0i19yze23szg
+    followers: 200947
+    engagement: 187
+    commentsToLikes: 0.056758
+    id: cloqwry9fhh180j08pivzhg33
     verified: false
-    hashtags: "#happy, #love, #fun, #spass"
-  - username: "miilush"
+    hashtags: "#stevetestet, #foodtesting, #pf, #schweiz"
+  - username: "carinainstyle"
     fullname: >-
-      Emily Cochran
+      Carina Schleußner
     bio: >-
-      ♥️🔒 📍 | CH -🇨🇭🇳🇿 | 🚗 Car enthusiast - Skoda Fabia mk3 🏍 Kawasaki Z650
+      🔆Content Creator & UGC Creator 📍 Thun Switzerland 🖋️Car.ina@gmx.ch
     location: "Switzerland"
-    followers: 2996
-    engagement: 2492
-    commentsToLikes: 0.020797
-    id: ckf5wy5j9tmy20j23qhvnlsb9
+    followers: 22229
+    engagement: 65
+    commentsToLikes: 0.085623
+    id: clilkxapycx990j083gvtqmwh
     verified: false
-    hashtags: "#instastyle, #callofduty, #ride, #riderchicks"
-  - username: "pinkm0on_"
+    hashtags: "#fashion, #loveshein, #sheinpartner, #shein"
+  - username: "anilbrancaleoni"
     fullname: >-
-      𝗣𝗜𝗡𝗞𝗠𝗢𝗢𝗡 ♡ 𝗢𝘁𝗮𝗸𝘂 𝗟𝗶𝗳𝗲𝘀𝘁𝘆𝗹𝗲 🍡
+      Anil B - WaRTeK
     bio: >-
-      | 𝐌𝐚𝐧𝐠𝐚 • 𝐃𝐢𝐬𝐧𝐞𝐲 • 𝐆𝐚𝐦𝐢𝐧𝐠 • 𝐀𝐫𝐭 | 忍道 Nindō 👊 𝗺𝗮𝗸𝗲 𝗶𝗺𝗽𝗼𝘀𝘀𝗶𝗯𝗹𝗲 𝗽𝗼𝘀𝘀𝗶𝗯𝗹𝗲. 🌸 #funkopopcollector ~𝟻𝟹𝟶 💻 creator of geeky content 🙆🏻‍♀️ dose of FUN !
+      From Genève🇨🇭 Owner @ultimogeneva 🍝 📧 contact@wartek.ch
     location: "Switzerland"
-    followers: 2621
-    engagement: 1570
-    commentsToLikes: 0.253193
-    id: ck8tagdylrn420j78ke8brh1j
+    followers: 612779
+    engagement: 55
+    commentsToLikes: 0.010488
+    id: ck14hlxniazcm0i19vsy4vvbn
+    verified: true
+    hashtags: "#switzerland, #collaboration, #eqe, #chips"
+  - username: "sandra__ruberto"
+    fullname: >-
+      Sandra Ruberto
+    bio: >-
+      Sandra | Swiss freelance #artist🇨🇭 Flora & fauna illustrations🌷 My Shop, Website & YouTube in link below👇🏻
+    location: "Switzerland"
+    followers: 25569
+    engagement: 289
+    commentsToLikes: 0.009824
+    id: ck5c4n37n1otb0i11qml3ahlt
     verified: false
-    hashtags: "#geeklife, #geekgirl, #funkopopcollection, #mangafr"
+    hashtags: "#art, #acrylicpainting, #arteza, #illustrationartists"
 ---

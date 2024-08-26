@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Singapore In 2023
+title: Top 10 Architecture Instagram Influencers In Singapore In 2024
 description: >-
-  Find top architecture Instagram influencers in Singapore in 2023. Most popular hashtags: #architecture #singapore #design.
+  Find top architecture Instagram influencers in Singapore in 2024. Most popular hashtags: #architecture #travel #singapore #marinabaysands.
 platform: Instagram
-hits: 10
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 10 Instagram influencers like this in Singapore for you to connect with.
+hits: 15
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 15 Instagram influencers like this in Singapore for you to collaborate.
 profiles:
   - username: "sensorshift"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck6tuqskxhvcq0j71lsg91ber
     verified: false
     hashtags: ""
+  - username: "oksana_domoratskaya"
+    fullname: >-
+      Oksana Domoratskaya
+    bio: >-
+      Mercurian Bunny 🌌👽🖖🏻 Traveling. Dreaming. Overthinking. Based in 📍Singapore 🏙️🌴
+    location: "Singapore"
+    followers: 127746
+    engagement: 52
+    commentsToLikes: 0.040930
+    id: ck0u1ozknxkyg0i19vq7tnq2q
+    verified: false
+    hashtags: "#cityvibes, #thoughts, #singaporeforfoodies, #cityview"
   - username: "momentos_sg"
     fullname: >-
       Miguel Vidal
@@ -79,52 +91,40 @@ profiles:
     id: ck15rqasz95qk0i19z41lpgek
     verified: false
     hashtags: "#marinabaysands, #stayhealthy, #architecture, #singapore"
-  - username: "zippyzipeng"
+  - username: "kanjanii"
     fullname: >-
-      李枳燊
+      ん
     bio: >-
-      +65/+60 🚹 In search of good food & exploring unique spaces Food acc : @zippyfoodtrail zipeng.lee@hotmail.com
+      only here for a minute 🪬 working on @harshitakanjani 📩 for work
     location: "Singapore"
-    followers: 82376
-    engagement: 128
-    commentsToLikes: 0.059396
-    id: ck0twgrbefb200i197vu7r3eu
+    followers: 10678
+    engagement: 501
+    commentsToLikes: 0.042827
+    id: ck6tr8z57xmek0j71jgpndydk
     verified: false
-    hashtags: "#aesthetictones, #singaporeworld, #earthfocus, #singaporecafe"
-  - username: "blackmobil"
+    hashtags: "#fitspo, #trendingreels, #beachbum, #goaaesthetics"
+  - username: "angeliqueteo"
     fullname: >-
-      Leslie Heng
+      Angelique Nicolette Teo
     bio: >-
-      Singapore + Travels 🌐 blackmobil.sg Prints available ⤵️
+      • Presenter on @kiss92fm • Plant Forward 🌱 • Sustainability. Tech. Travel. Wellness. Food. • Email/DM for Bookings.
     location: "Singapore"
-    followers: 61817
-    engagement: 152
-    commentsToLikes: 0.042453
-    id: ck5cgl14mp22o0i115mglugkl
+    followers: 18481
+    engagement: 153
+    commentsToLikes: 0.069228
+    id: ck5hnkcnnnxiw0i11iok283vh
     verified: false
-    hashtags: "#passionmadepossible, #hellofrom, #sgartweek, #arttakesover"
-  - username: "mysquiggles"
+    hashtags: "#jimbaran, #singapore, #travel, #rafflesbali"
+  - username: "wanleng_"
     fullname: >-
-      Alena Kudriashova
+      Evelynn | 罗婉绫｜Content Creator
     bio: >-
-      My sketchbooks, interior design and the life in between 📍Based in Singapore
+      ʙᴇᴀᴜᴛʏ | ғᴀsʜɪᴏɴ | ʟɪғᴇsᴛʏʟᴇ | ᴛʀᴀᴠᴇʟ 📍 🇸🇬 | 🇲🇾 👶🏻 @baby_evantan 📕 小红书: wanleng 📮 wanleng0113@gmail.com
     location: "Singapore"
-    followers: 58295
-    engagement: 166
-    commentsToLikes: 0.017626
-    id: ck13cpb431hzq0i19z9teez1i
+    followers: 32393
+    engagement: 85
+    commentsToLikes: 0.106163
+    id: ck8t6dhkxd7i80j78i54kuvla
     verified: false
-    hashtags: "#singapore, #watercolor, #artbook, #sketchbook"
-  - username: "arsitekturpedia.id"
-    fullname: >-
-      ARSITEKTURPEDIA™
-    bio: >-
-      ©Archief Group • A space to grow into an Architect and Designer • Kontak Bisnis ⬇ 📩 E-mail // arsitekturpedia@gmail.com 📱 Line // @ayk4204x 📮 DM
-    location: "Singapore"
-    followers: 126061
-    engagement: 253
-    commentsToLikes: 0.010286
-    id: ck15rcidw78oz0i19l6urevqa
-    verified: false
-    hashtags: "#infodunia, #arsitektur, #arsitekjakarta, #tokoharsitek"
+    hashtags: "#bali, #travelphotography, #thailand, #sp"
 ---

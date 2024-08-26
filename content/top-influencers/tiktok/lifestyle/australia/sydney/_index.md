@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Sydney In 2023
+title: Top 10 Lifestyle TikTok Influencers In Sydney In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #foryou #viral #foryoupage.
+  Find top lifestyle TikTok influencers in Sydney in 2024. Most popular hashtags: #foryou #fyp #viral #foryoupage.
 platform: TikTok
 hits: 4
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 4 TikTok influencers like this in Sydney, Australia for you to contact.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 4 TikTok influencers like this in Sydney, Australia for you to connect with.
 profiles:
   - username: "overpackedsuitcase"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.048493
     id: cka7o7mp10qyp0i78xk1mluw6
     verified: false
-    hashtags: "#dance, #tune, #tiktok, #foryou"
+    hashtags: "#dance, #fun, #mood, #earphones"
   - username: "lifewithwez"
     fullname: >-
       Wesley Koni
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.032877
     id: ckbf76fbmwvmx0j23kkji392z
     verified: false
-    hashtags: "#onedirection, #fineline, #tpwk, #foryou"
+    hashtags: "#foryou, #fineline, #1d, #onedirection"
   - username: ".almond.lusk"
     fullname: >-
       ✰ almondlusk

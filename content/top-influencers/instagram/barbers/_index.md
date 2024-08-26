@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers Instagram Influencers In 2023
+title: Top 10 Barbers Instagram Influencers In 2024
 description: >-
-  Find top barbers Instagram influencers in 2023. Most popular hashtags: #model #barbershop #modeling.
+  Find top barbers Instagram influencers in 2024. Most popular hashtags: #barber #haircut #tattooart #fashion.
 platform: Instagram
-hits: 3165
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 3165 Instagram influencers like this for you to collaborate.
+hits: 3302
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 3302 Instagram influencers like this for you to connect with.
 profiles:
-  - username: "teoo.amiri"
+  - username: "marcoencre"
     fullname: >-
-      Rahro Co.
+      Marco Pepe
     bio: >-
-      BARBER🇮🇷
+      Hardpainting abstract surreal tattoo @encretattoo Napoli Pro team @barber_dts @eternalink @tatsoul @criticaltattoosupply 📧 marcopepetattoo@gmail.com
+    location: "Italy"
+    followers: 211129
+    engagement: 436
+    commentsToLikes: 0.024850
+    id: ck55pf5w7afge0i11uxw7bhuo
+    verified: false
+    hashtags: "#abstract, #abstracttattoo, #abstractart, #avantgarde"
+  - username: "robtheoriginal"
+    fullname: >-
+      Rob The Original
+    bio: >-
+      📍Los Angeles 💈 @original_barberstudio 🏆 @losangelesbarberfest 🍜 @ezbachi Business inquiries: Robtheoriginalmgmt@gmail.com
     location: "United States"
-    followers: 12804
-    engagement: 1729
-    commentsToLikes: 0.035513
-    id: ck9wia8vx1ef60j78zntdbjns
-    verified: false
-    hashtags: "#iran, #modellife, #fashion, #barbershop"
-  - username: "ultrafadebyrich"
+    followers: 1787407
+    engagement: 512
+    commentsToLikes: 0.036750
+    id: ck0ty8n6vlxff0i19rqli3dz0
+    verified: true
+    hashtags: "#pesopluma, #robtheoriginal, #suedeart, #barber"
+  - username: "nohailchooch"
     fullname: >-
-      Rich | Sydney Hair Educator
+      Nohail Mohammed
     bio: >-
-      ✨ Come for hair, stay for the vibes ✨ 💇‍♂️ Barber @ultrafade.barber 💁‍♀️ Bridal & Events @uf.styles 👇 Bookings via link in bio
-    location: "Australia"
-    followers: 170593
-    engagement: 74
-    commentsToLikes: 0.028003
-    id: ck0vvijippaq70i19e0apk8qu
+      🇵🇰🇺🇬 Acting MGT - @alexpriestleytalent Social MGT - @connectmgt Barber - @nohailchooch.barber TikTok & YouTube - @nohailchooch
+    location: "United Kingdom"
+    followers: 103134
+    engagement: 1124
+    commentsToLikes: 0.012417
+    id: ck8syi5gmkvxp0j78r2wtagik
     verified: false
-    hashtags: "#hairbae, #asianstories, #asianentrepreneur, #ultrafade"
-  - username: "domscirrotto"
+    hashtags: "#barber, #taper, #fashion, #haircut"
+  - username: "mjomba.1"
     fullname: >-
-      Dom Scirrotto
+      MOHAMMED  AL HAJRI
     bio: >-
-      💈 Miranos Barbershop 👻 Snap: dscirrotto08
-    location: "United States"
-    followers: 63881
-    engagement: 1550
-    commentsToLikes: 0.055448
-    id: ck138wi89icx00i19qoia4xe8
+      Actor (🎥) Omani 🇴🇲 Married to @teetaaan 👸♥️ Owner of @mjombas.barber Snapchat: mjomba95 رقم الترخيص: L2104007
+    location: ""
+    followers: 477337
+    engagement: 547
+    commentsToLikes: 0.192406
+    id: ck5c7lv9c7rvc0i114uxnsmtv
     verified: false
-    hashtags: "#explore, #la, #tiktok, #model"
-  - username: "pirayesh_top_cut"
+    hashtags: "#visitdubai, #oman, #swiming, #qatar"
+  - username: "beckham_put7"
     fullname: >-
-      🔱Kianosh solbi🔱
+      Beckham Putra
     bio: >-
-      💈Barber💈🇮🇷 The kites always rise with adverse winds 🌐آموزش خصوصی پذیرفته میشود🌐 🔵جهت رزرو نوبت فقط تماس بگیرید📞 @kianosh_solbi.pv Ayda💍Aymah👶 💙👑taji
-    location: "United States"
-    followers: 3564
-    engagement: 2232
-    commentsToLikes: 0.279678
-    id: ck9wik1cv2lu90j78ifjzv1bn
+      @statuspro_id Professional Football Player | @persib 🔵 | Owner of @7.11_barbershop part of team @ortuseight #ToInfinityAndBeyond
+    location: "Indonesia"
+    followers: 1039901
+    engagement: 725
+    commentsToLikes: 0.023837
+    id: ck8tbttugx4660j78aqy1m7xn
     verified: false
-    hashtags: "#barber, #mod, #barberworld, #barberlife"
-  - username: "samuelcarvalho_0"
+    hashtags: "#mygiveltalistory, #teamortuseight, #giveltall, #giveitall"
+  - username: "jaroslav_olah_official"
     fullname: >-
-      Samuel Carvalho
+      Jaroslav Olah
     bio: >-
-      BA ✈️ SP📍 Barber: @barbersmc 💈 Cacheado | LifeStyle | Hairstylist
-    location: "Brazil"
-    followers: 30460
-    engagement: 1355
-    commentsToLikes: 0.055735
-    id: ck15ra0qg6w9j0i19893dwxy7
-    verified: false
-    hashtags: "#123sentandochallenge, #tbt"
-  - username: "mani.rad46"
-    fullname: >-
-      ⚜️مانی راد⚜️
-    bio: >-
-      👑٬٬﮼مادرم‌تمام‌زندگیم 👑 📸 modeling.....👔📸 (تبلیغات دایرکت) @barber_mani_rad
-    location: "Iran"
-    followers: 11004
-    engagement: 3457
-    commentsToLikes: 0.076058
-    id: ck0vxlyrmzkg90i19yvuojggd
-    verified: false
-    hashtags: "#model, #modeling, #sport, #fitness"
-  - username: "bodiabarber"
-    fullname: >-
-      Bogdan Kovch
-    bio: >-
-      𝕭🅚 LVIV •International educator •TOP barber 🇺🇦 ➖EDUCATION ➖ YouTube 👇👇
-    location: "United States"
-    followers: 66945
-    engagement: 455
-    commentsToLikes: 0.068249
-    id: ck5cl4m19y8k80i1161gk8f4r
+      Singer🎵🎤 Booking : Jaraolah22@gmail.com Barber 💈
+    location: ""
+    followers: 48725
+    engagement: 991
+    commentsToLikes: 0.012735
+    id: ckap77hj0iyc40i78neq8pyvw
     verified: false
     hashtags: ""
-  - username: "barber_gach"
+  - username: "queen_rockabilly"
     fullname: >-
-      barbergach
+      Winnipeg Barber 🇨🇦
     bio: >-
-      💈💈💈✂️✂️✂️✂️ barber gach✂️✂️✂️✂️💈💈💈 •آدرس: پانصد دستگاه سمت راست ايستگاه آخرحد فاصل شهرك خليج فارس
-    location: "Iran"
-    followers: 30477
-    engagement: 544
-    commentsToLikes: 0.145026
-    id: ck9whv2k2zlun0j78w4vonkf2
+      barber at @goodfortunebarbers YouTube channel ⤵️
+    location: "United States"
+    followers: 59186
+    engagement: 736
+    commentsToLikes: 0.013396
+    id: ck5hcemjmho5v0i11kbnp8m76
     verified: false
-    hashtags: "#modeling, #guyshair, #tehran, #newstyle"
-  - username: "nima.picasoo"
+    hashtags: "#hairdresser, #barberworld, #barbershopconnect, #videotutorial"
+  - username: "matsy__"
     fullname: >-
-      nima.picasoo
+      Matthew Larkin
     bio: >-
-      ☆Number one☆ •barber ▪mashhad ▪Mens hair stylist ✂ ▪journalist 👔 ▪Make-up artist 🎨 ▪address mashhad hashemie 3 tell 09358810481
-    location: "Iran"
-    followers: 8088
-    engagement: 1025
-    commentsToLikes: 0.081132
-    id: ck9wi406p0n9c0j78d060cnqw
+      🇮🇪Irish tattoo artist @legendarytattoostudio ▪️ @barber_dts ▪️ @eternalink ▪️ @tatsoul ▪️ @yayofamilia ▪️ @criticaltattoosupply
+    location: "United States"
+    followers: 103671
+    engagement: 1337
+    commentsToLikes: 0.030925
+    id: ck0vy4we229750i197orfl6xw
     verified: false
-    hashtags: "#barber, #boy, #photography, #iran"
-  - username: "gl3isi"
+    hashtags: "#chestpiece, #besttattoos, #videogametattoo, #tattoo"
+  - username: "erickgomezz1"
     fullname: >-
-      𝕲𝖑𝖊𝖎𝖘𝖎 𝕬𝖗𝖆𝖚𝖏𝖔
+      ERICK GOMEZ 🇺🇾
     bio: >-
-      sbc - sp / 24y 🏳️‍🌈 parcerias via: direct 📥 seja seu próprio padrão leonina ♌ Beyhive 🐝 @gl3isi_barber💈
-    location: "Brazil"
-    followers: 38901
-    engagement: 1562
-    commentsToLikes: 0.036107
-    id: ck8t0vrvvtic00j78dhv5q2n8
+      • Madrid • Para Agendar cita de Corte link abajo 👇🏻 • Now in @ballin.barbershop 🇺🇾🇺🇸🇪🇸🇧🇷🇵🇹🇵🇪🇦🇷🇵🇾🇪🇨🇨🇴🇫🇷🇲🇽
+    location: "Spain"
+    followers: 100988
+    engagement: 389
+    commentsToLikes: 0.025246
+    id: ck13d9l714clo0i19gwo93mv6
     verified: false
-    hashtags: ""
+    hashtags: "#fade, #style, #color, #fresh"
+  - username: "_nicolerenae"
+    fullname: >-
+      𝒩𝒾𝒸𝑜𝓁𝑒 𝑅𝑒𝓃𝒶𝑒💈 ✪
+    bio: >-
+      •Owner of @ascensiondynasty 💙💛 •Arizona Barber💈 •@Babyliss4Barbers Educator✈️🌍 •@nopalinda_ Co-Owner🌱 APPT ONLY ⬇️
+    location: "United States"
+    followers: 164181
+    engagement: 348
+    commentsToLikes: 0.038217
+    id: ck5zt8twfzyew0i1401rrajh0
+    verified: false
+    hashtags: "#tucsonbarber, #arizona, #barberology, #tucsonbarbers"
 ---

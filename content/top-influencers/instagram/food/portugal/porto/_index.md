@@ -1,48 +1,84 @@
 ---
-title: Top 10 Food Instagram Influencers In Porto In 2023
+title: Top 10 Food Instagram Influencers In Porto In 2024
 description: >-
-  Find top food Instagram influencers in Porto in 2023. Most popular hashtags: #fashion #food #foodie #fashionblogger.
+  Find top food Instagram influencers in Porto in 2024. Most popular hashtags: #food #portugal #beach #lisboa.
 platform: Instagram
-hits: 4
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database holds 4 Instagram influencers like this in Porto, Portugal for you to work with.
+hits: 12
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 12 Instagram influencers like this in Porto, Portugal for you to contact.
 profiles:
-  - username: "joanavaz_"
-    fullname: >-
-      JOANA VAZ
-    bio: >-
-      • Portuguese • Arch • Blogger • 📍 Porto 📩 info@joanavaz.pt SHOP MY SUNGLASSES COLLECTION HERE 👇
-    location: "Portugal"
-    followers: 351000
-    engagement: 411
-    commentsToLikes: 0.011860
-    id: ck0vvzzinrhpl0i19s7rkfmrz
-    verified: true
-    hashtags: "#positano, #fashionstyle, #summer, #travel"
   - username: "joanacbcosta"
     fullname: >-
       Joana Costa
     bio: >-
-      lifestyle, fashion and travel 16/10📍 Porto ➝ if you stand for nothing you'll fall for anything 🐘 ➝ collabs via e-mail or dm LAST VIDEO HERE 👇🏽❤️
+      lipedema reels | lifestyle | fashion and travel 16/10📍Porto ➝ collabs via e-mail or dm all social media and links here👇🏽
     location: "Portugal"
-    followers: 61870
-    engagement: 353
-    commentsToLikes: 0.539473
+    followers: 88261
+    engagement: 326
+    commentsToLikes: 0.477324
     id: ckap6c2m9f9gv0i786k2ulw9p
     verified: false
-    hashtags: "#falloutfit, #fashion, #outono, #casuallook"
-  - username: "alicefcnunes"
+    hashtags: "#lipoedemaawareness, #lipedemaawareness, #lipedemaportugal, #lipedemasurgery"
+  - username: "andrechaica"
     fullname: >-
-      Alice Nunes ✨
+      André Chaíça . Lisboa
     bio: >-
-      💄Fashion Enthusiast from Porto 🎓 Social Education Student ✉️ Brands: alicenunes_123@hotmail.com
+      Travel, food & lifestyle Content creator, ugc & social media manager All my reels secrets 👇🏻
     location: "Portugal"
-    followers: 7231
-    engagement: 604
-    commentsToLikes: 0.081193
-    id: ck9hc85qyk6z00j78p5eawpc1
+    followers: 372356
+    engagement: 200
+    commentsToLikes: 0.037055
+    id: ck0vz4vq97bht0i19ygdgfeoq
     verified: false
-    hashtags: "#portuguesegirl, #porto, #portugal, #igers"
+    hashtags: "#spring, #lisbon, #portugallovers, #amarlisboa"
+  - username: "pinkieloveforever"
+    fullname: >-
+      Inês Silva | Lifestyle & Travel
+    bio: >-
+      📍Porto, Portugal 📎 Master Designer & Pro Makeup Artist 📸 Lifestyle • Travel • Beauty • Food • Fashion Encontra-me Aqui👇🏻
+    location: "Portugal"
+    followers: 19074
+    engagement: 29
+    commentsToLikes: 0.000000
+    id: ck0w4205xweo30i19lqchjlwe
+    verified: false
+    hashtags: "#tophamburgueria, #viajar, #adulting, #blogdebeleza"
+  - username: "raqueldias____"
+    fullname: >-
+      Raquel Dias
+    bio: >-
+      • Mum • Content Creator • Marketing Director of @bateye group 📍Porto, Portugal 📩 raquel.dias.mkt@gmail.com
+    location: "Portugal"
+    followers: 44586
+    engagement: 18
+    commentsToLikes: 0.000000
+    id: ck6twyn83uuoh0j71rn7lcyn1
+    verified: false
+    hashtags: "#love, #france, #ootd, #spring"
+  - username: "chefkikomartins"
+    fullname: >-
+      Chef Kiko Martins
+    bio: >-
+      👨‍🍳 Sharing World Cuisine 🍽️ Influencing about Sustainability and Food Waste ✈️ Traveller hunting for food experiences Follow me to get connected 👇
+    location: "Portugal"
+    followers: 141140
+    engagement: 74
+    commentsToLikes: 0.027274
+    id: ck0ubk81femq80i19gad1g9mx
+    verified: false
+    hashtags: "#chefkiko, #acevicheria, #cafenacarta, #nespresso"
+  - username: "ritasdcarvalho"
+    fullname: >-
+      Rita Carvalho
+    bio: >-
+      📍Lisbon, Portugal ✈️ Travel & 🥂 Food Enthusiast
+    location: "Portugal"
+    followers: 8537
+    engagement: 145
+    commentsToLikes: 0.022296
+    id: ckaosdu6er7ve0i782g0milzt
+    verified: false
+    hashtags: "#turismo, #natureza, #viajare, #mochilando"
   - username: "lindsaydcst"
     fullname: >-
       Lindsay Da Costa
@@ -54,77 +90,41 @@ profiles:
     commentsToLikes: 0.041959
     id: ckap9t0mgtjb50i78b1t0xl9h
     verified: false
-    hashtags: "#crossfitfrance, #qntsportnutrition, #summervibes, #crossfitbelgium"
-  - username: "tothepointenutrition"
+    hashtags: "#nutrition, #abdos, #beachlife, #nutritionsportive"
+  - username: "hugomigstos"
     fullname: >-
-      Dance Nutritionist Rachel Fine
+      Hugo 🦦
     bio: >-
-      Nutrition for dancers🩰 🙋🏻‍♀️ Dietitian & dancer 🍎Food + Body confidence @dance_masterclass Q+A @pointemagazineofficial 👇🏼Become The Healthy Dancer®
+      
     location: "Portugal"
-    followers: 37160
-    engagement: 204
-    commentsToLikes: 0.012168
-    id: ck6tkfn344lx00j714kteow87
+    followers: 5998
+    engagement: 1351
+    commentsToLikes: 0.008249
+    id: ckf5m4640s63x0j23ynrpnn2h
     verified: false
-    hashtags: "#balletdancers, #nutritionfordancers, #dancecompetition, #yagp"
-  - username: "rafaelaalexandra0"
+    hashtags: "#allinshooters, #porto, #stylish, #gayboy"
+  - username: "diogorcarrilho"
     fullname: >-
-      Rafaela Duarte | Healthy 💫
+      DIOGO CARRILHO
     bio: >-
-      🌱 wellness | food | lifestyle 📖 Marketing e Publicidade 📍 Lisboa, Portugal 😋 PROZIS: RAFAELADUARTE 💻 @ellephant.pt 💫YouTube
+      💻Designer, photographer and traveler!🌴 📍lisbon, Portugal
     location: "Portugal"
-    followers: 55768
-    engagement: 522
-    commentsToLikes: 0.029931
-    id: ckapbzw1a1xic0i78r1nx98i6
+    followers: 13373
+    engagement: 590
+    commentsToLikes: 0.014130
+    id: ck8t6cxj8d5870j78q2eg4tc7
     verified: false
-    hashtags: "#healthychoices, #veganfood, #eathealthy, #healthylifestyle"
-  - username: "sea3p0"
+    hashtags: "#food, #digsaroundtheworld, #costaalentejana, #colors"
+  - username: "im.susanasilva"
     fullname: >-
-      s e a
+      SUSANA SILVA
     bio: >-
-      I just really like anime and food🤤💖 📧 @notable.pt 👇👼🏼YOUTUBE👼🏼👇
+      lifestyle | gym | routine oporto, pt contact.susanasilva@gmail.com 📩
     location: "Portugal"
-    followers: 376974
-    engagement: 301
-    commentsToLikes: 0.008954
-    id: ck8t2x3uu110h0j78fihlmp31
-    verified: true
-    hashtags: "#parceria"
-  - username: "claudiadias.oficial"
-    fullname: >-
-      𝙲𝚕𝚊𝚞𝚍𝚒𝚊 𝙳𝚒𝚊𝚜
-    bio: >-
-      💃🏽25| Lifestyle| Dancer | food lover Represented by @milenar_influence_media 💌claudia.dias@milenarmedia.pt 🎥Youtube Channel:Claudia Dias
-    location: "Portugal"
-    followers: 42189
-    engagement: 772
-    commentsToLikes: 0.005703
-    id: ck13bn882w8ri0i19lsl0rjse
+    followers: 44537
+    engagement: 430
+    commentsToLikes: 0.026338
+    id: ckaovkl9a4ys60i787iawknf3
     verified: false
-    hashtags: "#day3, #cookingwithclaudia, #pub, #ograndegorrinho"
-  - username: "gabriellaspbrooks"
-    fullname: >-
-      Gabriella Brooks
-    bio: >-
-      🇦🇺🇵🇹🇧🇪 Foodie @nxt.management Brands & Digital: lara@next.pt
-    location: "Portugal"
-    followers: 10344
-    engagement: 362
-    commentsToLikes: 0.046466
-    id: ck5c38a9hys8a0i11wx17zhik
-    verified: false
-    hashtags: "#dessertbae, #foodie, #hungrylittlemuffin, #stayathome"
-  - username: "golden.nico"
-    fullname: >-
-      𝓝𝓲𝓬𝓸𝓵𝓵𝓮  𝓣𝓪𝓫𝓮𝓻𝓪
-    bio: >-
-      Foodie and everything in between 😛 Fashion and Makeup lover 💄💋 Graphic designer 👩‍🎨 Spanish • English • Portuguese.
-    location: "Portugal"
-    followers: 14070
-    engagement: 291
-    commentsToLikes: 0.028862
-    id: ck6ucvcowhold0j71e8oo86f3
-    verified: false
-    hashtags: "#reels, #lookyanbal, #yanbal, #makeup"
+    hashtags: "#zaraoutfit, #zara, #ootdshare, #fashionblogger"
 ---

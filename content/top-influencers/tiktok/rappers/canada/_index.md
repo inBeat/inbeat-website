@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Canada In 2023
+title: Top 10 Rappers TikTok Influencers In Canada In 2024
 description: >-
-  Find top rappers TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryou #foryoupage #rapper.
+  Find top rappers TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #foryou #foryoupage #rapper.
 platform: TikTok
 hits: 55
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our database aggregates 55 TikTok influencers like this in Canada for you to pitch.
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 55 TikTok influencers like this in Canada for you to connect with.
 profiles:
   - username: "ogr_scintilla"
     fullname: >-
@@ -71,14 +71,14 @@ profiles:
     fullname: >-
       Joseph Fuoco
     bio: >-
-      🇨🇦/🇮🇹 17 Toronto
+      🇨🇦/🇮🇹 18 Toronto
     location: "Canada"
-    followers: 37900
-    engagement: 1531
-    commentsToLikes: 0.070602
+    followers: 37800
+    engagement: 1523
+    commentsToLikes: 0.068163
     id: cka0omybb4ne70i78b3m8h10g
     verified: false
-    hashtags: "#hiphop, #flightreacts, #rap, #artist"
+    hashtags: "#topsongs, #rappers, #travisscott, #rapper"
   - username: "kblitztiktok"
     fullname: >-
       KBlitzMusic
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.233542
     id: ck9818ocmasir0j78npxmtz08
     verified: false
-    hashtags: "#wow, #fun, #funny, #fr"
+    hashtags: "#funny, #toxic, #rapper, #practice"
   - username: "lil.pz"
     fullname: >-
       Lil.pz
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.056807
     id: ck9m0ywc0cj4v0j78kflxq8di
     verified: false
-    hashtags: "#foryoupage, #rappers, #twist, #dreads"
+    hashtags: "#curls, #rappers, #twist, #dreads"
   - username: "_double_a_ron_"
     fullname: >-
       Double A-Ron

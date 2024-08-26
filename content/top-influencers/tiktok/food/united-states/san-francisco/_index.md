@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In San Francisco In 2023
+title: Top 10 Food TikTok Influencers In San Francisco In 2024
 description: >-
-  Find top food TikTok influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #food #bayarea #fyp.
+  Find top food TikTok influencers in San Francisco in 2024. Most popular hashtags: #sanfrancisco #fyp #food #foryou.
 platform: TikTok
-hits: 33
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our database has 33 TikTok influencers like this in San Francisco, United States for you to collaborate.
+hits: 35
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 35 TikTok influencers like this in San Francisco, United States for you to collaborate.
 profiles:
   - username: "antmirrr"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.031815
     id: ckd6evi5r6jvm0j230rrgy6m3
     verified: false
-    hashtags: "#sanfrancisco, #quickrecipe, #noodles, #foodinfluencer"
+    hashtags: "#howto, #instaworthy, #lasvegas, #easyrecipe"
   - username: "ven.ny"
     fullname: >-
       Venny G
@@ -67,18 +67,6 @@ profiles:
     id: ckb9b3fp7wo5f0j23c46dvf1n
     verified: false
     hashtags: "#welcome2021, #baking, #sanfrancisco, #foodie"
-  - username: "fitchefmike"
-    fullname: >-
-      Chef Mike
-    bio: >-
-      Cook & Eat Like Mike ChopstickGang 🥢🔥 CEO of Everybody Eats
-    location: "United States"
-    followers: 27400
-    engagement: 731
-    commentsToLikes: 0.037331
-    id: ckdt434znspap0j23aiq9boxr
-    verified: false
-    hashtags: "#fries, #beef, #meat, #wagyu"
   - username: "joeyymontoya"
     fullname: >-
       Joey Montoya
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.059305
     id: ck9ackw4utajh0j78pooe18fx
     verified: false
-    hashtags: "#duet, #fyp, #foryoupage, #birds"
+    hashtags: "#fyp, #duet, #foryoupage, #camera"
   - username: "millie.lai"
     fullname: >-
       MILLIE ⌇CA FOOD & TRAVEL
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.048694
     id: ckbqey2pl0rcm0j238q23d7k7
     verified: false
-    hashtags: "#vietnamesefoods, #whattoorder, #asianfood, #eats"
+    hashtags: "#vietnamesefoods, #vietnamesecuisine, #vietfood, #whattoorder"
+  - username: "beaucoffron"
+    fullname: >-
+      Beau Coffron
+    bio: >-
+      Just a dad having fun! @lunchboxdad is my fun food art profile!
+    location: "United States"
+    followers: 6495
+    engagement: 549
+    commentsToLikes: 0.046428
+    id: ck8hk46b5c64f0j78djew3ds3
+    verified: false
+    hashtags: "#holidaycountdown, #halloween, #fyp, #prank"
 ---

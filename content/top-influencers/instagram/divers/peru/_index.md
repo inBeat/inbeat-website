@@ -1,24 +1,60 @@
 ---
-title: Top 10 Divers Instagram Influencers In Peru In 2023
+title: Top 10 Divers Instagram Influencers In Peru In 2024
 description: >-
-  Find top divers Instagram influencers in Peru in 2023. Most popular hashtags: #humor #comedia #love #amor.
+  Find top divers Instagram influencers in Peru in 2024. Most popular hashtags: #comedia #musica #humor.
 platform: Instagram
-hits: 20
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 20 Instagram influencers like this in Peru for you to pitch.
+hits: 22
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database holds 22 Instagram influencers like this in Peru for you to contact.
 profiles:
-  - username: "fran_meric"
+  - username: "sofiacajo"
     fullname: >-
-      Fran Meric
+      Sofia Cajo
     bio: >-
-      💥Actriz Conductora Cantante💥 Life coach, Terapeuta holistica y Speaker💥 MAMÁ💥 Mi canal de YouTube: Creadores de Luz! Manager: @gabrielblancoi
+      Scuba Diver🧜🏽‍♀️ 📩sofia.cajo.3@hotmail.com 🆘 @fundacionprisa 💻@sojhaaccesorios 👑 @misseuropecontinentalofficial International 2022 - Perú
     location: "Peru"
-    followers: 284649
-    engagement: 136
-    commentsToLikes: 0.050404
-    id: ck5byvg7gpxcx0i11et5akpub
-    verified: true
-    hashtags: "#sanacion, #energia, #espiritualidad, #productosholisticos"
+    followers: 33068
+    engagement: 116
+    commentsToLikes: 0.051665
+    id: ck8szk24noqwm0j780bcd07tz
+    verified: false
+    hashtags: "#adopta, #dog, #fotodeperros, #publicidad"
+  - username: "paulatentacion24"
+    fullname: >-
+      Paula Arias
+    bio: >-
+      Mi vida entera mis hijos Thiago,Brianna y Flavia 🥰 . Mi pasión sueños y metas @son.tentacion 🔥. Auténtica amor y fuego ❤️‍🔥 Estreno Mundial ⬇️⬇️⬇️
+    location: "Peru"
+    followers: 947661
+    engagement: 103
+    commentsToLikes: 0.010665
+    id: ck5zufdyi29bn0i14krkyxr47
+    verified: false
+    hashtags: "#diversion, #paseo, #vida, #extensions"
+  - username: "stephie_jacobs"
+    fullname: >-
+      Stephie Jacobs
+    bio: >-
+      Actriz y Animadora Mamá de Tiziano y Santino Shows: @lfdiversion
+    location: "Peru"
+    followers: 157440
+    engagement: 97
+    commentsToLikes: 0.075713
+    id: ck5qbksrbm2tr0i11btug012d
+    verified: false
+    hashtags: "#diviervete, #cajaproject, #aprendeconnosotros, #pistasdeblueyt"
+  - username: "pulpolazona"
+    fullname: >-
+      Paul Marchena
+    bio: >-
+      Locutor @radiolazona Escúchame de L - V 9am Viviendo en GRANDE🌟 Repartiendo buena vibra🔥
+    location: "Peru"
+    followers: 59893
+    engagement: 33
+    commentsToLikes: 0.120756
+    id: ck5bysmqdprhv0i11pg5lnzi5
+    verified: false
+    hashtags: "#navidad, #parejas, #comedia, #trending"
   - username: "sebastiancuenca"
     fullname: >-
       Marketing Digital y Empresas
@@ -31,18 +67,6 @@ profiles:
     id: ck9wf4lncn6cu0j78w6v04p62
     verified: false
     hashtags: "#ecommerce, #diversidad, #influencers, #limatechpodcast"
-  - username: "duiliovr"
-    fullname: >-
-      ᗪᑌIᒪIO
-    bio: >-
-      Mr. International Perú 🇵🇪 2018, Embajador: @yadealatinoamerica 🏍 ♻️ Contratos: duiliovr92@gmail.com #mediambiente #tenisplayer #modelo #entrepeneur
-    location: "Peru"
-    followers: 269477
-    engagement: 112
-    commentsToLikes: 0.017060
-    id: ckap0k020qn130i787zp90lr0
-    verified: true
-    hashtags: "#vamosquesepuede, #estilodevida, #logros, #so"
   - username: "martincaligaris"
     fullname: >-
       Martin Caligaris
@@ -55,18 +79,6 @@ profiles:
     id: ck5qcxh66st0s0i11nd1u6loh
     verified: true
     hashtags: "#caligaris, #recital, #loscaligaris, #todovuelveacomenzar"
-  - username: "connie_chaparro"
-    fullname: >-
-      ℂ𝕠𝕟𝕟𝕚𝕖 ℂ𝕙𝕒𝕡𝕒𝕣𝕣𝕠
-    bio: >-
-      𝐀𝐜𝐭𝐫𝐢𝐳 & 𝐌𝐚𝐦𝐚́ | 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 | 𝐑𝐚𝐝𝐢𝐨 𝐇𝐨𝐬𝐭 ✨ Tiktok | Youtube | Twitter Connie_Chaparro 💌 23.constanza@gmail.com
-    location: "Peru"
-    followers: 937529
-    engagement: 52
-    commentsToLikes: 0.022059
-    id: ck5bwfh7zllo00i11n49z6t5i
-    verified: true
-    hashtags: "#humor, #familia, #mama, #amorpuro"
   - username: "kainospr"
     fullname: >-
       KAINOS | 1ST IS GOD
@@ -103,28 +115,16 @@ profiles:
     id: ck8sy3t78jn7p0j78hqa8m9lx
     verified: false
     hashtags: "#om, #sihayamornohaymiedo, #transisbeautiful, #ser"
-  - username: "tejedaperu"
-    fullname: >-
-      Gladys Tejeda
-    bio: >-
-      Atleta 🇵🇪 Diners Club | Toyota | Nike | @inyogo 🥇Juegos Panamericanos Lima2019 🎖Record Panamericano 42k 🎖Récord Sudamericano 21k
-    location: "Peru"
-    followers: 57266
-    engagement: 483
-    commentsToLikes: 0.020521
-    id: ck6u90wnnuu6p0j71gvpnktri
-    verified: false
-    hashtags: "#publicidad, #teamtoyota, #yomequedoencasa, #startyourimpossible"
   - username: "piccoloclemente_oficial"
     fullname: >-
       Piccolo Clemente Rothfuss
     bio: >-
-      Pro Surfer – Longboard 🇵🇪 Diners Club | Reebok | Repalsa | @inyogo 🏆Campeón Mundial x3 🏆Campeón Sudamericano x4 🥇Panamericanos Lima 2019
+      Pro Surfer–Longboard 🇵🇪 Diners Club | Reebok | Maxus | Repalsa | Sunkella | ION | @inyogo 🏆C. Mundial x3 🏆C. Sudamericano x5 🥇JJ.PP. Lima19 🗣️Speaker
     location: "Peru"
-    followers: 54839
-    engagement: 885
-    commentsToLikes: 0.029332
+    followers: 54880
+    engagement: 286
+    commentsToLikes: 0.031087
     id: ck6u90x1yuu960j71hgok62es
     verified: true
-    hashtags: "#repalsatrujillo, #trujilloperu, #marineranorten"
+    hashtags: "#modosostenible, #togetherbelong, #modoper, #vamospormas"
 ---

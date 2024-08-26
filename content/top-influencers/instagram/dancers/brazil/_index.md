@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Brazil In 2023
+title: Top 10 Dancers Instagram Influencers In Brazil In 2024
 description: >-
-  Find top dancers Instagram influencers in Brazil in 2023. Most popular hashtags: #dance #explorar #reels.
+  Find top dancers Instagram influencers in Brazil in 2024. Most popular hashtags: #dance #reels #viral.
 platform: Instagram
-hits: 608
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 608 Instagram influencers like this in Brazil for you to contact.
+hits: 626
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 626 Instagram influencers like this in Brazil for you to work with.
 profiles:
   - username: "rogeroes"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck5chjbycqvro0i111lz43hvr
     verified: false
     hashtags: ""
-  - username: "orricodan"
+  - username: "rafa_finn"
     fullname: >-
-      DARLAN ORRICO
+      Rafael | Influencer
     bio: >-
-      Dancer • Coreographer • Model Tec em Dança • FUNCEB (DRT) Bahia 🇧🇷 Sou como a haste fina, que qualquer brisa verga, mas nenhuma espada corta.
+      TikTok: rafahoney 1.8 M Kpop • Anime • Lifestyle • LGBT+ Dancer - @redsun.dt
     location: "Brazil"
-    followers: 19443
-    engagement: 7488
-    commentsToLikes: 0.123524
-    id: ck5c05idbshhr0i111j3xherx
+    followers: 347576
+    engagement: 496
+    commentsToLikes: 0.016485
+    id: ck9hcsduhms2a0j78fnv8l4ma
     verified: false
-    hashtags: "#beyonce, #desprezivelchallenge, #dance, #challengedaari"
-  - username: "caro.lina.gil"
+    hashtags: "#lgbtqia, #straykids, #dancecover, #kpopdancecover"
+  - username: "cabrittu"
     fullname: >-
-      Cäro
+      Camila Britto
     bio: >-
-      ☼ Happy just because ⇢ Professional dancer & Teacher ✯ Pilates Instructor • Lisbon
+      🇧🇷 creator | dancer | model @deptcult 👊🏼 sp 📍
     location: "Brazil"
-    followers: 8738
-    engagement: 1589
-    commentsToLikes: 0.083574
-    id: ck0u0x6rzv5ow0i19vvpq2udd
+    followers: 64636
+    engagement: 342
+    commentsToLikes: 0.071896
+    id: ck6tu2h1ddxfs0j714xra25lq
     verified: false
-    hashtags: "#cancerfighter, #diary, #love, #breathe"
-  - username: "victor.goesx"
+    hashtags: "#reelsinstagram, #viralvideos, #bregafunk, #dance"
+  - username: "thaygoncalvesn"
     fullname: >-
-      PRINCIPE DO BREGAFUNK🕺🏼👑
+      THAY GONÇALVES
     bio: >-
-      Parcerias e publicidade : @centralvictorgoesx Dancer influencer 🕺🏼 conteúdos +18
+      ❤️‍🔥 Brincando com Fogo 2 @netflixbrasil Dancer | Model Assessoria: comercial@mmestrategiadeimagem.com.br
     location: "Brazil"
-    followers: 57219
-    engagement: 780
-    commentsToLikes: 0.052208
-    id: ck9wh30ziw0rl0j78b43ucums
+    followers: 106205
+    engagement: 311
+    commentsToLikes: 0.043925
+    id: ck8t5dq6o9sb80j7896qqbr15
     verified: false
-    hashtags: "#casal, #tiktok, #humor"
-  - username: "eduardo.ofcl_"
+    hashtags: "#humor, #sp, #casal, #meme"
+  - username: "maycabrasil"
     fullname: >-
-      Eduardo 🔥
+      Mayca Delduque
     bio: >-
-      Felipe Guerra-RN🌎 Dancer: @heullinhooficial1 ⬇️Link Do Canal da banda⬇️
+      💎 Tik Tok: +14,1 milhões | YouTube: +6,3 milhões 📧 maydelduque@gmail.com 💍 @apollosant 💃🏼 Dancer ❤️‍🔥 Conta reserva: @maycabrasilof
     location: "Brazil"
-    followers: 16101
-    engagement: 1236
-    commentsToLikes: 0.149215
-    id: ck9wh4p0lw8i10j7847tsrg1q
+    followers: 1676050
+    engagement: 227
+    commentsToLikes: 0.012252
+    id: ck5zkrlblk1bm0i14jtunniv2
     verified: false
-    hashtags: "#reelsvideo, #bregabregoso, #bregafunkchallenge, #reelsinstagram"
-  - username: "tamysilva.ofc"
+    hashtags: "#gratidao, #viral, #entretenimento, #trend"
+  - username: "ingridsilva"
     fullname: >-
-      Tamy 🌸
+      Ingrid Silva
     bio: >-
-      Parcerias via direct 📱 Proprietaria @macarraodatamy 🍝 Proprietária @studiobelezaft Maquiadora 💋💄 Dancer 👯‍♀️ Assistam os story 🤳🏼🌸❤️ Aracaju ✨
+      Ballerina, Author of ‘A sapatilha que mudou meu mundo.’ Founder @podher @blacksinballet @dancersandmotherhood Mom of Laura & @fridakahlothefrenchie
     location: "Brazil"
-    followers: 66159
-    engagement: 566
-    commentsToLikes: 0.943471
-    id: ck6u7yb1hodvd0j71fo0e39qw
-    verified: false
-    hashtags: "#cinelandia, #foto, #mar, #feed"
-  - username: "leonorfilipaa"
+    followers: 525882
+    engagement: 156
+    commentsToLikes: 0.015713
+    id: ck0u0i8fetsul0i1928g5t8s3
+    verified: true
+    hashtags: "#postpartumjourney, #postpartumbody, #newmom, #newmomlife"
+  - username: "lolamelnyck"
     fullname: >-
-      LEONOR FILIPA❣️
+      Lola Melnyck
     bio: >-
-      • 17y😝 Dancer💃🏻Lisbon, Portugal 🇵🇹 • #tiktok: @leonorfilipaa 👑 (+700k) • PR, Digital & Brands: @thisisluvin • Collaborations: Direct / Email 📥
+      🎤Tv & Radio Host, professional dancer 🐾Animal rights activist 🌍Speak 5 languages
     location: "Brazil"
-    followers: 42561
-    engagement: 1470
-    commentsToLikes: 0.048389
-    id: ck8wep64meeic0j78gwbo95r6
-    verified: false
-    hashtags: "#trend, #unstoppabledance, #tiktok, #pub"
-  - username: "klebeer_andrade"
+    followers: 436050
+    engagement: 140
+    commentsToLikes: 0.036875
+    id: ck14l3xxmsq7j0i19gy39e0t8
+    verified: true
+    hashtags: ""
+  - username: "soh_lopez"
     fullname: >-
-      Gato Moreno Do Passinho 🐈🔥
+      sophia lopez 💋
     bio: >-
-      🕺 DANCER : @tropaadobrega MODELO DE LOJA , MODELO FOTOGRÁFICO ♥️ GATO MORENO DO PASSINHO 🥵♥️ Parceria via direct ♥️
+      • actress, model and dancer
     location: "Brazil"
-    followers: 22607
-    engagement: 708
-    commentsToLikes: 0.511317
-    id: ck9wh63mewfi50j78z5cfaxa2
+    followers: 93356
+    engagement: 136
+    commentsToLikes: 0.041839
+    id: ck9welph8ktss0j78xxn9eb55
     verified: false
-    hashtags: "#maloka, #bregafunk, #sergipe, #explorepage"
-  - username: "brunnofraga_"
+    hashtags: ""
+  - username: "luisabresser"
     fullname: >-
-      BRUNO FRAGA
+      Luisa Bresser
     bio: >-
-      O Senhor é o meu pastor, nada me faltará ❤️ A PRÁTICA LEVA À PERFEIÇÃO 🔥#dancer DISPONÍVEL jobs/ações/shows/eventos @bandasaiddybamba
+      Actress, singer and dancer 🇧🇷 Agente @iedaribeiroagente Publisher @fhits 📧 comercial@luisabresser.com.br
     location: "Brazil"
-    followers: 9061
-    engagement: 880
-    commentsToLikes: 0.157828
-    id: ck5pwe4r1meg10i1120lb3rct
-    verified: false
-    hashtags: "#amigos, #semservulgar, #salvador, #luisasonza"
-  - username: "saabrinarocha"
+    followers: 1162213
+    engagement: 52
+    commentsToLikes: 0.031488
+    id: ck6tw9eh5qpyr0j71fbv8flhm
+    verified: true
+    hashtags: "#explore, #reels, #explorepage, #luisabresser"
+  - username: "_ponchoglez"
     fullname: >-
-      Sabrina Rocha
+      P o n c h o    G l e z
     bio: >-
-      Dancer | Singer | Capoeira 📺 Bailarina do Faustão 2017|2019 📺 A noite é Nossa na Record (no ar) ⬇️ASSISTA Levo Aonde eu vou feat. Dani Alves
+      Dancer - Choreographer 🌎 📍CDMX
     location: "Brazil"
-    followers: 93266
-    engagement: 279
-    commentsToLikes: 0.101081
-    id: ck15qyxvd5ayq0i19ftjcam5l
+    followers: 179622
+    engagement: 80
+    commentsToLikes: 0.007938
+    id: ck0uers5nm0bo0i19dscyqknf
     verified: false
-    hashtags: "#nature, #summer, #fitness, #paradise"
+    hashtags: "#monterreychallenge, #grwm, #ultrafacialcream, #publicidad"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In South Africa In 2023
+title: Top 10 Travel TikTok Influencers In South Africa In 2024
 description: >-
-  Find top travel TikTok influencers in South Africa in 2023. Most popular hashtags: #travel #tiktoksouthafrica #fyp #southafrica.
+  Find top travel TikTok influencers in South Africa in 2024. Most popular hashtags: #travel #fyp #tiktoksouthafrica #southafrica.
 platform: TikTok
-hits: 33
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 33 TikTok influencers like this in South Africa for you to contact.
+hits: 34
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 34 TikTok influencers like this in South Africa for you to contact.
 profiles:
   - username: "life_with_lerato"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.070477
     id: ckc8vrh4cito80j23ky7f6r9m
     verified: false
-    hashtags: "#africa, #wildlife, #trend, #tiktoksouthafrica"
+    hashtags: "#travel, #amazing, #trend, #tiktoksouthafrica"
   - username: "may.tayla"
     fullname: >-
       May 🦋

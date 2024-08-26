@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Spain In 2023
+title: Top 10 Nutrition Instagram Influencers In Spain In 2024
 description: >-
-  Find top nutrition Instagram influencers in Spain in 2023. Most popular hashtags: #saludable #fitness #foodporn #recetassaludables.
+  Find top nutrition Instagram influencers in Spain in 2024. Most popular hashtags: #motivation #fitness #nutricion.
 platform: Instagram
-hits: 193
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 193 Instagram influencers like this in Spain for you to collaborate.
+hits: 235
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database holds 235 Instagram influencers like this in Spain for you to pitch.
 profiles:
-  - username: "leannemoorefitness"
+  - username: "genesispugliese"
     fullname: >-
-      Leanne Moore Behan
+      Genee ♥ ULTRA TRAIL RUNNER
     bio: >-
-      💁🏼‍♀️ Trainer & Nutritional Advisor 👱🏻‍♀️ Owner @gogymfitness_ie 💁🏼‍♀️ Workout with me ➡️ @liftbyleanne 💥#TheSaturdaySesh INSTA LIVE 10am
+      • adventure life from 🇻🇪 currently📍🇪🇸 ⇢ sports nutritionist • encuéntrame en las montañas y en YouTube 👇🏼
     location: "Spain"
-    followers: 54155
-    engagement: 129
-    commentsToLikes: 0.090821
-    id: ck15spkfge6jm0i193e73q8o4
-    verified: true
-    hashtags: "#workout, #lift, #10pagesaday, #workouts"
-  - username: "marialopezpolo"
-    fullname: >-
-      ᗰaría🌻
-    bio: >-
-      🤍 hábitos • ejercicio • recetas 🏷 % MARIAFIT en @emfit_nutrition 🎬 +350K YouTube ⇢ Maria Lopez Polo
-    location: "Spain"
-    followers: 218115
-    engagement: 487
-    commentsToLikes: 0.009419
-    id: ck8tdp67x48tb0j7899sxkcoc
+    followers: 22937
+    engagement: 510
+    commentsToLikes: 0.148261
+    id: ck0tvwbrnd2mu0i19v8w7tipq
     verified: false
-    hashtags: "#ejercicio, #ejerciciosgluteos, #motivacion, #gimnasio"
-  - username: "andra_fitt"
+    hashtags: "#monta, #vistasincreibles, #mochilera, #humor"
+  - username: "benjaminalldis"
     fullname: >-
-      ANDRA | FITNESS & HEALTH
+      Ben Alldis
     bio: >-
-      Booty Program 🔜 ⚜️Myprotein Ambassador 📩 collabs: andrafitt@gmail.com 💪🏻Join my team~nutritional plan & workouts ⬇️Click below for discounts⬇️
+      👟@onepeloton Instructor & Training Specialist🇬🇧 🤘🏽Fitness, Nutrition & High Performance Coach 🌃Ex Private Equity Guy Order My Book Below👇🏼
     location: "Spain"
-    followers: 23949
-    engagement: 1350
-    commentsToLikes: 0.055030
-    id: ck9wf8ikcnok30j787j5fckzu
+    followers: 278910
+    engagement: 503
+    commentsToLikes: 0.016630
+    id: ck5zrr2tfx3th0i148b4ss4em
     verified: false
-    hashtags: "#reels, #proteinpancakes, #inprogress, #fitnessgirl"
-  - username: "brainbuilder"
+    hashtags: "#quotestagram, #pelotoninstructor, #chronicillness, #podcast"
+  - username: "viennemarly"
     fullname: >-
-      Iván 》Psicólogo Fitness
+      𝙑𝙞𝙚𝙣𝙣𝙚 𝙈𝙖𝙧𝙡𝙮
     bio: >-
-      🦍 @powerbuilding_oficial 💪 @berserkers_strength 💊 @emfit_nutrition “BRAINBUILDER” 🔷 @clavexxi 🐈 @incondicionables 🎬 Youtube +70k
+      🌻 Mom & wife 🤎 TikTok: viennemarly (114K) 🍋 Fitness & nutrition coach 🌿 Gaming, fitness & spirituality
     location: "Spain"
-    followers: 26574
-    engagement: 753
-    commentsToLikes: 0.049387
-    id: ck6tkpybr56vw0j71nommr2id
+    followers: 71569
+    engagement: 352
+    commentsToLikes: 0.014675
+    id: ck55lo2ft21410i11azonggdo
     verified: false
-    hashtags: "#psicologia, #culturismo, #sentadilla, #pressbanca"
-  - username: "calderonchris_oficial"
+    hashtags: "#ps5, #hogwartslegacy, #gaming, #gamer"
+  - username: "claudialifter"
     fullname: >-
-      Christopher calderon
+      CLAUDIA LÓPEZ
     bio: >-
-      •ATHLETE @lambor_nutrition 💪🏼
+      💪🏼 Online Coaching @claudialifterclub 🏋🏼‍♀️ BS Sports Science 🍏 MS Sports Nutrition 🎙 Claudialifter Podcast
     location: "Spain"
-    followers: 34830
-    engagement: 105
-    commentsToLikes: 0.028993
-    id: ckap22yggx5it0i78gelwp0zs
+    followers: 69136
+    engagement: 330
+    commentsToLikes: 0.007051
+    id: clnrvdjove7570j0846q91u9d
     verified: false
-    hashtags: "#sexyfitness, #gentedepalma, #nutricion, #biceps"
-  - username: "matiroure"
+    hashtags: "#entrenamiento, #carsofinstagram, #porsche75a, #amsterdam"
+  - username: "tabslifts"
     fullname: >-
-      Matias Roure
+      Tabitha Lofts
     bio: >-
-      .Follow your bliss .We are one .Sport Lover / PT .Vegetarian / Nutrition .Surf Lover / Surf Trips .Model / Actor .Barman @firstdates_tv .Madrid,Spain
+      ✨buildin’ booty, balance & brains 🥑nutrition, training & lifestyle coaching ↓
     location: "Spain"
-    followers: 52419
-    engagement: 358
-    commentsToLikes: 0.017532
-    id: ck6tw34fxpqpr0j71zdkqex4b
+    followers: 78114
+    engagement: 219
+    commentsToLikes: 0.038261
+    id: ck8takzw3s7990j78ziiid6f7
     verified: false
-    hashtags: "#horizonte, #autumn, #felizvida, #vivalavida"
-  - username: "edeand"
+    hashtags: "#nutrition, #successprinciples, #motivationmonday, #cutcarbs"
+  - username: "_helencarr_"
     fullname: >-
-      Estefanía de Andrés ♥
+      Elena Carratalá
     bio: >-
-      📩| info@edeand.com ⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🏷Código EDEAND @emfit_nutrition
+      CFGames 22’ @smartprogram_ @tyrsport | @picsil_sport “elena10” | @uperform_nutrition | @kingsbox_espana
     location: "Spain"
-    followers: 112382
-    engagement: 247
-    commentsToLikes: 0.069804
-    id: ck8sxqpwtibbl0j78lq6oa3cp
+    followers: 20576
+    engagement: 196
+    commentsToLikes: 0.009225
+    id: ckw51fmuiiemt0j236ff8sqqr
     verified: false
-    hashtags: "#healthy, #dessert, #receta, #foodporn"
-  - username: "deliciousmartha"
+    hashtags: "#marketing, #100, #navarra, #pamplonaarenagames2024"
+  - username: "thefitmedstudent"
     fullname: >-
-      Delicious Martha | Eat Girl
+      Dr. ANTELM | Fitness & Salud
     bio: >-
-      👩🏻‍🍳Me pillas cocinando y #EstoEstaDelicious ⚡️10% DELICIOUS @emfit_nutrition & @mybodygenius 📚@deliciousmarthashop 💌Suscríbete>Un café con Marta
+      👨‍⚕️Médico & MIR Endocrino 📚Máster Medicina Clínica + Nutrición Clínica 🔬Formulador @efficientxscience @emfit_nutrition 💪🏻Entrenador @fmscoaching
     location: "Spain"
-    followers: 470355
-    engagement: 208
-    commentsToLikes: 0.071558
-    id: ck5hkfc3oibne0i119yi5bkif
-    verified: true
-    hashtags: "#postresano, #dietafitness, #dietafit, #navidad"
-  - username: "burpee_vet"
-    fullname: >-
-      Sara Conde👩🏼‍🍳🐻🐈
-    bio: >-
-      🌈Autora:“Mis dulces Fit” y “cheesecakemanía” 💚10% @emfit_nutrition✨BURPEE✨ 🍩VERSIONES HEALTHY DE TUS DULCES FAVORITOS🦄 ♥️MI WEB 👇🏻
-    location: "Spain"
-    followers: 189760
-    engagement: 407
-    commentsToLikes: 0.028249
-    id: ck0uahmoyc5ay0i19swm7fv0r
+    followers: 70418
+    engagement: 150
+    commentsToLikes: 0.017286
+    id: ck8sxqq9ribcu0j789gj174kn
     verified: false
-    hashtags: "#healthyrecipes, #christmasrecipes, #healthycookies, #postres"
-  - username: "_jennyros"
+    hashtags: "#medicina, #gym, #paciencia, #creatina"
+  - username: "ashleygeerestein"
     fullname: >-
-      Jennyros
+      Ashley Geerestein
     bio: >-
-      Health & Nutrition Coach www.jennyrosfit.com Certificado Coach CIC -1345 @estademodaestarsaludable / @jennyrosfit @sambilmodel
+      Dutchie who lives in Barcelona☀️ Physiotherapist👊🏻 Sport nutritionist🏋🏼‍♀️ Personal trainer💪🏻 GET FIT, STAY FIT! MY ONLINE COACHING PROGRAM👇🏻
     location: "Spain"
-    followers: 25035
-    engagement: 67
-    commentsToLikes: 0.066680
-    id: ck55lfvgv1gy50i11t4qhn6nr
+    followers: 14045
+    engagement: 188
+    commentsToLikes: 0.142339
+    id: ckap8jpi4om7h0i7879e8aiim
     verified: false
-    hashtags: "#tbt, #jennyrosfit, #estademodaestarsaludable, #elprincipito"
+    hashtags: "#bosslady, #healthylifestyle, #healthy, #ibiza"
+  - username: "fit_style_with_eli"
+    fullname: >-
+      Fit Style with Eli
+    bio: >-
+      💚 Nutrition coach & motivator 💚 2nd profile 👉🏼 @milujulowcarb FCB: Fit Style with Eli😎 @lifelikefit:slev.kód:eliska7 💌 fitstylewitheli@gmail.com
+    location: "Spain"
+    followers: 70016
+    engagement: 80
+    commentsToLikes: 0.091381
+    id: ck6tqobaysnyg0j71syuk7uzs
+    verified: false
+    hashtags: "#blondynka, #rodina, #vyzivovyporadce, #diety"
+  - username: "sara.carmona.h"
+    fullname: >-
+      Sara Carmona Hernando #ARRIBA
+    bio: >-
+      👩‍🎓Lic. CAFyD | Sport Nutrition | Fitness 📚My book: ¡ARRIBA! El reto eres tú 🚴‍♀️Female Sport-Challenge |🤰 🔥Trainer @topgamersacademy ❤️Triathlete
+    location: "Spain"
+    followers: 69881
+    engagement: 65
+    commentsToLikes: 0.017965
+    id: ck6tuvvx3iptf0j714b0zy0nk
+    verified: false
+    hashtags: "#comida, #salud, #healthyfood, #pregnantworkout"
 ---

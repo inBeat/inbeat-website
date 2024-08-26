@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Indonesia In 2023
+title: Top 10 Fitness TikTok Influencers In Indonesia In 2024
 description: >-
-  Find top fitness TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #fitness #foryoupage #food.
+  Find top fitness TikTok influencers in Indonesia in 2024. Most popular hashtags: #fyp #fitness #foryoupage #food.
 platform: TikTok
 hits: 13
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: inBeat has 13 TikTok influencers like this in Indonesia for you to pitch.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our platform holds 13 TikTok influencers like this in Indonesia for you to connect with.
 profiles:
   - username: "edsaestella"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.032330
     id: ck8vvewlwlkka0j7825ivo4iv
     verified: false
-    hashtags: "#viral, #fitness, #fyp, #lombok"
+    hashtags: "#tiktoktravel, #couple, #foryoupage, #tiktokindo"
   - username: "charlietaylor"
     fullname: >-
       Charlietaylor 

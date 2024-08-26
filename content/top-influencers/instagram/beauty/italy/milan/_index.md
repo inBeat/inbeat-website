@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Milan In 2023
+title: Top 10 Beauty Instagram Influencers In Milan In 2024
 description: >-
-  Find top beauty Instagram influencers in Milan in 2023. Most popular hashtags: #milano #beauty #love #italy.
+  Find top beauty Instagram influencers in Milan in 2024. Most popular hashtags: #milano #beauty #italy #milan.
 platform: Instagram
-hits: 370
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 370 Instagram influencers like this in Milan, Italy for you to contact.
+hits: 400
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 400 Instagram influencers like this in Milan, Italy for you to work with.
 profiles:
   - username: "cristina_cocco_"
     fullname: >-
@@ -31,18 +31,30 @@ profiles:
     id: ckaouq7jb1c2c0i78cbpz5yhd
     verified: false
     hashtags: "#photography, #love, #blackandwhite, #photoshoot"
-  - username: "letofrancesca"
+  - username: "jusher.avain"
     fullname: >-
-      Francesca Leto
+      Jusher Avain
     bio: >-
-      ⭐️Tv-Entertainment-Commercials🎬 🌸YOLO💫 Booking & Collabs 📩 press.francescaleto@gmail.com 👇🏻leggi mio blog👇🏻
+      Dreams come true faster when they smell like roses. For any requests: jusher.avain@live.com From Belém 🇧🇷 / Based in Lugano 🇨🇭/ Often in Milan 🇮🇹
     location: "Italy"
-    followers: 120335
-    engagement: 208
-    commentsToLikes: 0.287179
-    id: ck5zp8s6ks7md0i14jfh4yf4x
-    verified: true
-    hashtags: "#francescaleto, #costumidabagno, #outfitinspo, #ootdshare"
+    followers: 18311
+    engagement: 104
+    commentsToLikes: 0.028553
+    id: ck5qelpkk131c0i119auzh6cz
+    verified: false
+    hashtags: "#love, #photographer, #editorial, #switzerland"
+  - username: "elisabettarossi_er"
+    fullname: >-
+      Elisabetta Rossi | Model
+    bio: >-
+      “I know my limits. That’s why I’m beyond.” 📍Vicenza - Milano Deaf model with on and off switch #cochlearimplant Digital @power_talent_agency
+    location: "Italy"
+    followers: 32700
+    engagement: 46
+    commentsToLikes: 0.005815
+    id: ck5pxbi5iqzlo0i111v0et8yy
+    verified: false
+    hashtags: "#mfw, #modella, #milano, #milan"
   - username: "mariellapetagine"
     fullname: >-
       Mariella Petagine
@@ -55,18 +67,42 @@ profiles:
     id: ck14gumua73zb0i19uqmtkrt1
     verified: false
     hashtags: "#toropeyfamilia, #sole, #milano, #constellationjewelry"
-  - username: "salvettisonia"
+  - username: "auroragiardina"
     fullname: >-
-      𝓢𝓪𝓵𝓿𝓮𝓽𝓽𝓲 𝓢𝓸𝓷𝓲𝓪
+      𝒜𝓊𝓇ℴ𝓇𝒶 ♛
     bio: >-
-      📍 𝙱𝚎𝚛𝚐𝚊𝚖𝚘 🍼 𝙻𝚒𝚊𝚖’𝚜 𝚖𝚘𝚖 💌 𝙲𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗 𝚎𝚖𝚊𝚒𝚕
+      𝐓𝐨𝐬𝐜𝐚𝐧𝐚 | 𝐈𝐭𝐚𝐥𝐲 🇮🇹 𝐏𝐡𝐨𝐭𝐨𝐦𝐨𝐝𝐞𝐥 📸 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐇𝐮𝐦𝐚𝐧𝐢𝐭𝐢𝐞𝐬👩🏻‍🎓 𝐅𝐨𝐨𝐝 𝐥𝐨𝐯𝐞𝐫 🫶🏻 ⭐️⭐️⭐️ 𝙖𝙢𝙤𝙧 𝙛𝙖𝙩𝙞 ▪ ©ⓘⓝⓔⓜⓐ ▪
     location: "Italy"
-    followers: 57263
-    engagement: 145
-    commentsToLikes: 0.123105
-    id: ck14k97y6odsf0i1936ga7fqe
+    followers: 21024
+    engagement: 416
+    commentsToLikes: 0.024876
+    id: ckxr7wtbfbd910j2351pv3bok
     verified: false
-    hashtags: "#liviacorsetti, #liviacorsetty, #christmas, #yoinsstyle"
+    hashtags: "#inspo, #collab, #versiliarent, #reel"
+  - username: "unaparolabuonapertutti"
+    fullname: >-
+      Ginny Chiara Viola ⭐️ Astrologia e Oroscopo
+    bio: >-
+      Astrologa pop ⭐️ mi trovi qui: @radiodeejay 🎙 @onepodcast_ 🎧 @fanpage.it @deabyday 🎥 @tustylemagazine @livingcorriere @lacucinaitaliana 🖋@iodonna_it 📱
+    location: "Italy"
+    followers: 63145
+    engagement: 93
+    commentsToLikes: 0.033325
+    id: ck0w0cqdjdj3o0i193tlmkuwp
+    verified: false
+    hashtags: "#lunanuova, #iniziarebenelagiornata, #segnizodiacali, #caffe"
+  - username: "olimpietta"
+    fullname: >-
+      Maria Elena Di Gregorio
+    bio: >-
+      Amo raccontarvi il mio mondo: FASHION | TRAVEL | BEAUTY 📍Milan, Italy Content Creator Blog
+    location: "Italy"
+    followers: 113289
+    engagement: 445
+    commentsToLikes: 0.027431
+    id: ckap355nv1lux0i78wdtutdxp
+    verified: false
+    hashtags: "#sheinswimwear, #sheinpartner, #sheinswimvibes, #sicilia"
   - username: "iamantoniogallo"
     fullname: >-
       Antonio Gallo
@@ -91,40 +127,4 @@ profiles:
     id: ck0u2dmy7zk840i19f0yyqz5v
     verified: false
     hashtags: "#italia, #italian, #napoli, #vacations"
-  - username: "katia_fanelli"
-    fullname: >-
-      Katia Fanelli
-    bio: >-
-      Sono single felice e Fotonica A me me gustano i miei Manzi Based in Rimini📍 love travelling ✈️🌏 Tik Tok—> fotonica994👇🏻 management@katiafanelli.com
-    location: "Italy"
-    followers: 247885
-    engagement: 154
-    commentsToLikes: 0.011335
-    id: ck137g8cpbdkl0i191x3cnchl
-    verified: true
-    hashtags: "#photooftheday, #sand, #likeforlike, #likes4likes"
-  - username: "treccinemilano"
-    fullname: >-
-      TRECCINE MILANO 🇧🇷 🇮🇹
-    bio: >-
-      ♥️ @thalitasanthi AMBASSADOR♡ @sermulhereurope Whatsapp 3383956904 #treccinemilano #sabrichignon #treccequeen Per guardare tutti prezzi link 👇
-    location: "Italy"
-    followers: 17194
-    engagement: 175
-    commentsToLikes: 0.024106
-    id: ck138zawqir410i19m7blrk7a
-    verified: false
-    hashtags: "#style, #braids, #love, #tran"
-  - username: "manudoriani"
-    fullname: >-
-      Manuela Doriani
-    bio: >-
-      Radio Host 🎤🎧 Radio Coach 🎧🎤 Journalist 🖥💻 Deejay & Music Lover ❤️
-    location: "Italy"
-    followers: 20512
-    engagement: 173
-    commentsToLikes: 0.080486
-    id: ck5cg4tl4o5v00i11e2xvi5r8
-    verified: false
-    hashtags: "#patologia, #zonagialla, #tutorial, #episode"
 ---

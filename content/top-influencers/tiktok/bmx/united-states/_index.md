@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bmx TikTok Influencers In United States In 2023
+title: Top 10 Bmx TikTok Influencers In United States In 2024
 description: >-
-  Find top bmx TikTok influencers in United States in 2023. Most popular hashtags: #fyp #bmx #foryou #foryourpage.
+  Find top bmx TikTok influencers in United States in 2024. Most popular hashtags: #fyp #bmx #foryou #foryourpage.
 platform: TikTok
-hits: 70
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat has 70 TikTok influencers like this in United States for you to pitch.
+hits: 71
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 71 TikTok influencers like this in United States for you to contact.
 profiles:
   - username: "tylerbrown316"
     fullname: >-
@@ -19,18 +19,18 @@ profiles:
     id: ck83ysm1ovclp0j78pit4wh06
     verified: false
     hashtags: "#foryou, #sandiego, #foryourpage, #gopro"
-  - username: "notso_fast"
+  - username: "swervoc6"
     fullname: >-
-      FORZA_GTA
+      NotSoFast
     bio: >-
       DRIVER OF FASTER BOYS💨 XBOX:GHOSTGAM3455 Follow @bmx__brodie
     location: "United States"
     followers: 19900
-    engagement: 964
-    commentsToLikes: 0.033546
+    engagement: 1055
+    commentsToLikes: 0.037054
     id: cka7o74ib0ll20i78hkqyx68e
     verified: false
-    hashtags: "#corvette, #fyp, #hoonigan, #ford"
+    hashtags: "#r35, #fyp, #cinematic, #yearontiktok"
   - username: "4hesh"
     fullname: >-
       4hesh
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.013690
     id: ckb19yek3y5lb0j237olkmfz1
     verified: false
-    hashtags: "#ride, #bikelife, #fyp, #bikes"
+    hashtags: "#bikelife, #jump, #bike, #viral"
   - username: "bugbmx"
     fullname: >-
       Kyler Manning

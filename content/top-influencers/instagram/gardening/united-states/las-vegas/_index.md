@@ -1,24 +1,24 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Las Vegas In 2023
+title: Top 10 Gardening Instagram Influencers In Las Vegas In 2024
 description: >-
-  Find top gardening Instagram influencers in Las Vegas in 2023. Most popular hashtags: #gardening #lasvegas #nature.
+  Find top gardening Instagram influencers in Las Vegas in 2024. Most popular hashtags: #gardening #lasvegas #plants #nature.
 platform: Instagram
-hits: 6
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 6 Instagram influencers like this in Las Vegas, United States for you to contact.
+hits: 7
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 7 Instagram influencers like this in Las Vegas, United States for you to pitch.
 profiles:
-  - username: "leisurefanclub"
+  - username: "mombossinaustin"
     fullname: >-
-      Kirby Mekler | Food Photo
+      Brianna DeMike
     bio: >-
-      Adventure obsessed recipe creator + food photographer + blogger. @foodcapturecollective team member
+      💁🏻‍♀️ | Mom of 👦🏼👧🏼👧🏼👶🏼 💍 | @huntdunbar 👩🏻‍💻 | Entrepreneur x 3 🎙 | Host @badassbasicbitch 2M+ downloads 📍 | NY ➡️ CA ➡️ ATX
     location: "United States"
-    followers: 5423
-    engagement: 506
-    commentsToLikes: 0.321932
-    id: ck5hpvbmvs11u0i11b6z1gzhd
+    followers: 71961
+    engagement: 197
+    commentsToLikes: 0.046059
+    id: cks10oyt22bp10j234pwwqei2
     verified: false
-    hashtags: "#feedfeed, #todayfood, #foodtographyschool, #veganrecipes"
+    hashtags: "#atx, #furniture, #atxkids, #disney"
   - username: "anaandreaxoxo"
     fullname: >-
       Ana Andrea Xoxo 🇹🇩 🇺🇸
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.118482
     id: ck5c2jhssxdaz0i11nmqu1uvw
     verified: false
-    hashtags: "#gardening, #planty, #momof4, #plants"
+    hashtags: "#familyof6, #momof4, #waxplantwednesday, #fitmom"
   - username: "cocojenkinsbass"
     fullname: >-
       *CoCojenkins
@@ -43,6 +43,18 @@ profiles:
     id: ckaorv3ldovq70i78xyth6d2n
     verified: false
     hashtags: "#grateful, #coronacation, #femalemusician, #lace"
+  - username: "hanginwithhaley"
+    fullname: >-
+      Haley Fox
+    bio: >-
+      I love to share Home decor, recipes and seasonal ideas. Creating special moments with my family, chickens & dog. Amazon Influencer / Product Reviews
+    location: "United States"
+    followers: 141893
+    engagement: 1324
+    commentsToLikes: 0.013077
+    id: ckaowh7ag8xed0i78xv5ayoi4
+    verified: false
+    hashtags: "#amazonhome, #falldecor, #farmhousestyle, #backyardchickens"
   - username: "swenyly"
     fullname: >-
       Tomas
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.030465
     id: ck13d1w2h38yc0i19w8ty0gnx
     verified: true
-    hashtags: "#linkinstory, #livemusic, #alaska, #letsfoodwithtiffany"
+    hashtags: "#newmusic, #letsfoodwithtiffany, #alaska, #linkinstory"
   - username: "kley_tarcitano"
     fullname: >-
       Kley Tarcitano
@@ -78,53 +90,41 @@ profiles:
     commentsToLikes: 0.093386
     id: ck6txzagt0qbw0j71505ynq7k
     verified: false
-    hashtags: "#bennymedina, #productiondesign, #setdesigner, #tvvit"
-  - username: "northwoodsfolk"
+    hashtags: "#productiondesign, #bennymedina, #setdesigner, #dream"
+  - username: "curlycultivators"
     fullname: >-
-      Sunny // Folk Living                                       🌲MN🌲
+      Leota Wilson & Mikaela Falwell
     bio: >-
-      nature-inspired mother + maker sharing the beauty of slow, seasonal living diy • recipes • gardening • home-ed • adventure 🌙 🌿 🐌 🍄🌲🧺 ✨
+      🌱Two curly girls, in love with gardening + each other 🍅 Sharing as we learn so you can grow with us 📍 Sacramento | Zone 9B
     location: "United States"
-    followers: 131357
-    engagement: 474
-    commentsToLikes: 0.067900
-    id: ckx3j50xwzxpa0j2331ss8l9z
+    followers: 151114
+    engagement: 1609
+    commentsToLikes: 0.064080
+    id: cl22heo5dhdo70i23fcebex8u
     verified: false
-    hashtags: "#wildcraftwednesday, #nobuydiy, #thehandcraftedholiday"
-  - username: "laurenselfblogs"
+    hashtags: "#zone9b, #spring, #zone9garden, #homegarden"
+  - username: "masondixonacres"
     fullname: >-
-      Lauren
+      Elaina Ripepi + Alex Walsh, Homestead & DIY
     bio: >-
-      mama x 4! low tox living | gardening + chicken mom | macrame 🌿oil IG: @oilyselfblogs 🌞 Etsy link ↓
+      🏠 Self-building our home DEBT-FREE 🌱 Gardening & raising chickens on a budget ⬇️ Check out our YouTube!
     location: "United States"
-    followers: 18656
-    engagement: 1858
-    commentsToLikes: 0.022000
-    id: ck8t1vbnlx6dp0j782ei1ya9s
+    followers: 128579
+    engagement: 426
+    commentsToLikes: 0.062600
+    id: cky72qbzkjtxl0j23r5p8gykn
     verified: false
-    hashtags: "#fromwhereiwork, #smallshop, #protectbreastfeeding, #reels"
-  - username: "seldabelda"
+    hashtags: "#selfsufficiency, #selfbuild, #ownerbuilder, #gardening"
+  - username: "bowmar_farms"
     fullname: >-
-      anna aromin | ↟ pnw ↟
+      Bowmar Farms
     bio: >-
-      artist ⎜ wife ⎜ mother ⎜ seeker of everyday magic lover of vintage lenses & gardening other work: @allnaturebyanna creator of @thegalleryoflight
+      Welcome to the farm! Venison 🦌Gardening 🌱 Sourdough 🍞Bees 🐝 Chickens 🐓Goats 🐐
     location: "United States"
-    followers: 33490
-    engagement: 341
-    commentsToLikes: 0.090660
-    id: ck14kkiiwpyiz0i19q3we0t10
+    followers: 69718
+    engagement: 780
+    commentsToLikes: 0.016260
+    id: cldimc2vuoons0j088zchvgv2
     verified: false
-    hashtags: "#thiswildlingsoul, #bokeh, #freelensed, #holidaypajamaparty"
-  - username: "life_of_glow"
-    fullname: >-
-      Robyn | Home & Garden Joy
-    bio: >-
-      A plant-loving, home-making, seasonal-living adventure! ❃ Fearless northern gardening, interior style, & DIY. ❁ Pro Photographer, mama, wife ♡ More⇩
-    location: "United States"
-    followers: 40685
-    engagement: 309
-    commentsToLikes: 0.087218
-    id: ck0u7az5246wj0i19r71e0x0v
-    verified: false
-    hashtags: "#rugsusa"
+    hashtags: ""
 ---

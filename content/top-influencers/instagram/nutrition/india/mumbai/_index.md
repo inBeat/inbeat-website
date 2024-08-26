@@ -1,24 +1,36 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Mumbai In 2023
+title: Top 10 Nutrition Instagram Influencers In Mumbai In 2024
 description: >-
-  Find top nutrition Instagram influencers in Mumbai in 2023. Most popular hashtags: #reels #fitness #nutrition #mumbai.
+  Find top nutrition Instagram influencers in Mumbai in 2024. Most popular hashtags: #mumbai #reels #nutrition #love.
 platform: Instagram
-hits: 38
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 38 Instagram influencers like this in Mumbai, India for you to collaborate.
+hits: 63
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database holds 63 Instagram influencers like this in Mumbai, India for you to contact.
 profiles:
-  - username: "dr.richa.negi"
+  - username: "sanjeevaniyoga"
     fullname: >-
-      Richa
+      Mallika Rathod |SANJEEVANIYOGA
     bio: >-
-      Shuffler🕺🏻 Boxer 🥊 Budding Dermatologist 👩🏻‍⚕️ . Expert At Doing A Million Things,Messily😋
+      Yoga & Wellness Coach 7+ years 📍MUM/PUNE Certified Sports Nutrition specialist👩🏻‍💻 Flow • Mobility🦍 • Flexibility Movement explorer🐉 DM “coaching”
     location: "India"
-    followers: 271708
-    engagement: 635
-    commentsToLikes: 0.014055
-    id: ck15t8yabgwvt0i19qla1bx8w
+    followers: 22660
+    engagement: 102
+    commentsToLikes: 0.037251
+    id: ck15qexku2iic0i1912e8b7uk
     verified: false
-    hashtags: "#beautiful, #bollywood, #shuffle, #trend"
+    hashtags: "#athlete, #mumbaiyoga, #reelsinstagram, #balance"
+  - username: "karishmaktanna"
+    fullname: >-
+      Karishma K Tanna
+    bio: >-
+      Actor, Entrepreneur, Loyalist, and mommy to my @koko_tanna ❤️ Gods child❤️ https://youtube.com/@karishmaktannaofficial?si=hJ2OHsULMXlQWsD3
+    location: "India"
+    followers: 7595656
+    engagement: 44
+    commentsToLikes: 0.006027
+    id: ck0tt7njf1i7q0i19ib9joljq
+    verified: true
+    hashtags: "#karishmatanna, #breachcandy, #love, #mood"
   - username: "toomuchcheessy"
     fullname: >-
       TOO MUCH CHEESSY ™
@@ -31,6 +43,18 @@ profiles:
     id: ck8t8tfdalqt80j78jlqa6n92
     verified: false
     hashtags: "#delhifoodies, #instadaily, #foodie, #instagood"
+  - username: "geetgambhir"
+    fullname: >-
+      Geet Gambhir
+    bio: >-
+      Life is Gratitude🎼♥️ Make it Count 🎻 #shivoham
+    location: "India"
+    followers: 360818
+    engagement: 201
+    commentsToLikes: 0.021286
+    id: ckvas7fr25lm90j230dcgmm4c
+    verified: false
+    hashtags: "#rudra, #shivoham, #airport, #travelmode"
   - username: "bombayfoodblogger"
     fullname: >-
       Ayush Dolani
@@ -67,64 +91,40 @@ profiles:
     id: ckap6vegghibr0i78eumopd80
     verified: false
     hashtags: "#somumbai, #instagram, #influencerstylelife, #tiktok"
-  - username: "varuninamdar"
+  - username: "decorholics_abode"
     fullname: >-
-      Chef Varun Inamdar
+      Neha Anindya Singh
     bio: >-
-      Chef | Chocolatier | Food Stylist | Food Archivist | 2 National Awards | Guinness World Record | Made in Oberoi mail@varuninamdar.com
+      Decor/DIY Enthusiast/Home Stylist/KOL 🇮🇳 Art @stringsofhappiness Feat @theidealhomeandgarden @pinterestindia @indiatoday_home DM/Email-Collab
     location: "India"
-    followers: 33113
-    engagement: 112
-    commentsToLikes: 0.018485
-    id: ck6ui5kmwd7570j71ym9bt1yf
-    verified: true
-    hashtags: "#stayfresh, #inittogether, #stayin, #cookinginquarantine"
-  - username: "hitesh__tekwani_"
-    fullname: >-
-      Hitesh Tekwani
-    bio: >-
-      A software engineer Fitness || Fashion || Lifestyle Jaipur↔️Delhi↔️Mumbai ISSA CERT. Nutritionist Training @hitesh__here_to_train Youtube
-    location: "India"
-    followers: 92511
-    engagement: 523
-    commentsToLikes: 0.024640
-    id: ck9hbr488i4d90j78ku43voux
+    followers: 73069
+    engagement: 10
+    commentsToLikes: 0.053861
+    id: ck14h2tr189kt0i1928xy036n
     verified: false
-    hashtags: "#life, #gymlife, #skincare, #influencer"
-  - username: "ifbb_elitepro_gary"
+    hashtags: "#delicious, #apartmenttherapy, #idealhome, #lbb"
+  - username: "parth.fitness.lifestyle"
     fullname: >-
-      G I R I S H  P.  P A T I L 🇮🇳
+      Parth Budhiraja
     bio: >-
-      💎IFBB DIAMOND CUP 2019 PRO CARD WINNER💎 🏆Mr. Maharashtra🥈 🏆2✖️Mr.Raigad🥇 🏆Navodit Mumbai🥇 BA-@butter_box_ Supplements Sponsored By - @fitup_arena
+      •🇮🇳 •Chandigarh|Mumbai|Dubai|London •@issaonline Certified Sports Nutritionist •Macros/Recipes/Workouts/Motivation •Here to Make you❤️➡️🏋️‍♀️
     location: "India"
-    followers: 4488
-    engagement: 1669
-    commentsToLikes: 0.027801
-    id: ck5zyaonk9j7y0i14wyx425th
+    followers: 13403
+    engagement: 2057
+    commentsToLikes: 0.021123
+    id: ck5pze1ub0ij40i11sx4ye1hr
     verified: false
-    hashtags: "#fitnessmotivation, #reels, #mightynutrition, #nevergiveup"
-  - username: "sampurna_sarkar"
+    hashtags: "#reels, #explorer, #fitnessmotivation, #veins"
+  - username: "johnlucas_"
     fullname: >-
-      Sampurna Sarkar
+      John Lucas
     bio: >-
-      Model | MUA | Influencer✨ Fashion, Makeup & lifestyle Makeup ac- @sampurnasarkar_makeup 📍Mumbai DM/Mail for paid Collabs
+      🇿🇦❤️🇮🇳 @scitronpro @jeraifitnessindia Facebook 830k followers 📍Mumbai Bring out the GIANT in you by clicking the link below for coaching 💪🏻
     location: "India"
-    followers: 17015
-    engagement: 457
-    commentsToLikes: 0.094163
-    id: ck0uac2o2bufl0i19eevw3u09
+    followers: 237403
+    engagement: 2211
+    commentsToLikes: 0.024475
+    id: ck6u89bt3q7830j71xxibajpd
     verified: false
-    hashtags: "#reelsinstagram, #outfitinspiration, #styling, #trending"
-  - username: "sahilaroras_universe"
-    fullname: >-
-      Sahil Radhakrishan Arora
-    bio: >-
-      •MR.NATIONAL UNIVERSE INDIA🇮🇳(FINALIST) •RUBARU MR.INDIA NATIONAL UNIVERSE 2019🇮🇳 •MR.GUJARAT 2018🤴🏻OFFICIAL @rubarumr.india Mumbai-Surat- Ahmedabad
-    location: "India"
-    followers: 10860
-    engagement: 448
-    commentsToLikes: 0.032302
-    id: ck14j2wf5icth0i19902rqhcb
-    verified: false
-    hashtags: "#photooftheday, #fitness, #mrgujarat2018, #reelsinstagram"
+    hashtags: "#instareels, #supplement, #bestsupplements, #reelsinstagram"
 ---

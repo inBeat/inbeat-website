@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Switzerland In 2023
+title: Top 10 Travel TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top travel TikTok influencers in Switzerland in 2023. Most popular hashtags: #switzerland #travel #swiss #schweiz.
+  Find top travel TikTok influencers in Switzerland in 2024. Most popular hashtags: #switzerland #travel #swiss #schweiz.
 platform: TikTok
-hits: 62
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 62 TikTok influencers like this in Switzerland for you to collaborate.
+hits: 60
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 60 TikTok influencers like this in Switzerland for you to contact.
 profiles:
   - username: "runawayueli"
     fullname: >-
@@ -85,12 +85,12 @@ profiles:
     bio: >-
       💑 Travelcouple 📍zürich 🇨🇭 💍verlobt
     location: "Switzerland"
-    followers: 29100
-    engagement: 350
-    commentsToLikes: 0.008421
+    followers: 28900
+    engagement: 351
+    commentsToLikes: 0.008329
     id: ck8opx5ne55bd0j78lb0s89tb
     verified: false
-    hashtags: "#tiktok, #couplegoals, #viral, #switzerland"
+    hashtags: "#switzerland, #schweiz, #tiktok, #couplegoals"
   - username: "janik.schaedler"
     fullname: >-
       King of FL 🇱🇮👑
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.059882
     id: ck9016gb1bboh0j78dgsqybzn
     verified: false
-    hashtags: "#travel, #cusco, #justswissthings, #coronavirus"
+    hashtags: "#travel, #coronavirus, #ostschweiz, #itscoronatime"
   - username: "abenteuer_fernweh"
     fullname: >-
       abenteuer_fernweh
     bio: >-
       Inspiration Reisen
     location: "Switzerland"
-    followers: 2350
-    engagement: 511
-    commentsToLikes: 0.084580
+    followers: 2333
+    engagement: 507
+    commentsToLikes: 0.082576
     id: ckachn2qvzzqo0i78anv2e4e2
     verified: false
-    hashtags: "#thailand, #unterhalteuns, #imbored, #schweiz"
+    hashtags: "#deutschland, #blondgirl, #love, #beautymode"
 ---

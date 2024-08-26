@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Seoul In 2023
+title: Top 10 Travel TikTok Influencers In Seoul In 2024
 description: >-
-  Find top travel TikTok influencers in Seoul in 2023. Most popular hashtags: #korea #seoul #fyp #foryou.
+  Find top travel TikTok influencers in Seoul in 2024. Most popular hashtags: #korea #fyp #seoul #foryou.
 platform: TikTok
 hits: 10
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our database has 10 TikTok influencers like this in Seoul, South Korea for you to contact.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 10 TikTok influencers like this in Seoul, South Korea for you to collaborate.
 profiles:
   - username: "kim_juhyeok"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.017845
     id: ckb9qgaxgm9680j23bazbl0u1
     verified: false
-    hashtags: "#seoul, #germany, #kpop, #seoulkorea"
+    hashtags: "#koreanfashion, #seoullife, #spring, #koreaseoul"
   - username: "robyninsk"
     fullname: >-
       robyn 

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Bangkok In 2023
+title: Top 10 Instagram Influencers In Bangkok In 2024
 description: >-
-  Find top Instagram influencers in Bangkok in 2023. Most popular hashtags: #bangkok #thailand #bangkoklife.
+  Find top Instagram influencers in Bangkok in 2024. Most popular hashtags: #photooftheday #instagood #newyork.
 platform: Instagram
-hits: 270
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 270 Instagram influencers like this in Bangkok, Thailand for you to work with.
+hits: 281
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 281 Instagram influencers like this in Bangkok, Thailand for you to connect with.
 profiles:
   - username: "phka_studio"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck5hsbrr1wbqd0i11gfxt1ua8
     verified: false
     hashtags: "#stagedesign, #weddingflower, #weddingdecoration, #phkaarchive"
-  - username: "bellenvl"
+  - username: "kim_jirawat"
     fullname: >-
-      Belle
+      Kim Jirawat (Movemaker)
     bio: >-
-      @tr.rclinic @bb_second_things @choice.hairlounge Bangkok, Thailand
+      🇹🇭🇺🇸Bangkok / New York City Base 📷 Photo,Videographer (Sony A7C) 📚Intania97/Civil CU/Stevens 📍Facebook,Youtube : Movemaker Tiktok : @kim_jirawat
     location: "Thailand"
-    followers: 109547
-    engagement: 25
-    commentsToLikes: 0.006649
-    id: ck1348u7dva7l0i19yolr29zm
+    followers: 24374
+    engagement: 1299
+    commentsToLikes: 0.026545
+    id: cl34yjkn7074k0i23c22fpxsi
     verified: false
-    hashtags: "#omegathailand, #hydravitallight, #mesoesteticth, #demisathu49"
-  - username: "app.coll"
+    hashtags: "#travel, #newyork, #timesquare, #streetphotography"
+  - username: "lazycoup"
     fullname: >-
-      App.Coll
+      LAZY COUP : เที่ยวเป็นคู่
     bio: >-
-      👩‍🎓Law| 👩‍💻#realestate|#travel 🇮🇩🇱🇦🇸🇬🇰🇭🇭🇰🇻🇳🇲🇾🇩🇪🇨🇿🇧🇪🇳🇱🇪🇸🇵🇹🇬🇷🇦🇹🇮🇹🇨🇭🇫🇷🇹🇷🇵🇱🇭🇺🇷🇸 Check my👇 🏡 @rightkeyestate 🛒🍷@wine_all_day 🛒 👗@spritz_clothing 🎈#Bangkok
+      ✨ Official IG : LAZY COUP ✨ Travel Couple l Nuu&Kim 📍 Bangkok Based l Blogger l Photographer E-mail: lazycoup@gmail.com
     location: "Thailand"
-    followers: 20325
-    engagement: 1396
-    commentsToLikes: 0.059246
-    id: ckaoxrshcegax0i78l9dyxfyz
+    followers: 25284
+    engagement: 1084
+    commentsToLikes: 0.019897
+    id: ck5c2grrax8cg0i11l3x5tcok
     verified: false
-    hashtags: "#asiangirl, #makeup, #holiday, #weekend"
-  - username: "thekittyway"
+    hashtags: "#igersthailand, #travelgram, #insta, #igdaily"
+  - username: "chao_ctn"
     fullname: >-
-      Fashion Travel Lifestyle Mommy
+      CHao Chittanant
     bio: >-
-      ✨ Content Creator | Wifey | Mom 👼🏻 @valentina.erika.b 💍 @s_kantapong 📍Bangkok 🐱 ชื่อเล่น: คิตติ้ / 📍Germany 💌 contact.kitty292@gmail.com
+      ● 🕴• 👟 • 🗺 • 📷 ● Bangkok, Thailand ● For work 📞 P'Cho (@Cbadgirl) (+66)89-894-6339 ● FB / Youtube : Chao.ProperDay ● 24~26
     location: "Thailand"
-    followers: 51011
-    engagement: 356
-    commentsToLikes: 0.045323
-    id: ck14kgjfqpeth0i19xhv4ztx1
-    verified: false
-    hashtags: "#thaigerman, #fashionblogger, #inspojunkie, #thehappynow"
-  - username: "genevemiller"
+    followers: 233839
+    engagement: 470
+    commentsToLikes: 0.002440
+    id: ck0tuqxcr8bib0i19vv4bkveo
+    verified: true
+    hashtags: "#commedesgarcons, #emquartier, #cosiconsiam, #electroluxth"
+  - username: "tanya.bayer.cosplay"
     fullname: >-
-      geneve
+      TANYA BAYER
     bio: >-
-      MA: @worldmgmt 🇨🇦 @iconmodelmanagement, Toronto 🇨🇦 @applemodels, Bangkok 🇹🇭 Filipino-Canadian.20.♈︎.❥o.r. 📍Canada
+      Your fav cosplay girl✨ 📍Bangkok Best content ⇣
     location: "Thailand"
-    followers: 9004
-    engagement: 1310
-    commentsToLikes: 0.025919
-    id: ck8wfbu31fhpz0j78fmkaxfik
+    followers: 402712
+    engagement: 1148
+    commentsToLikes: 0.013105
+    id: ckaoygywbhhg60i78psf89pyi
     verified: false
-    hashtags: "#giveaway, #giveawaycontest, #bikini, #swimwear"
-  - username: "nanna.phatt"
+    hashtags: "#cosplaygirl, #animeart, #animecosplay, #animecosplayer"
+  - username: "kikisitanan"
     fullname: >-
-      Nanna.phat💋
+      Kiki Benjasiriwan
     bio: >-
-      📍Cabin crew at Bangkok Airways 📖 Interior Architecture from Chulalongkorn 🏡 Bangkok, Thailand 💕 Design and life style travel are my happiness
+      berkeley | bangkok @ucberkeley ‘24
     location: "Thailand"
-    followers: 5137
-    engagement: 1709
-    commentsToLikes: 0.030837
-    id: ck8szpn0lp9ab0j78dovmsv8x
+    followers: 33080
+    engagement: 426
+    commentsToLikes: 0.006315
+    id: ckaouwsc625ic0i784xkea14b
     verified: false
-    hashtags: ""
-  - username: "journeytojunipero"
+    hashtags: "#brandsonpomelo, #m2sstudio, #mymorgan, #lazada77supervoucherday"
+  - username: "j__aja"
     fullname: >-
-      Journey to Junipero
+      
     bio: >-
-      Mirko roaming Southeast Asia Travel Photography + Writing 📍Bangkok, Thailand hello@journeytojunipero.com
+      @everydaywebrunch 🍝 @cocoacrunchy 🐶🐶 Bangkok, Thailand
     location: "Thailand"
-    followers: 11411
-    engagement: 479
-    commentsToLikes: 0.126435
-    id: ck6tlnucq6b0z0j71568uu1dq
+    followers: 42370
+    engagement: 394
+    commentsToLikes: 0.004989
+    id: ck5hsospnwy6g0i11ktykbows
     verified: false
-    hashtags: "#femaleportraits, #cebuph, #discoverph, #bacc"
-  - username: "peternoszek"
+    hashtags: "#macstudiofix, #lorealparisth, #cafewolseleybangkok, #hermesbeauty"
+  - username: "coundsheck"
     fullname: >-
-      Peter
+      coundsheck
     bio: >-
-      🌏 Trying to learn something new every day. 📍 Bangkok 🇹🇭 🤍 ซื้อหน้ากากผ้า @carbonmasks.th
+      art director / seeker / referenced sailor @sunne.voyage bangkok - 서울
     location: "Thailand"
-    followers: 7879
-    engagement: 1296
-    commentsToLikes: 0.050785
-    id: ckaoxtyuseqot0i7853za2sw2
+    followers: 39485
+    engagement: 367
+    commentsToLikes: 0.003296
+    id: cl34yjcerzzu80i23y8v4rcfn
     verified: false
-    hashtags: "#thailand, #bangkok, #travel, #samui"
-  - username: "chomfeb"
+    hashtags: "#arenx, #moremadlyminimal"
+  - username: "deeristravelling"
     fullname: >-
-      Feb.
+      AON & LAN ✈️ travel hubbies 🌴
     bio: >-
-      Artist Manager : Nadao Bangkok
+      ✈ intergaycial wanderlusts ✈ LGBTQ × adventures × positive vibes 📍Bangkok ↓ check our blog, TikTok, YouTube and more ↓
     location: "Thailand"
-    followers: 64862
-    engagement: 672
-    commentsToLikes: 0.010600
-    id: ck0tufg7b6x5c0i19gum87rvr
+    followers: 43633
+    engagement: 282
+    commentsToLikes: 0.107925
+    id: ck6ue6v1tp5ns0j71drzmgqhx
     verified: false
-    hashtags: "#bmmf11, #whatsfebb"
-  - username: "alelironi"
+    hashtags: "#chiangmaitravel, #gayasian, #thailandtravel, #gaytravel"
+  - username: "pimjira1"
     fullname: >-
-      Aleliro
+      Pimjira Jlr
     bio: >-
-      Lake Como | Bangkok. Creator of @webangkok.
+      Miss Grand Bangkok 2023 @sos.senseofstyle @sense.th Dog lover @cookie.chihuahuaaa Contact for work 064-9309283 (K.Chet)
     location: "Thailand"
-    followers: 10174
-    engagement: 641
-    commentsToLikes: 0.070089
-    id: ck0tvufavcu3o0i19nupvpik5
-    verified: false
-    hashtags: "#maekampong, #thailand, #bangkok, #kohchang"
+    followers: 206355
+    engagement: 211
+    commentsToLikes: 0.005647
+    id: ck5q07uz84o9i0i11i7plwo8b
+    verified: true
+    hashtags: "#wearegrandtheoneandonly, #mgbkk2023, #missgrandthailand, #missgrandbangkok2023"
 ---

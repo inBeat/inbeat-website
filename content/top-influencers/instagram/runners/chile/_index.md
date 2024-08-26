@@ -1,12 +1,24 @@
 ---
-title: Top 10 Runners Instagram Influencers In Chile In 2023
+title: Top 10 Runners Instagram Influencers In Chile In 2024
 description: >-
-  Find top runners Instagram influencers in Chile in 2023. Most popular hashtags: #running #chile #runner #run.
+  Find top runners Instagram influencers in Chile in 2024. Most popular hashtags: #chile #runner #running #trailrunning.
 platform: Instagram
-hits: 12
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 12 Instagram influencers like this in Chile for you to connect with.
+hits: 13
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 13 Instagram influencers like this in Chile for you to work with.
 profiles:
+  - username: "pedroultrerastv"
+    fullname: >-
+      Pedro Ultreras
+    bio: >-
+      Ultra & Marathon Runner. Mount Climber. Freedom & Nature Lover. Coffee Addict. World Traveler - 87 Countries visited & counting
+    location: "Chile"
+    followers: 30894
+    engagement: 62
+    commentsToLikes: 0.048657
+    id: ckqt1vflmzyxd0j23m81jueos
+    verified: false
+    hashtags: "#worldmarathonrunner, #run4life, #mendozaargentina, #mytripmyadventure"
   - username: "yadrankatomick"
     fullname: >-
       Yadranka Tomič Kralj
@@ -42,19 +54,19 @@ profiles:
     commentsToLikes: 0.079057
     id: ck14i9m1jeb5q0i19j65re2p7
     verified: false
-    hashtags: "#livemorenow, #nature, #photooftheday, #accesstheinaccessible"
+    hashtags: "#livemorenow, #photooftheday, #accesstheinaccessible, #nature"
   - username: "sebastian_runner"
     fullname: >-
       Sebastián Runner
     bio: >-
-      VALPARAÍSO ▪ CHILE ▪ #POSTALES_HUMANAS_ Fotógrafo documentalista / Talleres / Proyectos visuales & Culturales
+      VALPARAÍSO ▪ CHILE ▪ #POSTALES_HUMANAS_ Fotógrafo documentalista / Talleres / Proyectos visuales & Culturales Autor Libro Postales Humanas Valparaiso
     location: "Chile"
-    followers: 41720
-    engagement: 295
-    commentsToLikes: 0.051330
+    followers: 42733
+    engagement: 259
+    commentsToLikes: 0.043268
     id: ck5hnn5pjo2230i11h023yh4r
     verified: false
-    hashtags: "#apruebo, #convencionconstitucional, #postales"
+    hashtags: "#postales"
   - username: "cata_alegria_"
     fullname: >-
       Cata Alegría
@@ -67,18 +79,6 @@ profiles:
     id: ck8tdmmse3y690j7827qnbifp
     verified: false
     hashtags: "#outdoorlove, #hiking, #outdoors, #viajeros"
-  - username: "amalia.eats"
-    fullname: >-
-      A M A L I A   E A T S
-    bio: >-
-      Welcome to my world🚀recetas saludables | tips | deporte💥Embajadora @newbalance 👟Media maratón x7:PR 1:44:58🔥Maratón x2:PR 3:47:08
-    location: "Chile"
-    followers: 56410
-    engagement: 243
-    commentsToLikes: 0.022755
-    id: ck6u0sfxihhp40j71r84vbspg
-    verified: false
-    hashtags: "#corre, #correr, #yummy, #recetasaludable"
   - username: "franciscorree"
     fullname: >-
       Franciscoo Alexanderr
@@ -90,7 +90,19 @@ profiles:
     commentsToLikes: 0.023307
     id: ck14i9k2qeauh0i19wlj6ka94
     verified: false
-    hashtags: "#trailrunner, #naturephotography, #mountains, #naturaleza"
+    hashtags: "#skyrunning, #monta, #trailrun, #naturephotography"
+  - username: "soficfit"
+    fullname: >-
+      Sofía Cavallini
+    bio: >-
+      Wellness Lifestyle Motivo, entreno & reflexionó TikTok (+215 k) Atleta @nikerunning Owner @this.sofit @sc.estudio 💌: scavallini@uc.cl
+    location: "Chile"
+    followers: 101022
+    engagement: 1694
+    commentsToLikes: 0.006033
+    id: clnbn6qx63z7x0j08dufw5ne5
+    verified: false
+    hashtags: "#wellness, #frases, #soficfitchallenge, #motivacion"
   - username: "christell_oficial"
     fullname: >-
       𝓒𝓱𝓻𝓲𝓼𝓽𝓮𝓵𝓵
@@ -103,18 +115,6 @@ profiles:
     id: ck5q5qpnlu4qw0i1184zg16q7
     verified: true
     hashtags: "#maquillaje, #makeup, #musica, #videoclip"
-  - username: "mariaignaciamontt"
-    fullname: >-
-      María Ignacia Montt
-    bio: >-
-      🏃🏼‍♀️Atleta @asicschile 100-200 mts 📚Ing. Comercial UC Demostrando que con Diabetes si se puede 💉✨ @kifitcl @novonordisk @medtronicdiabeteslatam
-    location: "Chile"
-    followers: 8773
-    engagement: 765
-    commentsToLikes: 0.047179
-    id: ckap5jyh0c0u60i78p3d99rmk
-    verified: false
-    hashtags: "#trackandfield, #atletismo, #chile, #tracknation"
   - username: "fenamackenna"
     fullname: >-
       Fernanda Mackenna

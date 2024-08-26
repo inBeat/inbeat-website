@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Miami In 2023
+title: Top 10 Bloggers TikTok Influencers In Miami In 2024
 description: >-
-  Find top bloggers TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #miami #foryou #dothescottsslide.
+  Find top bloggers TikTok influencers in Miami in 2024. Most popular hashtags: #fyp #miami #foryou #fashion.
 platform: TikTok
 hits: 8
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine holds 8 TikTok influencers like this in Miami, United States for you to work with.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 8 TikTok influencers like this in Miami, United States for you to contact.
 profiles:
   - username: "corinthsuarez"
     fullname: >-
@@ -18,19 +18,7 @@ profiles:
     commentsToLikes: 0.097509
     id: ck8savnk83uov0j787i9leco0
     verified: false
-    hashtags: "#toddlersoftiktok, #cleanbeauty, #miami, #miamilife"
-  - username: "karajewel"
-    fullname: >-
-      Kara Del Toro 
-    bio: >-
-      Insta: @Karajewelll Business@karadeltoro.net
-    location: "United States"
-    followers: 1400000
-    engagement: 906
-    commentsToLikes: 0.011409
-    id: ck80ordfojhz30j78j9pg2d8d
-    verified: true
-    hashtags: "#model, #revolve, #hair, #selfie"
+    hashtags: "#fyp, #miamilife, #cleanbeauty, #toddlersoftiktok"
   - username: "suggamonkey"
     fullname: >-
       Susan Curry
@@ -49,12 +37,12 @@ profiles:
     bio: >-
       Blogger/Content creator IG: @daniduqued
     location: "United States"
-    followers: 79500
-    engagement: 564
-    commentsToLikes: 0.114618
+    followers: 79000
+    engagement: 634
+    commentsToLikes: 0.061245
     id: ck83ze1kuzx5q0j785dpzcl3r
     verified: false
-    hashtags: "#dothescottsslide, #turbotaxlivepick6, #thisorthatsblv, #getreadywitholdspice"
+    hashtags: "#babyboy, #fyp, #fashiontiktok, #valledelcocora"
   - username: "emilyanngemma5"
     fullname: >-
       EmilyAnnGemma
@@ -66,7 +54,7 @@ profiles:
     commentsToLikes: 0.012335
     id: ckb9h3tp76h1t0j23fp0bzhuh
     verified: true
-    hashtags: "#fashion101, #boo, #itbelikethat, #showyourtruecolors"
+    hashtags: "#dayinmylife, #closettour, #showyourtruecolors, #gimmesometruth"
   - username: "zofiacampos"
     fullname: >-
       Tik Toker
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.043292
     id: ckb9chtagza9c0j23zujmtis7
     verified: false
-    hashtags: "#fit, #abs, #latina, #mexicana"
+    hashtags: "#abs, #latina, #fit, #mexicana"
   - username: "jenniferstano"
     fullname: >-
       Jennifer Stano
@@ -91,6 +79,18 @@ profiles:
     id: ckb9fndrx43rj0j23rs94q9lx
     verified: false
     hashtags: "#fyp, #lgbt, #lgbtcouples, #8photos10videos"
+  - username: "karajewel"
+    fullname: >-
+      Kara Del Toro 
+    bio: >-
+      Insta: @Karajewelll Business@karadeltoro.net
+    location: "United States"
+    followers: 1400000
+    engagement: 906
+    commentsToLikes: 0.011409
+    id: ck80ordfojhz30j78j9pg2d8d
+    verified: true
+    hashtags: "#fyp, #hair, #selfie, #foryou"
   - username: "luzecita_bright8"
     fullname: >-
       Luz L 🇻🇪🇺🇸
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.107278
     id: ckb9l759odil60j23jr58e09v
     verified: false
-    hashtags: "#blackmenwithstyle, #over40tiktok, #fitover40, #weightlossjourney"
+    hashtags: "#fitover40, #weightlossjourney, #tiktokover40, #over40tiktok"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Berlin In 2023
+title: Top 10 Gaming TikTok Influencers In Berlin In 2024
 description: >-
-  Find top gaming TikTok influencers in Berlin in 2023. Most popular hashtags: #gaming #viral #berlin #fortnite.
+  Find top gaming TikTok influencers in Berlin in 2024. Most popular hashtags: #gaming #viral #fortnite #berlin.
 platform: TikTok
 hits: 7
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 7 TikTok influencers like this in Berlin, Germany for you to pitch.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform has 7 TikTok influencers like this in Berlin, Germany for you to work with.
 profiles:
   - username: "marvinvlogt"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.019646
     id: ckdck1hb3m1ih0j23q6i6xwbe
     verified: false
-    hashtags: "#fouyoupage, #sportwagen, #supercell, #opening"
+    hashtags: "#shopping, #supercell, #opening, #amg"
   - username: "tacfox_oo"
     fullname: >-
       Tacfox_Lala

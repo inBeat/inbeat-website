@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Singapore In 2023
+title: Top 10 Travel TikTok Influencers In Singapore In 2024
 description: >-
-  Find top travel TikTok influencers in Singapore in 2023. Most popular hashtags: #travel #fyp #foryoupage #tiktoksg.
+  Find top travel TikTok influencers in Singapore in 2024. Most popular hashtags: #travel #fyp #foryoupage #tiktoksg.
 platform: TikTok
 hits: 12
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 12 TikTok influencers like this in Singapore for you to collaborate.
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our database holds 12 TikTok influencers like this in Singapore for you to connect with.
 profiles:
   - username: "venusgwc"
     fullname: >-

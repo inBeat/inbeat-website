@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In Malaysia In 2023
+title: Top 10 Music Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top music Instagram influencers in Malaysia in 2023. Most popular hashtags: #cover #sunset #beach.
+  Find top music Instagram influencers in Malaysia in 2024. Most popular hashtags: #kualalumpur #kl #malaysia #ootd.
 platform: Instagram
-hits: 65
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 65 Instagram influencers like this in Malaysia for you to connect with.
+hits: 82
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 82 Instagram influencers like this in Malaysia for you to contact.
 profiles:
-  - username: "kuangtian_00"
+  - username: "dan_foong"
     fullname: >-
-      Kuang Tian 田士廣
+      Dan Foong
     bio: >-
-      Actor.Musician.
+      Travel | Lifestyle | Music 🌏 Sydney 🇦🇺 📮 danielfoong@hotmail.com 🔻 New YouTube Vid! 🎙
     location: "Malaysia"
-    followers: 12697
-    engagement: 1122
-    commentsToLikes: 0.018490
-    id: ck6tvrfo3nuhs0j717tuomitu
+    followers: 14558
+    engagement: 681
+    commentsToLikes: 0.033550
+    id: ck8t2cdxdyy6z0j78ryr36cbm
     verified: false
-    hashtags: "#malaysia, #supporting, #nuyou, #netflix"
-  - username: "angelachingwan"
+    hashtags: "#malaysian, #newzealand, #newzealandlife, #traveladdict"
+  - username: "heyyitsbowen"
     fullname: >-
-      許靖韻 Angela 小背心
+      BOWEN TIONG 張柏溫⍣ 🇲🇾
     bio: >-
-      EEG SINGER Music is life 💋 Job inquiry : angela.chingwan@gmail.com 《別為我好》《謝謝 對不起》￼👇🏻
+      Miss Tourism World Malaysia 16’RU👑 Law by day👩🏻‍💼 Music by night🎶 Voiceover, emcee & host🎤 Travel & lifestyle creator✈️ #FlyWithBowen #DineWithBowen
     location: "Malaysia"
-    followers: 127370
-    engagement: 394
-    commentsToLikes: 0.012632
-    id: ck0vxozc9005q0i19l9ph3w3d
+    followers: 93208
+    engagement: 324
+    commentsToLikes: 0.008120
+    id: ck55okr2n8jos0i115d40gov0
+    verified: false
+    hashtags: "#malaysia, #yuyuactive, #visittaipei, #skintightening"
+  - username: "mjisvicious"
+    fullname: >-
+      Melissa-Jo Lim
+    bio: >-
+      I play music as⚡️MJ⚡️📍KL 🇲🇾 Making people dance since 2012 🎧 Booking +601133129582 (Marshall)
+    location: "Malaysia"
+    followers: 28779
+    engagement: 183
+    commentsToLikes: 0.019740
+    id: ck6uaflol3abz0j71bszhx6ka
+    verified: false
+    hashtags: "#hiphopdj, #thailand, #fdj, #kualalumpur"
+  - username: "daphnecharice"
+    fullname: >-
+      DAPHNE D調
+    bio: >-
+      #deaftune music + pastry chef 💼For work | daphnecharicetan@gmail.com My songs 聽我的歌「死心塌地」& 「CLOSE TO 9」on kkbox & spotify
+    location: "Malaysia"
+    followers: 177963
+    engagement: 179
+    commentsToLikes: 0.004194
+    id: ck0vy22nw1v300i19q7ofwubg
+    verified: false
+    hashtags: "#daphinitelykuns, #diptyqueparis, #diptyque, #diptyquemy"
+  - username: "nameweephoto"
+    fullname: >-
+      黃明志
+    bio: >-
+      Contact us 合作事宜請洽 namewee.official@gmail.com 欲網購黃明志實體專輯及周邊商品請到。 Namewee Latest Music Albums & Merchandise
+    location: "Malaysia"
+    followers: 741112
+    engagement: 178
+    commentsToLikes: 0.005106
+    id: ck55ml0th47bx0i11v8a5uoma
     verified: true
-    hashtags: "#yahoo, #pipastyling, #kkbox, #blackpinkcover"
-  - username: "kayeepo"
+    hashtags: "#bigbirdtour, #hdanduncensored, #namewee, #whiteflag"
+  - username: "alenamurang"
     fullname: >-
-      譚嘉儀 𝒦𝒶𝓎𝑒𝑒 𝒯𝒶𝓂
+      Alena Murang
     bio: >-
-      Singer/ Actress/ TV Host, Music, Travel, Fashion, Motor Bike🏍 📩Job contact: Ella 💻Office : 2335 2305 ☎️ Email : ella.heung@tvb.com.hk 🎥My Latest MV
+      BORNEO | Kelabit Dayak tribe | Sape' Music Performs globally📍KL-based 🍃 Bookings: alenamurang.team@gmail.com @alenamurang_art @kanid.studio
     location: "Malaysia"
-    followers: 170188
-    engagement: 250
-    commentsToLikes: 0.015586
-    id: ck5c5ipe33jpk0i1117y74mln
+    followers: 51514
+    engagement: 151
+    commentsToLikes: 0.018999
+    id: ck15utvz2oien0i19wce36zcu
+    verified: false
+    hashtags: "#sape, #travelling, #travel, #dayak"
+  - username: "geraldine616"
+    fullname: >-
+      Geraldine颜慧萍🌵
+    bio: >-
+      Geraldine顏慧萍 🇲🇾 𝗦𝗶𝗻𝗴𝗲𝗿 | 𝗔𝗿𝘁𝗶𝘀𝘁𝗲 | 𝗩𝗼𝗰𝗮𝗹 𝗰𝗼𝗮𝗰𝗵 🎤 Music my philosophy GS CO Studio 果实工作室｜果实音乐教室 📞 +60167027495(Samuel) 💌 gs.costudio@gmail.com
+    location: "Malaysia"
+    followers: 61507
+    engagement: 115
+    commentsToLikes: 0.004959
+    id: ck6twwn69uiv80j71dy6p7m3x
     verified: true
-    hashtags: "#happysunday, #love, #youtubechannel, #kayeetam"
-  - username: "rimka"
-    fullname: >-
-      RIMKA
-    bio: >-
-      Bright fashion, dark music & positive energy ✨ DJ/Producer & Co founder: @unveil.atelier & @immigrant.clothing ⁣⁣ GET MY TA’DUM TRACK👇🏽
-    location: "Malaysia"
-    followers: 6771
-    engagement: 416
-    commentsToLikes: 0.072161
-    id: ck5bwkl90lvsm0i113cnfztxp
-    verified: false
-    hashtags: "#truth"
-  - username: "emceejesz"
-    fullname: >-
-      Kavithai Gundar Emcee Jesz
-    bio: >-
-      New Acc| Pioneer of Tamil HipHop | Natchatra Rap Artist |Actor |Producer | Lyricist Mentor Judge Host Music Producer#RAPPORKALAM #KGGANG#NERIKISEI
-    location: "Malaysia"
-    followers: 18102
-    engagement: 318
-    commentsToLikes: 0.015926
-    id: ck5zpq2p8t4lb0i14ssr28fw6
-    verified: false
-    hashtags: "#kggang, #tamilrap, #throwback, #2021"
-  - username: "karinahor"
-    fullname: >-
-      !             Karina🎀
-    bio: >-
-      Singer | Music | Travel 🎵 📩karinahor316@gmail.com ♥ 🎤 #Karina歌曲分享時間 💃🏻 #tripleHORdance ♥ Facebook🔍 www.facebook.com/karinahor ♥ YouTube頻道🎬
-    location: "Malaysia"
-    followers: 62902
-    engagement: 175
-    commentsToLikes: 0.007763
-    id: ck5q8bwfg5en20i11x293lypl
-    verified: false
-    hashtags: "#ootd, #instagood, #travel, #aroundtheworld"
-  - username: "ninamariedaniele"
-    fullname: >-
-      NINA DRAMA
-    bio: >-
-      My Myspace acct got deleted @ 3 Billion followers Social Inquiries 🤳🏻📧 leanne@musicbrandagency.com Follow me on my other channels ⬇️📺
-    location: "Malaysia"
-    followers: 913349
-    engagement: 543
-    commentsToLikes: 0.018502
-    id: ck14kbfwboow70i19q9gp9z06
-    verified: true
-    hashtags: "#instagramreels, #pubityreels, #relatable, #reels"
-  - username: "wafiyofficial._"
-    fullname: >-
-      PAID // GIVE REVIEW DM 👌
-    bio: >-
-      16|| 🇲🇾 Tiktok ; Muhammadwafiy Youtube🎥 WAFIY AZYRUL Label 📌 @star.musicrecords Manager @wafiy_officialfans Sec acc @wafiyofficial.__ @wafiyazyrul
-    location: "Malaysia"
-    followers: 146468
-    engagement: 732
-    commentsToLikes: 0.012040
-    id: ck8t45jru5kwg0j78ssxwlj58
-    verified: false
-    hashtags: "#fyp, #wafiycover, #lagujiwang, #malaysiancover"
-  - username: "smiretzymann"
-    fullname: >-
-      翁滋蔓 Smire
-    bio: >-
-      Actress, Host, News Anchor, Singer, Music Producer❤️⠀ 📍工作或合作請連繫email：mannorange@gmail.com 📍IG僅此一個帳號😊 📍Facebook：
-    location: "Malaysia"
-    followers: 88818
-    engagement: 360
-    commentsToLikes: 0.008123
-    id: ck14jz2hzmw3f0i19iwm5vq2a
-    verified: true
-    hashtags: "#smire, #sunset, #golfer, #golfclubs"
+    hashtags: "#throwback, #hokkaido, #2016, #kitajagakita"
   - username: "ericexploreshotels"
     fullname: >-
       Eʀɪᴄ (Rɪᴄᴋʏ) Cᴀʀᴛᴇʀ Hᴀʜ
     bio: >-
-      Music producer. Love exploring hotels and checking out what’s new. Now posting Langkawi, 🇲🇾. Next destination, KL, 🇲🇾.
+      Music producer. Love exploring hotels and checking out what’s new. Now posting Penang, 🇲🇾. Next stop, Kuala Lumpur.
     location: "Malaysia"
-    followers: 29534
-    engagement: 123
-    commentsToLikes: 0.034387
+    followers: 35229
+    engagement: 106
+    commentsToLikes: 0.039450
     id: ck6tpt0rgmm9m0j71f2cv842j
     verified: false
-    hashtags: "#dusk, #rcmemories, #langkawi, #theandamanlangkawi"
+    hashtags: "#luxuryhotelsworld, #kul, #suitelife, #oneworldalliance"
+  - username: "rimka"
+    fullname: >-
+      RIMKA
+    bio: >-
+      Bright fashion, ethnic dance music & positive energy✨ DJ/Producer & Fashion Entrepreneur 𝗦𝘄𝗲𝗮𝘁𝗯𝗼𝘅 𝗥𝗲𝗰𝗼𝗿𝗱𝘀|𝗟𝘂𝗺𝗽 𝗥𝗲𝗰𝗼𝗿𝗱𝘀|𝗩𝗼𝘆𝗲𝘂𝗿 𝗠𝘂𝘀𝗶𝗰 ⁣⁣ CONNECT👇🏽
+    location: "Malaysia"
+    followers: 8605
+    engagement: 74
+    commentsToLikes: 0.010304
+    id: ck5bwkl90lvsm0i113cnfztxp
+    verified: false
+    hashtags: "#melodictechno, #djontour, #ironfairies, #wkualalumpur"
+  - username: "yazmin.aziz"
+    fullname: >-
+      Yazmin Aziz
+    bio: >-
+      Malaysian🇲🇾 Filipino🇵🇭 1.5M TikTok 💫 Singer•Songwriter•Creator•Host•Actress Music|Lifestyle|Travel|Beauty|Fashion Inquiries: +60126458660 @besprenns
+    location: "Malaysia"
+    followers: 177238
+    engagement: 20
+    commentsToLikes: 0.010832
+    id: ck5zoo1sqqydx0i14beohvb9g
+    verified: false
+    hashtags: "#yoodoityourway, #lokalah, #localindie, #yoodoyou"
 ---

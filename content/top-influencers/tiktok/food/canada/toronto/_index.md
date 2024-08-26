@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Toronto In 2023
+title: Top 10 Food TikTok Influencers In Toronto In 2024
 description: >-
-  Find top food TikTok influencers in Toronto in 2023. Most popular hashtags: #toronto #fyp #food #foryoupage.
+  Find top food TikTok influencers in Toronto in 2024. Most popular hashtags: #toronto #fyp #food #foryoupage.
 platform: TikTok
-hits: 68
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 68 TikTok influencers like this in Toronto, Canada for you to connect with.
+hits: 70
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 70 TikTok influencers like this in Toronto, Canada for you to connect with.
 profiles:
   - username: "_sarahmeii"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.011624
     id: ck8qe49wfr1dn0j78d7ralh5i
     verified: false
-    hashtags: "#toronto, #bts, #learnwithme, #torontofood"
+    hashtags: "#toronto, #bubbletea, #bubblemilktea, #asianfood"
   - username: "abeckawitdahoodie"
     fullname: >-
       Becka Carolyn
@@ -103,18 +103,18 @@ profiles:
     id: ckcuxdiiam0st0j23wdqo7fhd
     verified: false
     hashtags: "#love, #stayhomeon, #foryoupage, #montreal"
-  - username: "shoshanarose"
+  - username: "realmofakemo"
     fullname: >-
-      Shoshana Rose
+      costco queen
     bio: >-
-      This is my excuse to dance on the Internet shoshana@metabeautymgmt.com Toronto
+      🤍
     location: "Canada"
-    followers: 18300
-    engagement: 704
-    commentsToLikes: 0.015748
-    id: ck90r2hutkva30j78ousc53so
+    followers: 440300
+    engagement: 1429
+    commentsToLikes: 0.009506
+    id: ck9fy5l2i9brk0j78y5r89ee3
     verified: false
-    hashtags: "#foryourpage, #toronto, #fyp, #torontofood"
+    hashtags: "#blogto, #mom, #fyp, #love"
   - username: "pressuretodiamonds"
     fullname: >-
       PressureToDiamonds

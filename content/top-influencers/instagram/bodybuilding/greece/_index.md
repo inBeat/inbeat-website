@@ -1,12 +1,24 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Greece In 2023
+title: Top 10 Bodybuilding Instagram Influencers In Greece In 2024
 description: >-
-  Find top bodybuilding Instagram influencers in Greece in 2023. Most popular hashtags: #bodybuilding #motivation #instagood #fitfam.
+  Find top bodybuilding Instagram influencers in Greece in 2024. Most popular hashtags: #bodybuilding #fitness #motivation #photography.
 platform: Instagram
-hits: 8
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 8 Instagram influencers like this in Greece for you to collaborate.
+hits: 11
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 11 Instagram influencers like this in Greece for you to connect with.
 profiles:
+  - username: "slidismode"
+    fullname: >-
+      Yevhen Shein
+    bio: >-
+      📍LA🇺🇸 🥇Guinness World Record ‘23 🏆Streetlifting x 7 🍋TikTok- 1.8m 🇬🇷Greece Got Talent Finalist ⭐️Sponsor-@gymbeamgr 👇Discount Code - slidis5 👕Merch👇
+    location: "Greece"
+    followers: 443702
+    engagement: 1425
+    commentsToLikes: 0.007265
+    id: ck5zq942xu61n0i14wb6f1t8q
+    verified: false
+    hashtags: "#bodybuilding, #calisthenics, #reactions, #reaction"
   - username: "stella.christoforou"
     fullname: >-
       Sᴛᴇʟʟᴀ Cʜʀɪsᴛᴏғᴏʀᴏᴜ
@@ -31,30 +43,54 @@ profiles:
     id: ck6ty8vd52bhx0j7108v0z2mp
     verified: false
     hashtags: "#pecs, #fitfam, #progress, #hunk"
-  - username: "slidismode"
+  - username: "marilenaschizodimou"
     fullname: >-
-      Eugenios
+      Marilena Schizodimou
     bio: >-
-      🇬🇷 🥇FIBO '18 Street Lifting 🥇x5 National Street Lifting 🎖Greece Got Talent Finalist 💪@gymbeamgr Athlete 🌟Sponsors - @legacyapparel.gr & @creapure
+      ᴰᵃⁿᵃⁱ'ˢᵐᵒᵐ✨ᶜᵃˡⁱˢᵗʰᵉⁿⁱᶜˢ🤸🏻‍♀️ᵃⁿⁱᵐᵃˡᵐᵒᵛᵉᵐᵉⁿᵗᶜᵒᵃᶜʰ🐆ᵃʳᵗⁱˢᵗ 🎨ᶜʰⁱʳᵒᵖʳᵃᶜᵗᵒʳ 🌐ᵒʷⁿᵉʳᵒᶠ @mst.workout @chromataneochori @hobo_donkey @cadillac_records_bar ˡᵒᵛᵉʳ
     location: "Greece"
-    followers: 84093
-    engagement: 851
-    commentsToLikes: 0.013545
-    id: ck5zq942xu61n0i14wb6f1t8q
+    followers: 10338
+    engagement: 533
+    commentsToLikes: 0.021057
+    id: ckf5o70de15w00j238ln8ha5b
     verified: false
-    hashtags: "#calistenia, #gymbeamgr, #gymbeam, #physique"
-  - username: "dimitris_alexandrou"
+    hashtags: "#msttraining, #chromataneochori, #art, #bohostyle"
+  - username: "gspaliaras"
     fullname: >-
-      Dimitris Alexandrou
+      Giannis Spaliaras
     bio: >-
-      Owner @thebillians_cafe_bar ⚡️ Judge @stylemeupgreece - @opentvgr 📩: dimitrissti@msn.com
+      Μπείτε και δείτε το νέο μου σποτ 👇 El Señor de los Cielos Salman Farsi @zoobox.gr https://youtu.be/199DODENcEQ
     location: "Greece"
-    followers: 209743
-    engagement: 472
-    commentsToLikes: 0.153625
-    id: ck6tiopin14iu0j71rwojjkj8
-    verified: true
-    hashtags: "#friends, #newtree, #model, #lovefornature"
+    followers: 123160
+    engagement: 172
+    commentsToLikes: 0.027858
+    id: ck5ckprvwxdez0i11dc7oi2bk
+    verified: false
+    hashtags: "#mensfashion, #malemodel, #male, #menstyle"
+  - username: "samantha__elizabeth_"
+    fullname: >-
+      Samantha Elizabeth
+    bio: >-
+      my virtual diary 🤍 self love
+    location: "Greece"
+    followers: 17276
+    engagement: 172
+    commentsToLikes: 0.046983
+    id: ck6u7yci7odz40j717n7m5k2n
+    verified: false
+    hashtags: "#loveyourself, #bodypositive, #pregnancy, #bodypositivity"
+  - username: "shani_amit"
+    fullname: >-
+      Shani Amit
+    bio: >-
+      A Girl with a Big ❤️ Tommy׳s Mom 💙🍼 Luxury Worldwide Traveler ✈️ Lifestyle Content Creator
+    location: "Greece"
+    followers: 106194
+    engagement: 165
+    commentsToLikes: 0.062403
+    id: ckap382br1y2s0i783q0j9z24
+    verified: false
+    hashtags: "#instagood, #likeforfollow, #new, #explore"
   - username: "_kolokouris"
     fullname: >-
       𝑮𝒊𝒘𝒓𝒈𝒐𝒔 𝑲𝒐𝒍𝒐𝒌𝒐𝒖𝒓𝒊𝒔
@@ -91,16 +127,4 @@ profiles:
     id: ck8tb1u47tzyl0j783hsyuh61
     verified: false
     hashtags: "#bhfyp, #follow, #training, #fitfam"
-  - username: "spirosgrammenos_"
-    fullname: >-
-      Σπύρος Γραμμένος
-    bio: >-
-      Τραγουδοποιός #Influencer Συστημικός κονφερανσιέ Παραμυθάς Beauty Editor Χερ στάιλερ Λάιφ κόουτσερ Φάσιον άικον Επόμενος στόχος: #eurovision2021
-    location: "Greece"
-    followers: 14010
-    engagement: 827
-    commentsToLikes: 0.009442
-    id: ck6tiok73148u0j71vzi74mgl
-    verified: false
-    hashtags: "#grammenoslive, #grammentinos, #marketing, #coffe"
 ---

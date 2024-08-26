@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Australia In 2023
+title: Top 10 Bodybuilding Instagram Influencers In Australia In 2024
 description: >-
-  Find top bodybuilding Instagram influencers in Australia in 2023. Most popular hashtags: #bodybuilding #fitness #motivation #love.
+  Find top bodybuilding Instagram influencers in Australia in 2024. Most popular hashtags: #bodybuilding #fitness #gym #gymmotivation.
 platform: Instagram
-hits: 43
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: inBeat has 43 Instagram influencers like this in Australia for you to collaborate.
+hits: 83
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform has 83 Instagram influencers like this in Australia for you to pitch.
 profiles:
   - username: "teannabornfitness"
     fullname: >-
@@ -31,100 +31,100 @@ profiles:
     id: ck5homictptp50i111t4un8ah
     verified: false
     hashtags: "#cheersbigears, #christmas2020, #2021, #throwbackthursday"
-  - username: "sarahmarie_ifbbpro"
+  - username: "morganeldrett"
     fullname: >-
-      🎀BUILDERELLA🎀
+      MORGAN ELDRETT | IFBB BIKINI PRO
     bio: >-
-      🇺🇸 🇦🇺 🏆IFBB PRO WPD 🏆 ⚓️ Ex Australian Navy ⚓️ Online Coach Athlete Manager @revive_md_middleeast @getrawnutrition.middleeast @regoraw @rawfoodsdxb
+      💪🏽🥦🧘🏼‍♀️🌴 ▪️ @ryderwear @67bikinis ▪️ POSING / COACHING INFO & LINKS 👇🏼
     location: "Australia"
-    followers: 108491
-    engagement: 108
-    commentsToLikes: 0.040699
-    id: ckaou358syl3a0i7871cv7xr3
+    followers: 15211
+    engagement: 401
+    commentsToLikes: 0.026475
+    id: cksjxnrhjcuyr0j23geepdmjg
     verified: false
-    hashtags: "#fit, #gym, #legworkout, #womenbodybuilding"
-  - username: "maz_dan"
+    hashtags: "#bodybuilder, #bikinicompetitor, #gymmotivation, #ifbbpro"
+  - username: "josephmencel"
     fullname: >-
-      Dan Mazzola WBFF PRO
+      Joseph Mencel
     bio: >-
-      📉 Click link for coaching 🏅 WBFF PRO Muscle Model Champion 🏆 Director @wbffnewzealand 💊 @ehplabs 🛒 DANMAZ10 💪🏽 @nzmuscle 🛒 DANMAZ1
+      CEO @MJFitness.AU @TMJApparel Husband To @AmyMencel Fitness x Business Podcast Host IFBB Mens Physique Pro IFBB Pro League Promoter Lifelong Learner
     location: "Australia"
-    followers: 34250
-    engagement: 111
-    commentsToLikes: 0.067023
-    id: ck5c8efxp9azu0i119rwt67hd
+    followers: 28742
+    engagement: 513
+    commentsToLikes: 0.010418
+    id: ck0w5p9r04s2d0i192jtbb4bp
     verified: false
-    hashtags: "#teamehplabs, #motivation, #classicphysique, #ehplabs"
-  - username: "millyturleyfit"
+    hashtags: "#bodybuilding, #fitness, #ifbbproleague, #workout"
+  - username: "sophii_maree"
     fullname: >-
-      Milly
+      SOPHIE MAREE HULL
     bio: >-
-      21 | Perth Australia @velocity.au ✨ @pescience Athlete = MILLY 𝗧𝗥𝗔𝗜𝗡𝗜𝗡𝗚 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗦 & 𝗠𝗘𝗔𝗟 𝗣𝗟𝗔𝗡𝗦 = @millytfit
+      🌎 Online fitness & nutrition coaching @ultra_bodies 👠 Pose with me @natkitneyposingcoach 💪🏼 @ruleoneproteins_au athlete
     location: "Australia"
-    followers: 31651
-    engagement: 866
-    commentsToLikes: 0.019979
-    id: ck6tqqopitaz50j71rgsk3m5d
+    followers: 70287
+    engagement: 3505
+    commentsToLikes: 0.088005
+    id: clb9x8scx7oq90i23f02h4rwy
     verified: false
-    hashtags: "#motivation, #love, #health, #gymlife"
-  - username: "karl_drogoo"
+    hashtags: "#fitchick, #fitnessmumma, #fitfam, #rule1"
+  - username: "vi1islav"
     fullname: >-
-      Karl Di Falco
+      VILISLAV
     bio: >-
-      5x Aus Champion Powerlifting Australia - U/69kg ICN Victoria President & Physique athlete ASN Strength Coach strength.power.speed.aesthetics
+      From Bulgaria 🇧🇬 to the world 🌍 Travel Blogger 📝 Wanderer✈️ Dreamer 🔮 Inspirator 🌈 Check out my latest blog 🌎🧳⤵️
     location: "Australia"
-    followers: 2351
-    engagement: 994
-    commentsToLikes: 0.100754
-    id: ck134kkf8wvjv0i19g8msu7oh
+    followers: 26454
+    engagement: 463
+    commentsToLikes: 0.017273
+    id: ck0u0v5p7uwkk0i190smx7tbz
     verified: false
-    hashtags: "#sbd, #powerbuilding, #bodybuilding, #powerlifting"
-  - username: "iamshimakhosravi"
+    hashtags: "#gym, #gymbody, #traveler, #beautiful"
+  - username: "kamaldip_kahma_"
     fullname: >-
-      shima khosravi
+      Kamaldip Singh Kahma
     bio: >-
-      Model, Actress, Stylist, Makeup artist,📍SYDNEY.🇭🇲 @shimakhosravimua @stylebyshima
+      
     location: "Australia"
-    followers: 16116
-    engagement: 230
-    commentsToLikes: 0.134970
-    id: ck6tq2ll0p2040j71ojmm7o19
+    followers: 238631
+    engagement: 340
+    commentsToLikes: 0.010374
+    id: ck8wflhmwfwda0j78jpzmwxx7
     verified: false
-    hashtags: "#makeuplook, #beauty, #photoshoot, #beautiful"
-  - username: "tara.nicole.jenkins"
+    hashtags: "#kahmagym, #gymlovers, #singh, #gymlife"
+  - username: "kaisakuusnomm"
     fullname: >-
-      Tara Jenkins 🙋🏼‍♀️
+      Kaisa Kuusnõmm•Kaisafitness.ee
     bio: >-
-      🏋🏼‍♀️ Online Coach 💪🏼 I build fit & strong bodies Sponsored by @legear_official @trueprotein - TARA @hexxeeofficial - TARA20 Join my team 👇🏼
+      🇪🇪IFBB Elite Pro Bikini 🔜 IFBB Pro Bikini 😎 📍From Estonia, living in Perth, AUS 👇Toitumiskavade ja sooduskoodide lingid👇
     location: "Australia"
-    followers: 157783
-    engagement: 286
-    commentsToLikes: 0.013726
-    id: ckap1zpsuwr7q0i78uhsvjht0
+    followers: 24751
+    engagement: 520
+    commentsToLikes: 0.122837
+    id: ckapcgbrp3p3n0i78wep6z3jb
     verified: false
-    hashtags: "#trueprotein, #ad, #bodybuilding, #thenaturaledge"
-  - username: "apasionese"
+    hashtags: "#glutes, #fitbody, #fitstagram, #bodybuilding"
+  - username: "aliraza_ifbbpro"
     fullname: >-
-      Justin Chong
+      Ali Raza
     bio: >-
-      Internationally Published Photographer Based in Singapore Taking a short break at the moment to get my life back together
+      📍Melbourne 🇦🇺 First 🇵🇰 🇭🇲 Ifbb men's physique pro Coaching inquiries @teamrazor.coaching #thechestwizard 🧙#teamrazor 🔪
     location: "Australia"
-    followers: 64423
-    engagement: 192
-    commentsToLikes: 0.009225
-    id: ck5ca6fetcsfe0i1177qr7j80
+    followers: 85273
+    engagement: 287
+    commentsToLikes: 0.031922
+    id: ck5bwbsk4le6g0i11zaummp0e
     verified: false
-    hashtags: "#athlete, #sportsmodel, #flexfriday, #photooftheday"
-  - username: "laurencarre_ifbbpro"
+    hashtags: "#gym, #alirazaifbbpro, #poselikeapro, #ifbbpro"
+  - username: "angelmaybowyer"
     fullname: >-
-      LAUREN CARRÉ📍Montañita
+      ANGEL MAY
     bio: >-
-      ✈️Travelling the world ✨I help you realise your full potential 🤸‍♀️IFBB Fitness PRO 👩‍💻Online Coach 🥋 8 X World Karate Champion ⬇️YouTube/OnlyFans
+      @cloudninestudiosyd ☁️ @fashionnova ambassador ✉️ kat@solmgmt.com.au
     location: "Australia"
-    followers: 45519
-    engagement: 115
-    commentsToLikes: 0.038962
-    id: ckap6178ne0ty0i78qrpnh0kg
+    followers: 256771
+    engagement: 250
+    commentsToLikes: 0.032055
+    id: ck5bwur9ymgd80i110snkk2fw
     verified: false
-    hashtags: "#puyo, #explore, #travelling, #antalya"
+    hashtags: "#fashionphotography, #lifestyle, #style, #outfitoftheday"
 ---

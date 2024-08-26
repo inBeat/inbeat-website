@@ -1,12 +1,60 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Los Angeles In 2023
+title: Top 10 Makeup Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top makeup Instagram influencers in Los Angeles in 2023. Most popular hashtags: #makeup #losangeles #beauty #makeupartist.
+  Find top makeup Instagram influencers in Los Angeles in 2024. Most popular hashtags: #makeup #losangeles #makeupartist #lamodels.
 platform: Instagram
-hits: 589
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 589 Instagram influencers like this in Los Angeles, United States for you to contact.
+hits: 715
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 715 Instagram influencers like this in Los Angeles, United States for you to work with.
 profiles:
+  - username: "hildduuh"
+    fullname: >-
+      Hilda Franco (Latina Creator)
+    bio: >-
+      Beauty, chatty vlogs & giggles hehe Los Angeles born & raised ☀️Salvadoreña 🇸🇻 @daletucreators 💌:hildafrancomgmt@gmail.com
+    location: "United States"
+    followers: 3542
+    engagement: 850
+    commentsToLikes: 0.283689
+    id: clix7ddjg71wz0j08lkvbsydl
+    verified: false
+    hashtags: "#beautycreator, #latinacreator, #cleanbeauty, #grwm"
+  - username: "athiiing"
+    fullname: >-
+      Athing Mu (uh-thing moe)
+    bio: >-
+      @alliancesports | @eagsports | @formulakersee
+    location: "United States"
+    followers: 166760
+    engagement: 814
+    commentsToLikes: 0.010339
+    id: ck0w26w41mw870i1913954tp6
+    verified: false
+    hashtags: "#fashion, #makeup, #losangeles, #brandonmiller"
+  - username: "patricialeofficial"
+    fullname: >-
+      ᴘᴀᴛʀɪᴄɪᴀ ʟᴇ
+    bio: >-
+      ᴍᴀᴋᴇ ᴜᴘ & ʜᴀɪʀ sᴀʟᴇs & ᴇᴅᴜᴄᴀᴛɪᴏɴ ᴇxᴇᴄᴜᴛɪᴠᴇ @genseebeauty ʟᴏs ᴀɴɢᴇʟᴇs📍 ⬇️sʜᴏᴘ ᴍʏ ғᴀᴠᴏʀɪᴛᴇ⬇️ #GoBeBeautiful #BeautyBusiness #CosmeticsProfessional
+    location: "United States"
+    followers: 82017
+    engagement: 238
+    commentsToLikes: 0.036712
+    id: ckf5xk1bfvxes0j23pwfuw88k
+    verified: false
+    hashtags: "#skincareroutine, #luxurybrands, #makeupfree, #artist"
+  - username: "annaiiix"
+    fullname: >-
+      •𝙰𝙽𝙽𝙰 𝚈𝚄𝚁𝙺𝙾𝚅𝙰•
+    bio: >-
+      𝕞𝕒: @statemgmt 🇺🇸 🥑 @littleavoxado 📍 𝕟𝕖𝕨 𝕪𝕠𝕣𝕜 / 𝕝𝕠𝕤 𝕒𝕟𝕘𝕖𝕝𝕖𝕤
+    location: "United States"
+    followers: 10816
+    engagement: 636
+    commentsToLikes: 0.067913
+    id: ck5bwn8bcm0wd0i11qg4ylxi9
+    verified: false
+    hashtags: "#editorialphotography, #modelshoot, #lamodels, #lamodel"
   - username: "andremarie_"
     fullname: >-
       Andre • Marie
@@ -18,7 +66,7 @@ profiles:
     commentsToLikes: 0.044133
     id: ckaorvdzmowzv0i78c502inao
     verified: false
-    hashtags: "#la, #reels, #makeup, #losangeles"
+    hashtags: "#reels, #trending, #lamodels, #la"
   - username: "glammedbyiggy"
     fullname: >-
       𝐆𝐋𝐀𝐌𝐌𝐄𝐃 𝐁𝐘 𝐈𝐆𝐆𝐘
@@ -31,100 +79,52 @@ profiles:
     id: ck14hsobebxmd0i19m4nxgcpc
     verified: false
     hashtags: "#glow, #makeuplooks, #mua, #makeupbyme"
-  - username: "tedgibson"
+  - username: "rosetteluve"
     fullname: >-
-      Ted Gibson
+      Rosette
     bio: >-
-      @STARRING By @tedgibson #starringsalonconcept #salon #products agent kelly@tmg-la.com #LOSANGELES
+      Singer/Songwriter 🎶💃🏽 Entertainer 👩🏽‍🎤 Ambassador @theperfectdermapeel Voiceover/Actress info@rosetteluve.com Content house @honeydripgirls
     location: "United States"
-    followers: 264809
-    engagement: 113
-    commentsToLikes: 0.279681
-    id: ck5hdv92ipjnw0i11b1f19hdi
+    followers: 43263
+    engagement: 227
+    commentsToLikes: 0.126606
+    id: ck0tywfltockw0i198si5en98
     verified: true
-    hashtags: "#shootingstar, #curlingiron, #life, #haircrush"
-  - username: "elviraisqueen"
+    hashtags: "#comedy, #makeup, #losangeles, #sundayfunday"
+  - username: "reneemadeulook"
     fullname: >-
-      Elvira Photos, Updates & More
+      RENEE
     bio: >-
-      ‼️I am NOT Elvira, JUST A FAN‼️Follow Elvira’s OFFICIAL Instagram @TheRealElvira👑💋 Buy the latest Officially Licensed Elvira merchandise at elvira.com
+      Makeup Artist NYC/LA ✈️✨ @theonly.agency 🔴 Contact 📧 michael@theonly.agency #reneemadeulook 💫💄
     location: "United States"
-    followers: 8833
-    engagement: 669
-    commentsToLikes: 0.019484
-    id: ck6tn5kmv96f80j71wuipcgms
+    followers: 28845
+    engagement: 214
+    commentsToLikes: 0.090906
+    id: ck6tsa3xr3lm30j71zyikdhxw
     verified: false
-    hashtags: "#ageless, #elvirafans, #stayhome, #cassandrapeterson"
-  - username: "maximignite"
+    hashtags: "#glam, #softglam, #makeup, #losangeles"
+  - username: "debramacki"
     fullname: >-
-      M a x i m   S l o b o d i a n
+      Salem MA & Los Angeles Makeup Artist
     bio: >-
-      👽 On a mission to share the Sky with 1,000,000 souls and ignite your life forever. We all can touch the sky ✋🏽⛅️✨
+      📍 October: Salem MA 📍November: Los Angeles CA ✨Luxury Makeup for photo/tv/film/events ✨Makeup Artist Classes 25+ yrs. as Celeb MUA & Glitter Witch
     location: "United States"
-    followers: 153255
-    engagement: 481
-    commentsToLikes: 0.015970
-    id: ck601on30fvyr0i14a4vcetvh
+    followers: 50819
+    engagement: 8
+    commentsToLikes: 0.000000
+    id: ck0w3jhivtqcn0i19dcdfssvf
     verified: false
-    hashtags: "#instagood, #insta, #sunrise, #gopro"
-  - username: "patricialemakeup"
+    hashtags: "#salemmamakeupartist, #lamakeupartist, #guccibeauty, #melindamaria"
+  - username: "nadiaperixo"
     fullname: >-
-      ᴘᴀᴛʀɪᴄɪᴀ ʟᴇ
+      N A D I A  P E R I 🦚
     bio: >-
-      ᴄᴏsᴍᴇᴛɪᴄ ᴄᴏɴsᴜʟᴛᴀɴᴛ ʟᴏs ᴀɴɢᴇʟᴇs📍 ɴoтιғιcαтιoɴѕ 🆕 ᴍᴀᴋᴇ ᴜᴘ & ʜᴀɪʀ ⬇️ᴘʀ-sᴘᴏɴsᴇʀ-ʀᴀᴛᴇ⬇️
+      🇮🇷🇬🇧🇵🇱🇮🇪 born in 🇦🇺🐨 @bicoastalmgmt 📍LA Model/Content creator Beauty + Fashion || 🎗️Leukaemia survivor 📧nadiapericontact@gmail.com faves ⬇️
     location: "United States"
-    followers: 92685
-    engagement: 302
-    commentsToLikes: 0.027158
-    id: ckf5xk1bfvxes0j23pwfuw88k
+    followers: 27013
+    engagement: 39
+    commentsToLikes: 0.032036
+    id: ck15q4qdz13970i1945z2p7hy
     verified: false
-    hashtags: "#beauty, #makeupaddiction, #fbf, #makeuptutorial"
-  - username: "eexla"
-    fullname: >-
-      Alexander
-    bio: >-
-      Makeup Artist | Los Angeles Book: contacteexla@gmail.com Nail Page @eexlanails
-    location: "United States"
-    followers: 47069
-    engagement: 341
-    commentsToLikes: 0.039170
-    id: ck0ub1tfddjdb0i19x44nntay
-    verified: false
-    hashtags: ""
-  - username: "livmadorma"
-    fullname: >-
-      olivia
-    bio: >-
-      makeup artist los angeles, ca 📍 dog mommy to @pestopaul
-    location: "United States"
-    followers: 26154
-    engagement: 525
-    commentsToLikes: 0.053073
-    id: ck5hjf11igifw0i114525vvve
-    verified: false
-    hashtags: "#ipsypartner, #coverfxpartner"
-  - username: "indigorusnak"
-    fullname: >-
-      indigo
-    bio: >-
-      ✿ makeup designory los angeles graduate ✿ personal ig/tiktok: @psilocindigo ✿ business email: brusnakmakeup@gmail.com
-    location: "United States"
-    followers: 32195
-    engagement: 338
-    commentsToLikes: 0.016140
-    id: ck0w2hsg9ofl30i19mmsu3wb1
-    verified: false
-    hashtags: "#neon, #editorial, #graphiceyeliner, #tiktok"
-  - username: "ariannachayleneblean"
-    fullname: >-
-      Arianna Chaylene Blean
-    bio: >-
-      Hairstylist ✨ Makeup Artist | Los Angeles Management: v@rare.global | @rare.creatives 💌ariannablean@yahoo.com
-    location: "United States"
-    followers: 32920
-    engagement: 66
-    commentsToLikes: 0.122529
-    id: ck6u4w7zo652o0j71qew3v65p
-    verified: false
-    hashtags: "#photoshoot, #benefitcosmetics, #mermaid, #hudabeauty"
+    hashtags: "#persian, #meshki, #lamodels, #fashioninspo"
 ---

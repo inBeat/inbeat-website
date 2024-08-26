@@ -1,24 +1,72 @@
 ---
-title: Top 10 Music Instagram Influencers In Belgium In 2023
+title: Top 10 Music Instagram Influencers In Belgium In 2024
 description: >-
-  Find top music Instagram influencers in Belgium in 2023. Most popular hashtags: #music #summer #friends.
+  Find top music Instagram influencers in Belgium in 2024. Most popular hashtags: #music #mainstage #summer.
 platform: Instagram
-hits: 41
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our database holds 41 Instagram influencers like this in Belgium for you to pitch.
+hits: 57
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 57 Instagram influencers like this in Belgium for you to work with.
 profiles:
+  - username: "frederikopdeweegh"
+    fullname: >-
+      Frederik Opdeweegh
+    bio: >-
+      Photographer | Musician Prints available.
+    location: "Belgium"
+    followers: 16314
+    engagement: 9823
+    commentsToLikes: 0.025057
+    id: ck0udpt9xjm680i19xo0v180j
+    verified: false
+    hashtags: "#iceland, #bavaria"
+  - username: "retrovision"
+    fullname: >-
+      RetroVision
+    bio: >-
+      MORE BASS ⚡️ MORE GOOD Bookings: timo@aceagency.com New music over here ⬇️
+    location: "Belgium"
+    followers: 89973
+    engagement: 321
+    commentsToLikes: 0.038727
+    id: ck0w0t1x6fw6q0i19pnr0ng24
+    verified: false
+    hashtags: "#music, #hiphop, #retrovision, #newmusicfriday"
   - username: "djlicious_official"
     fullname: >-
       Dj Licious
     bio: >-
-      📥 mgmt@djlicious.be 📀 My label @shomirecords 📍Belgium 🎶 New music & latest updates ⬇️
+      💿 Platinum selling artist 📥 mgmt@djlicious.be 📀 My label @shomirecords 🎶 New music & latest updates ⬇️
     location: "Belgium"
-    followers: 25746
-    engagement: 168
-    commentsToLikes: 0.096200
+    followers: 35125
+    engagement: 23
+    commentsToLikes: 0.013818
     id: ck5hpuj3wrzsa0i11mpfkd6a7
     verified: true
-    hashtags: "#smile, #stubru, #love, #armenpaul"
+    hashtags: "#electronicmusic, #djlicious, #lexblaze, #tomorrowland"
+  - username: "pukkelpop"
+    fullname: >-
+      Pukkelpop
+    bio: >-
+      Music festival in Kiewit, Hasselt (Belgium 🇧🇪) #PKP23 • 17, 18, 19 & 20 August
+    location: "Belgium"
+    followers: 113038
+    engagement: 98
+    commentsToLikes: 0.009426
+    id: ck0ttqnh43w420i19ep9fxz2e
+    verified: true
+    hashtags: "#spoton, #arfarf, #turnstile, #hardcore"
+  - username: "weraveyou"
+    fullname: >-
+      We Rave You
+    bio: >-
+      | dance music mag: news + interviews + tech | 300+ million reel views | @weraveyou.techno
+    location: "Belgium"
+    followers: 354351
+    engagement: 93
+    commentsToLikes: 0.016372
+    id: ck0u88xnm6skg0i19grwe1z4q
+    verified: false
+    hashtags: "#edmfamily, #festivallife, #edmlove, #musicfestival"
   - username: "romeoblanco"
     fullname: >-
       Romeo Blanco
@@ -66,7 +114,7 @@ profiles:
     commentsToLikes: 0.009843
     id: ck15rhntb7zc90i19ln9lnfjr
     verified: false
-    hashtags: "#fashion, #outfits, #blogger, #modeling"
+    hashtags: "#ootdinspiration, #ootdshare, #jeans, #black"
   - username: "milowofficial"
     fullname: >-
       Milow
@@ -79,52 +127,4 @@ profiles:
     id: ck0u0jciwty870i19l7ioutv2
     verified: true
     hashtags: "#zdf, #bauhausuni, #uniweimar, #3sat"
-  - username: "yellowstraps"
-    fullname: >-
-      YellowBoy making love music
-    bio: >-
-      I do make music It's only Love Next Live Show, Brussels, Sept 8th, Tix available 👇🏾
-    location: "Belgium"
-    followers: 21339
-    engagement: 523
-    commentsToLikes: 0.026898
-    id: ck0vvnv70pyfv0i19233ctpag
-    verified: true
-    hashtags: ""
-  - username: "quintino"
-    fullname: >-
-      QUINTINO
-    bio: >-
-      NEW MUSIC!!! ‘MAKE IT LOUDER’ IS OUT NOW!! 📢 👇
-    location: "Belgium"
-    followers: 862325
-    engagement: 85
-    commentsToLikes: 0.016258
-    id: ck0uet2pmm60l0i19n8uwcdbk
-    verified: true
-    hashtags: ""
-  - username: "zoevangastel_"
-    fullname: >-
-      Zoe van Gastel
-    bio: >-
-      I only dance when the music is really good Creative dir. & partner @nativenationeu 📍always very close to @domienloubry
-    location: "Belgium"
-    followers: 54739
-    engagement: 132
-    commentsToLikes: 0.026506
-    id: ckap35hwm1n4n0i78xnfveoao
-    verified: false
-    hashtags: "#puglove, #mallorca2020, #mopshond, #instapug"
-  - username: "davidscorzofficial"
-    fullname: >-
-      David Scorz
-    bio: >-
-      🎧 MUSIC PRODUCER/SOUND DESIGNER 📚 DAILY PRODUCER TIPS/TRICKS 👉🏼 Artist alias @outdonemusic Support me by becoming a patreon!👇🏻
-    location: "Belgium"
-    followers: 37090
-    engagement: 395
-    commentsToLikes: 0.019705
-    id: ck8tclf7rztk80j78z5gngo5i
-    verified: false
-    hashtags: ""
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Seoul In 2023
+title: Top 10 Lifestyle Instagram Influencers In Seoul In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Seoul in 2023. Most popular hashtags: #lifestyle #ootd #travel #blogger.
+  Find top lifestyle Instagram influencers in Seoul in 2024. Most popular hashtags: #ootd #lifestyle #travel #instafashion.
 platform: Instagram
-hits: 10
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 10 Instagram influencers like this in Seoul, South Korea for you to work with.
+hits: 11
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 11 Instagram influencers like this in Seoul, South Korea for you to pitch.
 profiles:
+  - username: "eeyezi"
+    fullname: >-
+      YEJI
+    bio: >-
+      Life in Seoul ✩⡱
+    location: "South Korea"
+    followers: 98875
+    engagement: 153
+    commentsToLikes: 0.005119
+    id: ck6tx6plmw4p20j71rzktlpy1
+    verified: false
+    hashtags: "#casetify, #cafeapc, #matinkim, #aveda"
   - username: "glam_dana"
     fullname: >-
       운동하는간호사ㅣ다나(Dana)
@@ -31,18 +43,18 @@ profiles:
     id: ck8t3rppm48on0j78vrt9ry47
     verified: false
     hashtags: "#kdrama, #seoulkorea, #koreanlearning, #koreangrammar"
-  - username: "hannacoreana"
+  - username: "jiyoungkim6364"
     fullname: >-
-      Hanna Coreana 한나
+      김지영
     bio: >-
-      𝙏𝙪 𝘾𝙤𝙧𝙚𝙖𝙣𝙖 𝙁𝙖𝙫𝙤𝙧𝙞𝙩𝙖❤️ 📍Seoul, Korea 서울🇰🇷 Beauty l Lifestyle l Korean culture ✉️ hannacoreana99@gmail.com
+      Lifestyle Creator Living in Art, Fashion & Love Former <Vogue Korea> Digital Director Contact: jiyoung6364@gmail.com 📍Seoul, Korea
     location: "South Korea"
-    followers: 73663
-    engagement: 1430
-    commentsToLikes: 0.017638
-    id: ck139lh76lwpc0i19g78af5pm
+    followers: 108035
+    engagement: 42
+    commentsToLikes: 0.009142
+    id: ck0ub7zv2dx5l0i19fzgjqf0x
     verified: false
-    hashtags: "#maquillajecoreano, #modacoreana, #sheinhaul, #sheinofficial"
+    hashtags: "#panachefine, #thecreamthatworks, #augustinusbader, #ab"
   - username: "naina_thapa"
     fullname: >-
       Naina ★네나★🧿
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.051511
     id: ck6uevqevtcty0j718rd4gh5w
     verified: false
-    hashtags: "#photooftheday, #fashionista, #beauty, #makeup"
+    hashtags: "#bhfyp, #style, #instagood, #art"
   - username: "ssang.nyc"
     fullname: >-
       SangHee 🐰💕
@@ -66,19 +78,19 @@ profiles:
     commentsToLikes: 0.017940
     id: ck15tyxf1kl9y0i198b4orb5m
     verified: false
-    hashtags: "#swimsuits, #modeling, #puntacana, #paradise"
-  - username: "hehejihee"
+    hashtags: "#throwback, #puntacana, #italy, #traveler"
+  - username: "kyemilktea"
     fullname: >-
-      Julie Hwang
+      KYE TAN
     bio: >-
-      Kiwi Korean in Dubai ✨ NEW SKINCARE VIDEO⬇️
+      📍Singapore ✉️ kyemilktea@gmail.com / DM 🎥 Tiktok : @kyemilktea [54.8K+] Fashion | Beauty | Lifestyle
     location: "South Korea"
-    followers: 56787
-    engagement: 522
-    commentsToLikes: 0.012792
-    id: ckaozhqm2lxud0i78ep1u8e99
+    followers: 60435
+    engagement: 21
+    commentsToLikes: 0.003376
+    id: ckf5nt7mzzlqz0j231osbbdzm
     verified: false
-    hashtags: "#serenity, #fashion, #ootd, #travel"
+    hashtags: "#guardiansg, #iykyk, #outfitinspo, #guardianmirrorsecret"
   - username: "sandy_joung023"
     fullname: >-
       정해원/𝕊𝕒𝕟𝕕𝕪 𝕁𝕠𝕦𝕟𝕘
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.053434
     id: ck6uc3401d7zp0j714ryzyutw
     verified: false
-    hashtags: "#instagood, #boy, #koreanfashion, #lifestyle"
+    hashtags: "#travelling, #life, #blogger, #singapore"
   - username: "alannam1"
     fullname: >-
       남훈 Alan Nam
@@ -115,16 +127,4 @@ profiles:
     id: ck55kafkvyv460i111bta3lsf
     verified: false
     hashtags: "#alannam, #creativedirector, #multibrandstore, #shopalans"
-  - username: "feelssoyoung"
-    fullname: >-
-      심소영
-    bio: >-
-      소금이🌝🐈 SM C&C
-    location: "South Korea"
-    followers: 114655
-    engagement: 248
-    commentsToLikes: 0.006641
-    id: ck55k4gd4yfns0i11ivb23qrv
-    verified: true
-    hashtags: "#imincharge, #ioniq, #hyundairestyle, #restyle2020"
 ---

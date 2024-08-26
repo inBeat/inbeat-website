@@ -1,12 +1,84 @@
 ---
-title: Top 10 Cooking Instagram Influencers In France In 2023
+title: Top 10 Cooking Instagram Influencers In France In 2024
 description: >-
-  Find top cooking Instagram influencers in France in 2023. Most popular hashtags: #france #paris #lookbook #baking.
+  Find top cooking Instagram influencers in France in 2024. Most popular hashtags: #france #paris #visitsouthoffrance #outfitoftheday.
 platform: Instagram
-hits: 805
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 805 Instagram influencers like this in France for you to work with.
+hits: 794
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 794 Instagram influencers like this in France for you to connect with.
 profiles:
+  - username: "lucadifonso"
+    fullname: >-
+      Luca Di Fonso
+    bio: >-
+      Something’s cooking 👨🏽‍🍳
+    location: "France"
+    followers: 65241
+    engagement: 352
+    commentsToLikes: 0.009091
+    id: ckf5tou9ficw40j237l0nflov
+    verified: false
+    hashtags: "#familyvlog, #lovinglife, #southoffrance, #newlifeinfrance"
+  - username: "being_fatimah_israa"
+    fullname: >-
+      Fätimã Gül Israã
+    bio: >-
+      🌾Littérature franzozisch🧡 teaching 💼 la diversité est une source de beauté 🇩🇿 Zen with cooking ,triping and living passions !
+    location: "France"
+    followers: 24833
+    engagement: 208
+    commentsToLikes: 0.131107
+    id: ck8ta65x2qkzf0j78w6nzxncp
+    verified: false
+    hashtags: "#photography, #instagood, #homesweethome, #jijel"
+  - username: "thefoodnanny"
+    fullname: >-
+      The Food Nanny
+    bio: >-
+      Lizi Heaps Author*Rescuing Family Dinnertime*Meal Planning* Order my Ancient Grain #Kamut 🌾and French Salt “Keep Cooking”
+    location: "France"
+    followers: 366386
+    engagement: 198
+    commentsToLikes: 0.157108
+    id: ck13cucvy27es0i1984d3129e
+    verified: false
+    hashtags: "#thefoodnanny, #kamut, #baking, #checking"
+  - username: "stephanieguillemette"
+    fullname: >-
+      stephanieguillemette
+    bio: >-
+      🇧🇷🇫🇷 Healthy private #chef/yoga retreats/cookingclass Based in Paris but I cook everywhere Recipe/Food Consultant Book: Healthy Brunch LeFooding18
+    location: "France"
+    followers: 41492
+    engagement: 96
+    commentsToLikes: 0.034237
+    id: ck5hkf0g8ib210i11ln8pxpkg
+    verified: false
+    hashtags: "#eatclean, #yogaretreat, #privatecook, #traiteur"
+  - username: "cooking_bysophia"
+    fullname: >-
+      COOKING BY SOPHIA 🤎
+    bio: >-
+      👶🏻 | Baby Noûr💞 👻 | Beaucoup de moi sur snapchat : Sophia.gfd 🍴 | Paris & ses adresses 💌 | cooking_bysophia@outlook.fr
+    location: "France"
+    followers: 180383
+    engagement: 179
+    commentsToLikes: 0.335233
+    id: ck6u2xtjsujh50j716ok41r92
+    verified: false
+    hashtags: "#chocolate, #cake, #cakes, #weddingday"
+  - username: "cuisine_a_deux"
+    fullname: >-
+      cuisine_a_deux🎀Manel & Ahlem🎀
+    bio: >-
+      ▪️deux tunisiennes 🇹🇳 📍Paris 🇫🇷📍Maroc 🇲🇦 ▪️food lover🥞🍔🍕🌯 ▪️love cooking and photographie 📸 📩 cuisine.a.deuxam@gmail.com Follow me 👇👇
+    location: "France"
+    followers: 329155
+    engagement: 80
+    commentsToLikes: 0.023128
+    id: ck6ufv92uzc000j712veegy0o
+    verified: false
+    hashtags: "#instafood, #cuisine, #foodaddict, #likesforlike"
   - username: "paula_roide"
     fullname: >-
       Paula
@@ -31,18 +103,6 @@ profiles:
     id: ckapc9iqc2xlr0i78ar0o7wgn
     verified: false
     hashtags: "#hiverstyle, #inspirationlook, #influenceusemode, #outfitoftheday"
-  - username: "kamilaofficiel"
-    fullname: >-
-      KAMILA
-    bio: >-
-      Mama and wifey 👶🏻💍 Founder : @knsignature Passion : @cookingwithkamila Snapchat : kamykimy In love with @noreofficiel 🤍
-    location: "France"
-    followers: 2544384
-    engagement: 1144
-    commentsToLikes: 0.008648
-    id: ck0ub91mke1y00i190glle2nc
-    verified: true
-    hashtags: "#prayforalgeria"
   - username: "athena_travelife"
     fullname: >-
       𝑨𝑻𝑯𝑬́𝑵𝑨 🕊
@@ -67,64 +127,4 @@ profiles:
     id: ckap90vbqqqf00i784p8wd7g6
     verified: false
     hashtags: "#parisbrest, #chou, #pastrygram, #fruit"
-  - username: "thefoodnanny"
-    fullname: >-
-      The Food Nanny
-    bio: >-
-      Lizi Heaps Author*Rescuing Family Dinnertime*Meal Planning* Order my Ancient Grain #Kamut 🌾and French Salt “Keep Cooking”
-    location: "France"
-    followers: 192694
-    engagement: 293
-    commentsToLikes: 0.050975
-    id: ck13cucvy27es0i1984d3129e
-    verified: false
-    hashtags: "#kitchen, #flour, #cows, #thefoodnanny"
-  - username: "thesmokybird"
-    fullname: >-
-      Mike A.
-    bio: >-
-      🔥 Central Texas Style Craft Barbecue 🔥 Live fire cooking 🔥 Cooking tips & education - 1 Peter 4:10 ➡️ Check out my #12daysofbrisket series!
-    location: "France"
-    followers: 17555
-    engagement: 538
-    commentsToLikes: 0.068626
-    id: ck5zxrmb58jd70i146abf5zi8
-    verified: false
-    hashtags: "#pulledpork, #babybackribs, #texasbbq, #bbqribs"
-  - username: "cooking_bysophia"
-    fullname: >-
-      C O O K I N G B Y S O P H I A
-    bio: >-
-      🍴 | Paris & ses adresses ✈️ | Lifestyle & voyages 🍰 | Ateliers gourmands 💌 | cooking_bysophia@outlook.fr 📍 | Paris [95]
-    location: "France"
-    followers: 156547
-    engagement: 376
-    commentsToLikes: 0.034642
-    id: ck6u2xtjsujh50j716ok41r92
-    verified: false
-    hashtags: "#cake, #baking, #chocolatecake, #patisserie"
-  - username: "angel_d_paradis"
-    fullname: >-
-      🧿Louma_deco
-    bio: >-
-      بسم الله الذي لا يضر مع اسمه شئ ⚜️Décoration ,Lifestyle,Cooking,Beauté, Fashion ⚜️Mariée 💍 ⚜️Only girls
-    location: "France"
-    followers: 25596
-    engagement: 653
-    commentsToLikes: 0.019714
-    id: ckap604f6dw7t0i78sz02dt1i
-    verified: false
-    hashtags: "#homesweethome, #breakfast, #home, #petitdejeuner"
-  - username: "stephanieguillemette"
-    fullname: >-
-      stephanieguillemette
-    bio: >-
-      🇧🇷🇫🇷 Healthy private #chef/yoga retreats/cookingclass Based in Paris but I cook everywhere Recipe/Food Consultant Book: Healthy Brunch LeFooding18
-    location: "France"
-    followers: 40510
-    engagement: 146
-    commentsToLikes: 0.019116
-    id: ck5hkf0g8ib210i11ln8pxpkg
-    verified: false
-    hashtags: "#vegetarianfood, #glutenfree, #veganfood, #rainbowfood"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Sao Paulo In 2023
+title: Top 10 Fashion Instagram Influencers In Sao Paulo In 2024
 description: >-
-  Find top fashion Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #saopaulo #fashion #lookdodia #moda.
+  Find top fashion Instagram influencers in Sao Paulo in 2024. Most popular hashtags: #saopaulo #fashion #lookdodia #moda.
 platform: Instagram
-hits: 322
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 322 Instagram influencers like this in Sao Paulo, Brazil for you to pitch.
+hits: 325
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 325 Instagram influencers like this in Sao Paulo, Brazil for you to pitch.
 profiles:
   - username: "_nicolecoelho"
     fullname: >-
@@ -79,18 +79,6 @@ profiles:
     id: ck14ge1qi4qy60i191i55ztno
     verified: false
     hashtags: "#blogueira, #sjc, #freefirebrasil, #instagram"
-  - username: "evthalia"
-    fullname: >-
-      Thalia Ferraz
-    bio: >-
-      brazilian, fashion content. são paulo, brazil. owner of: @brechosms
-    location: "Brazil"
-    followers: 139505
-    engagement: 694
-    commentsToLikes: 0.013037
-    id: ck0w0xs2lgkbq0i197s8hkrbq
-    verified: false
-    hashtags: "#revolveme, #adikagirls, #adika, #fashionnovapartner"
   - username: "nickmansph"
     fullname: >-
       NICKMANS GABRIEL
@@ -103,18 +91,6 @@ profiles:
     id: ck137tbv7d9qx0i197u9xbebo
     verified: false
     hashtags: "#photography, #reels, #reelsinstagram, #reelsbrasil"
-  - username: "thaisrodrigues"
-    fullname: >-
-      Thais Rodrigues
-    bio: >-
-      💡| Fundadora e Diretora Criativa 🇮🇹| Fashion Design São Paulo📍Alphaville📍Campinas 📍 📱| (11) 99707-1005 📩| marketing@thaisrodrigues.com.br ❤ Site ⤵️
-    location: "Brazil"
-    followers: 418389
-    engagement: 151
-    commentsToLikes: 0.018015
-    id: ck5bxk9ppnw1n0i11skqivv2v
-    verified: false
-    hashtags: "#cole, #tbt, #euvistothaisrodrigues, #reveillonthaisrodrigues"
   - username: "lyalcantara"
     fullname: >-
       Alyne Alcantara
@@ -127,4 +103,28 @@ profiles:
     id: ck6ty3i8l1gqw0j71wfo8xpwj
     verified: false
     hashtags: "#blackouttuesday"
+  - username: "miiablog"
+    fullname: >-
+      𝓜𝓲𝓲𝓪
+    bio: >-
+      🌼Tester | Beauty | Fashion 📍São Paulo - SP 👒 Idealizadora @closetnoventaoficial 💛 daughter of God 👣 Belle e Cauê
+    location: "Brazil"
+    followers: 5620
+    engagement: 412
+    commentsToLikes: 0.216853
+    id: ckaosap38qvnc0i78w489dpwj
+    verified: false
+    hashtags: "#blogger, #nails, #unhasnaturais, #tbtzao"
+  - username: "eliana_leal"
+    fullname: >-
+      eliana leal
+    bio: >-
+      - 21🌻 - RJ 🔁 SP - Modelo e influencer - Técnica em prótese Dentária 🔴Frete grátis usando meu código 10898 !
+    location: "Brazil"
+    followers: 2687
+    engagement: 1324
+    commentsToLikes: 0.098534
+    id: ckaoyh1w7hhu60i78y5hswogo
+    verified: false
+    hashtags: "#beautifulgirls, #nikegirl, #sunflower, #cachos3b3c"
 ---

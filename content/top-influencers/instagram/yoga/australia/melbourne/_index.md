@@ -1,12 +1,24 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Melbourne In 2023
+title: Top 10 Yoga Instagram Influencers In Melbourne In 2024
 description: >-
-  Find top yoga Instagram influencers in Melbourne in 2023. Most popular hashtags: #australia #yoga #melbourne.
+  Find top yoga Instagram influencers in Melbourne in 2024. Most popular hashtags: #melbourne #yoga #australia #lifestyle.
 platform: Instagram
-hits: 9
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 9 Instagram influencers like this in Melbourne, Australia for you to collaborate.
+hits: 20
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 20 Instagram influencers like this in Melbourne, Australia for you to collaborate.
 profiles:
+  - username: "foodiejacie"
+    fullname: >-
+      JAC | MELBOURNE & HK Lifestyle
+    bio: >-
+      Content Creator | Travel | Certified Yoga Instructor 📍 Melbourne 🇦🇺 & occasionally HKG 🇭🇰 JP 🇯🇵 ✈️ 移居墨爾本香港人 📩 DM / email for PR & collab
+    location: "Australia"
+    followers: 29764
+    engagement: 225
+    commentsToLikes: 0.188818
+    id: ck0vvrv5gqhm30i19xqdo25dx
+    verified: false
+    hashtags: "#melbournedrinks, #cbd, #foodiejac, #lockdown6"
   - username: "serchmaathexplorer"
     fullname: >-
       Serchmaa Oui
@@ -18,19 +30,43 @@ profiles:
     commentsToLikes: 0.053089
     id: ck0u83em16gcx0i19hra0s8f0
     verified: false
-    hashtags: "#cirquedusoleil, #cirquegram, #cirqueduinsta, #kurios"
-  - username: "robmillsarchitects"
+    hashtags: "#cirqueway, #cirquedusoleil, #australia, #kurios"
+  - username: "darling.daisyfolk"
     fullname: >-
-      Rob Mills Architects (RMA)
+      b r o n t e   m a y   ☾
     bio: >-
-      Melbourne | Sydney | Brisbane | Perth | Byron Bay | Architecture & Interiors | AAP Firm of the Year | World Interior Practice of the Year
+      30 ⋒ mama to girls home|fashion|beauty|family 〰️ making memories in VIC & WA Nursing Oct 2023 🍾 @fitazfk use code 10BRONTE
     location: "Australia"
-    followers: 66213
-    engagement: 100
-    commentsToLikes: 0.010879
-    id: ck5c5mjjc3rbq0i11kk3xy9uk
+    followers: 21796
+    engagement: 27
+    commentsToLikes: 0.067186
+    id: ck6u37c8gw5ic0j71cwbite3m
     verified: false
-    hashtags: "#robmills, #robmillsarchitects, #interiors, #design"
+    hashtags: "#melbournelife, #aimnsportswear, #aimntribe, #winterfashion"
+  - username: "darlingharbour"
+    fullname: >-
+      Darling Harbour
+    bio: >-
+      Sydney’s favourite harbourside precinct. 🤩 👋 Tag @darlingharbour, #DarlingHarbour or #chinesegardenoffriendship to give us permission to repost 🙏
+    location: "Australia"
+    followers: 47293
+    engagement: 29
+    commentsToLikes: 0.018551
+    id: clm70ayxfgs1a0j08wcj33jxe
+    verified: false
+    hashtags: "#darlingquarter, #summer, #schoolholidays, #musicfestival"
+  - username: "thegcbible"
+    fullname: >-
+      Thegcbible
+    bio: >-
+      📍Current• Gold Coast• Australia. 🌏Global destinations to hit your bucket list 📷 Marketing Exec //Influencer campaign speciliast @thegcbible Tik Tok
+    location: "Australia"
+    followers: 38895
+    engagement: 68
+    commentsToLikes: 0.053539
+    id: ck5hizj9ifqq30i11x74vbozn
+    verified: false
+    hashtags: "#byronbaylighthouse, #perth, #whalewatchingtour, #ocean"
   - username: "_stuart_wilson"
     fullname: >-
       Stuart Wilson 🏴󠁧󠁢󠁳󠁣󠁴󠁿
@@ -42,7 +78,31 @@ profiles:
     commentsToLikes: 0.139880
     id: ck15u8y9um0770i19o710xq0y
     verified: false
-    hashtags: "#fitfam, #classpasscrew, #classpassambassador, #melbourne"
+    hashtags: "#southyarra, #classpassambassador, #melbourne, #fitfam"
+  - username: "georgiasapwell_"
+    fullname: >-
+      Georgia Sapwell
+    bio: >-
+      Melbourne, Australia @ryderwear - DC GEORGIAS15 Part of @longboymedia 📸 Management - @winkmodels Mental health and physical health
+    location: "Australia"
+    followers: 15976
+    engagement: 58
+    commentsToLikes: 0.054940
+    id: clpny4j5349uj0k08vv6re57n
+    verified: false
+    hashtags: "#lifestyle, #gymlife, #fitness, #fit"
+  - username: "robmillsarchitects"
+    fullname: >-
+      Rob Mills Architecture & Interiors (RMA)
+    bio: >-
+      Redefining residential luxury Architecture & Interior Design ▫️Sydney | Melbourne | New York | Bahamas ▫️Miami | Byron Bay | Perth | Brisbane
+    location: "Australia"
+    followers: 75366
+    engagement: 39
+    commentsToLikes: 0.011253
+    id: ck5c5mjjc3rbq0i11kk3xy9uk
+    verified: false
+    hashtags: "#melbourne, #lifestyle, #sustainablearchitecture, #robmillsarchitects"
   - username: "baxter.toy.cavoodle"
     fullname: >-
       🐶 B A X T E R 🧸
@@ -55,76 +115,16 @@ profiles:
     id: ck0ucnszth8si0i19nw7qzo8c
     verified: false
     hashtags: "#doodlesofinstagram, #poser, #sunshine, #puppyoftheday"
-  - username: "jennybeeen"
+  - username: "mikayo_mundy"
     fullname: >-
-      Jenny Blenk | Content Creator
+      Kayo
     bio: >-
-      German living in Brisbane || 22🤍 Naturally introverted, selectively extroverted “JENNYB20” 20% off @princesspollyboutique 💌jenny.em.blenk@gmail.com
+      Sunshine Coast Wakeboarder Filmmaker Yoga and Aerial hammock teacher 🧘 @mikcam.op @mikayyogi @wake_coach
     location: "Australia"
-    followers: 8147
-    engagement: 644
-    commentsToLikes: 0.205182
-    id: ck5honakipv940i114q4oggvy
+    followers: 8102
+    engagement: 3243
+    commentsToLikes: 0.032955
+    id: ck0w2slvapza80i199mj0vdns
     verified: false
-    hashtags: "#ootd, #goldcoast, #fashiondiares, #health"
-  - username: "takeus_withyou"
-    fullname: >-
-      JESS and RYAN
-    bio: >-
-      🍃Escape The Ordinary 🎥 content creators Travelling Aus:Currently📍Northern QLD Client work: @tuwy_media Presets: @tuwypreset Email to work with us👇🏼
-    location: "Australia"
-    followers: 8928
-    engagement: 505
-    commentsToLikes: 0.207557
-    id: ckap0lvk6qvks0i78v04spwnq
-    verified: false
-    hashtags: "#vibes, #holidayherethisyear, #tropicalnorthqueensland, #nswtourism"
-  - username: "jennycooper.naturephotos"
-    fullname: >-
-      Jenny Cooper
-    bio: >-
-      I love to photograph Victoria’s nature, birds & wildlife. All photos are mine. Australia. 😁💜🇦🇺 Please do not repost without permission, thanks!
-    location: "Australia"
-    followers: 3674
-    engagement: 1603
-    commentsToLikes: 0.108837
-    id: ck1397q55jyfn0i19xcn5mh4t
-    verified: false
-    hashtags: "#allbeauty, #birdfreaks, #angelsandflowers, #withlovefromnature"
-  - username: "bonnee_fahlstrom"
-    fullname: >-
-      BONNEE
-    bio: >-
-      🧜‍♀️ DAINTREE RAINFOREST, TROPICAL QLD AUSSIE MODEL +SUBSTANCE + BEAUTY @bodybybonnee 🐝Live your richest healthiest most beautiful elevated life.
-    location: "Australia"
-    followers: 153751
-    engagement: 70
-    commentsToLikes: 0.044256
-    id: ck15q4iox125y0i19zpqujypm
-    verified: false
-    hashtags: "#daintreerainforest, #crueltyfree, #cleanbeauty, #bodybybonnee"
-  - username: "katiemarxflowers"
-    fullname: >-
-      Katie Marx Flowers
-    bio: >-
-      Flower lover and florist ✌🏼🌿
-    location: "Australia"
-    followers: 44682
-    engagement: 140
-    commentsToLikes: 0.036807
-    id: ck0vvwbd2r20i0i197p7r1ybd
-    verified: false
-    hashtags: ""
-  - username: "angieasimus"
-    fullname: >-
-      Angie Asimus
-    bio: >-
-      Girl from Gundagai | Storyteller: @7newssyd | Weather chaser & climate graduate: @usqedu | Urban yogi @the_yoga_cloud | Ambassador: @actforkids
-    location: "Australia"
-    followers: 6979
-    engagement: 970
-    commentsToLikes: 0.052481
-    id: ck5ckoh10xans0i11a6qx7tus
-    verified: true
-    hashtags: "#domesticviolenceawareness, #pinktest, #tbt, #missyouguys"
+    hashtags: "#sunshinecoast, #alwayslivin, #wakeboarding, #flipping"
 ---

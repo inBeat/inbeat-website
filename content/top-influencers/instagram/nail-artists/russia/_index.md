@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Russia In 2023
+title: Top 10 Nail Artists Instagram Influencers In Russia In 2024
 description: >-
-  Find top nail artists Instagram influencers in Russia in 2023. Most popular hashtags: #nailartist #nailblogger #nailstagram.
+  Find top nail artists Instagram influencers in Russia in 2024. Most popular hashtags: #nailartist #nailblogger #nailstagram.
 platform: Instagram
-hits: 49
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 49 Instagram influencers like this in Russia for you to work with.
+hits: 48
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 48 Instagram influencers like this in Russia for you to pitch.
 profiles:
   - username: "mariapetrzak"
     fullname: >-

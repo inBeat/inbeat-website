@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Austria In 2023
+title: Top 10 Lifestyle TikTok Influencers In Austria In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Austria in 2023. Most popular hashtags: #viral #foryou #fy #austria.
+  Find top lifestyle TikTok influencers in Austria in 2024. Most popular hashtags: #viral #foryou #fy #austria.
 platform: TikTok
 hits: 10
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 10 TikTok influencers like this in Austria for you to pitch.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database holds 10 TikTok influencers like this in Austria for you to contact.
 profiles:
   - username: "yogajunkies"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.023032
     id: ckdgzuhkjr5u10j23m6c65abu
     verified: false
-    hashtags: "#family, #dance, #austriatiktok, #fy"
+    hashtags: "#balkantiktok, #austriatiktok, #foryou, #foryoupage"
   - username: "jakob_7z"
     fullname: >-
       Jakob

@@ -1,12 +1,36 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Argentina In 2023
+title: Top 10 Dancers Instagram Influencers In Argentina In 2024
 description: >-
-  Find top dancers Instagram influencers in Argentina in 2023. Most popular hashtags: #dancer #love #dance.
+  Find top dancers Instagram influencers in Argentina in 2024. Most popular hashtags: #love #instagood #model.
 platform: Instagram
-hits: 165
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 165 Instagram influencers like this in Argentina for you to contact.
+hits: 161
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 161 Instagram influencers like this in Argentina for you to collaborate.
 profiles:
+  - username: "fiogimenez1"
+    fullname: >-
+      Fio Gimenez
+    bio: >-
+      ❤️‍🔥 Dancer | Acrobat | Performer 🧠 #DanceMeetingTeBusca Management: @vanepellizzeri
+    location: "Argentina"
+    followers: 286214
+    engagement: 721
+    commentsToLikes: 0.015850
+    id: ck0w0kbh9emvh0i19t63f0zw5
+    verified: false
+    hashtags: "#laacademia, #anecdota, #lamalabaila2, #kuky"
+  - username: "meligarat"
+    fullname: >-
+      Melisa Garat
+    bio: >-
+      Founder & Ceo @idunbymeligarat Argentine actress Professional ballet dancer International model
+    location: "Argentina"
+    followers: 383299
+    engagement: 37
+    commentsToLikes: 0.021231
+    id: ck5btll2zg6gi0i11gb08jrxg
+    verified: true
+    hashtags: "#peopleschoiceawards, #live, #glam, #maquillaje"
   - username: "laraalbernz"
     fullname: >-
       𝐋  𝐀  𝐑  𝐀    𝐀 𝐋 𝐁 𝐄 𝐑 𝐍 𝐙
@@ -103,28 +127,4 @@ profiles:
     id: ck0w4i6pyyots0i19h5w76kvj
     verified: false
     hashtags: "#tbt, #argentina, #dancers, #travel"
-  - username: "lupejelena"
-    fullname: >-
-      Lupe Jelena
-    bio: >-
-      Photographer, balletomane, dancer, youtuber, polerina, vegan, educator, TKD ITF From BA🇦🇷 see me dancing at @balletographer 📧 info@lupejelena.com.ar
-    location: "Argentina"
-    followers: 19973
-    engagement: 279
-    commentsToLikes: 0.052826
-    id: ck6031e63kgku0i14ihaxj0qa
-    verified: false
-    hashtags: "#overhead, #dancer, #lingerie, #selfportrait"
-  - username: "damiangar"
-    fullname: >-
-      Damián García
-    bio: >-
-      - Dancer, Aerialist, Veggie, Human - Work in 🇦🇷🇮🇹🇲🇽🇩🇪🇺🇾🇦🇪 - Director & coreographer of @seproduc 📺 SHOWMATCH 2018/2019
-    location: "Argentina"
-    followers: 38514
-    engagement: 313
-    commentsToLikes: 0.029200
-    id: ck5c7clob79zk0i110z278rmw
-    verified: false
-    hashtags: "#dogsofinstagram, #dancer, #straps, #dance"
 ---

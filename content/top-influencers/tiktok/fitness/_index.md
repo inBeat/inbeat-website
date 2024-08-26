@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In 2023
+title: Top 10 Fitness TikTok Influencers In 2024
 description: >-
-  Find top fitness TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #fitness #foryoupage.
+  Find top fitness TikTok influencers in 2024. Most popular hashtags: #foryou #fyp #foryoupage #fitness.
 platform: TikTok
-hits: 8104
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: inBeat has 8104 TikTok influencers like this for you to work with.
+hits: 8108
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database has 8108 TikTok influencers like this for you to connect with.
 profiles:
   - username: "fitness"
     fullname: >-
@@ -43,6 +43,18 @@ profiles:
     id: cka0wqa6b412i0i78smlpjvqz
     verified: false
     hashtags: "#canada, #paris, #workouts, #gym"
+  - username: "fitwithdawn"
+    fullname: >-
+      Dawn | PT and LifeCoach
+    bio: >-
+      ✨Positivity/Motivation👟Fitness 💪🏻Wellness 🤪Fun #mylifeonTikTok #beretlady
+    location: "United States"
+    followers: 10600
+    engagement: 3024
+    commentsToLikes: 0.701530
+    id: ckcptslsjomg90j23hh5c4bxu
+    verified: false
+    hashtags: "#welcomeback, #summermashup, #choosehappy, #quickbooksvictorypose"
   - username: "justakayday"
     fullname: >-
       Kay Mejia
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.068913
     id: ckcdysmz1gux80j23xk4mflco
     verified: false
-    hashtags: "#fitness, #gym, #pistolsquats, #workout"
+    hashtags: "#fit, #bodypositivity, #fitness, #pistolsquats"
   - username: "killerkissa"
     fullname: >-
       🖤🌻Kissa🌻🖤
@@ -115,16 +127,4 @@ profiles:
     id: ckb1cqgnu1gjs0j23n89mzs5l
     verified: false
     hashtags: "#positivity, #momsoftiktok, #liftupothers, #loveyall"
-  - username: "hybridcalisthenics"
-    fullname: >-
-      Hybrid Calisthenics
-    bio: >-
-      🌱 Hampton 🤸🏻‍♂️ Fitness | Motivation | Comedy 👇 NEW - Cultivate App!
-    location: "United States"
-    followers: 1200000
-    engagement: 1834
-    commentsToLikes: 0.012722
-    id: ck90yl3p5ar7c0j78mobpjprl
-    verified: false
-    hashtags: "#fitnesslife, #squats, #calisthenics, #homeworkout"
 ---

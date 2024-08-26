@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In 2023
+title: Top 10 Skincare TikTok Influencers In 2024
 description: >-
-  Find top skincare TikTok influencers in 2023. Most popular hashtags: #fyp #skincare #skincareroutine #aesthetic.
+  Find top skincare TikTok influencers in 2024. Most popular hashtags: #skincare #fyp #skincareroutine #aesthetic.
 platform: TikTok
-hits: 5339
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform holds 5339 TikTok influencers like this for you to work with.
+hits: 5283
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our database holds 5283 TikTok influencers like this for you to pitch.
 profiles:
   - username: "allthingscloseup"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.151081
     id: ckbbpkbd9dfjp0j23g7rkokkx
     verified: false
-    hashtags: "#grwm, #upclose, #closeups, #aesthetic"
+    hashtags: "#routine, #trendy, #closeup, #ootd"
   - username: "yeauty_official"
     fullname: >-
       yeauty_official
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.060289
     id: ckd66j13n37ca0j23mu4f0q2p
     verified: false
-    hashtags: "#yeauty, #comedy, #eyepadmask, #winwinwin"
+    hashtags: "#yeauty, #verlosung, #skincare, #gewinnspiel"
   - username: "skinkisseduk"
     fullname: >-
       SKINKISSEDUK
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.246273
     id: ckcek2bhkt7ko0j2342zkeamu
     verified: false
-    hashtags: "#beautytips, #trending, #skincare, #beautyhaul"
+    hashtags: "#skinkisseduk, #fyp, #skincareroutine, #beautytips"
   - username: "skincareandbeyond"
     fullname: >-
       ✨skincareandbeyond✨
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.010895
     id: ck80obynrgodq0j786z4nwcq0
     verified: true
-    hashtags: "#fyp, #scary, #ocean, #edutok"
+    hashtags: "#wtf, #lifehacks, #funny, #ocean"
   - username: "avecnou"
     fullname: >-
       Minou
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.151162
     id: ckbfflxyvae6l0j23v9fyz53x
     verified: false
-    hashtags: "#skincareroutine, #ootd, #makeuptutorial, #makeuptips"
+    hashtags: "#casualoutfits, #ootd, #glowymakeuptutorial, #asianmakeuptutorial"
   - username: "glossygurrl"
     fullname: >-
       aesthetic

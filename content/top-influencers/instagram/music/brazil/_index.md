@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In Brazil In 2023
+title: Top 10 Music Instagram Influencers In Brazil In 2024
 description: >-
-  Find top music Instagram influencers in Brazil in 2023. Most popular hashtags: #musica #trap #voz.
+  Find top music Instagram influencers in Brazil in 2024. Most popular hashtags: #publi #music #viral.
 platform: Instagram
-hits: 4145
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 4145 Instagram influencers like this in Brazil for you to pitch.
+hits: 4196
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 4196 Instagram influencers like this in Brazil for you to pitch.
 profiles:
-  - username: "taina"
+  - username: "diogopicarra"
     fullname: >-
-      Tainá Costa
+      Diogo Piçarra
     bio: >-
-      🐦 Twitter: eutainacosta 📬 @showdatai CONFIRA MÚSICA NOVA LOVEZINHO, AQUI👇🏼
+      TOUR, MUSIC & MORE 👇🩵
     location: "Brazil"
-    followers: 16329051
-    engagement: 650
-    commentsToLikes: 0.008599
-    id: ck0vz6p5n7kwi0i19ib9icvma
+    followers: 628953
+    engagement: 404
+    commentsToLikes: 0.047542
+    id: ck134wm1lyjne0i19p550z8mq
     verified: true
-    hashtags: "#fusioncapudocup2021, #desxcontovigoroso, #lovezinho"
+    hashtags: "#single, #music, #dj, #aiwaysu5"
+  - username: "canalvilinha"
+    fullname: >-
+      Canal Vilinha
+    bio: >-
+      @diegovilinha @fabiobr_vilinha @henriquehbastos @vinicius_vilinha Música, Humor e Futebol #TorcidaDaPaz
+    location: "Brazil"
+    followers: 112914
+    engagement: 526
+    commentsToLikes: 0.026560
+    id: ck5cg45nwo4ra0i114w7ls24l
+    verified: false
+    hashtags: "#racatimao, #raiz, #navitoriaounaderrota, #coringao"
+  - username: "aalexiaevellyn"
+    fullname: >-
+      ☾ ✶ ALEXIA EVELLYN ⋆ ☽
+    bio: >-
+      “Hold on” is OUT NOW 🥀 listen on the link below 👇 ouça minha primeira música “hold on” no link👇
+    location: "Brazil"
+    followers: 1251743
+    engagement: 735
+    commentsToLikes: 0.010196
+    id: cl34yk5710p3w0i23woojl4ku
+    verified: false
+    hashtags: "#nature, #newsong, #echo, #witch"
   - username: "killatk"
     fullname: >-
       KILLA
     bio: >-
-      先端技術．darkstar 🌐 music producer/DJ . @dm7group KWIZ RMX OUT NOW . @blackout.records . @cuervo.supply #killatk
+      先端技術．darkstar 🌐 music producer/DJ . BOOKINGS: @dm7booking . @blackout.records . @spankrec #killatk
     location: "Brazil"
-    followers: 146489
-    engagement: 880
-    commentsToLikes: 0.011848
+    followers: 156464
+    engagement: 793
+    commentsToLikes: 0.009220
     id: ck134smozy00y0i19ygfaxgo5
     verified: true
-    hashtags: "#darkpsy, #moshpit, #killatk, #psytrance"
-  - username: "javierhalamadrid"
+    hashtags: "#hitech, #psychedelic, #psytrance, #darkpsy"
+  - username: "7008films_oficial"
     fullname: >-
-      Javier Hala Madrid
+      7008Films
     bio: >-
-      Video Creator y Músico 📩: Javierito321@Outlook.com 🐦 Twitter: Javierito321 👇🏻 REGISTRATE AQUI
+      Brasileiro 🇧🇷 YouTuber | Criador de Conteúdo Alê e Leka É DAQUI O REELS AUTOMOTIVO MAIS VISTO DA AMÉRICA DO SUL 🏆 Carros, música e lifestyle
     location: "Brazil"
-    followers: 4424154
-    engagement: 194
-    commentsToLikes: 0.043527
-    id: ck14lgn72ukok0i197wc7if01
+    followers: 1495769
+    engagement: 978
+    commentsToLikes: 0.022970
+    id: ck14gx7g47hai0i19v2z62rr9
+    verified: false
+    hashtags: "#tripsul, #alltakadesivos, #alltak, #7008films"
+  - username: "eolor"
+    fullname: >-
+      ARTH
+    bio: >-
+      Oi, sou o ARTH, aqui você encontra muito entretenimento 🤩 Vem comigo! 🥇 Música | Cinema | Televisão conteudoarth@gmail.com
+    location: "Brazil"
+    followers: 246749
+    engagement: 470
+    commentsToLikes: 0.029354
+    id: ckap4qygr8h610i78o115mjxh
+    verified: false
+    hashtags: "#emalta, #anitta, #beyonce, #marifernandez"
+  - username: "marcelataisoficial"
+    fullname: >-
+      Marcela Taís
+    bio: >-
+      Fiz da minha fé poesias e músicas. ✍🏻 Loja: @poeticamenteloja 🧠 Contato: (19) 97144-8594 Canal YouTube 👇🏻
+    location: "Brazil"
+    followers: 1174181
+    engagement: 403
+    commentsToLikes: 0.012892
+    id: ck15qetf22hx30i19zpat279t
     verified: true
-    hashtags: "#worldcup, #policiadeqatar, #bebezziiitaaaaa, #compa"
-  - username: "victu_sl"
-    fullname: >-
-      Victú $L
-    bio: >-
-      • Pagina face: Victu SL 🔵 • Tiktok: @victu_sl ⚫ • Twitter: SlVictu 🔵 Música nova: CORAL COM OS LOBOS 👇🏽🐺
-    location: "Brazil"
-    followers: 10100
-    engagement: 1539
-    commentsToLikes: 0.118356
-    id: ck9wdnsl7gfn60j788gq8pc07
-    verified: false
-    hashtags: "#trap, #musica, #rells, #cor"
-  - username: "ericricardooficial"
-    fullname: >-
-      Eric Ricardo
-    bio: >-
-      •Mais de 250mil streams em “Hora de Aventura” •Novo Lançamento “ Oração “ no YouTube Link da música a baixo 👇🏽🙏🏾
-    location: "Brazil"
-    followers: 19602
-    engagement: 901
-    commentsToLikes: 0.107417
-    id: ckap2g5ybyorh0i781gz3rhby
-    verified: false
-    hashtags: "#rapnacional, #trapmusic, #matue30, #trap"
-  - username: "miichelemota"
-    fullname: >-
-      Michele Mota 🎙️
-    bio: >-
-      🎶 | Em caso de estresse, ouça música! 📍 | Minas Gerais 💌 | Parcerias/Direct
-    location: "Brazil"
-    followers: 7445
-    engagement: 1566
-    commentsToLikes: 0.621768
-    id: ck9ha8kjxbkjr0j786svhgazk
-    verified: false
-    hashtags: "#sertanejo, #instagram, #fotos, #tumbrlfoto"
-  - username: "rafaelasneves"
-    fullname: >-
-      Rafaela Neves
-    bio: >-
-      Cantora Música • Lifestyle • ♥️ 📩 contato@rafaelaneves.com.br • youtube e assessoria ⬇️
-    location: "Brazil"
-    followers: 81458
-    engagement: 1441
-    commentsToLikes: 0.044234
-    id: ck0u1f0iuwm1k0i195lruuytx
-    verified: false
-    hashtags: "#tbt"
-  - username: "bi_xarte"
-    fullname: >-
-      Bianca Manicongo
-    bio: >-
-      Campeã da @fluprj 2020 Campeã do festival de música da Paraíba 2020 📫: contatobixarte@gmail.com 📫: imprensabixarte@gmail.com
-    location: "Brazil"
-    followers: 192899
-    engagement: 1087
-    commentsToLikes: 0.034787
-    id: ck5cdj5g3j9gp0i11vau94bb0
-    verified: false
-    hashtags: "#defendaosus, #travesti, #osus"
-  - username: "chrisleao"
-    fullname: >-
-      Chris Leão
-    bio: >-
-      𝗔𝗦𝗦𝗜𝗦𝗧𝗔 𝗢𝗦 𝗦𝗧𝗢𝗥𝗜𝗘𝗦 👀 ARTISTA DA KONDZILLA RECORDS músico/DJ/produtor Patrocinar meus sorteios? 👉🏻 @sorteiode_premios
-    location: "Brazil"
-    followers: 1938160
-    engagement: 2774
-    commentsToLikes: 12.335480
-    id: ck6tmqwo28cu90j71zgs6qqoo
-    verified: true
-    hashtags: "#felizanonovo, #happynewyear"
-  - username: "niccolerodrigues"
-    fullname: >-
-      niccole rodrigues 🍑
-    bio: >-
-      Artista de Funk 🎤 @nicreservaa | PUBLI/SHOWS (85) 996616735 SAIU MÚSICA NOVA ⤵️
-    location: "Brazil"
-    followers: 367523
-    engagement: 1243
-    commentsToLikes: 0.108758
-    id: ck9wh78qgwkvs0j78ymv81n9i
-    verified: false
     hashtags: ""
+  - username: "diogodefante"
+    fullname: >-
+      Diogo Defante
+    bio: >-
+      💿 OUÇA MEU NOVO ÁLBUM “TÍFANE”! 🎵 MÚSICA: @defantemusica 📩 COMERCIAL: diogodefante@agenciaskip.com 🎤 SHOWS: shows@diogodefante.com.br
+    location: "Brazil"
+    followers: 3858184
+    engagement: 538
+    commentsToLikes: 0.010066
+    id: ck5qc3o1nop7u0i1170yzo6i8
+    verified: false
+    hashtags: "#publi, #galaxyzflip6, #menteabertasemprevence, #airbnbpartner"
+  - username: "naocomosoalface"
+    fullname: >-
+      Luiza Allan - Alfacinha 🏳️‍🌈🥬
+    bio: >-
+      Humor | Música | Receitas Vegetais | Sustentabilidade 📩: naocomosoalface@gmail.com Aracaju-SE
+    location: "Brazil"
+    followers: 101200
+    engagement: 536
+    commentsToLikes: 0.056148
+    id: ckaowmzi89kcx0i784ef69d08
+    verified: false
+    hashtags: "#humor, #aracaju, #cover, #sergipe"
+  - username: "fernando.malt"
+    fullname: >-
+      Fernando Malt
+    bio: >-
+      canto pra conseguir ouvir o que tenho aqui dentro ouça as minhas músicas (link da bio) shows: contato@fernandomalt.com.br publi: fernandomalt@gaiah.ag
+    location: "Brazil"
+    followers: 558527
+    engagement: 639
+    commentsToLikes: 0.151328
+    id: ck9h9r7ru9n3k0j78ssrvme7a
+    verified: false
+    hashtags: "#cantacomigo, #cantacomagente, #reelsdueto, #duetompb"
 ---

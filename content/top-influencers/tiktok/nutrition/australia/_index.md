@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In Australia In 2023
+title: Top 10 Nutrition TikTok Influencers In Australia In 2024
 description: >-
-  Find top nutrition TikTok influencers in Australia in 2023. Most popular hashtags: #nutrition #fyp #health #healthy.
+  Find top nutrition TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #nutrition #healthy #health.
 platform: TikTok
-hits: 14
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 14 TikTok influencers like this in Australia for you to work with.
+hits: 13
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 13 TikTok influencers like this in Australia for you to collaborate.
 profiles:
   - username: "jacquibaihn"
     fullname: >-
@@ -103,18 +103,6 @@ profiles:
     id: cka0rnj15hqt90i78cscih7d9
     verified: false
     hashtags: "#harmony, #music, #sing, #song"
-  - username: "amandamicallef"
-    fullname: >-
-      Amanda Micallef
-    bio: >-
-      MAFS 2020 📺 Daily Training Tips Click link to enquire for Online Coaching
-    location: "Australia"
-    followers: 11100
-    engagement: 308
-    commentsToLikes: 0.053115
-    id: ckbfd7kel6g5i0j23r5gvkxjn
-    verified: false
-    hashtags: "#goldcoastpersonaltrainer, #coreexercises, #goldcoast, #onlinecoach"
   - username: "renesarahlim"
     fullname: >-
       Renée Sarah Lim
@@ -127,4 +115,16 @@ profiles:
     id: ckd0bhqpjccue0j23812g25b3
     verified: false
     hashtags: "#learnontiktok, #selfdevelopment, #quarantine, #fyp"
+  - username: "alextioke"
+    fullname: >-
+      alex tioke
+    bio: >-
+      It’s not that serious .. ☺️ tiokealex@gmail.com
+    location: "Australia"
+    followers: 188800
+    engagement: 652
+    commentsToLikes: 0.025483
+    id: ck9eus84yf5el0j7840snjfs7
+    verified: false
+    hashtags: "#fashion, #womensbest, #fyp, #outfitideas"
 ---

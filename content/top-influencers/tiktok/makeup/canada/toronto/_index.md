@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Toronto In 2023
+title: Top 10 Makeup TikTok Influencers In Toronto In 2024
 description: >-
-  Find top makeup TikTok influencers in Toronto in 2023. Most popular hashtags: #makeup #fyp #toronto #foryou.
+  Find top makeup TikTok influencers in Toronto in 2024. Most popular hashtags: #fyp #foryou #makeup #toronto.
 platform: TikTok
-hits: 87
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 87 TikTok influencers like this in Toronto, Canada for you to pitch.
+hits: 89
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 89 TikTok influencers like this in Toronto, Canada for you to collaborate.
 profiles:
   - username: "jasgbtn"
     fullname: >-
@@ -19,18 +19,30 @@ profiles:
     id: ck7zo5d3ohy4i0j78qsioi8jo
     verified: false
     hashtags: "#mua, #abg, #canada, #makeup"
-  - username: "devinmccoy50"
+  - username: "yasminerrz"
     fullname: >-
-      Dev 1738
+      yasi
     bio: >-
-      BIG haired queer queen 👑🏳️‍🌈 94’🦁 🇨🇦 ONT.
+      follow my IG: BeautyByYasi for makeup & outfit details 🦋
     location: "Canada"
-    followers: 4884
-    engagement: 1110
-    commentsToLikes: 0.038390
-    id: ckbf225fponmi0j23kb2f03wt
+    followers: 88700
+    engagement: 1356
+    commentsToLikes: 0.022608
+    id: ckb9ugg0it3qy0j23rfcwjd9r
     verified: false
-    hashtags: "#greenscreen, #lgbtcouples, #toocold, #greenscreenvideo"
+    hashtags: "#hijab, #modestfashion, #muslim, #airpodsjump"
+  - username: "thaisquintino2"
+    fullname: >-
+      Thais Quintino
+    bio: >-
+      Half Brazilian/ half Canadian 🇨🇦🇧🇷 Um sorriso para alegrar seu dia.
+    location: "Canada"
+    followers: 43800
+    engagement: 587
+    commentsToLikes: 0.023135
+    id: ck9flmiibopac0j78zyc7qfw9
+    verified: false
+    hashtags: "#foryou, #fyp, #makeitviral, #foryoupage"
   - username: "_ivorytowers"
     fullname: >-
       Ivory Towers
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.057986
     id: ck8qfxk8cypvd0j78rmtgxeiw
     verified: false
-    hashtags: "#rpdr, #deadbydaylight, #dragracecanada, #toronto"
+    hashtags: "#dragqueen, #streamer, #drag, #rpdr"
   - username: "alexkossak"
     fullname: >-
       Alex
@@ -55,6 +67,18 @@ profiles:
     id: ck94l432fxo9f0j78k39rkz9k
     verified: false
     hashtags: "#quarantine, #foryou, #foryoupage, #fyp"
+  - username: "estrelladestiny"
+    fullname: >-
+      Destiny Estrella
+    bio: >-
+      baddie with brains bitches
+    location: "Canada"
+    followers: 38100
+    engagement: 801
+    commentsToLikes: 0.025349
+    id: ckcv6ptm4pr7a0j23912tsyjn
+    verified: false
+    hashtags: "#fyp, #greenscreen, #trend, #greenscreenvideo"
   - username: "spencerbaby01"
     fullname: >-
       spencerbaby01
@@ -79,30 +103,6 @@ profiles:
     id: ck9c6c3mgr0c60j78q9c86j49
     verified: false
     hashtags: "#skincare, #foryou, #makeuphacks, #hairless"
-  - username: "victoriasabovitch"
-    fullname: >-
-      Victoria Sabovitch🤍
-    bio: >-
-      23 🇨🇦🌈 She/her/princess Bus. only📩:Victoria@dulcedo.com
-    location: "Canada"
-    followers: 671600
-    engagement: 1167
-    commentsToLikes: 0.030123
-    id: ck9kdng2puxz00j7891cbtzfr
-    verified: false
-    hashtags: "#beauty, #canadian, #dollskill, #makeup"
-  - username: "hennabyramnik1"
-    fullname: >-
-      Ramnik Kaur
-    bio: >-
-      Henna Artist + Nail Tech during the day - Chef by night!
-    location: "Canada"
-    followers: 8714
-    engagement: 353
-    commentsToLikes: 0.009884
-    id: ckc35jmt9uqif0j23k4g7kd92
-    verified: false
-    hashtags: "#makeuplover, #toronto, #punjabi, #makeup"
   - username: "iamabira"
     fullname: >-
       Abira
@@ -115,16 +115,16 @@ profiles:
     id: ck90r2agwkt2l0j78f7jhaegy
     verified: false
     hashtags: "#greenscreensticker, #greenscreen, #birthday, #fyp"
-  - username: "lunalindsay"
+  - username: "rachelsierraaa"
     fullname: >-
-      lunalindsay
+      Rachel Sierra
     bio: >-
-      boho style child🌸✌🏼 plant mom🌿🌵 follow me on ig: @luna.lindsay🌛
+      4 fun
     location: "Canada"
-    followers: 25700
-    engagement: 1039
-    commentsToLikes: 0.033881
-    id: ckd621x5a1opf0j23eg3bjs9s
+    followers: 10100
+    engagement: 1382
+    commentsToLikes: 0.026691
+    id: ckbf3goeir6cn0j2309yauoa8
     verified: false
-    hashtags: "#fyp, #feelinggood, #bohohome, #hellospring"
+    hashtags: "#visionboard, #greenscreen, #tiktokartists, #familydinner"
 ---

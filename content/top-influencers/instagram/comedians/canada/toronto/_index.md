@@ -1,130 +1,130 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Toronto in 2023
+title: Top 10 Comedians Instagram Influencers In Toronto In 2024
 description: >-
-  Find top comedians Instagram influencers in Toronto in 2023. Most popular hashtags: #toronto #canada #comedy #funny.
+  Find top comedians Instagram influencers in Toronto in 2024. Most popular hashtags: #toronto #canada #comedy #standupcomedy.
 platform: Instagram
-hits: 17
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 17 Instagram influencers like this in Toronto, Canada for you to pitch.
+hits: 9
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 9 Instagram influencers like this in Toronto, Canada for you to connect with.
 profiles:
+  - username: "haviahmighty"
+    fullname: >-
+      𝗛𝗔𝗩𝗜𝗔𝗛 𝗠𝗜𝗚𝗛𝗧𝗬
+    bio: >-
+      Crying Crystals [New Album] 💎 07/14/23
+    location: "Canada"
+    followers: 35550
+    engagement: 317
+    commentsToLikes: 0.114579
+    id: ck0w4kcw1z0450i192qttvuiu
+    verified: true
+    hashtags: "#newmusic, #torontoevents, #torontoartist, #releaseparty"
   - username: "notmarcanthony"
     fullname: >-
       Marc-Anthony Sinagoga
     bio: >-
-      Comedian & MC BuffetBuds Ep.6 👇
+      Stand-Up & Sketch
     location: "Canada"
-    followers: 3571
-    engagement: 729
-    commentsToLikes: 0.172485
+    followers: 131160
+    engagement: 1436
+    commentsToLikes: 0.032126
     id: ck6tpydleoby40j718kfczeod
     verified: false
-    hashtags: "#host, #sketch, #nonnachronicles, #foodgasm"
-  - username: "neemanaz"
-    fullname: >-
-      Neema Nazeri
-    bio: >-
-      🎤 Comedy 🎥 Acting 🇮🇷 Iranian - 🇨🇦 Canadian 📍Toronto ✉️ Email me for business/collaboration
-    location: "Canada"
-    followers: 61026
-    engagement: 354
-    commentsToLikes: 0.091387
-    id: ck5q3rxipm5ej0i11to9mh99m
-    verified: false
-    hashtags: "#basic, #comedians, #immigrant, #persian"
-  - username: "dolino.real"
-    fullname: >-
-      Dolino
-    bio: >-
-      
-    location: "Canada"
-    followers: 2670
-    engagement: 784
-    commentsToLikes: 0.154156
-    id: ck601t273g4fl0i14vmxhmmr3
-    verified: false
-    hashtags: "#canada, #quebec, #france, #rire"
+    hashtags: "#italiancontent, #italiancomedy, #tradition, #italian"
   - username: "the6atsix"
     fullname: >-
-      😂Beamer💥Walczak😁
+      Beamer😎Walczak
     bio: >-
-      🌆Toronto's⚡️GoldenBoy😸 😅Comedian/Editor/Chef/ComplexHost🎩 🧙🏾‍♂️👁Creator of @illinfinity🪐💫 👇🏾👇🏾ComplexCanada Report🎥
+      🌆Toronto's⚡️GoldenBoy😸 😅Comedian/🙅🏽‍♂️Sober💪🏾/Graphic Designer💻 🎥YouTubing Bus Life!🚌 👁‍🗨Logo Creation Page: @sixlogos 🖋
     location: "Canada"
-    followers: 106383
-    engagement: 364
-    commentsToLikes: 0.078489
+    followers: 107994
+    engagement: 228
+    commentsToLikes: 0.068159
     id: ck6004z4pcyjv0i147qy4cw3s
     verified: false
-    hashtags: "#quarantineandchill, #characterselect, #quarantineknockouts2020, #beamer4mayor"
-  - username: "jacob.ursomarzo"
+    hashtags: "#vlogger, #buslife, #the6atsix, #6ixinthestix"
+  - username: "nittysak"
     fullname: >-
-      Jacob Ursomarzo
+      Nitish Sakhuja
     bio: >-
-      Cameo link below Actor Comedian Creator • Tik Tok @ br0ce Twitter @ jacob.ursomarzo
+      Self Proclaimed Philosopher Check out my Comedy Album PERSON O̶f̶ ̶C̶o̶l̶o̶u̶r̶ Listen or Watch 👇🏽 GRAND WAVE ENT.
     location: "Canada"
-    followers: 359812
-    engagement: 2040
-    commentsToLikes: 0.013856
-    id: ck8sw1voddi640j78e8e73tla
+    followers: 11130
+    engagement: 2998
+    commentsToLikes: 0.051229
+    id: clpdif50nfd2o0k08bvigjvkn
     verified: false
-    hashtags: "#childactor, #anne, #arthur, #jacobursomarzo"
-  - username: "marjaan.shahi"
+    hashtags: "#life, #standupcomedian, #explore, #standup"
+  - username: "mrlewinn"
     fullname: >-
-      👧🏻Marjan Shahi / گيلتاما
+      Mr. Lewin♚
     bio: >-
-      📉| Forex Trader 💎| Jewelry Importer 📍Toronto, Canada🇨🇦 📍⚓️⚓️⚓️
+      Stand Up Comedian, Stand Up Guy 👊🏾 Toronto’s Meme God😎😂⚡ @si.podcast 🎙️ —@Lewins_love 💐
     location: "Canada"
-    followers: 59880
-    engagement: 132
-    commentsToLikes: 0.235083
-    id: ck8tczadv19d90j78ze04ug8f
+    followers: 115163
+    engagement: 5
+    commentsToLikes: 0.000000
+    id: ck15plvmuyj550i19o2cidq8t
     verified: false
-    hashtags: "#forex, #kleinburg, #summervibes, #torontolifestyle"
-  - username: "krusan.s"
+    hashtags: "#swipe"
+  - username: "instafunny_manan"
     fullname: >-
-      K R U
+      Manan Desai
     bio: >-
-      Director · Videographer · Writer · Actor 🏙️ Toronto The guy from @basementreels - help us reach 100k subs! Watch our newest video here 👇👇👇
+      Comedian & Actor Content - Creator, Curator & Producer www.manandesai.in
     location: "Canada"
-    followers: 2464
-    engagement: 1743
-    commentsToLikes: 0.023011
-    id: ck8sy9ndsk7c40j78mghvi8q0
+    followers: 275389
+    engagement: 1337
+    commentsToLikes: 0.004535
+    id: ck5pwjdzun3d70i114mni37zw
     verified: false
-    hashtags: "#torontoblogger, #funnymemes, #tamilnadu, #youtubevideos"
-  - username: "rob_ianni_comedy"
+    hashtags: "#thecomedyfactory, #manandesai, #standupcomedy, #gujarati"
+  - username: "abishmathew"
     fullname: >-
-      Rob Ianni Comedy
+      Abish Mathew
     bio: >-
-      #sketchcomedy #comedian #actor #influencer Stand Up Comedian, Actor, Sketch Comedy, Comedic Creator 😜robiannicomedy@gmail.com SC & FB: @robiannicomedy
+      Comedian, Creative Director, Calendar User
     location: "Canada"
-    followers: 7360
-    engagement: 642
-    commentsToLikes: 0.070438
-    id: ck5q3rpcim4ex0i11hb82rfea
-    verified: false
-    hashtags: "#comparepippo, #comedy, #robiannicomedy, #italianstyle"
-  - username: "shaneykipps"
-    fullname: >-
-      Shane Kippel
-    bio: >-
-      Actor 🎭 Comedian 🤣 Producer 🎥 Writer 📜✍🏻 Public Speaker 🔊 Check out the link below for links to CAMEO and OFFICIAL MERCH👇
-    location: "Canada"
-    followers: 97005
-    engagement: 584
-    commentsToLikes: 0.022037
-    id: ck5q3rkkwm3uc0i11j6iyvkh4
+    followers: 365960
+    engagement: 395
+    commentsToLikes: 0.011355
+    id: ck55kfyvrz7p00i11dteeuccd
     verified: true
-    hashtags: "#canadianfilm, #seoulwebfest, #dgctalent, #spinner"
+    hashtags: "#abishmathew, #standup, #canada, #whoop"
   - username: "rickrowley3"
     fullname: >-
       Rick Rowley
     bio: >-
-      #Comedian who loves hockey🏒Canada’s biggest beauty🇨🇦 Hushed-2nd Phone Number: Promo Code BEAUTY25👇
+      #Comedian who loves hockey🏒Canada’s biggest beauty🇨🇦 Linktree👇
     location: "Canada"
-    followers: 16998
-    engagement: 243
-    commentsToLikes: 0.194895
+    followers: 19014
+    engagement: 259
+    commentsToLikes: 0.139950
     id: ckaorbp2bmksq0i78dirmk1qg
     verified: false
-    hashtags: "#the6ix, #hockeyboys, #lettuce, #toronto"
+    hashtags: "#lfg, #toronto, #goleafsgo, #nhl"
+  - username: "nik_zutshi"
+    fullname: >-
+      Nikolas
+    bio: >-
+      
+    location: "Canada"
+    followers: 4649
+    engagement: 495
+    commentsToLikes: 0.299427
+    id: ck13d6f763wm30i19g3tqh1ua
+    verified: false
+    hashtags: "#mishacollins, #sebastianstan, #wintersoldier, #voiceimpressions"
+  - username: "instafunny_manan"
+    fullname: >-
+      Manan Desai
+    bio: >-
+      Comedian & Actor Content - Creator, Curator & Producer www.manandesai.in
+    location: "Canada"
+    followers: 275389
+    engagement: 1337
+    commentsToLikes: 0.004535
+    id: ck5pwjdzun3d70i114mni37zw
+    verified: false
+    hashtags: "#thecomedyfactory, #manandesai, #standupcomedy, #gujarati"
 ---

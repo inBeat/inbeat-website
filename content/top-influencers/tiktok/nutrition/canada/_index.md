@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In Canada In 2023
+title: Top 10 Nutrition TikTok Influencers In Canada In 2024
 description: >-
-  Find top nutrition TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #nutritiontips #dietitian #plantbased.
+  Find top nutrition TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #dietitian #nutritiontips #plantbased.
 platform: TikTok
-hits: 32
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat has 32 TikTok influencers like this in Canada for you to contact.
+hits: 30
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 30 TikTok influencers like this in Canada for you to work with.
 profiles:
   - username: "michellejaelinrd"
     fullname: >-
@@ -54,19 +54,19 @@ profiles:
     commentsToLikes: 0.037357
     id: ck8071elvnvdh0j78aztskv48
     verified: false
-    hashtags: "#dietitiansoftiktok, #dietitian, #nutritionist, #diettips"
+    hashtags: "#fyp, #nutritionist, #dietitiansoftiktok, #diettips"
   - username: "denaijohnson"
     fullname: >-
       Denai Johnson
     bio: >-
       Boys, Beauty & Other Bullsh!t Follow my Instagram 4 nutrition tips @denaijohnson
     location: "Canada"
-    followers: 45600
-    engagement: 669
-    commentsToLikes: 0.068064
+    followers: 45400
+    engagement: 714
+    commentsToLikes: 0.069648
     id: ck9go0okrz0tm0j78e8zt1vj5
     verified: false
-    hashtags: "#psa, #voiceover, #dating, #relationships"
+    hashtags: "#single, #singlelife, #funny, #relationship"
   - username: "fitness_zu"
     fullname: >-
       Fitness Zu
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.024604
     id: ck8f933v73pon0j78o26s7d4f
     verified: false
-    hashtags: "#dietitian, #weightloss, #fitnesstips, #nutritiontips"
+    hashtags: "#weightloss, #dietitian, #nutrition, #nutritiontips"
   - username: "yongvillanueva"
     fullname: >-
       Yong💦

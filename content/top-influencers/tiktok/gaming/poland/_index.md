@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Poland In 2023
+title: Top 10 Gaming TikTok Influencers In Poland In 2024
 description: >-
-  Find top gaming TikTok influencers in Poland in 2023. Most popular hashtags: #dlaciebie #gaming #dc #comedy.
+  Find top gaming TikTok influencers in Poland in 2024. Most popular hashtags: #dlaciebie #gaming #duet #dc.
 platform: TikTok
 hits: 24
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our database aggregates 24 TikTok influencers like this in Poland for you to contact.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 24 TikTok influencers like this in Poland for you to collaborate.
 profiles:
   - username: "czajska"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.030720
     id: ckc2ztj24qnc30j23i62upw0n
     verified: false
-    hashtags: "#polska, #happy, #animals, #love"
+    hashtags: "#foryou, #comedy, #zabawa, #coronatime"
   - username: "xkompl"
     fullname: >-
       x-kom

@@ -1,24 +1,72 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Japan In 2023
+title: Top 10 Mothers Instagram Influencers In Japan In 2024
 description: >-
-  Find top mothers Instagram influencers in Japan in 2023. Most popular hashtags: #fashion #ootd #japanesefood #selfie.
+  Find top mothers Instagram influencers in Japan in 2024. Most popular hashtags: #fashion #ootd #fashionstyle.
 platform: Instagram
-hits: 155
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 155 Instagram influencers like this in Japan for you to connect with.
+hits: 169
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 169 Instagram influencers like this in Japan for you to contact.
 profiles:
-  - username: "reikamarianna"
+  - username: "hikarimurakami"
     fullname: >-
-      Reika🐥
+      Hikari Murakami
     bio: >-
-      子供3人産んでもアラサーでもシングルでも目指せ　🌟#キラキラママ🌟 #美容オタク　#産後ダイエット　#ノーファンデ肌 👩‍💼32歳/モデル/経営/シングルママ/169cm 👶 3 kids/single mother 💪 🌎 bilingual, mixed 🇯🇵🇰🇷 📍Tokyo, Japan
+      📍Japanese American creator in Orange County 🎥 Motherhood, homestyle 🇯🇵 cooking, & lifestyle Shop: @shoplilyandonyx
     location: "Japan"
-    followers: 160434
-    engagement: 361
-    commentsToLikes: 0.019807
-    id: ck5hia7xicg660i11dw587pue
+    followers: 9315
+    engagement: 414
+    commentsToLikes: 0.039798
+    id: clcuv3szw3jt90j088wbn0hty
     verified: false
-    hashtags: "#hermesboots, #zara, #hermesstory, #onsen"
+    hashtags: "#oogieboogiebash2023, #disneyparks, #mommandmecostumes, #disneyland"
+  - username: "linaohashi"
+    fullname: >-
+      大橋リナ
+    bio: >-
+      @vanessajewels_ Model, Wife,Mother. 🇯🇵×🇨🇴 ohashirina0408@gmail.com
+    location: "Japan"
+    followers: 119576
+    engagement: 175
+    commentsToLikes: 0.001156
+    id: ck6tr5re7x3d20j71uvn4oky8
+    verified: false
+    hashtags: "#malibushirtsjapan, #pr, #gshockwomen, #pengaligons"
+  - username: "shaine"
+    fullname: >-
+      Shaine
+    bio: >-
+      Top Parenting Influencer 2015 Elead三皇冠👑 Mother to @Jaco3oy & @Sophie3aby @jarod3oy Facebook: shaine.my
+    location: "Japan"
+    followers: 127720
+    engagement: 120
+    commentsToLikes: 0.006363
+    id: ck6ty0tnv10j00j71xivqeyj7
+    verified: false
+    hashtags: "#diorprestige, #themicropeelmy, #thei7, #skincaviar"
+  - username: "tokyodame"
+    fullname: >-
+      Yoshiko Kris-Webb クリス-ウェブ佳子
+    bio: >-
+      愛犬家。著書:『考える女(ひと)』『TRIP with KIDS #こありっぷ』/ columnist, travel writer, model and mother of two daughters.
+    location: "Japan"
+    followers: 134588
+    engagement: 84
+    commentsToLikes: 0.010074
+    id: ck6tmslaf8gbg0j71w363cwff
+    verified: false
+    hashtags: "#worldcup2022, #myladyninon, #mameshiba, #sponsored"
+  - username: "carinlili2"
+    fullname: >-
+      Carinda Lius
+    bio: >-
+      99 liners 🦋 Mother of: @clyde._.vernon1 @pokkaloca_ @pokkaloca.studio @shopdeloca @twicebutnice_prelovedcarinlili Business line:@917nkvnz (adm)
+    location: "Japan"
+    followers: 308707
+    engagement: 19
+    commentsToLikes: 0.015979
+    id: ck0tugbjx713d0i190mg7apgb
+    verified: false
+    hashtags: "#naifforrash, #eksim, #naifbaby, #tipsasi"
   - username: "rena25_love"
     fullname: >-
       れな
@@ -55,18 +103,6 @@ profiles:
     id: ck6tuvorqioqz0j71nm1f5i2m
     verified: true
     hashtags: "#bne, #148cm, #beautyneverends, #gal"
-  - username: "linaohashi"
-    fullname: >-
-      大橋リナ
-    bio: >-
-      Model, Wife,Mother. 🇯🇵×🇨🇴
-    location: "Japan"
-    followers: 108288
-    engagement: 152
-    commentsToLikes: 0.003256
-    id: ck6tr5re7x3d20j71uvn4oky8
-    verified: false
-    hashtags: "#pr, #rustal, #tommyhilfiger, #sly"
   - username: "8miiiko9"
     fullname: >-
       8miiisa95
@@ -91,40 +127,4 @@ profiles:
     id: ck8t3vg1z4n240j78xj0hzgsq
     verified: false
     hashtags: "#japaneseculture, #picplaypost, #wine, #japanesefood"
-  - username: "haruna.bb"
-    fullname: >-
-      山田 陽菜(Haruna Yamada)
-    bio: >-
-      年長・年少の育児に追われる20代主婦。 "まごわやさしい"が基本の食卓。 Japanese home cooking🍳 Mother of two👦🏻👧🏻｜Clean eating🌿 調理撮影、レシピ考案、レシピ本や 料理イベントのアシスタント等 ↓HPでストウブレシピ、簡単レシピ等多数掲載中。
-    location: "Japan"
-    followers: 25100
-    engagement: 1558
-    commentsToLikes: 0.006659
-    id: ck9wf5kw5nalc0j789epwhpn4
-    verified: false
-    hashtags: "#iegohanphoto, #cleaneating, #wp, #japanesefood"
-  - username: "natashavincent"
-    fullname: >-
-      Natasha Vincent
-    bio: >-
-      International Presenter & Master Trainer for @lesmills Ambassador for @reebok Fueled by @twoislandsco Mother to @bennie.bear.rottie 🐾 AKL, NZ 📍
-    location: "Japan"
-    followers: 35829
-    engagement: 791
-    commentsToLikes: 0.013667
-    id: ck5q524tqr2pa0i11359msv1w
-    verified: false
-    hashtags: "#rottweiler, #lesmills, #fitness, #bodycombat"
-  - username: "xxkana513xx"
-    fullname: >-
-      ✷kana✷
-    bio: >-
-      📍JAPAN tokyo 👧🏽2013.1.20 girl❤︎single mother 🧡fashion／life／trip 質問等は最新postのコメント欄へ🙇‍♀️
-    location: "Japan"
-    followers: 64697
-    engagement: 167
-    commentsToLikes: 0.008390
-    id: ck5ckyuejxw1k0i11yw4swa4n
-    verified: false
-    hashtags: "#andaztavern, #goto, #andazrooftopbar, #andaz"
 ---

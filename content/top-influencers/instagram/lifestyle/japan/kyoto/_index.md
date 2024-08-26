@@ -1,12 +1,48 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Kyoto In 2023
+title: Top 10 Lifestyle Instagram Influencers In Kyoto In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Kyoto in 2023. Most popular hashtags: #tokyo #japan #kyoto #lifestyle.
+  Find top lifestyle Instagram influencers in Kyoto in 2024. Most popular hashtags: #japan #tokyo #kyoto #lifestyle.
 platform: Instagram
-hits: 10
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 10 Instagram influencers like this in Kyoto, Japan for you to connect with.
+hits: 14
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 14 Instagram influencers like this in Kyoto, Japan for you to connect with.
 profiles:
+  - username: "dear.yc"
+    fullname: >-
+      Yau Ching
+    bio: >-
+      ♡ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ʟɪғᴇ ᴅᴍ ғᴏʀ ᴊᴏʙ :) ~𝑀𝑦 𝑌𝑜𝑢𝑇𝑢𝑏𝑒~ ✿
+    location: "Japan"
+    followers: 54515
+    engagement: 205
+    commentsToLikes: 0.015516
+    id: ck5pzv1h12w0f0i11j4gis8if
+    verified: false
+    hashtags: "#love, #japan, #food, #hongkong"
+  - username: "whatthepato"
+    fullname: >-
+      PATRICIA in Tokyo
+    bio: >-
+      📍Tokyo, Japan TikTok & YouTube: @whatthepato Business/案件: whatthepato@gmail.com MORE FROM ME👇🏼
+    location: "Japan"
+    followers: 260872
+    engagement: 207
+    commentsToLikes: 0.013836
+    id: cloxogaa0zohg0j0852kr4afd
+    verified: false
+    hashtags: "#tokyo, #pr, #japanesefood, #japan"
+  - username: "guava.chang"
+    fullname: >-
+      拔辣-若茵
+    bio: >-
+      #茵茵隨手寫 💬 photography • fashion • lifestyle • engineering 🚴‍♀️🏋🏻‍♀️ 📸 🥣 🎵 Contact/合作✉️ Email 或 私訊 🐆 @0617prince
+    location: "Japan"
+    followers: 157835
+    engagement: 225
+    commentsToLikes: 0.006575
+    id: ck5q41jkknc0d0i110iylum48
+    verified: false
+    hashtags: "#photography, #happyvalentinesday, #travel, #aquaeveryday"
   - username: "reiko_katsuyama"
     fullname: >-
       REIKO_KATSUYAMA
@@ -31,6 +67,30 @@ profiles:
     id: ck0vzct0u8gop0i19r37oru9y
     verified: false
     hashtags: "#zerowastelifestyle, #vegankyoto, #organicliving, #nowasteliving"
+  - username: "alaninfinity"
+    fullname: >-
+      Alan Wong 📸
+    bio: >-
+      Be the change you wish to see in the 🌎 🇭🇰 HK 📷 Sony Xperia 5 II/ Sony A7 IV/ Mavic Pro 📩 DM/ alanwhla@gmail.com
+    location: "Japan"
+    followers: 28277
+    engagement: 685
+    commentsToLikes: 0.025512
+    id: ckap1upmlw8bs0i78fgjr4qrs
+    verified: false
+    hashtags: "#kyoto, #hkparents, #foodphotography, #familyfriendly"
+  - username: "aesthetic_ys"
+    fullname: >-
+      Yuki Sorci
+    bio: >-
+      ◽️CEO @evolifeapparel ◾️USBB All Japan Mens Physique Overall🏆 ◽️Fmr Pro MMA Fighter👊🏼 ◾️Trader📈 🔹@vqfit 🔹@yavalabs.official 🔹@mycookiedealer
+    location: "Japan"
+    followers: 347088
+    engagement: 247
+    commentsToLikes: 0.004277
+    id: ck5qcepneq7670i11a2jqf9am
+    verified: false
+    hashtags: "#pt, #fitspo, #muscle, #tokyo"
   - username: "pa_na_ki"
     fullname: >-
       
@@ -55,18 +115,6 @@ profiles:
     id: ck15ukdltnlv40i19vglqscwi
     verified: false
     hashtags: "#lifeincanada, #globalcitizen, #btsarmy, #deertomyheart"
-  - username: "miyako.610"
-    fullname: >-
-      都　Miyako
-    bio: >-
-      fitness YouTuber 🎥みやこずちゃんねる apparel 🐚 @coralu.official supplement @haleo_official ⬇️ダイエットの食事やトレーニングの投稿
-    location: "Japan"
-    followers: 36569
-    engagement: 1025
-    commentsToLikes: 0.014134
-    id: ck8tc215gy01u0j78fh6krpoo
-    verified: false
-    hashtags: "#workout, #life, #coralu, #fitnessgirl"
   - username: "nyanchutagram9"
     fullname: >-
       Mizuki‪(*˙˘˙*)❥❥
@@ -79,52 +127,4 @@ profiles:
     id: ck9hbj2r6h1z70j78bl77lnk7
     verified: false
     hashtags: "#instapic, #nightout, #nightphotography, #cartier"
-  - username: "terupop"
-    fullname: >-
-      TERU🤴🏽TERUPOP👨🏼‍🎓PLAY B♂Y👯‍♂️
-    bio: >-
-      ダンス踊ったり、口だけやったり、筋トレしてまふ
-    location: "Japan"
-    followers: 5896
-    engagement: 934
-    commentsToLikes: 0.009726
-    id: ck5zm7leqm1yc0i14ulzh8lv3
-    verified: false
-    hashtags: "#videographer, #teru, #jazz, #repost"
-  - username: "isseimorinaka"
-    fullname: >-
-      Issei morinaka
-    bio: >-
-      👘 K京Y都C⛩
-    location: "Japan"
-    followers: 21653
-    engagement: 793
-    commentsToLikes: 0.003379
-    id: ck5bzjbx8r9du0i11f811dzhp
-    verified: false
-    hashtags: "#downtown, #skateboards, #skateboard, #classic"
-  - username: "tokyotourguide"
-    fullname: >-
-      Tokyo tour guide 🇯🇵
-    bio: >-
-      Regular & Virtual tours @jadefuruta 🇧🇷Português/Japanese online classes Watch my Tokyo vlog bellow 🇯🇵 yoshidajei@gmail.com
-    location: "Japan"
-    followers: 21990
-    engagement: 200
-    commentsToLikes: 0.028487
-    id: ckap54n4qa6lj0i78oiqhz0ok
-    verified: false
-    hashtags: "#japanfoodguide, #foodstagram, #tokyofood, #animelover"
-  - username: "aya408"
-    fullname: >-
-      a y a
-    bio: >-
-      📍ᴺᴱᵂ ᵞᴼᴿᴷ ᵞᴼᴳᴬ  ̸ ᵀᴿᴬᵛᴱᴸ  ̸ ᶜᴬᶠᴱ  ̸ ᴬᴿᵀ  ̸ ᴸᴵᶠᴱˢᵀᵞᴸᴱ
-    location: "Japan"
-    followers: 5445
-    engagement: 2093
-    commentsToLikes: 0.010733
-    id: ck6tq6xkypqnb0j715tdqcb6y
-    verified: false
-    hashtags: "#coffeeshopcorners, #cafehopping, #caffeinecouture, #searchwandercollect"
 ---

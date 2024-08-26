@@ -1,12 +1,24 @@
 ---
-title: Top 10 Bmx Instagram Influencers In United States In 2023
+title: Top 10 Bmx Instagram Influencers In United States In 2024
 description: >-
-  Find top bmx Instagram influencers in United States in 2023. Most popular hashtags: #bmx #bmxracing #bmxlife.
+  Find top bmx Instagram influencers in United States in 2024. Most popular hashtags: #bmx #bmxstreet #bmxlife.
 platform: Instagram
-hits: 774
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 774 Instagram influencers like this in United States for you to collaborate.
+hits: 773
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 773 Instagram influencers like this in United States for you to contact.
 profiles:
+  - username: "bmx"
+    fullname: >-
+      Our BMX
+    bio: >-
+      BMX is tight.
+    location: "United States"
+    followers: 458876
+    engagement: 75
+    commentsToLikes: 0.008227
+    id: ck0ttexcs2f5p0i19li005vri
+    verified: false
+    hashtags: "#bmx, #bmxbikes, #bmxstreet, #mtb"
   - username: "seth_kimbrough"
     fullname: >-
       Seth Kimbrough
@@ -55,18 +67,6 @@ profiles:
     id: ck55l9d18120w0i11mimk1bsl
     verified: false
     hashtags: "#bmx"
-  - username: "bmx"
-    fullname: >-
-      Our BMX
-    bio: >-
-      BMX is tight.
-    location: "United States"
-    followers: 184636
-    engagement: 292
-    commentsToLikes: 0.008629
-    id: ck0ttexcs2f5p0i19li005vri
-    verified: false
-    hashtags: "#ourbmx, #sourcebmx, #bmx, #ourbmxhighlight"
   - username: "bmx4all"
     fullname: >-
       BMX
@@ -79,52 +79,52 @@ profiles:
     id: ckaovblo53v8x0i78mezjo7om
     verified: false
     hashtags: ""
-  - username: "nadja.pries"
+  - username: "dannyjosa"
     fullname: >-
-      Nadja Pries | Athlete
+      Daniel Josa
     bio: >-
-      A life full of crossfit & downhill ✨former bmx race pro & 🇧🇷 2016 Olympian 🔥@crossfitdistrict18 🎽@renerosa_trikotmanufaktur
+      Freestyle Bmx | Motorcycles 🤙🏽 Globetrotter | 78 countries+ 🌎✈️ Exatlon Hungary All Star Champion 🏆🔴 dannyjosabmx@gmail.com
     location: "United States"
-    followers: 8122
-    engagement: 984
-    commentsToLikes: 0.028159
-    id: ck5q3an1mk0j60i1196bxnovq
+    followers: 41504
+    engagement: 488
+    commentsToLikes: 0.005071
+    id: ck13cz8lu2vd70i19rd1rn4f1
     verified: false
-    hashtags: "#healthylifestyle, #mtblife, #mtbgirl, #mountainlove"
-  - username: "abmxiclerider"
+    hashtags: "#bmxpov, #bmxdirt, #costarica, #exatlonhungary"
+  - username: "billyperry631"
     fullname: >-
-      Jay Dalton
+      Billy Perry
     bio: >-
-      A-BMX-icle-rider My name is Jay and I ride small bikes. Contact: jaydaltonbmx@gmail.com
+      Pro BMX Athlete | FTL 🐘 @ftlbmx @merrittbmx @insta360 📍 NY
     location: "United States"
-    followers: 53284
-    engagement: 923
-    commentsToLikes: 0.017589
-    id: ck5c1j67pva9h0i116egl625j
-    verified: false
-    hashtags: "#bmx, #mx, #streetasheck, #sethisalive"
-  - username: "feliciastancil23"
+    followers: 404810
+    engagement: 954
+    commentsToLikes: 0.014324
+    id: ck5byhairp55l0i11r5zmagl3
+    verified: true
+    hashtags: "#explore, #volumebikes, #ftlbmx, #bmx"
+  - username: "jarrenbarboza"
     fullname: >-
-      𝔽𝕖𝕝𝕚𝕔𝕚𝕒 𝕊𝕥𝕒𝕟𝕔𝕚𝕝
+      jarren barboza
     bio: >-
-      Professional BMX Racer🚲Olympian🇺🇸
+      Pro BMX Athlete — life on two wheels @ontwowheels
     location: "United States"
-    followers: 31708
-    engagement: 919
-    commentsToLikes: 0.019756
-    id: ck0vzu4plawy30i19jxkm05mm
+    followers: 83714
+    engagement: 596
+    commentsToLikes: 0.028317
+    id: ck0txk0iqjgu10i19zxfqzuqu
     verified: false
-    hashtags: "#tldhelmet, #tokyoprep, #teamusa, #rockhillbmx"
-  - username: "spencercole1"
+    hashtags: "#bikelife, #california, #sandiego, #losangeles"
+  - username: "walshcorey"
     fullname: >-
-      Spencer Cole
+      Corey Walsh
     bio: >-
-      Professional BMX Racer for @dkbicycles 🚲 Ohio raised ——> Florida living ☀️ Contact: spencercole01@gmail.com ✉️
+      🌈 @cultcrew @odysseybmx @vansbmx66 @fastandloosebmx @s1helmets_bmx
     location: "United States"
-    followers: 9191
-    engagement: 896
-    commentsToLikes: 0.028196
-    id: ck5buiuj5hv8i0i11zcpifa5i
+    followers: 85676
+    engagement: 600
+    commentsToLikes: 0.017305
+    id: ck0tyx68iog1n0i199415147r
     verified: false
-    hashtags: "#usabmx, #bmx, #dkbicycles, #florida"
+    hashtags: "#linkinbio"
 ---

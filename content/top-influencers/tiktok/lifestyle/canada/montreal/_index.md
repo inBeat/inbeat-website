@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Montreal In 2023
+title: Top 10 Lifestyle TikTok Influencers In Montreal In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #montreal #toronto #mtl.
+  Find top lifestyle TikTok influencers in Montreal in 2024. Most popular hashtags: #fyp #montreal #lifestyle #toronto.
 platform: TikTok
 hits: 5
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our database aggregates 5 TikTok influencers like this in Montreal, Canada for you to pitch.
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our platform has 5 TikTok influencers like this in Montreal, Canada for you to work with.
 profiles:
   - username: "youyouz.z"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.021906
     id: ck9tu9q2lkgs40j78b6xwzag1
     verified: false
-    hashtags: "#hockeyplayer, #gongshow, #hockeytiktoks, #hockeyplayers"
+    hashtags: "#hockeytiktoks, #gongshow, #hockey, #hockeyplayers"
   - username: "macaretto_"
     fullname: >-
       Macaretto
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.046196
     id: ckbknm6a8hnz90j23vslju4mi
     verified: false
-    hashtags: "#momsoftiktokclub, #momsontiktok, #boymomma, #duet"
+    hashtags: "#canadianmom, #bestdance, #boymomma, #momsover30"
   - username: "katiecung"
     fullname: >-
       katiecung
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.045092
     id: ck9v8tefjb49r0j78t713sdez
     verified: false
-    hashtags: "#styletips, #howto, #fyp, #bts"
+    hashtags: "#outfitinspo, #photomagic, #bts, #fyp"
   - username: "naomileanage"
     fullname: >-
       Naomi Leanage
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.024703
     id: ck806vbblmaom0j78ddv18enc
     verified: false
-    hashtags: "#torontovlog, #tryonhaul, #toronto, #canadian"
+    hashtags: "#canadian, #toronto, #torontovlog, #tryonhaul"
   - username: "samsvsco"
     fullname: >-
       sam 🖤
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.042160
     id: ckal6dbh0adao0i786uux26q0
     verified: false
-    hashtags: "#makeup101, #makeuptips, #makeupforbeginners, #makeuphacks"
+    hashtags: "#makeupforbeginners, #makeup101, #makeuplooks, #makeup"
 ---

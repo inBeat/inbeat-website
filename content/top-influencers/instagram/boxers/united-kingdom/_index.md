@@ -1,130 +1,130 @@
 ---
-title: Top 10 Boxers Instagram Influencers In United Kingdom In 2023
+title: Top 10 Boxers Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top boxers Instagram influencers in United Kingdom in 2023. Most popular hashtags: #boxing #sports #boxer.
+  Find top boxers Instagram influencers in United Kingdom in 2024. Most popular hashtags: #boxing #reels #athlete.
 platform: Instagram
-hits: 88
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 88 Instagram influencers like this in United Kingdom for you to pitch.
+hits: 112
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 112 Instagram influencers like this in United Kingdom for you to collaborate.
 profiles:
   - username: "jordz_flynn"
     fullname: >-
       Jordan Flynn
     bio: >-
-      Professional Boxer 3x National Champion
+      Professional Boxer 9-0 3x National Champion Management - @258mgt
     location: "United Kingdom"
-    followers: 49536
-    engagement: 632
-    commentsToLikes: 0.047709
+    followers: 56360
+    engagement: 411
+    commentsToLikes: 0.035220
     id: ck5cl43tcy7jo0i11tldzbazd
     verified: false
-    hashtags: ""
-  - username: "r_riakporhe"
-    fullname: >-
-      Richard Riakporhe
-    bio: >-
-      Professional boxer ‘The Midnight Train’ @adidas Athlete Cruiserweight British & WBA Int Champion info@riakporhe.com
-    location: "United Kingdom"
-    followers: 28357
-    engagement: 468
-    commentsToLikes: 0.031604
-    id: ck14ldz11u75q0i19rwcm2tgg
-    verified: true
-    hashtags: "#boxing, #adidas, #adidasathlete, #london"
-  - username: "harrykingkhan"
-    fullname: >-
-      Harry
-    bio: >-
-      2010 Commonwealth Games boxing Bronze Medalist. Professional boxer 7-0 Twitter - @harrykingkhan Snapchat - harrykingkhan
-    location: "United Kingdom"
-    followers: 59406
-    engagement: 671
-    commentsToLikes: 0.016320
-    id: ck5qbs11in4q60i11dmjcvggn
-    verified: false
-    hashtags: "#2020, #alhamdulillah, #01, #wbc"
-  - username: "topboxersadiq"
-    fullname: >-
-      Umar Sadiq
-    bio: >-
-      🥊 Professional Boxer 📸 Model 🎟️ Promoted by @frank_warren_official 📺 TV Network @btsport 🌱 #plantbasedathlete #mindfulliving 📍 LDN/LA
-    location: "United Kingdom"
-    followers: 18069
-    engagement: 763
-    commentsToLikes: 0.051754
-    id: ck5zqsq1pv8160i14sa2pc8zd
-    verified: false
-    hashtags: "#boxing, #lifeisgood, #gameshow, #topboxer"
-  - username: "tymitchellofficial"
-    fullname: >-
-      Ty “The Change ” Mitchell
-    bio: >-
-      Muslim / Father / Super middle weight boxer / founder of @gethearduk Managed by @catalyst.management
-    location: "United Kingdom"
-    followers: 30770
-    engagement: 576
-    commentsToLikes: 0.037197
-    id: ck5q03z4u44oi0i11wdu3v0nx
-    verified: false
-    hashtags: ""
-  - username: "_john_ryder_"
-    fullname: >-
-      John Ryder 🦍
-    bio: >-
-      Professional Boxer Super Middleweight “The People’s Champion” 📧 Charlie@thehugeproject.com @hugeproject
-    location: "United Kingdom"
-    followers: 14924
-    engagement: 600
-    commentsToLikes: 0.037070
-    id: ck13b64rotv3s0i197p2odk31
-    verified: true
-    hashtags: "#iwontbedenied, #repost, #pushit, #dreamteam"
-  - username: "shanryanxx"
+    hashtags: "#teamflynn, #joshuafranklin, #boxing, #winning"
+  - username: "shannonryan_"
     fullname: >-
       Shannon Ryan ⚡️
     bio: >-
-      Boxer🥊 • Everything happens for a reason • Trust the process ✨ UK | 24
+      Professional Boxer - @matchroomboxing 🥊 Management - @258mgt @everlast | @o2uk
     location: "United Kingdom"
-    followers: 8498
-    engagement: 672
-    commentsToLikes: 0.029186
+    followers: 101271
+    engagement: 498
+    commentsToLikes: 0.021651
     id: ck6u31l8fv5ne0j7133yt7td4
     verified: false
-    hashtags: "#dedicated, #boxraw, #process, #passion"
-  - username: "millsyboxer"
+    hashtags: "#boxing, #lifestyle, #athlete, #coaching"
+  - username: "blackthunder.ca"
     fullname: >-
-      
+      Caoimhín Agyarko
     bio: >-
-      Pro Boxer 🥊 English Champ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 IBF Youth Champ 🏆
+      ▪️BlackThunder 🇮🇪 🇬🇭 ▪️Professional boxer 13-0-0 7KO ▪️Promoted by @matchroomboxing ▪️Enquiries Ready@stn-sports.com ▪️ @sportsdirectireland
     location: "United Kingdom"
-    followers: 6502
-    engagement: 997
-    commentsToLikes: 0.021126
-    id: ck5q040e144vg0i113s8bq6wp
+    followers: 37818
+    engagement: 739
+    commentsToLikes: 0.020268
+    id: ck5cl45fsy7mt0i114k8yym8k
     verified: false
-    hashtags: "#fireinthepark, #unstoppable"
-  - username: "bigjoeegan"
+    hashtags: "#noroomforracism, #midge, #reels, #agyarkodennis"
+  - username: "liambeefysmith"
     fullname: >-
-      Big Joe Egan
+      Liam Smith
     bio: >-
-      🎥 Actor 🥊 Retired Irish Heavyweight boxer & sparring partner of @miketyson 🧠 Mental health ambassador- @unmaskedmentalhealth
+      Proud Dad 💖 Professional Boxer - Former British, Commonwealth & WBO World Champion 🥊 Team Smith ❤️
     location: "United Kingdom"
-    followers: 7819
-    engagement: 570
-    commentsToLikes: 0.041058
-    id: ck5bw0ld8krg90i11zkleel1f
+    followers: 151212
+    engagement: 439
+    commentsToLikes: 0.023466
+    id: ck0twd4n6eyu80i19j35jhqew
     verified: true
-    hashtags: "#throwbackthursday, #mentalhealth, #carolineflack, #reachin"
-  - username: "jackbateson94"
+    hashtags: "#hardhitterzuk, #reels, #boxing, #dj"
+  - username: "tommyfury"
     fullname: >-
-      Jack Bateson
+      Tommy TNT Fury
     bio: >-
-      📍Leeds, UK ◾️Professional Boxer ◾️12W 0L ◾️Managed by @mtkglobal ◾️Former Team GB Amateur
+      TNT💣 Contact✉️- jake@alphatalentgroup.co.uk Professional boxer🥊 PRE-ORDER MY FIRST AUTOBIOGRAPHY BELOW⬇️
     location: "United Kingdom"
-    followers: 15709
-    engagement: 361
-    commentsToLikes: 0.031693
-    id: ck6u33hgyvhac0j71xjg4mrcc
+    followers: 5448575
+    engagement: 344
+    commentsToLikes: 0.005085
+    id: cku8q8m6imgwp0j233sy1s9py
     verified: false
-    hashtags: "#teambateson, #hbtunnellingltd, #fundamentals, #7forburrow"
+    hashtags: "#ad, #thisisnotjust, #lightningcanstriketwice"
+  - username: "dennismccann"
+    fullname: >-
+      Dennis Mccann
+    bio: >-
+      Professional Boxer 🥊
+    location: "United Kingdom"
+    followers: 230642
+    engagement: 329
+    commentsToLikes: 0.006814
+    id: ck600y72wehve0i144feow39k
+    verified: false
+    hashtags: "#andstill, #themenace, #joycezhang, #april15"
+  - username: "teylynnjones"
+    fullname: >-
+      'Teysty' Tey Lynn-Jones
+    bio: >-
+      🔹Professional Boxer 🥊 🔹/Essex\ ⚒⚒ London 👮🏼‍♂️🔵⚫️🔵 🔹💪🏼🏃🏼‍♂️ #CrossFit #Boxing #Running 🔸next goal….. 👀
+    location: "United Kingdom"
+    followers: 10875
+    engagement: 321
+    commentsToLikes: 0.117221
+    id: ckf5wvandtbow0j23wffln8ev
+    verified: false
+    hashtags: "#gettingfitter, #gifted, #running, #love"
+  - username: "hamzahsheeraz"
+    fullname: >-
+      Hamzah Sheeraz
+    bio: >-
+      🥊 Professional Boxer 💥 17-0 ( 13 KO’s ) 📍 London @lexusstoke @selectgroupuae
+    location: "United Kingdom"
+    followers: 48606
+    engagement: 287
+    commentsToLikes: 0.019916
+    id: ck6tslkb45gg60j710509q0i0
+    verified: false
+    hashtags: "#teamsheeraz, #coyg"
+  - username: "campbellhatton"
+    fullname: >-
+      Campbell Hatton
+    bio: >-
+      🌪️ Manchester 🌪️ Professional boxer 🌪️ Enquiries: Henry@258mgt.com
+    location: "United Kingdom"
+    followers: 134921
+    engagement: 198
+    commentsToLikes: 0.010809
+    id: ck8t07mm7r3er0j78cyd21eg0
+    verified: false
+    hashtags: "#hurricanehatton, #14"
+  - username: "mickconlan11"
+    fullname: >-
+      Michael Conlan
+    bio: >-
+      @flysportswear @onlyfans -content creator Professional boxer. Commonwealth, European & World Champion Olympic Medalist. For PR & Sponsorships email 🔽🔽
+    location: "United Kingdom"
+    followers: 265646
+    engagement: 202
+    commentsToLikes: 0.010303
+    id: ck5hg3yky0svb0i1180r1uhy5
+    verified: true
+    hashtags: "#andthenew, #boxing, #lopezconlan, #mickconlan"
 ---

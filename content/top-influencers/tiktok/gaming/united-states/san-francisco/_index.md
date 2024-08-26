@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In San Francisco In 2023
+title: Top 10 Gaming TikTok Influencers In San Francisco In 2024
 description: >-
-  Find top gaming TikTok influencers in San Francisco in 2023. Most popular hashtags: #fyp #duet #gaming #meme.
+  Find top gaming TikTok influencers in San Francisco in 2024. Most popular hashtags: #fyp #gaming #duet #meme.
 platform: TikTok
 hits: 4
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine holds 4 TikTok influencers like this in San Francisco, United States for you to work with.
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our database holds 4 TikTok influencers like this in San Francisco, United States for you to connect with.
 profiles:
   - username: "sfshock"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.030475
     id: ckcj8tt1g7htx0j23nbq32ozo
     verified: true
-    hashtags: "#fyp, #foryou, #owl, #youtube"
+    hashtags: "#overwatchclips, #ow, #gaming, #owl"
   - username: "eddiegangland"
     fullname: >-
       Eddie Gangland
@@ -62,8 +62,8 @@ profiles:
       The best gaming clips, news, and tips! 🎮 Submit clips to our Instagram 🕹
     location: "United States"
     followers: 23400
-    engagement: 1300
-    commentsToLikes: 0.011840
+    engagement: 1292
+    commentsToLikes: 0.011511
     id: cka0jrbqijag00i78937gyjp3
     verified: false
     hashtags: "#callofduty, #warzoneclips, #callofdutywarzone, #callofdutycoldwar"
@@ -102,29 +102,29 @@ profiles:
     commentsToLikes: 0.107764
     id: ckcviy7wpw7rt0j2339qbjjwv
     verified: false
-    hashtags: "#joke, #furry, #stitch, #duet"
-  - username: "ellefyre"
+    hashtags: "#stitch, #duet, #joke, #furry"
+  - username: "pricklypearcc"
     fullname: >-
       El
     bio: >-
       I guess I do gaming content now 😂 Christian 🔧RepublicRangers🔧
     location: "United States"
-    followers: 10400
-    engagement: 2183
-    commentsToLikes: 0.069314
+    followers: 11400
+    engagement: 2297
+    commentsToLikes: 0.056838
     id: ckacvze8jq5ls0i78px3iza9f
     verified: false
-    hashtags: "#imgonnabarf, #workout, #cardio, #sith"
-  - username: "deardesolate"
+    hashtags: "#fyp, #procreate, #artist, #digitalart"
+  - username: "xboxdeardesolate"
     fullname: >-
       Samantha Wilson
     bio: >-
       12-22-2000🎉🎂 🇺🇸NC🇺🇸 🎮Gaming🎮 🎭Cosplay🎭 🎨Art🎨
     location: "United States"
-    followers: 16000
-    engagement: 2166
-    commentsToLikes: 0.064583
+    followers: 15900
+    engagement: 1908
+    commentsToLikes: 0.043478
     id: ckbqbv8wcxnxb0j238s8pg3xr
     verified: false
-    hashtags: "#greenscreen, #stitch, #greenscreensticker, #apexlegends"
+    hashtags: "#colorcustomizer"
 ---

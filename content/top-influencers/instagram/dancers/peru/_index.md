@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Peru In 2023
+title: Top 10 Dancers Instagram Influencers In Peru In 2024
 description: >-
-  Find top dancers Instagram influencers in Peru in 2023. Most popular hashtags: #reggaeton #rauwalejandro #lennytavarez.
+  Find top dancers Instagram influencers in Peru in 2024. Most popular hashtags: #reggaeton #lennytavarez #rauwalejandro.
 platform: Instagram
-hits: 49
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 49 Instagram influencers like this in Peru for you to contact.
+hits: 48
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat has 48 Instagram influencers like this in Peru for you to work with.
 profiles:
   - username: "muharruda"
     fullname: >-

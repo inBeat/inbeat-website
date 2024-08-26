@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In United States In 2023
+title: Top 10 Makeup TikTok Influencers In United States In 2024
 description: >-
-  Find top makeup TikTok influencers in United States in 2023. Most popular hashtags: #duet #fyp #greenscreen #makeup.
+  Find top makeup TikTok influencers in United States in 2024. Most popular hashtags: #makeup #fyp #greenscreen.
 platform: TikTok
-hits: 7188
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our database has 7188 TikTok influencers like this in United States for you to contact.
+hits: 7161
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 7161 TikTok influencers like this in United States for you to work with.
 profiles:
   - username: "niajeanartworks"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.161887
     id: ckcphx87iho8d0j238cqi4ypw
     verified: false
-    hashtags: "#makeupisart, #makeupartist, #makeuptransformation, #bodypaintingart"
+    hashtags: "#makeupartist, #carebearsofficial, #makeupfyp, #carebearmakeup"
   - username: "kashootjlyn"
     fullname: >-
       🇵🇭jlyn
@@ -30,19 +30,7 @@ profiles:
     commentsToLikes: 0.052969
     id: ckb0ykywenf940j23p8p9yes3
     verified: false
-    hashtags: "#aapifamily, #asian, #aapi, #filipina"
-  - username: "thedaltonlevi"
-    fullname: >-
-      DaltonLevi
-    bio: >-
-      ❤️ Kinda a Makeup Artist/Actor/Singer P.O. Box 1195 Jacksonville Alabama 36265❤️
-    location: "United States"
-    followers: 104200
-    engagement: 2556
-    commentsToLikes: 0.085335
-    id: ck8zb75vi4esq0j78mw3gu0et
-    verified: false
-    hashtags: "#teamlevi, #duet, #stitch, #greenscreen"
+    hashtags: "#filipina, #aapi, #fyp, #asian"
   - username: "crisalexmua"
     fullname: >-
       Cris Alex
@@ -66,7 +54,7 @@ profiles:
     commentsToLikes: 0.108623
     id: ckbf08abnlqw80j2324tpzuph
     verified: false
-    hashtags: "#johnnydontleaveme, #blacklesbian, #greenscreen, #transitions"
+    hashtags: "#blacklesbian, #johnnydontleaveme, #greenscreen, #transitions"
   - username: "glambymiki_"
     fullname: >-
       Miki
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.130740
     id: ckavrvmru445p0j237liz6hvu
     verified: false
-    hashtags: "#massachusetts, #dothescottsslide, #foryou, #itwasntme"
+    hashtags: "#college, #femme, #massachusetts, #art"
   - username: ".gem.in.i.tingz"
     fullname: >-
       🧿
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.115869
     id: ckavo28jhyo4z0j23p7jrv1g7
     verified: false
-    hashtags: "#funny, #mentalhealth, #nonbionary, #kidsoftiktok"
+    hashtags: "#fyp, #duet, #elderemo, #makeup"
   - username: "xhoneybex"
     fullname: >-
       You’re Gorgeous
@@ -127,4 +115,16 @@ profiles:
     id: ckdbspigucluw0j23qho9rhfy
     verified: false
     hashtags: "#colorcustomizer"
+  - username: "hollyuwu"
+    fullname: >-
+      HollyUwU
+    bio: >-
+      She/They BLM 18 I do makeup and cosplay Follow my Instagram :)
+    location: "United States"
+    followers: 56500
+    engagement: 1952
+    commentsToLikes: 0.051748
+    id: ck8qpcajn2v1d0j78m1jp8oen
+    verified: false
+    hashtags: "#washington, #dilfsoftiktok, #dilf, #pleaseifyoureadilfduetme"
 ---

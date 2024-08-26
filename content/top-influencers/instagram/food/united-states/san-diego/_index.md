@@ -1,36 +1,36 @@
 ---
-title: Top 10 Food Instagram Influencers In San Diego In 2023
+title: Top 10 Food Instagram Influencers In San Diego In 2024
 description: >-
-  Find top food Instagram influencers in San Diego in 2023. Most popular hashtags: #sandiegolife #sandiego #sponsored.
+  Find top food Instagram influencers in San Diego in 2024. Most popular hashtags: #sandiegofood #sandiegoeats #sandiego #sandiegorestaurants.
 platform: Instagram
-hits: 96
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 96 Instagram influencers like this in San Diego, United States for you to work with.
+hits: 157
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 157 Instagram influencers like this in San Diego, United States for you to contact.
 profiles:
+  - username: "meganelisevarela"
+    fullname: >-
+      Megan / San Diego Travel Tips
+    bio: >-
+      🌴Your California Travel Guide ✈️ Affordable Flights | Hotels 🌮 Local Food & San Diego Adventures 🐶 Dog Mom 💌 meganelisevarela@gmail.com
+    location: "United States"
+    followers: 71647
+    engagement: 448
+    commentsToLikes: 0.034509
+    id: ckwbef6n9kz690j23nwpllfi8
+    verified: false
+    hashtags: "#visitsandiego, #downtownsandiego, #sandiegofoodies, #sandiegoliving"
   - username: "influencersandiego"
     fullname: >-
-      Mariana Costa | San Diego
+      Mariana Costa | San Diego, California
     bio: >-
-      🚁 | Lifestyle and Travel Influencer 🌎 | Last trips: Cartagena, Tulum, Sedona 🌴 | Living in San Diego, CA 🙏 | Trust God 📲 | Email for collabs
+      👩🏻‍💻 OG Influencer 🚁 Lifestyle and Travel 🌎 San Diego, California and the world! 💌 influencersandiego@gmail.com 🙏 Trust God
     location: "United States"
-    followers: 12987
-    engagement: 367
-    commentsToLikes: 0.125654
+    followers: 15954
+    engagement: 209
+    commentsToLikes: 0.231957
     id: ck6u34lvmvofj0j71zrsf18cg
     verified: false
-    hashtags: "#bikinibabes, #calilove, #sandiegolife, #sandiego"
-  - username: "mittqueen"
-    fullname: >-
-      Ann Najjar
-    bio: >-
-      👑 #mittqueen X @venum (promo code mittqueen10) 🥊@bomber_squad_boxing_academy 🍴@fork_it_food 📍San Diego,CA
-    location: "United States"
-    followers: 176074
-    engagement: 817
-    commentsToLikes: 0.015169
-    id: ck9wedzk5jtbj0j78hmt0r2rz
-    verified: false
-    hashtags: "#bombersquad, #mittqueen"
+    hashtags: "#amazonfashion2023, #amazonfashionfinds, #travelinfluencer, #sandiegofun"
   - username: "n0thing"
     fullname: >-
       Jordan Gilbert
@@ -55,6 +55,30 @@ profiles:
     id: ck5c08qz4snma0i119x9xld7e
     verified: false
     hashtags: "#whatsfordinner"
+  - username: "babygirleat"
+    fullname: >-
+      San Diego Foodie
+    bio: >-
+      🍕 Content creator 🍣 Owned by @nerdslut 📍 Based in San Diego, CA
+    location: "United States"
+    followers: 4908
+    engagement: 709
+    commentsToLikes: 0.043451
+    id: ckrnawvgagpf90j2307asrcda
+    verified: false
+    hashtags: "#sandiegofood, #food, #foodstagram, #sandiegoeats"
+  - username: "raeatanielu"
+    fullname: >-
+      Raea Tanielu
+    bio: >-
+      𝘳𝘰𝘮𝘢𝘯𝘵𝘪𝘤𝘪𝘻𝘪𝘯𝘨 𝘮𝘺 𝘭𝘪𝘧𝘦 ☆ sharing travel, food, + lifestyle ☆ san diego, ca + beyond ☆ raeatanielu@gmail.com to collab! 🇺🇸🇦🇸🇵🇭
+    location: "United States"
+    followers: 15267
+    engagement: 231
+    commentsToLikes: 0.030664
+    id: cl7ng317qw0hm0i235firjrz0
+    verified: false
+    hashtags: "#visitsandiego, #sandiegorestaurants, #sandiego, #bellaggio"
   - username: "kalefornia_kravings"
     fullname: >-
       Caitlin | Easy & Healthy Meals
@@ -66,19 +90,7 @@ profiles:
     commentsToLikes: 0.343153
     id: ck5bu8xbrhczn0i1105yt7b95
     verified: false
-    hashtags: "#sponsored, #shrimp, #healthylunch, #simplerecipes"
-  - username: "_sandiegofoodie"
-    fullname: >-
-      San Diego Foodie 🏝 Robin
-    bio: >-
-      🌮 The best food & drinks in San Diego 👥 Supporting local restaurants 🤗 DM/email for collaborations 📩 sandiegofoodie1@gmail.com
-    location: "United States"
-    followers: 19378
-    engagement: 288
-    commentsToLikes: 0.174373
-    id: ck6tss6cu6jh50j71u377jkzu
-    verified: false
-    hashtags: ""
+    hashtags: "#glutenfreerecipes, #realfood, #easydinner, #healthylunch"
   - username: "amyvsfood"
     fullname: >-
       Amy Tran
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.027592
     id: ckaot600vuj5g0i78voe196rx
     verified: false
-    hashtags: "#geoduck, #pnw, #laketahoe, #oystering"
+    hashtags: "#pnw, #leavenworthwashington, #laketahoe, #clamming"
   - username: "firstcomeslatte"
     fullname: >-
       Kristen Mattern
@@ -103,28 +115,16 @@ profiles:
     id: ck9wfuzvlqm170j78sfplrg9m
     verified: false
     hashtags: "#christmas, #traderjoes, #sandiegofoodie, #supportlocal"
-  - username: "anooshka_yousefasr"
+  - username: "diningwithchristine"
     fullname: >-
-      Anooshka Yousef Asre Langroudi
+      Christine | San Diego Food & Travel
     bio: >-
-      🎯 Quality over Quantity 👩‍💻Business Development @contestee.official 👩‍🎤Creative Designer 💄Makeup Artist 👸Model @anooshka.y.a
+      💕Sharing my eats, treats & travels ✈️💫 👩🏻‍🔬Scientist by day ➡️ Food lover 24/7 💌 DM/Email to collab or for inquiries
     location: "United States"
-    followers: 47809
-    engagement: 177
-    commentsToLikes: 0.192663
-    id: ck601vm61g9d80i14l30r64qf
+    followers: 11644
+    engagement: 768
+    commentsToLikes: 0.171682
+    id: clefyt56zvpz40j08afmyi8lq
     verified: false
-    hashtags: "#makeup, #modeling, #coronatime, #video"
-  - username: "taylereatseverything"
-    fullname: >-
-      Tayler Coffin | San Diego Food
-    bio: >-
-      🌮just a girl, standing in front of a salad, asking it to be tacos ✨social media management + food photography + consulting
-    location: "United States"
-    followers: 17303
-    engagement: 200
-    commentsToLikes: 0.040622
-    id: ck14jj8f7kmsv0i19n31h95vz
-    verified: false
-    hashtags: "#ralphspartner, #lovemyralphs, #sponsored, #soberoctober"
+    hashtags: "#soup, #sandwiches, #happyhour, #sandiegorestaurants"
 ---

@@ -1,12 +1,96 @@
 ---
-title: Top 10 Runners Instagram Influencers In Canada In 2023
+title: Top 10 Runners Instagram Influencers In Canada In 2024
 description: >-
-  Find top runners Instagram influencers in Canada in 2023. Most popular hashtags: #toronto #thesweatlife #bayarea.
+  Find top runners Instagram influencers in Canada in 2024. Most popular hashtags: #marathontraining #health #travel.
 platform: Instagram
-hits: 30
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 30 Instagram influencers like this in Canada for you to work with.
+hits: 49
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database holds 49 Instagram influencers like this in Canada for you to pitch.
 profiles:
+  - username: "bruce_oldman"
+    fullname: >-
+      BRUCE OLDHAM
+    bio: >-
+      Team 🇨🇦 Skier | Ultramarathon Runner | MMA Fighter 🦍 Real Life Anime Character 🦍 Free Coaching Program (in link)👇🏽 “Building Up To Your First Cork 7”
+    location: "Canada"
+    followers: 61816
+    engagement: 381
+    commentsToLikes: 0.019333
+    id: ck5c761py6w0b0i11vfws018o
+    verified: false
+    hashtags: "#reels, #freestyleskiing, #powday, #skicreative"
+  - username: "runhappyb"
+    fullname: >-
+      Brittany Peterson
+    bio: >-
+      ⛰️and🐺 lover ❤️ Run Coach at @teampeakrun Pro Ultra Runner @nikerunning @lekiusa @squirrels_nut_butter @spring_energy @petzl_running @firstendurance
+    location: "Canada"
+    followers: 13616
+    engagement: 261
+    commentsToLikes: 0.029228
+    id: ckn77eul4hlv80j23nwzbxbyc
+    verified: false
+    hashtags: "#transrockiesrun, #joyinthejourney, #ultrarunning, #niketrail"
+  - username: "the.dadcode"
+    fullname: >-
+      Khodr Habib
+    bio: >-
+      Dad first,everything else second. Realtor🚀 @aw4utherealestategroup Insta-dad 👦🏻👧🏼👶🏼 Husband👱🏼‍♀️ MBA👨‍🏫 Runner🏃🏽
+    location: "Canada"
+    followers: 13647
+    engagement: 218
+    commentsToLikes: 0.072817
+    id: ck6tkf5mr4kwr0j718onl87yc
+    verified: false
+    hashtags: "#fillupwithlove, #ad, #wellprepped, #walmartfinds"
+  - username: "happyhealthybrookie"
+    fullname: >-
+      Brooke Leavitt
+    bio: >-
+      mama | runner 13.1 x 5 (1:38) 26.2 x 1 (3:40) chasing boston 💙💛 📍calgary 🇨🇦
+    location: "Canada"
+    followers: 8245
+    engagement: 283
+    commentsToLikes: 0.062170
+    id: ck9hb17icey0t0j780daen30s
+    verified: false
+    hashtags: "#momlife, #yycrunning, #postpartum, #motherrunner"
+  - username: "brecarperuns"
+    fullname: >-
+      Brendan Carpenter
+    bio: >-
+      Runner / Coach 160lbs ⬇️ @brecarperuns on @tiktok @shinetalentgroup 5k18:47•10k38:20•21.1k1:28•42.2k3:18
+    location: "Canada"
+    followers: 21720
+    engagement: 87
+    commentsToLikes: 0.018918
+    id: ckaov1dgg2p9p0i787c2d4udd
+    verified: false
+    hashtags: "#halloweencandy, #fall, #ad, #happyhalloween"
+  - username: "bluebirdkisses"
+    fullname: >-
+      Ana Klizs • bluebirdkisses.com
+    bio: >-
+      mom of 3 | cyber sec 👩🏻‍💻 🤓| runner | wife to 👨🏻‍🦰 | toronto & PEI ♡ 🇨🇦 🇷🇴
+    location: "Canada"
+    followers: 121059
+    engagement: 65
+    commentsToLikes: 0.025985
+    id: ck5c6exju5aq20i11or5ewk7x
+    verified: true
+    hashtags: "#houserenovation, #interiordesign, #proteinshake, #birdseyeview"
+  - username: "betaniamtl"
+    fullname: >-
+      Betania Victor  Fitness & Endurance
+    bio: >-
+      ✨At 35, I started my fitness journey, at 40 I became a runner, at 42 I learned how to swim to do triathlons ✨ 📍Canada 🇧🇷 Engineer & Athlete
+    location: "Canada"
+    followers: 32611
+    engagement: 26
+    commentsToLikes: 0.058820
+    id: ck0u8f14w77760i19fhj6mmuc
+    verified: false
+    hashtags: "#runvan, #vancouverfitness, #vancityfit, #ironmanprep"
   - username: "tashawodak"
     fullname: >-
       Natasha Wodak
@@ -18,19 +102,7 @@ profiles:
     commentsToLikes: 0.032292
     id: ck0u6xdft35cz0i19a64stoqp
     verified: false
-    hashtags: "#olympicmarathon, #lululemon, #olympics, #teamcanada"
-  - username: "serenityroselawlor"
-    fullname: >-
-      𝐒𝐄𝐑𝐄𝐍𝐈𝐓𝐘-𝐑𝐎𝐒𝐄
-    bio: >-
-      ᴏᴋᴀɴᴀɢᴀɴ ʀᴇɢɪᴏɴ BC hiker | Trail runner | Outdoor Enthusiast🏔🏕 26 | Surgical Nurse ≪ Hike.Explore.Inspire. Website ↴
-    location: "Canada"
-    followers: 30922
-    engagement: 588
-    commentsToLikes: 0.020887
-    id: ck5higjmyde7d0i11mm7fwsr8
-    verified: false
-    hashtags: ""
+    hashtags: "#lululemonambassador, #thesweatlife, #olympics, #marathontraining"
   - username: "kittsen"
     fullname: >-
       Laura McGuire
@@ -54,77 +126,5 @@ profiles:
     commentsToLikes: 0.202437
     id: ck8taslydsw440j78fxmfzr8x
     verified: false
-    hashtags: "#fpme, #ootd, #styleinspo, #fashion"
-  - username: "briceferre"
-    fullname: >-
-      Brice
-    bio: >-
-      📍: Vancouver 🖤: Running Mountains / Traveling the Planet. @salomonvancouver runner. ✉️ :Studio@briceferre.com 🏔: Half of @catchingthefog
-    location: "Canada"
-    followers: 24750
-    engagement: 172
-    commentsToLikes: 0.019626
-    id: ck0tuein46upa0i191wamel85
-    verified: false
-    hashtags: "#preseasonstoke, #puravida, #timetoplay"
-  - username: "mgwconnor"
-    fullname: >-
-      Michael Connor
-    bio: >-
-      Toronto based: Photographer, Sea Kayaker, Nordic Skier, runner, coffee lover.
-    location: "Canada"
-    followers: 6844
-    engagement: 815
-    commentsToLikes: 0.106883
-    id: ck5c2vr12y3430i11wb0cm5l8
-    verified: false
-    hashtags: ""
-  - username: "jillian.maclaughlin"
-    fullname: >-
-      Jillian MacLaughlin
-    bio: >-
-      Mommy to Lauchlin James👶🏻. Elementary School Teacher. Health & Fitness. Yoga Obsessed. Big Brother Canada Winner(S1) Amazing Race Canada Runner Up(S4)
-    location: "Canada"
-    followers: 19538
-    engagement: 325
-    commentsToLikes: 0.031488
-    id: ck14kuno9retj0i199dzyxwwl
-    verified: false
-    hashtags: "#movingon, #momlife, #happyweekend, #bestbigbrother"
-  - username: "knexofthemoon"
-    fullname: >-
-      Knex
-    bio: >-
-      The Moon Runners Dance Crew Mudwaterproject Unity Charity Toronto #imoonrunn
-    location: "Canada"
-    followers: 2471
-    engagement: 931
-    commentsToLikes: 0.072170
-    id: ck6u9iu86xtb70j71rkptqx9z
-    verified: false
-    hashtags: "#turfin, #newzealand, #imoonrunn, #streetdance"
-  - username: "alexbaldaccini"
-    fullname: >-
-      Alex Baldaccini
-    bio: >-
-      🏃 Mountain Runner . 🔵 18 caps for Team Italy 🏆 2017 World Cup Winner 🌎 2x Team World Champion 🎖 2x Euro Champs medalist . Physio&Coach @ab.fisio
-    location: "Canada"
-    followers: 10068
-    engagement: 431
-    commentsToLikes: 0.037202
-    id: ck5qaumluibxc0i11t8e8aoz6
-    verified: false
-    hashtags: "#timetofly, #redelkoutdoor, #findyourredelk, #abfisio"
-  - username: "brandandukethedj"
-    fullname: >-
-      𝗕𝗥𝗔𝗡𝗗𝗔𝗡 𝗗𝗨𝗞𝗘. ⚡️
-    bio: >-
-      🇨🇦 | 14 year old dj/producer | actor in @disneychannel SPIN | 2018 @goldieawards runner-up 🥈 | former @guinnessworldrecords holder 🏆
-    location: "Canada"
-    followers: 12617
-    engagement: 388
-    commentsToLikes: 0.057118
-    id: ck5calyuudny20i11a0w8i7vo
-    verified: false
-    hashtags: "#openformatsessions, #brandanduke, #turnitupthursday, #bd"
+    hashtags: "#ootdfashion, #ootd, #fashion, #styleinspo"
 ---

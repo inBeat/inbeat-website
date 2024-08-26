@@ -1,24 +1,24 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Switzerland In 2023
+title: Top 10 Home Decor Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top home decor Instagram influencers in Switzerland in 2023. Most popular hashtags: #homedecor #interiordesign #interior #bedroomdecor.
+  Find top home decor Instagram influencers in Switzerland in 2024. Most popular hashtags: #homedecor #interiordesign #interior #interiorinspo.
 platform: Instagram
-hits: 11
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 11 Instagram influencers like this in Switzerland for you to pitch.
+hits: 20
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 20 Instagram influencers like this in Switzerland for you to collaborate.
 profiles:
-  - username: "zainabmkhan"
+  - username: "miniundstil"
     fullname: >-
-      Zainab Khan Mirza 👑
+      Isabelle Kade
     bio: >-
-      👰🏽‍♀️ to🧋 founder @thebeezagency sister of moog 📍cheesetown
+      ♥ einrichtungsliebe | kinderdinge | frau eines wunderbaren mannes | mama von drei mädels | zürich ♥ fotografin @isabellekadefotografie
     location: "Switzerland"
-    followers: 17271
-    engagement: 597
-    commentsToLikes: 0.040937
-    id: ck1383zgiee3h0i199jv6duq1
+    followers: 124499
+    engagement: 276
+    commentsToLikes: 0.026412
+    id: ck0vwwhcwvxea0i19ybtz8rou
     verified: false
-    hashtags: "#geneva, #swissgirl, #streetstyle, #influencerch"
+    hashtags: "#wohnenunddekorieren, #interiorinspo, #hausbau, #housedesign"
   - username: "art_cora_"
     fullname: >-
       𝑪𝒐𝒓𝒂𝒍𝒊𝒆
@@ -30,101 +30,101 @@ profiles:
     commentsToLikes: 0.043216
     id: ck5hslueqwssm0i11mjywzpn6
     verified: false
-    hashtags: "#interiorinspiration, #decorationinterieur, #bedroominspo, #livingmybestlife"
+    hashtags: "#livingthedream, #bedroomdesign, #homerenovations, #interior4all"
   - username: "_nordisch"
     fullname: >-
       Jasmin
     bio: >-
       Pictures from our home, a renovated swiss farmhouse 🏡 and my work as a home stager 🛠 | Nice to have you here! 💌info@wohnvision-homestaging.ch
     location: "Switzerland"
-    followers: 7157
-    engagement: 800
-    commentsToLikes: 0.047296
+    followers: 6799
+    engagement: 845
+    commentsToLikes: 0.047565
     id: ck139likdlwxl0i196zlpxu5v
     verified: false
-    hashtags: "#fr, #kinfolkhome, #interior, #nordicliving"
-  - username: "bisous_marie"
+    hashtags: "#solebich, #linen, #mylvngrm, #schlafzimmerdeko"
+  - username: "cestmoimoncherie"
     fullname: >-
-      𝐌𝐀𝐑𝐈𝐄   ♎︎
+      Celine | Cestmoimoncherie
     bio: >-
-      FASHION • BEAUTY • LIFESTYLE 𖡡 ordinary swiss girl based in Germany🕊 ☁️ get 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐝 using by #bisous_marie ✉️ bisous_marie@outlook.de
+      🪩 welcome to my life in pictures 👩🏼‍💻 communication student UZH 📍 Zurich 🔗 let’s stay connected
     location: "Switzerland"
-    followers: 33880
-    engagement: 740
-    commentsToLikes: 0.094556
-    id: ck9hc3nu4jmbx0j788toj5q3w
+    followers: 11258
+    engagement: 657
+    commentsToLikes: 0.414227
+    id: ckz4fx0e674ax0j230n42j0ln
     verified: false
-    hashtags: "#liketimegermany, #basel, #saturday, #blogger"
-  - username: "kaia.grebo"
+    hashtags: "#investing, #defyboring, #nachhaltigesbanking, #sustainability"
+  - username: "ne7io"
     fullname: >-
-      𝗞𝗔𝗜𝗔
+      UX Design /// Neil de Barros
     bio: >-
-      𝗟𝗶𝗳𝗲𝘀𝘁𝘆𝗹𝗲 & 𝗧𝗿𝗮𝘃𝗲𝗹 & #momtobe 𝖿𝗋𝗈𝗆 #𝗌𝗐𝗂𝗍𝗓𝖾𝗋𝗅𝖺𝗇𝖽 🇨🇭& 𝖼𝗋𝗈𝖺𝗍𝗂𝖺𝗇 𝗋𝗈𝗈𝗍𝗌 𝖢𝗈𝗇𝗍𝖾𝗇𝗍 𝖼𝗋𝖾𝖺𝗍𝗈𝗋 𝗌𝗍𝗎𝖽𝗒: 𝗇𝗎𝗍𝗋𝗂𝗍𝗂𝗈𝗇 𝖼𝗈𝖺𝖼𝗁&𝗇𝖺𝗍𝗎𝗋𝗈𝗉𝖺𝗍𝗁 SPENDENHILFE für Servan⤵️
+      Maker of Heensa - True modular furniture: @heensa.design I teach UX & Design with memes 🇨🇭
     location: "Switzerland"
-    followers: 23467
-    engagement: 290
-    commentsToLikes: 0.029297
-    id: ckap7k3gbkesw0i78blyc363n
+    followers: 9268
+    engagement: 511
+    commentsToLikes: 0.062050
+    id: ckap6c4e9f9ng0i78vu36gohz
     verified: false
-    hashtags: "#hrvatska, #springvibes, #interior, #architecturelovers"
-  - username: "thelittleblogpic"
+    hashtags: "#creativelife, #designconcept, #userinterface, #designstudio"
+  - username: "grossfamilienkarussell"
     fullname: >-
-      c a r o l i n e  👩🏻 🏹🐃
+      annemal.vier
     bio: >-
-      Lifestyle blogger 📍Genève Lausanne Switzerland 📩 thelittleblogpic@hotmail.com 📸All rights reserved by TLBP
+      𝚗𝚘 𝚖𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝚗𝚘𝚝 𝚊𝚗𝚗𝚎, 𝚊𝚗𝚗𝚎 𝚖𝚎𝚊𝚗𝚜 𝚖𝚘𝚖 𝚖𝚘𝚖 𝚘𝚏 𝟺 𝚒𝚗 𝚕𝚘𝚟𝚎 𝚠𝚒𝚝𝚑 𝚖𝚢 𝚒𝚗𝚌𝚛𝚎𝚍𝚒𝚋𝚕𝚎 𝚌𝚘𝚘𝚕 𝚑𝚞𝚋𝚋𝚢
     location: "Switzerland"
-    followers: 6546
-    engagement: 542
-    commentsToLikes: 0.209780
-    id: ck8t73027fgwb0j78i6l8vh2x
+    followers: 11715
+    engagement: 541
+    commentsToLikes: 0.071421
+    id: ck6tpadicipn30j71hobfm939
     verified: false
-    hashtags: "#switzerland, #photography, #geneve, #thelittleblogpic"
-  - username: "jojoula"
+    hashtags: "#kidsdecor, #interiorinspo, #woodentoys, #mamablogger"
+  - username: "swiss_duo"
     fullname: >-
-      ⋒ Josephine ⋒
+      Audrey & Maxime | Swiss Travel Family 👨‍👩‍👧
     bio: >-
-      Rosé all the way 📍Volos 🇬🇷
+      FR | EN bilingual account ✌🏼 Discovering🇨🇭& 🌍 with our little girl Ambassador's @switzerland.explores | @hotel
     location: "Switzerland"
-    followers: 14162
-    engagement: 243
-    commentsToLikes: 0.069129
-    id: ck0tt92h41ohq0i19furu90p0
+    followers: 7798
+    engagement: 536
+    commentsToLikes: 0.014725
+    id: clldeqxppocei0j0866l5zwcr
     verified: false
-    hashtags: "#mamablogger, #movingabroad, #singlemom, #greece"
-  - username: "anne_marie_fischer"
+    hashtags: "#suisseromande, #montreuxriviera, #parenting, #family"
+  - username: "style_by_dby"
     fullname: >-
-      Anne-Marie Fischer
+      debora sarai baumann
     bio: >-
-      Artist | Zurich | Switzerland
+      ⋒ mama of 5 ⋒ ⋒ content creator | switzerland ⋒ ⋒ BE bright | be YOU ⋒ ⋒ contact@dbybaumann.ch ⋒
     location: "Switzerland"
-    followers: 10048
-    engagement: 1200
-    commentsToLikes: 0.040635
-    id: ck8t4e3ba6g9a0j78lz5acgui
+    followers: 3737
+    engagement: 306
+    commentsToLikes: 0.064280
+    id: ck133vf3pu9fx0i19ou7ou77w
     verified: false
-    hashtags: "#woodwork, #woodart, #minimalism, #dailypracticeofpainting"
-  - username: "hasanddemiir"
+    hashtags: "#ferien, #eco, #familienzeit, #holidays"
+  - username: "unsere.kleine.wunderwelt"
     fullname: >-
-      Hasan Demir
+      ꕥ Alessandra | Mädchenmama & Coffeelover ꕥ
     bio: >-
-      İS BACK.. 𝗦 𝗘 𝗥 𝗘 𝗙 𝗜 𝗡 𝗜 𝗭 𝗕 𝗜 𝗟 𝗜 𝗥 🍷 #gezermuzikkamera
+      ⋒ hej du! schön, dass du da bist ♥ ⋒ hier findest du: mamaalltag | reallife | [znünibox] inspo ⋒ spread kindness, happiness, love and laughs
     location: "Switzerland"
-    followers: 10381
-    engagement: 792
-    commentsToLikes: 0.036461
-    id: ck5zw4yml5hoc0i14skcf4pd9
+    followers: 20443
+    engagement: 298
+    commentsToLikes: 0.267680
+    id: ck0u1frazwpha0i19mao5ezku
     verified: false
-    hashtags: "#scandinaviandesign, #instagraminteriorchallenge, #mylvngrm, #livingroomdecor"
-  - username: "sandrahinton_designstudio"
+    hashtags: "#lebenmitbaby, #alltagmitkindern, #familienurlaub, #draussenunterwegs"
+  - username: "shazna_ilham"
     fullname: >-
-      Sandra Hinton Design Studio
+      🇨🇭Shazna Ilham | Beauty | Lifestyle
     bio: >-
-      Swiss designer, European tastemaker, working internationally Shortlisted for the 2020 @design.et.al Awards DM us or visit ⬇️ Let’s make it happen
+      my closet is modest ✨ TikTok: shazna_ilham 📍 Basel info@shaznailham.com
     location: "Switzerland"
-    followers: 20283
-    engagement: 395
-    commentsToLikes: 0.059541
-    id: ckf5qzwp1ay3q0j239sj42uov
+    followers: 41803
+    engagement: 235
+    commentsToLikes: 0.051787
+    id: ck6tio193135z0j71bdk1mi3n
     verified: false
-    hashtags: "#elledecorationru, #badezimmerdeko, #bedroomstyling, #schlafzimmer"
+    hashtags: "#fashion, #reel, #switzerland, #zurich"
 ---

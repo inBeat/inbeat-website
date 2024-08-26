@@ -1,12 +1,24 @@
 ---
-title: Top 10 Divers Instagram Influencers In Chile In 2023
+title: Top 10 Divers Instagram Influencers In Chile In 2024
 description: >-
-  Find top divers Instagram influencers in Chile in 2023. Most popular hashtags: #memes #gracioso #diversion #chistes.
+  Find top divers Instagram influencers in Chile in 2024. Most popular hashtags: #diversion #memes #gracioso #cmamo.
 platform: Instagram
-hits: 23
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 23 Instagram influencers like this in Chile for you to pitch.
+hits: 34
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 34 Instagram influencers like this in Chile for you to contact.
 profiles:
+  - username: "antolarrain_"
+    fullname: >-
+      Antonia ♀️
+    bio: >-
+      salud mental + diversidad corporal + 🏳️‍🌈 @lapastoracoffee autora de #CuerpoSinVergüenza
+    location: "Chile"
+    followers: 228472
+    engagement: 490
+    commentsToLikes: 0.021024
+    id: ck13a470bojr80i19x8eo74vp
+    verified: false
+    hashtags: "#renovacion, #gordofobia, #cafeteria, #proyectocafecito"
   - username: "tallasparatodes"
     fullname: >-
       TallasParaTodes | BodyPosiTour
@@ -91,40 +103,28 @@ profiles:
     id: ck6ti8mbq08yk0j718xgva2tu
     verified: false
     hashtags: "#felizmiercoles, #diversidad, #inclusio, #catelovers"
-  - username: "franciscochavez1"
+  - username: "tere_kuster"
     fullname: >-
-      franciscochavez
+      𝗧 𝗘 𝗥 𝗘   𝗞 𝗨 𝗦 𝗧 𝗘 𝗥
     bio: >-
-      No vine a competir, vine a crecer..." BM www.bodywork.cl Paz Amor Gratitud
+      📍🇨🇱 🇦🇷 🧉 Half Argentinian Mamacita || Half Alien 👽 🎨 mi lado creativo en @ceramicabytk & @terekusterstudio 🐈‍⬛ ᴄᴏɴᴛᴇɴɪᴅᴏ ᴇxᴄʟᴜsɪᴠᴏ | 🚫 ᴇɴ ʀᴇᴅᴇs 👇
     location: "Chile"
-    followers: 40105
-    engagement: 240
-    commentsToLikes: 0.029937
-    id: ck6tl03155qca0j71dqzfuoq5
-    verified: false
-    hashtags: "#amor, #naturaleza, #semana, #lunes"
-  - username: "rosie_wosie"
+    followers: 727453
+    engagement: 184
+    commentsToLikes: 0.008815
+    id: ck137082x953j0i198f3ipvds
+    verified: true
+    hashtags: "#funnyvideos, #diversion, #patinenlinea, #rollerlife"
+  - username: "yahismusica"
     fullname: >-
-      Rosario Onetto R.
+      YAHIS
     bio: >-
-      Mamá Rosie, Restaurantera, Somm @bistro_ambrosia
+      Música, compositora, autora, cantante, pianista, Psicóloga, con expresiones artísticas en la pintura y escritura.
     location: "Chile"
-    followers: 9520
-    engagement: 568
-    commentsToLikes: 0.036720
-    id: ck1397tj4jyvw0i19ec5eowyj
+    followers: 2573
+    engagement: 868
+    commentsToLikes: 0.178673
+    id: ck6u73qzbjaw00j715lwu4ved
     verified: false
-    hashtags: "#happydays, #sommlife, #loveislove, #alinfinitoymasalla"
-  - username: "carlitoxmejias"
-    fullname: >-
-      Carlos Mejias • Fotografía
-    bio: >-
-      📷 Sensual Portraits | Fashion | Natural Light ⚡ A diario se aprende algo! ✉️ Collabs & Shoots Al DM 🚀 Cuenta Personal ▶️ @UnTalCarlitox
-    location: "Chile"
-    followers: 11516
-    engagement: 393
-    commentsToLikes: 0.041481
-    id: ck5zx01y872xq0i14flvyjhg1
-    verified: false
-    hashtags: "#fotos, #modelo, #fototips, #fototip"
+    hashtags: "#music, #mujeresenlam, #violetaparra, #musica"
 ---

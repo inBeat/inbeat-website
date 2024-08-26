@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In India In 2023
+title: Top 10 Fitness TikTok Influencers In India In 2024
 description: >-
-  Find top fitness TikTok influencers in India in 2023. Most popular hashtags: #fyp #tidelagaodaaghatao #foryoupage #tiktokindia.
+  Find top fitness TikTok influencers in India in 2024. Most popular hashtags: #fyp #tidelagaodaaghatao #foryoupage #tiktok.
 platform: TikTok
 hits: 827
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 827 TikTok influencers like this in India for you to collaborate.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: inBeat has 827 TikTok influencers like this in India for you to connect with.
 profiles:
   - username: "insidefitness"
     fullname: >-

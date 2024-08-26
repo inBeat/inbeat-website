@@ -1,12 +1,96 @@
 ---
-title: Top 10 Wellness Instagram Influencers In South Africa In 2023
+title: Top 10 Wellness Instagram Influencers In South Africa In 2024
 description: >-
-  Find top wellness Instagram influencers in South Africa in 2023. Most popular hashtags: #love #wellnesswednesday #healthylifestyle.
+  Find top wellness Instagram influencers in South Africa in 2024. Most popular hashtags: #capetown #selfcare #wellness.
 platform: Instagram
-hits: 15
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 15 Instagram influencers like this in South Africa for you to pitch.
+hits: 26
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 26 Instagram influencers like this in South Africa for you to collaborate.
 profiles:
+  - username: "kay.yarms"
+    fullname: >-
+      Kay Yarms
+    bio: >-
+      CEO @saxxbeauty God • Beauty • Wellness #Forbes30Under30
+    location: "South Africa"
+    followers: 508826
+    engagement: 644
+    commentsToLikes: 0.156235
+    id: ck5hmtw11mm800i11j8u3psf6
+    verified: false
+    hashtags: "#liftoffwithluminous, #ad, #luminouslife, #hairinstall"
+  - username: "chef_amakaa"
+    fullname: >-
+      Chiamaka Nwakalor-Egemba
+    bio: >-
+      I express food uniquely to promote African Heritage, improve wellness &connect people Owner @dishlafrique @chowwithamaka @dlafoodstore @bamwellness_
+    location: "South Africa"
+    followers: 82961
+    engagement: 356
+    commentsToLikes: 0.037897
+    id: cllrlxcri1ov40j08bu7d1t57
+    verified: false
+    hashtags: "#gettoknowme, #jollofwithonga, #zflip5, #zobodrink"
+  - username: "azeegreen"
+    fullname: >-
+      Az’emahle🦋
+    bio: >-
+      Model 1/2 @talentlesstakes podcast Fashion, Beauty and Health& Wellness. Living Intentionally L&A🤍
+    location: "South Africa"
+    followers: 52053
+    engagement: 408
+    commentsToLikes: 0.023660
+    id: ck6to4jrmc2710j71o2vejsbb
+    verified: false
+    hashtags: "#sponsored, #niveasouthafrica, #oilyskin, #mycottonon"
+  - username: "kabello_mohale"
+    fullname: >-
+      Kabelo Mohale
+    bio: >-
+      Social Science Graduate (BSocSc) -UCT✨ Wellness • Beauty • Lifestyle Social & Digital Entrepreneur | Speaker | Content Creator | Youtuber Wife & Mom🧡
+    location: "South Africa"
+    followers: 100073
+    engagement: 310
+    commentsToLikes: 0.016550
+    id: cloxojn3c0lwq0j08p8zpprz3
+    verified: false
+    hashtags: "#love, #family, #wellness, #phytoceutics"
+  - username: "juakhumalo"
+    fullname: >-
+      Juanita K. Khumalo
+    bio: >-
+      Mental Health Advocate 🧠 @trovewellness Founder @fitlifemagsa Cover Girl @brandsouthafrica Ambassador @cosmopolitansa Best Wellness Influencer
+    location: "South Africa"
+    followers: 46988
+    engagement: 122
+    commentsToLikes: 0.081578
+    id: ck5zt85bxzwz70i14g08qav66
+    verified: false
+    hashtags: "#tuesdayvibes, #bbbakeries, #tuesdaymotivation, #hydrate"
+  - username: "gabriellepollock"
+    fullname: >-
+      Gabrielle Pollock
+    bio: >-
+      🪶🪨 Travel ✈️ YTT200 🧘‍♀️ wellness 🌿 psych 📚 mamma 🌸 ⁣@wilhelminamodels @bossmodelsa @pma_models @blowmodels @saharalune
+    location: "South Africa"
+    followers: 21765
+    engagement: 95
+    commentsToLikes: 0.051292
+    id: ck8svvrbrcvlx0j78czrzoclq
+    verified: false
+    hashtags: "#gratitude, #capetown, #anniversary, #justmarried"
+  - username: "zolfreckles"
+    fullname: >-
+      Zoliswa Mbadu
+    bio: >-
+      Playing dress up • lifestyle + wellness inspo Founder & designer @evolvingrevolver1 Model @topcomodels @zone_models @coreartistmanagement
+    location: "South Africa"
+    followers: 34999
+    engagement: 70
+    commentsToLikes: 0.017839
+    id: ck0u04ifusjeo0i194qd3qopw
+    verified: false
+    hashtags: "#denimondenim, #styleinspiration, #getreadywithme, #grwm"
   - username: "wellness_by_mac"
     fullname: >-
       Macnolia Moore
@@ -19,112 +103,28 @@ profiles:
     id: ckap59aquaqs80i78dsdsrv25
     verified: false
     hashtags: "#soflo, #floridaliving, #explore, #viral"
-  - username: "life_of_mel"
+  - username: "nadavwilf"
     fullname: >-
-      Mel Van Straaten
+      Nadav Wilf ♥️🔥
     bio: >-
-      Keep being a vessel for love 🤍 Yoga Teacher ~ Co-Creator of @reset_collective ✨ Umhlanga Arch Wellness Day Tickets 👇🏻
+      3 exits as founder Impact Investor Creator of AlignCoach.ai Achieve your goals faster with emotional intelligence ♥️🧠 Book an free Align Session:
     location: "South Africa"
-    followers: 7762
-    engagement: 518
-    commentsToLikes: 0.011654
-    id: ck138f591fxs20i19vukv7c42
+    followers: 60208
+    engagement: 64
+    commentsToLikes: 0.017093
+    id: ck5hpc8q5r49a0i1108uckplf
     verified: false
-    hashtags: ""
-  - username: "cgwebuofficial"
+    hashtags: "#spirituallifecoach, #learning, #reconnect, #selfcare"
+  - username: "kunene_ayanda"
     fullname: >-
-      Cynthia Gwebu 🇿🇼🇿🇦
+      Ayanda Kunene
     bio: >-
-      📍: cape town founder @thenextchptr www.cynthiagwebu.com latest youtube video 👇🏾
+      South African 🇿🇦 Twin: @amanda_Kunene 📍 CPT: @20modelmanagement 📍 DBN: @bossmodelsdbn
     location: "South Africa"
-    followers: 50980
-    engagement: 443
-    commentsToLikes: 0.014775
-    id: ck6ub578k7j860j71vn3apbo2
+    followers: 5804
+    engagement: 252
+    commentsToLikes: 0.067949
+    id: ck138fd3bfyxf0i199d208qt8
     verified: false
-    hashtags: "#doveselfesteemproject, #beautyathomewithu, #wellnesswednesday, #ad"
-  - username: "theculturedcow"
-    fullname: >-
-      Shiro Gaitho | Wairimu’s Daughter
-    bio: >-
-      African | Introvert | Lover of words and other nice things Email: theculturedcow@gmail.com
-    location: "South Africa"
-    followers: 40023
-    engagement: 222
-    commentsToLikes: 0.008793
-    id: ck5c0pmkptlmg0i11whqhf7rp
-    verified: false
-    hashtags: "#mani, #interiorstyle, #madeinkenya, #supportsmallbusiness"
-  - username: "footmistressza"
-    fullname: >-
-      Foot Mistress
-    bio: >-
-      South African foot model 👣 🇿🇦 UK 4.5/ US 6.5 A woman with pretty feet who ❤️’s spoils Backup: @footsiemistress
-    location: "South Africa"
-    followers: 35182
-    engagement: 1614
-    commentsToLikes: 0.028277
-    id: ck8td7vy929co0j78g0rxef98
-    verified: false
-    hashtags: "#staysafe, #pinknails, #mondaymood, #bluenails"
-  - username: "dr_khanyile"
-    fullname: >-
-      Dr Nokukhanya Khanyile
-    bio: >-
-      South African medical doctor 🇿🇦 #Doctor #KeynoteSpeaker #Changemaker Bookings/Events: info@enmanagement.co.za Vice President of @mentalmatters_
-    location: "South Africa"
-    followers: 149016
-    engagement: 744
-    commentsToLikes: 0.009387
-    id: ck6u4o1wk4trt0j71hdvuuxii
-    verified: false
-    hashtags: "#changemaker, #wearredday2021, #servelikemadiba, #paidpartnership"
-  - username: "coach__kelly_"
-    fullname: >-
-      KellyAinsworth_Trainer
-    bio: >-
-      🇿🇦SA Protea Athlete 👊🏻Personal Trainer 🌐Online Coach ❤Happily @nicholasrodrigues67 babygirl 🥰 🖤 Cat Mom 🤘🏻
-    location: "South Africa"
-    followers: 16621
-    engagement: 281
-    commentsToLikes: 0.042246
-    id: ck5hf942lwdyb0i11oj3g0t9o
-    verified: false
-    hashtags: "#bestmemories, #girlswholift, #boyfriend, #sweatymess"
-  - username: "ifathindes"
-    fullname: >-
-      Ifat Hindes
-    bio: >-
-      𝘈𝘸𝘢𝘳𝘥 𝘞𝘪𝘯𝘯𝘪𝘯𝘨 𝘞𝘦𝘭𝘭𝘯𝘦𝘴𝘴 𝘌𝘯𝘵𝘳𝘦𝘱𝘳𝘦𝘯𝘦𝘶𝘳⁣ 🌍 @halcyonglobal CCO⁣ ❤️ @operationsmilehk AMBASSADOR⁣ LONO HERO @lonowear⁣ Be brave, be kind, be you 🌟
-    location: "South Africa"
-    followers: 29452
-    engagement: 73
-    commentsToLikes: 0.030695
-    id: ck0vv12s4n1uv0i19sjhh4v8i
-    verified: false
-    hashtags: "#smile, #nature, #birthdayinheaven, #fashionblogger"
-  - username: "carolinebrussow"
-    fullname: >-
-      Caroline-Grace
-    bio: >-
-      Debut album / “Eindelose Liefde”📀 Signed @universalmusiek Bookings:leozelle.bekker@umusic.com
-    location: "South Africa"
-    followers: 41982
-    engagement: 450
-    commentsToLikes: 0.015967
-    id: ck6tu7xyjetci0j71bzqux45l
-    verified: false
-    hashtags: "#pregnant, #blessed, #babybounce, #greycollegemusicfestival"
-  - username: "cassandratwala"
-    fullname: >-
-      Cassandra Twala
-    bio: >-
-      Purveyor of African Beauty
-    location: "South Africa"
-    followers: 32007
-    engagement: 297
-    commentsToLikes: 0.011791
-    id: ck8swns3oenjw0j785izin5zn
-    verified: false
-    hashtags: "#beautyathomewithu, #wellnesswednesday, #ad, #keepwalkingsa"
+    hashtags: "#fashion, #southafrica, #likeforlikes, #safari"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In Montreal In 2023
+title: Top 10 Christian TikTok Influencers In Montreal In 2024
 description: >-
-  Find top christian TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #duet #foryou #foryoupage.
+  Find top christian TikTok influencers in Montreal in 2024. Most popular hashtags: #fyp #duet #foryou #foryoupage.
 platform: TikTok
 hits: 5
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 5 TikTok influencers like this in Montreal, Canada for you to work with.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 5 TikTok influencers like this in Montreal, Canada for you to pitch.
 profiles:
   - username: "guncledann"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Greece In 2023
+title: Top 10 Nail Artists Instagram Influencers In Greece In 2024
 description: >-
-  Find top nail artists Instagram influencers in Greece in 2023. Most popular hashtags: #greece #nailsofinstagram #beauty #nails.
+  Find top nail artists Instagram influencers in Greece in 2024. Most popular hashtags: #greece #beauty #love #nailsofinstagram.
 platform: Instagram
-hits: 11
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat has 11 Instagram influencers like this in Greece for you to collaborate.
+hits: 10
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 10 Instagram influencers like this in Greece for you to work with.
 profiles:
   - username: "_bella_mary"
     fullname: >-
@@ -67,30 +67,18 @@ profiles:
     id: ck8svsp54cju30j78dtu3j18x
     verified: false
     hashtags: "#toniakoumpa, #beauty, #makeupideas, #potd"
-  - username: "black_velour"
+  - username: "athinaki_mou"
     fullname: >-
-      B L A C K   V E L O U R
+      Athina Mourkousi Skotida
     bio: >-
-      ▫️NAIL ARTIST💅🏾 ▫️YOUTUBER🎥 👨🏼‍💻@dimitriskourakos 🐱&🐶@thevelourians 💅🏾#blackvelournails 👇🏼ΝΕΟ ΒΙΝΤΕΟ
+      •BE.YOU.TIFUL• •pm💌 athina_moukou@hotmail.com •Professional MakeUp Artist / YouTuber / model / Image Maker / mama ♥️ ⬇️NEW BE.YOU.TIFUL VIDEO⬇️
     location: "Greece"
-    followers: 54913
-    engagement: 1712
-    commentsToLikes: 0.447637
-    id: ck13a5xunorwc0i19hc5fde23
+    followers: 66203
+    engagement: 954
+    commentsToLikes: 0.197412
+    id: ckaosoybrsfmj0i785qyxc8y0
     verified: false
-    hashtags: "#nailstyle, #manicure, #nails, #makeup"
-  - username: "sharkkana"
-    fullname: >-
-      Sharkkana
-    bio: >-
-      Founder of @sharkkini 1/2 of @chamu.world 🌐 Artist Manager and Creative. sharkkana@gmail.com
-    location: "Greece"
-    followers: 5542
-    engagement: 1517
-    commentsToLikes: 0.054083
-    id: ck5pxdj8kr9p70i11u8a0t1nq
-    verified: false
-    hashtags: ""
+    hashtags: "#scotfamily, #love, #crete, #vacation"
   - username: "thodorisgionis"
     fullname: >-
       thodorisgionis
@@ -127,4 +115,16 @@ profiles:
     id: ckapa1q2ducyw0i784g4bwvf8
     verified: false
     hashtags: "#likeforlikes, #love, #instagood, #happyvalentinesday"
+  - username: "sofia_alatza"
+    fullname: >-
+      Ｓｏｆíａ　Ａｌａｔｚá
+    bio: >-
+      From Thessaloniki📍In Athens ⚽️Sports Journalist @megatvcom 👑 «QUEEN ΜΠΑΛΑΤΖΑ» @kingbetgr 🎓 Spanish Language & Culture ⛳️Football Referee
+    location: "Greece"
+    followers: 43162
+    engagement: 922
+    commentsToLikes: 0.080043
+    id: ck8t0b5qdrgqj0j78979s15bk
+    verified: false
+    hashtags: "#football, #euro2020, #megatv, #queen"
 ---

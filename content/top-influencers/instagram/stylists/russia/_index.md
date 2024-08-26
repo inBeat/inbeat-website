@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Russia In 2023
+title: Top 10 Stylists Instagram Influencers In Russia In 2024
 description: >-
-  Find top stylists Instagram influencers in Russia in 2023. Most popular hashtags: #bibotta #stylist #fashion.
+  Find top stylists Instagram influencers in Russia in 2024. Most popular hashtags: #ootd #love #model.
 platform: Instagram
-hits: 556
+hits: 546
 text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 556 Instagram influencers like this in Russia for you to work with.
+text_bottom: inBeat holds 546 Instagram influencers like this in Russia for you to pitch.
 profiles:
-  - username: "liliya_ismagilova"
+  - username: "polinaband"
     fullname: >-
-      СТИЛИСТ LILIYA ISMAGILOVA
+      Polina | 폴리나
     bio: >-
-      ▫️FASHION INFLUENCER / STYLIST Казань Москва Дубай Стамбул ▫️По поводу СОТРУДНИЧЕСТВА в ДИРЕКТ ▫️FOUNDER @by_liliya_ismagilova
+      freelance model and stylist in📍Seoul ㅤㅤ fashion & lifestyle influencer ㅤㅤㅤ모델 • 인플루언서 • 촬영 협찬광고 문의 collab — dm portfolio @polyalee
     location: "Russia"
-    followers: 68105
-    engagement: 93
-    commentsToLikes: 0.014670
-    id: ck6ts5pax2wv40j71dkiy9wlz
+    followers: 27092
+    engagement: 534
+    commentsToLikes: 0.030890
+    id: ck8sxhmc6hfgk0j78en8d4lnw
     verified: false
-    hashtags: "#stylist, #fashion, #fashionblogger, #styleblogger"
-  - username: "ruslinka"
+    hashtags: "#noni, #porecare, #koreanskincareroutine, #ootd"
+  - username: "anastasiyatairi"
     fullname: >-
-      Ruslana Karakhoeva
+      Anastasiya Tairi
     bio: >-
-      •Fashion stylist @fashionholism •Fashion journalist •Fashion blogger based in Belarus, Minsk
+      Creative producer & stylist (ex- I am studio, LIME) Fashion consultant tairiwork@gmail.com
     location: "Russia"
-    followers: 55242
-    engagement: 337
-    commentsToLikes: 0.060652
-    id: ck5ccnv8thp580i11vrywbqbk
+    followers: 96318
+    engagement: 615
+    commentsToLikes: 0.014349
+    id: ck5cdctwziy5z0i118no3px44
     verified: false
-    hashtags: "#moetmoment"
+    hashtags: "#lookoftheday, #ootd, #lookinspo, #styleinspo"
+  - username: "elya1p"
+    fullname: >-
+      Elya Ivanova
+    bio: >-
+      actress ,model,stylist founder @21.elbrand Съёмки для брендов Сотрудничество Алина +7-904-272-34-17 dj | beauty | lifestyle | style elya1i@mail.ru
+    location: "Russia"
+    followers: 173729
+    engagement: 438
+    commentsToLikes: 0.020708
+    id: ck8sygjlykrj30j78rtfqh5ye
+    verified: false
+    hashtags: "#love, #mood, #model, #happy"
   - username: "kate_rock666"
     fullname: >-
       Катя Рок, стилист
     bio: >-
-      Stylist! YouTube channel - Kate Rock. Я - твой персональный стилист! Чайный сомелье, фанат Скандинавии, адепт уходовой косметики. О работе - сайт👇🏻
+      Personal stylist and fashion influencer. St.Petersburg📍 Я твой персональный стилист и шопер - katerock.ru
     location: "Russia"
-    followers: 34357
-    engagement: 587
-    commentsToLikes: 0.055423
+    followers: 33251
+    engagement: 606
+    commentsToLikes: 0.037503
     id: ck0ucoxu9he520i1932zrg19t
     verified: false
-    hashtags: "#uggineurope, #inweekday"
-  - username: "bibottq"
+    hashtags: "#crocsru, #prada, #like"
+  - username: "sasha_shklyaeva"
     fullname: >-
-      BIBOTTA
+      Stylist/ Александра Шкляева
     bio: >-
-      Founder of @bibotta_ Stylist @ninetyone #makefashionnotwar
+      •Fashion blogger •Personal stylist
     location: "Russia"
-    followers: 17433
-    engagement: 909
-    commentsToLikes: 0.026190
-    id: ck1365fzv4u2d0i1910o4ns4p
+    followers: 33153
+    engagement: 399
+    commentsToLikes: 0.032321
+    id: ck0u81za969m60i197nt4sqwm
     verified: false
-    hashtags: "#bibotta, #juzentertainment, #samsung, #ninetyone"
-  - username: "bayagorbusha"
+    hashtags: "#lorealprorussia, #lorealprolover, #steampodrussia"
+  - username: "absolutlia"
     fullname: >-
-      Baya Gorbunova
+      Lia Mstislavskaya
     bio: >-
-      •Vintage lover 💔 1/2 @mytrendygrandma •Stylist 👠 @by2stylists •Moscow,Russia
+      Sophisticated Touch of Elegance Photographer | Stylist | Hedonist | Aesthete | Vampire Firenze 🇮🇹 My workshop in Venice 20-23 April🔻
     location: "Russia"
-    followers: 61307
-    engagement: 728
-    commentsToLikes: 0.016728
-    id: ck15rsg3p9gwo0i19mf273mxr
-    verified: false
-    hashtags: "#uniqlo, #uniqloplusj, #bayarecommends"
-  - username: "vladimir_official_moscow"
-    fullname: >-
-      ℙℝ𝕆ℕℂℍ𝔼𝕍 𝕍𝕃𝔸𝔻𝕀𝕄𝕀ℝ 😎 Hair color
-    bio: >-
-      ▣ 𝑴𝒐𝒔𝒄𝒐𝒘, 𝑹𝒖𝒔𝒔𝒊𝒂 🇷🇺 ▣ международный Hairdresser stylist-image maker ♛ ▣ консультация платная! 📝Контакты 👇 прайс все в ссылке депозитная система
-    location: "Russia"
-    followers: 13065
-    engagement: 881
-    commentsToLikes: 0.045477
-    id: ck14kgt2qpg8i0i195w8p7y2b
+    followers: 63521
+    engagement: 387
+    commentsToLikes: 0.034788
+    id: ck5c2ahlzwv5u0i111um9xplf
     verified: false
     hashtags: ""
-  - username: "alinakovaleva"
+  - username: "kristina_tsymlyanskaya"
     fullname: >-
-      Alina Kovaleva
+      Кристина Цымлянская
     bio: >-
-      Stylist Эксперт моды на TV Проекты для Vogue,Playboy,МТС,KIA,Kerastase, Валерия,Ханна,О.Бузова,Меладзе, А.Хилькевич,Blackstar
+      Beauty Expert/Stylist/Model 📍Москва ✉️Сотрудничество/Direct kristinatsymlyanskaya@gmail.com 👇🏽Канал по стилю
     location: "Russia"
-    followers: 29604
-    engagement: 237
-    commentsToLikes: 0.117813
-    id: ck0vzmd589t8b0i19jm9pis58
-    verified: false
-    hashtags: "#inspirarion"
-  - username: "miss_bylucy"
-    fullname: >-
-      СТИЛИСТ & ЭСТЕТИЧЕСКИЙ МАНЬЯК
-    bio: >-
-      Люси Царан . STYLIST ❗️Мои сторис круче дорогих курсов ❗️Вожу по магазинам ❗️Раздаю стиль и настроение ❗️Стилизую фото и видео съёмки
-    location: "Russia"
-    followers: 20570
-    engagement: 328
-    commentsToLikes: 0.180030
-    id: ck14joe12ldht0i19spyn1mih
-    verified: false
-    hashtags: "#stories, #goodmorning, #instagram"
-  - username: "svetlana_khovrova"
-    fullname: >-
-      Svetlana Khovrova | Stylist
-    bio: >-
-      FASHION STYLIST ▪️Сотрудничество в direct ▪️Фото/видео без разрешения не использовать ⬇️Запись на КУРС по стилю⬇️
-    location: "Russia"
-    followers: 14134
-    engagement: 735
-    commentsToLikes: 0.051319
-    id: ck0w1bcnyihq90i195071m1gh
+    followers: 154016
+    engagement: 287
+    commentsToLikes: 0.023840
+    id: ck6tz4fh57k3i0j715a0grzbr
     verified: false
     hashtags: ""
-  - username: "andreevigor"
+  - username: "moji.boo"
     fullname: >-
-      Игорь Андреев
+      Nigar Kalbiyeva| Baku
     bio: >-
-      Stylist Designer @_vereja_ Co-founder @online.inside
+      Fashion designer | Stylist | Influencer Owner of @muliebrebeautybar PR only @mostagency.az
     location: "Russia"
-    followers: 23017
-    engagement: 496
-    commentsToLikes: 0.048146
-    id: ck5hhjkmk8kb90i11dwxowre3
+    followers: 61575
+    engagement: 260
+    commentsToLikes: 0.039092
+    id: ck6tqb50cqfgh0j71fh99tz7r
     verified: false
-    hashtags: "#vereja, #km20"
+    hashtags: "#goodtastewithatwist, #pantene, #sosecondaz, #baku"
+  - username: "nadinasmirnova"
+    fullname: >-
+      Nadina Smirnova
+    bio: >-
+      Fashion stylist| Style is very personal. It has nothing to do with fashion. Fashion is over quickly. Style is forever. N.
+    location: "Russia"
+    followers: 29150
+    engagement: 236
+    commentsToLikes: 0.016749
+    id: ck5hqrtixtm260i11zdzhjejb
+    verified: false
+    hashtags: "#kayadreamteam"
+  - username: "romanenkovika"
+    fullname: >-
+      Romanenko Vika
+    bio: >-
+      Influencer , Stylist , SMM Новый день - новый лучок #romanenkoeveryday сотрудничество только ✏️ pr@romanenkoeveryday.ru и телеграмчик стиля 💁🏼‍♀️
+    location: "Russia"
+    followers: 153977
+    engagement: 219
+    commentsToLikes: 0.017412
+    id: ck55ofd2d88u00i116ur4yfy6
+    verified: false
+    hashtags: "#dancercise, #romanenkoeveryday, #awn, #romanenko9months"
 ---

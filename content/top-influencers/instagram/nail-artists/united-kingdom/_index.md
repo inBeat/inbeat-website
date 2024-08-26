@@ -1,12 +1,60 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In United Kingdom In 2023
+title: Top 10 Nail Artists Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top nail artists Instagram influencers in United Kingdom in 2023. Most popular hashtags: #nails #nailinspo #nailart.
+  Find top nail artists Instagram influencers in United Kingdom in 2024. Most popular hashtags: #nailart #showscratch #nailinspo.
 platform: Instagram
-hits: 77
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 77 Instagram influencers like this in United Kingdom for you to pitch.
+hits: 88
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 88 Instagram influencers like this in United Kingdom for you to connect with.
 profiles:
+  - username: "gelsbybry"
+    fullname: >-
+      Bryony Howell
+    bio: >-
+      Nail Artist & Educator @the_gelbottle_inc Brand Ambassador @thenailclubco Training Academy
+    location: "United Kingdom"
+    followers: 309787
+    engagement: 439
+    commentsToLikes: 0.022977
+    id: ckprgrd7x8a3t0j23646r362o
+    verified: false
+    hashtags: "#metallicnails, #frenchtips, #babypink, #summernails"
+  - username: "gieos.room"
+    fullname: >-
+      Stephanie holland
+    bio: >-
+      Nail Artist & Content Creator. @the_gelbottle_inc Content expert. New Clients Welcome. Stafford Based. @m.u.s.e.thesalon co-owner
+    location: "United Kingdom"
+    followers: 80406
+    engagement: 269
+    commentsToLikes: 0.023743
+    id: ckxv7u296d62s0j23qlx2n4zp
+    verified: false
+    hashtags: "#nailsoftheday, #chromenails, #whitenails, #nailsofinstagram"
+  - username: "bysarah____"
+    fullname: >-
+      SARAH WOODS
+    bio: >-
+      Manicurist, Nail Artist & Educator Founder @woonailsuk Liverpool UK | L36 BA @glossifyofficial Bookings & courses link ⬇️
+    location: "United Kingdom"
+    followers: 109163
+    engagement: 214
+    commentsToLikes: 0.018297
+    id: ck5zv8qu33rzm0i14en2jzmih
+    verified: false
+    hashtags: "#naturalnails, #gelnails, #loveglossify, #showscratch"
+  - username: "kirstymeakin"
+    fullname: >-
+      Kirsty Meakin
+    bio: >-
+      Nail artist | Nail inspo | Nail tutorials | Nail courses 📧 nails@kirstymeakin.com 🛍️ www.kirstymeakin.com 🎥 YouTube - Kirsty Meakin Nails
+    location: "United Kingdom"
+    followers: 259195
+    engagement: 101
+    commentsToLikes: 0.019088
+    id: ck15rajpb6z4h0i19uqprzxuv
+    verified: true
+    hashtags: "#swarovski, #longnails, #naturalnails, #crafts"
   - username: "kaddyfromthewest"
     fullname: >-
       Kadimah Aaliyah 🇬🇭🇱🇧
@@ -18,7 +66,7 @@ profiles:
     commentsToLikes: 0.058830
     id: ck55jp9nqxhoo0i11q47rca0m
     verified: false
-    hashtags: "#itsmorethanjustnails, #shemovesus, #ad, #nuka"
+    hashtags: "#shemovesus, #ad, #nuka, #itsmorethanjustnails"
   - username: "getbuffednails"
     fullname: >-
       Sarah Elmaz
@@ -43,18 +91,6 @@ profiles:
     id: ckf5xgvm3vmnz0j236s1tw23y
     verified: false
     hashtags: "#powerpuff, #handpaintednailart, #valentinesnails, #heartnails"
-  - username: "bysarah____"
-    fullname: >-
-      BY SARAH | SARAH WOODS
-    bio: >-
-      ☆ Nail Artist & Educator ☆ Liverpool | L36 ☆ BA @glossifyofficial | 𝗕𝗬𝗦𝗔𝗥𝗔𝗛𝟱 ☆ Bookings & courses via link below ⬇️
-    location: "United Kingdom"
-    followers: 40905
-    engagement: 289
-    commentsToLikes: 0.047336
-    id: ck5zv8qu33rzm0i14en2jzmih
-    verified: false
-    hashtags: "#brillbird, #navyprotools, #nailart, #nailinspo"
   - username: "rosemarie_nailartist"
     fullname: >-
       Rosemarie Jones
@@ -78,7 +114,7 @@ profiles:
     commentsToLikes: 0.272109
     id: ck55mjzkm44za0i11dkkpipdc
     verified: false
-    hashtags: "#witchaesthetic, #mycatandmynails, #silhouettes, #theketoculture"
+    hashtags: "#waterdecals, #seamlessness, #seamlessnailart, #witchaesthetic"
   - username: "anouskaanastasia"
     fullname: >-
       𝔞𝔫𝔬𝔲𝔰𝔨𝔞 𝔰𝔠𝔞𝔯𝔩𝔢𝔱 𝔞𝔫𝔞𝔰𝔱𝔞𝔰𝔦𝔞
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.013005
     id: ck5ztu0yb147c0i148c5coosj
     verified: false
-    hashtags: "#ebaysneakers, #gymshark, #gymsharkwomen, #shemovesus"
-  - username: "_paintandco_"
-    fullname: >-
-      Paint
-    bio: >-
-      ✨Gel manicurist | nail artist ✨natural nails only ✨ 121 Nailart lessons Liverpool | Manchester Moonchild ♌️🌑
-    location: "United Kingdom"
-    followers: 21483
-    engagement: 220
-    commentsToLikes: 0.009822
-    id: ck5zv90bv3sgp0i14o8bbch0j
-    verified: false
-    hashtags: "#nude"
-  - username: "nailsbybecky__"
-    fullname: >-
-      Becky Armstrong
-    bio: >-
-      Nail Artist Laser Hair Removal - 𝘊𝘖𝘔𝘐𝘕𝘎 𝘚𝘖𝘖𝘕 Educator @baceacademyuk Accredited Online Nail Courses
-    location: "United Kingdom"
-    followers: 12221
-    engagement: 570
-    commentsToLikes: 0.063500
-    id: ck9wffqadooy10j785ecbxtda
-    verified: false
-    hashtags: "#nailgoals, #nailsoftheday, #nailtech, #bluenails"
-  - username: "kirstymeakin"
-    fullname: >-
-      Kirsty Meakin
-    bio: >-
-      Award winning nail artist/YouTuber ⭐ Following my dreams of bigger things Management Abi@theccollective.co.uk
-    location: "United Kingdom"
-    followers: 219324
-    engagement: 180
-    commentsToLikes: 0.022712
-    id: ck15rajpb6z4h0i19uqprzxuv
-    verified: true
-    hashtags: "#gelpolish, #swarovski, #fashion, #positivevibes"
+    hashtags: "#ad, #inpaidpartnership, #gymsharkwomen, #shemovesus"
 ---

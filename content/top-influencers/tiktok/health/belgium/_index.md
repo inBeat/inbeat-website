@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Belgium In 2023
+title: Top 10 Health TikTok Influencers In Belgium In 2024
 description: >-
-  Find top health TikTok influencers in Belgium in 2023. Most popular hashtags: #foryou #fyp #love #belgium.
+  Find top health TikTok influencers in Belgium in 2024. Most popular hashtags: #foryou #fyp #belgium #love.
 platform: TikTok
 hits: 12
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine holds 12 TikTok influencers like this in Belgium for you to pitch.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 12 TikTok influencers like this in Belgium for you to contact.
 profiles:
   - username: "healthifycoach"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ckcujsdm3gm7l0j23xtoayo5c
     verified: false
     hashtags: "#dance, #fyp, #duetme, #trending"
-  - username: "clarasfoodiary"
-    fullname: >-
-      Clara
-    bio: >-
-      recipes and meal inspo 📩 clarasfoodiary@gmail.com
-    location: "Belgium"
-    followers: 6521
-    engagement: 1530
-    commentsToLikes: 0.036049
-    id: ckb9rx5ddoo800j232i4t6sg0
-    verified: false
-    hashtags: "#cooking, #healthybreakfast, #foryou, #breakfastideas"
   - username: "tinne.oltmans"
     fullname: >-
       Tinne Oltmans
@@ -67,6 +55,18 @@ profiles:
     id: cka5zmwjhnfko0i78bx8s2xhn
     verified: false
     hashtags: "#belgium, #single, #music, #weight"
+  - username: "clarasfoodiary"
+    fullname: >-
+      Clara
+    bio: >-
+      welcome! 📩 clarasfoodiary@gmail.com Protein World: CLARASFOODIARY
+    location: "Belgium"
+    followers: 116400
+    engagement: 953
+    commentsToLikes: 0.012758
+    id: ckb9rx5ddoo800j232i4t6sg0
+    verified: false
+    hashtags: "#healthy, #veggiebowl, #savourybreakfast, #japaneserecipes"
   - username: "thib_sel"
     fullname: >-
       tselderslagh

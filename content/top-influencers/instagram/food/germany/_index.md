@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Germany In 2023
+title: Top 10 Food Instagram Influencers In Germany In 2024
 description: >-
-  Find top food Instagram influencers in Germany in 2023. Most popular hashtags: #interiordesign #interior #adventskalender #weihnachten.
+  Find top food Instagram influencers in Germany in 2024. Most popular hashtags: #ootd #vegan #berlin #veganfood.
 platform: Instagram
-hits: 1701
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 1701 Instagram influencers like this in Germany for you to work with.
+hits: 2071
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 2071 Instagram influencers like this in Germany for you to work with.
 profiles:
-  - username: "sarahfranssen"
+  - username: "juliainberlin_"
     fullname: >-
-      Food I Fashion I Bride to be🌸
+      Julia | berlin city • balanced lifestyle
     bio: >-
-      📚 3 Kochbücher "Fit ohne Verzicht" 💍 Bride to be @henri_cl ☀️ Sunlover 🤸🏼‍♀️ Turnen 🌸 Team @foodistofficial (S10F)
+      sharing my love for berlin, food & sport ツ 🌟 berlin tips & balanced lifestyle 🏃🏻‍♀️ currently training for my first HM 💌 management@juliainberlin.com
     location: "Germany"
-    followers: 249161
-    engagement: 525
-    commentsToLikes: 0.108408
-    id: ck0u9thrkan090i1950jkyrvl
+    followers: 36583
+    engagement: 1071
+    commentsToLikes: 0.031659
+    id: ck9we3yvhih790j78s4zbmdak
     verified: false
-    hashtags: "#hochzeit, #foodreel, #wedding, #verlobung"
-  - username: "thedollzter"
+    hashtags: "#berlincity, #beach, #explore, #running"
+  - username: "petracupcake"
     fullname: >-
-      دُلي ديب | Dolly Dib
+      Petra • Sprinkles On A Cupcake
     bio: >-
-      ✈️Jordan-Based Travel Blogger 🤷‍♀️I love traveling and food, but who doesn't 💥TikTok: thedollzter أفضل جدول سياحي ليوم في فيينا👇
+      ☀️Travel•Food•Fashion•Family 🌈Sharing my colorful adventures 👨‍👩‍👦@carloft_classics @nuhify_ 📍Ghent 💌Petra@sprinklesonacupcake.com 📱Tiktok 13.4K
     location: "Germany"
-    followers: 283566
-    engagement: 630
-    commentsToLikes: 0.011718
-    id: ck5camk5kdozz0i11o587u5hv
+    followers: 12608
+    engagement: 865
+    commentsToLikes: 0.272678
+    id: ck8t4cagy695n0j780muf29n2
     verified: false
-    hashtags: "#womentravel, #jordanien, #beamman, #ammanstylez"
-  - username: "easyinterieur"
+    hashtags: "#foodie, #vegaswedding, #hotspots, #pinterestvibes"
+  - username: "cocoolinaa"
     fullname: >-
-      MELIKE KAZAR•Interior•DIY•Home
+      Carolin Kaul
     bio: >-
-      Ihr findet mich auch bei @easymelike • DIYs • Cleaning • mein Buch🥹🫶❤️👇🏼 • Home • Food •Lifehacks • enthält Werbung//Impressum auf easyinterieur.com
+      📍Germany 5’9” ♌️ who loves fashion and food Athlete for 35 years 💨 Vegan since October 2019 🌱 ✝️ Travel addicted 🌎 nature lover 🌳 Inquiries only via 📧
     location: "Germany"
-    followers: 695005
-    engagement: 61
-    commentsToLikes: 0.038035
-    id: ck0u1fv1kwpy70i196jschgt7
+    followers: 192081
+    engagement: 1836
+    commentsToLikes: 0.002446
+    id: ckaozit8om2k60i784j0ynw9b
     verified: false
-    hashtags: "#scandinaviandesign, #nordicminimalism, #diy, #lowbudget"
-  - username: "howimetmyoutfit"
-    fullname: >-
-      Dana Lohmüller
-    bio: >-
-      How I met my outfit | Cologne 🇩🇪 🖤 lifestyle blogger since 2014 💌 info@howimetmyoutfit.de Fashion | Drinks | Food
-    location: "Germany"
-    followers: 115673
-    engagement: 55
-    commentsToLikes: 0.163879
-    id: ck14lk7siv3vk0i19gj4qqo96
-    verified: false
-    hashtags: "#adventskalendergewinnspiel, #genussmoment, #gewinnspiel, #adventsverlosung2022"
-  - username: "marisa.hofmeister"
-    fullname: >-
-      Marisa Hofmeister
-    bio: >-
-      🌱Certified Holistic Health & Nutrition Coach 🌈 TÄGLICHE Food & Lifestyle Inspo 💌 mgmt@marisahofmeister.com 🎙Podcast: M&Mpowerment 📍BER🇩🇪
-    location: "Germany"
-    followers: 67112
-    engagement: 435
-    commentsToLikes: 0.041615
-    id: ck0txg2zcizdk0i19ulv1zs53
-    verified: false
-    hashtags: "#mindset, #gesunderezepte, #tuscanywedding, #vollgem"
-  - username: "mother_of_six_dragons"
-    fullname: >-
-      Valeska
-    bio: >-
-      MOTHER OF 7 - WIFEY - TV EDITOR - BASED IN COLOGNE. FOOD - FASHION - LIFESTYLE. CONTRIBUTOR for @mummymag
-    location: "Germany"
-    followers: 51983
-    engagement: 856
-    commentsToLikes: 0.048951
-    id: ck134cfzvvrn90i19nzgv7sm9
-    verified: false
-    hashtags: "#liebeliebeliebe, #altbauliebe, #frankreichliebe, #collectmomentsnotthings"
+    hashtags: "#ootdfashion, #streetfashion, #allblack, #sheinhaul"
   - username: "tim_stammberger"
     fullname: >-
       Tim Stammberger
     bio: >-
-      Fitness, Health, Food & good vibes ⠀ 📍 Köln
+      HOME, FOOD, LIFESTYLE, SPORT & GOOD VIBES ⠀ 📍 Köln | Deutschland 🚀 Agentur: @mediafive.de ✉️ Mail: tim@mediafive.de
     location: "Germany"
-    followers: 142435
-    engagement: 612
-    commentsToLikes: 0.005068
+    followers: 171922
+    engagement: 466
+    commentsToLikes: 0.011678
     id: ck13blpfiw0uq0i19hunuop5v
     verified: true
-    hashtags: "#huaweimatebook, #huaweimatebookxpro, #touchscreen, #huawei"
-  - username: "luderchris"
+    hashtags: "#lorealmen, #pepemeup, #sch, #menexpert"
+  - username: "julia.reppel"
     fullname: >-
-      luderchris
+      Julia | Mobility x Lifting x Running
     bio: >-
-      foodie aus hamburg & #kimscrew 🦁 info@madebyluderchris.de
+      Own Every Rep ™ | stay hybrid ⚡️ 🤸🏼‍♀️ mobility on youtube • BA sports science 💯 42.2 & 100k ultra trail done 🇩🇪 @themegarun hype lord • @foodspring
     location: "Germany"
-    followers: 35677
-    engagement: 974
-    commentsToLikes: 0.120196
-    id: ck6ud3m39iy570j71acynxkmm
+    followers: 93048
+    engagement: 444
+    commentsToLikes: 0.027540
+    id: ck0ucv50ghrx00i19fbp5fstj
     verified: false
-    hashtags: "#danngehdochzunetto, #madebyluderchris, #danke, #gewinnspiel"
-  - username: "sisa.official"
+    hashtags: "#sydney, #hybridathlete, #marathontraining, #sydneymarathon"
+  - username: "paulinawallner"
     fullname: >-
-      𝒮𝒾𝓁𝓋𝒾𝒶
+      PAULINA WALLNER
     bio: >-
-      👱🏻‍♀️🇨🇭🇸🇰 Miel, Gym, Food
+      FITNESS | FOOD | FASHION & BEAUTY 📽 YouTube: Paulina Wallner (+350.000 Abos) ❤️ Founder @confitly ✨ Meine Marke (Fitness Produkte & Kochbuch):
     location: "Germany"
-    followers: 10486
-    engagement: 1486
-    commentsToLikes: 0.088368
-    id: ckap686gsesu10i78wu1elll5
+    followers: 174794
+    engagement: 1273
+    commentsToLikes: 0.011507
+    id: ck5byku2lpcbx0i11frygcdqh
     verified: false
-    hashtags: "#herbstoutfit, #basel, #horselove, #baselland"
-  - username: "flyinguwe"
+    hashtags: "#workout, #fitness, #fitgirl"
+  - username: "saradesideria"
     fullname: >-
-      𝐅𝐋𝐘𝐈𝐍𝐆  𝐔𝐖𝐄
+      Sara Desideria Zdravkovic
     bio: >-
-      ▪️Flying Uwe Schüder 🧿 Hamburg ⚓️ ▪️CEO: @Neosupps @Smilodox @Foodsbest @Emporgy ▪️Impressum: bit.ly/flyingimpressum ▪️Meine Sportbekleidung ⬇️
+      FASHION • FOOD • LIFESTYLE • PETS info@saradesideria.de
     location: "Germany"
-    followers: 722334
-    engagement: 1356
-    commentsToLikes: 1.280949
-    id: ck13c2ugtycq00i19k6pje2i9
+    followers: 1243819
+    engagement: 443
+    commentsToLikes: 0.133946
+    id: ck13btp7mx45l0i19bq3xl19x
+    verified: false
+    hashtags: "#healthyrecipes, #gesunderezepte, #dubai, #einfacherezepte"
+  - username: "susanne.schoene"
+    fullname: >-
+      Susanne Schöne
+    bio: >-
+      📺 Journalistin, TV & Eventmoderatorin @kabel_eins & @prosieben Mom 👦🐈‍⬛🐈🐈🦝 🦝 🦝 🦝🐿🐿🐿🐿🐿 🍰 foodblogger @sweet.happy.me 💌 mail@susanne-schoene.de
+    location: "Germany"
+    followers: 49811
+    engagement: 416
+    commentsToLikes: 0.018578
+    id: ck0vv4760nguz0i19clmiv1b0
     verified: true
-    hashtags: "#neosupps, #emporgy, #werbung, #flyinguwe"
+    hashtags: "#tvmoderatorin, #eventmoderatorin, #wettermoderatorin, #ootd"
+  - username: "orienttrifftvegan"
+    fullname: >-
+      S E R A Y I 🧿سراي💚VEGAN✨333✨
+    bio: >-
+      👑 Autorin & 𝐒𝐩𝐢𝐞𝐠𝐞𝐥 𝐊𝐨𝐜𝐡𝐛𝐮𝐜𝐡-𝐁𝐞𝐬𝐭𝐬𝐞𝐥𝐥𝐞𝐫𝐢𝐧 🩵Oriental vegan Food. Visionärin. Bewusstsein 💚founder of @serayi_orientfeinkost 🤎📩 EMAIL
+    location: "Germany"
+    followers: 122621
+    engagement: 475
+    commentsToLikes: 0.033119
+    id: ckap9wxxwtvw40i78542sieba
+    verified: false
+    hashtags: "#soul, #vegan, #love, #vegandeutschland"
+  - username: "doandlive"
+    fullname: >-
+      Diana Scholl
+    bio: >-
+      plant based home cook, culinary creator & producer of @oelsalzessig • life & food — seasonal vegetables, sauces, carbs, garlic & oil 🌱
+    location: "Germany"
+    followers: 96843
+    engagement: 879
+    commentsToLikes: 0.012063
+    id: ck6ud770bjgk90j710s00vyc6
+    verified: false
+    hashtags: "#plantbasedfood, #privatechef, #analogphotography, #tuscanvilla"
 ---

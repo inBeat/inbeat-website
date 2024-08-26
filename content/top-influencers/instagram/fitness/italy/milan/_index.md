@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Milan In 2023
+title: Top 10 Fitness Instagram Influencers In Milan In 2024
 description: >-
-  Find top fitness Instagram influencers in Milan in 2023. Most popular hashtags: #fitness #milano #personaltrainer #fitnessgirl.
+  Find top fitness Instagram influencers in Milan in 2024. Most popular hashtags: #fitness #milano #workout #fitnessgirl.
 platform: Instagram
-hits: 212
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 212 Instagram influencers like this in Milan, Italy for you to pitch.
+hits: 230
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 230 Instagram influencers like this in Milan, Italy for you to collaborate.
 profiles:
   - username: "giacobbe_fragomeni"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck5pvjr3hi8190i11x8aksvg4
     verified: true
     hashtags: ""
+  - username: "valerie_fitness_"
+    fullname: >-
+      Valerie Casto
+    bio: >-
+      📍Milano ➡️ Founder @mypersonalworkout_ Fitness - Wellness - Intuitive Eating Youtuber 🎥 @myproteinit Ambassador 💙 Codice: VALERIEFITNESS ⬇️⬇️
+    location: "Italy"
+    followers: 148935
+    engagement: 377
+    commentsToLikes: 0.005706
+    id: ck8sym75el8t00j78npcejw48
+    verified: false
+    hashtags: "#myprotein, #goldsgym, #fit, #bootyworkout"
   - username: "federicamonacelli"
     fullname: >-
       ғᴇᴅᴇʀɪᴄᴀᴍᴏɴᴀᴄᴇʟʟɪ
@@ -115,16 +127,4 @@ profiles:
     id: ck8t5wt06bi6u0j78rmruzfe8
     verified: false
     hashtags: "#makeup, #fashiongram, #fashionstyle, #puntacana"
-  - username: "danger_ariel"
-    fullname: >-
-      chiara compagnone
-    bio: >-
-      💃🏼 Burlesque 🏋️‍♀️ Fitness 📍 Milan “I’m not bad, i'm just drawn that way”
-    location: "Italy"
-    followers: 8827
-    engagement: 714
-    commentsToLikes: 0.076735
-    id: ckaorx6jep5wf0i78dvlmmesy
-    verified: false
-    hashtags: "#blondegirl, #waitingforchristmas, #christmas, #christmascalendar"
 ---

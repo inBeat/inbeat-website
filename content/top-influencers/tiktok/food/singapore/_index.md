@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Singapore In 2023
+title: Top 10 Food TikTok Influencers In Singapore In 2024
 description: >-
-  Find top food TikTok influencers in Singapore in 2023. Most popular hashtags: #sgfoodie #fyp #foryou #tiktoksg.
+  Find top food TikTok influencers in Singapore in 2024. Most popular hashtags: #sgfoodie #fyp #foryou #dessert.
 platform: TikTok
 hits: 28
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 28 TikTok influencers like this in Singapore for you to collaborate.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 28 TikTok influencers like this in Singapore for you to collaborate.
 profiles:
   - username: "douglasokj"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.075167
     id: ckbqnzsi28ttk0j23saz46gsh
     verified: false
-    hashtags: "#skin, #skincare101, #sgfoodtrend, #sgfoodie"
+    hashtags: "#fyp, #skincare101, #skincarebyhyram, #sgfoodie"
   - username: "the_health_bites"
     fullname: >-
       The Health Bites
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.025243
     id: ck81q5ocqg5kx0j78k80rnfer
     verified: false
-    hashtags: "#foodpandasg, #sgfoodie, #sgfooddelivery, #halalsg"
+    hashtags: "#foodpandasg, #sgfooddelivery, #sgfoodie, #halalsg"
 ---

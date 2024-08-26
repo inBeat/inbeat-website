@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health Instagram Influencers In Atlanta In 2023
+title: Top 10 Health Instagram Influencers In Atlanta In 2024
 description: >-
-  Find top health Instagram influencers in Atlanta in 2023. Most popular hashtags: #health #atlanta #love #selflove.
+  Find top health Instagram influencers in Atlanta in 2024. Most popular hashtags: #atlanta #health #selflove #atlantablogger.
 platform: Instagram
-hits: 159
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our platform has 159 Instagram influencers like this in Atlanta, United States for you to contact.
+hits: 192
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 192 Instagram influencers like this in Atlanta, United States for you to pitch.
 profiles:
   - username: "sirenitytoday"
     fullname: >-
@@ -30,7 +30,31 @@ profiles:
     commentsToLikes: 0.270848
     id: ckaorlu3rnsxi0i78k5b82jde
     verified: false
-    hashtags: "#bahamas, #leoseason, #atlantablogger, #selflove"
+    hashtags: "#atlantavlogger, #bahamas, #atlantablogger, #selflove"
+  - username: "thejanaewerts"
+    fullname: >-
+      Janae' Werts
+    bio: >-
+      God's Girl 💛 Wife to @certifieddeshad 💍 Breast Cancer Thriver & Advocate💖 Health & Wellness Enthusiasts 💪🏽 ATLien 👽✌🏽🍑 living in PDX 🌹
+    location: "United States"
+    followers: 7041
+    engagement: 359
+    commentsToLikes: 0.075497
+    id: ck5hls2bfkr6a0i11ynn8a9sv
+    verified: false
+    hashtags: "#grateful, #godsgirl, #breastcancer, #gym"
+  - username: "thenursejulia"
+    fullname: >-
+      Nurse Julia
+    bio: >-
+      📍 ATL Board Certified Nurse Practitioner Health Promotion | Lifestyle | Self Care
+    location: "United States"
+    followers: 36831
+    engagement: 218
+    commentsToLikes: 0.050099
+    id: ck0u9yhdiawas0i19f01wlnhn
+    verified: false
+    hashtags: "#selfcare, #healthpromotion, #thenursejulia, #nurselife"
   - username: "t.rocha16"
     fullname: >-
       Tony Rocha
@@ -78,53 +102,29 @@ profiles:
     commentsToLikes: 0.020282
     id: ck6u6c3tweqfz0j71s21ic5q3
     verified: false
-    hashtags: "#monstergirlmonday, #monstergirl, #engaged, #monsterenergy"
-  - username: "deronwalker"
+    hashtags: "#isaidyes, #monstergirlmonday, #monsterenergy, #engaged"
+  - username: "askauntiejillian"
     fullname: >-
-      deron
+      Jillian D
     bio: >-
-      tik tok: @deron_walker chi ✈️ la
+      As seen on Auntie Jillian on @CTV & @fibetv1 Canada’s First Black Caribbean Reality TV Show!! |Motivator| TV Personality 🎬📌 🇨🇦🇹🇹
     location: "United States"
-    followers: 7947
-    engagement: 1296
-    commentsToLikes: 0.101280
-    id: ck6u3dcgxx5vs0j71txo626mv
+    followers: 65602
+    engagement: 396
+    commentsToLikes: 0.043273
+    id: ck5q8klkz6nm20i11chben28c
     verified: false
-    hashtags: "#dancers, #fitness, #nature, #body"
-  - username: "acostaparkmusic"
+    hashtags: "#thankful, #memories, #itsarealting, #ootd"
+  - username: "shanicealisha"
     fullname: >-
-      Acosta Park
+      
     bio: >-
-      🔊 SINGER - SONGWRITER OWNER - @thepenthousenyc RUN IT UP - PENTHOUSE MAFIA
+      Influencer • ATL📍 🙏🏾 Philippians 4:13 . 🎥 YT • 40K Subs, 4M Views . Founder of @showtimewithshanice + @xoshanicealisha .
     location: "United States"
-    followers: 42203
-    engagement: 49
-    commentsToLikes: 0.256310
-    id: ck6touavyg5ha0j71mk3knawn
+    followers: 10136
+    engagement: 1996
+    commentsToLikes: 0.065462
+    id: ck6tirb4719v60j719phggp9i
     verified: false
-    hashtags: "#love, #2020, #entrepreneur, #boss"
-  - username: "chief_miller"
-    fullname: >-
-      𝙲𝚑𝚒𝚎𝚏 𝙼𝚒𝚕𝚕𝚎𝚛 ™
-    bio: >-
-      𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙿𝙰𝙶𝙴 Dᴇᴅɪᴄᴀᴛᴇᴅ ᴛᴏ ᴛʜᴇ ᴍᴇɴ ᴀɴᴅ ᴡᴏᴍᴇɴ ᴏғ ᴛʜᴇ ғɪʀᴇ sᴇʀᴠɪᴄᴇ ⭐⭐⭐⭐⭐⭐⭐ @chiefmillerapparel @chiefmillermedia @chiefmillerambassadors
-    location: "United States"
-    followers: 213029
-    engagement: 124
-    commentsToLikes: 0.037268
-    id: ck5hmzq4imxq50i11xngj1egu
-    verified: false
-    hashtags: "#chiefmiller, #paramedic, #fireservice, #bomberos"
-  - username: "southernketogirl"
-    fullname: >-
-      🌟 Jana 🌟
-    bio: >-
-      📍 ATL K-Nutri @knutri 10% Discount- southernketogirl10 ⬇️ 150 lbs w/ Keto+Exercise 👙 Skin removal @athenixbody 🥩 Keto 🏋🏼‍♀️ Fitness ❤️ Health
-    location: "United States"
-    followers: 60996
-    engagement: 64
-    commentsToLikes: 0.149020
-    id: ck5zm4sqolwh10i14eyzzjudk
-    verified: false
-    hashtags: "#selflove, #ketogeniclifestyle, #ketodiet, #ketogenic"
+    hashtags: "#lifestyle, #shanicealisha, #sponsored, #youtube"
 ---

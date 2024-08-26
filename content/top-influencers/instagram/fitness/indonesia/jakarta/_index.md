@@ -1,24 +1,96 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Jakarta In 2023
+title: Top 10 Fitness Instagram Influencers In Jakarta In 2024
 description: >-
-  Find top fitness Instagram influencers in Jakarta in 2023. Most popular hashtags: #fitness #bali #fitnessmotivation #indonesia.
+  Find top fitness Instagram influencers in Jakarta in 2024. Most popular hashtags: #fashion #fitness #gym #indonesia.
 platform: Instagram
-hits: 18
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database has 18 Instagram influencers like this in Jakarta, Indonesia for you to work with.
+hits: 29
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 29 Instagram influencers like this in Jakarta, Indonesia for you to connect with.
 profiles:
-  - username: "hendritake"
+  - username: "dietsantuy.id"
     fullname: >-
-      Hendri Take
+      Anton Hermawan
     bio: >-
-      Winner @InfluenceAsia 2015 BA @garminid Entrepreneur @clickjahe @kebuntake @takepottery •VISEE Yoga Coach http://lambassador.asia/ 📍Jakarta🇮🇩
+      "𝑫𝒊𝒆𝒕 𝒋𝒂𝒏𝒈𝒂𝒏 𝒕𝒂𝒌𝒖𝒕 𝒎𝒂𝒌𝒂𝒏!" 💁‍♂️ Bantu Kamu Nurunin Lemak & Naikin Massa Otot 💪 Fitness Equipment @strengthbae.id
     location: "Indonesia"
-    followers: 136853
-    engagement: 230
-    commentsToLikes: 0.010889
-    id: ck13cwnnv2j0g0i19ddixmb1j
+    followers: 243566
+    engagement: 103
+    commentsToLikes: 0.038221
+    id: ck8t8s6vmlleo0j784q49cxcq
     verified: false
-    hashtags: "#fitness, #yogachallenge, #halal, #qualitylamb"
+    hashtags: "#gymbekasi, #gymjakarta, #kegemukan, #olahragaperut"
+  - username: "marzcheese"
+    fullname: >-
+      UMAR IMANUDDIN
+    bio: >-
+      #fashion #lifestyle #travel #food #hotel #staycation enthusiast 🌏 Part #TVLKTravelFriends @traveloka.id 📍#Indonesia #SEMARANG #JOGJA 🦖 Made in #Kudus
+    location: "Indonesia"
+    followers: 303678
+    engagement: 322
+    commentsToLikes: 0.047316
+    id: ck9wgd8yuswsz0j78sz1pnpt7
+    verified: false
+    hashtags: "#hotelbali, #fivestar, #bali, #yoga"
+  - username: "kennyharyanto"
+    fullname: >-
+      Ignatius Kenny Haryanto
+    bio: >-
+      082125655247 (Rendy) 📍Jakarta 🏫 @ugm.yogyakarta 📚 @erasmusuniversity
+    location: "Indonesia"
+    followers: 55200
+    engagement: 391
+    commentsToLikes: 0.011777
+    id: ck5c19syluqez0i11u6ppd0mc
+    verified: false
+    hashtags: "#fashion, #travel, #indonesia, #classic"
+  - username: "alfonzheng"
+    fullname: >-
+      Alfon Zheng アルフォン
+    bio: >-
+      💪🏻 Certified Fitness Trainer 📷 🎥 @alfonphotographie & @kalyanastudio 🐹 @boyoon_caviary 🐾 @sachishiba_jakarta Business inquiries : @ricoomodels
+    location: "Indonesia"
+    followers: 16147
+    engagement: 1204
+    commentsToLikes: 0.040048
+    id: ck9whb0ajx3m10j78zg0ij2qr
+    verified: false
+    hashtags: "#tricep, #hot, #vacation, #swimmingpool"
+  - username: "glennvictor"
+    fullname: >-
+      Glenn Victor Sutanto
+    bio: >-
+      Olympian 🏊🏼‍♂️ Grand finalist #TNLOTY2024 Certified international swimming coach CPT & CES by @nasm_fitness Part of @caldaremgt
+    location: "Indonesia"
+    followers: 69804
+    engagement: 481
+    commentsToLikes: 0.018725
+    id: ckaouwqbs25ai0i78qo75mm5q
+    verified: false
+    hashtags: "#medal, #swimmingpool, #indonesia, #gym"
+  - username: "yusufhendratnoo"
+    fullname: >-
+      Yusuf Hendratno | Aspire To Inspire
+    bio: >-
+      🏆| BA @mutant.idn 💼| Model - Content Creator - Digital Preneur 🎓| Fitness & Nutrition Coach @fitnwell.101 📧 Email for job & inquiries
+    location: "Indonesia"
+    followers: 298013
+    engagement: 161
+    commentsToLikes: 0.017797
+    id: ck13cwlks2iqg0i19ybxtc9v4
+    verified: false
+    hashtags: "#fitness, #workout, #trip, #lifestyle"
+  - username: "iphann"
+    fullname: >-
+      Ivan Loviano
+    bio: >-
+      Travel | Lifestyle | Blogging since 2006 | Jakarta - Jogja - Bali Contact: ivan.loviano@gmail.com @sigga.activewear
+    location: "Indonesia"
+    followers: 49440
+    engagement: 33
+    commentsToLikes: 0.025319
+    id: ck6txw89z07t40j71ecgyc8g5
+    verified: false
+    hashtags: "#instafamous, #iphanninseoul, #uniqloplusj, #earliertoday"
   - username: "jacob_a_official"
     fullname: >-
       Jacob A Couture
@@ -31,30 +103,6 @@ profiles:
     id: ck14i7025dyh70i196zah8dh9
     verified: false
     hashtags: "#instadaily, #blessed, #stayfit, #stayathome"
-  - username: "chitrachef"
-    fullname: >-
-      Chef Chitra
-    bio: >-
-      🌱🌿 Plant Based Soul Mama for @soul_jakarta Founder @chefskitchen_id YouTube : Chef Chitra
-    location: "Indonesia"
-    followers: 60401
-    engagement: 237
-    commentsToLikes: 0.026066
-    id: ck6txw6om07gq0j71zn03ugly
-    verified: true
-    hashtags: "#photooftheday, #vlog, #ootd, #instagram"
-  - username: "bobbyida"
-    fullname: >-
-      ⏩2Ninefit Indonesia⏪
-    bio: >-
-      Indonesian Fitness Youtuber 🇮🇩 Model / IFBB Athlete / Content Creator ANS Performance Athlete WALKING ON WATER 🌊 MAT 14:22-33 🙏 Bali | Indonesia
-    location: "Indonesia"
-    followers: 270989
-    engagement: 186
-    commentsToLikes: 0.013609
-    id: ck5zkkpwyjno50i14s7rwxzhi
-    verified: true
-    hashtags: "#suamiistri, #asians, #fam, #dirumahaja"
   - username: "pipitdjatma"
     fullname: >-
       Pipit Djatma 🤍🖤
@@ -71,60 +119,12 @@ profiles:
     fullname: >-
       Luminousdreamsphotoworks
     bio: >-
-      Potrait . Beauty . Commercial Photographer, Traveller, Food Lover Jakarta Indonesia
+      Potrait . Beauty . Commercial Photographer, @ItsMeTeguh @mas_christian_ Traveller, Food Lover Jakarta Indonesia
     location: "Indonesia"
-    followers: 20622
-    engagement: 326
-    commentsToLikes: 0.049679
+    followers: 20516
+    engagement: 319
+    commentsToLikes: 0.107182
     id: ck5zj65d4h0hy0i148ptafesh
     verified: false
-    hashtags: "#fashionstylist, #swagger, #followme, #beautymakeup"
-  - username: "bennygun"
-    fullname: >-
-      BENNY GUNAWAN
-    bio: >-
-      📍Surabaya 👔 Part of @flexzone.id 👉🏻 DM for PP / Endorsement 🎉 TIKTOK 200k followers
-    location: "Indonesia"
-    followers: 96093
-    engagement: 131
-    commentsToLikes: 0.033208
-    id: ck1376jk0a1e00i19nlk76lmt
-    verified: false
-    hashtags: "#jogjaistimewa, #photo, #healthy, #sexy"
-  - username: "purwokertodrone"
-    fullname: >-
-      Purwokerto Drone
-    bio: >-
-      Photography Videography Wedding Prewedding Bisnis WA 081227272450
-    location: "Indonesia"
-    followers: 12954
-    engagement: 468
-    commentsToLikes: 0.071851
-    id: ck6u7k1holyvd0j718av3eoas
-    verified: false
-    hashtags: "#djimavicpro, #bali, #dagelan, #cilacap"
-  - username: "agungnandito"
-    fullname: >-
-      Agung Nandito Fanny
-    bio: >-
-      | Travel Influencer | Marriott Bonvoy Platinum Member | SPG Traveler | Hotel Guest | Real Stays and Real Review | Bukan Selebgram | No Endorse |
-    location: "Indonesia"
-    followers: 7373
-    engagement: 301
-    commentsToLikes: 0.043906
-    id: ck0uel86hlkm20i191ti4ar8n
-    verified: false
-    hashtags: "#daddy, #beautifuldestinations, #elementhotel, #sheratongrandjakarta"
-  - username: "arip_sunarno38"
-    fullname: >-
-      Arip Sunarno
-    bio: >-
-      ❌ TIDAK PUNYA FACEBOOK * DM ENDORS
-    location: "Indonesia"
-    followers: 23537
-    engagement: 340
-    commentsToLikes: 0.026370
-    id: ckf5w6j2gr1x10j23slxoag3s
-    verified: false
-    hashtags: "#healthylifestyle, #healthy, #bersyukur, #work"
+    hashtags: "#bbg, #male, #bodygoals, #asian"
 ---

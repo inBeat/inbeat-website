@@ -1,24 +1,24 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Malaysia In 2023
+title: Top 10 Fashion TikTok Influencers In Malaysia In 2024
 description: >-
-  Find top fashion TikTok influencers in Malaysia in 2023. Most popular hashtags: #fyp #tiktokmalaysia #fashion #foryou.
+  Find top fashion TikTok influencers in Malaysia in 2024. Most popular hashtags: #fyp #tiktokmalaysia #fashion #foryou.
 platform: TikTok
 hits: 12
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our database has 12 TikTok influencers like this in Malaysia for you to collaborate.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 12 TikTok influencers like this in Malaysia for you to contact.
 profiles:
   - username: "outfitideassxo"
     fullname: >-
       🤎outfit inspo/fashion🤎
     bio: >-
-      follow my insta ^^ 💌 @outfitideastiktok@gmail.com
+      🤎🤎
     location: "Malaysia"
-    followers: 37900
-    engagement: 1413
-    commentsToLikes: 0.010869
+    followers: 37700
+    engagement: 1432
+    commentsToLikes: 0.011629
     id: ck9gl3eetmcvn0j78hxo4oyxx
     verified: false
-    hashtags: "#fashiontiktok, #outiftinspo, #ootd, #brownoutfits"
+    hashtags: "#fashion, #brandymelville, #tiktokfashion, #viral"
   - username: "misauroralee"
     fullname: >-
       Misauroralee

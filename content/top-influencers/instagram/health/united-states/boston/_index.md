@@ -1,36 +1,12 @@
 ---
-title: Top 10 Health Instagram Influencers In Boston In 2023
+title: Top 10 Health Instagram Influencers In Boston In 2024
 description: >-
-  Find top health Instagram influencers in Boston in 2023. Most popular hashtags: #fitnessmotivation #health #fitness.
+  Find top health Instagram influencers in Boston in 2024. Most popular hashtags: #health #bostonblogger #fitness.
 platform: Instagram
-hits: 91
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 91 Instagram influencers like this in Boston, United States for you to contact.
+hits: 107
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 107 Instagram influencers like this in Boston, United States for you to contact.
 profiles:
-  - username: "avitalzeisler"
-    fullname: >-
-      Avital
-    bio: >-
-      💻 Tech startup co-founder 🤗 Safety and wellness advocate 🧿
-    location: "United States"
-    followers: 7246
-    engagement: 361
-    commentsToLikes: 0.056292
-    id: ckaoyn2coi6vq0i78rudr4xn6
-    verified: false
-    hashtags: "#strikewithavital, #soteriamethod, #martialarts, #survival"
-  - username: "girlswhoeat"
-    fullname: >-
-      Jamie Koll 〰️ Clean Eating
-    bio: >-
-      easy make your own recipes ingredients explained + product swaps shopping grocery aisles for clean labels 📍boston | health coach @shopgirlswhoeat
-    location: "United States"
-    followers: 50003
-    engagement: 29
-    commentsToLikes: 0.083634
-    id: ck6ue4mqtot190j71czmefowt
-    verified: false
-    hashtags: "#gwecleaneating, #girlswhoeatrecipes"
   - username: "africarubiop"
     fullname: >-
       Africa Rubio / Health Coach
@@ -43,18 +19,42 @@ profiles:
     id: ck14jacm1jby30i194h487oqj
     verified: false
     hashtags: "#healthandwellness, #holisticapproach, #healthieryou, #namastaywell"
-  - username: "wellnesswithwade"
+  - username: "roomtoveuve"
     fullname: >-
-      Wade⚡️Transformation Coach
+      Diane ~ Fashion Inspiration
     bio: >-
-      🔥 I help YOU walk away from corporate & become the CEO of your life through entrepreneurship 🚀Top 1% Network Marketing Pro 🎙Host of @gettingmagnetic
+      🍾Celebrating life thru fashion, food & travel 📍Boston, MA 📧 e-mail for collaboration Model at Maggie, Inc 🍾Creator of #roomtoveuve 💃🏻 #styleinspo
     location: "United States"
-    followers: 13652
-    engagement: 436
-    commentsToLikes: 0.045204
-    id: ck8sxjphvhn7u0j78m8tndjd9
+    followers: 15876
+    engagement: 863
+    commentsToLikes: 0.976437
+    id: ckap37rp41woz0i78eumiaumb
     verified: false
-    hashtags: "#podcastersofinstagram, #sixpacksummer, #healthcoaching, #healthcoach"
+    hashtags: "#fallstyle, #agelessstyle, #inreallife, #over50andfabulous"
+  - username: "instagrubzz"
+    fullname: >-
+      NEW ENGLAND’S BEST EATS // GABBY
+    bio: >-
+      🍴Get in loser, we’re going grubbing 🌆 Boston, MA📍& West Hartford, CT 📍 👏🏼Supporting local businesses ✨ DM for collabs 👩🏻‍💻instagrubzz@gmail.com
+    location: "United States"
+    followers: 51916
+    engagement: 74
+    commentsToLikes: 0.083970
+    id: ckxle5nu27sve0j23mme0mfni
+    verified: false
+    hashtags: "#eat, #foodphotography, #like, #eeeeeats"
+  - username: "lovelyemy"
+    fullname: >-
+      EMILY QUACH
+    bio: >-
+      + 📍Boston, MA + 🧬#womeninSTEM check out my links below ↓
+    location: "United States"
+    followers: 61856
+    engagement: 42
+    commentsToLikes: 0.033824
+    id: ck0w5jfhf3xhp0i19nu4g8uwj
+    verified: false
+    hashtags: "#ltkhome, #bostonblogger, #cr25, #alphahope"
   - username: "ultramarathon"
     fullname: >-
       Dean Karnazes
@@ -67,6 +67,18 @@ profiles:
     id: ck55jsmg2xnke0i11widoujjr
     verified: true
     hashtags: "#photooftheday, #deankarnazesquotes, #runners, #marathon"
+  - username: "averagearabgirl_"
+    fullname: >-
+      Jasmin Dieb
+    bio: >-
+      🫒 simple Mediterranean-inspired recipes & holistic health tips 🍒 a Boston RD 2 BE making wellness relatable & realistic links + recipes ⬇️
+    location: "United States"
+    followers: 227259
+    engagement: 44
+    commentsToLikes: 0.107143
+    id: cl7o00tmvw8cr0i23zy8k3cf4
+    verified: false
+    hashtags: "#healthblogger, #makesundaysyours, #averagearabgirl, #skincareroutines"
   - username: "briannafogden"
     fullname: >-
       b r i a n n a f o g d e n
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.027348
     id: ck15sazafc3fh0i19xcwtmzie
     verified: false
-    hashtags: "#positivity, #journey, #power, #21dayisolationtransformation"
+    hashtags: "#coronavirus, #transformation, #covid19, #purpose"
   - username: "erinkeavs"
     fullname: >-
       Erin K | Boston Lifestyle
@@ -102,19 +114,7 @@ profiles:
     commentsToLikes: 0.025862
     id: ck0vv1peen4yb0i19z4fstz4y
     verified: false
-    hashtags: "#ad, #chefskiss, #sponsored, #gifted"
-  - username: "runcamille"
-    fullname: >-
-      Camille Herron
-    bio: >-
-      Ultrarunner, Coach 🌮🍻🐶✌️ Comrades Champion 50K/100K/24Hr World Champion 5 World Bests @HokaOneOne @corosglobal @nordictrack @therunnersmultivitamin •
-    location: "United States"
-    followers: 42162
-    engagement: 249
-    commentsToLikes: 0.026884
-    id: ck5zkfs9ujefm0i14p7yrh4lf
-    verified: true
-    hashtags: "#maurten, #beastmode, #squirrelsnutbutter, #insidetracker"
+    hashtags: "#gifted, #mmmmm, #takecare, #sponsored"
   - username: "laurennbfit"
     fullname: >-
       Lauren • Fitness & Foodie 🤍🦋
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.121557
     id: ck5ck0ogdvvv80i111vkxodt1
     verified: false
-    hashtags: "#positivevibes, #bikiniseason, #liftingweights, #bodypositivitymovement"
+    hashtags: "#positivevibes, #bodypositivitymovement, #fitnessmotivation, #workoutroutine"
 ---

@@ -1,12 +1,96 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Canada In 2023
+title: Top 10 Architecture Instagram Influencers In Canada In 2024
 description: >-
-  Find top architecture Instagram influencers in Canada in 2023. Most popular hashtags: #architecture #archilovers #vancouver #modernarchitecture.
+  Find top architecture Instagram influencers in Canada in 2024. Most popular hashtags: #architecture #interiordesign #interior #archilovers.
 platform: Instagram
-hits: 83
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 83 Instagram influencers like this in Canada for you to pitch.
+hits: 112
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 112 Instagram influencers like this in Canada for you to collaborate.
 profiles:
+  - username: "m.toninterieur"
+    fullname: >-
+      M ton intérieur—Studio Design
+    bio: >-
+      — Design | Architecture — Agrandissement | Conception de plans — Au-delà du décor - Podcast
+    location: "Canada"
+    followers: 24034
+    engagement: 245
+    commentsToLikes: 0.079717
+    id: ckaorx2y0p5ci0i78c12iqc2f
+    verified: false
+    hashtags: "#interiorarchitecture, #designstyle, #interiordetails, #interiordesigner"
+  - username: "archdose"
+    fullname: >-
+      Architecture & Design Dose
+    bio: >-
+      We promote architecture from around the globe 🌍 Managed by @dosemediaprod
+    location: "Canada"
+    followers: 1596650
+    engagement: 79
+    commentsToLikes: 0.009024
+    id: ck13asruls02b0i19gltestwh
+    verified: false
+    hashtags: "#interiordesign, #dailydecordose, #homedecorideas, #interiorphotography"
+  - username: "jougestudio"
+    fullname: >-
+      Jouge
+    bio: >-
+      Jouge Studio | Designers of architecture + interiors for new homes and renovations. Buyers of home furnishings. Our work + inspo page 💌 Hello@jouge.ca
+    location: "Canada"
+    followers: 67006
+    engagement: 66
+    commentsToLikes: 0.030866
+    id: cl8vb6basabn50i23gno3qabh
+    verified: false
+    hashtags: "#interiordecorating, #interiorstyling, #yyclife, #interior"
+  - username: "gregntore"
+    fullname: >-
+      Greg Ntore
+    bio: >-
+      P.stylist @SSENSE Architecture : photos not mine (unless specified) ✉️: gregntore@gmail.com 📺: Youtube/ Greg Ntore
+    location: "Canada"
+    followers: 180523
+    engagement: 58
+    commentsToLikes: 0.009530
+    id: ck8t0z083tuuu0j78jq0iujtw
+    verified: false
+    hashtags: "#mensfashion, #styleinspo, #mensstyle, #okcthunder"
+  - username: "og_architect"
+    fullname: >-
+      Omar Gandhi Architect
+    bio: >-
+      Architecture | Landscape | Design Halifax | Toronto | 2010
+    location: "Canada"
+    followers: 76820
+    engagement: 124
+    commentsToLikes: 0.017451
+    id: ck5hkgx9tiecz0i11efh0ivcl
+    verified: true
+    hashtags: "#halifax, #model, #omargandhiarchitect, #design"
+  - username: "westbankcorp"
+    fullname: >-
+      Westbank
+    bio: >-
+      Dedicated to the creation of beauty, integration of art and architecture #fightforbeauty #vancouver #toronto #seattle #tokyo #siliconvalley
+    location: "Canada"
+    followers: 43530
+    engagement: 40
+    commentsToLikes: 0.009809
+    id: ck6tph9exjuxy0j719bg2fr55
+    verified: false
+    hashtags: "#vancouver, #art, #design, #seattle"
+  - username: "est_living"
+    fullname: >-
+      estliving.com
+    bio: >-
+      Inspiring exceptional living architecture | products | interiors
+    location: "Canada"
+    followers: 764871
+    engagement: 38
+    commentsToLikes: 0.011541
+    id: ck5c1pxk4vop30i11r1dag80x
+    verified: false
+    hashtags: "#jos"
   - username: "uli__anna"
     fullname: >-
       Ulyana Bunina
@@ -18,7 +102,7 @@ profiles:
     commentsToLikes: 0.049629
     id: ck15ukvsxnohv0i19c41aep6u
     verified: false
-    hashtags: "#arianagrande, #bodypaint, #flowerinesspink, #facechart"
+    hashtags: "#bodypaint, #arianagrande, #flowerinesspink, #sfxmakeup"
   - username: "mjay.photography"
     fullname: >-
       Michelle Johnson
@@ -30,7 +114,7 @@ profiles:
     commentsToLikes: 0.055633
     id: ck5hllscikfv80i111tdjr8ku
     verified: false
-    hashtags: "#yycphotographer, #yycinteriors, #houseandhome, #yycliving"
+    hashtags: "#yycliving, #yycphotographer, #yycinteriors, #houseandhome"
   - username: "emaphotographi"
     fullname: >-
       Ema Peter Photography
@@ -43,88 +127,4 @@ profiles:
     id: ck5c613pk4ifi0i11ppbescge
     verified: false
     hashtags: "#modernarchitecture, #archilovers, #vscocam, #instagram"
-  - username: "brendantadler"
-    fullname: >-
-      Brendan Tadler
-    bio: >-
-      Architecture & Interiors / Specializing in Luxury Residential & Retail Environments / Represented by @the_len_co
-    location: "Canada"
-    followers: 11594
-    engagement: 260
-    commentsToLikes: 0.046269
-    id: ckf5uqntjlwl50j23ls2cqb3t
-    verified: false
-    hashtags: "#vote, #btteam, #brendantadler, #brendantadlerstudio"
-  - username: "battersbyhowat"
-    fullname: >-
-      BattersbyHowat Architects
-    bio: >-
-      Architecture, Interiors, Landscapes...you get the idea...
-    location: "Canada"
-    followers: 9327
-    engagement: 453
-    commentsToLikes: 0.033973
-    id: ck0w0s3vkfrko0i19vfz12nr9
-    verified: false
-    hashtags: "#westvancouvermodern, #battersbyhowat, #moderngarden, #vancouverarchitect"
-  - username: "diagonal_symmetry"
-    fullname: >-
-      💢 #diagonalsymmetry 💢
-    bio: >-
-      Showcase for perspective based architecture, tag for feature 💢
-    location: "Canada"
-    followers: 36077
-    engagement: 362
-    commentsToLikes: 0.040934
-    id: ck0w76w89c25z0i19u309zeyv
-    verified: false
-    hashtags: "#diagonalsymmetry, #lostinpattern, #modernarchitecture, #diagonal"
-  - username: "arkiromantix"
-    fullname: >-
-      ArkiRomantix ™
-    bio: >-
-      Featuring Dramatic Architecture Follow👉🏻👉🏻#ARKIROMANTIX
-    location: "Canada"
-    followers: 69290
-    engagement: 170
-    commentsToLikes: 0.016050
-    id: ck0vx3hgkwy8v0i19r7fqsmbm
-    verified: false
-    hashtags: "#archiporn, #upthere, #architectureminimal, #bestworldshots"
-  - username: "theopenworkshop"
-    fullname: >-
-      THE OPEN WORKSHOP
-    bio: >-
-      Architecture x Territorial Environment San Francisco + Toronto Registered Architect in California 🇺🇸 & Ontario 🇨🇦 📖 👇🏽
-    location: "Canada"
-    followers: 28091
-    engagement: 155
-    commentsToLikes: 0.008311
-    id: ckaov30re2wrr0i78193umh8i
-    verified: false
-    hashtags: "#ccarts, #commoning, #ccaarchitecture, #biennalearchitettura2021"
-  - username: "leibal"
-    fullname: >-
-      Leibal
-    bio: >-
-      An online publication and store focused on minimalism in regard to architecture, interiors, furniture, and products.
-    location: "Canada"
-    followers: 72644
-    engagement: 130
-    commentsToLikes: 0.024469
-    id: ck5cfq84znfwo0i11sjgqhz69
-    verified: false
-    hashtags: "#minimalinterior, #minimalistfurniture, #minimalistinterior, #leibal"
-  - username: "westbankcorp"
-    fullname: >-
-      Westbank
-    bio: >-
-      Dedicated to the creation of beauty, integration of art and architecture #buildingartistry #fightforbeauty #tokyo #vancouver #toronto #seattle
-    location: "Canada"
-    followers: 30880
-    engagement: 77
-    commentsToLikes: 0.016027
-    id: ck6tph9exjuxy0j719bg2fr55
-    verified: false
-    hashtags: "#design, #vancouver, #architecture, #vancouverhouse"
 ---

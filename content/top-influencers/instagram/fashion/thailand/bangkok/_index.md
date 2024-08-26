@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Bangkok In 2023
+title: Top 10 Fashion Instagram Influencers In Bangkok In 2024
 description: >-
-  Find top fashion Instagram influencers in Bangkok in 2023. Most popular hashtags: #fashion #bangkok #thailand.
+  Find top fashion Instagram influencers in Bangkok in 2024. Most popular hashtags: #fashion #photooftheday #thailand #bangkok.
 platform: Instagram
 hits: 14
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 14 Instagram influencers like this in Bangkok, Thailand for you to pitch.
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 14 Instagram influencers like this in Bangkok, Thailand for you to contact.
 profiles:
   - username: "allybunnyruth"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck136ktme6zwe0i19aai35f0g
     verified: false
     hashtags: "#2470, #travelphotography, #canon70200mm, #fashionphotography"
-  - username: "adriikuhn"
-    fullname: >-
-      Adriana Kuhn
-    bio: >-
-      Gaúcha, 24. | 🇧🇷 🦀 • Traveling around the world • 🌎 - 🇩🇪 🇨🇳 🇪🇸 🇺🇸 🇫🇷 🇭🇰 🇮🇳 🇮🇩 🇲🇾 🇲🇲 🇵🇾 🇸🇬 🇹🇭🇺🇾 📍- Bangkok, Thailand
-    location: "Thailand"
-    followers: 6435
-    engagement: 696
-    commentsToLikes: 0.081797
-    id: ckf5riz4ecu4x0j23rpeeyhem
-    verified: false
-    hashtags: "#jakarta, #india, #portrait, #modelos"
   - username: "app.coll"
     fullname: >-
       App.Coll
@@ -54,7 +42,19 @@ profiles:
     commentsToLikes: 0.059246
     id: ckaoxrshcegax0i78l9dyxfyz
     verified: false
-    hashtags: "#asiangirl, #makeup, #holiday, #weekend"
+    hashtags: "#smile, #latex, #leather, #bkk"
+  - username: "arushisaxena_"
+    fullname: >-
+      Arushi Saxena
+    bio: >-
+      Super dancer chapter 2 India's Next Superstar Asian Dance championx3 Asia Pacific Dance Champion Bangkok
+    location: "Thailand"
+    followers: 102792
+    engagement: 60
+    commentsToLikes: 0.063305
+    id: ck8sxb0uvgqgq0j78evua3hxm
+    verified: false
+    hashtags: "#reelitfeelit, #arushisaxena, #explorepage, #fyp"
   - username: "thekittyway"
     fullname: >-
       Fashion Travel Lifestyle Mommy
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.045323
     id: ck14kgjfqpeth0i19xhv4ztx1
     verified: false
-    hashtags: "#thaigerman, #fashionblogger, #inspojunkie, #thehappynow"
+    hashtags: "#darlingmovement, #mamablogger, #livethelittlethings, #kissinfashion"
   - username: "gemazarina"
     fullname: >-
       Gema - Fashion | Modeling
@@ -91,18 +91,6 @@ profiles:
     id: ck6ty1c9113w20j71h0yb0o68
     verified: false
     hashtags: "#icon, #popart, #art, #artist"
-  - username: "xs.lin.xs"
-    fullname: >-
-      🧍🏻‍♀️Born to Be Real⭐️
-    bio: >-
-      C’est Lin #Bangkok🇹🇭 Tourismus Management, Frequent Traveller, TFP Model, Techno Music Lover & Dj 🏠Düsseldorf
-    location: "Thailand"
-    followers: 4275
-    engagement: 1001
-    commentsToLikes: 0.039045
-    id: ck0vwr1cuv63e0i19ljw851om
-    verified: false
-    hashtags: "#frequenttraveller, #portrait, #travelagentlife, #transisbeautiful"
   - username: "armytoast"
     fullname: >-
       Makeup Artist • Thailand
@@ -115,16 +103,28 @@ profiles:
     id: ck5cghtjiovfz0i114uaz1zuq
     verified: false
     hashtags: "#bridebyarmytoast, #asianmodel, #model, #fashionicon"
-  - username: "hikennjie"
+  - username: "newwy_official"
     fullname: >-
-      Ciara Keva Kennedy
+      Be Humble🌸💓
     bio: >-
-      Bangkok | Independently created @kanwareofficial and @studiokeva Doggo @chuebue
+      🇹🇭THAI |FHM Model |Tan |Gym Addicted 📍Based in Bangkok, Thailand📍 เจ้าของแบรนด์ @mytan.th ☀️🥥🌴 #น้ำมันอาบแดด #น้ำมันผิวแทน #organic -WORK PLEASE DM-
     location: "Thailand"
-    followers: 26044
-    engagement: 567
-    commentsToLikes: 0.002057
-    id: ck6tjg2u72nez0j711yqz45ya
+    followers: 56499
+    engagement: 145
+    commentsToLikes: 0.025004
+    id: ck55oxbb99boi0i11sdxrlv2b
     verified: false
-    hashtags: "#threecosmeticsthailand, #findyourbalannce, #thebestseller, #70yearsoftheartofprintmaking"
+    hashtags: "#travel, #goals, #beautiful, #happy"
+  - username: "adriikuhn"
+    fullname: >-
+      Adriana Kuhn
+    bio: >-
+      Gaúcha, 25. | 🇧🇷 🦀 • Traveling around the world • 🌎 - 🇩🇪 🇨🇳 🇪🇸 🇺🇸 🇫🇷 🇭🇰 🇮🇳 🇮🇩 🇲🇾 🇲🇲 🇵🇾 🇸🇬 🇹🇭🇺🇾
+    location: "Thailand"
+    followers: 6483
+    engagement: 608
+    commentsToLikes: 0.067843
+    id: ckf5riz4ecu4x0j23rpeeyhem
+    verified: false
+    hashtags: "#tailandia, #sunlight, #beauty, #eventos"
 ---

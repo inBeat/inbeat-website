@@ -1,11 +1,11 @@
 ---
-title: Top 10 Camping TikTok Influencers In 2023
+title: Top 10 Camping TikTok Influencers In 2024
 description: >-
-  Find top camping TikTok influencers in 2023. Most popular hashtags: #fyp #camping #foryou #foryoupage.
+  Find top camping TikTok influencers in 2024. Most popular hashtags: #fyp #camping #foryou #foryoupage.
 platform: TikTok
-hits: 818
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our database holds 818 TikTok influencers like this for you to collaborate.
+hits: 831
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 831 TikTok influencers like this for you to connect with.
 profiles:
   - username: "misipikidd"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.064782
     id: ckb0tagflire80j239kxk59y2
     verified: false
-    hashtags: "#christianboy, #fyp, #foryou, #jesus"
+    hashtags: "#god, #fyp, #christian, #mississippiboy"
   - username: "ginamichelle77"
     fullname: >-
       Gina
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.131013
     id: ck9fxqmpo7qlj0j78acgp74tj
     verified: false
-    hashtags: "#ginamichelle77, #kids, #joking, #forgetting"
+    hashtags: "#ginamichelle77, #joking, #kids, #tictac"
   - username: "pip.pleun"
     fullname: >-
       Pip&Pleun 🌸🌱

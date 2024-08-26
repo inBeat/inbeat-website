@@ -1,72 +1,120 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Izmir In 2023
+title: Top 10 Vegan Instagram Influencers In Izmir In 2024
 description: >-
-  Find top vegan Instagram influencers in Izmir in 2023. Most popular hashtags: #vegan #izmir #yummy #reels.
+  Find top vegan Instagram influencers in Izmir in 2024. Most popular hashtags: #izmir #vegan #istanbul #reels.
 platform: Instagram
-hits: 11
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 11 Instagram influencers like this in Izmir, Turkey for you to pitch.
+hits: 14
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 14 Instagram influencers like this in Izmir, Turkey for you to connect with.
 profiles:
-  - username: "dilgegokce"
+  - username: "figenyilmazwellness"
     fullname: >-
-      Dilge Gökçe
+      Figen Yılmaz
     bio: >-
-      🎈Food Engineer / Gıda Mühendisi 🌈Sugarfree / Glutenfree / Vegan / Raw Alternative Food Ideas #fitfinet
+      @figenyilmazacademy 🍀Mutlu Kadınlar,Mutlu Yarınlar 👩🏻‍🎓Akademisyen 🏃🏻‍♀️Spor Bil. ve Egz.Uzmanı 🏅Başkent Üniv. Yaşam Koçu ⚕️Tıbbi Beslenme Danışmanı
     location: "Turkey"
-    followers: 44997
-    engagement: 466
-    commentsToLikes: 0.067042
-    id: ckaorlem3nqv30i78vtfhpj1u
+    followers: 592505
+    engagement: 58
+    commentsToLikes: 0.047177
+    id: ck9hbc8ndg8tn0j786fyvhnqt
     verified: false
-    hashtags: "#veganfood, #diyet, #buzzfeast, #fittarifler"
-  - username: "tatli_tuzlu_eksi_lezzetler"
+    hashtags: "#incir, #antiaging, #istanbul, #kiloverme"
+  - username: "endamdan"
     fullname: >-
-      Rabiyanin Dünyasi
+      Endam Orçun
     bio: >-
-      İzmir ❣️ Berlin Saglik🤲🏻 Yemek🍽 Doğa🍃 Evim🏡
+      📍İzmir 💄Beauty | Makeup | Lifestyle 💌 endamorcun@gmail.com 👩🏻‍🔬PAU Chemical Engineering
     location: "Turkey"
-    followers: 42825
-    engagement: 343
-    commentsToLikes: 0.137534
-    id: ckf5qpou0a56t0j23fj4bfpuv
+    followers: 12558
+    engagement: 532
+    commentsToLikes: 0.127425
+    id: ck600ropde50v0i14a6pfhv9w
     verified: false
-    hashtags: "#foodblogger, #su, #as, #enfestarifler"
-  - username: "gidamuhendisianlatiyor"
+    hashtags: "#avonturkiye, #niacinamide, #avon, #gold"
+  - username: "koksalfndk"
     fullname: >-
-      Tuğba Parıltı
+      Köksal Fındık
     bio: >-
-      Sektörde Uzm.Gıda Müh. Sadece Bilimsel Gerçekler⛔️Yalın 6 Sigma Karakuşak📂K&G Takım Lideri 📩gidamuhendisianlatiyor@gmail.com Kuşadası-İzmir
+      Guitarist at @avcikoray #vegan 🌱
     location: "Turkey"
-    followers: 69774
-    engagement: 212
-    commentsToLikes: 0.032351
-    id: ck9hb8qvrftn60j78n652widv
+    followers: 16742
+    engagement: 732
+    commentsToLikes: 0.031664
+    id: ck5cgb4boohnp0i11t5epwmhf
     verified: false
-    hashtags: "#evyap, #sa, #nas, #kurabiyetarifleri"
-  - username: "tadinasilmis"
+    hashtags: "#australia, #amsterdam, #korayavci, #stage"
+  - username: "plaza.insani.mutfakta"
     fullname: >-
-      Tadı Nasılmış?⋆
+      Yemek Tarifi | Sedefnaz Yaşar
     bio: >-
-      Fidan dikmek için en iyi zaman on yıl önceydi, sonraki en iyi zaman ise şimdi. #good 🌱🇹🇷
+      "Çünkü zor olsa ben yapmam!" 🥘 Hızlı ve kolay tarifler 📚"Plaza İnsanı Mutfakta" kitabı yazarı 🏠 İzmir 💌 Marka ve atölye işbirlikleri için DM ve email
     location: "Turkey"
-    followers: 91573
-    engagement: 467
-    commentsToLikes: 0.149018
-    id: ckaoyf3ubh9bj0i78384iytwy
+    followers: 49137
+    engagement: 167
+    commentsToLikes: 0.068987
+    id: ckaoxndyxdzrr0i78t6l3rlf2
     verified: false
-    hashtags: "#foodies, #vegan, #chocolate, #love"
+    hashtags: "#hautescuisines, #mezze, #reklam, #sa"
+  - username: "tahaduymazz"
+    fullname: >-
+      Taha Duymaz
+    bio: >-
+      Reklam Ve iş birlikleri 👇 📩 kazimkaraoglu@kanguruyapim.com WhatsApp iletişim 0541 655 08 27
+    location: "Turkey"
+    followers: 1213359
+    engagement: 470
+    commentsToLikes: 0.026439
+    id: clnrbf6gpctom0j08t205n8uv
+    verified: false
+    hashtags: "#reelsvideo, #qatar, #turkey, #ankara"
+  - username: "safak_kural_official"
+    fullname: >-
+      Safak Kural
+    bio: >-
+      Multi Award Winner Lifestyle Influencer 20 + Years Retail Proffessionel ✈️ 25 + Countries Visual Merchandising Manager International Experience
+    location: "Turkey"
+    followers: 341745
+    engagement: 333
+    commentsToLikes: 0.058733
+    id: ck14hi428af7m0i190k8ya8ql
+    verified: true
+    hashtags: "#riyadhseason, #kuwaitcity, #kuwaitfashion, #ke"
+  - username: "dilarademirle"
+    fullname: >-
+      Dilara Demir
+    bio: >-
+      🌟Egzersiz, Pratik tarifler 📩 işbirlikleri, Online ders için dilarademir119@gmail.com
+    location: "Turkey"
+    followers: 230794
+    engagement: 116
+    commentsToLikes: 0.015566
+    id: ck8t09hz9raiu0j78lv4vxhe9
+    verified: false
+    hashtags: "#diyetyemekleri, #ara, #diyettarifler, #reels"
+  - username: "guzelgezdik"
+    fullname: >-
+      Altuğ Tekin
+    bio: >-
+      👨‍✈️ Drone Pilot 🧚‍♂️ Dji Mavic Pro II 🎮 FPV iflight Nazgul 🎥 Canon R 📺 Insta360 & Gopro 🌍 Turkey @fpvcinewhoop @techdroneleague
+    location: "Turkey"
+    followers: 79351
+    engagement: 87
+    commentsToLikes: 0.023092
+    id: ck14i294eda1e0i19shy1e92d
+    verified: false
+    hashtags: "#ig, #travelphotography, #artvin, #travel"
   - username: "chefaydinoglu__official"
     fullname: >-
-      Aydın Aydınoğlu
+      Aydın Aydınoğlu
     bio: >-
       Eğitim ve danışmanlık için DM den ulaşabilirsiniz.🎂🇹🇷 AU PROCHAİN...AUX SOUVAİN... FIRST NEVER FOLLOW
     location: "Turkey"
-    followers: 20382
-    engagement: 472
-    commentsToLikes: 0.026478
+    followers: 20349
+    engagement: 473
+    commentsToLikes: 0.026537
     id: ck14irx7ngww40i19ka7fo192
     verified: false
-    hashtags: "#vegansofinstagram, #sweetfood, #sweetdreams, #instachocolate"
+    hashtags: "#vizyonumuzbelli, #toptags, #sweettooth, #foodie"
   - username: "umaygur"
     fullname: >-
       Umay Gür
@@ -79,52 +127,4 @@ profiles:
     id: ck5q9yglcdn9p0i117b5qgx5h
     verified: false
     hashtags: "#kes, #healthy, #breakfast, #reels"
-  - username: "saglikli_fittt"
-    fullname: >-
-      Dilara Demir🍒🍓🥑
-    bio: >-
-      🌟Sağlıklı tarifler/Öğün önerileri 💕 🌟 Pilates❣️Glutensiz-Şekersiz Tarifler 📩Reklam, İşbirliği 👉 DM & dilarademir119@gmail.com
-    location: "Turkey"
-    followers: 90022
-    engagement: 254
-    commentsToLikes: 0.200912
-    id: ck8t09hz9raiu0j78lv4vxhe9
-    verified: false
-    hashtags: "#diyetyemekleri, #dinner, #motivasyon, #instalike"
-  - username: "loverupmakeup"
-    fullname: >-
-      🅰️SLI
-    bio: >-
-      BEAUTYBLOGGER💅 💯Influencer blogger💯 🌏🌏🌏🌏
-    location: "Turkey"
-    followers: 42546
-    engagement: 184
-    commentsToLikes: 0.227002
-    id: ck8t4vwei81xy0j7817jpmi9c
-    verified: false
-    hashtags: "#makeupblogger, #watsons, #loreal, #kozmetik"
-  - username: "burcusavasciofficial"
-    fullname: >-
-      Burcu Savaşçı
-    bio: >-
-      Yemek yapmaya,fotoğraflamaya aşık bir yemek tutkunu .Ankara da mekan gezer,yorumlar . Tanıtım ve davetler için DM&mail 💌 ✨İnfluencer ✨Blogger
-    location: "Turkey"
-    followers: 69773
-    engagement: 115
-    commentsToLikes: 0.303250
-    id: ck5cezhcgm0xf0i11xysp3pw1
-    verified: false
-    hashtags: "#karantina, #kahvalt, #foodlover, #foodblogger"
-  - username: "yiltaygunay"
-    fullname: >-
-      Avukat Yıltay Günay
-    bio: >-
-      Avukat - Nişantaşı Üniversitesi Öğretim Görevlisi - Haçiko Derneği Yönetim Kurulu Üyesi #avukat #hayvansever #tedx
-    location: "Turkey"
-    followers: 15764
-    engagement: 325
-    commentsToLikes: 0.046386
-    id: ckap0oxx8r8ou0i78sfcrw069
-    verified: false
-    hashtags: "#news, #karde, #fitness, #sea"
 ---

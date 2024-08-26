@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Indonesia In 2023
+title: Top 10 Music TikTok Influencers In Indonesia In 2024
 description: >-
-  Find top music TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #foryoupage #viral #foryou.
+  Find top music TikTok influencers in Indonesia in 2024. Most popular hashtags: #fyp #viral #foryoupage #foryou.
 platform: TikTok
 hits: 40
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat holds 40 TikTok influencers like this in Indonesia for you to work with.
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 40 TikTok influencers like this in Indonesia for you to contact.
 profiles:
   - username: "lacong_1001"
     fullname: >-

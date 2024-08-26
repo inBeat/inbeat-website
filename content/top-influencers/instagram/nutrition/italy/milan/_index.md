@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Milan In 2023
+title: Top 10 Nutrition Instagram Influencers In Milan In 2024
 description: >-
-  Find top nutrition Instagram influencers in Milan in 2023. Most popular hashtags: #nutrition #milano #healthy #dieta.
+  Find top nutrition Instagram influencers in Milan in 2024. Most popular hashtags: #milano #nutrition #alimentazionesana #dieta.
 platform: Instagram
 hits: 15
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 15 Instagram influencers like this in Milan, Italy for you to connect with.
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 15 Instagram influencers like this in Milan, Italy for you to collaborate.
 profiles:
   - username: "shaylinka"
     fullname: >-
@@ -55,42 +55,30 @@ profiles:
     id: ckap0fnqsq2fx0i78r73wi0iu
     verified: false
     hashtags: "#ambassador, #beautyroutine, #relax, #model"
-  - username: "soulfood_healthymind"
+  - username: "nutrizionista_alicecarnevale"
     fullname: >-
       Dott.ssa Alice Carnevale
     bio: >-
-      NUTRIZIONISTA🍎 *VISITO A MILANO/TORINO E VIA SKYPE👩🏻‍⚕️ Info visite:alicecarnevalenutri@gmail.com Info collab: Alicecarnevale.business@gmail.com
+      🍳 Dieta low carb e chetogenica 👩🏻‍⚕️ Dimagrimento e Fertilità 🏩 Milano, Roma, Padova e online 📋 Inizia un percorso con me 👇🏻
     location: "Italy"
-    followers: 46174
-    engagement: 425
-    commentsToLikes: 0.038203
+    followers: 245604
+    engagement: 225
+    commentsToLikes: 0.052320
     id: ck6tlnng36an80j71vt4449hg
     verified: false
-    hashtags: "#breakfast, #nutrition, #ricette, #ricettesane"
-  - username: "nutrizionista.carracillo"
-    fullname: >-
-      Dott.ssa Federica Carracillo
-    bio: >-
-      🎓Laurea in Dietistica e in Scienze della Nutrizione Umana 🏋️Diploma Personal Trainer A.I.T.P. Info ✉️federica.carracillo@hotmail.it Milano
-    location: "Italy"
-    followers: 5356
-    engagement: 326
-    commentsToLikes: 0.121826
-    id: ck9wf9g9hntmt0j78go055grc
-    verified: false
-    hashtags: "#spezie, #dietista, #healthyfood, #sugarfree"
+    hashtags: "#alimentazionesana, #lowcarb, #soulfoodhealthymind, #diet"
   - username: "dr.gloriarossetto"
     fullname: >-
-      Nutrizionista Dr. Rossetto
+      Gloria Rossetto|Nutrizionista
     bio: >-
-      Biologa 🥦“Mangiare sano è più semplice di quello che vogliono farci credere” 📍Milano - Treviso - Locate Triulzi 👩🏻‍💻 Consulenze online
+      Biologa specializzata in nutrizione Mangiare bene con serenità 🍝 Milano - Treviso - Locate di T. @cesmed_medica - Saronno @mad_saronno - Online
     location: "Italy"
-    followers: 17147
-    engagement: 358
-    commentsToLikes: 0.019625
+    followers: 21133
+    engagement: 183
+    commentsToLikes: 0.023951
     id: ckap9ukketp2m0i784tl2ujxm
     verified: false
-    hashtags: "#allenamento, #cibo, #saluteebenessere, #dieta"
+    hashtags: "#benessere, #nutrizionista, #allenamento, #cibo"
   - username: "nicolabrunetti.pt"
     fullname: >-
       𝑁𝑖𝑐𝑜𝑙𝑎 𝐵𝑟𝑢𝑛𝑒𝑡𝑡𝑖
@@ -127,4 +115,16 @@ profiles:
     id: ck15s4ds3b5ya0i19ykrtske3
     verified: false
     hashtags: "#flexibility, #italianfoodblogger, #mangione, #diarioalimentare"
+  - username: "debeautykk"
+    fullname: >-
+      debeautyk
+    bio: >-
+      ✨Segui @debeautyk per tanti consigli e curiosità 🌻ᴄᴏɴsɪɢʟɪ ᴅᴀʟʟᴀ 🅰 ᴀʟʟᴀ 🆉 ✍🏻 Richieste post scrivici in direct 🔔 Attiva le notifiche ai 🄿🄾🅂🅃💞
+    location: "Italy"
+    followers: 69985
+    engagement: 146
+    commentsToLikes: 0.014280
+    id: ck9wdu1lbh9i90j78hsp68e0f
+    verified: false
+    hashtags: "#nutrizionista, #cibosano, #fitness, #erboristeria"
 ---

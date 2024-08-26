@@ -1,24 +1,12 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Poland In 2023
+title: Top 10 Pole Dancers Instagram Influencers In Poland In 2024
 description: >-
-  Find top pole dancers Instagram influencers in Poland in 2023. Most popular hashtags: #poledance #poledancer #polishgirl #polskadziewczyna.
+  Find top pole dancers Instagram influencers in Poland in 2024. Most popular hashtags: #poledancer #poledance #polishgirl #flexibility.
 platform: Instagram
-hits: 35
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our database has 35 Instagram influencers like this in Poland for you to pitch.
+hits: 36
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 36 Instagram influencers like this in Poland for you to connect with.
 profiles:
-  - username: "weronikawoszczek"
-    fullname: >-
-      Weronika Woszczek
-    bio: >-
-      Poledancer 🦋 Webmaster @revactiv ambassador: „weronikawoszczek” for -15% 🌷 Violonist in @coveral__ 🎶 Damn2k20
-    location: "Poland"
-    followers: 8083
-    engagement: 2305
-    commentsToLikes: 0.019355
-    id: ck8t06v7kr06w0j787gvafbvw
-    verified: false
-    hashtags: "#polskiesylwetki, #poledancer, #poledance, #portrait"
   - username: "polinvvv"
     fullname: >-
       POLINA
@@ -45,16 +33,64 @@ profiles:
     hashtags: "#dance, #happygirl, #girl, #day"
   - username: "k.swiech"
     fullname: >-
-      Kasia Świech
+      Kasia Świech | Pole Dance
     bio: >-
-      @cmon_studio 👸🏼👑 Pole dancer 🦄 Aerial dance lover 💕
+      @cmon_studio WORKSHOPS📩
     location: "Poland"
-    followers: 49877
-    engagement: 846
-    commentsToLikes: 0.013479
+    followers: 108334
+    engagement: 525
+    commentsToLikes: 0.008351
     id: ck5c6lx4e5pnx0i114pwui356
     verified: false
-    hashtags: "#pdinspiration, #polepose, #poledancersofpoland, #poledancepolska"
+    hashtags: "#poletutorial, #poleflexibility, #flexibility, #poletraining"
+  - username: "flexypole.learoth"
+    fullname: >-
+      Lea Roth
+    bio: >-
+      POLEDANCE ARTIST🇩🇪 -6 x GERMAN Polesport CHAMPION🏆 -WORLD CHAMPION DOUBLE m/w2021🥇 -Pole Theatre Hungary2019 Art🥇
+    location: "Poland"
+    followers: 38842
+    engagement: 245
+    commentsToLikes: 0.025825
+    id: ckaorr0hjod5j0i78ulh84hnv
+    verified: false
+    hashtags: "#friday, #poledancer, #fitness, #doublepole"
+  - username: "kalinowskaiza"
+    fullname: >-
+      Iza Kalinowska
+    bio: >-
+      ☆ Kosmetolog Trener personalny Instruktor pole dance
+    location: "Poland"
+    followers: 28201
+    engagement: 325
+    commentsToLikes: 0.007881
+    id: ck8t6xzwsf1jb0j786t9v5qb6
+    verified: false
+    hashtags: "#morning, #selfie, #fitness, #legs"
+  - username: "jmudrowska"
+    fullname: >-
+      Joanna Mudrowska artist
+    bio: >-
+      • Artist • illustrator • ✉️ kontakt@joannamudrowska.pl ••• @jmudrowska.tattoo in @pracownia_tattelier
+    location: "Poland"
+    followers: 8106
+    engagement: 144
+    commentsToLikes: 0.037622
+    id: ck5hp80iaqwng0i11m46y4r0e
+    verified: false
+    hashtags: "#poster, #portrait, #artcards, #love"
+  - username: "kasiabielecka_"
+    fullname: >-
+      Katarzyna Bielecka-Milczuk
+    bio: >-
+      🥇European Pole Sport Champion 2017 🥇Polish Pole Sport Champion 2018 & 🥉’17 KASIA-BIELECKA.pl⤵️ @carpatree katarzyna.bielecka@opoczta.pl📥
+    location: "Poland"
+    followers: 478480
+    engagement: 35
+    commentsToLikes: 0.012761
+    id: ck8td7bph26xm0j784x0yepox
+    verified: false
+    hashtags: "#training, #flexiblegirl, #polelover, #together"
   - username: "kornelia.pawlicka"
     fullname: >-
       K O R N E L I A👸🏽
@@ -67,18 +103,6 @@ profiles:
     id: ckaowks6v9cy40i78k7f8nukj
     verified: false
     hashtags: "#poledance, #poledancer, #revactiv, #poleworkout"
-  - username: "lasenioritaa"
-    fullname: >-
-      Aga 💞
-    bio: >-
-      Mum 💜 Inspo 💖 Travel 💜 lifestyle 💖 fashion 💜 Cuisine 💖
-    location: "Poland"
-    followers: 30419
-    engagement: 100
-    commentsToLikes: 0.055827
-    id: ck8tdrgq54i8a0j78g0opushi
-    verified: false
-    hashtags: "#zima, #polesplit, #kuba, #beigelook"
   - username: "katarzyna_zimolzak"
     fullname: >-
       Kasia Zimolzak
@@ -103,28 +127,4 @@ profiles:
     id: ckaoypwh3ijz70i78v3282th8
     verified: false
     hashtags: "#poledance, #polishgirl, #rurka, #smile"
-  - username: "kaarero"
-    fullname: >-
-      ➡️️Karolina⬅️
-    bio: >-
-      Karolina Marszałek 👩🏼🌸 TFP📸 ✍🏼priv TikTok: marszalek.karolina #travel 🌴☀️💦 #gymlover 💪🏽 ✖️Szczecin✖️🇵🇱
-    location: "Poland"
-    followers: 12324
-    engagement: 546
-    commentsToLikes: 0.026507
-    id: ck5zphnvisoqo0i1488xmys5n
-    verified: false
-    hashtags: "#poletrick, #fitnessmotivation, #glamour, #poledance"
-  - username: "kalinowskaiza"
-    fullname: >-
-      Iza Kalinowska
-    bio: >-
-      ☆ Kosmetolog Trener personalny Instruktor pole dance ————————————— Kod zniżkowy do sklepu SFD „kalinowska10”
-    location: "Poland"
-    followers: 30555
-    engagement: 554
-    commentsToLikes: 0.012958
-    id: ck8t6xzwsf1jb0j786t9v5qb6
-    verified: false
-    hashtags: "#simple, #summer, #gymgirl, #gym"
 ---

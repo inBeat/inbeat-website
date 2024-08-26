@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Italy In 2023
+title: Top 10 Yoga Instagram Influencers In Italy In 2024
 description: >-
-  Find top yoga Instagram influencers in Italy in 2023. Most popular hashtags: #yogainspiration #yogagirl #yogapractice #yogaitalia.
+  Find top yoga Instagram influencers in Italy in 2024. Most popular hashtags: #yoga #mfw #yogapractice #yogaitalia.
 platform: Instagram
-hits: 209
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 209 Instagram influencers like this in Italy for you to work with.
+hits: 224
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 224 Instagram influencers like this in Italy for you to collaborate.
 profiles:
-  - username: "thelazytrotter"
+  - username: "lalindaa"
     fullname: >-
-      Cristina | 🌸🌙
+      Linda Morselli
     bio: >-
-      🏡Made in Salento🧿 🧘🏼‍♀️Viaggi + Yoga + Vita Olistica📿 👁LonelyPlanet + VanityFair + SkyTg24 ✌🏼 🙏🏻Convivo con la #fibromialgia 🌿 🕯Cliccami Tutta👇🏼
+      • Multifaceted Traveler 🌎🌿 • • Woman supporting Women • • Actress, Yoga Teacher, Model• 👇 @hittheroadbylalindaa
     location: "Italy"
-    followers: 26629
-    engagement: 582
-    commentsToLikes: 0.060895
-    id: ck5qdzfj0y0050i11dbxhqik1
-    verified: false
-    hashtags: "#adv, #cocou, #thetravelisfemale, #ad"
-  - username: "robertamigliarese"
+    followers: 224700
+    engagement: 855
+    commentsToLikes: 0.015595
+    id: ck0ubxf7kfho50i1930iuahzp
+    verified: true
+    hashtags: "#racetoinspire, #mfw, #tb, #isola"
+  - username: "yana_suiarko"
     fullname: >-
-      Roberta Migliarese
+      YANA YOGA FLEXY HANDSTAND🇺🇦🌍
     bio: >-
-      🔆YOGA🔆 Naturopath & Yoga Teacher Per corsi, info e appuntamenti scrivi a ⬇️ roberta.migliarese@gmail.com Milano 🇮🇹
+      BASED ITALY 🇮🇹 ONLINE LESSONS :HANDSTAND;BACK BEND STRETCHING. WORKSHOPS ;PRIVATE LESSONS; Master of sport in Gymnastic; Prof performer. Yoga teach
     location: "Italy"
-    followers: 39182
-    engagement: 335
-    commentsToLikes: 0.084048
-    id: ck5zqu73tvate0i14ddn7lqkg
+    followers: 145036
+    engagement: 1018
+    commentsToLikes: 0.062199
+    id: ck5cbx2dngbl80i115zo0mlqi
     verified: false
-    hashtags: "#yogaofsound, #yogaismytherapy, #feliciaofficialpage, #yogapositive"
-  - username: "carmen__yoga__"
+    hashtags: "#yogabalance, #armbalance, #yogastretch, #contortion"
+  - username: "jessdiemyoga"
     fullname: >-
-      Carmen — Yoga Teacher
+      Jessica Diễm
     bio: >-
-      🧘‍♀️Vinyasa | Hatha | Power Yoga 👉Online class in italian and in german Have some filre☀️, be unstoppable💪, be a force of nature🌳
+      Yoga 🧘🏼‍♀️ lover To buy whatever I use @jessdiem.shop Ambassador @olaben.official
     location: "Italy"
-    followers: 3103
-    engagement: 1108
-    commentsToLikes: 0.157870
-    id: ckap9sxwttj440i78lpk4u6ct
+    followers: 172105
+    engagement: 599
+    commentsToLikes: 0.037143
+    id: ck8svybnsd5i10j78tnkbz06h
     verified: false
-    hashtags: "#namaste, #yogaaddict, #forestyoga, #yogavibes"
-  - username: "vanessaciliberto"
+    hashtags: "#jessdiem, #travelwithjess, #venice, #14daysthuthach"
+  - username: "csnvlr"
     fullname: >-
-      Vanessa Ciliberto
+      cesanavaleria
     bio: >-
-      serendipity ☽ • pr & social media consultant • creative mind, travel- and yoga lover • italian girl, just moved from zh to zg
+      ActingAcademy @yoga__academy 🧘🏼‍♀️🫶🏻 The world is urs sunshine☀️Free your mind🌱 Written & Directed by Woody Allen..👁🌷 @fashionnova ambassador
     location: "Italy"
-    followers: 30819
-    engagement: 192
-    commentsToLikes: 0.071857
-    id: ck13818dje0cm0i19wc2t5wyc
+    followers: 26161
+    engagement: 390
+    commentsToLikes: 0.017595
+    id: ck5znf5j4ocec0i14i0jr2dl9
     verified: false
-    hashtags: "#scho, #steviaswiss, #christmascard, #cartierwinterhouse"
-  - username: "denisedellagiacoma"
-    fullname: >-
-      Denise Dellagiacoma
-    bio: >-
-      Yoga Teacher 🇮🇹 🜁 🜂 🜃 🜄 ~yoga~pilates~meditation~lifestyle “Yoga Academy” founder Podcast “Yoga con Denise” YouTube “Denise Dellagiacoma”
-    location: "Italy"
-    followers: 109299
-    engagement: 254
-    commentsToLikes: 0.030235
-    id: ck139w7yfnfdg0i19yanmpx78
-    verified: false
-    hashtags: "#trentino, #yogagirl, #mywinter, #yogaacademy"
-  - username: "marta__milani"
-    fullname: >-
-      Marta | a green life 🌿
-    bio: >-
-      [she/her] studentessa di medicina che ama le piante e le cose semplici 💫 | vegan yoga e ricette vegane 🌱
-    location: "Italy"
-    followers: 41058
-    engagement: 238
-    commentsToLikes: 0.043776
-    id: ck0u9oucsaf5q0i19o25nc1cc
-    verified: false
-    hashtags: "#formaggiovegano, #ad, #dolcivegani, #dolci"
-  - username: "elenadicioccio"
-    fullname: >-
-      E L E N A   D I  C I O C C I O
-    bio: >-
-      💛Actress🧡Singer❤️Writer💜Yoga lover💙 💚Free Female Emotional Intelligence 🖤CONTACT @tt_agencysrl @serena.quattrocchi
-    location: "Italy"
-    followers: 26122
-    engagement: 261
-    commentsToLikes: 0.042941
-    id: ck0vxaa09xxt60i19sng8jyvw
-    verified: false
-    hashtags: "#positiveme, #unica, #positiva, #uniqueness"
-  - username: "claudia__casanova"
-    fullname: >-
-      Claudia Casanova
-    bio: >-
-      ❤️ Pratica con me su @yome_digital 🤸🏽‍♂️ Creator of Nusa Mat 🧘🏽‍♀️Power Yoga teacher 🌟Biomed engineer 📍Milan #claudia4yoga #nusamat
-    location: "Italy"
-    followers: 76347
-    engagement: 188
-    commentsToLikes: 0.029616
-    id: ck5hph094rcft0i11qhz6jnrd
-    verified: false
-    hashtags: "#weekend, #praticayoga, #verticale, #yoga"
+    hashtags: "#fashion, #aesthetic, #fashionnova, #spirituality"
   - username: "nandaisaia"
     fullname: >-
       Nanda
     bio: >-
-      Certified Ballet & Yoga Instructor 𝘿𝙢 𝙛𝙤𝙧 𝙤𝙣𝙡𝙞𝙣𝙚 𝙮𝙤𝙜𝙖 𝙡𝙚𝙨𝙨𝙤𝙣𝙨 🤸🏼‍♀️ Select ~ London| Women ~ Milano🦋 greek Train with me online wherever you are! ⤓
+      in nyc 🦋 Marilyn nyc | Select london | Women milan Yoga Teacher
     location: "Italy"
-    followers: 5897
-    engagement: 858
-    commentsToLikes: 0.031307
+    followers: 12685
+    engagement: 346
+    commentsToLikes: 0.036808
     id: ck5btt66qgk5u0i11wn279f32
     verified: false
-    hashtags: "#emporioarmani, #pangaiaactivewear, #pangaia, #eajewellery"
-  - username: "vanesssavilla"
+    hashtags: "#pangaiaactivewear, #editorial, #campaign, #greece"
+  - username: "bagnoli_francesca"
     fullname: >-
-      Vanessa | Gentle Fighter 🦋
+      Francesca Bagnoli
     bio: >-
-      ✨Karate Champion | Yoga & Meditation Teacher🙏🏻 @fightgently founder 🧝🏻‍♀️ @nikewomen ambassador 🪐 @goldensabrepr family🌋
+      ‣ Pro kiteboarder • Yoga&fitness lover 🇮🇹🌻 ‣ Vice Freestyle World Champion18 ‣ 3rd World tour 17 ‣ 6xITAChamp For collab. 📩 team@weareeffe.co.uk
     location: "Italy"
-    followers: 52404
-    engagement: 161
-    commentsToLikes: 0.038560
-    id: ck5c8s707a4kq0i11uzwhutg2
+    followers: 20134
+    engagement: 308
+    commentsToLikes: 0.021438
+    id: ck6tp161eh97a0j71n0lzw0nl
+    verified: false
+    hashtags: "#kiteboarding, #gopro, #isoladelba, #lagodigarda"
+  - username: "silvizz"
+    fullname: >-
+      Silvia Scopelliti | Yoga First e Meditazione
+    bio: >-
+      🜃 Migliora la tua vita a 360° ⦿ Yoga, crescita personale e motivazione ⇣ Dalla finanza allo yoga 🇮🇹🇨🇭 Scopri come prenderti più cura di te
+    location: "Italy"
+    followers: 170611
+    engagement: 304
+    commentsToLikes: 0.048869
+    id: clqshegbs0dip0k088ne6f5qm
+    verified: false
+    hashtags: "#abitudini, #maldischiena, #volersibene, #consigliutili"
+  - username: "chiarabaschetti"
+    fullname: >-
+      Chiara Baschetti
+    bio: >-
+      📩 Cinema @agenziamovimentoinarte 📣 Moda Adv & Digital @womendirect_milano ☮️🇵🇸Free Palestine ❤️Amore ⚖️ Uguaglianza 🍀 Sostenibilità 🧘🏻‍♀️ Yoga
+    location: "Italy"
+    followers: 123040
+    engagement: 277
+    commentsToLikes: 0.032820
+    id: ck5ck9v3owfpb0i116bnwfarz
     verified: true
-    hashtags: "#yogaitalia, #meditation, #meditazione, #yoga"
+    hashtags: "#adv, #sardegnanelcuore, #sardegna, #theuniversehasyourback"
+  - username: "mariannemirage"
+    fullname: >-
+      Marianne Mirage 🦋
+    bio: >-
+      Songwriter, Singer🎙 Mother of @casamirage___ 🛖 Yoga teacher to Stay Calm @yoga_mirage 🧘🏻‍♀️
+    location: "Italy"
+    followers: 38809
+    engagement: 277
+    commentsToLikes: 0.032850
+    id: ck15tfrqphv3u0i19l7ehb1ee
+    verified: true
+    hashtags: "#backtothecityfestival, #free, #festivalgb, #sostenibilit"
+  - username: "robertamigliarese"
+    fullname: >-
+      Roberta Migliarese l Yoga e Naturopatia
+    bio: >-
+      • Impara a prenderti cura di te • Esplora la sinergia tra Yoga e Naturopatia • Naturopata, Insegnante Yoga e Personal Trainer • Consulenze e Lezioni
+    location: "Italy"
+    followers: 43752
+    engagement: 267
+    commentsToLikes: 0.053190
+    id: ck5zqu73tvate0i14ddn7lqkg
+    verified: false
+    hashtags: "#yogapositive, #yogapractice, #feedoptimism, #yogalifestyle"
 ---

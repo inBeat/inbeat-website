@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Istanbul In 2023
+title: Top 10 TikTok Influencers In Istanbul In 2024
 description: >-
-  Find top TikTok influencers in Istanbul in 2023. Most popular hashtags: #ke #tiktok #dahafazlasen #istanbul.
+  Find top TikTok influencers in Istanbul in 2024. Most popular hashtags: #ke #tiktok #dahafazlasen #istanbul.
 platform: TikTok
 hits: 450
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat has 450 TikTok influencers like this in Istanbul, Turkey for you to collaborate.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 450 TikTok influencers like this in Istanbul, Turkey for you to pitch.
 profiles:
   - username: "ekremnr"
     fullname: >-

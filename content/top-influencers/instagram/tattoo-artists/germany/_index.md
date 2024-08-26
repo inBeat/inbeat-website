@@ -1,12 +1,120 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Germany In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Germany In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Germany in 2023. Most popular hashtags: #tattoo #sleevetattoo #tattooinspiration.
+  Find top tattoo-artists Instagram influencers in Germany in 2024. Most popular hashtags: #tattoo #tattooartist #sleevetattoo.
 platform: Instagram
-hits: 199
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat holds 199 Instagram influencers like this in Germany for you to pitch.
+hits: 244
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 244 Instagram influencers like this in Germany for you to pitch.
 profiles:
+  - username: "frecher_franz"
+    fullname: >-
+      
+    bio: >-
+      🖌️ TATTOOARTIST 🇩🇪 FRANKFURT 💸TATTOOACADEMY 🔽TERMINANFRAGEN⬇️
+    location: "Germany"
+    followers: 21730
+    engagement: 514
+    commentsToLikes: 0.026912
+    id: ck5ce7o86khwz0i11b3oe16zx
+    verified: false
+    hashtags: "#tattooacademy, #harleydavidson, #blackngrey, #texas"
+  - username: "lordenstein_art"
+    fullname: >-
+      maret brotkrumen
+    bio: >-
+      🌙 tattoo artist from Berlin 🌿 books closed 🌷 soon on the road: Hamburg, Stuttgart, Zürich, Dublin ✨ sponsored by @pepax.official 🪴 stay updated:
+    location: "Germany"
+    followers: 70137
+    engagement: 740
+    commentsToLikes: 0.003635
+    id: ck134pn8rxld70i198ma4izbe
+    verified: false
+    hashtags: "#thightattoo, #illustrativetattoo, #flowertattoo, #tattoosnob"
+  - username: "samantha_abdul"
+    fullname: >-
+      Samantha Abdul
+    bio: >-
+      Tattoo Artist | @x.am_tattoo Fashion & Beauty Imprint:
+    location: "Germany"
+    followers: 141533
+    engagement: 289
+    commentsToLikes: 0.055878
+    id: ckaov78ad3d1i0i784xenirup
+    verified: true
+    hashtags: "#coachella2023, #tattooartist, #tattooreels, #ootd"
+  - username: "sandradaukshtatattoo"
+    fullname: >-
+      Sandra Daukshta
+    bio: >-
+      Tattoo artist from Latvia, Riga 💙
+    location: "Germany"
+    followers: 221627
+    engagement: 224
+    commentsToLikes: 0.016724
+    id: ck0ubz52mfplk0i195u8bbuks
+    verified: false
+    hashtags: "#portraittattoo, #inkedmag, #sandradaukshta, #sleevetattoo"
+  - username: "samanthaabdul"
+    fullname: >-
+      Samantha Abdul
+    bio: >-
+      my son says I‘m cool - but he is cooler ootd‘s + make up + anything I love tattoo artist @x.am_tattoo
+    location: "Germany"
+    followers: 134834
+    engagement: 197
+    commentsToLikes: 0.017280
+    id: clny2tcmc1d3b0j081vyeqsq4
+    verified: false
+    hashtags: "#dragontattoo, #luxuryforprincess, #yslmascara, #hairinspo"
+  - username: "michaeltaguet"
+    fullname: >-
+      Michael Taguet
+    bio: >-
+      Tattoo artist France 🇫🇷 Rhone Alpes 📩 michaeltaguet@gmail.com
+    location: "Germany"
+    followers: 242906
+    engagement: 185
+    commentsToLikes: 0.024908
+    id: ck137jdvabu4u0i19jlab5kvg
+    verified: false
+    hashtags: "#realistictattoo, #tattoo, #inked, #ink"
+  - username: "itsmemogli"
+    fullname: >-
+      M O G L I
+    bio: >-
+      • tattoo artist - DM @mogl.ink • business requests - mogli@ins.gg
+    location: "Germany"
+    followers: 52412
+    engagement: 98
+    commentsToLikes: 0.005384
+    id: ck5q7vyw33b0c0i11q2sztnxe
+    verified: false
+    hashtags: "#tattooartist, #berlingraffiti, #graffitiart, #graffitiartist"
+  - username: "xoxotattoo"
+    fullname: >-
+      Melina Wendlandt
+    bio: >-
+      tattoo artist and founder @vadersdye hamburg - berlin - los angeles - new york BOOKINGS OPEN via link
+    location: "Germany"
+    followers: 240372
+    engagement: 48
+    commentsToLikes: 0.008861
+    id: ck55q94izcc1n0i114j57np68
+    verified: false
+    hashtags: ""
+  - username: "marcoklose_official"
+    fullname: >-
+      Marco Klose
+    bio: >-
+      Gewinner der TV-Show Pain and Fame 📺 Tattooartist Sponsored by: Intenze, Cheyenne H2Ocean Waldstraße 40 64297 Pfungstadt ☎️06157/9139243
+    location: "Germany"
+    followers: 25495
+    engagement: 258
+    commentsToLikes: 0.034739
+    id: ck5hnfvjfnppn0i11k2thx2ja
+    verified: false
+    hashtags: "#colourtattoo, #portraittattoo, #tattooing, #intenzeink"
   - username: "unclea"
     fullname: >-
       Uncle Allan
@@ -19,112 +127,4 @@ profiles:
     id: ck134pkj7xkzc0i19zcpjpszz
     verified: false
     hashtags: "#berlin, #berlintattoo, #germantattooers, #tattoolife"
-  - username: "marcoklose_official"
-    fullname: >-
-      Marco Klose
-    bio: >-
-      Gewinner der TV-Show Pain and Fame 📺 Tattooartist Sponsored by: Intenze, Cheyenne H2Ocean Waldstraße 40 64297 Pfungstadt ☎️06157/9139243
-    location: "Germany"
-    followers: 25495
-    engagement: 258
-    commentsToLikes: 0.034739
-    id: ck5hnfvjfnppn0i11k2thx2ja
-    verified: false
-    hashtags: "#pfungstadt, #colourtattoo, #portraittattoo, #tattooing"
-  - username: "itsmemogli"
-    fullname: >-
-      M O G L I
-    bio: >-
-      Twitch streamer 🎥 • TATTOO artist @moglitattoo • DREAD maker✨ • fashion designer & tailor ✂️ 📩 𝐈𝐭𝐬𝐦𝐞𝐦𝐨𝐠𝐥𝐢@𝐢𝐧𝐬.𝐠𝐠
-    location: "Germany"
-    followers: 34425
-    engagement: 949
-    commentsToLikes: 0.010558
-    id: ck5q7vyw33b0c0i11q2sztnxe
-    verified: false
-    hashtags: ""
-  - username: "youngbloodcstm"
-    fullname: >-
-      YOUNGBLOOD ❖ TATTOO
-    bio: >-
-      Tattoo Artist | Owner @hideoutatelier Leipzig appointments via DM or hello@hideoutatelier.com . BOOKS CLOSED . personal stuff @ybexplorer
-    location: "Germany"
-    followers: 28929
-    engagement: 470
-    commentsToLikes: 0.005789
-    id: ckaovpx175n6g0i7857k4x1mu
-    verified: false
-    hashtags: "#germantattooers, #tttism, #leipzig, #floral"
-  - username: "mischa.tattoo"
-    fullname: >-
-      mischa • tattoo
-    bio: >-
-      🖤 TATTOO ARTIST ▪️ Shop in Stuttgart: @bagatelle.tattoo ▪️ Blackwork, Floral, Mandala, Fineline ▪️ +49-176-24843248 ◾️ 𝗧𝗘𝗥𝗠𝗜𝗡𝗘: 𝗮𝗻𝗿𝘂𝗳𝗲𝗻 📞👇🏻
-    location: "Germany"
-    followers: 13708
-    engagement: 513
-    commentsToLikes: 0.021054
-    id: ck5zze36hbkay0i14wsl0lel1
-    verified: false
-    hashtags: "#tattooinspiration, #tattooing, #tattoo, #flowertattoo"
-  - username: "bea_fu"
-    fullname: >-
-      Bea Fu
-    bio: >-
-      Alternative Model | Nerd | Tattoo Artist | Witch🔮 | 29 | Nürnberg DM for cooperation 🖤🌹 Twitch: xbeasmeralda
-    location: "Germany"
-    followers: 39681
-    engagement: 299
-    commentsToLikes: 0.007776
-    id: ck0u9hwpg9x2a0i1947ma6wry
-    verified: false
-    hashtags: "#happy, #love, #metal, #darkfashion"
-  - username: "andrey_kolbasin"
-    fullname: >-
-      Andrey  Kolbasin
-    bio: >-
-      Tattoo artist Tattoo teacher Art and painting 📍Russia, St-Petersburg;Moscow ✈️Austria, Germany, Switzerland
-    location: "Germany"
-    followers: 66221
-    engagement: 80
-    commentsToLikes: 0.019742
-    id: ck6ude60mkku50j71klzbd715
-    verified: false
-    hashtags: "#coveruptattoo, #tattoo, #tattooartist, #tattoos"
-  - username: "dimo_boychev_art"
-    fullname: >-
-      Dimo Boychev Art
-    bio: >-
-      Bulgarian🇧🇬Tattoo Artist🇧🇬Based in Germany 🇩🇪Owner and artist @black_white_tattoo_karlsruhe
-    location: "Germany"
-    followers: 19006
-    engagement: 135
-    commentsToLikes: 0.091486
-    id: ck55lxygx2psn0i116l2xt6p1
-    verified: false
-    hashtags: "#tattoos, #ink, #tattooideas, #inked"
-  - username: "vivvy.ink"
-    fullname: >-
-      Vivvy | Tattoo Artist
-    bio: >-
-      Hamburg, Germany Tattoo artist @schwarzodergold Corgi mom @dubbythefluffycorgi 🎮 Twitch/YouTube: vivvyink 💌 for appointments: vivvy.ink@gmail.com
-    location: "Germany"
-    followers: 7298
-    engagement: 446
-    commentsToLikes: 0.031944
-    id: ck8t3mhjd3qe80j7855r85r8b
-    verified: false
-    hashtags: ""
-  - username: "blvckacidkvlt"
-    fullname: >-
-      BLVCK ACID KVLT
-    bio: >-
-      Temple of Khazra Tattoo artist @akaberlin DM for contact #darkartists#blackwork#occultart
-    location: "Germany"
-    followers: 18507
-    engagement: 567
-    commentsToLikes: 0.018721
-    id: ck5hm8z4tlips0i11tngvb1ou
-    verified: false
-    hashtags: ""
 ---

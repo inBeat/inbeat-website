@@ -1,12 +1,36 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Italy In 2023
+title: Top 10 Comedians Instagram Influencers In Italy In 2024
 description: >-
-  Find top comedians Instagram influencers in Italy in 2023. Most popular hashtags: #teatro #repost #comedians.
+  Find top comedians Instagram influencers in Italy in 2024. Most popular hashtags: #comedy #repost #teatro.
 platform: Instagram
 hits: 21
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 21 Instagram influencers like this in Italy for you to connect with.
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 21 Instagram influencers like this in Italy for you to pitch.
 profiles:
+  - username: "amedeoprecious"
+    fullname: >-
+      Amedeo Preziosi
+    bio: >-
+      Cͨrͬeͤaͣtͭoͦrͬ🎬Cͨoͦmͫeͤdͩiͥaͣn̾🎭S̾iͥn̾g̾eͤrͬ🎤 music: @amedeopreciousmusic Business/info: info@247production.it
+    location: "Italy"
+    followers: 1543854
+    engagement: 514
+    commentsToLikes: 0.001941
+    id: ck0tu1emc57hm0i19w6q643c7
+    verified: true
+    hashtags: ""
+  - username: "paola_minaccioni"
+    fullname: >-
+      paola minaccioni
+    bio: >-
+      ◾Actress ◾ Writer ◾ Stand up Comedian Profilo Ufficiale #cinema #standup #comedy
+    location: "Italy"
+    followers: 79620
+    engagement: 133
+    commentsToLikes: 0.040390
+    id: ck6u53iyb7dyx0j71dnff8rdi
+    verified: false
+    hashtags: "#cultureroma, #onstage, #spettatoriunici, #cultura"
   - username: "landonromano"
     fullname: >-
       Landon Romano
@@ -55,18 +79,6 @@ profiles:
     id: ck5hs75e4w3n80i11846lvpow
     verified: true
     hashtags: "#elbienyelbarenadn, #tbt, #comedia, #apruebo"
-  - username: "paola_minaccioni"
-    fullname: >-
-      paola minaccioni
-    bio: >-
-      ◾Actress ◾ Writer ◾ Stand up Comedian Profilo Ufficiale #cinema #standup #comedy
-    location: "Italy"
-    followers: 35786
-    engagement: 295
-    commentsToLikes: 0.045862
-    id: ck6u53iyb7dyx0j71dnff8rdi
-    verified: false
-    hashtags: "#repost, #poesia, #teatro, #cinema"
   - username: "joederosacomedy"
     fullname: >-
       Joe DeRosa
@@ -79,18 +91,6 @@ profiles:
     id: ck6u1nje2mswd0j71rqg3qkri
     verified: false
     hashtags: "#nationalhero, #quarantine, #comedy, #newyork"
-  - username: "bes_kallaku"
-    fullname: >-
-      Bes Kallaku
-    bio: >-
-      Albanian Actor, Comedian,Singer 📣PREMIERE : FILMI FALCO NE YOUTUBE 👇🏼
-    location: "Italy"
-    followers: 1257537
-    engagement: 222
-    commentsToLikes: 0.004943
-    id: ck6tjwu4m3ktz0j71jx4ruh7d
-    verified: true
-    hashtags: "#gjirokastra, #argjiro, #dezinfektim, #mushkonja"
   - username: "pietrosparacino_official"
     fullname: >-
       Pietro Sparacino
@@ -103,6 +103,18 @@ profiles:
     id: ck8t9sblxp6860j78c5smsyot
     verified: false
     hashtags: "#standup, #liveshow, #videochiamata, #comedian"
+  - username: "pierpaolopretelliofficial"
+    fullname: >-
+      Pierpaolo Pretelli
+    bio: >-
+      Cerco un centro di gravità permanente
+    location: "Italy"
+    followers: 671127
+    engagement: 332
+    commentsToLikes: 0.096832
+    id: ckf5qj8lu9jdc0j23ipjodw58
+    verified: true
+    hashtags: "#kiprun, #comedian, #sanremo2024, #disneyplus"
   - username: "jonathancanini"
     fullname: >-
       Jonathan Canini
@@ -115,16 +127,4 @@ profiles:
     id: ck8t90se7mje90j784wldsamz
     verified: false
     hashtags: "#comico, #cappuccettorozzo, #ironia, #toscanivs"
-  - username: "gianlu.impastato"
-    fullname: >-
-      Gianluca Impastato
-    bio: >-
-      Il cabaret è come il porno : dal vivo è tutta un’altra cosa .
-    location: "Italy"
-    followers: 154531
-    engagement: 201
-    commentsToLikes: 0.025654
-    id: ck5cfzc53nvjf0i11cv0giaat
-    verified: true
-    hashtags: "#dachsund, #merrychristmas, #comedians, #comedian"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Malaysia In 2023
+title: Top 10 Models TikTok Influencers In Malaysia In 2024
 description: >-
-  Find top models TikTok influencers in Malaysia in 2023. Most popular hashtags: #fyp #duet #foryou #malaysia.
+  Find top models TikTok influencers in Malaysia in 2024. Most popular hashtags: #fyp #duet #foryou #malaysia.
 platform: TikTok
 hits: 13
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our database has 13 TikTok influencers like this in Malaysia for you to connect with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 13 TikTok influencers like this in Malaysia for you to work with.
 profiles:
   - username: "missnaziakhn.786"
     fullname: >-
@@ -83,14 +83,14 @@ profiles:
     fullname: >-
       🤎outfit inspo/fashion🤎
     bio: >-
-      follow my insta ^^ 💌 @outfitideastiktok@gmail.com
+      🤎🤎
     location: "Malaysia"
-    followers: 37900
-    engagement: 1413
-    commentsToLikes: 0.010869
+    followers: 37700
+    engagement: 1432
+    commentsToLikes: 0.011629
     id: ck9gl3eetmcvn0j78hxo4oyxx
     verified: false
-    hashtags: "#fashiontiktok, #outiftinspo, #ootd, #brownoutfits"
+    hashtags: "#fashion, #brandymelville, #tiktokfashion, #viral"
   - username: "vishnu_appzz"
     fullname: >-
       Vishnu Appzz

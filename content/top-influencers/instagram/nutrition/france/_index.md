@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In France In 2023
+title: Top 10 Nutrition Instagram Influencers In France In 2024
 description: >-
-  Find top nutrition Instagram influencers in France in 2023. Most popular hashtags: #fitfrenchies #fitnessmotivation #nutrition #gymmotivation.
+  Find top nutrition Instagram influencers in France in 2024. Most popular hashtags: #trail #trailrunning #running.
 platform: Instagram
-hits: 334
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database has 334 Instagram influencers like this in France for you to connect with.
+hits: 354
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 354 Instagram influencers like this in France for you to work with.
 profiles:
-  - username: "karenmattar"
+  - username: "saschafitness"
     fullname: >-
-      Karen Mattar  كارن مطر
+      Sascha Barboza
     bio: >-
-      I empower you to be the BEST version of yourself. Personalized training & nutrition via MotivNation or DM for 1:1 online coaching. Athlete womensBest
+      Fitness-Nutrition Coach CEO- Sascha Fitness Corp Book author Mamá I don’t do paid sponsorships @saschafitnessmarket 🛒⬇️Shop
     location: "France"
-    followers: 156212
-    engagement: 151
-    commentsToLikes: 0.017906
-    id: ck14lk6eev3mt0i19ux5okwka
+    followers: 5715742
+    engagement: 466
+    commentsToLikes: 0.007142
+    id: ck13c63ygyssj0i19zjq0l5d2
     verified: true
-    hashtags: "#vacation, #health, #flexibility, #yoga"
-  - username: "tiboinshape"
+    hashtags: "#ootd, #wimbledon, #libertadparavenezuela, #turksandcaicos"
+  - username: "baz_trailrunner"
     fullname: >-
-      Tiboinshape
+      🅱🅰🆂🅸🅻🅴◾Outdoor Lover 🏞️🏃‍♂️🚴🏔️
     bio: >-
-      🇫🇷 #TeamShape 👕T-shirt & matériel sport @teamshape 🥞 Complément alimentaire @inshapenutrition 📱Application Sport-Nutrition @shapeyou ⤵️
+      🤷‍♂️𝐏𝐥𝐮𝐭ø𝐭 𝐄𝐧𝐟𝐥𝐮𝐫𝐞 𝐞𝐧 𝐒𝐮𝐞𝐮𝐫 𝐪𝐮𝐞 𝐈𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞𝐮𝐫 🏃‍♂️Trail Ultratrail / Anti Route 🤣 📍Annecy 📸Parfois Taupe Modèle 👨‍💻 @baouw.organic.nutrition
     location: "France"
-    followers: 5052934
-    engagement: 135
-    commentsToLikes: 0.011487
-    id: ck139riftms8u0i192lg4qfjo
-    verified: true
-    hashtags: "#teamshape"
-  - username: "mitenkakaiya"
-    fullname: >-
-      Miten Says Fitness (MSF)
-    bio: >-
-      Come learn Everyday Nutrition and Fitness with me.✨ Coached 8000+ Clients ❌Boring Diets! ❌Burnouts! #MSF #MitenSays Early Bird Offer ⬇️
-    location: "France"
-    followers: 60354
-    engagement: 64
-    commentsToLikes: 0.016652
-    id: ck602nw17i7el0i14hh6g6euy
+    followers: 6922
+    engagement: 738
+    commentsToLikes: 0.081923
+    id: clfqt8gvap1p70j08v61ys96p
     verified: false
-    hashtags: "#msf, #mitensays, #mitensaysfitness, #miten"
-  - username: "aromazone_officiel"
+    hashtags: "#meetyourextraordinary, #ccc, #mountainviews, #tignes"
+  - username: "_fit.stys"
     fullname: >-
-      AROMA-ZONE
+      Lystus Ebosele
     bio: >-
-      🌿 Bien-être : Huiles essentielles & nutrition 🌿 Beauté & Maison : produits 100% naturels Des producteurs jusqu’à vous 🇫🇷 Vaucluse, France
+      🇮🇪| 23 | 84+ Jr. World Champ 2023🏅 @gymshark Athlete || Code “LYSTUS” @myprotein Nutrition || Code “LYSTUS” @avancusofficial Athlete || Code “LYSTUS”
     location: "France"
-    followers: 360328
-    engagement: 46
-    commentsToLikes: 0.074056
-    id: ck9h9mlzl92v40j78pybi9ygh
+    followers: 63570
+    engagement: 1085
+    commentsToLikes: 0.028814
+    id: cl5fifhte4vxz0i23o8b41usu
     verified: false
-    hashtags: "#diy, #aromazone, #huilesessentielles, #aromatherapie"
-  - username: "kilianhagen"
+    hashtags: "#strongwoman, #powerlifting, #powerlifter, #bodybuilding"
+  - username: "majdoulinsr"
     fullname: >-
-      Kilian Hagen
+      Majdouline Nasrollah
     bio: >-
-      YT: Kilian Hagen (115K abonnés) Diététicien-nutritionniste diplômé et coach sportif Suivis 100% personnalisés Mes compléments @nutrimuscle Team SP
+      NUTRITION SPORTIVE & COACH D’ENTRAÎNEMENT FONCTIONNEL 🇲🇦@team.happybodies 🍑 @happybody.officiel AMBASSADOR @myproteinfr code Majdou👇🏼DM for collabs
     location: "France"
-    followers: 19501
-    engagement: 879
-    commentsToLikes: 0.041777
-    id: ck6u6mupkgj4w0j71p47jkofg
+    followers: 201301
+    engagement: 436
+    commentsToLikes: 0.012328
+    id: ck6u6kgl5g43p0j71w1wbla9g
     verified: false
-    hashtags: "#teamhagen, #christmas, #xmas"
-  - username: "priscilla.toussaint"
+    hashtags: "#workout, #majdoulinsr, #fitness, #fitnessmaroc"
+  - username: "amine___mamouu"
     fullname: >-
-      Priscilla
+      Mamou 🫀
     bio: >-
-      Perte -27 kg 🍰Recette healthy @team.nutrition.france : priss10 ♥️Musculation & Lifestyle 💑 @jrmy_fat_killer 💵 @liam_conceptstore : PRISCILLA10 (-10%)
+      ➡️Memes / reels ➡️certified fitness trainer & planning nutrition ➡️personal & online trainer Contact me for collaboration 🤙💸
     location: "France"
-    followers: 7961
-    engagement: 941
-    commentsToLikes: 0.123530
-    id: ck8tcqnxm0b2b0j783md2b4au
+    followers: 202044
+    engagement: 404
+    commentsToLikes: 0.012167
+    id: ckap0d73tpu2u0i78x4qvd2x6
     verified: false
-    hashtags: "#fitfood, #fitnessmodel, #fitnessgirl, #petitdejeuner"
-  - username: "val_fitmood"
+    hashtags: "#tiktokchallenge, #tiktokgirls, #vu, #tiktokdance"
+  - username: "hillary_gerardi"
     fullname: >-
-      Valérie
+      Hillary Gerardi
     bio: >-
-      Mariée 3enfants Bordeaux/France 👉 Fitness 🏋️‍♀️ Running/Cardio 🏃‍♀️ Nature 🍃 Nutrition 🥗 Musique 🎶 Bienveillance 💜, Only good feelings please !
+      🇺🇸🇫🇷 • @blackdiamond • @scarpaspa • @smartwool_europe • @baouw.organic.nutrition • @bigmountainbrewco • @everide.app • @plum_officiel
     location: "France"
-    followers: 13274
-    engagement: 713
-    commentsToLikes: 0.124730
-    id: ck8t60cnbbt3t0j78ng1qwgmk
+    followers: 30620
+    engagement: 1855
+    commentsToLikes: 0.014689
+    id: ck0tyx4scofwm0i19o1v1i093
     verified: false
-    hashtags: "#sport, #musculation, #naturelovers, #positivevibes"
-  - username: "leo.cressant"
+    hashtags: "#ribelle, #chamonix, #marathondumontblanc, #betrailready"
+  - username: "nathalieaouad"
     fullname: >-
-      Léo Cressant
+      Nathalie Aouad
     bio: >-
-      🌎 Photography | Model 📍 France 🎗 Athlete @bodyandfit_fr | LEO10 👇🏻 Certified Fitness & Nutrition Coach
+      Dietitian with MSc Nutrition 🔜 PhD @audencia DM for Online Nutrition & PT 🎥TV Anchor 🌍17 countries 📍Bei | Paris ‘nat10’ @sohaticare @looliacloset
     location: "France"
-    followers: 190347
-    engagement: 445
-    commentsToLikes: 0.024026
-    id: ck0ttkiiu34si0i1920lxgbsx
+    followers: 76576
+    engagement: 419
+    commentsToLikes: 0.042152
+    id: ck0tvoobnc6d30i1939b7dmes
     verified: false
-    hashtags: "#mensphysique, #ibizastyle, #boattrip, #boatlife"
-  - username: "kailacw_"
+    hashtags: "#nathalieaouad, #dubai, #travelblogger, #beautifuldestinations"
+  - username: "lea.nicoise"
     fullname: >-
-      ⓚⓐⓘⓛⓐ ⓒⓛⓐⓨⓟⓞⓞⓛ-ⓦⓞⓞⓓ 🌻
+      Léa Duhet ✨
     bio: >-
-      CrossFit Addict🏋️‍♀️ B.S. in Health Fitness & Recreation 📜 Minor in nutrition🥑 Personal trainer certified 💪🏼 Substitute teacher K-12 🍎 Neko & nala 🐾🦴
+      🏃🏼‍♀️Trail Running | Ski ⛷️ 🌲 Montagnarde à temps plein ✨ 📍Côte d’Azur | Mercantour 🌸 👟Ambassadrice @hoka_eu 💙 💧@effinov_nutrition
     location: "France"
-    followers: 8468
-    engagement: 995
-    commentsToLikes: 0.057199
-    id: ck55n6a7s5koh0i11mwtyi0xl
+    followers: 13175
+    engagement: 326
+    commentsToLikes: 0.032056
+    id: ck15qaa351v540i19po7nfrtv
     verified: false
-    hashtags: "#bowmargiveaway, #livelife, #gympost, #gymbeast"
-  - username: "maggy_letsbikini"
+    hashtags: "#hoka, #alpesdusud, #loverunning, #bestofthealps"
+  - username: "antoine_fombonne"
     fullname: >-
-      Coach sportif en ligne l Maggy
+      ANTOINE FOMBONNE
     bio: >-
-      🏋🏻 Programme sportif ⁣⁣ 🍳 Plan nutritionnelle ⁣⁣ 👩🏼‍💻 Suivi personnalisé ⁣⁣ Contacte moi pour + d’infos
+      🍌 Tips nutrition, santé et entraînement 💪🏼⠀⠀ 📖 Auteur du livre Muscu : Actions et Vérités ⬇️ ⠀ 🇫🇷 Co-fondateur Bayesian France⠀ 🏋🏻‍♂️ @bulk athlete⠀
     location: "France"
-    followers: 9323
-    engagement: 628
-    commentsToLikes: 0.042965
-    id: ck5q7vxhz3asq0i1187h94axf
+    followers: 85727
+    engagement: 286
+    commentsToLikes: 0.022736
+    id: ck14klsjiq54e0i19oloi2tf9
     verified: false
-    hashtags: "#competition, #life, #musculation, #confinement"
+    hashtags: "#fightspirit, #psy, #sport, #motivation"
+  - username: "coraline.fitness"
+    fullname: >-
+      Coraline Dos reis
+    bio: >-
+      📌25 𝒶𝓃𝓈 📍ℒ𝓎𝑜𝓃 ⏳𝒫𝓇é𝓅𝒶 𝒸𝑜𝓂𝓅è𝓉𝑒 𝒲𝑒𝓁𝓁𝓃𝑒𝓈𝓈 🍑 𝒞𝑜𝒶𝒸𝒽 @damien_alphaa 🏋️‍♀️ @onairfitness_lyonsaxegambetta ✍️ 𝒫𝒶𝓇𝓉𝑒𝓃𝒶𝒾𝓇𝑒 @broadwhey.fr @ironshark_nutrition
+    location: "France"
+    followers: 38743
+    engagement: 273
+    commentsToLikes: 0.033530
+    id: clexewjt4kny20j08is0ufc15
+    verified: false
+    hashtags: "#teamshape, #bodypositive, #fitgirls, #transformation"
 ---

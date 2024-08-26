@@ -1,11 +1,11 @@
 ---
-title: Top 10 Soccer-Players Instagram Influencers In United Kingdom In 2023
+title: Top 10 Soccer-Players Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top soccer-players Instagram influencers in United Kingdom in 2023. Most popular hashtags: #soccer #soccerplayer #football #soccerskills.
+  Find top soccer-players Instagram influencers in United Kingdom in 2024. Most popular hashtags: #soccer #football #soccerplayer #futbol.
 platform: Instagram
-hits: 15
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 15 Instagram influencers like this in United Kingdom for you to contact.
+hits: 18
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 18 Instagram influencers like this in United Kingdom for you to contact.
 profiles:
   - username: "thibautgarciaguitar"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ckaoud5eezrlw0i78sovnc5vn
     verified: false
     hashtags: "#girlssoccer, #footwork, #soccerskills, #midfield"
-  - username: "ferjani_safi"
-    fullname: >-
-      Ferjani
-    bio: >-
-      🏆Vice European panna champion 2019 📍BELGIUM 📥 DM/ MAIL for collab 🇹🇳🇮🇹
-    location: "United Kingdom"
-    followers: 35062
-    engagement: 6351
-    commentsToLikes: 0.047147
-    id: ck15r443761t80i197h6okris
-    verified: false
-    hashtags: "#433skills, #nutmeg, #teamwork, #footbal"
   - username: "loopedfifa"
     fullname: >-
       
@@ -67,30 +55,18 @@ profiles:
     id: ck5qb4m7bjs7n0i111tuwyan4
     verified: false
     hashtags: ""
-  - username: "megcrosson"
+  - username: "moziahpinder"
     fullname: >-
-      Megan Crosson
+      Moziah Pinder - Athlete
     bio: >-
-      Look up, child† ⚽️ Pro player in 🇺🇸⇢🇯🇵⇢🇪🇸⇢🇱🇹 ⇢🏴󠁧󠁢󠁳󠁣󠁴󠁿 @t2t.prosoccertraining Founder @naturallyfitagencyla Fitness Model 💻 @getflowspace
+      @loveisland S11 ❤️🏝 Enquiries: Ross@mxigroup.co.uk The balanced Bite diet book below👇
     location: "United Kingdom"
-    followers: 17909
-    engagement: 441
-    commentsToLikes: 0.101763
-    id: ck5qcl97gr4iu0i118hrzsjv5
+    followers: 538842
+    engagement: 29
+    commentsToLikes: 0.010901
+    id: ck6u9kay6y2a90j71267aqssu
     verified: false
-    hashtags: "#strengthtraining, #celsiusbrandpartner, #celsiuslivefit, #ketokick"
-  - username: "yostreetzone"
-    fullname: >-
-      YO! STREET ZONE
-    bio: >-
-      ⚽️ UK's biggest street football crew 🔥 Follow us for crazy pannas & skills! 👇 New video - Where Ballers Are Born
-    location: "United Kingdom"
-    followers: 19255
-    engagement: 459
-    commentsToLikes: 0.024525
-    id: ck15r446661uh0i195ekk74ok
-    verified: false
-    hashtags: "#adidas, #ohmygoal, #margate, #pannaknockout"
+    hashtags: "#fitness, #gym, #loveisland, #motivation"
   - username: "watchcog"
     fullname: >-
       Watches & More Watches
@@ -127,4 +103,28 @@ profiles:
     id: ck0w1yvowltby0i19n2133ali
     verified: false
     hashtags: "#photography, #dearworld, #peace, #dearworldlive"
+  - username: "f2academy"
+    fullname: >-
+      THE F2 ACADEMY
+    bio: >-
+      🗣 @TheF2 Academy 🎓 16+ Football and Education Programme 🌍 Hertfordshire/Essex 📧 APPLY NOW - academy@thef2.com @vlukeducation
+    location: "United Kingdom"
+    followers: 31317
+    engagement: 249
+    commentsToLikes: 0.003355
+    id: ck5cl250ry3h60i115iuk2woe
+    verified: false
+    hashtags: "#soccer, #baller, #thef2, #player"
+  - username: "toniruediger"
+    fullname: >-
+      Antonio Rüdiger
+    bio: >-
+      Football player for @realmadrid & @DFB_Team 🇩🇪 || @UnderArmour Athlete ⚽️👟
+    location: "United Kingdom"
+    followers: 8760236
+    engagement: 467
+    commentsToLikes: 0.007682
+    id: ck0tvva3rcxxd0i19yibsrxpa
+    verified: true
+    hashtags: "#cleansheet, #hustle, #alwaysbelieve, #halamadrid"
 ---

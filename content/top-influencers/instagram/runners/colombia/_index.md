@@ -1,12 +1,36 @@
 ---
-title: Top 10 Runners Instagram Influencers In Colombia In 2023
+title: Top 10 Runners Instagram Influencers In Colombia In 2024
 description: >-
-  Find top runners Instagram influencers in Colombia in 2023. Most popular hashtags: #tbt #instagood #model.
+  Find top runners Instagram influencers in Colombia in 2024. Most popular hashtags: #travel #tbt #runner.
 platform: Instagram
-hits: 24
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 24 Instagram influencers like this in Colombia for you to work with.
+hits: 31
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 31 Instagram influencers like this in Colombia for you to connect with.
 profiles:
+  - username: "monorunners"
+    fullname: >-
+      MONO RUNNER
+    bio: >-
+      🙏Promuevo el runner como un estilo de vida. 😎Especialista en comunicación. 🏃 Mis entrenamientos en Strava
+    location: "Colombia"
+    followers: 29636
+    engagement: 157
+    commentsToLikes: 0.047761
+    id: ck8syjovgl0r00j78y1ss8nlh
+    verified: false
+    hashtags: "#reels, #hijo, #fit, #fitnessmotivation"
+  - username: "lauraolayam"
+    fullname: >-
+      Laura Olaya
+    bio: >-
+      💣/Comunicadora social y periodista 👑/Founder @marla_bylauraolaya ✨ 🤓/Content manager 🔥/Colombian model @Grupo4co 🏃🏼‍♀️/Runner
+    location: "Colombia"
+    followers: 20968
+    engagement: 85
+    commentsToLikes: 0.037418
+    id: ck5c27c4hwoom0i11p7bx6ok6
+    verified: false
+    hashtags: "#photography, #puntacana, #fashion, #grwm"
   - username: "ticamartinez"
     fullname: >-
       TICA
@@ -19,18 +43,6 @@ profiles:
     id: ck15rg5967rjv0i19minttddo
     verified: true
     hashtags: "#takemeback"
-  - username: "lauraolayam"
-    fullname: >-
-      Laura Olaya
-    bio: >-
-      💣/Comunicadora social y periodista 🤓/Content manager-Directora de proyectos✨ 🔥/Colombian model @Grupo4co 🏃🏼‍♀️/Runner 💙/Just... Love God
-    location: "Colombia"
-    followers: 18889
-    engagement: 207
-    commentsToLikes: 0.083229
-    id: ck5c27c4hwoom0i11p7bx6ok6
-    verified: false
-    hashtags: "#girl, #instagood, #today, #lookoftheday"
   - username: "ogualteros"
     fullname: >-
       🎻Olga Gualteros🎻
@@ -79,30 +91,6 @@ profiles:
     id: ck5zvrfhz4sbg0i14zg3iflq8
     verified: false
     hashtags: "#favplace, #fotografia, #thecreativers, #launchdsigns"
-  - username: "santiagoherediao"
-    fullname: >-
-      SANTIAGO HEREDIA 🐺
-    bio: >-
-      Runner | Triatleta | Golfista @underarmourlatam #athlete 🔥 Admin de Empresas | Smart Cities | Digital Business. Apasionado por los deportes.
-    location: "Colombia"
-    followers: 19133
-    engagement: 160
-    commentsToLikes: 0.025791
-    id: ck8t01oiaqj6n0j786t7ufmzv
-    verified: false
-    hashtags: "#runningcommunity, #ad, #run, #swim"
-  - username: "danielmendezmu"
-    fullname: >-
-      Daniel Mendez
-    bio: >-
-      ✖️Capitan Adidas Runners Bogota @adidasrunners ✖️Embajador @adidasco ✖️1xMarathon✖️ 1x70.3 Ironman ✖️Athlete @pedialytecol ✖️Water Sports ✖️ARC
-    location: "Colombia"
-    followers: 169371
-    engagement: 63
-    commentsToLikes: 0.014818
-    id: ck6ub4s237gny0j71mdm6ipuv
-    verified: false
-    hashtags: "#adidasrunnersbogota, #adabbott, #patrocinadoabbott, #pedialyte30"
   - username: "diegosantoscaballero"
     fullname: >-
       DiegoASantos
@@ -115,16 +103,28 @@ profiles:
     id: ck14ggawz52v40i19qygzgmbd
     verified: true
     hashtags: "#keepitsimple, #popefan, #misnuevosdotes, #keepitcharming"
-  - username: "andreatov"
+  - username: "davidguetri"
     fullname: >-
-      Andrea Tovar
+      David Guete | Triatleta Elite 🇨🇴
     bio: >-
-      2nd runner up Miss Universe 2016 Mamá de Elena y Lorenzo 🐾 Emma y Nala 🐾
+      Atleta @idrd @superfood.co @proyectowerun
     location: "Colombia"
-    followers: 1121006
-    engagement: 120
-    commentsToLikes: 0.003852
-    id: ck8sxaj9ogp3e0j78nnhouo8y
-    verified: true
-    hashtags: "#consientoamibebe, #mam, #foticodelpaseo, #milorenzo"
+    followers: 7891
+    engagement: 549
+    commentsToLikes: 0.062757
+    id: ckapcnndu4haz0i78qmkqha02
+    verified: false
+    hashtags: "#swimbikerun, #running, #cicismocolombiano, #marathon"
+  - username: "santiagoherediao"
+    fullname: >-
+      SANTIAGO HEREDIA 🐺
+    bio: >-
+      Ironman 140.6 Finisher Ironman 70.3 x 3 Marathoner x 3 🏊🏻‍♂️🚴🏼🏃🏼 @underarmourlatam #athlete 🔥 Papá de @bandido_heredia
+    location: "Colombia"
+    followers: 33889
+    engagement: 1160
+    commentsToLikes: 0.027026
+    id: ck8t01oiaqj6n0j786t7ufmzv
+    verified: false
+    hashtags: "#bestmoments, #training, #sundayrunday, #runningmotivation"
 ---

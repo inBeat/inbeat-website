@@ -1,24 +1,36 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Morocco In 2023
+title: Top 10 Cosmetics Instagram Influencers In Morocco In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Morocco in 2023. Most popular hashtags: #fashion #makeup #beauty #style.
+  Find top cosmetics Instagram influencers in Morocco in 2024. Most popular hashtags: #fashion #love #makeup #beauty.
 platform: Instagram
-hits: 17
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 17 Instagram influencers like this in Morocco for you to contact.
+hits: 13
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 13 Instagram influencers like this in Morocco for you to connect with.
 profiles:
-  - username: "reena.abdelrahim"
+  - username: "nouhailalarabiofficiel"
     fullname: >-
-      Reena abdelrahim | رينا
+      Nouhaila Larabi Benjama
     bio: >-
-      •𝑀𝑎𝑘𝑒𝑢𝑝 𝑎𝑟𝑡𝑖𝑠𝑡 •𝐿𝑣𝑙 & 𝑏𝑟𝑜𝑤𝑠 𝑙𝑎𝑚𝑖𝑛𝑎𝑡𝑖𝑜𝑛 •Kᴏᴛɪɴᴏs ᴀᴡᴀʀᴅ ᴡɪɴɴɪɢ “ʙᴇsᴛ ᴍᴜᴀ ᴏғ 2018“ •𝐎𝐰𝐧𝐞𝐫 𝗼𝐟 @reenabdelrahim.glamhouse @reenabdelrahim.cosmetics
+      Founder & ceo @noha_cosmetics Content creator & Beauty expert ✉️ larabinouhaila@gmail.com For collabs : +212 6 61 06 28 02
     location: "Morocco"
-    followers: 352697
-    engagement: 399
-    commentsToLikes: 0.010918
-    id: ck14huccfc6l60i19n6lupqen
+    followers: 590548
+    engagement: 262
+    commentsToLikes: 0.026659
+    id: ck6uc606cdq5f0j712nt83wz7
     verified: false
-    hashtags: "#style, #fall, #photoshoot, #beauty"
+    hashtags: "#30weekspregnant, #rayban, #raybanreverse, #bali"
+  - username: "lina_agdour"
+    fullname: >-
+      🎀lina agdour | لينة اكدور🎀
+    bio: >-
+      𝐚𝐜𝐭𝐫𝐞𝐬𝐬/𝐦𝐨𝐝𝐞𝐥 📍:🇲🇦🇦🇪 𝐌𝐢𝐧𝐢 𝐦𝐢𝐬𝐬 𝐦𝐚𝐫𝐨𝐜2020 Owner of: @lina_agdour_collection & @lina_agdour_cosmetics 𝐚𝐜𝐜𝐨𝐮𝐧𝐭 𝐦𝐚𝐧𝐚𝐠𝐞𝐝 𝐛𝐲 𝐩𝐚𝐫𝐞𝐧𝐭𝐬 @diamond_agency_ma
+    location: "Morocco"
+    followers: 1492572
+    engagement: 151
+    commentsToLikes: 0.018543
+    id: ckf5nfe2my19z0j23w6ri942n
+    verified: false
+    hashtags: "#tanger, #caftan, #gala, #vibes"
   - username: "marisaberensonofficial"
     fullname: >-
       Marisa Berenson
@@ -67,30 +79,6 @@ profiles:
     id: ck5hmoeqpmbu60i117jjgz519
     verified: false
     hashtags: "#hijabmurah, #hijaber, #likeforlikes, #ootd"
-  - username: "kam_227"
-    fullname: >-
-      خولة المراغي
-    bio: >-
-      ‏Snapchat👻kam272 📧 khawlaalmaraghi@gmail.com 00973-35556999📞 ‬‬‏ ‏ الممثل القانوني للحساب المحامي عارف تقي
-    location: "Morocco"
-    followers: 846033
-    engagement: 129
-    commentsToLikes: 0.031018
-    id: ck0vx5xkyxau50i19bqmwiei0
-    verified: true
-    hashtags: "#fashionblogger, #chanel, #zara, #sephora"
-  - username: "nounoua_selma"
-    fullname: >-
-      Fashion designer 🇩🇿
-    bio: >-
-      Propriétaire de : @nns_dz 🔸 Modeliste ✂️ Styliste. 🔸 Dermo-conseillère. 🔸 Fashionista. 🔸 Animatrice. 🔸 Self development.
-    location: "Morocco"
-    followers: 26990
-    engagement: 456
-    commentsToLikes: 0.048854
-    id: ck6ufvz8pzgb20j71ansox9z3
-    verified: false
-    hashtags: "#nns, #bienetre, #revue, #hijabinspiration"
   - username: "salma_h_zawaideh"
     fullname: >-
       Salma Hanna سلمى حنا
@@ -103,18 +91,6 @@ profiles:
     id: ck5zqsiv7v7nb0i14mdlvtp5c
     verified: false
     hashtags: "#tflers, #instagood, #fashion, #photooftheday"
-  - username: "nada.oubnichou"
-    fullname: >-
-      Empowering Women
-    bio: >-
-      TV Host Al Oula 🎙 Actress 🎥 Ex Cabin Crew / Real Estate Manager nada.oubnichou@gmail.com Owner @ouna.store clothing store
-    location: "Morocco"
-    followers: 541921
-    engagement: 174
-    commentsToLikes: 0.046732
-    id: ck5hquo3ftr460i118rot4qtu
-    verified: false
-    hashtags: "#travel, #cute, #travelblogger, #photooftheday"
   - username: "sheissafae"
     fullname: >-
       S V F V E  |  ْصَ فَ آ ء
@@ -127,4 +103,28 @@ profiles:
     id: ckf5vqsyupknn0j23r3h25orx
     verified: false
     hashtags: "#shein, #makeupartist, #share, #sheissafae"
+  - username: "loubinnette.1"
+    fullname: >-
+      Loubna nabih
+    bio: >-
+      Official account of loubna nabih ✨ MOROCCAN CONTENT CREATOR Nabihloubna@gmail.com
+    location: "Morocco"
+    followers: 979292
+    engagement: 145
+    commentsToLikes: 0.004946
+    id: ck5q97bxo9qaz0i11evvjqld8
+    verified: false
+    hashtags: "#lookoftheday, #grwm, #iftarlook, #honorx7b"
+  - username: "fatima_zahra_el_ibrahimi"
+    fullname: >-
+      Fatima Zahra El Ibrahimi
+    bio: >-
+      Fatima Zahra EL IBRAHIMI ACTRESS🎬, TV HOST🎤 🇲🇦 📩: contact.fatimazahraelibrahimi@gmail.com YouTube ⬇️⬇️ جليسة عند فاطمة الزهراء. #glissa
+    location: "Morocco"
+    followers: 2202251
+    engagement: 54
+    commentsToLikes: 0.026327
+    id: ck137jwztbwzp0i198gxjzt3t
+    verified: false
+    hashtags: "#grwm, #ramadan2024, #marrakech, #ilovemorocco"
 ---

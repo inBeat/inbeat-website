@@ -1,48 +1,72 @@
 ---
-title: Top 10 Bodyboard Instagram Influencers In 2023
+title: Top 10 Bodyboard Instagram Influencers In 2024
 description: >-
-  Find top bodyboard Instagram influencers in 2023. Most popular hashtags: #bodyboard #bodyboarding #surfing.
+  Find top bodyboard Instagram influencers in 2024. Most popular hashtags: #bodyboard #surfing #bodyboarding.
 platform: Instagram
-hits: 242
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 242 Instagram influencers like this for you to contact.
+hits: 249
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 249 Instagram influencers like this for you to connect with.
 profiles:
+  - username: "iaincampbell_"
+    fullname: >-
+      Iain Campbell
+    bio: >-
+      Professional Bodyboarder 🇿🇦 🏆 2017 Bodyboard World Champion 👕 Merch - @boogieeveryday 🎥 YouTube (28K) ⬇️
+    location: "South Africa"
+    followers: 73566
+    engagement: 349
+    commentsToLikes: 0.020028
+    id: ck0vy4j2327h30i19ngn5z3b5
+    verified: true
+    hashtags: "#gopro, #bodyboard, #bodyboarder, #bodyboarding"
+  - username: "armidesoliveres1"
+    fullname: >-
+      Armide Soliveres
+    bio: >-
+      Canary/GC🇮🇨 Profesional Bodyboarder 🏆WORLD JUNIOR 2018 🏆x2 Europe 🏆x3🇪🇸 Nurse-ULPGC💉
+    location: "Spain"
+    followers: 11121
+    engagement: 1216
+    commentsToLikes: 0.035848
+    id: ck14j29csi9lu0i19xfax4ojv
+    verified: false
+    hashtags: "#bodyboard, #mar, #enjoy, #naturaleza"
+  - username: "brahimiddouch"
+    fullname: >-
+      Brahim Iddouch
+    bio: >-
+      Professional Bodyboarder 🇲🇦 Management: @khadijaelabid
+    location: "Morocco"
+    followers: 48427
+    engagement: 282
+    commentsToLikes: 0.026316
+    id: ck0vy4kb127ou0i19dnbq2eoq
+    verified: false
+    hashtags: "#frmsb, #teamgalaxy, #teamwildboar, #spotthehilal"
+  - username: "joana_schenker"
+    fullname: >-
+      Joana Schenker
+    bio: >-
+      Pro Bodyboarder from Sagres, Portugal. 2017 APB World Champion 4x European Champion 7x National Champion PT @naughtyboysagency for inquiries
+    location: "Portugal"
+    followers: 48039
+    engagement: 77
+    commentsToLikes: 0.007458
+    id: ck0w4do8ky2k30i19cm4wketl
+    verified: true
+    hashtags: "#portugal, #sagres, #bodyboard, #oceanoazulfoundation"
   - username: "alexandrarinder"
     fullname: >-
       Alexandra Rinder
     bio: >-
       Pro Bodyboarder from the Canary Islands 🇮🇨 🏆2x APB World Champion 🥇1x European Champion 🥇2x Junior European Champion
     location: "Canary Islands"
-    followers: 35962
-    engagement: 667
-    commentsToLikes: 0.020139
+    followers: 35699
+    engagement: 502
+    commentsToLikes: 0.022911
     id: ck0vznc3v9ygd0i19bpd0x0tc
     verified: false
-    hashtags: "#elfronton"
-  - username: "brahim_iddouch"
-    fullname: >-
-      Brahim Iddouch
-    bio: >-
-      Professional Bodyboarder From Morocco 🇲🇦
-    location: "United States"
-    followers: 30505
-    engagement: 445
-    commentsToLikes: 0.027256
-    id: ck0vy4kb127ou0i19dnbq2eoq
-    verified: false
-    hashtags: "#teamwildboar, #frmsb, #frms, #lanzarote"
-  - username: "mikahelaquinn"
-    fullname: >-
-      MIKA🐉
-    bio: >-
-      Atleta Nacional Bodyboard🇨🇷 Escalar🧗🏼‍♀️ 📩 immikahelac@gmail.com If you're not making waves, you're not kicking hard enough @sleepymikah
-    location: "Spain"
-    followers: 29482
-    engagement: 572
-    commentsToLikes: 0.012648
-    id: ck5hmfpj0lv9q0i11ihh7mi6r
-    verified: false
-    hashtags: ""
+    hashtags: "#matching"
   - username: "vudukchild"
     fullname: >-
       natalia
@@ -102,29 +126,5 @@ profiles:
     commentsToLikes: 0.070282
     id: ck0vznbr09yf40i19hqkxl8kc
     verified: false
-    hashtags: "#islascanarias, #elconfital, #surfgirl, #bodyboard"
-  - username: "socrates_santana"
-    fullname: >-
-      • Little doctor •👨🏾‍⚕️
-    bio: >-
-      Professional Bodyboard 🏆 2015 and 2016 apbtour 🌎 Junior Champion ⠀ 🥇@isasurfing (equipes) 🏆 2018 @cbrasb Champion ⠀ ⠀ ⠀ 🏡🇧🇷 #socratesbb
-    location: "Brazil"
-    followers: 20226
-    engagement: 930
-    commentsToLikes: 0.358506
-    id: ckaot4npiud9c0i78fhzki868
-    verified: false
-    hashtags: "#errejota, #ibcworldtour, #favelastorm, #posto5"
-  - username: "melody.stevenss"
-    fullname: >-
-      MELODY STEVENS 🏄🏼‍♀️
-    bio: >-
-      National Champ of CR 2018 junior ( Bodyboard) 18 years old 🇨🇷- 🇺🇸📍Oside CA
-    location: "United States"
-    followers: 30015
-    engagement: 625
-    commentsToLikes: 0.025971
-    id: ck5zvgwka47pk0i14x3ceq06a
-    verified: false
-    hashtags: "#camelogirl, #bodyboard, #costarica, #bikinigirl"
+    hashtags: "#bikini, #elconfital, #bodyboard, #islascanarias"
 ---

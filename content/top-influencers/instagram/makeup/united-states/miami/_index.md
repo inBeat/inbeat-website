@@ -1,12 +1,36 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Miami In 2023
+title: Top 10 Makeup Instagram Influencers In Miami In 2024
 description: >-
-  Find top makeup Instagram influencers in Miami in 2023. Most popular hashtags: #makeup #miami #makeupartist #makeupoftheday.
+  Find top makeup Instagram influencers in Miami in 2024. Most popular hashtags: #makeup #miami #photoshoot #miamimodel.
 platform: Instagram
-hits: 431
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 431 Instagram influencers like this in Miami, United States for you to contact.
+hits: 535
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 535 Instagram influencers like this in Miami, United States for you to connect with.
 profiles:
+  - username: "makeupnad"
+    fullname: >-
+      Nad 🇱🇧
+    bio: >-
+      | celebrity bridal Pro-travel makeup artist | @makeupnad_
+    location: "United States"
+    followers: 235835
+    engagement: 218
+    commentsToLikes: 0.031131
+    id: ck8sx8l6zginm0j78ku4ifhou
+    verified: false
+    hashtags: "#hudabeauty, #makeup, #miami, #taurus"
+  - username: "allisonkayeglam"
+    fullname: >-
+      Allison Kaye
+    bio: >-
+      Beauty Influencer & Celebrity Makeup Artist 📍Miami • Ft Lauderdale
+    location: "United States"
+    followers: 76095
+    engagement: 91
+    commentsToLikes: 0.163225
+    id: clq5pg87r09ri0k08fmt3kev8
+    verified: false
+    hashtags: "#miamimakeup, #makeup, #miamiinfluencer, #floridamakeup"
   - username: "barbaraturbay"
     fullname: >-
       Barbara Turbay ૐ
@@ -43,6 +67,18 @@ profiles:
     id: ck1390gorix630i19y28n0597
     verified: false
     hashtags: "#bts, #friskyfriday, #southfloridaphotographer, #tgif"
+  - username: "yxniraaa"
+    fullname: >-
+      👁yani👁
+    bio: >-
+      📷 Content Creator + Model + Photographer 📍Miami, FL Photography page ➪ @yanislenz
+    location: "United States"
+    followers: 2329
+    engagement: 507
+    commentsToLikes: 0.073330
+    id: ck6ts1ksq29z50j71wbegy03m
+    verified: false
+    hashtags: "#confidence, #bodypositivity, #nikeshoes, #athomephotoshoot"
   - username: "_kri_zia_"
     fullname: >-
       Krizia
@@ -67,64 +103,28 @@ profiles:
     id: ck14kyxbps0yi0i19qxl5xwsi
     verified: false
     hashtags: "#miamiphotographer, #miamihair, #modelmiami, #makeupartistnyc"
-  - username: "zkmua"
+  - username: "city.alien"
     fullname: >-
-      Kat 💋| Makeup Artist
+      Aurora Kelly Cosplay ♥
     bio: >-
-      >> Self Taught 💄 >> DM me to book/for PR 📥 >> Miami FL📍 @katherinezamoraa
+      I invoke feelings proceed with caution ✨ 📍ATL ✨D🏳️‍🌈 𝘐𝘯𝘲𝘶𝘪𝘳𝘪𝘦𝘴 💌 𝘤𝘪𝘵𝘺𝘢𝘭𝘪𝘦𝘯17@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮
     location: "United States"
-    followers: 7073
-    engagement: 336
-    commentsToLikes: 0.080303
-    id: ck137gq6mbgbf0i190tdx9zdt
+    followers: 26403
+    engagement: 131
+    commentsToLikes: 0.016627
+    id: ck138ocl9h7q80i19grpsv0me
     verified: false
-    hashtags: "#thelist, #color, #inspo, #cosmetics"
-  - username: "beautybymarthap"
+    hashtags: "#virtualstylist, #hairstylistmiami, #miamiinfluencer, #miamilife"
+  - username: "michelleciotti"
     fullname: >-
-      Martha Patricia
+      MICHELLE CIOTTI
     bio: >-
-      ♡ Makeup Artist ♡ Beauty and makeup content creator 🦋Life style & fashion lover AD/PR: beautybymarthap@gmail.com Tag: #beautybymarthap
+      🇻🇪🇮🇹🇩🇪🇺🇸 Miami. Lifestyle ✨🌸 🏆 Social Media Marketing / PR: pr@michelleciotti.com 🥇 Real Estate Miami: info@michelleciotti.com
     location: "United States"
-    followers: 3984
-    engagement: 1121
-    commentsToLikes: 0.068624
-    id: ck6tibv6z0fa70j710p3egnhz
+    followers: 282238
+    engagement: 101
+    commentsToLikes: 0.021187
+    id: ck137dcgyazag0i19j97u7p6t
     verified: false
-    hashtags: "#goodmolecules, #revlon, #todaysmakeup, #wetnwildbeauty"
-  - username: "jazmineonthelookz"
-    fullname: >-
-      Atlanta Makeup Artist
-    bio: >-
-      💋l SOUTH ATLANTA MUA (DEPOSIT REQUIRED) 📌l For bookings click book button below⤵️ NO DM APPOINTMENT‼️‼️
-    location: "United States"
-    followers: 9396
-    engagement: 178
-    commentsToLikes: 0.065928
-    id: ck0w457svwvee0i19x578vjme
-    verified: false
-    hashtags: "#glammakeup, #atllashes, #lamakeupartist, #stockbridgemua"
-  - username: "angelasilvamakeup"
-    fullname: >-
-      Angela Silva Makeup Studio
-    bio: >-
-      ✨Miami Makeup Artist ✨Professional Educator ✨Brow Specialist ✨Licensed Skin Care 📍11402 Nw 41st street Doral Fl 33178 💻 Agenda tu Cita👇🏼
-    location: "United States"
-    followers: 137960
-    engagement: 335
-    commentsToLikes: 0.125921
-    id: ckap9yyhwu1vz0i78we7eyv4h
-    verified: false
-    hashtags: "#makeupusa, #makeupprom, #prommakeup, #beforeandafter"
-  - username: "dylan_pinnell"
-    fullname: >-
-      Dylan Nicole Pinnell
-    bio: >-
-      Model Ⅱ︎ Actress Ⅱ︎ Equestrian @thegreenagency @selectmiamitalents @stellartalentagency @saberswing
-    location: "United States"
-    followers: 11947
-    engagement: 1217
-    commentsToLikes: 0.021566
-    id: ck5qdldk4w54n0i118z65rpt1
-    verified: false
-    hashtags: "#pretty, #instagood, #picoftheday, #happy"
+    hashtags: "#follow, #love, #photography, #photooftheday"
 ---

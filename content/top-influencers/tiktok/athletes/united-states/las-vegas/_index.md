@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Las Vegas In 2023
+title: Top 10 Athletes TikTok Influencers In Las Vegas In 2024
 description: >-
-  Find top athletes TikTok influencers in Las Vegas in 2023. Most popular hashtags: #fyp #foryou #lasvegas #foryoupage.
+  Find top athletes TikTok influencers in Las Vegas in 2024. Most popular hashtags: #fyp #foryou #lasvegas #foryoupage.
 platform: TikTok
-hits: 9
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 9 TikTok influencers like this in Las Vegas, United States for you to contact.
+hits: 10
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 10 TikTok influencers like this in Las Vegas, United States for you to collaborate.
 profiles:
   - username: "eduarduro1"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.041812
     id: ckbqjirme4mzi0j234xumalew
     verified: false
-    hashtags: "#ilovemylife, #challenges, #happyday, #dance"
+    hashtags: "#challenges, #ilovemylife, #womanstrong, #loveyourself"
   - username: "lasvegasfill"
     fullname: >-
       LasVegasFill 
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.041670
     id: ckcou8mtl8pgq0j233zdgqmol
     verified: false
-    hashtags: "#japanesefood, #beef, #tiktokfood, #chicken"
+    hashtags: "#tiktokfood, #wow, #japanesefood, #fyp"
   - username: "1big_coconut"
     fullname: >-
       ThatSamoanGuy
@@ -102,7 +102,19 @@ profiles:
     commentsToLikes: 0.078674
     id: ck81qyg6fky730j78kx9ipiqh
     verified: false
-    hashtags: "#dapper, #teacher, #bowtie, #recycle"
+    hashtags: "#cleaningstrike, #teacherlife, #teacherappreciationweek, #fyp"
+  - username: "thekevinmac"
+    fullname: >-
+      Kevin Mac
+    bio: >-
+      Actor/Stand Up
+    location: "United States"
+    followers: 388700
+    engagement: 3290
+    commentsToLikes: 0.005046
+    id: ckbqvnsk1fub40j234wgk3zsm
+    verified: false
+    hashtags: "#foryoupage, #comedy, #prank, #couplegoals"
   - username: "mkagentofchaos"
     fullname: >-
       Mike in LA
@@ -115,16 +127,4 @@ profiles:
     id: ckb9qhqrdmgwb0j23cupj1hgr
     verified: false
     hashtags: "#golf, #pga, #la, #ocean"
-  - username: "sadik_hadzovic"
-    fullname: >-
-      Sadik Hadzovic
-    bio: >-
-      Athlete
-    location: "United States"
-    followers: 63300
-    engagement: 742
-    commentsToLikes: 0.018188
-    id: ck9kegkrwysvx0j78zzeuzoaf
-    verified: false
-    hashtags: "#exercise, #fitness, #bodybuilding, #workout"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Brisbane In 2023
+title: Top 10 Beauty TikTok Influencers In Brisbane In 2024
 description: >-
-  Find top beauty TikTok influencers in Brisbane in 2023. Most popular hashtags: #fyp #beauty #australia #brisbane.
+  Find top beauty TikTok influencers in Brisbane in 2024. Most popular hashtags: #fyp #brisbane #australia #beauty.
 platform: TikTok
 hits: 7
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 7 TikTok influencers like this in Brisbane, Australia for you to work with.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 7 TikTok influencers like this in Brisbane, Australia for you to connect with.
 profiles:
   - username: "melgreenwood_83"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.053472
     id: ckavl8jv6uhc00j23km13rv7h
     verified: false
-    hashtags: "#specialneeds, #mymotivation, #inclusion, #colorcustomizer"
+    hashtags: "#specialneeds, #mymotivation, #questions, #poselikeamodel"
   - username: "danmeet.singh"
     fullname: >-
       Meet singh
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.010131
     id: ckd6lhnrsfbql0j234wp8muwv
     verified: false
-    hashtags: "#hustlecheck, #shoplocal, #mum, #fyp"
+    hashtags: "#earthmonth, #gogreen, #hustlecheck, #earthday"
   - username: "carbie2barbiee"
     fullname: >-
       FinauSuliana
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.042272
     id: ck8farqus4mkt0j785qqk209v
     verified: false
-    hashtags: "#trending, #fyp, #f45, #plussize"
+    hashtags: "#workoutroutine, #trending, #plussizeedition, #weightloss"
   - username: "kosti.sistas"
     fullname: >-
       kita & doo

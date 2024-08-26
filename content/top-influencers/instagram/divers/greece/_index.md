@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers Instagram Influencers In Greece In 2023
+title: Top 10 Divers Instagram Influencers In Greece In 2024
 description: >-
-  Find top divers Instagram influencers in Greece in 2023. Most popular hashtags: #portrait #ig #love #cityphotography.
+  Find top divers Instagram influencers in Greece in 2024. Most popular hashtags: #portrait #love #ig #greece.
 platform: Instagram
-hits: 15
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 15 Instagram influencers like this in Greece for you to contact.
+hits: 14
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 14 Instagram influencers like this in Greece for you to connect with.
 profiles:
   - username: "zissis_live"
     fullname: >-
@@ -55,18 +55,6 @@ profiles:
     id: ck5c65cka4r4q0i11ovkq59u8
     verified: false
     hashtags: "#ypen, #supfreegreece, #evridiki, #music"
-  - username: "napodano.antonio79"
-    fullname: >-
-      Antonio Napodano
-    bio: >-
-      Lifestyle & Travel Hotel General Manager Founder @italianluxurylover_com @italianluxurylovermood Follow me & Tag #italianluxurylover to be reposted
-    location: "Greece"
-    followers: 35107
-    engagement: 529
-    commentsToLikes: 0.139559
-    id: ck15tek77hoz80i199kabv1cq
-    verified: false
-    hashtags: "#traveltheworld, #travelgram, #top, #mytravelgram"
   - username: "raiden_division"
     fullname: >-
       raiden
@@ -79,18 +67,6 @@ profiles:
     id: ck8t6mp11e5fj0j78o0kxzrvg
     verified: false
     hashtags: "#tattooedgirls, #blackandgraytattoo, #blackandgreytattoo, #tattooartist"
-  - username: "alexandroskarpas"
-    fullname: >-
-      Alexandros Karpas
-    bio: >-
-      Filmmaker & Camera whisperer @unboxholics
-    location: "Greece"
-    followers: 258406
-    engagement: 1546
-    commentsToLikes: 0.008947
-    id: ck5cbut0tg7dn0i111rky9ae0
-    verified: false
-    hashtags: "#unboxholics, #horrornight, #poutanaola, #ultrawidemonitor49wl95c"
   - username: "damekellyholmes"
     fullname: >-
       𝐊𝐞𝐥𝐥𝐲 𝐇𝐨𝐥𝐦𝐞𝐬 😁
@@ -127,4 +103,28 @@ profiles:
     id: ckap9e0kjsa110i78xxda51qd
     verified: false
     hashtags: "#nopeople, #river, #firenze, #housestyle"
+  - username: "sieteexx"
+    fullname: >-
+      Seveminds
+    bio: >-
+      𝓷𝓮𝓿𝓮𝓻 𝓶𝓲𝓷𝓭🕊️ —𝘀𝗲𝘃𝗲 𝗰𝗮𝘂𝘀𝗲𝘀 𝗺𝘆 𝘀𝗺𝗶𝗹𝗲𝘀<𝟯 𝘀𝗶𝗻𝗰𝗲 𝟭𝟳.𝟬𝟭.𝟮𝟬 ϟ
+    location: "Greece"
+    followers: 1566
+    engagement: 319690
+    commentsToLikes: 0.165986
+    id: ck137r80bczac0i1948f0yj43
+    verified: false
+    hashtags: "#kiarabrunett, #tiktok, #idolo, #sieteex"
+  - username: "greek_horizons"
+    fullname: >-
+      𝓰𝓻𝓮𝓮𝓴_𝓱𝓸𝓻𝓲𝔃𝓸𝓷𝓼 𝓫𝔂 𝓢𝓽𝓪𝓽𝓱𝓲𝓼
+    bio: >-
+      @stathis__xr 𝔸𝕝𝕝 𝕡𝕙𝕠𝕥𝕠𝕤 𝕒𝕣𝕖 𝕞𝕚𝕟𝕖 📷 •Η Ελλάδα από την δική μου ματιά 🇬🇷 • 𝕋𝕒𝕘📍#greek_horizons For Collaboration Send Dm 📩
+    location: "Greece"
+    followers: 17172
+    engagement: 893
+    commentsToLikes: 0.007564
+    id: ckap72xesien80i787marddnk
+    verified: false
+    hashtags: "#europetravel, #traveleurope, #travelstoke, #europa"
 ---

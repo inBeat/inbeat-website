@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In France In 2023
+title: Top 10 Christian TikTok Influencers In France In 2024
 description: >-
-  Find top christian TikTok influencers in France in 2023. Most popular hashtags: #foryou #pourtoi #humour #fyp.
+  Find top christian TikTok influencers in France in 2024. Most popular hashtags: #foryou #pourtoi #humour #fyp.
 platform: TikTok
 hits: 34
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our database aggregates 34 TikTok influencers like this in France for you to connect with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: inBeat holds 34 TikTok influencers like this in France for you to collaborate.
 profiles:
   - username: "christiantido"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.021423
     id: ck904vg1nelvj0j784mnwr4sk
     verified: false
-    hashtags: "#tuto, #coreedusud, #kpop, #humour"
+    hashtags: "#tuto, #pourtoi, #makeup, #coreedusud"
   - username: "benoit.bezot"
     fullname: >-
       ꧁𝒮𝒾𝓁𝓋𝑔𝓇𝑒𝑒𝓃꧂
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.237077
     id: ckd69kx5v42wg0j238610jlcq
     verified: false
-    hashtags: "#foryou, #pinuplook, #foryoupage, #acting"
+    hashtags: "#lilloise, #pinuplook, #fyp, #foryoupage"
   - username: "mllemilleet1couleurs"
     fullname: >-
       Une fille simple

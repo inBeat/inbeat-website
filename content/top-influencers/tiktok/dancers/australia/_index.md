@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Australia In 2023
+title: Top 10 Dancers TikTok Influencers In Australia In 2024
 description: >-
-  Find top dancers TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #foryoupage #duet #dancer.
+  Find top dancers TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #duet #foryoupage #dancer.
 platform: TikTok
-hits: 83
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our database aggregates 83 TikTok influencers like this in Australia for you to work with.
+hits: 84
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our search engine holds 84 TikTok influencers like this in Australia for you to connect with.
 profiles:
   - username: "tarikfrimpongofficial"
     fullname: >-
@@ -13,24 +13,24 @@ profiles:
     bio: >-
       he/ him ❤️ Actor - Singer - Dancer 😊 Goal: 257BILLION
     location: "Australia"
-    followers: 11800
-    engagement: 1753
-    commentsToLikes: 0.132514
+    followers: 11700
+    engagement: 1613
+    commentsToLikes: 0.125341
     id: ckbf7xzt8y5xd0j23r3a2kg1z
     verified: false
-    hashtags: "#theatrekid, #hamiltonmusical, #marypoppinsreturns, #theatrekidcheck"
+    hashtags: "#hamiltonmusical, #marypoppinsreturns, #marypoppins, #linmanuelmiranda"
   - username: "karenkaprot"
     fullname: >-
       karenkaprot
     bio: >-
       Dancer • Teacher • Naturopath • Bunny Mummy IG: @karenkaprot
     location: "Australia"
-    followers: 16000
-    engagement: 1727
-    commentsToLikes: 0.124419
+    followers: 15800
+    engagement: 1602
+    commentsToLikes: 0.153305
     id: ck9si8xn7xnxc0j78djh3v69c
     verified: false
-    hashtags: "#fyp, #oldiesbutgoodies, #followforfollow, #funny"
+    hashtags: "#over40, #funny, #over45, #oldtiktokers"
   - username: "electrifyskrill"
     fullname: >-
       Skrill501

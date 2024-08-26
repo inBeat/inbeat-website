@@ -1,36 +1,84 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Porto In 2023
+title: Top 10 Fashion Instagram Influencers In Porto In 2024
 description: >-
-  Find top fashion Instagram influencers in Porto in 2023. Most popular hashtags: #fashion #ootd #fashionblogger #photooftheday.
+  Find top fashion Instagram influencers in Porto in 2024. Most popular hashtags: #fashion #ootd #porto #fashionstyle.
 platform: Instagram
-hits: 18
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 18 Instagram influencers like this in Porto, Portugal for you to contact.
+hits: 25
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our platform has 25 Instagram influencers like this in Porto, Portugal for you to contact.
 profiles:
+  - username: "anitadacosta"
+    fullname: >-
+      Anita Da Costa Castanheira
+    bio: >-
+      📍Porto | Portuguese • Fashion, beauty, lifestyle and gorgeous views @cubufitnessboutique
+    location: "Portugal"
+    followers: 268568
+    engagement: 146
+    commentsToLikes: 0.003996
+    id: ck0ub9f3le3pr0i19okrw0b44
+    verified: false
+    hashtags: "#isto, #pub, #nespressocaliforniadream, #assobio"
+  - username: "diogoalmeidacunha"
+    fullname: >-
+      Diogo Cunha
+    bio: >-
+      Lifestyle and fashion Founder @deccer_porto Founder @witech_
+    location: "Portugal"
+    followers: 113601
+    engagement: 83
+    commentsToLikes: 0.098824
+    id: ck5zm3t05lufs0i14g3ls3b2q
+    verified: false
+    hashtags: "#insta, #ootd, #summer, #fashion"
   - username: "alicefcnunes"
     fullname: >-
       Alice Nunes ✨
     bio: >-
-      💄Fashion Enthusiast from Porto 🎓 Social Education Student ✉️ Brands: alicenunes_123@hotmail.com
+      💄Fashion Enthusiast from Porto 🎓 Social Education Student ✉️ Brands: alicenunes_123@hotmail.com Be light on Earth ✨
     location: "Portugal"
-    followers: 7231
-    engagement: 604
-    commentsToLikes: 0.081193
+    followers: 7854
+    engagement: 320
+    commentsToLikes: 0.016310
     id: ck9hc85qyk6z00j78p5eawpc1
     verified: false
-    hashtags: "#portuguesegirl, #porto, #portugal, #igers"
-  - username: "gabrielaxsantos"
+    hashtags: "#fashion, #portuguesegirl, #instamood, #fashionista"
+  - username: "martacyrnecarvalho"
     fullname: >-
-      GABRIELA SANTOS
+      Marta Cyrne Carvalho
     bio: >-
-      My life + style in squares ♡ 23 portugal 💌 gabriela.santos97@outlook.pt
+      Family life 〰️ Mother of 3 Beauty Consultant | Online Skincare Plans Founder of @beautyboxmcc
     location: "Portugal"
-    followers: 13465
-    engagement: 1473
-    commentsToLikes: 0.059922
-    id: ck8tbun49x7wk0j78ufnfzww2
+    followers: 55991
+    engagement: 239
+    commentsToLikes: 0.006716
+    id: ck6u4knjk49al0j7148a8d9r3
     verified: false
-    hashtags: "#blackdress, #blonde, #coimbra, #porto"
+    hashtags: "#beauty, #savills, #matosinhos, #natura"
+  - username: "joaocerqueira30"
+    fullname: >-
+      João Cerqueira
+    bio: >-
+      Fashion & Beauty content creator TikTok (31k): joaocerqueira30 📩 joaocerqueira.30@hotmail.com maysa@wosagency.pt
+    location: "Portugal"
+    followers: 18945
+    engagement: 44
+    commentsToLikes: 0.001839
+    id: ck5zrbvylwaj10i14a03212hr
+    verified: false
+    hashtags: "#photodump, #vlog, #grwmoutfit, #diacomigo"
+  - username: "joanacbcosta"
+    fullname: >-
+      Joana Costa
+    bio: >-
+      lipedema reels | lifestyle | fashion and travel 16/10📍Porto ➝ collabs via e-mail or dm all social media and links here👇🏽
+    location: "Portugal"
+    followers: 88261
+    engagement: 326
+    commentsToLikes: 0.477324
+    id: ckap6c2m9f9gv0i786k2ulw9p
+    verified: false
+    hashtags: "#lipoedemaawareness, #lipedemaawareness, #lipedemaportugal, #lipedemasurgery"
   - username: "sara_nata"
     fullname: >-
       Sara Nata | Fashion•Lifestyle
@@ -42,89 +90,41 @@ profiles:
     commentsToLikes: 0.125359
     id: ck8t4c6ru68o50j784zjtiz1f
     verified: false
-    hashtags: "#fashionista, #sunglasses, #instagood, #styleinspiraton"
-  - username: "joanacbcosta"
+    hashtags: "#mensfashionreview, #ootd, #photooftheday, #instafashion"
+  - username: "steve.zamora"
     fullname: >-
-      Joana Costa
+      Fotógrafo | Steve Zamora |
     bio: >-
-      lifestyle, fashion and travel 16/10📍 Porto ➝ if you stand for nothing you'll fall for anything 🐘 ➝ collabs via e-mail or dm LAST VIDEO HERE 👇🏽❤️
+      "Another crazy person in love with fashion photography."
     location: "Portugal"
-    followers: 61870
-    engagement: 353
-    commentsToLikes: 0.539473
-    id: ckap6c2m9f9gv0i786k2ulw9p
+    followers: 6580
+    engagement: 234
+    commentsToLikes: 0.033318
+    id: ck9h9uzowa2fe0j78pxnmtjh8
     verified: false
-    hashtags: "#falloutfit, #fashion, #outono, #casuallook"
-  - username: "aluisalopes"
+    hashtags: "#fashionstyle, #faded, #photoshoot, #moda"
+  - username: "bruna_danin"
     fullname: >-
-      ＬＵÍＳΛ   ＬＯＰΞＳ
+      Bruna Danin
     bio: >-
-      Trust me I have no idea what I’m doing too ♡ FASHION || COLLEGE || LIFESTYLE 📍Based in Porto, PT 📩 luisamlopes23@gmail.com
+      📷 photo 👗 fashion and lifestyle 📨 DM for collaboration 📩 Brunadanin@hotmail.com @fitnessup_portugal : UP-BRUNADANIN 15€ desc
     location: "Portugal"
-    followers: 18509
-    engagement: 304
-    commentsToLikes: 0.015890
-    id: ck9hbax8tg2qo0j78we79olaj
+    followers: 31785
+    engagement: 210
+    commentsToLikes: 0.020753
+    id: ck5zp7pghs5dl0i14hz9ssf4l
     verified: false
-    hashtags: "#zaraoutfit, #outfitoftheday, #ootdshare, #lookdodiabrasil"
-  - username: "joanavaz_"
+    hashtags: "#fashionstyle, #travelphotography, #lookdodia, #excedyourself"
+  - username: "pinkieloveforever"
     fullname: >-
-      JOANA VAZ
+      Inês Silva | Lifestyle & Travel
     bio: >-
-      • Portuguese • Arch • Blogger • 📍 Porto 📩 info@joanavaz.pt SHOP MY SUNGLASSES COLLECTION HERE 👇
+      📍Porto, Portugal 📎 Master Designer & Pro Makeup Artist 📸 Lifestyle • Travel • Beauty • Food • Fashion Encontra-me Aqui👇🏻
     location: "Portugal"
-    followers: 351000
-    engagement: 411
-    commentsToLikes: 0.011860
-    id: ck0vvzzinrhpl0i19s7rkfmrz
-    verified: true
-    hashtags: "#positano, #fashionstyle, #summer, #travel"
-  - username: "ajoanamaiaa"
-    fullname: >-
-      TRAVEL✨| FASHION✨|LIFESTYLE ✨
-    bio: >-
-      Travel lover 🌿 Fashion Addict 🌺 #sheisnotlost ✨Joana - 18% @soulmia_store Collabs 📩 info@mrstravel.pt Porto, Portugal 📍
-    location: "Portugal"
-    followers: 9479
-    engagement: 659
-    commentsToLikes: 0.128359
-    id: ck14hflt0a2vq0i19iwbux8so
+    followers: 19074
+    engagement: 29
+    commentsToLikes: 0.000000
+    id: ck0w4205xweo30i19lqchjlwe
     verified: false
-    hashtags: "#poolview, #outfitinspo, #traveltheworld, #visitportugal"
-  - username: "rubendaniiel"
-    fullname: >-
-      Rúben Daniel 🇵🇹 🏄🏽‍♂️
-    bio: >-
-      20|Porto📍| 18💛 CEO @desportolowcost._ TIPSTER APOSTAS DESPORTIVAS @tips4real._ 📊 ⬇️ GRUPO APOSTAS GRATUITO ⬇️
-    location: "Portugal"
-    followers: 60048
-    engagement: 239
-    commentsToLikes: 0.298307
-    id: ckap6k8kag7960i78ny2fsi99
-    verified: false
-    hashtags: ""
-  - username: "im.susanasilva"
-    fullname: >-
-      SUSANA SILVA ♡
-    bio: >-
-      Based in Porto, Portugal Embaixadora @fitnessup_portugal • Code UP-SUSANASILVA 5€ Desconto Hawk da @hawkerscrew • Code HC-SUSANASILVA 20% Desconto
-    location: "Portugal"
-    followers: 14331
-    engagement: 306
-    commentsToLikes: 0.080679
-    id: ckaovkl9a4ys60i787iawknf3
-    verified: false
-    hashtags: "#womanpower, #woman, #photoshoot, #womanfashion"
-  - username: "akeilaamorim"
-    fullname: >-
-      Keila Amorim 🌸
-    bio: >-
-      📍Porto/Portugal ✨ 90’s 👨‍👩‍👧‍👦 Mãe de 2 pimpolhos. 👧🏻👦🏻 👄 @keilabeauty 📩 akeilaamorim@outlook.pt
-    location: "Portugal"
-    followers: 17900
-    engagement: 203
-    commentsToLikes: 0.144125
-    id: ck0txfdzaiwel0i19vkfveac1
-    verified: false
-    hashtags: "#apelevivemaisforte, #maedemenino, #5meses, #pub"
+    hashtags: "#tophamburgueria, #viajar, #adulting, #blogdebeleza"
 ---

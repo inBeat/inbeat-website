@@ -1,12 +1,24 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Philadelphia In 2023
+title: Top 10 Vegan Instagram Influencers In Philadelphia In 2024
 description: >-
-  Find top vegan Instagram influencers in Philadelphia in 2023. Most popular hashtags: #vegan #love #reels.
+  Find top vegan Instagram influencers in Philadelphia in 2024. Most popular hashtags: #vegan #philadelphia #model.
 platform: Instagram
-hits: 25
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 25 Instagram influencers like this in Philadelphia, United States for you to work with.
+hits: 24
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 24 Instagram influencers like this in Philadelphia, United States for you to connect with.
 profiles:
+  - username: "phillyvegans"
+    fullname: >-
+      Philly Vegans
+    bio: >-
+      Philadelphia (Based) Vegans ✈️ @poopjoke & @eeerriinn 👫 Powered by Plants 🏃🏻‍♀️🥑🦄 💌: phillyvegans@gmail.com
+    location: "United States"
+    followers: 16399
+    engagement: 161
+    commentsToLikes: 0.031017
+    id: ck6u2r1j7tfhd0j71uyg3bcrx
+    verified: false
+    hashtags: "#ad, #sponsored, #cravemontco, #makeitmontco"
   - username: "hannahforcier"
     fullname: >-
       Hannah Forcier
@@ -19,30 +31,6 @@ profiles:
     id: ck6tryl0u1ti30j71qgn0a9vu
     verified: true
     hashtags: "#wiglife, #goodhairday, #humanhairwig, #hairgoals"
-  - username: "phillyvegans"
-    fullname: >-
-      Philly Vegans
-    bio: >-
-      Philadelphia (Based) Vegans ✈️ @poopjoke & @eeerriinn 👫 Powered by Plants 🏃🏻‍♀️🥑🦄 💌: phillyvegans@gmail.com
-    location: "United States"
-    followers: 16792
-    engagement: 251
-    commentsToLikes: 0.030048
-    id: ck6u2r1j7tfhd0j71uyg3bcrx
-    verified: false
-    hashtags: "#chefskiss, #honeygrow, #ad, #sponsored"
-  - username: "doctorbowl"
-    fullname: >-
-      Divya Sharma | Healthy Recipes
-    bio: >-
-      👩🏽‍🍳Simple, easy, quick and delicious recipes 📸 Content Creator, Recipe developer 👩‍⚕️Doctor - GP 👫Wife to @theradiologistpage 👶🏽Mum to Baby Bowl
-    location: "United States"
-    followers: 72245
-    engagement: 112
-    commentsToLikes: 0.136459
-    id: ck5zua3ix1yzk0i14w4tgqmqj
-    verified: false
-    hashtags: "#veggielover, #vegantreats, #quickdinner, #foodforkids"
   - username: "yash_kothiya_007"
     fullname: >-
       ♛_ʏֆɦ_♛
@@ -55,18 +43,30 @@ profiles:
     id: ckaouk3yw0m4r0i78f9k8o733
     verified: false
     hashtags: "#gainwithspikes, #homedecor, #mallu, #malayalam"
-  - username: "zenisfood"
+  - username: "bryanadams"
     fullname: >-
-      Byron J 🏙 NYC Foodie
+      Bryan Adams
     bio: >-
-      Part-Time photographer/musician @zenifmusic Full-Time creator 🇺🇸🇹🇼 | 📍: Taiwan 📨 Email/DM for collab! 📸 #lumix s1R G9 🥩 @crowdcow ambassador
+      Rocker / vegan 🌱 / new albums: Classic 1&2, “PrettyWoman - The Musical, and “So Happy It Hurts”. Touring the USA this summer.
     location: "United States"
-    followers: 11169
-    engagement: 644
-    commentsToLikes: 0.042263
-    id: ck6tpkxalkg3a0j71w3ngeo1m
+    followers: 1105827
+    engagement: 269
+    commentsToLikes: 0.030113
+    id: ck0ubtlobfeb70i197fog5la9
+    verified: true
+    hashtags: "#peacenow, #peachesthepotcake, #bryanadamssohappyithurts, #pirellicalendar"
+  - username: "stew.be.cue"
+    fullname: >-
+      Stew.be.cue
+    bio: >-
+      Chris Dad 👧🏼 👧🏼 plumber🚽🪠BBQ 🔥🔥 Keto-ish 250-175 Philadelphia, PA Stew.be.cue@gmail.com DM for collab
+    location: "United States"
+    followers: 6967
+    engagement: 219
+    commentsToLikes: 0.107943
+    id: ck5znj1aaokcq0i14tmp0zy2a
     verified: false
-    hashtags: "#nycfoodie, #noodleworship, #homecooking, #spikedlatte"
+    hashtags: "#sandwiches, #pork, #steakdinner, #eatlocal"
   - username: "d_r_hildebrand"
     fullname: >-
       David Raphael Hildebrand
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.030962
     id: ck5zqwb9kvf5n0i14boitpp94
     verified: false
-    hashtags: "#runningstreak, #plantbasedathlete, #soulrunning, #distancerunning"
+    hashtags: "#streaking, #hoboken, #veganendurance, #vegan"
   - username: "shaylynnedwards"
     fullname: >-
       Shay Edwards
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.033622
     id: ck55klzwezmq90i112lqh2ibz
     verified: false
-    hashtags: "#londontattoo, #njtattoo, #newyorktattoo, #botanicaltattoo"
+    hashtags: "#fruittattoo, #torontotattooartists, #tattooideasforgirls, #naturetattoo"
 ---

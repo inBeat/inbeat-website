@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Barcelona In 2023
+title: Top 10 Fashion Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top fashion Instagram influencers in Barcelona in 2023. Most popular hashtags: #fashion #barcelona #model #love.
+  Find top fashion Instagram influencers in Barcelona in 2024. Most popular hashtags: #barcelona #fashion #spain #photography.
 platform: Instagram
-hits: 144
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our database has 144 Instagram influencers like this in Barcelona, Spain for you to pitch.
+hits: 193
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 193 Instagram influencers like this in Barcelona, Spain for you to connect with.
 profiles:
   - username: "yasmineerosee"
     fullname: >-
@@ -19,66 +19,66 @@ profiles:
     id: ck15ugw82n4kc0i19n3o549u1
     verified: false
     hashtags: "#cuarentena, #spain, #desiculture, #travelgram"
-  - username: "danirull.official"
-    fullname: >-
-      danielrull
-    bio: >-
-      HAIR & MAKEUP ARTIST / DIOR / CREATIVE DIRECTOR / CASTING DIRECTOR Barcelona/Zurich
-    location: "Spain"
-    followers: 19043
-    engagement: 368
-    commentsToLikes: 0.095710
-    id: ck0w0ii8tedh20i19eb5soii8
-    verified: false
-    hashtags: "#hairstyle, #instafashion, #fashionblogger, #production"
-  - username: "victorlorente"
-    fullname: >-
-      Víctor Lorente
-    bio: >-
-      #Madrid📍 (MA) @masqmodacanarias @trafficmodels 🇪🇸 @modelwerk 🇩🇪 @ilovemodelsmngt 🇮🇹 - contact: vlorente6@gmail.com
-    location: "Spain"
-    followers: 19490
-    engagement: 185
-    commentsToLikes: 0.029281
-    id: ckap354os1lr60i7883mt1rlp
-    verified: false
-    hashtags: "#fashion, #barcelona, #tb, #model"
   - username: "madeinvideo"
     fullname: >-
-      Destination wedding Filmmakers
+      Luxury Destination Wedding Filmmakers
     bio: >-
-      🎥 Couple & creative team 👫 Jonas&Esther 📍From Mallorca to the 🌍 📃info@madeinvideo.es 2021: Venice/ Florence/Gibraltar/Santorini/Amalfi/Miami
+      🎥 Jonas + Esther / Couple & creative team 📍Based in Mallorca 🇪🇦 Available Worldwide 🌍 🌍 Next Destination weddings: 🇮🇹🇨🇵🇬🇷🇬🇧🇲🇦🇺🇲 📃info@madeinvideo.es
     location: "Spain"
-    followers: 11432
-    engagement: 341
-    commentsToLikes: 0.139225
+    followers: 12931
+    engagement: 259
+    commentsToLikes: 0.100969
     id: ck0vw0remrlbq0i190kon7770
     verified: false
-    hashtags: "#weddingfilm, #destinationweddingplanner, #weddingphotographer, #spainwedding"
-  - username: "marynacanalda"
+    hashtags: "#tuscanywedding, #mallorcaweddingplanner, #glamourwedding, #italywedding"
+  - username: "miss_style.88"
     fullname: >-
-      
+      🌸 MONICA🌸
     bio: >-
-      ❤Made in Ukraine ♡Barcelona 📍España 📩Colab: marcan8585@gmail.com 🗨Castellano, ruso
+      LIFESTYLE / FASHION 〰️#wolfiesstyle 📍Granollers-Barcelona “No te pongas límites, ponte guapa”
     location: "Spain"
-    followers: 10587
-    engagement: 401
-    commentsToLikes: 0.046368
-    id: ck8tdtu114qvq0j788gryynpq
+    followers: 9525
+    engagement: 737
+    commentsToLikes: 0.096688
+    id: ck5zt5abpzrfw0i14rrllevew
     verified: false
-    hashtags: "#paisajes, #sunset, #mar, #like"
-  - username: "ipmoreno"
+    hashtags: "#summervibes, #me, #ootdfashion, #styleinspiration"
+  - username: "jonna_wester"
     fullname: >-
-      ɪsᴀᴀᴄ ᴍᴏʀᴇɴᴏ
+      Jonna Wester
     bio: >-
-      🏝ⒺⓃⒺⓇⒾⒻⒺ👦🏼 🇮🇨 @masqmodacanarias [MA] 🇺🇸 @elitemiami •ᴍɪᴀ 🇺🇸 @statemgmt •ʟᴀ•ɴʏ 🇪🇸 @youmodelsmngt •ᴍᴀᴅ•ʙᴄɴ 🇮🇹 @dmanagementgroup •ᴍɪʟ 🇲🇽 @quetarojas •ᴍᴇx
+      Swedish📍Barcelona Fashion | Elegance | High Heels 👠 Collaboration 📩 jonna.wester@icloud.com
     location: "Spain"
-    followers: 23902
-    engagement: 1728
-    commentsToLikes: 0.049458
-    id: ck6u87urbpxto0j71rxi2wge3
+    followers: 107566
+    engagement: 747
+    commentsToLikes: 0.359781
+    id: cl9k31ueaiysq0i239ne590st
     verified: false
-    hashtags: "#fitness, #newcampaign, #modelphotography, #shoot"
+    hashtags: "#style, #beautifullegs, #highheelslover, #minidress"
+  - username: "museecoco"
+    fullname: >-
+      museecoco • content creator
+    bio: >-
+      Barcelona • fashion, food, beauty & lifestyle ✉️ museecocobluebell@gmail.com 🧸 Tiktok: museecoco ☆ 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 (+100k)
+    location: "Spain"
+    followers: 18330
+    engagement: 4
+    commentsToLikes: 0.000000
+    id: ck5cayc58ed2d0i11ziatqdy4
+    verified: false
+    hashtags: "#probandocomida, #probandorestaurantes, #planesbarcelona, #restaurantesbarcelona"
+  - username: "tania.rdg"
+    fullname: >-
+      TANIA RODRÍGUEZ AGUILERA
+    bio: >-
+      Luxury Real Estate Broker @dcanorealestate_agency Marketing & Events @etereagence
+    location: "Spain"
+    followers: 10915
+    engagement: 378
+    commentsToLikes: 0.095505
+    id: ck5hr3uo2u7ys0i11ntw0a7bv
+    verified: false
+    hashtags: "#fitnessaddict, #fit, #muscle, #fitnessmodel"
   - username: "liahbk"
     fullname: >-
       Lia
@@ -115,16 +115,16 @@ profiles:
     id: ck5q0pg2f742h0i11rnkixjcq
     verified: false
     hashtags: "#modellife, #barcelona, #fashion, #love"
-  - username: "mironbococi"
+  - username: "toni_alarcon_bello"
     fullname: >-
-      Miron Bococi
+      Toni Alarcón Bello
     bio: >-
-      ❤Horses ❤@eleena_ng
+      🏊🏽‍♂️🚴‍♂️🏃🏻‍♂️#sportlover 🛫 #travelblogger 👕 #lifestyle 🔹Finisher 3 IM / 13 Half IM ⌚️ @polarspain 📍Granollers 📩 info.tonialarconbello@gmail.com
     location: "Spain"
-    followers: 17937
-    engagement: 660
-    commentsToLikes: 0.026628
-    id: ck6u3l432yep60j71j36akepa
+    followers: 49661
+    engagement: 483
+    commentsToLikes: 0.038734
+    id: ck5herjlyuf2y0i11tlrcprqa
     verified: false
-    hashtags: "#horse, #equine, #nature, #horselove"
+    hashtags: "#runningmotivation, #inspiration, #baleares, #ciclismo"
 ---

@@ -1,24 +1,24 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Berlin In 2023
+title: Top 10 Athletes Instagram Influencers In Berlin In 2024
 description: >-
-  Find top athletes Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #athlete #running #training.
+  Find top athletes Instagram influencers in Berlin in 2024. Most popular hashtags: #athlete #berlin #training #olympics.
 platform: Instagram
-hits: 39
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 39 Instagram influencers like this in Berlin, Germany for you to contact.
+hits: 54
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 54 Instagram influencers like this in Berlin, Germany for you to work with.
 profiles:
-  - username: "elena_krawzow"
+  - username: "bgirljilou"
     fullname: >-
-      Elena Krawzow
+      Jilou
     bio: >-
-      #teamkrawzow 💼 management: info@hd-swim.de 🏊🏼‍♀️ paralympic swimmer 🌍 world champion & world record holder 🇩🇪 berliner schwimmteam
+      @nike sponsored athlete 2x 🥉World championships ‘21 ‘19 2x 🥇Red Bull BC One 🇩🇪 ‘23 ‘21 2x 🥇German champ ‘23 ‘21 Nike WAYWO x Jilou
     location: "Germany"
-    followers: 32541
-    engagement: 345
-    commentsToLikes: 0.032210
-    id: ck6tnfiah9qih0j71n6cqcu46
+    followers: 102824
+    engagement: 265
+    commentsToLikes: 0.022115
+    id: ck138e9lnftb40i19fj56b7fi
     verified: false
-    hashtags: "#paraswimming, #swimsuit, #turkey, #paralympics"
+    hashtags: "#dancer, #bgirl, #dedication, #jilou"
   - username: "eric.muehle"
     fullname: >-
       sports photographer for life
@@ -31,30 +31,18 @@ profiles:
     id: ckaowsgw9a8zr0i78jelzi1st
     verified: false
     hashtags: "#gymnastics, #corona, #fitfamgermany, #running"
-  - username: "shareenqueen"
+  - username: "sandra_ittlinger"
     fullname: >-
-      S H A R E E N
+      Sandra Ittlinger
     bio: >-
-      Vehicle Engineering Student - BabyBenz Driver ⠀⠀⠀  I am 24 years old and I have no intention of ⠀   ⠀⠀ ⠀⠀⠀⠀  ⠀⠀  slowing down.
+      🏐 Beach Volleyball Athlete for Team GER @behrensittlinger 👩🏼‍🎓 Psychology Graduate 📍 Berlin / The Hague
     location: "Germany"
-    followers: 62131
-    engagement: 760
-    commentsToLikes: 0.030150
-    id: ck0vx4ghgx3jj0i190w32iork
-    verified: false
-    hashtags: "#fitness, #cars, #mercedesamg, #oldschool"
-  - username: "mariuskusch"
-    fullname: >-
-      Marius Kusch
-    bio: >-
-      ▪️ Olympic Swimmer 🇩🇪-> Tokyo 2021 ▪️ World Championship Medalist ▪️ European Champion ▪️business inquiries mkswim93@gmail.com
-    location: "Germany"
-    followers: 55414
-    engagement: 2473
-    commentsToLikes: 0.007175
-    id: ck138ie0kgd5k0i19aa0jfc80
-    verified: false
-    hashtags: "#water, #reels, #underwater, #training"
+    followers: 17763
+    engagement: 1081
+    commentsToLikes: 0.017692
+    id: ck5hrge7duu5a0i11tnshfc30
+    verified: true
+    hashtags: "#beachvolleyball, #team, #summer, #tournament"
   - username: "yul_oeltze"
     fullname: >-
       ⓎⓊⓁ ⓄⒺⓁⓉⓏⒺ
@@ -67,6 +55,18 @@ profiles:
     id: ck5chndxar3o80i113smsylgm
     verified: false
     hashtags: "#sport, #couplegoals, #training, #foodspring"
+  - username: "elena_krawzow"
+    fullname: >-
+      Elena Krawzow
+    bio: >-
+      #teamkrawzow 💼 management: info@hd-swim.de 🏊🏼‍♀️ paralympic swimmer 🌍 world champion & world record holder 🇩🇪 berliner schwimmteam
+    location: "Germany"
+    followers: 32541
+    engagement: 345
+    commentsToLikes: 0.032210
+    id: ck6tnfiah9qih0j71n6cqcu46
+    verified: false
+    hashtags: "#athlete, #trainingcamp, #trainingslager, #swimmergirl"
   - username: "__julianweber__"
     fullname: >-
       Julian Weber
@@ -90,7 +90,19 @@ profiles:
     commentsToLikes: 0.022348
     id: ck0u94i3e8ysw0i19uqfz4v8o
     verified: false
-    hashtags: "#cantstopher, #teamlisa, #adidas, #dreambig"
+    hashtags: "#teamlisa, #roadtotokyo, #tokyo2020ne, #adidas"
+  - username: "kevin_kuske"
+    fullname: >-
+      KEᐯIᑎ KᑌᔕKE
+    bio: >-
+      TᖇᗩIᑎEᖇ 🏋🏽 ᗩTᕼᒪETIᑕ ᑕOᗩᑕᕼ ᗷOᗷᔕᑭOᖇT 🏃🏽🇩🇪 🥇4 x ᏫᒪᎩᗰᑭiᑕ ᑕᕼᗩᗰᑭισᑎ 🥈2 x ᏫᒪᎩᗰᑭiᑕ ᗰᏋᎴᎯᒪ 🏆7 x ᗯOᖇᒪᗪ ᑕᕼᗩᗰᑭIOᑎ 🔥ᐯ OᒪYᗰᑭIᑕ GᗩᗰEᔕ🌿 💊 ᖇEᗩᒪ ᔕᑌᑭᑭᔕ ᗯIᑎᑎEᖇᔕᖴOOᗪ 🔒👨‍👩‍👦
+    location: "Germany"
+    followers: 14215
+    engagement: 407
+    commentsToLikes: 0.000638
+    id: ck5hclmdmipgx0i111kio4m57
+    verified: true
+    hashtags: "#olympicchampion, #olympia, #oly, #olylegend"
   - username: "fotorunners.es"
     fullname: >-
       Fotorunners
@@ -103,28 +115,16 @@ profiles:
     id: ck14h0giq7xbf0i19fmd5m70o
     verified: false
     hashtags: "#polevault, #athletics, #trackandfield, #atletismo"
-  - username: "franziskaschoebel"
+  - username: "lara_lessmann"
     fullname: >-
-      FRANZI | RUNNING + LIFTING
+      Lara Lessmann
     bio: >-
-      🏃🏽‍♀️ 10km 46:25 🦈 @gymshark athlete 🌱 @foodspring | Code FranziFSG ✉️ franziska@fyndafit.com https://sneakerhoodcom.wordpress.com/impressum/
+      BMX athlete🌍🌴 23yo follow your dreams ☾ |olympian WC:3x🥇4x🥈3x🥉WORLDS🥈EC: 2x🥈 @redbullgermany @vans_europe @oakley @totalbmx @ridetsg @kunstformbmxshop
     location: "Germany"
-    followers: 88165
-    engagement: 481
-    commentsToLikes: 0.011068
-    id: ck8t4by5d67nq0j780jw0qz7d
+    followers: 94219
+    engagement: 815
+    commentsToLikes: 0.011305
+    id: ck0u8lcq07mx10i19iize428i
     verified: false
-    hashtags: "#running, #berlin, #runninggirl, #gymshark"
-  - username: "theo_penkala"
-    fullname: >-
-      THEO PENKALA
-    bio: >-
-      PERSONAL TRAINER | ATHLETE | COACH less human, more being 🙏🏼 📍 Berlin 📸 @thijography
-    location: "Germany"
-    followers: 13279
-    engagement: 661
-    commentsToLikes: 0.064210
-    id: ckap4gq457b0l0i78r18coxvi
-    verified: false
-    hashtags: "#stephenhawking, #theydontreallycareaboutus, #ad, #amazfitgts2"
+    hashtags: "#bmxgirl, #bmx, #olympics, #bmxfreestyle"
 ---

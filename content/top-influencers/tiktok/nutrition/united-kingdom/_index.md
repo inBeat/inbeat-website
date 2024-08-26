@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In United Kingdom In 2023
+title: Top 10 Nutrition TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top nutrition TikTok influencers in United Kingdom in 2023. Most popular hashtags: #nutrition #weightloss #nutritionist #fitness.
+  Find top nutrition TikTok influencers in United Kingdom in 2024. Most popular hashtags: #nutrition #weightloss #nutritionist #fyp.
 platform: TikTok
-hits: 35
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our database aggregates 35 TikTok influencers like this in United Kingdom for you to pitch.
+hits: 36
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our database has 36 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
   - username: "lukehannanutrition"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.052968
     id: ckb9bfyekxkc80j23fqp1zi8u
     verified: false
-    hashtags: "#nutritionfacts, #nutritiontips, #howtolosefat, #fitnessfacts"
+    hashtags: "#fitnessfacts, #nutritionist, #stitch, #nutritiontips"
   - username: "theimperfectnutritionist"
     fullname: >-
       Jennifer Medhurst
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.060584
     id: ck9844lzrn0010j78stjuo5aq
     verified: false
-    hashtags: "#asktheexpert, #health, #asktheaudience, #healthyrecipes"
+    hashtags: "#nutrition, #healthybreakfastrecipe, #healthysaladrecipes, #healthyrecipes"
   - username: "david.birtwistle"
     fullname: >-
       David Birtwistle
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.012572
     id: ck8ae8m4sasoc0j78xr0n0vfx
     verified: false
-    hashtags: "#toohottohandle, #react, #fitness, #tiktokfitness"
+    hashtags: "#react, #toohottohandle, #duet, #tiktokfitness"
   - username: "aylishrutherford"
     fullname: >-
       Aylish Rutherford

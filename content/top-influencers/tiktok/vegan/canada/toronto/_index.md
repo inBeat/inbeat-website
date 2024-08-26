@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Toronto In 2023
+title: Top 10 Vegan TikTok Influencers In Toronto In 2024
 description: >-
-  Find top vegan TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #vegan #foryou #foryoupage.
+  Find top vegan TikTok influencers in Toronto in 2024. Most popular hashtags: #fyp #vegan #foryou #foryoupage.
 platform: TikTok
 hits: 6
 text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: inBeat holds 6 TikTok influencers like this in Toronto, Canada for you to pitch.
+text_bottom: Our platform holds 6 TikTok influencers like this in Toronto, Canada for you to work with.
 profiles:
   - username: "blogto"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.085221
     id: ck8hphkjazhze0j78slf7i6rc
     verified: false
-    hashtags: "#fyp, #tiktoktravel, #gymnastics, #mykonos"
+    hashtags: "#japan, #fyp, #sunset, #travel"
   - username: "olgaunleashed"
     fullname: >-
       OLGA the ORIGINAL
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.024391
     id: ck9flnmg3oym90j78vbbeqmpq
     verified: false
-    hashtags: "#dating, #easterneuropean, #comedy, #momsbelike"
+    hashtags: "#russian, #balkan, #fyp, #friendlyfuture"
   - username: "tania_heath"
     fullname: >-
       Tania Heath
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.023828
     id: ckbl76zw44zl80j23em4x9ron
     verified: false
-    hashtags: "#smoothie, #fitness, #beach, #man"
+    hashtags: "#workout, #smoothie, #beach, #man"
   - username: "jasonfonger"
     fullname: >-
       Jason Fonger

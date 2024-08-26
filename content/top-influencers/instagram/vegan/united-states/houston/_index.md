@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Houston In 2023
+title: Top 10 Vegan Instagram Influencers In Houston In 2024
 description: >-
-  Find top vegan Instagram influencers in Houston in 2023. Most popular hashtags: #vegan #houston #veganfood #houstonblogger.
+  Find top vegan Instagram influencers in Houston in 2024. Most popular hashtags: #vegan #veganfood #veganrecipes #houston.
 platform: Instagram
-hits: 32
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 32 Instagram influencers like this in Houston, United States for you to contact.
+hits: 50
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 50 Instagram influencers like this in Houston, United States for you to work with.
 profiles:
   - username: "nidhinikhil"
     fullname: >-
@@ -18,55 +18,43 @@ profiles:
     commentsToLikes: 0.059933
     id: ck6ub8yjw86km0j71hoxyhadr
     verified: false
-    hashtags: "#veganrecipes, #houstonfoodblogger, #vegan, #sourdoughbread"
-  - username: "eatingwithcatherine"
+    hashtags: "#sourdoughbread, #artisanbread, #vegan, #houstonfoodblogger"
+  - username: "nomswithnoor"
     fullname: >-
-      Catherine | Houston Food Blog
+      Noor | Houston & PHX Food + Lifestyle
     bio: >-
-      📍 Houston Blogger 🍔 The only thing I like better than talking about food is eating food 😋 📸 Restaurant Social Media Manager 👗@livingwithcatherine
+      🇯🇴 ✨ noms + lifestyle (& lots of ☕️) 👩‍💻 brand manager 🐾 UH alum | 🐯 @northwesternu grad 💜 📍 houston & phoenix 💍 bride-to-be 💌: nomswithnoor@gmail.com
     location: "United States"
-    followers: 40389
-    engagement: 297
-    commentsToLikes: 0.349163
-    id: ck0u2g037zuwd0i19goxckz5k
+    followers: 10126
+    engagement: 580
+    commentsToLikes: 0.232039
+    id: ck13ano71r9y60i19zm730ad5
     verified: false
-    hashtags: "#tacosarelife, #houstonfoodblogger, #tacotuesday, #houstonfoodies"
-  - username: "be_leaf_vegan"
+    hashtags: "#phoenix, #houston, #phxfood, #az"
+  - username: "vegancommunity"
     fullname: >-
-      Be Leaf
+      Vegan Community join us!
     bio: >-
-      Vegan wholesale company of delicious plant-based products made from natural Ingredients. 📸Tag us in your posts for daily features! #be_leaf_vegan
+      The largest community of vegans from all over the world Inspiration🌎Guide🌱Recipes🐶 Tips Enquirers infovegancommunity@gmail.com #vegancommunity
     location: "United States"
-    followers: 25577
-    engagement: 90
-    commentsToLikes: 0.021131
-    id: ck5zjaegch8nq0i14ar7qwyc1
+    followers: 848215
+    engagement: 56
+    commentsToLikes: 0.048902
+    id: ckmw1bqlp61au0j23tth1lgix
     verified: false
-    hashtags: "#plantsofinstagram, #veganbaconcheeseburger, #eeeeeats, #veganfood"
-  - username: "tarik_rever"
+    hashtags: "#vegans, #vegancommunity, #veganlife, #veganfood"
+  - username: "mike_shaw5"
     fullname: >-
-      Tarik Rever
+      Mike Shaw
     bio: >-
-      Them/They Official IG of Tarik Rêver. Singer songwriter. Spokesperson for Social Bleu. Model, equal rights activist, inventor for the disabled. VEGAN
+      •Email or DM For Collabs‼️ •Marketing •Videography & Photography #atlanta #newyork #losangeles #texas
     location: "United States"
-    followers: 183618
-    engagement: 400
-    commentsToLikes: 0.051024
-    id: ck13daddl4gmo0i19nq12223x
+    followers: 48738
+    engagement: 159
+    commentsToLikes: 0.070999
+    id: ck5zuhtos2dtb0i14caf6r2r3
     verified: false
-    hashtags: "#alt, #kawaii, #vampire, #artist"
-  - username: "love.always.alex"
-    fullname: >-
-      Alex | Love Always, Alex
-    bio: >-
-      📍HTX | #PetiteFashion (5’) & #GlutenFree Lifestyle 🏙Marketing Coordinator by day, #Blogger by night 💌 alex@lovealwaysalex.com
-    location: "United States"
-    followers: 5158
-    engagement: 475
-    commentsToLikes: 0.145239
-    id: ck8t4fguu6llz0j78zetm4s1q
-    verified: false
-    hashtags: "#christmas, #lifestyleblogger, #houston, #winteroutfit"
+    hashtags: "#atlantarestaurants, #atlfoodblogger, #atlantafood, #atlantastyle"
   - username: "tinashealthyworld"
     fullname: >-
       Valentina Zakaria
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.022913
     id: ck0txokudjwij0i19vjo0rpjx
     verified: false
-    hashtags: "#plantbasedfood, #healthyfoodie, #healthydinner, #nutritiousanddelicious"
+    hashtags: "#quickmeals, #easyrecipe, #mealprepping, #healthyeats"
   - username: "zoelhote"
     fullname: >-
       Zoe 🇫🇷🇺🇸🇰🇷
@@ -91,40 +79,52 @@ profiles:
     id: ck5zwl80b6bk90i14gpsap9n1
     verified: false
     hashtags: "#reunionisland, #blacklivesmatter"
-  - username: "jazz.elle"
+  - username: "you_had_me_at_halal"
     fullname: >-
-      Jasmine Leatrice
+      Mir | Halal Foodie | Houston, Dallas, & Beyond!
     bio: >-
-      Vegan | Avid Reader | 6’1 Stallion | Owner of @teapleasetea, the best damn flavored tea you’ve been craving. 📍HTX
+      📍HTX & DFW The best in HALAL Food in Texas and beyond! Founder: @houstonhalalfest @houstonmuslimmarket 📩 DM for Collabs
     location: "United States"
-    followers: 7043
-    engagement: 237
-    commentsToLikes: 0.080646
-    id: ck135b2250lpp0i19belx4x4d
+    followers: 66529
+    engagement: 81
+    commentsToLikes: 0.171891
+    id: ckmw1hf2q83i10j23vu7ut770
     verified: false
-    hashtags: "#plantbasedsistas, #tea, #plantbased, #blackvegans"
-  - username: "mike_shaw5"
+    hashtags: "#houston, #foodforfoodies, #houstonhalal, #houstonfoodtrucks"
+  - username: "jasminerdh"
     fullname: >-
-      Mike Shaw 🍽🔌
+      Jasmine Williams, RDH, BSDH, MHA
     bio: >-
-      •Email or DM For Collabs‼️ •Food Influencer 🍽 •Travel 🧳 🛩 •Sneakers 🤴🏾 •Podcast: Dope Out The DormRoom Mike Doesn’t Run This Account
+      Registered Dental Hygienist | Houston📍 Health • Wellness • Lifestyle Personal: @JasminesDailyLifestyle Dental Products I Use⤵️
     location: "United States"
-    followers: 42881
-    engagement: 213
-    commentsToLikes: 0.077933
-    id: ck5zuhtos2dtb0i14caf6r2r3
+    followers: 169394
+    engagement: 680
+    commentsToLikes: 0.138896
+    id: ck8wgldpvhku30j78qdp4u1ya
     verified: false
-    hashtags: "#atlantafoodbloger, #atlantafoodielife, #atlantafoodie, #atlfoodblogger"
-  - username: "paolamena14"
+    hashtags: "#dentaltips, #oralhealth, #healthtips, #healthylifestyle"
+  - username: "fullyrawkristina"
     fullname: >-
-      Paola Mena
+      Kristina Carrillo-Bucaram
     bio: >-
-      Mexico City. Houston. ☆ overdressed and unbothered ☆ Tik tok @paolamena14 (10k+) ☆ Shop @sheinofficial with code 21paolamena for 15% OFF
+      🇪🇨🇱🇧 Ecuadorian Lebanese 🍉 #FullyRaw #Vegan 18 Years 🌱 Growing a Fruit Orchard in Hawaii 🌟 My Online Programs & Recipe App: 🐛🦋 Health, Healing, & Love
     location: "United States"
-    followers: 11240
-    engagement: 722
-    commentsToLikes: 0.115997
-    id: ck5q9rdrmclgh0i11kvhqnp9g
+    followers: 1095178
+    engagement: 160
+    commentsToLikes: 0.044355
+    id: ck137dfhsazqp0i19vuwm5835
+    verified: true
+    hashtags: "#birthday, #vegansofig, #juicerecipe, #weightloss"
+  - username: "tasting.thyme"
+    fullname: >-
+      Florence Stanton ✨ Easy Baking Recipes
+    bio: >-
+      Florence🇬🇧English girl in Houston, TX🇺🇸 Easy baking recipes, zero mention of calories✨ Order Part-Time Baker👇📒 💌Florence@socialmediacollabs.com
+    location: "United States"
+    followers: 120553
+    engagement: 124
+    commentsToLikes: 0.104973
+    id: clibdamabw2z20j08dw9pdqzq
     verified: false
-    hashtags: "#stellaartois, #ad, #houston, #htx"
+    hashtags: "#baking, #ad, #recipe, #thebakefeed"
 ---

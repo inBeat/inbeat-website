@@ -1,36 +1,36 @@
 ---
-title: Top 10 Health Instagram Influencers In Sydney In 2023
+title: Top 10 Health Instagram Influencers In Sydney In 2024
 description: >-
-  Find top health Instagram influencers in Sydney in 2023. Most popular hashtags: #gym #fitness #sydney #health.
+  Find top health Instagram influencers in Sydney in 2024. Most popular hashtags: #health #sydney #fitness #gym.
 platform: Instagram
-hits: 48
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 48 Instagram influencers like this in Sydney, Australia for you to connect with.
+hits: 75
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 75 Instagram influencers like this in Sydney, Australia for you to connect with.
 profiles:
-  - username: "tillyjacsmith"
+  - username: "doctor_karl"
     fullname: >-
-      Tilly Smith ✨
+      Dr Karl Kruszelnicki
     bio: >-
-      Now in Sydney Mental health 🙏 Model - @scoopmanagement @chic_brisbane @newyorkmodelsdirect Social - @maxconnectors 🐝 Ambassador - @kai_yoga_mosman 🧘
+      Australian science broadcaster & author Dr Karl Kruszelnicki: “The Rule used to be 'f8, Kodachrome and Be There'. Now it's just 'Be There'.”
     location: "Australia"
-    followers: 78076
-    engagement: 162
-    commentsToLikes: 0.022568
-    id: ck0tuasak6d8v0i19y86vgcd7
+    followers: 111526
+    engagement: 153
+    commentsToLikes: 0.040545
+    id: ck8szohw3p55p0j78solpsavj
     verified: false
-    hashtags: "#minenssey, #fragrance, #minebyminenssey, #mermaid"
-  - username: "benjiaus"
+    hashtags: "#geekprideday, #turbiditycurrent, #michaeljordan, #greatestmomentsinscience"
+  - username: "kellympreston"
     fullname: >-
-      BENJI
+      Kelly Preston
     bio: >-
-      Made in #AU 🇦🇺 We’re all just floating through space 🪐
+      🏋🏻‍♀️ EHP Labs - Discount code: KMP10 📥 contact@kellympreston.com 📍 Sydney 🇦🇺 🎓 UNSW B.I.Arch (Hons), 🎓 M.P.D 💪🏼 Fitness | 🍔 Food | 💋 Beauty
     location: "Australia"
-    followers: 75039
-    engagement: 248
-    commentsToLikes: 0.012158
-    id: ck600jxzwdqot0i14r8pcaybv
+    followers: 160384
+    engagement: 503
+    commentsToLikes: 0.028158
+    id: ck0u1bzaxwhw00i199j4biujl
     verified: false
-    hashtags: "#southernhighlands, #sunset, #gym, #eggsfordays"
+    hashtags: "#fitspo, #abs, #gains, #fitnessmotivation"
   - username: "helenasauzier"
     fullname: >-
       Helena Sauzier
@@ -43,18 +43,6 @@ profiles:
     id: ck5qaw04diji00i11jz9sz3wy
     verified: true
     hashtags: "#amazonaustralia, #christmasshop, #ad, #stircreativity"
-  - username: "iamshimakhosravi"
-    fullname: >-
-      shima khosravi
-    bio: >-
-      Model, Actress, Stylist, Makeup artist,📍SYDNEY.🇭🇲 @shimakhosravimua @stylebyshima
-    location: "Australia"
-    followers: 16116
-    engagement: 230
-    commentsToLikes: 0.134970
-    id: ck6tq2ll0p2040j71ojmm7o19
-    verified: false
-    hashtags: "#makeuplook, #beauty, #photoshoot, #beautiful"
   - username: "taizetaylor"
     fullname: >-
       Taize Taylor
@@ -67,18 +55,30 @@ profiles:
     id: ck8tcl5xfzsg40j78fl21o903
     verified: false
     hashtags: "#gym, #muscle, #gaysydney, #summer"
-  - username: "hannah.banana182"
+  - username: "benjiaus"
     fullname: >-
-      H A N N A H // vegan foodie 🌱
+      BENJI
     bio: >-
-      📍Cronulla, Sydney 🦋 Anti-diet 💛 Mental Health Advocate 💌 contact@vivemanagement.com.au ❤️ @macr0mike amb-han
+      Made in #AU 🇦🇺 We’re all just floating through space 🪐
     location: "Australia"
-    followers: 30808
-    engagement: 296
-    commentsToLikes: 0.113506
-    id: ck8ta008lpypk0j783602ryw5
+    followers: 71908
+    engagement: 153
+    commentsToLikes: 0.007482
+    id: ck600jxzwdqot0i14r8pcaybv
     verified: false
-    hashtags: "#biscoffspread, #veganmugcake, #edwarrior, #easyveganrecipes"
+    hashtags: "#southernhighlands, #photoshoot, #gym, #menswear"
+  - username: "jesspandaaa"
+    fullname: >-
+      jess pan ♡
+    bio: >-
+      🇦🇺 sydney | cute fits, fun adventures & mental health ☀️ live passionately & let your authentic self shine ✧ 💌 jessicapan97@gmail.com
+    location: "Australia"
+    followers: 10250
+    engagement: 91
+    commentsToLikes: 0.000000
+    id: ckap0gme6q6x40i78i08p800i
+    verified: false
+    hashtags: "#styleinspo, #pinterestinspired, #outfitboard, #microinfluencer"
   - username: "jessnugent1"
     fullname: >-
       Jess Nugent #CreateTheGood
@@ -91,40 +91,40 @@ profiles:
     id: ck6ugskt34x4r0j71i87xr1kv
     verified: false
     hashtags: "#createthegood, #lightworker, #mentalhealth, #ootd"
-  - username: "kellympreston"
+  - username: "mybodiclinics"
     fullname: >-
-      Kelly Preston
+      mybodi clinics
     bio: >-
-      🏋🏻‍♀️ EHP Labs - Discount code: KMP10 📥 contact@kellympreston.com 📍 Sydney 🇦🇺 🎓 UNSW B.I.Arch (Hons), 🎓 M.P.D 💪🏼 Fitness | 🍔 Food | 💋 Beauty
+      The Contouring Experts 🔵 Free Trial EMSELLA 🔵 Fat Reduction & Skin Tightening 🔵 NEW 11D HIFU 🔵 Non-surgical Facelift 🔵 Randwick & Hurstville
     location: "Australia"
-    followers: 160384
-    engagement: 503
-    commentsToLikes: 0.028158
-    id: ck0u1bzaxwhw00i199j4biujl
+    followers: 3662
+    engagement: 174
+    commentsToLikes: 0.107720
+    id: clto0wk2xne1a0k08qvpy88pu
     verified: false
-    hashtags: "#fit, #bodyinspo, #hairstyle, #makeup"
-  - username: "lambropoulos_7"
+    hashtags: "#health, #exilisultra360, #coretofloor, #bodycontouring"
+  - username: "thrivingonplants"
     fullname: >-
-      Andrew Lambropoulos 🇬🇷🇦🇺
+      CHERIE
     bio: >-
-      🔺 DM for promo/collaborations 🔺 Sydney Australia 🇦🇺 📍 🔺 @nu_marrickville 😋 💪🏽 🔺 @closetk1ng 👕👖 🔺 @aestheticcosmetics.au - lambro10 👑
+      🇨🇳🇦🇺 |📍sydney, au 🍃 simple veg recipes 💭 more on: @cherietu 💌 hello@cherietu.com
     location: "Australia"
-    followers: 155154
-    engagement: 171
-    commentsToLikes: 0.037432
-    id: ck5cjdhbsui2x0i11oj3ejilc
+    followers: 696403
+    engagement: 364
+    commentsToLikes: 0.016860
+    id: ck0u6krcz26ri0i19fyd6f2lk
     verified: false
-    hashtags: "#guyswithink, #smile, #fitness, #tattoo"
-  - username: "jesspandaaa"
+    hashtags: "#juice, #plantbasedrecipe, #ad, #salads"
+  - username: "byannagrey"
     fullname: >-
-      ✨ 𝑱𝑬𝑺𝑺 𝑷𝑨𝑵 ✨
+      Anna
     bio: >-
-      — Sydney, AUS 🐨 ENFJ-A 🧠 Psych student | 🎗Mental health & lifestyle 🙏Trade your expectation for appreciation 📩 jessicapan97@gmail.com
+      Hair, beauty and fun moments in life Blogger and UGC creator from Sydney, Australia
     location: "Australia"
-    followers: 8618
-    engagement: 397
-    commentsToLikes: 0.242198
-    id: ckap0gme6q6x40i78i08p800i
+    followers: 16652
+    engagement: 348
+    commentsToLikes: 0.061574
+    id: ck14lqetpvywf0i19vc4ocpy0
     verified: false
-    hashtags: "#marshiibeauty, #esmiskinminerals, #oscarwylee"
+    hashtags: "#instafit, #hongkong, #travelhk, #easthotelhongkong"
 ---

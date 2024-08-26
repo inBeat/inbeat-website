@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Belgium In 2023
+title: Top 10 Mothers TikTok Influencers In Belgium In 2024
 description: >-
-  Find top mothers TikTok influencers in Belgium in 2023. Most popular hashtags: #foryou #belgium #fyp #pourtoi.
+  Find top mothers TikTok influencers in Belgium in 2024. Most popular hashtags: #foryou #belgium #fyp #pourtoi.
 platform: TikTok
 hits: 15
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our database has 15 TikTok influencers like this in Belgium for you to collaborate.
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our database has 15 TikTok influencers like this in Belgium for you to pitch.
 profiles:
   - username: "lufyyyy"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.035282
     id: ckdhqrfqg1un60j23lni2fhqs
     verified: false
-    hashtags: "#wendyadriaens, #cute, #velociraptor, #rescuebird"
+    hashtags: "#family, #funnyanimals, #rescuebird, #velociraptor"
   - username: "elke_mom.of.3_belgium"
     fullname: >-
       Elke_1986
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.117403
     id: ckbaxhdhinwuc0j237j01if5c
     verified: false
-    hashtags: "#belgium, #toddler, #tiktokmom, #porschecayenne"
+    hashtags: "#foryou, #toddler, #over30, #momlife"
   - username: "frankpezingain"
     fullname: >-
       Frank Pezingain
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.029562
     id: cka0qjxsocuro0i78dfterj58
     verified: false
-    hashtags: "#funnyvideos, #pourtoiiiiiii, #challenge, #bruxelles"
+    hashtags: "#aout, #funnyvideos, #fun, #poutoipage"
   - username: "__.vixtoriaa"
     fullname: >-
       vic

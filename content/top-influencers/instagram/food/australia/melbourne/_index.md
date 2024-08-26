@@ -1,12 +1,24 @@
 ---
-title: Top 10 Food Instagram Influencers In Melbourne In 2023
+title: Top 10 Food Instagram Influencers In Melbourne In 2024
 description: >-
-  Find top food Instagram influencers in Melbourne in 2023. Most popular hashtags: #melbourneeats #melbournecafe #melbournefood #melbourne.
+  Find top food Instagram influencers in Melbourne in 2024. Most popular hashtags: #melbournefood #melbournefoodie #melbourne #food.
 platform: Instagram
-hits: 63
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 63 Instagram influencers like this in Melbourne, Australia for you to work with.
+hits: 166
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 166 Instagram influencers like this in Melbourne, Australia for you to pitch.
 profiles:
+  - username: "melbbites"
+    fullname: >-
+      melb bites ☻ melbourne food & lifestyle
+    bio: >-
+      📍melbourne food, sights & activities 🇦🇺 🍒 don’t worry, we don’t bite! 🫶🏻 @reginabujung @jessicandraa
+    location: "Australia"
+    followers: 31121
+    engagement: 509
+    commentsToLikes: 0.195345
+    id: closqr5w0o5qt0j08ta4gmegr
+    verified: false
+    hashtags: "#bubbletea, #cheapeats, #melbournedessert, #melbournerestaurants"
   - username: "melbournefoodnerd"
     fullname: >-
       Adrian |Melbourne food blogger
@@ -30,31 +42,19 @@ profiles:
     commentsToLikes: 0.233227
     id: ck135q2472o1z0i193xaqcese
     verified: false
-    hashtags: "#foodie, #foodbeast, #goodeats, #foodlover"
-  - username: "lisateh_"
+    hashtags: "#ad, #goodeats, #melbournerestaurants, #melbourneeats"
+  - username: "faragirlylife"
     fullname: >-
-      Lisa Teh
+      Farideh Rahmani
     bio: >-
-      📖 Co-Author Australian Style & Australian Beauty 🖤Founder @101.lifestyle 🌎 Co-Founder @lisniclearning 📱 Founder @codiagency
+      Beauty | Fashion | Lifestyle Biomedical Engineer👩🏻‍🔧 📍Melbourne🇦🇺 📩fari.style89@gmail.com . My YouTube channel🍬
     location: "Australia"
-    followers: 40272
-    engagement: 52
-    commentsToLikes: 0.133575
-    id: ck0u26qq7yy4j0i19cx6a4ewp
+    followers: 72366
+    engagement: 57
+    commentsToLikes: 0.011106
+    id: ckaoxnvf0e1w30i78ymeb7die
     verified: false
-    hashtags: "#sponsored, #lisnic, #nakedsundays, #interiorinspo"
-  - username: "healthyfoodfast"
-    fullname: >-
-      LEXIE AMY
-    bio: >-
-      ☁︎☆☁︎☆☁︎☆☁︎☆☁︎☆☁︎☆☁︎☆☁︎ ☆ ☓ Melb, AUS🍒 ☓ Lover of Fashion, Colour & Cafes ☓ Collaborations 📧 lexiehealthyfoodfast@gmail.com ☁︎☆☁︎☆☁︎☆☁︎☆☁︎☆☁︎☆☁︎☆☁︎ ☆
-    location: "Australia"
-    followers: 28350
-    engagement: 175
-    commentsToLikes: 0.228256
-    id: ck6uehz9xr1810j71g0s1feau
-    verified: false
-    hashtags: "#vodka, #howtobeparisian, #sneakers, #whatiworetoday"
+    hashtags: "#freddypants, #fashionblogger, #australianblogger, #ootd"
   - username: "unbeleafablefood"
     fullname: >-
       Jess - Vegan Food Melbourne
@@ -66,7 +66,31 @@ profiles:
     commentsToLikes: 0.475509
     id: ck5c6i25y5hac0i1100fgq43o
     verified: false
-    hashtags: "#melbournedesserts, #vegains, #melbournefoodblogger, #vegan"
+    hashtags: "#snacks, #melbournephotographer, #chips, #veganrecipe"
+  - username: "weekendsinmelbourne"
+    fullname: >-
+      Melbourne Food, Travel & Activities
+    bio: >-
+      Est 2015 🔸Message our team to be featured 🔸Follow our #melbourne food, travel & activities 📧 weekendsinmelbourne@outlook.com
+    location: "Australia"
+    followers: 31466
+    engagement: 34
+    commentsToLikes: 0.262197
+    id: clsha44e9cpad0k08ye43rjn1
+    verified: false
+    hashtags: "#melbournebrunch, #eatmelbourne, #discovermelbourne, #foodlover"
+  - username: "wong_ashlynn"
+    fullname: >-
+      Ashlynn | Aus UGC creator | SMM
+    bio: >-
+      💅Beauty & Food 📸Melbourne Content Creator 💌ugcwithashlynn@gmail.com
+    location: "Australia"
+    followers: 11152
+    engagement: 97
+    commentsToLikes: 0.049373
+    id: clto0x55dnkhn0k08vhst4n3o
+    verified: false
+    hashtags: "#australianugccreator, #melbournefoodie, #contentcreationtips, #brandpartnerships"
   - username: "claudiabrick"
     fullname: >-
       Claudia Brick
@@ -79,52 +103,28 @@ profiles:
     id: ck5zs5z9pxw4j0i14ixsbkui0
     verified: false
     hashtags: "#sp, #seasonality, #prahran, #prahranmarket"
-  - username: "emilypamio"
+  - username: "dishh.out"
     fullname: >-
-      EM 🦋
+      Jess | Food, Travel & Things to do 🎀🤍🕯️🥂
     bio: >-
-      ☼ Melbourne, Aus | Plant based food 🌿🌲🌴 ☼ Brand & Content Management (B.Bus) ☼ Owner: @sila.social ☼ Collabs: emily@silasocial.com.au
+      ☁️ My Melbourne Video Diary 💫 Personal recommendations on highlights “eat here!” 🪩 DM/Email for PR, collabs & invites 💌 Dishh.out@gmail.com
     location: "Australia"
-    followers: 33609
-    engagement: 72
-    commentsToLikes: 0.151482
-    id: ck13c4ea5ykb80i19q3ha4o57
+    followers: 12721
+    engagement: 734
+    commentsToLikes: 0.002472
+    id: cloqu01qegh8x0j089b9euw5z
     verified: false
-    hashtags: "#breakfast, #vegan, #ad, #foodblogger"
-  - username: "melbournefoodbabies"
+    hashtags: "#invite, #foodiefinds, #melbmoment, #yum"
+  - username: "lilfooddiarymelb"
     fullname: >-
-      Nour ✿ Lily ✿ Melbourne Food
+      𝗠𝗘𝗟𝗕𝗢𝗨𝗥𝗡𝗘 𝗙𝗢𝗢𝗗𝗜𝗘 • 𝗧𝗥𝗔𝗩𝗘𝗟 • 𝗟𝗜𝗙𝗘𝗦𝗧𝗬𝗟𝗘
     bio: >-
-      @nouralkurd ♥ @_lilybennett__ 🥞 two girls nibbling their way through 🌇 melbourne, aus 💌 melbournefoodbabies@gmail.com 📩 DM for collabs and promos
+      𝑳𝒊𝒍𝒊𝒂𝒏 🌷 sharing melbourne & travel adventures 💌 Dm/Email for invites & collabs 📍 Melbourne ✈️ Vietnam Nov 24
     location: "Australia"
-    followers: 3573
-    engagement: 2459
-    commentsToLikes: 0.372196
-    id: ck14h0jjo7xnh0i19qv1p5soq
+    followers: 16359
+    engagement: 393
+    commentsToLikes: 0.233677
+    id: cloxohuhh0c2d0j08hfd6ur35
     verified: false
-    hashtags: "#melbournebrunch, #foodstylist, #eatingout, #foodpic"
-  - username: "triedandtastedmelb"
-    fullname: >-
-      Melbourne Food Photographers
-    bio: >-
-      👫🏻 Antonia & James 🍕 Couple who eat way too much 📸 Food Photography ✉️ DM or email us for collabs/to connect!
-    location: "Australia"
-    followers: 8410
-    engagement: 757
-    commentsToLikes: 0.355963
-    id: ck5zn1hwmnlmv0i14ffh9eedm
-    verified: false
-    hashtags: "#invite, #gifted, #collab, #dessertlovers"
-  - username: "biancamelb"
-    fullname: >-
-      Bianca
-    bio: >-
-      Affordable fashion trends with a touch of luxe Corporate & casual outfits | Melbourne 📍 Food page @melb.eats 📧 biancamelb@outlook.com
-    location: "Australia"
-    followers: 30820
-    engagement: 60
-    commentsToLikes: 0.241547
-    id: ck0w2x7lpql910i19ymvbqkx5
-    verified: false
-    hashtags: "#portmans, #shein, #sheinx, #sheinpartner"
+    hashtags: "#melbournecoffee, #foodlover, #ootd, #cafe"
 ---

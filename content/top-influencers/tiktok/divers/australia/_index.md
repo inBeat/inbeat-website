@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In Australia In 2023
+title: Top 10 Divers TikTok Influencers In Australia In 2024
 description: >-
-  Find top divers TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #viral #diversity #australia.
+  Find top divers TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #australia #diversity #school.
 platform: TikTok
-hits: 87
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 87 TikTok influencers like this in Australia for you to collaborate.
+hits: 85
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 85 TikTok influencers like this in Australia for you to contact.
 profiles:
   - username: "aquariustraveller"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.068408
     id: ck977bnu23lx30j7889za75v1
     verified: false
-    hashtags: "#adventure, #brisbane, #queensland, #australia"
+    hashtags: "#brisbane, #newzealand, #qld, #goldcoast"
   - username: "samfrickerr"
     fullname: >-
       Sam Fricker 
@@ -55,6 +55,18 @@ profiles:
     id: ckdntgffilgko0j23alx99i61
     verified: false
     hashtags: "#love, #booktok, #romance, #bookhaul"
+  - username: "emmalinecs"
+    fullname: >-
+      EmmalineCS
+    bio: >-
+      🤍Kindness & Creativity🤍 #ourfamilypledge 2021
+    location: "Australia"
+    followers: 168900
+    engagement: 1388
+    commentsToLikes: 0.019549
+    id: cka0q4zznb4wk0i78iu9fp8nq
+    verified: false
+    hashtags: "#fyp, #mumsoftiktok, #momsoftiktok, #byebyeseries"
   - username: "bodyblendz"
     fullname: >-
       Bodyblendz
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.033778
     id: cka0u3v43sojp0i78gbu9exoa
     verified: false
-    hashtags: "#tiktokpiano, #duet, #pianocover, #spotifyshufflechallenge"
+    hashtags: "#fyp, #viral, #cover, #baileypickles"
   - username: "pamm.j"
     fullname: >-
       pam
@@ -115,16 +127,4 @@ profiles:
     id: ck9dr1xqk29m20j78f5onnmsg
     verified: false
     hashtags: "#foryoupage, #fyp, #art, #like"
-  - username: "timofylee"
-    fullname: >-
-      timofylee
-    bio: >-
-      Home of the 'Lee Family' Fun vids 😬
-    location: "Australia"
-    followers: 551400
-    engagement: 3069
-    commentsToLikes: 0.005602
-    id: ckbfdx5w67meq0j23m7gdhr57
-    verified: false
-    hashtags: "#karen, #asian, #asianmom, #duet"
 ---

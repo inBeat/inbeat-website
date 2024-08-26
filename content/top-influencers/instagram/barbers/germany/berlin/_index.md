@@ -1,12 +1,60 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Berlin In 2023
+title: Top 10 Barbers Instagram Influencers In Berlin In 2024
 description: >-
-  Find top barbers Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #barber #beard #instagood.
+  Find top barbers Instagram influencers in Berlin in 2024. Most popular hashtags: #berlin #hamburg #germany #barber.
 platform: Instagram
-hits: 12
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 12 Instagram influencers like this in Berlin, Germany for you to contact.
+hits: 18
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 18 Instagram influencers like this in Berlin, Germany for you to pitch.
 profiles:
+  - username: "mr.denny_k"
+    fullname: >-
+      Denny Kinder
+    bio: >-
+      Hairdresser, Make Up Artist & Beauty Coach CEO/Owner - @dennykbeauty Studio Berlin Share my passion for beauty, mensfashion & travel
+    location: "Germany"
+    followers: 55297
+    engagement: 263
+    commentsToLikes: 0.007310
+    id: ck6u4adav2lzy0j71d6tbhojv
+    verified: false
+    hashtags: "#berlin, #dennykbeauty, #hairstylist, #friseur"
+  - username: "marvinknoll"
+    fullname: >-
+      Marvin Knoll
+    bio: >-
+      📍Hamburg / Berlin / Duisburg ~ My Official Instagram Page
+    location: "Germany"
+    followers: 16607
+    engagement: 1195
+    commentsToLikes: 0.029265
+    id: ck0u9hwzb9x3j0i19mkrqq2zl
+    verified: true
+    hashtags: "#soccer, #kiezkicker, #memories, #enjoylife"
+  - username: "bb_bastianblau"
+    fullname: >-
+      𝐁𝐀𝐒𝐓𝐈𝐀𝐍 𝐁𝐋𝐀𝐔
+    bio: >-
+      🏴خوف🏴 ٠𝔗𝔞𝔱𝔱𝔬𝔬𝔢𝔯 ٠𝔓𝔞𝔦𝔫𝔱𝔢𝔯 ٠𝔐𝔲𝔰𝔦𝔠𝔦𝔞𝔫 @bastianblau ✷1992✷ Berlin Germany
+    location: "Germany"
+    followers: 99150
+    engagement: 664
+    commentsToLikes: 0.007293
+    id: ck0u7ou2m5ar20i19u0s4v50u
+    verified: false
+    hashtags: "#blackwork, #blxckink, #brokenscriptgang, #ornamentaltattoo"
+  - username: "younghearted.tattoo"
+    fullname: >-
+      Felix Seele
+    bio: >-
+      vegan BERLIN | NYC owner of @der_grimm_tattoo @younghearted.cl #darklettering #darkmandala @cheyenne_tattooequipment @eclipse.tattooink
+    location: "Germany"
+    followers: 181171
+    engagement: 358
+    commentsToLikes: 0.004661
+    id: ck14gqg4u6j560i19b6vrg86c
+    verified: false
+    hashtags: "#letteringtattoo, #youngheartedtattoo, #lettering, #felixseele"
   - username: "k.d.bln"
     fullname: >-
       KAI
@@ -19,18 +67,18 @@ profiles:
     id: ck8td75il26640j78syq3wfp0
     verified: false
     hashtags: "#picoftheday, #instagood, #muscle, #gymshark"
-  - username: "marvinknoll5"
+  - username: "filouino"
     fullname: >-
-      Marvin Knoll
+      filouino
     bio: >-
-      ~Welcome to My Official Instagram Page ~Player for @fcstpauli ⚽️ 📍Hamburg / Berlin 🇩🇪
+      ✤Priv. @filouinoo ✤owner @atelier.le.filou Germany ✤CLOSED! booking.filouino@gmail.com @cheyenne_tattooequipment @barberdts_de @for_fuck_sake_dan ♥️
     location: "Germany"
-    followers: 16976
-    engagement: 1609
-    commentsToLikes: 0.028767
-    id: ck0u9hwzb9x3j0i19mkrqq2zl
-    verified: true
-    hashtags: "#heimsieg, #fussball, #me, #fashion"
+    followers: 229144
+    engagement: 367
+    commentsToLikes: 0.007017
+    id: ck55l8aot0zd10i1143a4g2ac
+    verified: false
+    hashtags: "#artist, #digitaldrawing, #draw, #colourtattoo"
   - username: "muhammedyue"
     fullname: >-
       Muhammed | Kiel | GoodLifeCrew
@@ -54,7 +102,19 @@ profiles:
     commentsToLikes: 0.024507
     id: ck0w4sdw706g30i19fmr8o6dg
     verified: false
-    hashtags: "#gayboy, #gaypride, #eaudeparfum, #gayscruff"
+    hashtags: "#lgbt, #gaycute, #eaudeparfum, #beauty"
+  - username: "atta_hh"
+    fullname: >-
+      Atta ♉️
+    bio: >-
+      Alhamdulillah ☝🏿 Lifestyle & Living👌🏿 Germany Roots🇬🇭 🇩🇪 Born in the 90‘s❤️ R🔒
+    location: "Germany"
+    followers: 5225
+    engagement: 711
+    commentsToLikes: 0.067639
+    id: ckap8hl70oc7q0i788sd7sk98
+    verified: false
+    hashtags: "#ghanian, #loveandrespect, #smile, #greece"
   - username: "nurii_b"
     fullname: >-
       𝖓𝖚𝖗𝖎•𝕭
@@ -67,64 +127,4 @@ profiles:
     id: ck5bw5ebgl14i0i11fzmp539z
     verified: false
     hashtags: "#du, #berlin, #essencity, #istanbul"
-  - username: "yunus.8.8"
-    fullname: >-
-      Soldat/ Sportler
-    bio: >-
-      ❌Privat Account❌ 🇩🇪#bundeswehr 🇩🇪#soldier #motivation Spare 15% beim @oatking Link RABATTCODE : ⬇️ oder nutze Yunus15
-    location: "Germany"
-    followers: 3402
-    engagement: 683
-    commentsToLikes: 0.115549
-    id: ck8t3j1783f6g0j78f3bioa8b
-    verified: false
-    hashtags: "#menstyle, #fitfm, #beautiful, #instalike"
-  - username: "beatseb"
-    fullname: >-
-      Sebastian
-    bio: >-
-      Be the best version of yourself Travel & Fitness addicted guy Creating life with @corihueb 📍 Köln, Germany
-    location: "Germany"
-    followers: 131637
-    engagement: 540
-    commentsToLikes: 0.016096
-    id: ck13avw1ssg9c0i19j1gac348
-    verified: false
-    hashtags: "#beardstyle, #fitness, #bart, #frankfurt"
-  - username: "chynacut"
-    fullname: >-
-      Chyna Cut Salon
-    bio: >-
-      ▫️Cut ▫️Color ▫️Balayage ▫️Extensions 📞0611 / 36092002 📧info@chynacut.de @chynabeaute @chynawhytebar @chynacut.solingen
-    location: "Germany"
-    followers: 5254
-    engagement: 232
-    commentsToLikes: 0.017161
-    id: ck5c635nk4mdt0i118bzxqlu9
-    verified: false
-    hashtags: "#newshahaircare, #balayage, #hairgoals, #longhair"
-  - username: "jps_artist"
-    fullname: >-
-      JPS
-    bio: >-
-      U.K Street Artist JPS, now based in Germany. For all business enquiries, please contact @kultur_spaeti
-    location: "Germany"
-    followers: 69712
-    engagement: 222
-    commentsToLikes: 0.016353
-    id: ckaotqjikx1r50i782okgmw5m
-    verified: false
-    hashtags: "#jps, #globalstreetart, #streetartnews, #nicestreetart"
-  - username: "kevin_kuske"
-    fullname: >-
-      KEᐯIᑎ KᑌᔕKE
-    bio: >-
-      TᖇᗩIᑎEᖇ 🏋🏽 ᗩTᕼᒪETIᑕ ᑕOᗩᑕᕼ ᗷOᗷᔕᑭOᖇT 🏃🏽🇩🇪 🥇4 x ᏫᒪᎩᗰᑭiᑕ ᑕᕼᗩᗰᑭισᑎ 🥈2 x ᏫᒪᎩᗰᑭiᑕ ᗰᏋᎴᎯᒪ 🏆7 x ᗯOᖇᒪᗪ ᑕᕼᗩᗰᑭIOᑎ 🔥ᐯ OᒪYᗰᑭIᑕ GᗩᗰEᔕ🌿 💊 ᖇEᗩᒪ ᔕᑌᑭᑭᔕ ᗯIᑎᑎEᖇᔕᖴOOᗪ 🔒👨‍👩‍👦
-    location: "Germany"
-    followers: 14215
-    engagement: 407
-    commentsToLikes: 0.000638
-    id: ck5hclmdmipgx0i111kio4m57
-    verified: true
-    hashtags: "#oly, #bobsport, #olympictrainingcenter, #bobsled"
 ---

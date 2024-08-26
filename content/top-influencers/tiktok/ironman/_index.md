@@ -1,11 +1,11 @@
 ---
-title: Top 10 Ironman TikTok Influencers In 2023
+title: Top 10 Ironman TikTok Influencers In 2024
 description: >-
-  Find top ironman TikTok influencers in 2023. Most popular hashtags: #ironman #fyp #avengers #marvel.
+  Find top ironman TikTok influencers in 2024. Most popular hashtags: #ironman #fyp #avengers #marvel.
 platform: TikTok
 hits: 720
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 720 TikTok influencers like this for you to contact.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 720 TikTok influencers like this for you to pitch.
 profiles:
   - username: "jadellew"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.008352
     id: ck80oftf2hmjc0j78htfiya0f
     verified: true
-    hashtags: "#relatable, #football, #soccer, #ironman"
+    hashtags: "#ironman, #relatable, #soccer, #football"
   - username: "mj_gasik"
     fullname: >-
       MJ Gasik

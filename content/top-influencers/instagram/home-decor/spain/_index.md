@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Spain In 2023
+title: Top 10 Home Decor Instagram Influencers In Spain In 2024
 description: >-
-  Find top home decor Instagram influencers in Spain in 2023. Most popular hashtags: #homedecor #decoracion #nordicstyle #interiorismo.
+  Find top home decor Instagram influencers in Spain in 2024. Most popular hashtags: #decoracion #homedecor #deco #interiordesign.
 platform: Instagram
-hits: 122
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 122 Instagram influencers like this in Spain for you to connect with.
+hits: 155
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 155 Instagram influencers like this in Spain for you to pitch.
 profiles:
-  - username: "directoracreativa"
+  - username: "paula_silvagni_interiors"
     fullname: >-
-      Directora Creativa Interiorismo
+      P A U L A • Decoración, organización e ideas ✨
     bio: >-
-      Estudio de Arquitectura interior Interior Desing Studio Estudio BCN | MADRID Montse Morales
+      ✨ Decoradora de interiores ✨ ➡️ ASESORIAS ONLINE 📎 Te doy IDEAS para que vuelvas a enamorarte de tu casa 🛍️ @paula_silvagni_shop 🎄✨www.rosehome.es
     location: "Spain"
-    followers: 84488
-    engagement: 65
-    commentsToLikes: 0.020862
-    id: ck6trvcrc1av90j71nstgio91
+    followers: 518184
+    engagement: 562
+    commentsToLikes: 0.034081
+    id: ck0u1fvkcwq0p0i199ao2lrm6
     verified: false
-    hashtags: "#cocinasbonitas, #dise, #naturaleza, #hogar"
-  - username: "recienviajados"
+    hashtags: "#interior4inspo, #instainspo, #interi, #nurseryinspo"
+  - username: "estelamaca"
     fullname: >-
-      | ARAN + PABLO |
+      Estela Martin Cardona
     bio: >-
-      📸 Content creators 🤰🏼 Mum to be ✈️ Deco • Photography •Lifestyle 💌 marketing@champell.com Alicante, Spain📍
+      🌲 Deco & Lifestyle Me apasiona la decoración, soy adicta al chocolate y creo en el amor sobre todas las cosas. VÍDEOS CADA SEMANA EN YOUTUBE 👇🏼
     location: "Spain"
-    followers: 35937
-    engagement: 543
-    commentsToLikes: 0.165678
-    id: ck0w5yzre64200i19ctvca8j1
+    followers: 69107
+    engagement: 348
+    commentsToLikes: 0.078126
+    id: ck6tsa9ns3mn20j71tjzqg63y
     verified: false
-    hashtags: "#embarazada, #valentines, #speechlessplaces, #travelust"
-  - username: "comounaprincesa"
+    hashtags: "#deco, #livingroomdetails, #instahome, #arboldenavidad"
+  - username: "sandra1mua"
     fullname: >-
-      Mara 🤍
+      sandra1mua
     bio: >-
-      Minimalism Nordic home Slow life, travel, gastronomy… ✉️ contacto.comounaprincesa@gmail.com
+      For works or collaborations: 💌 sandra1muaa@gmail.com or InstaDirect 📍Lleida
     location: "Spain"
-    followers: 65354
-    engagement: 170
-    commentsToLikes: 0.302223
-    id: ck8szu455ppym0j78rtj1n60h
+    followers: 71089
+    engagement: 171
+    commentsToLikes: 0.323063
+    id: ck5zyic809xo80i144ptcf2lb
     verified: false
-    hashtags: "#decoracion, #mirinc, #totalwhite, #deco"
-  - username: "titanium_mommy"
+    hashtags: "#piscina, #tousjewelry, #ootd, #tous"
+  - username: "pilar_ohmyblog"
     fullname: >-
-      Zoraida Megías
+      Pilar OhMyBlog 💋
     bio: >-
-      🌟22-2-2016🌟 el mejor día d nuestras vidas👶🏻🍼💑 🌟I'M A TITANIUM MOMMY!!🌟 Por cada minuto enfado pierdes 60" d felicidad 🚫NO USES MIS FOTOS 📸🚫
+      👚Looks para todos los días 👖Mis tips de estilo sencillos y copiables 🛍Compras y trucos para sacar partido a tu armario #grwm 📩oh.ohmyblog@gmail.com
     location: "Spain"
-    followers: 7496
-    engagement: 329
-    commentsToLikes: 0.633511
-    id: ck6tymvp04o9v0j71ogsr0o2q
+    followers: 85811
+    engagement: 156
+    commentsToLikes: 0.040361
+    id: ck5zt4jwxzq530i14quw018q7
     verified: false
-    hashtags: "#sanvalentin, #mumlifestyle, #family, #decoboho"
-  - username: "marhomedeco"
+    hashtags: "#homedecor, #shortbob, #tipsdeimagen, #mystyleat40"
+  - username: "kiaritahome"
     fullname: >-
-      M a r
+      Kiara
     bio: >-
-      d e c o / i n s p o / w o o d / m e d i t e r r a n e a n / d i y 📷 content creator / product photography 📩 marhomedeco@gmail.com
+      MY HOME 🏡 DECO 🌺 MATERNITY🍼 🌸Decoración romántica🌸 🍼Mamá de Daniel 💖Inmensamente feliz💖 🌴Islas Canarias 🌴 ⬇️Recomendaciones deco⬇️
     location: "Spain"
-    followers: 22947
-    engagement: 342
-    commentsToLikes: 0.079039
-    id: ck6trlgfgznwq0j71ps6kog7t
+    followers: 43046
+    engagement: 152
+    commentsToLikes: 0.098658
+    id: ck5pvp6hwiyxd0i11e31vgn3o
     verified: false
-    hashtags: "#tipsdeco, #embajadorikea, #esstisch, #hyggehome"
-  - username: "deliamaga77"
+    hashtags: "#outdoordecor, #homesweethome, #interior2you, #cocina"
+  - username: "sofiaparapluie"
     fullname: >-
-      Delia
+      Sofia Gil | Home & Kids Interior Ideas
     bio: >-
-      📍IBIZA 📍GRANADA Mi pasion la decoración y mi familia Mente inquieta y creativa Adoro los Diy y la madera Jujuhatsdeliamaga 📩 delia_maga@hotmail.com
+      {Enamórate de tu casa} te ayudo a Minimizar | Simplificar | Organizar | Decorar | Vida + slow Deco y organización online @parapluieatelier 📍Valencia
     location: "Spain"
-    followers: 66616
-    engagement: 252
-    commentsToLikes: 0.171237
-    id: ck8tc2b57y14r0j78d3aftvxs
+    followers: 249014
+    engagement: 131
+    commentsToLikes: 0.059981
+    id: ck15u4yuelfi90i19oqqbfhi8
     verified: false
-    hashtags: "#inspohomedecor, #maderasnobles, #terrazasdeco, #showmeyourboho"
-  - username: "decorloveme"
+    hashtags: "#nordichome, #interiordesign, #design, #interior"
+  - username: "sizhome"
     fullname: >-
-      • Rocío •
+      Sigrid Zúñiga
     bio: >-
-      Content Creator | Deco | DIY | Lya & Gala's Mommy | Lifestyle | Feminist ♀ ✉ decorloveme@gmail.com Mi Blog ☟
+      Interior • Lifestyle • Tips ✉️hola@sizhome.com ♥️Asesorias de decoración online
     location: "Spain"
-    followers: 66900
-    engagement: 386
-    commentsToLikes: 0.059869
-    id: ck8t9mcnyolzj0j78q7eidmm5
+    followers: 102001
+    engagement: 100
+    commentsToLikes: 0.267765
+    id: closq3usendrb0j089zaxxyvp
     verified: false
-    hashtags: "#mykonmari, #nordichomes, #calce, #colaboraci"
-  - username: "tamishome"
+    hashtags: "#livingroom, #casahygge, #hyggehome, #decoracion"
+  - username: "rachihome"
     fullname: >-
-      Tamara
+      Rachihome Home Decor Organization & lifestyle
     bio: >-
-      DECORACIÓN Y ORGANIZACIÓN EN EL HOGAR 🌍 SEVILLA SPAIN 🌸 Decorando #micasa. Comparto mi pasión por la #decoración y los #interiores 🌸. Mi PICKER ⬇️
+      +240k en TikTok 📩 rachihome@hotmail.com 📍Valencia
     location: "Spain"
-    followers: 194559
-    engagement: 428
-    commentsToLikes: 0.031730
-    id: ck14k3tujnlmw0i19fxydwwox
+    followers: 108092
+    engagement: 100
+    commentsToLikes: 0.085443
+    id: ckt0weivurilb0j23u8amesnb
     verified: false
-    hashtags: "#christmasdecor, #nordicdesign, #christmastime, #home"
-  - username: "sandradeco__sweet_home"
+    hashtags: "#stylish, #interiordesign, #ikea, #beforeandafter"
+  - username: "garlic.and.co"
     fullname: >-
-      Sandra Santana Noda
+      Carmen
     bio: >-
-      #decoracion de #interiores de mi 🏡 📩 Colaboraciones o DM 📷Mención si quieres compartir #micasa
+      Content creator | Interior & deco | dos casas, dos estilos 📩 garlicandco1@gmail.com 📍Madrid
     location: "Spain"
-    followers: 276105
-    engagement: 234
-    commentsToLikes: 0.029846
-    id: ck15r9v1l6vi10i19g3r5ynm1
+    followers: 53922
+    engagement: 59
+    commentsToLikes: 0.034597
+    id: ckaoryxeapedg0i78bwkxxng7
     verified: false
-    hashtags: "#kitchenideas, #mywestwingstyle, #interioresdecor, #getinspiredbystyle"
-  - username: "diariodeunareforma"
+    hashtags: "#roomforinspiration, #interiors, #mediterraneanstyle, #barnrumsinspiration"
+  - username: "trucosparadecorar"
     fullname: >-
-      | ᴀʟᴇxᴀɴᴅʀᴀ |
+      Trucos para Decorar
     bio: >-
-      • Me vuelve loca una reforma 🛠 y me apasiona la decoración 🌿 • Te enseño como redecoro mi casa y creo nuevos espacios 🏠 📩 hola@diariodeunareforma.com
+      Cris Larrumbe Realizamos proyectos de decoración online&presencial. 📧hola@trucosparadecorar.com 🎁 Regala la vela ‘Collect Moments’ 🖥curso Domestika
     location: "Spain"
-    followers: 131312
-    engagement: 261
-    commentsToLikes: 0.046341
-    id: ck5hmspvpmjug0i1140qyzvzg
+    followers: 887434
+    engagement: 36
+    commentsToLikes: 0.093553
+    id: ckaouemrjzxyh0i78nhg3tisy
     verified: false
-    hashtags: "#livingrooms, #interiorinspo, #nordicdesign, #kitchens"
+    hashtags: "#decoonline, #packdeco, #ayudadeco, #homedecor"
 ---

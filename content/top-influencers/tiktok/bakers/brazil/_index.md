@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers TikTok Influencers In Brazil In 2023
+title: Top 10 Bakers TikTok Influencers In Brazil In 2024
 description: >-
-  Find top bakers TikTok influencers in Brazil in 2023. Most popular hashtags: #foryou #foryoupage #fyp #lakers.
+  Find top bakers TikTok influencers in Brazil in 2024. Most popular hashtags: #foryou #foryoupage #fyp #lakers.
 platform: TikTok
 hits: 13
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our search engine holds 13 TikTok influencers like this in Brazil for you to pitch.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database aggregates 13 TikTok influencers like this in Brazil for you to work with.
 profiles:
   - username: "mnbutis"
     fullname: >-

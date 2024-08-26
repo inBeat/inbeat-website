@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Switzerland In 2023
+title: Top 10 Mothers TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top mothers TikTok influencers in Switzerland in 2023. Most popular hashtags: #foryou #fyp #fy #switzerland.
+  Find top mothers TikTok influencers in Switzerland in 2024. Most popular hashtags: #foryou #fyp #fy #love.
 platform: TikTok
-hits: 9
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 9 TikTok influencers like this in Switzerland for you to connect with.
+hits: 10
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: inBeat has 10 TikTok influencers like this in Switzerland for you to connect with.
 profiles:
   - username: "froggie_iva"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck9m113s1d1mj0j78k9fgwtbt
     verified: false
     hashtags: "#goldenmv, #harry, #hs, #foryou"
+  - username: "rico.dmnr"
+    fullname: >-
+      sunkid 🔆
+    bio: >-
+      🌻Typ mit Herz🦦 ☮︎♡✌︎☺︎︎ 𝘀𝗻𝗮𝗽: 𝗿𝗶𝗰𝗼.𝗱𝗺𝗻𝗿 🇨🇭artist✍🏼
+    location: "Switzerland"
+    followers: 30900
+    engagement: 636
+    commentsToLikes: 0.073304
+    id: ckb8znptef4y80j2371s0ri8e
+    verified: false
+    hashtags: "#love, #peace, #lovealwayswins, #nurderbvb"
   - username: "corinne_zhh"
     fullname: >-
       🌟corinne🌟
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.049526
     id: ckcv4z11tp25h0j23br5fvrew
     verified: false
-    hashtags: "#danke, #schweiz, #jugo, #integration"
+    hashtags: "#balkan, #integration, #danke, #hvala"
   - username: "globalshaperscommunity"
     fullname: >-
       GlobalShapers
@@ -71,14 +83,14 @@ profiles:
     fullname: >-
       Salome.Rakeseder
     bio: >-
-      Hi i‘m salome :) 5teen
+      Hi i‘m salome :)
     location: "Switzerland"
     followers: 27400
-    engagement: 1485
-    commentsToLikes: 0.009560
+    engagement: 1501
+    commentsToLikes: 0.010130
     id: ck9tveh0wq93e0j783nd7y5h0
     verified: false
-    hashtags: "#viral, #trend, #fyp, #funny"
+    hashtags: "#fyp, #4you, #viral, #trend"
   - username: "tiktoklovers_2021"
     fullname: >-
       Tiktoklovers
@@ -105,14 +117,14 @@ profiles:
     hashtags: "#switzerland, #lanzarote, #2021, #funnyvideos"
   - username: "hilly_fuchs"
     fullname: >-
-      Hilly❤️
+      TucTuc is mine 🥺❤️💍
     bio: >-
       I’m looking right at the other half of me🥺💘 @qx_sh4dow ❤️ ✨I don’t play Fn✨
     location: "Switzerland"
     followers: 14200
-    engagement: 2531
-    commentsToLikes: 0.179379
+    engagement: 2551
+    commentsToLikes: 0.179574
     id: ckbblu9g1a14s0j23ty0chxz9
     verified: false
-    hashtags: "#akiraarmy, #fy, #anime, #foryoupagee"
+    hashtags: "#akiraarmy, #foryou, #foryoupage, #anime"
 ---

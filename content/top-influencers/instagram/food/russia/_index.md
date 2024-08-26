@@ -1,24 +1,96 @@
 ---
-title: Top 10 Food Instagram Influencers In Russia In 2023
+title: Top 10 Food Instagram Influencers In Russia In 2024
 description: >-
-  Find top food Instagram influencers in Russia in 2023. Most popular hashtags: #summer2021 #haircare #streetstyle.
+  Find top food Instagram influencers in Russia in 2024. Most popular hashtags: #maldives #trackday #nurburgring.
 platform: Instagram
-hits: 630
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database holds 630 Instagram influencers like this in Russia for you to collaborate.
+hits: 634
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 634 Instagram influencers like this in Russia for you to pitch.
 profiles:
-  - username: "joytodorova"
+  - username: "kiselevaanya"
     fullname: >-
-      Radost Todorova
+      Anna Kiseleva
     bio: >-
-      👑Miss Universe 🇧🇬 book & food lover📚 🎥Let’s live a happy & healthy life together🐣 🎬 YouTube channel👇
+      Culinary artist. ⠀ Lifestyle, food and balance. ⠀ California 📍 ⠀ Автор книги «Свободные отношения с едой и не только» ⠀ Мои сборники рецептов ↓
     location: "Russia"
-    followers: 83877
-    engagement: 497
-    commentsToLikes: 0.138073
-    id: ck6u99hw2w94w0j715q9hp5wb
+    followers: 78909
+    engagement: 533
+    commentsToLikes: 0.008178
+    id: ck6ubbhnh8m8z0j713jk9bqie
+    verified: false
+    hashtags: ""
+  - username: "la.critique.culinaire"
+    fullname: >-
+      La Critique Culinaire
+    bio: >-
+      🍝 Food consultant 🍽 Restaurant critic 🥂 Co-owner @weknow_agency_baku 📧 info@lacritiqueculinaire.com
+    location: "Russia"
+    followers: 100234
+    engagement: 276
+    commentsToLikes: 0.007047
+    id: ck6u12lywj6y70j71l2i7ntms
+    verified: false
+    hashtags: "#swarovskixrosenthal"
+  - username: "jancoomans"
+    fullname: >-
+      𝕁𝕒𝕟 ℂ𝕠𝕠𝕞𝕒𝕟𝕤
+    bio: >-
+      🚘 Car enthusiast / racer 📸 Photographer 🍽 Foodie 🇧🇪 Made in Belgium
+    location: "Russia"
+    followers: 214523
+    engagement: 239
+    commentsToLikes: 0.004675
+    id: ck5hdvl13plbh0i1103ylm15t
+    verified: false
+    hashtags: "#porsche, #trackday, #maldives, #taycan"
+  - username: "greywiese"
+    fullname: >-
+      Grey Wiese
+    bio: >-
+      Сережа Григорьев-Апполонов Music 🎶 Fashion👢Food 🥗 🥇самый популярный русскоязычный блогер в 🇩🇪 бросил карьеру топ-менеджера👨‍💼ради блога и сцены👨‍🎤
+    location: "Russia"
+    followers: 1017728
+    engagement: 177
+    commentsToLikes: 0.039358
+    id: ck6ttesqha81s0j71kvn53z6q
     verified: true
-    hashtags: "#giveaway, #haircare, #joytodorova, #galdini"
+    hashtags: "#pompidou"
+  - username: "ozimkova"
+    fullname: >-
+      Kristina Ozimkova
+    bio: >-
+      ozimkova@yahoo.com MSU 👩🏻‍🎓 graduated 🎓 Masters degree'19 📚 страница моих рецептов @ozimkova.food
+    location: "Russia"
+    followers: 761613
+    engagement: 167
+    commentsToLikes: 0.006148
+    id: ckaosr8dosqke0i78c9ieva7p
+    verified: false
+    hashtags: "#tb, #27"
+  - username: "galainst"
+    fullname: >-
+      •ⒼⒶⓁⒶ•
+    bio: >-
+      Женский блог ▫️Рецепты▫️Юмор▫️Фитнес▫️О личном 📬 Gala.FoodFit@mail.ru
+    location: "Russia"
+    followers: 1064129
+    engagement: 101
+    commentsToLikes: 0.019516
+    id: ck0w5w29h5pdm0i19de04n0c0
+    verified: false
+    hashtags: ""
+  - username: "foodartblog"
+    fullname: >-
+      Blog about beautiful food
+    bio: >-
+      🥗 For inspiration #foodphoto 🥰 Tag @foodartblog #foodartblog 💵 Write to direct for promotion 😺creator @kyzmin adm @_katish 👇На развите проекта
+    location: "Russia"
+    followers: 288328
+    engagement: 62
+    commentsToLikes: 0.009421
+    id: ckaorijdpndlm0i786t7okums
+    verified: false
+    hashtags: "#food, #foodporn, #foodblogger, #foodartblog"
   - username: "ana.ignatenko"
     fullname: >-
       Мамасита 👧🏻Жена моряка⚓️Блогер
@@ -55,76 +127,4 @@ profiles:
     id: ckf5o2vyq0oj60j23y0cwid8n
     verified: false
     hashtags: ""
-  - username: "madame_perrier"
-    fullname: >-
-      Настоящая Франция
-    bio: >-
-      Мария 18 лет на Юге🇫🇷 Франция без розовых👓 Еда🧀Вино🍷Французы👨‍🎨 Food Wine Travel Influencer 👉#maryperrier_навигация
-    location: "Russia"
-    followers: 116983
-    engagement: 321
-    commentsToLikes: 0.072730
-    id: ck15unqeeo23e0i19snlwwa31
-    verified: false
-    hashtags: "#maryperrier"
-  - username: "annamelkumian"
-    fullname: >-
-      Anna Melkumian
-    bio: >-
-      Style, fashion, food, beauty, travel Email: amelkumian@gmail.com
-    location: "Russia"
-    followers: 55436
-    engagement: 557
-    commentsToLikes: 0.024577
-    id: ck5pyu378xt9t0i116v88tc2s
-    verified: false
-    hashtags: "#lookoftheday, #summer2021, #streetstyle, #dress"
-  - username: "oui_pingui"
-    fullname: >-
-      блогер Лиза Коломиец | Минск
-    bio: >-
-      ⭐️из food в lifestyle 💫 взращиваю вкус и чувство прекрасного в себе и тебе 🚀в ожидании нового дела 🙄как профукала предыдущее - смотрите по ссылке
-    location: "Russia"
-    followers: 70199
-    engagement: 509
-    commentsToLikes: 0.043015
-    id: ck6ty232p18ie0j71mdx8cn6d
-    verified: false
-    hashtags: ""
-  - username: "lenatutunnikova"
-    fullname: >-
-      Елена Тютюнникова
-    bio: >-
-      САМЫЙ ЗАРАЗИТЕЛЬНЫЙ СМЕХ В МИРЕ Запатентован🤍 Психолог-сексолог, коуч Ведущая радио «Новое Вещание» @sexsation.pro @food_factory_nsk @pryatki_club
-    location: "Russia"
-    followers: 108994
-    engagement: 239
-    commentsToLikes: 0.099884
-    id: ck5zip5k8g4lf0i14r5ulblqg
-    verified: false
-    hashtags: "#2021, #ascania, #14"
-  - username: "alina_lazo"
-    fullname: >-
-      Алинушка🐰
-    bio: >-
-      💄Beauty & Lifestyle 🍓Food & Restaurants 💅🏻Амбассадор сети салонов @nail_sunny 💌По рекламе: @alina_lazo.pr
-    location: "Russia"
-    followers: 173556
-    engagement: 216
-    commentsToLikes: 0.045577
-    id: ckf5p2lay4pvs0j23fqv688qd
-    verified: false
-    hashtags: "#totallook, #glambox10, #faberlicinfluencer, #glambox1"
-  - username: "malsh.va"
-    fullname: >-
-      ДОМ СЕМЬЯ РЕЦЕПТЫ МАТЕРИНСТВО
-    bio: >-
-      👱🏼‍♀️Я - Таня ♾Сериал о жизни в сториз 🍰Рецепты #malsh_food 💌Сотрудничество в Директ
-    location: "Russia"
-    followers: 40319
-    engagement: 263
-    commentsToLikes: 0.066579
-    id: ckf5snxptfx750j23pa47kunr
-    verified: false
-    hashtags: "#malsh, #sber"
 ---

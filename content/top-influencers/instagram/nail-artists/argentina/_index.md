@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Argentina In 2023
+title: Top 10 Nail Artists Instagram Influencers In Argentina In 2024
 description: >-
-  Find top nail artists Instagram influencers in Argentina in 2023. Most popular hashtags: #makeup #nails #nailsofinstagram #nailsart.
+  Find top nail artists Instagram influencers in Argentina in 2024. Most popular hashtags: #makeup #nailsofinstagram #halloween #beauty.
 platform: Instagram
 hits: 11
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 11 Instagram influencers like this in Argentina for you to contact.
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 11 Instagram influencers like this in Argentina for you to pitch.
 profiles:
   - username: "allymade"
     fullname: >-
@@ -43,18 +43,18 @@ profiles:
     id: ckaot3yhdua410i78xwfg92ki
     verified: false
     hashtags: "#nailsofinstagram, #valentinesnails, #christmasnails, #nailporn"
-  - username: "tabathapacer"
+  - username: "pamelacortes_"
     fullname: >-
-      Tabatha Pacer 🐈✨
+      Pamela Cortés
     bio: >-
-      🔥 #GoRBT 💻 @daplei 💕 🎤 #CaidoDelKatre 🎮 Geek 👾 🏳️‍🌈 LGBT ✨ Ilustración @jessblue.art 🌈 🐱💖🐱+🐶🐶🐱✨ @combina3 💖 Canal Twitch 👇🏻💕
+      Cantautora, actriz y algo mas. #PamelaCortes 🔥Nuevo Single 🔥
     location: "Argentina"
-    followers: 171437
-    engagement: 670
-    commentsToLikes: 0.011165
-    id: ck13aly84r0w70i19ad4v1m1f
-    verified: false
-    hashtags: "#pirinolamayor, #nomakeup, #pok, #tbt"
+    followers: 509680
+    engagement: 110
+    commentsToLikes: 0.029432
+    id: ck5zwi2un664i0i14qpjdcpd7
+    verified: true
+    hashtags: "#ecuador, #pamelacortes, #cantautora, #deja"
   - username: "fannynailart"
     fullname: >-
       Fanny Nail Artist
@@ -91,18 +91,6 @@ profiles:
     id: ck15scihgcbfq0i19wdz4faay
     verified: false
     hashtags: "#mua, #skincare, #makeup, #skin"
-  - username: "byantofazio"
-    fullname: >-
-      Antonella Fazio
-    bio: >-
-      Content creator - Makeup Artist Me llamo Anto pero me dicen Byan Makeup - Skincare - Lifestyle
-    location: "Argentina"
-    followers: 30853
-    engagement: 476
-    commentsToLikes: 0.659088
-    id: ckapcgeid3pg70i78dc8prm2g
-    verified: false
-    hashtags: "#skincare, #skincareproducts, #plusblogger, #cuidadodelapiel"
   - username: "marlene_mourreau_oficial"
     fullname: >-
       Marlene Mourreau
@@ -115,16 +103,28 @@ profiles:
     id: ck5ztyqwl1d130i145dnj2183
     verified: false
     hashtags: "#makeup, #photo, #jueves18defebrero, #bonjour"
-  - username: "ninaventre"
+  - username: "clipper.jta"
     fullname: >-
-      Nina Ventre
+      CLIPPER •Josefina Tomás A
     bio: >-
-      Tu barbie de Argentina since 2002 🫦🎀 💓💓💓💓💓💓💓💓💓💓💓💓💓💓 MIRA MI NUEVO VIDEOCLIP “NO CONTROL” 🏝️💖
+      Actríz, rapera. Host, conductora en @redbullbatalla 🇺🇾 Creadora y conductora de @zoom.city por @urbana92.5 Mgmt: clipper@cpmu.com.uy 🌱 🔥BANG 25⬇️
     location: "Argentina"
-    followers: 27954
-    engagement: 307
-    commentsToLikes: 0.053867
-    id: ckaovczjd424x0i78gn6n79v0
+    followers: 31027
+    engagement: 250
+    commentsToLikes: 0.025702
+    id: ck5hg2skg0mow0i11d5emcxjw
     verified: false
-    hashtags: "#ninaventre, #singer, #singing, #music"
+    hashtags: "#musician, #hiphop, #musica, #art"
+  - username: "malcattalini"
+    fullname: >-
+      Cattaok
+    bio: >-
+      𝐁𝐚𝐢𝐥𝐚𝐫𝐢𝐧𝐚/𝐂𝐨𝐫𝐞𝐨𝐠𝐫𝐚𝐟𝐚 / 𝐒𝐡𝐨𝐰𝐌/𝐏𝐢𝐪𝐮𝐢𝐧/𝐅 𝐌𝐞𝐧𝐝𝐨𝐳𝐚/𝐁𝐨𝐬𝐬𝐢 /𝐏𝐚𝐜𝐡𝐚𝐧𝐨/𝐍𝐞𝐭𝐟𝐥𝐢𝐱/𝐍𝐢𝐜𝐤/𝐀 𝐋𝐞𝐢𝐯𝐚 🏆𝐒𝐡𝐨𝐰𝐌 𝟐𝟎𝟐𝟏 𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐚 @dancingqueendevoto 𝐅𝐚𝐬𝐡𝐢𝐨𝐧𝐢𝐬𝐭𝐚/𝐀𝐦𝐨 𝐕𝐢𝐚𝐣𝐚𝐫 ✈️
+    location: "Argentina"
+    followers: 503897
+    engagement: 25
+    commentsToLikes: 0.036378
+    id: ck0w60sev6d5u0i19vwxh9wt9
+    verified: false
+    hashtags: "#outfitoftheday, #teatro, #feliz, #style"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Canada In 2023
+title: Top 10 Beauty Instagram Influencers In Canada In 2024
 description: >-
-  Find top beauty Instagram influencers in Canada in 2023. Most popular hashtags: #ad #skincareproducts #skincareroutine.
+  Find top beauty Instagram influencers in Canada in 2024. Most popular hashtags: #toronto #fashion #shein #ootdfashion.
 platform: Instagram
-hits: 800
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 800 Instagram influencers like this in Canada for you to collaborate.
+hits: 1438
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 1438 Instagram influencers like this in Canada for you to connect with.
 profiles:
-  - username: "enigivensunday"
+  - username: "karishmajashani"
     fullname: >-
-      Eni Popoola | NYC Blogger
+      Karishma Jashani
     bio: >-
-      ⚖️Columbia Law alumna 💄beauty lover ✨ trying to live my best blessed & balanced life 🎥 #SephoraSquad ‘22 📧 enipopoola@enigivensunday.com
+      luxury beauty & lifestyle as a working mama 👩🏽‍💻🐣🧿 📍Singapore 💌karishmajashani@gmail.com
     location: "Canada"
-    followers: 120230
-    engagement: 663
-    commentsToLikes: 0.011475
-    id: ck5hi7xnuc41l0i11lv2p1q6j
+    followers: 25634
+    engagement: 442
+    commentsToLikes: 0.019334
+    id: ck15uiuqzne1u0i19vl98atrd
     verified: false
-    hashtags: "#makeupforblackwomen, #melaninmakeupdaily, #nycblogger, #makeuptutorial"
-  - username: "skin.and.scrubs"
+    hashtags: "#baby, #haircare, #newborn, #beautytips"
+  - username: "shalini_matt"
     fullname: >-
-      Stefanie
+      Shalini
     bio: >-
-      med student | skincare & beauty | self-care queen | 🇨🇦 reviews, recos, routines 💌skinandscrubs18@gmail.com 👇discounts, support, shop my faves
+      Fashion • Fitness• Beauty 📩: shalini.matt@hotmail.com 📍Toronto, Canada
     location: "Canada"
-    followers: 7875
-    engagement: 465
-    commentsToLikes: 0.274806
-    id: cl45xxt82jicz0i23w3as78e0
+    followers: 37013
+    engagement: 6730
+    commentsToLikes: 0.001572
+    id: ck6uernicsp5o0j71ntftvyov
     verified: false
-    hashtags: "#skincaretips, #skinfluencer, #creamblush, #makeuptips"
-  - username: "mel77wa"
+    hashtags: "#trending, #barbiemovie, #dailyfashion, #fashioninspo"
+  - username: "charmynchan"
     fullname: >-
-      Melanie Roy
+      VANCOUVER | KOMOREBI 🦁
     bio: >-
-      Part-time wanderer | full-time mommy<3 Mel77wa@gmail.com • Made in *•🇨🇦•* • Family Travel | clean beauty | ethical + sustainable living | slow fashion
+      Charmy l Professional Consumer & Potato ⁣ 💌charmynchan@gmail.com 💖#beautywithkomorebi ✈️#explorewithkomorebi ⠀⁣ 😋#whokneweatingcouldbesorewarding ⠀⁣
     location: "Canada"
-    followers: 20412
-    engagement: 284
-    commentsToLikes: 0.235919
-    id: cksa05djdjbis0j23qso5olea
+    followers: 23311
+    engagement: 1163
+    commentsToLikes: 0.012934
+    id: ckap5u5bhd6fe0i789kds3vwl
     verified: false
-    hashtags: "#jackandjillkids, #loveverybaby, #receiptjar, #trainingpants"
-  - username: "emmaleger"
+    hashtags: "#streetweardaily, #vancouvergetaway, #balioutfit, #vancouverfoodblogger"
+  - username: "tracypmakeup"
     fullname: >-
-      Emma Rose
+      Tracy P.
     bio: >-
-      lifestyle, fashion & beauty co-founder @justscoutit 🎙 @thatssosabotage shop + youtube:
+      On-Air Beauty and Plus Size Style Expert on @Cityline and @BreakfastTelevision
     location: "Canada"
-    followers: 616423
-    engagement: 230
-    commentsToLikes: 0.007082
-    id: ck0u9okoraduk0i19air3hp4u
+    followers: 24401
+    engagement: 679
+    commentsToLikes: 0.154641
+    id: ck0tu8uk463zj0i19pdndi71e
     verified: false
-    hashtags: "#doubles, #mkxellesse, #mkpartner, #tiffanypartner"
-  - username: "coraliescloset"
+    hashtags: "#sheinca, #sheincurve, #sheingals, #rebdolls"
+  - username: "azarialuvsu"
     fullname: >-
-      Coralie
+      A Z A R I A
     bio: >-
-      Fashion + a splash of beauty! Ottawa 🇨🇦🇭🇹 For collaboration: coraliescloset1@gmail.com Watch my latest YT video & shop my looks👇🏽
+      Lifestyle ★ Beauty ★ Wellness ★ Travel ★ Self Love 📍Toronto -> Currently: NC 💌 azarialuvsu@gmail.com CEO & Founder @digitaleyesinc
     location: "Canada"
-    followers: 9923
-    engagement: 202
-    commentsToLikes: 0.189346
-    id: cktgpaq2w9uck0j23bmor3phs
+    followers: 22050
+    engagement: 15756
+    commentsToLikes: 0.236991
+    id: ck5zp4iyjrz710i14hd8ttob6
     verified: false
-    hashtags: "#minimalstyle, #golddetails, #longsleevedress, #newyearsoutfit"
-  - username: "megscoastallife"
+    hashtags: "#torontoblogger, #torontostyle, #canadianblogger, #styleoftheday"
+  - username: "rachhloves"
     fullname: >-
-      Meg || Cat lady status || Canadian content creator
+      Rachel
     bio: >-
-      🇨🇦 Eco home | Clean beauty | Shop local 🐈‍⬛ #mainecoonlife 4Ocean and Necessaire ambassador
+      2 million on YouTube 💗🇨🇦 Food & Home: Youtube.com/RachhLovesLife Beauty & Style: Youtube.com/RachhLoves
     location: "Canada"
-    followers: 38961
-    engagement: 192
-    commentsToLikes: 0.368051
-    id: ckt8qtag068rb0j23y4meke3o
-    verified: false
-    hashtags: "#burlont, #canadianblog, #ad, #wanderlusting"
-  - username: "jessundecided"
+    followers: 207563
+    engagement: 481
+    commentsToLikes: 0.017339
+    id: ck0w0846wcuzk0i197yhjl98l
+    verified: true
+    hashtags: "#newgirl, #brokennail, #tower28, #copingskills"
+  - username: "ajthetechnologist"
     fullname: >-
-      JESS
+      AJ
     bio: >-
-      ➕ fashion + beauty … & a little bit of everyday life ➕helping you build your forever wardrobe ➕#Guelph & #Toronto 📹 DEC VLOG …
+      Lifestyle~Beauty~Foodie Toronto Content Creator Digital Marketing Strategist PR/Collabs💌: technologist.aj@gmail.com
     location: "Canada"
-    followers: 63336
-    engagement: 138
-    commentsToLikes: 0.043414
-    id: ck0u8kd1k7iej0i19hlwflg0p
+    followers: 8709
+    engagement: 482
+    commentsToLikes: 0.198115
+    id: ck55mbg5r3lh60i11t01c2jsx
     verified: false
-    hashtags: "#kitchenaidlove, #falloutits, #fallshoes, #teammcds"
-  - username: "kgmtl"
+    hashtags: "#torontolife, #toronto, #torontobeauty, #torontoblogger"
+  - username: "sippystackz"
     fullname: >-
-      Katherine Garbarino
+      ♡ SIPPY ♡
     bio: >-
-      Founder @girlslivingwell ✨ 👩🏽‍🤝‍👩🏻 Your virtual BFF 🍋 Health & Wellness 💅🏽 Beauty & Skincare 🎞 Daily Tips & Tricks 💌 emma@kg-mtl.com
+      beauty, travel, fashion & married life 🧸 💌 sippystackz@gmail.com tiktok: sippystackz muslim + kurdish + canadian 🇨🇦
     location: "Canada"
-    followers: 89793
-    engagement: 379
-    commentsToLikes: 0.009993
-    id: ck55ke17yz3wj0i11cnnamu23
+    followers: 22024
+    engagement: 516
+    commentsToLikes: 0.033954
+    id: ck138rkudho3k0i19689iz4oy
     verified: false
-    hashtags: "#protectyoface, #kgmtlxardene, #welcometothelowerlevel, #dondala"
-  - username: "pinklablonde"
+    hashtags: "#microinfluencer, #outfitreel, #streetwear, #longhair"
+  - username: "glowwithmar"
     fullname: >-
-      PINKLABLONDE
+      Marielle Juan
     bio: >-
-      👱🏻‍♀️ Marie-Anne Labrie 🎨 HAIR EDUCATOR 👸🏼 Beauty & Fashion ADDICT 💻 Currently working on @pinklablondeclub
+      Filipina-Canadian beauty content creator 🫶 @glowwithmar on TikTok (50k) 💌 mariellejuan99@hotmail.com
     location: "Canada"
-    followers: 27866
-    engagement: 318
-    commentsToLikes: 0.034537
-    id: ckf5qq8c4a79j0j23w6w2ve3z
+    followers: 34142
+    engagement: 5977
+    commentsToLikes: 0.051461
+    id: ckwzuvkwmyo1j0j232uyilcl4
     verified: false
-    hashtags: "#grateful, #styleandcolourtrophy, #shameonme"
-  - username: "harleens3khon"
+    hashtags: "#pores, #ad, #sunprotection, #sunscreenreapplication"
+  - username: "christina_cord"
     fullname: >-
-      Harleen Sekhon
+      Christina Kacollja - Toronto Creator
     bio: >-
-      Toronto | @designbyharleen fashion • beauty • art Collab/PR 📧 harleensekhonofficial@gmail.com
+      🤍 Toronto Influencer ☁️ Fashion, Beauty & Lifestyle ✉️ PR: contactchristinacord@gmail.com ☁️ Momma to @alessandro_kacollja
     location: "Canada"
-    followers: 3271
-    engagement: 966
-    commentsToLikes: 0.169015
-    id: ckf5o291c0m3d0j232y4q9oxq
+    followers: 6402
+    engagement: 527
+    commentsToLikes: 0.450802
+    id: cl881eyny20bx0i23sl7bnfmp
     verified: false
-    hashtags: "#aesthetic, #zarawoman, #longhairgoals, #neutralfashion"
+    hashtags: "#rihoas, #babeswithfayettebags, #inrihoas, #gifted"
 ---

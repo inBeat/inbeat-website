@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Turin In 2023
+title: Top 10 Models Instagram Influencers In Turin In 2024
 description: >-
-  Find top models Instagram influencers in Turin in 2023. Most popular hashtags: #torino #turin #model #fashion.
+  Find top models Instagram influencers in Turin in 2024. Most popular hashtags: #torino #turin #portrait #fashion.
 platform: Instagram
-hits: 20
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 20 Instagram influencers like this in Turin, Italy for you to pitch.
+hits: 19
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 19 Instagram influencers like this in Turin, Italy for you to pitch.
 profiles:
   - username: "marty__muse"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.006131
     id: ck8wgojylhris0j781y7zz7eb
     verified: false
-    hashtags: "#teentv, #simplee, #aliexpress, #tallygang"
+    hashtags: "#simplee, #aliexpressinfluencer, #tallygang, #adyce"
   - username: "navid.nasri"
     fullname: >-
       Navid Nasri | Photographer
@@ -55,6 +55,18 @@ profiles:
     id: ck8t66o44cfip0j787rsra0xs
     verified: false
     hashtags: "#finoallafine, #italy, #milejuve, #iorestoacasa"
+  - username: "giadamasii"
+    fullname: >-
+      𝐆𝐈𝐀𝐃𝐀 𝐌𝐀𝐒𝐈
+    bio: >-
+      📍Torino 【@temu_italia link in bio.】 ➡️ dkt4484 🎈@shein_it 15%: SS24Masi Fotografa @_photo_jade @fgfotoeventi 💌Adv: angel-jade@hotmail.it ♥@urban7_
+    location: "Italy"
+    followers: 33273
+    engagement: 88
+    commentsToLikes: 0.006327
+    id: ck6tmvv498mmx0j71sgeuotur
+    verified: false
+    hashtags: "#intimo, #sheinforall, #fashionstyle, #lingerielove"
   - username: "elisa_macco"
     fullname: >-
       Elisa Macco
@@ -115,16 +127,4 @@ profiles:
     id: ck6u3kocwyc6i0j71dbdaul60
     verified: false
     hashtags: "#glamourstyle, #fashionphotographers, #brunettegirls, #fashionstyle"
-  - username: "serena_filomena"
-    fullname: >-
-      SERENA FILOMENA ✨
-    bio: >-
-      📍Turin, Italy🇮🇹 • Beautician 💆🏻‍♀️ • Beauty & Lifestyle • Travel 🧳 •🔜Cosmoprof Worldwide 💌serenafilomena9@gmail.com
-    location: "Italy"
-    followers: 17142
-    engagement: 95
-    commentsToLikes: 0.044497
-    id: ck6u6fiztfb4i0j71uwtevple
-    verified: false
-    hashtags: "#clothing, #hot, #glam, #cosmetics"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Montreal in 2023
+title: Top 10 Mothers Instagram Influencers In Montreal In 2024
 description: >-
-  Find top mothers Instagram influencers in Montreal in 2023. Most popular hashtags: #montreal #mother #canada #ad.
+  Find top mothers Instagram influencers in Montreal in 2024. Most popular hashtags: #montreal #ootd #art #ottawa.
 platform: Instagram
-hits: 16
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 16 Instagram influencers like this in Montreal, Canada for you to connect with.
+hits: 10
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 10 Instagram influencers like this in Montreal, Canada for you to pitch.
 profiles:
-  - username: "itssaliaa"
+  - username: "torontofood"
     fullname: >-
-      Sali  Fashion|Style|Travel
+      Toronto Food
     bio: >-
-      From Montreal 🇨🇦 Fashion & Travel Mother of Nelson the pug 💌Contact : itssaliaa@gmail.com Get 15% off with my code SALI15 @nordgreenofficial
+      TORONTO FOOD Eater | Blogger | Content Creator | 📧: torontofood85@gmail.com #torontofood #toronto
     location: "Canada"
-    followers: 10473
-    engagement: 220
-    commentsToLikes: 0.181886
-    id: ck55n6jld5l2s0i11llerplax
+    followers: 71332
+    engagement: 45
+    commentsToLikes: 0.045436
+    id: clj5w4zt3o13g0j08er36f5yb
     verified: false
-    hashtags: "#rouge, #nxl, #notxlili, #notxliliseries"
-  - username: "rachele.buriassi29"
+    hashtags: "#patio, #cafe, #comfortfood, #toronto"
+  - username: "magoga"
     fullname: >-
-      Rachele Buriassi
+      Miriam Sekhon
     bio: >-
-      Principal Dancer with @grandsballets Previously 1st Soloist with Stuttgart Ballet and Boston Ballet 🇮🇹🇨🇦🇺🇸📍Montreal
+      Mother of @realmagoga @streetsmeets 📷 @dresslikeafilm vintage shop #песнисоседям #miriamsmemories Currently in Montreal
     location: "Canada"
-    followers: 11817
-    engagement: 696
-    commentsToLikes: 0.058616
-    id: ck5hrvxcfvkbd0i11czs2czjx
+    followers: 14643
+    engagement: 605
+    commentsToLikes: 0.031115
+    id: ck5bu5dh3h6t50i11jh6tui6v
     verified: false
-    hashtags: "#ballerinasofinstagram, #dancers, #me, #montreal"
-  - username: "lisamaartinez"
-    fullname: >-
-      Olmands
-    bio: >-
-      Mother Agent: Peggi Lepage B&M Management ~ Toronto Specs Models ~ Montreal Zoom Models ~ Bangkok TFM Model Management ~ Mumbai
-    location: "Canada"
-    followers: 2501
-    engagement: 1652
-    commentsToLikes: 0.037457
-    id: ck5hs2garvvl70i11qt2xmi56
-    verified: false
-    hashtags: "#blackouttuesday"
-  - username: "juliedupage"
-    fullname: >-
-      Julie du Page
-    bio: >-
-      🎬Actrice @5erang @lesinvisiblestva 👩🏼‍💻Chroniqueuse @salutbonjourofficiel @lp_lapresse 👨‍👩‍👧‍👦 Maman 📍 Montréal, Canada
-    location: "Canada"
-    followers: 32406
-    engagement: 269
-    commentsToLikes: 0.070327
-    id: ck6tkf3kz4kt00j71jds4mt8g
-    verified: false
-    hashtags: "#julielapie, #gratitude, #birthday, #monsieurboogie"
+    hashtags: "#magogamachulskaya, #aslongasweretogether, #filphotography"
   - username: "sherbatov"
     fullname: >-
       Eliezer Sherbatov
     bio: >-
-      Professional Hockey Player - (Polska) 🇨🇦From Montreal 🇮🇱Born in Israël 🇷🇺Русский говорящий 🎹Pianist 🌱Vegan lover @sherbatovgym @sherbatovfit
+      Professional Hockey Player (Mariupol, UA) 🇨🇦From Montreal 🇮🇱Born in Israël 🇷🇺Русский говорящий 🎹Pianist 🌱Vegan lover @sherbatovgym @sherbatovfit
     location: "Canada"
-    followers: 28665
-    engagement: 408
-    commentsToLikes: 0.044338
+    followers: 26483
+    engagement: 342
+    commentsToLikes: 0.031349
     id: ck5cgfgqyoqgj0i113j7go62b
     verified: false
-    hashtags: "#covid19, #poland, #coronavirus, #ootd"
-  - username: "julienglobe"
+    hashtags: "#family, #poland, #father, #fatherdaughter"
+  - username: "danyka.corrigan"
     fullname: >-
-      𝙹𝚞𝚕𝚒𝚎𝚗  𝙲𝚘𝚝𝚎
+      Danyka Corrigan-Lebeau
     bio: >-
-      Creativity can happen everywhere at anytime - My favourite animal is the sloth 🦥 -👬🔒Taken @androu87 🇨🇦 - Our newest project @flamingochalet 🏗🏡
+      M A M A x3 +1• W I F E • M T L , C A N A D A • 🧿 Lifestyle - Travel - Cooking - Motherhood Contact: danyka.corrigan@gmail.com
     location: "Canada"
-    followers: 5091
-    engagement: 549
-    commentsToLikes: 0.020979
-    id: ckap73w4tiivm0i781jwxnn2s
+    followers: 13023
+    engagement: 53
+    commentsToLikes: 0.209528
+    id: ckt8qveay69560j23kz20gngu
     verified: false
-    hashtags: "#mtl, #goodlife, #autumn, #traveladdict"
-  - username: "ladymarielle"
+    hashtags: "#mom, #littlebotbabygift, #shoplocal, #ad"
+  - username: "megmedeiros"
     fullname: >-
-      Marielle Altenor
+      Megan Medeiros
     bio: >-
-      🇨🇦🇭🇹 Mom x 3 🧑🏽‍🦱🧒🏾👶🏽 Blogger | Foodie | Lifestyle | Home Decor | Plant Mom🌿Sharing our everyday moments 💕#whatjazzylikes marielle.altenor@gmail.com
+      montréal outfits & other bits of life ♡ @public.reputation PR/collabs - andy@foliomontreal.com
     location: "Canada"
-    followers: 33735
-    engagement: 96
-    commentsToLikes: 0.187996
-    id: ck6u5apno8jc90j71w0gq7jmz
+    followers: 10584
+    engagement: 80
+    commentsToLikes: 0.026378
+    id: ck9wfce55o8qs0j787h4x2c66
     verified: false
-    hashtags: "#target, #standmixer, #bakersgonnabake, #bakefromscratch"
-  - username: "chris_dyer"
+    hashtags: "#styleinspiration, #outfitinspo, #streetstyle, #ootd"
+  - username: "soso_hti"
     fullname: >-
-      Chris Dyer
+      𝗦𝗼𝘀𝗼 🎧🪩
     bio: >-
-      Peruvian-Canadian artist, travelling the world to activate it with honest expressions of Soul. Peaceful Warrior. Skater 4 life. Server #chrisdyer
+      𝘈 𝘵𝘳𝘢𝘷𝘦𝘭𝘭𝘦𝘳 𝘸𝘩𝘰 𝘭𝘰𝘷𝘦𝘴 𝘧𝘢𝘴𝘩𝘪𝘰𝘯 Montréal, Canada ✉️ | Collab.so@hotmail.com
     location: "Canada"
-    followers: 237996
-    engagement: 145
-    commentsToLikes: 0.024232
-    id: ck136x5i98ozs0i19cwp14ywf
+    followers: 14244
+    engagement: 80
+    commentsToLikes: 0.012101
+    id: clexewlnakpjj0j08ngfy17gs
     verified: false
-    hashtags: "#mural, #spraypaint, #painting, #throwbackthursday"
-  - username: "kara_bino"
+    hashtags: "#pvtistes, #pvtcanada, #mtlmoments, #mtl"
+  - username: "ericafox"
     fullname: >-
-      Sarah Babineau
+      ERICA FOX
     bio: >-
-      Photographer / travel, food and lifestyle. The beige life is in the feed and all other colors are in stories. 📍Montreal
+      STYLE INSPO | BEAUTY SECRETS | EASY RECIPES ✨Mother of Foxes 🦊🦊 ✨ Ottawa, Ontario 🇨🇦
     location: "Canada"
-    followers: 66463
-    engagement: 382
-    commentsToLikes: 0.029677
-    id: ck13blm7kw0eh0i198bf3lptf
+    followers: 10051
+    engagement: 181
+    commentsToLikes: 0.262314
+    id: ckmw1dooi6oz20j23nqcxxj7o
     verified: false
-    hashtags: "#enjoyresponsibly, #frenchmood, #thisisgin, #momentsofmine"
-  - username: "justinlaurens"
+    hashtags: "#ottawalife, #ottawainfluencer, #ottawastyle, #fashionblogger"
+  - username: "moralview"
     fullname: >-
-      Justin Laurens
+      Carlos Mora
     bio: >-
-      Creator & Educator Other account: @just__indulge SUBSCRIBE to my YouTube Channel 👨‍🏫 ⬇️ DOWNLOAD FREE CHEATSHEET🎨:
+      🇨🇴🇨🇦 Canada YYC, YOW Other account @morac3 DM for pics
     location: "Canada"
-    followers: 61130
-    engagement: 841
-    commentsToLikes: 0.029803
-    id: ck5znov9vovfu0i14pw7l5pfv
+    followers: 15180
+    engagement: 448
+    commentsToLikes: 0.054234
+    id: ck9hb13ozexi20j78vutjkasl
     verified: false
-    hashtags: "#agameoftones, #artofvisuals, #shotzdelight, #majestic"
+    hashtags: "#portraitpage, #montreal, #edits, #calgary"
+  - username: "kevinledo"
+    fullname: >-
+      Kevin Ledo
+    bio: >-
+      <•> Painting walls and other surfaces <•> <•Portraiture – meets – abstraction•> •Contact info@ kevinledo
+    location: "Canada"
+    followers: 18285
+    engagement: 312
+    commentsToLikes: 0.059243
+    id: ck139axjtkef10i19mf42gm3x
+    verified: false
+    hashtags: "#montreal, #muralism, #alextrebek, #abstractpainting"
+  - username: "laracailletattoo"
+    fullname: >-
+      Lara Brindamour
+    bio: >-
+      BOOKS CLOSED MTL 🇨🇦 booking:laracailletattoo@gmail.com owner of @leschochottes_tattoo other project @brindvmour
+    location: "Canada"
+    followers: 36759
+    engagement: 164
+    commentsToLikes: 0.012430
+    id: ck0w15qrmhp1m0i19ayedz7to
+    verified: false
+    hashtags: "#mtl, #darkartists, #tttism, #art"
 ---

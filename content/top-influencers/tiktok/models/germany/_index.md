@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Germany In 2023
+title: Top 10 Models TikTok Influencers In Germany In 2024
 description: >-
-  Find top models TikTok influencers in Germany in 2023. Most popular hashtags: #fyp #foryou #foryoupage #stitch.
+  Find top models TikTok influencers in Germany in 2024. Most popular hashtags: #fyp #foryou #foryoupage #stitch.
 platform: TikTok
 hits: 141
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our search engine has 141 TikTok influencers like this in Germany for you to pitch.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database has 141 TikTok influencers like this in Germany for you to work with.
 profiles:
   - username: "lee_yuna_98"
     fullname: >-
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.063819
     id: ck8hphpjvzj1v0j783yhs0n1l
     verified: true
-    hashtags: "#couple, #foryoupage, #fyp, #crybaby"
+    hashtags: "#couple, #fyp, #foryoupage, #love"
 ---

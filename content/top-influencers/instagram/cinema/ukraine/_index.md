@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Ukraine In 2023
+title: Top 10 Cinema Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top cinema Instagram influencers in Ukraine in 2023. Most popular hashtags: #cinema #ukraine #cinematic.
+  Find top cinema Instagram influencers in Ukraine in 2024. Most popular hashtags: #cinematic #visual #sonyalpha.
 platform: Instagram
-hits: 21
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 21 Instagram influencers like this in Ukraine for you to collaborate.
+hits: 24
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 24 Instagram influencers like this in Ukraine for you to pitch.
 profiles:
   - username: "sbutko"
     fullname: >-
@@ -79,6 +79,30 @@ profiles:
     id: ck5q57l2groy90i11hzcma82p
     verified: false
     hashtags: "#simf, #sonya7sii, #videography, #weddingvideo"
+  - username: "sembler8"
+    fullname: >-
+      Man from Earth 🌎
+    bio: >-
+      🌎 Digital Nomad. YouTuber. Full time traveler. 🚁 Filmmaker. FPV pilot. 📍Bali 🦅 My drones kit 👇
+    location: "Ukraine"
+    followers: 265624
+    engagement: 138
+    commentsToLikes: 0.023754
+    id: ck0vwrtwxvaf10i19qtph17py
+    verified: false
+    hashtags: "#travel, #bestdestinations, #filmmaker, #earthpix"
+  - username: "kirp2016"
+    fullname: >-
+      Null Design
+    bio: >-
+      Follow my second account @kirp.design
+    location: "Ukraine"
+    followers: 16780
+    engagement: 148
+    commentsToLikes: 0.019892
+    id: ck6u53q717f5i0j71xqvma7rj
+    verified: false
+    hashtags: "#vectorgraphics, #characterdesign, #illustrator, #artwork"
   - username: "_utopia_707"
     fullname: >-
       《everyone sees in his own way》
@@ -103,28 +127,4 @@ profiles:
     id: ckf5v6m5ingtf0j234f6csfi9
     verified: false
     hashtags: ""
-  - username: "trollcatcher"
-    fullname: >-
-      Alice Tochylovska
-    bio: >-
-      ↟↟↟ Magizoologist ↟↟↟🇺🇦 #Sculptor ↟ plant lover ↟ #redhead ↟ artist ↟ traveller ↟ bookworm ↟ #fantasy & #scifi nerd ↟ And Pippin the #corgi ↟
-    location: "Ukraine"
-    followers: 26177
-    engagement: 478
-    commentsToLikes: 0.019621
-    id: ck14kvbeirhkb0i19g0f0cfl4
-    verified: false
-    hashtags: "#sculptureart, #dreadshare, #fantasy, #darkart"
-  - username: "govor.official"
-    fullname: >-
-      GOVOR
-    bio: >-
-      GOVOR - треки со смыслом #бейся #времянаисходе #неслушайум #душапоет #мечтай #сеньорита #танцуй Booking&PR: +380636474543 Премьера клипа ‘Бейся’⬇️🔥
-    location: "Ukraine"
-    followers: 76006
-    engagement: 87
-    commentsToLikes: 0.068444
-    id: ck6tjun993gev0j71g07xbumq
-    verified: false
-    hashtags: "#rnb, #afterparty, #newmusic, #backstage"
 ---

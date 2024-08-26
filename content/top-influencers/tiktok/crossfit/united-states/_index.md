@@ -1,11 +1,11 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In United States In 2023
+title: Top 10 Crossfit TikTok Influencers In United States In 2024
 description: >-
-  Find top crossfit TikTok influencers in United States in 2023. Most popular hashtags: #crossfit #fyp #fitness #workout.
+  Find top crossfit TikTok influencers in United States in 2024. Most popular hashtags: #crossfit #fyp #fitness #workout.
 platform: TikTok
-hits: 164
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine holds 164 TikTok influencers like this in United States for you to collaborate.
+hits: 163
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our database has 163 TikTok influencers like this in United States for you to contact.
 profiles:
   - username: "jam_f1t"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.035759
     id: ckbf7nv1ixlkh0j23fcbdhqkb
     verified: false
-    hashtags: "#skateboarding, #glutes, #workout, #foryoupage"
+    hashtags: "#crossfit, #fitness, #skateboarding, #fyp"
   - username: "kristin_bakes"
     fullname: >-
       kristin_bakes
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.018243
     id: ck9789rpb773v0j78tepe5ot8
     verified: true
-    hashtags: "#reallifeathome, #fyp, #workout, #foryoupage"
+    hashtags: "#foryoupage, #workout, #happyathome, #fitness"
   - username: "barbellsandbaddecisions"
     fullname: >-
       user4624186636153

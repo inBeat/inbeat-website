@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Poland In 2023
+title: Top 10 Lifestyle Instagram Influencers In Poland In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Poland in 2023. Most popular hashtags: #stylizacja #kosmetyki #polskadziewczyna #wakacje2021.
+  Find top lifestyle Instagram influencers in Poland in 2024. Most popular hashtags: #polska #polskadziewczyna #beauty #polishgirl.
 platform: Instagram
-hits: 806
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 806 Instagram influencers like this in Poland for you to connect with.
+hits: 894
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 894 Instagram influencers like this in Poland for you to connect with.
 profiles:
-  - username: "agastachurska"
+  - username: "vlada_vlada"
     fullname: >-
-      𝑨𝑮𝑵𝑰𝑬𝑺𝒁𝑲𝑨 𝑺𝑻𝑨𝑪𝑯𝑼𝑹𝑺𝑲𝑨
+      Vlada Karpovich | travel | content creator | worldwide
     bio: >-
-      ▪️vegan lifestyle ▪️represented by @madeit.management 📩 contact@madeit.management
+      Travel, food & lifestyle • open for collabs Photographer: people, brands, hotels Content creator at @canva 📍Warsaw based and 🌱plant-based | christian
     location: "Poland"
-    followers: 293206
-    engagement: 79
-    commentsToLikes: 0.211544
-    id: ck8sxl1xmhseg0j78crrizj95
+    followers: 13927
+    engagement: 441
+    commentsToLikes: 0.032339
+    id: ck5zmti2in73o0i149is5ggui
     verified: false
-    hashtags: "#reklama, #wsp, #jennyfairy, #magia"
-  - username: "modny_tata"
+    hashtags: "#portugal, #travel, #visitportugal, #visitlisbon"
+  - username: "veggiewayfarer"
     fullname: >-
-      dr Michał Będźmirowski
+      Caro • Photographer & Travel Writer
     bio: >-
-      🇵🇱 Doctor of Social Science Lifestyle, Fashion, Sport, Travel, Books Social media inquiries: info@modnytata.pl
+      ◇ Award Winning Travel Blog ◇ Sustainable Travel & Lifestyle ◇ Staunch Foodie 📩 Hello@veggiewayfarer.com 📍Belgium // Italy ↡ Travel Blog ↡
     location: "Poland"
-    followers: 125065
-    engagement: 55
-    commentsToLikes: 0.020379
-    id: ck15tjtdaiful0i196i8jo7lv
-    verified: true
-    hashtags: "#modnytata, #reklama, #puravida, #wsp"
-  - username: "sylka_ciekawska"
-    fullname: >-
-      Sylka Ciekawska
-    bio: >-
-      Contact-Collab : igielskaa1@gmail.com 💄 INFLUENCER 🌺 LIFESTYLE BLOGGER Love travel ;) PL✈UK
-    location: "Poland"
-    followers: 56964
-    engagement: 378
-    commentsToLikes: 0.031483
-    id: ck5hq3ep7sfg40i114bf1a39q
+    followers: 51268
+    engagement: 1646
+    commentsToLikes: 0.118082
+    id: ck0twaa3yelpz0i19qnfb6voo
     verified: false
-    hashtags: "#sheingals, #kosmetyki, #pielegnacja, #flatlaystyle"
-  - username: "joanna.walkow"
+    hashtags: "#eurosummer, #polandsights, #girlsthatwander, #christmas"
+  - username: "swinkamiki"
     fullname: >-
-      Joanna Walków
+      Wiktoria Miklis
     bio: >-
-      ♡ @adellanti.pl owner 🕊🌸 E-mail: joannawalkow@icloud.com #fashion | #travel | #lifestyle | #positivevibes ✨
+      TikTok: wiktoriamiklis beauty | lifestyle | fashion ✉️ wiktoria.miklis@o2.pl
     location: "Poland"
-    followers: 7761
-    engagement: 1557
-    commentsToLikes: 0.073788
-    id: ck9wekanbknaa0j7834my2xx2
+    followers: 24682
+    engagement: 698
+    commentsToLikes: 0.025057
+    id: ck6u1ow8pn04d0j71nbxses7q
     verified: false
-    hashtags: "#wiosennie, #pary, #torebka, #wie"
-  - username: "magda_lene_"
-    fullname: >-
-      Magda
-    bio: >-
-      ,,Nothing happens without a reason". #lifestyle Contact/Collab DM 💌 magdalena80202@gmail.com Konin, Poland 🇵🇱
-    location: "Poland"
-    followers: 19253
-    engagement: 775
-    commentsToLikes: 0.035636
-    id: ck5zt5txvzsia0i147ak8uch4
-    verified: false
-    hashtags: "#womenfashion, #sukienka, #photo, #bloggerstyle"
-  - username: "inesbeautypl"
-    fullname: >-
-      𝙞𝙣𝙚𝙨𝙗𝙚𝙖𝙪𝙩𝙮 -Aga Wroclaw 🌷🎀💝🇵🇱
-    bio: >-
-      𝓐𝓰𝓮42|Dentist|Beautyblogger |A lover of life |Beauty|Lifestyle|Fashion|Homedecor|Yoga| Olympus 𝓙𝓾𝓼𝓽 𝓱𝓪𝓿𝓮 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓕𝓪𝓲𝓽𝓱 Contact : ines@inesbeauty.pl
-    location: "Poland"
-    followers: 48228
-    engagement: 344
-    commentsToLikes: 0.110260
-    id: ck8tdgwnv399r0j78scov01sy
-    verified: false
-    hashtags: "#niechsiedziejenajlepiej, #storiediseta, #kobietylancome, #skincare"
-  - username: "rapujacepierogi"
+    hashtags: "#polskadziewczyna, #instagood, #picoftheday, #outfit"
+  - username: "ankyls"
     fullname: >-
       
     bio: >-
-      Parisian soul and beige aesthetics lover PL 🇵🇱 Warsaw 💌 rapujace@gmail.com Fashion ✖ Lifestyle ✖ Beauty
+      Ania 🏡 Poland 📍Tomaszów Maz. Lifestyle / Fashion / Travels / Flatlay _____________________________ 👗Owner @inspired_sh 🖱BLOG:
     location: "Poland"
-    followers: 12486
-    engagement: 551
-    commentsToLikes: 0.059271
-    id: ck8t70s9xf9s70j780sso23xk
+    followers: 6368
+    engagement: 604
+    commentsToLikes: 0.089126
+    id: ck8t4nvnk7gqe0j78y74lkcg0
     verified: false
-    hashtags: "#minimalstreetstyle, #dailylookbook, #picnictime, #llemerci"
+    hashtags: "#summervibes, #goldenhour, #kfs, #kocham"
+  - username: "nikkisetnik"
+    fullname: >-
+      Nikki Setnik
+    bio: >-
+      Juror - INFLUENCERS TOP 2022 🌿 Beauty / Lifestyle / Travel / Off Road 🌿 💌 Kontakt - nikolsetnik@o2.pl / DM 🌍🏝❤️ - @life_road_travel
+    location: "Poland"
+    followers: 41564
+    engagement: 413
+    commentsToLikes: 0.043664
+    id: ck15qb5z21zv40i19tpe5behf
+    verified: false
+    hashtags: "#polskamama, #polskadziewczyna, #polskakobieta, #pielegnacja"
+  - username: "gabriellaszklarz"
+    fullname: >-
+      Gabriella Szklarz 💎
+    bio: >-
+      LIFESTYLE/BEAUTY/FASHION Cracow 🫶🏼 With passion for travel 🌴
+    location: "Poland"
+    followers: 21087
+    engagement: 466
+    commentsToLikes: 0.026630
+    id: ck15seqjlcn220i197tw6vdqy
+    verified: false
+    hashtags: "#blonde, #igerspoland, #blondeme, #braids"
+  - username: "natbudzynska"
+    fullname: >-
+      Natalia Budzyńska
+    bio: >-
+      travel / fashion / lifestyle Poland budzynska.nat@gmail.com co-founder @soie_vintage
+    location: "Poland"
+    followers: 54783
+    engagement: 675
+    commentsToLikes: 0.006378
+    id: ckwvisc9gvoxo0j23zia9t0vn
+    verified: false
+    hashtags: "#vistula, #new, #tousjewelry, #touspolska"
   - username: "o_czarnecka"
     fullname: >-
       Aleksandra Czarnecka
     bio: >-
-      | MAKEUP | BEAUTY | LIFESTYLE | 📩 Collab: o.czarnecka.yt@gmail.com 🕯Founder: @candlewick.pl 📍Szczecin/Kołobrzeg #inspiredbyoczarnecka
+      | MAKEUP | BEAUTY | LIFESTYLE | 📩 Collab: o.czarnecka.yt@gmail.com 🎶 TikTok: o_czarnecka
     location: "Poland"
-    followers: 58022
-    engagement: 1884
-    commentsToLikes: 0.027311
+    followers: 56686
+    engagement: 879
+    commentsToLikes: 0.018980
     id: ck8t70ghsf8u80j78dgdq0npw
     verified: false
-    hashtags: "#nyxcosmeticspl, #glamfam, #makeuplooks, #makeupartist"
-  - username: "ladysariel"
+    hashtags: "#morphexjamescharles, #nyxcosmeticspl, #makegirlz, #revolutionpro"
+  - username: "aaagistyle"
     fullname: >-
-      Lady Sariel
+      Agnieszka Bartków
     bio: >-
-      Collab: ladysariel@icloud.com Moda alternatywna ❤️ Makijaż 🖤 Tatuaże ❤️ Lifestyle 🖤 ⬇️⬇️youtube!⬇️⬇️
+      fashion inspo | content creator | lifestyle 🤍 contact : aagistyle@gmail.com
     location: "Poland"
-    followers: 89998
-    engagement: 341
-    commentsToLikes: 0.032153
-    id: ck5hh3elg66hp0i113na7ltaa
+    followers: 33242
+    engagement: 617
+    commentsToLikes: 0.084815
+    id: cl6cj5ctfi6hj0i234urlfyw7
     verified: false
-    hashtags: "#modelka, #makijaz, #polishmetalhead, #plodylody"
-  - username: "daawidrakowski"
+    hashtags: "#sprinootd, #zaraootd, #whitelook, #sweter"
+  - username: "karolina_cmw"
     fullname: >-
-      Dawid Rakowski💥
+      Karolina Jedynak
     bio: >-
-      ✈️Travels & Lifestyle 🚀Team @fanadisecom 📩daawidrakowski@gmail.com ⬇️ MORE ON STORIES ⬇️
+      Kreatywne wideo telefonem 📲 Lifestyle.. Fotografia 📸 Mama dwójki.. rok po roku 💥 📩 karolina.colormyway@gmail.com
     location: "Poland"
-    followers: 115152
-    engagement: 797
-    commentsToLikes: 0.067723
-    id: ck8wgjv0nhhpv0j781vbxmzmj
+    followers: 11675
+    engagement: 587
+    commentsToLikes: 0.001823
+    id: ck8tc8arhynah0j78k6v3cu77
     verified: false
-    hashtags: "#vespapolska, #yesvespa, #vespa, #mirindaorange"
+    hashtags: "#summer, #instaphoto, #cosmetics, #photography"
 ---

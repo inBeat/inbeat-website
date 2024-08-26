@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Turkey In 2023
+title: Top 10 Architecture Instagram Influencers In Turkey In 2024
 description: >-
-  Find top architecture Instagram influencers in Turkey in 2023. Most popular hashtags: #architecture #love #photography #photooftheday.
+  Find top architecture Instagram influencers in Turkey in 2024. Most popular hashtags: #architecture #istanbul #mimari #photography.
 platform: Instagram
-hits: 136
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 136 Instagram influencers like this in Turkey for you to connect with.
+hits: 139
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 139 Instagram influencers like this in Turkey for you to contact.
 profiles:
   - username: "esen.matras"
     fullname: >-
@@ -91,40 +91,40 @@ profiles:
     id: ck5qahtgfgh1f0i11297whpfj
     verified: false
     hashtags: "#design, #architettura, #sketchbook, #sketch"
-  - username: "yol__izleri"
+  - username: "haakankeles"
     fullname: >-
-      P.Karadeniz🌏📷 Gavur İzmirli
+      hakan keleş
     bio: >-
-      𝓣𝓱𝓮 𝓼𝓪𝓶𝓮 𝓺𝓾𝓮𝓼𝓽𝓲𝓸𝓷 𝓪𝓵𝔀𝓪𝔂𝓼 𝓬𝓸𝓶𝓮 𝓫𝓪𝓬𝓴, "𝓦𝓱𝓮𝓻𝓮 𝓽𝓸 𝓽𝓻𝓪𝓿𝓮𝓵?"✈️
+      💥#lilliputing ✏phd.architect/illustrator 📩mail: haakankeles@hotmail.com
     location: "Turkey"
-    followers: 5005
-    engagement: 1277
-    commentsToLikes: 0.163131
-    id: ck6ue6jigp3qk0j71g42fl21f
+    followers: 94850
+    engagement: 1211
+    commentsToLikes: 0.008509
+    id: ck0vyxiba69l70i1906j77a4i
     verified: false
-    hashtags: "#dunyakazanbizgezgin, #history, #travelling, #gezginclub"
-  - username: "blogzeynosu"
+    hashtags: "#illustrasyon, #digitalart, #tokyo2021, #art"
+  - username: "mehmetioksuz"
     fullname: >-
-      Zeynep 🍂
+      Mehmet Öksüz
     bio: >-
-      𝓲𝓬𝓲𝓶´𝓭𝓮𝓷 𝓰𝓮𝓵𝓭𝓲 ♡︎
+      Mekan, yemek, müzik yaparım. Daha niceleri öne çıkan hikayelerde. Yuva. @gibibodrum
     location: "Turkey"
-    followers: 7931
-    engagement: 588
-    commentsToLikes: 0.031076
-    id: ckf5mfn57tla00j2355ycknu8
+    followers: 40943
+    engagement: 1204
+    commentsToLikes: 0.023878
+    id: ck8t6n24ae6ma0j78siq8lvk9
     verified: false
-    hashtags: "#homesweethome, #sweet, #food, #interiordesign"
-  - username: "fotografsarayi"
+    hashtags: "#interior, #evdekorasyonu, #architecture, #dekorasyon"
+  - username: "mesrureky"
     fullname: >-
-      𝑶𝒎𝒆𝒓 𝑹𝒆𝒏𝒄𝒃𝒆𝒓 🇹🇷
+      Mesrure Kurdoglu YILDIZ
     bio: >-
-      Harika sözler eşliğinde fotoğraflar ve yüreğini ısıtacak paylaşımlar seni bekliyor... Takip et kaçırma!
+      📷All photos mine 🅰️ @ww_turkey @turkobjektif_world @raw_community_member VIP GOLD 4 VIP 42 Members of Great Hub ⬇️⬇️⬇️
     location: "Turkey"
-    followers: 27984
-    engagement: 889
-    commentsToLikes: 0.121482
-    id: ck9hbwkj5ir7n0j78bdsmfm0w
+    followers: 27596
+    engagement: 438
+    commentsToLikes: 0.123069
+    id: ck0u69sx81eub0i198tkm1gep
     verified: false
-    hashtags: "#city, #flowermagic, #architectures, #cityview"
+    hashtags: "#hello, #roundphot0, #through, #worlds"
 ---

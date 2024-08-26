@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Austin In 2023
+title: Top 10 Nutrition Instagram Influencers In Austin In 2024
 description: >-
-  Find top nutrition Instagram influencers in Austin in 2023. Most popular hashtags: #healthylifestyle #healthyfood #healthyliving.
+  Find top nutrition Instagram influencers in Austin in 2024. Most popular hashtags: #healthylifestyle #fitness #motivation #healthyfood.
 platform: Instagram
-hits: 41
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our database has 41 Instagram influencers like this in Austin, United States for you to connect with.
+hits: 53
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 53 Instagram influencers like this in Austin, United States for you to work with.
 profiles:
   - username: "minithunderbird"
     fullname: >-
@@ -19,6 +19,30 @@ profiles:
     id: ckf5o7td919390j23xakzz243
     verified: false
     hashtags: "#fitnessjourney, #training, #hardcore, #teamcarolvaz"
+  - username: "planwithlaken"
+    fullname: >-
+      Laken | Goal Setting
+    bio: >-
+      Learn how to make time for your personal goals! 🎥 YouTuber 🎤 Public Speaker 🗽 NYC ⬇️ Sign Up for Accelerate Your Goals Live Course!
+    location: "United States"
+    followers: 38652
+    engagement: 89
+    commentsToLikes: 0.092890
+    id: ck0tz1jltosi40i19gvq26ojm
+    verified: false
+    hashtags: "#makeaplan, #booklove, #instabooks, #limitingbeliefs"
+  - username: "schroederfit"
+    fullname: >-
+      Tyler Schroeder
+    bio: >-
+      𝙔𝙤𝙪𝙧 𝙑𝙞𝙨𝙞𝙤𝙣, 𝙔𝙤𝙪𝙧 𝘿𝙧𝙚𝙖𝙢 💪 Top 3 National Athlete | @evolutionfitnessnd 👨‍🔬 Accelerated Peptides Advisor 📧 < 𝘾𝙤𝙖𝙘𝙝𝙞𝙣𝙜 🎮 Twitch Affiliate Streamer
+    location: "United States"
+    followers: 5514
+    engagement: 2114
+    commentsToLikes: 0.026532
+    id: ckaowlchx9fh00i78gq1jrwgr
+    verified: false
+    hashtags: "#fit, #fitfam, #healthylifestyle, #instafit"
   - username: "aneshea_shali"
     fullname: >-
       Aneshea Shali
@@ -42,19 +66,19 @@ profiles:
     commentsToLikes: 0.017620
     id: ck5hpw09ts2b20i114j9wopgy
     verified: false
-    hashtags: "#mealprep, #foodprep, #avocado, #mealplan"
-  - username: "planwithlaken"
+    hashtags: "#yummy, #mealprepping, #mealplan, #weightloss"
+  - username: "veganfitnessinfo"
     fullname: >-
-      Laken | Goal Setting
+      Vegan Fitness & Nutrition Info
     bio: >-
-      Learn how to make time for your personal goals! 🎥 YouTuber 🎤 Public Speaker 🗽 NYC ⬇️ Sign Up for Accelerate Your Goals Live Course!
+      📈 Grow your IG page ➡ @engagencyco 🌿 Vegan Fitness & Nutrition Tips 👇🏼 80% Off The Vegan Bundle 👇🏼
     location: "United States"
-    followers: 38652
-    engagement: 89
-    commentsToLikes: 0.092890
-    id: ck0tz1jltosi40i19gvq26ojm
+    followers: 241757
+    engagement: 19
+    commentsToLikes: 0.011069
+    id: ck0w2ymsnqrac0i19gnzjmh1m
     verified: false
-    hashtags: "#penmanship, #books, #goodreads, #booklove"
+    hashtags: "#eatclean, #vegansofinstagram, #plantbased, #plantbaseddiet"
   - username: "kaylinpyles"
     fullname: >-
       Online Fitness Coach + CEO
@@ -67,18 +91,6 @@ profiles:
     id: ck0w367zzrset0i19cq7xn6er
     verified: false
     hashtags: "#goals, #transformation, #texas, #fitness"
-  - username: "doctorsterling"
-    fullname: >-
-      Dr. Sterling Petersen DC
-    bio: >-
-      👨🏼‍⚕️ Co-owner @rootcausemedicalclinic ⚡️ Chiro: @doctorsterlingadjusts 📸 @wilhelminamodels 🕺 TikTok | doctorsterling 🔑 Latest YouTube Video👇
-    location: "United States"
-    followers: 38757
-    engagement: 148
-    commentsToLikes: 0.026389
-    id: ck8wg6kocgtgr0j78vheff48s
-    verified: false
-    hashtags: "#chiropractic, #chiropracticpopup, #asmr, #lachiropractor"
   - username: "eatoutloseweight"
     fullname: >-
       Lindsay Smith RD • Dietitian
@@ -90,41 +102,29 @@ profiles:
     commentsToLikes: 0.023334
     id: ck13c5e4ryp6f0i193c7nrrgw
     verified: false
-    hashtags: "#ww, #lilyschocolate, #pizzatime, #quickrecipe"
-  - username: "katyaplewniak"
+    hashtags: "#weightlosstips, #weightwatchers, #superbowlfood, #weightlossrecipe"
+  - username: "legswithlinda"
     fullname: >-
-      Katya Plewniak
+      ʟɪɴᴅᴀ ʟɪᴅᴜᴍᴀ•ᴏɴʟɪɴᴇ ᴄᴏᴀᴄʜ
     bio: >-
-      🏋🏻‍♀️ Certified Personal Trainer & Nutrition Coach ✨ Only Account ✨
+      Strength & Nutrition Coach Pre/Post Natal exercise specialist 🤰 @foundationusa ⚒ @prumattfit 🔥 @nutre_meals / code Linda 📩Join Online Coaching ⬇️
     location: "United States"
-    followers: 32867
-    engagement: 401
-    commentsToLikes: 0.049583
-    id: ck0tucuup6mti0i194vd3qra9
+    followers: 20775
+    engagement: 549
+    commentsToLikes: 0.023983
+    id: ckqyz4a0q49fq0j233ss2fdpa
     verified: false
-    hashtags: "#thursdaythoughts, #tbt, #hurryupweekend, #mygirls"
-  - username: "mindfully.megan"
+    hashtags: "#legswithlinda, #npcwellness, #womenwholift, #powerlifting"
+  - username: "jeremymille.r"
     fullname: >-
-      ⊹ Mindfully Megan ⊹
+      Jeremy Miller
     bio: >-
-      Wellness Practitioner from Austin, TX Empowering you to live mindfully & heal from within Ayurvedic Health • Trauma Healing🕊 💌 info@mindfullymegan.com
+      📍Austin, TX 🏃‍♂️Running + Lifting Coach ➕2:44 Marathoner + Ultra Runner 🎙️The Jeremy Miller Podcast ⚡️ @go.switchback
     location: "United States"
-    followers: 6423
-    engagement: 571
-    commentsToLikes: 0.217191
-    id: ck5byocqfpj2s0i11cq5kz72t
+    followers: 145890
+    engagement: 124
+    commentsToLikes: 0.026727
+    id: ck0vvyd5brbsb0i19x5n6196x
     verified: false
-    hashtags: "#mindhealth, #healing, #wellbeing, #mentalhealth"
-  - username: "austin.mfit"
-    fullname: >-
-      Austin Martin
-    bio: >-
-      ▫️ Online Coach | 24 | 6’4 | Natural ▫️ WORKOUT APP + BOOTY PROGRAMS (Free trial), Custom Training + Nutrition Plans | YouTube ⬇️
-    location: "United States"
-    followers: 243084
-    engagement: 561
-    commentsToLikes: 0.008736
-    id: ck5q3kpezl7cl0i11y3lhi6zx
-    verified: false
-    hashtags: ""
+    hashtags: "#runningshoes, #training, #ultrarunning, #fitness"
 ---

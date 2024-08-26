@@ -1,12 +1,48 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Turkey In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Turkey In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Turkey in 2023. Most popular hashtags: #photography #design #branding.
+  Find top graphic-designers Instagram influencers in Turkey in 2024. Most popular hashtags: #illustration #illustrator #artwork #drawing.
 platform: Instagram
-hits: 11
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our database holds 11 Instagram influencers like this in Turkey for you to pitch.
+hits: 29
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 29 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
+  - username: "celebiligizem"
+    fullname: >-
+      Gizem Çelebi
+    bio: >-
+      Traveller & Content Creator | Graphic Designer @futureimage.co
+    location: "Turkey"
+    followers: 10647
+    engagement: 1956
+    commentsToLikes: 0.018329
+    id: ck5hnzd1konnw0i11mitbma0l
+    verified: false
+    hashtags: "#cappadocia, #travelturkey, #turkey, #memories"
+  - username: "gulsah_alcin_ozek"
+    fullname: >-
+      Gülşah Alçın Özek
+    bio: >-
+      Illustrator • graphic designer 🎨🖌️ for children book illustration 💌 gusalcin@gmail.com Represented Internationally by @kovanagency
+    location: "Turkey"
+    followers: 11360
+    engagement: 349
+    commentsToLikes: 0.024975
+    id: ck14l6kd0t41i0i19vry8ww46
+    verified: false
+    hashtags: "#childrenillustration, #kidslitillustration, #watercolorcharacters, #picturebookillustration"
+  - username: "ethemonurb"
+    fullname: >-
+      Ethem Onur Bilgiç
+    bio: >-
+      illustrator & graphic designer
+    location: "Turkey"
+    followers: 36838
+    engagement: 255
+    commentsToLikes: 0.007096
+    id: ck0vymbrp4pff0i19hp46ri9b
+    verified: false
+    hashtags: "#poster, #ipadpro, #procreate, #illustration"
   - username: "orhandoganer.artstudio"
     fullname: >-
       Orhan Doganer
@@ -19,18 +55,6 @@ profiles:
     id: ckaovg7y44hru0i78e3u55rit
     verified: false
     hashtags: "#pencils, #artgallery, #drawing, #blackpencil"
-  - username: "esgimira"
-    fullname: >-
-      Ezgi Develi 💋
-    bio: >-
-      LifeStyle | Motherhood | Influencer Gazi Üniv. Graphic Designer🎓 📨 esgimira@gmail.com Ankara 🇹🇷
-    location: "Turkey"
-    followers: 442960
-    engagement: 245
-    commentsToLikes: 0.043590
-    id: ck602w26wjljd0i140cropqz6
-    verified: false
-    hashtags: "#efsanevimgerid, #ba, #yilintrendrenkleri, #koropalstlatemizlikbirliktekolay"
   - username: "magn0liaa"
     fullname: >-
       Magnolia Nazemi
@@ -59,26 +83,14 @@ profiles:
     fullname: >-
       Ahmet Taha Bilgin
     bio: >-
-      Art Director | Graphic Designer | Photographer Founder @crea_ajans #artdirector #photographer #coffe #music #books #travel
+      Art Director | Graphic Designer | Photographer Founder @crea_ajans #artdirector #photographer #coffe #music #books #travel #creaajans
     location: "Turkey"
-    followers: 20689
-    engagement: 242
-    commentsToLikes: 0.039875
+    followers: 20687
+    engagement: 180
+    commentsToLikes: 0.087982
     id: ck14h6b168r3u0i19xivql2fc
     verified: false
-    hashtags: "#bosphorus, #sunset, #rain, #turkobjektif"
-  - username: "ysnyaman"
-    fullname: >-
-      Yasin Yaman
-    bio: >-
-      UI / Graphic Designer
-    location: "Turkey"
-    followers: 50627
-    engagement: 1101
-    commentsToLikes: 0.016601
-    id: ck14jdfewjsbf0i19ngmw3x21
-    verified: false
-    hashtags: "#foundation, #travel, #osmanl, #beyo"
+    hashtags: "#begonvil, #naturephotography, #mu, #got"
   - username: "paradise.al"
     fullname: >-
       ＰＡＲＤＩＳ
@@ -115,16 +127,4 @@ profiles:
     id: ck6typlae54ad0j714u4a8ai4
     verified: false
     hashtags: "#marketing, #brand, #logo, #artwork"
-  - username: "73x5"
-    fullname: >-
-      73x5™
-    bio: >-
-      Daily poster project by Samet Kesen.
-    location: "Turkey"
-    followers: 62408
-    engagement: 141
-    commentsToLikes: 0.006482
-    id: ck6uhr50ear7v0j71fp54detu
-    verified: false
-    hashtags: "#photography, #design, #posters, #sametkesen"
 ---

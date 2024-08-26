@@ -1,12 +1,24 @@
 ---
-title: Top 10 Models Instagram Influencers In Boston In 2023
+title: Top 10 Models Instagram Influencers In Boston In 2024
 description: >-
-  Find top models Instagram influencers in Boston in 2023. Most popular hashtags: #boston #model #instagood #photooftheday.
+  Find top models Instagram influencers in Boston in 2024. Most popular hashtags: #model #boston #photoshoot #explorepage.
 platform: Instagram
-hits: 99
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 99 Instagram influencers like this in Boston, United States for you to collaborate.
+hits: 123
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 123 Instagram influencers like this in Boston, United States for you to pitch.
 profiles:
+  - username: "meadowmanfredini"
+    fullname: >-
+      ❀  M E A D O W  ❀
+    bio: >-
+      🇺🇸🇩🇪🇦🇷🇮🇹 @seameclean🌊 📍miami, fl @photosbymeadow 📸 ◦ @jafswimteam captain ◦ model ◦ windsurfer 📩dm/email me for inquiries and collabs
+    location: "United States"
+    followers: 5146
+    engagement: 1494
+    commentsToLikes: 0.118907
+    id: ckap8rroupl340i78zlq0k5hp
+    verified: false
+    hashtags: "#influencer, #ootd, #miamiswimweek, #instastyle"
   - username: "nikeliphotography"
     fullname: >-
       Eliezer Asamoah
@@ -19,6 +31,18 @@ profiles:
     id: ck5zo8gzhpzux0i14xqwqc8o4
     verified: false
     hashtags: "#blackmagic, #nude, #nikeliphotography, #nikon"
+  - username: "maddy_mahoney"
+    fullname: >-
+      Madison Mahoney
+    bio: >-
+      I’m not superstitious but I am little stitious 📍Miami
+    location: "United States"
+    followers: 11621
+    engagement: 395
+    commentsToLikes: 0.015316
+    id: ckv8ztoz7311j0j23qj3t77yd
+    verified: false
+    hashtags: "#miami, #photography, #modeling, #photoshoot"
   - username: "maggiejskinner"
     fullname: >-
       Maggie J. Skinner 🌶
@@ -31,30 +55,30 @@ profiles:
     id: ck6u4n2o74nst0j71cnjhylhs
     verified: false
     hashtags: "#blackouttuesday"
-  - username: "williams.r00"
+  - username: "freddy_t.23"
     fullname: >-
-      Williams
+      Freddy Torres 🇵🇷
     bio: >-
-      📍 Boston 📚 Pre Med 🩺
+      God first 🙏🏽 Model | Actor | Content Creator | Influencer Promos/Collabs 📨 Forever King 👑🕊 📩:Freddysmoove01@gmail.com
     location: "United States"
-    followers: 3229
-    engagement: 2041
-    commentsToLikes: 0.037947
-    id: ck0ubnacwf0ub0i19o1cppqm7
+    followers: 161872
+    engagement: 5313
+    commentsToLikes: 0.032003
+    id: clfajwg5q1s9o0j08l8zq1kaq
     verified: false
-    hashtags: "#sexy, #fashion, #love, #model"
-  - username: "iamgenesisgp"
+    hashtags: "#shoots, #funny, #bostonmodel, #foryoupage"
+  - username: "tayloredgenius"
     fullname: >-
-      Génesis N. González P.
+      Taylor Mosley
     bio: >-
-      𝗩 𝗘 𝗡 𝗘 𝗭 𝗨 𝗘 𝗟 𝗔 𝗡 𝘛𝘩𝘦 𝘞𝘰𝘳𝘭𝘥 𝘪𝘴 𝘮𝘺 𝘙𝘶𝘯𝘸𝘢𝘺. • 𝕍𝕚𝕤𝕦𝕒𝕝 𝔻𝕖𝕤𝕚𝕘𝕟 | @genesis.dsgn •
+      “No success is without mistakes, OWN IT!” - Shooter | Set Designer - Partners w/ @phillyhairsource - Hydrated by @just - 📧 to book | NO DM’S -📍PHL
     location: "United States"
-    followers: 2924
-    engagement: 1144
-    commentsToLikes: 0.069388
-    id: ck0w2qcoypnso0i19d475uazf
+    followers: 33609
+    engagement: 290
+    commentsToLikes: 0.009592
+    id: ck0vxsrfa0j970i1972igygkd
     verified: false
-    hashtags: "#newyork, #fashion, #nyc, #model"
+    hashtags: "#phillymodel, #healing, #beauty, #philly"
   - username: "stizzy_leftlane"
     fullname: >-
       “P🩸IN 2 R🎙P” ALBUM OUT NOW‼️
@@ -67,18 +91,6 @@ profiles:
     id: ck6u0y1k5iesr0j713hh33a0q
     verified: false
     hashtags: "#roxbury, #rap, #linkinmybio, #viral"
-  - username: "depressingfridgepoems"
-    fullname: >-
-      Depressing Fridge Poems
-    bio: >-
-      ▪️ poems by rusty (he/him) ▪️ new poems on tuesdays & thursdays ▪️ store & patreon ⤵️
-    location: "United States"
-    followers: 239425
-    engagement: 268
-    commentsToLikes: 0.003605
-    id: ck0tt4n1c150i0i191j91gxp4
-    verified: false
-    hashtags: "#comicillustration, #comicdrawing, #photooftheday, #poe"
   - username: "fitmomof2whojeeps"
     fullname: >-
       Kristen
@@ -91,6 +103,18 @@ profiles:
     id: ck0w59gty2k460i19g26xhiro
     verified: false
     hashtags: "#bikini, #jeepin, #girlswhodetail, #annamariaislandflorida"
+  - username: "lasantavega"
+    fullname: >-
+      The Saint Vega
+    bio: >-
+      📍✈️ CHI+LA+NY REBRANDING, so don’t hesitate to DM or EMAIL! Check out tagged photos! @manicuremevega @galleriadevega Support me $lasantavega
+    location: "United States"
+    followers: 2304
+    engagement: 1074
+    commentsToLikes: 0.115032
+    id: ck0w2ow32ph1e0i19c9f3l4ql
+    verified: false
+    hashtags: "#castingcall, #hairstylist, #lamodel, #txmodel"
   - username: "cosmicphenomenon"
     fullname: >-
       Maya / Sebastian Noir
@@ -103,28 +127,4 @@ profiles:
     id: ck6tv5rz1kcb20j71kgu219ig
     verified: false
     hashtags: "#couplegoals, #genderfluid, #nonbinarytopsurgery, #femmelesbian"
-  - username: "izzyb_model"
-    fullname: >-
-      Izzy B
-    bio: >-
-      13 yo model NYC: @kidsxohlsson Boston: @modelclubinc acct run by @jennyb_mom #teamohlsson #modelclubinc #teenmodel
-    location: "United States"
-    followers: 21837
-    engagement: 338
-    commentsToLikes: 0.184427
-    id: ck5c926bfamw00i11x7wn3l1g
-    verified: false
-    hashtags: "#photooftheday, #hoodie, #instagood, #lorysun"
-  - username: "ashley15c"
-    fullname: >-
-      Ashley Cunningham
-    bio: >-
-      📍Boston MA ☆ Model ☆ Founder @growwiththefloworg ☆ @nbcf Community Ambassador
-    location: "United States"
-    followers: 23814
-    engagement: 392
-    commentsToLikes: 0.058974
-    id: ck5zo02w4phkj0i14ngq5281w
-    verified: false
-    hashtags: "#massachusetts, #model, #ashleycunningham, #missuniverse"
 ---

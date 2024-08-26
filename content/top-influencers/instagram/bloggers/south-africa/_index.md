@@ -1,24 +1,48 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In South Africa In 2023
+title: Top 10 Bloggers Instagram Influencers In South Africa In 2024
 description: >-
-  Find top bloggers Instagram influencers in South Africa in 2023. Most popular hashtags: #fashion #instagood #love #style.
+  Find top bloggers Instagram influencers in South Africa in 2024. Most popular hashtags: #instagood #fashion #blogger #ootd.
 platform: Instagram
-hits: 28
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat has 28 Instagram influencers like this in South Africa for you to collaborate.
+hits: 32
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 32 Instagram influencers like this in South Africa for you to collaborate.
 profiles:
-  - username: "jadezammitstevens"
+  - username: "funfoodrecipeworld"
     fullname: >-
-      As told by Jade
+      Shema's Kitchen
     bio: >-
-      𝐹𝑎𝑠ℎ𝑖𝑜𝑛 & 𝐵𝑒𝑎𝑢𝑡𝑦 🥰 Maltese 🇲🇹 Handmade Hair Accessories : @jadewithlove_x 💕 Award Winning Fashion Blogger 2017 💖 AI Graduate 🎓 Full Stack Developer 🤓
+      Food Blogger Recipe Creator 🫰🏻 #shemaskitchen cookbook Dm for Collab/PR❤️ 📍South Africa 🇿🇦 originally from 🇮🇳
     location: "South Africa"
-    followers: 25728
-    engagement: 570
-    commentsToLikes: 0.008004
-    id: ck6tm66s8790d0j71tnq2jwhr
+    followers: 72537
+    engagement: 433
+    commentsToLikes: 0.037749
+    id: ck9wgfsx6t89h0j789b86ifdl
     verified: false
-    hashtags: "#malta, #style, #blonde, #summer"
+    hashtags: "#eidaladha, #desserts, #ramadan, #foodphotography"
+  - username: "_twinfluencers"
+    fullname: >-
+      Liselle & Lisette So-oabes
+    bio: >-
+      🏆 Winning Bloggers| Digital Strategists| Travel Enthusiasts| Youtubers | Entrepreneurs & Realtors @twin_tower_property_group 📍: 🇳🇦 🧸: @babyfluencer_
+    location: "South Africa"
+    followers: 112097
+    engagement: 259
+    commentsToLikes: 0.025587
+    id: ck6tokv5temt70j71rbfmwodn
+    verified: false
+    hashtags: "#twinfluencers, #namibia, #twinning, #birthdaymonth"
+  - username: "miss_luckypony"
+    fullname: >-
+      Angie Batis Durrant
+    bio: >-
+      JHB based photographer 🖤 Content creator 🖤 Blogger🖤 Mail/DM to collaborate angie@luckypony.co.za
+    location: "South Africa"
+    followers: 46657
+    engagement: 51
+    commentsToLikes: 0.013498
+    id: ck138oy1tha770i1924a66pqw
+    verified: false
+    hashtags: "#kidsfashion, #cottononkids, #lucky, #lpmademebakeit"
   - username: "tailsofamermaid"
     fullname: >-
       Natalie Mulvaney
@@ -67,6 +91,30 @@ profiles:
     id: ck6uctdwcheq10j71jfrc4ta1
     verified: false
     hashtags: "#travelblog, #thefisayo, #travelwriters, #sponsorship"
+  - username: "theprdiva"
+    fullname: >-
+      The PR Diva
+    bio: >-
+      God☝🏾🇨🇦🇳🇬🇺🇸 Global Entertainment Executive & Entrepreneur💰 Lifestyle•Enjoyment•Plug🔌 African #BusinessDiva takin ova the world💃🏾 #ActLocalThinkGlobal
+    location: "South Africa"
+    followers: 16580
+    engagement: 365
+    commentsToLikes: 0.271788
+    id: ck15tfkb1hu3r0i19umea88te
+    verified: false
+    hashtags: "#theprdiva, #bloggers, #marketing, #torontofashion"
+  - username: "dr.samylanda"
+    fullname: >-
+      Samy Landa
+    bio: >-
+      North African Man ⵣ 📍🇹🇳 Gemini ♊︎
+    location: "South Africa"
+    followers: 59033
+    engagement: 73
+    commentsToLikes: 0.050197
+    id: ck5hpn1mbrmu70i11rzu3vsem
+    verified: false
+    hashtags: "#travelgram, #traveladdict, #photography, #blog"
   - username: "natalieamywilliams"
     fullname: >-
       Natalie Amy Williams
@@ -79,52 +127,4 @@ profiles:
     id: ck14kud98rdaj0i19th7ms79e
     verified: false
     hashtags: "#details, #fashionblogger, #joinmyteam, #maldivesquarantine"
-  - username: "marush_nel"
-    fullname: >-
-      𝐌𝐚𝐫𝐮𝐬𝐡𝐤𝐞 𝐍𝐞𝐥
-    bio: >-
-      Fashion Influencer Social Media Manager @bruidsgids Director @inner_ink_art For collaborations contact: leon@ljhpr.co.za
-    location: "South Africa"
-    followers: 12205
-    engagement: 444
-    commentsToLikes: 0.045378
-    id: ck5ca9yu6d03t0i11u9mws1kr
-    verified: false
-    hashtags: "#bloglovinfashion, #fashionmodel, #bossbabe, #lifeofaninfluencer"
-  - username: "thelastmaharaja"
-    fullname: >-
-      Jiveshen Moodley
-    bio: >-
-      Noor Fawaar ✨🫧 Son of Venus ♎️ Beauty Junkie 🙆🏽‍♂️ Joburg | London 🇿🇦🇬🇧 Innit
-    location: "South Africa"
-    followers: 10198
-    engagement: 587
-    commentsToLikes: 0.048089
-    id: ckap3qdwx43sz0i78nxp0ygj3
-    verified: false
-    hashtags: "#favoboys, #pride, #gay, #pov"
-  - username: "theculturedcow"
-    fullname: >-
-      Shiro Gaitho | Wairimu’s Daughter
-    bio: >-
-      African | Introvert | Lover of words and other nice things Email: theculturedcow@gmail.com
-    location: "South Africa"
-    followers: 40023
-    engagement: 222
-    commentsToLikes: 0.008793
-    id: ck5c0pmkptlmg0i11whqhf7rp
-    verified: false
-    hashtags: "#mani, #interiorstyle, #madeinkenya, #supportsmallbusiness"
-  - username: "liviesofine"
-    fullname: >-
-      Livie ❤️
-    bio: >-
-      Future mental health counselor 📚🧠 ❤️ Libra ♎️ 10/09 God first 🙏🏾 Music 👇🏾
-    location: "South Africa"
-    followers: 14123
-    engagement: 746
-    commentsToLikes: 0.067851
-    id: ck6ufr2t1yo6z0j71sxeq6qu7
-    verified: false
-    hashtags: "#myblackisbeautiful, #goodvibes, #nigeria, #blackbeauty"
 ---

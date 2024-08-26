@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In United States In 2023
+title: Top 10 Yoga TikTok Influencers In United States In 2024
 description: >-
-  Find top yoga TikTok influencers in United States in 2023. Most popular hashtags: #yoga #fyp #duet #healing.
+  Find top yoga TikTok influencers in United States in 2024. Most popular hashtags: #yoga #duet #fyp #healing.
 platform: TikTok
 hits: 756
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our platform has 756 TikTok influencers like this in United States for you to collaborate.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 756 TikTok influencers like this in United States for you to connect with.
 profiles:
   - username: "beatsbywaynetaylor"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.115327
     id: ckbweqypy1rdb0j23muilxbnb
     verified: true
-    hashtags: "#duetwithme, #beat, #creator, #comedy"
+    hashtags: "#fyp, #creator, #comedy, #duetwithme"
   - username: "embermusic452"
     fullname: >-
       Emily Rose
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.146499
     id: ckc7zijrv17w90j237wjkdrj7
     verified: false
-    hashtags: "#cat, #catmom, #musician, #duet"
+    hashtags: "#teacher, #musician, #musicteacher, #cat"
   - username: "keelsmontana"
     fullname: >-
       Kendall Meiller
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.052850
     id: cka0zzn44hon50i7827tgar4a
     verified: false
-    hashtags: "#meditation, #affirmations2021, #ifeelweightless, #yogaflow"
+    hashtags: "#ifeelweightless, #springvibes, #mentalhealthawarness, #yoga"
   - username: "llusionmusic"
     fullname: >-
       LLusion

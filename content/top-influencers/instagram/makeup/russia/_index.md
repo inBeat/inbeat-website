@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Russia In 2023
+title: Top 10 Makeup Instagram Influencers In Russia In 2024
 description: >-
-  Find top makeup Instagram influencers in Russia in 2023. Most popular hashtags: #makeupideas #creativemakeup #makeupartist.
+  Find top makeup Instagram influencers in Russia in 2024. Most popular hashtags: #makeupartist #makeup #beauty.
 platform: Instagram
-hits: 1911
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our database has 1911 Instagram influencers like this in Russia for you to work with.
+hits: 1904
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 1904 Instagram influencers like this in Russia for you to connect with.
 profiles:
-  - username: "kaufmanmk"
+  - username: "_geheimnisvoll"
     fullname: >-
-      Mark Kaufman | Beauty expert
+      Veronika Elli
     bio: >-
-      💄Makeup artist 🎬YouTube 225k+ 📩support@kaufmanmk.net 💣Manager @anniestotskaya New video⬇️
+      Kaliningrad, Russia Model & Makeup artist PR/Commerce: sadraucher@gmail.com or DM Follow: @badraucher7
     location: "Russia"
-    followers: 92818
-    engagement: 915
-    commentsToLikes: 0.266584
-    id: ck6uif8gseqnb0j717uwbwoqx
+    followers: 99606
+    engagement: 365
+    commentsToLikes: 0.011555
+    id: ck1398pmtk2qt0i19kpg5uiwc
+    verified: false
+    hashtags: "#girl, #photography, #instagram, #lookbook"
+  - username: "marikagreek"
+    fullname: >-
+      ✨️ Marika Leto
+    bio: >-
+      🇬🇷 Greek Superhero 🍒 cosplay/makeup/comedy artist 🗨 vk.com/marika_leto 📬 Collaboration: DM | marikagreek7@gmail.com
+    location: "Russia"
+    followers: 40349
+    engagement: 325
+    commentsToLikes: 0.012732
+    id: ck9wdxnahhqey0j78c70z59wl
+    verified: false
+    hashtags: "#suicidesquad2, #batman, #supergirlcosplay, #joker"
+  - username: "halfbloodval"
+    fullname: >-
+      VL TN
+    bio: >-
+      Model, makeup, blogger For commercial offers: +79258802886 Olesya For commercial foto shooting: +79210903338 Adel Tg Moscow 📍 Playlist
+    location: "Russia"
+    followers: 159179
+    engagement: 258
+    commentsToLikes: 0.009090
+    id: ck14h8udc944s0i1976lewqdv
     verified: false
     hashtags: ""
-  - username: "oopankratova"
+  - username: "by_julia_ismailova"
     fullname: >-
-      Olga Pankratova -lucky🐾
+      Юля Исмаилова
     bio: >-
-      Альбом воспоминаний #pankratovathink Moscow🌏 ⚜️Академия и Центр красоты Diamond @diamond.by.op 👑 ⚜️ Mua:@make.up.olga.pankratova 💄
+      Мгимошница, которая пошла по наклонной в бьюти. Здесь без фильтров и масок. Моя студия @makeupcultura Моя школа @makeupcultura_school
     location: "Russia"
-    followers: 45401
-    engagement: 1188
-    commentsToLikes: 0.074238
-    id: ck5q7dxjk12tb0i11kqglwbqu
+    followers: 294749
+    engagement: 257
+    commentsToLikes: 0.020255
+    id: ck15tsn9tjovj0i19edcw2svz
     verified: false
-    hashtags: "#letarium, #pankratovathink"
-  - username: "sofia_markova"
+    hashtags: "#petalips, #ad, #randcolove, #randcohair"
+  - username: "tominamakeup"
     fullname: >-
-      🔮MOTHER OF MONSTERS🔮
+      OLGA TOMINA | ОЛЬГА ТОМИНА
     bio: >-
-      MAKEUP • SFX • BEAUTY 🥇Global Winner of Doll Search 2020 NYX 🏆Finalist Top 6 NFA Russia 2017/2018
+      Professional makeup artist💄 The mother of @tomina_studio Creator of ANATOMIA brand💋 Makeup and secrets of success✨
     location: "Russia"
-    followers: 32131
-    engagement: 742
-    commentsToLikes: 0.051701
-    id: ck5zjrxlji5760i142m344tss
+    followers: 542903
+    engagement: 253
+    commentsToLikes: 0.009187
+    id: ck135as3m0k930i19omx8l41h
     verified: false
-    hashtags: "#creativemakeup, #makeup, #makeupartist, #sfxmakeup"
-  - username: "jgiselevska"
+    hashtags: "#glammakeup, #makeupartist, #nudelipstick, #makeuptransformation"
+  - username: "ishaalakhani"
     fullname: >-
-      GISELEVSKA JEKATERINA
+      Isha
     bio: >-
-      •Founder @bygiselevska.studio •Makeup artist •Hairstyle •SELFMAKEUP COURSE •Master classes •Makeup consultation 🔍Pulkveža brieža 35 📱+37127130650
+      Henna Artist | makeup Artist @bridesbyishaa 📍Surat | destination weddings 🌎
     location: "Russia"
-    followers: 9412
-    engagement: 986
-    commentsToLikes: 0.248174
-    id: ckaoxiwx3dgvi0i780peypry9
+    followers: 217729
+    engagement: 324
+    commentsToLikes: 0.005204
+    id: ck9hc8tdwka9b0j7881zewfij
     verified: false
-    hashtags: "#larocheposay, #posing, #selfmakeup, #rigaphotographer"
-  - username: "julia_voron"
+    hashtags: "#destinationwedding, #weddingday, #makeupartist, #travel"
+  - username: "katesytsevich"
     fullname: >-
-      Julia Voron
+      Kate Sytsevich
     bio: >-
-      🅼🅰🅺🅴 🆄🅿 🅰🆁🆃🅸🆂 Мастер-классы по всему миру 🌍 Смотрите актуальные ⬇️ Основатель➡️ @voron_studio и @voron_makeup_shop Ukraine, Kiev 🇺🇦
+      🖤 @maison_de_catherine owner 🖤Fashion & Beauty blogger 🖤Model 🖤Makeup artist & Hairstylist 🖤Masterclasses ✈️ 🖤Makeup teacher
     location: "Russia"
-    followers: 100347
-    engagement: 330
-    commentsToLikes: 0.208360
-    id: ck0tzdletpxyr0i19bgq0y1tn
+    followers: 112174
+    engagement: 173
+    commentsToLikes: 0.008606
+    id: ck136q3y27pln0i1932ysarqt
     verified: false
-    hashtags: "#inbeautmag, #greyeyeshadow, #danessamyricks, #ukrainianmodel"
-  - username: "maryana.lit"
+    hashtags: "#maison, #fashionstyle, #stpetersburg, #hairtexture"
+  - username: "romanovamakeup"
     fullname: >-
-      MK_makeup
+      OLGA ROMANOVA | MAKEUP | DUBAI
     bio: >-
-      💎Pro Makeup artist & Hair💎 I WILL PAINT YOUR LIFE 🎨🎬 . Collaboration & PR: Direct and mariannapetrushka@gmail.com . IHERB 🔰
+      Celebrity makeup artist Founder&CEO @romanovamakeup_store @romanovamakeup_usa @romanovamakeup_uae 📍Dubai
     location: "Russia"
-    followers: 19102
-    engagement: 446
-    commentsToLikes: 0.187843
-    id: ck13a8i6gp5g10i19w4fo25rs
-    verified: false
-    hashtags: "#makeupideas, #artmakeup, #makeupclips, #makeupartists"
-  - username: "mary_arutyunova"
+    followers: 376677
+    engagement: 135
+    commentsToLikes: 0.100629
+    id: ck0vwk57xu7az0i19nkqg4mbc
+    verified: true
+    hashtags: "#sexysmokyeyepencil, #sexyultimatelashes, #sexylipsgloss, #romanovamakeup"
+  - username: "zena_grekova"
     fullname: >-
-      Mary Arutyunova
+      MUA from Ukraine 🇺🇦
     bio: >-
-      Team @goaravetisyan_beauty ♥️ Makeup 💄 Hair 💆🏻‍♀️ +7 (926) 043 59 99 менеджер💄
+      ◼️ Now based in Tbilisi 🇬🇪 ◼️Master Class/Training/Makeup
     location: "Russia"
-    followers: 93545
-    engagement: 640
-    commentsToLikes: 0.020684
-    id: ck5ziwwd7gix00i14pj6odhwl
+    followers: 122928
+    engagement: 105
+    commentsToLikes: 0.013919
+    id: ck9wd151mdlcf0j78k3vt8nmc
     verified: false
-    hashtags: ""
-  - username: "valeriia_istanbul"
+    hashtags: "#goodnight, #totalblack"
+  - username: "serdar_kambarov"
     fullname: >-
-      ТУРЦИЯ 🇹🇷 СТАМБУЛ 🕌
+      Сердар Камбаров
     bio: >-
-      Стильный блогер Стамбула👗👠 Светская Турция🇹🇷 В сторис👉🏻сериал жизни🎥🔥 Путеводитель по Турции🌍 . Макияж-моя❤️ @makeup_istanbul_byvaleriia 📩
+      CELEBRITY MAKE UP ARTIST TV-HOST @serdar_kambarov_moscow sk.makeup@mail.ru
     location: "Russia"
-    followers: 74400
-    engagement: 314
-    commentsToLikes: 0.056402
-    id: ck0w14gldhik80i19rdlqcjco
-    verified: false
-    hashtags: "#couplegoals, #traveltheworld, #travel, #turkeytime"
-  - username: "artemiy_ir"
-    fullname: >-
-      ARTEMIY
-    bio: >-
-      MAKEUP ARTIST @image_artemiy IGTV - MUA, CREATING ANIMATION
-    location: "Russia"
-    followers: 19362
-    engagement: 435
-    commentsToLikes: 0.208086
-    id: ck5bxwjkfojub0i11042k6eze
-    verified: false
-    hashtags: ""
-  - username: "_mammochka_"
-    fullname: >-
-      _mammochka_
-    bio: >-
-      Tiktok _mammochka_ Anna - life @anka.bur @_mama_custom_ украшения✨ Makeup artist in Moscow 🇷🇺, 20 yo PR mammochka@ravokadus.com
-    location: "Russia"
-    followers: 9869
-    engagement: 1320
-    commentsToLikes: 0.030430
-    id: ck5q7b6cn0phu0i11td1z17wu
-    verified: false
-    hashtags: "#kryginacosmetics, #beautybaypastelspalette, #beautybaypalette, #beautybombrussia"
+    followers: 1978437
+    engagement: 45
+    commentsToLikes: 0.023602
+    id: ck0ubzu03fsn30i193ih6r022
+    verified: true
+    hashtags: "#serdarkambarov, #dinasaeva"
 ---

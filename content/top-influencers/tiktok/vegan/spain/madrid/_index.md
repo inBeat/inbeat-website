@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Madrid In 2023
+title: Top 10 Vegan TikTok Influencers In Madrid In 2024
 description: >-
-  Find top vegan TikTok influencers in Madrid in 2023. Most popular hashtags: #vegan #parati #fyp #madrid.
+  Find top vegan TikTok influencers in Madrid in 2024. Most popular hashtags: #vegan #parati #madrid #fyp.
 platform: TikTok
 hits: 4
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine has 4 TikTok influencers like this in Madrid, Spain for you to work with.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 4 TikTok influencers like this in Madrid, Spain for you to contact.
 profiles:
   - username: "lushfuencarral"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.132080
     id: ckdhchgj5w9s20j23h654w480
     verified: false
-    hashtags: "#vegan, #lush, #name, #madrid"
+    hashtags: "#vegan, #lushcommunity, #regalo, #fuencarral"
   - username: "miriamjlas"
     fullname: >-
       Miriamjlas
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.132080
     id: ckdhchgj5w9s20j23h654w480
     verified: false
-    hashtags: "#vegan, #lush, #name, #madrid"
+    hashtags: "#vegan, #lushcommunity, #regalo, #fuencarral"
   - username: "inmyvegankitchen"
     fullname: >-
       Verónica Larco

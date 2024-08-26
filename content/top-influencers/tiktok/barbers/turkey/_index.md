@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Turkey In 2023
+title: Top 10 Barbers TikTok Influencers In Turkey In 2024
 description: >-
-  Find top barbers TikTok influencers in Turkey in 2023. Most popular hashtags: #ke #barber #gaziantep27 #tiktok.
+  Find top barbers TikTok influencers in Turkey in 2024. Most popular hashtags: #ke #barber #hair #gaziantep.
 platform: TikTok
 hits: 12
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 12 TikTok influencers like this in Turkey for you to collaborate.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 12 TikTok influencers like this in Turkey for you to connect with.
 profiles:
   - username: "mehmetkacarhairdoctor"
     fullname: >-

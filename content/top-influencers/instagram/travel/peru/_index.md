@@ -1,24 +1,84 @@
 ---
-title: Top 10 Travel Instagram Influencers In Peru In 2023
+title: Top 10 Travel Instagram Influencers In Peru In 2024
 description: >-
-  Find top travel Instagram influencers in Peru in 2023. Most popular hashtags: #peru #cusco #lima.
+  Find top travel Instagram influencers in Peru in 2024. Most popular hashtags: #peru #travel #lima #publicidad.
 platform: Instagram
-hits: 133
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 133 Instagram influencers like this in Peru for you to collaborate.
+hits: 139
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 139 Instagram influencers like this in Peru for you to connect with.
 profiles:
-  - username: "benelgringo"
+  - username: "alexandrabalarezo"
     fullname: >-
-      Benjamin Lopez Ferrigno
+      Alexandra Balarezo
     bio: >-
-      📈📉📈📉📈 Bay Area📍👶🏼🇵🇪, 🧔🏻🇺🇸 Traveler 🧳 Tourist 🌎 TeamBrocoli 🥦... Business iQ: spanglishben@gmail.com Music YouTube link:
+      Canadian/Française/Peruana Healthy lifestyle • travel • fashion 📍Madrid/ Miami Alexandrabalarezo@perleinfluence.com @perleinfluence 🇫🇷
     location: "Peru"
-    followers: 293874
-    engagement: 509
-    commentsToLikes: 0.018092
-    id: ck5ck8dliwcn00i11mr0k9b0q
+    followers: 564760
+    engagement: 560
+    commentsToLikes: 0.009690
+    id: ck14hu3zyc5d70i19qmanungd
+    verified: false
+    hashtags: "#missuniverse, #portadacosasnow, #portadadigital, #lanzamiento"
+  - username: "gianelladesouza"
+    fullname: >-
+      Gianella de Souza
+    bio: >-
+      Conocí los 24 departamentos del 🇵🇪 ✈️| Traveler 🍝| Foodie 🍹| Planes 📩| contacto@followme.pe
+    location: "Peru"
+    followers: 145322
+    engagement: 283
+    commentsToLikes: 0.029472
+    id: ckap7gb5fjy5e0i78jpt77eqi
+    verified: false
+    hashtags: "#limaperu, #madrededios, #restaurantes, #travelperu"
+  - username: "mamiscool"
+    fullname: >-
+      Kristin Morris S.
+    bio: >-
+      [Lifestyle & Mom Blogger 👩‍👧‍👦 love to travel] 🇵🇪❤️ #mamareal✌🏻💚 2 👦🏻👧🏻 💻 Blog: mamiscool.com 👜 @coolconceptpe 📩 @ntc.agency
+    location: "Peru"
+    followers: 44605
+    engagement: 74
+    commentsToLikes: 0.060706
+    id: ck6u1dpt1l4jd0j71i6fgnfd1
+    verified: false
+    hashtags: "#cooltip, #casosdelavidareal, #vidademadres, #publicidad"
+  - username: "abduleffio_"
+    fullname: >-
+      Abdul Effio | Content Creator
+    bio: >-
+      Peruvian boy living in Tuscany - Italy Love for Menswear, Photography and Travel Founder of @thscreate
+    location: "Peru"
+    followers: 42452
+    engagement: 72
+    commentsToLikes: 0.015289
+    id: ck5zlwduylhq00i1452aipxw3
+    verified: false
+    hashtags: "#tiendasel, #menstyle, #peru, #publicidad"
+  - username: "papisporprimeravez"
+    fullname: >-
+      Viajes en familia | Yazmín Alvarado & Hugo López
+    bio: >-
+      ✈️ Guías de viaje GRATIS en YouTube 👫@yazmin.travels @papa_gallina 🌎 Nuestra agencia: @aventurasenfamilia.pe Viajes 🛍️ Tiendita: @papisstore.pe
+    location: "Peru"
+    followers: 60118
+    engagement: 56
+    commentsToLikes: 0.374652
+    id: ck136ua0v8ane0i19lcnqr1yl
+    verified: false
+    hashtags: "#vidadepadres, #disneyfans, #viajesenfamilia, #planesenfamilia"
+  - username: "rosangelaeslo"
+    fullname: >-
+      Rosangela Espinoza
+    bio: >-
+      📌𝗖𝗮𝗿𝗲𝗲𝗿 Mktg - Content Creator ❣️#traveler #wellness #lifestyle @esloproducciones Tiktok 5.5mill 👠 @rosangelaclosetsale 👗@chicaselfieboutique
+    location: "Peru"
+    followers: 4374726
+    engagement: 46
+    commentsToLikes: 0.012027
+    id: ck9wg7k92s93b0j7893n30izl
     verified: true
-    hashtags: "#infiel, #vaquero, #peruano, #youtube"
+    hashtags: "#fifaworldcup2022, #copadelmundo, #viajar, #iamatraveler"
   - username: "elenaborsch"
     fullname: >-
       Elena
@@ -30,31 +90,7 @@ profiles:
     commentsToLikes: 0.023436
     id: ck0uelblcll120i196rdrw4gq
     verified: false
-    hashtags: "#southamerica, #mexico, #peru, #travelingwithbaby"
-  - username: "antonellaleguab"
-    fullname: >-
-      Anto Legua B
-    bio: >-
-      Founder @el_closetdeanto @beautyfashion.peru Girl Boss | Fashion | Travel | Lifestyle ✉ antonellaleguab@gmail.com 📌 Perú
-    location: "Peru"
-    followers: 79204
-    engagement: 39
-    commentsToLikes: 0.249237
-    id: ck6u904yrupf20j711z5lc25b
-    verified: false
-    hashtags: "#bicentenario, #nyc, #maquillatepararegresarperu, #8m"
-  - username: "zurihidalgo"
-    fullname: >-
-      Zuriñe Hidalgo ☾
-    bio: >-
-      ♡ Music. Art. Travel. Feminism♀ ϟ Cantante • Presentadora • Coach menstrual ☾ @somosenraizadas ♎︎ Libra ☼ O i n u t s i k
-    location: "Peru"
-    followers: 22665
-    engagement: 578
-    commentsToLikes: 0.007739
-    id: ck6tn5lpv96hq0j71tmfdmxt5
-    verified: false
-    hashtags: "#bizicarenero, #periodzuri"
+    hashtags: "#peru, #southamerica, #mexico, #travelingwithbaby"
   - username: "alessandra.salazar"
     fullname: >-
       Alessandra Salazar
@@ -91,40 +127,4 @@ profiles:
     id: ck139eatukvy90i19j3yix7lr
     verified: false
     hashtags: "#latinoamerica, #igersica, #cuarentena, #peru"
-  - username: "rosangelaeslo"
-    fullname: >-
-      Rosangela 🌷
-    bio: >-
-      #traveltips & #lifestyle Graduate👩🏻‍🎓#marketing Tik Tok: rosangelaeslo 3.9m Brand @chicaselfieboutique Ambassador @bangenergy
-    location: "Peru"
-    followers: 4038377
-    engagement: 108
-    commentsToLikes: 0.012426
-    id: ck9wg7k92s93b0j7893n30izl
-    verified: true
-    hashtags: "#doglover, #italia2021, #italia, #sweetdreams"
-  - username: "takeshionophoto"
-    fullname: >-
-      Takeshi Ono
-    bio: >-
-      Moda//Producto//Filmmaker//travel✈️ @takeshigamer 🎮 @tropicana.brand Lima🇵🇪 Fblive: takeshigame 🎮 Contacto@takeshiono.info 📩
-    location: "Peru"
-    followers: 29637
-    engagement: 138
-    commentsToLikes: 0.015237
-    id: ck14hu4g9c5h20i19cy2eba33
-    verified: false
-    hashtags: "#colombia, #xiaomiperu, #brasil, #chile"
-  - username: "raul_rios"
-    fullname: >-
-      Raul Rios Dañino
-    bio: >-
-      SURFER / PERU 🇵🇪 South American champion🏆 WSL traveling✈️ @quiksilver_peru @bioderma @dcshoes @carve_peru
-    location: "Peru"
-    followers: 11875
-    engagement: 661
-    commentsToLikes: 0.101297
-    id: ck5hjn0m7gwsn0i11dn0x4aof
-    verified: false
-    hashtags: "#ygsurfcontest, #nature, #surf"
 ---

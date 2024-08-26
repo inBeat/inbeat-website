@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In 2023
+title: Top 10 Makeup TikTok Influencers In 2024
 description: >-
-  Find top makeup TikTok influencers in 2023. Most popular hashtags: #fyp #makeup #duet #stitch.
+  Find top makeup TikTok influencers in 2024. Most popular hashtags: #fyp #makeup #makeupartist #duet.
 platform: TikTok
-hits: 13435
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat holds 13435 TikTok influencers like this for you to collaborate.
+hits: 14098
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine has 14098 TikTok influencers like this for you to connect with.
 profiles:
   - username: "morgana.makeup"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.161887
     id: ckcphx87iho8d0j238cqi4ypw
     verified: false
-    hashtags: "#makeupisart, #makeupartist, #makeuptransformation, #bodypaintingart"
+    hashtags: "#makeupartist, #carebearsofficial, #makeupfyp, #carebearmakeup"
   - username: "paulawwolf"
     fullname: >-
       Paula Wolf
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.083187
     id: ckbqhmuz82z4f0j23bxtmwmta
     verified: true
-    hashtags: "#foryou, #fyp, #vlive, #kpopmakeup"
+    hashtags: "#foryou, #vlive, #fyp, #kpopmakeup"
   - username: "adaelizabethh"
     fullname: >-
       Adannaya
@@ -90,19 +90,7 @@ profiles:
     commentsToLikes: 0.052969
     id: ckb0ykywenf940j23p8p9yes3
     verified: false
-    hashtags: "#aapifamily, #asian, #aapi, #filipina"
-  - username: "thedaltonlevi"
-    fullname: >-
-      DaltonLevi
-    bio: >-
-      ❤️ Kinda a Makeup Artist/Actor/Singer P.O. Box 1195 Jacksonville Alabama 36265❤️
-    location: "United States"
-    followers: 104200
-    engagement: 2556
-    commentsToLikes: 0.085335
-    id: ck8zb75vi4esq0j78mw3gu0et
-    verified: false
-    hashtags: "#teamlevi, #duet, #stitch, #greenscreen"
+    hashtags: "#filipina, #aapi, #fyp, #asian"
   - username: "crisalexmua"
     fullname: >-
       Cris Alex
@@ -127,4 +115,16 @@ profiles:
     id: ck9k4demvs0by0j78u1wfd7d2
     verified: true
     hashtags: "#hogwarts, #harrypotter, #makeup, #duet"
+  - username: "fruit_loop_haggz"
+    fullname: >-
+      haggz_23_🌈
+    bio: >-
+      24✨randomness, art🎨 makeup she/her les.be.honest🌈❤🌈
+    location: "United States"
+    followers: 15600
+    engagement: 2288
+    commentsToLikes: 0.108623
+    id: ckbf08abnlqw80j2324tpzuph
+    verified: false
+    hashtags: "#blacklesbian, #johnnydontleaveme, #greenscreen, #transitions"
 ---

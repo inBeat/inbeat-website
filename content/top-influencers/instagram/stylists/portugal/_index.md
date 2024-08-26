@@ -1,12 +1,60 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Portugal In 2023
+title: Top 10 Stylists Instagram Influencers In Portugal In 2024
 description: >-
-  Find top stylists Instagram influencers in Portugal in 2023. Most popular hashtags: #pub #fashion #streetstyle #ootd.
+  Find top stylists Instagram influencers in Portugal in 2024. Most popular hashtags: #fashion #ootd #stylist #style.
 platform: Instagram
-hits: 14
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 14 Instagram influencers like this in Portugal for you to work with.
+hits: 20
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 20 Instagram influencers like this in Portugal for you to contact.
 profiles:
+  - username: "szilagyinora"
+    fullname: >-
+      Szilágyi Nóra
+    bio: >-
+      Photographer ⚫ Confectioner ⚫ Food stylist ⚫ Traveller ⚫ Kettlebell lover ⚫ Work: StreetKitchen 📷👩‍🍳🎂
+    location: "Portugal"
+    followers: 18044
+    engagement: 370
+    commentsToLikes: 0.008473
+    id: ck55o86en7tr90i11xwrzbala
+    verified: false
+    hashtags: "#foodie, #cake, #lisbon, #portugal"
+  - username: "riodecarvalho"
+    fullname: >-
+      Mário de Carvalho
+    bio: >-
+      🚀 Lisbon 👗 Celebrity Stylist / 🎶 Composer 📩 leonorferreira.mgmt@gmail.com
+    location: "Portugal"
+    followers: 22918
+    engagement: 252
+    commentsToLikes: 0.031251
+    id: ck5q6l9uhxu2c0i11l86talhq
+    verified: false
+    hashtags: "#dump, #sportzone, #newbalance, #newbalance530"
+  - username: "catia.carrico"
+    fullname: >-
+      Cátia Carriço / Fashion
+    bio: >-
+      ✩STYLE INSPO⋆DAILY OUTFITS⋆TIPS ⋆ ↠Segue-me para inspiração diária ✩ stylist & creative director⋆digital mkt manager @catiacarrico.pt COO @feeling.pt
+    location: "Portugal"
+    followers: 19171
+    engagement: 129
+    commentsToLikes: 0.067667
+    id: ck5zqstoyv89y0i144ze5rt2w
+    verified: false
+    hashtags: "#lookdodia, #mystyle, #styleinspo, #stylist"
+  - username: "kelvincentgh"
+    fullname: >-
+      Kelvin Nana Yaw Anku
+    bio: >-
+      STYLE GOD Stylist & creative director Creating brands, Rebranding and connecting Brands Founder @euphoria_africa @ankustudio
+    location: "Portugal"
+    followers: 42796
+    engagement: 116
+    commentsToLikes: 0.024394
+    id: ck15th1x1i1fz0i19jyfi7unb
+    verified: false
+    hashtags: "#vgma, #vgma21, #stylegod, #euphoriaafrica"
   - username: "sara_nata"
     fullname: >-
       Sara Nata | Fashion•Lifestyle
@@ -18,7 +66,7 @@ profiles:
     commentsToLikes: 0.125359
     id: ck8t4c6ru68o50j784zjtiz1f
     verified: false
-    hashtags: "#fashionista, #sunglasses, #instagood, #styleinspiraton"
+    hashtags: "#mensfashionreview, #ootd, #photooftheday, #instafashion"
   - username: "jessicab.makeup"
     fullname: >-
       Jéssica Batista
@@ -30,31 +78,7 @@ profiles:
     commentsToLikes: 0.038163
     id: ck15tcy69hhjt0i19zx0ifb0e
     verified: false
-    hashtags: "#jessicabatistayt, #fashion, #girlsweardaily, #girlwithstyle"
-  - username: "riostylist"
-    fullname: >-
-      Mário de Carvalho
-    bio: >-
-      📺 @curtocircuito.oficial 📍@facemodelsagency 📍@layjanportugal 📩 marianapereira@layjan.pt 🧵Designer & Celebrity Stylist
-    location: "Portugal"
-    followers: 13063
-    engagement: 901
-    commentsToLikes: 0.133979
-    id: ck5q6l9uhxu2c0i11l86talhq
-    verified: false
-    hashtags: "#giveawayalert, #pub, #giveaway"
-  - username: "catia.carrico"
-    fullname: >-
-      Cátia Carriço ✦ Daily Style
-    bio: >-
-      ✩ Fashion ⋆ Style ⋆ Tips ⋆ Inspo ↠ share your style with ↠ #mystyle_mylanguage ↠ stylist & fashion producer • digital media manager ⤿ PT
-    location: "Portugal"
-    followers: 15239
-    engagement: 244
-    commentsToLikes: 0.230985
-    id: ck5zqstoyv89y0i144ze5rt2w
-    verified: false
-    hashtags: "#mystyle, #stylist, #looks, #styleblogger"
+    hashtags: "#girlblogger, #blogger, #girlscloset, #fashion"
   - username: "thehealthysins"
     fullname: >-
       Sónia & Diogo
@@ -66,7 +90,7 @@ profiles:
     commentsToLikes: 0.051516
     id: ck0ueb4m1l2c30i19g80ev9ux
     verified: false
-    hashtags: "#springbaking, #onourcreativetable, #foodtographyschool, #raw"
+    hashtags: "#feedfeedbaking, #foodstyling, #womencreate, #darkfoodphoto"
   - username: "maariyahscuisine"
     fullname: >-
       Maariyah Noor
@@ -79,52 +103,28 @@ profiles:
     id: ck9wgf2yet4ua0j78oqkriqu1
     verified: false
     hashtags: "#halaalfoodblogger, #foodism, #foodfusion, #foodieworldz"
-  - username: "ruben_o_stylist"
+  - username: "rubendsosorio"
     fullname: >-
       Ruben De Sá Osório
     bio: >-
-      Fashion ---> Visual ---> Stylist ---> Creative 📧 @solveagency 📩 mail to: solve@solve.pt
+      Fashion Creative & Stylist Gemini ♊️ 📩 mail to: info@rubendsosorio.com 📍LISBON, PORTUGAL
     location: "Portugal"
-    followers: 7420
-    engagement: 193
-    commentsToLikes: 0.048973
+    followers: 7602
+    engagement: 263
+    commentsToLikes: 0.048464
     id: ck0w6934w7g1c0i197wyklde3
     verified: false
-    hashtags: "#styling, #photography, #fashiondesign, #culture"
-  - username: "nashdoeswork"
+    hashtags: "#culture, #vote, #dazedandexposed, #editorial"
+  - username: "fabiosengo"
     fullname: >-
-      Girl Blunt
+      Fábio Sengo Oliveira ®
     bio: >-
-      Photographer and content creator. I take pictures, I believe in rainbows and unicorns, and I like to translate that into my work. Based in Lisbon.
+      Fashion | Lifestyle 📩 contacto.fabiosengo@gmail.com
     location: "Portugal"
-    followers: 10161
-    engagement: 698
-    commentsToLikes: 0.031737
-    id: ck0twu6i7gr290i19s1xtroue
+    followers: 29585
+    engagement: 81
+    commentsToLikes: 0.009489
+    id: ck14k1soznapw0i19w6h4840d
     verified: false
-    hashtags: "#oclube, #nishikan8000, #kodakgold200, #35mm"
-  - username: "inesheredia"
-    fullname: >-
-      Inês Herédia
-    bio: >-
-      PR & Digital: @notable.pt 🇵🇹 @artistglobalmanagement 🇪🇸 @borial_management
-    location: "Portugal"
-    followers: 233659
-    engagement: 170
-    commentsToLikes: 0.007625
-    id: ck5q71fnrzlub0i11sxx36zgf
-    verified: true
-    hashtags: "#pub, #martinhalcascais, #martinhalmemories, #dodot"
-  - username: "diogosaul"
-    fullname: >-
-      Diogo Saul
-    bio: >-
-      Portuguese. Living in The Netherlands. Creating my own stories.
-    location: "Portugal"
-    followers: 12829
-    engagement: 755
-    commentsToLikes: 0.027246
-    id: ck8t3izxg3f070j78bb7smj10
-    verified: false
-    hashtags: "#gentlemanjourney, #stylishmen, #bloggerstyle, #menwithstreetstyle"
+    hashtags: "#guyswithstyle, #outfitinspiration, #dappermen, #menstyleguide"
 ---

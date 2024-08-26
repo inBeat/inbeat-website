@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers Instagram Influencers In India In 2023
+title: Top 10 Barbers Instagram Influencers In India In 2024
 description: >-
-  Find top barbers Instagram influencers in India in 2023. Most popular hashtags: #fashion #barbershop #style #photography.
+  Find top barbers Instagram influencers in India in 2024. Most popular hashtags: #fashion #barbershop #photography #haircut.
 platform: Instagram
-hits: 52
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 52 Instagram influencers like this in India for you to work with.
+hits: 61
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 61 Instagram influencers like this in India for you to work with.
 profiles:
   - username: "zaid_zabardast"
     fullname: >-
@@ -31,6 +31,30 @@ profiles:
     id: ckap7rflyl8f60i78cy1pf052
     verified: false
     hashtags: "#nofilter, #art, #cute, #love"
+  - username: "imsalmansalmani"
+    fullname: >-
+      Salman_salmani_hair_studio®
+    bio: >-
+      Ahmedabad📍 Human Hair Patch Paid promotion: appamrdk@gmail.com Hair Extension owner @salmansalmanihairstudio ☎️+919099888117 Managed by: @edumyze
+    location: "India"
+    followers: 524598
+    engagement: 2290
+    commentsToLikes: 0.003154
+    id: clnsitdmjgtnm0j089r7nfn5r
+    verified: false
+    hashtags: "#hairstyle, #hair, #barber, #hairextensions"
+  - username: "datdamn_indianboy"
+    fullname: >-
+      Terrance Baker
+    bio: >-
+      Only Page 🚫No Bigo account 🚫No Tagged account NO⚜️LA Model/Actor 🇹🇹&🇺🇸 black & Indian 🌴dougla 🌴 6’0 Libra♎️
+    location: "India"
+    followers: 459709
+    engagement: 217
+    commentsToLikes: 0.016544
+    id: ckapa8wprv7eg0i780c1awxfc
+    verified: false
+    hashtags: "#japan, #soca, #neworleans, #belize"
   - username: "mr.line_"
     fullname: >-
       stylist™️mohamad, mohalati🇮🇷
@@ -43,18 +67,6 @@ profiles:
     id: ckaoy92wmgifd0i78c6ju0b0r
     verified: false
     hashtags: "#hairformen, #dropfade, #fadedhaircut, #4hairpleasure"
-  - username: "sheharyar321"
-    fullname: >-
-      MALIK SHEHARYAR
-    bio: >-
-      MODEL/ACTOR/INFLUENCER LESMILLS certified YOGA and GRIT trainer.💪 REIKI, DANCING, ART. 💜 FREE SOUL 👻
-    location: "India"
-    followers: 22251
-    engagement: 501
-    commentsToLikes: 0.021797
-    id: ck5q2lxewgnyd0i11fz4vrn08
-    verified: false
-    hashtags: "#artist, #photooftheday, #smile, #motivation"
   - username: "mia_siva_leone"
     fullname: >-
       🛡️🇸‌🇮‌🇻‌🇦‌🇳‌🇪‌🇸‌🇭‌🕉️ ☯️
@@ -103,28 +115,16 @@ profiles:
     id: ck0w21inkm6k50i19yp3u11qo
     verified: false
     hashtags: "#repost, #msdhoni, #cars, #picoftheday"
-  - username: "therealkhansab786"
+  - username: "nawab.fay"
     fullname: >-
-      Imran Nazir Khan ( خان صاب 👑)
+      Nawab Faizi
     bio: >-
-      Model/ Actor/ Video creator كشمير🏡 📍| Mumbai | For collaboration kindly Mail or Dm
+      Currently in Melbourne 🇦🇺 Pretend to live the life, you’ve always wanted to live Scoreboard 🇦🇫 🇮🇳 🇹🇷 🇦🇪 🇮🇷 🇹🇯 🇲🇾 Tiktok 1.2M
     location: "India"
-    followers: 38359
-    engagement: 129
-    commentsToLikes: 0.047217
-    id: ck8wexq5des840j78jt70iva7
+    followers: 72533
+    engagement: 577
+    commentsToLikes: 0.015174
+    id: ck8wd19hoda0a0j78t76wtlfl
     verified: false
-    hashtags: "#explore, #reels, #photooftheday, #outfitoftheday"
-  - username: "oszkaipeter"
-    fullname: >-
-      𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙬𝙤𝙧𝙡𝙙!
-    bio: >-
-      Follow my life in stories, and watch the art in feed! ⚡ Tiktok:oszkaipeter Business: email or dm ⚓️ Model ▪ Influencer ▪ Tiktoker
-    location: "India"
-    followers: 45461
-    engagement: 216
-    commentsToLikes: 0.044933
-    id: ck8tbd11gv6k90j78tjbp6l6m
-    verified: false
-    hashtags: "#look, #itstimeshop, #holiday, #portraitfeed"
+    hashtags: "#model, #modelshoot, #instagood, #gym"
 ---

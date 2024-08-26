@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Singapore In 2023
+title: Top 10 Music TikTok Influencers In Singapore In 2024
 description: >-
-  Find top music TikTok influencers in Singapore in 2023. Most popular hashtags: #fyp #foryou #tiktoksg #duet.
+  Find top music TikTok influencers in Singapore in 2024. Most popular hashtags: #fyp #foryou #tiktoksg #duet.
 platform: TikTok
 hits: 11
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our platform has 11 TikTok influencers like this in Singapore for you to connect with.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our database holds 11 TikTok influencers like this in Singapore for you to connect with.
 profiles:
   - username: "annetteandafish"
     fullname: >-

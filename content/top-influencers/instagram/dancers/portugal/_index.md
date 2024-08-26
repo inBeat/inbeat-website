@@ -1,24 +1,48 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Portugal In 2023
+title: Top 10 Dancers Instagram Influencers In Portugal In 2024
 description: >-
-  Find top dancers Instagram influencers in Portugal in 2023. Most popular hashtags: #dancer #ballet #dancers.
+  Find top dancers Instagram influencers in Portugal in 2024. Most popular hashtags: #dance #portugal #dancer.
 platform: Instagram
-hits: 21
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 21 Instagram influencers like this in Portugal for you to contact.
+hits: 20
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 20 Instagram influencers like this in Portugal for you to work with.
 profiles:
+  - username: "melanievicente99"
+    fullname: >-
+      Mélanie Vicente
+    bio: >-
+      ☾ ☼ • Dancer • Marketing&Advertising student |📚 • Tik Tok melanievicente99 (+500.000flw)
+    location: "Portugal"
+    followers: 143316
+    engagement: 641
+    commentsToLikes: 0.008142
+    id: ck5hdlf9yo2q50i11vlndg5tp
+    verified: false
+    hashtags: "#pringles, #veraopringles, #pub"
+  - username: "cassandra.chiu"
+    fullname: >-
+      Cass🎀
+    bio: >-
+      portuguese chinese🇵🇹🇨🇳 yes I speak cantonese🫶🏻 freelance creator dancer mc model🌈/* @cassandras.portfolio @jorgeisthebest🧸🗝 dm/email for collab/work🖤
+    location: "Portugal"
+    followers: 73308
+    engagement: 206
+    commentsToLikes: 0.000720
+    id: clswn1nuxyp7k0k0843vczlii
+    verified: false
+    hashtags: "#explore, #instareels, #thebigapplegalaxy, #thebigapple"
   - username: "tothepointenutrition"
     fullname: >-
-      Dance Nutritionist Rachel Fine
+      Rachel Fine
     bio: >-
-      Nutrition for dancers🩰 🙋🏻‍♀️ Dietitian & dancer 🍎Food + Body confidence @dance_masterclass Q+A @pointemagazineofficial 👇🏼Become The Healthy Dancer®
+      MS RD CDN CEDS Dietitian for dancers🩰 Performance Nutrition + Intuitive Eating 🙋🏻‍♀️@dance_masterclass ✍🏼Dance Media The Healthy Dancer® 🔗 FREE TRIAL
     location: "Portugal"
-    followers: 37160
-    engagement: 204
-    commentsToLikes: 0.012168
+    followers: 39163
+    engagement: 162
+    commentsToLikes: 0.014918
     id: ck6tkfn344lx00j714kteow87
     verified: false
-    hashtags: "#balletdancers, #nutritionfordancers, #dancecompetition, #yagp"
+    hashtags: "#yagp, #ballerinasofinstagram, #dancertips, #dancecompetition"
   - username: "laraaoun_"
     fullname: >-
       Lara Aoun
@@ -42,28 +66,16 @@ profiles:
     commentsToLikes: 0.043755
     id: ck5q8skwk7snt0i115xjiyzea
     verified: false
-    hashtags: "#ballerinaproject, #balletbeautifulfit, #balletbeautifulgirls, #balletpost"
-  - username: "claudiadias.oficial"
-    fullname: >-
-      𝙲𝚕𝚊𝚞𝚍𝚒𝚊 𝙳𝚒𝚊𝚜
-    bio: >-
-      💃🏽25| Lifestyle| Dancer | food lover Represented by @milenar_influence_media 💌claudia.dias@milenarmedia.pt 🎥Youtube Channel:Claudia Dias
-    location: "Portugal"
-    followers: 42189
-    engagement: 772
-    commentsToLikes: 0.005703
-    id: ck13bn882w8ri0i19lsl0rjse
-    verified: false
-    hashtags: "#day3, #cookingwithclaudia, #pub, #ograndegorrinho"
+    hashtags: "#rplove, #ballet, #balletlover, #balletto"
   - username: "flexible_kiki"
     fullname: >-
       Katarina Serralha| Flexibility
     bio: >-
-      •🇺🇸🇵🇹 21y •Dancer, gymnast & contortionist •Inspiring others & innovating • Tik Tok 170,7k ————————————— COLLABORATIONS DM 📥 —————————————
+      •🇺🇸🇵🇹 21y • Self taught dancer, gymnast, contortionist •Inspiring others & innovating • Tik Tok 170,7k ————————————— COLLABORATIONS DM 📥 —————————————
     location: "Portugal"
-    followers: 5791
-    engagement: 575
-    commentsToLikes: 0.048981
+    followers: 5691
+    engagement: 278
+    commentsToLikes: 0.055287
     id: ck8wfldsgfw6p0j78l4tawyhi
     verified: false
     hashtags: ""
@@ -91,6 +103,18 @@ profiles:
     id: ck5pw20rlkpx20i116j9l419h
     verified: false
     hashtags: "#travellingthroughtheworld, #streets, #architecture, #streetphotography"
+  - username: "fp_cunha"
+    fullname: >-
+      Filipe Cunha
+    bio: >-
+      Lifestyle | Menstyle | Skin Care 🎓 ULHT | Marketing & Advertising 📩 filipecunha.wk@gmail.com
+    location: "Portugal"
+    followers: 11142
+    engagement: 343
+    commentsToLikes: 0.029198
+    id: ck9ha5yl3bai20j781k523wmp
+    verified: false
+    hashtags: "#dancer, #mensfashion, #menstyle, #music"
   - username: "k.lo.k.mari"
     fullname: >-
       Khamari (They/Them)
@@ -103,28 +127,4 @@ profiles:
     id: ck5ztixto0i1b0i14s6gpjdys
     verified: false
     hashtags: "#losangeles, #numerology, #dancer, #choreography"
-  - username: "antoniocasalinho_official"
-    fullname: >-
-      António Casalinho
-    bio: >-
-      1st place Prix de Lausanne 2021 Grand prix IBCC China 2019 Special Distinction Varna 2018 YAGP winner 2016/2018 Sodanca/DWC ambassador CIBDAS 🇵🇹
-    location: "Portugal"
-    followers: 33912
-    engagement: 1210
-    commentsToLikes: 0.012468
-    id: ck5c6b9yg534h0i11tlomupav
-    verified: false
-    hashtags: "#maledancer, #cibdas, #dancers, #ballet"
-  - username: "yogawith.iva"
-    fullname: >-
-      ivazanotte
-    bio: >-
-      🇵🇹 💪instructor stretching 👚👖yoga model 👉IVA20 my code for discount 👇 🧘‍♂️@yantraconnection Embassador 👵grandmother 👩‍👧‍👧mother of 2 @yoga.feminine
-    location: "Portugal"
-    followers: 16826
-    engagement: 331
-    commentsToLikes: 0.304315
-    id: ckapauezvxic70i78ot2ctr0a
-    verified: false
-    hashtags: "#yogafeature, #yogasanas, #pilateiras, #faroalgarveportugal"
 ---

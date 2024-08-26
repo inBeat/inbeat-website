@@ -1,130 +1,130 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Indonesia In 2023
+title: Top 10 Crossfit Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top crossfit Instagram influencers in Indonesia in 2023. Most popular hashtags: #crossfit #love #workout #fitness.
+  Find top crossfit Instagram influencers in Indonesia in 2024. Most popular hashtags: #crossfit #fitness #lifestyle #indonesia.
 platform: Instagram
-hits: 14
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 14 Instagram influencers like this in Indonesia for you to work with.
+hits: 21
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database holds 21 Instagram influencers like this in Indonesia for you to collaborate.
 profiles:
   - username: "luciemin"
     fullname: >-
       Lucie Minářová
     bio: >-
-      I run on lifting weights, coffee & vitamin sea🤍 ~ @jedunavykon founder ⚡ ~ crossfit | CFL1 Trainer ~ nutrition coach ~ podcast @thehealthytapes ~ ytb
+      let’s have fun together! ❤️‍🔥 ~ @jedunavykon founder | Crossfit L-2 trainer ~ @thetapespodcast ~ @gymbeamcz // lucie5
     location: "Indonesia"
-    followers: 60591
-    engagement: 566
-    commentsToLikes: 0.004123
+    followers: 73586
+    engagement: 370
+    commentsToLikes: 0.007501
     id: ck5zqac68u8h80i14nyhusogd
     verified: false
-    hashtags: "#jnvnutrition, #novevideo, #jedunav, #workout"
+    hashtags: "#fitness, #dusevnizdravi, #spolupr, #zdravyzivotnistyl"
   - username: "misshotrodqueen"
     fullname: >-
       Ade Putri Paramadita 🍒
     bio: >-
-      Culinary Storyteller ✨ Beer. Fixed gear. CrossFit. Business: Tasya +62 878 7664 4003 @smescoindonesia PR @ACMIID Mommy @BEERgembira
+      Wordsmith. Culinary Storyteller ✨ Beer 🍻 Fixed gear 🚲 CrossFit 🏋🏽‍♀️ Mommy @BEERgembira Business enquiry 👉🏼 send e-mail 👇🏼
     location: "Indonesia"
-    followers: 43233
-    engagement: 243
-    commentsToLikes: 0.021505
+    followers: 63520
+    engagement: 229
+    commentsToLikes: 0.030314
     id: ck15rgahn7sa40i19frpr1n77
     verified: false
-    hashtags: "#repost, #jakarta, #bite, #sambal"
+    hashtags: "#instafood, #masakanrumahan, #foodpics, #indonesia"
+  - username: "petitedivaa"
+    fullname: >-
+      Diva|Fitness Healthy Lifestyle
+    bio: >-
+      Founder @petitedivafitness @precisionnutrition L1 Nutrition Coach @issaonline Strength & Conditioning Coach @thegirlsgonestrong Pre & Postnatal Coach
+    location: "Indonesia"
+    followers: 143022
+    engagement: 10
+    commentsToLikes: 0.010434
+    id: ck15ub45kmb350i19bmm1zkqn
+    verified: true
+    hashtags: "#gym, #wodoftheday, #training, #teamwork"
   - username: "dominikluks"
     fullname: >-
       Dominik Luks
     bio: >-
-      🔸MMA COACH.🥊 🔸CONDITIONIG COACH.🏋️‍♂️ 🔸STRENGTH COACH.🏋️‍♂️ 🔸REFEREE MMA.🥊 🔸TRAVELER.🌏 🔸ROBINSON 2018.🌏 🔸YOUTUBE.🎥 🔸WWW.SPORTATHLETE.CZ 🔸 MOTIVATOR
+      🔸MMA COACH LANNA GYM.🥊 🔸CONDITIONIG COACH.🏋️‍♂️ 🔸STRENGTH COACH.🏋️‍♂️ 🔸REFEREE MMA.🥊 🔸TRAVELER.🌏 🔸ROBINSON 2018.🌏 🔸WWW.SPORTATHLETE.CZ
     location: "Indonesia"
-    followers: 28645
-    engagement: 304
-    commentsToLikes: 0.005076
+    followers: 33883
+    engagement: 240
+    commentsToLikes: 0.025273
     id: ck8t6oyjqec2z0j78vcpisyef
     verified: false
-    hashtags: "#crossfit, #mma, #czech, #lifestyle"
-  - username: "juancarloscrazysport"
+    hashtags: "#trip, #fitness, #lifestyle, #coach"
+  - username: "glennvictor"
     fullname: >-
-      Juan Carlos Vicente
+      Glenn Victor Sutanto
     bio: >-
-      Preparador físico/coach deportivo Deportista de montaña vegano de @merrelleu @arch_max @somosdeportistas @soy.globero @gloriososupernutrients
+      Olympian 🏊🏼‍♂️ Grand finalist #TNLOTY2024 Certified international swimming coach CPT & CES by @nasm_fitness Part of @caldaremgt
     location: "Indonesia"
-    followers: 25412
-    engagement: 286
-    commentsToLikes: 0.089600
-    id: ck5qdpsjgwqts0i11vsifsd3u
+    followers: 69804
+    engagement: 481
+    commentsToLikes: 0.018725
+    id: ckaouwqbs25ai0i78qo75mm5q
     verified: false
-    hashtags: "#preparadorfisico, #snowday, #entrenador, #vegan"
-  - username: "stephanieee.liu"
+    hashtags: "#medal, #swimmingpool, #indonesia, #gym"
+  - username: "marzcheese"
     fullname: >-
-      Content Creator | Brand Review
+      UMAR IMANUDDIN
     bio: >-
-      #𝘔𝘰𝘮𝘡𝘰𝘦𝘺𝘓𝘪𝘶𝘳𝘦𝘷𝘪𝘦𝘸 Collab/Endorsement DM/Email Mom of @littleannezoey 💍 @ed_winn Part of @asosiasiinfluencerindonesia
+      #fashion #lifestyle #travel #food #hotel #staycation enthusiast 🌏 Part #TVLKTravelFriends @traveloka.id 📍#Indonesia #SEMARANG #JOGJA 🦖 Made in #Kudus
     location: "Indonesia"
-    followers: 47028
-    engagement: 233
-    commentsToLikes: 0.070974
-    id: ck5zoxrz6rkpd0i140kgcls6u
+    followers: 303678
+    engagement: 322
+    commentsToLikes: 0.047316
+    id: ck9wgd8yuswsz0j78sz1pnpt7
     verified: false
-    hashtags: "#digestivesystem, #tulang, #health, #caldanaflex"
-  - username: "stephanie.bex"
+    hashtags: "#hotelbali, #fivestar, #bali, #yoga"
+  - username: "katenotcate"
     fullname: >-
-      Stephanie | TRAVEL l HEALTH |
+      Kate Hendley, NBC-HWC, INHC
     bio: >-
-      𖥸 CRYPTO INVESTOR 𖥸 SOCIAL MEDIA MANAGEMENT 𓃠. @stephanie.bexvip
+      : national board certified health & wellness coach : founder @wellspringbykate 🌿 : a ~realistic~ pov on nutrition, health, ed recovery & lifestyle 💕
     location: "Indonesia"
-    followers: 13636
-    engagement: 447
-    commentsToLikes: 0.060963
-    id: ckaovrfse5u1b0i78qcaq89rj
+    followers: 2925
+    engagement: 1041
+    commentsToLikes: 0.047237
+    id: clnno1oxn21bz0j08pz5ao4xx
     verified: false
-    hashtags: "#instagood, #photooftheday, #photography, #love"
-  - username: "mehdi.alipour98"
+    hashtags: "#mindbodyspirit, #fitnessjourney, #wellness, #balanceiskey"
+  - username: "afdalramadin"
     fullname: >-
-      Mehdi Alipour
+      𝗔𝗳𝗱𝗮𝗹 𝗥𝗮𝗺𝗮𝗱𝗶𝗻
     bio: >-
-      ( تنها مدال آور جوانان جهان ) 🔷کارشناس تربیت بدنی 💯مربیگری حرفه ای 🌍World championship 2 🌏FISU world championship 3 🌍Asian championship 1-2-3
+      📍padang 👷owner:@afdal.design23 🏗civil engineering/upiyptk padang 📬 pp/endorse & job dm 📥 / 📸 freelance model
     location: "Indonesia"
-    followers: 2374
-    engagement: 2267
-    commentsToLikes: 0.097985
-    id: ck5hei96ft1iy0i112gfg0oq2
+    followers: 25884
+    engagement: 105
+    commentsToLikes: 0.007276
+    id: ck9wgsju3usvy0j78o0r3b1s8
     verified: false
-    hashtags: "#positive, #sportclimbing, #face, #ifsc"
-  - username: "fakirpiknik"
+    hashtags: "#parfummurah, #bhfyp, #kaospolos, #followforfollowback"
+  - username: "davedriskell"
     fullname: >-
-      cahya gumilang
+      Dave Driskell
     bio: >-
-      Travelling & Workout Bandung. Youtube 👇
+      Keep’n Busy 📍 BALI 🏝 🇮🇩 @wanderlustfitnessvillage_bali @wanderlustwods @wanderlustfitnessretreats @wanderlustathletics @wanderlustfitness_bandung
     location: "Indonesia"
-    followers: 40135
-    engagement: 229
-    commentsToLikes: 0.142647
-    id: ck1381404dzn20i19vce3khsb
+    followers: 100135
+    engagement: 94
+    commentsToLikes: 0.027362
+    id: ck5cfcrhzmp8v0i11jcscjv7j
     verified: false
-    hashtags: "#workout, #workoutmotivation, #streetworkout, #calisthenics"
-  - username: "rizal_marwanto"
+    hashtags: "#sharndoganddave, #wanderlustfitnessvillage, #wanderlustwods, #eatsleeptrainbali"
+  - username: "juliargds"
     fullname: >-
-      Rizal Mild
+      Julia RGDS || Lifestyle | Fitness| Travel Influencer Bali
     bio: >-
-      Wahai Tuhanku, engkaulah yang aku maksud dan RIDHO-Mu yang aku cari Berilah hamba kemampuan untuk bisa MENCINTAI-MU DAN MA'RIFAT kepadamu 🤲🏻
+      Top 6 @missuniverseindonesia_bali 🎓@indonesiacerdas.id 🏋🏾‍♀️ @s2scrossfit_bali 👧🏻 @nmwskincare ✨@samapura_jewelry 🦋@maybetonightroomandbikerental
     location: "Indonesia"
-    followers: 2993
-    engagement: 1167
-    commentsToLikes: 0.311543
-    id: ck14i0jrcd23m0i196cel4tct
+    followers: 17648
+    engagement: 34
+    commentsToLikes: 0.044144
+    id: ck5q85gqo4j7y0i11e4a49t5p
     verified: false
-    hashtags: "#discoverearth, #droneforever, #visitsumut, #infiatravel"
-  - username: "hertati88"
-    fullname: >-
-      Priscilla Hertati Lumban Gaol
-    bio: >-
-      👑 One Championship Athlete 📎Personal Trainer 🥊 MuayThai 💎 Fatloss, Strenght Training 💌wa : 0813 822 333 53 Line : hertatilumbangaol 2nd IG @hertatilg
-    location: "Indonesia"
-    followers: 19408
-    engagement: 446
-    commentsToLikes: 0.042414
-    id: ck0w449sqwqim0i19qm76lrcp
-    verified: true
-    hashtags: "#athlete, #motivation, #fight, #bataknese"
+    hashtags: "#ustrip, #membangunmimpianakbangsa, #indonesiacerdas, #dysonhair"
 ---

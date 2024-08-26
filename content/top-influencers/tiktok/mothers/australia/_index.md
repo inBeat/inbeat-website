@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Australia In 2023
+title: Top 10 Mothers TikTok Influencers In Australia In 2024
 description: >-
-  Find top mothers TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #foryoupage #viral.
+  Find top mothers TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #foryoupage #viral.
 platform: TikTok
-hits: 144
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 144 TikTok influencers like this in Australia for you to connect with.
+hits: 150
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 150 TikTok influencers like this in Australia for you to contact.
 profiles:
   - username: "vic.bui"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.058654
     id: cka0gee5s44rz0i78u1leq44v
     verified: false
-    hashtags: "#washing, #over30, #mumsoftiktok, #duet"
+    hashtags: "#duet, #laundry, #lifewithkids, #laundrytok"
   - username: "helenchikx"
     fullname: >-
       Helen Chik

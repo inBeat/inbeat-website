@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Poland In 2023
+title: Top 10 Fashion Instagram Influencers In Poland In 2024
 description: >-
-  Find top fashion Instagram influencers in Poland in 2023. Most popular hashtags: #stylizacja #sukienka #polskadziewczyna #fashion.
+  Find top fashion Instagram influencers in Poland in 2024. Most popular hashtags: #ootd #selfie #blonde #reklama.
 platform: Instagram
-hits: 1556
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 1556 Instagram influencers like this in Poland for you to work with.
+hits: 1660
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 1660 Instagram influencers like this in Poland for you to collaborate.
 profiles:
-  - username: "modny_tata"
+  - username: "knaji"
     fullname: >-
-      dr Michał Będźmirowski
+      Karolina Naji
     bio: >-
-      🇵🇱 Doctor of Social Science Lifestyle, Fashion, Sport, Travel, Books Social media inquiries: info@modnytata.pl
+      ✄ Fashion Designer @karolinanaji Represented by @futur.mgmt Contact: knajimgmt@gmail.com 📍Currently: Warsaw, Poland 🇵🇱/🇱🇧
     location: "Poland"
-    followers: 125065
-    engagement: 55
-    commentsToLikes: 0.020379
-    id: ck15tjtdaiful0i196i8jo7lv
-    verified: true
-    hashtags: "#modnytata, #reklama, #puravida, #wsp"
-  - username: "agnieszka.bokotaa"
-    fullname: >-
-      Aga
-    bio: >-
-      Fashion 👗👠nails 💅nail stylization💅beauty💄 Kontakt /współpraca 📩 bokotaaga@gmail.com 🇵🇱Poland
-    location: "Poland"
-    followers: 37869
-    engagement: 360
-    commentsToLikes: 0.080545
-    id: ck14j07d7hywz0i196nlbxqm4
+    followers: 98582
+    engagement: 727
+    commentsToLikes: 0.023990
+    id: ckaovsc0f5xyb0i78db9664kq
     verified: false
-    hashtags: "#claresanails, #fashion, #piegi, #beskidy"
-  - username: "joanna.walkow"
+    hashtags: "#minimalstyle, #parisianvibe, #classylook, #parisianvibes"
+  - username: "swinkamiki"
     fullname: >-
-      Joanna Walków
+      Wiktoria Miklis
     bio: >-
-      ♡ @adellanti.pl owner 🕊🌸 E-mail: joannawalkow@icloud.com #fashion | #travel | #lifestyle | #positivevibes ✨
+      TikTok: wiktoriamiklis beauty | lifestyle | fashion ✉️ wiktoria.miklis@o2.pl
     location: "Poland"
-    followers: 7761
-    engagement: 1557
-    commentsToLikes: 0.073788
-    id: ck9wekanbknaa0j7834my2xx2
+    followers: 24682
+    engagement: 698
+    commentsToLikes: 0.025057
+    id: ck6u1ow8pn04d0j71nbxses7q
     verified: false
-    hashtags: "#wiosennie, #pary, #torebka, #wie"
-  - username: "inesbeautypl"
-    fullname: >-
-      𝙞𝙣𝙚𝙨𝙗𝙚𝙖𝙪𝙩𝙮 -Aga Wroclaw 🌷🎀💝🇵🇱
-    bio: >-
-      𝓐𝓰𝓮42|Dentist|Beautyblogger |A lover of life |Beauty|Lifestyle|Fashion|Homedecor|Yoga| Olympus 𝓙𝓾𝓼𝓽 𝓱𝓪𝓿𝓮 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓕𝓪𝓲𝓽𝓱 Contact : ines@inesbeauty.pl
-    location: "Poland"
-    followers: 48228
-    engagement: 344
-    commentsToLikes: 0.110260
-    id: ck8tdgwnv399r0j78scov01sy
-    verified: false
-    hashtags: "#niechsiedziejenajlepiej, #storiediseta, #kobietylancome, #skincare"
-  - username: "verycranberry"
-    fullname: >-
-      Agata | #style #smile
-    bio: >-
-      My visual diary • freelance stylist • fashion lover Warsaw, Poland
-    location: "Poland"
-    followers: 27575
-    engagement: 356
-    commentsToLikes: 0.057401
-    id: ck0w6lffr94xj0i19pcmdefsa
-    verified: false
-    hashtags: "#zarawoman, #zaralovers, #waystowear, #zaralook"
-  - username: "rapujacepierogi"
+    hashtags: "#polskadziewczyna, #instagood, #picoftheday, #outfit"
+  - username: "ankyls"
     fullname: >-
       
     bio: >-
-      Parisian soul and beige aesthetics lover PL 🇵🇱 Warsaw 💌 rapujace@gmail.com Fashion ✖ Lifestyle ✖ Beauty
+      Ania 🏡 Poland 📍Tomaszów Maz. Lifestyle / Fashion / Travels / Flatlay _____________________________ 👗Owner @inspired_sh 🖱BLOG:
     location: "Poland"
-    followers: 12486
-    engagement: 551
-    commentsToLikes: 0.059271
-    id: ck8t70s9xf9s70j780sso23xk
+    followers: 6368
+    engagement: 604
+    commentsToLikes: 0.089126
+    id: ck8t4nvnk7gqe0j78y74lkcg0
     verified: false
-    hashtags: "#minimalstreetstyle, #dailylookbook, #picnictime, #llemerci"
-  - username: "agata_zyzak"
+    hashtags: "#summervibes, #goldenhour, #kfs, #kocham"
+  - username: "gabriellaszklarz"
     fullname: >-
-      Agata Zyzak
+      Gabriella Szklarz 💎
     bio: >-
-      Kontakt: agatka991@onet.eu #momlife 👩‍👦 #parenting #fashionlover👜 #girlpower
+      LIFESTYLE/BEAUTY/FASHION Cracow 🫶🏼 With passion for travel 🌴
     location: "Poland"
-    followers: 15110
-    engagement: 679
-    commentsToLikes: 0.074208
-    id: ckaozq80lmxfi0i78tvh7m9yj
+    followers: 21087
+    engagement: 466
+    commentsToLikes: 0.026630
+    id: ck15seqjlcn220i197tw6vdqy
     verified: false
-    hashtags: "#wycieczka, #niemowle, #modnamama, #sanda"
-  - username: "luv.goldvv"
+    hashtags: "#blonde, #igerspoland, #blondeme, #braids"
+  - username: "natbudzynska"
     fullname: >-
-      𝓦𝓲𝓴𝓽𝓸𝓻𝓲𝓪 𝓛𝓾𝓲𝔃𝓪
+      Natalia Budzyńska
     bio: >-
-      MY LOVE FOR FASHION, BEAUTY AND EVERYTHING AROUND. ▫️22 ▫️student of Law & Economics ▫️Poland, Szczecin
+      travel / fashion / lifestyle Poland budzynska.nat@gmail.com co-founder @soie_vintage
     location: "Poland"
-    followers: 5150
-    engagement: 1197
-    commentsToLikes: 0.167805
-    id: ck8t3wipk4qwe0j78ybjyjv8f
+    followers: 54783
+    engagement: 675
+    commentsToLikes: 0.006378
+    id: ckwvisc9gvoxo0j23zia9t0vn
     verified: false
-    hashtags: "#model, #liketime, #beautiful, #polskadziewczyna"
-  - username: "kaaaro_wu"
+    hashtags: "#vistula, #new, #tousjewelry, #touspolska"
+  - username: "nataliaszukala"
     fullname: >-
-      Karolina Walawko
+      NATALIA SZUKAŁA
     bio: >-
-      📍Warsaw 🇵🇱 . •Fitness • Health • Fashion • Skin Care . 💌 kaaaro.wu@gmail.com
+      Warsaw fashion enthusiast & content creator ✉️ natalia.szukala@gmail.com
     location: "Poland"
-    followers: 20684
-    engagement: 454
-    commentsToLikes: 0.078143
-    id: ck15qb5cc1zsm0i19nwb10g5b
+    followers: 34363
+    engagement: 979
+    commentsToLikes: 0.066099
+    id: ck9hazp3mer2z0j78ib172bsx
     verified: false
-    hashtags: "#beauty, #stylefashion, #polskadziewczyna, #motywacja"
-  - username: "jamiolek"
+    hashtags: "#zalandoshop, #reklama"
+  - username: "aaagistyle"
     fullname: >-
-      Izabela 🌸
+      Agnieszka Bartków
     bio: >-
-      Warsaw, 23 👸 #beauty #fashion #lifestyle DM 💌 or jamiolek.instagram@gmail.com Collecting moments ✨
+      fashion inspo | content creator | lifestyle 🤍 contact : aagistyle@gmail.com
     location: "Poland"
-    followers: 5087
-    engagement: 742
-    commentsToLikes: 0.265994
-    id: ck9wetir2lrhd0j789q2nn4ky
+    followers: 33242
+    engagement: 617
+    commentsToLikes: 0.084815
+    id: cl6cj5ctfi6hj0i234urlfyw7
     verified: false
-    hashtags: "#fashion, #lookoftheday, #influencer, #style"
+    hashtags: "#sprinootd, #zaraootd, #whitelook, #sweter"
+  - username: "doris.xoxo"
+    fullname: >-
+      Dorota Sadowska
+    bio: >-
+      💎 diamond advisor 👠 personal stylist /fashion enthusiast (with a passion for diamonds and fashion) 📩dorota.sadowska1994@tlen.pl @szafa_doris.xoxo
+    location: "Poland"
+    followers: 17754
+    engagement: 486
+    commentsToLikes: 0.084764
+    id: cl5l32so890pa0i233d69z2if
+    verified: false
+    hashtags: "#autumn, #outfit, #selfie, #black"
+  - username: "olaszkolda"
+    fullname: >-
+      Ola Szkołda 💫
+    bio: >-
+      OFFICIAL ACCOUNT🤍 #fashion #beauty #photomodel Manager @jaredkostrzewa manager@olaszkolda.com TikTok ola.szkolda [310k]
+    location: "Poland"
+    followers: 164600
+    engagement: 810
+    commentsToLikes: 0.004943
+    id: ck0w6xucgas270i19ymrjhj3c
+    verified: false
+    hashtags: "#fashionable, #redhair, #fashioninspiration, #fashioninfluencer"
+  - username: "magdajagnicka"
+    fullname: >-
+      Magda Jagnicka
+    bio: >-
+      Fashion Editor & Stylist from Warsaw with love 💓 @bankotki & @kamionki_com founder ✨
+    location: "Poland"
+    followers: 44980
+    engagement: 4277
+    commentsToLikes: 0.023587
+    id: ck0vv6u79nsw10i191mfrnyzi
+    verified: false
+    hashtags: "#weddinginitaly, #reklama, #weddinginspiration, #estelladandyk"
 ---

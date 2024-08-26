@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Las Vegas In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Las Vegas In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #tattoo #tattoos #tattooartist.
+  Find top tattoo-artists Instagram influencers in Las Vegas in 2024. Most popular hashtags: #tattoo #tattoos #tattooartist #lasvegas.
 platform: Instagram
-hits: 32
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 32 Instagram influencers like this in Las Vegas, United States for you to contact.
+hits: 40
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 40 Instagram influencers like this in Las Vegas, United States for you to pitch.
 profiles:
   - username: "joshua.larkins.tattoo"
     fullname: >-
@@ -43,30 +43,30 @@ profiles:
     id: ck6ug9dap1okp0j71r14uvxb1
     verified: false
     hashtags: "#tattoos, #enamelpins, #enamelpin, #fnv"
-  - username: "jennissemakeup"
+  - username: "skindesigntattoos"
     fullname: >-
-      Jennisse 🧿
+      𝐒𝐤𝐢𝐧 𝐃𝐞𝐬𝐢𝐠𝐧 𝐓𝐚𝐭𝐭𝐨𝐨𝐬
     bio: >-
-      🖤 YouTube Partner 🖤 Celebrity Nail Artist 🖤 Microblading Artist 🖤 Business Owner & Entrepreneur
+      For Appointments Text 702-297-6079 📲 • @Robert_Pho & SDT Family • Caesars Palace • LV • HI • NYC • OC • Nashville • Tokyo 🇯🇵
     location: "United States"
-    followers: 29781
-    engagement: 165
-    commentsToLikes: 0.043492
-    id: ck136pfmq7m5g0i19p1lvcsfw
+    followers: 112053
+    engagement: 38
+    commentsToLikes: 0.017477
+    id: ck55j59zewaos0i11v0js86qv
     verified: false
-    hashtags: "#sculptednails, #jewelry, #family, #love"
-  - username: "robert_pho"
+    hashtags: "#klarna, #lv, #smile, #honolulutattooshop"
+  - username: "thearchlv"
     fullname: >-
-      SKIN DESIGN TATTOO
+      The Arch LV | PMU Eyebrow savior
     bio: >-
-      🦂Tattooing 30+ years 🔸@skindesigntattoos 20+ years 🌴Honolulu 🎲Las Vegas 🗽New York ☀️SoCal
+      ⭐️Celebrity brow artist LAS VEGAS / LA 🏆Top 5 womenprenuers in Las Vegas 🖊 Ombréshading technique TRAINING AVAILABLE! DM to book!
     location: "United States"
-    followers: 67362
-    engagement: 231
-    commentsToLikes: 0.052485
-    id: ck6tr001cvwpm0j719y9nzgv9
+    followers: 23598
+    engagement: 920
+    commentsToLikes: 0.060706
+    id: cknohaj5139u40j23q8ggqwmg
     verified: false
-    hashtags: "#robertpho, #skindesigntattoos, #lasvegastattoo, #keepingupwithrobertpho"
+    hashtags: "#lasvegaslocals, #makeupartist, #lasvegashairstylist, #bossbabe"
   - username: "heidi_dangerouslychicbrows"
     fullname: >-
       Heidi Lynne
@@ -79,6 +79,30 @@ profiles:
     id: ck136pg3c7m6p0i19oge4fa2x
     verified: false
     hashtags: "#browsonfleek, #beauty, #lashlift, #micropigmentacion"
+  - username: "gymgamergirl"
+    fullname: >-
+      Isabella Dorianu
+    bio: >-
+      📍Las Vegas 🎰/ Wifey💍🇺🇸🇩🇪/ Gamer Girl 🎮
+    location: "United States"
+    followers: 761613
+    engagement: 391
+    commentsToLikes: 0.017394
+    id: ck6u72o85j4ff0j719ob8d6ka
+    verified: false
+    hashtags: "#nerdytattoos, #gamergirl, #inkedgirls, #inkedmodel"
+  - username: "raphbarrostattoos"
+    fullname: >-
+      Raphael Barros
+    bio: >-
+      🇺🇸🇧🇷 📍BOSTON Tattoo Artist @inkmaster8 Sponsored @intenzetattooink @intenzebrazil @fytsupplies @hustlebutterdeluxe @inkmapstattooapp App 👇🏼
+    location: "United States"
+    followers: 54103
+    engagement: 91
+    commentsToLikes: 0.110333
+    id: ck0w62twl6mpo0i19uywjx7bn
+    verified: false
+    hashtags: "#blessed, #newyorktattooartist, #raphaelbarrostattoo, #miamiinked"
   - username: "_carlotah"
     fullname: >-
       555
@@ -90,41 +114,17 @@ profiles:
     commentsToLikes: 0.011750
     id: ckaosxfqxtgfg0i78mv5aisdy
     verified: false
-    hashtags: "#realism, #tattoo, #intenzeink, #sacredgeometry"
-  - username: "raphaelbarrostattoos"
+    hashtags: "#tattoo, #hillcrestsandiego, #sacredgeometry, #intenzeink"
+  - username: "robert_pho"
     fullname: >-
-      ♏⚜️Raph ⚜🦂
+      SKIN DESIGN TATTOO
     bio: >-
-      Tattoo Artist 💯BEKIND ➕BadInfluencer➕ MA #bostonstrong 🇺🇸🇧🇷 Sponsor @fytsupplies ✈️ MA / NY / LA /LV ⚜Life is Good⚜
+      🦂Tattooing 30+ years 🔸@skindesigntattoos 20+ years 🌴Honolulu 🎲Las Vegas 🗽New York ☀️SoCal
     location: "United States"
-    followers: 39571
-    engagement: 68
-    commentsToLikes: 0.092295
-    id: ck0w62twl6mpo0i19uywjx7bn
+    followers: 80700
+    engagement: 448
+    commentsToLikes: 0.043409
+    id: ck6tr001cvwpm0j719y9nzgv9
     verified: false
-    hashtags: "#ink, #inkedshop, #stayhome, #hustlehard"
-  - username: "inked.exclusives"
-    fullname: >-
-      
-    bio: >-
-      Representing inked talent, artists & models! #inkedexclusives || Premium content below! 💥 ||
-    location: "United States"
-    followers: 32244
-    engagement: 49
-    commentsToLikes: 0.026088
-    id: ck5cffuv2mvc10i116l0bvdiq
-    verified: false
-    hashtags: "#pursuitofportraits, #uncensored, #fashion, #fitmodels"
-  - username: "xkingofshredx"
-    fullname: >-
-      
-    bio: >-
-      Guitarist @slaughtertoprevailofficial @legatorguitars @inkpagodatattoo @fortinamps @fishmanmusic @laddercabs @neuraldsp DM Offering Lessons
-    location: "United States"
-    followers: 8201
-    engagement: 714
-    commentsToLikes: 0.017717
-    id: ck6u1nliwmtal0j71ktc3drgt
-    verified: false
-    hashtags: "#inklifestyle, #vegas, #tatt, #tat"
+    hashtags: "#tattooed, #tattoos, #tattooartist, #tattoo"
 ---

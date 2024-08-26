@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Montreal In 2023
+title: Top 10 Bloggers Instagram Influencers In Montreal In 2024
 description: >-
-  Find top bloggers Instagram influencers in Montreal in 2023. Most popular hashtags: #canada #montreal #toronto #blogger.
+  Find top bloggers Instagram influencers in Montreal in 2024. Most popular hashtags: #montreal #gifted #montrealfood #mtlfood.
 platform: Instagram
-hits: 13
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 13 Instagram influencers like this in Montreal, Canada for you to collaborate.
+hits: 18
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 18 Instagram influencers like this in Montreal, Canada for you to collaborate.
 profiles:
   - username: "billiebopbillie"
     fullname: >-
       B I L L I E ☾
     bio: >-
-      Model • MTL Paid bookings only Tiktok: billiebopbillie YouTube channel ☟︎
+      Owner @sheermagazine Tattoo @billietats YouTube & podcast ☟︎
     location: "Canada"
-    followers: 20494
-    engagement: 527
-    commentsToLikes: 0.014954
+    followers: 32989
+    engagement: 343
+    commentsToLikes: 0.010200
     id: ck5hcjwwwigby0i11bcu7r0b9
     verified: false
-    hashtags: "#followme, #photograph, #girl, #like4like"
-  - username: "twourism"
+    hashtags: "#bae, #like4like, #models, #girlmodel"
+  - username: "blog_le_refuge"
     fullname: >-
-      A & M - Toronto Foodies
+      Le Refuge | Montreal Blogger
     bio: >-
-      Eats 🍔| Travels ✈️| Lifestyle👫🏽l Newly weds💍 🚨Sharing the best deals 🎥 Tiktok: 9.2k 💌 DM/Email to collab or to say hi! #torontofoodie #toronto #halal
+      Content Creator From Montreal ➖Let’s talk about Travels, Coffee, Food, Drinks and Lifestyle ➖ 💌 bloglerefuge@outlook.com Links & blog posts ⤵️
     location: "Canada"
-    followers: 12221
-    engagement: 724
-    commentsToLikes: 0.226612
-    id: ck6ubkqqma5jw0j718b18nc2f
+    followers: 10587
+    engagement: 179
+    commentsToLikes: 0.225338
+    id: ck6totvemg3440j719p4y19zo
     verified: false
-    hashtags: "#torontoeats, #mississaugafood, #pakistanifashion, #torontobride"
-  - username: "sidafz"
+    hashtags: "#travelbloggervibes, #morningcoffee, #mtlmoments, #coffeemoment"
+  - username: "jugiguere"
     fullname: >-
-      Sidrah | Toronto Blogger
+      Justine | Montreal Blogger
     bio: >-
-      Lifestyle & Travel blogger📍Toronto Sharing my child's autism journey Follow for kids inclusive activities Work with me: DM / 📧 siddyusman@gmail.com
+      Fashion, lifestyle & beauty Montreal 💌 justinegiguere@gmail.com
     location: "Canada"
-    followers: 13878
-    engagement: 115
-    commentsToLikes: 0.669998
-    id: cks8aqhhiupz50j23q90dq3w1
+    followers: 14676
+    engagement: 67
+    commentsToLikes: 0.047983
+    id: cktdxo0zv8o620j23e4cf2fyk
     verified: false
-    hashtags: "#love, #torontocontentcreator, #muslimblogger, #canadianblogger"
-  - username: "foodaholicblog_"
+    hashtags: "#reelsphoto, #trendysong, #reelsinstagram, #torontoblogger"
+  - username: "mtlcharles"
     fullname: >-
-      Sandi ♡ Foodaholic!
+      Charles |📍Montreal Food & Wine Blogger
     bio: >-
-      * 💻 Food Blogger | Lifestyle | Travel 📍 Toronto 💌 foodaholic12@gmail.com 🏠 Clubhouse @ sandi_04 👩🏻‍💻 Logistics & E-Commerce (FT) 👇🏻 🇧 🇱 🇴 🇬
+      Content Creator | Photographer | Writer Bridging Cultures with Food 🍜 Fashion👠 and Music 🎧 Celebrate Vietnamese Culture: @chodemmtl
     location: "Canada"
-    followers: 17402
-    engagement: 151
-    commentsToLikes: 0.090092
-    id: ck6tnpz6yac6e0j71wpt4mvq1
+    followers: 6318
+    engagement: 328
+    commentsToLikes: 0.050088
+    id: clpdif5c1fdah0k08e92w73jk
     verified: false
-    hashtags: "#reels, #canadatakeout, #canada, #torontolife"
-  - username: "albenacakedesign"
+    hashtags: "#mtlfoodie, #letseatcanada, #mtlresto, #mtlfood"
+  - username: "cl_blog"
     fullname: >-
-      Albena Cake Design
+      CYNTHIA | 📍Montreal Foodie Content Creator 🍴
     bio: >-
-      Cake artist, instructor, consultant Montréal/destination Enquires: albenacakedesignlab@gmail.com @satin.ice Artist of Excellence
+      📍MTL Blogger: Food, Lifestyle, Activities, Travel 👇 Check Reels for Inspo 😍, 👆 Daily Stories for Fun 😏 📧 DM/Email for collabs/invites
     location: "Canada"
-    followers: 32863
-    engagement: 301
-    commentsToLikes: 0.030405
-    id: ck139ow4xmeea0i193uht2svz
+    followers: 5359
+    engagement: 1411
+    commentsToLikes: 0.433731
+    id: clio5azokhpol0j085mvcij2e
     verified: false
-    hashtags: "#cakeinspiration, #edibleart, #christmascake, #handcrafted"
-  - username: "unstoppable.mama"
+    hashtags: "#mtlblogger, #dateidea, #theloserfam, #koreanfoods"
+  - username: "mrsloulou"
     fullname: >-
-      Sara ♡ Ottawa Lifestyle Blogger
+      Loukia
     bio: >-
-      DAILY FASHION INSPO Blogger | Designer | Author 🎥4M+Reels ♡ @unstoppableprints.co ♡ REEL Mom-Kids 15m apart ♡ Ottawa🇨🇦 ♡ FREE Colouring & Play Ideas↓
+      Travel Writer @luxeottawamagazine @cangeotravel @facesottawa Influencer of the Year 2024 Lifestyle Blogger • Comms Advisor • TV Contributor
     location: "Canada"
-    followers: 14716
-    engagement: 231
-    commentsToLikes: 0.400085
-    id: ckrvnl3vxktsw0j23g13q0bah
+    followers: 12918
+    engagement: 293
+    commentsToLikes: 0.074551
+    id: ck6ue6vndp5qm0j71o7jxx2pq
     verified: false
-    hashtags: "#613mom, #amazonfashionfinds, #food4thought, #fashionreels"
-  - username: "yourdappergoals"
+    hashtags: "#greece, #districtrealty, #ottawabloggers, #greekfood"
+  - username: "justinpluslauren"
     fullname: >-
-      Midhvan Gulati
+      Lauren - Travel Blogger
     bio: >-
-      •MENSWEAR• Use #yourdappergoals Businessman/Blogger/Student Based📍- British Columbia, Canada🇨🇦 SNAPCHAT👻- midhvan28
+      🌍 Full-time travel blogger from Toronto area 📩 justinpluslauren@gmail.com 🌱 OG vegan travel blogger (2009!) 💖 Small towns, coffee, cats
     location: "Canada"
-    followers: 47354
-    engagement: 266
-    commentsToLikes: 0.031125
-    id: ck5hqblkfsu3o0i11qym0xxbb
-    verified: false
-    hashtags: "#reelsindia, #happy, #beautiful, #black"
-  - username: "shewearslove"
+    followers: 62422
+    engagement: 157
+    commentsToLikes: 0.235201
+    id: ck14juou8ma4u0i19hjri8fux
+    verified: true
+    hashtags: "#summertravel, #visitnovascotia, #grouptravel, #visitbritain"
+  - username: "working_chix"
     fullname: >-
-      Amrit | Modern Motherhood
+      Anna Przezak • Fashion Beauty Lifestyle Blogger
     bio: >-
-      •Top Vancouver 🇨🇦 Mom Blogger •Inspiring you to follow your dreams while raising your little babes🤍 •Model @lizbellagency ↓Read the Blog↓
+      CPA, CA Polish girl from Montreal, living in📍Toronto 📩 workingchix@gmail.com
     location: "Canada"
-    followers: 23454
-    engagement: 495
-    commentsToLikes: 0.927797
-    id: ck6u7wih6o2720j717p2096ha
+    followers: 30666
+    engagement: 86
+    commentsToLikes: 0.072082
+    id: ck9wh6amgwge60j782z3gl8jx
     verified: false
-    hashtags: "#vancityhype, #westcoastblogger, #momswhoblog, #flashofdelight"
-  - username: "ouijdane_mo"
+    hashtags: "#foodie, #torontoblogger, #parisianstyle, #homedecor"
+  - username: "torontofood"
     fullname: >-
-      Ouijdane | Fashion Blogger ✨
+      Toronto Food
     bio: >-
-      - 𝒍𝒆𝒕 𝒎𝒆 𝒓𝒆𝒎𝒊𝒏𝒅 𝒚𝒐𝒖 🕊️ - 𝒕𝒉𝒊𝒔 𝒊𝒔 𝒎𝒚 𝒐𝒏𝒍𝒚 𝒂𝒄𝒄𝒐𝒖𝒏𝒕 🙌🏻 -📍𝒎𝒐𝒏𝒕𝒓𝒆́𝒂𝒍, 𝒄𝒂𝒏𝒂𝒅𝒂 🇨🇦 - 𝒄𝒐𝒍𝒍𝒂𝒃 📩: Mamouniouijdane@gmail.com
+      TORONTO FOOD Eater | Blogger | Content Creator | 📧: torontofood85@gmail.com #torontofood #toronto
     location: "Canada"
-    followers: 63769
-    engagement: 405
-    commentsToLikes: 0.031466
-    id: ckap5jd9rby2q0i78j7t0sbgr
+    followers: 71332
+    engagement: 45
+    commentsToLikes: 0.045436
+    id: clj5w4zt3o13g0j08er36f5yb
     verified: false
-    hashtags: "#mtl, #fashioninspo, #smile, #photooftheday"
-  - username: "livelovecanada"
+    hashtags: "#patio, #cafe, #comfortfood, #toronto"
+  - username: "20ys"
     fullname: >-
-      live love canada
+      MARILOU MOLES: OMG! Want to WIN DISNEY ON ICE Ottawa Tickets? ⛸️
     bio: >-
-      The most beautiful moments & places in Canada ❤ Live Love Canada ❤ ⬇ ⭐Tag 🏆@livelovecanada 🏆 Subscribe to our YouTube channel 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+      ML: Award Winning #Blogger #TV 🇵🇭🇨🇦 1 of TOP #OttawaInfluencer Public Speaker|Writer: @washingtonpost @narcitycanada See me on TV! Link👇🏾
     location: "Canada"
-    followers: 259229
-    engagement: 300
-    commentsToLikes: 0.014151
-    id: ck0ttgns52mwz0i19tjx0jvco
+    followers: 49952
+    engagement: 37
+    commentsToLikes: 0.516097
+    id: ck6trfvs3yr3e0j716z9uyzwx
     verified: false
-    hashtags: "#calgary, #yyc, #sunset, #vancouver"
+    hashtags: "#lovefireworks, #ottawaevents, #ottawablogger, #ottawafashion"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Stylists TikTok Influencers In Los Angeles In 2023
+title: Top 10 Stylists TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top stylists TikTok influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #fashion #style #fyp.
+  Find top stylists TikTok influencers in Los Angeles in 2024. Most popular hashtags: #losangeles #fyp #style #fashion.
 platform: TikTok
-hits: 10
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat holds 10 TikTok influencers like this in Los Angeles, United States for you to connect with.
+hits: 9
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our database has 9 TikTok influencers like this in Los Angeles, United States for you to connect with.
 profiles:
   - username: "dorietheexplory"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck92t6ec8glev0j78niutc37l
     verified: false
     hashtags: "#barberworld, #photography, #2020, #wahl"
-  - username: "travelsofsarahfay1"
-    fullname: >-
-      TravelsofSarahFay- Travel Blog
-    bio: >-
-      Lux for Less Solo travel and Adventure Blog. Aspire to Adventure. Link Below
-    location: "United States"
-    followers: 71400
-    engagement: 493
-    commentsToLikes: 0.105009
-    id: cka5zuhyboesu0i78ytlkxhyq
-    verified: false
-    hashtags: "#travelbucketlist, #guatemalatiktok, #lakeatitlan, #atlantatiktoks"
   - username: "amberarden"
     fullname: >-
       Amber Arden
@@ -54,7 +42,7 @@ profiles:
     commentsToLikes: 0.050905
     id: ck8vtijhbgby80j78ng3gjcha
     verified: false
-    hashtags: "#makeup, #vintagevibes, #merrychristmas, #cosplay"
+    hashtags: "#vintagefashion, #vintagevibes, #merrychristmas, #vintagestyle"
   - username: "jano_ofthejungle"
     fullname: >-
       Janice Lee
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.100418
     id: ckacgnflvvutw0i78xchx913g
     verified: false
-    hashtags: "#fyp, #antm, #runway, #blackgirlmagic"
+    hashtags: "#tgirl, #dress, #pink, #style"
   - username: "ariahmaray"
     fullname: >-
       Ariah Smith
@@ -102,7 +90,19 @@ profiles:
     commentsToLikes: 0.078740
     id: ckamgqrhtd1qg0i782qnnqcdj
     verified: false
-    hashtags: "#fyp, #fashiontiktok, #foryou, #styleinspo"
+    hashtags: "#styleinspo, #fyp, #fashiontiktok, #foryou"
+  - username: "travelsofsarahfay1"
+    fullname: >-
+      TravelsofSarahFay- Travel Blog
+    bio: >-
+      Lux for Less Solo travel and Adventure Blog. Aspire to Adventure. Link Below
+    location: "United States"
+    followers: 71400
+    engagement: 493
+    commentsToLikes: 0.105009
+    id: cka5zuhyboesu0i78ytlkxhyq
+    verified: false
+    hashtags: "#traveltok, #guatemalacheck, #guatemalatiktok, #atlantatiktoks"
   - username: "mariaaluisabb"
     fullname: >-
       MariaLuisa
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.040134
     id: ckb9q730xlspj0j23xo0p4snq
     verified: false
-    hashtags: "#california, #lifestyle, #beauty, #style"
-  - username: "erikatxylor"
+    hashtags: "#style, #losangeles, #beauty, #california"
+  - username: "gramacarolyn"
     fullname: >-
-      Erika Taylor
+      GramaCarolyn
     bio: >-
-      sustainable fashion outfit inspo + thrift 19 ~ she/her
+      gramaof3 momof2 hubby42yrs ColorStreet Stylist 💅 #lovegrama 🦄💜 Do you!
     location: "United States"
-    followers: 27100
-    engagement: 1098
-    commentsToLikes: 0.060134
-    id: ckb9m7oazf82a0j23fpjsyqm1
+    followers: 29700
+    engagement: 1409
+    commentsToLikes: 0.147461
+    id: ckach281rxlwa0i782m7fh0i3
     verified: false
-    hashtags: "#willyscouts, #outfits, #pinterest, #sustainablefashion"
+    hashtags: "#drinkresponsibly, #doyou, #danceinpublic, #fabulousat60"
 ---

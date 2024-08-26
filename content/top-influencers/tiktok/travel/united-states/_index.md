@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In United States In 2023
+title: Top 10 Travel TikTok Influencers In United States In 2024
 description: >-
-  Find top travel TikTok influencers in United States in 2023. Most popular hashtags: #duet #fyp #stitch #foryou.
+  Find top travel TikTok influencers in United States in 2024. Most popular hashtags: #duet #fyp #pride.
 platform: TikTok
-hits: 4689
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 4689 TikTok influencers like this in United States for you to collaborate.
+hits: 4700
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our database aggregates 4700 TikTok influencers like this in United States for you to work with.
 profiles:
   - username: "thetravelexperience"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.139119
     id: ck9e318obheej0j78fmkjb0jr
     verified: false
-    hashtags: "#colic, #horsesoftiktok, #smileforward, #pathetic"
+    hashtags: "#horsesoftiktok, #smileforward, #pathetic, #notcool"
   - username: "johannaswanderland"
     fullname: >-
       Johanna
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.135674
     id: ckbbshikxfztb0j2341iv0xv6
     verified: false
-    hashtags: "#duet, #adulting, #stitch, #fyp"
+    hashtags: "#dating, #adulting, #stitch, #fyp"
   - username: "readytostare"
     fullname: >-
       Ready to Stare 
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.070346
     id: ckeyxcq0f4ru70j2344qujtnb
     verified: true
-    hashtags: "#28xtremes, #pride, #wlw, #queer"
+    hashtags: "#monochromaticmonday, #28xtremes, #foryourpride, #pride"
   - username: "chalktwins"
     fullname: >-
       Chalk Twins
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.103213
     id: ckcdgj8zd74nu0j23joi4nmc7
     verified: false
-    hashtags: "#womenshistorymonth, #artistsoftiktok, #artistoftiktok, #streetart"
+    hashtags: "#artistsoftiktok, #womenshistorymonth, #artistoftiktok, #chalkart"
   - username: "itsjustjocelynk"
     fullname: >-
       Jocelyn, M.A, LPC
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.051731
     id: ckf4un15y3r9m0j23dhftvhm2
     verified: false
-    hashtags: "#mentalhealth, #teentherapy, #bodypositivity, #therapyhumor"
+    hashtags: "#therapyhumor, #counseling, #therapy, #therapypov"
   - username: "spencer.gray_"
     fullname: >-
       Spencer Gray
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.094094
     id: ckbl06jwowrij0j234zcefyfs
     verified: false
-    hashtags: "#photomagic, #photography, #fyp, #myphotography"
+    hashtags: "#newengland, #photomagic, #fyp, #photography"
   - username: "cosplay_critter"
     fullname: >-
       cosplay_critter
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.104813
     id: cka85b5dkxe9j0i7823g4lomd
     verified: false
-    hashtags: "#dnd, #dm, #mightynein, #matthewmercer"
+    hashtags: "#matthewmercer, #duet, #mattmercer, #disney"
   - username: "trashpanache"
     fullname: >-
       🗑
     bio: >-
-      🏳️‍🌈 26, He/Him BLACK LIVES MATTER Travel for work Riverside Ca. for now
+      🏳️‍🌈 🇵🇭 27, He/Him BLACK LIVES MATTER Travel for work Bay Area for now
     location: "United States"
-    followers: 45200
-    engagement: 2782
-    commentsToLikes: 0.041880
+    followers: 46800
+    engagement: 2952
+    commentsToLikes: 0.051781
     id: ck8w4ftt98fse0j78g7e414rq
     verified: false
-    hashtags: ""
+    hashtags: "#stitch, #greenscreen"
 ---

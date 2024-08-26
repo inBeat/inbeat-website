@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Melbourne In 2023
+title: Top 10 Models TikTok Influencers In Melbourne In 2024
 description: >-
-  Find top models TikTok influencers in Melbourne in 2023. Most popular hashtags: #fyp #melbourne #australia #model.
+  Find top models TikTok influencers in Melbourne in 2024. Most popular hashtags: #fyp #melbourne #australia #model.
 platform: TikTok
-hits: 12
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 12 TikTok influencers like this in Melbourne, Australia for you to contact.
+hits: 11
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 11 TikTok influencers like this in Melbourne, Australia for you to work with.
 profiles:
   - username: "boyvsgod"
     fullname: >-
@@ -115,16 +115,16 @@ profiles:
     id: ckdtdrp1hvhb40j23we44guc0
     verified: false
     hashtags: "#kitten, #manifestation, #fyp, #sportsgirl"
-  - username: "gemmaaa_white"
+  - username: "ashdaviesoncars"
     fullname: >-
-      Gemma White
+      Ash Davies
     bio: >-
-      Just be your weird and wonderful self 💫 Bachelorau S8 🌹 Insta gemmaaa_white
+      🇦🇺 27, Melb, CEO + Forbes Under 30 🚗 Car YouTuber Follow on insta: @ashdav
     location: "Australia"
-    followers: 21000
-    engagement: 361
-    commentsToLikes: 0.064412
-    id: ckal6d30cab7d0i78fpyb57x1
+    followers: 29800
+    engagement: 966
+    commentsToLikes: 0.015128
+    id: ck9m10qzqcym10j7852wdu1px
     verified: false
-    hashtags: "#propertymanager, #realestateagent, #fyp, #foryoupage"
+    hashtags: "#cars, #timewarpscan, #fyp, #melbourne"
 ---

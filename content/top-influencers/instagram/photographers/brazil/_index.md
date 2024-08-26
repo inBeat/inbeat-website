@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Brazil In 2023
+title: Top 10 Photographers Instagram Influencers In Brazil In 2024
 description: >-
-  Find top photographers Instagram influencers in Brazil in 2023. Most popular hashtags: #portrait #moodyports #globe.
+  Find top photographers Instagram influencers in Brazil in 2024. Most popular hashtags: #publi #boomfestival #ma.
 platform: Instagram
-hits: 916
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 916 Instagram influencers like this in Brazil for you to pitch.
+hits: 948
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 948 Instagram influencers like this in Brazil for you to contact.
 profiles:
   - username: "gustavozylbersztajn"
     fullname: >-
@@ -31,100 +31,100 @@ profiles:
     id: ckapbx7b11mrx0i7874koia9s
     verified: true
     hashtags: "#prostitui, #coronavirus, #incendiosflorestais, #carnavalcancelado"
-  - username: "bladmeneghel"
+  - username: "fuscadadrika"
     fullname: >-
-      Blad Meneghel
+      Drika
     bio: >-
-      Blad Meneghel / Bladinho (34 yr / 📍Rio 🇧🇷)⠀ Photographer: 📷Xuxa (2002-) ⠀⠀ 📷Record TV (2015-) 📷Publicidade (2002-)⠀⠀ 📷TV Globo (2002-2014)
+      🌈 cars + lifestyle + colors 🚙 vw beetle 1968 is Zé! 🔴 +40k Youtube 📷 Photographer @drika.photofilm
     location: "Brazil"
-    followers: 42210
-    engagement: 863
-    commentsToLikes: 0.063593
-    id: ck0w3oje1ugnk0i19qq7y88i8
-    verified: true
-    hashtags: "#xuxa, #recordtv, #tbt, #nikon"
-  - username: "carolsculture"
-    fullname: >-
-      𝐂𝐚𝐫𝐨𝐥 | antiga @grungessoul
-    bio: >-
-      𝑛𝑒𝑟𝑑𝑖𝑐𝑒𝑠 • 𝑓𝑜𝑡𝑜𝑠 • 𝑣𝑖𝑑𝑎 𝑝𝑒𝑠𝑠𝑜𝑎𝑙 • 𝑚𝑢𝑠𝑖𝑐𝑎 ☾| photographer: @anacarolfotografias ☾| personal acc: @ac.mouralima ☾| vintage dark aesthetic
-    location: "Brazil"
-    followers: 3286
-    engagement: 2062
-    commentsToLikes: 0.218171
-    id: ck8t67rp8ckgo0j784flysm5w
+    followers: 117677
+    engagement: 716
+    commentsToLikes: 0.025039
+    id: ck15rd3837brc0i19j2ep1uzo
     verified: false
-    hashtags: "#grungestyle, #retroaesthetic, #vscocam, #yellowaesthetic"
-  - username: "ioskar7"
+    hashtags: "#fuscadadrika, #kfcmaringa, #publi, #colorista"
+  - username: "triphotosdigital"
     fullname: >-
-      Oskar
+      👽📸 TRIPHOTOS / CYBER ALIEN 🎥👽
     bio: >-
-      Contact via direct Music video creator 🎥 Director | videographer | photographer
+      ☠️ Me @lipelipx /// 🚩 In Berlin 🇩🇪 💥 OPEN for BOOKINGS Summer 2023 💥 📷 Photographer / Videomaker 🎥 🦖 Europe Official Work > @mastersofpuppetsfest 🌐
     location: "Brazil"
-    followers: 18523
-    engagement: 1039
-    commentsToLikes: 0.041468
-    id: ck0u6h9q922dk0i19xjinqri8
+    followers: 32190
+    engagement: 748
+    commentsToLikes: 0.014623
+    id: ck0u2cmbizfhs0i19e33z5t38
     verified: false
-    hashtags: "#discoverportrait, #igworldclub, #bravoportraits, #aovportraits"
-  - username: "brunogomesph"
+    hashtags: "#hardtechno, #zenonrecords, #mastersofpuppetsfest, #musicfestival"
+  - username: "luan_assis"
     fullname: >-
-      BRUNO GOMES
+      Luan de Assis Matte
     bio: >-
-      💭Creative Director 👁Fashion Photographer 🔎São Paulo, Brazil 💻brunogomesft@outlook.com
+      Filmmaker | Photographer Host do NMM podcast
     location: "Brazil"
-    followers: 37167
-    engagement: 419
-    commentsToLikes: 0.052740
-    id: ck15s6gt5bglk0i199wyqhct5
+    followers: 63441
+    engagement: 2718
+    commentsToLikes: 0.024258
+    id: ck6tyvaso62ht0j71fyv85cg8
     verified: false
-    hashtags: "#reels, #fashionfilmdirector, #creativedirectors"
-  - username: "aleflopes_photo"
+    hashtags: "#publi, #takecarewithsnoopy, #takecareofyourself, #nestlenaturnes"
+  - username: "renataxavierfoto"
     fullname: >-
-      Alef Lopes
+      Renata Xavier
     bio: >-
-      Portrait and Lifestyle Photographer 📷⚡️ 📍Curitiba - Brazil 👇Orçamentos + infos link abaixo!
+      🏆Award Winning Photographer 📸Nikon Creator #nikonzlatam 🔥Events @renataxavier.weddings 📚Partner @dreambookspro
     location: "Brazil"
-    followers: 7171
-    engagement: 927
-    commentsToLikes: 0.139517
-    id: ck8t39u9k2gzc0j78g5kc5fg0
+    followers: 59130
+    engagement: 552
+    commentsToLikes: 0.032724
+    id: ck0vv5545nlcc0i19c38qgee5
     verified: false
-    hashtags: "#photography, #curitiba, #moo, #reelsinstagram"
-  - username: "felp011"
+    hashtags: "#bienvenidoalmundoz, #renataxavier, #obrilhonoolharcontinua, #nikonzlatam"
+  - username: "joedavismusic"
     fullname: >-
-      Felpinho
+      Joe Davis (ARSM) 🇯🇲
     bio: >-
-      Model-photographer and more. 🇧🇷 @flamme.br @captive.club @captive_br
+      🎹 20-yr-old Musician/Photographer/Composer/DJ 🎵 1/4 of @symphonysoundsofficial 🪴 Founder/Pres: @thegardenja 📸 Photography: @joedavisphotos
     location: "Brazil"
-    followers: 6003
-    engagement: 1613
-    commentsToLikes: 0.054060
-    id: ck5c4zneo2ft10i11h3zsokc0
+    followers: 9832
+    engagement: 411
+    commentsToLikes: 0.099694
+    id: ckygilx6yr13r0j239ccjl5yo
     verified: false
-    hashtags: "#35mm, #sport"
-  - username: "guiirossi"
-    fullname: >-
-      Guilherme Rossi
-    bio: >-
-      Photographer from SP 🇧🇷 Curso Online @_portraitacademy 👇🏻 Presets, ensaios e mais
-    location: "Brazil"
-    followers: 146190
-    engagement: 328
-    commentsToLikes: 0.214875
-    id: ck0twq2vmgdkq0i190gk7anc8
-    verified: false
-    hashtags: "#navesmagazine, #moodyports, #portraitpage, #magiclens"
+    hashtags: "#capillary"
   - username: "lineker"
     fullname: >-
-      Lineker Pires
+      L I N E K E R
     bio: >-
-      📍São Paulo / Goiânia FASHION PHOTOGRAPHER
+      Fashion and lifestyle Photographer 📍Dubai 🇦🇪
     location: "Brazil"
-    followers: 68990
-    engagement: 345
-    commentsToLikes: 0.109979
+    followers: 523598
+    engagement: 387
+    commentsToLikes: 0.226927
     id: ck5q3pjkqlulb0i11loep8v0z
     verified: false
-    hashtags: "#emiradosarabes, #insta, #goodvibes, #sky"
+    hashtags: "#lineker, #lifestyle, #fashionstyle, #dubai"
+  - username: "jakeandkarin"
+    fullname: >-
+      Jakeline Santos & Karin | Two Moms Lifestyle
+    bio: >-
+      ✨Brazilian & Dutch married couple ✨Sharing our adventures as two moms ✨Lifestyle | Photographer | Travel ✨ @jake_santos_photography
+    location: "Brazil"
+    followers: 32043
+    engagement: 322
+    commentsToLikes: 0.051723
+    id: ckaozb66xl3gg0i78icywhmms
+    verified: false
+    hashtags: "#pregnancyjourney, #europeanspermbank, #pareting, #couplegoals"
+  - username: "phraa"
+    fullname: >-
+      PHRAA
+    bio: >-
+      Photographer & ArtDirector ▫️ 📸: @jbalvin ▫️Founder: @phraanquicia 🔸Management: @kanessat
+    location: "Brazil"
+    followers: 458239
+    engagement: 291
+    commentsToLikes: 0.000926
+    id: ck0tvo3iuc3tc0i19x0fedef7
+    verified: false
+    hashtags: "#karolg, #vmas, #ma, #tb"
 ---

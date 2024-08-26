@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Portugal In 2023
+title: Top 10 Lifestyle Instagram Influencers In Portugal In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Portugal in 2023. Most popular hashtags: #fashion #outfitoftheday #ootd #outfitinspiration.
+  Find top lifestyle Instagram influencers in Portugal in 2024. Most popular hashtags: #fashionstyle #fashion #instagood #lifestyle.
 platform: Instagram
-hits: 74
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 74 Instagram influencers like this in Portugal for you to connect with.
+hits: 112
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 112 Instagram influencers like this in Portugal for you to work with.
 profiles:
+  - username: "im.susanasilva"
+    fullname: >-
+      SUSANA SILVA
+    bio: >-
+      lifestyle | gym | routine oporto, pt contact.susanasilva@gmail.com 📩
+    location: "Portugal"
+    followers: 44537
+    engagement: 430
+    commentsToLikes: 0.026338
+    id: ckaovkl9a4ys60i787iawknf3
+    verified: false
+    hashtags: "#zaraoutfit, #zara, #ootdshare, #fashionblogger"
+  - username: "tessa.chb"
+    fullname: >-
+      teresa
+    bio: >-
+      books | fashion | lifestyle 🎈 🎵 Tiktok - @tessa.chb (+200k) 📩 business inquiries: teresa.correia0601@gmail.com
+    location: "Portugal"
+    followers: 27592
+    engagement: 728
+    commentsToLikes: 0.007247
+    id: cl99din2mfg290i23k0jo14zu
+    verified: false
+    hashtags: "#leovaldez, #bibliophile, #bookcommunity, #qood"
+  - username: "jessiegomees"
+    fullname: >-
+      𝕁𝕖𝕤𝕤𝕚𝕖 𝔾 |𝔽𝕚𝕥𝕟𝕖𝕤𝕤 & ℕ𝕦𝕥𝕣𝕚𝕥𝕚𝕠𝕟|
+    bio: >-
+      🥑 | Healthy Lifestyle | 📍 | Coimbra, PT| 💌 | Parcerias - 📨 |
+    location: "Portugal"
+    followers: 13738
+    engagement: 461
+    commentsToLikes: 0.011011
+    id: ck8t9ktoyogna0j78y8l32nfu
+    verified: false
+    hashtags: "#happy, #portugal, #motivation, #blonde"
+  - username: "mikepiekofficial_"
+    fullname: >-
+      Mike Piek
+    bio: >-
+      FITNESS | FASHION | LIFESTYLE 📍Kampen 👨‍💼Owner of @thelifeiliveofficial Collaboration: 📩
+    location: "Portugal"
+    followers: 107943
+    engagement: 539
+    commentsToLikes: 0.115433
+    id: cl1uc0zl4cexg0i23rn0ejegp
+    verified: false
+    hashtags: "#dream, #personality, #entrepreneur, #philippines"
+  - username: "bernard0g0uveia"
+    fullname: >-
+      Bernardo
+    bio: >-
+      Stay wild 🤘🏻 Outdoor & Lifestyle Co-founder of @scaape.adventures I also do weddings @bernardogouveiaphoto —
+    location: "Portugal"
+    followers: 8177
+    engagement: 802
+    commentsToLikes: 0.027596
+    id: ck9weziagml4q0j786nypdqsh
+    verified: false
+    hashtags: "#vanlife, #backpacking, #dogpacking"
+  - username: "tiagovski555"
+    fullname: >-
+      Tiagovski
+    bio: >-
+      🇵🇹 Influencer | Lifestyle | Gaming | Streamer Código VSKI @prozisportugal Código VSKI @solverde.pt 📧 E-mail : tiagovskinegocios@hotmail.com YouTube ⬇️
+    location: "Portugal"
+    followers: 555554
+    engagement: 463
+    commentsToLikes: 0.035398
+    id: ck5hqk37ot8gh0i11oqtv82vp
+    verified: true
+    hashtags: "#follow, #prozis, #premio, #trend"
+  - username: "tudoatoa"
+    fullname: >-
+      Wazowski ✨
+    bio: >-
+      Lifestyle | Food Vlogs Gestão Turística 🎓
+    location: "Portugal"
+    followers: 8809
+    engagement: 368
+    commentsToLikes: 0.017469
+    id: ckap2mgiczhe70i78cz4zr69j
+    verified: false
+    hashtags: "#outfitideas, #brownskinbeauty, #orangedress, #fashion"
+  - username: "tomas_my_special_baby"
+    fullname: >-
+      Andreia Paes De Vasconcellos
+    bio: >-
+      Portuguese Influencer 🇵🇹 |Mother of 👶👶 and 👧 👧One of them has the love chromosome ❤️ Kids,Mums&Lifestyle tomasmyspecialbaby@gmail.com 📩 @ellephant.pt
+    location: "Portugal"
+    followers: 73679
+    engagement: 327
+    commentsToLikes: 0.144448
+    id: ck6twdaodrcx30j71l3hrn2fi
+    verified: true
+    hashtags: "#home, #parceria, #blogtomasmyspecialbaby, #giveaway"
   - username: "joanacbcosta"
     fullname: >-
       Joana Costa
     bio: >-
-      lifestyle, fashion and travel 16/10📍 Porto ➝ if you stand for nothing you'll fall for anything 🐘 ➝ collabs via e-mail or dm LAST VIDEO HERE 👇🏽❤️
+      lipedema reels | lifestyle | fashion and travel 16/10📍Porto ➝ collabs via e-mail or dm all social media and links here👇🏽
     location: "Portugal"
-    followers: 61870
-    engagement: 353
-    commentsToLikes: 0.539473
+    followers: 88261
+    engagement: 326
+    commentsToLikes: 0.477324
     id: ckap6c2m9f9gv0i786k2ulw9p
     verified: false
-    hashtags: "#falloutfit, #fashion, #outono, #casuallook"
-  - username: "fit.mom.eli"
+    hashtags: "#lipoedemaawareness, #lipedemaawareness, #lipedemaportugal, #lipedemasurgery"
+  - username: "joaoocatarino"
     fullname: >-
-      Elizabete Amaral Ganhão 🇨🇦🇵🇹🇪🇸
+      João Catarino 🚀
     bio: >-
-      Membro Independente da Herbalife Nutrition Coach Changging people's life Nice Lifestyle WhatsApp PT 00351919393184 ganhaoelizabete@yahoo.com
+      Lisbon, Portugal | Based on a true story Fashion | Lifestyle Contact: joaocatarinocollab@gmail.com
     location: "Portugal"
-    followers: 5548
-    engagement: 975
-    commentsToLikes: 0.116280
-    id: ckap6esq0flje0i783j1tpe3i
+    followers: 32808
+    engagement: 644
+    commentsToLikes: 0.164195
+    id: ck14ghphx5a3s0i19h8r68xkn
     verified: false
-    hashtags: "#blessed, #myworld, #happyheart, #happylife"
-  - username: "xxsweetcharlottexx"
-    fullname: >-
-      Charlotte Marie
-    bio: >-
-      Travel || lifestyle || Health My own boss ❀ Self love ♥ Dutch/Portuguese ☾
-    location: "Portugal"
-    followers: 16783
-    engagement: 396
-    commentsToLikes: 0.210320
-    id: ck0tvkfc9brae0i19kemqpu58
-    verified: false
-    hashtags: "#dutchie, #selflovefirst, #fitgirls, #solotravels"
-  - username: "adanielarocha"
-    fullname: >-
-      DANIELA ROCHA
-    bio: >-
-      Sharing everything that I love ❤️ Content creator | Fashion | Lifestyle Blogger & @inspo.bydani
-    location: "Portugal"
-    followers: 13173
-    engagement: 689
-    commentsToLikes: 0.088238
-    id: ck8t22ia5xz9r0j78de0j2f4u
-    verified: false
-    hashtags: "#summer, #cooloutfits, #outfitinspiration, #lookstyle"
-  - username: "rafaelaalexandra0"
-    fullname: >-
-      Rafaela Duarte | Healthy 💫
-    bio: >-
-      🌱 wellness | food | lifestyle 📖 Marketing e Publicidade 📍 Lisboa, Portugal 😋 PROZIS: RAFAELADUARTE 💻 @ellephant.pt 💫YouTube
-    location: "Portugal"
-    followers: 55768
-    engagement: 522
-    commentsToLikes: 0.029931
-    id: ckapbzw1a1xic0i78r1nx98i6
-    verified: false
-    hashtags: "#healthychoices, #veganfood, #eathealthy, #healthylifestyle"
-  - username: "andre20santos"
-    fullname: >-
-      André Santos
-    bio: >-
-      𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 •Lifestyle | Menswear | Fashion @fashionnovamen Ambassador •Tattoo lovers •Based in Portugal🇵🇹
-    location: "Portugal"
-    followers: 66704
-    engagement: 277
-    commentsToLikes: 0.042063
-    id: ck5byrf8vpp2t0i11yqyx4chr
-    verified: false
-    hashtags: "#thecoutureclub, #jointheclub"
-  - username: "saracardosoooo_"
-    fullname: >-
-      SARITA 🦋
-    bio: >-
-      ✨Fashion | MakeUp | Lifestyle 📍St. Moritz & Portugal 🇨🇭🇵🇹
-    location: "Portugal"
-    followers: 35173
-    engagement: 300
-    commentsToLikes: 0.051695
-    id: ck8t62kzpc0no0j78wjxx9y5e
-    verified: false
-    hashtags: "#fitnessgirl, #fashion, #success, #bloggerlife"
-  - username: "claudiadias.oficial"
-    fullname: >-
-      𝙲𝚕𝚊𝚞𝚍𝚒𝚊 𝙳𝚒𝚊𝚜
-    bio: >-
-      💃🏽25| Lifestyle| Dancer | food lover Represented by @milenar_influence_media 💌claudia.dias@milenarmedia.pt 🎥Youtube Channel:Claudia Dias
-    location: "Portugal"
-    followers: 42189
-    engagement: 772
-    commentsToLikes: 0.005703
-    id: ck13bn882w8ri0i19lsl0rjse
-    verified: false
-    hashtags: "#day3, #cookingwithclaudia, #pub, #ograndegorrinho"
-  - username: "brunagaliano_"
-    fullname: >-
-      Bruna Galiano
-    bio: >-
-      Lifestyle, beauty and fashion 📍Lisbon 🇵🇹🇦🇴 Real estate agent/ Remax 📧 brunagaliano@hotmail.com
-    location: "Portugal"
-    followers: 9157
-    engagement: 939
-    commentsToLikes: 0.024331
-    id: ck8tb4ctxu7ub0j78jl5614zn
-    verified: false
-    hashtags: "#praiadosalem, #melanina, #stayhome, #summer"
-  - username: "catarina.fernandees"
-    fullname: >-
-      Catarina Fernandes
-    bio: >-
-      • Content Creator • Lagos/Lisbon • Fashion and Lifestyle • PR, Digital & Brand: gustavo@centralmodels.pt • Founder: @caetanashop 🤍
-    location: "Portugal"
-    followers: 97960
-    engagement: 391
-    commentsToLikes: 0.065325
-    id: ck1374d9y9pu80i19hpf69j8k
-    verified: false
-    hashtags: "#lookdacate, #grwm, #fashion, #ootd"
+    hashtags: "#galaxywandersquad, #kapadokya, #galaxyzflip5, #outfit"
 ---

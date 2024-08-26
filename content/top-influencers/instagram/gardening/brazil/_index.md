@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Brazil In 2023
+title: Top 10 Gardening Instagram Influencers In Brazil In 2024
 description: >-
-  Find top gardening Instagram influencers in Brazil in 2023. Most popular hashtags: #gardening #garden #jardim #nature.
+  Find top gardening Instagram influencers in Brazil in 2024. Most popular hashtags: #gardening #jardim #garden #nature.
 platform: Instagram
-hits: 23
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 23 Instagram influencers like this in Brazil for you to connect with.
+hits: 24
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 24 Instagram influencers like this in Brazil for you to contact.
 profiles:
   - username: "marcosjuniororquideas"
     fullname: >-

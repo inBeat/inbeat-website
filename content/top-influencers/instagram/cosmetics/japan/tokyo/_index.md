@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Tokyo In 2023
+title: Top 10 Cosmetics Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Tokyo in 2023. Most popular hashtags: #ootd #fashion #pr.
+  Find top cosmetics Instagram influencers in Tokyo in 2024. Most popular hashtags: #ootd #fashion #pr.
 platform: Instagram
-hits: 47
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 47 Instagram influencers like this in Tokyo, Japan for you to work with.
+hits: 48
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform has 48 Instagram influencers like this in Tokyo, Japan for you to work with.
 profiles:
   - username: "chika72714"
     fullname: >-

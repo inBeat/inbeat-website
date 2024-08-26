@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Colombia In 2023
+title: Top 10 Fashion Instagram Influencers In Colombia In 2024
 description: >-
-  Find top fashion Instagram influencers in Colombia in 2023. Most popular hashtags: #fashion #ootd #cali.
+  Find top fashion Instagram influencers in Colombia in 2024. Most popular hashtags: #fashion #reels #publicidad.
 platform: Instagram
-hits: 281
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat has 281 Instagram influencers like this in Colombia for you to collaborate.
+hits: 313
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 313 Instagram influencers like this in Colombia for you to contact.
 profiles:
-  - username: "nicollediez"
-    fullname: >-
-      NICOLLE DIEZ
-    bio: >-
-      My life 📷 Mamá de Maite 🤍 #Fashion #beauty and #lifestyle inspiration @bynicollediez
-    location: "Colombia"
-    followers: 97440
-    engagement: 106
-    commentsToLikes: 0.020316
-    id: ck5c27kdbwp4s0i11kuccrvnh
-    verified: false
-    hashtags: "#colombia, #ootd, #fashionstyle, #fashion"
-  - username: "jessica.zabala"
-    fullname: >-
-      Jessica Zabala
-    bio: >-
-      Cree en ti 🍀✨ Insta Tips | Beauty | Fashion | Lifestyle Tiktok | jessicazabalaa
-    location: "Colombia"
-    followers: 89858
-    engagement: 372
-    commentsToLikes: 0.008907
-    id: ck9wghcvxtf430j788scdohfk
-    verified: false
-    hashtags: "#publicidad, #bonbonbumlovers"
   - username: "_omnia.x"
     fullname: >-
       O M N I A
     bio: >-
-      Contacto y publicidad DM📩 ✖ Portraits, Lifestyle, Fashion ✖ 📍 Bogotá 🇨🇴
+      Sesiones y contacto DM📩 ✖ Portraits, Lifestyle, Fashion ✖ 📍 Bogotá 🇨🇴 By: @itsmelbournee @losspotsdemartin
     location: "Colombia"
-    followers: 102604
-    engagement: 459
-    commentsToLikes: 0.120064
+    followers: 88892
+    engagement: 450
+    commentsToLikes: 0.204840
     id: ck55kllvdzlpk0i1159j074ii
     verified: false
-    hashtags: "#vibetones, #sonyalphacolombia, #insomniamag, #777luckyfish"
-  - username: "davidvisuals_ph"
+    hashtags: "#thefilmmagazine, #sonyalpha, #realismag, #editorials"
+  - username: "paulakarpf"
     fullname: >-
-      David Pinilla
+      Paula Karpf
     bio: >-
-      ❌PHOTOGRAPHY❌ 📍Bogotá, Colombia 🇨🇴 PORTRAITS, LIFE STYLE, FASHION, BEAUTY AND CELEBRITY PHOTOGRAPHER SESIONES-COLABORACIONES AL DM📸
+      Ambassador @FashionNova paula.karpfk@gmail.com Publicidad: +573118736290
     location: "Colombia"
-    followers: 51747
-    engagement: 827
-    commentsToLikes: 0.034807
-    id: ck5hmy57bmuih0i11uont2ws2
+    followers: 349071
+    engagement: 515
+    commentsToLikes: 0.021234
+    id: ck5pw3p2jkxy80i11gvtnp7de
     verified: false
-    hashtags: "#tips, #tipsfoto, #vivov20, #ma"
-  - username: "sofiarserrano"
+    hashtags: "#energydrink, #bangenergy, #publicidad, #pioneroamarillo"
+  - username: "folliedollie"
     fullname: >-
-      SOFIA R. SERRANO
+      ☆ Follie Dollie ☆
     bio: >-
-      business student | fashion enthusiast colombiana
+      Maritime & Corporate Lawyer / Founder @legalmarinetek 👩🏽‍⚖️ Sharing my passion for beauty and Fashion at @folliedolliebeaute⭐️
     location: "Colombia"
-    followers: 395586
-    engagement: 496
-    commentsToLikes: 0.003648
-    id: ck5ci7tzfs6f50i11n7ejjqak
+    followers: 38505
+    engagement: 437
+    commentsToLikes: 0.004416
+    id: ck15qy9dh58ls0i19bipvw1u2
     verified: false
-    hashtags: ""
-  - username: "camiavellam"
+    hashtags: "#nofilter, #bidenharris2020"
+  - username: "evanamariaa"
     fullname: >-
-      Camila Kamle Avella 🌞
+      evana maria
     bio: >-
-      🇨🇴 Colombian model | Content creator |Tv hostess | Jewelry designer| Fashion lover| @turmalinalegacy @telkatelas @camiavella_tips
+      24 | Colombian @fashionnova 📍 los angeles, ca
     location: "Colombia"
-    followers: 353788
-    engagement: 338
-    commentsToLikes: 0.024851
-    id: ck5c0pucztm3s0i11gxfqsu1r
-    verified: true
-    hashtags: "#mam, #16weekspregnant, #tb, #millano"
-  - username: "helenafadulb"
-    fullname: >-
-      Helena Fadul
-    bio: >-
-      Caribe 🍉 Fashion ▪︎Beauty ▪︎ Culture. Estrategia en comunicaciones y mercadeo Fashion Marketing & Communications @222agencia
-    location: "Colombia"
-    followers: 49048
-    engagement: 216
-    commentsToLikes: 0.047164
-    id: ck0uern1klzp60i19x3hlg2s4
+    followers: 1126014
+    engagement: 397
+    commentsToLikes: 0.012705
+    id: clexf01zpkub60j08gpsrjvbk
     verified: false
-    hashtags: "#ootd, #fashion, #reels, #trends"
-  - username: "dd.rm"
+    hashtags: "#reels, #explorepage, #femalebarber, #explore"
+  - username: "luisaeloisa_"
     fullname: >-
-      Derly Daniela
+      Luisa Castellanos Ramírez
     bio: >-
-      •Owner of: @sebastiano.shop •Tiktok: dd.rm7 164k 💌 Info : ddrm.contacto@gmail.com •@illustrator.ddrm Fashion designer/Model/YouTube #fashionstyle
+      Creative director @eloisastudio 🏹💘 Fashion and textile illustrator 🔭 amateur photographer and comedian 📷🤹‍♀️
     location: "Colombia"
-    followers: 28755
-    engagement: 699
-    commentsToLikes: 0.031405
-    id: ck9has8yzdw4r0j78jiu8f2rf
+    followers: 30134
+    engagement: 391
+    commentsToLikes: 0.020521
+    id: ck5q43j9anlkq0i11ewe45obm
     verified: false
-    hashtags: "#modelocolombiana, #blackandwhite, #vestidodeba, #makeup"
-  - username: "janinaasprilla"
+    hashtags: "#fashionillustration, #illustrateddoris, #fashion, #fashiondrawing"
+  - username: "manuelagiraldod"
     fullname: >-
-      Janina Asprilla
+      Manuela Giraldo
     bio: >-
-      𝑀𝑎𝑘𝑒 𝑡ℎ𝑒 𝑛𝑜𝑤 𝑡ℎ𝑒 𝑝𝑟𝑖𝑚𝑎𝑟𝑦 𝑓𝑜𝑐𝑢𝑠 𝑜𝑓 𝑦𝑜𝑢𝑟 𝑙𝑖𝑓𝑒 Colombian and Belgian 📍| London 👩🏽‍💻| BSc. Psychology of Fashion LCF
+      fashion enthusiast co-founder @tersapparel
     location: "Colombia"
-    followers: 2487
-    engagement: 1515
-    commentsToLikes: 0.090591
-    id: ck5q6zkdqzf1b0i11645gzv2o
+    followers: 219527
+    engagement: 344
+    commentsToLikes: 0.028523
+    id: ck5c0ps96tlzk0i11e4vwqmd7
     verified: false
-    hashtags: "#brunchinlov, #tbt"
-  - username: "nannamartinezp"
+    hashtags: "#newyearseve, #xmasmakeup, #glittermakeuplook, #modowingo"
+  - username: "mickeholguinbello"
     fullname: >-
-      Nanna Fashion Designer•stylist
+      Micke Holguin Bello 💖
     bio: >-
-      LOCAL & VINTAGE Fashion content every week 🌼🌈♻️🦋💖🦖🍄✨ Mis emprendimientos @houseofpetraofficial @thesecondchanceco 💌 contacto@nannamartinezp.com
+      🛸 Digital Influencer 💿 Fashion | Beauty | Lifestyle 💸 Collab Info Dm 💖 @mickeholguinbelloof
     location: "Colombia"
-    followers: 32851
-    engagement: 169
-    commentsToLikes: 0.074455
-    id: ck602cvayh5bm0i14s0r0qinq
+    followers: 111872
+    engagement: 315
+    commentsToLikes: 0.012701
+    id: ck14je05vjulu0i19shce8qwn
     verified: false
-    hashtags: "#colorfuloutfit, #fashionreels, #stylingvideo, #newreels"
+    hashtags: "#sunsetlamp, #aesthetic, #grwm, #outfitinspo"
+  - username: "mercycollazos"
+    fullname: >-
+      𝐌𝐄𝐑𝐂𝐘 𝐂𝐎𝐋𝐋𝐀𝐙𝐎𝐒
+    bio: >-
+      • | sin DIOS, nada soy ♡ • | Fashion | Beauty | Travel Founder @bubblesky_glamping 🏹@mercycollazos.beauty 🖇 Belleza sin corazón, es simple decoración
+    location: "Colombia"
+    followers: 591892
+    engagement: 274
+    commentsToLikes: 0.008412
+    id: ck5zwywji70s00i145ywx3tbh
+    verified: false
+    hashtags: "#colombia, #outfit, #ootd, #style"
+  - username: "lachelleofficial"
+    fullname: >-
+      LaChelle 🇳🇬
+    bio: >-
+      Los Angeles 📍 Fitness|Fashion Certified Fitness Trainer Mtsu Alumna👩🏾‍🎓 Commercial/ Film Rep : @sovereigntalentgroupinc
+    location: "Colombia"
+    followers: 18023
+    engagement: 250
+    commentsToLikes: 0.029616
+    id: ckz1z8go73ly10j23nbp8j05y
+    verified: false
+    hashtags: "#fitnessmodels, #workoutsforwomen, #lamodels, #posemannequin"
+  - username: "claudialozanooficial"
+    fullname: >-
+      Claudia Lozano
+    bio: >-
+      TV Hostess #ShowCaracol Journalist @noticiascaracol Beauty and Fashion lover
+    location: "Colombia"
+    followers: 192621
+    engagement: 224
+    commentsToLikes: 0.032309
+    id: ck5bz7311qkii0i11id5fjkyc
+    verified: false
+    hashtags: "#claustyle, #dgcolombia, #tbt, #goodgirlcarolinaherrera"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Argentina In 2023
+title: Top 10 Beauty TikTok Influencers In Argentina In 2024
 description: >-
-  Find top beauty TikTok influencers in Argentina in 2023. Most popular hashtags: #argentina #makeup #beautytips #fyp.
+  Find top beauty TikTok influencers in Argentina in 2024. Most popular hashtags: #argentina #makeup #fyp #beautytips.
 platform: TikTok
 hits: 32
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 32 TikTok influencers like this in Argentina for you to collaborate.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine has 32 TikTok influencers like this in Argentina for you to work with.
 profiles:
   - username: "byandreamakeup"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.049829
     id: ckb99s7wfua390j23drdb01zm
     verified: false
-    hashtags: "#soycreador, #makeuptutorial, #makeup, #beautytips"
+    hashtags: "#makeuptutorial, #soycreador, #transformation, #makeup"
   - username: "cande.copello"
     fullname: >-
       Cande💓
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.014028
     id: cka6p5b7ei9jm0i781wfw7oq5
     verified: false
-    hashtags: "#photography101, #fyp, #photography, #qanda"
+    hashtags: "#photoshoot, #fyp, #argentina, #fotografia"
   - username: "muneki77a"
     fullname: >-
       MUÑEKI77A

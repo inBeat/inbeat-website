@@ -1,24 +1,48 @@
 ---
-title: Top 10 Travel Instagram Influencers In Tokyo In 2023
+title: Top 10 Travel Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top travel Instagram influencers in Tokyo in 2023. Most popular hashtags: #japan #tokyo #pr #travel.
+  Find top travel Instagram influencers in Tokyo in 2024. Most popular hashtags: #tokyo #japan #traveljapan #travel.
 platform: Instagram
-hits: 110
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database holds 110 Instagram influencers like this in Tokyo, Japan for you to work with.
+hits: 146
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 146 Instagram influencers like this in Tokyo, Japan for you to connect with.
 profiles:
-  - username: "wadateni"
+  - username: "kimdaoblog"
     fullname: >-
-      和田 テニィ | 𝗧𝗲𝗻𝗶 𝗪𝗮𝗱𝗮
+      Kim Dao
     bio: >-
-      𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 & 𝗕𝗿𝗮𝗻𝗱 𝗖𝗼𝗻𝘀𝘂𝗹𝘁𝗮𝗻𝘁 SNS運用代行・コンサル・PR 𝗝-𝗕𝗲𝗮𝘂𝘁𝘆 | 𝗞-𝗕𝗲𝗮𝘂𝘁𝘆 | 𝗟𝗶𝗳𝗲𝘀𝘁𝘆𝗹𝗲 | 𝗠𝗼𝘁𝗵𝗲𝗿𝗵𝗼𝗼𝗱 📍 𝚃𝚈𝙾 🎌 ウーミーインフルエンサー
+      Lifestyle | Japan Travel Guide 🇯🇵 📍 Tokyo, JP Sony Digital Imaging Ambassador YT: KimDao 780K | KimDaoVlog 170K | KimDaoGame 170K 📧 kimdao90@gmail.com
     location: "Japan"
-    followers: 45906
-    engagement: 265
-    commentsToLikes: 0.036643
-    id: ck5hope1fpzbm0i11d832b0f0
+    followers: 171454
+    engagement: 757
+    commentsToLikes: 0.015006
+    id: ck1373xue9ni40i19n75j7k3q
     verified: false
-    hashtags: "#japan, #kidsgram, #tokyomama, #thewagamamadiaries"
+    hashtags: "#japantraveltips, #tokyo, #japan, #tokyotravelguide"
+  - username: "kfclovesyou"
+    fullname: >-
+      Kirstie Chan
+    bio: >-
+      food • travel • life + sharing experiences & self-care 📍 Seattle 📧: kirstie@kirstiechan.com
+    location: "Japan"
+    followers: 23230
+    engagement: 187
+    commentsToLikes: 0.029083
+    id: clpdgyi8bf8o80k089161kruz
+    verified: false
+    hashtags: "#tokyotravel, #seattleblogger, #seattlefoodie, #hosted"
+  - username: "realmairie"
+    fullname: >-
+      Mai l Japan Travel Destinations
+    bio: >-
+      🌸 Discover beautiful destinations in Japan 日本の魅力を世界へ 🗼TOKYO 📧 PR大歓迎[宿泊・観光・旅行]
+    location: "Japan"
+    followers: 55480
+    engagement: 18
+    commentsToLikes: 0.092573
+    id: cloxoi1os0f5d0j08ivdljaww
+    verified: false
+    hashtags: "#osaka, #japan, #fukuoka, #kyoto"
   - username: "arisa28lucia"
     fullname: >-
       Arisa Ⅰアリサ🇯🇵🇮🇹
@@ -55,18 +79,6 @@ profiles:
     id: ckaoybkk4gteq0i78ok0lvnt9
     verified: false
     hashtags: "#jepang, #anime, #jap, #japon"
-  - username: "japanko_official"
-    fullname: >-
-      Japanko Official
-    bio: >-
-      🇯🇵 Sharing photos of Japan 🍣 Japanese food recommendations 🗻 Top secret travel destinations you never knew existed 📷 Pictures credited
-    location: "Japan"
-    followers: 90581
-    engagement: 496
-    commentsToLikes: 0.008917
-    id: ck14h9vll99ob0i1980o3xwov
-    verified: false
-    hashtags: "#japannaturelovers, #japanlife, #lovetokyo, #visitjapan"
   - username: "sakiiiya"
     fullname: >-
       SAKIE
@@ -79,6 +91,18 @@ profiles:
     id: ck5hgnb963pst0i11x12ewcv8
     verified: false
     hashtags: "#howtovacationlikesakiiiya, #breitling, #pr, #squadonamission"
+  - username: "the_blog_of_ruchi"
+    fullname: >-
+      R!
+    bio: >-
+      A niche blog for people who love travel, lifestyle, fashion, food,books and art.🌻 Can you keep it a secret?✨ 🇯🇵📍🇮🇳
+    location: "Japan"
+    followers: 34303
+    engagement: 47
+    commentsToLikes: 0.093818
+    id: ck14jn7gil7630i19bkw4piy3
+    verified: false
+    hashtags: "#tokyo, #candidchildhood, #kids, #daily"
   - username: "aya_dream04"
     fullname: >-
       Dream Aya
@@ -103,28 +127,4 @@ profiles:
     id: ck5cbgrgkfecv0i119l8stm4g
     verified: false
     hashtags: "#theparisianchique, #valmuer, #shibuyacrossfm, #louvremuseum"
-  - username: "tokioaoyama"
-    fullname: >-
-      Tokio Aoyama
-    bio: >-
-      Painter. Murals, cover art, live painting, portraits, illustrations ... #mural #coverart #illustration #壁画　#イラスト　#アルバムカバー　#ライブペイント　#livepainting
-    location: "Japan"
-    followers: 8343
-    engagement: 304
-    commentsToLikes: 0.016584
-    id: ck5q5ppjwtzej0i11dsrt3brs
-    verified: false
-    hashtags: "#itsukanarita, #tokioaoyama, #akita, #kazuno"
-  - username: "_icyphoto_"
-    fullname: >-
-      Photographer in Tokyo ジュリア
-    bio: >-
-      Julia • 🇷🇺🇪🇸🇧🇷🇬🇧 Moscow ➡️ Rio de Janeiro ➡️ Barcelona ➡️ 📍Tokyo • #sonya7riii • Travel photos @_icyphotos_ Youtube channel ⬇️
-    location: "Japan"
-    followers: 21998
-    engagement: 981
-    commentsToLikes: 0.023427
-    id: ck5c1kyiive4i0i11svbdfe22
-    verified: false
-    hashtags: "#sonyalphasclub, #portraitinspiration, #portraitgames, #portrait"
 ---

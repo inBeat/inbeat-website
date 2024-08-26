@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs TikTok Influencers In United Kingdom In 2023
+title: Top 10 Chefs TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top chefs TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #duet #chef #learnontiktok.
+  Find top chefs TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #chef #duet #lol.
 platform: TikTok
-hits: 81
+hits: 84
 text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 81 TikTok influencers like this in United Kingdom for you to work with.
+text_bottom: Our search engine has 84 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
   - username: "andipandi2410"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.129430
     id: ckacs8glt8ykj0i78ch3tavlk
     verified: false
-    hashtags: "#lol, #homemade, #foodtiktok, #fyp"
+    hashtags: "#foodtiktok, #lol, #homemade, #fyp"
   - username: "bubba_ice"
     fullname: >-
       BUBBA ICE
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.024767
     id: ck8ores73bxlr0j78fxdb0gc5
     verified: true
-    hashtags: "#fyp, #streetstyle, #sugarcrash, #skills"
+    hashtags: "#skills, #yummy, #love, #fyp"
   - username: "deanstirling"
     fullname: >-
       deanstirling
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.007780
     id: ck8ndrfn0kbal0j78sjc5yfpd
     verified: true
-    hashtags: "#uncleroger, #unclerodger, #eggfriedrice, #duet"
+    hashtags: "#duet, #eggfriedrice, #unclerodger, #uncleroger"
   - username: "thomashinds"
     fullname: >-
       Thomas Hinds

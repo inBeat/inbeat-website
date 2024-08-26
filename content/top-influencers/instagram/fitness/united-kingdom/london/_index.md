@@ -1,12 +1,36 @@
 ---
-title: Top 10 Fitness Instagram Influencers In London In 2023
+title: Top 10 Fitness Instagram Influencers In London In 2024
 description: >-
-  Find top fitness Instagram influencers in London in 2023. Most popular hashtags: #fitness #london #motivation #workout.
+  Find top fitness Instagram influencers in London in 2024. Most popular hashtags: #fitness #london #workout #fitnessmotivation.
 platform: Instagram
-hits: 269
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 269 Instagram influencers like this in London, United Kingdom for you to contact.
+hits: 380
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 380 Instagram influencers like this in London, United Kingdom for you to contact.
 profiles:
+  - username: "laurieelle"
+    fullname: >-
+      Laurie Elle
+    bio: >-
+      26 | from mcr, living in ldn ⁣⁣⁣⁣ snippets of my life & dancing mitch@84world.com
+    location: "United Kingdom"
+    followers: 306928
+    engagement: 876
+    commentsToLikes: 0.009139
+    id: ck13csxgp1zzz0i19wpvo0ikm
+    verified: false
+    hashtags: "#outfitideas, #asos, #asseenonme, #manchester"
+  - username: "therunninghorse"
+    fullname: >-
+      Rory Horseman
+    bio: >-
+      🗓️ NYC Marathon - Nov 23’ 🇺🇸 ⏱️ 5k - 16:50 • 13.1 - 1:18 • 26.2 - 2:55 🏅 WMM - ⭐️⭐️⭐️⭐️ ☕ Coffee Lover 🧭 Explorer 🏃‍♂️Coach 👨‍👩‍👧🐕Family of 4 💕
+    location: "United Kingdom"
+    followers: 11678
+    engagement: 285
+    commentsToLikes: 0.025951
+    id: ckf5x0yngtyyo0j23ihr95cdp
+    verified: false
+    hashtags: "#thursdayvibes, #run, #thegreatoutdoors, #sundayvibes"
   - username: "the_basicman"
     fullname: >-
       Napat Thavisin
@@ -19,6 +43,42 @@ profiles:
     id: ck5hpbysdr3uk0i11lih0y686
     verified: false
     hashtags: "#hike, #sand, #lululemon, #longweekend"
+  - username: "natorii_illidge"
+    fullname: >-
+      Natorii Illidge
+    bio: >-
+      SXM🇸🇽 • LDN📍🇬🇧 ~The journey is always the only arrival~ SURVIVE TO THRIVE FEEDBACK ↩️
+    location: "United Kingdom"
+    followers: 9444
+    engagement: 936
+    commentsToLikes: 0.079804
+    id: ck5cclmythl2l0i11gjjz3yew
+    verified: false
+    hashtags: "#island, #motivation, #fitness, #london"
+  - username: "martena_fit"
+    fullname: >-
+      MARTENA DAVID | PT
+    bio: >-
+      ▫️FREE Workout Guide ⬇️ ▫️Fitness | Workouts | Mindset | LDN ▫️More Than Just 🍑 ▫️ @prettyathletic | @proteinworld ‘PWMARTENAF’ 40% off
+    location: "United Kingdom"
+    followers: 6166
+    engagement: 284
+    commentsToLikes: 0.204310
+    id: ck9hbnpi9hnj30j78qyfeuv6p
+    verified: false
+    hashtags: "#femalept, #lululemonuk, #londonfitfam, #londonpt"
+  - username: "ianrunsldn"
+    fullname: >-
+      Ian 🏃🏻‍♂️Running and Dad Life
+    bio: >-
+      Devoted dad and dedicated runner on a year-long journey. Chasing dreams, one stride at a time 🦈 @gymshark IRL 🏃🏻‍♂️ @gonoblepro 😎 @we_are_sungod
+    location: "United Kingdom"
+    followers: 9707
+    engagement: 213
+    commentsToLikes: 0.014999
+    id: ckaovn1zj5aan0i78qf5d0yz7
+    verified: false
+    hashtags: "#runlondon, #parkrun, #wejustrun, #runningcommunity"
   - username: "stevenalvaro"
     fullname: >-
       RESIDUAL MAKERS™️
@@ -31,6 +91,18 @@ profiles:
     id: ck9wou1kx6lmp0j7880ew3ssi
     verified: false
     hashtags: "#suits, #mlmsuccess, #autumn, #residualincome"
+  - username: "christian_bordin"
+    fullname: >-
+      Christian Bordin
+    bio: >-
+      @selectmodellondon 🇬🇧 @selectmodelparis 🇫🇷@vnymodels 🇺🇸 @trafficmodels 🇪🇸 @castore_sportswear Athlete @dna___agency
+    location: "United Kingdom"
+    followers: 420587
+    engagement: 71
+    commentsToLikes: 0.014162
+    id: ckapbqgj50xn60i78r8qj6woi
+    verified: false
+    hashtags: "#skincaretips, #training, #lifestyle, #fashion"
   - username: "gabriela.pauluss"
     fullname: >-
       G A B R I E L A
@@ -43,88 +115,16 @@ profiles:
     id: ck137gvkibh340i19zc6gh4rd
     verified: false
     hashtags: "#gymaddicts, #squatspo, #gyminspiration, #itsmeagain"
-  - username: "radoslav_raychev"
+  - username: "london_fitness_guy"
     fullname: >-
-      Radoslav Raychev
+      James Stirling - HOME WORKOUTS 💪🏻
     bio: >-
-      📍London Fitness | Lifestyle | Travel @rawgear Athlete | Code: RADO
+      Get results with minimal equipment JOIN MY APP (7 DAY FREE TRIAL) 👇 Wellness Ambassador @technogym 📧 James@Londonfitnessguy.com
     location: "United Kingdom"
-    followers: 734414
-    engagement: 402
-    commentsToLikes: 0.009146
-    id: ck8td5prx1zrn0j78hkghnh6i
-    verified: false
-    hashtags: "#chest, #bodybuilding, #muscle, #legs"
-  - username: "wildswimgirls"
-    fullname: >-
-      Hen & Claudia
-    bio: >-
-      London friends English & Welsh Finding places to wild swim wherever possible. Total amateurs 😂
-    location: "United Kingdom"
-    followers: 7214
-    engagement: 1179
-    commentsToLikes: 0.072612
-    id: ck5zsaah7y43m0i14s4f2bvhd
-    verified: false
-    hashtags: "#lakeswimming, #london, #fitness, #mentalhealth"
-  - username: "nadine_stoly"
-    fullname: >-
-      Nadine Stolycia
-    bio: >-
-      Proper Yorkshire lass 💕
-    location: "United Kingdom"
-    followers: 4174
-    engagement: 1099
-    commentsToLikes: 0.124044
-    id: ckap4q5kw8dba0i78yb5s7c1j
-    verified: false
-    hashtags: "#bestoftheday, #natural, #curvy, #love"
-  - username: "markjh58"
-    fullname: >-
-      Mark H
-    bio: >-
-      • Irish living in London 🇮🇪 • 28 years old ✌🏼 • Scientist 👨🏻‍🔬 • PhD in Neuroscience/Cell Biology🔬
-    location: "United Kingdom"
-    followers: 45060
-    engagement: 1566
-    commentsToLikes: 0.017157
-    id: ck55kixqszeul0i11roeuup4k
-    verified: false
-    hashtags: "#scruffy, #beardedselfie, #photooftheday, #thebeardedway"
-  - username: "teylynnjones"
-    fullname: >-
-      'Teysty' Tey Lynn-Jones
-    bio: >-
-      🔹Professional Boxer 🥊 🔹Met Police👮🏼‍♂️ #ThinBlueLine 🔵⚫️🔵 ☕️ Code ‘TEY15’ —> @triple_9_coffee 🔹💪🏼🏃🏼‍♂️ #CrossFit #OCR #Running 🔸LondonMarathon2021 👀
-    location: "United Kingdom"
-    followers: 10319
-    engagement: 367
-    commentsToLikes: 0.112212
-    id: ckf5wvandtbow0j23wffln8ev
-    verified: false
-    hashtags: "#boxer, #boxingtraining, #fitcopsnation, #londonrunning"
-  - username: "shanazereade"
-    fullname: >-
-      Shanaze Reade
-    bio: >-
-      🇬🇧 2 x Olympic Athlete 🥇 7 x BMX & Track World Champion ✉️ Enquiries: Jim@offlimitsentertainment.com 🌈
-    location: "United Kingdom"
-    followers: 17723
-    engagement: 531
-    commentsToLikes: 0.026584
-    id: ck15rjg4m87vp0i19q00x9jzr
-    verified: false
-    hashtags: "#sunshine, #olympian, #strongnotskinny, #worldchampion"
-  - username: "hevwx"
-    fullname: >-
-      Heather Louise Walford
-    bio: >-
-      Nottingham, UK 🤍 living in Dubai Dancer, Fitness Coach & Massage Therapist.
-    location: "United Kingdom"
-    followers: 3214
-    engagement: 929
-    commentsToLikes: 0.066804
-    id: ck5zoc9roq8nd0i14bd13j3wk
-    verified: false
-    hashtags: "#motivation, #fitness, #onlinecoach, #london"
+    followers: 1070183
+    engagement: 59
+    commentsToLikes: 0.007771
+    id: ck5pwug4consb0i1103hgwqv3
+    verified: true
+    hashtags: "#homeworkout, #30minuteworkout, #runningcommunity, #absworkout"
 ---

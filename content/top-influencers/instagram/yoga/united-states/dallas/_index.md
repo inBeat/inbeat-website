@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Dallas In 2023
+title: Top 10 Yoga Instagram Influencers In Dallas In 2024
 description: >-
-  Find top yoga Instagram influencers in Dallas in 2023. Most popular hashtags: #yoga #dallas #fitness #flexibility.
+  Find top yoga Instagram influencers in Dallas in 2024. Most popular hashtags: #yoga #fitness #dallas #love.
 platform: Instagram
-hits: 26
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 26 Instagram influencers like this in Dallas, United States for you to contact.
+hits: 31
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 31 Instagram influencers like this in Dallas, United States for you to work with.
 profiles:
   - username: "britt.rainwater"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck602fajjha1v0i14kgdg3cnn
     verified: false
     hashtags: "#photography, #wardrobe, #mensfashion, #jewelry"
+  - username: "usernameconfidential_"
+    fullname: >-
+      To Whom اردو May Concern
+    bio: >-
+      𝐌𝐚𝐫𝐫𝐢𝐮𝐦 𝐒𝐨𝐡𝐚𝐢𝐥 SAT-HTX-DTX 🇺🇸 Work-Family-Travel 𝗛𝗮𝗿𝘃𝗮𝗿𝗱 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗦𝗰𝗵𝗼𝗼𝗹 Founder of 𝑴𝒂𝒓𝒓𝒊𝒖𝒎 𝑰𝒏𝒔𝒖𝒓𝒂𝒏𝒄𝒆
+    location: "United States"
+    followers: 37063
+    engagement: 472
+    commentsToLikes: 0.137887
+    id: ck9wghc9ltf2q0j78ujo36ost
+    verified: false
+    hashtags: "#lahore, #love, #sanantonio, #pakistani"
   - username: "clintewing"
     fullname: >-
       Clint Ewing
@@ -43,6 +55,18 @@ profiles:
     id: ck0udle9sjh1y0i19ed73z13r
     verified: true
     hashtags: "#motorsport, #wheelie, #fitnessmotivation, #motorcycle"
+  - username: "mindykimdaily"
+    fullname: >-
+      Mindy Kim
+    bio: >-
+      💫PCOS 🦋 Relatable wellness tips for women ✖ Create Daily habits ✖ Sustainable routines #TIUteam #thatdailyglow
+    location: "United States"
+    followers: 7463
+    engagement: 362
+    commentsToLikes: 0.130888
+    id: ck5q6ysajzbqi0i117c7kwr8b
+    verified: false
+    hashtags: "#workout, #tiuapp, #sundayfunday, #foodofinstagram"
   - username: "southern_belle_living"
     fullname: >-
       L A U R A  B E L L E
@@ -55,6 +79,18 @@ profiles:
     id: ck5c07swqslrq0i11shut3acb
     verified: false
     hashtags: "#love, #shopthemint, #blessed, #delsey"
+  - username: "sydney_sasfit"
+    fullname: >-
+      Sydney Spencer
+    bio: >-
+      24🇪🇸 | Dallas tx | UNT Alum B.A. @tlfapparel BA15SPENCER @getrawnutrition SASFIT @titan SAS Finance | Investments | Account management
+    location: "United States"
+    followers: 8964
+    engagement: 714
+    commentsToLikes: 0.039243
+    id: cl3cdng0742zt0i23dgyvzill
+    verified: false
+    hashtags: "#fitnessmotivation, #motivation, #follow, #gymlife"
   - username: "meredithmadden"
     fullname: >-
       Meredith
@@ -67,18 +103,6 @@ profiles:
     id: ck15s9piobwsh0i19wauok9a6
     verified: false
     hashtags: "#cowboysnation, #fathersday2020, #bestwerkoutever, #valentines"
-  - username: "tseguin92"
-    fullname: >-
-      Tyler Seguin
-    bio: >-
-      #91 Dallas Stars. Stanley Cup Champion. @tsnineone @gerrymarshallandcash @chewclub @skillyoga Contact @walts82 for business inquiries.
-    location: "United States"
-    followers: 605414
-    engagement: 847
-    commentsToLikes: 0.008517
-    id: ck0u2fqz9ztsg0i190n7py0fx
-    verified: true
-    hashtags: "#ultimaterivals, #itsanyonesgame, #applearcade, #ad"
   - username: "rachelmariethomas"
     fullname: >-
       Rachel Marie Thomas
@@ -103,28 +127,4 @@ profiles:
     id: ck6tih1ev0paa0j713dhil4f0
     verified: false
     hashtags: "#travelgram, #yogagirl, #lifestyleblogger, #confusedgirl"
-  - username: "stephanie_melton_yoga"
-    fullname: >-
-      Stephanie
-    bio: >-
-      Dallas Tx DM for Collabs Macrame By Me @macramelt_designs Discount Codes @facesoft_towels -Stephanie01 @sveltebelle -Stephanie @zadakahemp -Steph15
-    location: "United States"
-    followers: 4767
-    engagement: 400
-    commentsToLikes: 0.365765
-    id: ck8sw0tfcdets0j78106qlfnw
-    verified: false
-    hashtags: "#amateuryogi, #yogaandmugpics, #namastayincolor3, #flexibility"
-  - username: "nataliaavegaa"
-    fullname: >-
-      NATALIA VEGA
-    bio: >-
-      Vegan is the new black Ⓥ⠀ Me gusta tomar fotos 📸⠀ 📍Dallas, Texas 🍂
-    location: "United States"
-    followers: 6769
-    engagement: 662
-    commentsToLikes: 0.024373
-    id: ck6uc7xdae0hh0j71x8mgeequ
-    verified: false
-    hashtags: "#calm, #veganmiami, #keybiscane, #greennature"
 ---

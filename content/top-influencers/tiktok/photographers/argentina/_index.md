@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Argentina In 2023
+title: Top 10 Photographers TikTok Influencers In Argentina In 2024
 description: >-
-  Find top photographers TikTok influencers in Argentina in 2023. Most popular hashtags: #fyp #parati #photographer #argentina.
+  Find top photographers TikTok influencers in Argentina in 2024. Most popular hashtags: #fyp #parati #photographer #argentina.
 platform: TikTok
 hits: 12
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 12 TikTok influencers like this in Argentina for you to connect with.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 12 TikTok influencers like this in Argentina for you to collaborate.
 profiles:
   - username: "melercoli"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.014028
     id: cka6p5b7ei9jm0i781wfw7oq5
     verified: false
-    hashtags: "#photography101, #fyp, #photography, #qanda"
+    hashtags: "#photoshoot, #fyp, #argentina, #fotografia"
   - username: "matias.cagliolo"
     fullname: >-
       Matías Cagliolo
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.004169
     id: ck900ywywb3gg0j78woz212e7
     verified: false
-    hashtags: "#photochallenge, #hiperlapse, #verano, #parati"
+    hashtags: "#photographer, #playa, #verano, #football"
   - username: "sol.lovera"
     fullname: >-
       sol 📸

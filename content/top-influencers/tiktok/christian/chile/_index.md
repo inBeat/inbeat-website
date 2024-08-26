@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In Chile In 2023
+title: Top 10 Christian TikTok Influencers In Chile In 2024
 description: >-
-  Find top christian TikTok influencers in Chile in 2023. Most popular hashtags: #chile #fyp #parati #jesus.
+  Find top christian TikTok influencers in Chile in 2024. Most popular hashtags: #chile #fyp #parati #jesus.
 platform: TikTok
 hits: 16
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 16 TikTok influencers like this in Chile for you to work with.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 16 TikTok influencers like this in Chile for you to collaborate.
 profiles:
   - username: "thomasoporto"
     fullname: >-

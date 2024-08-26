@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Spain In 2023
+title: Top 10 Vegan Instagram Influencers In Spain In 2024
 description: >-
-  Find top vegan Instagram influencers in Spain in 2023. Most popular hashtags: #photography #veganfood #comunidadvegana.
+  Find top vegan Instagram influencers in Spain in 2024. Most popular hashtags: #recetasveganas #veganrecipes #recetasfaciles #vegan.
 platform: Instagram
-hits: 266
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 266 Instagram influencers like this in Spain for you to collaborate.
+hits: 301
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 301 Instagram influencers like this in Spain for you to pitch.
 profiles:
-  - username: "juanma_furio"
+  - username: "cristinaverdu"
     fullname: >-
-      Juan Ma Furio 💍 👩🏼‍🌾
+      Cristina Verdú 🌿 Travel / Vegan / Curly
     bio: >-
-      〰🐶🏄🏽‍♂️CO-FOUNDER www.lamardbien.com 🌱 Vegan-Athlete & 🌿Nature lover 🪨 Personal Trainer Coaching & Motivation 👧🏻Natura & 👶🏼 Delmar Daddy
+      🌍 Consciente, vegana, GoPro family 🌲 BCN. Ahora viajando por: Los Alpes 🦦 TikTok (340k), YT (110k) 🪶 cristinaverdu4@gmail.com @letsbeinfluenced
     location: "Spain"
-    followers: 280170
-    engagement: 168
-    commentsToLikes: 0.007518
-    id: ck0w05usiciz90i192n0xahx1
+    followers: 256016
+    engagement: 442
+    commentsToLikes: 0.081798
+    id: ck0vyye1i6e7a0i192o6je4dd
     verified: false
-    hashtags: "#bikers, #ridewear, #cicleapparel, #healthylife"
-  - username: "beatrizferrer.salat"
+    hashtags: "#trekking, #hiking, #camping, #andes"
+  - username: "bruno.leon_"
     fullname: >-
-      Beatriz Ferrer-Salat
+      Bruno León | Vegan LGTB
     bio: >-
-      🏅Medallista olimpica de Doma Clásica 🏆 Campeona de España 2021 🐴 Villa Equus 💚Vegan
+      Transgender Vegan Human
     location: "Spain"
-    followers: 22576
-    engagement: 1019
-    commentsToLikes: 0.013233
-    id: ck55jrbblxlp00i112danfdj1
+    followers: 89272
+    engagement: 783
+    commentsToLikes: 0.026428
+    id: ckw51folsigk40j23q2knwtqo
     verified: false
-    hashtags: "#domaclasica, #tokio2021, #dressagehorse, #dressagehorses"
-  - username: "mely_diaaz"
-    fullname: >-
-      ⭐️Melanie Diaz⭐️
-    bio: >-
-      🦋Puerto Rico•Table Tennis-National Team🦋 🏓PANAMERICAN GAMES Champions🥇24🤍 #TOKYO2021 BF•Marlon🦋Vegan 🦋 •JOOLA•Ciclón•Universal• Sustainable living 🍃
-    location: "Spain"
-    followers: 60891
-    engagement: 793
-    commentsToLikes: 0.012682
-    id: ck0vzpeb7a8nv0i19yeq5m0t4
-    verified: false
-    hashtags: "#tokio2021, #dreamscometrue, #bksshoes, #bksbabe"
-  - username: "andrea_m_m"
-    fullname: >-
-      A
-    bio: >-
-      📍 Barcelona 🌱 slow life | veganism | consciousness ▫️ collab - DM / mail
-    location: "Spain"
-    followers: 24435
-    engagement: 197
-    commentsToLikes: 0.171773
-    id: ck0vyy56q6cz10i197g6k1m7k
-    verified: false
-    hashtags: "#slowliving, #sustainablefashion, #vegan, #slowlife"
-  - username: "taniaarizayoga"
-    fullname: >-
-      𝑻𝒂𝒏𝒊𝒂 𝑨𝒓𝒊𝒛𝒂 ۵
-    bio: >-
-      𝑨É𝑹𝑬𝑶 𝒀𝑶𝑮𝑨 🕊 𝑻𝒆𝒂𝒄𝒉𝒆𝒓 — 𝐇𝐀𝐓𝐇𝐀 𝐘𝐎𝐆𝐀 — 🌿 𝔸𝕝𝕚𝕞𝕖𝕟𝕥𝕒𝕔𝕚ó𝕟 𝕊𝕒𝕝𝕦𝕕𝕒𝕓𝕝𝕖 @comecienciate ♥ Cosmética ecológica & vegana
-    location: "Spain"
-    followers: 11279
-    engagement: 204
-    commentsToLikes: 0.063164
-    id: ck0u0yz3cvdn20i19tzk2srgm
-    verified: false
-    hashtags: "#mybaby, #yogalovers, #blessed, #myeverything"
-  - username: "mariajett"
-    fullname: >-
-      🌼María Jett🐝
-    bio: >-
-      •Mi trabajo es un impulso de lo que me pasa•📸 Valencia 🌍 Vegan🌱 @chachivegan Sesiones ✉️ Mi libro de fotografía ya disponible en Amazon y librerías ⬇️
-    location: "Spain"
-    followers: 22527
-    engagement: 803
-    commentsToLikes: 0.012028
-    id: ck5qc1vbeogqw0i117ol9tvop
-    verified: false
-    hashtags: "#portraitsvision, #thefotografosinfluencers, #fotojett, #buildandbloom"
-  - username: "katrinamorenooficial"
-    fullname: >-
-      Katrina Moreno
-    bio: >-
-      #Artista #animalista #vegana 🇺🇾🇪🇸🍃Vive, disfruta y se feliz 💖♐️
-    location: "Spain"
-    followers: 462621
-    engagement: 419
-    commentsToLikes: 0.016930
-    id: ck5ztt7sl12xh0i14wvgwn71l
-    verified: false
-    hashtags: "#outfits, #redferrari, #estilismo, #photography"
+    hashtags: "#transgender, #lgtb, #ftm, #transexual"
   - username: "elveganomarrano"
     fullname: >-
-      Miquel Cuenca
+      Miquel Cuenca | Recetas veganas
     bio: >-
-      🍜 Recetas veganas y marranas 🌱 100% Plantbased 📩elveganomarrano@gmail.com
+      🐷 soy el marrano 🍕 hago cosas veganas 🍰 no se hacer postres 📩 colaboracioneselveganomarrano@gmail.com
     location: "Spain"
-    followers: 46168
-    engagement: 620
-    commentsToLikes: 0.049852
+    followers: 84448
+    engagement: 468
+    commentsToLikes: 0.042124
     id: ckf5krx7nn23n0j235290bkeu
     verified: false
-    hashtags: "#veganmeals, #bestofvegan, #plantbased, #saludable"
-  - username: "toni.figueroa"
+    hashtags: "#veganrecipes, #veganfood, #recetasfaciles, #saludable"
+  - username: "veganiacos"
     fullname: >-
-      Toni Figueroa 🇪🇦
+      Tono 🌱 Recetas veganas
     bio: >-
-      Maduro fit 47 años, vegano imperfecto, y en forma. Colaboramos?? 📩 DM
+      💚 Cocina fácil, saludable y deliciosa 🏳️‍🌈 Rainbow food 📩 veganiacos@gmail.com
     location: "Spain"
-    followers: 36517
-    engagement: 501
-    commentsToLikes: 0.024260
-    id: ckap5tua1d50i0i78bzfiy9r7
+    followers: 83418
+    engagement: 665
+    commentsToLikes: 0.066376
+    id: closq41ksnhi60j082upbw0ms
     verified: false
-    hashtags: "#styleman, #helathyman, #beautymature, #fitness"
-  - username: "ddaida_"
+    hashtags: "#desayunosaludable, #cocinasaludable, #recetassingluten, #comesano"
+  - username: "lapastanoengorda"
     fullname: >-
-      ENTER THE VO11D || ダイダ
+      👓 Cristian Alonso
     bio: >-
-      🇪🇸 Street Style // Vegan // Blogger GRAPHIC DESIGNER @once.41 👩🏼‍🍳 @aboutlovefood 🌱@_impulsas 📍. YouTube | Enterthevo11d
+      🔥 Me llamo Cristian, no pasta 🦕 Tu vegan de confianza 👏🏻 Recetas para torpes&vagas 🕶 Esteta que diseña cosas 👌 Tips para ecomamarrachas
     location: "Spain"
-    followers: 13749
-    engagement: 475
-    commentsToLikes: 0.022430
-    id: ck55ku97w03yq0i11ziwzx1p5
+    followers: 107331
+    engagement: 290
+    commentsToLikes: 0.030231
+    id: ck13a84n2p3gg0i19akpz9sur
     verified: false
-    hashtags: "#streetwear, #analog, #streetphotography, #thinkverylittle"
+    hashtags: "#slowfashion, #fitoterapia, #cosmeticanatural, #aloevera"
+  - username: "lisetteoropesa"
+    fullname: >-
+      Lisette Oropesa
+    bio: >-
+      Operatic soprano 🎶 - vegan 🍎- runner 🏃- yogi 🙏 Schedule here ⬇️
+    location: "Spain"
+    followers: 120039
+    engagement: 268
+    commentsToLikes: 0.023185
+    id: ck139d3qxkpr80i19u7fa7rbw
+    verified: true
+    hashtags: "#gounod, #lisetteoropesa, #opera, #savonlinna"
+  - username: "pepebarrososilva"
+    fullname: >-
+      Pepe Barroso Silva
+    bio: >-
+      🇪🇸 info@cristinachaparro.es @veganis.eu
+    location: "Spain"
+    followers: 355582
+    engagement: 177
+    commentsToLikes: 0.008742
+    id: ck5zm0pp5lp7m0i14msds8whh
+    verified: true
+    hashtags: "#thoseabouttodie, #granturismomovie, #gastronom, #shiseidomen"
+  - username: "patrimediolimon"
+    fullname: >-
+      @patrimediolimon
+    bio: >-
+      🌱Recetas veganas fáciles y rápidas🌱 📧hola@mediolimon.org
+    location: "Spain"
+    followers: 117204
+    engagement: 150
+    commentsToLikes: 0.174365
+    id: ck5qby0a7nxgs0i11nzrcanbd
+    verified: false
+    hashtags: "#veganrecipes, #plantbasedfood, #plantbaseddiet, #vegansofinstagram"
+  - username: "paulagureta"
+    fullname: >-
+      H̶A̶C̶H̶I̶
+    bio: >-
+      ๖ۣۜalea iacta est༻࿌𖣘 @unomodels Vegan 🌱 Animal Lover —- 3D video game character student at @tokioschool
+    location: "Spain"
+    followers: 71209
+    engagement: 250
+    commentsToLikes: 0.008227
+    id: ck55kt8k701r90i11qb8166ga
+    verified: false
+    hashtags: "#batistelover, #thatslife, #batista, #champ"
+  - username: "claralago1"
+    fullname: >-
+      claralago1
+    bio: >-
+      Actriz, pisciana, vegana y adicta a “Friends”. Cofundadora de @fundacionochotumbao y @lahuertafunkycastizo 😊💚🌍
+    location: "Spain"
+    followers: 874018
+    engagement: 134
+    commentsToLikes: 0.011415
+    id: ck14ixcwshl530i19thj457f4
+    verified: true
+    hashtags: "#goya2023, #serpenti75, #premiosgoya, #sectadelallave"
 ---

@@ -1,36 +1,36 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Belgium In 2023
+title: Top 10 Lingerie Instagram Influencers In Belgium In 2024
 description: >-
-  Find top lingerie Instagram influencers in Belgium in 2023. Most popular hashtags: #lingerie #model #photography #girl.
+  Find top lingerie Instagram influencers in Belgium in 2024. Most popular hashtags: #model #fashion #girl #belgium.
 platform: Instagram
-hits: 12
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat holds 12 Instagram influencers like this in Belgium for you to connect with.
+hits: 15
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 15 Instagram influencers like this in Belgium for you to work with.
 profiles:
-  - username: "statiana.model"
+  - username: "katinkakempeneers"
     fullname: >-
-      Tatiana🎀
+      Model | Katinka Kempeneers🌺
     bio: >-
-      🇧🇪 Belgian Model 📸 Portrait / Beauty / Lingerie / Lifestyle 📩 statiana.model@gmail.com 🎓 Luxury beauty advisor 🎂 23 Years 📍 Brussels
+      ♡Content Creator|Freelance Model 📩 Inspo ♡ Lifestyle x Travel x Fashion x Animals 🌸TIKTOK 11K @leolive Katinka10 Portfolio📸👇🏻
     location: "Belgium"
-    followers: 46012
-    engagement: 682
-    commentsToLikes: 0.041315
-    id: ck8sxaggdgot90j78p5x5ww8u
+    followers: 18024
+    engagement: 293
+    commentsToLikes: 0.205117
+    id: ck8t42efv59gc0j78s8ent8a2
     verified: false
-    hashtags: "#sun, #sexy, #peach, #tuesday"
-  - username: "laura.oliveiragranja"
+    hashtags: "#magazine, #city, #christmas, #photo"
+  - username: "sophisticatedbox"
     fullname: >-
-      𝐿𝑎𝑢𝑟𝑎 𝑂𝑙𝑖𝑣𝑒𝑖𝑟𝑎 𝐺𝑟𝑎𝑛𝑗𝑎
+      Sophie Van de Vyver
     bio: >-
-      Freelance Model ∣ Content Creator ♊️ Gemini @gofitwithlaura @qntsportnutrition 20 % off | CREWLAURA 𝗠𝗶𝘀𝘀 𝗦𝗽𝗼𝗿𝘁 2019 𝗦𝗵𝗼𝗽𝗽𝗶𝗻𝗴 𝗤𝘂𝗲𝗲𝗻𝘀 2018
+      𝔻𝕒𝕣𝕖 𝕥𝕠 𝕓𝕖 𝕤𝕠𝕡𝕙𝕚𝕤𝕥𝕚𝕔𝕒𝕥𝕖𝕕 ℙ𝕖𝕣𝕤𝕠𝕟𝕒𝕝 𝕤𝕥𝕪𝕝𝕚𝕤𝕥🇧🇪 - 𝔽𝕒𝕤𝕙𝕚𝕠𝕟 𝕚𝕟𝕗𝕝𝕦𝕖𝕟𝕔𝕖𝕣 💃🏼 𝟝𝟘+ 𝕝𝕚𝕗𝕖𝕤𝕥𝕪𝕝𝕖 𝕣𝕠𝕝𝕖 𝕞𝕠𝕕𝕖𝕝 - 𝕋𝕣𝕒𝕧𝕖𝕝 🌎 𝕚𝕟 𝕤𝕥𝕪𝕝𝕖 Founder @shopsophisticatedbox
     location: "Belgium"
-    followers: 18602
-    engagement: 420
-    commentsToLikes: 0.054751
-    id: ck6txv5tn019a0j71dktpndhx
+    followers: 342506
+    engagement: 61
+    commentsToLikes: 0.009375
+    id: ck5hr0zy6u2qj0i11k88ura1p
     verified: false
-    hashtags: "#pinkoofficial, #styleblogger, #outfitinspiration, #ysl"
+    hashtags: "#mayerlinebrussels, #grwmoutfit, #dameskleding, #fashionstylistlife"
   - username: "philien_verhofstadt"
     fullname: >-
       Philien
@@ -43,42 +43,66 @@ profiles:
     id: ckap0obpzr63f0i784s6w21rr
     verified: false
     hashtags: "#blondie, #carmodel, #belgiumsbestmodels, #happy"
-  - username: "re.becc.a"
+  - username: "joli_laur"
     fullname: >-
-      REBECCA DE WEERDT  🤍
+      Laurette Jolivot
     bio: >-
-      Belgium | Fashion & lifestyle Bookings & social media inquiries - mail me ✉️ rebeccadw@skynet.be BE 0787.592.191
+      BEAUTY - FASHION - TRAVEL & GOOD VIBES🤍 Belgique | Maroc | France Contact: jolivot.laurette@gmail.com
     location: "Belgium"
-    followers: 11026
-    engagement: 1129
-    commentsToLikes: 0.392103
-    id: ck9haydsnekwm0j783ghxdhlu
+    followers: 15344
+    engagement: 1070
+    commentsToLikes: 0.013085
+    id: cl9xi5woxo4bw0i23y4j9sls3
     verified: false
-    hashtags: "#discoverunder10k, #ootdfashion, #instaootd, #summeraesthetic"
+    hashtags: "#maison123, #summer, #smallluxuryhotels, #thedominican"
+  - username: "laura.oliveiragranja"
+    fullname: >-
+      𝐿𝑎𝑢𝑟𝑎 𝑂𝑙𝑖𝑣𝑒𝑖𝑟𝑎 𝐺𝑟𝑎𝑛𝑗𝑎
+    bio: >-
+      Freelance Model | Fashion & Lifestyle Blogger | Personal Trainer @gofitwithlaura
+    location: "Belgium"
+    followers: 18411
+    engagement: 345
+    commentsToLikes: 0.042292
+    id: ck6txv5tn019a0j71dktpndhx
+    verified: false
+    hashtags: "#outfitinspiration, #hkmambassador, #ootn, #blogger"
+  - username: "itisjessie.v"
+    fullname: >-
+      Jessie V
+    bio: >-
+      ~ Enjoy the little things in life ~ Belgium • 26 • Running • Walking • fashion • Traveling Stella 🐶
+    location: "Belgium"
+    followers: 54495
+    engagement: 340
+    commentsToLikes: 0.018298
+    id: cky72qai4js6z0j233b2yalcs
+    verified: false
+    hashtags: "#bikinigirl, #christmas, #bikinibody, #beaglesofinstagram"
+  - username: "ronpaologilman"
+    fullname: >-
+      Ron Paolo Gilman
+    bio: >-
+      The right muse will inspire truths over imagination❣️ Art beauty photographer Be respectful to the muses Canon Belgium Explorer 📸
+    location: "Belgium"
+    followers: 57131
+    engagement: 169
+    commentsToLikes: 0.020278
+    id: ck5zwln7e6c940i14ea8speou
+    verified: false
+    hashtags: "#bnwphotography, #belgianbeauty, #love, #muse"
   - username: "julesstagrm"
     fullname: >-
       Julie Boone
     bio: >-
-      ☁️Freelance model | Content creator 🕊Founder @bsocialsolutions ✉️Collabs and bookings » e-mail 🤍If u like wine we could be friends | G ♥
+      ☁️Freelance model | Content creator 🤍Manager @gentclinicbelgium 🕊 Web development @bsocialsolutions
     location: "Belgium"
-    followers: 31111
-    engagement: 170
-    commentsToLikes: 0.073583
+    followers: 63824
+    engagement: 131
+    commentsToLikes: 0.046376
     id: ck55lnc8v1zee0i11yg5l23fc
     verified: false
-    hashtags: "#outfit, #throwback, #introfashion, #belgium"
-  - username: "ronpaologilman"
-    fullname: >-
-      Ron Gilman
-    bio: >-
-      Published male Photographer/Antwerp based🇧🇪Canon Explorer. Hope you enjoy my work and passion for beauty. Please be respectful to the muses.
-    location: "Belgium"
-    followers: 29273
-    engagement: 268
-    commentsToLikes: 0.021728
-    id: ck5zwln7e6c940i14ea8speou
-    verified: false
-    hashtags: "#muse, #blackandwhitephotography, #friendshipgoals, #liveforthestory"
+    hashtags: "#holiday, #spring, #party, #style"
   - username: "cleodockx"
     fullname: >-
       Cleo Dockx
@@ -102,29 +126,5 @@ profiles:
     commentsToLikes: 0.182215
     id: ck0vvf3s5ouu00i19aeaq98gh
     verified: false
-    hashtags: "#vlaamseblogger, #bunintheoven, #firstborn, #preggobelly"
-  - username: "stevenwolles_photography"
-    fullname: >-
-      Steven Wolles
-    bio: >-
-      International photographer 📷 Playboy - FHM - Clint 📖 Vegetarian 🌱 Based in Antwerp 🏠 Contact me for business inquiries✌ Patreon link on website
-    location: "Belgium"
-    followers: 91368
-    engagement: 171
-    commentsToLikes: 0.012295
-    id: ck8tb1fh5tyc90j78lgxk3of9
-    verified: false
-    hashtags: "#photoshoot, #photographerbelgium, #antwerpen, #photographie"
-  - username: "peter_photofitz"
-    fullname: >-
-      Peter Fitzsimons
-    bio: >-
-      IRISH PHOTOGRAPHER #peter_photofitz CANON 6D MARK II 🇮🇪 🇪🇸 🇩🇪 🇧🇪 🇸🇪 🇩🇰 🇳🇱 🇮🇹 🇫🇷 🇨🇦 🇪🇺 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇨🇿 🇮🇨 🇲🇹
-    location: "Belgium"
-    followers: 4046
-    engagement: 812
-    commentsToLikes: 0.100128
-    id: ck5zodu0oqc6i0i145s4qf1sw
-    verified: false
-    hashtags: "#canon, #discoverireland, #failteireland, #snowscape"
+    hashtags: "#newbornphoto, #pregnantbelly, #babyspam, #firstborn"
 ---

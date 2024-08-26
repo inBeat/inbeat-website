@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bodyboard TikTok Influencers In 2023
+title: Top 10 Bodyboard TikTok Influencers In 2024
 description: >-
-  Find top bodyboard TikTok influencers in 2023. Most popular hashtags: #surf #surfing #fyp #beach.
+  Find top bodyboard TikTok influencers in 2024. Most popular hashtags: #surf #surfing #fyp #bodyboard.
 platform: TikTok
 hits: 7
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 7 TikTok influencers like this for you to contact.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 7 TikTok influencers like this for you to work with.
 profiles:
   - username: "kifflab"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.009091
     id: ck977bh5c3k320j78zg4f6t2f
     verified: false
-    hashtags: "#fingerboard, #river, #riverwave, #surfing"
+    hashtags: "#fingerboard, #surfing, #river, #riverwave"
   - username: "lucasfinkrj"
     fullname: >-
       lucasfinkrj

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In South Africa In 2023
+title: Top 10 Fitness TikTok Influencers In South Africa In 2024
 description: >-
-  Find top fitness TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #fitness #foryoupage #tiktoksouthafrica.
+  Find top fitness TikTok influencers in South Africa in 2024. Most popular hashtags: #fyp #fitness #tiktoksouthafrica #foryoupage.
 platform: TikTok
 hits: 43
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 43 TikTok influencers like this in South Africa for you to collaborate.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database has 43 TikTok influencers like this in South Africa for you to pitch.
 profiles:
   - username: "stellaboo_xoxo"
     fullname: >-

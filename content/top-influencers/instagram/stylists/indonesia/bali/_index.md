@@ -1,24 +1,48 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Bali In 2023
+title: Top 10 Stylists Instagram Influencers In Bali In 2024
 description: >-
-  Find top stylists Instagram influencers in Bali in 2023. Most popular hashtags: #ootd #outfitinspiration #fashion #bali.
+  Find top stylists Instagram influencers in Bali in 2024. Most popular hashtags: #ootd #bali #fashiongram #fashionblogger.
 platform: Instagram
-hits: 9
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 9 Instagram influencers like this in Bali, Indonesia for you to collaborate.
+hits: 8
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 8 Instagram influencers like this in Bali, Indonesia for you to work with.
 profiles:
   - username: "marionmax_stylist"
     fullname: >-
       Marion Max
     bio: >-
-      Personal IG @marionmax_smiles All photos styled by me! Producer & stylist at @baliprod.agency @balishoot_by_baliprod
+      Bali Based Producer and Stylist! All photos styled by me! Producer & stylist at @baliprodfilms @balishoot_by_baliprod
     location: "Indonesia"
-    followers: 8689
-    engagement: 323
-    commentsToLikes: 0.013179
+    followers: 7944
+    engagement: 215
+    commentsToLikes: 0.015545
     id: ck15r7iv96j6r0i19ou38msbe
     verified: false
-    hashtags: "#baliproduction, #baliphotoshoot, #balishoot, #baliphotography"
+    hashtags: "#balifashion, #baliphotography, #baliphotoshoot, #baliproduction"
+  - username: "oliastepanenco"
+    fullname: >-
+      Olia Stepanenco
+    bio: >-
+      📍 𓆙 BALI 𓆸 5 YEARS 𓉠 MOTHER OF👉@style_retreat_bali_shop ____________ BEFORE: ⓈⓉⓎⓁⒾⓈⓉ ⓉⓋ ⓅⓇⒺⓈⒺⓃⓉⒺⓇ ⓅⒺⓇⓈⓄⓃⒶⓁ ⓈⒽⓄⓅⓅⒺⓇ
+    location: "Indonesia"
+    followers: 31233
+    engagement: 131
+    commentsToLikes: 0.034402
+    id: ck6tv2kzujtba0j71qzwqcl2v
+    verified: false
+    hashtags: ""
+  - username: "genunerd"
+    fullname: >-
+      W I S N U  G E N U
+    bio: >-
+      My Androgynous Quirky Rebellious Chic Visual Diary ★ Fashion & Lifestyle - Creative Director/ Stylist VIVA LA TAUREAN! ♉ 📩 contactgenu@gmail.com
+    location: "Indonesia"
+    followers: 40130
+    engagement: 57
+    commentsToLikes: 0.005937
+    id: ck139fhrjl1hk0i197v73j2xs
+    verified: false
+    hashtags: "#lacingmykite, #reels, #bali, #ootd"
   - username: "rifabimbi"
     fullname: >-
       BIM
@@ -31,18 +55,6 @@ profiles:
     id: ck0u0vyxov0dn0i19u9jnsp4s
     verified: false
     hashtags: "#balinese, #photoshoot, #bali, #lifestyle"
-  - username: "steffisanta"
-    fullname: >-
-      Steffi Santa
-    bio: >-
-      🐿 Fashion Stylist @steffisantaswork / TikTok/Reels Producer (porto di IG highlight) Endorsement: 0878-8369-5662 (Cindy) 💌 steffisantas@gmail.com
-    location: "Indonesia"
-    followers: 13636
-    engagement: 327
-    commentsToLikes: 0.029745
-    id: ck8sx7vvzggci0j78zgcb3gwn
-    verified: false
-    hashtags: "#ootd, #outfits, #outfitinspo, #ootdindo"
   - username: "itsswetab"
     fullname: >-
       𝓢𝔀𝓮𝓽𝓪 ♥ 𝓽𝓻𝓪𝓿𝓮𝓵 & 𝓼𝓽𝔂𝓵𝓮
@@ -55,42 +67,18 @@ profiles:
     id: ckaortlyioozg0i78yi090a03
     verified: false
     hashtags: "#outfitinspo, #influencer, #dubai, #indianfashion"
-  - username: "gekanikesnawa_"
+  - username: "havenl33"
     fullname: >-
-      m s.   G E K✨
+      Drg. Indira W. Lee, Sp.Prostho
     bio: >-
-      “a dreamer with a million symphony in her mind”
+      Mom of 2 & Wifey💍 Dentistpreneur Health & Beauty 📍Malang @dreamteam_quiaripartners Shop @heavenlee_shop Gym #heavenleeworkout 📩DM for endorsement
     location: "Indonesia"
-    followers: 3254
-    engagement: 1462
-    commentsToLikes: 0.035450
-    id: ck13cx75w2ltp0i19otxp81hs
+    followers: 30239
+    engagement: 233
+    commentsToLikes: 0.075482
+    id: ck5hpr18rrtrv0i11e8n62faa
     verified: false
-    hashtags: "#bali, #baliisland, #kintamani, #balitravel"
-  - username: "alfonzheng"
-    fullname: >-
-      Alfon Zheng アルフォン
-    bio: >-
-      📷 🎥 @alfonphotographie & @kalyanastudio 🎹 🎼 Song Writer, Pianist, Composer 📩 DM or email for business! #jakarta #jambi ⬇️ DHAMMA WAY - Official MV
-    location: "Indonesia"
-    followers: 7505
-    engagement: 1090
-    commentsToLikes: 0.054675
-    id: ck9whb0ajx3m10j78zg0ij2qr
-    verified: false
-    hashtags: "#qotd, #muscle, #studio, #flash"
-  - username: "gracewohangara"
-    fullname: >-
-      Grace Wohangara
-    bio: >-
-      •NOTHING WITHOUT GOD• 👑 7ICONS 👑 Business inquiry : 0813-8944-5463 (Manager) Purchase our Beauty product @iconskin.id
-    location: "Indonesia"
-    followers: 46626
-    engagement: 109
-    commentsToLikes: 0.082197
-    id: ck9wd3k33dww60j78cnsgmkft
-    verified: false
-    hashtags: "#casual, #grace7icons, #fashionblogger, #model"
+    hashtags: "#chic, #lifestyle, #styles, #fashion"
   - username: "roger_chika"
     fullname: >-
       Roger❤️Chika
@@ -115,16 +103,28 @@ profiles:
     id: ckaowht088zxy0i78vlif6o57
     verified: false
     hashtags: "#l4likes, #styleinspo, #lll, #styleinfluencer"
+  - username: "prilianurafrida"
+    fullname: >-
+      PRILI
+    bio: >-
+      Hijab stylist @byprilianurafrida Live streamer🎤📹📸 For business or endorsement (+62) 81381012802 Promocode Lighthouse👇
+    location: "Indonesia"
+    followers: 96093
+    engagement: 183
+    commentsToLikes: 0.048504
+    id: ck5hprqnorv170i11nyus78jf
+    verified: false
+    hashtags: "#jimshoneyhampers, #jhramadhan, #jhidulfitri, #covid19"
   - username: "steffisanta"
     fullname: >-
       Steffi Santa
     bio: >-
       🐿 Fashion Stylist @steffisantaswork / TikTok/Reels Producer (porto di IG highlight) Endorsement: 0878-8369-5662 (Cindy) 💌 steffisantas@gmail.com
     location: "Indonesia"
-    followers: 13636
-    engagement: 327
-    commentsToLikes: 0.029745
+    followers: 15124
+    engagement: 147
+    commentsToLikes: 0.030281
     id: ck8sx7vvzggci0j78zgcb3gwn
     verified: false
-    hashtags: "#ootd, #outfits, #outfitinspo, #ootdindo"
+    hashtags: "#rodatronton, #ootd, #jfw2024, #lokalbrand"
 ---

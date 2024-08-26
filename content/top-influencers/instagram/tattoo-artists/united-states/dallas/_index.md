@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Dallas In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Dallas In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Dallas in 2023. Most popular hashtags: #tattoo #tattoos #tattooartist #dallastattooartist.
+  Find top tattoo-artists Instagram influencers in Dallas in 2024. Most popular hashtags: #tattooartist #tattoo #tattoos #dallastattooartist.
 platform: Instagram
-hits: 29
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 29 Instagram influencers like this in Dallas, United States for you to collaborate.
+hits: 31
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 31 Instagram influencers like this in Dallas, United States for you to pitch.
 profiles:
   - username: "chasenashh"
     fullname: >-
@@ -19,30 +19,6 @@ profiles:
     id: ck5hi1rs8b7dn0i11ukia8ect
     verified: false
     hashtags: "#art, #tattooed, #tattooartist, #tattoo"
-  - username: "mike_cruz87"
-    fullname: >-
-      ⚜️MIKE CRUZ⚜️
-    bio: >-
-      ⚜️God first⚜️ Family🙏🏻Tattooing✍🏼 🌎 College Station TX ‼️BOOKS OPEN‼️‼️
-    location: "United States"
-    followers: 170920
-    engagement: 180
-    commentsToLikes: 0.014389
-    id: ck6tk4qka404g0j71cakmrs4c
-    verified: false
-    hashtags: "#ink, #htown, #tatts, #tattoosofinstagram"
-  - username: "inkbypnut"
-    fullname: >-
-      🍄1UP🍄
-    bio: >-
-      Anime Ink God Owner of @1upink_tattoostudio & @1up_eats For booking ⛩9725766442⛩ (Business & Tattoo tips) 👇🏿 Www.onlyfans.com/inkbypnut
-    location: "United States"
-    followers: 126858
-    engagement: 119
-    commentsToLikes: 0.030077
-    id: ck6tnibnn9wgs0j71ga5lg989
-    verified: false
-    hashtags: "#anime, #inkbypnut, #nerd, #blerd"
   - username: "lizcooktattoo"
     fullname: >-
       Liz Cook
@@ -67,6 +43,18 @@ profiles:
     id: ck5cjy7tivqhq0i11jizabl23
     verified: false
     hashtags: "#assasintattoo, #eyetattoo, #texastattooartist, #angeltattoo"
+  - username: "inkbypnut"
+    fullname: >-
+      ⛩Sensei⛩ The Anime Godfather
+    bio: >-
+      Sponsor 👇🏿 @fytsuppliesusa_ 📍DALLAS +📍 LA+ ATL 🍄Owner of @1upink_tattoostudio and @1upinkwest
+    location: "United States"
+    followers: 160639
+    engagement: 707
+    commentsToLikes: 0.023730
+    id: ck6tnibnn9wgs0j71ga5lg989
+    verified: false
+    hashtags: "#naruto, #1upink, #losangelestattooartist, #anime"
   - username: "lot_lizard"
     fullname: >-
       lot_lizard
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.052348
     id: ck5c1253zub4g0i1106kl3yyo
     verified: false
-    hashtags: "#tatted, #industryinks, #art, #blackartistry101"
+    hashtags: "#dctattoos, #skin, #miami, #tattoos"
   - username: "vaultt_tec"
     fullname: >-
       Dallas
@@ -127,4 +115,16 @@ profiles:
     id: ck6ug9dap1okp0j71r14uvxb1
     verified: false
     hashtags: "#tattoos, #enamelpins, #enamelpin, #fnv"
+  - username: "melektastekin_tattooer"
+    fullname: >-
+      MELEK TASTEKIN
+    bio: >-
+      Tattoo Artist-Painter 🇺🇸 Proteam @cheyenne_tattooequipment @worldfamousink @hustlebutterdeluxe @holderink I ❤️ NEON
+    location: "United States"
+    followers: 177619
+    engagement: 140
+    commentsToLikes: 0.015192
+    id: ck14jj3xkkm3x0i197nq1p94u
+    verified: false
+    hashtags: "#melektastekin, #portraittattoo, #colortattoo, #tattoo"
 ---

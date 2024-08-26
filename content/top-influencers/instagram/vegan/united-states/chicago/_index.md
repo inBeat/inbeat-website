@@ -1,24 +1,48 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Chicago In 2023
+title: Top 10 Vegan Instagram Influencers In Chicago In 2024
 description: >-
-  Find top vegan Instagram influencers in Chicago in 2023. Most popular hashtags: #chicago #vegan #chicagofood.
+  Find top vegan Instagram influencers in Chicago in 2024. Most popular hashtags: #vegan #chicago #selflove.
 platform: Instagram
-hits: 67
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our platform holds 67 Instagram influencers like this in Chicago, United States for you to connect with.
+hits: 81
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 81 Instagram influencers like this in Chicago, United States for you to collaborate.
 profiles:
-  - username: "courtneytheexplorer"
+  - username: "gabriella.metz"
     fullname: >-
-      Courtney | LGBTQ+ Travel
+      GABBIE/GAB
     bio: >-
-      ✈️ explore the world + live fully 🏳️‍🌈 🎒7 years a nomad 🌱 vegan-ish 📍Egypt 🇪🇬 💌 hello@courtneytheexplorer.com ↓ Travel Blog + YouTube channel ↓
+      all parts of life! health, positivity, & wellness @gabbiemetz / chicago, il 😇 codes in my highlights
     location: "United States"
-    followers: 5111
-    engagement: 630
-    commentsToLikes: 0.111844
-    id: ck8t1anriv1fk0j782gwqp1sc
+    followers: 3879
+    engagement: 2185
+    commentsToLikes: 0.100068
+    id: cl0cxtllfg89z0i236tu2dwcl
     verified: false
-    hashtags: "#lesbiantravel, #chicagoexplore, #egypttravel, #cairoegypt"
+    hashtags: "#wellness, #deats, #whatieatinaday, #healthyfood"
+  - username: "plantbasedtamika"
+    fullname: >-
+      Tamika Price | Vegan Content Creator + Blogger
+    bio: >-
+      Sharing all the tantalizing vegan eats🌱 My Mommy’s Caregiver💗 | @shopstandout Owner👗 📍: Chicago | 📧 : info@plantbasedtamika.com Join my newsletter👇🏽
+    location: "United States"
+    followers: 131129
+    engagement: 21
+    commentsToLikes: 0.047230
+    id: ckqeiuyymms2r0j230xe4skhb
+    verified: false
+    hashtags: "#chicagovegans, #veganfoodblogger, #chitownvegan, #chicagofoodie"
+  - username: "justynajarmula"
+    fullname: >-
+      Justyna
+    bio: >-
+      📍 Chicago Life+style
+    location: "United States"
+    followers: 57429
+    engagement: 105
+    commentsToLikes: 0.051136
+    id: ck15tvg9yk3rq0i19xls0h3ea
+    verified: false
+    hashtags: "#avocadolover, #plantbased, #balayage, #juicerxchicago"
   - username: "lena_and_zena_world"
     fullname: >-
       Lena & Zena  🇺🇸🇮🇶
@@ -31,6 +55,18 @@ profiles:
     id: ck600vdb1ecdg0i1437z8xyry
     verified: false
     hashtags: "#octolyfamily, #onegiamfamcom, #lipstick, #beautypage"
+  - username: "movementbymk"
+    fullname: >-
+      MaryKate Schmidt
+    bio: >-
+      Movement. Mindset. Mindfulness. All inside the Movement by MK App 💪🏽 Start your free trial ⬇️ Based in AZ 🌵but training you anytime, anywhere ⚡️
+    location: "United States"
+    followers: 35389
+    engagement: 66
+    commentsToLikes: 0.146147
+    id: ck13540i8zlbz0i193p75d6yz
+    verified: false
+    hashtags: "#movementismedicine, #proteinpacked, #healthyeatingideas, #fullbodyworkouts"
   - username: "mariannevuk"
     fullname: >-
       maybe: marianne
@@ -43,18 +79,6 @@ profiles:
     id: ckap7wcmulup10i78la0ds9ux
     verified: false
     hashtags: "#halloweenmakeup, #ahs, #hi, #tvd"
-  - username: "mr.sir_wes"
-    fullname: >-
-      Wes Patterson
-    bio: >-
-      Lost Over 100Lbs CHICAGO Vegan 🌱 Online Coaching👈🏾 CEO @quick_fitness_llc Bookings/Collab Email👈🏾 @flowsportstech Athlete: Wes25👈🏾
-    location: "United States"
-    followers: 67582
-    engagement: 154
-    commentsToLikes: 0.082426
-    id: ckap8vwfyq4kk0i78i0dhtydx
-    verified: false
-    hashtags: ""
   - username: "film_krue"
     fullname: >-
       Krue Monroe
@@ -67,18 +91,6 @@ profiles:
     id: ck5zr3kb3vtvy0i14p7gqqgmq
     verified: false
     hashtags: "#chicagofilmmaker, #guyswithtattoos, #chicagofilm, #chicagovlogger"
-  - username: "kimlycurry"
-    fullname: >-
-      Lil Miss Foodie
-    bio: >-
-      We love you #scotchtrooper 🖤 Mpls, MN. I'm food-obsessed and I love to eat and travel. @zagat Top 100 Food IGers in the U.S. #lilmissfoodie
-    location: "United States"
-    followers: 51106
-    engagement: 203
-    commentsToLikes: 0.176718
-    id: ck0w09amrd1c40i19hfr90zon
-    verified: false
-    hashtags: "#stpaul, #comfortfood, #tastingtable, #nevada"
   - username: "kyliedennison"
     fullname: >-
       K Y L I E •🦄✨
@@ -91,40 +103,28 @@ profiles:
     id: ck5pwdjtzmbjy0i11nizuw21w
     verified: false
     hashtags: "#intercontinentallife, #experienceihg"
-  - username: "ponylawson"
+  - username: "monstruitomom"
     fullname: >-
-      ✶ 𝐏𝐎𝐍𝐘 𝐋𝐀𝐖𝐒𝐎𝐍 ✶
+      Michelle Stephen 🇲🇽 Chicago mom | se habla español
     bio: >-
-      Respect & Humility Chicago - NYC - LA Vegan for the animals @tattoostencilapp FOR BOOKING:
+      con limón, please Mexican🌵 Mamá de dos 👦🏻🧒🏻 Married to @dadbreaded 🧔🏻 @ICPcare & @chicagopubliclibrary volunteer 💌monstruitomom@gmail.com 📍Chicago
     location: "United States"
-    followers: 127790
-    engagement: 371
-    commentsToLikes: 0.014402
-    id: ck0w1fz95j5jg0i19l132teb6
+    followers: 96417
+    engagement: 103
+    commentsToLikes: 0.136914
+    id: ckt0zywa9twj30j236wuzxwhi
     verified: false
-    hashtags: ""
-  - username: "gabbiechicago"
+    hashtags: "#chicagofamily, #comidamexicana, #chicagomom, #conlim"
+  - username: "sany.delight"
     fullname: >-
-      Gabriella Lenzi Littleton
+      Sany Nguyễn, Esq. | Food Movement Lifestyle Travel
     bio: >-
-      4th Gen Chicago Restaurateur #thesteaklife @ejsplaceskokie Mama to 👦🏼+👧🏻+🐶 Recipes⬇️
+      Life of Attorney SportAgent Athlete Creative Lives for Balance Intention&Delight Loves Community, Movement, Outdoors, Sport, Travel&Wellness @on Amb☁️
     location: "United States"
-    followers: 19765
-    engagement: 811
-    commentsToLikes: 0.026993
-    id: ck5zs3a8fxqn70i14z47i3om5
+    followers: 27392
+    engagement: 8
+    commentsToLikes: 0.005213
+    id: cks6v46kzgvin0j2310l6xjzx
     verified: false
-    hashtags: "#whole30, #eaterchicago, #culinarybeyonce, #thistooshallpasta"
-  - username: "fabfoodforfun"
-    fullname: >-
-      natalia
-    bio: >-
-      my fit& food gram ☻ 23,📍chi | healthy livin’ dental student gotta nourish to flourish!! @talibear31
-    location: "United States"
-    followers: 2952
-    engagement: 738
-    commentsToLikes: 0.120448
-    id: ckaorozboo6nc0i78t5fq8usw
-    verified: false
-    hashtags: "#healthydesserts, #proteincookie, #healtydinner, #foodphotography"
+    hashtags: "#representationmatters, #chicago, #sportsattorney, #partner"
 ---

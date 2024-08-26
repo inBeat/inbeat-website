@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Germany In 2023
+title: Top 10 Comedians TikTok Influencers In Germany In 2024
 description: >-
-  Find top comedians TikTok influencers in Germany in 2023. Most popular hashtags: #comedy #fyp #funny #fy.
+  Find top comedians TikTok influencers in Germany in 2024. Most popular hashtags: #comedy #funny #fyp #foryou.
 platform: TikTok
 hits: 27
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 27 TikTok influencers like this in Germany for you to contact.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 27 TikTok influencers like this in Germany for you to collaborate.
 profiles:
   - username: "mr._khan_333"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.024541
     id: ckdhtes6j2x750j231xwhsfsm
     verified: false
-    hashtags: "#deutschrap, #couple, #robertwollnik, #sketch"
+    hashtags: "#sketch, #comedy, #couple, #deutschrap"
   - username: "comediandirk"
     fullname: >-
       Comedian Dirk
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.016700
     id: ck81q2nk6ffw10j78wl9txky4
     verified: true
-    hashtags: "#hessisch, #lachen, #gutelaune, #adventskalender"
+    hashtags: "#lachen, #gutelaune, #adventskalender, #hessisch"
   - username: "saschazille"
     fullname: >-
       Sascha Zille

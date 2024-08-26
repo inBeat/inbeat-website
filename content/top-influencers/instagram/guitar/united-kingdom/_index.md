@@ -1,12 +1,60 @@
 ---
-title: Top 10 Guitar Instagram Influencers In United Kingdom In 2023
+title: Top 10 Guitar Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top guitar Instagram influencers in United Kingdom in 2023. Most popular hashtags: #guitarist #guitarsarebetter #guitarsdaily.
+  Find top guitar Instagram influencers in United Kingdom in 2024. Most popular hashtags: #guitarist #guitar #musician.
 platform: Instagram
-hits: 152
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat has 152 Instagram influencers like this in United Kingdom for you to pitch.
+hits: 167
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 167 Instagram influencers like this in United Kingdom for you to work with.
 profiles:
+  - username: "marek_pasieczny"
+    fullname: >-
+      MAREK PASIECZNY
+    bio: >-
+      ▪ composer | PhD, MMus, PGDip ▪ classical guitar | PhD, MMus, Master of Arts, PGDip based in the UK 🇬🇧
+    location: "United Kingdom"
+    followers: 8126
+    engagement: 642
+    commentsToLikes: 0.021811
+    id: ckaosysertm920i78vzoj9reb
+    verified: false
+    hashtags: "#visitwhitby, #rehearsal, #composer, #arvop"
+  - username: "joecoombsguitarist"
+    fullname: >-
+      J O E   C O O M B S
+    bio: >-
+      Guitarist, UK Message me for Gigs, Sessions and Tours. Ivison Guitars, Sunbear Pickups & Lehle AMAUK Instrumentalist of the Year Nominee ‘23 ‘24
+    location: "United Kingdom"
+    followers: 9824
+    engagement: 547
+    commentsToLikes: 0.045209
+    id: ckaor4myglpkz0i78ls7yr0ph
+    verified: false
+    hashtags: "#guitarra, #touringmusician, #guitarplayers, #ivison"
+  - username: "alexaguitarist"
+    fullname: >-
+      Alexandra Whittingham
+    bio: >-
+      Guitarist My new book is OUT NOW ⬇️
+    location: "United Kingdom"
+    followers: 110773
+    engagement: 411
+    commentsToLikes: 0.019412
+    id: ck14lkz4zv7tz0i191tbe7zb9
+    verified: false
+    hashtags: "#alexandrawhittingham, #duo, #femaleguitarists, #germany"
+  - username: "sophieguitar_"
+    fullname: >-
+      Sophie Lloyd
+    bio: >-
+      Guitarist for @machinegunkelly MGMT @generation.entertainment 🎸👻 🇬🇧
+    location: "United Kingdom"
+    followers: 989554
+    engagement: 376
+    commentsToLikes: 0.014020
+    id: ck0w77xuuc7ls0i19n90m4xq6
+    verified: false
+    hashtags: "#metal, #newmusic, #guitaristsofinstagram, #impostersyndrome"
   - username: "danporterguitar"
     fullname: >-
       Dan Porter
@@ -37,12 +85,12 @@ profiles:
     bio: >-
       Classical Guitarist Honor citizen of Solero city Premio Chitarra d’Oro Debut in New York at the Carnegie Hall in the year 2011 CD Label: Naxos
     location: "United Kingdom"
-    followers: 14367
-    engagement: 701
-    commentsToLikes: 0.028457
+    followers: 15708
+    engagement: 664
+    commentsToLikes: 0.025962
     id: ck0tttf0c483q0i19cg8t6kcm
     verified: false
-    hashtags: "#workinprogress, #anabelmontesinos, #spanish, #guitarist"
+    hashtags: "#vacaciones, #masterclass, #italy, #petrer"
   - username: "thelivhaynes"
     fullname: >-
       LIV HAYNES ♥
@@ -55,18 +103,18 @@ profiles:
     id: ck0w6pnmt9pmr0i19czkwletu
     verified: false
     hashtags: ""
-  - username: "zeppelinbarnatra"
+  - username: "isookphotography"
     fullname: >-
-      Nathaniel Murphy
+      Sook Gardiner
     bio: >-
-      Chicago Guitarist From levenshulme, Manchester/Belmullet, Co Mayo Full Oasis vid ⬇️
+      📸Street & bnw photographer 🎸ex-bass guitar player 💟music is my biggest inspiration 🇬🇧London 📸All photos by me ©
     location: "United Kingdom"
-    followers: 357977
-    engagement: 949
-    commentsToLikes: 0.031347
-    id: ck5c20j7xwao40i11k64xxuxj
-    verified: true
-    hashtags: "#acousticguitar, #guitarsolo, #fender, #gibsonguitars"
+    followers: 7139
+    engagement: 835
+    commentsToLikes: 0.116875
+    id: ck8t3zfhy51j80j78cwse5ath
+    verified: false
+    hashtags: "#spi, #bnw, #streetleaks, #spicollective"
   - username: "officialarielle"
     fullname: >-
       Arielle
@@ -79,52 +127,4 @@ profiles:
     id: ck0tw9mfceiiy0i19robwqxlc
     verified: false
     hashtags: "#brianmayguitar, #brianmayguitars"
-  - username: "daganwilkin"
-    fullname: >-
-      Dagan Wilkin
-    bio: >-
-      28- Guitarist & Product Demonstrator!📍NCL,UK🇬🇧 ⚡️ @kramerguitarsus Artist ⚡️ @pmthouseofrock PMTVUK Presenter ⚡️ @thereissuesuk 🎸 ⚡️ Car lover! 🐎
-    location: "United Kingdom"
-    followers: 9787
-    engagement: 931
-    commentsToLikes: 0.034094
-    id: ckaortagponhm0i78tzpbsm6g
-    verified: false
-    hashtags: "#guitaroftheday, #guitar, #angusyoung, #guitarra"
-  - username: "joecoombsguitarist"
-    fullname: >-
-      J O E   C O O M B S
-    bio: >-
-      Guitarist, UK. Get in touch for Gigs, Studio Sessions and Tours.
-    location: "United Kingdom"
-    followers: 3393
-    engagement: 2027
-    commentsToLikes: 0.048757
-    id: ckaor4myglpkz0i78ls7yr0ph
-    verified: false
-    hashtags: "#lickwars, #guitarras, #pedals, #stratocaster"
-  - username: "alexaguitarist"
-    fullname: >-
-      Alexandra Whittingham
-    bio: >-
-      Classical #Guitarist - @augustinestrings artist 📍London 🎓 Royal Academy of Music 💽 Debut album on @delphian_records / May 28th
-    location: "United Kingdom"
-    followers: 28883
-    engagement: 811
-    commentsToLikes: 0.023952
-    id: ck14lkz4zv7tz0i191tbe7zb9
-    verified: false
-    hashtags: ""
-  - username: "shindydesign"
-    fullname: >-
-      Shindy Design
-    bio: >-
-      Freelance illustrator. Dark Art through pencil, ink and painting. Open for commission. DM for any enquiries. Guitarist @oceanofentropyofficial
-    location: "United Kingdom"
-    followers: 23474
-    engagement: 473
-    commentsToLikes: 0.021936
-    id: ck6ufhjkvx3670j71xoaf16fs
-    verified: false
-    hashtags: "#stippling, #skullwork, #deathcore, #paintedcover"
 ---

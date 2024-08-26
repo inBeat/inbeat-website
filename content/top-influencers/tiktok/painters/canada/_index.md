@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters TikTok Influencers In Canada In 2023
+title: Top 10 Painters TikTok Influencers In Canada In 2024
 description: >-
-  Find top painters TikTok influencers in Canada in 2023. Most popular hashtags: #art #painter #painting #artist.
+  Find top painters TikTok influencers in Canada in 2024. Most popular hashtags: #painter #art #painting #artist.
 platform: TikTok
 hits: 130
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 130 TikTok influencers like this in Canada for you to work with.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 130 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "nicolas.abtan"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.101996
     id: cka0jr4zvj8ww0i78kaeo2tkw
     verified: false
-    hashtags: "#thickpaint, #smallbusinesscheck, #artist, #lotr"
+    hashtags: "#satisfaction, #fun, #tolkientok, #darkart"
   - username: "black_kat.art"
     fullname: >-
       Black_Kat.Art

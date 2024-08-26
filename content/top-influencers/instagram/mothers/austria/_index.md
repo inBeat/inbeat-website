@@ -1,24 +1,48 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Austria In 2023
+title: Top 10 Mothers Instagram Influencers In Austria In 2024
 description: >-
-  Find top mothers Instagram influencers in Austria in 2023. Most popular hashtags: #vienna #family #wien #babygirl.
+  Find top mothers Instagram influencers in Austria in 2024. Most popular hashtags: #austria #momlife #igersaustria #mountains.
 platform: Instagram
-hits: 25
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 25 Instagram influencers like this in Austria for you to pitch.
+hits: 41
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 41 Instagram influencers like this in Austria for you to connect with.
 profiles:
-  - username: "jasminspanitz"
+  - username: "isabelleflandorfer"
     fullname: >-
-      MORE THAN YOGA
+      Isabelle
     bio: >-
-      ☼☽ Inspiring you to start moving - your MIND and BODY. ⋒ Life & Motherhood ⚘ Holistic Approach to Health | YOGA • Founder of @yogabrunchvienna
+      My Life 💜 What I love & What inspires me Vienna | Formerly known as @mothers_finest
     location: "Austria"
-    followers: 9574
-    engagement: 477
-    commentsToLikes: 0.031416
-    id: ckaordh7umq390i78qm8lts3r
+    followers: 34434
+    engagement: 213
+    commentsToLikes: 0.032983
+    id: ck9woostg5z1w0j78kfru7zmc
     verified: false
-    hashtags: "#standingdesk, #yogamom, #croatia, #yaasa"
+    hashtags: "#mallorca2023, #mothersfinestblog, #marrakech, #sommerin"
+  - username: "zuckerkipfal"
+    fullname: >-
+      zuckerkipfal
+    bio: >-
+      ❤️ Vienna, 37/ 👩🏼‍⚕️Tierärztin / 👩🏻‍🦰 Mama to Lilia & Fina / 🧘‍♀️Yogi / 💥Ravenmother
+    location: "Austria"
+    followers: 13855
+    engagement: 218
+    commentsToLikes: 0.037125
+    id: clofklt7koq8w0j08w21kpx0h
+    verified: false
+    hashtags: "#doodlelove, #christmas, #motherhood, #urlaubmitkindern"
+  - username: "bettinafuchs___"
+    fullname: >-
+      BETTINA FUCHS
+    bio: >-
+      Momlife | Hausbau | UGC Creator mommy of Lyan 🤍hausbau 24/25 📍based in austria
+    location: "Austria"
+    followers: 15839
+    engagement: 13
+    commentsToLikes: 0.009672
+    id: ckaoxb5gkckrj0i78wxm8mp53
+    verified: false
+    hashtags: "#momlife, #viralreels, #massivhaus, #outfitdetails"
   - username: "karl_se"
     fullname: >-
       ᴋᴀʀʟ 3͜͡
@@ -31,18 +55,6 @@ profiles:
     id: ck5hcbp5fh7kj0i112if2shsj
     verified: false
     hashtags: "#natureloversgallery, #gloomy, #smallmomentsofcalm, #soulful"
-  - username: "vojtkova.petra"
-    fullname: >-
-      Petra Vojtková
-    bio: >-
-      💜Máma=Nathaniel💜 Patronka Aleje roku Muzikálová herečka @thegreatestshowconcert @divadlo_kalich @divadlo_hybernia @muzikal_djkt
-    location: "Austria"
-    followers: 34959
-    engagement: 621
-    commentsToLikes: 0.011518
-    id: ck13d1bhk35xb0i19ogk03via
-    verified: false
-    hashtags: "#love, #mother, #nathaniel, #spoluprace"
   - username: "einalem1710"
     fullname: >-
       M*👧🏼
@@ -55,76 +67,64 @@ profiles:
     id: ck8t0mn0cskwf0j78jiup1jjf
     verified: false
     hashtags: "#outdoor, #summit, #igersaustria, #discoverthebackland"
-  - username: "megancloke_"
+  - username: "_alexandra_muresan_"
     fullname: >-
-      Meg🌸
+      Alexandra, fetița munților🏔
     bio: >-
-      📚Law student 📌Brand ambassador for @popsmelts(MEG10) @badgyalarchive(megancloke10)
+      👣Hiking in Romania 🌍Outdoor | Adventure | Photography ⛰Find me in the mountains 📍Currently: Cluj-Napoca 📧 Contact: alemuresan88@gmail.com
     location: "Austria"
-    followers: 5224
-    engagement: 1298
-    commentsToLikes: 0.107390
-    id: ck5q1qhroc9w30i11bllbkhrs
+    followers: 17282
+    engagement: 538
+    commentsToLikes: 0.024592
+    id: ck5zqc4o8uc040i14j6xl38o2
     verified: false
-    hashtags: "#influencerstyle, #wearewomenn, #curves, #tattoo"
-  - username: "sarah.stormborn"
+    hashtags: "#mountains, #authenticliving, #girlsthatwander, #pemeleagurirom"
+  - username: "jasminspanitz"
     fullname: >-
-      Sarah Stormborn
+      MORE THAN YOGA
     bio: >-
-      💉🇦🇹 medstudent 💋💄makeupaddict 🔮💀⚰🐲vamp/goth/dragonqueen 🃏♠real life-harley quinn use code „sstormborn“ at @newrockaustralia for 10% off 💸
+      ☼ I inspire you to start moving - your MIND and BODY ⋒ Löwenmama² ⚘ Ganzheitliche Frauengesundheit ☯︎ Natur in und um uns ☽ YOGA @yogabrunchvienna
     location: "Austria"
-    followers: 13235
-    engagement: 445
-    commentsToLikes: 0.041414
-    id: ck8t815ukiqas0j7802q56q8b
+    followers: 9400
+    engagement: 458
+    commentsToLikes: 0.064816
+    id: ckaordh7umq390i78qm8lts3r
     verified: false
-    hashtags: "#nugoth, #halloweencostume, #gothicstyle, #wearekillstar"
-  - username: "maryamzeb_"
+    hashtags: "#zweifachmama, #mamaleben, #babygirl, #tragemama"
+  - username: "virginia.rox"
     fullname: >-
-      • Beauty • Fashion • Travel
+      Virginia Rox - Graz
     bio: >-
-      Welcome to my world ✨ Chocoholic | Sucker for handbags | Lawyer 📍Vienna
+      ❤️‍🔥Herzblut Mama ✨ 🏡Leben am Knusperhof🐕🐑🐐🐓🐝 🔆gutes Essen, tolle Aussichten & herzliche Menschen ➡️ see you in the stories🫶🏼
     location: "Austria"
-    followers: 7141
-    engagement: 1128
-    commentsToLikes: 0.117757
-    id: ckaoy48pgfzq90i78nzj3d5bv
+    followers: 43247
+    engagement: 294
+    commentsToLikes: 0.030762
+    id: ck6ui8b8udn0n0j718tccz8d4
     verified: false
-    hashtags: "#outfitinspiration, #fashionblogger, #ootd, #veromoda"
-  - username: "rebeccachelbea"
+    hashtags: "#couplegoals, #hausumbau, #igergraz, #dankbar"
+  - username: "kati_bg"
     fullname: >-
-      Rebecca Chelbea
+      Kati Bellowitsch
     bio: >-
-      I normalize normal things. ▷ selflove, selfworth & boundaries ▷sustainable | vegan | mindful ▷she/her ⚲ living in a 🚗 for a month YouTube ↡
+      Moderatorin/Redakteurin office@bellowitsch.at 💛 Moderatorin 🩷 Podcasterin🎙& Reisejournalistin 💙 FH Wien Lektorin ❤️ Familylife 😍
     location: "Austria"
-    followers: 94530
-    engagement: 745
-    commentsToLikes: 0.016188
-    id: ck6tu7briepxl0j719z690fyo
-    verified: false
-    hashtags: "#vienna, #igersaustria, #selfacceptance, #carlife"
-  - username: "alinamariaderoumanie"
+    followers: 38226
+    engagement: 206
+    commentsToLikes: 0.039633
+    id: ck6u4jj0z42yn0j71xrzso35r
+    verified: true
+    hashtags: "#sommer, #sheskis, #werzers, #altaussee"
+  - username: "kathi_bittner"
     fullname: >-
-      Alina Maria de Roumanie
+      Kathi B. || Mama || Mentor mit 🤍|| Hutmacherin
     bio: >-
-      Promoter of Romanian culture, products and design
+      🩷 Mamaalltag: Struggles, Abenteuer & Routinen 👟 Kathis Outfitinspo ☀️ ich zeig dir wie du dir ein 2. Standbein aufbauen kannst
     location: "Austria"
-    followers: 11399
-    engagement: 1382
-    commentsToLikes: 0.018030
-    id: ck6twk0oisfyd0j71ef1whlcc
+    followers: 5942
+    engagement: 204
+    commentsToLikes: 0.025466
+    id: clq9hyq9c718a0k08mqgtyhd2
     verified: false
-    hashtags: "#nicolaealromaniei, #baptism, #mariaalexandraaromaniei, #royalbaby"
-  - username: "twinbabydiariesfc"
-    fullname: >-
-      BELLA👸🏻 VIENNA👸🏻
-    bio: >-
-      Fan page of Bella and Vienna🥰 Official page @twinbabydiaries 🧚🏻‍♀️🧚🏻‍♀️ Dad @karanvirbohra 🦸🏻‍♂️ Mom @bombaysunshine 🦸🏻‍♀️
-    location: "Austria"
-    followers: 15428
-    engagement: 436
-    commentsToLikes: 0.006136
-    id: ck9wedpzpjs2e0j78dju3ctrf
-    verified: false
-    hashtags: "#twinbabydiariesfc, #instadaily, #boraboratwins, #twinbabydiaries"
+    hashtags: "#momlife, #sofree, #kathisalltag, #momblogger"
 ---

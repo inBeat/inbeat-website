@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Ukraine In 2023
+title: Top 10 Fashion Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top fashion Instagram influencers in Ukraine in 2023. Most popular hashtags: #beauty #hooligansmagazine #ukrainegirl.
+  Find top fashion Instagram influencers in Ukraine in 2024. Most popular hashtags: #style #styleinspiration #styleblogger.
 platform: Instagram
-hits: 157
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 157 Instagram influencers like this in Ukraine for you to pitch.
+hits: 179
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 179 Instagram influencers like this in Ukraine for you to pitch.
 profiles:
-  - username: "_sofiia__official_"
+  - username: "shura.i.am"
     fullname: >-
-      София🌸
+      𝐔𝐆𝐂 𝗰𝗿𝗲𝗮𝘁𝗼𝗿  | 𝐂𝐎𝐍𝐓𝐄𝐍𝐓 𝐐𝐔𝐄𝐄𝐍
     bio: >-
-      Model 💫 Account runs by mum MA @katemodels_kids @hip4kidz 📩 Сотрудничество в Директ Work: Pitti Bimbo 90🇮🇹Patachou🇵🇹Banana Fashion🇮🇱
+      •𝗖𝗢𝗡𝗧𝗘𝗡𝗧 𝗙𝗢𝗥 𝗕𝗥𝗔𝗡𝗗𝗦 •Minimal Style | fashion inspo •Life in stories Cooperation DM
     location: "Ukraine"
-    followers: 25930
-    engagement: 992
-    commentsToLikes: 0.114109
-    id: ck5zs2g6hxp2n0i14ovca43hx
+    followers: 11393
+    engagement: 538
+    commentsToLikes: 0.072043
+    id: ckap4x14899mk0i78smyym246
     verified: false
-    hashtags: "#photobyphone"
-  - username: "mariana_oleksik"
+    hashtags: "#style, #streetstyle, #styleblogger, #details"
+  - username: "osia2013"
     fullname: >-
-      Mariana Oleksik
+      OSIA YOUTUBE BLOGGER
     bio: >-
-      Smm | Uzhorod |Content manager 20 y.o Fashion | Lifestyle blogger Owner @dollhouse.uzh 🤍
+      Beauty | Fashion | Home | Cooking 14 years in Poland🇺🇦 500K+ YouTube channel Instagram PL : @olga.muszynska Contact: olga.donczenko@gmail.com
     location: "Ukraine"
-    followers: 7624
-    engagement: 1026
-    commentsToLikes: 0.101743
-    id: ckap27uy6xr8r0i78ntml2otv
+    followers: 238223
+    engagement: 806
+    commentsToLikes: 0.011912
+    id: ck0w3hdw1tf460i1912161s2o
+    verified: false
+    hashtags: "#makeup, #zara, #stylefashion, #vacationmode"
+  - username: "marydenysiuk"
+    fullname: >-
+      𝗠𝗔𝗥𝗜𝗔 𝗗𝗘𝗡𝗬𝗦𝗜𝗨𝗞
+    bio: >-
+      From Netherlands to Dubai📍 Real estate, wellness, fine dining, fashion, motherhood. 10 million+ Reels views Dm/email for collaboration🤝
+    location: "Ukraine"
+    followers: 267103
+    engagement: 1396
+    commentsToLikes: 0.031828
+    id: ck6udxlqtnp4g0j71mqfpeeiw
+    verified: false
+    hashtags: "#gcse, #alevels, #britishschoolsindubai, #internationalbaccalaureate"
+  - username: "ivansuprun"
+    fullname: >-
+      Ivan Suprun
+    bio: >-
+      Personal Fashion #сомнойповедёшьсяотменянаберёшься
+    location: "Ukraine"
+    followers: 23427
+    engagement: 525
+    commentsToLikes: 0.045240
+    id: ck5q3wflzmotk0i116b153hn1
     verified: false
     hashtags: ""
-  - username: "elena_mandziuk"
+  - username: "fffetisova"
     fullname: >-
-      Olena Mandziuk 🇺🇦
+      ANASTASIA FETISOVA AKA FETISA 🫦
     bio: >-
-      fashion | healthy | business | mom ambassador @yvesrocherua my projects @boo.dni @dreamfit_you ⠀ 📮 @pr_mandziuk /contact@elenamandziuk.com
+      fashion influencer, model, stylist FOUNDER @i.am.your.fetish PR and Cooperation DM & fffetissh@gmail.com
     location: "Ukraine"
-    followers: 1226568
-    engagement: 231
-    commentsToLikes: 0.079392
-    id: ck5cc784xgu9f0i11xsck4hy4
+    followers: 41675
+    engagement: 696
+    commentsToLikes: 0.009734
+    id: ck5c2wgk3y4kk0i11ghdbgh1s
     verified: false
-    hashtags: "#milkatenderwords"
-  - username: "galinda007"
+    hashtags: "#styleinspiration, #fetisa, #fashionista, #kollygirls"
+  - username: "moi_sofism"
     fullname: >-
-      Галина Шкіндер
+      Sonia Plakidyuk
     bio: >-
-      ▪️ Fashion Амбасадорка Села ▪️ життя як воно є ▪️ класні фото, смішні тексти ▪️ важливе пишіть @galinda.cooperation 📍Львів
+      📸Fashion photographer Sonia Plakidyuk 🇺🇦 📺UkrainianNextTopModel co-host 📨moisofism.agent@gmail.com
     location: "Ukraine"
-    followers: 22118
-    engagement: 1555
-    commentsToLikes: 0.021113
-    id: ck15s2mnkaxir0i198uqap51e
+    followers: 459198
+    engagement: 326
+    commentsToLikes: 0.003974
+    id: ck0w1hqnsjeru0i1990ry7s8v
     verified: false
-    hashtags: ""
-  - username: "sofiafashionicone"
+    hashtags: "#jointheflipside, #galaxyflip5, #galaxywatch6, #philipssonicareprestige"
+  - username: "adriana_turkevych"
     fullname: >-
-      Sofi-Nikol Kidsfashion
+      Andriana Kostylieva
     bio: >-
-      childhood is too short to wear boring clothes 🎀Kids Fashion Blogger 🎀Model Agent in Europe @ksyusha_abdukhanova ⠀ Account run by mum
+      🗯🤰Fashion & beauty influencer Mail: contact.adrianaturkevych@gmail.com Cooperation: @pr_adrianaturkevych fashion • lifestyle • beauty 🇺🇦
     location: "Ukraine"
-    followers: 90592
-    engagement: 240
-    commentsToLikes: 0.063990
-    id: ck5q3wjq2mpd00i11x37fcsgp
+    followers: 312660
+    engagement: 254
+    commentsToLikes: 0.012131
+    id: ckf5n23l0weo80j23hkv6vbqv
     verified: false
-    hashtags: "#fun, #wiba2021, #cannesevent, #fashionforkids"
-  - username: "ulyana.style"
-    fullname: >-
-      Ulyana K
-    bio: >-
-      Petite Fashion and Lifestyle Ukrainian 🇺🇦 living in 🗽 I am that one friend who always dresses extra Shop my looks ⬇️
-    location: "Ukraine"
-    followers: 5935
-    engagement: 584
-    commentsToLikes: 0.509285
-    id: ck5c49wrj0wp20i11gws2nyoz
-    verified: false
-    hashtags: "#petiteblogger, #petitefashionblogger, #fashionforless, #liketoknowit"
-  - username: "anna_prytulaaa"
+    hashtags: "#asmr, #pregnancy, #momtobe, #dyson"
+  - username: "annaprytulaaa"
     fullname: >-
       𝓐𝓷𝓷𝓪 𝓟𝓻𝔂𝓽𝓾𝓵𝓪𝓪𝓪 🤍
     bio: >-
-      📍Lviv, Ukraine • beauty , lifestyle, fashion 💌COOPERATION- @prytulaaa_cooperation 🤍foundress - @pray.buy
+      📍Lviv, Ukraine bride to be 💍 •beauty, lifestyle, fashion 💌COOPERATION- @prytulaaa_cooperation РЕЗЕРВ @anna.prytulaaa
     location: "Ukraine"
-    followers: 1012209
-    engagement: 725
-    commentsToLikes: 0.016332
+    followers: 940830
+    engagement: 250
+    commentsToLikes: 0.002448
     id: ck55k0xlby7mz0i11qhnwcftk
     verified: false
-    hashtags: "#iherb, #iherbukraine, #sponsored, #sponsorship"
-  - username: "ostee_"
+    hashtags: "#nirvaname"
+  - username: "alexandrarodriguez__"
     fullname: >-
-      Olha Stepanova | TORONTO
+      Alexandra Michelle
     bio: >-
-      красуні, привіт 🇺🇦 @ostee_shopping featured in Vogue & InStyle Fashion blogger & personal shopper contact@olhastepanova.com
+      🇵🇷 VOGUE Beauty🌹Boy Mom x 2 • Model • Singer • Childbirth hypnotherapist • Fashionista • Viajera @casadig @cloud9births @baldaccicoffee
     location: "Ukraine"
-    followers: 45090
-    engagement: 152
-    commentsToLikes: 0.111024
-    id: ck0w1wod4li8n0i19tv22ukh9
-    verified: false
-    hashtags: "#sorrynotsorry"
-  - username: "yaninakozar"
+    followers: 255740
+    engagement: 245
+    commentsToLikes: 0.022989
+    id: ck134rn5exv3j0i19sst3ug56
+    verified: true
+    hashtags: "#paris, #pfw, #nyc, #covergirl"
+  - username: "lyudashollywooda"
     fullname: >-
-      Яніна Козар🕊
+      Луцук Людмила
     bio: >-
-      👼🏻Victor’s mum 📈Співпраця - @yanina_cooperation 🧥Fashion blogger ✈️Traveller (15 countries) 👰🏻#meetthekozars 🇺🇸Fluent English speaker
+      Lutsuk Lyudmila 📍 Kyiv 🇺🇦 Fashion influencer 🛑PR/cooperation @pr_lyudashollywooda collaboration.lyudashollywooda@gmail.com
     location: "Ukraine"
-    followers: 163650
-    engagement: 306
-    commentsToLikes: 0.024620
-    id: ckaoy6cu3g6lk0i782ulyhinv
+    followers: 1465369
+    engagement: 241
+    commentsToLikes: 0.008936
+    id: ckap85bkomw310i78hg7l4qop
     verified: false
-    hashtags: ""
-  - username: "godsend_v"
-    fullname: >-
-      𝓥𝓮𝓻𝓸𝓷𝓲𝓬𝓪 𝓲𝓷 𝓓𝓾𝓫𝓪𝓲
-    bio: >-
-      🇺🇦Ukrainian living in Dubai 🇦🇪 Social Media Contributor | Creator of Opportunities Fashion🔹F&B 🔹Aesthetic Beauty 🔹Travel 📩 DM for Collaboration
-    location: "Ukraine"
-    followers: 13016
-    engagement: 554
-    commentsToLikes: 0.054866
-    id: ckap10zn3sno00i78rc9obysd
-    verified: false
-    hashtags: "#dubaiblog, #dtcm, #dubaiblogger, #blondegirl"
+    hashtags: "#lifestyleblogger, #lookoftheday, #blogger, #bloggersofinstagram"
 ---

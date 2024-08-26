@@ -1,36 +1,12 @@
 ---
-title: Top 10 Drummers Instagram Influencers In 2023
+title: Top 10 Drummers Instagram Influencers In 2024
 description: >-
-  Find top drummers Instagram influencers in 2023. Most popular hashtags: #drums #fun #tuesilab.
+  Find top drummers Instagram influencers in 2024. Most popular hashtags: #drums #drummer #drumming.
 platform: Instagram
-hits: 1687
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 1687 Instagram influencers like this for you to connect with.
+hits: 1723
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 1723 Instagram influencers like this for you to connect with.
 profiles:
-  - username: "olivekarmen"
-    fullname: >-
-      Olive Karmen
-    bio: >-
-      Drummer 🇰🇪
-    location: "United States"
-    followers: 72943
-    engagement: 197
-    commentsToLikes: 0.016582
-    id: ck5qci5nuqoyi0i11ca7r4hhi
-    verified: true
-    hashtags: "#leoseason, #mentalhealth, #mentalhealthawareness, #tbtm"
-  - username: "mikesleathdrums"
-    fullname: >-
-      Mike Sleath
-    bio: >-
-      Drummer!
-    location: "United States"
-    followers: 124946
-    engagement: 795
-    commentsToLikes: 0.012833
-    id: ck5hooisjpxna0i115thv03zy
-    verified: false
-    hashtags: "#tb, #blackouttuesday, #liveinunison, #lightuplive"
   - username: "andiirfanto"
     fullname: >-
       Andi Irfanto
@@ -67,64 +43,88 @@ profiles:
     id: ck5c4wtwj2a580i11hlhyuai6
     verified: false
     hashtags: "#goprojp, #straysheep, #drums, #hori"
-  - username: "reinissejans"
+  - username: "evgeny_stp_novikov"
     fullname: >-
-      Reinis Sējāns
+      Евгений
     bio: >-
-      Band member of @instrugram Composer, Producer, Singer, Drummer, Multi-instrumentalist. XFactor mentor -> @xfaktorslatvija
-    location: ""
-    followers: 20788
-    engagement: 638
-    commentsToLikes: 0.087342
-    id: ck5znws36pama0i14yqy8w4wa
+      Extreme Drummer from Moscow! Based in Sarasota, FL My Band @slaughtertoprevailofficial Endorsed by: ZILDJIAN VIC FIRTH TRICK TAMA ROLAND 👇🏻👇🏻👇🏻
+    location: "United States"
+    followers: 57486
+    engagement: 882
+    commentsToLikes: 0.014099
+    id: ck6uhogm2aazu0j71sm21yqa3
     verified: false
-    hashtags: "#stilsirinstruments, #maskufaktors, #stilsirdz, #buj"
-  - username: "l_hajoon"
+    hashtags: "#slaughtertoprevail, #repost, #drums, #deathcore"
+  - username: "dominosantantonio"
     fullname: >-
-      이하준
+      Domino Santantonio
     bio: >-
-      TheRose 🥀 Drummer
-    location: "South Korea"
-    followers: 496547
-    engagement: 1618
-    commentsToLikes: 0.021851
-    id: ck13bks1lvw730i19roirgazq
-    verified: true
-    hashtags: "#happyvalentinesday, #band, #therose, #blackrose"
-  - username: "jaberdrum"
-    fullname: >-
-      Jaber Fallah
-    bio: >-
-      Drummer🎶 We l❤ve to Music🎵 Mazandaran بیش از 30 سال تجربه✌ 👈مدرس درامز👉
-    location: ""
-    followers: 3355
-    engagement: 1816
-    commentsToLikes: 0.138487
-    id: ck9whdrh7xe860j78sj3zsba1
+      Drummer 🥁 📍 Montreal, Canada TikTok 1.6 M followers 📩 domino@dulcedo.com
+    location: "United States"
+    followers: 529283
+    engagement: 607
+    commentsToLikes: 0.008803
+    id: ck15rnw898u7i0i195p518mpq
     verified: false
-    hashtags: "#drum, #iran, #singer, #tehran"
-  - username: "femiondrums"
+    hashtags: "#audimute, #remo, #dominosantantonio, #beyerdynamic"
+  - username: "gabriellemarieking"
     fullname: >-
-      Femi Koleoso
+      GABI KING
     bio: >-
-      Christian, Nigerian, North London Drummer: Ezra Collective, Jorja Smith, Gorillaz DJ: Reprezent Radio - Saturday 6-8pm GMT
+      uk session drummer • tambourine shaker @the1975, @thedeclanmckenna, @cmatbaby + others
     location: "United Kingdom"
-    followers: 19175
-    engagement: 1011
-    commentsToLikes: 0.041887
-    id: ck5hpyrhms73u0i11txrnshnn
-    verified: true
-    hashtags: "#livingroomcup, #playinside"
-  - username: "tiago.mmteixeira"
-    fullname: >-
-      Tiago Teixeira
-    bio: >-
-      Model ,, Drummer ,, Athlete PR , Digital & Brands : gustavo@centralmodels.pt 🇵🇹: @centralmodels 🌍: @sugar__kids
-    location: "Portugal"
-    followers: 20341
-    engagement: 815
-    commentsToLikes: 0.208951
-    id: ck6uco3lzgp0c0j71bqxh1rn9
+    followers: 15810
+    engagement: 924
+    commentsToLikes: 0.011928
+    id: ck1350zwfz5cf0i190aiza271
     verified: false
-    hashtags: "#dejavu, #dejavucover, #drums, #peaches"
+    hashtags: ""
+  - username: "john_supnik"
+    fullname: >-
+      John Supnik
+    bio: >-
+      ⚔️ NYC ⚔️ Drummer for computerwife ༎ຶ‿༎ຶ @abouttimestudio | @zinktalent
+    location: "United States"
+    followers: 411942
+    engagement: 3039
+    commentsToLikes: 0.004348
+    id: ck6u2u06jtwgm0j715ve62uwh
+    verified: false
+    hashtags: "#explore, #nyc, #bookish, #bookstagram"
+  - username: "gflip"
+    fullname: >-
+      G FLIP
+    bio: >-
+      i drum, i sing, g’day mate my album is called DRUMMER go give it a spin
+    location: "Australia"
+    followers: 652271
+    engagement: 407
+    commentsToLikes: 0.012078
+    id: ck0w1cwdliq9o0i192uglfhes
+    verified: true
+    hashtags: "#ad"
+  - username: "keziagrc"
+    fullname: >-
+      Kezia Grace Yessi Sitompul
+    bio: >-
+      Drummer/Session Player Tiktok: keziagrc10
+    location: "Indonesia"
+    followers: 21926
+    engagement: 482
+    commentsToLikes: 0.018269
+    id: ck5c4mil51nk90i11z3b7ylxs
+    verified: false
+    hashtags: "#bavoyoungdrums, #linkinbio, #bavodrums, #yamaha"
+  - username: "malyan"
+    fullname: >-
+      Mike Malyan
+    bio: >-
+      Drummer for Monuments, Educator @malyandrum.academy, YouTube creator & Twitch streamer. Specialty: Djent\Progressive Metal.
+    location: "United Kingdom"
+    followers: 13227
+    engagement: 6716
+    commentsToLikes: 0.031429
+    id: ck5zmt9z1n6n70i14izurk1yr
+    verified: false
+    hashtags: "#progressive, #metal, #homestudiolife, #drums"
 ---

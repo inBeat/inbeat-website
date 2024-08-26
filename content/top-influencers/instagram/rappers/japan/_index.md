@@ -1,12 +1,24 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Japan In 2023
+title: Top 10 Rappers Instagram Influencers In Japan In 2024
 description: >-
-  Find top rappers Instagram influencers in Japan in 2023. Most popular hashtags: #hiphop #20s #bosshogg.
+  Find top rappers Instagram influencers in Japan in 2024. Most popular hashtags: #hiphop #japanesehiphop #rap.
 platform: Instagram
-hits: 23
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 23 Instagram influencers like this in Japan for you to pitch.
+hits: 21
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 21 Instagram influencers like this in Japan for you to work with.
 profiles:
+  - username: "skyhidaka"
+    fullname: >-
+      SKY-HI
+    bio: >-
+      Rapper / Producer / BMSG CEO Staff ▶︎ @skyhi_staff
+    location: "Japan"
+    followers: 863599
+    engagement: 566
+    commentsToLikes: 0.006327
+    id: ck5zq9zf2u7qz0i141x49x1ol
+    verified: true
+    hashtags: "#repost, #thefirst, #rag, #skyhi"
   - username: "gashima"
     fullname: >-
       GASHIMA (WHITE JAM)
@@ -43,18 +55,6 @@ profiles:
     id: ck5qc5s75ozqh0i114odwcb6d
     verified: false
     hashtags: "#365anniversary, #nylonjapan, #uncensoredvlogosignature, #valentino"
-  - username: "sorry_wavy"
-    fullname: >-
-      🇯🇵🌊🐉JP THE WAVY
-    bio: >-
-      🌊Rapper🌊🐉 “I WANT ONE” OUT NOW
-    location: "Japan"
-    followers: 150921
-    engagement: 629
-    commentsToLikes: 0.004040
-    id: ck0w56x9426z40i19xet3yfb1
-    verified: true
-    hashtags: "#loewetotoro"
   - username: "straykidshyunjins"
     fullname: >-
       HYUNJIN (현진)
@@ -97,12 +97,12 @@ profiles:
     bio: >-
       SỐNG GẮT- NEW MV ❤ https://youtu.be/TCBmSSW43wg Wowy is a Vietnamese rapper,actor,composer,contemporary artist wowynguyen@gmail.com @wowynguyen #wowy
     location: "Japan"
-    followers: 289278
-    engagement: 324
-    commentsToLikes: 0.003972
+    followers: 272948
+    engagement: 169
+    commentsToLikes: 0.004115
     id: ck5cd9ml6iryz0i11th1sixex
     verified: false
-    hashtags: "#wowy, #themacallanvn, #editionno6, #macallancreates"
+    hashtags: "#wowy, #gat, #ben, #1990"
   - username: "djgo_730"
     fullname: >-
       DJ ☆ GO

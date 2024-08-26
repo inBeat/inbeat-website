@@ -1,36 +1,72 @@
 ---
-title: Top 10 Health Instagram Influencers In Phoenix In 2023
+title: Top 10 Health Instagram Influencers In Phoenix In 2024
 description: >-
-  Find top health Instagram influencers in Phoenix in 2023. Most popular hashtags: #workout #fitness #love.
+  Find top health Instagram influencers in Phoenix in 2024. Most popular hashtags: #love #workout #fitness #muscle.
 platform: Instagram
-hits: 58
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 58 Instagram influencers like this in Phoenix, United States for you to pitch.
+hits: 64
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 64 Instagram influencers like this in Phoenix, United States for you to contact.
 profiles:
-  - username: "jeffersonisme"
+  - username: "ariellegeismar"
     fullname: >-
-      J E F F E R S O N
+      arielle⚡️digital wellness🕊
     bio: >-
-      #Realtor Seller of homes 🏡 Animal lover 🐱 Fitness pro 🏋🏻‍♀️ Record buyer 🔘 Seeker of answers ❓ Believer in love ♥️ Eternal optimist 🌠
+      home of daily self care check-ins!🌿 self care doesn’t need to be aesthetic to be authentic mental health advocate 🌱 teen vogue 21 under 21 nyc/gwu kd
     location: "United States"
-    followers: 19021
-    engagement: 151
-    commentsToLikes: 0.031371
-    id: ck6uid67cee2v0j71mudg3rr8
+    followers: 4040
+    engagement: 1383
+    commentsToLikes: 0.076615
+    id: ck5q1ifadb4ux0i11yiottpfd
     verified: false
-    hashtags: "#tatsandcats, #pride, #losangelesbroker, #firsttimehomebuyer"
-  - username: "noelleandfox"
+    hashtags: "#selfcare, #selflove, #wellness, #mindfulness"
+  - username: "ullerick"
     fullname: >-
-      noelle mardo
+      Matt Ullerick
     bio: >-
-      she/her. mental health advocate. founder of the #pantsarmy. a mom who likes jumpsuits. wife to an artist @fernyourstruly phoenix, AZ. ☀️
+      “THE PHOENIX” Actor / Athlete / Coach 📍CA | @vcbbaofficial 🥇 x6 Bodybuilding Champ ⤵️ My Programs
     location: "United States"
-    followers: 168086
-    engagement: 570
-    commentsToLikes: 0.007297
-    id: ck15rdaas7csu0i19qrda2x5m
+    followers: 9925
+    engagement: 327
+    commentsToLikes: 0.034614
+    id: cl3xlemulejmy0i23wumses6z
+    verified: false
+    hashtags: "#love, #weightloss, #healthylifestyle, #exercise"
+  - username: "bitchimawitchh"
+    fullname: >-
+      💥Mara fka Britt💥
+    bio: >-
+      LA 🗯 Miami born & raised Queer content 💋 Intimacy coordinator Decolonial facilitation & DIY mental health 🔥 Discoteca 3ala Mars @dublab radio
+    location: "United States"
+    followers: 16549
+    engagement: 309
+    commentsToLikes: 0.036670
+    id: ck5cc1g32gjmh0i11mqx54gj8
     verified: false
     hashtags: ""
+  - username: "msjeanettejenkins"
+    fullname: >-
+      Jeanette Jenkins
+    bio: >-
+      Turn on post notifications 👆 30yrs Experience Trainer+Health Coach 30Day Total Body Bootcamps 500+ streaming workouts! @hollywoodtrainerclub 👇
+    location: "United States"
+    followers: 977262
+    engagement: 78
+    commentsToLikes: 0.038815
+    id: ck0ttvi5q4hsc0i19w6trk0o0
+    verified: true
+    hashtags: "#fitnessmotivation, #homeworkouts, #exercisemotivation, #healthyliving"
+  - username: "casssmartin"
+    fullname: >-
+      Cass Martin
+    bio: >-
+      Health & fitness tips with daily inspiration for your best self journey 👻Casssmartin TicTok- Theecass FREE Workouts⬇️
+    location: "United States"
+    followers: 2054369
+    engagement: 41
+    commentsToLikes: 0.023960
+    id: ck0tzszf9ri700i19u5k9wodk
+    verified: false
+    hashtags: "#fyp, #scottsdale, #phoenix, #reelsinstagram"
   - username: "ryanfitsher"
     fullname: >-
       Ryan Fisher | Fitness
@@ -54,7 +90,7 @@ profiles:
     commentsToLikes: 0.049664
     id: ck5zkqrosjzjb0i14ppr9hhmn
     verified: false
-    hashtags: "#fitspo, #photooftheday, #lifestyle, #exercise"
+    hashtags: "#fit, #training, #fitnessmotivation, #bodybuilding"
   - username: "marioxfitnessx"
     fullname: >-
       MARIO
@@ -66,7 +102,7 @@ profiles:
     commentsToLikes: 0.017834
     id: ck15r3u8560cq0i19zqnfz5b1
     verified: false
-    hashtags: "#bodybuiding, #fitfam, #gym, #fit"
+    hashtags: "#workoutmotivation, #fitfam, #gymlife, #gymmotivation"
   - username: "phoenix_montoya"
     fullname: >-
       Phoenix Montoya
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.008907
     id: ckap91ytaqviw0i78pkk2kfj6
     verified: false
-    hashtags: "#florida, #missouri, #saintlouis, #golf"
-  - username: "ariellegeismar"
-    fullname: >-
-      Arielle Geismar ⚡️🕊
-    bio: >-
-      mental health advocate + digital wellness🌱 fierce jewess. organizer. teen vogue 21under21 home of daily self care check-ins!🌿 nyc / gwu kd
-    location: "United States"
-    followers: 3625
-    engagement: 1744
-    commentsToLikes: 0.079768
-    id: ck5q1ifadb4ux0i11yiottpfd
-    verified: false
-    hashtags: "#selfcare, #talktome, #mentalwellness, #boburnham"
-  - username: "jolenegoring"
-    fullname: >-
-      Jolene Goring 👑 Mrs Arizona
-    bio: >-
-      💖Inspiring high-achieving women to create an indulgent yet healthy life 🌱Whole Health Expert 🎥@usatoday @foxnews 💌 jolene@jolenegoring.com ⬇️My Faves
-    location: "United States"
-    followers: 104830
-    engagement: 648
-    commentsToLikes: 0.019937
-    id: ck5zx5dpv7dmg0i149zaeo67k
-    verified: false
-    hashtags: "#cbd, #wellnessjourney, #cbdwellness, #scottsdaleinfluencer"
-  - username: "sarazork"
-    fullname: >-
-      Sara | Plus Size Blogger
-    bio: >-
-      🖤She/Her 🖤Bisexual Body Positive Queen 🏳️‍🌈 🖤Mental Health 🖤I share my story to help you in yours 🖤Black Lives Matter✊🏻✊🏽✊🏾✊🏿
-    location: "United States"
-    followers: 2911
-    engagement: 987
-    commentsToLikes: 0.211441
-    id: ck5ho4qivoxkg0i11cwkbw16i
-    verified: false
-    hashtags: "#couplegoals, #phoenixblogger, #girlswithtattoos, #plussizestyle"
+    hashtags: "#newyorkcity, #beerisdead, #florida, #whales"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Indonesia In 2023
+title: Top 10 Gaming TikTok Influencers In Indonesia In 2024
 description: >-
-  Find top gaming TikTok influencers in Indonesia in 2023. Most popular hashtags: #gaming #fyp #stitch.
+  Find top gaming TikTok influencers in Indonesia in 2024. Most popular hashtags: #gaming #fyp #stitch.
 platform: TikTok
 hits: 20
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine has 20 TikTok influencers like this in Indonesia for you to contact.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 20 TikTok influencers like this in Indonesia for you to connect with.
 profiles:
   - username: "smartfrenworld"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.026649
     id: ckcdpb9cjbous0j232x8smm2o
     verified: false
-    hashtags: "#art, #foryou, #tiktokindonesia, #indonesia"
+    hashtags: "#drawing, #art, #anime, #foryou"
   - username: "violaheriyanto"
     fullname: >-
       vio🎮

@@ -1,60 +1,72 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Sydney In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Sydney In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Sydney in 2023. Most popular hashtags: #tattoo #backpiece #sydney #snaketattoo.
+  Find top tattoo-artists Instagram influencers in Sydney in 2024. Most popular hashtags: #tattoo #sydneytattooartist #sydney #backpiece.
 platform: Instagram
 hits: 8
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 8 Instagram influencers like this in Sydney, Australia for you to contact.
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 8 Instagram influencers like this in Sydney, Australia for you to pitch.
 profiles:
+  - username: "toddbaileytattoo"
+    fullname: >-
+      Todd Bailey
+    bio: >-
+      ☠️CLEAN & SOBER 🇦🇺AUSSIE BATTLER HAVING A CRACK 👨🏻‍🎨ARTIST & FOUNDER ⛩@thirteenfeettattoo 🏛️ @sydneytattooconvention 🦘SYDNEY,AUSTRALIA
+    location: "Australia"
+    followers: 107273
+    engagement: 9
+    commentsToLikes: 0.017588
+    id: ck14iv73thau90i19tdezj53f
+    verified: false
+    hashtags: "#tattoolife, #thirteenfeettattoo, #tattooinspiration, #tattooideas"
   - username: "alexrusty"
     fullname: >-
       ALEX RUSTY
     bio: >-
-      Artist/owner @Lighthouse_Tattoo in Sydney🇦🇺 •taking bookings for 2021 Enquires: mail@alexrusty.com @australiantattooistsguild @the.p.t.a.a Lic010948
+      Artist/owner @Lighthouse_Tattoo in Sydney🇦🇺 Currently booking in 2022 Enquires: mail@alexrusty.com @australiantattooistsguild @the.p.t.a.a Lic010948
     location: "Australia"
-    followers: 129564
-    engagement: 198
-    commentsToLikes: 0.003905
+    followers: 140666
+    engagement: 228
+    commentsToLikes: 0.006642
     id: ckap8l92uotuk0i78l82kgazb
     verified: false
-    hashtags: "#solidink, #alexrusty, #atg, #backpiece"
+    hashtags: "#irezumitattoos, #backpiecetattoo, #dragontattoo, #japanesetattoos"
   - username: "ryanussher"
     fullname: >-
       Ｒ Ｙ Ａ Ｎ    Ｕ Ｓ Ｓ Ｈ Ｅ Ｒ
     bio: >-
-      Artist/Owner @lighthouse_tattoo SYD-AUS FOR ALL ENQUIRIES PLEASE EMAIL contact@usshertattoos.com @beers_and_bullshit Lic: 102910 TEEK WINT STEVIE ❤️
+      Artist/Owner @lighthouse_tattoo NSW REP @australiantattooistsguild ENQUIRIES: contact@usshertattoos.com @vladbladirons Lic:102910 TEEK WINT STEVIE
     location: "Australia"
-    followers: 132455
-    engagement: 166
-    commentsToLikes: 0.009054
+    followers: 158857
+    engagement: 298
+    commentsToLikes: 0.002960
     id: ck5zvl7444g100i141epyia1t
     verified: false
-    hashtags: ""
+    hashtags: "#vbiproteam, #japaneseartsydney, #lotusneedles, #lighthousetattoostudio"
+  - username: "joekintztattooing"
+    fullname: >-
+      J O E    K I N T Z
+    bio: >-
+      Sydney Australia 🇦🇺🇺🇸 @whistlerstreettattoo @metrixtattoo Pro Team @pachecojiujitsu 🔹🥷
+    location: "Australia"
+    followers: 129370
+    engagement: 145
+    commentsToLikes: 0.002044
+    id: ckap57ezkaick0i78jt3uf0ph
+    verified: false
+    hashtags: "#dotwork, #tattoo, #legtattoo, #dynamicink"
   - username: "_yakisoba_"
     fullname: >-
       𝕭𝖑𝖆𝖐𝖊 𝕾𝖆𝖓𝖙𝖔𝖘
     bio: >-
-      🔌SYDNEY BASED🔌 For bookings 📩 Yakisobatattoo@hotmail.com nO dMs. @radiantcolorsink
+      🔻BOOKINGS-LINK BELOW🔻 ⛓️SYDNEY AUSTRALIA ⛓ 📍@goldentusktattoo📍 🇲🇽 @radiantcolorsink🇲🇽
     location: "Australia"
-    followers: 27856
-    engagement: 97
-    commentsToLikes: 0.023261
+    followers: 62827
+    engagement: 72
+    commentsToLikes: 0.038802
     id: ck5hebmsks2q40i11qu1sam22
     verified: false
-    hashtags: "#yakisobaflow, #illustration, #snakedrawing, #louisvittonbag"
-  - username: "kirk_jones_tattoo"
-    fullname: >-
-      Kirk Jones
-    bio: >-
-      •BOLD & BRIGHT• @goodlucktattoo Melbourne Books open Jan-March. 👇🏼Prints
-    location: "Australia"
-    followers: 153216
-    engagement: 160
-    commentsToLikes: 0.005354
-    id: ck136sbne80vv0i19lar9r1ev
-    verified: false
-    hashtags: "#kirkjonestattoo, #tattooartistmagazine, #oldschool, #tattoosnob"
+    hashtags: "#blackworktattoo, #backpiecetattoo, #australiantattooist, #coiltattoomachine"
   - username: "linda_mua"
     fullname: >-
       Linda Tran
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.015052
     id: ck6uer6m8sm880j71d7o3b9fj
     verified: false
-    hashtags: "#muscle, #naked, #ink, #photoshoot"
+    hashtags: "#beard, #ink, #travel, #sydney"
   - username: "lvdovic"
     fullname: >-
       Ludovic (Aus)
@@ -90,41 +102,29 @@ profiles:
     commentsToLikes: 0.100800
     id: ck5ztue3514yu0i14xz80e8uj
     verified: false
-    hashtags: "#beatportcharts, #blackworktattoo, #producer, #portrait"
-  - username: "missbettyrose"
+    hashtags: "#housemusic, #picoftheday, #tattoo, #nightlife"
+  - username: "lozpicartistry"
     fullname: >-
-      🕷 MISS BETTY ROSE 🕷
+      PERTH MAKEUP ARTIST
     bio: >-
-      ⚡️SYDNEY NAIL ARTIST ⚡️ 💅🏼 PRESS ON NAILS missbettyrose.com.au🐍 🦋 SALON BOOKINGS ⬇️ 🔥ENQUIRIES P: 0421496649 🖤New Location🖤
+      P E R T H M A K E U P A R T I S T ▫️Makeup Artist▫️Brow Tattoo Artist Enquiries & bookings 📧 lozpicartistry@gmail.com 🚫 No Sundays 📍BALDIVIS
     location: "Australia"
-    followers: 61704
-    engagement: 613
-    commentsToLikes: 0.010745
-    id: ck5cigz52smq40i11a9jge18k
+    followers: 27809
+    engagement: 133
+    commentsToLikes: 0.006438
+    id: ck0tyg0almnpw0i19y02jd9zk
     verified: false
-    hashtags: "#glitternails, #nailsoftheday, #nails2inspire, #nailedit"
-  - username: "tattoosbycolin"
+    hashtags: "#perthhairstylist, #makeupartistperth, #makeuplover, #glammakeup"
+  - username: "cocoloberg"
     fullname: >-
-      Colin Woolford
+      COCO LOBERG
     bio: >-
-      Owner Art n Soul Tattoo Studio. Sponsored by @swashdrive_tattoo_official Tattoo artist of celebrities.......*** BOOKS CLOSED for 2021***
+      ❤️ FINE LINE TATTOO ARTIST. PHOTOGRAPHER. WRITER. ❤️ lic no: 103333 Currently Gold Coast Bookings on link
     location: "Australia"
-    followers: 25885
-    engagement: 42
-    commentsToLikes: 0.091237
-    id: ck135nrj22brh0i194yx7muwl
+    followers: 58278
+    engagement: 81
+    commentsToLikes: 0.019058
+    id: ck5bxevdqnlay0i11ojllop1h
     verified: false
-    hashtags: "#tattoo, #ink, #inked, #inkedup"
-  - username: "jacksonmay_tattooist"
-    fullname: >-
-      ℑ A C Ꮶ S Ꮎ N Ṁ A Ꮍ
-    bio: >-
-      ᵀᴬᵀᵀᴼᴼ ᴬᴿᵀᴵˢᵀ ⠀⠀⠀ owner of YOUNGBLOODS Tattoo Studio . PERTH . WA INKJECTA pro team - FUSION INK pro team - DR PICKLES - ZOO TATTOO ❤️CJ 🔒 Carter👶🏼
-    location: "Australia"
-    followers: 36768
-    engagement: 118
-    commentsToLikes: 0.023749
-    id: ck14lh1ggumr30i19lzof971e
-    verified: false
-    hashtags: "#sportscenter, #lakers, #nba, #kobebryant"
+    hashtags: "#finelinetattoo, #tattooartist"
 ---

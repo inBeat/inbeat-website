@@ -1,130 +1,130 @@
 ---
-title: Top 10 Performing Artists Instagram Influencers In 2023
+title: Top 10 Performing Artists Instagram Influencers In 2024
 description: >-
-  Find top performing artists Instagram influencers in 2023. Most popular hashtags: #dancersofinstagram #contemporary #season5.
+  Find top performing artists Instagram influencers in 2024. Most popular hashtags: #music #fyp #hallelujahtothebeat.
 platform: Instagram
-hits: 168
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 168 Instagram influencers like this for you to pitch.
+hits: 178
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 178 Instagram influencers like this for you to contact.
 profiles:
-  - username: "bramboender"
+  - username: "jank_ee"
     fullname: >-
-      Bram Boender
+      Jankee Parekh Mehta
     bio: >-
-      Performing artist & songwriter 🎶 DM me for requests and bookings @xceptionmusic
+      Mumma to @babysufim | Vocalist | Performing Artist For Social Media collabs- @rheagupta26 For Gig Bookings & Enquiries - @krinapari www.jank.ee
+    location: "United Kingdom"
+    followers: 417335
+    engagement: 908
+    commentsToLikes: 0.012754
+    id: ck0ttri2i407n0i19lv77s7z4
+    verified: true
+    hashtags: "#raasgarbawithjankee, #montessoritoddler, #sufiandmaa, #montessoriathome"
+  - username: "stef_mendesidis"
+    fullname: >-
+      Stef Mendesidis
+    bio: >-
+      Live performing artist Bookings: manuela@ad-sound.com
     location: "Netherlands"
-    followers: 29677
-    engagement: 518
-    commentsToLikes: 0.045609
-    id: ck6u5et8s980l0j713pc32jir
+    followers: 54161
+    engagement: 749
+    commentsToLikes: 0.028706
+    id: ck6u2ordpt1ql0j71xp4p72gh
+    verified: false
+    hashtags: "#when150doesntsoundthathardatall, #1080orgasmic, #madewithni, #vibingcrutches"
+  - username: "ridmadw"
+    fullname: >-
+      Ridma Weerawardena
+    bio: >-
+      Singer | Performing Artist | Musician | Wanderer | Travel Enthusiast | Terpsichorean - - Sarungale | සරුංගලේ🪁NOW on all STREAMING PLATFORM Link below👇
+    location: "United States"
+    followers: 51278
+    engagement: 443
+    commentsToLikes: 0.007946
+    id: ck6uelj3yrn6d0j71v596td7n
+    verified: false
+    hashtags: "#music, #ridmaweerawardena, #naadhagama, #nopenenaruwa"
+  - username: "iamraginiprajwal"
+    fullname: >-
+      Ragini Prajwal
+    bio: >-
+      Fitness enthusiast/performing artist/classical dancer/Pilates enthusiast
+    location: "India"
+    followers: 644186
+    engagement: 389
+    commentsToLikes: 0.001446
+    id: ck6tzks3naa7v0j71tmpm2o84
+    verified: false
+    hashtags: "#justpragthings, #prajwaldevaraj, #ganathefilm, #ayatana"
+  - username: "bajanradiokiller"
+    fullname: >-
+      Fantom🇧🇧Dundeal
+    bio: >-
+      Int’l Recording & Performing Artist 🗣️🎙️ MUSTBUSS (Founder)🌍 @evoakrental (co-founder)🇺🇸 ARJAN APTS (co-founder) 🇧🇧
+    location: "United States"
+    followers: 32577
+    engagement: 282
+    commentsToLikes: 0.110250
+    id: ck5zylsepa3t00i14eevpork6
+    verified: false
+    hashtags: "#mustbuss, #fyp, #leggosundays, #cropover2024"
+  - username: "iamcandybleakz"
+    fullname: >-
+      Dragon 🐉
+    bio: >-
+      Last of a dying breed. BadGoodGirl Stream ‘FIRE EP🐉🔥’ 💔🐉GOE Grammy recording academy global spin performing artist All bookings @choccitymusic
+    location: "United States"
+    followers: 990576
+    engagement: 196
+    commentsToLikes: 0.017791
+    id: ck0w0ymwkgoa90i19vv9zp47g
     verified: true
-    hashtags: "#smoorverliefd, #customclarks, #vocals, #thewitcher"
-  - username: "swat_mtoto_wa_eunice"
+    hashtags: "#dragon, #doordie, #2023, #mafe2023"
+  - username: "nataliamusic"
     fullname: >-
-      MTOTO WA EUNICE
+      Natalia Druyts
     bio: >-
-      Recording and performing artist at ethic entertainment For booking call Art 🖌 (customize )+ Tattoo artist For bookings 0748055337
-    location: "United States"
-    followers: 119989
-    engagement: 449
-    commentsToLikes: 0.022043
-    id: ck5cd8o11iqak0i111z67x3ti
-    verified: false
-    hashtags: "#utabaki"
-  - username: "piasutaria"
-    fullname: >-
-      Pia Sutaria
-    bio: >-
-      Performing Artist @royalacademyofmusic MA: Musical Theatre Performance ‘20-21! @icmdindia Founder/ Artistic Director. @royalacademyofdance PDTD, RTS.
-    location: "United States"
-    followers: 54319
-    engagement: 633
-    commentsToLikes: 0.019153
-    id: ck14lto6gwfhs0i19vunm9ghv
-    verified: false
-    hashtags: "#professionaldance, #dancersofinstagram, #danceclass, #dancestudio"
-  - username: "michaelweismanart"
-    fullname: >-
-      𝐌𝐢𝐜𝐡𝐚𝐞𝐥 𝐖𝐞𝐢𝐬𝐦𝐚𝐧
-    bio: >-
-      Original watercolors and mixed-media creations celebrating iconic performing artists, incredible music and vintage glamour.
-    location: "United States"
-    followers: 10006
-    engagement: 576
-    commentsToLikes: 0.053733
-    id: ckaoxaauhch190i789topc9y1
-    verified: false
-    hashtags: "#idrawwhatilove, #hamptonsartist, #wearamask, #originalartwork"
-  - username: "fiona_georgiadi"
-    fullname: >-
-      Fiona Georgiadi
-    bio: >-
-      Actress/Performing Artist 🎭🎬 Athens • New York🤞🏿💃🏻 HB Studio: Uta Hagen Drama School UCL: LLM in European Public Law
-    location: "Greece"
-    followers: 56053
-    engagement: 697
-    commentsToLikes: 0.008798
-    id: ck137owbncmop0i19z5sq9hp5
+      Singer 🇧🇪 HALLELUJAH TO THE BEAT out now! Performing artist Mommy ❤️💙 Coach in The Voice ambassador www.cunina.org Owner of @beaubellesbarbados 🇧🇧🏄🏽🌴
+    location: "Belgium"
+    followers: 371395
+    engagement: 165
+    commentsToLikes: 0.016943
+    id: ck5q6rbj3yjp00i118n7bwba5
     verified: true
-    hashtags: "#season5, #goodtimes, #elastithesimou, #happythanksgivng"
-  - username: "nattygongofficial"
+    hashtags: "#momsdayoff, #hallelujahtothebeat, #showtime, #newmusic"
+  - username: "christieperuso"
     fullname: >-
-      NATTY GONG 🎤 a.k.a Ben'Giro 🇲🇺
+      Christie Peruso
     bio: >-
-      🎙 | Recording/Performing Artist 👑 | New album "ROYAL" out now 📺 | Music Videos Linked Below
-    location: ""
-    followers: 17073
-    engagement: 715
-    commentsToLikes: 0.018986
-    id: ck0u69eh51d2b0i19th7r9fsp
+      Classic Italian Style ♥️ Performing artist and content creator 📽️ Ambassador @visititaly @niafitalianamerican 🇮🇹 Bookings: Celeste 💌 E-Mail below 📃
+    location: "Italy"
+    followers: 34372
+    engagement: 103
+    commentsToLikes: 0.028500
+    id: ck0w220pjm98g0i19k5227w9r
     verified: false
-    hashtags: ""
-  - username: "shapra7"
+    hashtags: "#madeinitaly, #sicilian, #howitalyfeels, #sicula"
+  - username: "owenleuellen4real"
     fullname: >-
-      Prashant Mohan
+      Owen Leuellen
     bio: >-
-      Dance Instructor, Manager and Performing Artist at Shiamak Davar’s Institute for Performing Arts
-    location: ""
-    followers: 8479
-    engagement: 1092
-    commentsToLikes: 0.087308
-    id: ck9wd3hkidwly0j78l7sls6bv
-    verified: false
-    hashtags: "#quarantinepost, #dancevideo, #mumbaidancers, #dancechallenge"
-  - username: "way_of_lau"
-    fullname: >-
-      LAURENZ HOORELBEKE
-    bio: >-
-      📍Antwerp 🗣Performing artist & coach 💪🏼Certified PT 🔁info@laurenzhoorelbeke.be
-    location: "Portugal"
-    followers: 7464
-    engagement: 472
-    commentsToLikes: 0.051273
-    id: ck8tahgx6rrsp0j78aoxcg2v5
-    verified: false
-    hashtags: "#fashion, #idealofsweden, #laurrior, #potd"
-  - username: "kelechiafricana"
-    fullname: >-
-      Call Me Fleek Boss
-    bio: >-
-      ⏩Producer, Song writer, Recording and performing artist ⏩Bookings ⏩Call +254708763521 or ⏩bookingkelechiafricana@gmail.com ⏩RING LINK
-    location: ""
-    followers: 59408
-    engagement: 138
-    commentsToLikes: 0.024836
-    id: ck5qchjzwqlr60i11krcne7uy
-    verified: true
-    hashtags: "#fleek, #fleekmadeit, #callmefleekboss, #iamnairobian"
-  - username: "breeder_lw"
-    fullname: >-
-      PAPA FATHELA🤴🏿🇰🇪
-    bio: >-
-      Rapper | Performing Artist | Entertainer | Entrepreneur "Bei Imepanda" Out Now👇
+      Rapper-Songwriter-Performing Artist XFactor Runner Up-The Voice Kids Winning Coach I Wish I Knew (The Mixtape) OUT! JUICE MUSIC VIDEO OUT NOW! ⬇️LINK
     location: "United States"
-    followers: 122289
-    engagement: 333
-    commentsToLikes: 0.039107
-    id: ck6ucm04wge410j71hmagd3rz
+    followers: 24047
+    engagement: 104
+    commentsToLikes: 0.047404
+    id: ck6ueualpt51f0j71qjva2av6
     verified: false
-    hashtags: "#bazengadaddii, #bazengamentality, #tk, #beiimepanda"
+    hashtags: "#music, #leuellen, #owenleuellen, #rap"
+  - username: "officialiseoluwaabidemi"
+    fullname: >-
+      OLUWAFUNMILAYO ABIDEMI ISEOLUWA
+    bio: >-
+      Recording/Performing Artist. Founder: @official_funmz Founder: Iseoluwa CRA Foundation. #YESICANALBUM Tiktok @officialiseoluwaabidem
+    location: "United Kingdom"
+    followers: 551514
+    engagement: 51
+    commentsToLikes: 0.037076
+    id: ckf5m3e08s3b50j239wm93bkx
+    verified: false
+    hashtags: "#iseoluwa, #biblestudy, #iseoluwaabidemi, #yesican"
 ---

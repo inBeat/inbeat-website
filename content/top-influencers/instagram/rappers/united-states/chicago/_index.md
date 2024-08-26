@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Chicago In 2023
+title: Top 10 Rappers Instagram Influencers In Chicago In 2024
 description: >-
-  Find top rappers Instagram influencers in Chicago in 2023. Most popular hashtags: #rapper #chicago #music #explore.
+  Find top rappers Instagram influencers in Chicago in 2024. Most popular hashtags: #rapper #chicago #rap #explorepage.
 platform: Instagram
-hits: 43
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 43 Instagram influencers like this in Chicago, United States for you to collaborate.
+hits: 52
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 52 Instagram influencers like this in Chicago, United States for you to pitch.
 profiles:
   - username: "mattmuse12"
     fullname: >-
@@ -18,7 +18,31 @@ profiles:
     commentsToLikes: 0.083845
     id: ck55q12ixbv080i110b99lmzx
     verified: false
-    hashtags: "#lollarun, #mlb, #baseball, #thisisrapcenter"
+    hashtags: "#december21st, #whitesox, #shapackpartners, #powers"
+  - username: "natethedonn"
+    fullname: >-
+      Nathan Delva
+    bio: >-
+      MIA | LA📍🇭🇹| mgmt: @cgemtalent | @NovaMEN Ambassador|God 1st| NUPE ♦️|CEO of @envisionapparel_ LONG LIVE OTIS ANDERSON🕊
+    location: "United States"
+    followers: 57915
+    engagement: 384
+    commentsToLikes: 0.029653
+    id: ckxlenbox87x50j23kzcwmx57
+    verified: false
+    hashtags: "#atlanta, #socal, #newmusic, #producer"
+  - username: "flee_kay"
+    fullname: >-
+      OG KK
+    bio: >-
+      Rapper | Sneaker Enthusiast | Song Writer Sneaker Page @fleekickzcustoms 🚯 Business Inquiries: sluglifeent@gmail.com #17 OUT NOW 🥳
+    location: "United States"
+    followers: 7642
+    engagement: 430
+    commentsToLikes: 0.266109
+    id: ckap7wjq2lvl60i78hnzu7aro
+    verified: false
+    hashtags: "#florida, #nike, #instamood, #explorepage"
   - username: "mrwilliamcruse"
     fullname: >-
       Sir Cruse
@@ -31,30 +55,6 @@ profiles:
     id: ck5c6ekj559zm0i11030vuue0
     verified: false
     hashtags: "#barber, #muscles, #tiktok, #chicagosalon"
-  - username: "iamprettylyon"
-    fullname: >-
-      Lyon the Don
-    bio: >-
-      King’s MuVa 💙 Recording Artist 👑🦁 Certified Body Sculptor💰Bookprettylyon@gmail.com💜💪🏽 Owner of @milfyme_ & @sowaistedllc 🔥🔥
-    location: "United States"
-    followers: 33144
-    engagement: 128
-    commentsToLikes: 0.164973
-    id: ck5c6ohwq5v7j0i114h9dvcze
-    verified: false
-    hashtags: "#milleniumtour, #applemusic, #music, #atlantarappers"
-  - username: "flee_kay"
-    fullname: >-
-      OG KK
-    bio: >-
-      Rapper | Sneaker Enthusiast | Song Writer Sneaker Page @fleekickzcustoms 🚯 Business Inquiries: sluglifeent@gmail.com #17 OUT NOW 🥳
-    location: "United States"
-    followers: 7642
-    engagement: 430
-    commentsToLikes: 0.266109
-    id: ckap7wjq2lvl60i78hnzu7aro
-    verified: false
-    hashtags: "#nike, #exploremore, #sneakers, #instadaily"
   - username: "aintyoudevo"
     fullname: >-
       J.Devo
@@ -91,18 +91,30 @@ profiles:
     id: ck6u433xo1err0j7199makhlw
     verified: false
     hashtags: "#dallashiphop, #miamihiphop, #femalerapper, #independentwoman"
-  - username: "walkertkl"
+  - username: "gianniblu"
     fullname: >-
-      WalkerTKL
+      Gianni Blu
     bio: >-
-      Animator and illustrator from Chicago Email me at walkertkl@gmail.com
+      🌎DJ | Producer | Songwriter | 🇮🇹/🇻🇪/🇭🇹 📧 MGMT: Scott@GianniBlu.com 📬 BOOKINGS: Jeremy@royalesociety.com / Management@GianniBlu.com
     location: "United States"
-    followers: 38184
-    engagement: 682
-    commentsToLikes: 0.021287
-    id: ckaoucpmczpus0i7882l8d0g1
-    verified: false
-    hashtags: "#nbahighlights, #mvp, #digitalillustration, #football"
+    followers: 107914
+    engagement: 46
+    commentsToLikes: 0.031345
+    id: ck15rzt7baiv60i19rbn6ef56
+    verified: true
+    hashtags: "#e11evenmiami, #djlife, #gianniblu, #techhouse"
+  - username: "tarhondajay"
+    fullname: >-
+      I am Ta'Rhonda Jones
+    bio: >-
+      Chicago’s daughter but I’m GOD’s Sun too! Actress/Producer/Director/Rapper/Philanthropist/ MasterChef Champ💫President of @blackvillagefoundation
+    location: "United States"
+    followers: 721060
+    engagement: 58
+    commentsToLikes: 0.012525
+    id: ck0tx7s76i54x0i19oet7wh1z
+    verified: true
+    hashtags: "#foodblogger, #ittakesavillage, #perfecttiming, #onstrike"
   - username: "superwillie"
     fullname: >-
       Willie Holmes
@@ -115,16 +127,4 @@ profiles:
     id: ck5q7rdyg2s4w0i11kv9z8umn
     verified: false
     hashtags: "#superwillie, #tulumbeach, #tulummexico, #campfuga"
-  - username: "the_ari_gato"
-    fullname: >-
-      Ariana L. Gato ~ Ari Gato ✨
-    bio: >-
-      Chicago-based Drag Queen 👑 Actor🎭 Dancer 🕺🏽 Recording Artist 🎤 Bookings: thearigato@gmail.com 💃🏽 Cashapp: $thearigato 💸
-    location: "United States"
-    followers: 8151
-    engagement: 1310
-    commentsToLikes: 0.090162
-    id: ck5q3t6o2mbb30i1117j71x06
-    verified: false
-    hashtags: "#catsofinstagram, #localdrag, #chicagoqueens, #mug"
 ---

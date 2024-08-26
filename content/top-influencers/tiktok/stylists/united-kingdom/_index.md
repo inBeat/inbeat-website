@@ -1,11 +1,11 @@
 ---
-title: Top 10 Stylists TikTok Influencers In United Kingdom In 2023
+title: Top 10 Stylists TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top stylists TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #fashion #foryou #stylist.
+  Find top stylists TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #fashion #foryou #stylist.
 platform: TikTok
 hits: 22
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 22 TikTok influencers like this in United Kingdom for you to connect with.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 22 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
   - username: "smfenton"
     fullname: >-
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.031608
     id: ckd0iu9u9f4730j239r2hern6
     verified: false
-    hashtags: "#indianstyle, #makeitdesi, #sareelove, #desiwedd"
+    hashtags: "#desiwedd, #sareelove, #fyp, #indianweddingbuzz"
   - username: "my_petrol_emotion"
     fullname: >-
       Baz Wright

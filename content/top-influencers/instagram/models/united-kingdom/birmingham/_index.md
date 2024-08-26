@@ -1,72 +1,72 @@
 ---
-title: Top 10 Models Instagram Influencers In Birmingham In 2023
+title: Top 10 Models Instagram Influencers In Birmingham In 2024
 description: >-
-  Find top models Instagram influencers in Birmingham in 2023. Most popular hashtags: #model #makeup #instadaily.
+  Find top models Instagram influencers in Birmingham in 2024. Most popular hashtags: #model #fashion #explore.
 platform: Instagram
-hits: 22
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 22 Instagram influencers like this in Birmingham, United Kingdom for you to pitch.
+hits: 28
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database has 28 Instagram influencers like this in Birmingham, United Kingdom for you to work with.
 profiles:
   - username: "ryan_davieshall"
     fullname: >-
-      RYAN DAVIES-HALL
+      Ryan Davies-Hall
     bio: >-
       The Wild One. - Birmingham // UK📍 - Barber // Model - @woodstockmodels 🇬🇧 Enquiries: RYANDAVIESHALL@GMAIL.COM THE BLACK EDITION // OUT NOW
     location: "United Kingdom"
-    followers: 54161
-    engagement: 216
-    commentsToLikes: 0.018766
+    followers: 52726
+    engagement: 284
+    commentsToLikes: 0.017952
     id: ck5bw6tbsl3p10i11omhnc7yr
     verified: false
-    hashtags: "#victoriahouse, #lfw, #model, #londonfashionweek"
-  - username: "kiransingher"
+    hashtags: "#tattoomodel, #pinkhair, #tattoo, #youcantsitwithus"
+  - username: "alicekeay"
     fullname: >-
-      Kiran Kaur Singher
+      Alice Keay
     bio: >-
-      Birmingham, UK 📸Freelance model DM for enquiries, no tfp 🌎33 countries
+      Tiktok- 16.6k @alice_keay Model - @nemesismodels @facemodelandcasting @nemesisdigitaluk
     location: "United Kingdom"
-    followers: 2155
-    engagement: 1192
-    commentsToLikes: 0.059120
-    id: ck5qbrxoun45s0i11oml6tgxm
+    followers: 7840
+    engagement: 202
+    commentsToLikes: 0.057663
+    id: cky43n5m7hnpy0j23i8sb0kuj
     verified: false
-    hashtags: ""
-  - username: "jasellejanee"
+    hashtags: "#ootd, #bondisandsskincare, #gingermodel, #missguided"
+  - username: "kodiemurphy"
     fullname: >-
-      Jaselle🧚🏽‍♀️
+      Kodie Murphy
     bio: >-
-      UAB alumna | Activist | Birmingham Safety Task Force Member | Model | #blacklivesmatter Food page: @foodbyjassss
+      Love Island Season 10🫶🏝️ Birmingham 📍 📧 - Contactkodie@yahoo.com
     location: "United Kingdom"
-    followers: 6904
-    engagement: 897
-    commentsToLikes: 0.057243
-    id: ck5zkfkoxje1f0i147ekts6dj
+    followers: 113995
+    engagement: 699
+    commentsToLikes: 0.008004
+    id: cliu00yszzxjv0j08mvzgka1p
     verified: false
-    hashtags: "#letsshoot, #fashionmodel, #elitemodel, #glossier"
-  - username: "sh0.c0m"
+    hashtags: "#explore, #explorepage, #ad, #mensfashion"
+  - username: "move.with.mica"
     fullname: >-
-      ~{cute but psycho}~ 🍃
+      MICA ALLEN | MIND. BODY. SOUL 🦋
     bio: >-
-      Tattooed lingerie enthusiast🐙 ♡Matt♡ ▪️Aspiring model ▪️piercing & laser apprentice @fallenfromgrace13
+      Helping women physically & mentally transform💪🏽🧠 Founder: @hghclub_ 🥾 Link below for all services & enquiries⬇️ Birmingham 📍
     location: "United Kingdom"
-    followers: 5543
-    engagement: 254
-    commentsToLikes: 0.070280
-    id: ck15t12zufti60i192098yftk
+    followers: 5521
+    engagement: 507
+    commentsToLikes: 0.130525
+    id: cl10kpyw1vxtz0i23ivpif5lw
     verified: false
-    hashtags: "#model, #benefitcosmetics, #aspiringmodel, #girlswithpiercings"
-  - username: "meetthegreers"
+    hashtags: "#oneractive, #model, #london, #bts"
+  - username: "samuelbromwich"
     fullname: >-
-      Meet The Greers
+      Sammy | Birmingham & Beyond ✨
     bio: >-
-      Family of 8 YouTubers 60 Million Video Views 🇬🇧 Birmingham Dad @thedadofficial Mum @motherof6youtubers
+      - Samuel Stephen Bromwich - Just happy 😊 - Model, socialite & reggae icon… Ok, so maybe not the last one, but still - samuelbromwich@googlemail.com ✉️
     location: "United Kingdom"
-    followers: 88007
-    engagement: 609
-    commentsToLikes: 0.023585
-    id: ck8szbdsins1b0j78hdy9j41f
+    followers: 27381
+    engagement: 155
+    commentsToLikes: 0.048878
+    id: ckf5n5oafwuw50j23agau4hco
     verified: false
-    hashtags: "#giveaway, #picoftheday, #ad, #instadaily"
+    hashtags: "#love, #ad, #thehomeofdrinks, #menswear"
   - username: "sarahjadeallenn"
     fullname: >-
       𝑆𝐴𝑅𝐴𝐻 𝐽𝐴𝐷𝐸 𝐴𝐿𝐿𝐸𝑁
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.184291
     id: ckap2edryygwg0i785yn3tm33
     verified: false
-    hashtags: "#uk, #ukblogger, #fff, #fashionblogger"
+    hashtags: "#instaglam, #gifted, #femmeluxe, #fff"
   - username: "mattleachphoto"
     fullname: >-
       Matt Leach
@@ -91,18 +91,6 @@ profiles:
     id: ck0w392g5s7380i19fkaiazc2
     verified: false
     hashtags: "#fashioneditorial, #magazine, #modeling, #fashionphotographer"
-  - username: "liveuptohername"
-    fullname: >-
-      Lexi 🎀
-    bio: >-
-      💃🏽 Latina 📍 Birmingham 🇬🇧 👸🏼- Founder of @lfhairofficial
-    location: "United Kingdom"
-    followers: 31707
-    engagement: 689
-    commentsToLikes: 0.006258
-    id: ck5cik16gsslf0i11w5ovnhua
-    verified: false
-    hashtags: "#happy, #instadaily, #style, #beauty"
   - username: "kalleashatamzin"
     fullname: >-
       KALLEASHA TAMZIN 👽🦄
@@ -119,12 +107,24 @@ profiles:
     fullname: >-
       ZODI
     bio: >-
-      Birmingham Based Drag Performer ✨ THEY/THEM Tipping info: PayPal.me/tanhale Bookings: misszodi@outlook.com @zodiscorner / @alex._.hale20
+      Birmingham Based Drag Performer ✨ 1/6 of @mothers_meetingbham Tipping: PayPal.me/tanhale Bookings: misszodi@outlook.com @zodiscorner / @alex._.hale20
     location: "United Kingdom"
-    followers: 16246
-    engagement: 862
-    commentsToLikes: 0.058879
+    followers: 15847
+    engagement: 841
+    commentsToLikes: 0.049266
     id: ck5pzpxq926tt0i11vedsth6z
     verified: false
-    hashtags: "#ukdrag, #rpdr, #suvabeauty, #photography"
+    hashtags: "#givefacecos, #host, #art, #dragartist"
+  - username: "jatindergrewalmua"
+    fullname: >-
+      Jatinder Grewal
+    bio: >-
+      Makeup Artist 👨🏽‍🎨 📧- j-grewal@hotmail.com 🌎 - WORLDWIDE UK 🇬🇧 🧿 - role model for the @lgbtq
+    location: "United Kingdom"
+    followers: 38304
+    engagement: 392
+    commentsToLikes: 0.012973
+    id: ck5qdtktax9n60i11lv2xx4tn
+    verified: false
+    hashtags: ""
 ---

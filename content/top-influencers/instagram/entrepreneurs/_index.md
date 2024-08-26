@@ -1,24 +1,24 @@
 ---
-title: Top 10 Entrepreneurs Instagram Influencers In 2023
+title: Top 10 Entrepreneurs Instagram Influencers In 2024
 description: >-
-  Find top entrepreneurs Instagram influencers in 2023. Most popular hashtags: #fashion #ad #love.
+  Find top entrepreneurs Instagram influencers in 2024. Most popular hashtags: #fashion #reels #makeup.
 platform: Instagram
-hits: 6456
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 6456 Instagram influencers like this for you to work with.
+hits: 7441
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 7441 Instagram influencers like this for you to pitch.
 profiles:
-  - username: "ossyfitriana"
+  - username: "kostelevision"
     fullname: >-
-      𝐎𝐬𝐬𝐲 𝐅𝐢𝐭𝐫𝐢𝐚𝐧𝐚 | Entrepreneur
+      k-os
     bio: >-
-      Bisnis Tanpa Modal Sapphire Director #4 Fastest Growing Entrepreneur #92 Oriflame Indonesia Butuh pemasukan tambahan?💰 SIGN UP NOW 👇🏻
-    location: "Indonesia"
-    followers: 18703
-    engagement: 280
-    commentsToLikes: 0.027606
-    id: ckaoz6hxfkl5s0i781lnjamfz
+      Entrepreneur
+    location: "Canada"
+    followers: 24853
+    engagement: 264
+    commentsToLikes: 0.044841
+    id: ck6tifa0m0lss0j71bbgjs20s
     verified: false
-    hashtags: "#oriflame, #ceritampasi, #oriflamechangeslives, #oriflameconceptstore"
+    hashtags: "#lyfeisgood, #nirvana, #thelegacyawards, #theloop"
   - username: "je1bc"
     fullname: >-
       Jeremiah Emmanuel BEM
@@ -67,64 +67,64 @@ profiles:
     id: ck9whp2ynywlo0j78lz3k74sm
     verified: false
     hashtags: "#dirumahaja"
-  - username: "dr.siddhant.bhargava"
+  - username: "geniussrblog"
     fullname: >-
-      Dr. Siddhant Bhargava
+      Sabeen Faraz
     bio: >-
-      🧑🏻‍⚕️ Fat-Loss Ninja 😎 Avid Entrepreneur 💼 Running @food.darzee 🧑🏻‍💻 Building @feet.wings 🏋🏻‍♂️ Director @jgsfitnesscentre 🎧 Listen to My Podcast👇🏻
-    location: "India"
-    followers: 551128
-    engagement: 533
-    commentsToLikes: 0.006750
-    id: ck0tvkw48btab0i19fj0y5qew
-    verified: false
-    hashtags: "#ad, #drsidsays, #drsid, #doctor"
-  - username: "brittanylynne"
-    fullname: >-
-      Brittany Mahomes
-    bio: >-
-      Mama • Entrepreneur • @kccurrent Co-Owner Be Kind ♡
+      Founder @dihconcepts Beauty Lover💄Mom 👨‍👨‍👦 | Entrepreneur Luxury Makeup| Fashion| Skincare| Perfume 📍: Virginia, USA 📧 : geniussr2000@gmail.com
     location: "United States"
-    followers: 1151024
-    engagement: 1245
-    commentsToLikes: 0.005755
-    id: cl7rmj03vxmlz0i23j70hhfco
+    followers: 50862
+    engagement: 468
+    commentsToLikes: 0.033347
+    id: ckaozhoiclxns0i781fwvob05
     verified: false
-    hashtags: "#yesicriedtypingthis, #emotionsarebrewing, #happyhalloween, #chiefskingdom"
-  - username: "katebroug"
+    hashtags: "#makeuporganizer, #makeupgeek, #chanelbeauty, #blush"
+  - username: "josiahkhong"
     fullname: >-
-      Kate Broug | Entrepreneur
+      Josiah Khong
     bio: >-
-      Woman of action. Entrepreneur. Pilot. Journalist. Podcast Host. Contributor @entrepreneur. ✉️ Email: kb@katebroug.com
+      💼 Young Entrepreneur 📖 Monash Uni Alumni 🏋🏻 Fitness Coach 🌱 Certified Nutrition Expert 💡 Managed by @alyfegroup Collab: josiahkhong@hotmail.com
     location: "United States"
-    followers: 140609
-    engagement: 438
-    commentsToLikes: 0.028638
-    id: ckxe9prq245ws0j23ak2n6hg7
+    followers: 35880
+    engagement: 6355
+    commentsToLikes: 0.013761
+    id: ck8sy1fvcjef00j785sax5769
     verified: false
-    hashtags: "#tcsnycmarathon, #nyc, #nycmarathon, #aviation"
-  - username: "thatguyslater"
+    hashtags: "#geekfitlab, #alaska, #amwaymy, #gym"
+  - username: "jesscarpenterwrites"
     fullname: >-
-      Slater Young 🇵🇭
+      Jessica Carpenter
     bio: >-
-      Engineer, Real Estate Developer, Entrepreneur. @liteblockph @monterrazas_prime 👇🏼 Skypod 2.0 House Tour 👇🏼
-    location: "Philippines"
-    followers: 755370
-    engagement: 1094
-    commentsToLikes: 0.005032
-    id: ck138wgnpicoe0i19sm2qtg2a
-    verified: true
-    hashtags: "#glassonion, #knivesout, #akillergetaway, #seagaterescue"
-  - username: "marcoparrino"
-    fullname: >-
-      Marco Parrino®
-    bio: >-
-      Digital Creator | Entrepreneur 🌍 Author of “Sicilia è amore” 📖 Proud Sicilian 🍋 📧: Info@marcoparrino.com ORDINA LA TUA COPIA SU: ↙️
-    location: "Italy"
-    followers: 506869
-    engagement: 431
-    commentsToLikes: 0.008122
-    id: ckapck5dy45790i782o7iaowv
+      Texas mom of 3 & wife of an entrepreneur exploring life, food allergies & my books 📚 M.S. Health | CHES🎓 ⤵️Read my newest children’s books here
+    location: "United States"
+    followers: 47220
+    engagement: 12211
+    commentsToLikes: 0.023732
+    id: ckaorsu2dolp00i78tata8c1s
     verified: false
-    hashtags: "#sicily, #oppocrew, #travel, #ad"
+    hashtags: "#toddlermomlife, #momlife, #toddlermom, #poolday"
+  - username: "themayagraves"
+    fullname: >-
+      Maya Graves🇭🇹
+    bio: >-
+      Follower of Christ | Wife | Mother | Entrepreneur Email: Mayaprosserpromo@gmail.com for bookings.
+    location: "United States"
+    followers: 52294
+    engagement: 1254
+    commentsToLikes: 0.013600
+    id: ck5q25f39ecva0i11aehuz9c8
+    verified: false
+    hashtags: "#outfits, #explore, #fashionnova, #styleblogger"
+  - username: "alexandra.nicole"
+    fullname: >-
+      Alexandra Nicole Nolan | Author + Entrepreneur
+    bio: >-
+      🌟 Lifestyle of a Mid-30s Mompreneur 📍 Memphis, TN 👀 Watch Stories for Gold 👀 👄 Author of The Unconventional Entrepreneur 🖤 Founder @thearomahaus
+    location: "United States"
+    followers: 177439
+    engagement: 550
+    commentsToLikes: 0.011890
+    id: ck15t9nyph0k10i19l8gsb9dy
+    verified: false
+    hashtags: "#ad, #thanksgiving, #spookyseason, #romeitaly"
 ---

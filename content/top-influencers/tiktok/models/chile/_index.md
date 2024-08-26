@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Chile In 2023
+title: Top 10 Models TikTok Influencers In Chile In 2024
 description: >-
-  Find top models TikTok influencers in Chile in 2023. Most popular hashtags: #chile #model #fashion #fyp.
+  Find top models TikTok influencers in Chile in 2024. Most popular hashtags: #chile #model #fashion #fyp.
 platform: TikTok
 hits: 20
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: inBeat holds 20 TikTok influencers like this in Chile for you to contact.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our database aggregates 20 TikTok influencers like this in Chile for you to pitch.
 profiles:
   - username: "panchotarud"
     fullname: >-

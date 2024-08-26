@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In South Africa In 2023
+title: Top 10 Gaming TikTok Influencers In South Africa In 2024
 description: >-
-  Find top gaming TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #gaming #foryoupage #funny.
+  Find top gaming TikTok influencers in South Africa in 2024. Most popular hashtags: #fyp #gaming #foryou #foryoupage.
 platform: TikTok
 hits: 32
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our database holds 32 TikTok influencers like this in South Africa for you to work with.
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 32 TikTok influencers like this in South Africa for you to connect with.
 profiles:
   - username: "decxm8"
     fullname: >-

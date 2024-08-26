@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Bangkok In 2023
+title: Top 10 Vegan Instagram Influencers In Bangkok In 2024
 description: >-
-  Find top vegan Instagram influencers in Bangkok in 2023. Most popular hashtags: #vegan #plantbased #buttertiajourney.
+  Find top vegan Instagram influencers in Bangkok in 2024. Most popular hashtags: #vegan #thailand #plantbased.
 platform: Instagram
-hits: 4
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 4 Instagram influencers like this in Bangkok, Thailand for you to connect with.
+hits: 5
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 5 Instagram influencers like this in Bangkok, Thailand for you to collaborate.
 profiles:
   - username: "mymeatlessmeals"
     fullname: >-
@@ -19,30 +19,42 @@ profiles:
     id: ck5hoog7npxh10i11n5zv2zpg
     verified: false
     hashtags: "#sriracha, #vegans, #easyrecipes, #veganeating"
-  - username: "warutthaim"
+  - username: "healthy.dolls"
     fullname: >-
-      Butter Waruttha karchai
+      Pang Saifon
     bio: >-
-      @wsugarfree I’m #plantbased #vegan
+      Do everything in Love 🤍 1 Corinthians 16:14 🥬 Founder @edenerjuice 🌹 Unique, Authentic and irreplaceable . Juice fast, almondmilk 👇🏻
     location: "Thailand"
-    followers: 925331
-    engagement: 50
-    commentsToLikes: 0.002744
-    id: ckaoqpuvcjsz00i78860tdc6y
+    followers: 55650
+    engagement: 258
+    commentsToLikes: 0.026350
+    id: ck5zkbfezj64g0i14gtq5brqw
     verified: false
-    hashtags: "#vegan, #plantbased, #buttertiajourney, #chalalahalloween"
+    hashtags: "#khaoyai, #thailand, #panghealthyroutine, #movenpickkhaoyai"
   - username: "gainmadeline"
     fullname: >-
       Personal Trainer / Athlete
     bio: >-
       Athlete🇹🇭 Line:@gainmadeline2 FB Page:TrainWithGain 🏆2nd-ShawnRho2019 🏆2nd-BenWCSpain2018 🏆2nd-OAAsiaHK2016 🥇Mr.THAILAND2016 Owner:@tammachaat.drink
     location: "Thailand"
-    followers: 8382
-    engagement: 326
-    commentsToLikes: 0.020372
+    followers: 8410
+    engagement: 291
+    commentsToLikes: 0.018402
     id: ck55ox92q9bfr0i11nn8p3w63
     verified: false
-    hashtags: "#muscle, #personaltraining, #gym, #transformation"
+    hashtags: "#diet, #gymlife, #teamgain, #athlete"
+  - username: "healthydiarywithme"
+    fullname: >-
+      ms.self-love, hdwm ✨
+    bio: >-
+      👩🏻‍⚕️Physiotherapist 🌈Heathy(physical&mental health)diary ✨Self-improvement, Healthy Lifestyle 🤍@plamilland 💌for work: DM or click
+    location: "Thailand"
+    followers: 108868
+    engagement: 14
+    commentsToLikes: 0.021293
+    id: ck6u78urfk4u80j71j3hadb2i
+    verified: false
+    hashtags: "#asics, #gourmetmarketthailand, #asicsth, #themallgroup"
   - username: "iankittichai"
     fullname: >-
       Pongtawat Chalermkittichai
@@ -79,30 +91,6 @@ profiles:
     id: ck0w354ygrnn10i19fp5atqqa
     verified: false
     hashtags: "#corgistagram, #myfavcorgi, #noojeemakemerit, #lovecorgi"
-  - username: "aannett"
-    fullname: >-
-      ANNETT A.🐥💚🌴
-    bio: >-
-      Contact Line : @aannett YouTube : Annett A. @veganett.th @dress.matters @heartloomstudio
-    location: "Thailand"
-    followers: 73371
-    engagement: 146
-    commentsToLikes: 0.005760
-    id: ck14ig3gdf87g0i191gqrw5sx
-    verified: false
-    hashtags: "#burberrythailand, #thegiftcreatorsspace, #loverlution, #sangsom"
-  - username: "warutthaim"
-    fullname: >-
-      Butter Waruttha karchai
-    bio: >-
-      @wsugarfree I’m #plantbased #vegan
-    location: "Thailand"
-    followers: 925331
-    engagement: 50
-    commentsToLikes: 0.002744
-    id: ckaoqpuvcjsz00i78860tdc6y
-    verified: false
-    hashtags: "#vegan, #plantbased, #buttertiajourney, #chalalahalloween"
   - username: "mymeatlessmeals"
     fullname: >-
       Vegan Food Tales by a Thai 🌱🇹🇭
@@ -115,16 +103,28 @@ profiles:
     id: ck5hoog7npxh10i11n5zv2zpg
     verified: false
     hashtags: "#sriracha, #vegans, #easyrecipes, #veganeating"
-  - username: "pang.edener"
+  - username: "naphat_nine"
     fullname: >-
-      Pang HealthyRoutine
+      Naphat Siangsomboon นาย ณภัทร
     bio: >-
-      God’s favorite❣️ 🍎 Founder of @edenerjuice Organic ColdpressedJuice & Almond milk 💕 Essential Oil 📚 Integrative Health Coach IIN New Video👇🏻
+      Actor Designer Photographer Golfer Mahidol International College @naphat_nine_film Work Contact Miss Mhoo Line@: @naphat_nine (with@)
     location: "Thailand"
-    followers: 33733
-    engagement: 82
-    commentsToLikes: 0.038938
+    followers: 4166119
+    engagement: 304
+    commentsToLikes: 0.003912
+    id: ck5pxaic9qv600i11vxp4dbng
+    verified: true
+    hashtags: "#islandescape, #coconutisland, #burasarigroup, #poolvilla"
+  - username: "healthy.dolls"
+    fullname: >-
+      Pang Saifon
+    bio: >-
+      Do everything in Love 🤍 1 Corinthians 16:14 🥬 Founder @edenerjuice 🌹 Unique, Authentic and irreplaceable . Juice fast, almondmilk 👇🏻
+    location: "Thailand"
+    followers: 55650
+    engagement: 258
+    commentsToLikes: 0.026350
     id: ck5zkbfezj64g0i14gtq5brqw
     verified: false
-    hashtags: "#youngliving, #panghealthyroutine, #phuketthailand, #vegan"
+    hashtags: "#khaoyai, #thailand, #panghealthyroutine, #movenpickkhaoyai"
 ---

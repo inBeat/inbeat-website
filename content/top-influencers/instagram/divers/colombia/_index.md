@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers Instagram Influencers In Colombia In 2023
+title: Top 10 Divers Instagram Influencers In Colombia In 2024
 description: >-
-  Find top divers Instagram influencers in Colombia in 2023. Most popular hashtags: #tbt #colombia #peru.
+  Find top divers Instagram influencers in Colombia in 2024. Most popular hashtags: #colombia #tbt #peru.
 platform: Instagram
-hits: 51
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 51 Instagram influencers like this in Colombia for you to collaborate.
+hits: 60
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 60 Instagram influencers like this in Colombia for you to pitch.
 profiles:
   - username: "donjuanarango"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ckf5oo7t032zb0j23ipto6o4z
     verified: false
     hashtags: "#red, #detumano, #outfits, #medellin"
-  - username: "karol_lucerov"
-    fullname: >-
-      Karol Jesús Lucero V.❗️
-    bio: >-
-      Tv/Radio Host -Founder @AyudaAlProjimocl Sigan➡️ @FyKtravel @K_mindset21 Businessman Skydiver Diver @KBmusicdj🎧 #Bitcoin Trader📈📕⬇️CEO @Grupo_Luves🚀
-    location: "Colombia"
-    followers: 2548295
-    engagement: 47
-    commentsToLikes: 0.013510
-    id: ck5q5jp5nt7ev0i11ixzxpicf
-    verified: true
-    hashtags: "#sanvalentin, #finde, #goodvibes, #photooftheday"
   - username: "alejandro_jama"
     fullname: >-
       alejandro Montañez🇨🇴
@@ -103,18 +91,6 @@ profiles:
     id: ck0w6egxn86m80i19ytvezjkf
     verified: false
     hashtags: "#fe, #dios, #enero, #graciasdios"
-  - username: "sofia_jaramillo5"
-    fullname: >-
-      Sofia Jaramillo
-    bio: >-
-      Colombian-American Photographer & Filmmaker @natgeoadventure @natgeotravel @julianabicycles #diversifytheoutdoors #elevateBIPOCvoices
-    location: "Colombia"
-    followers: 23395
-    engagement: 294
-    commentsToLikes: 0.018022
-    id: ck5zplqjgsvu50i14nt73m7ah
-    verified: false
-    hashtags: "#wintersports, #ninjasticking, #winteradventures, #skiing"
   - username: "lavozdelhincha.peru"
     fullname: >-
       La Voz del Hincha Peruano 🇵🇪
@@ -127,4 +103,28 @@ profiles:
     id: ck8tbxi4mxkj80j78cpluvs4r
     verified: false
     hashtags: "#claudiopizarro, #jeffersonfarfan, #pericoleon, #per"
+  - username: "fhervargasofficial"
+    fullname: >-
+      F H E R   V A R G A S
+    bio: >-
+      Coach #BailemosConFher WhatsApp 3016358474 (🚫 No Llamadas) Tik Tok 🔻12k? 🙏🏻
+    location: "Colombia"
+    followers: 63083
+    engagement: 53
+    commentsToLikes: 0.055236
+    id: ck8t72aepfe960j788yrrlw29
+    verified: false
+    hashtags: "#bailemosconfher, #bailar, #colombia, #champeta"
+  - username: "eliothalverson"
+    fullname: >-
+      Eliot Halverson
+    bio: >-
+      🏳️‍🌈 Trans Non-Binary (she/her) 🇨🇴 Colombian-American 📍 NYC ⛸ 3x USFS National Champion ✨ Choreographer
+    location: "Colombia"
+    followers: 19957
+    engagement: 803
+    commentsToLikes: 0.025336
+    id: ck6tni5pd9w310j718xp5kqqw
+    verified: false
+    hashtags: "#iceskating, #figureskating, #diversifyice, #choreography"
 ---

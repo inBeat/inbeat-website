@@ -1,11 +1,11 @@
 ---
-title: Top 10 Olympian Athletes Instagram Influencers In Canada In 2023
+title: Top 10 Olympian Athletes Instagram Influencers In Canada In 2024
 description: >-
-  Find top olympian athletes Instagram influencers in Canada in 2023. Most popular hashtags: #fitness #tokyo2020 #athlete #canada.
+  Find top olympian athletes Instagram influencers in Canada in 2024. Most popular hashtags: #athlete #tokyo2020 #olympics #olympian.
 platform: Instagram
-hits: 10
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our platform has 10 Instagram influencers like this in Canada for you to contact.
+hits: 18
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 18 Instagram influencers like this in Canada for you to collaborate.
 profiles:
   - username: "jasonburnett_"
     fullname: >-
@@ -18,7 +18,19 @@ profiles:
     commentsToLikes: 0.020386
     id: ck5q6d745wxj60i11l0wbgn1e
     verified: true
-    hashtags: "#repost, #tokyo2020, #trampoline, #canada"
+    hashtags: "#trampoline, #canada, #tokyo2020, #repost"
+  - username: "gabby_daleman"
+    fullname: >-
+      Gabrielle Daleman 🇨🇦🔒
+    bio: >-
+      Olympic Champion 🥇 3x Canadian Champion 🥇 Miss York Region World 2020-2021 🇨🇦👑 Gabrielle.daleman@dulcedo.com
+    location: "Canada"
+    followers: 105377
+    engagement: 271
+    commentsToLikes: 0.011758
+    id: ck6u3nq1eytrq0j71ybenhv9c
+    verified: true
+    hashtags: "#athlete, #fitness, #training, #olympian"
   - username: "rjohnst6"
     fullname: >-
       Rebecca Johnston
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.015731
     id: ck5c6eg9959qq0i11q51buytu
     verified: true
-    hashtags: "#flames, #nationalpuppyday, #golfseason, #wearivypark"
+    hashtags: "#flames, #sheepadoodle, #stansmithforever, #calgaryviews"
   - username: "johnnymo_7"
     fullname: >-
       John Morris
@@ -43,18 +55,54 @@ profiles:
     id: ck5zmfkchmhef0i14mbv34e0j
     verified: true
     hashtags: "#curling, #lausanne2020, #rockymountains, #ad"
+  - username: "mandybujold"
+    fullname: >-
+      Mandy Bujold
+    bio: >-
+      🥊 2X Olympian 🇨🇦 🤱🏻 Mom 🎤 Speaker 👊 #TeamEverlast @everlastcanada 🎗Founder @championsforcharitykw 👉 @usanaathletes @rbc
+    location: "Canada"
+    followers: 13245
+    engagement: 525
+    commentsToLikes: 0.046240
+    id: ck15qafqv1w1m0i19ssztedhi
+    verified: true
+    hashtags: "#gymlife, #fitness, #athlete, #trainingmotivation"
   - username: "george_ahhh"
     fullname: >-
       Georgia Ellenwood
     bio: >-
-      🇨🇦 Heptathlete Olympian 8xAll American, NCAA Champ Earthlover 🌎 ..Not defined by my sport UA Athlete CAN Fund #150Women Recipient
+      🇨🇦 Heptathlete Olympian Badger Alum; NCAA Champ Earthlover 🌎 ..Not defined by my sport @underarmourca Athlete Gamer 🧝🏼‍♀️
     location: "Canada"
-    followers: 587094
-    engagement: 873
-    commentsToLikes: 0.014362
+    followers: 749061
+    engagement: 598
+    commentsToLikes: 0.014905
     id: ck0vvscydqjkc0i198hfdkgl4
     verified: true
-    hashtags: "#transitionsstylecolours, #underarmour, #giveaway, #uarunning"
+    hashtags: "#reignbodyfuelcreator, #legday, #ad, #athletics"
+  - username: "kait_hawayek"
+    fullname: >-
+      Kaitlin Hawayek, OLY
+    bio: >-
+      Olympian @teamusa 4x US National Medalist Currently 📍Montréal 🎧 K Haw
+    location: "Canada"
+    followers: 34124
+    engagement: 572
+    commentsToLikes: 0.018707
+    id: ck8swyajefmog0j78weu5iro4
+    verified: true
+    hashtags: "#figureskating, #icedancer, #jeanlucbaker, #skater"
+  - username: "evita.griskenas"
+    fullname: >-
+      Evita Griskenas, OLY
+    bio: >-
+      ✨Elegantly Fierce✨ TeamUSA Rhythmic Gymnast 🇺🇸 Tokyo 2020 Olympian 🎌 AA Pan-Am Games Champion🥇 Columbia University ‘24 🦁💙 2 Timothy 2
+    location: "Canada"
+    followers: 15566
+    engagement: 1012
+    commentsToLikes: 0.018504
+    id: ckf5ley6fpc3f0j23xbc3t6c2
+    verified: false
+    hashtags: "#japan, #tokyo2021, #elegantlyfierce, #olympian"
   - username: "julianyeeee"
     fullname: >-
       Julian Yee 茹自杰
@@ -66,65 +114,17 @@ profiles:
     commentsToLikes: 0.004741
     id: ck0ubg503ej8s0i19an3no768
     verified: true
-    hashtags: "#iceskating, #sports, #athlete, #figureskating"
+    hashtags: "#sports, #iceskating, #athlete, #figureskating"
   - username: "ellieblack_"
     fullname: >-
       Ellie Black
     bio: >-
-      🇨🇦 Gymnast | 2x Olympian | ONS | Worlds 🥈 | Pan Am & CWG 🥇 | Halifax ⚓️ @adidasca athlete #RBCOlympian CANFund #150women Contact: mclarke@wearesbx.com
+      🇨🇦 Gymnast | 3x Olympian | ONS | Worlds 🥈 | Pan Am & CWG 🥇 | Halifax ⚓️ @adidasca athlete #RBCOlympian CANFund #150women Contact: mclarke@wearesbx.com
     location: "Canada"
-    followers: 59014
-    engagement: 467
-    commentsToLikes: 0.012002
+    followers: 75536
+    engagement: 783
+    commentsToLikes: 0.010703
     id: ckap19tfftnql0i781cmz001f
     verified: true
-    hashtags: "#teamcanada, #tokyo2021, #createdwithadidas, #readysteadytokyo"
-  - username: "sarahwells400mh"
-    fullname: >-
-      Sarah Wells
-    bio: >-
-      🏃🏼‍♀️ Olympian 🥈 Pan Am Silver Medallist 🎤 Motivational #Speaker 🌟 Founder of the @believeinitiative
-    location: "Canada"
-    followers: 22759
-    engagement: 216
-    commentsToLikes: 0.033174
-    id: ck6uclo3tgc290j71tkkyc168
-    verified: true
-    hashtags: "#growthmindset, #fitness, #futurechangemakers, #believeinitiative"
-  - username: "charleshamelin"
-    fullname: >-
-      Charles Hamelin
-    bio: >-
-      Canadian professional Short Track Speed Skater 4 x Olympian 🥇3 Gold, 🥈1 silver 🥉1 bronze 👑 2018 World Champion 🌏
-    location: "Canada"
-    followers: 30742
-    engagement: 304
-    commentsToLikes: 0.031925
-    id: ck55vh2n4ewl80i11b9gtwd7u
-    verified: true
-    hashtags: "#laprincessevivi, #christmas, #happy, #training"
-  - username: "cbcthenational"
-    fullname: >-
-      CBC News: The National
-    bio: >-
-      Watch The National live at 9 p.m. ET and see more of our stories here ⬇️
-    location: "Canada"
-    followers: 84139
-    engagement: 97
-    commentsToLikes: 0.068170
-    id: ck5q7gbc71f7b0i115c4j7ie7
-    verified: true
-    hashtags: "#covid19, #themoment, #covid, #cbcnews"
-  - username: "gabrielastafford"
-    fullname: >-
-      Gabriela DeBues-Stafford
-    bio: >-
-      Folks call me G and I strive to fulfil that title. Olympian 🇨🇦 6 x Record ⚡️Nike @bowermantc 🏋🏻‍♀️ @kleanathlete 🏳️‍🌈 Queer ⬇️ Podcast
-    location: "Canada"
-    followers: 16762
-    engagement: 1708
-    commentsToLikes: 0.019689
-    id: ck14lo098vmdz0i19vurdqq4d
-    verified: true
-    hashtags: "#likeag, #kleanathlete, #justdoit, #nike"
+    hashtags: "#jagwearpartner, #partner, #tokyo2020ne, #gymnastics"
 ---

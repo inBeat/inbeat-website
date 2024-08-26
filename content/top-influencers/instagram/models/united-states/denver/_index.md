@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Denver In 2023
+title: Top 10 Models Instagram Influencers In Denver In 2024
 description: >-
-  Find top models Instagram influencers in Denver in 2023. Most popular hashtags: #model #denver #denvermodel #chicago.
+  Find top models Instagram influencers in Denver in 2024. Most popular hashtags: #model #photography #denver #denvermodel.
 platform: Instagram
-hits: 74
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 74 Instagram influencers like this in Denver, United States for you to contact.
+hits: 80
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 80 Instagram influencers like this in Denver, United States for you to connect with.
 profiles:
   - username: "unconcupiscent"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck9ha33eraxs00j78euq8hsdo
     verified: false
     hashtags: "#model, #denvermodel, #onestowatch, #dtscoutme"
+  - username: "barbaramacferrin"
+    fullname: >-
+      Barbara MacFerrin Photo Denver
+    bio: >-
+      Award Winning Portrait Photographer Photography Educator Colorado based Headshots: @barbaramacferrinheadshots Boudoir: @belladonnadenver Workshops ⬇️
+    location: "United States"
+    followers: 13697
+    engagement: 569
+    commentsToLikes: 0.044609
+    id: ck5hsl3vbwrma0i11ceywawfq
+    verified: false
+    hashtags: "#portraitmood, #blackmodel, #dancer, #exposuresoftware"
   - username: "colouredcrimson"
     fullname: >-
       ＣＡＴＥ
@@ -55,18 +67,18 @@ profiles:
     id: ckaostjhqt0vx0i78dmcnhpyz
     verified: false
     hashtags: "#taosway, #childrensbook, #taoforkids, #denverauthor"
-  - username: "jaydenkunze"
+  - username: "mariosgavrilis"
     fullname: >-
-      🦋Jay
+      Marios Gavrilis
     bio: >-
-      23 || GEM 💎 + Bottle Waitress + Freelance Model | DM for rates + MUA
+      Actor, Voice Actor, Human. 🎙️Venom | Batman | Donkey Kong Mgmt: Bohemia Group | Voice Agency: DPN Talent Business inquiries⬇️
     location: "United States"
-    followers: 2788
-    engagement: 1638
-    commentsToLikes: 0.069643
-    id: ckap8bgadnnrs0i78eh6te9vt
+    followers: 92873
+    engagement: 412
+    commentsToLikes: 0.036237
+    id: ck9whi84nxz320j7852rfvtz1
     verified: false
-    hashtags: "#denvercolorado, #portraitmood, #gramkilla, #portraitphotography"
+    hashtags: "#schauspieler, #gaming, #streetphotography, #portrait"
   - username: "xheatherbryantx"
     fullname: >-
       Heather Bryant
@@ -79,30 +91,6 @@ profiles:
     id: ck8t0vr1jti880j78zoeskvif
     verified: false
     hashtags: "#choker, #altfashion, #scenehair, #goth"
-  - username: "kirstie.connon.art"
-    fullname: >-
-      Artwork of Kirstie Connon
-    bio: >-
-      Expressing paths of healing through Art Visual Artist based out of Denver, CO. Art available at the link below 👇🏽
-    location: "United States"
-    followers: 23651
-    engagement: 276
-    commentsToLikes: 0.030310
-    id: ck9hco9zvmar00j78ffampxaq
-    verified: false
-    hashtags: "#trippyart, #mandalaartist, #visionarypainter, #mandalaart"
-  - username: "buddie_o"
-    fullname: >-
-      Buddie O 🇳🇬
-    bio: >-
-      Co-Founder of @UESupplyCo 📸 at @buddieophotography 🎵TikTok @buddie_o Represented by @10mgmt Designer | Model | Dancer | Photographer
-    location: "United States"
-    followers: 6155
-    engagement: 876
-    commentsToLikes: 0.060014
-    id: ck6tt76to904w0j710rksesg5
-    verified: false
-    hashtags: "#junebugchallenge, #tiktok, #photodump, #viral"
   - username: "divinenchang"
     fullname: >-
       Divine 🇨🇲
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.158761
     id: ck6u1fzcqliat0j714bmx3c3v
     verified: false
-    hashtags: "#denverfashionweek, #selfpotraitphotograpy, #denverphotographer, #manequin"
+    hashtags: "#denverfashion, #denvermodels, #denvermalemodel, #denverfashionweek"
   - username: "thejordansoto"
     fullname: >-
       Jordan Soto 🔵
@@ -127,4 +115,16 @@ profiles:
     id: ck8t8q5zklcmf0j78mn6ikgpr
     verified: false
     hashtags: "#womensupportingwomen, #fortcollins, #art, #women"
+  - username: "taliacolalancia"
+    fullname: >-
+      Talia Colalancia
+    bio: >-
+      My ONLY account Published/Runway Model/Actor Engineer 🚀 Denver 📍 LA 📍 Miami 📍NYC Bookings & Inquires: 💌 taliacolalancia.contact@gmail.com
+    location: "United States"
+    followers: 66978
+    engagement: 20
+    commentsToLikes: 0.087090
+    id: ck5zxcx2l7s1p0i1421u9uvn9
+    verified: false
+    hashtags: "#outdoors, #italian, #picoftheday, #makeup"
 ---

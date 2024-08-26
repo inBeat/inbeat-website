@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Belgium In 2023
+title: Top 10 Fashion TikTok Influencers In Belgium In 2024
 description: >-
-  Find top fashion TikTok influencers in Belgium in 2023. Most popular hashtags: #fashion #foryou #fyp #outfit.
+  Find top fashion TikTok influencers in Belgium in 2024. Most popular hashtags: #fashion #foryou #fyp #pourtoi.
 platform: TikTok
 hits: 38
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our database holds 38 TikTok influencers like this in Belgium for you to collaborate.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 38 TikTok influencers like this in Belgium for you to collaborate.
 profiles:
   - username: "itsblossomtea"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.010812
     id: ckb9p5ztsjybu0j23cr6mbrlt
     verified: false
-    hashtags: "#vlog, #haul, #fit, #fashion"
+    hashtags: "#vlog, #ad, #fit, #unboxing"
   - username: "mocean__"
     fullname: >-
       Natacha & Melanie
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.012326
     id: ckcuz6tobmnq90j23ocbdaiad
     verified: false
-    hashtags: "#foruyou, #outfits, #viral, #closet"
+    hashtags: "#outfits, #fits, #foryou, #fashion"
   - username: "lolitaoliveri"
     fullname: >-
       Lolita Oliveri
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.046217
     id: ck9flmorloqr70j78bnfjydvl
     verified: false
-    hashtags: "#foryou, #handmade, #smallbusiness, #fyp"
+    hashtags: "#summer, #pourtoi, #foryou, #handmade"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Tokyo In 2023
+title: Top 10 Fashion Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top fashion Instagram influencers in Tokyo in 2023. Most popular hashtags: #fashion #tokyo #ootd #japan.
+  Find top fashion Instagram influencers in Tokyo in 2024. Most popular hashtags: #fashion #tokyo #ootd #japan.
 platform: Instagram
-hits: 319
+hits: 336
 text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 319 Instagram influencers like this in Tokyo, Japan for you to contact.
+text_bottom: Our database holds 336 Instagram influencers like this in Tokyo, Japan for you to collaborate.
 profiles:
   - username: "aaxxy2"
     fullname: >-
@@ -103,6 +103,18 @@ profiles:
     id: ck6ud0oe6ify70j71zsguaa5b
     verified: false
     hashtags: "#100, #2020, #japanese, #mikihouse"
+  - username: "ayaaa0707"
+    fullname: >-
+      ayakaneko
+    bio: >-
+      fashion stylist tokyo YouTube↓
+    location: "Japan"
+    followers: 202033
+    engagement: 132
+    commentsToLikes: 0.001488
+    id: ck134x22lylyc0i197ev8c69o
+    verified: false
+    hashtags: "#mywork, #stylingbyme, #shootingday, #ootd"
   - username: "asami_7.4"
     fullname: >-
       𝐚𝐬𝐚𝐦𝐢💋
@@ -115,16 +127,4 @@ profiles:
     id: ck9wdzn1ahzla0j78g7diin76
     verified: false
     hashtags: "#streetwear, #supremegirl, #nike, #jordan1"
-  - username: "tomoya_hagiwara"
-    fullname: >-
-      𖤓𝕋𝕆𝕄𝕆𝕐𝔸𖤓
-    bio: >-
-      Japan/Tokyo Fashion/Travel 【contact】DM📩 RAUGH Director @raugh___official ⬇︎online shop⬇︎
-    location: "Japan"
-    followers: 20458
-    engagement: 306
-    commentsToLikes: 0.008150
-    id: ck8t4ljc576yo0j780jg5xq3b
-    verified: false
-    hashtags: "#outfit, #nike, #jordan1, #ootd"
 ---

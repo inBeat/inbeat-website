@@ -1,24 +1,24 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Rome In 2023
+title: Top 10 Photographers Instagram Influencers In Rome In 2024
 description: >-
-  Find top photographers Instagram influencers in Rome in 2023. Most popular hashtags: #model #photography #italy #roma.
+  Find top photographers Instagram influencers in Rome in 2024. Most popular hashtags: #model #italy #rome #portrait.
 platform: Instagram
-hits: 136
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 136 Instagram influencers like this in Rome, Italy for you to collaborate.
+hits: 142
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 142 Instagram influencers like this in Rome, Italy for you to contact.
 profiles:
   - username: "claudiafrijiophotographer"
     fullname: >-
       Claudia Frijio Photographer
     bio: >-
-      📷 Photographer 🇮🇹 Rome, Italy 📩 info@claudiafrijio.it or pm
+      📷 Photographer 📍 Rome, Italy 📩 info@claudiafrijio.it or pm
     location: "Italy"
-    followers: 11056
-    engagement: 527
-    commentsToLikes: 0.039744
+    followers: 10675
+    engagement: 37
+    commentsToLikes: 0.171107
     id: ck5c0a0wvsq400i11w8jqmoxk
     verified: false
-    hashtags: ""
+    hashtags: "#newcollection, #madeinitaly, #portraitpage, #beautyroma"
   - username: "salt_and_sugar_lab"
     fullname: >-
       Inna LAButova, Food + Photo
@@ -43,6 +43,18 @@ profiles:
     id: ck8syt2a4lwfh0j78t7koo5je
     verified: false
     hashtags: "#photographyaddict, #photographylover, #nomakeup, #playboybunny"
+  - username: "valeriobenincasa.ph"
+    fullname: >-
+      Valerio
+    bio: >-
+      #Rome based photographer Ambassador @oppoitalia
+    location: "Italy"
+    followers: 30093
+    engagement: 791
+    commentsToLikes: 0.087530
+    id: ck0tt0v6v0o9t0i19e4te8858
+    verified: false
+    hashtags: "#fatalframes, #creativeoptic, #rome, #toneception"
   - username: "danieledd.ph"
     fullname: >-
       Daniele D. T. PH | PORTRAITS
@@ -55,18 +67,6 @@ profiles:
     id: ckap9qhedt8ov0i78duw6u1p6
     verified: false
     hashtags: "#shooting, #fitnessmodel, #modellife, #shootingrange"
-  - username: "ema210m"
-    fullname: >-
-      Emanuele Mariotti
-    bio: >-
-      🏡 Rome, 🇮🇹 📸Photographer 💁🏼‍♂️Model 💥Content Creator Other Account: @bemphotography_ Now on @mtvitalia for @brainbackhome Portfolio 👇🏻
-    location: "Italy"
-    followers: 31769
-    engagement: 1201
-    commentsToLikes: 0.012366
-    id: ck5c5nba13stq0i116p9y1e14
-    verified: false
-    hashtags: "#stromboli, #man, #hoscos, #eolie"
   - username: "marte_ph"
     fullname: >-
       Simone Marte
@@ -103,6 +103,18 @@ profiles:
     id: ck8t9p64gotxo0j78tqoeyfw1
     verified: false
     hashtags: "#photoshop, #mare, #ig, #shooting"
+  - username: "markomorciano"
+    fullname: >-
+      Marko Morciano
+    bio: >-
+      📍Milano - Rome | Travel & Hotels photographer Founder @hidup.tees | @ayellowmark Seen on Wired - Fubiz - Mashable 📩markomorciano@gmail.com
+    location: "Italy"
+    followers: 101150
+    engagement: 97
+    commentsToLikes: 0.014586
+    id: ck5zus4fo2xwq0i14w52d4qu4
+    verified: false
+    hashtags: "#comolake, #albanian, #lagodicomo, #portrait"
   - username: "stevaleri"
     fullname: >-
       𝙎𝙏𝙀𝙁𝘼𝙉𝙊 𝙑𝘼𝙇𝙀𝙍𝙄
@@ -115,16 +127,4 @@ profiles:
     id: ck6tlmlcc68li0j718hi0zbc1
     verified: false
     hashtags: "#roma, #church, #siviglia, #countryside"
-  - username: "photosdaniele"
-    fullname: >-
-      📷 Daniele Cucaro 📷
-    bio: >-
-      📍🌏 Based Rome 📷📸 Photographer and 📽 Videomaker 📪📬 Danieleph@libero.it 📩 🌄🌅 Creative Photography 💡
-    location: "Italy"
-    followers: 85479
-    engagement: 177
-    commentsToLikes: 0.098852
-    id: ck15snfdsdvi70i190ot11np3
-    verified: false
-    hashtags: "#photos, #couples, #roma, #woman"
 ---

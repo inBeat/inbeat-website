@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Denver In 2023
+title: Top 10 Models TikTok Influencers In Denver In 2024
 description: >-
-  Find top models TikTok influencers in Denver in 2023. Most popular hashtags: #fyp #foryou #foryoupage #model.
+  Find top models TikTok influencers in Denver in 2024. Most popular hashtags: #fyp #foryou #foryoupage #model.
 platform: TikTok
 hits: 5
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database has 5 TikTok influencers like this in Denver, United States for you to connect with.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our platform holds 5 TikTok influencers like this in Denver, United States for you to contact.
 profiles:
   - username: "taylor_tj2"
     fullname: >-
@@ -14,11 +14,11 @@ profiles:
       40k Ily guys so much 💕 Email for inquiries Taylorlynnjohn@gmail.com
     location: "United States"
     followers: 41600
-    engagement: 490
-    commentsToLikes: 0.031155
+    engagement: 489
+    commentsToLikes: 0.031147
     id: ckc1zf4kt38520j23c9ajyv6v
     verified: false
-    hashtags: "#modellife, #model, #denver, #bodypositivity"
+    hashtags: "#foryoupage, #bodypositivity, #model, #denver"
   - username: "milehighcaptures"
     fullname: >-
       Tina Soare
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.020675
     id: ckcd3es5c0to50j2320lfjw2h
     verified: false
-    hashtags: "#coloradoweddingphotographer, #coloradowedding, #aruba, #widenthescreen"
+    hashtags: "#coloradoweddingphotographer, #aruba, #colorado, #photographer"
   - username: "whitanddalt"
     fullname: >-
       whitanddalt
@@ -91,18 +91,6 @@ profiles:
     id: ckc8znaabopaf0j23vk9o3mcw
     verified: false
     hashtags: "#foryoupage, #foryou, #teamromeo09, #tiktokindia"
-  - username: "imjustabunchofbees"
-    fullname: >-
-      Bee
-    bio: >-
-      Hi I’m bee They/them Disabled model or at least trying to be
-    location: "United States"
-    followers: 21900
-    engagement: 2038
-    commentsToLikes: 0.101153
-    id: ckcvj1azgwc6e0j233csr6ykz
-    verified: false
-    hashtags: "#stitch, #foryou, #foryoupage, #digitalart"
   - username: "sheltercatmell"
     fullname: >-
       Michelle Pierce
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.115869
     id: ckavo28jhyo4z0j23p7jrv1g7
     verified: false
-    hashtags: "#funny, #mentalhealth, #nonbionary, #kidsoftiktok"
+    hashtags: "#fyp, #duet, #elderemo, #makeup"
   - username: "vittoriald"
     fullname: >-
       vittoriald
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.082399
     id: ckacvl92poalu0i782j8o6f1e
     verified: false
-    hashtags: "#republican, #usa, #fyp, #fy"
+    hashtags: "#usa, #trumptrain, #government, #republican"
+  - username: "josheeirl"
+    fullname: >-
+      Joshee, In Real Life
+    bio: >-
+      Accidental icon. LGBTQ+ role model. A bit confused. Featured Creator at WoahX
+    location: "United States"
+    followers: 134000
+    engagement: 1868
+    commentsToLikes: 0.101190
+    id: ck932hxi5jj170j78ab706tfh
+    verified: false
+    hashtags: "#lgbtq, #stitch, #confessionsofaninfluencer, #over40"
 ---

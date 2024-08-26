@@ -1,12 +1,24 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In France In 2023
+title: Top 10 Cyclists Instagram Influencers In France In 2024
 description: >-
-  Find top cyclists Instagram influencers in France in 2023. Most popular hashtags: #cycling #cyclinglife #bike.
+  Find top cyclists Instagram influencers in France in 2024. Most popular hashtags: #cycling #cyclinglife #fitness.
 platform: Instagram
-hits: 67
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 67 Instagram influencers like this in France for you to collaborate.
+hits: 69
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 69 Instagram influencers like this in France for you to contact.
 profiles:
+  - username: "liane_lippert"
+    fullname: >-
+      Liane Lippert
+    bio: >-
+      Professional Cyclist @movistar_team Current 🇩🇪 Champion
+    location: "France"
+    followers: 58782
+    engagement: 1338
+    commentsToLikes: 0.006723
+    id: ck14kg8nspdbi0i19co518oud
+    verified: false
+    hashtags: "#rodamosjuntos, #watchthefemmes, #tdff2023, #teamdeutschland"
   - username: "yoyo.offredo"
     fullname: >-
       Yoann Offredo
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.041518
     id: ck9ham7i2d2f70j78e2mlpniz
     verified: false
-    hashtags: "#lindalovescycling, #linda, #staysafe, #lifestyle"
+    hashtags: "#linda, #staysafe, #lindalovescycling, #lifestyle"
   - username: "francoispervis"
     fullname: >-
       François PERVIS
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.023222
     id: ck5c10bmyu77x0i1164tzoe3h
     verified: false
-    hashtags: "#instacycling, #cyclinglove, #nopainnogain, #yogapractice"
+    hashtags: "#instabike, #women, #fitnesswomen, #gravelride"
   - username: "paulineferrandprevot"
     fullname: >-
       Pauline FERRAND-PREVOT
@@ -115,16 +127,4 @@ profiles:
     id: ck6tqj2slrr600j71l6ra6sih
     verified: false
     hashtags: "#lovecycling, #fit, #cyclingshot, #cyclingphoto"
-  - username: "marion.vlt"
-    fullname: >-
-      Marion Vlt
-    bio: >-
-      Agrégée d'anglais, cycliste (du dimanche 😅) et maman ✌️ // High school teacher, cyclist and mom✌️ 🇫🇷
-    location: "France"
-    followers: 36949
-    engagement: 253
-    commentsToLikes: 0.029257
-    id: ckaozj4avm40h0i78386fzwh8
-    verified: false
-    hashtags: "#cycling, #workout, #womencycling, #cyclisme"
 ---

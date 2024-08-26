@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Russia In 2023
+title: Top 10 Models Instagram Influencers In Russia In 2024
 description: >-
-  Find top models Instagram influencers in Russia in 2023. Most popular hashtags: #repost #kidsmodel #brunettegirl.
+  Find top models Instagram influencers in Russia in 2024. Most popular hashtags: #model #mood #love.
 platform: Instagram
-hits: 1307
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 1307 Instagram influencers like this in Russia for you to collaborate.
+hits: 1277
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 1277 Instagram influencers like this in Russia for you to collaborate.
 profiles:
   - username: "nasynest"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck6tzd4n0904o0j71alo5sjr9
     verified: false
     hashtags: "#model"
-  - username: "amirakhayy"
+  - username: "polinaband"
     fullname: >-
-      Amira Khayrutdinova
+      Polina | 폴리나
     bio: >-
-      Model & Fitness influencer 📩 contact me: amirakhayrutdinova@gmail.com ambassador @teamsportgala My backup: @amirakhay2 Russia, Kazan 🌏
+      freelance model and stylist in📍Seoul ㅤㅤ fashion & lifestyle influencer ㅤㅤㅤ모델 • 인플루언서 • 촬영 협찬광고 문의 collab — dm portfolio @polyalee
     location: "Russia"
-    followers: 69529
-    engagement: 380
-    commentsToLikes: 0.067689
-    id: ckapbzw691xk60i7837unjlvi
+    followers: 27092
+    engagement: 534
+    commentsToLikes: 0.030890
+    id: ck8sxhmc6hfgk0j78en8d4lnw
     verified: false
-    hashtags: "#fitnessgirls, #teeninfluencer, #selfiegirl, #cutegirlsofinstagram"
-  - username: "taliyusha"
+    hashtags: "#noni, #porecare, #koreanskincareroutine, #ootd"
+  - username: "xxaitmetova"
     fullname: >-
-      TALIA AIBEDULLINA
+      Дарья Хаитметова
     bio: >-
-      model / choreographer / host MISS GRAND RUSSIA 2018 TOP MISS RUSSIA 2016 MISS VOLGA 2016 MISS ALL NATIONS 2019 Cooperation @edgarsaakyan 📩
+      Influencer, model, artist Cooperation @prxxaitmetova Анна
     location: "Russia"
-    followers: 30111
-    engagement: 404
-    commentsToLikes: 0.025161
-    id: ck5q07wei4oh00i11rmh8mf2k
+    followers: 95729
+    engagement: 752
+    commentsToLikes: 0.006321
+    id: ck14il1wxfxy00i19kdzqpf7y
     verified: false
-    hashtags: "#thelandoflegends, #selfietime, #rixosmoments, #model"
-  - username: "shurkus_milana"
+    hashtags: "#loosefits, #liveinlevis, #borninroma, #yellowdream"
+  - username: "elya1p"
     fullname: >-
-      Шуркус Милана
+      Elya Ivanova
     bio: >-
-      Mia Shurkus,🔝Russian model Spb, модель🔛актриса, сотрудничество в direct ✍️ account run by mom
+      actress ,model,stylist founder @21.elbrand Съёмки для брендов Сотрудничество Алина +7-904-272-34-17 dj | beauty | lifestyle | style elya1i@mail.ru
     location: "Russia"
-    followers: 6013
-    engagement: 1480
-    commentsToLikes: 0.102625
-    id: ck9wdv1qshe780j78xnqevk5z
+    followers: 173729
+    engagement: 438
+    commentsToLikes: 0.020708
+    id: ck8sygjlykrj30j78rtfqh5ye
     verified: false
-    hashtags: "#kidsfashiontrends, #repost, #fashionkids, #winter"
-  - username: "galinapolozhiy"
+    hashtags: "#love, #mood, #model, #happy"
+  - username: "veronika_kyshelevaa"
     fullname: >-
-      Galina Polozhiy / МОДЕЛЬ СПБ
+      Модель Москва
     bio: >-
-      Возрастная модель 60 лет Премия🏆 TOP MODEL от журнала GENERATION 📸Фотомодель 👗Модель для рекламы 👯‍♀️Даю частные уроки по моделингу
+      Model Istanbul
     location: "Russia"
-    followers: 8431
-    engagement: 1823
-    commentsToLikes: 0.162791
-    id: ck5hqt7wytoqf0i11rni3x6g5
-    verified: false
-    hashtags: "#repost, #konplott, #krasivo365, #konplottspb"
-  - username: "olga_lovely_baby"
-    fullname: >-
-      Ольга Боровикова
-    bio: >-
-      Оля👱‍♀️- Юная Модель👗 Муром- Москва Россия🇷🇺 5 лет/110 см @top_model_murom @natalia_bor_o мама
-    location: "Russia"
-    followers: 7911
-    engagement: 1887
-    commentsToLikes: 0.067762
-    id: ck15r0na45jtz0i19bn49olxs
+    followers: 111529
+    engagement: 741
+    commentsToLikes: 0.010133
+    id: ck0w4q7cyzura0i19ao67393u
     verified: false
     hashtags: ""
-  - username: "vasiliska2103"
+  - username: "polonaamy"
     fullname: >-
-      Василиса Кузнецова
+      Lera
     bio: >-
-      172 см Модель, актриса Model, actress. Санкт-Петербург Saint Petersburg МА : @eskimomodels Account managed by mom Cотрудничествo в директ
+      Content creator/ Model 📍 Türkiye till September 6 Based in NYC Represented by @vxmedia.nyc 🐶 @flik_dog
     location: "Russia"
-    followers: 6439
-    engagement: 1202
-    commentsToLikes: 0.147477
-    id: ckap5puswcnjn0i78nuqf5j50
+    followers: 173375
+    engagement: 1241
+    commentsToLikes: 0.010208
+    id: ck135u4v138zq0i19dwphksvl
+    verified: false
+    hashtags: "#rougedior, #patriziapepegummy, #hourglasspartner, #kyliecosmeticspartner"
+  - username: "_lika_luk"
+    fullname: >-
+      Lika | STUDENT IN AMERICA🇺🇸
+    bio: >-
+      📍Boston | New York | Model •Помогу поступить в США и выучить английский •Выиграла $510,000 от универа •Clark U’25 •PR @_lika_luk.pr angel0110@list.ru
+    location: "Russia"
+    followers: 28584
+    engagement: 1717
+    commentsToLikes: 0.010683
+    id: ck0tw5pq5e4v60i19it88u5ed
     verified: false
     hashtags: ""
-  - username: "iamprincessnika"
+  - username: "irinaa_kovaleva"
     fullname: >-
-      NIKA
+      I R I N A
     bio: >-
-      👸🏻PRINCESS👸🏻 👑 MRS.EASTERN EUROPE UNIVERSE 2020👑 💎FIFTH ELEMENT💎 🛡AD VICTORIAM🛡 🌟 MODEL🌟
+      Barcelona. @premium_models @kultaustralia digital: mariecaroline@nwm-paris.com
     location: "Russia"
-    followers: 47775
-    engagement: 1823
-    commentsToLikes: 0.043641
-    id: ck0w4th0s0c010i19gvu9buj1
+    followers: 24105
+    engagement: 526
+    commentsToLikes: 0.016708
+    id: ck5hn0y4xmzyz0i115jyyjm9o
     verified: false
-    hashtags: "#belle"
-  - username: "sofia_chemeris"
+    hashtags: "#newarrivals, #soldeoriente"
+  - username: "iza___bell_"
     fullname: >-
-      ⚜️SOFIA CHEMERIS⚜️
+      IzaBell 🤍
     bio: >-
-      MODEL Ukraine, Vinnytsia MA: @qkids_agency 🇺🇦 @katemodels_kids 🇵🇹 Account runs by mum @chemeris2007
+      . born in Armenia 👑🇦🇲🧿 . art critique/Photo model/Designer . 📩For cooperation: direct CEO & founder @iza__bell___
     location: "Russia"
-    followers: 16336
+    followers: 146578
     engagement: 789
-    commentsToLikes: 0.234930
-    id: ck5zs2gi3xp3w0i14sj743f7v
+    commentsToLikes: 0.009215
+    id: ck6uean86psxd0j71l4tvwjd5
+    verified: false
+    hashtags: "#marryme, #marrymearmeni, #shesaidyes, #happybday"
+  - username: "mariaivashkevich"
+    fullname: >-
+      Maria Ivashkevich
+    bio: >-
+      MA: @tmg.management Lifestyle of an international model 🇷🇺🇨🇳🇹🇼🇯🇵🇲🇾 any questions - ᴅɪʀᴇᴄᴛ❣️ 📍currently in China
+    location: "Russia"
+    followers: 106447
+    engagement: 1564
+    commentsToLikes: 0.009710
+    id: ck55o28mf7hg20i11kkifwngw
     verified: false
     hashtags: ""
-  - username: "anastasiyagoulimova_official"
-    fullname: >-
-      Анастасия Гулимова
-    bio: >-
-      •Actress, Model• Moscow. Russia МЕНЯ НЕТ В ОДНОКЛАССНИКАХ И В ТIKTOK МЕНЯ ТОЖЕ НЕТ!
-    location: "Russia"
-    followers: 38539
-    engagement: 1327
-    commentsToLikes: 0.045277
-    id: ck8t6mcdje43t0j78vc7zuk5r
-    verified: false
-    hashtags: "#ny, #brooklynbridge, #newyear, #25"
 ---

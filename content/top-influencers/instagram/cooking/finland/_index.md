@@ -1,36 +1,36 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Finland In 2023
+title: Top 10 Cooking Instagram Influencers In Finland In 2024
 description: >-
-  Find top cooking Instagram influencers in Finland in 2023. Most popular hashtags: #finland #love #cooking #helsinki.
+  Find top cooking Instagram influencers in Finland in 2024. Most popular hashtags: #finland #helsinki #tb.
 platform: Instagram
-hits: 26
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 26 Instagram influencers like this in Finland for you to collaborate.
+hits: 25
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 25 Instagram influencers like this in Finland for you to work with.
 profiles:
-  - username: "heidisohlberg"
+  - username: "vladislava_661"
     fullname: >-
-      Heidi Sohlberg
+      Vladislava Shelygina
     bio: >-
-      ☀️mom | ceo | sport | cooking | baking | lifestyle 📍Espoo / Hki 💻 heidi@h-inthehouse.com
+      The girl next door, Finland🔥🇫🇮 I like video games, cooking and taking photos😊 A lot of more👇
     location: "Finland"
-    followers: 40501
-    engagement: 657
-    commentsToLikes: 0.020334
-    id: ck6toywbfgvme0j71vqwq4hvf
+    followers: 3947919
+    engagement: 339
+    commentsToLikes: 0.017083
+    id: ck8tbw9e3xe6s0j78bjd66lb8
     verified: false
-    hashtags: "#mygirl, #celebrationtime, #nofilter, #happygirl"
-  - username: "jonnalepp"
+    hashtags: ""
+  - username: "lucas_zanotto"
     fullname: >-
-      JONNA LEPPÄNEN
+      Lucas Zanotto
     bio: >-
-      life with my fiancé & 🐶 in Helsinki 🧡 classic style, feel-good moments, vintage bags, simple cooking and interior ✉️ jonnamaista@gmail.com
+      Designer/Artist + Founder of @yatatoy
     location: "Finland"
-    followers: 18394
-    engagement: 548
-    commentsToLikes: 0.009849
-    id: ck5zrioc0wnmj0i14ylk6b5f0
+    followers: 183363
+    engagement: 116
+    commentsToLikes: 0.011829
+    id: ck0uawatmd8pa0i19gk1bkdtu
     verified: false
-    hashtags: "#valioleivonta, #quiltedcoat, #postikortti, #timberland"
+    hashtags: "#kinetic, #artwork, #3d, #satisfying"
   - username: "neahenriiikka"
     fullname: >-
       ♔  𝓝  𝓮  𝓪
@@ -43,18 +43,18 @@ profiles:
     id: ckap7bklyjd5b0i78vads2sbc
     verified: false
     hashtags: "#home, #delicious, #funnyquotes, #weekendvibes"
-  - username: "lottaharala"
+  - username: "actsoininen"
     fullname: >-
-      ʟᴏᴛᴛᴀ ʜᴀʀᴀʟᴀ
+      ACT THANA SOININEN 🇹🇭🇫🇮
     bio: >-
-      100m hurdler 👟@puma athlete 🌱@puhdistamo 🍫@fastfinland 🦄 @celsiussuomi
+      Espoo, Finland 🤍☃️ Collab: Email or DM
     location: "Finland"
-    followers: 56125
-    engagement: 803
-    commentsToLikes: 0.017261
-    id: ck5q5tezhuhw50i1174b4r3o2
-    verified: true
-    hashtags: "#fittarit, #newweek, #athlete, #training"
+    followers: 24291
+    engagement: 339
+    commentsToLikes: 0.044587
+    id: ck55oxgc79bxd0i11adu8c7o2
+    verified: false
+    hashtags: "#estonia, #finland, #hanko, #diorblush"
   - username: "travelsbyhenna"
     fullname: >-
       Henna Pihlaja
@@ -67,54 +67,30 @@ profiles:
     id: ckaozwfdnnpgi0i787e64gqnh
     verified: false
     hashtags: "#travelgram, #summerhouse, #worldtraveller, #lounge"
-  - username: "johanna.tahtinen"
-    fullname: >-
-      JOHANNA | Wellnessmalli 🇫🇮
-    bio: >-
-      ▫️Wellness| Beauty| Lifestyle Kosmetologi & asiantuntija @bloombyjohanna @salonkihenrietta @jeandarcel_finland -35 kg motivation💫 @wellnessmalli.fi 🥉
-    location: "Finland"
-    followers: 16282
-    engagement: 1015
-    commentsToLikes: 0.221908
-    id: ck6uhi6h2999y0j711cdidlro
-    verified: false
-    hashtags: "#wellnessmalli, #hyvinvointi, #wellnessmalli2020, #healthylifestyle"
-  - username: "berndkestler"
-    fullname: >-
-      Bernd Kestler
-    bio: >-
-      German knittertainer, dyer, innovator in Japan. ドイツから来た編み物クリエイターです。 編み物教室: 横浜、東京、名古屋にあります。 FBのグループ「編み物大好き❣️」にも参加して下さい。
-    location: "Finland"
-    followers: 7031
-    engagement: 948
-    commentsToLikes: 0.009482
-    id: ck5c60umb4hxi0i115qxaympx
-    verified: false
-    hashtags: "#handmade, #elegant, #zoom, #photooftheday"
   - username: "wintersunofficial"
     fullname: >-
       Wintersun
     bio: >-
-      Epic Metal from Helsinki🇫🇮 @jariwintersun @teemumantysaari @jukkiskoskinen @asim_searah 🔥 BLACK FRIDAY 25% OFF:
+      Epic Metal from Helsinki🇫🇮 @jariwintersun @teemumantysaari @jukkiskoskinen @asimsearah OFFICIAL MERCHANDISE:
     location: "Finland"
-    followers: 52562
-    engagement: 189
-    commentsToLikes: 0.018353
+    followers: 53603
+    engagement: 235
+    commentsToLikes: 0.019910
     id: ck6tj4qtx20590j71l7vpa01x
     verified: true
-    hashtags: "#asimsearah, #wintersunpatreon, #wintersunpodcast, #wintersun"
-  - username: "tommyramiro"
+    hashtags: "#13, #wintersunpodcast, #asimsearah, #wintersunband"
+  - username: "jitkanovackova"
     fullname: >-
-      𝐓𝐨𝐦𝐦𝐲 𝐎𝐤𝐬𝐚 🇫🇮
+      JITKA NOVACKOVA
     bio: >-
-      🏆 Gladiaattorit 2019 winner 🚨 Professional Firefighter 🏋🏽‍♂️ Physiotherapist 🛡 Ambassador @barebells.fin 📩 tommy.oksa@gmail.com 🎁 Videoviestit memmo🔻
+      • ambasadorka @incien_org Modelka velikosti M, co nerada vyhazuje jídlo a věří, že bez práce nejsou kabelky 🙏 booking@novackova.cz
     location: "Finland"
-    followers: 23407
-    engagement: 1650
-    commentsToLikes: 0.004660
-    id: ck5hoc79lpb5v0i115n4vkm26
-    verified: false
-    hashtags: "#love, #firefighter, #latinopalomies, #girlfriend"
+    followers: 247765
+    engagement: 139
+    commentsToLikes: 0.013815
+    id: ck137l3hwc34a0i19wsc3nuea
+    verified: true
+    hashtags: "#dmbio, #dmcesko, #zdejsemclovekem, #dmlovebrand"
   - username: "valerievenomofficial"
     fullname: >-
       𝖁𝖆𝖑𝖊𝖗𝖎𝖊 𝖁𝖊𝖓𝖔𝖒
@@ -127,4 +103,28 @@ profiles:
     id: ck5zj9aw4h6f50i14th7jhjy6
     verified: false
     hashtags: "#breastreductionsurgery, #throwbackthursday, #queenteam"
+  - username: "kaisamakarainen"
+    fullname: >-
+      Kaisa Mäkäräinen
+    bio: >-
+      Former biathlete from Finland ⚪️⚪️⚪️⚪️⚪️ Looking for new life goal.. 🤔
+    location: "Finland"
+    followers: 183338
+    engagement: 944
+    commentsToLikes: 0.010593
+    id: ck0u6af7p1hum0i197br2nehl
+    verified: true
+    hashtags: "#kontiolahti, #biathlon, #trailrunning, #vuokatti"
+  - username: "sannapikkarainen"
+    fullname: >-
+      Sanna Pikkarainen
+    bio: >-
+      🐈kissat! ☕️kahvi 🐒 Selviytyjät Suomi -kilpailija 🛋 Ex-Sohvaperuna 🎤juontaja/esiintyjä 📹tv-tuotantopersoona 💌 bookings.jarijasanna@gmail.com
+    location: "Finland"
+    followers: 9137
+    engagement: 877
+    commentsToLikes: 0.020915
+    id: ck55midwf40zu0i11nxuzg390
+    verified: false
+    hashtags: "#tb, #pool, #nofilter, #sohvaperunat"
 ---

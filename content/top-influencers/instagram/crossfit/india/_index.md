@@ -1,12 +1,36 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In India In 2023
+title: Top 10 Crossfit Instagram Influencers In India In 2024
 description: >-
-  Find top crossfit Instagram influencers in India in 2023. Most popular hashtags: #fitness #crossfit #instagram #workout.
+  Find top crossfit Instagram influencers in India in 2024. Most popular hashtags: #instagood #instagram #fitness #crossfit.
 platform: Instagram
-hits: 90
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 90 Instagram influencers like this in India for you to contact.
+hits: 95
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 95 Instagram influencers like this in India for you to work with.
 profiles:
+  - username: "sushantfreestyle"
+    fullname: >-
+      Sushant | Indian Freestyle Champion 🇮🇳🏆
+    bio: >-
+      🇮🇳 Freestyle athlete RBSS WORLD FINALIST USA 🇺🇸 2019 CALISTHENICS 💪 CrossFit 🏋️‍♀️ Exploring mountains ⛰️ Cliff diving 🏊‍♂️ I aspire to inspire 🧘‍♂️
+    location: "India"
+    followers: 7324
+    engagement: 1340
+    commentsToLikes: 0.041917
+    id: ck6tkc0ic4el80j71t3cp4c24
+    verified: false
+    hashtags: "#reels, #liveandletlive, #training, #freestyle"
+  - username: "camilita1207"
+    fullname: >-
+      "Camilita" Alejandra Gil
+    bio: >-
+      🇨🇴🇺🇸 Inquires at: Realalejandragil@gmail.com CrossFit @camilita.prive 🔥 . My private web ⬇️🔥🔥⬇️
+    location: "India"
+    followers: 2483055
+    engagement: 46
+    commentsToLikes: 0.012358
+    id: ck5hj6mgsg3lv0i110fuxmbfj
+    verified: true
+    hashtags: "#preworkout, #vacationmode, #14, #energydrink"
   - username: "shivneel_dotcom"
     fullname: >-
       Shivneel
@@ -55,76 +79,52 @@ profiles:
     id: ckap6uo0jhf950i78hyawxv6d
     verified: false
     hashtags: "#repost, #crossfit, #homewod, #fitness"
-  - username: "arushi.handa.official"
+  - username: "vashu_jain_"
     fullname: >-
-      ARUSHI HANDA
+      Vashu Jain
     bio: >-
-      | Alpha woman | ♍️ | My legacy is a never ending curiosity| Divine😇Invincible🙅Books📚Crossfit 🏋️‍♀️ Managed by @pranimedia
+      MTV Roadies KARM YA KAAND WINNER MULTI TALENT COMBAT🚩 ATHLETE|Fighter|CrazyMinded⚠️ Actor🎬 NOT JUST A COMMON GUY 🌟
     location: "India"
-    followers: 534263
-    engagement: 321
-    commentsToLikes: 0.004760
-    id: ck0uc4gx0fyzl0i19h4cfyh6f
+    followers: 105878
+    engagement: 1532
+    commentsToLikes: 0.015187
+    id: ck5pwbll3m1x00i11njswt9mz
     verified: false
-    hashtags: "#bookstagram, #delighteverymoment, #contestalert, #vivov20se"
-  - username: "ajayjeswani88official"
+    hashtags: "#workout, #fitnessmotivation, #workoutmotivation, #instagood"
+  - username: "dev_lohia"
     fullname: >-
-      Ajay Jeswani
+      Dev lohia
     bio: >-
-      FITNESS INFLUENCERS personal trainer Wish me 25 march Dm for brand collaborations contact
+      Natural bodybuilding since 2010, lifelong student of the game. Delhi🇮🇳 Online coach- natural athletes For online coaching-Dm/Email Drug free.
     location: "India"
-    followers: 81448
-    engagement: 163
-    commentsToLikes: 0.026058
-    id: ck8wesk0tejw70j78qfocfgwn
+    followers: 16192
+    engagement: 238
+    commentsToLikes: 0.024220
+    id: ckf5lzgserm960j23wdysmtte
     verified: false
-    hashtags: "#instagood, #lifestyle, #fitnessmodel, #asitisnutrition"
-  - username: "karan.hegiste"
+    hashtags: "#style, #fitnessjourney, #fitlife, #fit"
+  - username: "jugalchoudharyk"
     fullname: >-
-      Karan Hegiste
+      || J U G A L || ♠️
     bio: >-
-      𝐒𝐩𝐫𝐢𝐧𝐭𝐞𝐫⚡...𝐀𝐬𝐢𝐚𝐧 𝐲𝐨𝐮𝐭𝐡 𝐆𝐨𝐥𝐝 𝐦𝐞𝐝𝐚𝐥𝐢𝐬𝐭...𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐌𝐞𝐝𝐚𝐥𝐢𝐬𝐭... 𝐌𝐮𝐦𝐛𝐚𝐢 📍
+      LONG LIVE SIDHU MOOSEWALA 🕊❤️‍🔥 Mumbai 📍 Dm For Paid Promotions 💵
     location: "India"
-    followers: 3442
-    engagement: 2861
-    commentsToLikes: 0.054228
-    id: ck6tyzf7m6r570j71xt6wnbne
+    followers: 54402
+    engagement: 242
+    commentsToLikes: 0.017058
+    id: ckaozgct9lrip0i78wfrswmtk
     verified: false
-    hashtags: "#tracknfield, #strengthathlete, #athleticsvines, #liftheavy"
-  - username: "monikalm"
+    hashtags: "#luxury, #fit, #sport, #pattaya"
+  - username: "farhadshahnawaz"
     fullname: >-
-      Mónica Valentín 😎
+      Farhad Shahnawaz
     bio: >-
-      🧘🏽‍♀️Yoga Teacher ⚽️P.Física de fútbol 🍽Exp Nutrición deportiva 🏋🏽‍♀️Crossfit Addict 📍Almería 📖 Blog 👇🏼
+      A 6.2 man born to make mistakes not to fake perfection!!! • Lifestyle • Fashion • Fitness • Travel
     location: "India"
-    followers: 18334
-    engagement: 394
-    commentsToLikes: 0.082435
-    id: ck5qe0a8ny3vl0i11eu9594i9
-    verified: false
-    hashtags: "#japon, #fitnesslifestyle, #viajar, #recetasana"
-  - username: "vinuchavan_official"
-    fullname: >-
-      V I N U  C H A V A N
-    bio: >-
-      📩DM For Shoots📸🎥 & Collaboration💰 🎬Ishq Pirman Ranglay🎵
-    location: "India"
-    followers: 29381
-    engagement: 256
-    commentsToLikes: 0.064040
-    id: ckaoyvyi9jbwt0i78l9zkshp5
-    verified: false
-    hashtags: "#picoftheday, #happy, #fitnessmotivation, #motivation"
-  - username: "r.clix"
-    fullname: >-
-      R-Clix (Rohit) Studio
-    bio: >-
-      Brand, Editorial, Fitness and Fashion Photography Portfolio & Shoot DM for Enquiry Associate @rohitnl, @_s_raj PUNE | MUM | DEL | BLR
-    location: "India"
-    followers: 18132
-    engagement: 424
-    commentsToLikes: 0.012450
-    id: ck8swhn7pe4dc0j78o62fcf99
-    verified: false
-    hashtags: "#fitnessaddict, #modelingagency, #fashionista, #sport"
+    followers: 64853
+    engagement: 124
+    commentsToLikes: 0.071605
+    id: ck8wfcr5hfj9r0j786q2mo1ba
+    verified: true
+    hashtags: "#muscle, #men, #fitnessmotivation, #fit"
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Montreal In 2023
+title: Top 10 Makeup TikTok Influencers In Montreal In 2024
 description: >-
-  Find top makeup TikTok influencers in Montreal in 2023. Most popular hashtags: #makeup #foryou #montreal #fyp.
+  Find top makeup TikTok influencers in Montreal in 2024. Most popular hashtags: #makeup #fyp #montreal #foryou.
 platform: TikTok
 hits: 25
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 25 TikTok influencers like this in Montreal, Canada for you to work with.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 25 TikTok influencers like this in Montreal, Canada for you to work with.
 profiles:
+  - username: "sarina.srj"
+    fullname: >-
+      Sarina Sroujian
+    bio: >-
+      MTL🦋 BLM PRAY FOR ARMENIA❤️🇦🇲 Business inquiries: hausofsar.influencer@gmail
+    location: "Canada"
+    followers: 25800
+    engagement: 1217
+    commentsToLikes: 0.036417
+    id: ck9dx9akjsciz0j7814mrflao
+    verified: false
+    hashtags: "#fyp, #tiktok, #makeup, #mua"
   - username: "annekrystelgoyerofficial"
     fullname: >-
       Anne Krystel
@@ -18,7 +30,7 @@ profiles:
     commentsToLikes: 0.033204
     id: ck8qe3pseqveb0j7863m12jn0
     verified: false
-    hashtags: "#fragrance, #sexy, #perfume, #parfum"
+    hashtags: "#parfum, #funny, #makeup, #perfume"
   - username: "nicsa16"
     fullname: >-
       ON HIATUS
@@ -31,18 +43,6 @@ profiles:
     id: ckbqnrnzi8klj0j233z30cdkj
     verified: false
     hashtags: "#yumekojabamicosplay, #ddlccosplay, #costest, #anime"
-  - username: "sarina.srj"
-    fullname: >-
-      Sarina Sroujian
-    bio: >-
-      MTL🦋 BLM PRAY FOR ARMENIA❤️🇦🇲 Business inquiries: hausofsar.influencer@gmail
-    location: "Canada"
-    followers: 25800
-    engagement: 1217
-    commentsToLikes: 0.036417
-    id: ck9dx9akjsciz0j7814mrflao
-    verified: false
-    hashtags: "#mua, #foryou, #montreal, #beauty"
   - username: "zabelleeee"
     fullname: >-
       Isabelle
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.041706
     id: ck806vqz3me7r0j78bxtikj1s
     verified: false
-    hashtags: "#greenscreenvideo, #blackcat, #kitten, #model"
+    hashtags: "#greenscreenvideo, #kitten, #model, #blackcat"
   - username: "audreyy_dx"
     fullname: >-
       Audrey-Ann

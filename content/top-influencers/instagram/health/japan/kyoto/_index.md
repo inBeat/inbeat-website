@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health Instagram Influencers In Kyoto In 2023
+title: Top 10 Health Instagram Influencers In Kyoto In 2024
 description: >-
-  Find top health Instagram influencers in Kyoto in 2023. Most popular hashtags: #japanesefood #pr #tokyo #kyoto.
+  Find top health Instagram influencers in Kyoto in 2024. Most popular hashtags: #pr #tokyo #japan #japanesefood.
 platform: Instagram
 hits: 9
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 9 Instagram influencers like this in Kyoto, Japan for you to contact.
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 9 Instagram influencers like this in Kyoto, Japan for you to contact.
 profiles:
   - username: "yoshimayu_"
     fullname: >-
@@ -31,18 +31,30 @@ profiles:
     id: ck5cjozdvv6v90i11oxen6en4
     verified: false
     hashtags: "#ouchigohanlover, #iku, #ikucafe, #wp"
-  - username: "kiki__cafe"
+  - username: "nhkworldjapan"
     fullname: >-
-      キキ。
+      NHK WORLD-JAPAN
     bio: >-
-      ※現在はご近所カフェorテイクアウト情報💐 OZmall @tokyo_joshibu @oimoyasankoshin 他宣伝。 ⚠️無断転載禁止 / Reprint is prohibited. 📩PR等の御依頼は、DM・メールにて承ります。
+      Follow us for the latest from Japan! Official account of NHK, Japan’s public broadcaster. Terms: www3.nhk.or.jp/nhkworld/en/terms 👇 Link of the Month👇
     location: "Japan"
-    followers: 10262
-    engagement: 362
-    commentsToLikes: 0.004005
-    id: ck0ud8pa5io280i19m4vb3ato
+    followers: 337612
+    engagement: 97
+    commentsToLikes: 0.011497
+    id: ck5qatz4ii8mr0i11wtwk7vgx
+    verified: true
+    hashtags: "#learnjapanese, #animeartist, #japaneseanime, #traveljapan"
+  - username: "aesthetic_ys"
+    fullname: >-
+      Yuki Sorci
+    bio: >-
+      ◽️CEO @evolifeapparel ◾️USBB All Japan Mens Physique Overall🏆 ◽️Fmr Pro MMA Fighter👊🏼 ◾️Trader📈 🔹@vqfit 🔹@yavalabs.official 🔹@mycookiedealer
+    location: "Japan"
+    followers: 347088
+    engagement: 247
+    commentsToLikes: 0.004277
+    id: ck5qcepneq7670i11a2jqf9am
     verified: false
-    hashtags: "#foodstagram, #instafood, #healthy, #tokyo"
+    hashtags: "#pt, #fitspo, #muscle, #tokyo"
   - username: "shin_kuroobisan"
     fullname: >-
       黒帯さん^ ^
@@ -67,18 +79,6 @@ profiles:
     id: ck5zse7l7ybx90i14zgu1usog
     verified: false
     hashtags: "#ouchigohanlover, #amazon, #pr, #wp"
-  - username: "nhkworldjapan"
-    fullname: >-
-      NHK WORLD-JAPAN
-    bio: >-
-      Follow us for the latest from Japan! Official account of NHK, Japan’s public broadcaster. #nhkworldjapan Terms: www3.nhk.or.jp/nhkworld/en/terms
-    location: "Japan"
-    followers: 145074
-    engagement: 155
-    commentsToLikes: 0.020476
-    id: ck5qatz4ii8mr0i11wtwk7vgx
-    verified: true
-    hashtags: "#socialdistancing, #discoverjapan, #oishii, #soapandwater"
   - username: "momojuicypeach"
     fullname: >-
       MIDORI❤︎
@@ -115,16 +115,16 @@ profiles:
     id: ck13bqyjqwr1r0i19umbm7h8q
     verified: false
     hashtags: "#pr, #lunchbox, #lunch, #bento"
-  - username: "gabrielasage"
+  - username: "tabesugita"
     fullname: >-
-      Gabby Sage Masuda
+      PIO・ピオ
     bio: >-
-      Japanese American Model Represented by @minellimanagement Mindful living Mental Health Advocate
+      designer @2098.official director @sukisugita mental health advocate Player 2 OUT NOW!
     location: "Japan"
-    followers: 25194
-    engagement: 344
-    commentsToLikes: 0.029850
-    id: ck14jntl0lafx0i19ix71idmh
+    followers: 19349
+    engagement: 349
+    commentsToLikes: 0.013533
+    id: ckf5vv4aoq0dp0j23f2jgilm7
     verified: false
-    hashtags: "#lavendarhair, #lavendarroots, #sundayrileypartner, #sundayswap"
+    hashtags: ""
 ---

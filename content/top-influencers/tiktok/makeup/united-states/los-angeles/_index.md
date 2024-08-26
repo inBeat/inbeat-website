@@ -1,10 +1,10 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Los Angeles In 2023
+title: Top 10 Makeup TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top makeup TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #losangeles #makeup #california.
+  Find top makeup TikTok influencers in Los Angeles in 2024. Most popular hashtags: #fyp #losangeles #makeup #photoshoot.
 platform: TikTok
 hits: 86
-text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_top: Discover the best TikTok influencers on inBeat.
 text_bottom: Our platform holds 86 TikTok influencers like this in Los Angeles, United States for you to contact.
 profiles:
   - username: "maeiiza"
@@ -19,6 +19,18 @@ profiles:
     id: ck9m0z1xackdo0j78wqma3l4f
     verified: false
     hashtags: "#lgbt, #lingerie, #comedy, #fyp"
+  - username: "raeannlangas"
+    fullname: >-
+      Raeann Langas
+    bio: >-
+      She/her Curve Model My vibe: Breakfast Burritos & Bikinis
+    location: "United States"
+    followers: 486400
+    engagement: 916
+    commentsToLikes: 0.014388
+    id: ck8scowjbc2ji0j78pp122baw
+    verified: false
+    hashtags: "#onestepcloser, #widenthescreen, #bikinibreakdown, #midsizefashion"
   - username: "aylin_uyanik"
     fullname: >-
       Aylin
@@ -31,18 +43,6 @@ profiles:
     id: ckb12a3nqqjed0j236ocv9ku0
     verified: false
     hashtags: "#westasian, #middleeastern, #viral, #fyp"
-  - username: "mariaaluisabb"
-    fullname: >-
-      MariaLuisa
-    bio: >-
-      IG: @mariaaluisabb Lifestyle | Fashion | Skincare Thelulubenavides@gmail.com
-    location: "United States"
-    followers: 16300
-    engagement: 460
-    commentsToLikes: 0.040134
-    id: ckb9q730xlspj0j23xo0p4snq
-    verified: false
-    hashtags: "#california, #lifestyle, #beauty, #style"
   - username: "b._.uggies4"
     fullname: >-
       b._.uggies
@@ -115,16 +115,16 @@ profiles:
     id: ck8saxaem4awt0j78l1b68tpi
     verified: true
     hashtags: "#fyp, #aesthetic, #tiktokfashion, #recipe"
-  - username: "drpepperbabi"
+  - username: "leblossomm"
     fullname: >-
-      eva🐞
+      ElizabethBlossom
     bio: >-
-      they/them 💟🕷🧿 goth feminist commie
+      IG: Leblossomm 💓
     location: "United States"
-    followers: 10700
-    engagement: 2324
-    commentsToLikes: 0.052579
-    id: ckdnvh7wnoo8q0j23s77gopqy
+    followers: 13300
+    engagement: 536
+    commentsToLikes: 0.010207
+    id: ckal6da00acxd0i78llvyqfkw
     verified: false
-    hashtags: "#perfectdrink, #thisorthatsblv, #pepsihalftimechallenge, #homeproject"
+    hashtags: "#foryou, #neverfitin, #foryoupage, #viral"
 ---

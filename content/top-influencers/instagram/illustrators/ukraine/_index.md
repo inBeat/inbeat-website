@@ -1,24 +1,12 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Ukraine In 2023
+title: Top 10 Illustrators Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top illustrators Instagram influencers in Ukraine in 2023. Most popular hashtags: #illustration #art #illustrator #characterdesign.
+  Find top illustrators Instagram influencers in Ukraine in 2024. Most popular hashtags: #illustration #art #illustrator #illustrationartist.
 platform: Instagram
-hits: 14
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 14 Instagram influencers like this in Ukraine for you to collaborate.
+hits: 13
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database has 13 Instagram influencers like this in Ukraine for you to pitch.
 profiles:
-  - username: "anni_tett"
-    fullname: >-
-      Tania Yakunova
-    bio: >-
-      🇺🇦 illustrator, artist and ceramic enthusiast 🏆 WIA 2022 and Red Dot Winner ❤️ Domestika course👇 🤓 E-mail for collaboration 📮 yakunova.t@gmail.com
-    location: "Ukraine"
-    followers: 49101
-    engagement: 529
-    commentsToLikes: 0.013505
-    id: ckaotc3ysv9i40i78j4dt2lav
-    verified: false
-    hashtags: "#webillustration, #springillustration, #greetingcarddesign, #summerillustration"
   - username: "kat_branch"
     fullname: >-
       Katerina Branchukova
@@ -91,6 +79,18 @@ profiles:
     id: ck8t5hlt1a6g30j78w17u23is
     verified: false
     hashtags: "#picturebookauthor, #artcollector, #catillustration, #catartist"
+  - username: "kirp2016"
+    fullname: >-
+      Null Design
+    bio: >-
+      Follow my second account @kirp.design
+    location: "Ukraine"
+    followers: 16780
+    engagement: 148
+    commentsToLikes: 0.019892
+    id: ck6u53q717f5i0j71xqvma7rj
+    verified: false
+    hashtags: "#vectorgraphics, #characterdesign, #illustrator, #artwork"
   - username: "nastya_zakko"
     fullname: >-
       Nastya Pilipenko 💫
@@ -103,18 +103,6 @@ profiles:
     id: ckapbv03i1dlk0i7866m2uyj6
     verified: false
     hashtags: "#watercolorart, #art, #illustrationartist, #gallery"
-  - username: "kirp2016"
-    fullname: >-
-      Infographic Paradise Design
-    bio: >-
-      Check out my channel on YouTube:
-    location: "Ukraine"
-    followers: 21035
-    engagement: 239
-    commentsToLikes: 0.018842
-    id: ck6u53q717f5i0j71xqvma7rj
-    verified: false
-    hashtags: "#2d3d, #artwork, #digitalart, #graphicdesigner"
   - username: "art_mcalister"
     fullname: >-
       Artem Shiyan
@@ -127,4 +115,16 @@ profiles:
     id: ck0tv2r6v9oqj0i199v5xo9st
     verified: false
     hashtags: "#arts, #drawings, #drawingselfie, #drawingisfun"
+  - username: "lilys_wonders"
+    fullname: >-
+      Lily🌼
+    bio: >-
+      ✏️illustrator & character designer ✱ commissions: closed!✱ 📮PATREON: (tutorials, step-by-steps & monthly goodie bag)👇
+    location: "Ukraine"
+    followers: 120485
+    engagement: 789
+    commentsToLikes: 0.012487
+    id: ck0w2iox8ok800i19ijdtpxwp
+    verified: false
+    hashtags: "#digitalillustrator, #digitalart, #illustrationoftheday, #procreateartist"
 ---

@@ -1,48 +1,12 @@
 ---
-title: Top 10 Athletes Instagram Influencers In San Francisco In 2023
+title: Top 10 Athletes Instagram Influencers In San Francisco In 2024
 description: >-
-  Find top athletes Instagram influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #athlete #blessed #fitness.
+  Find top athletes Instagram influencers in San Francisco in 2024. Most popular hashtags: #sanfrancisco #athlete #blessed #fitnessmotivation.
 platform: Instagram
-hits: 25
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 25 Instagram influencers like this in San Francisco, United States for you to work with.
+hits: 23
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 23 Instagram influencers like this in San Francisco, United States for you to contact.
 profiles:
-  - username: "cryssaboo"
-    fullname: >-
-      Cryssa 🌺🐉
-    bio: >-
-      Mandalorian ABG 💜💙👾🎮 ⚕️🔫🏋🏽‍♀️🥊🤍💚
-    location: "United States"
-    followers: 15647
-    engagement: 664
-    commentsToLikes: 0.022248
-    id: ck5chej43qmhq0i1149b8h4xm
-    verified: false
-    hashtags: "#tactical, #muaythai, #crossfit, #bobafett"
-  - username: "sanfrankrisco"
-    fullname: >-
-      Kris Hui
-    bio: >-
-      san francisco • sjsu alum @gymshark athlete NEWEST VIDEO ↡ ↡ ↡
-    location: "United States"
-    followers: 51764
-    engagement: 1678
-    commentsToLikes: 0.007308
-    id: ckap55xiqac1d0i78ipx47ct8
-    verified: false
-    hashtags: "#scottyd, #fitness"
-  - username: "ucf_ashley"
-    fullname: >-
-      Ashley Evans
-    bio: >-
-      Athlete/Cheerleader UCF Firestorm & Storm Lhs 22’ @rebelathletic Model 2017-21 @gomeegirl Ambassador
-    location: "United States"
-    followers: 5730
-    engagement: 402
-    commentsToLikes: 0.101619
-    id: ckaowisu694b30i782fyg53qc
-    verified: false
-    hashtags: "#backspot, #rebelathleticwomen, #rebelathleticgirls, #strongisbeautiful"
   - username: "welton.lewis"
     fullname: >-
       Welton
@@ -79,18 +43,42 @@ profiles:
     id: ck0u1t467xtqm0i198zgyih5g
     verified: false
     hashtags: "#strongwomen, #personaltrainer, #mondaymotivation, #christianquotes"
+  - username: "jqskim"
+    fullname: >-
+      Jay Starrett
+    bio: >-
+      🃏Artist. Athlete. Adventurer. 💥MTV Challenge x CBS Survivor💥 🇵🇪Business: Jaystarrettbookings@gmail.com ⬇️Link: StayLoco Clothing,TikTok,Snap
+    location: "United States"
+    followers: 184333
+    engagement: 445
+    commentsToLikes: 0.070109
+    id: ck6txenn6xeib0j71o75nembe
+    verified: true
+    hashtags: "#sanfrancisco, #elderemo, #oahuhikes, #millennial"
   - username: "kirstenalexisadventures"
     fullname: >-
-      Kirsten Alexis
+      Kirsten Alexis | Mountaineer, Skier, Creator
     bio: >-
-      Adventure Athlete 🏄🏻‍♀️ Content Creator Skydiving 🪂 Hiking 🥾 SUP 🌊 Fitness and Health 🏃🏼‍♀️ Founder: @thisadventurelife 🏔 #livefearlessly 🤙🏻
+      Welcome to my highlight reel 📸 Adventure athlete ⛷ Content creator Meniscus surgery recovery/PT ❤️‍🩹 Journey of healing, strength, & purpose 🧘🏼‍♀️
     location: "United States"
-    followers: 21214
-    engagement: 148
-    commentsToLikes: 0.067000
+    followers: 20738
+    engagement: 96
+    commentsToLikes: 0.036191
     id: ck5cfsmt6njyh0i11v2zen0t8
     verified: false
-    hashtags: "#renotahoe, #staylocaltahoe, #womenempowerment, #mindsetiseverything"
+    hashtags: "#livefearlessly, #hikecalifornia, #mtnchicks, #mindsetofgreatness"
+  - username: "ucf_ashley"
+    fullname: >-
+      Ashley Evans
+    bio: >-
+      Athlete/Cheerleader UCF Firestorm & Storm Lhs 22’ @rebelathletic Model 2017-21 @gomeegirl Ambassador
+    location: "United States"
+    followers: 5730
+    engagement: 402
+    commentsToLikes: 0.101619
+    id: ckaowisu694b30i782fyg53qc
+    verified: false
+    hashtags: "#allstarcheer, #sassy, #partnerstunt, #cheerleaders"
   - username: "missfitlq"
     fullname: >-
       Lauren Q - Get Fit With Me
@@ -102,7 +90,7 @@ profiles:
     commentsToLikes: 0.047900
     id: ck6ttbrs39pxb0j71hm3dx9je
     verified: false
-    hashtags: "#pregnancy, #motivation, #pregnant, #motivationalquotes"
+    hashtags: "#letsgo, #challengeaccepted, #ootd, #motivation"
   - username: "iwilliams93"
     fullname: >-
       Ian Williams
@@ -127,4 +115,16 @@ profiles:
     id: ck9h9pzds9hui0j78b2nwl3b3
     verified: false
     hashtags: "#volks, #vwgirl, #goodvibes, #love"
+  - username: "explicit__sports"
+    fullname: >-
+      explicit__sports
+    bio: >-
+      🔍 Past 〰️ Present All edits are done by 📱 〰️Printing and frame work available 🗯Over 255 athlete likes/comments/messages/followers/reposts
+    location: "United States"
+    followers: 14452
+    engagement: 2910
+    commentsToLikes: 0.010298
+    id: ck9wfajdynz4j0j7826nov2om
+    verified: false
+    hashtags: "#timeschange, #tampabaybuccaneers, #sportsedits, #football"
 ---

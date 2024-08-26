@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Singapore In 2023
+title: Top 10 Makeup TikTok Influencers In Singapore In 2024
 description: >-
-  Find top makeup TikTok influencers in Singapore in 2023. Most popular hashtags: #fyp #makeup #tiktoksg #duet.
+  Find top makeup TikTok influencers in Singapore in 2024. Most popular hashtags: #fyp #makeup #tiktoksg #duet.
 platform: TikTok
 hits: 15
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 15 TikTok influencers like this in Singapore for you to collaborate.
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 15 TikTok influencers like this in Singapore for you to work with.
 profiles:
   - username: "livelaughenjoy"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.029916
     id: ckbkva6qbqrd50j233qho2g3g
     verified: false
-    hashtags: "#foryou, #ramadhan, #tiktokindo, #tiktokmy"
+    hashtags: "#foryou, #tiktokindo, #viral, #relatable"
   - username: "fali.shaaa"
     fullname: >-
       𝒇𝒂𝒍𝒊𝒔𝒉𝒂 𝒎.🍫

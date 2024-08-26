@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Canada In 2023
+title: Top 10 Makeup Instagram Influencers In Canada In 2024
 description: >-
-  Find top makeup Instagram influencers in Canada in 2023. Most popular hashtags: #toronto #torontoblogger #torontofashion.
+  Find top makeup Instagram influencers in Canada in 2024. Most popular hashtags: #makeup #hudabeauty #makeupartist #reels.
 platform: Instagram
-hits: 306
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database holds 306 Instagram influencers like this in Canada for you to pitch.
+hits: 690
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 690 Instagram influencers like this in Canada for you to contact.
 profiles:
-  - username: "hh.hager"
+  - username: "mikaelaabree"
     fullname: >-
-      Hager Hanawy | Toronto creator
+      Mikaela Bree
     bio: >-
-      Fashion / Makeup & lifestyle 💌 hagerhanawy@outlook.com 💌 hager@levenagency.co Tiktok: hagerhanawy (155k+)
+      Vancouver - ish ✨🔜 🇫🇷 style | laughs | life pro film makeup artist UGC & Pr: mikaela@mikaelaabree.com @shopohne 💄 @mikaelabmakeup
     location: "Canada"
-    followers: 37108
-    engagement: 777
-    commentsToLikes: 0.008507
-    id: cl13ex4h0z55j0i23b9m02d4x
+    followers: 13942
+    engagement: 647
+    commentsToLikes: 0.154264
+    id: ckt1029wyu10n0j23yx70l0x0
     verified: false
-    hashtags: "#fashionblogger, #explorepage, #pinterest, #torontoblogger"
-  - username: "matthewvanity"
+    hashtags: "#springfashion, #yvr, #affordablefashion, #honduras"
+  - username: "itsgurnaz"
     fullname: >-
-      M A †† H E W V A N I T Y
+      Gurnaz
     bio: >-
-      Just some bitch with some makeup brushes💅🏻 ↠ Creator | Professional MUA ↠ Vancouver ↠ Business | PR inquires - mvanity.info@gmail.com
+      Be kind ❤️ 📍Vancouver🇨🇦 Actor | Creator | Makeup Educator #SephoraSquad 23| Cha Addict ✉️collabs/pr: gurnaz@live.ca
     location: "Canada"
-    followers: 10636
-    engagement: 608
-    commentsToLikes: 0.240392
+    followers: 553512
+    engagement: 1871
+    commentsToLikes: 0.006845
+    id: ck8t9ro1ap3h60j78hljbkhhi
+    verified: false
+    hashtags: "#viralvideos, #vancouverinfluencer, #sephorasquad, #desi"
+  - username: "margo.beauty.edit"
+    fullname: >-
+      Margo🇨🇦 Inspiring Beauty | Lifestyle
+    bio: >-
+      - Skincare & Makeup - Lifestyle and fashion - UGC creator ✉️ PR: olifka777@gmail.com
+    location: "Canada"
+    followers: 9608
+    engagement: 646
+    commentsToLikes: 0.858365
+    id: cl7geid64sj6v0i23cbthgtjq
+    verified: false
+    hashtags: "#protectyourskin, #darkspots, #luxuryskincare, #skincareisselfcare"
+  - username: "__bellabeautyy"
+    fullname: >-
+      isabella🩵
+    bio: >-
+      •blush obsessed | makeup collector 🇨🇦 •dry, acne prone & sensitive skin •📧: bellabeautyymakeup@gmail.com •save $!👇🏻
+    location: "Canada"
+    followers: 24893
+    engagement: 2486
+    commentsToLikes: 0.091653
+    id: cl430i5fwh8jc0i23aqf21gs8
+    verified: false
+    hashtags: "#makeupaesthetic, #pinkaddict, #glowingskin, #rarebeautybyselenagomez"
+  - username: "natasha.thasan"
+    fullname: >-
+      Saree Architect | Apsara 🥥🍄
+    bio: >-
+      📖 DIY drapes, makeups, hair care, travel 📍Toronto > Mexico 👷🏾‍♀️Building @drapetherapy 💌 natashathasan@gmail.com
+    location: "Canada"
+    followers: 189617
+    engagement: 906
+    commentsToLikes: 0.011151
+    id: ck9wfaiponz210j785zjmhti8
+    verified: false
+    hashtags: "#torontoblogger, #drapetherapy, #diyfashion, #saree"
+  - username: "shabydassi"
+    fullname: >-
+      ✨Shaby✨
+    bio: >-
+      MAKEUP & HAIR Artist 🎨 Makeup Expert on @themarilyndenisshow @yourmorning and @ctvottawamorninglive
+    location: "Canada"
+    followers: 7768
+    engagement: 445
+    commentsToLikes: 0.156992
+    id: ck55nzqfa7c6y0i115dqo48jx
+    verified: false
+    hashtags: "#middleeasterngirl, #makeupbyshaby, #promakeupartist, #reels"
+  - username: "matthewklyne"
+    fullname: >-
+      MA††HEW KLYNE
+    bio: >-
+      makeup is for boys too professional artist🎨 📍 vancouver, canada 💌: mklyne.info@gmail.com
+    location: "Canada"
+    followers: 9790
+    engagement: 648
+    commentsToLikes: 0.235899
     id: ckap8sztnpr1j0i78vp902jz6
     verified: false
-    hashtags: "#plouise, #hudabeauty, #crueltyfree, #profiltrhydratingfoundation"
-  - username: "noordabashh"
+    hashtags: "#anastasiasoare, #plouise, #plouisebase, #charlottetilbury"
+  - username: "mia.page.mk"
     fullname: >-
-      Noor <3
+      Mia Page
     bio: >-
-      Calgary, AB Sc→noordabash TikTok→noordabashh (3.8M+) (business inquiry only) email below ↓ Click below to try the @makeupforever Step 1 Primers ↓
+      Makeup enthusiast mia.page.mua@hotmail.com YouTube channel / New video every Monday ⬇️
     location: "Canada"
-    followers: 136798
-    engagement: 1381
-    commentsToLikes: 0.012953
-    id: ck8weudnsemg70j78bwycmcld
+    followers: 11018
+    engagement: 637
+    commentsToLikes: 0.032513
+    id: cl430i8twhbb10i23hlxslu6z
     verified: false
-    hashtags: "#miraculousladybug, #explorepage, #modelling, #canada"
-  - username: "roralovestrand"
+    hashtags: "#whiteeyelinerpencil, #colormakeup, #graphiclinerlook, #dazedbeauty"
+  - username: "bushra.aly.7"
     fullname: >-
-      Aurora Lovestrand
+      Bushra Kazim
     bio: >-
-      Toronto, ON 📍 makeup and hair tutorials and inspo 🦋 TikTok- auroralovestrand 💛 Aurora.Caughlin@gmail.com 💌
+      Passionate MUA at BUSHRA MAKEUP-STUDIO Taking makeup appointments, to book call/messaage on +14163172104 ✨
     location: "Canada"
-    followers: 10142
-    engagement: 682
-    commentsToLikes: 0.058472
-    id: ck14ld763u2wf0i19zl28xugw
+    followers: 40474
+    engagement: 494
+    commentsToLikes: 0.017721
+    id: ck9wg5s8gs0sv0j782qrijn63
     verified: false
-    hashtags: "#physiciansformula, #mymercier, #makeupbymario, #frecklesmakeup"
-  - username: "guneetbenipal"
+    hashtags: "#makeupstudio, #momlife, #pakistanifashion, #welcome"
+  - username: "femmemandyj"
     fullname: >-
-      Gunu 🌸
+      MandyJohal
     bio: >-
-      📍TORONTO 💄 Makeup • Skincare • Fashion 💌 Email for Collabs, Shoots & PR Inquiries 🎵 Tiktok: gunuu07
+      Vancouver HMUA I Actor I Creator I Makeup Educator 📧COLLABS . PR : mandeepjohal101@gmail.com Click ⬇️
     location: "Canada"
-    followers: 4700
-    engagement: 716
-    commentsToLikes: 0.201164
-    id: ckap7d7injk6w0i78ee3qs4iu
+    followers: 1079
+    engagement: 382
+    commentsToLikes: 0.055170
+    id: cktdxnyif8m000j235j1xaf1r
     verified: false
-    hashtags: "#makeupaddict, #torontomakeupartist, #fullglam, #lifestyle"
-  - username: "mylessexton"
-    fullname: >-
-      Myles Sexton
-    bio: >-
-      🌲 - Fashion Nomad 📕 - HIV/AIDS & Sobriety Advocate 🌙 - Aries 📍 - Toronto, Canada 🎨 - Makeup Artist 👠 - Creative Director of @NORDmagazine
-    location: "Canada"
-    followers: 48103
-    engagement: 387
-    commentsToLikes: 0.099564
-    id: ck5qaue35iaq50i114hte529b
-    verified: false
-    hashtags: "#styleinspo, #wearcanadaproud, #gaytoronto, #torontoblogger"
-  - username: "miniinaaz"
-    fullname: >-
-      Naz Rahman
-    bio: >-
-      📍YYC 🇨🇦🇧🇩 Hello@miniinaaz.com ✨Desi Makeup Geek | Autism Advocate | Modest Fashion 🌿Sustainability Enthusiast | Woman in STEM
-    location: "Canada"
-    followers: 38358
-    engagement: 298
-    commentsToLikes: 0.017657
-    id: ck6tnpa9daapy0j71mpvs7lok
-    verified: false
-    hashtags: "#yycbusiness, #yyccalgary, #yyc, #bringyourbeautiful"
-  - username: "pythia.queen"
-    fullname: >-
-      🔮PYTHIA🔮
-    bio: >-
-      ✨Oracular Drag Priestess✨ Artist • Costume Designer Makeup Artist • Drag Performer Montréal, Canada🇨🇦🇬🇷🧿
-    location: "Canada"
-    followers: 16848
-    engagement: 1158
-    commentsToLikes: 0.033079
-    id: ck5qdi2d7vov70i11cz1b0ros
-    verified: false
-    hashtags: "#timburtoncosplay, #lgbt, #drag, #instagay"
-  - username: "estelle_phillips"
-    fullname: >-
-      Estelle Phillips
-    bio: >-
-      💄makeup & brow artist 📍toronto 💌brow & makeup bookings CALL 416-966-6868 🦋PR inquiries: facesbyestelle.info@gmail.com ☁️ @Lac.beauty
-    location: "Canada"
-    followers: 17891
-    engagement: 437
-    commentsToLikes: 0.034914
-    id: ck0udj9kuj6ry0i192rkb1mih
-    verified: false
-    hashtags: "#facesbyestelle"
-  - username: "the.girlfriendexperience"
-    fullname: >-
-      Berlin St. Le Bon
-    bio: >-
-      Trans • Sober • Drag • Makeup 💙💖🤍 #blacktranslivesmatter www.paypal.me/thegfexperience ⬇️Gender affirming fundraiser! ⬇️
-    location: "Canada"
-    followers: 15958
-    engagement: 793
-    commentsToLikes: 0.046071
-    id: ck6tv6i6dkgfr0j71fbtkoxf3
-    verified: false
-    hashtags: "#nyxcosmetics, #callingallcontrolfreaks, #ad, #wakeupmakeup"
+    hashtags: "#model, #kyliejenner, #iluvsarahii, #hudabeauty"
 ---

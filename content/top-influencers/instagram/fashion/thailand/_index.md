@@ -1,12 +1,36 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Thailand In 2023
+title: Top 10 Fashion Instagram Influencers In Thailand In 2024
 description: >-
-  Find top fashion Instagram influencers in Thailand in 2023. Most popular hashtags: #thailand #fashion #quarantine.
+  Find top fashion Instagram influencers in Thailand in 2024. Most popular hashtags: #thailand #travel #fashion.
 platform: Instagram
-hits: 72
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 72 Instagram influencers like this in Thailand for you to collaborate.
+hits: 78
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 78 Instagram influencers like this in Thailand for you to contact.
 profiles:
+  - username: "aannett"
+    fullname: >-
+      annett anthonsen
+    bio: >-
+      Fashion | Beauty | Lifestyle ติดต่อ Line : @aannett (with@) ✉️ : aannett.business@gmail.com TIKTOK : a.annett FB Page : Annett A. พิกัดของ👇🏻💖✨
+    location: "Thailand"
+    followers: 75672
+    engagement: 154
+    commentsToLikes: 0.018693
+    id: ck14ig3gdf87g0i191gqrw5sx
+    verified: false
+    hashtags: "#nespressoth, #summer2022, #brazillianvibes, #aannettootd"
+  - username: "ya.stacey"
+    fullname: >-
+      Stacey 스테이시 🩵
+    bio: >-
+      Trying to sprinkle some positivity on your feed🪄 travel - fashion - lifestyle - posotivity
+    location: "Thailand"
+    followers: 286949
+    engagement: 15
+    commentsToLikes: 0.003994
+    id: ck5zthwkh0fxn0i14vt65gptk
+    verified: false
+    hashtags: "#chiangmai, #chiangmaihotel, #thailandhotel, #loveshein"
   - username: "yuvalohayonn"
     fullname: >-
       𝕐𝕦𝕧𝕒𝕝, 𝕋𝕖𝕝-𝔸𝕧𝕚𝕧, 𝟛𝟘
@@ -31,18 +55,6 @@ profiles:
     id: ck5cee1spkuf50i11ku7bmwu5
     verified: false
     hashtags: "#pregnant, #thailand, #belly, #kohsamui"
-  - username: "venetialamanna"
-    fullname: >-
-      Venetia La Manna
-    bio: >-
-      [she/her] podcaster + fair fashion campaigner host of @atstpodcast co-founder @rememberwhomadethem creator #oootd 💌no work DMs, contact via email tab
-    location: "Thailand"
-    followers: 136674
-    engagement: 1175
-    commentsToLikes: 0.024698
-    id: ck0tur4058cdk0i193esj3fw8
-    verified: true
-    hashtags: "#oootd, #payher, #reels, #sustainablefashion"
   - username: "aniqausmanofficial"
     fullname: >-
       Aniqa Usman
@@ -73,12 +85,12 @@ profiles:
     bio: >-
       Fashion model 🇹🇭 inbox (only for work)
     location: "Thailand"
-    followers: 230386
-    engagement: 107
-    commentsToLikes: 0.012977
+    followers: 231461
+    engagement: 125
+    commentsToLikes: 0.017416
     id: ck0w2j2uyomdv0i19tlixhepu
     verified: false
-    hashtags: "#enjoytheflow, #gostaycation, #gojekthailand"
+    hashtags: "#mysister, #happychopsticksphotography, #happychopstickphotography, #covid"
   - username: "allybunnyruth"
     fullname: >-
       AL RUTH
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.031740
     id: ckaozdrmilfc20i78i6qr6kwg
     verified: false
-    hashtags: "#nofilter, #sportster48, #harleygirl, #sportstergram"
+    hashtags: "#jungletribela, #adventure, #defendergirls, #sportstergram"
   - username: "narong_official"
     fullname: >-
       NARONG KETKAEW
@@ -115,16 +127,4 @@ profiles:
     id: ck5znsainp2520i14tzdryyg3
     verified: false
     hashtags: "#musebymetinee, #choengsam, #weddingdress, #bridaldress"
-  - username: "jjjiina"
-    fullname: >-
-      
-    bio: >-
-      ♡ BA graphic / MA fashion ♡ Work : 099-9299829 (k.sweet) Line : @jjjiina (มี@) / hello.icecream 💌 : hello.jjjiina@gmail.com
-    location: "Thailand"
-    followers: 90038
-    engagement: 184
-    commentsToLikes: 0.001836
-    id: ck15pl9sryfy50i19ps25lx9o
-    verified: false
-    hashtags: "#swift3x, #ggmoodggsnap, #dwinth, #advancednightrepair"
 ---

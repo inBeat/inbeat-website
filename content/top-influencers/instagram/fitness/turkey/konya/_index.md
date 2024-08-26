@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Konya In 2023
+title: Top 10 Fitness Instagram Influencers In Konya In 2024
 description: >-
-  Find top fitness Instagram influencers in Konya in 2023. Most popular hashtags: #fitness #istanbul #tbt #konya.
+  Find top fitness Instagram influencers in Konya in 2024. Most popular hashtags: #istanbul #fitness #tbt #konya.
 platform: Instagram
 hits: 6
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 6 Instagram influencers like this in Konya, Turkey for you to collaborate.
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 6 Instagram influencers like this in Konya, Turkey for you to pitch.
 profiles:
   - username: "mustiyldz07"
     fullname: >-
@@ -79,52 +79,52 @@ profiles:
     id: ck9wfo11lppdp0j78pxyu8j38
     verified: false
     hashtags: "#rusya, #bitlis, #malatya, #sirinevler"
-  - username: "sarah.knsl"
+  - username: "kenan__alii"
     fullname: >-
-      Sarah
+      Kenan Ali
     bio: >-
-      Streetstyle|Fitness|Mindset ERK📍 🎓 MA Digital Marketing 21| ♎️
+      Fitness personal trainer and dietitian
     location: "Turkey"
-    followers: 12119
-    engagement: 417
-    commentsToLikes: 0.091792
-    id: ckapah9uqw3jc0i787sl66q8i
-    verified: false
-    hashtags: "#fashioninspo, #streetstyle, #germanbloggergirls, #denisebobepreset"
-  - username: "sofe_bayaty"
-    fullname: >-
-      sofe Albayaty
-    bio: >-
-      ‏🇮🇶Wrestling champion Iraq🥊 ‏Fitness🏋🏻‍♀️💪🏻 SC:sofe0001👻 ‏Practical makeup💄 Age.25 I live in Turkey🇹🇷 model👖👕
-    location: "Turkey"
-    followers: 22461
-    engagement: 406
-    commentsToLikes: 0.235652
-    id: ckf5mjamou25e0j23iugsnz49
-    verified: false
-    hashtags: "#inspirationalquotes, #explorepage, #iraqi, #basra"
-  - username: "ligiadollha"
-    fullname: >-
-      LIGI DOLLHA🐆
-    bio: >-
-      Public Figure Influencer Fitness model
-    location: "Turkey"
-    followers: 198661
-    engagement: 599
-    commentsToLikes: 0.012366
-    id: ckap0ll6bqu700i78qu9phvpi
+    followers: 92722
+    engagement: 351
+    commentsToLikes: 0.017705
+    id: ck601y7gzgdz00i143qr2b18y
     verified: false
     hashtags: ""
+  - username: "shahriyar_shams"
+    fullname: >-
+      Shahriyar Shams
+    bio: >-
+      Fitness trainer @fitness_club_vipgym Founder of @shams_clothe https://youtu.be/UU43tPRH82M
+    location: "Turkey"
+    followers: 80840
+    engagement: 229
+    commentsToLikes: 0.044913
+    id: ck6ug19rp0ctp0j71rxdu7hoz
+    verified: false
+    hashtags: "#fashiondiary, #lookbook, #dapper, #streetstyle"
   - username: "agirsaglam_fitness"
     fullname: >-
-      AĞIRSAĞLAM
+      Furkan Kaya
     bio: >-
-      Daha güçlü ol, daha iyi görün! Amacım Fitness’a bilimsel yaklaşarak tüm 🇹🇷 Türkiye’yi #ağırsağlam yapmak! Koçluk, program ve mağaza ürünleri için:
+      Kanıta dayalı fitness kanalınız Ağırsağlam 10 yaşında! Koçluk, 🏋🏻‍♂️ programlar ve diyetisyen 🍎 hizmeti için DM 💬 “koçluk” yazın size dönelim! Mağaza:
     location: "Turkey"
-    followers: 138014
-    engagement: 575
-    commentsToLikes: 0.020192
+    followers: 245094
+    engagement: 173
+    commentsToLikes: 0.011922
     id: ck6typgl253jp0j71sauzl4ld
     verified: false
-    hashtags: "#weightlifting, #calisthenics, #bodybuilding, #crossfit"
+    hashtags: "#ramazan, #egzersiz, #sa, #fitness"
+  - username: "pinars0ylu"
+    fullname: >-
+      Pınar
+    bio: >-
+      Kocaeli - İstanbul📍 Türkçe Öğretmeni🎓 Pilates - Fitness Eğitmeni 🌬 📩pinarsoylu@gmail.com Somnio ergo sum..〰 @eventmag Private Club
+    location: "Turkey"
+    followers: 47355
+    engagement: 140
+    commentsToLikes: 0.017533
+    id: ck9wfhzbqowah0j78mguj73sn
+    verified: false
+    hashtags: "#tatil, #photooftheday, #holiday, #travel"
 ---

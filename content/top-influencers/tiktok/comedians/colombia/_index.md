@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Colombia In 2023
+title: Top 10 Comedians TikTok Influencers In Colombia In 2024
 description: >-
-  Find top comedians TikTok influencers in Colombia in 2023. Most popular hashtags: #parati #viral #foryou #fyp.
+  Find top comedians TikTok influencers in Colombia in 2024. Most popular hashtags: #viral #parati #foryou #fyp.
 platform: TikTok
 hits: 246
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our platform holds 246 TikTok influencers like this in Colombia for you to work with.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 246 TikTok influencers like this in Colombia for you to collaborate.
 profiles:
   - username: "__jennylu__"
     fullname: >-

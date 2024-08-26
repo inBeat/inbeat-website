@@ -1,12 +1,24 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Venezuela In 2023
+title: Top 10 Comedians Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top comedians Instagram influencers in Venezuela in 2023. Most popular hashtags: #comedia #standup #risas.
+  Find top comedians Instagram influencers in Venezuela in 2024. Most popular hashtags: #comedia #venezuela #caracas.
 platform: Instagram
-hits: 29
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 29 Instagram influencers like this in Venezuela for you to collaborate.
+hits: 40
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 40 Instagram influencers like this in Venezuela for you to pitch.
 profiles:
+  - username: "eduardotv"
+    fullname: >-
+      Eduardo Santos
+    bio: >-
+      Stand Up Comedian | TV Radio Host | Actor Management @dlsgrouprd - @potenciart_ @airelibreonline 103.7FM/12-2pm L-V @ritmodelamanana 96.5FM/7-10am L-V
+    location: "Venezuela"
+    followers: 158981
+    engagement: 158
+    commentsToLikes: 0.051190
+    id: ck5bzip4fr7y80i11t6k54opb
+    verified: false
+    hashtags: "#talentodls, #radio, #eduardosantos, #republicadominicana"
   - username: "jrjuniorshow"
     fullname: >-
       JR JUNIOR 🎤⚡️
@@ -91,6 +103,18 @@ profiles:
     id: ck8t0olwsspxt0j78894b5bqw
     verified: false
     hashtags: "#standupcomedy, #standup, #comedia, #tbt"
+  - username: "elguajirojairo"
+    fullname: >-
+      Humor chistes risas
+    bio: >-
+      HUMORISTA ZULIANO PARA VENEZUELA Y EL MUNDO. Contrataciones: Vía correo electrónico y por los teléfonos: Elguajirojairo1@gmail.com ‭
+    location: "Venezuela"
+    followers: 401628
+    engagement: 111
+    commentsToLikes: 0.042024
+    id: ck5hdhar8nfep0i111td908ky
+    verified: false
+    hashtags: "#tiktok, #guajiro, #chistes, #camaraescondida"
   - username: "elrobertotv"
     fullname: >-
       Roberto Jaramillo 🇻🇪
@@ -103,28 +127,4 @@ profiles:
     id: ck8wf4yu3f4vq0j781d11wly5
     verified: false
     hashtags: "#amigo, #risas, #venezolano, #cambiospositivos"
-  - username: "fran_hevia"
-    fullname: >-
-      Fran Hevia
-    bio: >-
-      Mi segundo especial de comedia, #EnElActo ya disponible en todas las plataformas.
-    location: "Venezuela"
-    followers: 107707
-    engagement: 473
-    commentsToLikes: 0.009032
-    id: ck5hef37xskqr0i11ys0xitwb
-    verified: true
-    hashtags: "#sincronizalatrompa, #blessed, #semehizof, #fanart"
-  - username: "luikiwiki"
-    fullname: >-
-      Luiki Wiki
-    bio: >-
-      Hago comedia, actúo y cocino en mi casa. También subo memes con soundtrack en mis stories pa alivianar el rato.
-    location: "Venezuela"
-    followers: 34893
-    engagement: 188
-    commentsToLikes: 0.036239
-    id: ck5zuc89723090i14o1hzdt7v
-    verified: true
-    hashtags: "#risas, #comedia, #standupcomedy, #standup"
 ---

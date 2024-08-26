@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Russia In 2023
+title: Top 10 Skincare Instagram Influencers In Russia In 2024
 description: >-
-  Find top skincare Instagram influencers in Russia in 2023. Most popular hashtags: #skincare #kbeauty #koreancosmetics.
+  Find top skincare Instagram influencers in Russia in 2024. Most popular hashtags: #skincare #kbeauty #beautyblog.
 platform: Instagram
-hits: 50
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 50 Instagram influencers like this in Russia for you to pitch.
+hits: 53
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 53 Instagram influencers like this in Russia for you to collaborate.
 profiles:
   - username: "daryabogemovna"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ckaovo18y5erv0i78n5v375m9
     verified: false
     hashtags: "#kiehlsrussia, #kbeauty, #dodoskin, #korean"
-  - username: "glamorable"
-    fullname: >-
-      Anastasia • Blogger (35+)
-    bio: >-
-      Sharing passion for skincare and wellness since 2011 • #BeGlamorable 👩‍🔬 Pro-science 💌 anastasia@glamorable.com
-    location: "Russia"
-    followers: 45274
-    engagement: 70
-    commentsToLikes: 0.061583
-    id: ck9wd29drdquv0j786735tuso
-    verified: false
-    hashtags: "#kbeauty, #texturetuesday, #octolyfamily, #gifted"
   - username: "sou_beau"
     fullname: >-
       aLena, акне, эстетика.
@@ -43,18 +31,30 @@ profiles:
     id: ck8svuzw2csn40j78bwww9225
     verified: false
     hashtags: "#texturetuesday, #texturethursday"
-  - username: "diana_suvorova"
+  - username: "from_narmin"
     fullname: >-
-      Diana Suvorova
+      Narmin Mammadova
     bio: >-
-      Косметическая королева👑 Расскажу о новинках первой💄🇺🇦 600К красоток на YouTube iHerb 🌱-5% GVP621
+      Beauty || Lifestyle 🧘🏼‍♀️ 👨‍👩‍👧‍👦 @mama_qurban Emekdasliq ucun DM- mail 📨narmin.mammadova.91@mail.ru
     location: "Russia"
-    followers: 94680
-    engagement: 422
-    commentsToLikes: 0.047078
-    id: ck13clfx80x4w0i191o1s3lac
+    followers: 71848
+    engagement: 146
+    commentsToLikes: 0.046154
+    id: ck55mptlt4hhb0i11oteq4zw4
     verified: false
-    hashtags: "#makeup, #makeuptutorial, #skincare, #sheinhaul"
+    hashtags: "#yvesrocher, #skincare, #beautyblog, #fashionblog"
+  - username: "bruletova_"
+    fullname: >-
+      Alla Bruletova
+    bio: >-
+      Commercials & PR +14128166564
+    location: "Russia"
+    followers: 2520559
+    engagement: 138
+    commentsToLikes: 0.006753
+    id: ck5bulslii0kf0i1177wyke70
+    verified: false
+    hashtags: "#makeup, #grwm, #skincare, #numeronetherlands"
   - username: "brella_russia"
     fullname: >-
       Магазин корейской косметики🌸
@@ -115,16 +115,16 @@ profiles:
     id: ck6uifscteu4o0j71ydhm4clu
     verified: false
     hashtags: "#podrygka, #colormakeup, #korean, #makeupblog"
-  - username: "ohmystasya"
+  - username: "polinaband"
     fullname: >-
-      Привет Witches 🌒🌕🌘
+      Polina | 폴리나
     bio: >-
-      АНАСТАСИЯ ⠀ И мудрец 🧠 И красотец ✨ И юмором шутец🌚 Во имя Луны🤟🏼 Для предложений stasyaishere@gmail.com PR аккаунт @ohmy.pr
+      freelance model and stylist in📍Seoul ㅤㅤ fashion & lifestyle influencer ㅤㅤㅤ모델 • 인플루언서 • 촬영 협찬광고 문의 collab — dm portfolio @polyalee
     location: "Russia"
-    followers: 43136
-    engagement: 966
-    commentsToLikes: 0.038233
-    id: ck0tu3g945gmv0i19t54hwqoa
+    followers: 27092
+    engagement: 534
+    commentsToLikes: 0.030890
+    id: ck8sxhmc6hfgk0j78en8d4lnw
     verified: false
-    hashtags: "#skincare, #gre, #essential, #skind8results"
+    hashtags: "#noni, #porecare, #koreanskincareroutine, #ootd"
 ---

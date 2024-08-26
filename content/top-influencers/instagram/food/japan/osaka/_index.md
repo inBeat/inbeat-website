@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food Instagram Influencers In Osaka In 2023
+title: Top 10 Food Instagram Influencers In Osaka In 2024
 description: >-
-  Find top food Instagram influencers in Osaka in 2023. Most popular hashtags: #foodstagram #instafood #food #osaka.
+  Find top food Instagram influencers in Osaka in 2024. Most popular hashtags: #food #foodstagram #instafood #happy.
 platform: Instagram
-hits: 18
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 18 Instagram influencers like this in Osaka, Japan for you to connect with.
+hits: 19
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 19 Instagram influencers like this in Osaka, Japan for you to contact.
 profiles:
   - username: "we_love_osaka_"
     fullname: >-
@@ -115,16 +115,16 @@ profiles:
     id: ck8sy7338jxx70j78p7ipmkfg
     verified: false
     hashtags: "#instafood, #instagood, #foodphotography, #bibigo"
-  - username: "sae16_hi"
+  - username: "dear.yc"
     fullname: >-
-      𝓼𝓪𝓮
+      Yau Ching
     bio: >-
-      カフェだったり ◌𓈒 おやつを作ったり𓂃◌𓈒𓐍
+      ♡ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ʟɪғᴇ ᴅᴍ ғᴏʀ ᴊᴏʙ :) ~𝑀𝑦 𝑌𝑜𝑢𝑇𝑢𝑏𝑒~ ✿
     location: "Japan"
-    followers: 14635
-    engagement: 995
-    commentsToLikes: 0.012076
-    id: ck8t3pan63z9c0j78o67d3o2m
+    followers: 54515
+    engagement: 205
+    commentsToLikes: 0.015516
+    id: ck5pzv1h12w0f0i11j4gis8if
     verified: false
-    hashtags: "#kobe, #parfait, #delicious, #toast"
+    hashtags: "#love, #japan, #food, #hongkong"
 ---

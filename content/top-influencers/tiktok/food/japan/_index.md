@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Japan In 2023
+title: Top 10 Food TikTok Influencers In Japan In 2024
 description: >-
-  Find top food TikTok influencers in Japan in 2023. Most popular hashtags: #food #japan #cooking #tiktok.
+  Find top food TikTok influencers in Japan in 2024. Most popular hashtags: #food #japan #cooking #tiktok.
 platform: TikTok
 hits: 20
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our database holds 20 TikTok influencers like this in Japan for you to work with.
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 20 TikTok influencers like this in Japan for you to contact.
 profiles:
   - username: "cook.world"
     fullname: >-

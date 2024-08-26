@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Canada In 2023
+title: Top 10 Health TikTok Influencers In Canada In 2024
 description: >-
-  Find top health TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #duet #canada #love.
+  Find top health TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #duet #canada #mentalhealth.
 platform: TikTok
-hits: 682
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 682 TikTok influencers like this in Canada for you to collaborate.
+hits: 669
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 669 TikTok influencers like this in Canada for you to collaborate.
 profiles:
   - username: "dr.naheedd"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.109245
     id: ckbf228pqoo3a0j23yvlu4av3
     verified: false
-    hashtags: "#canada, #toronto, #tiktokdoc, #blacklivesmatter"
+    hashtags: "#toronto, #fyp, #learnontiktok, #doctor"
   - username: "p_sardarni"
     fullname: >-
       pamsangha1
@@ -102,19 +102,19 @@ profiles:
     commentsToLikes: 0.198070
     id: ckcem2lh5w6mr0j23et3wm83r
     verified: false
-    hashtags: "#fittoker, #fitnessismylife, #torontofitness, #over35club"
+    hashtags: "#fitnessismylife, #torontofitness, #fittoker, #fitnessismypassion"
   - username: "needmoremomjuice"
     fullname: >-
       Kenn
     bio: >-
       safe space❤️ BLM MATERNAL MENTAL HEALTH ADVOCATE it’s the mom shaming for me.
     location: "Canada"
-    followers: 3592
-    engagement: 1108
-    commentsToLikes: 0.070221
+    followers: 3610
+    engagement: 1152
+    commentsToLikes: 0.072777
     id: cka60mdkfrouf0i78xbw044ol
     verified: false
-    hashtags: "#duet, #foryou, #fyp, #foryoupage"
+    hashtags: "#momsoftiktok, #fyp, #foryou, #fy"
   - username: "alanaahewitt"
     fullname: >-
        Alana Hewitt
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.153562
     id: ckdi85kdkafk90j231j97ofim
     verified: false
-    hashtags: "#lifestyle, #canada, #tiktokcanadacreates, #stitch"
+    hashtags: "#canada, #stitch, #makeup, #tiktokcanadacreates"
 ---

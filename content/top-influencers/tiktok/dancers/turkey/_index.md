@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Turkey In 2023
+title: Top 10 Dancers TikTok Influencers In Turkey In 2024
 description: >-
-  Find top dancers TikTok influencers in Turkey in 2023. Most popular hashtags: #fyp #dance #dancer.
+  Find top dancers TikTok influencers in Turkey in 2024. Most popular hashtags: #fyp #dance #dancer.
 platform: TikTok
 hits: 24
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our database holds 24 TikTok influencers like this in Turkey for you to pitch.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 24 TikTok influencers like this in Turkey for you to connect with.
 profiles:
   - username: "sinanyildizs"
     fullname: >-
@@ -73,12 +73,12 @@ profiles:
     bio: >-
       ⚡️ dancer - @dansfabrika IG: @itsarmagan 💌itzarmagan@gmail.com
     location: "Turkey"
-    followers: 36700
-    engagement: 338
-    commentsToLikes: 0.014963
+    followers: 40300
+    engagement: 329
+    commentsToLikes: 0.020148
     id: ckammj5yt0r1f0i78zmmxt7sd
     verified: false
-    hashtags: "#ekleme"
+    hashtags: "#fyp, #kesfet, #dans"
   - username: "selcukhos"
     fullname: >-
       selcuk
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.058958
     id: ckb9spfw3q5ne0j23jnjihdlz
     verified: false
-    hashtags: "#ke, #foryourpage, #fyp, #aydance"
+    hashtags: "#dancers, #foryourpage, #aydance, #ke"
 ---

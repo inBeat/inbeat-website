@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Denver In 2023
+title: Top 10 TikTok Influencers In Denver In 2024
 description: >-
-  Find top TikTok influencers in Denver in 2023. Most popular hashtags: #fyp #stitch #greenscreen #denver.
+  Find top TikTok influencers in Denver in 2024. Most popular hashtags: #fyp #stitch #greenscreen #duet.
 platform: TikTok
-hits: 309
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 309 TikTok influencers like this in Denver, United States for you to connect with.
+hits: 313
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform has 313 TikTok influencers like this in Denver, United States for you to connect with.
 profiles:
   - username: "supdaily"
     fullname: >-
@@ -18,19 +18,19 @@ profiles:
     commentsToLikes: 0.047170
     id: ck8kdxn8s7uu80j78a8dm7dmg
     verified: true
-    hashtags: "#denver, #coloradocheck, #stitch, #cheyennefrontierdays"
+    hashtags: "#denver, #stitch, #coloradocheck, #genz"
   - username: "cocobcunty"
     fullname: >-
       Coco Bardot
     bio: >-
       #DragQueen #hyperqueen #Dyke ⚢ Mommy of 1 👶🏽 Denver 🗻💨
     location: "United States"
-    followers: 15900
-    engagement: 3224
-    commentsToLikes: 0.042814
+    followers: 16000
+    engagement: 3203
+    commentsToLikes: 0.050147
     id: ckbf4etp2sung0j23d5cj7yn1
     verified: false
-    hashtags: "#blackgirlmagic, #letitialewis, #dragqueen, #blacktiktok"
+    hashtags: "#blackcosplayer, #mcdonaldsccsing, #bimbo, #odetoblackgirlmagic"
   - username: "jaskproductions"
     fullname: >-
       Jasmine

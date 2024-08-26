@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Austria In 2023
+title: Top 10 Dancers TikTok Influencers In Austria In 2024
 description: >-
-  Find top dancers TikTok influencers in Austria in 2023. Most popular hashtags: #foryou #fyp #dancer #foryoupage.
+  Find top dancers TikTok influencers in Austria in 2024. Most popular hashtags: #foryou #fyp #foryoupage #dancer.
 platform: TikTok
 hits: 9
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 9 TikTok influencers like this in Austria for you to connect with.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 9 TikTok influencers like this in Austria for you to contact.
 profiles:
   - username: "giulijano"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Norway In 2023
+title: Top 10 Gymnasts Instagram Influencers In Norway In 2024
 description: >-
-  Find top gymnasts Instagram influencers in Norway in 2023. Most popular hashtags: #fitness #gymnastics #workout #crossfit.
+  Find top gymnasts Instagram influencers in Norway in 2024. Most popular hashtags: #gymnastics #fitness #crossfit #handstand.
 platform: Instagram
-hits: 26
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 26 Instagram influencers like this in Norway for you to collaborate.
+hits: 23
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 23 Instagram influencers like this in Norway for you to connect with.
 profiles:
   - username: "edelfosse"
     fullname: >-
@@ -67,18 +67,30 @@ profiles:
     id: ck55lnpow206z0i11shmfxy6d
     verified: false
     hashtags: "#alwaystrain, #alexlachancetraining"
-  - username: "rachelsimone320"
+  - username: "anthayneshk"
     fullname: >-
-      Rachel Simone
+      Ant Haynes
     bio: >-
-      @fitnessbyrachelsimone Girl Mom 👩‍👧 Personal Trainer, CrossFit Games Athlete 2013, 2014, 2015, 2017
+      🏋🏽‍♂️CrossFit Games 2019 & 2020 📍HKG 🇭🇰 📝@coastalfitnesshk S&C Coach 👕@performathletics.me 📺anthayneshk
     location: "Norway"
-    followers: 19257
-    engagement: 165
-    commentsToLikes: 0.036628
-    id: ck0vuvvifmecv0i19ueaej0p4
+    followers: 67539
+    engagement: 269
+    commentsToLikes: 0.006877
+    id: ck0ttd9wm28ev0i19t5mzs4im
     verified: false
-    hashtags: "#tyivy, #babygirl, #fitness, #gymnastics"
+    hashtags: "#crossfitgames, #snatch, #lifting, #recovery"
+  - username: "sondre_berg"
+    fullname: >-
+      Sondre Berg (Berg Movement)
+    bio: >-
+      🎥 Educational & Inspirational Content 🔥 Equipment & apparel @movement_made ⬇️ Coaching App & Programs 🌐 #Movement #Handstand #Calisthenics
+    location: "Norway"
+    followers: 613208
+    engagement: 212
+    commentsToLikes: 0.017322
+    id: ck0w25zl2mrv40i19q0cudmf3
+    verified: false
+    hashtags: "#crossfit, #hspu, #movementculture, #gymnastics"
   - username: "nikkofred03"
     fullname: >-
       Nikolai Fredriksen
@@ -91,30 +103,6 @@ profiles:
     id: ck5q6cpsjwv6d0i111y41j8mt
     verified: false
     hashtags: "#martialarts, #gymnast, #gymnstics, #flippingfeed"
-  - username: "sondre_berg"
-    fullname: >-
-      Sondre J.K  Berg
-    bio: >-
-      🌐 #MovementMade community 👋 Norwegian mover ⬇️ courses, classes and offers⬇️
-    location: "Norway"
-    followers: 109701
-    engagement: 600
-    commentsToLikes: 0.020471
-    id: ck0w25zl2mrv40i19q0cudmf3
-    verified: false
-    hashtags: "#gymnastics, #trening, #hspu, #circus"
-  - username: "zackgeorge"
-    fullname: >-
-      zackgeorge
-    bio: >-
-      🦍Fittest in U.K. 🥇🇬🇧 2020 Crossfit Games Athlete 🦍Men’s health cover model 🦍Team Silverback for life 👇🏾Sponsors/Discount codes👇🏾
-    location: "Norway"
-    followers: 192843
-    engagement: 139
-    commentsToLikes: 0.011896
-    id: ck5heewdrsjnw0i115p0ijpbb
-    verified: false
-    hashtags: "#wod, #assaultbike, #training, #crossfit"
   - username: "carrielynnandmitchel"
     fullname: >-
       Carrie Beamer Mitch Stevenson
@@ -127,4 +115,16 @@ profiles:
     id: ck0vwmykjulfm0i19whdubyqo
     verified: false
     hashtags: "#faithandfitness, #iam1stphorm, #crossfitguys, #fitnessgirl"
+  - username: "thetrainingplan"
+    fullname: >-
+      The Training Plan
+    bio: >-
+      𝙱𝙴𝙲𝙾𝙼𝙴 𝚃𝙷𝙴 𝙰𝚃𝙷𝙻𝙴𝚃𝙴 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙱𝙴 Programming for CrossFit Games Athletes since 2010 4 Plans | AT HOME | FOUNDATION | COMPETITOR | ADVANCED
+    location: "Norway"
+    followers: 57778
+    engagement: 123
+    commentsToLikes: 0.010690
+    id: ck8t3hbul3am70j783vgsec7g
+    verified: false
+    hashtags: "#handspring, #gymnastics, #handstand, #thetrainingplan"
 ---

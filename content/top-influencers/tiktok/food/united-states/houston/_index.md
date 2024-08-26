@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Houston In 2023
+title: Top 10 Food TikTok Influencers In Houston In 2024
 description: >-
-  Find top food TikTok influencers in Houston in 2023. Most popular hashtags: #fyp #houston #food #texas.
+  Find top food TikTok influencers in Houston in 2024. Most popular hashtags: #fyp #houston #food #texas.
 platform: TikTok
-hits: 69
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 69 TikTok influencers like this in Houston, United States for you to pitch.
+hits: 68
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 68 TikTok influencers like this in Houston, United States for you to collaborate.
 profiles:
   - username: "ursusmaritimus_z"
     fullname: >-
@@ -54,19 +54,7 @@ profiles:
     commentsToLikes: 0.032570
     id: cka0ouref5lfr0i7873cnwl9y
     verified: false
-    hashtags: "#houston, #houstontexas, #houstonfood, #houstontx"
-  - username: "alexiaplmrs"
-    fullname: >-
-      lame o lexo
-    bio: >-
-      Houston Snap & Ig : AlexiaPlmrs 💚
-    location: "United States"
-    followers: 34500
-    engagement: 1309
-    commentsToLikes: 0.081596
-    id: ckbezs878l3800j23nzkyse89
-    verified: false
-    hashtags: "#houston, #texas, #food, #foryou"
+    hashtags: "#houston, #houstonfood, #houstontx, #houstontexas"
   - username: "wherearetheqts"
     fullname: >-
       Kari
@@ -103,6 +91,18 @@ profiles:
     id: ckb9o5srqialz0j23nkfvr3os
     verified: false
     hashtags: "#baby, #newborn, #newbornphotographer, #houston"
+  - username: "alexiaplmrs"
+    fullname: >-
+      lame o lexo
+    bio: >-
+      Houston Snap & Ig : AlexiaPlmrs 💚
+    location: "United States"
+    followers: 34500
+    engagement: 1309
+    commentsToLikes: 0.081596
+    id: ckbezs878l3800j23nzkyse89
+    verified: false
+    hashtags: "#fyp, #houston, #xyzbca, #gamer"
   - username: "nataliaaandrade"
     fullname: >-
       Natalia.A
@@ -115,16 +115,16 @@ profiles:
     id: ckbfex6p29d6n0j23zv325kbh
     verified: false
     hashtags: "#greenscreen, #collegelife, #birthday, #fyp"
-  - username: "pichpeou"
+  - username: "thatdamnnicole"
     fullname: >-
-      pich :3
+      That Damn Nicole🙄
     bio: >-
-      idek
+      💵Millionaire Breeder 🤓Marketing Guru 🤑Lover of luxe 😋Foodie
     location: "United States"
-    followers: 2289
-    engagement: 763
-    commentsToLikes: 0.108849
-    id: cka0ouq9b5l730i78ttcs8qzh
+    followers: 17900
+    engagement: 1336
+    commentsToLikes: 0.016133
+    id: ckcde6mi35z9j0j23gbjq1jgq
     verified: false
-    hashtags: "#haikyuu, #anime, #alt, #tiktokfashion"
+    hashtags: "#beauty, #selfcare, #fy, #pedicure"
 ---

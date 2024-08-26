@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In Las Vegas In 2023
+title: Top 10 Christian TikTok Influencers In Las Vegas In 2024
 description: >-
-  Find top christian TikTok influencers in Las Vegas in 2023. Most popular hashtags: #fyp #foryou #duet #foryoupage.
+  Find top christian TikTok influencers in Las Vegas in 2024. Most popular hashtags: #fyp #foryou #duet #foryoupage.
 platform: TikTok
 hits: 6
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our database has 6 TikTok influencers like this in Las Vegas, United States for you to pitch.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 6 TikTok influencers like this in Las Vegas, United States for you to pitch.
 profiles:
   - username: "christian_shelton"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.022505
     id: ck83zsic72nyq0j78mfmy070h
     verified: false
-    hashtags: "#fyp, #comedy, #weddings, #weddingtips"
+    hashtags: "#weddings, #weddingtiktok, #weddingtips, #wedding"
   - username: "b_desantos"
     fullname: >-
       B🌺
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.007882
     id: ckcughpc9f66i0j23u63uo57u
     verified: false
-    hashtags: "#dancer, #bungee, #foryou, #aerialhammock"
+    hashtags: "#trapeze, #aerialsilks, #aerialhoop, #acrobatics"
   - username: "outgunz"
     fullname: >-
       Cristian Abrego
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.008596
     id: ck83wr5h9lmey0j788n2etpge
     verified: true
-    hashtags: "#ad, #duet, #foryou, #afterpay"
+    hashtags: "#foryou, #ad, #duet, #afterpay"
   - username: "christiannvegaa"
     fullname: >-
       CHRISTIAN
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.093657
     id: ck977b7im3hfs0j78upfn9rcl
     verified: false
-    hashtags: "#fyp, #foryou, #foryoupage, #xyzbca"
+    hashtags: "#love, #foryoupage, #fyp, #foryou"
 ---

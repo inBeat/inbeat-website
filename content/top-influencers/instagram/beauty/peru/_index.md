@@ -1,96 +1,96 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Peru In 2023
+title: Top 10 Beauty Instagram Influencers In Peru In 2024
 description: >-
-  Find top beauty Instagram influencers in Peru in 2023. Most popular hashtags: #beauty #style #publicidad.
+  Find top beauty Instagram influencers in Peru in 2024. Most popular hashtags: #beauty #style #peru #makeup.
 platform: Instagram
 hits: 112
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 112 Instagram influencers like this in Peru for you to pitch.
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database has 112 Instagram influencers like this in Peru for you to pitch.
 profiles:
   - username: "nicollechangc"
     fullname: >-
-      Nicolle Chang Makeup Artist.
+      Nicolle Chang
     bio: >-
-      💄MUA & Beauty Content Creator 🎵Tiktok: nicollechangc [1.5M+] 📍Lima, Perú 📌 Citas en @nicollechangmakeup 📩nicollechangmakeup@gmail.com
+      mua & beauty content creator citas @nicollechangmakeup tiktok: nicollechangc +1.9M 💌 mile@letscollabs.com lima, perú
     location: "Peru"
-    followers: 125184
-    engagement: 902
-    commentsToLikes: 0.032827
+    followers: 243318
+    engagement: 176
+    commentsToLikes: 0.023694
     id: ck6ucvwnlhrbb0j71u9zr5a8m
     verified: false
-    hashtags: "#nicollechangmakeup, #redlips, #makeuplover, #christmas2022"
-  - username: "antonellaleguab"
+    hashtags: "#makeupartist, #tutorialdemaquillaje, #creativevideo, #makeupoftheday"
+  - username: "maferbenites"
     fullname: >-
-      Anto Legua B
+      Mafer Benites
     bio: >-
-      Founder @el_closetdeanto @beautyfashion.peru Girl Boss | Fashion | Travel | Lifestyle ✉ antonellaleguab@gmail.com 📌 Perú
+      💖 Makeup Pro - Beauty Tips -LifeStyle-Tutoriales 🖤 TikTok +1.3M 💌Te maquillo? Citas por mensaje @mafer.maquillame 💄Clases de maquillaje full práctica
     location: "Peru"
-    followers: 79204
-    engagement: 39
-    commentsToLikes: 0.249237
-    id: ck6u904yrupf20j711z5lc25b
+    followers: 229069
+    engagement: 52
+    commentsToLikes: 0.043653
+    id: ck55m203f309u0i11trhkmrnf
     verified: false
-    hashtags: "#bicentenario, #nyc, #maquillatepararegresarperu, #8m"
-  - username: "roksolanalima"
+    hashtags: "#beauty, #tips, #labiales, #tutorial"
+  - username: "elmartinrodrigo"
     fullname: >-
-      Lima 🤍
+      Martincho Díaz Haro
     bio: >-
-      Lifestyle • Nails • Fashion ▪️My business : 📮@roksolanalima.cooperation ▫️ @lima.school ▫️ @lima.beautystudio . TelegramMusic 👇🏼
+      Soy el @dr.martindiaz 🩺 🇵🇪🇦🇷🇨🇱🇺🇾🇧🇷🇨🇴🇪🇨🇲🇽 👨‍⚕️ Cirujano General y Laparoscópico 🧔Admin: @igerstarapoto 📍 Lima / Oxapampa 🌴 De Tarapoto - Perú 🇵🇪 💙 SC
     location: "Peru"
-    followers: 100127
-    engagement: 788
-    commentsToLikes: 0.084362
-    id: ck0u7d0fk4gh00i19vo4089y1
+    followers: 3176
+    engagement: 891
+    commentsToLikes: 0.054063
+    id: ckap67vdbern20i78h0lhp3ga
     verified: false
-    hashtags: "#lovestory, #loveislove, #relax, #style"
-  - username: "adiccionallabial"
+    hashtags: "#reel, #peruvianjungle, #instatravel, #viajero"
+  - username: "gisevney"
     fullname: >-
-      Miss Mickey 💕Jonas Vloggers 😎🔥
+      𝓖𝓲𝓼𝓮𝓵𝓪 𝓝𝓮𝔂𝓻𝓪
     bio: >-
-      Espíritu libre 🌙✨ Amante del maquillaje , beauty vlogger & fashion victim 💄💋 Contacto.adiccionallabial@gmail.com💌 @adictosallabial Nuevo video👇😱
+      𝖬𝗂𝗌𝗌 𝖯𝗋𝗈𝗀𝗋𝖾𝗌𝗌 𝖯𝖾𝗋𝗎́ 𝟤𝟢𝟤𝟤 • 𝖢𝖺𝗋𝖺𝗏𝗂𝗅𝖾𝗇̃𝖺❤️ 📍Lɪᴍᴀ, ᴘᴇʀᴜ 🇵🇪
     location: "Peru"
-    followers: 261465
-    engagement: 205
-    commentsToLikes: 0.012688
-    id: ck6udnzznm6u60j71lk0fj1ql
-    verified: true
-    hashtags: "#newyear, #newhair, #newbitch, #nailinspo"
-  - username: "daniellaeacosta"
-    fullname: >-
-      Daniella | Outfits y Datos
-    bio: >-
-      ◽️Lifestyle l Fashion & Beauty ◽️Moda para todas l Tips & Datos l Emprendimiento INSCRÍBETE AL CAMPAFIT AQUÍ⬇️
-    location: "Peru"
-    followers: 66808
-    engagement: 218
-    commentsToLikes: 0.075659
-    id: ck13d1tzc38n30i19e4v4c15v
+    followers: 16472
+    engagement: 304
+    commentsToLikes: 0.035388
+    id: ck5zzoqd9c5120i1400xsz9fk
     verified: false
-    hashtags: "#publicidad, #lifestyleblogger, #outfitinspo, #instareel"
-  - username: "karlabanto"
+    hashtags: "#love, #photographer, #photo, #glam"
+  - username: "martincatalogne"
     fullname: >-
-      Karla Abanto Tantaleán
+      Martin Catalogne 💄
     bio: >-
-      Fashion • Beauty • Travel • Lifestyle Founder @mbtperu @kloset.pe Adopta, no compres.🐾 📩 kabantot@hotmail.com
+      Información: escribir a catalognemakeup@gmail.com
     location: "Peru"
-    followers: 39734
-    engagement: 206
-    commentsToLikes: 0.033447
-    id: ck6u90jd7urwr0j714t9irs5n
+    followers: 237234
+    engagement: 137
+    commentsToLikes: 0.071976
+    id: ck15sci4hcbd80i19q3gboe1j
     verified: false
-    hashtags: "#valentinesday, #sheingals, #dresstoimpress, #publicidad"
-  - username: "pmxbeauty"
+    hashtags: "#maquiagem, #beauty, #makeup, #martincatalogne"
+  - username: "valerialarcog"
     fullname: >-
-      Paola Escalante
+      Valeria Larco Ganoza
     bio: >-
-      📍 Lima, Perú ✉️ PR/Business: pmxbeauty@gmail.com +300 TikTok
+      Founder @valmiperu & @redinmobi Contact DM | Valeria_06_99@hotmail.com ✨TIKTOK | 90K - valerialarcog
     location: "Peru"
-    followers: 34233
-    engagement: 225
-    commentsToLikes: 0.089189
-    id: ck9wf1jr7mvjd0j78072wplp2
+    followers: 49818
+    engagement: 79
+    commentsToLikes: 0.055331
+    id: ckap43td05py50i78wm8zq21q
     verified: false
-    hashtags: "#wakeupandmakeup, #makeupdaily, #disney, #abhfam"
+    hashtags: "#portraits, #beauty, #model, #trip"
+  - username: "son.tentacion"
+    fullname: >-
+      Son Tentación Oficial
+    bio: >-
+      📱𝑪𝒐𝒏𝒕𝒓𝒂𝒕𝒐𝒔 𝒂𝒍: 943 500 044 - 989 750 214 🎶 Primera orquesta femenina de salsa y timba en el Perú 🤳MKT: @agenciaenuna Como Tu Mujer Live Session👇
+    location: "Peru"
+    followers: 439817
+    engagement: 53
+    commentsToLikes: 0.012573
+    id: ck6tmjflr7y6z0j71am5g9t6b
+    verified: false
+    hashtags: "#fiesta, #sonaliore, #makeup, #beauty"
   - username: "denaragonmx"
     fullname: >-
       Denisse Aragón

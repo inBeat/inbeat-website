@@ -1,12 +1,48 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Italy In 2023
+title: Top 10 Outdoors Instagram Influencers In Italy In 2024
 description: >-
-  Find top outdoors Instagram influencers in Italy in 2023. Most popular hashtags: #landscape #nature #italy #outdoors.
+  Find top outdoors Instagram influencers in Italy in 2024. Most popular hashtags: #nature #sunset #italy #outdoors.
 platform: Instagram
-hits: 474
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 474 Instagram influencers like this in Italy for you to collaborate.
+hits: 523
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 523 Instagram influencers like this in Italy for you to connect with.
 profiles:
+  - username: "liiisaho"
+    fullname: >-
+      Lisa Hofer
+    bio: >-
+      📍South Tyrol | Italy 🏔🙋🏼‍♀️ mountaingirl | outdoors | nature ✨ follow me on my adventures in the mountains 👩🏼‍💻 host @myloisl.apartments
+    location: "Italy"
+    followers: 77138
+    engagement: 406
+    commentsToLikes: 0.013135
+    id: ck13ae6wgpybs0i19wv4c9r3w
+    verified: false
+    hashtags: "#girlswhoski, #mountainlife, #adventuretime, #skimo"
+  - username: "stfno"
+    fullname: >-
+      STFNO
+    bio: >-
+      Tour leader asociale. Ma invento, disegno e organizzo esperienze di gruppo 〰️ 🏔 Papà di @connectviaggi 💙 Outdoors 🥾 Sport 🫠 Sarcasm 👇🏼 Viaggia con me:
+    location: "Italy"
+    followers: 102893
+    engagement: 644
+    commentsToLikes: 0.044230
+    id: ckaoqpxjejtcb0i78kofbyej9
+    verified: false
+    hashtags: "#discover, #mountainlovers, #stayandwander, #traveller"
+  - username: "giuliataboga"
+    fullname: >-
+      Giulia Taboga
+    bio: >-
+      Hunting🐾 Outdoors🌲 Dogs🐶 Food 🍝 Founder of @gtoutdoorsitaly 🇮🇹 🔫 @franchifeelsright
+    location: "Italy"
+    followers: 57484
+    engagement: 192
+    commentsToLikes: 0.004839
+    id: ck13a4a23ok7g0i19zcy5m4av
+    verified: false
+    hashtags: "#naturelovers, #caccia, #chasseresse, #compaksporting"
   - username: "otellimarco_86"
     fullname: >-
       Marco Otelli 🇮🇹
@@ -55,18 +91,6 @@ profiles:
     id: ck9wftbmfqg3b0j78aq9dw067
     verified: false
     hashtags: "#tendermagazine, #portraitphotography, #sardegna, #portraitsociety"
-  - username: "stfno"
-    fullname: >-
-      Stefano Tourleader asociale
-    bio: >-
-      Invento, disegno e organizzo esperienze e viaggi di gruppo, clicca il link e scopri dove ti porterò 〰️ ⛰ Outdoors 🤭 Sarcasm 🇮🇹 IT, Bs 💼 @connectviaggi
-    location: "Italy"
-    followers: 15358
-    engagement: 375
-    commentsToLikes: 0.023295
-    id: ckaoqpxjejtcb0i78kofbyej9
-    verified: false
-    hashtags: "#veneziadavivere, #volgovenezia, #loves, #water"
   - username: "survivalfreaks"
     fullname: >-
       Camping | Survival | Outdoor
@@ -79,52 +103,28 @@ profiles:
     id: ck14htexjc1m20i19czbil85x
     verified: false
     hashtags: "#survivalfreaks, #bushcrafting, #survivalist, #survivalhacks"
-  - username: "elena.galli91"
+  - username: "_lydiachristina"
     fullname: >-
-      Elena Galli
+      Lydia T. | outdoor x mountains
     bio: >-
-      📍Valencia (Spain) • Live, Love, Laugh and Travel ✈️💫 • 🗣 Italian - Spanish - English 📩 DM for inquiries & Collabs
+      📍Styria | AUT passionate hiker & skier ⛰️🤍☀️ busy exploring Austrian mountains w/ @wanderdoerfer @weitwanderwege_ 🥾 📧lydia_christina@outlook.com
     location: "Italy"
-    followers: 11639
-    engagement: 1059
-    commentsToLikes: 0.062638
-    id: ck8sxodw2i2ta0j78sdho870r
+    followers: 25943
+    engagement: 630
+    commentsToLikes: 0.021531
+    id: clfqt8h8pp21b0j08vsn6fqm2
     verified: false
-    hashtags: "#edit, #love, #work, #picture"
-  - username: "detojan"
+    hashtags: "#wandern, #wanderdoerfer, #alpenflair, #discoveraustria"
+  - username: "morry_dell"
     fullname: >-
-      Dejan Tosetti
+      Moreno Dell'Andrino
     bio: >-
-      Genius // Photographer and Videomaker My mind to the next level @detojanpresets
+      📍ꜱᴏɴᴅʀɪᴏ | ɪᴛ 🚀ᴅʀᴏɴᴇ ᴘɪʟᴏᴛ 📸 ᴘʜᴏᴛᴏɢʀᴀᴘʜᴇʀ ⛑ ɪᴛᴀʟɪᴀɴ ʀᴇᴅ ᴄʀᴏꜱꜱ
     location: "Italy"
-    followers: 58287
-    engagement: 567
-    commentsToLikes: 0.031637
-    id: ck0twuxz5gur00i19tiwsf4i1
+    followers: 9562
+    engagement: 566
+    commentsToLikes: 0.014674
+    id: ck14hq0r0bk1a0i19svlee12d
     verified: false
-    hashtags: "#citykillerz, #stayandwander, #sonyalpha, #greece"
-  - username: "irenepila_"
-    fullname: >-
-      Irene | ✈︎ Travel Creator
-    bio: >-
-      ☾ “Your life isn’t really yours if you constantly care what others think (: 𖥸 Travelling full time since 2019 ༄ Outdoor adventures r always welcome ↓
-    location: "Italy"
-    followers: 64697
-    engagement: 308
-    commentsToLikes: 0.024039
-    id: ck9hat9ide1h20j78t3vxm8lq
-    verified: false
-    hashtags: "#italia, #travelgram, #outdoors, #travelblogger"
-  - username: "fratheroamer"
-    fullname: >-
-      Francesco Osimanti
-    bio: >-
-      📍Nature seeker 🏕️ 📍@oxyburn Ambassador. Code ➡️ OXBFO! 🤸‍♂️ 📍#Hiking 🏞️ 📍Pet activist🐶 📍Veggie 🍅 Sponsorship proposals? drop a 📬 fraosi1@hotmail.com
-    location: "Italy"
-    followers: 16492
-    engagement: 794
-    commentsToLikes: 0.011695
-    id: ck5hq0lrwsaeu0i11n4zyq4di
-    verified: false
-    hashtags: "#optoutside, #outdooradventures, #hikingtrail, #mountainstories"
+    hashtags: "#pnw, #mountainstones, #fantastic, #visualofearth"
 ---

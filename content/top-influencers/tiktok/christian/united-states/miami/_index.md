@@ -1,12 +1,24 @@
 ---
-title: Top 10 Christian TikTok Influencers In Miami In 2023
+title: Top 10 Christian TikTok Influencers In Miami In 2024
 description: >-
-  Find top christian TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #christian #miami #foryou.
+  Find top christian TikTok influencers in Miami in 2024. Most popular hashtags: #fyp #christian #miami #foryou.
 platform: TikTok
 hits: 22
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our platform holds 22 TikTok influencers like this in Miami, United States for you to pitch.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our database has 22 TikTok influencers like this in Miami, United States for you to connect with.
 profiles:
+  - username: "loudela1"
+    fullname: >-
+      Lou
+    bio: >-
+      follow the gram ^ Wilhelmina Model🌸
+    location: "United States"
+    followers: 5478
+    engagement: 445
+    commentsToLikes: 0.035494
+    id: ckactzlu0gjra0i78mcg09r3x
+    verified: false
+    hashtags: "#model, #foryoupage, #foryou, #photoshoot"
   - username: "chetflix1k"
     fullname: >-
       .
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.051130
     id: ck8qpxo9r5id70j789l5nbgbt
     verified: false
-    hashtags: "#desantis2024, #trumptrain, #politics, #mask"
+    hashtags: "#fyp, #foryou, #fl, #orlando"
   - username: "williamjackman2"
     fullname: >-
       W I L L I A M
@@ -78,7 +90,19 @@ profiles:
     commentsToLikes: 0.053477
     id: ck8hnfg0lqpmu0j78gurl6zxv
     verified: false
-    hashtags: "#love, #fy, #jet, #model"
+    hashtags: "#viral, #monet, #foryou, #paint"
+  - username: "pearlvnava"
+    fullname: >-
+      Pearl Nava
+    bio: >-
+      All Glory to God 🕊 🇨🇺
+    location: "United States"
+    followers: 222300
+    engagement: 1333
+    commentsToLikes: 0.013065
+    id: ckamlwqqdxz6j0i780ovi12oy
+    verified: false
+    hashtags: "#xyzbca, #christian, #trending, #labsoftiktok"
   - username: "joannafuka"
     fullname: >-
       Joannnnaaaaa🖤
@@ -103,28 +127,4 @@ profiles:
     id: ck963gbasuov70j78zkyouhg0
     verified: false
     hashtags: "#christian, #fyp, #dominican, #gawvi"
-  - username: "iamkemit"
-    fullname: >-
-      Kemit Price
-    bio: >-
-      🇯🇲Reggae Artist 😅CEO "TRUE 💩 OR NAH?" ✊️🏿VP "STAY WOKE" ✍️DM for Shout-outs
-    location: "United States"
-    followers: 111500
-    engagement: 794
-    commentsToLikes: 0.353294
-    id: ckc7b8g14kutc0j23aoqm88co
-    verified: false
-    hashtags: "#skiptherinse, #dance, #thewailers, #fyp"
-  - username: "melspdx"
-    fullname: >-
-      Melspdx
-    bio: >-
-      📍PNW Eat well, travel better, adventure often! ✈️ IG @melspdx Jesus 🙏🏼
-    location: "United States"
-    followers: 2713
-    engagement: 616
-    commentsToLikes: 0.141276
-    id: ckc38aaqzx24y0j23yr24pa1i
-    verified: false
-    hashtags: "#washingtoncheck, #distancedance, #portlandoregon, #washingtonstate"
 ---

@@ -1,12 +1,60 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Argentina In 2023
+title: Top 10 Stylists Instagram Influencers In Argentina In 2024
 description: >-
-  Find top stylists Instagram influencers in Argentina in 2023. Most popular hashtags: #style #look #makeup.
+  Find top stylists Instagram influencers in Argentina in 2024. Most popular hashtags: #style #look #dress.
 platform: Instagram
-hits: 51
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our platform has 51 Instagram influencers like this in Argentina for you to pitch.
+hits: 53
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 53 Instagram influencers like this in Argentina for you to contact.
 profiles:
+  - username: "briggi_bozzo"
+    fullname: >-
+      BRIGGI B
+    bio: >-
+      venezolana viviendo en méxico 🇻🇪💗 📮briggittebozzoteam@gmail.com Management: @xumalin @mafaeam Stylist : @laustyling 🤎🐆
+    location: "Argentina"
+    followers: 4983642
+    engagement: 444
+    commentsToLikes: 0.003698
+    id: ck9h9yhl7agsf0j78s269crgr
+    verified: true
+    hashtags: "#vix, #lacasadelosfamososmx, #lacasadelosfamosos, #briggittebozzo"
+  - username: "kendilomba"
+    fullname: >-
+      Kendi
+    bio: >-
+      Stylist Producer & fashion producer
+    location: "Argentina"
+    followers: 163189
+    engagement: 418
+    commentsToLikes: 0.003203
+    id: ck15sxlj9fbfk0i19afmbbpyw
+    verified: false
+    hashtags: ""
+  - username: "julitaali"
+    fullname: >-
+      Julieta Ali
+    bio: >-
+      producer - stylist - content
+    location: "Argentina"
+    followers: 23314
+    engagement: 133
+    commentsToLikes: 0.010504
+    id: ckapavl27xmjo0i78rgy6cdjp
+    verified: false
+    hashtags: "#foreverclassic"
+  - username: "karolinesmode"
+    fullname: >-
+      Carolina Berro Madero
+    bio: >-
+      Fashion | Stylist | Founder @karolinesmodeofficial / Mama de Francisca & Juana 🧸 / ✉️ karolinesmode@gmail.com
+    location: "Argentina"
+    followers: 124286
+    engagement: 24
+    commentsToLikes: 0.028789
+    id: ck6ti9kmg0aqj0j710ytmk41b
+    verified: false
+    hashtags: "#dioraddict, #yorkshiremini, #yellowstone, #diormakeup"
   - username: "bassixs"
     fullname: >-
       Sol Bassi 🌴⛸
@@ -43,18 +91,6 @@ profiles:
     id: ck0tysqcanvyc0i1981c55w7g
     verified: false
     hashtags: ""
-  - username: "luisenriquebolivar"
-    fullname: >-
-      BOLÍVAR | Style Connaisseur
-    bio: >-
-      Contenido de estilo, un poco de arte y buena música. Comunicólogo y publicista. Editor, stylist, creativo en LE STYLE MAISON | Profesor en UDG. 🇲🇽 🇻🇪
-    location: "Argentina"
-    followers: 9088
-    engagement: 834
-    commentsToLikes: 0.124296
-    id: ck8t0pp7tsttp0j78tfa0fnhi
-    verified: false
-    hashtags: "#leather, #tulum, #landscape, #fashion"
   - username: "albertafashioninsta"
     fullname: >-
       Alberta fashion insta
@@ -91,40 +127,4 @@ profiles:
     id: ck0vuvllmmd4w0i194bj1bxac
     verified: false
     hashtags: "#styling, #makeup, #look, #verolozano"
-  - username: "mayraballest"
-    fullname: >-
-      Mayra Ballesteros
-    bio: >-
-      Fashion designer, stylist & producer Escribo en @mermeladainc ✍🏽 Nota: “Vistiendo resistencia: el feminismo en nuestra ropa”⬇️
-    location: "Argentina"
-    followers: 8490
-    engagement: 637
-    commentsToLikes: 0.035040
-    id: ck6u07pm1e3130j71bkcyn9xd
-    verified: false
-    hashtags: "#theeighties"
-  - username: "olga_vila"
-    fullname: >-
-      Olga Vila | Food Stylist
-    bio: >-
-      Food & drink Stylist | Recipe developer Mis trabajos en @olga_foodstyler Mis servicios Olgavila.com. Mis recetas pepitagreens.com
-    location: "Argentina"
-    followers: 12466
-    engagement: 511
-    commentsToLikes: 0.128107
-    id: ck5zu96tf1x310i14wlra1gbu
-    verified: false
-    hashtags: "#pepitagreens, #foodfluffer, #foodstyling, #cookmagazine"
-  - username: "rpsi.queen"
-    fullname: >-
-      👑•P•S•I•C•O•👑
-    bio: >-
-      ☆DRAG☆MUA☆HAIRDRESSER☆WIG-STYLIST☆ #GETTHELOOK
-    location: "Argentina"
-    followers: 5901
-    engagement: 467
-    commentsToLikes: 0.064082
-    id: ck5c9bgcwb4u40i1118f1pfo4
-    verified: false
-    hashtags: "#mujeresalbordedeunataquedenervios, #muypronto, #pedroalmodovar, #pasion"
 ---

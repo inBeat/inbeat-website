@@ -1,12 +1,24 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Chile In 2023
+title: Top 10 Cooking Instagram Influencers In Chile In 2024
 description: >-
-  Find top cooking Instagram influencers in Chile in 2023. Most popular hashtags: #cooking #instagood #woman.
+  Find top cooking Instagram influencers in Chile in 2024. Most popular hashtags: #chile #cooking #instachile.
 platform: Instagram
-hits: 21
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database holds 21 Instagram influencers like this in Chile for you to pitch.
+hits: 22
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 22 Instagram influencers like this in Chile for you to connect with.
 profiles:
+  - username: "chileanbutcher"
+    fullname: >-
+      Nicolás Contrucci H.
+    bio: >-
+      • Asador chileno • Director de @expoparrilla • Hago eventos y genero contenido para marcas. • Cotiza y reserva fecha en eventos@grupofogo.cl
+    location: "Chile"
+    followers: 30995
+    engagement: 154
+    commentsToLikes: 0.035657
+    id: ck14lrhndw4ni0i19o8oaht5d
+    verified: false
+    hashtags: "#firecook, #foodporn, #carne, #parrilla"
   - username: "annaissdiaz"
     fullname: >-
       annaissdiaz
@@ -18,7 +30,7 @@ profiles:
     commentsToLikes: 0.012117
     id: ck8tckl0bzq5v0j78hj20spup
     verified: false
-    hashtags: "#nomakeup, #face, #chilegram, #instapic"
+    hashtags: "#face, #instaphoto, #instaphotography, #vi"
   - username: "stellar.uwu"
     fullname: >-
       S t e l l a r
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.070881
     id: ckaorzk88ph350i78smyas89y
     verified: false
-    hashtags: "#twitch, #streamer, #pinkhair, #woman"
+    hashtags: "#cute, #twitch, #pink, #streamer"
   - username: "bloncho"
     fullname: >-
       Bloncho/Pablo Valdés 📸
@@ -43,18 +55,6 @@ profiles:
     id: ck55k2nr3ybce0i11yka8kcau
     verified: false
     hashtags: "#highlightscl, #boudoirphotography, #ice, #portrait"
-  - username: "kimloewenthal"
-    fullname: >-
-      𝒦𝒾𝓂 ℒ𝑜𝑒𝓌𝑒𝓃𝓉𝒽𝒶𝓁🧿
-    bio: >-
-      Empresaria 🌟𝙴𝚟𝚎𝚗𝚝 𝙿𝚕𝚊𝚗𝚗𝚎𝚛 𝚁𝚁.𝙿𝙿 Fashion-lifestyle-foodie-Beauty 📲📲Creadora de Contenido ✍🏻CEO @kimscreationsvzla. Embajadora @acluchemosporlavida
-    location: "Chile"
-    followers: 25813
-    engagement: 149
-    commentsToLikes: 0.090250
-    id: ck6uhlmyx9u180j71w3xd5oa5
-    verified: false
-    hashtags: "#fashionstyle, #caracas, #tbt, #moda"
   - username: "maisacocina"
     fullname: >-
       maisacocina
@@ -71,14 +71,14 @@ profiles:
     fullname: >-
       Ángeles Araya
     bio: >-
-      Madrugo! Siempre por las pantallas de @canal13cl @aquisomostodos De salud hablamos en “Mito o Realidad” en @mitorealidadtalk
+      Siempre por las pantallas de @canal13cl Feliz con #ConexiónÚnica los sábados a las 10 am De salud hablamos en “Mito o Realidad” en @mitorealidadtalk
     location: "Chile"
-    followers: 64140
-    engagement: 448
-    commentsToLikes: 0.050929
+    followers: 91281
+    engagement: 217
+    commentsToLikes: 0.058986
     id: ck0vvt55tqne30i19twpips75
     verified: false
-    hashtags: "#realidad, #consejos, #sonrie, #vamospormas"
+    hashtags: "#feliz, #piel, #salud, #gato"
   - username: "osvavilaschef"
     fullname: >-
       Osvaldo Vilas Banqueteria
@@ -103,28 +103,28 @@ profiles:
     id: ck5q5qjhmu3pz0i11hh5i6yax
     verified: false
     hashtags: "#coomingsoon, #volandoenlanube, #holayadios, #dreamteam"
-  - username: "aventuranzas"
+  - username: "xiomara_ayliin"
     fullname: >-
-      A V E N T U R A N Z A S
+      X I O M A R A   H E R R E R A
     bio: >-
-      #LaBocina 🔇 Mira el Video Clip Aquí👇🏼
+      Dancer / Choreographer / Creators / Winner of tv’s show🌍🇨🇱 Bookings: xiomaraaylin.herrera@gmail.com
     location: "Chile"
-    followers: 278945
-    engagement: 678
-    commentsToLikes: 0.021388
-    id: ck15t6mzuglxf0i19enklnc9a
-    verified: false
-    hashtags: "#coomingsoon, #tbt, #micomplemento, #belenguix"
-  - username: "djkili"
+    followers: 272275
+    engagement: 307
+    commentsToLikes: 0.010395
+    id: ck0w5h9tn3n4j0i196pygl4ms
+    verified: true
+    hashtags: "#tupelotuelecci, #veetvacontigo, #decadauno, #chile"
+  - username: "kaiseroficial"
     fullname: >-
-      Dj Kili
+      Kaiser 🇨🇱
     bio: >-
-      🎧 Dj desde los 13 🎹 Tech House Music 📱 Booking @robinson_anriquez ⚡️ Out Now ⬇️
+      📥Managger : alvaro@vibramarketing.cl 📲Booking +56977057671 @vibra.marketing
     location: "Chile"
-    followers: 19224
-    engagement: 826
-    commentsToLikes: 0.035552
-    id: ck14jc7l3jlri0i19tt4jby5f
-    verified: false
-    hashtags: "#shishigang, #perreoflayte, #foda, #desayunofeliz"
+    followers: 1397734
+    engagement: 37
+    commentsToLikes: 0.013285
+    id: ck0u67bx113ct0i195iofw64o
+    verified: true
+    hashtags: "#fmsmexico, #kaiser, #fmschile, #fmsinternacional"
 ---

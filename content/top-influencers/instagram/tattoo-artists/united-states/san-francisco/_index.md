@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In San Francisco In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In San Francisco In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in San Francisco in 2023. Most popular hashtags: #tattooartist #tattoo #sftattoo #bayareatattoo.
+  Find top tattoo-artists Instagram influencers in San Francisco in 2024. Most popular hashtags: #tattooartist #sanfrancisco #tattoo #bayareatattooartist.
 platform: Instagram
-hits: 17
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 17 Instagram influencers like this in San Francisco, United States for you to pitch.
+hits: 18
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 18 Instagram influencers like this in San Francisco, United States for you to work with.
 profiles:
   - username: "oliver_kenton"
     fullname: >-
@@ -19,18 +19,30 @@ profiles:
     id: ck6ts9uiz3jys0j71wayrxxxy
     verified: false
     hashtags: "#secondskin, #sanfranciscotattoo, #bayareatattooartist, #bayareatattoo"
+  - username: "tewetubby"
+    fullname: >-
+      Carley Akahoshi
+    bio: >-
+      San Francisco Tattoo @inkpress.studio 🌷(no DM’s pls)☀️ NYC 8/23-29 Flash @teletubby.png books open for Sept-Oct
+    location: "United States"
+    followers: 77542
+    engagement: 143
+    commentsToLikes: 0.005173
+    id: ckqvvt48d2omj0j23o1nj6ej1
+    verified: false
+    hashtags: "#sanfranciscotattoo, #tewetubby, #illust, #linework"
   - username: "jess_koala_tattoo"
     fullname: >-
       Jess Koala
     bio: >-
       • STAY SOFT & KEEP IT WEIRDER • Tattoo & Illustration 💖🏡💚San Francisco @castrotattoosf No DMs email to book jesskoalatattoo@Gmail.com
     location: "United States"
-    followers: 19260
-    engagement: 192
-    commentsToLikes: 0.031819
+    followers: 19722
+    engagement: 222
+    commentsToLikes: 0.032997
     id: ck5cgdkv1omks0i113xcioh07
     verified: false
-    hashtags: "#jesskoalatattoo, #glittertattoo, #sanfrancisco, #illustrativetattoo"
+    hashtags: "#bayareatattoo, #queertattooer, #qttr, #glittertattoo"
   - username: "_brucius_"
     fullname: >-
       𝕭𝖗𝖚̈𝖈𝖎𝖚𝖘
@@ -43,18 +55,18 @@ profiles:
     id: ck13b3lagti470i197yhqp2n0
     verified: false
     hashtags: "#hawk, #tattoo, #etching, #lineworktattoo"
-  - username: "akb_future"
+  - username: "tanner_drake_tattoos"
     fullname: >-
-      Angelo| Tattoo Booking Manager
+      Tanner Drake
     bio: >-
-      🔥Tattoo Booking🔥 @lalaellsworth | @tattoosbyzay | @v_ngata | @yamz5700 | @teeknow | @tongarasta | @gusbyrdtat2 | @sam_tattoo @bong_tatau
+      𝐓𝐀𝐍𝐍𝐄𝐑 𝐃𝐑𝐀𝐊𝐄 𝐓𝐀𝐓𝐓𝐎𝐎 𝐎𝐖𝐍𝐄𝐑 𝐎𝐅 @hidden_veil_tattoo Visit website to book! Travel dates @evergreentattooinvitational @longlivetattoofestival
     location: "United States"
-    followers: 40265
-    engagement: 194
-    commentsToLikes: 0.005072
-    id: ck9h9t0g99um30j78l13zyywz
+    followers: 36541
+    engagement: 254
+    commentsToLikes: 0.014677
+    id: ckzrlq3vr0js70i23sw3rv0pu
     verified: false
-    hashtags: "#tattooart, #tattoooftheday, #artistsoninstagram, #armsleevetattoo"
+    hashtags: "#tattoo, #linework, #artwork, #color"
   - username: "ritualbydesign"
     fullname: >-
       Mehndi Henna Teacher Supplies
@@ -103,28 +115,16 @@ profiles:
     id: ck5cjgndkuor40i11c9g8xdqx
     verified: false
     hashtags: "#ladytattooers, #tattoos, #crossedkeyssociety, #ladytattooer"
-  - username: "liannadefleur"
+  - username: "h2ochristina"
     fullname: >-
-      Lianna | Tattoo Artist
+      Christina Nguyen 🌵 Explore Arizona, Food & Travel
     bio: >-
-      she/her 📍Oakland, CA Diving Swallow Tattoo ________________________ booking ↓ FAQ ↓ pricing
+      🖊@christina.imperfectartistry 🔜SF✈️ DM or email for collabs ✨
     location: "United States"
-    followers: 26710
-    engagement: 506
-    commentsToLikes: 0.014879
-    id: ck0w0efpzds7w0i19rc6jod24
+    followers: 25246
+    engagement: 91
+    commentsToLikes: 0.049607
+    id: ck5zqne3uuxhp0i146cr6r06g
     verified: false
-    hashtags: "#flowertattoos, #botanicaltattoo, #floraltattoos, #blackworktattoo"
-  - username: "ianreynold"
-    fullname: >-
-      Ian Reynold
-    bio: >-
-      • Artist • Tattooer at Castro Tattoo • San Francisco Email all inquiries • ianreynold@gmail.com Music • @needyempty • No DMs
-    location: "United States"
-    followers: 27785
-    engagement: 150
-    commentsToLikes: 0.010764
-    id: ck0w0edr7drx50i19iyu1qy3r
-    verified: false
-    hashtags: "#stippletattoo, #btattooing, #rosetattoo, #finelinetattoo"
+    hashtags: "#worldtraveler, #asia, #travelasia, #japan"
 ---

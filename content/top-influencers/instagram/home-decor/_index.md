@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In 2023
+title: Top 10 Home Decor Instagram Influencers In 2024
 description: >-
-  Find top home decor Instagram influencers in 2023. Most popular hashtags: #homedecor #homesweethome #domoweinspiracje.
+  Find top home decor Instagram influencers in 2024. Most popular hashtags: #homedecor #interiordesign #interiordecor #livingroomdecor.
 platform: Instagram
-hits: 8355
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 8355 Instagram influencers like this for you to pitch.
+hits: 10138
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 10138 Instagram influencers like this for you to collaborate.
 profiles:
-  - username: "inesbeautypl"
+  - username: "everyday_home"
     fullname: >-
-      𝙞𝙣𝙚𝙨𝙗𝙚𝙖𝙪𝙩𝙮 -Aga Wroclaw 🌷🎀💝🇵🇱
+      Lidia Salazar
     bio: >-
-      𝓐𝓰𝓮42|Dentist|Beautyblogger |A lover of life |Beauty|Lifestyle|Fashion|Homedecor|Yoga| Olympus 𝓙𝓾𝓼𝓽 𝓱𝓪𝓿𝓮 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓕𝓪𝓲𝓽𝓱 Contact : ines@inesbeauty.pl
-    location: "Poland"
-    followers: 48228
-    engagement: 344
-    commentsToLikes: 0.110260
-    id: ck8tdgwnv399r0j78scov01sy
-    verified: false
-    hashtags: "#niechsiedziejenajlepiej, #storiediseta, #kobietylancome, #skincare"
-  - username: "camilab02"
-    fullname: >-
-      CAMILA BARBOSA
-    bio: >-
-      📍colombia Embajadora de @gentlemanrevista @bb_homedecor_ 🍃
-    location: "Colombia"
-    followers: 26178
-    engagement: 435
-    commentsToLikes: 0.085452
-    id: ckap8avl4nl9t0i789g19rh25
-    verified: false
-    hashtags: "#aqu"
-  - username: "paopati"
-    fullname: >-
-      paopati🧿 | Content Creator
-    bio: >-
-      💎 beauty • lifestyle • fashion • homedecor 🌴 beach lover 🎨 @paopatimakeup 🏰 orlando fl. special needs mom 🤍 @babynoahatencio
+      Everyday Home Decor Latina 🇲🇽🇵🇷 📍Phoenix, AZ 340k on TikTok: everyday_homedecor Hello@everydayhd.com
     location: "United States"
-    followers: 43516
-    engagement: 323
-    commentsToLikes: 0.026788
-    id: ck5q7n2hy2b6n0i11uxtiyf14
+    followers: 131846
+    engagement: 487
+    commentsToLikes: 0.063485
+    id: ckooq95bcpbza0j23w36py3np
     verified: false
-    hashtags: "#discoverycove, #orlandofl, #ootdpaopati, #fashionblogger"
-  - username: "letiespadas"
+    hashtags: "#mybohostyle, #peepmypad, #californiacasual, #modernbohemian"
+  - username: "michandmila"
     fullname: >-
-      𝐋𝐞𝐭𝐲 𝐄𝐬𝐩𝐚𝐝𝐚𝐬
+      Mich 👩🏻‍💼 + Mila 🐶
     bio: >-
-      Lifestyle|fashion|homedecor|abogada 📩 letyespadas7@gmail.com 𝐂ó𝐝𝐢𝐠𝐨 𝐒𝐇𝐄𝐈𝐍 15% OFF 𝐋𝐄𝐓𝐘 𝐼𝓈𝒶𝒾𝒶𝒽 𝟦𝟣:𝟣𝟢 🕊 CEO @orlandopicnic.flower @letyespadasboutique
+      mich: lawyer lady mila: emotional support doodle 💌 collabs: michandmila@gmail.com dog-friendly #lifestyle #travel and #homedecor
     location: "United States"
-    followers: 50748
-    engagement: 196
-    commentsToLikes: 0.095089
-    id: ck0vzx5csbbkn0i19smj5hx8k
+    followers: 15796
+    engagement: 407
+    commentsToLikes: 0.140812
+    id: cl8g9aopv4np50i23d9nqnm14
     verified: false
-    hashtags: ""
-  - username: "stella_thayzer"
-    fullname: >-
-      stella thayzer
-    bio: >-
-      Lifestyle | Travel | Nature | Dicas Graduanda em Nutrição🍎 5/8 Empreendedora @stella_homedecor 🏡 De @portodegalinhas 🌊
-    location: "Brazil"
-    followers: 19411
-    engagement: 323
-    commentsToLikes: 0.157933
-    id: ck15t7cyjgotj0i19j2c97cgb
-    verified: false
-    hashtags: "#positividade, #fitness, #vibes, #fitnessgirl"
-  - username: "kemczi"
-    fullname: >-
-      Kamila Prasek
-    bio: >-
-      #fashion, #lifestyle ,#homedecor ,#travel, #food | Poland contact 📩surifashion4@gmail.com
-    location: "Poland"
-    followers: 50093
-    engagement: 284
-    commentsToLikes: 0.086568
-    id: ck5c1b3kcutf50i11srl7uef5
-    verified: false
-    hashtags: "#beautyaddicted, #styleblogger, #polishgirl, #kosmetyk"
+    hashtags: "#antihero, #ad, #hillspartner, #downwarddog"
   - username: "selinata"
     fullname: >-
       SELINA
     bio: >-
-      🌼Lifestyle🌼 DIY🌼 Creative mind🌼 ❤ @jonas3_3 👫 Own homedecor shop 🛍️ makrameebyselina
+      ❃ VANLIFE ❃INTERIOR LOVE ❃DIY ❥ @jonas3_3 Own homedecor shop ❃makrameebyselina❃
     location: "Germany"
-    followers: 5563
-    engagement: 620
-    commentsToLikes: 0.072358
+    followers: 4563
+    engagement: 511
+    commentsToLikes: 0.044632
     id: ck6u9q2hxyz2z0j71qhogv49j
     verified: false
-    hashtags: "#anajohnson, #wintervibes, #explorersauruspresets, #winterwonderland"
-  - username: "what_makes_me_enjoy"
+    hashtags: "#vanlife, #springvibes, #winterwonderland, #benakd"
+  - username: "dennisse_homedecor"
     fullname: >-
-      Hej! Tu Marzena 🤎
+      Dennisse Fernandez
     bio: >-
-      📸 #flatlay 🏡 #homedecor ☕️ #mymagicmoment 🤎 #whatmakesmeenjoy 📩 whatmakesmeenjoy@gmail.com ✨ ambasadorka @otsohandmade
-    location: "Poland"
-    followers: 12121
-    engagement: 1175
-    commentsToLikes: 0.118877
-    id: ck6todmoidhj10j719yzizxi5
+      God Above All 🙏🏼 Wife 💍 Mom of 7 ♥️ Lifeonstories 📸 HomeDecor| Cleaning| DIY's| Coffee lover ☕️ DM for collaborations 💌
+    location: "United States"
+    followers: 157614
+    engagement: 484
+    commentsToLikes: 0.209946
+    id: cktf3mtho974z0j23gasrs8g6
     verified: false
-    hashtags: "#interior123, #hyggehome, #xmasiscoming, #christmasflatlay"
-  - username: "soodecoo"
+    hashtags: "#decorideas, #fypage, #livingroomideas, #followformorevideos"
+  - username: "zakreconyswiatwery"
     fullname: >-
-      S͢o͢p͢h͢i͢e͢ -  🌸 Déco
+      Autumn/Home/Aesthetic/Interior
     bio: >-
-      ▪️Maman de 2 petites filles 💕 ▪️Amoureuse #homedecor #inspideco #scandinavehome #decorationinterieur #decoaddict
-    location: "France"
-    followers: 72646
-    engagement: 673
-    commentsToLikes: 0.096872
-    id: ck6tmstnl8gsy0j71i6ljum51
+      Marzena 📸 Kocham dodatki do domu i kwiaty Domowy misz masz 📩 kontakt wera2604@interia.pl homedecor ♡ lifestyle ♡bookstagram ♡interior
+    location: ""
+    followers: 14539
+    engagement: 693
+    commentsToLikes: 0.092048
+    id: ck5zuiyic2g7u0i14xtchg00r
     verified: false
-    hashtags: "#interior2you, #decoracion, #instagram, #livingroomgoals"
-  - username: "domek_na_krotkiej"
+    hashtags: "#whiteflowers, #jesiennedekoracje, #jesiennekadry, #lilacmood"
+  - username: "we_dabble"
     fullname: >-
-      Cześć jestem Daria😊
+      VALERIE + MARIO Home Decor/DIY
     bio: >-
-      Zapraszam do mojego domu 🏠 #domeknakrotkiej #scandinavianstyle #homedecor 🏘 Projekty koncepcyjne @daria_projektuje 📩Współpraca domeknakrotkiej@wp.pl
-    location: "Poland"
-    followers: 23434
-    engagement: 589
-    commentsToLikes: 0.089283
-    id: ck8t5ddf29qoh0j7843rvzt2w
+      Wife+Hubby Duo! 💚Loving what we do + Sharing it with all of you! 💚 HomeDecor/DIY 💚 Thrifting+VintageFinds • Featured @americanfarmhousestyle + more
+    location: "United States"
+    followers: 27206
+    engagement: 315
+    commentsToLikes: 0.172010
+    id: cknodnb202mow0j23ijzyiwm6
     verified: false
-    hashtags: "#livingroom, #home, #livingroomdecor, #domparterowy"
+    hashtags: "#livingspaces, #dutchdoor, #plantsmakemehappy, #countrysamplerfarmhousestyle"
+  - username: "seelensachen"
+    fullname: >-
+      Nora Mayrhofer-Kadlicz
+    bio: >-
+      🪴 HOMEDECOR INTERIOR FLOWERS & GARDEN 🪴 Fotografin und Interiorstylistin Autorin Patchworkfamilie | Landhaus | DIY & Tipps 🏡
+    location: "Austria"
+    followers: 29078
+    engagement: 309
+    commentsToLikes: 0.077508
+    id: ck0tt52zf16zv0i19sv8mgi16
+    verified: false
+    hashtags: "#landhausstyle, #seelensachenwohnzimmer, #landlust, #mycountryhome"
+  - username: "travelloop_swati"
+    fullname: >-
+      Swati Sachdeva 🧿
+    bio: >-
+      👩‍💻Senior Software Engineer ✈️ Exploring the world in style #fashion #travel #lifestyle #homedecor 💌 Collab: swatisachdeva97@gmail.com 📍Bay Area, USA
+    location: "United States"
+    followers: 38234
+    engagement: 245
+    commentsToLikes: 0.032060
+    id: cl85t9olk1rkh0i23crq5oxjw
+    verified: false
+    hashtags: "#distacartfashion, #streetstyle, #yellow, #affordablefashion"
+  - username: "sweetlittlesmithfarm"
+    fullname: >-
+      MIRANDA-CottageBohoFarmhouse
+    bio: >-
+      Faith | HomeDécor | Recipes FarmLife | DIY | FashionInspo BoyMom | PastorsWife #sweetlittlesmithfarm •DM to Collab• facebook.com/sweetlittlesmithfarm
+    location: "United States"
+    followers: 13064
+    engagement: 234
+    commentsToLikes: 0.106818
+    id: ck0w2vxasqfgl0i1900tz2wl5
+    verified: false
+    hashtags: "#modestswimwear, #apostolicfashion, #summerfashion, #farmhousekitchen"
+  - username: "devvyherawati"
+    fullname: >-
+      Devvy Herawati
+    bio: >-
+      🏡 Homedecor #rumahnadhifara #rumahnadhifara2 Endorse ➡️ DM 🎥 T&T DAAI TV eps. 116, IDEA Rumah ⬇️Link Belanja⬇️
+    location: "Indonesia"
+    followers: 11226
+    engagement: 217
+    commentsToLikes: 0.169601
+    id: ck9we5x3liqy20j78pr72lsy3
+    verified: false
+    hashtags: "#diningroom, #inspirasirumahidaman, #ruangmakan, #rumahminimalis"
 ---

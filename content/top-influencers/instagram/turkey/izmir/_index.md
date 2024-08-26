@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Izmir In 2023
+title: Top 10 Instagram Influencers In Izmir In 2024
 description: >-
-  Find top Instagram influencers in Izmir in 2023. Most popular hashtags: #izmir #photooftheday #amatormusic.
+  Find top Instagram influencers in Izmir in 2024. Most popular hashtags: #izmir #reklam #reels.
 platform: Instagram
-hits: 1473
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 1473 Instagram influencers like this in Izmir, Turkey for you to work with.
+hits: 1449
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 1449 Instagram influencers like this in Izmir, Turkey for you to collaborate.
 profiles:
   - username: "melisnalbantlar"
     fullname: >-
@@ -43,88 +43,88 @@ profiles:
     id: ckf5wudont8z80j23od25fpzy
     verified: false
     hashtags: "#voicestage, #evdekal, #gitar, #sarkilardahepsen"
-  - username: "gorkemortulll"
+  - username: "izmirgeyiik"
     fullname: >-
-      Görkem
+      İzmir Geyik
     bio: >-
-      Snapchat: Gorkemortul İSTANBUL/İZMİR
+      İletişim 👉🏼 @social.deer 🦌 İzmir’in mizah platformu 🎈🎊
     location: "Turkey"
-    followers: 11902
-    engagement: 922
-    commentsToLikes: 0.080554
-    id: ck9wem0rtkuzd0j78dg4lju49
+    followers: 440802
+    engagement: 713
+    commentsToLikes: 0.028283
+    id: ckaozwgc6npli0i78r4es9j4l
     verified: false
-    hashtags: "#tb, #de, #evrim"
-  - username: "xzeynepcegilx"
+    hashtags: "#bubiletsenin"
+  - username: "endamdan"
     fullname: >-
-      ZEYNEP ÇEĞİL
+      Endam Orçun
     bio: >-
-      "17 Sivas-İzmir NHMTAL|| Çocuk gelişimi ve eğitimi 🇹🇷𐱅𐰇𐰼𐰚🇹🇷
+      📍İzmir 💄Beauty | Makeup | Lifestyle 💌 endamorcun@gmail.com 👩🏻‍🔬PAU Chemical Engineering
     location: "Turkey"
-    followers: 2321
-    engagement: 1808
-    commentsToLikes: 0.193393
-    id: ckf5ufxy3krhu0j23hoso4wpo
+    followers: 12558
+    engagement: 532
+    commentsToLikes: 0.127425
+    id: ck600ropde50v0i14a6pfhv9w
     verified: false
-    hashtags: ""
-  - username: "cocuklada_gezilir"
+    hashtags: "#avonturkiye, #niacinamide, #avon, #gold"
+  - username: "seelcanyvz"
     fullname: >-
-      Aysun
+      SELCAN YAVUZ
     bio: >-
-      Herkes gezer ama iki çocukla gezmek marifettir.. Burak&Doruk yollardayiz.. 🛣 👨‍👩‍👧‍👧 🛤 🏠 İzmir
+      İzmir📍 H🖤 Selcanyavuzpr@gmail.com
     location: "Turkey"
-    followers: 63766
-    engagement: 290
-    commentsToLikes: 0.480056
-    id: ck6ue7txbpbni0j71ll94hflt
+    followers: 267215
+    engagement: 715
+    commentsToLikes: 0.012856
+    id: ckf5v960snr1c0j23tqkgf88k
     verified: false
-    hashtags: "#letsgosomewhere, #traveladdict, #spil, #photooftheday"
-  - username: "_burcu_"
+    hashtags: "#reklam, #makeuptutorial, #makeup, #ootd"
+  - username: "bayangezenbayyiyen"
     fullname: >-
-      Burcu
+      Bayangezen Bayyiyen
     bio: >-
-      📍İzmir 📍Ankara
+      📞 İletişim için Mail &Dm #izmir 🎥 Youtube
     location: "Turkey"
-    followers: 39483
-    engagement: 296
-    commentsToLikes: 0.209106
-    id: ck8t09fubraar0j78sp6pto22
+    followers: 163323
+    engagement: 367
+    commentsToLikes: 0.034857
+    id: ck9wgmp3mu18n0j78y3lhp1eo
     verified: false
-    hashtags: "#nailarttutorial, #nailartvideos, #nailartt, #notd"
-  - username: "avhamzadag"
+    hashtags: "#reelsinstagram, #ke, #explore, #sel"
+  - username: "aykutelmas"
     fullname: >-
-      Hamza Dağ
+      Aykut Elmas
     bio: >-
-      İzmir Milletvekili
+      📍İzmir 📩 İletişim: aykutelmas@temtalent.com
     location: "Turkey"
-    followers: 39851
-    engagement: 774
-    commentsToLikes: 0.022008
-    id: ck0w4hd9oykq70i19mjj0r7r0
+    followers: 7681539
+    engagement: 302
+    commentsToLikes: 0.004387
+    id: ck0uaonkeco760i19g57gme9g
     verified: true
-    hashtags: "#izmir, #2000, #bisan, #bal"
-  - username: "busranurcalar"
+    hashtags: ""
+  - username: "ilkergumusoluk"
     fullname: >-
-      Büşra Nur Söylemez
+      İlker Gümüşoluk
     bio: >-
-      🧔🏻👧🏻👶🏻 Ankara📍İzmir 💌 busranrsoylemez@gmail.com Yedek Hesap @bsrnrclr
+      Gösteriler; Ankara - Watergarden - Bursa - Bodrum - İzmir İşbirlikleri için👇🏾 ilkergumusoluk@gmail.com Etkinlikler için👇🏾 umut@masksanat.com
     location: "Turkey"
-    followers: 1229017
-    engagement: 207
-    commentsToLikes: 0.051313
-    id: ck0u2a292ze4r0i19marf0ncj
-    verified: false
-    hashtags: "#endonesia, #goodnight, #hay, #anneleric"
-  - username: "nihanayanoglu"
+    followers: 510694
+    engagement: 1128
+    commentsToLikes: 0.014662
+    id: ck5ca4942co1r0i110zme0jpr
+    verified: true
+    hashtags: "#biletlersat, #ilkerg, #entertainment, #nightout"
+  - username: "av.alperencihancetinkaya"
     fullname: >-
-      ℕ I H A ℕ
+      Avukat Alperen Cihan Çetinkaya
     bio: >-
-      Based in Izmir 🕊 Lifestyle • Beauty • Fashion
+      🥇ÇETİNKAYA AVUKATLIK OFİSİ 🎓STRASBOURG III ROBERT SCHUMAN & SELCUK 📍İZMİR 🐺 BİR AVUKATTAN DAHA FAZLASI
     location: "Turkey"
-    followers: 11689
-    engagement: 623
-    commentsToLikes: 0.415411
-    id: ck13agb68q9710i19irrzsxis
+    followers: 79443
+    engagement: 572
+    commentsToLikes: 0.030631
+    id: ck5q9y3ahdleb0i11gyvlmrnt
     verified: false
-    hashtags: "#gu, #bolu, #winteractivity, #snow"
+    hashtags: "#ala, #izmir, #avukat, #lawyer"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Madrid In 2023
+title: Top 10 Fitness Instagram Influencers In Madrid In 2024
 description: >-
-  Find top fitness Instagram influencers in Madrid in 2023. Most popular hashtags: #fitness #madrid #summer #style.
+  Find top fitness Instagram influencers in Madrid in 2024. Most popular hashtags: #madrid #fitness #style #spain.
 platform: Instagram
-hits: 132
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 132 Instagram influencers like this in Madrid, Spain for you to work with.
+hits: 147
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 147 Instagram influencers like this in Madrid, Spain for you to pitch.
 profiles:
   - username: "daniegm27"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck8t6t5e1elxa0j78opsz9sy8
     verified: false
     hashtags: "#healthy, #foodgram, #influencer, #lovefood"
-  - username: "marthaldc"
-    fullname: >-
-      Marta Lamamié De Clairac
-    bio: >-
-      📍 Madrid 🇪🇸 @pophouse @francinamodels 🇩🇪 @parsmanagement 🧚🏼 Tita, la eterna Peter Pan.
-    location: "Spain"
-    followers: 8262
-    engagement: 721
-    commentsToLikes: 0.068798
-    id: ckaorjiy4niiu0i78v84m4n7x
-    verified: false
-    hashtags: "#swimwear, #summer, #girl, #happy"
   - username: "pitomag8"
     fullname: >-
       MIGUEL GUEVARA
@@ -43,42 +31,30 @@ profiles:
     id: ck6u7518djivs0j71hva19wpc
     verified: false
     hashtags: "#happyday, #matrix, #andrewchristianintl, #piense"
-  - username: "deinworkout"
+  - username: "salvagrc"
     fullname: >-
-      Pedro Otero Talavera
+      𝕾𝖆𝖑𝖛𝖆𝖉𝖔𝖗 𝕲𝖆𝖗𝖈𝖎́𝖆
     bio: >-
-      ▶@underarmour athlete #IWILL ▶Organizador SWUB🏆 ▶ Street workout athlete ▶@teambioco ▶@noccospain athlete
+      🌍| Madrid, España 📩| salvagv31@gmail.com
     location: "Spain"
-    followers: 28213
-    engagement: 652
-    commentsToLikes: 0.007839
-    id: ck55ls0f82a0w0i11fpn2su2y
+    followers: 26170
+    engagement: 484
+    commentsToLikes: 0.044495
+    id: ck5zzqxsvc9ei0i14j273kmo8
     verified: false
-    hashtags: ""
-  - username: "carito_csta"
+    hashtags: "#model, #madrid, #fitness, #spain"
+  - username: "manu_wifi"
     fullname: >-
-      𝓒𝓪𝓻𝓸𝓵𝓲𝓷𝓪 𝓒𝓪𝓼𝓽𝓪ñ𝓸 👑
+      Manu
     bio: >-
-      📍Medellín / Colombia💛💙❤ Si crees que mi orgullo es grande, es porque no has visto el tamaño de mi fe. Del corazón de Colombia☕ Manizales💕
+      Un poco de 🎧 un poco de 🎨 un poco de 🍷un poco de 🌎 un poco de 🏋🏻 y más 😻😻😻 Beard ambassador de @nattivispro
     location: "Spain"
-    followers: 40516
-    engagement: 1239
-    commentsToLikes: 0.026359
-    id: ck9hcbx8zkosc0j782yieob13
+    followers: 14785
+    engagement: 1060
+    commentsToLikes: 0.091783
+    id: ck6trqzih0ku10j713ftynok4
     verified: false
-    hashtags: "#blonde, #fitnesslife, #quindio, #ejecafetero"
-  - username: "alejandro__villamizar"
-    fullname: >-
-      𝓐𝓥𝓖🐊
-    bio: >-
-      🇪🇸/🇨🇴 💥 TIKTOK: Alejandro.villamizar +900k 😏 Subo contenido muy LOCO 📍 Madrid/Malaga 📥 avillagarcia262@gmail.com
-    location: "Spain"
-    followers: 38610
-    engagement: 2676
-    commentsToLikes: 0.020044
-    id: ck8wgajlyh0d70j786ley7ceq
-    verified: false
-    hashtags: "#liketime, #fitmodel, #photographyoftheday, #broma"
+    hashtags: "#naturalcosmetics, #followforfollowback, #beardstyles, #igers"
   - username: "teambioco"
     fullname: >-
       TB - TEAM BIOCO
@@ -103,18 +79,42 @@ profiles:
     id: ck5q6hj4bxewl0i119z3wa339
     verified: true
     hashtags: "#autoayuda, #books, #heslthylifestyle, #inspiracion"
-  - username: "salvagrc"
+  - username: "micheljaureguiofficial"
     fullname: >-
-      𝕾𝖆𝖑𝖛𝖆𝖉𝖔𝖗 𝕲𝖆𝖗𝖈𝖎́𝖆
+      MICHEL JAUREGUI
     bio: >-
-      🎬| @wantedagency 📸| @thepremiumink 📩| salvagv31@gmail.com
+      🔸ACTOR Y CANTANTE 🔸 🦁El Rey León España 🇪🇸🇲🇽 🌎Twitter: @JaureguiMich 📍MADRID 📩Contrataciones: DobleM Talent Agency
     location: "Spain"
-    followers: 27711
-    engagement: 504
-    commentsToLikes: 0.043816
-    id: ck5zzqxsvc9ei0i14j273kmo8
+    followers: 8092
+    engagement: 398
+    commentsToLikes: 0.027228
+    id: ck6udnf6wm3fg0j712j2ry5qx
     verified: false
-    hashtags: "#madrid, #style, #fitness, #model"
+    hashtags: "#photooftheday, #mexico, #ibiza, #style"
+  - username: "espadamadd"
+    fullname: >-
+      Miguel Espada aka Mike Sword
+    bio: >-
+      Dummy 🎭 Parkour 2006 @lanaveparkour @madd_parkour
+    location: "Spain"
+    followers: 26664
+    engagement: 1432
+    commentsToLikes: 0.018075
+    id: ck6tpes06jg8p0j716kcuqvgg
+    verified: false
+    hashtags: "#madrid, #cuarentena, #freerunning, #training"
+  - username: "louisarmstrong7"
+    fullname: >-
+      Louis Armstrong
+    bio: >-
+      RUN / LIFT / SEND ⚡️⚡️⚡️ All my links ⬇️
+    location: "Spain"
+    followers: 99621
+    engagement: 305
+    commentsToLikes: 0.020980
+    id: ck55lzy632v970i11hr83yz14
+    verified: false
+    hashtags: "#formentera, #ultramarathon, #running, #ibiza"
   - username: "richarddicorsa"
     fullname: >-
       RICCARDO
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.031113
     id: ck0u0i24htrzd0i19rmy1iyt9
     verified: false
-    hashtags: "#policia, #blackandwhite, #me, #style"
+    hashtags: "#mensphysique, #me, #style, #fitness"
 ---

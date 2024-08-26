@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers TikTok Influencers In France In 2023
+title: Top 10 Bakers TikTok Influencers In France In 2024
 description: >-
-  Find top bakers TikTok influencers in France in 2023. Most popular hashtags: #fyp #pourtoi #foryou #humour.
+  Find top bakers TikTok influencers in France in 2024. Most popular hashtags: #fyp #pourtoi #foryou #humour.
 platform: TikTok
 hits: 12
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 12 TikTok influencers like this in France for you to contact.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 12 TikTok influencers like this in France for you to pitch.
 profiles:
   - username: "mamate37.humour"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In France In 2023
+title: Top 10 Mothers TikTok Influencers In France In 2024
 description: >-
-  Find top mothers TikTok influencers in France in 2023. Most popular hashtags: #foryou #mother #fyp #pourtoi.
+  Find top mothers TikTok influencers in France in 2024. Most popular hashtags: #foryou #mother #pourtoi #fyp.
 platform: TikTok
 hits: 45
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 45 TikTok influencers like this in France for you to contact.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: inBeat has 45 TikTok influencers like this in France for you to work with.
 profiles:
   - username: "amelie_lfs"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.010955
     id: ck9ka8znhgajz0j78iesxbjq4
     verified: false
-    hashtags: "#mother, #children, #sketch, #comedy"
+    hashtags: "#mother, #humour, #children, #sketch"
   - username: "pseudo2ouf"
     fullname: >-
       Justine
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.044535
     id: ck9rnrdq38wxy0j78od9isafa
     verified: false
-    hashtags: "#amour, #pourtoi, #humour, #foryou"
+    hashtags: "#tiktok, #crazy, #mother, #look"
   - username: "gautiermrqs"
     fullname: >-
       G A U T I E R 
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.017668
     id: ckdt4yn2csy6d0j23102axijd
     verified: false
-    hashtags: "#foryou, #sia, #reaction, #pourtoi"
+    hashtags: "#sia, #foryoupage, #singing, #mother"
   - username: "racing.stripes"
     fullname: >-
       🐾Queen🐾
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.011996
     id: ckamf6yo66r5f0i78ogrzshiv
     verified: false
-    hashtags: "#maman, #chinois, #tiktok, #com"
+    hashtags: "#com, #chinois, #tiktok, #maman"
   - username: "ornellaaaa20"
     fullname: >-
       BIGFAMILY20❤️

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Los Angeles In 2023
+title: Top 10 Models Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top models Instagram influencers in Los Angeles in 2023. Most popular hashtags: #model #photography #losangeles.
+  Find top models Instagram influencers in Los Angeles in 2024. Most popular hashtags: #model #losangeles #love.
 platform: Instagram
-hits: 923
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 923 Instagram influencers like this in Los Angeles, United States for you to contact.
+hits: 1065
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 1065 Instagram influencers like this in Los Angeles, United States for you to collaborate.
 profiles:
   - username: "aliromo89"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.014059
     id: ck5q8uo9c81440i11kafy1rr3
     verified: false
-    hashtags: "#blackcosplayer, #afro, #blondehair, #bussit"
+    hashtags: "#kembeckled, #cccosplay, #wigs, #afro"
   - username: "sidneynicolerogers"
     fullname: >-
       Sidney Nicole Rogers
@@ -79,6 +79,18 @@ profiles:
     id: ck0twanj8endt0i19uil94bhy
     verified: false
     hashtags: "#dogood, #begood"
+  - username: "cuttinoslife"
+    fullname: >-
+      Cuttino
+    bio: >-
+      Retired NBA/Thought Leader -Dads Point Of View
+    location: "United States"
+    followers: 378033
+    engagement: 99
+    commentsToLikes: 0.061438
+    id: ck5pysoooxm2q0i11qvlzh22b
+    verified: true
+    hashtags: "#mother, #peace, #children, #love"
   - username: "natalieannepetti"
     fullname: >-
       Natalie Anne Petti
@@ -91,18 +103,18 @@ profiles:
     id: ck5bvrw6uka7u0i11brd2mgno
     verified: false
     hashtags: "#miami, #dance, #onlyfans, #latina"
-  - username: "liv_aloha_"
+  - username: "sonnymatson"
     fullname: >-
-      Liv Aloha
+      Sonny Matson
     bio: >-
-      Island Girl from Maui Hawai’i 🍍 San Diego📍SDSU ‘23 @axosdsu TikTok @livvaloha For Collabs EMAIL👇
+      
     location: "United States"
-    followers: 30496
-    engagement: 250
-    commentsToLikes: 0.016451
-    id: ckap3eaei2plf0i78g7yh2rct
+    followers: 39561
+    engagement: 377
+    commentsToLikes: 0.023806
+    id: ck5cgwyylpp5b0i11kl99wvu0
     verified: false
-    hashtags: "#bikinimodel, #mood, #ohauhawaii, #bikini"
+    hashtags: "#shotbysonny, #beauty, #model, #losangeles"
   - username: "itsambermariee"
     fullname: >-
       Amber Marie💋
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.094497
     id: ck8t0bjzari8m0j78xhush243
     verified: false
-    hashtags: "#light, #model, #losangeles, #face"
-  - username: "maury_bruce"
-    fullname: >-
-      Maury Bruce
-    bio: >-
-      MA: @imdinc / hollie@imdmodeling.com
-    location: "United States"
-    followers: 3067
-    engagement: 1260
-    commentsToLikes: 0.099094
-    id: ck0u2n96g0gbt0i19tbtyo94j
-    verified: false
-    hashtags: "#streetphotography, #fitnessmotivation, #relationshipgoals, #photoshoot"
+    hashtags: "#outfit, #la, #director, #booking"
 ---

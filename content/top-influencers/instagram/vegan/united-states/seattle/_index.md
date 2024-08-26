@@ -1,36 +1,24 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Seattle In 2023
+title: Top 10 Vegan Instagram Influencers In Seattle In 2024
 description: >-
-  Find top vegan Instagram influencers in Seattle in 2023. Most popular hashtags: #vegan #seattle #plantbased #vegetarian.
+  Find top vegan Instagram influencers in Seattle in 2024. Most popular hashtags: #vegan #plantbased #seattle #foodphotography.
 platform: Instagram
-hits: 29
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 29 Instagram influencers like this in Seattle, United States for you to pitch.
+hits: 39
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 39 Instagram influencers like this in Seattle, United States for you to pitch.
 profiles:
-  - username: "tdteats"
+  - username: "tonydoto"
     fullname: >-
-      • TDTEATS • || Seattle Foodie
+      Tony Do To
     bio: >-
-      📍SEA, WA 🙋🏻‍♂️: Tony || #Mukbangs, Food Videos, Reels! 📧: tdteats@gmail.com 💡: @basarestaurant @tdtplants ✨: #StopAsianHate
+      1st gen • washington native • #tdteats • 💡: ✨celebrating food, fashion & community✨ 📖: @about.first - give my non-profit a follow!
     location: "United States"
-    followers: 7646
-    engagement: 577
-    commentsToLikes: 0.256181
+    followers: 7101
+    engagement: 377
+    commentsToLikes: 0.139535
     id: ck0tw1rj8dngh0i19vvvtbxct
     verified: false
-    hashtags: "#sponsored, #seattlewa, #foodstagram, #pnw"
-  - username: "vanishingseattle"
-    fullname: >-
-      Vanishing Seattle
-    bio: >-
-      Documenting/celebrating disappearing & displaced small biz, communities & cultures of Seattle. Venmo: @vanishing_seattle Cashapp: $VanishingSeattle
-    location: "United States"
-    followers: 51326
-    engagement: 220
-    commentsToLikes: 0.037370
-    id: ck14gfq6x4zu60i19spc769nq
-    verified: false
-    hashtags: "#seattleculture, #seattlesoul, #seattlecommunity, #capitolhill"
+    hashtags: "#foodstagram, #plantbased, #seattleeats, #bestfoodseattle"
   - username: "naturalveganguy"
     fullname: >-
       NATURAL VEGAN GUY
@@ -55,30 +43,6 @@ profiles:
     id: ck0vv37ypnbxd0i194kp36dp1
     verified: false
     hashtags: "#vegansnacks, #vegangains, #veganrecipe, #vegetarian"
-  - username: "sabrazaraa"
-    fullname: >-
-      Seattle Lifestyle & Travel | PharmD, MPH, PhC
-    bio: >-
-      🇹🇳🇺🇸 Healthy lifestyle, skincare, food & travel Pharmacist | Researcher Inspiring YOU to be the best version of yourself 💌 Sabra.zaraa@gmail.com
-    location: "United States"
-    followers: 77441
-    engagement: 726
-    commentsToLikes: 0.023415
-    id: ck14lbl7wtu3i0i191qq4vdxr
-    verified: false
-    hashtags: "#visittunisia, #seattlewa, #visitdjerba, #skincaretips"
-  - username: "lauramakfitness"
-    fullname: >-
-      𝐋𝐚𝐮𝐫𝐚 𝐌𝐚𝐤, 𝐌𝐒, 𝐌𝐚𝐬𝐭𝐞𝐫 𝐓𝐫𝐚𝐢𝐧𝐞𝐫
-    bio: >-
-      Help 40+ women ditch brain fog & muffin top with 𝘱𝘳𝘰𝘷𝘦𝘯 𝐌𝐚𝐤𝐀𝐭𝐭𝐚𝐜𝐤𝐅𝐢𝐭𝐋𝐢𝐟𝐞 method. It’s a fun lifestyle, not a fad! 🧘🏼‍♀️Yoga 💪Strength 🥬Food 🎤NOWFoods
-    location: "United States"
-    followers: 17106
-    engagement: 579
-    commentsToLikes: 0.032847
-    id: ck5hqgm9ht2ua0i11goaocwa8
-    verified: false
-    hashtags: "#fitat40, #mindfulnesspractice, #healthymindsets, #selflovetips"
   - username: "mysweetlilcakes"
     fullname: >-
       Sweetcakes Catering
@@ -90,19 +54,7 @@ profiles:
     commentsToLikes: 0.011694
     id: ck55m1w972zxt0i111st2mj1l
     verified: false
-    hashtags: "#holidayparty, #cherrychocolate, #bananacinnamon, #cakeonastick"
-  - username: "foodooboos"
-    fullname: >-
-      Soondoo Boo
-    bio: >-
-      📍DMV x ✈️ | @jpanphotographyx 📸 #dmvfoodiecrew | @zipkick | Yelp Elite19’-🎁 ❗️$10off FantuanApp Code: Judy #fujixseries 📷 DM for collabs 📬 いただきま!
-    location: "United States"
-    followers: 12110
-    engagement: 545
-    commentsToLikes: 0.292552
-    id: ck5hqu203tq2k0i11plgxseab
-    verified: false
-    hashtags: "#fantuandelivery, #dessert, #dcfood, #ilovebubbletea"
+    hashtags: "#townclassic, #cherrychocolate, #beautiesltd, #holidayparty"
   - username: "iammarkbautista"
     fullname: >-
       Mark Bautista
@@ -126,5 +78,53 @@ profiles:
     commentsToLikes: 0.031297
     id: ck9wdiimvfs0r0j7847b161qh
     verified: false
-    hashtags: "#darkartandcraft, #lordego1, #acrylic, #hifructose"
+    hashtags: "#egoart, #beautifulbizarre, #evolvedmagazine, #acrylicpaint"
+  - username: "lrk_kung"
+    fullname: >-
+      Luiz Ricardo
+    bio: >-
+      I’m the voice for the voiceless🌱 . 👶🏻 🇧🇷 📍🇺🇸 L.A. Eating plants since 2014 What I eat: @eatwithlrk Proud dad of @chiatheveganpit
+    location: "United States"
+    followers: 25611
+    engagement: 235
+    commentsToLikes: 0.054071
+    id: ck5cd3kmuih1s0i11pci59bou
+    verified: false
+    hashtags: "#plantbased, #guys, #pride, #tattoo"
+  - username: "simplyseattlesweets"
+    fullname: >-
+      Linda | Seattle Content Creator
+    bio: >-
+      Food | Travel | Lifestyle ✨Inspiring others to live their sweetest life! 💌: simplyseattlesweets14@gmail.com
+    location: "United States"
+    followers: 13764
+    engagement: 434
+    commentsToLikes: 0.097545
+    id: clpdgye8mf62m0k08icrzw4yk
+    verified: false
+    hashtags: "#cocktails, #bellevue, #dessert, #happyhour"
+  - username: "katlieu"
+    fullname: >-
+      Kat Lieu
+    bio: >-
+      Bestselling Author, Modern Asian Baking Founder @subtleasian.baking Check out my Reels👸🏻🌈 Seattle-based food writer @thespruceeats @tastingtable
+    location: "United States"
+    followers: 20092
+    engagement: 3418
+    commentsToLikes: 0.033127
+    id: clivee2rs2kbd0j08sv0x704c
+    verified: false
+    hashtags: "#ube, #easyrecipe, #explorepage, #glutenfree"
+  - username: "eatsbynat"
+    fullname: >-
+      Natalie
+    bio: >-
+      wellness, food, and other things i love 24 | seattle
+    location: "United States"
+    followers: 4127
+    engagement: 941
+    commentsToLikes: 0.088461
+    id: ckqyg6u003jq50j23lin57rgn
+    verified: false
+    hashtags: "#fuelyourbody, #foodreel, #foodfreedom, #mealinspo"
 ---

@@ -1,24 +1,24 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Switzerland In 2023
+title: Top 10 Makeup Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top makeup Instagram influencers in Switzerland in 2023. Most popular hashtags: #makeup #maccosmetics #makeupartist #love.
+  Find top makeup Instagram influencers in Switzerland in 2024. Most popular hashtags: #makeup #ad #makeupartist #love.
 platform: Instagram
-hits: 68
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 68 Instagram influencers like this in Switzerland for you to contact.
+hits: 116
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 116 Instagram influencers like this in Switzerland for you to connect with.
 profiles:
   - username: "patricia.cori.na"
     fullname: >-
-      𝙿𝚊𝚝𝚛𝚒𝚌𝚒𝚊 𝙲𝚘𝚛𝚒𝚗𝚊
+      Patricia Corina
     bio: >-
-      BEAUTY | CREATIVITY | FASHION Swiss Blogger - Content Creator 🇨🇭 Professional Makeup Artist Founder @daisysaccessoires Blog since 2012↓
+      BEAUTY | CREATIVITY | FASHION Swiss Content Creator 🇨🇭 Professional Makeup Artist Contact ✉️ anfragen@patriciacorina.ch
     location: "Switzerland"
-    followers: 23172
-    engagement: 413
-    commentsToLikes: 0.133008
+    followers: 25453
+    engagement: 268
+    commentsToLikes: 0.008968
     id: ck5znr6vtp0550i14nyiskvyh
     verified: false
-    hashtags: "#beautycreations, #muasofinstagram, #win, #verlosung"
+    hashtags: "#glamyou, #anzeige, #brunch, #glamfam"
   - username: "karinefahmyofficial"
     fullname: >-
       Karine Fahmy
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.355898
     id: ck5hfog4lyhj10i11067kqkhc
     verified: false
-    hashtags: "#blazin, #nudelip, #ofrahighlighter, #blueglitter"
+    hashtags: "#featuringmua, #cutcrease, #muasupport, #hudabeautytantour"
   - username: "makeupbyesra"
     fullname: >-
       Esra Mermer
@@ -67,64 +67,64 @@ profiles:
     id: ck0u0kpr2u4wd0i197bh3agnx
     verified: false
     hashtags: "#theartistedit, #schweiz, #maclipstick, #flawless"
-  - username: "mahabeautycare"
+  - username: "alyten__"
     fullname: >-
-      Maha Maharajah - Pro Make up and Hair artist
+      🪬✨Alyanna Iten✨🪬
     bio: >-
-      15+ yrs experience | Based in Switzerland🇨🇭 🔓BRIDAL DIARY OPEN FOR 2023 🚫DM - mahabeautycareswiss@gmail.com
+      Welcome lovely People💕 👶 Mommy-to-be 🏔 Switzerland 🇨🇭 ✍️ @chalk.n.art
     location: "Switzerland"
-    followers: 39624
-    engagement: 732
-    commentsToLikes: 0.014930
-    id: ck5zihgcrfpi80i14a8f3gzvo
+    followers: 2746
+    engagement: 1564
+    commentsToLikes: 0.084057
+    id: ck0ttneyw3h6c0i19tl0iq3j4
     verified: false
-    hashtags: "#mommytobe, #tamilwedding, #baby, #pregnant"
-  - username: "crisa.filip"
+    hashtags: "#switzerland, #paradise, #love, #swiss"
+  - username: "jessyluxe"
     fullname: >-
-      Crisa
+      JESSICA VU ⌫
     bio: >-
-      👩🏻‍⚕️ Medical student 4/6 💉 UMFCD 🎹 Pianist ☕Coffee lover
+      LA 💌 jessica@rare.global
     location: "Switzerland"
-    followers: 10183
-    engagement: 989
-    commentsToLikes: 0.348354
-    id: ck0vva1qro7lv0i196wolsd3n
-    verified: false
-    hashtags: "#medicalstudent, #sunsetlover, #springvibes, #romania"
-  - username: "slayedbyonik"
+    followers: 838472
+    engagement: 710
+    commentsToLikes: 0.002726
+    id: ck0w6j5ki8t480i19t8sryzeq
+    verified: true
+    hashtags: "#loccitanepartner, #makeup, #stylekorean, #ad"
+  - username: "bygerberrr"
     fullname: >-
-      Slayed by Onik
+      abstract makeup artist💫
     bio: >-
-      MAKE UP MASTER
+      hi, it’s me kiara 🤍 • my face is my canvas • puertorriqueña 🇵🇷 & swiss 🇨🇭 • ♡ bygerberrr@gmail.com ♡
     location: "Switzerland"
-    followers: 32248
-    engagement: 2296
-    commentsToLikes: 0.025707
-    id: ck5hqxshutwz60i11sw68rrdm
+    followers: 5287
+    engagement: 811
+    commentsToLikes: 0.134871
+    id: cl4l97amutt7j0i23lgbs6viv
     verified: false
-    hashtags: "#mua, #makeupartist, #zurich, #makeup"
-  - username: "marieschoenmann"
+    hashtags: "#milkmakeup, #graphiclinerlook, #underratedmakeup, #creativemakeup"
+  - username: "the_only_minyar_khalifa_"
     fullname: >-
-      Marie Schönmann| Actress Model
+      𝑴𝒊𝒏𝒚𝒂𝒓 𝑲𝒉𝒂𝒍𝒊𝒇𝒂
     bio: >-
-      International Model/Actress/⛸FigureSkater/🧜Swimmer📍🇨🇭 12yo ✝️ 🗣️🇫🇷🇬🇧🇩🇪 Agency @kidslondon @modamodakids @onetreeplanted ambassador Run by my parents
+      🦂
     location: "Switzerland"
-    followers: 107425
-    engagement: 308
-    commentsToLikes: 0.048172
-    id: ck5bxdvbynjax0i11zxm24ise
+    followers: 443379
+    engagement: 730
+    commentsToLikes: 0.003791
+    id: ckf5x3un5u9i30j23zg0pjcuj
     verified: false
-    hashtags: "#purpledress, #bareface, #makeupfree, #blueeyedbeauty"
-  - username: "lacami.90"
+    hashtags: "#makeup, #instalike, #insta, #tunisia"
+  - username: "wemmse"
     fullname: >-
-      La Cami 🌈✨
+      emma :)
     bio: >-
-      📍 Switzerland based Next stop 🔜 Good mood Influencer 🎈 Ambassador @dakideas 🏔 forever young in love with @nick.caruso ♥️
+      21 🇩🇰🇨🇭 🎙️@losemmal 💌emma@headz-agency.ch
     location: "Switzerland"
-    followers: 21524
-    engagement: 276
-    commentsToLikes: 0.159627
-    id: ck137l3kbc35j0i1945y7sigo
+    followers: 120980
+    engagement: 617
+    commentsToLikes: 0.006543
+    id: cloqwry3lhgxt0j08bon9oi57
     verified: false
-    hashtags: "#couplegoals, #streetphotography, #traveldiary, #luganophotographer"
+    hashtags: "#makeup, #garnierch, #nailhack, #maybellinech"
 ---

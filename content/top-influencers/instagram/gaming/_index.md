@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming Instagram Influencers In 2023
+title: Top 10 Gaming Instagram Influencers In 2024
 description: >-
-  Find top gaming Instagram influencers in 2023. Most popular hashtags: #christmas #christmastime #christmastree.
+  Find top gaming Instagram influencers in 2024. Most popular hashtags: #gaming #nintendo #pokemon.
 platform: Instagram
-hits: 4374
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 4374 Instagram influencers like this for you to pitch.
+hits: 4930
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform has 4930 Instagram influencers like this for you to pitch.
 profiles:
   - username: "videogamesmedia"
     fullname: >-
@@ -31,100 +31,100 @@ profiles:
     id: ckap8424gmqnb0i78t8oje54g
     verified: false
     hashtags: "#gaming"
-  - username: "israel_bidur"
+  - username: "mayfiscella"
     fullname: >-
-      𝗜𝗦𝗥𝗔𝗘𝗟 𝗕𝗜𝗗𝗨𝗥 ★ ישראל בידור
+      M A Y 👽 美 芝
     bio: >-
-      @israel_bidur 😍 @israel.bishul 🧑‍🍳 @israel_bidur_gaming 🕹 @push.il 📺
-    location: ""
-    followers: 1377774
-    engagement: 547
-    commentsToLikes: 0.037169
-    id: ck0ubxlihfig80i19h3d4kzhe
-    verified: false
-    hashtags: ""
-  - username: "dielenka"
-    fullname: >-
-      LENKA 🇸🇰🇦🇹 | Software Engineer
-    bio: >-
-      ✨I write code and love tech Collab: dielenka@gmail.com @travelwithageek ✈️ F1 🏎️ Gaming 👾 Gym 🏋️‍♀️ 🎓 PhD. student 👩🏻‍🔬 Working in cybersec 🔐
+      *ᴍᴜᴄʜ ᴡᴇɪʀᴅᴇʀ ɪɴ ᴘᴇʀsᴏɴ #fashion #beauty #lifestyle #gaming PR/Collabs: mayfiscella@gmail.com 📍: D[M]V 🕙: Tiktok @mayfiscella (64K+)
     location: "United States"
-    followers: 99416
-    engagement: 216
-    commentsToLikes: 0.033877
-    id: ck8t1rehjwqid0j78v901qvua
+    followers: 38619
+    engagement: 1610
+    commentsToLikes: 0.021078
+    id: ck9hcxh2nnd9c0j785mcc1rut
     verified: false
-    hashtags: "#codinglife, #programmerlife, #fitness, #programmerslife"
-  - username: "cherbarnacha"
+    hashtags: "#selfie, #hapakristin, #dating, #selca"
+  - username: "wasabi_doughnut"
     fullname: >-
-      Cherizawa
+      Serge
     bio: >-
-      📩 inquiries@cherizawa.com 🎮 FB Gaming: cherizawa 🐥 Twitter: cherbarnacha
-    location: "Philippines"
-    followers: 545342
-    engagement: 192
-    commentsToLikes: 0.010890
-    id: ckap1wu9fwf3p0i78wnkf9kd7
-    verified: false
-    hashtags: "#infinixnote12pro5g, #5gsmoothgameplay, #pubgmobile, #noonatngayonwifistories"
-  - username: "qqchana"
-    fullname: >-
-      Chana Chiang QQ阿醬
-    bio: >-
-      𝐋𝐞𝐚𝐫𝐧 𝐟𝐫𝐨𝐦 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐈𝐝𝐞𝐧𝐭𝐢𝐟𝐲 𝐰𝐢𝐭𝐡 𝐧𝐨𝐭𝐡𝐢𝐧𝐠 ©本人 Photography 攝影號➜ @chanachiang 𝙲𝙷🇹🇼｜𝙴𝙽🇺🇸｜𝙴𝚂🇵🇪 模特x攝影師x電玩宅x旅遊控 #travel #gaming #food
+      Pokémon - Gaming - Lifestyle Join me in sharing our hobbies! DM/e-mail ⬇️ for collabs/rates
     location: "United States"
-    followers: 32564
-    engagement: 192
-    commentsToLikes: 0.036219
-    id: ck0ty4j7mllio0i19hf3shu4m
+    followers: 46150
+    engagement: 494
+    commentsToLikes: 0.085379
+    id: ckaosix69rowo0i788z4wydzb
     verified: false
-    hashtags: "#fifa22, #fifa, #bikinimodel, #merrychristmas"
-  - username: "prpitaloka"
+    hashtags: "#pokemonscarletandviolet, #nintendofans, #pokemoncenter, #desksetups"
+  - username: "gov.madison"
     fullname: >-
-      プリンセスピタルカ
+      madison
     bio: >-
-      your curious bae🧚🏻 🎀Gaming-Cosplay-Travel-Beauty🎀 Business Inq ✉ Dm/wa:+62 896-9241-7449 (Kai) 2nd acc @heypitaloka @croffleloka_
-    location: "France"
-    followers: 246291
-    engagement: 115
-    commentsToLikes: 0.010188
-    id: ckapbczcizgif0i786hm9v3jk
+      harvard graduate | engineer twitch streamer & pokémon enthusiast 💗 socal gaming account @xxgigglypuff
+    location: "United States"
+    followers: 17554
+    engagement: 734
+    commentsToLikes: 0.035742
+    id: ckap6kupyga850i78ch8fo8r8
     verified: false
-    hashtags: "#nikkeid, #toweroffantasy, #kobenicosplay, #freefire"
-  - username: "lucyflight"
+    hashtags: "#nintendo, #twitchgamer, #gamergirl, #egirls"
+  - username: "laurenzside"
     fullname: >-
-      Lucy Flight
+      LaurenzSide
     bio: >-
-      makeup, fashion, food, fitness, gaming ⚡️ paul@optimustalent.co.uk 📧 A FESTIVE VLOG🎄👇🏼
-    location: "United Kingdom"
-    followers: 141895
-    engagement: 99
-    commentsToLikes: 0.031390
-    id: ck13bwbngxg700i19uws2yq7w
-    verified: false
-    hashtags: "#smilemovie, #teslamodely, #teslamotors, #ad"
-  - username: "myrtlegail"
-    fullname: >-
-      Myrtle Sarrosa
-    bio: >-
-      🇵🇭 Actress. Otaku. Cosplayer. Gamer. 🎮 Playing Games & NFT on FB 3.7M Followers 📩 contact.myrtle@gmail.com 🎥 GMA Network 🏆 Tiktok Awardee for Gaming
-    location: ""
-    followers: 1017734
-    engagement: 70
-    commentsToLikes: 0.016715
-    id: ck136bmo45oto0i196tr4r7jr
+      ⭐️ Self-Proclaimed Gaming Comedian 💜 8M+ On YouTube ⭐️ Everything is Creepy Podcast Host 💜 @bobizard13 is my Player 2 👇🏻 Click below for EVERYTHING
+    location: "United States"
+    followers: 771153
+    engagement: 402
+    commentsToLikes: 0.009178
+    id: ck5pztj402o7w0i11onbatv3i
     verified: true
-    hashtags: "#lgultragear, #codmtayo, #togetherwefight, #codmmunity"
-  - username: "carolzinhasg.pb"
+    hashtags: "#vidconblt23, #alienwarepartner, #rtxon, #vlog"
+  - username: "leahviathan"
     fullname: >-
-      CarolzinhaSG
+      Leah Alexandra
     bio: >-
-      🖱 Streamer do Facebook Gaming 🎙 Apresentadora Gamer (TV e Eventos) 📽 Youtuber | Influencer ♥️ Mãe da @yaya.sg
-    location: "Brazil"
-    followers: 470329
-    engagement: 782
-    commentsToLikes: 0.010996
-    id: ck13afukpq7300i19p46h9elj
+      video game streamer, gaming presenter, voice over, tattoo and metal aficionado. business: zach@intalentdigital.com London, UK
+    location: "United Kingdom"
+    followers: 25190
+    engagement: 493
+    commentsToLikes: 0.014922
+    id: ck6tvurspoe660j71tbriuci6
     verified: false
-    hashtags: "#publi, #emguerracomovovo, #oifibramudatudo, #hbomax"
+    hashtags: "#lilithandco, #ad, #diabloiv, #docmartens"
+  - username: "beskarbaby"
+    fullname: >-
+      ash 🏳️‍⚧️
+    bio: >-
+      GETTING THE GIRLS INTO GAMING current game: BG3 twitch, wigs, gaming setup, media kit👇🏻 DM/email for a collab: beskarbby@gmail.com
+    location: "United States"
+    followers: 37786
+    engagement: 2388
+    commentsToLikes: 0.012320
+    id: clp0bnplz7frk0j08l5l9tuy9
+    verified: false
+    hashtags: "#astarionedit, #karlach, #pcgaming, #viral"
+  - username: "tprshadow"
+    fullname: >-
+      Markus Schrader👾🎮 Nintendo | Pokémon | Gaming | Retro
+    bio: >-
+      🎮 Gamer | Retro Gaming | Console Gamer 🍄 Nintendo Enthusiast 👾 Pokémon
+    location: "United States"
+    followers: 20830
+    engagement: 653
+    commentsToLikes: 0.035752
+    id: ck5q4qn05pxxc0i11n3koyfr2
+    verified: false
+    hashtags: "#nintendods, #gameboycolor, #pokemon, #gamersofinstagram"
+  - username: "reallygorgeous1"
+    fullname: >-
+      Catrina Garcia
+    bio: >-
+      👾 Twitch Affiliate 🎮 Gaming Meme Page ⤹ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙢𝙮 𝙗𝙖𝙙 𝙝𝙖𝙗𝙞𝙩𝙨.🎙 🔥 Use code “GORGEOUS1” @threatllama🦙🏴‍☠️
+    location: "United States"
+    followers: 10133
+    engagement: 801
+    commentsToLikes: 0.034897
+    id: ckaow6rf67ns50i78bwsco0lj
+    verified: false
+    hashtags: "#ps4, #codmw2memes, #memesdaily, #gamermemes"
 ---

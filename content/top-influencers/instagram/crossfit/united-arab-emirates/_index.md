@@ -1,11 +1,11 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Crossfit Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top crossfit Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #fitness #crossfit #dubai #lifestyle.
+  Find top crossfit Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #crossfit #fitness #dubai #life.
 platform: Instagram
-hits: 11
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 11 Instagram influencers like this in United Arab Emirates for you to work with.
+hits: 10
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 10 Instagram influencers like this in United Arab Emirates for you to connect with.
 profiles:
   - username: "shalan.mahmood"
     fullname: >-
@@ -55,18 +55,30 @@ profiles:
     id: ck139ozolmex10i195oa641aa
     verified: false
     hashtags: "#calisthenics, #happy, #vacation, #paje"
-  - username: "charlietaylor"
+  - username: "imcoachab"
     fullname: >-
-      Charlie Taylor
+      Abiola Beckley
     bio: >-
-      🇦🇺 Ex Pro Rugby | 💪🏻 Personal Trainer | 🎥 Actor 📍Dubai🇦🇪 💪🏼: @charlietaylorfit 👨🏼‍💼: @cabucollection 🏋🏼: @proteinworld Code: Charlie NEW VIDEO ⬇️
+      BSC Exercise sci, Dsr coaching, Dappsc @stylebender SnC coach Head coach @teambasebenefit 1% of the 1% Online program 👇🏿👇🏼👇🏻
     location: "United Arab Emirates"
-    followers: 467843
-    engagement: 404
-    commentsToLikes: 0.013807
-    id: ck5pzmkxc1pvb0i1148ww6s74
-    verified: true
-    hashtags: "#inshape, #strong, #resistancebands, #selfy"
+    followers: 4680
+    engagement: 1067
+    commentsToLikes: 0.045503
+    id: ck5zy9jz99gzz0i14l1ve8e9r
+    verified: false
+    hashtags: "#athletics, #dubaisc, #marinapt, #power"
+  - username: "nour_jradeh"
+    fullname: >-
+      Nj
+    bio: >-
+      𝗔 𝗥𝗲𝗮𝗹𝘁𝗼𝗿, 𝗔 𝗠𝗼𝗱𝗲𝗹 & 𝗮 𝗹𝗼𝘁 𝘁𝗼 𝗰𝗼𝗺𝗲 📍DUBAI
+    location: "United Arab Emirates"
+    followers: 78397
+    engagement: 303
+    commentsToLikes: 0.032613
+    id: ck5bv82t8j5ec0i113r1w1vg5
+    verified: false
+    hashtags: "#comment, #photography, #makeupartist, #outfit"
   - username: "mo7mmedsalem"
     fullname: >-
       Mohammed Salem Bin Ghadayer
@@ -79,30 +91,6 @@ profiles:
     id: ck8sxiyxshklj0j78hc07wi2v
     verified: false
     hashtags: "#trekmadone, #firefighter, #dcd997, #crossfit"
-  - username: "arturdainese"
-    fullname: >-
-      ARTÙR DAINESE
-    bio: >-
-      🌍Live to travel, travel to live 🦂 📍Dubai 🇦🇪 ⚜️Brand founder ⬇️ 🐍@arturdainese_python 👘@arturdainese_kimono 📩DM for collab 🗣🇮🇹🇷🇺🇺🇸🇪🇸
-    location: "United Arab Emirates"
-    followers: 44991
-    engagement: 114
-    commentsToLikes: 0.055049
-    id: ck6u8or55st5w0j71j727iufv
-    verified: false
-    hashtags: "#dubaimarina, #sharjah, #instagram, #like"
-  - username: "daly_fit"
-    fullname: >-
-      • ᎠᎪᏞᎥᏞᎪ ᎾᏒᏆᎬᎶᎪ💎 🇮🇨 ⒾⒻⒷⒷ
-    bio: >-
-      ғɪᴛɴᴇss ᴄᴏᴀᴄʜ Exsoldier 🧑🏻‍✈️ 🇪🇸🇺🇸📍MIAMI / Now DUBAI 🇦🇪 💪🏼 @gymkillerofficial 🐉 @dragonpharma_llc 💃🏻 @zumba ZIN 🏃🏻‍♀️ @wearestrongnation SYNC
-    location: "United Arab Emirates"
-    followers: 126892
-    engagement: 467
-    commentsToLikes: 0.007190
-    id: ck5q0rg697e720i11nf77u1ua
-    verified: false
-    hashtags: "#beauty, #sunset, #fitnesslife, #muscle"
   - username: "abrahamlao"
     fullname: >-
       Abraham La O 🧊
@@ -127,4 +115,16 @@ profiles:
     id: ck6uhg2a78x150j71n18oy9cs
     verified: false
     hashtags: "#ktm, #redbulljor, #givesyouwings, #desert"
+  - username: "isa_galvao"
+    fullname: >-
+      ISABELLA GALVÃO, 26 🇧🇷
+    bio: >-
+      CIRCUS / FITNESS / LIFESTYLE 📍Dubai ▫️Aerialist/Acrobat at @laperledxb 🎭 ▫️Acrobatics, Circus, Stretching Coach ▫️Personal Trainer ▫️YOUTUBE⬇️
+    location: "United Arab Emirates"
+    followers: 10683
+    engagement: 409
+    commentsToLikes: 0.051050
+    id: ckap20658wtcf0i78prrhfs74
+    verified: false
+    hashtags: "#circuseverydamnday, #aerialist, #yogatips, #laperledxb"
 ---

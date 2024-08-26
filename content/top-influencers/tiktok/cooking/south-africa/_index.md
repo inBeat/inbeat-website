@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In South Africa In 2023
+title: Top 10 Cooking TikTok Influencers In South Africa In 2024
 description: >-
-  Find top cooking TikTok influencers in South Africa in 2023. Most popular hashtags: #duet #tiktoksouthafrica #fyp #foryoupage.
+  Find top cooking TikTok influencers in South Africa in 2024. Most popular hashtags: #duet #tiktoksouthafrica #fyp #viral.
 platform: TikTok
 hits: 9
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 9 TikTok influencers like this in South Africa for you to connect with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our database has 9 TikTok influencers like this in South Africa for you to connect with.
 profiles:
   - username: "life_with_lerato"
     fullname: >-

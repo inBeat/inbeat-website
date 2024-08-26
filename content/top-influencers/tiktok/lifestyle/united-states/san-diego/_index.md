@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In San Diego In 2023
+title: Top 10 Lifestyle TikTok Influencers In San Diego In 2024
 description: >-
-  Find top lifestyle TikTok influencers in San Diego in 2023. Most popular hashtags: #fyp #sandiego #foryou #sd.
+  Find top lifestyle TikTok influencers in San Diego in 2024. Most popular hashtags: #fyp #sandiego #foryou #greenscreen.
 platform: TikTok
-hits: 15
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 15 TikTok influencers like this in San Diego, United States for you to pitch.
+hits: 16
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 16 TikTok influencers like this in San Diego, United States for you to work with.
 profiles:
   - username: "benhornn"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckacgukn4woy10i78163lz6e5
     verified: false
     hashtags: "#greenscreen, #fashion"
+  - username: "dockp"
+    fullname: >-
+      Kourosh Parsapour MD
+    bio: >-
+      Former class clown Current doctor-preneur Thu. Live 7p PST MATURE AUDIENCE ONLY
+    location: "United States"
+    followers: 17100
+    engagement: 712
+    commentsToLikes: 0.305911
+    id: ck8w3ehkx7emg0j78ldgekblc
+    verified: false
+    hashtags: "#tiktokiran, #iran, #actingchallenge, #iraniantiktok"
   - username: "dhisvietboy_dc4"
     fullname: >-
       Kevin Nguyen
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.017041
     id: ckae0wh29ltwi0i786vgld6qj
     verified: false
-    hashtags: "#aeriereal, #streetwear, #starshots, #glamourshots"
+    hashtags: "#sd, #foryou, #oldschool, #bts"
   - username: "vaneberlin1"
     fullname: >-
       Vanessa Berlin✨
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.029634
     id: cka0urg71vkij0i78111pt1ij
     verified: false
-    hashtags: "#beautytip, #fy, #fyp, #skincare"
+    hashtags: "#fyp, #beautytip, #skincare, #beautytips"
   - username: "teagan.maddux"
     fullname: >-
       Teagan
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.021830
     id: ck8f6dxoe2e7m0j78ms7mo3b7
     verified: false
-    hashtags: "#travel, #sunset, #puravida, #costaricapuravida"
+    hashtags: "#tiktokggt, #zithappens, #costaricatravel, #traveltiktok"
   - username: "explore_sd"
     fullname: >-
       user7751984492931
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.077486
     id: ckcpd8p1mfwz40j233wdcyqu9
     verified: false
-    hashtags: "#sandiegorestaurant, #sandiegoadventures, #sandiegoblogger, #easyrecipes"
+    hashtags: "#sandiegoadventures, #sandiegoblogger, #foodie, #lasvegas"
   - username: "tailoredbytaylor.xo"
     fullname: >-
       tailoredbytaylor.xo
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.223719
     id: ckbf87ofxyoza0j23ffh9anh8
     verified: false
-    hashtags: "#childlifetiktok, #springootdideas, #tiktokunder30, #realtalktiktok"
+    hashtags: "#springootdideas, #tiktokunder30, #fridayvibesbelike, #childlifetiktok"
   - username: "brigittepatton"
     fullname: >-
       Brigitte Patton
@@ -115,16 +127,4 @@ profiles:
     id: ckb9jqix5b7w90j23mxgb9fhy
     verified: false
     hashtags: "#traveltips, #starbucks, #thisiskorea, #visitkorea"
-  - username: "zoekfit"
-    fullname: >-
-      Zoekfit 
-    bio: >-
-      Fitness • Lifestyle IG: @ZoeKFit 📩Info@zoekfit.com 👇🏼MY WORKOUT GUIDES😍👇🏼
-    location: "United States"
-    followers: 84100
-    engagement: 781
-    commentsToLikes: 0.037096
-    id: ckcdj6vvt8nch0j23ufs6fezx
-    verified: true
-    hashtags: "#golfswing, #golfgirls, #golfgirl, #fyp"
 ---

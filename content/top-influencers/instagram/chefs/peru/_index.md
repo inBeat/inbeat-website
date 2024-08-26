@@ -1,12 +1,36 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Peru In 2023
+title: Top 10 Chefs Instagram Influencers In Peru In 2024
 description: >-
-  Find top chefs Instagram influencers in Peru in 2023. Most popular hashtags: #peru #lima #cuarentena.
+  Find top chefs Instagram influencers in Peru in 2024. Most popular hashtags: #comidaperuana #peru #publicidad #lima.
 platform: Instagram
-hits: 14
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 14 Instagram influencers like this in Peru for you to collaborate.
+hits: 18
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 18 Instagram influencers like this in Peru for you to pitch.
 profiles:
+  - username: "germanrozz"
+    fullname: >-
+      German Roz
+    bio: >-
+      🇵🇪 Chef | Nutricionista | Thenutrichef No hago dietas - Hago planes nutricionales ⚡️ Fundador 🚀 @huellaverdefoods @lacaletapizza @el.ztudio
+    location: "Peru"
+    followers: 77134
+    engagement: 308
+    commentsToLikes: 0.058497
+    id: ck5hp9uwcqzwv0i11jlp6xy4w
+    verified: false
+    hashtags: "#nutricion, #mealprep, #germanrozz, #salud"
+  - username: "la_gastronauta"
+    fullname: >-
+      Stephanie Pellny | La Gastronauta
+    bio: >-
+      Peruana 👩🏻‍🍳 🇵🇪 ¡Cocina sin miedo y descubre el chef que llevas dentro! #recetasfaciles #cocinasinmiedo #lagastronauta
+    location: "Peru"
+    followers: 147142
+    engagement: 56
+    commentsToLikes: 0.019336
+    id: ck1397ruajyoe0i19tdbsjov4
+    verified: false
+    hashtags: "#gastrowedding, #maquillaje, #chocolate, #weddinginspo"
   - username: "carlosfonsecaof"
     fullname: >-
       Carlos Fonseca
@@ -43,18 +67,6 @@ profiles:
     id: ck9wde3ksf89r0j782o3cckzu
     verified: false
     hashtags: "#2021, #saborperuano, #cocinaencasa, #medioambiente"
-  - username: "thedaarick28"
-    fullname: >-
-      Daarick💢
-    bio: >-
-      YOUTUBER, STREAMER, EMPRESARIO, ESCRITOR, CANTANTE, ACTOR, CHEF, MÚSICO, DIRECTOR, GUIONISTA, PRODUCTOR, EDITOR Y POR LAS TARDES SOY BATMAN :V
-    location: "Peru"
-    followers: 88705
-    engagement: 2251
-    commentsToLikes: 0.027874
-    id: ck5zpxsr0tk1p0i14vfge9e7r
-    verified: false
-    hashtags: ""
   - username: "endlesscurl_"
     fullname: >-
       Chime 🥑
@@ -67,18 +79,6 @@ profiles:
     id: ck0w4233qwf6r0i194ttr1luq
     verified: false
     hashtags: ""
-  - username: "healthy_pleasure"
-    fullname: >-
-      𝗦𝘆𝗹𝘃𝗶𝗮 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 𝗩𝗲𝗹𝗲𝘇
-    bio: >-
-      Nutricionista, Raw food chef Plant based diet & Healthy lifestyle🌱 y ✈️ 🇵🇪 Consultas online w e b ￬
-    location: "Peru"
-    followers: 58358
-    engagement: 137
-    commentsToLikes: 0.113241
-    id: ck5zlrnnbl9gc0i14k1khb4zx
-    verified: true
-    hashtags: "#dieta, #foodfight, #healthy, #peru"
   - username: "chef.timour"
     fullname: >-
       Timour Ghoneim
@@ -103,28 +103,28 @@ profiles:
     id: ck6u1dtj2l53v0j71xjqfg5hc
     verified: false
     hashtags: "#peru, #igersperu, #lima, #comidaperuana"
-  - username: "raes_official"
+  - username: "juancarlosreydecastro"
     fullname: >-
-      Raes
+      Juan Carlos Rey de Castro
     bio: >-
-      
+      Actor🇲🇽/🇵🇪 Mgmt: @lunaagencymx El 10 De La Calle @netflix Av. Larco @primevideolat Verano No miente @primevideo TravDeLaNiñaMala @vix
     location: "Peru"
-    followers: 36954
-    engagement: 224
-    commentsToLikes: 0.038108
-    id: ck1386rileraf0i19qa2k48xn
-    verified: false
-    hashtags: "#raes, #musica, #curaentera, #cuarentena"
-  - username: "nuria_fergo"
-    fullname: >-
-      NURIA FERGÓ
-    bio: >-
-      🎤Cantante 🎭 Actriz Gira 2020-21. Piano y Voz. www.nuriafergo.es infonuriafergo@gmail.com
-    location: "Peru"
-    followers: 225104
-    engagement: 170
-    commentsToLikes: 0.026295
-    id: ck5c5zfau4fey0i110o1bhfd7
+    followers: 334035
+    engagement: 212
+    commentsToLikes: 0.014412
+    id: ck6u93scovbs80j71p8386zfz
     verified: true
-    hashtags: "#nuriaferg, #concierto, #dxstreaming, #concierto2021"
+    hashtags: "#positivo, #fuerzaper, #agradecido, #fuerza"
+  - username: "nikkooficial"
+    fullname: >-
+      Nico Ponce 🇵🇪
+    bio: >-
+      Nada es imposible !! 🙌🏼 11:11 Hakuna Matata 🐾 🎬 𝘊ontigo 𝘊apitán x @netflix @netflixlat nico@nicoponce.com
+    location: "Peru"
+    followers: 416082
+    engagement: 70
+    commentsToLikes: 0.014712
+    id: ck134qydsxrnx0i19ceoilbm3
+    verified: true
+    hashtags: "#healthylifestyle, #latinatv, #papaenapuros, #grancheffamosos"
 ---

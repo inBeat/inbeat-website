@@ -1,12 +1,84 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Finland In 2023
+title: Top 10 Wellness Instagram Influencers In Finland In 2024
 description: >-
-  Find top wellness Instagram influencers in Finland in 2023. Most popular hashtags: #wellness #fitness #hyvinvointi #lifestyle.
+  Find top wellness Instagram influencers in Finland in 2024. Most popular hashtags: #hyvinvointi #el #onlinecoaching.
 platform: Instagram
-hits: 27
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 27 Instagram influencers like this in Finland for you to connect with.
+hits: 33
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 33 Instagram influencers like this in Finland for you to pitch.
 profiles:
+  - username: "sofiaaiello"
+    fullname: >-
+      SOFIA AIELLO-TIKKA🇫🇮
+    bio: >-
+      WELLNESS & INSPIRATION 💜Autan naisia löytämään hehkunsa sisältä ulospäin, olemaan se paras versio itsestään! #WellnessbySofia 🦈Gymshark: sofia -10%
+    location: "Finland"
+    followers: 61495
+    engagement: 958
+    commentsToLikes: 0.004667
+    id: ck5qa5xlieply0i11oub9m0xa
+    verified: false
+    hashtags: "#wellnessbysofia, #gymshark, #hyvinvointivalmentaja, #gymsharkwomen"
+  - username: "umppu"
+    fullname: >-
+      Ulla-Riitta Koskinen
+    bio: >-
+      Hair, beauty and wellness 💇‍♀️💄🤸‍♂️
+    location: "Finland"
+    followers: 32469
+    engagement: 537
+    commentsToLikes: 0.256628
+    id: ck6tznnprarw20j716tbcv581
+    verified: false
+    hashtags: "#goldenbybiancaneve, #metaldx, #hairbyumppu, #juhlakampaus"
+  - username: "laurarosilla"
+    fullname: >-
+      Laura Rosilla Laukka
+    bio: >-
+      🏃🏼‍♀️800m runner | team @gymnation @newbalance Autan sua löytämään liikunnan ilon ja jaksamaan arjessa❤️‍🔥 Wellness coaching👇🏼
+    location: "Finland"
+    followers: 33438
+    engagement: 697
+    commentsToLikes: 0.006924
+    id: ck5hfixf8xp850i112m1ipw45
+    verified: false
+    hashtags: "#juoksu, #onlinecoaching, #yleisurheilu, #gymnationwear"
+  - username: "roosamononen"
+    fullname: >-
+      Roosa Maria
+    bio: >-
+      wellness, beauty & style
+    location: "Finland"
+    followers: 18486
+    engagement: 558
+    commentsToLikes: 0.017644
+    id: ck5qa5udeep280i11qdq0vdf3
+    verified: false
+    hashtags: "#elixiafinland, #salitreeni, #elixia, #takeyourchance"
+  - username: "veerabianca"
+    fullname: >-
+      VEERA BIANCA 》
+    bio: >-
+      Plus-size wellness journey ✨ Travel blog est 2008 Kehorauhaa podcast @podimo_fi Reformer Pilates Instructor @bay_studios veera.papinoja@gmail.com
+    location: "Finland"
+    followers: 49275
+    engagement: 251
+    commentsToLikes: 0.040554
+    id: ck14lqh86vz8h0i19952flo07
+    verified: false
+    hashtags: "#kehorauhaa, #matkabloggaaja, #hyvinvointi, #el"
+  - username: "laura.kaartinen"
+    fullname: >-
+      Laura Kaartinen | ʜᴇᴀʟᴛʜʏ | ᴄᴏᴏʟ ᴍᴏᴍ | ᴇɴᴛʀᴇᴘʀᴇɴᴇᴜʀ
+    bio: >-
+      Behind a happy life is not a perfect life,but finding a balance with yourself.💛 Wellness coach @laurak_valmennus Owner @greenfitruoholahti 🍀 Links👇🏽
+    location: "Finland"
+    followers: 15913
+    engagement: 52
+    commentsToLikes: 0.013113
+    id: ck9hck99glsd90j78hx3r1844
+    verified: false
+    hashtags: "#hyvinvointivalmentaja, #el, #tasapaino, #homesweethome"
   - username: "wellness_mia"
     fullname: >-
       M i a
@@ -19,6 +91,18 @@ profiles:
     id: ckaos1gg8pq6x0i78e3kteybb
     verified: false
     hashtags: "#fitnesslifestyle, #workoutoutfit, #tattooedgirls, #strongmindset"
+  - username: "siljatuominenn"
+    fullname: >-
+      Silja Tuominen
+    bio: >-
+      Wellness | Beauty | Fashion Team @myproteinfi @icaniwill Helsinki, Finland
+    location: "Finland"
+    followers: 6543
+    engagement: 2553
+    commentsToLikes: 0.038557
+    id: ck8t0ct5drmlr0j78210z7cn5
+    verified: false
+    hashtags: "#icaniwill, #monday, #glossybox, #glossymoment"
   - username: "karoliinamakela"
     fullname: >-
       Karoliina | yrittäjä
@@ -35,96 +119,12 @@ profiles:
     fullname: >-
       Yrittäjä | Boss Lady
     bio: >-
-      ▪️Intohimona yrittäjyys & asuntosijoittaminen ▪️Itsevarmuutta vatsamakkaroista välittämättä ▪️Omistaja @wellnessmalli.fi ▪️Podcaster @bossladypodcast
+      ▪️Intohimona yrittäjyys & elämästä nauttiminen ▪️Itsevarmuutta vatsamakkaroista välittämättä ▪️Owner @wellnessmalli.fi®️ ▪️Podcaster @bossladypodcast
     location: "Finland"
-    followers: 24321
-    engagement: 441
-    commentsToLikes: 0.033927
+    followers: 24617
+    engagement: 496
+    commentsToLikes: 0.038251
     id: ck6tn4plf94qv0j71v1oz1wht
     verified: false
-    hashtags: "#bodylove, #asuntosijoittaminen, #equallyempowered, #bosslady"
-  - username: "veerakononen"
-    fullname: >-
-      Veera Könönen | Valmentaja
-    bio: >-
-      Wellness Fitness NFE2021 Team @finnishphysiqueacademy veera15 -15% @same_goal_clothing @villitwellnessmimmit @wellnessmalli.fi🥇
-    location: "Finland"
-    followers: 14038
-    engagement: 1162
-    commentsToLikes: 0.014300
-    id: ck5cl1g6wy23f0i11jz1ltjjk
-    verified: false
-    hashtags: "#motivaatio, #alekoodi, #alennus, #helsinki"
-  - username: "elinaadasofia"
-    fullname: >-
-      ELINA LESKINEN/ WELLNESS
-    bio: >-
-      Itsevarmuutta ja kehopositiivisuutta💛 Wellness bloggaaja @indiedays_official Sporty mama 👶 10/20 Co-owner @wellnesstraining 🏋️‍♂️ Team @barebells.fin
-    location: "Finland"
-    followers: 15479
-    engagement: 423
-    commentsToLikes: 0.031317
-    id: ck5hfiw4nxp1w0i11d3mvjot6
-    verified: false
-    hashtags: "#3monthsold, #lokakuiset2020, #liikunta, #postpartumbody"
-  - username: "peppipietikainen"
-    fullname: >-
-      MODERNI ÄITIYS
-    bio: >-
-      Hyvinvointia, hikitreeniä ja itsestä huolehtimista äitiydestä huolimatta 🤍 Founder of @wellnessmoms.fi Personal trainer | Farmaseutti ♡ Mom 05 / 19
-    location: "Finland"
-    followers: 2474
-    engagement: 1395
-    commentsToLikes: 0.192192
-    id: ck9wfkkt7p97v0j7811qmg4yw
-    verified: false
-    hashtags: "#poikiena, #sportygirl, #sportlife, #crossfit"
-  - username: "johanna.tahtinen"
-    fullname: >-
-      JOHANNA | Wellnessmalli 🇫🇮
-    bio: >-
-      ▫️Wellness| Beauty| Lifestyle Kosmetologi & asiantuntija @bloombyjohanna @salonkihenrietta @jeandarcel_finland -35 kg motivation💫 @wellnessmalli.fi 🥉
-    location: "Finland"
-    followers: 16282
-    engagement: 1015
-    commentsToLikes: 0.221908
-    id: ck6uhi6h2999y0j711cdidlro
-    verified: false
-    hashtags: "#wellnessmalli, #hyvinvointi, #wellnessmalli2020, #healthylifestyle"
-  - username: "glow.by.zaarakhan"
-    fullname: >-
-      زحرا
-    bio: >-
-      🏋🏻‍♂️ Health & Fitness things • Flexible Dieting 💥 Sustainable weight loss - Backed by Science 🌏 ethnic • Afghanistan 🇦🇫 / Finland 🇫🇮 📍 Helsinki
-    location: "Finland"
-    followers: 8225
-    engagement: 465
-    commentsToLikes: 0.068381
-    id: ckaotmx93wko70i78wx7bsczb
-    verified: false
-    hashtags: "#suomi, #innerpeace, #finnishnature, #transformation"
-  - username: "maijuriskala"
-    fullname: >-
-      MAIJU RISKALA
-    bio: >-
-      🧚🏼 @mybnb_suomi 🤍 TEAM @gymnation 🎙 @omantienkulkijapodcast GET FIT, STAY HEALTHY myynnissä nyt ! 🔥
-    location: "Finland"
-    followers: 11579
-    engagement: 952
-    commentsToLikes: 0.025026
-    id: ck55k2jm4yazs0i11jci1ify8
-    verified: false
-    hashtags: "#kiskis, #hyvinvointi, #fitness, #jengiviihtyy"
-  - username: "joonaspoytaniemi"
-    fullname: >-
-      Joonas Pöytäniemi
-    bio: >-
-      🇫🇮Photographer from Helsinki area 📷Helsinki Design School 2019-2020 📸Canon 📩Contact: joonas.poytaniemi@gmail.com
-    location: "Finland"
-    followers: 6173
-    engagement: 551
-    commentsToLikes: 0.025611
-    id: ck0uak0necgig0i19lgizrii0
-    verified: false
-    hashtags: "#portraitsofficial, #discoverfinland, #portraitsoffinland, #studiokuvaus"
+    hashtags: "#bodylove, #freya, #sin, #wellnessmallifi"
 ---

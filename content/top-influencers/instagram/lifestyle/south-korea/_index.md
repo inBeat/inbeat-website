@@ -1,24 +1,96 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In South Korea In 2023
+title: Top 10 Lifestyle Instagram Influencers In South Korea In 2024
 description: >-
-  Find top lifestyle Instagram influencers in South Korea in 2023. Most popular hashtags: #ootd #fitness #dailylook.
+  Find top lifestyle Instagram influencers in South Korea in 2024. Most popular hashtags: #ootd #outfitinspo #fitness.
 platform: Instagram
-hits: 35
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 35 Instagram influencers like this in South Korea for you to collaborate.
+hits: 37
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 37 Instagram influencers like this in South Korea for you to collaborate.
 profiles:
-  - username: "hannacoreana"
+  - username: "celinelingye"
     fullname: >-
-      Hanna Coreana 한나
+      Celine Ng
     bio: >-
-      𝙏𝙪 𝘾𝙤𝙧𝙚𝙖𝙣𝙖 𝙁𝙖𝙫𝙤𝙧𝙞𝙩𝙖❤️ 📍Seoul, Korea 서울🇰🇷 Beauty l Lifestyle l Korean culture ✉️ hannacoreana99@gmail.com
+      ♡ fashion | travel | lifestyle 𐙚₊ freelance model / talent 📍KUL (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ
     location: "South Korea"
-    followers: 73663
-    engagement: 1430
-    commentsToLikes: 0.017638
-    id: ck139lh76lwpc0i19g78af5pm
+    followers: 16138
+    engagement: 377
+    commentsToLikes: 0.016206
+    id: ck0vz39kw72nk0i197i8xabyc
     verified: false
-    hashtags: "#maquillajecoreano, #modacoreana, #sheinhaul, #sheinofficial"
+    hashtags: "#thrift, #outfitideas, #thrifting, #outfitpost"
+  - username: "anachoii"
+    fullname: >-
+      ANA CHOI | CONTENT CREATOR
+    bio: >-
+      480k+ YouTuber 🎬 Spanish speaking Korean 🇰🇷 Beauty • Lifestyle/Wellness • Culture ⤵️
+    location: "South Korea"
+    followers: 15290
+    engagement: 1166
+    commentsToLikes: 0.052060
+    id: ck9wookw95y240j78xszkt8a4
+    verified: false
+    hashtags: "#uniqlo, #fashion, #sheingals, #jeans"
+  - username: "bonnygirl_"
+    fullname: >-
+      보니
+    bio: >-
+      #beauty #fashion #lifestyle mirang1227@naver.com or dm
+    location: "South Korea"
+    followers: 74909
+    engagement: 109
+    commentsToLikes: 0.014991
+    id: ck14jz747mwrw0i19i4uvr5lh
+    verified: false
+    hashtags: "#ott, #gladgangnamcoexcenter, #hotelinseoul, #hotelingangnam"
+  - username: "sontaeyoung_official"
+    fullname: >-
+      Son taeyoung 손태영(actress)
+    bio: >-
+      #lifestyle#fashion #show#actress #model#instadaily#ootd#mom#newjersey#newyork#DM(X)
+    location: "South Korea"
+    followers: 192943
+    engagement: 46
+    commentsToLikes: 0.006099
+    id: ckapcao1d31wn0i78519a6pge
+    verified: true
+    hashtags: "#llmu, #davidhkochtheater, #youtube, #ai"
+  - username: "jiyoungkim6364"
+    fullname: >-
+      김지영
+    bio: >-
+      Lifestyle Creator Living in Art, Fashion & Love Former <Vogue Korea> Digital Director Contact: jiyoung6364@gmail.com 📍Seoul, Korea
+    location: "South Korea"
+    followers: 108035
+    engagement: 42
+    commentsToLikes: 0.009142
+    id: ck0ub7zv2dx5l0i19fzgjqf0x
+    verified: false
+    hashtags: "#panachefine, #thecreamthatworks, #augustinusbader, #ab"
+  - username: "yeipark_"
+    fullname: >-
+      Yei Park • 박아빈
+    bio: >-
+      Daily outfits, beauty & lifestyle Half korean, half paraguayan Lic. En Comercio Internacional Owner of @styriapy and @laferiadeyei
+    location: "South Korea"
+    followers: 64057
+    engagement: 40
+    commentsToLikes: 0.021763
+    id: ck6tspwz165kx0j71rgjr7l05
+    verified: false
+    hashtags: "#unitealladoflip"
+  - username: "kyemilktea"
+    fullname: >-
+      KYE TAN
+    bio: >-
+      📍Singapore ✉️ kyemilktea@gmail.com / DM 🎥 Tiktok : @kyemilktea [54.8K+] Fashion | Beauty | Lifestyle
+    location: "South Korea"
+    followers: 60435
+    engagement: 21
+    commentsToLikes: 0.003376
+    id: ckf5nt7mzzlqz0j231osbbdzm
+    verified: false
+    hashtags: "#guardiansg, #iykyk, #outfitinspo, #guardianmirrorsecret"
   - username: "glam_dana"
     fullname: >-
       운동하는간호사ㅣ다나(Dana)
@@ -31,18 +103,6 @@ profiles:
     id: ck6uiejgjemip0j71e2w2sfil
     verified: false
     hashtags: "#fitness, #gym, #bodycheck, #dailylook"
-  - username: "anachoii"
-    fullname: >-
-      ANA CHOI | CONTENT CREATOR
-    bio: >-
-      480k+ YouTuber 🎬 Spanish speaking Korean 🇰🇷 Beauty • Lifestyle/Wellness • Culture ⤵️
-    location: "South Korea"
-    followers: 17657
-    engagement: 1001
-    commentsToLikes: 0.051681
-    id: ck9wookw95y240j78xszkt8a4
-    verified: false
-    hashtags: "#modaestilo, #sheinbuenfin2020, #sheinss21, #jeans"
   - username: "its_me_sh"
     fullname: >-
       상희
@@ -67,64 +127,4 @@ profiles:
     id: ck5q8bvau5eex0i117ynwkl9u
     verified: false
     hashtags: "#getitweek, #ameowzingdeals, #eunsolinbkk, #happysunday"
-  - username: "_jungkong"
-    fullname: >-
-      정빈 JUNGBIN
-    bio: >-
-      🧑🏻‍🎨 Lifestyle Creator 💬 Welcome! Clubhouse ID @_jungkong 📩 협업, 협찬 (Collaboration) 및 문의 : DM / e-Mail
-    location: "South Korea"
-    followers: 21393
-    engagement: 864
-    commentsToLikes: 0.035243
-    id: ck6tqe5k5qxku0j71056y54ly
-    verified: false
-    hashtags: "#zv1white, #inlovewithswitzerland"
-  - username: "sontaeyoung_official"
-    fullname: >-
-      Son taeyoung 손태영(actress)
-    bio: >-
-      #actress#sucompany#lifestyle#fashion#show#model#instadaily#ootd
-    location: "South Korea"
-    followers: 173751
-    engagement: 120
-    commentsToLikes: 0.028611
-    id: ckapcao1d31wn0i78519a6pge
-    verified: true
-    hashtags: "#mindtailormusic, #yiruma, #repost, #orchestralwork"
-  - username: "donato_shin"
-    fullname: >-
-      신동헌
-    bio: >-
-      #박스까남 #까진남자 #lifestyle #columnist #6wheels
-    location: "South Korea"
-    followers: 25397
-    engagement: 266
-    commentsToLikes: 0.019224
-    id: ckap0yhlsscu40i78qy0fty0t
-    verified: false
-    hashtags: "#moncler, #landrover, #mementomori, #rollingstones"
-  - username: "bonnygirl_"
-    fullname: >-
-      네온바니
-    bio: >-
-      #beauty #fashion #lifestyle mirang1227@naver.com
-    location: "South Korea"
-    followers: 50832
-    engagement: 131
-    commentsToLikes: 0.015902
-    id: ck14jz747mwrw0i19i4uvr5lh
-    verified: false
-    hashtags: "#jmt, #ad, #stuartweitzman, #summerofmylife"
-  - username: "stephanie_molyneaux"
-    fullname: >-
-      S T E P H ☼
-    bio: >-
-      » motherhood • lifestyle • travel » I I MMXV » mama to noémie » corporate m&a attorney » korean-american » miami | d.c.
-    location: "South Korea"
-    followers: 5892
-    engagement: 622
-    commentsToLikes: 0.105638
-    id: ck8t0zdh7tw9s0j78xccucuha
-    verified: false
-    hashtags: "#dirtybootsmessyhair, #smpweddings, #stylemepretty, #theknot"
 ---

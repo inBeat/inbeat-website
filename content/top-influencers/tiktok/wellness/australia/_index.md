@@ -1,11 +1,11 @@
 ---
-title: Top 10 Wellness TikTok Influencers In Australia In 2023
+title: Top 10 Wellness TikTok Influencers In Australia In 2024
 description: >-
-  Find top wellness TikTok influencers in Australia in 2023. Most popular hashtags: #wellness #selfcare #duet #australia.
+  Find top wellness TikTok influencers in Australia in 2024. Most popular hashtags: #wellness #selfcare #duet #australia.
 platform: TikTok
-hits: 13
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our database aggregates 13 TikTok influencers like this in Australia for you to pitch.
+hits: 14
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our database holds 14 TikTok influencers like this in Australia for you to pitch.
 profiles:
   - username: "jennityler"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.028554
     id: ck931pligfsl30j784zufx9ds
     verified: false
-    hashtags: "#selfcare, #mobility, #learnwithme, #sheearnedit"
+    hashtags: "#fitnesslife, #selfcare, #chiropractor, #learnwithme"
   - username: "binal.fitness"
     fullname: >-
       Binal Chaudhari
@@ -78,7 +78,19 @@ profiles:
     commentsToLikes: 0.022336
     id: ck8km8pp77gnd0j78spq3l3q4
     verified: false
-    hashtags: "#greenscreenvideo, #stitch, #alt, #justvibing"
+    hashtags: "#justvibing, #stitch, #alt, #greenscreenvideo"
+  - username: "manifestwithmarli"
+    fullname: >-
+      Marli
+    bio: >-
+      Manifestation + Mindset✨ Science + Spirituality Mum / Mom 🏳️‍🌈
+    location: "Australia"
+    followers: 19700
+    engagement: 620
+    commentsToLikes: 0.093085
+    id: cka8ji0vgjz6p0i78hqf6netj
+    verified: false
+    hashtags: "#setintentions, #manifestation101, #manifesting, #manifestationmomma"
   - username: "life_of_carolyn"
     fullname: >-
       life_of_carolyn
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.058654
     id: cka0gee5s44rz0i78u1leq44v
     verified: false
-    hashtags: "#washing, #over30, #mumsoftiktok, #duet"
+    hashtags: "#duet, #laundry, #lifewithkids, #laundrytok"
   - username: "acaibro"
     fullname: >-
       Sam Carson
@@ -115,16 +127,4 @@ profiles:
     id: ck83zvuoj3k780j78uzwjkwje
     verified: true
     hashtags: "#unsw, #graduation, #mentalhealth, #selfcare"
-  - username: "theunemployedgraduate"
-    fullname: >-
-      Your college sis
-    bio: >-
-      Millennials feeling lost figuring out your 20s? I have a podcast for that👇🏻
-    location: "Australia"
-    followers: 43200
-    engagement: 754
-    commentsToLikes: 0.012536
-    id: ckcuze6a8mr0m0j231ebelvy0
-    verified: false
-    hashtags: "#unsw, #whatidwear, #outfitideas, #college"
 ---

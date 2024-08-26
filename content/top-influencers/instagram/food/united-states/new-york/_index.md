@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food Instagram Influencers In New York In 2023
+title: Top 10 Food Instagram Influencers In New York In 2024
 description: >-
-  Find top food Instagram influencers in New York in 2023. Most popular hashtags: #newyork #food #foodporn.
+  Find top food Instagram influencers in New York in 2024. Most popular hashtags: #food #newyork #usa #travel.
 platform: Instagram
-hits: 466
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 466 Instagram influencers like this in New York, United States for you to connect with.
+hits: 665
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 665 Instagram influencers like this in New York, United States for you to work with.
 profiles:
   - username: "family_newyork"
     fullname: >-
@@ -19,30 +19,66 @@ profiles:
     id: ck6tiuhym1ge10j71g6435xqc
     verified: false
     hashtags: ""
-  - username: "menudesserts"
+  - username: "top.newyork"
     fullname: >-
-      DESSERT PARADISE
+      🇺🇸New York🇺🇸
     bio: >-
-      💥 WEEKLY GIVEAWAYS AT 50K followers 💥 ✈️ giveaways ship nationwide 🧁🍪🍩🍰 📸 Tag us & #menudesserts to be featured 📍New York, New Jersey & Beyond
+      🌇Best people NY 📸Send your photo in Direct 📌Mark us on your foto🏞 #topnewyork
     location: "United States"
-    followers: 44230
-    engagement: 56
-    commentsToLikes: 0.005932
-    id: ck0vvawzmobpd0i19ymggrsbl
+    followers: 43530
+    engagement: 318
+    commentsToLikes: 0.009663
+    id: ck9weibgnkefb0j78iosqzv22
     verified: false
-    hashtags: "#desserts, #delicious, #foodstagram, #lifetips"
-  - username: "newyorkfoodgram"
+    hashtags: ""
+  - username: "zingyzest"
     fullname: >-
-      
+      Sarah Hussain
     bio: >-
-      🍽 Content Creator 📸 @fariah.hafeez 📩 Email/ DM for collabs or inquries 📧 newyorkfoodgram@gmail.com
+      Food, Lifestyle & Travel 🏆Cosmopolitan Food Influencer ‘24 3 Time- TedXSpeaker Enquiry-zingyzestblogs@gmail.com @sauravnagar_ #ZingyZest YouTuber 👇🏻
     location: "United States"
-    followers: 36687
-    engagement: 354
-    commentsToLikes: 0.186282
-    id: ck0ttme9k3cdx0i19z6hnc6cd
+    followers: 678482
+    engagement: 1977
+    commentsToLikes: 0.006397
+    id: ck0tz3qyyp2oj0i19aeich5c0
+    verified: true
+    hashtags: "#zingyzest, #usa, #food, #newyork"
+  - username: "sonarafiq"
+    fullname: >-
+      Sona Memon
+    bio: >-
+      @wearalso
+    location: "United States"
+    followers: 150466
+    engagement: 253
+    commentsToLikes: 0.019836
+    id: ck55kjv1xzhbr0i1126ych5o9
     verified: false
-    hashtags: "#dessert, #picoftheday, #buzzfeedfood, #nyceeeeeats"
+    hashtags: "#outfits, #travel, #desifits, #ootd"
+  - username: "andrewmolen"
+    fullname: >-
+      Andrew Molen
+    bio: >-
+      is an American Restaurateur / Chef
+    location: "United States"
+    followers: 49266
+    engagement: 241
+    commentsToLikes: 0.016932
+    id: ck5cfy6fsnt5r0i1132qbzjea
+    verified: false
+    hashtags: "#hockey, #fun, #foodpics, #foodstagram"
+  - username: "whilewewereyoungnyc"
+    fullname: >-
+      While we were Young
+    bio: >-
+      Dinner reservations Wednesday-Sunday. Brunch reservations Friday-Sunday. Walk-ins still welcome 🌸 “𝐛𝐮𝐫𝐧 𝐟𝐨𝐫 𝐰𝐡𝐚𝐭 𝐲𝐨𝐮 𝐥𝐨𝐯𝐞”
+    location: "United States"
+    followers: 31739
+    engagement: 595
+    commentsToLikes: 0.033485
+    id: ck5hgn3l33oiv0i11o1yqdx50
+    verified: false
+    hashtags: "#details, #cocktail, #cocktails, #design"
   - username: "best.texas"
     fullname: >-
       📿TEXAS📿
@@ -55,30 +91,18 @@ profiles:
     id: ck9wfuyrnqltp0j78upy04gjz
     verified: false
     hashtags: "#follow4follow, #instagram, #america, #manhattan"
-  - username: "diannnnneee"
+  - username: "haleytakesontheworld"
     fullname: >-
-      Dianne Elizabeth
+      Haley Dasovich
     bio: >-
-      • new york • diannepavletich@gmail.com
+      🌎 YouTuber & Social Media consultant in San Francisco 🎥 Lifestyle challenges, travel adventures & tech 📬 haleytakesontheworld@gmail.com ⬇️ My links!
     location: "United States"
-    followers: 59080
-    engagement: 275
-    commentsToLikes: 0.062703
-    id: ck1348bqjv7mb0i19mrdznswb
-    verified: false
-    hashtags: "#coffeeshop, #petitejoys, #wearetravelgirls, #passionpassport"
-  - username: "kev88_"
-    fullname: >-
-      Kevin | New York City
-    bio: >-
-      Ⓜ️ @nycprimeshot Ⓜ️ @raw_community_member #NY #florida 🗽🌴 @sonyalpha #a7riv | #a7riii @djiglobal #mavicair2
-    location: "United States"
-    followers: 3200
-    engagement: 791
-    commentsToLikes: 0.133776
-    id: ck6trtdra0zbn0j71h1ypva78
-    verified: false
-    hashtags: "#nycprimeshot, #droneoftheday, #supnewyorkcity, #shotz"
+    followers: 246340
+    engagement: 279
+    commentsToLikes: 0.012472
+    id: ck5c1wk2jw2i40i116nac1r3s
+    verified: true
+    hashtags: "#sustainablefarming, #travelmore, #jobsaroundtheworld, #portugal"
   - username: "mrwilliamcruse"
     fullname: >-
       Sir Cruse
@@ -91,40 +115,16 @@ profiles:
     id: ck5c6ekj559zm0i11030vuue0
     verified: false
     hashtags: "#barber, #muscles, #tiktok, #chicagosalon"
-  - username: "acausi"
+  - username: "909_jc"
     fullname: >-
-      Anthony Causi
+      Joel Cullinane
     bio: >-
-      Sports / Portrait / Food Canon New York
+      Fitness - BPI Sports Ambassador 📑 Lawyer BPI 20% discount code: JOELC 🔗 http://bit.ly/JoelBPI Your ATTITUDE determines your ALTITUDE!
     location: "United States"
-    followers: 19705
-    engagement: 1177
-    commentsToLikes: 0.027676
-    id: ck5qcqwt8rwo00i11jqj2kaoa
+    followers: 2859
+    engagement: 1719
+    commentsToLikes: 0.052782
+    id: ck0w48qsaxcpy0i191dnjj8sj
     verified: false
-    hashtags: "#kansascitychiefs, #springtraining, #la, #champions"
-  - username: "nessathecavalier"
-    fullname: >-
-      Nessa the Cavalier
-    bio: >-
-      The Tiniest Cavalier Favourite food: Cheerios New York City Check out the Q&A in my highlights for answers to popular questions about me!
-    location: "United States"
-    followers: 206812
-    engagement: 1469
-    commentsToLikes: 0.008282
-    id: ck0u697hc1c220i19srl3l1f2
-    verified: false
-    hashtags: "#postchristmasblues, #tigerking"
-  - username: "5boroughfoodie"
-    fullname: >-
-      Alex
-    bio: >-
-      👉 The BEST food from New York & beyond! 📍: Queens, NYC 🍔 Daily food pictures! 📷: @alexobed ALL original content
-    location: "United States"
-    followers: 314866
-    engagement: 388
-    commentsToLikes: 0.009866
-    id: ck0twfg1gf4qr0i19wtvtjxdo
-    verified: false
-    hashtags: "#tacotuesday, #sunday"
+    hashtags: "#fitness, #smile, #travel, #travelling"
 ---

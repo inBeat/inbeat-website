@@ -1,11 +1,11 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Italy In 2023
+title: Top 10 Illustrators Instagram Influencers In Italy In 2024
 description: >-
-  Find top illustrators Instagram influencers in Italy in 2023. Most popular hashtags: #artistsoninstagram #fantasy #makeup #mua.
+  Find top illustrators Instagram influencers in Italy in 2024. Most popular hashtags: #watercolor #sketch #artwork #illustration.
 platform: Instagram
-hits: 182
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 182 Instagram influencers like this in Italy for you to collaborate.
+hits: 190
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 190 Instagram influencers like this in Italy for you to pitch.
 profiles:
   - username: "elisatalentino"
     fullname: >-
@@ -19,6 +19,78 @@ profiles:
     id: ck0w5p5eq4rca0i19fi6c5nq8
     verified: false
     hashtags: "#calabria"
+  - username: "alessia.trunfio"
+    fullname: >-
+      Alessia Trunfio
+    bio: >-
+      Italian Illustrator represented by @astoundusagency -
+    location: "Italy"
+    followers: 132051
+    engagement: 935
+    commentsToLikes: 0.005290
+    id: ckaoymceyi3a90i78c7nl985e
+    verified: false
+    hashtags: "#werewolf, #digitalillustration, #characterdesign, #percyjackson"
+  - username: "_ellawillis"
+    fullname: >-
+      Ella/ El🦆🌈🌻
+    bio: >-
+      Illustrator | @cannyqueercollective 🏳️‍🌈 💌ellawillis2000@gmail.com Info BOOK buy my art! ⬇️
+    location: "Italy"
+    followers: 73257
+    engagement: 580
+    commentsToLikes: 0.009858
+    id: ckxu3hds8cwk20j23lim4vlgd
+    verified: false
+    hashtags: "#ad, #book, #cute, #colourful"
+  - username: "julietta_heart"
+    fullname: >-
+      Giulia Ghersi
+    bio: >-
+      Illustrator🖌️ Seamstress 🧵 Dreamer💫 Fairytale believer 🧚 Folklore lover🕯️ ~Please, do not repost my art without permission~ Print shop:
+    location: "Italy"
+    followers: 87488
+    engagement: 878
+    commentsToLikes: 0.013321
+    id: ck15powpiyxio0i190ix49k20
+    verified: false
+    hashtags: "#gothstyle, #vampire, #watercolors, #watercolorillustration"
+  - username: "katarzyna_kmiecik_art"
+    fullname: >-
+      Katarzyna Kmiecik
+    bio: >-
+      Watercolor and pencil artist with a big love for trees, clouds, and magic.⁣⁣ Art teacher & illustrator. ⬇️ original artworks + prints⁣ ⬇️
+    location: "Italy"
+    followers: 20213
+    engagement: 600
+    commentsToLikes: 0.049692
+    id: ckaotp2pdwv1e0i784wvnm5gh
+    verified: false
+    hashtags: "#sketchbookartwork, #artistsofig, #colorfulwatercolor, #watercolorlandscape"
+  - username: "marcoalbieroart"
+    fullname: >-
+      Marco Albiero
+    bio: >-
+      Illustrator - Character Design - Mangaka
+    location: "Italy"
+    followers: 25762
+    engagement: 367
+    commentsToLikes: 0.012578
+    id: ck9wdg3v1fhc30j78j7rcbnqz
+    verified: false
+    hashtags: "#manuelacriscuoli, #brunoagostinoscantamburlo, #lunarnewyear, #masamikurumada"
+  - username: "brandochiesa"
+    fullname: >-
+      Brando Chiesa
+    bio: >-
+      🇮🇹 tattoo artist and anime illustrator 💖 I explore the darker side of pink __________BOOKING ⬇️
+    location: "Italy"
+    followers: 973157
+    engagement: 325
+    commentsToLikes: 0.009403
+    id: ck55pdbauabl20i11jqqhap9a
+    verified: true
+    hashtags: "#animetattoo, #neotribaltattoo, #animeedits, #tattoo"
   - username: "giudychan"
     fullname: >-
       Giudy-Chan
@@ -31,100 +103,28 @@ profiles:
     id: ckaozlsdxmfhj0i784daz7tkk
     verified: false
     hashtags: "#ahricosplay, #fantasy, #cyberpunk, #modelpose"
-  - username: "gloriabiagetti"
+  - username: "alinagrinpauka"
     fullname: >-
-      𝑮𝒍𝒐𝒓𝒊𝒂🌙 ᴀʀᴛ & ᴍᴀᴋᴇᴜᴘ
+      𝗔𝗹𝗶𝗻𝗮 𝗚𝗿𝗶𝗻𝗽𝗮𝘂𝗸𝗮
     bio: >-
-      🇮🇹 emerging painter/bodypainter, self-taught illustrator and certified mua. managed by @lvxvryofficial
+      Author & Co-Founder @etidebotanicals Fashion Illustrator | Dior, Max Mara, Valentino, Dom Perignon
     location: "Italy"
-    followers: 11485
-    engagement: 1529
-    commentsToLikes: 0.088686
-    id: ck8t9x04bpnf00j78ycfnj54k
+    followers: 19706
+    engagement: 207
+    commentsToLikes: 0.053734
+    id: ck6trmxdvzx0c0j71sncfmhvw
     verified: false
-    hashtags: "#makeupvideo, #drawingoftheday, #lvxvryofficial, #fantasy"
-  - username: "mammachelibro"
+    hashtags: "#illustration, #alinagrinpauka, #fashionillustration, #watercolor"
+  - username: "valentina__grilli"
     fullname: >-
-      Giulia Telli
+      Valentina Grilli
     bio: >-
-      illustrator La mia vita senza filtri, 3 figli esuberanti, 2 gatti disperati, 1 marito psicologo e tanti libri 👉collaborazioni 📩gf.telli@gmail.com
+      Artist based in Milan Lecturer at @rafflesmilano Illustrator account @valentina_grilli_illustrator 🚨My Domestika Course here 🚨
     location: "Italy"
-    followers: 41466
-    engagement: 203
-    commentsToLikes: 0.157458
-    id: ck6ualp8y498x0j71b4beq8u2
+    followers: 58487
+    engagement: 153
+    commentsToLikes: 0.023044
+    id: ck14hgvaxa9m10i19n8oz9054
     verified: false
-    hashtags: "#vitadamamma, #momtogs, #realife, #familytrip"
-  - username: "conigliettorosa"
-    fullname: >-
-      Phuong
-    bio: >-
-      👩🏻‍🎨:@ongnphuong Pink bunny🌸 Italian painter-illustrator-model what ever w/ vietnamese origins🌸 Playmate 🐰BornToBlossomBloomToPerish 📍Vicenza
-    location: "Italy"
-    followers: 33530
-    engagement: 235
-    commentsToLikes: 0.095455
-    id: ck5cga9buofvs0i11todywxa3
-    verified: false
-    hashtags: "#modeling, #portraitphotography, #ecoline, #bnwphotography"
-  - username: "devildisorders"
-    fullname: >-
-      ☽ASTRALL☾
-    bio: >-
-      Based in Poland ●ᚫ● photography ●ᛖ● illustrator ●ᛟ● witchcraft ●ᚱ● devildisorders@gmail.com or DM
-    location: "Italy"
-    followers: 3283
-    engagement: 2053
-    commentsToLikes: 0.026773
-    id: ck8tagwfarpb50j78eaj7d8ba
-    verified: false
-    hashtags: "#grungeaesthetic, #artphoto, #portret, #fairytail"
-  - username: "shyamli"
-    fullname: >-
-      Shyamli Panda
-    bio: >-
-      @devilztattooz * Graphic Artist/Illustrator / Tattoo Artist/Yoga Lover/ Chocolate Eater *
-    location: "Italy"
-    followers: 12778
-    engagement: 667
-    commentsToLikes: 0.017259
-    id: ck15qf0z52iz20i19ppeal5p1
-    verified: false
-    hashtags: "#treesprite, #sleepytattoo, #tattooartist, #hibiscustattoo"
-  - username: "gianlucarolli_art"
-    fullname: >-
-      Ｇｉａｎｌｕｃａ Ｒｏｌｌｉ
-    bio: >-
-      29 y.o. Italian Concept Artist 🌻 - CHARACTER DESIGNER - ILLUSTRATOR - SCULPTOR - PHOTOGRAPHER - and Traveler ✏️💛 🙏🏻✍🏽
-    location: "Italy"
-    followers: 21139
-    engagement: 561
-    commentsToLikes: 0.005806
-    id: ck0ttroup414x0i19nw4ybgzx
-    verified: false
-    hashtags: "#conceptart, #digitalpainting, #girldrawing, #princess"
-  - username: "carakozik"
-    fullname: >-
-      Cara Brown
-    bio: >-
-      Artist and Dreamer. Illustrator, Textile designer & Visdev. Lover of all things tiki, bookish and Italian.
-    location: "Italy"
-    followers: 11600
-    engagement: 407
-    commentsToLikes: 0.027313
-    id: ck5c5z3uq4eup0i11cj2yxn7o
-    verified: false
-    hashtags: "#bookstagram, #fairytale, #bookishmerch, #shelfie"
-  - username: "itsmemario.97"
-    fullname: >-
-      Mario Esposito 💄 Velvety Rose
-    bio: >-
-      👸🏽 Drag queen 💃🏽 📼 Video maker and illustrator ✏️ 👁 @ttd_eye discount 10% MARIO10 👀 ⬇️ LAST VIDEO YOUTUBE ⬇️
-    location: "Italy"
-    followers: 2935
-    engagement: 1203
-    commentsToLikes: 0.153951
-    id: ck6trdv8wyf1l0j71bnoenz4w
-    verified: false
-    hashtags: "#makeupisforeveryone, #beauty, #instagood, #instagram"
+    hashtags: "#figurativeartist, #artwork, #modernartt, #figurative"
 ---

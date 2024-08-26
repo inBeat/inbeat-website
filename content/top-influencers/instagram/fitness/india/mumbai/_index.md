@@ -1,24 +1,36 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Mumbai In 2023
+title: Top 10 Fitness Instagram Influencers In Mumbai In 2024
 description: >-
-  Find top fitness Instagram influencers in Mumbai in 2023. Most popular hashtags: #love #mumbai #fitness #instagood.
+  Find top fitness Instagram influencers in Mumbai in 2024. Most popular hashtags: #love #fitness #photography #mumbai.
 platform: Instagram
-hits: 353
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our database has 353 Instagram influencers like this in Mumbai, India for you to connect with.
+hits: 454
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 454 Instagram influencers like this in Mumbai, India for you to connect with.
 profiles:
-  - username: "msdev15"
+  - username: "sassyaish"
     fullname: >-
-      Mohit K Sachdev ੧ਓ
+      Aishwarya Sharma
     bio: >-
-      •Actor/model | Men'sFashion | Lifestyle | Travel | Fitness | •Mumbai📍
+      Lifestyle•Travel•Fitness Mumbai 🇮🇳 @gopro Ambassador 📹 @fitbit Ambassador ⌚ Managed by @thewordsedge.official aishwaryasharma@thewordsedge.com
     location: "India"
-    followers: 7034
-    engagement: 230
-    commentsToLikes: 0.042592
-    id: ck0tyf0gzmja70i19ghc0hk89
+    followers: 101811
+    engagement: 47
+    commentsToLikes: 0.019526
+    id: ck8t4paoh7lod0j782k7uft37
     verified: false
-    hashtags: "#visapurfort, #mountains, #exploremore, #explore"
+    hashtags: "#ridepure, #continentalgt650, #harpalfashionable, #amazongreatindianfestival"
+  - username: "ranjhavikramsingh"
+    fullname: >-
+      Ranjha Vikram Singh
+    bio: >-
+      SIMPLY STARDOM 🦅@ActRanjhaVikram Mail: team.ranjhavikram@gmail.com SnapChat:RanjhaVikram
+    location: "India"
+    followers: 1504578
+    engagement: 142
+    commentsToLikes: 0.096099
+    id: ck8tdcwff2up50j782b1q66qu
+    verified: true
+    hashtags: "#actorslife, #actor, #mystyle, #punjabi"
   - username: "abrahamjohnarchitects"
     fullname: >-
       Abraham John Architects
@@ -31,6 +43,18 @@ profiles:
     id: ck0u1sicgxr3m0i19mojyumo3
     verified: false
     hashtags: "#villa, #art, #urbanplanning, #citiesskyline"
+  - username: "matyldab8"
+    fullname: >-
+      MATYLDA
+    bio: >-
+      🇮🇳 &🇦🇪 &🇵🇱Love You😘 Yes,You❤️ ❤️
+    location: "India"
+    followers: 474937
+    engagement: 448
+    commentsToLikes: 0.013410
+    id: ck6tsfq794iev0j71jc16br62
+    verified: false
+    hashtags: "#stayfit, #portrait, #photography, #naturallight"
   - username: "simmi_274"
     fullname: >-
       Simmi💕
@@ -47,62 +71,26 @@ profiles:
     fullname: >-
       Astha Gupta (mini)
     bio: >-
-      MissMadhya Pradesh'19 Top10 finalist in Miss IndiaWorldwide nation'19 Fashion Designing @inifdbandra Fitness💪 Mumbai @thewardrobe_by_astha
+      MissMadhya Pradesh'19 Top10 finalist in Miss IndiaWorldwide nation'19 Fashion Designing @inifdbandra Fitness💪 Mumbai @theweddingclosetbyasthagupta
     location: "India"
-    followers: 9006
-    engagement: 356
-    commentsToLikes: 0.012475
+    followers: 10816
+    engagement: 278
+    commentsToLikes: 0.021523
     id: ck9hbwpdwirwj0j78u8ijbdwp
     verified: false
-    hashtags: "#fashionblogger, #weddingdress, #bollywood, #instamood"
-  - username: "komalchhikara1"
+    hashtags: "#reelkarofeelkaro, #reels, #makeup, #travel"
+  - username: "zjaanch"
     fullname: >-
-      Komal Chhikara Rathi
+      Aanchal Hans
     bio: >-
-      Here for some fun 🤩 Physiotherapist | Nutritionist | Yoga Professional | Influencer | Fitness Enthusiast Business 📧: komal.enquiry@gmail.com
+      ZJ™ Aanch I AM ❤️ ZUMBA® JAMMER 🇮🇳 🌎 International Presenter 🌎 📧 Aanchalhansofficial@gmail.com Wanderlust - 25 Countries and counting
     location: "India"
-    followers: 83159
-    engagement: 344
-    commentsToLikes: 0.013813
-    id: ck9hb43p6fbsm0j78er6ip0aq
+    followers: 117909
+    engagement: 162
+    commentsToLikes: 0.039415
+    id: ckaoydgo8h1sk0i78bdzu2dgp
     verified: false
-    hashtags: "#trendingnow, #bollywood, #fashion, #punjab"
-  - username: "ayesha.khurana"
-    fullname: >-
-      Ayesha Khurana| FattoFittohit
-    bio: >-
-      TransformedFattofit #naturalbodybuilding USECODE AYESHA25 no minimum order @myproteinin Dm for paid collaboration/Shoot
-    location: "India"
-    followers: 135987
-    engagement: 315
-    commentsToLikes: 0.022685
-    id: ck8t3pwoj41i50j78t7rihc9p
-    verified: false
-    hashtags: "#corona, #ifbb, #stayhome, #girlwholift"
-  - username: "poojabishnoi36"
-    fullname: >-
-      Pooja Bishnoi
-    bio: >-
-      Sixpack Abs | 10 years old| Runners🏏🏃‍♀️ Supported by @vkfofficial Coach @sarwan.budiya￼ Managed by @cornerstoneway This Account managed by parents
-    location: "India"
-    followers: 704888
-    engagement: 6064
-    commentsToLikes: 0.005940
-    id: ck0vyyrdz6fyo0i19gdovdjgd
-    verified: false
-    hashtags: "#runmachine, #instagood, #workout, #cricketmerijaan"
-  - username: "saif____rayeen"
-    fullname: >-
-      Saif Rayeen - سیف راین 🔞
-    bio: >-
-      A STAR IS BORN ⭐️ (🖖🏻)
-    location: "India"
-    followers: 142581
-    engagement: 176
-    commentsToLikes: 0.030098
-    id: ck6tno9wba8q50j7123tx8pee
-    verified: false
-    hashtags: "#bereal, #fitnessmodel, #saifrayeenfitness, #mumbai"
+    hashtags: "#bollywoodstyle, #fashion, #bollywood, #zumbaclass"
   - username: "thecocobae"
     fullname: >-
       TINA DAS | CONTENT CREATOR
@@ -127,4 +115,16 @@ profiles:
     id: ckap1wt0gwewv0i78pjctuiv2
     verified: false
     hashtags: "#fefanart, #gainwithcarlz, #picoftheday, #instalike"
+  - username: "muffinmanstudio"
+    fullname: >-
+      
+    bio: >-
+      Game Developers DM us for Promos! Follow our 2nd account: @muffinmangames2
+    location: "India"
+    followers: 10327
+    engagement: 124
+    commentsToLikes: 0.013241
+    id: ck15qzlu35e8c0i19iy4f52lm
+    verified: false
+    hashtags: "#bollywoodhottie, #bollywoodstylefile, #gamedesign, #bullman"
 ---

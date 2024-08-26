@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Canada In 2023
+title: Top 10 Guitar TikTok Influencers In Canada In 2024
 description: >-
-  Find top guitar TikTok influencers in Canada in 2023. Most popular hashtags: #guitar #fyp #musician #music.
+  Find top guitar TikTok influencers in Canada in 2024. Most popular hashtags: #guitar #fyp #music #musician.
 platform: TikTok
 hits: 95
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine has 95 TikTok influencers like this in Canada for you to pitch.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 95 TikTok influencers like this in Canada for you to connect with.
 profiles:
   - username: "dylanhennessy"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       Rocker, skater, guitarist. Email for online lessons! dylanhennessymusic@gmailcom
     location: "Canada"
-    followers: 2989
-    engagement: 902
-    commentsToLikes: 0.059707
+    followers: 3191
+    engagement: 1359
+    commentsToLikes: 0.080009
     id: ck900x3u7avii0j78el1l10wv
     verified: false
-    hashtags: "#cover, #foryourpage, #vibe, #lol"
+    hashtags: "#foryoupage, #rap, #music, #spoof"
   - username: "johnnygotgram"
     fullname: >-
       Johnny Ciardullo
@@ -37,12 +37,12 @@ profiles:
     bio: >-
       I play guitar & write songs ⚡️ Check me out on insta @mawzymusic
     location: "Canada"
-    followers: 4108
-    engagement: 433
-    commentsToLikes: 0.039310
+    followers: 4501
+    engagement: 423
+    commentsToLikes: 0.083718
     id: ckb9ed7eh1wau0j237ynpci0z
     verified: false
-    hashtags: "#guitar, #foryou, #livemusic, #fyp"
+    hashtags: "#music, #recording, #guitarlesson, #toronto"
   - username: "luketrepp"
     fullname: >-
       LukeTrepp
@@ -54,19 +54,19 @@ profiles:
     commentsToLikes: 0.018809
     id: ck8qqbedf74ig0j78jatuzctw
     verified: false
-    hashtags: "#song, #original, #originalsound, #guitar"
+    hashtags: "#originalsound, #cover, #originalsong, #singing"
   - username: "manelijamal"
     fullname: >-
       Maneli Jamal
     bio: >-
       For full videos, music and FREE lessons please check my page below 👇🏼
     location: "Canada"
-    followers: 8674
-    engagement: 1470
-    commentsToLikes: 0.149393
+    followers: 8905
+    engagement: 1262
+    commentsToLikes: 0.203704
     id: ckac5svbldkye0i78ggwin3bg
     verified: false
-    hashtags: ""
+    hashtags: "#guit, #guitarcentral, #acoustic, #jazzguitar"
   - username: "djkelil.rockstar"
     fullname: >-
       KelilGotSauce 
@@ -79,18 +79,6 @@ profiles:
     id: ckbet31g2bz6e0j237jgtuf2q
     verified: false
     hashtags: "#cuffinseason, #eternalatake, #guitarsample, #singer"
-  - username: "kevinfarmerdrums"
-    fullname: >-
-      Kevin Farmer
-    bio: >-
-      Drums & Recording 🥁🎤
-    location: "Canada"
-    followers: 25500
-    engagement: 1683
-    commentsToLikes: 0.071973
-    id: cka9q9lej7spa0i788xuvpbu4
-    verified: false
-    hashtags: "#drumming, #wee, #foryou, #fyp"
   - username: "wolfhard_cosplays"
     fullname: >-
       IRL Mike Wheeler 🚲
@@ -102,7 +90,7 @@ profiles:
     commentsToLikes: 0.060846
     id: ck8sbpat87l2d0j78xlzoydjf
     verified: false
-    hashtags: "#milliebobbybrown, #acting, #expressions, #mothersday"
+    hashtags: "#milliebobbybrown, #acting, #happymothersday, #actor"
   - username: "haileyb114"
     fullname: >-
       Hailey Benedict
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.077450
     id: ckcui5zzefyha0j23aj9glky0
     verified: false
-    hashtags: "#musician, #songwriter, #foryoupage, #singer"
+    hashtags: "#guitartok, #musician, #songwriter, #singer"
   - username: "lunaliband"
     fullname: >-
       LUNA LI
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.037439
     id: ck8kexi01bg430j7844q9daor
     verified: true
-    hashtags: "#chill, #indie, #foryou, #bass"
+    hashtags: "#bedroom, #guitar, #lifeathome, #originalmusic"
+  - username: "jessiereyez"
+    fullname: >-
+      Jessiereyez
+    bio: >-
+      🦦 hello
+    location: "Canada"
+    followers: 553500
+    engagement: 1261
+    commentsToLikes: 0.014391
+    id: ck8kjj9tzv1do0j78vygvaa92
+    verified: true
+    hashtags: "#guitar, #latinx, #song, #payitforward"
 ---

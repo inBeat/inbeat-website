@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Melbourne In 2023
+title: Top 10 Fitness TikTok Influencers In Melbourne In 2024
 description: >-
-  Find top fitness TikTok influencers in Melbourne in 2023. Most popular hashtags: #fyp #foryou #melbourne #fitness.
+  Find top fitness TikTok influencers in Melbourne in 2024. Most popular hashtags: #fyp #melbourne #foryou #fitness.
 platform: TikTok
 hits: 17
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our database holds 17 TikTok influencers like this in Melbourne, Australia for you to collaborate.
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 17 TikTok influencers like this in Melbourne, Australia for you to collaborate.
 profiles:
   - username: "karansandhu7oo"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: cka5z14t9kop90i78ouqudil2
     verified: false
     hashtags: "#melbourne, #couple, #bmw, #couplegoals"
-  - username: "jimrossington"
-    fullname: >-
-      Jim Rossington
-    bio: >-
-      Follow me on Insta ⬆️ Jim Day-Knight Biz - Jimrossington@outlook.com
-    location: "Australia"
-    followers: 197200
-    engagement: 1182
-    commentsToLikes: 0.015954
-    id: ckacr1i2u3emd0i786tam0tco
-    verified: false
-    hashtags: "#australia, #foryou, #comedy, #aus"
   - username: "thelifeofafitchick"
     fullname: >-
       LeiSh
@@ -127,4 +115,16 @@ profiles:
     id: ckal669dl9jy50i78w9np7l9w
     verified: false
     hashtags: "#4u, #tattoo, #funny, #fyp"
+  - username: "adventuresofkatelyn"
+    fullname: >-
+      AdventuresOfKatelyn
+    bio: >-
+      Travel addict ✈️ Instagram @adventuresofkatelyn ✨ YouTube ⬇️
+    location: "Australia"
+    followers: 70600
+    engagement: 595
+    commentsToLikes: 0.014489
+    id: ckb98cwj2rt3z0j23wik6ijf1
+    verified: false
+    hashtags: "#travel, #farmlife, #foryou, #tiktoktravel"
 ---

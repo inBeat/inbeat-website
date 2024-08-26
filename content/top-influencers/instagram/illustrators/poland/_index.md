@@ -1,11 +1,11 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Poland In 2023
+title: Top 10 Illustrators Instagram Influencers In Poland In 2024
 description: >-
-  Find top illustrators Instagram influencers in Poland in 2023. Most popular hashtags: #illustration #ilustracja #digitalillustration #digitalart.
+  Find top illustrators Instagram influencers in Poland in 2024. Most popular hashtags: #illustration #digitalart #ilustracja #illustrator.
 platform: Instagram
-hits: 40
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 40 Instagram influencers like this in Poland for you to work with.
+hits: 42
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 42 Instagram influencers like this in Poland for you to contact.
 profiles:
   - username: "emilia.dziubak"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck0w3crlpsqx70i1994n3z6ec
     verified: false
     hashtags: "#cutout, #paperwork, #nioska, #paperart"
+  - username: "jmudrowska"
+    fullname: >-
+      Joanna Mudrowska artist
+    bio: >-
+      • Artist • illustrator • ✉️ kontakt@joannamudrowska.pl ••• @jmudrowska.tattoo in @pracownia_tattelier
+    location: "Poland"
+    followers: 8106
+    engagement: 144
+    commentsToLikes: 0.037622
+    id: ck5hp80iaqwng0i11m46y4r0e
+    verified: false
+    hashtags: "#poster, #portrait, #artcards, #love"
   - username: "wonder_franca"
     fullname: >-
       Marta
@@ -115,16 +127,4 @@ profiles:
     id: ck6tjclq32g650j71ucfargcn
     verified: false
     hashtags: "#kabby, #digitalsketch, #regency, #cartoonstyle"
-  - username: "julia.pezowicz"
-    fullname: >-
-      Julia | journaling & doodles
-    bio: >-
-      illustrator & small business owner from Poland ✨ contact: j.pezowicz7@gmail.com my stickers shop, youtube and more 👇🏻
-    location: "Poland"
-    followers: 29778
-    engagement: 236
-    commentsToLikes: 0.053353
-    id: ck8taumx8t4pv0j7872adqhc2
-    verified: false
-    hashtags: "#shopupdate, #shopsmall, #stickershop, #aestheticbujo"
 ---

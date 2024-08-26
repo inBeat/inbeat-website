@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health Instagram Influencers In Tokyo In 2023
+title: Top 10 Health Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top health Instagram influencers in Tokyo in 2023. Most popular hashtags: #tokyo #japan #pr #stayhome.
+  Find top health Instagram influencers in Tokyo in 2024. Most popular hashtags: #tokyo #japan #health #pr.
 platform: Instagram
-hits: 25
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 25 Instagram influencers like this in Tokyo, Japan for you to connect with.
+hits: 26
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 26 Instagram influencers like this in Tokyo, Japan for you to contact.
 profiles:
   - username: "yu.i.k.a"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck5zsct0sy9am0i145rotzwop
     verified: false
     hashtags: "#bodycare, #pr, #tigora, #beauty"
-  - username: "sweets__nano"
-    fullname: >-
-      nano
-    bio: >-
-      °` ♡𝒩𝒶𝓃ℴ.♡ ´° 📍ᴊᴀᴘᴀɴ 🍰sᴡᴇᴇᴛs ᴀʀᴛɪsᴛ≀sᴛɪʟɪɴɢs #プレ花嫁 ❤️ғᴏᴏᴅ≀ʟɪғᴇsᴛʏʟᴇ≀ғʟᴀᴛʟᴀʏ ✈️ ᴛʀᴀᴠᴇʟᴇʀ . #nanotravel✈️ #nanosweets💖 #nanoflatlay
-    location: "Japan"
-    followers: 74334
-    engagement: 157
-    commentsToLikes: 0.014628
-    id: ck13bikjuvkva0i19btn2hc9c
-    verified: false
-    hashtags: "#valentine, #fashiongoalsz, #genic, #nano"
   - username: "akanetiger"
     fullname: >-
       𝑇𝑎𝑖𝐺𝑎🕊
@@ -43,18 +31,54 @@ profiles:
     id: ckf5mzgwfw32d0j23v9xbhya9
     verified: false
     hashtags: "#dinner, #afternoontea, #tokyogourmet, #dancyu"
-  - username: "kiki__cafe"
+  - username: "tabesugita"
     fullname: >-
-      キキ。
+      PIO・ピオ
     bio: >-
-      ※現在はご近所カフェorテイクアウト情報💐 OZmall @tokyo_joshibu @oimoyasankoshin 他宣伝。 ⚠️無断転載禁止 / Reprint is prohibited. 📩PR等の御依頼は、DM・メールにて承ります。
+      designer @2098.official director @sukisugita mental health advocate Player 2 OUT NOW!
     location: "Japan"
-    followers: 10262
-    engagement: 362
-    commentsToLikes: 0.004005
-    id: ck0ud8pa5io280i19m4vb3ato
+    followers: 19349
+    engagement: 349
+    commentsToLikes: 0.013533
+    id: ckf5vv4aoq0dp0j23f2jgilm7
     verified: false
-    hashtags: "#foodstagram, #instafood, #healthy, #tokyo"
+    hashtags: ""
+  - username: "aesthetic_ys"
+    fullname: >-
+      Yuki Sorci
+    bio: >-
+      ◽️CEO @evolifeapparel ◾️USBB All Japan Mens Physique Overall🏆 ◽️Fmr Pro MMA Fighter👊🏼 ◾️Trader📈 🔹@vqfit 🔹@yavalabs.official 🔹@mycookiedealer
+    location: "Japan"
+    followers: 347088
+    engagement: 247
+    commentsToLikes: 0.004277
+    id: ck5qcepneq7670i11a2jqf9am
+    verified: false
+    hashtags: "#pt, #fitspo, #muscle, #tokyo"
+  - username: "iamradzi"
+    fullname: >-
+      Radzi Chinyanganya
+    bio: >-
+      🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇿🇼 📺 tv presenter 🎙️"Making Gains" podcast 📚 Factoids & Fitness💪🏾 Blue Peter forever #37
+    location: "Japan"
+    followers: 32043
+    engagement: 55
+    commentsToLikes: 0.015914
+    id: ck14iw55ohfju0i19mxsnpfbe
+    verified: true
+    hashtags: "#itv, #gym, #champion, #formulae"
+  - username: "nhkworldjapan"
+    fullname: >-
+      NHK WORLD-JAPAN
+    bio: >-
+      Follow us for the latest from Japan! Official account of NHK, Japan’s public broadcaster. Terms: www3.nhk.or.jp/nhkworld/en/terms 👇 Link of the Month👇
+    location: "Japan"
+    followers: 337612
+    engagement: 97
+    commentsToLikes: 0.011497
+    id: ck5qatz4ii8mr0i11wtwk7vgx
+    verified: true
+    hashtags: "#learnjapanese, #animeartist, #japaneseanime, #traveljapan"
   - username: "mimi.happy"
     fullname: >-
       
@@ -79,18 +103,18 @@ profiles:
     id: ck14gn8qo62a00i19x842erjn
     verified: false
     hashtags: "#fujimi, #afternoontea, #tokyo, #beyondsosho"
-  - username: "nhkworldjapan"
+  - username: "sagewatson"
     fullname: >-
-      NHK WORLD-JAPAN
+      Sage Walker
     bio: >-
-      Follow us for the latest from Japan! Official account of NHK, Japan’s public broadcaster. #nhkworldjapan Terms: www3.nhk.or.jp/nhkworld/en/terms
+      Woman of Faith 2xOlympian Private coaching ⬇️ ⁣⁣⁣ Canadian Record Holder⁣⁣ Pan Am Champion ⁣⁣⁣⁣ NCAA Champion for Arizona⁣⁣⁣
     location: "Japan"
-    followers: 145074
-    engagement: 155
-    commentsToLikes: 0.020476
-    id: ck5qatz4ii8mr0i11wtwk7vgx
+    followers: 90231
+    engagement: 429
+    commentsToLikes: 0.016333
+    id: ck0u9m9r5a3bk0i19qw7p3r3x
     verified: true
-    hashtags: "#socialdistancing, #discoverjapan, #oishii, #soapandwater"
+    hashtags: "#trackandfield, #olympics, #grateful, #tokyo2020"
   - username: "_ayami.y_"
     fullname: >-
       彩未🍓【𝐚𝐲𝐚𝐦𝐢】
@@ -103,28 +127,4 @@ profiles:
     id: ckaoxua40es6k0i78gdzd05cp
     verified: false
     hashtags: "#pr, #skincare, #makeup, #eyemakeup"
-  - username: "kazukovalentine"
-    fullname: >-
-      Kazuko Hayasaka
-    bio: >-
-      Make up artist / Phytotherapist / Director at organic cosmetics brand "NEROLILA Botanica"
-    location: "Japan"
-    followers: 92435
-    engagement: 135
-    commentsToLikes: 0.010303
-    id: ck5hrnkenv5zf0i11z1cm0wpg
-    verified: false
-    hashtags: "#dan, #nerolilabotanica, #liaf, #lifeisaflower"
-  - username: "iku3i8i8i"
-    fullname: >-
-      𓆝𓆟いく iku𓆜  𓆝   𓆞
-    bio: >-
-      Kyoto/Japan Ambassador ☽best pot3期生 ☽コバト缶第1期 ☽BAKE 箱菓子倶楽部第1期 ☽第1期おもいのフライパン ☽サラダクラブ ☽おとりよせネット ☽UMELAB ☽ベジターレ ☽kurasso @nokaze_ikustyle -うつわと物語の家-
-    location: "Japan"
-    followers: 21641
-    engagement: 432
-    commentsToLikes: 0.020557
-    id: ck5cjozdvv6v90i11oxen6en4
-    verified: false
-    hashtags: "#ouchigohanlover, #iku, #ikucafe, #wp"
 ---

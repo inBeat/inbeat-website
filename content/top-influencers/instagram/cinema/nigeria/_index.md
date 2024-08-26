@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Nigeria In 2023
+title: Top 10 Cinema Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top cinema Instagram influencers in Nigeria in 2023. Most popular hashtags: #love #photography #cinematography #beautiful.
+  Find top cinema Instagram influencers in Nigeria in 2024. Most popular hashtags: #cinematography #photography #explorepage #love.
 platform: Instagram
-hits: 8
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 8 Instagram influencers like this in Nigeria for you to pitch.
+hits: 16
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 16 Instagram influencers like this in Nigeria for you to connect with.
 profiles:
   - username: "kola_oye"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck5hrd8g6uod00i11lp5mvcqj
     verified: false
     hashtags: "#wedding, #beauty, #weddingcinematography, #love"
+  - username: "itiayo"
+    fullname: >-
+      Itiayo O
+    bio: >-
+      Still no niche 🤷🏾‍♀️ Photographer at @bojstudios @soundsnsights 📍Lagos, Nigeria ✉️ itiayo@gmail.com
+    location: "Nigeria"
+    followers: 127142
+    engagement: 1731
+    commentsToLikes: 0.037581
+    id: clple1sqows6s0k08puzifdhb
+    verified: false
+    hashtags: "#cinematography, #wfh, #productivity, #sharescribe"
   - username: "java_studios"
     fullname: >-
       Wedding&Portrait Photographer
@@ -55,6 +67,54 @@ profiles:
     id: ck0w0b37pdb1y0i19maidjcnw
     verified: false
     hashtags: "#endsars, #cinematography, #story, #endpolicebrutality"
+  - username: "kvnggiwa"
+    fullname: >-
+      Victor Giwa
+    bio: >-
+      Abba’s Delight ✨Creator | Storyteller| Entrepreneur Co founder: @getworldwide_ @giwa_studios @giwafarms For bookings Inquiries - @getworldwide_
+    location: "Nigeria"
+    followers: 69547
+    engagement: 814
+    commentsToLikes: 0.033277
+    id: ck134n413x83c0i19cglq9fjl
+    verified: false
+    hashtags: "#photography, #cinematography, #contentcreation, #playnetwork"
+  - username: "markangelcomedy"
+    fullname: >-
+      MARK ANGEL
+    bio: >-
+      GOD IS THE GREATEST✊️
+    location: "Nigeria"
+    followers: 3372472
+    engagement: 68
+    commentsToLikes: 0.027467
+    id: ck14gt1yo6vtl0i19hpo6p0l2
+    verified: true
+    hashtags: "#flexnaija, #reels, #funny, #tundeednut"
+  - username: "sujimotong"
+    fullname: >-
+      Sujimoto Group
+    bio: >-
+      🥇 Multi Award Winning Luxury Developer || CREDIT RATING BBB 👊We would lower our standards for NO MAN. Don’t Call If You Don’t Expect The BEST.
+    location: "Nigeria"
+    followers: 115344
+    engagement: 103
+    commentsToLikes: 0.052967
+    id: ck138s13ohqlo0i197zoz9rkj
+    verified: false
+    hashtags: "#qabsujimoto, #investinrealestate, #lucreziabysujimoto, #privatespa"
+  - username: "campussnap"
+    fullname: >-
+      campussnap
+    bio: >-
+      Creative photography inspiration tag @Campussnap | #Campussnap DM us to promote your work 📈
+    location: "Nigeria"
+    followers: 98484
+    engagement: 21
+    commentsToLikes: 0.001351
+    id: ckaover3r4aud0i78n7kje12k
+    verified: false
+    hashtags: "#art, #fashion, #photooftheday, #model"
   - username: "khalifashema"
     fullname: >-
       Mr.K          🍊
@@ -67,40 +127,4 @@ profiles:
     id: ck8szwcxzpyha0j781qqmxjsn
     verified: false
     hashtags: "#cats, #photography, #filmmaker, #photoshop"
-  - username: "baajadebule"
-    fullname: >-
-      Baaj Adebule
-    bio: >-
-      Actor | Film Maker | World Influencer Twitter: @BaajAdebule Actor Showreel link on the website. Please Check out my film @comewithme_movie
-    location: "Nigeria"
-    followers: 57692
-    engagement: 219
-    commentsToLikes: 0.058074
-    id: ck5bv6zb4j3jz0i11g01v1rpl
-    verified: true
-    hashtags: "#covid, #onelove, #actor, #stayhealthy"
-  - username: "ybimultimedia"
-    fullname: >-
-      YBI Multimedia
-    bio: >-
-      We are a PR company that builds extraordinary digital experiences. Studio/weddings @ybimultimedia_studios For bookings 08107058787
-    location: "Nigeria"
-    followers: 10118
-    engagement: 485
-    commentsToLikes: 0.008846
-    id: ck5hftwepzb560i11m3m8ydq4
-    verified: false
-    hashtags: "#photosession, #photographer, #photoshooting, #instagram"
-  - username: "capt_elma"
-    fullname: >-
-      Elma Mbadiwe
-    bio: >-
-      Actor | Human being | Not your role model
-    location: "Nigeria"
-    followers: 12698
-    engagement: 640
-    commentsToLikes: 0.058147
-    id: ck5bv6xdzj3h00i11vsg16vj3
-    verified: false
-    hashtags: "#rattlesnaketheahannastory, #playnetworkstudios, #rs2billi, #rattlesnake"
 ---

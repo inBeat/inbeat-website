@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In India In 2023
+title: Top 10 Lingerie Instagram Influencers In India In 2024
 description: >-
-  Find top lingerie Instagram influencers in India in 2023. Most popular hashtags: #lingerie #model #fashion #photoshoot.
+  Find top lingerie Instagram influencers in India in 2024. Most popular hashtags: #lingerie #model #bikini #photoshoot.
 platform: Instagram
-hits: 58
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 58 Instagram influencers like this in India for you to collaborate.
+hits: 63
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 63 Instagram influencers like this in India for you to work with.
 profiles:
   - username: "inspirephotographystudios"
     fullname: >-
@@ -19,30 +19,18 @@ profiles:
     id: ck8syaw3wkb7w0j78d61gw3xu
     verified: false
     hashtags: "#autoimmune, #positivevibes, #positiveenergy, #multiplesclerosis"
-  - username: "reddysameera"
+  - username: "moodybeasty"
     fullname: >-
-      Sameera Reddy
+      Nidhi Goel ⭐
     bio: >-
-      Messy Mama🙋🏻‍♀️• Happiness Creator • Imperfectly Perfect📍Goa🇮🇳 #sassysaasu #naughtynyra #happyhans @mr.vardenchi 💍
+      📍Delhi Mail for shoot enquiries! Capricorn♑️
     location: "India"
-    followers: 1657514
-    engagement: 249
-    commentsToLikes: 0.013941
-    id: ck6uciuidfuzr0j71jajgof63
-    verified: true
-    hashtags: "#womenswear, #camera, #westsidestores, #action"
-  - username: "annikak64"
-    fullname: >-
-      Annika
-    bio: >-
-      50plus model🇺🇸🇸🇪🇮🇹 @ladiesteam Sweden Italy @modomodels.it Collabs Mail..📩📬I don’t discuss business proposal/Collaboration over DM or Gmail accounts.
-    location: "India"
-    followers: 97936
-    engagement: 889
-    commentsToLikes: 0.123427
-    id: ck15r19e05n080i19e9hn57hq
+    followers: 805870
+    engagement: 112
+    commentsToLikes: 0.038683
+    id: ckto9ud6xesoy0j23gmm5clzi
     verified: false
-    hashtags: "#chambressweden, #modelover50, #bestager50plus, #over50models"
+    hashtags: "#selfportrait, #instagood, #instagram, #pink"
   - username: "carrieanna.aws"
     fullname: >-
       Carrieanna
@@ -127,4 +115,16 @@ profiles:
     id: ck0vy42yj254z0i19lb5ntqic
     verified: false
     hashtags: "#peoplescreative, #fashionphotography, #artofportraits, #ftmedd"
+  - username: "oshin_colaco16"
+    fullname: >-
+      Oshin Colaço
+    bio: >-
+      Art is objective. 📍Goa,India • The Neutral View Miss Goa 2018 👑 •Stellar Miss Goa 2019👑
+    location: "India"
+    followers: 8268
+    engagement: 703
+    commentsToLikes: 0.018049
+    id: ckap1nu93vchc0i781yryl5e4
+    verified: false
+    hashtags: "#fashionmodel, #reelsinstagram, #photography, #modeling"
 ---

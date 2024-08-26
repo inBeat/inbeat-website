@@ -1,12 +1,36 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Greece In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Greece In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Greece in 2023. Most popular hashtags: #athens #design #photooftheday #travel.
+  Find top graphic-designers Instagram influencers in Greece in 2024. Most popular hashtags: #athens #athensvoice #design #ig.
 platform: Instagram
-hits: 8
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 8 Instagram influencers like this in Greece for you to collaborate.
+hits: 10
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 10 Instagram influencers like this in Greece for you to contact.
 profiles:
+  - username: "forbidden.designs"
+    fullname: >-
+      Dimitris Gelbouras
+    bio: >-
+      Art director @institutfrancaisgrece / Some days a #graphicdesigner , some days a #photographer & some days an #artist (?) / Δημήτρης Γκέλμπουρας
+    location: "Greece"
+    followers: 6428
+    engagement: 478
+    commentsToLikes: 0.009595
+    id: ck135mur9271f0i19u05s1dab
+    verified: false
+    hashtags: "#prideart, #yorgosarchimandritis, #dazedfashion, #minimalmood"
+  - username: "alicedetogni"
+    fullname: >-
+      Alice
+    bio: >-
+      co-founder of @heliophiliaclub Interior & Graphic Designer
+    location: "Greece"
+    followers: 231701
+    engagement: 102
+    commentsToLikes: 0.005426
+    id: ck0u7e6gq4lw80i191qrwfjjc
+    verified: false
+    hashtags: "#adv, #lifewear, #day1, #milanoshapesme"
   - username: "oskar_grfx"
     fullname: >-
       Yorgos Oskar | Photographer

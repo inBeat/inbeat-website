@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Seoul In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Seoul In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Seoul in 2023. Most popular hashtags: #tattoo #tattooart #tattooideas #colortattoo.
+  Find top tattoo-artists Instagram influencers in Seoul in 2024. Most popular hashtags: #tattooart #tattoo #tattooideas #tattooartist.
 platform: Instagram
-hits: 10
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 10 Instagram influencers like this in Seoul, South Korea for you to contact.
+hits: 8
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 8 Instagram influencers like this in Seoul, South Korea for you to contact.
 profiles:
   - username: "wormholehopper"
     fullname: >-
@@ -103,28 +103,28 @@ profiles:
     id: ck55k51uiyh6n0i11jccth73u
     verified: false
     hashtags: "#tattooidea, #blackouttattoo, #blacktattooart, #blacktattoomag"
-  - username: "now_tattooer"
+  - username: "tattooeunb"
     fullname: >-
-      ‧ ͙✷ 𝐍𝐎𝐖 ✷ ͙‧
+      Eunb
     bio: >-
-      ✷ 𝐒𝐞𝐨𝐮𝐥, 𝐊𝐨𝐫𝐞𝐚 ✷ 𝐃𝐞𝐬𝐢𝐠𝐧 : @Now_ttt ̵ ̀ ̗ 𝐍𝐨 𝐃𝐌 ̖ ́ ̵ ✷ 𝐊𝐚𝐤𝐚𝐨 : 𝐜𝐫𝐚𝐳𝐲𝐥𝐮𝐜𝐤𝐧𝐨𝐰 ✷ 𝐌𝐚𝐢𝐥 : 𝐧𝐨𝐰𝐭𝐚𝐭𝐭𝐨𝐨𝐞𝐫@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
+      Renaissance Contemporary Art LA Tattoo Artist 💌tattooeunb@gmail.com @eunb.tt Color works @10kf_hollywood studio
     location: "South Korea"
-    followers: 52808
-    engagement: 249
-    commentsToLikes: 0.002063
-    id: ck6u146lnjhab0j713gb6dhq5
+    followers: 27465
+    engagement: 283
+    commentsToLikes: 0.019182
+    id: ckap4tkeq8tda0i78s2t7jaa8
     verified: false
-    hashtags: "#lineworks, #tttism, #blacktattoo, #seoultattoo"
-  - username: "lighthouse_professional_tattoo"
+    hashtags: "#tattoosleeve, #inkedlife"
+  - username: "tattooer_zusen"
     fullname: >-
-      ⚓️Lighthouse Tattoo Studio
+      ZUSEN
     bio: >-
-      • Based in Republic of Korea 🇰🇷 • Nampodong, Busan • Itaewon, Seoul • Check individual artists and contact directly ⬇️
+      Gwangju, South Korea / 광주 동명동 5월부터 서울에서 작업합니다. ___________ 📩KAKAO or DM for booking 작업 문의
     location: "South Korea"
-    followers: 73672
-    engagement: 423
-    commentsToLikes: 0.002636
-    id: ck5qebx8vzpxx0i1141dpfof7
+    followers: 24558
+    engagement: 638
+    commentsToLikes: 0.035922
+    id: ck8szl6d5ovf30j7852bk4zoz
     verified: false
-    hashtags: ""
+    hashtags: "#darkartists, #onlyblackart, #tattooartist, #tattoodesign"
 ---

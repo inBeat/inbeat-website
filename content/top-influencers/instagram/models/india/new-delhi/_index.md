@@ -1,12 +1,24 @@
 ---
-title: Top 10 Models Instagram Influencers In New Delhi In 2023
+title: Top 10 Models Instagram Influencers In New Delhi In 2024
 description: >-
-  Find top models Instagram influencers in New Delhi in 2023. Most popular hashtags: #photography #model #fashion #trending.
+  Find top models Instagram influencers in New Delhi in 2024. Most popular hashtags: #reels #model #photography #instagood.
 platform: Instagram
-hits: 40
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 40 Instagram influencers like this in New Delhi, India for you to contact.
+hits: 48
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 48 Instagram influencers like this in New Delhi, India for you to collaborate.
 profiles:
+  - username: "rudra_priya_"
+    fullname: >-
+      Rudrapriya
+    bio: >-
+      VLCC Femina Miss India Madhya Pradesh 2020 Urban planner and Model @inega.in Bhopal| New Delhi
+    location: "India"
+    followers: 11871
+    engagement: 517
+    commentsToLikes: 0.031517
+    id: ck15qovw53xbh0i19wvzgety9
+    verified: false
+    hashtags: "#instagram, #indianfashion, #reels, #instagramreels"
   - username: "iemrizwan_official"
     fullname: >-
       Rizwan Khan
@@ -19,18 +31,6 @@ profiles:
     id: ckapbgodtzsa60i782cfui7qm
     verified: false
     hashtags: "#pubmobile, #brutal, #pubgclips, #iphone12pro"
-  - username: "rudra_priya_"
-    fullname: >-
-      Rudrapriya.
-    bio: >-
-      VLCC Femina Miss India Madhya Pradesh 2020 @missindiaorg Urban planner and Model. MA @timestalent Bhopal| New Delhi
-    location: "India"
-    followers: 8487
-    engagement: 859
-    commentsToLikes: 0.028500
-    id: ck15qovw53xbh0i19wvzgety9
-    verified: false
-    hashtags: "#rvwomen, #reelsinstagram, #thread, #rishiandvibhuti"
   - username: "jiah_bhardwaj"
     fullname: >-
       Deoyani Bhardwaj (Jiah)
@@ -43,18 +43,66 @@ profiles:
     id: ck14imgrzg4cy0i19qy7ln4o8
     verified: false
     hashtags: "#latindance, #socialdance, #holi2k21, #reels"
-  - username: "shewon_alyosius"
+  - username: "kunwar_saa_barmer"
     fullname: >-
-      Shewon Alyosius
+      swaroop singh
     bio: >-
-      Never give up on your dreams. Digital Marketer | Fashion Stylist | Fashion Model Fashion • Beauty • Lifestyle • Portraits 📍New Delhi
+      📍 #barmer #jodhpur #jaipur 📩 Dm me for paid promotion
     location: "India"
-    followers: 75093
-    engagement: 134
-    commentsToLikes: 0.058256
-    id: ck15sp6r1e4k90i19kx2hi3on
+    followers: 107374
+    engagement: 1164
+    commentsToLikes: 0.012882
+    id: ckf5x25c9u2mk0j23bsurbw13
     verified: false
-    hashtags: "#happyvibes, #rakhi, #rakhshabandhan, #positivevibes"
+    hashtags: "#raj, #marwar, #bhilwara, #ahmedabad"
+  - username: "taukeer_editz"
+    fullname: >-
+      Tauqeer azeem
+    bio: >-
+      • Photo | Lifestyle 🚀 • Creator | New Delhi📍 • officialtaukeereditz@gmail.com 📩
+    location: "India"
+    followers: 540179
+    engagement: 482
+    commentsToLikes: 0.010886
+    id: ck15r3put5zoz0i19o97av7e3
+    verified: false
+    hashtags: "#photooftheday, #modelposes, #editzarmy, #fashioninfluencer"
+  - username: "sktphotos"
+    fullname: >-
+      Shashank Tyagi
+    bio: >-
+      Freelance Photographer Our Fortes:- Fashion . Jewellery . Products 📍 New Delhi . 📩tyagishashank@sktphotos.com
+    location: "India"
+    followers: 21549
+    engagement: 345
+    commentsToLikes: 0.002648
+    id: ck5hrfrg8usyw0i11oymtiaxr
+    verified: false
+    hashtags: "#male, #productshoot, #productphotographer, #editorial"
+  - username: "ankur.dua"
+    fullname: >-
+      Ankur Dua
+    bio: >-
+      22 || 📍New Delhi DM/Mail for paid collaboration Email- nikhild.dua@gmail.com Snapchat👻- ankurdua99
+    location: "India"
+    followers: 160907
+    engagement: 121
+    commentsToLikes: 0.021858
+    id: ck9wg37jxrp3u0j78v3medvr0
+    verified: false
+    hashtags: "#followforfollowback, #trendingreels, #foryoupage, #babygirl"
+  - username: "i_am_sharik_"
+    fullname: >-
+      S H A R I K - P O P 🌚
+    bio: >-
+      🌙ٱلْحَمْدُ لِلَّٰهِ 23👨🏻‍🎤 Managed by :- @gm_talents_ 2.8M on Moj 🎭 1.3M on Mx Takatak ♥️ Fitness Icon 💪 Etawah - New Delhi 📍
+    location: "India"
+    followers: 750089
+    engagement: 56
+    commentsToLikes: 0.005483
+    id: ck8wf3bo9f2790j783h7f2svb
+    verified: false
+    hashtags: "#islam, #keepgoing, #muslim, #sharikpoplover"
   - username: "tusharikasethi"
     fullname: >-
       Tusharika Sethi
@@ -66,19 +114,7 @@ profiles:
     commentsToLikes: 0.082820
     id: ckap02xjhohdn0i78bqctyjt1
     verified: false
-    hashtags: "#poser, #sea, #traveldiaries, #hiking"
-  - username: "ankur.dua"
-    fullname: >-
-      Ankur Dua
-    bio: >-
-      22 || 📍New Delhi DM/Mail for paid promotion & collaboration Email- ankur.dua999@gmail.com Snapchat👻- ankurdua99
-    location: "India"
-    followers: 171758
-    engagement: 257
-    commentsToLikes: 0.018824
-    id: ck9wg37jxrp3u0j78v3medvr0
-    verified: false
-    hashtags: "#viralreels, #explorepage, #punjabi, #viralpost"
+    hashtags: "#mountains, #bloggerstyle, #blogger, #india"
   - username: "abhishek_berwal_"
     fullname: >-
       अभिषेक बेरवाल
@@ -91,40 +127,4 @@ profiles:
     id: ckapav5r4xl800i7816ehskzo
     verified: false
     hashtags: "#pose, #hairstyle, #fitness, #gym"
-  - username: "hasan__suhaib__siddiqui"
-    fullname: >-
-      Hasan S. Siddiqui | سید الصہیب
-    bio: >-
-      𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 ıllı 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 ıllı 𝐈𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞 📍Roorkee ⇌ New Delhi 📍IND 🇮🇳 According US 🇺🇸 Mail For Collaboration📥 U Can’t 🔥Me #facebook #Hasansuhaibsiddiqui
-    location: "India"
-    followers: 34770
-    engagement: 25
-    commentsToLikes: 0.034766
-    id: ckaovylz16nnc0i7856g8crjm
-    verified: false
-    hashtags: "#insta, #instadaily, #model, #modeling"
-  - username: "the_ankita_gupta_"
-    fullname: >-
-      Ankita Gupta
-    bio: >-
-      NIFT, New Delhi. B.Des.🎓 Jewelry Designer @swarovski Professional Makeup Artist 💄@ankita_gupta_makeovers Kanpur🔃Delhi DM for paid promotions /collabs
-    location: "India"
-    followers: 11727
-    engagement: 798
-    commentsToLikes: 0.064296
-    id: ckaov5oul361p0i78o45c14hk
-    verified: false
-    hashtags: "#pose, #delhifashionblogger, #makeup, #summeroutfitideas"
-  - username: "himanshuchwdhary"
-    fullname: >-
-      Himanshu Choudhary
-    bio: >-
-      Director at @modelmakersofficial Director at @meoproduction Director at @meostudiodelhi NEW-DELHI/MUMBAI
-    location: "India"
-    followers: 21656
-    engagement: 275
-    commentsToLikes: 0.032328
-    id: ckapaz00ky04c0i78xsuuaxro
-    verified: false
-    hashtags: "#mtvsplitsvilla, #mtvroadies, #mtv, #mtvindia"
 ---

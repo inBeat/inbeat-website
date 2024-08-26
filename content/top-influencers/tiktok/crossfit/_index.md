@@ -1,11 +1,11 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In 2023
+title: Top 10 Crossfit TikTok Influencers In 2024
 description: >-
-  Find top crossfit TikTok influencers in 2023. Most popular hashtags: #crossfit #fyp #foryou #foryoupage.
+  Find top crossfit TikTok influencers in 2024. Most popular hashtags: #crossfit #fyp #foryou #foryoupage.
 platform: TikTok
 hits: 379
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our database holds 379 TikTok influencers like this for you to connect with.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: inBeat holds 379 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "jam_f1t"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.035759
     id: ckbf7nv1ixlkh0j23fcbdhqkb
     verified: false
-    hashtags: "#skateboarding, #glutes, #workout, #foryoupage"
+    hashtags: "#crossfit, #fitness, #skateboarding, #fyp"
   - username: "samaradamm"
     fullname: >-
       Samara Damian

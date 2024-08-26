@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Spain In 2023
+title: Top 10 Rappers Instagram Influencers In Spain In 2024
 description: >-
-  Find top rappers Instagram influencers in Spain in 2023. Most popular hashtags: #rap #rapper #hiphop.
+  Find top rappers Instagram influencers in Spain in 2024. Most popular hashtags: #rapper #music #spain #singer.
 platform: Instagram
-hits: 19
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 19 Instagram influencers like this in Spain for you to connect with.
+hits: 21
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database has 21 Instagram influencers like this in Spain for you to pitch.
 profiles:
   - username: "bigtobzsf"
     fullname: >-
@@ -43,6 +43,18 @@ profiles:
     id: ck1354tbczpk20i19qcq9clzn
     verified: false
     hashtags: ""
+  - username: "eleonoraalbrecht"
+    fullname: >-
+      Eleonora Albrecht
+    bio: >-
+      OARA 🎤🎧 Listen to my songs on Spotify🟢 Acting 🎬 @cdastudiodinardo 🇫🇷 @agents.associes ROMA- PARIS- LOS ANGELES
+    location: "Spain"
+    followers: 45144
+    engagement: 74
+    commentsToLikes: 0.056070
+    id: ck5zkwcvrkac10i1488ixpzi5
+    verified: false
+    hashtags: "#indiemusic, #release, #sun, #outfitinspiration"
   - username: "__frasesderap__"
     fullname: >-
       FRASES DE RAP🔥
@@ -55,6 +67,42 @@ profiles:
     id: ck6ubndz1alp30j71x602bxko
     verified: false
     hashtags: "#frases, #rapper, #batalla, #music"
+  - username: "corinabrx"
+    fullname: >-
+      CORINA
+    bio: >-
+      ↠23 yrs | Switzerland ↠find me on Twitch, Youtube, TikTok 🎶 Sommernacht - OUT NOW ⬇️
+    location: "Spain"
+    followers: 18031
+    engagement: 520
+    commentsToLikes: 0.047445
+    id: ck9wdfkpiffge0j7884a6k1qn
+    verified: false
+    hashtags: "#fitness, #streamer, #happy, #explore"
+  - username: "mickmartz"
+    fullname: >-
+      Mick Martz
+    bio: >-
+      Music Entrepreneur. 🎵 "FROM MADRID TO THE WORLD” 📍Madrid-Paris-Dubái📍🇪🇸🇫🇷🇦🇪 Dj Manager: @wahshow 🎧 Dj Manager: @pandaclub.mad 🐼
+    location: "Spain"
+    followers: 31909
+    engagement: 421
+    commentsToLikes: 0.064847
+    id: ck5hrkd9bv0e60i115j4xdadv
+    verified: false
+    hashtags: "#festival, #techhouse, #djlifestyle, #deephouse"
+  - username: "neo2_magazine"
+    fullname: >-
+      NEO2
+    bio: >-
+      En la calle desde 1994. NEO2, la cabecera española que, como casi todo lo que es tendencia en el siglo XXI, nace en los años 90. #neo2 #neo2magazine
+    location: "Spain"
+    followers: 102329
+    engagement: 129
+    commentsToLikes: 0.085648
+    id: ck0udch7viq6m0i19wf0n02ol
+    verified: false
+    hashtags: "#portrait, #neo2magazine, #neo2, #brutalism"
   - username: "compare.flow"
     fullname: >-
       compareflowoficial
@@ -79,52 +127,4 @@ profiles:
     id: ck6tp9uoqimij0j715bh2qqzc
     verified: false
     hashtags: "#viral, #dembow, #coreografia, #foryou"
-  - username: "gaphrieloefelem"
-    fullname: >-
-      💤TEMPOFLM💤
-    bio: >-
-      
-    location: "Spain"
-    followers: 2669
-    engagement: 1626
-    commentsToLikes: 0.096483
-    id: ck6udygc4nuhi0j71qba0hqrc
-    verified: false
-    hashtags: "#love, #dancehall, #drill, #tecno"
-  - username: "capaz_hp"
-    fullname: >-
-      Capaz Oficial
-    bio: >-
-      ▪Facebook: @capazMC ▪Twitter: @Capaz_HP ▪Channel: CapazVEVO ▪Contratación: Info@mad91.com ▪ 📞912299154
-    location: "Spain"
-    followers: 41234
-    engagement: 296
-    commentsToLikes: 0.030975
-    id: ck5c5u3h345jw0i114mszxzet
-    verified: true
-    hashtags: "#2021, #capaz, #ilustracion, #repost"
-  - username: "okiman.1"
-    fullname: >-
-      ☠ OKIS GBS TGF
-    bio: >-
-      Graffiti/Illustrator 📍Canary islands//Basque Country
-    location: "Spain"
-    followers: 8605
-    engagement: 506
-    commentsToLikes: 0.013471
-    id: ck9hcaqqdkjiy0j78ffdmgj11
-    verified: false
-    hashtags: "#digitalart, #graffiticartoon, #okiman, #cartoon"
-  - username: "m.u.x.x.x.e"
-    fullname: >-
-      𝔐𝔘𝔛𝔛𝔛𝔈
-    bio: >-
-      ✧✧ 🎀 𝐿𝒶 𝓂𝒶𝓈 𝒻𝒾𝓃𝒶 🎀 ✧✧ ᴅᴇʟ ᴛᴇʀᴄᴇʀ ᴍᴜɴᴅᴏ ᴘᴀʀᴀ ᴇʟ ᴍᴜɴᴅᴏ For bookings | collaborations | inquires muxxxegusto@gmail.com
-    location: "Spain"
-    followers: 9143
-    engagement: 358
-    commentsToLikes: 0.033835
-    id: ck0w0ajrrd8440i19bxdz3sed
-    verified: false
-    hashtags: "#frontera, #border, #performance, #fucktrump"
 ---

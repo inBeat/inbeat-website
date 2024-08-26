@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Italy In 2023
+title: Top 10 Fitness Instagram Influencers In Italy In 2024
 description: >-
-  Find top fitness Instagram influencers in Italy in 2023. Most popular hashtags: #sealovers #homesweethome #instagood.
+  Find top fitness Instagram influencers in Italy in 2024. Most popular hashtags: #lifestyle #sport #workout.
 platform: Instagram
-hits: 1072
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 1072 Instagram influencers like this in Italy for you to work with.
+hits: 1145
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 1145 Instagram influencers like this in Italy for you to contact.
 profiles:
   - username: "lovefit_girl"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck0vv6j7hnrfu0i19g45powzl
     verified: false
     hashtags: "#natalericettre, #colazionefit, #breakfast, #colazione"
-  - username: "belladally"
+  - username: "theresaadimarco"
     fullname: >-
-      B e  l l a   D a l l y 🕊
+      Theresa Di Marco
     bio: >-
-      — my work & creative space — Wife to Arif Iz❣️ KL, Malaysia Actor | Modest Fashion | Fitness | Traveler Ambassador of @galeriariani
+      PANTA REI 🌊 Lover of Tattoos ,Travel ,Fashion and fitness… Available for Collaboration 🆙
     location: "Italy"
-    followers: 2353642
-    engagement: 19
-    commentsToLikes: 0.008925
-    id: ck0w5s6lg56hg0i19v9j0zt9r
-    verified: true
-    hashtags: "#garniergreenbeauty, #garniermalaysia, #greenerneverstops, #bellaforariani"
-  - username: "siledona"
-    fullname: >-
-      Sile
-    bio: >-
-      ❤️Fashion/Fitness & 🧘‍♀️/🐈/Dentistry • Founder of @sile.style 👗 • #siledona #silestyle ✒️🇬🇧🇷🇺🇮🇹🇱🇹 📩siledona7@gmail.com • ⬇️SILE clothing store⬇️
-    location: "Italy"
-    followers: 17753
-    engagement: 829
-    commentsToLikes: 0.588470
-    id: ck13byiddxrgy0i1987nbvc01
+    followers: 79768
+    engagement: 469
+    commentsToLikes: 0.015779
+    id: ck8tb9851uslw0j78muvex6yq
     verified: false
-    hashtags: "#buonaserataatutti, #instamood, #siledona, #mare"
-  - username: "iamtinacriss"
+    hashtags: "#wild, #acquapark, #lunedi"
+  - username: "taryn_cosplay"
     fullname: >-
-      Cristina
+      TARYN ☆ タリン・コスプレ
     bio: >-
-      Certified MUA @cristinamuabacau Fitness🌸fashion🌸beauty Email/DM me for collabs cristina.teacu@yahoo.co.uk 📍Romania
+      "Surpass your limits and Go Beyond the Impossible!" Professional Coser - Model - Performer 🌍🎭 FiTnEsS FrEaK Con Booking: events@taryncosplay.com
     location: "Italy"
-    followers: 34113
-    engagement: 418
-    commentsToLikes: 0.103305
-    id: ckap4kvfl7qu40i787gjcc4m0
+    followers: 1153334
+    engagement: 399
+    commentsToLikes: 0.009960
+    id: ck13b2pqntef30i19w5calgbk
     verified: false
-    hashtags: ""
-  - username: "cri.brightphotos"
+    hashtags: "#onepieceanime, #naruto, #taryncosplay, #japan"
+  - username: "alessiasodi"
     fullname: >-
-      Cri
+      Alessia Sodi | Fitness & Lifestyle
     bio: >-
-      I love photography❤ I love Travelling🏄‍♀️ NO video chat⛔ Modena Italy.. Love sea and dancing.. Fitness Next destination : Oceania, Asia, Maldive💕😎
+      workouts + mindset & more 🌿 disciplined & focused 🐺 health, fitness and travel lover ☁️ gym sis @rebeccasodi ♡ from 📍Italy // dreamin’ 🇺🇸
     location: "Italy"
-    followers: 6458
-    engagement: 1195
-    commentsToLikes: 0.043362
-    id: ck6tilrtz0yjq0j71qz4sa8ss
+    followers: 103524
+    engagement: 522
+    commentsToLikes: 0.002791
+    id: ck0w5aagi2ogd0i19s91zxm28
     verified: false
-    hashtags: "#photographylovers, #photographer, #modena, #myskynow"
-  - username: "nerinafrancesca"
+    hashtags: "#winterfashion, #mondaymotivation, #suppliedby, #frontlevertuck"
+  - username: "danielvalperta"
     fullname: >-
-      💎 Francesca Nerina 💎
+      Daniel Valperta
     bio: >-
-      HEALTH | FITNESS | LIFESTYLE 💪 Italy 🇮🇹 Brand Ambassador My only backup @francescanerinaa
+      Daniel 🇲🇽 IL MESSICANO 🍗 💎 i'm 24🖤 Biker 💥 fitness 🏋🏼‍♂️ ☠️ https://grenzgaenger-shop.com YouTuber 🎬 🎥 200 000 iscritti 🔥
     location: "Italy"
-    followers: 528497
-    engagement: 680
-    commentsToLikes: 0.048623
-    id: ck8t5753n90v00j78mkte5hhx
+    followers: 249430
+    engagement: 1044
+    commentsToLikes: 0.003027
+    id: ck8sxubahip0b0j78866imu90
     verified: false
-    hashtags: "#selfie, #heels, #dress, #homesweethome"
+    hashtags: "#grenzgaenger, #vmracing, #300, #bikelife"
+  - username: "federica.scagnetti"
+    fullname: >-
+      Federica Scagnetti
+    bio: >-
+      consigli moda e beauty 💄 Idee outfit 👗 Fitness and healthy life hacks 🏋️‍♀️ Vlog personale 🤳 📩 management@federicascagnetti.it tik tok ✨2.7 M✨
+    location: "Italy"
+    followers: 881164
+    engagement: 841
+    commentsToLikes: 0.001879
+    id: clrjbldp0qz930k08anx2evut
+    verified: false
+    hashtags: "#transition, #tryonhaul, #haul, #zaratryonhaul"
   - username: "michelariganelli"
     fullname: >-
       Michela Riganelli
     bio: >-
-      michela@ehappen.it • 🇮🇹 #fitnessgirl / #DJ 🎧 /98’
+      -> Twitch Partner / FitnessGirl
     location: "Italy"
-    followers: 679428
-    engagement: 839
-    commentsToLikes: 0.020770
+    followers: 586144
+    engagement: 471
+    commentsToLikes: 0.015086
     id: ck5bvej8gji0i0i11548gf6t8
     verified: false
-    hashtags: "#abitodasera, #autumnvibes, #makeup, #sun"
-  - username: "angelicaceci95"
+    hashtags: "#newyear, #capodanno2021, #bussitchallenge, #shibainu"
+  - username: "letofrancesca"
     fullname: >-
-      Angelica 💙
+      Francesca Leto
     bio: >-
-      Roma 🇮🇹 Estetista💆‍♀️ Nail artist 💅 Passion for fashion👗👠 Fitness addict🏋️‍♀️
+      🔹LUN 💪🏻Fitness Empowerment 🔹GIO 🍽️Ricettina facile veloce light 🔹SAB 🦋Poledance press.francescaleto@gmail.com #sabatopoledance #francylicious🍽
     location: "Italy"
-    followers: 3701
-    engagement: 1356
-    commentsToLikes: 0.078475
-    id: ck8t5wrudbi500j78diegkd83
-    verified: false
-    hashtags: "#veneziagram, #viaggiare, #travelblog, #throwback"
-  - username: "keyla.sanchez93"
+    followers: 191931
+    engagement: 796
+    commentsToLikes: 0.007145
+    id: ck5zp8s6ks7md0i14jfh4yf4x
+    verified: true
+    hashtags: "#senzaburro, #poledance, #ricettefacilieveloci, #ciambelle"
+  - username: "arnold_vosloo_official"
     fullname: >-
-      Keyla Sanchez
+      Arnold Vosloo 🇿🇦
     bio: >-
-      🇨🇻 Kriola 📍🇺🇸 Hair/ Beauty/ Fitness Influencer - Collab 📩 New Video Clip 👇🏼
+      ⚫️Owner @unrestricted_apparel_ 💍- @tams_vosloo 📲Fitness App Sign up Below
     location: "Italy"
-    followers: 63870
-    engagement: 891
-    commentsToLikes: 0.033429
-    id: ckap8ygkhqfqu0i78zs233xs9
+    followers: 1666284
+    engagement: 466
+    commentsToLikes: 0.012271
+    id: ckaozg9vglr5z0i78a3d5p7g5
     verified: false
-    hashtags: "#ad"
-  - username: "sim1workout"
+    hashtags: "#instagood, #teamryderwear, #healthylifestyle, #instafit"
+  - username: "alicecanclini"
     fullname: >-
-      Simone Carotenuto
+      alicecanclini
     bio: >-
-      🎥 YouTube: SIM1WORKOUT ❄️ La freschezza è tutto ❄️ 💥TEAM @ice120official 💥 🥊 Boxe - Powerlifting - Fitness 👊 🔻37% di sconto su tutto col codice SIM 🔻
+      ⛷ xᴄ sᴋɪɪɴɢ ᴀᴛʜʟᴇᴛᴇ 🏆 14 ᴛɪᴍᴇs ᴡᴏʀʟᴅ ᴄᴜᴘ 🤸🏼 ᴘᴇʀsᴏɴᴀʟ ᴛʀᴀɪɴᴇʀ @luxury_fitness_engadin 🇨🇭 sᴋɪ ɪɴsᴛʀᴜᴄᴛᴏʀ ɪɴ sᴛ ᴍᴏʀɪᴛᴢ 👇🏼 ᴄʟɪᴄᴋ ʜᴇʀᴇ
     location: "Italy"
-    followers: 123944
-    engagement: 836
-    commentsToLikes: 0.060000
-    id: ck6tmawf07i3n0j71jhud8map
+    followers: 69174
+    engagement: 404
+    commentsToLikes: 0.015826
+    id: ck55jsth7xnyl0i11t5m8mdd3
     verified: false
-    hashtags: "#ice120, #daje, #sim1workout, #ice"
+    hashtags: "#alicecanclini, #fitnessgirl, #girl, #smile"
 ---

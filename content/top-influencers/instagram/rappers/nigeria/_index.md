@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Nigeria In 2023
+title: Top 10 Rappers Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top rappers Instagram influencers in Nigeria in 2023. Most popular hashtags: #endsars #music #rapper.
+  Find top rappers Instagram influencers in Nigeria in 2024. Most popular hashtags: #endsars #music #rapper.
 platform: Instagram
-hits: 9
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 9 Instagram influencers like this in Nigeria for you to connect with.
+hits: 8
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 8 Instagram influencers like this in Nigeria for you to work with.
 profiles:
   - username: "pee_ashes"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ck5c4qpag1w8u0i11c3xbzrlg
     verified: true
     hashtags: "#bbl808, #endsars, #endpolicebrutality, #reformnigeria"
-  - username: "justinavalentine"
-    fullname: >-
-      Justina Valentine ❣
-    bio: >-
-      God 1st🙏🏼🇮🇹 MTV WildNOut🗣 Rapper.Singer.Songwriter.Host FreestyleQueen👑Ncredible Owner @jvalentinaboutique JustinaManagement@gmail.com Prem content👇🏻
-    location: "Nigeria"
-    followers: 3725713
-    engagement: 143
-    commentsToLikes: 0.016413
-    id: ck0vwiprjtzsz0i19sst8othf
-    verified: true
-    hashtags: "#wildnout, #wildstylequeen, #girldontyoudothatchallenge, #teatimewithjustinavalentine"
   - username: "lexxy_yung"
     fullname: >-
       Lexxy Yung

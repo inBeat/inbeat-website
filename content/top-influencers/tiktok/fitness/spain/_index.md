@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Spain In 2023
+title: Top 10 Fitness TikTok Influencers In Spain In 2024
 description: >-
-  Find top fitness TikTok influencers in Spain in 2023. Most popular hashtags: #fitness #parati #humor #challenge.
+  Find top fitness TikTok influencers in Spain in 2024. Most popular hashtags: #fitness #dance #challenge #humor.
 platform: TikTok
 hits: 82
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine holds 82 TikTok influencers like this in Spain for you to pitch.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our search engine holds 82 TikTok influencers like this in Spain for you to connect with.
 profiles:
   - username: "sarumi_"
     fullname: >-

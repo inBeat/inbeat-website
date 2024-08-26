@@ -1,24 +1,36 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Turkey In 2023
+title: Top 10 Bakers Instagram Influencers In Turkey In 2024
 description: >-
-  Find top bakers Instagram influencers in Turkey in 2023. Most popular hashtags: #istanbul #turkey #photooftheday #instafood.
+  Find top bakers Instagram influencers in Turkey in 2024. Most popular hashtags: #foodstyling #foodphotography #foodblogger #foodstylist.
 platform: Instagram
-hits: 102
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 102 Instagram influencers like this in Turkey for you to connect with.
+hits: 92
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 92 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
-  - username: "hatibon"
+  - username: "maya.kitchen"
     fullname: >-
-      Hatibon
+      Özlem
     bio: >-
-      Food Blogger • Baker • Sweet tooth Baking w/ @ekmekandmore
+      Banker-Turned-Baker 👩🏻‍💼👩🏻‍🍳 Glutensiz 🌿 Sağlıklı 🍀 Ekşimayalı 🌾 𐰇𐰔𐰠𐰢
     location: "Turkey"
-    followers: 38760
-    engagement: 189
-    commentsToLikes: 0.037975
-    id: ck8tavbnft7tk0j788agqqthr
+    followers: 40009
+    engagement: 198
+    commentsToLikes: 0.073463
+    id: ck13cwdvt2hq70i192xqeqh7r
     verified: false
-    hashtags: "#xmaseve, #mimosa, #tartauxfruits, #tostekmeg"
+    hashtags: "#ek, #sourdoughbread, #artisanbread, #glutensizya"
+  - username: "gimezkuzu"
+    fullname: >-
+      ☼ Gizem Kuzu / Bakery
+    bio: >-
+      Baker • Sculptor • @postcardsbeyond Pazartesi-Cumartesi 8:30-19:30 Pazar günü KAPALIYIZ
+    location: "Turkey"
+    followers: 67473
+    engagement: 134
+    commentsToLikes: 0.017860
+    id: ck9wfcsp4oahj0j781h4x00l6
+    verified: false
+    hashtags: "#doughnutsforbreakfast, #bakeryproducts, #donut, #foodphotography"
   - username: "barisdirbali"
     fullname: >-
       Barış Dırbalı
@@ -31,18 +43,6 @@ profiles:
     id: ckap959zzr7gu0i783eclk6d8
     verified: false
     hashtags: "#breads, #ba, #ek, #kahvalt"
-  - username: "gimezkuzu"
-    fullname: >-
-      ☼ Gizem Kuzu / Bakery
-    bio: >-
-      Baker • Sculptor • @postcardsbeyond Pzt-Cuma 10:00 - 15:00 Paket servisimiz yoktur Kısıtlamalar süresince hafta sonu kapalıyız
-    location: "Turkey"
-    followers: 55332
-    engagement: 157
-    commentsToLikes: 0.019566
-    id: ck9wfcsp4oahj0j781h4x00l6
-    verified: false
-    hashtags: "#chocolate, #chocolatelover, #bakery, #brownie"
   - username: "bakershamdeen"
     fullname: >-
       Beko Mc | بكر شمدين
@@ -55,6 +55,42 @@ profiles:
     id: ck8szgd78oca50j78a3lzu7g4
     verified: false
     hashtags: "#2020, #damascus, #istanbul, #thesystem"
+  - username: "mehtapguzeyozcan"
+    fullname: >-
+      Mehtap Güzey Özcan / Tv & Program Sunucusu
+    bio: >-
+      •TV🖥 •Sunucu🎤 MARKA İLETİŞİMİ MEZUNU Ve RADYO TELEVİZYON📺 •USTALAR PİŞİRİYOR📍500Bölüm🥳6.Sezon @magazinmahallesi Yazarı
+    location: "Turkey"
+    followers: 44609
+    engagement: 149
+    commentsToLikes: 0.021593
+    id: ck9hbtn49ieat0j78q2n2q04y
+    verified: false
+    hashtags: "#tarif, #tarifsunum, #sa, #ke"
+  - username: "mutfaktamimarvar"
+    fullname: >-
+      Gülen Yıldız Üçler
+    bio: >-
+      Bodrum based architect Food\Photography\Lifestyle Founder @umamimarlik 📩 mutfaktamimarvar@gmail.com
+    location: "Turkey"
+    followers: 101120
+    engagement: 144
+    commentsToLikes: 0.041537
+    id: ck6u8rucrtars0j71ry7mm9p6
+    verified: false
+    hashtags: "#canontu, #foodpic, #bodrum, #instagram"
+  - username: "cinilimutfak"
+    fullname: >-
+      Leyla Çemç Yavşan
+    bio: >-
+      ▪Blogger ▪Youtube/Çinili Mutfak ▪@sofradergi Yazarı✒
+    location: "Turkey"
+    followers: 28856
+    engagement: 210
+    commentsToLikes: 0.214390
+    id: ck15s11ijap8k0i19o7t6gqok
+    verified: false
+    hashtags: "#food, #foodstyling, #cleaneating, #beautifulcuisines"
   - username: "yesene_catering"
     fullname: >-
       Dilek Pfeiffer
@@ -83,48 +119,12 @@ profiles:
     fullname: >-
       H E L L R O S A G R A U
     bio: >-
-      MILENA.Textil-Designerin. Waldorf-Lehrerin. Mama. 🥨Dinkelvollkorn-Backrezepte 🎪Familienzirkus in Hamburg 🧡post@hellrosagrau.de
+      Milena. Designer. Author. Teacher. 🥨Dinkelvollkorn-Backrezepte & DIY 🎪post@hellrosagrau.de
     location: "Turkey"
-    followers: 26846
-    engagement: 273
-    commentsToLikes: 0.023967
+    followers: 33253
+    engagement: 311
+    commentsToLikes: 0.021744
     id: ckap6ka5lg7g90i78q4cz55lr
     verified: false
-    hashtags: "#selbstgemacht, #cake, #slowliving, #basteln"
-  - username: "sokak_insan"
-    fullname: >-
-      Sokak ve İnsan
-    bio: >-
-      🌸Nature & Street & Portrait 🌸 tag us #sokak_insan @sokak_insan founder & admin :👉@ymk_photo 🗣
-    location: "Turkey"
-    followers: 22876
-    engagement: 321
-    commentsToLikes: 0.009870
-    id: ck14ld58nu2lz0i19r8fdhhtd
-    verified: false
-    hashtags: "#fashionkids, #kidsportrait, #fotografheryerde, #portrait"
-  - username: "gastrokeyf"
-    fullname: >-
-      GastroKeyf
-    bio: >-
-      Bars Memişoğlu & A. Ender Ulusoy İki Kafadardan..Yemek..Gezi..Ve Dahası.. Şahsi hesaplarımız: @barsrider ve @alienderulusoy "Takipçi Satın Almadık"
-    location: "Turkey"
-    followers: 26894
-    engagement: 192
-    commentsToLikes: 0.099881
-    id: ck5c9vfvic71g0i118zs3k0ti
-    verified: false
-    hashtags: "#mekan, #lezzet, #leziz, #lezzetli"
-  - username: "ahmed_muhnad"
-    fullname: >-
-      Ahmed Muhnad - احمدمهند
-    bio: >-
-      🔴Official Account فنان عراقي⚫️ (التوكل على الله أول خطوة نحو النجاح)
-    location: "Turkey"
-    followers: 12690
-    engagement: 69
-    commentsToLikes: 0.018047
-    id: ck8szgepiocfo0j78ibpheva8
-    verified: false
-    hashtags: "#explorepage, #ke, #istanbul, #ahmed"
+    hashtags: "#backen, #kekse, #farm, #landleben"
 ---

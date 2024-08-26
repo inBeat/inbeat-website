@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters Instagram Influencers In United States In 2023
+title: Top 10 Painters Instagram Influencers In United States In 2024
 description: >-
-  Find top painters Instagram influencers in United States in 2023. Most popular hashtags: #contemporaryart #contemporarypainting #portrait #oilpainting.
+  Find top painters Instagram influencers in United States in 2024. Most popular hashtags: #contemporaryart #oilpainting #contemporarypainting #painting.
 platform: Instagram
-hits: 3535
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our database holds 3535 Instagram influencers like this in United States for you to connect with.
+hits: 4503
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 4503 Instagram influencers like this in United States for you to work with.
 profiles:
   - username: "ali_kiani_amin"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck0vvwjtdr3700i190864f5g9
     verified: false
     hashtags: "#objects, #contemporaryart, #painting, #newromantics"
-  - username: "mad.dog.jones"
-    fullname: >-
-      Mad Dog Jones
-    bio: >-
-      PAINTER
-    location: "United States"
-    followers: 301259
-    engagement: 604
-    commentsToLikes: 0.013114
-    id: ck0vyxcgq68rl0i19g2cpa6qx
-    verified: true
-    hashtags: "#cyberpunk, #scifiart, #vaporwaveaesthetic, #pinkaesthetics"
   - username: "lolagil"
     fullname: >-
       Lola Gil
@@ -102,7 +90,7 @@ profiles:
     commentsToLikes: 0.008819
     id: ck1347wqyv5kg0i19700z500s
     verified: false
-    hashtags: "#winter, #corelpainter, #illustration, #stars"
+    hashtags: "#stars, #art, #photoshop, #butterfly"
   - username: "kamillecorry"
     fullname: >-
       Kamille Corry
@@ -127,4 +115,16 @@ profiles:
     id: ck6u4arjl2ojm0j71z66x7pdj
     verified: false
     hashtags: "#spiritualart, #sketch, #figurepainting, #suzanadzelatovic"
+  - username: "leepricestudio"
+    fullname: >-
+      lee price
+    bio: >-
+      painter
+    location: "United States"
+    followers: 20900
+    engagement: 427
+    commentsToLikes: 0.026741
+    id: ck6tol23denyo0j71k9e9dqjt
+    verified: false
+    hashtags: "#oilpaintings, #realism, #fineartprints, #oilpainting"
 ---

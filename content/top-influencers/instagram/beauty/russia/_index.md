@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Russia In 2023
+title: Top 10 Beauty Instagram Influencers In Russia In 2024
 description: >-
-  Find top beauty Instagram influencers in Russia in 2023. Most popular hashtags: #misseurope #beautifulkids #fashiongirl.
+  Find top beauty Instagram influencers in Russia in 2024. Most popular hashtags: #happy #model #mood.
 platform: Instagram
-hits: 2546
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 2546 Instagram influencers like this in Russia for you to work with.
+hits: 2539
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 2539 Instagram influencers like this in Russia for you to pitch.
 profiles:
-  - username: "goar_avetisyan"
+  - username: "elya1p"
     fullname: >-
-      Goar Avetisyan
+      Elya Ivanova
     bio: >-
-      Founder @goaravetisyan_beauty ✨ @gogo_wear_ +7(926)0435999-запись в салон +79263641780(только WhatsApp)- реклама, обучение Мой Tik Tok 👇🏻
+      actress ,model,stylist founder @21.elbrand Съёмки для брендов Сотрудничество Алина +7-904-272-34-17 dj | beauty | lifestyle | style elya1i@mail.ru
     location: "Russia"
-    followers: 10123118
-    engagement: 699
-    commentsToLikes: 0.110453
-    id: ck0tzxpehrw9y0i19fjmwinyr
-    verified: true
-    hashtags: "#arianagrande"
-  - username: "anna_zavorotnyuk"
-    fullname: >-
-      Anna Zavorotnyuk
-    bio: >-
-      Солнечно, нежно и тепло, заходите погреться 🌞 Beauty, Fashion & Lifestyle 💫 Сотрудничество: @cooperation.zavorotnyuk 🏹🤍
-    location: "Russia"
-    followers: 200926
-    engagement: 379
-    commentsToLikes: 0.085120
-    id: ck138n5ozh1om0i19sf9w00tj
+    followers: 173729
+    engagement: 438
+    commentsToLikes: 0.020708
+    id: ck8sygjlykrj30j78rtfqh5ye
     verified: false
-    hashtags: "#reels, #wseonline, #wsefamily, #wserussia"
-  - username: "sofia_markova"
+    hashtags: "#love, #mood, #model, #happy"
+  - username: "mari.vortex"
     fullname: >-
-      🔮MOTHER OF MONSTERS🔮
+      Marianna Beletskaya
     bio: >-
-      MAKEUP • SFX • BEAUTY 🥇Global Winner of Doll Search 2020 NYX 🏆Finalist Top 6 NFA Russia 2017/2018
+      Dubai Professional make-up artist♠️BOOKING DM Lifestyle, sport, beauty
     location: "Russia"
-    followers: 32131
-    engagement: 742
-    commentsToLikes: 0.051701
-    id: ck5zjrxlji5760i142m344tss
+    followers: 24655
+    engagement: 3190
+    commentsToLikes: 0.030658
+    id: ckaorckx1mm8f0i78kh1qizqn
     verified: false
-    hashtags: "#creativemakeup, #makeup, #makeupartist, #sfxmakeup"
-  - username: "kondakova_alisamiss"
+    hashtags: "#swimsuitmodel, #bluewatersdubai, #visitdubai, #beautybloger"
+  - username: "yanpalm"
     fullname: >-
-      Кондакова Алиса MissEurope
+      Yan Palmachinskiy
     bio: >-
-      MiniMiss World Beauty2018👑 GRAND-Prix minimiss European Beauty 2018👑 2em vicemiss int.fashion time model PARIS 2018👑 Photomodel of the Universe2017👑
+      Производственник, оборот моих компаний 750 млн руб / месяц, скоро ярд/месяц 🤘 ⠀ Сооснователь @club.500 @pusy.beauty @litenergy_drink
     location: "Russia"
-    followers: 14671
-    engagement: 941
-    commentsToLikes: 0.097111
-    id: ck5zirnk9g8yb0i14jgzrz9qm
+    followers: 53331
+    engagement: 478
+    commentsToLikes: 0.101636
+    id: ck5c3aqsuyx9u0i11wuus1frj
     verified: false
-    hashtags: "#gymnastics, #minimiss, #prettygirls, #leopardprint"
-  - username: "marina___dior"
+    hashtags: "#palmpharma, #club500"
+  - username: "abramovskayada"
     fullname: >-
-      Marina Barsukova-Pudovkina
+      Дарья Абрамовская | Эксперт в #бьюти
     bio: >-
-      Beauty Expert PR & communications for Dior Beauty Russia 💋
+      Для связи: beautyabr-dar@yandex.ru ⠀ Мой канал:
     location: "Russia"
-    followers: 62899
-    engagement: 461
-    commentsToLikes: 0.053669
-    id: ck13d39jd3gce0i19ds2xjngz
+    followers: 151520
+    engagement: 351
+    commentsToLikes: 0.017370
+    id: ck13buob0x82m0i195wd57dfl
     verified: false
-    hashtags: "#rougedior, #annarusska, #ilovemyjob, #wewearrouge"
-  - username: "aveme_lissa"
+    hashtags: "#hellosexy, #pupalovers, #pupamilanorussia"
+  - username: "gigi_080"
     fullname: >-
-      Aveme Lissa 🌸Лисса Авеми
+      Gigi
     bio: >-
-      Beauty YouTube blogger 2.300.000 NEW VIDEO 👇🏻
+      Media influencer| Beauty +7 771 863 0604 manager Ayzat Agency: blg@insdr.net Astana 📍 Almaty
     location: "Russia"
-    followers: 724115
-    engagement: 857
-    commentsToLikes: 0.020319
-    id: ck5c2elg3x3t70i11ksrzrg80
+    followers: 44250
+    engagement: 328
+    commentsToLikes: 0.032839
+    id: ck0u9aa8k9bh00i19uswo7d25
     verified: false
-    hashtags: "#royalsamples, #royalsamplesru, #avemebox, #pinkandproud"
-  - username: "agostaart"
+    hashtags: "#abelleroyale, #guerlainskincare, #zardozi, #guerlain"
+  - username: "influesii"
     fullname: >-
-      Artist Illustrator. Eng/Рус
+      Дилара Зинатуллина
     bio: >-
-      ✏️Elena Agosta 👑Ambassador of Male beauty 🎨 Illustration, portrait, fanart 👇Welcome to my Etsy shop
+      Founder: @dilara.nails.beauty (Moscow) 💅🏼💅🏼 Cooperation: pr.influesii@gmail.com @av.rf 💸 ⬇️ “Первая любовь» уже в сети ⬇️
     location: "Russia"
-    followers: 5700
-    engagement: 1044
-    commentsToLikes: 0.134030
-    id: ck8t0hm53s36x0j786rz1mymz
-    verified: false
-    hashtags: "#agosta, #agostaart, #throwbackthursday, #artvsartist2020"
-  - username: "yana_maria_makeup"
-    fullname: >-
-      ЯНА-МАРИЯ ВИЗАЖИСТ
-    bio: >-
-      🌟Мама троих 🧒🏻🧒🏻👧🏻 🌟Проект @ymg_beauty_center 🌟Макияж/Причёски 🌟Красота/Здоровье 🌟Снимаю видео Регистрация на онлайн курс сам себе визажист 👇🏻1490₽
-    location: "Russia"
-    followers: 22411
-    engagement: 535
-    commentsToLikes: 0.116646
-    id: ck6u6c8x1erc80j71d30fn480
+    followers: 4257760
+    engagement: 318
+    commentsToLikes: 0.004486
+    id: ck5bwg3byln180i11hv6ubavz
     verified: false
     hashtags: ""
-  - username: "anastasiyatolmacheva16"
+  - username: "alinavalova.beautyblog"
     fullname: >-
-      Anastasiya Tolmacheva
+      Бьюти блогер мама 🤍 ОБЗОРЫ / РАСПАКОВКИ
     bio: >-
-      Singer 🎤Eurovision 2014🇷🇺 ~ Страница о красоте @anastasiya_tolmacheva_beauty 💄❤️ #сестрытолмачевы#sisterstolmachevy
+      Алина ✨ Lifestyle Beauty Healthy 🛍️ О самом полезном для мам🌸 SMM, PR @smm_like_shock Сотрудничество/реклама➡️Direct 💌alinavalova96@mail.ru
     location: "Russia"
-    followers: 26970
-    engagement: 459
-    commentsToLikes: 0.062814
-    id: ck5q2ude0hui60i11yykavxbg
+    followers: 132196
+    engagement: 283
+    commentsToLikes: 0.038310
+    id: ck5q56kwbrkqq0i11c7i2z1bz
     verified: false
-    hashtags: "#2020"
-  - username: "irina__ivanina"
+    hashtags: "#mirrolla, #faberlic, #instaclick, #unikit"
+  - username: "kristina_tsymlyanskaya"
     fullname: >-
-      Irina Ivanina
+      Кристина Цымлянская
     bio: >-
-      Fashion/beauty/lifestyle ▫️Повседневные образы Сотрудничество/пиар - DIRECT
+      Beauty Expert/Stylist/Model 📍Москва ✉️Сотрудничество/Direct kristinatsymlyanskaya@gmail.com 👇🏽Канал по стилю
     location: "Russia"
-    followers: 10249
-    engagement: 767
-    commentsToLikes: 0.404965
-    id: ckaoyfylmhczz0i78l20cl364
+    followers: 154016
+    engagement: 287
+    commentsToLikes: 0.023840
+    id: ck6tz4fh57k3i0j715a0grzbr
     verified: false
     hashtags: ""
+  - username: "arina__sheldon"
+    fullname: >-
+      ARINA SHELDON
+    bio: >-
+      ▪️Fashion/Beauty/Lifestyle ▪️PR Director: Lisa +7(937)-437-51-16 Russia, Moscow
+    location: "Russia"
+    followers: 2005281
+    engagement: 232
+    commentsToLikes: 0.004535
+    id: ck5hqrochtltb0i11muji9aww
+    verified: false
+    hashtags: "#beauty, #sephorarussia, #deardahlia, #clarinsrussia"
+  - username: "lera_lovatoo"
+    fullname: >-
+      Valeria
+    bio: >-
+      beauty & fashion ♡ @fashionnova ambassador for collab dm / lovatovaleria1@gmail.com
+    location: "Russia"
+    followers: 163678
+    engagement: 223
+    commentsToLikes: 0.008131
+    id: ck5ziwwmqgiy90i14xzxk5qx0
+    verified: false
+    hashtags: "#barcelona, #europetravel, #tb, #mykonos"
 ---

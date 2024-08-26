@@ -1,24 +1,12 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In San Francisco In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In San Francisco In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #graphicdesigner #california #artist.
+  Find top graphic-designers Instagram influencers in San Francisco in 2024. Most popular hashtags: #sanfrancisco #graphicdesign #california #graphicdesigner.
 platform: Instagram
-hits: 9
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 9 Instagram influencers like this in San Francisco, United States for you to collaborate.
+hits: 20
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 20 Instagram influencers like this in San Francisco, United States for you to collaborate.
 profiles:
-  - username: "alexandriaroby"
-    fullname: >-
-      Alexandria Roby
-    bio: >-
-      Currently📍San Francisco Graphic Designer | @skydiohq
-    location: "United States"
-    followers: 30864
-    engagement: 400
-    commentsToLikes: 0.018051
-    id: ck134t2cqy26e0i19ovu8fvmj
-    verified: false
-    hashtags: "#blackouttuesday"
   - username: "koludro"
     fullname: >-
       𝕯𝖆𝖓𝖎𝖊𝖑 𝕶𝖔𝖑𝖚𝖉𝖗𝖔𝖛𝖎𝖈𝖍
@@ -43,6 +31,18 @@ profiles:
     id: ck14htklvc2hb0i198p9yir8y
     verified: false
     hashtags: "#badgedesign, #tattoodesign, #artwork, #illustration"
+  - username: "larslagaisse"
+    fullname: >-
+      Lars Lagaisse
+    bio: >-
+      Founder of @kaartblanche | Freelance graphic designer & social media guy | Editor at @sosoirmagazine 💌 lars@kaartblanche.com 📍BE
+    location: "United States"
+    followers: 19243
+    engagement: 265
+    commentsToLikes: 0.011883
+    id: ck6tqttgyu7sb0j71v35r71wn
+    verified: false
+    hashtags: "#oaxaca, #mexico, #italy, #nycpride2023"
   - username: "abarcasv21"
     fullname: >-
       Angel Abarca
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.019740
     id: ck5zq9fnpu6p50i14nr69q03k
     verified: false
-    hashtags: "#sanfrancisco, #handsome, #model, #man"
+    hashtags: "#makeup, #gaypride, #whitewettshirt, #model"
   - username: "logosix"
     fullname: >-
       Logosix ⭐ |  Logo Designer
@@ -103,28 +103,28 @@ profiles:
     id: ck6ttrrb9c8ht0j71rxi86fl4
     verified: false
     hashtags: "#galaxy, #nature, #society6, #launchdesigns"
-  - username: "lindseycarlene"
+  - username: "benvolt"
     fullname: >-
-      L i n d s C a r l e n e
+      BEN VOLT
     bio: >-
-      Am I doing this right? 𝘓𝘐𝘍𝘌𝘚𝘛𝘠𝘓𝘌 𝘉𝘓𝘖𝘎𝘎𝘌𝘙 | 𝘊𝘖𝘕𝘛𝘌𝘕𝘛 𝘊𝘙𝘌𝘈𝘛𝘖𝘙 ✨𝘔𝘖𝘋𝘌𝘓 | 𝘋𝘐𝘎𝘐𝘛𝘈𝘓 𝘔𝘈𝘙𝘒𝘌𝘛𝘐𝘕𝘎 | 𝘚𝘈𝘕 𝘋𝘐𝘌𝘎𝘖 📩lindseycgallagher@gmail.com
+      POST-TRIBAL ARCHITECTURE info@benvolttattoo.com
     location: "United States"
-    followers: 14717
-    engagement: 228
-    commentsToLikes: 0.206178
-    id: ck0vxidx9z1lu0i198gk37isn
+    followers: 82491
+    engagement: 291
+    commentsToLikes: 0.008749
+    id: ck5hhupa8a65i0i112d3smnp2
     verified: false
-    hashtags: "#summertimevibes, #summerstyles, #sandiegoinfluencer, #sandiegostyle"
-  - username: "intedismind"
+    hashtags: ""
+  - username: "misslucyfleur"
     fullname: >-
-      Tedi 🪐 | FREELANCER
+      Lucy 🌼 (she/they)
     bio: >-
-      Workaholic. Graphic Designer. Marketer. 20 years. 🌿Vegetarian | Plantaholic |📚|🌙| ♻️ Naturally introverted, selectively extroverted 📍Bucharest, RO
+      ✨ 🍄 🌈 creating technicolor visions of nostalgia ✿ collage artist ✿ designer ✿ psychedelic vintage collector❤️💕plz ask if ya wanna repost to feed 💋
     location: "United States"
-    followers: 10317
-    engagement: 1166
-    commentsToLikes: 0.097137
-    id: ck0vva2xmo7qv0i19ht4k55sn
+    followers: 9309
+    engagement: 1125
+    commentsToLikes: 0.053491
+    id: ck9hbjbiih3340j78ozin00x9
     verified: false
-    hashtags: "#giveawaytime, #instagood, #selfdevelopment, #bucharest"
+    hashtags: "#groovy, #dreamy, #70sinspired, #60sdesign"
 ---

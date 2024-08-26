@@ -1,12 +1,24 @@
 ---
-title: Top 10 Health Instagram Influencers In Milan In 2023
+title: Top 10 Health Instagram Influencers In Milan In 2024
 description: >-
-  Find top health Instagram influencers in Milan in 2023. Most popular hashtags: #italy #milano #health #italia.
+  Find top health Instagram influencers in Milan in 2024. Most popular hashtags: #italy #milano #photooftheday #health.
 platform: Instagram
-hits: 88
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 88 Instagram influencers like this in Milan, Italy for you to connect with.
+hits: 85
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 85 Instagram influencers like this in Milan, Italy for you to work with.
 profiles:
+  - username: "sophiefranciosi"
+    fullname: >-
+      Sσρнiє 🦋
+    bio: >-
+      📍 Sassuolo 💅 @nails_atelier_sophie_06 💄 estetica e benessere ☘️ master: consulente alimentare e coaching in corso 💪🏼 fitness Lover 📩 collab. in DM
+    location: "Italy"
+    followers: 11426
+    engagement: 555
+    commentsToLikes: 0.166894
+    id: ck8t1on7zwgi90j78c5kgrdu7
+    verified: false
+    hashtags: "#workout, #new, #photo, #relax"
   - username: "aurilion_"
     fullname: >-
       𝓐𝓾𝓻𝓸𝓻𝓪 🐆
@@ -43,30 +55,42 @@ profiles:
     id: ck6txebosxcfo0j712k3au0ti
     verified: false
     hashtags: "#cerva16, #happybirthday, #job, #healthyfood"
-  - username: "sophiefranciosi"
+  - username: "noemipinardi_"
     fullname: >-
-      Sσρнiє 🦋
+      𝚏𝚊𝚜𝚑𝚒𝚘𝚗, 𝚏𝚒𝚝𝚗𝚎𝚜𝚜, 𝚖𝚊𝚔𝚎𝚞𝚙
     bio: >-
-      📍 Sassuolo 💅 @nails_atelier_sophie_06 💄 estetica e benessere ☘️ master: consulente alimentare e coaching in corso 💪🏼 fitness Lover 📩 collab. in DM
+      💘💘💘💘💘💘💘💘💘💘💘 @areuthe1 @paramountplusit @mtvitalia 📧 collab: noempin.1996@gmail.com
     location: "Italy"
-    followers: 11426
-    engagement: 555
-    commentsToLikes: 0.166894
-    id: ck8t1on7zwgi90j78c5kgrdu7
+    followers: 21283
+    engagement: 360
+    commentsToLikes: 0.057143
+    id: ckaozqjlrmyz20i78mf0tmrzd
     verified: false
-    hashtags: "#photo, #longhair, #womanportrait, #milano"
-  - username: "valerio_decarolis"
+    hashtags: "#gym, #strong, #lifestyle, #life"
+  - username: "mariofarulla"
     fullname: >-
-      Valerio De Carolis
+      Mario Farulla
     bio: >-
-      🏡Puglia 🌴🌊 Based in Milan 💼🎓 🇮🇹 Italy 🇮🇹 USA exchange student 🇺🇸🇺🇸 Collabs📩 : valerio.decarolis00@gmail.com or direct
+      Founder @wearecringecompany 🍸♻️ Co-Founder @liquid.design.agency 🇦🇪 Owner @dirty_milano 😈🫒
     location: "Italy"
-    followers: 61727
-    engagement: 434
-    commentsToLikes: 0.100063
-    id: ck5c236uiwgle0i11esyg3mrx
+    followers: 115084
+    engagement: 168
+    commentsToLikes: 0.067747
+    id: ck0vw90aasn4l0i19zjt78lx4
     verified: false
-    hashtags: "#milan, #picsart, #igers, #art"
+    hashtags: "#roma, #bartending, #michelecrocco, #50bestbars"
+  - username: "briannaplouffe"
+    fullname: >-
+      ❀ BRIANNA ❀
+    bio: >-
+      🌱 Cosmetic Formulator Germany: @notoysmodels TikTok - briannaplouffe YouTube Channel ↴
+    location: "Italy"
+    followers: 36429
+    engagement: 236
+    commentsToLikes: 0.029414
+    id: ck134ex6uw44k0i1906kee6z4
+    verified: false
+    hashtags: "#milano, #italy, #explore, #view"
   - username: "giuliafit__"
     fullname: >-
       Giuliafit ®️
@@ -103,28 +127,4 @@ profiles:
     id: ck5q0h69u5z2c0i11y0a4d44p
     verified: true
     hashtags: "#fashion, #buongiorno, #happiness, #country"
-  - username: "giulia_peroni"
-    fullname: >-
-      Giulia Peroni
-    bio: >-
-      📍 Milan, Italy 📚 Biotecnologie 📲 Collaborations in DM 🍕 Ambassador @beatotemilano 🍔 Ambassador @mamma_milano 🏋️‍♀️ Prozis http://prozis.com/6G87
-    location: "Italy"
-    followers: 15070
-    engagement: 1220
-    commentsToLikes: 0.027081
-    id: ck8t1re9mwqh40j78khs4tgix
-    verified: false
-    hashtags: "#girl, #igers, #naturephotography, #modeling"
-  - username: "nino.trainer"
-    fullname: >-
-      Nicoló Calvo 🇮🇹
-    bio: >-
-      🤩 @adidasita Ambassador 🏋🏻 @virginactiveit Personal Trainer 🎓 @issa_europe Certified 📍 Milan “Mollare è come morire”.
-    location: "Italy"
-    followers: 75413
-    engagement: 117
-    commentsToLikes: 0.059745
-    id: ck8t2bd0lytz60j787oeanihf
-    verified: false
-    hashtags: "#adidasita, #lallenamentosifa, #adidaslover, #virginactive"
 ---

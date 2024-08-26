@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Peru In 2023
+title: Top 10 Travel TikTok Influencers In Peru In 2024
 description: >-
-  Find top travel TikTok influencers in Peru in 2023. Most popular hashtags: #travel #parati #peru #foryou.
+  Find top travel TikTok influencers in Peru in 2024. Most popular hashtags: #travel #parati #peru #foryou.
 platform: TikTok
-hits: 33
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our platform has 33 TikTok influencers like this in Peru for you to work with.
+hits: 32
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine holds 32 TikTok influencers like this in Peru for you to pitch.
 profiles:
   - username: "kiomarapiana"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.021907
     id: cka0hrjfhaf2q0i78zkjp4u63
     verified: false
-    hashtags: "#dance, #fyp, #peruvian, #playa"
+    hashtags: "#danza, #viral, #dance, #parati"
   - username: "saqra_warmicha"
     fullname: >-
       Yeni Llamocca

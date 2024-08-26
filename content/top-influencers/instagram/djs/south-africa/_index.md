@@ -1,11 +1,11 @@
 ---
-title: Top 10 Djs Instagram Influencers In South Africa In 2023
+title: Top 10 Djs Instagram Influencers In South Africa In 2024
 description: >-
-  Find top djs Instagram influencers in South Africa in 2023. Most popular hashtags: #djset #radio #livefromkitmikayi.
+  Find top djs Instagram influencers in South Africa in 2024. Most popular hashtags: #music #afrohouse #djset.
 platform: Instagram
-hits: 13
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 13 Instagram influencers like this in South Africa for you to pitch.
+hits: 12
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 12 Instagram influencers like this in South Africa for you to connect with.
 profiles:
   - username: "dj_sabby"
     fullname: >-
@@ -31,18 +31,42 @@ profiles:
     id: ckap61ocae3020i78h89n8hd1
     verified: false
     hashtags: "#elcash, #btc, #competing, #bitcoin"
-  - username: "noirmusic"
+  - username: "kususaofficial"
     fullname: >-
-      Noir
+      Kususa
     bio: >-
-      ⚫️ I produce music as Noir, RAL7016 and _r00t_ ⚫️ I own, run and curate the record-labels Noir Music, NM2 and Klimaks Records. Pneuma (New Release):
+      MGMT: @backnoisemusicafrica BOOKINGS AFRICA: info@backnoisemusicafrica.com EU/UK: lee@nevershuttingdown.com ASANDA Music Video OUT NOW⤵️
     location: "South Africa"
-    followers: 42049
-    engagement: 92
-    commentsToLikes: 0.060815
-    id: ck0w6e1ao84z00i19tjtdni70
+    followers: 105561
+    engagement: 449
+    commentsToLikes: 0.006130
+    id: ck5zlzhlyln2r0i14tt1hwbtt
     verified: false
-    hashtags: "#comingsoon, #djset, #techno, #newmusic"
+    hashtags: "#kususa, #ubomiep, #ubomi, #asanda"
+  - username: "caiirosa"
+    fullname: >-
+      Caiiro
+    bio: >-
+      
+    location: "South Africa"
+    followers: 114446
+    engagement: 235
+    commentsToLikes: 0.022152
+    id: ck5q5kgn6tbab0i11renar71o
+    verified: false
+    hashtags: "#dubailounge, #dubainightlife, #caiiro, #springfest"
+  - username: "mathieuleca"
+    fullname: >-
+      Mathieu Leca
+    bio: >-
+      ✈ Corsican Globetrotter ♫ Music Producer @palaisvertmusic ⫸ African Safari Organizer 📩 ⤵️ Mon dernier single Ukraine
+    location: "South Africa"
+    followers: 47198
+    engagement: 231
+    commentsToLikes: 0.027469
+    id: ck5pw14xzkld80i11l5aylec6
+    verified: false
+    hashtags: "#safari, #africa, #calvi, #tanzania"
   - username: "suraj.kenya"
     fullname: >-
       SURAJ 🇰🇪
@@ -55,18 +79,6 @@ profiles:
     id: ck6u495872em50j71dsafjew2
     verified: false
     hashtags: "#discoverkisumu, #livefromkitmikayi, #sazileep, #linkinbio"
-  - username: "gigi_lamayne"
-    fullname: >-
-      Gigi LaMayne
-    bio: >-
-      African Princess | Album Mode 🐍🐍🐍🐍🐍: | bookings@gigilamayne.com| FxckEverybody link 👇🏿
-    location: "South Africa"
-    followers: 552130
-    engagement: 61
-    commentsToLikes: 0.013847
-    id: ck5pyim5nw6vy0i11x9lbzerp
-    verified: true
-    hashtags: "#ad, #fvckeverybody, #fxckeverybody, #silhouettechallenge"
   - username: "shaun101_dj"
     fullname: >-
       Shaun101
@@ -115,16 +127,4 @@ profiles:
     id: ck5hlrfzbkpz00i11ko81ka86
     verified: false
     hashtags: "#luckystar, #freemode, #abafanaabahot"
-  - username: "djmaphorisa"
-    fullname: >-
-      LAWDporry👮🏾💦
-    bio: >-
-      bookings@blaqboymusic.com or 083 983 5413 Petle Petle Out Now
-    location: "South Africa"
-    followers: 1415354
-    engagement: 171
-    commentsToLikes: 0.018102
-    id: ck0w38u7bs5zf0i190smwbaow
-    verified: true
-    hashtags: "#petlepetleep, #scorpionkingsxtresor, #funu, #tylericu4mama"
 ---

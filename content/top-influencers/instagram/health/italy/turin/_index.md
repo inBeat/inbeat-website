@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health Instagram Influencers In Turin In 2023
+title: Top 10 Health Instagram Influencers In Turin In 2024
 description: >-
-  Find top health Instagram influencers in Turin in 2023. Most popular hashtags: #turin #love #instagood #italy.
+  Find top health Instagram influencers in Turin in 2024. Most popular hashtags: #turin #love #italy #photography.
 platform: Instagram
-hits: 4
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 4 Instagram influencers like this in Turin, Italy for you to collaborate.
+hits: 6
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 6 Instagram influencers like this in Turin, Italy for you to pitch.
 profiles:
   - username: "giuse_joseph"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck14guqwz74lt0i192gmg5z09
     verified: false
     hashtags: "#portrait, #love, #videomaker, #behindthescenes"
+  - username: "mariofarulla"
+    fullname: >-
+      Mario Farulla
+    bio: >-
+      Founder @wearecringecompany 🍸♻️ Co-Founder @liquid.design.agency 🇦🇪 Owner @dirty_milano 😈🫒
+    location: "Italy"
+    followers: 115084
+    engagement: 168
+    commentsToLikes: 0.067747
+    id: ck0vw90aasn4l0i19zjt78lx4
+    verified: false
+    hashtags: "#roma, #bartending, #michelecrocco, #50bestbars"
   - username: "eleonora_buratto"
     fullname: >-
       Eleonora Buratto
@@ -55,18 +67,54 @@ profiles:
     id: ck5cf063dm2b90i112mpmgnjh
     verified: false
     hashtags: "#urbanexplorer, #torinocity, #architetturaitaliana, #whatitalyis"
-  - username: "itstheskinyourein"
+  - username: "giulia_kefalas"
     fullname: >-
-      Serena✨beauty content creator - UGC
+      GIULIA KEFALAS | Social media QUEEN of NWM 👑
     bio: >-
-      YOUR skin, YOUR rules ✨ Beauty enthusiast • health • lifestyle TikTok, Pinterest, discount codes and links below✨
+      💎 #Crypto - #Trading - #Marketing 💻 24 | Working Online 🌎 On a Mission to Help People Create Wealth 💰 DM "GFT" To Connect With Me
     location: "Italy"
-    followers: 36489
-    engagement: 1556
-    commentsToLikes: 0.159760
-    id: ck8tdo5fr44kc0j78ws6cotly
+    followers: 6908
+    engagement: 762
+    commentsToLikes: 0.064558
+    id: ck8t89arejjrx0j78cpga4up7
     verified: false
-    hashtags: "#drugstoremakeup, #christmasmakeup, #selfcaresunday, #glowymakeup"
+    hashtags: "#bershka, #gingerhair, #successo, #formazione"
+  - username: "alessiasodi"
+    fullname: >-
+      Alessia Sodi | Fitness & Lifestyle
+    bio: >-
+      workouts + mindset & more 🌿 disciplined & focused 🐺 health, fitness and travel lover ☁️ gym sis @rebeccasodi ♡ from 📍Italy // dreamin’ 🇺🇸
+    location: "Italy"
+    followers: 103524
+    engagement: 522
+    commentsToLikes: 0.002791
+    id: ck0w5aagi2ogd0i19s91zxm28
+    verified: false
+    hashtags: "#winterfashion, #mondaymotivation, #suppliedby, #frontlevertuck"
+  - username: "federica.scagnetti"
+    fullname: >-
+      Federica Scagnetti
+    bio: >-
+      consigli moda e beauty 💄 Idee outfit 👗 Fitness and healthy life hacks 🏋️‍♀️ Vlog personale 🤳 📩 management@federicascagnetti.it tik tok ✨2.7 M✨
+    location: "Italy"
+    followers: 881164
+    engagement: 841
+    commentsToLikes: 0.001879
+    id: clrjbldp0qz930k08anx2evut
+    verified: false
+    hashtags: "#transition, #tryonhaul, #haul, #zaratryonhaul"
+  - username: "superbabekillah"
+    fullname: >-
+      KARLA CROFT
+    bio: >-
+      Creator/muse/mental health fairy •I don’t fit in, so I stand out• ⚡️ELLE Style Awards Influencer of the year ⚡️AY Awards Style finalist 22’
+    location: "Italy"
+    followers: 33723
+    engagement: 508
+    commentsToLikes: 0.018862
+    id: ck5c0jaydt8v40i11np84ltak
+    verified: false
+    hashtags: "#heinekensilver, #mugler, #muglerofficial, #mugleralien"
   - username: "mamastateofmind"
     fullname: >-
       Ashley Ager ☾
@@ -79,52 +127,4 @@ profiles:
     id: ck0w5lkj248tg0i191ytcpnpg
     verified: false
     hashtags: "#twentynine, #lastyearofmytwenties, #family, #dallas"
-  - username: "paolafreeman"
-    fullname: >-
-      Paula Freimane
-    bio: >-
-      📚Author of two best-seller healthy cookbooks 💜Zelta Sastāvdaļa 🧡Zelta Sastāvdaļa 2 📩freimane.paula@gmail.com ⬇️iegādājies Zelta Sastāvdaļa⬇️
-    location: "Italy"
-    followers: 121890
-    engagement: 780
-    commentsToLikes: 0.177274
-    id: ck0vv4f4anhzj0i19bhlmg690
-    verified: true
-    hashtags: "#rekla, #olbaltumvielambagats, #vicisurimi, #pokebowl"
-  - username: "nerinafrancesca"
-    fullname: >-
-      💎 Francesca Nerina 💎
-    bio: >-
-      HEALTH | FITNESS | LIFESTYLE 💪 Italy 🇮🇹 Brand Ambassador My only backup @francescanerinaa
-    location: "Italy"
-    followers: 528497
-    engagement: 680
-    commentsToLikes: 0.048623
-    id: ck8t5753n90v00j78mkte5hhx
-    verified: false
-    hashtags: "#selfie, #heels, #dress, #homesweethome"
-  - username: "aurilion_"
-    fullname: >-
-      𝓐𝓾𝓻𝓸𝓻𝓪 🐆
-    bio: >-
-      🇮🇹 Milan 📚 Health Care Assistant UniMi 📩collab/events: moroniofficial@gmail.com
-    location: "Italy"
-    followers: 16821
-    engagement: 690
-    commentsToLikes: 0.093104
-    id: ckap5am87awas0i786flt3d6h
-    verified: false
-    hashtags: "#eyewear, #mykonos, #modadonna, #vacanze"
-  - username: "remalda"
-    fullname: >-
-      Travel/Fashion/motherhood🇦🇱🇮🇹
-    bio: >-
-      📍Italy Modern motherhood/Healthy lifestyle/plant based/coffee lover🌱 Umbria’s travel guide 🌎 👀 my stories🙏 ✝️=💜 📨livetoinspireblog@gmail.com Nixplay
-    location: "Italy"
-    followers: 12910
-    engagement: 463
-    commentsToLikes: 0.128079
-    id: ck5zmzotkni710i1426xyuqcp
-    verified: false
-    hashtags: "#enjoylife, #visitalbania, #espa, #girlswhotravel"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Australia In 2023
+title: Top 10 Vegan Instagram Influencers In Australia In 2024
 description: >-
-  Find top vegan Instagram influencers in Australia in 2023. Most popular hashtags: #vegan #veganfood #dessert.
+  Find top vegan Instagram influencers in Australia in 2024. Most popular hashtags: #vegan #veganfood #veganrecipes.
 platform: Instagram
-hits: 160
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 160 Instagram influencers like this in Australia for you to work with.
+hits: 229
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 229 Instagram influencers like this in Australia for you to connect with.
 profiles:
+  - username: "shaktifresh"
+    fullname: >-
+      ALIZA ☼ CONSCIOUS LIFESTYLE
+    bio: >-
+      vegan • yogi • retreat chef ❀ american gal livin’ in melbourne ✺ chef & catering @consciouscravingsco ☽ MY LINKS BELOW! ⥥
+    location: "Australia"
+    followers: 6202
+    engagement: 270
+    commentsToLikes: 0.252058
+    id: ck8tdurs64ugf0j78weepfqgo
+    verified: false
+    hashtags: "#vegan"
+  - username: "amandaducks"
+    fullname: >-
+      Amanda Ducks
+    bio: >-
+      👩🏼‍🌾 vegan foodie | australia 🌞 hello@amandaducks.com 🪴 weekly videos on youtube
+    location: "Australia"
+    followers: 35609
+    engagement: 624
+    commentsToLikes: 0.019091
+    id: ck5hhv8pfa8ys0i115t7kginx
+    verified: false
+    hashtags: "#vegandessert, #vegan, #veganrecipe, #veganfood"
+  - username: "zaccharybird"
+    fullname: >-
+      Zacchary Bird
+    bio: >-
+      DON’T PANIC! 100% vegan from 🇦🇺 Author “Vegan Junk Food” 🍔 & “The Vegan Butcher” EN/NL/FR/DE🍗 “The Vegan Baker” out NOW 🧁 bookings@slickmgmt.com.au
+    location: "Australia"
+    followers: 96428
+    engagement: 793
+    commentsToLikes: 0.028059
+    id: cl48q93wgm8kg0i23yf9ozb4p
+    verified: false
+    hashtags: "#vegan, #vegandonut, #veganworldshare, #bestofvegan"
+  - username: "sianelyse"
+    fullname: >-
+      Sian Elyse | Vegan Travel
+    bio: >-
+      🌱 Vegan foodie + solo traveller 🌏 Finding you all the best eats in → India 💌 sianelyse@outlook.com 👇 Vegan starter kit
+    location: "Australia"
+    followers: 30555
+    engagement: 1382
+    commentsToLikes: 0.105122
+    id: cl48q93n6m8c80i23u0tl701i
+    verified: false
+    hashtags: "#veganabroad, #gingerbreadcastle, #vegandessert, #veganlife"
   - username: "that_vegan_dad"
     fullname: >-
-      Jack Rock ~ Vegan Recipes ~ Vegan Memes ~ Vegan Lunchbox
+      Jack Rock
     bio: >-
-      🌱Making vegan more accessible w/ recipes, humour & more! MY FREE LUNCH BOX EBOOK ⬇️ • @macr0mike dc - AMB-JACKR
+      🌱Making vegan more accessible w/ recipes, humour & more! MY FREE LUNCH BOX EBOOK ⬇️ 📧 Mgmt @oracoagency
     location: "Australia"
-    followers: 15267
-    engagement: 281
-    commentsToLikes: 0.189248
+    followers: 24726
+    engagement: 925
+    commentsToLikes: 0.133254
     id: cl48q93pqm8ek0i23ggirim9w
     verified: false
-    hashtags: "#easyrecipes, #veganrecipes, #easyveganrecipes, #vegansofig"
-  - username: "veganonthegc"
+    hashtags: "#kidslunchbox, #lunchboxes, #easyrecipes, #veganfood"
+  - username: "itsshukran"
     fullname: >-
-      Jane | vegan on the Gold Coast | vegan recipes
+      shukran
     bio: >-
-      Reels |Recipes |Reviews 📧 15% @froothie VeganontheGC15 10% @plantbasedhamperco VEGANONTHEGC 10% @candyqueensau VEGANONTHEGC
+      22 — vegan 🏳️‍🌈 | graphic design student, artist making art, drinking coffee, and learning new things
     location: "Australia"
-    followers: 11469
-    engagement: 174
-    commentsToLikes: 0.230583
-    id: cl48q93z8m8mt0i23e4ed1q9s
+    followers: 21401
+    engagement: 815
+    commentsToLikes: 0.037705
+    id: ck8t4qpsv7q890j78r6u690gm
     verified: false
-    hashtags: "#veganfoodporn, #vegano, #brisbanevegans, #burgerporn"
-  - username: "alexander__glover"
-    fullname: >-
-      Vegan 🐐
-    bio: >-
-      🌱Vegan resources @21days2vegan @thebasic_vegan 🌳Ambassador @4ocean @halfcutorg 🎙Podcast: 21days2vegan by Alexander Glover
-    location: "Australia"
-    followers: 70986
-    engagement: 252
-    commentsToLikes: 0.031656
-    id: ck6u6l1ehg7nx0j71psjg3plm
-    verified: false
-    hashtags: "#peace, #vegans, #environmentallyfriendly, #ecofriendly"
-  - username: "chrismif"
-    fullname: >-
-      Chris
-    bio: >-
-      🇦🇺 Aussie 🇲🇹 Maltese 🇨🇭 Living in Zürich 🌱 #vegan 👯‍♂️ #dancer 🙏 #yogi 🎮 #gamer ♒️ #aquarius
-    location: "Australia"
-    followers: 9068
-    engagement: 1277
-    commentsToLikes: 0.023264
-    id: ck5c2qebzxro20i113qoav1dl
-    verified: false
-    hashtags: "#betreat, #beard, #stretch, #imerovigli"
-  - username: "agirlnamedally"
-    fullname: >-
-      Ally Sheehan ☁️🪐🌸🌈✨
-    bio: >-
-      ⚡️ youtuber + curator of casual magic ✈️ travel | vegan things | self love | camp girl 💌 allysheehan@hotmail.com
-    location: "Australia"
-    followers: 51900
-    engagement: 315
-    commentsToLikes: 0.033002
-    id: ck6u85zj0pmp80j71wpot7l46
-    verified: false
-    hashtags: "#cashrewardsau, #fujiinstaxaus, #mini40, #giveyourtake"
-  - username: "rhiaannonc"
-    fullname: >-
-      𝔯𝔥𝔦 𝔯𝔥𝔦
-    bio: >-
-      𝖆𝖚𝖘𝖙𝖗𝖆𝖑𝖎𝖆𝖓 𝖆𝖖𝖚𝖆𝖗𝖎𝖚𝖘 𝖕𝖗𝖎𝖓𝖈𝖊𝖘𝖘 • living by the sea in brighton, uk • vegan 4eva • be kind always 💖🧡 • 💌:rhiannoncbusiness@gmail.com
-    location: "Australia"
-    followers: 10176
-    engagement: 889
-    commentsToLikes: 0.040938
-    id: ck9wfbsoao5ox0j78z57epfb6
-    verified: false
-    hashtags: "#blondeshavemorefun, #blessed, #blessedbythebest"
+    hashtags: "#artsy, #aesthetic, #portrait, #moodytoning"
   - username: "jessicagracewhalen"
     fullname: >-
       Jessica Whalen
     bio: >-
-      Aussie in Dubai & the skies ☁️ 23 🦂 TikTok 230k I have blogs & guides on responsible travel, veganism (plant killing🪴) & other adventures..🧗‍♀️🌋🌏👩‍✈️🤿
+      Made in Australia 🇦🇺🦘Based in Dubai 🇦🇪🦂 I travel for a living, hold my breath & climb things as sports. Vegan bc I hate plants 🧗‍♀️🌋 🌏👩‍✈️ 🐋 🤿
     location: "Australia"
-    followers: 27788
-    engagement: 444
-    commentsToLikes: 0.018894
+    followers: 31325
+    engagement: 332
+    commentsToLikes: 0.018175
     id: ck0ucnqnmh8h90i1968t7oiwf
     verified: false
-    hashtags: "#femaletravel, #flightattendant, #aviation, #mauritius"
-  - username: "nataliamav"
+    hashtags: "#travel, #stewardessa, #freediving, #femaletravel"
+  - username: "vegan.brianna"
     fullname: >-
-      Natalia Mav
+      Brianna 🌱
     bio: >-
-      📍 Melb/LA 🎮 TTV NataliaMav 📲 Trainer @nataliamavfitness 💪🏻 35-min workouts 🥘 Reg, vegan & veg 🏋🏻‍♀️ Home/Gym programs 📲 Start your journey today ↩️
+      vegan, conscious + slow living chickens are my best friends @conscious.sisters (relaunching)
     location: "Australia"
-    followers: 224829
-    engagement: 120
-    commentsToLikes: 0.358943
-    id: ck5hpibmprexk0i11k1p7etvr
+    followers: 10977
+    engagement: 218
+    commentsToLikes: 0.038404
+    id: ck6uhnwj7a7lh0j710nxq60v8
     verified: false
-    hashtags: "#health, #fit, #fitnessmotivation, #workout"
-  - username: "dewii.veg"
+    hashtags: "#fussfree, #1secondeveryday, #2021, #plantbasedfood"
+  - username: "shannon_martinez"
     fullname: >-
-      Dewii
+      Shannon Martinez
     bio: >-
-      Nutrition and fitness coach | Author of the books “Vegan Guide” and “Eco Guide” | Activist 📍 Argentina 📩 info@dewi.cz
+      Owner, chef and author. @smithanddaughters @smithanddeli @_lonamisa_ @alibisydney 100% Vegan cuisine. Management @missusmcreative
     location: "Australia"
-    followers: 82805
-    engagement: 787
-    commentsToLikes: 0.009887
-    id: ck5zpn72zsywl0i148khl2952
+    followers: 37137
+    engagement: 213
+    commentsToLikes: 0.034399
+    id: ck5cfg9lymw4d0i11kxpgbihh
     verified: false
-    hashtags: "#zapokusybezzvirat, #endanimaltesting, #keepthecagesempty, #singlefornomadlife"
-  - username: "silviaschinstyle"
+    hashtags: "#ad, #goldengaytime, #tastethedifference, #book4"
+  - username: "rainbownourishments"
     fullname: >-
-      Silvia❤️❤️❤️
+      Anthea
     bio: >-
-      💜 Sustainable 💜Saar-Pfalz-Kreis 💜healthy sporty 💜ü50 veggie vegan addict 💜age is only a number 💜selflove 💜positivity 💜Impressum
+      🍰Vegan baking 📖Cookbook author + former cake biz owner 🐨Australia 📧anthea@rainbownourishments.com
     location: "Australia"
-    followers: 35564
-    engagement: 117
-    commentsToLikes: 0.310357
-    id: ckapca51k2znk0i78ihppw2bn
+    followers: 395282
+    engagement: 189
+    commentsToLikes: 0.019456
+    id: ck136b8pz5mvo0i19dvi57yyz
     verified: false
-    hashtags: "#effortlesschic, #blackandwhite, #naturewoman, #naturephotography"
+    hashtags: "#avocadorecipe, #ad, #avocadocake"
 ---

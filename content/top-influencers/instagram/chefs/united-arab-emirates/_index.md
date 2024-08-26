@@ -1,36 +1,96 @@
 ---
-title: Top 10 Chefs Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Chefs Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top chefs Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #cheflife #chef #chefsofinstagram.
+  Find top chefs Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #dubai #chef #uae #food.
 platform: Instagram
-hits: 26
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 26 Instagram influencers like this in United Arab Emirates for you to contact.
+hits: 34
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 34 Instagram influencers like this in United Arab Emirates for you to contact.
 profiles:
   - username: "alighzawi"
     fullname: >-
       Ali Ghzawi | علي الغْزْاوي
     bio: >-
-      Top Chef MENA @mbcgrouppr Chef|Patron @aleebyali @organix_juices @pounder.inc Ali@humanagement.me
+      Chef Patron @aleebyali @pounder.inc Top Chef World All Star @bravotopchef Top Chef MENA @mbctopchef
     location: "United Arab Emirates"
-    followers: 361441
-    engagement: 332
-    commentsToLikes: 0.015901
+    followers: 690896
+    engagement: 648
+    commentsToLikes: 0.032800
     id: ck1358stm09ro0i19x2j2cstf
     verified: true
-    hashtags: "#ad, #teamgalaxylevant, #galaxys21, #withgalaxy"
-  - username: "chefhalaayash"
+    hashtags: "#ihaveastorytotell, #alee"
+  - username: "chef.shaheen"
     fullname: >-
-      Hala Ayash هلا عياش
+      Chef Shaheen | شيف شاهين
     bio: >-
-      MBC TV Dubai 🇸🇾🇸🇦 - TV Presenter - Top Chef First Runner Up - Traveling and lifestyle - Fitness & Health Info.chefhalaayash@gmail.com
+      Chef | Architect Founder of @Yaba.rest - @doloma.rest WhatsApp only : +964 772 228 2826 Dubai 📍
     location: "United Arab Emirates"
-    followers: 315608
+    followers: 4203132
+    engagement: 174
+    commentsToLikes: 0.027550
+    id: ckap6k71ig7250i78hu570yho
+    verified: false
+    hashtags: ""
+  - username: "chefsperxos"
+    fullname: >-
+      Alexandros Pavlopoulos
+    bio: >-
+      👨‍🍳 Founder of @efzin.ae @thewarehouse_bychefsperxos 🇦🇪 Private Fine Dining 🌎 CHEF NFTS #nfts 📱For Bookings Call +971 56 708 6518 🌎 Concept Creation
+    location: "United Arab Emirates"
+    followers: 108216
+    engagement: 171
+    commentsToLikes: 0.027909
+    id: ck134b1mqvkee0i19zieej2sl
+    verified: false
+    hashtags: "#santorini, #organic, #abudhabi, #mykonos"
+  - username: "sofiesworld__"
+    fullname: >-
+      Safa Sartawi
+    bio: >-
+      وصفات سهلة Palestinian Chef in Dubai Share recipes Certified and licensed chef For inquiries, DM 🇵🇸
+    location: "United Arab Emirates"
+    followers: 33777
     engagement: 101
-    commentsToLikes: 0.020250
-    id: ck6u1r87snenl0j71ogfnq5ak
+    commentsToLikes: 0.213512
+    id: ckap9hgplsmun0i7877l4nxfn
+    verified: false
+    hashtags: "#homemade, #ramadan, #trabzon, #turkishpide"
+  - username: "tamamskitchen"
+    fullname: >-
+      Tamam I Y Abdullah
+    bio: >-
+      📱Chef/Blogger/Recipe Creator 🎓SCAFA Culinary School in Dubai 🏆Award Top 100 Influencer 🎬Featured at Khaleej Times 📺Sabah El Dar/ NMC licensed
+    location: "United Arab Emirates"
+    followers: 303000
+    engagement: 92
+    commentsToLikes: 0.304612
+    id: ck13bvqfdxd780i19f738tvjr
+    verified: false
+    hashtags: "#saudi, #tamamskitchen, #cairo, #ramadan2024"
+  - username: "karim.bourgi"
+    fullname: >-
+      Karim Bourgi
+    bio: >-
+      MENA’S Best Pastry Chef 2023 E-Book👇🏻
+    location: "United Arab Emirates"
+    followers: 661898
+    engagement: 68
+    commentsToLikes: 0.013247
+    id: ck0w72rhzbgml0i193luusszn
+    verified: false
+    hashtags: "#reels, #abudhabi, #tiktok, #uae"
+  - username: "chefkelvincheung"
+    fullname: >-
+      Kelvin Cheung
+    bio: >-
+      Chef | Partner @junsdubai Third Culture Cooking @menas50best | @gaultmillauuae | @michelinguide 2023 Father | Buddy @bodhi.bites
+    location: "United Arab Emirates"
+    followers: 199263
+    engagement: 21
+    commentsToLikes: 0.006522
+    id: ckaory84wpb290i787jlko3sl
     verified: true
-    hashtags: "#live, #bodrumsummer, #mbc, #disconnect"
+    hashtags: "#dubaifood, #uae, #junsdubai, #dubai"
   - username: "chefilkerciftci"
     fullname: >-
       ilker Çiftçi
@@ -67,64 +127,4 @@ profiles:
     id: ckaorfz8sn1gx0i78wpnmjydf
     verified: false
     hashtags: "#arabicfood, #uae, #bourji, #atlantisdubai"
-  - username: "pretty_tonia1_"
-    fullname: >-
-      👻 @prettytonia1 🧿
-    bio: >-
-      FOUNDER @pt_cosmetics_ CHEF 👩‍🍳👩‍🍳 @t_kitchen_ DUBAI/LAGOS 💯💁🏼‍♀️🇦🇪💵 NO FACEBOOK BUSINESSES MINDED 💯👏 Negativity = Block🙅‍♀️
-    location: "United Arab Emirates"
-    followers: 69751
-    engagement: 76
-    commentsToLikes: 0.015615
-    id: ck5q80m0f3x0s0i11b42qnygg
-    verified: false
-    hashtags: ""
-  - username: "wassim_orfali"
-    fullname: >-
-      Wassim Orfali وسيم أورفه لي
-    bio: >-
-      Founder & Development Pastry Chef @orfalibros #orfalibros
-    location: "United Arab Emirates"
-    followers: 24472
-    engagement: 101
-    commentsToLikes: 0.019801
-    id: ck134b1hqvkd50i1956s9wi5a
-    verified: false
-    hashtags: "#chefpatissier, #masterclass, #elite, #dubaichef"
-  - username: "chefsperxos"
-    fullname: >-
-      Alexandros Pavlopoulos Sperxos
-    bio: >-
-      👨‍🍳 Founder of @efzin.ae 🇦🇪 Private Fine Dining 📱For Bookings Call +971 56 708 6518 🌎 Food consultant/ Concept Creation 🇦🇪 Based in Dubai
-    location: "United Arab Emirates"
-    followers: 47269
-    engagement: 425
-    commentsToLikes: 0.029790
-    id: ck134b1mqvkee0i19zieej2sl
-    verified: false
-    hashtags: "#uae, #menfashionstyle, #topmenstyle, #chefsofinstagram"
-  - username: "karim.bourgi"
-    fullname: >-
-      Karim Bourgi
-    bio: >-
-      Co-Founder @trykayu @calla_cafe @pikado_ci @bamboo_restaurant_sour @oppa.uae Ambassadeur @elleetvirepro
-    location: "United Arab Emirates"
-    followers: 641586
-    engagement: 100
-    commentsToLikes: 0.015374
-    id: ck0w72rhzbgml0i193luusszn
-    verified: false
-    hashtags: "#chefsroll, #food, #perfection, #pastryelite"
-  - username: "paul_estorffe"
-    fullname: >-
-      Paul Estorffe
-    bio: >-
-      Brand Ambassador Château St. Thomas, Lebanese winery 🇱🇧 Communications Director - “No Fusion, No Twists, just real food” 🇬🇧👨🏼‍🍳🎂👨🏼‍🍳🇬🇧
-    location: "United Arab Emirates"
-    followers: 6812
-    engagement: 1065
-    commentsToLikes: 0.335615
-    id: ck15rjqxy89e90i19gtpli1oo
-    verified: false
-    hashtags: "#livelovebeirut, #food, #foodie, #cheesecake"
 ---

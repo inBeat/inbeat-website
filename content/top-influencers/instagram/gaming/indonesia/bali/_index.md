@@ -1,12 +1,36 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Bali In 2023
+title: Top 10 Gaming Instagram Influencers In Bali In 2024
 description: >-
-  Find top gaming Instagram influencers in Bali in 2023. Most popular hashtags: #dagelan #dirumahaja #ngakakkocak #garing.
+  Find top gaming Instagram influencers in Bali in 2024. Most popular hashtags: #indonesia #bali #dagelan #jakarta.
 platform: Instagram
-hits: 8
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database has 8 Instagram influencers like this in Bali, Indonesia for you to contact.
+hits: 12
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 12 Instagram influencers like this in Bali, Indonesia for you to collaborate.
 profiles:
+  - username: "flovysmeea"
+    fullname: >-
+      Meea
+    bio: >-
+      Just another human on this planet who works for a gaming company and loves to ride her bike. ✨ Inquiries: hi.flovysmeea@gmail.com
+    location: "Indonesia"
+    followers: 10344
+    engagement: 441
+    commentsToLikes: 0.053123
+    id: ckap0431von6p0i78cw3c6zmg
+    verified: false
+    hashtags: "#caferacer, #garagetalks, #bike, #jacket"
+  - username: "sun.raeeee"
+    fullname: >-
+      Rachel Anne 🦄🇲🇾🏳️‍🌈🧿
+    bio: >-
+      Free spirited. Dorky🤓 All about the good vibes✨ For collabs/work dm me • LawGrad • DJ • #Gamer • #musicfestival • #cosplay • #travel
+    location: "Indonesia"
+    followers: 15402
+    engagement: 381
+    commentsToLikes: 0.051216
+    id: clm70aputgk0q0j08n3lkxi6t
+    verified: false
+    hashtags: "#balimajor, #japan, #wherelandmeetssea, #dota2"
   - username: "sims4realestate"
     fullname: >-
       Kelly
@@ -19,18 +43,42 @@ profiles:
     id: ckf5urrbjm1wd0j23jo3b0pdn
     verified: false
     hashtags: "#simsinspiration, #sims4house, #simsinterior, #speedbuild"
+  - username: "raditya_raihan_"
+    fullname: >-
+      adit
+    bio: >-
+      Semarang - ungaran 📍 💌 : radityaraihan87@gmail.com
+    location: "Indonesia"
+    followers: 27708
+    engagement: 108
+    commentsToLikes: 0.009485
+    id: ck9wgru5bupk50j78fkw3jvxm
+    verified: false
+    hashtags: "#pragmatic, #slotonline, #judionline, #latepost"
+  - username: "lynn.cos"
+    fullname: >-
+      Evelyn Letizia
+    bio: >-
+      📍 🇮🇩 , Jakarta ⭐ Cosplayer ~ Streamer ~ Caster 🎮 @realmobilelegendsid KOL's 📲 Business inquiries via email ⬇️@
+    location: "Indonesia"
+    followers: 62976
+    engagement: 59
+    commentsToLikes: 0.038319
+    id: ck8sz8w4wniqc0j780rmq28tg
+    verified: false
+    hashtags: "#mlbbidcreator, #mlbbindonesia, #mobilelegendscosplay, #mlbbindo"
   - username: "jovianpangestu"
     fullname: >-
       JoPang
     bio: >-
       Cinematographer Based in Gading Serpong, Tangerang. 📍
     location: "Indonesia"
-    followers: 5227
-    engagement: 546
-    commentsToLikes: 0.031741
+    followers: 5234
+    engagement: 558
+    commentsToLikes: 0.030402
     id: ck0tzq0b0r4tc0i19oufnwup6
     verified: false
-    hashtags: "#covid19, #sukabumi, #geoparkciletuh, #curug"
+    hashtags: "#cibaliung, #foldingbikeindonesia, #bali, #sukabumi"
   - username: "artisterngakak"
     fullname: >-
       Dagelan | Lucu | Viral
@@ -79,52 +127,4 @@ profiles:
     id: ckap2ax86y2sp0i78oydr8lum
     verified: false
     hashtags: "#gadistercantik, #hijaber, #selamatpuasa, #ceweindonesia"
-  - username: "mychatstory"
-    fullname: >-
-      WARNING! AREA RAWAN BAPER!
-    bio: >-
-      HELP 200K 🙏 🗣️Follow @mydiarystory.id 💭 Fake Chat / Real Chat ▫️▫️ Punya Chatstory? Mau di share? send ke DM 🔽 PP/Endorse Murah? Whatsap↙️
-    location: "Indonesia"
-    followers: 132078
-    engagement: 528
-    commentsToLikes: 0.014957
-    id: ck0vzslcsapgg0i194yeooo4z
-    verified: false
-    hashtags: "#chatstory, #pathdailybaperan, #katabijak, #katahatiku"
-  - username: "mardani_maming"
-    fullname: >-
-      Mardani H Maming
-    bio: >-
-      Ketua Umum BPP HIPMI 2019-2022 Founder PT.Maming Enam Sembilan Group Founder PT.Batulicin Enam Sembilan Group
-    location: "Indonesia"
-    followers: 328883
-    engagement: 70
-    commentsToLikes: 0.021603
-    id: ck5zyt4fsahd90i14lgzygxqq
-    verified: true
-    hashtags: "#umkm, #belidihipmiaja, #bidang6hipmi, #macaroniborneo"
-  - username: "matchamei"
-    fullname: >-
-      Matcha Mei
-    bio: >-
-      🇮🇩 ➡️ 🇰🇷 😇 @reoncomics Official Cos 💻 @asusid TUF Gaming BA 📩 Business: matchamei.contact@gmail.com HD photos download👇🏻
-    location: "Indonesia"
-    followers: 219677
-    engagement: 292
-    commentsToLikes: 0.011962
-    id: ck0vxovatzzk80i19rxur5dbx
-    verified: true
-    hashtags: "#asusid, #tufgaming, #genshinimpact, #asusgaming"
-  - username: "ar.kaw"
-    fullname: >-
-      Arkaw
-    bio: >-
-      BA 👕 @waglerstore_panjipetualang Business WA : 083142149971 a/n uta 🎮Official Creator Facebook Gaming 🖥️Konten YT : Arkaw 🎥Everyday Livestream ⬇️
-    location: "Indonesia"
-    followers: 129925
-    engagement: 185
-    commentsToLikes: 0.016216
-    id: ck5cb1276eila0i112um9ulmy
-    verified: false
-    hashtags: "#siapatakut, #alwayson, #jabarjuara, #pubgmobile"
 ---

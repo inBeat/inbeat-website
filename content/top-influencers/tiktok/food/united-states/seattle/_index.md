@@ -1,12 +1,36 @@
 ---
-title: Top 10 Food TikTok Influencers In Seattle In 2023
+title: Top 10 Food TikTok Influencers In Seattle In 2024
 description: >-
-  Find top food TikTok influencers in Seattle in 2023. Most popular hashtags: #fyp #seattle #food #foryou.
+  Find top food TikTok influencers in Seattle in 2024. Most popular hashtags: #fyp #seattle #food #foryou.
 platform: TikTok
 hits: 36
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine holds 36 TikTok influencers like this in Seattle, United States for you to pitch.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: inBeat holds 36 TikTok influencers like this in Seattle, United States for you to pitch.
 profiles:
+  - username: "rambosthanos"
+    fullname: >-
+      Thanos
+    bio: >-
+      
+    location: "United States"
+    followers: 28400
+    engagement: 390
+    commentsToLikes: 0.012550
+    id: ck83zglvs0kxx0j78rtmgjztr
+    verified: false
+    hashtags: "#food, #seattle, #zoo, #yummy"
+  - username: "itskiraxo"
+    fullname: >-
+      Kira Skolnick
+    bio: >-
+      Probably over dressed. IG itskiraxo ✨
+    location: "United States"
+    followers: 3778
+    engagement: 723
+    commentsToLikes: 0.055515
+    id: ckd0t5hshj7c50j23y6oc22k9
+    verified: false
+    hashtags: "#travel, #fashion, #fyp, #stitch"
   - username: "iamejayiii"
     fullname: >-
       Ejay Barquet III
@@ -31,18 +55,6 @@ profiles:
     id: ckbfdxl6k7o260j23dam7xbr6
     verified: false
     hashtags: "#fyp, #mexicanfood, #tigerking, #jennirivera"
-  - username: "_angiemata"
-    fullname: >-
-      A N G I E  M A T A
-    bio: >-
-      Un poquito de todo! Wife. Mom. | WA🌲|🇲🇽| 💖🎤💄👩🏻‍🍳 INSTAGRAM:@_angiemata
-    location: "United States"
-    followers: 142400
-    engagement: 757
-    commentsToLikes: 0.006360
-    id: ck932idajjn7l0j78nk9obu71
-    verified: false
-    hashtags: "#latina, #comida, #fyp, #dessert"
   - username: "bellawomackk"
     fullname: >-
       Bella W
@@ -79,30 +91,6 @@ profiles:
     id: ck9m0z1xackdo0j78wqma3l4f
     verified: false
     hashtags: "#lgbt, #lingerie, #comedy, #fyp"
-  - username: "rambosthanos"
-    fullname: >-
-      Thanos
-    bio: >-
-      
-    location: "United States"
-    followers: 28400
-    engagement: 390
-    commentsToLikes: 0.012550
-    id: ck83zglvs0kxx0j78rtmgjztr
-    verified: false
-    hashtags: "#yummy, #zoo, #seattle, #nature"
-  - username: "itskiraxo"
-    fullname: >-
-      Kira Skolnick
-    bio: >-
-      Probably over dressed. IG itskiraxo ✨
-    location: "United States"
-    followers: 3778
-    engagement: 723
-    commentsToLikes: 0.055515
-    id: ckd0t5hshj7c50j23y6oc22k9
-    verified: false
-    hashtags: "#fashion, #fyp, #travel, #pokeitout"
   - username: "_wyattrussell_"
     fullname: >-
       wyattrussell
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.066340
     id: cka6l25lm1d1x0i784nz4rvkb
     verified: false
-    hashtags: "#hogwarts, #latte, #harrypotter, #coffee"
+    hashtags: "#latteartist, #harrypotter, #artist, #coffee"
+  - username: "angiebudchanin"
+    fullname: >-
+      angie
+    bio: >-
+      ♡ ✞ seattle, wa
+    location: "United States"
+    followers: 32800
+    engagement: 1086
+    commentsToLikes: 0.030417
+    id: ckal6d96eacrt0i78e5qravmz
+    verified: false
+    hashtags: "#aesthetic, #washington, #fyp, #amazonhome"
 ---

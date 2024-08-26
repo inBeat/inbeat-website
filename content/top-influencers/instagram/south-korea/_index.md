@@ -1,132 +1,132 @@
 ---
-title: Top 10 Instagram Influencers In South Korea In 2023
+title: Top 10 Instagram Influencers In South Korea In 2024
 description: >-
-  Find top Instagram influencers in South Korea in 2023. Most popular hashtags: #haruto #junghwan #blackpink.
+  Find top Instagram influencers in South Korea in 2024. Most popular hashtags: #mukbang #koreanfood #korea.
 platform: Instagram
-hits: 4694
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 4694 Instagram influencers like this in South Korea for you to pitch.
+hits: 4782
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 4782 Instagram influencers like this in South Korea for you to contact.
 profiles:
-  - username: "hyunah_aa"
+  - username: "qlyx"
     fullname: >-
-      Hyun Ah
+      Queenie Lim
     bio: >-
-      아잉2기🌷✨만나자🤝
+      🇯🇵 4th-19th Oct 💓 part of the @sgagsg fam 🍭 separate stomach for dessert 🎶 more TMI stuff on Tiktok: @qlyxxx for sponsorships 👇🏻
     location: "South Korea"
-    followers: 18580565
-    engagement: 403
-    commentsToLikes: 0.002708
-    id: ck0tuguh973jd0i19ca0r587g
-    verified: true
-    hashtags: "#lvxyayoikusama, #maisonmargiela"
-  - username: "berry__1015"
-    fullname: >-
-      베리
-    bio: >-
-      똥꼬냥이 베리🐈 2017. 10. 15 ♀ 귀여운 야옹이와 함께하는 즐거운 집사의 삶🎶
-    location: "South Korea"
-    followers: 100423
-    engagement: 464
-    commentsToLikes: 0.020945
-    id: ckaot8aekur4d0i782b2066ob
+    followers: 33100
+    engagement: 926
+    commentsToLikes: 0.012614
+    id: ck601qg13fz950i14shx7cx0y
     verified: false
-    hashtags: ""
-  - username: "realstraykids"
+    hashtags: "#streetinterview, #officeprank, #sparkconnections, #singaporeanguyproblems"
+  - username: "avelovin"
     fullname: >-
-      Stray Kids
+      A V E | travel vlogger
     bio: >-
-      Stray Kids (스트레이 키즈) Official Instagram
+      📍Philippines 🇵🇭 For inquiries: avelovinit@gmail.com 💌 Full-time travel youtuber since 2016 🌎✈️
     location: "South Korea"
-    followers: 23841639
-    engagement: 818
-    commentsToLikes: 0.009549
-    id: ck0tvgizvb98o0i19137ugijl
-    verified: true
-    hashtags: "#stay, #in, #felix, #youmakestraykidsstay"
-  - username: "jennierubyjane"
-    fullname: >-
-      J
-    bio: >-
-      @lesyeuxdenini
-    location: "South Korea"
-    followers: 72975548
-    engagement: 766
-    commentsToLikes: 0.005693
-    id: ck0tuhhj776j40i19k1dd1ctc
-    verified: true
-    hashtags: ""
-  - username: "dlwlrma"
-    fullname: >-
-      이지금 IU
-    bio: >-
-      strawberrymoon❤️❤️🍓❤️❤️
-    location: "South Korea"
-    followers: 28590065
-    engagement: 1318
-    commentsToLikes: 0.007469
-    id: ck0tw4w2ye1850i19strn6nch
-    verified: true
-    hashtags: "#guccigarden, #ganadara, #yacht, #broker"
-  - username: "kyo1122"
-    fullname: >-
-      Song hyekyo
-    bio: >-
-      -kyo-
-    location: "South Korea"
-    followers: 13606969
-    engagement: 501
-    commentsToLikes: 0.000019
-    id: ck0tugvk973od0i19szqnz19p
-    verified: true
-    hashtags: "#theglory, #netflix"
-  - username: "jxxvvxxk"
-    fullname: >-
-      이재욱
-    bio: >-
-      
-    location: "South Korea"
-    followers: 4978767
-    engagement: 2149
-    commentsToLikes: 0.008211
-    id: ck6tym4qf4joe0j712cialap7
-    verified: true
-    hashtags: "#pradaholiday22, #pradafinejewelry, #ad, #exnihilo"
-  - username: "ewsbdi"
-    fullname: >-
-      로운
-    bio: >-
-      김석우
-    location: "South Korea"
-    followers: 4900448
-    engagement: 1679
-    commentsToLikes: 0.007803
-    id: ck5zr6163vyxj0i14rzd4xwzj
-    verified: true
-    hashtags: "#ad, #atiffanyholiday, #tiffanypartner, #tiffanyhk"
-  - username: "ohvely22"
-    fullname: >-
-      오연서
-    bio: >-
-      내내 어여쁘소서
-    location: "South Korea"
-    followers: 2492098
-    engagement: 292
-    commentsToLikes: 0.005562
-    id: ck6tmycyi8rmt0j71wj6hjgwg
-    verified: true
-    hashtags: "#gr"
-  - username: "choihyunsuk.id"
-    fullname: >-
-      CHOI HYUNSUK 최현석 TREASURE
-    bio: >-
-      🦔💜 FAN ACCOUNT 💜🦔 𝙘𝙝𝙨𝙞𝙙. twitter : choihyunsukID PP ? Dm 📩
-    location: "South Korea"
-    followers: 106808
-    engagement: 285
-    commentsToLikes: 0.005456
-    id: ck8t65a41c9h60j7865elisfl
+    followers: 180450
+    engagement: 2333
+    commentsToLikes: 0.008951
+    id: ck0vvfz6noyuk0i19pityxrub
     verified: false
-    hashtags: ""
+    hashtags: "#peru, #safari, #vacation, #camperlife"
+  - username: "seoulo.diary"
+    fullname: >-
+      Liz 리즈🇭🇰
+    bio: >-
+      Lives in 🇰🇷 From 🇭🇰 💍 @guignobrega 👼🏼 @mongmong_nobrega 🥟 @little.mandudaily 🧦 @projectbrezzy ✉️ lizzydaily@projectbrezzy.com
+    location: "South Korea"
+    followers: 251668
+    engagement: 1003
+    commentsToLikes: 0.003087
+    id: ck14gjpuh5kkm0i19natvn31g
+    verified: false
+    hashtags: "#hkwatsons, #medicube, #medicubehk, #oliveyounghk"
+  - username: "tarankaaa"
+    fullname: >-
+      Dasha Taran
+    bio: >-
+      rainmaker@rainnm.com 📍🇰🇷 this is my life account ♡ @taaarannn
+    location: "South Korea"
+    followers: 2486542
+    engagement: 859
+    commentsToLikes: 0.011971
+    id: ck0w5quhv4ze60i19pjn68cqq
+    verified: true
+    hashtags: "#gemog10, #gemo, #gemoluxury"
+  - username: "allure.yourlife"
+    fullname: >-
+      For Your life
+    bio: >-
+      🅕🅞🅡 🅨🅞🅤🅡 🅛🅘🅕🅔 🏔️ℍ𝕚𝕜𝕚𝕟𝕘 🏋️‍♂️𝕨𝕠𝕣𝕜𝕠𝕦𝕥 🌸𝕓𝕖𝕒𝕦𝕥𝕪
+    location: "South Korea"
+    followers: 58661
+    engagement: 691
+    commentsToLikes: 0.008106
+    id: ck8t0h7xbs1u60j783bcb3wwa
+    verified: false
+    hashtags: "#makeup, #makeupartist, #prettygirls, #grwmmakeup"
+  - username: "johnnykyunghwo"
+    fullname: >-
+      Johnny Kyunghwo Sheldrick
+    bio: >-
+      British Korean johnnykyunghwo@gmail.com
+    location: "South Korea"
+    followers: 360760
+    engagement: 438
+    commentsToLikes: 0.008389
+    id: cl9mncztrk68x0i23sa7pjkxx
+    verified: false
+    hashtags: "#food, #mukbang, #fermentation, #korea"
+  - username: "jinathegorgeous"
+    fullname: >-
+      Jina Choi
+    bio: >-
+      Follow me on TikTok & YouTube✨ Making my “weird” Korean culture “not-so-weird”🤍 #WeirdNotSoWeird #가자! #Gaja! 👇
+    location: "South Korea"
+    followers: 169423
+    engagement: 491
+    commentsToLikes: 0.009057
+    id: ckz1xhqeo3fsg0j23tl9uthlu
+    verified: false
+    hashtags: "#buldakcarbonara, #foodreview, #travel, #soonhari"
+  - username: "sarang.hoe"
+    fullname: >-
+      tracy 손수민
+    bio: >-
+      💌heyyitstracy@gmail.com
+    location: "South Korea"
+    followers: 511235
+    engagement: 1841
+    commentsToLikes: 0.003683
+    id: ckzpxxarvkpf80j23nv0zqx37
+    verified: false
+    hashtags: "#lewkin, #lewkiss, #cybermonday"
+  - username: "1004yul_i"
+    fullname: >-
+      율이🐰
+    bio: >-
+      ˗ˋˏ130715ˎˊ˗ 사진, 영상 불펌 금지. 인터넷 예절 지키기. 📧 1004yul_i@naver.com youtube 율이TV
+    location: "South Korea"
+    followers: 2392415
+    engagement: 912
+    commentsToLikes: 0.008441
+    id: ck9wdqlzpgtaf0j78dbe0ijyt
+    verified: false
+    hashtags: "#cocomong, #backtoschool"
+  - username: "dric"
+    fullname: >-
+      dric
+    bio: >-
+      @archives_dric contact : dricstudio@gmail.com
+    location: "South Korea"
+    followers: 543245
+    engagement: 1336
+    commentsToLikes: 0.002685
+    id: ck0u27qvxz2xq0i19q2mecbgd
+    verified: false
+    hashtags: "#sticker, #frog, #drawing, #duck"
 cities:
   - name: Seoul
     link: /instagram/south-korea/seoul

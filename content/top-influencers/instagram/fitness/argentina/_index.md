@@ -1,24 +1,60 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Argentina In 2023
+title: Top 10 Fitness Instagram Influencers In Argentina In 2024
 description: >-
-  Find top fitness Instagram influencers in Argentina in 2023. Most popular hashtags: #fitness #fitnessmotivation #love.
+  Find top fitness Instagram influencers in Argentina in 2024. Most popular hashtags: #fitness #amor #familia.
 platform: Instagram
-hits: 271
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 271 Instagram influencers like this in Argentina for you to contact.
+hits: 268
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 268 Instagram influencers like this in Argentina for you to connect with.
 profiles:
-  - username: "andre_kerner_"
+  - username: "maisapcondassin"
     fullname: >-
-      Andre 🏃‍♀️🦋
+      Maisa P. Condassin
     bio: >-
-      𝗦𝗶 𝗽𝘂𝗲𝗱𝗲𝘀 𝗦𝗢𝗡̃𝗔𝗥𝗟𝗢 𝗽𝘂𝗲𝗱𝗲𝘀 𝗛𝗔𝗖𝗘𝗥𝗟𝗢 Inspirar Motivar Contagiar 🏃‍♀️😃 ❤ 🏃‍♀️#maratonista 42,195 k PB 3.47 🔒 ⛰#trailrunning 💪#fitness 👊 #motivation
+      🍃💪🏻 Fitness/Wellness Te ayudo a alcanzar tus objetivos reestructurando tu mente , entrenamiento y alimentación. Entrena con mi APP @fitwithmaisa 👇🏻⚡️
     location: "Argentina"
-    followers: 7429
-    engagement: 1073
-    commentsToLikes: 0.120005
-    id: ck6tsqy756bzs0j71pk6xu3nn
+    followers: 55634
+    engagement: 248
+    commentsToLikes: 0.021866
+    id: ck5c6g0yd5d0o0i11akdkzcev
     verified: false
-    hashtags: "#mujeresquecorren, #runhappy, #positiva, #noche"
+    hashtags: "#health, #meatlessmonday, #fwmapp, #fitness"
+  - username: "michellelacayok"
+    fullname: >-
+      Michelle Lacayo
+    bio: >-
+      👶🏼 Leno Martin 📍Nicaragua Aventuras • Maquillaje • SaludMental • Fitness Vivir Intensamente ⚡️
+    location: "Argentina"
+    followers: 66962
+    engagement: 75
+    commentsToLikes: 0.015667
+    id: ck6udrykfmsv30j71schuj2jc
+    verified: false
+    hashtags: "#babyboy, #mamateama, #nicaragua, #lifeinabikini"
+  - username: "agusdandri"
+    fullname: >-
+      Agus Dandri
+    bio: >-
+      📖 Escritora (“Fitness Espiritual”) ✈️ Viajes con propósito 📿 Meditaciones 🪄 Alma de @casaauraok 🎙️ Podcast Fuera de la Matrix 📩 agusdandri@gmail.com
+    location: "Argentina"
+    followers: 276414
+    engagement: 67
+    commentsToLikes: 0.055821
+    id: ck6ue59qyowbi0j71i8ffs1tu
+    verified: true
+    hashtags: "#transformacion, #fitfamily, #espiritualidad, #fitgirl"
+  - username: "jesicacirio"
+    fullname: >-
+      Jesica Cirio
+    bio: >-
+      ★ Conductora de La Peña de Morfi @telefe ★ Fitness Coach ★ 🍑 @bootymax_ PR @vanepellizzeri
+    location: "Argentina"
+    followers: 3474642
+    engagement: 35
+    commentsToLikes: 0.018235
+    id: ck0twntn3g2wy0i19cb9qhx9w
+    verified: true
+    hashtags: "#lape, #envolver, #envolverchallenge, #intoxicaochallenge"
   - username: "sashunidos"
     fullname: >-
       SASHA NIEVAS
@@ -91,40 +127,4 @@ profiles:
     id: ckap0i04vqdiv0i78451bqcqk
     verified: false
     hashtags: ""
-  - username: "anne_francisque"
-    fullname: >-
-      𝔸𝕟𝕚𝕥𝕒 🌺
-    bio: >-
-      🌴only acount🌴 Bikini & Fitness model Productora 🎬 Management @mg_movement Embajadora @deas_depilacion Bailarina @marimari_cce
-    location: "Argentina"
-    followers: 302051
-    engagement: 75
-    commentsToLikes: 0.023135
-    id: ck6udv6drnbpw0j71wnjueou6
-    verified: false
-    hashtags: "#beachmodel, #bikinis, #fitnessmodel, #poledance"
-  - username: "yazminvg"
-    fullname: >-
-      Yazmin Con Y 🌸🐝
-    bio: >-
-      Owner @suritravel Agente de Viajes, Especialista en Disney •💪🏾Modelo Fitness🌸Amo lo Asiático 🇲🇽México es Chingon🌎Me Gusta Viajar Checa mis vídeos 🎥‼️
-    location: "Argentina"
-    followers: 35199
-    engagement: 109
-    commentsToLikes: 0.028678
-    id: ck6tsfvp94jd50j71wcc7nv8y
-    verified: false
-    hashtags: "#model, #behumble, #glutes, #workoutathome"
-  - username: "ladani.fit"
-    fullname: >-
-      Daniela🔥
-    bio: >-
-      ÚNICA CUENTA OFICIAL 📍Civil Engineer 🎓 📍Chica Fitness Anzoátegui 2017🥇 🔹1ER LUGAR CHICA FITNESS VZLA 2017🏆 📌 🇻🇪🔜🇵🇪
-    location: "Argentina"
-    followers: 48080
-    engagement: 150
-    commentsToLikes: 0.017097
-    id: ck0u0heoztp1d0i192nbaq774
-    verified: false
-    hashtags: "#me, #cardiodone, #selfietime, #love"
 ---

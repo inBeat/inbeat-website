@@ -1,24 +1,24 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Las Vegas In 2023
+title: Top 10 Fashion TikTok Influencers In Las Vegas In 2024
 description: >-
-  Find top fashion TikTok influencers in Las Vegas in 2023. Most popular hashtags: #fyp #fashion #lasvegas #foryou.
+  Find top fashion TikTok influencers in Las Vegas in 2024. Most popular hashtags: #fyp #lasvegas #fashion #foryou.
 platform: TikTok
 hits: 40
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 40 TikTok influencers like this in Las Vegas, United States for you to connect with.
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database has 40 TikTok influencers like this in Las Vegas, United States for you to connect with.
 profiles:
-  - username: "charmaynejudkins"
+  - username: "chrismillsofficial"
     fullname: >-
-      CharmayneJudkins
+      Chris Mills
     bio: >-
-      Subscribe to my YOUTUBE CHANNEL &Follow me on IG 🚨‼️
+      DJ, Bartender, Artist, Loser 📍Chico, Ca
     location: "United States"
-    followers: 287600
-    engagement: 1468
-    commentsToLikes: 0.028738
-    id: ckamq8xgdgdil0i78ekv6kqu1
+    followers: 58200
+    engagement: 1934
+    commentsToLikes: 0.023091
+    id: ckdsv0nj1pywh0j23fbsjch9v
     verified: false
-    hashtags: "#foryou, #pranks, #husbandandwifecomedy, #trending"
+    hashtags: "#daily, #chrismills, #bartender, #fyp"
   - username: "brittballs"
     fullname: >-
       brittballs
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.010057
     id: ck9fmallys3810j78tozkgj3a
     verified: false
-    hashtags: "#foryou, #makeup, #fyp, #foru"
+    hashtags: "#fyp, #foru, #makeup, #foryou"
   - username: "princessxdope"
     fullname: >-
       Princess xDope
@@ -43,18 +43,42 @@ profiles:
     id: ck9fjig7wfwmz0j78wvkxzwgr
     verified: false
     hashtags: "#xyzbca, #fyp, #trending, #couple"
-  - username: "chrismillsofficial"
+  - username: "choifuldiscoveries"
     fullname: >-
-      Chris Mills
+      Maddy Choi
     bio: >-
-      DJ, Bartender, Artist, Loser 📍Chico, Ca
+      🇰🇷🇺🇸 Warner Music U College Rep. New York • Las Vegas Venmo: maddychoi😉
     location: "United States"
-    followers: 58200
-    engagement: 1934
-    commentsToLikes: 0.023091
-    id: ckdsv0nj1pywh0j23fbsjch9v
+    followers: 18500
+    engagement: 1356
+    commentsToLikes: 0.143484
+    id: ck8khj0c4mxsz0j78i7982xe3
     verified: false
-    hashtags: "#mixology, #daily, #bartender, #foryoupage"
+    hashtags: "#xyzbca, #nyc, #fyp, #fashiontiktok"
+  - username: "katesellsvegas"
+    fullname: >-
+      katesybilrud
+    bio: >-
+      TikTokin’ Mama⭐️ Realtor 🏡 I love a good laugh 😂
+    location: "United States"
+    followers: 5577
+    engagement: 722
+    commentsToLikes: 0.070898
+    id: ck9uwez4nvbx60j78i0f3fxkl
+    verified: false
+    hashtags: "#funnyrealtor, #confidenceisthebestoutfit, #realestatelasvegas, #lasvegashomesforsale"
+  - username: "haleypiacitelli"
+    fullname: >-
+      Haley Piacitelli
+    bio: >-
+      Model, Utah Business: haleypiacitelli@gmail.com Venmo: haleypiacitelli
+    location: "United States"
+    followers: 205000
+    engagement: 704
+    commentsToLikes: 0.022011
+    id: ck9nidqffgry70j78wffr21x0
+    verified: false
+    hashtags: "#utahmodel, #modeling, #utahcheck, #xyzbca"
   - username: "rolitacouture"
     fullname: >-
       Rolita Couture
@@ -73,24 +97,12 @@ profiles:
     bio: >-
       Starlet Las Vegas ♡ IG: @woahitsalo
     location: "United States"
-    followers: 3759
-    engagement: 2101
-    commentsToLikes: 0.056325
+    followers: 3757
+    engagement: 2008
+    commentsToLikes: 0.055185
     id: ckcv56qekp5ra0j230yw7trjd
     verified: false
-    hashtags: "#fashion, #fineline, #loveontour, #foryoupage"
-  - username: "choifuldiscoveries"
-    fullname: >-
-      Maddy Choi
-    bio: >-
-      🇰🇷🇺🇸 Warner Music U College Rep. New York • Las Vegas Venmo: maddychoi😉
-    location: "United States"
-    followers: 18500
-    engagement: 1356
-    commentsToLikes: 0.143484
-    id: ck8khj0c4mxsz0j78i7982xe3
-    verified: false
-    hashtags: "#fashiontiktok, #nyc, #fyp, #warnermusicu"
+    hashtags: "#harrystyles, #styling, #fineline, #loveontour"
   - username: "poncejeyna"
     fullname: >-
       Jeyna Ponce
@@ -115,16 +127,4 @@ profiles:
     id: ck9si91q1xp4a0j78urjciid4
     verified: false
     hashtags: "#friends, #style, #lizandmargaret, #momsoftiktok"
-  - username: "modishchampagne"
-    fullname: >-
-      ModishChampagne
-    bio: >-
-      THE FASHION 🔌 CEO of “SOFT STREETWEAR” ⛓ 👇🏼🚨New Thrifting Vlog👇🏼🚨
-    location: "United States"
-    followers: 201600
-    engagement: 1679
-    commentsToLikes: 0.015180
-    id: ck81s7ghfqkds0j786uqq7o13
-    verified: false
-    hashtags: "#streetstyle, #fashiondonts, #summerfashion, #fashion"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Colombia In 2023
+title: Top 10 TikTok Influencers In Colombia In 2024
 description: >-
-  Find top TikTok influencers in Colombia in 2023. Most popular hashtags: #fyp #parati #xyzbca #greenscreen.
+  Find top TikTok influencers in Colombia in 2024. Most popular hashtags: #fyp #parati #xyzbca.
 platform: TikTok
 hits: 1218
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 1218 TikTok influencers like this in Colombia for you to connect with.
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 1218 TikTok influencers like this in Colombia for you to connect with.
 profiles:
   - username: "megumihasebeperdomo"
     fullname: >-
@@ -67,18 +67,6 @@ profiles:
     id: cka0knlnongz10i78iu95rd2b
     verified: false
     hashtags: "#greenscreen"
-  - username: "lily_gio"
-    fullname: >-
-      Lily Gio
-    bio: >-
-      Riamos juntos 🇨🇴🇮🇹 INSTAGRAM @Lily_gio15 🌹🥛🍎🌹
-    location: "Colombia"
-    followers: 4787
-    engagement: 2817
-    commentsToLikes: 0.373580
-    id: ckavsvzs65jgd0j23ybxuh7w9
-    verified: false
-    hashtags: "#teamlosmalaleche, #italia, #anime, #amor"
   - username: "xx._.jirafita._.kawaiixx"
     fullname: >-
       🍂.𝓂𝒶𝓎ℴ.🍂
@@ -91,6 +79,18 @@ profiles:
     id: ckc7k69ihrdq70j23eqdr3fal
     verified: false
     hashtags: "#fyp, #parati, #greenscreen, #gachalife"
+  - username: "lily_gio"
+    fullname: >-
+      Lily Gio
+    bio: >-
+      Riamos juntos 🇨🇴🇮🇹 INSTAGRAM @Lily_gio15 🌹🥛🍎🌹
+    location: "Colombia"
+    followers: 4684
+    engagement: 2703
+    commentsToLikes: 0.346377
+    id: ckavsvzs65jgd0j23ybxuh7w9
+    verified: false
+    hashtags: "#capcut, #teamlosmalaleche, #manzanita, #modoprincesa"
   - username: "sun._.xcharli"
     fullname: >-
       charli doesn't notice me

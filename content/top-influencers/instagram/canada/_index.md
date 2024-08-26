@@ -1,132 +1,132 @@
 ---
-title: Top 10 Instagram Influencers In Canada In 2023
+title: Top 10 Instagram Influencers In Canada In 2024
 description: >-
-  Find top Instagram influencers in Canada in 2023. Most popular hashtags: #ad #sponsored #ootd.
+  Find top Instagram influencers in Canada in 2024. Most popular hashtags: #explore #ootd #fashion #dailyfashion.
 platform: Instagram
-hits: 5485
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 5485 Instagram influencers like this in Canada for you to connect with.
+hits: 8487
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 8487 Instagram influencers like this in Canada for you to collaborate.
 profiles:
-  - username: "enigivensunday"
+  - username: "aman.shai.xox"
     fullname: >-
-      Eni Popoola | NYC Blogger
+      Shaista & Aman
     bio: >-
-      ⚖️Columbia Law alumna 💄beauty lover ✨ trying to live my best blessed & balanced life 🎥 #SephoraSquad ‘22 📧 enipopoola@enigivensunday.com
+      ♡ Mr. Mrs. & Mini Doctor & Engineer traveling the world #YYC Canadian 🇨🇦 aman.shai.xox@gmail.com
     location: "Canada"
-    followers: 120230
-    engagement: 663
-    commentsToLikes: 0.011475
-    id: ck5hi7xnuc41l0i11lv2p1q6j
+    followers: 55140
+    engagement: 1256
+    commentsToLikes: 0.089060
+    id: ck0tw1z1ydo9m0i19chqlkzca
     verified: false
-    hashtags: "#makeupforblackwomen, #melaninmakeupdaily, #nycblogger, #makeuptutorial"
-  - username: "virginiepilotte"
+    hashtags: "#couplesofig, #creativetravelcouples, #journeysofcouples, #iamtb"
+  - username: "aylaweemaels"
     fullname: >-
-      VIRGINIE
+      ayla weemaels
     bio: >-
-      mama de Thomas 🤍 ( & Mico 🐶 ) lifestyle, fashion, home decor québec, canada ✉️ viirg03@hotmail.ca ♡ partenaire @charlotteetcharlie
+      belgian born × canadian — calgary 💌 aylanweemaels@gmail.com shop with me ↓
     location: "Canada"
-    followers: 32541
-    engagement: 593
-    commentsToLikes: 0.059708
-    id: ck55ppopob3mx0i11k0dp0cdv
+    followers: 12960
+    engagement: 3903
+    commentsToLikes: 0.093023
+    id: ck6toq973fhl10j7173xd8s6h
     verified: false
-    hashtags: "#sunsets, #sunset, #bikinis, #bikinigirl"
-  - username: "cassolive"
+    hashtags: "#lookoftheday, #currentlywearing, #classystreetwear, #ootd"
+  - username: "karishmajashani"
     fullname: >-
-      Cassandra
+      Karishma Jashani
     bio: >-
-      Mama x 3 👦🏼👦🏼👶🏼 • Wife • Autism mama • Canadian 🇨🇦 mom style ♡ real life ♡ Cleaning and Organization
+      luxury beauty & lifestyle as a working mama 👩🏽‍💻🐣🧿 📍Singapore 💌karishmajashani@gmail.com
     location: "Canada"
-    followers: 78477
-    engagement: 468
-    commentsToLikes: 0.090955
-    id: ck5zuz6in3asb0i1484iohqs7
+    followers: 25634
+    engagement: 442
+    commentsToLikes: 0.019334
+    id: ck15uiuqzne1u0i19vl98atrd
     verified: false
-    hashtags: "#newmomlife, #newbornlifestyle, #imaginativeplay, #independentplay"
-  - username: "mommas_gang"
+    hashtags: "#baby, #haircare, #newborn, #beautytips"
+  - username: "_emoliveira"
     fullname: >-
-      SAMMY
+      Emily Oliveira
     bio: >-
-      Momma x5 Motherhood | Autism Mom x2 | Lifestyle | Fashion Inquiries: sammybarcelos@icloud.com
+      @nyudswim
     location: "Canada"
-    followers: 30491
-    engagement: 1265
-    commentsToLikes: 0.020403
-    id: ck5zijlgfftz90i14vjkufxsl
+    followers: 17563
+    engagement: 403
+    commentsToLikes: 0.049405
+    id: ck13c4aphyjsz0i19pk1ht2uh
     verified: false
-    hashtags: "#shoppingdate, #catlover, #familyof7, #twinning"
-  - username: "simplysuppa"
+    hashtags: "#healthyhabits, #selflovejourney, #dailyroutine, #selflove"
+  - username: "teachme_style"
     fullname: >-
-      Julia Suppa
+      Holly Horvath
     bio: >-
-      📹 Storyteller | Content Creator @suppamedia 📹 Host | Blogger 💫Inspire, Work Hard, Be Kind, Give Back. Repeat. 📍#Vaughan #Toronto #Canada 🇨🇦
+      Dane and Halo’s Mom 👶🏼 💙 💗👶🏼 @lee_forsberg 💍 Sunny + Witt’s Fur Mama 🐶🐶 Inquiries 💌 holly@infagency.com
     location: "Canada"
-    followers: 7593
-    engagement: 417
-    commentsToLikes: 0.101940
-    id: ck8tbwm6jxgan0j78y4he4wod
+    followers: 65917
+    engagement: 490
+    commentsToLikes: 0.113220
+    id: ck5c8ew099bv80i11x8ny5s63
     verified: false
-    hashtags: "#ad, #simplysuppa, #homereno, #yyzmoms"
-  - username: "lifewithelliott"
+    hashtags: "#ad, #tostitosunsubtlehints, #35weeks, #letstoast"
+  - username: "toyomuyiwa"
     fullname: >-
-      Elliott | Adventure + Travel Photographer †
+      Toyo.
     bio: >-
-      Come travel the world with me 📸🗺 Let’s work together → hello@lifewithelliott.com 👇🏻 My eBooks, courses, presets, vlogs, & more! Next ✈️: Vancouver 🇨🇦
+      For the fashion forward girlies🫶🏾 📍 Toronto 📧 toyomuyiwa@647agency.com @tarsseefashion
     location: "Canada"
-    followers: 112572
-    engagement: 740
-    commentsToLikes: 0.020163
-    id: ck0w2tbypq2x10i19jh48i0fy
+    followers: 24187
+    engagement: 1037
+    commentsToLikes: 0.018127
+    id: ck8szqkknpcjt0j78wo6e49bk
     verified: false
-    hashtags: "#beautifuldestinations, #depthsofearth, #santorini, #hikingadventures"
-  - username: "kaurscloset"
+    hashtags: "#ootd, #outfitinspo, #explore, #newfashion"
+  - username: "shalini_matt"
     fullname: >-
-      Aman Pannu 🕊
+      Shalini
     bio: >-
-      📍toronto 💌 a.kaurscloset@gmail.com 🧖🏻‍♀️ @duomedispa
+      Fashion • Fitness• Beauty 📩: shalini.matt@hotmail.com 📍Toronto, Canada
     location: "Canada"
-    followers: 106712
-    engagement: 768
-    commentsToLikes: 0.009129
-    id: ck14gpysp6gp40i192fbwd2qr
+    followers: 37013
+    engagement: 6730
+    commentsToLikes: 0.001572
+    id: ck6uernicsp5o0j71ntftvyov
     verified: false
-    hashtags: "#motd, #punjab, #reelkarofeelkaro, #punjabisuit"
-  - username: "rosalielessard_"
+    hashtags: "#trending, #barbiemovie, #dailyfashion, #fashioninspo"
+  - username: "danieladibfitness"
     fullname: >-
-      Rosalie Lessard
+      Daniela Dib- DibFit ®
     bio: >-
-      Youtubeuse 🍲 Foodie 📍Mtl Qc info@rosalielessard.com📥
+      🚴🏽 Founder @dibfitcycle - 806 Homer Street, Vancouver- Fitness instructor ⏰ Book your bikes MONDAY at NOON 💪🏼 DibFit apparel available in the studio
     location: "Canada"
-    followers: 171386
-    engagement: 456
-    commentsToLikes: 0.007290
-    id: ck5zm1mj1lqlu0i14lqhaw6b4
+    followers: 30471
+    engagement: 488
+    commentsToLikes: 0.208540
+    id: ck5zns6e5p1xk0i14t0t4wygf
     verified: false
-    hashtags: "#cocoabutter, #bodycare, #147, #toujourslapourvous"
-  - username: "lysandrenadeau"
+    hashtags: "#glow, #photography, #styled, #bride"
+  - username: "charmynchan"
     fullname: >-
-      Lysandre Nadeau
+      VANCOUVER | KOMOREBI 🦁
     bio: >-
-      Balado: @sexeoral.podcast artistes@soniagagnon.com 📩
+      Charmy l Professional Consumer & Potato ⁣ 💌charmynchan@gmail.com 💖#beautywithkomorebi ✈️#explorewithkomorebi ⠀⁣ 😋#whokneweatingcouldbesorewarding ⠀⁣
     location: "Canada"
-    followers: 410656
-    engagement: 789
-    commentsToLikes: 0.003606
-    id: ck55oebvq86q70i11ufli5ole
-    verified: true
-    hashtags: "#pub, #lieracparis, #phytolastil, #18weekspregnant"
-  - username: "sacheu"
+    followers: 23311
+    engagement: 1163
+    commentsToLikes: 0.012934
+    id: ckap5u5bhd6fe0i789kds3vwl
+    verified: false
+    hashtags: "#streetweardaily, #vancouvergetaway, #balioutfit, #vancouverfoodblogger"
+  - username: "andreafcannon"
     fullname: >-
-      𝐒𝐀𝐑𝐀𝐇 𝐂𝐇𝐄𝐔𝐍𝐆 🤠🤍✨
+      Andrea Cannon | Adventure Travel & Outdoors
     bio: >-
-      Founder @sacheubeauty⁣⁣⁣ ✉️sarah@select.co
+      📍SLC (moved from PDX) Inspiring YOU to travel, get outside, & share your story 💌 andrea@beaUTAHfulworld.com
     location: "Canada"
-    followers: 279780
-    engagement: 573
-    commentsToLikes: 43.436376
-    id: ck15rdcy97d660i19l5fj5g9d
-    verified: true
-    hashtags: "#wildstar, #sacheubeauty, #savagexambassador, #isamayabeauty"
+    followers: 68006
+    engagement: 3200
+    commentsToLikes: 0.146363
+    id: ck0vznqg7a09f0i194rct91nu
+    verified: false
+    hashtags: "#alaskalife, #visitutah, #bucketlistadventures, #alaska"
 cities:
   - name: Toronto
     link: /instagram/canada/toronto

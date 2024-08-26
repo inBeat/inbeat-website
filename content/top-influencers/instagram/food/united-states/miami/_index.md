@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Miami In 2023
+title: Top 10 Food Instagram Influencers In Miami In 2024
 description: >-
-  Find top food Instagram influencers in Miami in 2023. Most popular hashtags: #miami #food #foodporn #foodie.
+  Find top food Instagram influencers in Miami in 2024. Most popular hashtags: #miami #food #foodie #miamibeach.
 platform: Instagram
-hits: 237
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 237 Instagram influencers like this in Miami, United States for you to contact.
+hits: 365
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 365 Instagram influencers like this in Miami, United States for you to contact.
 profiles:
-  - username: "broward_eats"
+  - username: "miamiappetite"
     fullname: >-
-      Lina 🇨🇴 | BROWARD_EATS 🍣
+      Miami Appetite
     bio: >-
-      💌: DM for collabs/events/partnerships ☀️: #southflorida #fortlauderdale #miami 📸 : @yelpbrowardpalmbeach @bestfoodfeed @bestfoodmiami
+      Sarah Carrillo & Rachel Rodriguez Eat | Drink | MIAMI 📍 South FL + travels 💌DM/email for collabs
     location: "United States"
-    followers: 2253
-    engagement: 557
-    commentsToLikes: 0.203193
-    id: ck5qcpze5rrxq0i113ence21j
+    followers: 8468
+    engagement: 330
+    commentsToLikes: 0.080994
+    id: ck0vvqsm6qckv0i194vfn1vn2
     verified: false
-    hashtags: "#eats, #love, #eeats, #food"
-  - username: "zashiasantiago"
+    hashtags: "#miami, #miamifood, #southflorida, #food"
+  - username: "miami_eats_official"
     fullname: >-
-      Zashia Santiago
+      📍Miami Food
     bio: >-
-      📍𝑳𝑨 Advertise on my platforms: ZashiaSantiago1@gmail.com
+      Original Content🍴 Restaurant Marketing👩‍💻 DM/Email for collaborations💌
     location: "United States"
-    followers: 403962
-    engagement: 259
-    commentsToLikes: 0.017353
-    id: ck5bvxxavkm630i110ydrx036
+    followers: 24297
+    engagement: 122
+    commentsToLikes: 0.127908
+    id: ckqg6fme2nyco0j23mzgxif31
     verified: false
-    hashtags: "#silkpress, #twasfun, #smoothmoisture, #saturday"
-  - username: "galvarezm"
+    hashtags: "#miami, #foodporn, #yummy, #miamieats"
+  - username: "eatersunite"
     fullname: >-
-      Gustavo Alvarez
+      NYC|LI|LA Food Blogger
     bio: >-
-      Just Live 🕺🛫🇻🇪🇨🇱🇺🇸
+      Elizabeth & James Emergency Medicine docs 👩🏽‍⚕️👨🏻‍⚕️ @etinachan @jim_longname Yelp Elite ✨
     location: "United States"
-    followers: 9996
-    engagement: 916
-    commentsToLikes: 0.014411
-    id: ck6ticiqt0gdb0j71xy4yft2r
+    followers: 7089
+    engagement: 913
+    commentsToLikes: 0.056385
+    id: ck6tjyvwm3o9b0j7176ebjfh6
     verified: false
-    hashtags: "#petlove, #loveislove, #instatravel, #instachile"
-  - username: "jasmine_jones0608"
+    hashtags: "#foodporn, #cleaneating, #eatingforthegram, #foodblogger"
+  - username: "astridriveratv"
     fullname: >-
-      Aspiring Model/Youtuber📸  PA📍
+      Astrid Rivera 🎤🎬📺🎥📰
     bio: >-
-      🎥Youtube: Jasmine Jones 🤪Tik Tok: jasminejones0608 👻Little_love0608 CEO of @jassy.beauty_ Subscribe to my channel⬇️
+      Journalist @despiertamerica /Sexual abuse advocate 3 x Emmy Winner / 📧: astrid@talentounlimited.com
     location: "United States"
-    followers: 2950
-    engagement: 832
-    commentsToLikes: 0.081709
-    id: ckaou3w0eyohk0i781fg3ebi0
+    followers: 154307
+    engagement: 917
+    commentsToLikes: 0.063388
+    id: ck0uc4beyfycb0i195qj18uqe
     verified: false
-    hashtags: "#shein, #lacefrontal, #likers, #likeforlikeback"
-  - username: "andressgarcia1"
+    hashtags: "#chistesdeastrid, #larimar, #despiertaamerica, #caughtinprovidence"
+  - username: "josiaheats"
     fullname: >-
-      Andres Garcia
+      Josiah
     bio: >-
-      ✖️UTRGV Math Tutor ➕Fitness/Fashion Model ✖️Mechanical Engineering 📚 ➕For booking/inquiries email down below
+      Food content creator helping you find food 📍Miami/Ft. Lauderdale 📧: josiaheatsinfo@gmail.com Check out my newsletter, food map and media kit 👇
     location: "United States"
-    followers: 16365
-    engagement: 504
-    commentsToLikes: 0.061207
-    id: ck6u1yp0moohb0j71sbzdr9iq
+    followers: 146157
+    engagement: 496
+    commentsToLikes: 0.022219
+    id: ckw3n7ikehw710j23egv2yyzs
     verified: false
-    hashtags: "#fitfam, #begginerpianoplayer, #pianocover, #instafitness"
-  - username: "patiolefromage"
+    hashtags: "#southfloridafoodies, #southfloridafood, #southflorida, #hosted"
+  - username: "natethedonn"
     fullname: >-
-      •Patio Le Fromage•
+      Nathan Delva
     bio: >-
-      Chef . Gabriela Alvarez • Lux Grazing Platters & Tables • Raclette Station • 📍Miami Orders online ⬇️
+      MIA | LA📍🇭🇹| mgmt: @cgemtalent | @NovaMEN Ambassador|God 1st| NUPE ♦️|CEO of @envisionapparel_ LONG LIVE OTIS ANDERSON🕊
     location: "United States"
-    followers: 41667
-    engagement: 92
-    commentsToLikes: 0.019725
-    id: ck6uh2kjq6m5s0j71zjug5pwg
+    followers: 57915
+    engagement: 384
+    commentsToLikes: 0.029653
+    id: ckxlenbox87x50j23kzcwmx57
     verified: false
-    hashtags: "#cumplean, #miamisurprise, #foodporn, #valentinesday"
-  - username: "haya_khattab"
+    hashtags: "#atlanta, #socal, #newmusic, #producer"
+  - username: "itsdanielmac"
     fullname: >-
-      HAYA KHATTAB G
+      Daniel Mac
     bio: >-
-      Mom | Food Brat MIAMI
+      What Do You Do For A Living? 🏎💨 Contact: Business@itsdanielmac.com @legendsrally @thedanielmacshow
     location: "United States"
-    followers: 8500
-    engagement: 582
-    commentsToLikes: 0.073614
-    id: ckaospsd4sjhx0i78p58p4ttx
+    followers: 2632992
+    engagement: 279
+    commentsToLikes: 0.008776
+    id: cku8q8mwsmhmv0j23v47h77ws
     verified: false
-    hashtags: "#love, #goldenhour, #withyou, #brickell"
-  - username: "breakingmydiet"
+    hashtags: "#entrepreneur, #stocks, #car, #danielmac"
+  - username: "isa.food.cravings"
     fullname: >-
-      Miami Food | Fat Adventures
+      Isabel Mejia Onofre
     bio: >-
-      🌞 Based in Miami ✈️ NY, Montréal y mas Eat life to the fullest DM for Collaboration 🙋🏻‍♂️ @lechristiano 🔸 @zipkick 🔸 @bestfoodmiami
+      ✨ Pretty and simple homemade #recipes 🌈 Living my boldest life through flavors 🦄 Fun creative #food videos 📸 Exploring the yummiest bites of Miami
     location: "United States"
-    followers: 4407
-    engagement: 1046
-    commentsToLikes: 0.573344
-    id: ck134n7vdx8lo0i19m40bwz6s
+    followers: 10860
+    engagement: 223
+    commentsToLikes: 0.150402
+    id: ckqg6fmh4nyg60j231gtmesbs
     verified: false
-    hashtags: "#eat, #foodphotography, #miamieats, #delicious"
-  - username: "foodiefollowings"
+    hashtags: "#burgerlovers, #miamifoodie, #miamibeach, #burgerlove"
+  - username: "thisgirlfatuma"
     fullname: >-
-      • L D •
+      Fatuma Isack Yusuf
     bio: >-
-      📍Chicago• Just for Pun 😜 #foodiefollowings foodiefollowings@gmail.com 📩
+      ♍️♍️♍️💎💎💎💎💎💎🔪🔪 @theindustryny NYC @theindustryla LA @smgmodels SEA
     location: "United States"
-    followers: 12828
-    engagement: 289
-    commentsToLikes: 0.274575
-    id: ck6ugiagu36gr0j7126wy53vo
+    followers: 11353
+    engagement: 988
+    commentsToLikes: 0.053050
+    id: ckf5wrhzmszuq0j23azx9pg02
     verified: false
-    hashtags: "#happyhour, #chicago, #yum, #blogger"
-  - username: "karishkhan"
+    hashtags: "#explorepage, #smgmodels, #miami, #travel"
+  - username: "goaldiggaofficial"
     fullname: >-
-      Karishma Khan
+      🔱TOPNOTCH QUEEN🔱
     bio: >-
-      Medium-Spicy 🌶 #stopasianhate
+      Recording artist 🇯🇲🇺🇸LEO♌️my help cometh from the lord 🤲🏽 🙏🏽for bookings inquires💰email goaldiggaofficial@gmail.com ambassador for @halfnakednycsep19
     location: "United States"
-    followers: 2496
-    engagement: 2139
-    commentsToLikes: 0.071031
-    id: ck5zpdoqsshj20i14q07ha1bf
+    followers: 65702
+    engagement: 286
+    commentsToLikes: 0.042446
+    id: ck5zk81s3izx00i14jqs8jk5a
     verified: false
-    hashtags: "#newyork, #wedding, #reels, #chicago"
+    hashtags: "#explorepage, #topnotch, #carribbeanfestival, #jamaican"
 ---

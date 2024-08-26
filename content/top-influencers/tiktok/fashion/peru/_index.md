@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Peru In 2023
+title: Top 10 Fashion TikTok Influencers In Peru In 2024
 description: >-
-  Find top fashion TikTok influencers in Peru in 2023. Most popular hashtags: #peru #fashion #moda #outfit.
+  Find top fashion TikTok influencers in Peru in 2024. Most popular hashtags: #peru #fashion #outfit #moda.
 platform: TikTok
-hits: 27
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 27 TikTok influencers like this in Peru for you to contact.
+hits: 26
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 26 TikTok influencers like this in Peru for you to connect with.
 profiles:
   - username: "mariaclaudia.durand"
     fullname: >-

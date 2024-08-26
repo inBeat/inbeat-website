@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Italy In 2023
+title: Top 10 Fashion Instagram Influencers In Italy In 2024
 description: >-
-  Find top fashion Instagram influencers in Italy in 2023. Most popular hashtags: #freedom #love #summer.
+  Find top fashion Instagram influencers in Italy in 2024. Most popular hashtags: #ootd #travel #italy.
 platform: Instagram
-hits: 2289
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 2289 Instagram influencers like this in Italy for you to connect with.
+hits: 2585
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 2585 Instagram influencers like this in Italy for you to connect with.
 profiles:
-  - username: "teresacasamonti"
+  - username: "pinocorinnee"
     fullname: >-
-      INTERIOR | FASHION | FAMILY
+      CORINNE PINO
     bio: >-
-      Teresa Casamonti Mom of 3 Kids Interior, Travel & Fashion Lover
+      Coco’s fashion world🤍 💌 Info@pinocorinne.com
     location: "Italy"
-    followers: 197654
-    engagement: 350
-    commentsToLikes: 0.020955
-    id: ck0vv7bn9nv3c0i19y648rh4q
+    followers: 496503
+    engagement: 647
+    commentsToLikes: 0.000527
+    id: ckaox1xtgber20i78am2p49xi
     verified: false
-    hashtags: "#hochzeit, #herbst, #makeover, #italianwedding"
-  - username: "estheraguirre"
+    hashtags: "#gaelleparis"
+  - username: "venetiakamara"
     fullname: >-
-      Esther Aguirre
+      Venetia Kamara
     bio: >-
-      Welcome to my world of fashion 🤍 Inquiries: aguirre.esther@outlook.com
+      fashion girlie starts a new hobby every week
     location: "Italy"
-    followers: 189890
-    engagement: 122
-    commentsToLikes: 0.044785
-    id: ck0w5d37a31zy0i1964scq3ye
+    followers: 183193
+    engagement: 566
+    commentsToLikes: 0.006054
+    id: ck5pvhct6hvzj0i118tuplc78
     verified: false
-    hashtags: "#minimalstyle, #fashiondetails, #minimaliststyle, #parisianstyle"
-  - username: "patoparodi18"
+    hashtags: "#yslbeauty, #ad, #garniergr, #vinosun"
+  - username: "theresaadimarco"
     fullname: >-
-      Patricio Parodi Costa
+      Theresa Di Marco
     bio: >-
-      Influencer / Model Streamer Tiktok patoparodi18 Working at @estoesguerraperutv @FashionNova Ambassador
+      PANTA REI 🌊 Lover of Tattoos ,Travel ,Fashion and fitness… Available for Collaboration 🆙
     location: "Italy"
-    followers: 2538888
-    engagement: 81
-    commentsToLikes: 0.010571
-    id: ck13dc25f4oy70i199yisc54c
-    verified: true
-    hashtags: "#vamosalabodega, #publicidad, #seleccionesmcdonalds, #pringles"
-  - username: "fabiana_russo"
-    fullname: >-
-      Fabiana Russo
-    bio: >-
-      Fashion tips, shopping, travel and real life on my stories 👆🏻💕 ⠀ Siciliana 🍋 ⠀ Based in Milan📍 ⠀ Work @fabianarusso_microblading
-    location: "Italy"
-    followers: 104734
-    engagement: 52
-    commentsToLikes: 0.011199
-    id: ckf5krdu2n0co0j23o4lie327
+    followers: 79768
+    engagement: 469
+    commentsToLikes: 0.015779
+    id: ck8tb9851uslw0j78muvex6yq
     verified: false
-    hashtags: "#madonnadicampiglio, #suppliedby, #home, #missyou"
-  - username: "belladally"
+    hashtags: "#wild, #acquapark, #lunedi"
+  - username: "thewhitemelanin"
     fullname: >-
-      B e  l l a   D a l l y 🕊
+      SANCHAN | CONTENT CREATOR
     bio: >-
-      — my work & creative space — Wife to Arif Iz❣️ KL, Malaysia Actor | Modest Fashion | Fitness | Traveler Ambassador of @galeriariani
+      Fashion | beauty | lifestyle | travel Having fun @huniwrld 🇳🇬 🇯🇵
     location: "Italy"
-    followers: 2353642
-    engagement: 19
-    commentsToLikes: 0.008925
-    id: ck0w5s6lg56hg0i19v9j0zt9r
-    verified: true
-    hashtags: "#garniergreenbeauty, #garniermalaysia, #greenerneverstops, #bellaforariani"
-  - username: "iamtinacriss"
-    fullname: >-
-      Cristina
-    bio: >-
-      Certified MUA @cristinamuabacau Fitness🌸fashion🌸beauty Email/DM me for collabs cristina.teacu@yahoo.co.uk 📍Romania
-    location: "Italy"
-    followers: 34113
-    engagement: 418
-    commentsToLikes: 0.103305
-    id: ckap4kvfl7qu40i787gjcc4m0
+    followers: 66772
+    engagement: 923
+    commentsToLikes: 0.036826
+    id: ck5hdnqz3oezp0i11osjbukbz
     verified: false
-    hashtags: ""
-  - username: "evinalepotilnica"
+    hashtags: "#opporeno8t, #internationalwomensday, #darlingnigeria, #empressbraids"
+  - username: "polymathmom"
     fullname: >-
-      EVA CENTRIH | evinalepotilnica
+      Karla Lu
     bio: >-
-      Dancing in the mall 👠 | Dancing on the Globus ✈ 📸 - Fashion | Travel | Beauty 🎬 - YouTuber 💌 - info@evinalepotilnica.si 📍SLO Founder of @lepotica.si
+      Family | Luxury Travel | Lifestyle 460k TikTok📍#Arizona ✈️California #Mom #Latina #Travel #Fashion Founder: @thepolymathmom 📩: karla@godandbeauty.com
     location: "Italy"
-    followers: 29291
-    engagement: 859
-    commentsToLikes: 0.014540
-    id: ck5bxmk27o02v0i112p4c2cqi
+    followers: 416017
+    engagement: 766
+    commentsToLikes: 0.000619
+    id: ckqva15z128n40j238girckqs
     verified: false
-    hashtags: "#bemarrakech, #morocco, #bestpresent, #marrakech"
-  - username: "marymilano"
+    hashtags: "#travelblogger, #hostedbydisney, #blue, #palazzomood"
+  - username: "rebeccachelbea"
     fullname: >-
-      Mariangela Milano
+      Rebecca Chelbea || Selbstliebe ❥
     bio: >-
-      LOVE ❤️ FAMILY ❤️PHILOSOPHY👩🏻‍🎓 FASHION 👠 SEA 🦀 SICILY📍
+      ≽ dein Safe Space & Wohlfühl-Account ☽ achtsam ❉ unperfekt nachhaltig ☼ fair fashion | vintage 📍Wien | 31 | 🇦🇹 🇮🇷 🏳️‍🌈
     location: "Italy"
-    followers: 251108
-    engagement: 553
-    commentsToLikes: 0.037874
-    id: ck8tcpq8707lt0j781nbdgqox
+    followers: 90194
+    engagement: 491
+    commentsToLikes: 0.031079
+    id: ck6tu7briepxl0j719z690fyo
     verified: false
-    hashtags: "#hot, #legs, #freedom, #enjoy"
-  - username: "mrezababaei_photography"
+    hashtags: "#selflove, #bodyneutrality, #mentalegesundheit, #selbstst"
+  - username: "carlottafiasella"
     fullname: >-
-      ▪️Mohammad Reza Babaei
+      Carlotta Fiasella Garbarino
     bio: >-
-      📍Portrait ○○○ Fashion ○○○ Beauty ●●●●●●●●●●●●●●●●●●●●●●●●● Photograoher / Graphic Designer 📥 Dc For Work 📸 Tehran 📍
+      •Beauty and fashion lover! •#adayinmylife everyday🌱 •economics student in Cattolica📚 📩: management@carlottafiasella.com
     location: "Italy"
-    followers: 16075
-    engagement: 809
-    commentsToLikes: 0.110676
-    id: ck9wh0p3gvprk0j78ozld95x7
+    followers: 792057
+    engagement: 403
+    commentsToLikes: 0.001339
+    id: ck6tzzqkrcsze0j713s7sjp3u
     verified: false
-    hashtags: ""
-  - username: "laura.cuccureddu"
+    hashtags: "#ad, #invitedby, #aniyeby, #adv"
+  - username: "biankarumanova"
     fullname: >-
-      Laura Cuccureddu
+      Bianka Rumanová
     bio: >-
-      • | 90's kid • | italian girl • | “We don’t need fashion to survive, we just desire it so much” M.J.🌹
+      collab.ruman@gmail.com 🌸All about: traveling, fashion, beauty, business 🔥Founder @namurstore_sk ✨Body products >dbcosmetics.eu VLOG👇🏼 🏠 @ruman_house
     location: "Italy"
-    followers: 2135
-    engagement: 2911
-    commentsToLikes: 0.182556
-    id: ckap6x8onhqi20i78c95wdtrx
+    followers: 249939
+    engagement: 431
+    commentsToLikes: 0.003737
+    id: ck0vwacrsst4i0i19dtjhkh5p
     verified: false
-    hashtags: "#handmadeshoes, #sunnydays, #crete, #femalequotes"
+    hashtags: "#outfit, #hotsprings, #italy, #dovolenka"
+  - username: "ranhelwa"
+    fullname: >-
+      RANHELWA
+    bio: >-
+      ▸ by Ranim Helwani | رنيم ☾ ━━━━━━━━━━━━ ▸ UGC Creator for beauty, hair & fashion ▸ Based in Berlin
+    location: "Italy"
+    followers: 25982
+    engagement: 2237
+    commentsToLikes: 0.050123
+    id: ck0vwu37mvlsw0i19ri3534wp
+    verified: false
+    hashtags: "#siciliabedda, #sicilia, #ortigia, #ortigiaisland"
+  - username: "kamilekanapeckaite"
+    fullname: >-
+      KAMILE KANAPECKAITE
+    bio: >-
+      BORN IN LITHUANIA, HAVE TO BE IN L.A. Basically, i’m obsessed with makeup & fashion and that’s that. lets collab 📩- kamilemail@gmail.com
+    location: "Italy"
+    followers: 40543
+    engagement: 401
+    commentsToLikes: 0.009138
+    id: ck14hahb39cxh0i19utt9jm3b
+    verified: false
+    hashtags: "#fashionstyle, #reklama, #ootd, #style"
 ---

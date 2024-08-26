@@ -1,12 +1,60 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Italy In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Italy In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Italy in 2023. Most popular hashtags: #inked #tattooed #tattooartist.
+  Find top tattoo-artists Instagram influencers in Italy in 2024. Most popular hashtags: #tattoo #tattooartist #colortattoo.
 platform: Instagram
-hits: 200
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 200 Instagram influencers like this in Italy for you to contact.
+hits: 191
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 191 Instagram influencers like this in Italy for you to connect with.
 profiles:
+  - username: "brandochiesa"
+    fullname: >-
+      Brando Chiesa
+    bio: >-
+      🇮🇹 tattoo artist and anime illustrator 💖 I explore the darker side of pink __________BOOKING ⬇️
+    location: "Italy"
+    followers: 973157
+    engagement: 325
+    commentsToLikes: 0.009403
+    id: ck55pdbauabl20i11jqqhap9a
+    verified: true
+    hashtags: "#animetattoo, #neotribaltattoo, #animeedits, #tattoo"
+  - username: "_pink_sg"
+    fullname: >-
+      
+    bio: >-
+      NATURAL BORN PINKERS •Suicidegirl since 2017🔞 •Freelance Model💝 •Tattoo artist at @sorry_mum_tattoo_shop @pink_sg_tattoo L!NKS🔥 ON @_pink_sg_links ⬅️
+    location: "Italy"
+    followers: 107961
+    engagement: 211
+    commentsToLikes: 0.028678
+    id: ck5hd5c47lkph0i11vez9jk9b
+    verified: false
+    hashtags: "#losangeles, #reelsinstagram, #sghq, #suicidegirls"
+  - username: "silvanofiato"
+    fullname: >-
+      Silvano Fiato
+    bio: >-
+      Italian Tattoo Artist 🇮🇹 REALISTIC TATTOOS 📍Genova, Italia ONLINE TATTOO SEMINAR AVAILABLE👇🏻
+    location: "Italy"
+    followers: 206744
+    engagement: 121
+    commentsToLikes: 0.050197
+    id: ck13b3hrtthp70i19prr7p1s1
+    verified: false
+    hashtags: "#silvanofiato, #ink, #tatuagem, #blackandwhitetattoo"
+  - username: "fabrizioaldobelfiore"
+    fullname: >-
+      ғᴀʙʀɪᴢɪᴏ ᴀʟᴅᴏ
+    bio: >-
+      • Tattoo artist • Owner @inkfab_tattoostudio @inkfab • 📍 Turin, Italy
+    location: "Italy"
+    followers: 244231
+    engagement: 83
+    commentsToLikes: 0.021954
+    id: ck13bszhlx0sl0i19imuyatqb
+    verified: false
+    hashtags: "#menstyle, #menwithclass, #casualstyle, #torinotattoo"
   - username: "andrea_kroki"
     fullname: >-
       Andrea Kroki
@@ -79,52 +127,4 @@ profiles:
     id: ck6ude89skl7l0j71lu90rc8l
     verified: false
     hashtags: "#milanotattooartist, #italiantattooer, #mayatattoo, #colortattoo"
-  - username: "lrzbff"
-    fullname: >-
-      My name is really Lucrezia.
-    bio: >-
-      The pic you take to your tattoo artist as reference is probably mine. Collabs: READ THE STORY HIGHLIGHT 🚨
-    location: "Italy"
-    followers: 193614
-    engagement: 411
-    commentsToLikes: 0.003757
-    id: ck5cfmvotn93x0i11w7s8oh4h
-    verified: false
-    hashtags: "#stylegoals, #tattooart, #fashionblogger, #inked"
-  - username: "valentinorussotattoo"
-    fullname: >-
-      ☆☆☆Valentino Tattoo Studio☆☆☆
-    bio: >-
-      Italian tattoo artist🇮🇹 (Grosseto)"Tuscany" ☎️⚡3296484692⚡☎️ Email: Valentino_96@live.it ⚓ Fb: Valentino Russo Tattoo
-    location: "Italy"
-    followers: 85659
-    engagement: 351
-    commentsToLikes: 0.073374
-    id: ck5q93vp299at0i117g07w2ii
-    verified: false
-    hashtags: "#ink"
-  - username: "_pink_sg"
-    fullname: >-
-      Giada
-    bio: >-
-      NATURAL BORN PINKERS •Suicidegirl since 2017🔞 •Freelance Model💝 •Tattoo artist at @sorry_mum_tattoo_shop ℹgiadacaliandro@libero.it
-    location: "Italy"
-    followers: 112144
-    engagement: 416
-    commentsToLikes: 0.028228
-    id: ck5hd5c47lkph0i11vez9jk9b
-    verified: false
-    hashtags: "#photooftheday, #potrait, #pinkworld, #selfish"
-  - username: "shyamli"
-    fullname: >-
-      Shyamli Panda
-    bio: >-
-      @devilztattooz * Graphic Artist/Illustrator / Tattoo Artist/Yoga Lover/ Chocolate Eater *
-    location: "Italy"
-    followers: 12778
-    engagement: 667
-    commentsToLikes: 0.017259
-    id: ck15qf0z52iz20i19ppeal5p1
-    verified: false
-    hashtags: "#treesprite, #sleepytattoo, #tattooartist, #hibiscustattoo"
 ---

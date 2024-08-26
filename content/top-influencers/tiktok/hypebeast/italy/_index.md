@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In Italy In 2023
+title: Top 10 Hypebeast TikTok Influencers In Italy In 2024
 description: >-
-  Find top hypebeast TikTok influencers in Italy in 2023. Most popular hashtags: #hypebeast #perte #neiperte #fyp.
+  Find top hypebeast TikTok influencers in Italy in 2024. Most popular hashtags: #perte #hypebeast #fyp #neiperte.
 platform: TikTok
 hits: 12
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: inBeat holds 12 TikTok influencers like this in Italy for you to pitch.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database has 12 TikTok influencers like this in Italy for you to contact.
 profiles:
   - username: "lucacinostreetwear"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.019596
     id: ck8vv7nfjl0gs0j78pea06vx8
     verified: false
-    hashtags: "#foryou, #fyp, #viral, #sneaker"
+    hashtags: "#sneaker, #supreme, #hype, #viral"
   - username: "il_cavazz"
     fullname: >-
       il_cavazz
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.010682
     id: ck9eq9cwyw7e50j78px66yb8y
     verified: true
-    hashtags: "#fyp, #streetwear, #fashion, #sneakers"
+    hashtags: "#milano, #virgilabloh, #ootd, #fyp"
   - username: "alessiogiffi"
     fullname: >-
       Alessio Giffi

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In San Diego In 2023
+title: Top 10 Lifestyle Instagram Influencers In San Diego In 2024
 description: >-
-  Find top lifestyle Instagram influencers in San Diego in 2023. Most popular hashtags: #lifestyle #sandiego #skate.
+  Find top lifestyle Instagram influencers in San Diego in 2024. Most popular hashtags: #sandiego #sandiegorestaurants #lajolla.
 platform: Instagram
-hits: 184
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 184 Instagram influencers like this in San Diego, United States for you to contact.
+hits: 261
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 261 Instagram influencers like this in San Diego, United States for you to pitch.
 profiles:
+  - username: "travelwithtalia"
+    fullname: >-
+      Natalia Hasenkampf | San Diego + Travel
+    bio: >-
+      Luxury Travel + Lifestyle San Diego, LA, California & more 🫶🏻 🌎 World traveler & storyteller ✉️ taliasbucketlistblog@gmail.com Co-Founder @cocopinasd
+    location: "United States"
+    followers: 376200
+    engagement: 39
+    commentsToLikes: 0.163894
+    id: ck0tsjdp9014h0i19g5yw8ymk
+    verified: false
+    hashtags: "#mexicomagico, #indiapictures, #sdblogger, #valledeguadalupe"
   - username: "jennbarlow"
     fullname: >-
       Jenn Barlow
@@ -19,18 +31,18 @@ profiles:
     id: ck6to7i01cj2z0j71rcbm5tqo
     verified: false
     hashtags: ""
-  - username: "organicoracle"
+  - username: "lisslobos"
     fullname: >-
-      Jeannine - Organic Oracle
+      Lissette 🇲🇽
     bio: >-
-      Clean Beauty + Luxurious Lifestyle San Diego, California USA 👋💌 DM or email for Collab inquiries organicoraclemail@gmail.com
+      ✈️ Commercial/Instrument rated Pilot 📍Los Angeles-San Diego
     location: "United States"
-    followers: 39419
-    engagement: 314
-    commentsToLikes: 0.143563
-    id: ck6u7nxmtmn300j719ran25gm
+    followers: 32082
+    engagement: 1073
+    commentsToLikes: 0.021080
+    id: ck137zt27dtf70i195jn1qrkf
     verified: false
-    hashtags: ""
+    hashtags: "#health, #avgeek, #fashion, #healthylifestyle"
   - username: "jaren_cooper"
     fullname: >-
       Jaren Cooper
@@ -43,18 +55,54 @@ profiles:
     id: ck5qcqfeoruc20i11q91h70q7
     verified: false
     hashtags: "#chee, #mayport, #skate, #jax"
-  - username: "nataliebrekka"
+  - username: "nurse.maddi"
     fullname: >-
-      Natalie Brekka
+      Maddi Flanagan
     bio: >-
-      fashion, lifestyle, home San Diego, CA ✉️ nataliebrekka@yahoo.com Shop my life ↓
+      bsn, rn, ccrn + nursing & lifestyle + @lifeinscrubspodcast + san diego
     location: "United States"
-    followers: 39656
-    engagement: 238
-    commentsToLikes: 0.108292
-    id: ck0ttz6rv4yju0i199g7rhg0o
+    followers: 26240
+    engagement: 1367
+    commentsToLikes: 0.021514
+    id: ck0w5xih75x770i19saieg91y
     verified: false
-    hashtags: "#foodinspo, #reelsinstagram, #reels, #modernhomedecor"
+    hashtags: "#wearfigs, #icunurse, #nursing, #figsambassador"
+  - username: "theregojonboe"
+    fullname: >-
+      Jonnika | San Diego Blogger
+    bio: >-
+      Content Creator Faith•Food•Fitness•Fashion•Lifestyle 📍San Diego, CA #Blogger Let’s create and explore #sandiego ! 💌BeardJonnika@yahoo.com
+    location: "United States"
+    followers: 23493
+    engagement: 597
+    commentsToLikes: 0.125918
+    id: ckr6iqqc78vfm0j23muhwkp8s
+    verified: false
+    hashtags: "#memorialweekend, #misslola, #explore, #like"
+  - username: "raeatanielu"
+    fullname: >-
+      Raea Tanielu
+    bio: >-
+      𝘳𝘰𝘮𝘢𝘯𝘵𝘪𝘤𝘪𝘻𝘪𝘯𝘨 𝘮𝘺 𝘭𝘪𝘧𝘦 ☆ sharing travel, food, + lifestyle ☆ san diego, ca + beyond ☆ raeatanielu@gmail.com to collab! 🇺🇸🇦🇸🇵🇭
+    location: "United States"
+    followers: 15267
+    engagement: 231
+    commentsToLikes: 0.030664
+    id: cl7ng317qw0hm0i235firjrz0
+    verified: false
+    hashtags: "#visitsandiego, #sandiegorestaurants, #sandiego, #bellaggio"
+  - username: "princesskae"
+    fullname: >-
+      Katrina ♡
+    bio: >-
+      Beauty • Fashion • Lifestyle ♡ San Diego/Los Angeles
+    location: "United States"
+    followers: 121299
+    engagement: 180
+    commentsToLikes: 0.014772
+    id: clmg71gll977j0j08ra1powag
+    verified: false
+    hashtags: "#lipstick, #novabeauty, #ad, #makeup"
   - username: "ariellelevyphoto"
     fullname: >-
       SAN DIEGO PHOTOGRAPHER | Ari
@@ -79,52 +127,4 @@ profiles:
     id: ck15u8gjhlxlg0i19p4laa1j3
     verified: false
     hashtags: "#carbsandcompounds, #chinups, #strengthtrainingforwomen, #gymtip"
-  - username: "thefunkgypsy"
-    fullname: >-
-      Michele Moss Design
-    bio: >-
-      🌿 Dallas Interior & Event Designer 💙 Featured Designer @houzz & @roomplays 🌿 Home Decor & Lifestyle 💙 San Diego, CA ——> Prosper, TX
-    location: "United States"
-    followers: 26069
-    engagement: 235
-    commentsToLikes: 0.274196
-    id: ck0vy969v2u8w0i19k0mgf73x
-    verified: false
-    hashtags: "#dustyblue, #dfw, #wainscoting, #wainscotting"
-  - username: "js2photo"
-    fullname: >-
-      js2 photo / John Swain
-    bio: >-
-      DM to shoot Southern California Orange County
-    location: "United States"
-    followers: 10507
-    engagement: 579
-    commentsToLikes: 0.017338
-    id: ck13cy2ym2qdp0i194xms4mgp
-    verified: false
-    hashtags: "#dancer, #portfolio, #youtube, #ocphotographer"
-  - username: "palmtreesandpellegrino"
-    fullname: >-
-      Giulia 🌴 San Diego | Travel & Style Blogger
-    bio: >-
-      ☀️Your Destination for hidden gems, trendy finds & everyday outfits 🏡 #SanDiego | 🇮🇹🇺🇸 |💍 2023 Bride 💌 mgmt@palmtreesandpellegrino.com
-    location: "United States"
-    followers: 70726
-    engagement: 176
-    commentsToLikes: 0.042077
-    id: ck1391fd6j2010i19sa7qxj0c
-    verified: false
-    hashtags: "#sandiegoeats, #sandiegofoodies, #downtownsandiego, #sandiegoblogger"
-  - username: "hjohnson_fitness"
-    fullname: >-
-      Heloa Johnson
-    bio: >-
-      San Diego 🏝 Brazil 🇧🇷 Where fitness meets style ⚡️ Coach￼ @fit_juliagilas @juliagilas￼￼
-    location: "United States"
-    followers: 18105
-    engagement: 573
-    commentsToLikes: 0.042683
-    id: ckap6d7c7fehm0i78yxgzc9ep
-    verified: false
-    hashtags: "#beautifulday, #sandiego, #fitnessjourney, #braziliangirls"
 ---

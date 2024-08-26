@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Brazil In 2023
+title: Top 10 Bakers Instagram Influencers In Brazil In 2024
 description: >-
-  Find top bakers Instagram influencers in Brazil in 2023. Most popular hashtags: #foodblogger #foodphotography #baking #foodstyling.
+  Find top bakers Instagram influencers in Brazil in 2024. Most popular hashtags: #foodphotography #foodblogger #foodstyling #foodblogfeed.
 platform: Instagram
-hits: 198
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 198 Instagram influencers like this in Brazil for you to connect with.
+hits: 201
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 201 Instagram influencers like this in Brazil for you to connect with.
 profiles:
   - username: "bakergkln"
     fullname: >-
@@ -103,6 +103,18 @@ profiles:
     id: ck15rjcsz87e70i191l7wrb4e
     verified: false
     hashtags: "#pa, #igbread, #homebaking, #baking"
+  - username: "eufernader"
+    fullname: >-
+      Fernanda Nader  Receitas
+    bio: >-
+      💜Praticando o que mais amo, cozinhaterapia. 👩🏻‍🍳receitas práticas pra vocês 📱 + 230k no TikTok 💌 contatoeufernader@gmail.com
+    location: "Brazil"
+    followers: 193333
+    engagement: 96
+    commentsToLikes: 0.088085
+    id: ck8t4k1cw71d50j7898iq1tlv
+    verified: false
+    hashtags: "#reels, #decorando, #homedecor, #receitas"
   - username: "chezmabi"
     fullname: >-
       O Quebra-Nozes Chez Mabi
@@ -115,16 +127,4 @@ profiles:
     id: ck8t8g3mekc720j783jigm1gr
     verified: false
     hashtags: "#chocolate, #foodblogfeed, #inmykitchen, #fellowmag"
-  - username: "anabeatrizvilarinho"
-    fullname: >-
-      Ana Beatriz | Vegan Eats
-    bio: >-
-      Plant based recipes 🌱 Daily stories in 🇵🇹🇬🇧 Law student @fduporto ⚖️🇵🇹 DISCOUNT CODES 👇🏼
-    location: "Brazil"
-    followers: 7112
-    engagement: 643
-    commentsToLikes: 0.156639
-    id: ck5hqouovtglb0i11yfa5gsjn
-    verified: false
-    hashtags: "#buddhabowl, #veganportugal, #oats, #veganbowls"
 ---

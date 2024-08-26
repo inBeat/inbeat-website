@@ -1,11 +1,11 @@
 ---
-title: Top 10 Journalists TikTok Influencers In 2023
+title: Top 10 Journalists TikTok Influencers In 2024
 description: >-
-  Find top journalists TikTok influencers in 2023. Most popular hashtags: #tiktok #fyp #trumpimpeachment.
+  Find top journalists TikTok influencers in 2024. Most popular hashtags: #fyp #tiktok #mcu.
 platform: TikTok
-hits: 107
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our database aggregates 107 TikTok influencers like this for you to contact.
+hits: 105
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 105 TikTok influencers like this for you to work with.
 profiles:
   - username: "pallavijaiswal28"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.079888
     id: ck933w0crpy8y0j789zq9dvey
     verified: false
-    hashtags: "#foryoupage, #foryou, #tiktok, #love"
+    hashtags: "#tiktok, #foryoupage, #foryou, #movies"
   - username: "lighttravelsfaster"
     fullname: >-
       Eileen Rhein, Esq.📍NYC
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.018703
     id: ckb9a021nuj170j231nhz7b0k
     verified: false
-    hashtags: "#hottub, #albertacanada, #norway, #rockymountains"
+    hashtags: "#banff, #rockymountains, #norway, #luxurytravel"
   - username: "lisaremillard"
     fullname: >-
       📺The News Girl 📰
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.016962
     id: ck87tvilf3nam0j786ebs56w9
     verified: true
-    hashtags: "#show, #venom, #spiderman3, #marvel"
+    hashtags: "#venom2, #spidermannowayhome, #spiderman, #venom"
   - username: "lokjung"
     fullname: >-
       lokjung official👑👑

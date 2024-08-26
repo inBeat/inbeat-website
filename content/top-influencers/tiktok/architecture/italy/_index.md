@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture TikTok Influencers In Italy In 2023
+title: Top 10 Architecture TikTok Influencers In Italy In 2024
 description: >-
-  Find top architecture TikTok influencers in Italy in 2023. Most popular hashtags: #travel #architecture #italy #foryou.
+  Find top architecture TikTok influencers in Italy in 2024. Most popular hashtags: #travel #architecture #italy #foryou.
 platform: TikTok
 hits: 10
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat has 10 TikTok influencers like this in Italy for you to pitch.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 10 TikTok influencers like this in Italy for you to contact.
 profiles:
   - username: "architectissimo"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.028616
     id: ckbqfyozr1iuj0j23odn1rw3y
     verified: false
-    hashtags: "#ladolcevita, #tuscany, #aesthetic, #sunset"
+    hashtags: "#positano, #italy, #tiktoktravel, #tuscany"
   - username: "topworldhotel"
     fullname: >-
       Top World Hotel
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.033686
     id: ck8s5js7ug7m50j78yg9xatf4
     verified: false
-    hashtags: "#diy, #interiordesign, #halloweendiy, #decor"
+    hashtags: "#homedecor, #design, #decor, #diy"
   - username: "polirowdy"
     fullname: >-
       AntoNello Polillo

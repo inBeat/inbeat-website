@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In 2023
+title: Top 10 Christian TikTok Influencers In 2024
 description: >-
-  Find top christian TikTok influencers in 2023. Most popular hashtags: #duet #fyp #foryou #xyzbca.
+  Find top christian TikTok influencers in 2024. Most popular hashtags: #duet #fyp #foryou #xyzbca.
 platform: TikTok
 hits: 4115
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 4115 TikTok influencers like this for you to collaborate.
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 4115 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "christianmelloo"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.008596
     id: ck83wr5h9lmey0j788n2etpge
     verified: true
-    hashtags: "#ad, #duet, #foryou, #afterpay"
+    hashtags: "#foryou, #ad, #duet, #afterpay"
   - username: "christiannvegaa"
     fullname: >-
       CHRISTIAN
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.093657
     id: ck977b7im3hfs0j78upfn9rcl
     verified: false
-    hashtags: "#fyp, #foryou, #foryoupage, #xyzbca"
+    hashtags: "#love, #foryoupage, #fyp, #foryou"
   - username: "cjpanganiban8"
     fullname: >-
       cjpanganiban8
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.303006
     id: ckdn9jrq1fsu80j23ofgdlxk5
     verified: false
-    hashtags: "#jesustok, #prayforme, #christianmom, #jesusistheway"
+    hashtags: "#bibleversedaily, #wise, #godlyadvice, #bornagain"
   - username: "vqueenof3"
     fullname: >-
       Vanessa
@@ -115,16 +115,16 @@ profiles:
     id: ckanm6ah4bwi90i789z4dejz5
     verified: false
     hashtags: "#kindnessmatters, #beekind, #blessed, #smile"
-  - username: "that_1_quiet_girl"
+  - username: "liv.pearsall"
     fullname: >-
-      Julia Robinson
+      Liv Pearsall
     bio: >-
-      ꧁ Mark 2:17 ꧂ 🌺Christian. Farmer. Musician. INFP. 18🌺 👻 @jayemare27 Just me
+      💛☀️🤩✨🧀 super duper Christian 21 ig: @liv.pearsall formerly @liv.breadstick😘
     location: "United States"
-    followers: 72500
-    engagement: 2358
-    commentsToLikes: 0.066952
-    id: ckaftryhk6mm00i78nmetv6iv
-    verified: false
-    hashtags: "#duet, #yerp, #anesthesia, #wisdomteeth"
+    followers: 2100000
+    engagement: 2315
+    commentsToLikes: 0.018354
+    id: ckc9164g2r0pr0j236xa2vei8
+    verified: true
+    hashtags: "#livsopinions, #bibleexplainedwithliv, #womeninstem, #oliviarodrigo"
 ---

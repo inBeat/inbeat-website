@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Tokyo In 2023
+title: Top 10 Architecture Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top architecture Instagram influencers in Tokyo in 2023. Most popular hashtags: #architecture #tokyo #japan #photography.
+  Find top architecture Instagram influencers in Tokyo in 2024. Most popular hashtags: #architecture #tokyo #art #photography.
 platform: Instagram
-hits: 20
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 20 Instagram influencers like this in Tokyo, Japan for you to connect with.
+hits: 21
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 21 Instagram influencers like this in Tokyo, Japan for you to collaborate.
 profiles:
   - username: "___matsuken"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck6u6j8w3fwo00j716j87cfgg
     verified: false
     hashtags: "#streetframez, #travelmoments, #35mmphoto, #frenchtraveler"
-  - username: "zono.sann"
-    fullname: >-
-      ぞのさんっ🍃(映像体験)
-    bio: >-
-      ◼︎ Creator’s Campus 代表 ◼︎ 映像を通して、世界中にもっとワクワクを。 ◼︎ 28才 / Tokyo,Osaka,Japan🇯🇵 ◼︎ TikTok 1.8M (180万人)
-    location: "Japan"
-    followers: 375798
-    engagement: 1167
-    commentsToLikes: 0.005554
-    id: ck8wfkem3fuhc0j789c5ewwms
-    verified: false
-    hashtags: "#filmmakers, #iphone, #videotips, #creative"
   - username: "ydm316"
     fullname: >-
       M Y
@@ -127,4 +115,16 @@ profiles:
     id: ck0w0w41egbge0i195aw1fncf
     verified: false
     hashtags: "#ig, #camera, #instagram, #visitjapanjp"
+  - username: "petestew"
+    fullname: >-
+      Peter Stewart
+    bio: >-
+      Architecture & Cityscape photographer in Asia Currently in Hoi An, Vietnam Prints for sale at link below
+    location: "Japan"
+    followers: 21555
+    engagement: 323
+    commentsToLikes: 0.015775
+    id: ck601jcpdfljt0i14ruzyqlhg
+    verified: false
+    hashtags: "#cityscapes, #hongkongphotography, #hongkonginsta, #cityunit"
 ---

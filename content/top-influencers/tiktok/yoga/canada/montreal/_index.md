@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Montreal In 2023
+title: Top 10 Yoga TikTok Influencers In Montreal In 2024
 description: >-
-  Find top yoga TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #yoga #foryoupage #foryou.
+  Find top yoga TikTok influencers in Montreal in 2024. Most popular hashtags: #fyp #yoga #foryou #montreal.
 platform: TikTok
-hits: 4
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 4 TikTok influencers like this in Montreal, Canada for you to connect with.
+hits: 5
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our platform holds 5 TikTok influencers like this in Montreal, Canada for you to work with.
 profiles:
   - username: "craig_major"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.025861
     id: cka67s8pnm5nm0i78cboyvn7n
     verified: false
-    hashtags: "#fashion, #muscle, #boy, #menstyle"
+    hashtags: "#style, #muscle, #men, #bf"
   - username: "bourgeoisehoma"
     fullname: >-
       Alexandra Piette
@@ -31,6 +31,18 @@ profiles:
     id: ckamqmmcvi0000i78p0iv8alj
     verified: false
     hashtags: "#foryoupage, #montreal, #fun, #joke"
+  - username: "pharmathlete"
+    fullname: >-
+      pharmathlete
+    bio: >-
+      CEO of Mtl🔥 For Fitness @pharmafitspo Mtl 🇨🇦 Subscribe ⬇️💪🏽
+    location: "Canada"
+    followers: 36600
+    engagement: 857
+    commentsToLikes: 0.014944
+    id: ck8f8nqla3i3c0j78vo3rzrj1
+    verified: false
+    hashtags: "#tiktokcanada, #ceoofmontreal, #ceoofcanada, #4yp"
   - username: "thefitfatale"
     fullname: >-
       Samantha Cutler
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.035877
     id: ckbeym7goj4a40j238zex4lon
     verified: false
-    hashtags: "#ootd, #selflove, #mindset, #canada"
+    hashtags: "#activewear, #spring, #selflove, #ootd"
   - username: "claudiapoulin2"
     fullname: >-
       Claudia Poulin
@@ -115,16 +127,4 @@ profiles:
     id: cka0o5rz329yd0i78p3yuubjz
     verified: false
     hashtags: "#dontleaveme, #dadsoftiktok, #fyp, #foryou"
-  - username: "jon_thevegan"
-    fullname: >-
-      Jonathan_Shopik
-    bio: >-
-      Living with AS, here to help you Certified Nutrition Coach DM me on insta
-    location: "Canada"
-    followers: 45600
-    engagement: 1185
-    commentsToLikes: 0.079804
-    id: ck8074594ok6p0j78bktsw0lx
-    verified: false
-    hashtags: "#movement, #legday, #hiphealth, #veganfitnessjourney"
 ---

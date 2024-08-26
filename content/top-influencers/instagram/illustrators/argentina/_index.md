@@ -1,12 +1,48 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Argentina In 2023
+title: Top 10 Illustrators Instagram Influencers In Argentina In 2024
 description: >-
-  Find top illustrators Instagram influencers in Argentina in 2023. Most popular hashtags: #art #illustration #procreate #artist.
+  Find top illustrators Instagram influencers in Argentina in 2024. Most popular hashtags: #art #illustration #procreate #artwork.
 platform: Instagram
-hits: 37
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 37 Instagram influencers like this in Argentina for you to connect with.
+hits: 38
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform has 38 Instagram influencers like this in Argentina for you to work with.
 profiles:
+  - username: "javirroyo"
+    fullname: >-
+      javirroyo
+    bio: >-
+      #illustrator #artist #nftartist #feminist 🧠@lamecanicabarcelona 📖@lumenedit ✏️ @upperslife @el.estafador @chispumstudio
+    location: "Argentina"
+    followers: 327211
+    engagement: 208
+    commentsToLikes: 0.008726
+    id: ck0tv88d6aabo0i19twpgyhth
+    verified: false
+    hashtags: "#artistsoninstagram, #memes, #humor, #art"
+  - username: "cari.bay"
+    fullname: >-
+      Caribay M. Benavides
+    bio: >-
+      Illustrator based in Buenos Aires🇦🇷 👉🏼caridibuja@gmail.com👈🏼 Rep’d worldwide by @weareillustrationx
+    location: "Argentina"
+    followers: 62405
+    engagement: 275
+    commentsToLikes: 0.013122
+    id: ck139pjn3mhyk0i19538b5ktd
+    verified: false
+    hashtags: "#peptober, #illustration, #procreate, #broccoli"
+  - username: "annallenas"
+    fullname: >-
+      Anna Llenas
+    bio: >-
+      📚 Author. Writer & Illustrator 🎨 Art Therapist 🙋🏽‍♀️ Mum of two kids and one Colour Monster ❤️ Accompanying your Healing Journey
+    location: "Argentina"
+    followers: 114042
+    engagement: 104
+    commentsToLikes: 0.038419
+    id: ck55mliec48e70i111uv94l8m
+    verified: false
+    hashtags: "#tdah, #topitoterremoto, #etiquetas, #talpetterratremol"
   - username: "mariuriganti"
     fullname: >-
       ᴹ ᴬ ᴿ ᴵ ᵁ   ᴿ ᴵ ᴳ ᴬ ᴺ ᵀ ᴵ
@@ -91,40 +127,4 @@ profiles:
     id: ck5butdc4iep20i11wf2oh91s
     verified: false
     hashtags: "#dise, #cartoon, #guaracha, #digitalartist"
-  - username: "meryzart"
-    fullname: >-
-      m e r y
-    bio: >-
-      ❄ Illustrator & Designer ✧ Online Print Store: open ✧ Inquiries: bymeryzajc@gmail.com ✧ Don't repost, use or edit my art. ✧ Commissions: closed
-    location: "Argentina"
-    followers: 39411
-    engagement: 495
-    commentsToLikes: 0.028820
-    id: ck0u1tromxwq40i19q44tpgss
-    verified: false
-    hashtags: "#thelittlemermaid, #drawing, #disneyprincess, #disneycollector"
-  - username: "sanxtypo"
-    fullname: >-
-      Santiago Colombo
-    bio: >-
-      Lettering Artist, Graphic Designer (FADU) & Illustrator based in Buenos Aires, Argentina // @lamofleteria.co
-    location: "Argentina"
-    followers: 41996
-    engagement: 410
-    commentsToLikes: 0.018078
-    id: ck0w527ss1jo00i193ff0gx81
-    verified: false
-    hashtags: "#typetopia, #calligraphy, #love, #quarantine"
-  - username: "molinetjuan"
-    fullname: >-
-      Juan Molinet
-    bio: >-
-      Freelance illustrator and character designer based in Berlin 🇦🇷🇩🇪 www.lebureau.tv 👉 https://everpress.com/mirror-punch
-    location: "Argentina"
-    followers: 8902
-    engagement: 566
-    commentsToLikes: 0.024847
-    id: ck138e80vft3m0i19vg8qs18u
-    verified: false
-    hashtags: "#juanmolinet, #illustration, #coronavirus, #socialawareness"
 ---

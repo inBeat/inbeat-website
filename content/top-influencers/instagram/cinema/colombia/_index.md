@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Colombia In 2023
+title: Top 10 Cinema Instagram Influencers In Colombia In 2024
 description: >-
-  Find top cinema Instagram influencers in Colombia in 2023. Most popular hashtags: #cinema #art #film #cine.
+  Find top cinema Instagram influencers in Colombia in 2024. Most popular hashtags: #colombia #cine #film #cinema.
 platform: Instagram
-hits: 29
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 29 Instagram influencers like this in Colombia for you to contact.
+hits: 36
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 36 Instagram influencers like this in Colombia for you to connect with.
 profiles:
   - username: "clara_segura_actriu"
     fullname: >-
@@ -31,18 +31,18 @@ profiles:
     id: ck15t7p51gqh10i19snmny1h8
     verified: false
     hashtags: "#cinematicfpv, #reelsteady, #visitcolombia, #fpvaddiction"
-  - username: "cinematicmultiversemcm"
+  - username: "nubikini"
     fullname: >-
-      Cinematic Multiverse 🔴
+      Nubia Navarro
     bio: >-
-      🎁 Admin: @paoloyugi93 🎟️ El lugar donde verás contenido geek, héroes y freak. Marvel, DC, TODO. 💥 🎥 Contacto: paoloyugi93@gmail.com
+      ✶ Graphic designer | Lettering artist ✦ requests: hellonubikini@gmail.com Learn with me 👇🏼
     location: "Colombia"
-    followers: 38020
-    engagement: 568
-    commentsToLikes: 0.012360
-    id: ck0w5s5zh56cg0i19yrpfzchn
+    followers: 54673
+    engagement: 51
+    commentsToLikes: 0.006839
+    id: ck6u1b817kpa20j71hjpjzvh3
     verified: false
-    hashtags: "#wandavision, #marvel, #disneyplus, #wandamaximoff"
+    hashtags: "#36days, #3ddesign, #cinema4d, #36daysoftype"
   - username: "brayanyalejandro"
     fullname: >-
       Lejo
@@ -79,6 +79,18 @@ profiles:
     id: ckaorovfmo6680i78hwctzpw6
     verified: false
     hashtags: "#cine, #cinema, #cinematography, #nanpabasico"
+  - username: "ricardohenaotor0"
+    fullname: >-
+      Ricardo Henao Toro
+    bio: >-
+      Colombiano. Manager @itmjoserivera Productor en @machete_studio @namue_imagen
+    location: "Colombia"
+    followers: 98881
+    engagement: 355
+    commentsToLikes: 0.029279
+    id: ck0txie5pj9g90i19ae9rlxze
+    verified: false
+    hashtags: "#lostreslenguajes, #actor, #actingforfilm, #acting"
   - username: "wilches_photo"
     fullname: >-
       Sebastián.
@@ -115,16 +127,4 @@ profiles:
     id: ck5zvrfhz4sbg0i14zg3iflq8
     verified: false
     hashtags: "#favplace, #fotografia, #thecreativers, #launchdsigns"
-  - username: "ramsesphotographer"
-    fullname: >-
-      Ramses Larrotta️️️🔹
-    bio: >-
-      Escribo y Re Escribo el Mundo con Luces y Sombras. Photographer-Film Maker 🎥 Unit Still Photographer📷 Netflix ,Caracol Tv y Series Tv ,la Voz kids ✌🏻
-    location: "Colombia"
-    followers: 12417
-    engagement: 195
-    commentsToLikes: 0.021055
-    id: ck5bwqs3em87o0i11oiz4f7of
-    verified: false
-    hashtags: "#family, #smile, #fitness, #beach"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gardening Instagram Influencers In 2023
+title: Top 10 Gardening Instagram Influencers In 2024
 description: >-
-  Find top gardening Instagram influencers in 2023. Most popular hashtags: #cottagecore #sponsored #pretty.
+  Find top gardening Instagram influencers in 2024. Most popular hashtags: #gardening #plants #gardeningtips.
 platform: Instagram
-hits: 2218
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our platform has 2218 Instagram influencers like this for you to contact.
+hits: 2695
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 2695 Instagram influencers like this for you to pitch.
 profiles:
-  - username: "northwoodsfolk"
+  - username: "dan_juergen"
     fullname: >-
-      Sunny // Folk Living                                       🌲MN🌲
+      D A N   J Ü R G E N
     bio: >-
-      nature-inspired mother + maker sharing the beauty of slow, seasonal living diy • recipes • gardening • home-ed • adventure 🌙 🌿 🐌 🍄🌲🧺 ✨
+      Videography - Gardening - Pumping Iron 🎥 @reelweaver MSc - Mechanical Engineering 📩 danjuergen@gmail.com ⬇️ Youtube ⬇️
+    location: "Germany"
+    followers: 274096
+    engagement: 626
+    commentsToLikes: 0.049918
+    id: ck0u953j991pr0i1950suyqvw
+    verified: false
+    hashtags: "#mensfashion, #winning, #reels, #fitnessmotivation"
+  - username: "rutadvinska"
+    fullname: >-
+      Rūta Dvinska
+    bio: >-
+      📺 TV host/journalist @tv3_latvia | 📻 radio DJ @starfmlatvia |📱content creator | 👧🏼👧🏼👧🏼 mom | 🌱urban gardening | 🐓 chicken owner | 🎙podcast FUNKTIERIS
+    location: "Spain"
+    followers: 35539
+    engagement: 864
+    commentsToLikes: 0.008372
+    id: ck15ujvpxnj9d0i19encni7nf
+    verified: false
+    hashtags: "#tenerifephotography, #tenerifephoto, #familyphotoshoot, #pregnancyphotoschoot"
+  - username: "curlycultivators"
+    fullname: >-
+      Leota Wilson & Mikaela Falwell
+    bio: >-
+      🌱Two curly girls, in love with gardening + each other 🍅 Sharing as we learn so you can grow with us 📍 Sacramento | Zone 9B
     location: "United States"
-    followers: 131357
-    engagement: 474
-    commentsToLikes: 0.067900
-    id: ckx3j50xwzxpa0j2331ss8l9z
+    followers: 151114
+    engagement: 1609
+    commentsToLikes: 0.064080
+    id: cl22heo5dhdo70i23fcebex8u
     verified: false
-    hashtags: "#wildcraftwednesday, #nobuydiy, #thehandcraftedholiday"
-  - username: "michelle_font"
+    hashtags: "#zone9b, #spring, #zone9garden, #homegarden"
+  - username: "ellenjokikunnas"
     fullname: >-
-      Michelle Fonticiella
+      Ellen Jokikunnas
     bio: >-
-      City girl turned farm girl 👩🏻‍🌾 | Mom of girls, dogs, goats, chickens | Active living | Gardening | Life on our tropical mini farm 🌴🌿🌾
-    location: "France"
-    followers: 8963
-    engagement: 592
-    commentsToLikes: 0.080957
-    id: ck5pzaek800gn0i1174v99xh1
+      Radio @menaisetradio TV host @nelonen ✨ Life is about art, furniture refurbish and gardening collab: ellenmariia@gmail.com
+    location: "Finland"
+    followers: 42654
+    engagement: 595
+    commentsToLikes: 0.041526
+    id: ck13bo3nrwcgd0i19f66cok1s
     verified: false
-    hashtags: "#patriayvida, #soscuba, #cuba, #cubalibre"
-  - username: "laurenselfblogs"
+    hashtags: "#apulia, #bengalcat, #trullo, #trulli"
+  - username: "masondixonacres"
     fullname: >-
-      Lauren
+      Elaina Ripepi + Alex Walsh, Homestead & DIY
     bio: >-
-      mama x 4! low tox living | gardening + chicken mom | macrame 🌿oil IG: @oilyselfblogs 🌞 Etsy link ↓
+      🏠 Self-building our home DEBT-FREE 🌱 Gardening & raising chickens on a budget ⬇️ Check out our YouTube!
     location: "United States"
-    followers: 18656
-    engagement: 1858
-    commentsToLikes: 0.022000
-    id: ck8t1vbnlx6dp0j782ei1ya9s
+    followers: 128579
+    engagement: 426
+    commentsToLikes: 0.062600
+    id: cky72qbzkjtxl0j23r5p8gykn
     verified: false
-    hashtags: "#fromwhereiwork, #smallshop, #protectbreastfeeding, #reels"
-  - username: "seldabelda"
+    hashtags: "#selfsufficiency, #selfbuild, #ownerbuilder, #gardening"
+  - username: "bowmar_farms"
     fullname: >-
-      anna aromin | ↟ pnw ↟
+      Bowmar Farms
     bio: >-
-      artist ⎜ wife ⎜ mother ⎜ seeker of everyday magic lover of vintage lenses & gardening other work: @allnaturebyanna creator of @thegalleryoflight
+      Welcome to the farm! Venison 🦌Gardening 🌱 Sourdough 🍞Bees 🐝 Chickens 🐓Goats 🐐
     location: "United States"
-    followers: 33490
-    engagement: 341
-    commentsToLikes: 0.090660
-    id: ck14kkiiwpyiz0i19q3we0t10
+    followers: 69718
+    engagement: 780
+    commentsToLikes: 0.016260
+    id: cldimc2vuoons0j088zchvgv2
     verified: false
-    hashtags: "#thiswildlingsoul, #bokeh, #freelensed, #holidaypajamaparty"
-  - username: "life_of_glow"
+    hashtags: ""
+  - username: "kellywelk"
     fullname: >-
-      Robyn | Home & Garden Joy
+      Kelly Welk
     bio: >-
-      A plant-loving, home-making, seasonal-living adventure! ❃ Fearless northern gardening, interior style, & DIY. ❁ Pro Photographer, mama, wife ♡ More⇩
+      Life behind the scenes of @ciderpresslane Sharing all the recipes, hosting, homemaking, family life and gardening that fills our days
     location: "United States"
-    followers: 40685
-    engagement: 309
-    commentsToLikes: 0.087218
-    id: ck0u7az5246wj0i19r71e0x0v
+    followers: 42163
+    engagement: 942
+    commentsToLikes: 0.092756
+    id: ckovqkbpvsodc0j23vyo0y8nq
     verified: false
-    hashtags: "#rugsusa"
-  - username: "theladywholunches"
+    hashtags: "#dahlialove, #tomatoes, #gardentips, #homemadegoodness"
+  - username: "theplantrescuer"
     fullname: >-
-      Jenna Ingalls
+      Sarah Gerrard-Jones
     bio: >-
-      sewing, knitting, sometimes gardening, now with a baby Oakland, California
+      📕 Author: The Plant Rescuer 📺 Alan Titchmarsh’s Gardening Club 🪴 Houseplant rescue Agent: @unitedtalent
+    location: "United Kingdom"
+    followers: 452130
+    engagement: 447
+    commentsToLikes: 0.014010
+    id: ck55mdmdv3px60i11p9xz9koq
+    verified: false
+    hashtags: "#carnivorousplants, #plantlover, #plantsofinstagram, #succulents"
+  - username: "jpslifeandloves"
+    fullname: >-
+      𝐉𝐨𝐧-𝐏𝐚𝐮𝐥 𝐂𝐥𝐚𝐫𝐤 (𝐉𝐏) - 𝐉𝐏’𝐬 𝐋𝐢𝐟𝐞 & 𝐋𝐨𝐯𝐞𝐬
+    bio: >-
+      Home & Gardening writer 🩵DIY, Gardening, Design, Life, Fun ⬇️ HOME & HORT on Substack. 💙 Contact: jp@jpslifeandloves.com 🩵Stay: @theharbourdeckhouse
+    location: "United Kingdom"
+    followers: 57547
+    engagement: 367
+    commentsToLikes: 0.216015
+    id: ck134873uv6zx0i19y363vjj4
+    verified: false
+    hashtags: "#myhousethismonth, #myinspiringinterior, #interiordesign, #transformation"
+  - username: "the_vintage_bombshell"
+    fullname: >-
+      Selena Faith
+    bio: >-
+      Fashion, Interior Design, Gardening & Antiques, Survivor 🎀 💪🏽 Follow my Beach Cabin adventures: @cabinonthecape
     location: "United States"
-    followers: 6923
-    engagement: 1144
-    commentsToLikes: 0.061068
-    id: ck5zobjeqq6wu0i146qvnwtx8
+    followers: 23930
+    engagement: 358
+    commentsToLikes: 0.066969
+    id: ck0w4c40rxu9e0i19kia1qcmb
     verified: false
-    hashtags: "#memadeeveryday, #sewistsofinstagram, #oaklandsews, #huondress"
-  - username: "francescaroseelizabeth"
-    fullname: >-
-      𝔽𝕣𝕒𝕟𝕔𝕖𝕤𝕔𝕒
-    bio: >-
-      Mummy to a little boy ❤ I love nature & gardening 🌿~ first year growing from seed 🌱 I also share my outfits ⚘
-    location: "United States"
-    followers: 29392
-    engagement: 286
-    commentsToLikes: 0.031805
-    id: ck6ucyprhi5qc0j7134qob3k0
-    verified: false
-    hashtags: "#vintage, #naturephotography, #retro, #naturelovers"
-  - username: "busylittleizzy"
-    fullname: >-
-      Eryka ☀️ Mom to Izzy
-    bio: >-
-      🌲#Mainers Our Life & Adventures Mind & Body Wellness 🌱 Gardening 🤍 #bekind 🚫 bullying Former Teacher PR: eryka@busylittleizzy.com
-    location: "United States"
-    followers: 71147
-    engagement: 78
-    commentsToLikes: 0.122732
-    id: ck0vv2i8wn8o20i195rvv7cw7
-    verified: false
-    hashtags: "#teachtuesday, #careforyourbody, #sunflowers, #savethebees"
-  - username: "keerthanamurthy11"
-    fullname: >-
-      Keerthana
-    bio: >-
-      Making my way into balcony gardening-Interior Snacker-Desperate to live sustainably
-    location: "United States"
-    followers: 2250
-    engagement: 2716
-    commentsToLikes: 0.159089
-    id: ckapc48492eih0i7874qsm2ur
-    verified: false
-    hashtags: "#homesweethome, #pretty, #myhomefeel, #ecofynd"
-  - username: "connieandluna"
-    fullname: >-
-      Sustainable living + travel 🍃
-    bio: >-
-      👩🏻‍🌾 Connie📍Melbourne 🍃 urban edible gardening 🌾 sustainable home & living 🌞 always wandering 💕 🥬 @leafkeeper 🎨 @connieandlunastudio
-    location: "Australia"
-    followers: 84162
-    engagement: 50
-    commentsToLikes: 0.055402
-    id: ck0w5iw3p3umn0i19yfbhtfjr
-    verified: false
-    hashtags: "#athomewithcastlery, #sponsored, #t2xchobanisupermoments"
+    hashtags: "#ootd, #pinkchristmas, #christmasdecor, #octolyfamily"
 ---

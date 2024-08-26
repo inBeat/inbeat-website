@@ -1,12 +1,24 @@
 ---
-title: Top 10 Scrapbooking Instagram Influencers In 2023
+title: Top 10 Scrapbooking Instagram Influencers In 2024
 description: >-
-  Find top scrapbooking Instagram influencers in 2023. Most popular hashtags: #scrapbooking #scrap #cardmaking #album.
+  Find top scrapbooking Instagram influencers in 2024. Most popular hashtags: #scrapbooking #scrap #cardmaking #album.
 platform: Instagram
-hits: 252
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 252 Instagram influencers like this for you to work with.
+hits: 266
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 266 Instagram influencers like this for you to collaborate.
 profiles:
+  - username: "fraeuleinfotofee"
+    fullname: >-
+      Julia
+    bio: >-
+      Wanderlust 🌙 Journaling 🌙 Scrapbooking Germany 🇩🇪 Book order here ⬇️
+    location: "Germany"
+    followers: 99414
+    engagement: 97
+    commentsToLikes: 0.043321
+    id: ck6tnkr6ia1l90j71wnr211oq
+    verified: false
+    hashtags: "#waxsealstamp, #scrapbookingideas, #happymail, #traveljournaling"
   - username: "micaelaferrero"
     fullname: >-
       Micaela Ferrero | Paper Lover
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.028053
     id: ck0vz4r537av80i19d21r3xqr
     verified: false
-    hashtags: "#envelopes, #bujocommunity, #bujo, #planwithme"
+    hashtags: "#plannergeek, #bujoinspiration, #bujoideas, #diecutting"
   - username: "aluacid"
     fullname: >-
       Alua Cid
@@ -115,16 +127,4 @@ profiles:
     id: ck0vyx12q678h0i19tk17rifg
     verified: false
     hashtags: "#scrap, #card, #tutorial, #scrapbooking"
-  - username: "dos_piruletas"
-    fullname: >-
-      Dos Piruletas
-    bio: >-
-      🌟Capturing life's moments ❤️ Scrapbooking 🍭DT @lorabailora ⭐DT @pinkfreshstudio
-    location: ""
-    followers: 8409
-    engagement: 989
-    commentsToLikes: 0.113630
-    id: ck8syurpom3720j78g7b7xb11
-    verified: false
-    hashtags: "#memorykeeping, #scrap, #minialbumscrapbook, #lifedocumented"
 ---

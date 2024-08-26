@@ -1,12 +1,24 @@
 ---
-title: Top 10 Scrapbooking TikTok Influencers In 2023
+title: Top 10 Scrapbooking TikTok Influencers In 2024
 description: >-
-  Find top scrapbooking TikTok influencers in 2023. Most popular hashtags: #scrapbooking #foryou #fyp #art.
+  Find top scrapbooking TikTok influencers in 2024. Most popular hashtags: #scrapbooking #fyp #foryou #art.
 platform: TikTok
-hits: 40
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat holds 40 TikTok influencers like this for you to work with.
+hits: 41
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 41 TikTok influencers like this for you to collaborate.
 profiles:
+  - username: "krisydays"
+    fullname: >-
+      krisy
+    bio: >-
+      🇵🇭 ✨creative journaling 💌krisydays@gmail.com ⇩shop & discounts
+    location: "Philippines"
+    followers: 439000
+    engagement: 1524
+    commentsToLikes: 0.021928
+    id: ckbqgsjq6275d0j2364dlddwu
+    verified: false
+    hashtags: "#scrapbooking, #asmr, #selflove, #journal"
   - username: "leigha.howland"
     fullname: >-
       Leigha.Howland
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.031034
     id: ckb9dnkye0w6l0j23sp61ytou
     verified: false
-    hashtags: "#cleaning, #beforeafter, #junkjunkies, #hoarding"
+    hashtags: "#hoarding, #junkjunkies, #cleaning, #beforeafter"
   - username: "jaimebiendessinerlol"
     fullname: >-
       Elise☁
@@ -115,16 +127,4 @@ profiles:
     id: ckbesut95bmic0j236nk7rkkj
     verified: false
     hashtags: "#deep, #foryou, #weird, #paint"
-  - username: "babouit"
-    fullname: >-
-      Barbara D'alessandro
-    bio: >-
-      Barbara, Lara e Lele, Emi, Tsira, Susy. Youtube +195k: Barbara D'alessandro
-    location: "Italy"
-    followers: 6418
-    engagement: 1419
-    commentsToLikes: 0.048692
-    id: ckcjfzb8hbczl0j23fx639vp2
-    verified: false
-    hashtags: "#straykids, #itzy, #bts, #duetto"
 ---

@@ -1,36 +1,24 @@
 ---
-title: Top 10 Food Instagram Influencers In Jakarta In 2023
+title: Top 10 Food Instagram Influencers In Jakarta In 2024
 description: >-
-  Find top food Instagram influencers in Jakarta in 2023. Most popular hashtags: #jktfoodbang #kulinerjakarta #foodie #instafood.
+  Find top food Instagram influencers in Jakarta in 2024. Most popular hashtags: #food #foodie #jktfoodbang #foodphotography.
 platform: Instagram
-hits: 110
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 110 Instagram influencers like this in Jakarta, Indonesia for you to pitch.
+hits: 119
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 119 Instagram influencers like this in Jakarta, Indonesia for you to contact.
 profiles:
-  - username: "stevenwang27"
+  - username: "anggunmiad"
     fullname: >-
-      STEVEN WANG | LIFESTYLE & FOOD
+      Mia Anggun
     bio: >-
-      📮: dearstevenwang@gmail.com Co-Founder of @kaiaproject @dropzilla.id @castor.apparel ! More TIPS at TikTok👇🏻 #SOLATIPS SQUAD
+      (Mom • Lifestyle • Fashion • Beauty • Food) JAKARTA Owner 👗 @anggunmiadd 📧miaanggun1708@gmail.com (081909777792) Momscers, AII
     location: "Indonesia"
-    followers: 80546
-    engagement: 131
-    commentsToLikes: 0.038242
-    id: ck13agjkvqa6t0i199p48mj6z
+    followers: 241369
+    engagement: 151
+    commentsToLikes: 0.014711
+    id: ckaot0uwltvhk0i782i9xj25j
     verified: false
-    hashtags: "#jktinfluencer, #tasty, #babyboy, #lifestyle"
-  - username: "syaimasalsabila"
-    fullname: >-
-      Syaima Salsabila🕊
-    bio: >-
-      كن خيرًا و سيعو د الخير لك Endorsement: 👉🏼 @prabmanagement (use the ‘@‘) 👉🏼 @syaimasm Business enquiries 📩 syaimasm1096@gmail.com APARTEMENT TOUR!👇🏿
-    location: "Indonesia"
-    followers: 448981
-    engagement: 479
-    commentsToLikes: 0.028531
-    id: ckap7tmljlid70i78ldgtldty
-    verified: true
-    hashtags: "#dirumahaja, #patunganuntukberbagithr, #passthespraychallenge, #videocallbete"
+    hashtags: "#pratistaserum, #serumretinol, #pratistaskincare, #pratistaindonesia"
   - username: "matteoguerinoni33"
     fullname: >-
       Matteo Guerinoni One of You✊🏁
@@ -43,18 +31,6 @@ profiles:
     id: ck6tnnenya6wp0j71g4adokug
     verified: true
     hashtags: "#maxnanni, #speed, #matteoguerinoni, #fullthrottle"
-  - username: "jktfoodmap"
-    fullname: >-
-      Kelvin Tan
-    bio: >-
-      Jakarta Food Map #jktfoodmap @myname.kelvin 🙇‍♂️🙏Thanks for following Email for Invitation / Endorsement
-    location: "Indonesia"
-    followers: 125165
-    engagement: 49
-    commentsToLikes: 0.037240
-    id: ck6u7wnpbo3490j71ix0a5xzx
-    verified: false
-    hashtags: "#jktfoodmap, #jfmbogor, #jfmjakut, #jfmjakpus"
   - username: "nitalanaf"
     fullname: >-
       nita || food blogger jkt
@@ -83,48 +59,72 @@ profiles:
     fullname: >-
       Luminousdreamsphotoworks
     bio: >-
-      Potrait . Beauty . Commercial Photographer, Traveller, Food Lover Jakarta Indonesia
+      Potrait . Beauty . Commercial Photographer, @ItsMeTeguh @mas_christian_ Traveller, Food Lover Jakarta Indonesia
     location: "Indonesia"
-    followers: 20622
-    engagement: 326
-    commentsToLikes: 0.049679
+    followers: 20516
+    engagement: 319
+    commentsToLikes: 0.107182
     id: ck5zj65d4h0hy0i148ptafesh
     verified: false
-    hashtags: "#fashionstylist, #swagger, #followme, #beautymakeup"
-  - username: "perutkarets"
+    hashtags: "#bbg, #male, #bodygoals, #asian"
+  - username: "awcavs"
     fullname: >-
-      Jerie Yanti
+      Andrew & Ika
     bio: >-
-      Food Recommendations, Food lovers 📍Jakarta ✉️ DM For Inquiry 👶 : @joiceathaliaa
+      Tour Guide @oyster.tour Food Vlogger #makanseindonesia @jktcoupleculinary @jktfoodposts @heiyika DM for invitation and endorsement
     location: "Indonesia"
-    followers: 261434
-    engagement: 158
-    commentsToLikes: 0.034445
-    id: ck0vx02emwg7o0i19hmphx03i
+    followers: 107917
+    engagement: 21
+    commentsToLikes: 1.901180
+    id: ck5heiy1zt53a0i11z9eh3bpf
     verified: false
-    hashtags: "#fruits, #kulinerindonesia, #bakmi, #buahimport"
-  - username: "jktfoodseeker"
+    hashtags: "#eat, #tourmurah, #instafood, #mukbang"
+  - username: "ajengkamaratih_"
     fullname: >-
-      JKTFoodSeeker
+      Ajeng Kamaratih
     bio: >-
-      Jakarta Based Food Reviewer @mhfadhlan & @rizkyabi12 #jktfoodseeker Invitation / Endorsement 📱 Direct Message 📧 jktfoodseeker@gmail.com
+      💫Content Creator 🎤MC-Moderator in 🇮🇩🇬🇧🇫🇷 🌏Traveler-Storyteller 🍒Beautifully educating, yet entertaining For info: +6281808189469 (Astrid-Manager)
     location: "Indonesia"
-    followers: 56755
-    engagement: 98
-    commentsToLikes: 0.276531
-    id: ck14iiv6tfmku0i19drkzqpqt
+    followers: 268500
+    engagement: 417
+    commentsToLikes: 0.014079
+    id: ck15uug42okay0i1947gmazq8
     verified: false
-    hashtags: "#beautifulcuisines, #jktfoodseeker, #jktfooddestination, #cemilanenak"
-  - username: "synthiatjipto"
+    hashtags: "#instatravel, #beauty, #love, #traveling"
+  - username: "bellyculinary"
     fullname: >-
-      Synthia ☀️ Jkt Food Travel
+      Bellyculinary | JKT TGR FOOD REVIEW
     bio: >-
-      📍Jakarta, ID Food Stylist & Photographer 📸 by @syndrunomy with Canon EOS R DM for enquiry #syndru
+      Jakarta - Based Food Enthusiast CP : 081284663842 (Cindy)
     location: "Indonesia"
-    followers: 45074
-    engagement: 111
-    commentsToLikes: 0.207820
-    id: ck9wd2udwdtlo0j78b6cch4zo
+    followers: 75873
+    engagement: 155
+    commentsToLikes: 0.321584
+    id: ckaorjnmznj4j0i7804fd0pvp
     verified: false
-    hashtags: "#asmr, #buzzfeedfood, #f52grams, #syndrufairmont"
+    hashtags: "#yummy, #cafe, #kopi, #ayce"
+  - username: "yaheerrr"
+    fullname: >-
+      
+    bio: >-
+      ✨BA @iphonebjm @auraoptik_vet @eya_beauty_official Business iquiries👇🏻
+    location: "Indonesia"
+    followers: 72043
+    engagement: 213
+    commentsToLikes: 0.040828
+    id: ck5ziwkrrgicg0i14me3uzy4k
+    verified: false
+    hashtags: "#banjarmasin, #kuatsetiaphari, #makintambahharmonis, #kesehatantubuh"
+  - username: "yohanes.cahya"
+    fullname: >-
+      YOHANES | JKT - BKS - TGR FOODIES
+    bio: >-
+      Food Enthusiast 🍣🍸 Jakarta - Bekasi - Tangerang 340k Fam on Tiktok ✨ 36k Subs on Youtube ✨ 📩 : yohanescahya@hotmail.com 📞 : 0813 1575 5116 (WA only)
+    location: "Indonesia"
+    followers: 63466
+    engagement: 163
+    commentsToLikes: 0.054882
+    id: ck5hnvt45ohb50i11td8s9x7y
+    verified: false
+    hashtags: "#kulinerviral, #jajananviral, #kulinerjakartaselatan, #jktfoodbang"
 ---

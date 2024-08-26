@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In Canada In 2023
+title: Top 10 Hypebeast TikTok Influencers In Canada In 2024
 description: >-
-  Find top hypebeast TikTok influencers in Canada in 2023. Most popular hashtags: #hypebeast #sneakers #sneakerhead #nike.
+  Find top hypebeast TikTok influencers in Canada in 2024. Most popular hashtags: #hypebeast #sneakers #nike #sneakerhead.
 platform: TikTok
 hits: 33
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat holds 33 TikTok influencers like this in Canada for you to pitch.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 33 TikTok influencers like this in Canada for you to work with.
 profiles:
   - username: "yvngrice"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.009234
     id: ck8f7ukwk37gt0j7865h6i8pw
     verified: false
-    hashtags: "#learnontiktok, #fyp, #yyc, #hypebeastcheck"
+    hashtags: "#yyc, #hypebeastcheck, #notfyp, #sponsored"
   - username: "skyproness"
     fullname: >-
       skyproness
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.026899
     id: ckcjczohy9swl0j23a0yy16bm
     verified: false
-    hashtags: "#diy, #tiktokggt, #sneakers, #foryoupage"
+    hashtags: "#sneakers, #jordan1, #collab, #yeezy"
   - username: "cainbeaudoin"
     fullname: >-
       Cain Beaudoin

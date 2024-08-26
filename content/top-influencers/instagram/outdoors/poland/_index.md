@@ -1,12 +1,24 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Poland In 2023
+title: Top 10 Outdoors Instagram Influencers In Poland In 2024
 description: >-
-  Find top outdoors Instagram influencers in Poland in 2023. Most popular hashtags: #outdoors #polskadziewczyna #winterwonderland #polishgirl.
+  Find top outdoors Instagram influencers in Poland in 2024. Most popular hashtags: #outdoors #polishgirl #polskadziewczyna #poland.
 platform: Instagram
-hits: 224
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 224 Instagram influencers like this in Poland for you to connect with.
+hits: 240
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 240 Instagram influencers like this in Poland for you to connect with.
 profiles:
+  - username: "kimdemus"
+    fullname: >-
+      𝒦𝒾𝓃𝑔𝒶 𝒟𝒾𝒹𝓎𝓀 🤍🕊
+    bio: >-
+      🍀 Happiest In The Outdoors 🏕Hiking, Camping 🤍 Proud Mommy 🤍 🤍 Bikini Fitness 🍽🏋️‍♀️ Food & Gym Life 📩Dieta/Plany treningowe 📍🇵🇱
+    location: "Poland"
+    followers: 35118
+    engagement: 47
+    commentsToLikes: 0.015215
+    id: ck9hccbhnkqlg0j78v3e8llst
+    verified: false
+    hashtags: "#greeneyes, #foodlover, #fitness, #fit"
   - username: "_wilder_things_"
     fullname: >-
       Wilder Things
@@ -23,14 +35,14 @@ profiles:
     fullname: >-
       Ula
     bio: >-
-      Świadome Podróże & Życie 🌍 Travel | Food Recipes l The Alps | Outdoors 🏕
+      Świadome Podróże & Życie 🌍♻️🌱 Bez sekciarskiego optymizmu #allvibes Travel | Food Recipes l The Alps | Outdoors🏕🏂🏔
     location: "Poland"
-    followers: 17984
-    engagement: 715
-    commentsToLikes: 0.035248
+    followers: 18157
+    engagement: 719
+    commentsToLikes: 0.033113
     id: ck15pxr7k05rg0i19dhwxo9a5
     verified: false
-    hashtags: ""
+    hashtags: "#visitaustria, #podr, #gasteinertal, #gastein"
   - username: "ewakalisiewicz"
     fullname: >-
       Ewa Kalisiewicz
@@ -43,6 +55,54 @@ profiles:
     id: ck0u1bwu7whl30i199qor17rc
     verified: false
     hashtags: "#rzucwszystkoichodzwgory, #polishgirl, #switzerlandwonderland, #wingsuitbase"
+  - username: "busemprzezswiat"
+    fullname: >-
+      Busem Przez Świat (Bus Around The World)
+    bio: >-
+      Ola, Gaja i Karol. Podróżnicy, blogerzy, youtuberzy, autorzy 10 książek. Kolorowy bus, vanlife i podróże samochodowe
+    location: "Poland"
+    followers: 145836
+    engagement: 505
+    commentsToLikes: 0.021276
+    id: ck0w1vty7ldpg0i19et0pkiu1
+    verified: false
+    hashtags: "#travelphotography, #ba, #travelfamily, #poland"
+  - username: "michal.kusio"
+    fullname: >-
+      Michał Kusio
+    bio: >-
+      🕺 Lifestyle | Warszawa ❤️ @anastasiia.viv 📮 Współpraca: mkusio@onet.eu / DM
+    location: "Poland"
+    followers: 49837
+    engagement: 280
+    commentsToLikes: 0.034454
+    id: ckapcm1is4b470i787t8mkngu
+    verified: false
+    hashtags: "#ootd, #prezent, #holiday, #zdrowystylzycia"
+  - username: "mojdommojemiejsce"
+    fullname: >-
+      Kasia Stefaniak, inspiracje, dom, ogrod, farmhouse
+    bio: >-
+      Dom, pasja, codzienność. DIY porady, inspiracje. Urządzam dom i buduje nowy w stylu amerykańskiej farmy. Kontakt, współpraca📪kstefaniak@op.pl
+    location: "Poland"
+    followers: 370536
+    engagement: 91
+    commentsToLikes: 0.049255
+    id: ck5c0h4s6t4oo0i112g8czroj
+    verified: false
+    hashtags: "#myinteriorstyle, #livingroom, #homedesign, #gardenlove"
+  - username: "keepcalm_drinkcoffee"
+    fullname: >-
+      Marta Kotarska
+    bio: >-
+      #books #coffee #tatry #littlethings #photography Zapraszam do współpracy ▶ instacoffeetime@gmail.com 📩❤
+    location: "Poland"
+    followers: 17759
+    engagement: 62
+    commentsToLikes: 0.011619
+    id: ck14hqfihbm190i193l64lmbb
+    verified: false
+    hashtags: "#wanderlust, #coffeelover, #booknerdigans, #bookaholic"
   - username: "meles.eweles"
     fullname: >-
       𝐄𝐰𝐞𝐥𝐢𝐧𝐚
@@ -67,64 +127,4 @@ profiles:
     id: ck9h9uz80a2cw0j78a3spam51
     verified: false
     hashtags: "#lifeisgood, #outdoors, #outfitoftheday, #autumnvibes"
-  - username: "michal.kusio"
-    fullname: >-
-      Michał Kusio
-    bio: >-
-      📮 Współpraca: mkusio@onet.eu / DM ❤️ @anastasiia.viv 🎶 Tiktok: wrytmiezycia 🕺 Lifestyle 🇵🇱 Warsaw Boy
-    location: "Poland"
-    followers: 50018
-    engagement: 313
-    commentsToLikes: 0.042652
-    id: ckapcm1is4b470i787t8mkngu
-    verified: false
-    hashtags: "#stylegoals, #motywacja, #fashionlook, #zdrowystylzycia"
-  - username: "gniew.o.mir"
-    fullname: >-
-      Gniewomir Knapski
-    bio: >-
-      Opowieść o pasji i radości, którą niesie szlak. Dołączysz❓ Wysokie góry🏔 | Podróże✈️ | Uśmiech🤠| Prelekcje🎤
-    location: "Poland"
-    followers: 5812
-    engagement: 1620
-    commentsToLikes: 0.029275
-    id: ck0w5e1fd36l20i19l3g604uh
-    verified: false
-    hashtags: "#jestpieknie, #zlotemysli, #przyrodapolska, #rado"
-  - username: "swiat_wloczykija"
-    fullname: >-
-      Maciej 👣
-    bio: >-
-      🏔Po górach, dolinach włóczę się by żyć!🥾🌍 📸 FOTOGRAFIA #swiatwloczykija „W górach, ale bez ciebie. I świat - brzydszy o radość.”
-    location: "Poland"
-    followers: 13938
-    engagement: 1136
-    commentsToLikes: 0.008693
-    id: ck14j0hq7i0eq0i19v5xcbz1q
-    verified: false
-    hashtags: "#mountains, #przygoda, #tatrasadventures, #polskawobiektywie"
-  - username: "na_na_ana_"
-    fullname: >-
-      Ania Białoń
-    bio: >-
-      Aktywne konto ➡️ @portotheirishsetter ❗️ Należę do zespołu @revolutionrace ⛰ B E S K I D Y 📍Bielsko-Biała, Polska
-    location: "Poland"
-    followers: 3153
-    engagement: 1868
-    commentsToLikes: 0.050664
-    id: ck15resd67kow0i19hh3tqr9m
-    verified: false
-    hashtags: "#naturelovers, #adventure, #dziewczynykfs, #voguemagazine"
-  - username: "livepastellife"
-    fullname: >-
-      m a j a   m a j
-    bio: >-
-      📍R e y k j a v í k 🇮🇸 📽Life of a •content creator •digital creator •fashion lover 👩🏼‍💼Social Media Manager @looks_by_luks #travellover
-    location: "Poland"
-    followers: 7420
-    engagement: 958
-    commentsToLikes: 0.085961
-    id: ck0w6bqx17tkw0i19dg7wi7s8
-    verified: false
-    hashtags: "#outdoors, #couplegoals, #hat, #islandia"
 ---

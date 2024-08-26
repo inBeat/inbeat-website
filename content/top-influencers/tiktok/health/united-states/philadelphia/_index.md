@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Philadelphia In 2023
+title: Top 10 Health TikTok Influencers In Philadelphia In 2024
 description: >-
-  Find top health TikTok influencers in Philadelphia in 2023. Most popular hashtags: #duet #fyp #greenscreen #foryou.
+  Find top health TikTok influencers in Philadelphia in 2024. Most popular hashtags: #duet #fyp #greenscreen #foryou.
 platform: TikTok
 hits: 4
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our platform has 4 TikTok influencers like this in Philadelphia, United States for you to contact.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 4 TikTok influencers like this in Philadelphia, United States for you to connect with.
 profiles:
   - username: "markbullet"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.123626
     id: ckb96zn1ap9h50j23p5nxhv5e
     verified: false
-    hashtags: "#fyp, #duet, #1975, #matthealy"
+    hashtags: "#matthealy, #duet, #1975, #fyp"
   - username: "johnnyhammersticks"
     fullname: >-
        Colin 
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.124601
     id: ck80oq6thj7880j786k3lasrq
     verified: false
-    hashtags: "#wealthy, #entrepreneur, #stockmarket, #greenscreensticker"
+    hashtags: "#wealthy, #bitcoin, #expensive, #investor"
   - username: "nataliejuliet"
     fullname: >-
       <3
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.041199
     id: ck8savqlr3vd90j78r9uznp9c
     verified: true
-    hashtags: "#wlw, #fyp, #xyzbca, #lgbt"
+    hashtags: "#fyp, #xyzbca, #wlw, #recovery"
   - username: "lexinimmo"
     fullname: >-
       Lexinimmo
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.301311
     id: ckbwejjfw1nji0j23hi2y641u
     verified: false
-    hashtags: "#thesuicidesquadmovie, #fatpositivty, #fatphobiaisnotcute, #cleargenius"
+    hashtags: "#welcomeback, #fatpositivty, #dontquityourdaydream, #plussizefashion"
   - username: "sunshineceee"
     fullname: >-
       Cee :)

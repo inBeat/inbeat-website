@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Ukraine In 2023
+title: Top 10 Makeup TikTok Influencers In Ukraine In 2024
 description: >-
-  Find top makeup TikTok influencers in Ukraine in 2023. Most popular hashtags: #makeup #hairstyle #funny.
+  Find top makeup TikTok influencers in Ukraine in 2024. Most popular hashtags: #makeup #hairstyle #friend.
 platform: TikTok
 hits: 16
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: inBeat has 16 TikTok influencers like this in Ukraine for you to contact.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 16 TikTok influencers like this in Ukraine for you to pitch.
 profiles:
   - username: "osennyaya_kate"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.003810
     id: ck9ev8iqoh78n0j787bxxk1ef
     verified: false
-    hashtags: "#hairstylest, #hairstyle, #makeuptutoria, #makeupgoal"
+    hashtags: "#makeupgoal, #beautyblogging, #beautyfullgirl, #makeuptutoria"
   - username: "vsco__honey_"
     fullname: >-
       ✰︎ 🍯𝚟𝚜𝚌𝚘🍯 ✰︎

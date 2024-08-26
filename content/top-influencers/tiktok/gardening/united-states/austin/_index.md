@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening TikTok Influencers In Austin In 2023
+title: Top 10 Gardening TikTok Influencers In Austin In 2024
 description: >-
-  Find top gardening TikTok influencers in Austin in 2023. Most popular hashtags: #gardening #stitch #garden #summer.
+  Find top gardening TikTok influencers in Austin in 2024. Most popular hashtags: #gardening #stitch #garden #summer.
 platform: TikTok
 hits: 4
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 4 TikTok influencers like this in Austin, United States for you to work with.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our platform holds 4 TikTok influencers like this in Austin, United States for you to collaborate.
 profiles:
   - username: "dezz512"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.096042
     id: ckc8ds8tf9ajn0j23p7pq0igp
     verified: false
-    hashtags: "#chickens, #chickencoop, #gardener, #urbanchickens"
+    hashtags: "#gardentip, #chickenmom, #gardentok, #chickencoop"
   - username: "jessica_strand"
     fullname: >-
       Jessica-Strand
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.309111
     id: ckc8xfm28lcen0j23p1lup6zq
     verified: false
-    hashtags: "#gardening, #garden, #summer, #growfoodnow"
+    hashtags: "#growfoodnow, #gardening, #vacation, #garden"
   - username: "wholesomeroots"
     fullname: >-
       WholesomeRoots
@@ -85,12 +85,12 @@ profiles:
     bio: >-
       🪴Steph🪴 cottagecore gardening and travel ‼️Taxidermist‼️ Insta: nirian_vigora
     location: "United States"
-    followers: 3683
-    engagement: 2029
-    commentsToLikes: 0.034276
+    followers: 3804
+    engagement: 2044
+    commentsToLikes: 0.029445
     id: ckb10ql6ep92k0j2385rk4qy2
     verified: false
-    hashtags: "#frogtiktok, #plants, #frog, #lgbt"
+    hashtags: "#cottagecore, #lgbt, #frog, #frogtiktok"
   - username: "levelupirl"
     fullname: >-
       levelupirl

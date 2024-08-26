@@ -1,24 +1,96 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Mumbai In 2023
+title: Top 10 Fashion Instagram Influencers In Mumbai In 2024
 description: >-
-  Find top fashion Instagram influencers in Mumbai in 2023. Most popular hashtags: #india #mumbai #instagram #fashion.
+  Find top fashion Instagram influencers in Mumbai in 2024. Most popular hashtags: #mumbai #fashion #india #trending.
 platform: Instagram
-hits: 1006
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform has 1006 Instagram influencers like this in Mumbai, India for you to pitch.
+hits: 1382
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 1382 Instagram influencers like this in Mumbai, India for you to work with.
 profiles:
-  - username: "kaustubh_gavhane_"
+  - username: "crazy_busy_mom"
     fullname: >-
-      
+      Richa Gautam
     bio: >-
-      🎗Born To Win 🎗 Mister Earth Air 🌏 2018 Mister Earth India 🇮🇳 2018 MuscleMania India Teenage Winner 2017🏆 👻 :- kaustubhgavhane
+      Parenting/ Lifestyle/Education/Fashion Mumbai DM or Email for collaboration
     location: "India"
-    followers: 6844
-    engagement: 739
-    commentsToLikes: 0.028873
-    id: ck5cibdevsc810i11w5mjlco9
+    followers: 265526
+    engagement: 1170
+    commentsToLikes: 0.006432
+    id: ckaoqwkhhkqle0i78ff5307r9
     verified: false
-    hashtags: "#goa2021, #india, #hyderabad, #misterearthindia"
+    hashtags: "#fashioninfluencer, #lifestyleinfluencer, #mumbai, #fashion"
+  - username: "sarashan_"
+    fullname: >-
+      Sarahana Shanker
+    bio: >-
+      creative 📸 and parts of life unfiltered beauty & fashion 🪐 mumbai | pune | qatar 📩 : saraxhana@gmail.com
+    location: "India"
+    followers: 76080
+    engagement: 1447
+    commentsToLikes: 0.017355
+    id: ckysiii7ewfp70j23twpszry4
+    verified: false
+    hashtags: "#fyp, #explore, #india, #trending"
+  - username: "its_.faruuuu"
+    fullname: >-
+      𝐒𝐚𝐫𝐟𝐚𝐫𝐚𝐳 𝐤𝐡𝐚𝐧 👑
+    bio: >-
+      𝓕𝓪𝓼𝓱𝓲𝓸𝓷• 𝑳𝒊𝒇𝒆𝒔𝒕𝒚𝒍𝒆• 𝓒𝓻𝓮𝓪𝓽𝓸𝓻~ 💓✨ Dm for paid promotions📩 Manage by @btw_aamish__
+    location: "India"
+    followers: 45415
+    engagement: 678
+    commentsToLikes: 0.012730
+    id: ck5heqhicu9m50i11ez4w5p06
+    verified: false
+    hashtags: "#instagram, #makeup, #collaboration, #sad"
+  - username: "wassupakash"
+    fullname: >-
+      AKASH  SINGH
+    bio: >-
+      OM NAMAH SHIVAY 🕉️
+    location: "India"
+    followers: 311488
+    engagement: 277
+    commentsToLikes: 0.022267
+    id: ck9hct2tumutg0j78zxi5z4za
+    verified: false
+    hashtags: "#wassupakash, #india, #trending, #men"
+  - username: "makeitupwithsimmy"
+    fullname: >-
+      Simcity
+    bio: >-
+      I switch up aesthetics every once in a while! 📍 Mumbai 🔖 @makeitupbysimmy Extras @btswsimcity
+    location: "India"
+    followers: 17204
+    engagement: 173
+    commentsToLikes: 0.046608
+    id: ck138uubni4zs0i19idov7qcd
+    verified: false
+    hashtags: "#makeup, #girl, #hair, #makeupbyme"
+  - username: "naveed_patel_46"
+    fullname: >-
+      𝗡𝗔𝗩𝗘𝗘𝗗_𝗣𝗔𝗧𝗘𝗟_46 💥🇸🇦
+    bio: >-
+      🔥𝖆𝖑𝖍𝖆𝖒𝖉𝖚𝖑𝖎𝖑𝖑𝖆𝖍 🦁👑𝗸𝗵𝘄𝗮𝗷𝗮 𝗷𝗶 ♛ 🕊️ __𝙄𝙉𝙁𝙇𝙐𝙀𝙉𝘾𝙀𝙍 | 𝙔𝙊𝙐𝙏𝙐𝘽𝙀𝙍 | 𝘾𝙍𝙀𝘼𝙏𝙀𝙍📌 __𝙄𝙉𝙉𝘼𝙇𝙇𝘼𝙃𝘼 𝙈𝘼 𝙎𝘼𝘽𝙄𝙍𝙀𝙀𝙉 __☝️ __𝘿𝙈 𝙁𝙊𝙍 𝙋𝙍𝙊𝙈𝙊𝙏𝙄𝙊𝙉 & 𝘽𝙐𝙎𝙄𝙉𝙀𝙎𝙎_💸 @naveedpatel_46
+    location: "India"
+    followers: 473762
+    engagement: 69
+    commentsToLikes: 0.013147
+    id: ck9wgazsnsmae0j785zzi70s2
+    verified: false
+    hashtags: "#videoadvertising, #view, #music, #showreel"
+  - username: "mannshindephotography"
+    fullname: >-
+      B M SHINDE
+    bio: >-
+      MANN SHINDE I turn talents to ⭐️, Photographer & Model trainer who can help you achieve your dreams. Glamour• Portraits 📍Mumbai & London🛩️
+    location: "India"
+    followers: 202543
+    engagement: 62
+    commentsToLikes: 0.027227
+    id: ck0vyyu7v6ge50i19pq7cjkvk
+    verified: false
+    hashtags: "#fashionshoot, #mumbai, #northeastdiva2023, #missassamorg"
   - username: "bigda_nawa_8055"
     fullname: >-
       🇳 🇮 🇹 🇮 🇳 ( NAAM TO SUNA HOGA)
@@ -43,88 +115,16 @@ profiles:
     id: ckaos06fjpk3t0i78gj2kok05
     verified: false
     hashtags: "#couple, #tiktok, #indianphotography, #fashion"
-  - username: "tina_jain27"
+  - username: "divya_saurabh_kedar"
     fullname: >-
-      TINA JAIN 👑
+      Divya Saurabh Kedar
     bio: >-
-      It’s Cool To Be Kind. 🕊 Spiritual Butterfly ✨ Athlete • Model• Aspiring Lawyer And sometimes, I write.✍🏻
+      👩🏻 Model/fashion blogger 📍 Ulhasnagar- Mumbai 🗨️Snapchat- gadaiwaldivya95 📧 divyaSkedar@gmail.com
     location: "India"
-    followers: 8798
-    engagement: 828
-    commentsToLikes: 0.074572
-    id: ck8t7e3fhggsy0j78anny9ayr
+    followers: 97102
+    engagement: 719
+    commentsToLikes: 0.014871
+    id: ck5zvfzge45tx0i1435ig00d8
     verified: false
-    hashtags: "#reels, #instareels, #hakunamatata, #instadaily"
-  - username: "purtika_shree_dutt"
-    fullname: >-
-      Purtika
-    bio: >-
-      🎩Theatre Artist || Model || Youtuber || Fashion Blogger 🤝Follow- @rhythmiccreations 📸DM for Photo & Video Shoot in Lucknow ❤Tribute to Irrfan Khan
-    location: "India"
-    followers: 5225
-    engagement: 859
-    commentsToLikes: 0.163373
-    id: ck6uexjfvtmhk0j71h64cqk09
-    verified: false
-    hashtags: "#lucknowyoutuber, #portraitphotography, #lucknowites, #mumbaiblogger"
-  - username: "hasif_____"
-    fullname: >-
-      🦜/ محمد حاسف
-    bio: >-
-      ↺ ➤@sreenathbhasi • ➤𝘺𝘶𝘱,𝘪' 𝘮 𝘫𝘶𝘴𝘵 𝘢𝘯𝘰𝘵𝘩𝘦𝘳 𝘪𝘯𝘴𝘵𝘢𝘨𝘳𝘢𝘮 𝘪𝘯𝘧𝘭𝘶𝘦𝘯𝘤𝘦𝘳
-    location: "India"
-    followers: 14091
-    engagement: 704
-    commentsToLikes: 0.084724
-    id: ck9hb76a8fo5z0j78ebk2mxki
-    verified: false
-    hashtags: "#kochi, #kannur, #malayalam, #thrissur"
-  - username: "aaryavora"
-    fullname: >-
-      Aarya vora || India 🇮🇳
-    bio: >-
-      I travel solo to know the real me 🧚 Travelling with #sherni 🚘 Managed by: Ignite Edge 📧 aaryavora@missmalini.com YouTube channel "Aarya vora"
-    location: "India"
-    followers: 655286
-    engagement: 45
-    commentsToLikes: 0.053411
-    id: ck0udvjx1jwz80i19boqab27g
-    verified: true
-    hashtags: "#travelblogger, #indiantravelblogger, #boireeltime, #mountainview"
-  - username: "iamsamarthverma"
-    fullname: >-
-      Samarth Verma Official🇮🇳
-    bio: >-
-      Starboy⭐️ Main SAMAЯTH hoo💎 Artist | Dancer | Actor | Content Creator ⭐️ Town boy with Big dreams I've not come here to compete,I'm here to rule🎭
-    location: "India"
-    followers: 2303
-    engagement: 1991
-    commentsToLikes: 0.089086
-    id: ck8wf5jayf5qq0j78d23wk8qv
-    verified: false
-    hashtags: "#casting, #iamcoming2021, #instabollywood, #smile"
-  - username: "muasakshi_"
-    fullname: >-
-      Mua Sakshi Madhani
-    bio: >-
-      - Glam Blush || Namrata Soni || Stylicious by Sam -Certified Makeup Artist -DM for collaborations and paid shoots 📍Mumbai Subscribe to my YouTube 👇
-    location: "India"
-    followers: 3309
-    engagement: 138
-    commentsToLikes: 0.020848
-    id: ck0vyyuf76gff0i19pzu2y5ff
-    verified: false
-    hashtags: "#mumbai, #shooting, #quarantinelife, #makeupblog"
-  - username: "pm.photography_pranitmanjarekr"
-    fullname: >-
-      PRANIT  MANJAREKAR | INDIA 🇮🇳
-    bio: >-
-      -[ Photography 📸 addicted ] -[ Wedding • Prewedding • fashion • portrait ] • MUMBAI 📍 DM For collaboration 📩 pranitmanjarekar34@gmail.com
-    location: "India"
-    followers: 26123
-    engagement: 459
-    commentsToLikes: 0.013508
-    id: ck14hh4vxab010i19gqsw1uvt
-    verified: false
-    hashtags: "#portraitmode, #marathistatus, #marathimeme, #look"
+    hashtags: "#instafashion, #instalike, #blogger, #instablogger"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Houston In 2023
+title: Top 10 Health TikTok Influencers In Houston In 2024
 description: >-
-  Find top health TikTok influencers in Houston in 2023. Most popular hashtags: #fyp #foryou #foryoupage #houston.
+  Find top health TikTok influencers in Houston in 2024. Most popular hashtags: #fyp #foryoupage #houston #foryou.
 platform: TikTok
 hits: 23
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our database has 23 TikTok influencers like this in Houston, United States for you to collaborate.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 23 TikTok influencers like this in Houston, United States for you to contact.
 profiles:
   - username: "farhan_siddiqui3"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ck7zo3dqqhf320j7876opih0w
     verified: false
     hashtags: "#foryoupage, #dog, #greenscreen, #fyp"
-  - username: "djasharofficial"
-    fullname: >-
-      Justin Ashar
-    bio: >-
-      Pug Life Records
-    location: "United States"
-    followers: 47100
-    engagement: 457
-    commentsToLikes: 0.063717
-    id: ckcj7ret46svx0j23niif31b4
-    verified: false
-    hashtags: "#puglife, #foryou, #electricitygame, #fyp"
   - username: "samminadine"
     fullname: >-
       sammi
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.100120
     id: ckbqh05mr2e100j23m4hgt3h9
     verified: false
-    hashtags: "#fyp, #skincare, #texas, #houston"
+    hashtags: "#skincare, #texas, #houston, #fyp"
   - username: "lorenazurc"
     fullname: >-
       Lovena
@@ -127,4 +115,16 @@ profiles:
     id: ck9nie2epgu1r0j78dhvgzwje
     verified: false
     hashtags: "#fyp, #tiktok, #travel, #houston"
+  - username: "drjaniedoan"
+    fullname: >-
+      Dr. Janie Doan
+    bio: >-
+      Wife. Mommy. Pediatrician. Houston, Texas www.cyfairpediatrics.com @drjaniedoan
+    location: "United States"
+    followers: 3513
+    engagement: 284
+    commentsToLikes: 0.015644
+    id: ckd0d8iuwczif0j23ykaccstv
+    verified: false
+    hashtags: "#covid19, #fyp, #humor, #momsoftiktok"
 ---

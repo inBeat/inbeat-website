@@ -1,24 +1,84 @@
 ---
-title: Top 10 Vegan Instagram Influencers In San Antonio In 2023
+title: Top 10 Vegan Instagram Influencers In San Antonio In 2024
 description: >-
-  Find top vegan Instagram influencers in San Antonio in 2023. Most popular hashtags: #vegan #dessert #familytime.
+  Find top vegan Instagram influencers in San Antonio in 2024. Most popular hashtags: #vegan #sponsored #texasvegan #dessert.
 platform: Instagram
-hits: 5
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 5 Instagram influencers like this in San Antonio, United States for you to connect with.
+hits: 12
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 12 Instagram influencers like this in San Antonio, United States for you to contact.
 profiles:
-  - username: "shelbizleee"
+  - username: "wokeuplikedez"
     fullname: >-
-      SHELBI ⟜Sustainability Vlogger
+      Desiree Alexis-Kae Mize
     bio: >-
-      ≋ Zero Waste ⋒ LGBT | Plant Based ✎ BS EnvSci “You cannot do all the good that the world needs, but the world needs all the good that you can do”©
+      Follow me on my journey to finding my best self ✨ 🎉 ⇩ 160 pounds 🎉 📍California 🌴 🐰@buffbunny_collection | code DEZ 🌟
     location: "United States"
-    followers: 60751
-    engagement: 1112
-    commentsToLikes: 0.049847
-    id: ck0vwvqrivtjc0i191nbf8pkf
+    followers: 280670
+    engagement: 24
+    commentsToLikes: 0.051625
+    id: ckn1h1umytl8n0j23tmuy0842
     verified: false
-    hashtags: "#goingzerowaste, #ecoliving, #sustainability, #waronwaste"
+    hashtags: "#gymmotivation, #beforeandafter, #gymrat, #wlsfamily"
+  - username: "sanantoniostephanie"
+    fullname: >-
+      STEPHANIE SANCHEZ
+    bio: >-
+      Just a fluffy Latina sharing happy stuff and 💯realness! From San Antonio to Marble Falls & everywhere else in between! ✨ Life|Food|Fun
+    location: "United States"
+    followers: 15297
+    engagement: 242
+    commentsToLikes: 0.386743
+    id: ck5zjwwoeieuo0i14xzpm7ier
+    verified: false
+    hashtags: "#notanad, #texaslife, #texasinfluencer, #purosanantonio"
+  - username: "gjgunit"
+    fullname: >-
+      Guillermo J Guajardo | Creator | Mentor
+    bio: >-
+      #part107certified International Drone Pilot👨🏻‍✈️ Creator/Owner-@jgwdigital VP-@jgwconstruction ✉️: Social@jgwdigital.com Learning #FPV San Antonio, TX
+    location: "United States"
+    followers: 478643
+    engagement: 48
+    commentsToLikes: 0.016308
+    id: ck0ubkonjeoy20i19c0exag9h
+    verified: false
+    hashtags: "#reelsinstagram, #dronestagram, #reels, #williamalexander"
+  - username: "lanaato"
+    fullname: >-
+      Lana Ato | Family Lifestyle & Travel
+    bio: >-
+      Exploring AUSTIN and BEYOND 🌎 vegan. mom of 2. 🇺🇦🇳🇬 fam. collab@lanaato.com www.lanaato.com
+    location: "United States"
+    followers: 100683
+    engagement: 330
+    commentsToLikes: 0.006596
+    id: ck15qhmp12vtw0i195tjzgrvy
+    verified: false
+    hashtags: "#austinmom, #sxsw2024, #sxswblogger, #sponsored"
+  - username: "kindred.vegan.souls"
+    fullname: >-
+      Malinda | Vegan Food + Beauty
+    bio: >-
+      🌱 Vegan Comfort Food 🐰Cruelty-Free + Vegan Skincare ⭐️Dallas, TX Living + Travel
+    location: "United States"
+    followers: 30470
+    engagement: 209
+    commentsToLikes: 0.064168
+    id: ckmw1citq6bab0j23xobhxbva
+    verified: false
+    hashtags: "#dallasvegan, #dfwvegan, #veganjunkfood, #northtexasvegans"
+  - username: "thecolorfulcourtney"
+    fullname: >-
+      Courtney McCullagh☘️
+    bio: >-
+      📍Dallas, TX {& beyond} vegan eats 🌱 Writer/Journalist ✍🏻👩🏻‍💻 Social Media Agency Founder 📲 Bus 🚌 Tour Host 🎤 Email to connect 📧
+    location: "United States"
+    followers: 13627
+    engagement: 81
+    commentsToLikes: 0.088900
+    id: ckmw1cilc6b6s0j23jkzmsurj
+    verified: false
+    hashtags: "#texasvegans, #dallasvegan, #veganicecream, #smallbusinessowner"
   - username: "modernveganfam"
     fullname: >-
       Modern Vegan Familia
@@ -30,7 +90,31 @@ profiles:
     commentsToLikes: 0.107700
     id: ck0vw3p88rylr0i19by1o7z2o
     verified: false
-    hashtags: "#atxvegan, #wfpb, #healthyfood, #topveganplaces"
+    hashtags: "#healthyfood, #bestofvegan, #vegan, #plantbased"
+  - username: "lexiemait"
+    fullname: >-
+      Lexie Maitland
+    bio: >-
+      📍TAMPA LIFESTYLE & COMPETITION PREP COACH @teamprophysique @angelcompetitionbikinis // @theshoefairy_ Bachelors in Exercise Phys 📚 YOUTUBER📹⬇️
+    location: "United States"
+    followers: 14892
+    engagement: 247
+    commentsToLikes: 0.074243
+    id: ckqm27uazttkk0j23qaqtyzmk
+    verified: false
+    hashtags: "#fitlife, #truenovicebikini, #acbikinis, #contestprep"
+  - username: "you_had_me_at_halal"
+    fullname: >-
+      Mir | Halal Foodie | Houston, Dallas, & Beyond!
+    bio: >-
+      📍HTX & DFW The best in HALAL Food in Texas and beyond! Founder: @houstonhalalfest @houstonmuslimmarket 📩 DM for Collabs
+    location: "United States"
+    followers: 66529
+    engagement: 81
+    commentsToLikes: 0.171891
+    id: ckmw1hf2q83i10j23vu7ut770
+    verified: false
+    hashtags: "#houston, #foodforfoodies, #houstonhalal, #houstonfoodtrucks"
   - username: "dacrown_lifestyle"
     fullname: >-
       Travel Lover 🛫
@@ -43,88 +127,4 @@ profiles:
     id: ckaoz1m5qjzpl0i78gzg55ibe
     verified: false
     hashtags: "#dronephotography, #dacrownlifestyle, #forest, #powder"
-  - username: "freethechi"
-    fullname: >-
-      FREE THE CHI! Ⓥ
-    bio: >-
-      @FreeTheChi fights for chihuahuas in need of loving homes. Join the Chihuahua Liberation Front and help us FREE THE CHI. Until every cage is empty!💥👊💥
-    location: "United States"
-    followers: 28980
-    engagement: 609
-    commentsToLikes: 0.047792
-    id: ck0tvozzsc7s20i19yz0jx2kf
-    verified: false
-    hashtags: "#chihuahua, #senior, #adoption, #chihuahuasofinstagram"
-  - username: "gastroartistry"
-    fullname: >-
-      Gastronome
-    bio: >-
-      🔖Appreciating the art in the culinary world. 🔖sponsored post on request (mail or dm)
-    location: "United States"
-    followers: 91099
-    engagement: 109
-    commentsToLikes: 0.008310
-    id: ck15suyrjexkp0i19rpmnsqfn
-    verified: false
-    hashtags: "#theartofplating, #instablogger, #repost, #foodblogfeed"
-  - username: "danascruggs"
-    fullname: >-
-      Dana Scruggs
-    bio: >-
-      Vegan
-    location: "United States"
-    followers: 43961
-    engagement: 876
-    commentsToLikes: 0.033935
-    id: ck0u9yn1pax240i19k3bololm
-    verified: false
-    hashtags: "#pentax67, #glossier, #outtake, #filmisnotdead"
-  - username: "vegicano"
-    fullname: >-
-      Rudy Ramos
-    bio: >-
-      NYC’s Original Vegan Taquero 🌮 Taquiza (DIY Taco Kit): SOLD OUT 🌮 Order Deadline: Tuesday 5PM 🚚 Free NYC Delivery: Fridays 📋 Menu: Highlights
-    location: "United States"
-    followers: 41084
-    engagement: 121
-    commentsToLikes: 0.032618
-    id: ck135fab314mb0i19g5dgg7mf
-    verified: false
-    hashtags: "#vegan"
-  - username: "jamesaspey"
-    fullname: >-
-      JAMES ASPEY
-    bio: >-
-      Here to share my vegan life, inspire & teach, spread good vibes & increase the✌🏽 TacoCat 🌮🐈 Charity Advisor Soulmate😍 @nickyaspey Vids + more👇🏽
-    location: "United States"
-    followers: 232112
-    engagement: 219
-    commentsToLikes: 0.065059
-    id: ck0w1jkmnjo0m0i19gbi5y6my
-    verified: true
-    hashtags: "#endtheanimalholocaust, #govegan, #seaspiracy, #vegan"
-  - username: "payalia"
-    fullname: >-
-      Payal Shah 🧿
-    bio: >-
-      -Founder / Fine jeweler @LDezen | @Psylish.Jewelry -Web3 ✨ -Plant-Based #VeganPieChallenge 🌱🌞🫶🏽
-    location: "United States"
-    followers: 93676
-    engagement: 402
-    commentsToLikes: 0.030518
-    id: ck0vxkk1jzclh0i191qztnrva
-    verified: true
-    hashtags: "#metgala, #ldezennydiaries, #panik, #failforward"
-  - username: "y0ur.vibe.is.pretty"
-    fullname: >-
-      Joyce Ann Wert Ⓥ
-    bio: >-
-      24 • SOBER • NORMALIZE MENTAL HEALTH #YourExistenceIsPowerful Fentanyl OD Survivor •Idiopathic Hypersomnia 272K TikTok Vegan 🌱 @koalatyboxes
-    location: "United States"
-    followers: 27285
-    engagement: 3188
-    commentsToLikes: 0.009388
-    id: ckzddmzvnbxbk0j23bshvt7i9
-    verified: false
-    hashtags: "#trauma, #relatable, #anxiety, #tired"
 ---

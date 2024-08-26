@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Italy In 2023
+title: Top 10 Barbers TikTok Influencers In Italy In 2024
 description: >-
-  Find top barbers TikTok influencers in Italy in 2023. Most popular hashtags: #barber #barbershop #hair #perte.
+  Find top barbers TikTok influencers in Italy in 2024. Most popular hashtags: #barber #barbershop #hair #perte.
 platform: TikTok
-hits: 16
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database has 16 TikTok influencers like this in Italy for you to collaborate.
+hits: 17
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 17 TikTok influencers like this in Italy for you to pitch.
 profiles:
   - username: "tiger_fade"
     fullname: >-
@@ -35,14 +35,14 @@ profiles:
     fullname: >-
       Davide Greco
     bio: >-
-      400 Mila Instagram @davide_greco_barber Italiano 🇮🇹 clicca qui👇🏾
+      469 Mila Instagram @davide_greco_barber Italiano 🇮🇹 clicca qui👇🏾
     location: "Italy"
-    followers: 125200
-    engagement: 439
-    commentsToLikes: 0.005799
+    followers: 128400
+    engagement: 452
+    commentsToLikes: 0.007758
     id: ckc1xj0501gg60j23bkurney2
     verified: false
-    hashtags: "#hairstyles, #hair, #neiperte, #perte"
+    hashtags: "#hair, #perte, #barber, #hairstyles"
   - username: "giuschi_official"
     fullname: >-
       Giuseppe Schittino
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.010685
     id: ck8vshqkgdm570j78fv3p6tzx
     verified: false
-    hashtags: "#tiktoktaac, #barberstown, #barbershop, #tiktokita"
+    hashtags: "#tiktoktaac, #barberbear, #barbershop, #barberchallenge"
   - username: "mickfonto"
     fullname: >-
       mickfonto
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.025365
     id: ckb9dom8k10w80j23e7s1y9oj
     verified: false
-    hashtags: "#duetto, #fyp, #powerawesome, #greenscreen"
+    hashtags: "#fyp, #powerawesome, #duetto, #effettivocali"
 ---

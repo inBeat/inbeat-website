@@ -1,12 +1,24 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Melbourne In 2023
+title: Top 10 Nutrition Instagram Influencers In Melbourne In 2024
 description: >-
-  Find top nutrition Instagram influencers in Melbourne in 2023. Most popular hashtags: #australia #sydney #plantbased #vegan.
+  Find top nutrition Instagram influencers in Melbourne in 2024. Most popular hashtags: #fitness #melbourne #nutrition #gym.
 platform: Instagram
-hits: 6
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 6 Instagram influencers like this in Melbourne, Australia for you to collaborate.
+hits: 15
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 15 Instagram influencers like this in Melbourne, Australia for you to work with.
 profiles:
+  - username: "weekendsinmelbourne"
+    fullname: >-
+      Melbourne Food, Travel & Activities
+    bio: >-
+      Est 2015 🔸Message our team to be featured 🔸Follow our #melbourne food, travel & activities 📧 weekendsinmelbourne@outlook.com
+    location: "Australia"
+    followers: 31466
+    engagement: 34
+    commentsToLikes: 0.262197
+    id: clsha44e9cpad0k08ye43rjn1
+    verified: false
+    hashtags: "#melbournebrunch, #eatmelbourne, #discovermelbourne, #foodlover"
   - username: "unbeleafablefood"
     fullname: >-
       Jess - Vegan Food Melbourne
@@ -18,19 +30,7 @@ profiles:
     commentsToLikes: 0.475509
     id: ck5c6i25y5hac0i1100fgq43o
     verified: false
-    hashtags: "#melbournedesserts, #vegains, #melbournefoodblogger, #vegan"
-  - username: "bonnee_fahlstrom"
-    fullname: >-
-      BONNEE
-    bio: >-
-      🧜‍♀️ DAINTREE RAINFOREST, TROPICAL QLD AUSSIE MODEL +SUBSTANCE + BEAUTY @bodybybonnee 🐝Live your richest healthiest most beautiful elevated life.
-    location: "Australia"
-    followers: 153751
-    engagement: 70
-    commentsToLikes: 0.044256
-    id: ck15q4iox125y0i19zpqujypm
-    verified: false
-    hashtags: "#daintreerainforest, #crueltyfree, #cleanbeauty, #bodybybonnee"
+    hashtags: "#snacks, #melbournephotographer, #chips, #veganrecipe"
   - username: "ateaspoonofstyle"
     fullname: >-
       Tanaka Tarou
@@ -42,89 +42,89 @@ profiles:
     commentsToLikes: 0.218128
     id: ck15seuspcnp30i19ut0843ge
     verified: false
-    hashtags: "#doughnuts, #flatlays, #smashedavo, #beautifulcuisines"
-  - username: "jennybeeen"
+    hashtags: "#foodstyling, #sydneybars, #sydneylocal, #dapper"
+  - username: "melbournefoodspots"
     fullname: >-
-      Jenny Blenk | Content Creator
+      Shaye | Food Blogger
     bio: >-
-      German living in Brisbane || 22🤍 Naturally introverted, selectively extroverted “JENNYB20” 20% off @princesspollyboutique 💌jenny.em.blenk@gmail.com
+      🤍 @shaye___ 🍽 Capturing the ultimate to-do list in #Melbourne 💌 melbournefoodspots@gmail.com
     location: "Australia"
-    followers: 8147
-    engagement: 644
-    commentsToLikes: 0.205182
-    id: ck5honakipv940i114q4oggvy
-    verified: false
-    hashtags: "#ootd, #goldcoast, #fashiondiares, #health"
-  - username: "jamieazzopardi"
-    fullname: >-
-      Jamie Azzopardi (He/Him)
-    bio: >-
-      🇦🇺🇲🇹🏳️‍🌈🇧🇷🇺🇸 Celebrity Fashion Stylist + Culture Blogger Nomadic Gypsy • 90s Kid 📍Cadi (SYD) Music • Arts • Food • Lifestyle • Travel • Fashion
-    location: "Australia"
-    followers: 167803
-    engagement: 399
-    commentsToLikes: 0.013054
-    id: ck14l0irws96d0i19oitjaa2v
-    verified: false
-    hashtags: "#localsupply, #sneakers, #editorial, #australianfashion"
-  - username: "triedandtastedmelb"
-    fullname: >-
-      Melbourne Food Photographers
-    bio: >-
-      👫🏻 Antonia & James 🍕 Couple who eat way too much 📸 Food Photography ✉️ DM or email us for collabs/to connect!
-    location: "Australia"
-    followers: 8410
-    engagement: 757
-    commentsToLikes: 0.355963
-    id: ck5zn1hwmnlmv0i14ffh9eedm
-    verified: false
-    hashtags: "#invite, #gifted, #collab, #dessertlovers"
-  - username: "jeet_selal"
-    fullname: >-
-      Jeet Selal (Himalayan Stallion)
-    bio: >-
-      S & C, NUTRITION Coach🇦🇺 SPORT Management🇬🇧 FOUNDER Himalayan Stallion @hsf_expo @hsajeetselal ▪️KNOWLEDGE AMB @myproteinin
-    location: "Australia"
-    followers: 903396
-    engagement: 2262
-    commentsToLikes: 0.006091
-    id: ckapasgboxai50i78atufxlox
-    verified: false
-    hashtags: "#warrior, #reelsinstagram, #hsfexpo2023, #mahadev"
-  - username: "rubygracemarks"
-    fullname: >-
-      r u b y g r a c e
-    bio: >-
-      brisbane; @rebelliousgrace_bne - RUBY10 @shredders_nutrition - RUBY10
-    location: "Australia"
-    followers: 23763
+    followers: 2766
     engagement: 894
-    commentsToLikes: 0.052252
-    id: ckap2n0uwzk0o0i78zh5qva2i
+    commentsToLikes: 0.418709
+    id: ck5zwx7l86xol0i14593thzl9
     verified: false
-    hashtags: "#billinibabes"
-  - username: "_stephanielange_"
+    hashtags: "#sbsc, #partner, #crustworthy, #crustpizza"
+  - username: "sophii_maree"
     fullname: >-
-      Stephanie Lange
+      SOPHIE MAREE HULL
     bio: >-
-      🤱Mother + Rocker + Animal Lover 🥰1.5 mil subs on YouTube 📚Studying Holistic Nutrition ⚡️Anti diet culture, pro self love
+      🌎 Online fitness & nutrition coaching @ultra_bodies 👠 Pose with me @natkitneyposingcoach 💪🏼 @ruleoneproteins_au athlete
     location: "Australia"
-    followers: 216351
-    engagement: 276
-    commentsToLikes: 0.015410
-    id: ck15t6quzgmgz0i19t2xc4f5o
-    verified: true
-    hashtags: "#ad, #loungeturns5, #wildchild, #rewild"
-  - username: "holly_dollyy"
-    fullname: >-
-      🦋 Holly
-    bio: >-
-      🌴 Gold Coast 🤓 @aust_sports_nutrition
-    location: "Australia"
-    followers: 65250
-    engagement: 240
-    commentsToLikes: 0.093692
-    id: ck8t3ctsx2s650j78h7tqky4p
+    followers: 70287
+    engagement: 3505
+    commentsToLikes: 0.088005
+    id: clb9x8scx7oq90i23f02h4rwy
     verified: false
-    hashtags: "#gymwear, #tanning, #fitnessmodel, #bikinifitness"
+    hashtags: "#fitchick, #fitnessmumma, #fitfam, #rule1"
+  - username: "kamaldip_kahma_"
+    fullname: >-
+      Kamaldip Singh Kahma
+    bio: >-
+      
+    location: "Australia"
+    followers: 238631
+    engagement: 340
+    commentsToLikes: 0.010374
+    id: ck8wflhmwfwda0j78jpzmwxx7
+    verified: false
+    hashtags: "#kahmagym, #gymlovers, #singh, #gymlife"
+  - username: "nutritionalnancy"
+    fullname: >-
+      Nancy Cicerone
+    bio: >-
+      🍏 Founder @n.c_fit Tailored Nutritional Services Ambassador ⬇️ @_crewofficial @nutritioncapital.vic NANCY10 WAITLIST OPEN 👇
+    location: "Australia"
+    followers: 11365
+    engagement: 310
+    commentsToLikes: 0.083025
+    id: cliu012gp00bc0j08guzegt86
+    verified: false
+    hashtags: "#skinny, #diet, #weightloss, #nutritioncoach"
+  - username: "hashi88fitness1"
+    fullname: >-
+      Harshi Suraweera
+    bio: >-
+      🔹Weightloss>postpartum journey 🔹Lost 42kg naturally 🔹Mama to Aken👶🏻 🔹DM,Email for online coaching⬇️ 🔹Specialising in Weightloss,PostPregnancy bodies
+    location: "Australia"
+    followers: 184798
+    engagement: 143
+    commentsToLikes: 0.012506
+    id: ck8t2c5kbyxa90j78h5n68b8t
+    verified: false
+    hashtags: "#fitlife, #motivation, #lifestyle, #fitmum"
+  - username: "alextioke"
+    fullname: >-
+      Alex Tioke
+    bio: >-
+      📍Gold Coast Content creator/Model TikTok - Alextioke Mom to Bash🐾 charley@neonmgmt.com @neon_model_management
+    location: "Australia"
+    followers: 21524
+    engagement: 67
+    commentsToLikes: 0.051268
+    id: ck5hi40stbjev0i11t7kufunf
+    verified: false
+    hashtags: "#womenempowerment, #stylecrush, #australianinfluencer, #workout"
+  - username: "moniqueeallwood"
+    fullname: >-
+      Mum life, weightloss journey and self care
+    bio: >-
+      Mumma, Wifey and Nurse My journey with my 50kg weight loss Calorie Counting and healthy tips 🍏 #mummyblogger 📸 health, fashion and lifestyle
+    location: "Australia"
+    followers: 6265
+    engagement: 265
+    commentsToLikes: 0.389224
+    id: cksdde2tdnovj0j23ux8omzhh
+    verified: false
+    hashtags: "#lockdown, #bodytransformation, #bodypositive, #mummyblogger"
 ---

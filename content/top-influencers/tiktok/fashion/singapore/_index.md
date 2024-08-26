@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Singapore In 2023
+title: Top 10 Fashion TikTok Influencers In Singapore In 2024
 description: >-
-  Find top fashion TikTok influencers in Singapore in 2023. Most popular hashtags: #fyp #fashion #foryou #tiktoksg.
+  Find top fashion TikTok influencers in Singapore in 2024. Most popular hashtags: #fyp #fashion #foryou #tiktoksg.
 platform: TikTok
 hits: 11
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 11 TikTok influencers like this in Singapore for you to pitch.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 11 TikTok influencers like this in Singapore for you to pitch.
 profiles:
   - username: "boonkaewnaree"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.039402
     id: ckai9nfjt8zda0i78a5ynjnp9
     verified: false
-    hashtags: "#foryou, #tiktoksg, #xyzbca, #foryoupage"
+    hashtags: "#tiktoksg, #fyp, #foryou, #xyzbca"
   - username: "girlstreetshot"
     fullname: >-
       YC-Street
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.022495
     id: ckacco85ci91o0i78awinda89
     verified: false
-    hashtags: "#styleinspo, #whatiwear, #fyp, #tiktoksg"
+    hashtags: "#tiktokoutfits, #styleinspo, #fyp, #outfitideas"
   - username: "constancelaujm"
     fullname: >-
       Constance Lau

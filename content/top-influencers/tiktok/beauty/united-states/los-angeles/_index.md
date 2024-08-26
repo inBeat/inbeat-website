@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Los Angeles In 2023
+title: Top 10 Beauty TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top beauty TikTok influencers in Los Angeles in 2023. Most popular hashtags: #beauty #fyp #losangeles #foryoupage.
+  Find top beauty TikTok influencers in Los Angeles in 2024. Most popular hashtags: #beauty #losangeles #fyp #foryoupage.
 platform: TikTok
-hits: 44
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat has 44 TikTok influencers like this in Los Angeles, United States for you to pitch.
+hits: 46
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our database holds 46 TikTok influencers like this in Los Angeles, United States for you to contact.
 profiles:
   - username: "patriziavilaa"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckan4e8dk9o460i78x8qvqu7s
     verified: false
     hashtags: "#isthisavailable, #foryoupage, #greenscreen, #dailyvlog"
+  - username: "mariaaluisabb"
+    fullname: >-
+      MariaLuisa
+    bio: >-
+      IG: @mariaaluisabb Lifestyle | Fashion | Skincare Thelulubenavides@gmail.com
+    location: "United States"
+    followers: 16300
+    engagement: 460
+    commentsToLikes: 0.040134
+    id: ckb9q730xlspj0j23xo0p4snq
+    verified: false
+    hashtags: "#style, #losangeles, #beauty, #california"
   - username: "v.galeno_arts"
     fullname: >-
       v.galeno_arts
@@ -43,18 +55,18 @@ profiles:
     id: ck7znzfn1gcnz0j78g6c0voll
     verified: true
     hashtags: "#makeuptutorial, #beauty, #skincare, #makeup"
-  - username: "mariaaluisabb"
+  - username: "beautyb_pride"
     fullname: >-
-      MariaLuisa
+      Branika Pride
     bio: >-
-      IG: @mariaaluisabb Lifestyle | Fashion | Skincare Thelulubenavides@gmail.com
+      Branika.howard@gmail.com
     location: "United States"
-    followers: 16300
-    engagement: 460
-    commentsToLikes: 0.040134
-    id: ckb9q730xlspj0j23xo0p4snq
+    followers: 8910
+    engagement: 1024
+    commentsToLikes: 0.036342
+    id: ckbfenrtn8w5b0j2315xbibbh
     verified: false
-    hashtags: "#california, #lifestyle, #beauty, #style"
+    hashtags: "#lovememode, #makemomepic, #viral, #fyp"
   - username: "lauraodegard"
     fullname: >-
       Laura Odegard
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.033471
     id: ck8or69beash70j7851384jqu
     verified: false
-    hashtags: "#beauty, #makeup, #traderjoes, #hair"
+    hashtags: "#foodtok, #yum, #hair, #makeup"
   - username: "oliviapossino"
     fullname: >-
       oliviapossino
@@ -115,16 +127,4 @@ profiles:
     id: ck7znzbu4gbn40j78pytevezy
     verified: false
     hashtags: "#thevillage, #viral, #losangeles, #woodlandhills"
-  - username: "lovemicorazon"
-    fullname: >-
-      Cora
-    bio: >-
-      Cora 💛 📍Los Angeles
-    location: "United States"
-    followers: 31900
-    engagement: 950
-    commentsToLikes: 0.063231
-    id: ck9rnrrwq912c0j783dzleove
-    verified: false
-    hashtags: "#foryou, #foryoupage, #fyp, #revolveinbloom"
 ---

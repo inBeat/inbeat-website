@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Singapore In 2023
+title: Top 10 Fitness Instagram Influencers In Singapore In 2024
 description: >-
-  Find top fitness Instagram influencers in Singapore in 2023. Most popular hashtags: #fitness #gym #japan #travel.
+  Find top fitness Instagram influencers in Singapore in 2024. Most popular hashtags: #singapore #01 #travel #fitness.
 platform: Instagram
-hits: 20
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: inBeat has 20 Instagram influencers like this in Singapore for you to pitch.
+hits: 45
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 45 Instagram influencers like this in Singapore for you to collaborate.
 profiles:
-  - username: "whathebronte"
+  - username: "chefbob.sg"
     fullname: >-
-      Danil Palma
+      Chef Bob
     bio: >-
-      ✖️ Lifestyle | Travel | Fitness 📍 Singapore ✉️ contact@danilpalma.com
+      📍🇸🇬 Family|Faith|Fitness|Food Co-Founder: @9yards.cafe @krush.sg Manager: norlina.norbaidin@gmail.com @thelandmarksingapore @royalpalmocc
     location: "Singapore"
-    followers: 78810
-    engagement: 326
-    commentsToLikes: 0.011725
-    id: ck5hdxfebpvl90i11tbrvfx1s
+    followers: 81367
+    engagement: 4953
+    commentsToLikes: 0.038101
+    id: ck0w5dki634ak0i19n7edoqxr
     verified: false
-    hashtags: "#uipsingapore, #halloween, #halloweenmakeup, #airnzbungychallenge"
-  - username: "jmeteo"
+    hashtags: "#jantankeberet, #genx, #geriatricmillennials, #jantanjoget"
+  - username: "shaun_tupaz"
     fullname: >-
-      Jaime Teo
+      Shaun T | Fitness Professional
     bio: >-
-      Digital Content Creator Fitness/Arts Enthusiast Entrepreneur For enquiries pls email thisisjmeteo@gmail.com
+      ❤️‍🔥I Make Fitness Fun 🎤 I Am An Entertainer
     location: "Singapore"
-    followers: 117482
-    engagement: 120
-    commentsToLikes: 0.023081
-    id: ck8wgf87dh8on0j78z4hexpjv
-    verified: true
-    hashtags: "#schoolhols, #tokyo, #fun, #feelingblessed"
-  - username: "aimeechengbradshaw"
-    fullname: >-
-      Aimee Cheng-Bradshaw
-    bio: >-
-      ✨British-Chinese 🐝Fashion, beauty, fitness ⭒☽ mental health | psychology 🧠
-    location: "Singapore"
-    followers: 114797
-    engagement: 311
-    commentsToLikes: 0.011660
-    id: ck55jn7nsxd3r0i11s2wl5m3n
-    verified: true
-    hashtags: "#ad, #ilovesilkygirl, #sp, #diorholidays"
-  - username: "rachelwongggg"
-    fullname: >-
-      Rachel Wong
-    bio: >-
-      💜 BEAUTY . FITNESS . LIFESTYLE . DOGS 🐾 〰️ Host | Livestream ✉️ rachelwongg@hotmail.com
-    location: "Singapore"
-    followers: 41430
-    engagement: 224
-    commentsToLikes: 0.017592
-    id: ck5zvedfd42qt0i140vr1e7tp
+    followers: 20362
+    engagement: 370
+    commentsToLikes: 0.040133
+    id: ck8sw1awddgas0j78t8i24s7s
     verified: false
-    hashtags: "#sato, #johnfriedasg, #hairmeout, #folligrow"
+    hashtags: "#workout, #fit, #fitness, #spin"
+  - username: "serenefoodology"
+    fullname: >-
+      SG Foodie Lifestyle Cook
+    bio: >-
+      Food♡ Homecooking♡ Lifestyle♡ Fitness♡ Travel Tiktok:Serenefoodology 小红书:新加坡探店Serene #serenefoodologyrecipe #serenefoodologyhomecooking
+    location: "Singapore"
+    followers: 15027
+    engagement: 300
+    commentsToLikes: 0.119124
+    id: clmumxhoalbey0j08bjb4y2kz
+    verified: false
+    hashtags: "#beautyblog, #sgbeauty, #beautysg, #asianbeauty"
+  - username: "explodingbelly"
+    fullname: >-
+      Clara Bean
+    bio: >-
+      Food. Lifestyle. Fitness. Life Coach. 👩‍🍼 of @wasabithemaltipoo 🐶 📬 explodingbelly@gmail.com
+    location: "Singapore"
+    followers: 90579
+    engagement: 274
+    commentsToLikes: 0.007448
+    id: cllzvyvlys06s0j08xnlgg4wf
+    verified: false
+    hashtags: "#ebxmalaysia, #02, #01, #sgfoodie"
   - username: "paulfosterrr"
     fullname: >-
       Paul Foster
     bio: >-
-      Singaporean 🇸🇬 He/Him ♂️ Host🎙️ Actor 🎬 Model 📷 Fitness 💪🏻 Food 🍴 Travel 🛩️ Charity 💞 Eco Conscious Citizen 🌏
+      Singaporean 🇸🇬 Host🎙️ Actor 🎬 Model 📷 Fitness 💪🏻 Food 🍴 Travel 🛩️ Charity 💞 Eco Conscious Citizen 🌏 @crustsingapore Singapore Sustainable Beer 🍺
     location: "Singapore"
-    followers: 37701
-    engagement: 124
-    commentsToLikes: 0.035327
+    followers: 52155
+    engagement: 267
+    commentsToLikes: 0.011208
     id: ck5bzgi1jr3hz0i11m5lwqyhc
     verified: true
-    hashtags: "#fosterthelove, #supportlocal, #abandonedsingapore, #paypalgiveback"
-  - username: "thatmomoffour"
+    hashtags: "#fosterthelove, #communityhomestaynepal, #alwaysrememberingneverforgetting, #samsonitesg"
+  - username: "mandithezebra"
     fullname: >-
-      Dawn Sim
+      Mandi Cheung
     bio: >-
-      Ambassador: @lululemonsg @sport_singapore @skypremiumsg Co-founder @trium.fitness 📧: thatmomoffour.work@gmail.com
+      Travel | Fitness | Wellness | Mental Health 💚Founder: @thehushretreats 💪🏼Instructor: @r10t.sg @jyanyogastudio
     location: "Singapore"
-    followers: 50588
-    engagement: 945
-    commentsToLikes: 0.008265
-    id: ck5qd6i52u1v70i11vuu501jc
+    followers: 12153
+    engagement: 208
+    commentsToLikes: 0.085222
+    id: clm70asdwgm4s0j0896c9n4si
     verified: false
-    hashtags: "#sgig, #giveawaysingapore, #giveawaysg, #sggiveaway"
-  - username: "seowie"
+    hashtags: "#sgfitness, #fitness, #sp, #newyear"
+  - username: "andeecys"
     fullname: >-
-      Shaun Michael Seow
+      ANDEE CHUA 滷蛋
     bio: >-
-      🇸🇬🇳🇱🏃‍♂️🏋🏼‍♂️ Hybrid Athlete: Run, Lift, Jump 📈 Finance, Trader, DeFi, eComm 📸 Commercial Model 📚 BBA @sgsmu ⬇️ Website/Email for Business
+      📍🇸🇬🇹🇼🏳️‍🌈⁣⁣ Fitness | Model | Dancer | Community⁣ LGBTQ+ | Diversity & Inclusion | Travel ⁣⁣ ✨PM/email me for any engagement work
     location: "Singapore"
-    followers: 78971
-    engagement: 61
-    commentsToLikes: 0.009876
-    id: ck8tawy18texb0j783l3vrpsc
-    verified: false
-    hashtags: "#health, #gym, #fitness, #diet"
-  - username: "nattylifts"
+    followers: 139205
+    engagement: 150
+    commentsToLikes: 0.023002
+    id: ck5q1rgx9cezn0i11wnya42r2
+    verified: true
+    hashtags: "#gaytravel, #lgbtq, #sentosa, #tokyo"
+  - username: "hannahchengbradshaw"
     fullname: >-
-      Natalie | Fitness & Lifestyle
+      Hannah Cheng-Bradshaw 🇬🇧🇨🇳
     bio: >-
-      Creator 🇭🇰🇸🇬 💌nattylifts@gmail.com #workoutwithnatty #tagteamhustle ACE CPT/Bootcamp Travel inspo @slaycaydiaries Link for codes & more info ⬇️
+      📍based in sg fashion, fitness, beauty and burgers ♡ eat with me @chefhanbao job inquiries @basicmodels @primomodel
     location: "Singapore"
-    followers: 28055
-    engagement: 33
-    commentsToLikes: 0.315966
-    id: ck5zzflbdbn510i14q7s295bs
+    followers: 160031
+    engagement: 139
+    commentsToLikes: 0.014223
+    id: ck0w3vgcdvhj90i197o4c6b6r
     verified: false
-    hashtags: "#fitnessmotivation, #travel, #nattyliftsabroad, #fitness"
-  - username: "jonbyjonsam"
+    hashtags: "#bpdesilvaxroyalasscher, #royal, #pradafragrances, #longchampxrobertindiana"
+  - username: "zhenggeping"
     fullname: >-
-      Jonsam
+      zhenggeping-Edmund Tay郑各评
     bio: >-
-      Animals have my heart 🐾 “Of course it’s happening inside your head, but why on Earth should that mean it’s not real?”
+      🎥Executive Producer/Director/Actor. Author/Founder of Star Fitness™. E . Producer of movie DELETED. Founder of Celebrities Sports Club (SG)
     location: "Singapore"
-    followers: 15865
-    engagement: 948
-    commentsToLikes: 0.022542
-    id: ck0w6auwr7ous0i19pqq0ci1c
-    verified: false
-    hashtags: "#adoptdontshop, #beachboy, #beachbody, #wkstempledogs"
-  - username: "paulgoor"
+    followers: 82480
+    engagement: 116
+    commentsToLikes: 0.029552
+    id: ck13d6m1u3xmz0i19rx7fkmk0
+    verified: true
+    hashtags: "#zhenggeping, #poweruphachallenge, #ittakestwo, #returnofthecondorheries"
+  - username: "jmeteo"
     fullname: >-
-      Paul Gor 🇹🇼🇭🇰
+      Jaime Teo
     bio: >-
-      Business: 61268850 Roy PTPro: 68263936 @rhinotec_sports_club athlete 折扣碼paulgor 2019 WNBF PRO SHOW 2nd🥈 2019 WNBF SG Overall 2019 IFBB NATURAL 3rd🏆
+      Miss Universe Singapore 2001 / Artist(e) Fitness Enthusiast Entrepreneur @collab.sgskincare For enquiries pls email thisisjmeteo@gmail.com
     location: "Singapore"
-    followers: 69256
-    engagement: 162
-    commentsToLikes: 0.003476
-    id: ck5zroscbwzc10i145mmexlmw
-    verified: false
-    hashtags: "#wnbf, #bolawfamily, #gym, #paul"
+    followers: 117622
+    engagement: 41
+    commentsToLikes: 0.051660
+    id: ck8wgf87dh8on0j78z4hexpjv
+    verified: true
+    hashtags: "#dontsayinehshare, #doitforyou, #thingswedotogether, #jmexrenee"
 ---

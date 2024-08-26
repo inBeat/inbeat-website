@@ -1,60 +1,12 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Los Angeles In 2023
+title: Top 10 Rappers Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top rappers Instagram influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #music #rapper #hollywood.
+  Find top rappers Instagram influencers in Los Angeles in 2024. Most popular hashtags: #losangeles #rapper #love #singer.
 platform: Instagram
-hits: 87
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: inBeat holds 87 Instagram influencers like this in Los Angeles, United States for you to connect with.
+hits: 92
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 92 Instagram influencers like this in Los Angeles, United States for you to pitch.
 profiles:
-  - username: "thebossmannmagazine"
-    fullname: >-
-      The Boss Mann Magazine
-    bio: >-
-      Award-winning publication. Stories that change lives!. Main page Download our App today!! iTunes | Google Play Store Los Angeles, CA
-    location: "United States"
-    followers: 11365
-    engagement: 520
-    commentsToLikes: 0.029661
-    id: ck15u9vk1m4wn0i19isio8z2s
-    verified: false
-    hashtags: "#bosslady, #love, #explorepage, #hollywood"
-  - username: "kitanasavage"
-    fullname: >-
-      Klara Lima
-    bio: >-
-      ✨I’m blessed because I never gave up, stayed myself and believed in myself✨
-    location: "United States"
-    followers: 167963
-    engagement: 185
-    commentsToLikes: 0.023954
-    id: ck6tn1g978y1i0j711h35fnua
-    verified: true
-    hashtags: "#miami, #love, #model, #motivation"
-  - username: "surfwaveatn"
-    fullname: >-
-      surfwav.eatn
-    bio: >-
-      the waviest creature 3K🏄🏽‍♂️🌊 Over 1 million streams on all platforms Music featured on starz tv VA • ATL • LA #LLB 🕊 🪐star traks✨
-    location: "United States"
-    followers: 4174
-    engagement: 542
-    commentsToLikes: 0.086727
-    id: ck6tkmidy4zzi0j71hc1eiyiy
-    verified: false
-    hashtags: "#streetstyle, #losangeles, #streetwear, #hiphop"
-  - username: "aliciagoku_"
-    fullname: >-
-      The Weed Princess 💨💚🔥
-    bio: >-
-      •Mary Jane Enthusiast | Rapper •Delaware✈️ Los Angeles | Alexandria 💍 •Twerk For Goku Out Now On All Platforms! 👇🏽🔥
-    location: "United States"
-    followers: 190096
-    engagement: 405
-    commentsToLikes: 0.019801
-    id: ck5zopf3nr1i40i14uxtltmgl
-    verified: true
-    hashtags: ""
   - username: "christianityhotlineofficial"
     fullname: >-
       Bill Jensen
@@ -91,6 +43,18 @@ profiles:
     id: ck6udlba4lqnr0j7182dndft4
     verified: false
     hashtags: "#privateparty, #costumedesigner, #photoshoot, #headdress"
+  - username: "gsteezybeats"
+    fullname: >-
+      G-STEEZY BEATS
+    bio: >-
+      UNSIGNED MUSIC PRODUCER FROM THE BAY 💣Hiphop/Rap/RnB💣 🔥Mission District, SF, CA🔥 🌊Made radio waves #2019🌊 🧿Link is 👇🏼 below for purchase🧿
+    location: "United States"
+    followers: 2642
+    engagement: 1814
+    commentsToLikes: 0.023949
+    id: ck13b72hmu02c0i19krh423sy
+    verified: false
+    hashtags: "#productionstudio, #atlanta, #needbeats, #musicproducer"
   - username: "awolone"
     fullname: >-
       AWOL ONE
@@ -103,6 +67,30 @@ profiles:
     id: ck5hsditawf1e0i11p2cv4nt3
     verified: false
     hashtags: "#beetlejuice, #speakerface, #bioexorcist, #jointhecloaks"
+  - username: "stealmybeats"
+    fullname: >-
+      ᔕ T E ᗩ ᒪ ᗰ Y ᗷ E ᗩ T ᔕ
+    bio: >-
+      Music Saved My Life
+    location: "United States"
+    followers: 18868
+    engagement: 1018
+    commentsToLikes: 0.037893
+    id: ck5hoz38iqhiv0i11qzd0bvjr
+    verified: false
+    hashtags: "#stealmybeats, #losangeles, #needbeats, #writerfluid"
+  - username: "slic"
+    fullname: >-
+      SLiC
+    bio: >-
+      S.L.I.C | Sports Lifestyle in Culture
+    location: "United States"
+    followers: 299869
+    engagement: 36
+    commentsToLikes: 0.023118
+    id: ck6tthbteam1h0j717vcgsv3x
+    verified: true
+    hashtags: "#bball, #nba, #espn, #lakers"
   - username: "aaronismusic"
     fullname: >-
       Aaron Grooves
@@ -115,16 +103,28 @@ profiles:
     id: ck138jj81gj770i19vzeltwri
     verified: false
     hashtags: "#percussion, #practice, #piano, #jazz"
-  - username: "_kikkoman3"
+  - username: "demolaviolinist"
     fullname: >-
-      KikkoMan3 AKA 9 Milli
+      Demola
     bio: >-
-      #Tr3yWAY 🇯🇵🇺🇸 iTunes Spotify Pandora Amazon Trapanez3 Records™️ @burningbushcocal3.0 @officialhollywoodsfl @kikkoman3fanclub
+      Welcome to my World 🎙️🎻🎵🌟. DM for Booking inquiry Stream my Music . Click on this link ⬇️⬇️⬇️
     location: "United States"
-    followers: 11369
-    engagement: 1662
-    commentsToLikes: 0.015816
-    id: ck5bx7sn9n65e0i11irwqc9xb
+    followers: 168379
+    engagement: 61
+    commentsToLikes: 0.039538
+    id: ck8wdbu2bdm0d0j78nc2caqk4
+    verified: true
+    hashtags: "#musiclovers, #candyshop, #c300, #christmasconcert"
+  - username: "atlantaluxuryhomes_"
+    fullname: >-
+      Trey Williams
+    bio: >-
+      • Celebrity Realtor @treytherealtor_ • Buy | Sell • Residential & Commercial 🏠 • Mentorship Program Sign Up Now‼️ • Credit Repair
+    location: "United States"
+    followers: 193143
+    engagement: 222
+    commentsToLikes: 0.018011
+    id: ck13b73r6u09u0i19gguhz0io
     verified: false
-    hashtags: "#calibud, #highlifemusicfestival, #artist, #sanbernardino"
+    hashtags: "#luxuryhomes, #architecture, #property, #nfl"
 ---

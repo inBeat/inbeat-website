@@ -1,12 +1,60 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Brazil In 2023
+title: Top 10 Rappers Instagram Influencers In Brazil In 2024
 description: >-
-  Find top rappers Instagram influencers in Brazil in 2023. Most popular hashtags: #rapnacional #rap #hiphop.
+  Find top rappers Instagram influencers in Brazil in 2024. Most popular hashtags: #rapnacional #rapbrasil #rememberingogtimes.
 platform: Instagram
-hits: 92
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 92 Instagram influencers like this in Brazil for you to contact.
+hits: 102
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 102 Instagram influencers like this in Brazil for you to work with.
 profiles:
+  - username: "predelladmc011"
+    fullname: >-
+      🗣️ 𝗣𝗥𝗘𝗗𝗘𝗟𝗟𝗔 🗣️
+    bio: >-
+      “𝖋𝖑𝖔𝖜” Pippo Daddy 👶🏻 Rapper do @costagold 🎤 Multi-Platinum-Singer +10x 📀 Ouro & 💿 Platina x2 x3 🏆 CEO: @oghoopers2023 ⛹🏽‍♂️ @twitch: tiopredella 👾
+    location: "Brazil"
+    followers: 1061780
+    engagement: 572
+    commentsToLikes: 0.116250
+    id: ck15tny2vj11h0i1930ccjo0e
+    verified: true
+    hashtags: "#cdauge, #aibb, #rememberingogtimes, #auge"
+  - username: "brunna.vini"
+    fullname: >-
+      Brunna
+    bio: >-
+      Rapper | Empresária @cloewigs contato@brunnavini.com 🐾🐩DAQUELE JEITÃO 🐩🐾
+    location: "Brazil"
+    followers: 21702
+    engagement: 449
+    commentsToLikes: 0.060881
+    id: ck5zm3zarlusi0i14p4hurfc4
+    verified: false
+    hashtags: "#daquelejeitao, #explore"
+  - username: "drikbarbosa"
+    fullname: >-
+      Drik Barbosa
+    bio: >-
+      ✧ Rapper l Cantora | Compositora ✧ Artista na @lab_fantasma ✧ Contato@laboratoriofantasma.com ✧ Ouça meu EP “NÓS” 💿
+    location: "Brazil"
+    followers: 218753
+    engagement: 185
+    commentsToLikes: 0.039983
+    id: ck0txwrbgks820i191npd92ls
+    verified: true
+    hashtags: "#calmarespira, #projeton, #criadocomadidas, #publi"
+  - username: "neidesofia"
+    fullname: >-
+      Fruto Proibido🍎
+    bio: >-
+      🎤 💿RAPPER 🌸INFLUENCER 👩🏽‍💻 EMPRESÁRIA EMBAIXADORA : @yango.angola shows : ‭+244 925 070 085‬
+    location: "Brazil"
+    followers: 1774397
+    engagement: 58
+    commentsToLikes: 0.009527
+    id: ck5hqjqaet7rx0i118chu9oeq
+    verified: true
+    hashtags: "#parar, #agendadejunho, #yango, #amelhordeangola"
   - username: "coebuddy"
     fullname: >-
       BUDDY POKE
@@ -79,52 +127,4 @@ profiles:
     id: ck9hc014vj6770j78giatvx2c
     verified: true
     hashtags: "#filhodorei, #musicabrasileira, #blackbody, #rapbrasil"
-  - username: "manojiu_"
-    fullname: >-
-      Mano Jiu Jitsu
-    bio: >-
-      Rapper e MC 🎙️ @ana.drrposse ♡ ⬇⬇Escute "Sangue Frio" ⬇⬇
-    location: "Brazil"
-    followers: 7395
-    engagement: 857
-    commentsToLikes: 0.045711
-    id: ckaowmgp99i2h0i7822617pxo
-    verified: false
-    hashtags: "#lofibeats, #beat, #beatmaker, #streetstyle"
-  - username: "panterabl4ck"
-    fullname: >-
-      Bl4ckPanther
-    bio: >-
-      MC/RAPPER/NEGAÇA/MODELO/SAGITARIANA Bela dona boladona ✨💯👸🏿
-    location: "Brazil"
-    followers: 4258
-    engagement: 979
-    commentsToLikes: 0.110506
-    id: ck6ufyqhjzx030j71m7q82d5c
-    verified: false
-    hashtags: "#rua, #blackgirlsrock, #maranh, #ancestralidade"
-  - username: "zuymoah"
-    fullname: >-
-      🛸Zuy Moah🛸
-    bio: >-
-      Mãe🦅Rapper Compositora e poetisa 🪐 Apesar de ser filha da terra a minha raça vem das estrelas 🛸 Dona: @nativas_surf Restaurante/chalés/camping
-    location: "Brazil"
-    followers: 17649
-    engagement: 347
-    commentsToLikes: 0.044023
-    id: ck5znzsnqpgz20i14dgauo6l6
-    verified: false
-    hashtags: "#vaiziah, #alunoderayan, #drip, #hiphop"
-  - username: "mcsoffia"
-    fullname: >-
-      MC Soffia
-    bio: >-
-      *Rapper Teen *Publicidade: mcsoffia@mynd8.com.br *Contato shows: contatomcsoffia@hotmail.com
-    location: "Brazil"
-    followers: 326710
-    engagement: 196
-    commentsToLikes: 0.016308
-    id: ck0tzsgnwrfv00i199i2mlbxa
-    verified: true
-    hashtags: "#belezanegra, #stabilobethecolor, #publi, #empoderadachallenge"
 ---

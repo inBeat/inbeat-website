@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Vancouver In 2023
+title: Top 10 Food TikTok Influencers In Vancouver In 2024
 description: >-
-  Find top food TikTok influencers in Vancouver in 2023. Most popular hashtags: #fyp #vancouver #food #canada.
+  Find top food TikTok influencers in Vancouver in 2024. Most popular hashtags: #fyp #vancouver #canada #food.
 platform: TikTok
 hits: 31
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 31 TikTok influencers like this in Vancouver, Canada for you to connect with.
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 31 TikTok influencers like this in Vancouver, Canada for you to pitch.
 profiles:
   - username: "everydayalex"
     fullname: >-
@@ -19,30 +19,18 @@ profiles:
     id: ckb9edsfi1z1z0j23p3kap5s8
     verified: false
     hashtags: "#story, #joke, #fyp, #dating"
-  - username: "dynohoneycha"
-    fullname: >-
-      Trisha Wong
-    bio: >-
-      
-    location: "Canada"
-    followers: 5165
-    engagement: 1189
-    commentsToLikes: 0.026051
-    id: ck8qe4eegr2rz0j78x3x0dk5b
-    verified: false
-    hashtags: "#greenscreen, #haikyuu, #fyp, #wattpad"
   - username: "leanaromen"
     fullname: >-
       Leana
     bio: >-
       My mom says i’m funny Surrey Insta/Snap: LROMEN
     location: "Canada"
-    followers: 9023
-    engagement: 764
-    commentsToLikes: 0.021223
+    followers: 9024
+    engagement: 795
+    commentsToLikes: 0.021056
     id: ckbl6bdux40vx0j236wfzqb62
     verified: false
-    hashtags: "#foryoupage, #surreybc, #fy, #surrey"
+    hashtags: "#fyp, #fy, #surreybc, #surrey"
   - username: "aterrill1"
     fullname: >-
       Aterr
@@ -79,18 +67,6 @@ profiles:
     id: ck8tpri4sql2e0j7896awrxs9
     verified: false
     hashtags: "#funny, #iran, #persian, #america"
-  - username: "monasanghaa"
-    fullname: >-
-      monasangha
-    bio: >-
-      Makeup Artist📍Vancouver, BC IG: @monasangha Email: monasangha@hotmail.com
-    location: "Canada"
-    followers: 18300
-    engagement: 519
-    commentsToLikes: 0.014920
-    id: ckacqmrg71fm50i78qklezgs9
-    verified: false
-    hashtags: "#punjabi, #yvrfood, #vancouverfood, #vancouverfoodie"
   - username: "vancouverfoodie"
     fullname: >-
       Emma Choo
@@ -127,4 +103,28 @@ profiles:
     id: ckafttkhu714m0i783b2fs7d7
     verified: false
     hashtags: "#ittastesdifferent, #canada, #pm, #holidaytiktok"
+  - username: "the__impetus"
+    fullname: >-
+      the__impetus
+    bio: >-
+      🇨🇦Vancouver🇨🇦 Asian Persuasion 🇨🇦Entrepreneur🇨🇦 Slice of Life/ Plumber
+    location: "Canada"
+    followers: 22500
+    engagement: 121
+    commentsToLikes: 0.067729
+    id: ck9jxlqfe19f40j787mdtpm2g
+    verified: false
+    hashtags: "#food, #plumbing, #tools, #tricksofthetrade"
+  - username: "davidfromvancouver"
+    fullname: >-
+      David Orr
+    bio: >-
+      Digital Creator - Vancouver 🇨🇦
+    location: "Canada"
+    followers: 78400
+    engagement: 908
+    commentsToLikes: 0.031610
+    id: ck80ob06lgh4o0j787aboqthb
+    verified: false
+    hashtags: "#learnontiktok, #canada, #tiktokcanada, #foodie"
 ---

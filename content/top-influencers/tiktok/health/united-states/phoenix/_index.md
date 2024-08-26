@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Phoenix In 2023
+title: Top 10 Health TikTok Influencers In Phoenix In 2024
 description: >-
-  Find top health TikTok influencers in Phoenix in 2023. Most popular hashtags: #arizona #phoenix #fyp #healthy.
+  Find top health TikTok influencers in Phoenix in 2024. Most popular hashtags: #arizona #phoenix #healthy #fyp.
 platform: TikTok
 hits: 10
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 10 TikTok influencers like this in Phoenix, United States for you to contact.
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our database has 10 TikTok influencers like this in Phoenix, United States for you to connect with.
 profiles:
   - username: "chris.crawford"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.011991
     id: ck81s3umypsos0j78pk5e81xf
     verified: false
-    hashtags: "#tasty, #snacks, #arizona, #foodtiktok"
+    hashtags: "#hungry, #mexican, #dessert, #mexicantiktok"
   - username: "cuzzinbrucie"
     fullname: >-
       CuzzinBrucie

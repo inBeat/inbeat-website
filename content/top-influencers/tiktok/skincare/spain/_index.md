@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Spain In 2023
+title: Top 10 Skincare TikTok Influencers In Spain In 2024
 description: >-
-  Find top skincare TikTok influencers in Spain in 2023. Most popular hashtags: #fyp #skincare #foryou #parati.
+  Find top skincare TikTok influencers in Spain in 2024. Most popular hashtags: #fyp #skincare #foryou #foryoupage.
 platform: TikTok
 hits: 17
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine holds 17 TikTok influencers like this in Spain for you to pitch.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 17 TikTok influencers like this in Spain for you to connect with.
 profiles:
   - username: "melissabitondo"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.010609
     id: ck904fvc3e8110j78ehh8w2o5
     verified: true
-    hashtags: "#tutorial, #makeupartist, #ad, #elinternadolascumbres"
+    hashtags: "#publi, #maquillaje, #elinternadolascumbres, #tutorial"
   - username: "la_chica_bona"
     fullname: >-
       La chica Bona

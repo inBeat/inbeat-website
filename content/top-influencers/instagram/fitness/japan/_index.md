@@ -1,12 +1,84 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Japan In 2023
+title: Top 10 Fitness Instagram Influencers In Japan In 2024
 description: >-
-  Find top fitness Instagram influencers in Japan in 2023. Most popular hashtags: #workout #gym #fitness #training.
+  Find top fitness Instagram influencers in Japan in 2024. Most popular hashtags: #fitness #workout #bikini #gym.
 platform: Instagram
-hits: 183
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 183 Instagram influencers like this in Japan for you to pitch.
+hits: 196
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 196 Instagram influencers like this in Japan for you to pitch.
 profiles:
+  - username: "tsukiyoga"
+    fullname: >-
+      tsuki ☾ yoga lifestylist
+    bio: >-
+      yoga(RYT500)| fitness | self-care video creator・fit model 🧘‍♂️くびれるヨガトレ 🕊あしたが変わるセルフケア @tsukiyoga TikTok 320k @tarzanweb 監修トレーナー @mandukayoga ambassador
+    location: "Japan"
+    followers: 216531
+    engagement: 636
+    commentsToLikes: 0.010242
+    id: ck5ckqwbvxfhp0i11rzj6fukf
+    verified: false
+    hashtags: "#sustainableliving, #selfmassage, #yogateacher, #healthylifestyle"
+  - username: "miharu_kurachi"
+    fullname: >-
+      MIHARU KURACHI
+    bio: >-
+      Fitness | Travel | Nature First IFBB Bikini PRO in Japan🇯🇵 🐶🐾 @kushu_peki パーソナルレッスン・ビキニクラスのお問い合わせはリンクからお願いします✉️
+    location: "Japan"
+    followers: 81489
+    engagement: 276
+    commentsToLikes: 0.009066
+    id: ckaov7fj83ds70i789q8tz915
+    verified: false
+    hashtags: "#hotel, #ifbb, #bikini, #workout"
+  - username: "leohazzzard"
+    fullname: >-
+      Levon Hovhannisyan
+    bio: >-
+      🔴 Classic Bodybuilding Overall Champion (IFBB) 🔴 The Best Person Of The Year 🔴 Fitness Guru & The Game Changer
+    location: "Japan"
+    followers: 31765
+    engagement: 243
+    commentsToLikes: 0.036846
+    id: ck6ueb320pvn40j71a1xhc34x
+    verified: false
+    hashtags: ""
+  - username: "jordanyeohfitness"
+    fullname: >-
+      Jordan Yeoh
+    bio: >-
+      Fitness Made Simple FB: 8M | YT: 3.8M 🙏 Download my training APP here 👇
+    location: "Japan"
+    followers: 1250361
+    engagement: 116
+    commentsToLikes: 0.000508
+    id: ck0w05rumcih70i198g619l9t
+    verified: true
+    hashtags: "#bodybuilding, #homeworkout, #fitness, #trainwithjordanapp"
+  - username: "miyako.610"
+    fullname: >-
+      都  Miyako
+    bio: >-
+      著書『結局、筋トレがいちばんキレイにやせる近道』発売中 Personalgym Owner 🌱@mintgym Fitness Youtube 💭 Miyako's Channel
+    location: "Japan"
+    followers: 93415
+    engagement: 101
+    commentsToLikes: 0.003060
+    id: ck8tc215gy01u0j78fh6krpoo
+    verified: false
+    hashtags: "#haleo, #photooftheday, #fitness, #bikini"
+  - username: "iamradzi"
+    fullname: >-
+      Radzi Chinyanganya
+    bio: >-
+      🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇿🇼 📺 tv presenter 🎙️"Making Gains" podcast 📚 Factoids & Fitness💪🏾 Blue Peter forever #37
+    location: "Japan"
+    followers: 32043
+    engagement: 55
+    commentsToLikes: 0.015914
+    id: ck14iw55ohfju0i19mxsnpfbe
+    verified: true
+    hashtags: "#itv, #gym, #champion, #formulae"
   - username: "lara_vns"
     fullname: >-
       𝐖𝐨𝐦𝐚𝐧𝐟𝐚𝐬𝐡𝐢𝐨𝐧 | 𝐌𝐨𝐝𝐞𝐥 | 𝐁𝐥𝐨𝐠𝐠𝐞𝐫
@@ -19,18 +91,6 @@ profiles:
     id: ckap8nya3p6kk0i78tp4nb40s
     verified: false
     hashtags: "#saturdayoutfit, #weareallinthistogether, #versacebag, #workingonme"
-  - username: "miyako.610"
-    fullname: >-
-      都　Miyako
-    bio: >-
-      fitness YouTuber 🎥みやこずちゃんねる apparel 🐚 @coralu.official supplement @haleo_official ⬇️ダイエットの食事やトレーニングの投稿
-    location: "Japan"
-    followers: 36569
-    engagement: 1025
-    commentsToLikes: 0.014134
-    id: ck8tc215gy01u0j78fh6krpoo
-    verified: false
-    hashtags: "#workout, #life, #coralu, #fitnessgirl"
   - username: "sapirfi"
     fullname: >-
       ספיר פישלזון-מאיר
@@ -67,64 +127,4 @@ profiles:
     id: ck5qc5jfeoyif0i11vbdg2f3o
     verified: false
     hashtags: "#beauty, #prowrestling, #workout, #japanese"
-  - username: "blifetokyo"
-    fullname: >-
-      B-life
-    bio: >-
-      Yoga & Fitness Workout Creator. 痩せたい！健康的になりたい！すべての方の悩みを解決するエクササイズ動画を無料で配信しています。10〜15分くらいの空き時間で気軽に行えますので、是非お試しください♪
-    location: "Japan"
-    followers: 48334
-    engagement: 471
-    commentsToLikes: 0.019041
-    id: ckapb665gypre0i78i1v3kh7d
-    verified: false
-    hashtags: "#blifeconnect"
-  - username: "minorin.0219"
-    fullname: >-
-      minomomo （minorin）
-    bio: >-
-      『SSA認定講師』　インフルエンサー依頼お断り 2019 SSA 日本大会 beauty fitness model40 1st🏅🏅🏅🇯🇵🥇🏆 2019 SSA 大阪大会 優勝 2018 SSA NOVICE 優勝初代チャンピオン 株式会社MINOMOMO 代表 美尻トレーナー
-    location: "Japan"
-    followers: 61194
-    engagement: 205
-    commentsToLikes: 0.009254
-    id: ck5zzway0cj6n0i14hlnjlvf1
-    verified: false
-    hashtags: "#minomomo, #fitness, #abs, #repost"
-  - username: "linapooboo329"
-    fullname: >-
-      LINA♡
-    bio: >-
-      152cm / Fitness / Fashion ▪︎My selectshop @minnic__official ▪︎personal trainer 📍Roppongi / Herogym 海外スタイルが好きな女の子の為のショップをしながら パーソナルトレーナーとしても活動しています🤍
-    location: "Japan"
-    followers: 7012
-    engagement: 997
-    commentsToLikes: 0.020834
-    id: ck5qcerniq7hv0i11jveck6ua
-    verified: false
-    hashtags: "#fashion, #pr, #gym, #workout"
-  - username: "belleyogatokyo"
-    fullname: >-
-      Jo in Tokyo 🇯🇵
-    bio: >-
-      🧘🏻‍♀️Yoga / Saving the Planet 🌏 🏋🏻Team @allysangels_fitness @liforme -10% code 👉BELLETOKYO 👇Discount links👇
-    location: "Japan"
-    followers: 65284
-    engagement: 115
-    commentsToLikes: 0.058017
-    id: ck0tycg14mewo0i19onieu1ta
-    verified: false
-    hashtags: "#splits, #humpdayvibes, #amamioshima, #yogaonthebeach"
-  - username: "non_nonsummerjack"
-    fullname: >-
-      non
-    bio: >-
-      I'm Japanese Gal cosplayer fitness model any other account is fake Japan🇯🇵Tokyo Twitter @monhannoero
-    location: "Japan"
-    followers: 195821
-    engagement: 744
-    commentsToLikes: 0.005884
-    id: ck8sy7krjk00c0j78zk7cn31n
-    verified: false
-    hashtags: "#cos, #cosplayers, #campfire, #2b"
 ---

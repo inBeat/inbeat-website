@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Singapore In 2023
+title: Top 10 Beauty TikTok Influencers In Singapore In 2024
 description: >-
-  Find top beauty TikTok influencers in Singapore in 2023. Most popular hashtags: #fyp #tiktok #foryou #foryoupage.
+  Find top beauty TikTok influencers in Singapore in 2024. Most popular hashtags: #fyp #tiktok #foryou #foryoupage.
 platform: TikTok
 hits: 10
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine has 10 TikTok influencers like this in Singapore for you to pitch.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 10 TikTok influencers like this in Singapore for you to collaborate.
 profiles:
   - username: "mooniechu"
     fullname: >-

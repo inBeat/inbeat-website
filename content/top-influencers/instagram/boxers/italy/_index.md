@@ -1,11 +1,11 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Italy In 2023
+title: Top 10 Boxers Instagram Influencers In Italy In 2024
 description: >-
-  Find top boxers Instagram influencers in Italy in 2023. Most popular hashtags: #boxer #mma #love #boxe.
+  Find top boxers Instagram influencers in Italy in 2024. Most popular hashtags: #boxer #love #kickboxing #mma.
 platform: Instagram
-hits: 32
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 32 Instagram influencers like this in Italy for you to connect with.
+hits: 37
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 37 Instagram influencers like this in Italy for you to collaborate.
 profiles:
   - username: "ldgentleman"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck6u1h9vhlpyr0j715xf96qgt
     verified: false
     hashtags: ""
-  - username: "serranosisters"
-    fullname: >-
-      Amanda Serrano 🇵🇷
-    bio: >-
-      Carolina, Puerto Rico BJJ🥇/MMA 1-0-1/Boxer 9x 7Division WorldChamp! (115,118,122,126,130,135,140) Cindy Serrano WBO 126lb Champ!
-    location: "Italy"
-    followers: 71282
-    engagement: 150
-    commentsToLikes: 0.044275
-    id: ck0vy4xqr29d40i19m7xmq73d
-    verified: true
-    hashtags: "#puertorico, #boxing, #serranosisters, #cindy"
   - username: "giorgiopetrosyan"
     fullname: >-
       Giorgio Petrosyan
@@ -67,6 +55,30 @@ profiles:
     id: ck5hq93txspwc0i11mvyl44kk
     verified: false
     hashtags: "#andthenew, #andstill, #wbc, #daznboxeitaly"
+  - username: "mattiafaraoni"
+    fullname: >-
+      Mattia Faraoni
+    bio: >-
+      ●KICKBOXING-K1 ISKA 95Kg World Champion ●Collaborazioni e/o stage: mattia.faraoni@prokne.it ●Ambassador @tsunaminutrition(Cod. sconto FARAONI 15)
+    location: "Italy"
+    followers: 241660
+    engagement: 692
+    commentsToLikes: 0.011664
+    id: ck5zvi0xr49y40i14zb4tdxdq
+    verified: false
+    hashtags: "#karate, #boxer, #boxinglife, #fight"
+  - username: "passionemotori"
+    fullname: >-
+      Nicoló Iammarino
+    bio: >-
+      PASSIONE MOTORI SRLS •YT (440k+) •Creo auto:@passionemotorigarage •Detail:@mamacardetailing_como •Business: businesspassionemotori@gmail.com SHOP👇🏻
+    location: "Italy"
+    followers: 199510
+    engagement: 366
+    commentsToLikes: 0.018113
+    id: ck5q5zssdvanp0i11wnd21vqg
+    verified: false
+    hashtags: "#reazione, #drift, #tuning, #truffa"
   - username: "bevilacqua.giorgia10"
     fullname: >-
       ⓖⓘⓞⓡⓖⓘ ♥︎
@@ -91,18 +103,6 @@ profiles:
     id: ck5hrmwtfv4w80i11alt6walc
     verified: false
     hashtags: "#boxer, #attoriitaliani, #postoffice, #bersani"
-  - username: "mattiafaraoni"
-    fullname: >-
-      Mattia Faraoni
-    bio: >-
-      K1 pro fighter💪🇮🇹 Boxe pro fighter 👊🇮🇹 Shinseikai karate black belt ll dan 🥋 Sconti Myprotein con codice : SIM ⤵️
-    location: "Italy"
-    followers: 62729
-    engagement: 856
-    commentsToLikes: 0.016436
-    id: ck5zvi0xr49y40i14zb4tdxdq
-    verified: false
-    hashtags: "#mousidgym, #kockout, #rainiclan, #boxinghype"
   - username: "noiamiamoglianimali"
     fullname: >-
       Noi Amiamo gli Animali ❤️
@@ -115,16 +115,16 @@ profiles:
     id: ck0u6yj7w3arh0i19g2nlpiif
     verified: false
     hashtags: "#passioneanimali, #cane, #cucciolo, #cagnolinobello"
-  - username: "robertamirata"
+  - username: "_la_lou"
     fullname: >-
-      Roberta Mirata
+      Ludovica Melisurgo
     bio: >-
-      #CancerSurvivor 🇮🇹 Pavia, 42y #Fitness #Running 📚 PT @issa_europe @a_i_c_n_ @compexita @vibramfivefingers e TRX ❤️Testimonial @airc.it @inyourshoes.eu
+      🇮🇹 Model 📍Based in Milan / Made in Naples 🎀 Giulia and 🐶 @gizmo_mini_dog_ ‘s mom 📩 MGMT • Pietro@pssharing.com
     location: "Italy"
-    followers: 52994
-    engagement: 193
-    commentsToLikes: 0.072763
-    id: ckap0d079pt5a0i78gc08xj74
+    followers: 154909
+    engagement: 943
+    commentsToLikes: 0.003765
+    id: ck6ubaryf8hmq0j71zrrqn4wk
     verified: false
-    hashtags: "#reebok, #fitnessgirl, #runningmotivation, #fitspo"
+    hashtags: "#zalandostyle, #clubc, #tattoo, #reebok"
 ---

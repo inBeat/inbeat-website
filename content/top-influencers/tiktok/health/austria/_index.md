@@ -1,10 +1,10 @@
 ---
-title: Top 10 Health TikTok Influencers In Austria In 2023
+title: Top 10 Health TikTok Influencers In Austria In 2024
 description: >-
-  Find top health TikTok influencers in Austria in 2023. Most popular hashtags: #foryou #fyp #fy #vegan.
+  Find top health TikTok influencers in Austria in 2024. Most popular hashtags: #foryou #fyp #vegan #fy.
 platform: TikTok
 hits: 14
-text_top: Identify the best TikTok accounts on inBeat.
+text_top: See the top-rated TikTok profiles on inBeat.
 text_bottom: Our database holds 14 TikTok influencers like this in Austria for you to work with.
 profiles:
   - username: "beautydiets"

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Austin In 2023
+title: Top 10 Health TikTok Influencers In Austin In 2024
 description: >-
-  Find top health TikTok influencers in Austin in 2023. Most popular hashtags: #health #fyp #workout #stitch.
+  Find top health TikTok influencers in Austin in 2024. Most popular hashtags: #health #fyp #stitch #workout.
 platform: TikTok
-hits: 46
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our database has 46 TikTok influencers like this in Austin, United States for you to pitch.
+hits: 47
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat has 47 TikTok influencers like this in Austin, United States for you to work with.
 profiles:
   - username: "jeffseidmanfitness"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.048927
     id: ckcej0ej3rlvf0j23q5zwk3b5
     verified: false
-    hashtags: "#workout, #comedy, #customerservice, #goals"
+    hashtags: "#thejoyjourney, #tiktok, #weightlosscheck, #weightlossjourney"
   - username: "austinchiangmd"
     fullname: >-
       Dr. Austin, MD MPH
@@ -91,6 +91,18 @@ profiles:
     id: ck9eodhztnv9b0j780zmtq6oa
     verified: false
     hashtags: "#fyp, #panama, #whoknew, #nature"
+  - username: "austinwillette612"
+    fullname: >-
+      Austin Willette
+    bio: >-
+      All Jokes “Maybe” “Click My Link For Music” Help me get to 33k
+    location: "United States"
+    followers: 33000
+    engagement: 813
+    commentsToLikes: 0.041520
+    id: ckb96zr9npa5c0j23koignplv
+    verified: false
+    hashtags: "#jokes, #gaming, #gta5, #foryou"
   - username: "living.and.eating"
     fullname: >-
       Life of Lilly
@@ -115,16 +127,4 @@ profiles:
     id: ckcptji34oaer0j23txqpbmbv
     verified: false
     hashtags: "#is, #duet, #morefreedom, #candyshop"
-  - username: "dennis21morales"
-    fullname: >-
-      Dennis Morales
-    bio: >-
-      Interested in talking psychedelic stocks
-    location: "United States"
-    followers: 6412
-    engagement: 289
-    commentsToLikes: 0.144174
-    id: ckbffcos89wzn0j233obconge
-    verified: false
-    hashtags: "#shrooms, #shroomstocks, #psychedelic, #investing"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Sao Paulo In 2023
+title: Top 10 Fashion TikTok Influencers In Sao Paulo In 2024
 description: >-
-  Find top fashion TikTok influencers in Sao Paulo in 2023. Most popular hashtags: #fyp #foryou #fashion #brasil.
+  Find top fashion TikTok influencers in Sao Paulo in 2024. Most popular hashtags: #fyp #fashion #foryou #brasil.
 platform: TikTok
 hits: 8
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our platform has 8 TikTok influencers like this in Sao Paulo, Brazil for you to connect with.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 8 TikTok influencers like this in Sao Paulo, Brazil for you to collaborate.
 profiles:
   - username: "gabrieltuoto"
     fullname: >-
@@ -37,12 +37,12 @@ profiles:
     bio: >-
       🎬 Vídeos de moda em transições criativas. 📩 contato.anamariagw@gmail.com
     location: "Brazil"
-    followers: 31200
-    engagement: 1601
-    commentsToLikes: 0.033328
+    followers: 53300
+    engagement: 1018
+    commentsToLikes: 0.030040
     id: ck8os2xdif2ta0j7841i1d2ql
     verified: false
-    hashtags: "#fashion, #girly, #styleinspo, #edit"
+    hashtags: "#fyp, #styleinspo, #looks, #videoedit"
   - username: "drmaurocasanova"
     fullname: >-
       Mauro Casanova

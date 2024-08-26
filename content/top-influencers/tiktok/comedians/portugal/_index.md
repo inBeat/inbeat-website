@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Portugal In 2023
+title: Top 10 Comedians TikTok Influencers In Portugal In 2024
 description: >-
-  Find top comedians TikTok influencers in Portugal in 2023. Most popular hashtags: #comedia #foryou #fyp #humor.
+  Find top comedians TikTok influencers in Portugal in 2024. Most popular hashtags: #comedia #foryou #fyp #humor.
 platform: TikTok
 hits: 67
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our platform has 67 TikTok influencers like this in Portugal for you to collaborate.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 67 TikTok influencers like this in Portugal for you to pitch.
 profiles:
   - username: "daniel_patrocinioo"
     fullname: >-

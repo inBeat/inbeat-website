@@ -1,11 +1,11 @@
 ---
-title: Top 10 Runners TikTok Influencers In India In 2023
+title: Top 10 Runners TikTok Influencers In India In 2024
 description: >-
-  Find top runners TikTok influencers in India in 2023. Most popular hashtags: #foryou #runner #army #tiktokindia.
+  Find top runners TikTok influencers in India in 2024. Most popular hashtags: #army #foryou #runner #tidelagaodaaghatao.
 platform: TikTok
 hits: 26
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: inBeat has 26 TikTok influencers like this in India for you to pitch.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 26 TikTok influencers like this in India for you to contact.
 profiles:
   - username: "minithakur27"
     fullname: >-

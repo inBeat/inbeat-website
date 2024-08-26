@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In 2023
+title: Top 10 Bakers Instagram Influencers In 2024
 description: >-
-  Find top bakers Instagram influencers in 2023. Most popular hashtags: #chocolate #dessert #chocolatecake.
+  Find top bakers Instagram influencers in 2024. Most popular hashtags: #christmas #baking #ad.
 platform: Instagram
-hits: 9677
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 9677 Instagram influencers like this for you to pitch.
+hits: 7574
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 7574 Instagram influencers like this for you to connect with.
 profiles:
   - username: "bakergkln"
     fullname: >-
@@ -25,106 +25,106 @@ profiles:
     bio: >-
       Baker
     location: "United States"
-    followers: 8189
-    engagement: 667
-    commentsToLikes: 0.056262
+    followers: 8067
+    engagement: 551
+    commentsToLikes: 0.057122
     id: ck6u13xirjfly0j71bzfjd23x
     verified: false
-    hashtags: "#fermentation, #cinnamonrolls, #uppereastside, #brioche"
-  - username: "passionateaboutbaking"
+    hashtags: "#thefeedfeedbaking, #crumb, #batard, #levain"
+  - username: "mollyreedgrayson"
     fullname: >-
-      Deeba Rajpal
+      Molly Reed Grayson
     bio: >-
-      Cookbook Author | Baker | Content Creator | Blogger | Eggless Desserts | Food Stylist | Food Photography Recipes on @pabrecipes India 🇮🇳
-    location: "India"
-    followers: 416171
-    engagement: 1005
-    commentsToLikes: 0.016130
-    id: ck0twjmsvfofn0i19ffoazlr7
-    verified: true
-    hashtags: "#ad, #strawberries, #pabrecipes, #biscofflotus"
-  - username: "janeejaneee"
-    fullname: >-
-      SF Bay Area food & fun 🥂 Jane
-    bio: >-
-      🍴 #foodie // 👩‍💻 #coder // 👩‍🍳 #baker 🌉 #sfbayarea // 🇨🇦 #toronto 💌 dm for collabs 欢迎合作！ 📸 #shotonpixel
+      🌟Finding joy in the simple things | Sunday baker 🍰 | Embracing the beauty of real-life moments ✨
     location: "United States"
-    followers: 9473
-    engagement: 576
-    commentsToLikes: 0.146488
-    id: ckwbef5xnkycr0j23v856l8hz
+    followers: 18244
+    engagement: 460
+    commentsToLikes: 0.059754
+    id: ck6009dqsd6er0i14z6imbd8v
     verified: false
-    hashtags: "#yamimeal, #tastyselect, #heypot, #heyhotpot"
-  - username: "fahimanwar"
+    hashtags: "#christmas, #momhumor, #thanksgivingdesserts, #dessert"
+  - username: "briannatraynor"
     fullname: >-
-      Fahim Anwar
+      BRIANNA
     bio: >-
-      TOUR🎟 BAKERSFIELD Jan 12 DC Jan 27-29, more! ⬇️
+      phoenix, az 🌵 wife | mama to jax + quinn teacher | content creator | baker @sugarbsweets 🍪 ♡
     location: "United States"
-    followers: 125164
-    engagement: 2088
-    commentsToLikes: 0.025287
-    id: ck0vypm44563m0i1900lf99au
-    verified: true
-    hashtags: "#fahimstandup, #comedy, #jokes, #funny"
-  - username: "recueilgourmand"
-    fullname: >-
-      Mahmoud - Recueil Gourmand
-    bio: >-
-      🍰 Baker in soul 🍮 🍩Gourmand-love eating pastry 🎂 📑Moroccan Food Blogger✒ 📍Rabat ✉ recueilgourmand@gmail.com My blog:
-    location: "France"
-    followers: 26938
-    engagement: 143
-    commentsToLikes: 0.030061
-    id: ck8t5c6sd9lrz0j78a75vfzj2
+    followers: 32798
+    engagement: 1467
+    commentsToLikes: 0.027808
+    id: ck0u8zpb88qpm0i1959se94fx
     verified: false
-    hashtags: "#dessertlover, #bakingfromscratch, #cakestagram, #icecreamlover"
-  - username: "tonybaker"
+    hashtags: "#gingerbreadcookies, #cozychristmas, #undecoratewithme, #wrappingpresents"
+  - username: "ksenia_belanger"
     fullname: >-
-      Tony Baker
+      Ksenia Belanger
     bio: >-
-      Actor/Stand Up Comedian. Youtube: Tony Baker Comedy Instagram: @tonybakerrandomly Facebook: @TonyBakerComedyPage TURN ON MY NOTIFICATIONS 👆🏾
+      Mom to 2 boys 🌻🌻and a girl 🌻 ~ homestead ~homeschool ~Speaker~ Mentor ~Educator~Hobby baker 🍰 ~ North Carolina girl 🌊 🏔 🌲🐓
     location: "United States"
-    followers: 2529132
-    engagement: 34
-    commentsToLikes: 0.046869
-    id: cl34yj62dzu5q0i237lz5qnuw
+    followers: 455819
+    engagement: 1063
+    commentsToLikes: 0.034477
+    id: ck5cin8besyzu0i113v3ekece
     verified: false
-    hashtags: "#tonybakerontheshelves, #thefabulousbakerboyz, #la, #burbank"
-  - username: "cindykarmoko"
+    hashtags: "#bohohome, #cozyaesthetic, #slowliving, #happysoul"
+  - username: "eatsbyrachel"
     fullname: >-
-      CINDY KARMOKO
+      Rachel | Bay Area Food & Beyond
     bio: >-
-      Big wardrobe 🧳🤣 👠, Beauty, Travel & Fragrance enthusiast ✈️ Home Baker👩🏻‍🍳 @swellrecipes ❤️ #oma🍑 #idressedtothrill #lidahcece
-    location: "France"
-    followers: 108165
-    engagement: 37
-    commentsToLikes: 0.061865
-    id: ck137q4rfct710i19fx80v9rf
-    verified: true
-    hashtags: "#makandireels, #viralfood, #idressedtothrill, #coachny"
-  - username: "real_tim_othy"
-    fullname: >-
-      Tim Othy
-    bio: >-
-      From WI Live in SF Gymgoer, traveler, baker, linguaphile, photic sneezer, dog lover, needlepointer, Golden Girls maniac, and Oxford comma enthusiast.
+      📍 Bay Area Foodie 🌺 Trader Joe’s Enthusiast 🥣 Baker 💌 eatsbyrachel@gmail.com
     location: "United States"
-    followers: 42438
-    engagement: 1231
-    commentsToLikes: 0.045103
-    id: ck9hb12frexd20j7894363rx2
+    followers: 96435
+    engagement: 1771
+    commentsToLikes: 0.127490
+    id: cl2y28pmbvr0n0i23qlfq6djb
     verified: false
-    hashtags: "#showyourpineapple, #tbt, #jjmalibu, #doubletimetwins"
-  - username: "bestobaker"
+    hashtags: "#bayareafoodie, #traderjoes, #sffoodie, #viralfoods"
+  - username: "andel_and_rielle"
     fullname: >-
-      Giuseppe Besto Stella
+      Andel & Rielle 🇬🇾🏴󠁧󠁢󠁥󠁮󠁧󠁿🇰🇳
     bio: >-
-      I'm a Bearded baker in love with photography. 📍Milano 🇮🇹 🏳️‍🌈 |He/Him| The other side of me👇 @besto_stella
-    location: "Italy"
-    followers: 7531
-    engagement: 1515
-    commentsToLikes: 0.059349
-    id: ck6tyehy039k30j71pe2sx5np
+      Agency represented📸🎥 LEAPFROG, NICK JR., SCS, MATALAN, M&S, CALPOL, WONDERBLY, SHEIN, NEXT, PRIMARK, TED BAKER, MOTHERCARE, SILVER CROSS, ETC.
+    location: "United Kingdom"
+    followers: 9950
+    engagement: 485
+    commentsToLikes: 0.085650
+    id: cl7geiaqlshtj0i238ji2ij12
     verified: false
-    hashtags: "#gay, #beardedman, #muscle, #pink"
+    hashtags: "#pose, #smile, #fashion, #family"
+  - username: "onehungryfoodie"
+    fullname: >-
+      Cybi💁🏻‍♀️| London & Herts
+    bio: >-
+      📸 Featured in @timeoutlondon , @esreveller Evening Standard food 🧁Occasional baker 💌onehungryfoodie@gmail.com
+    location: "United Kingdom"
+    followers: 3044
+    engagement: 522
+    commentsToLikes: 0.207883
+    id: ck8t04qrtqtyk0j78volowzvk
+    verified: false
+    hashtags: "#foodmarket, #seoulfood, #stalbans, #waitrose"
+  - username: "the_bananadiaries"
+    fullname: >-
+      Britt Berlin
+    bio: >-
+      Vegan baker + cookbook author The very best vegan desserts + recipes made easy 🌱 All recipes linked here ⬇️
+    location: "United States"
+    followers: 491329
+    engagement: 582
+    commentsToLikes: 0.060258
+    id: ck5bz6282qikp0i11kznwwqbj
+    verified: false
+    hashtags: "#gingerbreadcake, #tiramisuchesecake, #oatmealcreampies, #vegancinnamonrolls"
+  - username: "zaccharybird"
+    fullname: >-
+      Zacchary Bird
+    bio: >-
+      DON’T PANIC! 100% vegan from 🇦🇺 Author “Vegan Junk Food” 🍔 & “The Vegan Butcher” EN/NL/FR/DE🍗 “The Vegan Baker” out NOW 🧁 bookings@slickmgmt.com.au
+    location: "Australia"
+    followers: 96428
+    engagement: 793
+    commentsToLikes: 0.028059
+    id: cl48q93wgm8kg0i23yf9ozb4p
+    verified: false
+    hashtags: "#vegan, #vegandonut, #veganworldshare, #bestofvegan"
 ---

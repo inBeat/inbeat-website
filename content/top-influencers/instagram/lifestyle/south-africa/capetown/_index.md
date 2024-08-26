@@ -1,24 +1,24 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Capetown In 2023
+title: Top 10 Lifestyle Instagram Influencers In Capetown In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Capetown in 2023. Most popular hashtags: #photography #lifestyle #capetown #southafrica.
+  Find top lifestyle Instagram influencers in Capetown in 2024. Most popular hashtags: #capetown #southafrica #fashion #lifestyle.
 platform: Instagram
-hits: 16
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 16 Instagram influencers like this in Capetown, South Africa for you to work with.
+hits: 22
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 22 Instagram influencers like this in Capetown, South Africa for you to connect with.
 profiles:
   - username: "marcbermanphotography"
     fullname: >-
       Marc Berman | Photographer
     bio: >-
-      #photographer #model #fashion #lifestyle 📍#capetown 👨🏻Personal Acc - @king_fool For bookings DM or Email : info@marcberman.co.za
+      #photographer #model #fashion #lifestyle #NFTcommunity #nft #NFTart 📍#capetown 👨🏻Personal Acc - @king_fool 📧 info@marcberman.co.za to book
     location: "South Africa"
-    followers: 16600
-    engagement: 187
-    commentsToLikes: 0.023634
+    followers: 16539
+    engagement: 170
+    commentsToLikes: 0.020955
     id: ck5cdtxbzjrsk0i114cjcvvst
     verified: false
-    hashtags: "#instadaily, #blueeyes, #brunette, #portraitvision"
+    hashtags: "#marcbermanphotography, #instadaily, #southafrica, #photography"
   - username: "tracymcgregor"
     fullname: >-
       Tracy McGregor
@@ -55,6 +55,18 @@ profiles:
     id: ck5c26a7twmdj0i11124h90ib
     verified: false
     hashtags: "#shop, #fashioninspo, #babe, #cute"
+  - username: "shawnee_reid"
+    fullname: >-
+      Shawnee Reid
+    bio: >-
+      Model & business women Lifestyle | Quirky | Travel |Beauty & modelling tips 📍JHB 🇿🇦 | God✝️ 📧 shawnee@sreid.co.za Longer vlogs on my YouTube ⬇️⬇️
+    location: "South Africa"
+    followers: 136695
+    engagement: 103
+    commentsToLikes: 0.044548
+    id: ck15tn2y6iwd90i198x1nvvko
+    verified: false
+    hashtags: "#capetown, #southafrica, #barbie, #barbiethemovie"
   - username: "frema.mensah"
     fullname: >-
       🇬🇭Frema Mensah🇬🇭
@@ -67,18 +79,6 @@ profiles:
     id: ck55mwkjc4zg40i11b4gc4y7d
     verified: false
     hashtags: "#bluesky, #blackgirl, #melaninqueen, #afrohairstyles"
-  - username: "travspringer"
-    fullname: >-
-      TRAV SPRINGER Cape Town / Bali
-    bio: >-
-      Business | Ocean | Lifestyle Founder of @tropicalglamping 🌴 Creative photographer & Videographer W / @kinseygolden x #swimwear at @creationsbytrav
-    location: "South Africa"
-    followers: 75725
-    engagement: 274
-    commentsToLikes: 0.011015
-    id: ck5c1igfcv8o80i11fibfaca0
-    verified: false
-    hashtags: "#cityofcapetown, #clifton, #capetown, #creator"
   - username: "lost_at_me"
     fullname: >-
       Neels Mc Donald
@@ -91,40 +91,40 @@ profiles:
     id: ckaorvt5soyxm0i78z35y2fgo
     verified: false
     hashtags: "#thisissouthafrica, #liveforthestory, #theprettycities, #southafricaza"
-  - username: "bridge5m"
+  - username: "gwendalyn_huang"
     fullname: >-
-      Bridget Marshall
+      GWEN | Modern Mama🤍
     bio: >-
-      Travel | Lifestyle | Foodie | Fashion 🌍 The World is My Backyard ✉️ bridgemarshall@gmail.com 👩🏼‍💻 Owner - @travelb_comeflywithme
+      Modern stay-at-home mama | Lifestyle Snippets | Girl mom🤍 Email gwenwh@me.com @lano_325 ❤️ TikTok👇🏼
     location: "South Africa"
-    followers: 40798
-    engagement: 348
-    commentsToLikes: 0.018808
-    id: ckapa21m1uebh0i78996apdj4
+    followers: 11354
+    engagement: 206
+    commentsToLikes: 0.037981
+    id: ck6twntwgt2ox0j71f3oy7cxo
     verified: false
-    hashtags: "#food, #holiday, #photooftheday, #smile"
-  - username: "chanellesoncini"
+    hashtags: "#gwenhuang, #southafricancontentcreator, #gwenhuangstyle, #gwenhuanglifestyle"
+  - username: "kunene_ayanda"
     fullname: >-
-      ⚡️CHANELLE SONCINI⚡️
+      Ayanda Kunene
     bio: >-
-      SA Model 📍PTA/JHB🇿🇦 ▪️JHB: @bossmodelsjhb ▫️CPT: @thecirclemodels 📚BBA & BPhil Honours
+      South African 🇿🇦 Twin: @amanda_Kunene 📍 CPT: @20modelmanagement 📍 DBN: @bossmodelsdbn
     location: "South Africa"
-    followers: 32003
-    engagement: 433
-    commentsToLikes: 0.232299
-    id: ck6u1whp5ob1o0j71gdgns6sx
+    followers: 5804
+    engagement: 252
+    commentsToLikes: 0.067949
+    id: ck138fd3bfyxf0i199d208qt8
     verified: false
-    hashtags: "#happyfriday, #model, #style, #chanellesoncini"
-  - username: "lunatic_xoxo_"
+    hashtags: "#fashion, #southafrica, #likeforlikes, #safari"
+  - username: "cottonfestjhb"
     fullname: >-
-      Luna Lubbe
+      CottonFest
     bio: >-
-      Cape Town📍 🇿🇦ICE(MA)🇩🇪Kult Women🇬🇧Next🇮🇹Monster🇦🇷TheSyndical 🇮🇱MC2🇦🇹Wiener🇦🇺Kult🇪🇸View Collaborations-penny@icemodels.co.za
+      We never die. We multiply.
     location: "South Africa"
-    followers: 103956
-    engagement: 176
-    commentsToLikes: 0.014385
-    id: ck5bziyqwr8kv0i11gf9d86bw
+    followers: 157454
+    engagement: 189
+    commentsToLikes: 0.014351
+    id: ck55ov7jm97090i11ioqmtcos
     verified: false
-    hashtags: "#photography, #lifestyle, #missings, #waves"
+    hashtags: "#cottonfest2023, #ucf2023, #ucfsccapetown, #cf2023"
 ---

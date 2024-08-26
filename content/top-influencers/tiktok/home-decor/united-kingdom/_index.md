@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In United Kingdom In 2023
+title: Top 10 Home Decor TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top home decor TikTok influencers in United Kingdom in 2023. Most popular hashtags: #homedecor #fyp #painting #foryou.
+  Find top home decor TikTok influencers in United Kingdom in 2024. Most popular hashtags: #homedecor #fyp #painting #foryou.
 platform: TikTok
 hits: 33
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 33 TikTok influencers like this in United Kingdom for you to collaborate.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 33 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
   - username: "aj_painting"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.023099
     id: ckcowyfm39nm80j234l41iyu2
     verified: false
-    hashtags: "#painting, #asosdaytofright, #homedecor, #tiktokart"
+    hashtags: "#tiktokart, #painting, #homedecor, #art"
   - username: "rebeccasresin"
     fullname: >-
       RebeccasResin
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.030435
     id: ck8orfa7rc24i0j782sax8iyy
     verified: false
-    hashtags: "#carddesigner, #gouachepainting, #smallbusinesstiktok, #homedecor"
+    hashtags: "#gallerywallinspo, #gallerywallhack, #gouachepainting, #smallbusinessuk"
   - username: "artistjessicasixsmith"
     fullname: >-
       Jessica Sixsmith Art

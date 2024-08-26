@@ -1,12 +1,60 @@
 ---
-title: Top 10 Instagram Influencers In Cali In 2023
+title: Top 10 Instagram Influencers In Cali In 2024
 description: >-
-  Find top Instagram influencers in Cali in 2023. Most popular hashtags: #medellin #cali #bogota.
+  Find top Instagram influencers in Cali in 2024. Most popular hashtags: #colombia #cardioworkout #botox.
 platform: Instagram
-hits: 372
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 372 Instagram influencers like this in Cali, Colombia for you to work with.
+hits: 386
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 386 Instagram influencers like this in Cali, Colombia for you to contact.
 profiles:
+  - username: "marioayepes"
+    fullname: >-
+      Mario Alberto Yepes
+    bio: >-
+      Ex defensor Cortulua,Deportivo Cali,River Plate,Nantes,Paris Saint Germain,Chievo Verona,AC Milan,Atalanta,San Lorenzo y Selección Colombia.
+    location: "Colombia"
+    followers: 282306
+    engagement: 273
+    commentsToLikes: 0.012460
+    id: ck0w4o16uzjbv0i193jlicnvt
+    verified: true
+    hashtags: "#losdelaculpa, #blackouttuesday, #marioyepes, #wellfest2024"
+  - username: "isabellaguirrel"
+    fullname: >-
+      Isabella Aguirre
+    bio: >-
+      Cali, Colombia. Modelo, actriz, bailarina y deportista. Profesional en Mercadeo | Mi marca @vivre.co 🎭 @naarlandaeta
+    location: "Colombia"
+    followers: 131147
+    engagement: 222
+    commentsToLikes: 0.010669
+    id: ck5pwhb8vmsrk0i11xa8s6b5c
+    verified: false
+    hashtags: "#salsachoke, #tucomovives, #fanatico, #indaclub"
+  - username: "canteradeportivocali"
+    fullname: >-
+      Cantera Deportivo Cali
+    bio: >-
+      Cuenta Oficial en Instagram de la Cantera del Deportivo Cali
+    location: "Colombia"
+    followers: 39620
+    engagement: 229
+    commentsToLikes: 0.010982
+    id: ck135mu1126y50i198y67uogl
+    verified: false
+    hashtags: "#canteradeoro, #canteraverdiblanca, #vamoscali, #deportivocaliplus"
+  - username: "isabellacubillos"
+    fullname: >-
+      Isabella Cubillos
+    bio: >-
+      Founder @symmetric.activewear 📍Bogotá, Colombia / Cali Fitness - Workouts - Lifestyle✨
+    location: "Colombia"
+    followers: 108411
+    engagement: 125
+    commentsToLikes: 0.020116
+    id: ck8t6makke3v20j78m7phwtob
+    verified: false
+    hashtags: "#glutetraining, #cardioworkout, #legs, #postrefit"
   - username: "giannimichielin"
     fullname: >-
       Giannina Michielin Roa
@@ -19,112 +67,64 @@ profiles:
     id: ck0w3n7rnu9n80i19d99jvcmt
     verified: false
     hashtags: "#gianninamichielin, #colombianblogger, #fashionlover, #spotify"
-  - username: "alemizzle"
+  - username: "theclub1991"
     fullname: >-
-      Alexandra Villanueva
+      The Club 1991 - Foodies
     bio: >-
-      🌎📍Cali | Colombia Bailarina con flow caleño💃🏻 Tik Tok: soyalemizzle (700K) Publicidad 📲rep: +573043540170 (NO ES MI NUMERO)
+      👫 Somos Foodies: Kari & Sebas. 🎩 Tu guía para comer rico & preparar recetas fáciles. NO somos un restaurante. 📍 Cali - Medellín.
     location: "Colombia"
-    followers: 1046389
-    engagement: 810
-    commentsToLikes: 0.018204
-    id: ckf5nv5r5zt1x0j231xh977d4
+    followers: 84130
+    engagement: 75
+    commentsToLikes: 0.025296
+    id: ck6u9mpqkyezz0j71p26ise4j
     verified: false
-    hashtags: "#problema, #problemachallenge, #daddyyankee"
-  - username: "sofiazamolo"
+    hashtags: "#quehayparahacerencali, #foodiesmedellin, #foodiescali, #calivalle"
+  - username: "oscarcordoba_"
     fullname: >-
-      Sofia Zamolo
+      Oscar Córdoba
     bio: >-
-      • Mamá de Cali 👶🏼 • Model • Tv Host • @multitalentoficial contacto—> @ls_loly • Shop my looks ⤵️
+      Ex-arquero de la Selección Colombia. América,Boca,Millonarios,Cali, Nacional,Once Caldas,Quindío,Perugia,Beşiktaş y AntalyaSport, ESPN Radio
     location: "Colombia"
-    followers: 1050479
-    engagement: 331
-    commentsToLikes: 0.058256
-    id: ck5hpj9bergak0i11xlq0p2z7
+    followers: 257486
+    engagement: 77
+    commentsToLikes: 0.064281
+    id: ck0uabhnpbrrc0i19e5h82wba
     verified: true
-    hashtags: "#candiceaxn, #comunidadpampers, #39semanas, #39weekspregnant"
-  - username: "chicogirasol"
+    hashtags: "#futbol, #conmebol, #yajuego, #mothersoccer"
+  - username: "dra.valentinavelasquez"
     fullname: >-
-      J O H A N 🌻
+      Valentina Velasquez
     bio: >-
-      V I D E ON U E V O 🌻 Cali 📍 Soychicogirasol@gmail.com REP: @Trendsetters.Ok
+      Dr. Valentina Velásquez • Cali - Colombia Anti aging | Injector @eilift_lashes @carniboost Citas y compras 👇🏼
     location: "Colombia"
-    followers: 104845
-    engagement: 1561
-    commentsToLikes: 0.023897
-    id: ck9hcpcpsmgda0j787sf9mufp
+    followers: 98685
+    engagement: 37
+    commentsToLikes: 0.078135
+    id: ck600z41yejng0i143joyjlqr
     verified: false
-    hashtags: ""
-  - username: "travel_jcr"
+    hashtags: "#cali, #botox, #acidohialuronico, #skincare"
+  - username: "laurajaramillo211"
     fullname: >-
-      Jhonathan ✈️🌎🇨🇴
+      Laura Jaramillo
     bio: >-
-      📍 De Cali 🇨🇴🕺🏽viviendo en Medellín 🌎 Viajero - Travel blog 📷 Fotógrafo y filmmaker aficionado 👇🏾Aqui solo vas a ver cosas chéveres
+      En este perfil amamos la moda ♥️ 𝑴𝒐𝒅𝒆𝒍 • 𝑳𝒊𝒇𝒆𝒔𝒕𝒚𝒍𝒆 • 𝑭𝒂𝒔𝒉𝒊𝒐𝒏 💌 laurajaramillo.contact@gmail.com 📍Cali, Colombia
     location: "Colombia"
-    followers: 11556
-    engagement: 745
-    commentsToLikes: 0.186508
-    id: ckf5wgw05rzv80j239j3eb0gf
+    followers: 397950
+    engagement: 32
+    commentsToLikes: 0.002757
+    id: ck9we5zuyirbx0j78i6kajdyr
     verified: false
-    hashtags: "#riodejaneirotrip, #reelsinstagram, #visitbrazil, #damefotismo"
-  - username: "teclafarias80"
+    hashtags: "#mujeres, #ondas, #aesthetic, #tips"
+  - username: "cali939la"
     fullname: >-
-      Ernesto Farías
+      CALI 93.9 🔥🌴
     bio: >-
-      Jugador de Fútbol Profesional ex Estudiantes L.P 🇦🇷 Palermo 🇮🇹 River Plate 🇦🇷 FCPorto 🇵🇹 Cruzeiro 🇧🇷 Independiente 🇦🇷 America de Cali 🇨🇴
+      ¡SIEMPRE DE FIESTA! #Cali939 App 📲 (818) 520-0939
     location: "Colombia"
-    followers: 100242
-    engagement: 579
-    commentsToLikes: 0.018633
-    id: ck55ltjca2e8i0i111h2whmlz
+    followers: 68922
+    engagement: 93
+    commentsToLikes: 0.026203
+    id: ck6uhomxsac440j71udc15u0z
     verified: false
-    hashtags: ""
-  - username: "yanjanemg"
-    fullname: >-
-      Yanjane Meneses G.
-    bio: >-
-      Periodista deportiva/TV Host Latinoamérica/@elvbarcaracol /⏩ @espn @scespn @canalcapital @noticiasrcn Rock&Sports!⚽🚲🎾🏊🏃 Twitter @YanjaneMG De Cali!
-    location: "Colombia"
-    followers: 38824
-    engagement: 511
-    commentsToLikes: 0.040776
-    id: ck14ird6fgucv0i19yeauekj7
-    verified: false
-    hashtags: "#velitas, #10, #maradona, #d10s"
-  - username: "jhonier_largo"
-    fullname: >-
-      jhonier🎩
-    bio: >-
-      Cali,colombia 🇨🇴
-    location: "Colombia"
-    followers: 4636
-    engagement: 2033
-    commentsToLikes: 0.087439
-    id: ck5qc4h5fot810i11mptnlils
-    verified: false
-    hashtags: "#viral, #meme, #novia, #amigos"
-  - username: "jorge.ivan.ospina"
-    fullname: >-
-      Jorge Iván Ospina
-    bio: >-
-      Médico Cirujano Alcalde de Cali 20-23 Senador 2014-18 Pte @PartidoVerdeCol 2017-18 Comprometido con la paz y la Vida
-    location: "Colombia"
-    followers: 42842
-    engagement: 197
-    commentsToLikes: 0.111484
-    id: ck55p6q689xf10i111ce5xfd1
-    verified: false
-    hashtags: "#petronioenelcorazon, #calisereactiva, #cali, #feriadecaliporlavida"
-  - username: "cristianarangoo"
-    fullname: >-
-      Cristian Arango
-    bio: >-
-      Contador 🎓 Especialista en finanzas 🎓 Cali - Colombia 🇨🇴
-    location: "Colombia"
-    followers: 54931
-    engagement: 419
-    commentsToLikes: 0.023899
-    id: ck8tc6vqoyhzc0j78e599429f
-    verified: false
-    hashtags: "#instagram, #men, #guystyle, #fitnessboy"
+    hashtags: "#oscars, #pesopluma, #pressplay, #volvi"
 ---

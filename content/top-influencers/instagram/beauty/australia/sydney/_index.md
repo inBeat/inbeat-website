@@ -1,36 +1,36 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Sydney In 2023
+title: Top 10 Beauty Instagram Influencers In Sydney In 2024
 description: >-
-  Find top beauty Instagram influencers in Sydney in 2023. Most popular hashtags: #makeup #beauty #makeupinspo #brows.
+  Find top beauty Instagram influencers in Sydney in 2024. Most popular hashtags: #beauty #sydney #makeup #sydneyfoodie.
 platform: Instagram
-hits: 62
+hits: 148
 text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 62 Instagram influencers like this in Sydney, Australia for you to pitch.
+text_bottom: Our platform has 148 Instagram influencers like this in Sydney, Australia for you to pitch.
 profiles:
-  - username: "carlyellen"
+  - username: "teresaaj"
     fullname: >-
-      C Λ R L Y  P O R T E R
+      TERESA
     bio: >-
-      Fᴀsʜɪᴏɴ • Bᴇᴀᴜᴛʏ • Tʀᴀᴠᴇʟ • Mᴜᴍ 𝕌𝕟𝕒𝕡𝕠𝕝𝕠𝕘𝕖𝕥𝕚𝕔𝕒𝕝𝕝𝕪 𝕄𝕖 Mumma to Kɴᴏx Ambassador for: @oscaroscarsalons @lust__minerals @meridian_aesthetics_au
+      creative • style • beauty sydney, australia 💌: hello.teresaaj@gmail.com
     location: "Australia"
-    followers: 26419
-    engagement: 143
-    commentsToLikes: 0.136712
-    id: ck5zvmpk24iz70i14gik22qz4
+    followers: 7453
+    engagement: 591
+    commentsToLikes: 0.081726
+    id: cldhoqr9qnt9y0j08wxg0ne2f
     verified: false
-    hashtags: "#brisbanefashion, #microinfluencer, #outfitoftheday, #whatiwore"
-  - username: "alexperrinmua"
+    hashtags: "#pinterestinspired, #aestheticfeed, #minimalstyle, #mycottonon"
+  - username: "threes.a.tribe"
     fullname: >-
-      ALEX PERRIN
+      D a n i e l l e  n g u y e n
     bio: >-
-      Freelance Makeup Artist SHOOTS / BRIDAL / FASHION / BEAUTY 📍Sydney
+      Content/ UGG Creator The highs and lows of Parenting Low tox | Beauty | motherhood 🔆Evie +Levi+jack+Eli 📧 threes.a.tribe.2019@gmail.com
     location: "Australia"
-    followers: 41151
-    engagement: 167
-    commentsToLikes: 0.205808
-    id: ck0uby0mxfk9y0i19oyzbeduy
+    followers: 15206
+    engagement: 62
+    commentsToLikes: 0.610840
+    id: cloqu06isgju60j08pmze1ddg
     verified: false
-    hashtags: "#brows, #eyes, #lips, #ivebeencrowned"
+    hashtags: "#sydneymums, #elijamesn, #motherhood, #prgifted"
   - username: "ramvespa"
     fullname: >-
       Ramvespa
@@ -42,89 +42,89 @@ profiles:
     commentsToLikes: 0.033708
     id: ck5zr10igvoo30i14ngfmggjg
     verified: false
-    hashtags: "#sydneyphotographer, #exploreaustralia, #photography, #foodgoals"
-  - username: "tara.the.explorer"
+    hashtags: "#sydneycommunity, #ig, #nikonaustralia, #traveltoexplore"
+  - username: "aymiecahill"
     fullname: >-
-      Tara | Fashion & Lifestyle
+      A Y M I E . C A H I L L
     bio: >-
-      Fashion . Beauty . Lifestyle Inspo Sydney 🇦🇺
+      Fashion | Interiors | Beauty | Travel Sydney | TikTok: aymiecahill Represented by: @neonmgmt Email: charley@neonmgmt.com
     location: "Australia"
-    followers: 14881
-    engagement: 536
-    commentsToLikes: 0.189647
-    id: ck5chszkerep30i1191nndm1z
+    followers: 47587
+    engagement: 125
+    commentsToLikes: 0.033321
+    id: cl7gbc4dcs5k00i23boh4pj7z
     verified: false
-    hashtags: "#pinterestaesthetic, #stylereel, #levenoutfits, #explorepage"
-  - username: "leahbaines_mua"
+    hashtags: "#luxuryskincare, #byredoparfums, #butfirstcoffee, #meccamoment"
+  - username: "karimamckimmie"
     fullname: >-
-      Leah Baines | Makeup Artist
+      Karima Mckimmie
     bio: >-
-      Freelance MUA | Sydney | J♡ Shoots / Bookings head to web Collabs leah@maxconnectors.com.au
+      Sydney. Beauty. Youtube. Let’s be friends! ✉️ hi@karimam.com
     location: "Australia"
-    followers: 87054
-    engagement: 533
-    commentsToLikes: 0.013287
-    id: ck0ude1t5ixej0i19vb809u9u
-    verified: false
-    hashtags: "#makeup, #hairstylist, #hmua, #naturalmakeup"
-  - username: "annhassarati"
+    followers: 74333
+    engagement: 123
+    commentsToLikes: 0.038402
+    id: ck15qdnp32cuc0i199jk1lgiz
+    verified: true
+    hashtags: "#byredo, #blackcollection, #sergelutens, #lafilledeberlin"
+  - username: "sma.au"
     fullname: >-
-      ANN HASSARATI MAKEUP
+      Striking Models Agency 🇦🇺
     bio: >-
-      Makeup Artist & Educator Owner of @_ahcosmetics Creative Team: @ah_creativeteam EMAIL: PR / Inquiries / Bookings HILLS DISTRICT NSW SHOP 👇🏼
+      We help talented models achieve their dreams scouting, developing, managing, and connecting them with first-class brands 📧 Info@strikingmodels.com.au
     location: "Australia"
-    followers: 45671
-    engagement: 157
-    commentsToLikes: 0.035900
-    id: ck0w6l5w993li0i19gm680pqw
-    verified: false
-    hashtags: "#tools, #makeuplook, #naturalbeauty, #sydneymua"
-  - username: "fatoscelikmakeup"
-    fullname: >-
-      FC | SYDNEY MAKEUP & BEAUTY
-    bio: >-
-      ▪️MAKEUP | BRIDAL & EVENTS ▪️KERATIN LASH LIFTS ▪️HD BROWS ▪️BROW LAMINATION ▪️LASH EXTENSIONS ▪️TEETH WHITENING 📍Bass Hill, Sydney
-    location: "Australia"
-    followers: 47610
-    engagement: 151
-    commentsToLikes: 0.021277
-    id: ck5cl1hcry24x0i11zbbk193m
-    verified: false
-    hashtags: "#mua, #bride, #makyaj, #wakeupandmakeup"
-  - username: "jenwijayaphotography"
-    fullname: >-
-      Jen Wijaya 📷
-    bio: >-
-      Beauty & Fashion Photographer 📍Sydney Other work: @jenniferchanphoto
-    location: "Australia"
-    followers: 7378
-    engagement: 201
-    commentsToLikes: 0.096534
-    id: ck0tw5jree44x0i193fi9zgsy
+    followers: 87897
+    engagement: 10
+    commentsToLikes: 0.023061
+    id: ckaoxw09eezxz0i78z14ggye0
     verified: false
     hashtags: ""
-  - username: "somestylishchick"
+  - username: "lydiasleimanmakeup"
     fullname: >-
-      ROSEMARY SLADE
+      Lydia Sleiman Makeup
     bio: >-
-      » it’s rosie 👋🏽 sydney, australia » outfits • beauty • petite style » travel editor @deliciousaus ✉️ rosemary@rosemaryslade.com
+      Makeup Artist | Bridal | Eyebrow specialist | Educator Currently on Maternity leave until April 🤱🏻 Click the link below to book now
     location: "Australia"
-    followers: 10324
-    engagement: 474
-    commentsToLikes: 0.185047
-    id: ckaowiqvn943h0i78fgxd2gf1
+    followers: 17935
+    engagement: 822
+    commentsToLikes: 0.025546
+    id: ck13ala63qxk30i19rpc1wwl6
     verified: false
-    hashtags: "#sydneylockdown2021, #sydneylockdown, #plaidskirts, #sydneylifestyleblogger"
-  - username: "beauty_withlauren"
+    hashtags: "#glam, #makeupartist, #makeup, #bronzeglam"
+  - username: "harperandharley"
     fullname: >-
-      Lauren 👋🏼
+      SARA CRAMPTON
     bio: >-
-      Fohr Verified 📍 Sydney, Australia ✉️ beauty_withlauren@hotmail.com
+      Founder of @theundonestore a multi-brand boutique focused on curating and creating, style that lasts. Partnerships: nadine@bythem.co
     location: "Australia"
-    followers: 8641
-    engagement: 140
-    commentsToLikes: 0.060010
-    id: ckf5nf9fwy0ot0j23bp3dhpyg
+    followers: 505807
+    engagement: 24
+    commentsToLikes: 0.025316
+    id: ck0u8dmmn70gb0i19tk474hz7
+    verified: true
+    hashtags: "#outfit, #grwm, #ootd, #outfitinspiration"
+  - username: "minniemakeup_"
+    fullname: >-
+      Minnie | Sydney Beauty Creator
+    bio: >-
+      Glad you’re here 🫶🏻 Acne, Makeup, Skincare & SPF Passionate about women being happy 💌 minnie@whiterabbitsocial.com ✍🏻 @whiterabbitsocial_
+    location: "Australia"
+    followers: 10603
+    engagement: 385
+    commentsToLikes: 0.207268
+    id: cl4f68hoypm1f0i230wxz0l0i
     verified: false
-    hashtags: "#toofaced, #meccabeautyjunkie, #narsissist, #violetvoss"
+    hashtags: "#bts, #skincare, #skincaredaily, #skincarecommunity"
+  - username: "leahbaines_mua"
+    fullname: >-
+      Leah Baines
+    bio: >-
+      BEAUTY + BABY Freelance Sydney HMUA Founder @own.beauty.essentials Bookings / enquiries head to web
+    location: "Australia"
+    followers: 85647
+    engagement: 187
+    commentsToLikes: 0.032797
+    id: ck0ude1t5ixej0i19vb809u9u
+    verified: false
+    hashtags: "#sydney, #makeuplook, #naturalmakeup, #makeuptutorial"
 ---

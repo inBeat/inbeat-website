@@ -1,24 +1,12 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Indonesia In 2023
+title: Top 10 Gymnasts Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top gymnasts Instagram influencers in Indonesia in 2023. Most popular hashtags: #gymnastics #fitness #photooftheday #workout.
+  Find top gymnasts Instagram influencers in Indonesia in 2024. Most popular hashtags: #gymnastics #fitness #workout #training.
 platform: Instagram
-hits: 17
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 17 Instagram influencers like this in Indonesia for you to contact.
+hits: 13
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 13 Instagram influencers like this in Indonesia for you to pitch.
 profiles:
-  - username: "vinod_bhatt2092"
-    fullname: >-
-      vinod bhatt
-    bio: >-
-      Many of My Smiles Are Because Of You🌹🧿 Video creator 🎥 *~GYMNAST~* Enquiries 📧:vinodbhatt0001@gmail.com prvt id: @vinod_bhatt143 YouTube ⬇️
-    location: "Indonesia"
-    followers: 162526
-    engagement: 653
-    commentsToLikes: 0.052840
-    id: ck137pnqccqrf0i19bo4n05rv
-    verified: false
-    hashtags: "#instadaily, #photooftheday, #reels, #vbfam"
   - username: "jake_e_j"
     fullname: >-
       JAKE JARMAN
@@ -31,30 +19,42 @@ profiles:
     id: ck9hcwe46n8xx0j78r78y37gz
     verified: false
     hashtags: "#muscle, #backflip, #insane, #tumble"
-  - username: "lyoshniy"
+  - username: "annavitkovskaya"
     fullname: >-
-      Alexey Popov
+      Anna✨
     bio: >-
-      Team @skills_wear | @chaosfaktory | @pkfrtv Currently in Bangalore, India 🇮🇳
+      🇷🇺🇲🇩🇧🇾🇺🇦🇦🇪🇸🇬🇲🇾🇹🇭🇮🇩🇮🇳 International model 📍Jakarta - Bali DM for business inquiries 📩
     location: "Indonesia"
-    followers: 14940
-    engagement: 961
-    commentsToLikes: 0.039786
-    id: ck6tpeceijdu60j711djjyag4
+    followers: 22102
+    engagement: 298
+    commentsToLikes: 0.099629
+    id: ck5chhegmqscj0i11hr4fuwu6
     verified: false
-    hashtags: "#pkfrcrew, #turkey, #newtrick, #wallflip"
-  - username: "thomashubener"
+    hashtags: "#fashion, #photo, #gheafashionstudio, #jakarta"
+  - username: "andrew_yogi"
     fullname: >-
-      Thomas Hubener
+      Andrew Yogi
     bio: >-
-      🎪 @cirquedusoleil Acrobat on KURIOS World Tour 🎥 Photographer/Filmmaker @ubnr_ ⛓ Ninja Warrior Athlete🥈🥈🥉 🤙🏼 Love surfing
+      📍 Jakarta @preloved_yogi #andrewyogi Inquiries 📩: DM me / Email / Contact @ricoomodels +6289648644 575
     location: "Indonesia"
-    followers: 24995
-    engagement: 466
-    commentsToLikes: 0.011931
-    id: ck6tm68zc79480j71584rhvpg
+    followers: 83855
+    engagement: 229
+    commentsToLikes: 0.023677
+    id: ck5cgqzx1pdz10i1161ciiv85
     verified: false
-    hashtags: "#acrobatics, #circus, #antibes, #pullin"
+    hashtags: "#reels, #gymlife, #gymnastics, #healthylifestyle"
+  - username: "ikasanz"
+    fullname: >-
+      Kartika Dewi Suryani ♠️
+    bio: >-
+      𝑩𝑨 : @muscletech 💪, @cocoonmedicalspabali ✨️( 𝑼𝒔𝒆 𝒄𝒐𝒅𝒆 "𝑰𝑲𝑨𝑺𝑨𝑵𝒁" 𝒈𝒆𝒕 𝒅𝒊𝒔𝒄 𝒂𝒍𝒍 𝒕𝒓𝒆𝒂𝒕𝒎𝒆𝒏𝒕 ) 🏋 : @degymplatinum.kerobokan 𝔽𝕚𝕥𝕟𝕖𝕤𝕤 𝕚𝕟𝕗𝕝𝕦𝕖𝕟𝕔𝕖𝕣 📍𝐁άĹเ🌴
+    location: "Indonesia"
+    followers: 60423
+    engagement: 95
+    commentsToLikes: 0.058761
+    id: ck9wgk1f5trp10j78o2ldtyun
+    verified: false
+    hashtags: "#fitness, #vapor, #platinumcreatine, #brunch"
   - username: "gungdeagaa"
     fullname: >-
       
@@ -73,36 +73,12 @@ profiles:
     bio: >-
       Travelling & Workout Bandung. Youtube 👇
     location: "Indonesia"
-    followers: 40135
-    engagement: 229
-    commentsToLikes: 0.142647
+    followers: 38846
+    engagement: 240
+    commentsToLikes: 0.140929
     id: ck1381404dzn20i19vce3khsb
     verified: false
-    hashtags: "#workout, #workoutmotivation, #streetworkout, #calisthenics"
-  - username: "dave_swatt"
-    fullname: >-
-      Dave Swatt
-    bio: >-
-      (DAVID GUSTI NGURAH PUTRA SURYADI) "Let's Share Positive Vibes 🦾🍃" - Height : 6,0ft - Weight : 182lb
-    location: "Indonesia"
-    followers: 102053
-    engagement: 154
-    commentsToLikes: 0.018092
-    id: ck15p9kyiwrxo0i19x6vx1plv
-    verified: true
-    hashtags: "#fitnessjourney, #infoolahraga, #fitnesslife, #menswear"
-  - username: "ully_frank"
-    fullname: >-
-      안녕하세요 🌻
-    bio: >-
-      🔊 Dj , 💃 Model , 🎤 Mc @frank_collection99 @diaryofulyfrank Business : DM ☎️ 📍JKT - YK
-    location: "Indonesia"
-    followers: 29510
-    engagement: 148
-    commentsToLikes: 0.038802
-    id: ck5zis6zhga1e0i14wttzw65e
-    verified: false
-    hashtags: "#discjokey, #love, #bestoftheday, #makeup"
+    hashtags: "#workout, #workoutmotivation, #streetworkout, #bodytransformation"
   - username: "lincoln.r.powell"
     fullname: >-
       Lincoln R Powell 🧢
@@ -115,16 +91,40 @@ profiles:
     id: ck0w0tqbwfzkc0i19t1njfy15
     verified: false
     hashtags: "#freerunning, #unparalleled, #stormgang, #parkour"
-  - username: "dika_adaband"
+  - username: "martialarts.am"
     fullname: >-
-      Suriandika Satjadibrata 🇲🇨
+      martialarts.am 🌍 武术
     bio: >-
-      ▶️ @adabandofficial #bassist #musician | @jakvegas.musik ▶️ Founder of @yogamarta_indonesia #ADABand - Tak Lagi Cinta ⬇️
+      Founder @sako.ghukasyan 👈
     location: "Indonesia"
-    followers: 16975
-    engagement: 243
-    commentsToLikes: 0.084824
-    id: ck6ttfvvuae860j71bvws9bvh
+    followers: 210768
+    engagement: 352
+    commentsToLikes: 0.012854
+    id: ck15tcilghf780i19tuopf1kl
     verified: false
-    hashtags: "#workout, #bassist, #yogamarta, #dikaadaband"
+    hashtags: "#shaolin, #sportmotivation, #kicks, #sensei"
+  - username: "roy_heliopolis"
+    fullname: >-
+      Roy Heliopolis II
+    bio: >-
+      I'm sport teacher 🎓 Aerobic Instructor 📍Based : Pangkalanbun - Central Borneo - INDONESIA
+    location: "Indonesia"
+    followers: 13811
+    engagement: 146
+    commentsToLikes: 0.051635
+    id: ckaozrwiyn4tp0i783p6sd0kc
+    verified: false
+    hashtags: "#ayokemuseum, #palangkaraya, #instapic, #instagood"
+  - username: "amansingh.3"
+    fullname: >-
+      Am🔥n singh
+    bio: >-
+      ⭐TIKTOKER | FASHION | LIFESTYLE⭐ Instagram New ID🥀 400K+ Family on TiKToK🖤⚡ For collab-@vinaychauhanofficial Manage by -@creativehandsofficials Shiv🙏🥀
+    location: "Indonesia"
+    followers: 3859
+    engagement: 4175
+    commentsToLikes: 0.059433
+    id: ckap7zp8lm7li0i78v8h3hn5j
+    verified: false
+    hashtags: "#uttarakhand, #tiktokvideos, #jodhpur, #goa"
 ---

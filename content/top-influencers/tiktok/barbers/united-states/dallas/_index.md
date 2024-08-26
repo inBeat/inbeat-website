@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Dallas In 2023
+title: Top 10 Barbers TikTok Influencers In Dallas In 2024
 description: >-
-  Find top barbers TikTok influencers in Dallas in 2023. Most popular hashtags: #dallas #fyp #texas #barber.
+  Find top barbers TikTok influencers in Dallas in 2024. Most popular hashtags: #dallas #fyp #barber #texas.
 platform: TikTok
 hits: 6
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our database has 6 TikTok influencers like this in Dallas, United States for you to pitch.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 6 TikTok influencers like this in Dallas, United States for you to work with.
 profiles:
   - username: "elgalvanjr"
     fullname: >-

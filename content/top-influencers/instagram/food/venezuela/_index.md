@@ -1,12 +1,36 @@
 ---
-title: Top 10 Food Instagram Influencers In Venezuela In 2023
+title: Top 10 Food Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top food Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #caracas #food.
+  Find top food Instagram influencers in Venezuela in 2024. Most popular hashtags: #venezuela #caracas #food.
 platform: Instagram
-hits: 50
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our platform has 50 Instagram influencers like this in Venezuela for you to pitch.
+hits: 55
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 55 Instagram influencers like this in Venezuela for you to pitch.
 profiles:
+  - username: "lamontelongo"
+    fullname: >-
+      Carmen Piedad Montelongo
+    bio: >-
+      Orgullosa embajadora de @roncovzla Cocinera por vocación y foodie por adicción. TW: @soylamontelongo YouTube: La Montelongo T.V
+    location: "Venezuela"
+    followers: 178037
+    engagement: 404
+    commentsToLikes: 0.072810
+    id: ck5cjj5n6utv20i116dnqpn29
+    verified: false
+    hashtags: "#despiertaelsabor, #bu, #ronco, #semanasanta"
+  - username: "nhabyg"
+    fullname: >-
+      NHABYLA SIMONETTE
+    bio: >-
+      Content Creator Fashion, decor, food, travel & lifestyle blogger # EfectoNhaby @inwears
+    location: "Venezuela"
+    followers: 168796
+    engagement: 239
+    commentsToLikes: 0.009151
+    id: ck0tuopg881ee0i192txrnvll
+    verified: false
+    hashtags: "#oneandonly, #mexico, #miaminights, #losroques"
   - username: "nonobelune"
     fullname: >-
       NONO ₿ELUNE • ELITE GROUP
@@ -55,18 +79,6 @@ profiles:
     id: ck6tsv7nh70op0j71oah6m97e
     verified: false
     hashtags: "#proud2bcia, #burgers, #caracas, #emprendimiento"
-  - username: "doslocosdeviaje"
-    fullname: >-
-      Dos Locos De Viaje
-    bio: >-
-      Travel, Food, Lifestyle 🌵 📍Venezuela 🇻🇪 👕@2locostore 🧳@socoadventures 🥘@gorditosdeviaje ⤵️TODO ACERCA DE NOSOTROS⤵️
-    location: "Venezuela"
-    followers: 257097
-    engagement: 315
-    commentsToLikes: 0.017676
-    id: ck5cjb0bluctn0i11otuondod
-    verified: false
-    hashtags: "#cappadocia, #saltoangel, #turquia, #visitturkey"
   - username: "lunanavarro"
     fullname: >-
       O. Luna Navarro
@@ -79,30 +91,6 @@ profiles:
     id: ck5c8yj56afz30i11wdsvm4n8
     verified: false
     hashtags: "#fashionreels, #latiti, #fashion, #tiedye"
-  - username: "co_cinero"
-    fullname: >-
-      CESAR GONZALEZ Cocinero
-    bio: >-
-      Foodie, Restaurateur, Chef based in Miami Restaurant @taikinrestaurant YouTube: Cesar Cocinero 👇 🇻🇪 🇺🇸
-    location: "Venezuela"
-    followers: 2181053
-    engagement: 119
-    commentsToLikes: 0.028616
-    id: ck136dd4p5xm50i196eioy10t
-    verified: false
-    hashtags: "#recetas, #venezuelanfood, #cocina, #recetasfaciles"
-  - username: "lamontelongo"
-    fullname: >-
-      Carmen Piedad Montelongo
-    bio: >-
-      Cocinera por vocación y foodie por adicción. Comer con los ojos...sólo engorda el alma. TW: @yosoylamontelongo
-    location: "Venezuela"
-    followers: 95627
-    engagement: 131
-    commentsToLikes: 0.112637
-    id: ck5cjj5n6utv20i116dnqpn29
-    verified: false
-    hashtags: "#comervenezolano, #cocinaenfamilia, #cocinacriolla, #venezuelaes"
   - username: "saab.visual"
     fullname: >-
       Saab Visual 📸
@@ -115,16 +103,28 @@ profiles:
     id: ck14hkkbkas2r0i19v767ah7j
     verified: false
     hashtags: "#playasdevenezuela, #caribe, #aerialphotography, #viajadesdecasa"
-  - username: "angustia"
+  - username: "caracasburguerbuenprovecho"
     fullname: >-
-      ANGUSTIA | Angélica Gómez
+      Caracas
     bio: >-
-      Open-minded | Communicator | Digital Activist & Self-motivated | Healthy Foodie | Energy Believer 🌿 🫀@laperfeccion.quenoven 🧵 @maylea.ve ⬇️ Mi web ⬇️
+      SAMBIL LA CANDELARIA y CHACAO PLAZA VZLA FRENTE AL SENIAT EL PARAÍSO Próx en supermercado viva boleita Próx en el Recreo @Caracas__burguer respaldo
     location: "Venezuela"
-    followers: 21877
-    engagement: 542
-    commentsToLikes: 0.028578
-    id: ck5q7n7ni2bs70i11fyma76fg
+    followers: 707871
+    engagement: 160
+    commentsToLikes: 0.018331
+    id: ck9habi5vbwrv0j78ljtet13i
     verified: false
-    hashtags: "#caracas, #venezuela, #mindfulness, #positivevibes"
+    hashtags: "#plazaaltamira, #plazavenezuela, #food, #restaurantes"
+  - username: "marcobeteta"
+    fullname: >-
+      Marco Beteta
+    bio: >-
+      ¡Elegir un buen restaurante nunca fue tan fácil! 🍽 Descarga nuestra NUEVA App MB👇🏼 Recomendaciones en más de 100 ciudades 🌎
+    location: "Venezuela"
+    followers: 140061
+    engagement: 108
+    commentsToLikes: 0.033108
+    id: ck134ez4dw4cr0i192l9749aa
+    verified: true
+    hashtags: "#foodlover, #eats, #sandiego, #recomendaci"
 ---

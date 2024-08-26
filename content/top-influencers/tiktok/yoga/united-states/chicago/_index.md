@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Chicago In 2023
+title: Top 10 Yoga TikTok Influencers In Chicago In 2024
 description: >-
-  Find top yoga TikTok influencers in Chicago in 2023. Most popular hashtags: #yoga #fyp #duet #foryoupage.
+  Find top yoga TikTok influencers in Chicago in 2024. Most popular hashtags: #yoga #fyp #duet #healing.
 platform: TikTok
 hits: 5
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 5 TikTok influencers like this in Chicago, United States for you to collaborate.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 5 TikTok influencers like this in Chicago, United States for you to contact.
 profiles:
   - username: "yulibooli"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       my tiktoks are random CPA From Texas Live in Chicago
     location: "United States"
-    followers: 24500
-    engagement: 1451
-    commentsToLikes: 0.024428
+    followers: 24200
+    engagement: 1644
+    commentsToLikes: 0.020463
     id: ckb9dh1v90t2j0j236uboevgm
     verified: false
-    hashtags: "#beautyreview, #fyp, #dog, #accounting"
+    hashtags: "#fyp, #snoozzzapalooza, #dog, #xyzbca"
   - username: "madisonhut"
     fullname: >-
       Madison
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.119650
     id: ck9ro60yoazc00j7883tyb06n
     verified: false
-    hashtags: "#duet, #taylorswift, #transformers, #siege"
+    hashtags: "#summerdiy, #music, #fyp, #transformers"
   - username: "subwrestler"
     fullname: >-
       sub wrestler
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.115327
     id: ckbweqypy1rdb0j23muilxbnb
     verified: true
-    hashtags: "#duetwithme, #beat, #creator, #comedy"
+    hashtags: "#fyp, #creator, #comedy, #duetwithme"
   - username: "embermusic452"
     fullname: >-
       Emily Rose
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.146499
     id: ckc7zijrv17w90j237wjkdrj7
     verified: false
-    hashtags: "#cat, #catmom, #musician, #duet"
+    hashtags: "#teacher, #musician, #musicteacher, #cat"
   - username: "keelsmontana"
     fullname: >-
       Kendall Meiller
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.052850
     id: cka0zzn44hon50i7827tgar4a
     verified: false
-    hashtags: "#meditation, #affirmations2021, #ifeelweightless, #yogaflow"
+    hashtags: "#ifeelweightless, #springvibes, #mentalhealthawarness, #yoga"
 ---

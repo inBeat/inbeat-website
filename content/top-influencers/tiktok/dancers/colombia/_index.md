@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Colombia In 2023
+title: Top 10 Dancers TikTok Influencers In Colombia In 2024
 description: >-
-  Find top dancers TikTok influencers in Colombia in 2023. Most popular hashtags: #dancer #dance #foryou #viral.
+  Find top dancers TikTok influencers in Colombia in 2024. Most popular hashtags: #dancer #dance #foryou #viral.
 platform: TikTok
 hits: 26
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 26 TikTok influencers like this in Colombia for you to contact.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our database has 26 TikTok influencers like this in Colombia for you to work with.
 profiles:
   - username: "andresmurart"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       🇨🇴🏳️‍🌈 actor and dancer ❤️ 250k? 🧸 ig: @andresmurart
     location: "Colombia"
-    followers: 220800
-    engagement: 1472
-    commentsToLikes: 0.011364
+    followers: 245200
+    engagement: 1458
+    commentsToLikes: 0.010612
     id: ckamlpxzux8100i78iy0li00m
     verified: false
-    hashtags: "#comedia, #humorgay, #foryou, #amigas"
+    hashtags: "#novio, #fyp, #yoenlafiesta, #viral"
   - username: "jonathanz16"
     fullname: >-
       jona montoya
@@ -26,11 +26,11 @@ profiles:
       #zumbainstructor Colombiano🇨🇴 IG: jonamontoyazumba Professional salsa dancer
     location: "Colombia"
     followers: 56400
-    engagement: 722
-    commentsToLikes: 0.017625
+    engagement: 721
+    commentsToLikes: 0.015644
     id: ck9feiw5it69l0j78b5bjjbgd
     verified: false
-    hashtags: "#salsa, #salsacale, #followers, #votd"
+    hashtags: "#colombia, #cali, #salsacale, #tipssalsa"
   - username: "lospiesdelu"
     fullname: >-
       Luisa Perico
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.016736
     id: ckai6c7unvjx90i7855fpeesc
     verified: false
-    hashtags: "#dance, #tiktoker, #foryou, #latina"
+    hashtags: "#mujerescolombianas, #colombia, #tiktokcolombia, #dance"
   - username: "alejocaro2"
     fullname: >-
       Alejo Caro

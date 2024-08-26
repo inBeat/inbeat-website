@@ -1,12 +1,48 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Indonesia In 2023
+title: Top 10 Cinema Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top cinema Instagram influencers in Indonesia in 2023. Most popular hashtags: #indovidgram #folkindonesia #exploreindonesia #indovisualgram.
+  Find top cinema Instagram influencers in Indonesia in 2024. Most popular hashtags: #cinematography #sonyalpha #behindthescenes #sonyindonesia.
 platform: Instagram
-hits: 655
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 655 Instagram influencers like this in Indonesia for you to pitch.
+hits: 676
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 676 Instagram influencers like this in Indonesia for you to contact.
 profiles:
+  - username: "darymuammar"
+    fullname: >-
+      Dary Muammar - Content Creator
+    bio: >-
+      📌86K YT | 33K TT 📌Balisong | Cinematographer | Dancer | Digital Artist | Public Speaker | Sound Design Artist 📩 Click link for Collaboration
+    location: "Indonesia"
+    followers: 34048
+    engagement: 587
+    commentsToLikes: 0.039170
+    id: cloxohv7d0cfq0j08r99v6fr8
+    verified: false
+    hashtags: "#editing, #cinematography, #davinciresolve, #videography"
+  - username: "baadshaho"
+    fullname: >-
+      Baadshaho
+    bio: >-
+      *ing Ajay Devgn, Emraan Hashmi, Esha Gupta, Vidyut Jammwal, Ileana D'cruz & Sanjai Mishra. Directed by Milan Luthria. In Cinemas Now.
+    location: "Indonesia"
+    followers: 10794
+    engagement: 1171
+    commentsToLikes: 0.008595
+    id: ck5hmq53qmf1j0i11j6cbmnt5
+    verified: true
+    hashtags: ""
+  - username: "rezaakhmad"
+    fullname: >-
+      Reflect Cinema 🇮🇩
+    bio: >-
+      Commercial Content Creator 📸🎥 #SonySportography • Director at @reflect.cinema Sinematographer Lecturer • Based in Yogyakarta ⬇️⬇️⬇️
+    location: "Indonesia"
+    followers: 10028
+    engagement: 429
+    commentsToLikes: 0.034488
+    id: ckf5wakydreyh0j23zeszxdjf
+    verified: false
+    hashtags: "#a7iii, #sonygmaster, #instamtb, #sel35f18f"
   - username: "ferryrusli"
     fullname: >-
       Ferry Rusli
@@ -19,18 +55,42 @@ profiles:
     id: ck0vxk91ezb3m0i19u0u7eqr1
     verified: false
     hashtags: "#kohfersuting, #erafone, #rwsmoments, #masterclassbyerafone"
-  - username: "marzcheese"
+  - username: "cclaracr"
     fullname: >-
-      UMAR LIE IMANUDDIN 🇮🇩
+      Clara Clarissa Rianto
     bio: >-
-      #fashion #lifestyle #streetstyle #menswear #photography #cinema #design #traveler #gym #reviewer 📍#SEMARANG 𝘿𝙈 𝙛𝙤𝙧 #endorse #paidpromote #campaign
+      ✨ natural makeup lover 🇲🇨 content creator 🦷 @cube.dentalstudio 📱 +62 8817171616 I also try random stuff and make it cinematic at the same time
     location: "Indonesia"
-    followers: 129319
-    engagement: 231
-    commentsToLikes: 0.288959
-    id: ck9wgd8yuswsz0j78sz1pnpt7
+    followers: 100993
+    engagement: 205
+    commentsToLikes: 0.015899
+    id: ck0w0ibiyecf60i19r7yts9ib
     verified: false
-    hashtags: "#photography, #lookbookindonesia, #gingersnapbali, #bali"
+    hashtags: "#naturalmakeup, #glassskin, #hudabeauty, #wakeupandmakeup"
+  - username: "upieguava"
+    fullname: >-
+      upieGuava
+    bio: >-
+      Music Video & Commercial Director, Cinematographer, Editor & Father Sony Professional Videographer @dossguavaxr +62 812-9582-2021 || business contact
+    location: "Indonesia"
+    followers: 42977
+    engagement: 168
+    commentsToLikes: 0.029879
+    id: ck0tv5zkha3210i19n0uje1h2
+    verified: false
+    hashtags: "#behindthescenes, #pelangidimars, #imajinasitanpabatas, #sonyfx6"
+  - username: "tissabiani"
+    fullname: >-
+      Tissa Biani Azzahra
+    bio: >-
+      🇮🇩🎤🎬💃🌻 Series “Keluarga Hitung Hitungan” now playing in @viuindonesia ! Film “Agak Laen” now playing in cinemas!
+    location: "Indonesia"
+    followers: 4842070
+    engagement: 88
+    commentsToLikes: 0.024466
+    id: ck15qhzux2xq60i19k5yv8y0o
+    verified: true
+    hashtags: "#keluargahitunghitungan, #viu, #keluargahitunghitunganseries, #erastouroutfit"
   - username: "yudidatau"
     fullname: >-
       Yudi Datau.ICS
@@ -55,18 +115,6 @@ profiles:
     id: ck6tudq9nfqys0j71nqg28qgb
     verified: false
     hashtags: ""
-  - username: "narasenaa"
-    fullname: >-
-      Narasena
-    bio: >-
-      Cinematographer. Own #AlexaLF #AlexaXT Jakarta, Indonesia. @senafilms.id @senafilmstore
-    location: "Indonesia"
-    followers: 30108
-    engagement: 762
-    commentsToLikes: 0.015701
-    id: ck5chb499qfyv0i11buaz3zgd
-    verified: false
-    hashtags: "#ri2020, #shotbysena, #eranyadji, #djiindonesia"
   - username: "ridhoalwanfahri"
     fullname: >-
       👤 Ridho Alwan Fahri
@@ -79,52 +127,4 @@ profiles:
     id: ck15rxgkaa6sx0i19s3ej4bhj
     verified: false
     hashtags: "#pesonaaceh, #gunungtalang, #fyp, #talamau"
-  - username: "mfm_ihsan"
-    fullname: >-
-      Mfauzi M ihsan
-    bio: >-
-      بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم - @gu_cinema 🎬 - @locatara.photo 🎬 - sentul 📍 - - design graphic 👨‍💻 - smariah25♡
-    location: "Indonesia"
-    followers: 6510
-    engagement: 1081
-    commentsToLikes: 0.075408
-    id: ck15sz332fjgw0i19rijp5ayq
-    verified: false
-    hashtags: "#indovisualgram, #cinematicvideo, #womenesia, #indowomengram"
-  - username: "_dwfzr"
-    fullname: >-
-      Defa firmansyah kurniawan
-    bio: >-
-      Minimalist enthusiast Digital & Analog Garut ✉️:dewafajar24@gmail.com @thrifting.is.good | @lintasphotography |@lintas.cinema
-    location: "Indonesia"
-    followers: 3394
-    engagement: 1630
-    commentsToLikes: 0.295434
-    id: ck5hhde0o7nh10i11m206bm95
-    verified: false
-    hashtags: "#sonyminimalism, #garagarainstagram, #dontstopgramming, #whpgoldenhour"
-  - username: "nvlrf"
-    fullname: >-
-      Naufal Rofif - 유오 가에머
-    bio: >-
-      Cinematic Mood Film Freelance Videographers Commercial @moralitika
-    location: "Indonesia"
-    followers: 3813
-    engagement: 1338
-    commentsToLikes: 0.052638
-    id: ck5q7mkk928zq0i11iabu1m8p
-    verified: false
-    hashtags: "#banjarinfo, #exploreindonesia, #explorebanjar, #indovisualgram"
-  - username: "storyliterasi36"
-    fullname: >-
-      SUPPORT 50K🔵MUSIC🔵PAID PROMOTE
-    bio: >-
-      Follow Dong!!! Follow : @storyliterasi__ @storyliterasi36 @dillah038 Upload Tiap Hari🥰 🔵Cinemagram 🔵Musik 🔵Literasi INFO PP ➡️ DM
-    location: "Indonesia"
-    followers: 57833
-    engagement: 1161
-    commentsToLikes: 0.012139
-    id: ckaos6qb5qc7q0i78rtdjncz1
-    verified: false
-    hashtags: "#puisirindu, #quotesindonesia, #cinemagram, #musikindo"
 ---

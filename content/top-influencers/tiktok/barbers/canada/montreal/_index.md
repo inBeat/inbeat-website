@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Montreal In 2023
+title: Top 10 Barbers TikTok Influencers In Montreal In 2024
 description: >-
-  Find top barbers TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #montreal #barber #foryou.
+  Find top barbers TikTok influencers in Montreal in 2024. Most popular hashtags: #fyp #montreal #barber #foryou.
 platform: TikTok
 hits: 5
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our database holds 5 TikTok influencers like this in Montreal, Canada for you to contact.
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 5 TikTok influencers like this in Montreal, Canada for you to contact.
 profiles:
   - username: "meddexx"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       Armenian 🇦🇲 Follow Instagram @RitaKevrikian @Art_of_Barbers
     location: "Canada"
-    followers: 10200
-    engagement: 281
-    commentsToLikes: 0.021823
+    followers: 10100
+    engagement: 306
+    commentsToLikes: 0.020710
     id: ckb9c8pjmywlk0j23nbrzvgi2
     verified: false
-    hashtags: "#foryourpage, #foryourpagechallange, #gf, #viral"
+    hashtags: "#bf, #foryourpagechallange, #couplechallenge, #foryou"
   - username: "sarahdouak"
     fullname: >-
       Sarah Douak
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.063181
     id: ck8z2vzyy73dg0j78tnwiam7t
     verified: false
-    hashtags: "#fyp, #barber, #viral, #funny"
+    hashtags: "#fyp, #viral, #barber, #projectcar"
   - username: "vincegambowah"
     fullname: >-
       Vince Gamboa
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.030805
     id: ck90r261okrm70j782y2cmffd
     verified: false
-    hashtags: "#foryou, #barber, #haircut, #foryoupage"
+    hashtags: "#barber, #fyp, #foryoupage, #foryou"
 ---

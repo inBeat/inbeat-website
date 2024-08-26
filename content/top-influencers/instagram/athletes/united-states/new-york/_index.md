@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes Instagram Influencers In New York In 2023
+title: Top 10 Athletes Instagram Influencers In New York In 2024
 description: >-
-  Find top athletes Instagram influencers in New York in 2023. Most popular hashtags: #newyork #workout #athlete.
+  Find top athletes Instagram influencers in New York in 2024. Most popular hashtags: #athlete #newyork #workout.
 platform: Instagram
-hits: 121
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 121 Instagram influencers like this in New York, United States for you to work with.
+hits: 153
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 153 Instagram influencers like this in New York, United States for you to connect with.
 profiles:
   - username: "justinpaulmusic"
     fullname: >-
@@ -31,18 +31,30 @@ profiles:
     id: ck138ifmtgdbt0i19m1wz6k87
     verified: true
     hashtags: "#austintexas, #tyrproseries, #wearenc"
+  - username: "nym_news"
+    fullname: >-
+      🔹New York Mets News🔸
+    bio: >-
+      🗽 ⇨ 2023 Record: 75-87 ⏰ ⇨ Est. 2014 🔥 ⇨ Largest Mets fanpage on IG! ⚾️ ⇨ NEW: @thequeensknights @chattersboxpodcast 🤑 ⇨ @SeatGeek code “NYMNEWS”
+    location: "United States"
+    followers: 90731
+    engagement: 468
+    commentsToLikes: 0.033427
+    id: ck0w3zv0mw3jq0i19087r3iu2
+    verified: false
+    hashtags: "#mets, #metswin, #jeffmcneil, #mlb"
   - username: "matttralli5"
     fullname: >-
       Matt Tralli
     bio: >-
-      @DOGPOUND trainer 💪🏻🐶 Former D1 & Professional Athlete 🏈 New York | Los Angeles 📍 NCCPT, PPSC 📚 @celsiusofficial 🔋 EL CONQUISTADOR
+      Fitness Trainer 💪🏻 Former D1 & Professional Athlete 🏈 New York | Los Angeles 📍 NCCPT, PPSC 📚
     location: "United States"
-    followers: 53793
-    engagement: 470
-    commentsToLikes: 0.018057
+    followers: 455043
+    engagement: 123
+    commentsToLikes: 0.014677
     id: ck55ofu1w89re0i11l91u94y4
     verified: false
-    hashtags: "#arms, #core, #coreworkout, #backworkout"
+    hashtags: "#homeworkout, #fitness, #armsworkout, #indonesia"
   - username: "keonihudoba"
     fullname: >-
       KEONI HUDOBA
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.022705
     id: ck55ptn5cbcp30i11tt2yod01
     verified: false
-    hashtags: "#mondaymotivation, #winning, #hrpk, #thesweatlife"
+    hashtags: "#hrpk, #winning, #thesweatlife, #mondaymotivation"
   - username: "_soxsoul_"
     fullname: >-
       New York Photo/Video Creator
@@ -79,6 +91,18 @@ profiles:
     id: ckf5vesbuobhl0j237c3vyr6o
     verified: false
     hashtags: ""
+  - username: "camdeanh"
+    fullname: >-
+      Cameron Dean
+    bio: >-
+      New York, New York @soulcycle NYC . 🖤 @jon__wu . @neoufitness CARDIO BURN . SPACES: The Talent Hack
+    location: "United States"
+    followers: 8251
+    engagement: 1510
+    commentsToLikes: 0.069658
+    id: ck5buoti1i5tv0i11lcftmuay
+    verified: false
+    hashtags: "#bodybuilding, #aesthetic, #follow, #sweat"
   - username: "azadwatches"
     fullname: >-
       AZAD THE BRAND/ AZAD WATCHES
@@ -91,40 +115,16 @@ profiles:
     id: ck9wi5yar0w070j78qayrj9v4
     verified: false
     hashtags: "#azadbrand, #championshipwatches, #azadwatches, #newyork"
-  - username: "allisonrainn3"
+  - username: "royaltysports1"
     fullname: >-
-      ⚓Allison Rain Hansen⚓
+      Royalty Sports®️
     bio: >-
-      🌸 Pro Wakesurfer 💎 @rainclothingco 🏄🏼‍♀️ @phase5wakesurfers @kultivatewellness @nauticurlwave @boat.juice ❤️ @bryceamartin2
+      342 Pike Rd., Suite 15 West Palm Beach, FL 33411 Office: 561-318-8151￼
     location: "United States"
-    followers: 39380
-    engagement: 338
-    commentsToLikes: 0.019649
-    id: ck0vvr0tjqdmd0i19aeak5l6m
+    followers: 15669
+    engagement: 130
+    commentsToLikes: 0.052212
+    id: ck6tutgkvibh40j71cmcgznny
     verified: false
-    hashtags: "#lakelife, #boating, #travel, #workout"
-  - username: "krista_gia"
-    fullname: >-
-      Krista Gialanella
-    bio: >-
-      ⚒Axe and Sledge Athlete⚒⁣⁣ 10% Code: KRISTA ⁣⁣ •.⁣⁣ Director of Health and Fitness ⁣⁣ @corstrengthnj ⁣⁣ ⁣⁣• 🤸🏼‍♀️Special Olympics Coach⁣⁣ 🏍Motorcycles
-    location: "United States"
-    followers: 11539
-    engagement: 692
-    commentsToLikes: 0.036915
-    id: ck55pz959bpxx0i11t3vs7y5v
-    verified: false
-    hashtags: "#gym, #fitness, #personaltrainer, #axeandsledge"
-  - username: "hnynut_berrios"
-    fullname: >-
-      Braxton Berrios
-    bio: >-
-      Be Like the Duck University of Miami | New York Jets Adidas Athlete
-    location: "United States"
-    followers: 72228
-    engagement: 1339
-    commentsToLikes: 0.017808
-    id: ck8sxxt2tj2620j7896q9ho1q
-    verified: true
-    hashtags: "#blackouttuesday"
+    hashtags: "#golflife, #golflifestyle, #pgamemes, #golfgods"
 ---

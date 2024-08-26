@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Australia In 2023
+title: Top 10 Nail Artists Instagram Influencers In Australia In 2024
 description: >-
-  Find top nail artists Instagram influencers in Australia in 2023. Most popular hashtags: #nails #nailart #nailsofinstagram #nailsonfleek.
+  Find top nail artists Instagram influencers in Australia in 2024. Most popular hashtags: #nails #nailart #nailartist #nailsofinstagram.
 platform: Instagram
-hits: 11
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 11 Instagram influencers like this in Australia for you to work with.
+hits: 13
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 13 Instagram influencers like this in Australia for you to pitch.
 profiles:
   - username: "so_nailicious"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck5hsq6f7x0900i11fhgclbqm
     verified: false
     hashtags: "#newyorknails, #mavala, #nailsonfleek, #nailtutorial"
-  - username: "missbettyrose"
-    fullname: >-
-      🕷 MISS BETTY ROSE 🕷
-    bio: >-
-      ⚡️SYDNEY NAIL ARTIST ⚡️ 💅🏼 PRESS ON NAILS missbettyrose.com.au🐍 🦋 SALON BOOKINGS ⬇️ 🔥ENQUIRIES P: 0421496649 🖤New Location🖤
-    location: "Australia"
-    followers: 61704
-    engagement: 613
-    commentsToLikes: 0.010745
-    id: ck5cigz52smq40i11a9jge18k
-    verified: false
-    hashtags: "#glitternails, #nailsoftheday, #nails2inspire, #nailedit"
   - username: "liampeternails"
     fullname: >-
       𝕷𝖎𝖆𝖒 𝕻𝖊𝖙𝖊𝖗 - 𝕹𝖆𝖎𝖑 𝕬𝖗𝖙𝖎𝖘𝖙
@@ -43,6 +31,30 @@ profiles:
     id: ck5hl93lqjsmo0i11yg9mshfm
     verified: false
     hashtags: "#frenchnails, #holographic, #soakbarandbeauty, #longnails"
+  - username: "missbettyrose"
+    fullname: >-
+      🕷 MISS BETTY ROSE🕷
+    bio: >-
+      ⚡️SYDNEY NAIL ARTIST⚡️ 💅🏼 HANDPAINTED PRESS ON NAILS💅🏼 🦋 SYDNEY SALON BOOKINGS ⬇️ 🔥ENQUIRIES TEXT: 0421496649🔥
+    location: "Australia"
+    followers: 64754
+    engagement: 213
+    commentsToLikes: 0.040792
+    id: ck5cigz52smq40i11a9jge18k
+    verified: false
+    hashtags: "#nailpromote, #nailartclub, #nailsonfleek, #nailstagram"
+  - username: "nailsbylaurissa"
+    fullname: >-
+      Sydney Nail Artist
+    bio: >-
+      On leave until September 18 Educator & Acrylic Specialist Private 1:1 Training available EMAIL only 📩 sorry, no dm Earlwood, Sydney 📍
+    location: "Australia"
+    followers: 23358
+    engagement: 223
+    commentsToLikes: 0.039643
+    id: ck6tykw5p4c080j71ku6rxa3m
+    verified: false
+    hashtags: "#nailartist, #sydneynailartist, #nails, #sydneynails"
   - username: "lovelypalaceofbeauty"
     fullname: >-
       Beauty and Style 💅💋💍👜
@@ -55,6 +67,18 @@ profiles:
     id: ckaoyahs0gomz0i783a4sz845
     verified: false
     hashtags: ""
+  - username: "cjartistry"
+    fullname: >-
+      SYDNEY’S #1 NAIL SALON
+    bio: >-
+      TAP THE LINK TO BOOK ONLINE 💅🏼 📍Granville, NSW 🇦🇺 🎓 Academy @cjacademyau 💅 Supplies @cjsupplyau
+    location: "Australia"
+    followers: 47437
+    engagement: 33
+    commentsToLikes: 0.009570
+    id: cloxoe2neza3k0j08c6prc2ql
+    verified: false
+    hashtags: "#nailartist, #pedicure, #almondnails, #sydneynails"
   - username: "thepaintedkoi"
     fullname: >-
       Alecia Mounixay Nail Art inspo
@@ -67,6 +91,18 @@ profiles:
     id: ck0vy5f882bkh0i19edgzmk02
     verified: false
     hashtags: "#nailsmagazine, #nailsofinstagram, #sculptednails, #pinknails"
+  - username: "sassnailartistry"
+    fullname: >-
+      Viki | Nail Artist + Trainer
+    bio: >-
+      💅🏼GELX ONLY SPECIALIST 📍Essendon 3040 Melbourne/Naarm
+    location: "Australia"
+    followers: 71943
+    engagement: 104
+    commentsToLikes: 0.036709
+    id: ckaorhdihn83z0i7848dtqfrs
+    verified: false
+    hashtags: "#ombrenails, #flamenails, #chromenails, #goldnails"
   - username: "princesscece"
     fullname: >-
       🌸Cece🌸
@@ -79,18 +115,6 @@ profiles:
     id: ck0ttz2qx4y1l0i19aeyygtot
     verified: false
     hashtags: "#pastels, #cute, #poledancing, #kawaii"
-  - username: "sassnailartistry"
-    fullname: >-
-      Melbourne Nail Tech
-    bio: >-
-      📍Moonee Ponds 3039 Online masterclasses COMING SOON
-    location: "Australia"
-    followers: 63951
-    engagement: 274
-    commentsToLikes: 0.023630
-    id: ckaorhdihn83z0i7848dtqfrs
-    verified: false
-    hashtags: "#greennails, #nailsofinstagram, #pinkswanprofessional, #kiaraskygellytips"
   - username: "genevievejauquet"
     fullname: >-
       💋 GENEVIEVE Jauquet Perez
@@ -102,29 +126,5 @@ profiles:
     commentsToLikes: 0.019240
     id: ck6tvadzul3830j71pkuiq810
     verified: false
-    hashtags: "#mattenails, #lipsandnails, #nails, #lips"
-  - username: "essypinkdog"
-    fullname: >-
-      Essy
-    bio: >-
-      Comics ♡ Animations 🇦🇺 Nails: @essthetic.nails ♥Commissions Closed♥ ♡GOD♡INFP♡ARMY♡PCOS♡ 👇🏻LATEST ANIMATION👇🏻
-    location: "Australia"
-    followers: 26178
-    engagement: 2034
-    commentsToLikes: 0.009242
-    id: ck8t9xyi4pr4a0j78379nmy9e
-    verified: false
-    hashtags: "#comic, #ibispaint, #galaxytabs6lite, #couplecomics"
-  - username: "nadiaperixo"
-    fullname: >-
-      N A D I A  P E R I 🦚
-    bio: >-
-      Aussie 🐨 in📍LA Leukaemia Survivor🇮🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇵🇱🇮🇪 BEAUTY || FASHION Content Creator 📧nadiapericontact@gmail.com 📧rebecca@bellamanagement.com.au DONATE⬇️
-    location: "Australia"
-    followers: 28165
-    engagement: 166
-    commentsToLikes: 0.085589
-    id: ck15q4qdz13970i1945z2p7hy
-    verified: false
-    hashtags: "#dior, #whatiwore, #persian, #laevents"
+    hashtags: "#genevievejauquet, #mattenails, #beautyretouching, #manicure"
 ---

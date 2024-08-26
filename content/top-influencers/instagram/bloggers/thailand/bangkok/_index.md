@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Bangkok In 2023
+title: Top 10 Bloggers Instagram Influencers In Bangkok In 2024
 description: >-
-  Find top bloggers Instagram influencers in Bangkok in 2023. Most popular hashtags: #thailand #adayinthailand #travelblogger #amazingthailand.
+  Find top bloggers Instagram influencers in Bangkok in 2024. Most popular hashtags: #thailand #travelblogger #amazingthailand #adayinthailand.
 platform: Instagram
-hits: 7
+hits: 9
 text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 7 Instagram influencers like this in Bangkok, Thailand for you to pitch.
+text_bottom: Our database has 9 Instagram influencers like this in Bangkok, Thailand for you to work with.
 profiles:
   - username: "lazycoup"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       ✨ Official IG : LAZY COUP ✨ Travel Couple l Nuu&Kim 📍 Bangkok Based l Blogger l Photographer E-mail: lazycoup@gmail.com
     location: "Thailand"
-    followers: 7833
-    engagement: 500
-    commentsToLikes: 0.008724
+    followers: 25284
+    engagement: 1084
+    commentsToLikes: 0.019897
     id: ck5c2grrax8cg0i11l3x5tcok
     verified: false
-    hashtags: "#dronephotography, #sonyalphaclub, #travelblogger, #notatourist"
+    hashtags: "#igersthailand, #travelgram, #insta, #igdaily"
   - username: "aoddyz"
     fullname: >-
       Aoddy T.
@@ -43,18 +43,18 @@ profiles:
     id: ck0w1lob8jynv0i19n8hwzo56
     verified: false
     hashtags: "#aroii, #aroiibkk, #aroisnap, #seaurchin"
-  - username: "banksjourney"
+  - username: "stephmylife"
     fullname: >-
-      Bank Purint
+      Stephanie Barry Woods
     bio: >-
-      Galaxy NOTE20+ 📷 SONY A7c 💼Work: Photographer&Blogger 🗺Page: Bank's journey 🅱️YOUTUBE: BANK’s JOURNEY 🗞Email: banksjourney1@gmail.com
+      🌍 Travel Blogger, 7 years on the road! 👩🏼‍💻 Founder of @smltb_coaching 📍Bangkok Next stop: India Check out my blog👇🏼
     location: "Thailand"
-    followers: 64261
-    engagement: 636
-    commentsToLikes: 0.010737
-    id: ck8t03apnqorj0j786ck659pg
+    followers: 98415
+    engagement: 114
+    commentsToLikes: 0.025994
+    id: ck5c5b2a734f80i11hp4aowd5
     verified: false
-    hashtags: "#songkhla, #roadtrip, #chiangmai, #reviewchiangmai"
+    hashtags: "#thailand, #traveltips, #travelguide, #hanoi"
   - username: "msforeveronvacation"
     fullname: >-
       Patty Pritshayada Piriyametha
@@ -79,6 +79,18 @@ profiles:
     id: ck6tkleuu4xpx0j71i5y8vyci
     verified: false
     hashtags: "#lacefrontwig, #mermaid, #siravariety, #dragmakeupartist"
+  - username: "tongtongnapat"
+    fullname: >-
+      Tongtong Napat Nanachin
+    bio: >-
+      Mom 🐻 Artist 📝 Founder of @moute.moti 🎨 @tongtong.arts and travel lifestyle blogger mrs. tourism queen international’ 22 🎀
+    location: "Thailand"
+    followers: 143496
+    engagement: 288
+    commentsToLikes: 0.004720
+    id: ck6to21n9bo260j71vmk0ig3k
+    verified: false
+    hashtags: "#ganesha, #thailandtravel, #tinyyystylextongtong, #hotelandresort"
   - username: "bewwtyy"
     fullname: >-
       Bewwtyy
@@ -91,40 +103,28 @@ profiles:
     id: ck9wf8n5jnp6x0j78jn302wm8
     verified: false
     hashtags: "#doiphulangka, #chiangmai, #hikingadventures, #amazingthailand"
-  - username: "banksjourney"
+  - username: "poppanupongs"
     fullname: >-
-      Bank Purint
+      Panupong Srirattanapong
     bio: >-
-      Galaxy NOTE20+ 📷 SONY A7c 💼Work: Photographer&Blogger 🗺Page: Bank's journey 🅱️YOUTUBE: BANK’s JOURNEY 🗞Email: banksjourney1@gmail.com
+      For work : Please DM Cats 🐈 : @berlinandgodzilla
     location: "Thailand"
-    followers: 64261
-    engagement: 636
-    commentsToLikes: 0.010737
-    id: ck8t03apnqorj0j786ck659pg
+    followers: 72621
+    engagement: 1076
+    commentsToLikes: 0.007244
+    id: cloxofu9tzi8s0j08ghicl52w
     verified: false
-    hashtags: "#songkhla, #roadtrip, #chiangmai, #reviewchiangmai"
-  - username: "aniqausmanofficial"
+    hashtags: "#reviewthailand, #camping, #amazingthailand, #reviewchiangmai"
+  - username: "lazycoup"
     fullname: >-
-      Aniqa Usman
+      LAZY COUP : เที่ยวเป็นคู่
     bio: >-
-      📩Dm for PR/Collabs Photography 📸 | Makeup Artist 💄 | Traveler | Beauty Blogger | Fashion Enthusiast Owner @icreations.pk
+      ✨ Official IG : LAZY COUP ✨ Travel Couple l Nuu&Kim 📍 Bangkok Based l Blogger l Photographer E-mail: lazycoup@gmail.com
     location: "Thailand"
-    followers: 24758
-    engagement: 89
-    commentsToLikes: 0.141871
-    id: ck8tdd08u2v620j78a5hylkdl
+    followers: 25284
+    engagement: 1084
+    commentsToLikes: 0.019897
+    id: ck5c2grrax8cg0i11l3x5tcok
     verified: false
-    hashtags: "#peacefulpakistan, #eidulazha, #igpakistan, #travelgram"
-  - username: "parie_llws"
-    fullname: >-
-      PARE
-    bio: >-
-      Hi~ Cabin Crew | Airline Presenter💃🏻✈️ Top 20 MGT2016👑 Model | Blogger | Traveller | Personality coach 📥for work > collaborations & reviews
-    location: "Thailand"
-    followers: 28621
-    engagement: 178
-    commentsToLikes: 0.018967
-    id: ckapam2wwwncu0i78bu1t0028
-    verified: false
-    hashtags: "#travel, #airasia, #tanned, #tannedgirl"
+    hashtags: "#igersthailand, #travelgram, #insta, #igdaily"
 ---

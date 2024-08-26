@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Milan In 2023
+title: Top 10 Photographers TikTok Influencers In Milan In 2024
 description: >-
-  Find top photographers TikTok influencers in Milan in 2023. Most popular hashtags: #italy #photographer #sunset #photography.
+  Find top photographers TikTok influencers in Milan in 2024. Most popular hashtags: #sunset #italy #photographer #photography.
 platform: TikTok
 hits: 4
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our database holds 4 TikTok influencers like this in Milan, Italy for you to collaborate.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 4 TikTok influencers like this in Milan, Italy for you to connect with.
 profiles:
   - username: "gianspe"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       📸 Photographer 📍Milan For shooting and collab: IG or ✉ gianspez@gmail.com
     location: "Italy"
-    followers: 7902
-    engagement: 827
-    commentsToLikes: 0.019742
+    followers: 7833
+    engagement: 698
+    commentsToLikes: 0.029706
     id: ckbqionll3wdj0j2300k8cemq
     verified: false
-    hashtags: "#tech, #mare, #foto, #photography"
+    hashtags: "#photographer, #milan, #imparacontiktok, #milano"
   - username: "serenapadalino"
     fullname: >-
       Serena Padalino
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.015464
     id: ckbl5f6t92wcr0j232t2kbvve
     verified: false
-    hashtags: "#foryou, #photographytricks, #perte, #bts"
+    hashtags: "#photographytricks, #tiktoktravel, #fyp, #perte"
   - username: "luigichiurchi"
     fullname: >-
       Luigi Chiurchi
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.037174
     id: ckacsfid69uq90i78e22wuzcl
     verified: false
-    hashtags: "#dopesnow, #dopesnowco, #seiseralm, #italyphotography"
+    hashtags: "#seiseralm, #dopesnowco, #videosnapchallenge, #pt1"
   - username: "ilariaeandrea"
     fullname: >-
       Fotografi matrimonio
@@ -109,22 +109,22 @@ profiles:
     bio: >-
       📸 Photographer 📍Milan For shooting and collab: IG or ✉ gianspez@gmail.com
     location: "Italy"
-    followers: 7902
-    engagement: 827
-    commentsToLikes: 0.019742
+    followers: 7833
+    engagement: 698
+    commentsToLikes: 0.029706
     id: ckbqionll3wdj0j2300k8cemq
     verified: false
-    hashtags: "#tech, #mare, #foto, #photography"
+    hashtags: "#photographer, #milan, #imparacontiktok, #milano"
   - username: "mickel_bura_ph"
     fullname: >-
       Mickel Buratin
     bio: >-
-      📸 Photographer 🎥🎬 Actor 📍ITALY 🇮🇹 INSTA: @mickel_bura_ph Goal ▶️ 110k ???
+      📸 Photographer 🎥🎬 Actor 📍ITALY 🇮🇹 INSTA: @mickel_bura_ph Goal ▶️ 270k ??
     location: "Italy"
-    followers: 109300
-    engagement: 1230
-    commentsToLikes: 0.017989
+    followers: 272900
+    engagement: 1131
+    commentsToLikes: 0.010151
     id: ckc7yct8n0nve0j23efk0qjrv
     verified: false
-    hashtags: "#perte, #poses, #posingtips, #fyp"
+    hashtags: "#mickel, #photoideas, #posesforpictures, #poses"
 ---

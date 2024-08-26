@@ -1,36 +1,24 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Dallas In 2023
+title: Top 10 Gardening Instagram Influencers In Dallas In 2024
 description: >-
-  Find top gardening Instagram influencers in Dallas in 2023. Most popular hashtags: #gardening #dallas #summer #dallasmoms.
+  Find top gardening Instagram influencers in Dallas in 2024. Most popular hashtags: #gardening #dallas #summer #gardendesign.
 platform: Instagram
-hits: 7
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 7 Instagram influencers like this in Dallas, United States for you to work with.
+hits: 8
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 8 Instagram influencers like this in Dallas, United States for you to connect with.
 profiles:
-  - username: "micheletripple"
+  - username: "txfoodiemama"
     fullname: >-
-      Michele l Family Life Educator
+      Lauren | Dallas Food Photographer
     bio: >-
-      Helping turn imperfect moments into treasured memories! Easy recipes, Printables, affordable fashion, family & fun! #dallasmom #momof5 💌 Dm to collab!
+      📸 𝗢𝗿𝗴𝗮𝗻𝗶𝗰/𝗡𝗮𝘁𝘂𝗿𝗮𝗹 𝗟𝗶𝗴𝗵𝘁 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗲𝗿 👩🏽‍💻𝙲𝚘𝚗𝚝𝚎𝚗𝚝𝙲𝚛𝚎𝚊𝚝𝚘𝚛 | 👩🏽‍🍳𝑹𝒆𝒄𝒊𝒑𝒆𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 📩DM for rates/collab/invite |📍Plano/DFW txfoodiemama@gmail.com
     location: "United States"
-    followers: 20707
-    engagement: 426
-    commentsToLikes: 0.041501
-    id: ck13cqatd1n4u0i19dsjb7s9z
+    followers: 11940
+    engagement: 299
+    commentsToLikes: 0.311029
+    id: ckraybb9zb8i80j23uj8ouurs
     verified: false
-    hashtags: "#dallasmoms, #kidsinthekitchen, #ad, #dallas"
-  - username: "theburmesemom"
-    fullname: >-
-      M A Y
-    bio: >-
-      📸: 𝐍𝐎 𝐑𝐄𝐏𝐎𝐒𝐓 without permission 📩 : theburmesemom@gmail.com 🥼Clinical🩸Laboratory 👩🏻‍🔬 Scientist 🇲🇲 Made in BURMA 🇲🇲
-    location: "United States"
-    followers: 28211
-    engagement: 353
-    commentsToLikes: 0.101187
-    id: ck55le11j1ces0i112jqhas9o
-    verified: false
-    hashtags: "#traveloregon, #homemadefood, #wearetravelgirls, #pnwonderland"
+    hashtags: "#momtips, #lesaucecompany, #pasta, #sundayfunday"
   - username: "thekiwihome"
     fullname: >-
       Mi & Ales
@@ -43,6 +31,30 @@ profiles:
     id: ck9wdg745fhoe0j78mexq467l
     verified: false
     hashtags: "#kale, #growfromseeds, #urbanfarmer, #happygardeninglife"
+  - username: "michellereed"
+    fullname: >-
+      Michelle Reed Gauthier
+    bio: >-
+      🌼 lover of small joys 💫 philippians 4:8 🌞 dallas, tx 👼🏼 on the way! ✉️ thisissmileyandshell@gmail.com
+    location: "United States"
+    followers: 110255
+    engagement: 1142
+    commentsToLikes: 0.018639
+    id: ck0uavat8d4ed0i19w54g3wap
+    verified: false
+    hashtags: "#pregnancydiary, #cozyvibes, #whatieatinaday, #pregnancynutrition"
+  - username: "micheletripple"
+    fullname: >-
+      Michele | Creating Printable Memories
+    bio: >-
+      It’s all pun and games. Sharing ideas on how to connect through love and laughter! Games• Jokes • Laughter• Fun #dallasmom #momof5 💌 Dm to collab!
+    location: "United States"
+    followers: 17535
+    engagement: 323
+    commentsToLikes: 0.048156
+    id: ck13cqatd1n4u0i19dsjb7s9z
+    verified: false
+    hashtags: "#kidsinthekitchen, #confessionsofparenting, #ad, #dallaslife"
   - username: "marcosal85"
     fullname: >-
       Marco
@@ -54,19 +66,19 @@ profiles:
     commentsToLikes: 0.024418
     id: ckaoujcuc0iy50i78ms1a6005
     verified: false
-    hashtags: "#travel, #newmexico, #hairy, #scruff"
-  - username: "livingwithheart"
+    hashtags: "#caribbean, #hotman, #travelphotography, #alaskalife"
+  - username: "theburmesemom"
     fullname: >-
-      Susan Webster (Heart)
+      M A Y
     bio: >-
-      🌿Home & Garden 🌿 All things beautiful! Mom to 2 & Heart to 4 Dallas, Texas For inquiries DM me @livingwithheart Antique Candle Company Partner
+      📸: 𝐍𝐎 𝐑𝐄𝐏𝐎𝐒𝐓 without permission 📩 : theburmesemom@gmail.com 🥼Clinical🩸Laboratory 👩🏻‍🔬 Scientist 🇲🇲 Made in BURMA 🇲🇲
     location: "United States"
-    followers: 34642
-    engagement: 314
-    commentsToLikes: 0.200726
-    id: ck6u41kjv15lq0j712quuq4ct
+    followers: 28211
+    engagement: 353
+    commentsToLikes: 0.101187
+    id: ck55le11j1ces0i112jqhas9o
     verified: false
-    hashtags: "#livingroom, #rusticelegance, #livingwithheart, #fall"
+    hashtags: "#theburmesemom, #oregon, #foodfluffer, #summerrecipes"
   - username: "redcarpetroxy"
     fullname: >-
       Roxy Manning | Red Carpet Roxy
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.118953
     id: ckf5xkkt8vz660j23lyueslo2
     verified: false
-    hashtags: "#podcastforwomen, #family, #liketkit, #womenontop"
+    hashtags: "#motherhood, #daughters, #womenontopnation, #kids"
   - username: "1718lakehouse"
     fullname: >-
       Jade Burke | Interior design
@@ -90,41 +102,29 @@ profiles:
     commentsToLikes: 0.183208
     id: ckf5vfqvuofrw0j23xs84p5f0
     verified: false
-    hashtags: "#romanticliving, #beautifuldecorstyles, #interior123, #gardenloversofinstagram"
-  - username: "northwoodsfolk"
+    hashtags: "#houzz, #romanticliving, #beautifuldecorstyles, #homeandliving"
+  - username: "curlycultivators"
     fullname: >-
-      Sunny // Folk Living                                       🌲MN🌲
+      Leota Wilson & Mikaela Falwell
     bio: >-
-      nature-inspired mother + maker sharing the beauty of slow, seasonal living diy • recipes • gardening • home-ed • adventure 🌙 🌿 🐌 🍄🌲🧺 ✨
+      🌱Two curly girls, in love with gardening + each other 🍅 Sharing as we learn so you can grow with us 📍 Sacramento | Zone 9B
     location: "United States"
-    followers: 131357
-    engagement: 474
-    commentsToLikes: 0.067900
-    id: ckx3j50xwzxpa0j2331ss8l9z
+    followers: 151114
+    engagement: 1609
+    commentsToLikes: 0.064080
+    id: cl22heo5dhdo70i23fcebex8u
     verified: false
-    hashtags: "#wildcraftwednesday, #nobuydiy, #thehandcraftedholiday"
-  - username: "laurenselfblogs"
+    hashtags: "#zone9b, #spring, #zone9garden, #homegarden"
+  - username: "masondixonacres"
     fullname: >-
-      Lauren
+      Elaina Ripepi + Alex Walsh, Homestead & DIY
     bio: >-
-      mama x 4! low tox living | gardening + chicken mom | macrame 🌿oil IG: @oilyselfblogs 🌞 Etsy link ↓
+      🏠 Self-building our home DEBT-FREE 🌱 Gardening & raising chickens on a budget ⬇️ Check out our YouTube!
     location: "United States"
-    followers: 18656
-    engagement: 1858
-    commentsToLikes: 0.022000
-    id: ck8t1vbnlx6dp0j782ei1ya9s
+    followers: 128579
+    engagement: 426
+    commentsToLikes: 0.062600
+    id: cky72qbzkjtxl0j23r5p8gykn
     verified: false
-    hashtags: "#fromwhereiwork, #smallshop, #protectbreastfeeding, #reels"
-  - username: "seldabelda"
-    fullname: >-
-      anna aromin | ↟ pnw ↟
-    bio: >-
-      artist ⎜ wife ⎜ mother ⎜ seeker of everyday magic lover of vintage lenses & gardening other work: @allnaturebyanna creator of @thegalleryoflight
-    location: "United States"
-    followers: 33490
-    engagement: 341
-    commentsToLikes: 0.090660
-    id: ck14kkiiwpyiz0i19q3we0t10
-    verified: false
-    hashtags: "#thiswildlingsoul, #bokeh, #freelensed, #holidaypajamaparty"
+    hashtags: "#selfsufficiency, #selfbuild, #ownerbuilder, #gardening"
 ---

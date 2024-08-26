@@ -1,24 +1,60 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Australia In 2023
+title: Top 10 Boxers Instagram Influencers In Australia In 2024
 description: >-
-  Find top boxers Instagram influencers in Australia in 2023. Most popular hashtags: #boxing #boxer #trainhardfighteasy.
+  Find top boxers Instagram influencers in Australia in 2024. Most popular hashtags: #boxing #boxingtraining #repost.
 platform: Instagram
-hits: 28
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 28 Instagram influencers like this in Australia for you to collaborate.
+hits: 37
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 37 Instagram influencers like this in Australia for you to connect with.
 profiles:
-  - username: "myfriendelias"
+  - username: "skyebnic"
     fullname: >-
-      Elias Chigros
+      Skye Nicolson
     bio: >-
-      surfer | boxer | strength trainer | model backed by giant mgmt // @kultaustralia CMO @rubysodagram social partnerships👇🏾 📠 hello@myfriendelias.com
+      Australian Olympian based in London 🇦🇺/🇬🇧 🥊 professional boxer 👑 future world champion 🥊 🌎
     location: "Australia"
-    followers: 119459
-    engagement: 409
-    commentsToLikes: 0.011436
-    id: ckap4dydx6xj90i789oc7yx92
+    followers: 150056
+    engagement: 341
+    commentsToLikes: 0.015080
+    id: ck5cl3hehy6bo0i11rd11j1ri
+    verified: true
+    hashtags: "#olympian, #boxeo, #markmywords, #tunnelvision"
+  - username: "jazzyparr_"
+    fullname: >-
+      Princess Jasmine
+    bio: >-
+      Professional Boxer Food Lover @boonchugym ❤️ Check the links👇🏽
+    location: "Australia"
+    followers: 101607
+    engagement: 257
+    commentsToLikes: 0.014037
+    id: ck55jxckixzjz0i1125jmzf6n
     verified: false
-    hashtags: "#energiseyourskin"
+    hashtags: "#boonchu, #goldcoast, #mma, #muaythai"
+  - username: "tayla_harris"
+    fullname: >-
+      Tayla ⚡️ Harris
+    bio: >-
+      Pro boxer | #7 @melbourneaflw @nike | Celebrant @taylaharriscelebrant | @9round_ascotvale & @snapfitnessascotvale owner
+    location: "Australia"
+    followers: 127271
+    engagement: 142
+    commentsToLikes: 0.015465
+    id: ck0tyg1agmnsy0i19atnv31bn
+    verified: true
+    hashtags: "#cheerandahalf, #cadburyposters, #ad, #vailoadl500"
+  - username: "michael_zerafa"
+    fullname: >-
+      Michael Zerafa
+    bio: >-
+      𝓢💍 Professional Boxer 🥊 🇲🇹 🇦🇺 #1 🌎 #1 WBA 🌎 #2 IBF 🌎 #6 WBO 🌎 #14 WBC
+    location: "Australia"
+    followers: 53994
+    engagement: 124
+    commentsToLikes: 0.052138
+    id: ck15pi5vwy02v0i19jatvuzx9
+    verified: false
+    hashtags: "#boxing, #powerful, #zerafatszyu, #smile"
   - username: "avrilmathie"
     fullname: >-
       AVRIL
@@ -30,7 +66,7 @@ profiles:
     commentsToLikes: 0.009081
     id: ck0vzvmijb4530i1957480lsa
     verified: true
-    hashtags: "#justmove, #activeliving, #boxing, #athlete"
+    hashtags: "#justmove, #workhardplayhard, #boxingtraining, #goals"
   - username: "danielkhan96"
     fullname: >-
       🇬🇧🇵🇰
@@ -91,40 +127,4 @@ profiles:
     id: ck5hccy3qheop0i11axm6yh54
     verified: true
     hashtags: "#teammoloney, #toprank, #repost, #davidgoggins"
-  - username: "tayla_harris"
-    fullname: >-
-      Tayla ⚡️ Harris
-    bio: >-
-      24 | Melbourne | @nike AFLW @melbourneaflw 🏉 Professional boxer 🥊 2 division Australian Champ 🏆
-    location: "Australia"
-    followers: 117048
-    engagement: 307
-    commentsToLikes: 0.009733
-    id: ck0tyg1agmnsy0i19atnv31bn
-    verified: true
-    hashtags: "#messfreechallenge, #ad, #podiumpose, #elaine"
-  - username: "sugar_neekz"
-    fullname: >-
-      Sugar Neekz Johnson
-    bio: >-
-      Professional Boxer | 13-0 #sweetsavage Team Labruna Boxing Rival Family
-    location: "Australia"
-    followers: 14030
-    engagement: 407
-    commentsToLikes: 0.024828
-    id: ck5zqwyxfvgi10i14i8sb8kvp
-    verified: false
-    hashtags: "#fightcamp, #teamlabruna, #sugarneekz, #sweetsavage"
-  - username: "ravengrace.brindleboxer"
-    fullname: >-
-      Raven Grace & Young Henry
-    bio: >-
-      🐶 Boxers from South Coast NSW Aus 🇦🇺 ➕ Brand Ambassadors for @dkstainless 💦 💲 Use Code RAVENANDHENRY for 10% off Storewide
-    location: "Australia"
-    followers: 8626
-    engagement: 765
-    commentsToLikes: 0.018627
-    id: ck136rc2h7vn90i19pe7bei5r
-    verified: false
-    hashtags: ""
 ---

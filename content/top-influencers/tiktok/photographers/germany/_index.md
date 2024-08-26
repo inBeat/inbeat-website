@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Germany In 2023
+title: Top 10 Photographers TikTok Influencers In Germany In 2024
 description: >-
-  Find top photographers TikTok influencers in Germany in 2023. Most popular hashtags: #fyp #foryou #fy #deutschland.
+  Find top photographers TikTok influencers in Germany in 2024. Most popular hashtags: #fyp #foryou #fy #deutschland.
 platform: TikTok
 hits: 30
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 30 TikTok influencers like this in Germany for you to work with.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 30 TikTok influencers like this in Germany for you to pitch.
 profiles:
   - username: "travel.actions"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.025586
     id: ck8kghyk4ik990j7868m7ztk2
     verified: false
-    hashtags: "#foryou, #rainyday, #aesthetic, #fyp"
+    hashtags: "#aesthetic, #foryou, #rainyday, #fyp"
   - username: "jannik_abelt"
     fullname: >-
       Jannik abelt

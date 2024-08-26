@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Toronto In 2023
+title: Top 10 Lifestyle TikTok Influencers In Toronto In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #toronto #foryou #fashion.
+  Find top lifestyle TikTok influencers in Toronto in 2024. Most popular hashtags: #fyp #fashion #toronto #foryoupage.
 platform: TikTok
-hits: 18
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 18 TikTok influencers like this in Toronto, Canada for you to pitch.
+hits: 19
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 19 TikTok influencers like this in Toronto, Canada for you to work with.
 profiles:
   - username: "emmanuel.uddenberg"
     fullname: >-
@@ -43,6 +43,18 @@ profiles:
     id: ckc2zvca7qonu0j23fry05orz
     verified: false
     hashtags: "#food, #desserttiktok, #foryoupage, #dinnerisserved"
+  - username: "lunalindsay"
+    fullname: >-
+      lunalindsay
+    bio: >-
+      boho style child🌸✌🏼 plant mom🌿🌵 follow me on ig: @luna.lindsay🌛
+    location: "Canada"
+    followers: 25700
+    engagement: 1039
+    commentsToLikes: 0.033881
+    id: ckd621x5a1opf0j23eg3bjs9s
+    verified: false
+    hashtags: "#fyp, #plantmom, #hellospring, #bohohome"
   - username: "stephencovic"
     fullname: >-
       Stephen Covic
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.055197
     id: ckcdtxztie73a0j23sl51vnfo
     verified: false
-    hashtags: "#ocean, #realtor, #penthouse, #canada"
+    hashtags: "#realestate, #canada, #vancouver, #fyp"
   - username: "naomileanage"
     fullname: >-
       Naomi Leanage
@@ -66,7 +78,19 @@ profiles:
     commentsToLikes: 0.024703
     id: ck806vbblmaom0j78ddv18enc
     verified: false
-    hashtags: "#torontovlog, #tryonhaul, #toronto, #canadian"
+    hashtags: "#canadian, #toronto, #torontovlog, #tryonhaul"
+  - username: "jocebedard"
+    fullname: >-
+      jocebedard 
+    bio: >-
+      the girl with the uneven eyebrows 🧡🦋🥴✌🏻🌸 Toronto
+    location: "Canada"
+    followers: 38200
+    engagement: 829
+    commentsToLikes: 0.051347
+    id: ck9go1caiz9630j78zmc72abj
+    verified: false
+    hashtags: "#iykyk, #mukbang, #oops, #eyebrows"
   - username: "carolynabauer"
     fullname: >-
       Carolyna Bauer
@@ -90,7 +114,7 @@ profiles:
     commentsToLikes: 0.021906
     id: ck9tu9q2lkgs40j78b6xwzag1
     verified: false
-    hashtags: "#hockeyplayer, #gongshow, #hockeytiktoks, #hockeyplayers"
+    hashtags: "#hockeytiktoks, #gongshow, #hockey, #hockeyplayers"
   - username: "nickyb_fitness"
     fullname: >-
       NickyBFitness
@@ -103,28 +127,4 @@ profiles:
     id: ckbqthro4e8m30j23uc9k3fa0
     verified: false
     hashtags: "#fyp, #homeworkout, #mensfitness, #workouttips"
-  - username: "michael.rizzi"
-    fullname: >-
-      Michael Rizzi
-    bio: >-
-      ✨ everything’s going to be alright ✨ 📌 Toronto, Canada 🇨🇦 🏳️‍🌈
-    location: "Canada"
-    followers: 57300
-    engagement: 975
-    commentsToLikes: 0.015215
-    id: ck9go10ytz5ch0j78rc75apvn
-    verified: false
-    hashtags: "#snackpack, #kidssnacks, #lgbt, #groceryhaul"
-  - username: "menon_akhil"
-    fullname: >-
-      Akhil Menon
-    bio: >-
-      Travel and Lifestyle Professional🌍🇮🇳🇨🇦 Canadian Mallu 🥳
-    location: "Canada"
-    followers: 5660
-    engagement: 1113
-    commentsToLikes: 0.034212
-    id: ckajb438jly890i78q1p3pgef
-    verified: false
-    hashtags: "#mallu, #canadianmallu, #trending, #nzmallu"
 ---

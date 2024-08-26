@@ -1,12 +1,24 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Miami In 2023
+title: Top 10 Beauty Instagram Influencers In Miami In 2024
 description: >-
-  Find top beauty Instagram influencers in Miami in 2023. Most popular hashtags: #miami #beauty #model.
+  Find top beauty Instagram influencers in Miami in 2024. Most popular hashtags: #beauty #miami #fashion #model.
 platform: Instagram
-hits: 669
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 669 Instagram influencers like this in Miami, United States for you to connect with.
+hits: 856
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 856 Instagram influencers like this in Miami, United States for you to collaborate.
 profiles:
+  - username: "sabinalynn"
+    fullname: >-
+      Sabina Jacobs
+    bio: >-
+      mom • fashion • beauty • Miami Luxury Authentication expert for collabs 📧 sabinalynn@gmail.com
+    location: "United States"
+    followers: 123982
+    engagement: 131
+    commentsToLikes: 0.018722
+    id: ck5cigar6sln00i11enqi6kbc
+    verified: false
+    hashtags: "#birthdaygirl, #guccigg, #happybirthdaytome, #blacklane"
   - username: "nathannutterhair"
     fullname: >-
       Nathan Nutter
@@ -19,6 +31,54 @@ profiles:
     id: ck6u7rx5vnaus0j71calv5fuw
     verified: false
     hashtags: ""
+  - username: "michelleciotti"
+    fullname: >-
+      MICHELLE CIOTTI
+    bio: >-
+      🇻🇪🇮🇹🇩🇪🇺🇸 Miami. Lifestyle ✨🌸 🏆 Social Media Marketing / PR: pr@michelleciotti.com 🥇 Real Estate Miami: info@michelleciotti.com
+    location: "United States"
+    followers: 282238
+    engagement: 101
+    commentsToLikes: 0.021187
+    id: ck137dcgyazag0i19j97u7p6t
+    verified: false
+    hashtags: "#follow, #love, #photography, #photooftheday"
+  - username: "racheljoyfit"
+    fullname: >-
+      Rachel Joy Gennaro
+    bio: >-
+      Faith + Fitness 📍Miami @workoutwithrach Founder @tanningjoy | @racheljoycollection
+    location: "United States"
+    followers: 290148
+    engagement: 90
+    commentsToLikes: 0.022776
+    id: ck0vxa9ugxxqo0i19csdznp80
+    verified: false
+    hashtags: "#edgewater, #edenroc, #miami, #fitness"
+  - username: "vandcostudio"
+    fullname: >-
+      Vanessa Palmer
+    bio: >-
+      V & Co. Studio Luxe Maternity & Beauty Portraiture ♠️ Fully booked till December 2023 ♠️ Pembroke Pines - Ft. Lauderdale - Miami Florida, USA
+    location: "United States"
+    followers: 32537
+    engagement: 52
+    commentsToLikes: 0.014323
+    id: ckqt1v6ufzsw70j232uvy8gsw
+    verified: false
+    hashtags: "#foryourpage, #miamimaternityphotography, #browardmaternity, #miamibabyphotography"
+  - username: "marieb.photography"
+    fullname: >-
+      Marie Bärsch
+    bio: >-
+      German Photographer based in Dubai 📍 Dubai 🐪 🔜 Europe 🗺️ 🤎 EDIT LIKE ME @mbxdcstyles SHOP MY BOOK & PRESETS HERE 👇🏼
+    location: "United States"
+    followers: 189049
+    engagement: 3
+    commentsToLikes: 0.001319
+    id: ck0tuioxw7c510i19teorj0eg
+    verified: false
+    hashtags: "#beauty, #miami, #losangeles, #makeup"
   - username: "_genesissaldana"
     fullname: >-
       Genesis Saldana
@@ -42,89 +102,29 @@ profiles:
     commentsToLikes: 0.089334
     id: ck138agz0fakn0i19xvff9hna
     verified: false
-    hashtags: "#scottsdale, #fashion, #miamiswimweek2021, #beach"
-  - username: "danilapao"
+    hashtags: "#miamibeach, #nextlevel, #fashionweek, #curly"
+  - username: "beautyfactoryfl"
     fullname: >-
-      Danila Bp
+      Beauty Factory
     bio: >-
-      Planes de entrenamiento online & presencial alimentación healthy Atleta WELLNESS 📍Miami Coach:@sergio_javier_diaz Patrocinador:@jose.bethapharma
+      ✨ Rolls Royce of hair stores✨ Wigs, Bundles,Extentions 💁🏽‍♀️ Makeup 💄 Hair products 💆🏾‍♀️ 954-505-7968 📞
     location: "United States"
-    followers: 13081
-    engagement: 962
-    commentsToLikes: 0.031535
-    id: ck9hcjpi9lqbx0j78vhlm2sc9
+    followers: 32448
+    engagement: 236
+    commentsToLikes: 0.083082
+    id: ck5zpp8kit2ws0i14ljhi7g7i
     verified: false
-    hashtags: "#training, #strong, #entrenamiento, #yotenetreno"
-  - username: "devin.antal"
+    hashtags: "#miami, #browardcounty, #wigsforsale, #miamiwigs"
+  - username: "smithand_co"
     fullname: >-
-      
+      danielle smith np
     bio: >-
-      🦋𝑙𝑖𝑣𝑒 𝑖𝑛 𝑡ℎ𝑒 𝑚𝑜𝑚𝑒𝑛𝑡 & 𝑑𝑜 𝑤ℎ𝑎𝑡 𝑦𝑜𝑢 𝑙𝑜𝑣𝑒🦋 𝑁𝑌𝐶/𝑁𝐽/𝑃𝐴 𝑀𝐴: @ewhmanagement
+      botox • filler • threads miami beach 305.393.2311 🇮🇱🫶 ══════
     location: "United States"
-    followers: 2371
-    engagement: 958
-    commentsToLikes: 0.095570
-    id: ck5zsgjssyget0i14y3u95btk
+    followers: 19470
+    engagement: 124
+    commentsToLikes: 0.015570
+    id: cksjxr575cxjs0j23ekq7v48t
     verified: false
-    hashtags: "#model, #vacation, #memories, #21stbirthday"
-  - username: "themillsedition"
-    fullname: >-
-      ＭＩＬＥＮＡ ＬＥＯＮ-ＰＥＲＥＺ
-    bio: >-
-      𝗅𝗂𝖿𝖾𝗌𝗍𝗒𝗅𝖾 • 𝖻𝗎𝗌𝗂𝗇𝖾𝗌𝗌 • 𝖺𝖽𝗏𝖾𝗇𝗍𝗎𝗋𝖾 𝖢𝖤𝖮 @infamissbeauty @thesocialinfamiss @coquisimo_miami
-    location: "United States"
-    followers: 6496
-    engagement: 471
-    commentsToLikes: 0.156860
-    id: ck15pcbhvx64b0i19t7xopp4y
-    verified: false
-    hashtags: "#bride, #bloggersofig, #miamiblogger, #girlboss"
-  - username: "anna_marisax"
-    fullname: >-
-      ANNA_MARISAX
-    bio: >-
-      Luxury real estate 🏡 🎬@galardi_luxury YouTuber 🌟1 M subscribers For business 📩 Poland 🇵🇱 Miami 🇺🇸
-    location: "United States"
-    followers: 262657
-    engagement: 271
-    commentsToLikes: 0.034806
-    id: ckap56hvxae6v0i78v4oewxyu
-    verified: false
-    hashtags: "#puertoplata, #diormiami, #tantratulum, #lasvegasstrip"
-  - username: "jeannykissire"
-    fullname: >-
-      Jeannylyn  kissire
-    bio: >-
-      Based in Las Vegas Nevada 🇺🇸
-    location: "United States"
-    followers: 129098
-    engagement: 208
-    commentsToLikes: 0.030516
-    id: ck6tyd7w231s90j71xcjxbe5t
-    verified: false
-    hashtags: "#model, #valleyoffirestatepark, #sexyshoot, #vegasmodel"
-  - username: "oo_kay"
-    fullname: >-
-      Kay
-    bio: >-
-      @krwnbeauty In a world of glorified chaos, be sure to keep your Soul lit at all times. Entrepreneur | Model
-    location: "United States"
-    followers: 2872
-    engagement: 1549
-    commentsToLikes: 0.067393
-    id: ckap4z10l9g8u0i78szepgds1
-    verified: false
-    hashtags: "#nofiltersunset, #nolaphotography, #beauty, #miamimodels"
-  - username: "pamannwantsagram"
-    fullname: >-
-      Pam Ann
-    bio: >-
-      I make people laugh! BOOKINGS: Steventhorne@pamann.com
-    location: "United States"
-    followers: 42558
-    engagement: 93
-    commentsToLikes: 0.045809
-    id: ck5pvrxkhjcj50i11o685gnnw
-    verified: false
-    hashtags: "#pamann, #flightattendant, #comedy, #britishairways"
+    hashtags: "#smithandco, #botoxinjections, #lipinjections, #miamilipenhancement"
 ---

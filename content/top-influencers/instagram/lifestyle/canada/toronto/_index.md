@@ -1,24 +1,48 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Toronto In 2023
+title: Top 10 Lifestyle Instagram Influencers In Toronto In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Toronto in 2023. Most popular hashtags: #toronto #sponsored #torontoblogger #torontolife.
+  Find top lifestyle Instagram influencers in Toronto in 2024. Most popular hashtags: #toronto #lifestyle #torontoblogger #ootd.
 platform: Instagram
-hits: 71
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 71 Instagram influencers like this in Toronto, Canada for you to work with.
+hits: 283
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 283 Instagram influencers like this in Toronto, Canada for you to pitch.
 profiles:
-  - username: "sairahayatkhan"
+  - username: "chanel.tech"
     fullname: >-
-      Saira Hayat Khan
+      Chanel Tech
     bio: >-
-      Motherhood. Fashion. Lifestyle. Toronto, Canada 🇨🇦
+      💻 Tech, Gaming & Lifestyle 🇨🇦 Toronto, Canada 🏎️ @thenorthlanes 👇🏽 Links to cool stuff
     location: "Canada"
-    followers: 44777
-    engagement: 184
-    commentsToLikes: 0.085914
-    id: ckap1sltivybk0i784nr7lx7p
+    followers: 20842
+    engagement: 247
+    commentsToLikes: 0.328650
+    id: clleov48rtskk0j082e7wy1jv
     verified: false
-    hashtags: "#thoughtsofaseasonallydepressedmom"
+    hashtags: "#logitech, #deskaccessories, #desksetup, #setupwars"
+  - username: "victoriaezike"
+    fullname: >-
+      Victoria Ezike
+    bio: >-
+      Faith. Beauty. Fashion. Lifestyle • Toronto, Canada📍 • Makeup Page: @beautywithveee • Click Below for more:
+    location: "Canada"
+    followers: 24099
+    engagement: 208
+    commentsToLikes: 0.105061
+    id: cl81sp9oo0ogz0i23ez0d76r3
+    verified: false
+    hashtags: "#zarahaul, #zaraoutfitsdaily, #novababes, #zaradresses"
+  - username: "jennieviereyes_"
+    fullname: >-
+      JENNIE-VIE
+    bio: >-
+      • mom of 4 • photographer @jennieviephotography sharing motherhood, fashion & lifestyle • toronto, ON 🇨🇦 collab@ashmincommunications.com
+    location: "Canada"
+    followers: 15107
+    engagement: 83
+    commentsToLikes: 0.425867
+    id: cl0husdg2jbnv0i23jz4gbmt3
+    verified: false
+    hashtags: "#deuxpardeuxkids, #gifted, #arcadiaearth, #lovevery"
   - username: "raineedays"
     fullname: >-
       R A I N E E
@@ -30,7 +54,19 @@ profiles:
     commentsToLikes: 0.186394
     id: ck0w6pxeo9qpp0i19wn93zd9n
     verified: false
-    hashtags: "#ad, #gifted, #wgg211, #giftedproduct"
+    hashtags: "#ad, #gifted, #wgg211, #osmosocialclub"
+  - username: "susanamorettis"
+    fullname: >-
+      𝐒𝐮𝐬𝐚𝐧𝐚 𝐀𝐦𝐨𝐫𝐞𝐭𝐭𝐢𝐬
+    bio: >-
+      𝐓𝐫𝐚𝐯𝐞𝐥 • 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞🇨🇦 🇨🇷Costa Rican girl living in Toronto #LLDM 🤍 #amorettistravels #love𝐏𝐫𝐞𝐭𝐭𝐲𝐏𝐥𝐚𝐜𝐞𝐬
+    location: "Canada"
+    followers: 3994
+    engagement: 961
+    commentsToLikes: 0.301146
+    id: ckap9y4c2u0wn0i7832b54qe4
+    verified: false
+    hashtags: "#getaway, #beachvibes, #travelblogger, #island"
   - username: "coralrosecarson"
     fullname: >-
       CORAL CARSON
@@ -43,88 +79,52 @@ profiles:
     id: ckap2ehwryhld0i784v3igkxb
     verified: false
     hashtags: "#magazine, #naturalbeauty, #rhk, #fit"
-  - username: "joecyzhang"
+  - username: "levy.fit"
     fullname: >-
-      𝐉𝐎𝐄𝐂𝐘 🇨🇦 𝐓𝐫𝐚𝐯𝐞𝐥 𝐈𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞𝐫
+      Nat Levy
     bio: >-
-      ♡ The Official #joecyzhang ♡ Fashion | Beauty | Food | Travel ♡ Canada Lifestyle Blogger ♡ Collaboration: joecyzhang@yahoo.com 👠👘🍰🍵🧤👗✈️👖☔️👙
+      ▪️𝙁𝙞𝙩𝙣𝙚𝙨𝙨 | 𝙈𝙞𝙣𝙙𝙨𝙚𝙩 | 𝙇𝙞𝙛𝙚𝙨𝙩𝙮𝙡𝙚 ▪️𝙊𝙬𝙣𝙚𝙧 𝙖𝙣𝙙 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙏𝙧𝙖𝙞𝙣𝙚𝙧 @𝙞𝙣𝙠𝙡𝙚𝙞𝙣.𝙛𝙞𝙩𝙣𝙚𝙨𝙨 ▪️𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 𝘾𝙤𝙖𝙘𝙝
     location: "Canada"
-    followers: 46592
-    engagement: 212
-    commentsToLikes: 0.417447
-    id: ck5hk2tozhowq0i11ucrjamzm
+    followers: 5393
+    engagement: 2664
+    commentsToLikes: 0.066069
+    id: ckzosolwmiemn0j23cfet3fhc
     verified: false
-    hashtags: "#torontofoodie, #foodstagram, #instafree, #fashionblogger"
-  - username: "choudhurydib"
+    hashtags: "#gymmotivation, #gains, #explorepage, #fitnessreels"
+  - username: "splashpj"
     fullname: >-
-      Dibya | Fashion && Lifestyle
+      splash
     bio: >-
-      Fashion && Mamma Lifestyle 📍Toronto, CA 🇨🇦 🇺🇸 🇮🇳 Collab: choudhurydibya@gmail.com Shoedazzle👇
+      Toronto 🇨🇦🇳🇵 @mintaveinc Flowing through life. All praise to the most high ❤️
     location: "Canada"
-    followers: 23419
-    engagement: 287
-    commentsToLikes: 0.415016
-    id: ck8tbjidovy1i0j78zwxaohqd
+    followers: 24276
+    engagement: 326
+    commentsToLikes: 0.128474
+    id: ckapb6jamyr2z0i78txmi7ixi
     verified: false
-    hashtags: "#exploretoronto, #ad, #shoedazzlesquad, #sponsored"
-  - username: "loki.eats"
+    hashtags: "#reels, #italy, #roma, #entrepreneur"
+  - username: "anniffic"
     fullname: >-
-      @lokiexplore
+      Annie Omer
     bio: >-
-      New Account @lokiexplore
+      Creative Content Planner Lifestyle Influencer | Realtor | Shoeholic | Fashion | Tiktok @anniffic Bollywood maza | 💌 DM or email for Collaborations
     location: "Canada"
-    followers: 1
-    engagement: 7711250
-    commentsToLikes: 0.134902
-    id: ck15pdw1zxegt0i19c6ul7eap
+    followers: 27419
+    engagement: 108
+    commentsToLikes: 0.456764
+    id: cl0hr6cw0iqs70i23cm2isym5
     verified: false
-    hashtags: "#flatlay, #falloutfit, #phoneeatsfirst, #torontogirl"
-  - username: "roseporsche981"
+    hashtags: "#transition, #funnyvideos, #funnyreels, #pakistanifashion"
+  - username: "maanalchowdhury"
     fullname: >-
-      981 Rose
+      Maanal | Toronto Creator
     bio: >-
-      🇨🇳🇨🇦 Car enthusiast🏎2014 Porsche Cayman 981; 2017 Jag XE Rsport “My problem is that I appreciate them all”— Paul Walker Gym lover 🏋🏻‍♀️💪👊
+      fashion | beauty | lifestyle 📍Toronto 📧 maanalmarketing@gmail.com
     location: "Canada"
-    followers: 3655
-    engagement: 914
-    commentsToLikes: 0.042069
-    id: ckap9rsd3te9g0i789k90d2h7
+    followers: 7864
+    engagement: 1161
+    commentsToLikes: 0.327374
+    id: ckqas7zjykxp30j23w74cxxtc
     verified: false
-    hashtags: "#porschetruenorth, #cargirlsofinstagram, #cargirlculture, #porsche981"
-  - username: "erinwithmatt"
-    fullname: >-
-      Toronto Lifestyle & Food 🇨🇦
-    bio: >-
-      💌 DM/erinwithmatt@gmail.com for collabs/PR 欢迎合作~ 👇 Check out our TikTok (130K+) & Reels
-    location: "Canada"
-    followers: 12497
-    engagement: 467
-    commentsToLikes: 0.046742
-    id: ck9wd15ncdlf50j78htqd40um
-    verified: false
-    hashtags: "#charminenjoythego, #shopperstoppicks, #peersdm, #markham"
-  - username: "pizza.and.peonies"
-    fullname: >-
-      Sandra | Real Motherhood
-    bio: >-
-      Boy mama🧒🏼(3yo)+👶🏼(9m) Raising good humans #Intentionalparenting Wife Sharing all things motherhood+lifestyle Content creator 🇨🇦Toronto ENDY Partner⤵️
-    location: "Canada"
-    followers: 25301
-    engagement: 321
-    commentsToLikes: 0.040525
-    id: ck5q1zbx4di6n0i11ax5d49km
-    verified: false
-    hashtags: "#thatmomlife, #ontariolakes, #honestmothering, #mommylife"
-  - username: "iitheneaii"
-    fullname: >-
-      ☾ ᴛʜᴇɴᴇᴀ
-    bio: >-
-      Fashion · Lifestyle · Beauty —————————————— ◼️ Toronto ◼️ Thenea98@gmail.com
-    location: "Canada"
-    followers: 19521
-    engagement: 98
-    commentsToLikes: 0.076397
-    id: ck0u2jjvzzzv50i191h6ifmdf
-    verified: false
-    hashtags: "#vlog, #eyecream, #picnic, #sekkisei"
+    hashtags: "#torontocreators, #torontoinfluencer, #microinfluencers, #discoverunder10k"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Philadelphia In 2023
+title: Top 10 Nutrition Instagram Influencers In Philadelphia In 2024
 description: >-
-  Find top nutrition Instagram influencers in Philadelphia in 2023. Most popular hashtags: #health #healthylifestyle #motivation #fitness.
+  Find top nutrition Instagram influencers in Philadelphia in 2024. Most popular hashtags: #health #fitness #philadelphia #nutrition.
 platform: Instagram
 hits: 9
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: inBeat has 9 Instagram influencers like this in Philadelphia, United States for you to connect with.
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 9 Instagram influencers like this in Philadelphia, United States for you to pitch.
 profiles:
   - username: "lurrburgz"
     fullname: >-
@@ -19,6 +19,42 @@ profiles:
     id: ck14jwfapmj3i0i19zcn896z7
     verified: false
     hashtags: "#lifestyle, #corgisofinstagram, #training, #dog"
+  - username: "laurensbalancedbites"
+    fullname: >-
+      Lauren, Registered Dietitian
+    bio: >-
+      ✨Recover from disordered eating 🍝Make peace with food! 💗Apply to work with me!!⬇️⬇️ 📍Philadelphia
+    location: "United States"
+    followers: 17424
+    engagement: 2569
+    commentsToLikes: 0.083614
+    id: cksbx9rdscwiw0j23r07lkxjw
+    verified: false
+    hashtags: "#foodfreedom, #eatingdisorderrecovery, #disorderedeating, #registereddietitian"
+  - username: "shack_fit"
+    fullname: >-
+      John Shackleton, MS, CSCS
+    bio: >-
+      Sports Performance • NFL, NBA, NCAA Let’s Work! 🔨 San Diego CA 📍 Training & Nutrition Platform👇
+    location: "United States"
+    followers: 53867
+    engagement: 105
+    commentsToLikes: 0.064670
+    id: ckmw1cret6dwf0j23qmo7a5g7
+    verified: false
+    hashtags: "#performancetraining, #asrv, #sandiego, #philly"
+  - username: "jdavismoranti"
+    fullname: >-
+      Jacqui Moranti -Content Creator
+    bio: >-
+      -Certified Fitness Professional💪 -Fashion in color 🎨 -Se habla español 🇻🇪🇩🇴 -Philadelphia, PA 📍
+    location: "United States"
+    followers: 53635
+    engagement: 69
+    commentsToLikes: 0.055107
+    id: ck9hbm2yuhfxa0j78v8u8k8ez
+    verified: false
+    hashtags: "#phlbloggers, #afrolatina, #phillystyle, #skincare"
   - username: "monicalengel"
     fullname: >-
       Monica Ryland
@@ -30,7 +66,7 @@ profiles:
     commentsToLikes: 0.083859
     id: ckap1vhklwbuc0i78qp48wzt5
     verified: false
-    hashtags: "#footwork, #nycshufflers, #eastcoastcrew, #shapeschoreo"
+    hashtags: "#eastcoastdancers, #shuffle, #dancecommunity, #housemusic"
   - username: "szfit1"
     fullname: >-
       🥇Sean | Blacksmith Nutrition🥇
@@ -43,30 +79,18 @@ profiles:
     id: ck0w0knnneojz0i19kw0sw06o
     verified: false
     hashtags: "#healthylifestyle, #strengthtraining, #workout, #crossfit"
-  - username: "livwell_nutrition"
+  - username: "_minnieeats_"
     fullname: >-
-      LivWell Nutrition
+      🐭Minnie Eats🍰
     bio: >-
-      Artisan cold-crafted protein made from plants 💪🌱 🚀We ship worldwide // Philadelphia, USA🌎
+      📍Bucharest, Romania🇷🇴 Recipes and food from around the world 🌎 Life is a balance of nutritious food 🥑and indulgent treats 🍰 🇲🇴🇹🇭🇦🇺🇺🇸 ✨New website👇🏼
     location: "United States"
-    followers: 39847
-    engagement: 53
-    commentsToLikes: 0.184311
-    id: ck5cgydt4przy0i113o7qi453
+    followers: 28420
+    engagement: 201
+    commentsToLikes: 0.357357
+    id: ck5hphvumre230i11lvvjjlw5
     verified: false
-    hashtags: "#wellnesswednesday"
-  - username: "rhitrition"
-    fullname: >-
-      RHIANNON LAMBERT BSc MSc RNutr
-    bio: >-
-      📍Nutritionist @Rhitrition & Mum @Rhi 📗Author #ReNourish 🎙Food For Thought Podcast 👇🏻Clinic, Recipes, Books & So Much More!
-    location: "United States"
-    followers: 206787
-    engagement: 106
-    commentsToLikes: 0.067785
-    id: ck0u23444ys5z0i198zyi2w1m
-    verified: true
-    hashtags: "#renourish, #healthyliving, #healthyeating, #healthylifestyle"
+    hashtags: "#foodporn, #glutenfreevegan, #dubrovnik, #bucharestfood"
   - username: "gailkimitsme"
     fullname: >-
       Gail Kim-Irvine
@@ -78,31 +102,7 @@ profiles:
     commentsToLikes: 0.017000
     id: ckap8t0atpr6d0i78lycqkj8g
     verified: true
-    hashtags: "#impactwrestling, #womenswrestling, #knockouts, #tna"
-  - username: "amandanighbertrd"
-    fullname: >-
-      Amanda Nighbert, Dietitian
-    bio: >-
-      Registered Dietitian helping people to stop “eating like an asshole” drop the all or nothing mindset & create sustainable balance in their daily life.
-    location: "United States"
-    followers: 46029
-    engagement: 103
-    commentsToLikes: 0.152250
-    id: ck6tizh8g1q5j0j71gqphgkot
-    verified: false
-    hashtags: "#foodphotography, #food, #tasty, #healthy"
-  - username: "nycfitfam"
-    fullname: >-
-      ⚡️Jamie Hess & Family⚡️
-    bio: >-
-      NYC #fitmom 🙋‍♀️ on a📍PA adventure TV Host // zuda activewear on @qvc ✨ 🎙 @offthegrampodcast 📺 @swoontalentagency 📬 jamie@nycfitfam.com
-    location: "United States"
-    followers: 85835
-    engagement: 132
-    commentsToLikes: 0.102598
-    id: ck5hfb7sfwnyo0i11spbiyf3g
-    verified: true
-    hashtags: "#wellnessblogger, #eatclean, #fitnessinfluencer, #ad"
+    hashtags: "#tna, #impactonaxstv, #womenswrestling, #knockouts"
   - username: "willina.rodriguez"
     fullname: >-
       🦋𝙞𝙡𝙡𝙞𝙣𝙖 𝙍𝙤𝙙𝙧𝙞𝙜𝙪𝙚𝙯 👑𝙈𝙤𝙙𝙚𝙡💋
@@ -115,16 +115,16 @@ profiles:
     id: ck5hi5jzabrc00i111iv9ajx8
     verified: false
     hashtags: "#miamiflorida, #model, #blackleather, #phillyphotography"
-  - username: "saschafitness"
+  - username: "fitness.by.nikki"
     fullname: >-
-      Sascha Barboza
+      N I K K I  R A Y
     bio: >-
-      Fitness-Nutrition Coach CEO- Sascha Fitness Corp Book author Mamá Youtube: Sascha Fitness 📧info@saschafitness.com @saschafitnessmarket 🛒⬇️Shop
+      ⭐️ CPT & Nutrition Coach 🥇 NPC Figure & Bikini NQ | Sponsored Athlete ⚡️ @cellucor @c4energy NIKKI 👙 @angelcompetitionbikinis NIKKI 👭 Mom 📚 Attorney
     location: "United States"
-    followers: 5312363
-    engagement: 450
-    commentsToLikes: 0.010945
-    id: ck13c63ygyssj0i19zjq0l5d2
-    verified: true
-    hashtags: "#11, #blackwidow"
+    followers: 22168
+    engagement: 603
+    commentsToLikes: 0.035846
+    id: ck8t4t1j67vk00j78nzc491rw
+    verified: false
+    hashtags: "#noexcuses, #neverskiplegday"
 ---

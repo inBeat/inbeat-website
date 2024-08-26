@@ -1,24 +1,12 @@
 ---
-title: Top 10 Models TikTok Influencers In Phoenix In 2023
+title: Top 10 Models TikTok Influencers In Phoenix In 2024
 description: >-
-  Find top models TikTok influencers in Phoenix in 2023. Most popular hashtags: #fyp #model #foryou #foryoupage.
+  Find top models TikTok influencers in Phoenix in 2024. Most popular hashtags: #fyp #model #foryoupage #phoenix.
 platform: TikTok
-hits: 9
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: inBeat holds 9 TikTok influencers like this in Phoenix, United States for you to work with.
+hits: 10
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform has 10 TikTok influencers like this in Phoenix, United States for you to connect with.
 profiles:
-  - username: "lauren_reneeee_1"
-    fullname: >-
-      Lauren Renee’
-    bio: >-
-      fashion, singing, hair care 🤎
-    location: "United States"
-    followers: 21400
-    engagement: 2231
-    commentsToLikes: 0.052245
-    id: ckck2p6dtm80v0j23a4ispsu8
-    verified: false
-    hashtags: "#albumcoverchallenge, #fyp, #blackgirl, #21"
   - username: "nachitosworld"
     fullname: >-
       Nachitos World
@@ -49,12 +37,24 @@ profiles:
     bio: >-
       Photography and modeling meets/meetups IG: @LadyMehanPhoto
     location: "United States"
-    followers: 18400
-    engagement: 364
-    commentsToLikes: 0.021689
+    followers: 18300
+    engagement: 406
+    commentsToLikes: 0.024785
     id: ck8trb4gqqwyi0j78q14euf2r
     verified: false
-    hashtags: "#fashion, #california, #momsoftiktok, #model"
+    hashtags: "#women, #posing, #tiktok, #foryou"
+  - username: "lauren_reneeee_1"
+    fullname: >-
+      Lauren Renee’
+    bio: >-
+      fashion, singing, hair care 🤎
+    location: "United States"
+    followers: 21400
+    engagement: 2231
+    commentsToLikes: 0.052245
+    id: ckck2p6dtm80v0j23a4ispsu8
+    verified: false
+    hashtags: "#howdeep, #blackgiirl, #singing, #posing"
   - username: "16bhaha93"
     fullname: >-
       Brendon Haha O’Brien
@@ -78,7 +78,19 @@ profiles:
     commentsToLikes: 0.085109
     id: ck9107hpqgor80j78e2vlc4nj
     verified: false
-    hashtags: "#single, #wow, #mask, #motivation"
+    hashtags: "#vacation, #kids, #2020, #girl"
+  - username: "therollinggoddess"
+    fullname: >-
+      𝑨𝒏𝒈𝒆𝒍𝒂 𝑹𝒐𝒄𝒌𝒘𝒐𝒐𝒅
+    bio: >-
+      Hi!❤️IG⤴ Paralyzed but not broken DISABILITY•LIFE•MOTIVATION•EMPOWER
+    location: "United States"
+    followers: 11800
+    engagement: 1342
+    commentsToLikes: 0.135229
+    id: ckbff3x1c9i160j23ahvmvgj0
+    verified: false
+    hashtags: "#fyp, #style, #lifecoach, #cozyathome"
   - username: "veercraft"
     fullname: >-
       veercraft
@@ -115,16 +127,4 @@ profiles:
     id: cka9lta5331tv0i78eiered74
     verified: false
     hashtags: "#corvette, #carcommunity, #moparornocar, #rebelsbysociety"
-  - username: "mod3ls"
-    fullname: >-
-      models
-    bio: >-
-      models videos & music belong to respected copyright owners
-    location: "United States"
-    followers: 121600
-    engagement: 1935
-    commentsToLikes: 0.009190
-    id: ckcuwqrt2lsj60j23jlnxbvb0
-    verified: false
-    hashtags: "#fyp, #malemodel, #foryou, #fashion"
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Brazil In 2023
+title: Top 10 Architecture Instagram Influencers In Brazil In 2024
 description: >-
-  Find top architecture Instagram influencers in Brazil in 2023. Most popular hashtags: #ig #bnw #raw.
+  Find top architecture Instagram influencers in Brazil in 2024. Most popular hashtags: #ig #sky #kings.
 platform: Instagram
-hits: 341
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 341 Instagram influencers like this in Brazil for you to pitch.
+hits: 343
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 343 Instagram influencers like this in Brazil for you to contact.
 profiles:
+  - username: "julianamedaarquiteta"
+    fullname: >-
+      Juliana Meda
+    bio: >-
+      Architecture office based in Brazil arquitetura@julianameda.com.br
+    location: "Brazil"
+    followers: 46652
+    engagement: 212
+    commentsToLikes: 0.019789
+    id: ck0w1e5k0iw5l0i196lwunwx0
+    verified: false
+    hashtags: "#artefacto, #hunter, #decoration, #desing"
   - username: "renan_souto"
     fullname: >-
       R E N A N    S O U T O
@@ -115,16 +127,4 @@ profiles:
     id: ck5hhj3sn8hql0i11ual2bcue
     verified: false
     hashtags: "#singletake, #galaxynote20th, #seeyourworlddifferrently, #galaxynote20"
-  - username: "isayweinfeld"
-    fullname: >-
-      isayweinfeld
-    bio: >-
-      @isayweinfeld_architecture
-    location: "Brazil"
-    followers: 88013
-    engagement: 171
-    commentsToLikes: 0.019940
-    id: ck5bue7oxhmax0i11nn2bfbn8
-    verified: false
-    hashtags: ""
 ---

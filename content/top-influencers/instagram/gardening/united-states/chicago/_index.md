@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Chicago In 2023
+title: Top 10 Gardening Instagram Influencers In Chicago In 2024
 description: >-
-  Find top gardening Instagram influencers in Chicago in 2023. Most popular hashtags: #lifestyle #gardening #love.
+  Find top gardening Instagram influencers in Chicago in 2024. Most popular hashtags: #gardening #instagood #love #instagram.
 platform: Instagram
-hits: 6
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 6 Instagram influencers like this in Chicago, United States for you to connect with.
+hits: 7
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 7 Instagram influencers like this in Chicago, United States for you to contact.
 profiles:
   - username: "makingitlovely"
     fullname: >-
@@ -19,18 +19,30 @@ profiles:
     id: ck55jtpv5xq1w0i11gheghjnv
     verified: false
     hashtags: "#makingitlovely, #thelovelyvictorian, #thelovelygarden, #brizoanddeltachicago"
-  - username: "suhedanur"
+  - username: "cara.annejones"
     fullname: >-
-      Şüheda Nur
+      Cara Jones• Wife • Homesteading mama
     bio: >-
-      Bogazici University🎓 Life in Chicago with 2 kids🧚🏻 YouTube Channel👇🏼
+      Finding my way in the homesteading life and sharing it here 🫶🏼 I’m in my story 👆🏼👆🏼 📍Chicago, IL 💌 email to collab Caraajonescoaching@gmail.com
     location: "United States"
-    followers: 117377
-    engagement: 482
-    commentsToLikes: 0.009429
-    id: ck55mczi73ow60i11ie9ct7d6
+    followers: 15497
+    engagement: 317
+    commentsToLikes: -0.041674
+    id: cl9sqzn22mm5h0i23vik6isb9
     verified: false
-    hashtags: "#reelsinstagram, #explore, #explorepage, #reels"
+    hashtags: "#canningseason, #homesteadinglife, #homesteadingmama, #homesteading"
+  - username: "kaur_ki_duniya"
+    fullname: >-
+      🌼🧿KaurPreet🧿🌼
+    bio: >-
+      ੴ 🧿 📩 DM👇 for collaborations 📧 sklifestyle29@gmail.com
+    location: "United States"
+    followers: 11839
+    engagement: 109
+    commentsToLikes: -6.998352
+    id: cl7zclryazlrq0i23xieyfh4e
+    verified: false
+    hashtags: "#indianattire, #funnymemes, #explorepage, #trendingreels"
   - username: "ericacobb"
     fullname: >-
       Erica Cobb
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.234697
     id: ck5hccqy5hdk50i11yprfd6ky
     verified: false
-    hashtags: "#botanicalgardens, #bromeliadsofinstagram, #bromeliads, #landscapedesign"
+    hashtags: "#bromeliads, #bromeliadsofinstagram, #jardin, #landscapelighting"
   - username: "maynev9"
     fullname: >-
       Mayra
@@ -78,53 +90,41 @@ profiles:
     commentsToLikes: 0.016051
     id: ck5qctehgs8oy0i11ori5fkux
     verified: false
-    hashtags: "#interiordesign, #slab, #stampedconcrete, #design"
-  - username: "northwoodsfolk"
+    hashtags: "#beton, #slab, #luxurylifestyle, #polishedconcrete"
+  - username: "curlycultivators"
     fullname: >-
-      Sunny // Folk Living                                       🌲MN🌲
+      Leota Wilson & Mikaela Falwell
     bio: >-
-      nature-inspired mother + maker sharing the beauty of slow, seasonal living diy • recipes • gardening • home-ed • adventure 🌙 🌿 🐌 🍄🌲🧺 ✨
+      🌱Two curly girls, in love with gardening + each other 🍅 Sharing as we learn so you can grow with us 📍 Sacramento | Zone 9B
     location: "United States"
-    followers: 131357
-    engagement: 474
-    commentsToLikes: 0.067900
-    id: ckx3j50xwzxpa0j2331ss8l9z
+    followers: 151114
+    engagement: 1609
+    commentsToLikes: 0.064080
+    id: cl22heo5dhdo70i23fcebex8u
     verified: false
-    hashtags: "#wildcraftwednesday, #nobuydiy, #thehandcraftedholiday"
-  - username: "laurenselfblogs"
+    hashtags: "#zone9b, #spring, #zone9garden, #homegarden"
+  - username: "masondixonacres"
     fullname: >-
-      Lauren
+      Elaina Ripepi + Alex Walsh, Homestead & DIY
     bio: >-
-      mama x 4! low tox living | gardening + chicken mom | macrame 🌿oil IG: @oilyselfblogs 🌞 Etsy link ↓
+      🏠 Self-building our home DEBT-FREE 🌱 Gardening & raising chickens on a budget ⬇️ Check out our YouTube!
     location: "United States"
-    followers: 18656
-    engagement: 1858
-    commentsToLikes: 0.022000
-    id: ck8t1vbnlx6dp0j782ei1ya9s
+    followers: 128579
+    engagement: 426
+    commentsToLikes: 0.062600
+    id: cky72qbzkjtxl0j23r5p8gykn
     verified: false
-    hashtags: "#fromwhereiwork, #smallshop, #protectbreastfeeding, #reels"
-  - username: "seldabelda"
+    hashtags: "#selfsufficiency, #selfbuild, #ownerbuilder, #gardening"
+  - username: "bowmar_farms"
     fullname: >-
-      anna aromin | ↟ pnw ↟
+      Bowmar Farms
     bio: >-
-      artist ⎜ wife ⎜ mother ⎜ seeker of everyday magic lover of vintage lenses & gardening other work: @allnaturebyanna creator of @thegalleryoflight
+      Welcome to the farm! Venison 🦌Gardening 🌱 Sourdough 🍞Bees 🐝 Chickens 🐓Goats 🐐
     location: "United States"
-    followers: 33490
-    engagement: 341
-    commentsToLikes: 0.090660
-    id: ck14kkiiwpyiz0i19q3we0t10
+    followers: 69718
+    engagement: 780
+    commentsToLikes: 0.016260
+    id: cldimc2vuoons0j088zchvgv2
     verified: false
-    hashtags: "#thiswildlingsoul, #bokeh, #freelensed, #holidaypajamaparty"
-  - username: "life_of_glow"
-    fullname: >-
-      Robyn | Home & Garden Joy
-    bio: >-
-      A plant-loving, home-making, seasonal-living adventure! ❃ Fearless northern gardening, interior style, & DIY. ❁ Pro Photographer, mama, wife ♡ More⇩
-    location: "United States"
-    followers: 40685
-    engagement: 309
-    commentsToLikes: 0.087218
-    id: ck0u7az5246wj0i19r71e0x0v
-    verified: false
-    hashtags: "#rugsusa"
+    hashtags: ""
 ---

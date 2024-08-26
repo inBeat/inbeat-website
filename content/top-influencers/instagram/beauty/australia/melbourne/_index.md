@@ -1,36 +1,36 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Melbourne In 2023
+title: Top 10 Beauty Instagram Influencers In Melbourne In 2024
 description: >-
-  Find top beauty Instagram influencers in Melbourne in 2023. Most popular hashtags: #beauty #fashion #melbourne #beautiful.
+  Find top beauty Instagram influencers in Melbourne in 2024. Most popular hashtags: #beauty #melbourne #makeup #ootd.
 platform: Instagram
-hits: 57
+hits: 104
 text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 57 Instagram influencers like this in Melbourne, Australia for you to pitch.
+text_bottom: Our search engine aggregates 104 Instagram influencers like this in Melbourne, Australia for you to work with.
 profiles:
-  - username: "kellykelly.h"
+  - username: "strictlysal"
     fullname: >-
-      K E L L Y  H O
+      Sal - Melbourne UGC - Beauty
     bio: >-
-      Stylist . Photographer . Content Creator #Fashion | #Beauty | #Lifestyle #Melbourne, #Australia Contact and Collab please DM or Email me
+      💄 Red Lip Lover 🧖🏽‍♀️ Combination Skin 💕 Mid 30’s Beauty 🕯️ Food,Home & Lifestyle at @salteladia #melbournebeautyblogger
     location: "Australia"
-    followers: 35313
-    engagement: 63
-    commentsToLikes: 0.118478
-    id: ck14l4wa5svbd0i190oyfztsg
+    followers: 13005
+    engagement: 159
+    commentsToLikes: 0.166697
+    id: ckqas7xi5kvtx0j23iynmiso5
     verified: false
-    hashtags: "#sheingals, #bbgratis, #ghdrise, #ghdanz"
-  - username: "kiara.paige"
+    hashtags: "#melbourneblogger, #melbournemummyblogger, #melbournemums, #melbourneskincare"
+  - username: "madeleineedwards"
     fullname: >-
-      ＫＩＡＲＡ ＰＡＩＧＥ 🕊𝑀𝑜𝒹𝑒𝓁
+      Madeleine Edwards
     bio: >-
-      ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 🤍 | Passion for Fashion, Fitness & Beauty 🖤 | Melbourne ~ Australia 🤍 | Agent Danielle @ikonickids
+      Melbourne | Beauty Therapist | Big Sister Trying to force you to love and embrace the skin you’re in 🫶🏼 hello@madeleineedwards.com
     location: "Australia"
-    followers: 11891
-    engagement: 558
-    commentsToLikes: 0.195636
-    id: ck13chikg0dfi0i19k7otgu8m
+    followers: 35870
+    engagement: 269
+    commentsToLikes: 0.064796
+    id: ck14l574uswvm0i19s61vbvic
     verified: false
-    hashtags: "#melbournemodel, #goldenhour, #australianmodel, #blondemodel"
+    hashtags: "#recycling, #springcleaning, #beautystorage, #skinfluencer"
   - username: "dmv.makeupartistry"
     fullname: >-
       DANA VAUGHAN | MAKEUP ARTIST
@@ -42,19 +42,7 @@ profiles:
     commentsToLikes: 0.027512
     id: ck0w637d36oga0i19muf6hksp
     verified: false
-    hashtags: "#skingoals, #meccabeauty, #bride, #inbeautmag"
-  - username: "kyliesouthwoodphotography"
-    fullname: >-
-      Kylie Southwood Photography
-    bio: >-
-      AIPP accredited Photographer | fashion | head shots | portrait | mentoring | Melbourne | kyliesouthwood@bigpond.com
-    location: "Australia"
-    followers: 27955
-    engagement: 75
-    commentsToLikes: 0.066259
-    id: ck13cxxr82plf0i191zwb7zf6
-    verified: false
-    hashtags: "#modelmentor, #modelportfolio, #photographer, #photography"
+    hashtags: "#motd, #naturalglam, #melbournemua, #beauty"
   - username: "nigelstanislaus"
     fullname: >-
       NIGEL STANISLAUS
@@ -67,6 +55,42 @@ profiles:
     id: ck6tw5f9dq3w10j71vomdtxnb
     verified: true
     hashtags: "#aboriginalaustralia, #melbournemakeupartist, #beauty, #makeupartist"
+  - username: "kayleigh_june"
+    fullname: >-
+      Kayleigh | Beauty Photographer
+    bio: >-
+      📷 Beauty photographer & Educator based between SYD & MEL 📔 Bookings: sarah@precisionmgmt.com.au 📺 Subscribe to my YouTube for new videos weekly! 👇
+    location: "Australia"
+    followers: 28922
+    engagement: 229
+    commentsToLikes: 0.023110
+    id: ck0w0xd3lghzn0i1968ta2wzi
+    verified: false
+    hashtags: ""
+  - username: "lilfooddiarymelb"
+    fullname: >-
+      𝗠𝗘𝗟𝗕𝗢𝗨𝗥𝗡𝗘 𝗙𝗢𝗢𝗗𝗜𝗘 • 𝗧𝗥𝗔𝗩𝗘𝗟 • 𝗟𝗜𝗙𝗘𝗦𝗧𝗬𝗟𝗘
+    bio: >-
+      𝑳𝒊𝒍𝒊𝒂𝒏 🌷 sharing melbourne & travel adventures 💌 Dm/Email for invites & collabs 📍 Melbourne ✈️ Vietnam Nov 24
+    location: "Australia"
+    followers: 16359
+    engagement: 393
+    commentsToLikes: 0.233677
+    id: cloxohuhh0c2d0j08hfd6ur35
+    verified: false
+    hashtags: "#melbournecoffee, #foodlover, #ootd, #cafe"
+  - username: "becandmarissa_"
+    fullname: >-
+      Twice Blessed™ ®
+    bio: >-
+      † 🕊️ Enquiries- twiceblessedbloggers@live.com Collaborations - nadine@bythem.co @majr_label
+    location: "Australia"
+    followers: 157440
+    engagement: 28
+    commentsToLikes: 0.008463
+    id: ck0vzvhjyb3j30i19fe8v60vd
+    verified: false
+    hashtags: "#ad, #ootd, #twiceblessed, #paypalpayin4"
   - username: "editionalbeauty"
     fullname: >-
       ⚡️editional beauty⚡️
@@ -78,53 +102,29 @@ profiles:
     commentsToLikes: 0.155522
     id: ck5c05d2hsh9m0i11o1yt0e9n
     verified: false
-    hashtags: "#meccamoment, #luxuryfragrance, #fragrancecollection, #skincareroutine"
-  - username: "madeleineedwards"
+    hashtags: "#perfumecollections, #perfumebottle, #luxuryskincare, #beautyfavorites"
+  - username: "swethamelly"
     fullname: >-
-      Maddie Edwards
+      Swetha Perera
     bio: >-
-      • 26 • Melbourne, AUS • Beauty and skincare addicted girl trying to force you to love your skin exactly how it is xx
+      life, beauty, style ♡ 🇱🇰🇦🇺 melbourne, australia @whiteaislesocials
     location: "Australia"
-    followers: 32478
-    engagement: 385
-    commentsToLikes: 0.055150
-    id: ck14l574uswvm0i19s61vbvic
+    followers: 65122
+    engagement: 372
+    commentsToLikes: 0.004307
+    id: clq8dmcce4bov0k089kwqicez
     verified: false
-    hashtags: "#ad, #smarternaturalskincare, #thefrankeffect, #meccamax"
-  - username: "_priya.rani_"
+    hashtags: "#srilanka, #styleinspo, #melbourne, #ootd"
+  - username: "simple.blanc"
     fullname: >-
-      PRIYA
+      Vinny
     bio: >-
-      VIVIENS’S MODEL MANAGEMENT @viviensmodelmgmt 🎬Acting at NIDA @nidacommunity Enquiry:marni@viviensmodels.com.au Actor|Model|Singer|Dancer
+      Aesthetic | Style | Beauty | Creative 📍Melbourne 💌vinny@abmgmt.co
     location: "Australia"
-    followers: 3409
-    engagement: 589
-    commentsToLikes: 0.128734
-    id: ckaos58v1q5ac0i78045wd4j1
+    followers: 111052
+    engagement: 8
+    commentsToLikes: 0.000000
+    id: ck6ufoxfcyasl0j71k5gsks2c
     verified: false
-    hashtags: "#portraits, #hairgoals, #style, #artist"
-  - username: "juthamat.by.jem"
-    fullname: >-
-      Jem Juthamat
-    bio: >-
-      Lifestyle | Interior Melbourne Australia Creative Director + Co Founder @jemandbianca.interiors Collab w/ me - contact@vivemanagement.com.au
-    location: "Australia"
-    followers: 60470
-    engagement: 92
-    commentsToLikes: 0.166739
-    id: ck13bpl4bwk2n0i19gi6bl1gm
-    verified: false
-    hashtags: "#melbourneinteriors, #livingroomdecor, #interior4all, #homeinspo"
-  - username: "mollysmyth"
-    fullname: >-
-      Molly Smyth
-    bio: >-
-      Fashion, Beauty & Style Based in Melbourne, Australia Email - hello@mollysmyth.com.au
-    location: "Australia"
-    followers: 27421
-    engagement: 91
-    commentsToLikes: 0.143520
-    id: ck0u26qp1yy3r0i19o6f7zhof
-    verified: false
-    hashtags: "#prproduct, #pr, #ad, #love"
+    hashtags: "#amouage, #pasduchas, #libertineparfumerie, #obviousparfums"
 ---

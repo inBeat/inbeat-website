@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music Instagram Influencers In United States In 2023
+title: Top 10 Music Instagram Influencers In United States In 2024
 description: >-
-  Find top music Instagram influencers in United States in 2023. Most popular hashtags: #jeffsatur #madeintheusa #nicaragua.
+  Find top music Instagram influencers in United States in 2024. Most popular hashtags: #love #ad #sponsored.
 platform: Instagram
-hits: 16752
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 16752 Instagram influencers like this in United States for you to collaborate.
+hits: 16852
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: inBeat has 16852 Instagram influencers like this in United States for you to connect with.
 profiles:
   - username: "wowtashawow"
     fullname: >-
@@ -31,100 +31,100 @@ profiles:
     id: ck6u1uaienxaf0j71rd3u3t32
     verified: false
     hashtags: "#callinsurance"
-  - username: "osloibrahim"
+  - username: "thenewfoundyorker"
     fullname: >-
-      LORD OSLO
+      Angela Pickett
     bio: >-
-      he is wonderful. he is me and i’m him. 📞 : +62 856 7660881 (balian) “he makes music”
+      🤍Music/Food/Travel 🇨🇦Born in Newfoundland📍Based in NYC 🎻Viola/violin/fiddle @overlookquartet and everywhere @juilliardschool, @msm.nyc
     location: "United States"
-    followers: 49241
-    engagement: 692
-    commentsToLikes: 0.012044
-    id: ck8sz7hthndus0j7894d27aks
+    followers: 11706
+    engagement: 539
+    commentsToLikes: 0.131748
+    id: ck8tb91bxurvt0j7865tjjjqy
     verified: false
-    hashtags: "#masmaslyfe, #livebold, #tennislyfe, #tenniscourt"
-  - username: "juliengeloen"
+    hashtags: "#vegan, #whatveganseat, #nyc, #veganfoodlovers"
+  - username: "emylawson"
     fullname: >-
-      Julien Geloën
+      ᴇᴍᴀɴ | makeup art & travel
     bio: >-
-      📩 juliengeloenpro@gmail.com 🏳️🎶 music : @iamblanc 🐯🐯 @superstarbianca 🌞 SUN IS SHINING 🌞 🎥 Tiktok ↙️↙️
+      ☾ AstroMermaid Of Darkness ✨🪐 🇲🇦🇹🇷 @emylawsonmusic ♫ Ravenclaw ⚯ ͛ emylawsonmail@gmail.com . LATEST MUSIC👇🏻
     location: "United States"
-    followers: 437933
-    engagement: 485
-    commentsToLikes: 0.010626
-    id: ck55j15u3w0jk0i11r3rbowyd
-    verified: true
-    hashtags: "#monmomentestheticcenter, #estheticcenter, #thinknewdrinknew, #deltatour"
-  - username: "jeffsatur"
-    fullname: >-
-      𝗝 𝗘 𝗙 𝗙   𝗦 𝗔 𝗧 𝗨 𝗥 (罗杰夫)
-    bio: >-
-      🪐Work @studio_on_saturn:0968626665(K.Venus) @beoncloud.official Line:@beoncloud ✉️artist@beoncloud.com Warner Music Thailand :0654409098(K.Boy)
-    location: "United States"
-    followers: 2615963
-    engagement: 1688
-    commentsToLikes: 0.005370
-    id: cl31crsw9xwqw0i23qc3523r1
+    followers: 5057
+    engagement: 551
+    commentsToLikes: 0.094641
+    id: ckaoz4f0zkbk00i78gsnsd8of
     verified: false
-    hashtags: "#jeffxmnyfreshtint, #jeffsatur, #panth, #santosdecartier"
-  - username: "kaytranada"
+    hashtags: "#graphiclinerlook, #graphicliner, #makeuplover, #aesthetic"
+  - username: "danielariojas"
     fullname: >-
-      
+      Daniela Riojas
     bio: >-
-      oh my gosh the music just turns me on
+      Curandera 🪶Medicine 🍃 Earth Prayers Global Educational Community 🌎🌐 Founder: @intikhana.medicina Music, Intikhana Mentorship, and Ceremony ⇊
     location: "United States"
-    followers: 1069476
-    engagement: 796
-    commentsToLikes: 4.675763
-    id: ck0vv8ul3o2770i19ai31qg0e
-    verified: true
-    hashtags: "#flauntmagazine, #thetempestissue, #placespluskaytranada"
-  - username: "teishi"
-    fullname: >-
-      Tei Shi
-    bio: >-
-      🇨🇴 🇨🇦 music. teishibiz@gmail.com tiktok: @tei.shi
-    location: "United States"
-    followers: 45370
-    engagement: 388
-    commentsToLikes: 0.021167
-    id: ck55jgumxx07u0i11qm5t4xoo
-    verified: true
-    hashtags: "#pressplay, #teishi"
-  - username: "tatuajeinc"
-    fullname: >-
-      Pete Johnson
-    bio: >-
-      Founder - Tatuaje Cigars Inc. - Cigars, Wine, Spirits, Music, Fashion & Travel @tatuajecigars #tatuajecigars
-    location: "United States"
-    followers: 26289
-    engagement: 348
-    commentsToLikes: 0.032740
-    id: ck5q6m5j5xyog0i11cbsl7prk
+    followers: 122830
+    engagement: 826
+    commentsToLikes: 0.022568
+    id: ck6twuy7zu8qf0j71cszz3gc2
     verified: false
-    hashtags: "#nicaragua, #madeinnicaragua, #madeintheusa, #cigars"
-  - username: "sanholobeats"
+    hashtags: "#healing, #voice, #plantmedicine, #music"
+  - username: "djpain1"
     fullname: >-
-      San Holo (↑%)
+      DJ Pain 1
     bio: >-
-      LA | founder @bitbird 🕊❤️ ✨@stayvibrant ✨ EDM EXISTENTIAL DANCE MUSIC
+      Multi-Platinum Producer/DJ, credits include: Jeezy, Lil Baby, Ludacris, Nas, Public Enemy, Yo Gotti, Polo G, more. @musicentrepreneurclub #VDJS
     location: "United States"
-    followers: 466296
-    engagement: 297
-    commentsToLikes: 0.033255
-    id: ck0tt10a00ouh0i19fem87c1e
+    followers: 79274
+    engagement: 977
+    commentsToLikes: 0.093310
+    id: ck55pqdcub57h0i1189lavtuk
     verified: true
-    hashtags: "#kunstinspireertenverbindt, #artinspiresandconnects, #bekijkhetmauritshuismetjeoren, #supportervanallekunstontdekkers"
-  - username: "chrismcg"
+    hashtags: "#love, #sponsored, #beatstars, #makingbeats"
+  - username: "danucd"
     fullname: >-
-      Christopher McGinnis
+      Dana
     bio: >-
-      🌎 Worldwide 🎶 Life Without Music Would B Flat 🙏🏼 Faith in God 🤝 I enjoy helping people
+      📧 teamdanucd@unitedtalent.com 👇🏽copyright FREE music👇🏽
     location: "United States"
-    followers: 10706992
-    engagement: 251
-    commentsToLikes: 0.005202
-    id: ck5ho3yggow5j0i11yqoba04c
+    followers: 222972
+    engagement: 1350
+    commentsToLikes: 0.015957
+    id: ck5hl63rtjmx40i11pheqn75y
     verified: false
-    hashtags: "#edst, #dubai, #maldives, #barbados"
+    hashtags: "#fun, #pubgmobile, #streamer, #pubgm"
+  - username: "momo_obrien"
+    fullname: >-
+      Mo Mo O’Brien 🌸
+    bio: >-
+      🎵 Music 🌱 Character Actress ✨ Content about Immersive Experiences 🌸 She/Her 💌 momo.obrien.official@gmail.com
+    location: "United States"
+    followers: 183075
+    engagement: 981
+    commentsToLikes: 0.007111
+    id: ck5pxgue5roln0i11dmfgeqo7
+    verified: false
+    hashtags: "#dnd, #baldursgate, #baldursgate3, #larp"
+  - username: "claireateku"
+    fullname: >-
+      claire ateku
+    bio: >-
+      • ny📍 • howard u🦬 • blessed/highly favored✨ • therealateku@gmail.com 💌 • music/pop culture anchor + host 🎤 • culture creator🇰🇪 + serial networker🌐
+    location: "United States"
+    followers: 23014
+    engagement: 466
+    commentsToLikes: 0.080634
+    id: ckwbjrqldl8zn0j23s2wnli0r
+    verified: false
+    hashtags: "#summerwya, #daytona500, #madeinlagos, #busy"
+  - username: "leah_oxendine_strong"
+    fullname: >-
+      LEAH OXENDINE🌻 holistic health & homestead journey
+    bio: >-
+      lil’ homestead in the FL pines 🌱 saved by grace. wife. mama+2 boys. author/musician. fitness CPT. slow living, recipes, workouts & crunchy anecdotes
+    location: "United States"
+    followers: 28684
+    engagement: 2005
+    commentsToLikes: 0.071958
+    id: ckt883j4u5y0z0j23jw6n6nfq
+    verified: false
+    hashtags: "#sourdoughdiscard, #crunchymama, #gingerbug, #fyp"
 ---

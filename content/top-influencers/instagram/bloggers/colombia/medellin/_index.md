@@ -1,36 +1,24 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Medellín In 2023
+title: Top 10 Bloggers Instagram Influencers In Medellín In 2024
 description: >-
-  Find top bloggers Instagram influencers in Medellín in 2023. Most popular hashtags: #colombia #medellin #reelsinstagram #bogota.
+  Find top bloggers Instagram influencers in Medellín in 2024. Most popular hashtags: #colombia #bogota #reels #tutorial.
 platform: Instagram
-hits: 8
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 8 Instagram influencers like this in Medellín, Colombia for you to contact.
+hits: 5
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 5 Instagram influencers like this in Medellín, Colombia for you to work with.
 profiles:
-  - username: "marialejamirandap"
+  - username: "camineyvamonos"
     fullname: >-
-      -M A R I A  A L E J A N D R A-
+      Jeniffer 👱🏼‍♀️ | recetas y recomendaciones
     bio: >-
-      📍Cali |Co •ℂ𝕣𝕖𝕒𝕟𝕕𝕠 𝕝𝕒 𝕧𝕚𝕕𝕒 𝕢𝕦𝕖 𝕒𝕞𝕠 • •MIP•|Icesi Creadora de 🧁:@factorycakebymale
+      🟥Hago recetas y recomendaciones que me gustan💕 🟧Medellín 🟨Revisa mis HISTORIAS DESTACADAS 👇🏻
     location: "Colombia"
-    followers: 8470
-    engagement: 510
-    commentsToLikes: 0.041288
-    id: ckaouqrjw1esd0i78decx4wuk
+    followers: 263263
+    engagement: 278
+    commentsToLikes: 0.110259
+    id: ck6u6szdmhjkh0j719jkstyce
     verified: false
-    hashtags: "#playa, #picoftheday, #ootd, #repostdolookdodia"
-  - username: "carogallegoca"
-    fullname: >-
-      Caro Gallego Ca.
-    bio: >-
-      Medellín. 📍 Infocarogallego@gmail.com✨ Beauty blogger. @ateneaprofesional
-    location: "Colombia"
-    followers: 36955
-    engagement: 234
-    commentsToLikes: 0.092682
-    id: ck5qaczd5fr190i11fj3cjksh
-    verified: false
-    hashtags: "#viernestrepado, #giveaway"
+    hashtags: "#airfryer, #foodblog, #foodlover, #recetassaludables"
   - username: "saracalderonmakeup"
     fullname: >-
       Maquillaje Cartagena
@@ -43,30 +31,6 @@ profiles:
     id: ckaoydrcxh39n0i78g1yu92pf
     verified: false
     hashtags: "#makeup, #tutorial, #maquillajenatural, #novias"
-  - username: "isabelvesga"
-    fullname: >-
-      Isa • Designer | Styling
-    bio: >-
-      Colombian babe 🌈 Lifestyle | Travel | Outfits ⚡️ Founder @itsmariavesga @elementumdesign Links 👇🏽✨
-    location: "Colombia"
-    followers: 9917
-    engagement: 453
-    commentsToLikes: 0.042405
-    id: ck8tcsh2n0i9l0j78rd38d8tm
-    verified: false
-    hashtags: "#blondebalayage, #sheingals, #travel, #makeuplooks"
-  - username: "dondeesta_kelly"
-    fullname: >-
-      Kelly 🐿 Just A Travel Squirrel
-    bio: >-
-      ❌Kels In Red❌ ✦ Visual Storyteller ✈ Travel ~ Photography 📸 🛸 I’ve a drone De bocas libres y pies pa’ caminar🌏
-    location: "Colombia"
-    followers: 24463
-    engagement: 470
-    commentsToLikes: 0.286362
-    id: ck0w5qet44x4b0i19672e02td
-    verified: false
-    hashtags: "#trip, #viajeroscolombianos, #blogger, #viajerosporelmundo"
   - username: "somos.viajeras"
     fullname: >-
       Somos Viajeras - Blog
@@ -103,6 +67,30 @@ profiles:
     id: ckap5ykkgdpi10i78wxampujs
     verified: false
     hashtags: "#pictureoftheday, #colombiana, #colombia, #lifestyleblogger"
+  - username: "camilacanabal"
+    fullname: >-
+      Camila | Inspirar siempre
+    bio: >-
+      🛒 camilacanabal.com ⚡️ @bycamilacanabal 👩🏼 TV Hostess, Blogger, Youtuber, Emprendedora 💙 Mamá y “Mamager”
+    location: "Colombia"
+    followers: 3343674
+    engagement: 22
+    commentsToLikes: 0.022769
+    id: ckqt1vbz9zwdm0j23izwrosqd
+    verified: false
+    hashtags: "#inspirarsiempre, #look, #lookdeldia, #cartera"
+  - username: "the_lucky_brunette"
+    fullname: >-
+      María Eugenia Ordoñez Calvimontes
+    bio: >-
+      || GOD FIRST || • Industrial & systems engineer • Fashion & life style blogger • Daily #outfitsinspiration 👗 • @luckyrudolph 's mom 🐶
+    location: "Colombia"
+    followers: 90229
+    engagement: 56
+    commentsToLikes: 0.014533
+    id: ck5zxh446800q0i14ss8slh9v
+    verified: false
+    hashtags: "#picoftheday, #springsummer, #coffeelover, #trendalert"
   - username: "saracalderonmakeup"
     fullname: >-
       Maquillaje Cartagena
@@ -127,4 +115,16 @@ profiles:
     id: ck5hi0usmb25p0i11evzfvxeq
     verified: false
     hashtags: "#conchisamper, #modasostenible, #fotografiaartistica, #modacircular"
+  - username: "adribeautyartist"
+    fullname: >-
+      ✨Adri Beauty Artist✨
+    bio: >-
+      🎓Certified Makeup Artist 🤍Beauty Blogger 📍#Barranquilla Información Servicios de Maquillaje 👇🏻
+    location: "Colombia"
+    followers: 13900
+    engagement: 813
+    commentsToLikes: 0.122506
+    id: ckaoyngqii8us0i78s7n5ut7m
+    verified: false
+    hashtags: "#atlantico, #maquillaje, #maquilladoracolombia, #adribeautyartist"
 ---

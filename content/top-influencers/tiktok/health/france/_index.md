@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In France In 2023
+title: Top 10 Health TikTok Influencers In France In 2024
 description: >-
-  Find top health TikTok influencers in France in 2023. Most popular hashtags: #foryou #healthy #whatieatinaday #fyp.
+  Find top health TikTok influencers in France in 2024. Most popular hashtags: #healthy #foryou #fyp #whatieatinaday.
 platform: TikTok
 hits: 59
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our database has 59 TikTok influencers like this in France for you to contact.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 59 TikTok influencers like this in France for you to pitch.
 profiles:
   - username: "maddys_healthy"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.007156
     id: ck9uy61jx2zvc0j78zciu83yg
     verified: true
-    hashtags: "#beegees, #sponsoris, #manhaecapexpert, #codesrousseau"
+    hashtags: "#huaweimute, #simulateur, #duo, #sponsoris"
   - username: "inlack_of_food"
     fullname: >-
       K❤️
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.007299
     id: ckcuppke4ivln0j23u13yjdfc
     verified: false
-    hashtags: "#bakedoats, #whatieatinaday, #foryou, #fyp"
+    hashtags: "#fyp, #foryou, #whatieatinaday, #bakedoats"
   - username: "josiepowell_fit"
     fullname: >-
       Josie Powell

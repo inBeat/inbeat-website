@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Morocco In 2023
+title: Top 10 Fashion TikTok Influencers In Morocco In 2024
 description: >-
-  Find top fashion TikTok influencers in Morocco in 2023. Most popular hashtags: #fashion #maroc #morocco #model.
+  Find top fashion TikTok influencers in Morocco in 2024. Most popular hashtags: #fashion #morocco #maroc #hairstyle.
 platform: TikTok
 hits: 19
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 19 TikTok influencers like this in Morocco for you to contact.
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our platform has 19 TikTok influencers like this in Morocco for you to pitch.
 profiles:
   - username: "hamza_it"
     fullname: >-

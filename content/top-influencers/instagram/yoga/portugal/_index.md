@@ -1,96 +1,120 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Portugal In 2023
+title: Top 10 Yoga Instagram Influencers In Portugal In 2024
 description: >-
-  Find top yoga Instagram influencers in Portugal in 2023. Most popular hashtags: #yoga #yogainspiration #nature #yogagirl.
+  Find top yoga Instagram influencers in Portugal in 2024. Most popular hashtags: #yoga #portugal #training #workout.
 platform: Instagram
 hits: 14
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 14 Instagram influencers like this in Portugal for you to pitch.
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 14 Instagram influencers like this in Portugal for you to work with.
 profiles:
-  - username: "cizzyew"
+  - username: "nathaliekemna"
     fullname: >-
-      Cecilia ॐ CEWYoga
+      nathalie kemna ☾
     bio: >-
-      Here for the Yoga community 🕉️ Yoga teacher ~ERYT200 (+25 H) @feetup 💚 Ambassador Plant based diet Meditation
+      ➳ earth woman - living in Portugal ➳ sharing cacao medicine in ceremonies ➳ founder @kakalinakakao ➳ guiding 1:1 & group journeys ➳ yoga teacher
     location: "Portugal"
-    followers: 13312
-    engagement: 522
-    commentsToLikes: 0.218634
-    id: ck8tcnakl00f10j78o6hs3gd4
+    followers: 32876
+    engagement: 112
+    commentsToLikes: 0.057213
+    id: ck8sxokrri3kn0j783a43pq7a
     verified: false
-    hashtags: "#yogamakesmehappy, #yogini, #yogastretch, #yogaeverydamnday"
+    hashtags: "#medicinewoman, #cacaoceremony, #feminineenergy, #balealbeach"
+  - username: "talia_sutra"
+    fullname: >-
+      T A L I A   S U T R A
+    bio: >-
+      हरि ॐ Founder of @love.and.all.is.coming Yoga School Remove the obstacles & Truth is all that is left. Free classes: taliasutra.com Join a training:
+    location: "Portugal"
+    followers: 503288
+    engagement: 53
+    commentsToLikes: 0.016977
+    id: ck0u27iaqz1tr0i194t1uwsxd
+    verified: true
+    hashtags: "#loveandalliscoming, #joy, #inspiration, #yogi"
+  - username: "catmeffan"
+    fullname: >-
+      CAT MEFFAN | Embodied Movement, Sound + Breath 🌷
+    bio: >-
+      🧘🏼‍♀️ Yoga & Retreats: @MySoulSanctuary 🏡 Home: @CatandLuke 💥👇🏼 NEW Portugal September Retreat👇🏼💥
+    location: "Portugal"
+    followers: 205792
+    engagement: 4
+    commentsToLikes: 0.000606
+    id: ck0u0ypd1vcct0i19hwapj8sk
+    verified: true
+    hashtags: "#yogaretreat, #yogainspiration, #freemovement, #yoga"
   - username: "yogawith.iva"
     fullname: >-
       ivazanotte
     bio: >-
-      🇵🇹 💪instructor stretching 👚👖yoga model 👉IVA20 my code for discount 👇 🧘‍♂️@yantraconnection Embassador 👵grandmother 👩‍👧‍👧mother of 2 @yoga.feminine
+      🇵🇹🇧🇷 💪instructor stretching 👖yoga model 👉IVA20 my code for discount 👇 🧘‍♂️@yantraconnection Embassador 👵grandmother 👩‍👧‍👧mother of 2 @yoga.feminine
     location: "Portugal"
-    followers: 16826
-    engagement: 331
-    commentsToLikes: 0.304315
+    followers: 18296
+    engagement: 302
+    commentsToLikes: 0.286324
     id: ckapauezvxic70i78ot2ctr0a
     verified: false
-    hashtags: "#yogafeature, #yogasanas, #pilateiras, #faroalgarveportugal"
-  - username: "caykuijpers"
+    hashtags: "#twist, #yogagirl, #yoga, #yogapose"
+  - username: "gotmypostcard"
     fullname: >-
-      Cay | International Host
+      Andreia | GOT MY POSTCARD?
     bio: >-
-      Cert 3 & 4 PT Academy Australia Plant Queen 🌿 @tulliaindoorplants Fitness and Healthy Mind Advocate 👶 @iammagnusorion
+      Portuguese girl around the world 🗺 • Travel • Yoga • Nature 📍South Florida ⬇️ 7 tips for planning a road trip
     location: "Portugal"
-    followers: 66519
-    engagement: 114
-    commentsToLikes: 0.074643
-    id: ck0vws98ovcnv0i1927mqzo5g
+    followers: 35811
+    engagement: 72
+    commentsToLikes: 0.040714
+    id: ck13al1vuqwfr0i19euiu47vo
     verified: false
-    hashtags: "#harleydavidsonroadking, #girlswhorun, #cruiserbike, #nature"
-  - username: "laia_violeta"
+    hashtags: "#roadtripusa, #portugal, #roadtrip, #ad"
+  - username: "sarahuactive"
     fullname: >-
-      Laia Violeta
+      Sara Hu • Fisioterapeuta, Prof. Yoga e Pilates
     bio: >-
-      💫Pilates Instructor 🌍Barcelona 📌Fuerteventura 👉🏽 Polestarpilates® & PMA® certified ON-LINE Private & Group pilates Spanish & English & Portuguese
+      💪Ajudo-te a aliviar as dores e a trazer mais movimento e saúde à tua vida - AGENDA FECHADA 📞 Marca sessão com a minha equipa 👉 @kosha.pt
     location: "Portugal"
-    followers: 12084
-    engagement: 541
-    commentsToLikes: 0.111237
-    id: ck0w2vk20qdjw0i19lgsnpmo7
+    followers: 15492
+    engagement: 346
+    commentsToLikes: 0.036513
+    id: ck15pm1tayjwr0i19janvpahi
     verified: false
-    hashtags: "#dance, #cadillacpilates, #pilatesstudio, #pilateslovers"
-  - username: "thetwobohemians"
+    hashtags: "#yogaflows, #40weeks, #mobilitytraining, #azores"
+  - username: "jessicaxviana"
     fullname: >-
-      Luke & Tyler ≈ TRAVEL COUPLE
+      Jessica Viana | Food & Travel
     bio: >-
-      Digital Nomads & Mindful Travellers. 🌎 Inspiring millennials to live differently. 📸 @bohemianpresets 📍 Ericeira 🇵🇹 ↡ VlOGS | PRESETS | WEBSITE ↡
+      Romanticizing life ✨ + eating, traveling, or both! ☁️ I love boutique hotels & vibey restaurants 🍸 🇵🇹 in 🇬🇧 🗝 London, UK 💌 jessicaviana06@gmail.com
     location: "Portugal"
-    followers: 68032
-    engagement: 157
-    commentsToLikes: 0.089701
-    id: ck0u6dt101m860i1921ad3kl5
+    followers: 14576
+    engagement: 3760
+    commentsToLikes: 0.092529
+    id: ck9hbat5pg2b40j78hmzgd73y
     verified: false
-    hashtags: "#travelcouplesinspiration, #ericeiraportugal, #coupleswhotravel, #travelcouplelife"
-  - username: "rafaelaalexandra0"
+    hashtags: "#visitlondon, #albaniatourism, #crepes, #visitalbania"
+  - username: "vanessadesousa_pt"
     fullname: >-
-      Rafaela Duarte | Healthy 💫
+      Vanessa de Sousa | Personal Trainer
     bio: >-
-      🌱 wellness | food | lifestyle 📖 Marketing e Publicidade 📍 Lisboa, Portugal 😋 PROZIS: RAFAELADUARTE 💻 @ellephant.pt 💫YouTube
+      •Sports Degree, PT🎓 •DT @yourfitprograms 🇵🇹 •Criadora do método exclusivo >> VSFIT TRAINING •Ajudo MULHERES a transformar metas em Realidade! ⬇️⬇️
     location: "Portugal"
-    followers: 55768
-    engagement: 522
-    commentsToLikes: 0.029931
-    id: ckapbzw1a1xic0i78r1nx98i6
+    followers: 24568
+    engagement: 192
+    commentsToLikes: 0.033677
+    id: ck9h9txq29yij0j78i5rrvu25
     verified: false
-    hashtags: "#healthychoices, #veganfood, #eathealthy, #healthylifestyle"
-  - username: "maryplan"
+    hashtags: "#pereiro, #stayhome, #absworkout, #fitmotivation"
+  - username: "mariajoao.bastos"
     fullname: >-
-      Maria Pereira
+      Maria João Bastos
     bio: >-
-      📍#oporto based Team @yogicouplelove Mary’s life it’s all about Mary’s plan... Follow the plan ❣️ Let’s work : mariapdpereira@hotmail.com 🌱
+      ACTOR 🇬🇧 @scott_marshall_partners 🇵🇹 @artistglobalmanagement 🇧🇷 @damascenomarcio Digital & Brands ➡️ tiago.froufe@thisisluvin.com
     location: "Portugal"
-    followers: 39255
-    engagement: 170
-    commentsToLikes: 0.268751
-    id: ck5zl46uwkp4v0i143onacgm5
-    verified: false
-    hashtags: "#hapiness, #ootd, #kingslandequestrian, #hapinessishere"
+    followers: 266242
+    engagement: 78
+    commentsToLikes: 0.031698
+    id: ck0vzdekn8jwz0i19jvxktiap
+    verified: true
+    hashtags: "#filmes, #ficaadica, #fic, #madalena"
   - username: "evelise_veiga"
     fullname: >-
       🅴🆅🅴🅻🅸🆂🅴 🆅🅴🅸🅶🅰
@@ -103,28 +127,4 @@ profiles:
     id: ck0u1mi2lx9df0i19glti35zo
     verified: false
     hashtags: "#longjump, #fitness, #beachtraining, #jumpevelise"
-  - username: "idireito"
-    fullname: >-
-      Inês Gomes Direito
-    bio: >-
-      lara@next.pt direitoporlinhastortas.id@gmail.com
-    location: "Portugal"
-    followers: 20968
-    engagement: 158
-    commentsToLikes: 0.118812
-    id: ck9we42r0ihoi0j78g69ssdlt
-    verified: false
-    hashtags: "#workout, #fitgirl, #gravidez, #homeworkout"
-  - username: "gotmypostcard"
-    fullname: >-
-      Andreia | GOT MY POSTCARD?
-    bio: >-
-      Portuguese girl around the world 🗺 📍South Florida info@gotmypostcard.com
-    location: "Portugal"
-    followers: 36977
-    engagement: 94
-    commentsToLikes: 0.044754
-    id: ck13al1vuqwfr0i19euiu47vo
-    verified: false
-    hashtags: "#miamilife, #portugal, #floridalife, #visitflorida"
 ---

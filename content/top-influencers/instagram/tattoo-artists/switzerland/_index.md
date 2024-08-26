@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Switzerland In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Switzerland in 2023. Most popular hashtags: #tattooartist #tattoos #tattooart #tattoo.
+  Find top tattoo-artists Instagram influencers in Switzerland in 2024. Most popular hashtags: #tattooartist #tattooart #tattoo #tattoos.
 platform: Instagram
-hits: 11
+hits: 15
 text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat has 11 Instagram influencers like this in Switzerland for you to pitch.
+text_bottom: inBeat has 15 Instagram influencers like this in Switzerland for you to collaborate.
 profiles:
   - username: "pedrotattoo_ribeiro"
     fullname: >-
@@ -43,18 +43,42 @@ profiles:
     id: ck0w6vxasailg0i194bvtmr87
     verified: false
     hashtags: "#planettattoo, #tattooinrussia, #inked, #bananatattoo"
+  - username: "dark_grey_tattoo"
+    fullname: >-
+      Dark Grey Tattoostudio
+    bio: >-
+      Since 2015 ❤️‍🔥 Kostenlose Beratungsgespräche ohne Termin möglich Mo-Fr 12:00-18:00 Im Ahrfeld 5 / 45136 Essen Whatsapp link ⬇️
+    location: "Switzerland"
+    followers: 66818
+    engagement: 567
+    commentsToLikes: 0.025217
+    id: ck6u74m0ljg3n0j71gwmnzreb
+    verified: false
+    hashtags: "#ink, #tattoomagazine, #instagood, #blackngreytattoo"
+  - username: "alexey.cubas"
+    fullname: >-
+      𝘼𝙡𝙚𝙭𝙚𝙮 𝘾𝙪𝙗𝙖𝙨 🎨
+    bio: >-
+      ᴅᴍ ғᴏʀ ʙᴏᴏᴋɪɴɢ 📩 🇨🇭Owner: @actattoo.studio 🛒⚫️ @acshop.ch 𝒁𝒖̈𝒓𝒊𝒄𝒉 - 𝑺𝒘𝒊𝒕𝒛𝒆𝒓𝒍𝒂𝒏𝒅📍
+    location: "Switzerland"
+    followers: 35244
+    engagement: 135
+    commentsToLikes: 0.025018
+    id: ck136vp378h2d0i19u8wrlcox
+    verified: false
+    hashtags: "#tatuajes, #arte, #abstractart, #swisstattoo"
   - username: "jakabtattoo"
     fullname: >-
-      Dezső Jakab
+      Jakabtattoo
     bio: >-
-      ➕➕➕Geometry➕➕➕ Co-Owner of @inkbuzz Tattoo studio Looking for resident and guest artist!
+      Pilisvörösvár (Hungary) bookings.jakabtattoo@gmail.com @pepax.official
     location: "Switzerland"
-    followers: 40292
-    engagement: 744
-    commentsToLikes: 0.008588
+    followers: 99176
+    engagement: 886
+    commentsToLikes: 0.004786
     id: ck6ts9w5x3k9q0j71aw8sred2
     verified: false
-    hashtags: "#art, #tattooart, #mandalas, #spiral"
+    hashtags: "#dotwork, #tattooartist, #sleeve, #besttattoo"
   - username: "durantattoo"
     fullname: >-
       DURAN TATTOO
@@ -66,65 +90,41 @@ profiles:
     commentsToLikes: 0.012604
     id: ck0tzl1xoqpqh0i19i6u6n62g
     verified: false
-    hashtags: "#onepiece, #realismtattoo, #bardock, #goku"
+    hashtags: "#designtattoo, #tattooink, #durantattoostudio, #tattooartist"
   - username: "daniele_lo_scritto"
     fullname: >-
       Daniele Lo Scritto
     bio: >-
-      🇮🇹 from Italy Always in guest pot Zürich @born1891.tattoo Essen @pottboiz.electric.tattoo 📍on the road Currently in Rome 🇮🇹
+      🇮🇹 from Italy Always in guest pot Sponsor by @emalla_official 📍on the road Currently in Rome 🇮🇹
     location: "Switzerland"
-    followers: 57459
-    engagement: 174
-    commentsToLikes: 0.024105
+    followers: 55525
+    engagement: 150
+    commentsToLikes: 0.025815
     id: ck5hhuswna6o60i11t9y0kadj
     verified: false
-    hashtags: "#zurigo, #illusioniottiche, #mandalaart, #loscritto"
+    hashtags: "#mandalaart, #skulltattoo, #tattooartist, #zurigo"
   - username: "ivanpanayotovtattoo"
     fullname: >-
       𝕴𝖛𝖆𝖓 𝕻𝖆𝖓𝖆𝖞𝖔𝖙𝖔𝖛 ㋡
     bio: >-
-      Co-owner @inksocietybasel🇧🇬🇨🇭 Sponsored by: @stigmarotary @aftercareh2ocean Patreon: IvanPanayotov Latest video👇🏻
+      Co-owner @inksocietybasel🇧🇬🇨🇭 Sponsored by: @stigmarotary @aftercareh2ocean ALL MY LINKS👇🏻👇🏻
     location: "Switzerland"
-    followers: 39585
-    engagement: 174
-    commentsToLikes: 0.022677
+    followers: 47751
+    engagement: 238
+    commentsToLikes: 0.017422
     id: ck5bzm36ureyr0i11m2xag6up
     verified: false
-    hashtags: "#ivanpanayotovtattoo, #stigmathorn, #tattooing, #tats"
+    hashtags: "#ivanpanayotov, #inkedup, #h2ocean4life, #ink"
   - username: "christos_zorbas"
     fullname: >-
       ᴄʜʀɪsᴛᴏs ᴢᴏʀʙᴀs
     bio: >-
-      ᴛᴀᴛᴛᴏᴏ ᴀʀᴛɪsᴛ 🖋🙆‍♂️ sᴋɢ,ɢʀ📍 5/3-21/3 2021 Zurich 🇨🇭 ᴄᴏɴᴛᴀᴄᴛ:ᴢᴏʀʙᴀsᴛᴀᴛᴛᴏᴏ@ʜᴏᴛᴍᴀɪʟ.ᴄᴏᴍ 5 May - 5 June 2021 @inked_nyc Owner : @bloodycherry_tattoo
+      ᴛᴀᴛᴛᴏᴏ ᴀʀᴛɪsᴛ 🖋🙆‍♂️ 📧: ᴢᴏʀʙᴀsᴛᴀᴛᴛᴏᴏ@ʜᴏᴛᴍᴀɪʟ.ᴄᴏᴍ Resident at @bonnie_ink_zurich 🇨🇭 Owner: @bloodycherry_tattoo
     location: "Switzerland"
-    followers: 18474
-    engagement: 375
-    commentsToLikes: 0.017654
+    followers: 19725
+    engagement: 406
+    commentsToLikes: 0.020696
     id: ck5qeapzdzjif0i11i4weixw7
     verified: false
-    hashtags: "#realistictattoo, #tattooideas, #sleevetattoo, #tattoogirl"
-  - username: "alexey.cubas"
-    fullname: >-
-      Alexey Cubas 🎨
-    bio: >-
-      🔺VIVE CON ARTE ✍️Dibujante y 🎥Youtuber ▪️Último vídeo 👇👇👇
-    location: "Switzerland"
-    followers: 28417
-    engagement: 353
-    commentsToLikes: 0.027332
-    id: ck136vp378h2d0i19u8wrlcox
-    verified: false
-    hashtags: "#dibujosalapiz, #dibujos, #papomc, #arttattoo"
-  - username: "drillito"
-    fullname: >-
-      Drill
-    bio: >-
-      New Music Video 📼 “Rojeni da blestimo"💎 @komora.ent 🏭
-    location: "Switzerland"
-    followers: 14916
-    engagement: 1344
-    commentsToLikes: 0.009336
-    id: ck5hgmnhb3lr80i115ly5qf92
-    verified: false
-    hashtags: "#sunnyday, #marijana, #single, #hiphop"
+    hashtags: "#realistictattoo, #tattooer, #tattooing, #zurich"
 ---

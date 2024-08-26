@@ -1,12 +1,24 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Ukraine In 2023
+title: Top 10 Cooking Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top cooking Instagram influencers in Ukraine in 2023. Most popular hashtags: #love #food #nature.
+  Find top cooking Instagram influencers in Ukraine in 2024. Most popular hashtags: #cooking #food #love #beauty.
 platform: Instagram
-hits: 46
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 46 Instagram influencers like this in Ukraine for you to pitch.
+hits: 53
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform has 53 Instagram influencers like this in Ukraine for you to work with.
 profiles:
+  - username: "osia2013"
+    fullname: >-
+      OSIA YOUTUBE BLOGGER
+    bio: >-
+      Beauty | Fashion | Home | Cooking 14 years in Poland🇺🇦 500K+ YouTube channel Instagram PL : @olga.muszynska Contact: olga.donczenko@gmail.com
+    location: "Ukraine"
+    followers: 238223
+    engagement: 806
+    commentsToLikes: 0.011912
+    id: ck0w3hdw1tf460i1912161s2o
+    verified: false
+    hashtags: "#makeup, #zara, #stylefashion, #vacationmode"
   - username: "cooking_by_yuliya"
     fullname: >-
       Cooking_by_Yuliya
@@ -31,6 +43,30 @@ profiles:
     id: ck9hbvsdxio0w0j784x3va6gs
     verified: false
     hashtags: "#travel, #photooftheday, #lausanne, #autumn"
+  - username: "spartaquelive"
+    fullname: >-
+      Spartaque
+    bio: >-
+      🔥High Energy Techno🔥 📀 Owner of @codexrec @chlore_records @iamt_music_group @tuneinmag 🚀Follow my entrepreneur account @vitalibabi
+    location: "Ukraine"
+    followers: 142388
+    engagement: 228
+    commentsToLikes: 0.041908
+    id: ck0vvojl8q1ts0i19z9qxaxl0
+    verified: true
+    hashtags: "#lifeofadj, #barcelonaviews, #spartaquelive, #technofamily"
+  - username: "manthony783"
+    fullname: >-
+      MICHAEL ANTHONY
+    bio: >-
+      Makeup and Magic 🪄✨💫 #Makeupbymanthony Rep: @opusbeauty
+    location: "Ukraine"
+    followers: 166011
+    engagement: 79
+    commentsToLikes: 0.016947
+    id: ck0w5j7ko3wdy0i19jw1ucc8g
+    verified: true
+    hashtags: "#eyeliner, #beauty, #makeupbymanthony, #southafrica"
   - username: "annagirm"
     fullname: >-
       A.n.n.a G.i.r Malowany 🌺
@@ -79,52 +115,16 @@ profiles:
     id: ckf5qvc8nalqi0j23l0cmclxs
     verified: false
     hashtags: "#kometafit, #fitnessgirl, #kometablack, #moscow"
-  - username: "ado.khayat"
+  - username: "shantipeople"
     fullname: >-
-      KHAYAT
+      Shanti People
     bio: >-
-      PR & Booking: +380 (68) 761 81 60 KHAYAT - Темно (Official music video)
+      Project that mix PsyTrance | Techno with Mantras. #shantipeople #vedicedm #vocalyoga #pianagi Booking 👇
     location: "Ukraine"
-    followers: 24321
-    engagement: 947
-    commentsToLikes: 0.016483
-    id: ck0tvu0j2cs6x0i19xppjd4b0
+    followers: 135090
+    engagement: 1649
+    commentsToLikes: 0.017174
+    id: ck5zpq5mct4rl0i14f8i86m1g
     verified: false
-    hashtags: "#happylogidays, #logitechua, #haloween, #kyiv"
-  - username: "sasanchyn_official"
-    fullname: >-
-      Роман Сасанчин
-    bio: >-
-      🎙ПЕРЕМОЖЕЦЬ «ГОЛОС ДІТИ-2» 🎙ПЕРЕМОЖЕЦЬ «ГОЛОС КРАЇНИ-10» 📲Booking - +380505618505 📨Cooperation - @sasanchyn.cooperation
-    location: "Ukraine"
-    followers: 57889
-    engagement: 813
-    commentsToLikes: 0.014109
-    id: ck9wp691y7zhs0j78wh1vzzvi
-    verified: false
-    hashtags: ""
-  - username: "sonyakayofficial"
-    fullname: >-
-      Sonya Kay
-    bio: >-
-      - Booking Viber/WhatsApp: 📲+380937722827 Вадім @vadym.meyer 🧰- Реклама/Pr/Співпраця: @aisha_milevskaya +380737722827
-    location: "Ukraine"
-    followers: 31675
-    engagement: 469
-    commentsToLikes: 0.033482
-    id: ck0tvcjb6au5w0i19eekihj1a
-    verified: false
-    hashtags: "#mood, #celebrate, #funny, #winter"
-  - username: "nazarya_official"
-    fullname: >-
-      ＮＡＺＡＲ ＹＡ．
-    bio: >-
-      🎤 співак ✌🏻 Фіналіст Голосу Країни 10 📞 Booking: +380 (67) 222 36 94 💥 ПРЕМ'ЄРА "FALLING" ⬇️⬇️⬇️
-    location: "Ukraine"
-    followers: 6247
-    engagement: 793
-    commentsToLikes: 0.052366
-    id: ck9whf7xzxlab0j78kitue0ca
-    verified: false
-    hashtags: ""
+    hashtags: "#shantipeopleontour, #prog, #nowplaying, #musicvideo"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Argentina In 2023
+title: Top 10 Lifestyle Instagram Influencers In Argentina In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Argentina in 2023. Most popular hashtags: #fashion #sorteo #look.
+  Find top lifestyle Instagram influencers in Argentina in 2024. Most popular hashtags: #makeup #lifestyle #reelsinstagram.
 platform: Instagram
-hits: 292
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 292 Instagram influencers like this in Argentina for you to collaborate.
+hits: 294
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 294 Instagram influencers like this in Argentina for you to pitch.
 profiles:
-  - username: "camiverdugo"
+  - username: "mimilandtv"
     fullname: >-
-      CAMI VERDUGO 🤎
+      Mimi Land
     bio: >-
-      ✧ Beauty Content Creator ✧ › maquillaje, lifestyle & outfits › camila.verdugo@gmail.com › santiago, chile
+      Humor • Lifestyle • Beauty 💜 5M Landers en Youtube ✨ 📍🇺🇸 Made in USA con padres 🇦🇷🇻🇪 Cuenta manejada por un adulto
     location: "Argentina"
-    followers: 25098
-    engagement: 621
-    commentsToLikes: 0.049426
-    id: ck5q5jx7jt8nx0i11amep8d5v
+    followers: 1028878
+    engagement: 872
+    commentsToLikes: 0.010833
+    id: ck135mn3e25x00i1974rjmope
     verified: false
-    hashtags: "#maquillaje, #maquillajeojos, #colourpopme, #chilemakeup"
-  - username: "naramieres"
+    hashtags: "#relatable, #mimiland, #adolescencia, #humor"
+  - username: "iarasnei"
     fullname: >-
-      Nara 🌾
+      iara snei
     bio: >-
-      •owner @algodiferente1 @algodiferentestreet_ @algodiferenteshop 🇵🇾 Fashion-Lifestyle
+      Visual storyteller Unique experiences & lifestyle 📍Barcelona 📱Nuevo Curso Online 🥳👇🏼
     location: "Argentina"
-    followers: 63946
-    engagement: 1726
-    commentsToLikes: 0.434337
-    id: ck6u60emfctfn0j71mbi9gqw1
+    followers: 178519
+    engagement: 794
+    commentsToLikes: 0.025665
+    id: ck15rgonb7ueh0i19egv7zjb9
     verified: false
-    hashtags: "#siempreentucamino, #uneteasisterland, #joinsisterland"
-  - username: "viviannamena"
+    hashtags: "#kevozmabel"
+  - username: "steffischouten"
     fullname: >-
-      Vivianna Mena
+      Steffi Schouten
     bio: >-
-      Me fui a ser feliz, no sé cuando vuelvo💭 lifestyleeee🧃 🎓Lic. en Comunicación Audiovisual y Publicitaria Embajadora de @planhonduras ✊🏻
+      Helloo! 👋🏼 soy abogada • emprendedora • lifestyle blogger ✈️ amo la vida y más cuando viajo 🌍 owner @weareus.py & @avenuepy 🤍
     location: "Argentina"
-    followers: 40653
-    engagement: 902
-    commentsToLikes: 0.427399
-    id: ck5cix6oatjzj0i11h96aslgy
+    followers: 50054
+    engagement: 500
+    commentsToLikes: 0.019244
+    id: ckap82is4mjlb0i78js056nat
     verified: false
-    hashtags: "#honduras, #huracaneta, #elpueblosalvaalpueblo, #amor"
-  - username: "florazet"
+    hashtags: "#26, #recetassaludables, #grwm"
+  - username: "melanibellov"
     fullname: >-
-      Florencia Zidar
+      Melani Bello
     bio: >-
-      Politóloga/Periodista/Comunicadora/Mamá de mellizos 💜#tipsflorazet 💜Skin care ☀️ 💜Lifestyle 💜Humor 💜#florarecomienda 💜#florareflexiona
+      Lifestyle, fashion & beauty tips Asesora de imagen Founder @isidorapy_
     location: "Argentina"
-    followers: 52167
-    engagement: 383
-    commentsToLikes: 0.654146
-    id: ck6uacxpf2uxk0j714hvgekl5
+    followers: 91215
+    engagement: 331
+    commentsToLikes: 0.054885
+    id: ckap6q5m4gyi80i78lrnpyi4c
     verified: false
-    hashtags: "#florarecomienda, #tipsflorazet, #florazen, #florareflexiona"
-  - username: "andreacresppo"
+    hashtags: "#armariocapsulaverano, #grwmforpilates, #hairstylist, #unboxing"
+  - username: "byantofazio"
     fullname: >-
-      Andrea Crespo
+      Antonella Fazio
     bio: >-
-      • Lifestyle | Model • • Cantabria • • Hazte ser lo que quieres •
+      Makeup Artist - Cosmetóloga - Lifestyle
     location: "Argentina"
-    followers: 5034
-    engagement: 1799
-    commentsToLikes: 0.069384
-    id: ck8t7ackvg3sb0j7871d7e7mk
+    followers: 37948
+    engagement: 256
+    commentsToLikes: 0.568961
+    id: ckapcgeid3pg70i78dc8prm2g
     verified: false
-    hashtags: "#photoshoot, #photoshootideas, #posesforpictures, #casualphotography"
-  - username: "reketelau"
+    hashtags: "#plussizebeauty, #makeup, #skinfluencer, #avonultramatte"
+  - username: "camilafalcon7"
     fullname: >-
-      Laura
+      Cami Falcón
     bio: >-
-      🤩 Disfrutona 💉 Nurse 👶🏼 Diego’s Mum ❤️ Lifestyler 📩 reketelau@outlook.com 👩🏼‍💻 Síguenos en nuestras locuras en el blog:
+      🇦🇷Tutoriales| Moda PlusSize|Reseñas|Lifestyle Tiktok 170k/camifalcon7 Clases de Automaquillaje ⬇️ @camifalconmakeup
     location: "Argentina"
-    followers: 27649
-    engagement: 334
-    commentsToLikes: 0.372339
-    id: ckaorxasgp6ka0i7892ube3mm
+    followers: 26360
+    engagement: 347
+    commentsToLikes: 0.081977
+    id: ck6udun21n8fq0j71hxdbjuy5
     verified: false
-    hashtags: "#springiscoming, #momswithcameras, #conmiradademadre, #birthday"
-  - username: "agoscasavecchia"
+    hashtags: "#makeupoftheday, #seloquequierasser, #reelmakeup, #makeupartist"
+  - username: "serena.bruenner"
     fullname: >-
-      Agostina Casavecchia
+      Serena Bruenner | Modelo y Creadora de Contenido
     bio: >-
-      ⭐️ ᴍᴀᴍᴀ́ ᴅᴇ ᴠɪɴᴄᴇɴᴢᴏ y αndrᴇ Lifestyle. Emprender en el fashion business. 👉🏻@casavecchiastudio ✨ Potenciamos talentos y generamos contenido y eventos.
+      Tips para modelos que NADIE te dice Fashion & lifestyle - Asesoría en Poses🤳🌎 🇦🇷Modelaje en @studio.smm_ 🇧🇷@megamodelbrasil 🇲🇽 @mzagency
     location: "Argentina"
-    followers: 19859
-    engagement: 381
-    commentsToLikes: 0.716606
-    id: ck6ugmnlk3xc40j71z5u2xz6r
+    followers: 21192
+    engagement: 229
+    commentsToLikes: 0.037614
+    id: ck6tkvojx5hul0j714gkh9rf8
     verified: false
-    hashtags: "#looks, #instafashion, #avantpremiere, #misiones"
-  - username: "soofinavarrete"
+    hashtags: "#natural, #polas, #positiveenergy, #light"
+  - username: "martubajko"
     fullname: >-
-      Sofia Navarrete
+      mar | content creator
     bio: >-
-      | Lifestyle & Travel Blog | ————————
+      🤍 content creator | lifestyle-fashion-beauty community manager | social media strategist +60k- tik tok sedalo handball
     location: "Argentina"
-    followers: 25608
-    engagement: 281
-    commentsToLikes: 0.048374
-    id: ck14hj2ioak6e0i19zba5319t
+    followers: 10103
+    engagement: 196
+    commentsToLikes: 0.023951
+    id: ck5c7d8mf7bdt0i11bpbuj629
     verified: false
-    hashtags: "#calor, #playa, #mar, #mardelplata"
-  - username: "fernandezcoco10"
+    hashtags: "#inspofashion, #foto, #fitness, #beautiful"
+  - username: "clarahoussay"
     fullname: >-
-      Coco Fernandez
+      Maria clara houssay
     bio: >-
-      Senior media & entertainment executive Programming and acquisition - digital strategy content - Sports & lifestyle lover 📺 🏃🏽‍♂️😎
+      LIFESTYLE Cuenta de pura inspiración •moda - deco - viajes •mama de Balta •realizo proyectos de interiorismo hachezhome@gmail.com
     location: "Argentina"
-    followers: 63471
-    engagement: 179
-    commentsToLikes: 0.070602
-    id: ck5hpwj00s3950i11801gmcug
-    verified: true
-    hashtags: "#life, #love, #tbt, #streetphotography"
-  - username: "thisispaulopolis"
-    fullname: >-
-      Paulova Palacios ⚡️
-    bio: >-
-      Paulova Palacios Style Creator #lifestyle | #hair | #Chihuahuas Owner of Paulova Palacios Beauty Atelier
-    location: "Argentina"
-    followers: 43364
-    engagement: 645
-    commentsToLikes: 0.015948
-    id: ck9wp1ayu7d6z0j78yyvf1vgj
+    followers: 176257
+    engagement: 146
+    commentsToLikes: 0.251354
+    id: ck8sz3iryn19x0j783zb82cmu
     verified: false
-    hashtags: "#tb"
+    hashtags: "#family, #inspohome, #homedecor, #inspiration"
+  - username: "nadia.presmanes"
+    fullname: >-
+      Nadia Presmanes
+    bio: >-
+      Buenos Aires, Argentina Makeup, Beauty, Lifestyle
+    location: "Argentina"
+    followers: 33815
+    engagement: 242
+    commentsToLikes: 0.031053
+    id: ck5zkuwikk7bv0i14o80vg4kp
+    verified: false
+    hashtags: "#redlips, #protegetuglow, #maclustreglass, #voguecosmeticosar"
 ---

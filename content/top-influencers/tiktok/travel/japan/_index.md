@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Japan In 2023
+title: Top 10 Travel TikTok Influencers In Japan In 2024
 description: >-
-  Find top travel TikTok influencers in Japan in 2023. Most popular hashtags: #tiktok #japan #travel #fyp.
+  Find top travel TikTok influencers in Japan in 2024. Most popular hashtags: #tiktok #japan #travel #fyp.
 platform: TikTok
 hits: 19
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine holds 19 TikTok influencers like this in Japan for you to collaborate.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database has 19 TikTok influencers like this in Japan for you to collaborate.
 profiles:
   - username: "miistraveling"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.009282
     id: ckbqlw1v36zqa0j23egd50ui1
     verified: false
-    hashtags: "#tiktok, #instagramstories, #favosquare, #fyp"
+    hashtags: "#fyp, #favosquare, #tiktok, #instagramstories"
   - username: "unaoki_trip"
     fullname: >-
       うなおき世界一周夫婦

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers In Spain In 2023
+title: Top 10 Cosmetics TikTok Influencers In Spain In 2024
 description: >-
-  Find top cosmetics TikTok influencers in Spain in 2023. Most popular hashtags: #parati #viral #espa #foryou.
+  Find top cosmetics TikTok influencers in Spain in 2024. Most popular hashtags: #parati #espa #viral #lushcommunity.
 platform: TikTok
 hits: 8
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 8 TikTok influencers like this in Spain for you to contact.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 8 TikTok influencers like this in Spain for you to connect with.
 profiles:
   - username: "lushfuencarral"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.132080
     id: ckdhchgj5w9s20j23h654w480
     verified: false
-    hashtags: "#vegan, #lush, #name, #madrid"
+    hashtags: "#vegan, #lushcommunity, #regalo, #fuencarral"
   - username: "idiaredq"
     fullname: >-
       idiaredq

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Chile In 2023
+title: Top 10 Comedians TikTok Influencers In Chile In 2024
 description: >-
-  Find top comedians TikTok influencers in Chile in 2023. Most popular hashtags: #fyp #parati #chile #comedia.
+  Find top comedians TikTok influencers in Chile in 2024. Most popular hashtags: #fyp #parati #chile #comedia.
 platform: TikTok
 hits: 148
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine holds 148 TikTok influencers like this in Chile for you to contact.
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 148 TikTok influencers like this in Chile for you to contact.
 profiles:
   - username: "elluchomiranda"
     fullname: >-

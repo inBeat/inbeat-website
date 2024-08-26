@@ -1,24 +1,24 @@
 ---
-title: Top 10 Wellness TikTok Influencers In Canada In 2023
+title: Top 10 Wellness TikTok Influencers In Canada In 2024
 description: >-
-  Find top wellness TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryou #healthy #food.
+  Find top wellness TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #foryou #healthy #health.
 platform: TikTok
-hits: 57
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 57 TikTok influencers like this in Canada for you to pitch.
+hits: 59
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 59 TikTok influencers like this in Canada for you to collaborate.
 profiles:
   - username: "agracemartin"
     fullname: >-
       A. Grace Martin
     bio: >-
-      Author, science teacher, wellness coach ❤️ Self Love 🇨🇦
+      Wellness Potential Teacher and Author ❤️ Self Care and Science 🇨🇦
     location: "Canada"
-    followers: 6158
-    engagement: 1134
-    commentsToLikes: 0.129894
+    followers: 6243
+    engagement: 1161
+    commentsToLikes: 0.109598
     id: ckdt4jkj3stlf0j2394vjykv0
     verified: false
-    hashtags: "#wellness, #selfcare, #selflove, #energy"
+    hashtags: "#wellness, #positivevibes, #selfcare, #energy"
   - username: "hannahmagee_rd"
     fullname: >-
       Hannah Magee, RD
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.037357
     id: ck8071elvnvdh0j78aztskv48
     verified: false
-    hashtags: "#dietitiansoftiktok, #dietitian, #nutritionist, #diettips"
+    hashtags: "#fyp, #nutritionist, #dietitiansoftiktok, #diettips"
   - username: "ana.erak"
     fullname: >-
       Ana E
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.103325
     id: ck9flks5xoaut0j786priqtqf
     verified: false
-    hashtags: "#health, #oatmeal, #intuitiveeating, #aesthetic"
+    hashtags: "#growthmindset, #oatmeal, #oattiktok, #morningvibes"
   - username: "dmkzy"
     fullname: >-
       Dmkzy
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.064829
     id: ckceh0gr9ol2b0j23hmmodrpg
     verified: false
-    hashtags: "#model, #dancechallenge, #fyp, #viral"
+    hashtags: "#tiktok, #duett, #dancechallenge, #viral"
   - username: "_annamarier"
     fullname: >-
       annamarier
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.093902
     id: ck90vwxt61pq80j78e3qosq12
     verified: false
-    hashtags: "#fyp, #outfit, #matchalatte, #outfitinspiration"
+    hashtags: "#fit, #inspo, #healthycooking, #fyp"
   - username: "ammmyy79"
     fullname: >-
       Ammy
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.015806
     id: ckb9uxbnott2w0j231qas2bzz
     verified: false
-    hashtags: "#glutes, #gym, #fyp, #workout"
+    hashtags: "#hydrojug, #healthylifestyle, #homeworkout, #gymhumor"
   - username: "katecraigwellness"
     fullname: >-
       katecraigwellness

@@ -1,12 +1,36 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Seattle In 2023
+title: Top 10 Nutrition Instagram Influencers In Seattle In 2024
 description: >-
-  Find top nutrition Instagram influencers in Seattle in 2023. Most popular hashtags: #healthylifestyle #healthyeating #nutrition #fitness.
+  Find top nutrition Instagram influencers in Seattle in 2024. Most popular hashtags: #healthylifestyle #nutrition #seattle #fitness.
 platform: Instagram
-hits: 6
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 6 Instagram influencers like this in Seattle, United States for you to work with.
+hits: 11
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 11 Instagram influencers like this in Seattle, United States for you to work with.
 profiles:
+  - username: "jacqueline_hemmer_"
+    fullname: >-
+      Jacqueline Finnan Hemmer
+    bio: >-
+      Founder @fitkittyculture Exec Board Member @a_childslight Key Note Speaker Wellness & Nutrition Coach Beauty & Skincare Expert/Formulator
+    location: "United States"
+    followers: 95885
+    engagement: 88
+    commentsToLikes: 0.063876
+    id: ck9wdsjwnh2y60j78adurl7mt
+    verified: false
+    hashtags: "#selflove, #love, #selfcare, #beauty"
+  - username: "getupwithhannah"
+    fullname: >-
+      Hannah Hutson | Coach
+    bio: >-
+      Helping women optimize their hormones through proper nutrition & strength training | Macro & fat loss coach — Owner: @hermones_livebalanced
+    location: "United States"
+    followers: 64015
+    engagement: 80
+    commentsToLikes: 0.084922
+    id: ck5bzqw3vro9k0i11wstixlkk
+    verified: false
+    hashtags: "#hormonesupport, #kettlebelltraining, #strongwomen, #fitnesscoach"
   - username: "happy.healthy.hayley"
     fullname: >-
       Hayley MacLean, MS
@@ -18,7 +42,19 @@ profiles:
     commentsToLikes: 0.398045
     id: ck5ce58sokcfy0i118ytqatxw
     verified: false
-    hashtags: "#vegetarianrecipes, #todaybreakfast, #healthylifestyle, #wearblackeatcolors"
+    hashtags: "#nourishyourself, #nutritiousanddelicious, #wellandgoodeats, #healthybreakfastideas"
+  - username: "nickwalkerfitness"
+    fullname: >-
+      Nick Walker
+    bio: >-
+      📍Nash (Nomad) | FITNESS | LIFESTYLE | FUN 📚 M.S. Health & Human Performance ⬇️ All my links!🕺🏻 📬 info@nickwalkerfitness.com 😄 Don’t forget to smile!
+    location: "United States"
+    followers: 447400
+    engagement: 349
+    commentsToLikes: 0.022300
+    id: ckmx8jv299eds0j238dsc0esb
+    verified: false
+    hashtags: "#weightlossjourney, #stretch, #fitnessmotivation, #corestrength"
   - username: "deshawnshead"
     fullname: >-
       DeShawn Shead
@@ -31,30 +67,18 @@ profiles:
     id: ck0twtzxdgq9y0i192da6s3af
     verified: true
     hashtags: "#squad, #fitness, #exercise, #family"
-  - username: "getupwithhannah"
-    fullname: >-
-      Hannah Hutson | Coach
-    bio: >-
-      I empower women to embrace their bodies, find joy in movement, and heal their relationship with food through mindset coaching — 👇WORK WITH ME👇 —
-    location: "United States"
-    followers: 72697
-    engagement: 114
-    commentsToLikes: 0.037005
-    id: ck5bzqw3vro9k0i11wstixlkk
-    verified: false
-    hashtags: "#fitnesscoach, #seattlefitness, #strongwomen, #kettlebelltraining"
   - username: "lukahocevar"
     fullname: >-
-      Luka Hocevar - Coach
+      Luka Hocevar
     bio: >-
-      🏀 Ex Pro Player 🎯 Body Transformation & Fit Biz Coach DM me “coach” to apply 4 personal Coaching Vigor Ground Summit is LIVE👇🏼
+      🏀 Ex Pro Player 🎯 Owner @vigorgroundfitness 🛠️ Work w/ NFL, MLB, NBA, Exec. 🏃🏽‍♂️ Athlete For Life Method 📱 @vagaropro Partner Ways to work w/ me👇🏼
     location: "United States"
-    followers: 58987
-    engagement: 100
-    commentsToLikes: 0.040155
+    followers: 120868
+    engagement: 136
+    commentsToLikes: 0.031967
     id: ck5hdqqv5ovir0i11cdqskgh4
     verified: false
-    hashtags: "#sportsperformance, #fitnesstips, #fatloss, #fitnessmotivation"
+    hashtags: "#womenwholift, #singleleg, #sportsperformance, #strength"
   - username: "lovechickpea"
     fullname: >-
       Dhale Larsen
@@ -67,64 +91,40 @@ profiles:
     id: ckf5ts5y5im270j23fcxlx3ce
     verified: false
     hashtags: "#foodpornshare, #veganrecipes, #plantbased, #foodiesofinstagram"
-  - username: "ascending_maria"
+  - username: "theparentologist"
     fullname: >-
-      Maria 🌸 Aerial | Yoga | Fit
+      Dr. Kim Van Dusen | PSYD | LMFT | RPT
     bio: >-
-      Certified Yoga Instructor Certified Aerial Yoga and Fitness Instructor Holistic Lifestyle Plant Eater 🌱 📍Orlando,FL
+      Parenting Expert | Child Play Therapist | Author 🎙️Host @theparentologistpodcast 🎥 @abc10news @fox5sandiego @laparentmag @kfiam640 📧 drkim@gb-dm.com
     location: "United States"
-    followers: 2240
-    engagement: 1187
-    commentsToLikes: 0.081232
-    id: ckap7ccqwjgja0i786klrpus5
+    followers: 110703
+    engagement: 246
+    commentsToLikes: 0.047694
+    id: ck0w1xhgflmeh0i19whkhmfiu
     verified: false
-    hashtags: "#healthyliving, #spiritualawakening, #namaste, #awakening"
-  - username: "saschafitness"
+    hashtags: "#familytravelblog, #travelwithfamily, #parentingtips, #familytravelblogger"
+  - username: "hippiepippiereviews"
     fullname: >-
-      Sascha Barboza
+      Shannon Pippin
     bio: >-
-      Fitness-Nutrition Coach CEO- Sascha Fitness Corp Book author Mamá Youtube: Sascha Fitness 📧info@saschafitness.com @saschafitnessmarket 🛒⬇️Shop
+      Your purple haired Mom friend 💜 Review requests ✉️ contacthippiepippie@gmail.com
     location: "United States"
-    followers: 5312363
-    engagement: 450
-    commentsToLikes: 0.010945
-    id: ck13c63ygyssj0i19zjq0l5d2
-    verified: true
-    hashtags: "#11, #blackwidow"
-  - username: "becca_denae"
-    fullname: >-
-      Rebecca | CPT
-    bio: >-
-      I help individuals become their most confident selves through strength and performance training, and nutrition coaching 💪🏽 @rpstrength: BECCADENAE
-    location: "United States"
-    followers: 9845
-    engagement: 2817
-    commentsToLikes: 0.044594
-    id: clcbv5majoymz0j08d1s754s0
+    followers: 43276
+    engagement: 181
+    commentsToLikes: 0.050781
+    id: cl8g9ao7q4nfb0i23aes2szbb
     verified: false
-    hashtags: "#strongwomen, #tboathletes, #personaltrainer, #tbotraining"
-  - username: "alphaburnfit"
+    hashtags: "#koreanskincare, #kbeauty, #skincare, #dryskin"
+  - username: "chifoodi"
     fullname: >-
-      Alphaburn | Duke Ihenacho
+      Chicago Food + Lifestyle | Nahla
     bio: >-
-      Helping men and women make total health and lifestyle transformations through exercise and nutrition 🔥
+      ChiFoodi City guide + Chicago Foodie + travel + lifestyle 💌: CHIFOODI@YAHOO.COM DM/email for partnerships Chicago Food Blogger
     location: "United States"
-    followers: 50336
-    engagement: 566
-    commentsToLikes: 0.024146
-    id: clcbv5mrmoyxg0j0898qixrs4
+    followers: 16395
+    engagement: 169
+    commentsToLikes: 0.208251
+    id: ckmw1aksl5l6v0j23amv6a6k9
     verified: false
-    hashtags: "#becometheheat, #alphaburn"
-  - username: "purely_healthy_living"
-    fullname: >-
-      María | Easy Healthy Recipes
-    bio: >-
-      • Fun, Creative & Easy Healthy Recipes👩🏼‍🍳🌿 • Nutritionist🥑 • Bilingüal 🇺🇸 // 🇲🇽
-    location: "United States"
-    followers: 34482
-    engagement: 343
-    commentsToLikes: 0.411498
-    id: ck0u9yj1jawhj0i19xe005yl5
-    verified: false
-    hashtags: "#prozis, #vegan, #lowcarb, #glutenfree"
+    hashtags: "#chicagogram, #chicagofood, #italianfood, #eater"
 ---

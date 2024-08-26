@@ -1,11 +1,11 @@
 ---
-title: Top 10 Stylists TikTok Influencers In Canada In 2023
+title: Top 10 Stylists TikTok Influencers In Canada In 2024
 description: >-
-  Find top stylists TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #fashion #stylist #ootd.
+  Find top stylists TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #fashion #stylist #ootd.
 platform: TikTok
-hits: 23
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 23 TikTok influencers like this in Canada for you to collaborate.
+hits: 25
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 25 TikTok influencers like this in Canada for you to collaborate.
 profiles:
   - username: "hibaottawa"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.025861
     id: cka67s8pnm5nm0i78cboyvn7n
     verified: false
-    hashtags: "#fashion, #muscle, #boy, #menstyle"
+    hashtags: "#style, #muscle, #men, #bf"
   - username: "stylebykris"
     fullname: >-
       Kristine Dalida-Cruz
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.084107
     id: ckb9exrt7312x0j239w8pv4ml
     verified: false
-    hashtags: "#ootd, #tiktokfashionmonth, #winterfashion, #tiktokfashion"
+    hashtags: "#springoutfit, #tiktokfashion, #fashionnova, #styletip"
   - username: "jaclynhdesigns"
     fullname: >-
       Jaclyn Harper
@@ -74,11 +74,23 @@ profiles:
       𝐂𝐄𝐎 𝐨𝐟 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐲𝐨𝐮𝐧𝐠🌷 Personal stylist Instagram @alsugistyle
     location: "Canada"
     followers: 10300
-    engagement: 238
-    commentsToLikes: 0.051783
+    engagement: 229
+    commentsToLikes: 0.050093
     id: cka69k6x9stx30i78cfah0jjo
     verified: false
-    hashtags: "#over40, #fashion, #outfitinspiration, #outfitideas"
+    hashtags: "#tiktokfashion, #hotmom, #outfit, #fashion"
+  - username: "packmentality"
+    fullname: >-
+      Magnum The Boxer And Friends
+    bio: >-
+      Veterinary assistant, mother of dawgs. And that f*cking cat. 🙄
+    location: "Canada"
+    followers: 104500
+    engagement: 1905
+    commentsToLikes: 0.073067
+    id: ck9ndea2fcrcw0j78rm7en8pu
+    verified: false
+    hashtags: "#lilratchetkitty, #boxer, #magnumtheboxer, #fyp"
   - username: "hey_itsmeviv"
     fullname: >-
       Comedy + Beauty + Food
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.036172
     id: ck9v8te1rb44s0j78c2l65rb7
     verified: false
-    hashtags: "#parenting, #shoppinghaul, #relationshipadvice, #couplecomedy"
+    hashtags: "#couplevideos, #couplecomedy, #momcontent, #parenting"
   - username: "lovefashionbyshan"
     fullname: >-
       lovefashionbyshana
@@ -115,16 +127,4 @@ profiles:
     id: ckd05ka8m9vzf0j23ga8x1kwf
     verified: false
     hashtags: "#obsessed, #springhair2021, #ontariolockdown, #lynnshaw"
-  - username: "briihebes"
-    fullname: >-
-      briihebes
-    bio: >-
-      🇨🇦🇨🇦
-    location: "Canada"
-    followers: 2460
-    engagement: 700
-    commentsToLikes: 0.034509
-    id: ckc37m3wxwhk10j23jtz7drcz
-    verified: false
-    hashtags: "#dog, #stbernard, #fyp, #foryoupage"
 ---

@@ -1,12 +1,36 @@
 ---
-title: Top 10 Guitar Instagram Influencers In India In 2023
+title: Top 10 Guitar Instagram Influencers In India In 2024
 description: >-
-  Find top guitar Instagram influencers in India in 2023. Most popular hashtags: #love #guitarsolo #photooftheday #guitar.
+  Find top guitar Instagram influencers in India in 2024. Most popular hashtags: #guitarsolo #guitar #love #guitarsdaily.
 platform: Instagram
-hits: 120
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 120 Instagram influencers like this in India for you to connect with.
+hits: 161
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform has 161 Instagram influencers like this in India for you to work with.
 profiles:
+  - username: "priya__1602"
+    fullname: >-
+      Priya Sharma
+    bio: >-
+      Chandigarh| Delhi Singer| Guitarist| Dancer| Sportsperson| Rider Email for collab🫶🏻❤️ My stores and songs👇🏻
+    location: "India"
+    followers: 132849
+    engagement: 652
+    commentsToLikes: 0.014372
+    id: ckaosv788t5p60i78wlrhc08d
+    verified: false
+    hashtags: "#trendingaudio, #tiktoktrending, #indiangirl, #boi"
+  - username: "rickgraham"
+    fullname: >-
+      Rick Graham
+    bio: >-
+      Guitarist/Musician from the UK. I also draw with pencils from time to time. Fan of films and short stories. 👇Visit my website for guitar lessons.
+    location: "India"
+    followers: 158843
+    engagement: 304
+    commentsToLikes: 0.016556
+    id: ck0vvxt3zr93y0i19kuno990c
+    verified: false
+    hashtags: "#tuesday, #guitarist, #igdaily, #blue"
   - username: "codylinley"
     fullname: >-
       Cody Linley
@@ -19,18 +43,6 @@ profiles:
     id: ck14jceyajmvi0i19ldjhoxce
     verified: true
     hashtags: "#actor, #codylinley, #instadaily, #codylinleylove"
-  - username: "moseskoul"
-    fullname: >-
-      Moses Koul
-    bio: >-
-      guitarist & producer #heavengang
-    location: "India"
-    followers: 6074
-    engagement: 1663
-    commentsToLikes: 0.032404
-    id: ck6ufiuyrxbcy0j71rqrxebfz
-    verified: false
-    hashtags: "#guitar, #producer, #music, #rg"
   - username: "stringkingz"
     fullname: >-
       Guitar Videos Daily 🤘
@@ -67,30 +79,18 @@ profiles:
     id: ckap57fa8aif20i78rd2nnx2h
     verified: false
     hashtags: "#sonsofanarchy, #positivevibesonly, #beardmen, #lifestyle"
-  - username: "vaibhav_y10"
-    fullname: >-
-      V A I B H A V • Y A D A V  🔥
-    bio: >-
-      📧 Dm / Email for collaboration || guitarist 🎸 || • Footballer ⚽️ || • LM10 🇦🇷 • 🇪🇸 Barça 🙏🏻
-    location: "India"
-    followers: 86734
-    engagement: 558
-    commentsToLikes: 0.061997
-    id: ck8wf5c6hf5gi0j78apu01d25
-    verified: false
-    hashtags: "#foryou, #nature, #explorer, #instaphoto"
   - username: "borjacatanesi"
     fullname: >-
       Borja Catanesi
     bio: >-
       Guitarist | Traveller | Street performer | Valencia, Spain
     location: "India"
-    followers: 250280
-    engagement: 895
-    commentsToLikes: 0.018690
+    followers: 268392
+    engagement: 704
+    commentsToLikes: 0.017723
     id: ck139er66kyh50i19gmz7rv9j
     verified: false
-    hashtags: "#tbt, #vicovang"
+    hashtags: "#busker, #guitarplayer, #busking, #guitarworld"
   - username: "elvisgab"
     fullname: >-
       Elvis Gabriel

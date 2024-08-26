@@ -1,24 +1,12 @@
 ---
-title: Top 10 Health TikTok Influencers In Melbourne In 2023
+title: Top 10 Health TikTok Influencers In Melbourne In 2024
 description: >-
-  Find top health TikTok influencers in Melbourne in 2023. Most popular hashtags: #fyp #melbourne #foryoupage #australia.
+  Find top health TikTok influencers in Melbourne in 2024. Most popular hashtags: #fyp #melbourne #foryoupage #australia.
 platform: TikTok
 hits: 11
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 11 TikTok influencers like this in Melbourne, Australia for you to collaborate.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: inBeat has 11 TikTok influencers like this in Melbourne, Australia for you to collaborate.
 profiles:
-  - username: "jimrossington"
-    fullname: >-
-      Jim Rossington
-    bio: >-
-      Follow me on Insta ⬆️ Jim Day-Knight Biz - Jimrossington@outlook.com
-    location: "Australia"
-    followers: 197200
-    engagement: 1182
-    commentsToLikes: 0.015954
-    id: ckacr1i2u3emd0i786tam0tco
-    verified: false
-    hashtags: "#australia, #foryou, #comedy, #aus"
   - username: "renesarahlim"
     fullname: >-
       Renée Sarah Lim
@@ -55,6 +43,18 @@ profiles:
     id: ckb98cwj2rt3z0j23wik6ijf1
     verified: false
     hashtags: "#travel, #farmlife, #foryou, #tiktoktravel"
+  - username: "jimrossington"
+    fullname: >-
+      Jim Rossington
+    bio: >-
+      Follow me on Insta ⬆️ Jim Day-Knight Biz - Jimrossington@outlook.com
+    location: "Australia"
+    followers: 197200
+    engagement: 1182
+    commentsToLikes: 0.015954
+    id: ckacr1i2u3emd0i786tam0tco
+    verified: false
+    hashtags: "#storytime, #aus, #fyp, #comedy"
   - username: "bigbadeddie2.0"
     fullname: >-
       user5886937274148

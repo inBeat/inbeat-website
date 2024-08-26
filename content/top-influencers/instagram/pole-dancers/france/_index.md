@@ -1,12 +1,36 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In France In 2023
+title: Top 10 Pole Dancers Instagram Influencers In France In 2024
 description: >-
-  Find top pole dancers Instagram influencers in France in 2023. Most popular hashtags: #poledance #poledancer #flexibility.
+  Find top pole dancers Instagram influencers in France in 2024. Most popular hashtags: #poledance #poledancer #poledancersofig.
 platform: Instagram
-hits: 58
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 58 Instagram influencers like this in France for you to pitch.
+hits: 59
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 59 Instagram influencers like this in France for you to pitch.
 profiles:
+  - username: "weronikawoszczek"
+    fullname: >-
+      Weronika Woszczek
+    bio: >-
+      Pole dancer 🩰 Violinist 🎻 In love with French language 📖 Mgr inż. IT AGH 👩🏻‍💻 🎥 YT channel:
+    location: "France"
+    followers: 117872
+    engagement: 1153
+    commentsToLikes: 0.004915
+    id: ck8t06v7kr06w0j787gvafbvw
+    verified: false
+    hashtags: "#poledance, #workoutmotivation, #italy, #highheels"
+  - username: "canistsenguun"
+    fullname: >-
+      Tsenguun Chinges
+    bio: >-
+      Professional acrobat, pole dancer, Mongolia’s Got Talent semi-finalist
+    location: "France"
+    followers: 142067
+    engagement: 267
+    commentsToLikes: 0.002941
+    id: ck5ztbdm703f10i14n20az7vx
+    verified: false
+    hashtags: "#pandora, #freshair, #fuckcorona, #euro2020"
   - username: "blufiefer"
     fullname: >-
       Blu Fiefer
@@ -19,30 +43,6 @@ profiles:
     id: ckapb6eu6yqpx0i78drq2mufl
     verified: false
     hashtags: ""
-  - username: "canistsenguun"
-    fullname: >-
-      Tsenguun
-    bio: >-
-      Professional acrobat, pole dancer, Mongolia’s Got Talent semi-finalist
-    location: "France"
-    followers: 102021
-    engagement: 363
-    commentsToLikes: 0.003029
-    id: ck5ztbdm703f10i14n20az7vx
-    verified: false
-    hashtags: "#minicooper, #pandora, #freshair, #fuckcorona"
-  - username: "estefjimpa"
-    fullname: >-
-      ESTEFANIAJIMENEZ_OldSchoolPole
-    bio: >-
-      •Old school Pole Dancer• •Choreographer• •Leg movement connoisseur• •Wild Child• Join my two hour heel work master class 👇🏻
-    location: "France"
-    followers: 38320
-    engagement: 287
-    commentsToLikes: 0.049894
-    id: ck6u2kon8sd3d0j71n2qfn48e
-    verified: false
-    hashtags: "#sundaybumday"
   - username: "mimosapudicadna"
     fullname: >-
       Mimosa Pudica
@@ -102,29 +102,29 @@ profiles:
     commentsToLikes: 0.040575
     id: cl3w8zi0zczu10i23wwrog75s
     verified: false
-    hashtags: "#blackgirlspole, #wednesday, #poledancersofig, #weekendvibes"
+    hashtags: "#poledance, #girlswithmuscle, #poledancer, #mixedchicks"
   - username: "sandra.beeston"
     fullname: >-
       Sandra Beeston 🖤
     bio: >-
-      🎖 Certified Pole Fitness Instructor from 🇩🇪 📍 Gold Coast, Australia 📩 Dm for Private Pole Lessons 🎥 YouTube: Sandra Beeston
+      ✖️ Pole Fitness Instructor 🇩🇪 ✖️ Australia, Gold Coast ✖️ Dm for Private Pole Lessons ✖️ YouTube: Sandra Beeston
     location: "France"
-    followers: 13770
-    engagement: 821
-    commentsToLikes: 0.083131
+    followers: 14402
+    engagement: 551
+    commentsToLikes: 0.064796
     id: ck0w3qdvyuqev0i19nlryj2sw
     verified: false
-    hashtags: "#poleart, #polelove, #stickyleggings, #poledance"
+    hashtags: "#polelove, #polefitness, #poledancer, #poleflow"
   - username: "salome_poledance"
     fullname: >-
       Salomé Marchal ✨
     bio: >-
       🇫🇷🥇FRENCH POLE DANCE CHAMPION 🥇🇫🇷 @salome_mrchl ——————————————————————
     location: "France"
-    followers: 2595
-    engagement: 1455
-    commentsToLikes: 0.099939
+    followers: 2542
+    engagement: 1464
+    commentsToLikes: 0.103094
     id: ck60029xuctvf0i14jy4bmobm
     verified: false
-    hashtags: "#dance, #yoga, #staticpole, #strong"
+    hashtags: "#gym, #poleart, #athlete, #split"
 ---

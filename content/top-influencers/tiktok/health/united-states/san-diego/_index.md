@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In San Diego In 2023
+title: Top 10 Health TikTok Influencers In San Diego In 2024
 description: >-
-  Find top health TikTok influencers in San Diego in 2023. Most popular hashtags: #health #fyp #sandiego #viral.
+  Find top health TikTok influencers in San Diego in 2024. Most popular hashtags: #health #sandiego #fyp #viral.
 platform: TikTok
 hits: 17
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our platform holds 17 TikTok influencers like this in San Diego, United States for you to collaborate.
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine holds 17 TikTok influencers like this in San Diego, United States for you to contact.
 profiles:
   - username: "nutritionwithles"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.006235
     id: ckcdn063oaicy0j23cknmeils
     verified: false
-    hashtags: "#glutenfree, #cleaneating, #cocktail, #vegan"
+    hashtags: "#recipe, #vegan, #traderjoes, #recipes"
   - username: "kelseydarragh"
     fullname: >-
       kelsey
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.062348
     id: ck8hk5rm6cjeo0j78s2q7szjd
     verified: true
-    hashtags: "#fyp, #relatablecontent, #nature, #naturevibes"
+    hashtags: "#la, #rawvegan, #relatablecontent, #californiahiddengems"
   - username: "zennaharajli"
     fullname: >-
       zennaharajli
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.024980
     id: ck8ngel14w3l20j78xzagfaw1
     verified: false
-    hashtags: "#foryoupage, #superlativesmiles, #foryou, #thatwitch"
+    hashtags: "#vibes, #beast, #doitbold, #coldweather"
   - username: "piglipsokaybitchgoodbye"
     fullname: >-
       bad bitches only

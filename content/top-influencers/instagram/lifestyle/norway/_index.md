@@ -1,24 +1,60 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Norway In 2023
+title: Top 10 Lifestyle Instagram Influencers In Norway In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Norway in 2023. Most popular hashtags: #visitnorway #winter #oslo #snow.
+  Find top lifestyle Instagram influencers in Norway in 2024. Most popular hashtags: #winter #oslo #snow.
 platform: Instagram
-hits: 55
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 55 Instagram influencers like this in Norway for you to contact.
+hits: 60
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 60 Instagram influencers like this in Norway for you to contact.
 profiles:
+  - username: "vlada_mn"
+    fullname: >-
+      VLADA MIRON
+    bio: >-
+      fashion / lifestyle / aesthetics 📍 Chisinau
+    location: "Norway"
+    followers: 4596
+    engagement: 47370
+    commentsToLikes: 0.093175
+    id: ckapbpgrm0th80i7896jrfouo
+    verified: false
+    hashtags: "#bioderma"
+  - username: "marenplatou"
+    fullname: >-
+      Maren Platou
+    bio: >-
+      Beauty | Fashion | Lifestyle | Interior ✉️ mar.platou@gmail.com
+    location: "Norway"
+    followers: 58663
+    engagement: 369
+    commentsToLikes: 0.013841
+    id: ck0w5gc5v3ib40i19pf4o6tq6
+    verified: true
+    hashtags: ""
+  - username: "christiantrustrup"
+    fullname: >-
+      Christian Trustrup
+    bio: >-
+      Norwegian creator based in Levanger • outdoor • lifestyle • weddings • 📩 hello@christiantrustrup.com for inquiries
+    location: "Norway"
+    followers: 244518
+    engagement: 190
+    commentsToLikes: 0.013070
+    id: ck0u7nijh54pt0i19fkfm20bw
+    verified: false
+    hashtags: "#iceland, #weddinginspiration, #elopementlove, #autumnmagic"
   - username: "maritaystevik"
     fullname: >-
       Marita Ystevik
     bio: >-
-      Location, Oslo Digital content creator ♡ k Health account: @workoutwithystevik Fashion, beauty, lifestyle, coffee, travel, fun.
+      Oslo | fashion & lifestyle ♡ health: @workoutwithystevik contact: maritaystevik@hotmail.com
     location: "Norway"
-    followers: 18258
-    engagement: 185
-    commentsToLikes: 0.118382
+    followers: 17371
+    engagement: 103
+    commentsToLikes: 0.078893
     id: ck5c2uz4by1ib0i11zquptmde
     verified: false
-    hashtags: "#norgesferie, #reels, #minmote, #sommerkjole"
+    hashtags: "#sommerkjole, #modernart, #parisianstyle, #minmote"
   - username: "anneliaaland"
     fullname: >-
       ANNELI AALAND
@@ -91,40 +127,4 @@ profiles:
     id: ck0vwanbssuii0i19rovn2gwt
     verified: false
     hashtags: "#lindalike, #happygram, #welcometonature, #ad"
-  - username: "marenplatou"
-    fullname: >-
-      Maren Platou
-    bio: >-
-      Norwegian | Oslo & Bergen • Fashion • Beauty • Lifestyle • Interior ✉️ mar.platou@gmail.com
-    location: "Norway"
-    followers: 56221
-    engagement: 248
-    commentsToLikes: 0.017731
-    id: ck0w5gc5v3ib40i19pf4o6tq6
-    verified: true
-    hashtags: ""
-  - username: "morten_munthe"
-    fullname: >-
-      Morten Munthe
-    bio: >-
-      Norwegian Photographer Adventure | Lifestyle | Brand ⤖ hello@mortenmunthe.com Get my Presets here:
-    location: "Norway"
-    followers: 14857
-    engagement: 985
-    commentsToLikes: 0.064416
-    id: ck14km5jxq7010i19b7rd70nb
-    verified: false
-    hashtags: "#thediscoverer, #folkmagazine, #escapeandwonder, #folkscenery"
-  - username: "theanorman93"
-    fullname: >-
-      🎀 Thea Norman
-    bio: >-
-      📍Norway • Kristiansand/Lillehammer ⚖ Law Student 👫 Boyfriend 🏃🏼Lifestyle ➡️ Pers 10km run; 55:25 min ⚡️ 🌎 Travelling 📷 All photos are taken by me!
-    location: "Norway"
-    followers: 6078
-    engagement: 1411
-    commentsToLikes: 0.043548
-    id: ck136q8us7q9i0i19czmzsdwc
-    verified: false
-    hashtags: "#utpa, #utp, #solnedg, #solnedgang"
 ---

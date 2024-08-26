@@ -1,12 +1,36 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Finland In 2023
+title: Top 10 Fashion Instagram Influencers In Finland In 2024
 description: >-
-  Find top fashion Instagram influencers in Finland in 2023. Most popular hashtags: #ootd #streetstyle #outfitinspo.
+  Find top fashion Instagram influencers in Finland in 2024. Most popular hashtags: #ad #finland #helsinki.
 platform: Instagram
-hits: 94
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 94 Instagram influencers like this in Finland for you to collaborate.
+hits: 84
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 84 Instagram influencers like this in Finland for you to contact.
 profiles:
+  - username: "anniidaaa"
+    fullname: >-
+      Anni-iida maria
+    bio: >-
+      BEAUTY | FASHION AND LIFESTYLE🤍💙 🤍23 💇🏼‍♀️@hairbyanniiida 🤍Jyväskylä 🤍mom to one👧🏼
+    location: "Finland"
+    followers: 32684
+    engagement: 424
+    commentsToLikes: 0.017847
+    id: ck15t1bbkfuoo0i19781szdiy
+    verified: false
+    hashtags: "#happy, #jyv, #baby, #blondehair"
+  - username: "imsagr"
+    fullname: >-
+      Walid Al-Shahin
+    bio: >-
+      | Menswear | Fashion | Lifestyle | 🌍 Finland 🇫🇮 | Espoo📍 🏷@pulsnutritionfinland ( CODE : WALID ) -25% ✉️ For business inquiries DM
+    location: "Finland"
+    followers: 12344
+    engagement: 477
+    commentsToLikes: 0.051346
+    id: ck0w4e6rey53j0i19svsiy9od
+    verified: false
+    hashtags: "#mainos, #menstyle, #suomi, #helsinki"
   - username: "maijuline"
     fullname: >-
       Maiju 🕊️🇫🇮
@@ -19,18 +43,30 @@ profiles:
     id: ck138old7h91u0i19kdderx67
     verified: false
     hashtags: "#historicalhair, #periodfashion, #edwardianhandmade, #periodsewing"
-  - username: "emjeni"
+  - username: "laluuna"
     fullname: >-
-      Emilia Emjeni
+      Laila Lindqvist
     bio: >-
-      ♋︎ sun ♐︎ ascendant ♌︎ moon emjenixo@gmail.com Finland 📍Helsinki Podcast @bffpodi @fashionnova Ambassador
+      Professional skyline painter who loves things vintage. Familylife in Hel. Interests: fashion, art, interiors, wellbeing laila.lindqvist@hotmail.com
     location: "Finland"
-    followers: 187124
-    engagement: 176
-    commentsToLikes: 0.014297
-    id: ckxp8299ia98a0j23s82gvkzz
+    followers: 11933
+    engagement: 264
+    commentsToLikes: 0.021930
+    id: ck5hhj9pu8iq90i115zdazcbv
     verified: false
-    hashtags: "#outfit, #ootd, #bershka"
+    hashtags: "#luomitarkastus, #luomet, #tutkitutaluomesi, #melanooma"
+  - username: "famousali10"
+    fullname: >-
+      Ali ÇELİK
+    bio: >-
+      📍Based in Helsinki / Finland •Men’s Fashion Influencer •Social Media Management •Style Consultant •Content Creator •Photography
+    location: "Finland"
+    followers: 99883
+    engagement: 14
+    commentsToLikes: 0.000000
+    id: ck0vzmudq9vsf0i19pnqlrnf0
+    verified: false
+    hashtags: "#famousali10, #finland, #helsinki, #helsinkifinland"
   - username: "alistkariss"
     fullname: >-
       A-LIST KARISS
@@ -43,30 +79,18 @@ profiles:
     id: ck14lvgxwwp170i19f9s1lyil
     verified: false
     hashtags: "#mycalvins, #styledbyalistkariss, #womenshistorymonth"
-  - username: "suzy.antunes"
+  - username: "siljatuominenn"
     fullname: >-
-      Susanna Antunes
+      Silja Tuominen
     bio: >-
-      From Finland 🇫🇮 Living in Portugal 🇵🇹 ✈️ Traveling 👠 Fashion
+      Wellness | Beauty | Fashion Team @myproteinfi @icaniwill Helsinki, Finland
     location: "Finland"
-    followers: 3696
-    engagement: 1354
-    commentsToLikes: 0.208532
-    id: ck14lcy8wu1hv0i19jzzwtke4
+    followers: 6543
+    engagement: 2553
+    commentsToLikes: 0.038557
+    id: ck8t0ct5drmlr0j78210z7cn5
     verified: false
-    hashtags: "#neutralstyle, #discoverunder5k, #tyyli, #neutralcolors"
-  - username: "anjaschuschu"
-    fullname: >-
-      Anja Gasser 🌙 INSPO / FASHION
-    bio: >-
-      #tinyhouselife #food #nature #beauty #fashion base: #switzerland & #germany blog since 2010 - insta since 2012 info@schuschublog.com ♡ @willibaatz
-    location: "Finland"
-    followers: 18165
-    engagement: 435
-    commentsToLikes: 0.206130
-    id: ck5zy0dj48zzz0i14m083yzb9
-    verified: false
-    hashtags: "#americanstyle, #fillyourlifewithmoments, #farmgirl, #farmlife"
+    hashtags: "#icaniwill, #monday, #glossybox, #glossymoment"
   - username: "instyle.by.anne"
     fullname: >-
       Anne Hirsmäki
@@ -78,7 +102,7 @@ profiles:
     commentsToLikes: 0.095406
     id: ck0tyisjin04s0i19tmoy379u
     verified: false
-    hashtags: "#modelover50, #50pluswomen, #aikuinennainen, #over50women"
+    hashtags: "#50pluswomen, #modelover50, #monkistyle, #agepositive"
   - username: "susanna_penttila"
     fullname: >-
       Susanna Penttilä
@@ -102,29 +126,5 @@ profiles:
     commentsToLikes: 0.282780
     id: ck5hjk35qgrop0i11v3j3ro3o
     verified: false
-    hashtags: "#ad, #friagluteeniton, #somessacom, #fria"
-  - username: "strictlystyle"
-    fullname: >-
-      Hanna Väyrynen
-    bio: >-
-      Writer of style blog Strictly Style Wife&Mother👦🏼👦🏼👦🏼 🏆 Best Fashion Blog of 🇫🇮 🏆 Most Stylish Blog of 🇫🇮 Lancôme Ambassador ✉️info@hannavayrynen.com
-    location: "Finland"
-    followers: 29982
-    engagement: 335
-    commentsToLikes: 0.042116
-    id: ck5pz9rwnzwuk0i111xq7rcva
-    verified: false
-    hashtags: "#wallark, #whiteandbeige, #lancome, #pinkbath"
-  - username: "janniamanda"
-    fullname: >-
-      Janni Keituri
-    bio: >-
-      lifestyle • photography • home decor • fashion • travel Content creator from Finland 📸 E-mail: contact@janniehari.fi 💌 @aititreffit Podcast 🎙️🎧
-    location: "Finland"
-    followers: 16491
-    engagement: 457
-    commentsToLikes: 0.006261
-    id: ck8szpvh2pa3a0j78ybk8gl9w
-    verified: false
-    hashtags: "#kitchen, #toddlerlife, #valio, #tarramonsteri"
+    hashtags: "#fria, #somessaxfria, #somessacom, #ad"
 ---

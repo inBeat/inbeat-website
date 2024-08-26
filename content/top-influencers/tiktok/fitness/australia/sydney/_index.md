@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Sydney In 2023
+title: Top 10 Fitness TikTok Influencers In Sydney In 2024
 description: >-
-  Find top fitness TikTok influencers in Sydney in 2023. Most popular hashtags: #sydney #fitness #foryou #fyp.
+  Find top fitness TikTok influencers in Sydney in 2024. Most popular hashtags: #sydney #fitness #foryou #australia.
 platform: TikTok
 hits: 25
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our database has 25 TikTok influencers like this in Sydney, Australia for you to connect with.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 25 TikTok influencers like this in Sydney, Australia for you to contact.
 profiles:
   - username: "tokyozvalentino"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.048493
     id: cka7o7mp10qyp0i78xk1mluw6
     verified: false
-    hashtags: "#dance, #tune, #tiktok, #foryou"
+    hashtags: "#dance, #fun, #mood, #earphones"
   - username: "apreldiana"
     fullname: >-
       Diana Kostenko 

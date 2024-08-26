@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Medellín In 2023
+title: Top 10 Cosmetics Instagram Influencers In Medellín In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Medellín in 2023. Most popular hashtags: #makeup #maquillaje #colombia #beauty.
+  Find top cosmetics Instagram influencers in Medellín in 2024. Most popular hashtags: #makeup #maquillaje #beauty #colombia.
 platform: Instagram
 hits: 8
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 8 Instagram influencers like this in Medellín, Colombia for you to pitch.
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 8 Instagram influencers like this in Medellín, Colombia for you to collaborate.
 profiles:
   - username: "wilsbeauty"
     fullname: >-
@@ -103,18 +103,18 @@ profiles:
     id: ck5q3ihpokw7e0i11gl42nznm
     verified: false
     hashtags: "#instagood, #instafashion, #photography, #mexico"
-  - username: "stephanieolivier"
+  - username: "tiffanialvarez"
     fullname: >-
-      Stephanie Olivier ♛
+      Tiffani Alvarez
     bio: >-
-      GENEVA🇨🇭| LONDON 🇬🇧|📍 ғaѕнιon | тravel | ѕнoppιng Founder & Owner @s.o__cosmetics Swiss & Colombian
+      Makeup | beauty | wellness | lifestyle | moda +250k en TT 🤝🏻 muchos reviews allá info@tiffanialvarez.com 📍Medellín hubby 🫀 @davidbravod
     location: "Colombia"
-    followers: 55237
-    engagement: 306
-    commentsToLikes: 0.061051
-    id: ckf5spow4g1nn0j23rglmp709
+    followers: 22730
+    engagement: 245
+    commentsToLikes: 0.018727
+    id: ck8wevvpseoo90j78cq9vxrh8
     verified: false
-    hashtags: "#ootd, #mood, #caribbean, #outfits"
+    hashtags: "#maquillajenatural, #maquillajefavorito, #maquillaje, #labiales"
   - username: "bymariajoserodriguez"
     fullname: >-
       Maria Jose Rodriguez

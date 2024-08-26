@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In Germany In 2023
+title: Top 10 Divers TikTok Influencers In Germany In 2024
 description: >-
-  Find top divers TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #fy #diversity #fyp.
+  Find top divers TikTok influencers in Germany in 2024. Most popular hashtags: #foryou #diversity #fy #fyp.
 platform: TikTok
 hits: 45
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our database holds 45 TikTok influencers like this in Germany for you to collaborate.
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 45 TikTok influencers like this in Germany for you to contact.
 profiles:
   - username: "electra_pain"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.035400
     id: ckbf1ti8eo8j50j23w0gpbb8k
     verified: true
-    hashtags: "#curvygirlcomedy, #missgermany, #sch, #selbstbewusstsein"
+    hashtags: "#selbstbewusstsein, #respectmysize, #missgermany, #selbstbewusstwerden"
   - username: "stanadamforgoodgrades"
     fullname: >-
       stanadamforgoodgrades

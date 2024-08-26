@@ -1,12 +1,24 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Houston In 2023
+title: Top 10 Yoga Instagram Influencers In Houston In 2024
 description: >-
-  Find top yoga Instagram influencers in Houston in 2023. Most popular hashtags: #yoga #houston #houstonblogger #ad.
+  Find top yoga Instagram influencers in Houston in 2024. Most popular hashtags: #yoga #houston #houstontx #fitness.
 platform: Instagram
-hits: 29
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 29 Instagram influencers like this in Houston, United States for you to work with.
+hits: 40
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 40 Instagram influencers like this in Houston, United States for you to work with.
 profiles:
+  - username: "natashgetslost"
+    fullname: >-
+      Natasha Ponciano Travel Yogi
+    bio: >-
+      Owner @lostlotusyoga Yoga Teacher RYT 500, E-RYT 200 ✨ Email for Private Yoga Inquiries
+    location: "United States"
+    followers: 4052
+    engagement: 966
+    commentsToLikes: 0.104763
+    id: ck5q8sj1q7sb70i11nau3tbau
+    verified: false
+    hashtags: "#natashgetslost, #lostlotusyoga, #functionalwater, #owntheoneyou"
   - username: "missnicolecara"
     fullname: >-
       𝐍𝐢𝐜𝐨𝐥𝐞 𝐂𝐚𝐫𝐚 BLACK SWAN YOGA
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.052317
     id: ck14kfgxqp9h30i19esmzrc35
     verified: false
-    hashtags: "#visiblyfat, #athleta, #plussizeathleisure, #fatgirlsummer"
+    hashtags: "#athleta, #palmsprings, #visiblyfat, #plussizefashion"
   - username: "sugarfacebakes"
     fullname: >-
       The Balanced Lifestyle Expert
@@ -42,89 +54,77 @@ profiles:
     commentsToLikes: 0.778819
     id: ck14hyl7mcsfy0i196cx91yp1
     verified: false
-    hashtags: "#homemadewithlove, #happywayau, #foodfood, #breadbaking"
-  - username: "theresarockface"
+    hashtags: "#sugarfacebakes, #allrecipes, #happywayau, #foodandwine"
+  - username: "madisynujkic"
     fullname: >-
-      TheresaRockFace
+      Madisyn Rose
     bio: >-
-      National #IHeartRadio Alt/RockRadio Personality 10-3p • #Houston #Indy #Charlotte #Vegas #SaltLake #Portland #Omaha &beyond • theresa@iheartradio.com
+      ⚡️Los Angeles Chargers Cheerleader @thechargergirls 💃🏻@mtaagency 💆🏻‍♀️ @microneedlingbymadisyn
     location: "United States"
-    followers: 64464
-    engagement: 136
-    commentsToLikes: 0.040440
-    id: ck5qd5bojtvvf0i116p6p0qnj
+    followers: 9227
+    engagement: 778
+    commentsToLikes: 0.039860
+    id: ck9hc2f0wjgdr0j78r3cwwy83
     verified: false
-    hashtags: "#repost, #halloweenbash, #texas, #halloween"
-  - username: "bboygermy"
-    fullname: >-
-      Jeremy G. Cheung | Houston, TX
-    bio: >-
-      👔 Men’s Fashion × 🌊 Movement x 🕶 Lifestyle 🏙 Houston, TX 🧑🏻‍💼: @germymedia ❖ : bboygermy@gmail.com ⤓ Learn Breaking! 🤸🏻 ✦ #germynation — ╿ 🇭🇰🇺🇸
-    location: "United States"
-    followers: 30186
-    engagement: 93
-    commentsToLikes: 0.138835
-    id: ck0vyxk3769vd0i196fepe3g8
-    verified: false
-    hashtags: "#asianamerican, #martialarts, #onearm, #houstonblogger"
-  - username: "natashgetslost"
-    fullname: >-
-      Natasha Ponciano Travel Yogi
-    bio: >-
-      Owner @lostlotusyoga Yoga Teacher RYT 500, E-RYT 200 ✨ Email for Private Yoga Inquiries
-    location: "United States"
-    followers: 4052
-    engagement: 966
-    commentsToLikes: 0.104763
-    id: ck5q8sj1q7sb70i11nau3tbau
-    verified: false
-    hashtags: "#functionalwater, #owntheoneyou, #lostlotusyoga, #ad"
-  - username: "tarik_rever"
-    fullname: >-
-      Tarik Rever
-    bio: >-
-      Them/They Official IG of Tarik Rêver. Singer songwriter. Spokesperson for Social Bleu. Model, equal rights activist, inventor for the disabled. VEGAN
-    location: "United States"
-    followers: 183618
-    engagement: 400
-    commentsToLikes: 0.051024
-    id: ck13daddl4gmo0i19nq12223x
-    verified: false
-    hashtags: "#alt, #kawaii, #vampire, #artist"
-  - username: "mashforooz"
-    fullname: >-
-      Mash Forooz
-    bio: >-
-      💗 Fashion | Beauty | Travel | Lifestyle ✈️: Napa 💌: mashforooz@gmail.com 📍Houston, TX 💫 Spread love everywhere you go. 🛍Shop my looks👇🏻
-    location: "United States"
-    followers: 89803
-    engagement: 172
-    commentsToLikes: 0.074480
-    id: ck5zxzgnw8yc40i14gla49rhg
-    verified: false
-    hashtags: "#ad, #travelinfluencer, #hmxme, #chanelcaviar"
-  - username: "ijanelleg"
-    fullname: >-
-      C H A N E L
-    bio: >-
-      Latina • Fitness • Lifestyle ★ Ga ✈️ Houston, Tx ★ @shopijanelleg ★ @blessedprotein/@ehplabs “CHANELBP” for 10% off🤍
-    location: "United States"
-    followers: 4758
-    engagement: 1272
-    commentsToLikes: 0.033808
-    id: ckaozk7etm8rr0i78gf4zqsnr
-    verified: false
-    hashtags: "#fotd, #fitnessjourney, #workout, #ootd"
+    hashtags: "#southbeachmiami, #fourthofjuly, #4thofjulyweekend, #chargers"
   - username: "xoxozennnifer"
     fullname: >-
-      j e n🕊✨🌊🌱🤸🏽‍♀️
+      Jen🕊🌈✨🌊🌱🤸🏽‍♀️🌏
     bio: >-
-      OF THE EARTH here 222 connect - houston | txst alum
+      ॐ MULTIDIMENSIONAL Stories - Travel - Yoga. Here 222 connect 📍Houston @zentheyogi | @smartcityhtx TXST Alum
     location: "United States"
-    followers: 4716
-    engagement: 1815
-    commentsToLikes: 0.065075
+    followers: 10346
+    engagement: 1176
+    commentsToLikes: 0.047944
     id: ckap1b40cttkq0i78ptkfrt17
     verified: false
-    hashtags: "#sisters, #om, #love, #divinefeminine"
+    hashtags: "#yoga, #travelcard, #banffcanada, #morainelake"
+  - username: "bboygermy"
+    fullname: >-
+      Jeremy G | Fitness • Movement • Fashion • Lifestyle
+    bio: >-
+      恆 」Unlocking Potential ♮ Living Fully『 🇭🇰🇺🇸 』 ❖ : bboygermy@gmail.com • 🤘Houston, Texas ✈️ ⤓ Let’s Be Friends | 🌿@constanteffortco
+    location: "United States"
+    followers: 29829
+    engagement: 59
+    commentsToLikes: 0.074910
+    id: ck0vyxk3769vd0i196fepe3g8
+    verified: false
+    hashtags: "#climbing, #breakin, #contentcreator, #germynation"
+  - username: "tactical_karl"
+    fullname: >-
+      Stephenson’ tactical training
+    bio: >-
+      ⚔ TX DPS LTC Firearm/Self Defense Instructor 🎓Train like you fight. Houston TX 🚁U.S Army Vet 12B/Air Assault🇺🇸 Register in bio 🎥Gear reviews Promo
+    location: "United States"
+    followers: 65523
+    engagement: 142
+    commentsToLikes: 0.052218
+    id: ck8syo3aklexw0j78hyennruf
+    verified: false
+    hashtags: "#helpisnotcoming, #training, #tacticalkarl, #selfdefense"
+  - username: "farahnofal__"
+    fullname: >-
+      Farah Nofal - فرح نوفل
+    bio: >-
+      Expecting Mama 🫶🏻 ▫️Lifestyle•Wellness•Yoga•Nutrition▫️ ▫️YOGA TEACHER & HEALTH COACH @nestlepurelifeeg & @egyfoodbank Ambassador 📍Cairo/ Houston
+    location: "United States"
+    followers: 289417
+    engagement: 57
+    commentsToLikes: 0.006006
+    id: ck6tv8qhaktfr0j71py61b5fj
+    verified: false
+    hashtags: "#pregnancy, #summerdays, #egypt, #preggooutfits"
+  - username: "leapoffaith_yoga"
+    fullname: >-
+      Kim
+    bio: >-
+      ~ Yoga teacher RYT200, Forever student ~ Mom, Explorer, Nature lover ~ Taking the Leap of Faith
+    location: "United States"
+    followers: 55240
+    engagement: 53
+    commentsToLikes: 0.470459
+    id: ckmw1itdd8jih0j23dzeeycce
+    verified: false
+    hashtags: "#flaneusesummerfun, #environmentallyconscious, #summershortsvibes3, #yogifeet"
 ---

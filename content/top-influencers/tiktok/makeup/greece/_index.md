@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Greece In 2023
+title: Top 10 Makeup TikTok Influencers In Greece In 2024
 description: >-
-  Find top makeup TikTok influencers in Greece in 2023. Most popular hashtags: #fyp #viral #greektiktok #foryoupage.
+  Find top makeup TikTok influencers in Greece in 2024. Most popular hashtags: #fyp #viral #foryoupage #makeup.
 platform: TikTok
 hits: 17
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our platform holds 17 TikTok influencers like this in Greece for you to connect with.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 17 TikTok influencers like this in Greece for you to work with.
 profiles:
   - username: "chloexlifestyle"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.179115
     id: ckbabf7fe40gn0j231a599f8n
     verified: false
-    hashtags: "#bookclub, #foryoupage, #glossier, #upclose"
+    hashtags: "#houseoftiktok, #upclose, #grwm, #foryoupage"
   - username: "alexaportraitss"
     fullname: >-
       Alexa🦇
@@ -67,18 +67,6 @@ profiles:
     id: ck9dwh1l5oyll0j78lyv5zhy8
     verified: false
     hashtags: "#gingerbread, #funfactstoknow, #prunboxing, #funfacts"
-  - username: "venom.fox"
-    fullname: >-
-      nelly🍰
-    bio: >-
-      🐇girl in a bunny suit🐇 yeah I'm greek lol 22 I like anime, video games & kpop
-    location: "Greece"
-    followers: 68200
-    engagement: 1070
-    commentsToLikes: 0.028488
-    id: ckb9atelaw3sh0j236tyb5ru1
-    verified: false
-    hashtags: "#greektiktok, #gamers, #leaguememes, #leaguetok"
   - username: "katerina_kritikou"
     fullname: >-
       Katerina Kritikou
@@ -91,6 +79,18 @@ profiles:
     id: ckb0m8v48cr020j23w9u05v3z
     verified: false
     hashtags: "#valentinesday, #tiktokgreece, #greektiktok, #vampirediaries"
+  - username: "klifes_getfit"
+    fullname: >-
+      klifes_
+    bio: >-
+      Bsc Dietetics 👩🏽‍🎓
+    location: "Greece"
+    followers: 38500
+    engagement: 797
+    commentsToLikes: 0.020439
+    id: ckcjgyo3ebvc50j23xoprwmif
+    verified: false
+    hashtags: "#happyeaster, #orthodox, #makeup, #venom"
   - username: "iamfoureira"
     fullname: >-
       Foureira

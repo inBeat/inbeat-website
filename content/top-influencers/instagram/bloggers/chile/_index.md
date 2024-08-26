@@ -1,24 +1,12 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Chile In 2023
+title: Top 10 Bloggers Instagram Influencers In Chile In 2024
 description: >-
-  Find top bloggers Instagram influencers in Chile in 2023. Most popular hashtags: #blogger #travel #love #travelphotography.
+  Find top bloggers Instagram influencers in Chile in 2024. Most popular hashtags: #blogger #photooftheday #sunset #chile.
 platform: Instagram
 hits: 34
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 34 Instagram influencers like this in Chile for you to work with.
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 34 Instagram influencers like this in Chile for you to connect with.
 profiles:
-  - username: "valemiaaaaau"
-    fullname: >-
-      Valentina Leni 💕
-    bio: >-
-      Cosmetologa, MUA & Beauty blogger 🇨🇱 Maquillaje/ Skincare/ Cabello/ Reseñas💘 Psicologa y mamá de Vicente👩‍👦 valentina.leni@live.com 💌 Stgo, Chile📍
-    location: "Chile"
-    followers: 23799
-    engagement: 427
-    commentsToLikes: 0.401485
-    id: ck1382qs7e85m0i19qjp0c1lo
-    verified: false
-    hashtags: "#benebabe, #bloggerchilena, #influencerchilena, #muachilena"
   - username: "nomadswalker"
     fullname: >-
       Nomadswalker
@@ -45,28 +33,16 @@ profiles:
     hashtags: "#igersperu, #peruanos, #natgeoyourshot, #per"
   - username: "chile_bloggers"
     fullname: >-
-      ғᴏᴛᴏɢʀᴀғíᴀ ᴄʜɪʟᴇ 🇨🇱
+      ғᴏᴛᴏɢʀᴀғíᴀ ᴄʜɪʟᴇ 🇨🇱
     bio: >-
-      🗂 ɢᴀʟᴇʀíᴀ ғᴏᴛᴏɢʀáғɪᴄᴀ 🔖 ʜᴛ #chile_bloggers 👮‍♂️ Respaldo @chile.backup
+      🗂 ɢᴀʟᴇʀíᴀ ғᴏᴛᴏɢʀáғɪᴄᴀ 🔖 ʜᴛ #chile_bloggers 👮‍♂️ Respaldo @chilebloggers
     location: "Chile"
-    followers: 57760
-    engagement: 296
-    commentsToLikes: 0.006551
+    followers: 64756
+    engagement: 286
+    commentsToLikes: 0.007685
     id: ck14gzxk07urp0i190cxavzj6
     verified: false
-    hashtags: "#araucania, #sonyalpha, #ig, #photooftheday"
-  - username: "missestilos"
-    fullname: >-
-      INSTAGRAM LOVER~ María Rey
-    bio: >-
-      Fashion lover|Lifestyle| Itzel&Nora’s Mum 📍Santiago de Compostela - Vigo, Spain. 📩 Works: maria@missestilos.com
-    location: "Chile"
-    followers: 89985
-    engagement: 201
-    commentsToLikes: 0.177115
-    id: ck5c9ti0kc3ed0i11zostx7wp
-    verified: false
-    hashtags: "#influencer, #missestilos, #ootd, #look"
+    hashtags: "#marcachile, #chile, #southamerica, #planet"
   - username: "krissandovalk"
     fullname: >-
       🌸🌸K R I S H N A 🌸🌸
@@ -91,18 +67,42 @@ profiles:
     id: ckf5pt0fd76gh0j23890d5j4m
     verified: false
     hashtags: "#visitperu, #aventura, #peruhop, #ytuqueplanes"
-  - username: "camilatenas"
+  - username: "soficfit"
     fullname: >-
-      Cami Atenas
+      Sofía Cavallini
     bio: >-
-      Asesora de imagen • CabinCrew 💌 Camila.atenas11@gmail.com
+      Wellness Lifestyle Motivo, entreno & reflexionó TikTok (+215 k) Atleta @nikerunning Owner @this.sofit @sc.estudio 💌: scavallini@uc.cl
     location: "Chile"
-    followers: 11022
-    engagement: 523
-    commentsToLikes: 0.076328
-    id: ckap7xt0rm1fm0i78ollz4p52
+    followers: 101022
+    engagement: 1694
+    commentsToLikes: 0.006033
+    id: clnbn6qx63z7x0j08dufw5ne5
     verified: false
-    hashtags: "#fashionblogger, #asesoriadeimagen, #look, #potenciotuimagen"
+    hashtags: "#wellness, #frases, #soficfitchallenge, #motivacion"
+  - username: "tamarachile"
+    fullname: >-
+      Tami Rogers
+    bio: >-
+      muy yo lifestyle | datos | viajes 💌tamarachile.collabs@gmail.com
+    location: "Chile"
+    followers: 106082
+    engagement: 308
+    commentsToLikes: 0.019650
+    id: clnbn6pe33xxz0j08z8of8wxa
+    verified: false
+    hashtags: "#santiagodechile, #datoschile, #publicidad, #chile"
+  - username: "lucrebernardo"
+    fullname: >-
+      LUCRECIA BERNARDO S.
+    bio: >-
+      born in chile | half spanish Lic. en Nutrición y dietética Make up artist Amante de viajar mbernardos@udd.cl
+    location: "Chile"
+    followers: 20963
+    engagement: 134
+    commentsToLikes: 0.019931
+    id: clnbn6r833zgl0j08kvwy0b1u
+    verified: false
+    hashtags: "#ootd, #galapagos, #couplegoals, #revolveme"
   - username: "marco_escobar01"
     fullname: >-
       𝑴𝒂𝒓𝒄𝒐 𝑹𝒂𝒚⚡️🇨🇺
@@ -115,16 +115,16 @@ profiles:
     id: ckaov2e7l2tni0i78czgyz0h1
     verified: false
     hashtags: "#styleblogger, #black, #styles, #cute"
-  - username: "jarlinsonramirezphoto"
+  - username: "jessicalaimo"
     fullname: >-
-      Jarlinsson Ramirez
+      Jessica Alaimo 🌱
     bio: >-
-      •IPUC - Sin Dios , nada soy 🙌 • fotógrafo de moda y bodas /📸 •Colombia🇨🇴 • filipenses 4:13
+      Animadora de TV 📺 @modotarde.tv 🎶 @antofagasta_tv & @canaltvr 14.1 señal digital: Stgo, Conce y Temuco. Locutora @radiocanal95 🎧 || 👤@moalai.cl
     location: "Chile"
-    followers: 23167
-    engagement: 695
-    commentsToLikes: 0.031181
-    id: ck0w6w43aajfx0i191pe1dy7d
+    followers: 12986
+    engagement: 949
+    commentsToLikes: 0.032088
+    id: ckap2cqs7yaer0i78hmeqq674
     verified: false
-    hashtags: "#campa, #pictureoftheday, #colombia, #destinationwedding"
+    hashtags: "#television, #work, #photooftheday, #radio"
 ---

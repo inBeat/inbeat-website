@@ -1,12 +1,84 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Miami In 2023
+title: Top 10 Nutrition Instagram Influencers In Miami In 2024
 description: >-
-  Find top nutrition Instagram influencers in Miami in 2023. Most popular hashtags: #miami #fitness #fitnessmotivation #nutrition.
+  Find top nutrition Instagram influencers in Miami in 2024. Most popular hashtags: #miami #nutrition #fitness #fitnessmotivation.
 platform: Instagram
-hits: 63
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 63 Instagram influencers like this in Miami, United States for you to collaborate.
+hits: 83
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 83 Instagram influencers like this in Miami, United States for you to connect with.
 profiles:
+  - username: "devinfitofficial"
+    fullname: >-
+      Devin J. George | Health Coach 🌍
+    bio: >-
+      Follow At Your Own Risk.⚠️ I Teach People How To Lose The Stomach & Love Handles With Intentional Training & Smart Nutrition. Apply Here To Start. ⬇️
+    location: "United States"
+    followers: 539127
+    engagement: 215
+    commentsToLikes: 0.023855
+    id: ck6uf1fhouanr0j718mrsao79
+    verified: false
+    hashtags: "#fitness, #fatlosscoach, #builttowin, #unlockyourpotential"
+  - username: "salt.n.peppah"
+    fullname: >-
+      Nikki Pepper | Performance Coach
+    bio: >-
+      I design health & fitness programs for high performers to be less burned out and get better results. ⥥ Book your FREE Discovery Call ⥥
+    location: "United States"
+    followers: 11191
+    engagement: 117
+    commentsToLikes: 0.114156
+    id: ck5pvsynvjhdm0i11oxg8ovsn
+    verified: false
+    hashtags: "#healthandwellness, #wellness, #miamibeachhealth, #reikimiamibeach"
+  - username: "julienquaglierini"
+    fullname: >-
+      Julien Quaglierini
+    bio: >-
+      ✨IFBB PRO✨ 🌎COACH 🇫🇷🇺🇸 ♦️PROZIS 👉JULIENQ10 🚀J’aide à transformer votre physique, votre mindset 🎯COMMENCE TA TRANSFORMATION⤵️
+    location: "United States"
+    followers: 113153
+    engagement: 119
+    commentsToLikes: 0.032697
+    id: ck5he6swirclq0i11gxuyogat
+    verified: false
+    hashtags: "#bodybuilding, #musculationmotivation, #musculationaddict, #fitnessmotivation"
+  - username: "therealjencohen"
+    fullname: >-
+      Jennifer Cohen
+    bio: >-
+      Not a guru, coach or expert. Just a girl trying to help you get better. 🎤 Top rated podcast Habits & Hustle 📕 Bigger, Better, Bolder OUT NOW
+    location: "United States"
+    followers: 534563
+    engagement: 61
+    commentsToLikes: 0.036618
+    id: ck5cgy1jrprdb0i11818gikcn
+    verified: true
+    hashtags: "#personalgrowth, #personaldevelopment, #successmindset, #workoutmotivation"
+  - username: "katharinanahlik"
+    fullname: >-
+      Katharina Nahlik
+    bio: >-
+      I’m teaming up with @peta to help put an end to ALL animal experiments. Text “MICE” to 73822 to take action for animals suffering in labs today. 🐭
+    location: "United States"
+    followers: 1703596
+    engagement: 7
+    commentsToLikes: 0.000552
+    id: ck5cjrf8evc790i112m8wvxlg
+    verified: false
+    hashtags: "#katharinanahlik, #katharinamazepa, #miami, #model"
+  - username: "thefitprodigy"
+    fullname: >-
+      Kolohe Primeau
+    bio: >-
+      Nationally Published Fitness Model Oahu, HI Featured in @muscleandfitness @huffpost @abqthemag @wikipedia @abqjournal @voyagemiami
+    location: "United States"
+    followers: 154519
+    engagement: 214
+    commentsToLikes: 0.008720
+    id: ckap648lkebq70i78q0y3f9n1
+    verified: false
+    hashtags: "#louisvuitton, #bombshellsportswear, #npcmensphysique, #albuquerque"
   - username: "danilapao"
     fullname: >-
       Danila Bp
@@ -31,100 +103,28 @@ profiles:
     id: ckap12ddjstop0i78e05yhwxg
     verified: false
     hashtags: "#veganlife, #plantbased, #ootd, #vegansofig"
-  - username: "agentshawn"
+  - username: "dianna_k_"
     fullname: >-
-      Trainer/Sports Performance
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  DESPINA KARAVAS ®
     bio: >-
-      🏋🏽‍♂️ Cypherdemics 📐 Engineering Professional 🇺🇸 Houston, TX 📩 mrshawn06@gmail.com #cypherdemics
+      Pro fighter 📍New York 📅 next fight : 🇬🇷🇨🇴
     location: "United States"
-    followers: 17305
-    engagement: 143
-    commentsToLikes: 0.195510
-    id: ck6u42nl71c2q0j71qj8wd6mx
+    followers: 10969
+    engagement: 594
+    commentsToLikes: 0.041034
+    id: ck8sx7jt8gf5x0j78s1yh3enb
     verified: false
-    hashtags: "#menshealthmag, #bootcamp, #weightlossjourney, #cypherdemics"
-  - username: "noelletaylorrr"
+    hashtags: "#serralongofightteam, #lawmma, #eatcleanbro, #mma"
+  - username: "giannafae"
     fullname: >-
-      Noelle Taylor 🧞‍♀️
+      Gianna Carullo
     bio: >-
-      Jack of all trades, master of none ✝️ + 🗺 + 🫂+ 🧀 + 📽 + ♑️ + 🛩 + 🇺🇸 enthusiast Represented by @heymantalentagency
+      ❥ 🇬🇷🇵🇭🇹🇼 ☾ lifestyle | wellness | fitness | family ✗ private trainer | online holistic nutrition & fitness coach 📍: miami, fl
     location: "United States"
-    followers: 5906
-    engagement: 861
-    commentsToLikes: 0.089688
-    id: ckaovv3gu67pq0i78q8cf6yu8
+    followers: 14135
+    engagement: 305
+    commentsToLikes: 0.134182
+    id: ck5zp1w7frtwm0i149rjeefd1
     verified: false
-    hashtags: "#extra, #capricornseason, #birthday, #internationalwomensday"
-  - username: "nutrillermo"
-    fullname: >-
-      Guillermo Rodríguez Navarrete
-    bio: >-
-      Doctor in Human Nutrition, PhD, FACN, CNS, LDN 🇺🇸Miami info@nutrillermo.com 📞+1 7865691399 👇🏼¡Video cita desde casa! //👆🏼Más info☝🏼
-    location: "United States"
-    followers: 578188
-    engagement: 112
-    commentsToLikes: 0.087528
-    id: ck0w6s3p5a13j0i198l666gtf
-    verified: true
-    hashtags: "#salud, #nutrifasting, #nutriteam, #retoayuno"
-  - username: "antonio_milan0"
-    fullname: >-
-      Antonio Milano
-    bio: >-
-      🇪🇸 📍Miami🇺🇸 🩳 Founder of @chameleon_beachwear ❤️👬🏻💍🔒🐶 🌎Traveler 📺 Love-Funny-videos💙 🏋🏻‍♀️Fitness-healthy-life🥦 🎮Gamer-PLAY5💻 👘Geek-DemonSlayer🧛🏽‍♂️
-    location: "United States"
-    followers: 70905
-    engagement: 457
-    commentsToLikes: 0.039813
-    id: ck6u5ik539u9w0j71yqozxtfh
-    verified: false
-    hashtags: "#christmas, #instadaily, #photooftheday, #instabeard"
-  - username: "ro54d"
-    fullname: >-
-      Rodrigo Garduño
-    bio: >-
-      Founder of 54D Program High performance Coach. Miami📍 Former Professional soccer player. ⬇️54D-On line Program click here
-    location: "United States"
-    followers: 1062024
-    engagement: 135
-    commentsToLikes: 0.161889
-    id: ck5cf0o7tm3c40i11cmvoo431
-    verified: false
-    hashtags: "#fitnessmotivation, #latinosennewyork, #miamifit, #latino"
-  - username: "brookeprettyass"
-    fullname: >-
-      Brooke by the book.
-    bio: >-
-      God’s child. 😇 FAITH over fear. I’m glad you’re here 👽 Owner: @brookscarecollection < DM 4 products Bartender/Mixologist 🍾🍸🥃🍹 ￼￼￼serious inquires📥📧🔌
-    location: "United States"
-    followers: 7664
-    engagement: 206
-    commentsToLikes: 0.073815
-    id: ck55mv25x4vsh0i11qyowlxob
-    verified: false
-    hashtags: "#fitnessmotivation, #selfie, #diyvideos, #luxurylifestyle"
-  - username: "peanuttandjelly"
-    fullname: >-
-      Peanutt&Jelly|Love|Food|Travel
-    bio: >-
-      Featured on @cosmopolitan & @thrillist 📍Miami | ✈️ 📧DM or Peanuttandjelly@gmail.com 🎵670K TikTok 📸Sergio & Libna 📖 Proverbs 3:5-6
-    location: "United States"
-    followers: 30124
-    engagement: 1114
-    commentsToLikes: 0.048390
-    id: ck5hrx6kuvmso0i1191172krc
-    verified: false
-    hashtags: "#devourpower, #peanuttandjelly, #miamifood, #hungryaf"
-  - username: "suni_wellness"
-    fullname: >-
-      Health✖️Mind ✖️Spirit➕Patriot
-    bio: >-
-      @coach_suni 🇺🇸Army Vet |Airborne ⁣ ⁣ ⁣ God First
-    location: "United States"
-    followers: 28941
-    engagement: 76
-    commentsToLikes: 0.026824
-    id: ck8sye6igkk990j7820ei4dwd
-    verified: false
-    hashtags: "#suniwv, #labestiatribe, #onlinecoach, #letsgo"
+    hashtags: "#momtobe, #family, #easyrecipes, #bumpdate"
 ---

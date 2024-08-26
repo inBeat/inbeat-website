@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Switzerland In 2023
+title: Top 10 Comedians TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top comedians TikTok influencers in Switzerland in 2023. Most popular hashtags: #fyp #comedy #fy #viral.
+  Find top comedians TikTok influencers in Switzerland in 2024. Most popular hashtags: #fyp #comedy #fy #viral.
 platform: TikTok
 hits: 11
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our database holds 11 TikTok influencers like this in Switzerland for you to connect with.
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 11 TikTok influencers like this in Switzerland for you to connect with.
 profiles:
   - username: "alanwaglii"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.026666
     id: ck8rpklgpm4940j78oiaeln3d
     verified: false
-    hashtags: "#roadto50k, #foryoupage, #funny, #follow"
+    hashtags: "#roadto50k, #sister, #viral, #follow"
   - username: "t_ronimo"
     fullname: >-
       T_ronimo
@@ -30,19 +30,19 @@ profiles:
     commentsToLikes: 0.030014
     id: cka5zf8ramf480i78277khuq4
     verified: false
-    hashtags: "#winterthur, #albanian, #fadil, #swissmeme"
+    hashtags: "#comedy, #fadil, #tronimo, #viral"
   - username: "ericwdrae"
     fullname: >-
       ericwdrae
     bio: >-
-      Swiss Shady 🇨🇭🇺🇸 Instagram: ericwdrae
+      Swiss Shady🇨🇭🇺🇸 Instagram: ericwdrae
     location: "Switzerland"
-    followers: 20600
-    engagement: 979
-    commentsToLikes: 0.015129
+    followers: 29700
+    engagement: 935
+    commentsToLikes: 0.015914
     id: cka6lvrga4sf10i78j9pwblah
     verified: false
-    hashtags: "#comedian, #schweiz, #szene, #4upage"
+    hashtags: "#szene, #fyppp, #sport, #musik"
   - username: "mrkvicaajvaric"
     fullname: >-
       MrkvicaAjvaric
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.049526
     id: ckcv4z11tp25h0j23br5fvrew
     verified: false
-    hashtags: "#danke, #schweiz, #jugo, #integration"
+    hashtags: "#balkan, #integration, #danke, #hvala"
   - username: "don_stupido"
     fullname: >-
       Crazy comedian

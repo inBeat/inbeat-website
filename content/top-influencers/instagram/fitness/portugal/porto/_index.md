@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Porto in 2023
+title: Top 10 Fitness Instagram Influencers In Porto In 2024
 description: >-
-  Find top fitness Instagram influencers in Porto in 2023. Most popular hashtags: #portugal #porto #fitness #summer.
+  Find top fitness Instagram influencers in Porto in 2024. Most popular hashtags: #fitness #ootd #portugal #porto.
 platform: Instagram
-hits: 16
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 16 Instagram influencers like this in Porto, Portugal for you to connect with.
+hits: 7
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 7 Instagram influencers like this in Porto, Portugal for you to pitch.
 profiles:
-  - username: "trainermiguel24"
+  - username: "beatrizlpmaia"
     fullname: >-
-      Sérgio Miguel
+      Beatriz Maia
     bio: >-
-      🥑 | Fitness & Nutrition 🏋️‍♂️ | CrossFit ❤️ | Mais de 4000 clientes com resultados em todo o mundo
+      Porto, PT ✉️ beatrizlpmaia@gmail.com
     location: "Portugal"
-    followers: 13835
-    engagement: 294
-    commentsToLikes: 0.022801
-    id: ck9whf8vdxlbk0j78aufxpy66
+    followers: 12646
+    engagement: 1275
+    commentsToLikes: 0.013770
+    id: ck8td5oyc1znw0j78mmxhro23
     verified: false
-    hashtags: "#fitness, #porto, #portugal, #fit"
-  - username: "marina.belun"
+    hashtags: "#girlpower, #photography, #details, #white"
+  - username: "nuno_gemeos_moreira"
     fullname: >-
-      Marina Belun - Content Creator
+      Nuno Moreira
     bio: >-
-      👩🏽‍💻 Designer @moonmagicjewelry 📸 #videographer 🌎 #Traveladdicted 📍 Lisbon
+      CEO - Escola de dança Gémeos Moreira Choreographer at TV show Dancing with the stars Model Twitter: twinfitness1
     location: "Portugal"
-    followers: 7090
-    engagement: 473
-    commentsToLikes: 0.049261
-    id: ck5hp973hqyok0i11chy9wfod
+    followers: 134226
+    engagement: 705
+    commentsToLikes: 0.028998
+    id: ckaozbg76l4od0i782zr49zhr
     verified: false
-    hashtags: "#comewithme, #inspiration, #explore, #travel"
-  - username: "iamfabioteles"
+    hashtags: "#andrewchristianmodel, #blacknwhite, #body, #paris"
+  - username: "pedromoreira.oficial"
     fullname: >-
-      F A B I O • T E L E S
+      𝑃𝐸𝐷𝑅𝑂 𝑀𝑂𝑅𝐸𝐼𝑅𝐴 | Personal Trainer
     bio: >-
-      - @centralmodels 🇵🇹 - @fashionnovamen Ambassador For model, Digital & Brands: • Gustavo@centralmodels.pt (manager) - @myproteinpt Ambassador
+      🏋️‍♀️ACOMPANHAMENTO ONLINE 📙LIVRO DE RECEITAS 🍏@prozis code: PEDROMOREIRA 🎓Mestre @ Faculdade de Medicina da UP
     location: "Portugal"
-    followers: 157818
-    engagement: 730
-    commentsToLikes: 0.011503
-    id: ck5qdynmfxw7z0i118o9xwukj
-    verified: false
-    hashtags: "#weekend, #domingo, #workout, #caparica"
+    followers: 124322
+    engagement: 171
+    commentsToLikes: 0.013661
+    id: ck5znus7ip6y80i14d4743v19
+    verified: true
+    hashtags: "#pool, #acompanhamentoonline, #summer, #fitness"
   - username: "inkartluis"
     fullname: >-
       LUÍS FIGUEIREDO ART
     bio: >-
-      Freelancer artist 🇵🇹 Available COMMISSIONS & ONLINE LESSONS TWITCH ACCOUNT:
+      Freelancer artist 🇵🇹 Available COMMISSIONS & ONLINE LESSONS Learn HOW TO DRAW with me! Link:
     location: "Portugal"
-    followers: 82495
-    engagement: 355
-    commentsToLikes: 0.015587
+    followers: 94341
+    engagement: 255
+    commentsToLikes: 0.011638
     id: ck137ndqvceks0i19qbxxr8zw
     verified: false
-    hashtags: "#panties, #artist, #animefanart, #art"
-  - username: "alexandracortereal_"
+    hashtags: "#moon, #portugal, #homeworkout, #bodybuilding"
+  - username: "im.susanasilva"
     fullname: >-
-      Alexandra Corte Real ✨
+      SUSANA SILVA
     bio: >-
-      • Porto 🇵🇹 • #fitnessaddict 🏋🏼‍♀️ • Collabs 📩 - alexandracortereal.instagram@gmail.com • @myproteinpt - “ALEXANDRAMP”
+      lifestyle | gym | routine oporto, pt contact.susanasilva@gmail.com 📩
     location: "Portugal"
-    followers: 73769
-    engagement: 503
-    commentsToLikes: 0.046625
-    id: ck6to63qxcb9d0j71awwiv9m3
+    followers: 44537
+    engagement: 430
+    commentsToLikes: 0.026338
+    id: ckaovkl9a4ys60i787iawknf3
     verified: false
-    hashtags: "#quarentena, #gains, #miss, #tbt"
-  - username: "rubenfjorge"
+    hashtags: "#zaraoutfit, #zara, #ootdshare, #fashionblogger"
+  - username: "tiagovski555"
     fullname: >-
-      Ruben Jorge
+      Tiagovski
     bio: >-
-      🌆 Porto ©️ 1991 ♓️ Pharmacist 🏨 🎠The carousel never stops turning 🎠 @myblissbody rubenfjorge15 @mvmt
+      🇵🇹 Influencer | Lifestyle | Gaming | Streamer Código VSKI @prozisportugal Código VSKI @solverde.pt 📧 E-mail : tiagovskinegocios@hotmail.com YouTube ⬇️
     location: "Portugal"
-    followers: 11558
-    engagement: 1579
-    commentsToLikes: 0.014434
-    id: ck8talc55s8m80j78xs02h0e9
-    verified: false
-    hashtags: "#fitness, #summer, #body, #shredded"
-  - username: "raaquelmatoss"
+    followers: 555554
+    engagement: 463
+    commentsToLikes: 0.035398
+    id: ck5hqk37ot8gh0i11oqtv82vp
+    verified: true
+    hashtags: "#follow, #prozis, #premio, #trend"
+  - username: "vanessaaalfaro"
     fullname: >-
-      Raquel Matos
+      VANESSA ALFARO
     bio: >-
-      📍Porto/ 🏠 Setúbal Fashion, Lifestyle, Healthy Living RAQUELMATOS15 @eunutrition_pt 15% desconto RAQUELM 15% @tummytox_pt ✉️ anarsmatos9@gmail.com
+      lifestyle • recipes • travel • inspo • home Founder of @aurora.criativa_ 📍Aveiro, Portugal 💌 shapeyourbody.va@gmail.com
     location: "Portugal"
-    followers: 12702
-    engagement: 620
-    commentsToLikes: 0.044531
-    id: ckap1o61jvdsj0i78njw9k4qr
+    followers: 246474
+    engagement: 163
+    commentsToLikes: 0.112738
+    id: ck5zr1g3qvpny0i14runqyi19
     verified: false
-    hashtags: "#today, #portugal, #fashionblogger, #fitnessmotivation"
-  - username: "vicenteixeiraa"
+    hashtags: "#pub, #calzedonia, #ootd, #inspo"
+  - username: "zeblackturboofficial"
     fullname: >-
-      ᴠɪᴄᴇɴᴛᴇ ᴛᴇɪxᴇɪʀᴀ
+      Zé Preto
     bio: >-
-      🦂|MENSTYLE |FITNESS 📸 @vinespresets 📍Coimbra, Portugal 10% OFF @trendhim ⬇️⬇️⬇️
+      ➡️🦁inhuman calisthenics 🦁 ➡️☀️52 years old 💪🏿 ➡️💪pro calisthenics 💪 ➡️gravity fitness code: ze10
     location: "Portugal"
-    followers: 8392
-    engagement: 650
-    commentsToLikes: 0.025446
-    id: ckaoxo8lxe3d50i784hkn141j
+    followers: 290760
+    engagement: 884
+    commentsToLikes: 0.041959
+    id: ck6tulw93h34k0j71i5ndwdae
     verified: false
-    hashtags: "#mensoutfit, #mensfashion, #porto, #summervibes"
-  - username: "pcngomes27"
+    hashtags: "#finessmotivation, #barflex, #calisthenicstraining, #viralposts"
+  - username: "mikepiekofficial_"
     fullname: >-
-      Pedro Gomes
+      Mike Piek
     bio: >-
-      📍Porto • PERSONAL TRAINER: Fitnesshut Antas, Outdoor e Domicílio
+      FITNESS | FASHION | LIFESTYLE 📍Kampen 👨‍💼Owner of @thelifeiliveofficial Collaboration: 📩
     location: "Portugal"
-    followers: 9987
-    engagement: 440
-    commentsToLikes: 0.010645
-    id: ckf5ub9kbk8s20j238go6irp7
+    followers: 107943
+    engagement: 539
+    commentsToLikes: 0.115433
+    id: cl1uc0zl4cexg0i23rn0ejegp
     verified: false
-    hashtags: "#nature, #summervibes, #portugal, #men"
-  - username: "barbarapintoribeiro"
+    hashtags: "#dream, #personality, #entrepreneur, #philippines"
+  - username: "bruna_danin"
     fullname: >-
-      Bárbara
+      Bruna Danin
     bio: >-
-      👉🏽Unagi @espelhomeu_hairstudio
+      📷 photo 👗 fashion and lifestyle 📨 DM for collaboration 📩 Brunadanin@hotmail.com @fitnessup_portugal : UP-BRUNADANIN 15€ desc
     location: "Portugal"
-    followers: 26562
-    engagement: 869
-    commentsToLikes: 0.019210
-    id: ck8t79lu6g1i90j78ujqac4rf
+    followers: 31785
+    engagement: 210
+    commentsToLikes: 0.020753
+    id: ck5zp7pghs5dl0i14hz9ssf4l
     verified: false
-    hashtags: "#porto, #tb, #travelling, #ootd"
+    hashtags: "#fashionstyle, #travelphotography, #lookdodia, #excedyourself"
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Singapore In 2023
+title: Top 10 Dancers Instagram Influencers In Singapore In 2024
 description: >-
-  Find top dancers Instagram influencers in Singapore in 2023. Most popular hashtags: #singapore #dance #sgdance #dancer.
+  Find top dancers Instagram influencers in Singapore in 2024. Most popular hashtags: #singapore #dance #sgdance #dancer.
 platform: Instagram
-hits: 9
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 9 Instagram influencers like this in Singapore for you to contact.
+hits: 10
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 10 Instagram influencers like this in Singapore for you to collaborate.
 profiles:
+  - username: "andeecys"
+    fullname: >-
+      ANDEE CHUA 滷蛋
+    bio: >-
+      📍🇸🇬🇹🇼🏳️‍🌈⁣⁣ Fitness | Model | Dancer | Community⁣ LGBTQ+ | Diversity & Inclusion | Travel ⁣⁣ ✨PM/email me for any engagement work
+    location: "Singapore"
+    followers: 139205
+    engagement: 150
+    commentsToLikes: 0.023002
+    id: ck5q1rgx9cezn0i11wnya42r2
+    verified: true
+    hashtags: "#gaytravel, #lgbtq, #sentosa, #tokyo"
   - username: "lovefromflik"
     fullname: >-
       Flik Renée
@@ -31,18 +43,6 @@ profiles:
     id: ck5ch08fmpv5u0i11npjqq61o
     verified: false
     hashtags: "#womenhiphop, #hiphopsg, #nikewoman, #sgdance"
-  - username: "andeecys"
-    fullname: >-
-      ANDEE CHUA 安迪
-    bio: >-
-      🚶🏻International Model ✨Co-Founder @kampungcollective 🎙Dancer & Emcee 🔥PM/email me for any engagement work 👇🏻Subscribe to #Hugodee Youtube
-    location: "Singapore"
-    followers: 136413
-    engagement: 199
-    commentsToLikes: 0.028856
-    id: ck5q1rgx9cezn0i11wnya42r2
-    verified: true
-    hashtags: "#fitspo, #weekendvibes, #hugodee, #tgif"
   - username: "meowthecatlady"
     fullname: >-
       Melissa "Cat Lady"
@@ -79,6 +79,18 @@ profiles:
     id: ck5zk68jziw6s0i14fy0jskbx
     verified: false
     hashtags: "#asian, #performance, #body, #choreography"
+  - username: "kyung.2k"
+    fullname: >-
+      KYUNGHOON 경훈
+    bio: >-
+      2K 🇰🇷🇸🇬 @fakyu_sg I create content too ✨ #FKBN #Kyungsmen @sejongkorean Dance • Beatbox • Emcee • Translate • Act Danzppl • Courses • Collab [DM]
+    location: "Singapore"
+    followers: 36322
+    engagement: 844
+    commentsToLikes: 0.031956
+    id: ck5zk5xluivka0i14hn9ylz5f
+    verified: false
+    hashtags: "#learnkoreanwithfenandmok, #igsg, #singapore, #dance"
   - username: "adelewong"
     fullname: >-
       Adele Wong 王筱惠
@@ -103,16 +115,16 @@ profiles:
     id: ck5zk63x5ivy10i14g6q7vgzs
     verified: false
     hashtags: "#ovamarz, #singaporedance, #dancedaily, #singaporegirl"
-  - username: "poojakawatra"
+  - username: "matildegirasole"
     fullname: >-
-      Pooja Kawatra | Family |Mom| Lifestyle
+      Matilde Girasole
     bio: >-
-      🇮🇳 🇸🇬 Be the change you want to see.. Nov/Dec✈️Europe🇫🇷 🇨🇭 🇦🇹 🇭🇺 #CancerSurvivor Founder @makeadifferencechangelives Lancôme’s 100 Inspiring Women
+      MATILDE G - Singer Songwriter 🇮🇹🇸🇬 Bookings: info@matildeg.com
     location: "Singapore"
-    followers: 74096
-    engagement: 239
-    commentsToLikes: 0.044652
-    id: ckf5rn8v8da8x0j23kh286zat
+    followers: 35834
+    engagement: 1270
+    commentsToLikes: 0.009788
+    id: ck9hccoa9ks7e0j78l9wt94ze
     verified: false
-    hashtags: "#mums, #reelsinstagram, #christmas, #india"
+    hashtags: "#newreleases, #noneofyourbusiness, #dancemusic, #singersongwriter"
 ---

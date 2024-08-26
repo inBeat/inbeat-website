@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs TikTok Influencers In Germany In 2023
+title: Top 10 Chefs TikTok Influencers In Germany In 2024
 description: >-
-  Find top chefs TikTok influencers in Germany in 2023. Most popular hashtags: #chef #comedy #fun #lustig.
+  Find top chefs TikTok influencers in Germany in 2024. Most popular hashtags: #chef #comedy #fun #lustig.
 platform: TikTok
 hits: 24
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our platform has 24 TikTok influencers like this in Germany for you to pitch.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 24 TikTok influencers like this in Germany for you to work with.
 profiles:
   - username: "karriereguru"
     fullname: >-

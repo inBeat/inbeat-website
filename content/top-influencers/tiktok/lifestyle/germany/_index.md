@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Germany In 2023
+title: Top 10 Lifestyle TikTok Influencers In Germany In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #fyp #luxurycar.
+  Find top lifestyle TikTok influencers in Germany in 2024. Most popular hashtags: #foryou #fyp #fy.
 platform: TikTok
 hits: 72
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 72 TikTok influencers like this in Germany for you to connect with.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 72 TikTok influencers like this in Germany for you to work with.
 profiles:
   - username: "blackout"
     fullname: >-
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.036183
     id: ck81sau76ray60j783cw2ep7b
     verified: false
-    hashtags: "#rollsroyce, #wusstestdu, #tippdestages, #luxurycar"
+    hashtags: "#unpacking, #rollsroyce, #wusstestdu, #champagne"
 ---

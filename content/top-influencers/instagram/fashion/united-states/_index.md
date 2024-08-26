@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In United States In 2023
+title: Top 10 Fashion Instagram Influencers In United States In 2024
 description: >-
-  Find top fashion Instagram influencers in United States in 2023. Most popular hashtags: #fashionreels #contentcreators #ad.
+  Find top fashion Instagram influencers in United States in 2024. Most popular hashtags: #liketkit #summeroutfits #summeroutfitideas.
 platform: Instagram
-hits: 43860
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database has 43860 Instagram influencers like this in United States for you to collaborate.
+hits: 43370
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 43370 Instagram influencers like this in United States for you to pitch.
 profiles:
-  - username: "__penge"
+  - username: "mrsmarionms"
     fullname: >-
-      Mad.
+      Marion | Fashion & Lifestyle
     bio: >-
-      Fashion
+      Parisian fashion lover living the lifestyle of her dream! Wife💍 Mom 👶🏻 💌 hello@marionms.com
     location: "United States"
-    followers: 2968
-    engagement: 1661
-    commentsToLikes: 0.054290
-    id: ck13a4ednokpv0i19hcek1vxw
+    followers: 12252
+    engagement: 630
+    commentsToLikes: 0.148094
+    id: ck15papi2wxr60i19jci3aikt
     verified: false
     hashtags: ""
-  - username: "behamin"
+  - username: "tokyotolagirl"
     fullname: >-
-      Behamin • بهامين
+      Shiyoko Nataniya
     bio: >-
-      Fashion | Beauty | Lifestyle | Design 🇺🇸 💚🕊❤️ 📍California Architect @home.by.bb 🐈 @benjibanubilu 📩 behamin.archi@gmail.com
+      🙋🏻‍♀️ | Pinterest gal 📍 | LA ✨ | Aesthetic fashion, lifestyle & beauty inspo 🤳 | UGC 💌 | tokyotolagirl@gmail.com SHOP MY FEED⬇️
     location: "United States"
-    followers: 487738
-    engagement: 571
-    commentsToLikes: 0.033819
-    id: ck0u741343nni0i1969xnaly0
+    followers: 36454
+    engagement: 1538
+    commentsToLikes: 0.049032
+    id: ck5zypsduaawo0i14e5m3m57k
     verified: false
-    hashtags: "#iranrevolution, #mahsaamini, #womanlifefreedom, #luluspartner"
-  - username: "nataliekennedyblog"
+    hashtags: "#coquettegirl, #pinkaesthetic, #grwmreel, #jcpfam"
+  - username: "maddiestoltzfusxo"
     fullname: >-
-      Natalie Kennedy
+      Maddie Stoltzfus | UGC | Content creator
     bio: >-
-      Nashville • fashion • home • healthy recipes Poppy’s mom 🤍 + baby girl #2 on the way 💍 @patrickkennedy1223 Shop my outfits & presets ⬇️
+      —— Fashion, beauty, lifestyle —— Pennsylvania engaged 💍 ✉️ stoltzfusmaddie@gmail.com
     location: "United States"
-    followers: 573501
-    engagement: 452
-    commentsToLikes: 0.056414
-    id: ck15pk4joy9z30i19xg53dw1e
+    followers: 14605
+    engagement: 509
+    commentsToLikes: 0.422949
+    id: ckqas80x2kz1w0j2311gad6a1
     verified: false
-    hashtags: "#walmartpartner, #liketkit, #bumpstyle, #walmartfashion"
-  - username: "mermaidsonmainstreet"
+    hashtags: "#streetstyle, #ootd, #pov, #coffee"
+  - username: "jessicalaure_l"
     fullname: >-
-      Alex • Disney Creator, Disney Mama
+      Jessica L Hall
     bio: >-
-      Treats, Tantrums & Travels!💫 Disney Fashion on a Budget! 📍Disneyland, Ca is H O M E Inspire Key Holders 🔑 📩mermaidsonmainstreet@gmail.com
+      Lifestyle Creator, Mommy, Fashionista. Seen in @forbes @essence 📧 Hello@JessicaLHall.com 📍 #Raleigh #Durham #Charlotte #NC 👩🏾‍🏫 Mental Health
     location: "United States"
-    followers: 24037
-    engagement: 877
-    commentsToLikes: 0.113247
-    id: ck5qddtlzv2sy0i11l3iwcrcg
+    followers: 49582
+    engagement: 630
+    commentsToLikes: 0.111742
+    id: ck8t0odv7sp360j7874plcisd
     verified: false
-    hashtags: "#disneybounding, #disneynews, #disneyinstagram, #disneylandanaheim"
-  - username: "diana_eneje"
+    hashtags: "#raleighinfluencers, #charlottefashion, #nccreatives, #liketkit"
+  - username: "farnazjavdankherad"
     fullname: >-
-      Diana Eneje
+      Farnaz
     bio: >-
-      •Model|Influencer •Most Influential & Fashionable 🥇 💕 Shop @theshinecartel 📧management@dianaeneje.com
+      businesswoman owner and founder of @f.jcollection fashion 📧farnaz.javdan@gmail.com
     location: "United States"
-    followers: 881412
-    engagement: 609
-    commentsToLikes: 0.010877
-    id: ck8syqlu2lmpq0j78qrada67j
+    followers: 46916
+    engagement: 1066
+    commentsToLikes: 0.053044
+    id: ck6u4x2da6a4m0j71adqdys8y
     verified: false
-    hashtags: "#completefreshprotection, #reels, #closeupnigeria, #maldives"
-  - username: "angelica.christinee"
+    hashtags: "#photography, #style, #couplegoals, #goodvibes"
+  - username: "lindaminjukim"
     fullname: >-
-      Angelica Christine 💗
+      Linda Kim
     bio: >-
-      🌟Content Creator | AZ Fashion Lifestyle Travel 📍 AZ 💖Tiktok: Angelica.christine 💌 adabroskii28@gmail.com
+      Los Angeles📍 Lifestyle | Beauty | Fashion → lindaminjukim@gmail.com
     location: "United States"
-    followers: 9108
-    engagement: 414
-    commentsToLikes: 0.161648
-    id: ck15t378ng4ca0i195zq1kjnh
+    followers: 10337
+    engagement: 534
+    commentsToLikes: 0.379834
+    id: ckq0ivezidd9i0j23dx5v7it4
     verified: false
-    hashtags: "#fableticspartner, #myfabletics, #eastcoastblogger, #trendystyle"
-  - username: "tingmystyle"
+    hashtags: "#brunchideas, #lovelulus, #summeroutfits, #eatstagram"
+  - username: "tyra_fisher"
     fullname: >-
-      Ting Ma
+      TYRA FISHER
     bio: >-
-      Fashion🎸Fitness🎸Beauty #thisis52 #proaging Aging is a privilege ! 📍Chicago/San Diego 📧: tingmystyle168@gmail.com
+      fashion and food are my aesthetic✌🏾 NYC 🍒 Social @vspink 💌 tyrafisher99@gmail.com
     location: "United States"
-    followers: 137144
-    engagement: 613
-    commentsToLikes: 0.084561
-    id: ck0w49r7mxhxq0i198zn6sfa8
+    followers: 8046
+    engagement: 680
+    commentsToLikes: 0.110423
+    id: ckaorkwu3now30i781odcbc8l
     verified: false
-    hashtags: "#over50fitness, #over50women, #absworkout, #over50andfit"
-  - username: "imjoanasosa"
+    hashtags: "#summerootd, #summeraesthetic, #nycfitcheck, #nycrooftops"
+  - username: "mayfiscella"
     fullname: >-
-      joana - modest fashion inspo🕊
+      M A Y 👽 美 芝
     bio: >-
-      ♡ daily (realistic) modest fashion 🕊 @emmacastcreative | @shopjomily 💌 hijoanasosa@outlook.com
+      *ᴍᴜᴄʜ ᴡᴇɪʀᴅᴇʀ ɪɴ ᴘᴇʀsᴏɴ #fashion #beauty #lifestyle #gaming PR/Collabs: mayfiscella@gmail.com 📍: D[M]V 🕙: Tiktok @mayfiscella (64K+)
     location: "United States"
-    followers: 55433
-    engagement: 708
-    commentsToLikes: 0.014279
-    id: cky723rcxjf9f0j232xend8kn
+    followers: 38619
+    engagement: 1610
+    commentsToLikes: 0.021078
+    id: ck9hcxh2nnd9c0j785mcc1rut
     verified: false
-    hashtags: "#modestfashion, #skirtstyle, #modafemenina, #modestfashionista"
-  - username: "hey_itsday"
+    hashtags: "#selfie, #hapakristin, #dating, #selca"
+  - username: "hafeezhtx"
     fullname: >-
-      day ☕️👢💐🧸🕊
+      Hafeez Baoku
     bio: >-
-      GA || @aoiigsu lover of fashion, coffee, & taking pics 💌biz inquires: dayrmccallum@gmail.com my amazon storefront & links ↴
+      🧥Men’s Fashion & Lifestyle 👔 Co-Founder @theaffluentstandard ✈️ CEO of @roommateshtx Join The Standard Here👇
     location: "United States"
-    followers: 3855
-    engagement: 861
-    commentsToLikes: 0.130863
-    id: cksuaike47dp80j23yy0kljrh
+    followers: 34105
+    engagement: 448
+    commentsToLikes: 0.050043
+    id: ck8szidiaok690j783bs10c23
     verified: false
-    hashtags: "#poseideas, #minimalstyle, #pinterestgirl, #outfitideas"
-  - username: "aboutritvi"
+    hashtags: "#houstonfit, #houstonfitness, #fitnessmotivation, #fitness"
+  - username: "tinsleyerin"
     fullname: >-
-      Ritvi Shah | Content Creator
+      Tinsley Erin
     bio: >-
-      I do all things Fashion with Travel, Lifestyle, and Beauty Currently in Mumbai🌞 📧: workwithritvi@gmail.com w/ @iplixmedia Use #reelswithritvi 🌹
+      Lifestyle • Fashion • Beauty • Home A city girl in the south, living the mom life. 🇳🇬 📍Dallas, TX PR@tinsleyerin.com
     location: "United States"
-    followers: 224675
-    engagement: 2767
-    commentsToLikes: 0.005231
-    id: ckxp829m0a9g40j23nm7l1gam
+    followers: 31007
+    engagement: 563
+    commentsToLikes: 0.012974
+    id: ck5hrmlilv4av0i11xjrno69f
     verified: false
-    hashtags: "#saudiarabia, #riyadhseason, #diriyah, #wednesdayaddams"
+    hashtags: "#liketkit, #ltkfind, #ad, #renaissanceworldtour"
 ---

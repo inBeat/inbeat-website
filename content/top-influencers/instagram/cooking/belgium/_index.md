@@ -1,12 +1,24 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Belgium In 2023
+title: Top 10 Cooking Instagram Influencers In Belgium In 2024
 description: >-
-  Find top cooking Instagram influencers in Belgium in 2023. Most popular hashtags: #belgium #rose #minimal #ootd.
+  Find top cooking Instagram influencers in Belgium in 2024. Most popular hashtags: #belgianblogger #foodblogger #foodie #ootd.
 platform: Instagram
-hits: 11
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 11 Instagram influencers like this in Belgium for you to collaborate.
+hits: 44
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database holds 44 Instagram influencers like this in Belgium for you to collaborate.
 profiles:
+  - username: "beauty_yous"
+    fullname: >-
+      Yousra Jay-Yufi
+    bio: >-
+      📍Brussels Collab : Beauty_yous@talentsquad.be Other : perledu1000@hotmail.com Compte Food : @cooking.with.yous Alpro Ambassador 2023
+    location: "Belgium"
+    followers: 66822
+    engagement: 71
+    commentsToLikes: 0.041209
+    id: cloxohfn6066p0j08dip8wozc
+    verified: false
+    hashtags: "#belgique, #belgium, #publicit, #belgiuminfluencer"
   - username: "phorphor__kim"
     fullname: >-
       Phorphor__kim
@@ -18,7 +30,7 @@ profiles:
     commentsToLikes: 0.009843
     id: ck15rhntb7zc90i19ln9lnfjr
     verified: false
-    hashtags: "#fashion, #outfits, #blogger, #modeling"
+    hashtags: "#ootdinspiration, #ootdshare, #jeans, #black"
   - username: "maya_poppins"
     fullname: >-
       Motherhood PlayIdeas Lyfestyle
@@ -31,6 +43,78 @@ profiles:
     id: ckaosx617tf860i78y5t9lpd1
     verified: false
     hashtags: "#foodporn, #royalsnappingartists, #kids, #foodstyling"
+  - username: "sylvia_foodlover"
+    fullname: >-
+      Sylvia
+    bio: >-
+      ❤️Receptontwikkelaar ❤️Foodfotografie & Styling ❤️samenwerken ? BTW BE 0785.264.290 MET VRIJSTELLINGSREGEL - 8400 OOSTENDE
+    location: "Belgium"
+    followers: 8874
+    engagement: 508
+    commentsToLikes: 0.330085
+    id: ck136ee6462vs0i19be3995bz
+    verified: false
+    hashtags: "#homecooking, #eat, #whatsonmyplate, #comfortfood"
+  - username: "alia.rds"
+    fullname: >-
+      Alizée ❤️‍🔥
+    bio: >-
+      🐷 Ça graille fort ici 👩🏻‍🍳 Cool cheffe @gorditaliege
+    location: "Belgium"
+    followers: 28186
+    engagement: 397
+    commentsToLikes: 0.056209
+    id: ck5zsef7gycbi0i14x80rg8ta
+    verified: false
+    hashtags: "#lespetitsplatsdali, #recettesaine, #vegetarien, #vegan"
+  - username: "tiffany_vanhille"
+    fullname: >-
+      𝓣𝓲𝓯𝓯𝓪𝓷𝔂 𝓥𝓪𝓷𝓱𝓲𝓵𝓵𝓮
+    bio: >-
+      🌈 Owner of @nailicious_bytiffany ღ 23 | Belgium | Student Crimi ღ Fashion & Food Lover Collabs: DM or Mail
+    location: "Belgium"
+    followers: 5371
+    engagement: 173
+    commentsToLikes: 0.428498
+    id: ckqas82j5l0kj0j23qmzbulnr
+    verified: false
+    hashtags: "#fashionblogger, #ghent, #fashionstyle, #gent"
+  - username: "terry_4wag"
+    fullname: >-
+      𝗧𝗲𝗿𝗿𝘆 𝗕𝗮𝗹𝗹𝗶𝗲𝘂
+    bio: >-
+      🖊 Editor in chief / 4WeAreGamers 🇧🇪 💥 #Gaming, #HighTech and #movies enthusiast 🤝 PR only : 4wearegamers@gmail.com My links ⬇️
+    location: "Belgium"
+    followers: 15335
+    engagement: 33
+    commentsToLikes: 0.008304
+    id: ck9wda3c4es1p0j787oon27f1
+    verified: false
+    hashtags: "#gaming, #dualsense, #gamingcommunity, #instagaming"
+  - username: "mairee.dj"
+    fullname: >-
+      MAIREE
+    bio: >-
+      🌍 #107 DJ MAG 2022 💽 DJ/PRODUCER: 150millions + Streams & Views 🔊Supported by: David Guetta, Martin Garrix, Tiesto, … 📥 Collab: mairee@evency.sk
+    location: "Belgium"
+    followers: 87817
+    engagement: 35
+    commentsToLikes: 0.002481
+    id: ck5zw9sk35qvq0i14x9hdq3y1
+    verified: true
+    hashtags: "#techno, #dj, #edm, #rave"
+  - username: "eliengrosemans"
+    fullname: >-
+      Elien Grosemans
+    bio: >-
+      A glimpse into my life 📷✨👓 👀 Co-owner @optiekunique 💍 @meuwissenjules
+    location: "Belgium"
+    followers: 24227
+    engagement: 10
+    commentsToLikes: 0.000000
+    id: ck136f5l466vt0i19gu5wjctb
+    verified: false
+    hashtags: "#girlsgoneloavies, #loavies, #mmvillage, #easyhairstyle"
   - username: "yasminevandenmeersch"
     fullname: >-
       YASMINE | Bookish optimist
@@ -43,88 +127,4 @@ profiles:
     id: ck5cdpth1jklb0i11zszmk5lx
     verified: false
     hashtags: "#happiness, #whatiwore, #discoverunder5k, #outfitinspiration"
-  - username: "chlovdw"
-    fullname: >-
-      Chloë Van de Walle
-    bio: >-
-      FIERCE FASHION & FOOD LOVER ♡ ➵ Belgium based | 90’s kid ➵ Wifey of @debackerjerre 💍 ➵ Proud (plus)mommy of Ariane & Emma 💕
-    location: "Belgium"
-    followers: 4668
-    engagement: 296
-    commentsToLikes: 0.182215
-    id: ck0vvf3s5ouu00i19aeaq98gh
-    verified: false
-    hashtags: "#vlaamseblogger, #bunintheoven, #firstborn, #preggobelly"
-  - username: "epicurusfrombelgium"
-    fullname: >-
-      Youri the Belgian Epicurean
-    bio: >-
-      #wine 🍷 #BBQ 🔥 #gastronomy 🍺 #oenologist on my way to become #sommelier Posting only products tasted/cooked Follow my epicurean life & reviews 👇
-    location: "Belgium"
-    followers: 3839
-    engagement: 1056
-    commentsToLikes: 0.075747
-    id: ck14li2l3us8k0i196xog8l15
-    verified: false
-    hashtags: "#winetime, #winegram, #wineporn, #webergrill"
-  - username: "julie.p_fotografie"
-    fullname: >-
-      Horse & Dog Photography
-    bio: >-
-      Belgian Photographer 🇧🇪 6 sponsored dressage riders 🖤 Brand or store looking for a collaboration? DM me 📩
-    location: "Belgium"
-    followers: 4705
-    engagement: 401
-    commentsToLikes: 0.017018
-    id: ck6u5n82falq00j71ktcnzuml
-    verified: false
-    hashtags: "#matching, #equinestyle, #pferdebilder, #pferdesport"
-  - username: "obumex_interiors"
-    fullname: >-
-      Obumex
-    bio: >-
-      Belgian kitchen and interior that fits your personality and furniture in harmony! Always looking for longlife elegance!
-    location: "Belgium"
-    followers: 71636
-    engagement: 98
-    commentsToLikes: 0.009926
-    id: ck5cfpvq7nf9z0i11l4hjt3p2
-    verified: false
-    hashtags: "#madetomeasure, #whenobjectswork, #obumexkitchens, #bespokeinteriors"
-  - username: "photo_sebastian"
-    fullname: >-
-      Hamburg & traveling
-    bio: >-
-      architecture - long exposure - black and white 📷 Canon 5D Mark IV mod @tv_buildings member @raw_community
-    location: "Belgium"
-    followers: 2575
-    engagement: 1528
-    commentsToLikes: 0.067465
-    id: ck5chsw2erej30i111zktkfnz
-    verified: false
-    hashtags: "#arkiminimal, #archilovers, #minimal, #archi"
-  - username: "rumanamolla"
-    fullname: >-
-      Rumana Molla
-    bio: >-
-      Artist represented by @luckystar_international Movies - #bawrichhori #Irada #pyaarkapunchnama2 #trialofsatyamkaushik #lifesahihai #itsnotthatsimple
-    location: "Belgium"
-    followers: 57450
-    engagement: 294
-    commentsToLikes: 0.068947
-    id: ck5bwlw5wlyef0i116cggj35f
-    verified: false
-    hashtags: "#bawrichhori, #palghar, #devdd2, #erosnow"
-  - username: "nickbril"
-    fullname: >-
-      Nick Bril
-    bio: >-
-      Chef/DJ/restaurateur/father/. @thejaneantwerp🌟🌟 18GM+64TBC.@augustantwerp 15GM djbookings @wearekurious @drinkmaryv @symbiosebythejane .
-    location: "Belgium"
-    followers: 36799
-    engagement: 208
-    commentsToLikes: 0.034985
-    id: ck14hb49y9fn40i19gswd0o5g
-    verified: false
-    hashtags: "#thejaneantwerp, #nickbril, #dj, #takeawayfood"
 ---

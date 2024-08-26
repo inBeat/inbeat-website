@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Greece In 2023
+title: Top 10 Architecture Instagram Influencers In Greece In 2024
 description: >-
-  Find top architecture Instagram influencers in Greece in 2023. Most popular hashtags: #architecture #greece #photography #ig.
+  Find top architecture Instagram influencers in Greece in 2024. Most popular hashtags: #architecture #greece #travelgram #travel.
 platform: Instagram
-hits: 66
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 66 Instagram influencers like this in Greece for you to connect with.
+hits: 78
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 78 Instagram influencers like this in Greece for you to work with.
 profiles:
   - username: "vivi_diamantidou"
     fullname: >-
@@ -19,18 +19,54 @@ profiles:
     id: ck8tbgolivlh20j785b6xy6ly
     verified: false
     hashtags: "#inspiration, #mood, #decor, #realestate"
-  - username: "yatzer"
+  - username: "marryretsina"
     fullname: >-
-      Yatzer
+      Mary Retsina
     bio: >-
-      TAKE YOUR INSPIRATION SERIOUSLY #yatzer_inspiration Founder @CostasVoyatzis • Executive Editor @Errikos.David @Yatzerlab Athens, Greece
+      Ticket To Ride Podcast @aegeanairlines 🎙️ Radio Presenter | VoiceOver Artist Jubilee Column @yokethebrand | Brand Ambassador @josecuervogr
     location: "Greece"
-    followers: 150904
-    engagement: 80
-    commentsToLikes: 0.004690
-    id: ck5btdf7efrjo0i11gpvgeeii
+    followers: 11222
+    engagement: 261
+    commentsToLikes: 0.021040
+    id: ck55j2t3rw4ow0i11nlz7b3xf
     verified: false
-    hashtags: "#worldofinteriors, #installationart, #interiorstyling, #archidaily"
+    hashtags: "#peloponnese, #kinsternahotel, #kinsterna, #traveller"
+  - username: "minogiannisvalantis"
+    fullname: >-
+      Valantis M
+    bio: >-
+      F/A @divine_villages F/A @divineingreece Admin @divine.worldplaces Admin @divine_ladolcevita
+    location: "Greece"
+    followers: 175169
+    engagement: 155
+    commentsToLikes: 0.054944
+    id: ck0ty3kv9lh660i19i6yj40o6
+    verified: false
+    hashtags: "#mykonos, #wonderful, #alley, #wu"
+  - username: "vickybouzouni"
+    fullname: >-
+      Vicky Bouzouni
+    bio: >-
+      Tv Presenter 🧿
+    location: "Greece"
+    followers: 110697
+    engagement: 76
+    commentsToLikes: 0.021184
+    id: ck6tvtrzlo8iu0j71xt0wv4f6
+    verified: false
+    hashtags: "#greece, #luxuryrealestate, #home, #interiordesign"
+  - username: "lecollectionist"
+    fullname: >-
+      Le Collectionist
+    bio: >-
+      We create your tailor-made holiday from our collection of exceptional houses and memorable experiences. +33 1 73 03 02 02
+    location: "Greece"
+    followers: 228168
+    engagement: 69
+    commentsToLikes: 0.017105
+    id: cl3w8zownd5xr0i23um3s8bhb
+    verified: false
+    hashtags: "#luxurytravel, #travelgram, #summer, #architecture"
   - username: "katerinakratira"
     fullname: >-
       Katerina Kratira 💃🏻
@@ -42,7 +78,7 @@ profiles:
     commentsToLikes: 0.127053
     id: ck8t5phtkaswb0j78o7l64xrr
     verified: false
-    hashtags: "#travelphotography, #sheingals, #summervibes, #parosisland"
+    hashtags: "#italytravel, #latindancing, #parosisland, #veneto"
   - username: "yvetmarietravels_"
     fullname: >-
       𝒴𝓋𝑒𝓉𝓉𝑒💕
@@ -91,40 +127,4 @@ profiles:
     id: ckaoy3zl1fyjb0i78rebculhb
     verified: false
     hashtags: "#exploremorocco, #beijingtrip, #instabeijing, #morocco"
-  - username: "alexandros._.art"
-    fullname: >-
-      Alexandr➰s A®t
-    bio: >-
-      📸....𝕀 𝕕𝕠𝕟’𝕥 𝕤𝕙𝕠𝕠𝕥 𝕨𝕙𝕒𝕥 𝕚𝕥 𝕝𝕠𝕠𝕜𝕤 𝕝𝕚𝕜𝕖, 𝕚 𝕤𝕙𝕠𝕠𝕥 𝕨𝕙𝕒𝕥 𝕚𝕥 𝕗𝕖𝕖𝕝𝕤 𝕝𝕚𝕜𝕖....⠀ ℙ𝕙𝕪𝕤𝕚𝕠𝕥𝕙𝕖𝕣𝕒𝕡𝕚𝕤𝕥 🔸ℙ𝕙𝕠𝕥𝕠𝕘𝕣𝕒𝕡𝕙𝕖𝕣⠀ 📷 ℙ𝕙𝕠𝕥𝕠𝕤⠀ 🔺 𝕊𝕠𝕟𝕪 𝕦𝕤𝕖𝕣 ⠀ 🌍𝕋𝕣𝕒𝕧𝕖𝕝𝕤⠀ 🎵 𝕄𝕦𝕤𝕚𝕔
-    location: "Greece"
-    followers: 10713
-    engagement: 1026
-    commentsToLikes: 0.078544
-    id: ck9wfhiv2ou7q0j786zjdu62g
-    verified: false
-    hashtags: "#streetphotography, #athensvoice, #raw, #portraitvision"
-  - username: "sotirisdimi"
-    fullname: >-
-      Sotiris Dimitrakopoulos
-    bio: >-
-      🌍 Traveller/Photographer/Coffee lover 🇬🇷 Greece 📷 Canon 🖖 25 y/o ⬇️ Prints here ⬇️
-    location: "Greece"
-    followers: 10106
-    engagement: 1770
-    commentsToLikes: 0.037148
-    id: ck13atbn8s2x20i19fiaxivbl
-    verified: false
-    hashtags: "#visualsoflife, #veneziadavivere, #igphotographia, #wonderful"
-  - username: "natalialampropoulou"
-    fullname: >-
-      Natalie’s Cozyland
-    bio: >-
-      Video Content Creator | DIY Youtuber | Filmmaker | illustrator | jewerly designer last youtube video:
-    location: "Greece"
-    followers: 10565
-    engagement: 568
-    commentsToLikes: 0.291878
-    id: ck5qdkqsnw21y0i11tuf3cxhz
-    verified: false
-    hashtags: "#happynewyear, #greekinstagrammer, #nataliescozyland, #crafter"
 ---

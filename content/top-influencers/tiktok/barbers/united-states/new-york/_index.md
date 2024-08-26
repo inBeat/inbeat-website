@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In New York In 2023
+title: Top 10 Barbers TikTok Influencers In New York In 2024
 description: >-
-  Find top barbers TikTok influencers in New York in 2023. Most popular hashtags: #fyp #barber #foryou #newyork.
+  Find top barbers TikTok influencers in New York in 2024. Most popular hashtags: #barber #fyp #newyork #foryou.
 platform: TikTok
 hits: 12
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine holds 12 TikTok influencers like this in New York, United States for you to pitch.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our database aggregates 12 TikTok influencers like this in New York, United States for you to contact.
 profiles:
   - username: "riteside"
     fullname: >-
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.020170
     id: ckb9q6ue8lrdt0j232ncfoia8
     verified: false
-    hashtags: "#makethisblow, #fyp, #foryou, #fuu"
+    hashtags: "#funny, #viral, #trendingtopic, #fyp"
   - username: "shugzaddy"
     fullname: >-
       Edgar Rodriguez
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.044171
     id: ckahyja4czksg0i788ckn9t3p
     verified: false
-    hashtags: "#viral, #sunday, #money, #bored"
+    hashtags: "#california, #follow, #rap, #funny"
 ---

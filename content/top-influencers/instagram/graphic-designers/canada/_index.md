@@ -1,12 +1,36 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Canada In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Canada In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Canada in 2023. Most popular hashtags: #design #graphicdesign #graphicdesigner #artist.
+  Find top graphic-designers Instagram influencers in Canada in 2024. Most popular hashtags: #graphicdesign #graphicdesigner #illustrator #design.
 platform: Instagram
-hits: 13
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 13 Instagram influencers like this in Canada for you to collaborate.
+hits: 16
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 16 Instagram influencers like this in Canada for you to connect with.
 profiles:
+  - username: "emmamiskew"
+    fullname: >-
+      Emma Miskew
+    bio: >-
+      🇨🇦 | Canadian Olympian 🏆 | 2x World Champ 🥌 | Second on @team_homan 👩🏼‍💻 | Graphic Designer @emmamiskewdesign 🪵 | Owner of @shimmerandoak
+    location: "Canada"
+    followers: 27439
+    engagement: 615
+    commentsToLikes: 0.026796
+    id: ck5zqxpvyvi3i0i14jn3qdloo
+    verified: true
+    hashtags: "#stoh2024, #sportyourperiod, #15, #tula"
+  - username: "the6atsix"
+    fullname: >-
+      Beamer😎Walczak
+    bio: >-
+      🌆Toronto's⚡️GoldenBoy😸 😅Comedian/🙅🏽‍♂️Sober💪🏾/Graphic Designer💻 🎥YouTubing Bus Life!🚌 👁‍🗨Logo Creation Page: @sixlogos 🖋
+    location: "Canada"
+    followers: 107994
+    engagement: 228
+    commentsToLikes: 0.068159
+    id: ck6004z4pcyjv0i147qy4cw3s
+    verified: false
+    hashtags: "#vlogger, #buslife, #the6atsix, #6ixinthestix"
   - username: "fullsnack_developer"
     fullname: >-
       Nicholas Olsen | Developer
@@ -42,7 +66,7 @@ profiles:
     commentsToLikes: 0.054636
     id: ck5zxc8t07qnd0i142l9xzqgd
     verified: false
-    hashtags: "#plant, #drawing, #summer, #photoshop"
+    hashtags: "#adobe, #design, #inktober, #selfcare"
   - username: "gochu.design"
     fullname: >-
       Gochu
@@ -54,31 +78,19 @@ profiles:
     commentsToLikes: 0.013153
     id: ckaoqvoupkmeh0i78ptkmk680
     verified: false
-    hashtags: "#edits, #vaporwave, #tokyo, #dragonballz"
-  - username: "s.z.a.theory"
+    hashtags: "#90sfashion, #retroart, #vintage, #anime"
+  - username: "adam_theillustrator"
     fullname: >-
-      Szabi
+      Adam, The Illustrator
     bio: >-
-      🇬🇧 Bath, England | 🇨🇦 Toronto, Canada Graphic Designer, Sometimes Photographer 📷 Sony α7rIII
+      ✏️ Illustrator / Designer 😌 Healing the World One Smiley Face at a Time
     location: "Canada"
-    followers: 7983
-    engagement: 1022
-    commentsToLikes: 0.061201
-    id: ck0vx3mc7wyxg0i195656bnvq
+    followers: 254587
+    engagement: 144
+    commentsToLikes: 0.024063
+    id: cl0hh19cyifnd0i23u33x5aat
     verified: false
-    hashtags: "#agameof10k, #longexposure, #master, #citykillerz"
-  - username: "alexunderhess.design"
-    fullname: >-
-      Alexunder Hess - Design
-    bio: >-
-      Educator • Mentor 🇨🇦 🔥 Making Design Simple ✨ You’ll get a job, promotion, first money, new skills in 1 month! I’ll show you How! 👇 Learn Motion UI
-    location: "Canada"
-    followers: 87495
-    engagement: 300
-    commentsToLikes: 0.087499
-    id: ck5zr8qdew4730i14cwwxwci0
-    verified: false
-    hashtags: "#figma, #template, #ux, #uidesigner"
+    hashtags: "#adobeillustrator, #illustrator, #illustratortutorials, #illustrators"
   - username: "wraw.visuals"
     fullname: >-
       wraw.visuals
@@ -102,29 +114,17 @@ profiles:
     commentsToLikes: 0.016076
     id: ck6tozsnyh11b0j71pohsy9e9
     verified: false
-    hashtags: "#graphicdesigner, #freelance, #illustrator, #surfart"
-  - username: "nezumiliv_moved"
+    hashtags: "#tropicoolstudio, #graphicdesign, #illustrator, #branding"
+  - username: "marketingnitin"
     fullname: >-
-      MOVED TO @olibiarus
+      Nitin - Social media marketing
     bio: >-
-      MOVED TO @olibiarus bc this one too messy
+      🎯 Helping you grow your Instagram organically ☝️Follow for Social media marketing tips 📌 Want More followers, Leads, and clients? 📨 DM Now!
     location: "Canada"
-    followers: 2623
-    engagement: 1707
-    commentsToLikes: 0.103709
-    id: ckaorknnmnnq60i781sj7hjbq
+    followers: 11373
+    engagement: 206
+    commentsToLikes: 0.483046
+    id: cllrlx59v1h710j08hi8hmgh4
     verified: false
-    hashtags: "#doodledump, #myoc, #aestheticart, #procreate"
-  - username: "fvckrender"
-    fullname: >-
-      Frederic Duquette
-    bio: >-
-      🌱 plant fueled MONTREAL-VANCOUVER-LOS ANGELES// OVER 4 YEARS DAILY CREATIONS// VISUALS FOR SHOWS// REP @hplus_creative // PRINTS IN BIO//
-    location: "Canada"
-    followers: 339559
-    engagement: 98
-    commentsToLikes: 0.012899
-    id: ck0w5nl9a4j8c0i19y0unbqp2
-    verified: false
-    hashtags: "#cryptocurrency, #portrait, #c4d, #art"
+    hashtags: "#instatips, #instagramexpert, #growoninstagram, #contentmarketingtips"
 ---

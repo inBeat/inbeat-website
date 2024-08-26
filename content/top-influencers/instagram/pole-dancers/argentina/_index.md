@@ -1,11 +1,11 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Argentina In 2023
+title: Top 10 Pole Dancers Instagram Influencers In Argentina In 2024
 description: >-
-  Find top pole dancers Instagram influencers in Argentina in 2023. Most popular hashtags: #dancer #polesport #exoticpole.
+  Find top pole dancers Instagram influencers in Argentina in 2024. Most popular hashtags: #dancer #polesport #exoticpole #poledancer.
 platform: Instagram
 hits: 15
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 15 Instagram influencers like this in Argentina for you to pitch.
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 15 Instagram influencers like this in Argentina for you to pitch.
 profiles:
   - username: "lastmary92"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck6u63ct3da670j71hsj8dgtg
     verified: false
     hashtags: "#photo, #ecuador, #allyouneedisecuador, #turismoecuador"
-  - username: "belver4"
-    fullname: >-
-      bel vera
-    bio: >-
-      apoya a tus artistas nacionales ✌🏻🇵🇾 el primer paso es el más difícil, desde ahí no pares ⚡️ #poledancer | #dancer
-    location: "Argentina"
-    followers: 27572
-    engagement: 754
-    commentsToLikes: 0.029646
-    id: ck6tspy8065td0j71lgs23f72
-    verified: false
-    hashtags: "#pdbrokensplit, #flashbackfriday"
   - username: "danaerial_"
     fullname: >-
       Daniel Sotillo
@@ -79,6 +67,18 @@ profiles:
     id: ck14k4jhcnoo10i194vxflwi0
     verified: false
     hashtags: "#polesport, #polefitness, #calistenia, #heels"
+  - username: "stephanyorue"
+    fullname: >-
+      Stephany Orúe
+    bio: >-
+      Actriz - cantante - deportista “Espíritu libre" 🦋🎭🎶🎙️ @tonderorepresentaciones Líder vocal de @sound_machina🎶🎙️ VoM🎥 En cartelera🎬
+    location: "Argentina"
+    followers: 456308
+    engagement: 49
+    commentsToLikes: 0.027203
+    id: ck6u93sahvbqk0j71e7nicmuj
+    verified: false
+    hashtags: "#elexpedientegarcia, #actrizbailarina, #actrizperuana, #artistalibre"
   - username: "ohh.may"
     fullname: >-
       MAYRA
@@ -91,6 +91,18 @@ profiles:
     id: ck0vw9ewxsp310i194hz2d71q
     verified: false
     hashtags: "#fitnessmotivation, #fitness, #exotic, #pleaserheels"
+  - username: "soyladyganga"
+    fullname: >-
+      María José Castro
+    bio: >-
+      Datos✨, vitrineos💸🛍, DIY ✂️ , limpieza 🧹, poledance, patines 🛼 Podcaster🎙 en @amikascl 🎧 Mis Libros disponibles acá👇🏼
+    location: "Argentina"
+    followers: 221383
+    engagement: 258
+    commentsToLikes: 0.017166
+    id: ck15so177dyp70i19clc63cub
+    verified: false
+    hashtags: "#voguechile, #18d, #educaci, #thelulosshow"
   - username: "liaalvesss"
     fullname: >-
       Lia Alves
@@ -115,16 +127,4 @@ profiles:
     id: ck5bwk4y4lurh0i114yjkstc7
     verified: false
     hashtags: "#polesport, #split, #gidge, #amor"
-  - username: "malcattalini"
-    fullname: >-
-      malcattalini
-    bio: >-
-      𝐂𝐨𝐫𝐞𝐨𝐠𝐫𝐚𝐟𝐚 /𝐁𝐚𝐢𝐥𝐚𝐫𝐢𝐧𝐚 /𝐂𝐨𝐚𝐜𝐡 𝐒𝐡𝐨𝐰 𝐌𝐚𝐭𝐜𝐡 𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐚 𝐝𝐞 @dancingqueendevoto 𝗔𝗽𝗮𝘀𝗶𝗼𝗻𝗮𝗱𝗮 𝗽𝗼𝗿 𝗹𝗮 𝗺𝗼𝗱𝗮 𝐲 𝐥𝐨𝐬 𝐯𝐢𝐚𝐣𝐞𝐬 𝐁𝐞𝐥𝐥𝐞𝐳𝐚 𝐲 𝘀𝗮𝗹𝘂𝗱 👉🏼 @catta.beautyok
-    location: "Argentina"
-    followers: 210014
-    engagement: 146
-    commentsToLikes: 0.041188
-    id: ck0w60sev6d5u0i19vwxh9wt9
-    verified: false
-    hashtags: "#showmatch, #fashionstyle, #coreografa, #bailarines"
 ---

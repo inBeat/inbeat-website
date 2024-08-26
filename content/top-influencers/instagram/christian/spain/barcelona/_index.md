@@ -1,12 +1,24 @@
 ---
-title: Top 10 Christian Instagram Influencers In Barcelona In 2023
+title: Top 10 Christian Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top christian Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #foodporn #tenerife.
+  Find top christian Instagram influencers in Barcelona in 2024. Most popular hashtags: #barcelona #spain #tattoos #barcelonaspain.
 platform: Instagram
-hits: 10
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 10 Instagram influencers like this in Barcelona, Spain for you to connect with.
+hits: 12
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 12 Instagram influencers like this in Barcelona, Spain for you to connect with.
 profiles:
+  - username: "christianbalazs"
+    fullname: >-
+      Christian Balazs
+    bio: >-
+      ✉️Personal mail: contact@christian-renata.com ✉️Business inquiries: geanina@lesquad.ro
+    location: "Spain"
+    followers: 19373
+    engagement: 138
+    commentsToLikes: 0.014914
+    id: ck15qgifn2qc70i1930ewo666
+    verified: false
+    hashtags: "#barcelonagram, #christmascouple, #barcelonaspain, #bornsocial"
   - username: "brianbarber_"
     fullname: >-
       βrιαη Pεrεz Qυιrσs ✪
@@ -31,18 +43,30 @@ profiles:
     id: ck8sws4vjf1rm0j7804u1npdg
     verified: false
     hashtags: "#underwear, #elleman, #blackandwhite, #sportclassic"
-  - username: "topfoodbcn"
+  - username: "mrpaulferrer"
     fullname: >-
-      Top food BCN ⭐️ Foodie
+      Paul Ferrer
     bio: >-
-      🙋🏻‍♂️ Soy Cristian | Periodista & foodie 📍Barcelona y alrd. 📩colaboraciones.topfoodbcn@gmail.com 👇🏻Tentando tu paladar con mis visitas gastronómicas
+      En mi Prime. 🥇 Tú, yo, risas, piénsalo. 👑 paulferrer@nativetalents.es 📩 🇪🇸🇨🇴🇦🇷🇨🇱🇲🇽🇨🇴
     location: "Spain"
-    followers: 27721
-    engagement: 362
-    commentsToLikes: 0.751521
-    id: ck6u9bwxqwniy0j7192wjxcry
+    followers: 1001831
+    engagement: 314
+    commentsToLikes: 0.002015
+    id: ck14hzo09cxov0i194jqhka3y
+    verified: true
+    hashtags: "#reels, #viral, #futbol, #findeunaera"
+  - username: "christinaadavis"
+    fullname: >-
+      Christina | 🇺🇸 Digital Nomad
+    bio: >-
+      🇺🇸 Digital Nomad in Barcelona 🇪🇸 Sharing the Reality of Working Online & The Highs and Lows of Life Abroad 💌 Christina.digitalnomad@gmail.com
+    location: "Spain"
+    followers: 19883
+    engagement: 246
+    commentsToLikes: 0.059031
+    id: clr4hjh71ns3o0k08uhq48p7m
     verified: false
-    hashtags: "#dilluns, #sorteig, #gourmet, #cheese"
+    hashtags: "#femaledigitalnomads, #buildyourdreamlife, #lifeabroad, #nomadicsoul"
   - username: "_cristianvalen"
     fullname: >-
       Cristian Valencia
@@ -95,36 +119,12 @@ profiles:
     fullname: >-
       CRISTIAN CASAS
     bio: >-
-      ▪️Gotamar Tenerife 🇪🇸 ▪️Xskullz Wettingen 🇨🇭 @cheyenne_tattooequipment @Staycoldapparel @aftercareh2ocean @StencilStuff @Tattoodo Ambassador
+      ✣ @gotamartattoo 🇪🇸 ✣ @x_skullz_tattoo 🇨🇭 ✣ @cheyenne_tattooequipment ✣ @aloetattoo
     location: "Spain"
-    followers: 209532
-    engagement: 539
-    commentsToLikes: 0.022809
+    followers: 258940
+    engagement: 506
+    commentsToLikes: 0.025999
     id: ck0u7ovbp5aw20i19qu4c7tz6
     verified: false
-    hashtags: "#tattooenergy, #tattoo, #neotrad, #tattooideas"
-  - username: "lapastanoengorda"
-    fullname: >-
-      👓 Cristian Alonso
-    bio: >-
-      🦕 Tu vegano de confianza 🙃 Dicen que hago gracia 👏🏻 Recetas para torpes y vagas 🕶 Tips para ecomamarrachas 📩Colabs: holi@lapastanoengorda.es
-    location: "Spain"
-    followers: 37363
-    engagement: 362
-    commentsToLikes: 0.054491
-    id: ck13a84n2p3gg0i19akpz9sur
-    verified: false
-    hashtags: "#foodporn, #vegantattoo, #veganprotein, #bolo"
-  - username: "xnazax"
-    fullname: >-
-      xnazax
-    bio: >-
-      ✖️BARCELONA✖️ Tattooing since 1994 Info@xnazax.com
-    location: "Spain"
-    followers: 148749
-    engagement: 126
-    commentsToLikes: 0.011595
-    id: ck5cggdm6osgd0i11nvwuj3ay
-    verified: false
-    hashtags: ""
+    hashtags: "#neotraditional, #tattoos, #neotrad, #tattooideas"
 ---

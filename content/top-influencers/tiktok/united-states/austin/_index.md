@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Austin In 2023
+title: Top 10 TikTok Influencers In Austin In 2024
 description: >-
-  Find top TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #foryoupage #foryou #greenscreen.
+  Find top TikTok influencers in Austin in 2024. Most popular hashtags: #fyp #foryou #foryoupage.
 platform: TikTok
-hits: 2361
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 2361 TikTok influencers like this in Austin, United States for you to contact.
+hits: 2372
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database has 2372 TikTok influencers like this in Austin, United States for you to work with.
 profiles:
   - username: "austin.tayl0r"
     fullname: >-
@@ -43,30 +43,18 @@ profiles:
     id: ckd5j8a19uttc0j23tt5curqt
     verified: false
     hashtags: "#foryou, #internet, #fyp, #foryoupage"
-  - username: "austinkou"
-    fullname: >-
-      austin
-    bio: >-
-      🏳️‍🌈 25 ♊️ artist 💌: austinkouarts@gmail.com
-    location: "United States"
-    followers: 21400
-    engagement: 2322
-    commentsToLikes: 0.028179
-    id: ck8hmbjjtlg6g0j78cubhouij
-    verified: false
-    hashtags: "#fyp, #tarot, #drawing, #artistcollective"
   - username: "bigfukit"
     fullname: >-
       Austin
     bio: >-
       Traveling welder Most important people call me daddy 🥺😍 Snap- austin_mayhem23
     location: "United States"
-    followers: 10400
-    engagement: 1388
-    commentsToLikes: 0.033873
+    followers: 14700
+    engagement: 1692
+    commentsToLikes: 0.044651
     id: ckbasqexajc5f0j23z6og6mcn
     verified: false
-    hashtags: "#isthisavailable, #mystyle, #dayinmylife, #homemade"
+    hashtags: "#airpodsjump, #struggle, #glowup, #gymrat"
   - username: "austindreyer98"
     fullname: >-
       Austin
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.021264
     id: ck9gl432nmixk0j78ug7kcgsw
     verified: false
-    hashtags: "#fueledbybudlight, #beers, #budlight, #shotgun"
+    hashtags: "#beers, #yeeyee, #shotgun, #fueledbybudlight"
   - username: "austink90"
     fullname: >-
       Austin
@@ -102,7 +90,7 @@ profiles:
     commentsToLikes: 0.005635
     id: ck90u6lg7vi7j0j78g8rl60lg
     verified: false
-    hashtags: "#fyp, #pong, #trickshots, #foryou"
+    hashtags: "#pingpong, #fyp, #trickshot, #satisfying"
   - username: "ahritterr"
     fullname: >-
       Austin Ritter
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.021203
     id: ckacvdoltn9fc0i78l7m01z9h
     verified: false
-    hashtags: "#foryou, #fyp, #foryoupage"
+    hashtags: "#fyp, #foryoupage, #foryou"
   - username: "cristina.baker"
     fullname: >-
       Cristina Baker
@@ -127,4 +115,16 @@ profiles:
     id: ckb9ab7nfv9yb0j23jijc9gy2
     verified: false
     hashtags: "#jesus, #god, #pray, #faith"
+  - username: "omsteve"
+    fullname: >-
+      Old Man Steve 
+    bio: >-
+      I’m 82 years old from Dallas/Ft Worth https://www.Venmo.com/Stephen-Austin-40
+    location: "United States"
+    followers: 1400000
+    engagement: 2101
+    commentsToLikes: 0.026636
+    id: ck81q35otfjtv0j78efhqzq1b
+    verified: false
+    hashtags: "#fun, #texas, #foryoupage, #foryou"
 ---

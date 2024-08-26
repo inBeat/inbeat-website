@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Toronto In 2023
+title: Top 10 Mothers TikTok Influencers In Toronto In 2024
 description: >-
-  Find top mothers TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #foryoupage #toronto #canada.
+  Find top mothers TikTok influencers in Toronto in 2024. Most popular hashtags: #fyp #foryoupage #canada #foryou.
 platform: TikTok
 hits: 11
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 11 TikTok influencers like this in Toronto, Canada for you to contact.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 11 TikTok influencers like this in Toronto, Canada for you to connect with.
 profiles:
   - username: "shawnaskitchen"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.034221
     id: ck8tprd6sqk8z0j78n09ij8pq
     verified: false
-    hashtags: "#nursesweek2021, #follow, #fyp, #wmk"
+    hashtags: "#13othi, #mothersday, #duet, #follow"
   - username: "henjofilms"
     fullname: >-
       Toronto Wedding Videographer
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.014148
     id: ckdt0rnweroc80j237ln54ya7
     verified: false
-    hashtags: "#bride, #love, #funny, #motherdaughter"
+    hashtags: "#weddingtiktok, #interracialcouple, #weddingspeech, #lovestory"
   - username: "pav_lubana"
     fullname: >-
       P A V • L U B A N A
@@ -74,11 +74,11 @@ profiles:
       I Draw 🎨 M I S S I S S A U G A 🇨🇦 My art page 👇🏻👇🏻👇🏻👇🏻
     location: "Canada"
     followers: 10400
-    engagement: 367
-    commentsToLikes: 0.049823
+    engagement: 376
+    commentsToLikes: 0.038769
     id: cka0hbz9p8m4g0i780922p3ng
     verified: false
-    hashtags: "#internationalstudent, #swagstepchallenge, #painting, #trending"
+    hashtags: "#painting, #punjabi, #internationalstudent, #singlelife"
   - username: "marwa_tayara"
     fullname: >-
       marwa_tayara
@@ -95,14 +95,14 @@ profiles:
     fullname: >-
       hvlives
     bio: >-
-      Bassmaker Stereo Link in Bio 👇
+      Just Say Yes Horror Film Link in Bio 👇
     location: "Canada"
-    followers: 3656
-    engagement: 227
-    commentsToLikes: 0.043065
+    followers: 3642
+    engagement: 201
+    commentsToLikes: 0.034782
     id: ck9nczr0pccpe0j78ewce5alr
     verified: false
-    hashtags: "#foryou, #staysafe, #shorts, #vfx"
+    hashtags: "#cookinghacks, #isff, #yearbook2020, #foryou"
   - username: "veerjifish"
     fullname: >-
       Veerji Fish

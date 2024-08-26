@@ -1,24 +1,24 @@
 ---
-title: Top 10 Illustrators TikTok Influencers In United Kingdom In 2023
+title: Top 10 Illustrators TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top illustrators TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryou #art #illustrator.
+  Find top illustrators TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #foryou #art #illustrator.
 platform: TikTok
 hits: 13
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 13 TikTok influencers like this in United Kingdom for you to connect with.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 13 TikTok influencers like this in United Kingdom for you to pitch.
 profiles:
   - username: "pixie_pie_x"
     fullname: >-
       Pixie-Pie
     bio: >-
-      ✧ UK Illustrator • 28 ✧ ✧ Poly • Bi • K!nkTok ✧ She/Her • Links Below
+      ✧ UK Illustrator • 28 ✧ ✧ Poly • Bi • K!nkTok ✧ She/Her • Links on IG
     location: "United Kingdom"
-    followers: 517200
-    engagement: 2021
-    commentsToLikes: 0.019533
+    followers: 539800
+    engagement: 2172
+    commentsToLikes: 0.017103
     id: ck9nsg8rqdhgj0j78j96foi75
     verified: false
-    hashtags: "#mentalhealth, #safespace, #redflags, #itried"
+    hashtags: "#acting, #monologue, #qinktok, #duetthis"
   - username: "birbdog"
     fullname: >-
       lauren
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.030435
     id: ck8orfa7rc24i0j782sax8iyy
     verified: false
-    hashtags: "#carddesigner, #gouachepainting, #smallbusinesstiktok, #homedecor"
+    hashtags: "#gallerywallinspo, #gallerywallhack, #gouachepainting, #smallbusinessuk"
 ---

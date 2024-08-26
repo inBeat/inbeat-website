@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Sao Paulo In 2023
+title: Top 10 TikTok Influencers In Sao Paulo In 2024
 description: >-
-  Find top TikTok influencers in Sao Paulo in 2023. Most popular hashtags: #dueto #comedia #9meses.
+  Find top TikTok influencers in Sao Paulo in 2024. Most popular hashtags: #dueto #comedia #ad.
 platform: TikTok
 hits: 205
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 205 TikTok influencers like this in Sao Paulo, Brazil for you to work with.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 205 TikTok influencers like this in Sao Paulo, Brazil for you to connect with.
 profiles:
   - username: "maru_tuzaki"
     fullname: >-

@@ -1,24 +1,36 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Miami In 2023
+title: Top 10 Vegan Instagram Influencers In Miami In 2024
 description: >-
-  Find top vegan Instagram influencers in Miami in 2023. Most popular hashtags: #miami #veganmiami #vegan.
+  Find top vegan Instagram influencers in Miami in 2024. Most popular hashtags: #miami #vegan #veganmiami.
 platform: Instagram
-hits: 132
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 132 Instagram influencers like this in Miami, United States for you to pitch.
+hits: 143
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 143 Instagram influencers like this in Miami, United States for you to work with.
 profiles:
-  - username: "alaina_tsang"
+  - username: "alexaaisabel"
     fullname: >-
-      Alaina Tsang🇯🇲
+      Alexa Isabel ♡
     bio: >-
-      Life is to be lived, not regretted ❤️♓️ 📍@hiesteemagency 🇯🇲
+      ˚｡⋆ ୨♡୧ ⋆｡˚ 🎀 vegan miami girl living 𝓁𝒶 𝓋𝒾𝑒 𝑒𝓃 𝓇𝑜𝓈𝑒 🌸 behind the lens @alexaisabelphoto 🦢 @onemanagement ౨ৎ ✉️ lexisabelbernal@gmail.com
     location: "United States"
-    followers: 232107
-    engagement: 231
-    commentsToLikes: 0.041068
-    id: ck5c6xdoq6eaa0i11ixuodghx
+    followers: 27010
+    engagement: 578
+    commentsToLikes: 0.067030
+    id: cksuaikrb7e4h0j233dnsa1ve
     verified: false
-    hashtags: "#naomisgarden, #healthiswealth, #portal, #signedinfluencer"
+    hashtags: "#edikted, #pfg, #miamiinfluencer, #nyfw"
+  - username: "badassvegan"
+    fullname: >-
+      J O H N • L E W I S • M.B.A
+    bio: >-
+      🎥Director:@theyretryingtokillusfilm 📕Author:BadassVegan 🌱Owner:@livevegansmart 🥜Founder @badassnuts 🙏🏽P.M.A. 🐼Soul 🗣Fluent Sarcasm 🎓HBCU 👌🏽KAΨ#8⚓️
+    location: "United States"
+    followers: 493514
+    engagement: 18
+    commentsToLikes: 0.070886
+    id: ckf5m1de4rvq40j2388urqlzy
+    verified: false
+    hashtags: "#veganblockparty, #veganfestival, #soflo, #eatdrinkvibe"
   - username: "nataliaavegaa"
     fullname: >-
       NATALIA VEGA
@@ -30,31 +42,31 @@ profiles:
     commentsToLikes: 0.024373
     id: ck6uc7xdae0hh0j71x8mgeequ
     verified: false
-    hashtags: "#calm, #veganmiami, #keybiscane, #greennature"
-  - username: "kandidkinks"
+    hashtags: "#photoshopfix, #denver, #cleanpic, #vegantacos"
+  - username: "tativegancooking"
     fullname: >-
-      Alexia
+      𝗧𝗮𝘁𝗶 | 🌱 𝗙𝗼𝗼𝗱 & 𝘁𝗿𝗮𝘃𝗲𝗹
     bio: >-
-      Hair | Beauty | Lifestyle 🛍Shop @formykinks ✨Host @southfloridanaturals 💄2021 #ubcollective 📨contact@kandidkinks.com 📍Miami ↘️Latest YouTube Video
+      Delicious Recipes + Beautiful Destinations 🥑 Plant Based Nutrition Certified |✨Believer ✈️ Wanderluster | 💃Latina 🇨🇴 | 📍Miami
     location: "United States"
-    followers: 25016
-    engagement: 228
-    commentsToLikes: 0.063900
-    id: ck0vwcqiht3zl0i19xdbxgcmz
+    followers: 44214
+    engagement: 207
+    commentsToLikes: 0.041862
+    id: ckrw27w6aqpfh0j23vxlub2hv
     verified: false
-    hashtags: "#4chair, #blackgirlswhotravel, #ubcollective, #blackgirlmagic"
-  - username: "exploramiami"
+    hashtags: "#mixitwithminute, #ad, #colavitapartner, #easyrecipes"
+  - username: "_xoxogabriella"
     fullname: >-
-      Hi 👋🏻 I’m Eu
+      Gabriella Bongiovanni • Miss Global Italy 2023 🇮🇹
     bio: >-
-      Mi nombre verdadero 👉🏻 Eugenia ¿Que hago? 👉🏻 Explorar #MIAMI 🇺🇸 auténticamente✨ Hi@exploramiami.com
+      📸 MA: @premieremodelsnsb_official 🎾 Tennis Pro | Collegiate All-American 👩🏻‍💻 Systems Analyst
     location: "United States"
-    followers: 28619
-    engagement: 166
-    commentsToLikes: 0.078152
-    id: ck0w0g2t7e0jq0i19b59mcqq3
+    followers: 31146
+    engagement: 175
+    commentsToLikes: 0.125225
+    id: ck5q7hgne1l520i118iocgtyz
     verified: false
-    hashtags: "#bloggermiami, #exploraflorida, #miamibloggers, #miami"
+    hashtags: "#missglobalitaly, #miamimodel, #miamimodels, #itftennis"
   - username: "mrandmrseats"
     fullname: >-
       Mr. and Mrs. Eats
@@ -66,31 +78,7 @@ profiles:
     commentsToLikes: 0.113847
     id: ck15r8taf6q2i0i19oskqd6sz
     verified: false
-    hashtags: "#eeeeeats, #miamilife, #miamirestaurant, #yummy"
-  - username: "natashaleeds"
-    fullname: >-
-      Natasha Lee-Duhaney
-    bio: >-
-      Digital journey of style, beauty & travel 📍 MIAMI 🇯🇲 💌 hello@natashaduhaney.com
-    location: "United States"
-    followers: 63779
-    engagement: 241
-    commentsToLikes: 0.032925
-    id: ck0u2k8qb030w0i19cx633txc
-    verified: false
-    hashtags: "#natashaleeds, #natashaduhaney, #miamifoodie, #miamifoodblogger"
-  - username: "be_leaf_vegan"
-    fullname: >-
-      Be Leaf
-    bio: >-
-      Vegan wholesale company of delicious plant-based products made from natural Ingredients. 📸Tag us in your posts for daily features! #be_leaf_vegan
-    location: "United States"
-    followers: 25577
-    engagement: 90
-    commentsToLikes: 0.021131
-    id: ck5zjaegch8nq0i14ar7qwyc1
-    verified: false
-    hashtags: "#plantsofinstagram, #veganbaconcheeseburger, #eeeeeats, #veganfood"
+    hashtags: "#tastethisnext, #foodporndaily1, #yum, #healthymiami"
   - username: "tylerwisby"
     fullname: >-
       Tyler Wisby | Model 🧿
@@ -103,6 +91,18 @@ profiles:
     id: ckap6as85f3xy0i78rfpg40ty
     verified: false
     hashtags: "#wcw"
+  - username: "ohitspaoo"
+    fullname: >-
+      PAOLA LEIGH JARDINE
+    bio: >-
+      MIA📍 4.0 FIU Alumna: PR || Communications Venezuela | España For the first time, everything was inspiring. ☽
+    location: "United States"
+    followers: 3624
+    engagement: 1667
+    commentsToLikes: 0.090781
+    id: ck5q72e2vzq4i0i11p6tv2yji
+    verified: false
+    hashtags: "#happiness, #livingmybestlife, #selflove, #fun"
   - username: "selina.negron"
     fullname: >-
       
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.059658
     id: ck5zwj94u67yr0i14alzwdfqo
     verified: false
-    hashtags: "#monathair, #miamiphotographer, #investinyourself, #picoftheday"
-  - username: "haiasichin"
+    hashtags: "#modernnature, #miamimodelscout, #miamimodels, #nycmodel"
+  - username: "giannafae"
     fullname: >-
-      Haiasi Chinfloo
+      Gianna Carullo
     bio: >-
-      @lockemodels | 🇺🇸🇯🇲 Jinsa Essentials BA use code HC20 🥘Cooking Page: @haiasichin.eats 🎙Podcast Host & Creator of: The.Real.Appeal🤎
+      ❥ 🇬🇷🇵🇭🇹🇼 ☾ lifestyle | wellness | fitness | family ✗ private trainer | online holistic nutrition & fitness coach 📍: miami, fl
     location: "United States"
-    followers: 3664
-    engagement: 1791
-    commentsToLikes: 0.149923
-    id: ck5hhb37r7bn40i11mwlk6sps
+    followers: 14135
+    engagement: 305
+    commentsToLikes: 0.134182
+    id: ck5zp1w7frtwm0i149rjeefd1
     verified: false
-    hashtags: "#swimwear, #tall, #blackmodels, #naturalhair"
+    hashtags: "#momtobe, #family, #easyrecipes, #bumpdate"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Nigeria In 2023
+title: Top 10 Dancers TikTok Influencers In Nigeria In 2024
 description: >-
-  Find top dancers TikTok influencers in Nigeria in 2023. Most popular hashtags: #fyp #viral #dance #tiktok.
+  Find top dancers TikTok influencers in Nigeria in 2024. Most popular hashtags: #fyp #viral #dance #tiktok.
 platform: TikTok
 hits: 10
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 10 TikTok influencers like this in Nigeria for you to pitch.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 10 TikTok influencers like this in Nigeria for you to work with.
 profiles:
   - username: "osamabinnadine"
     fullname: >-

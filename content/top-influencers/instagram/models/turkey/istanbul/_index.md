@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Istanbul In 2023
+title: Top 10 Models Instagram Influencers In Istanbul In 2024
 description: >-
-  Find top models Instagram influencers in Istanbul in 2023. Most popular hashtags: #model #istanbul #photography #instagram.
+  Find top models Instagram influencers in Istanbul in 2024. Most popular hashtags: #istanbul #model #style #instagram.
 platform: Instagram
-hits: 168
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 168 Instagram influencers like this in Istanbul, Turkey for you to connect with.
+hits: 157
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 157 Instagram influencers like this in Istanbul, Turkey for you to pitch.
 profiles:
   - username: "bbellaawhite"
     fullname: >-
@@ -19,54 +19,42 @@ profiles:
     id: ck137cifyav000i19n4s7i7nl
     verified: false
     hashtags: "#feelgoodfuel, #siswimsearch2021"
-  - username: "kate.xeeva"
+  - username: "yasinaltinel"
     fullname: >-
-      Kate Alexeeva
+      Yasin Altınel
     bio: >-
-      Follow ▶️ @glamboxtr 👑 Miss Latvia 🇱🇻 📸 Fashion Model 🇹🇷 Istanbul ✈️ 55 Countries
+      Management: yasinaltinel@gmail.com DM for Makeup 📩 Unisex Fashion Brand 👘 @yasinaltinelofficial For Shopping👇🏼
     location: "Turkey"
-    followers: 230999
-    engagement: 211
-    commentsToLikes: 0.028011
-    id: ck5hskkqhwqs90i11zzuejemu
-    verified: true
-    hashtags: "#katexeeva, #glambox, #misslatvia, #ad"
-  - username: "tamara_v_vulovic"
-    fullname: >-
-      T A M A R A     V U L O V I Ć
-    bio: >-
-      𝗙𝗶𝘁𝗻𝗲𝘀𝘀 𝗧𝗿𝗮𝗶𝗻𝗲𝗿 & 𝗠𝗼𝗱𝗲𝗹 🤸‍♀️ 📧 𝐯𝐮𝐥𝐨𝐯𝐢𝐜.𝐠𝐲𝐦@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦 YouTube📽: Tamara Vulovic
-    location: "Turkey"
-    followers: 144156
-    engagement: 539
-    commentsToLikes: 0.004661
-    id: ck5c62tqi4loo0i11yyinm3ua
+    followers: 397898
+    engagement: 28
+    commentsToLikes: 0.023422
+    id: ck5hmcid3lpkd0i11njiilkwg
     verified: false
-    hashtags: "#snow, #kopaonik, #ootd, #vezbajkodkuce"
+    hashtags: "#gelinmakyaj, #sephora, #makeupartist, #bridemakeup"
   - username: "gloryokings"
     fullname: >-
-      4C NATURAL HAIR | LIFESTYLE
+      MODEL | 4C  HAIR | LIFESTYLE
     bio: >-
-      Content Creator | Part-time Model Exploring Istanbul 🇹🇷 📧gloryokings@gmail.com
+      Content Creator | Model Exploring Istanbul 🇹🇷 📧 gloryokings@gmail.com
     location: "Turkey"
-    followers: 37454
-    engagement: 353
-    commentsToLikes: 0.018563
+    followers: 42122
+    engagement: 378
+    commentsToLikes: 0.016752
     id: ck5q26ylcekep0i11u0oydgxb
     verified: false
-    hashtags: "#naturalhair, #blackgirlmagic, #4cnaturalhair, #naturalhairstyles"
-  - username: "ailioska"
+    hashtags: "#blackgirlmagic, #4cnaturalhair, #4c, #blackwomen"
+  - username: "metisha"
     fullname: >-
-      ANDRIJANA ILIOSKA
+      metisha
     bio: >-
-      From:📍Skopje,Macedonia🇲🇰 📍Currently in Istanbul 🇹🇷 - Model🌎✈️ Game changer🐍 - DM for collaboration 📩
+      Miami 🇺🇸/ Istanbul 🇹🇷 Model | Actress| businessowner @diosas305 📸Bookmetisha@yahoo.com Collabs Mgmt@thejse.net
     location: "Turkey"
-    followers: 9835
-    engagement: 1897
-    commentsToLikes: 0.017037
-    id: ck5pwcmk1m6wl0i110tsf1qfl
-    verified: false
-    hashtags: "#cute, #girlpower, #shooting, #makeup"
+    followers: 1205010
+    engagement: 215
+    commentsToLikes: 0.008635
+    id: ck0ttw6l84kro0i19fvc4jmzh
+    verified: true
+    hashtags: "#style, #mykonosisland, #fashion, #sheinforall"
   - username: "coyotetr"
     fullname: >-
       Hakkı
@@ -91,18 +79,6 @@ profiles:
     id: ck15r91aq6r740i19gxckipw1
     verified: false
     hashtags: "#modeling, #portraitphotography, #photography, #smile"
-  - username: "__bojanarmandic__"
-    fullname: >-
-      Bojana Rmandic
-    bio: >-
-      Social Media influencer 👩‍💻 Montenegro based 🇲🇪 Istanbul 🇹🇷 Collaboration dm /email 📩
-    location: "Turkey"
-    followers: 57512
-    engagement: 191
-    commentsToLikes: 0.112405
-    id: ck5hdenmtn0t40i11goxclfwg
-    verified: false
-    hashtags: "#instalike, #photoshoot, #me, #followme"
   - username: "loveforgetlove"
     fullname: >-
       loveforgetlove
@@ -127,4 +103,28 @@ profiles:
     id: ck8taxh8zthcf0j78w5581o98
     verified: false
     hashtags: "#eleme, #boh, #tasar, #turkinstagram"
+  - username: "ismsrc"
+    fullname: >-
+      İsmail Saraç
+    bio: >-
+      Outdoor | Landscape | Camper⛺️ Climber🏔 🌏 Somewhere in the World.. @haidafilter Ambassador
+    location: "Turkey"
+    followers: 11120
+    engagement: 1146
+    commentsToLikes: 0.062899
+    id: ck0uak2t0cgse0i19vy5iw4tn
+    verified: false
+    hashtags: "#manzara, #longexposurephotography, #100mm, #autumn"
+  - username: "paulabuljan5"
+    fullname: >-
+      Paula Buljan
+    bio: >-
+      U Bogu mom je snaga moja sva ❤️ ✈️16 Countries 📍 Istanbul International Model 📌 MA @relatummodels MGF 🏆 Oscar - Model of the year 2018 🇭🇷 📺TVhost
+    location: "Turkey"
+    followers: 7534
+    engagement: 623
+    commentsToLikes: 0.028842
+    id: ck5c0j1qht8bq0i110uel37ga
+    verified: false
+    hashtags: "#nomakeup"
 ---

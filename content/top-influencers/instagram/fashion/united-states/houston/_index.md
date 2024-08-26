@@ -1,48 +1,48 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Houston In 2023
+title: Top 10 Fashion Instagram Influencers In Houston In 2024
 description: >-
-  Find top fashion Instagram influencers in Houston in 2023. Most popular hashtags: #fashion #houston #houstonblogger #fashionstyle.
+  Find top fashion Instagram influencers in Houston in 2024. Most popular hashtags: #fashion #houston #model #fashionblogger.
 platform: Instagram
-hits: 308
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 308 Instagram influencers like this in Houston, United States for you to pitch.
+hits: 429
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 429 Instagram influencers like this in Houston, United States for you to pitch.
 profiles:
-  - username: "mimii__a"
+  - username: "jacquelinejohnette"
     fullname: >-
-      Michelle
+      Jacqueline Johnette
     bio: >-
-      Houston,Texas
+      Child of God ✝️ Lifestyle | Beauty | Fashion Houston - Dallas 📍 YOUTUBE: Jacqueline Johnette
     location: "United States"
-    followers: 3262
-    engagement: 3234
-    commentsToLikes: 0.217099
-    id: ckap5x2q0dj2d0i78sps5hxn6
+    followers: 61285
+    engagement: 564
+    commentsToLikes: 0.004523
+    id: cld6qdjf7cdgz0j080non84u3
     verified: false
-    hashtags: "#houston, #prettylittlething, #pltstyle, #houstonmodels"
-  - username: "love.always.alex"
+    hashtags: "#nordstrombeauty, #nordstrombeautypartner, #denimondenim, #makeuplover"
+  - username: "natethedonn"
     fullname: >-
-      Alex | Love Always, Alex
+      Nathan Delva
     bio: >-
-      📍HTX | #PetiteFashion (5’) & #GlutenFree Lifestyle 🏙Marketing Coordinator by day, #Blogger by night 💌 alex@lovealwaysalex.com
+      MIA | LA📍🇭🇹| mgmt: @cgemtalent | @NovaMEN Ambassador|God 1st| NUPE ♦️|CEO of @envisionapparel_ LONG LIVE OTIS ANDERSON🕊
     location: "United States"
-    followers: 5158
-    engagement: 475
-    commentsToLikes: 0.145239
-    id: ck8t4fguu6llz0j78zetm4s1q
+    followers: 57915
+    engagement: 384
+    commentsToLikes: 0.029653
+    id: ckxlenbox87x50j23kzcwmx57
     verified: false
-    hashtags: "#christmas, #lifestyleblogger, #houston, #winteroutfit"
-  - username: "sundaewynn"
+    hashtags: "#atlanta, #socal, #newmusic, #producer"
+  - username: "alxandriaa"
     fullname: >-
-      SUNDAE WYNN !DIFFERENT IS KEY!
+      Fashion & Car Model Alexandria
     bio: >-
-      Loading....... 💚 🌎DIFFERENT IS KEY🔑 For Info On Apparel & New Items 👉🏾 @sundaespace 💚 Cleveland, OH
+      📍Houston TX Model & Dog mom 🐶 🏎 @team_savage_713 & @rtbbaddies 👯‍♀️ 🤍 @skinnysculpt 💌 Collabs alxandriaa@yahoo.com
     location: "United States"
-    followers: 34259
-    engagement: 370
-    commentsToLikes: 0.036904
-    id: ck6u2nk4msuef0j71t7xa2spt
+    followers: 16593
+    engagement: 468
+    commentsToLikes: 0.061972
+    id: ck139dybqku4r0i19olmi6hlm
     verified: false
-    hashtags: "#dedication, #family, #blackowned, #culture"
+    hashtags: "#fashionblogger, #carinspo, #bikini, #houstonmodels"
   - username: "therunwayrebel"
     fullname: >-
       Tye West-Potts
@@ -67,6 +67,54 @@ profiles:
     id: ck5hglsvv3gj00i11g5ndnbsh
     verified: false
     hashtags: "#houstonmodels, #fashion, #houstonfashion, #houstonmua"
+  - username: "vanessas_adventures_"
+    fullname: >-
+      𝐕𝐚𝐧𝐞𝐬𝐬𝐚|𝑯𝒐𝒖𝒔𝒕𝒐𝒏 𝑭𝒐𝒐𝒅𝒊𝒆+𝑭𝒂𝒔𝒉𝒊𝒐𝒏
+    bio: >-
+      Houston 𝑭𝒐𝒐𝒅,𝑭𝒂𝒔𝒉𝒊𝒐𝒏,𝑳𝒐𝒄𝒂𝒍♥️ 𝐄𝐦𝐚𝐢𝐥: vanessas.adventures15@gmail.com #boliviana 🏃‍♀️Follow my 𝐋𝐓𝐊 Link 🥰Follow my #vanessasadventures
+    location: "United States"
+    followers: 9119
+    engagement: 287
+    commentsToLikes: 0.519062
+    id: cl7zcln5uzj7s0i23sv3gtjrn
+    verified: false
+    hashtags: "#houstonthingstodo, #htxfoodie, #digitalcreator, #latinafoodie"
+  - username: "shadessofblu"
+    fullname: >-
+      Baby Blu
+    bio: >-
+      ⠀ Tax Preparer 11+ Yrs & Business Consultant ⠀⠀⠀⠀⠀⠀⠀⠀📍HTX 🇲🇽x🏴󠁧󠁢󠁳󠁣󠁴󠁿x🇳🇬 26 ‼️Only IG, 1 SNAP‼️👇🏼OF, Playlists & Amazon 👇🏼
+    location: "United States"
+    followers: 18400
+    engagement: 147
+    commentsToLikes: 0.010587
+    id: ck6u2x4vxuf440j71s0zc5fmq
+    verified: false
+    hashtags: "#bluehair, #croatia, #houston, #houstonnightlife"
+  - username: "theashmoresblog"
+    fullname: >-
+      Brittany Ashmore
+    bio: >-
+      JESUS. 🌱 bi-racial Adoptee 🌱toxin-free beauty 🌱gluten free @whatsupinhoustonandbeyond Creator #joyfulmamas
+    location: "United States"
+    followers: 123318
+    engagement: 9
+    commentsToLikes: 0.150822
+    id: ck55q8o3mc5v80i119q053o50
+    verified: false
+    hashtags: "#vacay, #digitalmarketing, #tomballtx, #christmas"
+  - username: "coriaston39"
+    fullname: >-
+      Cori Aston
+    bio: >-
+      𝘊𝘭𝘦𝘢𝘯 𝘉𝘦𝘢𝘶𝘵𝘺•𝘌𝘥𝘪𝘵𝘰𝘳𝘪𝘢𝘭•𝘉𝘳𝘪𝘥𝘢𝘭•𝘈𝘷𝘢𝘯𝘵-𝘨𝘢𝘳𝘥𝘦 Multi Award-Winning Artist FACEatelier North America Senior Artist Educate/Mentor • Shop • Creative
+    location: "United States"
+    followers: 16603
+    engagement: 52
+    commentsToLikes: 0.169900
+    id: ck0u23g33ytph0i19lmpnhrxy
+    verified: false
+    hashtags: "#bts, #houston, #coriaston, #graphicliner"
   - username: "nba.kids"
     fullname: >-
       NBA familes/kids 🧸
@@ -79,52 +127,4 @@ profiles:
     id: ckaor3iaglkea0i78x40s9do6
     verified: false
     hashtags: "#babyfever, #celtics, #babygirl, #bradleybeal"
-  - username: "charlene_westfall"
-    fullname: >-
-      Charlene | Columbus Blogger
-    bio: >-
-      Professional Pretty Place Finder ✈️Travel & Fashion 🔜 Houston 🤍Bridal Stylist 👑Former Miss Ohio 💌westfallcharlene@gmail.com
-    location: "United States"
-    followers: 8077
-    engagement: 521
-    commentsToLikes: 0.102627
-    id: ck5hqqc73tj9e0i11lyqwhdnt
-    verified: false
-    hashtags: "#loungewear, #weddingdressinspo, #ltkunder50, #cbusfoodscene"
-  - username: "karishmadawood"
-    fullname: >-
-      Karishma Dawood
-    bio: >-
-      your vibe attracts your tribe commercial realtor by day, blogger by night ✨ fashion + lifestyle houston, tx 💌 karishmadawood@me.com
-    location: "United States"
-    followers: 20635
-    engagement: 270
-    commentsToLikes: 0.100850
-    id: ck9wgee9dt23i0j7812nfuj7v
-    verified: false
-    hashtags: "#eidmubarak, #bridetribe, #scottsdalebefortheveil, #kobeyear"
-  - username: "shesimplychic"
-    fullname: >-
-      Baraka M. | Plus Size Blogger
-    bio: >-
-      Your Plus Size look book of DIVERSE Fashion Creator of @shesimplychic The love of all fashion 📍Houston, Texas 🔅Blog Links🔽
-    location: "United States"
-    followers: 8169
-    engagement: 253
-    commentsToLikes: 0.232761
-    id: ck5hpm7iurl890i11wr674uu8
-    verified: false
-    hashtags: "#skorchmag, #houstonblogger, #bodyposotive, #plussizefashion"
-  - username: "adoseofsherri"
-    fullname: >-
-      Sherri Quach Garza
-    bio: >-
-      •Your daily dose of affordable & trendy fashion• 📍- #houstonblogger #texasblogger | #fashionblogger 💌-collabs :info@adoseofsherri.com
-    location: "United States"
-    followers: 27496
-    engagement: 80
-    commentsToLikes: 0.090252
-    id: ck8t0qn1wsxkr0j78i9l12bad
-    verified: false
-    hashtags: "#prettyinpink, #pinkblushstyleambassador, #pregnantbelly, #sponsoredbycoop"
 ---

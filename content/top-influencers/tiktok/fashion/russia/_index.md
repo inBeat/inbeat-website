@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Russia In 2023
+title: Top 10 Fashion TikTok Influencers In Russia In 2024
 description: >-
-  Find top fashion TikTok influencers in Russia in 2023. Most popular hashtags: #fashion #fyp #ootd #aesthetic.
+  Find top fashion TikTok influencers in Russia in 2024. Most popular hashtags: #fashion #fyp #aesthetic #ootd.
 platform: TikTok
 hits: 35
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat has 35 TikTok influencers like this in Russia for you to pitch.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 35 TikTok influencers like this in Russia for you to contact.
 profiles:
   - username: "katyakovtunovich"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.140243
     id: ckbak5ncdb6500j23y8p2brh7
     verified: false
-    hashtags: "#addressskyview, #fyp, #foryou, #viral"
+    hashtags: "#dubai, #xyzbca, #addressskyview, #viral"
   - username: "karinanigay"
     fullname: >-
       Karina Nigay

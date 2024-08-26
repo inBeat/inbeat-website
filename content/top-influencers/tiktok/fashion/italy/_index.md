@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Italy In 2023
+title: Top 10 Fashion TikTok Influencers In Italy In 2024
 description: >-
-  Find top fashion TikTok influencers in Italy in 2023. Most popular hashtags: #imparacontiktok #curiosit #foryou.
+  Find top fashion TikTok influencers in Italy in 2024. Most popular hashtags: #imparacontiktok #trend #foryou.
 platform: TikTok
-hits: 152
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 152 TikTok influencers like this in Italy for you to collaborate.
+hits: 155
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our database has 155 TikTok influencers like this in Italy for you to work with.
 profiles:
   - username: "fashionweekbologna"
     fullname: >-
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.007724
     id: ck8s5qyi4h4qo0j78efs7j6pt
     verified: false
-    hashtags: "#netflix, #power, #serienetflix, #books"
+    hashtags: "#books, #red, #love, #power"
   - username: "fuser.martina"
     fullname: >-
       Martina Fuser

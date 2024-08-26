@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Montreal In 2023
+title: Top 10 TikTok Influencers In Montreal In 2024
 description: >-
-  Find top TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #montreal #mtl #foryou.
+  Find top TikTok influencers in Montreal in 2024. Most popular hashtags: #fyp #montreal #mtl #foryoupage.
 platform: TikTok
-hits: 353
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 353 TikTok influencers like this in Montreal, Canada for you to connect with.
+hits: 352
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 352 TikTok influencers like this in Montreal, Canada for you to pitch.
 profiles:
   - username: "iamstevedaniels"
     fullname: >-

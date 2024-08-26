@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Russia In 2023
+title: Top 10 Guitar Instagram Influencers In Russia In 2024
 description: >-
-  Find top guitar Instagram influencers in Russia in 2023. Most popular hashtags: #guitarcover #piano #joanjett.
+  Find top guitar Instagram influencers in Russia in 2024. Most popular hashtags: #pianocover #sledheadz #russiansingers.
 platform: Instagram
-hits: 76
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 76 Instagram influencers like this in Russia for you to contact.
+hits: 77
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database has 77 Instagram influencers like this in Russia for you to work with.
 profiles:
   - username: "hayrzamanov"
     fullname: >-
@@ -55,18 +55,6 @@ profiles:
     id: ck5zlsfd7las80i143wxqjdh1
     verified: false
     hashtags: "#turkey, #side, #rock, #antic"
-  - username: "darya.tyusheva"
-    fullname: >-
-      ᴅᴀʀʏᴀ
-    bio: >-
-      ✩RUSSIAN METAL POWER ⛓️👯💪 ♡playing guitar & drawing @rockstylecustom ⛓️Heavy Metal day to all 🤘🔥
-    location: "Russia"
-    followers: 4114
-    engagement: 2609
-    commentsToLikes: 0.065195
-    id: ckaos4w85q3k70i78navkkv88
-    verified: false
-    hashtags: "#thrashmetal, #metalmusic, #deanguitars, #metalgirl"
   - username: "antkatya"
     fullname: >-
       Antonova Katerina
@@ -127,4 +115,16 @@ profiles:
     id: ck13b2xe4tfj30i19drvt4xhq
     verified: false
     hashtags: "#behindthescenes, #gig, #live, #1930"
+  - username: "jd_lascala"
+    fullname: >-
+      Petr Ezdakov
+    bio: >-
+      • @lascalaband: guitar & sound production • @thekontrabandz: producer • Endorsed by: AMT Electronics & Fokin 🔥 Новый альбом:
+    location: "Russia"
+    followers: 4847
+    engagement: 734
+    commentsToLikes: 0.034513
+    id: ck5hlxqbll1qf0i11scueaxtz
+    verified: false
+    hashtags: "#mustbylook, #tattofire, #spotifyrussia, #chillvibes"
 ---

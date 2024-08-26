@@ -1,11 +1,11 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Russia In 2023
+title: Top 10 Boxers Instagram Influencers In Russia In 2024
 description: >-
-  Find top boxers Instagram influencers in Russia in 2023. Most popular hashtags: #boxing #boxinglife #instagood.
+  Find top boxers Instagram influencers in Russia in 2024. Most popular hashtags: #boxing #boxinglife #instagood.
 platform: Instagram
 hits: 36
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 36 Instagram influencers like this in Russia for you to pitch.
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 36 Instagram influencers like this in Russia for you to connect with.
 profiles:
   - username: "artem_oganesyan001"
     fullname: >-

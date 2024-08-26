@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In Ireland In 2023
+title: Top 10 Divers TikTok Influencers In Ireland In 2024
 description: >-
-  Find top divers TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #driverslicense #irish #foryou.
+  Find top divers TikTok influencers in Ireland in 2024. Most popular hashtags: #fyp #foryou #driverslicense #irish.
 platform: TikTok
-hits: 17
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 17 TikTok influencers like this in Ireland for you to connect with.
+hits: 15
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 15 TikTok influencers like this in Ireland for you to work with.
 profiles:
   - username: "sequanaobrienn"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.032134
     id: ckauptlebuwl90j23q8q4jy6x
     verified: false
-    hashtags: "#fyp, #ad, #curtainbangs, #shopifolk"
+    hashtags: "#comingofage, #lifeslittleedits, #ad, #shopifolk"
   - username: "shtinky.cos"
     fullname: >-
       👾Trin👾
@@ -103,18 +103,6 @@ profiles:
     id: ckc8xy45tm7ks0j23zdq91uk4
     verified: false
     hashtags: "#rottweiler, #dogtraining, #funnydog, #dogsoftiktok"
-  - username: "grainnesmusic"
-    fullname: >-
-      Madrarua
-    bio: >-
-      
-    location: "Ireland"
-    followers: 3086
-    engagement: 1773
-    commentsToLikes: 0.068810
-    id: ckdi6v11f8iw70j23m7d5sk4g
-    verified: false
-    hashtags: "#songwriting, #guitar, #potter, #duet"
   - username: "katydaly3"
     fullname: >-
       K8 ❤️
@@ -127,4 +115,16 @@ profiles:
     id: ckd6wtw7zt0b60j230o56pf5e
     verified: false
     hashtags: "#asosinthebag, #irish, #tallgirl, #lockdown"
+  - username: "lukej2e"
+    fullname: >-
+      Luke 2eee
+    bio: >-
+      If you follow me you’re practically on my private story he/him
+    location: "Ireland"
+    followers: 67900
+    engagement: 2169
+    commentsToLikes: 0.017954
+    id: ckav10fc56wrm0j23j599mdwj
+    verified: false
+    hashtags: "#thiscouldbeus, #whatilearned, #netflix, #fyp"
 ---

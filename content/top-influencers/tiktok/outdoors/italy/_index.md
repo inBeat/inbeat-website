@@ -1,11 +1,11 @@
 ---
-title: Top 10 Outdoors TikTok Influencers In Italy In 2023
+title: Top 10 Outdoors TikTok Influencers In Italy In 2024
 description: >-
-  Find top outdoors TikTok influencers in Italy in 2023. Most popular hashtags: #travel #italia #italy #sunset.
+  Find top outdoors TikTok influencers in Italy in 2024. Most popular hashtags: #travel #italy #italia #sunset.
 platform: TikTok
 hits: 8
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 8 TikTok influencers like this in Italy for you to connect with.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 8 TikTok influencers like this in Italy for you to collaborate.
 profiles:
   - username: "filippobellisola"
     fullname: >-

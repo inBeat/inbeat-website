@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Montreal In 2023
+title: Top 10 Travel TikTok Influencers In Montreal In 2024
 description: >-
-  Find top travel TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #montreal #travel #canada.
+  Find top travel TikTok influencers in Montreal in 2024. Most popular hashtags: #fyp #montreal #travel #canada.
 platform: TikTok
-hits: 19
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine has 19 TikTok influencers like this in Montreal, Canada for you to work with.
+hits: 17
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine has 17 TikTok influencers like this in Montreal, Canada for you to contact.
 profiles:
   - username: "benjyfilms"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.026334
     id: ckcozizwiaibj0j2315vg30ls
     verified: false
-    hashtags: "#filmmaker, #photographer, #fyp, #travel"
+    hashtags: "#photographer, #wanderlust, #costarica, #fyp"
   - username: "_pifou"
     fullname: >-
       Alexis Pifou

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Australia In 2023
+title: Top 10 Home Decor TikTok Influencers In Australia In 2024
 description: >-
-  Find top home decor TikTok influencers in Australia in 2023. Most popular hashtags: #homedecor #fyp #foryoupage #xyzbca.
+  Find top home decor TikTok influencers in Australia in 2024. Most popular hashtags: #homedecor #fyp #xyzbca #howto.
 platform: TikTok
 hits: 35
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our database has 35 TikTok influencers like this in Australia for you to pitch.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 35 TikTok influencers like this in Australia for you to pitch.
 profiles:
   - username: "ross_dilks_26"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.083145
     id: ck9r3vrd2s5xw0j78k738mvkd
     verified: false
-    hashtags: "#momlife, #homedecor, #ladies, #wife"
+    hashtags: "#tiktoktips, #foryoupage, #mumsontiktok, #relatable"
   - username: "merakiaus"
     fullname: >-
       Meraki
@@ -85,12 +85,12 @@ profiles:
     bio: >-
       Aussie Blogger 🇦🇺 Home Styling Tips🏡 Follow me on Instagram 👆🏼
     location: "Australia"
-    followers: 106200
-    engagement: 384
-    commentsToLikes: 0.008387
+    followers: 106300
+    engagement: 498
+    commentsToLikes: 0.006961
     id: cka656q7sbrr20i78fxj2m6ex
     verified: false
-    hashtags: "#roomdecor, #cleaningszn, #minivlog, #roommakeover"
+    hashtags: "#learnontiktok, #learnfromeme, #mumsontiktok, #christmastreedecor"
   - username: "chloe._.wolfsong"
     fullname: >-
       ❄️ Mother of 3.0k 🌨

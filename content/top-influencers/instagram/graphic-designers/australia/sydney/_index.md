@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Sydney in 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Sydney In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Sydney in 2023. Most popular hashtags: #graphicdesign #design #graphicdesigner #thefashionforce.
+  Find top graphic-designers Instagram influencers in Sydney in 2024. Most popular hashtags: #graphicdesign #painting #homewares #westernaustralia.
 platform: Instagram
-hits: 9
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 9 Instagram influencers like this in Sydney, Australia for you to collaborate.
+hits: 6
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 6 Instagram influencers like this in Sydney, Australia for you to contact.
 profiles:
   - username: "jessnugent1"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       ✮ Sydney, Aus. ↟ BA - Psych. ⋒ Mental Health Awareness ↡ Kindness, Positivity & Hashbrowns ⊚ Empath/HSP ♥ Seb . Graphic Designer - @nugentmedia
     location: "Australia"
-    followers: 18741
-    engagement: 477
-    commentsToLikes: 0.093331
+    followers: 19109
+    engagement: 332
+    commentsToLikes: 0.093538
     id: ck6ugskt34x4r0j71i87xr1kv
     verified: false
-    hashtags: "#mentalhealthmatters, #mentalhealthquotes, #bekind, #selflove"
-  - username: "carterhookdesigns"
+    hashtags: "#createthegood, #lightworker, #mentalhealth, #ootd"
+  - username: "soybabie_"
     fullname: >-
-      Carter Hook
+      Paintings By Kitch
     bio: >-
-      Freelance web/graphic designer based in the Sunshine Coast, Australia. Clients within the NBA.
+      Artist currently recovering from a brain injury I have legitimate amnesia lol 🧠 Shop my art @artbykitch soybabie@outlook.com | Melbourne
     location: "Australia"
-    followers: 6440
-    engagement: 3379
-    commentsToLikes: 0.037152
-    id: ckaoy36pnfv960i78ofjijp9b
+    followers: 18426
+    engagement: 147
+    commentsToLikes: 0.121999
+    id: cl48q86hxlgde0i23tyrhhjj5
     verified: false
-    hashtags: "#nba, #digitalizesports, #graphicdesign, #sportsgraphics"
-  - username: "glamgirlamy"
+    hashtags: "#interiorstyling, #naarm, #icedcoffee, #melbourneartist"
+  - username: "so_social"
     fullname: >-
-      GLAM BY AMY
+      Sydney Social Media Agency
     bio: >-
-      Mobile Makeup Artist 🚙✈️ Amy@GlamByAmy.com.au Makeup Classes: @glambyamyworkshops Graphic Designer: @diamondgraphicssydney Lashline: @billionlashes
+      We are brand builders, content creators, designers, creatives and everything in between. Online courses relaunching soon. @sosocialhq 🏠
     location: "Australia"
-    followers: 69826
-    engagement: 52
-    commentsToLikes: 0.050261
-    id: ck5q9o3tuc40f0i11na93j5bn
+    followers: 39882
+    engagement: 36
+    commentsToLikes: 0.009439
+    id: clp0onj8z8fl00j08r3kxcoi4
     verified: false
-    hashtags: "#undiscovered, #anastasiabeverlyhills, #plouisemakeupacademy, #maybelline"
-  - username: "karina_jambrak"
+    hashtags: "#logo, #contentcreation, #logodesign, #sosocial"
+  - username: "reecreative"
     fullname: >-
-      Karina ~ Australian Artist
+      Social Media & Brand Design Agency
     bio: >-
-      ✍🏽 Made in Aus 🌴As seen on @adairs @adairskids @thejungalow @theblock @greenhouseinteriors @kollabcollection 🌏 I ship worldwide! 👇🏽SHOP & learn more🧡
+      🏆 Award Winning ~ 100+ 5 Star Google Reviews We help business owners build their brand Photography x Content Studio — @captured.byree
     location: "Australia"
-    followers: 62736
-    engagement: 276
-    commentsToLikes: 0.066156
-    id: ck0u2d4skzht70i19m6z3zo28
+    followers: 30071
+    engagement: 13
+    commentsToLikes: 0.011562
+    id: clpny42id3xsc0k08mu6w3scb
     verified: false
-    hashtags: "#spicetones, #livingroominspo, #smallbusinessowner, #womeninbusiness"
-  - username: "justcreative"
+    hashtags: "#luxurybranding, #sydneysocials, #sydneydesigner, #sydneydesignagency"
+  - username: "mulganai"
     fullname: >-
-      Jacob Cass | Branding + Design
+      Emma Hollingsworth
     bio: >-
-      🎨 Logo & Identity Design + Brand Strategist 🤓 Sharing branding, design & biz knowledge 💖 Clients: Nike, Disney, Seinfeld 👇 Portfolio, Freebies, Blog
+      Kaanju ~ Kuku Ya’u ~ Girramay artist Mulganai ‘Mol•gan•eye’ 📍 Meanjin RAP art & corporate art Commissions/ Personalised art Art hire 🌐 Mulganai.com
     location: "Australia"
-    followers: 30004
-    engagement: 175
-    commentsToLikes: 0.143709
-    id: ck0ty1a47l6fc0i199fk1z0ex
+    followers: 53646
+    engagement: 164
+    commentsToLikes: 0.047355
+    id: cks1re261s4fw0j23ht0wyhh2
     verified: false
-    hashtags: "#designhacks, #freelancegraphicdesigner, #innertriangle, #freelancedesign"
-  - username: "codiezofia"
+    hashtags: "#aboriginalbusiness, #artist, #contemporaryart, #buyart"
+  - username: "the_margarita_mum"
     fullname: >-
-      Codie Zofia
+      Rhonda Withers
     bio: >-
-      Fashion ☼ Travel ☼ Lifestyle ☼ Product photographer @codiezofiacreative @lunaandithelabel TikTok: codiezofia Contact: hello@codiezofia.com
+      🍸My journey to find the world's best MARGARITA🔞 👩‍⚖️Rhonda 🍹Cocktail & Mocktail Creator Styling &Photography©️ 🍸 Est 2016®️ 🥗 @the_margarita_mum_food
     location: "Australia"
-    followers: 7677
-    engagement: 352
-    commentsToLikes: 0.270358
-    id: ck9h9rgdt9o1q0j78y8qn7j07
+    followers: 121483
+    engagement: 5
+    commentsToLikes: 0.000000
+    id: ck0w235uxmeeg0i19o8do0kbs
     verified: false
-    hashtags: "#ysllove, #streetstyleparis, #parisianstyle, #girlpowertravel"
-  - username: "charispixie"
+    hashtags: "#ginandtonic, #oaxaca, #mocktail, #mexico"
+  - username: "lana_del_red"
     fullname: >-
-      Charis Pixie | Fashion & Rosé
+      🌤 Ｌａｎａ Ｂａｎａｎａ🍌
     bio: >-
-      A Mix of Outfits, Dogs & Wine🍷 #styledbypixie 🌸 📧 charis@thetalentsoc.com | charis.uppal@yahoo.com Owner @silkwolfe |🎙@betweenthewinespodcast
+      Graphic Designer Shared Visual Arts Page - @socoastdigital Art Shop ⤵️
     location: "Australia"
-    followers: 31927
-    engagement: 103
-    commentsToLikes: 0.470966
-    id: ck13daoq94i9f0i19oswdy55t
+    followers: 2616
+    engagement: 1183
+    commentsToLikes: 0.085231
+    id: ck5hsfdm6wial0i11fehzs70j
     verified: false
-    hashtags: "#effortlesschic, #nudelucythelabel, #theigbootcamp, #thefashionforce"
-  - username: "celinegittens"
+    hashtags: "#gingers, #explorerbabes, #seeaustralia, #westernaustralia"
+  - username: "doyle.snaps"
     fullname: >-
-      Céline Gittens
+      Colm Doyle
     bio: >-
-      Principal Ballerina @bhamroyalballet ARAD @royalacademyofdance Genée Gold Medalist & Audience Award Winner MPhil @unibirmingham
+      Perth, Western Australia. Graphic Designer & Photographer. Prints available, visit my website or PM.
     location: "Australia"
-    followers: 6671
-    engagement: 541
-    commentsToLikes: 0.018385
-    id: ck55l1bqk0j5r0i11pawqiame
+    followers: 4666
+    engagement: 1230
+    commentsToLikes: 0.093688
+    id: ck8t900gumgbp0j78hw1q2wvt
     verified: false
-    hashtags: "#balletphotography, #dancer, #classicalmusic, #ballet"
-  - username: "coaparchitects"
+    hashtags: "#world, #perthlife, #oceanphotography, #dunsborough"
+  - username: "designbyaikonik"
     fullname: >-
-      CO-AP (Architects)
+      CARISSA SMART
     bio: >-
-      Architecture & Interiors #coaparchitects
+      Graphic Designer | Digital Content 📍Melbourne ✉️ carissa@designbyaikonik.com.au 👇🏼 50% off All Downloadable Planners/Calendars Use Code: AIKONIK50
     location: "Australia"
-    followers: 11384
-    engagement: 240
-    commentsToLikes: 0.020926
-    id: ck13c52l2ynkh0i19wcfdgmin
+    followers: 91478
+    engagement: 77
+    commentsToLikes: 0.056039
+    id: ck0vvw94ur1qi0i1937kxyz5k
     verified: false
-    hashtags: "#architecture, #workinprogress, #australianarchitecture, #rosshoneysett"
-  - username: "mietta__"
+    hashtags: "#nudebynaturepartner, #crueltyfree, #mymineralcover, #writetocreate"
+  - username: "lisazhou_art"
     fullname: >-
-      MIETTA *:･ﾟ✧
+      Lisa Zhou
     bio: >-
-      MELB / 23 ✨ Crew + Visual Artist for @loading_erro.r 💕 Graphic Designer at @graphics.mietta
+      🇨🇳 🇦🇺 Illustrator / Graphic Designer Pixiv 微博 小红书 绿洲 Bilibili 抖音 Youtube 👉🏾 LisaZhou_Art
     location: "Australia"
-    followers: 7146
-    engagement: 693
-    commentsToLikes: 0.063601
-    id: ck14jjoxfkp8f0i19ddbpauyi
+    followers: 7830
+    engagement: 1021
+    commentsToLikes: 0.024315
+    id: ckf5xfl68vh9r0j232i8yb9ov
     verified: false
-    hashtags: "#viva, #vivaproducts, #cultureupdate"
+    hashtags: "#japanesefood, #bakery, #foodillustration, #lisazhou"
 ---

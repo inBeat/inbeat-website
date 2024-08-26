@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Poland In 2023
+title: Top 10 Travel TikTok Influencers In Poland In 2024
 description: >-
-  Find top travel TikTok influencers in Poland in 2023. Most popular hashtags: #podr #dc #fyp #poland.
+  Find top travel TikTok influencers in Poland in 2024. Most popular hashtags: #dc #podr #fyp #tiktoktravel.
 platform: TikTok
 hits: 64
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform holds 64 TikTok influencers like this in Poland for you to work with.
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 64 TikTok influencers like this in Poland for you to connect with.
 profiles:
   - username: "its.me.to.be"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.040857
     id: ck80oectsh9ix0j78kzineveo
     verified: true
-    hashtags: "#mg, #las, #dc, #tiktoktravel"
+    hashtags: "#zima, #las, #podroze, #natura"
   - username: "sarahtpalmer"
     fullname: >-
       Sarah Palmer 

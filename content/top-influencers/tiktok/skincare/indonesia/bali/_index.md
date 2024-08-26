@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Bali In 2023
+title: Top 10 Skincare TikTok Influencers In Bali In 2024
 description: >-
-  Find top skincare TikTok influencers in Bali in 2023. Most popular hashtags: #fyp #skincare #foryoupage #foryou.
+  Find top skincare TikTok influencers in Bali in 2024. Most popular hashtags: #fyp #skincare #foryoupage #foryou.
 platform: TikTok
 hits: 6
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 6 TikTok influencers like this in Bali, Indonesia for you to work with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 6 TikTok influencers like this in Bali, Indonesia for you to connect with.
 profiles:
   - username: "divocado"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.050169
     id: ck9fme94ft2n40j78bx0jig2x
     verified: false
-    hashtags: "#fyp, #sunset, #bali, #tiktoktravel"
+    hashtags: "#sunset, #tiktoktravel, #bali, #fyp"
   - username: "sayblebaby"
     fullname: >-
       Sayble
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.159415
     id: ck8khxt17opqi0j78jxqe9m2f
     verified: false
-    hashtags: "#beauty, #lashes, #learnwithme, #hair"
+    hashtags: "#learnwithme, #hair, #skincareroutine, #lashes"
   - username: "diasmei"
     fullname: >-
       DiasMei
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.051912
     id: cka65zgowf99g0i78xyxxi9y9
     verified: false
-    hashtags: "#mulaidari100, #kejardiskonwib, #skincarewithdanny, #skincare"
+    hashtags: "#mulaidari100, #skincarewithdanny, #kejardiskonwib, #asmr"
   - username: "abelsoe"
     fullname: >-
       ABEL ✨

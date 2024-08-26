@@ -1,12 +1,24 @@
 ---
-title: Top 10 Cat Owners Instagram Influencers In 2023
+title: Top 10 Cat Owners Instagram Influencers In 2024
 description: >-
-  Find top cat owners Instagram influencers in 2023. Most popular hashtags: #kitten #christmas #catsofinstagram #coffee.
+  Find top cat owners Instagram influencers in 2024. Most popular hashtags: #catsofinstagram #cat #catstagram #cats.
 platform: Instagram
-hits: 183
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 183 Instagram influencers like this for you to connect with.
+hits: 197
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 197 Instagram influencers like this for you to work with.
 profiles:
+  - username: "mydreamycats"
+    fullname: >-
+      Cats | Kittens | Kittens Lover
+    bio: >-
+      📩DM For Advertising📩 👇Click Here To Get Yours👇 Join the world's first ever decentralized blockchain rich cat owners club. ONLY FOR RICH CAT OWNERS.
+    location: "United States"
+    followers: 657275
+    engagement: 116
+    commentsToLikes: 0.012471
+    id: ck138x3fsig4d0i19hswrstb1
+    verified: false
+    hashtags: ""
   - username: "mister_linio"
     fullname: >-
       Mister Linio
@@ -67,30 +79,18 @@ profiles:
     id: ck0vvt5lyqngl0i19y3z9pzen
     verified: false
     hashtags: "#botwlink, #cosplay, #botwcosplay, #beforeandafter"
-  - username: "murphose"
-    fullname: >-
-      Pamela Olender ✨
-    bio: >-
-      • Lifestyle instablogger 💁🏼‍♀️ • Actress 🎭 & photomodel 📸 • Skincare lover & cat owner 🐈 • Manchester, UK📍🇬🇧
-    location: "United Kingdom"
-    followers: 14227
-    engagement: 934
-    commentsToLikes: 0.105104
-    id: ck9weg93qk4ij0j78023d7dnb
-    verified: false
-    hashtags: "#summervibes, #manchesterblogger, #hastings, #summeroutfits"
   - username: "cristispd"
     fullname: >-
       Cristian
     bio: >-
       Petrolhead, gadget freak, sneakerhead, perfume lover 🏎 VW Scriocco R 👃 Aventus by Creed 🐱 Cat owner @losmotanosbandidos
     location: "United States"
-    followers: 7580
-    engagement: 587
-    commentsToLikes: 0.005574
+    followers: 7175
+    engagement: 581
+    commentsToLikes: 0.006248
     id: ck14her309yh10i194cgzuet6
     verified: false
-    hashtags: "#scirocco, #vwscirocco, #vwr, #carlifestyle"
+    hashtags: "#tuning, #carwrap, #sky, #vwscirocco"
   - username: "trekcatcatcat"
     fullname: >-
       TCCC

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food Instagram Influencers In Mumbai In 2023
+title: Top 10 Food Instagram Influencers In Mumbai In 2024
 description: >-
-  Find top food Instagram influencers in Mumbai in 2023. Most popular hashtags: #food #foodie #mumbai #delicious.
+  Find top food Instagram influencers in Mumbai in 2024. Most popular hashtags: #mumbaifoodie #food #indianfood #mumbai.
 platform: Instagram
-hits: 649
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 649 Instagram influencers like this in Mumbai, India for you to collaborate.
+hits: 771
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 771 Instagram influencers like this in Mumbai, India for you to connect with.
 profiles:
   - username: "_foodride_"
     fullname: >-
@@ -30,19 +30,7 @@ profiles:
     commentsToLikes: 0.023224
     id: ck1376zw0a3rl0i19q7otla8j
     verified: false
-    hashtags: "#mumbaimerijaan, #bandrawest, #curlytales, #delhifood"
-  - username: "cadel_tales"
-    fullname: >-
-      Mohit & Bushra|Kolkata & Delhi
-    bio: >-
-      Where Calcutta’s charm meets Delhi’s finesse ❤️ Use #cadeltales to get featured DM for paid Collaboration/Invites/Restaurant PR Subscribe ⬇️
-    location: "India"
-    followers: 54312
-    engagement: 1228
-    commentsToLikes: 0.023921
-    id: ck8t9ybc1psjz0j78v4f9yqs6
-    verified: false
-    hashtags: "#calcuttacacophony, #sandwiches, #sodelhi, #foodcoma"
+    hashtags: "#mumbaiuncensored, #mumbaifood, #dombivli, #mumbaifoodguru"
   - username: "veg_delights"
     fullname: >-
       Shivani Parakh|Food Enthusiast
@@ -55,18 +43,6 @@ profiles:
     id: ckf5xg3dkvjez0j23a5et1o96
     verified: false
     hashtags: "#kolkatafoodies, #southindianfood, #eating, #food"
-  - username: "foodie_on_enfield"
-    fullname: >-
-      Ashish Shrivastav Surat
-    bio: >-
-      📍#surat 🔁 #mumbai 🔸#foodblogger |explorer 🍩|#influencer 🔸dm for INVITES, COLLAB/REVIEWS🍷 🔸jòùrnèŷ òń Èńfíèld ïń D śèàrćh òf Fœd🍕
-    location: "India"
-    followers: 65985
-    engagement: 175
-    commentsToLikes: 0.023528
-    id: ck1376fwza0ta0i19kh7t887l
-    verified: false
-    hashtags: "#mumbaifoodlovers, #southindianfood, #delhistreetfood, #indianfoodblogger"
   - username: "wheresthyfood"
     fullname: >-
       WTF(WheresThyFood)| Navimumbai
@@ -79,18 +55,18 @@ profiles:
     id: ck136csyd5uro0i19hy3i6cgg
     verified: false
     hashtags: "#instafood, #nonveg, #foodbloggers, #vashi"
-  - username: "mumbai_archiac"
+  - username: "mh_13_food"
     fullname: >-
-      Mumbai || Dallas || Foodie's
+      Rizwan Chouhan
     bio: >-
-      Mumbai🇮🇳|Dallas🇺🇲 • Cuisine👅 • Lifestyle👔 • Events📣 • DM for Paid Partnerships & Invites💬 📷Use #mumbai_archiac & #mumbaiarchiac
+      🅲🅻🅸🅲🅺 ➡🅴🅰🆃➡🆁🅴🅿🅴🅰🆃 📩Dm/Mail-invites/Collaboration/Promotion. . Admin @rizchouhan7 . #mh_13_food 👇
     location: "India"
-    followers: 18294
-    engagement: 203
-    commentsToLikes: 0.003238
-    id: ck6u85eq9pjfr0j714avm35yx
+    followers: 53962
+    engagement: 274
+    commentsToLikes: 0.003804
+    id: ckf5s95xjf2aw0j234aieuyrv
     verified: false
-    hashtags: "#velvetcake, #dallasfoodblogger, #texas, #mumbai"
+    hashtags: "#foodstagram, #foodphotography, #solapuri, #trendingreelsvideo"
   - username: "lawyeronexpedition"
     fullname: >-
       Shreya Hatila | Jaipur Blogger
@@ -103,28 +79,52 @@ profiles:
     id: ck8t7j102gzmn0j78u9bx9mbp
     verified: false
     hashtags: "#reels, #foodbossindia, #starters, #jaipur"
-  - username: "scorpio.puja"
+  - username: "rohitgida"
     fullname: >-
-      PUJA NEGI || CONTENT CREATOR
+      Rohit Gida
     bio: >-
-      Fashion. Beauty. Lifestyle & Travel Mail for paid collaboration
+      Alias: @almosthumanofc CEO: @hightidefestival_india
     location: "India"
-    followers: 22734
-    engagement: 288
-    commentsToLikes: 0.312250
-    id: ck15uxsfqp09j0i19wjowrqma
+    followers: 33280
+    engagement: 711
+    commentsToLikes: 0.037130
+    id: ck55oerpk87pt0i11vit2f0oa
     verified: false
-    hashtags: "#instafashion, #reels, #fashionblogger, #explorepage"
-  - username: "food_storeys"
+    hashtags: "#djing, #deephouse, #producers, #club"
+  - username: "worthytale"
     fullname: >-
-      Food Storeys | Niket Kaskar
+      Pulkit Daga || Food Blogger
     bio: >-
-      Food | Travel | Explore Zomato Connoisseur Dm For Invites and Collaboration. Google & TripAdvisor Contributor
+      फ़ूड ब्लॉगर Guiding you to the best food hubs! Mumbai | Delhi 🌿 Vegetarian DM for Invites/Collaborations/Promotions 📩 worthytale@gmail.com
     location: "India"
-    followers: 16709
-    engagement: 291
-    commentsToLikes: 0.064632
-    id: ckaos6ov1qc190i78gp1is3u3
+    followers: 127673
+    engagement: 280
+    commentsToLikes: 0.010274
+    id: ck0w3m49gu3s00i19i6jweilf
     verified: false
-    hashtags: "#ice, #reelitfeelit, #yummy, #foodporn"
+    hashtags: "#mumbaifoodie, #quickrecipes, #easyrecipe, #homemadefood"
+  - username: "lakshya2204"
+    fullname: >-
+      LAKSHYA HANDA
+    bio: >-
+      Shakti,IshkParZorNahi,MaddamSir,ShubhLaabh,PhirLautAayiNaagin,Kaneez(JioCinema)etc. Roti🍱|Kapda👕|Phillum🎥 Managed by @pinnaclecelebs
+    location: "India"
+    followers: 90838
+    engagement: 26
+    commentsToLikes: 0.005907
+    id: ck5zkqx3yjzus0i14wtuegup1
+    verified: false
+    hashtags: "#funny, #fun, #menfashion, #caption"
+  - username: "thefoodguruji"
+    fullname: >-
+      The Food Guruji
+    bio: >-
+      Ketan Food Lifestyle Travel Zomato Connoisseur Micro blogger and Social media brand influencer #thefoodguruji 🇮🇳 Watch My Videos 👇👇
+    location: "India"
+    followers: 119082
+    engagement: 70
+    commentsToLikes: 0.007811
+    id: ck136ctzl5uw70i19khthhalf
+    verified: false
+    hashtags: "#indianfood, #mumbai, #manali, #travelblog"
 ---

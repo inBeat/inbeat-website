@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Las Vegas In 2023
+title: Top 10 Makeup Instagram Influencers In Las Vegas In 2024
 description: >-
-  Find top makeup Instagram influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #makeup #lashes #makeuplooks.
+  Find top makeup Instagram influencers in Las Vegas in 2024. Most popular hashtags: #makeup #makeupartist #lasvegas #lasvegasmakeupartist.
 platform: Instagram
-hits: 172
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 172 Instagram influencers like this in Las Vegas, United States for you to pitch.
+hits: 209
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 209 Instagram influencers like this in Las Vegas, United States for you to pitch.
 profiles:
   - username: "film_krue"
     fullname: >-
@@ -19,30 +19,30 @@ profiles:
     id: ck5zr3kb3vtvy0i14p7gqqgmq
     verified: false
     hashtags: "#chicagofilmmaker, #guyswithtattoos, #chicagofilm, #chicagovlogger"
-  - username: "glowinriss"
+  - username: "laurenfillsup"
     fullname: >-
-      Marissa
+      Lauren Phillips ™️ | Model
     bio: >-
-      ✨Glowinriss Makeup & Things Las Vegas 💌Email only for collaboration
+      Just a Jersey Girl Who Likes to Have Fun on Camera @adulttimecom Ambassador | The Ultimate Ginger NJ ➡️ FL ☀️➡️ 📍Vegas/LA
     location: "United States"
-    followers: 50723
-    engagement: 198
-    commentsToLikes: 0.031843
-    id: ck0u8nfi17wpa0i19jcib3vhx
-    verified: false
-    hashtags: "#lasvegas, #benefit, #ultabeauty, #ulta"
-  - username: "taylormatas"
+    followers: 1334889
+    engagement: 97
+    commentsToLikes: 0.017424
+    id: ck5qe4873yn280i11r9e5vlcn
+    verified: true
+    hashtags: "#laurenphillips, #misslaurenphillips, #missphillips, #nexxxtlevel"
+  - username: "allisongreen"
     fullname: >-
-      Taylor Matas | TITI
+      Allison Green
     bio: >-
-      Mentor | Model | Showgirl | Dancer Hilo, HI | Las Vegas 📍 ♥twitter: @yourcupoftiti ♥youtube: taylor matas ♥cashapp/venmo: $taylormatas
+      Photographer 📸 @allisanphoto ⬅️ NEW PHOTO PAGE!
     location: "United States"
-    followers: 8166
-    engagement: 414
-    commentsToLikes: 0.034996
-    id: ckaowcndr8cbk0i785bw5yuhk
-    verified: false
-    hashtags: "#whathappensinvegasstaysinvegas, #hawaiitomiami, #lasvegas, #blessed"
+    followers: 312548
+    engagement: 90
+    commentsToLikes: 0.012820
+    id: ck5hels6ctkl10i11rrup2hmh
+    verified: true
+    hashtags: "#dimopoulos, #lasvegaslawfirm, #photo, #makeupartist"
   - username: "ashleymborrome"
     fullname: >-
       𝐀𝐬𝐡𝐥𝐞𝐲 𝐌𝐚𝐫𝐢𝐞𝐥 𝐁𝐨𝐫𝐫𝐨𝐦𝐞
@@ -55,6 +55,18 @@ profiles:
     id: ck15ricrb82yx0i19uxipnci2
     verified: false
     hashtags: "#tiktok, #quarantine, #explorepage, #makeup"
+  - username: "jenjenmakeup"
+    fullname: >-
+      Jenny
+    bio: >-
+      Makeup mom ✨ Las Vegas📍/ 🇲🇽 talent+jen@a-listme.com jennylara0528@gmail.com
+    location: "United States"
+    followers: 178946
+    engagement: 97
+    commentsToLikes: 0.010251
+    id: ck0vv567qnlil0i19t0mqcvht
+    verified: false
+    hashtags: "#tutorial, #glammakeup, #colourpopme, #tiktokmakeup"
   - username: "andrewsaintandrew"
     fullname: >-
       Andrew Saint Andrew 👑
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.048657
     id: ck8szotucp6g30j781b1ua5mr
     verified: false
-    hashtags: "#muamexicana, #undiscoveredmuas, #makeupfollowpage, #muasupport"
+    hashtags: "#muaunderdogs, #undertheradar, #mualatina, #mua"
   - username: "kafloxbeauty"
     fullname: >-
       Las Vegas Makeup Artist
@@ -115,16 +127,4 @@ profiles:
     id: ck0tv49vg9vaq0i19bofgane5
     verified: false
     hashtags: "#lasvegas, #houstonmakeupartist, #makeupartist, #makeupjunkie"
-  - username: "mermaidinheels"
-    fullname: >-
-      Cielo Fronteras
-    bio: >-
-      SHOP SHEIN SALE Now & use my code Q3mermaidin get discounts on your purchase! ⬇️ http://shein.top/10paiue5
-    location: "United States"
-    followers: 85723
-    engagement: 216
-    commentsToLikes: 0.021556
-    id: ck13c1hwxy5uf0i19co3fbycs
-    verified: false
-    hashtags: "#jadore, #sheingals, #lasvegasfoodie, #sponsored"
 ---

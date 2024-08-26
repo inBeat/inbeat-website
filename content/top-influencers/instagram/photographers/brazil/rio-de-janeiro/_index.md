@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Rio De Janeiro In 2023
+title: Top 10 Photographers Instagram Influencers In Rio De Janeiro In 2024
 description: >-
-  Find top photographers Instagram influencers in Rio De Janeiro in 2023. Most popular hashtags: #riodejaneiro #brazil #fotografia.
+  Find top photographers Instagram influencers in Rio De Janeiro in 2024. Most popular hashtags: #photography #riodejaneiro #photographer.
 platform: Instagram
 hits: 19
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 19 Instagram influencers like this in Rio de Janeiro, Brazil for you to contact.
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 19 Instagram influencers like this in Rio de Janeiro, Brazil for you to connect with.
 profiles:
   - username: "foto_vitorsilva"
     fullname: >-
@@ -115,16 +115,16 @@ profiles:
     id: ck5zmb12ym8nx0i14hu64e02c
     verified: false
     hashtags: "#guiadeniteroi, #retratos, #negra, #moda"
-  - username: "rafemoura"
+  - username: "leo_cordeiroo"
     fullname: >-
-      Fotógrafo - Rio de Janeiro
+      Leo Cordeiro 🇧🇷🇦🇷🇺🇾🇺🇸🇨🇦🇭🇷🇨🇱
     bio: >-
-      📸 Photographer 🌍 Travel, Portrait & Lifestyle 📷 Ensaios @rafaelmouraphotography 📚 Turismologia - UNIRIO Portifólio e Contatos 👇
+      📸 PHOTOGRAPHY 📸Sensual feminino 📍Rio de Janeiro Orçamento 📞 21981684112
     location: "Brazil"
-    followers: 33542
-    engagement: 133
-    commentsToLikes: 0.187334
-    id: ck0w5wwwc5tzt0i193g2kyyi6
+    followers: 74915
+    engagement: 62
+    commentsToLikes: 0.079071
+    id: ck5zszvq2zhn50i147gq3appz
     verified: false
-    hashtags: "#vejario, #destinosnacionais, #cachoeira, #visitbrazil"
+    hashtags: "#ensaioboudoirbrasil, #photo, #ensaiofotogra, #nua"
 ---

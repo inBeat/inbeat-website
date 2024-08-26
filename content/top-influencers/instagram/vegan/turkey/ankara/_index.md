@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Ankara In 2023
+title: Top 10 Vegan Instagram Influencers In Ankara In 2024
 description: >-
-  Find top vegan Instagram influencers in Ankara in 2023. Most popular hashtags: #ankara #vegan #yummy #food.
+  Find top vegan Instagram influencers in Ankara in 2024. Most popular hashtags: #ankara #vegan #istanbul #tatl.
 platform: Instagram
-hits: 11
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 11 Instagram influencers like this in Ankara, Turkey for you to collaborate.
+hits: 15
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 15 Instagram influencers like this in Ankara, Turkey for you to collaborate.
 profiles:
   - username: "aysenguney33"
     fullname: >-
@@ -19,18 +19,42 @@ profiles:
     id: ck0w34hp1rkf50i19wmyhzjz5
     verified: false
     hashtags: "#lezzet, #instafood, #sunum, #food"
-  - username: "burcusavasciofficial"
+  - username: "ankaraetkinlik"
     fullname: >-
-      Burcu Savaşçı
+      Ankara Etkinlik ®™
     bio: >-
-      Yemek yapmaya,fotoğraflamaya aşık bir yemek tutkunu .Ankara da mekan gezer,yorumlar . Tanıtım ve davetler için DM&mail 💌 ✨İnfluencer ✨Blogger
+      Tescilli Marka ®™
     location: "Turkey"
-    followers: 69773
-    engagement: 115
-    commentsToLikes: 0.303250
-    id: ck5cezhcgm0xf0i11xysp3pw1
+    followers: 114029
+    engagement: 156
+    commentsToLikes: 0.027035
+    id: ck0u6kgjj25gl0i1933eqbbi0
     verified: false
-    hashtags: "#karantina, #kahvalt, #foodlover, #foodblogger"
+    hashtags: "#ankarakahve, #reklam, #davet, #do"
+  - username: "figenyilmazwellness"
+    fullname: >-
+      Figen Yılmaz
+    bio: >-
+      @figenyilmazacademy 🍀Mutlu Kadınlar,Mutlu Yarınlar 👩🏻‍🎓Akademisyen 🏃🏻‍♀️Spor Bil. ve Egz.Uzmanı 🏅Başkent Üniv. Yaşam Koçu ⚕️Tıbbi Beslenme Danışmanı
+    location: "Turkey"
+    followers: 592505
+    engagement: 58
+    commentsToLikes: 0.047177
+    id: ck9hbc8ndg8tn0j786fyvhnqt
+    verified: false
+    hashtags: "#incir, #antiaging, #istanbul, #kiloverme"
+  - username: "haberturktv"
+    fullname: >-
+      Habertürk TV
+    bio: >-
+      📍Doğru Haber, Dinamik Sunum, Kaliteli Program, Güçlü Yorum 📌Habertürk TV Resmi Instagram Hesabı
+    location: "Turkey"
+    followers: 195108
+    engagement: 6
+    commentsToLikes: 0.104555
+    id: ck6u8g1ugrdu80j71lqowp5n2
+    verified: true
+    hashtags: "#enineboyuna, #mesut, #fenerbah, #karaci"
   - username: "gurmeakademi"
     fullname: >-
       Gurme Akademi
@@ -55,18 +79,42 @@ profiles:
     id: ck8sxghvahb3t0j78pnwh5izz
     verified: false
     hashtags: "#arao, #yag, #protein, #yes"
+  - username: "koksalfndk"
+    fullname: >-
+      Köksal Fındık
+    bio: >-
+      Guitarist at @avcikoray #vegan 🌱
+    location: "Turkey"
+    followers: 16742
+    engagement: 732
+    commentsToLikes: 0.031664
+    id: ck5cgb4boohnp0i11t5epwmhf
+    verified: false
+    hashtags: "#australia, #amsterdam, #korayavci, #stage"
+  - username: "tahaduymazz"
+    fullname: >-
+      Taha Duymaz
+    bio: >-
+      Reklam Ve iş birlikleri 👇 📩 kazimkaraoglu@kanguruyapim.com WhatsApp iletişim 0541 655 08 27
+    location: "Turkey"
+    followers: 1213359
+    engagement: 470
+    commentsToLikes: 0.026439
+    id: clnrbf6gpctom0j08t205n8uv
+    verified: false
+    hashtags: "#reelsvideo, #qatar, #turkey, #ankara"
   - username: "chefaydinoglu__official"
     fullname: >-
-      Aydın Aydınoğlu
+      Aydın Aydınoğlu
     bio: >-
       Eğitim ve danışmanlık için DM den ulaşabilirsiniz.🎂🇹🇷 AU PROCHAİN...AUX SOUVAİN... FIRST NEVER FOLLOW
     location: "Turkey"
-    followers: 20382
-    engagement: 472
-    commentsToLikes: 0.026478
+    followers: 20349
+    engagement: 473
+    commentsToLikes: 0.026537
     id: ck14irx7ngww40i19ka7fo192
     verified: false
-    hashtags: "#vegansofinstagram, #sweetfood, #sweetdreams, #instachocolate"
+    hashtags: "#vizyonumuzbelli, #toptags, #sweettooth, #foodie"
   - username: "burcinertekinofficial"
     fullname: >-
       Burçin
@@ -79,52 +127,4 @@ profiles:
     id: ck1385so1em9f0i19r84p7izw
     verified: false
     hashtags: "#antalyaka, #antalyakas, #antalyaturkey, #antalyafinike"
-  - username: "dyt_pelinyuksel"
-    fullname: >-
-      Diyetisyen Pelin YÜKSEL
-    bio: >-
-      🍏 Beslenme & Diyet Uzmanı 🌐 #onlinediyet #onlinediyetisyen 👩🏻‍🍳 Başkent Üni. TGA Eğitmen Şef 🍀 Fonksiyonel Tıp 📍 Söğütözü 📍 Etlik- Yenimahalle📍Cinnah
-    location: "Turkey"
-    followers: 15637
-    engagement: 548
-    commentsToLikes: 0.129430
-    id: ck6ue7ax1p8h10j71pw5gzdg6
-    verified: false
-    hashtags: "#canl, #ankaradiyet, #yemektarifleri, #yum"
-  - username: "misskokan_kurabiyeler"
-    fullname: >-
-      Damak şenlendiren kurabiyeler
-    bio: >-
-      🍰pratik☄️ 🍰Hesaplı ☄️ 🍰Çok Lezzetli... 🍰En güzel kurabiyeler☄️ 🦋#happymom Ali💙Emir💙Efe💙 🍪🍪🍪🍪👇👇👇👇
-    location: "Turkey"
-    followers: 91273
-    engagement: 209
-    commentsToLikes: 0.014985
-    id: ckf5wrdwisze60j23s9sdza63
-    verified: false
-    hashtags: "#amazing, #sunumduragi, #kandilsimidi, #tuzlukurabiye"
-  - username: "saglikli_fittt"
-    fullname: >-
-      Dilara Demir🍒🍓🥑
-    bio: >-
-      🌟Sağlıklı tarifler/Öğün önerileri 💕 🌟 Pilates❣️Glutensiz-Şekersiz Tarifler 📩Reklam, İşbirliği 👉 DM & dilarademir119@gmail.com
-    location: "Turkey"
-    followers: 90022
-    engagement: 254
-    commentsToLikes: 0.200912
-    id: ck8t09hz9raiu0j78lv4vxhe9
-    verified: false
-    hashtags: "#diyetyemekleri, #dinner, #motivasyon, #instalike"
-  - username: "haberturktv"
-    fullname: >-
-      Habertürk TV
-    bio: >-
-      Twitter.com/HaberturkTV facebook.com/HaberturkTV Doğru Haber, Dinamik Sunum, Kaliteli Program, Güçlü Yorum
-    location: "Turkey"
-    followers: 115377
-    engagement: 2
-    commentsToLikes: 0.105367
-    id: ck6u8g1ugrdu80j71lqowp5n2
-    verified: true
-    hashtags: "#enineboyuna, #mesut, #do, #tavuk"
 ---

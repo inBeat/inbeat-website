@@ -1,12 +1,24 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Nigeria In 2023
+title: Top 10 Cosmetics Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Nigeria in 2023. Most popular hashtags: #explore #explorepage #beauty #makeup.
+  Find top cosmetics Instagram influencers in Nigeria in 2024. Most popular hashtags: #explore #explorepage #beauty #makeup.
 platform: Instagram
-hits: 10
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat has 10 Instagram influencers like this in Nigeria for you to collaborate.
+hits: 13
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 13 Instagram influencers like this in Nigeria for you to connect with.
 profiles:
+  - username: "praise_that_photographer"
+    fullname: >-
+      The Greatest
+    bio: >-
+      Professional Photographer Creative director at @weddingsbyptp @ptpstudio_ For enquires 09076385698, OR Email Ikate, elegushi, lagos.
+    location: "Nigeria"
+    followers: 82873
+    engagement: 190
+    commentsToLikes: 0.009485
+    id: ck13666uw4xz40i19lmf15wb7
+    verified: false
+    hashtags: "#african, #ptp, #ptp2021, #thegreatest"
   - username: "aivlysu"
     fullname: >-
       Sylvia
@@ -30,7 +42,55 @@ profiles:
     commentsToLikes: 0.115014
     id: ckaowcbz88au40i78te9hv4ip
     verified: false
-    hashtags: "#gaintrick, #gaintrain, #beauty, #gains"
+    hashtags: "#gaintrain, #beauty, #gaintrick, #gainwithspikes"
+  - username: "efikzara"
+    fullname: >-
+      Z A R A
+    bio: >-
+      Composer ▴ Violinist ▴ Audiovisual Creator ▴ Trendsetter Defender of the GALAXIES 🪐 👻: EfikZara #EfikZara △ S.D.G △
+    location: "Nigeria"
+    followers: 100957
+    engagement: 585
+    commentsToLikes: 0.020783
+    id: ck5c3ne1szoem0i116nl1uo1i
+    verified: false
+    hashtags: "#explore, #efikzara, #fyp, #nobody"
+  - username: "ethamarh__"
+    fullname: >-
+      Ithamar.B | 𝕄𝕒𝕜𝕖𝕦𝕡 𝔼𝕟𝕥𝕙𝕦𝕤𝕚𝕒𝕤𝕥
+    bio: >-
+      ° Self taught MUA ° Beauty Influencer ° Face of @beautybyad 2022 ° 📍Calabar, Nigeria 🇳🇬 ° DM/Email for Collaborations, PR and ADs ° College Student
+    location: "Nigeria"
+    followers: 40743
+    engagement: 876
+    commentsToLikes: 0.029159
+    id: ckyf3upomqavv0j238opc4s1m
+    verified: false
+    hashtags: "#blackcreators, #gifted, #beautycreator, #beautyenthusiast"
+  - username: "kingpexxie"
+    fullname: >-
+      KP- THE BULL 🐃⚡️
+    bio: >-
+      Abba’s own💫 Author✍🏽 Investing in SMEs Lawyer building- @thebohemianlawyers ⚖️ Ex MD @kpmhdigital_ Investor 🥇 Hillz💔20-11-20 Fortune💔 21-09-21 🌎14/193
+    location: "Nigeria"
+    followers: 122370
+    engagement: 242
+    commentsToLikes: 0.047624
+    id: ck15uclrrmhyw0i19ghm7robg
+    verified: false
+    hashtags: "#kpthehost, #kingpexxie, #kptakeswestafrica, #boyonamission"
+  - username: "_celina_kama"
+    fullname: >-
+      Celina Kama
+    bio: >-
+      ✝️ That girl✨ Beauty Content creator 💄 skin, beauty, hair and a lil lifestyle 👩‍💼: @celi.care Business/Pr : 💌email
+    location: "Nigeria"
+    followers: 102980
+    engagement: 130
+    commentsToLikes: 0.001263
+    id: clrvcfaz0p3a40k0870id2kfv
+    verified: false
+    hashtags: "#dettolskincare, #glowwithdettolskincare, #dettolblossomtribe, #selfcare"
   - username: "tumi_esther"
     fullname: >-
       Esther Tumi Oluwagbemi.
@@ -42,7 +102,7 @@ profiles:
     commentsToLikes: 0.051897
     id: ck0tt4qdb15d40i195xwpw5dr
     verified: false
-    hashtags: "#melanin, #exploremore, #explore, #african"
+    hashtags: "#exploremore, #explore, #melanin, #african"
   - username: "mary_aebeh"
     fullname: >-
       AKUM
@@ -67,64 +127,4 @@ profiles:
     id: ck0w0w090gawu0i199mk1sqjz
     verified: false
     hashtags: "#explorepage, #melaninmakeupdaily, #makeupartistinnigeria, #lovegraphic"
-  - username: "blackchedder"
-    fullname: >-
-      Chedder😍
-    bio: >-
-      •Brand/Lifestyle influencer. •Actress / Model. Sc: Blackchedder_1 📍 Lagos, Nigeria. MANAGER: @mo_stephine Ambassador: @jeroidng Dm for promotions!
-    location: "Nigeria"
-    followers: 61654
-    engagement: 963
-    commentsToLikes: 0.025075
-    id: ck5q3drbbkbt80i11tn6gn5u8
-    verified: false
-    hashtags: "#exploremusic, #exploremore, #skincare, #explorepage"
-  - username: "uzodinmaesther"
-    fullname: >-
-      Esther Uzodinma
-    bio: >-
-      |Actor||Content Creator||Entertainment/Media| |Content Producer of @esther_tries | |Subscribe to my YouTube to watch| ⚠️ ~ I love the cameras 🎥
-    location: "Nigeria"
-    followers: 133872
-    engagement: 390
-    commentsToLikes: 0.033077
-    id: ck15tqr7gjfqi0i19suus260m
-    verified: false
-    hashtags: "#actor, #bitcoin, #content, #contentcreator"
-  - username: "kheri11"
-    fullname: >-
-      Kheri ☠️
-    bio: >-
-      •Business page @beauteous_by_jay @jay_wardrobe
-    location: "Nigeria"
-    followers: 11324
-    engagement: 261
-    commentsToLikes: 0.036969
-    id: ck13avvu5sg660i19fwhyczkr
-    verified: false
-    hashtags: ""
-  - username: "ciaraaanicolee"
-    fullname: >-
-      ciara ✝️💞.
-    bio: >-
-      -natural hair influencer💓| 5.7k? -i’m 15| dm/email for product/brand reviews -atl📍| dm me for promos💰 (paypal) - subscribe to my youtube ⬇️
-    location: "Nigeria"
-    followers: 5320
-    engagement: 6577
-    commentsToLikes: 0.016197
-    id: ckf5vzrjsqew20j23z4vrnatv
-    verified: false
-    hashtags: "#mixedgirl, #naturalhairstyles, #naturalhair, #swoop"
-  - username: "clinictheaesthetic"
-    fullname: >-
-      The Aesthetic Clinic
-    bio: >-
-      🏥 Medical skin care facility 📍Lagos 🇳🇬 08167832231,07014753123 📍Accra 🇬🇭 501213281 📍Montreal 🇨🇦 5149712583 🧴 @rejuvaskinnn 🏫 @instituteofaesthetics_
-    location: "Nigeria"
-    followers: 70995
-    engagement: 261
-    commentsToLikes: 0.088515
-    id: ck134gn44wbii0i19omkr8wvt
-    verified: false
-    hashtags: "#transformation, #melasmatreatment, #skinclinic, #rejuvaclinicaltrials"
 ---

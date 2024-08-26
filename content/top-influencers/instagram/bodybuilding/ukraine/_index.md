@@ -1,130 +1,106 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Ukraine in 2023
+title: Top 10 Bodybuilding Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top bodybuilding Instagram influencers in Ukraine in 2023. Most popular hashtags: #bodybuilding #fitness #motivation #sport.
+  Find top bodybuilding Instagram influencers in Ukraine in 2024. Most popular hashtags: #bodybuilding #fitness #workout #fitnessmotivation.
 platform: Instagram
-hits: 19
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 19 Instagram influencers like this in Ukraine for you to work with.
+hits: 8
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 8 Instagram influencers like this in Ukraine for you to contact.
 profiles:
-  - username: "orobets_sw"
+  - username: "suhoruchko"
+    fullname: >-
+      Vlad  Suhoruchko 🇺🇦🇦🇪
+    bio: >-
+      Team @dennisbigbadwolf ♠️ @bace_nutrition 🥑 @behealthy_dxb 🧷@extremesportstradinguae 🌎 Online Coaching Dubai🇦🇪
+    location: "Ukraine"
+    followers: 261199
+    engagement: 207
+    commentsToLikes: 0.010326
+    id: ck5hg71zu198j0i11n17sk88b
+    verified: false
+    hashtags: "#mrolympia, #dxb, #bodybuildingmotivation, #muscle"
+  - username: "orobets_ivan"
     fullname: >-
       IVAN OROBETS
     bio: >-
-      🔹I am 2️⃣2️⃣ years old♋️ 🔸7️⃣0️⃣ kg, 1️⃣8️⃣0️⃣ cm 🔹I am from Ukraine🇺🇦 🔸I training 8️⃣ years, #workout & #calisthenics 🔹My YouTube channel👇👇👇
+      
     location: "Ukraine"
-    followers: 27778
-    engagement: 848
-    commentsToLikes: 0.016346
+    followers: 28978
+    engagement: 946
+    commentsToLikes: 0.014693
     id: ck5c3ohruzqs70i111yc4udvy
     verified: false
-    hashtags: ""
-  - username: "twentypower"
-    fullname: >-
-      DAN
-    bio: >-
-      My main page @dan.khann Fitness trainer & model Life/Backstage/Work 📩 info.dankhan@gmail.com My blog 🔻
-    location: "Ukraine"
-    followers: 5480
-    engagement: 1083
-    commentsToLikes: 0.028128
-    id: ck5zrq33mx1vz0i14xmvq2m1p
-    verified: false
-    hashtags: "#naturalbodybuilding, #physique, #bodygoals, #bodyfit"
-  - username: "yaroslav_verba_ifbbpro"
-    fullname: >-
-      YAROSLAV VERBA IFBB PRO 🇺🇦
-    bio: >-
-      🏆PRO тренер 💪🏼Сделаю из тебя чемпиона онлайн 💊Подберу добавки 🔋Сохраню твое здоровье 🥇2x Mr.Olympia Amateur 🎓Вебинар «Темная сторона ББ», запишись👇🏼
-    location: "Ukraine"
-    followers: 21522
-    engagement: 589
-    commentsToLikes: 0.018407
-    id: ckaouwvn425wf0i78rlmn0bd7
-    verified: false
-    hashtags: "#cadillac, #bodybuilding, #yaroslavverba, #bodybuilder"
-  - username: "margarita_fomicheva"
-    fullname: >-
-      𝙈 𝘼 𝙍 𝙂 𝘼 𝙍 𝙄 𝙏 𝘼   𝙁𝙊𝙈𝙄𝘾𝙃𝙊𝙑𝘼
-    bio: >-
-      ▪️Сертифицированный тренер ▪️Модель 𝙁𝙞𝙩𝙣𝙚𝙨𝙨 𝙘𝙡𝙪𝙗💪🏻𝘼𝙪𝙧𝙖-𝙆𝙝𝙖𝙧𝙠𝙤𝙫 🇺🇦 𝙁𝙞𝙩𝙣𝙚𝙨𝙨 𝙗𝙞𝙠𝙞𝙣𝙞 🏆🥇Чемпионка Австрии 🏆Вице-чемпионка Европы 🏆Украины 𝟛 х🥇Харькова
-    location: "Ukraine"
-    followers: 16917
-    engagement: 242
-    commentsToLikes: 0.035196
-    id: ckaowx0zzatzk0i787v12awyz
-    verified: false
-    hashtags: "#fitnessmodel, #gym, #goodday, #happybirthday"
-  - username: "annet_us"
-    fullname: >-
-      Ус Анна
-    bio: >-
-      🌺Fitness Bikini 🥇miss Olympia Prague 2017 🏆Champ of Ukraine ⚫️Personal🔛Online training 📝Сотрудничество в direct
-    location: "Ukraine"
-    followers: 17821
-    engagement: 258
-    commentsToLikes: 0.024467
-    id: ck8tddm062xrx0j78o1g099zi
-    verified: false
-    hashtags: "#fitness, #npcbikini, #sportgirl, #fit"
-  - username: "angelika.lagoda"
-    fullname: >-
-      Angelika Lagoda | IFBB
-    bio: >-
-      ⠀ WEIDER AMBASSADOR 🇩🇪 Weider Germany 🇪🇸 Weider Spain Человек-AMINO-кислота __ 📌промокод «Angel» %
-    location: "Ukraine"
-    followers: 39574
-    engagement: 145
-    commentsToLikes: 0.035183
-    id: ck5zzq7vmc81k0i148rw0yd9o
-    verified: false
-    hashtags: "#xpark, #motivation, #weider, #model"
-  - username: "vova__champ"
-    fullname: >-
-      Vоlodymyr BYRUK
-    bio: >-
-      Trainer @5element.ua Bodybuilder🏆Vice World, Overall European Champ 🏋️‍♂️Powerlifter IPF total-1050kg/105,6kg ⬇️⬇️⬇️ONLINE COACHING🔴
-    location: "Ukraine"
-    followers: 6406
-    engagement: 403
-    commentsToLikes: 0.019552
-    id: ck5hna8o3ngk70i11c8au3fpn
-    verified: false
-    hashtags: "#5element, #fitness, #personaltrainer, #bodybuilding"
-  - username: "a_p_r_i_o_r_i"
-    fullname: >-
-      Maks Putria
-    bio: >-
-      💪Мастер-тренер тренажёрного 🤼‍♂️МС Украины Панкратион 🏋🏽‍♂️Победитель, призёр турниров по CrossFit 🏃‍♂️Победитель, призёр турниров забегов OCR
-    location: "Ukraine"
-    followers: 17772
-    engagement: 219
-    commentsToLikes: 0.064857
-    id: ck5ce5v47kdtn0i11md0wu5d1
-    verified: false
-    hashtags: "#ocrlife, #ocr, #powerlift, #crossfit"
+    hashtags: "#calisthenics, #bodybuilding, #planche, #frontlever"
   - username: "eugene_aesthetics_official"
     fullname: >-
       Евгений Михайленко
     bio: >-
       🇺🇦IFBB ELITE PRO 📸 Model 💪🏼Coach 🏆Classic physique 🥇Diamond cup 🥇Ukrainian/European/World champion 📃@allnutrition_ua @biolineinn @gorillawearukraine
     location: "Ukraine"
-    followers: 50077
-    engagement: 333
-    commentsToLikes: 0.014480
+    followers: 50412
+    engagement: 382
+    commentsToLikes: 0.008333
     id: ckaorh0etn6b00i78zds8gjw5
     verified: false
-    hashtags: "#ultraswole, #fbbu, #dsncomua, #roadtothedream"
-  - username: "soso.glonti"
+    hashtags: "#transformation, #dsncomua, #eatclean, #dneprcity"
+  - username: "alena_yakim"
     fullname: >-
-      SENSEI
+      Бодибилдинг  со Вкусом
     bio: >-
-      🗡️Атлет @roadtothedream По вопросам рекламы 👉 @rizhiy_sensei 👇 Бесплатный марафон 👇
+      🌟 women’s physique (ФББР) 🥇Чемпионка Москвы 2020 🥈Вице-чемпионка Москвы 2019 Персональный тренер ☄️ @kometa.fitness ☄️ @kometa.black
     location: "Ukraine"
-    followers: 119321
-    engagement: 598
-    commentsToLikes: 0.012934
-    id: ck602i188hfen0i14sipiimah
+    followers: 19083
+    engagement: 208
+    commentsToLikes: 0.065286
+    id: ckf5qvc8nalqi0j23l0cmclxs
     verified: false
-    hashtags: "#transformation, #samurai, #shredded, #fitnessgoals"
+    hashtags: "#kometafit, #fitnessgirl, #kometablack, #moscow"
+  - username: "monchak"
+    fullname: >-
+      Фотограф Monchak Jaroslav
+    bio: >-
+      • Photographer • Official Canon Ambassador • Founder @lighthouse_school • Founder @monhome.store
+    location: "Ukraine"
+    followers: 17545
+    engagement: 378
+    commentsToLikes: 0.021257
+    id: ck6tv2rmhjudr0j713fgm6nhy
+    verified: false
+    hashtags: "#bodybuildingwomen, #washedcotton, #blackandwhite, #blackandwhitephotography"
+  - username: "pilnikus"
+    fullname: >-
+      Pilnik 🐍
+    bio: >-
+      Tattoo,fitness,blog 🇺🇦Kharkov ⭕️Тренер персональных и индивидуальных занятий в @yodsportclub TikTok🐱 100k+ Likee 💛 40k+
+    location: "Ukraine"
+    followers: 2590
+    engagement: 2292
+    commentsToLikes: 0.033687
+    id: ck6u9e6pfx1cl0j71xo9o9gvk
+    verified: false
+    hashtags: "#viral, #fyp, #tiktok, #kharkov"
+  - username: "extaboo"
+    fullname: >-
+      EKATERINA
+    bio: >-
+      
+    location: "Ukraine"
+    followers: 2247
+    engagement: 1195
+    commentsToLikes: 0.052035
+    id: ck9hbvsdxio0w0j784x3va6gs
+    verified: false
+    hashtags: "#travel, #photooftheday, #lausanne, #autumn"
+  - username: "olesia__shevchuk"
+    fullname: >-
+      Olesia Shevchuk
+    bio: >-
+      @bettermestore @gym_glamour @gymbeamua helping women achieve their best ✨ workout with me ↓
+    location: "Ukraine"
+    followers: 2052989
+    engagement: 45
+    commentsToLikes: 0.003925
+    id: ckap54bo6a5660i78mv1a3hsf
+    verified: false
+    hashtags: "#gymbeam, #gymtips, #fitnessgoals, #glutesworkout"
 ---

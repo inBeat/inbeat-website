@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In 2023
+title: Top 10 Models TikTok Influencers In 2024
 description: >-
-  Find top models TikTok influencers in 2023. Most popular hashtags: #foryou #fyp #model #foryoupage.
+  Find top models TikTok influencers in 2024. Most popular hashtags: #foryou #fyp #foryoupage #model.
 platform: TikTok
-hits: 5585
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 5585 TikTok influencers like this for you to contact.
+hits: 5575
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 5575 TikTok influencers like this for you to pitch.
 profiles:
   - username: "mod3ls"
     fullname: >-

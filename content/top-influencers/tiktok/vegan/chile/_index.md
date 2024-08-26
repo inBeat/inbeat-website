@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Chile In 2023
+title: Top 10 Vegan TikTok Influencers In Chile In 2024
 description: >-
-  Find top vegan TikTok influencers in Chile in 2023. Most popular hashtags: #chile #fyp #vegan #tiktokchile.
+  Find top vegan TikTok influencers in Chile in 2024. Most popular hashtags: #fyp #chile #vegan #tiktokchile.
 platform: TikTok
 hits: 14
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine holds 14 TikTok influencers like this in Chile for you to work with.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 14 TikTok influencers like this in Chile for you to work with.
 profiles:
   - username: "arlunatica"
     fullname: >-

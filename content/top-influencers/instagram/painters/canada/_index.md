@@ -1,12 +1,36 @@
 ---
-title: Top 10 Painters Instagram Influencers In Canada In 2023
+title: Top 10 Painters Instagram Influencers In Canada In 2024
 description: >-
-  Find top painters Instagram influencers in Canada in 2023. Most popular hashtags: #art #makeup #oilpaint #femaleartist.
+  Find top painters Instagram influencers in Canada in 2024. Most popular hashtags: #art #makeup #artist #contemporaryart.
 platform: Instagram
-hits: 98
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 98 Instagram influencers like this in Canada for you to contact.
+hits: 320
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 320 Instagram influencers like this in Canada for you to pitch.
 profiles:
+  - username: "artistcarina"
+    fullname: >-
+      C A R I N A  F R A N C I O S O
+    bio: >-
+      Oil Painter | “𝘣𝘦𝘢𝘶𝘵𝘺 𝘪𝘴 𝘪𝘯 𝘵𝘩𝘦 𝘥𝘦𝘵𝘢𝘪𝘭𝘴” Documenting the beauty of water and woman. ⬇️Originals |Limited Editions| Course⬇️ Course @oilpaintingpros
+    location: "Canada"
+    followers: 48541
+    engagement: 318
+    commentsToLikes: 0.061062
+    id: ck13anwiqrb5x0i1954aqsys6
+    verified: false
+    hashtags: "#water, #carinafrancioso, #art, #beauty"
+  - username: "janicesung"
+    fullname: >-
+      Janice Sung
+    bio: >-
+      ❈ Painter & Illustrator in BC ❋ hello@janicesung.com ✣ Shop opens Summer 2024 ✿ Originals now available
+    location: "Canada"
+    followers: 494412
+    engagement: 122
+    commentsToLikes: 0.007736
+    id: ck0vzhofk95m30i198nvhjgf6
+    verified: false
+    hashtags: ""
   - username: "michellenicoletiley"
     fullname: >-
       ᛉ 𝓜𝓲𝓬𝓱𝓮𝓵𝓵𝓮 𝓣𝓲𝓵𝓮𝔂 ᛉ 🇨🇦
@@ -45,16 +69,16 @@ profiles:
     hashtags: ""
   - username: "anactressatheart"
     fullname: >-
-      Vanessa Ramzieh🦋
+      Vanessa Ramzieh
     bio: >-
-      📍boston she/her 🇵🇹🇱🇧 • BLACK LIVES MATTER •pfp by: @jasondreamsstuff • body painter I merch girl •tik tok: anactressatheart • PR Inquires email only
+      boston ✈️ NYC 🇵🇹🇱🇧 • BLACK LIVES MATTER • professional body painter • tik tok: anactressatheart • PR Inquires email only please :)
     location: "Canada"
-    followers: 31052
-    engagement: 198
-    commentsToLikes: 0.060535
+    followers: 30116
+    engagement: 128
+    commentsToLikes: 0.036051
     id: ck0w1zxtclyo80i19reib1emr
     verified: false
-    hashtags: "#freddiemercury, #morphebabe, #mehron, #bodypaint"
+    hashtags: "#mua, #colourpopme, #colourpopcosmetics, #pinkyandthebrain"
   - username: "charlieeaston"
     fullname: >-
       Charlie Easton: Artist
@@ -66,7 +90,7 @@ profiles:
     commentsToLikes: 0.045893
     id: ck8t7hwqagv730j78redvkpt5
     verified: false
-    hashtags: "#prairieskies, #outdoorpainter, #pleinair, #outdoorpainting"
+    hashtags: "#outdoorpainter, #opusopc2021, #outdoorpainting, #prairieskies"
   - username: "lauren_mycroft"
     fullname: >-
       Lauren Mycroft Art
@@ -103,28 +127,4 @@ profiles:
     id: ck8sycxeqkguo0j784lfz9bju
     verified: false
     hashtags: "#artist, #canadianart, #canada, #livelife"
-  - username: "nogobed"
-    fullname: >-
-      Shanna Van Maurik
-    bio: >-
-      🌸Toronto🌸based🌸painter🌸 ☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️ ✨ ᶜᵒᵗᵗᵒⁿ ᶜᵃⁿᵈʸ ᶠᵉᵛᵉʳ ᵈʳᵉᵃᵐˢ ✨ 💕🕷🍄ᴼʳⁱᵍⁱⁿᵃˡˢ & ᵖ ʳ ⁱⁿᵗˢ 🕸🐍💕
-    location: "Canada"
-    followers: 225041
-    engagement: 358
-    commentsToLikes: 0.003992
-    id: ckapac1qnvhx00i78r11exo6h
-    verified: false
-    hashtags: "#oilpainting, #oilpaint, #wip, #thejunction"
-  - username: "sarahdelaneyart"
-    fullname: >-
-      S A R A H   D E L A N E Y
-    bio: >-
-      painter/ 〰 ⋒ child of the earth based in vancouver, bc
-    location: "Canada"
-    followers: 41874
-    engagement: 178
-    commentsToLikes: 0.014963
-    id: ck0u6yfei3a9z0i19zjm77oj3
-    verified: false
-    hashtags: "#storyofagirl, #sarahdelaney"
 ---

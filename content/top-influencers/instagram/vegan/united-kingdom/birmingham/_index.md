@@ -1,48 +1,96 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Birmingham In 2023
+title: Top 10 Vegan Instagram Influencers In Birmingham In 2024
 description: >-
-  Find top vegan Instagram influencers in Birmingham in 2023. Most popular hashtags: #vegan #foodblogger #veganfood #food.
+  Find top vegan Instagram influencers in Birmingham in 2024. Most popular hashtags: #vegan #veganfood #plantbased #food.
 platform: Instagram
-hits: 11
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 11 Instagram influencers like this in Birmingham, United Kingdom for you to work with.
+hits: 16
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform has 16 Instagram influencers like this in Birmingham, United Kingdom for you to connect with.
 profiles:
+  - username: "vegfoodenthusiast"
+    fullname: >-
+      katie 🍊
+    bio: >-
+      🌈 friendly neighbourhood vegan 🌱 food and fun things 📍 midlands, uk 🏆 young foodie of 2022 👩‍💻 @fox.creativeuk
+    location: "United Kingdom"
+    followers: 18204
+    engagement: 214
+    commentsToLikes: 0.069673
+    id: ckmw1c7by67l80j23pe6uyxxp
+    verified: false
+    hashtags: "#vegandelicious, #veganfriendly, #veganinspo, #veganlife"
+  - username: "avegansplate"
+    fullname: >-
+      imi 🧜🏻‍♀️ vegan fooood 🍜
+    bio: >-
+      🥑🥨🍰🍓🍒🍌🥖🥯🌽🥕🍫 literally just pics of what i eat
+    location: "United Kingdom"
+    followers: 4928
+    engagement: 720
+    commentsToLikes: 0.166239
+    id: ckap4188b5e940i78oheqvfuv
+    verified: false
+    hashtags: "#vegan, #veganism, #veganrecipes, #birminghamvegan"
+  - username: "sambentley"
+    fullname: >-
+      Sam | Sustainable Living
+    bio: >-
+      ☼ I make content about sustainable living and good news you may not have heard about ⧇ sam@sambentley.co.uk ↓ Pre-order my book! ♡ vegan ⌂ birmingham
+    location: "United Kingdom"
+    followers: 803096
+    engagement: 1135
+    commentsToLikes: 0.013101
+    id: ck5bt9hucfkmh0i11wby8wlz3
+    verified: true
+    hashtags: "#zerowaste, #saveourplanet, #sustainability, #plasticpollution"
+  - username: "ant1plant1"
+    fullname: >-
+      Antoine Plantoine 🌱
+    bio: >-
+      🌱Showcasing Plant-Based Food🍽️ 🌿CBD Reviews✌🏾 💚Follow|Like|Share|Tag🏷️ 📍Ldn/B'ham 🌍47 countries 🇯🇲🇬🇧 👨🏾‍🏫 Teacher by day 📧 antoine.plantoine@gmail.com
+    location: "United Kingdom"
+    followers: 6112
+    engagement: 361
+    commentsToLikes: 0.086795
+    id: ckaouaynqzksp0i789hz6o5ws
+    verified: false
+    hashtags: "#veganguy, #londonvegans, #vegansofig, #foodblogger"
   - username: "vegangirlboss"
     fullname: >-
-      Adina / vegan influencer
+      Adina Akhmetova
     bio: >-
-      ambitious vegan gal looking to change the world one meal at a time ✌🏼 made in Kazakhstan! >> vegan food and lifestyle 📍 Birmingham, UK
+      → FEEL GOOD VEGAN FOOD + lifestyle vegan recipes, health & wellness, daily routines 📍 Birmingham, UK ✉️ vegangirlboss@gmail.com
     location: "United Kingdom"
-    followers: 18572
-    engagement: 428
-    commentsToLikes: 0.331851
+    followers: 203651
+    engagement: 963
+    commentsToLikes: 0.073660
     id: ck55jt4dyxorw0i11bzuauype
     verified: false
-    hashtags: "#veganrecipe, #mallowworld, #veganfood, #veganuk"
-  - username: "kevstewart93"
+    hashtags: "#habits, #motivation, #recipes, #toast"
+  - username: "bethanygraceshawx"
     fullname: >-
-      Kevin Stewart
+      Bethany Grace Shaw
     bio: >-
-      ⚽️ Professional Footballer @bfc1887 🏗 Property Investor / Developer 🏢 @untold.property 🌱 Vegan ❗️ NoRestrictions
+      Outfits | Beauty | Food | Lifestyle ✨ •📍Birmingham, UK • 🪴content creator • 💌 bethanygraceshaw@outlook.com
     location: "United Kingdom"
-    followers: 108012
-    engagement: 120
-    commentsToLikes: 0.044157
-    id: ck5zpy4vytkpw0i143mfcd3r6
-    verified: true
-    hashtags: "#blacklivesmatter, #birmingham, #bigdealsonly, #norestrictions"
+    followers: 5502
+    engagement: 341
+    commentsToLikes: 0.056337
+    id: clple2c29x4sv0k08hjadulq1
+    verified: false
+    hashtags: "#selfie, #me, #birminghaminfluencer, #alternative"
   - username: "marko_bakes"
     fullname: >-
       Marko Josipović
     bio: >-
-      🍪Bakery & Patisserie student 🍪Foodie 🍪Donut enthusiast 🍪Birmingham, 21 🍪mail: markoj3233@gmail.com 🍪private: @marko_avokado
+      🍪Bakery & Patisserie student graduate 🍪Pain au chocolat enthusiast 🍪Birmingham, 21 🍪mail: markoj3233@gmail.com 🍪private: @marko_avokado
     location: "United Kingdom"
-    followers: 7959
-    engagement: 749
-    commentsToLikes: 0.046357
+    followers: 7883
+    engagement: 672
+    commentsToLikes: 0.035013
     id: ck8t3zfwt51kh0j78elyk0fe6
     verified: false
-    hashtags: "#jam, #instafood, #thefeedfeed, #goodfood"
+    hashtags: "#f52grams, #recipe, #instafood, #12daysofchristmas"
   - username: "healing.with.houmous"
     fullname: >-
       Jess 🌱 Vegan Nurse 💉
@@ -54,7 +102,7 @@ profiles:
     commentsToLikes: 0.055893
     id: ck6uhevrz8pqe0j71apc0aino
     verified: false
-    hashtags: "#veganfood, #veganfoodlover, #birminghamvegans, #veganfoodhaul"
+    hashtags: "#veganfoodshare, #vegansofig, #veganinspiration, #birminghamvegans"
   - username: "leahmoule"
     fullname: >-
       Leah Moule
@@ -79,52 +127,4 @@ profiles:
     id: ck0w5z8u465930i196c85g139
     verified: false
     hashtags: "#food, #foodgasm, #delicious, #like"
-  - username: "birmingham__eats"
-    fullname: >-
-      🇬🇧BIRMINGHAM RESTAURANTS
-    bio: >-
-      🍜 Street Food to Afternoon Tea⠀ 🍷 All photos & experiences are our own⠀ 🎏 Contact us for collaborations⠀ ⠀ 🍒Founders: @galinathomas & @gareththomas79
-    location: "United Kingdom"
-    followers: 25063
-    engagement: 259
-    commentsToLikes: 0.033867
-    id: ck6timgml0zy20j7160tf8xqc
-    verified: false
-    hashtags: ""
-  - username: "ant1plant1"
-    fullname: >-
-      Antoine Plantoine 🌱
-    bio: >-
-      🌱Showcasing Plant-Based Food🍽️ 🌿CBD Reviews✌🏾 💚Follow|Like|Share|Tag🏷️ 📍Ldn/B'ham 🌍47 countries 🇯🇲🇬🇧 👨🏾‍🏫 Teacher by day 📧 antoine.plantoine@gmail.com
-    location: "United Kingdom"
-    followers: 6112
-    engagement: 361
-    commentsToLikes: 0.086795
-    id: ckaouaynqzksp0i789hz6o5ws
-    verified: false
-    hashtags: "#veganguy, #londonvegan, #vegansofig, #veganfood"
-  - username: "thebrunchbros_"
-    fullname: >-
-      The Brunch Bros
-    bio: >-
-      Four bros on a mission to show off their eating prowess to the world! 📍London 📍Cheltenham 📍Bristol 📩Tap Email👇🏼 to be featured! 📩
-    location: "United Kingdom"
-    followers: 11488
-    engagement: 273
-    commentsToLikes: 0.095272
-    id: ck55nh8z367o20i11xe83ka4w
-    verified: false
-    hashtags: "#prsample, #food, #london, #foodgram"
-  - username: "nourishyourglow"
-    fullname: >-
-      Nourish Your Glow
-    bio: >-
-      Your one stop destination for all things wellness ✨glow from the inside💫founded by @hayleyfocsan contactnourishyourglow@gmail.com NEW on the site 🌈⬇️
-    location: "United Kingdom"
-    followers: 9419
-    engagement: 579
-    commentsToLikes: 0.026277
-    id: ck6uhnf6ga4m40j71npua2wpy
-    verified: false
-    hashtags: "#affirmations, #selflove, #happinessquotes, #positiveaffirmations"
 ---

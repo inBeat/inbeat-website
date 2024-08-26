@@ -1,12 +1,96 @@
 ---
-title: Top 10 Cinema Instagram Influencers In United Kingdom In 2023
+title: Top 10 Cinema Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top cinema Instagram influencers in United Kingdom in 2023. Most popular hashtags: #photography #portrait #pakistanibride.
+  Find top cinema Instagram influencers in United Kingdom in 2024. Most popular hashtags: #photography #cinematography #adventure #loves.
 platform: Instagram
-hits: 279
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 279 Instagram influencers like this in United Kingdom for you to collaborate.
+hits: 391
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 391 Instagram influencers like this in United Kingdom for you to contact.
 profiles:
+  - username: "kovenuk"
+    fullname: >-
+      KOVEN
+    bio: >-
+      Cinematic bass duo Max & Katie from London, UK.
+    location: "United Kingdom"
+    followers: 100282
+    engagement: 435
+    commentsToLikes: 0.035339
+    id: ck55odaxe852r0i11i40u3ozb
+    verified: true
+    hashtags: "#threelions, #dnb, #drumandbass, #lions"
+  - username: "najnudge"
+    fullname: >-
+      Naj ◈ | Maldives
+    bio: >-
+      👸🏽 ➳ co founder @twothousandisles Film | Cinematography | Photography Remote grading available worldwide 🌍
+    location: "United Kingdom"
+    followers: 22799
+    engagement: 593
+    commentsToLikes: 0.009561
+    id: ck5c0yodru3uy0i11qfg4ltgo
+    verified: false
+    hashtags: "#somelightmag, #colorist, #etczine, #color"
+  - username: "lizabetroberts"
+    fullname: >-
+      Liza Roberts
+    bio: >-
+      📷 cinematic photographer & art director ✨ creative retreats & events 💌 lizabetroberts@gmail.com 🏙️ Brooklyn, NY
+    location: "United Kingdom"
+    followers: 65595
+    engagement: 414
+    commentsToLikes: 0.010109
+    id: ckwvisbgcvoay0j23juuzpdxh
+    verified: false
+    hashtags: "#enchantedliving, #cottagecore, #adobeexpressambassadors, #ad"
+  - username: "sunxjin"
+    fullname: >-
+      Jin Sun | Edinburgh, Scotland
+    bio: >-
+      Glimmers amongst the gray. Based in Edinburgh, Scotland. For everyday shenanigans: @jinsun HK TRAVEL CINEMATIC:
+    location: "United Kingdom"
+    followers: 26343
+    engagement: 389
+    commentsToLikes: 0.024725
+    id: ck0vv05hpmxod0i19irg0dktu
+    verified: false
+    hashtags: "#capturestreets, #hiddenscotland, #streetfinder, #visitscotland"
+  - username: "teamorion"
+    fullname: >-
+      Asian Wedding Photo & Cinema
+    bio: >-
+      International Luxury Asian Wedding Cinema Snapchat: Orionteam YouTube: Orion Cinematography Contact: 07597276929
+    location: "United Kingdom"
+    followers: 42650
+    engagement: 367
+    commentsToLikes: 0.016964
+    id: ck5qbs268n4wm0i119966fm2w
+    verified: false
+    hashtags: "#weddingdetails, #dulha, #weddingvibes, #rukhsati"
+  - username: "memoirz"
+    fullname: >-
+      Asian Wedding Photo & Cinema
+    bio: >-
+      International Asian Wedding Photo & Cinema +447581 194 523 info@memoirz.co.uk
+    location: "United Kingdom"
+    followers: 50650
+    engagement: 323
+    commentsToLikes: 0.015379
+    id: ck0vuxi74mm270i19eofsk2rs
+    verified: false
+    hashtags: "#throwbackthursday"
+  - username: "zakaria.boumliha"
+    fullname: >-
+      Zakaria Boumliha
+    bio: >-
+      📍LDS / LDN THAT MOROCCAN GUY 🇲🇦 🖥️ Photographer / Cinematographer 📧 Enquiries: contact@zakariaboumliha.com
+    location: "United Kingdom"
+    followers: 16662
+    engagement: 318
+    commentsToLikes: 0.067659
+    id: ckaoy0x2aflon0i78liwvi2za
+    verified: false
+    hashtags: "#climbing, #white, #england, #travelmorocco"
   - username: "olivertakac"
     fullname: >-
       Oliver Takáč
@@ -18,113 +102,29 @@ profiles:
     commentsToLikes: 0.007531
     id: ck0tzzuf6s6ow0i1910yyei2c
     verified: false
-    hashtags: "#makemomentsmega, #momentbyoliver, #xiaomi12tseries, #horses"
-  - username: "theweddingstoriesuk"
+    hashtags: "#photography, #makemomentsmega, #momentbyoliver, #xiaomi12tseries"
+  - username: "drjude_"
     fullname: >-
-      The Wedding Stories
+      DR JUDE
     bio: >-
-      💍 Let Us Capture Your Love Story 📽 Luxury Wedding Cinema & Photos 💎 Awarded Filmmaker Of The Year 2018 💌 Info@theweddingstories.co.uk ☎️ +447379300330
+      😷 NHS Surgeon | citizen of the world 🌍 📹 #YouTubeBlackVoices 2023 👨🏾‍💻 Health & Wellbeing advocate 🎞️ Creative | Cinematic story telling
     location: "United Kingdom"
-    followers: 19960
-    engagement: 1226
-    commentsToLikes: 0.022302
-    id: ck5zmfslcmhuw0i14ahgyp1l1
+    followers: 31383
+    engagement: 153
+    commentsToLikes: 0.106075
+    id: ck9hc8tlpkaak0j78ofl3bsqj
     verified: false
-    hashtags: "#mehndi, #pakistaniwedding, #pakistanibride, #shaadi"
-  - username: "soakedinnirvana"
+    hashtags: "#doctorsofinstagram, #youtubeblack, #gratitude, #surgeonlife"
+  - username: "tech_dad_d"
     fullname: >-
-      Dexter Fernandes
+      TECH DAD D
     bio: >-
-      Portraits | Travel | 3D | Cinematic Videos DM FOR Enquiries 📷 | NO FREE BRAND SHOOTS ❌ Art Director Travel Feed @shutterfinagler Co-owner @blavkindia
+      | Tech Geek |Tech Reviewer |Gamer | Gaming & Home Cinema Setup | Smart Home Automation | 👑 Official Member of @royalty.rgb 👑 | DM for Collaboration 📩
     location: "United Kingdom"
-    followers: 5149
-    engagement: 1004
-    commentsToLikes: 0.140430
-    id: ck8sxzuxzj9050j78759q2rrf
+    followers: 16787
+    engagement: 152
+    commentsToLikes: 0.608293
+    id: cloxogi21zrtw0j08uvar1wdv
     verified: false
-    hashtags: "#moodyindia, #sonyalpha, #graphicprints, #portraitphotography"
-  - username: "maxwilko"
-    fullname: >-
-      Max Willcocks
-    bio: >-
-      Athlete. • Producer • Consultant | RED owner | Cinematographer & photographer @trackhousest Founder •
-    location: "United Kingdom"
-    followers: 8495
-    engagement: 485
-    commentsToLikes: 0.044193
-    id: ck5zx4hx57bv60i14r1vnbt57
-    verified: false
-    hashtags: "#marathon, #run, #running, #health"
-  - username: "photosbybenjii"
-    fullname: >-
-      benji beacham
-    bio: >-
-      West Mids/ UWE Bristol Photographer & Cinematographer @analogcinematics ⬇️PRINTS⬇️
-    location: "United Kingdom"
-    followers: 10227
-    engagement: 621
-    commentsToLikes: 0.053277
-    id: ck8tccva9z2840j781laixfef
-    verified: false
-    hashtags: "#staybrokeshootfilm, #kodak, #photocinematica, #nfconversation"
-  - username: "memoirz"
-    fullname: >-
-      Asian Wedding Photo & Cinema
-    bio: >-
-      International Asian Wedding Photo & Cinema +447581 194 523 info@memoirz.co.uk
-    location: "United Kingdom"
-    followers: 42492
-    engagement: 459
-    commentsToLikes: 0.012749
-    id: ck0vuxi74mm270i19eofsk2rs
-    verified: false
-    hashtags: "#desibride, #pakistanibride, #pakistaniwedding, #lengha"
-  - username: "dougelliottphoto"
-    fullname: >-
-      Douglas Elliott
-    bio: >-
-      Cinematic portrait & music photographer Brighton, UK
-    location: "United Kingdom"
-    followers: 11456
-    engagement: 824
-    commentsToLikes: 0.015011
-    id: ck5cckdoshivn0i11jhnygx6d
-    verified: false
-    hashtags: "#blackouttuesday, #tbt, #stayathome"
-  - username: "danteslens"
-    fullname: >-
-      Harrison Dante | Photographer
-    bio: >-
-      Dante's World 🗺 Owner of @dantesmodels Fashion Photographer / Director / Cinematographer / Animator. Everything Aesthetically Pleasing.
-    location: "United Kingdom"
-    followers: 74402
-    engagement: 289
-    commentsToLikes: 0.050407
-    id: ck5zpaqmpsbds0i1479fxxtol
-    verified: false
-    hashtags: "#visualmasterz, #modelagency, #london, #peoplescreatives"
-  - username: "amirhaq"
-    fullname: >-
-      Amir Haq
-    bio: >-
-      Wedding Photography & Cinema United Kingdom +447852 389 242 info@amirhaq.com #amirhaq
-    location: "United Kingdom"
-    followers: 16987
-    engagement: 455
-    commentsToLikes: 0.017336
-    id: ck5hlqb5jkno10i11yltv6dqk
-    verified: false
-    hashtags: ""
-  - username: "ucheaguh"
-    fullname: >-
-      UCHENNA
-    bio: >-
-      Founder @55mediafilms Writer|Director|Ex Doc 🇻🇳 Rep @momentumsolar #TheHouseInvictus 🎥 now @amazonprimevideo #PanasonicPartner 👇🏾(Cinema Luts)
-    location: "United Kingdom"
-    followers: 7951
-    engagement: 709
-    commentsToLikes: 0.046602
-    id: ck6uhwz41bq4x0j71566pkrjs
-    verified: false
-    hashtags: "#theblackjoker, #naija, #naijaweddings, #blackboy"
+    hashtags: "#minimalsetups, #deskgoals, #whitesetup, #pcsetup"
 ---

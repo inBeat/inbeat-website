@@ -1,24 +1,96 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Brisbane In 2023
+title: Top 10 Beauty Instagram Influencers In Brisbane In 2024
 description: >-
-  Find top beauty Instagram influencers in Brisbane in 2023. Most popular hashtags: #brisbane #australia #fashion #beach.
+  Find top beauty Instagram influencers in Brisbane in 2024. Most popular hashtags: #brisbane #brisbanemums #beauty #fashion.
 platform: Instagram
-hits: 36
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 36 Instagram influencers like this in Brisbane, Australia for you to collaborate.
+hits: 54
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 54 Instagram influencers like this in Brisbane, Australia for you to work with.
 profiles:
   - username: "brisbanefamilyexplorers"
     fullname: >-
-      Brisbane Family Explorers 🇦🇺
+      Liliana Dingle 🇦🇺
     bio: >-
-      Family of 5 #Influencer | Blogger | Content creator Collabs, media, invites 📩familyexplorers@yahoo.com.au REPOST ONLY WITH PERMISSION & CREDIT BLOG⬇
+      Family of 5 #Contentcreator | #Influencer | #Blogger | #UGC Collabs, media, invites: familyexplorers@yahoo.com.au REPOST ONLY WITH PERMISSION & CREDIT
     location: "Australia"
-    followers: 21595
-    engagement: 341
-    commentsToLikes: 0.402431
+    followers: 40099
+    engagement: 167
+    commentsToLikes: 0.504307
     id: ck138lejigswn0i19p477v8bv
     verified: false
-    hashtags: "#brisbanefood, #brisbaneeats, #brisbanefamilyexplorers, #visitbrisbane"
+    hashtags: "#visitfrance, #australianblogger, #collab, #brisbaneblogger"
+  - username: "living_the_blessed_life_"
+    fullname: >-
+      Sky ~ Mama of 4
+    bio: >-
+      ✨ Wife 🌸 Mama~ 👩🏼🧑🏼🧒🏼👦🏼 👩🏼‍🏫 Teacher~ Yr.4 2024 🌜Let’s work together ⬇️
+    location: "Australia"
+    followers: 16354
+    engagement: 155
+    commentsToLikes: 0.368797
+    id: cksdde1rpno1y0j23x33okb3c
+    verified: false
+    hashtags: "#aussiefamily, #australianfamily, #mumoffour, #mumof4"
+  - username: "candice.elise__"
+    fullname: >-
+      Candice Elise 🧿
+    bio: >-
+      All things Food, Fashion, Travel & Beauty 🌹 🌏 Brisbane, Australia 📧 Candiceelis3@gmail.com Discount codes & TikTok linked ⇩
+    location: "Australia"
+    followers: 40468
+    engagement: 41
+    commentsToLikes: 0.000000
+    id: cloqvxeiphbl90j08lrsft1sk
+    verified: false
+    hashtags: "#hotelstay, #bali, #trendingreels, #goldcoast"
+  - username: "alarnataylor_hair_mua"
+    fullname: >-
+      Alarna Taylor Hair Stylist/MUA
+    bio: >-
+      Bris HMUA 🌏 • Wedding enquiries (2021 full) only to kellie@thefuturemrs.com.au • All other enquiries to uniquehair.makeup@gmail.com
+    location: "Australia"
+    followers: 26567
+    engagement: 145
+    commentsToLikes: 0.030479
+    id: ck5c6636c4sss0i117sv699dj
+    verified: false
+    hashtags: "#brisbane, #armanibeautyau, #naturalmua, #skinlove"
+  - username: "tessalexander._"
+    fullname: >-
+      TESS ALEXANDER✨
+    bio: >-
+      🎥 Presenter | fm. Miss World 🇦🇺 | Health + Wellness
+    location: "Australia"
+    followers: 49892
+    engagement: 3
+    commentsToLikes: 0.000000
+    id: ck13c850yz20n0i193i2hq997
+    verified: true
+    hashtags: "#fashion, #selflove, #skincare, #longines"
+  - username: "themagicalozfamily"
+    fullname: >-
+      🇦🇺 𝗧𝗵𝗲 𝗠𝗮𝗴𝗶𝗰𝗮𝗹 𝗢𝘇 𝗙𝗮𝗺𝗶𝗹𝘆 🇦🇺
+    bio: >-
+      💗 All things parenting, teaching & mum'ing 🏆 Finalist in the 'What's on 4 Kids’ 2019 awards 💗 The bags under my eyes are Chanel #Brisbane #EcoWarriors
+    location: "Australia"
+    followers: 22952
+    engagement: 208
+    commentsToLikes: 0.153648
+    id: ck5heb7fms0k80i11budywgdn
+    verified: false
+    hashtags: "#australianfamily, #mumsofaustralia, #themagicalozfamily, #ad"
+  - username: "dr.louisa.parkinson"
+    fullname: >-
+      Louisa Parkinson
+    bio: >-
+      Brisbane Lifestyle & Entertainment Fashion, food, beauty & must-do things in QLD 🇵🇭🇦🇺 Co-founder @mestizafilipina.co 🏠 @beans.castle
+    location: "Australia"
+    followers: 6524
+    engagement: 124
+    commentsToLikes: 0.111761
+    id: closmj57cmy8o0j088kdvvcxr
+    verified: false
+    hashtags: "#brisbaneinfluencer, #brisbaneinsider, #brisbanecontentcreator, #brisbanenightlife"
   - username: "matthewgianoulis"
     fullname: >-
       Matthew Gianoulis Photography
@@ -42,89 +114,17 @@ profiles:
     commentsToLikes: 0.063417
     id: ck15ukv0enodc0i19qncm06fr
     verified: false
-    hashtags: "#makeuptutorial, #igbeauty, #amrezy, #makeuplife"
-  - username: "ashleighmccrummakeup"
+    hashtags: "#foundationroutine, #abhfacepalette, #ilovemakeup, #ultabeauty"
+  - username: "emilia_danielle_"
     fullname: >-
-      𝐆𝐎𝐋𝐃 𝐂𝐎𝐀𝐒𝐓 𝐌𝐀𝐊𝐄𝐔𝐏 𝐀𝐑𝐓𝐈𝐒𝐓
+      Emilia Danielle Pountney
     bio: >-
-      @𝖆𝖘𝖍𝖑𝖊𝖎𝖌𝖍𝖒𝖈𝖈𝖗𝖚𝖒 🧚🏼 📲 BOOK VIA DM 📲 BROW BOOKINGS 👉🏽 @eyebrowenvi Find us at the studio (No travel or hair)👇🏽 6/19 Young Street Southport, 4215
+      "never perfect ~ always genuine" 🫶🏼 📍Gold Coast 🇦🇺 ✈️🇺🇲 NYC 🗽 Nov/Dec Actress, published model💐 🎬 @egoactors / @eaton_management . 🔒 Parent monitored
     location: "Australia"
-    followers: 57180
-    engagement: 56
-    commentsToLikes: 0.180354
-    id: ck13czdl82w4p0i1936yw7o0e
+    followers: 204638
+    engagement: 33
+    commentsToLikes: 0.038083
+    id: ck0w6xtufarz50i19ijhpsk8u
     verified: false
-    hashtags: "#gcmakeupartist, #australianbrowartist, #makeup, #bretmanvanity"
-  - username: "julietaroldann"
-    fullname: >-
-      Julieta Roldan 🇦🇺 🇦🇷
-    bio: >-
-      🌞🌊🏖 Gold Coast Model/Actress #brisbanemodel #goldcoastmodel Lifestyle 🏝 • Food 🍲 • Beauty💄 📩julietaroldann@gmail.com
-    location: "Australia"
-    followers: 73208
-    engagement: 108
-    commentsToLikes: 0.049185
-    id: ck0ud6ywjigcn0i19d8n00v30
-    verified: false
-    hashtags: "#ad, #veganskincareproducts, #cavoodleaustralia, #brisbaneactress"
-  - username: "oschynoverton"
-    fullname: >-
-      OSCHYN
-    bio: >-
-      gold coast, australia
-    location: "Australia"
-    followers: 35085
-    engagement: 131
-    commentsToLikes: 0.031614
-    id: ck1343g4iuict0i191maarp6h
-    verified: false
-    hashtags: "#instagood, #photooftheday, #dancer, #style"
-  - username: "jennybeeen"
-    fullname: >-
-      Jenny Blenk | Content Creator
-    bio: >-
-      German living in Brisbane || 22🤍 Naturally introverted, selectively extroverted “JENNYB20” 20% off @princesspollyboutique 💌jenny.em.blenk@gmail.com
-    location: "Australia"
-    followers: 8147
-    engagement: 644
-    commentsToLikes: 0.205182
-    id: ck5honakipv940i114q4oggvy
-    verified: false
-    hashtags: "#ootd, #goldcoast, #fashiondiares, #health"
-  - username: "jade.syrett"
-    fullname: >-
-      JADE
-    bio: >-
-      @edge_models 🇦🇺 Brisbane / Sunshine Coast/ Gold Coast 🇦🇺 Int. Published 🌏 💋MUA @jade.s.makeupartistry 👙@chixit.swim MODEL
-    location: "Australia"
-    followers: 70078
-    engagement: 140
-    commentsToLikes: 0.127401
-    id: ck13a1y82o8060i19gci5msnb
-    verified: false
-    hashtags: "#agencymodel, #australianmodel, #swimwear, #blackandwhite"
-  - username: "candice3lise__"
-    fullname: >-
-      CANDICE 🌻
-    bio: >-
-      🇦🇺 Brisbane, AU 📩 candiceelis3@gmail.com 👄 @envyaesthetics___ $20off ‘CANDICE’ 💆🏼‍♀️ @skin.enhance 20% off 👁 @lashesby_sb @thebasehairstudio
-    location: "Australia"
-    followers: 14287
-    engagement: 800
-    commentsToLikes: 0.314172
-    id: ckap42c1b5j8i0i78100qqryc
-    verified: false
-    hashtags: "#winter, #sunshinecoast, #fashionblogger, #captionsforinsta"
-  - username: "isabella_fiori"
-    fullname: >-
-      bella fiori
-    bio: >-
-      brisbane • 24 🧚🏼‍♂️ contact@bfiori.com
-    location: "Australia"
-    followers: 598910
-    engagement: 733
-    commentsToLikes: 0.003751
-    id: ck0u8gh2d7dun0i190vaob39x
-    verified: false
-    hashtags: "#nwbeautycrew, #mejuripartner"
+    hashtags: "#faceobsessed, #influencer, #breezebalm, #smile"
 ---

@@ -1,12 +1,36 @@
 ---
-title: Top 10 Divers Instagram Influencers In Malaysia In 2023
+title: Top 10 Divers Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top divers Instagram influencers in Malaysia in 2023. Most popular hashtags: #instagood #love #cuticutimalaysia #travel.
+  Find top divers Instagram influencers in Malaysia in 2024. Most popular hashtags: #love #kualalumpur #instagram #travelphotography.
 platform: Instagram
-hits: 12
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 12 Instagram influencers like this in Malaysia for you to connect with.
+hits: 15
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database has 15 Instagram influencers like this in Malaysia for you to work with.
 profiles:
+  - username: "pixiegoh"
+    fullname: >-
+      PixXie Goh 🧚🏽‍♀️
+    bio: >-
+      📧 pixxieg@gmail.com 👑 Miss Scuba Malaysia 2016 🌊 PADI Rescue Scuba Diver 🌱nature lover #life #live #dive
+    location: "Malaysia"
+    followers: 27725
+    engagement: 278
+    commentsToLikes: 0.049178
+    id: ck0vzrrafale30i19hgb2gxk2
+    verified: false
+    hashtags: "#designerbrand, #loveandcare, #falselashes, #volumelashes"
+  - username: "pandelela"
+    fullname: >-
+      𝕻𝖆𝖓𝖉𝖊𝖑𝖊𝖑𝖆 𝕽𝖎𝖓𝖔𝖓𝖌
+    bio: >-
+      Malaysian diver🇲🇾 Kuching🛬 Kuala Lumpur📍 Proud Sarawakian💙 Psalm 22:19✝️
+    location: "Malaysia"
+    followers: 355143
+    engagement: 136
+    commentsToLikes: 0.011757
+    id: ck6uebg1hpxur0j71v3d0gv0h
+    verified: true
+    hashtags: "#training, #malaysiaairlines, #enrichbymh, #christmas2023"
   - username: "yixuenn_travellife"
     fullname: >-
       Y I X U E N
@@ -19,42 +43,54 @@ profiles:
     id: ck9haaripbtpg0j78xe6xqf99
     verified: false
     hashtags: "#travelphotography, #scubadiver, #bikini, #christmas"
+  - username: "hilarylim_"
+    fullname: >-
+      Hilary 🐰
+    bio: >-
+      ᴄᴏɴᴛᴇɴᴛ ᴄʀᴇᴀᴛᴏʀ | ᴅɪᴠᴇʀ 🇲🇾 @mumu.patisserie 🍰 business@creatorstudioco.com 📩
+    location: "Malaysia"
+    followers: 16896
+    engagement: 491
+    commentsToLikes: 0.009587
+    id: ck8sy0py9jbus0j78wlm5lqzn
+    verified: false
+    hashtags: "#trending, #dudukrumah, #instagram, #instamood"
+  - username: "nahsykofficial"
+    fullname: >-
+      NAHSYK
+    bio: >-
+      ⛓️ 𝔰𝔬𝔲𝔱𝔥 𝔢𝔞𝔰𝔱 𝔱𝔬 𝔱𝔥𝔢 𝔴𝔬𝔯𝔩𝔡 Bookings: ad.mathews@gmail.com
+    location: "Malaysia"
+    followers: 13183
+    engagement: 299
+    commentsToLikes: 0.090804
+    id: ck6uaf4b237et0j71ut3cy5zx
+    verified: false
+    hashtags: "#ratedarghh, #itstheship, #kloudfest, #diversecity2021"
+  - username: "laura_patricia_c"
+    fullname: >-
+      Laura Patricia Chandran
+    bio: >-
+      CEO of @urban_niche 👙 🛍 @daangledesigns Realtor @iqiglobal Model Influencer Host 🎤 Pilates🤸‍♂️ DM: Sponsorship Bookings at laurachandran@gmail.com
+    location: "Malaysia"
+    followers: 72641
+    engagement: 228
+    commentsToLikes: 0.019774
+    id: ck6tww7tfugai0j713o36dbnu
+    verified: false
+    hashtags: "#igstyle, #urbanniche, #potd, #nightlife"
   - username: "wayne_wayne23"
     fullname: >-
-      Wayne Wayne 小唐哥
+      Wayne Thong Wai Yean
     bio: >-
-      #GoProFamily Celebrity Emcee Social Media Talent Traveller Scuba Diver Underwater Photographer ⬇️最新网络节目点击链接⬇️
+      天翊娛樂 / 飯盒頻道 Dreamax Entertainment 前電台 / 電視台節目主持人 Former Radio Announcer / TV Host 演員、活动主持人、认证潜水员 Actor、Event Host、Dive Master in Training
     location: "Malaysia"
-    followers: 55381
-    engagement: 247
-    commentsToLikes: 0.021674
+    followers: 56046
+    engagement: 106
+    commentsToLikes: 0.037297
     id: ck5chxgd6rmww0i11e4pv3bfz
     verified: false
-    hashtags: "#traveltomorrow, #iwillmeetgangwonagain, #imagineyourkorea, #travelphotothrowbackchallenge"
-  - username: "bakizainal"
-    fullname: >-
-      bakizainal 巴麒
-    bio: >-
-      TV Host|Actor|Traveler|Cyclist|Diver #GoProfamily #ripcurlmy #PADIambassadiver #GoProMillionDollarChallenge 🏆
-    location: "Malaysia"
-    followers: 67691
-    engagement: 109
-    commentsToLikes: 0.037135
-    id: ck55myjth540y0i11przlgusa
-    verified: true
-    hashtags: "#foodiesofinstagram, #cuticutimalaysia, #goprohero9, #halalfoodie"
-  - username: "natashajuan"
-    fullname: >-
-      Natasha Juan
-    bio: >-
-      🌙 Founder @moonchildborneo 📺 TV Host, Emcee, Singer 🎙 X Radio Host 🎮 @callofdutymobile 🐶 @pabroescobark & KJ 📧natashajuanmgmt@gmail.com
-    location: "Malaysia"
-    followers: 18566
-    engagement: 175
-    commentsToLikes: 0.036956
-    id: ck8t7x38si9io0j78p15clnxf
-    verified: false
-    hashtags: "#diver, #kuching, #miri, #fitness"
+    hashtags: "#astroaec, #dontletthescammersin, #gymmotivation, #love"
   - username: "rean_rahman_"
     fullname: >-
       People | Portraits | Stories
@@ -91,40 +127,4 @@ profiles:
     id: ck8t161kfujht0j780qff2wki
     verified: false
     hashtags: "#kecewa, #joyahohjoyah, #atukpesan, #nakngepek"
-  - username: "nazuvnda"
-    fullname: >-
-      ηαzυѕαнαяιη
-    bio: >-
-      𝑻𝑯𝑬 𝑹𝑬𝑨𝑳 𝑨𝑪𝑪𝑶𝑼𝑵𝑻 Ambassador of @amazeshijab_ ✨ 𝑑𝑟𝑒𝑎𝑚 𝑤𝑖𝑙𝑙 𝑐𝑜𝑚𝑒 𝑡𝑟𝑢𝑒 𝑤𝑖𝑡ℎ 𝑔𝑜𝑑'𝑠 𝑝𝑒𝑟𝑚𝑖𝑠𝑠𝑖𝑜𝑛
-    location: "Malaysia"
-    followers: 49441
-    engagement: 2213
-    commentsToLikes: 0.006968
-    id: ckap0nadhr1lj0i78psgeth0x
-    verified: false
-    hashtags: "#walkswithgl, #cadarmurah, #sweatermurah, #seluarmurah"
-  - username: "rdnwan_"
-    fullname: >-
-      One
-    bio: >-
-      👨🏻‍💻 Engr ✈️ Millennial Traveler 📱DM for Collab/Review 📩 riduanwahab@icloud.com Get your amazing vaseline men face wash here 🔽
-    location: "Malaysia"
-    followers: 17432
-    engagement: 435
-    commentsToLikes: 0.021949
-    id: ck0w5h7yk3mw40i1936y3we96
-    verified: false
-    hashtags: "#instagood, #mensfashion, #duitnowqr, #igers"
-  - username: "blogbywafa"
-    fullname: >-
-      Wafa Rehman
-    bio: >-
-      Content Creator 👩‍💼 Home Chef 👩‍🍳 Beauty/Fashion/Lifestyle/Food Blogger DM me for Product Review & Collaboration Twitter @wafarehman12
-    location: "Malaysia"
-    followers: 34099
-    engagement: 307
-    commentsToLikes: 0.104983
-    id: ck5bxs0deob9m0i11awzcsyo0
-    verified: false
-    hashtags: "#blogbywafa, #sale, #blogbywafaxpaidpartnership, #boring"
 ---

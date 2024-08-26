@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In New York In 2023
+title: Top 10 Health TikTok Influencers In New York In 2024
 description: >-
-  Find top health TikTok influencers in New York in 2023. Most popular hashtags: #fyp #newyork #health #nyc.
+  Find top health TikTok influencers in New York in 2024. Most popular hashtags: #fyp #newyork #nyc #health.
 platform: TikTok
-hits: 56
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database holds 56 TikTok influencers like this in New York, United States for you to collaborate.
+hits: 52
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 52 TikTok influencers like this in New York, United States for you to pitch.
 profiles:
   - username: "chefcvyn"
     fullname: >-
@@ -19,30 +19,6 @@ profiles:
     id: ckc7qzxhfwcjl0j23vq4akgtg
     verified: false
     hashtags: "#dmx, #duet, #fyp, #chefcvyn"
-  - username: "girlwithadoge"
-    fullname: >-
-      Eva Yu
-    bio: >-
-      Proud Asian IG: Kittycateva Venmo: Eva-Yu
-    location: "United States"
-    followers: 29400
-    engagement: 869
-    commentsToLikes: 0.153896
-    id: ckcjffj7tb0np0j23szxfs901
-    verified: false
-    hashtags: "#beauty, #asian, #fyp, #covid19"
-  - username: "aye.jessiee"
-    fullname: >-
-      jessie chen
-    bio: >-
-      SF | NYC 💌 jessiechen2601@gmail.com
-    location: "United States"
-    followers: 31300
-    engagement: 922
-    commentsToLikes: 0.025280
-    id: ckce7rh0fl7d70j233hpksv98
-    verified: false
-    hashtags: "#korean, #fyp, #ootd, #asian"
   - username: "tehrealkitten"
     fullname: >-
       ⚡𝕂𝕚𝕥𝕥𝕖𝕟! 🐈
@@ -55,30 +31,18 @@ profiles:
     id: ckbfijh61ecv60j23isrmvqj4
     verified: false
     hashtags: "#intuition, #over30, #overshareinyourunderwear, #duet"
-  - username: "yendegreez_"
+  - username: "aye.jessiee"
     fullname: >-
-      kevin “yen” nguyen
+      jessie chen
     bio: >-
-      📍NYC Yendegreez@gmail.com
+      SF | NYC 💌 jessiechen2601@gmail.com
     location: "United States"
-    followers: 18600
-    engagement: 1047
-    commentsToLikes: 0.033608
-    id: cka7nx8xvyzct0i78dqih2ytr
+    followers: 31300
+    engagement: 922
+    commentsToLikes: 0.025280
+    id: ckce7rh0fl7d70j233hpksv98
     verified: false
-    hashtags: "#championsleague, #lawofattraction, #voiceeffects, #millenial"
-  - username: "mayemuskofficial"
-    fullname: >-
-      maye
-    bio: >-
-      International author/dietitian/speaker/model
-    location: "United States"
-    followers: 65000
-    engagement: 765
-    commentsToLikes: 0.041318
-    id: ckbqkkpbl5m5o0j233ni2wzlu
-    verified: true
-    hashtags: "#xyzbca, #model, #awomanmakesaplan, #foryou"
+    hashtags: "#chinese, #nyc, #ootd, #asian"
   - username: "maliamakaila"
     fullname: >-
       Malia Makaila 👼🏼
@@ -114,7 +78,7 @@ profiles:
     commentsToLikes: 0.125242
     id: ckbf38wsvqujy0j236hzy9vhs
     verified: false
-    hashtags: "#lifestyle, #makemomepic, #newyork, #michigan"
+    hashtags: "#lifestyle, #newyork, #michigan, #makemomepic"
   - username: "lizlele"
     fullname: >-
       Liz Lele
@@ -126,5 +90,41 @@ profiles:
     commentsToLikes: 0.050977
     id: ck7zp97doo19o0j78kodp1uya
     verified: false
-    hashtags: "#fy, #hairs, #dog, #pets"
+    hashtags: "#dog, #pets, #showerhairchallengewig, #skin"
+  - username: "girlwithadoge"
+    fullname: >-
+      Eva Yu
+    bio: >-
+      Proud Asian IG: Kittycateva Venmo: Eva-Yu
+    location: "United States"
+    followers: 29400
+    engagement: 869
+    commentsToLikes: 0.153896
+    id: ckcjffj7tb0np0j23szxfs901
+    verified: false
+    hashtags: "#wearamask, #realtalk, #viral, #asian"
+  - username: "j.ooniiz"
+    fullname: >-
+      Evan Goodman
+    bio: >-
+      Just posting things I think need a highlight.
+    location: "United States"
+    followers: 21900
+    engagement: 774
+    commentsToLikes: 0.040402
+    id: ckbw4b6bhxjhz0j230opnhqgq
+    verified: false
+    hashtags: "#mentalhealthawareness, #duet, #food, #5d"
+  - username: "mandyansari"
+    fullname: >-
+      mandy ansari
+    bio: >-
+      💁🏻‍♀️your virtual bff instagram: @mandy www.girlandthe.com
+    location: "United States"
+    followers: 41600
+    engagement: 543
+    commentsToLikes: 0.073043
+    id: ck900x70mavuv0j78q5upz3je
+    verified: false
+    hashtags: "#over30, #lawofattraction, #4you, #4u"
 ---

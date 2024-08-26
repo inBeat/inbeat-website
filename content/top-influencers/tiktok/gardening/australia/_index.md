@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening TikTok Influencers In Australia In 2023
+title: Top 10 Gardening TikTok Influencers In Australia In 2024
 description: >-
-  Find top gardening TikTok influencers in Australia in 2023. Most popular hashtags: #gardening #garden #australia #plants.
+  Find top gardening TikTok influencers in Australia in 2024. Most popular hashtags: #gardening #garden #australia #plants.
 platform: TikTok
 hits: 39
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: inBeat holds 39 TikTok influencers like this in Australia for you to pitch.
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 39 TikTok influencers like this in Australia for you to contact.
 profiles:
   - username: "in_my_patch"
     fullname: >-

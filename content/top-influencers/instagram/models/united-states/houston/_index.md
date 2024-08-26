@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Houston In 2023
+title: Top 10 Models Instagram Influencers In Houston In 2024
 description: >-
-  Find top models Instagram influencers in Houston in 2023. Most popular hashtags: #model #houston #houstonmodels #houstonmodel.
+  Find top models Instagram influencers in Houston in 2024. Most popular hashtags: #model #houston #houstonmodel #fashion.
 platform: Instagram
-hits: 206
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our database has 206 Instagram influencers like this in Houston, United States for you to connect with.
+hits: 235
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 235 Instagram influencers like this in Houston, United States for you to pitch.
 profiles:
   - username: "cirilla_rose"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.046609
     id: ck5q96o3n9nat0i11j92pogzx
     verified: false
-    hashtags: "#southbeach, #bikini, #diorcafemiami, #prettylittlething"
+    hashtags: "#miamimua, #papayaclothing, #houston, #miamilife"
   - username: "jasminerhenea"
     fullname: >-
       Jasmine Stallworth
@@ -43,6 +43,30 @@ profiles:
     id: ckap4f65b73r20i78efowa4sh
     verified: false
     hashtags: "#houstonmodel, #model, #houston, #makeup"
+  - username: "macanoniii"
+    fullname: >-
+      Veronica (noni)
+    bio: >-
+      📍Houston, TX
+    location: "United States"
+    followers: 4793
+    engagement: 1034
+    commentsToLikes: 0.049137
+    id: ck5q8u5pe7z490i11j7ci24wc
+    verified: false
+    hashtags: "#modelscout, #model, #houstonmodels, #wlyg"
+  - username: "monroelapaislie"
+    fullname: >-
+      Dallas Makeup Artist
+    bio: >-
+      📍Dallas, Tx GLAM Studio: @monroelapaisliestudio Link below for booking! 🚨NO DMS🚨
+    location: "United States"
+    followers: 27742
+    engagement: 303
+    commentsToLikes: 0.033740
+    id: ckv23d1f7wfvd0j23xwxo56nu
+    verified: false
+    hashtags: "#photography, #dallasmakeupartist, #hairandmakeup, #model"
   - username: "kerwancelestine"
     fullname: >-
       Kᴇʀᴡᴀɴ Cᴇʟᴇsᴛɪɴᴇ
@@ -78,7 +102,19 @@ profiles:
     commentsToLikes: 0.061972
     id: ck139dybqku4r0i19olmi6hlm
     verified: false
-    hashtags: "#luxurylifestyle, #fashionstyle, #luxurylife, #bikini"
+    hashtags: "#fashionblogger, #carinspo, #bikini, #houstonmodels"
+  - username: "sheismichaela"
+    fullname: >-
+      Michaela Rhianna 🤍
+    bio: >-
+      @fashionnova Ambassador RN-BSN, PHN 👩🏽‍🎓
+    location: "United States"
+    followers: 1058236
+    engagement: 313
+    commentsToLikes: 0.007542
+    id: ck15sgurncxm60i19kg34nrml
+    verified: false
+    hashtags: "#motherandbaby, #newbornphotography, #blackbaby, #tyga"
   - username: "gijackson"
     fullname: >-
       R&B Hall Of Fame/G.I Of H-Town
@@ -91,40 +127,4 @@ profiles:
     id: ck6tqadn5qat00j71ciilnzdw
     verified: false
     hashtags: "#imitationsoflife, #htown, #musiclover, #ripdino"
-  - username: "tory.nichole"
-    fullname: >-
-      ✨TORY PERRARD✨
-    bio: >-
-      Published Model 📍Houston, TX Makeup Modeling Fashion NCA All American Cheerleader Walking in faith 💌 Email for inquiries Matt 19:26
-    location: "United States"
-    followers: 6604
-    engagement: 836
-    commentsToLikes: 0.122505
-    id: ck5q96p819nhz0i11oyodgp3v
-    verified: false
-    hashtags: "#eyeseelashes, #tory, #htxmodels, #red"
-  - username: "tracewinningham"
-    fullname: >-
-      Trace
-    bio: >-
-      HTX• LA📍 Season 4 @temptationtv Founder: @trace.thebrand LA: @omodelsagency Model • Creator • Boss
-    location: "United States"
-    followers: 43010
-    engagement: 713
-    commentsToLikes: 0.015135
-    id: ck5zmhyflmlss0i14hjegshe3
-    verified: false
-    hashtags: "#edikted, #ediktedad, #influencer, #beauty"
-  - username: "taylornbenn"
-    fullname: >-
-      𝐇𝐨𝐮𝐬𝐭𝐨𝐧 𝐦𝐨𝐝𝐞𝐥
-    bio: >-
-      🦋Taylor Bennett 🦋Dm for rates/collabs 🦋Never forget to love yourself 🦋Published model
-    location: "United States"
-    followers: 7541
-    engagement: 1122
-    commentsToLikes: 0.042675
-    id: ck5zkxv5bkd510i14v5blu8vh
-    verified: false
-    hashtags: "#houston, #model, #fitnessmodel, #explorepage"
 ---

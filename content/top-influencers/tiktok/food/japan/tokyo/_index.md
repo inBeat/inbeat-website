@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Tokyo In 2023
+title: Top 10 Food TikTok Influencers In Tokyo In 2024
 description: >-
-  Find top food TikTok influencers in Tokyo in 2023. Most popular hashtags: #japan #food #fyp #foryou.
+  Find top food TikTok influencers in Tokyo in 2024. Most popular hashtags: #japan #food #fyp #foryou.
 platform: TikTok
 hits: 4
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 4 TikTok influencers like this in Tokyo, Japan for you to collaborate.
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our database has 4 TikTok influencers like this in Tokyo, Japan for you to work with.
 profiles:
   - username: "shotabsprunger"
     fullname: >-

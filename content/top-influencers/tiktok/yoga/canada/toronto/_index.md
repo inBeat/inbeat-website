@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Toronto In 2023
+title: Top 10 Yoga TikTok Influencers In Toronto In 2024
 description: >-
-  Find top yoga TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #yoga #foryou #foryoupage.
+  Find top yoga TikTok influencers in Toronto in 2024. Most popular hashtags: #fyp #yoga #foryou #foryoupage.
 platform: TikTok
 hits: 8
 text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat has 8 TikTok influencers like this in Toronto, Canada for you to work with.
+text_bottom: Our database holds 8 TikTok influencers like this in Toronto, Canada for you to pitch.
 profiles:
   - username: "lindsaynorriss"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       Canadian traveler 🗺 Toronto, ON ➡️ Squamish, BC Instagram: Lindsaynorris
     location: "Canada"
-    followers: 6001
-    engagement: 1758
-    commentsToLikes: 0.008054
+    followers: 5961
+    engagement: 1717
+    commentsToLikes: 0.007990
     id: ck9k8irx799350j78zj7eeazp
     verified: false
-    hashtags: "#shareyourplaylist, #lonelychair, #britishcolombia, #britishcolumbia"
+    hashtags: "#britishcolumbia, #travel, #canada, #idknever"
   - username: "moregaycontent"
     fullname: >-
       SG and Jules
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.085221
     id: ck8hphkjazhze0j78slf7i6rc
     verified: false
-    hashtags: "#fyp, #tiktoktravel, #gymnastics, #mykonos"
+    hashtags: "#japan, #fyp, #sunset, #travel"
   - username: "thefitfatale"
     fullname: >-
       Samantha Cutler
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.035877
     id: ckbeym7goj4a40j238zex4lon
     verified: false
-    hashtags: "#ootd, #selflove, #mindset, #canada"
+    hashtags: "#activewear, #spring, #selflove, #ootd"
   - username: "jel.bel"
     fullname: >-
       Anjelika Reznik

@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In United States In 2023
+title: Top 10 TikTok Influencers In United States In 2024
 description: >-
-  Find top TikTok influencers in United States in 2023. Most popular hashtags: #fyp #foryou #duet #foryoupage.
+  Find top TikTok influencers in United States in 2024. Most popular hashtags: #fyp #foryou #duet #foryoupage.
 platform: TikTok
-hits: 124515
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: inBeat has 124515 TikTok influencers like this in United States for you to contact.
+hits: 124237
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our search engine holds 124237 TikTok influencers like this in United States for you to pitch.
 profiles:
   - username: "jakechamseddine"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.051004
     id: ck8nf5lmgqe8b0j78mk6exy1b
     verified: true
-    hashtags: "#patd, #photo, #photography, #fyp"
+    hashtags: "#photo, #photography, #patd, #fyp"
   - username: "robrast"
     fullname: >-
       Rob Rast
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.040127
     id: cka0w9vew20gn0i784myx39ud
     verified: false
-    hashtags: "#joke, #skate, #jokes, #standup"
+    hashtags: "#joke, #jokes, #skate, #standupcomedy"
   - username: "amberscloset33"
     fullname: >-
       AmbersCloset33
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.013664
     id: ckbfens788w850j23trusgv3z
     verified: false
-    hashtags: "#lesbian, #masclesbians, #pride2021, #foryoupage"
+    hashtags: "#foryoupage, #hotgirsummerchallenge, #lesbian, #lgbt"
   - username: "brycampion"
     fullname: >-
       brycampion
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.005992
     id: ck9c7wchwsb7v0j787swxe6ny
     verified: false
-    hashtags: "#esntls, #foryou, #fyp, #jadeblack"
+    hashtags: "#foryou, #fyp, #jadeblack, #esntls"
   - username: "nlikenarwhal"
     fullname: >-
       aloe <3 (any pronouns)
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.061479
     id: ckbafp5fc7r0y0j23w4hc5t54
     verified: false
-    hashtags: "#stitch, #queer, #lesbian, #blackartist"
+    hashtags: "#queer, #stitch, #nonbinary, #blackartist"
   - username: "peterciardiello"
     fullname: >-
       p e t e r 🦋
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.043367
     id: ckc8wv1mvkftl0j231huvasi6
     verified: false
-    hashtags: "#xyzbca, #duet, #stitch, #closettour"
+    hashtags: "#closettour, #xyzbca, #foryou, #duet"
   - username: "zayaperysian"
     fullname: >-
       Zaya💕
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.018229
     id: ckbkzhxuivwfz0j23mzsy9cps
     verified: true
-    hashtags: "#onerainbow, #fabfitfunpartner, #adultswim, #pridemoves"
+    hashtags: "#ad, #secretdeopartner, #nebula, #duet"
   - username: "lifestylemols"
     fullname: >-
       molly
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.140218
     id: ckc85eho04zeu0j23vto2avgt
     verified: false
-    hashtags: "#summer, #foryou, #grwm, #daily"
+    hashtags: "#productivity, #summer, #daily, #foryoupage"
   - username: "michaellanzaa"
     fullname: >-
       Michael Lanza
@@ -126,7 +126,7 @@ profiles:
     commentsToLikes: 0.042735
     id: ck8qj6nj8cb5r0j783y7b9971
     verified: false
-    hashtags: "#singing, #music, #violin, #armybts"
+    hashtags: "#music, #armybts, #singing, #violin"
 cities:
   - name: New York
     link: /tiktok/united-states/new-york

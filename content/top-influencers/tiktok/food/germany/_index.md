@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Germany In 2023
+title: Top 10 Food TikTok Influencers In Germany In 2024
 description: >-
-  Find top food TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #fyp #fy #food.
+  Find top food TikTok influencers in Germany in 2024. Most popular hashtags: #foryou #fyp #fy #kochen.
 platform: TikTok
-hits: 330
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: inBeat holds 330 TikTok influencers like this in Germany for you to work with.
+hits: 329
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 329 TikTok influencers like this in Germany for you to work with.
 profiles:
   - username: "meccesgurltz"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.027107
     id: ckb9asykcw1il0j23v3jvj38v
     verified: false
-    hashtags: "#comedy, #rezept, #tutorial, #bubbletea"
+    hashtags: "#rezept, #tutorial, #bubbletea, #comedy"
   - username: "izzpedro"
     fullname: >-
       izzpedro
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.012096
     id: ckc8ykeojn2qa0j23baowwc8d
     verified: false
-    hashtags: "#boyfrienddd, #fyp, #viral, #foryoupage"
+    hashtags: "#foryou, #viral, #foryoupage, #boyfrienddd"
   - username: "foodschau"
     fullname: >-
       FoodSchau

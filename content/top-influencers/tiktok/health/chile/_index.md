@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Chile In 2023
+title: Top 10 Health TikTok Influencers In Chile In 2024
 description: >-
-  Find top health TikTok influencers in Chile in 2023. Most popular hashtags: #fyp #parati #chile #lentejas.
+  Find top health TikTok influencers in Chile in 2024. Most popular hashtags: #fyp #parati #chile #lentejas.
 platform: TikTok
 hits: 12
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: inBeat holds 12 TikTok influencers like this in Chile for you to connect with.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: inBeat holds 12 TikTok influencers like this in Chile for you to work with.
 profiles:
   - username: "healthydelight"
     fullname: >-

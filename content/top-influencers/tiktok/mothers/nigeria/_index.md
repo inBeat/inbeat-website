@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Nigeria In 2023
+title: Top 10 Mothers TikTok Influencers In Nigeria In 2024
 description: >-
-  Find top mothers TikTok influencers in Nigeria in 2023. Most popular hashtags: #fyp #viral #tiktoknigeria #foryoupage.
+  Find top mothers TikTok influencers in Nigeria in 2024. Most popular hashtags: #fyp #viral #tiktoknigeria #foryoupage.
 platform: TikTok
 hits: 9
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our database holds 9 TikTok influencers like this in Nigeria for you to collaborate.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 9 TikTok influencers like this in Nigeria for you to contact.
 profiles:
   - username: "pulsenigeria247"
     fullname: >-

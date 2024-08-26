@@ -1,24 +1,24 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Greece In 2023
+title: Top 10 Gaming Instagram Influencers In Greece In 2024
 description: >-
-  Find top gaming Instagram influencers in Greece in 2023. Most popular hashtags: #gaming #gamer #picoftheday.
+  Find top gaming Instagram influencers in Greece in 2024. Most popular hashtags: #gaming #gamer #picoftheday #games.
 platform: Instagram
-hits: 22
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 22 Instagram influencers like this in Greece for you to connect with.
+hits: 19
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 19 Instagram influencers like this in Greece for you to pitch.
 profiles:
   - username: "unboxholics"
     fullname: >-
       Unboxholics
     bio: >-
-      TIME WELL WASTED. Gaming | Tech | Cinema | Entertainment #UH #Unboxholics ⬇️Ρουχισμός Unboxholics
+      TIME WELL WASTED. Gaming | Tech | Cinema | Entertainment #UH #unboxholics ⬇️Ρουχισμός Unboxholics
     location: "Greece"
-    followers: 441576
-    engagement: 866
-    commentsToLikes: 0.005534
+    followers: 488881
+    engagement: 503
+    commentsToLikes: 0.004687
     id: ck8t0b5yprgrs0j7811wd4pch
     verified: false
-    hashtags: "#kodikasz, #unboxholics, #rtx3090, #rtx3080"
+    hashtags: "#nuiiicecreamadventure, #ad, #nuii, #uhmemes"
   - username: "dexpogr"
     fullname: >-
       Digital Expo
@@ -31,6 +31,18 @@ profiles:
     id: ck0w3juh1tscg0i19wt1wiymy
     verified: false
     hashtags: "#gamingevent, #dex, #gamespacegr, #eleaguegr"
+  - username: "ana_playgames"
+    fullname: >-
+      αηα 🕹️
+    bio: >-
+      ѕα̃σ ραυℓσ, вя 🇧🇷 ℓєνєℓ 30 👾 ∂σg мσм 🐶🐾 ρѕη αηα_ρℓαуgαмєѕ 🎮
+    location: "Greece"
+    followers: 2992
+    engagement: 2311
+    commentsToLikes: 0.206771
+    id: ck8syi0iwkvl10j782v52ms3e
+    verified: false
+    hashtags: "#gamingphotography, #gameroom, #tlou2, #startagame"
   - username: "tehzok"
     fullname: >-
       Γιώργος Ζώκας
@@ -43,18 +55,6 @@ profiles:
     id: ck5cbumlmg6zk0i11z3ke67f9
     verified: false
     hashtags: "#24hgfc, #xamogelotoupaidiou, #gamingforcharity, #eachinteractionmatters"
-  - username: "ana_playgames"
-    fullname: >-
-      αηα 🕹️
-    bio: >-
-      ѕα̃σ ραυℓσ, вя 🇧🇷 ℓєνєℓ 29 👾 ωιƒє 💍👫 ∂σg мσм 🐶🐾 ρѕη αηα_ρℓαуgαмєѕ 🎮
-    location: "Greece"
-    followers: 3664
-    engagement: 2058
-    commentsToLikes: 0.208366
-    id: ck8syi0iwkvl10j782v52ms3e
-    verified: false
-    hashtags: "#ps4, #playgames, #pressstart, #gamerlife"
   - username: "saboter"
     fullname: >-
       Saboter
@@ -67,6 +67,18 @@ profiles:
     id: ck5zj0ihugpu10i14pz528azm
     verified: false
     hashtags: "#modernwarfare2, #airsoftlove, #airsoft, #warzone"
+  - username: "panosdent_official"
+    fullname: >-
+      Panagiotis Eftaxias
+    bio: >-
+      Business Mail panosdentofficial@gmail.com Βρείτε τα merch μου εδώ ⬇️⬇️
+    location: "Greece"
+    followers: 292448
+    engagement: 604
+    commentsToLikes: 0.064098
+    id: ck0w3mp4vu6zg0i19ldftfsyu
+    verified: false
+    hashtags: "#alumil, #rx8, #pdt, #menexpert"
   - username: "sevenpavel"
     fullname: >-
       BABY THUG 13/4
@@ -79,30 +91,6 @@ profiles:
     id: ckaozvad0nk470i78mxtkuw3m
     verified: false
     hashtags: "#ink, #jobstopper, #christmas, #tattoos"
-  - username: "xrysa_katsarini"
-    fullname: >-
-      Xrysa Katsarini
-    bio: >-
-      stand up comedian
-    location: "Greece"
-    followers: 45015
-    engagement: 1731
-    commentsToLikes: 0.010260
-    id: ck5cbuhf0g6n50i11buij44n6
-    verified: false
-    hashtags: "#gamingmarathon, #teleperformance, #eachinteractionmatters, #gamingforcharity"
-  - username: "iliasfood"
-    fullname: >-
-      Ilias Fountoulis
-    bio: >-
-      Comedian ☻ Writer 📖 Food editor 🍤🍲🧀🍆 Horror reader 👻 Volleyball lover 🏐 Πολυτεχνίτης και ερημοσπίτης 👇DOUBLE IMPACT ΕΙΣΙΤΗΡΙΑ
-    location: "Greece"
-    followers: 83987
-    engagement: 896
-    commentsToLikes: 0.005050
-    id: ck1377vnna8iu0i19nl24mg5z
-    verified: false
-    hashtags: "#gamingforcharity, #heretoplay, #breadyoulove, #24hourgamingmarathon"
   - username: "tinyjackal"
     fullname: >-
       Tiny Jackal
@@ -115,16 +103,28 @@ profiles:
     id: ck5hjq2gih2930i11xv94v19u
     verified: false
     hashtags: "#rap, #poetry, #hiphop, #urban"
-  - username: "alan_food"
+  - username: "redbullgre"
     fullname: >-
-      aLaN FoodChallenge
+      Red Bull Greece
     bio: >-
-      🍔 🅼🅰️🅽🅶🅴🆄🆁 🅵🅾️🆄 🍔 💥28 αηѕ 📍Ƥαяιѕ 🎥ƳσυƬυвєυя ❗️780Ƙ ƑσƖƖσωєяѕ 🔥OηƁєgαуєƤαѕ 💪🏼 𝑴𝒀𝑷𝑹𝑶𝑻𝑬𝑰𝑵 : - 𝟒𝟓% ⭐️ 𝕄𝕠𝕟 𝕊𝕠𝕟 « 𝕁’𝕍𝕒𝕚𝕤 𝕋𝕠𝕦𝕥 𝔾𝕣𝕒𝕚𝕝𝕝𝕖 » 𝔻𝕚𝕤𝕡𝕠 𝕖𝕟 𝕤𝕥𝕣𝕖𝕒𝕞𝕚𝕟𝕘
+      #givesyouwings Your 24/7 🇬🇷 content🤘
     location: "Greece"
-    followers: 147874
-    engagement: 241
-    commentsToLikes: 0.025274
-    id: ck5c496ge0v3x0i1163oi940e
+    followers: 29838
+    engagement: 708
+    commentsToLikes: 0.881455
+    id: ck0w25rl9mqtl0i190f0bp77c
+    verified: true
+    hashtags: "#freerunning, #givesyouwings, #windsurfing, #watersports"
+  - username: "l.rkaaaaaaaaaaa"
+    fullname: >-
+      Ellricha Campbell
+    bio: >-
+      ADA APA ANAK ANJG ?!
+    location: "Greece"
+    followers: 4776
+    engagement: 737
+    commentsToLikes: 0.026717
+    id: ck8t17kvmuphd0j78m00t1hxb
     verified: false
-    hashtags: "#yum, #loveyou, #love, #tasty"
+    hashtags: "#lfl, #quotesbajingan, #statuskeren, #statuswakeren"
 ---

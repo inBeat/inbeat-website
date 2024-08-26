@@ -1,24 +1,48 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Japan In 2023
+title: Top 10 Cooking Instagram Influencers In Japan In 2024
 description: >-
-  Find top cooking Instagram influencers in Japan in 2023. Most popular hashtags: #fashion #cooking #coordinate.
+  Find top cooking Instagram influencers in Japan in 2024. Most popular hashtags: #fashion #coordinate #pr.
 platform: Instagram
-hits: 253
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 253 Instagram influencers like this in Japan for you to connect with.
+hits: 261
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 261 Instagram influencers like this in Japan for you to contact.
 profiles:
+  - username: "hikarimurakami"
+    fullname: >-
+      Hikari Murakami
+    bio: >-
+      📍Japanese American creator in Orange County 🎥 Motherhood, homestyle 🇯🇵 cooking, & lifestyle Shop: @shoplilyandonyx
+    location: "Japan"
+    followers: 9315
+    engagement: 414
+    commentsToLikes: 0.039798
+    id: clcuv3szw3jt90j088wbn0hty
+    verified: false
+    hashtags: "#oogieboogiebash2023, #disneyparks, #mommandmecostumes, #disneyland"
+  - username: "tomoko_sakamoto423"
+    fullname: >-
+      阪本智子
+    bio: >-
+      2020.08.07 Aoha👦🏻💙 2023.03.06 Kanoa👶🏻💛 #兄弟ママ TV reporter/雑誌/新聞 fishing🎣cooking🍳 一級船舶/特殊小型/オープンウォーターダイバー ⭐️NPO日本食育インストラクター ⭐️離乳食インストラクター YouTube ▷
+    location: "Japan"
+    followers: 59826
+    engagement: 672
+    commentsToLikes: 0.011771
+    id: ck9hb5jo9fhcy0j78h6snbwku
+    verified: false
+    hashtags: "#2020, #boymama, #shimano, #fishinggirl"
   - username: "sylvia.wakana"
     fullname: >-
       Sylvia わかな - Japanese Food + Life
     bio: >-
       Cooking & Eating in LA + Tokyo [ハーフ] 🇺🇸🇯🇵 🎥 Tiktok: sylvia.wakana (210k+) ▶️ Youtube.com/sylviawakana ⬇️ Simple Japanese Recipes
     location: "Japan"
-    followers: 73101
-    engagement: 307
-    commentsToLikes: 0.033552
+    followers: 72936
+    engagement: 279
+    commentsToLikes: 0.035321
     id: ck5caemc7d9td0i11bwymyy0c
     verified: false
-    hashtags: "#japanlife, #oshogatsu, #japanesefoodlover, #japanesefoods"
+    hashtags: "#traveljapan, #newyear, #mochi, #japanesefoodlover"
   - username: "ayagram_8924"
     fullname: >-
       𝐀𝐘𝐀𝐊𝐀♡
@@ -31,18 +55,6 @@ profiles:
     id: ckaoyv2zvj7ty0i78rf2m2x5h
     verified: false
     hashtags: "#supercar, #okinawa, #carstagram, #lamborghini"
-  - username: "tomoko_sakamoto423"
-    fullname: >-
-      阪本智子
-    bio: >-
-      2020.08.07 Aoha👶🏻💙 #男の子ベビー #男の子ママ TV reporter/雑誌/新聞 fishing💚diving🧡golf🤎cooking 自動車免許/一級船舶/特殊小型/オープンウォーター NPO日本食育インストラクター オリジナルグッズ販売中 YouTube ▷
-    location: "Japan"
-    followers: 57925
-    engagement: 678
-    commentsToLikes: 0.011586
-    id: ck9hb5jo9fhcy0j78h6snbwku
-    verified: false
-    hashtags: "#fishinggirl, #boymama, #boybaby, #washoku"
   - username: "ruri_ikeda"
     fullname: >-
       ruriikeda
@@ -115,16 +127,4 @@ profiles:
     id: ck9haw79leeig0j78t4u5o6ws
     verified: false
     hashtags: "#workout, #salondukuma3, #projectnord, #pr"
-  - username: "carina_hinata"
-    fullname: >-
-      CARINA (日向カリーナ)
-    bio: >-
-      1998.09.20(22) BR+JPN 🗼🌎 cooking.fashion.make⛅️
-    location: "Japan"
-    followers: 30222
-    engagement: 246
-    commentsToLikes: 0.008830
-    id: ck55q8xjac99q0i112utnbqdu
-    verified: true
-    hashtags: "#rescuedog, #training, #fitness, #blackcode"
 ---

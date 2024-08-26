@@ -1,12 +1,24 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Kyoto In 2023
+title: Top 10 Beauty Instagram Influencers In Kyoto In 2024
 description: >-
-  Find top beauty Instagram influencers in Kyoto in 2023. Most popular hashtags: #kyoto #pr #ootd #fashion.
+  Find top beauty Instagram influencers in Kyoto in 2024. Most popular hashtags: #pr #kyoto #japan #ootd.
 platform: Instagram
 hits: 24
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 24 Instagram influencers like this in Kyoto, Japan for you to connect with.
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 24 Instagram influencers like this in Kyoto, Japan for you to pitch.
 profiles:
+  - username: "dear.yc"
+    fullname: >-
+      Yau Ching
+    bio: >-
+      ♡ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ʟɪғᴇ ᴅᴍ ғᴏʀ ᴊᴏʙ :) ~𝑀𝑦 𝑌𝑜𝑢𝑇𝑢𝑏𝑒~ ✿
+    location: "Japan"
+    followers: 54515
+    engagement: 205
+    commentsToLikes: 0.015516
+    id: ck5pzv1h12w0f0i11j4gis8if
+    verified: false
+    hashtags: "#love, #japan, #food, #hongkong"
   - username: "rieminnn"
     fullname: >-
       Rie Mine
@@ -31,6 +43,18 @@ profiles:
     id: ck0vwq2myv0wm0i19y7uytjpc
     verified: false
     hashtags: "#pr, #watch, #travel, #dw"
+  - username: "a.asuka.a"
+    fullname: >-
+      asuka | Freelance Model
+    bio: >-
+      Osaka | Japan Beauty💄Fashion👗Travel🌍 155cmコーデ 撮影等お仕事依頼はDM💌にお願い致します💕
+    location: "Japan"
+    followers: 42431
+    engagement: 218
+    commentsToLikes: 0.058179
+    id: ck5hiace7cgwh0i11o7iuh993
+    verified: false
+    hashtags: "#onzoro, #mybirthday, #pr, #kyoto"
   - username: "hiromi.tomii"
     fullname: >-
       Hiromi.Tomii
@@ -43,18 +67,18 @@ profiles:
     id: ck5zsd9a9yaaz0i14aci63ntu
     verified: false
     hashtags: "#golfstagram, #golfswing, #yoga, #ootd"
-  - username: "aiku_0817__"
+  - username: "whyte_shiori"
     fullname: >-
-      AIKU MAIKAWA
+      中島潮里 Shiori Nakajima
     bio: >-
-      JAPAN×TAIWAN 🇯🇵🇹🇼 Twitter @AIKU0817_ [♥️Travel, Onsen, Beauty, Fashion &Food♥️]
+      Vegan Beauty salon & Vegan cafe「whyte」 Top Stylist✂︎ 海を守る為のサスティナブルアンバサダー🌍 ELLEスタイルインサイダー 自然由来で身体にも環境にも優しいコスメで自然体に過ごせるスタイルを提案🌿 #オーガニックコスメだけでメイク
     location: "Japan"
-    followers: 113598
-    engagement: 162
-    commentsToLikes: 0.006643
-    id: ck14ivzkfhesz0i19fegw6ndc
-    verified: true
-    hashtags: "#aman, #fashion, #black, #ootd"
+    followers: 66340
+    engagement: 130
+    commentsToLikes: 0.000424
+    id: ck15paft8wwc60i19jyal9jpm
+    verified: false
+    hashtags: "#celvoke, #bob, #sustainablebeauty, #veganbeauty"
   - username: "yoshimayu_"
     fullname: >-
       mayuko
@@ -79,18 +103,6 @@ profiles:
     id: ck5cjozdvv6v90i11oxen6en4
     verified: false
     hashtags: "#ouchigohanlover, #iku, #ikucafe, #wp"
-  - username: "chiha6170"
-    fullname: >-
-      CHIHA💋.
-    bio: >-
-      🇯🇵Model ✈️ traveller 🇺🇸🇲🇻🇰🇷🇭🇰🇲🇴🇸🇬🇹🇭🇮🇩🇵🇭🇫🇷 #travel #fashion #beauty 📺私の年下王子さま
-    location: "Japan"
-    followers: 162748
-    engagement: 214
-    commentsToLikes: 0.012749
-    id: ckaoxq7njebyb0i78l8mgip16
-    verified: false
-    hashtags: "#kyoto, #kyotojapan, #kyototemple, #kyototrip"
   - username: "davidlazarphoto"
     fullname: >-
       David Lazar
@@ -115,16 +127,4 @@ profiles:
     id: ckap06bpaoxf80i78mlf1g5i5
     verified: false
     hashtags: "#gaudiskin, #foxey, #takeout, #clubhouse"
-  - username: "nanafujna1"
-    fullname: >-
-      
-    bio: >-
-      ファッション、コスメ、美容、スポーツ好き😍雑誌、TV 、Web、Instagram等お仕事頂き感謝してます。出逢いを大切にしてます。お気軽にフォロー、コメントよろしくお願いします☺️
-    location: "Japan"
-    followers: 27738
-    engagement: 362
-    commentsToLikes: 0.119066
-    id: ck5zsd79iya5z0i14o6h05q1q
-    verified: false
-    hashtags: "#ponte, #40, #fashiongram, #fashion"
 ---

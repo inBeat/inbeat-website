@@ -1,12 +1,24 @@
 ---
-title: Top 10 Health Instagram Influencers In Istanbul In 2023
+title: Top 10 Health Instagram Influencers In Istanbul In 2024
 description: >-
-  Find top health Instagram influencers in Istanbul in 2023. Most popular hashtags: #istanbul #health #turkey #happy.
+  Find top health Instagram influencers in Istanbul in 2024. Most popular hashtags: #istanbul #health #turkey #smile.
 platform: Instagram
-hits: 61
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 61 Instagram influencers like this in Istanbul, Turkey for you to contact.
+hits: 55
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 55 Instagram influencers like this in Istanbul, Turkey for you to connect with.
 profiles:
+  - username: "dr_ea"
+    fullname: >-
+      Erkan AKILLI
+    bio: >-
+      Uzm. Diş Dr. Erkan AKILLI🇹🇷 (DDS. PhD.) Implantologist @ea.clinique CosmeticDentistry&SmileDesign ☎️02122408899 - 05321133530
+    location: "Turkey"
+    followers: 42587
+    engagement: 96
+    commentsToLikes: 0.001764
+    id: ck5heph8qu4bt0i11vd7hkod5
+    verified: false
+    hashtags: "#teeth, #tooth, #cosmeticdentistry, #turkey"
   - username: "sadaffashionsalad"
     fullname: >-
       SADAF Sadeghi
@@ -43,6 +55,18 @@ profiles:
     id: ck5zuwc8035ou0i14gulig5za
     verified: false
     hashtags: "#istanbulturkey, #sa, #turkey, #staysafe"
+  - username: "doctorhakantufekci"
+    fullname: >-
+      Hakan Tüfekçi
+    bio: >-
+      Inspired from your beauty. International Health Tourism Authorization Certificated Clinic 📲 +905550387869 📍Bursa
+    location: "Turkey"
+    followers: 63167
+    engagement: 339
+    commentsToLikes: 0.030209
+    id: ckap5e1wcb98b0i78r99ato5u
+    verified: false
+    hashtags: "#medikal, #aesthetic, #smile, #fit"
   - username: "about_minoo"
     fullname: >-
       ▽ 𝓶𝓲𝓷𝓸𝓸 🐋
@@ -67,18 +91,18 @@ profiles:
     id: ck5q0wicp83yt0i11uf00m4s2
     verified: true
     hashtags: "#happiness, #production, #success, #miami"
-  - username: "aycasarc"
+  - username: "fg_diaries_"
     fullname: >-
-      Ayca Sarc
+      FL0RA 👩🏻
     bio: >-
-      Istanbul, Turkey #yorganlarfora_aycasarc #mehrymuxyorganlarfora Ottoman Empire Tshirts
+      Hungarian girl living in Istanbul 🇭🇺🇹🇷 📷 @flora_photographs 👩🏻‍💻 @chezamor_com 📹 Youtube - Flora’s Diaries
     location: "Turkey"
-    followers: 91272
-    engagement: 200
-    commentsToLikes: 0.079074
-    id: ck15q7es41g1k0i19eojewmw5
+    followers: 34780
+    engagement: 49
+    commentsToLikes: 0.051858
+    id: ck0w362a0rrmz0i19x63553h0
     verified: false
-    hashtags: "#artisanal, #mehrymuxyorganlarfora, #athome, #cnttraveler"
+    hashtags: "#rekl, #istanbul, #cvitaminnal, #influenszer"
   - username: "emreturkmen"
     fullname: >-
       Emre Turkmen
@@ -91,18 +115,6 @@ profiles:
     id: ck5q4l5tapekb0i11jj0x4u26
     verified: false
     hashtags: "#bassporn, #bassguitar, #bass, #bassguitarclub"
-  - username: "isik_gulcin"
-    fullname: >-
-      Dyt. Gülçin Işık
-    bio: >-
-      DİYETİSYEN~IŞIK DANIŞMANLIK~ Hürriyet Köşe Yazarı📕 Massport Health Club-Sport Nutritionist💪 FightPark-PT Paella Balık/Kalamar Rest.
-    location: "Turkey"
-    followers: 26653
-    engagement: 484
-    commentsToLikes: 0.012737
-    id: ckaoyf7j4h9qw0i784go8tf3e
-    verified: false
-    hashtags: "#sendromsuzpazartesi, #ba, #korona, #diyetyemekleri"
   - username: "delicioustastebyib"
     fullname: >-
       Ecz.İnci Bulut
@@ -115,16 +127,4 @@ profiles:
     id: ck0w6v4qyaf270i197vb1rr8z
     verified: false
     hashtags: "#cuisine, #recipe, #influencer, #tastygood"
-  - username: "bilgecediyet"
-    fullname: >-
-      
-    bio: >-
-      #bilgecekahvaltı • #bilgecediyetbilgilendiriyor •İstanbul Medipol Ünv. •Beslenme&Diyetetik 4’4 •Psikoloji 2’4 💌Soru,görüş ve önerileriniz için DM
-    location: "Turkey"
-    followers: 9907
-    engagement: 681
-    commentsToLikes: 0.025334
-    id: ck8tc41ksy7br0j78626mk0gl
-    verified: false
-    hashtags: "#ramadan, #healthybreakfastideas, #classicbreakfast, #bilgecediyetbilgilendiriyor"
 ---

@@ -1,12 +1,36 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Russia In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Russia In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Russia in 2023. Most popular hashtags: #tattoo #moscow #tattoomoscow.
+  Find top tattoo-artists Instagram influencers in Russia in 2024. Most popular hashtags: #tattoo #tattoomoscow #ink.
 platform: Instagram
-hits: 142
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database holds 142 Instagram influencers like this in Russia for you to pitch.
+hits: 139
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 139 Instagram influencers like this in Russia for you to pitch.
 profiles:
+  - username: "mvtattoo"
+    fullname: >-
+      Vitaly Morozov
+    bio: >-
+      Tattoo artist 🇩🇪based in Germany, Düsseldorf🇩🇪⠀ Dm for info and booking 📩 tattoomv@gmail.com ⠀ Supported by @tattoorevive
+    location: "Russia"
+    followers: 211249
+    engagement: 385
+    commentsToLikes: 0.012048
+    id: ck8t2hgazzikq0j78n4g9pa1v
+    verified: false
+    hashtags: "#tattoogermany, #dragontattoo, #blackandgray, #girl"
+  - username: "elmirakruger"
+    fullname: >-
+      Elmira Kruger
+    bio: >-
+      Tattoo artist Saint Petersburg
+    location: "Russia"
+    followers: 121854
+    engagement: 57
+    commentsToLikes: 0.008407
+    id: ck8svyxj4d7tf0j789kbsvi5w
+    verified: false
+    hashtags: "#tattoolife, #handtattoo, #skull, #tattoomoscow"
   - username: "she_is"
     fullname: >-
       Kristina Darmaeva
@@ -67,18 +91,6 @@ profiles:
     id: ck5hng2ganq0w0i11wtanhd6v
     verified: false
     hashtags: "#tattooistartmag"
-  - username: "evgenymel"
-    fullname: >-
-      Евгений Мэл
-    bio: >-
-      Tattoo Artist My studio: @visota_tattoo 🖤 Moscow, Russia Excalibur pro team Записаться на сеанс можно через вк
-    location: "Russia"
-    followers: 41723
-    engagement: 219
-    commentsToLikes: 0.012580
-    id: ck0u12zjyvmco0i19qudid8q7
-    verified: false
-    hashtags: "#dotworktattoo, #tattoovideo, #evgenymel, #galaxy"
   - username: "deni_aktemirov"
     fullname: >-
       Deni
@@ -115,16 +127,4 @@ profiles:
     id: ck8sz476gn3ne0j78byozafwa
     verified: false
     hashtags: "#realismtattoo, #portrait, #tattoo, #realistictattoo"
-  - username: "katrinlove27"
-    fullname: >-
-      🔮Katrin Tattoo🔮
-    bio: >-
-      I’m Tattoo Artist Мой дневник жизни Отдыхай и смотри TATTOO 👉🏼 @piersibtattoo @piercing_ru 🌙 #татуоткатрин
-    location: "Russia"
-    followers: 70091
-    engagement: 103
-    commentsToLikes: 0.014991
-    id: ck5buo2ezi4g00i11y18pdaql
-    verified: false
-    hashtags: "#tattoonsk, #tattoonovosibirsk, #piersib, #piersibtattoo"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Dallas In 2023
+title: Top 10 Skincare TikTok Influencers In Dallas In 2024
 description: >-
-  Find top skincare TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #skincare #viral #dallas.
+  Find top skincare TikTok influencers in Dallas in 2024. Most popular hashtags: #fyp #skincare #dallas #texas.
 platform: TikTok
-hits: 17
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 17 TikTok influencers like this in Dallas, United States for you to work with.
+hits: 16
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat holds 16 TikTok influencers like this in Dallas, United States for you to pitch.
 profiles:
   - username: "daytran12"
     fullname: >-
@@ -19,18 +19,18 @@ profiles:
     id: ckc83pxrz45zm0j23mylhqf1h
     verified: false
     hashtags: "#mopar, #socal, #jdm, #bayarea"
-  - username: "sarahadamhafez"
+  - username: "momtime36"
     fullname: >-
-      sarahadamhafez
+      user4785187892836
     bio: >-
-      IG + Youtube ☝🏼 Shop Clarins Gentle Renewing Cleaning Mousse 👇🏼
+      Wife and Boy mom Love: Laughter, Football, Basketball, and all things LSU 💜💛💜
     location: "United States"
-    followers: 414500
-    engagement: 1331
-    commentsToLikes: 0.029069
-    id: ck9v17oyhftsz0j78zt9qgyyk
+    followers: 21200
+    engagement: 536
+    commentsToLikes: 0.032954
+    id: ckams0auno0tb0i782y6mgfe7
     verified: false
-    hashtags: "#interiordesign, #hometour, #husbandandwife, #texas"
+    hashtags: "#comedy, #wearamask, #2020, #momsoftiktok"
   - username: "alyssanicole.official"
     fullname: >-
       Alyssa Nicole✨
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.053089
     id: ck9glefgdo0110j783y897lfs
     verified: false
-    hashtags: "#fyp, #viral, #stitch, #greenscreenvideo"
+    hashtags: "#viral, #fyp, #stitch, #chlorophyll"
   - username: "thecurlybeviie"
     fullname: >-
       Auntie Bev
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.013839
     id: cka0sk1ivlusq0i78dfut0k6k
     verified: false
-    hashtags: "#naturalhair, #fyp, #makeup, #skincare"
+    hashtags: "#makeup, #fyp, #naturalhair, #arianagrande"
   - username: "klaudiavnssa"
     fullname: >-
       VNSSA
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.100120
     id: ckbqh05mr2e100j23m4hgt3h9
     verified: false
-    hashtags: "#fyp, #skincare, #texas, #houston"
+    hashtags: "#skincare, #texas, #houston, #fyp"
   - username: "frutalocadfw"
     fullname: >-
       frutalocadfw
@@ -103,18 +103,6 @@ profiles:
     id: ckb9do1wq0yfw0j23bldswhs6
     verified: false
     hashtags: "#beautyhacks, #makeover, #fyp, #home"
-  - username: "joehannisburg"
-    fullname: >-
-      Daniel Oh
-    bio: >-
-      live life to the fullest
-    location: "United States"
-    followers: 25300
-    engagement: 1072
-    commentsToLikes: 0.075335
-    id: ck8nfcsyorblh0j78q63d143w
-    verified: false
-    hashtags: "#foryoupage, #skincare, #xyzbca, #asian"
   - username: "andrewkwon_official"
     fullname: >-
       Andrew Kwon 엔드류 권
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.067943
     id: ckce3zwyhjcwm0j237bod4grp
     verified: false
-    hashtags: "#france, #kpop, #nyc, #andrewkwon"
+    hashtags: "#france, #korean, #fyp, #foru"
+  - username: "sarahadamhafez"
+    fullname: >-
+      sarahadamhafez
+    bio: >-
+      IG + Youtube ☝🏼 Shop Clarins Gentle Renewing Cleaning Mousse 👇🏼
+    location: "United States"
+    followers: 414500
+    engagement: 1331
+    commentsToLikes: 0.029069
+    id: ck9v17oyhftsz0j78zt9qgyyk
+    verified: false
+    hashtags: "#interiordesign, #hometour, #texas, #husbandandwife"
 ---

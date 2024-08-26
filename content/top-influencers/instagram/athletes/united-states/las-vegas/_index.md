@@ -1,24 +1,24 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Las Vegas In 2023
+title: Top 10 Athletes Instagram Influencers In Las Vegas In 2024
 description: >-
-  Find top athletes Instagram influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #athlete #fitness #model.
+  Find top athletes Instagram influencers in Las Vegas in 2024. Most popular hashtags: #athlete #fitness #lasvegas #vegas.
 platform: Instagram
-hits: 70
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 70 Instagram influencers like this in Las Vegas, United States for you to collaborate.
+hits: 91
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 91 Instagram influencers like this in Las Vegas, United States for you to contact.
 profiles:
-  - username: "shanemosleyjr"
+  - username: "kingricochet"
     fullname: >-
-      TRIBE CALLED MOSLEY
+      Ricochet
     bio: >-
-      🥊Pro Boxer 🥊Golden Boy 👊🏾The Contender Season 5 finalist 💍 @lyssa.renea 📍LA to LV Business inquires: shanemosleyjr.business@gmail.com
+      Proud father • @WWE Superstar Ultra Athlete! • #PlusUltra Las Vegas, NV ☀️ • @samanthairvinwwe 🔒
     location: "United States"
-    followers: 22776
-    engagement: 409
-    commentsToLikes: 0.044896
-    id: ck8swmr0aek3m0j780q742ohr
+    followers: 1039688
+    engagement: 244
+    commentsToLikes: 0.009450
+    id: ck0ucgs5xgqn10i1999zl1q07
     verified: true
-    hashtags: "#snacathlete, #couplesofinstagram, #goldenboy, #boydad"
+    hashtags: "#whateverittakes, #giveitall, #highlightofthenight, #wweraw"
   - username: "rickylvfitmodel"
     fullname: >-
       Ricky Skiz
@@ -31,18 +31,18 @@ profiles:
     id: ckap1sz1hw0490i786yhj1gqg
     verified: false
     hashtags: "#physiquemodel, #malemodel, #fitspo, #tightiewhitietuesday"
-  - username: "priscillamoy"
+  - username: "norrisfrederick"
     fullname: >-
-      ✨𝒫𝑅𝐼𝒮𝒞𝐼𝐿𝐿𝒜 𝑀𝒪𝒴 ✨
+      Norris Frederick
     bio: >-
-      🇨🇳🇺🇸♌️ © Chicago ⇢📍Las Vegas Model•Actress•Dancer Athlete•Painter•YouTuber Illinois Wesleyan '15 @focus_mediagroup @bestagencylv @envymodels
+      Professional Long Jumper 11x NCAA All American 5x Conference Champion 3x Indoor U.S Bronze Medal Member of Team USA JOIN THE TEAM Team Frederick
     location: "United States"
-    followers: 45108
-    engagement: 170
-    commentsToLikes: 0.109554
-    id: ck0vuw6wxmfun0i198b0j1dan
-    verified: false
-    hashtags: "#ootd, #tonedgirls, #lasvegasmodels, #explorevegas"
+    followers: 469869
+    engagement: 390
+    commentsToLikes: 0.070581
+    id: ck60239dxgno60i14r9wo1shv
+    verified: true
+    hashtags: "#jump, #nfl, #love, #seattle"
   - username: "womenhoopers"
     fullname: >-
       
@@ -55,6 +55,18 @@ profiles:
     id: ck14int7fgbox0i19af2i74d1
     verified: false
     hashtags: "#usa, #losangeles, #workout, #sport"
+  - username: "craiggolias"
+    fullname: >-
+      craiggolias
+    bio: >-
+      💪🏻ONLINE COACH - DM ME TO LEARN MORE! @ryse_supps athlete code : GOLIAS 📍LAS VEGAS
+    location: "United States"
+    followers: 1001946
+    engagement: 57
+    commentsToLikes: 0.007825
+    id: ck5q8v7ye83vg0i11rx83npzm
+    verified: true
+    hashtags: "#bodybuilding, #fuckskinnygethuge, #lvac, #flashbackfriday"
   - username: "laurenfogle10"
     fullname: >-
       lauren fogle
@@ -78,53 +90,41 @@ profiles:
     commentsToLikes: 0.027663
     id: ck6u33p1hvini0j71cfq6on33
     verified: false
-    hashtags: "#ebc2021, #wecametowynn"
-  - username: "jerryhughesphoto"
+    hashtags: "#wecametowynn, #ebc2021"
+  - username: "lukegawne"
     fullname: >-
-      Jerry Hughes Photography LLC
+      GAWNE
     bio: >-
-      Commercial photographer, brand consultant and owner of Be You Brands Apparel. DM for bookings and consultations.
+      ⬇️ “KINFOLK” out NOW 👊🏼🔥
     location: "United States"
-    followers: 52731
-    engagement: 104
-    commentsToLikes: 0.077151
-    id: ck5q8sowa7t7w0i11qnj2o02h
+    followers: 286653
+    engagement: 356
+    commentsToLikes: 0.045466
+    id: ck5zqczr9udhi0i14ok1f19fj
     verified: false
-    hashtags: "#contentmarketing, #naturallightphotography, #godox, #dancephotography"
-  - username: "lawrencepgivens"
+    hashtags: "#rapper, #music, #kinfolk, #newmusic"
+  - username: "taliajade_m9"
     fullname: >-
-      Lawrence P Givens
+      Talia Jade Marino
     bio: >-
-      #BlackPhotographer Published #Editorial #Campaign #Ad #CreativeDirector #Photographer #Fashion #Beauty #Luxury 📍#Miami #NYC #LA #CHI #Global DM us
+      Pole Champ PPC 2017🥇 Pole Artist/Aerialist/Dancer Cirque du Soleil Dragone X-Pole Athlete For Workshops/Private coaching⬇️ •info@taliajademarino.com
     location: "United States"
-    followers: 23349
-    engagement: 126
-    commentsToLikes: 0.067156
-    id: ck14igqfffbfl0i19q94nls3q
+    followers: 10037
+    engagement: 236
+    commentsToLikes: 0.081480
+    id: ck6tnm868a4js0j71n7lt9977
     verified: false
-    hashtags: "#bridalfashionweek, #miami, #photographer, #abs"
-  - username: "francoislavoieofficial"
+    hashtags: "#miami, #pole, #lines, #dancer"
+  - username: "veronica.harwood"
     fullname: >-
-      Francois Lavoie
+      Veronica ⚡️Harwood
     bio: >-
-      Professional bowler from Canada. Storm Bowling. Buddies Pro Shop. Turbo Grips. Coolwick.
+      👑 𝕄𝕀𝕊𝕊 𝔻𝕀𝕍𝔸 𝔽𝕀𝕋ℕ𝔼𝕊𝕊 𝕀ℕ𝕋𝔼ℝℕ𝔸𝕋𝕀𝕆ℕ𝔸𝕃 𝟚𝟘𝟚𝟛 ʙᴜɪʟᴅɪɴɢ ꜱᴛʀᴏɴɢ ᴄᴏɴꜰɪᴅᴇɴᴛ ᴡᴏᴍᴇɴ⁣⁣⁣ LIFESTYLE & NUTRITION COACHING
     location: "United States"
-    followers: 15074
-    engagement: 888
-    commentsToLikes: 0.013875
-    id: ck6u20rudp16c0j71lmm4dwhc
+    followers: 19130
+    engagement: 168
+    commentsToLikes: 0.063163
+    id: clr5xsrw6shqt0k08rr3f77sm
     verified: false
-    hashtags: "#turbogrips, #pba, #gobowling, #photooftheday"
-  - username: "fridapaulsen"
-    fullname: >-
-      Frida Paulsen Stern
-    bio: >-
-      IFBB Bikini Pro 🇸🇪 Since 1994❣️ 📍Las Vegas Elite Coach @teamelitephysique @blackstonelabs_official athlete “fridapaulsen”-20% @villamanagementllc
-    location: "United States"
-    followers: 164698
-    engagement: 253
-    commentsToLikes: 0.035802
-    id: ck6u6k76dg2ha0j71khwkf1o8
-    verified: false
-    hashtags: "#handinglove, #bikinisbyfreydis, #probikini, #hawaiipro2018"
+    hashtags: "#fbb, #naturalbeauty, #fitnessmodel, #bodybuilding"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Germany In 2023
+title: Top 10 Music TikTok Influencers In Germany In 2024
 description: >-
-  Find top music TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #fyp #comedy #foryoupage.
+  Find top music TikTok influencers in Germany in 2024. Most popular hashtags: #foryou #fyp #comedy #foryoupage.
 platform: TikTok
-hits: 369
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our database holds 369 TikTok influencers like this in Germany for you to work with.
+hits: 370
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 370 TikTok influencers like this in Germany for you to contact.
 profiles:
   - username: "sebblwebbl"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.026063
     id: ck920kbbpemuz0j785qcz8sm9
     verified: true
-    hashtags: "#education, #wissenmachtschlau, #lernenvontiktok, #bildung"
+    hashtags: "#lernenvontiktok, #fyp, #education, #carkaraoke"
   - username: "kaempfenderjunkie"
     fullname: >-
       L U K A S🥀

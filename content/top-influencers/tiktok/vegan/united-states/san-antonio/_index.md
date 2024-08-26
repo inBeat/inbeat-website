@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In San Antonio In 2023
+title: Top 10 Vegan TikTok Influencers In San Antonio In 2024
 description: >-
-  Find top vegan TikTok influencers in San Antonio in 2023. Most popular hashtags: #vegan #duet #fyp #stitch.
+  Find top vegan TikTok influencers in San Antonio in 2024. Most popular hashtags: #vegan #fyp #duet #stitch.
 platform: TikTok
 hits: 4
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 4 TikTok influencers like this in San Antonio, United States for you to work with.
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our platform holds 4 TikTok influencers like this in San Antonio, United States for you to pitch.
 profiles:
   - username: "satexasfoodies"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.039490
     id: ckcjq0odjgmf60j237teiu72h
     verified: false
-    hashtags: "#tiktokfood, #newyearnewmio, #cheeseburger, #foodtiktok"
+    hashtags: "#sanantoniofoodie, #sanantoniotx, #foodtiktok, #newyearnewmio"
   - username: "siempre_sanantonio"
     fullname: >-
       Siempre 💖 SA
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.137265
     id: ckdi698kc7kx40j23kfpcva2q
     verified: false
-    hashtags: "#stitch, #vegan, #plantbased, #leftist"
+    hashtags: "#stitch, #plantbased, #leftist, #vegan"
   - username: "veganmumu"
     fullname: >-
       Shannon
@@ -90,19 +90,7 @@ profiles:
     commentsToLikes: 0.401234
     id: ckavlfj1duq540j237nx3htr9
     verified: false
-    hashtags: "#mom, #davematthewsband, #floridavegan, #heal"
-  - username: "kawaiikingb"
-    fullname: >-
-      MJ Cobra
-    bio: >-
-      (๑˃ᴗ˂)◜✧˖° MJ ♡ The Banana King 👑 キラ キラ Energy 100%! 25 ☆ Bigender ☆ Vegan
-    location: "United States"
-    followers: 4459
-    engagement: 2638
-    commentsToLikes: 0.068353
-    id: ckav30jp99aym0j2355hwtnvy
-    verified: false
-    hashtags: "#foryoupage, #decora, #harajukuboy, #decorafashion"
+    hashtags: "#heal, #cats, #animallover, #nontoxic"
   - username: "giuliasabatinoo"
     fullname: >-
       giulia
@@ -127,4 +115,16 @@ profiles:
     id: cka0ml8muvp7a0i78prjrqopz
     verified: true
     hashtags: "#beauty, #makeuplook, #makeupjourney, #makeupmusthaves"
+  - username: "alykara"
+    fullname: >-
+      💖Aly💖
+    bio: >-
+      🥰Hope you’re having a good day🥰 ✨19✨ 🌱I’m plant based (not vegan)🌱
+    location: "United States"
+    followers: 1200000
+    engagement: 2020
+    commentsToLikes: 0.025660
+    id: ck8faj1q44dkr0j78qd24dbjr
+    verified: false
+    hashtags: "#xyzbca, #vegan, #fyp, #family"
 ---

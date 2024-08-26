@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In United States In 2023
+title: Top 10 Beauty Instagram Influencers In United States In 2024
 description: >-
-  Find top beauty Instagram influencers in United States in 2023. Most popular hashtags: #sheinpartner #mahsaamini #sheinforall.
+  Find top beauty Instagram influencers in United States in 2024. Most popular hashtags: #summeroutfitideas #summeroutfits #motivation.
 platform: Instagram
-hits: 35336
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 35336 Instagram influencers like this in United States for you to work with.
+hits: 36993
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 36993 Instagram influencers like this in United States for you to collaborate.
 profiles:
-  - username: "beauty_vain"
+  - username: "tokyotolagirl"
     fullname: >-
-      𝙄𝙉𝙁𝙇𝙐𝙀𝙉𝘾𝙄𝙉𝙂 ＢＥＡＵＴＹ
+      Shiyoko Nataniya
     bio: >-
-      ⠀ 【𝘿𝘼𝙄𝙇𝙔 𝘽𝙀𝘼𝙐𝙏𝙔 𝘾𝙊𝙉𝙏𝙀𝙉𝙏】 │❀ FOR INSPIRATION❀║ 📌PR|BUSINESS - PLEASE DM | #beautyvain | #beauty_vain
+      🙋🏻‍♀️ | Pinterest gal 📍 | LA ✨ | Aesthetic fashion, lifestyle & beauty inspo 🤳 | UGC 💌 | tokyotolagirl@gmail.com SHOP MY FEED⬇️
     location: "United States"
-    followers: 61908
-    engagement: 281
-    commentsToLikes: 0.007267
-    id: ck0w632av6nve0i197br5vxq3
+    followers: 36454
+    engagement: 1538
+    commentsToLikes: 0.049032
+    id: ck5zypsduaawo0i14e5m3m57k
     verified: false
-    hashtags: "#eyeshadow, #undiscoveredmua, #blogger, #makeuplooks"
-  - username: "behamin"
+    hashtags: "#coquettegirl, #pinkaesthetic, #grwmreel, #jcpfam"
+  - username: "maddiestoltzfusxo"
     fullname: >-
-      Behamin • بهامين
+      Maddie Stoltzfus | UGC | Content creator
     bio: >-
-      Fashion | Beauty | Lifestyle | Design 🇺🇸 💚🕊❤️ 📍California Architect @home.by.bb 🐈 @benjibanubilu 📩 behamin.archi@gmail.com
+      —— Fashion, beauty, lifestyle —— Pennsylvania engaged 💍 ✉️ stoltzfusmaddie@gmail.com
     location: "United States"
-    followers: 487738
-    engagement: 571
-    commentsToLikes: 0.033819
-    id: ck0u741343nni0i1969xnaly0
+    followers: 14605
+    engagement: 509
+    commentsToLikes: 0.422949
+    id: ckqas80x2kz1w0j2311gad6a1
     verified: false
-    hashtags: "#iranrevolution, #mahsaamini, #womanlifefreedom, #luluspartner"
-  - username: "sadaf_beauty"
+    hashtags: "#streetstyle, #ootd, #pov, #coffee"
+  - username: "lindaminjukim"
     fullname: >-
-      Sadaf Beauty
+      Linda Kim
     bio: >-
-      📍San Francisco 👇🏼Follow my lifestyle/travel blog @sadaf_beauty_diary Email: contact@sadafbeauty.net
+      Los Angeles📍 Lifestyle | Beauty | Fashion → lindaminjukim@gmail.com
     location: "United States"
-    followers: 3866821
-    engagement: 725
-    commentsToLikes: 0.021434
-    id: ck0u21ukoymhd0i19l8xovyot
-    verified: true
-    hashtags: "#sheinpartner, #sheinx, #sheinforall, #mahsaamini"
-  - username: "les.talk.skin"
-    fullname: >-
-      Lesly | NJ Beauty Content Creator
-    bio: >-
-      Skin, Hair, Beauty | Bride-to-be 🇩🇴 Esthetician @leslytheesty 💌 Leslygomez.Lts@gmail.com YouTube, Virtual Consultations + Links ⬇️
-    location: "United States"
-    followers: 53181
-    engagement: 724
-    commentsToLikes: 0.045886
-    id: ck603061kkaao0i14en68pdxj
+    followers: 10337
+    engagement: 534
+    commentsToLikes: 0.379834
+    id: ckq0ivezidd9i0j23dx5v7it4
     verified: false
-    hashtags: "#everydaymakeuplook, #drugstoreskincare, #skinbarrierrepair, #spf50"
-  - username: "catherineleox"
+    hashtags: "#brunchideas, #lovelulus, #summeroutfits, #eatstagram"
+  - username: "mayfiscella"
     fullname: >-
-      CATHERINE | Outfit Inspo
+      M A Y 👽 美 芝
     bio: >-
-      🌸Be your own kind of Beauty 🧚🏼 photos taken by me
+      *ᴍᴜᴄʜ ᴡᴇɪʀᴅᴇʀ ɪɴ ᴘᴇʀsᴏɴ #fashion #beauty #lifestyle #gaming PR/Collabs: mayfiscella@gmail.com 📍: D[M]V 🕙: Tiktok @mayfiscella (64K+)
     location: "United States"
-    followers: 99854
-    engagement: 470
-    commentsToLikes: -24.505838
-    id: ck5ce7d5dkh650i11ckffyvgl
+    followers: 38619
+    engagement: 1610
+    commentsToLikes: 0.021078
+    id: ck9hcxh2nnd9c0j785mcc1rut
     verified: false
-    hashtags: "#tiktoktransition, #diosafit, #shapewear, #sheingoodfinds"
-  - username: "tingmystyle"
+    hashtags: "#selfie, #hapakristin, #dating, #selca"
+  - username: "tinsleyerin"
     fullname: >-
-      Ting Ma
+      Tinsley Erin
     bio: >-
-      Fashion🎸Fitness🎸Beauty #thisis52 #proaging Aging is a privilege ! 📍Chicago/San Diego 📧: tingmystyle168@gmail.com
+      Lifestyle • Fashion • Beauty • Home A city girl in the south, living the mom life. 🇳🇬 📍Dallas, TX PR@tinsleyerin.com
     location: "United States"
-    followers: 137144
-    engagement: 613
-    commentsToLikes: 0.084561
-    id: ck0w49r7mxhxq0i198zn6sfa8
+    followers: 31007
+    engagement: 563
+    commentsToLikes: 0.012974
+    id: ck5hrmlilv4av0i11xjrno69f
     verified: false
-    hashtags: "#over50fitness, #over50women, #absworkout, #over50andfit"
-  - username: "northwoodsfolk"
+    hashtags: "#liketkit, #ltkfind, #ad, #renaissanceworldtour"
+  - username: "_reillyjohnson"
     fullname: >-
-      Sunny // Folk Living                                       🌲MN🌲
+      Reilly Johnson | Style Inspo
     bio: >-
-      nature-inspired mother + maker sharing the beauty of slow, seasonal living diy • recipes • gardening • home-ed • adventure 🌙 🌿 🐌 🍄🌲🧺 ✨
+      everyday outfits | beauty | lifestyle 💘 pittsburgh, pa | tampa, fl ✉️ reilly@brinkmgmt.com proverbs 31:25
     location: "United States"
-    followers: 131357
-    engagement: 474
-    commentsToLikes: 0.067900
-    id: ckx3j50xwzxpa0j2331ss8l9z
+    followers: 46046
+    engagement: 618
+    commentsToLikes: 0.134521
+    id: ckn9ayh3tmd400j23lpq4yaz6
     verified: false
-    hashtags: "#wildcraftwednesday, #nobuydiy, #thehandcraftedholiday"
-  - username: "bambidoesbeauty"
+    hashtags: "#summeroutfits, #relationshiphumor, #summer2024, #pinterestoutfits"
+  - username: "joanna_spicer"
     fullname: >-
-      Bambi Does Beauty
+      Joanna Spicer
     bio: >-
-      🦌🧚‍♀️ A less is more approach to beauty
+      📍Los Angeles Beauty. Fashion. Lifestyle ✉️joannaspicer26@gmail.com
     location: "United States"
-    followers: 115362
-    engagement: 775
-    commentsToLikes: 0.048591
-    id: ck0u1j811x4h60i19dpnbox43
+    followers: 36921
+    engagement: 550
+    commentsToLikes: 0.012373
+    id: cko1viryqbndj0j239gq9k158
     verified: false
-    hashtags: "#glossier, #bambidoeslife, #oleglow, #olehenriksenpartner"
-  - username: "aboutritvi"
+    hashtags: "#beyondyogapartner, #moveinbeyond, #redlip, #blottedlip"
+  - username: "piecesofonye"
     fullname: >-
-      Ritvi Shah | Content Creator
+      Onye | Content Creator 📸
     bio: >-
-      I do all things Fashion with Travel, Lifestyle, and Beauty Currently in Mumbai🌞 📧: workwithritvi@gmail.com w/ @iplixmedia Use #reelswithritvi 🌹
+      Beauty & tech loving Content Creator snapping pics & sharing tips | LA🇺🇸 🇳🇬 | Boy mom 🤱🏾💙 📸 @onyecreativestudios 👇🏾FREE SM Calendar
     location: "United States"
-    followers: 224675
-    engagement: 2767
-    commentsToLikes: 0.005231
-    id: ckxp829m0a9g40j23nm7l1gam
+    followers: 23255
+    engagement: 528
+    commentsToLikes: 0.083116
+    id: ckrbkmxaybvgo0j23ho8r6we4
     verified: false
-    hashtags: "#saudiarabia, #riyadhseason, #diriyah, #wednesdayaddams"
-  - username: "bethgracemoore"
+    hashtags: "#zarahaul, #mommytobe, #2022recap, #babyedemonboard"
+  - username: "drkristamarie"
     fullname: >-
-      Beth Moore
+      Kristamarie Collman MD
     bio: >-
-      motherhood | lifestyle | faith | clean beauty 𓊓 wife to @jrrodmoore, mama to vivienne + jude 🤍 ✉: bethgracemoore@gmail.com ⤹ YOUTUBE CHANNEL
+      Wellness • Lifestyle • Beauty • Medicine 👩🏾‍⚕️ Founder @joinprose TheGlowUpDoctor™ 📧 info@drkristamarie.com 📍 Orlando, Fl but I ✈️
     location: "United States"
-    followers: 11744
-    engagement: 747
-    commentsToLikes: -1.974493
-    id: cl7geif3gskhp0i238s2qo2f6
+    followers: 34680
+    engagement: 655
+    commentsToLikes: 0.005760
+    id: ck14jm6uql1qr0i19izl8rfl7
     verified: false
-    hashtags: "#motherhood, #2under2, #newborn, #cakesmash"
+    hashtags: "#motivation, #selflove, #wellness, #bewell"
+  - username: "yenismonterrey"
+    fullname: >-
+      Yenis Emilia Schicht
+    bio: >-
+      𝚨𝐓𝗫| 𝗟𝚨| 𝝢𝐘𝗖 🇺🇸 Writer |Blogger | Actress | Entertainment| Beauty| Fashion | Travel #vipdiscoveries |📲 MULT🗣ENG-ESP-ITA⚠️ 𝘆𝗲𝗻𝐢𝘀𝐚𝘀𝐤@𝗴𝗺𝐚𝐢𝐥.𝗰𝗼𝗺⚠️
+    location: "United States"
+    followers: 31785
+    engagement: 806
+    commentsToLikes: 0.064755
+    id: ckaoxs08fehfh0i78xy0bpjb5
+    verified: false
+    hashtags: "#skincare, #texasinfluencer, #collagen, #vipdiscoveries"
 ---

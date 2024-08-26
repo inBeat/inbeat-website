@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Bogotá In 2023
+title: Top 10 Models TikTok Influencers In Bogotá In 2024
 description: >-
-  Find top models TikTok influencers in Bogotá in 2023. Most popular hashtags: #colombia #viral #bogota #fyp.
+  Find top models TikTok influencers in Bogotá in 2024. Most popular hashtags: #colombia #viral #bogota #fyp.
 platform: TikTok
 hits: 8
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform holds 8 TikTok influencers like this in Bogotá, Colombia for you to pitch.
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 8 TikTok influencers like this in Bogotá, Colombia for you to contact.
 profiles:
   - username: "jonathaa20"
     fullname: >-

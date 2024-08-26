@@ -1,12 +1,60 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Brazil In 2023
+title: Top 10 Gaming Instagram Influencers In Brazil In 2024
 description: >-
-  Find top gaming Instagram influencers in Brazil in 2023. Most popular hashtags: #gaming #playstation5 #playstationcommunity.
+  Find top gaming Instagram influencers in Brazil in 2024. Most popular hashtags: #game #setup #gaming.
 platform: Instagram
-hits: 136
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 136 Instagram influencers like this in Brazil for you to pitch.
+hits: 145
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 145 Instagram influencers like this in Brazil for you to connect with.
 profiles:
+  - username: "gabzuski"
+    fullname: >-
+      Gabriela Zambrozuski
+    bio: >-
+      gaming, arts & beauty 27 anos, SP 🌈 contato@gabzuski.com
+    location: "Brazil"
+    followers: 1044871
+    engagement: 451
+    commentsToLikes: 0.024582
+    id: ck5znxwsdpczi0i146infft1w
+    verified: false
+    hashtags: "#reels, #explore, #jackryan, #publicidade"
+  - username: "cozywithdi"
+    fullname: >-
+      Ingrid
+    bio: >-
+      ☁️ gaming • tech • unboxing 🌙 setup • review • cute things ✉️ DM for collabs
+    location: "Brazil"
+    followers: 2287
+    engagement: 713
+    commentsToLikes: 0.195533
+    id: cloxogq2wzvku0j080ou29pe3
+    verified: false
+    hashtags: "#gamingsetup, #setupinspiration, #setupinspo, #tech"
+  - username: "tiburciocsgo"
+    fullname: >-
+      André 'tiburci0' Rossetto
+    bio: >-
+      Jogador Profissional de CS:GO (IGL/Awper), Streamer na Twitch, YouTuber e Dono da DETONA Gaming Amante de Vôlei 🏐❤️
+    location: "Brazil"
+    followers: 53252
+    engagement: 356
+    commentsToLikes: 0.048608
+    id: ck5q3o1gzlnkf0i11b5ukwoqe
+    verified: false
+    hashtags: "#csgo, #csgobrasil, #iem, #diadefuria"
+  - username: "lipaogamer"
+    fullname: >-
+      Felipe Viktor
+    bio: >-
+      🎮 Embaixador TikTok Gaming 🎬 YouTuber 11 milhões de inscritos 🏠 Curitiba - PR 📩 comercial@agenciacurta.com
+    location: "Brazil"
+    followers: 665603
+    engagement: 180
+    commentsToLikes: 0.010258
+    id: ckf5ld35vp4lp0j230cq0ctmw
+    verified: false
+    hashtags: "#epicpartner, #fortnitexnaruto, #fortnitenarutorivals, #publi"
   - username: "carolzinhasg.pb"
     fullname: >-
       CarolzinhaSG
@@ -31,18 +79,6 @@ profiles:
     id: ck5c7sb5m83hh0i11ih49s60m
     verified: false
     hashtags: "#pub, #adidaszx, #playstation5, #uclfinal"
-  - username: "brunoplayhard"
-    fullname: >-
-      Bruno PH
-    bio: >-
-      🗺 SP 🕹 Gaming 🏙 Trips 🧔🏻 Life. 📊 CEO @loudgg 🏆 Forbes Under 30 Me acompanhe em todos os lugares ⬇️
-    location: "Brazil"
-    followers: 7234783
-    engagement: 346
-    commentsToLikes: 0.023860
-    id: ck0w4ukvx0he50i19kr24levd
-    verified: true
-    hashtags: "#ffxmclaren, #arrai, #semremorso, #publi"
   - username: "maxvianna_"
     fullname: >-
       Max Vianna
@@ -55,18 +91,6 @@ profiles:
     id: ck9wfhjdvoubh0j7867j8k4n3
     verified: false
     hashtags: "#120dias, #youtuber, #youtube, #youtubergamer"
-  - username: "cashmere_tart"
-    fullname: >-
-      Micheline du Toit
-    bio: >-
-      Pro Make-Up Artist & Professional shapeshifter 🦑 Cosplay | Gaming South-Africa🇿🇦 PR/Collabs: Cashmeretart@gmail.com
-    location: "Brazil"
-    followers: 6380
-    engagement: 788
-    commentsToLikes: 0.103169
-    id: ckaordotmmr3u0i78hescnkzt
-    verified: false
-    hashtags: "#ootd, #dccomics, #mua, #makeup"
   - username: "alpha7gg"
     fullname: >-
       A7 Esports PUBGM
@@ -79,42 +103,6 @@ profiles:
     id: ckaowvhupamv50i784jpdyatp
     verified: false
     hashtags: "#goa7, #pubgm, #alpha7gg, #pmgc"
-  - username: "dianazambrozuski"
-    fullname: >-
-      Diana Zambrozuski
-    bio: >-
-      Gamer e Streamer 😎 Lives todos os dias no Facebook Gaming 🎮 Mais Diana no canal do YouTube ⬇️🤙
-    location: "Brazil"
-    followers: 1250474
-    engagement: 409
-    commentsToLikes: 0.007607
-    id: ck137pbc0covo0i19mq0fm8y9
-    verified: false
-    hashtags: "#tbt"
-  - username: "nicolediretora"
-    fullname: >-
-      Nicole Muniz 💙
-    bio: >-
-      🇧🇷 21,São Paulo 🎮 Streamer do Faceboook Gaming & Youtuber 📩contatonicolediretora@gmail.com
-    location: "Brazil"
-    followers: 652961
-    engagement: 432
-    commentsToLikes: 0.006384
-    id: ckapbcfamze7i0i785m33ilnv
-    verified: false
-    hashtags: "#meudigio, #digioboost, #ad"
-  - username: "tiburciocsgo"
-    fullname: >-
-      André 'tiburci0' Rossetto
-    bio: >-
-      Jogador Profissional de CS:GO (IGL/Awper), Streamer na Twitch, YouTuber e Dono da DETONA Gaming
-    location: "Brazil"
-    followers: 67288
-    engagement: 407
-    commentsToLikes: 0.035262
-    id: ck5q3o1gzlnkf0i11b5ukwoqe
-    verified: false
-    hashtags: "#projectwinter, #spraytransferace, #csgo, #cs"
   - username: "nacaopsbrasil"
     fullname: >-
       Nação PlayStation Brasil
@@ -127,4 +115,16 @@ profiles:
     id: ck5q4rztlq22h0i11lt5i9sji
     verified: false
     hashtags: "#gamergirlsofinstagram, #playstation5, #joel, #geek"
+  - username: "lucastv_7"
+    fullname: >-
+      L7   $
+    bio: >-
+      Vendo contas nos story💸 Parceria: @mylla.contas Dono da : @syle.gaming LIVE TODOS OS DIAS 18:00 🔴👇🏻
+    location: "Brazil"
+    followers: 117773
+    engagement: 238
+    commentsToLikes: 0.242827
+    id: ck14laxcjtqg50i193db1bf4u
+    verified: false
+    hashtags: "#garenaoficial, #garenabrasil, #garena, #highlightsfreefire"
 ---

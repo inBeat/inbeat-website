@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bmx TikTok Influencers In Russia In 2023
+title: Top 10 Bmx TikTok Influencers In Russia In 2024
 description: >-
-  Find top bmx TikTok influencers in Russia in 2023. Most popular hashtags: #bmx #bmx2 #bellababyhappy.
+  Find top bmx TikTok influencers in Russia in 2024. Most popular hashtags: #bmx #crazy #bmx2.
 platform: TikTok
 hits: 11
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our platform has 11 TikTok influencers like this in Russia for you to work with.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 11 TikTok influencers like this in Russia for you to work with.
 profiles:
   - username: "moto96bmx"
     fullname: >-

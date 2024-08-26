@@ -1,24 +1,108 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Atlanta In 2023
+title: Top 10 Nutrition Instagram Influencers In Atlanta In 2024
 description: >-
-  Find top nutrition Instagram influencers in Atlanta in 2023. Most popular hashtags: #strongnotskinny #mondaymotivation #intuitiveeating #wholefoods.
+  Find top nutrition Instagram influencers in Atlanta in 2024. Most popular hashtags: #atlanta #health #fitness #fitnessmotivation.
 platform: Instagram
-hits: 21
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 21 Instagram influencers like this in Atlanta, United States for you to collaborate.
+hits: 37
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 37 Instagram influencers like this in Atlanta, United States for you to collaborate.
 profiles:
-  - username: "plantfueledstrength"
+  - username: "chaselifewithkelly"
     fullname: >-
-      Devon Bennett Ⓥ
+      Kelly Chase
     bio: >-
-      🌱 Vegan Fitness and Nutrition 📍 Atlanta, Ga
+      ✨Love Is Blind S1 @netflix 🎤empowering women to step into their power 🎙️ @chaselifewithkellypodcast inquiries: taryn@thehartsocial.com
     location: "United States"
-    followers: 39505
-    engagement: 260
-    commentsToLikes: 0.045566
-    id: ck14klz1nq61h0i19sgxw6lzz
+    followers: 372300
+    engagement: 12
+    commentsToLikes: 0.076593
+    id: ck9wdflc4ffiw0j788n5uda24
+    verified: true
+    hashtags: "#podcasting, #business, #realitytv, #selflove"
+  - username: "ej.webb"
+    fullname: >-
+      EJ Webb CPT,PES
+    bio: >-
+      Sports Performance Fitness
+    location: "United States"
+    followers: 10083
+    engagement: 196
+    commentsToLikes: 0.035513
+    id: cl6k03rjyjc450i23uju9mt7v
     verified: false
-    hashtags: "#plantfueled, #govegan, #plantbaseddiet, #plantbasedathlete"
+    hashtags: "#reels, #mobility, #blessed, #wellness"
+  - username: "elysefergs"
+    fullname: >-
+      Elyse Morrow
+    bio: >-
+      Wellness Preacher 🌱 Holistic Health 🥕 Mindful Living 🧘🏻‍♀️
+    location: "United States"
+    followers: 11328
+    engagement: 181
+    commentsToLikes: 0.034346
+    id: ck0w3kj3ntves0i195jhuz1fs
+    verified: false
+    hashtags: "#spiritual, #consciousparenting, #awakening, #health"
+  - username: "stacieinatlanta"
+    fullname: >-
+      Stacie Haight Connerty
+    bio: >-
+      💃Beauty Fashion & Lifestyle Creator 🎥On-Air Host ✈️Travel Writer 💋Tastemaker ✍️Freelance Journalist 🍑#ATL 🥖Foodie DIY Mom of 3 #AtlantaBlogger
+    location: "United States"
+    followers: 99152
+    engagement: 375
+    commentsToLikes: 0.038333
+    id: ckmw19gps57dc0j23rc0ufz6t
+    verified: false
+    hashtags: "#gifted, #sponsored, #atl, #hosted"
+  - username: "emyager"
+    fullname: >-
+      Emily Yager
+    bio: >-
+      📸Model from LA turned Movement Maker ✊Leader of The Be Ten Times Bolder Movement® 🌱Expert in Fitness, Vegan Nutrition & Creating Insane Transformation
+    location: "United States"
+    followers: 15135
+    engagement: 212
+    commentsToLikes: 0.121259
+    id: ck0u29l3fzbu90i19v9pr51ff
+    verified: false
+    hashtags: "#vegan, #emyager, #doodlesofinstagram, #dogsofinstagram"
+  - username: "denetrabfit"
+    fullname: >-
+      Denetra Monay Blackshear
+    bio: >-
+      ✨ Female Fitness Coach 📍 Atlanta, GA 👸🏾 IFBB Bikini Pro 📸 Published Model 🍎 Nutrition Consultant 👇🏾 FREE E-Books+ Mobile Training App
+    location: "United States"
+    followers: 32762
+    engagement: 122
+    commentsToLikes: 0.096855
+    id: ckniqvrkptmm40j23ntp1ecw8
+    verified: false
+    hashtags: "#fitnessmodel, #fitnessjourney, #strongwoman, #explorepage"
+  - username: "fit4jessie"
+    fullname: >-
+      jessie l atlanta fitness influencer
+    bio: >-
+      I lost some weight and now I help other people do it too ❤️ Nutrition coaching spots are OPEN 👇🏼 💌 fit4jessie@gmail.com for biz ?s
+    location: "United States"
+    followers: 108020
+    engagement: 53
+    commentsToLikes: 0.036368
+    id: cl3xlemlvejfr0i23ckrmvmop
+    verified: false
+    hashtags: "#fatloss, #odaat, #healthyliving, #explorepage"
+  - username: "nutritionbymia"
+    fullname: >-
+      Mia Syn, MS, RDN
+    bio: >-
+      Veggie lover @Columbia @UCBerkeley. Author @penguinrandomhouse. Leading National On-Air Food & Nutrition Expert.
+    location: "United States"
+    followers: 344925
+    engagement: 96
+    commentsToLikes: 0.003315
+    id: ck0tztrh9rlsr0i19hxele793
+    verified: true
+    hashtags: "#sponsored, #nutritionbymia, #ad, #collagen"
   - username: "tammy_bellabae_fitness"
     fullname: >-
       Tammy 🎀🌴👙💪
@@ -43,88 +127,4 @@ profiles:
     id: ckf5q18ki7v3u0j23gfxmrc9y
     verified: false
     hashtags: "#questionoftheday, #laylayslays, #pic, #instamood"
-  - username: "turnipyourlife"
-    fullname: >-
-      Sydney Boyd
-    bio: >-
-      ✨bs in nutrition #rd2be | real food recipes | balanced lifestyle ♡ ⋆ breakfast lover and yogi🧘🏻‍♀️ atlanta📍
-    location: "United States"
-    followers: 12261
-    engagement: 745
-    commentsToLikes: 0.343029
-    id: ck0txokwcjwjs0i19cf049dxg
-    verified: false
-    hashtags: "#iamwellandgood, #healthyfoodie, #feedyoursoul, #easyrecipes"
-  - username: "hellospoonful"
-    fullname: >-
-      Nutritionist | Elizabeth Moye
-    bio: >-
-      👩🏻‍⚕️ nutritionist, wife, mama 💜 approachable, affordable, + healthy eats 🥜 peanut butter obsessed 🍑 Atlanta, GA ✉️ elizabethamoye@gmail.com
-    location: "United States"
-    followers: 42578
-    engagement: 272
-    commentsToLikes: 0.168628
-    id: ck0w2ed0knxpd0i197mhmcc78
-    verified: false
-    hashtags: "#babyzay, #todayfood, #thekitchn, #nomnom"
-  - username: "marisamoore"
-    fullname: >-
-      Marisa Moore, MBA. RDN.
-    bio: >-
-      Registered Dietitian Nutritionist connecting on nutrition, well-being & food. 🥘 First cookbook in progress 🥑Seen on CNN, TODAY, Essence... 📍Atlanta,GA
-    location: "United States"
-    followers: 51476
-    engagement: 179
-    commentsToLikes: 0.125336
-    id: ckf5wkjarsc2z0j23ijkkzj6j
-    verified: false
-    hashtags: "#balancedeating, #healthyeatingideas, #summersalad, #recipeinspo"
-  - username: "the_templebuilder"
-    fullname: >-
-      Julius Miles---TempleBuilder
-    bio: >-
-      🙏🏾HE>family>i 💪🏾Coaching & 🍎Nutrition 🦋Transformation Specialist 🛡Owner @gladiator_fitness_atlanta 💊 @gaspari MILES20 Click to get started 🔽🔽🔽🔽
-    location: "United States"
-    followers: 19288
-    engagement: 169
-    commentsToLikes: 0.088210
-    id: ckap1cqb8u12v0i788bg96jbb
-    verified: false
-    hashtags: "#love, #blacklove, #family, #blessed"
-  - username: "liannagro_ifbbpro"
-    fullname: >-
-      Lianna Groeneveld
-    bio: >-
-      🌐 IFBB FIGURE PRO 🎓 B.S. Exercise Science, NASM CPT/FNS ⚡️ NeuX Specialist @neulevelperformance 💪🏽 Online Nutrition/Training + Posing
-    location: "United States"
-    followers: 7453
-    engagement: 463
-    commentsToLikes: 0.061168
-    id: ck5hh4swg6dx50i114ie4xukl
-    verified: false
-    hashtags: "#smoothnx, #puppy, #dogsofinstagram, #neuxtec"
-  - username: "kiefferallie"
-    fullname: >-
-      Allie Kieffer
-    bio: >-
-      Running & nutrition coach // marathoner @NURVV code: ALLIE30 @InsideTracker code: ALLIEKIEFFER
-    location: "United States"
-    followers: 58799
-    engagement: 568
-    commentsToLikes: 0.022804
-    id: ck55jsbb5xmzu0i11h9ggbyb0
-    verified: false
-    hashtags: "#peachtreeroadrace, #runnersofinstagram, #mondaymotivation, #portlandtrackfestival"
-  - username: "t.rocha16"
-    fullname: >-
-      Tony Rocha
-    bio: >-
-      🙏🏽Follower of Christ ⚽️ Professional Footballer @nycfc #15 ⚽️ Belize National Football Team 🌱Plant Based Athlete 🍎Nutrition Coach @nutritiongols
-    location: "United States"
-    followers: 3074
-    engagement: 870
-    commentsToLikes: 0.037992
-    id: ckf5mo6qfuprm0j23rgam8ha3
-    verified: true
-    hashtags: "#derby, #tr15, #ussoccer, #inspired"
 ---

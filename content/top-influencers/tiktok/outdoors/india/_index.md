@@ -1,11 +1,11 @@
 ---
-title: Top 10 Outdoors TikTok Influencers In India In 2023
+title: Top 10 Outdoors TikTok Influencers In India In 2024
 description: >-
-  Find top outdoors TikTok influencers in India in 2023. Most popular hashtags: #tiktok #handwashchallenge #fun #outdoors.
+  Find top outdoors TikTok influencers in India in 2024. Most popular hashtags: #tiktok #handwashchallenge #outdoors #outdoorshoot.
 platform: TikTok
 hits: 25
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: inBeat holds 25 TikTok influencers like this in India for you to pitch.
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 25 TikTok influencers like this in India for you to collaborate.
 profiles:
   - username: "heyy_its_aryan"
     fullname: >-

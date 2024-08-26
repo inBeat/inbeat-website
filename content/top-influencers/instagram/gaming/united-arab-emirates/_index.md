@@ -1,24 +1,96 @@
 ---
-title: Top 10 Gaming Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Gaming Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top gaming Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #dubailife #gaming #fashion.
+  Find top gaming Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #dubai #gaming #dubailife.
 platform: Instagram
-hits: 8
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 8 Instagram influencers like this in United Arab Emirates for you to work with.
+hits: 10
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 10 Instagram influencers like this in United Arab Emirates for you to pitch.
 profiles:
-  - username: "sammoorai"
+  - username: "shahulart"
     fullname: >-
-      Samar Personal Trainer
+      Shahul Hameed
     bio: >-
-      📍Dubai 🇦🇪 ⁣born &raised Certified PersonalTrainer ⁣ Quit the Corporate world to pursue my passion 🔥
+      "Creating vibrant spaces that inspire." Founder #ShahulArt Gallery 📍Dubai ✉️mail@shahulart.com
     location: "United Arab Emirates"
-    followers: 23176
-    engagement: 374
-    commentsToLikes: 0.066763
-    id: ckap1vj6dwc0t0i784b9zgkrd
+    followers: 260041
+    engagement: 1074
+    commentsToLikes: 0.012491
+    id: ck6uch38kfkiq0j71kf3jcypy
     verified: false
-    hashtags: "#dragon, #dubai, #ksa, #sawwad"
+    hashtags: "#walldecor, #dubaiarchitecture, #graffitidubai, #procreate"
+  - username: "karansingharoraofficial"
+    fullname: >-
+      Karan Singh Arora
+    bio: >-
+      𝗦𝗶𝗻𝗴𝗲𝗿 | 𝗠𝘂𝘀𝗶𝗰 𝗗𝗶𝗿𝗲𝗰𝘁𝗼𝗿 | Entrepreneur | #TravelForLife #Crypto Educator 🌎💰 🇮🇳 🇦🇪 Join My Telegram For Crypto Updates👇
+    location: "United Arab Emirates"
+    followers: 232337
+    engagement: 359
+    commentsToLikes: 0.027334
+    id: ck0vyoh5m50bb0i19uz2f6r7x
+    verified: true
+    hashtags: "#sangeet, #cryptoinfluencer, #wedding, #kawasakininja"
+  - username: "divsglam"
+    fullname: >-
+      Divya
+    bio: >-
+      🇮🇳 living in 🇦🇪 A makeup obsessed girlie 💄eating her way in Dubai 🍜and traveling the world ✈️ Influencer marketer 👩‍💻
+    location: "United Arab Emirates"
+    followers: 8798
+    engagement: 434
+    commentsToLikes: 0.052163
+    id: ck0w5yyqt63wf0i19rvjgig4v
+    verified: false
+    hashtags: "#beach, #adventure, #nepal, #dubaitravel"
+  - username: "nasheet"
+    fullname: >-
+      Ahmed ALNasheet أحمد النشيط
+    bio: >-
+      Bahraini 🇧🇭 content creator based in Dubai 🇦🇪 Video games ( @dvlzgame ), Tech, TV shows, Movies, Food, Music & Travel ✈️ صانع محتوى هدفه اسعادكم 😁
+    location: "United Arab Emirates"
+    followers: 2042554
+    engagement: 220
+    commentsToLikes: 0.012040
+    id: ck0vwbmz5syxi0i190g20osqe
+    verified: true
+    hashtags: "#ad, #honormea, #ootd, #guessthecelebrity"
+  - username: "alfan"
+    fullname: >-
+      Alfan | creators platform
+    bio: >-
+      حوّل شغفك لبزنس🚀 The all in one platform for content creators 🎥 للمزيد من الخدمات لصناع المحتوى والمُعلنين زر الرابط ⬇️
+    location: "United Arab Emirates"
+    followers: 115527
+    engagement: 281
+    commentsToLikes: 0.028759
+    id: ck6tysa8j5k0q0j712lo9qlou
+    verified: false
+    hashtags: "#gaming, #socialmedia, #streaming, #alfangaming"
+  - username: "pashacazan"
+    fullname: >-
+      🎻Violinist in Dubai🎻
+    bio: >-
+      🏆Award-winning violinist 🎶Electric & acoustic violin 🎶Classical/arabic/chill out/pop/house 🔝Concerts/events/weddings/festivals YouTube🎬
+    location: "United Arab Emirates"
+    followers: 27558
+    engagement: 118
+    commentsToLikes: 0.087184
+    id: ck6tygiog3lep0j71jcduavoy
+    verified: false
+    hashtags: "#violinlove, #dubaimusic, #dubainightlife, #dubaieventplanner"
+  - username: "looshiofficial"
+    fullname: >-
+      Alaa ElMubarak || آلاء 🇸🇩📍🇦🇪
+    bio: >-
+      Tv Presenter 👻🫰#looshi_official 🚫 ‎احترم تُحترم اي تعليق سيء
+    location: "United Arab Emirates"
+    followers: 1030921
+    engagement: 44
+    commentsToLikes: 0.023356
+    id: ck5hsc2m0wca30i11qvrczg38
+    verified: true
+    hashtags: "#luxury, #looshi, #sport, #game"
   - username: "9tpd"
     fullname: >-
       صايل | oormy
@@ -55,52 +127,4 @@ profiles:
     id: ck15ste61eqgv0i19f31d8brc
     verified: false
     hashtags: "#motorrad, #motocommunity, #sportbikegallery, #throttlesociety"
-  - username: "sharlenelowe"
-    fullname: >-
-      Dubai | Model | Influencer
-    bio: >-
-      Dubai📍| Sydney 🏡🇦🇺 | The World ✈️🌏 Model | Fashion | Emirates Flight Attendant | Sneakers | Fitness | Travel | Beauty | @wordsbysharlenelowe شارلين
-    location: "United Arab Emirates"
-    followers: 33032
-    engagement: 141
-    commentsToLikes: 0.353317
-    id: ckaos9jllqpx70i78i9nwa5li
-    verified: false
-    hashtags: "#model, #nyc, #view, #apmgirls"
-  - username: "jruzz"
-    fullname: >-
-      Dubai Photos by Jruzz
-    bio: >-
-      Inspiring people through my story and photography #freeyourstory . 📸 Canon R5 ❤️ @canonme @fstopgear @loupedeck ⭐️ Owner @creativecomicuae
-    location: "United Arab Emirates"
-    followers: 9653
-    engagement: 526
-    commentsToLikes: 0.182612
-    id: ck0u29x3hzdei0i197e3szyxz
-    verified: false
-    hashtags: "#discoverdubai, #dubaicity, #dubaiphotographer, #timelapsephotography"
-  - username: "mishramanali"
-    fullname: >-
-      Manali Mishra LICENSED BLOGGER
-    bio: >-
-      Love yourself to love others❤️ #uae #india CB: dm or mtmanalithakur@gmail.com Ft @mbcmagazine @babyshoparabia @zomatouae @firstcryindia
-    location: "United Arab Emirates"
-    followers: 12878
-    engagement: 159
-    commentsToLikes: 0.398870
-    id: ck8t80cvzin270j788ljcyyu0
-    verified: false
-    hashtags: "#foodreview, #reelsinstagram, #fashionreels, #instareels"
-  - username: "alfan"
-    fullname: >-
-      Alfan
-    bio: >-
-      شبكة رقمية اعلامية الرائدة في دعم صناع المحتوى لتطوير توزيع وحفظ حقوق اعمالهم على منصات الرقمية ودعم الشركات للتسويق عبر مؤثرين #ContentCreator
-    location: "United Arab Emirates"
-    followers: 47197
-    engagement: 845
-    commentsToLikes: 0.036886
-    id: ck6tysa8j5k0q0j712lo9qlou
-    verified: false
-    hashtags: "#2020, #influencermarketing, #esports, #anasala"
 ---

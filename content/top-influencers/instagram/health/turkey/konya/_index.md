@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health Instagram Influencers In Konya In 2023
+title: Top 10 Health Instagram Influencers In Konya In 2024
 description: >-
-  Find top health Instagram influencers in Konya in 2023. Most popular hashtags: #sa #instagood #istanbul.
+  Find top health Instagram influencers in Konya in 2024. Most popular hashtags: #istanbul #izmir #instagood #reklam.
 platform: Instagram
-hits: 4
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 4 Instagram influencers like this in Konya, Turkey for you to connect with.
+hits: 5
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 5 Instagram influencers like this in Konya, Turkey for you to pitch.
 profiles:
   - username: "chefgulhankara"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck8t3fim632ap0j78319ognu9
     verified: false
     hashtags: "#sag, #urla, #chefgulhankara, #sa"
+  - username: "sevimligurme"
+    fullname: >-
+      Sevim Tekin Gözaydın
+    bio: >-
+      Seyahat&Yemek🎬 Reklamcı,Yazar,Senarist✍️📙 Tv Programmer 📺Beyaz TV🤩 📍İst.Kültür Üni.Reklam Posta Gaz.Kanaltürk,Kanal D GTD ☀️ #eventorganizer 24 ülke✈️
+    location: "Turkey"
+    followers: 209132
+    engagement: 127
+    commentsToLikes: 0.034099
+    id: ck14khehzpj090i19tduc0bg5
+    verified: false
+    hashtags: "#davet, #italyanca, #greece, #gezi"
   - username: "fatih_asci"
     fullname: >-
       Fatih Aşcı
@@ -55,76 +67,64 @@ profiles:
     id: ck8tdk0qk3mj10j785110cp0z
     verified: false
     hashtags: "#nature, #acil, #surgeon, #me"
+  - username: "doctorhakantufekci"
+    fullname: >-
+      Hakan Tüfekçi
+    bio: >-
+      Inspired from your beauty. International Health Tourism Authorization Certificated Clinic 📲 +905550387869 📍Bursa
+    location: "Turkey"
+    followers: 63167
+    engagement: 339
+    commentsToLikes: 0.030209
+    id: ckap5e1wcb98b0i78r99ato5u
+    verified: false
+    hashtags: "#medikal, #aesthetic, #smile, #fit"
+  - username: "mlkcuvk"
+    fullname: >-
+      Melike Çuvak
+    bio: >-
+      👩‍💻#businessanalyst & #healthcoach & #influencer 👩‍🎓Nutrition & Dietetic MASTER STUDENT 📍istanbul🇹🇷 Birlikte Çalışalım⬇️
+    location: "Turkey"
+    followers: 37731
+    engagement: 259
+    commentsToLikes: 0.025602
+    id: ck14j3zcaiin60i19en7aoaf2
+    verified: false
+    hashtags: "#bug, #iyihisset, #zurich, #lifestyle"
+  - username: "fit_busra"
+    fullname: >-
+      Büşra Önver
+    bio: >-
+      Lifestyle, Travel, Beauty Healthy Eating&Fitness Diary 🌎🛍💄🍏🏃🏼‍♀️ 📩busraonver@diepdigital.com
+    location: "Turkey"
+    followers: 228322
+    engagement: 98
+    commentsToLikes: 0.019313
+    id: ck8tafzvnrlnm0j78jv18up83
+    verified: false
+    hashtags: "#viyana, #bal, #budape, #vienna"
   - username: "elvin"
     fullname: >-
       Elvin Levinler 🌈
     bio: >-
-      ◛ elvin@thedigitalnomads.co ➵ London┆Istanbul┆Datça ♡ motivation • yoga • healthy • food • reels #travel #lifestyle #storyteller #reels ✩ new video
+      Co-founder — @eighth.color ◛ elvin@thedigitalnomads.co ➵ London┆Istanbul┆Datça ♡ self love • yoga • healthy • food #faceyoga #motivation #reels
     location: "Turkey"
-    followers: 1185764
-    engagement: 120
-    commentsToLikes: 0.016211
+    followers: 1279779
+    engagement: 78
+    commentsToLikes: 0.019074
     id: ck15uwgu4ou830i19ej5guzkx
     verified: true
-    hashtags: "#relatable, #yogapractice, #trendingreels, #mymarks"
-  - username: "about_minoo"
+    hashtags: "#elviniminparis, #elviniminmadrid, #elviniminformentera, #paris2024"
+  - username: "hamilelikkocu"
     fullname: >-
-      ▽ 𝓶𝓲𝓷𝓸𝓸 🐋
+      Seyhan Molla
     bio: >-
-      ☞ Founder & C.E.O @venus.health ☻ Positive vibes ☞ Owner of @minoovash_design_studio ♥ I L L U S T R A T O R 📍Türkiye , İstanbul 🇹🇷
+      @altinsatococukuniversitesi Kurucusu health•education Canım Yavrum İyi Ki Doğurmuşum✍🏻Yazarı Acıbadem Üni.YüksekLisans Uzm.Cerrahi Hemşiresi/Ebe👩🏼‍⚕️
     location: "Turkey"
-    followers: 107159
-    engagement: 748
-    commentsToLikes: 0.050714
-    id: ck6u4yqrh6ki40j714o0b6qsq
+    followers: 306146
+    engagement: 71
+    commentsToLikes: 0.113424
+    id: ck5zsafwey4g40i14klrlwk4e
     verified: false
-    hashtags: "#me, #happy, #life, #ben"
-  - username: "aysegul.demirsoy"
-    fullname: >-
-      Aysegul Demirsoy
-    bio: >-
-      ⭐Fitness & healthy life style mentor ⭐Zumba presenter 🌟www.ayseguldemirsoy.com 🌟 info@ayseguldemirsoy.com ⭐ My YouTube 👉@fitness.partnerim
-    location: "Turkey"
-    followers: 159240
-    engagement: 174
-    commentsToLikes: 0.066565
-    id: ck5q297dqevcq0i110yr2n5dm
-    verified: false
-    hashtags: "#ayseguldemirsoy, #zumba, #sa, #omega3"
-  - username: "eceetuncel"
-    fullname: >-
-      Ece Tuncel
-    bio: >-
-      • Fashion & Healthy Lifestyle🥑 📩 hello@ecetuncel.com Son video-Taşınıyoruz, Boş Ev Turu⬇️
-    location: "Turkey"
-    followers: 228409
-    engagement: 431
-    commentsToLikes: 0.019112
-    id: ck5ca19fwcin50i11te28n4nr
-    verified: false
-    hashtags: "#harikakarelerinpe, #today, #sunday, #dysonhair"
-  - username: "agnesahadergjonaj"
-    fullname: >-
-      Agnesa Hadergjonaj
-    bio: >-
-      Beauty/ Fashion /Health profile 🤍 Represented by @discoverurstyle
-    location: "Turkey"
-    followers: 51845
-    engagement: 481
-    commentsToLikes: 0.012450
-    id: ck5q9jhwebf6m0i11r2via3ov
-    verified: true
-    hashtags: ""
-  - username: "aysecakar"
-    fullname: >-
-      Ayşe Çakar
-    bio: >-
-      Beauty•Lifestyle•Health•Vlogger 💌 aysecakar.pr@gmail.com ⏬4 adımda kusursuz cildin sırrı⏬
-    location: "Turkey"
-    followers: 45756
-    engagement: 164
-    commentsToLikes: 0.028465
-    id: ckap3bsep2e7x0i78e8nr1qrl
-    verified: false
-    hashtags: "#sunrise, #yenivideo, #ciltbak, #capetown"
+    hashtags: "#aile, #reklam, #anne, #viador"
 ---

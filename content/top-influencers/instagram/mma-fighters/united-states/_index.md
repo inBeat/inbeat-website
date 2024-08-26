@@ -1,60 +1,120 @@
 ---
-title: Top 10 Mma Fighters Instagram Influencers In United States In 2023
+title: Top 10 Mma Fighters Instagram Influencers In United States In 2024
 description: >-
-  Find top mma fighters Instagram influencers in United States in 2023. Most popular hashtags: #mma #tbt #gunzup.
+  Find top mma fighters Instagram influencers in United States in 2024. Most popular hashtags: #mma #ufc #boxing #fighter.
 platform: Instagram
-hits: 102
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 102 Instagram influencers like this in United States for you to contact.
+hits: 103
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 103 Instagram influencers like this in United States for you to contact.
 profiles:
-  - username: "alyseanderson21"
+  - username: "salu_gbla"
     fullname: >-
-      Alyse Anderson
+      SALU • GBLA, CPT | CSAC
     bio: >-
-      Pro MMA fighter 👊🏼 Motocross #284🤘🏼 @perfectsportstm @sevenmx_
+      @nike Master Trainer Boxing | Sports Performance @jlt_performance MMA Fighter @doyourumble Founding Trainer Owner: SALUTE STRENGTH
     location: "United States"
-    followers: 35429
-    engagement: 766
-    commentsToLikes: 0.037616
-    id: ck9hcy0vtnfky0j78psob87mn
+    followers: 11826
+    engagement: 465
+    commentsToLikes: 0.055511
+    id: cksjxwntkd5lw0j23wbe1bcfa
     verified: false
-    hashtags: "#perfectsports, #yz125, #tbt, #mxgirls"
+    hashtags: "#nike, #boxingfitness, #boxeo, #boxingtraining"
+  - username: "tonydiazcervo"
+    fullname: >-
+      Last Dragon 🐉
+    bio: >-
+      @danielhoffagency 🎬 @omodelsagency LA MMA Fighter / Model / Actor
+    location: "United States"
+    followers: 36829
+    engagement: 742
+    commentsToLikes: 0.038096
+    id: cllxbdd88h2p60j08yfsou6wg
+    verified: false
+    hashtags: "#unf10, #malemodel, #clubunf, #upnext"
+  - username: "amandaleve_mma"
+    fullname: >-
+      Amanda Leve
+    bio: >-
+      📍Philadelphia -East Coast & West Coast ADCC Trials Champ🥇🥇 -Retired MMA fighter @earthfedmuscle ELITE Athlete Promo Code: AmandaLeve
+    location: "United States"
+    followers: 15552
+    engagement: 1021
+    commentsToLikes: 0.038150
+    id: ckvrmvta8e3qf0j23rycdjfik
+    verified: false
+    hashtags: "#profight, #ajj, #professionalfighter, #jiujitsugirls"
   - username: "kennethberghmma"
     fullname: >-
       Kenneth Bergh
     bio: >-
-      Pro LHW MMA Fighter Viasat sports commentator ▪️ @juicery ▪️ @tights.no ▪️ @propudnorge
+      Pro LHW MMA Fighter Viasat sports commentator ▪️ @tights.no ▪️ @propudnorge ▪️ Podcast «Ganske aktuelt»
     location: "United States"
-    followers: 22041
-    engagement: 916
-    commentsToLikes: 0.033641
+    followers: 21433
+    engagement: 473
+    commentsToLikes: 0.019911
     id: ck6u4m9z64j1c0j71h29sz821
     verified: false
-    hashtags: "#ufc, #ufceurope, #yasiland, #abudhabi"
-  - username: "laura_sanko"
+    hashtags: "#superiorchallenge, #mma"
+  - username: "mitchmckeemma"
     fullname: >-
-      Laura Sanko
+      Mitchell McKee
     bio: >-
-      📺UFC on ESPN & DWCS Reporter 🎙LFA & Invicta FC Commentator 🇺🇸Former Pro MMA Fighter 🌱DirectHemp.com code FANCY 👇🏼
+      @gopherwrestling All-American〽️ Pro MMA Fighter 4-0 @killcliff_fc 📍 @kylee_mckee_
     location: "United States"
-    followers: 168954
-    engagement: 454
-    commentsToLikes: 0.035382
-    id: ck6tt37q58cb70j71950pw833
-    verified: true
-    hashtags: "#cheetah, #cheetahs, #ufc257, #ad"
-  - username: "christianeckerlin"
+    followers: 10027
+    engagement: 749
+    commentsToLikes: 0.012452
+    id: ckap865l0mztk0i78k1ggvt6p
+    verified: false
+    hashtags: "#collagenprotein, #ufc, #mealboosters, #mma"
+  - username: "killerbeemma"
     fullname: >-
-      Christian Eckerlin
+      Bi Nguyen
     bio: >-
-      🇩🇪 Professionell MMA Fighter
+      Combat sports manager. Retired MMA fighter. OneFC Current Pro Boxer. Misfitsboxing
     location: "United States"
-    followers: 52556
-    engagement: 753
-    commentsToLikes: 0.018536
-    id: ck55o3wdj7kzc0i11r5rxs6f8
+    followers: 219101
+    engagement: 338
+    commentsToLikes: 0.024619
+    id: ck5q8lf2e6rgo0i11dxc50zso
     verified: true
-    hashtags: "#ksw, #together, #mmaspirit, #saltbae"
+    hashtags: "#dentist, #invisalign, #tomballtx, #implants"
+  - username: "karlos_terminator_vemola"
+    fullname: >-
+      Karlos "Terminator" Vemola
+    bio: >-
+      MMA FIGHTER 🏆 @oktagonmma champion 🥊 UFC veteran 🏆WASO champion🏆GCF champion 🏆MMAA champion🏆CFC champion @karlos_terminator_vemola_shop
+    location: "United States"
+    followers: 366306
+    engagement: 279
+    commentsToLikes: 0.014281
+    id: ck5bzpva3rmbz0i11or3hfp2s
+    verified: true
+    hashtags: "#lvizerouprvni, #terminator, #vemola, #vemolice"
+  - username: "adrianyanez93"
+    fullname: >-
+      Adrian Yañez
+    bio: >-
+      Professional MMA fighter signed by the @ufc Management Team: @iridiumsportsagency Team @cricketwireless 🇲🇽🇺🇸
+    location: "United States"
+    followers: 87923
+    engagement: 233
+    commentsToLikes: 0.028876
+    id: cl00uqqw05vhw0i23wadt5xt8
+    verified: false
+    hashtags: "#motivated, #teamyanez, #millions, #ufc"
+  - username: "rustam.serbiev"
+    fullname: >-
+      Rustam Serbiev
+    bio: >-
+      Professional MMA Fighter Team @americankickboxingacademy Partnership contact serbievmanagement@gmail.com
+    location: "United States"
+    followers: 471699
+    engagement: 17
+    commentsToLikes: 0.006691
+    id: ck5cgxes9ppz50i11ecd6dduh
+    verified: false
+    hashtags: "#fighter, #wrestling, #athlete, #alhamdulillah"
   - username: "jayhieron"
     fullname: >-
       JAYHIERON
@@ -67,64 +127,4 @@ profiles:
     id: ck15pwtxh013c0i19aku2957z
     verified: true
     hashtags: "#canecorso, #makingmovies, #wolf, #305"
-  - username: "liampitts03"
-    fullname: >-
-      Liam Pitts
-    bio: >-
-      MMA Fighter and Tv-personality
-    location: "United States"
-    followers: 110402
-    engagement: 1270
-    commentsToLikes: 0.008440
-    id: ck5c9118sakoa0i11ai2n7bli
-    verified: true
-    hashtags: "#teamtigerbalsam, #blackouttuesday, #debut, #debut2021"
-  - username: "killerbeemma"
-    fullname: >-
-      Pro MMA fighter “Killer Bee”
-    bio: >-
-      Professional MMA fighter @onechampionship . @survivorcbs player season 37. 📬 6440 Westpark dr Houston 77057 #F008
-    location: "United States"
-    followers: 161163
-    engagement: 524
-    commentsToLikes: 0.015545
-    id: ck5q8lf2e6rgo0i11dxc50zso
-    verified: true
-    hashtags: "#strongisbeautiful, #muaythaiday"
-  - username: "denicezamboanga"
-    fullname: >-
-      DENICE MMA
-    bio: >-
-      🇵🇭 mma fighter @onechampionship ⚡️ @marrokforcemma sponsored by @singhacorporationofficial | @carabaodang 💌 denicemma@gmail.com
-    location: "United States"
-    followers: 20907
-    engagement: 624
-    commentsToLikes: 0.034033
-    id: ckf5pkz426fd20j23shaqr2wb
-    verified: false
-    hashtags: "#marrokforcemma, #fitness, #marrokforce, #casetifysea"
-  - username: "kyle_stewart0331"
-    fullname: >-
-      Kyle Stewart
-    bio: >-
-      MARINE COMBAT VET 🇺🇸🇦🇫 Pro mma fighter 13-4 @themmalab Management @koreps
-    location: "United States"
-    followers: 11136
-    engagement: 851
-    commentsToLikes: 0.037315
-    id: ck5zk915tj1t10i146msuyppt
-    verified: true
-    hashtags: "#bringtheviolence, #gunzup, #teamstewart, #offwithhishead"
-  - username: "carlaesparza1"
-    fullname: >-
-      Carla
-    bio: >-
-      👊🏽 MMA fighter 🍪Cookie Monster 🏆1st ever UFC 115lbs Champ 🌟1st ever InvictaFC 115lb Champ 🏅TUF#20 Winner ✊🏼#TEAMOYAMA 💥#WRESTLER
-    location: "United States"
-    followers: 160232
-    engagement: 200
-    commentsToLikes: 0.024940
-    id: ck5ck01zivufk0i11iha54bfu
-    verified: true
-    hashtags: "#privatecruise, #wmma, #ruins, #mariesharps"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Austin In 2023
+title: Top 10 Fitness TikTok Influencers In Austin In 2024
 description: >-
-  Find top fitness TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #fitness #workout #foryou.
+  Find top fitness TikTok influencers in Austin in 2024. Most popular hashtags: #fyp #fitness #workout #foryou.
 platform: TikTok
-hits: 79
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 79 TikTok influencers like this in Austin, United States for you to work with.
+hits: 82
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 82 TikTok influencers like this in Austin, United States for you to pitch.
 profiles:
   - username: "austinpratt_fitness"
     fullname: >-
@@ -55,6 +55,18 @@ profiles:
     id: cka0hc8568o5r0i780n85oio6
     verified: false
     hashtags: "#aerialist, #plussizedancer, #curvy, #fitness"
+  - username: "lucasmccutchen"
+    fullname: >-
+      lucasmccutchen
+    bio: >-
+      Sketch comedy with some haha and a few hehe pls follow Actor in Austin
+    location: "United States"
+    followers: 54000
+    engagement: 1835
+    commentsToLikes: 0.028568
+    id: ckauxt1j9390e0j235cr82c71
+    verified: false
+    hashtags: "#news, #comedy, #pov, #sketch"
   - username: "jesse_moat"
     fullname: >-
       Jesse James
@@ -66,19 +78,19 @@ profiles:
     commentsToLikes: 0.022153
     id: ck80ofdlvhida0j78l66i5sov
     verified: false
-    hashtags: "#fyp, #bahamas, #fy, #skateboarding"
+    hashtags: "#skateboarding, #bahamas, #swim, #exumabahamas"
   - username: "bigfukit"
     fullname: >-
       Austin
     bio: >-
       Traveling welder Most important people call me daddy 🥺😍 Snap- austin_mayhem23
     location: "United States"
-    followers: 10400
-    engagement: 1388
-    commentsToLikes: 0.033873
+    followers: 14700
+    engagement: 1692
+    commentsToLikes: 0.044651
     id: ckbasqexajc5f0j23z6og6mcn
     verified: false
-    hashtags: "#isthisavailable, #mystyle, #dayinmylife, #homemade"
+    hashtags: "#airpodsjump, #struggle, #glowup, #gymrat"
   - username: "austineguia"
     fullname: >-
       Austin Eguia
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.019164
     id: ckcozpzreakyg0j23uhmjyncn
     verified: false
-    hashtags: "#fittips, #greenscreen, #greenscreensticker, #stitch"
-  - username: "juliandaigre"
-    fullname: >-
-      Julian Daigre
-    bio: >-
-      Fitness | Flips | Fun IG: @juliandaigre
-    location: "United States"
-    followers: 203700
-    engagement: 602
-    commentsToLikes: 0.007118
-    id: ckdnjfmiviroo0j236l0r4kn6
-    verified: true
-    hashtags: "#foryou, #viral, #workout, #handstand"
+    hashtags: "#fittips, #greenscreensticker, #greenscreen, #greenscreenvideo"
 ---

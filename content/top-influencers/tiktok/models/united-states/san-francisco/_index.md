@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In San Francisco In 2023
+title: Top 10 Models TikTok Influencers In San Francisco In 2024
 description: >-
-  Find top models TikTok influencers in San Francisco in 2023. Most popular hashtags: #foryou #foryoupage #fyp #viral.
+  Find top models TikTok influencers in San Francisco in 2024. Most popular hashtags: #fyp #foryou #foryoupage #viral.
 platform: TikTok
-hits: 7
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database has 7 TikTok influencers like this in San Francisco, United States for you to pitch.
+hits: 6
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 6 TikTok influencers like this in San Francisco, United States for you to contact.
 profiles:
   - username: "eddiegangland"
     fullname: >-
@@ -30,19 +30,7 @@ profiles:
     commentsToLikes: 0.012993
     id: ckb9kziupda1c0j23nhx9ptux
     verified: false
-    hashtags: "#mclaren, #foryou, #lamborghini, #cars"
-  - username: "fionaparks"
-    fullname: >-
-      fiona 
-    bio: >-
-      I spend all my money on clothes and my horse
-    location: "United States"
-    followers: 3368
-    engagement: 1780
-    commentsToLikes: 0.029179
-    id: cka9m2sel3kw30i782qf6sg7q
-    verified: false
-    hashtags: "#equestrian, #horsegirl, #bayarea, #greenscreen"
+    hashtags: "#luxury, #viral, #goviral, #beverlyhills"
   - username: "melikins.x"
     fullname: >-
       Melissa Estrada
@@ -66,7 +54,7 @@ profiles:
     commentsToLikes: 0.011310
     id: ck7zo7n0zikh70j7843v581vp
     verified: false
-    hashtags: "#fashion, #foryou, #aesthetics, #grwm"
+    hashtags: "#aesthetic, #xyzbca, #summer, #indie"
   - username: "alianzaefectiva"
     fullname: >-
       alianzaefectiva
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.011754
     id: ck8tkunwm9ajh0j78auwuv588
     verified: false
-    hashtags: "#relax, #latino, #camera, #oakland"
+    hashtags: "#music, #corridos, #guitar, #alianzaefectiva"
   - username: "beautyqueenk408"
     fullname: >-
       Queenk408
@@ -115,16 +103,28 @@ profiles:
     id: ckc8znaabopaf0j23vk9o3mcw
     verified: false
     hashtags: "#foryoupage, #foryou, #teamromeo09, #tiktokindia"
-  - username: "imjustabunchofbees"
+  - username: "sheltercatmell"
     fullname: >-
-      Bee
+      Michelle Pierce
     bio: >-
-      Hi I’m bee They/them Disabled model or at least trying to be
+      Nonbionary💜💛, Full Time Parent, Makeup Artist 🎨, Musician🎶 and Model!
     location: "United States"
-    followers: 21900
-    engagement: 2038
-    commentsToLikes: 0.101153
-    id: ckcvj1azgwc6e0j233csr6ykz
+    followers: 67300
+    engagement: 1983
+    commentsToLikes: 0.115869
+    id: ckavo28jhyo4z0j23p7jrv1g7
     verified: false
-    hashtags: "#stitch, #foryou, #foryoupage, #digitalart"
+    hashtags: "#fyp, #duet, #elderemo, #makeup"
+  - username: "vittoriald"
+    fullname: >-
+      vittoriald
+    bio: >-
+      Christian✝️ Conservative🇺🇸 Entrepreneur💰 Model💁‍♀️
+    location: "United States"
+    followers: 14400
+    engagement: 1870
+    commentsToLikes: 0.082399
+    id: ckacvl92poalu0i782j8o6f1e
+    verified: false
+    hashtags: "#usa, #trumptrain, #government, #republican"
 ---

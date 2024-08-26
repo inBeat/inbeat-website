@@ -1,12 +1,72 @@
 ---
-title: Top 10 Crafts And Diy Instagram Influencers In United States In 2023
+title: Top 10 Crafts And Diy Instagram Influencers In United States In 2024
 description: >-
-  Find top crafts and diy Instagram influencers in United States in 2023. Most popular hashtags: #diy #crafts #craft.
+  Find top crafts and diy Instagram influencers in United States in 2024. Most popular hashtags: #ad #momlife #easterdiy #giftideas.
 platform: Instagram
-hits: 35
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 35 Instagram influencers like this in United States for you to contact.
+hits: 41
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 41 Instagram influencers like this in United States for you to pitch.
 profiles:
+  - username: "amandaescoe"
+    fullname: >-
+      Amanda Escoe
+    bio: >-
+      Crafty mom to Raine & Rosalie Featured in Better Homes & Gardens & Holiday crafts 🧡 Artist/crafts/DIY/miniatures ✉️ raineandrosieco@gmail.com
+    location: "United States"
+    followers: 80227
+    engagement: 1248
+    commentsToLikes: 0.101193
+    id: cl0driqysh25k0i23lggo37bk
+    verified: false
+    hashtags: "#cutehomedecor, #heartcake, #clayarts, #eastercrafts"
+  - username: "greeneclecticmama"
+    fullname: >-
+      Alicia- Family Lifestyle
+    bio: >-
+      @adage 2x🥇Winner-Sharing my favorites & ways to live an Eco-Friendly Life since 2016💚Kids Activities, Easy Crafts, DIY’s, Pets. Former Teacher⬇️email
+    location: "United States"
+    followers: 319451
+    engagement: 633
+    commentsToLikes: 0.013472
+    id: ck5hp63vaqtft0i11hjbpghoa
+    verified: false
+    hashtags: "#craftsforkids, #activitiesforkids, #toyreviewer, #toyreview"
+  - username: "making.marinos"
+    fullname: >-
+      Viviana- DIY Crafter & Content Creator
+    bio: >-
+      Crafts | DIY | Finds | Holidays | Treats NYer, Army wife & Latina girl mama x 3 Viviana@makingmarinos.com Click to shop my favorites and my blog ⬇️
+    location: "United States"
+    followers: 19799
+    engagement: 130
+    commentsToLikes: 0.310296
+    id: ckmw1hr5987qu0j233yruypwg
+    verified: false
+    hashtags: "#backtoschoolshopping, #backtoschool, #backtoschooloutfit, #homegoodsfinds"
+  - username: "craftingwithcatherine"
+    fullname: >-
+      Catherine
+    bio: >-
+      Crafts | DIY's | Holidays 🎥 Reels every Monday, Tuesday, Thursday, Friday & Sunday 💌 craftingwithcatherine@hotmail.com ⬇️ Links & other social pages
+    location: "United States"
+    followers: 132840
+    engagement: 114
+    commentsToLikes: 0.007543
+    id: ck5hpv6xps0ru0i11xyvof84r
+    verified: false
+    hashtags: "#diygift, #cottagegardens, #christmashacks, #christmasbaking"
+  - username: "thehedgehoghollow"
+    fullname: >-
+      Alexandra
+    bio: >-
+      A Brit crafting her US life. 🦔 Influencer, writer, entrepreneur, crafts & DIY expert! 🦔 #diy #craft #lifestyle www.thehedgehoghollow.com
+    location: "United States"
+    followers: 20401
+    engagement: 62
+    commentsToLikes: 0.132636
+    id: ck0ue24kckc7e0i19kjgcrlu4
+    verified: false
+    hashtags: "#slc, #inkblending, #cardmaking, #sparkles"
   - username: "snapsbylynn"
     fullname: >-
       Lynn // mom + lifestyle
@@ -18,19 +78,7 @@ profiles:
     commentsToLikes: 0.174037
     id: ck13d2jqy3ci20i190hsqtlii
     verified: false
-    hashtags: "#pinterestmom, #ad, #makersgonnamake, #craftymama"
-  - username: "fallfordiy"
-    fullname: >-
-      Fall For DIY - Francesca Stone
-    bio: >-
-      DIY YOUR DECOR - can’t buy it? DIY it! Decorating our Birmingham home with crafts & DIY! UK Interior Pinner Winner 2017 Check out my book! 👇
-    location: "United States"
-    followers: 38457
-    engagement: 298
-    commentsToLikes: 0.045915
-    id: ck5zuke3d2j290i14t06mfywg
-    verified: false
-    hashtags: "#diyhomedecor, #diylovers, #slowdiy, #radiator"
+    hashtags: "#ad, #craftymom, #diymama, #pinterestmom"
   - username: "chelle_kelemen"
     fullname: >-
       Michelle Kelemen | Motherhood
@@ -42,19 +90,7 @@ profiles:
     commentsToLikes: 0.192803
     id: ck0w3uo5qvdc50i19lbfcvcck
     verified: false
-    hashtags: "#candyheart, #happybirthdaybabyboy, #lovedisney, #tipsforig"
-  - username: "thehedgehoghollow"
-    fullname: >-
-      Alexandra
-    bio: >-
-      A British wife crafting her US life. 🦔 Influencer, writer, entrepreneur, crafts & DIY expert! 🦔 #diy #craft #lifestyle www.thehedgehoghollow.com
-    location: "United States"
-    followers: 21402
-    engagement: 113
-    commentsToLikes: 0.200169
-    id: ck0ue24kckc7e0i19kjgcrlu4
-    verified: false
-    hashtags: "#craft, #covidkindness, #cricutcreated, #crafts"
+    hashtags: "#readwithkids, #heartsweets, #sharkweek2021, #toddlerdiy"
   - username: "the_souter_life"
     fullname: >-
       
@@ -79,52 +115,16 @@ profiles:
     id: ck0w3j1p2to0i0i19bdujq2cf
     verified: false
     hashtags: "#toysofinstagram, #toycaboodle, #dolls, #coolstuff"
-  - username: "fromscratchwithmaria"
+  - username: "allstylelife"
     fullname: >-
-      Maria Provenzano, DIY Expert
+      Charlene Wong
     bio: >-
-      ✨Host + Founder of From Scratch⁣ ✂️Lifestyle + DIY Expert on Hallmark’s @homeandfamilytv 🧡Lover of all things creative⁣⁣ 👇🏻SPARK CREATIVITY HERE!
+      Lifestyle • Decor • DIY • Outfits Romanticizing life in Toronto 🇨🇦 Creator + Social Media Manager TikTok 53K @allstylelife
     location: "United States"
-    followers: 25485
-    engagement: 282
-    commentsToLikes: 0.059232
-    id: ck55p716z9y6e0i1134tigrt0
+    followers: 31554
+    engagement: 857
+    commentsToLikes: 0.000197
+    id: ckx4eeiro06lw0j23gf0ffo6v
     verified: false
-    hashtags: "#craft, #diy, #fromscratchwithmaria, #summer"
-  - username: "trytrytrydiy"
-    fullname: >-
-      Laura
-    bio: >-
-      Bloggerin & Content Creator Berlin & Hamburg | #diy & #rezepte 🎥 YouTube: TRYTRYTRY ✈️: @tryandtravelblog 🎙: @craftcast.podcast
-    location: "United States"
-    followers: 44547
-    engagement: 151
-    commentsToLikes: 0.095645
-    id: ck0ud73e5igxw0i19ap8plngf
-    verified: false
-    hashtags: "#kreativblogger, #lifehacks, #craftshow, #lifehack"
-  - username: "totallyrudy"
-    fullname: >-
-      Totally Rudy
-    bio: >-
-      💜PURPLE IS LIFE 💜Reese’s for breakfast crafter ✂️ vlogger 📸 mom 💁🏻‍♀️ collabs👉🏼totallyrudychannel@gmail.com Creator of AmericanGirlIdeas.com
-    location: "United States"
-    followers: 27278
-    engagement: 143
-    commentsToLikes: 0.031140
-    id: ck6u50tva6xiv0j71x0dvgk72
-    verified: false
-    hashtags: "#agig, #dollstagram, #piggy, #justcraftit"
-  - username: "diyglaze"
-    fullname: >-
-      DIYs, Crafts & Food
-    bio: >-
-      👉 Turn on post notifications...!! 🖌️ Daily diy, crafts, lifehacks, food and more. Hottest App in the App store right now 👇
-    location: "United States"
-    followers: 786706
-    engagement: 115
-    commentsToLikes: 0.008466
-    id: ckaoxx81lf5600i78d29lg1uo
-    verified: false
-    hashtags: ""
+    hashtags: "#halloween2023, #christmasdiy, #galentinesday, #easterdiy"
 ---

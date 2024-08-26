@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Canada In 2023
+title: Top 10 Photographers TikTok Influencers In Canada In 2024
 description: >-
-  Find top photographers TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryoupage #photographer #canada.
+  Find top photographers TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #foryoupage #canada #photographer.
 platform: TikTok
 hits: 93
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our platform has 93 TikTok influencers like this in Canada for you to contact.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 93 TikTok influencers like this in Canada for you to work with.
 profiles:
   - username: "praveensapkota"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.067906
     id: ck81qa9x4h6aj0j78xdh42wdm
     verified: false
-    hashtags: "#peaceful, #chickadee, #slowmotion, #birds"
+    hashtags: "#slowmo, #chickadee, #peaceful, #birds"
   - username: "lourdeslasala"
     fullname: >-
       lourdes📸
@@ -61,24 +61,24 @@ profiles:
     bio: >-
       Singer/songwriter/comedian/podcaster/multi-hyphenate/photographer/plant-guy/etc.
     location: "Canada"
-    followers: 2453
-    engagement: 913
-    commentsToLikes: 0.116482
+    followers: 2443
+    engagement: 892
+    commentsToLikes: 0.067135
     id: ckbqq63saay2x0j23ue0gqjoa
     verified: false
-    hashtags: "#chipmunks, #keepingitcute, #chipmunk, #fyp"
+    hashtags: "#keepingitcute, #chipmunk, #xyzbca, #fyp"
   - username: "bethanyditecco"
     fullname: >-
       Bethany DiTecco
     bio: >-
       Canadian 🇨🇦 | Photographer 📷 | Artist 🎨 www.bethanyditecco.com
     location: "Canada"
-    followers: 9726
-    engagement: 1459
-    commentsToLikes: 0.041476
+    followers: 9631
+    engagement: 1438
+    commentsToLikes: 0.040980
     id: ckbf94u4fzz870j23g0tg1wyo
     verified: false
-    hashtags: "#xyzbca, #artist, #canada, #foryoupage"
+    hashtags: "#pencilart, #realism, #pencildrawing, #art"
   - username: "argenel"
     fullname: >-
       Argen Elezi
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.062883
     id: cka0ml3zrvo8f0i78nsxqfof8
     verified: false
-    hashtags: "#photography101, #toronto, #fyp, #travelbucketlist"
+    hashtags: "#nature, #photography, #fyp, #niagarafalls"
   - username: "gralynj.photography"
     fullname: >-
       Gralyn J. Boyd
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.034487
     id: ck976v7m91ez60j78tnoq5xli
     verified: false
-    hashtags: "#love, #rancher, #farm, #cute"
+    hashtags: "#photo, #happy, #professional, #family"
   - username: "kenny_hagen"
     fullname: >-
       Ken Hagen
@@ -121,10 +121,10 @@ profiles:
     bio: >-
       🎥 Videographer 🇨🇦 📸 Photographer Final Photos on my IG: @Kyle.Lexter
     location: "Canada"
-    followers: 8671
-    engagement: 968
-    commentsToLikes: 0.052719
+    followers: 9532
+    engagement: 1028
+    commentsToLikes: 0.065198
     id: ckbex4nfoh9ju0j23osjmb3a7
     verified: false
-    hashtags: "#productphotography, #ghostphotoshoot, #photographytips, #foryou"
+    hashtags: "#learnphotography, #photographytips, #halloween, #ghostchallenge"
 ---

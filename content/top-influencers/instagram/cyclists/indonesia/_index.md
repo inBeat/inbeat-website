@@ -1,36 +1,24 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Indonesia In 2023
+title: Top 10 Cyclists Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top cyclists Instagram influencers in Indonesia in 2023. Most popular hashtags: #cyclist #cyclinglife #cycling #gowes.
+  Find top cyclists Instagram influencers in Indonesia in 2024. Most popular hashtags: #cyclist #cycling #cyclinglife #sepeda.
 platform: Instagram
-hits: 23
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 23 Instagram influencers like this in Indonesia for you to contact.
+hits: 25
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 25 Instagram influencers like this in Indonesia for you to work with.
 profiles:
-  - username: "dhina__ayu"
+  - username: "rubendonny"
     fullname: >-
-      Andhina Ayuningtyas
+      𝐑𝐮𝐛𝐞𝐧 𝐃𝐨𝐧𝐧𝐲
     bio: >-
-      Hi I’m Dhina 🙋🏼‍♀️ Pilot 👩🏻‍✈️ | Cyclist 🚴🏼‍♀️ |🐱|🏃🏼‍♀️| 👩🏻‍🍳| Brand Ambassador @oakley @patrolmountainbikes @3tbike @garminid @usanaindonesia • •
+      A Pandemic Cyclist @shimanocvrindonesia @nomadgarage.id @rodalinkindonesia //H O S T//c: rubendonny.mc@gmail.com
     location: "Indonesia"
-    followers: 71160
-    engagement: 396
-    commentsToLikes: 0.025263
-    id: ck14jwkrwmjxi0i19bbyglvo3
+    followers: 17598
+    engagement: 81
+    commentsToLikes: 0.022707
+    id: ck15s17fsaq360i19on5o6ggj
     verified: false
-    hashtags: "#godisgood, #shecanfund, #gowes, #lifeisgood"
-  - username: "mluthfiakbr"
-    fullname: >-
-      L.A
-    bio: >-
-      Cyclist based in Indonesia @manchesterunited
-    location: "Indonesia"
-    followers: 8948
-    engagement: 1233
-    commentsToLikes: 0.084592
-    id: ck9wgww0yvcc00j78rwxucjiq
-    verified: false
-    hashtags: "#following, #hits, #followersinstagram, #follow4like"
+    hashtags: "#lazersportsea, #roadbike, #sepeda, #ruanggurusemester2"
   - username: "suhadazainal"
     fullname: >-
       A.P.E.N.G  ✨🐼
@@ -71,14 +59,14 @@ profiles:
     fullname: >-
       Novita Lestari
     bio: >-
-      Swim Bike Run 🏊‍♀️🚴‍♀️🏃‍♀️ Paid influencer @nopit.kitchen IPO business advisor Triathlete Ironman 140.6, cyclist Audax 300K, marathoner
+      Swim Bike Run 🏊‍♀️🚴‍♀️🏃‍♀️ (INFJ) Triathlete IM140.6, runner 100k BA: @4Life 🇺🇸 @4life_indonesia 🇮🇩 BA: @focusbikes_id BA: @gustoindonesia
     location: "Indonesia"
-    followers: 25905
-    engagement: 257
-    commentsToLikes: 0.020396
+    followers: 37686
+    engagement: 62
+    commentsToLikes: 0.022923
     id: ckf5wadaare6e0j237n5m66xs
     verified: false
-    hashtags: "#focusizalcomax, #gowes, #hidupinianugerah, #womencycling"
+    hashtags: "#100percentsunglasses, #tourdeborobudur, #triathlete, #cycling"
   - username: "f.anggraini1312"
     fullname: >-
       Fitri💃
@@ -103,18 +91,6 @@ profiles:
     id: ck134gbrdw9ur0i19mv2fqz09
     verified: false
     hashtags: "#cyclinglife, #cyclingtips, #cyclist, #youtube"
-  - username: "chaidirakbar"
-    fullname: >-
-      Chaidir | Sports Life
-    bio: >-
-      💠 Training & Racing Inspiration 💠 Project 2:59 Marathon 💠 Project 100x Triathlon 💠 Cycling for life 💠 Let’s Collab 🤙
-    location: "Indonesia"
-    followers: 18820
-    engagement: 318
-    commentsToLikes: 0.042799
-    id: ck5q87wml4v050i11fumfjqpi
-    verified: false
-    hashtags: "#cyclinglife, #timetofly, #betterwithbikes, #cyclist"
   - username: "yugianii"
     fullname: >-
       Yugiani Purnamasari
@@ -127,4 +103,28 @@ profiles:
     id: ck8t4s7p67tov0j781v2w59xc
     verified: false
     hashtags: "#cyclingtips, #pacificbike, #bikeride, #dropbar"
+  - username: "info.sepeda"
+    fullname: >-
+      Media Pecinta Sepeda
+    bio: >-
+      🚲 Kebahagiaan Seseorang, Tanggung Jawab Pribadi Masing-Masing. ⁣ MARI GOWES 🥳 🥳 ⁣ 🌏 BDG - IDN
+    location: "Indonesia"
+    followers: 45966
+    engagement: 133
+    commentsToLikes: 0.014378
+    id: ckaozwg8znpk90i78ugpopo0h
+    verified: false
+    hashtags: "#mtbworld, #wolrdmtb, #bikelife, #gowes"
+  - username: "brl.lin"
+    fullname: >-
+      Brilliant Lin
+    bio: >-
+      Slow Fashion Enthusiast You can’t buy ‘style’ Fuse of #ruggedcasualstyle
+    location: "Indonesia"
+    followers: 7459
+    engagement: 595
+    commentsToLikes: 0.050632
+    id: ck8tcz9jk19an0j78seikgen8
+    verified: false
+    hashtags: "#llbean, #dadstyle, #vintagemilitary, #newbalanceshoes"
 ---

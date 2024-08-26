@@ -1,12 +1,60 @@
 ---
-title: Top 10 Djs Instagram Influencers In India In 2023
+title: Top 10 Djs Instagram Influencers In India In 2024
 description: >-
-  Find top djs Instagram influencers in India in 2023. Most popular hashtags: #dj #djlife #reels #music.
+  Find top djs Instagram influencers in India in 2024. Most popular hashtags: #djlife #india #dj.
 platform: Instagram
-hits: 83
+hits: 114
 text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 83 Instagram influencers like this in India for you to collaborate.
+text_bottom: Our search engine has 114 Instagram influencers like this in India for you to work with.
 profiles:
+  - username: "kawalofficial"
+    fullname: >-
+      DJ Kawal
+    bio: >-
+      Weaving musical tapestries / Curating sonic journeys. Awarded India’s Top 10 Djs delhiitesmagazine 2022-23 Bookings : +919577645000 hello@djkawal.com
+    location: "India"
+    followers: 126231
+    engagement: 310
+    commentsToLikes: 0.005150
+    id: ck5hkryhmiyfa0i11dvsbsg3z
+    verified: true
+    hashtags: "#nightlife, #reelsinstagram, #newyearseve, #prismhyderabad"
+  - username: "djsimz.x"
+    fullname: >-
+      DJ Simz
+    bio: >-
+      DJ 🇬🇧>🌍 | Podcast @culturepodcast 🎙️ TikTok: 300k+ [djsimz.x] All Enquiries: DJSimzManagement@gmail.com
+    location: "India"
+    followers: 152336
+    engagement: 107
+    commentsToLikes: 0.024782
+    id: ckxv7u14dd51c0j23il38p6ev
+    verified: false
+    hashtags: ""
+  - username: "djolaras"
+    fullname: >-
+      DJ OLA RAS
+    bio: >-
+      🖤Dj/saxophonist🎷 🖤TOP 50 world female djs🎷 🖤For booking contact: +380 63 889 2296 Ira iryna@columbusartist.com
+    location: "India"
+    followers: 64610
+    engagement: 52
+    commentsToLikes: 0.032156
+    id: ck6uezeditxm60j71tfwbk5kj
+    verified: false
+    hashtags: "#sunburn, #olaras, #djsax, #sax"
+  - username: "theglamupstudio"
+    fullname: >-
+      Mozma Muneer
+    bio: >-
+      Internationally Certified MUA || Airbrush Expert Co:@glamupbeautysalon.tly @theglamupsquad Groom Stylist @djsagy.official Travel Globally 🌍(Kannur📍)
+    location: "India"
+    followers: 135396
+    engagement: 121
+    commentsToLikes: 0.013887
+    id: ck14i42iidjgp0i19xmqfgcmb
+    verified: false
+    hashtags: "#jewelry, #glammed, #outfit, #accessories"
   - username: "djbandcamp"
     fullname: >-
       DJ Bandcamp
@@ -43,6 +91,18 @@ profiles:
     id: ck5cfjk7ln36m0i11p8tg10r6
     verified: false
     hashtags: "#electro, #technoparty, #dancemusic, #festival"
+  - username: "djshadowdubai"
+    fullname: >-
+      DJ Shadow Dubai
+    bio: >-
+      📌Master of Global Collabs 📌Produced 🔽 @jasonderulo @richforever @lilpump @yoyohoneysingh @pitbull @duttypaul @gururandhawa @badboyshah @iambohemia
+    location: "India"
+    followers: 478450
+    engagement: 106
+    commentsToLikes: 0.021679
+    id: ck5hcadpxh0cd0i11kc3r4k2b
+    verified: true
+    hashtags: "#djshadowdubai, #podcast, #wtfih, #srkfanclub"
   - username: "djs_viewfinder"
     fullname: >-
       © Debajyoti Biswas Photography
@@ -55,76 +115,16 @@ profiles:
     id: ck14j6ot6iui40i19y7p74lau
     verified: false
     hashtags: ""
-  - username: "shivamanvi"
+  - username: "rohitgida"
     fullname: >-
-      SHIVA MANVI 🍕
+      Rohit Gida
     bio: >-
-      I push buttons and turn knobs for a living. 🎛 Talent Managed by @sunburnfestival | @percept_emc #shivamanvi
+      Alias: @almosthumanofc CEO: @hightidefestival_india
     location: "India"
-    followers: 49645
-    engagement: 1464
-    commentsToLikes: 0.007030
-    id: ck5bwo0ixm2i20i11jje7e04r
+    followers: 33280
+    engagement: 711
+    commentsToLikes: 0.037130
+    id: ck55oerpk87pt0i11vit2f0oa
     verified: false
-    hashtags: "#dj, #shivamanvi, #reels, #sunburn"
-  - username: "abhishek_56"
-    fullname: >-
-      𝐀𝐛𝐡𝐢𝐬𝐡𝐞𝐤 𝐖𝐚𝐠𝐡𝐜𝐡𝐚𝐮𝐫𝐞 ⚡️
-    bio: >-
-      Walk in like you own the place ! 🌈 💼 Influencer / YouTuber 🎈 🐆 Content Creator / असली बनो 🦁 📩 Mail For Collaboration 📥 Abhi.waghchaure12@gmail.com
-    location: "India"
-    followers: 96704
-    engagement: 2359
-    commentsToLikes: 0.009933
-    id: ck8wekp2ve77n0j780z6s6qe5
-    verified: false
-    hashtags: "#reels, #marathisong, #prankinpublic, #mimarathi"
-  - username: "djyesgb"
-    fullname: >-
-      DJ Sagar YesGB
-    bio: >-
-      DJ & Music Producer
-    location: "India"
-    followers: 8946
-    engagement: 2802
-    commentsToLikes: 0.018754
-    id: ck14j8n5nj3pl0i19f2u4b6jz
-    verified: false
-    hashtags: "#yesgb, #yash, #rockybhai, #india"
-  - username: "martindsouzaofficial"
-    fullname: >-
-      𝗠𝗮𝗿𝘁𝗶𝗻 𝗗𝘀𝗼𝘂𝘇𝗮
-    bio: >-
-      Disc Jockey. Karaoke Jockey. Actor. Model. Traveller. Writer. Likes Photography and Singing as well. Quit a "regular" job to do what I love doing :)
-    location: "India"
-    followers: 10982
-    engagement: 365
-    commentsToLikes: 0.049319
-    id: ck0w2bg69niol0i19itm1m8rc
-    verified: true
-    hashtags: "#website, #actors, #saturdaynight, #oldskool"
-  - username: "branded_sound_systems"
-    fullname: >-
-      BRANDED SOUND OF PUNE
-    bio: >-
-      NO.1 PAGE FOR SOUND & LIGHTS VIDEOS 🔉ONLY FOR SOUND LOVERS🔉 ♥️एकदा FOLLOW तर करून बागा नक्की आवडेल♥️ ➡️DAILY UPDATES⬅️
-    location: "India"
-    followers: 7304
-    engagement: 1065
-    commentsToLikes: 0.007318
-    id: ckf5u188tjahb0j2371vjlim8
-    verified: false
-    hashtags: "#punesound, #vishrantwadi, #srssound, #puneganpati"
-  - username: "edm_for_lifetime"
-    fullname: >-
-      Edm For Lifetime™
-    bio: >-
-      🏅Your best source for EDM 👑 📲 DM for paid promotion & Business 💸 📸 Content belongs to respective owners© PEACE ☮ LOVE 🖤 UNITY ♻ RESPECT 💯
-    location: "India"
-    followers: 78613
-    engagement: 169
-    commentsToLikes: 0.017102
-    id: ck13cxvgu2pay0i19r5asoym5
-    verified: false
-    hashtags: "#edmlifestyle, #bigroom, #electronicdancemusic, #owsla"
+    hashtags: "#djing, #deephouse, #producers, #club"
 ---

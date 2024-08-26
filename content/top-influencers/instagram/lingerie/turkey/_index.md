@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Turkey In 2023
+title: Top 10 Lingerie Instagram Influencers In Turkey In 2024
 description: >-
-  Find top lingerie Instagram influencers in Turkey in 2023. Most popular hashtags: #makeup #lingerie #instagood.
+  Find top lingerie Instagram influencers in Turkey in 2024. Most popular hashtags: #makeup #lifestyle #model #lingerie.
 platform: Instagram
-hits: 9
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 9 Instagram influencers like this in Turkey for you to pitch.
+hits: 10
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 10 Instagram influencers like this in Turkey for you to pitch.
 profiles:
   - username: "tiktok.online_tr"
     fullname: >-
@@ -31,18 +31,18 @@ profiles:
     id: ck6uhjt9m9j470j71ym12j4b7
     verified: false
     hashtags: "#suicidegirls, #lingerie, #belarus, #tattooedgirls"
-  - username: "oksanakuznetsovaofficial"
+  - username: "aureliegomes"
     fullname: >-
-      Oksana Kuznetsova
+      AURELIE GOMES DE OLIVEIRA
     bio: >-
-      ♉️ 19 May 🎂 OKS'MODEL @oksmodelagency @oksmodelacademy 📩oksmodel.booker@gmail.com
+      🇨🇵 𝙋𝘼𝙍𝙄𝙎, 𝙈𝙊𝘿𝙀𝙇𝙀 ◾𝙃𝙤𝙩𝙚𝙡𝙨 𝙖𝙣𝙙 𝙍𝙚𝙨𝙤𝙧𝙩𝙨 ◾𝙇𝙪𝙭𝙪𝙧𝙮 𝙘𝙤𝙣𝙩𝙚𝙣𝙩 𝙘𝙧𝙚𝙖𝙩𝙤𝙧 ★ @n.a.prod @aureliegomesbackup @aurelielifestylefamily
     location: "Turkey"
-    followers: 24324
-    engagement: 209
-    commentsToLikes: 0.263397
-    id: ck14jmcypl2oi0i19sc5l35q7
+    followers: 135783
+    engagement: 297
+    commentsToLikes: 0.028938
+    id: ck6u8otf5stlg0j71l2i8dgxm
     verified: false
-    hashtags: "#ilovemyself, #sexytattoos, #isl, #choreographers"
+    hashtags: "#cappadocia, #picture, #outfit, #expression"
   - username: "vlknbrt"
     fullname: >-
       ᴠᴏʟᴋᴀɴ ʙᴀʀᴜᴛ | 𝚙𝚑𝚘𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢
@@ -67,6 +67,18 @@ profiles:
     id: ck6u8g1hardrn0j71y7gxtvn2
     verified: false
     hashtags: "#repost, #tahsinery, #styling, #makyaj"
+  - username: "esralineblog"
+    fullname: >-
+      🌸 Influencer
+    bio: >-
+      Beauty | Fashion | Home Consept 🏡 Reklam, Tanıtım , İşbirlikleri için Dm 📩
+    location: "Turkey"
+    followers: 141957
+    engagement: 55
+    commentsToLikes: 0.020160
+    id: ckap9ok1jt04n0i781pwhd2lm
+    verified: false
+    hashtags: "#a101aktu, #watsons, #evdekorasyonu, #has"
   - username: "beniremsahin"
     fullname: >-
       İrem Şahin
@@ -97,12 +109,12 @@ profiles:
     bio: >-
       📍İstanbul John Cranko /Stuttgart - Hacettepe Ünv. Ankara Devlet Konservatuarı /Bale
     location: "Turkey"
-    followers: 30449
-    engagement: 231
-    commentsToLikes: 0.030398
+    followers: 30302
+    engagement: 246
+    commentsToLikes: 0.032384
     id: ck6u8g7t7rett0j717f2uuo6g
     verified: false
-    hashtags: "#underwaterphotography, #underwater, #underwaterworld, #fly"
+    hashtags: "#dance, #underwater, #underwearmodel, #underwaterworld"
   - username: "seldasariyaprak"
     fullname: >-
       SeldaSarıyaprak

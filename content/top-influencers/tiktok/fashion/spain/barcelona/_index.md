@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Barcelona In 2023
+title: Top 10 Fashion TikTok Influencers In Barcelona In 2024
 description: >-
-  Find top fashion TikTok influencers in Barcelona in 2023. Most popular hashtags: #fashion #fyp #foryou #barcelona.
+  Find top fashion TikTok influencers in Barcelona in 2024. Most popular hashtags: #fyp #fashion #foryou #barcelona.
 platform: TikTok
 hits: 6
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 6 TikTok influencers like this in Barcelona, Spain for you to work with.
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine has 6 TikTok influencers like this in Barcelona, Spain for you to pitch.
 profiles:
   - username: "ssharankyna"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.042937
     id: ck90267agc6lk0j784gec8o5n
     verified: false
-    hashtags: "#barcelona, #fyp, #pregnant, #embarazo"
+    hashtags: "#fyp, #pregnancyannouncement, #cuarentena, #foryourpage"
   - username: "venusbcn"
     fullname: >-
       Venus BCN 

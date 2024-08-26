@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Seoul In 2023
+title: Top 10 Beauty TikTok Influencers In Seoul In 2024
 description: >-
-  Find top beauty TikTok influencers in Seoul in 2023. Most popular hashtags: #fyp #beauty #foryou #korea.
+  Find top beauty TikTok influencers in Seoul in 2024. Most popular hashtags: #foryou #fyp #beauty #korea.
 platform: TikTok
 hits: 4
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 4 TikTok influencers like this in Seoul, South Korea for you to contact.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 4 TikTok influencers like this in Seoul, South Korea for you to collaborate.
 profiles:
   - username: "minton_harin"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.017845
     id: ckb9qgaxgm9680j23bazbl0u1
     verified: false
-    hashtags: "#seoul, #germany, #kpop, #seoulkorea"
+    hashtags: "#koreanfashion, #seoullife, #spring, #koreaseoul"
   - username: "fazzytravel.bn"
     fullname: >-
       F a z z y t r a v e l
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.017845
     id: ckb9qgaxgm9680j23bazbl0u1
     verified: false
-    hashtags: "#seoul, #germany, #kpop, #seoulkorea"
+    hashtags: "#koreanfashion, #seoullife, #spring, #koreaseoul"
   - username: "ara_spring"
     fullname: >-
       Ara_spring

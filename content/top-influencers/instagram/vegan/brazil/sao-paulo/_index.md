@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Sao Paulo In 2023
+title: Top 10 Vegan Instagram Influencers In Sao Paulo In 2024
 description: >-
-  Find top vegan Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #vegan #saopaulo #vegano #beauty.
+  Find top vegan Instagram influencers in Sao Paulo in 2024. Most popular hashtags: #vegan #saopaulo #beauty #govegan.
 platform: Instagram
-hits: 20
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 20 Instagram influencers like this in Sao Paulo, Brazil for you to connect with.
+hits: 22
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 22 Instagram influencers like this in Sao Paulo, Brazil for you to connect with.
 profiles:
   - username: "umbigosemfundo"
     fullname: >-
@@ -43,6 +43,18 @@ profiles:
     id: ck138x3itig5m0i19nytdhrhd
     verified: false
     hashtags: "#sp, #rappi, #dentrodarota, #queijo"
+  - username: "luadovalle"
+    fullname: >-
+      Luã do Valle
+    bio: >-
+      • Ator | Modelo 🎭 • ADM/MKT | ESPM • T|kT0k (140k+) • Eterno aprendiz • São Paulo📍 • Canal no YouTube LV ®
+    location: "Brazil"
+    followers: 58559
+    engagement: 107
+    commentsToLikes: 0.062884
+    id: ck9hbzoxvj4q80j78tf8br63q
+    verified: false
+    hashtags: "#moda, #portrait, #modeling, #instagram"
   - username: "gihgavazzi"
     fullname: >-
       Gih • Moda • Beleza • Viagem
@@ -67,18 +79,6 @@ profiles:
     id: ck0vyv3r35x4b0i190f4394io
     verified: false
     hashtags: "#woman, #digitalart, #pintura, #tela"
-  - username: "rotaveg"
-    fullname: >-
-      RotaVEG | Victor
-    bio: >-
-      O RotaVEG é onde compartilho minhas veganices por aí! 🌱 (São Paulo/SP) 🧘‍♂️ Yoga on-line comigo de terças e quintas, às 19h pelo Zoom. Manda direct!
-    location: "Brazil"
-    followers: 61666
-    engagement: 222
-    commentsToLikes: 0.072458
-    id: ck602bgiqh2li0i14kbsilqek
-    verified: false
-    hashtags: "#rotaveg, #chocolife, #germinouoficial, #vegan"
   - username: "caa_almeida"
     fullname: >-
       Carla Almeida
@@ -115,16 +115,16 @@ profiles:
     id: ck14ltx93wgtd0i19fml7dhhg
     verified: false
     hashtags: "#bufoborealis, #vinylcollection, #pupilashorizontais, #zenyattarecords"
-  - username: "patsyzurita"
+  - username: "rotaveg"
     fullname: >-
-      Patsy Zurita
+      Victor Sanches
     bio: >-
-      Vida saudável, nutrição, atleta 📩 assessoria@patsyzurita.com •Embaixadora @mahaubr -PATSY15OFF •@n1rider__ @bridaequestrianwear •@pushmatcha
+      O RotaVEG é onde compartilho minhas veganices por aí! 🌱 📦 ROTAVEG BOX: box mensal surpresa de produtos veganos 🤝 Parcerias: rotaveg@gmail.com
     location: "Brazil"
-    followers: 19425
-    engagement: 347
-    commentsToLikes: 0.037114
-    id: ck8tckj2bzpzm0j78hirwp4zf
+    followers: 81611
+    engagement: 584
+    commentsToLikes: 0.078482
+    id: ck602bgiqh2li0i14kbsilqek
     verified: false
-    hashtags: "#love, #amor, #felicidade, #respeito"
+    hashtags: "#pizzavegana, #vegan, #sejavegano, #vegano"
 ---

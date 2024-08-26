@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers TikTok Influencers In 2023
+title: Top 10 Rappers TikTok Influencers In 2024
 description: >-
-  Find top rappers TikTok influencers in 2023. Most popular hashtags: #duet #rap #fyp.
+  Find top rappers TikTok influencers in 2024. Most popular hashtags: #duet #fyp #rapper.
 platform: TikTok
-hits: 1010
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 1010 TikTok influencers like this for you to work with.
+hits: 1008
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 1008 TikTok influencers like this for you to pitch.
 profiles:
   - username: "youngmercfire"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.032166
     id: ck9kb9w0okaxm0j78rigij2f1
     verified: true
-    hashtags: "#wholesomecontent, #originalmusic, #rapper, #sillysongs"
+    hashtags: "#originalmusic, #wholesomecontent, #rapper, #sillysongs"
   - username: "kiwifro0ot"
     fullname: >-
       keke
@@ -115,16 +115,16 @@ profiles:
     id: ck9jy0ewv30rc0j78fr4ycghq
     verified: false
     hashtags: "#beyondhymn, #amen, #christianrap, #godbless"
-  - username: "kalikoop"
+  - username: "stylitherapper"
     fullname: >-
-      SlyKooper
+      Styli
     bio: >-
-      Love Yourself, then Me❤️ Rapper/Skater/Entrepreneur🏆 46K in the KooperGang🖤
-    location: "United States"
-    followers: 46200
-    engagement: 2204
-    commentsToLikes: 0.142190
-    id: ckcvjpvesx7ha0j23x5jehapl
+      Rapper Name - Styli 🔥Cover Of Vogue (Official Music Video)🔥 [link below]
+    location: "United Kingdom"
+    followers: 124800
+    engagement: 2009
+    commentsToLikes: 0.103125
+    id: ckcp23eyzbgsh0j23izyyg8ym
     verified: false
-    hashtags: "#foryou, #fyp, #skateboarding, #duet"
+    hashtags: "#hiphop, #newmusic, #rapper, #fyp"
 ---

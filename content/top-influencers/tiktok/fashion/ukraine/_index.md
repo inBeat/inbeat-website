@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Ukraine In 2023
+title: Top 10 Fashion TikTok Influencers In Ukraine In 2024
 description: >-
-  Find top fashion TikTok influencers in Ukraine in 2023. Most popular hashtags: #fashion #girls #summer #girl.
+  Find top fashion TikTok influencers in Ukraine in 2024. Most popular hashtags: #fashion #girls #photooftheday #girl.
 platform: TikTok
 hits: 14
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat holds 14 TikTok influencers like this in Ukraine for you to pitch.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 14 TikTok influencers like this in Ukraine for you to contact.
 profiles:
   - username: "mykyta11"
     fullname: >-

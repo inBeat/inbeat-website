@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In India In 2023
+title: Top 10 Skincare Instagram Influencers In India In 2024
 description: >-
-  Find top skincare Instagram influencers in India in 2023. Most popular hashtags: #trending #skincare #reelitfeelit #makeup.
+  Find top skincare Instagram influencers in India in 2024. Most popular hashtags: #skincare #trending #haircare #trendingreels.
 platform: Instagram
-hits: 695
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database has 695 Instagram influencers like this in India for you to collaborate.
+hits: 1089
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 1089 Instagram influencers like this in India for you to collaborate.
 profiles:
-  - username: "gorakhpurjunction"
-    fullname: >-
-      Gorakhpur Junction
-    bio: >-
-      #GorakhpurJunction °•Lifestyle|°•Skincare|•°Foodie| °•Makeup 💕 •°GKP| °•Delhi💕 •°Always ready for 🍕🍔 •°Doggo 🐾💕 DM for #collabs & #promotions
-    location: "India"
-    followers: 20370
-    engagement: 498
-    commentsToLikes: 0.081963
-    id: ckf5trcpiijjs0j235ve3km4i
-    verified: false
-    hashtags: "#gorakhpur, #reelsinstagram, #explorepage, #ad"
-  - username: "nikitasoni_13"
-    fullname: >-
-      NIKITA
-    bio: >-
-      All things fashion, beauty and skincare ✨ •Femina Miss India Rajasthan 2018 👑 •Miss Indore 2017👸 @anniki_official 🛍
-    location: "India"
-    followers: 27343
-    engagement: 157
-    commentsToLikes: 0.063925
-    id: ck602npu8i6f80i14iwuxiiqk
-    verified: false
-    hashtags: "#lazymakeup, #explore, #natural, #rokafied"
-  - username: "aavrani"
-    fullname: >-
-      AAVRANI 💙
-    bio: >-
-      Skincare inspired by Indian beauty secrets REIMAGINING AYURVEDIC BEAUTY ancient rituals • modern science 🌱 As seen in @vogue @nytimes @glamourmag @wwd
-    location: "India"
-    followers: 43456
-    engagement: 42
-    commentsToLikes: 0.044172
-    id: ckrd0zks5crf10j23jwg34gli
-    verified: false
-    hashtags: "#holisticbeauty, #mondayblues, #psa, #desiinfluencer"
   - username: "kareena2227_"
     fullname: >-
-      Kareena | Beauty Influencer🖤
+      Kareena Tekwani | Beauty Influencer💜
     bio: >-
-      📍Jaipur | 20 ⭐Fashion | Makeup | Skincare 📩For Paid Collaborations - DM/Email 💌kareenatekwani123@gmail.com
+      📍Jaipur | 23 ⭐Makeup | Skincare | Fashion 👇🏻Youtube (300k+ fam) 📩 Email for Collaborations 💌 kareenatekwani123@gmail.com
     location: "India"
-    followers: 36779
-    engagement: 993
-    commentsToLikes: 0.127590
+    followers: 219221
+    engagement: 835
+    commentsToLikes: 0.109646
     id: ck8t2bcztytym0j7819d32s0f
     verified: false
-    hashtags: "#influencers, #skincareroutine, #indianblogger, #bloggerlife"
+    hashtags: "#hairgrowth, #weddingmakeup, #shaadiwaliinspirations, #healthyhair"
+  - username: "ruopfu_whiso"
+    fullname: >-
+      𝑅𝓊𝑜𝓅𝒻𝓊𝓏𝒽𝒶𝓃𝑜 𝓌𝒽𝒾𝓈𝑜
+    bio: >-
+      ⚜️Miss Universe India 2024 Finalist ⚜️ @missuniverseindiaorg @glamanandsupermodelindia 🎀I make Skincare and Lifestyle Content 🎀
+    location: "India"
+    followers: 138235
+    engagement: 679
+    commentsToLikes: 0.006107
+    id: ck15tuy5nk14m0i1919106u4r
+    verified: false
+    hashtags: "#oldagehome, #darkcirclesundereyes, #mysunsilkshine, #indiansummer"
+  - username: "saba__jafryy"
+    fullname: >-
+      SABA JAFRI
+    bio: >-
+      🇮🇳 Modest Fashion, Lifestyle, Skincare, Beauty. My bro @jafryeats Lucknow 📍 PR/Business - Sabajafrii@icloud.com 📩
+    location: "India"
+    followers: 145821
+    engagement: 965
+    commentsToLikes: 0.079117
+    id: ck8sxntc3i0ow0j78oildhig3
+    verified: false
+    hashtags: "#explore, #hijab, #outfitstyle, #viralreels"
+  - username: "poojamittal09"
+    fullname: >-
+      Pooja Mittal
+    bio: >-
+      Featured Forbes Top 100 Visual Story Teller |Terrible Speller Fashion | Makeup | Skincare | OOTD | Lifestyle poojamittal988@gmail.com
+    location: "India"
+    followers: 342649
+    engagement: 637
+    commentsToLikes: 0.011969
+    id: ckto9u7hjemoo0j23qprf4p45
+    verified: false
+    hashtags: "#ad, #skincare, #haircare, #findyourownbeauty"
   - username: "blogs_amna"
     fullname: >-
       Dr.Amna Nasir
     bio: >-
-      In a constant state of wanderlust ✈️ 😜 📍Karachi ⭐️skinfluencer #blogsamna_skincare ⭐️Dentist 🎂28Jan ⭐️𝗗𝗠 for PR/collab 8k on YouTube👇🏻
+      Alhamdulillah for everything 💖 Mom of 2👶🏻 SkincarePosts #blogsamna_skincare 🦷👩🏻‍⚕️ 📍Karachi ⭐️𝗗𝗠 for business queries YouTube👇🏻
     location: "India"
-    followers: 85262
-    engagement: 1131
-    commentsToLikes: 0.045151
+    followers: 111794
+    engagement: 874
+    commentsToLikes: 0.044639
     id: ckaou5aejyv0d0i7812fauxi2
     verified: false
-    hashtags: "#lightroompk, #kalabagh, #bloggersofpakistan, #karachi"
-  - username: "zainabshahwarkhan"
+    hashtags: "#pakistanicouple, #classypeepsofpakistan, #kpk, #mashaallah"
+  - username: "moniicadsouza_"
     fullname: >-
-      Zainab.S
+      Monica D'souza 🧿
     bio: >-
-      .Experimenting Fashion 🦋 .I also talk about makeup, skincare and food🦄 .For collaboration;DM or Email! .Lahore, Pakistan🇵🇰 @zainabshahwarkhanpriv
+      Skincare . Beauty . Lifestyle . Fashion Apple of my eye @the.muffinboy 🐾 Because only change is constant🌤
     location: "India"
-    followers: 36379
-    engagement: 700
-    commentsToLikes: 0.092003
-    id: ckaotqq15x2m80i78lvze51gu
+    followers: 91934
+    engagement: 794
+    commentsToLikes: 0.015927
+    id: ckap4h0xt7c2q0i78trcl3o3w
     verified: false
-    hashtags: "#viralgirl, #easternoutfit, #zainabshahwarkhan, #riseofcovid"
-  - username: "rimjhimn"
+    hashtags: "#explore, #explorepage, #food, #ad"
+  - username: "nikitasoni_13"
     fullname: >-
-      Rimjhim Nautiyal 🌸| Chandigarh
+      Nikita Soni Gerani
     bio: >-
-      Fashion | Beauty | Art✨ Skincare enthusiast and product reviews💗 Art Page @_how_art_you_ 🎨🖌️ DM for collaborations 💌
+      👸🏻Femina Miss India Rajasthan 2018 🛍️ Fashion & beauty addict 📌 Curating Pinterest-worthy looks 💖 Relatable makeup /skincare tutorials
     location: "India"
-    followers: 8360
-    engagement: 780
-    commentsToLikes: 0.080837
-    id: ck6uevg2qtazh0j710d8zq5ej
+    followers: 20349
+    engagement: 654
+    commentsToLikes: 0.043523
+    id: ck602npu8i6f80i14iwuxiiqk
     verified: false
-    hashtags: "#sodelhi, #potraitshoot, #skincareroutine, #delhibloggers"
-  - username: "sneha.gopalan.makeup"
+    hashtags: "#couplegoals, #explore, #diy, #nikitasoni"
+  - username: "reneethereborn"
     fullname: >-
-      Sneha Gopalan l Makeup Artist
+      Deepali Dhabu 🧿
     bio: >-
-      ➳ Makeup + Skincare ➳ Faculty, Symbiosis Institute of Design ➳ Appointments & Business: DM/Mail 📨
+      Designer|Fashion|Lifestyle|Beauty|Skincare|Travel NIFT 🏠Mumbai/Delhi For collaborations 📧 reneethereborn@gmail.com
     location: "India"
-    followers: 29811
-    engagement: 134
-    commentsToLikes: 0.137251
-    id: ck8t3kcvm3jgr0j78o2cpls56
+    followers: 104530
+    engagement: 366
+    commentsToLikes: 0.047289
+    id: ckto9uekmeu3k0j23dixv3gvl
     verified: false
-    hashtags: "#makeuplooks, #couplegoals, #travellingcouple, #lifeofamakeupartist"
-  - username: "makeupbyvanshikaa"
+    hashtags: "#travelblogger, #travelgram, #reneethereborn, #haircare"
+  - username: "nabeehafakih"
     fullname: >-
-      Vanshika | Makeup & Skincare
+      Nabeeha Fakih
     bio: >-
-      The freckles beauty🧚‍♀️ •self taught makeup|skincare| mental health ✨doing what makes me happy 📍 Chandigarh 📧 for collaboration
+      Modest fashion inspo | Real beauty & skincare tips | Mom life & Self-Love ✨| Join the #beesquad 🐝 Building: @shopnoore
     location: "India"
-    followers: 5127
-    engagement: 785
-    commentsToLikes: 0.153233
-    id: ck9worwhm6chk0j78nqy3cf6o
+    followers: 61252
+    engagement: 342
+    commentsToLikes: 0.017106
+    id: ck13aykahstfd0i19227d73xa
     verified: false
-    hashtags: "#chandigarh, #pinterestaesthetic, #affordablemakeup, #transitionvideo"
-  - username: "mariaa.sarfraz"
+    hashtags: "#babyledweaning, #venicci, #babyfood, #ad"
+  - username: "deeghose"
     fullname: >-
-      Maria sarfraz
+      dee
     bio: >-
-      Lahore,Pakistan 🇵🇰 Fashion|Food|Lifestyle|Skincare|Reviews 🌸 Ambassador of @babeup.pk For Pr/Collaboration➡️Dm
+      fashion•dance•skincare•beauty•lifestyle•travel 📍BOM & BLR 🚩 #theRCBgirl
     location: "India"
-    followers: 36216
-    engagement: 272
-    commentsToLikes: 0.016235
-    id: ck9wgx8f9vdpl0j78m25u1inv
-    verified: false
-    hashtags: "#planetanytime, #alwaysazad, #natural, #begentle"
+    followers: 383076
+    engagement: 329
+    commentsToLikes: 0.018630
+    id: ck15ryxbjaec10i197sdv0fof
+    verified: true
+    hashtags: "#thercbgirl, #deetails, #ootdee, #style"
 ---

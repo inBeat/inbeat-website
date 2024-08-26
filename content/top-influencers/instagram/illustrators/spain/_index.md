@@ -1,130 +1,130 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Spain In 2023
+title: Top 10 Illustrators Instagram Influencers In Spain In 2024
 description: >-
-  Find top illustrators Instagram influencers in Spain in 2023. Most popular hashtags: #illustration #art #digitalart #sketch.
+  Find top illustrators Instagram influencers in Spain in 2024. Most popular hashtags: #illustration #ilustracion #digitalart #procreate.
 platform: Instagram
-hits: 124
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 124 Instagram influencers like this in Spain for you to work with.
+hits: 131
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database has 131 Instagram influencers like this in Spain for you to pitch.
 profiles:
+  - username: "guillerancel"
+    fullname: >-
+      Guille Rancel
+    bio: >-
+      ● Illustrator ● Character designer ● Tenerife 🌵
+    location: "Spain"
+    followers: 88390
+    engagement: 423
+    commentsToLikes: 0.007930
+    id: ck13bzpcoxxro0i192z3jdk68
+    verified: false
+    hashtags: "#characterdesign, #illustration, #clipstudiopaint, #charactersketch"
+  - username: "amaliaandrade_"
+    fullname: >-
+      Amalia Andrade Arango
+    bio: >-
+      Writer-illustrator// Bilingual posts // 417 📸 @youtubeismyartschool management@amaliaandrade.com
+    location: "Spain"
+    followers: 359892
+    engagement: 422
+    commentsToLikes: 0.006716
+    id: ck0w6rawa9x960i197ieuyub7
+    verified: true
+    hashtags: "#freebritney, #amorextra, #patrocinado, #nosecomomostrardondemeduele"
+  - username: "befernandezart"
+    fullname: >-
+      BE FERNANDEZ | Blanca
+    bio: >-
+      🌈Creative being 🖌Neopop illustrator from Madrid 💕Colorful vibes 💌 info@befernandez.com
+    location: "Spain"
+    followers: 155486
+    engagement: 406
+    commentsToLikes: 0.016606
+    id: cl3cuhhb34x7y0i23fol3idzo
+    verified: false
+    hashtags: "#ilustracion, #urbanart, #80s, #finearts"
+  - username: "chezalbi"
+    fullname: >-
+      Hello! I’m Chezalbi
+    bio: >-
+      Alba Spanish illustrator based in Granada | cute things and beauty in the ordinary 🌱 My commissions are open ! 🌷 artofchezalbi@gmail.com
+    location: "Spain"
+    followers: 33512
+    engagement: 442
+    commentsToLikes: 0.009562
+    id: cl51wcd1u0f6v0i23m0jj01kg
+    verified: false
+    hashtags: "#cozyvibes, #doodlingart, #roadtrip, #myartstyle"
+  - username: "alinailustra"
+    fullname: >-
+      ✨Carolina✨
+    bio: >-
+      👩‍🎨| Illustrator 🗣️| ESP🇨🇴 - ENG 🇺🇸 💌 • alinailustra@gmail.com ✍️| doméstika teacher 🖍• @ilustropik
+    location: "Spain"
+    followers: 33093
+    engagement: 289
+    commentsToLikes: 0.036019
+    id: ckaovgmu84jvi0i78jm5rokdh
+    verified: false
+    hashtags: "#easypainting, #acuarela, #ilustracionconacuarela, #illustration"
+  - username: "belenapar"
+    fullname: >-
+      Belén Aparicio
+    bio: >-
+      🔸Graphic Designer, Illustrator, Creative 🔸Photography/Travel/Lifestyle 🔸My art account @belenaparte 📍Madrileña en Madrid ✈️ + de 30 países
+    location: "Spain"
+    followers: 16901
+    engagement: 251
+    commentsToLikes: 0.108613
+    id: ck14grpdg6ot40i19ygsoaeuq
+    verified: false
+    hashtags: "#madridspain, #dametraveler, #ociomadrid, #veranoconfidential"
+  - username: "nataliabosques_"
+    fullname: >-
+      Pintura e ilustración Natalia Bosques
+    bio: >-
+      · Painter · Illustrator · "Érase una mujer con la cabeza llena de libros..." · Proyectos, encargos y colaboraciones ✒️ 📩nataliabosquesart@gmail.com
+    location: "Spain"
+    followers: 9678
+    engagement: 227
+    commentsToLikes: 0.055949
+    id: ck8takbo7s4o90j78o3iplyc0
+    verified: false
+    hashtags: "#pintando, #leoautoras, #reflexion, #ilustradorasespa"
+  - username: "yantrart_design"
+    fullname: >-
+      YANTRART
+    bio: >-
+      HEALING THROUGH ART · Sacred Geometry art · · Visionary Art · · Mandala art · 🔸Freelance Artist/Designer/Illustrator🔸 . ONLINE SHOP BELOW! 🔻🔻🔻🔻🔻🔻🔻
+    location: "Spain"
+    followers: 49836
+    engagement: 146
+    commentsToLikes: 0.019187
+    id: ck0ud1ysbi8am0i197etmcxez
+    verified: false
+    hashtags: "#consciousness, #mandaladrawing, #psyart, #chakras"
+  - username: "vainilladolly"
+    fullname: >-
+      Olga Ramirez Faura🌈
+    bio: >-
+      Blythe customizer since 2008❤️ Illustrator ❤️ art teacher 🌱vainilladolly@gmail.com COMMISSIONS CLOSED 🌸
+    location: "Spain"
+    followers: 92600
+    engagement: 111
+    commentsToLikes: 0.053634
+    id: ck8t9fo9dnwxk0j787mhxz1gg
+    verified: false
+    hashtags: "#makeupartist, #blythelove, #dollmaker, #blythes"
   - username: "antonioilustrando"
     fullname: >-
       Antonio Lorente
     bio: >-
       Illustrator #antoniolorente Ilustrador en Edelvives editorial. antonioilustrando@gmail.com
     location: "Spain"
-    followers: 28189
-    engagement: 1119
-    commentsToLikes: 0.093346
+    followers: 41649
+    engagement: 937
+    commentsToLikes: 0.066133
     id: ck55pm3k7auv90i11ygb0545w
     verified: false
-    hashtags: "#harrypotter, #edelvives, #antoniolorente, #annewithane"
-  - username: "belenapar"
-    fullname: >-
-      Belén Aparicio
-    bio: >-
-      🔸Graphic Designer, Illustrator, Creative 🔸Photography/Travel/Lifestyle 🔸My art account @belenaparte 📍Los rincones más bonitos de Madrid
-    location: "Spain"
-    followers: 7744
-    engagement: 870
-    commentsToLikes: 0.176117
-    id: ck14grpdg6ot40i19ygsoaeuq
-    verified: false
-    hashtags: "#madridmadrid, #lovemadrid, #demadridalcielo, #madridmola"
-  - username: "arturoelena_official"
-    fullname: >-
-      Arturo Elena
-    bio: >-
-      Fashion illustrator based in Spain Facebook: arturo.elena.official
-    location: "Spain"
-    followers: 33932
-    engagement: 288
-    commentsToLikes: 0.105685
-    id: ck6trmxibzx1l0j716x7veesr
-    verified: false
-    hashtags: "#fashionillustrations, #instadogs, #christmascard, #galgosoninstagram"
-  - username: "elliotmanresa"
-    fullname: >-
-      Elliot Manresa
-    bio: >-
-      Painter Illustrator ✍🏻✨ ⬇️ Encargos/ Comissions ⬇️ artofelliotmanresa@gmail.com 👁 #ElliotManresa
-    location: "Spain"
-    followers: 7054
-    engagement: 978
-    commentsToLikes: 0.033099
-    id: ck5q9lssbbrcs0i11hcwdar02
-    verified: false
-    hashtags: "#traditionalpainting, #timelapse, #portrait, #maythe4thbewithyou"
-  - username: "mariajoseccbb"
-    fullname: >-
-      MAJO • CCBB •
-    bio: >-
-      Illustrator - Fanartist COMMISSIONS OPEN Spanish - English ❤Thank you for your support. ⚠️Repost with credit. 🇻🇪
-    location: "Spain"
-    followers: 27742
-    engagement: 5532
-    commentsToLikes: 0.007458
-    id: ck8tbp6rqwk7x0j782uzkpwr4
-    verified: false
-    hashtags: "#taetae, #btsjin, #fanart, #hobi"
-  - username: "mercedes_debellard"
-    fullname: >-
-      Mercedes deBellard
-    bio: >-
-      Illustrator 🌱 Animal lover Andaluza viviendo en Euskadi Represented by @folioart ✉️ hello@mercedesdebellard.net
-    location: "Spain"
-    followers: 40970
-    engagement: 486
-    commentsToLikes: 0.017709
-    id: ck0ubr0vhf2f10i19x2cznilo
-    verified: false
-    hashtags: "#cinema, #illustration, #beauty, #woman"
-  - username: "babycatfacedollies"
-    fullname: >-
-      babycatface blythe dolls
-    bio: >-
-      I'm Coral, babycatface Spanish blythe dolls artist 🖌 , illustrator ✏️& photographer 📸 If using my pics please give me 📷 credit! Also at: @babycatface
-    location: "Spain"
-    followers: 31522
-    engagement: 237
-    commentsToLikes: 0.039913
-    id: ck9hcj6s3lo020j78isilzu0q
-    verified: false
-    hashtags: "#blythes, #dolllover, #blythegram, #handmade"
-  - username: "judmoya"
-    fullname: >-
-      ~ ♈️
-    bio: >-
-      #graphicdesigner Designer · Illustrator · Model – · ᴛʜᴇ ᴇᴀʀᴛʜ ᴡɪᴛʜᴏᴜᴛ ᴀʀᴛ ɪꜱ ᴊᴜꜱᴛ "ᴇʜ" ツ · ɴᴏ ᴍᴜꜱɪᴄ, ɴᴏ ʟɪꜰᴇ ♫
-    location: "Spain"
-    followers: 9611
-    engagement: 409
-    commentsToLikes: 0.031845
-    id: ck5c4d6t413qs0i11wfcpjx9d
-    verified: false
-    hashtags: "#hellomonday, #catedraldesevilla"
-  - username: "paulsirats"
-    fullname: >-
-      Paul Sirats
-    bio: >-
-      ⚔️ Concept artist & illustrator @ Madmax 📍 Bilbao (Spain)
-    location: "Spain"
-    followers: 40997
-    engagement: 595
-    commentsToLikes: 0.062484
-    id: ck8tabplir4ol0j78q81w7ptp
-    verified: false
-    hashtags: "#artistsoninstagram, #characterdesign, #projectvacuum, #gameart"
-  - username: "dabanaworks"
-    fullname: >-
-      Jaime Martínez "Dabanaworks"
-    bio: >-
-      Freelance Illustrator working for Games Workshop. Artstation: http://www.artstation.com/dabanaworks #art #illustration
-    location: "Spain"
-    followers: 13522
-    engagement: 1406
-    commentsToLikes: 0.013617
-    id: ck8t6ee70damx0j78hm4ljz5i
-    verified: false
-    hashtags: "#digiart, #adobe, #painting, #gamesworkshop"
+    hashtags: "#beautifulbizarre, #antoniolorente, #beautifulbizarremagazine, #artisticnation"
 ---

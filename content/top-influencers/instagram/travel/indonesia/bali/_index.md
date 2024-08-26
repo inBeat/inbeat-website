@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel Instagram Influencers In Bali In 2023
+title: Top 10 Travel Instagram Influencers In Bali In 2024
 description: >-
-  Find top travel Instagram influencers in Bali in 2023. Most popular hashtags: #bali #travel #balilife #baliindonesia.
+  Find top travel Instagram influencers in Bali in 2024. Most popular hashtags: #bali #indonesia #travel #balilife.
 platform: Instagram
-hits: 213
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 213 Instagram influencers like this in Bali, Indonesia for you to work with.
+hits: 283
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 283 Instagram influencers like this in Bali, Indonesia for you to connect with.
 profiles:
   - username: "sutarahady"
     fullname: >-
@@ -13,24 +13,60 @@ profiles:
     bio: >-
       Wedding: @teras_stories Portrait: @suta_rahady Weddings | Brands | Travel Bali based photographer 📍#bali 🇲🇨
     location: "Indonesia"
-    followers: 34513
-    engagement: 500
-    commentsToLikes: 0.043743
+    followers: 35162
+    engagement: 255
+    commentsToLikes: 0.035780
     id: ck0u2mznp0f340i198qjf5w5a
     verified: false
-    hashtags: "#morning, #lombok, #lombokexperience, #bali"
-  - username: "yusufhendratnoo"
+    hashtags: "#bali, #beautifuldestinations, #sunset, #nature"
+  - username: "oliya_2104"
     fullname: >-
-      Yusuf Hendratno | ユスフ
+      Anusha Karmakar | Yoga• Selfcare• Travel
     bio: >-
-      ✨ #KeyOpinionLeader 🇮🇩 𝙏𝙧𝙖𝙫𝙚𝙡/𝙁𝙞𝙩𝙣𝙚𝙨𝙨/𝙁𝙖𝙨𝙝𝙞𝙤𝙣/𝙇𝙞𝙛𝙚𝙨𝙩𝙮𝙡𝙚 BA @mutant.indonesia ☎️BUSINESS & ENDORSMENT⬇️ Line(@)xoz3002d /or Email 📥
+      I do everything self care Content creator MSc Yoga📖| Certified Yoga teacher Work 📧 anusha@cree8a.com Yoga Sessions ⬇️
     location: "Indonesia"
-    followers: 133227
-    engagement: 676
-    commentsToLikes: 0.018010
-    id: ck13cwlks2iqg0i19ybxtc9v4
+    followers: 141286
+    engagement: 521
+    commentsToLikes: 0.011053
+    id: ck5hqf41ct0cr0i11my7i7qs3
     verified: false
-    hashtags: "#travel, #bali, #beach, #fitness"
+    hashtags: "#travelmore, #yogateacher, #yogaposes, #tropical"
+  - username: "aylinkko"
+    fullname: >-
+      Aylin - Bali, Travel & Lifestyle
+    bio: >-
+      📍Based in Bali Travel adventures and lifestyle inspiration 🫶🏽 Collabs: aylinkoster@gmail.com ↓ Get my Bali E-Book & 1:1 Calls
+    location: "Indonesia"
+    followers: 93987
+    engagement: 308
+    commentsToLikes: 0.061110
+    id: cl7o02dfpw9n60i23vbon4gmn
+    verified: false
+    hashtags: "#dreamlife, #inspiration, #travelpassion, #ubud"
+  - username: "juhanisarglep"
+    fullname: >-
+      Juhani Särglep | Bali video 📹
+    bio: >-
+      VIDEOGRAPHER based in Bali 📸 Video / Photo / E-Com ⚡️ @kissnthrill 📍DM or Email for booking👇🏼📩
+    location: "Indonesia"
+    followers: 51955
+    engagement: 271
+    commentsToLikes: 0.013370
+    id: ck1356k0kzyy30i194qmdo8q5
+    verified: false
+    hashtags: "#travel, #bali, #kissnthrill, #swimwear"
+  - username: "tasteinhotels"
+    fullname: >-
+      Beautiful Hotels & Resorts
+    bio: >-
+      🏝️Showcasing the most exceptional hotels and resorts 🏨Part of the @hotel network 👇 Spring FLASH SALE for hotels this week
+    location: "Indonesia"
+    followers: 1593912
+    engagement: 4
+    commentsToLikes: 0.026751
+    id: ck0tzecngq1h40i19k3b0xggq
+    verified: false
+    hashtags: "#bestairbnb, #explorebali, #couple, #indonesia"
   - username: "alitarthayasa"
     fullname: >-
       U can’t see me again
@@ -43,18 +79,6 @@ profiles:
     id: ck5q3g6mjklce0i11o5977os0
     verified: false
     hashtags: "#instagramers, #fujifilmxa7, #jimbaran, #thebalibible"
-  - username: "myanabananas"
-    fullname: >-
-      Lady Myana
-    bio: >-
-      Impossible is nothing. Coconut Queen 👑 B.S. in Finance💰🚨 #bitcoin 💫Miss Universe 🇬🇺 2017
-    location: "Indonesia"
-    followers: 38673
-    engagement: 184
-    commentsToLikes: 0.082289
-    id: ck0udd3l9isxa0i19ds1m3fpi
-    verified: false
-    hashtags: "#travel, #balilife, #fitspo, #fitnessgirl"
   - username: "yanu_onnicial"
     fullname: >-
       ♑ YANU 🇲🇨
@@ -67,54 +91,18 @@ profiles:
     id: ck9wfw5i8qri70j78rcx4edow
     verified: false
     hashtags: "#happy, #beautiful, #instalike, #asian"
-  - username: "gekanikesnawa_"
+  - username: "erikuliantara"
     fullname: >-
-      m s.   G E K✨
+      IKD ERIK ULIANTARA
     bio: >-
-      “a dreamer with a million symphony in her mind”
+      📍Based in Bali Travelling,Explore, and Wild
     location: "Indonesia"
-    followers: 3254
-    engagement: 1462
-    commentsToLikes: 0.035450
-    id: ck13cx75w2ltp0i19otxp81hs
+    followers: 3187
+    engagement: 1086
+    commentsToLikes: 0.105914
+    id: ck8t0dnubrpvk0j78a0cu7zd0
     verified: false
-    hashtags: "#bali, #baliisland, #kintamani, #balitravel"
-  - username: "lisaanggara"
-    fullname: >-
-      LISA ANGGARA | JAKARTA LIFE🥂
-    bio: >-
-      #TRAVEL | #FASHION | #LIFESTYLE #lisaanggaravisithotel @moosaa.id @botte.id @boluboloo 📍JKT - BALI ✈️ Perth - TBA
-    location: "Indonesia"
-    followers: 98141
-    engagement: 173
-    commentsToLikes: 0.047151
-    id: ck6u0rodvhdmp0j71wgslvkrw
-    verified: false
-    hashtags: "#balilife, #jalanjalan, #wisatamurah, #lfl"
-  - username: "kuipersnick"
-    fullname: >-
-      Nick Kuipers
-    bio: >-
-      • Official Nick Kuipers account • Player of: @persib_official 💙 • Owner of: @johnnywrap 🇳🇱& @johnnywrap.id 🇮🇩 • Youtube:
-    location: "Indonesia"
-    followers: 395231
-    engagement: 923
-    commentsToLikes: 0.008702
-    id: ck0tyzo4qojr30i19ybgkpk4t
-    verified: true
-    hashtags: "#bandung, #liga1, #beach, #bobotoh"
-  - username: "beneaththemeadow"
-    fullname: >-
-      SHERE | CREATOR/ TRAVELER
-    bio: >-
-      ✨Luxury Travel & Hotel, Lifestyle, Fashion 🌟Creative contents & drone photography 📍HK | 📸 #sony #a7iii 🌹Founder of @LEFLEURISTE.OFFICIAL®
-    location: "Indonesia"
-    followers: 50755
-    engagement: 70
-    commentsToLikes: 0.274893
-    id: ck137z5v0dq6x0i19ka1o0c6j
-    verified: false
-    hashtags: "#sunsetphotography, #travelgram, #aestheticstyle, #aestheticedits"
+    hashtags: "#beautifuldestinations, #stayandwander, #indonesia, #folkgreen"
   - username: "raebaaee"
     fullname: >-
       Resham Ramirez Saeed
@@ -127,4 +115,16 @@ profiles:
     id: ck5bymntrpft50i11ff0fkrix
     verified: true
     hashtags: "#femmetravel, #nusapenidaisland, #travelbali, #angelsbillabong"
+  - username: "compass.couple"
+    fullname: >-
+      WES & ENES | Travel Couple
+    bio: >-
+      ✈️ Sold everything we owned to #travel the world. 📍 #Denver #Colorado ✉ Partnerships@compasscouple.com 👇 Travel Blog | Media Coverage 🌍
+    location: "Indonesia"
+    followers: 20592
+    engagement: 686
+    commentsToLikes: 0.066888
+    id: ck8t4a91761440j78glp5s3jl
+    verified: false
+    hashtags: "#ushuaia, #dativeapp, #travelcouples, #couplegoals"
 ---

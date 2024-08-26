@@ -1,48 +1,24 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Capetown In 2023
+title: Top 10 Fashion Instagram Influencers In Capetown In 2024
 description: >-
-  Find top fashion Instagram influencers in Capetown in 2023. Most popular hashtags: #capetown #fashion #model #southafrica.
+  Find top fashion Instagram influencers in Capetown in 2024. Most popular hashtags: #capetown #fashion #southafrica #model.
 platform: Instagram
-hits: 28
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 28 Instagram influencers like this in Capetown, South Africa for you to contact.
+hits: 36
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 36 Instagram influencers like this in Capetown, South Africa for you to pitch.
 profiles:
-  - username: "kunene_ayanda"
-    fullname: >-
-      Ayanda Kunene
-    bio: >-
-      South African 🇿🇦 Twin: @amanda_Kunene 📍DBN: @imodelmngt 📍CPT: @20modelmanagement
-    location: "South Africa"
-    followers: 4206
-    engagement: 738
-    commentsToLikes: 0.064269
-    id: ck138fd3bfyxf0i199d208qt8
-    verified: false
-    hashtags: "#explorepage, #reels, #milkmodelsearch, #editorial"
-  - username: "marcbermanphotography"
-    fullname: >-
-      Marc Berman | Photographer
-    bio: >-
-      #photographer #model #fashion #lifestyle 📍#capetown 👨🏻Personal Acc - @king_fool For bookings DM or Email : info@marcberman.co.za
-    location: "South Africa"
-    followers: 16600
-    engagement: 187
-    commentsToLikes: 0.023634
-    id: ck5cdtxbzjrsk0i114cjcvvst
-    verified: false
-    hashtags: "#instadaily, #blueeyes, #brunette, #portraitvision"
   - username: "ciara_tay_kruger"
     fullname: >-
-      Ciara Taylor Kruger💋
+      Ciara Taylor Kruger
     bio: >-
-      •Cape Town, South Africa •Bcom student • Twenty • Aries •Model @covermodelscpt ——————————————
+      •Cape Town, South Africa •Twenty Three• Aries •Social Media & Digital Marketer • @ctk_exclusive_events ——————————————————————
     location: "South Africa"
-    followers: 5624
-    engagement: 1387
-    commentsToLikes: 0.111456
+    followers: 5531
+    engagement: 485
+    commentsToLikes: 0.067807
     id: ckapbizlf021z0i78vsf48vsh
     verified: false
-    hashtags: "#modeling, #tanning, #swimsuit, #vacation"
+    hashtags: "#capetownliving, #beach, #goodvibesonly, #igfashionista"
   - username: "garrethbarclayphoto"
     fullname: >-
       GARRETH BARCLAY | PHOTOGRAPHER
@@ -79,6 +55,30 @@ profiles:
     id: ck15qfb7i2kdy0i196rs1xs3l
     verified: false
     hashtags: "#leestafford, #redhair, #hairtutorial, #haircare"
+  - username: "kunene_ayanda"
+    fullname: >-
+      Ayanda Kunene
+    bio: >-
+      South African 🇿🇦 Twin: @amanda_Kunene 📍 CPT: @20modelmanagement 📍 DBN: @bossmodelsdbn
+    location: "South Africa"
+    followers: 5804
+    engagement: 252
+    commentsToLikes: 0.067949
+    id: ck138fd3bfyxf0i199d208qt8
+    verified: false
+    hashtags: "#fashion, #southafrica, #likeforlikes, #safari"
+  - username: "marcbermanphotography"
+    fullname: >-
+      Marc Berman | Photographer
+    bio: >-
+      #photographer #model #fashion #lifestyle #NFTcommunity #nft #NFTart 📍#capetown 👨🏻Personal Acc - @king_fool 📧 info@marcberman.co.za to book
+    location: "South Africa"
+    followers: 16539
+    engagement: 170
+    commentsToLikes: 0.020955
+    id: ck5cdtxbzjrsk0i114cjcvvst
+    verified: false
+    hashtags: "#marcbermanphotography, #instadaily, #southafrica, #photography"
   - username: "daniella_thibault"
     fullname: >-
       Daniella Zainette Thibault
@@ -103,6 +103,18 @@ profiles:
     id: ck136p5yx7ksg0i19ai5exdqp
     verified: false
     hashtags: "#houseplants, #plantsmakepeoplehappy, #girlswithplants, #capetown"
+  - username: "zolatiothmane"
+    fullname: >-
+      Othmane Zolati
+    bio: >-
+      🇲🇦4 years journey across Africa Award winning director at @paffnow Director of @africa_and_i Documentary Ironman🏅8th 📍🇲🇦 Check this 👇🏼
+    location: "South Africa"
+    followers: 42893
+    engagement: 258
+    commentsToLikes: 0.028646
+    id: ck6u4i6ee3v6n0j71njuhj72k
+    verified: false
+    hashtags: "#picoftheday, #adventure, #kenya, #instagood"
   - username: "frema.mensah"
     fullname: >-
       🇬🇭Frema Mensah🇬🇭
@@ -115,16 +127,4 @@ profiles:
     id: ck55mwkjc4zg40i11b4gc4y7d
     verified: false
     hashtags: "#bluesky, #blackgirl, #melaninqueen, #afrohairstyles"
-  - username: "mattejacobs"
-    fullname: >-
-      Matte Jacobs
-    bio: >-
-      Cape Town @20modelmanagement Johannesburg @syncmodels_ • Make Up⠀ • Fashion ⠀ • Face of @houseoflecap • Creative 🇿🇦 ✊🏽✊🏿✊🏾🏳️‍🌈⠀
-    location: "South Africa"
-    followers: 10035
-    engagement: 724
-    commentsToLikes: 0.122577
-    id: ck5zy5rny9a3r0i14dbfi53e1
-    verified: false
-    hashtags: "#nextfacesofponds, #watchmenow, #avon, #ugg"
 ---

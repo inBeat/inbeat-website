@@ -1,12 +1,60 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Russia In 2023
+title: Top 10 Dancers Instagram Influencers In Russia In 2024
 description: >-
-  Find top dancers Instagram influencers in Russia in 2023. Most popular hashtags: #dance #dancer #model.
+  Find top dancers Instagram influencers in Russia in 2024. Most popular hashtags: #dance #love #model.
 platform: Instagram
-hits: 465
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 465 Instagram influencers like this in Russia for you to contact.
+hits: 459
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 459 Instagram influencers like this in Russia for you to contact.
 profiles:
+  - username: "ariadniskokou"
+    fullname: >-
+      А R И А • С К О К О С
+    bio: >-
+      👩🏻Content Creator-Fashion & Lifestyle 🤍 Professional Dancer-Choreographer 🕊BA n Theatre-Performing Arts 🍸 @fantasia.live.official 🪐 Greek-Russian
+    location: "Russia"
+    followers: 57442
+    engagement: 1805
+    commentsToLikes: 0.086736
+    id: ck5pxbvf6r1ko0i11xwm5d9at
+    verified: false
+    hashtags: "#macsquirt, #ad, #adidasgr, #sneaker10"
+  - username: "polinkakalatsei"
+    fullname: >-
+      polina ✿ twerk classes in los angeles
+    bio: >-
+      📍los angeles ukrainian (kyïv) dancer, choreographer hellopolinakalatsei@gmail.com
+    location: "Russia"
+    followers: 16048
+    engagement: 222
+    commentsToLikes: 0.025569
+    id: ck6u9e4m4x0zw0j71h5rotw6r
+    verified: false
+    hashtags: "#estetica, #10"
+  - username: "sofyaplotnikova"
+    fullname: >-
+      Sofya Plotnikova
+    bio: >-
+      Dancer, singer, creator ✨spreading positivity✨ 📍traveling around the world sofyaplotnikovapr@gmail.com @nowunited
+    location: "Russia"
+    followers: 4360954
+    engagement: 166
+    commentsToLikes: 0.047755
+    id: ck0tuxufl95j60i197bqbew5j
+    verified: true
+    hashtags: "#linkinbio, #nowunited, #sofyaplotnikova"
+  - username: "karina.kazaeeva"
+    fullname: >-
+      Kazaeva Karina
+    bio: >-
+      • Owner : @kkentertainment__ • Dancer / Performer • Choreographer @central.studio.eg
+    location: "Russia"
+    followers: 459537
+    engagement: 71
+    commentsToLikes: 0.024167
+    id: ck5hcfbe8hryr0i11vzaqezaa
+    verified: false
+    hashtags: "#yummy, #keepgoing, #water, #me"
   - username: "juliaakulina"
     fullname: >-
       JULIA AKULINA
@@ -79,52 +127,4 @@ profiles:
     id: ckf5ou5qt3ul40j2328t3ija1
     verified: false
     hashtags: "#apxu"
-  - username: "_aleksandra_kiseleva"
-    fullname: >-
-      Aleksandra Kiseleva | Киселева
-    bio: >-
-      • Саша Клевая 👽 • Actress, dancer • Agent +7 926 902-18-82 Natalya Gneusheva • Commercial offers: aleksandra@sashacool.ru Elena
-    location: "Russia"
-    followers: 119827
-    engagement: 216
-    commentsToLikes: 0.043825
-    id: ck0tuo04j7y6h0i19djkxx2ax
-    verified: true
-    hashtags: "#happybirthday, #18, #bangolufsen, #bangolufsenrus"
-  - username: "dav_vasily"
-    fullname: >-
-      Vasily Sobolev
-    bio: >-
-      Ballet dancer. Model. 13 y.o. Vaganova Academy’s student. Saint-Petersburg. Russia. Ambassador @about_rstart @kidwood.ru TikTok ⬇️⬇️⬇️
-    location: "Russia"
-    followers: 53214
-    engagement: 602
-    commentsToLikes: 0.068637
-    id: ck8t486ut5tv80j789beab353
-    verified: false
-    hashtags: "#ballet, #dancer, #kidsmodel, #modelboys"
-  - username: "polinakarpenko_"
-    fullname: >-
-      🔹Paulina❣️Karpenko🔹
-    bio: >-
-      ‘One in a million 🇧🇾 model, dancer 🦁 Contact manager: bookpolinakarpenko@gmail.com Page control by mom @natalikarpenko1976 #polinakarpenko2006
-    location: "Russia"
-    followers: 246572
-    engagement: 186
-    commentsToLikes: 0.036503
-    id: ck8tc7a98yjm50j78tnmiou7b
-    verified: false
-    hashtags: "#dancer, #goodnight, #polinakarpenko2006, #tiktok"
-  - username: "olegitstru"
-    fullname: >-
-      Oleg R.
-    bio: >-
-      Dancer, freelancer, introvert✌🏻 @tntancy 7 season | Top-37 Member @iconichouseofninja x @kiki_house_of_mermaids_ Cooperation: olegitstru@gmail.com ✉️
-    location: "Russia"
-    followers: 6183
-    engagement: 1655
-    commentsToLikes: 0.027575
-    id: ck55n683l5klr0i11quwm3vnd
-    verified: false
-    hashtags: ""
 ---

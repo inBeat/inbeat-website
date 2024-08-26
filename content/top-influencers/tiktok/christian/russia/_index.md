@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In Russia In 2023
+title: Top 10 Christian TikTok Influencers In Russia In 2024
 description: >-
-  Find top christian TikTok influencers in Russia in 2023. Most popular hashtags: #football #ronaldo #juventus #cristianoronaldo.
+  Find top christian TikTok influencers in Russia in 2024. Most popular hashtags: #football #manchesterunited #cristianoronaldo #psg.
 platform: TikTok
-hits: 14
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform holds 14 TikTok influencers like this in Russia for you to work with.
+hits: 15
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 15 TikTok influencers like this in Russia for you to work with.
 profiles:
   - username: "andilyo__"
     fullname: >-
@@ -103,6 +103,18 @@ profiles:
     id: ckdhtmef932ph0j239ddi79m0
     verified: false
     hashtags: "#14feb, #mufc, #cillitbangbang, #manchesterunited"
+  - username: "shadow_production_"
+    fullname: >-
+      丂卄卂ᗪㄖ山
+    bio: >-
+      ✘ 𝐅𝐎𝐎𝐓𝐁𝐀𝐋𝐋 𝐄𝐃𝐈𝐓𝐒 ✘ 𝐃𝐈𝐒𝐒𝐀𝐁𝐋𝐄 𝐒𝐐𝐔𝐀𝐃
+    location: "Russia"
+    followers: 15900
+    engagement: 1447
+    commentsToLikes: 0.040091
+    id: ckcvjqat2x8do0j234nb40wav
+    verified: false
+    hashtags: "#uefachampions, #neymrjr, #recomendation, #manchesterunited"
   - username: "_w1zz4rd_"
     fullname: >-
       ⚡𝚆𝟷𝚣𝚣𝟺𝚊𝚛𝚍🧙
@@ -115,16 +127,4 @@ profiles:
     id: cka0uj0btugs10i78i1ojt59w
     verified: false
     hashtags: "#marcelo, #fints, #mcu, #roseattitude"
-  - username: "_football21_"
-    fullname: >-
-      ⚽️online_football⚽️
-    bio: >-
-      Instagram 👆
-    location: "Russia"
-    followers: 26500
-    engagement: 1698
-    commentsToLikes: 0.036693
-    id: ck8f9hhlt3t2v0j78lhemalk0
-    verified: false
-    hashtags: "#skill, #football21, #fyp, #juventus"
 ---

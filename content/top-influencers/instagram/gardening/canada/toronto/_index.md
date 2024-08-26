@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Toronto in 2023
+title: Top 10 Gardening Instagram Influencers In Toronto In 2024
 description: >-
-  Find top gardening Instagram influencers in Toronto in 2023. Most popular hashtags: #toronto #gardening #nature #stayhome.
+  Find top gardening Instagram influencers in Toronto in 2024. Most popular hashtags: #gardening #garden #toronto #reelsinstagram.
 platform: Instagram
-hits: 18
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform has 18 Instagram influencers like this in Toronto, Canada for you to connect with.
+hits: 7
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 7 Instagram influencers like this in Toronto, Canada for you to contact.
 profiles:
   - username: "moeenmoe"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       📍 Toronto Chef 🇵🇸🇯🇴 Palestinian-Jordanian, NYC for 10yrs. Paying homage to Arabic cuisine by creating with @the_broken_english DM for private events.
     location: "Canada"
-    followers: 38168
-    engagement: 127
-    commentsToLikes: 0.020796
+    followers: 38190
+    engagement: 153
+    commentsToLikes: 0.018436
     id: ck0vxblg2y3j80i19wpy5fdmi
     verified: false
-    hashtags: "#chefathome, #truefoodies, #culinarytalents, #platedfoodz"
-  - username: "chefbangerter"
+    hashtags: "#chefsroll, #gourmetartistry, #professionalchefs, #vegan"
+  - username: "daviddtsfx"
     fullname: >-
-      Jason Bangerter
+      David Marti
     bio: >-
-      Langdon Hall Country House Hotel & Spa | #slowfood Hero Award 2019🇨🇦 | Twitter: @chefbangerter |
+      Life is what you write on it. SFX make-up artist, PAN'S LABYRINTH. Barcelona. Co-owner of DDTSFX with the amazing Montse Ribe. Info@ddtsfx.com.
     location: "Canada"
-    followers: 17425
-    engagement: 189
-    commentsToLikes: 0.051131
-    id: ck55kpms9ztxr0i115wcfbugs
+    followers: 98319
+    engagement: 219
+    commentsToLikes: 0.020182
+    id: ck55oas5n7zfn0i11e7rshykg
     verified: false
-    hashtags: "#worldoceansday2020, #chefsathome, #foodforchange, #foodandwine"
-  - username: "therubygore"
+    hashtags: "#javierbotet, #sweden, #artwork, #memories"
+  - username: "reena.dhillonn"
     fullname: >-
-      𝑹𝑼𝑩𝒀 𝑮𝑶𝑹𝑬 🕷
+      Reena Dhillon
     bio: >-
-      Dark Illustrative Tattoos 🥀 Powered by Plants 💯 Vegan Supplies 🌱 Toronto • Philly 𝑩𝑶𝑶𝑲 𝑵𝑶𝑾 👇 contact@therubygore.com 💌 #botanicaltattoo #torontotattoo
+      A touch of fashion mixed with a sprinkle of life🧿 Everyday outfits, Decor & Beauty Toronto🇨🇦
     location: "Canada"
-    followers: 41710
-    engagement: 74
-    commentsToLikes: 0.019214
-    id: ck55klzwezmq90i112lqh2ibz
+    followers: 102683
+    engagement: 31
+    commentsToLikes: 0.207041
+    id: cks8aqh31upnk0j2323qrx0p7
     verified: false
-    hashtags: "#torontoinknews, #spring, #healed, #ladytattooers"
-  - username: "terinrothernel"
+    hashtags: "#homedesign, #ootd, #coffeetable, #homedecor"
+  - username: "natalieast"
     fullname: >-
-      Terin Rothernel
+      Natalie Ast
     bio: >-
-      Small town 👩🏻. Exploring the 🌎. Brand Ambassador @6ixpm.est 32 | 24 | 34 Toronto, 🇨🇦
+      👩🏼‍⚖️ Fashion-blogging lawyer 👠 inspiring you to find your style, beauty + home decor aesthetic📍 toronto 💌mail@natalieast.com
     location: "Canada"
-    followers: 6322
-    engagement: 883
-    commentsToLikes: 0.074002
-    id: ck8t3684f21gl0j78ksf7n1l8
+    followers: 19864
+    engagement: 50
+    commentsToLikes: 0.176503
+    id: clu24noyjrtbo0k08h4whouta
     verified: false
-    hashtags: "#torontodesigner, #streetfashion, #fuckrona, #throwback"
-  - username: "lisa.eats"
+    hashtags: "#sezane, #workwearstyle, #aritzia, #workwear"
+  - username: "notmarcanthony"
     fullname: >-
-      Lisa Z 💚
+      Marc-Anthony Sinagoga
     bio: >-
-      Education is important, but eating healthy is importanter ( : Toronto, Canada
+      Stand-Up & Sketch
     location: "Canada"
-    followers: 25103
-    engagement: 287
-    commentsToLikes: 0.185538
-    id: ck13ajaz8qndd0i191ibjag0c
+    followers: 131160
+    engagement: 1436
+    commentsToLikes: 0.032126
+    id: ck6tpydleoby40j718kfczeod
     verified: false
-    hashtags: "#travel, #easyrecipes, #homemadebrunch, #throwbackthursday"
-  - username: "uoftengineering"
+    hashtags: "#italiancontent, #italiancomedy, #tradition, #italian"
+  - username: "laura.ullock"
     fullname: >-
-      U of T Engineering
+      Laura Ullock | Vancouver Food & Lifestyle
     bio: >-
-      The official Instagram account for the Faculty of Applied Science & Engineering at the University of Toronto.
+      Your Source for Food, Fun Things To Do & Travel 📍Vancouver, Lower Mainland & beyond ✍️ ullocklaura@gmail.com
     location: "Canada"
-    followers: 8670
-    engagement: 338
-    commentsToLikes: 0.009770
-    id: ck6tj0fb51s310j71m7cnvlky
+    followers: 53528
+    engagement: 2624
+    commentsToLikes: 0.218061
+    id: clnjn0nomo6py0j08373n0511
     verified: false
-    hashtags: "#uoft, #engineering, #uoftlife, #universityoftoronto"
-  - username: "colourfyme"
+    hashtags: "#vancouverfoodie, #vancouver, #surreybc, #britishcolumbia"
+  - username: "mylittlesecrets_ca"
     fullname: >-
-      🌸 Colourfy Me 🌸
+      Natalie Ho
     bio: >-
-      Tris 💖 A happy designer obsessed with all things cute and creative😊 🍁Toronto based
+      sharing my life's little secrets my home #mylittleurbancottage featured on: @hgtvcanada collabs & UGC 🌐 www.mylittlesecrets.ca
     location: "Canada"
-    followers: 12299
-    engagement: 700
-    commentsToLikes: 0.039837
-    id: ck14k76kqo2t70i19smslod1s
+    followers: 25777
+    engagement: 87
+    commentsToLikes: 0.492952
+    id: ck13cuqyd29h20i19wo35cqos
     verified: false
-    hashtags: "#space, #spaceart, #animalcrossing, #animalcrossingnewleaf"
-  - username: "sparklingwinos"
+    hashtags: "#lightingupdate, #hereshow, #hhpartner, #wellnessdelivered"
+  - username: "antoniovalenteflowers"
     fullname: >-
-      Sparkling Winos
+      Antonio Valente Flowers
     bio: >-
-      We're Mike & Jeff! 👋 WSET 3🏅 Two 👬's blogging about all things bubbly! 🍾 Follow us to learn all about sparkling wine! 🥂 Latest Blog Post! ⬇️
+      📺 Gardening expert on CTV’s Your Morning ⁣ 🌸 How-To’s in story highlights ⁣ 📍 Ontario, Canada⁣ 🌱 Specialty seeds now available
     location: "Canada"
-    followers: 32801
-    engagement: 280
-    commentsToLikes: 0.133262
-    id: ck0u2kf4n03t50i199yna5am1
+    followers: 41410
+    engagement: 292
+    commentsToLikes: 0.036454
+    id: ck0w6j69i8t6z0i19ezril67v
     verified: false
-    hashtags: "#stayhome, #winetasting, #positivevibes, #spanishwine"
-  - username: "jodieemery"
+    hashtags: "#christmas, #christmasdecor, #holiday, #yesimfine"
+  - username: "notmarcanthony"
     fullname: >-
-      Jodie Emery
+      Marc-Anthony Sinagoga
     bio: >-
-      Cannabis, Hemp, Freedom ✌🏻 @JodiesJoint @CannabisAmnesty @CannabisCultureMagazine @CannabisCultureStore @CannabisCultureOfficial @420VancouverOfficial
+      Stand-Up & Sketch
     location: "Canada"
-    followers: 30513
-    engagement: 175
-    commentsToLikes: 0.054861
-    id: ck5c2h3m4x90l0i11pf3cmwsq
+    followers: 131160
+    engagement: 1436
+    commentsToLikes: 0.032126
+    id: ck6tpydleoby40j718kfczeod
     verified: false
-    hashtags: "#cannabisamnesty, #cannabiscommunity, #flowers, #growyourown"
-  - username: "joiasverdes"
+    hashtags: "#italiancontent, #italiancomedy, #tradition, #italian"
+  - username: "microflowerfarm"
     fullname: >-
-      Cactos•Suculentas•Portugal 🌵
+      Galena • Urban Flower & Food Garden • Education
     bio: >-
-      #joiasverdes ®️ 👉🏼INSPIRING PEOPLE👈🏼 📩Business PM 📱My own pictures 🌍Shipping all over EUROPE 🌸Plants for sale 👇🏼👇🏼👇🏼
+      💐Flower farmer on 6000 sq ft 🌸Passions: no-till growing, pollinators & helping others create gardens! Local Flowers & Online Classes👇🏼 🌲Vancouver WA
     location: "Canada"
-    followers: 53434
-    engagement: 114
-    commentsToLikes: 0.030595
-    id: ck14ii88ufj6c0i19c10ugj5h
+    followers: 152711
+    engagement: 198
+    commentsToLikes: 0.038833
+    id: ckrni54ovguap0j239r9pskcl
     verified: false
-    hashtags: "#joiasverdes, #suculentas, #succu, #succulents"
+    hashtags: "#flowergarden, #gardentips, #ranunculus, #dahliaseason"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Madrid In 2023
+title: Top 10 Lifestyle Instagram Influencers In Madrid In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Madrid in 2023. Most popular hashtags: #lifestyle #madrid #summer #photooftheday.
+  Find top lifestyle Instagram influencers in Madrid in 2024. Most popular hashtags: #madrid #lifestyle #love #fashion.
 platform: Instagram
-hits: 198
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 198 Instagram influencers like this in Madrid, Spain for you to work with.
+hits: 268
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 268 Instagram influencers like this in Madrid, Spain for you to collaborate.
 profiles:
   - username: "lulandco"
     fullname: >-
@@ -19,6 +19,30 @@ profiles:
     id: ck55nfjpb63hz0i11brutpuvg
     verified: false
     hashtags: "#fashionblogger, #streetstyle, #ootd, #totalblack"
+  - username: "visita_madrid"
+    fullname: >-
+      Visit Madrid
+    bio: >-
+      🇪🇦 Official account of the Madrid Tourist Office 💙 #visitmadrid ©MADRID DESTINO CULTURA TURISMO Y NEGOCIO, S.A., 2024 Todos los derechos reservados
+    location: "Spain"
+    followers: 308171
+    engagement: 42
+    commentsToLikes: 0.011101
+    id: ck5c12nrzuccd0i11kaqpq176
+    verified: false
+    hashtags: "#visitamadrid, #visitmadrid, #visitspain, #arquitectura"
+  - username: "javierbalboa"
+    fullname: >-
+      Balboa
+    bio: >-
+      ♥️ mis tres hijos 📍Madrid 📺 @elchiringuitotv 👨🏾‍💼@footfeelsports ⚽️ @rsdalcala_oficial 📩 javierbalboa@saramartin.pro
+    location: "Spain"
+    followers: 78784
+    engagement: 802
+    commentsToLikes: 0.015193
+    id: ck5zzloi6byzi0i14kfhy061r
+    verified: true
+    hashtags: "#lifestyle, #madrid, #goodvibes, #couple"
   - username: "maamtrend"
     fullname: >-
       MARTA GARCÍA
@@ -31,18 +55,42 @@ profiles:
     id: ckf5p0o734jf90j2381k5sj07
     verified: false
     hashtags: "#lifestyle, #madrid, #sunday, #party"
-  - username: "fightlandspain"
+  - username: "jesuspalacios92"
     fullname: >-
-      FIGHTLAND
+      JESUS PALACIOS
     bio: >-
-      La primera cadena de gimnasios de Boxeo de España 📍Madrid • A Coruña • Sevilla • Alicante • Barcelona ¿Quieres un entrenamiento personal?👇🏻
+      Marbella📍 PR MANAGER @grupomoshmarbella 🔌
     location: "Spain"
-    followers: 10330
-    engagement: 569
-    commentsToLikes: 0.008344
-    id: ck55kx0ki0ai70i11j6az3f77
+    followers: 59615
+    engagement: 383
+    commentsToLikes: 0.025277
+    id: ckap5j00ibwde0i78mqemptwc
     verified: false
-    hashtags: "#fightlander, #boxeo, #boxing, #boxeolasrozas"
+    hashtags: "#marbellaclub, #inktattoo, #inked, #liketime"
+  - username: "jfpalacios17"
+    fullname: >-
+      JUAN PALACIOS
+    bio: >-
+      📍 Benahavís
+    location: "Spain"
+    followers: 6386
+    engagement: 1247
+    commentsToLikes: 0.052127
+    id: ck5cc3kb8gnfq0i111ykatvoa
+    verified: false
+    hashtags: "#castingfilm, #sahara, #casting, #experiences"
+  - username: "avenayaguacate"
+    fullname: >-
+      Sara | Avena y Aguacate
+    bio: >-
+      ☆ ¿Y si ponemos de moda el color? ☆ Colourful deco & fashion | Beautiful food | Joyful lifestyle ☆ #Madrid 🇪🇸 📧 avenayaguacate@gmail.com
+    location: "Spain"
+    followers: 43351
+    engagement: 257
+    commentsToLikes: 0.024610
+    id: ckaozi8q2m05d0i78gsnw6yuu
+    verified: false
+    hashtags: "#eclecticstyle, #winterfashion, #decoracionnavide, #costurera"
   - username: "adrianaguera6"
     fullname: >-
       Adrián Agüera
@@ -54,77 +102,29 @@ profiles:
     commentsToLikes: 0.022063
     id: ckap7udhkllqm0i78gtto592f
     verified: false
-    hashtags: "#ootd, #outfitoftheday, #styleinspo, #asos"
-  - username: "chabelseijo"
+    hashtags: "#ootd, #outfitoftheday, #styleinspo, #moda"
+  - username: "amparocamo"
     fullname: >-
-      Chabel Seijo
+      Amparo Carrillo
     bio: >-
-      Instablogger Moda◾Belleza◾Decoración◾Lifestyle 📍Madrid- Granada 📩chabelseijo@gmail.com
+      Fashion • Lifestyle VALENCIA/MADRID Management @mood___management Contact: amparocamo@mariamood.es Enfermera @micas.official CARRILLO12 for 12% Off
     location: "Spain"
-    followers: 32489
-    engagement: 506
-    commentsToLikes: 0.087900
-    id: ck13bpzy1wmaq0i19duu56lbq
+    followers: 46415
+    engagement: 41
+    commentsToLikes: 0.016625
+    id: ck5bzi3tzr6uj0i11z3goc2po
     verified: false
-    hashtags: "#lookoftheday, #ootd, #todayiwear, #decoinspo"
-  - username: "silviadebenito"
+    hashtags: "#bershkastyle, #zarahaul, #shopmicas, #reels"
+  - username: "alexafonsovalls"
     fullname: >-
-      Silvia de Benito
+      Alexander Afonso
     bio: >-
-      Madrid. Lifestyle | Fashion | Family - silviadb245@hotmail.com managementsilviadebenito@gmail.com
+      Business direction and Marketing Co-presidente de @loverights.global Based in Madrid / 🇮🇨 Lifestyle Fashion Travels aleafonsoficial@gmail.com
     location: "Spain"
-    followers: 131330
-    engagement: 339
-    commentsToLikes: 0.021343
-    id: ck55jsyjyxock0i11tsac0f6t
-    verified: true
-    hashtags: "#pregnant, #summernights, #love, #ad"
-  - username: "manu.canadas"
-    fullname: >-
-      Manu Cañadas
-    bio: >-
-      📍ALC -🚩MAD 📉📈 Bolsa y Finanzas / Stock Markets 🎭 Organización de Eventos 📬 mfcp.ig@gmail.com •Soy de cosas simples, por eso me gusta lo mejor.•
-    location: "Spain"
-    followers: 11649
-    engagement: 558
-    commentsToLikes: 0.054422
-    id: ck6tlrzbj6j6z0j71s8c7fgcp
+    followers: 41806
+    engagement: 122
+    commentsToLikes: 0.011332
+    id: ckaozd5wplcf90i78agu7hcru
     verified: false
-    hashtags: "#instapic, #alicante, #tbt, #menstyle"
-  - username: "mariasantiagocorral"
-    fullname: >-
-      MARÍA SANTIAGO CORRAL
-    bio: >-
-      📍 Madrid 📚 Ingeniería Informática + ADE 📩 mariasantiagocorral.blog@gmail.com Hawk de Hawkers Crew ⬇️
-    location: "Spain"
-    followers: 21260
-    engagement: 284
-    commentsToLikes: 0.160889
-    id: ckaovqfsp5pfi0i78jitp0z8x
-    verified: false
-    hashtags: "#trendy, #fashionblog, #haircare, #picoftheday"
-  - username: "alopez_esp"
-    fullname: >-
-      𝑨𝑮𝑼𝑺 𝑳𝑶𝑷𝑬𝒁👻
-    bio: >-
-      🍋Embajador: @le.mon.tours 🎤| Cuenta de TikTok :+530k 📥| Colaboraciones: (DM) 📲 | (jaranaagency@gmail.com)
-    location: "Spain"
-    followers: 39646
-    engagement: 1762
-    commentsToLikes: 0.024443
-    id: ck5qbx209nsnm0i112r4hm7p1
-    verified: false
-    hashtags: "#parejas, #friends, #tumblr, #foryou"
-  - username: "inked.bashmurova"
-    fullname: >-
-      🖤🐲Bashmurova Christina🐲🎋
-    bio: >-
-      •Я был готов любить, но меня никто не понимал, и я начал ненавидеть.💉 • @dogfamily.mka 🐶🐱babies •26👸🏼made in Russia🇷🇺 •Coruña📍(Madrid, München, Moscú)
-    location: "Spain"
-    followers: 8677
-    engagement: 545
-    commentsToLikes: 0.028121
-    id: ckap58c65amle0i78d97tvbjx
-    verified: false
-    hashtags: "#retrato, #coru, #photography, #russiangirl"
+    hashtags: "#morning, #madrid, #goodvibes, #happy"
 ---

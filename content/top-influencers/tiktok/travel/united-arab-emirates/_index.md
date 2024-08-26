@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In United Arab Emirates In 2023
+title: Top 10 Travel TikTok Influencers In United Arab Emirates In 2024
 description: >-
-  Find top travel TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #trending #foryou #tiktok #dubai.
+  Find top travel TikTok influencers in United Arab Emirates in 2024. Most popular hashtags: #trending #foryou #dubai #tiktok.
 platform: TikTok
 hits: 72
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 72 TikTok influencers like this in United Arab Emirates for you to work with.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 72 TikTok influencers like this in United Arab Emirates for you to collaborate.
 profiles:
   - username: "deepz_deepa"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.021487
     id: ck9e3mqmyk6sl0j78hqn5iavr
     verified: false
-    hashtags: "#amjadalispeaks, #tiktok, #foryou, #worldleaders"
+    hashtags: "#amjadalispeaks, #foryou, #tiktok, #amazon"
   - username: "sukanyatamilponnu"
     fullname: >-
       Sukanya Chinnaswamy 

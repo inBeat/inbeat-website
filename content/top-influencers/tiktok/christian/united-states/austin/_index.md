@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In Austin In 2023
+title: Top 10 Christian TikTok Influencers In Austin In 2024
 description: >-
-  Find top christian TikTok influencers in Austin in 2023. Most popular hashtags: #christian #jesus #duet #fyp.
+  Find top christian TikTok influencers in Austin in 2024. Most popular hashtags: #christian #jesus #duet #fyp.
 platform: TikTok
-hits: 61
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 61 TikTok influencers like this in Austin, United States for you to collaborate.
+hits: 62
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 62 TikTok influencers like this in Austin, United States for you to collaborate.
 profiles:
   - username: "chickensoldier"
     fullname: >-
@@ -55,18 +55,6 @@ profiles:
     id: ckdcko5vwmpsm0j23pex4oa05
     verified: false
     hashtags: "#yumeko, #toiletboundhanakokun, #hanakokun, #monokumacosplay"
-  - username: "lds.hype.house"
-    fullname: >-
-      LDS Hype House
-    bio: >-
-      welcome to the lds hype house! remember God loves you no matter who you are!
-    location: "United States"
-    followers: 4288
-    engagement: 1860
-    commentsToLikes: 0.079261
-    id: ckbloxh0pgn9g0j237gyv1plr
-    verified: false
-    hashtags: "#prolds, #stakedance, #missionary, #mormon"
   - username: "austin_klesath2"
     fullname: >-
       Austin Klesath
@@ -121,10 +109,22 @@ profiles:
     bio: >-
       Insta: Treston.Henderson Musical Theatre 🤩🎊🎭
     location: "United States"
-    followers: 5497
-    engagement: 1196
-    commentsToLikes: 0.098402
+    followers: 20500
+    engagement: 1334
+    commentsToLikes: 0.048668
     id: ckdi70ng58qmf0j23r1cnpwz0
     verified: false
-    hashtags: "#theatre, #singer, #duet, #dance"
+    hashtags: "#funny, #gospelsinging, #love, #duet"
+  - username: "emilymikus_"
+    fullname: >-
+      emily mikus 
+    bio: >-
+      Jesus loves you more than anyone on this earth ever could!
+    location: "United States"
+    followers: 73700
+    engagement: 1773
+    commentsToLikes: 0.018430
+    id: cka9spag7ahai0i7824ax53j1
+    verified: false
+    hashtags: "#trending, #geicolipsync, #christian, #jesus"
 ---

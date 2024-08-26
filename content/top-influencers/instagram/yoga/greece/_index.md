@@ -1,12 +1,60 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Greece In 2023
+title: Top 10 Yoga Instagram Influencers In Greece In 2024
 description: >-
-  Find top yoga Instagram influencers in Greece in 2023. Most popular hashtags: #yoga #yogapractice #yogalife #yogainspiration.
+  Find top yoga Instagram influencers in Greece in 2024. Most popular hashtags: #yogapractice #yoga #yogalife #yogainspiration.
 platform: Instagram
-hits: 22
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 22 Instagram influencers like this in Greece for you to pitch.
+hits: 30
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database holds 30 Instagram influencers like this in Greece for you to connect with.
 profiles:
+  - username: "i_am_margarette_story"
+    fullname: >-
+      𝐛𝐲 M𝐚𝐠𝐠𝐢𝐞 | Vɪᴇɴɴᴀ
+    bio: >-
+      STEP UP YOUR STYLE Cycling • Yoga • Pilates • Fashion • Interior • Mindset YOGA & PILATES INSTRUCTOR @yoga_pilates_lounge_by_maggie
+    location: "Greece"
+    followers: 29168
+    engagement: 220
+    commentsToLikes: 0.017190
+    id: ck0uby8ilflaq0i19atmtu6df
+    verified: false
+    hashtags: "#roadbike, #lifebehindbars, #bikelife, #instabike"
+  - username: "agichristine"
+    fullname: >-
+      𝐀𝐆𝐍𝐄𝐒 𝐂𝐇𝐑𝐈𝐒𝐓𝐈𝐍𝐄 𝐅𝐈𝐒𝐂𝐇𝐄𝐑
+    bio: >-
+      @bossmodelsa #yoga & #running ☀️ 📍Zurich @agichristine_moves @themixmvmt / #DigitalCreator / @agichristine_creates oh, also love #Mountains 🏔️🏕️
+    location: "Greece"
+    followers: 19125
+    engagement: 155
+    commentsToLikes: 0.046255
+    id: ck5busxzhidu30i1148g98kmn
+    verified: false
+    hashtags: "#snorklingtrip, #adidaswomen, #mermaidlife, #snorkeliningreece"
+  - username: "bahayogi"
+    fullname: >-
+      Alex Kaufmann
+    bio: >-
+      more practice, less ego✨ @vibexflowretreats @baharoots @fashionnova — yoga classes, retreats & workshops 👇🏽
+    location: "Greece"
+    followers: 502208
+    engagement: 20
+    commentsToLikes: 0.000937
+    id: ck5c6tps966bo0i117t62zu10
+    verified: false
+    hashtags: "#fashionnova"
+  - username: "poschstyle"
+    fullname: >-
+      Anna Posch
+    bio: >-
+      @theposchstylestudio Yoga Teacher + Lifestyle Content Creator 300YTT One Movement Yoga w/ Dylan Werner 200YTT w/ Briohny Smyth & Dice Ida-Klein
+    location: "Greece"
+    followers: 26530
+    engagement: 9
+    commentsToLikes: 0.001797
+    id: ckaorrayzoe960i781ef6cf0t
+    verified: false
+    hashtags: "#kiehlssince1851, #kiehlsat, #fitness, #skincare"
   - username: "miaevgeniadi"
     fullname: >-
       Miamorethananasana
@@ -79,52 +127,4 @@ profiles:
     id: ck8t0h0njs16e0j78as8sjtn7
     verified: false
     hashtags: "#bodypositivity, #igyogafamily, #yogaonline, #handstandlovers"
-  - username: "mariada.s.pieridi"
-    fullname: >-
-      MARIADA PIERIDI SOI
-    bio: >-
-      MUSICIAN CERTIFIED YOGA TEACHER .YAI. founder: @athloyoga SUSTAINABLE CITIZEN FOOD TRAVELER
-    location: "Greece"
-    followers: 49498
-    engagement: 236
-    commentsToLikes: 0.019785
-    id: ck13cg5ct06bk0i19ocmb7ide
-    verified: true
-    hashtags: "#staypositive, #singer, #yoga, #influencer"
-  - username: "memevictim2000x"
-    fullname: >-
-      Sauced
-    bio: >-
-      actress, singer, dancer, model, hiker, fitness pro, yoga fanatic, food lover, mom of two loving sons, sister, daugther, wife, vegan, hummus
-    location: "Greece"
-    followers: 2156
-    engagement: 1999
-    commentsToLikes: 0.040222
-    id: ck1354cwgzn6y0i19zghp7ny9
-    verified: false
-    hashtags: "#wcw"
-  - username: "samantha__elizabeth_"
-    fullname: >-
-      Samantha Elizabeth
-    bio: >-
-      one beautiful soul in a collective consciousness ♾ living life like everything I desire is already mine 🤍
-    location: "Greece"
-    followers: 19674
-    engagement: 152
-    commentsToLikes: 0.037010
-    id: ck6u7yci7odz40j717n7m5k2n
-    verified: false
-    hashtags: "#yogachallenge, #selflove, #selfcare, #yoga"
-  - username: "evi_sa"
-    fullname: >-
-      Evi Saltaferidou
-    bio: >-
-      •Fitness coach •Indoor cycling instructor🚲 •Survivor 2018🥥🌴 @newbalance Ambassador #teamNB YouTube⬇️
-    location: "Greece"
-    followers: 47645
-    engagement: 1082
-    commentsToLikes: 0.380037
-    id: ck6toav67d1hh0j710a0b2pj7
-    verified: false
-    hashtags: "#evisa, #evisaltaferidou, #coach, #loveyourbody"
 ---

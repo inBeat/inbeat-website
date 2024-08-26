@@ -1,11 +1,11 @@
 ---
-title: Top 10 Stylists TikTok Influencers In Miami In 2023
+title: Top 10 Stylists TikTok Influencers In Miami In 2024
 description: >-
-  Find top stylists TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #fashion #ootd #style.
+  Find top stylists TikTok influencers in Miami in 2024. Most popular hashtags: #fyp #fashion #ootd #style.
 platform: TikTok
 hits: 4
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 4 TikTok influencers like this in Miami, United States for you to pitch.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat has 4 TikTok influencers like this in Miami, United States for you to pitch.
 profiles:
   - username: "olgaferrara_ny"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.066677
     id: ckb9my5cdge2o0j23czireqt8
     verified: false
-    hashtags: "#nycstylist, #summer2020, #morph, #fashion"
+    hashtags: "#nycfashionstylist, #nycfashionblogger, #nycinfluencer, #morph"
   - username: "marina.b.style"
     fullname: >-
       Marina B. Style
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.008237
     id: ck90tz3ogunla0j78gnla1iov
     verified: false
-    hashtags: "#christmas, #decorating, #interiordesign, #decoration"
+    hashtags: "#decoration, #fyp, #athome, #miami"
   - username: "ariahmaray"
     fullname: >-
       Ariah Smith
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.018153
     id: ck9dyej4qwz2a0j78oggtajqt
     verified: false
-    hashtags: "#swim, #swimwear, #provewhatspossible, #puertorico"
+    hashtags: "#ootd, #provewhatspossible, #newyorkcheck, #fashion"
   - username: "gramacarolyn"
     fullname: >-
       GramaCarolyn
@@ -102,19 +102,19 @@ profiles:
     commentsToLikes: 0.050905
     id: ck8vtijhbgby80j78ng3gjcha
     verified: false
-    hashtags: "#makeup, #vintagevibes, #merrychristmas, #cosplay"
+    hashtags: "#vintagefashion, #vintagevibes, #merrychristmas, #vintagestyle"
   - username: "beebins"
     fullname: >-
       Beebins 
     bio: >-
-      Hair stylist,Green Cheek Conure mommy to Piper! In memory of my parakeet, Kevin
+      Hair stylist, Bird mommy!!
     location: "United States"
-    followers: 33500
-    engagement: 1188
-    commentsToLikes: 0.076545
+    followers: 33400
+    engagement: 1276
+    commentsToLikes: 0.094251
     id: ckae4h3et2e2d0i78fsjwbszv
     verified: false
-    hashtags: "#blackstock37, #chuuby, #disney, #sunconure"
+    hashtags: "#chuuby, #disney, #sunconure"
   - username: "carmaheartsyou"
     fullname: >-
       🧸🎀⛓𝖈𝖆𝖗𝖒𝖆 ⛓🎀🧸

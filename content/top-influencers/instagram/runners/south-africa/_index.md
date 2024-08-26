@@ -1,36 +1,72 @@
 ---
-title: Top 10 Runners Instagram Influencers In South Africa In 2023
+title: Top 10 Runners Instagram Influencers In South Africa In 2024
 description: >-
-  Find top runners Instagram influencers in South Africa in 2023. Most popular hashtags: #southafrica #skin #trainingcamp #girlpower.
+  Find top runners Instagram influencers in South Africa in 2024. Most popular hashtags: #run #running #runner #southafrica.
 platform: Instagram
-hits: 9
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 9 Instagram influencers like this in South Africa for you to contact.
+hits: 13
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 13 Instagram influencers like this in South Africa for you to contact.
 profiles:
+  - username: "1sebi"
+    fullname: >-
+      Sebastian Frey
+    bio: >-
+      ☁️ professional runner @on | OAC Europe 🏆3x national records 🇦🇹16x national champion
+    location: "South Africa"
+    followers: 44425
+    engagement: 1011
+    commentsToLikes: 0.011608
+    id: cllok3f99rop30j08yuz7kdfc
+    verified: false
+    hashtags: "#trackandfield, #dreamon, #runner, #on"
+  - username: "rcaofficiel"
+    fullname: >-
+      Raja Club Athletic
+    bio: >-
+      🏆3-time winners of African Champions’ League 🌍FIFA Club World Cup 2013 Runners-up 🇲🇦Morocco’s Club of the 20th Century 🏆3-time winners of #CAFCC
+    location: "South Africa"
+    followers: 3423698
+    engagement: 121
+    commentsToLikes: 0.005795
+    id: ck0tzn83dqztt0i1906h3ht12
+    verified: true
+    hashtags: "#asgnn"
   - username: "kaminipather"
     fullname: >-
       Kamini Like Harmony
     bio: >-
-      Host of #GirlEatWorldTV @Netflix SAFTA winner @MasterChef_SA winner S2. Runner.
+      Host of #GirlEatWorldTV @Netflix @MasterChef_SA winner S2 @nutritionschool certified Nutrition & Health Coach Runner. Dog-person.
     location: "South Africa"
-    followers: 36569
-    engagement: 148
-    commentsToLikes: 0.144325
+    followers: 37230
+    engagement: 89
+    commentsToLikes: 0.050337
     id: ckaost6k2szaw0i78ocytqyhn
     verified: true
-    hashtags: "#food, #supportlocal, #win, #competition"
-  - username: "iamliloh"
+    hashtags: "#wine, #run, #cooking, #runrunrun"
+  - username: "liquorose"
     fullname: >-
-      Lilian Loth
+      Roseline Afije
     bio: >-
-      📍🇿🇦🇹🇿 MISS AFRICA 2nd PRINCESS MISS UNIVERSE 🇹🇿1st runner up 2016/2017 Miss Earth Tz 20 model management 🇿🇦 Tz for bookings, borrymbaraka@gmail.com
+      1st Runner up BBNaija 6 Official FAN PAGE: @liquolions_ Entertainer , A&R Author ✍️ Bookings: helloliquorose@gmail.com Mgt: @playmanagementafr
     location: "South Africa"
-    followers: 16811
-    engagement: 418
-    commentsToLikes: 0.027605
-    id: ck6ue9b6xpkjz0j7193o4damf
+    followers: 3253617
+    engagement: 166
+    commentsToLikes: 0.033718
+    id: ck14hzwa9cyp40i192yergk4l
     verified: false
-    hashtags: "#southafrica, #stayhome, #capetown, #staysafe"
+    hashtags: "#chivido, #monsterenergy, #daddyslovemovie, #ikejacitymall"
+  - username: "lifeofmikeza"
+    fullname: >-
+      Michael Eloff
+    bio: >-
+      Content Creator | Adventurer | Time-lapser | Runner Content Creation @thepalmtribe 📸 @sonyalphasa Ambassador
+    location: "South Africa"
+    followers: 91751
+    engagement: 52
+    commentsToLikes: 0.096311
+    id: ck0ttipo72w7w0i1977llmyp6
+    verified: false
+    hashtags: "#ravinalaairports, #folkgood, #discoverearth, #coronaisland"
   - username: "jborlee"
     fullname: >-
       Jonathan Borlee
@@ -55,64 +91,40 @@ profiles:
     id: ck0w354j5rnl80i196h2seum2
     verified: true
     hashtags: "#katespadeth, #loveinspades, #patluxurygroup, #utccxmissthailand"
-  - username: "rcaofficiel"
+  - username: "benjiilobo"
     fullname: >-
-      Raja Club Athletic
+      Benjamin Lobo Vedel
     bio: >-
-      🏆3-time winners of African Champions’ League 🌍FIFA Club World Cup 2013 Runners-up 🇲🇦Morocco’s Club of the 20th Century 🦅#DimaRaja
+      @nike athlete | 200 & 400 🇩🇰 National Record Holder 🔸 @rosassociati
     location: "South Africa"
-    followers: 1625202
-    engagement: 104
-    commentsToLikes: 0.011473
-    id: ck0tzn83dqztt0i1906h3ht12
-    verified: true
-    hashtags: "#clubofthecentury, #usm, #dimaraja, #goaloftheday"
-  - username: "lucycharles93"
-    fullname: >-
-      Lucy Charles-Barclay
-    bio: >-
-      Red Bull Athlete - Pro Triathlete 🥈Ironman Worlds 2019, 18 &17 🥇Challenge Roth 2019 🥇Challenge Champs 2019,18 &17 🥇Ironman African Champs 2019 &18
-    location: "South Africa"
-    followers: 349964
-    engagement: 417
-    commentsToLikes: 0.009073
-    id: ck0tu9p7x684a0i19wutnjfye
-    verified: true
-    hashtags: "#wahooligan, #runlikeagirl, #mondaymotivation, #knowledgeisprogress"
-  - username: "_nicolecapper"
-    fullname: >-
-      NICOLE AUSTIN
-    bio: >-
-      🌿 Pharmacist & Presenter Communications Specialist Spokesperson @sponsors_of_brave Brave Adventurer @theimpacthub @uprisingza SurvivorSA S7 RunnerUp
-    location: "South Africa"
-    followers: 48350
-    engagement: 210
-    commentsToLikes: 0.040673
-    id: ck14ivoanhd8m0i19ft6ld7m8
+    followers: 7557
+    engagement: 565
+    commentsToLikes: 0.011713
+    id: ckaoxmogvdwqt0i78zipoanib
     verified: false
-    hashtags: "#nails, #photo, #mua, #skin"
-  - username: "christelvdbergh"
+    hashtags: "#runners, #sprinting, #athleticstandard, #trackandfield"
+  - username: "jmstander"
     fullname: >-
-      Christel van den Bergh
+      Jean-Marié Neethling Stander
     bio: >-
-      Actress, adventure seeker, animal lover, optimist, dreamer, believer.Runner.Proudly South African 🇿🇦 @inoarsouthafrica @suamedi_aesthetic
+      mom • wife • @_thebelmont_ Running + life Athlete : @burnt.studios 🧡 @phformula_southafrica @garyromhair shop Burnt through my link👇🏼
     location: "South Africa"
-    followers: 30191
-    engagement: 323
-    commentsToLikes: 0.015998
-    id: ck13d6jfe3x7z0i19k7231r8s
+    followers: 29384
+    engagement: 374
+    commentsToLikes: 0.042400
+    id: ck0w1z40zlukc0i19t2ibahu3
     verified: false
-    hashtags: "#lockdown, #crueltyfree, #socialdistancing, #ilovedogs"
-  - username: "alucab_usa"
+    hashtags: "#thebelmontfh, #madetomove, #franschhoek, #run"
+  - username: "hope_mbhele"
     fullname: >-
-      Alu-Cab USA
+      Hope Mbhele
     bio: >-
-      The Ultimate Overland Products. Built in Cape Town, South Africa 🇿🇦 Available in North America from @ok4wd and select premium outfitters 🔧
+      God - Creative - 📻 📺 🎭 - African Margarine
     location: "South Africa"
-    followers: 26647
-    engagement: 181
-    commentsToLikes: 0.012848
-    id: ck5ckvo26xp9s0i11epsfkrdb
+    followers: 245652
+    engagement: 1021
+    commentsToLikes: 0.008030
+    id: ck8t080zfr52w0j78198t3w7a
     verified: false
-    hashtags: "#overland, #alucab, #overlandevolution, #adventurer"
+    hashtags: "#4smiles, #healthylifestyle, #healthyliving, #mhlakahope"
 ---

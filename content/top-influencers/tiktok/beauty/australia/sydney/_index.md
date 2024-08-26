@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Sydney In 2023
+title: Top 10 Beauty TikTok Influencers In Sydney In 2024
 description: >-
-  Find top beauty TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #beauty #sydney #foryou.
+  Find top beauty TikTok influencers in Sydney in 2024. Most popular hashtags: #fyp #beauty #sydney #foryou.
 platform: TikTok
-hits: 21
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 21 TikTok influencers like this in Sydney, Australia for you to work with.
+hits: 22
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our database holds 22 TikTok influencers like this in Sydney, Australia for you to work with.
 profiles:
   - username: "apreldiana"
     fullname: >-

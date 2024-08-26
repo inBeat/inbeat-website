@@ -1,11 +1,11 @@
 ---
-title: Top 10 Jiu-Jitsu Fighters TikTok Influencers In 2023
+title: Top 10 Jiu-Jitsu Fighters TikTok Influencers In 2024
 description: >-
-  Find top jiu-jitsu fighters TikTok influencers in 2023. Most popular hashtags: #jiujitsu #fyp #foryoupage #foryou.
+  Find top jiu-jitsu fighters TikTok influencers in 2024. Most popular hashtags: #jiujitsu #fyp #foryou #foryoupage.
 platform: TikTok
 hits: 80
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our platform holds 80 TikTok influencers like this for you to connect with.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our database holds 80 TikTok influencers like this for you to connect with.
 profiles:
   - username: "faithfullyme"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.007809
     id: ck9si7z0lxe600j784jzztt6d
     verified: false
-    hashtags: "#fyp, #jiujitsu, #funny, #trend"
+    hashtags: "#mom, #trend, #fyp, #wrestling"
   - username: "mikesaffaie"
     fullname: >-
       Mike Saffaie
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.010242
     id: ck976tjkg10770j78prs4gapn
     verified: false
-    hashtags: "#foryou, #bowhunting, #archery, #foryoupage"
+    hashtags: "#foryou, #hoytarchery, #community, #kuiunation"
   - username: "jasonwesley_"
     fullname: >-
       Jason 

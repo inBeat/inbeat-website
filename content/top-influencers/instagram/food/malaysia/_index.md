@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Malaysia In 2023
+title: Top 10 Food Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top food Instagram influencers in Malaysia in 2023. Most popular hashtags: #workout #throwback #langkawi.
+  Find top food Instagram influencers in Malaysia in 2024. Most popular hashtags: #foodstagram #foodphotography #foodporn.
 platform: Instagram
-hits: 166
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 166 Instagram influencers like this in Malaysia for you to contact.
+hits: 178
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 178 Instagram influencers like this in Malaysia for you to connect with.
 profiles:
-  - username: "dududedoodle"
+  - username: "med.chou"
     fullname: >-
-      DuDu Kent
+      mohamed.choukani | 🇹🇳
     bio: >-
-      Art, Coffee, Food and Travel #DuDuXplores #DuDuCoffeeArt ✉️dududedoodle@gmail.com
+      FOOD & TRAVEL CONTENT CREATOR @eatlikealocal_tn Medchou.contact@gmail.com
     location: "Malaysia"
-    followers: 60959
-    engagement: 153
-    commentsToLikes: 0.005005
-    id: ck136puxd7ocb0i19eu71b4fl
-    verified: false
-    hashtags: "#dududedoodle, #igfeedsmenarik, #coffeepainting, #my"
-  - username: "sueannekang"
-    fullname: >-
-      Sueanne 施格
-    bio: >-
-      努力洗版丢回照片中⚠️ TRAVEL ADDICT ✈️✨ FOODIE 🍣 👩‍👦 Penang 🇲🇾 🔗 小红书： sueannekang Food page @sueanneeats #sueanneeats #sueannetravel #sueannestaycation ♥️
-    location: "Malaysia"
-    followers: 211331
-    engagement: 65
-    commentsToLikes: 0.016611
-    id: ck5px66voqb0s0i114cja9a4o
-    verified: false
-    hashtags: "#sueannetravel, #sueanneinlangkawi, #sueanneeats, #cuticutimalaysia"
-  - username: "winniek_my"
-    fullname: >-
-      Winnie K
-    bio: >-
-      Recording artiste/Singer/Performer/Model Bachelor Degree in Business Admin 👩🏻‍🎓 ❤️Travel,Fashion,Food,Coffee🍫☕️ wkproduction@gmail.com
-    location: "Malaysia"
-    followers: 305977
-    engagement: 88
-    commentsToLikes: 0.104950
-    id: ck5zotkhyraxs0i14pe1m3368
-    verified: true
-    hashtags: "#healthiswealth, #hydrogen, #healthylifestyle, #healthapp"
-  - username: "blogitwithaqsa_"
-    fullname: >-
-      ✨ AQSA ALI ✨
-    bio: >-
-      🔆 Welcome to my Instagram 🔆 Fashion•beauty•lifestyle•food Dm for PR/ Collab / review 📥 Pakistan, Karachi 📍🇵🇰
-    location: "Malaysia"
-    followers: 25338
-    engagement: 185
-    commentsToLikes: 0.078883
-    id: ck0vxl3nmzfk80i19bvk8axkb
+    followers: 572365
+    engagement: 436
+    commentsToLikes: 0.062156
+    id: cl8vb6ad2ab380i23gx2w1bpv
     verified: false
     hashtags: ""
-  - username: "alfredchia"
+  - username: "traveggo"
     fullname: >-
-      Alfred chia
+      找蔬食 Hao&Yang
     bio: >-
-      •KUL / PEN •MY 📍 •Travel || Lifestyle || Food || Gym
+      蔬食飲食｜環保永續｜簡單生活 Vegan Couple, Taiwan - 𝑌𝑜𝑢𝑇𝑢𝑏𝑒 #找蔬食 @traveggo.foodie @traveggo.store @traveggo.okonomiyaki - ✉️ traveggo@gmail.com -
     location: "Malaysia"
-    followers: 22660
-    engagement: 361
-    commentsToLikes: 0.020491
-    id: ck5hk1g5nhmf20i11gwfyg5px
+    followers: 139315
+    engagement: 693
+    commentsToLikes: 0.014379
+    id: ck5chukn7rhqg0i11unb3deja
     verified: false
-    hashtags: "#throwback, #workout, #stayathome"
-  - username: "chromaticcharms"
+    hashtags: "#real, #holataiwan, #cathaypacific, #innaorganic"
+  - username: "foodieaparna"
     fullname: >-
-      ⒼⒾⓃⒸⒽⒺⓃ | Travel X Lifestyle
+      Aparna Joshi
     bio: >-
-      🌈 ￼Serving you a feast of vibrant grids ✈️ Traveler 🧘🏻‍♀️ Yoga practitioner 🍬 Junk food lover 🍦🍡🍫🍿🍭🍩 📸 Sony 7r Mark III
+      Entrepreneur & HR,Rajasthani Chori, Bhukkad, Homebaker, Photo freak, food xplorer. DM for invite /review /collaboration. ❤
     location: "Malaysia"
-    followers: 12835
-    engagement: 578
-    commentsToLikes: 0.024393
-    id: ckap7on5wkw6e0i78h2thmxp0
+    followers: 4342
+    engagement: 1857
+    commentsToLikes: 0.412048
+    id: ck6twgr2yrwbh0j71qc8xr1bp
+    verified: false
+    hashtags: "#indianchaiphotography, #igers, #getyourfoodinshape, #foodstyling"
+  - username: "mayablogs"
+    fullname: >-
+      Maya Khan | Influencer
+    bio: >-
+      پخیر راغلے An Afghan girl in search of good food in Islamabad! Awarded for best female photographer 🏆🧿 Dm for PR & Collaborations 🇦🇫 🇵🇰 🇹🇷
+    location: "Malaysia"
+    followers: 97970
+    engagement: 406
+    commentsToLikes: 0.084131
+    id: ck9wgy3wevgkm0j78bc2z5s8h
     verified: false
     hashtags: ""
-  - username: "aidaaziraaa"
+  - username: "kevin.voon"
     fullname: >-
-      Aida Azira Kassim 🇲🇾
+      Kevin Voon • Photographer
     bio: >-
-      Becoming the best version of myself Z’s • Lifestyle • Fashion • Food @bydaa.my @aidaazofficial DM | aidaazira.work@gmail.com
+      📷 nothing specific mostly cafe, coffee, food and myself
     location: "Malaysia"
-    followers: 303595
-    engagement: 104
-    commentsToLikes: 0.025956
-    id: ck5c0zokcu5s50i11d84f8p0s
+    followers: 15268
+    engagement: 393
+    commentsToLikes: 0.014820
+    id: ck55q9k0zcic00i11s0pts82u
     verified: false
-    hashtags: "#followersappreciation, #glowupeveryday, #mco, #scarfree"
-  - username: "sabrina810914"
+    hashtags: "#humansofcoffee, #coffeespot, #mycafefood, #mycafe"
+  - username: "pearlple_"
     fullname: >-
-      Sabrina吳怡德 🦋
+      PL
     bio: >-
-      ✶Taiwanese🇹🇼/NTU台大 ✶Founder:🥊 @kingbox_muaythaicenter 金霸泰拳 ✶Work:📥sabrina.wuite@gmail.com All day I dream about food : @sabrinalovefood 🤤
+      Your pearlsonal food plug 🔌 💌 : 𝓁𝑒𝓉𝓈𝑔𝑒𝓉𝓅𝑒𝒶𝓇𝓁𝓈𝑜𝓃𝒶𝓁@𝑔𝓂𝒶𝒾𝓁.𝒸𝑜𝓂
     location: "Malaysia"
-    followers: 64471
-    engagement: 174
-    commentsToLikes: 0.016067
-    id: ckaozbiwzl4yl0i78d7v49qz9
-    verified: true
-    hashtags: "#muaythaigirls, #exercise, #muaythai, #fitness"
-  - username: "rainy_lly"
-    fullname: >-
-      Rainy Lly ( Loke Li Yin )
-    bio: >-
-      🚶🏼‍♀️ Miles to go for dreams ☂️ Online Media Editor (FoodTravelPlayKL) ☂️ Math Tutor 💌 DM / Email for Collab
-    location: "Malaysia"
-    followers: 124647
-    engagement: 143
-    commentsToLikes: 0.014389
-    id: ck5q822zz43mu0i11nnjat8es
+    followers: 7593
+    engagement: 377
+    commentsToLikes: 0.019000
+    id: ck8t8wssim4yv0j787dffyc3z
     verified: false
-    hashtags: "#modosinternational, #cnywithsoonthyehang, #newyeargift, #sudiomoments"
-  - username: "angel.nggg"
+    hashtags: "#winelover, #sundays, #hennessymy, #hennessybestsavouredtogether"
+  - username: "foodiesistersnepal"
     fullname: >-
-      A N G E L 慧慧 🦄
+      Foodie Sisters Nepal
     bio: >-
-      Lifestyle | Beauty | Fitness | Food | Pet | Travel 🐶 @happy_little_pom 💋 TikTok : angel.ngggg 📩 Job enquiry > Dm | email angelngnkh@gmail.com
+      👭Two sisters❤️ 🍀 DM for Collaboration/ review 🍀 #foodiesistersnepal #foodofam #FSNcooks
     location: "Malaysia"
-    followers: 121271
-    engagement: 312
-    commentsToLikes: 0.004086
-    id: ck8sy1ay6jdxc0j78i93iv46o
+    followers: 27104
+    engagement: 376
+    commentsToLikes: 0.020269
+    id: ckap51n5y9s3k0i78qlzxrpv4
     verified: false
-    hashtags: "#chor5, #chor3, #chor2, #chor1"
+    hashtags: "#foodbuzz, #foodlovery, #trending, #instadaily"
+  - username: "iamnazirul"
+    fullname: >-
+      Nazirul Hakim | Kampung Boy
+    bio: >-
+      Food, Travel, Countryside, Lifestyle 📩 nazirularman94@gmail.com TRIP KG TEMAN 👇🏻
+    location: "Malaysia"
+    followers: 173087
+    engagement: 511
+    commentsToLikes: 0.037643
+    id: ck5hjwudbhdzx0i11f1c114w7
+    verified: false
+    hashtags: "#nostalgia, #uzbekistan, #smilingwestjava, #terbangasikdarikertajati"
+  - username: "miss_polkadot"
+    fullname: >-
+      Miss Polkadot
+    bio: >-
+      🇸🇬SG Beauty💃🏻Lifestyle🍴Foodie 📩DM for Collabs 🥘Featured on Straits Times 2018 👩🏻‍🍳Cooking & Photography 💃🏻SG Influencer 📸Food & Product Photographer
+    location: "Malaysia"
+    followers: 12715
+    engagement: 455
+    commentsToLikes: 0.180249
+    id: ckaorsspsolg90i78k4bysrn4
+    verified: false
+    hashtags: "#partnership, #mediainvitation, #misspolkadotcooking, #01"
+  - username: "miamnmmm"
+    fullname: >-
+      Mia Chai
+    bio: >-
+      Travel • Food • Love @oleles.co @facebyoleles @landofmia 📧 miawork930@outlook.com
+    location: "Malaysia"
+    followers: 303953
+    engagement: 272
+    commentsToLikes: 0.001558
+    id: ck14kfjcrp9sx0i19kgoh6r5j
+    verified: false
+    hashtags: "#brickfest, #bydwinghin, #macskinartistry, #jeju"
 ---

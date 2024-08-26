@@ -1,12 +1,36 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Australia In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Australia In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Australia in 2023. Most popular hashtags: #tattoo #japanesetattoos #atg.
+  Find top tattoo-artists Instagram influencers in Australia in 2024. Most popular hashtags: #tattoo #finelinetattoo #inked.
 platform: Instagram
-hits: 50
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 50 Instagram influencers like this in Australia for you to collaborate.
+hits: 57
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 57 Instagram influencers like this in Australia for you to connect with.
 profiles:
+  - username: "lozpicartistry"
+    fullname: >-
+      PERTH MAKEUP ARTIST
+    bio: >-
+      P E R T H M A K E U P A R T I S T ▫️Makeup Artist▫️Brow Tattoo Artist Enquiries & bookings 📧 lozpicartistry@gmail.com 🚫 No Sundays 📍BALDIVIS
+    location: "Australia"
+    followers: 27809
+    engagement: 133
+    commentsToLikes: 0.006438
+    id: ck0tyg0almnpw0i19y02jd9zk
+    verified: false
+    hashtags: "#perthhairstylist, #makeupartistperth, #makeuplover, #glammakeup"
+  - username: "cocoloberg"
+    fullname: >-
+      COCO LOBERG
+    bio: >-
+      ❤️ FINE LINE TATTOO ARTIST. PHOTOGRAPHER. WRITER. ❤️ lic no: 103333 Currently Gold Coast Bookings on link
+    location: "Australia"
+    followers: 58278
+    engagement: 81
+    commentsToLikes: 0.019058
+    id: ck5bxevdqnlay0i11ojllop1h
+    verified: false
+    hashtags: "#finelinetattoo, #tattooartist"
   - username: "tattoosbycolin"
     fullname: >-
       Colin Woolford
@@ -79,18 +103,6 @@ profiles:
     id: ck8t986szn6wn0j78hphyi6mx
     verified: false
     hashtags: "#australiantattoo, #delicatetattoo, #dotwork, #microrealism"
-  - username: "cocoloberg"
-    fullname: >-
-      COCO LOBERG
-    bio: >-
-      ❤️ 23. TATTOO ARTIST. PHOTOGRAPHER. WRITER. ❤️ @cocobonnieloberg For AUS bookings, Email k@absolutetattoo.com.au My book ‘Mercy’ is available now!
-    location: "Australia"
-    followers: 54062
-    engagement: 110
-    commentsToLikes: 0.010299
-    id: ck5bxevdqnlay0i11ojllop1h
-    verified: false
-    hashtags: ""
   - username: "yveath"
     fullname: >-
       𝐘𝐕𝐄 | Moved to @yvetattoos
@@ -107,24 +119,12 @@ profiles:
     fullname: >-
       Ｒ Ｙ Ａ Ｎ    Ｕ Ｓ Ｓ Ｈ Ｅ Ｒ
     bio: >-
-      Artist/Owner @lighthouse_tattoo SYD-AUS FOR ALL ENQUIRIES PLEASE EMAIL contact@usshertattoos.com @beers_and_bullshit Lic: 102910 TEEK WINT STEVIE ❤️
+      Artist/Owner @lighthouse_tattoo NSW REP @australiantattooistsguild ENQUIRIES: contact@usshertattoos.com @vladbladirons Lic:102910 TEEK WINT STEVIE
     location: "Australia"
-    followers: 132455
-    engagement: 166
-    commentsToLikes: 0.009054
+    followers: 158857
+    engagement: 298
+    commentsToLikes: 0.002960
     id: ck5zvl7444g100i141epyia1t
     verified: false
-    hashtags: ""
-  - username: "alexrusty"
-    fullname: >-
-      ALEX RUSTY
-    bio: >-
-      Artist/owner @Lighthouse_Tattoo in Sydney🇦🇺 •taking bookings for 2021 Enquires: mail@alexrusty.com @australiantattooistsguild @the.p.t.a.a Lic010948
-    location: "Australia"
-    followers: 129564
-    engagement: 198
-    commentsToLikes: 0.003905
-    id: ckap8l92uotuk0i78l82kgazb
-    verified: false
-    hashtags: "#solidink, #alexrusty, #atg, #backpiece"
+    hashtags: "#vbiproteam, #japaneseartsydney, #lotusneedles, #lighthousetattoostudio"
 ---

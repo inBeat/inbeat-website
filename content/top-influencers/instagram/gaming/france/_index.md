@@ -1,24 +1,72 @@
 ---
-title: Top 10 Gaming Instagram Influencers In France In 2023
+title: Top 10 Gaming Instagram Influencers In France In 2024
 description: >-
-  Find top gaming Instagram influencers in France in 2023. Most popular hashtags: #gamer #cosplay #gaming #manga.
+  Find top gaming Instagram influencers in France in 2024. Most popular hashtags: #gaming #travel #cosplay #france.
 platform: Instagram
-hits: 215
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 215 Instagram influencers like this in France for you to pitch.
+hits: 221
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 221 Instagram influencers like this in France for you to collaborate.
 profiles:
+  - username: "ayternel"
+    fullname: >-
+      Ayternel
+    bio: >-
+      🎮 ¦ Gaming, High-tech & Photographie 👨‍👩‍👦‍👦 ¦ @poi.family ✉️ ¦ Ayternel@gmail.com ••• Pour suivre mes Stream Twitch 👇🏻
+    location: "France"
+    followers: 21418
+    engagement: 822
+    commentsToLikes: 0.023611
+    id: ck6tvrp0lnw250j71bybyi74s
+    verified: false
+    hashtags: "#photography, #pix, #family, #southoffrance"
+  - username: "trinity.twitch"
+    fullname: >-
+      T r i n i t y ↟ French traveler
+    bio: >-
+      ↠ Globe Twitcheuse en tour du monde en van. ↠ TV / Twitch / Hellfest Host ↠ Currently ☞ Mexico ↠ trinity-gaming@outlook.fr
+    location: "France"
+    followers: 39115
+    engagement: 389
+    commentsToLikes: 0.038718
+    id: ck14gemvj4u070i19hxhp4f2n
+    verified: false
+    hashtags: "#trinitrip, #veggie, #vanlife, #vegetarian"
+  - username: "techitserious"
+    fullname: >-
+      TechItSerious
+    bio: >-
+      Gaming - Unboxings - Vlogs... με ισχυρή δόση τρέλας! Θα μας βρεις στο YouTube!
+    location: "France"
+    followers: 170777
+    engagement: 619
+    commentsToLikes: 0.086315
+    id: ckxp82antaa6y0j23w667m3uu
+    verified: false
+    hashtags: "#subaru, #subaruwrxsti, #vlog, #subamaniacs"
   - username: "prpitaloka"
     fullname: >-
-      プリンセスピタルカ
+      Princess Pitaloka
     bio: >-
-      your curious bae🧚🏻 🎀Gaming-Cosplay-Travel-Beauty🎀 Business Inq ✉ Dm/wa:+62 896-9241-7449 (Kai) 2nd acc @heypitaloka @croffleloka_
+      🎀Gaming-Cosplay-Travel-Beauty🎀 Business Inq ✉ Dm/wa:+6289692417449 (Kai) 2nd acc @heypitaloka
     location: "France"
-    followers: 246291
-    engagement: 115
-    commentsToLikes: 0.010188
+    followers: 253744
+    engagement: 195
+    commentsToLikes: 0.010064
     id: ckapbczcizgif0i786hm9v3jk
     verified: false
-    hashtags: "#nikkeid, #toweroffantasy, #kobenicosplay, #freefire"
+    hashtags: "#kokosarang, #kobeni, #kobenicosplay, #boropod"
+  - username: "_atrinity"
+    fullname: >-
+      Nikki
+    bio: >-
+      Living in Japan 🇯🇵 @koinikkii Gaming 👾 Business: nikki.w06@outlook.com Lovely to meet you 🥰
+    location: "France"
+    followers: 7860
+    engagement: 166
+    commentsToLikes: 0.099048
+    id: ck5pvb07ogzzs0i11esewpx3t
+    verified: false
+    hashtags: "#pok, #japan, #pokemoncenter, #japanlife"
   - username: "dalohim"
     fullname: >-
       ⛓️Dalo⛓️
@@ -31,30 +79,6 @@ profiles:
     id: ckf5r6a7qbl6p0j23q19n9b1j
     verified: false
     hashtags: ""
-  - username: "ayternel"
-    fullname: >-
-      Ayternel
-    bio: >-
-      👨‍👩‍👦‍👦 ¦ Ma famille @poi.family 🎮 ¦ Gaming, High-tech & Photographie ✉️ ¦ Ayternel@gmail.com ••• Pour suivre mes Stream Twitch 👇🏻
-    location: "France"
-    followers: 19523
-    engagement: 1272
-    commentsToLikes: 0.026319
-    id: ck6tvrp0lnw250j71bybyi74s
-    verified: false
-    hashtags: "#cotedazur, #color, #photographer, #sonya7riii"
-  - username: "charlyportocarrero"
-    fullname: >-
-      Carlos Portocarrero
-    bio: >-
-      🎮🏳️‍🌈🇲🇽 #Gaymer 🔸YouTube Next Up Gaming 1st gen. 🔸Partner de LoL ✉️Contacto: charlygaymers.contacto@gmail.com Suscríbete a mi canal de YouTube aquí👇🏻
-    location: "France"
-    followers: 120956
-    engagement: 418
-    commentsToLikes: 0.007358
-    id: ck14jmo5zl4f00i19gfsak0zs
-    verified: false
-    hashtags: "#gaymer, #gay, #gamer, #pride2021"
   - username: "tellmekimy"
     fullname: >-
       𝔎𝔦𝔪𝔶-𝔠𝔥𝔲 🛸✨
@@ -102,29 +126,5 @@ profiles:
     commentsToLikes: 0.026164
     id: ckap7gghpjyv20i7883i14ys6
     verified: false
-    hashtags: "#3monthsold, #twitch, #streameuse, #grossesse"
-  - username: "geekpopgame"
-    fullname: >-
-      GeekPopGame
-    bio: >-
-      Maxime - French Gamer 🇫🇷 | #xboxseriesx | Lvl 29 Gaming & Culture geek 🎮 —— 20% sur les vêtements -> GEEKPOPGAME20 ou 10% sur tout -> GEEKPOPGAME10 👇
-    location: "France"
-    followers: 49398
-    engagement: 331
-    commentsToLikes: 0.057940
-    id: ck15pos3lywxx0i19a34ubikx
-    verified: false
-    hashtags: "#xboxonex, #reelsgaming, #gamingroomsetup, #gamersunite"
-  - username: "maniraj_officiel"
-    fullname: >-
-      Maniraj UNIQUE COMPTE
-    bio: >-
-      💻manirajofficiel@gmail.com Tiktok «maniraj_officiel» 1,5M Tiktok gaming «maniraj_gaming» 1,2M TikTok lifestyle «maniraj_life» 620K 👻 manirajofficiel
-    location: "France"
-    followers: 12821
-    engagement: 1636
-    commentsToLikes: 0.018675
-    id: ck9hczjjwnkl50j781b8gd13a
-    verified: false
-    hashtags: "#naruto, #asian, #manirajalarage, #7deadlysins"
+    hashtags: "#maman2021, #rciu, #streameuse, #petitpoicarotte"
 ---

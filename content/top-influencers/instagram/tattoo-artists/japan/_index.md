@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Japan In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Japan In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Japan in 2023. Most popular hashtags: #tattoo #art #tattooartist #tattooart.
+  Find top tattoo-artists Instagram influencers in Japan in 2024. Most popular hashtags: #tattoo #art #tattooartist #tattooart.
 platform: Instagram
-hits: 38
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: inBeat has 38 Instagram influencers like this in Japan for you to collaborate.
+hits: 39
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 39 Instagram influencers like this in Japan for you to pitch.
 profiles:
   - username: "chapi_pi_pi"
     fullname: >-
@@ -119,12 +119,12 @@ profiles:
     fullname: >-
       CCCCDDDD_
     bio: >-
-      ANIME/PINKSTYLE/GAMER/TATTOOS
+      ᴘɪɴᴋ ʙʟᴏᴏᴅ tatt shop🩸 with @jizito_zizi 🐉China🐉Shanghai 🇨🇳 ANIME/PINKSTYLE/GAMER/TATTOOS
     location: "Japan"
-    followers: 33136
-    engagement: 663
-    commentsToLikes: 0.011953
+    followers: 33774
+    engagement: 651
+    commentsToLikes: 0.008871
     id: ck5bz8oqkqnqc0i11z5dnpumc
     verified: false
-    hashtags: "#tattooartistmagazine, #gamerink, #epicgamerink, #tattooed"
+    hashtags: "#tattoos, #tattooartistmagazine, #neotraditional, #tattooistartmag"
 ---

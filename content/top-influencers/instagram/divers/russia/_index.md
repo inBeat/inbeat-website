@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers Instagram Influencers In Russia In 2023
+title: Top 10 Divers Instagram Influencers In Russia In 2024
 description: >-
-  Find top divers Instagram influencers in Russia in 2023. Most popular hashtags: #c63amgcoupe #stregishotel #underwater.
+  Find top divers Instagram influencers in Russia in 2024. Most popular hashtags: #life #nmdg2020 #mexico.
 platform: Instagram
-hits: 26
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 26 Instagram influencers like this in Russia for you to work with.
+hits: 27
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 27 Instagram influencers like this in Russia for you to connect with.
 profiles:
   - username: "roudakova.anna"
     fullname: >-
@@ -43,6 +43,18 @@ profiles:
     id: ck0txhzyxj7mc0i19wfidab5m
     verified: false
     hashtags: "#ps, #underwaterphotography, #underwater, #freediving"
+  - username: "nyusha_nyusha"
+    fullname: >-
+      NYUSHA
+    bio: >-
+      booking +7 916 889-86-06 PR +7 903 170-70-67 mngt +7 925 806-41-66 adv nyusha.marketing@bk.ru // nysha@didenokteam.com
+    location: "Russia"
+    followers: 5035224
+    engagement: 39
+    commentsToLikes: 0.011155
+    id: ck0tvyj83dcj40i194zp55huk
+    verified: true
+    hashtags: ""
   - username: "hisashasmith"
     fullname: >-
       Sasha Smith
@@ -115,16 +127,4 @@ profiles:
     id: ck5zne6froag30i1491vyyvpk
     verified: false
     hashtags: "#nomotorsdriftbase, #nmdg2020, #drift, #nomotors"
-  - username: "karina.ignatyan"
-    fullname: >-
-      Ignatyan Karina
-    bio: >-
-      Junior Eurovision 2019 🇦🇲 The Voice Kids 4✌🏻 New Wave Junior 2019, 4th place🌊 “Khaghtem”out now!
-    location: "Russia"
-    followers: 27276
-    engagement: 693
-    commentsToLikes: 0.039068
-    id: ck5c9bxnnb5qx0i11lt8e1glb
-    verified: false
-    hashtags: "#karinaignatyan, #2021, #coverbykarina, #karina"
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Health TikTok Influencers In Chicago In 2023
+title: Top 10 Health TikTok Influencers In Chicago In 2024
 description: >-
-  Find top health TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #health #chicago #comedy.
+  Find top health TikTok influencers in Chicago in 2024. Most popular hashtags: #fyp #health #funny #chicago.
 platform: TikTok
 hits: 31
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database aggregates 31 TikTok influencers like this in Chicago, United States for you to connect with.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our search engine holds 31 TikTok influencers like this in Chicago, United States for you to contact.
 profiles:
+  - username: "anotherjudy"
+    fullname: >-
+      anotherjudy
+    bio: >-
+      📍NYC Comedy | Politics | 🙋🏿‍♀️BLM Bookings: judy@anotherjudy.com
+    location: "United States"
+    followers: 8512
+    engagement: 1473
+    commentsToLikes: 0.022315
+    id: ckbf3hf65rao80j239rb8jnzz
+    verified: false
+    hashtags: "#fyp, #blacktiktok, #comedy, #normalpeople"
   - username: "dr.allison.rodgers"
     fullname: >-
       Dr. Allison Rodgers
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.063431
     id: ck9r99ycffrr90j78bhttlqi7
     verified: false
-    hashtags: "#makeup, #bffs, #birthday, #lol"
+    hashtags: "#bday, #birthday, #lol, #fashion"
   - username: "girl_firemedic76"
     fullname: >-
       Firefighter Girl
@@ -115,16 +127,4 @@ profiles:
     id: ck9gq4tjm81we0j78oz8sw9jz
     verified: true
     hashtags: "#stitch, #newmusic, #fyp, #artwork"
-  - username: "anotherjudy"
-    fullname: >-
-      anotherjudy
-    bio: >-
-      📍NYC Comedy | Politics | 🙋🏿‍♀️BLM Bookings: judy@anotherjudy.com
-    location: "United States"
-    followers: 8512
-    engagement: 1473
-    commentsToLikes: 0.022315
-    id: ckbf3hf65rao80j239rb8jnzz
-    verified: false
-    hashtags: "#comedy, #quarantine, #workdistractions, #politics"
 ---

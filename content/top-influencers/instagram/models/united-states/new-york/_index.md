@@ -1,12 +1,24 @@
 ---
-title: Top 10 Models Instagram Influencers In New York In 2023
+title: Top 10 Models Instagram Influencers In New York In 2024
 description: >-
-  Find top models Instagram influencers in New York in 2023. Most popular hashtags: #model #newyork #malemodel #nyc.
+  Find top models Instagram influencers in New York in 2024. Most popular hashtags: #model #malemodel #nyc #style.
 platform: Instagram
-hits: 935
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 935 Instagram influencers like this in New York, United States for you to contact.
+hits: 1062
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat has 1062 Instagram influencers like this in New York, United States for you to contact.
 profiles:
+  - username: "lauren_walshe"
+    fullname: >-
+      Lauren Walshe
+    bio: >-
+      🐨NEW YORK MODELS @newyorkmodelsdirect 🇺🇸. VIVIENS 🇦🇺. GTX coach @lifetime.nyc Personal trainer, NASM, CFSC.
+    location: "United States"
+    followers: 15584
+    engagement: 93
+    commentsToLikes: 0.065684
+    id: ck6trcwriy9if0j71nkletx3d
+    verified: false
+    hashtags: "#abs, #amrapworkout, #amrap, #fitness"
   - username: "diangriesel"
     fullname: >-
       Dian Griesel
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.017532
     id: ck13a932ap8bb0i19s0h3md19
     verified: false
-    hashtags: "#malemodel, #teenboy, #nextmodelsmanagement, #fitnessmotivation"
+    hashtags: "#nextmodelsnyc, #17yearsold, #fashionmodel, #teen"
   - username: "riasalvation"
     fullname: >-
       Ria Serebryakova 🌸🍃
@@ -43,30 +55,6 @@ profiles:
     id: ck5q399taju7m0i117o24mjjo
     verified: false
     hashtags: "#sustainability, #ecoage, #savetheplanet, #equipoise"
-  - username: "duboviitz"
-    fullname: >-
-      Kseniia Dubovitz(Dubovitskaia)
-    bio: >-
-      for collaboration kseniiadubovitz@gmail.com creative producer actor model New York, NY • my showreel
-    location: "United States"
-    followers: 244854
-    engagement: 83
-    commentsToLikes: 0.020510
-    id: ck5hdw770pokz0i11poqn3gu6
-    verified: true
-    hashtags: "#travel, #newyork, #film, #ny"
-  - username: "chantalmonaghan"
-    fullname: >-
-      Chantal Monaghan
-    bio: >-
-      Aussie model New York Models - Elite Milan - Select Paris - Chic Aus - Ambassador of the Ovarian Cancer Research Foundation Tony@newyorkmodels.com
-    location: "United States"
-    followers: 103983
-    engagement: 65
-    commentsToLikes: 0.047416
-    id: ck0vwpvrwuzz00i191fgiif0z
-    verified: true
-    hashtags: "#nyfw"
   - username: "trpescod"
     fullname: >-
       T.R. Pescod
@@ -102,7 +90,19 @@ profiles:
     commentsToLikes: 0.046408
     id: ck6uba3m98dg60j71v6nrcfgd
     verified: false
-    hashtags: "#instadaily, #instagood, #travel, #bestoftheday"
+    hashtags: "#bodygoals, #instafollow, #afrovibes, #shoot"
+  - username: "taylorwalkerfit"
+    fullname: >-
+      Taylor Walker Sinning
+    bio: >-
+      👩🏽‍❤️‍👨🏼Wife + Mom 2x 🤰🏽 Birth Education•Motherhood•Health + Fitness 📍 NYC + NJ Model: @newyorkmodels @cgmmodels @starsmanagement
+    location: "United States"
+    followers: 37071
+    engagement: 130
+    commentsToLikes: 0.051531
+    id: ck5hki0pgigho0i11x5k5v9zy
+    verified: false
+    hashtags: "#tayloredwithloveandlight, #ltkfamily, #ad, #liketkit"
   - username: "carolineandrea5"
     fullname: >-
       Caroline

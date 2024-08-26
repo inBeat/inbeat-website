@@ -1,11 +1,11 @@
 ---
-title: Top 10 Surf TikTok Influencers In 2023
+title: Top 10 Surf TikTok Influencers In 2024
 description: >-
-  Find top surf TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #viral #thisorthatsblv.
+  Find top surf TikTok influencers in 2024. Most popular hashtags: #fyp #foryou #viral #thisorthatsblv.
 platform: TikTok
-hits: 1038
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 1038 TikTok influencers like this for you to work with.
+hits: 1034
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 1034 TikTok influencers like this for you to connect with.
 profiles:
   - username: "ginalikestosurf"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.018836
     id: ck9el4eoz8z5f0j78tdwr0seq
     verified: false
-    hashtags: "#rollerskating, #rednoseday, #familythings, #howto"
+    hashtags: "#learnontiktok, #howto, #rollerskating, #substepchallenge"
   - username: "codynewmanmusic"
     fullname: >-
       cody newman
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.060262
     id: ckd5qgj8jxt950j23gfbrq7nm
     verified: false
-    hashtags: "#fyp, #viral, #scarystories, #straighttiktok"
+    hashtags: "#scarystories, #viral, #straighttiktok, #fyp"
 ---

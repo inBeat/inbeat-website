@@ -1,24 +1,24 @@
 ---
-title: Top 10 Travel Instagram Influencers In Los Angeles In 2023
+title: Top 10 Travel Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top travel Instagram influencers in Los Angeles in 2023. Most popular hashtags: #travel #losangeles #california #la.
+  Find top travel Instagram influencers in Los Angeles in 2024. Most popular hashtags: #losangeles #travel #la #california.
 platform: Instagram
-hits: 943
+hits: 1250
 text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 943 Instagram influencers like this in Los Angeles, United States for you to connect with.
+text_bottom: inBeat aggregates 1250 Instagram influencers like this in Los Angeles, United States for you to connect with.
 profiles:
-  - username: "melissasandora"
+  - username: "clovchoi"
     fullname: >-
-      melissa sandora
+      clover | lifestyle blogger
     bio: >-
-      Modern Family💄 Grace and Frankie💄 Hollywood Makeup Artist⭐️ Beauty Travel Los Angeles
+      LIFE | STYLE | FOOD | FASHION | TRAVEL Los Angeles and Orange County 💌cloverchoi9@gmail.com 📖Beyond the Baguette on Amazon⬇️
     location: "United States"
-    followers: 2979
-    engagement: 1049
-    commentsToLikes: 0.142506
-    id: ck5zmintsmn730i141cc8a5d6
+    followers: 8253
+    engagement: 598
+    commentsToLikes: 0.104359
+    id: cl37w9mil26sj0i23b2p2w3bj
     verified: false
-    hashtags: "#graceandfrankie, #babybowie, #netflix, #makeupartist"
+    hashtags: "#explore, #18, #ocbloggerbabes, #newenglandliving"
   - username: "losangeles_city"
     fullname: >-
       Los Angeles City
@@ -31,6 +31,30 @@ profiles:
     id: ck0u9zuqob2om0i19uuhab44e
     verified: false
     hashtags: "#america, #vacation, #visitlosangeles, #cali"
+  - username: "aishazwan"
+    fullname: >-
+      Aisha Rizwan Malik • Stylist
+    bio: >-
+      Style Curator- @aram_offl Founder- @thepopstudiochennai 🎓LADY ANDAL | NIFT 💌aysha@riz.in 📍Chennai 🇮🇳
+    location: "United States"
+    followers: 53758
+    engagement: 830
+    commentsToLikes: 0.003040
+    id: ck6u2ih7gs0tq0j71q0gvxmhl
+    verified: false
+    hashtags: "#kerala, #kasavu, #influencer, #details"
+  - username: "eddiechvn"
+    fullname: >-
+      Eduardo chan diaz
+    bio: >-
+      @mpbarbers.phhacility Sacrifice for what you want or what you want will become the sacrifice 💯
+    location: "United States"
+    followers: 28128
+    engagement: 96
+    commentsToLikes: 0.053563
+    id: ck6tme8hc7ojf0j71wv4erxzh
+    verified: false
+    hashtags: "#phoenixbarbers, #paradisevalleyaz, #miamilife, #tempebarber"
   - username: "patrikcvetko"
     fullname: >-
       Patrik Cvetko
@@ -43,88 +67,64 @@ profiles:
     id: ck5c8rbs0a2tq0i11es94k155
     verified: false
     hashtags: "#style, #newyork, #london, #portraitphotography"
-  - username: "cameracarluk"
+  - username: "krysten_wags"
     fullname: >-
-      Cameraman Carl
+      Krysten Wagner
     bio: >-
-      TikTok: cameramancarl Email for business 📩 Subscribe to my YouTube!👇🏻
+      ✨Wags✨ Actress @parksidetalent | SAG & AEA Singer, Content Creator that girl you saw on TikTok
     location: "United States"
-    followers: 260794
-    engagement: 287
-    commentsToLikes: 0.052643
-    id: ck8wd2oxxdbpf0j78dk87mlcm
+    followers: 7434
+    engagement: 781
+    commentsToLikes: 0.062708
+    id: ck0w19d67i75d0i19ecgtpq1b
     verified: false
-    hashtags: "#coronavirus, #corona, #comedyvideos, #comedy"
-  - username: "lifewitherns"
+    hashtags: "#streetstyle, #nyc, #beauty, #leoszn"
+  - username: "michellesend"
     fullname: >-
-      Erns Valdez
+      M i c h e l l e
     bio: >-
-      #foodie | #dadlife | #veteran | #artist Lvl 8 Google Guide w/74 million views ⬇️Blog|YT|FB⬇️
+      Beauty | Travel ———• Digital Creator, Curator & Content Producer. Writer. Lover of the light. Flow. ——— Founder @theevery.mx Founder @idealist.mx
     location: "United States"
-    followers: 8859
-    engagement: 229
-    commentsToLikes: 0.259635
-    id: ck6u2kfyesbm40j71oz4fn07g
+    followers: 15518
+    engagement: 583
+    commentsToLikes: 0.059317
+    id: ck14klgf6q3dl0i193tvr45lf
     verified: false
-    hashtags: "#cookingchannel, #shoprc, #teampixel, #treatyourself"
-  - username: "certifiededit"
+    hashtags: "#girl, #travelmexico, #skincare, #travel"
+  - username: "dailyhungryla"
     fullname: >-
-      Helbert Cervera
+      Carolyn | Food + Lifestyle
     bio: >-
-      🌴SoCal 🌴 Photographer/videographer Donuts n’ Wheels 🎨 🖌 Ducati monster 620 🏍🇮🇹
+      — los angeles, orange county nom stop food adventurer 🍚 🥢 ♡ traveling to my heart’s content ♡ 💌: dailyhungryLA@gmail.com for all inquires
     location: "United States"
-    followers: 8001
-    engagement: 221
-    commentsToLikes: 0.042917
-    id: ck8swx5aofjji0j78vx6wmmj4
+    followers: 37042
+    engagement: 1320
+    commentsToLikes: 0.059785
+    id: ckmw1h7j2813h0j23ws6ouv2o
     verified: false
-    hashtags: "#superstreet, #nissan, #automotivephotography, #mustangang"
-  - username: "kateatsla"
+    hashtags: "#chinesefood, #taiwanfood, #japanesefood, #travelvlog"
+  - username: "wholeenicolee"
     fullname: >-
-      Kat Eats LA
+      Nicole Johansson • Petite Biscuit
     bio: >-
-      Food & Travel 📍Los Angeles 💌: KatEatsLA@gmail.com Eating my way through LA & the rest of the world.🍽
+      #foodieinstyle #petiteplusfashion Girl Mom . Clean Beauty . PCOS Life . Foodie In Style . Water & Sunshine Always
     location: "United States"
-    followers: 57111
-    engagement: 255
-    commentsToLikes: 0.033539
-    id: ck5hnjjlqnw0l0i11vvbday19
+    followers: 260931
+    engagement: 62
+    commentsToLikes: 0.026575
+    id: ckppr68gp6gwc0j23a3f5lno0
     verified: false
-    hashtags: "#sponsored, #eatright, #rightrice, #lemonchallenge"
-  - username: "splendid_rags"
+    hashtags: "#pdxeats, #lamodel, #coquettefashion, #plusmodel"
+  - username: "shrutitiwariagnihotri"
     fullname: >-
-      Leslie Schneider
+      Shruti A | Motherhood & Travel | Los Angeles
     bio: >-
-      visual optimism. creative developer. style & travel. 📍 los angeles/orange county ✈️ travel plans on pause￼ - wear your mask 💌 leslie@splendidrags.com
+      👩‍💻Corporate Mom | Sharing Travel & Momlife 💌 Shrutitiwari373@gmail.com Published on @voyagelamag 📍California 🇮🇳 🇺🇸
     location: "United States"
-    followers: 79817
-    engagement: 195
-    commentsToLikes: 0.073070
-    id: ck14j59eiip0n0i19sfc2fi8i
+    followers: 10605
+    engagement: 313
+    commentsToLikes: 0.630595
+    id: ckpswuitua12h0j23ish9681v
     verified: false
-    hashtags: "#ad, #choosejoy, #itswonderwater, #baipartner"
-  - username: "gregchauvin"
-    fullname: >-
-      Greg Chauvin
-    bio: >-
-      💪🏻 Personal Trainer(fitness/nutrition) 📚NASM PT Certification/Equinox 👉🏻Build/tone/lose weight 📩 training@gregchauvin.com
-    location: "United States"
-    followers: 20353
-    engagement: 415
-    commentsToLikes: 0.054609
-    id: ck138qqhuhjog0i19mrz34tia
-    verified: false
-    hashtags: "#lifestyle, #fit, #california, #boy"
-  - username: "mikemuellner"
-    fullname: >-
-      Mike Muellner, M.D.
-    bio: >-
-      •Doctor with way too many hobbies •👨🏻‍⚕️🎸🎙👔📷 ✈️🏄🏻‍♂️
-    location: "United States"
-    followers: 4863
-    engagement: 112
-    commentsToLikes: 0.132540
-    id: ck0vyamed31880i19xcu3g9tp
-    verified: false
-    hashtags: "#ysl, #menshair, #photography, #streetstyle"
+    hashtags: "#indiansabroad, #indiansinusa, #merrychristmas, #reelkarofeelkaro"
 ---

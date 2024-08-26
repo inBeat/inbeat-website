@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In Chile In 2023
+title: Top 10 Divers TikTok Influencers In Chile In 2024
 description: >-
-  Find top divers TikTok influencers in Chile in 2023. Most popular hashtags: #parati #fyp #viral #greenscreen.
+  Find top divers TikTok influencers in Chile in 2024. Most popular hashtags: #parati #fyp #viral #greenscreen.
 platform: TikTok
 hits: 27
 text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat has 27 TikTok influencers like this in Chile for you to pitch.
+text_bottom: inBeat holds 27 TikTok influencers like this in Chile for you to contact.
 profiles:
   - username: "paty.anto13"
     fullname: >-

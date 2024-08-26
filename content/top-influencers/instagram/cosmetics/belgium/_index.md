@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Belgium in 2023
+title: Top 10 Cosmetics Instagram Influencers In Belgium In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Belgium in 2023. Most popular hashtags: #belgium #makeup #makeupartist #autumnvibes.
+  Find top cosmetics Instagram influencers in Belgium in 2024. Most popular hashtags: #cosmetics #skincare #belgianblogger #fashionstyle.
 platform: Instagram
-hits: 14
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 14 Instagram influencers like this in Belgium for you to collaborate.
+hits: 12
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 12 Instagram influencers like this in Belgium for you to connect with.
 profiles:
   - username: "elle_pour_elles"
     fullname: >-
       Alexandra Makeup
     bio: >-
-      Spotlight Artist @ M.A.C Cosmetics ELC Ambassador Collab ; Alexandra.dhs@hotmail.fr YouTube Channel ;
+      Spotlight Artist @ M.A.C Cosmetics ELC Ambassador 📍 Belgium YouTube Channel ;
     location: "Belgium"
-    followers: 13076
-    engagement: 604
-    commentsToLikes: 0.087330
+    followers: 13602
+    engagement: 442
+    commentsToLikes: 0.125398
     id: ckapau0xlxgmv0i78pb6id1y7
     verified: false
-    hashtags: "#75, #myartistcommunity, #velvetteddy, #peaches"
-  - username: "shaunycuypers"
+    hashtags: "#maccosmetics, #reelmakeup, #belgium, #tomfordbeauty"
+  - username: "sixobject"
     fullname: >-
-      Shauny Cuypers
+      NOVA W.
     bio: >-
-      Always in black 🕊 Natural cosmetics hello@shaunycuypers.com
+      BA Photography MA Cultural Studies creation + curation 🄾🄱🄹🄴🄲🅃🅂 of my affection & fascination 🤍🪐🍸🐩 ⠀ ✈︎: 37 countries visited
     location: "Belgium"
-    followers: 20979
-    engagement: 225
-    commentsToLikes: 0.053000
-    id: ck0w1ulfkl7ny0i191bj2fs8f
+    followers: 11545
+    engagement: 1328
+    commentsToLikes: 0.225513
+    id: cld8ldtjgdfpj0j08pp9d6g20
     verified: false
-    hashtags: "#minimal, #instastyle, #momentsofchic, #unisa"
-  - username: "miss_k_510"
+    hashtags: "#love, #aestheticedits, #gemstones, #brusselsexhibition"
+  - username: "annalaurkaaa"
     fullname: >-
-      🎀 The World Of Miss K 🎀
+      A N N A  L A U R A
     bio: >-
-      💝 Kristina 💝 📸 Life-Moments:fashion • beauty • lifestyle 📩 collab: info.missk510@gmail.com / dm 💖 Proud mom of two ⠀
+      ♡ 🎭🎼 A képek, videók felhasználása engedélyköteles!
     location: "Belgium"
-    followers: 19970
-    engagement: 452
-    commentsToLikes: 0.139177
-    id: ck136f5sx66x20i195e46bvsv
+    followers: 19917
+    engagement: 1256
+    commentsToLikes: 0.005022
+    id: ck0u6ajkj1iey0i19u80u5joz
     verified: false
-    hashtags: "#ootd, #autumnstyle, #lifestyle, #outfitideas"
-  - username: "angie.staron"
+    hashtags: "#hungarian, #baby, #spring, #babyboy"
+  - username: "tiffany_vanhille"
     fullname: >-
-      ♡ Angelika Julia ♡
+      𝓣𝓲𝓯𝓯𝓪𝓷𝔂 𝓥𝓪𝓷𝓱𝓲𝓵𝓵𝓮
     bio: >-
-      Polish 🇵🇱 | Living in Belgium 🇧🇪 ♡ Mommy of Lena ♡ 💌 angelikastaron@gmail.com
+      🌈 Owner of @nailicious_bytiffany ღ 23 | Belgium | Student Crimi ღ Fashion & Food Lover Collabs: DM or Mail
     location: "Belgium"
-    followers: 36590
-    engagement: 375
-    commentsToLikes: 0.040160
-    id: ck13cx17i2kyg0i19e14welea
+    followers: 5371
+    engagement: 173
+    commentsToLikes: 0.428498
+    id: ckqas82j5l0kj0j23qmzbulnr
     verified: false
-    hashtags: "#love, #design, #halloweenmakeup, #momlife"
-  - username: "peggytimmermans"
+    hashtags: "#fashionblogger, #ghent, #fashionstyle, #gent"
+  - username: "tinano_buchuadze"
     fullname: >-
-      Makeup artist Peggy Timmermans
+      Tinano
     bio: >-
-      💄international makeup artist ❤️loves all skin 💋beauty-fashion-advertising-corporate ♦️The Blend Box 🔻@peggytimmermansmakeup ✉️info@peggytimmermans.be
+      Marketing & PR manager 🇺🇸
     location: "Belgium"
-    followers: 20444
-    engagement: 163
-    commentsToLikes: 0.142968
-    id: ck5zixp6lgkbg0i14t89flguw
+    followers: 10317
+    engagement: 171
+    commentsToLikes: 0.132418
+    id: ck6tqijipro6t0j71f54vn7p1
     verified: false
-    hashtags: "#belgianwebshop, #womanceo, #smallbusiness, #kooplokaal"
+    hashtags: "#delfy, #financial, #szoneshop, #delfycosmetics"
+  - username: "rosalia_guzman_9"
+    fullname: >-
+      Rosalía Guzmán
+    bio: >-
+      » Freelance Influencer | Visual Content & Branding » Lifestyle, Beauty Addict & Fashion Lover » Collabs? r.guzmanromero@hotmail.com
+    location: "Belgium"
+    followers: 14096
+    engagement: 809
+    commentsToLikes: 0.137622
+    id: ckf5pg6fg5zmc0j23rclhsrdx
+    verified: false
+    hashtags: "#belgiuminfluencer, #summeroutfitinspo, #yesnakd, #benakdfashion"
   - username: "kenzovl"
     fullname: >-
       Kenzo Van Laeken
     bio: >-
-      Bearded Belgian Beauty content creater⚡️ Can’t get enough? Here’s the link to my youtube channel!
+      Bearded Belgian Beauty content creater⚡️Aquarius Can’t get enough? Here’s the link to my youtube channel!
     location: "Belgium"
-    followers: 4737
-    engagement: 956
-    commentsToLikes: 0.180728
+    followers: 6634
+    engagement: 582
+    commentsToLikes: 0.182907
     id: ck9wd1dbcdmeq0j78g7j3rtjo
     verified: false
-    hashtags: "#specialfx, #facemask, #wakeup2slay, #gay"
-  - username: "lauralynnsworld"
+    hashtags: "#wakeupandmakeup, #nyxcosmetics, #parfuma, #iciparisxlexclusive"
+  - username: "nailsuponatime"
     fullname: >-
-      LAURA ✌🏼 CONTENT CREATOR
+      🌸Béraude🌸
     bio: >-
-      MY WORLD IN PHOTOS 🎄| ANTWERP📍 🎅🏻Psychologist @your.health.coach |Engaged💍 ☃️Positive Vibes with a Hint of Travel & Health 💬lauralynnjoosten@yahoo.be
+      30, self taught nail art enthusiast from Belgium 🇧🇪 🛍️ Use Beraude15 for 15% off your Manucurist order Follow my link ⬇️
     location: "Belgium"
-    followers: 35384
-    engagement: 267
-    commentsToLikes: 0.114041
-    id: ck5zsblasy6uy0i149dirvmoh
+    followers: 47434
+    engagement: 208
+    commentsToLikes: 0.011983
+    id: ck13abxufpn7j0i19wj6ifw8z
     verified: false
-    hashtags: "#dametraveler, #ootdstyle, #exploremore, #fallishere"
-  - username: "chestermua"
+    hashtags: "#naillove, #fall, #gilmoregirls, #essielove"
+  - username: "maureennaudts"
     fullname: >-
-      𝘾𝙃𝙀𝙎𝙏𝙀𝙍 𝙅𝙐
+      Maureen Alexandra Naudts
     bio: >-
-      𝘾𝙤𝙣𝙩𝙚𝙣𝙩 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 𝘽𝙧𝙪𝙨𝙨𝙚𝙡𝙨/𝘽𝙀 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 ➡️𝙘𝙝𝙚𝙨𝙩𝙚𝙧𝙦𝙪@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢
+      ► Pro MUA ► Antwerp, BE 🇧🇪 ► APPOINTMENTS & WORKSHOPS: makeup@maureennaudts.com ► COLLABS / PR 📩 : info@maureennaudts.com
     location: "Belgium"
-    followers: 10161
-    engagement: 204
-    commentsToLikes: 0.239448
-    id: ck5bxdcwani9q0i1113j32tvk
+    followers: 521389
+    engagement: 126
+    commentsToLikes: 0.009541
+    id: ck0w050gmceps0i195vhirzz6
     verified: false
-    hashtags: "#generationbeautybay, #undiscovered, #jeffreestarcosmetics, #glammakeup"
-  - username: "l.u.n.s.s"
+    hashtags: "#makeuptransformation, #makeupcreators, #makeupreels, #makeupartist"
+  - username: "bynouchka"
     fullname: >-
-      LUNSS 💎
+      Nouchka 🦋 Personal branding fotografe 🧚🏻‍♀️
     bio: >-
-      Brussels - based, 01’s kid Animal lover & fashion addict 🌙 ✉️Contact : L.vunckx@icloud.com
+      🙋🏻‍♀️ Fotograaf, marketeer, podcasthost & brunchlover 🩷 2.500+ vrouwen geholpen met hun online zichtbaarheid 🌺 Female empowerment en mindset
     location: "Belgium"
-    followers: 12994
-    engagement: 520
-    commentsToLikes: 0.054459
-    id: ck9wdvwo1hi5j0j78591y29sl
+    followers: 14160
+    engagement: 87
+    commentsToLikes: 0.130135
+    id: ck14hkwj5atw00i194o0przji
     verified: false
-    hashtags: "#kortijk, #lifemotivationquotes, #hipeepss, #loveimperfections"
-  - username: "xmakeupyourmind"
-    fullname: >-
-      who is she
-    bio: >-
-      Full-time shapeshifter from Belgium 🇧🇪
-    location: "Belgium"
-    followers: 2600
-    engagement: 1281
-    commentsToLikes: 0.288026
-    id: ck8szq2p8patn0j78tnovul8v
-    verified: false
-    hashtags: "#new, #bodypaint, #ahs, #makeupartist"
+    hashtags: "#samenwerking, #deepdeck"
 ---

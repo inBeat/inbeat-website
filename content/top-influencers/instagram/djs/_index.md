@@ -1,130 +1,130 @@
 ---
-title: Top 10 Djs Instagram Influencers In 2023
+title: Top 10 Djs Instagram Influencers In 2024
 description: >-
-  Find top djs Instagram influencers in 2023. Most popular hashtags: #lgbtq #loveyourself #instadragqueens.
+  Find top djs Instagram influencers in 2024. Most popular hashtags: #djlife #goodvibes #housemusic.
 platform: Instagram
-hits: 2674
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 2674 Instagram influencers like this for you to connect with.
+hits: 2910
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 2910 Instagram influencers like this for you to pitch.
 profiles:
-  - username: "beacastrof"
+  - username: "deejaymathew"
     fullname: >-
-      BEATRIZ
+      Matthias Harzdorf | Mathew
     bio: >-
-      👯‍♀️1M no tiktok gemeascastrof 🎧 Deejay @djsgemeascastro ♌️ 24 anos📍013 ASSISTA O NOVO LANÇAMENTO 👇🏻
-    location: "Brazil"
-    followers: 123950
-    engagement: 149
-    commentsToLikes: 0.038229
-    id: ck5zqnteguy870i14fm3ohk9d
+      ➦ DJ & Mentor of @maskills_djschool 🎓 ➦ offiz. Promoter @hiphopkempde #hhkde ➦ Clothing @tribalgear_europe #tribalclique ➦ #frenchbulldog dad & S♥︎
+    location: "Germany"
+    followers: 11107
+    engagement: 670
+    commentsToLikes: 0.028256
+    id: ckap7cm7yjhhc0i7822cltd2b
     verified: false
-    hashtags: "#sheinbrasil, #sheingoodfinds, #sheinforall, #shein1212"
-  - username: "brisadissima"
+    hashtags: "#djfamily, #mathewontour, #djlife, #thankful"
+  - username: "wearekream"
     fullname: >-
-      Brisa
+      Ｋ Ｒ Ｅ Ａ Ｍ
     bio: >-
-      ES 🇧🇷clubqueen de vitorinha Modeling . Make . Look . Hair 🍃ARTISTAVISUAL | DRAGDJ contato inboxx | Último DJSET👇🏾
-    location: "Brazil"
-    followers: 5840
-    engagement: 2429
-    commentsToLikes: 0.157842
-    id: ck6u8gabtrf7e0j71u3nym8ze
-    verified: false
-    hashtags: "#dragperfection, #dragqueenbrasil, #dragbr, #dragbrasil"
-  - username: "bayusaptaji"
-    fullname: >-
-      Bambang Bayu Saptaji
-    bio: >-
-      Part of team @ortuseight athlete @pocarisportid Ambassador @topscoresport & @djsportapparel Kawan @ayo.indonesia 📞+82114211788 @ismipricilla
-    location: "Indonesia"
-    followers: 841697
-    engagement: 566
-    commentsToLikes: 0.029455
-    id: ck13683gv57ff0i19bxdoynws
+      Brothers / Record Producers / DJs / 🇸🇯 @liquidlabrecords ⬇️Upcoming shows⬇️
+    location: "United States"
+    followers: 168048
+    engagement: 2058
+    commentsToLikes: 0.039730
+    id: ck0vwbf7bsxzi0i19s7nv37rf
     verified: true
-    hashtags: "#aplikasibola, #ayoindonesia, #avoiceforamateurs, #aplikasiayo"
-  - username: "raquelrodallegas"
+    hashtags: "#housemusic, #melodictechno, #techhouse, #rave"
+  - username: "djruckes"
     fullname: >-
-      r a q q ✰
+      S P I D E Y
     bio: >-
-      ⋆ mx ⋆ xviii ⋆ djs // finger print // access
-    location: "France"
-    followers: 2610
-    engagement: 2962
-    commentsToLikes: 0.108825
-    id: ck5zthvko0fv50i145zxhbrap
+      Club DJ / Entrepreneur - HipHop / Open format OD @fourone.6 Pioneer DJ certified Instructor @djsplayground.my Klang 🇲🇾 #LawalahFamilia
+    location: "Malaysia"
+    followers: 14841
+    engagement: 423
+    commentsToLikes: 0.012768
+    id: ck0w3geq5t9qs0i19324ggnxw
     verified: false
-    hashtags: ""
-  - username: "adrianfyrla"
+    hashtags: "#relxinfinity, #relxholiday, #jinggigang, #djlife"
+  - username: "djtwins_official"
     fullname: >-
-      FYRLA
+      Anna Grushina
     bio: >-
-      Music Producer 🇪🇸🇦🇺 VOTE NOW! DJ MAG TOP 100 DJs👇🏼♥️
+      Official AC of Twins DJ's ⚫️Bkgs Ru/UAE/TR: +79185998526 ~ Mila ⚫️Bkgs Worldwide: sz@lgm.live ~Lana ⚫️PR: @djtwins_pr
+    location: "Russia"
+    followers: 1480980
+    engagement: 379
+    commentsToLikes: 0.009375
+    id: ck5zo291pplqp0i146yob1vxk
+    verified: false
+    hashtags: "#laladance"
+  - username: "willersfitness"
+    fullname: >-
+      Sean Willers / Music Industry Health Coach
+    bio: >-
+      🌎 Inspiring DJs from all over the world 📈 To drop pounds & cut down on partying 🎯 By building unbreakable healthy habits DM ‘ME’ for coaching details
+    location: "Germany"
+    followers: 9631
+    engagement: 359
+    commentsToLikes: 0.064892
+    id: ck8sxvb8fisxr0j78qpk8ls4e
+    verified: false
+    hashtags: "#fitnessgoals, #brothers, #transformationjourney, #transformationtuesday"
+  - username: "isyourboysinboy"
+    fullname: >-
+      Sin Boy
+    bio: >-
+      SINATION <ROPT WAVE> @alphapoporiginal Bookings : @djstephan__
+    location: "Greece"
+    followers: 265306
+    engagement: 348
+    commentsToLikes: 0.008503
+    id: ck0txgacwj0au0i19hvpb00vz
+    verified: true
+    hashtags: "#sexakichallenge"
+  - username: "djnickyrizz"
+    fullname: >-
+      DJ Nicky Rizz
+    bio: >-
+      DJ | NYC HEAVY HITTER DJs MR. YOU KNOW THE VIBES @bransoncognac @lecheminduroi
+    location: "United States"
+    followers: 17771
+    engagement: 332
+    commentsToLikes: 0.064026
+    id: ck5hme7l4lsj40i11kfxj702u
+    verified: false
+    hashtags: "#theheavyhitterdjs, #dreamhospitality, #ifeelgoodtour, #ifgt"
+  - username: "kawalofficial"
+    fullname: >-
+      DJ Kawal
+    bio: >-
+      Weaving musical tapestries / Curating sonic journeys. Awarded India’s Top 10 Djs delhiitesmagazine 2022-23 Bookings : +919577645000 hello@djkawal.com
+    location: "India"
+    followers: 126231
+    engagement: 310
+    commentsToLikes: 0.005150
+    id: ck5hkryhmiyfa0i11dvsbsg3z
+    verified: true
+    hashtags: "#nightlife, #reelsinstagram, #newyearseve, #prismhyderabad"
+  - username: "whoisaraujo"
+    fullname: >-
+      Sara de Araújo
+    bio: >-
+      • @mamboibiza Resident DJ 🧡 • @ten_ibiza • @hola_djs • Mgmt & Bookings: carlos@tenibiza.com • Ibiza📍
     location: "Spain"
-    followers: 311435
-    engagement: 201
-    commentsToLikes: 0.079649
-    id: ck5hq4q8qshsy0i11yrya6x67
-    verified: true
-    hashtags: "#yomequedoencasa, #homestudio, #teamfyrla, #music"
-  - username: "miko"
-    fullname: >-
-      Michael de Almeida Gonçalves
-    bio: >-
-      Gérant de l’Agence MULTYDE [@multyde] . 👕 @multyde.shop En tournée avec @DJSnake 📸 x 🎥 |🇫🇷 🇵🇹|
-    location: "France"
-    followers: 45571
-    engagement: 384
-    commentsToLikes: 0.057887
-    id: ck1394ijqjhct0i19m7oy689h
+    followers: 37457
+    engagement: 267
+    commentsToLikes: 0.036244
+    id: ck15slryqdnl10i197or5m7u1
     verified: false
-    hashtags: ""
-  - username: "djshmia"
+    hashtags: "#musiclovers, #ibiza2023, #ibiza, #ibiza2021"
+  - username: "titahuman"
     fullname: >-
-      S H M I A
+      Natalia M. Frezzani
     bio: >-
-      Dj 📍 London/Essex YouTube/Twitch/Snapchat/TikTok/Twitter/FB- djshmia https://www.mixcloud.com/dj-shmia/ www.twitch.tv/djshmia
-    location: "United Kingdom"
-    followers: 16142
-    engagement: 586
-    commentsToLikes: 0.076179
-    id: ck0tvpkv4calk0i196pxh6cc6
+      Hablo de sneakers, carteras, outfits y + 💫 @frezzzzzzani 💿 @tm.djs ⠀⠀⠀⠀⠀⠀
+    location: "Chile"
+    followers: 73986
+    engagement: 237
+    commentsToLikes: 0.017750
+    id: ck5qbggpili0p0i11z5mikzv8
     verified: false
-    hashtags: "#twitchstreamer, #londonrestaurants, #ladydj, #djshmia"
-  - username: "nivaix"
-    fullname: >-
-      NIVAIX
-    bio: >-
-      Duo de Djs 🎧 Nivaix.music@gmail.com #Nivaix 👇🏽🎶
-    location: ""
-    followers: 11058
-    engagement: 445
-    commentsToLikes: 0.112059
-    id: ck5q5jq7bt7ld0i1119bceq2j
-    verified: false
-    hashtags: ""
-  - username: "becomingdakota"
-    fullname: >-
-      Dakota (DJ)
-    bio: >-
-      BLACK LIVES MATTER abolish the p*lice. Here to live and love. Trans masc (He/Him) art page @djstopshop DAKOTA10//flavnt.com
-    location: "United States"
-    followers: 38672
-    engagement: 820
-    commentsToLikes: 0.012124
-    id: ck0w2awoznftz0i195l3ic1vx
-    verified: false
-    hashtags: "#queer, #flavntyourself, #ss, #preop"
-  - username: "thehesstwins"
-    fullname: >-
-      ASH x KAT
-    bio: >-
-      twins boston-based (DJs + Digital Creators)² contact@thehesstwins.com
-    location: "United States"
-    followers: 23529
-    engagement: 244
-    commentsToLikes: 0.107650
-    id: ck5hqpr03ti630i11lhbfnk7d
-    verified: false
-    hashtags: "#100daysofbaja, #summerofbaja, #superdown, #alwaysa10"
+    hashtags: "#sneakercorner, #hmxme, #adidasforum, #creadoconadidas"
 ---

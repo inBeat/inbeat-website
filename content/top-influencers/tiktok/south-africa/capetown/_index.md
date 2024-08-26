@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Capetown In 2023
+title: Top 10 TikTok Influencers In Capetown In 2024
 description: >-
-  Find top TikTok influencers in Capetown in 2023. Most popular hashtags: #capetown #southafrica #tiktoksouthafrica #fyp.
+  Find top TikTok influencers in Capetown in 2024. Most popular hashtags: #capetown #southafrica #tiktoksouthafrica #tiktoksa.
 platform: TikTok
-hits: 40
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our platform has 40 TikTok influencers like this in Capetown, South Africa for you to connect with.
+hits: 41
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our database aggregates 41 TikTok influencers like this in Capetown, South Africa for you to collaborate.
 profiles:
   - username: "dutchmanscarcareclinic1"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck9jxlrjo19rx0j788q5dpzje
     verified: false
     hashtags: "#mclaren, #tiktoksouthafrica, #carsofsouthafrica, #southafrica"
+  - username: "miguelpregueiro"
+    fullname: >-
+      Miguel Pregueiro
+    bio: >-
+      Fancy meeting you here 👀 Socials & Music ⬇️
+    location: "South Africa"
+    followers: 171900
+    engagement: 1422
+    commentsToLikes: 0.073361
+    id: ckb9r8kpdnp7z0j23uri5ip53
+    verified: true
+    hashtags: "#loco, #greenscreen, #hola, #faceapp"
   - username: "itsjaredsolomon"
     fullname: >-
       Jared Solomon
@@ -115,16 +127,4 @@ profiles:
     id: ck80odmsbh2oq0j7827tap0ix
     verified: false
     hashtags: "#foryou, #nature, #travel, #tiktoksa"
-  - username: "cvanstaden_"
-    fullname: >-
-      Colby van Staden
-    bio: >-
-      Fourways in, no ways out 🇿🇦 18
-    location: "South Africa"
-    followers: 28300
-    engagement: 1159
-    commentsToLikes: 0.025496
-    id: ckack0fvr9pul0i783zcz26w0
-    verified: false
-    hashtags: "#lockdown, #greenscreen, #foryou, #foryoupage"
 ---

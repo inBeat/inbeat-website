@@ -1,24 +1,108 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Indonesia In 2023
+title: Top 10 Wellness Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top wellness Instagram influencers in Indonesia in 2023. Most popular hashtags: #healing #wellness #selfcare #love.
+  Find top wellness Instagram influencers in Indonesia in 2024. Most popular hashtags: #wellness #yoga #wellnessjourney.
 platform: Instagram
-hits: 25
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 25 Instagram influencers like this in Indonesia for you to collaborate.
+hits: 55
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 55 Instagram influencers like this in Indonesia for you to collaborate.
 profiles:
-  - username: "jovitaayu"
+  - username: "katenotcate"
     fullname: >-
-      Jovita Ayu • Travel + Life
+      Kate Hendley, NBC-HWC, INHC
     bio: >-
-      ✈️📚🇲🇨 Seize & share experiences everywhere: travel, wellness, repeat. Travel & marketing consultant. #DiIndonesiaAja advocate. Wandermuse New Eps 🌏⬇️
+      : national board certified health & wellness coach : founder @wellspringbykate 🌿 : a ~realistic~ pov on nutrition, health, ed recovery & lifestyle 💕
     location: "Indonesia"
-    followers: 19642
-    engagement: 173
-    commentsToLikes: 0.069190
-    id: ck5q2ka49gfqh0i11g5sthtfm
+    followers: 2925
+    engagement: 1041
+    commentsToLikes: 0.047237
+    id: clnno1oxn21bz0j08pz5ao4xx
     verified: false
-    hashtags: "#diindonesiaaja, #pesonaindonesia, #wonderfulindonesia, #happyvalentinesday"
+    hashtags: "#mindbodyspirit, #fitnessjourney, #wellness, #balanceiskey"
+  - username: "shielyv"
+    fullname: >-
+      SHIELY VENESSA
+    bio: >-
+      ⚡️Fitness & Wellness Coach 📚Certified PN L1, CFP, SSR PN, CBC 🍀Co-Founder of @fitandvitcom @noilchicken 📲CP Yoppi 081219937996 FREE Diet Ebook ⬇️
+    location: "Indonesia"
+    followers: 85074
+    engagement: 193
+    commentsToLikes: 0.027398
+    id: ck15ub5b1mb9e0i19ojcin194
+    verified: false
+    hashtags: "#dietmurah, #resepdiet, #tipsdiet, #taiwan"
+  - username: "ossyfitriana"
+    fullname: >-
+      𝘽𝙚𝙖𝙪𝙩𝙮 𝙀𝙣𝙩𝙧𝙚𝙥𝙧𝙚𝙣𝙚𝙪𝙧 & 𝙒𝙚𝙡𝙡𝙣𝙚𝙨𝙨 𝘾𝙤𝙖𝙘𝙝
+    bio: >-
+      🫶🏻Ibu Kiran - Feeling Extrovert ✨Top #6 leader @nlcworldcom 🩵Certified Wellness Coach 🍀 @holisticjourneyy
+    location: "Indonesia"
+    followers: 18919
+    engagement: 184
+    commentsToLikes: 0.033194
+    id: ckaoz6hxfkl5s0i781lnjamfz
+    verified: false
+    hashtags: "#oriflameonme, #theone, #langsingtanpadiet, #oriflamechangeslives"
+  - username: "seraphinayong"
+    fullname: >-
+      SERAPHINA
+    bio: >-
+      surf • beauty • wellness founder @shakaila.swim @suurv.adventures seraphinayong@gmail.com 🌴2024 Surf & Wellness Trips To Be Released🌴
+    location: "Indonesia"
+    followers: 14311
+    engagement: 110
+    commentsToLikes: 0.029300
+    id: clm70al8xgfz50j087kl9yt3c
+    verified: false
+    hashtags: "#contemporaryart, #artexhibition, #diylashextensions, #beautyhacks"
+  - username: "the_widira_s"
+    fullname: >-
+      The Widiras
+    bio: >-
+      Fashion, wellness, hair, pets, books, cooks, life in general and a bit of travel
+    location: "Indonesia"
+    followers: 101833
+    engagement: 103
+    commentsToLikes: 0.040457
+    id: ck0vwoitsut6r0i19odv016uv
+    verified: false
+    hashtags: "#barbiegram, #fashionistabarbie, #barbiedreams, #barbiestyle"
+  - username: "gregggiorgio"
+    fullname: >-
+      GREGGI
+    bio: >-
+      ✨ wellness-preneur ✨ @skynclinic.id @skyngym.id @ivtamins @skynclinic.mks @jualangreggy
+    location: "Indonesia"
+    followers: 23823
+    engagement: 81
+    commentsToLikes: 0.027185
+    id: ck6u20x2ip20t0j71hqhnts43
+    verified: false
+    hashtags: "#farfetch, #sf, #whatiworeinjapan, #doublematchshirt"
+  - username: "kattiyoga"
+    fullname: >-
+      Katt Lee
+    bio: >-
+      RYT260 | Yoga Teacher & UGC Creator Yoga, Wellness & Travel 🌴 🇨🇦🇭🇰 : 📍Japan 🇯🇵 Biz inquiries: info@kattiyoga.com
+    location: "Indonesia"
+    followers: 69581
+    engagement: 57
+    commentsToLikes: 0.019192
+    id: ck0u88gz96qez0i19u2sitjam
+    verified: false
+    hashtags: "#outdooryoga, #baliindonesia, #yogajourney, #balilife"
+  - username: "whelanwellness"
+    fullname: >-
+      Gill Whelan | Whelan Wellness Virtual Bootcamp
+    bio: >-
+      A 360° approach to wellness 🔄 Wellness Coach, Speaker, WPO member, @lululemon ambassador, & marriage commissioner 💛 Join the Best Community Ever👇
+    location: "Indonesia"
+    followers: 13836
+    engagement: 88
+    commentsToLikes: 0.042968
+    id: ckryuuytt2imc0j23ebno5mun
+    verified: false
+    hashtags: "#forthewellofit, #virtualbootcamp, #yourjourney, #bestcommunityever"
   - username: "coco.loren"
     fullname: >-
       Nicole Laurén Galloway
@@ -43,88 +127,4 @@ profiles:
     id: ckap9a2dsrsn60i788irufnh9
     verified: true
     hashtags: "#indonesiasatu, #kspband, #meditasi, #kucinglucu"
-  - username: "rochelle_fox"
-    fullname: >-
-      FOX-That Meditation Girl 🧘🏼‍♀️
-    bio: >-
-      🧠I empower humans to create their dream reality ✨Meditation Manifestation Digital Wellness📱 Looking for a mentor? Join The Conscious Circle @mindspo👇🏽
-    location: "Indonesia"
-    followers: 144286
-    engagement: 103
-    commentsToLikes: 0.025427
-    id: ck0u6e4n51ntw0i19d20wnjsa
-    verified: false
-    hashtags: "#digitalwellbeingexperiments, #mindfullness, #workfromhome, #happinessisachoice"
-  - username: "mindspo"
-    fullname: >-
-      MINDSPO 🧠 Meditation School 👁
-    bio: >-
-      💫We believe if you can change your mind you can transform your life 🚀 🧘🏽‍♂️Meditation 🧠Mental Health 🗣Breathwork 💓Self Love 📱Digital wellness
-    location: "Indonesia"
-    followers: 82958
-    engagement: 103
-    commentsToLikes: 0.030064
-    id: ck0u6e4gd1nsn0i19xyvuij9l
-    verified: false
-    hashtags: "#mindspofam, #weeklyspread, #meditatedaily, #mindsetshift"
-  - username: "ourbestbites_fitclub"
-    fullname: >-
-      Sara Wells | OurBestBites.com
-    bio: >-
-      AKA @sara_ourbestbites | Boise, ID | Co-author Bestselling "400 Calories or Less."➡️on Amazon! | Healthy eats, balanced living & 🏋🏼‍♀️
-    location: "Indonesia"
-    followers: 24076
-    engagement: 216
-    commentsToLikes: 0.148077
-    id: ck6tvp91qnhrm0j7110yqh25l
-    verified: false
-    hashtags: "#iifym, #wellness, #yum, #protein"
-  - username: "robmananquil"
-    fullname: >-
-      r o b m n n q l
-    bio: >-
-      ⚡️Always grateful for our time together⚡️ 📍Bali, Indonesia . Yoga ~ Music ~ God . . Deeply honored to serve, guide and be with you🙏🏻
-    location: "Indonesia"
-    followers: 52543
-    engagement: 102
-    commentsToLikes: 0.010147
-    id: ck6tvdisqlmb40j718vaikhc1
-    verified: false
-    hashtags: "#godsgift, #nature, #covid19, #bali"
-  - username: "bellindapoernomo"
-    fullname: >-
-      Bellinda poernomo
-    bio: >-
-      Life Coach|Tarot reader|Meditationjunkie For Personal Consultation, coaching and Reading to: Mas Tama via wa 08111795888 Page: @bellindabelleart
-    location: "Indonesia"
-    followers: 10608
-    engagement: 264
-    commentsToLikes: 0.067850
-    id: ck8t72gu3fex90j789n91u05b
-    verified: false
-    hashtags: "#spiritualdevelopment, #lovewhoyouare, #meditation, #motivate"
-  - username: "amirulee"
-    fullname: >-
-      Amirul Ashraf Jamaluddin
-    bio: >-
-      I love my Mom 💞 🏆 AIA Elite Pro Life Planner 🏆 Rising Star #sterkproduction @imtiyazalfa
-    location: "Indonesia"
-    followers: 92713
-    engagement: 110
-    commentsToLikes: 0.006862
-    id: ck5hd8tiwm4f00i11sw3um8go
-    verified: false
-    hashtags: "#lebihkawlebihummph, #ai5ya, #bohtea, #lazadamy"
-  - username: "ikadewiyoga"
-    fullname: >-
-      Ika Dewi Yoga ✨
-    bio: >-
-      🌟YOGA is for every body! ⚡️DM for 1:1 private class (all level) 💫YTT200hr @jogayogatraining ⭐️Youtube & discount code - click link below!
-    location: "Indonesia"
-    followers: 41399
-    engagement: 227
-    commentsToLikes: 0.105413
-    id: ck6tigjim0odr0j710kenvkke
-    verified: false
-    hashtags: "#splits, #yogainbali, #crazysexyyoga, #yogafit"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Greece In 2023
+title: Top 10 Mothers TikTok Influencers In Greece In 2024
 description: >-
-  Find top mothers TikTok influencers in Greece in 2023. Most popular hashtags: #foryou #foryoupage #trend #funny.
+  Find top mothers TikTok influencers in Greece in 2024. Most popular hashtags: #foryou #foryoupage #fyp #dance.
 platform: TikTok
-hits: 8
+hits: 9
 text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our database holds 8 TikTok influencers like this in Greece for you to pitch.
+text_bottom: Our platform has 9 TikTok influencers like this in Greece for you to work with.
 profiles:
   - username: "eleonora_gk"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ckcp8xffbe4u00j23hp4ea068
     verified: false
     hashtags: "#happy, #greek, #greece, #trend"
-  - username: "tustok"
-    fullname: >-
-      TUS
-    bio: >-
-      Singer 🎤 Musician 🎵 Songwriter OUT NOW ON YOUTUBE <YOU & I> 👇🏻
-    location: "Greece"
-    followers: 220400
-    engagement: 1035
-    commentsToLikes: 0.009278
-    id: ck9euj0iedtm20j78g8mskv0s
-    verified: false
-    hashtags: "#ink, #singer, #kid, #song"
   - username: "peachesc0ne"
     fullname: >-
       nefelib.dmr 🦎
@@ -78,19 +66,19 @@ profiles:
     commentsToLikes: 0.012485
     id: ck80of4mlhg1r0j786iaxr50w
     verified: true
-    hashtags: "#foryou, #comedy, #model, #boredvibes"
+    hashtags: "#foryou, #boredvibes, #wlyg, #fyp"
   - username: "argirisaggelou_official"
     fullname: >-
       Αργύρης Αγγέλου
     bio: >-
       Αctor- Athens - Greece🇬🇷
     location: "Greece"
-    followers: 79300
-    engagement: 1329
-    commentsToLikes: 0.012268
+    followers: 77600
+    engagement: 1435
+    commentsToLikes: 0.010873
     id: ckal6zikod4h90i787sj9w7r7
     verified: false
-    hashtags: "#tiktokhome, #theatre, #classicseries, #foryoupage"
+    hashtags: "#onlylone, #starchanneltv, #argirisaggelou, #classicseries"
   - username: "alekatrn"
     fullname: >-
       aleka_trn 🤘
@@ -103,4 +91,28 @@ profiles:
     id: cka8409ldr8uc0i78bcn86dwv
     verified: false
     hashtags: "#trend, #foryou, #foryoupage, #goodmorning"
+  - username: "elinapapila"
+    fullname: >-
+      Elina Papila
+    bio: >-
+      
+    location: "Greece"
+    followers: 184900
+    engagement: 933
+    commentsToLikes: 0.011255
+    id: ckbkq78q5kk5a0j23r4nu0va1
+    verified: false
+    hashtags: "#morningshow, #sokfm, #grifos, #fyp"
+  - username: "rafaela.psarrou"
+    fullname: >-
+      Rafaela Psarrou-Mavraki
+    bio: >-
+      •Founder & CEO : You ‘ve got nails by Raf💅🏼🖤 •Instagram : rafaela_psarrou
+    location: "Greece"
+    followers: 39000
+    engagement: 537
+    commentsToLikes: 0.012408
+    id: ckai6c2jfviks0i78ya9yedkj
+    verified: false
+    hashtags: "#foryoupage, #foryou, #video, #tiktok"
 ---

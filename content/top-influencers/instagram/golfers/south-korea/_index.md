@@ -1,11 +1,11 @@
 ---
-title: Top 10 Golfers Instagram Influencers In South Korea In 2023
+title: Top 10 Golfers Instagram Influencers In South Korea In 2024
 description: >-
-  Find top golfers Instagram influencers in South Korea in 2023. Most popular hashtags: #golf #golfswing #golfer.
+  Find top golfers Instagram influencers in South Korea in 2024. Most popular hashtags: #golf #golfswing #ootd.
 platform: Instagram
 hits: 10
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database holds 10 Instagram influencers like this in South Korea for you to contact.
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database has 10 Instagram influencers like this in South Korea for you to connect with.
 profiles:
   - username: "hyang2golf"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ck6uidpxpehgg0j716fhq5mnl
     verified: false
     hashtags: "#travel, #manchestergram, #golf, #gle2"
-  - username: "thedrewcave"
-    fullname: >-
-      Andrew Lomeli
-    bio: >-
-      •Packers Fan Cave•Established 2011 •Wife @thriftyaf_ •Ohio based/Cali raised •Retired Air Force•Amateur-Pro Golfer •@gdzcbd•@socalpackerbackers 🟢🟡
-    location: "South Korea"
-    followers: 13292
-    engagement: 471
-    commentsToLikes: 0.046194
-    id: ck0w4mrh2zd1e0i190usv4ksg
-    verified: false
-    hashtags: "#mancaves, #packersfootball, #mancave, #packers"
   - username: "nadinenet"
     fullname: >-
       Nádine
@@ -103,6 +91,18 @@ profiles:
     id: ck6uid8wdeekj0j715v0amsyb
     verified: false
     hashtags: "#sbs, #golf, #mercedesbenz, #cabriolet"
+  - username: "woohye0n"
+    fullname: >-
+      김우현
+    bio: >-
+      L.E phase 2 I AM ATOMIC
+    location: "South Korea"
+    followers: 1319594
+    engagement: 269
+    commentsToLikes: 0.005943
+    id: ck5ca2rv3cl460i114h2w5gok
+    verified: true
+    hashtags: "#angelchampagne"
   - username: "hyeyoni_yu"
     fullname: >-
       ᴴᵞᴱᵞᴱᴼᴺ🌟

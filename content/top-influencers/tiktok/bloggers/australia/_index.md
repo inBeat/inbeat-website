@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Australia In 2023
+title: Top 10 Bloggers TikTok Influencers In Australia In 2024
 description: >-
-  Find top bloggers TikTok influencers in Australia in 2023. Most popular hashtags: #travel #australia #tiktoktravel #fyp.
+  Find top bloggers TikTok influencers in Australia in 2024. Most popular hashtags: #travel #australia #tiktoktravel #fyp.
 platform: TikTok
 hits: 15
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 15 TikTok influencers like this in Australia for you to pitch.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat has 15 TikTok influencers like this in Australia for you to contact.
 profiles:
   - username: "spaitgirl"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.089510
     id: cka0t8owyowka0i78ah648tvl
     verified: false
-    hashtags: "#lazydays, #classiccatch, #notfamous, #lockdown"
+    hashtags: "#herewego, #nobigdeal, #happyjuice, #mystyle"
   - username: "waderifatimashaik"
     fullname: >-
       Waderi Fatima Shaikh
@@ -97,12 +97,12 @@ profiles:
     bio: >-
       Aussie Blogger 🇦🇺 Home Styling Tips🏡 Follow me on Instagram 👆🏼
     location: "Australia"
-    followers: 106200
-    engagement: 384
-    commentsToLikes: 0.008387
+    followers: 106300
+    engagement: 498
+    commentsToLikes: 0.006961
     id: cka656q7sbrr20i78fxj2m6ex
     verified: false
-    hashtags: "#roomdecor, #cleaningszn, #minivlog, #roommakeover"
+    hashtags: "#learnontiktok, #learnfromeme, #mumsontiktok, #christmastreedecor"
   - username: "wanderingjenkins"
     fullname: >-
       Wandering Jenkins
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.009699
     id: ck8kd34jh40m80j788bn0elvd
     verified: false
-    hashtags: "#sunrise, #australia, #newborn, #india"
+    hashtags: "#australia, #baby, #tiktoktravel, #foryourpage"
   - username: "messydanieljack"
     fullname: >-
       Jesse Mack

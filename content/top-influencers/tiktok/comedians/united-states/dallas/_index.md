@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Dallas In 2023
+title: Top 10 Comedians TikTok Influencers In Dallas In 2024
 description: >-
-  Find top comedians TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #comedia #texas #parati.
+  Find top comedians TikTok influencers in Dallas in 2024. Most popular hashtags: #fyp #comedia #texas #parati.
 platform: TikTok
 hits: 16
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our database holds 16 TikTok influencers like this in Dallas, United States for you to contact.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 16 TikTok influencers like this in Dallas, United States for you to collaborate.
 profiles:
   - username: "djvw9"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.023991
     id: cka0mmcn7vxzt0i78gw2p8frf
     verified: false
-    hashtags: "#parati, #y2k, #glamourshots, #00snostalgia"
+    hashtags: "#glamourshots, #destinationdepop, #fyp, #tx"
   - username: "yiyo.flores5"
     fullname: >-
       Makeup by Yiyo 

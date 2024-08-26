@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Indonesia In 2023
+title: Top 10 Fashion TikTok Influencers In Indonesia In 2024
 description: >-
-  Find top fashion TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #foryou #samasamabelajar.
+  Find top fashion TikTok influencers in Indonesia in 2024. Most popular hashtags: #fyp #foryou #samasamabelajar #foryoupage.
 platform: TikTok
 hits: 61
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our database has 61 TikTok influencers like this in Indonesia for you to pitch.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 61 TikTok influencers like this in Indonesia for you to contact.
 profiles:
   - username: "kazamahusein"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.016690
     id: ckcusnenvk6ut0j23kg9zt8dp
     verified: true
-    hashtags: "#fashion, #fashiontransition, #outfitinspiration, #ventelashoes"
+    hashtags: "#ventelashoes, #outfitinspiration, #fashion, #fashiontransition"
   - username: "jejakbayuubay69"
     fullname: >-
       Jejakbayuubay 

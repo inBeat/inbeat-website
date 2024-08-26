@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs TikTok Influencers In Turkey In 2023
+title: Top 10 Chefs TikTok Influencers In Turkey In 2024
 description: >-
-  Find top chefs TikTok influencers in Turkey in 2023. Most popular hashtags: #tiktok #ke #ankara #chef.
+  Find top chefs TikTok influencers in Turkey in 2024. Most popular hashtags: #tiktok #ankara #ke #chef.
 platform: TikTok
 hits: 10
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform holds 10 TikTok influencers like this in Turkey for you to work with.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 10 TikTok influencers like this in Turkey for you to connect with.
 profiles:
   - username: "turkangokkaya27"
     fullname: >-

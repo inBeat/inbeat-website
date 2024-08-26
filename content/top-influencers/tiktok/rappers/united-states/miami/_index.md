@@ -1,24 +1,12 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Miami In 2023
+title: Top 10 Rappers TikTok Influencers In Miami In 2024
 description: >-
-  Find top rappers TikTok influencers in Miami in 2023. Most popular hashtags: #miami #fyp #florida #rapper.
+  Find top rappers TikTok influencers in Miami in 2024. Most popular hashtags: #fyp #miami #florida #rapper.
 platform: TikTok
 hits: 17
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 17 TikTok influencers like this in Miami, United States for you to work with.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 17 TikTok influencers like this in Miami, United States for you to pitch.
 profiles:
-  - username: "youngtallz"
-    fullname: >-
-      youngtallz
-    bio: >-
-      Promo💰Rapper💰 Entertainment 💃
-    location: "United States"
-    followers: 9224
-    engagement: 340
-    commentsToLikes: 0.010513
-    id: ck8hk5mchci4s0j78t1dz0dsd
-    verified: false
-    hashtags: "#hardwork, #tampaflorida, #stripclub, #selflove"
   - username: "_marcmywords"
     fullname: >-
       _marcmywords
@@ -30,7 +18,7 @@ profiles:
     commentsToLikes: 0.047813
     id: ckan1792du1hr0i78udx99xhi
     verified: false
-    hashtags: "#xyzbca, #comedy, #fyp, #foryoupage"
+    hashtags: "#black, #wearamask, #foryoupage, #miami"
   - username: "noesharose"
     fullname: >-
       noesharose
@@ -55,6 +43,18 @@ profiles:
     id: ckberdqyv9n040j23taiijii7
     verified: false
     hashtags: "#video, #trending, #miami, #miamiwtf"
+  - username: "youngtallz"
+    fullname: >-
+      youngtallz
+    bio: >-
+      Promo💰Rapper💰 Entertainment 💃
+    location: "United States"
+    followers: 9224
+    engagement: 340
+    commentsToLikes: 0.010513
+    id: ck8hk5mchci4s0j78t1dz0dsd
+    verified: false
+    hashtags: "#hardwork, #tampa, #stripping, #tampaflorida"
   - username: "traylittle"
     fullname: >-
       Rapper Traylittle
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.040563
     id: ckc7ulalwyfi30j23fd1utm0b
     verified: false
-    hashtags: "#florida, #miamiheat, #howtoadult, #fyp"
+    hashtags: "#howtoadult, #kobe, #miamiheat, #miami"
   - username: "therealroka11"
     fullname: >-
       theRealRoka11
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.125871
     id: ckcv7x96dq6aj0j23s969hit6
     verified: false
-    hashtags: "#rapper, #bars, #rap, #comedy"
+    hashtags: "#trapper, #comedy, #rapper, #bars"
   - username: "quickvic"
     fullname: >-
       Quick
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.146111
     id: cka9kqriq0wm80i78uso2lhyg
     verified: false
-    hashtags: "#foryourpage, #viral, #sport, #girl"
+    hashtags: "#workout, #4u, #hiphop, #fyp"
   - username: "nikahola"
     fullname: >-
       Niklas Ahola

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food Instagram Influencers In Kyoto In 2023
+title: Top 10 Food Instagram Influencers In Kyoto In 2024
 description: >-
-  Find top food Instagram influencers in Kyoto in 2023. Most popular hashtags: #kyoto #japan #ig #tokyo.
+  Find top food Instagram influencers in Kyoto in 2024. Most popular hashtags: #kyoto #japan #tokyo #ig.
 platform: Instagram
-hits: 20
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 20 Instagram influencers like this in Kyoto, Japan for you to collaborate.
+hits: 23
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 23 Instagram influencers like this in Kyoto, Japan for you to connect with.
 profiles:
   - username: "stefatty_"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck8tcq0vq08oh0j78fpndhgfl
     verified: false
     hashtags: "#foodie, #instafood, #locari, #teatime"
+  - username: "sophiebakas"
+    fullname: >-
+      Sophie Bakas 🧿
+    bio: >-
+      TikTok, YouTube & Pinterest : sophiebakas All my recipes 👇🏼
+    location: "Japan"
+    followers: 376764
+    engagement: 313
+    commentsToLikes: 0.005148
+    id: cl3cuej904tlo0i23k7fs63mk
+    verified: false
+    hashtags: "#saturday, #island, #brunch, #baking"
   - username: "ami_kisaki"
     fullname: >-
       綺咲 あみ(杏海)💋 Kisaki Ami
@@ -43,6 +55,18 @@ profiles:
     id: ck8sy2huxji6l0j78x6khcr5g
     verified: false
     hashtags: "#loft, #tiffany, #curry, #12"
+  - username: "japanko_official"
+    fullname: >-
+      Japan Travel Guide | 日本旅行ガイド
+    bio: >-
+      🇯🇵 Sharing photos of Japan 🍣 Japanese food recommendations 🗻 Top secret travel destinations you never knew existed in #Japan
+    location: "Japan"
+    followers: 361551
+    engagement: 331
+    commentsToLikes: 0.006251
+    id: ck14h9vll99ob0i1980o3xwov
+    verified: false
+    hashtags: "#naturelover, #naturegram, #mountfuji, #pics"
   - username: "xshizzyx"
     fullname: >-
       Shizuka Anderson | アンダーソン静香✨
@@ -83,14 +107,14 @@ profiles:
     fullname: >-
       ERIKA
     bio: >-
-      🌸🏝🌻🍔🍖⭐️⛰🍓🍭 📍#Kyoto ☺︎Japan 🌱自然絶景好き love nature ✈︎ 旅行好き love travel ⛰ 登山好き love mountain.hike 🍟食べるの好き love food 🐶my dog✩あんこ 🎀💓🌺🌼🍎☀🌴🍜🍫 THETA📷の記事はこちら💁‍♀️
+      🌸🏝🌻🍔🍖⭐️⛰🍓🍭 📍#Kyoto ☺︎Japan 🌱自然絶景好き love nature ✈︎ 旅行好き love travel ⛰ 登山好き love mountain.hike 🍟食べるの好き love food 🐶my dog✩あんこ 🎀💓🌺🌼🍎☀🌴🍜🍫 YouTubeはこちら💁‍♀️👇
     location: "Japan"
-    followers: 15350
-    engagement: 668
-    commentsToLikes: 0.011934
+    followers: 15931
+    engagement: 619
+    commentsToLikes: 0.017330
     id: ck14j8wshj55c0i19ph3j9qbz
     verified: false
-    hashtags: "#photo, #kyoto, #bestjapanpics, #igersjp"
+    hashtags: "#igersjp, #tokyocameraclub, #tabippo, #team"
   - username: "aiii528"
     fullname: >-
       AI / bodymake
@@ -103,28 +127,4 @@ profiles:
     id: ckap5uyysda3a0i78b7h5vsom
     verified: false
     hashtags: "#friends, #cookingram, #abs, #bodymake"
-  - username: "delibang"
-    fullname: >-
-      DeliciousBangkok
-    bio: >-
-      aka UNInstagram😋 I’m Marc🇯🇵live in🇹🇭 Introduce delicious Japanese foods esp Uni from BKK Review,Consult,MenuCreate↗︎✉️ Pls follow too🍜@ramen_bangkok
-    location: "Japan"
-    followers: 29523
-    engagement: 302
-    commentsToLikes: 0.012165
-    id: ck133vg9uu9m70i19557e0qh7
-    verified: false
-    hashtags: "#seafoodbowl, #seaurchin, #stayhomecooking, #omibeef"
-  - username: "exploringjapan"
-    fullname: >-
-      
-    bio: >-
-      Sharing pictures of Japan's popular sights ⛩, food🍣, anime🌟 and more. Tag this page for a feature 🇯🇵.
-    location: "Japan"
-    followers: 110138
-    engagement: 252
-    commentsToLikes: 0.005385
-    id: ck0w0bc5udc910i19st0sijp9
-    verified: false
-    hashtags: "#temple, #streetshootjapan, #visitjapanjp, #instagramjapan"
 ---

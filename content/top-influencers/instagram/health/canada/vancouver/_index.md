@@ -1,48 +1,12 @@
 ---
-title: Top 10 Health Instagram Influencers In Vancouver In 2023
+title: Top 10 Health Instagram Influencers In Vancouver In 2024
 description: >-
-  Find top health Instagram influencers in Vancouver in 2023. Most popular hashtags: #fitness #health #fitfam #lifestyle.
+  Find top health Instagram influencers in Vancouver in 2024. Most popular hashtags: #vancouver #fashion #selflove #motivation.
 platform: Instagram
-hits: 33
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 33 Instagram influencers like this in Vancouver, Canada for you to contact.
+hits: 53
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 53 Instagram influencers like this in Vancouver, Canada for you to collaborate.
 profiles:
-  - username: "danielseanmaguire"
-    fullname: >-
-      Daniel Maguire
-    bio: >-
-      Reality TV personality, personal trainer, world traveler Exclusively Represented By: @cktalent
-    location: "Canada"
-    followers: 66999
-    engagement: 220
-    commentsToLikes: 0.088702
-    id: ck5qc12rgoclr0i11ted7bbs0
-    verified: true
-    hashtags: "#fitness, #outdoors, #adventure, #igfit"
-  - username: "purelycristina"
-    fullname: >-
-      Cristina🦋Purely Plant Powered
-    bio: >-
-      wellness, health, lifestyle 22 | Vancouver 💌 cristina.delmaestro@gmail.com 🧬BSc Molecular Biology & Biochemistry Student
-    location: "Canada"
-    followers: 7242
-    engagement: 1751
-    commentsToLikes: 0.165954
-    id: ck6trzfcy1yrf0j71r5m0osjh
-    verified: false
-    hashtags: "#proteinsmoothie, #healthysmoothies, #wellnessaesthetic, #greensmoothierecipe"
-  - username: "alicia.waters"
-    fullname: >-
-      Alicia Waters
-    bio: >-
-      Sharing snapshots of life’s endless adventures, healthy & balanced living and passion for things I love✨ Girl mama💗 📍Vancouver, Canada
-    location: "Canada"
-    followers: 1901
-    engagement: 522
-    commentsToLikes: 0.071038
-    id: ck0w31vv3r7n80i19w7s8n0ir
-    verified: false
-    hashtags: "#summervibes, #outdooradventures, #vancouverhikes, #healthyeating"
   - username: "vancouversveryown"
     fullname: >-
       Brandon Nair | DJ Nizzy 🇫🇯🌺
@@ -54,77 +18,113 @@ profiles:
     commentsToLikes: 0.068972
     id: ck13b1trvt9wo0i19cb8j91bu
     verified: false
-    hashtags: "#exercise, #fitnessmotivation, #getfit, #health"
+    hashtags: "#me, #photography, #gym, #fitness"
+  - username: "alicia.waters"
+    fullname: >-
+      Alicia Waters
+    bio: >-
+      Sharing snapshots of life’s endless adventures, healthy & balanced living and passion for things I love✨ Girl mama💗 📍Vancouver, Canada
+    location: "Canada"
+    followers: 1901
+    engagement: 522
+    commentsToLikes: 0.071038
+    id: ck0w31vv3r7n80i19w7s8n0ir
+    verified: false
+    hashtags: "#twonager, #mindset, #lifeisgood, #proudmama"
+  - username: "willow_faith"
+    fullname: >-
+      Willow Faith
+    bio: >-
+      🏳️‍🌈 LGBTQ+ Content Creator I like to be outside🌲 Mental Health advocate 🇨🇦Vancouver New YouTube Video⬇️
+    location: "Canada"
+    followers: 28202
+    engagement: 392
+    commentsToLikes: 0.036143
+    id: ck14j1b8ri4qm0i19esnfl3b3
+    verified: false
+    hashtags: "#lesbiancouple, #lgbt, #lesbians, #ad"
+  - username: "courtneymwatt"
+    fullname: >-
+      Courtney Beggs
+    bio: >-
+      ✨Skincare, Haircare, Beauty, Health & Wellness🌿 Vancouver, Canada 🇨🇦
+    location: "Canada"
+    followers: 9450
+    engagement: 518
+    commentsToLikes: 0.699098
+    id: cln109wof60em0j089vesqw2l
+    verified: false
+    hashtags: "#evahairnyc, #helloimeva, #haircaretips, #evanycgiftedme"
+  - username: "snlenz"
+    fullname: >-
+      Samantha Lenz
+    bio: >-
+      Writer•PR•Mental Health ✨Top 30 Vancouver Mom Blogger 18’ 👦🏻👶🏻👼🏻Ryerson + Railey 💌samanthaNlenz@gmail.com 👩🏻‍💻samantha@slapcommunications.com
+    location: "Canada"
+    followers: 14488
+    engagement: 16
+    commentsToLikes: 0.000000
+    id: ckqeit98gmkn60j23pgvjvyat
+    verified: false
+    hashtags: "#thegoodvoice, #yvrmom, #vancouverinfluencer, #vancouvermom"
+  - username: "purelycristina"
+    fullname: >-
+      Cristina Delmaestro
+    bio: >-
+      〰️all things health & wellness ✨healthy recipes, workouts, vlogs 📍Vancouver, Canada 💌collabs: cristina.delmaestro@gmail.com
+    location: "Canada"
+    followers: 77241
+    engagement: 301
+    commentsToLikes: 0.002790
+    id: ck6trzfcy1yrf0j71r5m0osjh
+    verified: false
+    hashtags: "#nightvlog, #easymealinspo, #smoothieseries, #morningworkout"
+  - username: "milansmama__"
+    fullname: >-
+      Aiyna Dhillon | Motherhood & Lifestyle
+    bio: >-
+      Navigating the beauty of motherhood & championing the health & wellness for little ones. ✨🌱 🇨🇦 Vancouver 💻 content/ugc creator 💌 aiyna@milansmama.com
+    location: "Canada"
+    followers: 14876
+    engagement: 153
+    commentsToLikes: 0.464295
+    id: cksiade1sbq8g0j23jyj5vpfa
+    verified: false
+    hashtags: "#yvrmom, #kidsrecipes, #momandsongoals, #thingstodoinvancouverwithkids"
   - username: "alexjiggs"
     fullname: >-
       Alex Jiggs
     bio: >-
-      I normalize talking about mental health & run around mountains with my dog, Luna ☀️🏳️‍🌈creating my own sunshine 🎨 @alexjiggspresets 📍 Vancouver BC
+      𝘮𝘺 𝘥𝘪𝘨𝘪𝘵𝘢𝘭 𝘥𝘪𝘢𝘳𝘺 Travel | Photography | Mental Health AuDHD Creative ✨🌈 ⇩ all my links ⇩
     location: "Canada"
-    followers: 21011
-    engagement: 619
-    commentsToLikes: 0.034549
+    followers: 20290
+    engagement: 567
+    commentsToLikes: 0.027887
     id: ck0ueta4em6zj0i19sve4ome3
     verified: false
-    hashtags: "#partner, #betterthanthebottle, #dogsofcanada, #cockapoo"
-  - username: "eddie_del_real"
+    hashtags: "#hellobc, #vancouverbc, #paddleboard, #paddleboardingadventures"
+  - username: "bodyposipower"
     fullname: >-
-      Eddie del Real
+      Michelle | Your Self Love Bestie
     bio: >-
-      Fitness Specialist in progress 📚 📍Vancouver @streamlinesupps Athlete 🏋🏽 🌟PromoCode “Eddie10”
+      ↳ gettin’ real on the internet ↰ no really, check my reels tab ➝ ✿ mental health | beauty | laughs | life ✶ bodyposipower@gmail.com ☻ “Vancouver”
     location: "Canada"
-    followers: 12259
-    engagement: 1404
-    commentsToLikes: 0.026955
-    id: ck5qc131ooco30i11izqw8vi7
+    followers: 32038
+    engagement: 1308
+    commentsToLikes: 0.046657
+    id: ck0w000f3bptk0i194euaev6r
     verified: false
-    hashtags: "#puertovallarta, #sun, #home, #model"
-  - username: "caitlinfladager"
+    hashtags: "#selflovejourney, #bodyimagehealing, #selflove, #plussize"
+  - username: "alyssabette"
     fullname: >-
-      Caitlin Fladager
+      Alyssa Bette
     bio: >-
-      Mother | Mental health advocate ♡ Telling my truth about marriage & motherhood • TikTok - caitlinfladager (1.8 million) • Vancouver BC
+      CEO / Founder of @mindfullmode ✨ Host of @fullmindedpodcast 🎙️ Mental Health | Self Love | Motivation | Sobriety Exploring Bali📍
     location: "Canada"
-    followers: 346999
-    engagement: 416
-    commentsToLikes: 0.042944
-    id: ck5qeasnmzjza0i111jq4qj37
-    verified: true
-    hashtags: "#momlife, #momsofinstagram, #mentalhealthawareness, #kidsmentalhealth"
-  - username: "sandra.m.joe"
-    fullname: >-
-      Sandra Joe - Financial Coach
-    bio: >-
-      📍Vancouver 🇨🇦 💵 Financial Education for Financial Freedom 📈 Creator & Teacher of Multiple Streams of Income 🌱 Health Enthusiast 👇🏼Book an intro call
-    location: "Canada"
-    followers: 20431
-    engagement: 345
-    commentsToLikes: 0.049100
-    id: ckaozugx7nfzr0i78il8mywdg
+    followers: 55880
+    engagement: 2433
+    commentsToLikes: 0.029108
+    id: clo3xkj3fm82q0j08mq024cfh
     verified: false
-    hashtags: "#couplegoals, #networkmarketing, #grateful, #investing"
-  - username: "omarjundi_fit"
-    fullname: >-
-      Omar Jundi
-    bio: >-
-      🇨🇦 Vancouver, BC 💊 Account Manager 💪🏼 Fitness 🎧 Music 💍 Taken @trent_ruban_
-    location: "Canada"
-    followers: 27738
-    engagement: 255
-    commentsToLikes: 0.046787
-    id: ckap7752biwqr0i78hfx4mgrk
-    verified: false
-    hashtags: "#strong, #gymlife, #bodybuilding, #healthy"
-  - username: "missjazzy_fit"
-    fullname: >-
-      Jazmin Gillespie
-    bio: >-
-      Vancouver,Canada🇨🇦 ⁣ Email for Collaborations & business inquiries ⁣ TRAIN WITH ME NOW 👇🏼👇🏼
-    location: "Canada"
-    followers: 262417
-    engagement: 402
-    commentsToLikes: 0.023950
-    id: ckap66t63enbh0i780w16uu7u
-    verified: false
-    hashtags: "#missjazzyfit, #gains, #letswork, #hardwork"
+    hashtags: "#mentalhealthawareness, #blogger, #love, #boundaries"
 ---

@@ -1,24 +1,24 @@
 ---
-title: Top 10 Health Instagram Influencers In Rio De Janeiro In 2023
+title: Top 10 Health Instagram Influencers In Rio De Janeiro In 2024
 description: >-
-  Find top health Instagram influencers in Rio De Janeiro in 2023. Most popular hashtags: #riodejaneiro #love #tbt #beach.
+  Find top health Instagram influencers in Rio De Janeiro in 2024. Most popular hashtags: #riodejaneiro #love #beach #brasil.
 platform: Instagram
-hits: 11
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 11 Instagram influencers like this in Rio de Janeiro, Brazil for you to contact.
+hits: 13
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 13 Instagram influencers like this in Rio de Janeiro, Brazil for you to pitch.
 profiles:
   - username: "beatrix_amaral"
     fullname: >-
       Beatriz Amaral
     bio: >-
-      @_bazardabia dear life, i trust you. ✨🦋 niterói, rio de janeiro health lifestyle | moda 📥 parcerias
+      CEO @_bazardabia | @bstore.br dear life, i trust you. ✨🦋 niterói, rio de janeiro health lifestyle | moda 📥 parcerias
     location: "Brazil"
-    followers: 26325
-    engagement: 327
-    commentsToLikes: 0.042535
+    followers: 35386
+    engagement: 239
+    commentsToLikes: 0.059627
     id: ck6tr4v3ywxz10j71aac4a9uz
     verified: false
-    hashtags: "#bazardabiia, #tbt, #bussitchallenge"
+    hashtags: "#babomuito"
   - username: "brenogonzalez"
     fullname: >-
       Breno Gonzalez
@@ -83,14 +83,38 @@ profiles:
     fullname: >-
       Laís Gomes
     bio: >-
-      healthy life 🌱🍏 Praiana ☀️💛 Parcerias via direct 💌 Paraty - Rio de Janeiro Brasil 🇧🇷🌊 #errejota
+      🍏 Healthy life ☀️ Praiana Paraty - Rio de Janeiro Brasil 🇧🇷🌊 💌 Parcerias via direct
     location: "Brazil"
-    followers: 9651
-    engagement: 1336
-    commentsToLikes: 0.022253
+    followers: 10567
+    engagement: 322
+    commentsToLikes: 0.049300
     id: ck6u9fvpwxbku0j71mwv0gdqj
     verified: false
-    hashtags: "#beach, #ocean, #happy, #angra"
+    hashtags: "#paraty, #go, #photography, #praia"
+  - username: "albuqlet"
+    fullname: >-
+      Let Albuquerque
+    bio: >-
+      Rio de Janeiro | 💫 healthy & lifestyle
+    location: "Brazil"
+    followers: 60110
+    engagement: 75
+    commentsToLikes: 0.130855
+    id: ck8t7pfb5hk2v0j786zmsgs5q
+    verified: false
+    hashtags: "#assinaturaraia, #publicidade, #camisadogremiochallenge, #omo"
+  - username: "gab.lobo"
+    fullname: >-
+      Gabriela Passos Lobo e Campos
+    bio: >-
+      🇧🇷 Rio de Janeiro 🫀 canto, componho e crio conteúdo 💫 o daily é o close friends, pede na dm 📧 contato@vitoriafleck.com 👇🏼 spotify, youtube, pinterest
+    location: "Brazil"
+    followers: 66760
+    engagement: 37
+    commentsToLikes: 0.039576
+    id: ck0tyqas4nrl20i197e3zq8p8
+    verified: false
+    hashtags: "#riodejaneiro, #beach, #bikini, #couples"
   - username: "eufredduarte"
     fullname: >-
       Fred Duarte
@@ -103,28 +127,4 @@ profiles:
     id: ckap96ir5rd000i78p03j64f0
     verified: false
     hashtags: "#tbt, #throwback, #rj, #tran"
-  - username: "lugunz"
-    fullname: >-
-      𝓛𝓾𝓲𝔃 𝓕𝓵á𝓿𝓲𝓸
-    bio: >-
-      Brazilian 🇧🇷 / Made in Uberlândia, MG 🔺 / Living in Rio de Janeiro. ✈️ 🏋️‍♂️ 🏊‍♂️ 📚 📸 🔒❤️🔒
-    location: "Brazil"
-    followers: 15241
-    engagement: 445
-    commentsToLikes: 0.044579
-    id: ckaoswsdgtdh00i78czxj8hev
-    verified: false
-    hashtags: "#urca, #rio, #quarantinelife, #goodvibes"
-  - username: "melissavaz"
-    fullname: >-
-      Melissa Vaz
-    bio: >-
-      Rio de Janeiro 🇧🇷 Nutrição 🌿 Chef funcional 📚🍴
-    location: "Brazil"
-    followers: 3840
-    engagement: 673
-    commentsToLikes: 0.072979
-    id: ck8t5cuzn9oib0j784vmp0ynk
-    verified: false
-    hashtags: "#farinhadeaveia, #saude, #receitas, #geleia"
 ---

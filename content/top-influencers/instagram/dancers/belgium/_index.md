@@ -1,24 +1,24 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Belgium In 2023
+title: Top 10 Dancers Instagram Influencers In Belgium In 2024
 description: >-
-  Find top dancers Instagram influencers in Belgium in 2023. Most popular hashtags: #dance #dancer #belgium #vibes.
+  Find top dancers Instagram influencers in Belgium in 2024. Most popular hashtags: #dance #dancer #belgium #vibes.
 platform: Instagram
 hits: 19
 text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 19 Instagram influencers like this in Belgium for you to connect with.
+text_bottom: inBeat aggregates 19 Instagram influencers like this in Belgium for you to contact.
 profiles:
-  - username: "steffi_mercie"
+  - username: "jenybsg"
     fullname: >-
-      Steffi Mercie
+      Jenybsg
     bio: >-
-      💖 dancer & actress 🧸 positive vibes overloaded ✨ Contact: Steffi.mercie@gmail.com 💐 In love @gerben.tuerlinckx 🌜 #Nevergiveup #Steffifam
+      Dancer • Choreographer •Mvmnt Director
     location: "Belgium"
-    followers: 187212
-    engagement: 1037
-    commentsToLikes: 0.007538
-    id: ck8wfb84sfgja0j78qtavljkc
+    followers: 1904954
+    engagement: 122
+    commentsToLikes: 0.011180
+    id: ck138txu4i03i0i19gxk8wsb7
     verified: false
-    hashtags: "#myjewellerybelgium, #myjewellery, #galavandegoudenks, #jbcfamily"
+    hashtags: "#teampeauseine, #can2024, #sanexfamily, #publicit"
   - username: "tamaraarruti"
     fullname: >-
       Tamara Arruti
@@ -91,18 +91,6 @@ profiles:
     id: ck5zpkeazstem0i140y5ecov0
     verified: false
     hashtags: "#dance, #jokersan, #hiphop, #stayhomeandkeeptraining"
-  - username: "jenybsg"
-    fullname: >-
-      Jenybsg
-    bio: >-
-      Professional Dancer / choreographer • @theellenshow 🇺🇸 • @afrohousebelgium CEO • @dance_4kids founder • @nweworldwide
-    location: "Belgium"
-    followers: 1093526
-    engagement: 241
-    commentsToLikes: 0.010997
-    id: ck138txu4i03i0i19gxk8wsb7
-    verified: false
-    hashtags: "#cooloffchallenge, #namedancechallenge, #kohlanta, #justiceforahmaud"
   - username: "cey_dancer_23"
     fullname: >-
       Ceylan ✨
@@ -115,6 +103,18 @@ profiles:
     id: ck6tm2eqk728t0j71x8uv4j6j
     verified: false
     hashtags: "#dance, #girl, #dancer, #gogoclub"
+  - username: "winstonreynoldz"
+    fullname: >-
+      Winston Reynolds
+    bio: >-
+      Teacher • Performer • Movement Director @ꜰᴇʀᴜꜱ.ᴀɴɪᴍɪ.ᴛᴇʀʀᴀ.ɴᴏᴠᴀ
+    location: "Belgium"
+    followers: 70979
+    engagement: 139
+    commentsToLikes: 0.010936
+    id: ckaoxy0stf8ce0i78cjy7g2mh
+    verified: false
+    hashtags: "#cirque, #dancestudio, #improv, #danceart"
   - username: "bgtlana"
     fullname: >-
       Lana Verkest BGT’19
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.026505
     id: ck5c2m91uxj720i11nezudgb5
     verified: false
-    hashtags: "#igers, #instahappy, #balletpak, #belgium"
+    hashtags: "#happy, #foryou, #smile, #igers"
 ---

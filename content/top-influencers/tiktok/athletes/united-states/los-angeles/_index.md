@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Los Angeles In 2023
+title: Top 10 Athletes TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top athletes TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #foryou #athlete #losangeles.
+  Find top athletes TikTok influencers in Los Angeles in 2024. Most popular hashtags: #fyp #foryou #athlete #losangeles.
 platform: TikTok
 hits: 17
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our search engine holds 17 TikTok influencers like this in Los Angeles, United States for you to pitch.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our platform holds 17 TikTok influencers like this in Los Angeles, United States for you to contact.
 profiles:
   - username: "takeachancemccoy"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.025897
     id: ckbf85v4kygpy0j23kb6p4dvo
     verified: false
-    hashtags: "#selflove, #mentalhealthmatters, #chronicillness, #lymedisease"
+    hashtags: "#lymedisease, #mentalhealthmatters, #selflove, #lymewarrior"
   - username: "kys9000"
     fullname: >-
       🍃
@@ -78,19 +78,19 @@ profiles:
     commentsToLikes: 0.025351
     id: ck8rpyzronwln0j78j6km1222
     verified: false
-    hashtags: "#bergtoys, #parkour, #foryou, #funny"
+    hashtags: "#bergtoys, #trick, #parkour, #fail"
   - username: "derektpratt"
     fullname: >-
       derektpratt
     bio: >-
       Fitness Friday: Gym Talk on YouTube & IMDb Entrepreneur & C4 Energy Athlete
     location: "United States"
-    followers: 36000
-    engagement: 775
-    commentsToLikes: 0.090735
+    followers: 35800
+    engagement: 918
+    commentsToLikes: 0.068734
     id: ckb97tezzqthn0j23sq4231l5
     verified: false
-    hashtags: "#fyp, #losangeles, #mood, #fitfam"
+    hashtags: "#derekpratt, #losangeles, #fitness, #work"
   - username: "zyrken"
     fullname: >-
       zyrken

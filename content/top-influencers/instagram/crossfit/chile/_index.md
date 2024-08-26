@@ -1,24 +1,12 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Chile In 2023
+title: Top 10 Crossfit Instagram Influencers In Chile In 2024
 description: >-
-  Find top crossfit Instagram influencers in Chile in 2023. Most popular hashtags: #fitness #crossfit #love #instagram.
+  Find top crossfit Instagram influencers in Chile in 2024. Most popular hashtags: #crossfit #fitness #chile #love.
 platform: Instagram
-hits: 14
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 14 Instagram influencers like this in Chile for you to connect with.
+hits: 15
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database has 15 Instagram influencers like this in Chile for you to work with.
 profiles:
-  - username: "anahi.ve"
-    fullname: >-
-      Anahi Vega
-    bio: >-
-      🇨🇱Santiago - 23 años ⚖️Estudiante de Derecho (UDP) 💜Feminista 🥦#PlantBased 🏋🏼‍♀️#CrossFitter @justfitness_blackhatcf
-    location: "Chile"
-    followers: 49377
-    engagement: 527
-    commentsToLikes: 0.058054
-    id: ck6tt7r1193k70j71qka2ewzf
-    verified: false
-    hashtags: "#veganpower, #poweredbyplants, #dermatitisato, #vegan"
   - username: "simonettifiorella"
     fullname: >-
       Simona Quintana Silva
@@ -59,14 +47,14 @@ profiles:
     fullname: >-
       Dannae Elizabeth 🌙
     bio: >-
-      🙋🏼‍♀️Prof. Educación Física y Entrenadora Personal 🍑 Clases de GAP 🏋🏼‍♀️ Crossfit 🔥 Plan Entrenamiento BODY on FIRE 📧 Dannaetrainerbof@gmail.com
+      Prof. Ed Física y Entrenadora Personal Cert. Entrenamiento Funcional Coach GAP/ Crossfit Programa Entre. Body on Fire 📧Programabodyonfire@gmail.com
     location: "Chile"
-    followers: 8813
-    engagement: 632
-    commentsToLikes: 0.006038
+    followers: 9604
+    engagement: 458
+    commentsToLikes: 0.007125
     id: ck5c4lqhz1lzh0i11xrglt3zu
     verified: false
-    hashtags: "#instalike, #vacaciones, #instagram, #crossfitgirls"
+    hashtags: "#instachile, #chilegram, #instalike, #summer"
   - username: "mesiasvega"
     fullname: >-
       Matias Vega Rojas
@@ -109,12 +97,24 @@ profiles:
     bio: >-
       🇸🇾🇱🇧📿بنور الله ورضاه GOD I LOVE YOU 🇻🇪Vzla
     location: "Chile"
-    followers: 10547
-    engagement: 572
-    commentsToLikes: 0.022927
+    followers: 10252
+    engagement: 448
+    commentsToLikes: 0.026158
     id: ckapcf4bo3k280i784z9i82h8
     verified: false
-    hashtags: "#fitness, #valenciavenezuela, #talentovenezolano, #motivation"
+    hashtags: "#motivation, #style, #valenciavenezuela, #chile"
+  - username: "rodcha.cl"
+    fullname: >-
+      Rodrigo Chávez Schuffeneger
+    bio: >-
+      Director 🎥 en @somos.viernes #vfx #filmmaker #storyteller Pase al YouTube 👇
+    location: "Chile"
+    followers: 21836
+    engagement: 883
+    commentsToLikes: 0.066023
+    id: ck5py1j0ktvkc0i11me6273fo
+    verified: false
+    hashtags: "#atardecer, #djiair3, #drone, #santiago"
   - username: "bertytossi"
     fullname: >-
       BERTY TOSSI MÉNDEZ ⚠️
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.018522
     id: ck5hs6imzw2q20i118f33ad45
     verified: false
-    hashtags: "#abs, #boy, #curlyhair, #fitness"
+    hashtags: "#curlyhair, #abs, #boy, #fitness"
 ---

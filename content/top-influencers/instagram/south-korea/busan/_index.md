@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Busan In 2023
+title: Top 10 Instagram Influencers In Busan In 2024
 description: >-
-  Find top Instagram influencers in Busan in 2023. Most popular hashtags: #activeuser2020 #jhope #kimseokjin.
+  Find top Instagram influencers in Busan in 2024. Most popular hashtags: #lapoetiqueflowerclass #kpopl4l #flowerlesson.
 platform: Instagram
-hits: 59
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: inBeat has 59 Instagram influencers like this in Busan, South Korea for you to collaborate.
+hits: 61
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database holds 61 Instagram influencers like this in Busan, South Korea for you to contact.
 profiles:
   - username: "bom_vvely"
     fullname: >-
@@ -19,18 +19,18 @@ profiles:
     id: ckf5xbnnfv3c60j23mcg979p1
     verified: false
     hashtags: ""
-  - username: "khloe_1209"
+  - username: "lighthouse_professional_tattoo"
     fullname: >-
-      Khloe Lee 🌵 클라탕 세계여행
+      Lighthouse Tattoo & Art Studio
     bio: >-
-      12년 간 해외에서 떠돌며 살다가🇨🇦🇯🇵🇬🇹 그 질병 때문에 한국에 갇힌 떠돌이. 어린왕자, 선인장, 마라탕❤️ 📍295 cities, 48 countries 📍 Busan, 🇰🇷 밀쿵이, 신화, 10cm, 뉴이스트, 윤종신
+      • Based in Republic of Korea 🇰🇷 • Busan / Seoul • Founder @varo_ttt_draw @micotattoo @gb_kim @gara_tattooer
     location: "South Korea"
-    followers: 7066
-    engagement: 807
-    commentsToLikes: 0.053285
-    id: ckf5tjb7lhyme0j23skb3nqnw
+    followers: 116047
+    engagement: 98
+    commentsToLikes: 0.004465
+    id: ck5qebx8vzpxx0i1141dpfof7
     verified: false
-    hashtags: "#princessbelle, #1209, #beautyandthebeast, #explorekorea"
+    hashtags: "#japanesetattoo, #mandalatattoo, #floraltattoo, #birdtattoo"
   - username: "bleu_the_k"
     fullname: >-
       BLEU THE K
@@ -91,18 +91,6 @@ profiles:
     id: ck8swp8w6esbj0j78622z3ca7
     verified: false
     hashtags: "#bangtan, #jungkook, #junghoseok, #kpop"
-  - username: "busantravel"
-    fullname: >-
-      부산핫플 부산맛집 부산카페 핫플레이스소개
-    bio: >-
-      부산의 재밌고 맛있는 모든것 부산여행정보 구독하세요⛵ #부산맛집 #부산카페 #부산여행 . 부산핫플 페이스북&인스타그램과 제휴를 원하시는분은 👉050-7977-7977 @busantravel
-    location: "South Korea"
-    followers: 87260
-    engagement: 131
-    commentsToLikes: 0.163308
-    id: ck0vw9wscsra90i19tfv5bbx6
-    verified: false
-    hashtags: "#209st"
   - username: "lapoetique_"
     fullname: >-
       라 포에티크 Flower Studio
@@ -115,16 +103,28 @@ profiles:
     id: ck15ub85lmboi0i19k15u25um
     verified: false
     hashtags: "#lapoetiqueflower, #lapoetiqueflowerstudio, #florist, #lapoetiqueflowerclass"
-  - username: "lighthouse_professional_tattoo"
+  - username: "midnight.luna_"
     fullname: >-
-      ⚓️Lighthouse Tattoo Studio
+      l u n a
     bio: >-
-      • Based in Republic of Korea 🇰🇷 • Nampodong, Busan • Itaewon, Seoul • Check individual artists and contact directly ⬇️
+      @lighthouse_professional_tattoo Busan/Seoul 서울 3월12-15일 예약가능 예약 문의 ⬇️
     location: "South Korea"
-    followers: 73672
-    engagement: 423
-    commentsToLikes: 0.002636
-    id: ck5qebx8vzpxx0i1141dpfof7
+    followers: 23411
+    engagement: 748
+    commentsToLikes: 0.006937
+    id: ckaozjre0m6zt0i78ua1xqqm6
     verified: false
     hashtags: ""
+  - username: "busanfilmfest"
+    fullname: >-
+      부산국제영화제 | BIFF
+    bio: >-
+      2021년, 제 26회 부산국제영화제 [26th Busan International Film Festival] [#BIFF_온택트 #안녕_프로젝트, 서로의 안부를 묻다]
+    location: "South Korea"
+    followers: 21239
+    engagement: 199
+    commentsToLikes: 0.032193
+    id: ck5qaaxvxfg4z0i115nkc3oqi
+    verified: false
+    hashtags: "#congratulations, #biff2020, #biff2019, #biff"
 ---

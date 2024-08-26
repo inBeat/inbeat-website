@@ -1,12 +1,24 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In Canada In 2023
+title: Top 10 Graphic-Designers TikTok Influencers In Canada In 2024
 description: >-
-  Find top graphic-designers TikTok influencers in Canada in 2023. Most popular hashtags: #graphicdesign #fyp #trending #foryoupage.
+  Find top graphic-designers TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #graphicdesign #trending #foryoupage.
 platform: TikTok
-hits: 77
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our database has 77 TikTok influencers like this in Canada for you to connect with.
+hits: 76
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 76 TikTok influencers like this in Canada for you to contact.
 profiles:
+  - username: "dillon.kydd"
+    fullname: >-
+      dillon 
+    bio: >-
+      Photographer / Graphic Designer Toronto 🇨🇦 Let’s make something amazing
+    location: "Canada"
+    followers: 10500
+    engagement: 1258
+    commentsToLikes: 0.007622
+    id: ck8kg0jx5ge3w0j78himdm2ky
+    verified: false
+    hashtags: "#new, #vogue, #portrait, #graphicdesign"
   - username: "astawa.ca"
     fullname: >-
       Astawa
@@ -55,18 +67,6 @@ profiles:
     id: ckb9sq06lq82y0j23mtsqbw9j
     verified: false
     hashtags: "#bestfriendday, #foryou, #blackmusic, #prank"
-  - username: "dillon.kydd"
-    fullname: >-
-      dillon 
-    bio: >-
-      Photographer Toronto 🇨🇦 To book a shoot, message me through my website! ⬇️
-    location: "Canada"
-    followers: 10500
-    engagement: 929
-    commentsToLikes: 0.027513
-    id: ck8kg0jx5ge3w0j78himdm2ky
-    verified: false
-    hashtags: "#photoshoot, #photographer, #howto, #trending"
   - username: "janinedesigns"
     fullname: >-
       Janine Heinrichs
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.057686
     id: ck9k4yngfummt0j78mb6b3ssz
     verified: false
-    hashtags: "#tipsandtricks, #apex, #apexlegendsclips, #gamer"
+    hashtags: "#fyp, #tiktokggt, #apex, #gaming"
 ---

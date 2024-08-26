@@ -1,12 +1,24 @@
 ---
-title: Top 10 Runners Instagram Influencers In Venezuela In 2023
+title: Top 10 Runners Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top runners Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #model #style.
+  Find top runners Instagram influencers in Venezuela in 2024. Most popular hashtags: #venezuela #tbt #amor.
 platform: Instagram
-hits: 11
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 11 Instagram influencers like this in Venezuela for you to collaborate.
+hits: 10
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 10 Instagram influencers like this in Venezuela for you to pitch.
 profiles:
+  - username: "gabidall"
+    fullname: >-
+      Gabriela Dallagnol ⚡️
+    bio: >-
+      Dios es todo🙏🏻 Mamá 👧🏻❤️ Modelo Internacional👠 Capitana Adidas Runners 🇨🇱🏃🏼‍♀️❤️ Maratonista #TeamGabidall 10K🔓 21K🔓 42K x 4 🔓
+    location: "Venezuela"
+    followers: 89956
+    engagement: 80
+    commentsToLikes: 0.015391
+    id: ck5hogmxepj2s0i11ln7vpr0u
+    verified: false
+    hashtags: "#mariaisidora, #creadoconadidas, #publicidad, #adidasrunnerssantiago"
   - username: "gabrielacoronado10"
     fullname: >-
       Gabriela Coronado
@@ -67,18 +79,6 @@ profiles:
     id: ck5q935mz95vc0i11fs7ayhhb
     verified: false
     hashtags: "#photojournalism, #caracas, #streetphotography, #venezuela"
-  - username: "bio.lunatic"
-    fullname: >-
-      𝘎𝘌𝘕𝘌𝘚𝘐𝘚 𝘗𝘜𝘎𝘓𝘐𝘌𝘚𝘌
-    bio: >-
-      - from Venezuela, currently Barcelona 📩: gen.pugliesep@gmail.com Ambassador: @vitaminwellesp #adidasrunnersbarcelona 👇🏻 Healthy recipes on YouTube
-    location: "Venezuela"
-    followers: 17976
-    engagement: 616
-    commentsToLikes: 0.162496
-    id: ck0tvwbrnd2mu0i19v8w7tipq
-    verified: false
-    hashtags: "#shufflestyles, #vitaminwell, #deportista, #adidasrunnersbarcelona"
   - username: "lilianamusik"
     fullname: >-
       lilianamusik

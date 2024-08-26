@@ -1,24 +1,12 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Melbourne In 2023
+title: Top 10 Fashion TikTok Influencers In Melbourne In 2024
 description: >-
-  Find top fashion TikTok influencers in Melbourne in 2023. Most popular hashtags: #fyp #fashion #foryoupage #foryou.
+  Find top fashion TikTok influencers in Melbourne in 2024. Most popular hashtags: #fyp #fashion #foryou #melbourne.
 platform: TikTok
-hits: 26
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: inBeat has 26 TikTok influencers like this in Melbourne, Australia for you to pitch.
+hits: 27
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 27 TikTok influencers like this in Melbourne, Australia for you to work with.
 profiles:
-  - username: "gemmaaa_white"
-    fullname: >-
-      Gemma White
-    bio: >-
-      Just be your weird and wonderful self 💫 Bachelorau S8 🌹 Insta gemmaaa_white
-    location: "Australia"
-    followers: 21000
-    engagement: 361
-    commentsToLikes: 0.064412
-    id: ckal6d30cab7d0i78fpyb57x1
-    verified: false
-    hashtags: "#propertymanager, #realestateagent, #fyp, #foryoupage"
   - username: "allyalexandraduh"
     fullname: >-
       🍒 Alexandra 🍒
@@ -127,4 +115,16 @@ profiles:
     id: ck9fipmuubzv20j786zo1i0dh
     verified: false
     hashtags: "#foryou, #smallbusinesscheck, #the5thfam, #the5th"
+  - username: "tahls.ajw"
+    fullname: >-
+      Tahlia Ward
+    bio: >-
+      Yes I'm 21! Goal 120k Melbourne Itsjusttahlia@gmail.com
+    location: "Australia"
+    followers: 111400
+    engagement: 1961
+    commentsToLikes: 0.026022
+    id: ck9m4hzgnkduf0j78oihgyoxs
+    verified: false
+    hashtags: "#beautytutorial, #10secondsvs, #makeup, #cosplay"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Colombia In 2023
+title: Top 10 Fitness TikTok Influencers In Colombia In 2024
 description: >-
-  Find top fitness TikTok influencers in Colombia in 2023. Most popular hashtags: #fitness #fyp #parati #viral.
+  Find top fitness TikTok influencers in Colombia in 2024. Most popular hashtags: #fitness #fyp #parati #viral.
 platform: TikTok
 hits: 36
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform holds 36 TikTok influencers like this in Colombia for you to work with.
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 36 TikTok influencers like this in Colombia for you to work with.
 profiles:
   - username: "soyleocuellar"
     fullname: >-

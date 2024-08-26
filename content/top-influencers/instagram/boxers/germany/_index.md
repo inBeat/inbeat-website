@@ -1,12 +1,60 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Germany In 2023
+title: Top 10 Boxers Instagram Influencers In Germany In 2024
 description: >-
-  Find top boxers Instagram influencers in Germany in 2023. Most popular hashtags: #boxing #boxer #hundefotografie #boxingtraining.
+  Find top boxers Instagram influencers in Germany in 2024. Most popular hashtags: #boxing #hundeliebe #hundefotografie #boxer.
 platform: Instagram
-hits: 105
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our database holds 105 Instagram influencers like this in Germany for you to connect with.
+hits: 115
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 115 Instagram influencers like this in Germany for you to contact.
 profiles:
+  - username: "mkslattery"
+    fullname: >-
+      Mary-Kate Slattery
+    bio: >-
+      Howya ;) Boxer fighting out of @orourkesgym Movement Meditations 🕊 Law and M.Phil grad @trinitycollegedublin Collabs @thecollaborationsagency 🤍
+    location: "Germany"
+    followers: 20516
+    engagement: 868
+    commentsToLikes: 0.010597
+    id: ck601bmoef6us0i14qi14j2c6
+    verified: false
+    hashtags: "#boxing, #boxingdublin"
+  - username: "emrecukur"
+    fullname: >-
+      Emre Cukur
+    bio: >-
+      ➸ Professional Boxer ➸ Personal Trainer ➸ owner of @leosboxgym.giesing ➸ WBA Continental Champion ➸ emre.cukur@lionssportpromotion.de
+    location: "Germany"
+    followers: 70259
+    engagement: 171
+    commentsToLikes: 0.010860
+    id: ck6txg3cyxmz80j711s09pnuw
+    verified: true
+    hashtags: "#photooftheday, #active, #popularpic, #happy"
+  - username: "ninas_wohnwelt"
+    fullname: >-
+      Nina
+    bio: >-
+      Diy, Deko & Reisen 🌸 Boxer Peppa 🤍 📩 ninas_wohnwelt@gmx.de 30% Rabatt auf alle Nagelfolien mit dem Code "NINASWOHNWELT" bei Manifix 🤍
+    location: "Germany"
+    followers: 220361
+    engagement: 127
+    commentsToLikes: 0.135146
+    id: ck6u5d62i8y990j71ex650t1n
+    verified: false
+    hashtags: "#landhausstil, #dekoinspiration, #dekorationsideen, #solebich"
+  - username: "leonbauer1"
+    fullname: >-
+      Leon Bauer | Pro Athlet
+    bio: >-
+      🇩🇪Boxing and More 🦁Undefeated 🥊IBF & IBO Jr. 🚀 @universumboxing Boxer geschäftliche Anfragen : Kontakt@leon-bauer.com
+    location: "Germany"
+    followers: 47870
+    engagement: 123
+    commentsToLikes: 0.033481
+    id: ck5hhp5ca9e4s0i11wsn1xnzk
+    verified: true
+    hashtags: "#timorost, #universumboxingnight10, #dominikameri, #boxing"
   - username: "remi.bojani"
     fullname: >-
       Rémi Bojani
@@ -31,18 +79,6 @@ profiles:
     id: ck6u7bz4bkmv90j71rryirfju
     verified: true
     hashtags: "#boxingheads, #boxingfitness, #boxen, #boxing"
-  - username: "ninas_wohnwelt"
-    fullname: >-
-      Nina 🌸
-    bio: >-
-      Ganz viel #diy #interior und #deko Und in den Storys täglich Daily Life mit #boxer Peppa ❤️ ▫️▫️▫️ 📩 ninas_wohnwelt@gmx.de
-    location: "Germany"
-    followers: 28187
-    engagement: 605
-    commentsToLikes: 0.213700
-    id: ck6u5d62i8y990j71ex650t1n
-    verified: false
-    hashtags: "#diyhomedecor, #interiordiy, #thornior, #diytutorial"
   - username: "boxer.georgi.24.06"
     fullname: >-
       Georgi
@@ -67,18 +103,6 @@ profiles:
     id: ck137h2izbi4y0i19qe11ykjy
     verified: false
     hashtags: "#auslandshund, #hundeliebe, #fellfreunde, #canecorsomix"
-  - username: "tinarupprecht"
-    fullname: >-
-      Tina Rupprecht I Tiny Tina
-    bio: >-
-      🏆WBC Boxing World Champion 🥊Professional Boxer 🥇Boxerin des Jahres 2019 🥇Sportlerin des Jahres 2018 & 2019 📩 pr@tina-rupprecht.de
-    location: "Germany"
-    followers: 4871
-    engagement: 1042
-    commentsToLikes: 0.038574
-    id: ck5qd9o48ui3b0i11yljqt0ea
-    verified: false
-    hashtags: "#augsburg, #worldchampionship, #sunshine, #happy"
   - username: "carlomisha"
     fullname: >-
       ᴄᴀʀʟᴏ & ᴍɪsʜᴀ
@@ -103,28 +127,4 @@ profiles:
     id: ck13bwzk9xjml0i19us8iyijc
     verified: false
     hashtags: "#boxing, #borz, #loyalathletics, #teamshadalov"
-  - username: "sophiealisch"
-    fullname: >-
-      SOPHIE • ALISCH
-    bio: >-
-      🌟Pro Boxer @teamsauerland 🥊 🌟19 🌟 @o1ne.sport Athlete 🌟@alischbxng Owner 🌟Former Member German National & Olympic Team 🇩🇪
-    location: "Germany"
-    followers: 78675
-    engagement: 648
-    commentsToLikes: 0.024601
-    id: ck5c59a2030fz0i11vjsdnbjb
-    verified: true
-    hashtags: "#moveyourbody, #fitlife, #boxeo, #boxing"
-  - username: "boxerfixiert"
-    fullname: >-
-      Boxer Ty
-    bio: >-
-      ℬ𝒪𝓍ℯ𝓇 𝒯𝓎 Mastiff Boxer Tys_tag3buch 📍 Aachen NRW 📷 @lisalee.fotografie
-    location: "Germany"
-    followers: 8412
-    engagement: 812
-    commentsToLikes: 0.094189
-    id: ck5zkvhh1k8f20i149xwsz8vu
-    verified: false
-    hashtags: "#listenhundliebe, #liveforthestory, #dogshooting, #boxer"
 ---

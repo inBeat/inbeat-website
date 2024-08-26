@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Toronto In 2023
+title: Top 10 Models Instagram Influencers In Toronto In 2024
 description: >-
-  Find top models Instagram influencers in Toronto in 2023. Most popular hashtags: #model #photography #portrait #fashion.
+  Find top models Instagram influencers in Toronto in 2024. Most popular hashtags: #model #toronto #portrait #fashion.
 platform: Instagram
-hits: 75
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 75 Instagram influencers like this in Toronto, Canada for you to collaborate.
+hits: 132
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 132 Instagram influencers like this in Toronto, Canada for you to connect with.
 profiles:
   - username: "arsh.bhullar"
     fullname: >-
@@ -18,19 +18,7 @@ profiles:
     commentsToLikes: 0.015002
     id: ck5q1x07xd6vd0i11n25zwx99
     verified: false
-    hashtags: "#kisaanmajdoorektazindabad, #malemodel, #trending, #musicvideo"
-  - username: "merupictures"
-    fullname: >-
-      Meru (Mehrzad Vahdat)
-    bio: >-
-      | Portrait | Fashion | Beauty | Lifestyle | Corporate | | Music Video | Teaser | Promo | Interview | – Email/DM for rates! 🇨🇦 🏔 🌱
-    location: "Canada"
-    followers: 6245
-    engagement: 606
-    commentsToLikes: 0.110223
-    id: ck138wuiriesv0i19md7syjl8
-    verified: false
-    hashtags: "#reels, #videographers, #photographer, #midtowntoronto"
+    hashtags: "#actor, #karanaujla, #modellife, #instagood"
   - username: "gabrielabellydancer"
     fullname: >-
       Gabriela Carnovale
@@ -43,78 +31,78 @@ profiles:
     id: ck8tax2ogtfl20j78wsc5xugc
     verified: false
     hashtags: "#monday, #model, #torontomodel, #creative"
-  - username: "minaj.mp"
+  - username: "toutiyaghasemi"
     fullname: >-
-      ♏️inajmp💮
+      Toutiya Ghasemi 🧿 توتیا
     bio: >-
-      Fashion Stylist~Model~Beauty pro~ Miss face of humanity 2021👑 I can’t teach anybody anything,I can only make them think.♻️👩‍❤️‍💋‍👨🇨🇦 @unik.models
+      «به نزدیکی سُرمِه چشم» Founder of @toutiafit 🩵
     location: "Canada"
-    followers: 81514
-    engagement: 267
-    commentsToLikes: 0.055639
-    id: ckaotndqcwn0x0i78myma80eh
+    followers: 265662
+    engagement: 343
+    commentsToLikes: 0.007110
+    id: ckapacrpsvkxs0i78gkb1tixc
     verified: false
-    hashtags: "#fashionshow, #beautiful, #artoftheday, #outfitinspiration"
-  - username: "karinacabiling"
-    fullname: >-
-      Karina Cabiling
-    bio: >-
-      Motherhood, self-care & laughs Boy mom x2 Model(Sutherland Toronto|FolioMontreal) Founder @islarosaswim 📧 karina.cabiling@gmail.com
-    location: "Canada"
-    followers: 74242
-    engagement: 672
-    commentsToLikes: 0.026977
-    id: ckf5lt8e2qxhe0j23vwo9jcn5
-    verified: false
-    hashtags: "#funnyreels, #momsofig, #relatablepost, #momlife"
+    hashtags: ""
   - username: "constance.angel"
     fullname: >-
-      A N G E L   C O N S T A N C E
+      ANGEL CONSTANCE
     bio: >-
-      💼 | Freelance Model 📍 | Toronto 🐰 | Playboy Muse of the Year - 2019
+      📍Toronto Model Mgmt: @citizen.agency
     location: "Canada"
-    followers: 56434
-    engagement: 479
-    commentsToLikes: 0.026289
+    followers: 57744
+    engagement: 233
+    commentsToLikes: 0.018732
     id: ck13c8xfiz64d0i19t6udft1x
     verified: false
-    hashtags: "#happynewyear2021, #2021"
+    hashtags: "#coolgirlsummer, #ootd, #styleinspo, #zara"
   - username: "pompomchewy"
     fullname: >-
       𝗣𝗼𝗺 𝗣𝗼𝗺 𝗖𝗵𝗲𝘄𝘆
     bio: >-
       👔 The Littlest Trendsetter 🎬 Working Actor and Model 🍁 Toronto
     location: "Canada"
-    followers: 63089
-    engagement: 111
-    commentsToLikes: 0.032053
+    followers: 62151
+    engagement: 112
+    commentsToLikes: 0.033173
     id: ck137hbfpbji70i19wuid16nw
     verified: false
-    hashtags: "#pomeranianpage, #instapom, #pomstagram, #pomeraniansofinstagram"
-  - username: "yourdappergoals"
+    hashtags: "#pom, #pompup, #pomerania, #dog"
+  - username: "shalini_matt"
     fullname: >-
-      Midhvan Gulati
+      Shalini
     bio: >-
-      •MENSWEAR• Use #yourdappergoals Businessman/Blogger/Student Based📍- British Columbia, Canada🇨🇦 SNAPCHAT👻- midhvan28
+      Fashion • Fitness• Beauty 📩: shalini.matt@hotmail.com 📍Toronto, Canada
     location: "Canada"
-    followers: 47354
-    engagement: 266
-    commentsToLikes: 0.031125
-    id: ck5hqblkfsu3o0i11qym0xxbb
+    followers: 37013
+    engagement: 6730
+    commentsToLikes: 0.001572
+    id: ck6uernicsp5o0j71ntftvyov
     verified: false
-    hashtags: "#reelsindia, #happy, #beautiful, #black"
-  - username: "beautifullifestudios"
+    hashtags: "#trending, #barbiemovie, #dailyfashion, #fashioninspo"
+  - username: "oliviamceldonn"
     fullname: >-
-      Beautiful Life Studios Inc
+      Liv McEldon
     bio: >-
-      VANCOUVER - @beautifullifebc Toronto | Vancouver | Miami 📧 team@beautifullifestudios.com Joyful, tasteful & elegant storytelling
+      🫶🏼Olivia McEldon Kalina, but you can call me Liv 🇨🇦Canadian Model, Influencer & Singer ☮️The Olive tree is an emblem of peace
     location: "Canada"
-    followers: 28570
-    engagement: 73
-    commentsToLikes: 0.058440
-    id: ck5zk53p8itul0i14arslfser
+    followers: 9322
+    engagement: 110
+    commentsToLikes: 0.046238
+    id: ckprgro6t8nb80j23q00edglq
     verified: false
-    hashtags: "#okanaganwedding, #destinationwedding, #website, #vancouverwedding"
+    hashtags: "#glam, #commentforcomment, #hair, #portrait"
+  - username: "nicolejamesofficial"
+    fullname: >-
+      Nicole James
+    bio: >-
+      🎬 Young Erin Voss on Locke & Key-Netflix 🎬 Gabby on Boombats-Amazon Prime Video ⭐️ACTRA ⭐️Premier Artists' Management
+    location: "Canada"
+    followers: 5890
+    engagement: 1549
+    commentsToLikes: 0.042129
+    id: ck9wf323jn2ay0j78k0safssh
+    verified: false
+    hashtags: "#hollywoodnorth, #torontoactress, #teenactors, #oncamera"
   - username: "samialauryn"
     fullname: >-
       Samia McClain
@@ -127,4 +115,16 @@ profiles:
     id: ckaoyom10ie8z0i78gn4qplvz
     verified: false
     hashtags: "#resort, #nassau, #winelover, #italy"
+  - username: "merupictures"
+    fullname: >-
+      𝕸𝖊𝖗𝖚 𝕻𝖎𝖈𝖙𝖚𝖗𝖊𝖘 𝕾𝖙𝖚𝖉𝖎𝖔 🇨🇦
+    bio: >-
+      📍Toronto 🏔 ♉️ 🌱 🇮🇷 🇨🇦
+    location: "Canada"
+    followers: 8683
+    engagement: 1298
+    commentsToLikes: 0.112900
+    id: ck138wuiriesv0i19md7syjl8
+    verified: false
+    hashtags: "#modelphotoshoot, #model, #modeling, #portraitsvision"
 ---

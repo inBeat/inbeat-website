@@ -1,130 +1,130 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Montreal in 2023
+title: Top 10 Comedians Instagram Influencers In Montreal In 2024
 description: >-
-  Find top comedians Instagram influencers in Montreal in 2023. Most popular hashtags: #standup #montreal #humour.
+  Find top comedians Instagram influencers in Montreal in 2024. Most popular hashtags: #comedy #standup #reels #montreal.
 platform: Instagram
-hits: 6
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 6 Instagram influencers like this in Montreal, Canada for you to connect with.
+hits: 5
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 5 Instagram influencers like this in Montreal, Canada for you to collaborate.
 profiles:
-  - username: "virgfortin"
+  - username: "kevinlapierre_"
     fullname: >-
-      Virginie Fortin
+      KEVIN
     bio: >-
-      Blagues et bobettes. En tournée partout au Québec- billets ici ⬇️
+      ma vie, my life 📍 mtl 🎙️ comedian 🌭 mustard daddy
     location: "Canada"
-    followers: 91465
-    engagement: 110
-    commentsToLikes: 0.018971
-    id: ck5q6ss9jyoz90i115zpjgo79
-    verified: true
-    hashtags: "#sonyimages, #dubruitdanslecosmos, #standup, #sadcover"
-  - username: "mikewardca"
-    fullname: >-
-      Mike Ward
-    bio: >-
-      Jokes & vodka
-    location: "Canada"
-    followers: 60027
-    engagement: 155
-    commentsToLikes: 0.017267
-    id: ck5c9ws45c9x90i11kebt7j3x
-    verified: true
-    hashtags: "#standupcomedy, #standup, #sousecoute, #podcasting"
-  - username: "taniadutel"
-    fullname: >-
-      Tania Dutel
-    bio: >-
-      Confinée sur @netflixfr «Comedians of the world»🇫🇷Épisode 3
-    location: "Canada"
-    followers: 27388
-    engagement: 670
-    commentsToLikes: 0.021881
-    id: ck55ku3rv03n50i11ifrkvmlu
-    verified: true
-    hashtags: "#saintetienne, #montreal, #confinement, #coiffeur"
-  - username: "thisisjosho"
-    fullname: >-
-      Josh Otusanya 🇳🇬
-    bio: >-
-      📲 ✘ TikTok: JoshOtusanya (920k+) ⚡️ 🎤 ✘ Stand up Comedian ⚽️ ✘ Former D1 Soccer Player 📝 ✘ HuffPost & Inc Mag
-    location: "Canada"
-    followers: 7011
-    engagement: 758
-    commentsToLikes: 0.086325
-    id: ck8wfc1alfi680j78jett4b5z
+    followers: 110844
+    engagement: 87
+    commentsToLikes: 0.035232
+    id: ck6tjmhap304e0j71yf2f9w7j
     verified: false
-    hashtags: "#positiveenergy, #oneminutepodcast, #blackbeardedmen, #blackmodels"
+    hashtags: "#humour, #comedy, #comedie, #standup"
+  - username: "bobiproduction"
+    fullname: >-
+      bobiproduction
+    bio: >-
+      Toute l'actualité de la Bobi Production en LIVE!� FRIENDS COMEDY SHOW BILLETS👇🏾
+    location: "Canada"
+    followers: 164735
+    engagement: 410
+    commentsToLikes: 0.055030
+    id: ckxp7y8rma19f0j23mzzlqwdg
+    verified: false
+    hashtags: "#son, #comedie, #bordel, #antilles"
+  - username: "donny_oberoi"
+    fullname: >-
+      Donny Ⓥ
+    bio: >-
+      Third Eye Media 🎬 @thirdeye__studios @mtlive.ca
+    location: "Canada"
+    followers: 18659
+    engagement: 283
+    commentsToLikes: 0.142772
+    id: ck8sxgp5yhbu00j78ot5vw3qb
+    verified: false
+    hashtags: "#plantbased, #veganaf, #foodie, #lmao"
+  - username: "justforlaughs"
+    fullname: >-
+      Just For Laughs
+    bio: >-
+      The host of the world’s largest comedy festival is now serving up hot comedy, spicy clips, and fresh digital originals.
+    location: "Canada"
+    followers: 299889
+    engagement: 25
+    commentsToLikes: 0.016489
+    id: ck0u7dhjf4ijl0i19922y1blu
+    verified: true
+    hashtags: "#jflfestival, #standupcomedy, #jflmontreal, #standup"
   - username: "dolino.real"
     fullname: >-
       Dolino
     bio: >-
       
     location: "Canada"
-    followers: 2670
-    engagement: 784
-    commentsToLikes: 0.154156
+    followers: 3066
+    engagement: 693
+    commentsToLikes: 0.203815
     id: ck601t273g4fl0i14vmxhmmr3
     verified: false
-    hashtags: "#canada, #quebec, #france, #rire"
-  - username: "vegan__as__fvck"
+    hashtags: "#canada, #montreal, #coronavirus, #rires"
+  - username: "instafunny_manan"
     fullname: >-
-      Donny Ⓥ 🌱
+      Manan Desai
     bio: >-
-      ❤️ Love and compassion 🎉 @vegan__af__events 🧢 @vegan__af__apparel 👨🏽‍🍳 @vegan__af__kitchen 🎬 @veganfirstbite
+      Comedian & Actor Content - Creator, Curator & Producer www.manandesai.in
     location: "Canada"
-    followers: 14514
-    engagement: 460
-    commentsToLikes: 0.095607
-    id: ck8sxgp5yhbu00j78ot5vw3qb
+    followers: 275389
+    engagement: 1337
+    commentsToLikes: 0.004535
+    id: ck5pwjdzun3d70i114mni37zw
     verified: false
-    hashtags: "#plantbased, #veganforlife, #vegansofla, #veganbabe"
-  - username: "jacob.ursomarzo"
+    hashtags: "#thecomedyfactory, #manandesai, #standupcomedy, #gujarati"
+  - username: "ushappyfour"
     fullname: >-
-      Jacob Ursomarzo
+      Em Weinmann
     bio: >-
-      Cameo link below Actor Comedian Creator • Tik Tok @ br0ce Twitter @ jacob.ursomarzo
+      Some sentimental swearing, a kid that sings, a kid comedian, a design business, Tourette’s parenting, and a house to transform. ushappyfour@gmail.com
     location: "Canada"
-    followers: 359812
-    engagement: 2040
-    commentsToLikes: 0.013856
-    id: ck8sw1voddi640j78e8e73tla
+    followers: 8994
+    engagement: 463
+    commentsToLikes: 0.250681
+    id: clbi52iw447oz0j08j4dub8pl
     verified: false
-    hashtags: "#childactor, #anne, #arthur, #jacobursomarzo"
-  - username: "esthermonster"
+    hashtags: "#allkidz, #filter, #whereami, #instareels"
+  - username: "mattzpavich"
     fullname: >-
-      esther povitsky
+      Matt Pavich
     bio: >-
-      stand up comedian & actor sweatpant entrepreneur @sleepoverbyesther one hour stand up special HOT FOR MY NAME on cc.com TEXT ME 847-648-9098
+      Comedian/Actor. Watch my debut Special “Wednesdays @ Bellevue” Book me! Bookings@mattzpavich.com
     location: "Canada"
-    followers: 187229
-    engagement: 443
-    commentsToLikes: 0.020354
-    id: ck15syzmkfiy50i19kbeagsbh
-    verified: true
-    hashtags: ""
-  - username: "julienolke"
-    fullname: >-
-      Julie Nolke
-    bio: >-
-      Actor. Writer. Comedian. 🇨🇦 Bookings: carolyn@grandwaveentertainment.com
-    location: "Canada"
-    followers: 109855
-    engagement: 488
-    commentsToLikes: 0.016286
-    id: ckap186x3tgwc0i78el2ggkmr
+    followers: 42525
+    engagement: 1829
+    commentsToLikes: 0.036893
+    id: cl45xzzxuk3fy0i23jrif9q1y
     verified: false
-    hashtags: "#mechanic, #2gether4ever, #nofilter"
-  - username: "sunnydcomedy"
+    hashtags: "#standup, #funny, #comedy, #standupcomedy"
+  - username: "peternguyen"
     fullname: >-
-      Sunee Dhaliwal
+      Peter Nguyen
     bio: >-
-      OvO, Comedian, lover by default, and I have a mild sneaker problem Twitter: @sunnydcomedy Snapchat: sunee_dhaliwal Check out the interview 👇
+      wannabe comedian TikTok: (4.3M) | YouTube: (1.4M) 📥: peter@rizziandrizzi.com
     location: "Canada"
-    followers: 38443
-    engagement: 100
-    commentsToLikes: 0.075775
-    id: ck5q0gmf15wbq0i110fiye1yj
+    followers: 888986
+    engagement: 1003
+    commentsToLikes: 0.005303
+    id: clnbwi1e159vr0j086w0b0fi2
     verified: false
-    hashtags: "#blm, #standup, #winnipeg, #cute"
+    hashtags: "#pov, #memes, #tiktokvideos, #reels"
+  - username: "awwwnchal"
+    fullname: >-
+      Aanchal Agrawal
+    bio: >-
+      Mumbai📍New York Comedian | Actor | NYU👩‍🎓| Global Ambassador of Friend Zone | God’s Favorite Child | Founder @allwomen.inc Link to shows/videos👇🏼
+    location: "Canada"
+    followers: 540542
+    engagement: 627
+    commentsToLikes: 0.016525
+    id: clnsitighgx370j08lzim44rm
+    verified: false
+    hashtags: "#tatawpl, #awwwnchal, #reelitfeelit, #reels"
 ---

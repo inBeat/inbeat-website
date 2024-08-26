@@ -1,24 +1,48 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Indonesia In 2023
+title: Top 10 Stylists Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top stylists Instagram influencers in Indonesia in 2023. Most popular hashtags: #fashion #style #aesthetic.
+  Find top stylists Instagram influencers in Indonesia in 2024. Most popular hashtags: #ootd #reels #fyp.
 platform: Instagram
-hits: 94
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 94 Instagram influencers like this in Indonesia for you to pitch.
+hits: 95
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 95 Instagram influencers like this in Indonesia for you to work with.
 profiles:
+  - username: "prilianurafrida"
+    fullname: >-
+      PRILI
+    bio: >-
+      Hijab stylist @byprilianurafrida Live streamer🎤📹📸 For business or endorsement (+62) 81381012802 Promocode Lighthouse👇
+    location: "Indonesia"
+    followers: 96093
+    engagement: 183
+    commentsToLikes: 0.048504
+    id: ck5hprqnorv170i11nyus78jf
+    verified: false
+    hashtags: "#jimshoneyhampers, #jhramadhan, #jhidulfitri, #covid19"
   - username: "steffisanta"
     fullname: >-
       Steffi Santa
     bio: >-
       🐿 Fashion Stylist @steffisantaswork / TikTok/Reels Producer (porto di IG highlight) Endorsement: 0878-8369-5662 (Cindy) 💌 steffisantas@gmail.com
     location: "Indonesia"
-    followers: 13636
-    engagement: 327
-    commentsToLikes: 0.029745
+    followers: 15124
+    engagement: 147
+    commentsToLikes: 0.030281
     id: ck8sx7vvzggci0j78zgcb3gwn
     verified: false
-    hashtags: "#ootd, #outfits, #outfitinspo, #ootdindo"
+    hashtags: "#rodatronton, #ootd, #jfw2024, #lokalbrand"
+  - username: "oliastepanenco"
+    fullname: >-
+      Olia Stepanenco
+    bio: >-
+      📍 𓆙 BALI 𓆸 5 YEARS 𓉠 MOTHER OF👉@style_retreat_bali_shop ____________ BEFORE: ⓈⓉⓎⓁⒾⓈⓉ ⓉⓋ ⓅⓇⒺⓈⒺⓃⓉⒺⓇ ⓅⒺⓇⓈⓄⓃⒶⓁ ⓈⒽⓄⓅⓅⒺⓇ
+    location: "Indonesia"
+    followers: 31233
+    engagement: 131
+    commentsToLikes: 0.034402
+    id: ck6tv2kzujtba0j71qzwqcl2v
+    verified: false
+    hashtags: ""
   - username: "nova.arioo"
     fullname: >-
       nova ario
@@ -31,6 +55,30 @@ profiles:
     id: ck9wd95dwendd0j78uy3n422r
     verified: false
     hashtags: "#selfservicelaundry, #rosannaonline, #spreiaesthetic, #thedailywashlaundromat"
+  - username: "genunerd"
+    fullname: >-
+      W I S N U  G E N U
+    bio: >-
+      My Androgynous Quirky Rebellious Chic Visual Diary ★ Fashion & Lifestyle - Creative Director/ Stylist VIVA LA TAUREAN! ♉ 📩 contactgenu@gmail.com
+    location: "Indonesia"
+    followers: 40130
+    engagement: 57
+    commentsToLikes: 0.005937
+    id: ck139fhrjl1hk0i197v73j2xs
+    verified: false
+    hashtags: "#lacingmykite, #reels, #bali, #ootd"
+  - username: "rikaekawati"
+    fullname: >-
+      Teh Rika | Halal Influencer, Food Stylist & Photographer
+    bio: >-
+      Food Stylist & Photographer | Creator #InfoHalalTehRika #DapurHalalTehRika #TipsFotoTehRika #KelasTehRika @1001SunnyBrickHouse INPeople 📍Dpk, Jkt
+    location: "Indonesia"
+    followers: 63850
+    engagement: 140
+    commentsToLikes: 0.042611
+    id: ck135gebf1a930i19fls0lpt2
+    verified: false
+    hashtags: "#halalmui, #dapurtehrika, #uk, #halalcertified"
   - username: "brigidalourdes"
     fullname: >-
       🌸 A Daydreamer & Romantic Vibes 🌸
@@ -42,89 +90,41 @@ profiles:
     commentsToLikes: 0.029573
     id: ck0tvg84tb7tf0i19npgjwh98
     verified: false
-    hashtags: "#aestheticvideos, #cottagecoreaesthetic, #renaissance, #reels"
-  - username: "ayladimitri"
+    hashtags: "#reelsvideo, #aestheticvideos, #fashion, #holiday"
+  - username: "yoland_handoko"
     fullname: >-
-      Ayla Dimitri
+      𝙔𝙤𝙡𝙖𝙣𝙙 𝙃𝙖𝙣𝙙𝙤𝙠𝙤
     bio: >-
-      Welcome to Aystagram! 🐯 Former Fashion Stylist & Fashion Editor Virgo. ENFJ-T. Dreamer and Achiever 🦋 💌: ayladimitri.contact@gmail.com
+      - Fashion stylist, represented by @studio47id. - Co-owner & founder @krama.cc - Daddy of four 🐶🐶🐶🐱. - For my updated portolio, click ⬇️.
     location: "Indonesia"
-    followers: 407732
-    engagement: 7
-    commentsToLikes: -1.064617
-    id: ck0ucv27uhrj90i19p7t5gwek
+    followers: 22738
+    engagement: 19
+    commentsToLikes: 0.237382
+    id: ck14i7l04e1dd0i19d0uhk6lg
+    verified: false
+    hashtags: "#tumi, #yolandhandoko, #tumitravel, #perfectingthejourney"
+  - username: "wanda_haraa"
+    fullname: >-
+      Wanda Harra
+    bio: >-
+      Fashion stylist / Creative Director / @wandaharaaproject Cp Email : wandairwandaa@gmail.com
+    location: "Indonesia"
+    followers: 496207
+    engagement: 39
+    commentsToLikes: 0.010666
+    id: ck135zsvw41yy0i19fiwu3f34
     verified: true
-    hashtags: "#holidays, #ichoosedigimap, #herbana, #uniqloindonesia"
-  - username: "gabeamor"
+    hashtags: "#pradaholiday, #lisaju, #wandaharaaproject, #stylistlife"
+  - username: "bimopermadi"
     fullname: >-
-      Gabriel Perez
+      Bimo Permadi
     bio: >-
-      Fashion Stylist | Creative Director 👑 @queenssential 📧 mrgabeamor@gmail.com 📍Sydney, Australia Bigo ID: mrgabeamor
+      Fashion Director, Stylist, Asst. Managing Editor @herworldindonesia, Fashion Speaker and Beauty Enthusiast 📍Jakarta, IDN DM for inquiries
     location: "Indonesia"
-    followers: 97666
-    engagement: 237
-    commentsToLikes: 0.021562
-    id: ck5btluyng73h0i11f1n0yyzg
+    followers: 72562
+    engagement: 25
+    commentsToLikes: 0.024993
+    id: ck5ccmi1phmqo0i11m258dcbx
     verified: false
-    hashtags: "#ad, #john13, #trusttheprocess, #stayhome"
-  - username: "saviragunawan"
-    fullname: >-
-      Savira Gunawan
-    bio: >-
-      I‘m a fashion stylist / muse Tiktok : @saviragunawans @styledbyraa @fashunbyvira 🌟✨⭐️ Managed by @hashnetwork.co (+62)8192440707 (Andre)
-    location: "Indonesia"
-    followers: 22955
-    engagement: 800
-    commentsToLikes: 0.084546
-    id: ck0vv4vgenk3x0i19p8rhiqpy
-    verified: false
-    hashtags: "#amongus, #lookbook, #style, #aesthetics"
-  - username: "kavyasriraam"
-    fullname: >-
-      Kavya Sriram
-    bio: >-
-      Architect•Stylist•Aspiring Visual Director•Chennai. Email ID - kavyaasriraam@gmail.com
-    location: "Indonesia"
-    followers: 19064
-    engagement: 1461
-    commentsToLikes: 0.008575
-    id: ck5hl4ewcjjvd0i11li0br7u0
-    verified: false
-    hashtags: "#thalapathy, #costumedesign, #styling, #s12"
-  - username: "z0m_0"
-    fullname: >-
-      ZOM_O
-    bio: >-
-      Freelance Stylist Founder of @maison__o #styledbyz0m0 #filmsnapbyz0m0 #DM or via ID line maison_o
-    location: "Indonesia"
-    followers: 20396
-    engagement: 2226
-    commentsToLikes: 0.007401
-    id: ck6tue11dfsoh0j7122k2nn4l
-    verified: false
-    hashtags: "#backstagemoments, #hair, #styledbyz0m0, #ninoco400"
-  - username: "kolkata_fooditude"
-    fullname: >-
-      Pritam | kolkata Blogger
-    bio: >-
-      Food stylist & Food Photographer Food Reviewer DM For Collaboration 🚫No Repost Without Permission 🚫 🥗 Zomato: level 13+
-    location: "Indonesia"
-    followers: 9992
-    engagement: 295
-    commentsToLikes: 0.400275
-    id: ckaouilq80fhy0i78uz3qvlxg
-    verified: false
-    hashtags: "#op, #reels, #big, #zomato"
-  - username: "synthiatjipto"
-    fullname: >-
-      Synthia ☀️ Jkt Food Travel
-    bio: >-
-      📍Jakarta, ID Food Stylist & Photographer 📸 by @syndrunomy with Canon EOS R DM for enquiry #syndru
-    location: "Indonesia"
-    followers: 45074
-    engagement: 111
-    commentsToLikes: 0.207820
-    id: ck9wd2udwdtlo0j78b6cch4zo
-    verified: false
-    hashtags: "#asmr, #buzzfeedfood, #f52grams, #syndrufairmont"
+    hashtags: "#bimofideproject, #ss24, #bimogoestoevents, #bimopermadi"
 ---

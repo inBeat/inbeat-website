@@ -1,12 +1,24 @@
 ---
-title: Top 10 Christian Instagram Influencers In Venezuela In 2023
+title: Top 10 Christian Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top christian Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #love #fashion #model.
+  Find top christian Instagram influencers in Venezuela in 2024. Most popular hashtags: #venezuela #caracas #tbt #venezuelan.
 platform: Instagram
-hits: 14
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 14 Instagram influencers like this in Venezuela for you to connect with.
+hits: 16
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 16 Instagram influencers like this in Venezuela for you to connect with.
 profiles:
+  - username: "jennyalvarezherrera"
+    fullname: >-
+      Jenny Alvarez Herrera
+    bio: >-
+      Compartiendo ideas #inspirationaloutfits Fashion 💫 StreetStyle 💫 Positive thinking Mom❤️Odontóloga🔅Founder @ajabuvzla Contacto comercial ➡️DM
+    location: "Venezuela"
+    followers: 31939
+    engagement: 174
+    commentsToLikes: 0.196780
+    id: ck0tuopz581fn0i19mh5ou9fg
+    verified: false
+    hashtags: "#stylinginspiration, #swarovski, #tendencia, #swarovskivenezuela"
   - username: "enmanueltravels"
     fullname: >-
       Enmanuel | Travel Blogger🇻🇪
@@ -19,18 +31,18 @@ profiles:
     id: ck0u88eej6q3q0i19xqh2lngk
     verified: false
     hashtags: "#propositos2021, #propositosdea, #viajerosvenezolanos, #viajerovenezolano"
-  - username: "valechavero"
+  - username: "anavirginiaescobar"
     fullname: >-
-      Valentina Chavero
+      Ana Virginia Escobar
     bio: >-
-      🙏🏼Filipenses 4:13 👶🏻Mamá Primeriza ✨Compartiendo&Creciendo 🤍Fe,Familia&Amor Propio 💡Seamos Luz en el Mundo 📍Tijuana/San Diego ↓ Mas Contenido Bonito
+      Comunicadora a tiempo completo 📻 88.1 FM #MuchoQueContar 🎙Voz Comercial 🏦@bancamiga Twitter: @anavescobar
     location: "Venezuela"
-    followers: 20559
-    engagement: 771
-    commentsToLikes: 0.070607
-    id: ck9hch7hildjo0j788lqogfcv
+    followers: 165912
+    engagement: 57
+    commentsToLikes: 0.032329
+    id: ck602tp5hj3ab0i14nzk87a31
     verified: false
-    hashtags: "#sheingals, #oldnavystyle, #oldnavybaby, #juventudcristiana"
+    hashtags: "#tbt, #venezuela, #postalesdeanav, #caracas"
   - username: "djpirumusic"
     fullname: >-
       DJ PIRU
@@ -91,6 +103,18 @@ profiles:
     id: ck15rfqio7pgo0i191qr1s7yx
     verified: false
     hashtags: "#photography, #laguaira, #venezolanosenelmundo, #frasesmotivadoras"
+  - username: "yosoychristianc"
+    fullname: >-
+      CHRISTIAN CEDEÑO
+    bio: >-
+      𝐑𝐄𝐀𝐋 𝐒𝐓𝐀𝐓𝐄 𝐁𝐑𝐎𝐊𝐄𝐑 𝑨𝑺𝑬𝑺𝑶𝑹 𝑰𝑵𝑴𝑶𝑩𝑰𝑳𝑰𝑨𝑹𝑰𝑶 - 𝑨𝑹𝑸𝑼𝑰𝑻𝑬𝑪𝑻𝑼𝑹𝑨 𝒀 𝑫𝑰𝑺𝑬ÑO MATURÍN - LECHERÍA
+    location: "Venezuela"
+    followers: 121124
+    engagement: 126
+    commentsToLikes: 0.014799
+    id: ck8tcvv710vud0j78s08yv35s
+    verified: false
+    hashtags: "#maturin, #remodelacion, #inmobiliaria, #cocinas"
   - username: "chrisbettelli"
     fullname: >-
       Christian Bettelli
@@ -103,28 +127,4 @@ profiles:
     id: ck0vypnki56cl0i19l9tsx9vv
     verified: false
     hashtags: "#mar, #lecheria, #cerroelmorro, #dji"
-  - username: "eliasramirezofficial"
-    fullname: >-
-      Elias ramirez (el shielvo)🇩🇴
-    bio: >-
-      El chico de los carteles divertidos🪧💙 📌La creatividad no tiene límites 😂 50 cosas sobre mi en YouTube 👇
-    location: "Venezuela"
-    followers: 12713
-    engagement: 885
-    commentsToLikes: 0.071327
-    id: ck8t8bucujum60j78ixug24wi
-    verified: false
-    hashtags: "#ceroreligiosidad, #memesespa, #humorcristiano, #eliasramirez"
-  - username: "thequeenenigma"
-    fullname: >-
-      Queen Enigma
-    bio: >-
-      #BlackLivesMatter Haus of Crowne • 🇺🇸 PA Drag Queen Host | Brand Ambassador Model | Social Media Personality Business: E-Mail | DM
-    location: "Venezuela"
-    followers: 33429
-    engagement: 372
-    commentsToLikes: 0.037727
-    id: ckap4g19r77xp0i789qe3n1iy
-    verified: false
-    hashtags: "#allblacklivesmatter, #love, #pride, #runway"
 ---

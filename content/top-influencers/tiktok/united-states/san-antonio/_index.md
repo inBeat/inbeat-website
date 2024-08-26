@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In San Antonio In 2023
+title: Top 10 TikTok Influencers In San Antonio In 2024
 description: >-
-  Find top TikTok influencers in San Antonio in 2023. Most popular hashtags: #fyp #foryou #duet #sanantonio.
+  Find top TikTok influencers in San Antonio in 2024. Most popular hashtags: #fyp #foryou #duet #foryoupage.
 platform: TikTok
-hits: 260
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 260 TikTok influencers like this in San Antonio, United States for you to pitch.
+hits: 255
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat has 255 TikTok influencers like this in San Antonio, United States for you to work with.
 profiles:
   - username: "barbaraj.warren"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.034832
     id: ckcdnm1uyatfh0j23nxt6tzwx
     verified: false
-    hashtags: "#texas, #dance, #blizzard, #foryoupage"
+    hashtags: "#foryoupage, #colddays, #texasweather, #texas"
   - username: "i.amroman"
     fullname: >-
       I.amroman
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.039320
     id: ckdmr7etg9t1k0j2342fcagw1
     verified: false
-    hashtags: "#fun, #texas, #sanantoniotx, #fyp"
+    hashtags: "#sanantoniotx, #fun, #texas, #follow"
   - username: "sendo94"
     fullname: >-
       Rosendo Gonzalez

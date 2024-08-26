@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Russia In 2023
+title: Top 10 Fitness TikTok Influencers In Russia In 2024
 description: >-
-  Find top fitness TikTok influencers in Russia in 2023. Most popular hashtags: #fitness #sport #sportgirl #dance.
+  Find top fitness TikTok influencers in Russia in 2024. Most popular hashtags: #fitness #sport #sportgirl #workout.
 platform: TikTok
 hits: 18
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 18 TikTok influencers like this in Russia for you to connect with.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 18 TikTok influencers like this in Russia for you to contact.
 profiles:
   - username: "nastyanass_official"
     fullname: >-

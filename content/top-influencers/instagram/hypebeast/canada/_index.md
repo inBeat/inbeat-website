@@ -1,12 +1,48 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Canada In 2023
+title: Top 10 Hypebeast Instagram Influencers In Canada In 2024
 description: >-
-  Find top hypebeast Instagram influencers in Canada in 2023. Most popular hashtags: #hypebeast #way2ill #visualambassadors #moodygrams.
+  Find top hypebeast Instagram influencers in Canada in 2024. Most popular hashtags: #hypebeast #visualambassadors #ootd #reels.
 platform: Instagram
-hits: 24
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 24 Instagram influencers like this in Canada for you to connect with.
+hits: 26
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database has 26 Instagram influencers like this in Canada for you to work with.
 profiles:
+  - username: "lexsonator"
+    fullname: >-
+      Lexson Millington
+    bio: >-
+      1/2 of @_lbros Management @p1magency For inquiries email: lexson@p1m.ca or diana@p1m.ca
+    location: "Canada"
+    followers: 194686
+    engagement: 998
+    commentsToLikes: 0.020297
+    id: ckng6kaegscxc0j23w7z64s7n
+    verified: false
+    hashtags: "#mystyle, #fashionfuckery, #ootdmen, #oversizedfit"
+  - username: "chufflord"
+    fullname: >-
+      💎Liam Gunther
+    bio: >-
+      Here to be your friend and talk about kicks☮️ Personal Size: 12-13👟 YYC/CALGARY 🇨🇦 I GOT A STORE NOW?!?🤯👇 Sneakers / Vintage / Streetwear
+    location: "Canada"
+    followers: 50048
+    engagement: 23
+    commentsToLikes: 0.059437
+    id: ck137bm8haqd90i195lsi13f8
+    verified: false
+    hashtags: "#comedy, #influencer, #explore, #shoes"
+  - username: "happyboy._"
+    fullname: >-
+      J.E.F.F.R.E.Y  
+    bio: >-
+      📍🇨🇦🇳🇬
+    location: "Canada"
+    followers: 127894
+    engagement: 95
+    commentsToLikes: 0.048500
+    id: ck8t784gvfws90j78kzcntaus
+    verified: false
+    hashtags: "#explorepage, #pauseshots, #menswear, #bodybgoals"
   - username: "yvngrice"
     fullname: >-
       🍚 romulus 🍚
@@ -18,7 +54,7 @@ profiles:
     commentsToLikes: 0.015655
     id: ck8wfx1ecge400j78177l4upr
     verified: false
-    hashtags: "#offwhite, #hypebeast, #sneakerhead, #jordan1"
+    hashtags: "#offwhite, #reseller, #sneakerhead, #sneakers"
   - username: "ebenism"
     fullname: >-
       ebenism | animal art
@@ -43,30 +79,6 @@ profiles:
     id: ck0u7x4k45zyr0i19odypqhzd
     verified: false
     hashtags: "#eclectic, #theimaged, #exploretocreate, #leagueoflenses"
-  - username: "sneakertalkca"
-    fullname: >-
-      Christian Cantelon ✪
-    bio: >-
-      Sneaker, Steetwear & Travel Vlogger on YouTube 📍Based in Toronto, Canada 🇵🇭🇨🇦 Sneaker Page ➡️ @sneakertalk365
-    location: "Canada"
-    followers: 35527
-    engagement: 242
-    commentsToLikes: 0.042027
-    id: ck6tr4rlbwxc40j712p3elo58
-    verified: false
-    hashtags: "#jordan1, #streetwear, #hypebeast, #ootd"
-  - username: "factoryxii"
-    fullname: >-
-      Charles Hü | 不只是個攝影大叔
-    bio: >-
-      storyteller, photographer, father and traveller. my photo worth a thousand words. - Canon R5 /
-    location: "Canada"
-    followers: 33855
-    engagement: 209
-    commentsToLikes: 0.006549
-    id: ck8td8rrv2d5d0j78t18u7ifd
-    verified: false
-    hashtags: "#brunchoutfit, #foodgawker, #streetphotography, #moodygrams"
   - username: "auragramz"
     fullname: >-
       AuraGramz | MAGIC⚡
@@ -91,18 +103,6 @@ profiles:
     id: ck14l4v73sv690i19kv2xycjl
     verified: false
     hashtags: ""
-  - username: "chufflord"
-    fullname: >-
-      💎Liam Gunther🔥
-    bio: >-
-      ☯️JUST A BRO OBSESSED WITH KICKS☯️ . YYC/CALGARY A place for videos and fashion💧 . BUY YOUR HYPE HERE👉🏼 @hypehype.yyc
-    location: "Canada"
-    followers: 52397
-    engagement: 32
-    commentsToLikes: 0.090884
-    id: ck137bm8haqd90i195lsi13f8
-    verified: false
-    hashtags: "#shoes, #supreme, #clothing, #photography"
   - username: "admir23"
     fullname: >-
       Admir Hrbinic Photography
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.054825
     id: ck0tus4wp8hhm0i19aq0xg280
     verified: false
-    hashtags: "#vancouvercanada, #beautifuldestinations, #hypebeast, #vancouver"
+    hashtags: "#urban, #illgrammer, #all2epic5k, #way2ill"
   - username: "iamxdremonn"
     fullname: >-
       Dre S-H. Ashmeade
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.189811
     id: ck5pxadoqqumi0i11jr54d513
     verified: false
-    hashtags: "#outfitoftheday, #ootd, #hypedstreets, #dailystreetwearinspiration"
+    hashtags: "#streetfashion, #fashion, #streetwearco, #usf76"
 ---

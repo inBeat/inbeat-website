@@ -1,12 +1,36 @@
 ---
-title: Top 10 Instagram Influencers In Slovakia In 2023
+title: Top 10 Instagram Influencers In Slovakia In 2024
 description: >-
-  Find top Instagram influencers in Slovakia in 2023. Most popular hashtags: #slovakia #insta #slovakgirl #nature.
+  Find top Instagram influencers in Slovakia in 2024. Most popular hashtags: #slovakia #slovakgirl #slovensko #insta.
 platform: Instagram
-hits: 22
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 22 Instagram influencers like this in Slovakia for you to contact.
+hits: 21
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 21 Instagram influencers like this in Slovakia for you to connect with.
 profiles:
+  - username: "nie_je_tura_bez_stura"
+    fullname: >-
+      Radoslav Hoppej
+    bio: >-
+      Cestovanie | SVK | Eco | Motivácia 🧔🏻‍♂️Nie je túra bez Štúra🧔🏻‍♂️ TIPY NA VÝLETY A TÚRY PO 🇸🇰 🤝 Spolupráca➡️SS/email: hoppej.radoslav@gmail.com
+    location: "Slovakia"
+    followers: 45382
+    engagement: 149
+    commentsToLikes: 0.020867
+    id: ck0vwmji7ujgf0i19xu6yzlzb
+    verified: false
+    hashtags: "#tipnavylet, #svk, #vapnik, #klastornakalcia"
+  - username: "adamdurica"
+    fullname: >-
+      Adam Ďurica
+    bio: >-
+      📩 adamduricamanager@gmail.com 📞 +421 903 754 734
+    location: "Slovakia"
+    followers: 47667
+    engagement: 58
+    commentsToLikes: 0.020446
+    id: ck0w6te1ga7o90i19y3o35xh6
+    verified: true
+    hashtags: "#raego, #adamdurica, #dobreviacmenej, #tanec"
   - username: "kyruska_"
     fullname: >-
       Kristína Labajová
@@ -31,18 +55,6 @@ profiles:
     id: ck14guaau728p0i19zmjn142c
     verified: false
     hashtags: "#jankahairstylist, #fashioninspiration, #outfitoftheday, #inspiration"
-  - username: "adriazia"
-    fullname: >-
-      ↟ Adriana Žiačková ↟
-    bio: >-
-      𝙸'𝚖 𝚒𝚗 𝚕𝚘𝚟𝚎 𝚠𝚒𝚝𝚑 #𝓁𝒾𝒻𝑒 🦅↞ ➳𝚂𝙻𝙾𝚅𝙰𝙺𝙸𝙰♡🇸🇰 @dekorazia.sk 🧶 𝚖𝚊𝚔𝚎𝚛🙌🏽 𝚂𝚞𝚙𝚙𝚘𝚛𝚝𝚎𝚍 𝚋𝚢 @horsefeathers.eu 🏂 @mile_kidsclothing 🦖 @eyerim.eyewear 👓🕶 @thule 🏔🚴🏽‍♀️
-    location: "Slovakia"
-    followers: 30706
-    engagement: 316
-    commentsToLikes: 0.014947
-    id: ck14guswo74vx0i19oi0wato8
-    verified: false
-    hashtags: "#fashion, #thisisslovakia, #slovensko, #love"
   - username: "veronikamiklovicova"
     fullname: >-
       Veronika Miklovičová
@@ -115,16 +127,4 @@ profiles:
     id: ck1387qr7ewia0i19nidzlopg
     verified: false
     hashtags: "#tatry, #the, #czechroamers, #fotocatchers"
-  - username: "majklmnphotography"
-    fullname: >-
-      Photo by Michal
-    bio: >-
-      🔝 Landscape, Nature, Mountains, Hiking, Bike ❤️ 👉 Cooperation DM or mail 📩 📸 Travel & Hiking & Nature from the Slovakia 🇸🇰 📸📷📷📷📷📷📷📷📷📷📷📷📷📷📷📷📸
-    location: "Slovakia"
-    followers: 3914
-    engagement: 1832
-    commentsToLikes: 0.049906
-    id: ck0vwmi5juj8j0i19u2cse6qi
-    verified: false
-    hashtags: "#tatryslovakia, #hightatras, #thisisslovakia, #slovakianature"
 ---

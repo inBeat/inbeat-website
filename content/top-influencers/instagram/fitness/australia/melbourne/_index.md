@@ -1,12 +1,24 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Melbourne In 2023
+title: Top 10 Fitness Instagram Influencers In Melbourne In 2024
 description: >-
-  Find top fitness Instagram influencers in Melbourne in 2023. Most popular hashtags: #melbourne #fitness #fashion #australia.
+  Find top fitness Instagram influencers in Melbourne in 2024. Most popular hashtags: #fitness #melbourne #fashion #australia.
 platform: Instagram
-hits: 34
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 34 Instagram influencers like this in Melbourne, Australia for you to pitch.
+hits: 67
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 67 Instagram influencers like this in Melbourne, Australia for you to collaborate.
 profiles:
+  - username: "kamaldip_kahma_"
+    fullname: >-
+      Kamaldip Singh Kahma
+    bio: >-
+      
+    location: "Australia"
+    followers: 238631
+    engagement: 340
+    commentsToLikes: 0.010374
+    id: ck8wflhmwfwda0j78jpzmwxx7
+    verified: false
+    hashtags: "#kahmagym, #gymlovers, #singh, #gymlife"
   - username: "ivan_krslovic"
     fullname: >-
       Ivan Krslovic
@@ -31,6 +43,18 @@ profiles:
     id: ck6013vi7esd40i148jf22m1n
     verified: false
     hashtags: "#bodybuildingmelbourne, #fitnessphotographer, #photography, #repost"
+  - username: "renee.s_"
+    fullname: >-
+      𝑹 𝑬 𝑵 𝑬 𝑬 🧿
+    bio: >-
+      ✉️ Collaborations - DM or Email 📩 renee.stevens1993@outlook.com
+    location: "Australia"
+    followers: 87844
+    engagement: 43
+    commentsToLikes: 0.009901
+    id: clbgtssuf36p40j08shh2log5
+    verified: false
+    hashtags: "#bestoftheday, #nightlife, #melbournebestbites, #glamour"
   - username: "ayla_cally"
     fullname: >-
       𝖠𝖸𝖫𝖠 𝖢𝖠𝖫𝖫𝖸
@@ -42,19 +66,7 @@ profiles:
     commentsToLikes: 0.035161
     id: ck6uckxw3g7iw0j71ieylc6q1
     verified: false
-    hashtags: "#eliteelevensporting, #spon, #madeinmelbourne, #ezrracollection"
-  - username: "kiara.paige"
-    fullname: >-
-      ＫＩＡＲＡ ＰＡＩＧＥ 🕊𝑀𝑜𝒹𝑒𝓁
-    bio: >-
-      ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 🤍 | Passion for Fashion, Fitness & Beauty 🖤 | Melbourne ~ Australia 🤍 | Agent Danielle @ikonickids
-    location: "Australia"
-    followers: 11891
-    engagement: 558
-    commentsToLikes: 0.195636
-    id: ck13chikg0dfi0i19k7otgu8m
-    verified: false
-    hashtags: "#melbournemodel, #goldenhour, #australianmodel, #blondemodel"
+    hashtags: "#ezrracollection, #eliteelevensporting, #spon, #ad"
   - username: "janinacorsi"
     fullname: >-
       ✨ 𝕵𝖆𝖓𝖎𝖓𝖆 𝖈𝖔𝖗𝖘𝖎 🌹🦋
@@ -66,7 +78,19 @@ profiles:
     commentsToLikes: 0.032121
     id: ckap90tueqq8n0i78yengt8y3
     verified: false
-    hashtags: "#dye, #dyebreeze, #dyeexcel, #doyoueven"
+    hashtags: "#dyethankyousale, #dye, #dyebreeze, #dyeexcel"
+  - username: "alextioke"
+    fullname: >-
+      Alex Tioke
+    bio: >-
+      📍Gold Coast Content creator/Model TikTok - Alextioke Mom to Bash🐾 charley@neonmgmt.com @neon_model_management
+    location: "Australia"
+    followers: 21524
+    engagement: 67
+    commentsToLikes: 0.051268
+    id: ck5hi40stbjev0i11t7kufunf
+    verified: false
+    hashtags: "#womenempowerment, #stylecrush, #australianinfluencer, #workout"
   - username: "candice_wyatt_10"
     fullname: >-
       CANDICE WYATT
@@ -79,6 +103,18 @@ profiles:
     id: ck6tyvu5p65s90j712fuwkuay
     verified: false
     hashtags: "#news, #melbournefashion, #melbourne, #curebraincancer"
+  - username: "thelifeofasocialbutterfly"
+    fullname: >-
+      Swarnaa Rajalingam
+    bio: >-
+      ♀Founder of @swanathelabel ♥ Beauty/Fashion/Lifestyle🧿 ✎ PR/Collabs: thelifeofasocialbutterfly@gmail.com ☼ 🇦🇺↔️🇨🇦 Tiktok tloasbutterfly 100k+
+    location: "Australia"
+    followers: 116056
+    engagement: 130
+    commentsToLikes: 0.035687
+    id: ck602lkgzhvfe0i145smpd3m5
+    verified: false
+    hashtags: "#tamilwedding, #southasianfashion, #sareetransition, #reelsoftheday"
   - username: "eyezea"
     fullname: >-
       Iain
@@ -91,40 +127,4 @@ profiles:
     id: ckf5n5r9xwvfr0j23k2u0pvt2
     verified: false
     hashtags: "#gayaussie, #beachbody, #mytravelgram, #abs"
-  - username: "kamaldip_kahma_"
-    fullname: >-
-      Kamaldip Kahma
-    bio: >-
-      YouTube: https://www.youtube.com/channel/UChfhgbZrSO8mfz8hxVVGgTQ . - Mr. Victoria x5 - Mr. Australia x4 - Mr. World - Actor - Director:- @kahma247gym
-    location: "Australia"
-    followers: 135487
-    engagement: 336
-    commentsToLikes: 0.009025
-    id: ck8wflhmwfwda0j78jpzmwxx7
-    verified: false
-    hashtags: "#supps, #india, #melbourne, #punjab"
-  - username: "inspire_people"
-    fullname: >-
-      Jonathan Albrecht
-    bio: >-
-      Director of RE & Operations, Orangetheory Fitness Los Angeles | Silicon Valley | Melbourne, AUS “How you do anything is how you do everything.”
-    location: "Australia"
-    followers: 3845
-    engagement: 1357
-    commentsToLikes: 0.060227
-    id: ck5c8j0sw9leo0i11rvdu3tuk
-    verified: false
-    hashtags: "#mlk, #jonathangetsyounger, #orangetheoryfitness, #74"
-  - username: "__raeven"
-    fullname: >-
-      ✖️Ebony
-    bio: >-
-      ✖️ Fitness x Modelling x Tattoos ✖️ Melbourne ✖️ T.P🖤 ✖️ Osteo 🩺 @dr.daniel.kirkbride ✖️ CDU - 3rd Year Bachelor Exercise & Sport Science
-    location: "Australia"
-    followers: 32230
-    engagement: 123
-    commentsToLikes: 0.024084
-    id: ck8t8u6xslu7e0j78gzg4nd6c
-    verified: false
-    hashtags: "#35mm, #pentaxk1000, #melbournemodel, #filmphotography"
 ---

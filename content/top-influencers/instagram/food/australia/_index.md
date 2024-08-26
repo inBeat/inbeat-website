@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Australia In 2023
+title: Top 10 Food Instagram Influencers In Australia In 2024
 description: >-
-  Find top food Instagram influencers in Australia in 2023. Most popular hashtags: #sydney #australia #sydneyaustralia.
+  Find top food Instagram influencers in Australia in 2024. Most popular hashtags: #veganfood #vegan #foodie.
 platform: Instagram
-hits: 432
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 432 Instagram influencers like this in Australia for you to connect with.
+hits: 807
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 807 Instagram influencers like this in Australia for you to work with.
 profiles:
-  - username: "always_vacay"
+  - username: "princesshoneybelle"
     fullname: >-
-      Hanie
+      HONEY | Cat Chef | Princess
     bio: >-
-      Vacation and food lover. Live to travel. Travel to live. Life is too short to wait. Let’s go on vacay !🗺 🏠: Los Angeles 🇺🇸 🔜 🌺
+      💖 Sweet & Cute Cat Content 🧁 Mixy Mix Recipes 🏆 AiMCO Best Pet & Food Creator 📰 Business Insider + TIME 🏰 Melbourne, Australia ✉️ honey@onefluent.com
     location: "Australia"
-    followers: 4773
-    engagement: 1593
-    commentsToLikes: 0.138322
-    id: ck9hcf488l36u0j78yshwu4bh
+    followers: 339605
+    engagement: 773
+    commentsToLikes: 0.029182
+    id: ck8t3oy6m3y5y0j78ika48mor
     verified: false
-    hashtags: "#travelaroundtheworld, #australiagram, #girlsthatwander, #travelthroughtheworld"
-  - username: "kellympreston"
+    hashtags: "#cutecat, #makeship, #funnycats, #catlife"
+  - username: "amandaducks"
     fullname: >-
-      Kelly Preston
+      Amanda Ducks
     bio: >-
-      🏋🏻‍♀️ EHP Labs - Discount code: KMP10 📥 contact@kellympreston.com 📍 Sydney 🇦🇺 🎓 UNSW B.I.Arch (Hons), 🎓 M.P.D 💪🏼 Fitness | 🍔 Food | 💋 Beauty
+      👩🏼‍🌾 vegan foodie | australia 🌞 hello@amandaducks.com 🪴 weekly videos on youtube
     location: "Australia"
-    followers: 160384
-    engagement: 503
-    commentsToLikes: 0.028158
-    id: ck0u1bzaxwhw00i199j4biujl
+    followers: 35609
+    engagement: 624
+    commentsToLikes: 0.019091
+    id: ck5hhv8pfa8ys0i115t7kginx
     verified: false
-    hashtags: "#fit, #bodyinspo, #hairstyle, #makeup"
-  - username: "georgia_brant"
+    hashtags: "#vegandessert, #vegan, #veganrecipe, #veganfood"
+  - username: "sagharkitchen"
     fullname: >-
-      GEORGIA ❁
+      Saghar’s Kitchen
     bio: >-
-      | Mostly food, cocktails and pretty clothes here | @ryderwear athlete | GEORGIA10 💪🏽 📧 contact@vivemanagement.com.au
+      Food inspiration. Recipe stylist. Photographer “Vegetarian who loves to cook” Email: info@sagharkitchen.com
     location: "Australia"
-    followers: 43076
-    engagement: 329
-    commentsToLikes: 0.100323
-    id: ck0w0wceegckg0i19e770siqo
+    followers: 22410
+    engagement: 427
+    commentsToLikes: 0.202447
+    id: ck5bvxesykl770i118lwjmm4g
     verified: false
-    hashtags: "#hairhousestyle, #matrixxsarra"
-  - username: "ashpollard__"
+    hashtags: "#tasty, #letscookvegan, #vegetarianrecipes, #f52grams"
+  - username: "simmyeats.melb"
     fullname: >-
-      A S H  P O L L A R D
+      Melbourne Foodie & Lifestyle
     bio: >-
-      • Radio Host - @hitnetworkaus • TV Host - @foodieadventurestv • Author - ‘EAT ME’ • Cook • Mummy to Clementine 🍊
+      🤓 Simmy 🍔 Food is life - Eating my way through Melbourne 📬 DM or Email for collabs: simmyeats.melb@hotmail.com
     location: "Australia"
-    followers: 83257
-    engagement: 475
-    commentsToLikes: 0.026989
-    id: ck0w0lvavev3f0i194jhc397s
-    verified: true
-    hashtags: "#spitnique, #ironicallynotasphysicallyfitaswethought, #fisherpricepartner, #clementineferne"
-  - username: "ateaspoonofstyle"
-    fullname: >-
-      Tanaka Tarou
-    bio: >-
-      👦 Short Asian trying to be stylish but really just eating away his feelings 📷 Lifestyle/Fashion/Food/Content Creation 📍 SYD,🇦🇺 ✉️DM or Email to collab
-    location: "Australia"
-    followers: 30201
-    engagement: 175
-    commentsToLikes: 0.218128
-    id: ck15seuspcnp30i19ut0843ge
+    followers: 6155
+    engagement: 566
+    commentsToLikes: 0.827717
+    id: ck5zr1anzvpbc0i148a6j4ja9
     verified: false
-    hashtags: "#doughnuts, #flatlays, #smashedavo, #beautifulcuisines"
-  - username: "ttayahpick__"
+    hashtags: "#zomato, #melbournefoodie, #aussietraveller, #goodfoodau"
+  - username: "brissiebites"
     fullname: >-
-      TAYAH ♡
+      Food Blogger | Jacqui John
     bio: >-
-      📍Newcastle health, fitness & bikini competitor things #TeamDestroy ✖️ @ryderwear TAYAH10 ✖️ @food4fitnessmeals TAYAH10 ✖️ @mr.myo_massage
+      🥐 Food 🍷 Drink ✈️ Travel ✍️ Content Creation 📷 Photography ☀️ Brisbane based 💌 jacqui@brissiebites.com
     location: "Australia"
-    followers: 13233
-    engagement: 583
-    commentsToLikes: 0.079082
-    id: ck55nbyrl5vxf0i11n9hkgmxh
+    followers: 10101
+    engagement: 625
+    commentsToLikes: 0.158408
+    id: ck6tkm2ym4z230j715oltesd5
     verified: false
-    hashtags: "#nofoodisofflimits, #moderationiskey"
-  - username: "yukilicious_sydney"
+    hashtags: "#visit, #brisbanefood, #foodies, #invite"
+  - username: "creativebykera"
     fullname: >-
-      🌸Sydney Foodie🌸 Yuki
+      Kera Wong
     bio: >-
-      🥘Content Creator | Food Photos | Lifestyle Shot 📮DM or email for Invites and Collab 💌Email: gelaine1128@hotmail.com 📍Syd 🇦🇺HK🇭🇰
+      Bringing you mouthwatering food content & workshops for creators, businesses & brands 🤤 Follow for droolworthy creative photography, tips & tricks! 👋🏼
     location: "Australia"
-    followers: 36853
-    engagement: 170
-    commentsToLikes: 0.195789
-    id: ckap54g7fa5ol0i78ovr5lgfm
+    followers: 60038
+    engagement: 575
+    commentsToLikes: 0.049655
+    id: ck0u6krg426v90i19e8vss7ao
     verified: false
-    hashtags: "#sydneyfood, #australia, #sydneyfoodbloggers, #foodstagram"
-  - username: "jesshosking"
+    hashtags: "#sydneyproductphotography, #contentcreation, #restaurantphotoshoot, #sydneylockdown"
+  - username: "zaccharybird"
     fullname: >-
-      Jess Hosking
+      Zacchary Bird
     bio: >-
-      ➖#11 @richmondwomens 🏉 ➖📧alex@morethanmgmt.com.au ➖PUMA ➖🍛Food Adventures 🍔 @hungryhoskos ➖@interplastanz & @cleftpalsvictoria
+      DON’T PANIC! 100% vegan from 🇦🇺 Author “Vegan Junk Food” 🍔 & “The Vegan Butcher” EN/NL/FR/DE🍗 “The Vegan Baker” out NOW 🧁 bookings@slickmgmt.com.au
     location: "Australia"
-    followers: 19805
-    engagement: 681
-    commentsToLikes: 0.037728
-    id: ck6tqzbcjvrah0j715rgwuqng
-    verified: true
-    hashtags: "#hyundai, #surf, #tokyo2020, #youcantbewhatyoucantsee"
-  - username: "xlilysaffronx"
-    fullname: >-
-      ✖️ L I L Y   S A F F R O N ✖️
-    bio: >-
-      🐉 🅞🅕🅕🅘🅒🅘🅐🅛 🅐🅒🅒🅞🅤🅝🅣 〠 eye candy & soul food 〠 𝚋𝚊𝚌𝚔 𝚞𝚙: @xlilysaffronxbackup
-    location: "Australia"
-    followers: 48200
-    engagement: 428
-    commentsToLikes: 0.033748
-    id: ck55k9cy6yshb0i11p0pipgap
+    followers: 96428
+    engagement: 793
+    commentsToLikes: 0.028059
+    id: cl48q93wgm8kg0i23yf9ozb4p
     verified: false
-    hashtags: ""
-  - username: "teaganfit"
+    hashtags: "#vegan, #vegandonut, #veganworldshare, #bestofvegan"
+  - username: "dalena.cake"
     fullname: >-
-      T E A G A N
+      Dalena 🍰/🥔
     bio: >-
-      Australian / Taiwanese 📍 Utrecht, The Netherlands 🧠 neuroscience masters student / personal trainer 🍡 foodie 愛吃鬼 💪🏽 @womensbest 👇🏽
+      🌏 Melb, Australia 🇦🇺 💌 dalenacakee@gmail.com 🍴 @chonnydayshop 🎥 YouTube: Chonnyday 👇🏼 Join our food fam! 💕🍜🍱🍗🍕🍔🥞
     location: "Australia"
-    followers: 59100
-    engagement: 186
-    commentsToLikes: 0.075828
-    id: ck0txxzt3ky3b0i19x66uh8zq
+    followers: 133542
+    engagement: 1028
+    commentsToLikes: 0.006740
+    id: ck8t28t10ykgl0j784l3ctgnd
     verified: false
-    hashtags: "#tistheseasonforjoy"
+    hashtags: "#samsmithgloriathetour, #ad, #everybodylovesshin, #shinramyun"
+  - username: "paulpayasalad"
+    fullname: >-
+      Thirapat Ekbundit
+    bio: >-
+      Fashion, home decor, food and travel around 🇦🇺 📧 gday@huume.com.au ﹏﹏
+    location: "Australia"
+    followers: 50945
+    engagement: 448
+    commentsToLikes: 0.009509
+    id: ck0ttrl5440le0i190hh9a3nl
+    verified: false
+    hashtags: "#spon, #danielwellingtonau, #dwau, #danielwellington"
+  - username: "healthybodhealthymind"
+    fullname: >-
+      Sophie Rindfleish — Dietitian
+    bio: >-
+      online dietitian • content creator • recipe developer 🫶🏼 helping you find food freedom 🏃🏽‍♀️ @sosos_runclub hello@healthybodhealthymind.com book in ↓
+    location: "Australia"
+    followers: 24012
+    engagement: 662
+    commentsToLikes: 0.048681
+    id: ck6tmair17hbt0j717vqq9vh6
+    verified: false
+    hashtags: "#gifted, #ikeaaustralia, #ikeaatmyplace, #ad"
 ---

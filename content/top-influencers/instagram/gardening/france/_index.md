@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening Instagram Influencers In France In 2023
+title: Top 10 Gardening Instagram Influencers In France In 2024
 description: >-
-  Find top gardening Instagram influencers in France in 2023. Most popular hashtags: #gardening #garden #flowers #home.
+  Find top gardening Instagram influencers in France in 2024. Most popular hashtags: #gardening #garden #home #homedecor.
 platform: Instagram
-hits: 71
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 71 Instagram influencers like this in France for you to collaborate.
+hits: 78
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 78 Instagram influencers like this in France for you to collaborate.
 profiles:
   - username: "michelle_font"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.080957
     id: ck5pzaek800gn0i1174v99xh1
     verified: false
-    hashtags: "#patriayvida, #soscuba, #cuba, #cubalibre"
+    hashtags: "#soscuba, #cuba, #cubalibre, #patriayvida"
   - username: "stevevonsteen"
     fullname: >-
       Steve von Steen
@@ -55,6 +55,30 @@ profiles:
     id: ck15u2dhml3200i19nems3vqd
     verified: false
     hashtags: "#architecture, #interior, #decorationinterieur, #facadelovers"
+  - username: "_wildgreens"
+    fullname: >-
+      Micaela Green ☾
+    bio: >-
+      Growing in the Chicago burbs🌱 ✧ home decor ✧ diy ✧ plant tips ✧ 💌 micaelagreenn@gmail.com
+    location: "France"
+    followers: 29792
+    engagement: 597
+    commentsToLikes: 0.024135
+    id: ckz42cg4l6fwg0j23ayq08pe5
+    verified: false
+    hashtags: "#houseplantclub, #sunroom, #plantsofinstagram, #plantobsessed"
+  - username: "maptiotte"
+    fullname: >-
+      ✨Sylvie✨
+    bio: >-
+      58 ans, mariée, deux fils, Mamou de Thelma et Faustine 💕 la famille, les amis, la cuisine, la déco, le jardin et les petits bonheurs tout simples 💛
+    location: "France"
+    followers: 35892
+    engagement: 400
+    commentsToLikes: 0.131213
+    id: ck9wec1erjma60j78n41l3dpg
+    verified: false
+    hashtags: "#enjoy, #homemade, #deco, #ambiance"
   - username: "timothycorrigan"
     fullname: >-
       Timothy Corrigan
@@ -103,28 +127,4 @@ profiles:
     id: ck5hpagqlr13a0i11icod6wef
     verified: false
     hashtags: "#naturepainting, #fabricdesign, #nature, #littleworld"
-  - username: "seb_gardener"
-    fullname: >-
-      Sébastien Deboudt
-    bio: >-
-      Head gardener, 16th arrondissement, Paris 🌿🌿🌿
-    location: "France"
-    followers: 5757
-    engagement: 780
-    commentsToLikes: 0.022397
-    id: ck55lyk5t2rf50i11otjwqd8s
-    verified: false
-    hashtags: "#flores, #gardendesign, #jardim, #bloemen"
-  - username: "lamblittle"
-    fullname: >-
-      Jane Carkill Illustration
-    bio: >-
-      • Ireland • Illustration | Textile | Design • Member of @illustratorsireland • Contact/ Commissions: lamblittle.illustration@gmail.com • Shop:
-    location: "France"
-    followers: 91769
-    engagement: 302
-    commentsToLikes: 0.008794
-    id: ck0w73azgbjiw0i19xoapc5hw
-    verified: false
-    hashtags: "#fashion, #landscape, #instadaily, #illustration"
 ---

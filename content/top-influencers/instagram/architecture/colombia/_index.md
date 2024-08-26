@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Colombia In 2023
+title: Top 10 Architecture Instagram Influencers In Colombia In 2024
 description: >-
-  Find top architecture Instagram influencers in Colombia in 2023. Most popular hashtags: #architecture #nature #travel #city.
+  Find top architecture Instagram influencers in Colombia in 2024. Most popular hashtags: #architecture #nature #travel #city.
 platform: Instagram
 hits: 23
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 23 Instagram influencers like this in Colombia for you to connect with.
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 23 Instagram influencers like this in Colombia for you to work with.
 profiles:
   - username: "js.archidrawing"
     fullname: >-
@@ -31,6 +31,30 @@ profiles:
     id: ckap5376j9zuo0i786btfdgqt
     verified: false
     hashtags: "#holiday, #takayama, #montenegro, #adriaticsea"
+  - username: "romanafilipkova"
+    fullname: >-
+      Romana Filipkova
+    bio: >-
+      mum of @rebekafilipkovaballerina | Mary Kay Sales Director zakladatelka Nadačního fondu @krasnasrdcepomahaji Vítězka soutěže Žena regionu pro Ol.kraj
+    location: "Colombia"
+    followers: 18161
+    engagement: 710
+    commentsToLikes: 0.002473
+    id: ck6uetwigt2lp0j71n06dikz8
+    verified: false
+    hashtags: "#celebration, #nature, #love, #california"
+  - username: "masquespacio_ana"
+    fullname: >-
+      Ana Milena Hernandez
+    bio: >-
+      COLOMBIAN, LIVING IN SPAIN AND WORKING AROUND THE WORLD ART DIRECTOR>>CO FUNDER #masquespacio @mascreationsworld>>>
+    location: "Colombia"
+    followers: 239168
+    engagement: 60
+    commentsToLikes: 0.014294
+    id: ck15uvgqvop6a0i19n9h4hfbl
+    verified: false
+    hashtags: "#architecturedesign, #interior, #interiordecor, #design"
   - username: "yessenxaa"
     fullname: >-
       Yessenia Andrade
@@ -91,18 +115,6 @@ profiles:
     id: ck139x03unjig0i196vh9t03z
     verified: false
     hashtags: "#bogotart, #colombianotcolumbia, #wondermore, #citylandscape"
-  - username: "romanafilipkova"
-    fullname: >-
-      Romana Filipkova
-    bio: >-
-      Make-up & Fashion & travel | mum of @rebekafilipkovaballerina | Mary Kay Sales Director |🌏🎨👠💄 zakladatelka Nadačního fondu @krasnasrdcepomahaji
-    location: "Colombia"
-    followers: 17964
-    engagement: 1134
-    commentsToLikes: 0.000826
-    id: ck6uetwigt2lp0j71n06dikz8
-    verified: false
-    hashtags: "#la, #topview, #beautiful, #nature"
   - username: "entre.estilos"
     fullname: >-
       Entre Estilos™ Arquitectura
@@ -115,16 +127,4 @@ profiles:
     id: ckaoudt3fzub10i78eckt7k9y
     verified: false
     hashtags: "#archphotography, #art, #follow, #wisearchi"
-  - username: "carolynordonez"
-    fullname: >-
-      Carolyn Ordoñez
-    bio: >-
-      Psalm 27:13-14 🙏🏽 Colombian-American Actress sprinkling love, kindness, & inspiration around the world 💫 In the fight for justice ✊🏽 Los Angeles📍
-    location: "Colombia"
-    followers: 27024
-    engagement: 289
-    commentsToLikes: 0.075721
-    id: ckapac3wfvi5z0i78m6qdxudz
-    verified: false
-    hashtags: "#nofilter, #actress, #oliveskin, #tbt"
 ---

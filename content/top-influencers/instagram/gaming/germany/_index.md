@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Germany In 2023
+title: Top 10 Gaming Instagram Influencers In Germany In 2024
 description: >-
-  Find top gaming Instagram influencers in Germany in 2023. Most popular hashtags: #gamergirl #style #tattoo #inkedgirls.
+  Find top gaming Instagram influencers in Germany in 2024. Most popular hashtags: #happy #tattoo #tattoedgirl.
 platform: Instagram
-hits: 273
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat has 273 Instagram influencers like this in Germany for you to pitch.
+hits: 318
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 318 Instagram influencers like this in Germany for you to contact.
 profiles:
-  - username: "jasmine_ninnemann"
+  - username: "realpietsmiet"
     fullname: >-
-      Jasmine🌸lvl.29🌸Germany🌸Artist
+      PietSmiet
     bio: >-
-      I Love Art•Make-up•Gaming 🖤 YouTube and E-Mail ⬇️ Jasmine_ninnemann@outlook.de Impressum: https://bit.ly/2z8ZBXz
+      He/Him Gaming, Food, gesunder Menschenverstand. Impressum: http://www.pietsmiet.de/impressum
     location: "Germany"
-    followers: 2608
-    engagement: 1834
-    commentsToLikes: 0.170066
-    id: ck15s5kckbc0k0i19ar01s1ic
-    verified: false
-    hashtags: "#borntoglow, #snazaroo, #bretmansvanity, #gothmakeup"
-  - username: "jazzmilczeniebaranow"
-    fullname: >-
-      Jazz | Content Creator | Gamer
-    bio: >-
-      👽 Inspired by the fear of being average 👽 Polishgirl based in Germany DM for collab/business only 🙌🏻 I 💖 #gaming #food #fashion #music #travel
-    location: "Germany"
-    followers: 34052
-    engagement: 1681
-    commentsToLikes: 0.034340
-    id: ck9wfmxwrpkbj0j780rhecquo
-    verified: false
-    hashtags: "#twitch, #gothic, #gothgirl, #grungeaesthetic"
-  - username: "satanspg"
-    fullname: >-
-      Satans Playground
-    bio: >-
-      May the force be with you hc & mc | #vansgirl | gaming | art Lübeck ⚓ ________________________________
-    location: "Germany"
-    followers: 4125
-    engagement: 2505
-    commentsToLikes: 0.074938
-    id: ck5q4pciipsxh0i117xl5q1fm
-    verified: false
-    hashtags: "#gamerin, #inkedgamer, #playstation, #scenegirl"
-  - username: "icke_wieder_10777"
-    fullname: >-
-      Frank ヅ
-    bio: >-
-      Daily men fashion and gaming 📍#Kaiserslautern, #germany🇩🇪 Love #berlin #grancanaria #travel |
-    location: "Germany"
-    followers: 48312
-    engagement: 314
-    commentsToLikes: 0.058678
-    id: ckaov8h603i6u0i78ivswwh6l
-    verified: false
-    hashtags: "#giveaway, #cool, #gay, #gewinnspiel"
-  - username: "cheveya_cosplay"
-    fullname: >-
-      Joleen
-    bio: >-
-      Welcome to my cosplay acc🤗 •anime gaming •techno metal hard rock Germany 🇩🇪 taken
-    location: "Germany"
-    followers: 5436
-    engagement: 2030
-    commentsToLikes: 0.040021
-    id: ck8td3f7h1p9f0j78648wrsy1
-    verified: false
-    hashtags: "#lolcosplay, #pokemon, #animuc, #nachtara"
+    followers: 300017
+    engagement: 599
+    commentsToLikes: 0.006203
+    id: ck5zmr89mn2t80i14dn5bglot
+    verified: true
+    hashtags: "#tieinterceptor, #pubgames, #workingandsharing, #live"
   - username: "elena.demuth"
     fullname: >-
       Elena Demuth
     bio: >-
-      🤍 Just an inked girl with a big smile ✖️ Germany • Tattoos • Gaming • Rock'n'Roll ✖️ E-Mail: elena.demuth1@gmail.com
+      Just an inked girl with a big smile 🇩🇪 ☀️ Tattoos • Gaming • Rock'n'Roll • Anime 💬 Interested in a cooperation? Email / DM
     location: "Germany"
-    followers: 38313
-    engagement: 1442
-    commentsToLikes: 0.022565
+    followers: 39255
+    engagement: 1479
+    commentsToLikes: 0.021670
     id: ck8tcu14b0ohl0j781ry8h7ke
     verified: false
-    hashtags: "#tattooink, #tattoogirl, #tattoocollector, #tattoolife"
-  - username: "steffi.dnt"
+    hashtags: "#tattoogram, #inkedsociety, #ink, #inkedgirl"
+  - username: "_hey.nancy_"
     fullname: >-
-      Steffi
+      Nancy
     bio: >-
-      Donuts • Fitness • Cars • Techno • Gaming ✉ Steffinsta@gmx.de
+      Mami 👶🏼 mit ❤️ für Makeup 💄 und Gaming 🎮 Impressum: @heynancy.impressum
     location: "Germany"
-    followers: 36702
-    engagement: 283
-    commentsToLikes: 0.052607
-    id: ck8t1vmfgx7pf0j78xwu65g81
+    followers: 15541
+    engagement: 544
+    commentsToLikes: 0.016617
+    id: ck5c7klvn7p3m0i1128wig1em
     verified: false
-    hashtags: "#lowlife, #fitnessbody, #bimmer, #amazingcars247"
-  - username: "micha.hpe"
+    hashtags: "#schwangerschaftsbauch, #nancywenzmakeup, #momtobe, #twitchstreamer"
+  - username: "handiofiblood"
     fullname: >-
-      Michael 📍 München
+      HandOfBlood
     bio: >-
-      Aloha🙌🏽 24, aus Muc, Gaming, Kochen, Fotos 📸 micha.hpe@web.de
+      E-Sport, Host, Gaming Impressum: https://instinct3.de/legal-notice/
     location: "Germany"
-    followers: 124865
-    engagement: 248
-    commentsToLikes: 0.030985
-    id: ck0w433czwkec0i19mmojlnkl
-    verified: false
-    hashtags: "#essen, #breakfastideas, #rezepte, #kochenmitliebe"
-  - username: "purple.gaming"
+    followers: 804551
+    engagement: 975
+    commentsToLikes: 0.003813
+    id: ck0u6ku2k27590i19x0gwm612
+    verified: true
+    hashtags: "#werbung, #blackopscoldwar, #gamer, #higheloberatung"
+  - username: "legend.of.elli"
     fullname: >-
-      
+      Alicia Lorsch
     bio: >-
-      Gaming Account of @purple.lena 🎓 / Germany 🇩🇪 💌purple.gaming@protonmail.com 🎶TikTok: purple.gaming
+      ☆ELLI☆ 🕹Gaming🎮 Twitch: Legend_of_elli 🐕doglover🐩 @coco_schokoo →1998~📍Germany← Coop: Legend_of_elli@gmx.de
     location: "Germany"
-    followers: 65142
-    engagement: 310
-    commentsToLikes: 0.032776
-    id: ck8td9nnc2gsg0j78dojzabgy
+    followers: 119500
+    engagement: 468
+    commentsToLikes: 0.016761
+    id: clp3x67m2gw540j08886ah258
     verified: false
-    hashtags: "#girlgamer, #ps4gamergirls, #zockerin, #strumpfhosen"
-  - username: "nik_coltro"
+    hashtags: "#piercedgirl, #weekend, #weekendfeeling, #gingerhair"
+  - username: "jazzmilczeniebaranow"
     fullname: >-
-      FASHION / FITNESS / SHISHA
+      Jessica Król
     bio: >-
-      -📍Cologne -🧍🏽‍♂️ 24 y/o - Twitch: coltrogaming - Gaming acc @coltrogaming
+      👽 Inspired by the fear of being average 👽 Only & official account 🦇 I 💖 #gaming #food #fashion #music 🏘️ Based in Germany
     location: "Germany"
-    followers: 27472
-    engagement: 307
-    commentsToLikes: 0.011883
-    id: ckaosv661t5kd0i78knf35b25
+    followers: 34302
+    engagement: 785
+    commentsToLikes: 0.016163
+    id: ck9wfmxwrpkbj0j780rhecquo
     verified: false
-    hashtags: "#gymrat, #ko, #instafit, #menswear"
+    hashtags: "#grunge, #kawaii, #goth, #darkstyle"
+  - username: "xenos.timon"
+    fullname: >-
+      Timon Konstantinos Xenos
+    bio: >-
+      ANIME/ GAMING/ FASHION/ SPORT MY MUSIC : @majinxenos BEST FIGURES : @kameshop.de MORE CONTENT & ANIME LIFESTYLE 👇🏽
+    location: "Germany"
+    followers: 93214
+    engagement: 396
+    commentsToLikes: 0.016689
+    id: ck8ta6qk9qnk90j78mu9u8c5s
+    verified: false
+    hashtags: "#gohan, #saiyajin, #narutofigures, #dragonballzfans"
+  - username: "weinlachgummi"
+    fullname: >-
+      Tanja
+    bio: >-
+      🐈‍⬛🐈 Mangafan📖 Bookdragon📚 Gaming Geek 🎮 Serienjunky📺 Boardgame Nerd🎲
+    location: "Germany"
+    followers: 3593
+    engagement: 385
+    commentsToLikes: 0.039454
+    id: ck0w04ccmcbgv0i190sm3pl4k
+    verified: false
+    hashtags: "#bookiesupport, #reader, #mangareview, #instabook"
+  - username: "yve.gaming"
+    fullname: >-
+      Yvonne Meyer
+    bio: >-
+      🇩🇪 based in #hannover, Germany 🎮 Gaming PS5, XBox Series X & Nintendo Switch 🏋️‍♀️ Fitnesslover 💌 yvehannover@gmail.com
+    location: "Germany"
+    followers: 46319
+    engagement: 340
+    commentsToLikes: 0.050963
+    id: cloxohp7b09u00j080ajxurlo
+    verified: false
+    hashtags: "#ambilight, #gymworkout, #gymaddict, #workoutroutine"
+  - username: "familie_zu_haus"
+    fullname: >-
+      Petra - Content Creator
+    bio: >-
+      👨‍👩‍👦‍👦Jungsmama, technikaffin 🇩🇪 🌲Bayerischer Wald ❤ #Kreatives #DIY #Gaming und #Produkttest 📧Kooperation DM ZA: @der_produktentdecker
+    location: "Germany"
+    followers: 9737
+    engagement: 437
+    commentsToLikes: 0.027099
+    id: clq9hy2e0690m0k08kd9ezgmk
+    verified: false
+    hashtags: "#utryme, #produktblogger, #niacinamid, #iloveutryme"
 ---

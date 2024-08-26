@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Manchester In 2023
+title: Top 10 Food TikTok Influencers In Manchester In 2024
 description: >-
-  Find top food TikTok influencers in Manchester in 2023. Most popular hashtags: #fyp #foryou #foryoupage #viral.
+  Find top food TikTok influencers in Manchester in 2024. Most popular hashtags: #fyp #foryou #foryoupage #uk.
 platform: TikTok
-hits: 19
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 19 TikTok influencers like this in Manchester, United Kingdom for you to contact.
+hits: 21
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 21 TikTok influencers like this in Manchester, United Kingdom for you to connect with.
 profiles:
   - username: "jacksondace"
     fullname: >-
@@ -79,6 +79,18 @@ profiles:
     id: ckac5zxmydq9p0i78s38mjqlc
     verified: false
     hashtags: "#fun, #kids, #tiktok, #uk"
+  - username: "paulleehiley"
+    fullname: >-
+      Paul Lee Hiley
+    bio: >-
+      Hair ✂️ Becki-jo 💅🏼 Thanks so so much for 525K🥺🥰 Manchester LGBTQ+ 🌈
+    location: "United Kingdom"
+    followers: 539400
+    engagement: 1120
+    commentsToLikes: 0.010325
+    id: ckac2s2qlavug0i78yoy5uslx
+    verified: false
+    hashtags: "#duet, #fyp, #blonde, #hair"
   - username: "badgirlaesthetics_"
     fullname: >-
       BadGirlAesthetics
@@ -115,16 +127,4 @@ profiles:
     id: ck8ouiq1wprnb0j78qgnb605t
     verified: false
     hashtags: "#foodtiktok, #macandcheese, #foodbylaila, #airfryerrecipes"
-  - username: "uszyy2k"
-    fullname: >-
-      Uszyyy
-    bio: >-
-      Manchester 📍
-    location: "United Kingdom"
-    followers: 4461
-    engagement: 781
-    commentsToLikes: 0.023786
-    id: cka0r8bhifzpe0i782pcpd5qw
-    verified: false
-    hashtags: "#bpl, #asian, #tiktokuk, #trending"
 ---

@@ -1,48 +1,84 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Bali In 2023
+title: Top 10 Vegan Instagram Influencers In Bali In 2024
 description: >-
-  Find top vegan Instagram influencers in Bali in 2023. Most popular hashtags: #vegan #fitness #bali #plantbased.
+  Find top vegan Instagram influencers in Bali in 2024. Most popular hashtags: #bali #vegan #indonesia #plantbased.
 platform: Instagram
-hits: 8
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 8 Instagram influencers like this in Bali, Indonesia for you to collaborate.
+hits: 10
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 10 Instagram influencers like this in Bali, Indonesia for you to collaborate.
 profiles:
-  - username: "mario.prawira"
+  - username: "marisagreiner"
     fullname: >-
-      Mario Prawira Schönmann
+      Marisa Greiner
     bio: >-
-      📱 Mobile Videography Tutorials & Tricks 👹 Content Creator Based in Bali ✉️ DM for Collaboration 📸 My Transitions Online Course! ↡
+      📍 BALI | Model | Photographer | Traveler | Sustainability Advocate | Vegan | Bali Travel Tips @meetmeunderpalmtrees | Work with me📩
     location: "Indonesia"
-    followers: 89125
-    engagement: 402
-    commentsToLikes: 0.028933
-    id: ck5bzraqgrp430i113jbbf1ul
+    followers: 21945
+    engagement: 53
+    commentsToLikes: 0.000000
+    id: ckpn0txuo3nbp0j23wrlicxp6
     verified: false
-    hashtags: "#lumafusion, #finishedonmobile, #ketelalyfe"
-  - username: "wiolettatuschnio"
+    hashtags: "#dronephotography, #dronevideo, #baliindonesia, #travelblogger"
+  - username: "deakedinakarina"
     fullname: >-
-      wioletta ⋮ weight gain coach
+      Edina Deák
     bio: >-
-      ⟡ from an insecure girl to a self-empowered woman living on an island ⋒ sharing tips for a healthy & conscious lifestyle & teasing you with vegan food
+      Sustainable Fashion Activist & Designer, Content Creator & Model 👑 MISS INFLUENCER UAE 2023 Shop:@itssunnysomewhere.shop Photography⬇️ @contentbydina
     location: "Indonesia"
-    followers: 23386
-    engagement: 374
-    commentsToLikes: 0.044392
-    id: ck0ttg76y2kre0i19q8ixjxqe
+    followers: 21189
+    engagement: 173
+    commentsToLikes: 0.134622
+    id: ck8ta1m8fq4bc0j78x4apok15
     verified: false
-    hashtags: "#fitness, #veganbody, #selflove, #workoutmotivation"
-  - username: "jadesarkhel"
+    hashtags: "#london, #dubai, #itssunnysomewhere, #mykonos"
+  - username: "bary_sukarta"
     fullname: >-
-      Jade Nina Sarkhel
+      Bary⚡Sukarta
     bio: >-
-      Food Photography & Life Stories ✨ Feat. in @Vogue @Forbes @GQ @NatGeoTravel 🌱 Vegan Recipes @MorningEarthBali ONLINE COURSE AVAILABLE👇🏼
+      Travel, Lifestyle & Reviewer 📍 Bogor, Indonesia ⚜️Duta Promosi Pariwisata Jawa Barat 2022 @swj.ambassador
     location: "Indonesia"
-    followers: 17977
-    engagement: 337
-    commentsToLikes: 0.146669
-    id: ck0u6gnwp1zk20i19suze047n
+    followers: 21586
+    engagement: 95
+    commentsToLikes: 0.089106
+    id: ck0tz81j5pfbq0i19bl7jlsnt
     verified: false
-    hashtags: "#foodporn"
+    hashtags: "#bogorpisan, #villapuncakdisewakan, #villamurahpuncak, #jakartatoday"
+  - username: "synthiatjipto"
+    fullname: >-
+      Synthia Tjipto
+    bio: >-
+      Food, Hotel, Bar & Travel 📍Jakarta, ID 📸 by @vousdru 📷 Canon EOS R DM for enquiry #syndru
+    location: "Indonesia"
+    followers: 49444
+    engagement: 22
+    commentsToLikes: 0.020727
+    id: ck9wd2udwdtlo0j78b6cch4zo
+    verified: false
+    hashtags: "#kitawarawiri, #syndrustaycation, #syndru, #bali"
+  - username: "nesyaadenisaa"
+    fullname: >-
+      Nesya Puspa Denisaputri
+    bio: >-
+      Coffee & Travel Enthusiast West Java Tourism Ambassador @swj.ambassador 2022 Sobat Jalan @tiketcom Kode promo : 🏨 NESYANGINEP
+    location: "Indonesia"
+    followers: 11536
+    engagement: 183
+    commentsToLikes: 0.083520
+    id: cl34yjmp808z80i23m522x7m2
+    verified: false
+    hashtags: "#staycation, #vacation, #coffeeshopbandung, #coffeeshop"
+  - username: "chitrachef"
+    fullname: >-
+      Chef Chitra
+    bio: >-
+      Holistic Chef Food is Medicine Health Enthusiast Vegan & Gluten Free Recipe YouTube : Chef Chitra
+    location: "Indonesia"
+    followers: 100802
+    engagement: 672
+    commentsToLikes: 0.039764
+    id: ck6txw6om07gq0j71zn03ugly
+    verified: true
+    hashtags: "#podcast, #thespiceguy, #healthyfood, #woman"
   - username: "iampaulauchoa"
     fullname: >-
       | Paula Uchoa | Vegan Chef |
@@ -55,18 +91,6 @@ profiles:
     id: ck9h9mg4p92cc0j78v27dfacv
     verified: false
     hashtags: "#healthcoach, #veganchef, #iinhealthcoach, #traveler"
-  - username: "axelschura"
-    fullname: >-
-      Axel Schurawlow 🥑
-    bio: >-
-      Mindset | Health | Nutrition 🌱@vivolife Athlete CODE “SHMONKEY“ 🎶 JOIN 340 000 ON TIKTOK! 📸 Youtube/axelschura 🎙 Podcast 📍 Bali - All my channels👇
-    location: "Indonesia"
-    followers: 28434
-    engagement: 370
-    commentsToLikes: 0.041371
-    id: ck0ttg7i12ksr0i195fpjvruy
-    verified: false
-    hashtags: "#dairy, #vegansofig, #vegangains, #fitfam"
   - username: "robmananquil"
     fullname: >-
       r o b m n n q l
@@ -79,52 +103,28 @@ profiles:
     id: ck6tvdisqlmb40j718vaikhc1
     verified: false
     hashtags: "#godsgift, #nature, #covid19, #bali"
-  - username: "anoushkabhuller"
+  - username: "misshotrodqueen"
     fullname: >-
-      Anoushka Bhuller MD., LLM.
+      Ade Putri Paramadita 🍒
     bio: >-
-      And so I used my fear to fuel me. 〰️ #Sustainable living vegan feeling. 🍭 ♾Jakarta, Id. For all enquiries, please DM.
+      Wordsmith. Culinary Storyteller ✨ Beer 🍻 Fixed gear 🚲 CrossFit 🏋🏽‍♀️ Mommy @BEERgembira Business enquiry 👉🏼 send e-mail 👇🏼
     location: "Indonesia"
-    followers: 43085
-    engagement: 37
-    commentsToLikes: 0.013719
-    id: ck0tw3w8fdwrw0i19ao99jnor
+    followers: 63520
+    engagement: 229
+    commentsToLikes: 0.030314
+    id: ck15rgahn7sa40i19frpr1n77
     verified: false
-    hashtags: "#anoushkabhuller, #balilife, #baliguide, #balibuddies"
-  - username: "chitrachef"
+    hashtags: "#instafood, #masakanrumahan, #foodpics, #indonesia"
+  - username: "gaylenerva"
     fullname: >-
-      Chef Chitra
+      Gayle ⟡ Nerva
     bio: >-
-      🌱🌿 Plant Based Soul Mama for @soul_jakarta Founder @chefskitchen_id YouTube : Chef Chitra
+      𝐍𝐞𝐫𝐯𝐚𝐧𝐚 𝐌𝐨𝐯𝐞𝐦𝐞𝐧𝐭 loving connections through Yoga, Movement, Music, Art, Food, Rituals & Circles🧚‍♂️ 💛click link to connect Sketchbook @gnerva.art
     location: "Indonesia"
-    followers: 60401
-    engagement: 237
-    commentsToLikes: 0.026066
-    id: ck6txw6om07gq0j71zn03ugly
-    verified: true
-    hashtags: "#photooftheday, #vlog, #ootd, #instagram"
-  - username: "juancarloscrazysport"
-    fullname: >-
-      Juan Carlos Vicente
-    bio: >-
-      Preparador físico/coach deportivo Deportista de montaña vegano de @merrelleu @arch_max @somosdeportistas @soy.globero @gloriososupernutrients
-    location: "Indonesia"
-    followers: 25412
-    engagement: 286
-    commentsToLikes: 0.089600
-    id: ck5qdpsjgwqts0i11vsifsd3u
+    followers: 21651
+    engagement: 5
+    commentsToLikes: 0.000521
+    id: cllzvyugtrz510j08dlsecmeq
     verified: false
-    hashtags: "#preparadorfisico, #snowday, #entrenador, #vegan"
-  - username: "ninojkt"
-    fullname: >-
-      Nino Fernandez
-    bio: >-
-      🇮🇩•🇬🇧•🇩🇪 for inquiries call/mail Vegan 🌱 TERBANG SAAT PANDEMI👇🏼👇🏼 ☕ - @di.bawahtangga Jesus my King
-    location: "Indonesia"
-    followers: 123461
-    engagement: 498
-    commentsToLikes: 0.042012
-    id: ck6u1t90pnqt50j71ag9buxup
-    verified: true
-    hashtags: "#indonesiadestinasiku, #yukterbanglagi, #plataranindonesia, #becauseyoumatter"
+    hashtags: "#ecstaticdance, #improvdance, #veganism, #vegansofig"
 ---

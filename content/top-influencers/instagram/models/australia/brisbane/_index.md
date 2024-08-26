@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Brisbane In 2023
+title: Top 10 Models Instagram Influencers In Brisbane In 2024
 description: >-
-  Find top models Instagram influencers in Brisbane in 2023. Most popular hashtags: #makeup #swimwear #mua.
+  Find top models Instagram influencers in Brisbane in 2024. Most popular hashtags: #brisbane #fashion #model.
 platform: Instagram
-hits: 48
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 48 Instagram influencers like this in Brisbane, Australia for you to collaborate.
+hits: 63
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 63 Instagram influencers like this in Brisbane, Australia for you to pitch.
 profiles:
   - username: "jade.syrett"
     fullname: >-
@@ -18,19 +18,43 @@ profiles:
     commentsToLikes: 0.127401
     id: ck13a1y82o8060i19gci5msnb
     verified: false
-    hashtags: "#agencymodel, #australianmodel, #swimwear, #blackandwhite"
+    hashtags: "#australianmodel, #internationalmodel, #swimsuit, #swimwear"
+  - username: "masphoto.official"
+    fullname: >-
+      Masterpiece Art Studio 📸🌴👙
+    bio: >-
+      #photographer Bookings DM
+    location: "Australia"
+    followers: 4970
+    engagement: 591
+    commentsToLikes: 0.013522
+    id: ck6u339dyvfx90j71bhrei5ev
+    verified: false
+    hashtags: "#lights, #boudoirbrisbane, #couple, #gym"
+  - username: "miakirwan"
+    fullname: >-
+      mia joy
+    bio: >-
+      full time bogan, part time model @chic_brisbane modelling - jodiehs@chicbrisbane.com.au collaborations - christie@chicbrisbane.com.au
+    location: "Australia"
+    followers: 56706
+    engagement: 4
+    commentsToLikes: 0.000000
+    id: closqxypdo9pk0j080qzjay79
+    verified: false
+    hashtags: "#gwinganna, #ad, #heychic, #wearheychic"
   - username: "hannahhayessisson"
     fullname: >-
       Hannah Hayes Sisson
     bio: >-
       ☆ Actress | Model 📍Brisbane, Australia
     location: "Australia"
-    followers: 3585
-    engagement: 1380
-    commentsToLikes: 0.045530
+    followers: 3806
+    engagement: 1080
+    commentsToLikes: 0.037798
     id: ck8sxek7lh41z0j78jq7dnx1f
     verified: false
-    hashtags: "#noideawhy, #4outof4"
+    hashtags: ""
   - username: "avaarachnie"
     fullname: >-
       Arachnie 🕷
@@ -55,30 +79,18 @@ profiles:
     id: ck55klkcjzli60i11ldukuzwq
     verified: false
     hashtags: "#goodsquad, #2020tour, #girlgang"
-  - username: "julietaroldann"
+  - username: "nicola.crisa"
     fullname: >-
-      Julieta Roldan 🇦🇺 🇦🇷
+      Nicola Crisa
     bio: >-
-      🌞🌊🏖 Gold Coast Model/Actress #brisbanemodel #goldcoastmodel Lifestyle 🏝 • Food 🍲 • Beauty💄 📩julietaroldann@gmail.com
+      Business 💌 info@nicolacrisa.com IMDb ⬇️
     location: "Australia"
-    followers: 73208
-    engagement: 108
-    commentsToLikes: 0.049185
-    id: ck0ud6ywjigcn0i19d8n00v30
+    followers: 314478
+    engagement: 17
+    commentsToLikes: 0.011136
+    id: ck0vw7sizshir0i19f5zzfy9f
     verified: false
-    hashtags: "#ad, #veganskincareproducts, #cavoodleaustralia, #brisbaneactress"
-  - username: "rockybatchelor"
-    fullname: >-
-      R O C K Y    B A T C H E L O R
-    bio: >-
-      Professional Photographer | Video Production | Brisbane - Sydney Commercial portfolio 📧 photographer@rockybatchelor.com
-    location: "Australia"
-    followers: 134853
-    engagement: 77
-    commentsToLikes: 0.029390
-    id: ck5hfkvatxycf0i1131fmkkwg
-    verified: false
-    hashtags: "#makeup, #client, #swimwear, #realityshow"
+    hashtags: "#photography, #fashion, #fit, #style"
   - username: "evie_saint_forrester"
     fullname: >-
       Ev💫Beauty|Business|Motivation
@@ -91,40 +103,28 @@ profiles:
     id: ck6ufovpsyahw0j71mfihoqc1
     verified: false
     hashtags: "#makeup, #makeupartist, #mua, #makeuptutorial"
-  - username: "miagracemccallum"
-    fullname: >-
-      Mia Grace
-    bio: >-
-      Brisbane Based Model 🦋 Email: miagmccallum@outlook.com 📧 @synergy_mgmt 📸
-    location: "Australia"
-    followers: 10191
-    engagement: 361
-    commentsToLikes: 0.182674
-    id: ckaoty5xpy11e0i78eia54nry
-    verified: false
-    hashtags: "#littlejcboutique, #empirebrand, #wildestsparrow"
-  - username: "taliarichman"
-    fullname: >-
-      T-Rich 👼✨💸
-    bio: >-
-      Australia/ NYC ✨ @chroniclesofbliss 🎞 @honeycoconutmilk_ 💭 Social inquiries 💌 kat@mgmt.com.au ▪️ Chic Model Management Sydney/Brisbane ▪️
-    location: "Australia"
-    followers: 231584
-    engagement: 166
-    commentsToLikes: 0.028345
-    id: ck0tzluz8qtgk0i19cv6dmi6i
-    verified: true
-    hashtags: "#bondiboost, #ad"
   - username: "tillyjacsmith"
     fullname: >-
-      Tilly Smith ✨
+      Tilly Jac Smith ✨
     bio: >-
-      Now in Sydney Mental health 🙏 Model - @scoopmanagement @chic_brisbane @newyorkmodelsdirect Social - @maxconnectors 🐝 Ambassador - @kai_yoga_mosman 🧘
+      GC 🫶🏽 Social - @chic_digital_creative Model - jodiehs@chicbrisbane.com.au @chic_brisbane @scoopmanagement @newyorkmodelsdirect
     location: "Australia"
-    followers: 78076
-    engagement: 162
-    commentsToLikes: 0.022568
+    followers: 112084
+    engagement: 28
+    commentsToLikes: 0.012261
     id: ck0tuasak6d8v0i19y86vgcd7
     verified: false
-    hashtags: "#minenssey, #fragrance, #minebyminenssey, #mermaid"
+    hashtags: "#moveyourbody, #glassons, #tuscany, #justdrinksco"
+  - username: "jade.tarrant"
+    fullname: >-
+      J A D E  T A R R A N T
+    bio: >-
+      🇦🇺 Australia 📍 Sunshine Coast | Brisbane
+    location: "Australia"
+    followers: 23147
+    engagement: 1064
+    commentsToLikes: 0.031246
+    id: ck5hqnz3ktf3e0i11q9smmfzr
+    verified: false
+    hashtags: "#photography, #instafashion, #vintage, #paradise"
 ---

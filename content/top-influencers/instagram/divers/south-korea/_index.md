@@ -1,24 +1,12 @@
 ---
-title: Top 10 Divers Instagram Influencers In South Korea In 2023
+title: Top 10 Divers Instagram Influencers In South Korea In 2024
 description: >-
-  Find top divers Instagram influencers in South Korea in 2023. Most popular hashtags: #kpop #selfie #youtube.
+  Find top divers Instagram influencers in South Korea in 2024. Most popular hashtags: #kpop #selfie #cosplay.
 platform: Instagram
-hits: 18
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 18 Instagram influencers like this in South Korea for you to collaborate.
+hits: 15
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 15 Instagram influencers like this in South Korea for you to work with.
 profiles:
-  - username: "sofjin_"
-    fullname: >-
-      Sofia Jin
-    bio: >-
-      British Korean entertainer @unitedagents, adventure athlete @ospreyeurope @thenorthfaceuk, exploring🌍 + creating diverse content. Embrace all you are!
-    location: "South Korea"
-    followers: 103324
-    engagement: 295
-    commentsToLikes: 0.011850
-    id: ck13cfi9r030u0i19x95av55i
-    verified: false
-    hashtags: ""
   - username: "leehyongchol"
     fullname: >-
       이형철
@@ -127,4 +115,16 @@ profiles:
     id: ck6uid7vueee60j71xyuq9jir
     verified: false
     hashtags: "#driverswing, #sideview, #practice, #slowmotion"
+  - username: "hj____xx"
+    fullname: >-
+      효니😘
+    bio: >-
+      My favorite things♥
+    location: "South Korea"
+    followers: 15317
+    engagement: 368
+    commentsToLikes: 0.027510
+    id: ckaor133tl9gc0i7854wrbpsg
+    verified: false
+    hashtags: "#measpheragolf, #golfstagram, #golf, #meaphera"
 ---

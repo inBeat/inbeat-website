@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Chicago In 2023
+title: Top 10 Architecture Instagram Influencers In Chicago In 2024
 description: >-
-  Find top architecture Instagram influencers in Chicago in 2023. Most popular hashtags: #chicago #architecture #mychicagopix #insta.
+  Find top architecture Instagram influencers in Chicago in 2024. Most popular hashtags: #chicago #architecture #insta #mychicagopix.
 platform: Instagram
-hits: 76
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 76 Instagram influencers like this in Chicago, United States for you to pitch.
+hits: 85
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 85 Instagram influencers like this in Chicago, United States for you to contact.
 profiles:
   - username: "karamanndesign"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck5hog0bgphu90i11sjbpwd5n
     verified: true
     hashtags: "#winnetkaestate, #karamannxcb2, #karamanndesign, #iwd2021"
+  - username: "camvalmor"
+    fullname: >-
+      Cam Valmor | First Officer
+    bio: >-
+      Hop on with me and enjoy the ride! ✈️ Arline pilot ❤️ Animal Lover 📸 Amateur Photographer 👇 My secret pics: Valmor.contact@gmail.com
+    location: "United States"
+    followers: 7881
+    engagement: 485
+    commentsToLikes: 0.061475
+    id: ck8wghh8uhdgc0j7894ibpbih
+    verified: false
+    hashtags: "#travelnyc, #cityview, #seeyourcity, #imagesofnyc"
   - username: "ms.maddiehealy"
     fullname: >-
       Ms. Maddie🍎
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.111443
     id: ck5pw6x3nlekv0i11yju981h6
     verified: false
-    hashtags: "#nature, #chicago, #architecture, #onlinechicago"
+    hashtags: "#mychicagopix, #landscapes, #enjoyillinois, #sunflowers"
   - username: "art.of.chi"
     fullname: >-
       Instagram Of Chicago
@@ -43,42 +55,6 @@ profiles:
     id: ck0u22viiyr4h0i19wlnlcd6r
     verified: false
     hashtags: "#chiarchitecture, #visitchitown, #enjoyillinois, #chitecture"
-  - username: "camvalmor"
-    fullname: >-
-      Cam Valmor | First Officer
-    bio: >-
-      Hop on with me and enjoy the ride! ✈️ Arline pilot ❤️ Animal Lover 📸 Amateur Photographer 👇 My secret pics: Valmor.contact@gmail.com
-    location: "United States"
-    followers: 7881
-    engagement: 485
-    commentsToLikes: 0.061475
-    id: ck8wghh8uhdgc0j7894ibpbih
-    verified: false
-    hashtags: "#nycprimeshot, #ilovenewyork, #nycblogger, #online"
-  - username: "mmeyers76"
-    fullname: >-
-      Mike Meyers
-    bio: >-
-      Chicago @SonyAlpha Ambassador 👇🏻👇🏻PRINTS👇🏻👇🏻
-    location: "United States"
-    followers: 183472
-    engagement: 330
-    commentsToLikes: 0.033309
-    id: ck0tt7xo91jj70i19ca6ibv9h
-    verified: false
-    hashtags: "#bnwmood, #alphacollective, #droneoftheday, #streets"
-  - username: "jorgevillegash"
-    fullname: >-
-      Jorge Villegas
-    bio: >-
-      Product designer, pizzahead, and father of one big fat English bulldog 🐶 I help businesses solve problems with design... whatever that means!
-    location: "United States"
-    followers: 9921
-    engagement: 546
-    commentsToLikes: 0.031712
-    id: ck136zs5292ro0i1931luhiuq
-    verified: false
-    hashtags: "#fatalframes, #thecreatorclass, #stlmo, #saintlouismissouri"
   - username: "wgnnews"
     fullname: >-
       WGN News
@@ -103,18 +79,42 @@ profiles:
     id: ck0tu43au5jl40i19poifpg6y
     verified: false
     hashtags: ""
-  - username: "silkandraven"
+  - username: "mmeyers76"
     fullname: >-
-      Morgan Wisted
+      Mike Meyers
     bio: >-
-      interior design + architecture pupil sustainable style chicago - nashville e: morgan@silkandraven.com
+      Chicago @SonyAlpha Ambassador 👇🏻👇🏻PRINTS👇🏻👇🏻
     location: "United States"
-    followers: 30224
-    engagement: 214
-    commentsToLikes: 0.054877
-    id: ck6tizdv21pza0j71pq8eheht
+    followers: 183472
+    engagement: 330
+    commentsToLikes: 0.033309
+    id: ck0tt7xo91jj70i19ca6ibv9h
     verified: false
-    hashtags: "#toteme, #noguchi, #hmconscious, #interiordesign"
+    hashtags: "#airandwatershow, #moodygrams, #eclectic, #artofvisuals"
+  - username: "amystormandco"
+    fullname: >-
+      Amy Storm & Company
+    bio: >-
+      Insightful space planning & distinctive design for clients across the US. Featured: AD | Luxe | Modern Luxury | Trad Home | RUE NEW TRAD HOME FEATURE:
+    location: "United States"
+    followers: 111905
+    engagement: 76
+    commentsToLikes: 0.047300
+    id: ck0udjmu3j8ig0i198to1aacc
+    verified: false
+    hashtags: "#ascholicow, #ascshakennotstirred, #ascspeakingenglish, #ascforwheeler"
+  - username: "northworks_architects"
+    fullname: >-
+      Northworks
+    bio: >-
+      Full service architecture and interiors firm. Chicago | Philadelphia | Jackson Hole | Aspen | Bozeman | San Francisco | Driggs
+    location: "United States"
+    followers: 25776
+    engagement: 143
+    commentsToLikes: 0.016742
+    id: ckqyz44y244ah0j237tescda3
+    verified: false
+    hashtags: "#northworksarchitects, #labordayweekend"
   - username: "nick_ulivieri"
     fullname: >-
       Nick Ulivieri

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Peru In 2023
+title: Top 10 Models Instagram Influencers In Peru In 2024
 description: >-
-  Find top models Instagram influencers in Peru in 2023. Most popular hashtags: #model #tb #beauty.
+  Find top models Instagram influencers in Peru in 2024. Most popular hashtags: #model #tb #eyes.
 platform: Instagram
-hits: 114
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 114 Instagram influencers like this in Peru for you to collaborate.
+hits: 98
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 98 Instagram influencers like this in Peru for you to work with.
 profiles:
   - username: "luana_huerta"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       📍Lima,Perú 〰️model of the year Perú 2018
     location: "Peru"
-    followers: 11734
-    engagement: 878
-    commentsToLikes: 0.047184
+    followers: 10525
+    engagement: 710
+    commentsToLikes: 0.056681
     id: ck0vyn0o54t4k0i19cqzthv99
     verified: false
-    hashtags: ""
+    hashtags: "#hypnoticstyle, #vestidoprom, #lom"
   - username: "alinavargasoficial"
     fullname: >-
       Alina Vargas
@@ -43,18 +43,6 @@ profiles:
     id: ck134l5t5wyp30i19bof7s213
     verified: false
     hashtags: "#turquia, #tb, #tbt, #diy"
-  - username: "lajavi.arnillas"
-    fullname: >-
-      Javiera Arnillas Cartagena
-    bio: >-
-      Miss International Queen Peru 2020👑🇵🇪 Recruitment & Retention for Clinical Trials💉🦠🔭 Actress 🎬🎭 AfroPeruvian Model 👗👠 8M @somoselcomercio 👇🏾
-    location: "Peru"
-    followers: 17303
-    engagement: 571
-    commentsToLikes: 0.035985
-    id: ck5zumcm02mz00i14zfvgkud2
-    verified: false
-    hashtags: "#afro, #beautyqueen, #beyourself, #model"
   - username: "simonamaass"
     fullname: >-
       Simona Maass
@@ -127,4 +115,16 @@ profiles:
     id: ck5q3jtc4l2rq0i1108tocg6e
     verified: true
     hashtags: "#publicidad, #tb, #fintsperu, #beingstronger"
+  - username: "angelicanicole157"
+    fullname: >-
+      Angelica Vargas Vasquez
+    bio: >-
+      - Finalista de model of the year 2017 @icebergmodelos - Estudiante de Medicina Humana ❤️ - Lima 🇵🇪 Dgo🇲🇽
+    location: "Peru"
+    followers: 4076
+    engagement: 1313
+    commentsToLikes: 0.038079
+    id: ck0vymv764s8m0i19nhv07hv8
+    verified: false
+    hashtags: ""
 ---

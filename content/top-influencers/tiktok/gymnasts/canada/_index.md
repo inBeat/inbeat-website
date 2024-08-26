@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In Canada In 2023
+title: Top 10 Gymnasts TikTok Influencers In Canada In 2024
 description: >-
-  Find top gymnasts TikTok influencers in Canada in 2023. Most popular hashtags: #gymnastics #fyp #foryou #foryoupage.
+  Find top gymnasts TikTok influencers in Canada in 2024. Most popular hashtags: #gymnastics #fyp #foryou #foryoupage.
 platform: TikTok
 hits: 43
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform holds 43 TikTok influencers like this in Canada for you to pitch.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 43 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "jel.bel"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.085221
     id: ck8hphkjazhze0j78slf7i6rc
     verified: false
-    hashtags: "#fyp, #tiktoktravel, #gymnastics, #mykonos"
+    hashtags: "#japan, #fyp, #sunset, #travel"
   - username: "izzy42hotmom"
     fullname: >-
       Isabelle O’Brien
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.053048
     id: ckcpu43wnp1010j23k8qt2ymf
     verified: false
-    hashtags: "#summer2020, #crossfit, #body, #balance"
+    hashtags: "#musclegirl, #love, #legday, #abworkout"
   - username: "calisthenixpro"
     fullname: >-
       Xavier Cormier

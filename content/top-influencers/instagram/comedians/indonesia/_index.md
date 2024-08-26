@@ -1,24 +1,84 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Indonesia In 2023
+title: Top 10 Comedians Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top comedians Instagram influencers in Indonesia in 2023. Most popular hashtags: #kalbarspektakuler #suria #kai.
+  Find top comedians Instagram influencers in Indonesia in 2024. Most popular hashtags: #podcast #visinemaweek #adriandhyart.
 platform: Instagram
-hits: 36
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 36 Instagram influencers like this in Indonesia for you to collaborate.
+hits: 35
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 35 Instagram influencers like this in Indonesia for you to pitch.
 profiles:
+  - username: "adriandhy"
+    fullname: >-
+      Ryan Adriandhy 🎨✨| CP: +628122001090 (Fanny)
+    bio: >-
+      Indonesian 🇮🇩 Illustrator 🖍️ Animator 🎞️ Film Director 🎥 Comedian 🎭 ••• @domikado_id | Animasi #FilmJUMBO (in production) | #DPKSDWS | #RYANdanryan
+    location: "Indonesia"
+    followers: 80493
+    engagement: 416
+    commentsToLikes: 0.014406
+    id: ck5cb4jvsepx20i11thl6piek
+    verified: false
+    hashtags: "#dpksdws, #adriandhyart, #jumbo, #domikado"
+  - username: "musdalifahbasri"
+    fullname: >-
+      Musdalifah basri
+    bio: >-
+      🍉🍉🍉 Stand Up Comedian Mom and Wife Daffa, Devan-Devin 🐣💛 Owner @daffakids_ 📍Kontak bisnis : Putri 081210976994
+    location: "Indonesia"
+    followers: 1014937
+    engagement: 1210
+    commentsToLikes: 0.028155
+    id: ck6uc2il0d4aj0j71ekbrl0pe
+    verified: false
+    hashtags: "#rumpiekonomipencucipiring, #bersihnyagakadalawan, #paylater, #ramadanekstraseru"
+  - username: "egiargians"
+    fullname: >-
+      EGI HAW
+    bio: >-
+      Stand Up Comedian, Mc / Host, Aktor, Writer, Content Creator Minat? Hubungi: 081294384264 (Rizal) Merchandise: @tokodaurulang
+    location: "Indonesia"
+    followers: 156084
+    engagement: 564
+    commentsToLikes: 0.035585
+    id: ck6u0xg7iib8n0j71o07se9wj
+    verified: false
+    hashtags: "#puisitolol, #baca, #puisisalahketik, #alditaher"
+  - username: "arie_kriting"
+    fullname: >-
+      Arie Kriting
+    bio: >-
+      Comedian, Melanesian. Contact Person : 0858-8533-0430 Andri @andrialirachmat (WA Only 🙏🏽)
+    location: "Indonesia"
+    followers: 1115477
+    engagement: 317
+    commentsToLikes: 0.012149
+    id: ck6tjfynz2n680j71xc7ker04
+    verified: true
+    hashtags: "#podcast, #mamat, #arie, #keluarmain1994movie"
   - username: "kikysaputrii"
     fullname: >-
       Kiky Saputri
     bio: >-
-      Standup Comedian. BA @rejoice.id Bucinnya @somethincofficial Owner of @kayaraya.official
+      Standup Comedian. BA @rejoice.id Bucinnya @somethincofficial On Air/Off Air : 081284092626 (Andi)
     location: "Indonesia"
-    followers: 1705992
-    engagement: 186
-    commentsToLikes: 0.014650
+    followers: 2864381
+    engagement: 158
+    commentsToLikes: 0.021436
     id: ck5chh7jjqrwq0i11wwgr3cbr
     verified: true
-    hashtags: "#kai, #roasting, #kikisaputri, #inspirasipernikahan"
+    hashtags: "#waktunyapegipegi, #raziasunscreen, #qna, #roasting"
+  - username: "indrowarkop_asli"
+    fullname: >-
+      INDRO WARKOP
+    bio: >-
+      Indonesian Comedian - WARKOP DKI . For inquiries ⬇️
+    location: "Indonesia"
+    followers: 2146044
+    engagement: 136
+    commentsToLikes: 0.010023
+    id: ck13d2lww3cuk0i198glxullm
+    verified: true
+    hashtags: "#biafeatindrowarkop, #islamicjourneyinafrica, #pasutrigaje, #timbuktuedition"
   - username: "aryanovrianus"
     fullname: >-
       Arya Novrianus —アルヤ•
@@ -31,54 +91,6 @@ profiles:
     id: ck5c803sf8igy0i11ionamp16
     verified: false
     hashtags: "#romancedawn, #foreveryoung, #onepiece, #onepiece1000logs"
-  - username: "praz_teguh"
-    fullname: >-
-      Praz Teguh
-    bio: >-
-      Stand Up Comedian Digital Manager : 087783174293 (Evan) CP / Endorsement / PP : 082283026624 (Niki)
-    location: "Indonesia"
-    followers: 322730
-    engagement: 378
-    commentsToLikes: 0.016158
-    id: ck0w5u2ne5fze0i19lswn17nl
-    verified: false
-    hashtags: "#tanyoamak, #pacahparuikrantau, #pacahparuik"
-  - username: "rigensih"
-    fullname: >-
-      Rigen Rakelna
-    bio: >-
-      Stand up comedian, Aktor, Host, MC, Youtuber. Singer, Magician | CEO of @dapur_angrygen | CP: 083822105467 (Nadia)
-    location: "Indonesia"
-    followers: 155496
-    engagement: 657
-    commentsToLikes: 0.018430
-    id: ck6uc1mvlcyui0j715zmvvdx2
-    verified: false
-    hashtags: "#cemancintaplus62, #dimarahinrigenvol3, #vouchergamemurah, #sinarmas"
-  - username: "memedaengg"
-    fullname: >-
-      SARJANA STARSYNDROME
-    bio: >-
-      Im Not Selebgram, Just A Comedian! ✨Pontienak-Xmantanbarat 🌈MC & Komedian On Mic @standupindo_ptk 🌸Part of @drapon.co 🌵Bussinesinquiries: Klink kink👇
-    location: "Indonesia"
-    followers: 25055
-    engagement: 329
-    commentsToLikes: 0.012081
-    id: ck15sdbcmcfkf0i192rl3cpdy
-    verified: false
-    hashtags: "#lemaripajangan, #promolebaran2020, #ojkkalimantanbarat, #springbedpontianak"
-  - username: "arifbrata"
-    fullname: >-
-      Arif Brata
-    bio: >-
-      Standup comedian #SUCA2 #SUCI8 | MC | KOKI Owner of : @mongcase | @mongmantap CP: 081387767249 (Business/Endorsement/Etc)
-    location: "Indonesia"
-    followers: 104255
-    engagement: 640
-    commentsToLikes: 0.019263
-    id: ck0vybonq36ou0i19wpd1okvc
-    verified: false
-    hashtags: "#intheboxpromo, #hariayahnasional, #menyusuisehatkanbumi, #bersamasehatkanbangsa"
   - username: "maswiraaa"
     fullname: >-
       Wira Sirajati
@@ -115,16 +127,4 @@ profiles:
     id: ck5qakm8jgw3x0i11ngvge43n
     verified: false
     hashtags: "#rpbungadeposito, #suntikanmoralcoki, #oishi, #popcorncaramel"
-  - username: "ajakshiro"
-    fullname: >-
-      Ajak Shiro
-    bio: >-
-      Comedian,Suria announcer,Entrepreneur . Founder Miracle Bidara
-    location: "Indonesia"
-    followers: 2904477
-    engagement: 46
-    commentsToLikes: 0.005502
-    id: ck6u0dq19f3dd0j71bdgjrvhl
-    verified: true
-    hashtags: "#suria, #sayaajakdansayatidaksombong, #teampagisuria, #lifestyle"
 ---

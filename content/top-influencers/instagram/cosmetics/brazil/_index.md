@@ -1,12 +1,60 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Brazil In 2023
+title: Top 10 Cosmetics Instagram Influencers In Brazil In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Brazil in 2023. Most popular hashtags: #makeup #maquiagem #photooftheday #photography.
+  Find top cosmetics Instagram influencers in Brazil in 2024. Most popular hashtags: #makeup #cosmetics #instagood #art.
 platform: Instagram
-hits: 396
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our database has 396 Instagram influencers like this in Brazil for you to collaborate.
+hits: 399
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 399 Instagram influencers like this in Brazil for you to work with.
 profiles:
+  - username: "noemisalazar"
+    fullname: >-
+      Noemi Salazar
+    bio: >-
+      🧴 Founder @noemisalazar_cosmetics 📩 contacto.noemisalazar@gmail.com
+    location: "Brazil"
+    followers: 1035432
+    engagement: 457
+    commentsToLikes: 0.165875
+    id: ck5q9nborbzle0i111qcvhstw
+    verified: true
+    hashtags: "#happybirthday, #parati, #instagood, #asar"
+  - username: "soldejaneiro"
+    fullname: >-
+      Sol de Janeiro
+    bio: >-
+      Joyful head-to-toe beauty celebrating self-love & self-care💛☀️🌴 🌎@sephora 🇦🇺@meccabeauty 🇬🇧@lookfantastic @cultbeauty 🇩🇪@douglas_cosmetics 🇮🇳@mynykaa
+    location: "Brazil"
+    followers: 1233502
+    engagement: 196
+    commentsToLikes: 0.050347
+    id: cl4f69ksoqcbh0i23gpn4z1bp
+    verified: false
+    hashtags: "#aiyearbook, #meccamoment, #selfcare"
+  - username: "cosmeasia"
+    fullname: >-
+      CosmeAsia
+    bio: >-
+      Cosmetics news from Japan and Korea (I do NOT sell any product at all). As novidades cosméticas do Japão e Coreia (perfil NÃO comercial).
+    location: "Brazil"
+    followers: 75539
+    engagement: 37
+    commentsToLikes: 0.028314
+    id: ck135vsno3h8t0i19ejoraktb
+    verified: false
+    hashtags: "#cuidadoscomapele, #brilho, #cosm, #lo"
+  - username: "fernandaa_pedrosa"
+    fullname: >-
+      Fernanda Pedrosa
+    bio: >-
+      Model | Fashion | Lifestyle | Travel Embaixadora @fbeauty_cosmetic @chocolatedoceoficial Engenheira Química 👩🏼‍🔬 📩 contato@fernandapedrosa.com
+    location: "Brazil"
+    followers: 492363
+    engagement: 8
+    commentsToLikes: 0.029773
+    id: ck6u0pps0h2o20j71jiacstyn
+    verified: true
+    hashtags: "#lookdotreino, #grwm, #lookoftheday, #humorfitness"
   - username: "amandacrystinaoficial"
     fullname: >-
       AMANDA  CRYSTINA
@@ -43,30 +91,6 @@ profiles:
     id: ck15rcbau77nh0i195x4pg5ue
     verified: false
     hashtags: "#sfxmakeup, #makeuptutorial, #makeupvideo, #gifted"
-  - username: "jujummoraes_"
-    fullname: >-
-      Juju Moraes ♡
-    bio: >-
-      ╎Beauty • Fashion • Lifestyle╎ Estética e Cosmétic 🎓 Solicite o Mídia kit ♡
-    location: "Brazil"
-    followers: 26468
-    engagement: 142
-    commentsToLikes: 0.271620
-    id: ck9wdbjrkewp00j78xyuv5s5o
-    verified: false
-    hashtags: "#tbt"
-  - username: "noemi_salazar13"
-    fullname: >-
-      Noemi Salazar
-    bio: >-
-      💌 : noemi_salazar13@pinkhyevents.com 📸 Instagramer 💄Mi marca :@noemisalazar_cosmetics 👇🏾COMPRA MIS COSMÉTICOS 👇🏾
-    location: "Brazil"
-    followers: 879633
-    engagement: 492
-    commentsToLikes: 0.070841
-    id: ck5q9nborbzle0i111qcvhstw
-    verified: true
-    hashtags: "#photooftheday, #love, #instagramers, #ad"
   - username: "itsjandyy"
     fullname: >-
       Jandyy 🧚🏾‍♀️
@@ -79,52 +103,28 @@ profiles:
     id: ck9hcol8rmci10j78x5lpe8ff
     verified: false
     hashtags: "#outfitshot, #makeupoftheday, #ootdblackgirls, #outfitsideasforyou"
-  - username: "cosmeasia"
+  - username: "dr.gustavopinheiro"
     fullname: >-
-      
+      Gustavo Pinheiro / Estética do Sorriso 🇧🇷
     bio: >-
-      Cosmetics news from Japan and Korea (I do NOT sell any product at all). As novidades cosméticas do Japão e Coreia (perfil NÃO comercial).
+      📍Goiânia-GO 🇧🇷 📲 +55(62)99910-4010 📞+55(62)3941-6827 CD CROGO9735 @coreodontologia @casaraodospinheiros
     location: "Brazil"
-    followers: 86428
-    engagement: 75
-    commentsToLikes: 0.026616
-    id: ck135vsno3h8t0i19ejoraktb
+    followers: 103798
+    engagement: 125
+    commentsToLikes: 0.036411
+    id: ck6u6xpjdibpb0j71rv2lneby
     verified: false
-    hashtags: "#demaquilante, #cuidadoscomapele, #brilho, #cosm"
-  - username: "kenzo_mud"
+    hashtags: "#sorriso, #porcelainveneers, #smille, #dentalphotography"
+  - username: "carolacosmetics"
     fullname: >-
-      Kenzo
+      Carola Lima
     bio: >-
-      Creator Japan - Brazil
+      ∘🍿Desde 2017 criando cosméticos ∘☕️Terapia Capilar Doce em casa! ∘🍭 Produtos autorais com amor. ∘🌈Comprinhas e preços no⇩site aki:
     location: "Brazil"
-    followers: 15055
-    engagement: 871
-    commentsToLikes: 0.046730
-    id: ck9hcoc2umb2s0j788bvcw10e
+    followers: 962901
+    engagement: 62
+    commentsToLikes: 0.562968
+    id: ckaoyrjfyirbe0i78ah7rlar8
     verified: false
-    hashtags: "#makeuplover, #fashion, #hair, #skin"
-  - username: "darknifica"
-    fullname: >-
-      Darknífica
-    bio: >-
-      ⚜️Por: Michelly Alves ⚜️Cɑsɑdɑ: @thiagofwalter ⚜️ Hairstyle / Life Style ⚜️SM @antoniocarlosejocafi ⚜️Presets clique no link👇🏽
-    location: "Brazil"
-    followers: 20710
-    engagement: 275
-    commentsToLikes: 0.127342
-    id: ck8t9hiu1o3zf0j784s7rd97u
-    verified: false
-    hashtags: "#glowmakeup, #porai, #feminina, #ferias"
-  - username: "alinepprieto"
-    fullname: >-
-      Aline Prieto
-    bio: >-
-      lifestyle| makeup| humor tiktok: alinepprieto +1.2M ✨Videos no reels todos os dias✨ 📲parcerias via direct / email 📥contato.alineprieto@gmail.com
-    location: "Brazil"
-    followers: 60889
-    engagement: 468
-    commentsToLikes: 0.024263
-    id: ck8wgnnb7hpkr0j78uqm67f8i
-    verified: false
-    hashtags: "#fazaposeolhaoflashchallenge, #catucadaviolentachallenge, #challengedemaquiagem, #apaixonoueuchallenge"
+    hashtags: "#carolacosmetics, #quedacapilar, #vov, #cosmetics"
 ---

@@ -1,24 +1,36 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Dallas In 2023
+title: Top 10 Stylists Instagram Influencers In Dallas In 2024
 description: >-
-  Find top stylists Instagram influencers in Dallas in 2023. Most popular hashtags: #stylist #explore #viral #fashion.
+  Find top stylists Instagram influencers in Dallas in 2024. Most popular hashtags: #stylist #fashionblogger #dallas.
 platform: Instagram
-hits: 45
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: inBeat has 45 Instagram influencers like this in Dallas, United States for you to collaborate.
+hits: 56
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 56 Instagram influencers like this in Dallas, United States for you to collaborate.
 profiles:
-  - username: "the_barbers_son"
+  - username: "alysonlupo_reallifecurlygirl"
     fullname: >-
-      THE_BARBERS_SON💈🤣
+      Alyson Lupo
     bio: >-
-      The_barbers_son The Entertainer/ Barber/Content Creator🤫 check me out on TikTok and YouTube 💯
+      ✂️ Wavy Hair Coach+Stylist | Dallas, TX 📍 🌀 Feat. in Naturally Curly & Curl Mag 🔺80k+ on YouTube 👇 Get your best waves here
     location: "United States"
-    followers: 59446
-    engagement: 315
-    commentsToLikes: 0.025533
-    id: ck5hrwtpavm4l0i1178rgdj29
+    followers: 48021
+    engagement: 58
+    commentsToLikes: 0.096221
+    id: ck5zjzssqikdg0i1424bj618e
     verified: false
-    hashtags: "#chiraqmagazine, #barber, #guyshair, #tiktok"
+    hashtags: "#freefromtheflatiron, #wtfmethod, #stylist, #simplywaves"
+  - username: "sydneywoy"
+    fullname: >-
+      Sydney Ann Woy
+    bio: >-
+      Personal Stylist & Shopper Dallas, Texas info@sydneywoystyling.com
+    location: "United States"
+    followers: 33119
+    engagement: 110
+    commentsToLikes: 0.020278
+    id: ckwx3ix3uwnsw0j2373ykorad
+    verified: false
+    hashtags: ""
   - username: "acozyblessednest"
     fullname: >-
       Aspen
@@ -67,6 +79,18 @@ profiles:
     id: ckap1d4oiu2vv0i78a42qfzgc
     verified: false
     hashtags: "#jerseemack, #dallashairstylist, #junebugchallenge, #dallastx"
+  - username: "aditik_sheetall"
+    fullname: >-
+      DailyDiva l Content Creator
+    bio: >-
+      Simplicity is the Key of HAPPINESS! Fashion. Travel. Beauty. Lifestyle 📍Dallas, Texas 🇺🇸🇮🇳 Inquires: DM or dailydivaig@gmail.com ❤️
+    location: "United States"
+    followers: 54913
+    engagement: 50
+    commentsToLikes: 0.224744
+    id: ck55mpa194ge90i11yd4rquzw
+    verified: false
+    hashtags: "#dfwblogger, #ad, #outfitoftheday, #explorepage"
   - username: "hvileyj"
     fullname: >-
       HAILEY J.
@@ -78,31 +102,7 @@ profiles:
     commentsToLikes: 0.023162
     id: ckap3wq9d4tvo0i78k7bp3lke
     verified: false
-    hashtags: "#dallas, #dfw, #dallastx, #214"
-  - username: "mxodos_"
-    fullname: >-
-      Motaniel Ngina
-    bio: >-
-      Stylist ™ 📈 → 📍Toronto / Dallas,TX → 📩: motangina2@gmail.com → Work via @EXODOSCREATIVES | @PHEOCOUTURE
-    location: "United States"
-    followers: 10013
-    engagement: 379
-    commentsToLikes: 0.077861
-    id: ck6u9um6yzrcl0j71idgsawe5
-    verified: false
-    hashtags: "#unbeauart, #theexodosway, #dapperstyle, #outfitoftheday"
-  - username: "iam_jonathan_"
-    fullname: >-
-      Iam_jonathan_
-    bio: >-
-      TheWrightWay Legendary 🤴🏾Dallas Finest International Celebrity Stylist 📩: Jonathanwright28@gmail.com Father of @Iam_deor_ @iam_freeenn_
-    location: "United States"
-    followers: 1301916
-    engagement: 356
-    commentsToLikes: 0.018235
-    id: ck6tu847ueucc0j71fdn4y9am
-    verified: false
-    hashtags: "#jolivia"
+    hashtags: "#trusttheincrowd, #dallas, #finallytuesdays, #dallasnightlife"
   - username: "chinoblendzz"
     fullname: >-
       El Paso Barber | Chino
@@ -115,16 +115,16 @@ profiles:
     id: ckap7phs5kzro0i784z3woic1
     verified: false
     hashtags: "#thebarber, #915barber, #dallasbarber, #nicestbarbers"
-  - username: "lionellashad"
+  - username: "cashlawlesshair"
     fullname: >-
-      LIONEL LASHAD 🇧🇸
+      CASH
     bio: >-
-      #ATLMUA #ATLMAKEUPARTIST #ATLANTAMUA 👇🏽BOOK APPOINTMENT
+      ✖️ Hair Stylist + Entrepreneur + Sailor ✖️ Los Angeles x Dallas ✖️ Rep: krista@maneaddicts.com @maneaddicts ✖️ Just hair. No bullsh*t⤵️
     location: "United States"
-    followers: 15220
-    engagement: 585
-    commentsToLikes: 0.035107
-    id: ck5zq2pszttp30i14wrmy35lf
+    followers: 51093
+    engagement: 84
+    commentsToLikes: 0.056846
+    id: ck5ztaxej02ge0i14t1g0sn93
     verified: false
-    hashtags: "#makeupvideos, #viral, #naturalglam, #makeupbylionellashad"
+    hashtags: "#maven, #dyson, #mauimoisture, #aloeforcurls"
 ---

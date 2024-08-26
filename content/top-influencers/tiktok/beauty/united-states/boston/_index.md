@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Boston In 2023
+title: Top 10 Beauty TikTok Influencers In Boston In 2024
 description: >-
-  Find top beauty TikTok influencers in Boston in 2023. Most popular hashtags: #fyp #beauty #boston #love.
+  Find top beauty TikTok influencers in Boston in 2024. Most popular hashtags: #fyp #beauty #boston #love.
 platform: TikTok
-hits: 7
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 7 TikTok influencers like this in Boston, United States for you to connect with.
+hits: 8
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 8 TikTok influencers like this in Boston, United States for you to pitch.
 profiles:
   - username: "beautifyfairy"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ckbb6ahwswemp0j23hvuopmiq
     verified: false
     hashtags: "#nhloutdoors, #dothescottsslide, #hockey, #doritosflatlife"
+  - username: "oldloserinbrooklyn"
+    fullname: >-
+      mandy
+    bio: >-
+      Fashion, beauty, trends, unlocking memories NYC she/her ♈️ 👇🏼Links n socials
+    location: "United States"
+    followers: 100500
+    engagement: 1345
+    commentsToLikes: 0.025360
+    id: ckdhdqza0wphy0j23r4793t0g
+    verified: false
+    hashtags: "#houseofsunny, #boston, #beautyindustry, #2021trends"
   - username: "madelinedelp"
     fullname: >-
       Madeline Delp
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.025546
     id: ck8j6dqxa9fl20j782qg28wlk
     verified: false
-    hashtags: "#heather, #fyi, #yum, #feliznavidad"
+    hashtags: "#indoorlooks, #billieilishchanllenge, #melanie, #yum"
   - username: "beauty"
     fullname: >-
       beauty
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.052231
     id: ckc91lm2fronk0j23uo0hgtbd
     verified: false
-    hashtags: "#blackfae, #chicagocheck, #cleargenius, #thesuicidesquadmovie"
-  - username: "lexisroc"
-    fullname: >-
-      ✨Alexis✨
-    bio: >-
-      To All Who Come To This Magical Place ✨Welcome✨ IG: lexisroc 70K beauties 💖
-    location: "United States"
-    followers: 76800
-    engagement: 1523
-    commentsToLikes: 0.046760
-    id: ckbbdo6pn2izp0j2342epu47j
-    verified: false
-    hashtags: "#magickingdom, #luca, #callmebyyourname, #disneymovies"
+    hashtags: "#chicagocheck, #suicidesquad, #thesuicidesquadmovie, #cleargenius"
 ---

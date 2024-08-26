@@ -1,11 +1,11 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In France In 2023
+title: Top 10 Crossfit TikTok Influencers In France In 2024
 description: >-
-  Find top crossfit TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #crossfit #foryou #humour.
+  Find top crossfit TikTok influencers in France in 2024. Most popular hashtags: #pourtoi #crossfit #foryou #humour.
 platform: TikTok
 hits: 22
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 22 TikTok influencers like this in France for you to connect with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 22 TikTok influencers like this in France for you to connect with.
 profiles:
   - username: "tonton_fit"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.012897
     id: ck9epngtste8v0j787g3npz1r
     verified: false
-    hashtags: "#muscle, #pov, #meme, #pourtoi"
+    hashtags: "#muscle, #pourtoi, #joshua, #halterophilie"
   - username: "remssbh1"
     fullname: >-
       Rems

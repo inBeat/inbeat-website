@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Mumbai In 2023
+title: Top 10 Lifestyle TikTok Influencers In Mumbai In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Mumbai in 2023. Most popular hashtags: #tiktok #foryoupage #trending #lifestyle.
+  Find top lifestyle TikTok influencers in Mumbai in 2024. Most popular hashtags: #tiktok #lifestyle #trending #foryou.
 platform: TikTok
 hits: 12
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 12 TikTok influencers like this in Mumbai, India for you to pitch.
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 12 TikTok influencers like this in Mumbai, India for you to contact.
 profiles:
   - username: "moto_vibesz"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.005203
     id: ckbeym7yij4e60j233saao6hg
     verified: true
-    hashtags: "#edutok, #styleindia, #trending, #justjam"
+    hashtags: "#styleindia, #mumbaitiktok, #trending, #featureme"
   - username: "damardhaval"
     fullname: >-
       Dhaval N Damar

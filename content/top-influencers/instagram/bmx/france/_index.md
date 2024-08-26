@@ -1,12 +1,36 @@
 ---
-title: Top 10 Bmx Instagram Influencers In France In 2023
+title: Top 10 Bmx Instagram Influencers In France In 2024
 description: >-
-  Find top bmx Instagram influencers in France in 2023. Most popular hashtags: #bmx #bmxlife #bmx4life #bmxlifestyle.
+  Find top bmx Instagram influencers in France in 2024. Most popular hashtags: #bmx #bmxlife #bmxlifestyle.
 platform: Instagram
-hits: 71
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 71 Instagram influencers like this in France for you to connect with.
+hits: 77
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 77 Instagram influencers like this in France for you to work with.
 profiles:
+  - username: "alex1v"
+    fullname: >-
+      Alexandre Valentino
+    bio: >-
+      TM @vans_europe Studio @granderuecollectif Autoportrait @united_bmx Crew @mariejadecrew
+    location: "France"
+    followers: 12364
+    engagement: 511
+    commentsToLikes: 0.016982
+    id: ck5hlaarajuwi0i11ejitezku
+    verified: false
+    hashtags: "#fifa22, #mamiyarb67, #duragbrothers, #stillunited"
+  - username: "eddyclerte815"
+    fullname: >-
+      Eddy Clerté
+    bio: >-
+      2022 Bmx World #8 🌎 2021 Pumptrack World Champion 🌈 @pumptrackworlds qualifier registration ↙️
+    location: "France"
+    followers: 107520
+    engagement: 294
+    commentsToLikes: 0.004395
+    id: ck5headeerw990i11ke0o7q97
+    verified: false
+    hashtags: "#triple"
   - username: "mvalentino971"
     fullname: >-
       Manon Valentino
@@ -71,14 +95,14 @@ profiles:
     fullname: >-
       Christian Moll
     bio: >-
-      Bmx | Chile | Travel @ibikes_chile | @zignalpark Bike check ⏬
+      Bmx | Chile | Travel @ibikes_chile | @zignalpark | #monsterenergycl
     location: "France"
-    followers: 32693
-    engagement: 370
-    commentsToLikes: 0.044275
+    followers: 30250
+    engagement: 290
+    commentsToLikes: 0.049180
     id: ck5zkl47kjodt0i140pscy1np
     verified: false
-    hashtags: "#bmxchile, #bmx, #vi"
+    hashtags: "#bmx, #monsterenergycl, #bmxchile, #212foreveryoung"
   - username: "gustavo_balaloka"
     fullname: >-
       𝗚𝗨𝗦𝗧𝗔𝗩𝗢" 𝗕𝗔𝗟𝗔 𝗟𝗢𝗞𝗔" ✌🏽🏁🇧🇷
@@ -103,28 +127,4 @@ profiles:
     id: ck8szhme5ohbm0j788ynj9zw7
     verified: false
     hashtags: "#bmxrussia, #bmxinukraine, #streetstyle, #onsomeshit"
-  - username: "pandatwentysix"
-    fullname: >-
-      Panda TwentySix BMX
-    bio: >-
-      Big BMX 🐼 📍Paris, FR #bikelife
-    location: "France"
-    followers: 15051
-    engagement: 2023
-    commentsToLikes: 0.006175
-    id: ckf5lho9gpld20j23d8qz41qc
-    verified: false
-    hashtags: "#bmx4life, #bmxcruiser, #mtbrider, #bmxgirl"
-  - username: "lilicey_bmx"
-    fullname: >-
-      Isaiah Johnson
-    bio: >-
-      ~BMX~Good Vibes~MKE~🚲💎@Cultcrew/@4seasonssk8park/@Mpegcrew/@fluxx_crew/ @theblackdiamondcbd 👇🏽👇🏽👇🏽
-    location: "France"
-    followers: 7340
-    engagement: 956
-    commentsToLikes: 0.076290
-    id: ck14kounfqkht0i19i0s33k2l
-    verified: false
-    hashtags: "#bmx, #midwestbmx, #itstime, #cultcrew"
 ---

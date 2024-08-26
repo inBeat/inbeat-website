@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Chile In 2023
+title: Top 10 Guitar Instagram Influencers In Chile In 2024
 description: >-
-  Find top guitar Instagram influencers in Chile in 2023. Most popular hashtags: #photography #musicachilena #swillstraps.
+  Find top guitar Instagram influencers in Chile in 2024. Most popular hashtags: #guitar #photography #musicachilena #drums.
 platform: Instagram
-hits: 29
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 29 Instagram influencers like this in Chile for you to collaborate.
+hits: 28
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database holds 28 Instagram influencers like this in Chile for you to work with.
 profiles:
   - username: "blackenedbbx"
     fullname: >-
@@ -91,6 +91,18 @@ profiles:
     id: ck8swsonbf3nv0j785951lv7z
     verified: true
     hashtags: "#poppin, #talkbox, #musicproducer, #prince"
+  - username: "mizterfilip"
+    fullname: >-
+      Mr. Phillip
+    bio: >-
+      Código MIZTERFILIP en Fortnite 📷 Youtuber e Ilustrador digital ✏Mis ilustraciones: @mizterfilip_art 🎥Youtube: Mr. Phillip mizterfilip@rift-agency.com
+    location: "Chile"
+    followers: 384663
+    engagement: 641
+    commentsToLikes: 0.006126
+    id: ck8syz4womkyq0j785rm0b6ni
+    verified: false
+    hashtags: "#band, #bass, #anime, #guitar"
   - username: "sanbyemusic"
     fullname: >-
       Sanbye
@@ -115,16 +127,4 @@ profiles:
     id: ck6tj6kbd23vo0j71ku2dfx3g
     verified: false
     hashtags: "#musical, #singer, #songs, #veganartist"
-  - username: "flamencodepuracepa"
-    fullname: >-
-      flamencodepuracepa
-    bio: >-
-      ¡Aquí se vive el Flamenco! 👏🏼 Fotos y vídeos todos los días 📸📹 TikTok: @flamencodepuracepa 🎥 Canal Telegram: flamencodepuracepa 📍 Andalucía
-    location: "Chile"
-    followers: 10141
-    engagement: 361
-    commentsToLikes: 0.016409
-    id: ckapai61cw7jb0i78cv25hlbw
-    verified: false
-    hashtags: "#cantaor, #flamenco, #flamencoguitar, #solea"
 ---

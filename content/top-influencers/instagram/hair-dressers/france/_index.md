@@ -1,24 +1,48 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In France In 2023
+title: Top 10 Hair Dressers Instagram Influencers In France In 2024
 description: >-
-  Find top hair dressers Instagram influencers in France in 2023. Most popular hashtags: #dresses #hair #dress #hairstyle.
+  Find top hair dressers Instagram influencers in France in 2024. Most popular hashtags: #fashion #cute #hair #dresses.
 platform: Instagram
 hits: 19
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 19 Instagram influencers like this in France for you to connect with.
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 19 Instagram influencers like this in France for you to pitch.
 profiles:
-  - username: "lesalondenaelle"
+  - username: "andjalorein"
     fullname: >-
-      Le Salon de Naëlle
+      Andja Lorein
     bio: >-
-      Hair stylist 🇫🇷 👻lesalondenaelle 📍52 rue Boissière, Paris 16ème ☎️ 0142251507 📍Livry Gargan 93190 ☎️ 0149446104 / 0952201732 RÉSERVATION ⬇️
+      Born in France 🇫🇷 Brave & Wild Spirit 11:11 🦂 Life Coach / Counsellor / Model #ActFree guide
     location: "France"
-    followers: 106649
-    engagement: 60
-    commentsToLikes: 0.007234
-    id: ck9hanpdrd9nk0j78qocm433z
+    followers: 484451
+    engagement: 145
+    commentsToLikes: 0.019261
+    id: ck5hdadscmd1u0i11pxwui623
     verified: false
-    hashtags: "#paris, #parisienne, #ombre, #blonde"
+    hashtags: "#fashionstyle, #beach, #beauty, #sunset"
+  - username: "mahlaghajaberi"
+    fullname: >-
+      MAHLAGHA ☽
+    bio: >-
+      📩 kendall@mahlaghamanagement.com
+    location: "France"
+    followers: 4477397
+    engagement: 161
+    commentsToLikes: 0.019341
+    id: ck55k7za1yp5v0i11v5735pkn
+    verified: true
+    hashtags: "#banyantreealula, #sanctuaryforthesenses, #visitalula, #alulamoments"
+  - username: "mohsenband"
+    fullname: >-
+      Mohamed Mohsen
+    bio: >-
+      Singer, Composer & Producer CEO @tripleonerecords 🇪🇬🌍
+    location: "France"
+    followers: 928094
+    engagement: 174
+    commentsToLikes: 0.009556
+    id: ck5qbb48qkpot0i116vqu3472
+    verified: true
+    hashtags: "#happyvalentinesday, #soon, #staytuned, #newpost"
   - username: "gjithqka_per_femrat"
     fullname: >-
       Gjithqka per Femrat 👗👄💅
@@ -31,6 +55,18 @@ profiles:
     id: ckapaqfybx2w20i7867qgj55r
     verified: false
     hashtags: ""
+  - username: "jannetandrade_"
+    fullname: >-
+      Jannet Andrade
+    bio: >-
+      
+    location: "France"
+    followers: 228319
+    engagement: 3
+    commentsToLikes: 0.001014
+    id: ckap4q4ci8d5o0i78ofw61mar
+    verified: false
+    hashtags: "#barbiedress, #sexy, #barbie, #longhair"
   - username: "mariegrippon"
     fullname: >-
       Marie Grippon
@@ -67,18 +103,18 @@ profiles:
     id: ck0w4swjh094w0i19sdydz6cz
     verified: false
     hashtags: "#christmasdecorating, #christmastrees, #diningroomdecor, #livingroomdecor"
-  - username: "wedding.pages"
+  - username: "domineckamarkova"
     fullname: >-
-      • Luxury Wedding Pages •
+      👑MISS SLOVAK REPUBLIC T. '15👑
     bio: >-
-      Glamorous weddings, dresses, decor, venues & more • 😍 Get Your Bridal @MissToMrsBox Subscription
+      DOMINIKA MARKOVÁ® O F F I C I A L Collaboration📨 direct Make-up Artist💄 Owner @makeupstar_beautysalon 💄
     location: "France"
-    followers: 1120981
-    engagement: 54
-    commentsToLikes: 0.007084
-    id: ck0ty2lbglcl90i19flacwyif
+    followers: 103988
+    engagement: 204
+    commentsToLikes: 0.006992
+    id: ck8t3ylkf4ynn0j78ht2n0c7l
     verified: false
-    hashtags: "#ringbling, #destinationwedding, #weddinginspiration, #bride"
+    hashtags: "#wakeupandkickassandrepeat, #beauty, #fun, #smile"
   - username: "charlene_rso"
     fullname: >-
       Charlène Russo
@@ -91,40 +127,4 @@ profiles:
     id: ck5hn8pbyneeu0i11wbed0d98
     verified: false
     hashtags: "#mode, #ootd, #fashionstyle, #amour"
-  - username: "_mademoiselle_charliie_"
-    fullname: >-
-      CHARLENE ❥ | Lifestyle
-    bio: >-
-      + French Girl 🇫🇷 + Black & White Outfit + 💌Charlie_fuster@hotmail.fr No Men ⛔️ ( sinon bloqué )
-    location: "France"
-    followers: 31614
-    engagement: 120
-    commentsToLikes: 0.033735
-    id: ck15qx2zs52dr0i19im7c0d15
-    verified: false
-    hashtags: "#frenchgirl, #love, #allblackstyle, #xoxo"
-  - username: "domineckamarkova"
-    fullname: >-
-      👑MISS SLOVAK REPUBLIC T. '15👑
-    bio: >-
-      DOMINIKA MARKOVÁ® O F F I C I A L Collaboration📨 direct Make-up Artist @makeupstar_beautysalon
-    location: "France"
-    followers: 121064
-    engagement: 306
-    commentsToLikes: 0.014021
-    id: ck8t3ylkf4ynn0j78ht2n0c7l
-    verified: false
-    hashtags: "#model, #instagram, #stylish, #follow"
-  - username: "zoelamariee"
-    fullname: >-
-      Zoé & Laurent
-    bio: >-
-      💍 Fiançailles le 17 mars 2018 💒 Mariage reporté à avril 2021 - Prépa de notre mariage, inspi, bons plans, astuces... Blog ⬇️
-    location: "France"
-    followers: 16038
-    engagement: 244
-    commentsToLikes: 0.016859
-    id: ck6ub1vb36zeg0j717thmx5rl
-    verified: false
-    hashtags: "#robe, #decorationmariage, #bridetobe2022, #weddingdress"
 ---

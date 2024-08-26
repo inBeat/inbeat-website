@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Poland In 2023
+title: Top 10 Dancers Instagram Influencers In Poland In 2024
 description: >-
-  Find top dancers Instagram influencers in Poland in 2023. Most popular hashtags: #polishgirl #smile #love #photoshoot.
+  Find top dancers Instagram influencers in Poland in 2024. Most popular hashtags: #love #fashion #dance.
 platform: Instagram
-hits: 115
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 115 Instagram influencers like this in Poland for you to connect with.
+hits: 133
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 133 Instagram influencers like this in Poland for you to connect with.
 profiles:
-  - username: "alexialeksandra"
+  - username: "rithikapoojary23"
     fullname: >-
-      🇦​🇱​🇪​🇽​🇮​🇦​🇱​🇪​🇰​🇸​🇦​🇳​🇩​🇷​🇦​
+      Rithika Poojary
     bio: >-
-      🤸‍♀️Mistrzyni Polski w Gimnastyce Artystycznej 👸Burlesque Queen 💃Teacher&dancer @alexiadancestudio Teledyski w linku BIO 🥰
+      Bachata Dancer | Teacher | Performer Member of @cornelrithika_official 📞+919819878415 📩CornelRithikaofficial@gmail.com
     location: "Poland"
-    followers: 18995
-    engagement: 533
-    commentsToLikes: 0.078452
-    id: ck5zkvtgpk95b0i141he515rw
+    followers: 214441
+    engagement: 532
+    commentsToLikes: 0.009035
+    id: ck15rhb867xil0i19wxw7s4wy
     verified: false
-    hashtags: "#gymislife, #warszawa, #sport, #sesjazdjeciowa"
-  - username: "aidualkylno"
+    hashtags: "#bachatasensual, #bachata, #conristyle, #trendingreels"
+  - username: "daniel.borzewski"
     fullname: >-
-      Klaudia Jóźwiak
+      DaNN
     bio: >-
-      🎤@mamtalent_tvn 12 💃Dancer/Choreographer 💪Fitness Instructor 💀Tattoo Artist 🍕Dietician 📩 aidualkylno@wp.pl
+      📩 daniel.borzewski@tenfajnymanagement.pl ✌🏼The Voice of Poland 14 ⭐️TikTok/500k + 🎤Singer, Dancer, choreographer 🤵🏼Mister Poland 2019
     location: "Poland"
-    followers: 16717
-    engagement: 958
-    commentsToLikes: 0.035935
-    id: ck8t6yr61f3xl0j78p4y19drf
+    followers: 43803
+    engagement: 398
+    commentsToLikes: 0.041402
+    id: ck15t937mgxkb0i19ncr68y32
     verified: false
-    hashtags: "#time, #positive, #girl, #nature"
-  - username: "majkel_kalcowski"
+    hashtags: "#singers, #sing, #singer, #hotelbeskid"
+  - username: "victoriawiecek"
     fullname: >-
-      MICHAL KALCOWSKI 🇵🇱
+      Victoria Wiecek
     bio: >-
-      ⭐️ Professional Dancer 🧠 Choreographer 📸 Photomodel 🕺🏻 You Can Dance 9 Poland @nexttomaszbaranski ⬇️ YouTube ⬇️
+      🇺🇸🇵🇱 📍Kraków/RZE/RJS Hii, model, acrobat, artist, dancer, social media manager and a lot more 🤫🦷 💌 wiecek.victoria@gmail.com
     location: "Poland"
-    followers: 65862
-    engagement: 629
-    commentsToLikes: 0.019972
-    id: ck5cd0cirib7o0i118v51uosy
+    followers: 10488
+    engagement: 1275
+    commentsToLikes: 0.010189
+    id: ck55pp9bpb2m80i11mguto7kl
     verified: false
-    hashtags: "#dancelife, #class, #photoshoot, #men"
-  - username: "gloria.nalborczyk"
+    hashtags: "#styleaddict, #stylediaries, #aesthetic, #girlbosslife"
+  - username: "natalia.klara.adamska"
     fullname: >-
-      Gloria Nalborczyk
+      𝗡𝗔𝗧𝗔𝗟𝗜𝗔 𝗞𝗟𝗔𝗥𝗔 𝗔𝗗𝗔𝗠𝗦𝗞𝗔
     bio: >-
-      ⭐️OFFICIAL ACCOUNT ⭐️ 🇵🇱Polish MODEL & DANCER📸 📩Collaboration: Dm 📧 paulina098n@interia.pl Account monitored by my mum Paulina
+      High Heels Dancer 🫶🏽 II VICEMISS BURSZTYNOWA POLSKI ‘18 ‘97 @wiskiiactive -15% z kodem “NKA”
     location: "Poland"
-    followers: 40765
-    engagement: 429
-    commentsToLikes: 0.036016
-    id: ck14hfdrha1p80i19dhknf0qr
+    followers: 11595
+    engagement: 710
+    commentsToLikes: 0.026539
+    id: ckf5odncu1u120j235mylbsnp
     verified: false
-    hashtags: "#photoshoot, #photosession, #perfect, #photooftheday"
-  - username: "w.mazurkiewicz_"
+    hashtags: "#polskiesylwetki, #idealofswedencode, #polishgirl, #poland"
+  - username: "alisatsitseronova"
     fullname: >-
-      𝒲𝒾𝓀𝓉𝑜𝓇𝒾𝒶 𝑀𝒶𝓏𝓊𝓇𝓀𝒾𝑒𝓌𝒾𝒸𝓏
+      Alisa Tsitseronova
     bio: >-
-      dancer 18🎀 ✉️wiktoriamazurkiewicz1@gmail.com/ DM @wi_ki_si_ki_ 🔒
+      Dancer, Choreographer | Vegan for the animals🌱 📍Tallinn, Estonia Booking&collabs: alisatsitseronova@gmail.com @vegaliciousfoods cooking account👩🏻‍🍳
     location: "Poland"
-    followers: 2770
-    engagement: 2924
-    commentsToLikes: 0.050318
-    id: ckf5l3ln0o8rk0j23qvsdixc9
+    followers: 122619
+    engagement: 337
+    commentsToLikes: 0.012918
+    id: ck0vvexfoou220i19st6jqnry
     verified: false
-    hashtags: "#sunnyday, #beutifulday, #sunday, #beautifulplace"
-  - username: "ciesielska_maya"
-    fullname: >-
-      Maja Ciesielska
-    bio: >-
-      ❣️tik tok: majaciesielska51 🎥Uczestnik #MaliGiganci 2 🎥#tvnpl 💃 #Dancer #HipHop Zapraszam na nowy film na YT❤️
-    location: "Poland"
-    followers: 11361
-    engagement: 852
-    commentsToLikes: 0.042287
-    id: ck8tc73layivd0j78ob8l0fuz
-    verified: false
-    hashtags: "#sheingals, #zima2021, #spacerowo, #sesja"
-  - username: "monia_pdh"
-    fullname: >-
-      
-    bio: >-
-      🐰Playmate Playboy Venezuela🐰 🦋 Commercial #model 💓 International dancer 💗 ❗️ @sklep.sfd : -10%kod:PDH
-    location: "Poland"
-    followers: 58560
-    engagement: 313
-    commentsToLikes: 0.080154
-    id: ck5zomw5sqwcy0i14r9r58lwb
-    verified: false
-    hashtags: "#fashionblogger, #photography, #fashion, #monia"
-  - username: "jadwiga_koc"
-    fullname: >-
-      Jadzia Koc
-    bio: >-
-      📌 Kraków mostly 🩰Ex ballet dancer, 🏂snowboard fan, 💄bodypaint and makeup artist -> @jadwigakoc_beauty_concept 💃🏻Modeling ->
-    location: "Poland"
-    followers: 30731
-    engagement: 416
-    commentsToLikes: 0.032389
-    id: ck5q75m5w03910i11vsrc1o00
-    verified: false
-    hashtags: "#brunettegirl, #black, #photomodel, #portraitvision"
-  - username: "juliazytko"
-    fullname: >-
-      Julia Zytko
-    bio: >-
-      🇵🇱->🇬🇧 dancer/choreographer/ SYTYCD 🌐 @mass.talent @skin_london @atmospherefaces 📩 julia.zytkoo@gmail.com
-    location: "Poland"
-    followers: 19176
-    engagement: 1127
-    commentsToLikes: 0.025195
-    id: ck0vuxdahmlex0i19h1b4lubp
-    verified: false
-    hashtags: "#blondegirl, #dancers, #fairplaydancecamp, #london"
+    hashtags: "#alisaandjoseph, #choreography, #alisatsitseronova, #jlo"
   - username: "magdalenaperlinska_"
     fullname: >-
       Magdalena Perlinska
     bio: >-
-      🎬All My Friends Are Dead worldwide Netflix Premiere 3rd Feb 🖥 Media Expert TV commercial 💪 International model, S class dancer @dancers_united_pl🕺💃
+      🎬”All My Friends Are Dead” movie on Netflix 🖥 Model 💁‍♀️📸 Acting @highspotagency 🎭 S class LA dancer🕺💃 @monsterenergy 👯‍♀️
     location: "Poland"
-    followers: 258585
-    engagement: 293
-    commentsToLikes: 0.019115
+    followers: 304075
+    engagement: 274
+    commentsToLikes: 0.015232
     id: ck13affxkq50j0i19xb9carv0
     verified: false
-    hashtags: "#celloolite, #bizuteriamarko, #itsavideo, #obsessivewithlove"
+    hashtags: "#ad, #newmovie, #zaproszenie, #siemreap"
+  - username: "dnielfekete"
+    fullname: >-
+      Daniel Fekete
+    bio: >-
+      dancer and choreographer in R3D ONE👆🏻 📩: feketedaniel95@gmail.com
+    location: "Poland"
+    followers: 111574
+    engagement: 269
+    commentsToLikes: 0.004325
+    id: ck15sxscvfcgd0i19zpchtp31
+    verified: false
+    hashtags: "#justinbieber, #r3done, #prettyricky, #timbaland"
+  - username: "agnieszkamrozinskaofficial_"
+    fullname: >-
+      Agnieszka Mrozinska
+    bio: >-
+      🔸YouTube - BUENAS NOCHES 🎶Aga Mrozińska 🔹Actress 🎭 🔹Film Producer 🎬 🔹Singer 🎶 🔹Dancer 💃🏻 🔹TikTok: agnieszkamrozinska 📌 🔹ag.mrozinska@gmail.com
+    location: "Poland"
+    followers: 92571
+    engagement: 238
+    commentsToLikes: 0.043218
+    id: ck5hded3cmz2a0i11rej9rsym
+    verified: false
+    hashtags: "#married, #together, #wedding, #love"
+  - username: "idavictoria"
+    fullname: >-
+      Ida Nowakowska Herndon
+    bio: >-
+      I D A | V I C T O R I A pro dancer / pro actor / tv host biggest passion - being a mom ♡ Ambasador Korpusu Solidarności & Caritas
+    location: "Poland"
+    followers: 384298
+    engagement: 158
+    commentsToLikes: 0.017955
+    id: ck0twygpshad50i19w88b3a7k
+    verified: false
+    hashtags: "#summer, #love, #inspiration, #tvhost"
+  - username: "graczi"
+    fullname: >-
+      PAULINA 👉🏽 LIFESTYLE | OUTFITS | SELFCARE
+    bio: >-
+      Dancer in @cheerleaders.torun ✨ 💌 Contact 🔛dm or email graaczi@gmail.com
+    location: "Poland"
+    followers: 19550
+    engagement: 139
+    commentsToLikes: 0.030151
+    id: ck0vwloqtuez70i1942boeyu4
+    verified: false
+    hashtags: "#streetwear, #chillout, #techwear, #torun"
 ---

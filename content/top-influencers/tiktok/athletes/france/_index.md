@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In France In 2023
+title: Top 10 Athletes TikTok Influencers In France In 2024
 description: >-
-  Find top athletes TikTok influencers in France in 2023. Most popular hashtags: #fyp #pourtoi #foryou #sport.
+  Find top athletes TikTok influencers in France in 2024. Most popular hashtags: #fyp #pourtoi #foryou #sport.
 platform: TikTok
 hits: 17
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our database has 17 TikTok influencers like this in France for you to collaborate.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform has 17 TikTok influencers like this in France for you to collaborate.
 profiles:
   - username: "matteoschalk"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.005559
     id: ck9ng9lcaf2lb0j78qcmc51l0
     verified: true
-    hashtags: "#freestyle20sec, #crush, #date, #funny"
+    hashtags: "#skate, #crush, #funny, #dearmooncrew"
   - username: "ibra_acro_boy"
     fullname: >-
       Ibra Acro Boy
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.016542
     id: ck910siwyj01z0j78dietopb2
     verified: false
-    hashtags: "#gymnastique, #mrkangourou, #blackpanther, #tiktok"
+    hashtags: "#tiktok, #mrkangourou, #blackpanther, #gymnastique"
   - username: "rhiannan_iffland"
     fullname: >-
       Rhiannan Iffland

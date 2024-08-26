@@ -1,12 +1,24 @@
 ---
-title: Top 10 Painters Instagram Influencers In Portugal In 2023
+title: Top 10 Painters Instagram Influencers In Portugal In 2024
 description: >-
-  Find top painters Instagram influencers in Portugal in 2023. Most popular hashtags: #ootd #instagood #portugal #photooftheday.
+  Find top painters Instagram influencers in Portugal in 2024. Most popular hashtags: #ootd #art #pinterest.
 platform: Instagram
-hits: 11
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 11 Instagram influencers like this in Portugal for you to pitch.
+hits: 16
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 16 Instagram influencers like this in Portugal for you to contact.
 profiles:
+  - username: "alirezakarimimoghadam"
+    fullname: >-
+      Alireza Karimi Moghaddam
+    bio: >-
+      Visual artist Original painting @alirezakarimimoghadam2
+    location: "Portugal"
+    followers: 251887
+    engagement: 784
+    commentsToLikes: 0.011435
+    id: ck8t62f06c00b0j7805070h0l
+    verified: false
+    hashtags: "#vangoghmasterpiece, #vangoghmagic, #traditionalillustration, #vangoghalive"
   - username: "iamgusromano"
     fullname: >-
       Gus Romano Watercolor Art
@@ -43,6 +55,30 @@ profiles:
     id: ck5qaxe7gir0i0i11smi4o8an
     verified: false
     hashtags: "#fridakahlo, #antoniovariacoes, #frida, #starwars"
+  - username: "juliabarminova"
+    fullname: >-
+      Júlia Barminova ⚓️ WATERCOLOUR & SAILING
+    bio: >-
+      🗺️ Visited and painted 145 ports around the globe. More to come! ⛵️ Want to learn how to paint the Sea? Check out the link below! 🔻WORKSHOPS🔻
+    location: "Portugal"
+    followers: 297579
+    engagement: 326
+    commentsToLikes: 0.017303
+    id: ck0vw3yjarzti0i19pg48kle3
+    verified: false
+    hashtags: "#art, #yaht, #oceantravel, #sailing"
+  - username: "brunaroqueneves"
+    fullname: >-
+      BU
+    bio: >-
+      • tt: brunaroqueneves (+570K ) • PR, Digital & Brand: @thisisluvin • team BRK
+    location: "Portugal"
+    followers: 57070
+    engagement: 1089
+    commentsToLikes: 0.008994
+    id: ck8wd11tld9mj0j78cj959scb
+    verified: false
+    hashtags: "#ilove, #live, #beachlife, #pinterest"
   - username: "marianarferreiraa"
     fullname: >-
       Mariana Ferreira
@@ -55,76 +91,40 @@ profiles:
     id: ckaowj3yl95j30i78zqtojuwl
     verified: false
     hashtags: "#look, #outfitoftheday, #inspiration, #ootd"
-  - username: "saracardosoooo_"
+  - username: "marianabaptistaa_"
     fullname: >-
-      SARITA 🦋
+      Mariana Baptista | Creative
     bio: >-
-      ✨Fashion | MakeUp | Lifestyle 📍St. Moritz & Portugal 🇨🇭🇵🇹
+      ⋒ Creative content creator ≀ fashion & makeup lover ⋆ ☺︎︎ Lisbon, Portugal ✎ marydeedslife@gmail.com
     location: "Portugal"
-    followers: 35173
-    engagement: 300
-    commentsToLikes: 0.051695
-    id: ck8t62kzpc0no0j78wjxx9y5e
+    followers: 11101
+    engagement: 421
+    commentsToLikes: 0.305960
+    id: ck5c38bn8ys9y0i11apm4fvxf
     verified: false
-    hashtags: "#fitnessgirl, #fashion, #success, #bloggerlife"
-  - username: "beatrizlpmaia_"
+    hashtags: "#photoediting, #photoedit, #casualmentesentada, #creative"
+  - username: "assuncaovsoares"
     fullname: >-
-      Beatriz Maia
+      Assunção Viegas Soares
     bio: >-
-      Porto, PT
+      & nutrition student, from Lisbon 🍒 assuncaovzgarin@gmail.com
     location: "Portugal"
-    followers: 12945
-    engagement: 2968
-    commentsToLikes: 0.007932
-    id: ck8td5oyc1znw0j78mmxhro23
+    followers: 13487
+    engagement: 302
+    commentsToLikes: 0.042398
+    id: ckap41wgg5hew0i78qc7qmqik
     verified: false
-    hashtags: "#face, #beauty, #summervibes, #jeans"
-  - username: "aluisalopes"
+    hashtags: "#ootd, #streetstyle, #styleinspo, #pinterestaesthetic"
+  - username: "itsmartabeaute"
     fullname: >-
-      ＬＵÍＳΛ   ＬＯＰΞＳ
+      Marta
     bio: >-
-      Trust me I have no idea what I’m doing too ♡ FASHION || COLLEGE || LIFESTYLE 📍Based in Porto, PT 📩 luisamlopes23@gmail.com
+      💋rarely seen without a red lip (macro lips) portugal | aesthetics - makeup - skincare - fragrances
     location: "Portugal"
-    followers: 18509
-    engagement: 304
-    commentsToLikes: 0.015890
-    id: ck9hbax8tg2qo0j78we79olaj
+    followers: 10604
+    engagement: 153
+    commentsToLikes: 0.086166
+    id: cl3w8yokhcaoj0i23968j7rm9
     verified: false
-    hashtags: "#zaraoutfit, #outfitoftheday, #ootdshare, #lookdodiabrasil"
-  - username: "tarlajb"
-    fullname: >-
-      Tarla Barbosa 🌙
-    bio: >-
-      Fashion,Interior design and more. Lisbon, Portugal with @centralmodels PR & Digital: susana@centralmodels.pt
-    location: "Portugal"
-    followers: 26960
-    engagement: 73
-    commentsToLikes: 0.029684
-    id: ck55j31a2w5710i11jw6lnuzb
-    verified: false
-    hashtags: "#loveyourselffirst, #ootd, #camelcoatoutfit, #tezenis"
-  - username: "chroniclesofmariana"
-    fullname: >-
-      Mariana Nunes, 19 ✨
-    bio: >-
-      📔opiniões literárias / lançamentos 📃 portugal / algarve ✨ FCHS Ualg - Ψ 👩‍🎓 ✉️ marianaguerreironunes@sapo.pt
-    location: "Portugal"
-    followers: 6458
-    engagement: 1790
-    commentsToLikes: 0.085609
-    id: ck9wfbcm8o3ea0j78sl1qa1tg
-    verified: false
-    hashtags: "#booklove, #bookreview, #toberead, #newtobookstagram"
-  - username: "alicefcnunes"
-    fullname: >-
-      Alice Nunes ✨
-    bio: >-
-      💄Fashion Enthusiast from Porto 🎓 Social Education Student ✉️ Brands: alicenunes_123@hotmail.com
-    location: "Portugal"
-    followers: 7231
-    engagement: 604
-    commentsToLikes: 0.081193
-    id: ck9hc85qyk6z00j78p5eawpc1
-    verified: false
-    hashtags: "#portuguesegirl, #porto, #portugal, #igers"
+    hashtags: "#luxurymakeup, #beigefeed, #beautyfaves, #lipstickcollection"
 ---

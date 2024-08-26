@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Argentina In 2023
+title: Top 10 Lingerie Instagram Influencers In Argentina In 2024
 description: >-
-  Find top lingerie Instagram influencers in Argentina in 2023. Most popular hashtags: #lingerie #model #love #lenceria.
+  Find top lingerie Instagram influencers in Argentina in 2024. Most popular hashtags: #lingerie #lifestyle #model.
 platform: Instagram
-hits: 57
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 57 Instagram influencers like this in Argentina for you to work with.
+hits: 60
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 60 Instagram influencers like this in Argentina for you to work with.
 profiles:
   - username: "martusarki"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck15spjyie6h40i19jd5g38ml
     verified: false
     hashtags: "#adoptanocompres, #rifasolidaria, #razacallejera, #mascotas"
+  - username: "vanedesade"
+    fullname: >-
+      Vane de Sade
+    bio: >-
+      💀 #modeloalternativa 💚🏳️‍🌈#bodypositive 🤘🏻Promotora en @icarusmusic 🇵🇾 viviendo en 🇦🇷 💋DM para Shootings/Canje
+    location: "Argentina"
+    followers: 21204
+    engagement: 166
+    commentsToLikes: 0.069322
+    id: ck6uhireg9cwq0j716gzkgxmf
+    verified: false
+    hashtags: "#altmodel, #inkedgirls, #alternativegirl, #arnes"
   - username: "_snakeater_"
     fullname: >-
       Mrs. Raindrops
@@ -91,40 +103,28 @@ profiles:
     id: ckaossmr9swrg0i78ztqwd0yx
     verified: false
     hashtags: "#lingerieonline, #caracas, #lingerie, #tiendavirtual"
-  - username: "pau.armstrong"
+  - username: "pililoria"
     fullname: >-
-      Pau Armstrong - Calalini
+      Pili
     bio: >-
-      #GirlBoss at @mf.bondstreet Check my music💔 Backup @lil.shypau 23 #tvhost #tarotist #tattoo #artist #piercer pau.ladymaiden@gmail.com
+      -Buenos Aires-
     location: "Argentina"
-    followers: 41216
-    engagement: 693
-    commentsToLikes: 0.014648
-    id: ck5qbqxydmz000i11fl1khwv5
+    followers: 10296
+    engagement: 334
+    commentsToLikes: 0.036875
+    id: ck14hd5qy9q4t0i19r2xjeexm
     verified: false
-    hashtags: "#manga, #cute, #inked, #anime"
-  - username: "andreacresppo"
+    hashtags: "#pimientaintimates, #argentina, #lorealprofessionnel, #certifiedunbreakable"
+  - username: "katymenocal"
     fullname: >-
-      Andrea Crespo
+      Katy Menocal
     bio: >-
-      • Lifestyle | Model • • Cantabria • • Hazte ser lo que quieres •
+      Beauty & make up blogger/vlogger💄💋 Me gustan los años viejos ❤️ Tiktok +500K 🫰🏻 Mexicanita 🌵 Katymenocal@outlook.com
     location: "Argentina"
-    followers: 5034
-    engagement: 1799
-    commentsToLikes: 0.069384
-    id: ck8t7ackvg3sb0j7871d7e7mk
+    followers: 87179
+    engagement: 144
+    commentsToLikes: 0.019169
+    id: ck15radam6y5i0i19amxvv4k3
     verified: false
-    hashtags: "#photoshoot, #photoshootideas, #posesforpictures, #casualphotography"
-  - username: "intrusosok"
-    fullname: >-
-      Intrusos
-    bio: >-
-      Todo lo vinculado con el espectáculo Cuenta no vincualada con el programa de televisión
-    location: "Argentina"
-    followers: 77053
-    engagement: 97
-    commentsToLikes: 0.073288
-    id: ck15smamidqbw0i19c43zb5ae
-    verified: false
-    hashtags: "#familia, #amor, #foto, #picture"
+    hashtags: "#vintage, #pinupstyle, #pinupmexicana, #lifestyle"
 ---

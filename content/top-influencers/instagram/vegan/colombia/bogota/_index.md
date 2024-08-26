@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Bogotá In 2023
+title: Top 10 Vegan Instagram Influencers In Bogotá In 2024
 description: >-
-  Find top vegan Instagram influencers in Bogotá in 2023. Most popular hashtags: #bogota #vegan #recetas #saludable.
+  Find top vegan Instagram influencers in Bogotá in 2024. Most popular hashtags: #vegan #healthyfood #fitness #bogota.
 platform: Instagram
 hits: 5
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 5 Instagram influencers like this in Bogotá, Colombia for you to collaborate.
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 5 Instagram influencers like this in Bogotá, Colombia for you to work with.
 profiles:
   - username: "calicolfit"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck5zufszw2a0r0i14z8wpyi8c
     verified: false
     hashtags: "#home, #workout, #cale, #legs"
+  - username: "alebananaa"
+    fullname: >-
+      𝑴𝒂𝒓𝒊𝒂 𝑨𝒍𝒆𝒋𝒂𝒏𝒅𝒓𝒂 𝑴𝒂𝒄𝒊𝒂𝒔 𝑴𝒐𝒓𝒂
+    bio: >-
+      2.5 M en YouTube 8.2 M en TikTok 📍Bogotá
+    location: "Colombia"
+    followers: 443901
+    engagement: 308
+    commentsToLikes: 0.004637
+    id: cl3cuhiov4y910i23ogh3jhu1
+    verified: false
+    hashtags: "#vegano, #cook, #coachellaonyoutube, #medium"
   - username: "vlasna"
     fullname: >-
       ↟↟↟ Natasha Vlasenco ↟↟↟
@@ -31,18 +43,6 @@ profiles:
     id: ck14ldllou5580i19x0wv2d5l
     verified: false
     hashtags: "#autumn, #heresmyfood, #onmytable, #stilllife"
-  - username: "camineyvamonos"
-    fullname: >-
-      Jeniffer Navarro | 🍴✈️👱🏻‍♀️
-    bio: >-
-      Gastronomía | Turismo | Y algo más ✨ Revisa nuestras HISTORIAS DESTACADAS 🙊 👩🏼‍🤝‍👨🏽 @jeniffernav 👩🏼‍🤝‍👨🏽 @sergioa_gn Contacto,YouTube y Facebook⬇️
-    location: "Colombia"
-    followers: 121453
-    engagement: 312
-    commentsToLikes: 0.177546
-    id: ck6u6szdmhjkh0j719jkstyce
-    verified: false
-    hashtags: "#recipes, #recetasaludable, #bga, #snack"
   - username: "davidorozcococina"
     fullname: >-
       Chef David Orozco
@@ -67,6 +67,18 @@ profiles:
     id: ck8t01ne6qj2w0j780tkp5wfu
     verified: false
     hashtags: "#vegetarian, #breakfast, #familia, #foodlover"
+  - username: "ally_viamalama"
+    fullname: >-
+      Ally | Sostenibilidad
+    bio: >-
+      Sostenibilidad para el día a día ♻️ Hablo sobre moda sostenible y comparto tips útiles ✍🏻 Vegana y neurospicy✨
+    location: "Colombia"
+    followers: 229394
+    engagement: 535
+    commentsToLikes: 0.027636
+    id: ck14hokgsbcdv0i19e56vvn5u
+    verified: false
+    hashtags: "#sustentabilidad, #sostenibilidad, #veganosespa, #veganhumor"
   - username: "marlennedm"
     fullname: >-
       Marlennedm
@@ -103,28 +115,16 @@ profiles:
     id: ck9wdeegaf9o70j7868eiqiyl
     verified: false
     hashtags: "#rawmesanys, #veganoyvegetariano, #comidavegana, #merengueys"
-  - username: "camilajuradop"
+  - username: "terryhurtado"
     fullname: >-
-      Camila Jurado | Actriz
+      Terry Hurtado
     bio: >-
-      • Colombian Actress 🎬 • Vegana 🌱 • Amor Propio y Salud Mental 🤍 . 🇨🇴 @armonikatalento 🇲🇽 @armonikamx . Contacto por DM
+      Concejal de Cali 🌻Verde🌎💚 Ambientalista, activista por la liberación animal y luchador social. Ciencia y arte. Ciclista y vegan. 🐥🐴🐱
     location: "Colombia"
-    followers: 313789
-    engagement: 425
-    commentsToLikes: 0.007430
-    id: ck13caez6zdy40i19bmb6zoa1
+    followers: 7422
+    engagement: 164
+    commentsToLikes: 0.052520
+    id: ck5hrs2h8vdsk0i11d26rgplu
     verified: false
-    hashtags: "#publicidad, #paquererte, #fauno, #tb"
-  - username: "lavozdegoyo"
-    fullname: >-
-      LA VOZ DE GOYO
-    bio: >-
-      GOYO POR SIEMPRE 🔴VEGANO PARA SIEMPRE🌱🌱🌱 🐷🐂🐶 POR ELLOS TODO 🌟 SANTUARIO PARA ANIMALES🐴 Cuenta única de donaciones: ahorros bancolombia 91212872330
-    location: "Colombia"
-    followers: 5885
-    engagement: 531
-    commentsToLikes: 0.053763
-    id: ck5hp09zlqjad0i11g17c4t9j
-    verified: false
-    hashtags: "#lalechemata"
+    hashtags: "#movimientoanimalistavalle, #encasaconterryalplandedesarrollo, #solidaridadinterespecie, #caliinterespecie"
 ---

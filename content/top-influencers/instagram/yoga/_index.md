@@ -1,12 +1,36 @@
 ---
-title: Top 10 Yoga Instagram Influencers In 2023
+title: Top 10 Yoga Instagram Influencers In 2024
 description: >-
-  Find top yoga Instagram influencers in 2023. Most popular hashtags: #yogapractice #yoga #yogachallenge #yogainspiration.
+  Find top yoga Instagram influencers in 2024. Most popular hashtags: #yoga #yogapractice #yogateacher #yogainspiration.
 platform: Instagram
-hits: 7818
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 7818 Instagram influencers like this for you to connect with.
+hits: 8560
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 8560 Instagram influencers like this for you to pitch.
 profiles:
+  - username: "flou_yoga"
+    fullname: >-
+      🅕🅐🅣🅘🅜🅐 | Yoga
+    bio: >-
+      Yogi 😷Dentist Just for yoga, fun, laughs and a good time. And cats 🐱 ✨@aloyoga advocate 🐚Spain
+    location: "Spain"
+    followers: 58621
+    engagement: 79
+    commentsToLikes: 0.109498
+    id: ck13bfe32v5w20i19pkdhwrqv
+    verified: false
+    hashtags: "#yogatime, #yogini, #aloboutlongevity, #aloboutstartingstrong"
+  - username: "yoga"
+    fullname: >-
+      Yoga
+    bio: >-
+      #1 Global #Yoga Community 🙏 Tag @Yoga for a chance to be featured. Photos and videos belong to their owners
+    location: "United States"
+    followers: 2203968
+    engagement: 60
+    commentsToLikes: 0.007524
+    id: ck0tvu6omcsz20i19guq45v3p
+    verified: true
+    hashtags: ""
   - username: "pigeatsfish"
     fullname: >-
       
@@ -19,30 +43,6 @@ profiles:
     id: ckaorrgr0of140i78ccytx5s4
     verified: false
     hashtags: "#alofourdirections, #fleximarchintospring, #alocarefortheocean, #alowomenscircle"
-  - username: "flou_yoga"
-    fullname: >-
-      🅕🅐🅣🅘🅜🅐 | Yoga
-    bio: >-
-      𝘠𝘰𝘨𝘢 | 𝘓𝘪𝘷𝘪𝘯𝘨 𝘪𝘯 𝘵𝘩𝘦 𝘱𝘳𝘦𝘴𝘦𝘯𝘵 𝘮𝘰𝘮𝘦𝘯𝘵 🧘🏼‍♀️Yogi and 😷Dentist 💙Sharing my yoga journey and happy thoughts to hopefully inspire someone 🐚Galicia, Spain
-    location: "United States"
-    followers: 51255
-    engagement: 101
-    commentsToLikes: 0.188806
-    id: ck13bfe32v5w20i19pkdhwrqv
-    verified: false
-    hashtags: "#sportygirl, #yogafitness, #yogainspiration, #yogareel"
-  - username: "yoga"
-    fullname: >-
-      Yoga
-    bio: >-
-      #1 Global #Yoga Community 🙏 Sign up at link in bio and Tag @Yoga for a chance to be featured. Photos and videos belong to their owners
-    location: "United States"
-    followers: 1677842
-    engagement: 115
-    commentsToLikes: 0.019284
-    id: ck0tvu6omcsz20i19guq45v3p
-    verified: true
-    hashtags: "#yogapractice, #yogaposes, #yogaeverydamnday, #yogainspiration"
   - username: "best.yoga"
     fullname: >-
       YOGA
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.011024
     id: ck0u88i936ql80i19hmna0zb9
     verified: false
-    hashtags: "#yogapractice, #yogachallenge, #yogatutorial, #splits"
+    hashtags: "#yogatutorial, #yogapractice, #yoga, #splits"
   - username: "yogaahmadsyarif"
     fullname: >-
       Yoga
@@ -67,64 +67,64 @@ profiles:
     id: ckap4znmb9j1v0i785ol0dg1t
     verified: false
     hashtags: "#stopmotion, #lyricalstopmotion, #sarangeditorid, #jvgart"
-  - username: "dylanwerneryoga"
+  - username: "nomastayinkc"
     fullname: >-
-      Dylan Werner
+      Amanda | KC Blogger
     bio: >-
-      Yoga Teacher Living in Bali 🇮🇩 My book “The Illuminated Breath” is available on Amazon and Kindle!
-    location: "Indonesia"
-    followers: 813817
-    engagement: 298
-    commentsToLikes: 0.016796
-    id: ck5pyvzy3y2ig0i11xgtmxjmz
-    verified: true
-    hashtags: "#handstand, #backbend, #yoga, #expo2020"
-  - username: "graceru_x"
-    fullname: >-
-      G R A C E 🌸
-    bio: >-
-      Sunsets & selfies 🦋✨ Gym & yoga 🧘‍♀️💫 Northerner living down south 🇬🇧✌🏻
-    location: "United Kingdom"
-    followers: 99214
-    engagement: 270
-    commentsToLikes: 0.056818
-    id: ckaovj44k4rvm0i78zczj4qi8
-    verified: false
-    hashtags: "#ootd, #instagram, #instadaily, #happy"
-  - username: "anina.gepp"
-    fullname: >-
-      Anina 🦋
-    bio: >-
-      ☼ gesund, bewusst & im Moment leben ☼ sharing my passion for yoga, poems & food ☼ yoga teacher & author📍Tenerife ☼ Januar-Retreat - jetzt anmelden ⇣
-    location: "Switzerland"
-    followers: 98250
-    engagement: 249
-    commentsToLikes: 0.034483
-    id: ck0vyo0mf4y1v0i19m1bn9fbo
-    verified: false
-    hashtags: "#gl, #selbstf, #bewusstleben, #gutertag"
-  - username: "simply__radishing"
-    fullname: >-
-      caroline 💫🌿
-    bio: >-
-      health | fitness | travel | lifestyle ☀️ Miami yoga teacher, trainer & law student
+      Yoga teacher 🧘‍♀️| Lover of food & drink 🥂| 🐶 Mom | Deal finder & sharer 🤌 | Kindness always 🙌 | Balanced living 🍪🥗🍷| @lululemon Ambassador 🫶
     location: "United States"
-    followers: 14099
-    engagement: 231
-    commentsToLikes: 0.125041
-    id: ckmw1chbq6awp0j23mf1tl2w3
+    followers: 34311
+    engagement: 1989
+    commentsToLikes: 0.199792
+    id: ck5c36n4typ390i11aaijrjdd
     verified: false
-    hashtags: "#coldest, #ad, #giveaway, #sponsored"
-  - username: "yogawithbrittney"
+    hashtags: "#yogainspiration, #momanddad, #gifted, #firsttimeparents"
+  - username: "kundaliniyoginiprasiddha"
     fullname: >-
-      Brittney | Movement & Wellness
+      Prasiddha (JD) 🌿Dharmic Healer & AYP
     bio: >-
-      Lots of yoga and handstands 🤸🏼‍♀️ Wellness tips 🥰 YOU CAN HEAL My yoga program ➡️ #strongandflexi 🧘‍♀️
+      I teach students of eastern spirituality the mental & spiritual healing sciences within Yoga, Ayurveda & Tantra.🕉🐍 Sharing dharma in devotion🤍
     location: "United States"
-    followers: 10140
-    engagement: 193
-    commentsToLikes: 0.172954
-    id: ckrzelrpul3ts0j23r6xodqmc
+    followers: 127018
+    engagement: 1357
+    commentsToLikes: 0.065213
+    id: ck9ha2pmsaw7d0j783nn2j00v
     verified: false
-    hashtags: "#chronicwellness, #tsw, #wolvenatheart, #moldillness"
+    hashtags: "#spiritualjourney, #tantra, #yoga, #energyhealing"
+  - username: "bay_jitsu"
+    fullname: >-
+      Michael Baidoo
+    bio: >-
+      Began Jiu Jitsu 2018. Began Ashtanga Yoga 2020. Memes made to bring fun in yoga. Tech Manager for Reformation. Tap Link below for more information ↙️
+    location: "United States"
+    followers: 17831
+    engagement: 691
+    commentsToLikes: 0.112026
+    id: ckmw1iu948jwk0j23xnyx7yty
+    verified: false
+    hashtags: "#ashtangalove, #ashtangayoga, #ashtangalovers, #bjj"
+  - username: "shikhasingh1303"
+    fullname: >-
+      Shikha
+    bio: >-
+      FASHION • MINDSET • LIFESTYLE 🌱 🇮🇳 🇺🇸 HOME PROJECTS ⛏🛠 📧 shikhasingh.biz@gmail.com Engineer 👩‍💻Yoga Teacher🧘‍♀️ Avid Dreamer
+    location: "United States"
+    followers: 31146
+    engagement: 1387
+    commentsToLikes: 0.200229
+    id: cksih9kawbx3o0j23325wieww
+    verified: false
+    hashtags: "#cutepuppiesofinstagram, #atlinfluencers, #desibloggers, #atlbloggers"
+  - username: "yogimagee"
+    fullname: >-
+      Natalie Magee
+    bio: >-
+      Western slope dweller Curator of adventure yoga retreats 14er hiker who wrote a children’s book & loves Stevie Nicks @yogimagee.com @stio affiliate
+    location: "United States"
+    followers: 14768
+    engagement: 2306
+    commentsToLikes: 0.083857
+    id: ckpf4p82t0nwn0j23ptyaoju0
+    verified: false
+    hashtags: "#adventureretreat, #yogimageeadventures, #yogaretreats, #yogimagee"
 ---

@@ -1,12 +1,36 @@
 ---
-title: Top 10 Models TikTok Influencers In Miami In 2023
+title: Top 10 Models TikTok Influencers In Miami In 2024
 description: >-
-  Find top models TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #model #foryou #miami.
+  Find top models TikTok influencers in Miami in 2024. Most popular hashtags: #fyp #foryou #viral #model.
 platform: TikTok
-hits: 87
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our database holds 87 TikTok influencers like this in Miami, United States for you to contact.
+hits: 89
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 89 TikTok influencers like this in Miami, United States for you to contact.
 profiles:
+  - username: "gizele_.tavares"
+    fullname: >-
+      Gizele Tavares
+    bio: >-
+      Author with 9 published books , actress and model follow my Ig @gizele_.tavares
+    location: "United States"
+    followers: 41000
+    engagement: 750
+    commentsToLikes: 0.053477
+    id: ck8hnfg0lqpmu0j78gurl6zxv
+    verified: false
+    hashtags: "#viral, #monet, #foryou, #paint"
+  - username: "giulianocorazzina23"
+    fullname: >-
+      Giuliano Corazzina
+    bio: >-
+      Venmo-Giuliano-Corazzina
+    location: "United States"
+    followers: 180800
+    engagement: 1014
+    commentsToLikes: 0.016470
+    id: ck8qf49i4v9ss0j78w8dm90g9
+    verified: false
+    hashtags: "#foryoupage, #yesdaychallenge, #fyp, #foryou"
   - username: "choleemo"
     fullname: >-
       cholee
@@ -31,30 +55,6 @@ profiles:
     id: ckacfmx5drkh30i78fojq0a4x
     verified: false
     hashtags: "#paratii, #fyp, #music, #foryou"
-  - username: "sheafilling"
-    fullname: >-
-      Shea Filling
-    bio: >-
-      Motivation. Beauty. Fashion. ⬇️ IG: @sheafilling
-    location: "United States"
-    followers: 21200
-    engagement: 862
-    commentsToLikes: 0.021167
-    id: ckcuh2019fgki0j236nkoz8q2
-    verified: false
-    hashtags: "#love, #happiness, #blonde, #fashion"
-  - username: "olgaferrara_ny"
-    fullname: >-
-      Olga Ferrara
-    bio: >-
-      NYC fashion influencer/stylist @olgaferrara_ny #1 from Top 20 influencers 2020
-    location: "United States"
-    followers: 10200
-    engagement: 773
-    commentsToLikes: 0.066677
-    id: ckb9my5cdge2o0j23czireqt8
-    verified: false
-    hashtags: "#nycstylist, #summer2020, #morph, #fashion"
   - username: "paola_viiscarra"
     fullname: >-
       paola_viiscarra
@@ -91,6 +91,18 @@ profiles:
     id: ckc30fkwrr53b0j23awspzjlx
     verified: false
     hashtags: "#distancedance, #ishitmyself, #fyp, #kettlebell"
+  - username: "devonchristenson"
+    fullname: >-
+      Devon Christenson
+    bio: >-
+      Insta @devonchristenson ✨✨✨✨✨✨✨✨
+    location: "United States"
+    followers: 39500
+    engagement: 866
+    commentsToLikes: 0.012019
+    id: ck80nrfv9e6830j781a03n6gn
+    verified: false
+    hashtags: "#trending, #fyp, #2021, #happyhalloween"
   - username: "thecamrodriguez"
     fullname: >-
       TheCamRodriguez
@@ -115,16 +127,4 @@ profiles:
     id: ck9dz5xcf05o70j78kjgpmjh8
     verified: false
     hashtags: "#singlelife, #fyp, #dogsoftiktok, #aftermycoffee"
-  - username: "fitwithceli"
-    fullname: >-
-      Araceli Velazquez
-    bio: >-
-      FREELANCE MODEL CEO @shapeShifterofficial Miami 🏝
-    location: "United States"
-    followers: 151300
-    engagement: 1029
-    commentsToLikes: 0.024251
-    id: ck8hq47tt2cby0j7834s5slt6
-    verified: false
-    hashtags: "#miami, #foryou, #christmas, #fyp"
 ---

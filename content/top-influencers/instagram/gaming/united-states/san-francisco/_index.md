@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming Instagram Influencers In San Francisco In 2023
+title: Top 10 Gaming Instagram Influencers In San Francisco In 2024
 description: >-
-  Find top gaming Instagram influencers in San Francisco in 2023. Most popular hashtags: #gaming #gamer #videogames #sanfrancisco.
+  Find top gaming Instagram influencers in San Francisco in 2024. Most popular hashtags: #gaming #sanfrancisco #videogames #gamer.
 platform: Instagram
-hits: 7
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 7 Instagram influencers like this in San Francisco, United States for you to contact.
+hits: 9
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 9 Instagram influencers like this in San Francisco, United States for you to collaborate.
 profiles:
   - username: "droopiter"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck5c6msnp5rih0i11yfhv62zr
     verified: true
     hashtags: "#callofduty, #choose, #sickwiditrecords, #sanjose"
+  - username: "im_ericwang"
+    fullname: >-
+      Eric Wang
+    bio: >-
+      Sharing pieces of me, my life, and my home 🫶🏼 📍: San Francisco 📧: teameric@nextmanagement.com
+    location: "United States"
+    followers: 600637
+    engagement: 1073
+    commentsToLikes: 0.004132
+    id: clqcmzrhjd0tg0k08guabdt9n
+    verified: false
+    hashtags: "#homedecor, #interiordesign, #interiorinspo, #livingroom"
   - username: "sfshock"
     fullname: >-
       San Francisco Shock
@@ -30,7 +42,31 @@ profiles:
     commentsToLikes: 0.010679
     id: ck139907lk4a60i1932cr7fjn
     verified: true
-    hashtags: "#shockvsworld, #twitch, #supertf, #overwatchesports"
+    hashtags: "#twitch, #gamer, #gaming, #esports"
+  - username: "shazzy"
+    fullname: >-
+      Shahzeb Hyder
+    bio: >-
+      📍- ɴʏᴄ ރ 📸 📝🏀 #TeamPixel @googlepixel_us Ambassador Weddings @hyderinoorweddings 🤵🏽‍♂️👰🏽‍♀️💍 Founder: @nyctones 🏘
+    location: "United States"
+    followers: 10222
+    engagement: 230
+    commentsToLikes: 0.053711
+    id: ck5pzupqb2uak0i11sz8eernc
+    verified: false
+    hashtags: "#baybridge, #norcal, #bayarea, #igerssf"
+  - username: "unsealedgames"
+    fullname: >-
+      Unsealed Games
+    bio: >-
+      • Video Games and more! 🎮 🏎 🕺🏻 • Founder/CEO/Cook/Cashier @breadandbreakfastla 🌯
+    location: "United States"
+    followers: 1990
+    engagement: 1687
+    commentsToLikes: 0.402730
+    id: ck8t6ugb4eq9e0j78s1khybtd
+    verified: false
+    hashtags: "#finalfantasyremake, #gamingdancer, #thedancinggamer, #ff7remake"
   - username: "real_dave_brown"
     fullname: >-
       
@@ -42,19 +78,7 @@ profiles:
     commentsToLikes: 0.125320
     id: ck5znxbx7pbsu0i14b47izg80
     verified: false
-    hashtags: "#retrogaming, #game, #videogames, #collection"
-  - username: "unsealedgames"
-    fullname: >-
-      The Dancing Gamer
-    bio: >-
-      • #Art 😎 • #Sega 🖤 • #Xbox 💚 • #Nintendo ❤ • #Playstation 💙 • #TheDancingGamer 🕺🏻 • #ToLiveandGameinLA 🎮 • @breadandbreakfastla 🍞🍳
-    location: "United States"
-    followers: 2141
-    engagement: 1549
-    commentsToLikes: 0.378365
-    id: ck8t6ugb4eq9e0j78s1khybtd
-    verified: false
-    hashtags: "#dancinwithretros, #retropopthursday, #dancingwithgames, #maildancer"
+    hashtags: "#gamerguy, #playstation4, #gamer, #retrogaming"
   - username: "watt.designs"
     fullname: >-
       Matt Smith
@@ -103,28 +127,4 @@ profiles:
     id: ckap8424gmqnb0i78t8oje54g
     verified: false
     hashtags: "#gaming"
-  - username: "dielenka"
-    fullname: >-
-      LENKA 🇸🇰🇦🇹 | Software Engineer
-    bio: >-
-      ✨I write code and love tech Collab: dielenka@gmail.com @travelwithageek ✈️ F1 🏎️ Gaming 👾 Gym 🏋️‍♀️ 🎓 PhD. student 👩🏻‍🔬 Working in cybersec 🔐
-    location: "United States"
-    followers: 99416
-    engagement: 216
-    commentsToLikes: 0.033877
-    id: ck8t1rehjwqid0j78v901qvua
-    verified: false
-    hashtags: "#codinglife, #programmerlife, #fitness, #programmerslife"
-  - username: "qqchana"
-    fullname: >-
-      Chana Chiang QQ阿醬
-    bio: >-
-      𝐋𝐞𝐚𝐫𝐧 𝐟𝐫𝐨𝐦 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐈𝐝𝐞𝐧𝐭𝐢𝐟𝐲 𝐰𝐢𝐭𝐡 𝐧𝐨𝐭𝐡𝐢𝐧𝐠 ©本人 Photography 攝影號➜ @chanachiang 𝙲𝙷🇹🇼｜𝙴𝙽🇺🇸｜𝙴𝚂🇵🇪 模特x攝影師x電玩宅x旅遊控 #travel #gaming #food
-    location: "United States"
-    followers: 32564
-    engagement: 192
-    commentsToLikes: 0.036219
-    id: ck0ty4j7mllio0i19hf3shu4m
-    verified: false
-    hashtags: "#fifa22, #fifa, #bikinimodel, #merrychristmas"
 ---

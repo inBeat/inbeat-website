@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Peru In 2023
+title: Top 10 Makeup TikTok Influencers In Peru In 2024
 description: >-
-  Find top makeup TikTok influencers in Peru in 2023. Most popular hashtags: #makeup #parati #fyp #peru.
+  Find top makeup TikTok influencers in Peru in 2024. Most popular hashtags: #fyp #makeup #parati #peru.
 platform: TikTok
 hits: 53
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 53 TikTok influencers like this in Peru for you to connect with.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our search engine holds 53 TikTok influencers like this in Peru for you to collaborate.
 profiles:
   - username: "anroman.21"
     fullname: >-
@@ -115,16 +115,16 @@ profiles:
     id: ckc30iapdr7o90j239kozwfcg
     verified: false
     hashtags: "#huaweip40pro, #fotograf, #publicidad, #makeup"
-  - username: "tanydelariva1"
+  - username: "antonellagalvez"
     fullname: >-
-      Tany De La Riva
+      AntonellaGalvez
     bio: >-
-      Drag Queen Peruana 🇵🇪⚡ Ya me sigues en Instagram? @tanydelariva 💎
+      Cuenta oficial 🇵🇪 Lima, Perú - 24 Periodista 🔎 - Locutora🎙️ LCC Tienda MUA
     location: "Peru"
-    followers: 18700
-    engagement: 686
-    commentsToLikes: 0.028572
-    id: ck9exyd52te3q0j78ymyclnrm
+    followers: 63800
+    engagement: 399
+    commentsToLikes: 0.076936
+    id: ckbl1z1s9yxqy0j23tpif97ps
     verified: false
-    hashtags: "#parati, #asuka, #anime, #foryou"
+    hashtags: "#diccion, #lima, #locutora, #diadelamadre"
 ---

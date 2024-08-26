@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gaming Instagram Influencers In India In 2023
+title: Top 10 Gaming Instagram Influencers In India In 2024
 description: >-
-  Find top gaming Instagram influencers in India in 2023. Most popular hashtags: #maharashtra #reels #mumbai #india.
+  Find top gaming Instagram influencers in India in 2024. Most popular hashtags: #gaming #reels #gamer #india.
 platform: Instagram
-hits: 147
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 147 Instagram influencers like this in India for you to work with.
+hits: 247
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat has 247 Instagram influencers like this in India for you to connect with.
 profiles:
-  - username: "sanskruti_dabhade"
+  - username: "nishanttanwar"
     fullname: >-
-      Sanskruti💖
+      Nishant Tanwar
     bio: >-
-      |20|🙈 Pune❤ Little Extraordinary🙊 Definition of innocence😇 Check out @_._toxic_gaming 😸 👻 :- sanku.25
+      RIDER OP Dilli Se hoon & Gaadi Tera Bhai Chalayega @primevideoin Standup comic, Animal Lover, Gaming, Shayari, Vlogging 📧Nishant@TheNishantTanwar.com
     location: "India"
-    followers: 5626
-    engagement: 2235
-    commentsToLikes: 0.043298
-    id: ck9hby6euiy9q0j78tk872ap8
-    verified: false
-    hashtags: "#marathimeme, #india, #beingmarathi, #marathiinspirations"
-  - username: "mysterious_yt_"
+    followers: 229254
+    engagement: 724
+    commentsToLikes: 0.013277
+    id: ck6uavc6m5vse0j71ku4dynp9
+    verified: true
+    hashtags: "#viratkohli, #virat, #kohli, #haplynewyear"
+  - username: "dmacgames"
     fullname: >-
-      Shazia Ayub(Mysterious YT)
+      Dayton McPherson
     bio: >-
-      Gamer, Influencer, Interior Designer, Full Time Streamer, FB Gaming Partner 💌DM for Paid Promotion Youtube - Mysterious YT Channel Link -
+      🕹️ Daily Gaming Content 🎮 I’m here to make you laugh 📥 DM for Collabs
     location: "India"
-    followers: 27600
-    engagement: 461
-    commentsToLikes: 0.022149
-    id: ck0twf648f3o00i193gpla8ft
+    followers: 17825
+    engagement: 607
+    commentsToLikes: 0.190225
+    id: cloxojeb20ilp0j08fxu0bf7a
     verified: false
-    hashtags: "#camping, #gamergirl, #girlgamer, #streamer"
+    hashtags: "#nintendo, #videogames, #rgb, #gamingsetup"
+  - username: "antaryamirb"
+    fullname: >-
+      Rishabh Verma
+    bio: >-
+      💐 Facebook gaming partner 💐 4M on youtube 💐 birthday 26 jan 🎂 💐 Contact us=antaryamirb@gmail.com 💐 Managed by @alphazegus
+    location: "India"
+    followers: 547097
+    engagement: 936
+    commentsToLikes: 0.005871
+    id: clnsitexqguol0j08dqs63px1
+    verified: false
+    hashtags: "#galaxyai, #galaxys24, #playgalaxy, #teamgalaxy"
   - username: "xyaalive"
     fullname: >-
-      Xyaa
+      Shagufta Iqbal
     bio: >-
-      a.k.a Shagufta Iqbal Gaming, streaming, and a whole lot of procrastinating! Powered by @intelindia @logitechg @getloconow Live @ 8pm🔻
+      Gaming, Streaming and more! Content Creator for @teamvitality_india Managed by: @alphazegus Powered by @intelindia
     location: "India"
-    followers: 111042
-    engagement: 1869
-    commentsToLikes: 0.006973
+    followers: 128719
+    engagement: 917
+    commentsToLikes: 0.008943
     id: ck134vg6jydqc0i19qm50awld
     verified: false
-    hashtags: "#ad, #logitechg, #gaming, #welcomelanding"
-  - username: "anzartistix"
+    hashtags: "#bali, #ad, #reels, #windows11"
+  - username: "godnixon_gaming"
     fullname: >-
-      Anzar Mohammed Shereef | 🎨
+      Luv Sharma
     bio: >-
-      🇮🇳 | 🇦🇪 Negative t̶h̶o̶u̶g̶h̶t̶s̶ Art. @anzareyousirius_ @thelucid_writer @porotta_gaming 🔴Commissions closed🔴
+      God 🕉️ . Grind . Goals - Business Email- godnixon104@gmail.com - Gaming YouTube Channel Link ( 1.5M ) ⬇️
     location: "India"
-    followers: 18439
-    engagement: 2026
-    commentsToLikes: 0.067093
-    id: ckaotb83sv59x0i78epbwg28r
+    followers: 440990
+    engagement: 2895
+    commentsToLikes: 0.006536
+    id: ck8t7zylrilfb0j78i6vswxcs
     verified: false
-    hashtags: "#seemedoodle, #artistsoninstagram, #tollywood, #aventador"
-  - username: "airshfakhan138"
+    hashtags: "#bgmi, #viralreels, #reeloftheday, #trendingreels"
+  - username: "singhjaijeet_4"
     fullname: >-
-      Arishfa Khan AK 🥀🖤
+      JAIJEET SINGH
     bio: >-
-      My Queen Without Crown 🥺 My Bundle Of Happiness 🥰 Co-Admin @TuruLove_Gaming Biggest Fan & Fanpage Since 2018 🙈 She is Actor From The Past 10 Years 💖
+      Lifestyle • Fashion • Gaming • Travel Mail : Singhjaijeet2003@gmail.com MGMT - @collabxentertainment @__ashiichawla
     location: "India"
-    followers: 381880
-    engagement: 90
-    commentsToLikes: 0.011781
-    id: ck8taqfguso7h0j78odw3secw
+    followers: 225723
+    engagement: 1425
+    commentsToLikes: 0.010574
+    id: ck0u2kipq04bw0i194o0c2obo
     verified: false
-    hashtags: ""
-  - username: "quickshifter390"
+    hashtags: "#gaminglife, #gamingmemes, #reels, #elvishyadav"
+  - username: "true_gaming_studio"
     fullname: >-
-      AMAL  // KTM&RE BIKER🏍
+      Pranavnath P S
     bio: >-
-      Owns:Duke390 & Classic350 ❤️ Powered by⬇️ @ktm_india @thh_nikko_helmets_official Gaming🎮:@quickshifter390_gaming Youtube⬇️
+      True Gaming Studio 46k Fam Opinion Leader for @redbullindia Official Streamer of - @getloconow
     location: "India"
-    followers: 14335
-    engagement: 2874
-    commentsToLikes: 0.010635
-    id: ckap0l1fuqrts0i78dtdoab72
+    followers: 10534
+    engagement: 1162
+    commentsToLikes: 0.041167
+    id: ck9wggo6rtc530j783iuho21i
     verified: false
-    hashtags: "#mallugram, #duke250, #dominor, #ktm"
-  - username: "krantigaming"
+    hashtags: "#photography, #like, #kerala, #gtav"
+  - username: "memewala"
     fullname: >-
-      KRANTI Gaming
+      Anand Gandhi
     bio: >-
-      Seasone 15 conquerer YT - KRANTI Gaming Promotion Available This is KRANTI gaming instagram page 👍 Go to this link and SUBSCRIBE You Tube
+      Tumbbad. Ship of Theseus. Shasn. An Insignificant Man. ElseVR. OK Computer. Azadi. I invest in Gaming, Education, Culture Inquiries: @memesys_studios
     location: "India"
-    followers: 5196
-    engagement: 876
-    commentsToLikes: 0.005163
-    id: ck8t81ea2ir7a0j78n7rb2btl
+    followers: 53768
+    engagement: 373
+    commentsToLikes: 0.012309
+    id: ckf5v7cwxnjf80j237roe6z64
     verified: false
-    hashtags: ""
-  - username: "gamer_batcha_"
+    hashtags: "#boardgames, #memesys, #art, #strategygames"
+  - username: "villageresports"
     fullname: >-
-      GAMER BATCHA
+      Villager Esports
     bio: >-
-      GAMING 🎮, LIVE STREAMING, GAMER BATCHA
+      • The Home Of Esports & Gaming. • 📧 - contact@villageresports.in 👇 Join Official Villager Esports Discord Server 👇
     location: "India"
-    followers: 37661
-    engagement: 69
-    commentsToLikes: 0.038876
-    id: ck8t2w6mf0x8c0j787ylqgg0x
+    followers: 276620
+    engagement: 800
+    commentsToLikes: 0.015577
+    id: ck8t37r0k28170j780moaaxn9
     verified: false
-    hashtags: ""
-  - username: "sarangrai"
+    hashtags: "#bgmi, #battlegroundsmobileindia, #bgisthegrind, #villageresports"
+  - username: "kwatlenanmaklu"
     fullname: >-
-      Sarang Rai
+      ಕ್ವಾಟ್ಲೆ ನನ್ ಮಕ್ಳು
     bio: >-
-      Dancer • Actor • Gamer DID 6 • Roadies Real Heroes DM or ✉️ sarang22rai@gmail.com YouTube - “Ricki&Sarang” YouTube Gaming - “Sarang YT”
+      Since 2k17 😎 Meme + Troll = kwatlenanmaklu 👉 ಕ್ವಾಟ್ಲೆ ನನ್ನ ಮಕ್ಕಳು 👈 ⏩Dm for Paid promotions⏪ Subscribe our gaming channel 👇🏻
     location: "India"
-    followers: 21821
-    engagement: 135
-    commentsToLikes: 0.076800
-    id: ck0udvlnpjx7z0i19px28mhvs
+    followers: 26830
+    engagement: 517
+    commentsToLikes: 0.009239
+    id: ckf5s6jlvev9m0j23kzqraj8i
     verified: false
-    hashtags: "#fashionblogger, #explore, #reelsinstagram, #reelskarofeelkaro"
-  - username: "midfail.yt"
-    fullname: >-
-      Prabhakaran P
-    bio: >-
-      🎮Gamer. 📼Caster 🎙️Shout Caster. 🎤Pro Commentator, 🕹️Gaming Entertainer. #Thakidathakida #midfailyt
-    location: "India"
-    followers: 20048
-    engagement: 726
-    commentsToLikes: 0.010350
-    id: ck9whvmbtzona0j78gv8rxw66
-    verified: false
-    hashtags: "#lg, #ultragearsquad, #midfailyt, #lgultragear"
+    hashtags: "#kwatlenanmaklu, #knm, #uttarakarnatakamemes, #engineeringmemes"
 ---

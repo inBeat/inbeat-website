@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Turkey In 2023
+title: Top 10 Beauty Instagram Influencers In Turkey In 2024
 description: >-
-  Find top beauty Instagram influencers in Turkey in 2023. Most popular hashtags: #helpturkey #sar #reelsinstagram.
+  Find top beauty Instagram influencers in Turkey in 2024. Most popular hashtags: #summer #istanbul #turkey.
 platform: Instagram
-hits: 1036
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 1036 Instagram influencers like this in Turkey for you to collaborate.
+hits: 1066
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform has 1066 Instagram influencers like this in Turkey for you to connect with.
 profiles:
-  - username: "monicaawidy"
+  - username: "saba"
     fullname: >-
-      Monica Ayu W 📍 SIDOARJO
+      Saba
     bio: >-
-      ✨ Beauty | Food | Lifestyle 📱 Tiktok : monicaayuww 🧑‍💻 @nyehatpol | @selerakini 📣 business inq? Dm or 👇🏻 📩 monicaayuwidyani08@gmail.com
+      Fashion | Beauty | lifestyle
     location: "Turkey"
-    followers: 4443
-    engagement: 864
-    commentsToLikes: 0.033954
-    id: ckf5mxv9rvuxm0j23k5swcw7u
+    followers: 477908
+    engagement: 717
+    commentsToLikes: 0.013948
+    id: ck5q60o0vvee60i11vu8hh70y
     verified: false
-    hashtags: "#youngleaders, #matchamuhunters, #sepatucatscewek, #serumacne"
-  - username: "hemistyle"
+    hashtags: "#nophotoshop, #blackandwhite, #beautiful, #1990"
+  - username: "endamdan"
     fullname: >-
-      Həmidə Hacıyeva
+      Endam Orçun
     bio: >-
-      • Founder @beautytime.boutique • hamidahadjiyeva@mail.ru • +994502857850
+      📍İzmir 💄Beauty | Makeup | Lifestyle 💌 endamorcun@gmail.com 👩🏻‍🔬PAU Chemical Engineering
     location: "Turkey"
-    followers: 432328
-    engagement: 166
-    commentsToLikes: 0.011244
-    id: ck55mpojy4h7o0i11nwcb8t9f
+    followers: 12558
+    engagement: 532
+    commentsToLikes: 0.127425
+    id: ck600ropde50v0i14a6pfhv9w
     verified: false
-    hashtags: "#totallook, #iherb, #dresses, #qolqolamcdonaldsa"
-  - username: "sebibebi"
+    hashtags: "#avonturkiye, #niacinamide, #avon, #gold"
+  - username: "denizz_makeup"
     fullname: >-
-      Sebile Ölmez ®
+      Farnoosh nateghi
     bio: >-
-      Beauty Guru Lifestyle Mom Founder @soflycosmetics pr@sebibebi.com 🇹🇷Turkiye
+      Pro Makeup artist and beauty blogger 💄💋 @regal.btq 🛍️ مشاور مدیریت و تبلیغات @iman.mihanzadeh💬 دنیز 👇
     location: "Turkey"
-    followers: 603884
-    engagement: 89
-    commentsToLikes: 0.021709
-    id: ck139k7iqlpsm0i19j7cogmhv
-    verified: true
-    hashtags: "#birthdayparty, #reklama, #outfitcheck, #unboxing"
-  - username: "busrayurtgul"
+    followers: 1023277
+    engagement: 609
+    commentsToLikes: 0.021128
+    id: ck136qfba7r3m0i19zyo3nn4h
+    verified: false
+    hashtags: "#lipstick, #zara, #hudabeauty, #style"
+  - username: "sarafeyzz"
     fullname: >-
-      Büşra Yurtgül Neziroğluları
+      Sara Feyz
     bio: >-
-      Lifestyle, Fashion, Beauty Contact: busrayurtgul@gmail.com Based in Istanbul, TR🖤
+      Beauty | lifestyle 📍ist 💚🕊️❤️
     location: "Turkey"
-    followers: 261837
+    followers: 89132
+    engagement: 831
+    commentsToLikes: 0.069192
+    id: ckap2mfk5zh7y0i78t1tahvpr
+    verified: false
+    hashtags: "#sarafeyz, #makeupvideos, #challenge, #tehran"
+  - username: "be.brkn"
+    fullname: >-
+      Betül Barkın Yıldız
+    bio: >-
+      Music | Fashion | Beauty | Lifestyle Founder: @etoile.abendmode 🎵 Menajerlik S. Karadeniz: +49 173 8804762
+    location: "Turkey"
+    followers: 54725
+    engagement: 642
+    commentsToLikes: 0.018079
+    id: ck14ltl6twf0a0i19ja2wth78
+    verified: false
+    hashtags: "#halay, #ootdfashion, #mazlumdevrim, #fy"
+  - username: "ivanamrsiic"
+    fullname: >-
+      Mršić Ivana
+    bio: >-
+      lifestyle | fashion | beauty • @_bloomboutique__
+    location: "Turkey"
+    followers: 30611
+    engagement: 379
+    commentsToLikes: 0.058095
+    id: ckap6x4elhpx10i78f183yajm
+    verified: false
+    hashtags: "#turkey, #summer, #giveaway, #raftingtara"
+  - username: "lisanyongo"
+    fullname: >-
+      Kwanele Lisa Nyongo
+    bio: >-
+      📷: Fashion | Beauty | Lifestyle 📍: Durban, KwaZulu-Natal
+    location: "Turkey"
+    followers: 53158
+    engagement: 353
+    commentsToLikes: 0.019625
+    id: ck5zy5pxf9a190i14gzphevw7
+    verified: false
+    hashtags: "#mycottonon, #mycottononafrica"
+  - username: "yuli__k"
+    fullname: >-
+      Yulik👼🏻❣️
+    bio: >-
+      Lifestyle • beauty • travel Founder of @fleur_de_lys_atelier ✂️❤️ Cooperation: direct📩
+    location: "Turkey"
+    followers: 52620
     engagement: 345
-    commentsToLikes: 0.010551
-    id: ck139k5xplpjy0i19x6soai4b
+    commentsToLikes: 0.025942
+    id: ck6u1uwjgo1170j71vc741g4n
     verified: false
-    hashtags: "#morewithless, #zentamtur, #zenp, #modernkad"
-  - username: "damlakalaycik"
+    hashtags: "#littleemily, #streetstyle, #vienna, #lookoftheday"
+  - username: "doctorhakantufekci"
     fullname: >-
-      Damla Kalaycık Dedeoğlu
+      Hakan Tüfekçi
     bio: >-
-      Hamburg | İstanbul ITU Physics Engineering 👩🏼‍🎓 Fashion | Beauty | Lifestyle | Travel Business Inquiry: damlakalaycik@hotmail.com
+      Inspired from your beauty. International Health Tourism Authorization Certificated Clinic 📲 +905550387869 📍Bursa
     location: "Turkey"
-    followers: 375132
-    engagement: 347
-    commentsToLikes: 0.065799
-    id: ck55oh3n78c8l0i11a5it2m81
+    followers: 63167
+    engagement: 339
+    commentsToLikes: 0.030209
+    id: ckap5e1wcb98b0i78r99ato5u
     verified: false
-    hashtags: "#winterwonderland, #matchalatte"
-  - username: "ilknurozdemir61"
+    hashtags: "#medikal, #aesthetic, #smile, #fit"
+  - username: "nisayora"
     fullname: >-
-      İlknur Özdemir
+      Sayora Ni | سايورا ني
     bio: >-
-      Lifestyle • Travel • Beauty • Hotel💫 📍İstanbul • Türkiye Marka ve Mekan Tanıtımı💫
+      fashion | travel | beauty | triathlon Insdr.pr: Aruzhan
     location: "Turkey"
-    followers: 57767
-    engagement: 264
-    commentsToLikes: 0.100361
-    id: ck8t3cgp12qtl0j78glw4h0kg
+    followers: 110183
+    engagement: 309
+    commentsToLikes: 0.012751
+    id: ck5c6l5fx5o0w0i11rglwb1vl
     verified: false
-    hashtags: "#fashion, #gezilecekyerler, #sar, #mekan"
-  - username: "gizemuzel_"
-    fullname: >-
-      Gizem Üzel
-    bio: >-
-      Beauty • Fashion • Lifestyle info@gizemuzel.com
-    location: "Turkey"
-    followers: 405474
-    engagement: 534
-    commentsToLikes: 0.010390
-    id: ck15r5qwm69ma0i197i2vtfss
-    verified: false
-    hashtags: "#foreo, #helpturkey, #luna3, #foreoufo"
-  - username: "ezgikasapoglu"
-    fullname: >-
-      Ezgi Kasapoğlu 🦄
-    bio: >-
-      🏡 London | Istanbul 💌 ezgi@imagean.com 🎙TV Presenter | Ezgi ile Şehrin Renkleri 👩🏼‍💻Content Creator | Lifestyle fashion beauty 🎓I.U Cinematic Arts
-    location: "Turkey"
-    followers: 69916
-    engagement: 207
-    commentsToLikes: 0.077981
-    id: ck14i1kxcd7k70i193ihucwkk
-    verified: false
-    hashtags: "#reels, #reelsinstagram, #is, #helpturkey"
-  - username: "yagmurdoganayy"
-    fullname: >-
-      Yağmur Doğanay
-    bio: >-
-      💧fashion | travel | beauty 📩 info@yagmurdoganay.com
-    location: "Turkey"
-    followers: 92435
-    engagement: 266
-    commentsToLikes: 0.876213
-    id: ck6tyu5c85vhj0j7113bx28yy
-    verified: false
-    hashtags: "#inspiration, #kombin, #cekilisvar, #cekilis"
-  - username: "julidekir"
-    fullname: >-
-      Jülide Kır
-    bio: >-
-      🕊 lifestyle & beauty & fashion and more. master students • communication and digital media.
-    location: "Turkey"
-    followers: 71425
-    engagement: 248
-    commentsToLikes: 0.062411
-    id: ck15subf3eu5z0i1942fumqkc
-    verified: false
-    hashtags: ""
+    hashtags: "#guerlain, #abeilleroyalecream, #diorbeauty, #diorskincare"
 ---

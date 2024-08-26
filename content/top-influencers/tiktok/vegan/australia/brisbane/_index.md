@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Brisbane In 2023
+title: Top 10 Vegan TikTok Influencers In Brisbane In 2024
 description: >-
-  Find top vegan TikTok influencers in Brisbane in 2023. Most popular hashtags: #fyp #vegan #brisbane #australia.
+  Find top vegan TikTok influencers in Brisbane in 2024. Most popular hashtags: #fyp #vegan #australia #brisbane.
 platform: TikTok
 hits: 5
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 5 TikTok influencers like this in Brisbane, Australia for you to contact.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 5 TikTok influencers like this in Brisbane, Australia for you to work with.
 profiles:
   - username: "zaokjin"
     fullname: >-
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.022172
     id: ck9eljnpvawgh0j78xraao218
     verified: false
-    hashtags: "#zodiac, #smallbusiness, #soapclay, #soap"
+    hashtags: "#soapclay, #zodiac, #astrology, #soap"
   - username: "littlemissbec"
     fullname: >-
       💗 Bec 💗

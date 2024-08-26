@@ -1,132 +1,132 @@
 ---
-title: Top 10 Instagram Influencers In 2023
+title: Top 10 Instagram Influencers In 2024
 description: >-
-  Find top Instagram influencers in 2023. Most popular hashtags: #ad #explorepage #outfitideas.
+  Find top Instagram influencers in 2024. Most popular hashtags: #ad #streetstyle #summer.
 platform: Instagram
-hits: 685863
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database holds 685863 Instagram influencers like this for you to collaborate.
+hits: 728492
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 728492 Instagram influencers like this for you to contact.
 profiles:
-  - username: "amberdowty_"
+  - username: "cheridan.taylor"
     fullname: >-
-      Amber Nicole ♡
+      Cheridan | elevated basics + everyday OOTD’s
     bio: >-
-      Long Island-NY📍 Daily Outfit Inspo🫶 💌 amberdowty@insanityhq.com Shop my Presets below ↓
+      the girl who always matches her Converse to her outfits style + life + travel🤍 💍 2024 bride 🌴 SD | OC | LA 💌 cheridantaylor@gmail.com
     location: "United States"
-    followers: 51096
-    engagement: 419
-    commentsToLikes: 0.052067
-    id: ckt2ndyak3i400j23hglzx8of
+    followers: 39286
+    engagement: 437
+    commentsToLikes: 0.130505
+    id: ck55kyupg0e6t0i111v06k77j
     verified: false
-    hashtags: "#falloutfits, #fallfashion, #outfitinspo, #outfitideas"
-  - username: "enigivensunday"
+    hashtags: "#hairhowto, #sunepartner, #fallactivities, #fallaesthetic"
+  - username: "mrsmarionms"
     fullname: >-
-      Eni Popoola | NYC Blogger
+      Marion | Fashion & Lifestyle
     bio: >-
-      ⚖️Columbia Law alumna 💄beauty lover ✨ trying to live my best blessed & balanced life 🎥 #SephoraSquad ‘22 📧 enipopoola@enigivensunday.com
-    location: "Canada"
-    followers: 120230
-    engagement: 663
-    commentsToLikes: 0.011475
-    id: ck5hi7xnuc41l0i11lv2p1q6j
-    verified: false
-    hashtags: "#makeupforblackwomen, #melaninmakeupdaily, #nycblogger, #makeuptutorial"
-  - username: "ayushsemwal08"
-    fullname: >-
-      ✨A Y U S H  S E M W A L✨
-    bio: >-
-      More than just a face 💫 Interior designer by profession For business : 📩 ayushsemwal22@gmail.com 📍Dehradun | Delhi | Gurgaon
-    location: "India"
-    followers: 60043
-    engagement: 1894
-    commentsToLikes: 0.014528
-    id: ck5zm43t8lv1d0i147lv0z9x9
-    verified: false
-    hashtags: "#wedding, #style, #ad, #winterfashion"
-  - username: "thehalliescene"
-    fullname: >-
-      Hallie | Nashville Blogger
-    bio: >-
-      hi, i’m Hallie, like Halle Berry! everyday style + home reno | new mom 💕 normalizing life + mental health 🤍🌿 hannaht@shinetalentgroup.com
+      Parisian fashion lover living the lifestyle of her dream! Wife💍 Mom 👶🏻 💌 hello@marionms.com
     location: "United States"
-    followers: 52689
-    engagement: 414
-    commentsToLikes: 0.115509
-    id: ckn9ayfvumbl20j23lt41y6yv
-    verified: false
-    hashtags: "#nursery, #expectingmom, #firsttimemom, #girlnursery"
-  - username: "mollymae"
-    fullname: >-
-      Molly-Mae Hague
-    bio: >-
-      Contact: Fran@FB-commercial.co.uk CREATIVE DIRECTOR @prettylittlething CEO @filterbymollymae Home @mollymaison
-    location: "Italy"
-    followers: 6860239
-    engagement: 671
-    commentsToLikes: 0.001550
-    id: cl088goccaiwf0i231i9w2kd1
+    followers: 12252
+    engagement: 630
+    commentsToLikes: 0.148094
+    id: ck15papi2wxr60i19jci3aikt
     verified: false
     hashtags: ""
-  - username: "baileysarian"
+  - username: "nomastayinkc"
     fullname: >-
-      Bailey Sarian  🥀
+      Amanda | KC Blogger
     bio: >-
-      Ms. Murder, Mystery, & Makeup • Dark History • 👇🏼 * New Video * & My Social Links :
+      Yoga teacher 🧘‍♀️| Lover of food & drink 🥂| 🐶 Mom | Deal finder & sharer 🤌 | Kindness always 🙌 | Balanced living 🍪🥗🍷| @lululemon Ambassador 🫶
     location: "United States"
-    followers: 2984315
-    engagement: 663
-    commentsToLikes: 0.007988
-    id: ck0tu62zw5sxv0i19qevjyufa
+    followers: 34311
+    engagement: 1989
+    commentsToLikes: 0.199792
+    id: ck5c36n4typ390i11aaijrjdd
     verified: false
-    hashtags: ""
-  - username: "jess"
+    hashtags: "#yogainspiration, #momanddad, #gifted, #firsttimeparents"
+  - username: "tokyotolagirl"
     fullname: >-
-      Jess Conte
+      Shiyoko Nataniya
     bio: >-
-      ✞ ☻ jess@scalemanagement.co ⤥ my guided journal
+      🙋🏻‍♀️ | Pinterest gal 📍 | LA ✨ | Aesthetic fashion, lifestyle & beauty inspo 🤳 | UGC 💌 | tokyotolagirl@gmail.com SHOP MY FEED⬇️
     location: "United States"
-    followers: 2262141
-    engagement: 1362
-    commentsToLikes: 0.002894
-    id: ck0vw0aemrj6l0i194vjeeex9
-    verified: true
-    hashtags: ""
-  - username: "savannah_joyyy"
-    fullname: >-
-      Savannah Joy
-    bio: >-
-      | 1:1 Online Health/Lifestyle | @thetrainingbarracks Apply for Coaching Below ⬇️ @revive_md @getrawnutrition | Athlete Code: SAVJOY ⤴️
-    location: "United States"
-    followers: 132122
-    engagement: 417
-    commentsToLikes: 0.012208
-    id: ck5q33lorj2160i11tlfrq9s1
+    followers: 36454
+    engagement: 1538
+    commentsToLikes: 0.049032
+    id: ck5zypsduaawo0i14e5m3m57k
     verified: false
-    hashtags: "#fitnessmotivation, #fitness, #bulkingseason, #fitfam"
-  - username: "behamin"
+    hashtags: "#coquettegirl, #pinkaesthetic, #grwmreel, #jcpfam"
+  - username: "marinelliofficial"
     fullname: >-
-      Behamin • بهامين
+      Marina Polyzou - Marinelli
     bio: >-
-      Fashion | Beauty | Lifestyle | Design 🇺🇸 💚🕊❤️ 📍California Architect @home.by.bb 🐈 @benjibanubilu 📩 behamin.archi@gmail.com
-    location: "United States"
-    followers: 487738
-    engagement: 571
-    commentsToLikes: 0.033819
-    id: ck0u741343nni0i1969xnaly0
+      Beauty ∣ Fashion ∣ Lifestyle 💍Happy wife 👼🏼Mommy of a prince 📍Athens, Greece 📧marinellipolyzou@gmail.com ⬇️My Youtube channel
+    location: "Greece"
+    followers: 53199
+    engagement: 459
+    commentsToLikes: 0.158654
+    id: ck8t2dx7pz4ab0j78sz3g82tq
     verified: false
-    hashtags: "#iranrevolution, #mahsaamini, #womanlifefreedom, #luluspartner"
-  - username: "maggiemacdonald"
+    hashtags: "#love, #styleblogger, #youtuber, #instacute"
+  - username: "allyiahsface"
     fullname: >-
-      MM
+      A L L Y I A H
     bio: >-
-      raelyn@raelynmgmt.com
-    location: "United States"
-    followers: 200926
-    engagement: 832
-    commentsToLikes: 0.009191
-    id: ck5zt6mnrzu670i14y1jc91xm
+      Business: regina.harris@thedigitalbrandarchitects.com new video ↓
+    location: "United Kingdom"
+    followers: 527987
+    engagement: 402
+    commentsToLikes: 0.016371
+    id: ck139yo0ynrw00i193hn8i1av
     verified: false
-    hashtags: "#ad, #revolvegallery"
+    hashtags: "#kerastasepartner, #sheamoisturepartner, #sheadeoforus, #ad"
+  - username: "peytonjohnsonnn"
+    fullname: >-
+      peyton johnson
+    bio: >-
+      simple + chic outfit inspo 🦋🤍✨ washington, dc peytonjohnsonblog@gmail.com all the links👇🏼
+    location: "United States"
+    followers: 30454
+    engagement: 680
+    commentsToLikes: 0.111517
+    id: ckaot25cqu19m0i78qqoapkbl
+    verified: false
+    hashtags: "#winteroutfitideas, #winteroutfits, #nyfw2023, #ad"
+  - username: "maddiestoltzfusxo"
+    fullname: >-
+      Maddie Stoltzfus | UGC | Content creator
+    bio: >-
+      —— Fashion, beauty, lifestyle —— Pennsylvania engaged 💍 ✉️ stoltzfusmaddie@gmail.com
+    location: "United States"
+    followers: 14605
+    engagement: 509
+    commentsToLikes: 0.422949
+    id: ckqas80x2kz1w0j2311gad6a1
+    verified: false
+    hashtags: "#streetstyle, #ootd, #pov, #coffee"
+  - username: "daniellee_esther"
+    fullname: >-
+      Danielle Esther
+    bio: >-
+      los angeles 💌 danielle@mvetalent.com
+    location: "United States"
+    followers: 181544
+    engagement: 814
+    commentsToLikes: 0.060045
+    id: ck137gy8ubhjd0i19krhqrk4n
+    verified: false
+    hashtags: "#ad, #seethescience, #nexxuslevelholiday, #mondaypartner"
+  - username: "jessicalaure_l"
+    fullname: >-
+      Jessica L Hall
+    bio: >-
+      Lifestyle Creator, Mommy, Fashionista. Seen in @forbes @essence 📧 Hello@JessicaLHall.com 📍 #Raleigh #Durham #Charlotte #NC 👩🏾‍🏫 Mental Health
+    location: "United States"
+    followers: 49582
+    engagement: 630
+    commentsToLikes: 0.111742
+    id: ck8t0odv7sp360j7874plcisd
+    verified: false
+    hashtags: "#raleighinfluencers, #charlottefashion, #nccreatives, #liketkit"
 countries:
   - name: Algeria
     link: /instagram/algeria

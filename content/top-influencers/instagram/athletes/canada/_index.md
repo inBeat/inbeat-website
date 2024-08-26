@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Canada In 2023
+title: Top 10 Athletes Instagram Influencers In Canada In 2024
 description: >-
-  Find top athletes Instagram influencers in Canada in 2023. Most popular hashtags: #fitness #bodybuilding #aesthetic.
+  Find top athletes Instagram influencers in Canada in 2024. Most popular hashtags: #sport #tokyo2020 #athletics.
 platform: Instagram
-hits: 102
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 102 Instagram influencers like this in Canada for you to work with.
+hits: 149
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 149 Instagram influencers like this in Canada for you to pitch.
 profiles:
+  - username: "super_singh1313"
+    fullname: >-
+      SUPER SINGH WNBF PRO | TRANSFORMATION COACH
+    bio: >-
+      👉🏻Natural Athlete💪🏽 👉🏻WNBF Canada PRO 🥇 👉🏻APU,Canada🇨🇦-Grand lift open champion74kg🥇 👉🏻 15 years of experience in Fitness 💪🏽 👉🏻Certified Trainer
+    location: "Canada"
+    followers: 67078
+    engagement: 1223
+    commentsToLikes: 0.016981
+    id: ck8wfmbvrfxo90j78i0xupp5v
+    verified: false
+    hashtags: "#gymtime, #bodybuilder, #healthylifestyle, #ufitcrossfit"
+  - username: "brady.oliveira"
+    fullname: >-
+      Brady Oliveira
+    bio: >-
+      ▫︎ Life of a Pro Athlete🏈 ◊ A man adventuring with his dogs🐶 ☀︎ Saving dogs one rescue at a time🖤 » Brady.oliveira29@gmail.com✉️
+    location: "Canada"
+    followers: 243113
+    engagement: 592
+    commentsToLikes: 0.030420
+    id: ck6u1drxel4uo0j718df1e6tm
+    verified: true
+    hashtags: "#rescuedogs, #savedogs, #dogrescue, #heartwarming"
+  - username: "marissa_paps"
+    fullname: >-
+      Marissa Papaconstantinou, Ply
+    bio: >-
+      𝐂𝐚𝐧𝐚𝐝𝐚’𝐬 𝐁𝐥𝐚𝐝𝐞 𝐑𝐮𝐧𝐧𝐞𝐫🇨🇦 2 x Paralympian Paralympic & Worlds Medalist Nike Athlete For contact: @envision_se
+    location: "Canada"
+    followers: 47786
+    engagement: 2560
+    commentsToLikes: 0.022060
+    id: ck0w41dnmwb270i19ar1em0tx
+    verified: true
+    hashtags: "#athletics, #trackandfield, #training, #dressup"
   - username: "george_ahhh"
     fullname: >-
       Georgia Ellenwood
     bio: >-
-      🇨🇦 Heptathlete Olympian 8xAll American, NCAA Champ Earthlover 🌎 ..Not defined by my sport UA Athlete CAN Fund #150Women Recipient
+      🇨🇦 Heptathlete Olympian Badger Alum; NCAA Champ Earthlover 🌎 ..Not defined by my sport @underarmourca Athlete Gamer 🧝🏼‍♀️
     location: "Canada"
-    followers: 587094
-    engagement: 873
-    commentsToLikes: 0.014362
+    followers: 749061
+    engagement: 598
+    commentsToLikes: 0.014905
     id: ck0vvscydqjkc0i198hfdkgl4
     verified: true
-    hashtags: "#transitionsstylecolours, #underarmour, #giveaway, #uarunning"
-  - username: "thebenchase"
+    hashtags: "#reignbodyfuelcreator, #legday, #ad, #athletics"
+  - username: "mariasakkari"
     fullname: >-
-      Ben Chase
+      SAKKATTACK
     bio: >-
-      PEI | AB - 2x #1 Songs on iTunes Country Charts 🇨🇦 - 2019 Country Music Alberta’s Fan’s Choice Winner & 5x Nominee 🙌 - BJJ Athlete
+      @adidastennis athlete from 🇬🇷 #HereToCreate press@starwingsports.com
     location: "Canada"
-    followers: 16019
-    engagement: 587
-    commentsToLikes: 0.028175
-    id: ck13d6qi23ybn0i19i8awxw8l
+    followers: 496181
+    engagement: 665
+    commentsToLikes: 0.007837
+    id: cktf3muh097v60j23xt93e18l
     verified: false
-    hashtags: "#countrymusic, #single, #newmusic, #blackouttuesday"
-  - username: "mylougi3"
+    hashtags: "#tennisparadise, #movefortheplanet, #tokyo2020, #teamhellas"
+  - username: "braydenbarretthay"
     fullname: >-
-      Mylène Gionet
+      ʙʀᴀʏᴅᴇɴ Barrett-ʜᴀʏ
     bio: >-
-      Fitness coach🤍 DM to get started! • Co-owner & online coach of @team_sunrise__ • Athlete manager of @moresupplements • Bikini athlete @teamatlasmtl
+      Vernon BC 🇨🇦 Freestyle MTB Athlete
     location: "Canada"
-    followers: 9094
-    engagement: 349
-    commentsToLikes: 0.065163
-    id: ck13781t4a9930i19pmmjc272
+    followers: 51726
+    engagement: 2938
+    commentsToLikes: 0.014359
+    id: ck15tdl6xhkyy0i196eypxnlj
     verified: false
-    hashtags: "#11weeksout, #unbothered, #7weeks, #exercices"
-  - username: "taylorxcross"
+    hashtags: "#kamloops, #360, #mountainbike, #freeridemtb"
+  - username: "23gregoire"
     fullname: >-
-      Taylor Cross
+      Gregoire Bellemare
     bio: >-
-      🇨🇦 Canada. 🥇 Classic Physique 🥦 @hd.muscle Athlete code: CROSS 🏊🏼‍♂️ Commercial Diver/ Underwater Welder 👨‍🏭
+      Streetworkout / Calisthenics Athlete & Coach Montreal🇨🇦 🌐WSWCF Certified Trainer 📥DM for Coaching/Business Inquiries
     location: "Canada"
-    followers: 16398
-    engagement: 206
-    commentsToLikes: 0.110018
-    id: ck8syvtfdm7ft0j78ugrn2b83
+    followers: 94652
+    engagement: 839
+    commentsToLikes: 0.018741
+    id: clin42hbsfory0j08c0w4eoak
     verified: false
-    hashtags: ""
-  - username: "allisonelang"
+    hashtags: "#humanflag, #streetworkout, #flag, #workout"
+  - username: "nicolepetersxo"
     fullname: >-
-      ALLISON E. LANG
+      ✭NIKKI  P ✭
     bio: >-
-      amputee & body inclusivity advocate 🇨🇦 educator | athlete | model | traveler | jokester rep by @agencelasuite 𖤥 mtl subscribe to my YouTube⤵
+      ☆Young @blakelively in A Simple Favor ☆ @thepeterstwins ♡ Team Canada 🏄🏼‍♀️ ☆ MissUniverseFinalist ♡ @gymmolly athlete
     location: "Canada"
-    followers: 9872
-    engagement: 501
-    commentsToLikes: 0.099625
-    id: ckap3rwrc4ar60i78z29q3lf1
+    followers: 38159
+    engagement: 378
+    commentsToLikes: 0.018979
+    id: ckxlerkya8oy30j23nuvvjnyx
     verified: false
-    hashtags: "#ardenelove, #sponsored, #ardenebabe, #ad"
-  - username: "toqueluc"
+    hashtags: "#octoberskisesh, #tb, #dec11, #morganwallen"
+  - username: "jess.kimura"
     fullname: >-
-      Lucas Parker
+      Jess Kimura
     bio: >-
-      Canadian fitness weblebrity, CrossFit Games athlete, and coach
+      Athlete | Award-Winning Filmmaker @learning_to_drown_film @the__uninvited ✨Backed by The North Face - Yeti - Monster - Capita - Union - Smith - Coal✨
     location: "Canada"
-    followers: 144472
-    engagement: 88
-    commentsToLikes: 0.039365
-    id: ck6tultx6h2pc0j71v0077xd2
+    followers: 45225
+    engagement: 368
+    commentsToLikes: 0.024870
+    id: ck0w5qdxa4x0i0i19ug4afpin
     verified: false
-    hashtags: "#commentary, #strategy, #21point2, #crossfitopen"
-  - username: "gov1007"
+    hashtags: "#pursueyourthrill, #weruncold, #snowboarding, #fujifilm"
+  - username: "zuko_carrasco"
     fullname: >-
-      Jordan Larson
+      Sebas Carrasco Zuffi
     bio: >-
-      🇺🇸 American Volleyball Player @usavwnt ⭐️ Nike Athlete @nike 🥇🥈🥉Olympic Medalist x 3 🏐 AU rep @auprovolleyball 🥇World Champion 🎀 BC Rep @thepinkfund
+      👭Father of 2 Puchungas 📍Quito, Ecuador 🇪🇨 🎖Retired UIAGM Mt Guide ♿️ C6 since 8/8/2015 ⛰🏔🗻 and handbike athlete
     location: "Canada"
-    followers: 138092
-    engagement: 1302
-    commentsToLikes: 0.012508
-    id: ck13c9hukz94o0i19be8fdf32
-    verified: true
-    hashtags: "#film, #thevisaaward, #inspiredbyvisa, #teamusa"
-  - username: "darahowell"
-    fullname: >-
-      darahowell
-    bio: >-
-      Olympic 🥇 Champion You can’t go back and change the beginning but you can start where you are and change the ending. All around athlete. ❤️&🙏🏻
-    location: "Canada"
-    followers: 18601
-    engagement: 653
-    commentsToLikes: 0.017311
-    id: ck5c75uzt6vle0i114ldixm0d
-    verified: true
-    hashtags: "#familyofsupport, #sobeyspartner, #ad, #visabigair"
-  - username: "shreddedd_chicken"
-    fullname: >-
-      Ron Lee Fitness
-    bio: >-
-      🇨🇦 Toronto 👕 @jed_north Athlete (RON15) 💊 @steelsupplements Athlete (CODE: SHREDDEDCHICKEN) ✉️ Email for Program
-    location: "Canada"
-    followers: 40226
-    engagement: 326
-    commentsToLikes: 0.038959
-    id: ck8tch1onzg4v0j78ekev62jl
+    followers: 16348
+    engagement: 341
+    commentsToLikes: 0.046423
+    id: ck0tvx25hd5we0i196jh9fa51
     verified: false
-    hashtags: "#dietplan, #aesthetic, #aesthetics, #workoutmotivation"
-  - username: "rjohnst6"
-    fullname: >-
-      Rebecca Johnston
-    bio: >-
-      Canadian National Women’s Team 🇨🇦🏒 3X Olympian- 🥇🥇🥈 @adidasca Athlete | Bauer Athlete Cameo profile: https://www.cameo.com/rjohnston6
-    location: "Canada"
-    followers: 18283
-    engagement: 475
-    commentsToLikes: 0.015731
-    id: ck5c6eg9959qq0i11q51buytu
-    verified: true
-    hashtags: "#flames, #nationalpuppyday, #golfseason, #wearivypark"
+    hashtags: "#wheelchairwarrior, #findnewroads, #nevergiveup, #salirnosmueve"
 ---

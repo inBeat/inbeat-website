@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Boston In 2023
+title: Top 10 Yoga Instagram Influencers In Boston In 2024
 description: >-
-  Find top yoga Instagram influencers in Boston in 2023. Most popular hashtags: #boston #yoga #bostonyoga #bostonfitness.
+  Find top yoga Instagram influencers in Boston in 2024. Most popular hashtags: #yoga #bostonyoga #boston.
 platform: Instagram
-hits: 17
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 17 Instagram influencers like this in Boston, United States for you to work with.
+hits: 27
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 27 Instagram influencers like this in Boston, United States for you to collaborate.
 profiles:
   - username: "africarubiop"
     fullname: >-
@@ -31,6 +31,42 @@ profiles:
     id: ck0u20d0nyfsb0i196i4zegtf
     verified: false
     hashtags: "#cafedeflore, #medusaart, #bidenharris2020, #joebiden2020"
+  - username: "alyraymer"
+    fullname: >-
+      ALY RAYMER | SOUND MEDITATION + WELLNESS LEADER
+    bio: >-
+      I just 💜 to move, sweat, groove & chill Founding Instructor @bspokestudios ❤️ cats,spritzin,memes,music 📍BOSTON & ATX
+    location: "United States"
+    followers: 27997
+    engagement: 84
+    commentsToLikes: 0.049916
+    id: ck0w4t74j0an00i19x53ktavn
+    verified: false
+    hashtags: "#bostonfit, #soundhealer, #bostonyoga, #indoorcycling"
+  - username: "miss_red_vegan"
+    fullname: >-
+      Melissa  Dion 🧜🏻‍♀️🌱🥑
+    bio: >-
+      Single 42yo intersectional vegan feminist leftist❤️🌱💋 Standup comedy, reading, travel, theater, running, yoga, barre, kickboxing #BLM 🐶♌️ Raleigh, NC
+    location: "United States"
+    followers: 36849
+    engagement: 216
+    commentsToLikes: 0.136094
+    id: ck0vz21bq6wat0i19tdrx7og5
+    verified: false
+    hashtags: "#redheadwoman, #gingerhair, #muttsofinstagram, #redheadsofig"
+  - username: "eatrunandallinbetween"
+    fullname: >-
+      Calli Pappas
+    bio: >-
+      🌻 @nutritionschool Health Coach 🤸🏼‍♀️ @corepoweryoga C2 & Yoga Sculpt 🌎 Culture & People Experience in Healthcare 📍 Boston, MA 💌pappascalli@gmail.com
+    location: "United States"
+    followers: 12376
+    engagement: 49
+    commentsToLikes: 0.032575
+    id: clgcjp3nzk9iv0j08uo8ldm2v
+    verified: false
+    hashtags: ""
   - username: "thecoastalyogi"
     fullname: >-
       SARAH WHITE // COASTIE
@@ -42,7 +78,7 @@ profiles:
     commentsToLikes: 0.031089
     id: ck6tzmxkranhb0j71n12e9dq7
     verified: false
-    hashtags: "#yogasculpt, #yoga, #thecoastalyogi, #summerrecipe"
+    hashtags: "#thecoastalyogi, #yogasculpt, #yoga, #magnetic"
   - username: "amandarunsboston"
     fullname: >-
       Amanda Nurse | Runner & Coach
@@ -55,18 +91,6 @@ profiles:
     id: ck5hjh5bcgme50i11qohikmjs
     verified: false
     hashtags: "#birthstory, #helloworld, #loveyou, #babygirl"
-  - username: "alyraymer"
-    fullname: >-
-      ALY RAYMER (Fitness & Health)
-    bio: >-
-      Indoor cycling & yoga instructor for 15+ years Currently📍@bspokestudios Founder @whatlieswithin_ wellness retreats @lululemon ambassador ❤️ (‘17-‘19)
-    location: "United States"
-    followers: 29446
-    engagement: 146
-    commentsToLikes: 0.085987
-    id: ck0w4t74j0an00i19x53ktavn
-    verified: false
-    hashtags: "#indoorcycling, #bostonfitness, #bostonyoga, #igersboston"
   - username: "yogagolfdad"
     fullname: >-
       Ronan O'Connor
@@ -90,41 +114,17 @@ profiles:
     commentsToLikes: 0.045848
     id: ck55lj7wt1p6v0i11fjwc7avl
     verified: false
-    hashtags: "#fitnessinstructor, #bspokewarehouse, #outdoorfitness, #bspokestudios"
-  - username: "haleypwelsh"
+    hashtags: "#bspokelife, #bspokewarehouse, #elmbank, #fitnessinstructor"
+  - username: "bentley.likethecar"
     fullname: >-
-      ☆ H A L E Y☆
+      B   E   N   T   L   E   Y
     bio: >-
-      📍Pittsburgh, PA 🧘🏻‍♀️ Yoga student & teacher in training @onepeloton obsessed 🚲
+      Welcome to my world. AZ 🌵 @alomoves instructor #BentleyFridayFlows Yoga Classes/Events/Links⬇️
     location: "United States"
-    followers: 16665
-    engagement: 470
-    commentsToLikes: 0.098776
-    id: ck6tirhp01a7n0j71va0e5xal
+    followers: 39005
+    engagement: 34
+    commentsToLikes: 0.028021
+    id: ck0u9m67ea2vb0i19zp36ljnf
     verified: false
-    hashtags: "#ad, #lulusambassador, #bostonterriersofinstagram, #lovelulus"
-  - username: "rodneylavoiejr"
-    fullname: >-
-      Rodney Lavoie Jr. “𝓢𝓾𝓻𝓿𝓲𝓿𝓸𝓻”
-    bio: >-
-      🎙 Motivational Speaker 🧠 Mental Health Awareness 🫂 Life Coach 📚501(c)3:@TheWarriorsofPurpose 🎧 Podcast:@SilenceKillsMovement 📲 Back-up:@SurvivorRodney
-    location: "United States"
-    followers: 393099
-    engagement: 659
-    commentsToLikes: 0.040046
-    id: ck6u2a8u3qmzb0j71yukdua4n
-    verified: true
-    hashtags: "#motivation, #miami, #depression, #selflove"
-  - username: "nitinrawat_olympian"
-    fullname: >-
-      Nitendra Singh Rawat OLY 🇮🇳
-    bio: >-
-      RIO 2016 Olympian | Marathoner | No Limits to Achievements |
-    location: "United States"
-    followers: 11022
-    engagement: 844
-    commentsToLikes: 0.012940
-    id: ckap08ii1p7no0i78nun2z686
-    verified: false
-    hashtags: "#olympian, #running, #pahadirunner, #highaltitude"
+    hashtags: "#yogacommunity, #yogajourney, #yoga, #yogalove"
 ---

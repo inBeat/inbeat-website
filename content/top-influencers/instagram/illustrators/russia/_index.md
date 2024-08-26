@@ -1,11 +1,11 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Russia In 2023
+title: Top 10 Illustrators Instagram Influencers In Russia In 2024
 description: >-
-  Find top illustrators Instagram influencers in Russia in 2023. Most popular hashtags: #sketch #fashionsketch #drawing.
+  Find top illustrators Instagram influencers in Russia in 2024. Most popular hashtags: #drawing #watercolor #fashionillustration.
 platform: Instagram
-hits: 212
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database holds 212 Instagram influencers like this in Russia for you to collaborate.
+hits: 216
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform has 216 Instagram influencers like this in Russia for you to pitch.
 profiles:
   - username: "toianmed"
     fullname: >-
@@ -19,6 +19,42 @@ profiles:
     id: ckap3h05d2z5b0i780lqww0ym
     verified: false
     hashtags: "#fragileworld, #toianmedart, #drawthisinyourstyle, #dtiys"
+  - username: "chaosego"
+    fullname: >-
+      Anastasia Suvorova
+    bio: >-
+      🌜Illustrator🌛 Silent tales about stars, birds and sleepy rivers. 🕊 Represented internationally by Illozoo For commissions, please contact @illozoo
+    location: "Russia"
+    followers: 82245
+    engagement: 447
+    commentsToLikes: 0.005261
+    id: ck6ubdpej8yg30j710szidly4
+    verified: false
+    hashtags: "#folktaleweek, #procreate, #folktaleweek2020, #bestnine2020"
+  - username: "milena.sketchbook"
+    fullname: >-
+      Milena’s Sketchbook
+    bio: >-
+      A sketchbook of what’s going on in the life of a bulgarian designer and illustrator. 🎨 Рисуваме заедно 🍼 Мама отскоро 🍃 Друида на гората
+    location: "Russia"
+    followers: 8250
+    engagement: 418
+    commentsToLikes: 0.014580
+    id: ck9wflvigpfjn0j78fk2jgduh
+    verified: false
+    hashtags: "#mitkins, #tezzaapp, #vscobulgaria, #bulgaria"
+  - username: "diana_kuksa"
+    fullname: >-
+      Diana Kuksa
+    bio: >-
+      🇮🇹 Artist, illustrator, mommy. For any commissions write me on: esrarose11@gmail.com
+    location: "Russia"
+    followers: 39669
+    engagement: 139
+    commentsToLikes: 0.025155
+    id: ckap81bf6me910i78w1o2j6qf
+    verified: false
+    hashtags: "#hautecouture, #instafashion, #girl, #madewithipadpro"
   - username: "smart_elk"
     fullname: >-
       Viktor Miller Gausa
@@ -55,18 +91,6 @@ profiles:
     id: ckaoy2k0sfsiy0i78vpcfxv1z
     verified: false
     hashtags: "#sculpture, #90svintage, #diveintounhiddenimagination, #morticiaaddams"
-  - username: "diana_kuksa"
-    fullname: >-
-      diana kuksa
-    bio: >-
-      Artist, illustrator, mommy. For commission illustrations, portraits etc write me on diana0212@mail.ru
-    location: "Russia"
-    followers: 43546
-    engagement: 159
-    commentsToLikes: 0.026136
-    id: ckap81bf6me910i78w1o2j6qf
-    verified: false
-    hashtags: "#love, #digitalart, #fashionstyle, #derwent"
   - username: "ann.illustrations"
     fullname: >-
       Illustrator 🌙 Иллюстратор
@@ -103,28 +127,4 @@ profiles:
     id: ck13bq8v1wnni0i19004j0wu9
     verified: false
     hashtags: "#illustration, #bookillustration, #christmasvibes, #sketch"
-  - username: "maria_pavlinvtriko"
-    fullname: >-
-      Maria Pavlina
-    bio: >-
-      🔺Graphic&Web Designer, Illustrator 🔺Fond of watercolors, fairytales and children 🔺Available for new projects and commissions ✉️pavlinvtriko@gmail.com
-    location: "Russia"
-    followers: 9249
-    engagement: 832
-    commentsToLikes: 0.064041
-    id: ck0vxj7ugz5kh0i19dbjug605
-    verified: false
-    hashtags: "#quarantine, #friends, #stayhome, #windowview"
-  - username: "astronautbalodis"
-    fullname: >-
-      olga balodis
-    bio: >-
-      ✨DM for purchase and commissions ✨ •illustrator •graphic artist •russian academy of arts •saint petersburg
-    location: "Russia"
-    followers: 7491
-    engagement: 1641
-    commentsToLikes: 0.024592
-    id: ckap4fr7y76m30i78tk3xbsd3
-    verified: false
-    hashtags: "#inktoberrussia2020, #huevember, #inktober2020, #inktober"
 ---

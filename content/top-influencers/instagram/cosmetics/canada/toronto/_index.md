@@ -1,12 +1,24 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Toronto In 2023
+title: Top 10 Cosmetics Instagram Influencers In Toronto In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Toronto in 2023. Most popular hashtags: #makeup #beauty #canada #cosmetics.
+  Find top cosmetics Instagram influencers in Toronto in 2024. Most popular hashtags: #toronto #torontoblogger #skincarecommunity #torontobeauty.
 platform: Instagram
-hits: 7
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database has 7 Instagram influencers like this in Toronto, Canada for you to contact.
+hits: 26
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 26 Instagram influencers like this in Toronto, Canada for you to work with.
 profiles:
+  - username: "jenevoy_"
+    fullname: >-
+      J E N  E V O Y
+    bio: >-
+      Owner of J E M S: @jenevoymakeupstudio Lover of Beauty💄 Wifey to Ryan 👩‍❤️‍👨 Mama to Scottie 👧 I show it all on here & more!💋 📍Toronto, Canada
+    location: "Canada"
+    followers: 19514
+    engagement: 458
+    commentsToLikes: 0.074659
+    id: ck6u3wz0u0d650j71oyoxi4d7
+    verified: false
+    hashtags: "#makeupbrushes, #makeuplover, #instamakeup, #jems"
   - username: "dorkification"
     fullname: >-
       🌸 Kawaii Beauty & Skincare 🌸
@@ -19,112 +31,100 @@ profiles:
     id: ck0w12gk0h8ih0i19xt3cbn0j
     verified: false
     hashtags: "#pinkaesthetics, #skincarecommunity, #kbeautylovers, #newskincare"
-  - username: "jasmineegal"
+  - username: "ajthetechnologist"
     fullname: >-
-      J A S M I N E
+      AJ
     bio: >-
-      🇸🇴 | Toronto ➭ YouTube: Jasmine Egal ➭ TikTok: @jasmine.egal ➭ Management: @socialclimate
+      Lifestyle~Beauty~Foodie Toronto Content Creator Digital Marketing Strategist PR/Collabs💌: technologist.aj@gmail.com
     location: "Canada"
-    followers: 98508
-    engagement: 278
-    commentsToLikes: 0.021825
-    id: ck5bzy44ms23v0i119ljjynun
+    followers: 8709
+    engagement: 482
+    commentsToLikes: 0.198115
+    id: ck55mbg5r3lh60i11t01c2jsx
     verified: false
-    hashtags: "#aquabomb, #sleepwithbelif, #fauxfilter, #iconicxsephora"
-  - username: "hh.hager"
+    hashtags: "#torontolife, #toronto, #torontobeauty, #torontoblogger"
+  - username: "zey.ca"
     fullname: >-
-      Hager Hanawy | Toronto creator
+      ZEYNAB
     bio: >-
-      Fashion / Makeup & lifestyle 💌 hagerhanawy@outlook.com 💌 hager@levenagency.co Tiktok: hagerhanawy (155k+)
+      📍Toronto 🔜 London 🇬🇧 modest fashion, beauty & skincare ✉️ itszeynabm@gmail.com more links ⬇️
     location: "Canada"
-    followers: 37108
-    engagement: 777
-    commentsToLikes: 0.008507
-    id: cl13ex4h0z55j0i23b9m02d4x
+    followers: 8621
+    engagement: 4021
+    commentsToLikes: 0.073859
+    id: cktdxnzxs8n7s0j23s3lxe617
     verified: false
-    hashtags: "#fashionblogger, #explorepage, #pinterest, #torontoblogger"
-  - username: "model_lavin"
+    hashtags: "#torontofashion, #torontoblogger, #modestoutfits, #stylingmodestly"
+  - username: "_skintobeauty"
     fullname: >-
-      Lavin 👑
+      A M R I T A • content creator
     bio: >-
-      Runway Model#tkfw Account active by mom Tiktok 👉🏻 model.lavin New video on YouTube ⤵️
+      📍 Toronto | @_skintobeauty on TikTok (27K+) ❣️ 2023 Sephora Squad 💌 amritabanik318@gmail.com ✨ skin enthusiast, beauty, lifestyle
     location: "Canada"
-    followers: 317682
-    engagement: 269
-    commentsToLikes: 0.019038
-    id: ck6tkxeq45lbl0j71ebqey78f
+    followers: 5374
+    engagement: 942
+    commentsToLikes: 0.160272
+    id: cl430if8ohgsj0i232vzes0c9
     verified: false
-    hashtags: "#patpatshopping, #accessories, #winter, #canada"
-  - username: "cakedupcassie"
+    hashtags: "#browngirlbloggers, #browngirlfriendly, #browngirlmakeup, #grwmmakeup"
+  - username: "maanalchowdhury"
     fullname: >-
-      Cassie Lee
+      Maanal | Toronto Creator
     bio: >-
-      Self taught 🎨 25 years old. Living in colour 🌈 Hamilton, Ontario Canada 🇨🇦 #blacklivesmatter
+      fashion | beauty | lifestyle 📍Toronto 📧 maanalmarketing@gmail.com
     location: "Canada"
-    followers: 9294
-    engagement: 755
-    commentsToLikes: 0.132527
-    id: ck8syubhcm1c70j78trqiwd1d
+    followers: 7864
+    engagement: 1161
+    commentsToLikes: 0.327374
+    id: ckqas7zjykxp30j23w74cxxtc
     verified: false
-    hashtags: "#narsissist, #makeupinspo, #undiscovered, #muamafia"
-  - username: "mcleansy"
+    hashtags: "#torontocreators, #torontoinfluencer, #microinfluencers, #discoverunder10k"
+  - username: "jasminws"
     fullname: >-
-      meg
+      Jasmin Winnie Stephen
     bio: >-
-      ☞ PG13 feed | NC17 stories ☞ offensive by nature with a heart of gold ☞ 🇨🇦 born and raised ☞ hair, fashion, jewelry, comedy
+      📍LA | NYC | TORONTO 📧 angelique@thecanvasagency.com 📧 makeup@jasminws.com
     location: "Canada"
-    followers: 24702
-    engagement: 423
-    commentsToLikes: 0.396831
-    id: ck135rtni2wq30i19cco5eo5a
+    followers: 7660
+    engagement: 385
+    commentsToLikes: 0.141353
+    id: ck5pxfn0arj950i11ab4dnsyu
     verified: false
-    hashtags: "#tattooedwoman, #girlswithglasses, #ontario, #camera"
-  - username: "robena_mua"
+    hashtags: "#180, #nails, #280, #300"
+  - username: "navitaxmakeup"
     fullname: >-
-      𝑅𝑜𝒷𝑒𝓃𝒶 𝓃𝑜𝑜𝓇𝒾 🖤
+      Bridal Makeup & Hair artist 💄
     bio: >-
-      robena.noori@gmail.com _______________________ ➖MAKEUP ARTIST ➖ | @rnmakeupstudio💄
+      Toronto/GTA, available 🌍✈️ Makeup inquiries/PR/Collabs ⤵️ Makeup & hair 1:1 lessons 💄 Navitaxmakeup@gmail.com #Gtamua #torontomua #gtamakeupartist
     location: "Canada"
-    followers: 16477
-    engagement: 202
-    commentsToLikes: 0.050418
-    id: ck14jjkmqkon60i19qc8ud0um
+    followers: 10868
+    engagement: 221
+    commentsToLikes: 0.319862
+    id: ckmw1dr9z6q6r0j23ea08fq37
     verified: false
-    hashtags: "#sephora, #glam, #hudabeauty, #brian"
-  - username: "milanijoymakeup"
+    hashtags: "#weddinghairstyles2021, #bramptonmakeupartist, #sangeetmakeupandhair, #indianweddingmakeuplook"
+  - username: "m1chellek1m"
     fullname: >-
-      MAKEUP ARTIST & EDUCATOR
+      Michelle Kim 🕊️ 김수민
     bio: >-
-      Sydney based• International makeup artist Creator Of Milani Joy Cosmetics•Spray Tan•Education•Mj teeth whitening Bridal & Editorial HMU 🧿
+      📍Toronto ✉️ m1chellek1m@outlook.com (PR) 📸 skincare | beauty | fashion | lifestyle
     location: "Canada"
-    followers: 248141
-    engagement: 51
-    commentsToLikes: 0.032055
-    id: ck15pik8iy29h0i1902dfst0j
+    followers: 9349
+    engagement: 176
+    commentsToLikes: 0.011273
+    id: ckwzuvku2ynxz0j23oaexv0m9
     verified: false
-    hashtags: "#makeupartist, #sydneymakeupartist, #makeup, #milanijoy"
-  - username: "this_is_forty_"
+    hashtags: "#styleinspo, #skincare, #portrait, #beauty"
+  - username: "hellopetitevie"
     fullname: >-
-      Terah
+      E v a n n a + T i n e
     bio: >-
-      ☆ Canadian ☆#Cosmetics and #Skincare NEWS ☆ Curated content ☆ PR/Collabs DM or email ☆ thisisfourtea@gmail.com ☆ #Edmonton #YEG
+      Organized Home, Good Eats and motherhood life. Finding that ⭐️one⭐️ mom friend for life. 4 kids 👧👧👧👦 📍Toronto 🇨🇦 Founders of @petitevie_masks
     location: "Canada"
-    followers: 41522
-    engagement: 58
-    commentsToLikes: 0.060644
-    id: ck0w6ha6f8k4a0i191beb5hbe
+    followers: 12055
+    engagement: 163
+    commentsToLikes: 0.309400
+    id: ckt8qocut686b0j23b862wf8n
     verified: false
-    hashtags: "#makeup, #blush, #glow, #beauty"
-  - username: "hoitattoo"
-    fullname: >-
-      HOI
-    bio: >-
-      HOIKwan|International Artist & Educator Cosmetic Tattoo Artists, Beauty Experts 🔴Nano MASTERY🖥Nano with Confidence 👊🏻Your NEXT LEVEL PMU Training🎓👇🏼
-    location: "Canada"
-    followers: 32620
-    engagement: 105
-    commentsToLikes: 0.671537
-    id: ck6ub18r16vq30j716ixdfogp
-    verified: false
-    hashtags: "#nanomastery, #singleneedletattoo, #nano, #basixgang"
+    hashtags: "#torontomom, #explorepage, #vaughan, #momlife"
 ---

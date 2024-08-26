@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Osaka In 2023
+title: Top 10 Fashion Instagram Influencers In Osaka In 2024
 description: >-
-  Find top fashion Instagram influencers in Osaka in 2023. Most popular hashtags: #fashion #pr #ootd #instagood.
+  Find top fashion Instagram influencers in Osaka in 2024. Most popular hashtags: #fashion #instagood #ootd #pr.
 platform: Instagram
 hits: 79
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 79 Instagram influencers like this in Osaka, Japan for you to collaborate.
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 79 Instagram influencers like this in Osaka, Japan for you to collaborate.
 profiles:
   - username: "_miuinoue_"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ckaouzeeo2gpf0i78dy1shnsw
     verified: false
     hashtags: "#paraboot, #lenoandco, #m65, #zozotown"
+  - username: "rion_nakamura89"
+    fullname: >-
+      中村りおん(りぃたむ) RionNakamura
+    bio: >-
+      2002.0929 21歳 nuts専属モデル ・ お仕事のご依頼はメールにお願いします！
+    location: "Japan"
+    followers: 95814
+    engagement: 102
+    commentsToLikes: 0.011120
+    id: ck5zvf2vf44590i14qv7ovf40
+    verified: false
+    hashtags: "#instagood, #nuts, #ootd, #kawaii"
   - username: "nyanchutagram9"
     fullname: >-
       Mizuki‪(*˙˘˙*)❥❥
@@ -55,18 +67,6 @@ profiles:
     id: ckf5lv9ahr5uh0j23gmvkz3ca
     verified: false
     hashtags: "#code, #zara, #pr, #babyboy"
-  - username: "sealbank"
-    fullname: >-
-      金セアル KIM SEAL 김새알
-    bio: >-
-      JPN/OSAKA⇆TOKYO fashion magazine writer/public relations。”새알”은 "새로운 것을 낳는 알" 라는 뜻。”セアル”は、”新しいことを生み出す卵”という意味。セアルちゃん。
-    location: "Japan"
-    followers: 33745
-    engagement: 219
-    commentsToLikes: 0.010755
-    id: ck55m6is93bx60i11rgtz1w1s
-    verified: false
-    hashtags: "#louisvuitton, #fondationlouisvuitton, #taizokuroda, #ring"
   - username: "bes1983"
     fullname: >-
       BES  （ベス）歌手

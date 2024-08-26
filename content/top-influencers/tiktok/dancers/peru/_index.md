@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Peru In 2023
+title: Top 10 Dancers TikTok Influencers In Peru In 2024
 description: >-
-  Find top dancers TikTok influencers in Peru in 2023. Most popular hashtags: #fyp #parati #peru #dance.
+  Find top dancers TikTok influencers in Peru in 2024. Most popular hashtags: #fyp #parati #peru #dance.
 platform: TikTok
 hits: 19
 text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat has 19 TikTok influencers like this in Peru for you to work with.
+text_bottom: Our platform aggregates 19 TikTok influencers like this in Peru for you to pitch.
 profiles:
   - username: "jhonmcg1"
     fullname: >-

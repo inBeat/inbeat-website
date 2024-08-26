@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Toronto In 2023
+title: Top 10 Athletes Instagram Influencers In Toronto In 2024
 description: >-
-  Find top athletes Instagram influencers in Toronto in 2023. Most popular hashtags: #athlete #fitness #bodybuilding #aesthetics.
+  Find top athletes Instagram influencers in Toronto in 2024. Most popular hashtags: #toronto #canada #fitnessmotivation #workout.
 platform: Instagram
-hits: 17
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 17 Instagram influencers like this in Toronto, Canada for you to collaborate.
+hits: 27
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 27 Instagram influencers like this in Toronto, Canada for you to contact.
 profiles:
   - username: "jaydennelsonn"
     fullname: >-
@@ -19,6 +19,30 @@ profiles:
     id: ck8t01w2eqjvs0j78jy54w7mz
     verified: true
     hashtags: "#stayathomechallenge, #year1, #humblebeast, #blacklivesmatter"
+  - username: "thatshitkraay"
+    fullname: >-
+      Ashley Nicole Kraayeveld🇳🇱🇧🇧
+    bio: >-
+      Team Canada | Taekwondo🇨🇦 Pan American Champion🥇🥇🥉🥉 World Military Champion🥇🥉 Canadian Armed Forces⚔️ Registered Nurse🩺 Stuntwoman🎬 Toronto📍
+    location: "Canada"
+    followers: 5551
+    engagement: 660
+    commentsToLikes: 0.063403
+    id: ck14j5kjeiqpw0i19aw2frgxz
+    verified: false
+    hashtags: "#toronto, #repost, #stunts, #tgif"
+  - username: "elitedanceworx"
+    fullname: >-
+      Elite Danceworx
+    bio: >-
+      Markham's Best Dance School- ages 2& up. General Level & Professional level programs. SIGN UP FOR SUMMER CAMPS, INTENSIVES & FALL GENERAL CLASSES ⬇️
+    location: "Canada"
+    followers: 17659
+    engagement: 166
+    commentsToLikes: 0.047543
+    id: ck0txim2djak90i19zjljmt3i
+    verified: false
+    hashtags: "#danceontario, #danceisessential, #danceisnecessary, #dancesafeontario"
   - username: "shreddedd_chicken"
     fullname: >-
       Ron Lee Fitness
@@ -31,100 +55,76 @@ profiles:
     id: ck8tch1onzg4v0j78ekev62jl
     verified: false
     hashtags: "#dietplan, #aesthetic, #aesthetics, #workoutmotivation"
-  - username: "elitedanceworx"
+  - username: "coach_leeannaosei"
     fullname: >-
-      Elite Danceworx
+      Lee Anna Osei
     bio: >-
-      VOTED #1 Dance Studio in Markham Classes for Boys and Girls ages 2+. Register for our upcoming classes below! ⬇️
+      Head Coach @stfx_wbb 🏀 Founder of @canletes_sports @bcc_association. ✝️Love & Basketball 🇬🇭 🇨🇦
     location: "Canada"
-    followers: 18245
-    engagement: 150
-    commentsToLikes: 0.022531
-    id: ck0txim2djak90i19zjljmt3i
+    followers: 3188
+    engagement: 1062
+    commentsToLikes: 0.079157
+    id: ck5q746vlzxc90i11ysk33sr8
     verified: false
-    hashtags: "#worldballetday, #letustrain, #istandwithdancestudios, #letusdance"
-  - username: "minaj.mp"
+    hashtags: "#blacklivesmatter, #canada, #equality, #basketball"
+  - username: "trinity_fatu"
     fullname: >-
-      ♏️inajmp💮
+      KNOCKOUTS WORLD CHAMPION
     bio: >-
-      Fashion Stylist~Model~Beauty pro~ Miss face of humanity 2021👑 I can’t teach anybody anything,I can only make them think.♻️👩‍❤️‍💋‍👨🇨🇦 @unik.models
+      🤼‍♀️ @impactwrestling 💍 @jonathanfatu 🐶 @tankandmarleyfatu 📺 catch me THURSDAYS at 8/7c on @axstv @fightnet & Impact Insiders on YouTube
     location: "Canada"
-    followers: 81514
-    engagement: 267
-    commentsToLikes: 0.055639
-    id: ckaotndqcwn0x0i78myma80eh
-    verified: false
-    hashtags: "#fashionshow, #beautiful, #artoftheday, #outfitinspiration"
-  - username: "thatshitkraay"
-    fullname: >-
-      Ashley Nicole Kraayeveld🇳🇱🇧🇧
-    bio: >-
-      Team Canada | Taekwondo🇨🇦 Pan American Champion🥇🥇🥉🥉 World Military Champion🥇🥉 Canadian Armed Forces⚔️ Registered Nurse🩺 Stuntwoman🎬 Toronto📍
-    location: "Canada"
-    followers: 5551
-    engagement: 660
-    commentsToLikes: 0.063403
-    id: ck14j5kjeiqpw0i19aw2frgxz
-    verified: false
-    hashtags: "#repost, #tgif, #toronto, #taekwondo"
-  - username: "julianyeeee"
-    fullname: >-
-      Julian Yee 茹自杰
-    bio: >-
-      Julian Yee 🇲🇾 2018 Winter Olympian Gangwon Tourism Ambassador •Edea •MKBlades • Uniqlo 📍Toronto/KL
-    location: "Canada"
-    followers: 51546
-    engagement: 633
-    commentsToLikes: 0.004741
-    id: ck0ubg503ej8s0i19an3no768
+    followers: 3074620
+    engagement: 59
+    commentsToLikes: 0.010117
+    id: ck55p1drb9lxr0i11b2gral49
     verified: true
-    hashtags: "#iceskating, #sports, #athlete, #figureskating"
-  - username: "vancouversveryown"
+    hashtags: "#repost, #emergence, #impactwrestling, #knockouts"
+  - username: "cammyfranny"
     fullname: >-
-      Brandon Nair | DJ Nizzy 🇫🇯🌺
+      Cam F
     bio: >-
-      🏋🏽‍♀️Athlete @aviiti.inc “NAIR10” 🏋🏽‍♀️Athlete @popeyessupplements 👕Ambassador @_lyftlyfe “NAIR10” ⚽️Team BC Athlete 💪🏽Personal Trainer 🎧DJ
+      🏳️‍🌈 GAY AF 📍 Toronto 🚨 Barry’s Senior Instructor + Talent Schedule Manager 💪🏻 Personal Trainer
     location: "Canada"
-    followers: 7165
-    engagement: 736
-    commentsToLikes: 0.068972
-    id: ck13b1trvt9wo0i19cb8j91bu
+    followers: 15549
+    engagement: 482
+    commentsToLikes: 0.050113
+    id: ck6ufm8lcxw8q0j71bvxn4nd8
     verified: false
-    hashtags: "#exercise, #fitnessmotivation, #getfit, #health"
-  - username: "jasmincullgolf"
+    hashtags: "#gayman, #gaymuscles, #marketdays, #motivation"
+  - username: "helia_jalilnezhad"
     fullname: >-
-      Jasmin Cull | PGA Tour Driven
+      Helia Jalilnezhad
     bio: >-
-      🏌️| Follow my journey to the PGA Tour ⛳️| Tips and techniques, let’s learn together 🇨🇦| Former Pro Volleyball 📍| Toronto, On 📧| For partnership
+      Entrepreneur | Author | Travel Blogger | Influencer | Women Empowerment | Athlete | Pro Dancer | Vegan 🌎 YouTube Channel 👇🏼❣️
     location: "Canada"
-    followers: 11452
-    engagement: 707
-    commentsToLikes: 0.069949
-    id: ck6ui4hncd0in0j71taxyr0mw
+    followers: 1052451
+    engagement: 301
+    commentsToLikes: 0.055492
+    id: ck5hr8h4aug2v0i118wyzkfvb
     verified: false
-    hashtags: "#golfpro, #golfswag, #golfaddict, #pga"
-  - username: "taylorxcross"
+    hashtags: "#influencer, #helia, #model, #style"
+  - username: "mohsenmirii"
     fullname: >-
-      Taylor Cross
+      Mohsen Miri
     bio: >-
-      🇨🇦 Canada. 🥇 Classic Physique 🥦 @hd.muscle Athlete code: CROSS 🏊🏼‍♂️ Commercial Diver/ Underwater Welder 👨‍🏭
+      Founder,Chairman & CEO @miriclub.vipfitness 🇨🇦 Over 20,000 athletes with Mohsen Miri achieved goals, including 100+🥇🥈🥉world medals. 🌎online coach👇🏼
     location: "Canada"
-    followers: 16398
-    engagement: 206
-    commentsToLikes: 0.110018
-    id: ck8syvtfdm7ft0j78ugrn2b83
+    followers: 209215
+    engagement: 291
+    commentsToLikes: 0.107293
+    id: ck5hjo6hggz050i11orv1ow98
     verified: false
-    hashtags: ""
-  - username: "eliastheodorou"
+    hashtags: "#tehranto, #exercise, #teammiri, #iran"
+  - username: "azfitness_alizolfi"
     fullname: >-
-      Elias Theodorou
+      Alizolfi
     bio: >-
-      🇨🇦 | MMA Athlete #TheManeEvent 💨 | 1st sanctioned cannabis athlete 🥊 | Athlete, advocate, actor, poker pro + more ♠️ | All-in with @ggpokerofficial
+      🇮🇷🇨🇦مربى بدنسازى Canada IFBB pro qualifier champ North America NPC qualifier 👨🏻‍🎓Canadian Fitness diploma 📝Online Coaching @hammerfitness athlete
     location: "Canada"
-    followers: 141622
-    engagement: 133
-    commentsToLikes: 0.060726
-    id: ck5c48jbw0tlw0i11jqib1h9t
-    verified: true
-    hashtags: "#poker, #bro, #athlete, #letsgochamp"
+    followers: 20104
+    engagement: 44
+    commentsToLikes: 0.000000
+    id: ckf5nnrmyywli0j23gid2owm4
+    verified: false
+    hashtags: "#diet, #motivation, #azfit, #hardwork"
 ---

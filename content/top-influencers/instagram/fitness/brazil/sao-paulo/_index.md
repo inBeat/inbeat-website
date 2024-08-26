@@ -1,24 +1,36 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Sao Paulo In 2023
+title: Top 10 Fitness Instagram Influencers In Sao Paulo In 2024
 description: >-
-  Find top fitness Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #fitness #saopaulo #brasil #academia.
+  Find top fitness Instagram influencers in Sao Paulo in 2024. Most popular hashtags: #fitness #academia #saopaulo #fitnessmotivation.
 platform: Instagram
-hits: 230
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 230 Instagram influencers like this in Sao Paulo, Brazil for you to connect with.
+hits: 246
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 246 Instagram influencers like this in Sao Paulo, Brazil for you to connect with.
 profiles:
-  - username: "ana_mamakin"
+  - username: "meuapee.403"
     fullname: >-
-      Ana Mamakin
+      MEUAPEE.403  | POR DENISE LUNA ✨
     bio: >-
-      Curitiba/Campo Largo/Ex-obesa/Viciada em Rock/ Apaixonada por esportes/Franqueada @influxbr / Psicóloga/ ✨
+      🔓Descomplico o cuidado com seu lar (e com você! 💕) Dicas • Casa • Decoração • LifeStyle • Receitas • Looks • Fitness São Paulo | SP 📍
     location: "Brazil"
-    followers: 27278
-    engagement: 62
-    commentsToLikes: 0.041124
-    id: ck8t3wis64qxn0j78a9mubhyp
+    followers: 100978
+    engagement: 77
+    commentsToLikes: 0.059668
+    id: ck9we7wi0j1h70j787wy7mt32
     verified: false
-    hashtags: "#curitiba, #curitibanas, #brasil, #curitibacool"
+    hashtags: "#camaposta, #aptodecorado, #quarto, #camapostacomamor"
+  - username: "jojosouzaoficial"
+    fullname: >-
+      Joana Gabriela de Souza
+    bio: >-
+      🏳️‍⚧️ Transgirl | Influenciadora | Modelo fotográfica. Emagrecimento | treinos | vida real. 📍 São Pedro | Piracicaba. 📲 FALE COMIGO 👇🏻
+    location: "Brazil"
+    followers: 38576
+    engagement: 587
+    commentsToLikes: 2.080972
+    id: ckf5l1vhfo2ik0j23hg7za7xc
+    verified: false
+    hashtags: "#explorar, #fy, #viral, #trans"
   - username: "raayssaluna"
     fullname: >-
       Rayssa Luna 🇧🇷
@@ -79,6 +91,18 @@ profiles:
     id: ckapartnox8930i78t5djeimd
     verified: false
     hashtags: "#praia, #brasil, #daylight, #verao"
+  - username: "viviaiellob"
+    fullname: >-
+      Vivian Aiello Bomfim
+    bio: >-
+      Lifestyle | Fitness | Family | Athlete 📍São Paulo
+    location: "Brazil"
+    followers: 47867
+    engagement: 50
+    commentsToLikes: 0.015498
+    id: ck5c98vp4azux0i11agt9gjcm
+    verified: false
+    hashtags: "#italy, #vacation, #roma, #upperlovers"
   - username: "cadubarretobr"
     fullname: >-
       Cadu Barreto
@@ -103,28 +127,4 @@ profiles:
     id: ck5q5j47tt46d0i11f4xbfa8d
     verified: true
     hashtags: "#fitnessmotivation, #carnaval, #lescinqgym, #workout"
-  - username: "bfaulin"
-    fullname: >-
-      Bruno Faulin
-    bio: >-
-      📍 São Paulo - SP 🍿 Apaixonado pelo mundo do #Entretenimento! 🎬 Comunicólogo pós graduado em #Cinema 📫 bfaulin@gmail.com Meu canal no Youtube! ⤵️
-    location: "Brazil"
-    followers: 22924
-    engagement: 236
-    commentsToLikes: 0.100208
-    id: ck15pircfy39q0i199gpozacp
-    verified: false
-    hashtags: "#brunofaulin, #ccxpworlds, #geekbrasil, #netflixbrasil"
-  - username: "saritalazzarini"
-    fullname: >-
-      Sarita Lazzarini
-    bio: >-
-      📍São Paulo ✨Healthy Lifestyle 🌸 Welcome 🌸
-    location: "Brazil"
-    followers: 41257
-    engagement: 248
-    commentsToLikes: 0.039874
-    id: ckap77eqpixza0i780ph5iy60
-    verified: false
-    hashtags: "#doglovers, #publi, #dogsofinstagram, #americanbully"
 ---

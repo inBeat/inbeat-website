@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Chicago In 2023
+title: Top 10 Gaming Instagram Influencers In Chicago In 2024
 description: >-
-  Find top gaming Instagram influencers in Chicago in 2023. Most popular hashtags: #gaming #chicago #gamer #fashion.
+  Find top gaming Instagram influencers in Chicago in 2024. Most popular hashtags: #gaming #chicago #nike #gamer.
 platform: Instagram
-hits: 23
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 23 Instagram influencers like this in Chicago, United States for you to contact.
+hits: 26
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 26 Instagram influencers like this in Chicago, United States for you to contact.
 profiles:
   - username: "monyettc"
     fullname: >-
@@ -19,30 +19,30 @@ profiles:
     id: ck9wi0f980a320j78d8nh4233
     verified: false
     hashtags: "#makethefirstmove, #bumblepartner"
-  - username: "annjelife"
+  - username: "johnnyhochstetler"
     fullname: >-
-      Annjela
+      Johnny Hochstetler / JHawk
     bio: >-
-      Call me Annj 💚 Cosplay | Fashion | Travel 📍Las Vegas, NV 📨 business@eminencemanagement.co ⬇️PO Box + Social Medias
+      ⚡️ @ghostlifestyle Content Director 📸 YouTuber | 🧪 @labculture.co ⬇️ Lr Presets | Overlay pack | New YouTube vid ⬇️
     location: "United States"
-    followers: 75081
-    engagement: 486
-    commentsToLikes: 0.018997
-    id: ck6u2uqb0u1120j711fjhr3jy
+    followers: 136091
+    engagement: 237
+    commentsToLikes: 0.054242
+    id: cl0l2aoxtmehc0i23qrhmp7ho
     verified: false
-    hashtags: "#california, #cali, #asian, #blondegirl"
-  - username: "byrdmena"
+    hashtags: "#logitech, #stayfocused, #homeoffice, #contentcreation"
+  - username: "iambyroncowart"
     fullname: >-
-      SharpFade 🇻🇪
+      Byron Cowart
     bio: >-
-      🚀Founder @Sharpfade | Retired 💈 💈Co-Founder @Riseofhair | 🌎 25+ Countries 🧠Global Creative Consultant @wahlpro 📱@BooksyBIZ Partner 🎙 INTL Host
+      God First. The Greats Figure It Out .
     location: "United States"
-    followers: 71554
-    engagement: 200
-    commentsToLikes: 0.080107
-    id: ck0w55fgj1zih0i19h3iwjsra
-    verified: false
-    hashtags: "#moda, #style, #barber, #wahl"
+    followers: 35057
+    engagement: 102
+    commentsToLikes: 0.047579
+    id: ck0ttfz3r2jst0i196atate6t
+    verified: true
+    hashtags: "#fashion, #nfl, #vibes, #contentcreator"
   - username: "ddklineking"
     fullname: >-
       Marlon Grennan 🇯🇲🇺🇸
@@ -55,6 +55,18 @@ profiles:
     id: ck14kbl2kopln0i19fwghbq4r
     verified: false
     hashtags: "#ddklinenation, #protectthefamily, #dontwantnosmoke, #snipergamestrong"
+  - username: "uzileks"
+    fullname: >-
+      uzi ᡣ𐭩
+    bio: >-
+      chicago based cosplayer 🇲🇽 next con - ComboBreaker, DokiDokon email for business inquiries uzilekss@gmail.com !
+    location: "United States"
+    followers: 144842
+    engagement: 429
+    commentsToLikes: 0.001359
+    id: ck15r815g6lwm0i19rbbjzida
+    verified: false
+    hashtags: "#manga, #hololive, #pekoracosplay, #animecosplay"
   - username: "engineeringinheels"
     fullname: >-
       Mara Winter
@@ -91,6 +103,18 @@ profiles:
     id: ck9hbhi6dgutm0j78d28wdj96
     verified: false
     hashtags: "#2kshoes, #la, #moddingcommunity, #lakergang"
+  - username: "tslayz"
+    fullname: >-
+      Taylor Jordn
+    bio: >-
+      Techno DJ • Streamer 📍Detroit // LA 🎧@taylorjordndj 💌 contact@tslayz.com
+    location: "United States"
+    followers: 71269
+    engagement: 150
+    commentsToLikes: 0.059161
+    id: cl85t9p681ruq0i23i6qy5v6w
+    verified: false
+    hashtags: "#detroittechno, #streamer, #chicago, #technomusic"
   - username: "spidagrfx"
     fullname: >-
       Micah Sheets  //  12K
@@ -102,29 +126,5 @@ profiles:
     commentsToLikes: 0.025832
     id: ckap0e728pw0q0i784sxvno26
     verified: false
-    hashtags: "#jukes, #jerseyswap, #espn, #titans"
-  - username: "real_dave_brown"
-    fullname: >-
-      
-    bio: >-
-      🇦🇺
-    location: "United States"
-    followers: 6890
-    engagement: 665
-    commentsToLikes: 0.125320
-    id: ck5znxbx7pbsu0i14b47izg80
-    verified: false
-    hashtags: "#retrogaming, #game, #videogames, #collection"
-  - username: "chefcharleswebb"
-    fullname: >-
-      CHARLES WEBB
-    bio: >-
-      🎥#CHEFONTOUR 🧿Lifestyle 👨🏼‍🍳Culinary ✈️Travel ♻️Sustainability 🖼Street Art 🦋Social/ Nonprofit 🏳️‍🌈LGBTQ 🍁Cannabis
-    location: "United States"
-    followers: 46945
-    engagement: 360
-    commentsToLikes: 0.011757
-    id: ck14kdtjop1bu0i19gxq733nz
-    verified: false
-    hashtags: "#lgbtq, #chefontour, #tech, #sustainability"
+    hashtags: "#sportsart, #hype, #fallguys, #graphicdesign"
 ---

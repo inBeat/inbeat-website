@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Singapore In 2023
+title: Top 10 Lifestyle Instagram Influencers In Singapore In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Singapore in 2023. Most popular hashtags: #sp #partipost #sgcontest.
+  Find top lifestyle Instagram influencers in Singapore in 2024. Most popular hashtags: #sp #sgbeauty #partipost #sgfood.
 platform: Instagram
-hits: 28
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 28 Instagram influencers like this in Singapore for you to work with.
+hits: 77
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database has 77 Instagram influencers like this in Singapore for you to pitch.
 profiles:
-  - username: "whathebronte"
+  - username: "peroro_"
     fullname: >-
-      Danil Palma
+      ⋆·˚ ༘ * Persie Y  ੈ✩‧₊˚
     bio: >-
-      ✖️ Lifestyle | Travel | Fitness 📍 Singapore ✉️ contact@danilpalma.com
+      ♡ Lifestyle, Health,Motherhood,Food,Beauty,Fashion ҉ therealpersie@gmail.com ＊*✩˚ interior designer ✩ boy mum @bbbhung_ ☽ SG ˚｡⋆
     location: "Singapore"
-    followers: 78810
-    engagement: 326
-    commentsToLikes: 0.011725
-    id: ck5hdxfebpvl90i11tbrvfx1s
+    followers: 19155
+    engagement: 441
+    commentsToLikes: 0.072755
+    id: clm70aj3igdys0j08urosqknx
     verified: false
-    hashtags: "#uipsingapore, #halloween, #halloweenmakeup, #airnzbungychallenge"
-  - username: "lihuijapanlove"
+    hashtags: "#newborn, #thingstodo, #baby, #sp"
+  - username: "jessluvzs"
     fullname: >-
-      Lihui利慧| Singapore新加坡🇸🇬
+      𝒥𝑒𝓈𝓈𝒾𝒸𝒶 𝐿𝑒𝑒
     bio: >-
-      Food | Fashion | Beauty | Lifestyle 🏅Top 100 SG Lifestyle Blogger Founder of @creativeinfluencermedia 📩Collab/工作/代言: lihuijapanlove@gmail.com
+      SG Lifestyle | Food | Fashion | Travel ✈️🇹🇭🇹🇷🇨🇳 💜YouTrip Ambassador <JESSL5> 💗Bioderma Creator 💙#joashloon #jonasloon Skaterboys
     location: "Singapore"
-    followers: 41454
-    engagement: 208
-    commentsToLikes: 0.075530
-    id: ckaotr1v0x4230i78w5diw0tm
+    followers: 11350
+    engagement: 587
+    commentsToLikes: 0.229463
+    id: clm70ak0kgeu50j08pov34h6m
     verified: false
-    hashtags: "#kbeauty, #koreanbeauty, #atomekittens, #tmgmgroup"
-  - username: "supermyca"
+    hashtags: "#whati8todaysg, #sgfood, #jessicaloon, #sglifestyle"
+  - username: "pegzohpegz"
     fullname: >-
-      SuperMyca
+      Peggy 🇸🇬 Content / UGC.sg Creator
     bio: >-
-      Certified Yoga Teacher Certified Active Lifestyle Motivation Coach @camphealthstyle Discount Codes, Classes and Links👇🏼
+      ✨ Lifestyle | Parenting | Food | Beauty | Home 📍 Singapore
     location: "Singapore"
-    followers: 24016
-    engagement: 184
-    commentsToLikes: 0.077999
-    id: ck6tihorg0qjy0j71x6pj9bke
+    followers: 9049
+    engagement: 554
+    commentsToLikes: 0.051523
+    id: clmumxih3lc3k0j0879lm2o6u
     verified: false
-    hashtags: "#yogaeverywhere, #thelunaryogis, #igyoga, #yogawithprops"
-  - username: "awansauce"
+    hashtags: "#sgfaves, #sp, #partipost, #mazesoba"
+  - username: "euyos"
     fullname: >-
-      Alan Wan 溫家偉
+      janelle
     bio: >-
-      Lifestyle | Food lover | Coffee enthusiast. ￼ 📍SG / HK Represented by @flyentertains
+      ☁️ lifestyle & journals, sg 🤍 tiktok - @/jaaanelleeeee 85k ♡ ✉️ email for business collabs! @s0ym1lks
     location: "Singapore"
-    followers: 81692
-    engagement: 255
-    commentsToLikes: 0.020902
-    id: ck5zveeg642tb0i14awwh1v4r
-    verified: true
-    hashtags: "#burgerlover, #mcgriddle, #airdancer, #ndp2021"
-  - username: "cpoyee"
-    fullname: >-
-      Poyee C | Content Creator
-    bio: >-
-      Rhea ▫️🇭🇰Hong Kong•Lifestyle•Travel ▫️Contact: Click the email button or by dm♥️ ▫️Creator of @Girlab.hk - ⇩NEW VIDEO☀️成為內容創作者後的6個小改變！⇩
-    location: "Singapore"
-    followers: 19692
-    engagement: 304
-    commentsToLikes: 0.040775
-    id: ckaozf9h0lmlf0i78hys4dhue
+    followers: 134447
+    engagement: 921
+    commentsToLikes: 0.006109
+    id: clnrydlnueu3z0j08hus8kvg3
     verified: false
-    hashtags: "#lovebonito, #hongkong, #poyeeslifestyle, #poyeeinhongkong"
-  - username: "dianabakar_"
+    hashtags: "#desksetup, #studying, #goldenhour, #deskspace"
+  - username: "naploes"
     fullname: >-
-      Diana Bakar ♥️
+      natalie ꒰ •ᴗ•｡꒱
     bio: >-
-      Gaming, entrepreneur, lifestyle 24 , SG 🇸🇬 💐My flower shop: @33petals.co 💼Managed by: @titandigitalmedia ,@crayeightstudios
+      📍 Singapore 🎬 Beauty, Fashion & Lifestyle on the clock app [77k] 💌 natalienaploes@gmail.com
     location: "Singapore"
-    followers: 52835
-    engagement: 507
-    commentsToLikes: 0.009275
-    id: ck5hjwzarhe8s0i11z0p32lw6
+    followers: 11684
+    engagement: 10034
+    commentsToLikes: 0.002207
+    id: clmumxdk2l7tv0j086e1fgh67
     verified: false
-    hashtags: "#proudmum, #asussg, #intel, #zenbook"
-  - username: "clairejedrek"
+    hashtags: "#singapore, #travel, #explore, #reels"
+  - username: "crysta.bel"
     fullname: >-
-      Presenter /  Media
+      Crystabel Tan
     bio: >-
-      PRESENTER| Motorsport | Lifestyle British SG Race Driver Co- owner: TheFilmDispensary Former owner The Karting Arena Clairejedrek@gmail.com
+      ✨˚ Makeup ✧ Fashion ✧ Lifestyle ˚✨ 🌷Tiktok [820k] @ crystabel_ 🎀 M-20.4 @berrybel__ My Socials! ⬇️
     location: "Singapore"
-    followers: 26977
-    engagement: 185
-    commentsToLikes: 0.025697
-    id: ck6tynwvm4ty70j71132n77iy
+    followers: 116884
+    engagement: 1269
+    commentsToLikes: 0.007653
+    id: ck5qcivjuqsrm0i11oniljb3b
     verified: false
-    hashtags: "#saferinternetday2021, #singapore, #olitylertan, #justassforit"
-  - username: "rachelwongggg"
+    hashtags: "#msi, #gaming, #laptop, #cyborg15"
+  - username: "hello.jklm"
     fullname: >-
-      Rachel Wong
+      Karen Ng  SG Mom. Play. Cook.
     bio: >-
-      💜 BEAUTY . FITNESS . LIFESTYLE . DOGS 🐾 〰️ Host | Livestream ✉️ rachelwongg@hotmail.com
+      Mom of 11Y 👧🏻 & 6Y 👧🏻 Parenting | Food | Lifestyle | Travel
     location: "Singapore"
-    followers: 41430
-    engagement: 224
-    commentsToLikes: 0.017592
-    id: ck5zvedfd42qt0i140vr1e7tp
+    followers: 12169
+    engagement: 385
+    commentsToLikes: 0.039279
+    id: ckaoxf9rvd0gw0i78m54s1jqx
     verified: false
-    hashtags: "#sato, #johnfriedasg, #hairmeout, #folligrow"
-  - username: "william82sg"
+    hashtags: "#sgfoodtrend, #sgigfood, #sgfoodlover, #sp"
+  - username: "g.ella__"
     fullname: >-
-      William Tan 陈家辉 (SG)
+      GRACE MICHELLA | SG ♛
     bio: >-
-      Lifestyle+Travel Founder @discoverfoodsg @dazzlingrosessg 💇️ @blackhairsalon Quote William 10-15%OFF ✉️william82sg@hotmail.com
+      beauty & lifestyle 🐚 ☾ *･゜ﾟ ♡: brand ambassador @sigiskin @93lashlounge ♡: gtoh1811@gmail.com for work ♡: codes & links ⬇️
     location: "Singapore"
-    followers: 32554
-    engagement: 184
-    commentsToLikes: 0.058653
-    id: ck0w5dmug34iv0i19paasgbju
+    followers: 10736
+    engagement: 343
+    commentsToLikes: 0.204195
+    id: clmumxfbhl9ce0j08iettdmbh
     verified: false
-    hashtags: "#sp, #contestsg, #sgcontest, #primataste"
-  - username: "sodapopp"
+    hashtags: "#sgrenovationideas, #hangzhou, #niveasg, #livingforestglobal"
+  - username: "serenefoodology"
     fullname: >-
-      j a n 🌹
+      SG Foodie Lifestyle Cook
     bio: >-
-      SG // Mummy to #JanNicJunior ✨Fashion Beauty Lifestyle✨ 💇‍♀️ @chezvoushair 👀 @kiramesg
+      Food♡ Homecooking♡ Lifestyle♡ Fitness♡ Travel Tiktok:Serenefoodology 小红书:新加坡探店Serene #serenefoodologyrecipe #serenefoodologyhomecooking
     location: "Singapore"
-    followers: 20408
-    engagement: 212
-    commentsToLikes: 0.086330
-    id: ck15uiz6sneol0i19ba9g5cnf
+    followers: 15027
+    engagement: 300
+    commentsToLikes: 0.119124
+    id: clmumxhoalbey0j08bjb4y2kz
     verified: false
-    hashtags: "#beautyblogger, #jannicjunior, #shopperboard, #lechicsg"
+    hashtags: "#beautyblog, #sgbeauty, #beautysg, #asianbeauty"
+  - username: "jo_keting"
+    fullname: >-
+      Joann Keting
+    bio: >-
+      Klook 5%-JOANN5OFF Beauty|Lifestyle|Food & Google Reviewer lvl 6 DM for collabs🇸🇬 Photographer wanna be Undomesticated series #thebakkwagirl fragrance
+    location: "Singapore"
+    followers: 10525
+    engagement: 287
+    commentsToLikes: 0.075145
+    id: clm70akrjgfiy0j087ya6r3pe
+    verified: false
+    hashtags: "#sgbeautybloggers, #newyorkskinsolutions, #sgkols, #sgfood"
 ---

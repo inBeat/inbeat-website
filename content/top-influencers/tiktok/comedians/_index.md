@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In 2023
+title: Top 10 Comedians TikTok Influencers In 2024
 description: >-
-  Find top comedians TikTok influencers in 2023. Most popular hashtags: #foryou #fyp #comedy #foryoupage.
+  Find top comedians TikTok influencers in 2024. Most popular hashtags: #comedy #foryou #fyp #foryoupage.
 platform: TikTok
-hits: 6433
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 6433 TikTok influencers like this for you to connect with.
+hits: 6448
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 6448 TikTok influencers like this for you to pitch.
 profiles:
   - username: "kevinjamesofficial"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.011954
     id: ck8qkrmgyikvf0j78910agtqz
     verified: true
-    hashtags: "#foryou, #hubiehalloween, #soundguy, #fyp"
+    hashtags: "#fyp, #foryou, #fypage, #hubiehalloween"
   - username: "yam.neupane"
     fullname: >-
       Comedian
@@ -79,6 +79,18 @@ profiles:
     id: ckb9pzor4llh40j23884w2ipb
     verified: false
     hashtags: "#foryoupage, #chameleon, #chameleons, #fypage"
+  - username: "max_devlin"
+    fullname: >-
+      Max Devlin & Co.
+    bio: >-
+      MDNN Puppeteer Hyperoaster Singer/Comedian Random dude on TT
+    location: "United States"
+    followers: 55300
+    engagement: 2412
+    commentsToLikes: 0.169281
+    id: ck963nevivld40j788jn9dxbq
+    verified: false
+    hashtags: "#gravers, #duet, #funny, #stitch"
   - username: "socialmedianews74"
     fullname: >-
       SMN74
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.022426
     id: ck9e0flve5u4m0j78hflwv6xu
     verified: false
-    hashtags: "#laugh, #fyp, #comedy, #jokes"
-  - username: "monnacomedy"
-    fullname: >-
-      Monna Comedy
-    bio: >-
-      stand up comedian boohoos = hahas Snag your Coldest Water Bottle here! 👇🏻
-    location: "United States"
-    followers: 112700
-    engagement: 1244
-    commentsToLikes: 0.051391
-    id: ckbfen8np8t720j239m2yijim
-    verified: false
-    hashtags: "#thecoldestwater, #girlsofthecoldest, #foryou, #storytime"
+    hashtags: "#questions, #fyp, #laugh, #nathanhurdcomedy"
 ---

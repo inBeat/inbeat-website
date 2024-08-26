@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Denver In 2023
+title: Top 10 Fitness Instagram Influencers In Denver In 2024
 description: >-
-  Find top fitness Instagram influencers in Denver in 2023. Most popular hashtags: #fitness #colorado #denver.
+  Find top fitness Instagram influencers in Denver in 2024. Most popular hashtags: #fitness #denver #explorepage.
 platform: Instagram
-hits: 84
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 84 Instagram influencers like this in Denver, United States for you to collaborate.
+hits: 102
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat has 102 Instagram influencers like this in Denver, United States for you to pitch.
 profiles:
   - username: "dulces_trainings_"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck9wft7n3qfhu0j787vnciv90
     verified: false
     hashtags: "#dulcebrows, #tattoos, #permanentmakeup, #lasvegastattooartist"
-  - username: "plantbasedmuscle"
-    fullname: >-
-      Vanessa Espinoza
-    bio: >-
-      Vegan Trainer & Nutrition Coach 🌱🍀☘ Join My 8 Week Screw Hibernation Program Online & At Home Training 🐕🐕🐕🐕 Rescue Chihuahuas Colorado 🏔🌞🏳️‍🌈
-    location: "United States"
-    followers: 23106
-    engagement: 126
-    commentsToLikes: 0.049278
-    id: ckapax9b1xt9w0i78cmteewo0
-    verified: false
-    hashtags: "#veganbodybuilders, #veganflexfriday, #colorado, #plantbasedmuscle"
   - username: "laurenlamp"
     fullname: >-
       lauren lamp
@@ -67,6 +55,30 @@ profiles:
     id: ck0u0dbqmtf830i19v0kpippt
     verified: true
     hashtags: "#fitfam, #traumaticbraininjury, #athletics, #fitnessmotivation"
+  - username: "katrina.realtor"
+    fullname: >-
+      Katrina Nguyen | Denver Realtor®
+    bio: >-
+      🏡 empowering ppl to find their dream home 👩🏻 denver native + proud dog mom ⭐️ 5-stars on @google @zillow @facebook 💼 @milehimodern
+    location: "United States"
+    followers: 57904
+    engagement: 140
+    commentsToLikes: 0.027026
+    id: clr5higthrber0k08bqn2ojmq
+    verified: false
+    hashtags: "#thecoolesthomesintown, #homebuyers, #denver, #milehimodern"
+  - username: "jaydenkunze"
+    fullname: >-
+      🦋Jay
+    bio: >-
+      23 || GEM 💎 + Bottle Waitress + Freelance Model | DM for rates + MUA
+    location: "United States"
+    followers: 2788
+    engagement: 1638
+    commentsToLikes: 0.069643
+    id: ckap8bgadnnrs0i78eh6te9vt
+    verified: false
+    hashtags: "#fashionista, #denvercolorado, #denvermodels, #creativephotography"
   - username: "ponytail_onatrail"
     fullname: >-
       Bradee - #mountainfit
@@ -91,18 +103,6 @@ profiles:
     id: ck8t1l0mrw5wm0j78r6ubz8xm
     verified: false
     hashtags: "#blackouttuesday"
-  - username: "glassjavv"
-    fullname: >-
-      Glass Jaw
-    bio: >-
-      On the other side of fear is everything you ever wanted 🚀 Actual rocket surgeon
-    location: "United States"
-    followers: 7814
-    engagement: 1078
-    commentsToLikes: 0.018235
-    id: ckaoxwpdgf2sh0i78hc2coz46
-    verified: false
-    hashtags: "#love, #winter, #adventure, #fit"
   - username: "seeleyfoto"
     fullname: >-
       Brett Seeley Photo
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.235779
     id: ck14iedh6f09e0i19yn8q4p4e
     verified: false
-    hashtags: "#1000thingstodoindenver, #ad, #ruckify, #rentanything"
+    hashtags: "#rentanything, #1000thingstodoindenver, #ad, #ruckify"
 ---

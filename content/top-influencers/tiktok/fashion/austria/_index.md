@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Austria In 2023
+title: Top 10 Fashion TikTok Influencers In Austria In 2024
 description: >-
-  Find top fashion TikTok influencers in Austria in 2023. Most popular hashtags: #foryou #fyp #fashion #foryoupage.
+  Find top fashion TikTok influencers in Austria in 2024. Most popular hashtags: #foryou #fyp #fashion #foryoupage.
 platform: TikTok
 hits: 21
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our platform holds 21 TikTok influencers like this in Austria for you to collaborate.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 21 TikTok influencers like this in Austria for you to connect with.
 profiles:
   - username: "luciehalajova"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.023158
     id: ck9gl3et2mcxy0j7824akp7xf
     verified: false
-    hashtags: "#brandyhaul, #foryoupage, #summer, #brandymelville"
+    hashtags: "#brandyhaul, #foryou, #summer, #foryoupage"
   - username: "minixbabe"
     fullname: >-
       @minixbabe         

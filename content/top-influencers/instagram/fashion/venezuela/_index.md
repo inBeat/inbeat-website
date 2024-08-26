@@ -1,24 +1,72 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Venezuela In 2023
+title: Top 10 Fashion Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top fashion Instagram influencers in Venezuela in 2023. Most popular hashtags: #fashionblogger #beauty #editorial.
+  Find top fashion Instagram influencers in Venezuela in 2024. Most popular hashtags: #venezuela #travel #mexico.
 platform: Instagram
-hits: 118
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 118 Instagram influencers like this in Venezuela for you to connect with.
+hits: 128
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 128 Instagram influencers like this in Venezuela for you to pitch.
 profiles:
-  - username: "ariannapitino"
+  - username: "valeriajmnez"
     fullname: >-
-      AP.
+      Valeria | FASHION & LIFESTYLE
     bio: >-
-      11:11🦂✨ Comunicadora Social🎙 〰️Producción II Dirección Creativa || RRSS Relaciones Públicas || Fashion Consultant v e n e z u e l a 📍
+      🤍🧿 CONTENT CREATOR De aquí y de todas partes 🇻🇪 - ✨ @valua.shop Lifestyle | skin care | fashion | work
     location: "Venezuela"
-    followers: 66301
-    engagement: 989
-    commentsToLikes: 0.012180
-    id: ck0tw1ckedlh80i19e0e7a89q
+    followers: 23846
+    engagement: 275
+    commentsToLikes: 0.032461
+    id: ck5hne753nmoc0i11vmnnj8b9
     verified: false
-    hashtags: "#campaign, #photoshoot, #modellife, #throwback"
+    hashtags: "#shooting, #fluye, #lifestyle, #vibes"
+  - username: "nhabyg"
+    fullname: >-
+      NHABYLA SIMONETTE
+    bio: >-
+      Content Creator Fashion, decor, food, travel & lifestyle blogger # EfectoNhaby @inwears
+    location: "Venezuela"
+    followers: 168796
+    engagement: 239
+    commentsToLikes: 0.009151
+    id: ck0tuopg881ee0i192txrnvll
+    verified: false
+    hashtags: "#oneandonly, #mexico, #miaminights, #losroques"
+  - username: "jennyalvarezherrera"
+    fullname: >-
+      Jenny Alvarez Herrera
+    bio: >-
+      Compartiendo ideas #inspirationaloutfits Fashion 💫 StreetStyle 💫 Positive thinking Mom❤️Odontóloga🔅Founder @ajabuvzla Contacto comercial ➡️DM
+    location: "Venezuela"
+    followers: 31939
+    engagement: 174
+    commentsToLikes: 0.196780
+    id: ck0tuopz581fn0i19mh5ou9fg
+    verified: false
+    hashtags: "#stylinginspiration, #swarovski, #tendencia, #swarovskivenezuela"
+  - username: "victoriavalentinaf"
+    fullname: >-
+      Victoria Valentina Acosta Farias
+    bio: >-
+      @calypsoshopve | cuenta de respaldo @victoriavalentinafa Model - Gym Girl - Content Creator Lifestyle, Fashion, Beauty, Workouts & Fitness
+    location: "Venezuela"
+    followers: 524339
+    engagement: 234
+    commentsToLikes: 0.010737
+    id: ck0vw12u3rmlz0i191ajm5tmc
+    verified: false
+    hashtags: "#workout, #fitnessmotivation, #fitness, #gym"
+  - username: "yeimmyoficial"
+    fullname: >-
+      Yeimmy Rodriguez
+    bio: >-
+      @lotoyeioficiall CEO 🧑🏻‍💼 @fashionnova embajadora ✨ @dinamicasbyyeimmy 🫶🏼
+    location: "Venezuela"
+    followers: 4185883
+    engagement: 62
+    commentsToLikes: 0.096177
+    id: ck5zzonzzc4vy0i14jp2y5l3s
+    verified: true
+    hashtags: ""
   - username: "enmanuelbaez_photo"
     fullname: >-
       Enmanuel Baez
@@ -31,18 +79,6 @@ profiles:
     id: ck5bxvdsjohb10i11v6q82ur9
     verified: false
     hashtags: "#mexico, #vamospormas, #tbt, #ebphoto"
-  - username: "valeriajmnez"
-    fullname: >-
-      Valeria | FASHION & LIFESTYLE
-    bio: >-
-      🤍🧿 CONTENT CREATOR De aquí y de todas partes 🇻🇪 - ✨ @valua.shop Lifestyle | skin care | fashion | work
-    location: "Venezuela"
-    followers: 23950
-    engagement: 296
-    commentsToLikes: 0.023245
-    id: ck5hne753nmoc0i11vmnnj8b9
-    verified: false
-    hashtags: "#ad, #competeapp, #famecrashfun, #challenges"
   - username: "crondonm"
     fullname: >-
       César Rondón | Fotógrafo
@@ -91,40 +127,4 @@ profiles:
     id: ckap49kbx6cyq0i78jlt8rz5q
     verified: false
     hashtags: "#travel, #friends, #bloggerlife, #fashionblogger"
-  - username: "dannasm"
-    fullname: >-
-      Danna Solórzano
-    bio: >-
-      FASHION | BEAUTY #Curly ✨Aprecia, Valora y #ViveTusRizos 〰️ AUDIOVISUAL PRODUCTIONS 🎥+140K YouTube ☁️+130K TikTok Curlys around the world...
-    location: "Venezuela"
-    followers: 63574
-    engagement: 1167
-    commentsToLikes: 0.020173
-    id: ck6ttdsgra24o0j71ytfvyc2f
-    verified: false
-    hashtags: "#mediterraneanlife, #naturalhaircommunity, #vivetusrizos, #tudiferenciatumejoraccesorio"
-  - username: "nadiachambra"
-    fullname: >-
-      Nadia Chambra
-    bio: >-
-      Fashion Merchandiser / Mamá de George y Raymond / #trakilover
-    location: "Venezuela"
-    followers: 82902
-    engagement: 446
-    commentsToLikes: 0.017237
-    id: ck5hlmu4akhqy0i11n30khqx1
-    verified: false
-    hashtags: "#halloween2020, #muevetecontraki, #it, #happyvalentinesday"
-  - username: "edwinrphoto"
-    fullname: >-
-      EDWIN RAMOS
-    bio: >-
-      Portrait - Fashion - Lifestyle 📸Sesiones al DM📩 📍Valencia-Venezuela
-    location: "Venezuela"
-    followers: 10796
-    engagement: 532
-    commentsToLikes: 0.072743
-    id: ck55lgk1g1ijx0i11mysfzi1g
-    verified: false
-    hashtags: "#retouching, #studio, #photoshoot, #retouchingacademy"
 ---

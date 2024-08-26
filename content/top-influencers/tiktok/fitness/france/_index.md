@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In France In 2023
+title: Top 10 Fitness TikTok Influencers In France In 2024
 description: >-
-  Find top fitness TikTok influencers in France in 2023. Most popular hashtags: #foryou #fyp #pourtoi #foryoupage.
+  Find top fitness TikTok influencers in France in 2024. Most popular hashtags: #foryou #fyp #pourtoi #foryoupage.
 platform: TikTok
 hits: 120
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform has 120 TikTok influencers like this in France for you to contact.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 120 TikTok influencers like this in France for you to contact.
 profiles:
   - username: "_ashletix_"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.032789
     id: cka0tfj9jpncy0i78zt0japzl
     verified: false
-    hashtags: "#justforyou, #foryou, #fyp, #foryourpage"
+    hashtags: "#justforyou, #foryourpage, #spain, #foryoupage"
   - username: "nico.mv_fit"
     fullname: >-
       Nico.Mv
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.007299
     id: ckcuppke4ivln0j23u13yjdfc
     verified: false
-    hashtags: "#bakedoats, #whatieatinaday, #foryou, #fyp"
+    hashtags: "#fyp, #foryou, #whatieatinaday, #bakedoats"
   - username: "antoinefombonne"
     fullname: >-
       Antoine Fombonne
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.024053
     id: ckb97t612qs960j23pme2jqcc
     verified: false
-    hashtags: "#skydive, #motivation, #foryou, #pourtoi"
+    hashtags: "#motivation, #pourtoi, #skydive, #foryou"
   - username: "elise_9369"
     fullname: >-
       Elise Roggeri

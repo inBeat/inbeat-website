@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In South Korea In 2023
+title: Top 10 Fitness TikTok Influencers In South Korea In 2024
 description: >-
-  Find top fitness TikTok influencers in South Korea in 2023. Most popular hashtags: #fitness #fyp #dance #foryou.
+  Find top fitness TikTok influencers in South Korea in 2024. Most popular hashtags: #fitness #fyp #dance #foryou.
 platform: TikTok
 hits: 8
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 8 TikTok influencers like this in South Korea for you to contact.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our database holds 8 TikTok influencers like this in South Korea for you to connect with.
 profiles:
   - username: "jun.haem"
     fullname: >-

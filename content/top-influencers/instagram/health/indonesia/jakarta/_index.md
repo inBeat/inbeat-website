@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health Instagram Influencers In Jakarta In 2023
+title: Top 10 Health Instagram Influencers In Jakarta In 2024
 description: >-
-  Find top health Instagram influencers in Jakarta in 2023. Most popular hashtags: #health #jakarta #healthylifestyle.
+  Find top health Instagram influencers in Jakarta in 2024. Most popular hashtags: #indonesia #fashion #health.
 platform: Instagram
-hits: 48
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 48 Instagram influencers like this in Jakarta, Indonesia for you to contact.
+hits: 50
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 50 Instagram influencers like this in Jakarta, Indonesia for you to connect with.
 profiles:
   - username: "yessiangg"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ck9wdx8z2hojl0j78d35vi2w7
     verified: false
     hashtags: "#lestyrizkybillar, #anakjalanan, #dewiperssik, #maureendaryanani"
-  - username: "kamalh24"
-    fullname: >-
-      Kamal hafid
-    bio: >-
-      Food Business @pisangkampret 🍌 ☎ Medi 081280287722 (PM) 📍JAKARTA 🇮🇩 My GYM @kamal.health EMAIL afidkamal24@gmail.com
-    location: "Indonesia"
-    followers: 28049
-    engagement: 521
-    commentsToLikes: 0.031069
-    id: ck6u0ru3ahejt0j71q2wakpei
-    verified: false
-    hashtags: "#myth, #avengers, #pstore, #football"
   - username: "bellindapoernomo"
     fullname: >-
       Bellinda poernomo
@@ -67,54 +55,18 @@ profiles:
     id: ck8t72gu3fex90j789n91u05b
     verified: false
     hashtags: "#spiritualdevelopment, #lovewhoyouare, #meditation, #motivate"
-  - username: "jsscangelica"
-    fullname: >-
-      Jessica Angelica
-    bio: >-
-      Beauty, Lifestyle, Health. Blessed. - Endorsement / Business Inquires: DM / Email.
-    location: "Indonesia"
-    followers: 30505
-    engagement: 339
-    commentsToLikes: 0.013974
-    id: ck9wi3lim0lc80j78p49dcw5o
-    verified: false
-    hashtags: "#cover, #acoustic, #relxinfinity, #happyhellogoodmorningskin"
   - username: "alfonzheng"
     fullname: >-
       Alfon Zheng アルフォン
     bio: >-
-      📷 🎥 @alfonphotographie & @kalyanastudio 🎹 🎼 Song Writer, Pianist, Composer 📩 DM or email for business! #jakarta #jambi ⬇️ DHAMMA WAY - Official MV
+      💪🏻 Certified Fitness Trainer 📷 🎥 @alfonphotographie & @kalyanastudio 🐹 @boyoon_caviary 🐾 @sachishiba_jakarta Business inquiries : @ricoomodels
     location: "Indonesia"
-    followers: 7505
-    engagement: 1090
-    commentsToLikes: 0.054675
+    followers: 16147
+    engagement: 1204
+    commentsToLikes: 0.040048
     id: ck9whb0ajx3m10j78zg0ij2qr
     verified: false
-    hashtags: "#qotd, #muscle, #studio, #flash"
-  - username: "chitrachef"
-    fullname: >-
-      Chef Chitra
-    bio: >-
-      🌱🌿 Plant Based Soul Mama for @soul_jakarta Founder @chefskitchen_id YouTube : Chef Chitra
-    location: "Indonesia"
-    followers: 60401
-    engagement: 237
-    commentsToLikes: 0.026066
-    id: ck6txw6om07gq0j71zn03ugly
-    verified: true
-    hashtags: "#photooftheday, #vlog, #ootd, #instagram"
-  - username: "dhika.dr"
-    fullname: >-
-      dr. Andhika Raspati, SpKO
-    bio: >-
-      #drdhikasharing Sports Medicine Specialist --- KONI DKI Jaya Indonesia Cycling Federation SPPOI Eminence, Jakarta RS Bethsaida @nindy.diananti's
-    location: "Indonesia"
-    followers: 12336
-    engagement: 678
-    commentsToLikes: 0.127371
-    id: ck6tshdrx4s7j0j715vta555d
-    verified: false
-    hashtags: "#sportsmedicine, #covid19, #exercise, #dokter"
+    hashtags: "#tricep, #hot, #vacation, #swimmingpool"
   - username: "kak.aliridwan"
     fullname: >-
       Muhammad Ali Ridwan
@@ -127,4 +79,52 @@ profiles:
     id: ck14lg6l3ui7t0i19p2qie9dy
     verified: false
     hashtags: "#masukkampus, #sbmptn2019, #surabaya, #masukptn"
+  - username: "drshafira"
+    fullname: >-
+      dr. Shafira Ninditya Aulia, MARS
+    bio: >-
+      #ShafiraShares 🇮🇩24/7 mother & wife, work-life rhythm kind of person, med doctor, health speaker/educator, hospital digital marketer, LPDP Awardee ‘21
+    location: "Indonesia"
+    followers: 64944
+    engagement: 12776
+    commentsToLikes: 0.008491
+    id: ckaovfx1m4gcq0i78q8y7bypc
+    verified: false
+    hashtags: "#lebaranalakami, #yuksekolahlagi, #december17th, #artjakarta"
+  - username: "havenl33"
+    fullname: >-
+      Drg. Indira W. Lee, Sp.Prostho
+    bio: >-
+      Mom of 2 & Wifey💍 Dentistpreneur Health & Beauty 📍Malang @dreamteam_quiaripartners Shop @heavenlee_shop Gym #heavenleeworkout 📩DM for endorsement
+    location: "Indonesia"
+    followers: 30239
+    engagement: 233
+    commentsToLikes: 0.075482
+    id: ck5hpr18rrtrv0i11e8n62faa
+    verified: false
+    hashtags: "#chic, #lifestyle, #styles, #fashion"
+  - username: "antiwulandari_"
+    fullname: >-
+      Wulanda🌸
+    bio: >-
+      ♓ 📞Bussines Inq:DM @wdmanagement_ @wulandaboutique @kaweshoppu ✨Medical | Health | Lifestyle | Beauty | Model | Fashion | Foodies| Traveling | Politic
+    location: "Indonesia"
+    followers: 66987
+    engagement: 18
+    commentsToLikes: 0.042818
+    id: ck5hqijrct65p0i110100ka1d
+    verified: false
+    hashtags: "#tumbuhbersama, #instagram, #like4likes, #likeforfollow"
+  - username: "glennvictor"
+    fullname: >-
+      Glenn Victor Sutanto
+    bio: >-
+      Olympian 🏊🏼‍♂️ Grand finalist #TNLOTY2024 Certified international swimming coach CPT & CES by @nasm_fitness Part of @caldaremgt
+    location: "Indonesia"
+    followers: 69804
+    engagement: 481
+    commentsToLikes: 0.018725
+    id: ckaouwqbs25ai0i78qo75mm5q
+    verified: false
+    hashtags: "#medal, #swimmingpool, #indonesia, #gym"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In India In 2023
+title: Top 10 Photographers TikTok Influencers In India In 2024
 description: >-
-  Find top photographers TikTok influencers in India in 2023. Most popular hashtags: #tiktokindia #duet #tiktok #foryou.
+  Find top photographers TikTok influencers in India in 2024. Most popular hashtags: #tiktokindia #tiktok #duet #foryou.
 platform: TikTok
 hits: 217
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our database holds 217 TikTok influencers like this in India for you to work with.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: inBeat has 217 TikTok influencers like this in India for you to connect with.
 profiles:
   - username: "rohan_gupta01"
     fullname: >-

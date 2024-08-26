@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Birmingham In 2023
+title: Top 10 Food TikTok Influencers In Birmingham In 2024
 description: >-
-  Find top food TikTok influencers in Birmingham in 2023. Most popular hashtags: #fyp #food #foryou #foryoupage.
+  Find top food TikTok influencers in Birmingham in 2024. Most popular hashtags: #fyp #food #foryou #foryoupage.
 platform: TikTok
 hits: 8
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform has 8 TikTok influencers like this in Birmingham, United Kingdom for you to contact.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 8 TikTok influencers like this in Birmingham, United Kingdom for you to pitch.
 profiles:
   - username: "shellzmuzic"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.044369
     id: ckb9bqtoby6c80j232ln9y6bn
     verified: false
-    hashtags: "#islam, #pakistaninames, #indian, #top5"
+    hashtags: "#relatable, #asian, #desicomedy, #punjabi"
   - username: "tiffinguys"
     fullname: >-
       Tiffinguys

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Greece In 2023
+title: Top 10 Food Instagram Influencers In Greece In 2024
 description: >-
-  Find top food Instagram influencers in Greece in 2023. Most popular hashtags: #greece #ig #happiness.
+  Find top food Instagram influencers in Greece in 2024. Most popular hashtags: #greece #greekislands #crete.
 platform: Instagram
-hits: 125
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 125 Instagram influencers like this in Greece for you to contact.
+hits: 158
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 158 Instagram influencers like this in Greece for you to collaborate.
 profiles:
+  - username: "iliasfood"
+    fullname: >-
+      Ilias Fountoulis
+    bio: >-
+      Comedian ☻ Writer 📖 Food editor 🍤🍲🧀🍆 Horror reader 👻 Volleyball lover 🏐 Πολυτεχνίτης και ερημοσπίτης 👇ΕΙΣΙΤΗΡΙΑ 15/7 ΘΕΑΤΡΟ ΡΕΜΑΤΙΑΣ
+    location: "Greece"
+    followers: 79657
+    engagement: 520
+    commentsToLikes: 0.003985
+    id: ck1377vnna8iu0i19nl24mg5z
+    verified: false
+    hashtags: "#craftbeeringreece, #beertime, #beersomelliergr, #greekbeer"
+  - username: "sophiewyburd"
+    fullname: >-
+      Sophie Wyburd
+    bio: >-
+      cooking, food writing, supper clubbing comfort food on cute plates pod @illhavewhatsheshavingpod
+    location: "Greece"
+    followers: 115140
+    engagement: 432
+    commentsToLikes: 0.012286
+    id: clfb7s48o2zd70j087gma4k8c
+    verified: false
+    hashtags: "#thepeoplebehindthefood, #mob, #pasta, #recipe"
+  - username: "curlytravelmess"
+    fullname: >-
+      𝗞𝗔𝗗𝗔𝗠𝗕𝗔𝗥𝗜🧿𝗧𝗥𝗔𝗩𝗘𝗟•𝗟𝗜𝗙𝗘𝗦𝗧𝗬𝗟𝗘
+    bio: >-
+      Travel Writer•Content Creator 🌅Follow for Cafes,resorts,new places,food,people 🌎 40+ Countries•📍🇸🇬 Managed by @tripotocommunity 👇🏽 Read My Articles 📖
+    location: "Greece"
+    followers: 15617
+    engagement: 1133
+    commentsToLikes: 0.091458
+    id: ck8tdq5jz4d590j78gnhinokm
+    verified: false
+    hashtags: "#singaporeinfluencer, #goreme, #waterfallhike, #turkey"
+  - username: "kwnpapage"
+    fullname: >-
+      Κωνσταντίνα Παπαγεωργίου
+    bio: >-
+      •Perfectly imperfect•📍ATH🇬🇷 •Since '93♋️•Food lover🍔🥞 •Aegean Cabin Crew✈️•Mommy of baby K🧿👶🏻• DM for collab •
+    location: "Greece"
+    followers: 22043
+    engagement: 419
+    commentsToLikes: 0.002627
+    id: ck6uayd226ej00j71wloazsph
+    verified: false
+    hashtags: "#holidaymagic, #sweet29, #loveatfirstsight, #sinsay"
+  - username: "toufarovapavla"
+    fullname: >-
+      Pavla Toufarová
+    bio: >-
+      💙 #myboys 🏒👶 Jakub & Jan 👶 🏒 Love my #family #work Enjoying #life #travelling #food #fashion #music #movies Brand Manager @medicomclinic
+    location: "Greece"
+    followers: 40271
+    engagement: 390
+    commentsToLikes: 0.008993
+    id: ck6u5zqy5cpee0j71zueffdj1
+    verified: false
+    hashtags: "#myboys, #vacayvibes, #abudhabi, #beachlife"
   - username: "fotisvallatos"
     fullname: >-
       Fotis Vallatos
     bio: >-
-      World Traveler / Taste Hunter/ Travel + Food Editor (Blue Magazine, Aegean Airlines) / Saristra Festival
+      World Traveler / Taste Hunter/ Co-owner @pharaohathens / Travel + Food Editor (Blue Magazine, @aegeanairlines) / Music Director @saristrafestival
     location: "Greece"
-    followers: 29404
-    engagement: 295
-    commentsToLikes: 0.013060
+    followers: 31349
+    engagement: 299
+    commentsToLikes: 0.014273
     id: ckap75xtpirhy0i78d341o95y
     verified: false
-    hashtags: "#greece, #anafi, #anafisland, #ig"
-  - username: "am.konstantina"
+    hashtags: "#talisker, #ad, #madebythesea, #pleasedonotforwardtominors"
+  - username: "sandrinecorman"
     fullname: >-
-      𝓚𝓸𝓷𝓼𝓽𝓪𝓷𝓽𝓲𝓷𝓪✨
+      Sandrine Corman
     bio: >-
-      🦷Dentist 💜Fitness, Food 📍Thessaloniki, Greece 🎵TikTok: konstantinas_tiktok 🎥YouTube channel: Konstantina 🎮Livestreaming on Trovo: Konstantina_Official
+      📺📻 Tv / Radio personality ❤️ Oscar & Harold's mum 🏃‍♀️Sport 🥳 Life & Food Lover Partenariats : sandrine.c@screenfluence.be BE0807992479
     location: "Greece"
-    followers: 131329
-    engagement: 1461
-    commentsToLikes: 0.221004
-    id: ck0w3mozdu6y70i19405f1i8t
-    verified: false
-    hashtags: "#allin5g, #efoodgr, #leapto5g, #realme8series"
-  - username: "redheadonajourney"
-    fullname: >-
-      Julie P. 🇬🇷
-    bio: >-
-      Singer🎤 Actress 🎭 Influencer & Photo model🧜‍♀️ DM for collab/promo 📩 Inspiration can be all around you ✨ Traveller✈️ Foodie 🍔 Check @squirrelypigs
-    location: "Greece"
-    followers: 25744
-    engagement: 873
-    commentsToLikes: 1.311863
-    id: ck8t7jmsvh1zo0j78cduexkcd
-    verified: false
-    hashtags: "#210113706r"
-  - username: "lorys.story"
-    fullname: >-
-      Loredana Gavrila🇹🇩Travel Lover
-    bio: >-
-      ✧ Life is a journey, not a destination ♡ Food & Travel Lover ☆Co-Founder @nomadtravelconcept
-    location: "Greece"
-    followers: 21556
-    engagement: 346
-    commentsToLikes: 0.048811
-    id: ck6tymwtr4ohc0j715m2bykgj
-    verified: false
-    hashtags: "#greecetravel, #hotelstyle, #reelsinstagram, #travelgram"
-  - username: "billyheis"
-    fullname: >-
-      Vasilis Siampalis
-    bio: >-
-      Portrait | Fashion | Weddings | Food | Lifestyle Photographer / Retoucher 🌍 Based in Athens / Greece Represented by @themodernsociety_gr
-    location: "Greece"
-    followers: 17149
-    engagement: 442
-    commentsToLikes: 0.020155
-    id: ck0twcjncew020i19gpkiju7e
-    verified: false
-    hashtags: "#realismag, #arlettemagazine, #tendermag, #bestfilmphoto"
-  - username: "m.naka__"
-    fullname: >-
-      Μάρω Νάκα
-    bio: >-
-      𝖣𝖾𝗇𝗍𝖺𝗅 𝖲𝗍𝗎𝖽𝖾𝗇𝗍 ‘𝗣𝗮𝘀𝘀𝗶𝗼𝗻 𝗶𝘀 𝗘𝗻𝗲𝗿𝗴𝘆’ @foodnak_ @odontiatrikimerimna @merimnainstitutecpd @webinars.edu.gr @digitaldentistrysocietygreece
-    location: "Greece"
-    followers: 9503
-    engagement: 1292
-    commentsToLikes: 0.243811
-    id: ckapbnjqe0l2x0i784xsssha5
-    verified: false
-    hashtags: "#pinkaesthetics, #youmakemyheartsmilechallenge, #goldandsilverbracelets, #breakfastinspo"
-  - username: "gogodelogianni"
-    fullname: >-
-      Gogo Delogianni
-    bio: >-
-      foodie ° cook ° recipe developer ° music lover ° DIME awards winner 2018 MAD about arts winner 2019 #gogodelogianni #foodloverfoodmaker Recipe link ⤵️
-    location: "Greece"
-    followers: 31703
-    engagement: 579
-    commentsToLikes: 0.005343
-    id: ck55lljyh1usa0i11v3z9inc1
-    verified: false
-    hashtags: "#gogodelogiannifeat, #ad, #lidlhellas, #sundaysbreakfast"
-  - username: "bb_mo.ra"
-    fullname: >-
-      Mo.Ra.
-    bio: >-
-      I ❤️ my job, but in my spare time I’m a •Traveler •Foodie •Fashion addict •Beauty junkie •Fitness passionate
-    location: "Greece"
-    followers: 8945
-    engagement: 507
-    commentsToLikes: 0.038149
-    id: ck9hcgl4wlaek0j78wu8yy4o9
-    verified: false
-    hashtags: "#italy, #makeup, #weekendmood, #selfie"
-  - username: "konstantinaspyropoulou"
-    fullname: >-
-      Konstantina Spyropoulou
-    bio: >-
-      #TvHostess 📺 #QueenDina 👸🏼 @queendina_official💄 #Mommy @misuthepoodle & Tony 🐶 #Traveler 🌎 #SummerGirl 🧿 #Rhodes 💙 #Foodie 😋 #BeYourself 💌 💁🏼‍♀️💋👇🏼
-    location: "Greece"
-    followers: 503585
-    engagement: 256
-    commentsToLikes: 0.006469
-    id: ck135qawa2pc80i19rewxvqjr
+    followers: 79804
+    engagement: 280
+    commentsToLikes: 0.107645
+    id: ck6tv7t5iknvj0j719m3qussq
     verified: true
-    hashtags: "#anonima, #anonimafashion, #anonimaclothing, #fashionphotography"
-  - username: "valia_bacandrea"
+    hashtags: "#family, #christmasholidays, #holidays, #love"
+  - username: "dtsakoumis"
     fullname: >-
-      𝒱𝒶𝓁𝒾𝒶 𝐵𝒶𝒸𝒶𝓃𝒹𝓇𝑒𝒶🧿
+      Dimitris Tsakoumis
     bio: >-
-      𝒮𝓀𝒾𝓃𝒸𝒶𝓇𝑒 𝒜𝒹𝒹𝒾𝒸𝓉•𝑀𝒶𝓀𝑒𝓊𝓅 Follow me at: ▪️Youtube channel ▪️Owner:@vb_jewels_and_more ▪️Owner:@foodrink_art 📩email:bacval30@yahoo.gr Push the link⬇️
+      👨🏻‍💻co-founder @doitforfun.pr ⭐️Artists Reputation management @cobaltmusicgr 🌴🍔Food, travel, beauty & style addicted
     location: "Greece"
-    followers: 10355
-    engagement: 926
-    commentsToLikes: 0.347125
-    id: ck0w454cbwuy60i194eniohf8
+    followers: 21526
+    engagement: 254
+    commentsToLikes: 0.019298
+    id: ck8t0bfgqrhs50j7857rzfrcu
     verified: false
-    hashtags: "#skincare, #quarantinelife, #blogger, #instagram"
+    hashtags: "#dimitrisgoestofolegandros, #greekisland, #beachlife, #dimitrisgoestoserifos"
+  - username: "misstastygr"
+    fullname: >-
+      Maria Patsia
+    bio: >-
+      Foodie | Recipe Developer | Civil engineer 📍 Based in Larissa, Greece 📮Contact : DM or info@misstasty.gr ⬇️ Visit my website for more recipes ⬇️
+    location: "Greece"
+    followers: 46351
+    engagement: 207
+    commentsToLikes: 0.042828
+    id: ck9wfgp6hoths0j78dbhotnwh
+    verified: false
+    hashtags: "#greekfoodlovers, #greekgastronomy, #skgstories, #breakfast"
+  - username: "annaantwniadou"
+    fullname: >-
+      VIA DELL' ANNA
+    bio: >-
+      💫 Lifestyle 💫 Food 💫 Beauty ⭐Social media manager 💌 info@viadellanna.com Bedroom renovation ⬇️
+    location: "Greece"
+    followers: 31766
+    engagement: 195
+    commentsToLikes: 0.035723
+    id: ck5q8meue6who0i11w7tbwknr
+    verified: false
+    hashtags: "#greekblogger, #style, #reel, #foodie"
 ---

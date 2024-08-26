@@ -1,12 +1,36 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Austin In 2023
+title: Top 10 Fashion Instagram Influencers In Austin In 2024
 description: >-
-  Find top fashion Instagram influencers in Austin in 2023. Most popular hashtags: #fashion #austin #texas #fashionstyle.
+  Find top fashion Instagram influencers in Austin in 2024. Most popular hashtags: #fashion #austin #texas #art.
 platform: Instagram
-hits: 243
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 243 Instagram influencers like this in Austin, United States for you to contact.
+hits: 507
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 507 Instagram influencers like this in Austin, United States for you to connect with.
 profiles:
+  - username: "amberleediamond"
+    fullname: >-
+      —— AMBER DIAMOND ——
+    bio: >-
+      ✰ The @MTV Perfect Match @netflix Are You The One? ♛ Family | Lifestyle | Fashion | Austin tx MGMT@AMBERLEEDIAMOND.COM
+    location: "United States"
+    followers: 204357
+    engagement: 342
+    commentsToLikes: 0.006382
+    id: ckapbj5nd02oa0i78dwjvkv18
+    verified: false
+    hashtags: "#moodycenter, #revolveme, #harrystylesliveontour, #guyfieri"
+  - username: "austinwolfff"
+    fullname: >-
+      Austin Wolf
+    bio: >-
+      Fitness Obsessed🏋🏽 6'4" 263lbs💪🏻 NYC 📍 Founder of @4my.fans Manager: @cordeylash check out my exclusive private vids |👇🏻👇🏼👇🏽👇🏾👇🏿
+    location: "United States"
+    followers: 716513
+    engagement: 690
+    commentsToLikes: 0.014218
+    id: ckvrf2ew5dj0a0j2310n6qoy7
+    verified: false
+    hashtags: "#4myfans, #fitness, #austinwolf, #muscle"
   - username: "ambermaceyy"
     fullname: >-
       ambss🦋
@@ -43,6 +67,30 @@ profiles:
     id: ck5zuadlb1zkf0i143aaze8dg
     verified: false
     hashtags: "#gaypride, #porn, #gay, #gayadult"
+  - username: "taylorsometimes"
+    fullname: >-
+      Taylor
+    bio: >-
+      just trying to survive on queso and margs. based in Austin. not a cool girl. (also help me distract myself into infinity by joining my cult)
+    location: "United States"
+    followers: 14843
+    engagement: 78
+    commentsToLikes: 0.042793
+    id: cknhj9zkxt91z0j23hxs3u01m
+    verified: false
+    hashtags: "#atxlife, #selflove, #atx, #fashioninfluencers"
+  - username: "poker_traveler"
+    fullname: >-
+      Cedrric Trevino
+    bio: >-
+      ♠️ I play #poker ✈️ I #travel a lot 💰 I buy #realestate @trevinopropertygroup 🎥 I host stream @rounderstonight 🔜 Las Vegas 🔜 Medellin 🇨🇴
+    location: "United States"
+    followers: 41659
+    engagement: 30
+    commentsToLikes: 0.083256
+    id: ckq0ivgpxdf7b0j23uc3lnnna
+    verified: false
+    hashtags: "#viral, #me, #texas, #fyp"
   - username: "queenofthesouth512"
     fullname: >-
       QueenOfTheSouth |Pati Plymire
@@ -79,52 +127,4 @@ profiles:
     id: ck9wfwnzyqu0k0j78zg882tp5
     verified: false
     hashtags: "#baby, #catherinemcbroom, #theacefamilymembers, #vsco"
-  - username: "soymave_"
-    fullname: >-
-      Mariana Del Valle
-    bio: >-
-      Creative | Fashion | Lifestyle | Decor 📩 info@soymave.com #atxlatinabloggers ✨ be inspiring 📍 ATx - FL. 🇻🇪Latina
-    location: "United States"
-    followers: 27321
-    engagement: 177
-    commentsToLikes: 0.107981
-    id: ck5q1fmrsar3c0i11x8aka8p6
-    verified: false
-    hashtags: "#shoedazzle, #shein, #love, #spring"
-  - username: "kerwancelestine"
-    fullname: >-
-      Kᴇʀᴡᴀɴ Cᴇʟᴇsᴛɪɴᴇ
-    bio: >-
-      📍Texas Based 🇩🇲🇸🇽🇺🇸 👨🏾‍💻1-on-1 Eᴅɪᴛɪɴɢ ᴄʟᴀssᴇs ᴏɴʟɪɴᴇ! 💻✍🏾 📸 ᴏᴄғ ᴡᴏʀᴋsʜᴏᴘs / ᴏɴᴇ ᴏɴ ᴏɴᴇ ᴄʟᴀssᴇs 𝕀𝕟𝕗𝕦𝕖𝕟𝕔𝕖𝕣 ✨ 𝕄𝕖𝕟𝕥𝕠𝕣 ✨ 𝕐𝕠𝕦𝕋𝕦𝕓𝕖𝕣 ✨ 👇🏾Website
-    location: "United States"
-    followers: 23796
-    engagement: 397
-    commentsToLikes: 0.079483
-    id: ck138fgvgfzf90i19vboe0vp4
-    verified: false
-    hashtags: "#dallas, #killeen, #xt3, #photography"
-  - username: "austin_lopes_"
-    fullname: >-
-      𝐀𝐮𝐬𝐭𝐢𝐧 𝐋𝐨𝐩𝐞𝐬 ✨
-    bio: >-
-      𝑷𝒂𝒕𝒊𝒆𝒏𝒕𝒍𝒚 𝒘𝒂𝒊𝒕 .. 𝑩𝒆𝒂𝒖𝒕𝒊𝒇𝒖𝒍 𝒕𝒉𝒊𝒏𝒈𝒔 𝒕𝒂𝒌𝒆 𝒕𝒊𝒎𝒆 𝒕𝒐 𝒉𝒂𝒑𝒑𝒆𝒏 ❣️ . ♤ @___night__mare_ ♤ ♤ 𝐏𝐚𝐠𝐞 @_mr_nikonboy ♤
-    location: "United States"
-    followers: 2122
-    engagement: 1662
-    commentsToLikes: 0.089424
-    id: ck8tbzbsuxrnq0j789t90q5gf
-    verified: false
-    hashtags: "#tumkur, #shimoga, #mysore, #chikmagalur"
-  - username: "thelhway"
-    fullname: >-
-      Laie Holloway
-    bio: >-
-      When life gets blurry Adjust your focus.
-    location: "United States"
-    followers: 46198
-    engagement: 290
-    commentsToLikes: 0.034771
-    id: ck5c7qorh80ew0i11qahbcf1o
-    verified: false
-    hashtags: "#photooftheday, #swimsuitusa, #holloway, #model"
 ---

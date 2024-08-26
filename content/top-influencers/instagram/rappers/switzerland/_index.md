@@ -1,24 +1,24 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Switzerland In 2023
+title: Top 10 Rappers Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top rappers Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #rapperswil #nature #myswitzerland.
+  Find top rappers Instagram influencers in Switzerland in 2024. Most popular hashtags: #switzerland #rapperswil #summer #instagood.
 platform: Instagram
-hits: 10
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 10 Instagram influencers like this in Switzerland for you to pitch.
+hits: 14
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 14 Instagram influencers like this in Switzerland for you to connect with.
 profiles:
   - username: "fsprodvinu"
     fullname: >-
       FSPROD VINU
     bio: >-
-      Tamil Rapper / Singer / Songwriter - FSPROD 🎤📀 - #Vathikuchi 📀 - #Habibi 📀 Unjal⬇️
+      Tamil Rapper / Singer / Songwriter - FSPROD 🎤📀 - #Vathikuchi 📀 - #Habibi 📀
     location: "Switzerland"
-    followers: 10498
-    engagement: 560
-    commentsToLikes: 0.024679
+    followers: 10110
+    engagement: 541
+    commentsToLikes: 0.032435
     id: ck602lz97hx8b0i14gd3jiwfz
     verified: false
-    hashtags: "#cla45s, #fsprod, #tamillovesong, #amg"
+    hashtags: "#tamilrap, #tamilhiphop, #fsprod, #tamil"
   - username: "i_am_birebaumli"
     fullname: >-
       
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.126511
     id: ck13d3pg53irf0i190hd1hu57
     verified: false
-    hashtags: "#swissphotographer, #urbexlovers, #lookslikefilm, #thun"
+    hashtags: "#moonlandscape, #vwcampervan, #windowportrait, #womanportrait"
   - username: "_jasmineonajourney_"
     fullname: >-
       🅹🅰🆂🅼🅸🅽🅴
@@ -55,6 +55,66 @@ profiles:
     id: ckf5liravpq810j23ps1czxk3
     verified: false
     hashtags: "#autumn, #rapperswil, #life, #switzerland"
+  - username: "alyten__"
+    fullname: >-
+      🪬✨Alyanna Iten✨🪬
+    bio: >-
+      Welcome lovely People💕 👶 Mommy-to-be 🏔 Switzerland 🇨🇭 ✍️ @chalk.n.art
+    location: "Switzerland"
+    followers: 2746
+    engagement: 1564
+    commentsToLikes: 0.084057
+    id: ck0ttneyw3h6c0i19tl0iq3j4
+    verified: false
+    hashtags: "#switzerland, #paradise, #love, #swiss"
+  - username: "drillito"
+    fullname: >-
+      Drill
+    bio: >-
+      New Music Video 🎬 DRILL - "LEVEL UP"🍭 Out now!📺 Link in bio ⬇️
+    location: "Switzerland"
+    followers: 23721
+    engagement: 633
+    commentsToLikes: 0.039529
+    id: ck5hgmnhb3lr80i115ly5qf92
+    verified: false
+    hashtags: "#outnow, #komora, #rojenidablestimo, #music"
+  - username: "stevemerson"
+    fullname: >-
+      Steve Merson
+    bio: >-
+      Merson Döner Exklusiv im @mitundohne.kebab Tiktok: mersonfood (230K+) Snap: stevemerson1337 Links⤵️
+    location: "Switzerland"
+    followers: 200947
+    engagement: 187
+    commentsToLikes: 0.056758
+    id: cloqwry9fhh180j08pivzhg33
+    verified: false
+    hashtags: "#stevetestet, #foodtesting, #pf, #schweiz"
+  - username: "kristin.atzeni"
+    fullname: >-
+      Kristin Atzeni
+    bio: >-
+      • passionated cyclist living in Switzerland 🚵🏼‍♀️ ✉︎ contact: hallo@routestudio.ch
+    location: "Switzerland"
+    followers: 110702
+    engagement: 123
+    commentsToLikes: 0.009562
+    id: ck0vz3cye73640i19fb5rnuzf
+    verified: false
+    hashtags: "#cyclinglove, #mazdamx5, #kantonglarus, #giordanaswitzerland"
+  - username: "maha_maharajah"
+    fullname: >-
+      Pro Make up artist, Bridal Hair & Stylist
+    bio: >-
+      15+yrs experience | Switzerland🇨🇭 BRIDAL DIARY OPEN FOR 2024 Bookings only via email: mahabeautycareswiss@gmail.com
+    location: "Switzerland"
+    followers: 43651
+    engagement: 6
+    commentsToLikes: 0.000000
+    id: ck5zihgcrfpi80i14a8f3gzvo
+    verified: false
+    hashtags: "#bridalmakeup, #southindianbride, #manavaraisaree, #bridalsilk"
   - username: "lalacla_"
     fullname: >-
       Claudia
@@ -67,64 +127,4 @@ profiles:
     id: ck8t6drijd8il0j78i9zqzkcn
     verified: false
     hashtags: "#lago, #swissalps, #lake, #clouds"
-  - username: "svenepiney"
-    fullname: >-
-      Sven Epiney
-    bio: >-
-      Swiss TV-Radio-Host SRF EVENTMODERATOR Booking: mail@svenepiney.ch Infos: www.svenepiney.ch Facebook: @svenepiney #svenepiney #svenepineykuchen
-    location: "Switzerland"
-    followers: 18444
-    engagement: 624
-    commentsToLikes: 0.030045
-    id: ck6trm9lqzsyh0j71s36ia5g0
-    verified: true
-    hashtags: "#schweiz, #love, #liebe, #tv"
-  - username: "kristin.atzeni"
-    fullname: >-
-      Kristin Atzeni
-    bio: >-
-      • passionated cyclist living in Switzerland 🚵🏼‍♀️ ✉︎ contact: hallo@routestudio.ch
-    location: "Switzerland"
-    followers: 109673
-    engagement: 156
-    commentsToLikes: 0.008566
-    id: ck0vz3cye73640i19fb5rnuzf
-    verified: false
-    hashtags: "#meridareacto, #cyclingswitzerland, #happycyling, #lunchbreak"
-  - username: "pedrotattoo_ribeiro"
-    fullname: >-
-      PedroTattoo_Ribeiro
-    bio: >-
-      Tattoo artist ⚜️Based in Zürich 🇨🇭 travel the 🌍 1904 🔴⚪️ Booking 2021 Open Sponsor: @moodytattooproducts
-    location: "Switzerland"
-    followers: 27822
-    engagement: 118
-    commentsToLikes: 0.017262
-    id: ck5bub1ovhgwv0i113r1rw30x
-    verified: false
-    hashtags: "#rose, #swiss, #zuri, #deustchland"
-  - username: "rami.than"
-    fullname: >-
-      Ramithan
-    bio: >-
-      --------------------------------------------------- 📍 Switzerland 📽📸 Photography 👦 24 yrs | Student 🏠 Bern / Zürich @swiss.views / @german.views
-    location: "Switzerland"
-    followers: 6303
-    engagement: 663
-    commentsToLikes: 0.045914
-    id: ck0u8mtri7ttj0i19hp5ijcu6
-    verified: false
-    hashtags: "#citybestpics, #topoftherock, #natur, #geb"
-  - username: "halldor_helgason"
-    fullname: >-
-      Halldor Helgason
-    bio: >-
-      Engineered World Class Athlete That Some Times Goes By The Name Hillary Clinton
-    location: "Switzerland"
-    followers: 195785
-    engagement: 331
-    commentsToLikes: 0.011336
-    id: ck0w1hloojdyx0i19fwwc8fqf
-    verified: true
-    hashtags: "#kozymovie, #hfsnowboarding, #lobstersenders, #gopro"
 ---

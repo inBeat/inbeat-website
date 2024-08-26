@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Japan In 2023
+title: Top 10 Fashion TikTok Influencers In Japan In 2024
 description: >-
-  Find top fashion TikTok influencers in Japan in 2023. Most popular hashtags: #fashion #foryou #dance.
+  Find top fashion TikTok influencers in Japan in 2024. Most popular hashtags: #fashion #foryou #dance #tiktok.
 platform: TikTok
 hits: 27
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database has 27 TikTok influencers like this in Japan for you to collaborate.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 27 TikTok influencers like this in Japan for you to contact.
 profiles:
   - username: "kesera_qung"
     fullname: >-

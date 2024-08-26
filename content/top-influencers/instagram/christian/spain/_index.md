@@ -1,12 +1,48 @@
 ---
-title: Top 10 Christian Instagram Influencers In Spain In 2023
+title: Top 10 Christian Instagram Influencers In Spain In 2024
 description: >-
-  Find top christian Instagram influencers in Spain in 2023. Most popular hashtags: #photography #photo #photooftheday.
+  Find top christian Instagram influencers in Spain in 2024. Most popular hashtags: #holidays #photography #couple.
 platform: Instagram
-hits: 152
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 152 Instagram influencers like this in Spain for you to contact.
+hits: 181
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database has 181 Instagram influencers like this in Spain for you to pitch.
 profiles:
+  - username: "mrs.tews"
+    fullname: >-
+      Claudia Tews
+    bio: >-
+      Love my life & you @tews.christian ❤️ 📩Management Supreme Talents https://instagram.com/supremetalents_impressum
+    location: "Spain"
+    followers: 52297
+    engagement: 301
+    commentsToLikes: 0.022334
+    id: ck8tdd7jp2w240j78hvvgm76u
+    verified: false
+    hashtags: "#immerdein, #holidays, #familytime, #liebe"
+  - username: "christianbalazs"
+    fullname: >-
+      Christian Balazs
+    bio: >-
+      ✉️Personal mail: contact@christian-renata.com ✉️Business inquiries: geanina@lesquad.ro
+    location: "Spain"
+    followers: 19373
+    engagement: 138
+    commentsToLikes: 0.014914
+    id: ck15qgifn2qc70i1930ewo666
+    verified: false
+    hashtags: "#barcelonagram, #christmascouple, #barcelonaspain, #bornsocial"
+  - username: "haizealopezoficial"
+    fullname: >-
+      Haizea López
+    bio: >-
+      Escritora. KDP Select All-Stars ⭐️ Los crímenes de Getxo Mi última novela es “Hija de la lluvia” @christianmartinsoficial si quieres 📖 romántica
+    location: "Spain"
+    followers: 17886
+    engagement: 91
+    commentsToLikes: 0.092941
+    id: clnc00tbt5z6p0j08s2tjr8k3
+    verified: false
+    hashtags: "#novelapolic, #novelasrecomendadas, #euskalnoir, #brindis"
   - username: "cristianbravoa"
     fullname: >-
       Christian Bravo A. | Oficial
@@ -59,14 +95,26 @@ profiles:
     fullname: >-
       📷 Christian Bélmont
     bio: >-
-      a l i c a n t e - e l c h e 🌍 f i l m m a k e r & f o t ó g r a f o 🎥 p r o d : @maybe_makers 🎵 l i n k r e d e s ⬇️
+      • @arcanastudios_ 📈 • @detintayhueso 🎥 • e l c h e 🌍
     location: "Spain"
-    followers: 11719
-    engagement: 433
-    commentsToLikes: 0.027193
+    followers: 25235
+    engagement: 205
+    commentsToLikes: 0.047875
     id: ck6tt0nwm7wpf0j7154k4shck
     verified: false
-    hashtags: "#cityphotography, #agameoftones, #pic, #way2ill"
+    hashtags: "#fotografia, #illgrammers, #arquitecture, #streets"
+  - username: "christianchavezreal"
+    fullname: >-
+      Christian Chávez
+    bio: >-
+      Actor,Singer ,fitness lover ,traveler and podcaster Acting: @jerryml1 music: @t6hent
+    location: "Spain"
+    followers: 3754314
+    engagement: 175
+    commentsToLikes: 0.013650
+    id: ck5canil0dr1p0i11ecb9adwk
+    verified: true
+    hashtags: "#tbt, #colorado, #felizdiadelasmadres, #felizdiadelni"
   - username: "er_christian_"
     fullname: >-
       Er Christian 🔪
@@ -79,52 +127,4 @@ profiles:
     id: ck5byxga2q1ka0i11wvkpmz2c
     verified: false
     hashtags: "#halloween2020, #2020artistwrapped, #draskari"
-  - username: "christian.cary"
-    fullname: >-
-      Christian Cary
-    bio: >-
-      🎙️🎸 Comp. y Autor en @latriplenelson 👇🏼 Nuevo disco - Mi Bien - La Triple Nelson
-    location: "Spain"
-    followers: 29065
-    engagement: 184
-    commentsToLikes: 0.023856
-    id: ck5ccjhyphh8i0i11ts4szrfs
-    verified: false
-    hashtags: "#stratocaster, #latriplenelson, #fender, #40aniversario"
-  - username: "christianmillanc"
-    fullname: >-
-      𝐂𝐇𝐑𝐈𝐒𝐓𝐈𝐀𝐍 𝐌𝐈𝐋𝐋𝐀𝐍
-    bio: >-
-      @radical_madrid 💀 @dendera_coslada🌴 📹 YouTube 🎵 🔻🔻🔻🔻🔻
-    location: "Spain"
-    followers: 5097
-    engagement: 959
-    commentsToLikes: 0.065763
-    id: ck5ckrn4rxh3n0i11u9mzmid2
-    verified: false
-    hashtags: "#estemosdondeestemos"
-  - username: "mariajett"
-    fullname: >-
-      🌼María Jett🐝
-    bio: >-
-      •Mi trabajo es un impulso de lo que me pasa•📸 Valencia 🌍 Vegan🌱 @chachivegan Sesiones ✉️ Mi libro de fotografía ya disponible en Amazon y librerías ⬇️
-    location: "Spain"
-    followers: 22527
-    engagement: 803
-    commentsToLikes: 0.012028
-    id: ck5qc1vbeogqw0i117ol9tvop
-    verified: false
-    hashtags: "#portraitsvision, #thefotografosinfluencers, #fotojett, #buildandbloom"
-  - username: "chescuredo"
-    fullname: >-
-      christian escuredo
-    bio: >-
-      @bedelkatalent
-    location: "Spain"
-    followers: 19982
-    engagement: 619
-    commentsToLikes: 0.044938
-    id: ck5zxgc1e7ysh0i14ewfzx0w6
-    verified: false
-    hashtags: "#afterglowmadrid, #christianescuredo, #portrait, #photography"
 ---

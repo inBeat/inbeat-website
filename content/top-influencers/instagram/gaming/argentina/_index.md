@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Argentina In 2023
+title: Top 10 Gaming Instagram Influencers In Argentina In 2024
 description: >-
-  Find top gaming Instagram influencers in Argentina in 2023. Most popular hashtags: #gamer #gaming #gamergirl #streaming.
+  Find top gaming Instagram influencers in Argentina in 2024. Most popular hashtags: #gaming #gamer #streamer #gamergirl.
 platform: Instagram
-hits: 40
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 40 Instagram influencers like this in Argentina for you to work with.
+hits: 38
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 38 Instagram influencers like this in Argentina for you to work with.
 profiles:
   - username: "sessenwanger"
     fullname: >-
@@ -55,18 +55,42 @@ profiles:
     id: ck5pwnjqznodp0i11q5zae4pj
     verified: false
     hashtags: "#computadoras, #gaming, #novedades, #enviosatodoelpais"
-  - username: "arandana"
+  - username: "adcsuga"
     fullname: >-
-      Arándana
+      Suga
     bio: >-
-      👾Streams: Martes, Jueves y Domingo en YT 🎮PlayStation, Xbox, Nintendo y PC 📩Contacto: ararandana@gmail.com ⬇️Último video de YouTube
+      📍Buenos Aires, Argentina 🔹#VALORANT content creator 🔸Host and analyst for @valorantlatam ✉️ sugastreamer@gmail.com
     location: "Argentina"
-    followers: 28761
-    engagement: 1382
-    commentsToLikes: 0.047672
-    id: ckapa4sikuphb0i78s0zlbi43
+    followers: 20931
+    engagement: 733
+    commentsToLikes: 0.015724
+    id: ck6u8q9uwt1ag0j71n97ux5v1
     verified: false
-    hashtags: "#nintendofan, #setupgamer, #monster, #pc"
+    hashtags: "#gaming, #vctlockin, #streamer, #vctamericas"
+  - username: "nategentile7"
+    fullname: >-
+      Nate Gentile
+    bio: >-
+      Hago videos de informática en internet contacto@nategentile.com Canal de Youtube 👇🏻
+    location: "Argentina"
+    followers: 388861
+    engagement: 634
+    commentsToLikes: 0.022371
+    id: ck15s5pnvbcs20i19o4hkjzy0
+    verified: false
+    hashtags: "#gaming, #tecnologia, #hardware, #nategentile"
+  - username: "3djuegos"
+    fullname: >-
+      3DJuegos
+    bio: >-
+      Pasión por los videojuegos y el entretenimiento 🎮👾 #videogames #videojuegos #3djuegos
+    location: "Argentina"
+    followers: 296132
+    engagement: 134
+    commentsToLikes: 0.027117
+    id: ck0w5dcwg338a0i19u55cjlk3
+    verified: true
+    hashtags: "#venom, #rockstargames, #thelastofus, #nintendoswitch"
   - username: "sheissoheavy"
     fullname: >-
       мєℓιѕѕα exx 🖤🔪
@@ -90,7 +114,7 @@ profiles:
     commentsToLikes: 0.009744
     id: ck9hcgj5hla5n0j782e0u372v
     verified: false
-    hashtags: "#tbt, #streamer, #instagood, #summer"
+    hashtags: "#instagood, #insta, #twitchgirls, #twitch"
   - username: "javi.geek"
     fullname: >-
       Jαʋι Gєєk 👾
@@ -103,28 +127,4 @@ profiles:
     id: ckapaen0jvsnr0i78n134fh05
     verified: false
     hashtags: "#lolchile, #marvel, #gamingsetup, #geekroom"
-  - username: "neverplayertwo"
-    fullname: >-
-      neverplayertwO 🎮
-    bio: >-
-      🕹| Nintendo Maniac 🇪🇸🇬🇧 ⠀⠀⠀ 🕹| DM for collabs 📩⠀⠀⠀ 🕹| Argentina 🇦🇷⠀⠀ 🎮 | @fatalgrips AMBASSADOR 10% code: NEVERPLAYERTWO10 #nintendo
-    location: "Argentina"
-    followers: 5787
-    engagement: 1800
-    commentsToLikes: 0.047100
-    id: ckf5lvh4sr6u40j23qgmczjls
-    verified: false
-    hashtags: "#ninstagram, #retrocollectiveus, #nintendolife, #retrocollective"
-  - username: "rippyrizza"
-    fullname: >-
-      Rippy Rizza
-    bio: >-
-      Productor y Host en @malditosnerds para @vorterixok y en @manijomio para @flowcontenidos. Me leen en malditosnerds.com. MalditosNerdsVX en @youtube.
-    location: "Argentina"
-    followers: 12541
-    engagement: 628
-    commentsToLikes: 0.129529
-    id: ck0w416twwa5o0i193ie5xpud
-    verified: false
-    hashtags: "#concurso, #argentina, #gaming, #fifa"
 ---

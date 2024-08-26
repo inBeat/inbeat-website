@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Norway In 2023
+title: Top 10 Mothers TikTok Influencers In Norway In 2024
 description: >-
-  Find top mothers TikTok influencers in Norway in 2023. Most popular hashtags: #fyp #foryou #norway #foryoupage.
+  Find top mothers TikTok influencers in Norway in 2024. Most popular hashtags: #fyp #foryou #norway #foryoupage.
 platform: TikTok
 hits: 12
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat has 12 TikTok influencers like this in Norway for you to work with.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat has 12 TikTok influencers like this in Norway for you to pitch.
 profiles:
   - username: "annelinsta"
     fullname: >-

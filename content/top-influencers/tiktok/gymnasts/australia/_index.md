@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In Australia In 2023
+title: Top 10 Gymnasts TikTok Influencers In Australia In 2024
 description: >-
-  Find top gymnasts TikTok influencers in Australia in 2023. Most popular hashtags: #gymnastics #fyp #gym #fitness.
+  Find top gymnasts TikTok influencers in Australia in 2024. Most popular hashtags: #gymnastics #fyp #gym #fitness.
 platform: TikTok
 hits: 20
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 20 TikTok influencers like this in Australia for you to work with.
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our database has 20 TikTok influencers like this in Australia for you to contact.
 profiles:
   - username: "thesuburbantarzan"
     fullname: >-
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.058654
     id: cka0gee5s44rz0i78u1leq44v
     verified: false
-    hashtags: "#washing, #over30, #mumsoftiktok, #duet"
+    hashtags: "#duet, #laundry, #lifewithkids, #laundrytok"
   - username: "rybkatwinsofficial"
     fullname: >-
       The Rybka Twins

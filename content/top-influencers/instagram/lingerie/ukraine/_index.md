@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Ukraine In 2023
+title: Top 10 Lingerie Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top lingerie Instagram influencers in Ukraine in 2023. Most popular hashtags: #photo #model #fashion.
+  Find top lingerie Instagram influencers in Ukraine in 2024. Most popular hashtags: #lingerie #photo #ukraine.
 platform: Instagram
-hits: 19
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 19 Instagram influencers like this in Ukraine for you to connect with.
+hits: 18
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 18 Instagram influencers like this in Ukraine for you to connect with.
 profiles:
   - username: "ali_sha_li"
     fullname: >-
@@ -31,6 +31,30 @@ profiles:
     id: ck5q215zfdrl40i11fb4b1tck
     verified: false
     hashtags: "#germany, #white, #video, #portraitphotography"
+  - username: "ilona_arsentieva"
+    fullname: >-
+      Arsentieva Ilona
+    bio: >-
+      ▪️Modeling as style, aesthetics fan ▪️Ambassador @honeybirdette @wiskiiactive @hunkemoller 📍 Europe
+    location: "Ukraine"
+    followers: 332109
+    engagement: 218
+    commentsToLikes: 0.029272
+    id: ck5bvwtnmkk2p0i11ecyw21u4
+    verified: false
+    hashtags: "#style, #takeitoff, #guessfamily, #trier"
+  - username: "iravakhitova"
+    fullname: >-
+      Ира Вахитова, NEWLOOK SMM
+    bio: >-
+      «Мама» @newlook.smm Тревел,гастро,фитнеспомешана Оды еде @vakhitova_cuisine 🤤 Реклама @vakhitova_cooperation Обучение⬇️
+    location: "Ukraine"
+    followers: 110103
+    engagement: 463
+    commentsToLikes: 0.107090
+    id: ck6tv2hdjjsqj0j71ech0ksmj
+    verified: false
+    hashtags: "#dominicanrepublic, #kyiv, #maisonseasons, #georgia"
   - username: "snizhana_lebid"
     fullname: >-
       Snizhana 💎
@@ -43,30 +67,42 @@ profiles:
     id: ck5ce72a2kggq0i11472tlqtp
     verified: false
     hashtags: "#elegant, #like4like, #instagram, #fashion"
-  - username: "vicky_mare"
+  - username: "margo_dumas"
     fullname: >-
-      Victoria Mare
+      Margo Dumas | Content CREATOR | Barcelona| London
     bio: >-
-      ▫️Фіналістка «Супермодель по-українськи» 2 сезон ▫️Співпраця: Інеса 0981258621
+      🇺🇦🇪🇸🇬🇧 ▫️Movie-reels, content for brands, #ugc 🎥📸 ▫️co-owner @freestyletrips 🌍🧳 Content Camp 🎥👇🏼
     location: "Ukraine"
-    followers: 498852
-    engagement: 469
-    commentsToLikes: 0.053167
-    id: ck13719yb9aei0i19sprne69m
+    followers: 229731
+    engagement: 308
+    commentsToLikes: 0.026093
+    id: ck5q99afka0690i113ghi700p
     verified: false
-    hashtags: "#mentos, #yestofresh"
-  - username: "tania_dudu"
+    hashtags: "#barbieoutfit, #contentcreator, #contentmarketing, #selfportraits"
+  - username: "nornaiysha"
     fullname: >-
-      Personal&Fashion stylist
+      Noor Aiysha G
     bio: >-
-      ✍🏻АДЕКВАТНИЙ БЛОГЕР ПРАКТИКУЮЧИЙ СТИЛІСТ ⠀ РОЗБИРАЮ старий гардероб НАДИХАЮ на нове ЖИТТЯ✨ ⠀ СПІВПРАЦЯ:
+      📍Paris Model with @contrebande 🇫🇷
     location: "Ukraine"
-    followers: 71748
-    engagement: 657
-    commentsToLikes: 0.010478
-    id: ck5px31rzpusm0i11q1dyc8bn
+    followers: 118391
+    engagement: 288
+    commentsToLikes: 0.012313
+    id: ck0tv6mdqa5wn0i19wfypfpx5
     verified: false
-    hashtags: "#bounty, #dudu, #howtobestylist, #winteroutfits"
+    hashtags: "#newface, #revolveme, #revolvearoundtheworld, #90skid"
+  - username: "greenteanosugar"
+    fullname: >-
+      Margarita Muradova (Riabova)
+    bio: >-
+      🇺🇦Personal Stylist, Educator + Co-Founder @MODEIS.ME Contact: assistant@greenteanosugar.com TRENDBOOK 2024 sign-up:
+    location: "Ukraine"
+    followers: 293849
+    engagement: 180
+    commentsToLikes: 0.008043
+    id: ck0vzeyu28s2t0i19mgbzi48r
+    verified: true
+    hashtags: "#partnership, #tousukraine"
   - username: "unrealcobain"
     fullname: >-
       UnrealCobain
@@ -91,40 +127,4 @@ profiles:
     id: ckap1gfhduhmq0i78tn3vnjuo
     verified: false
     hashtags: "#halloween, #ravange"
-  - username: "yosypivnna"
-    fullname: >-
-      Kydinna Diana
-    bio: >-
-      Ukraine/Kyiv 🇺🇦 ⬇️Лучшая спортивная одежда ⛹🏼‍♀️🤾🏼‍♀️🏊🏻‍♀️
-    location: "Ukraine"
-    followers: 15881
-    engagement: 582
-    commentsToLikes: 0.029977
-    id: ckf5qn8ed9xv80j2368i866oc
-    verified: false
-    hashtags: ""
-  - username: "sashabarss"
-    fullname: >-
-      
-    bio: >-
-      📍Milan, Italy 🇮🇹 @nextmodelsmilan 🇱🇹 @rutamodelmanagement 🇪🇸 @twomanagementbarcelona ma @anger_models
-    location: "Ukraine"
-    followers: 14228
-    engagement: 593
-    commentsToLikes: 0.024407
-    id: ck5hm9zywlkp90i11jkup2hq2
-    verified: false
-    hashtags: ""
-  - username: "di.blondie"
-    fullname: >-
-      D I A N A 🇺🇦S Η A B A S
-    bio: >-
-      Miss Earth Ukraine👑2019 Miss Bikini 👙🥇2019 / Miss Smile Model in: 🇸🇬🇪🇸🇲🇽🇮🇹🇫🇷🇳🇪🇨🇳🇹🇷🇷🇸... СПІВПРАЦЯ ➡️ @pr_diana.shabas Ambassador of @marieclaire_ua
-    location: "Ukraine"
-    followers: 25983
-    engagement: 464
-    commentsToLikes: 0.015079
-    id: ck6tlr6f46hob0j714aj7f2ug
-    verified: false
-    hashtags: "#aestetic"
 ---

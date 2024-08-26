@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In United States In 2023
+title: Top 10 Health TikTok Influencers In United States In 2024
 description: >-
-  Find top health TikTok influencers in United States in 2023. Most popular hashtags: #duet #fyp #greenscreen #welcomeback.
+  Find top health TikTok influencers in United States in 2024. Most popular hashtags: #duet #fyp #welcomeback #greenscreen.
 platform: TikTok
-hits: 7505
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our database holds 7505 TikTok influencers like this in United States for you to collaborate.
+hits: 7469
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 7469 TikTok influencers like this in United States for you to work with.
 profiles:
   - username: "nataliejuliet"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.041199
     id: ck8savqlr3vd90j78r9uznp9c
     verified: true
-    hashtags: "#wlw, #fyp, #xyzbca, #lgbt"
+    hashtags: "#fyp, #xyzbca, #wlw, #recovery"
   - username: "lexinimmo"
     fullname: >-
       Lexinimmo
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.301311
     id: ckbwejjfw1nji0j23hi2y641u
     verified: false
-    hashtags: "#thesuicidesquadmovie, #fatpositivty, #fatphobiaisnotcute, #cleargenius"
+    hashtags: "#welcomeback, #fatpositivty, #dontquityourdaydream, #plussizefashion"
   - username: "sunshineceee"
     fullname: >-
       Cee :)
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.095489
     id: ckavsvrs35idz0j2392oh6l8v
     verified: false
-    hashtags: "#peak, #youtube, #duet, #friends2family"
+    hashtags: "#utterlymental, #friends2family, #peak, #ourjourney2021"
 ---

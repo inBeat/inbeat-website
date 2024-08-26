@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In 2023
+title: Top 10 Nail Artists Instagram Influencers In 2024
 description: >-
-  Find top nail artists Instagram influencers in 2023. Most popular hashtags: #ad #throwback #style #greece.
+  Find top nail artists Instagram influencers in 2024. Most popular hashtags: #nailart #nails #nailsofinstagram #nailinspo.
 platform: Instagram
-hits: 1235
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 1235 Instagram influencers like this for you to collaborate.
+hits: 1315
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 1315 Instagram influencers like this for you to connect with.
 profiles:
-  - username: "barbien2115"
+  - username: "tiararkelly"
     fullname: >-
-      Bárbara Neto
+      Tiara "Barbie" Kelly
     bio: >-
-      👻 barbara_neto 💅🏽 Certified Nail Artist @babinailsartist 📩 barbaradasilvaneto122@hotmail.com or DM
-    location: "Brazil"
-    followers: 119930
-    engagement: 460
-    commentsToLikes: 0.020397
-    id: ck5bv23ljiura0i11g8df4jr7
+      LA | they/them🏳️‍⚧️ Non Binary ICON • Model • Dancer • Influencer • Press-on Nail Artist 📥 DM to order Brand Partnerships/Bookings: bbentonn@gmail.com
+    location: "United States"
+    followers: 28647
+    engagement: 404
+    commentsToLikes: 0.023167
+    id: ck0u7iz0x4weg0i19kn4duuxv
     verified: false
-    hashtags: "#ootdfashion, #ohpolly, #instagood, #leopard"
-  - username: "angelicaceci95"
+    hashtags: "#greece, #nonbinary, #dancer, #fyp"
+  - username: "rebeccaramsdale"
     fullname: >-
-      Angelica 💙
+      Rebecca Ramsdale
     bio: >-
-      Roma 🇮🇹 Estetista💆‍♀️ Nail artist 💅 Passion for fashion👗👠 Fitness addict🏋️‍♀️
-    location: "Italy"
-    followers: 3701
-    engagement: 1356
-    commentsToLikes: 0.078475
-    id: ck8t5wrudbi500j78diegkd83
+      Nail artist 💅 @rebeccapaintsnails hello@rebeccaramsdale.com 💌 Toronto ⚡️
+    location: "Canada"
+    followers: 8192
+    engagement: 610
+    commentsToLikes: 0.060214
+    id: ck6tmkrsz80rb0j7195bi42j0
     verified: false
-    hashtags: "#veneziagram, #viaggiare, #travelblog, #throwback"
-  - username: "kaddyfromthewest"
+    hashtags: "#unboxing, #marcjacobs, #pursecollection, #13"
+  - username: "nailson7th"
     fullname: >-
-      Kadimah Aaliyah 🇬🇭🇱🇧
+      Jenny bui
     bio: >-
-      🎨 Self Taught Nail Artist x Cuticle Queen 👩🏼‍🤝‍👩🏽 Co-Founder - @nuka.nails 💅🏾 BA - @the_gelbottle_inc 💎 Mgmt - Lg@rainlondon.co.uk 💰 Book Me Below
+      Celebrity Nail Artist Nail Artist of the year winner AIA award BRAND/PR : jennybuiteam@gmail.com
+    location: "United States"
+    followers: 1350698
+    engagement: 558
+    commentsToLikes: 0.009921
+    id: ck14i7udbe2qc0i199jwmfbxd
+    verified: true
+    hashtags: "#nails, #queenofbling, #fashion, #apresgelx"
+  - username: "gelsbybry"
+    fullname: >-
+      Bryony Howell
+    bio: >-
+      Nail Artist & Educator @the_gelbottle_inc Brand Ambassador @thenailclubco Training Academy
     location: "United Kingdom"
-    followers: 20218
-    engagement: 302
-    commentsToLikes: 0.058830
-    id: ck55jp9nqxhoo0i11q47rca0m
+    followers: 309787
+    engagement: 439
+    commentsToLikes: 0.022977
+    id: ckprgrd7x8a3t0j23646r362o
     verified: false
-    hashtags: "#itsmorethanjustnails, #shemovesus, #ad, #nuka"
-  - username: "amyle.nails"
+    hashtags: "#metallicnails, #frenchtips, #babypink, #summernails"
+  - username: "chaunlegend"
     fullname: >-
-      Amy Le
+      Chaun Legend
     bio: >-
-      — nails • beauty • jewelry editorial/ campaign nail artist — hello@amylenails.com 🤍 LA • @amyle.jpg she/her
+      ▪️Celebrity Nail Artist 🇰🇭 ▪️LosAngeles ▪️ @chaunlegendnails 7/1/24 ▪️Agent:Jose@theonly.agency
     location: "United States"
-    followers: 259446
-    engagement: 492
-    commentsToLikes: 0.006899
-    id: ck0tupbps84460i19s2n693v1
+    followers: 1146817
+    engagement: 250
+    commentsToLikes: 0.063219
+    id: ck0tw1lhidmnq0i197m7mcdq0
     verified: false
-    hashtags: "#sinfulcolorspartner, #xoxosinfulcolors, #celebratetheexperts, #tweezermanpartner"
-  - username: "danimoraesx"
+    hashtags: "#chaunlegend, #zara, #zarabeauty, #thereisnobeautyonlybeauties"
+  - username: "feliciadeebeauty"
     fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀ Dani Moraes
+      felicia | nail artist
     bio: >-
-      loca, sincera & desprovida de vergonha 🤷🏻‍♀️ • perfil profissional: @danimoraespro • gaúcha, 22, make up & nail artist 💋💅🏻 ❥ @srodriguesguii 💍💖
-    location: "Brazil"
-    followers: 9125
-    engagement: 1064
-    commentsToLikes: 0.810235
-    id: ckap4ahdf6he50i78xmtl4d8n
+      welcome to my life as a nail artist ✌🏼 home studio | wpg natural nails only • not currently accepting new clients •
+    location: "Canada"
+    followers: 12050
+    engagement: 286
+    commentsToLikes: 0.023738
+    id: ckap7ki3nkgnc0i780kzfw2qb
     verified: false
-    hashtags: "#amorproprio, #corpolivre, #ensaiosensual, #photography"
-  - username: "blakejael"
+    hashtags: "#wpg, #almondnails, #nailtech, #nudenails"
+  - username: "gieos.room"
     fullname: >-
-      blake jael 💫✨
+      Stephanie holland
     bio: >-
-      creator nail artist - @theblingdbrand lastest yt video below :)
-    location: "United States"
-    followers: 80967
-    engagement: 1125
-    commentsToLikes: 0.015636
-    id: ck6ud8j66jnrp0j7143nemf7d
-    verified: false
-    hashtags: "#emergepartner, #aussomehair, #ad, #diy"
-  - username: "eysandius"
-    fullname: >-
-      Ντιάνα👱🏽‍♀️
-    bio: >-
-      Intelligence is sexy🤍 In a world you can be anything ,be kind🕊 /Certified Nail Artist/💅🏼
-    location: "United States"
-    followers: 2271
-    engagement: 1704
-    commentsToLikes: 0.295507
-    id: ckap2bmnny5i40i78za5tblxm
-    verified: false
-    hashtags: "#followers, #moments, #beauty, #fashion"
-  - username: "chroma_nails"
-    fullname: >-
-      Jennifer Dye
-    bio: >-
-      Let's paint some nails. Nail artist, Portland, OR 💅🏻Minimalist art 🔹Swatches🔹Tutorials 👉🏻 @essieclubcollab member 💌 jenniferdyenails@gmail.com
-    location: "United States"
-    followers: 15158
-    engagement: 917
-    commentsToLikes: 0.029664
-    id: ck55l2xap0mhr0i11s6dhsjvh
-    verified: false
-    hashtags: "#neutralnails, #nailart, #fallnails, #rainbownails"
-  - username: "getbuffednails"
-    fullname: >-
-      Sarah Elmaz
-    bio: >-
-      Nail artist - Melbourne Australia 💅🏼 • Products - @getbuffedpro • Class info @getbuffeducated • Nail style • Inspiration 💌 hello@getbuffednails.co
+      Nail Artist & Content Creator. @the_gelbottle_inc Content expert. New Clients Welcome. Stafford Based. @m.u.s.e.thesalon co-owner
     location: "United Kingdom"
-    followers: 432620
-    engagement: 78
-    commentsToLikes: 0.139853
-    id: ck6uc6y0wdvox0j71hch3io73
+    followers: 80406
+    engagement: 269
+    commentsToLikes: 0.023743
+    id: ckxv7u296d62s0j23qlx2n4zp
     verified: false
-    hashtags: "#squarenails, #halloweennails, #getbuffedpro, #gellyfit"
-  - username: "ninanailedit"
+    hashtags: "#nailsoftheday, #chromenails, #whitenails, #nailsofinstagram"
+  - username: "hnnailsbyhoney"
     fullname: >-
-      Nina Park
+      Honey Phan
     bio: >-
-      Nail artist. Educator. nina@ninanailedit.com CEO + Artist @goscratchit Find SCRATCH at @ultabeauty + @madewell
+      CEO/Founder of @honeysnailsecret Georgia USA Nail Educator Nail Artist Nail Supply Distributors NOT ACCEPTING CLIENTS
     location: "United States"
-    followers: 102304
-    engagement: 480
-    commentsToLikes: 0.030180
-    id: ck14igo6bfb3s0i19891ip51j
+    followers: 383129
+    engagement: 220
+    commentsToLikes: 0.007247
+    id: ck0tzerb1q3f40i1941rp2fwe
     verified: false
-    hashtags: "#ad, #licensedtocreate, #40yearsofcolor, #opi40xcosmoprof"
+    hashtags: "#squarenails, #nailsof2021, #bluenails, #discogel"
+  - username: "bysarah____"
+    fullname: >-
+      SARAH WOODS
+    bio: >-
+      Manicurist, Nail Artist & Educator Founder @woonailsuk Liverpool UK | L36 BA @glossifyofficial Bookings & courses link ⬇️
+    location: "United Kingdom"
+    followers: 109163
+    engagement: 214
+    commentsToLikes: 0.018297
+    id: ck5zv8qu33rzm0i14en2jzmih
+    verified: false
+    hashtags: "#naturalnails, #gelnails, #loveglossify, #showscratch"
+  - username: "kirstymeakin"
+    fullname: >-
+      Kirsty Meakin
+    bio: >-
+      Nail artist | Nail inspo | Nail tutorials | Nail courses 📧 nails@kirstymeakin.com 🛍️ www.kirstymeakin.com 🎥 YouTube - Kirsty Meakin Nails
+    location: "United Kingdom"
+    followers: 259195
+    engagement: 101
+    commentsToLikes: 0.019088
+    id: ck15rajpb6z4h0i19uqprzxuv
+    verified: true
+    hashtags: "#swarovski, #longnails, #naturalnails, #crafts"
 ---

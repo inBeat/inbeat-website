@@ -1,130 +1,130 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Spain In 2023
+title: Top 10 Photographers Instagram Influencers In Spain In 2024
 description: >-
-  Find top photographers Instagram influencers in Spain in 2023. Most popular hashtags: #portrait #photography #photographer.
+  Find top photographers Instagram influencers in Spain in 2024. Most popular hashtags: #nature #photography #mountains.
 platform: Instagram
-hits: 493
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 493 Instagram influencers like this in Spain for you to contact.
+hits: 502
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 502 Instagram influencers like this in Spain for you to pitch.
 profiles:
-  - username: "danphto"
+  - username: "shanishaki"
     fullname: >-
-      𝑫𝒂𝒏𝒑𝒉𝒕𝒐 ⚡️
+      Shani Shaki
     bio: >-
-      Hey! I’m Dani 📸 22 years old photographer from 👇🏽 📍 Madrid, Spain 💌 danphto@saramartinmgt.com ✨ TikTok: danphto
+      Fashion photographer/director actor/traveller/model/brand influencer/creative artist/Stylist/ story teller
     location: "Spain"
-    followers: 190364
-    engagement: 891
-    commentsToLikes: 0.005904
-    id: ck136mavu76vf0i19cea7eqpw
-    verified: false
-    hashtags: ""
-  - username: "antobonazzola"
+    followers: 194224
+    engagement: 766
+    commentsToLikes: 0.004883
+    id: ck0vxzqgd1j410i19wfsbdtrp
+    verified: true
+    hashtags: "#barcelona, #onam, #myfav, #explorer"
+  - username: "2doppelgangers"
     fullname: >-
-      Ms. Antonela
+      Sousou & Faty 🧸
     bio: >-
-      Photographer & Content Creator «skincare & fashion» ★ info@antobonazzola.com.ar ● @abb_brand & @gigil.arg 💕
+      photographer & fashion stylist⭐️ Twin sisters Casablanca ✉️thedoppelgangers08@gmail.com
     location: "Spain"
-    followers: 86783
-    engagement: 709
-    commentsToLikes: 0.401947
-    id: ck0w60lmg6c7y0i19rz3w6fex
+    followers: 126240
+    engagement: 419
+    commentsToLikes: 0.015926
+    id: ck1354oe7zott0i19vjpg1wp8
     verified: false
-    hashtags: "#skincare, #ph, #ootd, #cicaextreme"
-  - username: "johnjacar_"
+    hashtags: "#ladymillionroyal, #pacorabanneparfums, #beroyal, #khelikluminous"
+  - username: "denise_forma_mentis_"
     fullname: >-
-      Johnjacar
+      ⛔NO DM⛔ made in Rome 🤌🇮🇹 based in Valencia 🇪🇦🍊
     bio: >-
-      👔Menswear & Lifestyle 📸 My own edit 📸Photographer -> @johnjacar_photography 📍Based in Cádiz ( Spain ) jonathanjaencarrion@hotmail.com
+      🎓Acc.BB.AA. Organic chemist&heritage preservation🔬🌍 Artist🎨, model🌶️🌶️🌶️, photographer 📷 📩For collab: deniseformamentisonlybusiness@gmail.com
     location: "Spain"
-    followers: 6180
-    engagement: 1037
-    commentsToLikes: 0.417900
-    id: ck6ttwjxxczae0j71b3je51tb
+    followers: 37758
+    engagement: 767
+    commentsToLikes: 0.138245
+    id: ckaou8gnaz9u30i78u2jhseej
     verified: false
-    hashtags: "#inspo, #wearstyle, #outfitoftheday, #vintagestyle"
+    hashtags: "#fansonlylinkinbio, #costume, #christmastime, #outfit"
+  - username: "rsalanova"
+    fullname: >-
+      Roger Salanova
+    bio: >-
+      📸Sports Photographer 💻Content Creator 📩rsalanovavisuals@gmail.com
+    location: "Spain"
+    followers: 9998
+    engagement: 500
+    commentsToLikes: 0.014088
+    id: ck8t42bsp59530j7889wj0bm4
+    verified: false
+    hashtags: "#andorra, #rsalanova, #ski, #cosetes"
+  - username: "airmadrid"
+    fullname: >-
+      Pablo Bayo
+    bio: >-
+      Automotive Photographer Dream Bigger Fast Life ✉️Pablobayofotografia@gmail.com
+    location: "Spain"
+    followers: 58451
+    engagement: 1677
+    commentsToLikes: 0.014486
+    id: ck0ttboqb20mb0i19ppe2ibv8
+    verified: false
+    hashtags: "#porsche, #lamborghini, #v12, #ferrariraces"
+  - username: "rosacopado"
+    fullname: >-
+      ROSA COPADO
+    bio: >-
+      fashion photographer — creative director here is my personal lifestyle journal work: @rosacopado.studio and website inquiries : hello@rosacopado.com
+    location: "Spain"
+    followers: 55825
+    engagement: 496
+    commentsToLikes: 0.010979
+    id: ck134ghdxwapn0i19m4kyzdo6
+    verified: false
+    hashtags: "#fyp, #grwm, #ootd, #arte"
+  - username: "ignacio_yufera"
+    fullname: >-
+      Ignacio Yúfera
+    bio: >-
+      World-wandering Spanish photographer with @tamandua_nature_tours 🇪🇸🇵🇦All wild images ©️me
+    location: "Spain"
+    followers: 35430
+    engagement: 548
+    commentsToLikes: 0.042173
+    id: ck0w6i2r38o1h0i19bbf3tn7s
+    verified: false
+    hashtags: "#birdsonearth, #macrogrammers, #ip, #wildlife"
   - username: "joseptienzaphoto"
     fullname: >-
       JOSEP TIENZA
     bio: >-
-      Photographer & Filmmaker✨ 📍Barcelona, Spain CEO @streikmanagement ⚡️ + Info (DM) 💌 Personal account: @joseptienza
+      CEO & Founder @streikmanagement ⚡️ Before: Photographer & Filmmaker✨ 📍Barcelona, Spain + Info: info@streikmanagement.com
     location: "Spain"
-    followers: 26506
-    engagement: 1248
-    commentsToLikes: 0.045558
+    followers: 23972
+    engagement: 1569
+    commentsToLikes: 0.041010
     id: ck6tiaxqq0dek0j71itcwcylm
     verified: false
     hashtags: ""
-  - username: "alejandromateuphoto"
+  - username: "jordirullo"
     fullname: >-
-      ᴀʟᴇᴊᴀɴᴅʀᴏ ᴍᴀᴛᴇᴜ
+      JORDI  RULLÓ
     bio: >-
-      📸 Portrait - Advertising & Weddings 🎬 CEO & Photographer in: @ultravioletevents 💻 Curso Ps al 30% de descuento |+ info MD| 📍 Elche - Spain
+      Outdoor Photographer - Director #TerritoriIndi Co-founder @bluecollectors Co-op member @stocksyunited
     location: "Spain"
-    followers: 38747
-    engagement: 509
-    commentsToLikes: 0.108207
-    id: ck5qede4hzxyl0i11j2pdxl97
+    followers: 8401
+    engagement: 461
+    commentsToLikes: 0.029275
+    id: ckap8vnz8q3m50i78fczl7lj3
     verified: false
-    hashtags: ""
-  - username: "micholivera"
+    hashtags: "#skiing, #freerideski, #pyrenees, #pirineus"
+  - username: "aritzgordo"
     fullname: >-
-      Michael Olivera
+      Aritz Gordo
     bio: >-
-      ◾ Dancer I Choreographer I Teacher ◾ Filmmaker I Photographer @mo.audiovisuales From 🇺🇾 📍BARCELONA
+      Euskal Herria / Freelance photographer www.aritzgordo.com YouTube ⬇️
     location: "Spain"
-    followers: 6158
-    engagement: 1438
-    commentsToLikes: 0.059980
-    id: ckf5oaop91kbz0j23a7kcqmg4
+    followers: 23786
+    engagement: 575
+    commentsToLikes: 0.044311
+    id: ck5hlq90wknj10i11behqj8fc
     verified: false
-    hashtags: "#summer2020, #gottalent, #barcelona, #catalunya"
-  - username: "lauranfotografia_"
-    fullname: >-
-      Laura Núñez Fotografia 📷
-    bio: >-
-      📷 Portrait and adverstising Photographer 💭 DreamingWithPhotographs 📍 Rubí, Barcelona 🤰👰👨‍👩‍👧‍👦 @dreamingwithphotographs 🖼️ Portfolio👇
-    location: "Spain"
-    followers: 15973
-    engagement: 463
-    commentsToLikes: 0.226689
-    id: ck6u0nlnkgqh60j71tdbfj3q9
-    verified: false
-    hashtags: "#portrait, #novia, #barcelona, #hinocc"
-  - username: "danielvazquezcarvallo"
-    fullname: >-
-      DANIEL VAZQUEZ 📸
-    bio: >-
-      PHOTOGRAPHER 📸 Cuenca, Ecuador. Producciones(shoots,productos,eventos,brands,publicidad) Cotizaciones DM. vazquezcarvallodaniel@gmail.com
-    location: "Spain"
-    followers: 14909
-    engagement: 1666
-    commentsToLikes: 0.410856
-    id: ck5cf9q86mjae0i11ygs7ijye
-    verified: false
-    hashtags: "#photography, #photoshoot, #photographer, #portrait"
-  - username: "carrilloopics"
-    fullname: >-
-      Berta Carrillo 📸
-    bio: >-
-      ▪️Portrait Photographer || Pamplona, Spain 🇪🇸📍 ▪️Info/Colabs: MD 📥 ▪️#carrilloopics
-    location: "Spain"
-    followers: 7512
-    engagement: 2646
-    commentsToLikes: 0.043866
-    id: ck0ud246wi90v0i19uea6dejk
-    verified: false
-    hashtags: "#lightroom, #main, #portraitpr0ject, #carrilloopics"
-  - username: "felix_espinar"
-    fullname: >-
-      Félix Espinar 📷 | Portrait
-    bio: >-
-      📌| Barcelona, Sabadell 📸| Photographer & Filmaker 📥| DM for Shootings ✨| Cuenta Personal ➙ @Felix.espinar 🌎| Mi Página Web ⤵⤵⤵⤵⤵⤵⤵⤵
-    location: "Spain"
-    followers: 11121
-    engagement: 655
-    commentsToLikes: 0.077589
-    id: ck5pyzd5hyk3v0i11q3ii0sd3
-    verified: false
-    hashtags: "#wildrider"
+    hashtags: "#turismoeuskadi, #visiteuskadi, #huescaturismo, #enduro"
 ---

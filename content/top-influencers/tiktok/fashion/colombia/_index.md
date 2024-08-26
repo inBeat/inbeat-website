@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Colombia In 2023
+title: Top 10 Fashion TikTok Influencers In Colombia In 2024
 description: >-
-  Find top fashion TikTok influencers in Colombia in 2023. Most popular hashtags: #fashion #foryou #viral #parati.
+  Find top fashion TikTok influencers in Colombia in 2024. Most popular hashtags: #fashion #foryou #parati #viral.
 platform: TikTok
 hits: 42
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our database has 42 TikTok influencers like this in Colombia for you to contact.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database has 42 TikTok influencers like this in Colombia for you to pitch.
 profiles:
   - username: "fashionismylaw"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.043841
     id: ckbfflvvbadwu0j23snqwup8w
     verified: true
-    hashtags: "#foryou, #skincare, #fyp, #beauty"
+    hashtags: "#marrebeauty, #fyp, #skincare, #beauty"
   - username: "sophiegiraldo.of"
     fullname: >-
       Sophie Giraldo 

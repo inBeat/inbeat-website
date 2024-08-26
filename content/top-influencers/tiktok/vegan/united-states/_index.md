@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In United States In 2023
+title: Top 10 Vegan TikTok Influencers In United States In 2024
 description: >-
-  Find top vegan TikTok influencers in United States in 2023. Most popular hashtags: #fyp #vegan #duet #beauty.
+  Find top vegan TikTok influencers in United States in 2024. Most popular hashtags: #vegan #duet #fyp #beauty.
 platform: TikTok
-hits: 1020
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine holds 1020 TikTok influencers like this in United States for you to work with.
+hits: 1014
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 1014 TikTok influencers like this in United States for you to work with.
 profiles:
   - username: "veganlesbianrepublicans"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.137265
     id: ckdi698kc7kx40j23kfpcva2q
     verified: false
-    hashtags: "#stitch, #vegan, #plantbased, #leftist"
+    hashtags: "#stitch, #plantbased, #leftist, #vegan"
   - username: "veganmumu"
     fullname: >-
       Shannon
@@ -42,19 +42,7 @@ profiles:
     commentsToLikes: 0.401234
     id: ckavlfj1duq540j237nx3htr9
     verified: false
-    hashtags: "#mom, #davematthewsband, #floridavegan, #heal"
-  - username: "kawaiikingb"
-    fullname: >-
-      MJ Cobra
-    bio: >-
-      (๑˃ᴗ˂)◜✧˖° MJ ♡ The Banana King 👑 キラ キラ Energy 100%! 25 ☆ Bigender ☆ Vegan
-    location: "United States"
-    followers: 4459
-    engagement: 2638
-    commentsToLikes: 0.068353
-    id: ckav30jp99aym0j2355hwtnvy
-    verified: false
-    hashtags: "#foryoupage, #decora, #harajukuboy, #decorafashion"
+    hashtags: "#heal, #cats, #animallover, #nontoxic"
   - username: "giuliasabatinoo"
     fullname: >-
       giulia
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.146150
     id: ckcv4z5cpp2f00j230yo2hytp
     verified: false
-    hashtags: "#fyp, #draft, #tb, #naturalhair"
+    hashtags: "#draft, #tb, #duet, #naturalhair"
   - username: "delavegan"
     fullname: >-
       302 Vegan
@@ -127,4 +115,16 @@ profiles:
     id: ckavshd0h4zi80j2330pof3t6
     verified: false
     hashtags: "#voteforchange2020, #mentalhealrhawreness, #mentalhealthtiktoks, #mentalhealness"
+  - username: "rescuedfriends"
+    fullname: >-
+      Animal Sanctuary Rescue
+    bio: >-
+      www.rescuedfriends.org 501c3 nonprofit promoting a vegan way of life.
+    location: "United States"
+    followers: 67200
+    engagement: 1296
+    commentsToLikes: 0.105694
+    id: ckc38er40x5mt0j23xbo43sck
+    verified: false
+    hashtags: "#animalsanctuary, #duet, #animalrescue, #rescueanimals"
 ---

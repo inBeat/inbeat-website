@@ -1,11 +1,11 @@
 ---
-title: Top 10 Boxers TikTok Influencers In United States In 2023
+title: Top 10 Boxers TikTok Influencers In United States In 2024
 description: >-
-  Find top boxers TikTok influencers in United States in 2023. Most popular hashtags: #fyp #foryoupage #foryou #funny.
+  Find top boxers TikTok influencers in United States in 2024. Most popular hashtags: #fyp #foryoupage #foryou #duet.
 platform: TikTok
-hits: 256
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our platform holds 256 TikTok influencers like this in United States for you to pitch.
+hits: 254
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 254 TikTok influencers like this in United States for you to collaborate.
 profiles:
   - username: "willowthebeautifulcat"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.075087
     id: ck81s1ikspbwb0j78zwuocgec
     verified: false
-    hashtags: "#funnypets, #tiktokcats, #boopmynose, #catsrule"
+    hashtags: "#catsrule, #sillycat, #tiktokcats, #boopmynose"
   - username: "imbackyerrr"
     fullname: >-
       Cucuy0f1cial
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.008191
     id: ck9sl4hxqc07r0j78h79ijte2
     verified: false
-    hashtags: "#4u, #findyourcore, #foryou, #georgetheboxer"
+    hashtags: "#findyourcore, #fyp, #funny, #foryou"
 ---

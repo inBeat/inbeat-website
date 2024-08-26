@@ -1,48 +1,36 @@
 ---
-title: Top 10 Stylists Instagram Influencers In 2023
+title: Top 10 Stylists Instagram Influencers In 2024
 description: >-
-  Find top stylists Instagram influencers in 2023. Most popular hashtags: #kbhxgab #sustainablefashion #styledxgabrielalangone.
+  Find top stylists Instagram influencers in 2024. Most popular hashtags: #loewe #riefejewellery #celine.
 platform: Instagram
-hits: 10039
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 10039 Instagram influencers like this for you to pitch.
+hits: 10876
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 10876 Instagram influencers like this for you to pitch.
 profiles:
-  - username: "ericakentosh"
+  - username: "daniellegoldberg"
     fullname: >-
-      Erica Kentosh
+      danielle goldberg
     bio: >-
       stylist
     location: "United States"
-    followers: 7873
-    engagement: 448
-    commentsToLikes: 0.142494
-    id: ck8szvgpspv460j782qzyjotc
-    verified: false
-    hashtags: "#momlife, #90sbaby, #newbornlife, #6weeksold"
+    followers: 127039
+    engagement: 582
+    commentsToLikes: 0.013466
+    id: ckf5rkr59d0t00j237rebepu4
+    verified: true
+    hashtags: "#loewe, #kaiagerber, #gretalee, #oliviarodrigo"
   - username: "tamalaclarice"
     fullname: >-
       ™️©️
     bio: >-
       Stylist
     location: "United States"
-    followers: 10159
-    engagement: 558
-    commentsToLikes: 0.095822
+    followers: 10047
+    engagement: 597
+    commentsToLikes: 0.095767
     id: ck13am7bwr25b0i19f60etab1
     verified: false
-    hashtags: "#styledbyclarice, #styledbytamalaclarice"
-  - username: "mollyddickson"
-    fullname: >-
-      molly dickson
-    bio: >-
-      Stylist.
-    location: "United States"
-    followers: 48435
-    engagement: 371
-    commentsToLikes: 0.015554
-    id: ck0u0pdqxugji0i19tqls8nij
-    verified: true
-    hashtags: "#sadiesink, #strangerthings"
+    hashtags: "#styledbytamalaclarice, #styledbyclarice, #blackout, #kollinstudio"
   - username: "btmarie"
     fullname: >-
       BT MARIE
@@ -73,24 +61,12 @@ profiles:
     bio: >-
       STYLIST
     location: "United States"
-    followers: 16475
-    engagement: 192
-    commentsToLikes: 0.066659
+    followers: 17878
+    engagement: 252
+    commentsToLikes: 0.071004
     id: ck135tzeh38aq0i199g303s02
     verified: false
-    hashtags: "#bottegaveneta, #londonfashionweek, #streetstyle, #cricketfashion"
-  - username: "ramamustav"
-    fullname: >-
-      Ramil
-    bio: >-
-      Stylist
-    location: "United States"
-    followers: 15555
-    engagement: 627
-    commentsToLikes: 0.051826
-    id: ck14h8wsg94i50i19s840o6ia
-    verified: false
-    hashtags: ""
+    hashtags: "#pfw20, #valentino, #fw21, #albertaferretti"
   - username: "xgabriela"
     fullname: >-
       gabriela langone
@@ -102,7 +78,7 @@ profiles:
     commentsToLikes: 0.086318
     id: ck0vvqhr8qb370i19t1ogbyei
     verified: false
-    hashtags: "#kbhxgab, #sustainablefashion, #verishoplivestream, #sustainable"
+    hashtags: "#sustainablefashion, #sustainable, #styledxgabrielalangone, #kbhxgab"
   - username: "klychkovanastya"
     fullname: >-
       Nastya Klychkova
@@ -127,4 +103,28 @@ profiles:
     id: ck0tuiivf7bb40i19p4rf804v
     verified: false
     hashtags: "#mood, #bts, #tank, #guccijackie1961"
+  - username: "tatsuyashimada1984"
+    fullname: >-
+      Tatsuya Shimada
+    bio: >-
+      stylist
+    location: "United States"
+    followers: 7075
+    engagement: 274
+    commentsToLikes: 0.005517
+    id: ck0u1w67qy84m0i19e2zyjsdz
+    verified: false
+    hashtags: "#2021aw, #streetwear, #cyberpunk, #pfwm"
+  - username: "shinosuganuma"
+    fullname: >-
+      Shino Suganuma 管沼詩乃
+    bio: >-
+      Stylist
+    location: "United States"
+    followers: 6549
+    engagement: 371
+    commentsToLikes: 0.018141
+    id: ck5bztpj5rtn10i118sjwt356
+    verified: false
+    hashtags: "#riefejewellery, #loewe, #girlofthemonth, #loewetotoro"
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Gaming TikTok Influencers In New York In 2023
+title: Top 10 Gaming TikTok Influencers In New York In 2024
 description: >-
-  Find top gaming TikTok influencers in New York in 2023. Most popular hashtags: #fyp #foryou #gaming #duet.
+  Find top gaming TikTok influencers in New York in 2024. Most popular hashtags: #fyp #foryou #gaming #duet.
 platform: TikTok
-hits: 35
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 35 TikTok influencers like this in New York, United States for you to collaborate.
+hits: 34
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 34 TikTok influencers like this in New York, United States for you to collaborate.
 profiles:
+  - username: "zinkronized"
+    fullname: >-
+      Zink
+    bio: >-
+      #1 Call of Duty Sniper in New York #YouShallObey Twitter @Zinkronized
+    location: "United States"
+    followers: 30800
+    engagement: 1564
+    commentsToLikes: 0.028660
+    id: ckauy7n0y3oqg0j235k6e7pzf
+    verified: false
+    hashtags: "#foryoupage, #codwarzone, #youshallobey, #greenscreen"
   - username: "dayymein"
     fullname: >-
       ⁹⁹⁹
@@ -31,30 +43,6 @@ profiles:
     id: ckc30vfacrhax0j23flkmwcbg
     verified: false
     hashtags: "#lifeisstrangecosplay, #mrcentipede, #chloeprice, #lifeisstrange"
-  - username: "wttdotm"
-    fullname: >-
-      Morry
-    bio: >-
-      Influencer and Influenza a share a root Welcome To The Desert Of The Meme 25, BK
-    location: "United States"
-    followers: 25200
-    engagement: 1386
-    commentsToLikes: 0.042731
-    id: ckcdf80yy6hxs0j23e3rnwny9
-    verified: false
-    hashtags: "#greenscreen, #stitch, #wttdotm, #borat"
-  - username: "zinkronized"
-    fullname: >-
-      Zink
-    bio: >-
-      #1 Call of Duty Sniper in New York #YouShallObey Twitter @Zinkronized
-    location: "United States"
-    followers: 30800
-    engagement: 1564
-    commentsToLikes: 0.028660
-    id: ckauy7n0y3oqg0j235k6e7pzf
-    verified: false
-    hashtags: "#callofduty, #youshallobey, #foryoupage, #twitch"
   - username: "blinkbuttonmash"
     fullname: >-
       Blinko Blinky
@@ -67,18 +55,6 @@ profiles:
     id: ckcdvthgbf88q0j23xj45o4bb
     verified: false
     hashtags: "#playstation, #worththewait, #duet, #memes"
-  - username: "jbobbyandrios"
-    fullname: >-
-      JbobbyandRios
-    bio: >-
-      
-    location: "United States"
-    followers: 29500
-    engagement: 810
-    commentsToLikes: 0.015825
-    id: ck8s54925e9nz0j78fzr9bdw8
-    verified: false
-    hashtags: "#overtime, #nba, #music, #basketball"
   - username: "nikahola"
     fullname: >-
       Niklas Ahola
@@ -126,5 +102,29 @@ profiles:
     commentsToLikes: 0.018219
     id: ckavk0uzcssjk0j23w8itip6h
     verified: false
-    hashtags: "#asian, #foryou, #leagueoflegends, #fyp"
+    hashtags: "#boyfriend, #chinese, #artistsoftiktok, #foryou"
+  - username: "strawberryelf"
+    fullname: >-
+      Strawberry
+    bio: >-
+      22 | Seattle | 1/2 chinese | creepy cute kawaii, gaming, anime, makeup, & style
+    location: "United States"
+    followers: 508200
+    engagement: 2272
+    commentsToLikes: 0.011132
+    id: ck83yvbfcw25k0j78iaibm0pq
+    verified: false
+    hashtags: "#kawaii, #goth, #alt, #deathnote"
+  - username: "kelomenlon"
+    fullname: >-
+      Sammy
+    bio: >-
+      I hate TikTok, yet here I am....🤔 God #1 🙌🏻 Gaming Account: @noobkelo
+    location: "United States"
+    followers: 199700
+    engagement: 1587
+    commentsToLikes: 0.043806
+    id: ck9n9cpmf9d5w0j781e8z6wk9
+    verified: false
+    hashtags: "#walmart, #state, #peopleofwalmart, #towns"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Norway In 2023
+title: Top 10 Music TikTok Influencers In Norway In 2024
 description: >-
-  Find top music TikTok influencers in Norway in 2023. Most popular hashtags: #fyp #foryou #foryoupage #music.
+  Find top music TikTok influencers in Norway in 2024. Most popular hashtags: #fyp #foryou #foryoupage #music.
 platform: TikTok
 hits: 31
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 31 TikTok influencers like this in Norway for you to pitch.
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 31 TikTok influencers like this in Norway for you to pitch.
 profiles:
   - username: "girlinred"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.083688
     id: cka666jf8fy0p0i78r4euukns
     verified: false
-    hashtags: "#new, #holidaymusic, #newmusic, #studio"
+    hashtags: "#lenee, #new, #studio, #newmusic"
   - username: "eliasjungerr"
     fullname: >-
       Elias Jünger

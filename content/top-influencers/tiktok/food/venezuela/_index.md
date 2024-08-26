@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Venezuela In 2023
+title: Top 10 Food TikTok Influencers In Venezuela In 2024
 description: >-
-  Find top food TikTok influencers in Venezuela in 2023. Most popular hashtags: #fyp #viral #parati #venezuela.
+  Find top food TikTok influencers in Venezuela in 2024. Most popular hashtags: #fyp #viral #parati #venezuela.
 platform: TikTok
 hits: 13
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 13 TikTok influencers like this in Venezuela for you to contact.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database holds 13 TikTok influencers like this in Venezuela for you to collaborate.
 profiles:
   - username: "saulbretto"
     fullname: >-

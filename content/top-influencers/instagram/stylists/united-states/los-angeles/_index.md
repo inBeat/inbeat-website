@@ -1,12 +1,24 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Los Angeles In 2023
+title: Top 10 Stylists Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top stylists Instagram influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #fashion #artist.
+  Find top stylists Instagram influencers in Los Angeles in 2024. Most popular hashtags: #ootd #fashion #losangeles.
 platform: Instagram
-hits: 179
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 179 Instagram influencers like this in Los Angeles, United States for you to work with.
+hits: 215
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 215 Instagram influencers like this in Los Angeles, United States for you to connect with.
 profiles:
+  - username: "rachellbode"
+    fullname: >-
+      Rachel Bode
+    bio: >-
+      Wardrobe Stylist Los Angeles
+    location: "United States"
+    followers: 25039
+    engagement: 382
+    commentsToLikes: 0.027093
+    id: ckwzuvhmjyk2b0j23q57c0vz0
+    verified: false
+    hashtags: ""
   - username: "jakesammis"
     fullname: >-
       Jake Sammis
@@ -19,18 +31,30 @@ profiles:
     id: ck0w4cr5pxxui0i19xhtez5v2
     verified: false
     hashtags: ""
-  - username: "stylebytommy"
+  - username: "seannaltman"
     fullname: >-
-      ✂️ Tommy Tran📍Los Angeles 🌴
+      Seann Altman
     bio: >-
-      • Hairstylist | Artist | Photographer 👉Follow my Work💥@byTommyStyle🎨#StylebyTommy 👉DM me to Make an✂️Appointment ! Or Book with me: 👇(Link Below)
+      I'm just being me! 🧚‍♂️ (he/him)📍LA I play dress up, make lil edits, and sing sometimes… Email: seann@palettemgmt.com
     location: "United States"
-    followers: 753120
-    engagement: 37
-    commentsToLikes: 0.015928
-    id: ck5cbkqkhfmkt0i116uhq0cxj
+    followers: 194545
+    engagement: 830
+    commentsToLikes: 0.008419
+    id: clrmpkkp9zx4r0k08lxl3en8c
     verified: false
-    hashtags: "#hairstylist, #model, #hollywood, #artist"
+    hashtags: "#howtostyle, #ribbons, #fashionweek, #altfashion"
+  - username: "sydneylopez"
+    fullname: >-
+      sydneylopez
+    bio: >-
+      stylist 📍Los Angeles
+    location: "United States"
+    followers: 28311
+    engagement: 39
+    commentsToLikes: 0.007311
+    id: ck0ubts42ff7p0i199fkrlsic
+    verified: false
+    hashtags: "#jonasbrothers, #joejonas, #lasvegas, #sydneylopez"
   - username: "ashleyyjessica"
     fullname: >-
       Ashley Jessica 👸🏼
@@ -54,7 +78,7 @@ profiles:
     commentsToLikes: 0.089997
     id: ckap08eblp7300i78tc80esey
     verified: false
-    hashtags: "#ootd, #gay, #lgbt, #reelsinstagram"
+    hashtags: "#reelsinstagram, #gay, #reels, #ootd"
   - username: "thesaffronstories"
     fullname: >-
       Tina Paymaster | Food Photo
@@ -67,64 +91,40 @@ profiles:
     id: ck55phuxvalav0i11dgirorts
     verified: false
     hashtags: "#thefeedfeed, #thefeedfeedvegan, #foodartblog, #foodfluffer"
-  - username: "cassicolvin1"
+  - username: "_elena_vasilevsky"
     fullname: >-
-      Cassi Colvin    (MY ONLY ACCT)
+      Elena_Vasilevsky
     bio: >-
-      Management | Luber Roklin Entertainment Theatrical, Commercial | ERA Talent & People Store Print | IT Models & Select
+      Editor-In-Chief + Creative Director + Stylist @inlovemag Celebrity | Fashion | Lifestyle INLOVE Magazine
     location: "United States"
-    followers: 11855
-    engagement: 592
-    commentsToLikes: 0.044118
-    id: ck5zkpkh0jx6b0i14rqohhys3
+    followers: 73607
+    engagement: 93
+    commentsToLikes: 0.005255
+    id: ck0vzpboka8a60i192mg168ke
     verified: false
-    hashtags: "#sportsillustrated, #model, #hair, #photographer"
-  - username: "brytnijean"
+    hashtags: "#hollywood, #safelyathome, #blessed, #actor"
+  - username: "parkerblainee"
     fullname: >-
-      Brytni Jean
+      parker blaine noriega
     bio: >-
-      Actress | Stylist | Explorer 📍Los Angeles
+      wardrobe stylist & personal shopper los angeles
     location: "United States"
-    followers: 9661
-    engagement: 377
-    commentsToLikes: 0.030526
-    id: ck0w5f71u3cn00i19axi3soiv
+    followers: 114773
+    engagement: 404
+    commentsToLikes: 0.009026
+    id: ckr4frl0z7vu40j23vmgq1uyh
     verified: false
-    hashtags: "#explore, #gratitude, #losangeles, #instagood"
-  - username: "sydneylopez"
-    fullname: >-
-      sydneylopez
-    bio: >-
-      fashion stylist #sydneylopez 📍Los Angeles
-    location: "United States"
-    followers: 19296
-    engagement: 214
-    commentsToLikes: 0.027667
-    id: ck0ubts42ff7p0i199fkrlsic
-    verified: false
-    hashtags: "#flauntmagazine, #thedawnchorusissue, #rememberthistour, #joeyking"
+    hashtags: "#styledbyparkerblaine, #milanfashionweek, #greygoosepartner"
   - username: "joeythao"
     fullname: >-
-      J O E Y  T H A O
+      JOEY THAO
     bio: >-
-      📍los angeles stylist + costume design + creative consultant for bookings + inquiries email below personal • @joeytouelang
+      📍new york city • los angeles stylist + costume design + creative consultant bookings joey@joeythao.com management + brand deals brandon@blmgmt.co
     location: "United States"
-    followers: 64728
-    engagement: 331
-    commentsToLikes: 0.029159
+    followers: 63322
+    engagement: 233
+    commentsToLikes: 0.025995
     id: ck0tvs7ercn7w0i195cq9ry5m
     verified: false
-    hashtags: "#chanel, #nikitadragun, #styledbyjoeythao, #dior"
-  - username: "noonebutcoco"
-    fullname: >-
-      COCO
-    bio: >-
-      🌿🏳️‍🌈🧿📍Los Angeles, ca • Actress • singer/songwriter • Let’s change the world 🧿🏳️‍🌈🌿
-    location: "United States"
-    followers: 6055
-    engagement: 674
-    commentsToLikes: 0.243922
-    id: ck6uf3p3iupai0j717z3ufe4n
-    verified: false
-    hashtags: "#taurus, #songwriter, #artsy, #vibe"
+    hashtags: "#nikitadragun, #styledbyjoeythao, #chanel, #flashbackfriday"
 ---

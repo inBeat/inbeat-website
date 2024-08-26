@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In San Diego In 2023
+title: Top 10 Instagram Influencers In San Diego In 2024
 description: >-
-  Find top Instagram influencers in San Diego in 2023. Most popular hashtags: #sandiegoblogger #sponsored #homedecor.
+  Find top Instagram influencers in San Diego in 2024. Most popular hashtags: #pinterestaesthetic #pinterestinspired #flowers #outfitinspo.
 platform: Instagram
-hits: 2059
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 2059 Instagram influencers like this in San Diego, United States for you to contact.
+hits: 2518
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 2518 Instagram influencers like this in San Diego, United States for you to contact.
 profiles:
+  - username: "shannonmariewarren"
+    fullname: >-
+      Shannon Marie Warren
+    bio: >-
+      everyday outfits / lifestyle + hair inspo 🌸 latina content creator | San Diego 🫶🏼 📧 kora@jabberhaus.com / @jabberhaus
+    location: "United States"
+    followers: 60125
+    engagement: 558
+    commentsToLikes: 0.052244
+    id: ckxesfkve4e2e0j23uvjcbdz1
+    verified: false
+    hashtags: "#hairtutorial, #clawclip, #hairhowto, #pinteresthair"
+  - username: "lorenawinediary"
+    fullname: >-
+      Lorena Gutierrez (Woods) | Wine & Food Concierge
+    bio: >-
+      ✨ We Wine, We Eat, We Travel 🔄 ✨ I’m Always Hungry and Sarcastic 📍San Diego, CA | 🇲🇽&🇺🇸 💌 lorena@flavouraffair.com WSET✌🏼Somm
+    location: "United States"
+    followers: 72306
+    engagement: 822
+    commentsToLikes: 0.041335
+    id: ckaos1ya4pse00i7802vgm6s9
+    verified: false
+    hashtags: "#craftcocktails, #momsofinstagram, #weekend, #happyhour"
+  - username: "saikofood"
+    fullname: >-
+      NINA SoCal Foodie+Content Creator 🇵🇭
+    bio: >-
+      🍟Local Food Favorites Food Finds | Lifestyle | Travel 💌Collab: ninacsaiko@gmail.com 📍Orange County ↔️ San Diego ↔️ Los Angeles
+    location: "United States"
+    followers: 34948
+    engagement: 5519
+    commentsToLikes: 0.046560
+    id: ckmw1hdp9833a0j23vesrkiov
+    verified: false
+    hashtags: "#filipinofood, #foodfail, #foodvideo, #foodblogger"
+  - username: "lovehardtraveloften"
+    fullname: >-
+      KYLIE, SCOTT & ADDI | Travel Family
+    bio: >-
+      👨‍👩‍👧 Former full-time travelers now balancing home in San Diego + traveling with baby 🌲Outdoor adventure & global travel inspo 👇🏼 Blog, presets, etc
+    location: "United States"
+    followers: 42489
+    engagement: 1030
+    commentsToLikes: 0.107056
+    id: ck0vznt7qa0n40i19zfiov873
+    verified: false
+    hashtags: "#momswhotravel, #outdoortones, #wondermore, #loveandwildhearts"
+  - username: "that_foodie_nurse_melski"
+    fullname: >-
+      that_foodie_nurse_melski🩺💉🏥
+    bio: >-
+      CALIFORNIA Nurse who likes to eat 📍 San Diego🔁Bay Area 📩thatfoodienursemelski@gmail.com 🇵🇭 🇪🇸
+    location: "United States"
+    followers: 36968
+    engagement: 765
+    commentsToLikes: 0.241415
+    id: ck0w27y90n1aj0i19e4wqqup0
+    verified: false
+    hashtags: "#stakechophouseandbar, #stakemoments, #stakeexperience, #yelpsandiego"
+  - username: "jazztacular"
+    fullname: >-
+      Jazmin Hess
+    bio: >-
+      🌸 mexicana & filipina ✨ content creator | pinterest inspo ✉️ jazming813@gmail.com San Diego, CA 🤍
+    location: "United States"
+    followers: 26848
+    engagement: 401
+    commentsToLikes: 0.176058
+    id: ck0txouwujxud0i192wlek522
+    verified: false
+    hashtags: "#pinterestinspired, #photoideas, #dress, #latina"
   - username: "tingmystyle"
     fullname: >-
       Ting Ma
     bio: >-
-      Fashion🎸Fitness🎸Beauty #thisis52 #proaging Aging is a privilege ! 📍Chicago/San Diego 📧: tingmystyle168@gmail.com
+      Fashion🎸Fitness🎸Beauty #thisis53 #proaging #embraceaging Celebrating every wrinkle and gray hair! 📍Chicago/San Diego 📧: tingmystyle168@gmail.com
     location: "United States"
-    followers: 137144
-    engagement: 613
-    commentsToLikes: 0.084561
+    followers: 199908
+    engagement: 1165
+    commentsToLikes: 0.096239
     id: ck0w49r7mxhxq0i198zn6sfa8
     verified: false
-    hashtags: "#over50fitness, #over50women, #absworkout, #over50andfit"
-  - username: "emiliavictoria01"
+    hashtags: "#over50andfabulous, #mycommunity, #over50, #ad"
+  - username: "nurse.maddi"
     fullname: >-
-      Emilia-Content Creator- Photographer 📸
+      Maddi Flanagan
     bio: >-
-      Home Decor🤍Travel 🤍Motherhood🤍 Lifestyle🤍📍San Diego, CA . For partnership DM or email Kesiagalianycollabs@gmail.com
+      bsn, rn, ccrn + nursing & lifestyle + @lifeinscrubspodcast + san diego
     location: "United States"
-    followers: 14073
-    engagement: 422
-    commentsToLikes: 0.047490
-    id: cl7i0lqtftqzj0i23ulxjbv25
+    followers: 26240
+    engagement: 1367
+    commentsToLikes: 0.021514
+    id: ck0w5xih75x770i19saieg91y
     verified: false
-    hashtags: "#homedecor, #ad, #contentcreator, #decorideas"
-  - username: "xocarlarenee"
+    hashtags: "#wearfigs, #icunurse, #nursing, #figsambassador"
+  - username: "saks_segura"
     fullname: >-
-      Carla Snuggs ❤
+      Sakshi Segura
     bio: >-
-      📍San Diego Lifestyle Blogger ❤ Food & Wine | Travel | Lifestyle Inquiries: carla@poshbeautyblog.com Coffee Addict loving life come what may.
+      Living my best life in San Diego ｡𖦹˚.🪼₊ ๋࣭ ⭑ 💌: sakshishrestha18@gmail.com
     location: "United States"
-    followers: 20838
-    engagement: 250
-    commentsToLikes: 0.014403
-    id: ck8swq5mdeuqd0j782s6w9kas
+    followers: 13914
+    engagement: 4304
+    commentsToLikes: 0.055514
+    id: cl430i3sth7ef0i23tm8vtenz
     verified: false
-    hashtags: "#ad, #manukahoneyhack, #worldofpinotnoir, #1000milesofpinot"
-  - username: "seanii"
+    hashtags: "#casualoutfit, #lajolla, #sandiego, #sunsetpic"
+  - username: "aaprildiaz"
     fullname: >-
-      Sean Arca | fashion inspo
+      APRIL DIAZ.
     bio: >-
-      filipino 🇵🇭 l📍san diego, california #fashion • #lifestyle • #travel dream as if you'll live forever. live as if you'll die today.
+      san diego | los angeles. @uscedu 💌: aaprildiaz@votiveagency.com Social Media Manager 👩🏻‍💻
     location: "United States"
-    followers: 20821
-    engagement: 190
-    commentsToLikes: 0.087625
-    id: ckzygfiey4bun0i23mkv3rahv
+    followers: 26702
+    engagement: 553
+    commentsToLikes: 0.012865
+    id: cl0cxtjt1g6ee0i23i6s0on91
     verified: false
-    hashtags: "#streetstyle, #mensoutfit, #mydailystreet, #streetfashion"
-  - username: "palmtreesandpellegrino"
-    fullname: >-
-      Giulia 🌴 San Diego | Travel & Style Blogger
-    bio: >-
-      ☀️Your Destination for hidden gems, trendy finds & everyday outfits 🏡 #SanDiego | 🇮🇹🇺🇸 |💍 2023 Bride 💌 mgmt@palmtreesandpellegrino.com
-    location: "United States"
-    followers: 70726
-    engagement: 176
-    commentsToLikes: 0.042077
-    id: ck1391fd6j2010i19sa7qxj0c
-    verified: false
-    hashtags: "#sandiegoeats, #sandiegofoodies, #downtownsandiego, #sandiegoblogger"
-  - username: "madewithhappy"
-    fullname: >-
-      Alli | Made With HAPPY
-    bio: >-
-      🌈 Colorful HAPPY DIY Inspired Family thru ✂️ Making @madewithhappy_crafts 🎉 Entertaining ✈️ Travel San Diego #madewithhappy alli@madewithhappy.com
-    location: "United States"
-    followers: 10098
-    engagement: 62
-    commentsToLikes: 0.066021
-    id: cktkw129wcqvm0j23lcvjn7mc
-    verified: false
-    hashtags: "#madewithhappybirthday, #mwhgirl, #madewithhappy, #madewithhappysummer"
-  - username: "personalfinanceclub"
-    fullname: >-
-      Jeremy Schneider
-    bio: >-
-      😄 Retired at 36‎ 💰 Transparent millionaire 💵 Daily money and investing tips‎ 🌴 San Diego, CA
-    location: "United States"
-    followers: 445033
-    engagement: 146
-    commentsToLikes: 0.048449
-    id: ck1343zgrul5d0i192b5kttp4
-    verified: false
-    hashtags: "#investingtips, #investing, #stockmarket, #indexfunds"
-  - username: "nikkiblackketter"
-    fullname: >-
-      Nikki Blackketter
-    bio: >-
-      🎥 <nikkiblackketter> on YouTube, TT, & Twitch! 🍑 Alani Nu 🌻@unfilterednikkib 🎮 @nikkibplays 📍 San Diego
-    location: "United States"
-    followers: 1605069
-    engagement: 41
-    commentsToLikes: 8.270889
-    id: ck0tsrx900c5w0i19sbd2my8b
-    verified: true
-    hashtags: "#tb, #legday, #homedecor, #gymshark"
-  - username: "smexaminer"
-    fullname: >-
-      Social Media Examiner
-    bio: >-
-      🌴 Discover the Best Social Media Marketing Strategies From the World’s Top Experts | #SMMW23 | Mar 13-15 | San Diego, CA 🌴 Follow our CEO @stelzner
-    location: "United States"
-    followers: 141344
-    engagement: 6
-    commentsToLikes: 0.057477
-    id: cl4f68iuhpms80i23zf7hiqmo
-    verified: false
-    hashtags: "#socialmediaexaminer, #web3bizpodcast, #instagrammarketing, #youtubemarketing"
-  - username: "hanwestby"
-    fullname: >-
-      Hannah Westby
-    bio: >-
-      ￼Mom to Mabel 👶🏻 Wife to Skyler 👩🏼‍🤝‍👨🏻 Slow minimal living in our Cottage in the ￼Country￼￼🏡￼ 📍San Diego HannahWestby@gmail.com
-    location: "United States"
-    followers: 54474
-    engagement: 664
-    commentsToLikes: 0.017417
-    id: ck135l57i1y7t0i19muvpwj2g
-    verified: false
-    hashtags: "#mydearfoams, #dearfoams, #dfpartner, #ad"
+    hashtags: "#girlsinlove, #outfitinspiration, #fallinspo, #pinterestaesthetic"
 ---

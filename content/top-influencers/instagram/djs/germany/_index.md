@@ -1,12 +1,48 @@
 ---
-title: Top 10 Djs Instagram Influencers In Germany In 2023
+title: Top 10 Djs Instagram Influencers In Germany In 2024
 description: >-
-  Find top djs Instagram influencers in Germany in 2023. Most popular hashtags: #djlife #music #party.
+  Find top djs Instagram influencers in Germany in 2024. Most popular hashtags: #djlife #party #goodtimes.
 platform: Instagram
-hits: 63
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database has 63 Instagram influencers like this in Germany for you to pitch.
+hits: 87
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 87 Instagram influencers like this in Germany for you to pitch.
 profiles:
+  - username: "deejaymathew"
+    fullname: >-
+      Matthias Harzdorf | Mathew
+    bio: >-
+      ➦ DJ & Mentor of @maskills_djschool 🎓 ➦ offiz. Promoter @hiphopkempde #hhkde ➦ Clothing @tribalgear_europe #tribalclique ➦ #frenchbulldog dad & S♥︎
+    location: "Germany"
+    followers: 11107
+    engagement: 670
+    commentsToLikes: 0.028256
+    id: ckap7cm7yjhhc0i7822cltd2b
+    verified: false
+    hashtags: "#djfamily, #mathewontour, #djlife, #thankful"
+  - username: "willersfitness"
+    fullname: >-
+      Sean Willers / Music Industry Health Coach
+    bio: >-
+      🌎 Inspiring DJs from all over the world 📈 To drop pounds & cut down on partying 🎯 By building unbreakable healthy habits DM ‘ME’ for coaching details
+    location: "Germany"
+    followers: 9631
+    engagement: 359
+    commentsToLikes: 0.064892
+    id: ck8sxvb8fisxr0j78qpk8ls4e
+    verified: false
+    hashtags: "#fitnessgoals, #brothers, #transformationjourney, #transformationtuesday"
+  - username: "meerbar.duesseldorf"
+    fullname: >-
+      MEERBAR
+    bio: >-
+      'Wahrer Reichtum liegt im Genuss...' Food & Drinks | Cocktails | DJs | Music | Bar | Lounge Restaurant | Düsseldorf | Medienhafen join us🍸#meerbar .
+    location: "Germany"
+    followers: 13032
+    engagement: 110
+    commentsToLikes: 0.018233
+    id: cliq4po67l6f20j08h7aty062
+    verified: false
+    hashtags: "#fisch, #interiorgoals, #fleisch, #meerbardetails"
   - username: "djrayd"
     fullname: >-
       DJ Ray-D
@@ -31,18 +67,6 @@ profiles:
     id: ck55jqoruxknv0i11qz4skfxz
     verified: true
     hashtags: "#jugglerz, #fun, #luciano, #yonii"
-  - username: "djrapture4real"
-    fullname: >-
-      Dj Rapture
-    bio: >-
-      Producer & Dj from Germany 🇩🇪 Jiggle | Hell Yeah | S.I.R. | Bend Ova 👇🏼👇🏼DJs4DJs Hoodies 👇🏼👇🏼
-    location: "Germany"
-    followers: 14700
-    engagement: 388
-    commentsToLikes: 0.221259
-    id: ck0w49ljixh310i1927vhlyfc
-    verified: false
-    hashtags: "#raycademy, #realtalk, #100, #shutdown"
   - username: "djmetino"
     fullname: >-
       DJ Metino
@@ -54,19 +78,31 @@ profiles:
     commentsToLikes: 0.053466
     id: ck5zxgfsy7yw80i147camo1rp
     verified: false
-    hashtags: "#luxeboys, #picoftheday, #djing, #violatordjs"
-  - username: "ruhrinlove"
+    hashtags: "#instalife, #mylifeisaparty, #dj, #belairelifestyle"
+  - username: "djscheme"
     fullname: >-
-      Ruhr-in-Love
+      Scheme
     bio: >-
-      Das elektronische Familienfest. ❤️ 03.07.2021 // 12-22 Uhr 400 DJs. 40 Floors. Alle Styles elektronischer Musik.
+      Mgmt: @tariqcherif for Inquiries // @monsterenergy @prizepicks @protecttheyouthofficial ON TOUR GET TICKETS BELOW ⬇️⬇️⬇️⬇️
     location: "Germany"
-    followers: 12715
-    engagement: 376
-    commentsToLikes: 0.049927
-    id: ck0u94wrc90qu0i19oz0ezf7s
+    followers: 851540
+    engagement: 397
+    commentsToLikes: 0.011743
+    id: ck0twiq12fk8l0i19oggflkll
+    verified: true
+    hashtags: "#ceilingchallenge, #surroundsound"
+  - username: "djsonixgermany"
+    fullname: >-
+      DJSONIX / MUSIC / FASHION / LIFESTYLE
+    bio: >-
+      🔸Music Director & DJ @kesselhaus_augsburg 🔹MULTIGENRE #dj 📍based in #augsburg 🔉🔽My Socials
+    location: "Germany"
+    followers: 14479
+    engagement: 104
+    commentsToLikes: 0.014885
+    id: clr7d87dxwehw0k08rfeas0fw
     verified: false
-    hashtags: "#summer, #music, #goa, #electronicmusic"
+    hashtags: "#party, #augsburg, #djsonixgermany, #studieren"
   - username: "djswedlu"
     fullname: >-
       DJ SWED LU
@@ -91,40 +127,4 @@ profiles:
     id: ck14h6bl48r530i19r9lqf2he
     verified: false
     hashtags: "#outnow, #greeen, #slickbeats, #slickguitar"
-  - username: "djschowi"
-    fullname: >-
-      Jean-Christoph 'Schowi' Ritter
-    bio: >-
-      
-    location: "Germany"
-    followers: 7139
-    engagement: 570
-    commentsToLikes: 0.033688
-    id: ck5cg1grdnzsl0i11izckc5re
-    verified: true
-    hashtags: "#komplizenfilm, #marenade, #blackouttuesday"
-  - username: "cat_deejane"
-    fullname: >-
-      Cat Deejane 🎶🕊
-    bio: >-
-      DJane & producer by Sirup Music, PinkStar Disco, Attractive Music DJane @sinnersgotsoultoo New summer session 🎶
-    location: "Germany"
-    followers: 17098
-    engagement: 300
-    commentsToLikes: 0.051171
-    id: ck13cxmqa2o2y0i19snrg9vkw
-    verified: false
-    hashtags: "#deephousemusic, #enjoythemoment, #fashion, #deejane"
-  - username: "gourski"
-    fullname: >-
-      Daniel Gourski | Music ♥️
-    bio: >-
-      🎶DJ, Producer, Soundhunter & Filmmaker 📍Cᴏʟᴏɢɴᴇ/Mᴏsᴄᴏᴡ ⬇️Music, Videos, Samplepacks
-    location: "Germany"
-    followers: 33935
-    engagement: 166
-    commentsToLikes: 0.046196
-    id: ck5cdcjwgixmf0i11agxicnfx
-    verified: false
-    hashtags: "#producer, #soundsof, #zoomh1n, #ableton"
 ---

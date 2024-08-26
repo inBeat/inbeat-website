@@ -1,130 +1,130 @@
 ---
-title: Top 10 Zumba Instagram Influencers In 2023
+title: Top 10 Zumba Instagram Influencers In 2024
 description: >-
-  Find top zumba Instagram influencers in 2023. Most popular hashtags: #zumba #zumbafitness #travel.
+  Find top zumba Instagram influencers in 2024. Most popular hashtags: #zumba #zumbafitness #zumbalove #dance.
 platform: Instagram
-hits: 502
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 502 Instagram influencers like this for you to collaborate.
+hits: 508
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 508 Instagram influencers like this for you to work with.
 profiles:
+  - username: "meiling.banz"
+    fullname: >-
+      Meiling Bansee
+    bio: >-
+      Zumba Instructor💃🏽 ZIN Trini 🇹🇹 in Miami, FL 📍🌴 @themeilinglist for #fashioninspo and more! Let’s connect: 👇🏽
+    location: "United States"
+    followers: 11379
+    engagement: 1539
+    commentsToLikes: 0.176967
+    id: ckqhmpb3fq5sx0j23usgi96lx
+    verified: false
+    hashtags: "#zumba, #musiclover, #zin, #zumbafam"
+  - username: "elianabourgeili"
+    fullname: >-
+      Eliana Bourgeili | ZES™ for 🇱🇧 🇶🇦
+    bio: >-
+      @zumba Education Specialist 💃🏻 Marketing Director @technopro.me ⬇️ Check Link in Bio for upcoming Instructor Trainings 💃 #endals #alsawareness 🛑✋
+    location: "United States"
+    followers: 16511
+    engagement: 489
+    commentsToLikes: 0.111022
+    id: ck5zjd87nhdj00i14jfb72gn1
+    verified: false
+    hashtags: "#zincommunity, #zumbavirtual, #merengue, #zumba"
+  - username: "alyssa_branker"
+    fullname: >-
+      Alyssa Branker
+    bio: >-
+      🇹🇹 | Philippians 4:13 Licensed Zumba Instructor (ZIN™️) Yuman • illuSions Family
+    location: "United States"
+    followers: 17553
+    engagement: 865
+    commentsToLikes: 0.020454
+    id: cloucoqeks4up0j08ie0qg6am
+    verified: false
+    hashtags: "#vwv, #ddi, #dance, #loveithere"
+  - username: "loulas_world"
+    fullname: >-
+      HALA Abssi |هالة عبسي
+    bio: >-
+      ‏For girls onlly | BLLOGGER| YouTuber BEAUTY|FITNESS coach| ‏🍂🌿|SPORT AND ZUMBA TRAÎNER ‏🌿🍂|CONTACT PRO ‏Abssihala100@gmail.com @instagram
+    location: ""
+    followers: 200216
+    engagement: 533
+    commentsToLikes: 0.110545
+    id: ck15sbg7hc5y70i19txs052ut
+    verified: false
+    hashtags: "#alger, #algeria, #statstory, #dz"
+  - username: "_thedmk_"
+    fullname: >-
+      Disha Methi Khandelwal
+    bio: >-
+      💃Half CA Turned Zumba Coach ⭐Expert at FUN FITNESS 🤩Transformed 1000+ Women 🏆 Sustainable Health Only
+    location: "India"
+    followers: 31942
+    engagement: 1538
+    commentsToLikes: 0.013702
+    id: ckto9uj10ez5o0j23l5a8eu49
+    verified: false
+    hashtags: "#fitnessforbeginners, #trend, #shooting, #sweatscience"
+  - username: "raishrutirai"
+    fullname: >-
+      Shruti Rai
+    bio: >-
+      #Fashion #Lifestyle #Fitness #Travel . Certified Zumba Intructor 💃🏻 TedX Speaker Entrepreneur . For collaborations collabs@shrutirai.com
+    location: "India"
+    followers: 350650
+    engagement: 513
+    commentsToLikes: 0.019228
+    id: ck5hm0fzul6f90i11ek1fypi5
+    verified: false
+    hashtags: "#sareelove, #funnyvideos, #amazongreatindianfestival, #amazonseliya"
+  - username: "zes_zoor"
+    fullname: >-
+      ZES Mansoor Galant
+    bio: >-
+      🔥Zumba® Education Specialist 🗺️International Presenter 🕺 Dancer 📍 South Africa 🇿🇦 Lifestyle @thezoorexperience TikTok 🕺thezoorexperience
+    location: "Indonesia"
+    followers: 70023
+    engagement: 370
+    commentsToLikes: 0.059438
+    id: ck5c10w0ru8bo0i11bqh91ygf
+    verified: false
+    hashtags: "#zeslife, #viral, #dance, #zumbalove"
+  - username: "zjdani"
+    fullname: >-
+      ℤ𝕛™ 𝔻𝕒𝕟𝕚𝕖𝕝𝕒 ℕ𝕠𝕨𝕚𝕟𝕤𝕜𝕚
+    bio: >-
+      🔺Zumba®Jammer (Choreo + Kids) ◾️Zumba instructor 🔺Hip Hop Teacher (DANCE IT UP 🔝FOUNDER) 📍Argentina🇦🇷+🇮🇱 viviendo en Israel ◾️TikTok @zjdani
+    location: "India"
+    followers: 21078
+    engagement: 369
+    commentsToLikes: 0.092286
+    id: ck5zjdnvuhefi0i14yny8coo3
+    verified: false
+    hashtags: "#foryou, #amomitrabajo, #zumbafitness, #imazin"
+  - username: "aysegul.demirsoy"
+    fullname: >-
+      Aysegul Demirsoy
+    bio: >-
+      🔸️Kişisel spor ve motivasyon koçu 🔸️" Beden Benim Karar Benim" kitabının yazarı 🔸️Zumba presenter 🔸️website 👇
+    location: "Turkey"
+    followers: 223657
+    engagement: 279
+    commentsToLikes: 0.043108
+    id: ck5q297dqevcq0i110yr2n5dm
+    verified: false
+    hashtags: "#viral, #reelsinstagram, #lifestyle, #gym"
   - username: "lamaalassil"
     fullname: >-
-      Lama Alassil
+      Lama K Alassil
     bio: >-
-      •📍 in USA • BS : Media • Zumba instructor🏋️‍♀️ إذا الحياة عبست بوجهك .. دغدغها 🫠🤭 •For Business Inquiries👇 lamaalassilads@gmail.com
+      •📍 🇺🇸 • Zumba instructor🏋️‍♀️ نوراً أو ناراً صدقني سأضيء ✨☺️. •For Business Inquiries👇 alassilads@gmail.com 📩
     location: "United States"
-    followers: 652114
-    engagement: 894
-    commentsToLikes: 0.055962
+    followers: 986851
+    engagement: 272
+    commentsToLikes: 0.023953
     id: ck0w6y1wsat1k0i19rih7nka5
-    verified: false
-    hashtags: "#catlife, #happyanniversary, #cats, #catslover"
-  - username: "algisandres"
-    fullname: >-
-      𝑨𝒍𝒈𝒊𝒔 𝑨𝒏𝒅𝒓𝒆𝒔 🇵🇦
-    bio: >-
-      🅸🅽🆂🆃🆁🆄🅲🆃🅾🆁certificado de zumba & Strongnation 🌱@lahorafitpty 🎧🅻🅾🅲🆄🆃🅾🆁102.9fm 6:00am (sábados) 🆃🆅 🅷🅾🆂🆃📺 @befitpana (lunes -viernes )9:00am
-    location: "Argentina"
-    followers: 99662
-    engagement: 145
-    commentsToLikes: 0.025727
-    id: ck14i9msvebaq0i19g5doacen
-    verified: false
-    hashtags: "#reelsviral, #djplayero, #rauwalejandro, #instagramers"
-  - username: "lindakayhz"
-    fullname: >-
-      linda kayhz
-    bio: >-
-      Bogor Beauty • OOTD Zumba 👉🏼 @swagandsweat 📞 ‭ ‭+62 878 70561116‬ (Nisa) business only ✉️ info.lindakay@gmail.com
-    location: "Indonesia"
-    followers: 270126
-    engagement: 97
-    commentsToLikes: 0.030096
-    id: ck5pvtnswjl2m0i1167duy1w4
-    verified: true
-    hashtags: "#outfitanak, #avatarthewayofwater, #azzuracosmetics, #pijamaanak"
-  - username: "anapedrazaok"
-    fullname: >-
-      Ana Pedraza
-    bio: >-
-      👦🏻👦🏼 Mamá del Chino y el Colo 📺 👩‍💼 @tvprensa10 @canal10tucuman 💃🏻 @zumba @zincommunity
-    location: "Argentina"
-    followers: 65185
-    engagement: 656
-    commentsToLikes: 0.048757
-    id: ck5cf05n5m29t0i11l4hrwd2a
-    verified: false
-    hashtags: "#viernes, #look, #aire, #mipiel"
-  - username: "monetasss"
-    fullname: >-
-      moneta zumba
-    bio: >-
-      I could be anywhere💙❤#lifestyle#woman#fashion#model #Photographer#Traveler#world#sports#plates#zumbainstructor#agricultural engineer#travelphotography
-    location: "Greece"
-    followers: 4578
-    engagement: 2308
-    commentsToLikes: 0.156367
-    id: ckap25faqxg9t0i78vz6cndj5
-    verified: false
-    hashtags: "#igdaily, #follow, #summer, #picoftheday"
-  - username: "mammy.mon"
-    fullname: >-
-      Monika
-    bio: >-
-      DANCE • FITNESS • ZUMBA INSTRUCTOR 🇵🇱in ➡️📍Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿Scotland TikTok: mammy.mon
-    location: "Poland"
-    followers: 9007
-    engagement: 674
-    commentsToLikes: 0.090671
-    id: ck8t3qc1z43820j78ino2x3z1
-    verified: false
-    hashtags: "#usmiech, #instagirls, #fitnessgirl, #longlegs"
-  - username: "henrycedeno"
-    fullname: >-
-      Henry Cedeño✨
-    bio: >-
-      🏝 Miami • 28 • 🇻🇪🏳️‍🌈 🕺🏻 Zumba® Instructor 👯‍♂️Choreographer 🙋🏻‍♂️ International Presenter 🌎 27 Countries 👽 #martian
-    location: "United States"
-    followers: 39670
-    engagement: 313
-    commentsToLikes: 0.057078
-    id: ck5zmp7hemyw00i14t5x8acby
-    verified: false
-    hashtags: "#pridemonth, #zumbachoreo, #lgbtq, #zumbainstructor"
-  - username: "dianaserena_"
-    fullname: >-
-      Diana Serena
-    bio: >-
-      🏃‍♀️Lic. en Educación Física 💃ZES™ Zumba® Fitness 💪🏻Master Trainer STRONG NATION™ 📬diana.serena@zumbamail.com 🗣🇮🇹🇪🇸🇬🇧🇵🇹 🌟#dianaserena
-    location: "Spain"
-    followers: 134550
-    engagement: 111
-    commentsToLikes: 0.099781
-    id: ck15s66qxbf8k0i19ijdr4c6d
-    verified: true
-    hashtags: "#fitcondianaserena, #sync, #rutinasembarazadas, #zumbacommunity"
-  - username: "clari.dance"
-    fullname: >-
-      Clari Lehmkuhl Zumba
-    bio: >-
-      South African in UAE ♥️ Zumba 🎾 💃 🏊‍♀️ 🎼 🌎 Down Syndrome Special Olympic Athlete Qualified Zumba B1, Kids, Kids jnr, Gold, Aqua Zumba, Pro Skills
-    location: "South Africa"
-    followers: 7971
-    engagement: 732
-    commentsToLikes: 0.087057
-    id: ck8t5w5afbfvu0j7802j7ikiz
-    verified: false
-    hashtags: "#abudhabi, #zumbafitness, #fitness, #staysafe"
-  - username: "saraloupee"
-    fullname: >-
-      Zumba with Sara-Loupée
-    bio: >-
-      My parents gave me a unique name📝➖creating a unique lifestyle ✨ Passionate&Self-Motivated 👯 Zumba® fitness instructor 🎬 RadioTV&Film 🛍 @chiccliquelb
-    location: ""
-    followers: 10017
-    engagement: 947
-    commentsToLikes: 0.042604
-    id: ck5zjd9r7hdmr0i14dzztisi7
     verified: false
     hashtags: ""
 ---

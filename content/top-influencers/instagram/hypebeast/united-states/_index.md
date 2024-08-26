@@ -1,24 +1,24 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In United States In 2023
+title: Top 10 Hypebeast Instagram Influencers In United States In 2024
 description: >-
-  Find top hypebeast Instagram influencers in United States in 2023. Most popular hashtags: #look #sneakerhead #film.
+  Find top hypebeast Instagram influencers in United States in 2024. Most popular hashtags: #look #sneakerhead #film.
 platform: Instagram
-hits: 1204
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 1204 Instagram influencers like this in United States for you to collaborate.
+hits: 1215
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 1215 Instagram influencers like this in United States for you to pitch.
 profiles:
-  - username: "sultanofficial"
+  - username: "mohamedalsafar"
     fullname: >-
-      Vikrant Negi
+      Mohamed Al Safar
     bio: >-
-      A&R @universalmusicindia 💽 Hip Hop Influencer By Proficiency ♟ Hypebeast By Preference 👟 Youtuber By Passion 📷
+      Just Your Friendly Neighborhood Hypebeast 📍Dubai | Los Angeles | Bahrain ▶️ YouTube: Mohamed Al Safar TikTok: Mohamed.AlSafar Blessed 👨‍👩‍👧‍👦 🇧🇭
     location: "United States"
-    followers: 17622
-    engagement: 737
-    commentsToLikes: 0.069272
-    id: ck602n0lli2tk0i14bj8qhwsx
+    followers: 61344
+    engagement: 990
+    commentsToLikes: 0.021547
+    id: ckap23xcrx9g10i78h9qs7t75
     verified: false
-    hashtags: "#hiphopmusic, #knowhype, #knowhiphop, #fashioninfulencer"
+    hashtags: "#sneakerhead, #hypebeast, #virgilabloh, #sneakers"
   - username: "thesupreme_connect"
     fullname: >-
       Marino
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.077064
     id: ck5bznzrhris40i114nqueagf
     verified: true
-    hashtags: "#instadaily, #work, #stylist, #photography"
+    hashtags: "#look, #selenagomezstyle, #fashioninspo, #campaign"
   - username: "itscolinmiller"
     fullname: >-
       colin miller

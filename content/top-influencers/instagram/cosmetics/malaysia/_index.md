@@ -1,12 +1,36 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Malaysia In 2023
+title: Top 10 Cosmetics Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Malaysia in 2023. Most popular hashtags: #skincare #love #beauty #instagood.
+  Find top cosmetics Instagram influencers in Malaysia in 2024. Most popular hashtags: #makeup #skincare #makeupartist.
 platform: Instagram
-hits: 18
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 18 Instagram influencers like this in Malaysia for you to connect with.
+hits: 21
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 21 Instagram influencers like this in Malaysia for you to work with.
 profiles:
+  - username: "wirda_mansur"
+    fullname: >-
+      Wirda Mansur
+    bio: >-
+      full of vision, sharing through my platform 🤍 creative director of @wakeupmakeup.cosmetics @icoinhub_official ✉️ work.wirda@gmail.com
+    location: "Malaysia"
+    followers: 2494382
+    engagement: 107
+    commentsToLikes: 0.006661
+    id: ck0twciutevv20i19polyszmw
+    verified: true
+    hashtags: "#gloupbersamawumu, #1stmabversary, #daretobare"
+  - username: "cassielyee"
+    fullname: >-
+      Cassiel Yee
+    bio: >-
+      Fashion | Lifestyle | Beauty | Foodie 🇸🇬 | 🇲🇾 📧 ：cassielyee26@yahoo.com
+    location: "Malaysia"
+    followers: 12199
+    engagement: 48
+    commentsToLikes: 0.137434
+    id: ck15qjnm335zv0i190c4ri86b
+    verified: false
+    hashtags: "#tiktok, #singapore, #tiktokmalaysia, #nofomochallenge"
   - username: "the_beauty_insideout"
     fullname: >-
       shub here
@@ -31,30 +55,6 @@ profiles:
     id: ck5hdx1pdptcl0i11m5ynfrid
     verified: false
     hashtags: "#thecrossover2020, #motivationwomen, #sarahmaylowtravel, #kualalumpur"
-  - username: "magg.my"
-    fullname: >-
-      Maggie Soo 苏慧琳
-    bio: >-
-      🤰𝑀𝒶𝓂𝒶 𝓉𝑜-𝒷𝑒 👶| 𝗟𝗶𝗳𝗲𝘀𝘁𝘆𝗹𝗲,𝗕𝗲𝗮𝘂𝘁𝘆&𝗙𝗼𝗼𝗱 | 𝗗𝗠 𝗳𝗼𝗿 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻 | 𝗧𝗲𝗮𝗺 @instafluencer_malaysia @sevenvault 🇲🇾 Restaurant Ambassador @lameimalahotpot
-    location: "Malaysia"
-    followers: 21175
-    engagement: 466
-    commentsToLikes: 0.029663
-    id: ck5q81mo541uw0i11qyalfwki
-    verified: false
-    hashtags: "#bhfyp, #malaysianfood, #kualalumpur, #malaysia"
-  - username: "ken_doll_dubaiii"
-    fullname: >-
-      Adnan Zafar🧿
-    bio: >-
-      1st 🇵🇰 Ken Doll 📍🇦🇪 Fashion ° Skincare ° Food Throwing kindness around like confetti.
-    location: "Malaysia"
-    followers: 57361
-    engagement: 107
-    commentsToLikes: 0.371163
-    id: ck9wgdlsxsyfu0j78x13l2lwd
-    verified: false
-    hashtags: "#foodporn, #luxurylifestyle, #dubaiinfluencer, #skincare"
   - username: "prettylittlethings_ms"
     fullname: >-
       Mahnoor saleem
@@ -67,64 +67,64 @@ profiles:
     id: ck6ty2rar1ck00j71tgvy0yxt
     verified: false
     hashtags: "#blogger, #giveaway, #food, #karachifood"
-  - username: "nicoluvxxx"
+  - username: "mood.of.lily"
     fullname: >-
-      Nicole Teh
+      Lily
     bio: >-
-      Content Creator | Beauty & Fashion | Lifestyle Photography account: @my_nicpics 📩 DM for Sponsorships & Collaboration
+      📍 KL, Malaysia 👩🏻‍💻 @studyingmood 💌 Email for business enquiries
     location: "Malaysia"
-    followers: 15383
-    engagement: 330
-    commentsToLikes: 0.010166
-    id: ck0vycq3p3bzt0i199qq7r7bd
+    followers: 338114
+    engagement: 369
+    commentsToLikes: 0.026183
+    id: clnrydtswezee0j08j1bdn8ft
     verified: false
-    hashtags: "#danielwellington, #lingerie, #instagood, #review"
-  - username: "aleyalee"
+    hashtags: "#pinterestaesthetic, #dayinmylife, #dailylife, #cafekl"
+  - username: "dyanajay"
     fullname: >-
-      aleyalee
+      ✧ Leo ✧
     bio: >-
-      🏡Ipoh/CH Face of ; @mylaraskincare 💌DM Paid/Gift Review 📧DM/Email for Enquiries/Collaboration La ilaha illa Anta, Subhanaka inni kuntu minaz zalimin.
+      A disney, pink and caramel freak. Photoshoot | Review : DM / dyanajasmi@gmail.com Shop here; @lovedyanajay
     location: "Malaysia"
-    followers: 35969
-    engagement: 317
-    commentsToLikes: 0.016121
-    id: ck6tigsvo0ouc0j71ui3edjhb
+    followers: 88303
+    engagement: 352
+    commentsToLikes: 0.010600
+    id: ck8t8fjjsk9qs0j78k05axb41
     verified: false
-    hashtags: "#newyearnewglow, #sudio, #sudiomoments, #sudiotolv"
-  - username: "yxsmine.ow"
+    hashtags: "#grwm, #raya2023, #shawltutorial, #anywherewithgl"
+  - username: "nikitamenonv"
     fullname: >-
-      Yasmine
+      Nikita Menon 🧿
     bio: >-
-      🇲🇾 @absolutmanagement @yasmine.o.w Review, work 📩: yxsmineow@gmail.com or DM SUBSCRIBE TO MY YOUTUBE👇🏻
+      real life on my stories 🔮 📍kul, malaysia 🇲🇾 contact.nikitamenonv@gmail.com
     location: "Malaysia"
-    followers: 199784
-    engagement: 476
-    commentsToLikes: 0.004979
-    id: ck14iv51ehak90i19gdh56b5v
+    followers: 56210
+    engagement: 294
+    commentsToLikes: 0.012446
+    id: ck15sqjuxebls0i1990xy9eaw
     verified: false
-    hashtags: "#cetaphilmy, #perfectdiary, #shopbackshopfest, #skincare"
-  - username: "minghui.psd"
+    hashtags: "#niacinamidefor1010skin, #foryourpage, #heinekenmy, #houseofsephora"
+  - username: "miraraimi"
     fullname: >-
-      李明慧// kl 🇲🇾
+      Mira Raimi
     bio: >-
-      hi im ming hui! graphic design student who luvs art n makeup 🖍 :@minghui.ai ⁣ 💌 : leemh133@gmail.com⁣ (pr/collabs)
+      ‎🕊️سُبْحَانَ اللَّهِ وَبِحَمْدِهِ سُبْحَانَ اللَّهِ الْعَظِيمِ ▫️ Muslimah model + digital creator ⬇️ Any work purposes kindly click this link ⬇️
     location: "Malaysia"
-    followers: 10672
-    engagement: 730
-    commentsToLikes: 0.086830
-    id: ckaoyhxhwhloz0i78sb87c47l
+    followers: 54077
+    engagement: 173
+    commentsToLikes: 0.010621
+    id: ck15sautfc2rq0i19g47f866u
     verified: false
-    hashtags: "#shapingsound, #sudiomoments, #01, #befabulash"
-  - username: "irin.ezleen"
+    hashtags: "#workdayvlog, #shawltutorial, #cleaninghacks, #prayforpalestine"
+  - username: "laelegantia"
     fullname: >-
-      Irinezleen
+      Zlatina Toth
     bio: >-
-      •Freelance Fashion Model •Dm me for review For any photoshoot / business inquiries please do dm/email me
+      Alegria Social Marketing Agency Owner 📧 laelegantiacollab@gmail.com 📧 laelegantia@hotmail.com
     location: "Malaysia"
-    followers: 29510
-    engagement: 304
-    commentsToLikes: 0.011593
-    id: ck6tj248v1uzd0j7114drcwib
+    followers: 804120
+    engagement: 136
+    commentsToLikes: 0.008811
+    id: ck0twz0wshcrp0i19mwbsob4k
     verified: false
-    hashtags: "#vogueathome, #mcvogueootd, #luxeathome, #caketogether"
+    hashtags: "#fragrancesline, #dossier, #dossierperfumes"
 ---

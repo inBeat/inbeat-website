@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Austin In 2023
+title: Top 10 Bloggers TikTok Influencers In Austin In 2024
 description: >-
-  Find top bloggers TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #duet #weightlossjourney #planterstrickshot.
+  Find top bloggers TikTok influencers in Austin in 2024. Most popular hashtags: #fyp #duet #dontsweatit #planterstrickshot.
 platform: TikTok
-hits: 5
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 5 TikTok influencers like this in Austin, United States for you to connect with.
+hits: 4
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 4 TikTok influencers like this in Austin, United States for you to work with.
 profiles:
   - username: "lanaato"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.070951
     id: ckcuqjsy0jbgx0j23v638oidk
     verified: false
-    hashtags: "#bloggertips, #texasblogger, #trending, #atx"
+    hashtags: "#fyp, #texasblogger, #austinblogger, #bloggertips"
   - username: "brianjohnsadventure"
     fullname: >-
       brianjohnsadventure
@@ -31,18 +31,6 @@ profiles:
     id: ckbfiiy0beanz0j23sefdjyq9
     verified: false
     hashtags: "#nature, #destinationdepop, #travel, #planterstrickshot"
-  - username: "tessv.flo"
-    fullname: >-
-      TessTok TV 📺
-    bio: >-
-      Filipina-American ⬆️YouTube•IG ➡️Twitch.tv/starforce_stage She/Her 24 | TX
-    location: "United States"
-    followers: 30400
-    engagement: 1126
-    commentsToLikes: 0.050782
-    id: ck9nbu7v7bctq0j78yil3k986
-    verified: false
-    hashtags: "#spacequeen, #aerialarts, #asianamerican, #futuristic"
   - username: "sealionbryan"
     fullname: >-
       Bryan Martin
@@ -66,7 +54,7 @@ profiles:
     commentsToLikes: 0.061803
     id: ck9gl4g8vmm4w0j78ta3168d5
     verified: false
-    hashtags: "#jersey, #haitian, #haitianhousehold, #twitter"
+    hashtags: "#newjersey, #blacktwitter, #christiantiktok, #haitians"
   - username: "joeynjasmin"
     fullname: >-
       JoeyNJasmin
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.107278
     id: ckb9l759odil60j23jr58e09v
     verified: false
-    hashtags: "#blackmenwithstyle, #over40tiktok, #fitover40, #weightlossjourney"
+    hashtags: "#fitover40, #weightlossjourney, #tiktokover40, #over40tiktok"
   - username: "roseybeeme"
     fullname: >-
       roseybeeme
@@ -102,7 +90,7 @@ profiles:
     commentsToLikes: 0.018203
     id: ckbkt9b67o7b90j2365lztfrp
     verified: false
-    hashtags: "#plussize, #freefreedance, #plussizeedition, #plussizestyle"
+    hashtags: "#plussizestyle, #freefreedance, #plussize, #plussizeedition"
   - username: "espressofied"
     fullname: >-
       espressofied
@@ -127,4 +115,16 @@ profiles:
     id: ck8fazwti4ttu0j78p4t57k9k
     verified: false
     hashtags: "#astrology, #astrologytiktok, #zodiac, #earthsigns"
+  - username: "brianjohnsadventure"
+    fullname: >-
+      brianjohnsadventure
+    bio: >-
+      Full time travel photographer and blogger! Shouting all YouTube subscribers! 👇
+    location: "United States"
+    followers: 17600
+    engagement: 1698
+    commentsToLikes: 0.120547
+    id: ckbfiiy0beanz0j23sefdjyq9
+    verified: false
+    hashtags: "#nature, #destinationdepop, #travel, #planterstrickshot"
 ---

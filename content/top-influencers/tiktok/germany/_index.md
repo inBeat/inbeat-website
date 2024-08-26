@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Germany In 2023
+title: Top 10 TikTok Influencers In Germany In 2024
 description: >-
-  Find top TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #foryoupage #duett.
+  Find top TikTok influencers in Germany in 2024. Most popular hashtags: #foryou #foryoupage #duett.
 platform: TikTok
 hits: 5272
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat holds 5272 TikTok influencers like this in Germany for you to collaborate.
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 5272 TikTok influencers like this in Germany for you to collaborate.
 profiles:
   - username: "tobi.you"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.053574
     id: cka65knq8dfpb0i78lt70cbqp
     verified: false
-    hashtags: "#malenmitadrian, #acryl, #cartoon, #leinwand"
+    hashtags: "#cartoon, #malenmitadrian, #acryl, #leinwand"
   - username: "electra_pain"
     fullname: >-
       Electra Pain

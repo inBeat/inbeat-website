@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In United States In 2023
+title: Top 10 Barbers TikTok Influencers In United States In 2024
 description: >-
-  Find top barbers TikTok influencers in United States in 2023. Most popular hashtags: #duet #fyp #foryoupage.
+  Find top barbers TikTok influencers in United States in 2024. Most popular hashtags: #duet #foryoupage #fyp.
 platform: TikTok
-hits: 413
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 413 TikTok influencers like this in United States for you to connect with.
+hits: 412
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 412 TikTok influencers like this in United States for you to work with.
 profiles:
   - username: "thompson.2.sharp"
     fullname: >-
@@ -103,6 +103,18 @@ profiles:
     id: ckauuuk97zrqw0j239vhotfhn
     verified: false
     hashtags: "#emotok, #fyp, #misheardlyrics, #turbotaxlivepick6"
+  - username: "rev.the.barber915"
+    fullname: >-
+      Rev The Barber 915
+    bio: >-
+      Barber IOMC Founder: Blue Collar Social Club Podcast From WV - Livin in FL #FYFN
+    location: "United States"
+    followers: 3926
+    engagement: 1268
+    commentsToLikes: 0.052611
+    id: ckav8171jf6v20j2303aw8neu
+    verified: false
+    hashtags: "#bikers, #biketoberfest, #foryoupage, #revthebarber"
   - username: "hazelnutplz"
     fullname: >-
       Christina, the barber
@@ -115,16 +127,4 @@ profiles:
     id: ckbkipsa4b9fy0j23zjef4gf6
     verified: false
     hashtags: "#greenscreen, #stitch, #refundglowup, #duet"
-  - username: "_theofficialalex"
-    fullname: >-
-      💈ALEX💈
-    bio: >-
-      Female barber💯💈🔥 Taken by @yea.it’s.me.kris 💯🥰😘♥️🤞🏻♾💍
-    location: "United States"
-    followers: 10500
-    engagement: 599
-    commentsToLikes: 0.121882
-    id: ckaijf6mkep2n0i786drg957k
-    verified: false
-    hashtags: "#foryoupage, #duet, #share, #fyp"
 ---

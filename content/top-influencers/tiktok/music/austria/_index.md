@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Austria In 2023
+title: Top 10 Music TikTok Influencers In Austria In 2024
 description: >-
-  Find top music TikTok influencers in Austria in 2023. Most popular hashtags: #foryou #fyp #austria #music.
+  Find top music TikTok influencers in Austria in 2024. Most popular hashtags: #foryou #austria #fyp #music.
 platform: TikTok
 hits: 50
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine holds 50 TikTok influencers like this in Austria for you to connect with.
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 50 TikTok influencers like this in Austria for you to collaborate.
 profiles:
   - username: "julianguba"
     fullname: >-
@@ -85,12 +85,12 @@ profiles:
     bio: >-
       Guitarist & producer from🇦🇹 🎵OUT NOW🎵: "Funky Christmastime"🎄👇
     location: "Austria"
-    followers: 3674
-    engagement: 998
-    commentsToLikes: 0.094587
+    followers: 3654
+    engagement: 1089
+    commentsToLikes: 0.074836
     id: ckbr6qko6m4kd0j23adibpx58
     verified: false
-    hashtags: "#funk, #viral, #sound, #beat"
+    hashtags: "#fy, #sound, #music, #funkychristmastime"
   - username: "checheiam"
     fullname: >-
       Checheiam 

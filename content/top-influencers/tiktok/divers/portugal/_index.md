@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In Portugal In 2023
+title: Top 10 Divers TikTok Influencers In Portugal In 2024
 description: >-
-  Find top divers TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #foryou #portugal #foryoupage.
+  Find top divers TikTok influencers in Portugal in 2024. Most popular hashtags: #fyp #portugal #foryou #foryoupage.
 platform: TikTok
-hits: 16
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 16 TikTok influencers like this in Portugal for you to work with.
+hits: 15
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 15 TikTok influencers like this in Portugal for you to contact.
 profiles:
   - username: "sandrineme"
     fullname: >-
@@ -90,19 +90,7 @@ profiles:
     commentsToLikes: 0.026982
     id: ck9glci1knl150j78kmvzjgzr
     verified: true
-    hashtags: "#prank, #comedia, #fy, #today"
-  - username: "patricia_vaz_"
-    fullname: >-
-      Patrícia Franco
-    bio: >-
-      Just be nice and kind :) 17 PT📍
-    location: "Portugal"
-    followers: 30900
-    engagement: 2016
-    commentsToLikes: 0.039534
-    id: ckcpse08nmmj40j23oveh3e7m
-    verified: false
-    hashtags: "#outfit, #foryou, #fy, #dueto"
+    hashtags: "#bday, #lol, #dance, #happybirthday"
   - username: "daniel_patrocinioo"
     fullname: >-
       daniel🏳️‍🌈❤️
@@ -127,4 +115,16 @@ profiles:
     id: ckajkuwgus4tf0i78f26ak9hf
     verified: false
     hashtags: "#paravoce, #portugal, #brasil, #15k"
+  - username: "saramorlima"
+    fullname: >-
+      sᴀʀᴀᴍᴏʀʟɪᴍᴀ
+    bio: >-
+      Rumo aos 10k 📍Lourosa,, smf,, Portugal 🇵🇹 ⚡️09/06 📱Ig: @saramorlima
+    location: "Portugal"
+    followers: 8192
+    engagement: 1194
+    commentsToLikes: 0.035231
+    id: ckcujuhaggmur0j233h72j4he
+    verified: false
+    hashtags: "#2021, #covid19, #tiktok, #fyp"
 ---

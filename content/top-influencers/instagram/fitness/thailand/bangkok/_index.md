@@ -1,24 +1,12 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Bangkok In 2023
+title: Top 10 Fitness Instagram Influencers In Bangkok In 2024
 description: >-
-  Find top fitness Instagram influencers in Bangkok in 2023. Most popular hashtags: #fitness #thailand #bangkok #workout.
+  Find top fitness Instagram influencers in Bangkok in 2024. Most popular hashtags: #fitness #thailand #bangkok #instagood.
 platform: Instagram
-hits: 13
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 13 Instagram influencers like this in Bangkok, Thailand for you to pitch.
+hits: 12
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 12 Instagram influencers like this in Bangkok, Thailand for you to pitch.
 profiles:
-  - username: "djming_efm"
-    fullname: >-
-      Thatsaphon Ruangkitrattanakun
-    bio: >-
-      • DJ EFM94 @efm_station l HomeRecords • @scorpio.artist • 📲 A-Time : 065-229-6888 ( K.Golf ) • 📲 Manager : 062-373-7564 ( K.Waiging )
-    location: "Thailand"
-    followers: 4188
-    engagement: 641
-    commentsToLikes: 0.034399
-    id: ck0w56qa825zc0i19tbf0ccau
-    verified: false
-    hashtags: "#quarantine, #movie, #korea, #khunming"
   - username: "anitabye"
     fullname: >-
       Anita Bye/อันนิต้า บี Thailand
@@ -43,6 +31,18 @@ profiles:
     id: ckap7egt5jq3e0i7885smdc0g
     verified: false
     hashtags: "#fahtravel, #fahaerial, #fahyoga, #covid19yoga"
+  - username: "thisisbebe"
+    fullname: >-
+      🌱BEBE🤸🏻‍♀️
+    bio: >-
+      adidas Ambassador🇹🇭 ACE Certified Personal Trainer aerial•pilates•boxing•fitness work contact: line official @thisisbebe 📞0804446777
+    location: "Thailand"
+    followers: 2551043
+    engagement: 32
+    commentsToLikes: 0.002155
+    id: ckap94pvnr5250i789ayqzj9r
+    verified: true
+    hashtags: "#dayleanxbaimiang, #veggiebite, #adidasthailand, #beko"
   - username: "orav.angel"
     fullname: >-
       Angelica Orav
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.056014
     id: ckapb8122yxbe0i78welwauad
     verified: false
-    hashtags: "#safariworldbangkok, #animallover, #animals, #siswimsuit"
+    hashtags: "#poledancer, #siswimsuit, #estonia, #teengirl"
   - username: "eryckama_ral"
     fullname: >-
       Eryck Amaral
@@ -115,16 +115,16 @@ profiles:
     id: ck5zjlfr1hspt0i14z619ie45
     verified: false
     hashtags: "#bangkok, #iraniangym, #maxmuaythai, #muayhardcore"
-  - username: "thisisbebe"
+  - username: "abc_pathummas"
     fullname: >-
-      🌱BEBE🤸🏻‍♀️
+      Pathumas Chatchang
     bio: >-
-      ACE Certified Personal Trainer aerial•pilates•boxing•fitness ไลน์ boombavornvanich 0804446777 fitroutineproduction@gmail.com YT:BEBE FIT ROUTINE
+      นักวิ่งพิชิตซึมเศร้า✌🏻 Running ❤️ YouTube Channel : papidoo ▶️ Direct Message for work 💌 Thailand 🇹🇭 Thank for following 🙏🏻
     location: "Thailand"
-    followers: 2542128
-    engagement: 67
-    commentsToLikes: 0.003077
-    id: ckap94pvnr5250i789ayqzj9r
-    verified: true
-    hashtags: "#uniqloairismsoftleggings, #uniqlowirelessbra, #cpdelight, #uniqlodryex"
+    followers: 51067
+    engagement: 165
+    commentsToLikes: 0.011065
+    id: ck9wdk0drfzxa0j7872wzmgby
+    verified: false
+    hashtags: "#wingnaidee, #running, #runnerlife, #fitness"
 ---

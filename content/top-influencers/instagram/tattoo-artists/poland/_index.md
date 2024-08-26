@@ -1,24 +1,12 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Poland In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Poland In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Poland in 2023. Most popular hashtags: #tattoo #tattoogirl #tattoos #colortattoo.
+  Find top tattoo-artists Instagram influencers in Poland in 2024. Most popular hashtags: #tattoo #tattoogirl #polandtattoos #tattoos.
 platform: Instagram
-hits: 73
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 73 Instagram influencers like this in Poland for you to connect with.
+hits: 89
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 89 Instagram influencers like this in Poland for you to contact.
 profiles:
-  - username: "kraseczka"
-    fullname: >-
-      Klaudia Kraska
-    bio: >-
-      make up & tattoo artist from Lublin contact : 👉🏼 kraskaklaudia1@gmail.com 👈🏼📩 work account : @kraseczkatattoo 👩🏼‍🎨🎨 my dog kennel : @chichihousefci 🐶
-    location: "Poland"
-    followers: 48462
-    engagement: 427
-    commentsToLikes: 0.010667
-    id: ck5bvzkyzkpil0i113w8jpsp4
-    verified: false
-    hashtags: "#dominicanrepublic"
   - username: "aidualkylno"
     fullname: >-
       Klaudia Jóźwiak
@@ -127,4 +115,16 @@ profiles:
     id: ck5q9w2jrdaph0i11n7c09f1b
     verified: false
     hashtags: "#tattooartist, #tattooillustration, #colortattoo, #lostgirlsseriesonbody"
+  - username: "u_genetattoo"
+    fullname: >-
+      U-Gene
+    bio: >-
+      Tattoo Artist ▪️Studio: @voice_of_ink_tattoo ▪️Wrocław, Poland ▪️Contact: voiceofink@gmail.com Pro team of: ▪️World Famous Ink ▪️Tattoo Pharma
+    location: "Poland"
+    followers: 82663
+    engagement: 144
+    commentsToLikes: 0.025616
+    id: ck0tyv9gjo7ck0i19fnv15w8m
+    verified: false
+    hashtags: "#tattooideas, #polandtattoos, #menstyle, #demontattoo"
 ---

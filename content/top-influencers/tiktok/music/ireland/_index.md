@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Ireland In 2023
+title: Top 10 Music TikTok Influencers In Ireland In 2024
 description: >-
-  Find top music TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #stitch #ireland #irish.
+  Find top music TikTok influencers in Ireland in 2024. Most popular hashtags: #fyp #dublin #ireland #irish.
 platform: TikTok
-hits: 57
+hits: 54
 text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 57 TikTok influencers like this in Ireland for you to collaborate.
+text_bottom: Our search engine aggregates 54 TikTok influencers like this in Ireland for you to collaborate.
 profiles:
   - username: "kristian_hogan"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       Irish & Indian 🇮🇪 🇮🇳 Musician Podcast - Lady Curious Scarlet 4 me
     location: "Ireland"
-    followers: 5970
-    engagement: 1875
-    commentsToLikes: 0.066046
+    followers: 6046
+    engagement: 1748
+    commentsToLikes: 0.053148
     id: ckdi8o41bbabw0j23aywv9e46
     verified: false
-    hashtags: "#southasian, #desi, #indian, #duet"
+    hashtags: "#ireland, #southasian, #irish, #duet"
   - username: "robertgracemusic"
     fullname: >-
       Robert Grace
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.022553
     id: ckbalipghcgr00j23qzlw7evr
     verified: true
-    hashtags: "#stitch, #viral, #frog, #fyp"
+    hashtags: "#stitch, #viral, #original, #frog"
   - username: "_thomaslennon"
     fullname: >-
       Thomas Lennon
@@ -55,18 +55,6 @@ profiles:
     id: ck8f8virg3mfi0j78m473e3uu
     verified: false
     hashtags: "#space, #funny, #art, #fyp"
-  - username: "ceolish"
-    fullname: >-
-      Jamie Duffy
-    bio: >-
-      support Irish musicians qub
-    location: "Ireland"
-    followers: 41100
-    engagement: 1423
-    commentsToLikes: 0.035259
-    id: ckcdpngy3bu950j23j52n3zgs
-    verified: false
-    hashtags: "#whistle, #foryou, #voiceeffects, #fyp"
   - username: "emma___nolan"
     fullname: >-
       Emma Nolan
@@ -127,4 +115,16 @@ profiles:
     id: ck9vaqjcrk3pd0j78hdqx3ftj
     verified: false
     hashtags: "#foryoupage, #irish, #radio, #dublin"
+  - username: "coochiecrabz"
+    fullname: >-
+      e
+    bio: >-
+      live with passion live with music.ly ❤️
+    location: "Ireland"
+    followers: 14500
+    engagement: 1075
+    commentsToLikes: 0.024900
+    id: ckbwb2fpv0hs60j23li5pnuud
+    verified: false
+    hashtags: "#notforyou, #xyzbca, #dublin, #lol"
 ---

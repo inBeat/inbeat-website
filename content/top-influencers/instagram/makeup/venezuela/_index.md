@@ -1,12 +1,96 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Venezuela In 2023
+title: Top 10 Makeup Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top makeup Instagram influencers in Venezuela in 2023. Most popular hashtags: #makeup #makeupartist #maquillaje #makeuplook.
+  Find top makeup Instagram influencers in Venezuela in 2024. Most popular hashtags: #makeup #maquillaje #makeuptutorial #makeupartist.
 platform: Instagram
-hits: 153
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 153 Instagram influencers like this in Venezuela for you to collaborate.
+hits: 170
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 170 Instagram influencers like this in Venezuela for you to contact.
 profiles:
+  - username: "makeupbymurry"
+    fullname: >-
+      Marisabel Van Der Biest | MUA
+    bio: >-
+      Pro MUA Certified in Makeup Designory, New York. Content creator 💫 Bridal and social artistry ✨ 👉🏼 @soymurry ✉️ Makeupbymurry@gmail.com
+    location: "Venezuela"
+    followers: 143019
+    engagement: 461
+    commentsToLikes: 0.046094
+    id: ck5hjpbahh0x70i111sy5wocl
+    verified: false
+    hashtags: "#halloweenmakeuptutorial, #halloweencostume, #makeup, #halloweenmakeup"
+  - username: "beautybymarthap"
+    fullname: >-
+      Martha Patricia | Makeup Artist & Content Creator
+    bio: >-
+      Makeup | Beauty | Lifestyle 🦋🌸🌈 Trujillo - Florida AD/PR: beautybymarthap@gmail.com CEO: @elsalon_studio @marthapshop 💕
+    location: "Venezuela"
+    followers: 4516
+    engagement: 856
+    commentsToLikes: 0.064605
+    id: ck6tibv6z0fa70j710p3egnhz
+    verified: false
+    hashtags: "#makeupinspo, #physiciansformula, #beautybymarthap, #todaysmakeup"
+  - username: "danielanicolas"
+    fullname: >-
+      Daniela Nicolás
+    bio: >-
+      🇨🇱🇱🇧 ACTRIZ-PERIODISTA TV HOST FOUNDER @zibbabeauty SOON MAKE UP ARTIST @danielanicolas.makeup MISS UNIVERSO CHILE 2020
+    location: "Venezuela"
+    followers: 610848
+    engagement: 344
+    commentsToLikes: 0.016053
+    id: ck15uhqhxn8zb0i19nrfk8jwi
+    verified: true
+    hashtags: "#publicidad, #essencialespoderser, #perfumer, #seguroscondidi"
+  - username: "chelamakeup_"
+    fullname: >-
+      🌟Michelle🌟 | Beauty Content Creator
+    bio: >-
+      💗Pro makeup artist/ Social Makeups 💃Latina 📩AD/PR chelamakeup1@gmail.com
+    location: "Venezuela"
+    followers: 132773
+    engagement: 213
+    commentsToLikes: 0.041932
+    id: ck6u5v73kbxvc0j71xao62jjm
+    verified: false
+    hashtags: "#asokamakeup, #maquillajefacil, #maquillajesocial, #pesta"
+  - username: "carelquezada"
+    fullname: >-
+      C a r e l  Q u e z a d a💕
+    bio: >-
+      🤍Let all that you do be done in love• 1Co16:14 💄Makeup | FAITH ✨TIK TOK +3.6M ➕@eresvirtuosaonline 💌carelquezada@gmail.com
+    location: "Venezuela"
+    followers: 266062
+    engagement: 211
+    commentsToLikes: 0.016328
+    id: ck6ud9ysljw7u0j71roknow1s
+    verified: false
+    hashtags: "#maquillaje, #skincare, #makeup, #publicidad"
+  - username: "thayenvalbuena"
+    fullname: >-
+      Thayen Valbuena
+    bio: >-
+      Lifestyle, Makeup&Beauty Directora de @Makeupbyth💄 TV Host de @doblementemama🖥️ Nominada #premiospepsimusic2019 Makeupbyth@gmail.com +VIDA-VIOLENCIA🎀
+    location: "Venezuela"
+    followers: 478494
+    engagement: 130
+    commentsToLikes: 0.273193
+    id: ck135dshg0y300i191qcb5768
+    verified: false
+    hashtags: "#lady, #dolcebellamakeup, #makeupprofessional, #beauty"
+  - username: "cromanticstore"
+    fullname: >-
+      𝗖𝗥𝗢𝗠𝗔𝗡𝗧𝗜𝗖®
+    bio: >-
+      🩵 TOP 1 de Makeup 🩷 Marcas 100% originales 💛Cuidado capilar 🧡SkinCare 💚 WhatsApp: 3175730288 ❤️ Envíos a todo Colombia
+    location: "Venezuela"
+    followers: 271737
+    engagement: 4
+    commentsToLikes: 0.055017
+    id: ck14k065in1zv0i1921tu0prs
+    verified: false
+    hashtags: "#beautyfestivalcromantic, #cu, #cabello, #cuidadocapilar"
   - username: "giulianamajzoub"
     fullname: >-
       Giuliana Sayalero Majzoub
@@ -19,18 +103,6 @@ profiles:
     id: ck8t4eyie6jmy0j785zyqxhzl
     verified: false
     hashtags: "#quarantine, #nomakeupchallenge, #illustration, #instagram"
-  - username: "carelquezada"
-    fullname: >-
-      C a r e l  Q u e z a d a💕
-    bio: >-
-      •Let all that you do be done in love• 1Co16:14 💋Makeup • FAITH🤍 ✨TIK TOK +1.4M ➕@eresvirtuosaonline 💌carelquezada@gmail.com
-    location: "Venezuela"
-    followers: 40829
-    engagement: 393
-    commentsToLikes: 0.026775
-    id: ck6ud9ysljw7u0j71roknow1s
-    verified: false
-    hashtags: "#navidad, #100, #maquillajeromantico, #200"
   - username: "martinezcmakeup"
     fullname: >-
       MARILEXI MARTINEZ
@@ -55,76 +127,4 @@ profiles:
     id: ckaorqlryobdq0i78034vlmw0
     verified: false
     hashtags: "#makeupartistvzla, #shareyourpixi, #aesthetic, #reels"
-  - username: "mishelegonzalezmakeup"
-    fullname: >-
-      Mishele Gonzalez
-    bio: >-
-      Bienvenida a mi mundo rosa 🌸 Mommy & Wife 🌸 Professional Makeup Artist International Certified 🇩🇴🇲🇽🇧🇷 GUATEMALA📍 #beautybloggers
-    location: "Venezuela"
-    followers: 9614
-    engagement: 469
-    commentsToLikes: 0.055939
-    id: ck6u21513p3h20j71tiur5ral
-    verified: false
-    hashtags: "#makeup, #xmas, #eyeshadow, #photoshoot"
-  - username: "marco.govea"
-    fullname: >-
-      Marco Govea
-    bio: >-
-      MAKEUP ARTIST BRIDAL&SOCIAL 📩 📞 marcogoveamakeupartist@gmail.com
-    location: "Venezuela"
-    followers: 46444
-    engagement: 169
-    commentsToLikes: 0.142847
-    id: ck6tk6vpl447p0j71909mx13b
-    verified: false
-    hashtags: "#model, #maquillaje, #makeup, #makeupartist"
-  - username: "makeupbymagno"
-    fullname: >-
-      Magno Silva
-    bio: >-
-      AGENDA/PRESUPUESTOS SÓLO EN MI WHATSAPP (link abajo) Microblading/shading Microlips Delineado Definitivo Mr World TikTok @makeUpByMagno 0994713457👇🏻
-    location: "Venezuela"
-    followers: 53531
-    engagement: 684
-    commentsToLikes: 0.013908
-    id: ck136wdib8kqs0i19q6z2tg6k
-    verified: false
-    hashtags: "#makeup, #hair, #microblading, #work"
-  - username: "adrianamonsalvemakeup"
-    fullname: >-
-      Adriana Monsalve
-    bio: >-
-      👩🏻‍🎨Makeup Artistic 🇺🇸 ✏️Content Creator 💄Tips🎥Tutoriales 👣 👩‍💻Classes online 🛍PR| Collabs makeupadrianamonsalve@gmail.com 👇Whathsapp 📞
-    location: "Venezuela"
-    followers: 24477
-    engagement: 350
-    commentsToLikes: 0.086526
-    id: ck602ymi6k1c60i14hztkfwi8
-    verified: false
-    hashtags: "#maybelline, #muavzla, #makeupforbarbies, #tutorial"
-  - username: "josebranchs"
-    fullname: >-
-      JOSE BRANCHS
-    bio: >-
-      Makeup Artist 🎨 Face Chart Artist 🎭 Content Creator 📚 Workshop's / Citas Personal account: @jaramos2 #makeupbybranchs
-    location: "Venezuela"
-    followers: 3608
-    engagement: 927
-    commentsToLikes: 0.184794
-    id: ckap282zsxs760i78rqtvgr9q
-    verified: false
-    hashtags: "#coralinemakeup, #herapaintart, #love, #hudabeauty"
-  - username: "aviamonte"
-    fullname: >-
-      Alejandra Viamonte
-    bio: >-
-      22. Makeup Artist @aviamontemakeup @aviamontestudio . Puerto Ordaz - Venezuela 🇻🇪
-    location: "Venezuela"
-    followers: 8614
-    engagement: 1671
-    commentsToLikes: 0.014306
-    id: ck6031ijikh3x0i14mctxw2th
-    verified: false
-    hashtags: "#blonde, #venezuela, #makeup, #fashion"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Sao Paulo In 2023
+title: Top 10 Nutrition Instagram Influencers In Sao Paulo In 2024
 description: >-
-  Find top nutrition Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #foco #lifestyle #fitness #dieta.
+  Find top nutrition Instagram influencers in Sao Paulo in 2024. Most popular hashtags: #tbt #foco #fitness #saude.
 platform: Instagram
-hits: 7
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 7 Instagram influencers like this in Sao Paulo, Brazil for you to collaborate.
+hits: 8
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 8 Instagram influencers like this in Sao Paulo, Brazil for you to pitch.
 profiles:
   - username: "raf92felipe"
     fullname: >-
@@ -43,30 +43,30 @@ profiles:
     id: ck14i0ngfd2nm0i194lexn7vj
     verified: false
     hashtags: "#fitness, #fikagrandeporra, #maromba, #gayboy"
-  - username: "brunosantos"
+  - username: "brunoagnello"
     fullname: >-
-      Bruno Santos 🇧🇷
+      Bruno Agnello
     bio: >-
-      Inspiration for Men’s Lifestyle 🌎 @omega @theonesupps 📧 brunosantos@mediaforstars.com
+      🎧 @hyperxbrasil 💻 @nvidiageforcebr 🕶 @darkseuoculosaqui
     location: "Brazil"
-    followers: 1052790
-    engagement: 82
-    commentsToLikes: 0.023325
-    id: ck6uckk05g58l0j711fdlrmzp
+    followers: 78925
+    engagement: 107
+    commentsToLikes: 0.060418
+    id: ck6u2z7p0ur7d0j71bhvvyh9q
     verified: true
-    hashtags: "#cafe, #theonesupps, #strong, #nutrition"
-  - username: "dra_analia"
+    hashtags: "#amor, #family, #love, #futebol"
+  - username: "receitasshowdebola"
     fullname: >-
-      ANÁLIA BARHOUCH
+      Receitas Show de Bola
     bio: >-
-      Nutricionista Mestre e Doutora Dietitian MS Ph.D 🇧🇷 #obesidade #cirurgiabariatrica 📍New York City - CUNY Hunter College 🇺🇸 Consulta online👇
+      Receitas deliciosas pra fazer no conforto do seu lar ♥️ #receitas Nos sigam no YouTube 👇🏼👇🏼
     location: "Brazil"
-    followers: 219548
-    engagement: 62
-    commentsToLikes: 0.172816
-    id: ck0vvs89zqivc0i19af1hdphu
-    verified: true
-    hashtags: "#reeducacaoalimentar, #dicasdanutri, #dietasaudavel, #nutricionista"
+    followers: 225675
+    engagement: 47
+    commentsToLikes: 0.031969
+    id: ckf5wc6vurl2u0j23sst52bqz
+    verified: false
+    hashtags: "#familia, #frutas, #comidacaseira, #academia"
   - username: "carolmeski"
     fullname: >-
       Meski
@@ -79,6 +79,18 @@ profiles:
     id: ck6tr6pchx9260j719ybumtn9
     verified: false
     hashtags: "#meskimkt, #teamlive, #euvivolive, #salvador"
+  - username: "brunosantos"
+    fullname: >-
+      Bruno Santos 🇧🇷
+    bio: >-
+      Inspiration for Men’s Lifestyle @omega @cidadematarazzo @trekstore_tuttobike brunosantos@mediaforstars.com
+    location: "Brazil"
+    followers: 1049421
+    engagement: 97
+    commentsToLikes: 0.018472
+    id: ck6uckk05g58l0j711fdlrmzp
+    verified: true
+    hashtags: "#trilha, #brazil, #omegamychoice, #fds"
   - username: "dra.laisfuzetto"
     fullname: >-
       Dra. Laís Fuzetto
@@ -91,40 +103,28 @@ profiles:
     id: ck14kkez7py1h0i19ih9pw72u
     verified: false
     hashtags: "#performance, #bikelifestyle, #pedal, #alimentacaosaudavel"
-  - username: "fabianoguigas"
+  - username: "dra.andreiacp"
     fullname: >-
-      Fabiano Dantas Guigas
+      Andréia Camargo Pinheiro
     bio: >-
-      📈Founder & CEO @centraldosuplemento @cdsdistribuidoraba @1pure_nutrition @coachsupplementbr @muscleprobr @elementox.energy 👇ESCOLA MAROMBA👇
+      🇧🇷 40 👩‍🔬 PhD Nanoscience 📚 Nutrition/Coach/Personal 🥈 Fittest in the world, CrossfitGames 2023 "A idade é só um número"
     location: "Brazil"
-    followers: 54578
-    engagement: 1417
-    commentsToLikes: 8.581092
-    id: ck9wdedpof9j70j781dmzpt5e
+    followers: 138894
+    engagement: 169
+    commentsToLikes: 0.014877
+    id: ck5c98nqkazdk0i112m3d7qkx
     verified: false
-    hashtags: "#1purenutrition, #teamcentral, #youtube, #bodyfit"
-  - username: "taticoelhotati"
+    hashtags: "#crossfit, #calistenia, #muscleup, #tbt"
+  - username: "suygonzales.fit"
     fullname: >-
-      Tati Coelho
+      Suy Gonzales| Fitness⚡️
     bio: >-
-      RJ • 6 PITBULLS • VIDA SAUDÁVEL ⠀ 🌞✨ 🌊🧘🏻‍♀️🧿 ♌️ 🌻🐾 ⠀ 𝒆𝒎 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕𝒆 𝒆𝒗𝒐𝒍𝒖𝒄̧𝒂̃𝒐 ❋ @mundomarombabr (cupom:TATI)💥 ❋ @dcx.nutrition 🚀
+      🧘🏼‍♀️Treino •Receitas•Lifestyle 🌱Nutrition coach 🍎Ser fitness é fazer boas escolhas ! Caffeinearmyusa 🏷️SUYGONZALES 📍Califórnia
     location: "Brazil"
-    followers: 41002
-    engagement: 1449
-    commentsToLikes: 0.035688
-    id: ckaov5qtk36as0i78peoq4gp0
+    followers: 14557
+    engagement: 110
+    commentsToLikes: 0.050012
+    id: cl430i700h9s70i23km0ts7hl
     verified: false
-    hashtags: "#sun, #amar, #sea, #luzepaz"
-  - username: "alessandradelduque"
-    fullname: >-
-      Alessandra Delduque
-    bio: >-
-      • Fitness | Healthy Life • @teamcarolvaz @mundomarombabr @dcx.nutrition
-    location: "Brazil"
-    followers: 27465
-    engagement: 358
-    commentsToLikes: 0.041807
-    id: ck6u6wsczi63l0j71mq2m35ud
-    verified: false
-    hashtags: "#coisasboasacontecem, #lifestyle, #botox, #belezafeminina"
+    hashtags: "#fitnessmotivation, #treinoemcasa, #lifestyle, #rellsinstagram"
 ---

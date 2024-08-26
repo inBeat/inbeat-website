@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Sydney In 2023
+title: Top 10 Mothers TikTok Influencers In Sydney In 2024
 description: >-
-  Find top mothers TikTok influencers in Sydney in 2023. Most popular hashtags: #sydney #fyp #tiktokaustralia #foryoupage.
+  Find top mothers TikTok influencers in Sydney in 2024. Most popular hashtags: #sydney #fyp #tiktokaustralia #foryoupage.
 platform: TikTok
 hits: 8
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our database aggregates 8 TikTok influencers like this in Sydney, Australia for you to connect with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 8 TikTok influencers like this in Sydney, Australia for you to pitch.
 profiles:
   - username: "rajwinderkaurjarg"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.010131
     id: ckd6lhnrsfbql0j234wp8muwv
     verified: false
-    hashtags: "#hustlecheck, #shoplocal, #mum, #fyp"
+    hashtags: "#earthmonth, #gogreen, #hustlecheck, #earthday"
   - username: "nat.alise"
     fullname: >-
       Nat Alise
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.058654
     id: cka0gee5s44rz0i78u1leq44v
     verified: false
-    hashtags: "#washing, #over30, #mumsoftiktok, #duet"
+    hashtags: "#duet, #laundry, #lifewithkids, #laundrytok"
 ---

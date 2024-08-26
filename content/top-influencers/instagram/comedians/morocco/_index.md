@@ -1,24 +1,60 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Morocco In 2023
+title: Top 10 Comedians Instagram Influencers In Morocco In 2024
 description: >-
-  Find top comedians Instagram influencers in Morocco in 2023. Most popular hashtags: #morocco #maroc #casablanca.
+  Find top comedians Instagram influencers in Morocco in 2024. Most popular hashtags: #maroc #morocco #fashion.
 platform: Instagram
-hits: 14
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 14 Instagram influencers like this in Morocco for you to work with.
+hits: 17
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 17 Instagram influencers like this in Morocco for you to contact.
 profiles:
-  - username: "jousef_elkott"
+  - username: "gonzalez.officiel"
     fullname: >-
-      Yousef Elkott | يوسف القط
+      Hassan GonzaLez
     bio: >-
-      Actor | Model Stand up Comedian Snapchat : jousef_elkott ADS : Elkott.ads@gmail.com فيديو جديد 👇🏻
+      F💍 أبو غيث 🤱🏻 🤲🏻إِن يَنصُرْكُمُ اللَّهُ فَلَا غَالِبَ لَكُمْ Influencer/blogueur/ Comedian ✌️📩 For Business: skoko1351@gmail.com
     location: "Morocco"
-    followers: 436922
-    engagement: 176
-    commentsToLikes: 0.039852
-    id: ck5hcfvcchv360i11ewb3c8xy
+    followers: 1321263
+    engagement: 467
+    commentsToLikes: 0.012423
+    id: ck14k7iy4o4n70i1944ffnagu
     verified: false
-    hashtags: "#pubgmop, #dewinpubg, #ad, #dewop"
+    hashtags: ""
+  - username: "meryamkadmiri"
+    fullname: >-
+      Meryam bellaafar - مريم بلعفر
+    bio: >-
+      • Official account • comedian/ artiste / blogger 📧: meryam.kadmiri.b@gmail.com
+    location: "Morocco"
+    followers: 3498092
+    engagement: 296
+    commentsToLikes: 0.021706
+    id: ck15sk1mmdeep0i19u3syp84x
+    verified: false
+    hashtags: "#7libuht, #sa77awraha, #100, #6mois"
+  - username: "khalidsheriff"
+    fullname: >-
+      Khalid Sheriff
+    bio: >-
+      صانع محتوى على اليوتوب والتلفزيون ▪😍 Face : khalid.sheriff.comedian ▪👻 Snap / TikTok : khalidsheriff ▪📧 : khalidthesheriff@hotmail.com ▪👇 Youtube 👇
+    location: "Morocco"
+    followers: 475711
+    engagement: 20
+    commentsToLikes: 0.052151
+    id: ck5zqg5y5uj9b0i14xumawv8k
+    verified: false
+    hashtags: "#reno8t, #oppo, #technology, #narsa"
+  - username: "yassarlemghar"
+    fullname: >-
+      Yassar Lemghari يسار لمغاري
+    bio: >-
+      بدون كفاح لا يوجد تقدّم 🦁 • Comedian, Actor & Scenarist
+    location: "Morocco"
+    followers: 3599039
+    engagement: 13
+    commentsToLikes: 0.014558
+    id: ckap2g6xyyou30i78r973sokj
+    verified: true
+    hashtags: "#fiatmaroc, #fiatlovers, #rireencascade, #bestoflaughs"
   - username: "salma_h_zawaideh"
     fullname: >-
       Salma Hanna سلمى حنا
@@ -43,18 +79,6 @@ profiles:
     id: ck6tlhh69617g0j71vz2adpfa
     verified: false
     hashtags: "#fadwataleb, #aloula, #slawslam, #karima"
-  - username: "gonzalez.officiel"
-    fullname: >-
-      Hassan GonzaLez
-    bio: >-
-      Influencer/blogueur/ Comedian For Business: skoko1351@gmail.com My Channel Youtube 👇🏻👇🏻👇🏻👇🏻
-    location: "Morocco"
-    followers: 993800
-    engagement: 528
-    commentsToLikes: 0.014037
-    id: ck14k7iy4o4n70i1944ffnagu
-    verified: false
-    hashtags: ""
   - username: "gonzalez.officiel_"
     fullname: >-
       hassan gonzalez
@@ -91,40 +115,16 @@ profiles:
     id: ck6u55w9j7rut0j71z0lb9ggz
     verified: false
     hashtags: ""
-  - username: "khalidsheriff"
+  - username: "eddahri_wafaa"
     fullname: >-
-      Khalid Sheriff
+      Wafaa Eddahri®️
     bio: >-
-      صانع محتوى على اليوتوب والتلفزيون ▪😍 Face : khalid.sheriff.comedian ▪👻 Snap : khalidsheriff ▪📧 : khalidthesheriff@hotmail.com ▪👇 Last Video 👇
+      @weluxurycosmetics Wifey Mommy of 5 Nominated Mrs World Morocco 2022 Born & raised in Sweden 🇸🇪From🇲🇦
     location: "Morocco"
-    followers: 496096
-    engagement: 77
-    commentsToLikes: 0.018126
-    id: ck5zqg5y5uj9b0i14xumawv8k
+    followers: 1335591
+    engagement: 25
+    commentsToLikes: 0.009686
+    id: ck9wezv4gmn290j78kf3zujtb
     verified: false
-    hashtags: "#morocco, #2020, #repost, #casablanca"
-  - username: "hind__benjbara"
-    fullname: >-
-      HIND Benjbara |هند بن اجبــارة
-    bio: >-
-      Moroccan actress.
-    location: "Morocco"
-    followers: 954109
-    engagement: 167
-    commentsToLikes: 0.008371
-    id: ckaotrc7rx5j50i78hrpc5n7u
-    verified: false
-    hashtags: "#action, #agadir, #tvshow, #memories"
-  - username: "amine_aharmim"
-    fullname: >-
-      Amine Aharmim - أمين أحرميم
-    bio: >-
-      Founder/CEO @artoujours.ma ▪️Producer ▪️Artistic Director ▪️Event Planner/Artist Booking ▪️Marketing Executive ⚽ Madridista ⚽ ♡Tetouan/Paris♡
-    location: "Morocco"
-    followers: 19834
-    engagement: 266
-    commentsToLikes: 0.013862
-    id: ckaoxnt8ye1n80i78l7j4l75h
-    verified: false
-    hashtags: "#love, #hindziadi, #work, #winter"
+    hashtags: "#dubai, #uae, #positivity, #eddahri"
 ---

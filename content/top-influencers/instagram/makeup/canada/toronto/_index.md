@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Toronto In 2023
+title: Top 10 Makeup Instagram Influencers In Toronto In 2024
 description: >-
-  Find top makeup Instagram influencers in Toronto in 2023. Most popular hashtags: #makeup #toronto #beauty #hudabeauty.
+  Find top makeup Instagram influencers in Toronto in 2024. Most popular hashtags: #makeup #toronto #beauty #makeupartist.
 platform: Instagram
-hits: 70
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform has 70 Instagram influencers like this in Toronto, Canada for you to connect with.
+hits: 165
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 165 Instagram influencers like this in Toronto, Canada for you to pitch.
 profiles:
   - username: "angeline.ondaatje"
     fullname: >-
@@ -19,18 +19,54 @@ profiles:
     id: ck137xwrldl5h0i19c4eoe5aa
     verified: false
     hashtags: "#colombostyle, #usa, #girl, #shoutoutlankans"
-  - username: "nilaharan"
+  - username: "sveascott"
     fullname: >-
-      Nila Haran
+      Svea Scott
     bio: >-
-      @bridesbynila 🇨🇦 philocalist (n.) Makeup-Artist Entrepreneur Mom Wife of @divinemethodphoto #bridesbynila Shop: @shopnilaharan 🚧🏗️
+      Life, style, food and the journey of new momhood… Sharing all your new favourite places! Collab/UGC/social managing: sveascott.socials@hotmail.com
     location: "Canada"
-    followers: 48300
-    engagement: 248
-    commentsToLikes: 0.041110
-    id: ck5hp2bnyqmu60i11cq7pd6xf
+    followers: 7943
+    engagement: 466
+    commentsToLikes: 0.114370
+    id: ckap0g3elq4gs0i784rz22nzj
     verified: false
-    hashtags: "#tamilbeauty, #bridesbynila, #tamilbride, #torontomakeupartist"
+    hashtags: "#eats, #ontario, #foodie, #toronto"
+  - username: "mandybamrah"
+    fullname: >-
+      Toronto Bridal Makeup and Hair Artist
+    bio: >-
+      📍YYZ Toronto, Canada + World-wide 2023 calendar limited - 2024 calendar now open • Bookings & Inquiries ⤵️ Info@mandybamrah.com
+    location: "Canada"
+    followers: 14261
+    engagement: 412
+    commentsToLikes: 0.043730
+    id: clo3xkjm5m8e90j08xh23bbry
+    verified: false
+    hashtags: "#indianbride, #makeupbymario, #torontomua, #weddingday"
+  - username: "kathleenisabellee"
+    fullname: >-
+      Kathleen Giglio
+    bio: >-
+      🧿| Fashion, Lifestyle, DIY & Travel Collaboration : K.promoo@gmail.com 🌸
+    location: "Canada"
+    followers: 48132
+    engagement: 119
+    commentsToLikes: 0.044822
+    id: cld6qdjtncdpr0j085gashfyx
+    verified: false
+    hashtags: "#foryou, #fyp, #sheinforall, #montrealmakeup"
+  - username: "shabydassi"
+    fullname: >-
+      ✨Shaby✨
+    bio: >-
+      MAKEUP & HAIR Artist 🎨 Makeup Expert on @themarilyndenisshow @yourmorning and @ctvottawamorninglive
+    location: "Canada"
+    followers: 7768
+    engagement: 445
+    commentsToLikes: 0.156992
+    id: ck55nzqfa7c6y0i115dqo48jx
+    verified: false
+    hashtags: "#middleeasterngirl, #makeupbyshaby, #promakeupartist, #reels"
   - username: "golsis_makeup"
     fullname: >-
       Golsis makeup artist🌸
@@ -42,7 +78,7 @@ profiles:
     commentsToLikes: 0.031151
     id: ck5q1nin3bul70i11tgoclzee
     verified: false
-    hashtags: "#hudabeauty, #nofilter, #wakeupandmakeup, #lookexpensive"
+    hashtags: "#lookexpensive, #nofilter, #hudabeauty, #wakeupandmakeup"
   - username: "ana_sorys"
     fullname: >-
       ANA SORYS
@@ -66,65 +102,29 @@ profiles:
     commentsToLikes: 0.223615
     id: ck5zo0k0dpiiv0i1499pg0klj
     verified: false
-    hashtags: "#foundation, #rarebeauty, #multichrome, #glow"
-  - username: "channelforcopyrightnotice"
+    hashtags: "#oseamalibu, #natashadenona, #meltcosmetics, #rarebeauty"
+  - username: "beccalaw__"
     fullname: >-
-      
+      Rebecca Marie Lawless
     bio: >-
-      © Instagram Help Center If you have infringed copyright, you will be notified through this channel.
+      Toronto📍🏳️‍🌈 Beauty ✰ Makeup ✰ Lifestyle Pr Enquiries: 💌Rebeccamariex91@gmail.com Snapchat: Beccalawmua
     location: "Canada"
-    followers: 57583
-    engagement: 262
-    commentsToLikes: 0.051543
-    id: ck5c83emv8p080i11xfp1baui
+    followers: 13305
+    engagement: 252
+    commentsToLikes: 0.099350
+    id: ckt3sc5pq4a2x0j23zzp56h88
     verified: false
-    hashtags: "#makeuplooks, #jamescharlespalette, #tatcha, #makeuptoturial"
-  - username: "imsylvie"
+    hashtags: "#makeup, #blogger, #toronto, #prevents"
+  - username: "tropbelle_makeup"
     fullname: >-
-      Toronto Makeup Artist
+      Senita Rodrigues
     bio: >-
-      SYL Faces Editorial & Bridal | Hair & Makeup Bookings: info@sylfaces.com (no DMs) 📍Toronto
+      🇬🇾🇨🇦PRO Artist: Senita Rodrigues 🧿 🏆2017 NOTABLE AWARD WINNER DESTINATION MUA ✈️ 📧 mua.tropbelle@gmail.com #torontomakeupartist
     location: "Canada"
-    followers: 16787
-    engagement: 505
-    commentsToLikes: 0.023228
-    id: ck0vvr6i1qecm0i192wvszg22
+    followers: 44850
+    engagement: 206
+    commentsToLikes: 0.028124
+    id: ck55ol7i98kxc0i11ee5ya6pg
     verified: false
-    hashtags: "#tamilmua, #tamil, #torontowedding, #koorai"
-  - username: "goldenbeauty_xo"
-    fullname: >-
-      Toronto Makeup Artist 💫
-    bio: >-
-      G O L D E N B E A U T Y 💄 | TikTok: @goldenbeauty_xo (44.9k+) 💌 | PR/Bookings: goldsbeaut@gmail.com 📍 | Toronto, Canada
-    location: "Canada"
-    followers: 9021
-    engagement: 307
-    commentsToLikes: 0.162285
-    id: ck8t2jgyezqav0j78ulh5rweh
-    verified: false
-    hashtags: "#sephoracanada, #hudabeauty, #melanin, #nyxcosmetics"
-  - username: "guneetbenipal"
-    fullname: >-
-      Gunu 🌸
-    bio: >-
-      📍TORONTO 💄 Makeup • Skincare • Fashion 💌 Email for Collabs, Shoots & PR Inquiries 🎵 Tiktok: gunuu07
-    location: "Canada"
-    followers: 4700
-    engagement: 716
-    commentsToLikes: 0.201164
-    id: ckap7d7injk6w0i78ee3qs4iu
-    verified: false
-    hashtags: "#makeupaddict, #torontomakeupartist, #fullglam, #lifestyle"
-  - username: "curls_n_tings"
-    fullname: >-
-      Abeer Mo
-    bio: >-
-      Natural hair. 3c Curls. Makeup. Skincare. 📍Toronto, Canada 📩 curlsntings@gmail.com #curlsntings Youtube
-    location: "Canada"
-    followers: 21838
-    engagement: 222
-    commentsToLikes: 0.065835
-    id: ck8svr2j0ce2i0j78lydbs7x6
-    verified: false
-    hashtags: "#curlsntings, #travelnoire, #curls, #selflove"
+    hashtags: "#tropbellemakeup, #torontomakeupartist, #anastasiabeverlyhills, #skincare"
 ---

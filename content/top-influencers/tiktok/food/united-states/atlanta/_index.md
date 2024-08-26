@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Atlanta In 2023
+title: Top 10 Food TikTok Influencers In Atlanta In 2024
 description: >-
-  Find top food TikTok influencers in Atlanta in 2023. Most popular hashtags: #fyp #food #foryou #foryoupage.
+  Find top food TikTok influencers in Atlanta in 2024. Most popular hashtags: #fyp #food #foryou #foryoupage.
 platform: TikTok
 hits: 41
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 41 TikTok influencers like this in Atlanta, United States for you to contact.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 41 TikTok influencers like this in Atlanta, United States for you to pitch.
 profiles:
   - username: "kristinacichanowsky"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.081470
     id: cka666lcmfydd0i78q7jccg1h
     verified: false
-    hashtags: "#2024, #quickerpickerrapper, #fyp, #fishing"
+    hashtags: "#quickerpickerrapper, #hilarious, #foryou, #funny"
   - username: "islandflavors"
     fullname: >-
       A taste of PR
@@ -79,18 +79,18 @@ profiles:
     id: ckai92cr76maq0i78mwt83qg6
     verified: false
     hashtags: "#latinfood, #sofrito, #food, #islandflavorsatl"
-  - username: "vincentvannn"
+  - username: "vincentvangooo"
     fullname: >-
       Vincent Doyle
     bio: >-
-      Atlanta 🌇 Creator/Photographer Prints for purchase + Social links below!
+      Atlanta 🌇 Content Creator/Photographer Social media below
     location: "United States"
-    followers: 3711
-    engagement: 759
-    commentsToLikes: 0.054459
+    followers: 3675
+    engagement: 752
+    commentsToLikes: 0.054300
     id: ckbf1kskwnrav0j23gs3xu7hl
     verified: false
-    hashtags: "#viral, #fyp, #dallas, #foryoupage"
+    hashtags: "#foryoupage, #viral, #dallas, #money"
   - username: "jjennynguyenn"
     fullname: >-
       Jenny Nguyen
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.406215
     id: ck8j9dnz1mywg0j78oyxhfhn8
     verified: false
-    hashtags: "#foodie, #chipsgottalent, #funny, #fyp"
+    hashtags: "#chipsgottalent, #fyp, #funny, #ifeelweightless"
 ---

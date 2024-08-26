@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In London In 2023
+title: Top 10 TikTok Influencers In London In 2024
 description: >-
-  Find top TikTok influencers in London in 2023. Most popular hashtags: #duet #london #foryou #uk.
+  Find top TikTok influencers in London in 2024. Most popular hashtags: #london #duet #foryou #foryoupage.
 platform: TikTok
-hits: 1068
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our database has 1068 TikTok influencers like this in London, United Kingdom for you to connect with.
+hits: 1057
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: inBeat holds 1057 TikTok influencers like this in London, United Kingdom for you to pitch.
 profiles:
   - username: "jululululiet"
     fullname: >-
@@ -119,12 +119,12 @@ profiles:
     fullname: >-
       * ✧ kaz ✧･ﾟ
     bio: >-
-      she/her 18,, london virgo, slytherin, entp 🧃🖤⚰️🍌🔪🧺⛓🧋🐍🪐🕸🕯🧳🪴🕷
+      🖤⚰️🔪🧺🐍🪐🕸🕯🧳🪴🕷 18 , london , she/her, slytherin still on hp tiktok lmao
     location: "United Kingdom"
-    followers: 427900
-    engagement: 2132
-    commentsToLikes: 0.019336
+    followers: 448800
+    engagement: 2889
+    commentsToLikes: 0.044122
     id: ck9po82zmi6qa0j78kqh5zgf6
     verified: false
-    hashtags: "#marvel, #voldemort, #wandavision, #hogwarts"
+    hashtags: "#harrypotter, #oldhptiktok, #georgeweasley, #olddracotok"
 ---

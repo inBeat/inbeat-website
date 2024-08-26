@@ -1,10 +1,10 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Chile In 2023
+title: Top 10 Skincare TikTok Influencers In Chile In 2024
 description: >-
-  Find top skincare TikTok influencers in Chile in 2023. Most popular hashtags: #parati #chile #fyp #skincare.
+  Find top skincare TikTok influencers in Chile in 2024. Most popular hashtags: #parati #chile #fyp #skincare.
 platform: TikTok
 hits: 19
-text_top: Discover the top-rated TikTok accounts on inBeat.
+text_top: Discover the most popular TikTok profiles on inBeat.
 text_bottom: inBeat holds 19 TikTok influencers like this in Chile for you to pitch.
 profiles:
   - username: "tini_acv2"
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.005530
     id: ckcpruegjluji0j23mvqabvy6
     verified: false
-    hashtags: "#parati, #chile, #trend, #enunminuto"
+    hashtags: "#chile, #1minuto, #trend, #cafeenunminuto"
 ---

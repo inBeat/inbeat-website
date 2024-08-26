@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mma Fighters Instagram Influencers In Russia In 2023
+title: Top 10 Mma Fighters Instagram Influencers In Russia In 2024
 description: >-
-  Find top mma fighters Instagram influencers in Russia in 2023. Most popular hashtags: #mma #sport #training.
+  Find top mma fighters Instagram influencers in Russia in 2024. Most popular hashtags: #mma #sport #training.
 platform: Instagram
-hits: 33
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: inBeat has 33 Instagram influencers like this in Russia for you to work with.
+hits: 32
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 32 Instagram influencers like this in Russia for you to pitch.
 profiles:
   - username: "nikitasolonin_mma"
     fullname: >-

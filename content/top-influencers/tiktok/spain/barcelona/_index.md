@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Barcelona In 2023
+title: Top 10 TikTok Influencers In Barcelona In 2024
 description: >-
-  Find top TikTok influencers in Barcelona in 2023. Most popular hashtags: #fyp #parati #humor #viral.
+  Find top TikTok influencers in Barcelona in 2024. Most popular hashtags: #fyp #parati #humor #viral.
 platform: TikTok
 hits: 187
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 187 TikTok influencers like this in Barcelona, Spain for you to work with.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our platform has 187 TikTok influencers like this in Barcelona, Spain for you to work with.
 profiles:
   - username: "mark20.20"
     fullname: >-

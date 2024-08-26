@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters Instagram Influencers In Chile In 2023
+title: Top 10 Painters Instagram Influencers In Chile In 2024
 description: >-
-  Find top painters Instagram influencers in Chile in 2023. Most popular hashtags: #amor #pazinterior #vida #chile.
+  Find top painters Instagram influencers in Chile in 2024. Most popular hashtags: #amor #ootd #chile #arte.
 platform: Instagram
-hits: 17
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 17 Instagram influencers like this in Chile for you to connect with.
+hits: 22
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 22 Instagram influencers like this in Chile for you to pitch.
 profiles:
   - username: "rogger.arts"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck9wfoazypqy50j78gz6ehl1r
     verified: false
     hashtags: "#portraitdrawing, #mangadrawing, #artshare, #duende"
-  - username: "soulfia_"
-    fullname: >-
-      SOULFIA
-    bio: >-
-      mgmt @javiweldt_______ @welovemodels._ soulfiamusic@gmail.com 🌑 PANTERA ya disponible 🌑
-    location: "Chile"
-    followers: 41786
-    engagement: 2104
-    commentsToLikes: 0.011808
-    id: ck5qcyhd2sy1o0i11t6nktnb4
-    verified: false
-    hashtags: "#panterachallenge"
   - username: "andonicanela"
     fullname: >-
       Andoni Canela
@@ -67,6 +55,54 @@ profiles:
     id: ckaovww8q6g3k0i7809byguxp
     verified: false
     hashtags: "#gracias, #leydeatraccion, #consciencia, #fe"
+  - username: "ladanioliva"
+    fullname: >-
+      DANI OLIVA
+    bio: >-
+      ★ MODA Y MÁS★ 📥 daoliva@uc.cl DCTOS% 💜@corona_chile ladanioliva/1801600013 🧡@natura.chile DANI30 ✨La que hace transiciones de looks bailando ✨ 💃🏻
+    location: "Chile"
+    followers: 112478
+    engagement: 548
+    commentsToLikes: 0.038972
+    id: ck6ti5vkw03jg0j71tdrebani
+    verified: false
+    hashtags: "#ootd, #moda, #fashion, #publicidad"
+  - username: "josa_prado"
+    fullname: >-
+      𝐉𝐨𝐬𝐞𝐟𝐢𝐧𝐚 𝐏𝐫𝐚𝐝𝐨
+    bio: >-
+      ✨𝟣𝟫 📍𝖲𝗍𝗀𝗈, 𝖢𝗁𝗂𝗅𝖾 𝖳𝗂𝗄𝗍𝗈𝗄: 𝗃𝗈𝗌𝖺_𝗉𝗋𝖺𝖽𝗈 🩺 𝖥𝗈𝗇𝗈𝖺𝗎𝖽𝗂𝗈𝗅𝗈𝗀𝗂𝖺 𝖴𝖣𝖣
+    location: "Chile"
+    followers: 73107
+    engagement: 535
+    commentsToLikes: 0.032072
+    id: ck8wees8ydycw0j78uell8gkb
+    verified: false
+    hashtags: "#insta, #foto, #instachile, #photo"
+  - username: "connieachurra"
+    fullname: >-
+      C o n n i e  A c h u r r a
+    bio: >-
+      Fundadora de @gloriadesdelos40 y @30diasparami, conductora La conversa en @13cradio.cl, Autora #cocinasanayfeliz y #conniesinprisa en @cocinavivatv
+    location: "Chile"
+    followers: 1322457
+    engagement: 32
+    commentsToLikes: 0.044732
+    id: ck0w4h2ffyjai0i19fmzh3r57
+    verified: true
+    hashtags: "#remodelacionconnie, #chiamaria, #connieachurracocinanatural, #puertovaras"
+  - username: "monrix"
+    fullname: >-
+      Carla Escobedo
+    bio: >-
+      body neutral⭐️lifestyle⭐️plus size⭐️ 🙊 Que soy depende del día. Entreno, carreteo, modelo, creo contenido y le hago cariño a mis gatas Gal & Mochi 😼😽
+    location: "Chile"
+    followers: 21990
+    engagement: 25
+    commentsToLikes: 0.008359
+    id: clpfe0ew3j2vq0k08f3qhihqc
+    verified: false
+    hashtags: "#psfashion, #plussizefashion, #plussize, #ootd"
   - username: "daniellapazz"
     fullname: >-
       𝑫𝒂𝒏𝒊𝒆𝒍𝒂 💎
@@ -91,40 +127,4 @@ profiles:
     id: ck0tt3eya0zjh0i19tc01ztj4
     verified: false
     hashtags: "#amor, #dancers, #dancer, #arte"
-  - username: "jaelphotography"
-    fullname: >-
-      Jael Torres Photography S.R.L.
-    bio: >-
-      Jael Torres Fotógrafo Oficina WhatsApp 829-213-0000 # Local WhatsApp 809-724-1400 👇🏻👇🏻👇🏻PARA CITAS Escríbenos directamente 👇🏻👇🏻👇🏻👇🏻
-    location: "Chile"
-    followers: 47823
-    engagement: 195
-    commentsToLikes: 0.020665
-    id: ck6tuagsbf87d0j713ig8rdt5
-    verified: false
-    hashtags: "#photography, #xv, #mis, #misquincea"
-  - username: "cristianaguirrephoto"
-    fullname: >-
-      Cristián Aguirre Photography®
-    bio: >-
-      Artista del alma que fotografía la geometría del universo y los ritmos del tiempo inspirando naturaleza. 👇Fotografías para cuidar el planeta ♻️🌎
-    location: "Chile"
-    followers: 18710
-    engagement: 788
-    commentsToLikes: 0.072139
-    id: ck6tq6cljpn4w0j71khtifltc
-    verified: false
-    hashtags: "#volcan, #bbc, #wildlifechile, #chilegram"
-  - username: "velenporella"
-    fullname: >-
-      Belén Flores Núñez
-    bio: >-
-      Artista Visual/Manicurista -❤️✈️🌏- Swarovski®Authorized Instructor @crystalstore_cl /@seducete.cl Santiago, Chile Citas 👇🏻
-    location: "Chile"
-    followers: 59247
-    engagement: 254
-    commentsToLikes: 0.007595
-    id: ck5cc36brgmmd0i11wo11infn
-    verified: false
-    hashtags: "#un, #rednails, #nailsbarcelona, #nails"
 ---

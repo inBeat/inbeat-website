@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Miami In 2023
+title: Top 10 Yoga TikTok Influencers In Miami In 2024
 description: >-
-  Find top yoga TikTok influencers in Miami in 2023. Most popular hashtags: #yoga #miami #fyp #funny.
+  Find top yoga TikTok influencers in Miami in 2024. Most popular hashtags: #yoga #miami #fyp #fitness.
 platform: TikTok
 hits: 13
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: inBeat holds 13 TikTok influencers like this in Miami, United States for you to connect with.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 13 TikTok influencers like this in Miami, United States for you to collaborate.
 profiles:
   - username: "freeman.thecreator"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.086988
     id: ck8km8t0o7hgx0j78cqdh3rca
     verified: false
-    hashtags: "#tracer, #tricks, #calisthenics, #tricking"
+    hashtags: "#miamiflorida, #fit, #vibe, #miamitrainer"
   - username: "wendybesadarodrig"
     fullname: >-
       Wendy Besada Rodrigu
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.031040
     id: ckbeyeq46iw5h0j23upb0vqms
     verified: false
-    hashtags: "#photography, #fashion, #shein, #fun"
+    hashtags: "#viral, #fashion, #challenge, #blonde"
   - username: "bailey.nomi"
     fullname: >-
       Nomi Active
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.321928
     id: ckb94k5tom4u70j237l48p1kr
     verified: false
-    hashtags: "#miami, #bali, #vlog, #mundial"
+    hashtags: "#xyzbca, #fitness, #xzybca, #bali"
   - username: "emmanuelangels"
     fullname: >-
       Manny Angels

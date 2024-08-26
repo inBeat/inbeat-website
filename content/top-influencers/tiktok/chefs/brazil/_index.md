@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs TikTok Influencers In Brazil In 2023
+title: Top 10 Chefs TikTok Influencers In Brazil In 2024
 description: >-
-  Find top chefs TikTok influencers in Brazil in 2023. Most popular hashtags: #foryou #tiktok #food #chef.
+  Find top chefs TikTok influencers in Brazil in 2024. Most popular hashtags: #foryou #tiktok #food #chef.
 platform: TikTok
 hits: 15
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform holds 15 TikTok influencers like this in Brazil for you to collaborate.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 15 TikTok influencers like this in Brazil for you to work with.
 profiles:
   - username: "flaviofreis"
     fullname: >-

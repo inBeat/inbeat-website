@@ -1,130 +1,130 @@
 ---
-title: Top 10 Divers Instagram Influencers In 2023
+title: Top 10 Divers Instagram Influencers In 2024
 description: >-
-  Find top divers Instagram influencers in 2023. Most popular hashtags: #merrychristmas #adventure #travel.
+  Find top divers Instagram influencers in 2024. Most popular hashtags: #diving #turkey #airportdiaries #sport.
 platform: Instagram
-hits: 4256
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 4256 Instagram influencers like this for you to collaborate.
+hits: 4748
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 4748 Instagram influencers like this for you to pitch.
 profiles:
-  - username: "vampuk"
+  - username: "angelazbao"
     fullname: >-
-      VAMP
+      Angela Bao 🇨🇳🇺🇸
     bio: >-
-      • Digital Talent & Entertainment PR Agency aiding brands in authentically diversifying content and maximising reach. • @vampnetwork | @unheardnetwork
+      Diverse books, maximalist looks. Highlighting books by BIPOC, women, and LGBTQIA+, outfits & rando makeup lewks. It’s not hoarding it’s MAXIMALISM.
+    location: "United States"
+    followers: 15829
+    engagement: 698
+    commentsToLikes: 0.040151
+    id: ckv9fm9j73wjd0j23wpmvth35
+    verified: false
+    hashtags: "#bookreels, #literature, #bookworm, #fitcheck"
+  - username: "rosshaslam"
+    fullname: >-
+      ROSS HASLAM
+    bio: >-
+      Sheffield • GB Diver 🇬🇧 @nurokor ⚡ @w_modelmgmt
     location: "United Kingdom"
-    followers: 13736
-    engagement: 411
-    commentsToLikes: 0.031358
-    id: ckprgr6if81xo0j23d0bh2tua
+    followers: 48605
+    engagement: 593
+    commentsToLikes: 0.018963
+    id: ck6u0et9yf9y20j71rbaojvga
     verified: false
-    hashtags: "#vamppr, #wakandaforever, #vampfamily, #pressedpodcast"
-  - username: "kelleesetgo"
+    hashtags: "#instafit, #sport, #fitness, #athlete"
+  - username: "smithalee"
     fullname: >-
-      Kellee Edwards | Multi-Media Host
+      Smitha An-Tione Lee
     bio: >-
-      Travel & Adventure Journalist/TV Host Pilot✈️| Global Explorer 🌍| Scuba Diver👌🏾 🎙@TravelandLeisure Let’s Go Together 🏆Winning TV Host @discoveryplus
+      ATLANTA/SPARTANBURG Creative at @forwardvantage A Creative Entrepreneur who excels in fostering impactful discussions that creates diverse audiences
     location: "United States"
-    followers: 151655
-    engagement: 120
-    commentsToLikes: 0.012824
-    id: ck5zjged0hjk30i14xuqhxidw
+    followers: 28666
+    engagement: 1739
+    commentsToLikes: 0.009292
+    id: ckqyz4byq4b9i0j23g2i4r3de
+    verified: false
+    hashtags: "#maternity, #maternityshoot, #weddingphotography, #engaged"
+  - username: "yumyumyow"
+    fullname: >-
+      Allie S | Ottawa Food Blogger
+    bio: >-
+      Celebrating diversity & community through food. Sharing Ottawa’s restaurant scene, delicious bites and local food events. 💌 YumYumYOW@yahoo.com
+    location: "Canada"
+    followers: 29492
+    engagement: 582
+    commentsToLikes: 0.238781
+    id: ck6u7wenno1fo0j71flkhaq0v
+    verified: false
+    hashtags: "#carletonu, #ottawatourism, #ottawafoodies, #supportlocal613"
+  - username: "paulines.passport"
+    fullname: >-
+      Pauline | Adventure Travel
+    bio: >-
+      Viet-American 🌎 Adventurer Encouraging Diversity Abroad & Outdoors ♡︎ Based in VA/DC | ✈︎ Currently 🚗 paulinespassport@gmail.com
+    location: "United States"
+    followers: 15755
+    engagement: 5186
+    commentsToLikes: -0.774649
+    id: cl7lda508vk700i23j1nj2rmu
+    verified: false
+    hashtags: "#womenwhodrone, #traveldiaries, #wanderireland, #mothernature"
+  - username: "thelifestylediaryy"
+    fullname: >-
+      Suman Kothari
+    bio: >-
+      Lifestyle & Travel Creator🐥 🇮🇳 @gopro Ambassador 💎 @stylewithbliss Pilot 🪂 Scuba diver 🤿 Freediver 🌊 Horse rider 🐎 Youtube - 285k subscribers🔥
+    location: "United States"
+    followers: 564992
+    engagement: 754
+    commentsToLikes: 0.010944
+    id: ck6uevgydtb4y0j71wqufe2zj
+    verified: false
+    hashtags: "#punakha, #trip, #indian, #traveller"
+  - username: "brydenhattie"
+    fullname: >-
+      Bryden Hattie
+    bio: >-
+      🇨🇦 Canadian diver 🇨🇦 Victoria, BC 🧀 Y LA QUESO 🧀 📧 Brydenrhattie@gmail.com
+    location: "Canada"
+    followers: 42338
+    engagement: 1462
+    commentsToLikes: 0.024955
+    id: ck9hcy43cng0e0j78b9l5p5un
+    verified: false
+    hashtags: "#ylaqueso, #santiago2023, #diving, #tennessee"
+  - username: "houstonsgotspice"
+    fullname: >-
+      Christina Autry
+    bio: >-
+      🌍 Showcasing Houston’s best international food + unique finds in the nation’s most diverse city! 🫶 Owner: @bayoubuzz Social Media
+    location: "United States"
+    followers: 310891
+    engagement: 521
+    commentsToLikes: 0.109472
+    id: ck139priimj350i19s6ru7m6k
+    verified: false
+    hashtags: "#houstonfood, #htxfoodie, #halalfood, #eeeeeats"
+  - username: "matthew_dixon19"
+    fullname: >-
+      Matthew Dixon
+    bio: >-
+      🔹22 🔹GB Diver 🔹x2 Commonwealth Medalist 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🔹x3 European Medalist 🇪🇺 🔹x3 British Champion 🇬🇧
+    location: "United Kingdom"
+    followers: 37025
+    engagement: 931
+    commentsToLikes: 0.010648
+    id: ck6u0es3ff9oz0j71tzcy61gg
     verified: true
-    hashtags: "#exploremore, #outdoorwomen, #inlovewithswitzerland, #pilotlife"
-  - username: "yixuenn_travellife"
+    hashtags: "#pushit, #tbt"
+  - username: "siebenkilopaket"
     fullname: >-
-      Y I X U E N
+      Dani 🌈 Regenbogenfamilie
     bio: >-
-      Travel & Lifestyle 🤿 SCUBA DIVER | FREEDIVER | MERMAID🧜🏻‍♀️ 🌍 @yixuenn_freedive 📕小红书: yixuenn_travellife DM for sponsorship/events/collab
-    location: "Malaysia"
-    followers: 34052
-    engagement: 70
-    commentsToLikes: 0.029388
-    id: ck9haaripbtpg0j78xe6xqf99
+      🌈 Zwei Mamas für zwei Jungs 💫 Diversität & Inklusion 💁🏻‍♀️ #LGBTQ Lifestyle 📍 HH 💌 info@siebenkilopaket.de 🍭 Mach dein #Familienleben bunter
+    location: "Germany"
+    followers: 12601
+    engagement: 474
+    commentsToLikes: 0.051368
+    id: ckox6ux44tl7w0j230s1y4qkm
     verified: false
-    hashtags: "#travelphotography, #scubadiver, #bikini, #christmas"
-  - username: "lodiceisa"
-    fullname: >-
-      Isabel Delima
-    bio: >-
-      •LifeStyle & Amor propio• •Familia numerosa en construcción• •Cocinillas por diversión• 📍ALC, Spain•
-    location: "Spain"
-    followers: 202505
-    engagement: 121
-    commentsToLikes: 0.243649
-    id: ck9hcak7mkiom0j78h7686fa0
-    verified: false
-    hashtags: "#mamamolona, #alicantegram, #embarazosaludable, #embarazogemelar"
-  - username: "sebastianismos"
-    fullname: >-
-      tropikal punk
-    bio: >-
-      🌴💀 Quase ganhamos um Grammy 💀🌴 👨‍👩‍👧‍👦 : @franciscoelhombreoficial diversão e foda-se 👇🏼 VIDEOCLIPS 👇🏼
-    location: "Brazil"
-    followers: 33500
-    engagement: 773
-    commentsToLikes: 0.059749
-    id: ck6tjoih4349l0j71bof85lkg
-    verified: false
-    hashtags: "#baroesdapunkadinha, #tropikalpunk, #sebastianismos, #jaloo"
-  - username: "officersofcolor"
-    fullname: >-
-      Officers Of Color
-    bio: >-
-      ⚫️🔵⚫️ Celebrating the diversity in Law Enforcement. Showing the world a different perspective. Erasing the stereotype one day at a time. 🇺🇸
-    location: "United States"
-    followers: 33142
-    engagement: 689
-    commentsToLikes: 0.031483
-    id: ck13bso3wwzeg0i19pljegpug
-    verified: false
-    hashtags: "#bluelinefamily, #blackandblue, #the, #thinblueline"
-  - username: "downsyndrome_queen"
-    fullname: >-
-      Enya
-    bio: >-
-      👸🏼 A girl with Downsyndrome - diversity & inclusion 🦋 🌸 Sharing my life - with help from my sister 👭🏼 🇳🇱 Netherlands #DSQUEEN
-    location: "France"
-    followers: 36485
-    engagement: 939
-    commentsToLikes: 0.040072
-    id: ck8ta9xrmqy2s0j78i2xwrx07
-    verified: false
-    hashtags: "#myjewellery, #myjewellerygirl"
-  - username: "sonalicheruku"
-    fullname: >-
-      Sonali ♡
-    bio: >-
-      @DiversifiTalent | @FlaveHouse Talent Management and Influencer Marketing
-    location: "United States"
-    followers: 18593
-    engagement: 699
-    commentsToLikes: 0.121613
-    id: ck5zr272nvr8d0i140r7bz2zp
-    verified: false
-    hashtags: "#happydiwali, #diwali, #inmyjs"
-  - username: "alexxandranicole"
-    fullname: >-
-      ALEX 🤍
-    bio: >-
-      ✩ bay area ✩ @gammaphibetacsuf ✩ ✩ panhellenic vp of diversity and inclusion ✩
-    location: "United States"
-    followers: 2311
-    engagement: 2315
-    commentsToLikes: 0.084415
-    id: ckf5m59m2sb6e0j23l8ghpqfe
-    verified: false
-    hashtags: "#divafam, #bidday"
-  - username: "satyawinnie"
-    fullname: >-
-      Satya Winnie
-    bio: >-
-      An adventurous Paraglider, Hiker, Diver + Travel Blogger from Indonesia 🇲🇨🌏🌊🌋 📍Bali, Indonesia 🎥: youtube.com/satyawinnie 📬: satyawinnie@gmail.com
-    location: "Indonesia"
-    followers: 35028
-    engagement: 429
-    commentsToLikes: 0.098660
-    id: ck138jc7ggi650i19vaskllcv
-    verified: false
-    hashtags: "#pesonaindonesia, #terbangaman, #wonderfulindonesia, #explorebali"
+    hashtags: "#lebenmitbehindertemkind, #familienalltag, #regenbogenfamilie, #pflegendeangeh"
 ---

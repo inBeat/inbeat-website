@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Canada In 2023
+title: Top 10 Vegan TikTok Influencers In Canada In 2024
 description: >-
-  Find top vegan TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryoupage #vegan #foryou.
+  Find top vegan TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #foryoupage #vegan #foryou.
 platform: TikTok
-hits: 115
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 115 TikTok influencers like this in Canada for you to pitch.
+hits: 116
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 116 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "tania_heath"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.023828
     id: ckbl76zw44zl80j23em4x9ron
     verified: false
-    hashtags: "#smoothie, #fitness, #beach, #man"
+    hashtags: "#workout, #smoothie, #beach, #man"
   - username: "jasonfonger"
     fullname: >-
       Jason Fonger
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.016851
     id: ckdi7lrxy9l840j23yas7vbmy
     verified: false
-    hashtags: "#easyvegan, #vegansnack, #veganmeat, #vegandietitian"
+    hashtags: "#vegansnack, #easyvegan, #vegandietitian, #veganmeat"
   - username: "thiccvegan"
     fullname: >-
       Adam
@@ -121,10 +121,10 @@ profiles:
     bio: >-
       YouTube 🎥 By Andreja Vegan Baking | My Dog Charlie | New Mama IG | by.andreja
     location: "Canada"
-    followers: 8302
-    engagement: 726
-    commentsToLikes: 0.026803
+    followers: 8255
+    engagement: 857
+    commentsToLikes: 0.027831
     id: ckauwtt9m25nj0j23p4nvnc6q
     verified: false
-    hashtags: "#babyontheway, #thirdtrimesterbelike, #babygirl, #fyp"
+    hashtags: "#thirdtrimesterbelike, #babybump, #pregnant, #pregnancy"
 ---

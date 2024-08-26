@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Medellín In 2023
+title: Top 10 Photographers Instagram Influencers In Medellín In 2024
 description: >-
-  Find top photographers Instagram influencers in Medellín in 2023. Most popular hashtags: #medellin #colombia #photography #photooftheday.
+  Find top photographers Instagram influencers in Medellín in 2024. Most popular hashtags: #medellin #photography #colombia #photooftheday.
 platform: Instagram
-hits: 18
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database holds 18 Instagram influencers like this in Medellín, Colombia for you to work with.
+hits: 16
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 16 Instagram influencers like this in Medellín, Colombia for you to connect with.
 profiles:
   - username: "ramvidzapata"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ckaorwjayp2kr0i78tplr6ln0
     verified: false
     hashtags: "#afrohouse, #afrobea, #frestyle, #afrodance"
-  - username: "vane_eslava"
-    fullname: >-
-      Vane Eslava
-    bio: >-
-      #model from🇨🇴 #artista •Amor,tolerancia y respeto por los animales🐾 🍭🎈 Publicidad,contratación al DM📩
-    location: "Colombia"
-    followers: 43834
-    engagement: 236
-    commentsToLikes: 0.026712
-    id: ckf5su7thg7ru0j23e5gwo5dq
-    verified: false
-    hashtags: "#model, #portrait, #love, #instagram"
   - username: "juanjozapata18"
     fullname: >-
       ⚡️J U A N J O   Z A P A T A ⚡️
@@ -127,4 +115,16 @@ profiles:
     id: ck5q3ihpokw7e0i11gl42nznm
     verified: false
     hashtags: "#instagood, #instafashion, #photography, #mexico"
+  - username: "la.negra.93"
+    fullname: >-
+      Angela Cano
+    bio: >-
+      Actriz 🌙 Manager @mclmanager
+    location: "Colombia"
+    followers: 20400
+    engagement: 511
+    commentsToLikes: 0.017386
+    id: ck0w39koes9p70i197ny61rkv
+    verified: false
+    hashtags: "#medellin, #mariaclaralopez, #photography, #actuar"
 ---

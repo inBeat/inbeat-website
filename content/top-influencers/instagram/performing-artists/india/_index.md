@@ -1,24 +1,24 @@
 ---
-title: Top 10 Performing Artists Instagram Influencers In India In 2023
+title: Top 10 Performing Artists Instagram Influencers In India In 2024
 description: >-
-  Find top performing artists Instagram influencers in India in 2023. Most popular hashtags: #dance #love #instagood #instadaily.
+  Find top performing artists Instagram influencers in India in 2024. Most popular hashtags: #instagram #instadaily #dance #artist.
 platform: Instagram
-hits: 11
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 11 Instagram influencers like this in India for you to collaborate.
+hits: 17
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 17 Instagram influencers like this in India for you to contact.
 profiles:
-  - username: "jank_ee"
+  - username: "iamraginiprajwal"
     fullname: >-
-      Jankee Parekh Mehta
+      Ragini Prajwal
     bio: >-
-      Mumma to @babysufim | Vocalist & Performing Artist @ ‘Jankee & friends ‘ | For Collaborations & enquires 📧rhea26gupta@gmail.com or DM - @rheagupta26
+      Fitness enthusiast/performing artist/classical dancer/Pilates enthusiast
     location: "India"
-    followers: 343065
-    engagement: 1296
-    commentsToLikes: 0.010128
-    id: ck0ttri2i407n0i19lv77s7z4
-    verified: true
-    hashtags: "#firsttimemom, #parenthood, #singingmama, #motherhood"
+    followers: 644186
+    engagement: 389
+    commentsToLikes: 0.001446
+    id: ck6tzks3naa7v0j71tmpm2o84
+    verified: false
+    hashtags: "#justpragthings, #prajwaldevaraj, #ganathefilm, #ayatana"
   - username: "v.k.d.k.v"
     fullname: >-
       VKDKV  വികടകവി
@@ -31,6 +31,18 @@ profiles:
     id: ck9wgh2u9tdua0j78zhijvqsx
     verified: false
     hashtags: "#vkda, #noir, #hiphop, #southindiahiphop"
+  - username: "officialniniola"
+    fullname: >-
+      Niniola (Queen Of Afro-House)
+    bio: >-
+      2x Grammy Nominated Recording/Performing Artiste. Founder @adoptachildseducation | +2348167632942 | bookniniola@gmail.com| Watch "KOMIYO" here
+    location: "India"
+    followers: 1280507
+    engagement: 55
+    commentsToLikes: 0.034855
+    id: ck5c9py3ebvw80i11lpzf4h65
+    verified: true
+    hashtags: "#qots, #qoah, #bhoomi23, #niniola"
   - username: "baddraa"
     fullname: >-
       Baddraa
@@ -47,14 +59,38 @@ profiles:
     fullname: >-
       Sumi Borah
     bio: >-
-      Master in performing arts D.U.🎓 Dancer💃Anchor🎤Makeover artist💄 Dibrugarh Assam Taken by Tarkik Borah💏 DM for paid promotion @makeupbysumiborah
+      Master in performing arts D.U Artist, Dibrugarh collabwithsumi@gmail.com Managed by @madify.official @aagoron
     location: "India"
-    followers: 238419
-    engagement: 480
-    commentsToLikes: 0.003720
+    followers: 684363
+    engagement: 256
+    commentsToLikes: 0.004999
     id: ck0w1dj0citlj0i194e3ylhi7
     verified: false
-    hashtags: "#teamwork, #energy, #selfmakeup, #indianwedding"
+    hashtags: "#insta, #explore, #instalike, #reels"
+  - username: "meohmygirl"
+    fullname: >-
+      Charli Burrowes
+    bio: >-
+      Writer | Artist | Director 🎟 Writing + performing @bloomgirltour
+    location: "India"
+    followers: 35402
+    engagement: 138
+    commentsToLikes: 0.041639
+    id: ck0tx9eqwicnr0i19lpcviirc
+    verified: false
+    hashtags: "#bloomgirl, #film, #art, #socialmedia"
+  - username: "mengu_suokhrie"
+    fullname: >-
+      Mengu Suokhrie
+    bio: >-
+      🏡Kohima, Nagaland, India 🎤Performing since 2005 ⬇️Click the link to view Bhal khobor 👇👇👇👇
+    location: "India"
+    followers: 63354
+    engagement: 579
+    commentsToLikes: 0.015504
+    id: ck15rrkw79ccp0i194iaj7cb1
+    verified: false
+    hashtags: "#mumbai, #indian, #maharashtra, #westbengal"
   - username: "thewardrobeengineer"
     fullname: >-
       Chinmay Khedekar || TWE 🇮🇳
@@ -91,40 +127,4 @@ profiles:
     id: ck9wj3u9x57ei0j78jjlrd42m
     verified: false
     hashtags: "#artist, #cirque, #instagram, #art"
-  - username: "deejaydonnaa"
-    fullname: >-
-      Deejay Donnaa
-    bio: >-
-      DJ | Performing Live Worldwide since 2004 | Dancer | Painter | Singer | Songwriter.
-    location: "India"
-    followers: 42107
-    engagement: 127
-    commentsToLikes: 0.019809
-    id: ck5cl6uw6yc4n0i11n1tiwddx
-    verified: false
-    hashtags: "#innews, #dancingdoyens, #mumbai, #marchedition"
-  - username: "ramavaidyanathan"
-    fullname: >-
-      Rama Vaidyanathan
-    bio: >-
-      In love with Bharatanatyam, performing, teaching, globe trotting!
-    location: "India"
-    followers: 31126
-    engagement: 382
-    commentsToLikes: 0.009025
-    id: ck5zshav9yhum0i14pnyj6t46
-    verified: false
-    hashtags: "#indianclassicaldance, #mothersday, #ramavaidyanathan, #dance"
-  - username: "lockyerboys"
-    fullname: >-
-      Lockyer Boys
-    bio: >-
-      ⬇️⬇️⬇️Making Noise with Lockyer Boys
-    location: "India"
-    followers: 2944
-    engagement: 804
-    commentsToLikes: 0.235689
-    id: ckap9qqipt9q40i78mka6rkhu
-    verified: false
-    hashtags: "#makingnoisewithlockyerboys, #livemusic, #canadianmusic, #viral"
 ---

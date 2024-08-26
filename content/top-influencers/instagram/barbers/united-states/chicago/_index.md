@@ -1,24 +1,12 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Chicago In 2023
+title: Top 10 Barbers Instagram Influencers In Chicago In 2024
 description: >-
-  Find top barbers Instagram influencers in Chicago in 2023. Most popular hashtags: #barber #chicagobarber #barbershopconnect #atlantabarber.
+  Find top barbers Instagram influencers in Chicago in 2024. Most popular hashtags: #barber #chicagobarber #barbershopconnect #sharpfade.
 platform: Instagram
-hits: 44
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database has 44 Instagram influencers like this in Chicago, United States for you to work with.
+hits: 49
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 49 Instagram influencers like this in Chicago, United States for you to pitch.
 profiles:
-  - username: "jesse.elite87"
-    fullname: >-
-      Chicago Barber/influencer 🇲🇽
-    bio: >-
-      Chicago|LA|Miami/ Jalisco 🎦 YouTube 🔹Jesse elite 🖥 Shop Online. @jesseelite Personal account @officialjesseelite
-    location: "United States"
-    followers: 289737
-    engagement: 193
-    commentsToLikes: 0.011277
-    id: ck13873xket3u0i19zgadt5mw
-    verified: false
-    hashtags: "#chicagobarber, #barberlife, #jesseelitehairdye, #jesseelite"
   - username: "ivancutzsharp"
     fullname: >-
       Founder XIPHOSRAZORBRAND 🌐🔱
@@ -30,7 +18,7 @@ profiles:
     commentsToLikes: 0.014365
     id: ck5hoo1fmpwqg0i11vfd3ggvn
     verified: false
-    hashtags: "#andismaster, #sacramento, #barber, #chicagobarber"
+    hashtags: "#whocuts, #atlantabarber, #babylisspro, #calibarber"
   - username: "maynev9"
     fullname: >-
       Mayra
@@ -67,6 +55,18 @@ profiles:
     id: ck13a5uw2org30i19h7e704ra
     verified: false
     hashtags: "#flattop, #beforeandafter, #chicago, #chicagobarber"
+  - username: "byrdmena"
+    fullname: >-
+      SharpFade
+    bio: >-
+      🔌Founder @Trim | @Corte | @riseofhair | @cutz | @zyist 🧠Global Creative Consultant @wahlpro | ⚡️Partner @booksybiz 🔮Founder @sharpfadepartners
+    location: "United States"
+    followers: 98051
+    engagement: 99
+    commentsToLikes: 0.037086
+    id: ck0w55fgj1zih0i19h3iwjsra
+    verified: false
+    hashtags: "#barbering, #hair, #wahl, #wahlclippers"
   - username: "kd1904"
     fullname: >-
       Kurt
@@ -79,6 +79,30 @@ profiles:
     id: ck5q930mn959c0i11mmix62ni
     verified: false
     hashtags: "#sandiegotattoo, #kurttattoosandiego, #kurtdeetjen, #kurttattoo"
+  - username: "shortyblends"
+    fullname: >-
+      Chicago Barber•Emilio
+    bio: >-
+      164 Division St 101 Elgin Illinois 60120
+    location: "United States"
+    followers: 224528
+    engagement: 2103
+    commentsToLikes: 0.011318
+    id: ck9wf4cuen5ai0j78rby6a6wv
+    verified: false
+    hashtags: ""
+  - username: "jldabarber"
+    fullname: >-
+      CHICAGO BARBER
+    bio: >-
+      @empirebarberlounge⚫️ 💈23🦅𝐇𝐨𝐮𝐬𝐞𝐜𝐚𝐥𝐥𝐬 start at $200 and $500+ after midnight Click the book button to book your next appointment📲 Tik Tok: JLDABARBER
+    location: "United States"
+    followers: 97995
+    engagement: 177
+    commentsToLikes: 0.021501
+    id: ck5zt8u4qzyg50i14wtz93oh2
+    verified: false
+    hashtags: "#yosoyfinoestoescutdegalleria, #jlchallenge"
   - username: "papibeam"
     fullname: >-
       CHICAGO BARBER💈(BEAM)
@@ -91,40 +115,16 @@ profiles:
     id: ck8sxdi5hgzya0j78sty5asts
     verified: false
     hashtags: "#glaciergang, #youtubeacademy, #chicagobarber, #puertoricoluv"
-  - username: "jldabarber"
+  - username: "jesse.elite87"
     fullname: >-
-      CHICAGO BARBER
+      Chicago Barber/influencer 🇲🇽
     bio: >-
-      Jose C •21🦈 𝐇𝐨𝐮𝐬𝐞𝐜𝐚𝐥𝐥𝐬 🏡$150 and up📈 Professional Barber💈 DM for appointments📲📲
+      Chicago|LA|Miami|Jalisco 🎦 YouTube🔹Jesse elite 🖥 Shop Online. @jesseelite Personal account @officialjesseelite House calls $500
     location: "United States"
-    followers: 37457
-    engagement: 126
-    commentsToLikes: 0.011798
-    id: ck5zt8u4qzyg50i14wtz93oh2
+    followers: 332141
+    engagement: 158
+    commentsToLikes: 0.014195
+    id: ck13873xket3u0i19zgadt5mw
     verified: false
-    hashtags: ""
-  - username: "shortyblends"
-    fullname: >-
-      Chicago Barber•Emilio
-    bio: >-
-      -Elgin Illinois
-    location: "United States"
-    followers: 45241
-    engagement: 371
-    commentsToLikes: 0.008712
-    id: ck9wf4cuen5ai0j78rby6a6wv
-    verified: false
-    hashtags: ""
-  - username: "alisac_thebarber"
-    fullname: >-
-      Chicago Barber
-    bio: >-
-      ▪️ Illinois ▫️ @barbersempireco 🌐
-    location: "United States"
-    followers: 14363
-    engagement: 1075
-    commentsToLikes: 0.020063
-    id: ck8wcxh1ad4kt0j78hk7mmp3v
-    verified: false
-    hashtags: ""
+    hashtags: "#elitebarberslounge, #nationalfadeleague, #mua, #makeup"
 ---

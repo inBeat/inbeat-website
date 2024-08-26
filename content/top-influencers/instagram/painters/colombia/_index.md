@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters Instagram Influencers In Colombia In 2023
+title: Top 10 Painters Instagram Influencers In Colombia In 2024
 description: >-
-  Find top painters Instagram influencers in Colombia in 2023. Most popular hashtags: #pazinterior #amorpropio #felicidad #despertarespiritual.
+  Find top painters Instagram influencers in Colombia in 2024. Most popular hashtags: #amorpropio #pazinterior #felicidad #despertarespiritual.
 platform: Instagram
-hits: 33
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 33 Instagram influencers like this in Colombia for you to contact.
+hits: 36
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database holds 36 Instagram influencers like this in Colombia for you to work with.
 profiles:
   - username: "artedanielcaro"
     fullname: >-
@@ -43,6 +43,42 @@ profiles:
     id: ck5q2xluni9vf0i11zilj10ls
     verified: false
     hashtags: "#colombia, #dogreels, #adopted, #rescuedogsofinstagram"
+  - username: "valeriarojash"
+    fullname: >-
+      Valebonis
+    bio: >-
+      1.4 M tiktok Mazatlán Sin🏝️ tu piscis favorita 💌holavalebonis@movdi.mx
+    location: "Colombia"
+    followers: 326307
+    engagement: 781
+    commentsToLikes: 0.003507
+    id: cl4co0gsjobnf0i23l4ouhfca
+    verified: false
+    hashtags: "#inspiracion, #poses, #valebonis, #casualstyle"
+  - username: "denisse_novoa"
+    fullname: >-
+      Denisse “La Pantera” Novoa
+    bio: >-
+      Mgmt: @alepalomera1 @palomeragroup Exatlón Estados Unidos 3 & 5 MX | MIA
+    location: "Colombia"
+    followers: 265597
+    engagement: 310
+    commentsToLikes: 0.027261
+    id: ck5btfgb2fv9m0i11l82efvb9
+    verified: false
+    hashtags: "#travel, #explore, #teamcontentiendes, #telemundo"
+  - username: "tribu.femenina"
+    fullname: >-
+      TRIBU FEMENINA / TRIBU POR EL MUNDO
+    bio: >-
+      Por @monirodriguezrestrepo ⛰️🗺️ Tribu por el mundo Peru 🔥 Retiros ⭕️ círculos de mujeres. 🐆Mentoring.
+    location: "Colombia"
+    followers: 209852
+    engagement: 70
+    commentsToLikes: 0.025809
+    id: ck8t9jqcxocoy0j780oiortd3
+    verified: false
+    hashtags: "#crecimentopersonal, #espiritualidad, #emprendedora, #amorpropio"
   - username: "andrecasallas18"
     fullname: >-
       Andrea 🎈
@@ -55,18 +91,6 @@ profiles:
     id: ck9hcvucvn6kp0j78zhwmzhnn
     verified: false
     hashtags: "#girl, #tumblr, #aesthetic, #pinterest"
-  - username: "isabelvesga"
-    fullname: >-
-      Isa • Designer | Styling
-    bio: >-
-      Colombian babe 🌈 Lifestyle | Travel | Outfits ⚡️ Founder @itsmariavesga @elementumdesign Links 👇🏽✨
-    location: "Colombia"
-    followers: 9917
-    engagement: 453
-    commentsToLikes: 0.042405
-    id: ck8tcsh2n0i9l0j78rd38d8tm
-    verified: false
-    hashtags: "#blondebalayage, #sheingals, #travel, #makeuplooks"
   - username: "risletto"
     fullname: >-
       🐉 - 半神
@@ -91,18 +115,6 @@ profiles:
     id: ck6udri35mqc20j710kcwubmo
     verified: false
     hashtags: "#selfcare, #lifepath, #sinmapa, #lifestyle"
-  - username: "tribu.femenina"
-    fullname: >-
-      TRIBU FEMENINA
-    bio: >-
-      Por @monirodriguezrestrepo Inscríbete gratis al reto mariposa 🦋 👇🏻
-    location: "Colombia"
-    followers: 136473
-    engagement: 136
-    commentsToLikes: 0.027039
-    id: ck8t9jqcxocoy0j780oiortd3
-    verified: false
-    hashtags: "#pazinterior, #sermujer, #crecimientopersonal, #tribufemenina"
   - username: "similarmente"
     fullname: >-
       Afirmaciones del Universo
@@ -115,16 +127,4 @@ profiles:
     id: ck0ue3a05khet0i19ok3i11k1
     verified: false
     hashtags: ""
-  - username: "marvelinfinito"
-    fullname: >-
-      MARVEL INFINITO
-    bio: >-
-      🔥 Noticias, rumores y todo sobre Marvel 👾 @tellover 🎬 Marvel Studios y Marvel TV 📚 Comics . 📩: infomarvelinfinito@gmail.com
-    location: "Colombia"
-    followers: 11105
-    engagement: 340
-    commentsToLikes: 0.010568
-    id: ckf5tt5hoip2h0j231248ha7q
-    verified: false
-    hashtags: "#viudanegra, #deadpool2, #daredevil, #marvelstud10s"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In United Kingdom In 2023
+title: Top 10 Dancers TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top dancers TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #duet #dancer.
+  Find top dancers TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #duet #foryou.
 platform: TikTok
 hits: 221
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our database holds 221 TikTok influencers like this in United Kingdom for you to connect with.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 221 TikTok influencers like this in United Kingdom for you to connect with.
 profiles:
   - username: "sahfy_"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.025579
     id: ck8se1k9hhvj50j78uko4l8nr
     verified: false
-    hashtags: "#permissiontodance, #fever, #fyp, #pinoytiktok"
+    hashtags: "#permissiontodance, #fever, #freestyle, #fyp"
   - username: "therealhanzz"
     fullname: >-
       Hanz
@@ -67,6 +67,18 @@ profiles:
     id: ck9fi3zgb8ydf0j78l1bn07gd
     verified: false
     hashtags: "#labour, #keirstarmer, #foryoupage, #fyp"
+  - username: "harianalive"
+    fullname: >-
+      Tik Toker
+    bio: >-
+      Hannah 🖤🎙 Singer. Dancer. Travel. Ari tribute act. 🦋
+    location: "United Kingdom"
+    followers: 52600
+    engagement: 1330
+    commentsToLikes: 0.056139
+    id: ckafttagm6ygt0i78shes1y0m
+    verified: false
+    hashtags: "#fullonyoutube, #arianators, #arianatributeshow, #hariana"
   - username: "spartaneck"
     fullname: >-
       Spartan Eck
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.081920
     id: ck8aec45pbqaj0j78vwxrp978
     verified: false
-    hashtags: "#duet, #pfd, #stitch"
+    hashtags: "#stitch, #duet, #pfd"
   - username: "georgiae2342"
     fullname: >-
       Georgia Evans
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.024558
     id: ck9epn8jrtc7m0j78dbb4t1y2
     verified: false
-    hashtags: "#duet, #raybanelevatordance, #berightbackworld, #britsmover"
+    hashtags: "#fyp, #duet, #britsmover, #voiceeffects"
   - username: "jojodance3011"
     fullname: >-
       Joleigh❤Dance
@@ -115,16 +127,4 @@ profiles:
     id: ckai6c4grviwb0i78gk9xl28z
     verified: false
     hashtags: "#donthatemecuzyouaintme, #notreallypsycho, #collab, #rodialbeauty"
-  - username: "sarahjaneunderwood"
-    fullname: >-
-      Sarah Underwood
-    bio: >-
-      Over 30, Dr of Chiropractic, dancer ✨ Be Kind ✨
-    location: "United Kingdom"
-    followers: 255100
-    engagement: 966
-    commentsToLikes: 0.119810
-    id: ckc3e1kjdzcw70j23hskaeaf6
-    verified: false
-    hashtags: "#lipsync, #parentsoftiktok, #husbandandwife, #dadsoftiktok"
 ---

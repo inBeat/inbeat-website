@@ -1,84 +1,120 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Portugal In 2023
+title: Top 10 Vegan Instagram Influencers In Portugal In 2024
 description: >-
-  Find top vegan Instagram influencers in Portugal in 2023. Most popular hashtags: #ootd #instagood #outfitinspo #pub.
+  Find top vegan Instagram influencers in Portugal in 2024. Most popular hashtags: #vegan #portugal #pub #algarve.
 platform: Instagram
-hits: 21
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 21 Instagram influencers like this in Portugal for you to pitch.
+hits: 17
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 17 Instagram influencers like this in Portugal for you to connect with.
 profiles:
-  - username: "susannameeow"
+  - username: "selinasinspiration"
     fullname: >-
-      susanna
+      Selina de Graaf
     bio: >-
-      vegan✖️edge|👩🏻‍🤝‍👨🏼💕| thaiboxing 🥊|gym | |cats and plants 🐱🌱| |anti animal cruelty🐥|ocean addicted🌊| work: @_susannapaul
+      Ⓥ vegan for the animals ❀ a slower way of life ➳ ethical fashion ➵ animal rights ➳ eco travel #veganfashion #sustainablefashion #slowliving
     location: "Portugal"
-    followers: 135585
-    engagement: 524
-    commentsToLikes: 0.003987
-    id: ck5q7vthl3a7n0i112ywil7um
+    followers: 40100
+    engagement: 342
+    commentsToLikes: 0.037919
+    id: ck5c242wrwi440i11ghathcmi
     verified: false
-    hashtags: "#me, #tattoo, #happyme, #vacation"
-  - username: "sunchasingtravelers"
+    hashtags: "#dreamylittleplaces, #visitportugal, #animalliberation, #veganfortheanimals"
+  - username: "inesgetshealthy"
     fullname: >-
-      Lea & Stefan | Eco | Travel
+      Inês
     bio: >-
-      📍Mexico 🌿 Nature Lovers | Mindful & Sustainable Living ✨ Eco Travel | Vegan | Sustainability Blog Check out our NEW WEBSITE here:
+      📖EBOOK de receitas:inesgetshealty@gmail.com Influencer? Just a girl sharing her story. 💖
     location: "Portugal"
-    followers: 42969
-    engagement: 422
-    commentsToLikes: 0.199590
-    id: ck0ue9bsqktr30i19nvwyqvo4
+    followers: 22455
+    engagement: 258
+    commentsToLikes: 0.071640
+    id: ck5zvzs9057hf0i14zsuakjrg
     verified: false
-    hashtags: "#tulummexico, #tulumvibes, #creativetravelcouples, #costaricalife"
-  - username: "madebychoices"
+    hashtags: "#healthyrecipes, #chocolate, #foodphotography, #vegan"
+  - username: "mr.andre.fernandes"
     fullname: >-
-      Receitas vegetarianas I Vânia
+      André 🎨
     bio: >-
-      🌱Ajudo-te a DESCOMPLICAR a gestão das refeições ✌️RECEITAS saudáveis (& vegan) para todos 📩Parcerias: hello@socias.pt Começa AQUI👇🏻
+      💋 Makeup Artist (DM for info) 📮 Digital & Brands: @wowmeagency 📧 afgfernandes@gmail.com 🏷 Código Lookfantastic: MRANDRE 📺 ÚLTIMO VÍDEO ⤵️
     location: "Portugal"
-    followers: 90465
-    engagement: 252
-    commentsToLikes: 0.020757
-    id: ck0w42369wf800i19ij5ra2ij
+    followers: 20663
+    engagement: 480
+    commentsToLikes: 0.261988
+    id: ck8tduw344uvg0j78zgfznyqt
     verified: false
-    hashtags: "#madebychoices, #receitasreels, #receitasveganas, #receitasvegetarianas"
-  - username: "jonvenus"
+    hashtags: "#skincare, #pub, #makeup, #maquiagem"
+  - username: "zeblackturboofficial"
     fullname: >-
-      Jon Venus
+      Zé Preto
     bio: >-
-      My mission is to help us THRIVE🌱✨ 🔸Health🔸Growth🔸Compassion🙏🏼 👇🏼Coaching, Vegan Plans & eBooks
+      ➡️🦁inhuman calisthenics 🦁 ➡️☀️52 years old 💪🏿 ➡️💪pro calisthenics 💪 ➡️gravity fitness code: ze10
     location: "Portugal"
-    followers: 171284
-    engagement: 90
-    commentsToLikes: 0.021034
-    id: ck0u8sdvb86vc0i19svaj0t0s
-    verified: true
-    hashtags: "#fitnesstips, #plantbased, #healthtips, #veganfitness"
-  - username: "rafaelaalexandra0"
-    fullname: >-
-      Rafaela Duarte | Healthy 💫
-    bio: >-
-      🌱 wellness | food | lifestyle 📖 Marketing e Publicidade 📍 Lisboa, Portugal 😋 PROZIS: RAFAELADUARTE 💻 @ellephant.pt 💫YouTube
-    location: "Portugal"
-    followers: 55768
-    engagement: 522
-    commentsToLikes: 0.029931
-    id: ckapbzw1a1xic0i78r1nx98i6
+    followers: 290760
+    engagement: 884
+    commentsToLikes: 0.041959
+    id: ck6tulw93h34k0j71i5ndwdae
     verified: false
-    hashtags: "#healthychoices, #veganfood, #eathealthy, #healthylifestyle"
+    hashtags: "#finessmotivation, #barflex, #calisthenicstraining, #viralposts"
+  - username: "marciasofiams"
+    fullname: >-
+      Márcia Soares
+    bio: >-
+      Freelance Photographer that posts random stuff in this account Photography one: @marciasview DM or: marcsofia@gmail.com
+    location: "Portugal"
+    followers: 16674
+    engagement: 303
+    commentsToLikes: 0.027389
+    id: ck5cde02tj07p0i111tthldnr
+    verified: false
+    hashtags: "#sunset, #1minvlog, #weekrecap, #beach"
+  - username: "rosaliasoaresdacosta"
+    fullname: >-
+      Rosália da Costa Alves
+    bio: >-
+      Finding joy, balance & wellness ✨ Founder @zesty.pt
+    location: "Portugal"
+    followers: 36236
+    engagement: 268
+    commentsToLikes: 0.019066
+    id: clogkxx0hrqhq0j082bzgakwu
+    verified: false
+    hashtags: "#mevsdarkspots, #forher, #healthylifestyles, #pub"
   - username: "anavarelaoficial"
     fullname: >-
       Ana Varela
     bio: >-
       🌿Mother. Actress. Sustainability Advocate. 🎬Acting&Management: rscarrelo@gmail.com 💡PR,Digital & Brands: squad@connosco.pt
     location: "Portugal"
-    followers: 103860
-    engagement: 290
-    commentsToLikes: 0.027824
+    followers: 117516
+    engagement: 261
+    commentsToLikes: 0.032494
     id: ck5q4f1gvou6w0i11c0b7cft3
     verified: true
-    hashtags: "#bmwportugal, #queridospap, #greenlittlestep, #shampoosolidoultrasuave"
+    hashtags: "#pub, #casanocampo, #bmwportugal, #casanocampobyanavarela"
+  - username: "_oliviaortiz"
+    fullname: >-
+      Oʟɪ́ᴠɪᴀ Oʀᴛɪᴢ
+    bio: >-
+      #𝗟𝗶𝗳𝗲𝘀𝘁𝘆𝗹𝗲 | #𝗧𝗿𝗮𝘃𝗲𝗹 | #Fashion Portuguese presenter, actress and content creator I love photography
+    location: "Portugal"
+    followers: 340164
+    engagement: 114
+    commentsToLikes: 0.014035
+    id: ck0vv1qlvn52n0i190h1u7dxp
+    verified: true
+    hashtags: "#cascaderesort, #algarve, #lagos, #pestanahotels"
+  - username: "pinkieloveforever"
+    fullname: >-
+      Inês Silva | Lifestyle & Travel
+    bio: >-
+      📍Porto, Portugal 📎 Master Designer & Pro Makeup Artist 📸 Lifestyle • Travel • Beauty • Food • Fashion Encontra-me Aqui👇🏻
+    location: "Portugal"
+    followers: 19074
+    engagement: 29
+    commentsToLikes: 0.000000
+    id: ck0w4205xweo30i19lqchjlwe
+    verified: false
+    hashtags: "#tophamburgueria, #viajar, #adulting, #blogdebeleza"
   - username: "charliecfm"
     fullname: >-
       CHΛRLIΞ • Carlos Frota Melo
@@ -91,40 +127,4 @@ profiles:
     id: ckap4i5927hd50i782o8gpnof
     verified: false
     hashtags: "#emcasa, #iloveoeiras, #socialisolation, #giveaway"
-  - username: "ajoanamaiaa"
-    fullname: >-
-      TRAVEL✨| FASHION✨|LIFESTYLE ✨
-    bio: >-
-      Travel lover 🌿 Fashion Addict 🌺 #sheisnotlost ✨Joana - 18% @soulmia_store Collabs 📩 info@mrstravel.pt Porto, Portugal 📍
-    location: "Portugal"
-    followers: 9479
-    engagement: 659
-    commentsToLikes: 0.128359
-    id: ck14hflt0a2vq0i19iwbux8so
-    verified: false
-    hashtags: "#poolview, #outfitinspo, #traveltheworld, #visitportugal"
-  - username: "phoenix.vida"
-    fullname: >-
-      Art♥Beauty♥Lifestyle♥Fashion
-    bio: >-
-      Educator｜Artist｜#HKKOL Portuguese mixed🇵🇹 #influencer #Model 👉🏻𝘔𝘢𝘨𝘢𝘻𝘪𝘯𝘦, 𝘚𝘶𝘯𝘥𝘢𝘺𝘒𝘪𝘴𝘴, 𝘏𝘢𝘱𝘱𝘺𝘱𝘢𝘮𝘢 𝘦𝘵𝘤 📩Please DM for JoB／Collab
-    location: "Portugal"
-    followers: 20301
-    engagement: 422
-    commentsToLikes: 0.087758
-    id: ckf5vfj3loeqa0j23pi7yo2fw
-    verified: false
-    hashtags: "#vidadephoenix, #beautyshare, #hkfoodie, #naturalbeauty"
-  - username: "im.susanasilva"
-    fullname: >-
-      SUSANA SILVA ♡
-    bio: >-
-      Based in Porto, Portugal Embaixadora @fitnessup_portugal • Code UP-SUSANASILVA 5€ Desconto Hawk da @hawkerscrew • Code HC-SUSANASILVA 20% Desconto
-    location: "Portugal"
-    followers: 14331
-    engagement: 306
-    commentsToLikes: 0.080679
-    id: ckaovkl9a4ys60i787iawknf3
-    verified: false
-    hashtags: "#womanpower, #woman, #photoshoot, #womanfashion"
 ---

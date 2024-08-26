@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Australia In 2023
+title: Top 10 TikTok Influencers In Australia In 2024
 description: >-
-  Find top TikTok influencers in Australia in 2023. Most popular hashtags: #australia #fyp #foryou #duet.
+  Find top TikTok influencers in Australia in 2024. Most popular hashtags: #australia #fyp #duet #foryou.
 platform: TikTok
 hits: 4281
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our database has 4281 TikTok influencers like this in Australia for you to contact.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 4281 TikTok influencers like this in Australia for you to contact.
 profiles:
   - username: "jaspersflow"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.043357
     id: ck8ae4hb29r340j78fjkdh3uq
     verified: false
-    hashtags: "#tiktokaustralia, #blacklivesmatter, #acab1312, #australia"
+    hashtags: "#tiktoknewzealand, #blacklivesmatter, #aboriginal, #georgefloyd"
   - username: "arno.maly"
     fullname: >-
       Arno.Maly
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.062486
     id: ck8hqqfip5apt0j78eywjjou5
     verified: true
-    hashtags: "#tiktokaustralia, #nowunited, #australia, #aussie"
+    hashtags: "#australia, #savannahclarke, #brazil, #mexico"
   - username: "harleyagsd"
     fullname: >-
       Harley a gsd 
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.175877
     id: ck8tpd1hqpz7b0j78jmo3cha1
     verified: false
-    hashtags: "#foryou, #fyp, #gsd, #1video5photos"
+    hashtags: "#fyp, #gsd, #foryou, #arctic"
   - username: "benblue01"
     fullname: >-
       Ben Blue
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.022336
     id: ck8km8pp77gnd0j78spq3l3q4
     verified: false
-    hashtags: "#greenscreenvideo, #stitch, #alt, #justvibing"
+    hashtags: "#justvibing, #stitch, #alt, #greenscreenvideo"
   - username: "joelbergs"
     fullname: >-
       JoelBergs
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.007632
     id: ck83z3rdzxg5q0j78xonym8i0
     verified: true
-    hashtags: "#bangenergy, #australia, #ad, #twitch"
+    hashtags: "#bangenergy, #ad, #australia, #reaction"
   - username: "damielou"
     fullname: >-
       Damielou
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.096534
     id: ckbbeg55k37r40j2328xvhpb4
     verified: false
-    hashtags: "#duet, #wrongsonglyrics, #secondwave, #wherestherumgone"
+    hashtags: "#wrongsonglyrics, #parody, #wherestherumgone, #purplehair"
   - username: "_red_artist_"
     fullname: >-
       Red

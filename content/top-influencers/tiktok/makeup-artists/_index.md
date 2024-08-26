@@ -1,24 +1,12 @@
 ---
-title: Top 10 Makeup Artists TikTok Influencers In 2023
+title: Top 10 Makeup Artists TikTok Influencers In 2024
 description: >-
-  Find top makeup artists TikTok influencers in 2023. Most popular hashtags: #duet #makeup #fyp #greenscreen.
+  Find top makeup artists TikTok influencers in 2024. Most popular hashtags: #fyp #makeup #duet #greenscreen.
 platform: TikTok
 hits: 324
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 324 TikTok influencers like this for you to collaborate.
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 324 TikTok influencers like this for you to contact.
 profiles:
-  - username: "thedaltonlevi"
-    fullname: >-
-      DaltonLevi
-    bio: >-
-      ❤️ Kinda a Makeup Artist/Actor/Singer P.O. Box 1195 Jacksonville Alabama 36265❤️
-    location: "United States"
-    followers: 104200
-    engagement: 2556
-    commentsToLikes: 0.085335
-    id: ck8zb75vi4esq0j78mw3gu0et
-    verified: false
-    hashtags: "#teamlevi, #duet, #stitch, #greenscreen"
   - username: "parameswaransivakumar"
     fullname: >-
       பரமேஸ்வரன் சிவகுமார்
@@ -42,19 +30,7 @@ profiles:
     commentsToLikes: 0.115869
     id: ckavo28jhyo4z0j23p7jrv1g7
     verified: false
-    hashtags: "#funny, #mentalhealth, #nonbionary, #kidsoftiktok"
-  - username: "amyjartistry"
-    fullname: >-
-      Amy J
-    bio: >-
-      Makeup Artist amyjartistry@gmail.com
-    location: "United Kingdom"
-    followers: 33300
-    engagement: 1894
-    commentsToLikes: 0.058846
-    id: ckavjfllas2qv0j234brs62i2
-    verified: false
-    hashtags: "#valentine, #duet, #makeupartist, #bossit2021"
+    hashtags: "#fyp, #duet, #elderemo, #makeup"
   - username: "sacrecoeur96"
     fullname: >-
       Courtney🦇
@@ -67,6 +43,18 @@ profiles:
     id: ckb9l09b5ddnw0j234rw4l4v9
     verified: false
     hashtags: "#aloistheclown, #scatterbrain, #hauntactor, #invri"
+  - username: "amyjartistry"
+    fullname: >-
+      Amy J
+    bio: >-
+      Makeup Artist amyjartistry@gmail.com
+    location: "United Kingdom"
+    followers: 34300
+    engagement: 1813
+    commentsToLikes: 0.064917
+    id: ckavjfllas2qv0j234brs62i2
+    verified: false
+    hashtags: "#sfxmakeup, #zodiacmakeup, #carebearmakeup, #carebear"
   - username: "oddball_artzwi"
     fullname: >-
       oddball_artzwi
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.116700
     id: ckcps1ur4m4pc0j23gpuqzj1q
     verified: false
-    hashtags: "#plussize, #altgirlsummer, #callcenterstorytime, #callcenter"
+    hashtags: "#thesuicidesquadmovie, #customerservice, #callcenterstorytime, #plussize"
   - username: "irlreedtard"
     fullname: >-
       Alaynaaa
@@ -127,4 +115,16 @@ profiles:
     id: ck83ypb3auid40j78rxdbllf0
     verified: false
     hashtags: "#danganronpa, #fnafcosplay, #danganronpacosplay, #junkoenoshimacosplay"
+  - username: "tamiaoveres"
+    fullname: >-
+      Tamia 
+    bio: >-
+      Tattoo & Makeup Artist 🎨 Business Inquiries: info@pulsevancity.com SHOP ⬇️
+    location: "Canada"
+    followers: 293700
+    engagement: 2123
+    commentsToLikes: 0.008482
+    id: ck8osvaarii1q0j78zbn12ijv
+    verified: false
+    hashtags: "#foryou, #foryoupage, #makeupchallenge, #bfvsgf"
 ---

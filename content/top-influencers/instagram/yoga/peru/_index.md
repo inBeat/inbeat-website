@@ -1,12 +1,24 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Peru In 2023
+title: Top 10 Yoga Instagram Influencers In Peru In 2024
 description: >-
-  Find top yoga Instagram influencers in Peru in 2023. Most popular hashtags: #yoga #love #training #fashion.
+  Find top yoga Instagram influencers in Peru in 2024. Most popular hashtags: #yoga #peru #happy #beach.
 platform: Instagram
-hits: 18
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 18 Instagram influencers like this in Peru for you to work with.
+hits: 17
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat has 17 Instagram influencers like this in Peru for you to pitch.
 profiles:
+  - username: "melaniaurbinak"
+    fullname: >-
+      Melania Urbina
+    bio: >-
+      Actriz peruana 🇵🇪 Yogui en formación 🧘‍♀️ Viajes, Gatos, Comida✈️ Mamá de Lucía 💖 #FelizMente 🌌
+    location: "Peru"
+    followers: 923904
+    engagement: 62
+    commentsToLikes: 0.023534
+    id: ck5bwfoy8lm570i1158rec09a
+    verified: true
+    hashtags: "#actriz, #per, #mm, #actrizyoguini"
   - username: "robertvogu"
     fullname: >-
       VOGU
@@ -19,6 +31,30 @@ profiles:
     id: ck8t0i8kxs5cq0j78tuckmxm5
     verified: true
     hashtags: "#venezolanos, #peace, #valladolidyucatan, #paz"
+  - username: "welcometoelmundo"
+    fullname: >-
+      Belén Delgado & Julio Barrios ↟ Travel Visuals
+    bio: >-
+      🌏 Desde 2017 con mochila, cámara y buen rollo! 🌟 Premio Mejor Instagram de Viajes 2024 🎥 Miércoles Nuevo Vídeo en YTube
+    location: "Peru"
+    followers: 194656
+    engagement: 460
+    commentsToLikes: 0.071042
+    id: ck0w5c8i02xx30i194fzei6tz
+    verified: false
+    hashtags: "#choc, #kabiniwildlife, #mexicomagico, #indiatravelgram"
+  - username: "bylauracuadros"
+    fullname: >-
+      LauraCuadros
+    bio: >-
+      Peruvian artist searching for inspiration | Oil painting
+    location: "Peru"
+    followers: 32777
+    engagement: 201
+    commentsToLikes: 0.007701
+    id: ck5ckntflx9ap0i11beigduzu
+    verified: false
+    hashtags: "#oilpaint, #artist, #arte, #oilpainting"
   - username: "vivircorriendo"
     fullname: >-
       Paula Fernández-Ochoa
@@ -31,18 +67,6 @@ profiles:
     id: ck13axshospkw0i19zuc12wph
     verified: false
     hashtags: "#livteam, #cycling, #enduro, #sportlife"
-  - username: "melaniaurbinak"
-    fullname: >-
-      Melania Urbina
-    bio: >-
-      Actriz peruana Yogui en formación Mamá de Lucía Viajes, Gatos, Comida Ciencia de la Mente 🌠 #FelizMente 🌌
-    location: "Peru"
-    followers: 841683
-    engagement: 239
-    commentsToLikes: 0.011323
-    id: ck5bwfoy8lm570i1158rec09a
-    verified: true
-    hashtags: "#missanita, #missana, #devueltaalbarrio, #haztecargo"
   - username: "pedroibanez_"
     fullname: >-
       PEDRO IBAÑEZ
@@ -103,28 +127,4 @@ profiles:
     id: ck5hglqfv3g2r0i11mgoyqpai
     verified: false
     hashtags: "#ocean, #igerslima, #merinonoesmipresidente, #visitperu"
-  - username: "nataduranv"
-    fullname: >-
-      Natalia Duran
-    bio: >-
-      Actriz / cantante / vida sostenible / amante de la tierra y los derechos humanos .
-    location: "Peru"
-    followers: 454650
-    engagement: 77
-    commentsToLikes: 0.026539
-    id: ck6u0s1s7hfab0j71z72znm8z
-    verified: false
-    hashtags: "#paraiso, #felicidad, #amor, #conexion"
-  - username: "l.abustamante"
-    fullname: >-
-      𝖵𝖺𝗅𝖾𝗇𝗍𝗂𝗇𝖺
-    bio: >-
-      📍ʟɪᴍᴀ-ᴘᴇʀᴜ ➟ 𝐇𝐞𝐚𝐥𝐭𝐡𝐲 𝐥𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 " Tu dia empieza escogiendo lo mejor para tu salud "
-    location: "Peru"
-    followers: 13786
-    engagement: 677
-    commentsToLikes: 0.054007
-    id: ckf5uvyc4mjvn0j23ajtolpot
-    verified: false
-    hashtags: "#fitnessaddict, #foodpic, #fitspo, #healthychoices"
 ---

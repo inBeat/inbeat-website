@@ -1,12 +1,48 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Ukraine In 2023
+title: Top 10 Athletes Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top athletes Instagram influencers in Ukraine in 2023. Most popular hashtags: #sport #ukraine #athlete #redbull.
+  Find top athletes Instagram influencers in Ukraine in 2024. Most popular hashtags: #ukraine #athlete #fitness.
 platform: Instagram
-hits: 9
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database has 9 Instagram influencers like this in Ukraine for you to pitch.
+hits: 13
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 13 Instagram influencers like this in Ukraine for you to collaborate.
 profiles:
+  - username: "olgakharlan"
+    fullname: >-
+      Kharlan Olga
+    bio: >-
+      Olympic Games 🇨🇳‘08🥇 • 🇬🇧‘12🥉• 🇧🇷‘16🥈🥉 Ukrainian fencer🤺🇺🇦 @redbull athlete • @nike athlete • @athleteps athlete PR & Cooperation @kharlan.cooperation
+    location: "Ukraine"
+    followers: 134218
+    engagement: 523
+    commentsToLikes: 0.011298
+    id: ck5zua1eq1yv90i14q4lgrp3h
+    verified: false
+    hashtags: "#amore, #fencing, #fashion, #dancingwithstars"
+  - username: "dariabilodid7"
+    fullname: >-
+      DARIA BILODID
+    bio: >-
+      Ukrainian judoka🇺🇦🥋 @adidasukraine athlete Olympic bronze medalist🥉(Tokyo2020🇯🇵) Double World Champion🥇🥇 Double European Champion🥇🥇&🥈 Kyiv📍
+    location: "Ukraine"
+    followers: 468365
+    engagement: 919
+    commentsToLikes: 0.008160
+    id: ck135ppha2mdi0i197oddp7gj
+    verified: true
+    hashtags: "#olympics, #tokyo2020, #olympicgames, #maldives"
+  - username: "aminaldembele"
+    fullname: >-
+      AMINA DEMBELE
+    bio: >-
+      Ivorian🇨🇮Ukrainian🇺🇦 @womensbest athlete // code: AMINA My support link👇🏽
+    location: "Ukraine"
+    followers: 283882
+    engagement: 404
+    commentsToLikes: 0.006468
+    id: cle7xweqpm0no0j08bioym1ht
+    verified: false
+    hashtags: "#gymmotivation, #workout, #fitness, #gymreels"
   - username: "kir.kara"
     fullname: >-
       Kirill Karabut
@@ -43,18 +79,6 @@ profiles:
     id: ck6u6toq6ho050j71ond68hki
     verified: false
     hashtags: "#ukraine, #topten, #taekwondoitf, #topten4you"
-  - username: "supamontalvo"
-    fullname: >-
-      Bboy Victor
-    bio: >-
-      RedBull Athlete 💥 Kissimmee, FL 🇲🇽 🇺🇸
-    location: "Ukraine"
-    followers: 63355
-    engagement: 721
-    commentsToLikes: 0.017707
-    id: ck0w11c45h2ub0i19az9auicv
-    verified: false
-    hashtags: "#redbull, #redbulldancer, #redbullathlete, #orlando"
   - username: "dmitriyillyuk"
     fullname: >-
       Dmitriy Illyuk/Дмитрий Иллюк
@@ -79,6 +103,18 @@ profiles:
     id: ck0w4cx4uxynm0i19c6vt3o9g
     verified: true
     hashtags: "#redbull, #blueshorts"
+  - username: "vadym_oleynik"
+    fullname: >-
+      Vadym Oleynik
+    bio: >-
+      🌎Globally requsted judge & coach 👑King Of The Bar overall 2k15 🥇Multiple World champion 🇺🇦Master of sport sambo 🦍Online mentorship
+    location: "Ukraine"
+    followers: 230370
+    engagement: 195
+    commentsToLikes: 0.010261
+    id: ck0txqhclk5k40i1979mgj9gb
+    verified: false
+    hashtags: "#travels, #workshops, #calisthenics, #strength"
   - username: "yanabelomoina"
     fullname: >-
       Yana Belomoina 🚴🏻‍♀️
@@ -91,28 +127,4 @@ profiles:
     id: ck6ufj79ixdfw0j71fmi5s7xx
     verified: false
     hashtags: "#lovemyjob, #athlete, #aroundtheworld, #me"
-  - username: "danya.golenkov"
-    fullname: >-
-      H D 🙌🏽🏀
-    bio: >-
-      5’8” (174cm)Pro dunker 🏀🐒 Can’t be stopped 😁
-    location: "Ukraine"
-    followers: 6775
-    engagement: 1998
-    commentsToLikes: 0.038906
-    id: ck5cd67j9ilzc0i11s20igjw4
-    verified: false
-    hashtags: "#slam, #picture, #basketball, #dunk"
-  - username: "jaky_factos"
-    fullname: >-
-      Jacqueline Factos
-    bio: >-
-      Karate🥋Team Ecuador🇪🇨 ▪️PanAmerican Champion🥇x5 ▪️World Games🥈 ▪️Juegos Sudamericanos 🥇🥇 ▪️🏅Premier League medalist 📚Lcda.Cultura físico @linksports_
-    location: "Ukraine"
-    followers: 10973
-    engagement: 580
-    commentsToLikes: 0.025745
-    id: ck6u8xwwhubzd0j71cmmws7vz
-    verified: false
-    hashtags: "#quedateencasa, #girls, #focus, #picoftheday"
 ---

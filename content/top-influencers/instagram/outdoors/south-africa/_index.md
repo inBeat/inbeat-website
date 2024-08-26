@@ -1,24 +1,24 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In South Africa In 2023
+title: Top 10 Outdoors Instagram Influencers In South Africa In 2024
 description: >-
-  Find top outdoors Instagram influencers in South Africa in 2023. Most popular hashtags: #southafrica #outdoors #nature #photography.
+  Find top outdoors Instagram influencers in South Africa in 2024. Most popular hashtags: #southafrica #outdoors #nature #travel.
 platform: Instagram
-hits: 41
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 41 Instagram influencers like this in South Africa for you to contact.
+hits: 46
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 46 Instagram influencers like this in South Africa for you to collaborate.
 profiles:
-  - username: "laurasidestreet"
+  - username: "nicoleeddy"
     fullname: >-
-      Laura 🌵 Side Street
+      Nicole Zoghby
     bio: >-
-      South African in Wales She/Her 🌈 🏄🏻‍♀️🌿 Outdoors | Skater | Travel Here’s to never growing up ✌🏼 Feminist raising boys
+      🌎 Nature, Adventure & The Outdoors 🖊 Copywriter | Digital Content Creator 📍 Cape Town | South Africa
     location: "South Africa"
-    followers: 17744
-    engagement: 225
-    commentsToLikes: 0.065053
-    id: ckaoy3l84fwzh0i78h5wgilhv
+    followers: 103691
+    engagement: 122
+    commentsToLikes: 0.085025
+    id: ck13al65iqwzu0i190rw365ps
     verified: false
-    hashtags: "#ukparentbloggers, #mumswhoskate, #wewalkaround, #skatermum"
+    hashtags: "#capetown, #borntoroam, #southafrica, #krugersafari"
   - username: "bokvanblerkreal"
     fullname: >-
       Bok van Blerk
@@ -55,6 +55,18 @@ profiles:
     id: ck13aqqiyrpex0i19t3oked6o
     verified: false
     hashtags: "#earthday, #worldphotographyday, #blackouttuesday"
+  - username: "ryanoffthegrid"
+    fullname: >-
+      Ryan Baudhuin
+    bio: >-
+      Waterfowler 1st | Film | Photo | Marine Combat Vet @savagearms @apex_ammunition
+    location: "South Africa"
+    followers: 46206
+    engagement: 51
+    commentsToLikes: 0.029359
+    id: ck0vzf8ec8tfi0i195h2ohctc
+    verified: false
+    hashtags: "#teamsavage, #veteranshunt, #africa, #outdoormedia"
   - username: "onebreathbeth"
     fullname: >-
       Beth Neale
@@ -115,16 +127,4 @@ profiles:
     id: ck5zn0iconjoj0i14zoeh5ltq
     verified: false
     hashtags: "#bushgirl, #naturelovers, #safari, #privatesafari"
-  - username: "dylanroyalwildlife"
-    fullname: >-
-      Dylan Royal
-    bio: >-
-      Field Guide with andBeyond 🇿🇦 South Africa DM for prints or mail dylanwroyal@gmail.com
-    location: "South Africa"
-    followers: 22467
-    engagement: 230
-    commentsToLikes: 0.014481
-    id: ck138ct77fm1e0i19qzgte4h8
-    verified: false
-    hashtags: "#bigcats, #outdoors, #lion, #sabisands"
 ---

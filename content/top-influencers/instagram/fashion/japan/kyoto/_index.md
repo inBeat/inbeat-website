@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Kyoto In 2023
+title: Top 10 Fashion Instagram Influencers In Kyoto In 2024
 description: >-
-  Find top fashion Instagram influencers in Kyoto in 2023. Most popular hashtags: #fashion #kyoto #ootd #japan.
+  Find top fashion Instagram influencers in Kyoto in 2024. Most popular hashtags: #fashion #kyoto #ootd #japan.
 platform: Instagram
 hits: 47
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 47 Instagram influencers like this in Kyoto, Japan for you to work with.
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 47 Instagram influencers like this in Kyoto, Japan for you to contact.
 profiles:
   - username: "ann.badkitten"
     fullname: >-
@@ -79,18 +79,6 @@ profiles:
     id: ck8t631cxc2hq0j785y3z6uaw
     verified: false
     hashtags: "#cute, #japan, #tokyo, #sel2470gm"
-  - username: "aiku_0817__"
-    fullname: >-
-      AIKU MAIKAWA
-    bio: >-
-      JAPAN×TAIWAN 🇯🇵🇹🇼 Twitter @AIKU0817_ [♥️Travel, Onsen, Beauty, Fashion &Food♥️]
-    location: "Japan"
-    followers: 113598
-    engagement: 162
-    commentsToLikes: 0.006643
-    id: ck14ivzkfhesz0i19fegw6ndc
-    verified: true
-    hashtags: "#aman, #fashion, #black, #ootd"
   - username: "miri.o3"
     fullname: >-
       Mi Ri💕
@@ -127,4 +115,16 @@ profiles:
     id: ck5q15jyp9e130i11nh9y9lio
     verified: false
     hashtags: "#gu, #ct70"
+  - username: "yuria930"
+    fullname: >-
+      優梨亜
+    bio: >-
+      #🇯🇵 #🇰🇷 #1994 #実物とは異なります #tattoo #trip #dog #sea #spicyfood #💛💛
+    location: "Japan"
+    followers: 6306
+    engagement: 838
+    commentsToLikes: 0.016791
+    id: ck8t0xlzntplu0j7892l64p9d
+    verified: false
+    hashtags: "#gal, #okinawatrip, #ootd, #ladiesfashion"
 ---

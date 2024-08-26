@@ -1,130 +1,130 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Germany In 2023
+title: Top 10 Architecture Instagram Influencers In Germany In 2024
 description: >-
-  Find top architecture Instagram influencers in Germany in 2023. Most popular hashtags: #nature #berlin #moodygrams #naturelovers.
+  Find top architecture Instagram influencers in Germany in 2024. Most popular hashtags: #architecture #archilovers #facade #interiordesign.
 platform: Instagram
-hits: 450
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 450 Instagram influencers like this in Germany for you to contact.
+hits: 489
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 489 Instagram influencers like this in Germany for you to connect with.
 profiles:
-  - username: "alexanderpaar"
+  - username: "manfredvonkoreander"
     fullname: >-
-      Alexander Paar
+      Street Couture | Things around the apartment
     bio: >-
-      Creative mind w/ a passion for #interior #design #architecture #travel 🤍 Feel free to explore my world 🌍 ✉️ via DM📍based in Germany Impressum
+      Into kicks & fits, architecture, photography, vinyl, pop culture, getting cozy at home. ✨ 📍 Germany, KMS/NBG 📩 manfredvonkoreander[at]gmail.com
     location: "Germany"
-    followers: 137602
-    engagement: 125
-    commentsToLikes: 0.110677
-    id: ck5c4ju3v1i7n0i11jfbj42lc
+    followers: 12960
+    engagement: 2041
+    commentsToLikes: 0.076920
+    id: ck0vy2a6o1w0g0i198gr59o2w
     verified: false
-    hashtags: "#homedecoration, #nordiskdesign, #monochromehome, #altbauliebe"
-  - username: "laracvic"
+    hashtags: "#planetofinterior, #midmodmood, #interior, #techwear"
+  - username: "ioanapioaru"
     fullname: >-
-      𝐋.𝐂.
+      Ioana Pioaru
     bio: >-
-      germany | hrvatska architecture student 𝐸𝒱
+      I create detailed drawings of architecture and nature for art lovers and collectors of fine art drawing. ✨👇Subscribe to my newsletter👇✨
     location: "Germany"
-    followers: 3870
-    engagement: 1938
-    commentsToLikes: 0.088203
-    id: ck0tt8l061m780i199mz7v2cc
+    followers: 765886
+    engagement: 511
+    commentsToLikes: 0.011883
+    id: cl3cuhief4y0r0i23nriy0fqa
     verified: false
-    hashtags: ""
-  - username: "alinaebner96"
+    hashtags: "#botanicalart, #fineliner, #inkartist, #architecturedrawing"
+  - username: "themodernleper"
     fullname: >-
-      Alina Ebner
+      thomas | hamburg | germany
     bio: >-
-      📸 | #Lifestyle #mentalhealth #cats 📍 | Düsseldorf, Germany 🎓 | Interior Architecture 💛 | happily taken
+      🌍 travel, architecture & old town enthusiast. 🚐 @vanceptual || ⚓️ @hansegang 📧 themodernleper@gmx.net
     location: "Germany"
-    followers: 17092
-    engagement: 550
-    commentsToLikes: 0.059020
-    id: ckaous58s1kxy0i78pqcyyrij
+    followers: 189156
+    engagement: 214
+    commentsToLikes: 0.012491
+    id: ck0tu54te5oim0i1986dw1iiy
     verified: false
-    hashtags: "#blackandwhite, #fashioninspo, #berlin, #berlingirl"
-  - username: "charlinesofie"
+    hashtags: "#schmalkaldenmeiningen, #prachtregion, #schmalkalden, #landkreis"
+  - username: "openspaceseries"
     fullname: >-
-      Charline
+      Open Space
     bio: >-
-      twenty one | T 🖇 | near dus | @kodakroom ☁️ architecture & interior design ☁️
+      Architecture + Design + Preservation Visual Storytelling
     location: "Germany"
-    followers: 4368
-    engagement: 1928
-    commentsToLikes: 0.065743
-    id: ck9whv2hkzlsb0j786xoayyrw
+    followers: 39821
+    engagement: 309
+    commentsToLikes: 0.013015
+    id: ckwogpexms7530j2389sv9i6o
     verified: false
-    hashtags: "#loftstudio, #bravopost, #portraitgermany, #indoorshooting"
-  - username: "sun_pitt"
+    hashtags: "#aquincyjones, #openspaceseries, #eichler, #raulgarduno"
+  - username: "callicles"
     fullname: >-
-      
+      Sam J
     bio: >-
-      Germany Hobbyfotograf of nature, seasons, landscapes, flowers, animals, architecture... all fotos taken with a samsung galaxy s7 edge
+      Travel, architecture, interiors & everyday photos Nikon #Zcreators 📍#Paris, France
     location: "Germany"
-    followers: 7601
-    engagement: 1707
-    commentsToLikes: 0.124171
-    id: ck0uaq4q7cv6b0i19tc837ojv
+    followers: 117849
+    engagement: 188
+    commentsToLikes: 0.011196
+    id: ck135feg615a20i194uuc5yd6
     verified: false
-    hashtags: "#parsonterrier, #schneezauber, #parsonrussellterrier, #blumengruss"
-  - username: "allabout.ness"
+    hashtags: "#facade, #summer, #france, #vanishingpoint"
+  - username: "natashaderikonja"
     fullname: >-
-      NESRIN
+      Natasa Derikonja
     bio: >-
-      Nesrin Yildiz studying architecture
+      📍Belgrade, Serbia mum | model | engineer of scene architecture, technique and design @real_woman_agency @mgm.models
     location: "Germany"
-    followers: 2240
-    engagement: 749
-    commentsToLikes: 0.032633
-    id: ckap8jpigom800i78ugua0qtr
+    followers: 53745
+    engagement: 148
+    commentsToLikes: 0.006039
+    id: ckaorwpvxp3iv0i78ouuweieq
     verified: false
-    hashtags: "#hamburg, #holiday, #carmushkabielefeld, #santacruz"
-  - username: "manuela.zita.b"
+    hashtags: "#mumlife, #son, #makeuptutorial, #formula1"
+  - username: "mart.lindner"
     fullname: >-
-      manuela
+      Martin Lindner
     bio: >-
-      ➴ germany - france interested in travel, food, culture, architecture/design & whatever makes life amusing. all pictures are taken by myself ©
+      📸 I capture unique perspectives and architecture ✉️ contact@martlindner.com |📍based in Germany 👇🏼 Portfolio | Presets | Projects
     location: "Germany"
-    followers: 6269
-    engagement: 2573
-    commentsToLikes: 0.069413
-    id: ck0tzcsw0pu9d0i19fmm8y8fl
+    followers: 124786
+    engagement: 79
+    commentsToLikes: 0.027377
+    id: ck5c3bo4iyzdr0i1199ojzwye
     verified: false
-    hashtags: "#instagram, #naturephotography, #bnw, #lacdannecy"
-  - username: "janbreckwoldt_photography"
+    hashtags: "#munich, #trending, #symmetryhunters, #agameoftones"
+  - username: "jn"
     fullname: >-
-      Jan Breckwoldt
+      Joerg Nicht
     bio: >-
-      Sydney based photographer. Originally from Hamburg, Germany. Loves travelling, landscape & architecture See link for Vivid with a View
+      Pictures Tell the Story | Photographer | Traveler | Social scientist #Berlin, Germany - #Travel #Architecture Domestika #Workshop ⬇️
     location: "Germany"
-    followers: 11588
-    engagement: 632
-    commentsToLikes: 0.061834
-    id: ck5cc62vhgsbm0i113kjfjb6w
-    verified: false
-    hashtags: "#seeaustralia, #sydneyharbour, #transportfornsw, #mint"
-  - username: "moodfella"
+    followers: 528702
+    engagement: 59
+    commentsToLikes: 0.014052
+    id: ck0u06ai0srlb0i19plb3zdn7
+    verified: true
+    hashtags: "#igersberlin, #officialfanofberlin, #visitberlin, #banalography"
+  - username: "melika_zadeh_"
     fullname: >-
-      Mood | Nature | Architecture
+      M E L I K A   Z A D E H
     bio: >-
-      May the mood be with u! My passion: Landscape combined with architecture.
+      FASHION • BEAUTY • LIFESTYLE Collabs: melika.zadeh1@gmail.com Architecture Germany - Düsseldorf
     location: "Germany"
-    followers: 19026
-    engagement: 655
-    commentsToLikes: 0.152761
-    id: ck0w5v6ym5kzt0i19gfpvw4k2
+    followers: 12087
+    engagement: 155
+    commentsToLikes: 0.132404
+    id: clq9hyvja77hn0k08u63ftyfw
     verified: false
-    hashtags: "#agameoftones, #rsa, #hellofrom, #castlemypassion"
-  - username: "scwilder"
+    hashtags: "#zarawoman, #outfit, #zara, #outfitinspo"
+  - username: "mvrdv"
     fullname: >-
-      𝚂𝚊𝚟𝚒𝚝𝚛𝚒 𝚆𝚒𝚕𝚍𝚎𝚛
+      MVRDV
     bio: >-
-      🌿 American in Germany 📧 hello@savitriwilder.com to collab ✈️ travel, architecture and storytelling 🔻 A Nikon #ZCreators
+      💡International architecture and urbanism office 👇Check the link for our latest news and projects!
     location: "Germany"
-    followers: 49187
-    engagement: 676
-    commentsToLikes: 0.025052
-    id: ck6ui561ud4oe0j71tl6y0t6y
+    followers: 731567
+    engagement: 69
+    commentsToLikes: 0.003999
+    id: ck0vz65ja7i2m0i19ijvdr8j1
     verified: false
-    hashtags: "#nikon, #zcreators, #z50, #nikkor"
+    hashtags: "#next500, #interior, #architect, #green"
 ---

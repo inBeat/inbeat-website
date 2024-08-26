@@ -1,12 +1,24 @@
 ---
-title: Top 10 Instagram Influencers In Brisbane In 2023
+title: Top 10 Instagram Influencers In Brisbane In 2024
 description: >-
-  Find top Instagram influencers in Brisbane in 2023. Most popular hashtags: #cute #love #instagood.
+  Find top Instagram influencers in Brisbane in 2024. Most popular hashtags: #brisbane #australia #queensland #brisbanecity.
 platform: Instagram
-hits: 546
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 546 Instagram influencers like this in Brisbane, Australia for you to work with.
+hits: 710
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 710 Instagram influencers like this in Brisbane, Australia for you to pitch.
 profiles:
+  - username: "brisbane"
+    fullname: >-
+      @BRISBANE
+    bio: >-
+      Follow us for the scoop on Brisbane’s leading local Things to do • Food and Wine • Lifestyle • Property #MyBrisbane @Brisbane
+    location: "Australia"
+    followers: 141270
+    engagement: 141
+    commentsToLikes: 0.043833
+    id: ck0vvol3uq2010i19y8idrc27
+    verified: false
+    hashtags: "#brisbanefood, #queensland, #thisisqueensland, #brisbanecity"
   - username: "hxodu"
     fullname: >-
       hd | Australia
@@ -19,112 +31,100 @@ profiles:
     id: ck5q5xw38v2sz0i11yyt3wa7w
     verified: false
     hashtags: "#discoverqueensland, #queensland, #seeaustralia, #thisisqueensland"
-  - username: "brisbane"
+  - username: "francoisebelzile"
     fullname: >-
-      @BRISBANE - MYBRISBANE.COM
+      Francoise Belzile
     bio: >-
-      Bringing you the best our local community has to offer. Things To Do • Food & Wine • Lifestyle • Property Tag #MyBrisbane & @Brisbane ✉️ Get in touch
+      🩰🍸🧸 🏝️ life is now | french canadian in brisbane 🇦🇺🇨🇦
     location: "Australia"
-    followers: 107110
-    engagement: 173
-    commentsToLikes: 0.045474
-    id: ck0vvol3uq2010i19y8idrc27
+    followers: 30049
+    engagement: 603
+    commentsToLikes: 0.005866
+    id: ckt2699rkridg0j23g9s1z106
     verified: false
-    hashtags: "#preservativefree, #noaddedsugar, #southbank, #yum"
-  - username: "leangreenie"
+    hashtags: "#aupair, #travel, #australia, #canadianinaustralia"
+  - username: "brissiebites"
     fullname: >-
-      Stacey Parish 💚 Vegan
+      Food Blogger | Jacqui John
     bio: >-
-      Brisbane
+      🥐 Food 🍷 Drink ✈️ Travel ✍️ Content Creation 📷 Photography ☀️ Brisbane based 💌 jacqui@brissiebites.com
     location: "Australia"
-    followers: 24316
-    engagement: 276
-    commentsToLikes: 0.039238
-    id: ckap98q1brmmh0i78lcgntkqc
+    followers: 10101
+    engagement: 625
+    commentsToLikes: 0.158408
+    id: ck6tkm2ym4z230j715oltesd5
     verified: false
-    hashtags: "#vegan, #animallovers, #veganforlife, #animalrights"
-  - username: "goodboykumo"
+    hashtags: "#visit, #brisbanefood, #foodies, #invite"
+  - username: "rachelmkhawaja"
     fullname: >-
-      Kumo The Japanese Spitz
+      Rachel Khawaja
     bio: >-
-      Brisbane, Australia 🏠 🎂 29.6.18 KUMO15 - 15% off @tedandpatrick 😍 💕 MYPALKUMO - 10% off @pawfectpalsau
+      📍Brisbane, QLD 📧 amy@societyeightmanagement.com 💍 Mrs Khawajy 👧🏽👶🏽 Aisha and Ayla 🐶 Lebron
     location: "Australia"
-    followers: 13066
-    engagement: 443
-    commentsToLikes: 0.244341
-    id: ck6tshqps4twy0j71n1e8g5k5
+    followers: 98010
+    engagement: 714
+    commentsToLikes: 0.010582
+    id: ck15tyxk8klcg0i19twww3asb
     verified: false
-    hashtags: "#furbaby, #merrychristmas, #dogsofbrisbane, #positivevibes"
-  - username: "conagh_kat"
+    hashtags: "#ayla, #gifted, #blessed, #family"
+  - username: "bybelicia"
     fullname: >-
-      CONAGH KATHLEEN 👼🏼✨☁️
+      Belicia Arnold
     bio: >-
-      brisbane • 23 @earlybirdsociety ☀️🌈🦋🕊 ✉️ conagh@maxconnectors.com.au @train.withsoph x @conagh_kat 💜⬇️
+      📍Brisbane, AUS we selfcaring n oversharing here 💗 find me on tiktok bby - bybelicia (78k+) 📧 georgina@neonmodelmanagement.com
     location: "Australia"
-    followers: 101150
-    engagement: 183
-    commentsToLikes: 0.001169
-    id: ck6uef6q6qk380j71n7lksp70
+    followers: 105803
+    engagement: 2038
+    commentsToLikes: 0.021963
+    id: cl3w8ynytca8f0i23jr2gqk7g
     verified: false
-    hashtags: "#grwm, #reels, #motivation, #makeup"
-  - username: "zoe.creed"
+    hashtags: "#stylekorean, #skincaretips, #clearskin, #silkpillowcase"
+  - username: "tylaamos"
     fullname: >-
-      Zoe Creed🦋
+      Tyla Amos
     bio: >-
-      Owner: @born.creed ʀᴇᴘʀᴇsᴇɴᴛᴇᴅ ʙʏ @chic_brisbane COLLAB- thien-an@chicbrisbane.com.au BOOKINGS –thomas@chicbrisbane.com.au 🥊 @hustle_boxing
+      🤸🏽‍♂️⚡️ Brisbane Clinical Ex. Phys QUT @bft_northlakes coach
     location: "Australia"
-    followers: 42004
-    engagement: 158
-    commentsToLikes: 0.019581
-    id: ck6ub22k770mk0j71z3t0fu3w
+    followers: 10721
+    engagement: 496
+    commentsToLikes: 0.098106
+    id: cksjxnqv0cubd0j23xnweyab0
     verified: false
-    hashtags: "#sponsored, #jeyahaircare, #allyfashion, #paid"
-  - username: "organisedsimplicity"
+    hashtags: "#gym, #muscle, #personaltrainer, #motivation"
+  - username: "thegeneticsphd"
     fullname: >-
-      Organised Simplicity
+      Renée
     bio: >-
-      Jordy ✨ home organisation ◦ interior design decluttering ◦ ndis ◦ moving + staging brisbane • gold coast • sunshine coast (aus) book a consult👇🏻
+      🧬 3rd yr phd in molecular genetics @uniofqld ✨ here to inspire you 🦋 phd life | research tips | reflections 📍 brisbane, australia 💌 email for collabs
     location: "Australia"
-    followers: 100939
-    engagement: 31
-    commentsToLikes: 0.044410
-    id: cl4f69fa4q8j10i23qx0ede1w
+    followers: 26101
+    engagement: 974
+    commentsToLikes: 0.022751
+    id: clpfql3axjvsr0k08aqy2rawa
     verified: false
-    hashtags: "#homeorganisation, #pantry, #pantryorganisation, #linencupboard"
-  - username: "morgsfit"
+    hashtags: "#gradschool, #growthmindset, #womeninstem, #phdstudent"
+  - username: "amospearce"
     fullname: >-
-      Morgan Dor ⚡️
+      Rescue Dog 🐶 | Pet Content Creator ⭐️
     bio: >-
-      🌐 Classic Physique 🇦🇺 Australia/Brisbane ⚡️ @ehplabs “MORGANSTAR” 🎥 YouTube - morgsfit
+      ❤️ Pillow Thief in Brisbane, AUS 🇦🇺 🐾 Cute Nervous Rescue Dog✨from @rspcaqld 📧 amospearce2013@gmail.com
     location: "Australia"
-    followers: 12329
-    engagement: 1270
-    commentsToLikes: 0.089131
-    id: ck9haszqte0200j78nmeaj38h
+    followers: 111823
+    engagement: 1036
+    commentsToLikes: 0.037045
+    id: ck15s7bnobl6t0i19kw4tgv66
     verified: false
-    hashtags: "#classicphysique, #bodybuilding, #clasicphysique, #posing"
-  - username: "rubygracemarks"
+    hashtags: "#dogmodel, #rescuepup, #funnydogs, #dogstagram"
+  - username: "millietang"
     fullname: >-
-      r u b y g r a c e
+      Millie Tang
     bio: >-
-      brisbane; @rebelliousgrace_bne - RUBY10 @shredders_nutrition - RUBY10
+      🇦🇺Brisbane based 🌎Often travelling 2 x Australian Bartender of the Year #78 Bar World 100 Most Influential ✉️ Email for enquires
     location: "Australia"
-    followers: 23763
-    engagement: 894
-    commentsToLikes: 0.052252
-    id: ckap2n0uwzk0o0i78zh5qva2i
+    followers: 42420
+    engagement: 408
+    commentsToLikes: 0.017553
+    id: ck0u7q3qm5gjt0i19d34mqcar
     verified: false
-    hashtags: "#billinibabes"
-  - username: "_talishax"
-    fullname: >-
-      Talisha Hansen
-    bio: >-
-      20 | Brisbane ☆
-    location: "Australia"
-    followers: 10591
-    engagement: 1257
-    commentsToLikes: 0.043099
-    id: ck5cjfuzsun2v0i11v93ugg7b
-    verified: false
-    hashtags: ""
+    hashtags: "#cocktail, #bar, #cointreau, #neon"
 ---

@@ -1,12 +1,72 @@
 ---
-title: Top 10 Travel Instagram Influencers In Nigeria In 2023
+title: Top 10 Travel Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top travel Instagram influencers in Nigeria in 2023. Most popular hashtags: #love #explore #travel #photography.
+  Find top travel Instagram influencers in Nigeria in 2024. Most popular hashtags: #explore #photography #explorepage.
 platform: Instagram
-hits: 22
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 22 Instagram influencers like this in Nigeria for you to pitch.
+hits: 33
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat has 33 Instagram influencers like this in Nigeria for you to connect with.
 profiles:
+  - username: "feranmiperez"
+    fullname: >-
+      FeranmiPerez.
+    bio: >-
+      Tech. Fashion. Skincare. Travel.
+    location: "Nigeria"
+    followers: 34186
+    engagement: 704
+    commentsToLikes: 0.043385
+    id: ckap1t2d1w0h70i788fu0zh1z
+    verified: false
+    hashtags: "#explore, #explorepage, #feranmiperez, #breakfast"
+  - username: "quick_steph"
+    fullname: >-
+      MSQUICK🇦🇺🇳🇬
+    bio: >-
+      • ɢᴏᴅ 👑 🌏: @msquickofficial MEDIA PERSONALITY | BEAUTY | LIFESTYLE | TRAVEL 📧: 𝐁𝐨𝐨𝐤𝐢𝐧𝐠𝐬.𝐪𝐮𝐢𝐜𝐤𝐬𝐭𝐞𝐩𝐡@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦 ᴄᴀᴛᴄʜ ᴍᴇ ᴏɴ ʏᴏᴜᴛᴜʙᴇ 👇🏻
+    location: "Nigeria"
+    followers: 156187
+    engagement: 767
+    commentsToLikes: 0.012977
+    id: ck5hg8n5y1i6r0i11qldvz7qf
+    verified: false
+    hashtags: "#girlstrip, #morocco, #grwm, #styleinspiration"
+  - username: "vivianokezie"
+    fullname: >-
+      Vivikoks ♡ | Content Creator & Youtuber
+    bio: >-
+      Hi! Find me on YouTube and TikTok too! Beauty | Travel | Lifestyle @vivikokskitchen 📧| vivianokeziemgt@gmail.com
+    location: "Nigeria"
+    followers: 59193
+    engagement: 264
+    commentsToLikes: 0.023671
+    id: ck134jvqvwsgw0i19r0gwr8hf
+    verified: false
+    hashtags: "#weeklyvlog, #tulipbodycare, #skincare, #selfcare"
+  - username: "thelagosweekender"
+    fullname: >-
+      Lagos Weekender
+    bio: >-
+      Download our FREE guide to Lagos👇 We share recommendations for #events #food #nightlife #travel #lifestyle to help you find fun things to do in Lagos
+    location: "Nigeria"
+    followers: 115310
+    engagement: 16
+    commentsToLikes: 0.027176
+    id: cllrlx9571l540j08naayx6f4
+    verified: false
+    hashtags: "#travel, #explorelagos, #nightlifeinlagos, #eventsinlagos"
+  - username: "nonsky"
+    fullname: >-
+      Dr. Nonsky | Men’s Fashion
+    bio: >-
+      💊 PharmD | Fashion | 🎑 Lifestyle | ✈️ Travel 📖 Featured in @GQ @globeandmail 📧 Drnonsky@gmail.com 📍 Toronto, ON
+    location: "Nigeria"
+    followers: 1009037
+    engagement: 2
+    commentsToLikes: 0.001393
+    id: ck139vyl7ndy70i1995teegas
+    verified: false
+    hashtags: "#2023, #istanbul, #travels, #beninrepublic"
   - username: "rapunzel_juliana"
     fullname: >-
       🌹Rapunzel ➴♡
@@ -55,76 +115,16 @@ profiles:
     id: ck5hrdedtuolz0i11g1ho9pfp
     verified: false
     hashtags: "#nonsookoye, #familyportraits, #eidmubarak, #wushewushe"
-  - username: "oliveemodi"
+  - username: "adinoyi_"
     fullname: >-
-      Olive Emodi
+      ADINOYI
     bio: >-
-      MC | TV Host | TV Producer | Actor | Fashion, Food and Travel Influencer | Lawyer | Jesus Baby Founder @theoliveemodinetwork 📧mgt.oliveemodi@gmail.com
+      Portrait | Wedding Photographer 🇳🇬 Available to travel ✈ Tap link below for bookings
     location: "Nigeria"
-    followers: 72267
-    engagement: 125
-    commentsToLikes: 0.099756
-    id: ck5bv7cygj48n0i11awagfpxh
-    verified: true
-    hashtags: "#love, #beatingcorona, #nigeria, #oliveemodi"
-  - username: "men.n.black"
-    fullname: >-
-      🌀YAMAHA BIKER BOY🌀
-    bio: >-
-      Ⓡ①⑤ ⓥ③ ⓡⓘⓓⓔⓡ 🌀BLACK V3🌀 🌀I DON'T GIVE A FUCK 🌀HAIR LOVER🌀 🌀PROUD TO BE A RIDER🌀 🌀STAY DIFFRENT🌀
-    location: "Nigeria"
-    followers: 12714
-    engagement: 1996
-    commentsToLikes: 0.024852
-    id: ck9whjysuy7p00j78ihnlb36m
-    verified: false
-    hashtags: "#savemodification, #himalayan, #partnerincrime, #motorcyclesofinstagram"
-  - username: "tosin.akinyemiju"
-    fullname: >-
-      Tosin Akinyemiju
-    bio: >-
-      Fashion Photographer. I’m inspired by color, light and story. All rights reserved. Email: tosin.akinyemiju@my.com
-    location: "Nigeria"
-    followers: 5555
-    engagement: 437
-    commentsToLikes: 0.059561
-    id: ck5q3e7fokdhx0i11x05jqtjj
+    followers: 10545
+    engagement: 269
+    commentsToLikes: 0.018528
+    id: ck8taew26rh650j78jn1gk4f2
     verified: false
     hashtags: ""
-  - username: "kola_oye"
-    fullname: >-
-      KOLAOYE | CINEMATOGRAPHER
-    bio: >-
-      Cinematography/ Film Director 🇫🇷 Photographer 🥂 Director @kola_oye For bookings - 08100499841
-    location: "Nigeria"
-    followers: 2770
-    engagement: 820
-    commentsToLikes: 0.207677
-    id: ck5hq711nsmad0i11p7vu90xp
-    verified: false
-    hashtags: "#cinematography, #explorepage, #love, #photography"
-  - username: "giancardinale"
-    fullname: >-
-      Gianni Cardinale
-    bio: >-
-      |God first 🙏🏼🙏🏼|Disciple| . Hair is my passion , Stylist/Educator @menspiresalon https://menspire.co.uk/education/ukcourses/1to1/
-    location: "Nigeria"
-    followers: 34399
-    engagement: 208
-    commentsToLikes: 0.012706
-    id: ck55kcmh7yznc0i11m7lsl52a
-    verified: false
-    hashtags: ""
-  - username: "rotaryinternational"
-    fullname: >-
-      Rotary International
-    bio: >-
-      Rotary unites more than a million great minds around a shared purpose. Share your #PeopleOfAction story and we'll repost our favorites!
-    location: "Nigeria"
-    followers: 202311
-    engagement: 132
-    commentsToLikes: 0.008954
-    id: ck0tvbk07apje0i19zsjim163
-    verified: true
-    hashtags: "#world, #rotarian, #endpolio, #coronavirus"
 ---

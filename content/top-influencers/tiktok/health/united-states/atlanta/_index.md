@@ -1,12 +1,24 @@
 ---
-title: Top 10 Health TikTok Influencers In Atlanta In 2023
+title: Top 10 Health TikTok Influencers In Atlanta In 2024
 description: >-
-  Find top health TikTok influencers in Atlanta in 2023. Most popular hashtags: #health #atlanta #fyp #duet.
+  Find top health TikTok influencers in Atlanta in 2024. Most popular hashtags: #health #atlanta #fyp #funny.
 platform: TikTok
-hits: 20
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our search engine holds 20 TikTok influencers like this in Atlanta, United States for you to pitch.
+hits: 21
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 21 TikTok influencers like this in Atlanta, United States for you to collaborate.
 profiles:
+  - username: "1thrillo"
+    fullname: >-
+      1Thrillo
+    bio: >-
+      Actor/ Graphic Designer/ IG: @1Thrillo / #SilentMovies
+    location: "United States"
+    followers: 9093
+    engagement: 959
+    commentsToLikes: 0.024966
+    id: ck8kfee21drw50j78kzlmfezd
+    verified: false
+    hashtags: "#foryoupage, #trending, #rap, #funny"
   - username: "dyetta"
     fullname: >-
       Donyetta Edwards
@@ -18,7 +30,7 @@ profiles:
     commentsToLikes: 0.085058
     id: cka9m457h3ram0i78lv3uvff2
     verified: false
-    hashtags: "#fyp, #workfromhome, #zoom, #funny"
+    hashtags: "#workfromhome, #zoom, #fyp, #funny"
   - username: "chessi"
     fullname: >-
       Chelsea Parsell 🦋
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.018017
     id: ck9rlrzgrze2a0j78l9fsouan
     verified: false
-    hashtags: "#homerenovation, #style, #giveaway, #homedecor"
+    hashtags: "#thrift, #renovation, #homedecor, #home"
   - username: "jessalynwalker4"
     fullname: >-
       Jessalyn🌻
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.017476
     id: ckaig21zzzj200i787b6160g9
     verified: false
-    hashtags: "#singer, #schaftok, #lgbtq, #fashion"
-  - username: "donthedisciple"
-    fullname: >-
-      Don
-    bio: >-
-      Jesus saves🙏🏽 insta. donthedisciple New Music ⬇️
-    location: "United States"
-    followers: 10200
-    engagement: 2471
-    commentsToLikes: 0.033106
-    id: ckb8ya4cudgw60j23fu2a5z2d
-    verified: false
-    hashtags: "#worththewait, #jesus, #zithappens, #justaddbriskzero"
+    hashtags: "#schaftok, #lgbtq, #singer, #androgynous"
 ---

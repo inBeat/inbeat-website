@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Japan In 2023
+title: Top 10 Makeup TikTok Influencers In Japan In 2024
 description: >-
-  Find top makeup TikTok influencers in Japan in 2023. Most popular hashtags: #fyp #makeup #foryoupage #foryou.
+  Find top makeup TikTok influencers in Japan in 2024. Most popular hashtags: #fyp #makeup #foryou #foryoupage.
 platform: TikTok
 hits: 13
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 13 TikTok influencers like this in Japan for you to collaborate.
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 13 TikTok influencers like this in Japan for you to work with.
 profiles:
   - username: "peace605"
     fullname: >-

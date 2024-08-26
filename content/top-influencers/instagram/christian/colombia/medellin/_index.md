@@ -1,12 +1,24 @@
 ---
-title: Top 10 Christian Instagram Influencers In Medellín In 2023
+title: Top 10 Christian Instagram Influencers In Medellín In 2024
 description: >-
-  Find top christian Instagram influencers in Medellín in 2023. Most popular hashtags: #colombia #medellin #tbt #cali.
+  Find top christian Instagram influencers in Medellín in 2024. Most popular hashtags: #colombia #medellin #tbt #bogota.
 platform: Instagram
 hits: 5
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 5 Instagram influencers like this in Medellín, Colombia for you to connect with.
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 5 Instagram influencers like this in Medellín, Colombia for you to pitch.
 profiles:
+  - username: "byfieldtravel"
+    fullname: >-
+      Christian Byfield Travel
+    bio: >-
+      Colombiano, renuncié a mi trabajo 👔 para coleccionar sonrisas alrededor del 🌍 🔹95 países 📍 Colombia🇨🇴 Mi libro 🎉 👇🏽
+    location: "Colombia"
+    followers: 686251
+    engagement: 90
+    commentsToLikes: 0.047322
+    id: ck0txvv9ako4h0i19hhtzzbwy
+    verified: true
+    hashtags: "#travel, #viajar, #colombia, #freediving"
   - username: "harvy_valencia_"
     fullname: >-
       Harvy Valencia
@@ -19,18 +31,6 @@ profiles:
     id: ck55m8su63gso0i11opns14q3
     verified: false
     hashtags: "#medellin, #tbt, #harvyvalencia, #beethoven"
-  - username: "byfieldtravel"
-    fullname: >-
-      Christian Byfield Travel
-    bio: >-
-      Colombian, quit my 👔 job, decided to collect smiles around the 🌍 🔹77 countries so far #travel 📍 Colombia 🇨🇴 My book and pics 📙👇
-    location: "Colombia"
-    followers: 327495
-    engagement: 303
-    commentsToLikes: 0.019263
-    id: ck0txvv9ako4h0i19hhtzzbwy
-    verified: true
-    hashtags: "#viajar, #colombia, #chbaroundtheworld, #yovoy"
   - username: "cristian.107"
     fullname: >-
       匚卄
@@ -47,14 +47,14 @@ profiles:
     fullname: >-
       Cristian Arango
     bio: >-
-      Contador 🎓 Especialista en finanzas 🎓 Cali - Colombia 🇨🇴
+      Colombia 🇨🇴 Contador Público 🎓 Especialista en finanzas 🎓
     location: "Colombia"
-    followers: 54931
-    engagement: 419
-    commentsToLikes: 0.023899
+    followers: 59431
+    engagement: 320
+    commentsToLikes: 0.023131
     id: ck8tc6vqoyhzc0j78e599429f
     verified: false
-    hashtags: "#instagram, #men, #guystyle, #fitnessboy"
+    hashtags: "#cuteboys, #fitnesscolombia, #latino, #calico"
   - username: "crispasquel"
     fullname: >-
       Cristian Pasquel
@@ -103,18 +103,18 @@ profiles:
     id: ck9wd2lx9dsjh0j78kb8nou5f
     verified: false
     hashtags: "#fun, #reels, #jesus, #christian"
-  - username: "madiellara"
+  - username: "el_robotico"
     fullname: >-
-      OnTheBeatBro!🇩🇴⚡️⚡️⚡️
+      ɆⱠ ⱤØ฿Ø₮ł₵Ø
     bio: >-
-      Music Producer | Artist | madiel.lara@gmail.com | Manager @arias_ykwii #MLOTB #TieneDueño 🚀 OUT NOW
+      🧠 Self Made 🎵 Music Business Expert 💡 Creative Director 🎥 Owner @robotvision_ 📲 Manager @pulsopopnews 🇳🇮 Nicaragüense
     location: "Colombia"
-    followers: 167313
-    engagement: 204
-    commentsToLikes: 0.023782
-    id: ck0w6rjwt9yja0i19ajz4xv1d
-    verified: true
-    hashtags: "#madiellara, #youtube, #gospel, #onthebeat"
+    followers: 122207
+    engagement: 148
+    commentsToLikes: 0.017920
+    id: ck5hlkoh2kdyh0i114dgo1e4j
+    verified: false
+    hashtags: "#youtube, #karolg, #badbunny, #eslabonarmado"
   - username: "danielroaart"
     fullname: >-
       Daniel Roa

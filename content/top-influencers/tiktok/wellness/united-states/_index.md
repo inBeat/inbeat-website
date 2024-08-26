@@ -1,12 +1,24 @@
 ---
-title: Top 10 Wellness TikTok Influencers In United States In 2023
+title: Top 10 Wellness TikTok Influencers In United States In 2024
 description: >-
-  Find top wellness TikTok influencers in United States in 2023. Most popular hashtags: #duet #wellness #stitch #fyp.
+  Find top wellness TikTok influencers in United States in 2024. Most popular hashtags: #duet #stitch #christiantiktok #fyp.
 platform: TikTok
-hits: 430
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 430 TikTok influencers like this in United States for you to work with.
+hits: 432
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our database has 432 TikTok influencers like this in United States for you to work with.
 profiles:
+  - username: "fitwithdawn"
+    fullname: >-
+      Dawn | PT and LifeCoach
+    bio: >-
+      ✨Positivity/Motivation👟Fitness 💪🏻Wellness 🤪Fun #mylifeonTikTok #beretlady
+    location: "United States"
+    followers: 10600
+    engagement: 3024
+    commentsToLikes: 0.701530
+    id: ckcptslsjomg90j23hh5c4bxu
+    verified: false
+    hashtags: "#welcomeback, #summermashup, #choosehappy, #quickbooksvictorypose"
   - username: "mr.tracyb"
     fullname: >-
       Tracy J. Brown
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.051751
     id: ck9kg8mrz6qif0j782z2md5hc
     verified: false
-    hashtags: "#stitch, #boys, #dating, #men"
+    hashtags: "#mentalhealth, #boys, #mentalhealthawareness, #stitch"
   - username: "catvolcy"
     fullname: >-
       cat
@@ -79,18 +91,18 @@ profiles:
     id: ckbqh07j82ecz0j233ebczm38
     verified: false
     hashtags: "#fyp, #witchtok, #pagan, #witchhumor"
-  - username: "ashleythepatriot"
+  - username: "ashleythebrandon"
     fullname: >-
       Ashley B
     bio: >-
-      Boycott Walmart shop Conservative 🇺🇸 More info about the Wellness Store 👇👇
+      Boycott Walmart shop 🇺🇸 More info about the Wellness Store 👇👇
     location: "United States"
-    followers: 31900
-    engagement: 1135
-    commentsToLikes: 0.130500
+    followers: 31700
+    engagement: 783
+    commentsToLikes: 0.092631
     id: ck8qfq0gkxv310j782ot9tkcf
     verified: false
-    hashtags: "#momsoftiktok, #biblechallenge, #momtiktok, #pupperonishuffle"
+    hashtags: "#christiancomedysquad, #videosnapchallenge, #nontoxiclifestyle, #colddays"
   - username: "lauren.as.an.esther"
     fullname: >-
       Lauren Anthony
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.092223
     id: ckbb0tjgkr8zp0j23fxmoup9l
     verified: false
-    hashtags: "#perserverance, #winningatlife, #stitch, #repost"
-  - username: "itsanewdawn4you"
-    fullname: >-
-      RN Holistic Health Coach ❤️
-    bio: >-
-      56 young/mom of five/ RN holistic health coach/health and wellness🌈
-    location: "United States"
-    followers: 11500
-    engagement: 1186
-    commentsToLikes: 0.281496
-    id: ckcoqxpct7f270j235909ff39
-    verified: false
-    hashtags: "#happymothersday, #lovemyclients, #letsdothis, #tiktokfriends"
+    hashtags: "#bodybuildingmotivation, #perserverance, #winningatlife, #stitch"
 ---

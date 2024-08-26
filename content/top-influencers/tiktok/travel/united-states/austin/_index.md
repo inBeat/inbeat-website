@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Austin In 2023
+title: Top 10 Travel TikTok Influencers In Austin In 2024
 description: >-
-  Find top travel TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #texas #austin #houston.
+  Find top travel TikTok influencers in Austin in 2024. Most popular hashtags: #texas #fyp #austin #foryou.
 platform: TikTok
 hits: 107
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: inBeat has 107 TikTok influencers like this in Austin, United States for you to pitch.
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our database has 107 TikTok influencers like this in Austin, United States for you to connect with.
 profiles:
   - username: "its_lil_lil"
     fullname: >-
@@ -43,30 +43,30 @@ profiles:
     id: ck80nq7z2dw930j78f9lz10l2
     verified: false
     hashtags: "#beardlineup, #barbershop, #foryou, #cleanfreshhype"
-  - username: "lizzkimkim"
+  - username: "aubzallday"
     fullname: >-
-      Lizz Kim Kim
+      Aubrey Ann
     bio: >-
-      🦋Fashion + Fun Local Finds🦋 IG 💖👉🏻 @lizzkimkim 💌 Lizzkimcollabs@gmail.com
+      I like drinking, cooking & boys. Texas State University Venmo: AAAubrey 22
     location: "United States"
-    followers: 47800
-    engagement: 810
-    commentsToLikes: 0.028177
-    id: ckb9fw06i4hlu0j23ex095v0q
+    followers: 49100
+    engagement: 1242
+    commentsToLikes: 0.016877
+    id: ck9r4pp20w3kz0j78pozrr993
     verified: false
-    hashtags: "#htownfoodie, #musttry, #houstonhotspots, #htown"
-  - username: "missdarko"
+    hashtags: "#fyp, #fitness, #food, #21"
+  - username: "jennyzigrino"
     fullname: >-
-      Missdarko
+      JennyZigrino
     bio: >-
-      Htx | househead 🦋 I’m funni sometimes シ 𓆏 ♎︎ ☼ ♈︎ ☾ ♍︎ ↑
+      Stand up Comedian Super star Add me on Instagram! Jennyzigrino.com
     location: "United States"
-    followers: 6781
-    engagement: 1407
-    commentsToLikes: 0.027271
-    id: ckbwmbzwf41ey0j231frb10wx
+    followers: 61000
+    engagement: 1351
+    commentsToLikes: 0.025902
+    id: ck8zazs7s3m670j78b28a88u7
     verified: false
-    hashtags: "#raves, #edm, #myhobby, #foryoupage"
+    hashtags: "#funny, #standupcomedian, #standupcomedy, #jokes"
   - username: "austinwaller"
     fullname: >-
       Austin.Waller
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.010613
     id: ck9nqg2p13jxv0j78fk68ghj2
     verified: false
-    hashtags: "#duet, #bangenergy"
+    hashtags: "#bangenergy, #duet"
   - username: "lifestylejorge"
     fullname: >-
       lifestylejorge
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.022060
     id: ckb13n3gyrnij0j234wj5d1bz
     verified: false
-    hashtags: "#lovefood, #texas, #houstoncheck, #atx"
+    hashtags: "#austineats, #sushi, #austintexas, #austintx"
   - username: "staarlite"
     fullname: >-
       Staarlite

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Venezuela In 2023
+title: Top 10 Lifestyle Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Venezuela in 2023. Most popular hashtags: #makeup #venezuela #photography.
+  Find top lifestyle Instagram influencers in Venezuela in 2024. Most popular hashtags: #reels #venezuela #fashion.
 platform: Instagram
-hits: 70
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database holds 70 Instagram influencers like this in Venezuela for you to contact.
+hits: 80
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 80 Instagram influencers like this in Venezuela for you to collaborate.
 profiles:
-  - username: "ikeoficial"
+  - username: "beautybymarthap"
     fullname: >-
-      Cesar  🔱  ike   Ⓜ️
+      Martha Patricia | Makeup Artist & Content Creator
     bio: >-
-      Piérdete Conmigo 📸 ♤ Travel | Lifestyle | Fit De Locos y Poeta, todos tenemos un Poco ♥️ Lover of the 🌎 viajero 💎 Player ♠️
+      Makeup | Beauty | Lifestyle 🦋🌸🌈 Trujillo - Florida AD/PR: beautybymarthap@gmail.com CEO: @elsalon_studio @marthapshop 💕
     location: "Venezuela"
-    followers: 13599
-    engagement: 849
-    commentsToLikes: 0.135506
-    id: ck138cyppfmu50i19cr7vx1iz
+    followers: 4516
+    engagement: 856
+    commentsToLikes: 0.064605
+    id: ck6tibv6z0fa70j710p3egnhz
     verified: false
-    hashtags: "#viajerosoy, #mochilerosporelmundo, #destinosencantados, #stylemensfashion"
+    hashtags: "#makeupinspo, #physiciansformula, #beautybymarthap, #todaysmakeup"
+  - username: "ariannapitino"
+    fullname: >-
+      piti🫀
+    bio: >-
+      💫’97 en este perfil creamos contenido .. y hacemos mucho spam🌄 lifestyle | crossfit🏋🏻 | nature | beach veneca🇻🇪
+    location: "Venezuela"
+    followers: 100595
+    engagement: 573
+    commentsToLikes: 0.014012
+    id: ck0tw1ckedlh80i19e0e7a89q
+    verified: false
+    hashtags: "#peace, #ad, #cerro, #lifestyleblogger"
+  - username: "cuidartesamarte"
+    fullname: >-
+      Andria Viloria Lubo
+    bio: >-
+      ✨creadora @nyotaskin 🌈holistic health coach 🦋lifestyle, skincare, travel, self-care
+    location: "Venezuela"
+    followers: 190846
+    engagement: 564
+    commentsToLikes: 0.016536
+    id: ck5c6oaaa5ur00i11e4weo1ma
+    verified: false
+    hashtags: "#perfumes, #scentoftheday, #makeup, #consejodehermanamayor"
   - username: "valeriajmnez"
     fullname: >-
       Valeria | FASHION & LIFESTYLE
     bio: >-
       🤍🧿 CONTENT CREATOR De aquí y de todas partes 🇻🇪 - ✨ @valua.shop Lifestyle | skin care | fashion | work
     location: "Venezuela"
-    followers: 23950
-    engagement: 296
-    commentsToLikes: 0.023245
+    followers: 23846
+    engagement: 275
+    commentsToLikes: 0.032461
     id: ck5hne753nmoc0i11vmnnj8b9
     verified: false
-    hashtags: "#ad, #competeapp, #famecrashfun, #challenges"
-  - username: "soniassabati"
+    hashtags: "#shooting, #fluye, #lifestyle, #vibes"
+  - username: "nhabyg"
     fullname: >-
-      S O N I A  A S S A B A T I
+      NHABYLA SIMONETTE
     bio: >-
-      🧿 Fashion & Lifestyle ⭐️ Brilla con luz propia 📩 Soniassabati4@hotmail.com NUEVO VIDEO🌈👇🏽
+      Content Creator Fashion, decor, food, travel & lifestyle blogger # EfectoNhaby @inwears
     location: "Venezuela"
-    followers: 6498
-    engagement: 848
-    commentsToLikes: 0.039435
-    id: ckap49kbx6cyq0i78jlt8rz5q
+    followers: 168796
+    engagement: 239
+    commentsToLikes: 0.009151
+    id: ck0tuopg881ee0i192txrnvll
     verified: false
-    hashtags: "#travel, #friends, #bloggerlife, #fashionblogger"
-  - username: "edwinrphoto"
+    hashtags: "#oneandonly, #mexico, #miaminights, #losroques"
+  - username: "victoriavalentinaf"
     fullname: >-
-      EDWIN RAMOS
+      Victoria Valentina Acosta Farias
     bio: >-
-      Portrait - Fashion - Lifestyle 📸Sesiones al DM📩 📍Valencia-Venezuela
+      @calypsoshopve | cuenta de respaldo @victoriavalentinafa Model - Gym Girl - Content Creator Lifestyle, Fashion, Beauty, Workouts & Fitness
     location: "Venezuela"
-    followers: 10796
-    engagement: 532
-    commentsToLikes: 0.072743
-    id: ck55lgk1g1ijx0i11mysfzi1g
+    followers: 524339
+    engagement: 234
+    commentsToLikes: 0.010737
+    id: ck0vw12u3rmlz0i191ajm5tmc
     verified: false
-    hashtags: "#retouching, #studio, #photoshoot, #retouchingacademy"
-  - username: "adriantphoto"
+    hashtags: "#workout, #fitnessmotivation, #fitness, #gym"
+  - username: "arymachadofit"
     fullname: >-
-      Adrian Torres
+      ARYFIT
     bio: >-
-      🙎🏻‍♂️Portrait 💃🏻Lifestyle 🕺🏽Editorial 📍Caracas,Venezuela #portrait
+      venezolana | fitness Coach 🦋 me apasiona motivar 🌿 healthy lifestyle workout w me ↓
     location: "Venezuela"
-    followers: 6227
-    engagement: 584
-    commentsToLikes: 0.078721
-    id: ck6ubvaxcbwtg0j7173j9zprq
+    followers: 190936
+    engagement: 136
+    commentsToLikes: 0.016279
+    id: ck15s3gdcb11n0i19dg70fdvh
     verified: false
-    hashtags: "#quedateencasa, #fotosadistancia, #blackoutuesday, #blackouttuesday"
-  - username: "den_jara"
+    hashtags: "#motivate, #teamaryfit, #teamdelasbellas, #conamor"
+  - username: "thayenvalbuena"
     fullname: >-
-      DENIA JARA• CR🥾
+      Thayen Valbuena
     bio: >-
-      Hiking•Outdoor lifestyle ✨Lost in this paradise 🇨🇷🥾⛰ ✨Contrataciones👩🏻‍🎨 @deniajaramakeup 🌸Hasta donde mis pies puedan llegar🌸🥰
+      Lifestyle, Makeup&Beauty Directora de @Makeupbyth💄 TV Host de @doblementemama🖥️ Nominada #premiospepsimusic2019 Makeupbyth@gmail.com +VIDA-VIOLENCIA🎀
     location: "Venezuela"
-    followers: 11782
-    engagement: 696
-    commentsToLikes: 0.145706
-    id: ck5hi4lo9bmhw0i11f3o5t4e3
+    followers: 478494
+    engagement: 130
+    commentsToLikes: 0.273193
+    id: ck135dshg0y300i191qcb5768
     verified: false
-    hashtags: "#adventureeverywhere, #outdoorwomen, #beautifuldestinations, #guatemala"
-  - username: "cuidartesamarte"
+    hashtags: "#lady, #dolcebellamakeup, #makeupprofessional, #beauty"
+  - username: "nayliarcaya"
     fullname: >-
-      Andria Viloria Lubo
+      Nayli Arcaya
     bio: >-
-      Holistic Health coach ✨🌈🦋🧖🏽‍♀️🥰 Inspirando Bienestar a través del amor Shop @nyotaskin lifestyle, skincare, wellness, travel, self-care
+      ⚡️BEAUTY & LIFESTYLE CONTENT 📩 Contact: nayliarcaya@gmail.com ⬇️Otras redes sociales
     location: "Venezuela"
-    followers: 110367
-    engagement: 410
-    commentsToLikes: 0.139324
-    id: ck5c6oaaa5ur00i11e4weo1ma
+    followers: 47577
+    engagement: 76
+    commentsToLikes: 0.249001
+    id: ck6ti45jb005b0j71gdzw0lcc
     verified: false
-    hashtags: "#cuidartesamarte, #makeup, #skincare, #24"
-  - username: "ivanjphoto"
+    hashtags: "#alimentacionsaludable, #lipstick, #makeuptrend, #curacao"
+  - username: "janinbarboza"
     fullname: >-
-      IVÁN OLIVARES 📸
+      Janin Barboza
     bio: >-
-      📍 Miami, FL Lifestyle | Artist | Liveshows | Fashion | Brands 👤 @ivanjolivaresj 22• 🇻🇪
+      Lifestyle sin manual Creadora de #aprendecomojanin Organizo Experiencias: etiqueta y protocolo 👩🏻‍🍳 Cocina, moda 🇪🇸 Madrid Healing Vzla Ambassador
     location: "Venezuela"
-    followers: 56673
-    engagement: 262
-    commentsToLikes: 0.036099
-    id: ck5ces3opllr30i11b8l93530
+    followers: 882551
+    engagement: 41
+    commentsToLikes: 0.040509
+    id: ck5q3j0n0kyn80i11h4gxn4za
     verified: false
-    hashtags: "#depg13atriplex, #brickell, #miami, #photoshoot"
-  - username: "pedrojose_ph"
-    fullname: >-
-      Pedro José
-    bio: >-
-      #Beauty / #lifestyle / #fashioneditorials ♞: Comunicador Visual - @Bl.Book 📍: Caracas, VE. 📩: pedrojsm1@gmail.com
-    location: "Venezuela"
-    followers: 5646
-    engagement: 492
-    commentsToLikes: 0.039540
-    id: ck6ubvbv6bx0k0j71byvcmptf
-    verified: false
-    hashtags: "#mexico, #picoftheday, #editorialfashion, #modaespa"
-  - username: "lacocolstyle"
-    fullname: >-
-      L A C O C O L
-    bio: >-
-      Nicole S. Fashion, lifestyle & spots. Venezuela || Lebanon
-    location: "Venezuela"
-    followers: 14376
-    engagement: 454
-    commentsToLikes: 0.041892
-    id: ck5ckc6giwklf0i11absol9kt
-    verified: false
-    hashtags: "#lacocol, #venezuela, #moda, #caracas"
+    hashtags: "#madridblogger, #nuevovideo, #aventura, #modalesenlamesa"
 ---

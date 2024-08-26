@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Argentina In 2023
+title: Top 10 Rappers Instagram Influencers In Argentina In 2024
 description: >-
-  Find top rappers Instagram influencers in Argentina in 2023. Most popular hashtags: #rap #rapper #trap #freestyle.
+  Find top rappers Instagram influencers in Argentina in 2024. Most popular hashtags: #rap #rapper #trap #freestyle.
 platform: Instagram
-hits: 18
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 18 Instagram influencers like this in Argentina for you to work with.
+hits: 19
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database has 19 Instagram influencers like this in Argentina for you to connect with.
 profiles:
   - username: "emanero"
     fullname: >-
@@ -83,14 +83,14 @@ profiles:
     fullname: >-
       CLIPPER •Josefina Tomás A
     bio: >-
-      Actríz, rapera. Host, conductora en @redbullbatalla 🇺🇾 Mgmt: clipper@cpmu.com.uy 🌱 🔥 Nos vemos en twitch? 🔥- ⬇️⬇️⬇️
+      Actríz, rapera. Host, conductora en @redbullbatalla 🇺🇾 Creadora y conductora de @zoom.city por @urbana92.5 Mgmt: clipper@cpmu.com.uy 🌱 🔥BANG 25⬇️
     location: "Argentina"
-    followers: 30702
-    engagement: 378
-    commentsToLikes: 0.025291
+    followers: 31027
+    engagement: 250
+    commentsToLikes: 0.025702
     id: ck5hg2skg0mow0i11d5emcxjw
     verified: false
-    hashtags: "#soundcloud, #rapera, #teamgalaxy, #rapuruguayo"
+    hashtags: "#musician, #hiphop, #musica, #art"
   - username: "londramystarr__"
     fullname: >-
       

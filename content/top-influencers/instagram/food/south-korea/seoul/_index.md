@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food Instagram Influencers In Seoul In 2023
+title: Top 10 Food Instagram Influencers In Seoul In 2024
 description: >-
-  Find top food Instagram influencers in Seoul in 2023. Most popular hashtags: #foodie #food #ootd.
+  Find top food Instagram influencers in Seoul in 2024. Most popular hashtags: #ootd #seoul #food.
 platform: Instagram
-hits: 11
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 11 Instagram influencers like this in Seoul, South Korea for you to pitch.
+hits: 13
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 13 Instagram influencers like this in Seoul, South Korea for you to collaborate.
 profiles:
   - username: "cosyfoxes"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck14h7azn8w8w0i19d86bnpub
     verified: false
     hashtags: "#seoul, #valentinstag, #mamablog, #seoulmom"
+  - username: "jovanepjy"
+    fullname: >-
+      Jovane 彭嘉伊
+    bio: >-
+      actress • model • content creator for work : +60 11-1191 7370 (Sandy) Food Hunting in Seoul Vlog 🇰🇷
+    location: "South Korea"
+    followers: 569070
+    engagement: 362
+    commentsToLikes: 0.002526
+    id: ck5ci51zns1b50i11n7r9ph6w
+    verified: false
+    hashtags: "#macau, #seoulkorea, #opporeno12series5g, #mjdaisy"
   - username: "bubminji"
     fullname: >-
       Minji’s foodstagram
@@ -43,6 +55,30 @@ profiles:
     id: ck5hk4lpyhs0x0i11p2nk5lrx
     verified: false
     hashtags: "#blacklivesmatter, #noir, #thanku, #me"
+  - username: "ssoyoung_mukbang"
+    fullname: >-
+      Ssoyoung 먹방🍖
+    bio: >-
+      📍 Seoul, Korea (대한민국) 🎥 쏘영 Ssoyoung ASMR Mukbang 👥 9M+ YouTube Buddies ✉️ ssoyoung@alohamedia.co.kr
+    location: "South Korea"
+    followers: 125198
+    engagement: 252
+    commentsToLikes: 0.007598
+    id: ck8t3m7243pg90j78anwfycvz
+    verified: false
+    hashtags: "#mukbang, #seafood, #cheesefondue, #eat"
+  - username: "hyoooooni_"
+    fullname: >-
+      효니 HYONI ヒョニ 🩷
+    bio: >-
+      SEOUL & TOKYO 🇯🇵 #효니_도쿄놀이 - - 협업 및 문의: DM • F&B Director @minute.papillon.official • Trip Cafe food : Photographer
+    location: "South Korea"
+    followers: 36876
+    engagement: 184
+    commentsToLikes: 0.027898
+    id: ck136eit363lp0i197q4qcme7
+    verified: false
+    hashtags: "#aufglet, #tokyo, #japan, #tokyofood"
   - username: "jl_yoojin"
     fullname: >-
       장유진👩🏽라미엄마
@@ -55,6 +91,18 @@ profiles:
     id: ck5hlvis4kxvr0i11qlz27xvf
     verified: false
     hashtags: "#mlbcrew, #mlb, #mlbkorea"
+  - username: "yyunwoody"
+    fullname: >-
+      김윤우/한식전공
+    bio: >-
+      행복을 요리하는 #요리사 #한식조리 전공 #Traveler ~ ing ✈️ 🇰🇷🇺🇸🇻🇳🇸🇬🇭🇰🇹🇼🇲🇴 🛒 Market : #하남미사 롯데캐슬헤븐시티 #롯데프레시 🍗 Food : 하남 #미사역 #HOchicken #호치킨 운영
+    location: "South Korea"
+    followers: 97336
+    engagement: 124
+    commentsToLikes: 0.013667
+    id: ckap9pwe7t6670i78ne9czu8f
+    verified: false
+    hashtags: "#dyson, #dysonhair, #flyawaynozzle, #ballantines30yoritualkit"
   - username: "eid.halal.korea"
     fullname: >-
       EID Halal 🇰🇷 Food
@@ -67,18 +115,6 @@ profiles:
     id: ck55o92gp7vtz0i11uyycy1ax
     verified: false
     hashtags: ""
-  - username: "ssoyoung_mukbang"
-    fullname: >-
-      Ssoyoung 먹방🍖
-    bio: >-
-      📍 Seoul, Korea (대한민국) 🎥 쏘영 Ssoyoung ASMR Mukbang 👥 5M+ YouTube Buddies ✉️ show.whyofficial@gmail.com 👇 Check out my Youtube
-    location: "South Korea"
-    followers: 100408
-    engagement: 265
-    commentsToLikes: 0.011086
-    id: ck8t3m7243pg90j78anwfycvz
-    verified: false
-    hashtags: "#sounds, #asmreating, #eatingchallenge, #youtuber"
   - username: "bingleytheboston"
     fullname: >-
       Bingley
@@ -91,40 +127,4 @@ profiles:
     id: ck15thj8zi3uo0i19w6m9novq
     verified: false
     hashtags: "#rescuedoglove, #manitoba, #frenchbulldog, #dogmodel"
-  - username: "hyoooooni_"
-    fullname: >-
-      주 현
-    bio: >-
-      F&B Contents PD - •FOOD @hyonisekki_ •new vlog comming soon
-    location: "South Korea"
-    followers: 24401
-    engagement: 399
-    commentsToLikes: 0.018719
-    id: ck136eit363lp0i197q4qcme7
-    verified: false
-    hashtags: "#bootcafe, #lp, #jeju, #hyoni"
-  - username: "sssuerose"
-    fullname: >-
-      로즈의 진지한 카페투어
-    bio: >-
-      카페투어 홈카페 cafetour homecafe❣️ 자세한 정보는 네이버블로그 참고해주세요.
-    location: "South Korea"
-    followers: 103218
-    engagement: 350
-    commentsToLikes: 0.020777
-    id: ck0vx73i5xh0b0i19lz3cof5o
-    verified: false
-    hashtags: "#rose, #seoulcafe, #homecafe, #icecream"
-  - username: "_jay_1218_"
-    fullname: >-
-      Univ. of Seoul - Economics🎓
-    bio: >-
-      맛집, 카페, 뷰티, 패션 광고주님들 DM주세요✨
-    location: "South Korea"
-    followers: 11719
-    engagement: 429
-    commentsToLikes: 0.012656
-    id: ckaovx6id6hf90i78go2c1edg
-    verified: false
-    hashtags: "#like4like, #likeforlike, #food, #ad"
 ---

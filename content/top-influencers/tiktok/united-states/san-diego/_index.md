@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In San Diego In 2023
+title: Top 10 TikTok Influencers In San Diego In 2024
 description: >-
-  Find top TikTok influencers in San Diego in 2023. Most popular hashtags: #greenscreen #foryou #stitch #fyp.
+  Find top TikTok influencers in San Diego in 2024. Most popular hashtags: #greenscreen #foryou #fyp #stitch.
 platform: TikTok
-hits: 531
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 531 TikTok influencers like this in San Diego, United States for you to pitch.
+hits: 529
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our database has 529 TikTok influencers like this in San Diego, United States for you to work with.
 profiles:
   - username: "ericmontanez"
     fullname: >-

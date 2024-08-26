@@ -1,12 +1,96 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Argentina In 2023
+title: Top 10 Bloggers Instagram Influencers In Argentina In 2024
 description: >-
-  Find top bloggers Instagram influencers in Argentina in 2023. Most popular hashtags: #style #fashionblogger #love.
+  Find top bloggers Instagram influencers in Argentina in 2024. Most popular hashtags: #travel #fashionblogger #travelblogger.
 platform: Instagram
-hits: 104
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 104 Instagram influencers like this in Argentina for you to collaborate.
+hits: 100
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 100 Instagram influencers like this in Argentina for you to contact.
 profiles:
+  - username: "demayorquierosermochilera"
+    fullname: >-
+      De mayor quiero ser mochilera
+    bio: >-
+      🌍 Mochileros | Bloggers de Viajes 🚐 Recorriendo América en camper 📍Bolivia 🇧🇴 👇 Nuestro blog y descuentos:
+    location: "Argentina"
+    followers: 96140
+    engagement: 609
+    commentsToLikes: 0.065573
+    id: clr4hjf47npsj0k0897m7yj9n
+    verified: false
+    hashtags: "#ilovetravel, #cascadas, #travel, #pirineusbarcelona"
+  - username: "steffischouten"
+    fullname: >-
+      Steffi Schouten
+    bio: >-
+      Helloo! 👋🏼 soy abogada • emprendedora • lifestyle blogger ✈️ amo la vida y más cuando viajo 🌍 owner @weareus.py & @avenuepy 🤍
+    location: "Argentina"
+    followers: 50054
+    engagement: 500
+    commentsToLikes: 0.019244
+    id: ckap82is4mjlb0i78js056nat
+    verified: false
+    hashtags: "#26, #recetassaludables, #grwm"
+  - username: "daniellefclyde"
+    fullname: >-
+      Danielle Clyde
+    bio: >-
+      Queen D | Mom&blogger | egocéntrica por naturaleza | TV Host @amazonmusicmx | Arquitecto
+    location: "Argentina"
+    followers: 539896
+    engagement: 162
+    commentsToLikes: 0.009101
+    id: ck0tw6ht1e8eo0i19lkt2gj3q
+    verified: true
+    hashtags: "#siemprecontigoacapulco, #barbielatam, #abiertotelcel, #barbierbd"
+  - username: "katymenocal"
+    fullname: >-
+      Katy Menocal
+    bio: >-
+      Beauty & make up blogger/vlogger💄💋 Me gustan los años viejos ❤️ Tiktok +500K 🫰🏻 Mexicanita 🌵 Katymenocal@outlook.com
+    location: "Argentina"
+    followers: 87179
+    engagement: 144
+    commentsToLikes: 0.019169
+    id: ck15radam6y5i0i19amxvv4k3
+    verified: false
+    hashtags: "#vintage, #pinupstyle, #pinupmexicana, #lifestyle"
+  - username: "thechaosdiaries"
+    fullname: >-
+      Alicia Cooper
+    bio: >-
+      🧚‍♀️ UK travel blogger & photographer 🍃 Itineraries, travel tips and magical places 💌 alicia@thechaosdiaries.com ↓ Check out my travel guides ↓
+    location: "Argentina"
+    followers: 293895
+    engagement: 134
+    commentsToLikes: 0.044873
+    id: cled1hfw4r3xq0j088lxt9ya0
+    verified: false
+    hashtags: "#mexico, #darlingescape, #bayofkotor, #discovertheglobe"
+  - username: "titinavaz"
+    fullname: >-
+      adriana vazquez
+    bio: >-
+      -TITI - Lawyer & Fashion Blogger 📍Buenos Aires 🇦🇷 //@longines Friend of the Brand//
+    location: "Argentina"
+    followers: 164818
+    engagement: 83
+    commentsToLikes: 0.050244
+    id: ck0w30qs3r1si0i19uesyn1ji
+    verified: false
+    hashtags: "#galaxyzflip4, #hairstyle, #diamundialdelapapafrita, #repairforce"
+  - username: "srita_mendez"
+    fullname: >-
+      Srita Méndez
+    bio: >-
+      🌍Travel Blogger | Travel Advisor 🗺64 countries ✈️Journeying the World 📍Dubai 💼Expert in Visas & Travel Tips 📧Collabs: sritamendez.pr@gmail.com
+    location: "Argentina"
+    followers: 50834
+    engagement: 52
+    commentsToLikes: 0.012882
+    id: ck8t5wnkvbhnz0j78nzoluike
+    verified: false
+    hashtags: "#citycheckin, #googlemaps, #sunscapecuracao, #disneycelebration"
   - username: "franchubavio"
     fullname: >-
       Pancha Bavio
@@ -18,19 +102,7 @@ profiles:
     commentsToLikes: 0.019272
     id: ck0w305eeqywk0i19fv88xz2p
     verified: false
-    hashtags: "#palermoba, #palermo, #blogger, #fashion"
-  - username: "soyladyganga"
-    fullname: >-
-      María José Castro
-    bio: >-
-      💸 Shopping blogger 🛍 Datos, manualidades ✂️ y limpieza 🧹. Conductora y productora de podcast en @amikascl 🎧. Tía orgullosa ✌🏻 Libro📚 acá 👇🏼
-    location: "Argentina"
-    followers: 116971
-    engagement: 600
-    commentsToLikes: 0.029251
-    id: ck15so177dyp70i19clc63cub
-    verified: false
-    hashtags: "#magistralchile, #magistral100mas, #advientodeofertas, #tradiciondo"
+    hashtags: "#style, #palermo, #streetstyle, #blogger"
   - username: "viajandoconvero_"
     fullname: >-
       Veronica Weffer
@@ -42,7 +114,7 @@ profiles:
     commentsToLikes: 0.028286
     id: ck5hoii5hpmk50i11mr22tgt8
     verified: false
-    hashtags: "#party, #youtuber, #playa, #travel"
+    hashtags: "#vzla, #party, #bikini, #roques"
   - username: "zetadouka"
     fullname: >-
       Zeta Douka
@@ -55,76 +127,4 @@ profiles:
     id: ck0tz0oe0oogy0i196i2mr63h
     verified: false
     hashtags: "#motheranddaughter, #love, #thalia, #eimasteoloimazi"
-  - username: "katymenocal"
-    fullname: >-
-      Katy Menocal
-    bio: >-
-      Beauty & make up blogger/vlogger💄💋 Pin Up Model 🍒 Mexicanita 🌵 #katyps #katymenocal Visita mi canal de Youtube 👇 Katymenocal@outlook.com
-    location: "Argentina"
-    followers: 31069
-    engagement: 414
-    commentsToLikes: 0.023254
-    id: ck15radam6y5i0i19amxvv4k3
-    verified: false
-    hashtags: "#vintagestyle, #pinupstyle, #pinupclothing, #pinupmexicana"
-  - username: "allorafashion"
-    fullname: >-
-      Cecilia | Mis looks
-    bio: >-
-      Fashion Style Travel blogger | Mom @allorafashionclosetsale 🇦🇷 Based in 🇵🇦 I #alloratravels Collabs:allorafashion77@gmail.com
-    location: "Argentina"
-    followers: 10693
-    engagement: 256
-    commentsToLikes: 0.112273
-    id: ck0w5nevx4ien0i19aa7jpz1a
-    verified: false
-    hashtags: "#nike, #fashion, #trends, #allorastyletrends"
-  - username: "sohotsomealex"
-    fullname: >-
-      ALEXA CAROLINA
-    bio: >-
-      RARA!🙋🏼 Content Creator, Movie Geek, Fashion Blogger, Writer & Producer @ So Hot, So Me + @lunaenpiscispa 🔥+ TV Host @jeloutvn⚡️ CURSOS/THE CLASSES👇🏽
-    location: "Argentina"
-    followers: 340233
-    engagement: 165
-    commentsToLikes: 0.010120
-    id: ck5cenorclckt0i11vq1a1z03
-    verified: true
-    hashtags: "#texture, #art, #lavainacomoes, #veranoenpanama"
-  - username: "yoanadon"
-    fullname: >-
-      YOANA DON ⚡️Miss | Model
-    bio: >-
-      • Modelo ~ Miss Mundo Argentina ‘14 • Beauty ~ Fashion Blogger 🎬 • Lawyer, Notary & Journalist • Miss International ‘16 - Miss Grand ‘17 • ✈️
-    location: "Argentina"
-    followers: 25785
-    engagement: 208
-    commentsToLikes: 0.019144
-    id: ck5hcfk6ghtdd0i11gw7yhu54
-    verified: false
-    hashtags: ""
-  - username: "carles_castillejo"
-    fullname: >-
-      Carles
-    bio: >-
-      🏃Atleta olímpico. Maratoniano (2h10') Personal coach Patrocinado por Adidas y sponsorizado por Stryd ✏ Blogger 🏃AR Barcelona Captain .
-    location: "Argentina"
-    followers: 33971
-    engagement: 425
-    commentsToLikes: 0.016173
-    id: ck5c0gpdut3pg0i11sc9upqfg
-    verified: true
-    hashtags: "#coach, #adizeroadiospro, #igrunners, #correr"
-  - username: "paconadal"
-    fullname: >-
-      Paco Nadal
-    bio: >-
-      Especializado en viajes y naturaleza Travel blogger & filmmaker @elviajero_elpais #paconadal
-    location: "Argentina"
-    followers: 39297
-    engagement: 301
-    commentsToLikes: 0.057160
-    id: ck14hpvyrbjbh0i1939smkmpt
-    verified: true
-    hashtags: "#caminoingle, #porlomenosunavezenlavida, #ganasdecamino, #ourense"
 ---

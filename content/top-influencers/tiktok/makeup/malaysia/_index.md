@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Malaysia In 2023
+title: Top 10 Makeup TikTok Influencers In Malaysia In 2024
 description: >-
-  Find top makeup TikTok influencers in Malaysia in 2023. Most popular hashtags: #fyp #foryou #foryoupage #makeup.
+  Find top makeup TikTok influencers in Malaysia in 2024. Most popular hashtags: #fyp #foryou #duet #foryoupage.
 platform: TikTok
 hits: 13
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 13 TikTok influencers like this in Malaysia for you to contact.
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 13 TikTok influencers like this in Malaysia for you to pitch.
 profiles:
   - username: "parameswaransivakumar"
     fullname: >-

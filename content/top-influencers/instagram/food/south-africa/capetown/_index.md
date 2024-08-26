@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food Instagram Influencers In Capetown In 2023
+title: Top 10 Food Instagram Influencers In Capetown In 2024
 description: >-
-  Find top food Instagram influencers in Capetown in 2023. Most popular hashtags: #food #capetown #love #southafrica.
+  Find top food Instagram influencers in Capetown in 2024. Most popular hashtags: #food #capetown #cooking #southafrica.
 platform: Instagram
-hits: 6
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 6 Instagram influencers like this in Capetown, South Africa for you to connect with.
+hits: 7
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database has 7 Instagram influencers like this in Capetown, South Africa for you to work with.
 profiles:
   - username: "daniella_thibault"
     fullname: >-
@@ -19,6 +19,42 @@ profiles:
     id: ck5zm4eyblvn20i149l5nh9oa
     verified: false
     hashtags: "#beauty, #capetown, #2021, #virgo"
+  - username: "neillanthony"
+    fullname: >-
+      Neill Anthony
+    bio: >-
+      Virtual diary of the private chef around the world 🌎... www.neillanthony.com
+    location: "South Africa"
+    followers: 31152
+    engagement: 264
+    commentsToLikes: 0.043460
+    id: ck5znyge0peao0i14kglzwm3b
+    verified: false
+    hashtags: "#capetown, #privatechef, #privatechefneillanthony, #foodnetwork"
+  - username: "syngin_colchester"
+    fullname: >-
+      Syngin
+    bio: >-
+      All about love,nature,animals and enriching the soul. Reality tv 90daysfiance 🇿🇦🇿🇦🇿🇦🇿🇦🇿🇦 proudly south african
+    location: "South Africa"
+    followers: 281378
+    engagement: 145
+    commentsToLikes: 0.052403
+    id: ck6txx8mb0dsw0j71rnibvfgk
+    verified: false
+    hashtags: "#tlc, #explore, #vacation, #90dayfiancehappilyeverafter"
+  - username: "drizzleanddip"
+    fullname: >-
+      Sam Linsell
+    bio: >-
+      Delicious recipes | Cooking & Baking | Food stories | cookbook author | Food photographer & food stylist | Recipe developer | Teaching you to cook
+    location: "South Africa"
+    followers: 67853
+    engagement: 102
+    commentsToLikes: 0.038193
+    id: ck5zryynlxii60i14ronnukt6
+    verified: false
+    hashtags: "#foodstyling, #appetizers, #provinciallife, #makemoments"
   - username: "olivermatthieu"
     fullname: >-
       Oliver Matthieu
@@ -31,42 +67,6 @@ profiles:
     id: ck15pkwu6ye0b0i19o3n9yx4s
     verified: false
     hashtags: "#childmodel, #friendship, #boy, #schoolboy"
-  - username: "jessleebuchanan"
-    fullname: >-
-      ☾ Jess ☾
-    bio: >-
-      📍Cape Town •South African 🇿🇦 ✌🏽 • @terramama_tiedye •Collabs: jesslee.collab@gmail.com •One half of @thetittylickers_ 🤘🏽
-    location: "South Africa"
-    followers: 643256
-    engagement: 274
-    commentsToLikes: 0.007092
-    id: ck0u11lxfvg9k0i19j0yt77tt
-    verified: false
-    hashtags: "#summer, #sunshine, #beach, #capetown"
-  - username: "neillanthony"
-    fullname: >-
-      Neill Anthony
-    bio: >-
-      Virtual diary of the private chef in Cape Town and around the world 🌎... www.neillanthony.com
-    location: "South Africa"
-    followers: 22816
-    engagement: 336
-    commentsToLikes: 0.040738
-    id: ck5znyge0peao0i14kglzwm3b
-    verified: false
-    hashtags: "#food, #royallivekitchen, #lockdown, #privatechef"
-  - username: "bridge5m"
-    fullname: >-
-      Bridget Marshall
-    bio: >-
-      Travel | Lifestyle | Foodie | Fashion 🌍 The World is My Backyard ✉️ bridgemarshall@gmail.com 👩🏼‍💻 Owner - @travelb_comeflywithme
-    location: "South Africa"
-    followers: 40798
-    engagement: 348
-    commentsToLikes: 0.018808
-    id: ckapa21m1uebh0i78996apdj4
-    verified: false
-    hashtags: "#food, #holiday, #photooftheday, #smile"
   - username: "pashapilates"
     fullname: >-
       Pasha's Pilates 🇿🇦
@@ -79,52 +79,52 @@ profiles:
     id: ck6trxxay1pkr0j71e8dr7e73
     verified: false
     hashtags: "#glutes, #fitnessmotivation, #fitgirlworkout, #corestability"
-  - username: "fehmz"
+  - username: "kaminipather"
     fullname: >-
-      Fehmz
+      Kamini Like Harmony
     bio: >-
-      Sharing my life adventure with you Lifestyle | Travel | Food | Plus+ Go to > www.fehmz.com JHB, ZA 🇿🇦 #southafrica @halaalgoodsmarket @fehmzmocktails
+      Host of #GirlEatWorldTV @Netflix @MasterChef_SA winner S2 @nutritionschool certified Nutrition & Health Coach Runner. Dog-person.
     location: "South Africa"
-    followers: 125944
-    engagement: 313
-    commentsToLikes: 0.015450
-    id: ck0w6espr882r0i19xmu3iovq
+    followers: 37230
+    engagement: 89
+    commentsToLikes: 0.050337
+    id: ckaost6k2szaw0i78ocytqyhn
+    verified: true
+    hashtags: "#wine, #run, #cooking, #runrunrun"
+  - username: "funfoodrecipeworld"
+    fullname: >-
+      Shema's Kitchen
+    bio: >-
+      Food Blogger Recipe Creator 🫰🏻 #shemaskitchen cookbook Dm for Collab/PR❤️ 📍South Africa 🇿🇦 originally from 🇮🇳
+    location: "South Africa"
+    followers: 72537
+    engagement: 433
+    commentsToLikes: 0.037749
+    id: ck9wgfsx6t89h0j789b86ifdl
     verified: false
-    hashtags: "#fehmzsavoury, #cooking, #fehmzsweet, #fehmz"
+    hashtags: "#eidaladha, #desserts, #ramadan, #foodphotography"
   - username: "diariesofanislandergirl"
     fullname: >-
-      ZAINAH | LIFESTYLE BLOGGER
+      𝘇 𝗮 𝗶 𝗻 𝗮 𝗵  ✨
     bio: >-
-      📍 Mauritian 🇲🇺 ♡ owner @_mocouture_ ♡ bookworm @diariesofabooknerd ♡ beauty - skincare - food - fashion ♡ Join my group ‘Lady Loves’ on Facebook!👇
+      ✧ food • skincare • makeup • lifestyle 🇲🇺 ✧ shop @_mocouture_ ✧ book acc @diariesofabooknerd ✧ other links ⤵
     location: "South Africa"
-    followers: 10575
-    engagement: 612
-    commentsToLikes: 0.018917
+    followers: 12565
+    engagement: 439
+    commentsToLikes: 0.016002
     id: ck5hqose9tghk0i11u4gxah0n
     verified: false
-    hashtags: "#mauritianblogger, #maurice, #mauritius, #lifestyleblogger"
-  - username: "michelle_vanessaa_"
+    hashtags: "#realmagic, #cokefoodfestival, #larocheposay, #diariesofanislandergirl"
+  - username: "chef_amakaa"
     fullname: >-
-      Michelle Vanessa
+      Chiamaka Nwakalor-Egemba
     bio: >-
-      Miami🏝TV Host🎤Food & Travel Critic🍴✈️ Nicaraguan 🇳🇮 German 🇩🇪 African American 🇺🇸Meme Addict 😆 Dog Lover 🐾 Old Fashion with a Modern Twist
+      I express food uniquely to promote African Heritage, improve wellness &connect people Owner @dishlafrique @chowwithamaka @dlafoodstore @bamwellness_
     location: "South Africa"
-    followers: 30778
-    engagement: 465
-    commentsToLikes: 0.120945
-    id: ck6tqe91vqy2q0j71tv5jm53n
+    followers: 82961
+    engagement: 356
+    commentsToLikes: 0.037897
+    id: cllrlxcri1ov40j08bu7d1t57
     verified: false
-    hashtags: "#miami, #heels, #travel, #wanderlust"
-  - username: "nicola_duplessis"
-    fullname: >-
-      Nicola Tila Du Plessis
-    bio: >-
-      Owner&Director: @acemodels_atlanticseaboard MODEL | Face of @sandybclub @thebayhotel | Foodpage: @nicolascreation BRAND AMBASSADOR: @amazinghairsa
-    location: "South Africa"
-    followers: 27191
-    engagement: 373
-    commentsToLikes: 0.176095
-    id: ck14gy3zw7l6g0i19peitarc2
-    verified: false
-    hashtags: "#casting, #amen, #tomanymoretogether, #108kloofstreet"
+    hashtags: "#gettoknowme, #jollofwithonga, #zflip5, #zobodrink"
 ---

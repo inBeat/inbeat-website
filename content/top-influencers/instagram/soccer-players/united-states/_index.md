@@ -1,12 +1,96 @@
 ---
-title: Top 10 Soccer-Players Instagram Influencers In United States In 2023
+title: Top 10 Soccer-Players Instagram Influencers In United States In 2024
 description: >-
-  Find top soccer-players Instagram influencers in United States in 2023. Most popular hashtags: #mkot #lesbianstyles #love.
+  Find top soccer-players Instagram influencers in United States in 2024. Most popular hashtags: #family #smile #friends.
 platform: Instagram
-hits: 175
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 175 Instagram influencers like this in United States for you to work with.
+hits: 188
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 188 Instagram influencers like this in United States for you to work with.
 profiles:
+  - username: "nikkiguti7"
+    fullname: >-
+      Nikki Stanton
+    bio: >-
+      Professional soccer player for the @olreign #7❤️⚽️ @hochbergsm Costco Executive member 💙
+    location: "United States"
+    followers: 44614
+    engagement: 469
+    commentsToLikes: 0.011210
+    id: ck0tt5vt51ao60i196la738k5
+    verified: false
+    hashtags: "#boats, #lexi, #you, #are"
+  - username: "daniweatherholt"
+    fullname: >-
+      Dani Weatherholt
+    bio: >-
+      Pro Soccer Player | @Adidas Athlete | @voiceinsport Mentor All Inquiries- Email below
+    location: "United States"
+    followers: 31972
+    engagement: 447
+    commentsToLikes: 0.021180
+    id: ck5qe401bylpf0i11r3kq7rs8
+    verified: true
+    hashtags: "#soccer, #golf, #weatherhoesporvida, #17"
+  - username: "abbydahlkemper"
+    fullname: >-
+      Abby Dahlkemper
+    bio: >-
+      Professional soccer player @sandiegowavefc @wasserman
+    location: "United States"
+    followers: 280737
+    engagement: 275
+    commentsToLikes: 0.005685
+    id: ck134f6qaw5io0i19gxwlpcml
+    verified: true
+    hashtags: "#uswnt"
+  - username: "diegofagundez14"
+    fullname: >-
+      Diego Fagundez
+    bio: >-
+      ‘Professional Soccer Player for LA Galaxy 💛💙. Father to 3 beautiful children, Maria, Liam and Mila.
+    location: "United States"
+    followers: 128138
+    engagement: 263
+    commentsToLikes: 0.029334
+    id: ckppr5rx161up0j23lsdtbwlt
+    verified: false
+    hashtags: "#listo, #family, #believe, #df14"
+  - username: "christhunder"
+    fullname: >-
+      CHRIS FREDERICK
+    bio: >-
+      ⚽️Professional Soccer Player 💰Serial Entrepreneur #PaidToLive 💢Featured:Forbes|CNN|ABC|NBC|FoxNews
+    location: "United States"
+    followers: 3267444
+    engagement: 174
+    commentsToLikes: 0.011706
+    id: ck0uctfaphk680i19qingw8rp
+    verified: true
+    hashtags: "#paidtolive, #thinkwithme, #joinus, #wifimoneyair"
+  - username: "andymusic1"
+    fullname: >-
+      Andymadadian
+    bio: >-
+      Singer/songwriter, actor, soccer player, vegetarian & animal advocate. This page is all about music, peace and love in the world. andy@andymusic.com
+    location: "United States"
+    followers: 1326823
+    engagement: 135
+    commentsToLikes: 0.032279
+    id: ck0vx6n6sxel70i19x6jkab42
+    verified: true
+    hashtags: "#music, #dance, #party, #concert"
+  - username: "acostafitness"
+    fullname: >-
+      Robert Acosta
+    bio: >-
+      Kinda hippie, kinda holy, kinda hood 🙏🏼Faith ❤️Family ⚽Former pro soccer player 🏋🏾‍♂️Fitness 🥗Nutrition PS 37:4✝️ Walk The Talk #iam1stphorm
+    location: "United States"
+    followers: 19396
+    engagement: 57
+    commentsToLikes: 0.074977
+    id: ck9wdremqgx9y0j78vr0kwsvc
+    verified: false
+    hashtags: "#growthmindset, #athlete, #iam1stphorm, #1stphorm"
   - username: "mattsheldon23"
     fullname: >-
       Matt Sheldon
@@ -42,89 +126,5 @@ profiles:
     commentsToLikes: 0.025389
     id: ckap0ot8pr81i0i782pipclqf
     verified: false
-    hashtags: "#lesbian, #queer, #tomboystyles, #tomboystyle"
-  - username: "tonideion"
-    fullname: >-
-      Toni Deion Pressley 🌱🌙🔮
-    bio: >-
-      Pro soccer player @orlpride Florida State Alumna Breast Cancer Survivor 👩🏽‍🍳 @wearegirlsgoneveg @zoe_zeca_toby
-    location: "United States"
-    followers: 101317
-    engagement: 436
-    commentsToLikes: 0.012694
-    id: ck134oolhxg5l0i19f0hb3k59
-    verified: false
-    hashtags: "#vegan, #vegansofinstagram, #vegetarian, #veganfood"
-  - username: "allymwatt"
-    fullname: >-
-      Ally Watt
-    bio: >-
-      ⚽️ Pro Soccer Player • @olreign #7 @nike athlete • @team.avsports Texas A&M University alum
-    location: "United States"
-    followers: 8681
-    engagement: 1544
-    commentsToLikes: 0.019537
-    id: ck5hoksw9pqi50i11ta1g93uk
-    verified: false
-    hashtags: "#jumpman, #gameday, #preseason, #nike"
-  - username: "ellahstevens"
-    fullname: >-
-      Ella Stevens
-    bio: >-
-      Professional Soccer Player @chicagoredstars
-    location: "United States"
-    followers: 4871
-    engagement: 1994
-    commentsToLikes: 0.028307
-    id: ck0w1zmkelx860i19gax1gel5
-    verified: false
-    hashtags: "#nwslchallengecup, #4dagang, #seniorszn, #22"
-  - username: "juliangressel"
-    fullname: >-
-      Julian Gressel
-    bio: >-
-      Professional Soccer Player ⚽️ @dcunited @upgraid.me @restperformance
-    location: "United States"
-    followers: 27019
-    engagement: 1000
-    commentsToLikes: 0.013625
-    id: ck0w1g7xjj6v10i19ruz576sy
-    verified: true
-    hashtags: "#dcu, #nemeziz, #girldad, #unitethedistrict"
-  - username: "nikkiguti7"
-    fullname: >-
-      Nikki Stanton
-    bio: >-
-      Professional soccer player for the Chicago Red Stars #7❤️⚽️ From Washington state🌲🏡
-    location: "United States"
-    followers: 39832
-    engagement: 1434
-    commentsToLikes: 0.012829
-    id: ck0tt5vt51ao60i196la738k5
-    verified: false
-    hashtags: "#bts, #mkot, #grateful, #heyya"
-  - username: "abbydahlkemper"
-    fullname: >-
-      Abby Dahlkemper
-    bio: >-
-      Professional soccer player
-    location: "United States"
-    followers: 282412
-    engagement: 720
-    commentsToLikes: 0.003732
-    id: ck134f6qaw5io0i19gxwlpcml
-    verified: true
-    hashtags: "#aospartner, #vwpartner, #atlascrosssport, #vwcrosssport"
-  - username: "brittany1wilson"
-    fullname: >-
-      BRITTANY WILSON
-    bio: >-
-      Follower of Christ ⚽️ Professional Soccer Player @orlpride @t1tan goalkeeper 🏃🏼‍♀️ Soccer Player Fitness Program ⬇️
-    location: "United States"
-    followers: 57724
-    engagement: 1167
-    commentsToLikes: 0.005676
-    id: ck8t4tms77x0s0j785uxzc4z8
-    verified: false
-    hashtags: "#year2, #ad, #downypartner, #ngwsd"
+    hashtags: "#gay, #lgbt, #lesbianfashion, #lesbianthings"
 ---

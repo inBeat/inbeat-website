@@ -1,12 +1,24 @@
 ---
-title: Top 10 Food Instagram Influencers In Rome In 2023
+title: Top 10 Food Instagram Influencers In Rome In 2024
 description: >-
-  Find top food Instagram influencers in Rome in 2023. Most popular hashtags: #rome #roma #food #italy.
+  Find top food Instagram influencers in Rome in 2024. Most popular hashtags: #rome #food #roma #italia.
 platform: Instagram
-hits: 102
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our platform has 102 Instagram influencers like this in Rome, Italy for you to work with.
+hits: 119
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 119 Instagram influencers like this in Rome, Italy for you to work with.
 profiles:
+  - username: "roma.dinner"
+    fullname: >-
+      Vincenzo Sarno /Roma Dinner 🍷🧊
+    bio: >-
+      Ideatore: @vincenzo.dinner Solo ristoranti romani 👊🌴 📷🍝🏚️ Cintura nera di stories pornodelicious🌵🌴 Seguici su Tik tok (70k)
+    location: "Italy"
+    followers: 110091
+    engagement: 141
+    commentsToLikes: 0.067150
+    id: ck8tav8kut7ek0j78o4qmulcm
+    verified: false
+    hashtags: "#ciboroma, #aperitivo, #pizzanapoletana, #dieta"
   - username: "magnaromadvisor"
     fullname: >-
       Magnaromadvisor
@@ -55,18 +67,30 @@ profiles:
     id: ck5hpclenr4tu0i11uuc7qgpv
     verified: false
     hashtags: "#italy, #finedining, #restaurant, #marcomartini"
-  - username: "roma.dinner"
+  - username: "laurensimpson"
     fullname: >-
-      Roma Dinner 🍷🧊
+      Lauren Simpson
     bio: >-
-      Solo ristoranti romani 👊🌴 Ideatore @vincenzo.dinner 📷🍝🏚️ Consigliamo dove trovare del buon cibo🌵🌴 📩🍀 Seguici 'DON'T BE SHY'
+      NUTRITION. WORKOUTS. LIFESTYLE ♡ 200K + programs sold @laurensimpsonfitness ♡ Founder: @rarecollective_official ♡ MC 💍
     location: "Italy"
-    followers: 23466
-    engagement: 149
-    commentsToLikes: 0.026972
-    id: ck8tav8kut7ek0j78o4qmulcm
+    followers: 1919514
+    engagement: 26
+    commentsToLikes: 0.024281
+    id: ck13afh6wq56s0i19pbfuw3ug
+    verified: true
+    hashtags: "#lunchrecipes, #fitness, #nutrition, #recipe"
+  - username: "colazioneroma"
+    fullname: >-
+      Colazione a Roma
+    bio: >-
+      🥐 Scopri le migliori Colazioni a Roma #colazioneroma 📲 Ci trovate anche su Tik Tok +100k (AperitiviRoma) 👨‍💻👩‍💻 Scarica la nostra APP @thebreak_app
+    location: "Italy"
+    followers: 58381
+    engagement: 164
+    commentsToLikes: 0.012601
+    id: ck5zoe1q3qcp30i14s6ru7wk6
     verified: false
-    hashtags: "#foodroma, #foodgourmet, #pomodoro, #trastevere"
+    hashtags: "#colazionetime, #pancake, #breakfast, #cappuccino"
   - username: "elena_sofia5"
     fullname: >-
       Elena Sofia Marini ∞🌹
@@ -79,6 +103,18 @@ profiles:
     id: ckaouef6kzx0z0i78b4cwhifj
     verified: false
     hashtags: "#tropicallife, #adv, #tropicalvibes, #islandlife"
+  - username: "noidiroma"
+    fullname: >-
+      ROMA - ROME , Italy - Travel | Food | Hotel
+    bio: >-
+      5️⃣ We share the love for Rome 📸#noidiroma 🇮🇹 Organizza il tuo viaggio con noi! Contattaci 🇬🇧 Plan your trip with us! Contact us 👇🏻 Blog
+    location: "Italy"
+    followers: 243931
+    engagement: 207
+    commentsToLikes: 0.008238
+    id: ck0u2dprgzkhe0i19uu9dmwy5
+    verified: false
+    hashtags: "#roma, #igerslazio, #italia, #loves"
   - username: "robertanbianca"
     fullname: >-
       Roberta Bianca
@@ -91,40 +127,4 @@ profiles:
     id: ck5c6w4yg6bnt0i11ptmbffk0
     verified: false
     hashtags: "#booksaddict, #lookinspo, #goodmorning, #ootdpost"
-  - username: "its.jpap96"
-    fullname: >-
-      Sj Plumari
-    bio: >-
-      Rome📍 | ᴅᴇsɪɢɴᴇʀ Dancer | food lover | and u ?
-    location: "Italy"
-    followers: 9367
-    engagement: 599
-    commentsToLikes: 0.013502
-    id: ckap5i60qbshr0i78sfz9siru
-    verified: false
-    hashtags: "#morning, #italy, #boy, #roma"
-  - username: "sicilianicreativi"
-    fullname: >-
-      Ada Parisi
-    bio: >-
-      #madeinSICILY , #author of #SICILIANICREATIVI blog |📍ROME | storyteller of #madeinitaly, food writer, travel content creator | all photos are mine
-    location: "Italy"
-    followers: 61540
-    engagement: 165
-    commentsToLikes: 0.054224
-    id: ck0vxodp4zwt20i198a14k0c7
-    verified: false
-    hashtags: "#lievitomadre, #primipiatti, #tradizionisiciliane, #ricettevegetariane"
-  - username: "leonardomariottii"
-    fullname: >-
-      Leonardo Mariotti
-    bio: >-
-      🍽| Founder of @oggisgraviamo 🧑🏻‍💻| @rome_rooftops 📚| @uniecampus 📱| Digital Marketing 🍔| Food Lover 🌎| Travels 📍| Rome
-    location: "Italy"
-    followers: 5147
-    engagement: 1196
-    commentsToLikes: 0.046069
-    id: ckaosjs3ersj90i78tlbl8rpf
-    verified: false
-    hashtags: "#igerslazio, #igersrome, #vivovaticano, #cometorome"
 ---

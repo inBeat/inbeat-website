@@ -1,24 +1,36 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Chile In 2023
+title: Top 10 Barbers Instagram Influencers In Chile In 2024
 description: >-
-  Find top barbers Instagram influencers in Chile in 2023. Most popular hashtags: #instagood #barbershop #love #chile.
+  Find top barbers Instagram influencers in Chile in 2024. Most popular hashtags: #barbershop #barber #tbt #love.
 platform: Instagram
-hits: 19
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 19 Instagram influencers like this in Chile for you to contact.
+hits: 17
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database has 17 Instagram influencers like this in Chile for you to connect with.
 profiles:
+  - username: "franaranda_"
+    fullname: >-
+      Francisco Aranda
+    bio: >-
+      - Educación en 🇪🇸 🇬🇷 🇷🇴 🇵🇹 🇱🇺 🇳🇴 🇺🇸 🇨🇱 - DIRECTOR🎓 @brainonacademy - EMBAJADOR 🤝 @stmntgrooming - PREMIO PICASSO 2022 y 2023 (X3)🏆🥇
+    location: "Chile"
+    followers: 43388
+    engagement: 73
+    commentsToLikes: 0.031747
+    id: ck5pzjglm1a0j0i11zn6fwjob
+    verified: false
+    hashtags: "#teambabylisspro, #technology, #peluquero, #grooming"
   - username: "hksbarber"
     fullname: >-
       HKS
     bio: >-
-      CEO @fadetrancao
+      BARBERO CLASE “A”
     location: "Chile"
-    followers: 12164
-    engagement: 314
-    commentsToLikes: 0.039635
+    followers: 12036
+    engagement: 284
+    commentsToLikes: 0.037914
     id: ck5zyn1l3a63k0i14pqygjm17
     verified: false
-    hashtags: "#barbersoul, #barber, #sharpfade, #national"
+    hashtags: "#barberslessons, #santiago, #showcasebarbers, #thebarberpost"
   - username: "iaamfab"
     fullname: >-
       F A B I A N  A L E J A N D R O
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.027403
     id: ck8tbl5d0w2s60j78te3pfkjk
     verified: false
-    hashtags: "#gaymen, #beardedgay, #love, #gayman"
+    hashtags: "#gayhot, #bearded, #gayman, #gayselfie"
   - username: "dxmp.1621"
     fullname: >-
       Xiomara Marty👩🏼‍🦱✨🌸
@@ -109,22 +121,10 @@ profiles:
     bio: >-
       CEO 🔥OnFireMusic🔥 Artista Darkiel 🎤 (Contrataciones) Frekei Rodriguez CMN +1 (312) 539-8471
     location: "Chile"
-    followers: 46314
-    engagement: 161
-    commentsToLikes: 0.051370
+    followers: 44822
+    engagement: 127
+    commentsToLikes: 0.044754
     id: ck5q8p42v7ad90i111rz7y285
     verified: false
-    hashtags: "#darkiel, #chile, #mesientobien, #cmnevents"
-  - username: "aquienchile"
-    fullname: >-
-      AQUI EN CHILE
-    bio: >-
-      PORQUE SEGUIMOS SIENDO LOS MISMOS 😊 ESTAMOS AQUÍ EN CHILE 🇨🇱 ¿NOS UBICAS? Nosotros a Ustedes También ❤ DIVERSIÓN, INFORMACIÓN, Y MUCHO MÁS LGBTIQ+🌈
-    location: "Chile"
-    followers: 110
-    engagement: 213962
-    commentsToLikes: 0.568146
-    id: ck6u9mogpyeqw0j71iqzdviug
-    verified: false
-    hashtags: "#love, #gaymiami, #instagay, #gaymexico"
+    hashtags: "#contigo, #repost, #mesientobien, #tbt"
 ---

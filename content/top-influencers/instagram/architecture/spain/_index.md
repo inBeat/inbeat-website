@@ -1,12 +1,84 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Spain In 2023
+title: Top 10 Architecture Instagram Influencers In Spain In 2024
 description: >-
-  Find top architecture Instagram influencers in Spain in 2023. Most popular hashtags: #architecture #arquitectura #barcelona #ig.
+  Find top architecture Instagram influencers in Spain in 2024. Most popular hashtags: #architecture #barcelona #arquitectura #interiordesign.
 platform: Instagram
-hits: 185
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 185 Instagram influencers like this in Spain for you to connect with.
+hits: 207
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 207 Instagram influencers like this in Spain for you to work with.
 profiles:
+  - username: "yacoutzemmama"
+    fullname: >-
+      Yacout | ياقوت
+    bio: >-
+      Your fav gemini ♊️ Spain📍x Morocco 🏠 Safe place for everyone 🫶🏼 Architecture student 🏛️
+    location: "Spain"
+    followers: 31520
+    engagement: 272
+    commentsToLikes: 0.015769
+    id: ck5c02jfdsb3v0i11g2e7jzoj
+    verified: false
+    hashtags: "#ccgirls, #capeclique, #ecofriendlyfashion, #yesstyley2k"
+  - username: "ken4photo"
+    fullname: >-
+      Kenneth Albert📍Barcelona
+    bio: >-
+      ✈️ Explore the world 🚁 @djiglobal drone pilot 📷 Sharing architecture & travel experiences
+    location: "Spain"
+    followers: 56627
+    engagement: 240
+    commentsToLikes: 0.056572
+    id: ck0w38xy1s6h60i19ackysa1v
+    verified: false
+    hashtags: "#descobreixcatalunya, #visitspain, #igerscatalunya, #living"
+  - username: "ramon_esteve"
+    fullname: >-
+      Ramon Esteve
+    bio: >-
+      Founder of Ramon Esteve Studio. Architecture & Design "Places you would like to live in"
+    location: "Spain"
+    followers: 99051
+    engagement: 120
+    commentsToLikes: 0.011157
+    id: ck1347xfev5my0i19ubp35g1s
+    verified: false
+    hashtags: "#archilovers, #lighting, #wabisabi, #balearicislands"
+  - username: "himeraestudio"
+    fullname: >-
+      Himera Estudio
+    bio: >-
+      Architecture and interior design practice Creating and collecting timeless homes Vigo - Madrid
+    location: "Spain"
+    followers: 146914
+    engagement: 51
+    commentsToLikes: 0.008520
+    id: ck55mmizk4a7k0i112x24g8jv
+    verified: false
+    hashtags: "#whiteandwood, #interi, #timelessinteriors, #architecturaldigest"
+  - username: "coohuco"
+    fullname: >-
+      Inma Soria
+    bio: >-
+      T. ARCHITECT | INTERIOR DESIGNER ◻️Architecture & Design | @coohucostudio ◻️hello@coohuco.com | colaboraciones
+    location: "Spain"
+    followers: 161963
+    engagement: 38
+    commentsToLikes: 0.037930
+    id: ck0ue4whekokz0i19qd9ink3p
+    verified: false
+    hashtags: "#adidasgazelle, #melacrear, #isdin, #colorstay"
+  - username: "mesura.eu"
+    fullname: >-
+      MESURA
+    bio: >-
+      Interdisciplinary architecture studio
+    location: "Spain"
+    followers: 65735
+    engagement: 23
+    commentsToLikes: 0.001769
+    id: ck0w3gpgbtbck0i19s5du6scs
+    verified: false
+    hashtags: "#newproject, #barcelona, #architecture, #interiordesign"
   - username: "marcplam"
     fullname: >-
       Ｍａｒｃ  Ｐｌà
@@ -18,7 +90,7 @@ profiles:
     commentsToLikes: 0.044978
     id: ck15uzxdlp97j0i19rabrc07y
     verified: false
-    hashtags: "#holidays, #men, #photography, #fashionman"
+    hashtags: "#friday, #picoftheday, #menstyleguide, #instastyle"
   - username: "jasmine.moon_"
     fullname: >-
       jas 🧿 ☽
@@ -43,18 +115,6 @@ profiles:
     id: ck8sywr4ambbr0j78pmhcrdub
     verified: false
     hashtags: "#cylesvida, #estaes, #architecture, #alluring"
-  - username: "yamildoval"
-    fullname: >-
-      Yamil Doval
-    bio: >-
-      📍 Based in Barcelona 📷 Architecture & pretty places 💙 Galego ⬇️ Prints & Presets ⬇️
-    location: "Spain"
-    followers: 6936
-    engagement: 1319
-    commentsToLikes: 0.033526
-    id: ck6u7v27fnt470j718mz0eoun
-    verified: false
-    hashtags: "#galicia, #citiesoftheworld, #europedestinations, #lebeauvoyage"
   - username: "acampobaeza"
     fullname: >-
       Alberto Campo Baeza
@@ -67,64 +127,4 @@ profiles:
     id: ck15sd3y2ceiz0i19lnjk5bxo
     verified: false
     hashtags: "#ufv, #albertocampobaeza, #maquetas, #polideportivo"
-  - username: "krestadesign"
-    fullname: >-
-      KRESTA DESIGN
-    bio: >-
-      _Architecture and Design_ LUCAS Y HERNÁNDEZ-GIL
-    location: "Spain"
-    followers: 36879
-    engagement: 348
-    commentsToLikes: 0.072397
-    id: ck6tkuo3a5fpg0j71uyl30c6m
-    verified: false
-    hashtags: "#jos, #somewheremagazine, #renderart, #art"
-  - username: "adriagoulaphoto"
-    fullname: >-
-      Adria Goula Photo
-    bio: >-
-      Architecture photographer based in Barcelona #architecturephotography #barcelona
-    location: "Spain"
-    followers: 32442
-    engagement: 216
-    commentsToLikes: 0.019169
-    id: ck0uc6b2bg7a30i19ct5lcc37
-    verified: false
-    hashtags: "#architectureporn, #architecturedesign, #adriagoulaphoto, #architecturephotography"
-  - username: "peribet"
-    fullname: >-
-      Pedro
-    bio: >-
-      Barcelona Ⓜ️@raw_architecture_ Ⓜ️@rustlord_unity
-    location: "Spain"
-    followers: 12289
-    engagement: 328
-    commentsToLikes: 0.041354
-    id: ck5q84wyj4gb00i117gwc8li4
-    verified: false
-    hashtags: "#arquitecturamx, #creative, #kings, #excellent"
-  - username: "totonsanchez"
-    fullname: >-
-      TOTON SANCHEZ
-    bio: >-
-      A multidisciplinary architecture & interior design firm @totonsanchez #totonsanchez
-    location: "Spain"
-    followers: 14485
-    engagement: 445
-    commentsToLikes: 0.021926
-    id: ck14ltuwjwgga0i19thouzmze
-    verified: false
-    hashtags: "#arquitecturaydise, #architecture, #madrid, #interiordesign"
-  - username: "pollolavin"
-    fullname: >-
-      Felipe Lavin
-    bio: >-
-      Landscape and Architecture Photography 📍Chile info@felipelavin.com
-    location: "Spain"
-    followers: 17735
-    engagement: 196
-    commentsToLikes: 0.028149
-    id: ckf5pk5am6cw00j2370h4adfb
-    verified: false
-    hashtags: "#puntadelobos, #artwork, #photography, #contemporaryart"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists TikTok Influencers In United Kingdom In 2023
+title: Top 10 Nail Artists TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top nail artists TikTok influencers in United Kingdom in 2023. Most popular hashtags: #nails #fyp #nailart #foryoupage.
+  Find top nail artists TikTok influencers in United Kingdom in 2024. Most popular hashtags: #nails #fyp #nailart #foryoupage.
 platform: TikTok
 hits: 13
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 13 TikTok influencers like this in United Kingdom for you to collaborate.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our database aggregates 13 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
   - username: "charm.nails"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       Wildest Nail salon UK Belle Dame Nails Blaenavon NP4 9NH
     location: "United Kingdom"
-    followers: 272800
-    engagement: 1790
-    commentsToLikes: 0.024826
+    followers: 272200
+    engagement: 1798
+    commentsToLikes: 0.032560
     id: ckbw445imxhul0j23psyo612o
     verified: false
-    hashtags: "#foryoupage, #nailartist, #stayathome, #foryou"
+    hashtags: "#guardiansofthegalaxy, #nail, #foryoupage, #fyp"
   - username: "itsafairytale95"
     fullname: >-
       Amy✨
@@ -73,12 +73,12 @@ profiles:
     bio: >-
       ✨17, Cambs✨ Thanks for 5K!
     location: "United Kingdom"
-    followers: 5809
-    engagement: 1949
-    commentsToLikes: 0.015835
+    followers: 5787
+    engagement: 1940
+    commentsToLikes: 0.015211
     id: ckcp8c6h3dvey0j23fkmjxyjh
     verified: false
-    hashtags: "#gcse2020, #foryoupage, #language, #bi"
+    hashtags: "#russia, #relatable, #gcses, #gcse2020"
   - username: "bykatieeve"
     fullname: >-
       Katie Eve

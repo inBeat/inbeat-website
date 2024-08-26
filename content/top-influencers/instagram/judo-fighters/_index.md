@@ -1,11 +1,11 @@
 ---
-title: Top 10 Judo Fighters Instagram Influencers In 2023
+title: Top 10 Judo Fighters Instagram Influencers In 2024
 description: >-
-  Find top judo fighters Instagram influencers in 2023. Most popular hashtags: #judo #aleksandarkukolj #teamby.
+  Find top judo fighters Instagram influencers in 2024. Most popular hashtags: #judo #mma #ippongear #judoinside.
 platform: Instagram
-hits: 3
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 3 Instagram influencers like this for you to contact.
+hits: 4
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 4 Instagram influencers like this for you to work with.
 profiles:
   - username: "ismailbelgaid"
     fullname: >-
@@ -43,4 +43,16 @@ profiles:
     id: ckap9fwu2sifn0i784aevaycc
     verified: true
     hashtags: "#kukoljteam, #judo, #aleksandarkukolj, #anniversary"
+  - username: "boxingworldfans"
+    fullname: >-
+      BoxingWorldFans™️
+    bio: >-
+      #1 Combat Sports Page 🥇 Dm/email for business inquiries No copyright intended, DM for credit/removal 📩 FREE E-BOOK👇
+    location: "United States"
+    followers: 2845493
+    engagement: 17
+    commentsToLikes: 0.020870
+    id: ckap5c3hpb0380i78wfy32yau
+    verified: false
+    hashtags: "#mmafighter, #mma, #floydmayweather, #boxingworkout"
 ---

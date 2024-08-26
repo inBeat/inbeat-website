@@ -1,12 +1,24 @@
 ---
-title: Top 10 Models TikTok Influencers In United Arab Emirates In 2023
+title: Top 10 Models TikTok Influencers In United Arab Emirates In 2024
 description: >-
-  Find top models TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #fyp #foryoupage #dubai #funny.
+  Find top models TikTok influencers in United Arab Emirates in 2024. Most popular hashtags: #fyp #foryoupage #dubai #funny.
 platform: TikTok
-hits: 38
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 38 TikTok influencers like this in United Arab Emirates for you to work with.
+hits: 39
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 39 TikTok influencers like this in United Arab Emirates for you to work with.
 profiles:
+  - username: "tayyabarshmaan1"
+    fullname: >-
+      TAYYAB ARSHMAAN
+    bio: >-
+      SINGER-MODEL-EMCEE-HOST LIVE LIFE DREAM BIG 🇰🇼💝🇮🇳💝🇵🇰 200K SOON
+    location: "United Arab Emirates"
+    followers: 129100
+    engagement: 819
+    commentsToLikes: 0.003429
+    id: ck903lnntdgy50j78s348zws1
+    verified: false
+    hashtags: "#bollywood, #yallatohookahpani, #tiktokindia, #illu"
   - username: "oliverobeid"
     fullname: >-
       Oliver Obeid
@@ -18,7 +30,7 @@ profiles:
     commentsToLikes: 0.217915
     id: ck8w3eiqc7et00j78wumhbeev
     verified: false
-    hashtags: "#funny, #armwrestling, #armwrestligchallenge, #weird"
+    hashtags: "#anime, #weird, #fortheboys, #armwrestling"
   - username: "rumiuae"
     fullname: >-
       Rumi Munawar
@@ -115,16 +127,4 @@ profiles:
     id: ck8fard4a4krp0j78rov69l1v
     verified: false
     hashtags: "#viral, #trend, #uae, #follow"
-  - username: "leanneeverett"
-    fullname: >-
-      Leanne Everett
-    bio: >-
-      لِيان Fashion/Beauty/Lifestyle Creator/Model Follow all my social media😘
-    location: "United Arab Emirates"
-    followers: 74700
-    engagement: 484
-    commentsToLikes: 0.063764
-    id: ck81s14qwp99s0j78q7unea3a
-    verified: false
-    hashtags: "#fashionstatement, #itsallinthedetails, #2021colors, #101"
 ---

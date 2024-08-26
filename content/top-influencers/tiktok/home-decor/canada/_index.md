@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Canada In 2023
+title: Top 10 Home Decor TikTok Influencers In Canada In 2024
 description: >-
-  Find top home decor TikTok influencers in Canada in 2023. Most popular hashtags: #homedecor #fyp #tiktokdiy #diy.
+  Find top home decor TikTok influencers in Canada in 2024. Most popular hashtags: #homedecor #fyp #tiktokdiy #diy.
 platform: TikTok
 hits: 131
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 131 TikTok influencers like this in Canada for you to work with.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 131 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "emscourtney"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.088157
     id: ckace9kecltqt0i78fzu4m3f9
     verified: false
-    hashtags: "#tiktokdiy, #catsoftiktok, #xyzabc, #homediy"
+    hashtags: "#xyzabc, #tiktokdiy, #homedecor, #catsoftiktok"
   - username: "boyuba"
     fullname: >-
       Boyu Ba
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.062355
     id: ckb9lz5cdeutg0j23ldiqk0h0
     verified: false
-    hashtags: "#fyp, #nailsartvideos, #nails, #supportlocalbusiness"
+    hashtags: "#firsttimehomebuyer, #supportlocalbusiness, #homedecor, #fyp"
   - username: "the_fabricated_fox"
     fullname: >-
       the_fabricated_fox
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.034325
     id: ckb0ppp4lfjbj0j234xxanlcu
     verified: false
-    hashtags: "#homedecor, #stepbystep, #ikeatok, #tiktokdiy"
+    hashtags: "#stepbystep, #learnontiktok, #tiktokdiy, #homedecor"
   - username: "meetthemehras"
     fullname: >-
       Meet the Mehras
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.042444
     id: ckc7vooxoz45j0j23fafnqgll
     verified: false
-    hashtags: "#beautifulbritishcolumbia, #homedecor, #fyp, #happyathome"
+    hashtags: "#diy, #xyzbca, #happyathome, #dollartreediy"
   - username: "lizzi.mov"
     fullname: >-
       Liz Kapran

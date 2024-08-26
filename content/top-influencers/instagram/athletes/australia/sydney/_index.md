@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Sydney In 2023
+title: Top 10 Athletes Instagram Influencers In Sydney In 2024
 description: >-
-  Find top athletes Instagram influencers in Sydney in 2023. Most popular hashtags: #sydney #training #australia.
+  Find top athletes Instagram influencers in Sydney in 2024. Most popular hashtags: #sydney #reels #explore.
 platform: Instagram
-hits: 12
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 12 Instagram influencers like this in Sydney, Australia for you to contact.
+hits: 28
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 28 Instagram influencers like this in Sydney, Australia for you to connect with.
 profiles:
-  - username: "alissasmith"
+  - username: "anna.davey"
     fullname: >-
-      ALISSA SMITH
+      Anna Davey
     bio: >-
-      ✖️FOX SPORTS & SKY NEWS TV PRESENTER ✖️EVENT MC 😎 ENTREPRENEUR: @schoolsunniesaustralia ✖️AMBASSADOR: @pafc 🔴 FUELLED by @mymusclechef code: ALISSA20
+      Personal Trainer 🇦🇺 Certified in BFR YouTuber Online Climbing Coach @myproteinau Code ANNADAVEY @scarpa_australia @rocktapeaustralia @monkey.hands
     location: "Australia"
-    followers: 8542
-    engagement: 434
-    commentsToLikes: 0.118419
-    id: ck13aziu3sycc0i19oaznj21t
+    followers: 112125
+    engagement: 219
+    commentsToLikes: 0.034884
+    id: ck55n54mi5hx70i117e9jf9yz
     verified: false
-    hashtags: "#sweatsession, #presenter, #reporter, #hotelquarantine"
-  - username: "fitfastfoods"
+    hashtags: "#climbing, #fitnessreels, #bouldern, #reels"
+  - username: "ebonylane_"
     fullname: >-
-      CAROLENA KOSTAS
+      EBONY LANE
     bio: >-
-      Runner 🏃‍♀️| Fit & Fast Recipes 👩‍🍳 | Sydney 🇦🇺 | 💌 fitfastfoods@yahoo.com.au @viciswim Athlete “FITFAST10” 🏊‍♀️ @workoutmeals “CAROLENA10” 💪
+      🇦🇺 4x100m National & Oceania Record Holder → Co-Owner @_empowerperformance → Coach @dare.training 📧 @enrichd.sports
     location: "Australia"
-    followers: 28876
-    engagement: 691
-    commentsToLikes: 0.061729
-    id: ck5hn62z0n9y20i11te9pamgm
+    followers: 18833
+    engagement: 511
+    commentsToLikes: 0.026377
+    id: cloqu0mvvgry00j08rv84uc3c
     verified: false
-    hashtags: "#partner"
-  - username: "jessejankulovski"
+    hashtags: "#fitnessinnovation, #thisisathletics, #coach, #onlinecoaching"
+  - username: "tompapley"
     fullname: >-
-      Jesse
+      Tom Papley
     bio: >-
-      freerunning athlete 🤍 @jayjankulovski ↗️ check out my other content ↙️
+      Sydney Swans 11 @kayosports Ambassador @monsterenergy Athlete
     location: "Australia"
-    followers: 30146
-    engagement: 848
-    commentsToLikes: 0.031849
-    id: ck14go33v66w80i19exid0s6y
-    verified: false
-    hashtags: "#sydney, #flips, #flippingfeed, #beach"
-  - username: "ilanacollins"
-    fullname: >-
-      Actress
-    bio: >-
-      ACTRESS/STUNTWOMAN MEAA graded @actressilanacollins @stuntwomanilana Gold Coast massage therapist @kahuna_bliss VEGAN 🍃 @pranaon athlete
-    location: "Australia"
-    followers: 61318
-    engagement: 123
-    commentsToLikes: 0.095479
-    id: ck0tvyzlsdek70i190d16io3f
+    followers: 29961
+    engagement: 1233
+    commentsToLikes: 0.009994
+    id: ck6twtv4ju2an0j71iyrg434c
     verified: true
-    hashtags: "#bikinis, #mma, #makethechange, #adventures"
-  - username: "trainertrowell"
+    hashtags: "#grabyourgold, #goat, #ad, #taxi"
+  - username: "stayc_simpson"
     fullname: >-
-      • LACHLAN TROWELL •
+      Stacey Simpson 🌹
     bio: >-
-      🔬 B of Sport & Exercise⁣ Science 🦾 In-Person & Online Coach @fitnessfirstau ⁣ 💉 Type-1 Diabetic 🥤@myproteinau Athlete - ‘TROWELLMYP’
+      ANB Bikini Pro 👙 🏆 ASN National Athlete 💪🏻 @aust_sports_nutrition - (STACEY10) 🌸Travel🌏Fall In Love❤️Be Happy😃 📷👟 🥀 🐶Max & Mai
     location: "Australia"
-    followers: 4353
-    engagement: 787
-    commentsToLikes: 0.071300
-    id: ck6trblj1y1oi0j71p5kynhho
+    followers: 13702
+    engagement: 418
+    commentsToLikes: 0.032066
+    id: ckap5gadnbjy50i782l8l7pc6
     verified: false
-    hashtags: "#gym, #onlinecoach, #glutes, #biomechanics"
-  - username: "khedoori"
+    hashtags: "#asnsportsnutrition, #seasonb, #traveladdict, #drinks"
+  - username: "jamielee_price"
     fullname: >-
-      Michael Khedoori | THE KID
+      Jamie-Lee Price
     bio: >-
-      🦘Syd,Aus 🇦🇺 🎮 THE KID from @ultimatetagau ⚡️ 🦍 @aapes athlete 🤟 📈 Business/promo 📩
+      🍊Giant Netballer #5 💎Australian Diamond #176 🚀 Athlete Owner @drinksuperboost 👟 @asicsaustralia 📧 @au_tla 📍Sydney
     location: "Australia"
-    followers: 78820
-    engagement: 604
-    commentsToLikes: 0.010483
-    id: ck0vv6jalnrht0i19d7o235im
-    verified: false
-    hashtags: "#parkour, #movement, #art, #yeww"
-  - username: "aerial_ascension"
-    fullname: >-
-      Calisthenics Cosmonaut
-    bio: >-
-      Gravity checks under its bed each night to make sure I’m not there 👽👊🏽 @revival.au Athlete
-    location: "Australia"
-    followers: 4010
-    engagement: 1334
-    commentsToLikes: 0.146928
-    id: ck6u9dwjewzml0j71ew1szcn3
-    verified: false
-    hashtags: "#calisthenia, #pulluporshutup, #calisthenicsworkout, #onearmpullup"
-  - username: "bysimondunn"
-    fullname: >-
-      Simon Dunn
-    bio: >-
-      🇦🇺Aus Team Bobsleigh Athlete🇦🇺 🖋 Write 🏉 Rugby 🏋🏻‍♂️ Train ❣️Ambassador @bobbygoldsmithfoundation & @giveout_au ✉️: brendon@rubyrosemanagement.com
-    location: "Australia"
-    followers: 144263
-    engagement: 353
-    commentsToLikes: 0.030509
-    id: ck6tre4ujyglb0j71jtiidr0b
+    followers: 32724
+    engagement: 773
+    commentsToLikes: 0.006757
+    id: ck8szw1n6px920j78dwkw0vhh
     verified: true
-    hashtags: "#rugbyworldcup, #gameon, #australia2027, #tbt"
-  - username: "harrietroberts"
+    hashtags: "#netburnerprofessional, #nothingfeelsbetter, #asicsnetball"
+  - username: "sophii_maree"
     fullname: >-
-      Harriet Roberts
+      SOPHIE MAREE HULL
     bio: >-
-      Athlete 🏋🏽‍♀️🤸🏽‍♀️ | Coach 📍 Sydney⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🏠 New Zealand 🇳🇿 ⠀⠀⠀⠀⠀⠀⠀ @revival.au 🌱 🥤 ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀ Collabs 👉🏽 dallas@temanagement.com.au
+      🌎 Online fitness & nutrition coaching @ultra_bodies 👠 Pose with me @natkitneyposingcoach 💪🏼 @ruleoneproteins_au athlete
     location: "Australia"
-    followers: 19914
-    engagement: 476
-    commentsToLikes: 0.022413
-    id: ck6ui2sjjcq680j716jbxwgjw
+    followers: 70287
+    engagement: 3505
+    commentsToLikes: 0.088005
+    id: clb9x8scx7oq90i23f02h4rwy
     verified: false
-    hashtags: "#photowouldhavebeen10xmorebadasswithoutthewall, #yepneededthatyesterday, #iatetoomuchnutella, #balance"
-  - username: "luccas.football"
+    hashtags: "#fitchick, #fitnessmumma, #fitfam, #rule1"
+  - username: "jedhockin"
     fullname: >-
-      Luccas Pereira 🇧🇷🇦🇺
+      JED HOCKIN
     bio: >-
-      Football & Performance Coach Strength & Conditioning Public Speaker ᴀᴍʙᴀꜱꜱᴀᴅᴏʀ: @googlepixel @mizunosportsaus Book Your Session - IN PERSON/ONLINE 👉🏼
+      FOOTBALL / SPORT 🇦🇺 👟- @pumaau athlete 🏆- 4 x Guinness World Records 📧- jedhockinbusiness@gmail.com
     location: "Australia"
-    followers: 35990
-    engagement: 195
-    commentsToLikes: 0.031960
-    id: ck6ts92th3fdt0j71dspr0oxt
+    followers: 513960
+    engagement: 341
+    commentsToLikes: 0.043513
+    id: ck55nu00y6yyw0i11s7sognui
+    verified: true
+    hashtags: "#trickshot, #football, #reels, #nrl"
+  - username: "_yv3tte__"
+    fullname: >-
+      Yvette
+    bio: >-
+      @ehplabs Athlete ❤️ YVETTE10 💸 @pulse.media_ 📸🎥📱 message me to buy tickets to the biggest raves/festivals/events in Sydney! 🎫 @we.are.hsu
+    location: "Australia"
+    followers: 41204
+    engagement: 204
+    commentsToLikes: 0.026255
+    id: ck6tmsiyv8g570j71yjozg7ln
     verified: false
-    hashtags: "#couplegoals, #giftfromgoogle, #footballlife, #sydney"
+    hashtags: "#sydney, #friends, #music, #summer"
+  - username: "therealfrequentflyer"
+    fullname: >-
+      Guy Dupuy 6"3 🇫🇷🇸🇳🇺🇸🇦🇺
+    bio: >-
+      Athlete 🦄| ceo of no.rest.for.greatness.llc @pacificdreamscollective @pro_ball_today_ac 📍MIA | melb🦘| Paris93
+    location: "Australia"
+    followers: 160830
+    engagement: 57
+    commentsToLikes: 0.004334
+    id: ck5zr7grhw1ys0i14036bac4e
+    verified: true
+    hashtags: "#nbl1, #bigv, #nike, #australia"
+  - username: "bec_giuliani"
+    fullname: >-
+      Bec Giuliani
+    bio: >-
+      TAS | QLD Proud Mumma Registered nurse Australian|Italian|Filipino @ryderwear athlete|BECCA10
+    location: "Australia"
+    followers: 44514
+    engagement: 28
+    commentsToLikes: 0.023883
+    id: ck6tpltaqklh50j711r684rsw
+    verified: false
+    hashtags: "#ryderwearwomen, #tassie, #memories, #mylove"
 ---

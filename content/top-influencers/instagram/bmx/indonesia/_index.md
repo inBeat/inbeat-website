@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bmx Instagram Influencers In Indonesia In 2023
+title: Top 10 Bmx Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top bmx Instagram influencers in Indonesia in 2023. Most popular hashtags: #bmx #indonesia #mtb #leagueworld.
+  Find top bmx Instagram influencers in Indonesia in 2024. Most popular hashtags: #bmx #bmxindonesia #indonesia #mtb.
 platform: Instagram
-hits: 38
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 38 Instagram influencers like this in Indonesia for you to connect with.
+hits: 37
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 37 Instagram influencers like this in Indonesia for you to connect with.
 profiles:
   - username: "barjolabmx"
     fullname: >-
@@ -47,14 +47,14 @@ profiles:
     fullname: >-
       Samuel Avrillian
     bio: >-
-      📍Bali, Indonesia Happy Kid, Living with big dreams!! God | Family | Arch | Bmx | RArchitect Matthew 19:26 I'm blessed! @rantiarchitect
+      📍Bali, Indonesia Happy Kids, Living with big dreams!! God | Family | Arch | Bmx | RArchitect Matthew 19:26 I'm blessed! @rantiarchitect
     location: "Indonesia"
-    followers: 8183
-    engagement: 345
-    commentsToLikes: 0.054383
+    followers: 8272
+    engagement: 445
+    commentsToLikes: 0.087959
     id: ck5hqh798t3tw0i11fef3qz6l
     verified: false
-    hashtags: "#bmx, #indonesia, #bali, #dirtjump"
+    hashtags: "#filmroxx, #bmx, #mtb, #bali"
   - username: "ardikawinata"
     fullname: >-
       AW
@@ -91,6 +91,18 @@ profiles:
     id: ck9wd6fjie9vk0j78x62703b4
     verified: false
     hashtags: "#ridebmx, #lifestyle, #rideforlife, #enjoy"
+  - username: "76rider.id"
+    fullname: >-
+      76Rider
+    bio: >-
+      Nyali Aja Ngga Cukup !!!
+    location: "Indonesia"
+    followers: 36755
+    engagement: 31
+    commentsToLikes: 0.055684
+    id: ck5zxuxaj8pmt0i1461bjn8ju
+    verified: false
+    hashtags: "#downhillindonesia, #downhill, #bmxindonesia, #76riderdesigncompetition2024"
   - username: "muhammadrifam"
     fullname: >-
       Muhammad Rifa Mulkifli
@@ -115,16 +127,4 @@ profiles:
     id: ck14hb7y29g4m0i19yu1kpg4p
     verified: false
     hashtags: "#denpasar, #gastank, #paintnoot, #pinstripe"
-  - username: "andy_yoga"
-    fullname: >-
-      Andy Prayoga 🇲🇨
-    bio: >-
-      💍@silfianaa23 Owner @jhonbikeshop_jepara @trekbikesindo @buildabike_id @wiucycling @art_dhteam @trekbikes
-    location: "Indonesia"
-    followers: 4159
-    engagement: 1019
-    commentsToLikes: 0.018066
-    id: ck8syrcillpnl0j78hw4t1gjt
-    verified: false
-    hashtags: "#veetire, #wuicycling, #pvrindustries, #trustunedsuspension"
 ---

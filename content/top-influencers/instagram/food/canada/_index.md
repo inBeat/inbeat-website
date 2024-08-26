@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Canada In 2023
+title: Top 10 Food Instagram Influencers In Canada In 2024
 description: >-
-  Find top food Instagram influencers in Canada in 2023. Most popular hashtags: #ad #sponsored #torontofoodie.
+  Find top food Instagram influencers in Canada in 2024. Most popular hashtags: #toronto #torontofoodie #torontofood #foodie.
 platform: Instagram
-hits: 409
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 409 Instagram influencers like this in Canada for you to connect with.
+hits: 935
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 935 Instagram influencers like this in Canada for you to collaborate.
 profiles:
-  - username: "rosalielessard_"
+  - username: "therivercitysisters"
     fullname: >-
-      Rosalie Lessard
+      Richelle + MacKenzie
     bio: >-
-      Youtubeuse 🍲 Foodie 📍Mtl Qc info@rosalielessard.com📥
+      • Two 🇨🇦 Sisters 👯• • Food, Fashion, Family • • Progress > Perfection • rivercitysisters@gmail.com
     location: "Canada"
-    followers: 171386
-    engagement: 456
-    commentsToLikes: 0.007290
-    id: ck5zm1mj1lqlu0i14lqhaw6b4
+    followers: 69072
+    engagement: 1078
+    commentsToLikes: 0.005430
+    id: ck5hnz6dqonae0i11pkv6e282
     verified: false
-    hashtags: "#cocoabutter, #bodycare, #147, #toujourslapourvous"
-  - username: "iframemoments"
+    hashtags: "#iamcanadian, #momlife101, #canadianmommyblogger, #hautecuisines"
+  - username: "marinarossa"
     fullname: >-
-      iframemoments | Toronto Content Creator
+      Marina Santarossa
     bio: >-
-      Capturing moments become story covered with memory 📸Food | Product | Portrait | Event Photography 💥Premium Videos Crafted 🔮Let’s Create Magic 📍Toronto
+      toronto! fits, food and other favs inquiries.marina@gmail.com
     location: "Canada"
-    followers: 9887
-    engagement: 465
-    commentsToLikes: 0.249712
-    id: ck5ccyj97i7ti0i11tg9w42gg
+    followers: 19501
+    engagement: 494
+    commentsToLikes: 0.013939
+    id: cldcv474uipqo0j08dwf8kh3s
     verified: false
-    hashtags: "#torontofoodie, #halalfoodie, #santaclausiscomingtotown, #torontofoodblogger"
-  - username: "healthyeatsbyfi"
+    hashtags: "#outfitinspo, #toronto, #bestfriends, #torontolife"
+  - username: "foodierrachel"
     fullname: >-
-      Fiona
+      RACHEL ˙ᵕ˙♡ ྀིྀི
     bio: >-
-      seattle, wa food photo dump & eat good feel good recipes fionaegandy@gmail.com
+      life diaries • food • travel • yap 📍vancouver, bc 💌 foodierrachel@gmail.com
     location: "Canada"
-    followers: 116827
-    engagement: 249
-    commentsToLikes: 0.025183
-    id: cl7o04b5xwbgt0i23qh7txkef
+    followers: 37805
+    engagement: 1829
+    commentsToLikes: 0.018267
+    id: ck8sxvoc5iuf30j78wtopnze9
     verified: false
-    hashtags: "#ad, #bulletproofpartner"
-  - username: "lifewithfarihaa"
+    hashtags: "#igvancouver, #vancouverfoodie, #vancouverfood, #discovervancouver"
+  - username: "rachhloves"
     fullname: >-
-      Fariha⚡️| content creator & recipe developer
+      Rachel
     bio: >-
-      ✨ follow me for recipes, food/home styling + travel 👩🏽‍💻 public policy advisor | freelance recipe developer 📩 lifewithfarihaa@gmail.com 📍Toronto
+      2 million on YouTube 💗🇨🇦 Food & Home: Youtube.com/RachhLovesLife Beauty & Style: Youtube.com/RachhLoves
     location: "Canada"
-    followers: 8704
-    engagement: 217
-    commentsToLikes: 0.203509
-    id: ckyu5qpgkxlf30j237rxofi63
-    verified: false
-    hashtags: "#vealathome, #ontarioveal, #bakeadifference2022, #partner"
-  - username: "lucierosel"
+    followers: 207563
+    engagement: 481
+    commentsToLikes: 0.017339
+    id: ck0w0846wcuzk0i197yhjl98l
+    verified: true
+    hashtags: "#newgirl, #brokennail, #tower28, #copingskills"
+  - username: "ajthetechnologist"
     fullname: >-
-      Lucie-Rose Lévesque 🌿
+      AJ
     bio: >-
-      ☆Beauty, Lifestyle & Foodie Journalist ☆Content creator *also on TikTok ☆Mama of 2 girls + 2 identical boys #twins Proprio @larosemagnolia CITQ 304766
+      Lifestyle~Beauty~Foodie Toronto Content Creator Digital Marketing Strategist PR/Collabs💌: technologist.aj@gmail.com
     location: "Canada"
-    followers: 15400
-    engagement: 154
-    commentsToLikes: 0.056360
-    id: ckrxec6bqphaz0j23qe122jtp
+    followers: 8709
+    engagement: 482
+    commentsToLikes: 0.198115
+    id: ck55mbg5r3lh60i11t01c2jsx
     verified: false
-    hashtags: "#produitsofferts, #pub, #twins, #corbeilelectro"
-  - username: "abhishekdekate"
+    hashtags: "#torontolife, #toronto, #torontobeauty, #torontoblogger"
+  - username: "thecuriouscreature"
     fullname: >-
-      Abhishek Dekate
+      Solmaz K
     bio: >-
-      ⋒ home + design, food + drinks and everything in between ► toronto 🇨🇦 / from: 🇮🇳 ⍜ contributor @foodnetworkca ⧉ abhishek.dekate@gmail.com ◑ A / D ↓
+      Award-winning travel & food blogger based in #Toronto. Mama. @destination_toronto ambassador. Iranian 🇨🇦 🎥 TikTok: TheCuriousCreature 44K
     location: "Canada"
-    followers: 29303
-    engagement: 110
-    commentsToLikes: 0.036707
-    id: ck5bzba4pqt490i11yb7j2ktm
+    followers: 63783
+    engagement: 410
+    commentsToLikes: 0.283001
+    id: ck0vzhujg96dm0i191vlcd7xc
     verified: false
-    hashtags: "#apartmentdecor, #hometour, #currentdesignsituation, #kinfolkhome"
-  - username: "reclaimedhealthjayde"
+    hashtags: "#explorecanada, #bonjourquebec, #torontofoodie, #ad"
+  - username: "sveascott"
     fullname: >-
-      Jayde Gut Health Nutritionist
+      Svea Scott
     bio: >-
-      Healing the gut with nutritious food + holistic living Food education + nourishing recipes jayde@reclaimedhealth.ca 👇🏻GUT-FRIENDLY GUIDE & RECIPES
+      Life, style, food and the journey of new momhood… Sharing all your new favourite places! Collab/UGC/social managing: sveascott.socials@hotmail.com
     location: "Canada"
-    followers: 62233
-    engagement: 61
-    commentsToLikes: 0.090033
-    id: ckf5p73t056e90j23481pn9u7
+    followers: 7943
+    engagement: 466
+    commentsToLikes: 0.114370
+    id: ckap0g3elq4gs0i784rz22nzj
     verified: false
-    hashtags: "#armraarmy, #tryarmra, #armrapartner, #ad"
-  - username: "christy.wong"
+    hashtags: "#eats, #ontario, #foodie, #toronto"
+  - username: "jeffyttaco"
     fullname: >-
-      C H R I S T Y
+      Jeff Trudel
     bio: >-
-      📍 nyc 👩🏻‍💼 CPA // consultant 🤍 fashion • lifestyle • food for thought 🏠 vancouver • 香港 • losangeles • sanfrancisco
+      AKA Chef Jeff 💯🇨🇦 FooD CreatoR/Recipe MakeR Food&📸 By Me ❤️Gwen❤️ AMBASSADOR @arcticzone @environiagara @pinnacolopizzaovens
     location: "Canada"
-    followers: 33271
-    engagement: 830
-    commentsToLikes: 0.064638
-    id: ckf5movhfut1b0j23fodjut3o
+    followers: 9925
+    engagement: 641
+    commentsToLikes: 0.435648
+    id: ck6tycgtc2x440j71p2ba8n4n
     verified: false
-    hashtags: "#ootdstyle, #personalgrowth, #fallootd, #hawaii"
-  - username: "dezleighh"
+    hashtags: "#easymeals, #cook, #foodpornshare, #tastyfood"
+  - username: "rosie_thefoodie"
     fullname: >-
-      Dezleigh | CALGARY BLOGGER
+      🌹 Rosie | Toronto Foodie 🇨🇦🇰🇷
     bio: >-
-      "Dez-Lee" 💫Fashion • Food • Fun • Family 🇵🇭Filipino 📍Calgary, Canada
+      📍 Toronto FOOD + LIFESTYLE 🍽 Follow my Tummy Journey 💌 DM/Email for collabs & rates 🎥 TikTok: rosie_thefoodie
     location: "Canada"
-    followers: 11007
-    engagement: 970
-    commentsToLikes: 0.403364
-    id: ck6u9w5f200sz0j719l7k6o5r
+    followers: 25138
+    engagement: 602
+    commentsToLikes: 0.201457
+    id: ckrvnl3czktb30j23zlkiwowu
     verified: false
-    hashtags: "#happytastesgood, #sponsored, #safewaypartner, #circlekcanada"
-  - username: "thevancouveriteblog"
+    hashtags: "#toronto, #sushilovers, #torontofood, #foodstagram"
+  - username: "micheatsmuch"
     fullname: >-
-      CINDY YU
+      Michelle • Toronto Food Blog
     bio: >-
-      👩🏻Into good cocktails + great conversations. 📣Travel, Design, Food, Wine 🍸Project @cocktailsinthejungle Sunshine Coast VLOG 👇🏼
+      🍜exploring food in Toronto and Markham 👩🏻‍💻accountant by day, foodie by night 💌dm / email for tasty partnerships
     location: "Canada"
-    followers: 26898
-    engagement: 275
-    commentsToLikes: 0.079822
-    id: ck14gyj6d7nhk0i19cuapn5q7
+    followers: 11063
+    engagement: 557
+    commentsToLikes: 0.169255
+    id: clb9x52ur7oa90i23zjtnfn90
     verified: false
-    hashtags: "#fairmontempress, #victoriabc, #luxurytravel, #travelblogger"
+    hashtags: "#torontoeats, #torontofoodies, #yyzeats, #foodgasm"
 ---

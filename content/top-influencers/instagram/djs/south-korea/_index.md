@@ -1,11 +1,11 @@
 ---
-title: Top 10 Djs Instagram Influencers In South Korea In 2023
+title: Top 10 Djs Instagram Influencers In South Korea In 2024
 description: >-
-  Find top djs Instagram influencers in South Korea in 2023. Most popular hashtags: #dj #tzuyu #skratch.
+  Find top djs Instagram influencers in South Korea in 2024. Most popular hashtags: #dj #mlb #dance.
 platform: Instagram
-hits: 9
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 9 Instagram influencers like this in South Korea for you to connect with.
+hits: 10
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 10 Instagram influencers like this in South Korea for you to pitch.
 profiles:
   - username: "dj_siena"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       Leanonedm👇 Bookings 📧 djsiena.leanon@gmail.com
     location: "South Korea"
-    followers: 650402
-    engagement: 185
-    commentsToLikes: 0.015240
+    followers: 640681
+    engagement: 156
+    commentsToLikes: 0.014674
     id: ckf5pzba27pdx0j23heatrwgc
     verified: true
-    hashtags: "#nerdy, #mariagealgerien, #mlb, #tracksuit"
+    hashtags: "#waterbomb, #waterbombtaipei, #waterbombsingapore, #waterbomb2024"
   - username: "djsmmt"
     fullname: >-
       SMMT (써밋)
@@ -31,6 +31,18 @@ profiles:
     id: ck8swrncaf05u0j78tgrn0w3y
     verified: false
     hashtags: "#outnow, #h1ghrmusic, #compilation, #cover"
+  - username: "deejaysoda"
+    fullname: >-
+      DJ SODA OFFICIAL 🇰🇷
+    bio: >-
+      My first Photobook just released~💖
+    location: "South Korea"
+    followers: 5397045
+    engagement: 78
+    commentsToLikes: 0.005646
+    id: ck0tusvdz8kr20i19uncbde5n
+    verified: true
+    hashtags: "#padthaichallenge, #insta360, #djsoda, #ferrari"
   - username: "maiejin"
     fullname: >-
       maie🍒
@@ -67,18 +79,6 @@ profiles:
     id: ck6tnx2xxav8v0j71h0kcwpj4
     verified: false
     hashtags: "#8eight, #thesauce, #djswivel, #txt"
-  - username: "deejaysoda"
-    fullname: >-
-      DJ SODA OFFICIAL 🇰🇷
-    bio: >-
-      ✨💗‘OKAY!’ OUT NOW💗👇🏻✨
-    location: "South Korea"
-    followers: 4186692
-    engagement: 104
-    commentsToLikes: 0.005881
-    id: ck0tusvdz8kr20i19uncbde5n
-    verified: true
-    hashtags: "#okay, #offwhite, #pioneerdj, #djkorea"
   - username: "red3f"
     fullname: >-
       REDEF
@@ -103,6 +103,18 @@ profiles:
     id: ck6tnx0gvauv70j71xhkqi9u4
     verified: false
     hashtags: "#blackouttuesday, #26"
+  - username: "cupcakemily"
+    fullname: >-
+      Emily Mae 🧁
+    bio: >-
+      💙 NBA Dancer @utahjazzdancers 💛 2x NHL Cheerleader @vegasgoldenknights 💧 @wetrepublic 🐾 Dog Mom @gemmaandnala 🇰🇷 Korean
+    location: "South Korea"
+    followers: 29408
+    engagement: 290
+    commentsToLikes: 0.057704
+    id: ckapccks339ms0i78g348cyff
+    verified: false
+    hashtags: "#lasvegas, #vgk, #vegasvivas, #vegas"
   - username: "fevalriver"
     fullname: >-
       페벌리버

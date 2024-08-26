@@ -1,12 +1,24 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Greece In 2023
+title: Top 10 Home Decor Instagram Influencers In Greece In 2024
 description: >-
-  Find top home decor Instagram influencers in Greece in 2023. Most popular hashtags: #homedecor #greece #travel #summer.
+  Find top home decor Instagram influencers in Greece in 2024. Most popular hashtags: #travelphotography #greece #homedecor #travel.
 platform: Instagram
-hits: 30
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 30 Instagram influencers like this in Greece for you to work with.
+hits: 41
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 41 Instagram influencers like this in Greece for you to pitch.
 profiles:
+  - username: "mayazak"
+    fullname: >-
+      Maya Zakovska
+    bio: >-
+      Interior @mayazak_home
+    location: "Greece"
+    followers: 14089
+    engagement: 146
+    commentsToLikes: 0.064050
+    id: ck15ugmv4n38q0i19514ivvfb
+    verified: false
+    hashtags: "#mygirl, #familyholiday, #sunsetphotography, #sunset"
   - username: "fanellas"
     fullname: >-
       Fanis Pavlopoulos
@@ -43,88 +55,76 @@ profiles:
     id: ck9wfjxz8p61s0j78ztyquypa
     verified: false
     hashtags: "#homedecor, #comingsoon, #architecture, #design"
-  - username: "lorenianna"
+  - username: "mommyjammi.gr"
     fullname: >-
-      Anna_Loreni
+      MommyJammi.gr® ᗰᗩᖇY ᒪIOᗪOᑌ
     bio: >-
-      🇦🇱 🇬🇷 🇦🇪 -Sales Director @maisonlgh -Founder @selling_dubai_2022
+      Content Creator☆Digital Marketer~Business Development AdvertisingSales @sugarfreepress ☆Founder & EditorInChief mommyjammi ☆Email:Mommyjammi@gmail.com
     location: "Greece"
-    followers: 140230
-    engagement: 117
-    commentsToLikes: 0.026476
-    id: ck5zlqi98l7760i14lzkrktjf
+    followers: 24745
+    engagement: 613
+    commentsToLikes: 0.234759
+    id: ckap4zsri9jpy0i78gwa329so
     verified: false
-    hashtags: "#friends, #apparel, #women, #lorenianna"
-  - username: "sophie_xyla"
+    hashtags: "#greeksummer, #summer, #flowers, #kids"
+  - username: "sevastiana_k"
     fullname: >-
-      𝑺𝒐𝒑𝒉𝒊𝒆 𝑿𝒚𝒍𝒂
+      Sevi_sk
     bio: >-
-      🌙| ɪɢʙʟᴏɢɢᴇʀ•ʙᴇᴀᴜᴛʏ•ғᴀsʜɪᴏɴ•ʟɪғᴇsᴛʏʟᴇ 📍| ᴄʜɪᴏꜱ, ɢʀᴇᴇᴄᴇ ♥️| 🐶🎵✈️🌊🍷🍣 🎓| ᴍsᴄ ᴇᴅᴜᴄᴀᴛɪᴏɴᴀʟ ᴘsʏᴄʜᴏʟᴏɢʏ
+      •Digital marketing director & media manager •Mc blog award 18’ •Dm for collabs: Sevastiana1990@gmail.com 📍Patras, Greece
     location: "Greece"
-    followers: 28115
-    engagement: 422
-    commentsToLikes: 0.636102
-    id: ckap2l6eyzbg90i782ti0459z
+    followers: 29008
+    engagement: 436
+    commentsToLikes: 0.622625
+    id: ck8swmvhvekim0j78an15cwgh
     verified: false
-    hashtags: "#gift, #dailypost, #giveaway, #jewellery"
-  - username: "ira_pgr_"
+    hashtags: "#greekislands, #aesthetics, #summertime, #athenscity"
+  - username: "kameliavahneshan"
     fullname: >-
-      •ɪ ʀ ᴀ ᴘ ɢ ʀ•
+      kamelia vahneshan
     bio: >-
-      ° 90𝑠 𝘤𝘪𝘯𝘯𝘢𝘮𝘰𝘯 𝘨𝘪𝘳𝘭 𝑓𝑟𝑜𝑚 𝐺𝑟𝑒𝑒𝑐𝑒 ° 𝘭𝘢𝘳𝘮𝘦𝘴 𝘦𝘵 𝘱𝘰𝘪𝘯𝘨𝘴 𝘴𝘶𝘳 𝘭𝘦𝘴 𝘮𝘶𝘳𝘴🥀 𝘴𝘵𝘶𝘥𝘺𝘪𝘯𝘨 sign language & l𝑒𝑔𝑎𝑙 @univ_sorbonneparisnord
+      📍California 📩 kameliavahneshan@yahoo.com Owner @vintagebaazaar Photographer 📷 @kameliaphotography
     location: "Greece"
-    followers: 48916
-    engagement: 332
-    commentsToLikes: 0.048476
-    id: ck5hrvfdcvjoj0i110fxd9bep
+    followers: 68715
+    engagement: 749
+    commentsToLikes: 0.020838
+    id: ck6ugbw6h23nw0j713hcf59xo
     verified: false
-    hashtags: "#instagood, #fashionstyle, #europe, #summer"
-  - username: "elena_hristopoulou"
+    hashtags: "#weddinginspiration, #santorini, #greece, #travelgram"
+  - username: "curlytravelmess"
     fullname: >-
-      Elena Christopoulou
+      𝗞𝗔𝗗𝗔𝗠𝗕𝗔𝗥𝗜🧿𝗧𝗥𝗔𝗩𝗘𝗟•𝗟𝗜𝗙𝗘𝗦𝗧𝗬𝗟𝗘
     bio: >-
-      Artist Manager Founder @eclecticsoiree_
+      Travel Writer•Content Creator 🌅Follow for Cafes,resorts,new places,food,people 🌎 40+ Countries•📍🇸🇬 Managed by @tripotocommunity 👇🏽 Read My Articles 📖
     location: "Greece"
-    followers: 327369
-    engagement: 381
-    commentsToLikes: 0.016026
-    id: ck5c6cvpo56el0i11rl3xga1j
+    followers: 15617
+    engagement: 1133
+    commentsToLikes: 0.091458
+    id: ck8tdq5jz4d590j78gnhinokm
     verified: false
-    hashtags: "#love, #life, #style, #eclecticsoiree"
-  - username: "nikolas_grk"
+    hashtags: "#singaporeinfluencer, #goreme, #waterfallhike, #turkey"
+  - username: "tatiana_mrk_"
     fullname: >-
-      Nikolas K.
+      🅂🄸🄽🄶🄴🅁-🅃🅁🄰🅅🄴🄻🄻🄴🅁-🅃🄴🄰🄲🄷🄴🅁
     bio: >-
-      2️⃣5️⃣ years old Medical student 👨🏽‍🔬 Greek 🇬🇷
+      📍 𝕂𝕒𝕝𝕒𝕞𝕒𝕥𝕒, 𝔾𝕣𝕖𝕖𝕔𝕖 🇬🇷 👩‍🏫 special education 🌍 𝐿𝒾𝒻𝑒 𝓌𝑒𝓁𝓁 𝓉𝓇𝒶𝓋𝑒𝓁𝑒𝒹 📧 ℂ𝕠𝕟𝕥𝕒𝕔𝕥: 𝔻𝕞 𝕠𝕣 𝕖-𝕞𝕒𝕚𝕝
     location: "Greece"
-    followers: 20225
-    engagement: 815
-    commentsToLikes: 0.028334
-    id: ck5hd0fj1kut40i11xfcnpjdu
+    followers: 25822
+    engagement: 378
+    commentsToLikes: 0.105020
+    id: ck0w1rjwbksiv0i198zpuce5n
     verified: false
-    hashtags: "#2020, #barefeet, #beardedhomo, #gay"
-  - username: "lefteris_tzi"
+    hashtags: "#lifewelltravelled, #summeradventures, #roadtrip, #enjoysummer"
+  - username: "moznamarketa"
     fullname: >-
-      Ｌｅｆｔｅｒｉｓ Ｔｚｉｄｒｉｓ
+      Markéta Stryk
     bio: >-
-      My personal profile @lefteris_tzid
+      📍Home | 🐚 28 / Czech |💍 Wifey @zdenekstryk |🧸 Theodor | 🌍 Travel lover @hanajanaswimwear kód: marketka15
     location: "Greece"
-    followers: 11188
-    engagement: 1390
-    commentsToLikes: 0.014031
-    id: ck6udw2isnftf0j71bnwep4ta
+    followers: 10233
+    engagement: 355
+    commentsToLikes: 0.042502
+    id: ck8szpopkp9ej0j78rkhq2yf0
     verified: false
-    hashtags: "#skg, #minimal, #bnwsouls, #transfer"
-  - username: "danae_panayiotou"
-    fullname: >-
-      Danae
-    bio: >-
-      🇿🇼+🇨🇾 LLB Graduate 👩🏽‍🎓 Owner of @for_panda_dreams 🐼 YouTube Videos: ⬇️
-    location: "Greece"
-    followers: 13796
-    engagement: 1048
-    commentsToLikes: 0.018693
-    id: ck0txbggfilvi0i19zs1x0wy2
-    verified: false
-    hashtags: "#sunshine, #notino, #christmas, #cyprus"
+    hashtags: "#america, #travel, #momlife, #ocean"
 ---

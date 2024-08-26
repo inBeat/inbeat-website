@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Australia In 2023
+title: Top 10 Health Instagram Influencers In Australia In 2024
 description: >-
-  Find top health Instagram influencers in Australia in 2023. Most popular hashtags: #ootd #styleinspo #gifted.
+  Find top health Instagram influencers in Australia in 2024. Most popular hashtags: #love #selflove #reels.
 platform: Instagram
-hits: 441
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 441 Instagram influencers like this in Australia for you to connect with.
+hits: 728
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 728 Instagram influencers like this in Australia for you to work with.
 profiles:
-  - username: "get_fit_lauren"
+  - username: "leonormacedo"
     fullname: >-
-      L A U R E N   T O O H E Y 💕
+      Leonor Macedo | Model & UGC Creator | GC, Aus
     bio: >-
-      Follow my journey to a happier healthier life 💕 Real•Raw•Inspire•Uplift 🤩 🔪 VSG 18 RNY 21 👇🏽105kgs 💪🏽 📍 Melbourne 🇦🇺 👩🏼‍🍳 @get_thermo_lauren
+      Healthy Lifestyle ☼ Beach ☼ Travel Portuguese in Gold Coast, Australia Creating the life of my dreams☼@hey_sunseekers
     location: "Australia"
-    followers: 24220
-    engagement: 93
-    commentsToLikes: 0.030675
-    id: cksgfi7yv9iqa0j23u4fs64to
+    followers: 35413
+    engagement: 529
+    commentsToLikes: 0.022059
+    id: ck13day304jhn0i19lvnzv5ac
     verified: false
-    hashtags: "#mumlife, #ford, #proud, #loveyou"
-  - username: "love.christina.xo"
+    hashtags: "#islandlife, #travel, #australia, #movinghome"
+  - username: "breeelenehan"
     fullname: >-
-      ✨Christina✨
+      ✩ BREE LENEHAN ✩
     bio: >-
-      🌟Digital creator & photographer 💫Travel, fashion, beauty, health & lifestyle ✨WINK model: info@winkmodels.com.au or hello@lovechristinaxo.com
+      your Aussie BFF 💌 health • self love • positivity • farm life ♡ @macr0mike x Bree protein treats: AMB-BREE YT & links⇣
     location: "Australia"
-    followers: 280068
-    engagement: 382
-    commentsToLikes: 0.080138
-    id: ck13c84lqz1y50i192xk9bkvq
+    followers: 919399
+    engagement: 553
+    commentsToLikes: 0.005794
+    id: cl56a94ql23xi0i23kuge4pcv
     verified: false
-    hashtags: "#wearingtoday, #macquariepassnationalpark, #outfitshot, #editorialfashion"
-  - username: "kealeypennell"
+    hashtags: "#bodyneutral, #bekindtoyourself, #thisisnormal, #bodyimage"
+  - username: "milesfyfe__"
     fullname: >-
-      ☆ KEALEY PENNELL ☆
+      Miles 🦋
     bio: >-
-      📍SYD | Dog Mum | ♡J & ♡L Curve Model | Mental Health Advocate | Student Nurse 🇦🇺 Vivien’s Model Management 📩 Bookings | ekke@viviensmodels.com.au
+      MOTHERHOOD | KIDS | FASHION | MENTAL HEALTH 🦋 real motherhood 🦋 four kids 👧🏼👧🏼👧🏼👦💍 MELBOURNE VIC - DM TO COLLAB
     location: "Australia"
-    followers: 60823
-    engagement: 220
-    commentsToLikes: 0.052271
-    id: ck5hnvzjzohnr0i11uep394oe
+    followers: 40346
+    engagement: 2348
+    commentsToLikes: 0.086638
+    id: clnhuj1emij530j08tbchu5aa
     verified: false
-    hashtags: "#sponsored, #ad, #estelle, #letmebeclear"
-  - username: "ttayahpick__"
+    hashtags: "#reelvideo, #reels, #mumlife, #honestmum"
+  - username: "healthybodhealthymind"
     fullname: >-
-      TAYAH ♡
+      Sophie Rindfleish — Dietitian
     bio: >-
-      📍Newcastle health, fitness & bikini competitor things #TeamDestroy ✖️ @ryderwear TAYAH10 ✖️ @food4fitnessmeals TAYAH10 ✖️ @mr.myo_massage
+      online dietitian • content creator • recipe developer 🫶🏼 helping you find food freedom 🏃🏽‍♀️ @sosos_runclub hello@healthybodhealthymind.com book in ↓
     location: "Australia"
-    followers: 13233
-    engagement: 583
-    commentsToLikes: 0.079082
-    id: ck55nbyrl5vxf0i11n9hkgmxh
+    followers: 24012
+    engagement: 662
+    commentsToLikes: 0.048681
+    id: ck6tmair17hbt0j717vqq9vh6
     verified: false
-    hashtags: "#nofoodisofflimits, #moderationiskey"
-  - username: "fabulizeyourlife"
+    hashtags: "#gifted, #ikeaaustralia, #ikeaatmyplace, #ad"
+  - username: "alexanderruygrok"
     fullname: >-
-      Trishi
+      ALEXANDER RUYGROK
     bio: >-
-      👗 Fashion Lover 💄 Lipstick Lover 🧩 Inner Health 📸 Selfie Queen 💯 Mover & Shaker #fabulizeyourlife
+      A: @chic_management MA: @sandibscout Donate to support Mens Mental Health: https://movember.com
     location: "Australia"
-    followers: 128696
-    engagement: 215
-    commentsToLikes: 0.054496
-    id: ck0vx3s6xwzvj0i19om4i3owm
+    followers: 145398
+    engagement: 664
+    commentsToLikes: 0.032629
+    id: ck135i70n1jx90i19gotjbjxe
     verified: false
-    hashtags: "#outfitselfie, #fabulizeyourlife, #bossbabe, #tshirtcouture"
-  - username: "mitchccosta"
+    hashtags: "#inpolitix, #politixmenswear, #politix, #worntobeheard"
+  - username: "thomasmalucelli"
     fullname: >-
-      Mitch Costa 🇦🇺
+      Thomas Malucelli
     bio: >-
-      🌏 22 feels like 62 / SYD 👻 mitchellcosta 💪🏽 IFBB 🎙 Podcast: coming soon.. l Certified Health Professional GET FIT WITH MITCH - Online Coach ⬇️
+      ⚡️Empowering you to live your happiest, healthiest & most connected life 🧠 Men’s mental health advocate 🎙️ @swipetosoulmate_ 📩 MGMT @bellamanagement
     location: "Australia"
-    followers: 17392
-    engagement: 336
-    commentsToLikes: 0.074560
-    id: ck5cjdgf4ui1j0i11pd3i825h
+    followers: 52428
+    engagement: 685
+    commentsToLikes: 0.066185
+    id: closqg1iwnyb60j0855x1wwpq
     verified: false
-    hashtags: "#grindtime, #rise, #staywoke, #ceebsforwhitenoise"
-  - username: "jesspandaaa"
+    hashtags: "#italianmodel, #single, #dating, #singleandreadytomingle"
+  - username: "melaniebragg"
     fullname: >-
-      ✨ 𝑱𝑬𝑺𝑺 𝑷𝑨𝑵 ✨
+      MELANIE BRAGG
     bio: >-
-      — Sydney, AUS 🐨 ENFJ-A 🧠 Psych student | 🎗Mental health & lifestyle 🙏Trade your expectation for appreciation 📩 jessicapan97@gmail.com
+      Stalking are we? Leave me comments & i'll try reply! VEVE Dream Girl Swimsuit Model Mental Health Advocate 🌴Down to earth Tourism acc:@lifeintourism
     location: "Australia"
-    followers: 8618
-    engagement: 397
-    commentsToLikes: 0.242198
-    id: ckap0gme6q6x40i78i08p800i
+    followers: 23878
+    engagement: 1402
+    commentsToLikes: 0.106010
+    id: ck5qd33rvtkvh0i116pnq39mn
     verified: false
-    hashtags: "#marshiibeauty, #esmiskinminerals, #oscarwylee"
-  - username: "saira.95"
+    hashtags: "#mentalhealthadvocate, #herveybay, #selflove, #couplegoals"
+  - username: "conorjcanning"
     fullname: >-
-      Saira Hrgić, 25, 🇧🇦 🇩🇪
+      Conor Canning
     bio: >-
-      🌸 Bachelor of Health Science 🎓 🌸 Makeup Enthusiast 💄 🌸 17.07.2015. ❤🔐
+      Busy dad transforming my life in 100 days 💪 @healthandleisure @personalbestfitnesstas ✉️ conor@canningcapital.net for collaborations 🙏
     location: "Australia"
-    followers: 9460
-    engagement: 1354
-    commentsToLikes: 0.016855
-    id: ckaox6v5nc1iy0i78rbeljqxc
+    followers: 54180
+    engagement: 351
+    commentsToLikes: 0.014498
+    id: cknebqe34qve40j2368xtc5i1
     verified: false
-    hashtags: "#girlfashions, #strumpfhosen, #blondie, #makeup"
-  - username: "cassiethehag"
+    hashtags: "#exploretasmania, #hobart"
+  - username: "felicityegginton"
     fullname: >-
-      cassie ~ solo in auckland, nz
+      Felicity Henry
     bio: >-
-      🙊 Scared of everything, doing it anyway 📝 Solo explorer 🌱 imperfectly eco 👤 Neurodiversity & mind health ✨ Travelling to find home
+      👶🏼Real & Raw Mama 💛JJ & Mavy 🫶🏼Motherhood & Family ✨Passionate about Mental Health 📧felicity.henry@outlook.com 💪🏻@f45_training_palmbeach
     location: "Australia"
-    followers: 8326
-    engagement: 930
-    commentsToLikes: 0.391418
-    id: ck6u6qvwkh72y0j71ip3fnvei
+    followers: 23922
+    engagement: 325
+    commentsToLikes: 0.088795
+    id: ck6tshyee4v4d0j71vu7nvqd6
     verified: false
-    hashtags: "#auckland, #dametraveler, #waikato, #newzealand"
-  - username: "jaasmin.xoxo"
+    hashtags: "#love, #aussiemums, #motherhood, #mentalhealth"
+  - username: "elloise_fit"
     fullname: >-
-      fashion | travel | lifestyle
+      Elloise 💖 | Body Positivity
     bio: >-
-      🌎 weltenbummlerin 🎓 student of communication science 🔆 health, fitness, business 💙 ruf crew
+      📍dharawal country (syd) ✨ self love • health • empowerment 🫶🏼 links + discounts:
     location: "Australia"
-    followers: 4516
-    engagement: 803
-    commentsToLikes: 0.133926
-    id: ckapchxbj3vga0i78w909m1fh
+    followers: 48297
+    engagement: 325
+    commentsToLikes: 0.024362
+    id: clb3movyg3g1z0i23q6qp2lf7
     verified: false
-    hashtags: "#ootd, #me, #blogger, #lfl"
+    hashtags: "#gymmotivation, #gymgoals, #mondaymotivation, #mymusclechef"
 ---

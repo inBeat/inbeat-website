@@ -1,12 +1,24 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Seoul In 2023
+title: Top 10 Beauty Instagram Influencers In Seoul In 2024
 description: >-
-  Find top beauty Instagram influencers in Seoul in 2023. Most popular hashtags: #makeup #ootd #beauty.
+  Find top beauty Instagram influencers in Seoul in 2024. Most popular hashtags: #ootd #seoul #dailylook.
 platform: Instagram
-hits: 24
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 24 Instagram influencers like this in Seoul, South Korea for you to work with.
+hits: 29
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 29 Instagram influencers like this in Seoul, South Korea for you to connect with.
 profiles:
+  - username: "wondralice"
+    fullname: >-
+      앨리스 외국모델
+    bio: >-
+      alice from seoul influencer beauty blogger 촬영/협찬 문의 dm ♡
+    location: "South Korea"
+    followers: 54280
+    engagement: 527
+    commentsToLikes: 0.005738
+    id: ck8t4kkkv735s0j78w49q4wee
+    verified: false
+    hashtags: "#believeintruth, #veganskincare, #grwm, #marynmay"
   - username: "glam_dana"
     fullname: >-
       운동하는간호사ㅣ다나(Dana)
@@ -19,30 +31,30 @@ profiles:
     id: ck6uiejgjemip0j71e2w2sfil
     verified: false
     hashtags: "#fitness, #gym, #bodycheck, #dailylook"
-  - username: "hannacoreana"
+  - username: "rosalba"
     fullname: >-
-      Hanna Coreana 한나
+      ROSALBA
     bio: >-
-      𝙏𝙪 𝘾𝙤𝙧𝙚𝙖𝙣𝙖 𝙁𝙖𝙫𝙤𝙧𝙞𝙩𝙖❤️ 📍Seoul, Korea 서울🇰🇷 Beauty l Lifestyle l Korean culture ✉️ hannacoreana99@gmail.com
+      i overshare my life on instagram. 📍Seoul / 서울 beauty and travel
     location: "South Korea"
-    followers: 73663
-    engagement: 1430
-    commentsToLikes: 0.017638
-    id: ck139lh76lwpc0i19g78af5pm
-    verified: false
-    hashtags: "#maquillajecoreano, #modacoreana, #sheinhaul, #sheinofficial"
-  - username: "hanna.co.kr"
+    followers: 2422731
+    engagement: 107
+    commentsToLikes: 0.002615
+    id: ck6tyi6jr3vc90j717kht1ylm
+    verified: true
+    hashtags: "#suppliedby, #giftedby, #douyin, #douyinmakeup"
+  - username: "niko_seoul"
     fullname: >-
-      Hanna Kim 김한나
+      니코
     bio: >-
-      아나운서 / 성우 / 행사MC / 릴리맘 TV Presenter Radio DJ 📻 @thescoop1013 Voice Actress 2018 Pyeongchang Olympics MC 2018 Winter Paralympics MC 🌸🌼🌺
+      FREELANCER living in Seoul 🇰🇷 #모델문의 DM ✍🏼 #프리랜서모델니코
     location: "South Korea"
-    followers: 38082
-    engagement: 186
-    commentsToLikes: 0.007883
-    id: ck5zm77ftm18b0i145hym7m16
+    followers: 5372
+    engagement: 501
+    commentsToLikes: 0.027126
+    id: ckap57qwfajx70i78ox45r9x5
     verified: false
-    hashtags: "#ootd, #nikegolf, #golf, #golflife"
+    hashtags: "#fashion, #barbie, #roadcycling, #namsantower"
   - username: "yangkko"
     fullname: >-
       Yang A Reum
@@ -67,18 +79,42 @@ profiles:
     id: ck8t1pqivwkjd0j78h8xwnoo6
     verified: false
     hashtags: "#kw, #12122020, #love"
-  - username: "ridwanibrahim_"
+  - username: "sandra_ssong"
     fullname: >-
-      R I D W A N 🌏
+      Sasha Song 모델|유튜버🇰🇷
     bio: >-
-      신화사model @shsenter 🇰🇷 🇸🇴🇺🇸 UW‘18 🎓#Seattle 📍Seoul
+      서울/Seoul 🇰🇷📍 290만명 유튜버 ,모델 📸 광고,촬영문의 / Business ⬇️ sasha_song@naver.com
     location: "South Korea"
-    followers: 10562
-    engagement: 1170
-    commentsToLikes: 0.015151
-    id: ck1373afb9jy90i19likt68ss
+    followers: 686415
+    engagement: 599
+    commentsToLikes: 0.008739
+    id: ck8t8gcnikdal0j7833hnrq5k
     verified: false
-    hashtags: "#tb, #japan"
+    hashtags: "#koreanstyle, #koreanmodel, #model, #osaka"
+  - username: "jaesukkim"
+    fullname: >-
+      Illustrating Susu Girls
+    bio: >-
+      SEOUL/SINGAPORE/SYDNEY-BASED FASHION ILLUSTRATOR, CONTENT & ART DIRECTOR - In 🇰🇷 📧: jskillustration@gmail.com
+    location: "South Korea"
+    followers: 355418
+    engagement: 360
+    commentsToLikes: 0.018258
+    id: ck0tyw94xobs50i199wiue7gl
+    verified: true
+    hashtags: "#fashionillustrated, #beauty, #fashionillustration, #susugirls"
+  - username: "unetine__"
+    fullname: >-
+      우네
+    bio: >-
+      @awit.seoul
+    location: "South Korea"
+    followers: 93806
+    engagement: 177
+    commentsToLikes: 0.012737
+    id: ck13d9d1i4bdx0i1980kdtfvv
+    verified: false
+    hashtags: "#dailylook, #daily, #selfie, #ootd"
   - username: "seungsse2"
     fullname: >-
       🇰🇷 승스이 | 리우[Liu Makeup]
@@ -91,40 +127,4 @@ profiles:
     id: ck0w794mqcdt30i19zgt8hieh
     verified: false
     hashtags: "#makeupartist, #mensstyle, #menshair, #makeupkorea"
-  - username: "anna.vivchar"
-    fullname: >-
-      Anna🦋🍦
-    bio: >-
-      Seoul📍@a.sset_official 🇰🇷 MA @egomodels_ukraine🇺🇦 @fashionmodel.it 🇮🇹 @premium_models 🇫🇷 @bravomodelstokyo🇯🇵 @blowmodels🇪🇸 @marilynagencyny 🇺🇸
-    location: "South Korea"
-    followers: 15752
-    engagement: 370
-    commentsToLikes: 0.021946
-    id: ck0u8a7fy6yas0i19dfn4iwf6
-    verified: false
-    hashtags: "#seasonal, #beauty"
-  - username: "naina_thapa"
-    fullname: >-
-      Naina ★네나★🧿
-    bio: >-
-      INDIA 🇮🇳 | SEOUL 🇰🇷 Founder of @flawinabeauty
-    location: "South Korea"
-    followers: 7162
-    engagement: 908
-    commentsToLikes: 0.051511
-    id: ck6uevqevtcty0j718rd4gh5w
-    verified: false
-    hashtags: "#photooftheday, #fashionista, #beauty, #makeup"
-  - username: "amy.apeach"
-    fullname: >-
-      Amy • 에이미
-    bio: >-
-      📍Seoul | 서울⠀ ▪️프리랜서 모델 - 촬영문의 DM⠀ 한국에서 사는 영국여인🇬🇧
-    location: "South Korea"
-    followers: 2582
-    engagement: 1022
-    commentsToLikes: 0.047150
-    id: ck9wdcg62f1020j787vvonbun
-    verified: false
-    hashtags: "#miallpinkslimmingpill"
 ---

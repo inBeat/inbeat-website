@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In South Korea In 2023
+title: Top 10 Music TikTok Influencers In South Korea In 2024
 description: >-
-  Find top music TikTok influencers in South Korea in 2023. Most popular hashtags: #music #youtube #youtuber.
+  Find top music TikTok influencers in South Korea in 2024. Most popular hashtags: #music #youtube #fyp.
 platform: TikTok
 hits: 23
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 23 TikTok influencers like this in South Korea for you to work with.
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our database has 23 TikTok influencers like this in South Korea for you to contact.
 profiles:
   - username: "2color"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ckbkvzgn0rq760j23gcpp4li0
     verified: false
     hashtags: "#instrument, #musicinstrument, #orgel, #castleinthesky"
-  - username: "hayoungbeen"
-    fullname: >-
-      Hayoung Been
-    bio: >-
-      Hi I'm Hayoung. I'm a pianist, composer, singer and a model. Nice to enter here♡
-    location: "South Korea"
-    followers: 8975
-    engagement: 823
-    commentsToLikes: 0.143160
-    id: ck9jzci2g84xk0j78b6giyzxt
-    verified: false
-    hashtags: "#model, #foryou, #dance, #singer"
   - username: "zeim_"
     fullname: >-
       재임𝗭𝗘𝗜𝗠
@@ -73,12 +61,12 @@ profiles:
     bio: >-
       아이큐 공식 틱톡계정입니다. This is the official TikTok for IQ
     location: "South Korea"
-    followers: 5394
-    engagement: 245
-    commentsToLikes: 0.057488
+    followers: 5525
+    engagement: 250
+    commentsToLikes: 0.065013
     id: ckbkw67nurt9t0j233bhk05q8
     verified: false
-    hashtags: "#7080, #guitar, #youtube, #livemusic"
+    hashtags: "#music, #live, #youtube, #7080"
   - username: "hiphopplaya"
     fullname: >-
       HIPHOPPLAYA
@@ -127,4 +115,16 @@ profiles:
     id: ck9tuay1bkt540j78ra2n5ab7
     verified: true
     hashtags: "#xum, #iaan, #ddalala, #dancechallenge"
+  - username: "trigger.official"
+    fullname: >-
+      Trigger
+    bio: >-
+      Instagram : trigger_official.kr Youtube : DYent 트리거 공식 유튜브 👇👇👇
+    location: "South Korea"
+    followers: 544900
+    engagement: 1324
+    commentsToLikes: 0.018793
+    id: ckb982vj2r9be0j23gzkcj1em
+    verified: false
+    hashtags: "#trigger, #ato, #sharkt, #beatbox"
 ---

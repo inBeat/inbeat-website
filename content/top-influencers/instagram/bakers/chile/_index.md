@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Chile In 2023
+title: Top 10 Bakers Instagram Influencers In Chile In 2024
 description: >-
-  Find top bakers Instagram influencers in Chile in 2023. Most popular hashtags: #chile #bikelife #santiagodechile #nature.
+  Find top bakers Instagram influencers in Chile in 2024. Most popular hashtags: #love #chile #nature #santiagodechile.
 platform: Instagram
-hits: 12
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 12 Instagram influencers like this in Chile for you to collaborate.
+hits: 9
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 9 Instagram influencers like this in Chile for you to pitch.
 profiles:
   - username: "istvanmolnarb"
     fullname: >-
@@ -66,19 +66,7 @@ profiles:
     commentsToLikes: 0.034164
     id: ck13bhlz5vfyl0i19byk0phjf
     verified: false
-    hashtags: "#autoschile, #rallymobil, #cars, #womeninmotorsport"
-  - username: "micamurua"
-    fullname: >-
-      
-    bio: >-
-      📌BsAs, Argentina Model / Holistic Health / Beauty New York @emg_models CL @elitemodel_chile MEX @baxtmodels Student INN @nutritionschool 📚
-    location: "Chile"
-    followers: 23851
-    engagement: 336
-    commentsToLikes: 0.145892
-    id: ck139t27qmz500i19t1yqfv2v
-    verified: false
-    hashtags: "#stbarths, #goldenhour, #stbarth, #lookoftheday"
+    hashtags: "#selfie, #r5, #instapic, #lovecars"
   - username: "__haku__"
     fullname: >-
       Claudia
@@ -90,19 +78,31 @@ profiles:
     commentsToLikes: 0.045702
     id: ck0ttabdi1u8e0i19zshxqn98
     verified: false
-    hashtags: "#visitachile, #mountains, #longexposures, #losrios"
-  - username: "sebamirandaxc"
+    hashtags: "#longexposure, #milkywaychasers, #chile, #santiagodechile"
+  - username: "maritorreblanca"
     fullname: >-
-      Seba Miranda
+      Marina Torreblanca
     bio: >-
-      POR MI Y PARA MI 🚲🌎 🏆 8X Campeón Nacional MTB Chile 🏆 Trans Andes Challenge 🇨🇱 Team Chile. @bortec_cycling
+      🎙️ Knit tan Seria 📺 YouTube Trato de quedarme quieta, pero no me resulta. 🧶 Hago, la embarro, desarmo, comparto, amo, enseño y aprendo… a veces.
     location: "Chile"
-    followers: 9466
-    engagement: 835
-    commentsToLikes: 0.026265
-    id: ck6txruitzhmv0j717kqkh7hb
+    followers: 60505
+    engagement: 178
+    commentsToLikes: 0.089361
+    id: ck135vke53g220i190at52ynu
     verified: false
-    hashtags: "#montonsportchile, #sentirsebien, #ciclismoderuta, #ciclistasurbanos"
+    hashtags: "#knitting, #nevernotknitting, #knittinglove, #knitwear"
+  - username: "nudofrances"
+    fullname: >-
+      Javi B. ⭐ Cursos de Bordado & Pedrería
+    bio: >-
+      ⭐Te enseño las técnicas y mis tips para que liberes tu lado salvaje al bordar y logres bordados llenos de brillo y color. 👇CONÓCELOS AQUÍ!
+    location: "Chile"
+    followers: 56732
+    engagement: 118
+    commentsToLikes: 0.060337
+    id: ck9wfnz7ppp3p0j789fl9dj9p
+    verified: false
+    hashtags: "#lentejuelas, #beadembroidery, #embroideryhoopart, #beadwork"
   - username: "marcos_evora"
     fullname: >-
       M A R C O S   E V O R A
@@ -115,16 +115,4 @@ profiles:
     id: ck0vy97bo2udu0i19y5y1m1a5
     verified: false
     hashtags: "#photography, #photographer, #mar, #beach"
-  - username: "nudofrances"
-    fullname: >-
-      Escuela | Bordado ⭐ Pedrería
-    bio: >-
-      🖤 Con mis cursos potencia tu técnica y encuentra tu sello propio para que logres crear bordados extraordinarios 🎆 👇 Mis experiencias creativas:
-    location: "Chile"
-    followers: 52490
-    engagement: 120
-    commentsToLikes: 0.065807
-    id: ck9wfnz7ppp3p0j789fl9dj9p
-    verified: false
-    hashtags: "#beadlove, #bordadochile, #nudofrancesbordados, #needleandthread"
 ---

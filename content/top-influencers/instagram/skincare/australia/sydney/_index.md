@@ -1,96 +1,72 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Sydney In 2023
+title: Top 10 Skincare Instagram Influencers In Sydney In 2024
 description: >-
-  Find top skincare Instagram influencers in Sydney in 2023. Most popular hashtags: #skincare #skincareroutine #australia #sephoraaus.
+  Find top skincare Instagram influencers in Sydney in 2024. Most popular hashtags: #skincare #gifted #fashion #skincareroutine.
 platform: Instagram
-hits: 28
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 28 Instagram influencers like this in Sydney, Australia for you to work with.
+hits: 76
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 76 Instagram influencers like this in Sydney, Australia for you to pitch.
 profiles:
-  - username: "belindamasri"
+  - username: "claudia.hackman"
     fullname: >-
-      Belinda Masri | Bridal MUA
+      Claudia Hackman | Fashion Stylist & Ageing Model
     bio: >-
-      👰🏻Award winning Bridal Makeup Artist 🌟10 Years Experience ✈️ National & International services 📍406 Stoney Creek Rd, Kingsgrove ↓ ↓ 𝐁𝐎𝐎𝐊 𝐎𝐍𝐋𝐈𝐍𝐄 ↓ ↓
+      ▪️ The Style Whisperer ▪️ Passionately empowering women For collaborations & personal styling appointments 📧: claudia@claudiahackman.com.au
     location: "Australia"
-    followers: 31845
-    engagement: 190
-    commentsToLikes: 0.050141
-    id: ck6uc6m5mdtkg0j71ufn1uql9
+    followers: 9026
+    engagement: 214
+    commentsToLikes: 0.381266
+    id: clpny41p23x6t0k08tiz2w2e7
     verified: false
-    hashtags: "#iheartmakeup, #softglammakeup, #makeupbybelindamasri, #skincare"
-  - username: "theycallmezuzu"
+    hashtags: "#fashionover50, #womenover50, #jewellery, #over50style"
+  - username: "blushingvines"
     fullname: >-
-      Visual storyteller
+      🌿🌿 Clarissa
     bio: >-
-      ✖️ Visual storyteller @creacreastudio ✖️ Creative soul @inhideandseek ✖️ Co-founder @studyanywhere ✖️ Fashion. Travel. Art. 👇 New book NE/UDRZATELNI
+      ❤️ plants + selfcare 💌 hello.blushingvines@gmail.com 🧵@calicoandfern 🌱 Sydney, AUS 🇦🇺
     location: "Australia"
-    followers: 31144
-    engagement: 54
-    commentsToLikes: 0.112476
-    id: ck5hhir0g8fry0i11uhd51lff
+    followers: 21764
+    engagement: 148
+    commentsToLikes: 0.032567
+    id: ck6u7ou57msmn0j71abnnezjy
     verified: false
-    hashtags: "#kristinaptacin, #throwback, #ootd, #slovakfashion"
+    hashtags: "#instaplant, #houseofplantlovers, #theartofslowliving, #onwednesdaysweplantpink"
+  - username: "lady.lolas"
+    fullname: >-
+      Katie Lolas
+    bio: >-
+      Hello hello! 🙋🏽‍♀️ Welcome to my 🌎 👨‍👩‍👧‍👦🐶Family | 🍏Food | 💁🏽‍♀️Hacks | 💪🏽Healthy living without restrictions
+    location: "Australia"
+    followers: 161208
+    engagement: 133
+    commentsToLikes: 0.117642
+    id: ck5pynoy5wwg80i11gusgqx3m
+    verified: true
+    hashtags: "#mumlife, #reels, #motherhood, #recipeshare"
+  - username: "nolan_and_us"
+    fullname: >-
+      Alexandra Gauthier
+    bio: >-
+      ❀ Content Creator | Photographer | Product Stylist ❀ #MelbourneMum 🇦🇺 ❀ Family | Food | Mum Life | Building Our Home 💌 nolan.and.us@gmail.com
+    location: "Australia"
+    followers: 29619
+    engagement: 69
+    commentsToLikes: 0.132417
+    id: ck0vvxer4r75z0i19xrzwbsww
+    verified: false
+    hashtags: "#healthyfoodblog, #montessoriathome, #beachhouse, #melbournecafe"
   - username: "cocoandchinos"
     fullname: >-
       Jacqueline
     bio: >-
-      Makeup • Skincare • Lifestyle 📍 Sydney, Australia 💌 jac@cocoandchinos.com 📖 New - Bobbi Brown Luxe Defining Lipstick ↙️
+      Makeup • Skincare • Lifestyle 📍 Sydney, Australia 💌 jac@cocoandchinos.com 📖 New - Christmas Gift Guide 2023 ↙️
     location: "Australia"
-    followers: 17384
-    engagement: 286
-    commentsToLikes: 0.381188
+    followers: 15856
+    engagement: 246
+    commentsToLikes: 0.235790
     id: ck6ubdwnu8zo00j71mersuarw
     verified: false
-    hashtags: "#ausbeautybabes, #crueltyfree, #redlipstick, #christmasgiftguide"
-  - username: "soumyaakapur"
-    fullname: >-
-      Soumya Kapur
-    bio: >-
-      A little bit of everything🌈✨ Luxury Brand Management👩🏻‍🎓 🇮🇳 📩: soumyaakapur@hotmail.com
-    location: "Australia"
-    followers: 27283
-    engagement: 79
-    commentsToLikes: 0.126094
-    id: ck6tr2o4lwl3w0j71noipvrhv
-    verified: false
-    hashtags: "#aestheticpictures, #pinterestinspired, #staycreative, #australia"
-  - username: "byemmaleah"
-    fullname: >-
-      Em | skincare + beauty
-    bio: >-
-      sydney, aus 📍 skincare / hair / beauty + everyday life 🤍 💌: emilia@cloutcommunications.com.au
-    location: "Australia"
-    followers: 15952
-    engagement: 1913
-    commentsToLikes: 0.112932
-    id: cl4l962k3t1en0i232ak4mtb9
-    verified: false
-    hashtags: "#aveneau, #personalbestskin, #tymodryer, #tymobeauty"
-  - username: "matthewmitcham88"
-    fullname: >-
-      Matt(hew) Mitcham
-    bio: >-
-      My ONLY profile! olympic champion | MC | presenter | goal crusher| wedding consultant | enquiries: info@dreamtalentmanagement.com.au
-    location: "Australia"
-    followers: 32443
-    engagement: 623
-    commentsToLikes: 0.021111
-    id: ck5q3swjcmaeb0i11t3zdadog
-    verified: false
-    hashtags: "#lgbt, #lgbtqia, #grancanaria, #holiday"
-  - username: "dugongss"
-    fullname: >-
-      D A W N 🪴
-    bio: >-
-      ☼ SYDNEY, AUSTRALIA ☾ @frmdusktildawn ♡ dawn.dugongg@hotmail.com
-    location: "Australia"
-    followers: 63310
-    engagement: 52
-    commentsToLikes: 0.031799
-    id: ck14knjy7qegi0i19dp3hg94i
-    verified: false
-    hashtags: "#maccosmetics, #skincareroutine, #sephoraaus, #hourglasscosmetics"
+    hashtags: "#sydneybeautyblog, #makeupmadness, #lipstick, #ausbeautybabes"
   - username: "unbeleafablefood"
     fullname: >-
       Jess - Vegan Food Melbourne
@@ -102,29 +78,53 @@ profiles:
     commentsToLikes: 0.475509
     id: ck5c6i25y5hac0i1100fgq43o
     verified: false
-    hashtags: "#melbournedesserts, #vegains, #melbournefoodblogger, #vegan"
-  - username: "_stuart_wilson"
+    hashtags: "#snacks, #melbournephotographer, #chips, #veganrecipe"
+  - username: "dugongss"
     fullname: >-
-      Stuart Wilson 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+      D A W N 🪴
     bio: >-
-      ➮ Personal Trainer ➮ Aspire. Learn. Create. ➮ Melbourne, Aus @classpassausnz ambassador
+      ☼ SYDNEY, AUSTRALIA ☾ @frmdusktildawn ♡ dawn.dugongg@hotmail.com
     location: "Australia"
-    followers: 8970
-    engagement: 359
-    commentsToLikes: 0.139880
-    id: ck15u8y9um0770i19o710xq0y
+    followers: 63310
+    engagement: 52
+    commentsToLikes: 0.031799
+    id: ck14knjy7qegi0i19dp3hg94i
     verified: false
-    hashtags: "#fitfam, #classpasscrew, #classpassambassador, #melbourne"
-  - username: "maddysbeautytalk"
+    hashtags: "#bts, #maccosmetics, #toofacedcosmetics, #bbloggerau"
+  - username: "evelyn.ellis"
     fullname: >-
-      Maddy’s Beauty Blog 🌸
+      Evelyn Ellis
     bio: >-
-      📍Sydney, Australia | Nurse 💋Makeup and Skincare Lover 💄 Reviews, Flatlays, Hauls 💌 PR/Collab: maddysbeautytalk@gmail.com or DM
+      Australian Creative & Media Personality (But make it spicy) 🌶️ evelyn@maxconnectors.com.au
     location: "Australia"
-    followers: 6630
-    engagement: 809
-    commentsToLikes: 0.239261
-    id: ck9wompi75s350j78axu4ws5q
+    followers: 455055
+    engagement: 379
+    commentsToLikes: 0.012538
+    id: ckap50apf9m2b0i78a2lwb2n2
     verified: false
-    hashtags: "#skinrituals, #makeupinspiration, #makeupcommunity, #microinfluencer"
+    hashtags: "#giftguide, #blackfriday, #halloween, #westpac"
+  - username: "brittany.melinda"
+    fullname: >-
+      𝐵𝓇𝒾𝓉𝓉𝒶𝓃𝓎
+    bio: >-
+      Fashion | Beauty | Motherhood ♡ ⋆Wife & Mumma of Georgia & Hudson Welcome to my Life/Wardrobe🤍 📍Syd, Australia 💌brittany@bluechiptalent.com.au
+    location: "Australia"
+    followers: 37270
+    engagement: 5
+    commentsToLikes: 0.000000
+    id: cksjxnoqccs890j238i6mcgxa
+    verified: false
+    hashtags: "#family, #birkenheadpoint, #merrychristmas, #bhpspringfinds"
+  - username: "love.christina.xo"
+    fullname: >-
+      Christina Fevre
+    bio: >-
+      ⭐️ Creator & photographer 💫Travel, fashion, beauty, health & lifestyle ✨Management: @winkmodels info@winkmodels.com or hello@lovechristinaxo.com
+    location: "Australia"
+    followers: 337009
+    engagement: 141
+    commentsToLikes: 0.067024
+    id: ck13c84lqz1y50i192xk9bkvq
+    verified: false
+    hashtags: "#nsw, #visitsydney, #taiwantoday, #chic"
 ---

@@ -1,12 +1,60 @@
 ---
-title: Top 10 Dancers Instagram Influencers In South Korea In 2023
+title: Top 10 Dancers Instagram Influencers In South Korea In 2024
 description: >-
-  Find top dancers Instagram influencers in South Korea in 2023. Most popular hashtags: #dance #choreography #ygx.
+  Find top dancers Instagram influencers in South Korea in 2024. Most popular hashtags: #dance #dancer #choreography #video.
 platform: Instagram
-hits: 162
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 162 Instagram influencers like this in South Korea for you to pitch.
+hits: 163
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat has 163 Instagram influencers like this in South Korea for you to connect with.
 profiles:
+  - username: "redlic_haeun95"
+    fullname: >-
+      한하은 / REDLIC 레드릭
+    bio: >-
+      Dancer / Choreographer 🇰🇷 @mannequeen_official_ @belegacy_official ❤️
+    location: "South Korea"
+    followers: 238445
+    engagement: 783
+    commentsToLikes: 0.014400
+    id: ck137insubqie0i19fyacl0op
+    verified: false
+    hashtags: "#redlic, #choreo, #dancer, #redlichan"
+  - username: "danzelo2"
+    fullname: >-
+      Danzel ✨
+    bio: >-
+      📍 CHINA Waacking dancer from Indonesia 🇮🇩
+    location: "South Korea"
+    followers: 26498
+    engagement: 3326
+    commentsToLikes: 0.053884
+    id: ckap1jg45usb80i78tggm35a7
+    verified: false
+    hashtags: "#o2dc, #radikalforzejam, #whacking, #o2dancecrew"
+  - username: "shirlypodungge"
+    fullname: >-
+      𝙎𝙝𝙞𝙧𝙡𝙮 𝘼𝙡𝙞𝙛𝙞𝙖 𝙋𝙤𝙙𝙪𝙣𝙜𝙜𝙚
+    bio: >-
+      🇮🇩 Dancer, Choreographer💃🏻 For job and any collabo you can DM me 💌 @krich_gtlo 💎 Pemburu PROMO !! ⬇️⬇️
+    location: "South Korea"
+    followers: 7056
+    engagement: 351
+    commentsToLikes: 0.032799
+    id: ckaox9xxzcfdw0i78yfawfaml
+    verified: false
+    hashtags: "#viral, #reelsvideo, #crazy, #newjeans"
+  - username: "hyeonseeeok_"
+    fullname: >-
+      송현석 Theo Song
+    bio: >-
+      Choreographer&Dancer Director @highcutmag
+    location: "South Korea"
+    followers: 43695
+    engagement: 121
+    commentsToLikes: 0.011389
+    id: ck5zr9o8fw5zl0i14sqo6tsuy
+    verified: false
+    hashtags: "#system24ss"
   - username: "d2nasoaring"
     fullname: >-
       Dina 디나 Mujanović
@@ -19,18 +67,6 @@ profiles:
     id: ck6tvpzpwnm7r0j718srk9qrl
     verified: false
     hashtags: "#selfie, #skincare, #koreanbeauty, #koreanskincare"
-  - username: "swk8910"
-    fullname: >-
-      Sarah🌹
-    bio: >-
-      🇰🇷 Korean adoptee 💙 🏳️‍🌈 Queer & proud 🔆 📍Published model ❌ 🌏 6/7 continents traveled ✈️ 💃🏻 Argentine Tango dancer 🌹 📚 B.A., Psychology 📖
-    location: "South Korea"
-    followers: 2962
-    engagement: 976
-    commentsToLikes: 0.296777
-    id: ck15qv3gf4sco0i19s8hacxqy
-    verified: false
-    hashtags: "#portraitphotography, #pschallenge, #bravopost, #creativision"
   - username: "seung_bi_ahn"
     fullname: >-
       안승비/Seungbi Ahn
@@ -91,40 +127,4 @@ profiles:
     id: ck137iqh4bqxe0i198lv7ylb5
     verified: false
     hashtags: "#streetfashion, #goodvibes, #dancevideo, #reels"
-  - username: "heeeeyun"
-    fullname: >-
-      김희연
-    bio: >-
-      #heeyun #heeeeyun #Dancer #choreographer dm ➰ 📩 🆗
-    location: "South Korea"
-    followers: 183581
-    engagement: 644
-    commentsToLikes: 0.003036
-    id: ck0w52d7q1kck0i19pr2ljopy
-    verified: false
-    hashtags: "#casetify, #xz, #xzcompany, #instantfunk"
-  - username: "chaeryeongs.itzy"
-    fullname: >-
-      ITZY CHAERYEONG 채령
-    bio: >-
-      All in us! for 있지 Main Dancer 이채령 –fɑnstɑgrɑm follow my backup @itzy__chaeryeongs
-    location: "South Korea"
-    followers: 231374
-    engagement: 616
-    commentsToLikes: 0.003443
-    id: ck8t279bgyec80j7801uk2m5y
-    verified: false
-    hashtags: "#princessyunaday, #happyyunaday, #itzy, #2yearswithitzy"
-  - username: "przemyslawkrompiec"
-    fullname: >-
-      Przem | Polche | 프셰므스와브 | 폴최
-    bio: >-
-      Freelancer | Dancer | Photographer | Model | IT Developer | Youtuber | Influencer | [Contact by DM/ 광고문의 DM으로]
-    location: "South Korea"
-    followers: 23675
-    engagement: 234
-    commentsToLikes: 0.040132
-    id: ck6u852crphei0j71a818x2qz
-    verified: false
-    hashtags: "#culturepl, #polish, #2019, #polche"
 ---

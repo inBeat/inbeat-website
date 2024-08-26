@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In United States In 2023
+title: Top 10 Comedians TikTok Influencers In United States In 2024
 description: >-
-  Find top comedians TikTok influencers in United States in 2023. Most popular hashtags: #fyp #foryou #comedy #foryoupage.
+  Find top comedians TikTok influencers in United States in 2024. Most popular hashtags: #fyp #foryou #comedy #stitch.
 platform: TikTok
-hits: 1089
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 1089 TikTok influencers like this in United States for you to pitch.
+hits: 1091
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our platform has 1091 TikTok influencers like this in United States for you to pitch.
 profiles:
   - username: "kevinjamesofficial"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.011954
     id: ck8qkrmgyikvf0j78910agtqz
     verified: true
-    hashtags: "#foryou, #hubiehalloween, #soundguy, #fyp"
+    hashtags: "#fyp, #foryou, #fypage, #hubiehalloween"
   - username: "evanzugin"
     fullname: >-
       Evan Zugin
@@ -31,6 +31,18 @@ profiles:
     id: ckb9pzor4llh40j23884w2ipb
     verified: false
     hashtags: "#foryoupage, #chameleon, #chameleons, #fypage"
+  - username: "max_devlin"
+    fullname: >-
+      Max Devlin & Co.
+    bio: >-
+      MDNN Puppeteer Hyperoaster Singer/Comedian Random dude on TT
+    location: "United States"
+    followers: 55300
+    engagement: 2412
+    commentsToLikes: 0.169281
+    id: ck963nevivld40j788jn9dxbq
+    verified: false
+    hashtags: "#gravers, #duet, #funny, #stitch"
   - username: "socialmedianews74"
     fullname: >-
       SMN74
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.022426
     id: ck9e0flve5u4m0j78hflwv6xu
     verified: false
-    hashtags: "#laugh, #fyp, #comedy, #jokes"
+    hashtags: "#questions, #fyp, #laugh, #nathanhurdcomedy"
   - username: "monnacomedy"
     fullname: >-
       Monna Comedy
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.023031
     id: ckdcmcsg1omnv0j237wlbchpt
     verified: false
-    hashtags: "#benscomedy, #tattedislander, #stitch, #benmatias"
+    hashtags: "#benmatias, #stitch, #benscomedy, #tattedislander"
   - username: "real.official.jr"
     fullname: >-
       TikTok DJ
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.030572
     id: cka7ni3qcx45t0i78hlx4jy0u
     verified: true
-    hashtags: "#fypppppppppppppp, #greenscreenvideo, #ripdebo, #tinylister"
+    hashtags: "#foryou, #happynewyear2021, #foryourpage, #celebritylookalike"
   - username: "leoddball"
     fullname: >-
       Leo Graye
@@ -115,16 +127,4 @@ profiles:
     id: ckbl5vpxk3i2i0j23lbhgmwoz
     verified: false
     hashtags: "#anime, #4u, #myheroacademia, #foryoupage"
-  - username: "kill_wil"
-    fullname: >-
-      Wilhelm
-    bio: >-
-      Actor/Voice actor/Comedian.
-    location: "United States"
-    followers: 24400
-    engagement: 2012
-    commentsToLikes: 0.060284
-    id: ckb99r7nru4yk0j23gqrr6jrz
-    verified: false
-    hashtags: "#cute, #hefty, #nature, #morning"
 ---

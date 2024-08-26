@@ -1,12 +1,48 @@
 ---
-title: Top 10 Cooking Instagram Influencers In South Africa In 2023
+title: Top 10 Cooking Instagram Influencers In South Africa In 2024
 description: >-
-  Find top cooking Instagram influencers in South Africa in 2023. Most popular hashtags: #cooking #food #capetown.
+  Find top cooking Instagram influencers in South Africa in 2024. Most popular hashtags: #cooking #cake #provinciallife.
 platform: Instagram
-hits: 154
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 154 Instagram influencers like this in South Africa for you to collaborate.
+hits: 164
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database holds 164 Instagram influencers like this in South Africa for you to work with.
 profiles:
+  - username: "judiekama"
+    fullname: >-
+      Judie Kama
+    bio: >-
+      •cooking page @plate_with_judiekama •Makeup artist @makeup_by_judiekama •Dj Just judie •Gods child https://www.kotex.co.za/products/ultra-thin-pads
+    location: "South Africa"
+    followers: 135186
+    engagement: 3227
+    commentsToLikes: 0.015697
+    id: ck13cgiel084e0i19d3dxjumm
+    verified: false
+    hashtags: "#hdj2023, #outofthisworldza, #hollywoodbetsdurbanjuly, #toiletschangelives"
+  - username: "geradewet"
+    fullname: >-
+      Gera de Wet  |  Lifestyle Designer
+    bio: >-
+      A life of interior design, gardening, styling, cooking, flowers, DIY, travelling, family, #GeraFinds @dewetshofwines is home South Africa
+    location: "South Africa"
+    followers: 10067
+    engagement: 302
+    commentsToLikes: 0.073842
+    id: ck6tzrg32bevv0j71wlx9h72c
+    verified: false
+    hashtags: "#moodforfloral, #birthdayparty, #kidsparty, #cakeoftheday"
+  - username: "drizzleanddip"
+    fullname: >-
+      Sam Linsell
+    bio: >-
+      Delicious recipes | Cooking & Baking | Food stories | cookbook author | Food photographer & food stylist | Recipe developer | Teaching you to cook
+    location: "South Africa"
+    followers: 67853
+    engagement: 102
+    commentsToLikes: 0.038193
+    id: ck5zryynlxii60i14ronnukt6
+    verified: false
+    hashtags: "#foodstyling, #appetizers, #provinciallife, #makemoments"
   - username: "sinazotambo"
     fullname: >-
       BONES
@@ -31,100 +67,64 @@ profiles:
     id: ck5qdlsmfw7h20i11jds6da4y
     verified: false
     hashtags: "#dinneratmatlohas, #sundaycookingclass"
-  - username: "judiekama"
-    fullname: >-
-      Judie Sbahle Kama
-    bio: >-
-      •cooking page @plate_with_judiekama •Co-owner and founder of @botched_hair •Makeup artist @makeup_by_judiekama •Dj God Favourite 😇
-    location: "South Africa"
-    followers: 99404
-    engagement: 259
-    commentsToLikes: 0.013507
-    id: ck13cgiel084e0i19d3dxjumm
-    verified: false
-    hashtags: "#babysoft, #ad, #ithembawalkathon, #toiletschangelives"
-  - username: "fehmz"
-    fullname: >-
-      Fehmz
-    bio: >-
-      Sharing my life adventure with you Lifestyle | Travel | Food | Plus+ Go to > www.fehmz.com JHB, ZA 🇿🇦 #southafrica @halaalgoodsmarket @fehmzmocktails
-    location: "South Africa"
-    followers: 125944
-    engagement: 313
-    commentsToLikes: 0.015450
-    id: ck0w6espr882r0i19xmu3iovq
-    verified: false
-    hashtags: "#fehmzsavoury, #cooking, #fehmzsweet, #fehmz"
   - username: "neillanthony"
     fullname: >-
       Neill Anthony
     bio: >-
-      Virtual diary of the private chef in Cape Town and around the world 🌎... www.neillanthony.com
+      Virtual diary of the private chef around the world 🌎... www.neillanthony.com
     location: "South Africa"
-    followers: 22816
-    engagement: 336
-    commentsToLikes: 0.040738
+    followers: 31152
+    engagement: 264
+    commentsToLikes: 0.043460
     id: ck5znyge0peao0i14kglzwm3b
     verified: false
-    hashtags: "#food, #royallivekitchen, #lockdown, #privatechef"
-  - username: "olivermatthieu"
+    hashtags: "#capetown, #privatechef, #privatechefneillanthony, #foodnetwork"
+  - username: "kaminipather"
     fullname: >-
-      Oliver Matthieu
+      Kamini Like Harmony
     bio: >-
-      Child Model & Actor 112cm / 18.5kg Chinese-Indonesian🇮🇩 & South African🇿🇦 Cape Town, South Africa🇿🇦 Account managed by dad DM for collaboration
+      Host of #GirlEatWorldTV @Netflix @MasterChef_SA winner S2 @nutritionschool certified Nutrition & Health Coach Runner. Dog-person.
     location: "South Africa"
-    followers: 5393
-    engagement: 1299
-    commentsToLikes: 0.091890
-    id: ck15pkwu6ye0b0i19o3n9yx4s
-    verified: false
-    hashtags: "#childmodel, #friendship, #boy, #schoolboy"
-  - username: "michelle_vanessaa_"
+    followers: 37230
+    engagement: 89
+    commentsToLikes: 0.050337
+    id: ckaost6k2szaw0i78ocytqyhn
+    verified: true
+    hashtags: "#wine, #run, #cooking, #runrunrun"
+  - username: "funfoodrecipeworld"
     fullname: >-
-      Michelle Vanessa
+      Shema's Kitchen
     bio: >-
-      Miami🏝TV Host🎤Food & Travel Critic🍴✈️ Nicaraguan 🇳🇮 German 🇩🇪 African American 🇺🇸Meme Addict 😆 Dog Lover 🐾 Old Fashion with a Modern Twist
+      Food Blogger Recipe Creator 🫰🏻 #shemaskitchen cookbook Dm for Collab/PR❤️ 📍South Africa 🇿🇦 originally from 🇮🇳
     location: "South Africa"
-    followers: 30778
-    engagement: 465
-    commentsToLikes: 0.120945
-    id: ck6tqe91vqy2q0j71tv5jm53n
+    followers: 72537
+    engagement: 433
+    commentsToLikes: 0.037749
+    id: ck9wgfsx6t89h0j789b86ifdl
     verified: false
-    hashtags: "#miami, #heels, #travel, #wanderlust"
-  - username: "blenbaby"
+    hashtags: "#eidaladha, #desserts, #ramadan, #foodphotography"
+  - username: "diariesofanislandergirl"
     fullname: >-
-      Babygirl🤎
+      𝘇 𝗮 𝗶 𝗻 𝗮 𝗵  ✨
     bio: >-
-      🏫 Sociology & African Studies Blen Gebru Import & Export™️ Dm @hosabysosa to join our meal plan🥗 🇺🇸 🇦🇼 🇨🇦 🇦🇪 🇪🇬 🇹🇷 🇶🇦... 📞 +251911232862 /Viber 🌍📍🇪🇹
+      ✧ food • skincare • makeup • lifestyle 🇲🇺 ✧ shop @_mocouture_ ✧ book acc @diariesofabooknerd ✧ other links ⤵
     location: "South Africa"
-    followers: 22325
-    engagement: 263
-    commentsToLikes: 0.046462
-    id: ck0w3y8xlvvy10i19x7t1ffnh
+    followers: 12565
+    engagement: 439
+    commentsToLikes: 0.016002
+    id: ck5hqose9tghk0i11u4gxah0n
     verified: false
-    hashtags: "#exercise, #cooking, #blackwomen, #pampered"
-  - username: "jeannimulder"
+    hashtags: "#realmagic, #cokefoodfestival, #larocheposay, #diariesofanislandergirl"
+  - username: "selflovingblackwoman"
     fullname: >-
-      🕊 jeanni mulder 🕊
+      Antonette Karabo Motloung
     bio: >-
-      📍cape town @freedommodelsla @bossmodelsa @modelwerk @modellinkagency @womendirect_milano
+      🏳️‍🌈 JHB | CPT @slbw.home 🏠 📧: antonette.motloung@gmail.com
     location: "South Africa"
-    followers: 25791
-    engagement: 512
-    commentsToLikes: 0.009827
-    id: ck5cdutvtjth20i11g9f60fzd
+    followers: 7459
+    engagement: 771
+    commentsToLikes: 0.032826
+    id: ck14jtc1tm2xw0i19bpuyzgo4
     verified: false
-    hashtags: "#hi, #summerishere, #cookingmadeeasy, #staytuned"
-  - username: "tylz_m"
-    fullname: >-
-      TYLER MOOLMAN
-    bio: >-
-      📍Cape Town 🇿🇦 ICE Model Management Loves snacks. Industrial Psychology. Sand Cloud Ambassador (25% discount: TylerMo25)🌊 #savetheocean
-    location: "South Africa"
-    followers: 10849
-    engagement: 594
-    commentsToLikes: 0.018948
-    id: ck5cdtyimjruu0i11z4jb2rt6
-    verified: false
-    hashtags: "#island, #sailing, #seychelles, #catamaran"
+    hashtags: "#cooking, #homevlogs, #handyandysprayforeveryclean, #cleaningtips"
 ---

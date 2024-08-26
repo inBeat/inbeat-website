@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Montreal In 2023
+title: Top 10 Food TikTok Influencers In Montreal In 2024
 description: >-
-  Find top food TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #food #montreal #quebec.
+  Find top food TikTok influencers in Montreal in 2024. Most popular hashtags: #fyp #montreal #food #foryou.
 platform: TikTok
 hits: 28
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 28 TikTok influencers like this in Montreal, Canada for you to connect with.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 28 TikTok influencers like this in Montreal, Canada for you to work with.
 profiles:
   - username: "gen_laforce"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck9ae5yj90fhd0j78bsb0beds
     verified: false
     hashtags: "#canadiancreators, #whatieatinaday, #tiktokmontreal, #magiefondvert"
-  - username: "gongshowgear"
-    fullname: >-
-      GONGSHOW HOCKEY
-    bio: >-
-      The Original Lifestyle Hockey Apparel Brand Tag #GONGSHOW 🛒 GONGSHOW.COM👇
-    location: "Canada"
-    followers: 12400
-    engagement: 1264
-    commentsToLikes: 0.021906
-    id: ck9tu9q2lkgs40j78b6xwzag1
-    verified: false
-    hashtags: "#hockeyplayer, #gongshow, #hockeytiktoks, #hockeyplayers"
   - username: "iamstevedaniels"
     fullname: >-
       Iamstevedaniel
@@ -66,7 +54,7 @@ profiles:
     commentsToLikes: 0.093902
     id: ck90vwxt61pq80j78e3qosq12
     verified: false
-    hashtags: "#fyp, #outfit, #matchalatte, #outfitinspiration"
+    hashtags: "#fit, #inspo, #healthycooking, #fyp"
   - username: "benwillingdorf"
     fullname: >-
       Ben Willingdorf
@@ -102,7 +90,7 @@ profiles:
     commentsToLikes: 0.009534
     id: ck90ykxu1apwu0j78viump7k7
     verified: false
-    hashtags: "#qc, #unboxing, #quebec, #rip"
+    hashtags: "#qc, #dance, #rip, #unboxing"
   - username: "jayciedy"
     fullname: >-
       Jessiedit
@@ -127,4 +115,16 @@ profiles:
     id: cka686gwinmej0i783dd1fds9
     verified: false
     hashtags: "#funny, #duo, #fouryourepage, #nohair"
+  - username: "sarina.srj"
+    fullname: >-
+      Sarina Sroujian
+    bio: >-
+      MTL🦋 BLM PRAY FOR ARMENIA❤️🇦🇲 Business inquiries: hausofsar.influencer@gmail
+    location: "Canada"
+    followers: 25800
+    engagement: 1217
+    commentsToLikes: 0.036417
+    id: ck9dx9akjsciz0j7814mrflao
+    verified: false
+    hashtags: "#fyp, #tiktok, #makeup, #mua"
 ---

@@ -1,24 +1,108 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Chile In 2023
+title: Top 10 Fashion Instagram Influencers In Chile In 2024
 description: >-
-  Find top fashion Instagram influencers in Chile in 2023. Most popular hashtags: #ootd #love #style.
+  Find top fashion Instagram influencers in Chile in 2024. Most popular hashtags: #fashion #ootd #chile #fashionstyle.
 platform: Instagram
-hits: 152
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 152 Instagram influencers like this in Chile for you to contact.
+hits: 166
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 166 Instagram influencers like this in Chile for you to pitch.
 profiles:
-  - username: "ladanioliva"
+  - username: "felicavieresv"
     fullname: >-
-      Daniela Oliva
+      FELI FAXION
     bio: >-
-      FASHION ★ OUTFITS ★ ART ★ LIFESTYLE ★ AMOR PROPIO ★ ✨Fundadora @danioliva.artwear 🎓Ingeniera Comercial UC 💖También me gusta bailar💃🏻🔥
+      Fashion/Dato de todo☝🏻/Vida/Cocina/Viajes 👨🏻‍🎨👨🏻‍🍳👨🏻‍🌾✈️⛏🐱 ♎️ De la sexta región al mundo ✨🤭 📩Contacto: felifaxion@gmail.com
     location: "Chile"
-    followers: 22397
-    engagement: 388
-    commentsToLikes: 0.043605
-    id: ck6ti5vkw03jg0j71tdrebani
+    followers: 211358
+    engagement: 1295
+    commentsToLikes: 0.039441
+    id: clpfe0cq6j1cd0k08j2yuzym9
     verified: false
-    hashtags: "#urbandecaychile, #daniolivaoutfits, #looksthatlast, #coronalook"
+    hashtags: "#chile, #humor, #barcelona, #tailandiaenespa"
+  - username: "bryandiaz_cr"
+    fullname: >-
+      Bryan Díaz 🔥 Fotógrafo
+    bio: >-
+      Photographer director 📸 Fashion and portraits PURA VIDA Lifestyle COSTA RICA 📍
+    location: "Chile"
+    followers: 13132
+    engagement: 344
+    commentsToLikes: 0.023054
+    id: ck5qeeq48049p0i11cu1x69hg
+    verified: false
+    hashtags: "#menshealth, #photographer, #costarica, #shooting"
+  - username: "wedont_like"
+    fullname: >-
+      Camila S. Byrt🦋
+    bio: >-
+      Dra. & Fashion Addicted ♈️🐍 • Hobby: Producción de Moda • Médica Cirujana y Estética 👩🏻‍⚕️🇨🇱 • Dra. @beautytechnique.scl • TikTok: wedontlike
+    location: "Chile"
+    followers: 23162
+    engagement: 308
+    commentsToLikes: 0.037063
+    id: ck14h66728qc80i19s6q9ovow
+    verified: false
+    hashtags: "#itsinourspirit, #shein, #hairtutorial, #lessisworefemales"
+  - username: "cata.slanyon"
+    fullname: >-
+      C a t a • MakeupArtist 💖
+    bio: >-
+      🇨🇱 | contenido de maquillaje, moda, skincare y tips! 💋Makeup Artist - Cotiza en @dearbeauty.cl 🩷códigos de dcto dbs y fashionspark ⬇️
+    location: "Chile"
+    followers: 8080
+    engagement: 246
+    commentsToLikes: 0.110265
+    id: ck8t9yqalpu4g0j78h1nok7j2
+    verified: false
+    hashtags: "#maquillajechile, #maquilladorachile, #chilemakeup, #influencerchile"
+  - username: "soyrosaboscan"
+    fullname: >-
+      Rosa Boscan
+    bio: >-
+      MUA/fashion/lifestyle/travel Asesora de imagen Maquillaje social/novia Peinados Clientas 👇🏻 @rosabmakeupartist Publicidad Santiago 🇨🇱
+    location: "Chile"
+    followers: 52707
+    engagement: 127
+    commentsToLikes: 0.032045
+    id: ck5pvhpychxq80i11rey2iefj
+    verified: false
+    hashtags: "#maquillaje, #vivedetupasion, #makeupchile, #maquillaymonetiza"
+  - username: "mmarocchino"
+    fullname: >-
+      Marcelo Marocchino
+    bio: >-
+      -FashionBusinessMan -Founder @cielomilano 👔 -Founder @sartoriacielomilano 🪡 -Founder @cielomilanocaffe ☕️
+    location: "Chile"
+    followers: 377517
+    engagement: 121
+    commentsToLikes: 0.026004
+    id: ck13bt0bax0tu0i19y0uylaz5
+    verified: true
+    hashtags: "#lifestyle, #menwithstyle, #men, #mensfashion"
+  - username: "mimazamall"
+    fullname: >-
+      MIMA ZAMALL
+    bio: >-
+      Diseñadora + Stylist + Directora de arte + Productora de moda 🎨 🏠 Directora Creativa @mimazamallclub 📚 Cursos de Fashion Stylist 👇🏼
+    location: "Chile"
+    followers: 24499
+    engagement: 57
+    commentsToLikes: 0.016178
+    id: ck0vyw57r62rw0i19s05m66vn
+    verified: false
+    hashtags: "#fashioneditorial, #moda, #backstage, #fashionstylist"
+  - username: "vanesaborghi"
+    fullname: >-
+      Vanesa Borghi
+    bio: >-
+      Lifestyle-Fashion-Beauty Animando Mujeres q inspiran @muybuenosdiastvn Aquí encontrarás los mejores datos de VIAJES, RESTAURANTES/ MODA y BELLEZA ❤️
+    location: "Chile"
+    followers: 1149197
+    engagement: 24
+    commentsToLikes: 0.061117
+    id: ck136fsnu6a7v0i19fvy55gve
+    verified: true
+    hashtags: "#estonoespublicidad, #fromclassicbeyondclassic, #chile, #arcoris"
   - username: "irmacelys_"
     fullname: >-
       Irma Cely | Hola mis amores🌻
@@ -30,19 +114,7 @@ profiles:
     commentsToLikes: 0.057299
     id: ckaotdc6kvfgu0i78v1vbwkps
     verified: false
-    hashtags: "#fashionbloggerstyle, #fashion, #fashionstyle, #creandooutfits"
-  - username: "carola.jorquera"
-    fullname: >-
-      Carolina Jorquera Oficial
-    bio: >-
-      Periodista/ Modelo/ TV Host ASESORA De IMAGEN/ Fashion Expert Gestora Cultural/ CEO CJ-Un Concepto cjorquera.asesorias@gmail.com YOUTUBE👇🏽
-    location: "Chile"
-    followers: 136232
-    engagement: 183
-    commentsToLikes: 0.048263
-    id: ck5c78t1371xz0i11olpe35ga
-    verified: false
-    hashtags: "#quedateencasa, #tendencia, #tutorial, #stayhome"
+    hashtags: "#explorerpage, #outfitsideas, #ootdpost, #outfit"
   - username: "_snakepit"
     fullname: >-
       Valentina
@@ -55,76 +127,4 @@ profiles:
     id: ck5q54hzyrcd20i11i2xuflzr
     verified: false
     hashtags: "#ootd, #freshfits, #minimalarchive, #loveguess"
-  - username: "missestilos"
-    fullname: >-
-      INSTAGRAM LOVER~ María Rey
-    bio: >-
-      Fashion lover|Lifestyle| Itzel&Nora’s Mum 📍Santiago de Compostela - Vigo, Spain. 📩 Works: maria@missestilos.com
-    location: "Chile"
-    followers: 89985
-    engagement: 201
-    commentsToLikes: 0.177115
-    id: ck5c9ti0kc3ed0i11zostx7wp
-    verified: false
-    hashtags: "#influencer, #missestilos, #ootd, #look"
-  - username: "valentinavalenncia"
-    fullname: >-
-      ✨VEVE✨
-    bio: >-
-      🧿Fashion Designer Miami
-    location: "Chile"
-    followers: 68852
-    engagement: 428
-    commentsToLikes: 0.030315
-    id: ck134zmoyyz5k0i19doniphr9
-    verified: false
-    hashtags: "#ageofaquarius, #dreamscometrue, #love, #manifestyourdreams"
-  - username: "ricardogarciph"
-    fullname: >-
-      Ricardo Garcia Maraz 🇧🇴
-    bio: >-
-      Retrato / Fashion Tarija📍🇧🇴 Agenda por MD ✉️📲 Fotógrafo PedidosYa Calidad de Estudio en cualquier lugar 💡
-    location: "Chile"
-    followers: 7282
-    engagement: 901
-    commentsToLikes: 0.059309
-    id: ckaorp0xvo6uf0i78bsdgxhbh
-    verified: false
-    hashtags: "#bealpha, #marcosalberca, #yeyophotos, #strobekings"
-  - username: "domivergara"
-    fullname: >-
-      Domi Vergara 🦋
-    bio: >-
-      Virgo ♍️ Fashion Design 👠 Interior Design lover 🏘 Doglover 🐶 I Love Art ❤️‍🔥
-    location: "Chile"
-    followers: 30824
-    engagement: 380
-    commentsToLikes: 0.011314
-    id: ck5zmpkoimzq40i14riuwhodu
-    verified: false
-    hashtags: ""
-  - username: "xavicorrial"
-    fullname: >-
-      Xavi
-    bio: >-
-      🇪🇸 📍CL Law ⚖️ 📩 xaviercorrial@gmail.com Ambassador @fashionnovamen
-    location: "Chile"
-    followers: 88555
-    engagement: 122
-    commentsToLikes: 0.096321
-    id: ck14j5iugiqie0i19094qlglz
-    verified: false
-    hashtags: ""
-  - username: "gxlden.dabbie"
-    fullname: >-
-      𝑫𝒂𝒏𝒊𝒆𝒍𝒂 👸🏻
-    bio: >-
-      | 𝒞𝑜𝓁𝑜𝓂𝒷𝒾𝒶𝓃𝒶 | 🇨🇴 @fashionstyle.ld @fan.cymakeup💄 Bf de @seba.pr
-    location: "Chile"
-    followers: 11973
-    engagement: 1257
-    commentsToLikes: 0.011781
-    id: ckapc6j102o070i78e1x06g9k
-    verified: false
-    hashtags: ""
 ---

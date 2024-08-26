@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Osaka In 2023
+title: Top 10 Beauty Instagram Influencers In Osaka In 2024
 description: >-
-  Find top beauty Instagram influencers in Osaka in 2023. Most popular hashtags: #pr #japan #model.
+  Find top beauty Instagram influencers in Osaka in 2024. Most popular hashtags: #pr #japan #beauty.
 platform: Instagram
-hits: 35
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 35 Instagram influencers like this in Osaka, Japan for you to connect with.
+hits: 37
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database holds 37 Instagram influencers like this in Osaka, Japan for you to collaborate.
 profiles:
   - username: "kayakaya.official"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       Osaka | Japan Beauty💄Fashion👗Travel🌍 155cmコーデ 撮影等お仕事依頼はDM💌にお願い致します💕
     location: "Japan"
-    followers: 39010
-    engagement: 287
-    commentsToLikes: 0.059405
+    followers: 42431
+    engagement: 218
+    commentsToLikes: 0.058179
     id: ck5hiace7cgwh0i11o7iuh993
     verified: false
-    hashtags: "#kuih, #kuihst, #locari, #ac"
+    hashtags: "#onzoro, #mybirthday, #pr, #kyoto"
   - username: "emi_akesaka"
     fullname: >-
       明坂英美　《vivi-E》

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In 2023
+title: Top 10 Health TikTok Influencers In 2024
 description: >-
-  Find top health TikTok influencers in 2023. Most popular hashtags: #duet #fyp #mentalhealthmatters #greenscreen.
+  Find top health TikTok influencers in 2024. Most popular hashtags: #duet #fyp #mentalhealthmatters #greenscreen.
 platform: TikTok
-hits: 10767
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 10767 TikTok influencers like this for you to contact.
+hits: 10712
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our search engine holds 10712 TikTok influencers like this for you to contact.
 profiles:
   - username: "nataliejuliet"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.041199
     id: ck8savqlr3vd90j78r9uznp9c
     verified: true
-    hashtags: "#wlw, #fyp, #xyzbca, #lgbt"
+    hashtags: "#fyp, #xyzbca, #wlw, #recovery"
   - username: "lexinimmo"
     fullname: >-
       Lexinimmo
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.301311
     id: ckbwejjfw1nji0j23hi2y641u
     verified: false
-    hashtags: "#thesuicidesquadmovie, #fatpositivty, #fatphobiaisnotcute, #cleargenius"
+    hashtags: "#welcomeback, #fatpositivty, #dontquityourdaydream, #plussizefashion"
   - username: "bilal...rashid...mughal"
     fullname: >-
       Bilal rashid

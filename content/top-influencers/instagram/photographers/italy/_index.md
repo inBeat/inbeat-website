@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Italy In 2023
+title: Top 10 Photographers Instagram Influencers In Italy In 2024
 description: >-
-  Find top photographers Instagram influencers in Italy in 2023. Most popular hashtags: #photography #canon #wildlifephotography.
+  Find top photographers Instagram influencers in Italy in 2024. Most popular hashtags: #photography #nature #sunset.
 platform: Instagram
-hits: 1230
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 1230 Instagram influencers like this in Italy for you to work with.
+hits: 1321
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 1321 Instagram influencers like this in Italy for you to pitch.
 profiles:
   - username: "florcisnerosph"
     fullname: >-
@@ -67,64 +67,64 @@ profiles:
     id: ckaozc5onl7lw0i787cb981vm
     verified: false
     hashtags: "#photographerslife, #brendaborgiaph, #photography, #fatedmagazine"
-  - username: "michele_bavassano"
+  - username: "sheck"
     fullname: >-
-      Michele Bavassano
+      Filippo Bellisola | Filmmaker & Photographer
     bio: >-
-      Research, into nature, of art 26 y.o. Italian Wildlife Photographer CEO & Founder: @bymichelebavassano Photographic workshop & Wild Tours 👇
+      Filmmaker | Photographer | Creator Based in Verona & Dolomites, Italy
     location: "Italy"
-    followers: 899564
-    engagement: 2223
-    commentsToLikes: 0.009434
-    id: ck0tvy6q3dayv0i19wp44xoq8
+    followers: 150732
+    engagement: 865
+    commentsToLikes: 0.025963
+    id: ck0twuxc5gupi0i19bupikti3
     verified: false
-    hashtags: "#michelebavassano, #wild, #winter, #nature"
-  - username: "sharon.vanadia"
+    hashtags: "#dolomitiunesco, #visitmadeira, #dolomitesunesco, #beautifuldestinations"
+  - username: "lara.goes.exploring"
     fullname: >-
-      Sharon Vanadia
+      LARA FARRUGIA | OCEAN | TRAVEL | MALTA🇲🇹
     bio: >-
-      🎓 Biology & Biodiversity and ecosystem management Italian Wildlife photographer Workshops and tours Prints available: write me in direct for info
+      🙋🏼‍♀️Travel Blogger|Photographer Taking you ‘round Malta & the rest of the 🌎 Shop my MALTESE ISLANDS MAP 🗺️ Book a PHOTOSHOOT 📸 📍Maltese 🇲🇹
     location: "Italy"
-    followers: 269581
-    engagement: 665
-    commentsToLikes: 0.021605
-    id: ck0u7crv84fd10i19qws07cw8
+    followers: 11213
+    engagement: 710
+    commentsToLikes: 0.032609
+    id: ckap8nzxxp6sn0i78a1gyzug9
     verified: false
-    hashtags: "#wildanimals, #italy, #abruzzo, #animals"
-  - username: "itsnatsnicole"
+    hashtags: "#neverstopexploring, #malta, #europe, #mediterranean"
+  - username: "mickel_bura"
     fullname: >-
-      Nat
+      Mickel Buratin
     bio: >-
-      ☾ countercurrent ☾ pro makeup artist • photographer ☾ living while waiting for the next gig ☾ pr|collabs: tashacole@myself.com
+      Professional Photographer 📸 / Videomaker 🎥 - Content Creator / Social Media Manager 💻 Represented by: @beyondoceansagency - Tiktok: +710K 📍Milan 🇮🇹
     location: "Italy"
-    followers: 34006
-    engagement: 37
-    commentsToLikes: 0.095511
-    id: ck6tr1besw8k80j718gll1sd1
+    followers: 72902
+    engagement: 1285
+    commentsToLikes: 0.013921
+    id: ck8szsxfupldt0j78vvjkvw7z
     verified: false
-    hashtags: "#armoperlefeste, #sundayrileypartner"
-  - username: "mytemptingtable"
+    hashtags: "#fotografo, #bali, #evitalefotodaboomer, #posesbiker"
+  - username: "andrea.presti_ifbbpro"
     fullname: >-
-      Andreea - Photography&recipes
+      Andrea Presti
     bio: >-
-      • Delicious plant-based recipes • Food photographer • Food stylist 📍Romania
+      🔹Olympia Competitor | Team Stones 🔹For collab @l_a_design_photographer 🔹Sponsor @tsunaminutrition 🧬Discount Code PRESTI15 🔹Owner @team_presti_coaching
     location: "Italy"
-    followers: 88113
-    engagement: 121
-    commentsToLikes: 0.041795
-    id: ck14gkpew5p210i19aed7t54x
+    followers: 473312
+    engagement: 414
+    commentsToLikes: 0.008562
+    id: ck137c0izasf00i19xasxmp76
     verified: false
-    hashtags: "#oatmealbowl, #eatbetterfeelbetter, #sundayfunday, #pancakes"
-  - username: "silvio_tova"
+    hashtags: "#tsunaminutrition, #motivation, #bodybuilder, #ifbbpro"
+  - username: "aaronandcars"
     fullname: >-
-      S I L V I O  T O V A G L I A
+      Aaronandcars
     bio: >-
-      📸 PHOTOGRAPHER 🍭 CONTENT CREATOR 📍MILANO 📩 Business/ collabs : daniel@hedmedia.com My works 👇
+      🇫🇷🇮🇹🇬🇧Freelance photographer and @gtspirit contributor DM for photo shoots. Check my latest article ⬇️
     location: "Italy"
-    followers: 14875
-    engagement: 961
-    commentsToLikes: 0.061411
-    id: ck0u1mb6hx8ga0i19d9k1rvsb
+    followers: 40432
+    engagement: 409
+    commentsToLikes: 0.013791
+    id: ck0vz3j0a743o0i19fign0e1i
     verified: false
-    hashtags: "#snipes, #ad, #createdwithadidas, #snipesplaystation"
+    hashtags: "#festivalofspeed, #supercarlifestyle, #snow, #paris"
 ---

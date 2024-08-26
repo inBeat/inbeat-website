@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In United Kingdom In 2023
+title: Top 10 Athletes TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top athletes TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryoupage #foryou #viral.
+  Find top athletes TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #foryou #foryoupage #viral.
 platform: TikTok
-hits: 43
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: inBeat holds 43 TikTok influencers like this in United Kingdom for you to work with.
+hits: 45
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database holds 45 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
   - username: "kaoticmovement"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: cka0yn7i2bx3t0i78l7cms4oy
     verified: false
     hashtags: "#fyp, #tiktok, #upsidedown, #handstand"
+  - username: "keithlukemason"
+    fullname: >-
+      Keith Mason
+    bio: >-
+      Retired Rugby player. Athlete/Actor/Producer Spreading positivity Daily
+    location: "United Kingdom"
+    followers: 807300
+    engagement: 909
+    commentsToLikes: 0.024480
+    id: ckb9i4tid88f70j23rjw7mmj3
+    verified: false
+    hashtags: "#nailedit, #nevergiveup, #viral, #positivity"
   - username: "therealtrickyricky"
     fullname: >-
       Richard Hill
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.007454
     id: ck8ng0ge3uf9l0j78zip3tdob
     verified: false
-    hashtags: "#studentathlete, #eventer, #eventing, #equestrian"
+    hashtags: "#studentathlete, #eventing, #eventer, #fyp"
   - username: "airaddiction"
     fullname: >-
       AirAddiction
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.022219
     id: ck8ndrdnvkapi0j787lty0cl8
     verified: false
-    hashtags: "#foryoupage, #claudiusvertesi, #fun, #scootering"
+    hashtags: "#foryou, #trending, #fun, #claudiusvertesi"
   - username: "lionarofficial"
     fullname: >-
       Ali Rashid-Athlete & Youtuber
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.070092
     id: ck97wwkt3sxzt0j780j4814cr
     verified: false
-    hashtags: "#foryoupage, #wow, #didyouknow, #fyp"
+    hashtags: "#miketyson, #legend, #fyp, #wow"
   - username: "jonnywrighttt"
     fullname: >-
       Jonny Wright
@@ -115,16 +127,4 @@ profiles:
     id: ck8adf8hv5rku0j78ai4nnzbi
     verified: false
     hashtags: "#elitementality, #bouldering, #bodyweight, #whilstyouwait"
-  - username: "___miss__b__"
-    fullname: >-
-      bakerdavina
-    bio: >-
-      British figure athlete🇬🇧 and furbaby mamma 🐶 Insta: @___miss__b__ ❤️ 🙏
-    location: "United Kingdom"
-    followers: 6301
-    engagement: 446
-    commentsToLikes: 0.065096
-    id: ckb9966d0t4zj0j233pytw99i
-    verified: false
-    hashtags: "#girlswithmuscle, #bhyp, #femalebodybuilder, #fyp"
 ---

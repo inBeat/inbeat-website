@@ -1,12 +1,36 @@
 ---
-title: Top 10 Gardening Instagram Influencers In San Francisco In 2023
+title: Top 10 Gardening Instagram Influencers In San Francisco In 2024
 description: >-
-  Find top gardening Instagram influencers in San Francisco in 2023. Most popular hashtags: #gardening #garden #walk.
+  Find top gardening Instagram influencers in San Francisco in 2024. Most popular hashtags: #gardening #garden #gardenlife #plants.
 platform: Instagram
-hits: 5
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 5 Instagram influencers like this in San Francisco, United States for you to work with.
+hits: 8
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 8 Instagram influencers like this in San Francisco, United States for you to pitch.
 profiles:
+  - username: "craftandcocktails"
+    fullname: >-
+      Ashley Rose Conway
+    bio: >-
+      🍹🍸🥃 -cocktail recipes | Photographer | Food Stylist | Writer ~Author: Celebrate Rosé & Art of the Barcart ~San Francisco Bay Area
+    location: "United States"
+    followers: 45573
+    engagement: 471
+    commentsToLikes: 0.033076
+    id: ck13cbyz0zlpi0i19zdiqe4u6
+    verified: false
+    hashtags: "#imbibegram, #ad, #cocktailtime, #applecider"
+  - username: "wildgina"
+    fullname: >-
+      gina nicole 🍋
+    bio: >-
+      🌼 cozy diaries of a wild botanical artist 〰️ nature photographer ✿ sci-artist 🔎 🍃 my tiny garden life in san francisco 💌 partnerships@wildgina.com
+    location: "United States"
+    followers: 115197
+    engagement: 557
+    commentsToLikes: 0.061139
+    id: ck8swhyrte5gq0j78k59qz3fr
+    verified: false
+    hashtags: "#landscapephotography, #explorepage, #naturelovers, #roadtrip"
   - username: "millhousestyle"
     fullname: >-
       
@@ -18,7 +42,7 @@ profiles:
     commentsToLikes: 0.285597
     id: ck0tvdd7ray9e0i195l6hfhqj
     verified: false
-    hashtags: "#farmhousefeelsgood, #myhomestyledvibe, #lovemypotterybarn, #whitefarmhousedecor"
+    hashtags: "#homegirlslovehomedecor, #falldecorating, #farmhousestyle, #cottagesandbungalows"
   - username: "thesucculenthobbyist"
     fullname: >-
       Jean
@@ -30,7 +54,19 @@ profiles:
     commentsToLikes: 0.050314
     id: ck136o4wn7g4z0i197jrdr0wq
     verified: false
-    hashtags: "#succulentlover, #echeveriaelegans, #gardenlover, #gardenlife"
+    hashtags: "#succulentsofinstagram, #succulentsonly, #echeveriaimbricata, #gardenlover"
+  - username: "thekatrinablair"
+    fullname: >-
+      KATRINA BLAIR
+    bio: >-
+      DIY Home Decor Blogger 🔨Small Home Design Expert 🏡 Outdoor Living Enthusiast 🌟Cultivate a Home You Love 🌟Featured: HGTV Mag•Apt Therapy•Domino
+    location: "United States"
+    followers: 22457
+    engagement: 73
+    commentsToLikes: 0.141372
+    id: ckn9awexum9ru0j23d5krthko
+    verified: false
+    hashtags: "#christmasdecor, #katrinablair, #smallhomedecor, #outdoorliving"
   - username: "swenyly"
     fullname: >-
       Tomas
@@ -67,64 +103,28 @@ profiles:
     id: ck0u20o8byh8t0i195c1ogkrs
     verified: false
     hashtags: "#balletcompany, #art, #columbusohio, #artmakescbus"
-  - username: "northwoodsfolk"
+  - username: "curlycultivators"
     fullname: >-
-      Sunny // Folk Living                                       🌲MN🌲
+      Leota Wilson & Mikaela Falwell
     bio: >-
-      nature-inspired mother + maker sharing the beauty of slow, seasonal living diy • recipes • gardening • home-ed • adventure 🌙 🌿 🐌 🍄🌲🧺 ✨
+      🌱Two curly girls, in love with gardening + each other 🍅 Sharing as we learn so you can grow with us 📍 Sacramento | Zone 9B
     location: "United States"
-    followers: 131357
-    engagement: 474
-    commentsToLikes: 0.067900
-    id: ckx3j50xwzxpa0j2331ss8l9z
+    followers: 151114
+    engagement: 1609
+    commentsToLikes: 0.064080
+    id: cl22heo5dhdo70i23fcebex8u
     verified: false
-    hashtags: "#wildcraftwednesday, #nobuydiy, #thehandcraftedholiday"
-  - username: "laurenselfblogs"
+    hashtags: "#zone9b, #spring, #zone9garden, #homegarden"
+  - username: "masondixonacres"
     fullname: >-
-      Lauren
+      Elaina Ripepi + Alex Walsh, Homestead & DIY
     bio: >-
-      mama x 4! low tox living | gardening + chicken mom | macrame 🌿oil IG: @oilyselfblogs 🌞 Etsy link ↓
+      🏠 Self-building our home DEBT-FREE 🌱 Gardening & raising chickens on a budget ⬇️ Check out our YouTube!
     location: "United States"
-    followers: 18656
-    engagement: 1858
-    commentsToLikes: 0.022000
-    id: ck8t1vbnlx6dp0j782ei1ya9s
+    followers: 128579
+    engagement: 426
+    commentsToLikes: 0.062600
+    id: cky72qbzkjtxl0j23r5p8gykn
     verified: false
-    hashtags: "#fromwhereiwork, #smallshop, #protectbreastfeeding, #reels"
-  - username: "seldabelda"
-    fullname: >-
-      anna aromin | ↟ pnw ↟
-    bio: >-
-      artist ⎜ wife ⎜ mother ⎜ seeker of everyday magic lover of vintage lenses & gardening other work: @allnaturebyanna creator of @thegalleryoflight
-    location: "United States"
-    followers: 33490
-    engagement: 341
-    commentsToLikes: 0.090660
-    id: ck14kkiiwpyiz0i19q3we0t10
-    verified: false
-    hashtags: "#thiswildlingsoul, #bokeh, #freelensed, #holidaypajamaparty"
-  - username: "life_of_glow"
-    fullname: >-
-      Robyn | Home & Garden Joy
-    bio: >-
-      A plant-loving, home-making, seasonal-living adventure! ❃ Fearless northern gardening, interior style, & DIY. ❁ Pro Photographer, mama, wife ♡ More⇩
-    location: "United States"
-    followers: 40685
-    engagement: 309
-    commentsToLikes: 0.087218
-    id: ck0u7az5246wj0i19r71e0x0v
-    verified: false
-    hashtags: "#rugsusa"
-  - username: "theladywholunches"
-    fullname: >-
-      Jenna Ingalls
-    bio: >-
-      sewing, knitting, sometimes gardening, now with a baby Oakland, California
-    location: "United States"
-    followers: 6923
-    engagement: 1144
-    commentsToLikes: 0.061068
-    id: ck5zobjeqq6wu0i146qvnwtx8
-    verified: false
-    hashtags: "#memadeeveryday, #sewistsofinstagram, #oaklandsews, #huondress"
+    hashtags: "#selfsufficiency, #selfbuild, #ownerbuilder, #gardening"
 ---

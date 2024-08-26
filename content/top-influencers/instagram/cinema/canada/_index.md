@@ -1,12 +1,120 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Canada In 2023
+title: Top 10 Cinema Instagram Influencers In Canada In 2024
 description: >-
-  Find top cinema Instagram influencers in Canada in 2023. Most popular hashtags: #cinematography #wedding #explorebc.
+  Find top cinema Instagram influencers in Canada in 2024. Most popular hashtags: #canada #cinematography #wildlife #underwater.
 platform: Instagram
-hits: 99
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 99 Instagram influencers like this in Canada for you to connect with.
+hits: 157
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 157 Instagram influencers like this in Canada for you to pitch.
 profiles:
+  - username: "vancityh"
+    fullname: >-
+      Henry | Food & Travel | Visual Storytelling
+    bio: >-
+      Videography | Cinematography | Photography 📸👨‍💻UGC Creator📍Vancouver, BC 📩DM for Collaborations
+    location: "Canada"
+    followers: 50745
+    engagement: 6953
+    commentsToLikes: 0.172176
+    id: ck5qce0ffq3gd0i11e5pix7xa
+    verified: false
+    hashtags: "#japanesefood, #richmondbc, #vancouverfoodie, #ricerolls"
+  - username: "bertiegregory"
+    fullname: >-
+      Bertie Gregory
+    bio: >-
+      Wildlife filmmaker Host of ‘Animals Up Close’ streaming now on @disneyplus Cinematography BAFTA and @nhm_wpy winner @NatGeo Speaker
+    location: "Canada"
+    followers: 951589
+    engagement: 501
+    commentsToLikes: 0.011283
+    id: ck0tw2zpidst50i19kckh5l07
+    verified: true
+    hashtags: "#underwater, #scotland, #kelp, #ukdiving"
+  - username: "maxwelhohn"
+    fullname: >-
+      Maxwel Hohn
+    bio: >-
+      Emmy Award-Winning Cinematographer ‘Secrets of the Octopus’ coming to Disney+ on Earth Day Diving, Filmmaking, Exploring & Wildlife Conservation
+    location: "Canada"
+    followers: 131437
+    engagement: 677
+    commentsToLikes: 0.020578
+    id: ck0vv6j4qnre20i190yw8a20k
+    verified: false
+    hashtags: "#canada, #pacificocean, #kelpforest, #seaotter"
+  - username: "cameronncline"
+    fullname: >-
+      Cameron Cline
+    bio: >-
+      Professional Director, Cinematographer and Editor. 1% better. Co-Founder @mrkifilms
+    location: "Canada"
+    followers: 29302
+    engagement: 1958
+    commentsToLikes: 0.071189
+    id: ck5qeartuzjts0i11v73nx4na
+    verified: false
+    hashtags: "#life, #cinematography, #bmw, #cars"
+  - username: "the.socialsage"
+    fullname: >-
+      Krishy | Toronto Wedding, UGC & Travel Content Creator
+    bio: >-
+      ✨your behind the scenes bestie 📚 booking 2024 + 2025 🤳 500 + candid photos & cinematic shots 🤍Same Day Delivery ✈️ Toronto ( AV to travel )
+    location: "Canada"
+    followers: 14491
+    engagement: 291
+    commentsToLikes: 0.132387
+    id: clu24nmi8rr7c0k087evboiui
+    verified: false
+    hashtags: "#makeupideas, #torontolife, #torontoevents, #eventcontentcreator"
+  - username: "uon.visuals"
+    fullname: >-
+      Mike V (Vancouver BC) 🇨🇦🇬🇷
+    bio: >-
+      I'm pushing the limits of technology to create the most advanced psychedelic math art you've ever seen! Made with Cinema 4D + Octane Render on 9 GPUs
+    location: "Canada"
+    followers: 737699
+    engagement: 128
+    commentsToLikes: 0.015558
+    id: ck15quaeu4o9e0i193zrd4fna
+    verified: false
+    hashtags: "#fractalart, #trippy, #vibrant, #fractals"
+  - username: "aratson"
+    fullname: >-
+      Alex Ratson
+    bio: >-
+      Rock & Ice Climber | Photographer | Cinematographer Supported by: @mammutna Represented by: @gettyimages Visual Content Producer: @climbonsquamish
+    location: "Canada"
+    followers: 18467
+    engagement: 80
+    commentsToLikes: 0.031522
+    id: ck0ttba371ylt0i191iuk13tp
+    verified: false
+    hashtags: "#mountainlovers, #mountainlife, #climbinglife, #hellobc"
+  - username: "yassipressman"
+    fullname: >-
+      Yassi Pressman
+    bio: >-
+      Actress. Advocate. Free-spirit. 🤍🇵🇭 #VIDEOCITY : Be Kind, Please Rewind ~ NOW SHOWING IN CINEMAS NATIONWIDE!! 🎥
+    location: "Canada"
+    followers: 10291910
+    engagement: 27
+    commentsToLikes: 0.003812
+    id: ck0vz52ij7cem0i19aeqern5h
+    verified: true
+    hashtags: "#flipitright, #blackrider, #kurdapya, #sinopinas"
+  - username: "mogafilmstudio"
+    fullname: >-
+      Moga Film Studio
+    bio: >-
+      Since 2002 Canada 🇨🇦 - USA🇺🇸 - Mexico 🇲🇽 - Europe 🇪🇺 Destination Wedding Photography & Cinematography Text - Call - Whattsapp +1 905-500-1313
+    location: "Canada"
+    followers: 32834
+    engagement: 6
+    commentsToLikes: 0.084093
+    id: ck5cbcj4qf5y00i11y1rewyba
+    verified: false
+    hashtags: "#wedding2022, #photoshoot, #best, #sherwani"
   - username: "nikpilecki"
     fullname: >-
       Nik Pilecki DP
@@ -18,113 +126,5 @@ profiles:
     commentsToLikes: 0.057629
     id: ck0u0r6t9uorq0i19jo8meyj5
     verified: false
-    hashtags: "#ontario, #ursaminipro, #aivascope, #cinematography"
-  - username: "taylorhanley_dp"
-    fullname: >-
-      Taylor Hanley
-    bio: >-
-      Cinematographer
-    location: "Canada"
-    followers: 7070
-    engagement: 235
-    commentsToLikes: 0.054202
-    id: ck13bsk8qwyv10i19s5heko07
-    verified: false
-    hashtags: "#davinciresolve, #filmmaker, #colorist, #reddigitalcinema"
-  - username: "alexandre_halle"
-    fullname: >-
-      Alex Hallé | Cinematographer
-    bio: >-
-      Montreal-based DOP | Cinematographer 🎥 RED Dsmc2 Owner VIEW MY WORK⬇️
-    location: "Canada"
-    followers: 17143
-    engagement: 207
-    commentsToLikes: 0.033249
-    id: ck8t0jguys9ji0j78ealgzzh4
-    verified: false
-    hashtags: ""
-  - username: "creasser"
-    fullname: >-
-      Brad Creasser
-    bio: >-
-      Canadian Cinematographer based in Vancouver BC.
-    location: "Canada"
-    followers: 9402
-    engagement: 2456
-    commentsToLikes: 0.027619
-    id: ck0ua52efbcwk0i19g90s88v8
-    verified: false
-    hashtags: "#nikonp900, #homewardbound, #roadtrip2020, #canadianrockies"
-  - username: "trailsofmemories"
-    fullname: >-
-      𝐓𝐑𝐀𝐈𝐋𝐒𝐎𝐅𝐌𝐄𝐌𝐎𝐑𝐈𝐄𝐒 𝐏𝐇𝐎𝐓𝐎+𝐂𝐈𝐍𝐄𝐌𝐀
-    bio: >-
-      Toronto based Wedding Photographer & Cinematographer|| Passionate Cook @sujanskitchen
-    location: "Canada"
-    followers: 21372
-    engagement: 200
-    commentsToLikes: 0.033552
-    id: ck14kv75qrh0z0i19cx5bobwk
-    verified: false
-    hashtags: "#lovely, #madeforeachother, #peoplescreatives, #instagram"
-  - username: "cinematowski"
-    fullname: >-
-      Justin Turkowski
-    bio: >-
-      cinematography/photo:[ VARIABLES ] fs7 | 1DXii | RED Gemini
-    location: "Canada"
-    followers: 21462
-    engagement: 655
-    commentsToLikes: 0.024382
-    id: ck0w4b6pvxpgi0i196yw7bvjx
-    verified: false
-    hashtags: ""
-  - username: "sebpic_"
-    fullname: >-
-      Sebastian | Outdoor Adventures
-    bio: >-
-      🌲 Let’s go explore 📷 I’ll bring my camera 🇩🇪 Munich <=> Vancouver 🇨🇦 🎥 Cinematographer @sebpiccinema 🐻 Wild bear count: 6 - More stuff I do 👇🏽
-    location: "Canada"
-    followers: 60590
-    engagement: 352
-    commentsToLikes: 0.024444
-    id: ck0vvi37sp8ly0i19dal3ton0
-    verified: false
-    hashtags: "#folkscenery, #discoverearth, #wildernessculture, #the"
-  - username: "icapturestudio"
-    fullname: >-
-      I Capture Studio
-    bio: >-
-      🎬 Wedding Cinematography 🇨🇦 Based in Toronto 📧 info@icapturestudio.ca
-    location: "Canada"
-    followers: 8619
-    engagement: 1835
-    commentsToLikes: 0.048553
-    id: ck600ksvzdsfv0i149itsrvtl
-    verified: false
-    hashtags: "#covid19, #cinematography, #issabouttime, #2020"
-  - username: "bennnnnnnngie"
-    fullname: >-
-      Ben Giesbrecht
-    bio: >-
-      Cinematographer 🎥 - Ucluelet, BC.↟↟ bgiesbrecht2@gmail.com
-    location: "Canada"
-    followers: 95198
-    engagement: 127
-    commentsToLikes: 0.028355
-    id: ck0vxklq1zcsu0i197j8zvrt6
-    verified: false
-    hashtags: "#explorebc, #ccclives, #firvalewildernesscamp, #domeit"
-  - username: "alexgayoso_"
-    fullname: >-
-      Alex Gayoso⚡️
-    bio: >-
-      Hiii 🙋🏻‍♂️Music Video Director | Producer | Cinematographer | Editor | Photographer | Animator | YouTube Playlist of my work linked below! ⬇️
-    location: "Canada"
-    followers: 5534
-    engagement: 613
-    commentsToLikes: 0.131873
-    id: ck5znee4roaw90i142yinop58
-    verified: false
-    hashtags: "#animation, #b3d, #blender, #spoof"
+    hashtags: "#anamorphic, #dop, #ursamini, #smallhd"
 ---

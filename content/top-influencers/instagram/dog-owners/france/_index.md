@@ -1,12 +1,24 @@
 ---
-title: Top 10 Dog Owners Instagram Influencers In France In 2023
+title: Top 10 Dog Owners Instagram Influencers In France In 2024
 description: >-
-  Find top dog owners Instagram influencers in France in 2023. Most popular hashtags: #love #homedecor #dog.
+  Find top dog owners Instagram influencers in France in 2024. Most popular hashtags: #love #dog #lifestyle.
 platform: Instagram
-hits: 8
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 8 Instagram influencers like this in France for you to contact.
+hits: 11
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 11 Instagram influencers like this in France for you to pitch.
 profiles:
+  - username: "remy.barista"
+    fullname: >-
+      F&B photographer
+    bio: >-
+      📍 | Brussels based 🇧🇪 🥇 | Belgium barista champion 2018 🐶 | Proud Dog Owner @iamgujithecocker 📩 | remy.barista@gmail.com
+    location: "France"
+    followers: 68877
+    engagement: 48
+    commentsToLikes: 0.113505
+    id: ck5hpqdtxrsul0i11ck3jljs2
+    verified: false
+    hashtags: "#delonghi, #perfetto, #specialtycoffee, #cabinlife"
   - username: "dog.lovers.squad"
     fullname: >-
       Dog Memes And Hacks!
@@ -19,6 +31,30 @@ profiles:
     id: ck14h63x48q280i19htkpbfm1
     verified: false
     hashtags: "#puppy, #doglife, #lovedogs, #pet"
+  - username: "leothecream"
+    fullname: >-
+      Leo the Golden Retriever
+    bio: >-
+      ft. Uncle Zeus 🐾 English Golden Retrievers 💌 leothecream@gmail.com ✨ Little Brother: @louiethecream 👩‍💻 My mom: @theamandaclaire
+    location: "France"
+    followers: 182829
+    engagement: 762
+    commentsToLikes: 0.008749
+    id: ck15t315zg3hj0i1996q84guu
+    verified: false
+    hashtags: "#dogs, #dog, #funnydog, #doglove"
+  - username: "benjfriantofficial"
+    fullname: >-
+      BENJAMIN FRIANT
+    bio: >-
+      Sarcasm master 🇨🇭 Tik tok : benjfriant Youtube : Benjamin Friant Collabs : contact@representagence.com
+    location: "France"
+    followers: 180249
+    engagement: 347
+    commentsToLikes: 0.021593
+    id: ck15ta9ndh3q70i19tra09rwi
+    verified: true
+    hashtags: "#snowscoot, #spotdeouf, #foil, #foiling"
   - username: "theoverseaslovers"
     fullname: >-
       𝗖𝗔𝗠𝗜𝗟𝗟𝗘 & 𝗥𝗜𝗖𝗛𝗔𝗥𝗗 | 𝗧𝗿𝗮𝘃𝗲𝗹
@@ -31,18 +67,6 @@ profiles:
     id: ckaoy932fgihe0i786dwajgxv
     verified: false
     hashtags: "#traveltoexplore, #couplesofig, #romantictrip, #couplefun"
-  - username: "morganpalun.photography"
-    fullname: >-
-      Morgan Palun-Ré
-    bio: >-
-      📸 | Interior/Portrait Photographer 🏡 | @voxpopulideco Co-Owner 🐶 | Dogs Lover/Photographer @la_spa 🇫🇷 | Provence
-    location: "France"
-    followers: 11585
-    engagement: 348
-    commentsToLikes: 0.027353
-    id: ck6ty5pqp1tyd0j71yff45fr5
-    verified: false
-    hashtags: "#studio, #doglovers, #model, #explorer"
   - username: "julia_this"
     fullname: >-
       Julia This
@@ -67,6 +91,18 @@ profiles:
     id: ck5c72vhg6pga0i11wxm3qx7f
     verified: false
     hashtags: "#blackouttuesday"
+  - username: "alexander.kraft"
+    fullname: >-
+      Alexander Kraft
+    bio: >-
+      “Living well is the best revenge” Owner & CEO @sothebysrealty.france Owner & designer @alexanderkraft.montecarlo Owner @la.maison.bleue
+    location: "France"
+    followers: 444519
+    engagement: 139
+    commentsToLikes: 0.028981
+    id: ck15te08uhm9e0i19yiwyq4b6
+    verified: true
+    hashtags: "#mensfashion, #friday, #positivevibes, #fashion"
   - username: "jasmine_poletastix"
     fullname: >-
       ⭐Jasmine PoletastiX ⭐
@@ -91,16 +127,4 @@ profiles:
     id: ck8t1tp7pwzsz0j783di7hdsz
     verified: false
     hashtags: ""
-  - username: "dogsianz"
-    fullname: >-
-      Dogs - Puppies - Cuties
-    bio: >-
-      ❤️ Like our content? 🔔 📷 Credit reserves to its respective owners
-    location: "France"
-    followers: 66190
-    engagement: 1203
-    commentsToLikes: 0.006464
-    id: ck8t28ebuyiqz0j789lgr73an
-    verified: false
-    hashtags: "#trustfall"
 ---

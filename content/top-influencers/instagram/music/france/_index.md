@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In France In 2023
+title: Top 10 Music Instagram Influencers In France In 2024
 description: >-
-  Find top music Instagram influencers in France in 2023. Most popular hashtags: #smile #mood #goodvibes.
+  Find top music Instagram influencers in France in 2024. Most popular hashtags: #paris #love #music.
 platform: Instagram
-hits: 1649
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 1649 Instagram influencers like this in France for you to collaborate.
+hits: 1763
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 1763 Instagram influencers like this in France for you to pitch.
 profiles:
-  - username: "daphnecharice"
+  - username: "traumer_music"
     fullname: >-
-      DAPHNE D調
+      Traumer
     bio: >-
-      #deaftune music + pastry chef For work | daphkisses@hotmail.my My songs 聽我的歌「死心塌地」& 「CLOSE TO 9」on kkbox & spotify
+      get—music, news & more ⋯ @gettraum Booking & Mgmt : nicolas@pieces.live 🆕 "Hachi" — out now !
     location: "France"
-    followers: 176495
-    engagement: 150
-    commentsToLikes: 0.003543
-    id: ck0vy22nw1v300i19q7ofwubg
+    followers: 77622
+    engagement: 584
+    commentsToLikes: 0.035084
+    id: ck0vw17p3rnc40i19uo2ikwrh
     verified: false
-    hashtags: "#subaruasia, #freshfoam, #newbalancemy, #celebrateresponsibly"
-  - username: "fallyipupa01"
+    hashtags: "#gettraum, #warehouseproject, #fuselondon, #colourfactory"
+  - username: "kneznenad"
     fullname: >-
-      Fally Ipupa
+      Nenad Knezevic Knez
     bio: >-
-      Artist,Musician,producer and @unicefrdcongo Ambassador.twitter.fallyipupa01.Facebook.fallyipupa.#Fallyipupafoundation #Formule 7 Garde du cœur out👇🏾
+      Musician • Singer • D.J. • Music producer •
     location: "France"
-    followers: 4750070
-    engagement: 61
-    commentsToLikes: 0.023211
-    id: ck0u9ttrbaoki0i193qb6vflz
+    followers: 14830
+    engagement: 539
+    commentsToLikes: 0.021969
+    id: ckap9ppbvt5ck0i78rp186g37
+    verified: false
+    hashtags: "#knez, #montenegro, #nenadknezevicknez, #podgorica"
+  - username: "carla_guetta"
+    fullname: >-
+      Carla Guetta Cohen
+    bio: >-
+      MA @unomodels carlaguetta@unomodels.com French but 🌱 in Ibiza 🌍 👽 creative mind.. 🎸 movies,music,books
+    location: "France"
+    followers: 247514
+    engagement: 412
+    commentsToLikes: 0.005894
+    id: ck5bx7kpen5nb0i11ty21qgyu
+    verified: false
+    hashtags: ""
+  - username: "chapixtures"
+    fullname: >-
+      CHARLOTTE CLAIN - PHOTOGRAPHER & ART DIRECTOR
+    bio: >-
+      Fashion | Music | Event | Book | Estime de soi 📍Angers (Paris - Worldwide) 📩 charlotteclain.pro@gmail.com 🌸 Pour débutants et professionnels ✨
+    location: "France"
+    followers: 14451
+    engagement: 430
+    commentsToLikes: 0.024965
+    id: ck13bmc4xw45u0i19qdk1wbxd
+    verified: false
+    hashtags: "#photo, #paris, #bts, #mode"
+  - username: "terenceiam"
+    fullname: >-
+      Terence James
+    bio: >-
+      Singer | Songwriter | DJ | TV Presenter 560k+ TikTok Co Founder of @nitelyfe_music
+    location: "France"
+    followers: 203404
+    engagement: 1666
+    commentsToLikes: 0.058859
+    id: ck8tajai3s02p0j783ehr8uq6
+    verified: false
+    hashtags: "#terence, #terencejames, #love, #parody"
+  - username: "nathanbouts"
+    fullname: >-
+      Nathan Bouts
+    bio: >-
+      Actor and musician.
+    location: "France"
+    followers: 48319
+    engagement: 820
+    commentsToLikes: 0.003449
+    id: cky72q8hmjpxe0j230qvu0ogc
+    verified: false
+    hashtags: "#new, #stylecreator, #hiphop, #beatmaker"
+  - username: "karmenoff"
+    fullname: >-
+      KARMEN 🪫
+    bio: >-
+      💎 @karmenr0se 🌐 @cascade.music 📩 @pour_rose
+    location: "France"
+    followers: 62753
+    engagement: 1225
+    commentsToLikes: 0.017264
+    id: ck14lsm0mw9s10i1943c08x5u
     verified: true
-    hashtags: "#delarenta, #formule7, #togo, #warriors"
-  - username: "my.name.is_a"
-    fullname: >-
-      ᴀʟᴇx ♠️
-    bio: >-
-      ғʀᴇɴᴄʜ ᴡᴏᴍᴀɴ ᴇɴᴊᴏʏ ᴀɴᴅ ɴᴇᴠᴇʀ sᴛᴏᴘ ✈ My life is a story in music 🎧 ᴀᴅᴅɪᴄᴛ ᴀs ʟɪғᴇ 💕 ~ Married 💍 & ᴍᴜᴍ ᴏғ 2 ʙᴏʏs 🍍
-    location: "France"
-    followers: 788
-    engagement: 4924
-    commentsToLikes: 0.130875
-    id: ckapbz4l11uj60i78mdl2enmd
-    verified: false
-    hashtags: "#myphilosophy, #mood, #mumlife, #sport"
-  - username: "ngone_josyane"
-    fullname: >-
-      Josy Jolie ☺️✨👑
-    bio: >-
-      Med Student | Entrepreneur | Content Creator | CEO of Josy Jolie Cosmetics 🌸 | @josyjoliecosmetics Fashion. Beauty. Music. Lifestyle. 🤍
-    location: "France"
-    followers: 26611
-    engagement: 1056
-    commentsToLikes: 0.169518
-    id: ckapal3jgwjgw0i78hrx3dk54
-    verified: false
-    hashtags: "#sushi, #senegal, #un75, #freeuyghur"
-  - username: "inessiadream"
-    fullname: >-
-      𝙄𝙉𝙀𝙎𝙎𝙄𝘼 🎤🎶
-    bio: >-
-      💙 Music Artist ♦ Beauty Addict 💌 inessiapro@gmail.com 💄 Good vibes, fun, music et blabla 🎤 Auteure Compositrice Interprète
-    location: "France"
-    followers: 18461
-    engagement: 809
-    commentsToLikes: 0.404126
-    id: ck6u56g6m7v8e0j718uyyvz0f
-    verified: false
-    hashtags: "#concoursfrance, #singerlife, #chanteusefrancaise, #beautypost"
-  - username: "raina_terziyska"
-    fullname: >-
-      🧿  RAINA  🧿
-    bio: >-
-      LIBRA♎ Español / English / Français 🌻 Travel addicted 🌎 Dances💃🏻 Nature🌴 Animals🐾 Psicología🐚 Sport🏃🏽‍♀️ Photos📸 Music🎼 Fashion👠 34 countries ✈️🧳🌍
-    location: "France"
-    followers: 113280
-    engagement: 471
-    commentsToLikes: 0.073425
-    id: ck6u9a4uswcr70j71g867bg5o
-    verified: true
-    hashtags: "#candela, #expressyourself, #sexy, #women"
-  - username: "seblafrite"
-    fullname: >-
-      SEB
-    bio: >-
-      🍟 youtube & music ✉️ fritsebastien@gmail.com 🌐 Paris - Px
-    location: "France"
-    followers: 2652282
-    engagement: 848
-    commentsToLikes: 0.002711
-    id: ck14iw7hdhfwc0i19duya271o
-    verified: true
-    hashtags: "#keepperforming"
-  - username: "guizzi_"
-    fullname: >-
-      Guizzi
-    bio: >-
-      📩 business@guizzi.fr 🎶 « Reveal » mon premier projet musical est disponible partout ! ❤️‍🔥
-    location: "France"
-    followers: 586820
-    engagement: 628
-    commentsToLikes: 0.007832
-    id: ckf5p304v4rbj0j23fhm9ys8h
-    verified: false
-    hashtags: "#societe, #ad, #mercedes, #dubai"
+    hashtags: "#sculpture, #dripm, #adidasfootball, #adidasxrealmadrid"
   - username: "laurelbang"
     fullname: >-
-      Mathilde-Berceuses & comptines
+      Mathilde
     bio: >-
-      Maman👩‍👦▪️Andrea 4 ans & 🤰 ▪️ Éveil musical 🥁 ▪️ Musicienne🎼▪️ Maternage 🦊 ▪️ Allaitement🤱▪️Monitrice de portage 🐨▪️ DME VG🥕▪️Féminisme✊ ▪️Prof 👩🏼‍🏫
+      🤰 Ta parentalité en musique 🎶 🎼Chansons pour enfants 📀« Grandir ensemble » 👩🏻‍🏫 Prof de musique & éveil musical 👨‍👩‍👦‍👦 Maman d’Andrea & Pio
     location: "France"
-    followers: 24033
-    engagement: 1458
-    commentsToLikes: 0.133368
+    followers: 41001
+    engagement: 641
+    commentsToLikes: 0.046814
     id: ck14jff2mk27y0i1949ig34bs
     verified: false
-    hashtags: "#motherhood, #allaitement, #family, #20sa"
-  - username: "novae.lita"
+    hashtags: "#burnoutparental, #parentalit, #naissance, #maternit"
+  - username: "voluptyk.beats"
     fullname: >-
-      Novaé Lita
+      Nassim 🎹 | نسيم 🇲🇦
     bio: >-
-      ⚜𝑃𝑎𝑟𝑖𝑠𝑖𝑎𝑛 𝑃𝑜𝑒𝑡 🇫🇷 ”ROCHE” OUT ♪ Author, Painter, Songwriter, Aspie💡🎨🎙✍🏻 ☥ • Wagram Music Labrea🦩Mgmt •Colligence Mon 📖 « 𝑃𝑜𝑒́𝑠𝑖𝑒 𝐿𝑖𝑏𝑟𝑒 » en Fnac
+      🏛@affranchis.music Mgmt : @amine.zmn Multi-Diamond & Platinium Producer 💎📀💿 voluptykartist@gmail.com
     location: "France"
-    followers: 126715
-    engagement: 258
-    commentsToLikes: 0.017368
-    id: ckap899vjndp50i78lxvmorkv
+    followers: 35031
+    engagement: 696
+    commentsToLikes: 0.031452
+    id: ck6u3dww3x9f60j71mk6d6glt
     verified: false
-    hashtags: "#beauxarts, #sebastientellier, #roche, #cannes2021"
+    hashtags: ""
+  - username: "amisse.music"
+    fullname: >-
+      𝐀 𝐌 𝐈 𝐒 𝐒 𝐄 🎙
+    bio: >-
+      BIENVENUUUE L’ÉLITE ! 🥰 Star Academy - Promo 2022 ⭐️ 📨 : Amissebooking@gmail.com Tiktok : Amisse.music
+    location: "France"
+    followers: 42019
+    engagement: 1237
+    commentsToLikes: 0.039833
+    id: ckf5vg239ogzz0j23llewoi4w
+    verified: false
+    hashtags: "#tf1, #chaines, #staracademy, #amisse"
 ---

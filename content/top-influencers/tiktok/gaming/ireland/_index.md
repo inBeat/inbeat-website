@@ -1,24 +1,12 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Ireland In 2023
+title: Top 10 Gaming TikTok Influencers In Ireland In 2024
 description: >-
-  Find top gaming TikTok influencers in Ireland in 2023. Most popular hashtags: #gaming #fyp #foryou #fortnite.
+  Find top gaming TikTok influencers in Ireland in 2024. Most popular hashtags: #gaming #fyp #foryou #fortnite.
 platform: TikTok
-hits: 34
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 34 TikTok influencers like this in Ireland for you to collaborate.
+hits: 35
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 35 TikTok influencers like this in Ireland for you to work with.
 profiles:
-  - username: "kristiandoesmagic"
-    fullname: >-
-      Kristian Does Magic!
-    bio: >-
-      GAMING CHANNEL: ⬇️⬇️⬇️⬇️ FOLLOW MY TWITCH! ⚡️ LIVE NOW! ⚡️
-    location: "Ireland"
-    followers: 408400
-    engagement: 1761
-    commentsToLikes: 0.086447
-    id: ckb9h2y2f6cxf0j23syxpfr23
-    verified: false
-    hashtags: "#tellme, #cardtrick, #mindreading, #wee"
   - username: "geeksgonnageek"
     fullname: >-
       geeksgonnageek
@@ -79,6 +67,18 @@ profiles:
     id: ckdi6usj08igq0j23m2b8y5r1
     verified: false
     hashtags: "#acab, #communism, #minecraft, #fortnite"
+  - username: "kristiandoesmagic"
+    fullname: >-
+      Kristian Does Magic!
+    bio: >-
+      🇮🇪 Irish Magical Madness 🇮🇪
+    location: "Ireland"
+    followers: 403900
+    engagement: 1432
+    commentsToLikes: 0.089849
+    id: ckb9h2y2f6cxf0j23syxpfr23
+    verified: false
+    hashtags: "#fyp, #maythe4thbewithyou, #sundayroast, #fun"
   - username: "ezifyx"
     fullname: >-
       ezify

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Venezuela In 2023
+title: Top 10 Crossfit Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top crossfit Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #crossfit #training.
+  Find top crossfit Instagram influencers in Venezuela in 2024. Most popular hashtags: #venezuela #crossfit #caracas #beach.
 platform: Instagram
-hits: 11
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 11 Instagram influencers like this in Venezuela for you to contact.
+hits: 13
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 13 Instagram influencers like this in Venezuela for you to connect with.
 profiles:
+  - username: "ariannapitino"
+    fullname: >-
+      piti🫀
+    bio: >-
+      💫’97 en este perfil creamos contenido .. y hacemos mucho spam🌄 lifestyle | crossfit🏋🏻 | nature | beach veneca🇻🇪
+    location: "Venezuela"
+    followers: 100595
+    engagement: 573
+    commentsToLikes: 0.014012
+    id: ck0tw1ckedlh80i19e0e7a89q
+    verified: false
+    hashtags: "#peace, #ad, #cerro, #lifestyleblogger"
   - username: "lalybreortiz"
     fullname: >-
       Laly Ortiz
@@ -79,6 +91,18 @@ profiles:
     id: ck5q935mz95vc0i11fs7ayhhb
     verified: false
     hashtags: "#photojournalism, #caracas, #streetphotography, #venezuela"
+  - username: "izamorafit"
+    fullname: >-
+      Izamar Mora
+    bio: >-
+      🌎 Holistic Health🧠🩵🍃 🚘 Imagen @mm4wd 🔩 Venta de vehículos @izamora4wd 🥇 Campeona Bikini Vzla 2015 📍 Venezuela 🇻🇪
+    location: "Venezuela"
+    followers: 532961
+    engagement: 36
+    commentsToLikes: 0.073865
+    id: ck8sztmdbpnys0j78eyamm0nu
+    verified: false
+    hashtags: "#colombia, #venezuela, #apure, #fitnessmotivation"
   - username: "eduarlopezf"
     fullname: >-
       E D U A R   L Ó P E Z   £.
@@ -103,28 +127,4 @@ profiles:
     id: ck6031kbdkhe50i1406ppoi2n
     verified: false
     hashtags: "#energiaspositivas, #gatavani, #gata, #legsday"
-  - username: "sabirizza"
-    fullname: >-
-      SABINA RIZZA
-    bio: >-
-      Sabina sin R Est. Ing Industrial🇻🇪 My Fit Passion🏋🏻‍♀️♥️💪🏻
-    location: "Venezuela"
-    followers: 61151
-    engagement: 474
-    commentsToLikes: 0.056303
-    id: ck6ubv7gybwa10j71xym6mgpj
-    verified: false
-    hashtags: "#superstar, #valencia"
-  - username: "keydomar"
-    fullname: >-
-      Keydomar Vallenilla
-    bio: >-
-      Weightlifting - Halterofilia 🏋🏾‍♂️((((-----------------------))))🏋🏾‍♂️ #levantandosueños
-    location: "Venezuela"
-    followers: 12860
-    engagement: 541
-    commentsToLikes: 0.018210
-    id: ck15qs6mn4dlv0i19nie8wkwm
-    verified: false
-    hashtags: "#savage, #training, #power, #weightlifting"
 ---

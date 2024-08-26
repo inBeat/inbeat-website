@@ -1,12 +1,96 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Brazil In 2023
+title: Top 10 Fashion Instagram Influencers In Brazil In 2024
 description: >-
-  Find top fashion Instagram influencers in Brazil in 2023. Most popular hashtags: #ootd #moda #lookdodia #fashion.
+  Find top fashion Instagram influencers in Brazil in 2024. Most popular hashtags: #moda #publi #look.
 platform: Instagram
-hits: 3756
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat has 3756 Instagram influencers like this in Brazil for you to connect with.
+hits: 3839
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 3839 Instagram influencers like this in Brazil for you to contact.
 profiles:
+  - username: "sadaf_beauty_diary"
+    fullname: >-
+      Sadaf Masaeli
+    bio: >-
+      📍San Francisco Travel ✈️ Lifestyle 🏕 Fashion 👒 Follow my Beauty Page👉🏼 @sadaf_beauty 💄 Contact@sadafbeauty.net
+    location: "Brazil"
+    followers: 1816276
+    engagement: 935
+    commentsToLikes: 0.010492
+    id: ckaoxog5pe49p0i78efq8o9lq
+    verified: false
+    hashtags: "#goizmir, #izmir, #goturkey, #homerenovation"
+  - username: "deborafuzeti"
+    fullname: >-
+      DEBORA FUZETI | moda & figurino
+    bio: >-
+      Fashion Designer / Figurinista 🐶 Dona e proprietária do canil 💌contatodebrao@gmail.com 🌟Dicas nos destaques/Reels
+    location: "Brazil"
+    followers: 55071
+    engagement: 833
+    commentsToLikes: 0.077912
+    id: ck6udhc4al42g0j71tqtp9cqq
+    verified: false
+    hashtags: "#barbiedoll, #evelynn, #throneofglass, #madmax"
+  - username: "isabelatesch"
+    fullname: >-
+      Isabela Theodorovicz Tesch
+    bio: >-
+      Fashion • Lifestyle • Makeup Parcerias|Jobs: Direct Medicina veterinária🐾_ UniCesumar Cristã Maringá_PR📍
+    location: "Brazil"
+    followers: 18423
+    engagement: 1914
+    commentsToLikes: 0.046571
+    id: ck8tb5lxkudpc0j78p4iaq51p
+    verified: false
+    hashtags: "#makebeauty, #parana, #lehpequenomakeup, #modelofotografica"
+  - username: "brunamurtaa"
+    fullname: >-
+      BM
+    bio: >-
+      fashion | beauty | lifestyle 💌 bruna.murta@popcommunication.com.br
+    location: "Brazil"
+    followers: 14431
+    engagement: 741
+    commentsToLikes: 0.067673
+    id: ck5c27sqowpng0i119hdf4of5
+    verified: false
+    hashtags: "#bailedavogue, #bailedavogue2023"
+  - username: "hillarymedeiross"
+    fullname: >-
+      Hillary Medeiros
+    bio: >-
+      fashion l beauty SP • Brasil ✉️ contato@hillarymedeiros.com
+    location: "Brazil"
+    followers: 827530
+    engagement: 501
+    commentsToLikes: 0.008737
+    id: ck9wdogh0givp0j78prjctzeb
+    verified: false
+    hashtags: "#revolveme, #sheinbrasil, #sheinforall, #nasheintem"
+  - username: "itboytrends"
+    fullname: >-
+      Menswear
+    bio: >-
+      DM for paid promos. The Superficial Life of The Most Fashionable It Boys!
+    location: "Brazil"
+    followers: 135626
+    engagement: 406
+    commentsToLikes: 0.008785
+    id: ck9welf2rksgm0j784pmufxn6
+    verified: false
+    hashtags: "#oscars"
+  - username: "nicoleprazeres"
+    fullname: >-
+      NICOLE PRAZERES
+    bio: >-
+      🖤 All about Lifestyle! 🤎 nicoleprazeres@jacobscom.com.br 🤍 Guarulhos/ SP @jacobscomunicacao assessoria @FashionNova ambassador
+    location: "Brazil"
+    followers: 381740
+    engagement: 510
+    commentsToLikes: 0.011288
+    id: ck14if71vf4fx0i19aj3axvvy
+    verified: false
+    hashtags: "#photodump, #meuramarim, #ramarimsummer, #christmasdump"
   - username: "eucarolsoaress"
     fullname: >-
       Carol Soares
@@ -19,112 +103,28 @@ profiles:
     id: ck6tp3itmhmoa0j71ikrbpff1
     verified: false
     hashtags: "#publi, #hydraox, #larocheposaybr, #focanosedaboom"
-  - username: "frrancosta"
+  - username: "caiorevela"
     fullname: >-
-      Fran Costa / Cabelo ondulado
+      Caio Revela
     bio: >-
-      you ♡ me! 🧸💖 Hair style and fashion Fashion design: @usefancy.s Produtora de moda 🧵
+      beauty | fashion | inspo Publi: caiorevela@gaiah.ag
     location: "Brazil"
-    followers: 51063
-    engagement: 456
-    commentsToLikes: 0.025911
-    id: ck8tbz693xr2c0j782m4tz0yh
+    followers: 123123
+    engagement: 468
+    commentsToLikes: 0.054680
+    id: ck5hiwh52fl3s0i11rh4p0a1k
     verified: false
-    hashtags: "#onduladosnaturais, #cabelosaudavel, #hairclips, #penteado"
-  - username: "petit_sophia"
+    hashtags: "#look, #corpolivre, #men, #estilo"
+  - username: "maxiane"
     fullname: >-
-      sophia d’avila 💋
+      Maxiane Rodrigues
     bio: >-
-      🇧🇷| RS fashion content • beauty • lifestyle• trips • assista os stories ✨| focused on me
+      Fashion, beauty, lifestyle e comunicação. Especialista em Hist. do Nordeste do Brasil pela Unicap. ☎️Contato profissional↓
     location: "Brazil"
-    followers: 54430
-    engagement: 252
-    commentsToLikes: 0.145205
-    id: ck15qxf2i546v0i19rlo9iv32
+    followers: 30560
+    engagement: 429
+    commentsToLikes: 0.036197
+    id: ck8t2rhlo0g040j78hdsuxqzh
     verified: false
-    hashtags: "#maquiagem, #lookinspira, #outfitoftheday, #look"
-  - username: "maslele"
-    fullname: >-
-      MASLELE
-    bio: >-
-      🌈 looks coloridos são meu forte 🌟 provador fashion • dicas • real life 💕 link profissional
-    location: "Brazil"
-    followers: 45614
-    engagement: 236
-    commentsToLikes: 0.237437
-    id: ck8t2z69119nt0j784zs0wd9n
-    verified: false
-    hashtags: "#lookdodia, #publi"
-  - username: "livia.apereira"
-    fullname: >-
-      LIVIA PEREIRA ☀️
-    bio: >-
-      🤡 Vida real com HUMOR 📍SP 🔥 Viagens | Lifestyle | Fashion | Gastronomia ✈️ A menina do brigadeiro na sala VIP! 💌 contato@viajandocomlivia.com.br
-    location: "Brazil"
-    followers: 102302
-    engagement: 235
-    commentsToLikes: 0.154026
-    id: ck5zuv0gs33br0i14vitdf03w
-    verified: false
-    hashtags: "#humorbr, #viagem, #memesbr, #humor"
-  - username: "iankaribeiro"
-    fullname: >-
-      Ianka Ribeiro || MODA
-    bio: >-
-      Fashion bloguer ✨🚀 DF Muito conteúdo de moda no reels e dicas nos stories 📲Collab: iankaribeiro30@icloud.com
-    location: "Brazil"
-    followers: 47950
-    engagement: 233
-    commentsToLikes: 0.514856
-    id: ck6u8sq1wtg060j71rsslnus7
-    verified: false
-    hashtags: "#fashionreels, #fashion, #ootd, #outfit"
-  - username: "terrible___kid"
-    fullname: >-
-      João sobral the most Tεяя¡Ъłε⚡️
-    bio: >-
-      I do a lot of things yaaa ✌🏼 Team @b0rdalo_ii 🔩⚙️🥽 Street fashion @unfazed.13 🔌 Parcerias @global__influence
-    location: "Brazil"
-    followers: 53670
-    engagement: 169
-    commentsToLikes: 0.030961
-    id: ck0ub28j1dl6b0i19jyhzbef7
-    verified: false
-    hashtags: "#streetwear, #klekttakeover, #kickcheck, #familia"
-  - username: "_feamorim"
-    fullname: >-
-      Fernanda Amorim
-    bio: >-
-      26, Beauty and fashion 👗💄 •Moda, Beleza, Makes, Lifestyle• Batalha de looks 👚👙👠 Contato: Fernanda.amorim96@yahoo.com.br 📩📬
-    location: "Brazil"
-    followers: 61073
-    engagement: 106
-    commentsToLikes: 0.201346
-    id: ck9ha92efbmg50j78iuttzoo5
-    verified: false
-    hashtags: "#ootd, #littleblackdress, #saopaulo, #lookjantar"
-  - username: "jessicaalvesuk"
-    fullname: >-
-      Jessica Alves
-    bio: >-
-      TV Personality📺 Model 🫦 🤷‍♀️based in📍#London🇬🇧 travels the world 🌎 Play at @playjessicaalves Agents @daddytheagency A @fashionnova ambassador
-    location: "Brazil"
-    followers: 7096079
-    engagement: 9
-    commentsToLikes: 0.016648
-    id: ck5hclroiiqaq0i11xnk3l8h1
-    verified: true
-    hashtags: "#beauty, #milano, #metaverse, #london"
-  - username: "sofsenisi"
-    fullname: >-
-      SOF | FASHION INSPO + IG TIPS
-    bio: >-
-      📚 UofGH | Business ✨Diary of my life: Fashion, Beauty, Eats & Coffee 💌Collab: sofiasenisi@gmail.com 📍Canada ￼Ossesso Brand Ambassador: SOFIA10
-    location: "Brazil"
-    followers: 6147
-    engagement: 1291
-    commentsToLikes: 0.199967
-    id: ckap0fxu8q3qd0i781qxasrxq
-    verified: false
-    hashtags: "#microinfluencer, #andsave, #fashionblogger, #detailsoftheday"
+    hashtags: "#carpina, #mamaedeprimeiraviagem, #recife, #influencer"
 ---

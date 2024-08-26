@@ -1,34 +1,34 @@
 ---
-title: Top 10 Instagram Influencers In Madrid In 2023
+title: Top 10 Instagram Influencers In Madrid In 2024
 description: >-
-  Find top Instagram influencers in Madrid in 2023. Most popular hashtags: #madrid #photo #photography.
+  Find top Instagram influencers in Madrid in 2024. Most popular hashtags: #madrid #bikini #summer.
 platform: Instagram
-hits: 1923
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 1923 Instagram influencers like this in Madrid, Spain for you to collaborate.
+hits: 2220
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 2220 Instagram influencers like this in Madrid, Spain for you to contact.
 profiles:
+  - username: "co_monroe"
+    fullname: >-
+      CLARA MARTÍN 🤠🌶🌼🪐
+    bio: >-
+      Madrid
+    location: "Spain"
+    followers: 15941
+    engagement: 71
+    commentsToLikes: 0.033109
+    id: ckaoysovdiwkq0i78vcevecem
+    verified: false
+    hashtags: "#ad"
   - username: "anasannzz"
     fullname: >-
       Ana Sanz
     bio: >-
       Madrid, 🇪🇸
     location: "Spain"
-    followers: 2341
-    engagement: 2535
-    commentsToLikes: 0.034013
+    followers: 2358
+    engagement: 2109
+    commentsToLikes: 0.029261
     id: ckf5nk6bgykm00j23qxcxqt3g
-    verified: false
-    hashtags: ""
-  - username: "sara.bartt"
-    fullname: >-
-      𝑆𝐵 🦓
-    bio: >-
-      madrid
-    location: "Spain"
-    followers: 2617
-    engagement: 1577
-    commentsToLikes: 0.074475
-    id: ck5zzqsyic95n0i14uldk9e0f
     verified: false
     hashtags: ""
   - username: "ysensato"
@@ -79,52 +79,52 @@ profiles:
     id: ckaotbq1lv7hk0i786w88mrgv
     verified: false
     hashtags: "#blackandwhitephotography, #home, #blackandwhiteportrait, #blackandwhite"
-  - username: "albapaulfe"
+  - username: "lady.loah"
     fullname: >-
-      Alba Paul Ferrer
+      Lorena Alvarez
     bio: >-
-      Everything happens for a reason. 🚐 @thefeathervan 🍔 @_criminalburguer_ 📍 Madrid 🏙 📩 albapaul@inmanagement.agency
+      🌲Do your best↟Sports↟Culture↟Gastronomy 📚 Philosopher, Linguistic, Teacher 📧Collabs→lady.loah@gmail.com 🌎35countries 📍Madrid,Spain
     location: "Spain"
-    followers: 1099433
-    engagement: 367
-    commentsToLikes: 0.015109
-    id: ck15r31x05w5f0i19pdlfxik2
-    verified: true
-    hashtags: "#publi, #saboreatulibertad, #el, #wkndmaribel"
-  - username: "lauraescanes"
-    fullname: >-
-      LAURA ESCANES
-    bio: >-
-      Madrid Contact: info@lauescanes.com MI PODCAST ☁️💗👇🏼
-    location: "Spain"
-    followers: 1849675
-    engagement: 354
-    commentsToLikes: 0.040762
-    id: ck0w6sdbma2ei0i19f3zo07zj
-    verified: true
-    hashtags: "#rabatdiamonds, #hscreators, #mango, #esc"
-  - username: "dirianyisabel"
-    fullname: >-
-      Diriany Isabel
-    bio: >-
-      Madrid 📍
-    location: "Spain"
-    followers: 149879
-    engagement: 153
-    commentsToLikes: 0.020145
-    id: ckap1o5vfvdra0i78xb3tcx9x
+    followers: 21128
+    engagement: 403
+    commentsToLikes: 0.071506
+    id: ck5c3lahazjwv0i11uaxqcuv9
     verified: false
-    hashtags: ""
-  - username: "kryspasiecznik"
+    hashtags: "#pirineosfranceses, #planespormadrid, #visitmadrid, #abs"
+  - username: "irene_rain"
     fullname: >-
-      Krys Pasiecznik
+      irene rain
     bio: >-
-      📍MADRID Actor-Modelo-Fotógrafo 📷 @krys_pasiecznik_photo
+      🧚🏻‍♀️🍊🪴🌞🌍💐☁️ lo natural mola más ✌🏼 madrid 💌 irenerain.contacto@gmail.com 🖥 @keeperexperience mi último vídeo:
     location: "Spain"
-    followers: 119543
-    engagement: 135
-    commentsToLikes: 0.064537
-    id: ck55neqlc62590i11ognehm5c
+    followers: 82916
+    engagement: 432
+    commentsToLikes: 0.008491
+    id: cl3cuhhy34xpt0i23qeddhz6e
     verified: false
-    hashtags: "#gshockes, #outfitoftheday, #tatuaje, #viaje"
+    hashtags: "#algarve, #trend, #vlog, #portugal"
+  - username: "blancaojeda_"
+    fullname: >-
+      blan
+    bio: >-
+      ☻ enjoying • slowly yet vibrantly ☻ blanca.ojeda@binineagency.com currently in madrid
+    location: "Spain"
+    followers: 15618
+    engagement: 788
+    commentsToLikes: 0.009239
+    id: ckap0sdakrkz00i78y2tlmhyw
+    verified: false
+    hashtags: "#brightswimwear, #bikini, #summerhaul, #circuitojerez"
+  - username: "fuckisra"
+    fullname: >-
+      ISRA 🦋
+    bio: >-
+      📩: fuckisra@dscope.es un chico que maquilla y a veces hace gracia Madrid | No tengas miedo a ser distinto💅🏻
+    location: "Spain"
+    followers: 139037
+    engagement: 1382
+    commentsToLikes: 0.021421
+    id: ck5ci915ms8050i11nzlfgdec
+    verified: false
+    hashtags: "#makeup, #consejos, #bizarrap, #maquillaje"
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Los Angeles In 2023
+title: Top 10 Home Decor TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top home decor TikTok influencers in Los Angeles in 2023. Most popular hashtags: #homedecor #losangeles #fyp #foryou.
+  Find top home decor TikTok influencers in Los Angeles in 2024. Most popular hashtags: #homedecor #losangeles #fyp #foryou.
 platform: TikTok
-hits: 17
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database holds 17 TikTok influencers like this in Los Angeles, United States for you to pitch.
+hits: 18
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 18 TikTok influencers like this in Los Angeles, United States for you to pitch.
 profiles:
+  - username: "annasbananas18"
+    fullname: >-
+      Anna.seavey 
+    bio: >-
+      Instagram: @anna.seavey
+    location: "United States"
+    followers: 93700
+    engagement: 2832
+    commentsToLikes: 0.015917
+    id: ck8owjwbsy7ur0j780li9acam
+    verified: false
+    hashtags: "#greenscreen, #fyp, #fashion, #ad"
   - username: "juveniletoast"
     fullname: >-
       lalli
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.141433
     id: ckamwbs8b7q7a0i78u6lz47jr
     verified: false
-    hashtags: "#losangeles, #travelbucketlist, #luxurylife, #luxurytravel"
+    hashtags: "#travelwithme, #perfectdrink, #luxurytravel, #traveltiktok"
   - username: "probablyfromgoodwill"
     fullname: >-
       bailey
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.095046
     id: ckb999487tflt0j236leuq04v
     verified: false
-    hashtags: "#tiktoktravel, #trump2020, #california, #losangeles"
+    hashtags: "#tiktoktravel, #summer2020, #losangeles, #trump2020"
   - username: "veggiekins"
     fullname: >-
       Remy Morimoto Park
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.013342
     id: ck8savrcm3vjb0j784f5skhhy
     verified: false
-    hashtags: "#veganrecipes, #healthyrecipes, #matcha, #minivlog"
+    hashtags: "#simplerecipe, #healthyrecipes, #vegantiktok, #asmrfood"
   - username: "ninthvision"
     fullname: >-
       Jayden
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.031763
     id: ckcvisczgvzbo0j23ed6zoyw8
     verified: false
-    hashtags: "#homedecor, #stancenation, #trending, #porschegt3rs"
+    hashtags: "#fyp, #carphotographer, #porschegt3rs, #foryou"
   - username: "tastemadehome"
     fullname: >-
       Tastemade Home
@@ -115,16 +127,4 @@ profiles:
     id: ck81q4fm4furb0j7853c21bcl
     verified: true
     hashtags: "#tipsandtricks, #upcycle, #homedecor, #diyprojects"
-  - username: "stonymarvels1"
-    fullname: >-
-      Antonio Williams
-    bio: >-
-      This little light of mines... I’m gon’ let it shine🌞 Follow me on Instagram👌🏾
-    location: "United States"
-    followers: 107200
-    engagement: 2067
-    commentsToLikes: 0.041543
-    id: ckaclz4edhmos0i785hvia67q
-    verified: false
-    hashtags: "#food, #stonymarvels, #baking, #foodtiktok"
 ---

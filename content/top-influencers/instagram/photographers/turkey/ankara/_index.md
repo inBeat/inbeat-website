@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Ankara In 2023
+title: Top 10 Photographers Instagram Influencers In Ankara In 2024
 description: >-
-  Find top photographers Instagram influencers in Ankara in 2023. Most popular hashtags: #photography #photographer #photooftheday #ankara.
+  Find top photographers Instagram influencers in Ankara in 2024. Most popular hashtags: #photography #photographer #ankara #photooftheday.
 platform: Instagram
-hits: 68
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 68 Instagram influencers like this in Ankara, Turkey for you to contact.
+hits: 60
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 60 Instagram influencers like this in Ankara, Turkey for you to contact.
 profiles:
   - username: "sabripesmenofficial"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Rio De Janeiro In 2023
+title: Top 10 Lifestyle Instagram Influencers In Rio De Janeiro In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Rio De Janeiro in 2023. Most popular hashtags: #model #riodejaneiro #mood.
+  Find top lifestyle Instagram influencers in Rio De Janeiro in 2024. Most popular hashtags: #model #riodejaneiro #mood.
 platform: Instagram
-hits: 70
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 70 Instagram influencers like this in Rio de Janeiro, Brazil for you to connect with.
+hits: 64
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 64 Instagram influencers like this in Rio de Janeiro, Brazil for you to work with.
 profiles:
   - username: "izabella.aguiar_"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck5qd1ctitche0i1179d613h9
     verified: false
     hashtags: "#menstyle, #mensfashion, #menfashion, #rj"
-  - username: "caroolfigueiras"
-    fullname: >-
-      CAROL FIGUEIRAS
-    bio: >-
-      • TREINO | ALIMENTAÇÃO | LIFESTYLE • Rio de Janeiro • O tal “Fitness” sem neura 🦋Trabalho/Parcerias : direct ou contatocaroolfigueiras@gmail.com
-    location: "Brazil"
-    followers: 6217
-    engagement: 657
-    commentsToLikes: 0.066836
-    id: ck6u9m1vdyatr0j71gsb6ppmf
-    verified: false
-    hashtags: "#thatibritopersonal, #treinodepernas, #lifestyle, #vidasaud"
   - username: "jhonatanmabillard"
     fullname: >-
       Jhonatan Rodrigues
@@ -55,18 +43,18 @@ profiles:
     id: ckf5svux5gbz70j238n0kb9rk
     verified: false
     hashtags: "#tbt"
-  - username: "lucasmartins"
+  - username: "__amandabarbosa"
     fullname: >-
-      Lucas Martins
+      Amanda Barbosa
     bio: >-
-      Travel | Photography | Lifestyle 📍Rio de Janeiro 🇧🇷 🤳🏼 Tk: +950k 📩 lucas.amf@outlook.com
+      ASSISTA AOS STORYS👆🏼✨ moda | beleza | lifestyle 📍Rio de Janeiro • 18y ✉️: contato.amandabarbosa05@gmail.com
     location: "Brazil"
-    followers: 52725
-    engagement: 442
-    commentsToLikes: 0.050051
-    id: ck8wfpegog2010j78ffu43si0
+    followers: 311584
+    engagement: 196
+    commentsToLikes: 0.008618
+    id: ck8t4pmr67mta0j78rv4tvpqs
     verified: false
-    hashtags: "#mochileiros, #traveler, #bestnine2018, #2017bestnine"
+    hashtags: "#sheinforall, #sheinpartner, #sheinjunina, #usedonabetta"
   - username: "dicadalar"
     fullname: >-
       Larissa Neves
@@ -103,18 +91,18 @@ profiles:
     id: ck0w2vj2bqdg80i19whaoal3n
     verified: false
     hashtags: "#pinterest, #riodejaneiro, #christmas, #doglovers"
-  - username: "camilacura"
+  - username: "lalourenca"
     fullname: >-
-      CAMILA CURA
+      Larissa Lourença
     bio: >-
-      📍Rio de Janeiro • Lifestyle • Moda Plus Size • Cachos • Muito bom humor • 💡Dicas nos destaques! 👶🏻 Mãe do Francisco 💌fofashions@gmail.com
+      lifestyle | moda | vida real Rio de Janeiro jobs: @mvassessoria_ ✉️ lalourenca@mvcomercial.com
     location: "Brazil"
-    followers: 35974
-    engagement: 478
-    commentsToLikes: 0.091336
-    id: ck6u1x4r6of0k0j71njooy06p
+    followers: 109662
+    engagement: 248
+    commentsToLikes: 0.014849
+    id: ckap3m0rs3kd20i786vvl0rw9
     verified: false
-    hashtags: "#publi, #franciscocuradeabreu, #usezith, #parceria"
+    hashtags: "#bemestartotal, #vidasaud, #publi, #maybellinenybrasil"
   - username: "luadcm"
     fullname: >-
       LUIZE MARTINS 🌙
@@ -127,4 +115,16 @@ profiles:
     id: ckap7t1yylfld0i7824t0v8en
     verified: false
     hashtags: "#reels, #mds"
+  - username: "erikapalmer"
+    fullname: >-
+      Erika Palmer
+    bio: >-
+      Fashion, art, travel enthusiast | Lifestyle | Lawyer| Mother Maria Sophia and Maria Clara. 📍Rio de Janeiro #lifestyle #fashion #travel
+    location: "Brazil"
+    followers: 45120
+    engagement: 111
+    commentsToLikes: 0.084794
+    id: ck5cksixvxiya0i1125l0gatx
+    verified: false
+    hashtags: "#sqn, #canaldamariasophia"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Italy In 2023
+title: Top 10 Nutrition Instagram Influencers In Italy In 2024
 description: >-
-  Find top nutrition Instagram influencers in Italy in 2023. Most popular hashtags: #fitness #home #smile.
+  Find top nutrition Instagram influencers in Italy in 2024. Most popular hashtags: #fitness #vegan #summervibes.
 platform: Instagram
-hits: 206
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 206 Instagram influencers like this in Italy for you to contact.
+hits: 223
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 223 Instagram influencers like this in Italy for you to connect with.
 profiles:
-  - username: "ema.bruni"
+  - username: "mendozamirela"
     fullname: >-
-      Emanuele Bruni THE KING
+      Mirela Mendoza
     bio: >-
-      Bachelor's degree in Biology, Master's degree in Biology, PhD in Biology Master in Human Nutrition 🚴‍♂️Cycling lover 👫
+      Mamá de dos✨ Health Coach/ IIN @nutritionschool Siempre da lo mejor de ti #beextraordinary Comienza tu transformación #betterthanever
     location: "Italy"
-    followers: 14669
-    engagement: 637
-    commentsToLikes: 0.188640
-    id: ck6tzfjmm9e8q0j71b99ftwpp
-    verified: false
-    hashtags: "#giantbikes, #instaselfie, #ridewithaview, #cyclingwear"
-  - username: "p.annab"
-    fullname: >-
-      Annabella Prisco 💎
-    bio: >-
-      💪🏼 Director @clubefitness.carladerogatis 🎵 Creator @tiktok : unliketwins 163K 🍔 Student in Nutrition 🔬 Doctor in Biology 🇮🇹 Avellino, 26yo
-    location: "Italy"
-    followers: 80062
-    engagement: 245
-    commentsToLikes: 0.052391
-    id: ckap24rwqxdaj0i78p747ju5v
-    verified: false
-    hashtags: "#moodquarantine, #25novembre, #noallaviolenzasulledonne"
-  - username: "karina.fetica"
-    fullname: >-
-      Karina Fetica
-    bio: >-
-      Final 10 in Survivor Romania Crazy, fit Lady, kickin ass. Literally 🥊 ❗marketing@globalrecords.com Genius Nutrition discount:KF12
-    location: "Italy"
-    followers: 85780
-    engagement: 574
-    commentsToLikes: 0.018805
-    id: ckap89su5ng6y0i78x4cs7xqa
-    verified: false
-    hashtags: "#summer, #colors, #bekind, #travel"
+    followers: 172209
+    engagement: 403
+    commentsToLikes: 0.016414
+    id: ck6txb4wlwtya0j717w7cyr5z
+    verified: true
+    hashtags: "#viajeextraordinario, #beextraordinary, #france, #capri"
   - username: "max_veganfit"
     fullname: >-
       Massimo Brunaccioni
     bio: >-
-      ★ WNBF Pro Men’s Physique 🥇Men’s Physique World Champion ‘19 🌱 Vegan ☆ Fitness & nutrition coach ☆ Natural bodybuilding coach 📚Author VEGAN COACH
+      🥇Campione 🌎 natural bodybuilding WNBF PRO 🌱Vegan da 12 anni 💪🏼Fitness & nutrition coach @myproteinit Su @v_athlete_official parlo di allenamento
     location: "Italy"
-    followers: 50394
-    engagement: 501
-    commentsToLikes: 0.028855
+    followers: 74313
+    engagement: 347
+    commentsToLikes: 0.019097
     id: ck55nqzsp6srp0i11usfdcaq8
     verified: true
-    hashtags: "#severomagiusto"
-  - username: "eleonora_goldoni"
+    hashtags: "#bodybuilding, #veganbodybuilding, #veganprotein, #fulldayofeating"
+  - username: "momomuscle"
     fullname: >-
-      Eleonora Goldoni
+      Morgan Olson
     bio: >-
-      🔹Giocatrice @napolifemminile 🔹Laureata in Clinical Nutrition negli USA 🔹Ideatrice @projecteg16 🔹Primo 📖 “Preferisco i Tacchetti” 🔹Atleta @adidasita
+      Science Based Trainer | Nutrition Specialist @scaredbut.alive 25,000+ Transformations. Train on my programs + app ↴
     location: "Italy"
-    followers: 234773
-    engagement: 848
-    commentsToLikes: 0.009685
-    id: ckap9bjgprzay0i78cqz2j9b2
-    verified: true
-    hashtags: "#together, #adidas, #predator, #calcio"
-  - username: "_biancazero"
-    fullname: >-
-      • B I A N C A   Z E R O 🇮🇹•
-    bio: >-
-      🎬Actriz-attrice en o11ce @disneyxdla ⚽️ football player of @sampdoria 🌱 coach Herbalife Nutrition
-    location: "Italy"
-    followers: 36267
-    engagement: 1153
-    commentsToLikes: 0.014116
-    id: ckap5zkw5dtwa0i78imew43jr
+    followers: 300217
+    engagement: 246
+    commentsToLikes: 0.012976
+    id: ckaoychytgxml0i78ikxtbnxv
     verified: false
-    hashtags: "#photography, #football, #fitness, #futbol"
-  - username: "alexaubryofficial"
-    fullname: >-
-      alex | fitness & positivity
-    bio: >-
-      ▪️Team @nocco.at | @barebells.at ▪️Team @ironmaxx_nutrition | ALEX10 ▪️Team @loewenanteil | alexaubry10 ▪️ @hexxeeofficial ambassador | BBALEXAUBRY⬇️
-    location: "Italy"
-    followers: 3083
-    engagement: 1641
-    commentsToLikes: 0.232296
-    id: ckf5udb0ikhvh0j237eoa3o5i
-    verified: false
-    hashtags: "#thursdaythoughts, #lookingforward, #girlwholifts, #areyounoccoenough"
+    hashtags: "#fighterprogram, #mascmakeover, #pride2023, #chesties"
   - username: "cr_christianromeo"
     fullname: >-
       Christian Romeo
     bio: >-
-      💪🏼Personal Trainer @powergym_castelfranco 🏅Men Physique IFBB (5°🇮🇹) 💊 Integrazione @alex_nutrition 🕺🏻 @dancingsombrero 📧 Info collaborazioni ⬇️
+      💪🏼Personal Trainer @powergym_castelfranco 💊 Integrazione @alex_nutrition 🪩 @dancingsombrero
     location: "Italy"
-    followers: 39860
-    engagement: 512
-    commentsToLikes: 0.019651
+    followers: 76285
+    engagement: 144
+    commentsToLikes: 0.020249
     id: ck8tbfv0jvhwy0j78mtp4le2h
     verified: false
-    hashtags: "#home, #saturday, #gym, #sunday"
-  - username: "simofit_xw"
+    hashtags: "#naxos, #beach, #ibiza, #buenasvibras"
+  - username: "claudiaciesla"
     fullname: >-
-      Simona Bartolini | FITNESS
+      Claudia Ciesla
     bio: >-
-      Allenamento Femminile e Dolci Fit 𝑀𝑒𝑔𝓁𝒾𝑜 𝓊𝓃𝒶 𝓋𝑒𝓇𝒾𝓉à 𝒸𝒽𝑒 𝒻𝑒𝓇𝒾𝓈𝒸𝑒 𝒹𝒾 𝓊𝓃𝒶 𝒷𝓊𝑔𝒾𝒶 𝒹𝒾 𝒸𝑜𝓂𝑜𝒹𝑜 XWoman Coach®️Chef Model @xwoman_nutrition -10% XWPRO119
+      🎭 Actress 🥗 Nutritionist & Lifestyle coach 📚 Author of ‘Keep Eating Keep Losing’ 📝 Entrepreneur 📩Contact: Claudia.enquiry@gmail.com
     location: "Italy"
-    followers: 13551
-    engagement: 339
-    commentsToLikes: 0.092906
-    id: ckaparbigx67u0i78bu1khe1b
-    verified: false
-    hashtags: "#tortafit, #bodyrecomp, #fitnesslifestyle, #countingmacros"
-  - username: "thismsitaly"
+    followers: 1159236
+    engagement: 118
+    commentsToLikes: 0.016596
+    id: ck0vwp4equw9u0i19043e4pxs
+    verified: true
+    hashtags: "#summervibes, #sundayfunday, #travel, #exercise"
+  - username: "codiecabral"
     fullname: >-
-      Italia Martins ΜΟΛΩΝ ΛΑΒΕ🇺🇸
+      Holistic Health Coach
     bio: >-
-      Cali ╈ Nashville 📍 God&family🙏 Outdoor lifestyle🏹🎣 @bowmar_nutrition | use code:Italia @rakadxco | use code:Thismsitaly
+      Mama to 3👼🏼👶🏼🤰🏽 💫Guiding families thru holistic nutrition + Lifestyle shifts ❥ Holistic Motherhood 🌱Non- toxic living 80% Crunchy 20% Just livin ☻
     location: "Italy"
-    followers: 11064
-    engagement: 548
-    commentsToLikes: 0.047995
-    id: ck8tah8yzrqsr0j78cqi0g4v1
+    followers: 19741
+    engagement: 121
+    commentsToLikes: 0.090406
+    id: ck0u76opf3zx90i19e169jczh
     verified: false
-    hashtags: "#nationalfarmersday, #californiafires, #home, #nashbash"
+    hashtags: "#prenatalnutrition, #angelnumbers, #guardianangels, #1111"
+  - username: "serenaenardu"
+    fullname: >-
+      𝓢𝓮𝓻𝓮𝓷𝓪 𝓔𝓷𝓪𝓻𝓭𝓾 ✨
+    bio: >-
+      Mum-Fitness-Beauty-Nutrition- Lifestyle 💫 Woman Coach 💪🏽 Contact e collaboration📩: soloseresrl@gmail.com
+    location: "Italy"
+    followers: 577650
+    engagement: 94
+    commentsToLikes: 0.034156
+    id: ck0vxmtlfzos60i194y5bj2y7
+    verified: true
+    hashtags: "#winter, #sheinpartner, #sheingoodfinds, #sheinhome"
+  - username: "lorein_"
+    fullname: >-
+      Desi Kate ✨
+    bio: >-
+      •Yogi🧘🏼‍♀️ •Artist🎨🎭🎶 @arttaleia •Mother👼🏼🧿 @leoniekatebaby •Utopian 🌐 •Culturologist 🇮🇹 📜 •Vegan Nutritionist 🌱📜 •Citizen of the World 🌏
+    location: "Italy"
+    followers: 230152
+    engagement: 157
+    commentsToLikes: 0.001383
+    id: ck139ey27kzfg0i198li51opg
+    verified: false
+    hashtags: "#shineyourlight, #39weekspregnant"
+  - username: "laurensimpson"
+    fullname: >-
+      Lauren Simpson
+    bio: >-
+      NUTRITION. WORKOUTS. LIFESTYLE ♡ 200K + programs sold @laurensimpsonfitness ♡ Founder: @rarecollective_official ♡ MC 💍
+    location: "Italy"
+    followers: 1919514
+    engagement: 26
+    commentsToLikes: 0.024281
+    id: ck13afh6wq56s0i19pbfuw3ug
+    verified: true
+    hashtags: "#lunchrecipes, #fitness, #nutrition, #recipe"
+  - username: "emanuela_caorsi"
+    fullname: >-
+      Emanuela Caorsi
+    bio: >-
+      ⚘ Holistic Health Mentor ꩜ Holistic Nutrition, Ancestral Wisdom, Yoga, Lifesyle and Self Love Iscriviti al mio Workshop Gratuito RISCOPRI TE STESSA ↓
+    location: "Italy"
+    followers: 133991
+    engagement: 103
+    commentsToLikes: 0.065055
+    id: ck14icp9wereg0i19ux712ko6
+    verified: false
+    hashtags: "#ricettesane, #alimentazioneolistica, #adv, #senzaglutine"
 ---

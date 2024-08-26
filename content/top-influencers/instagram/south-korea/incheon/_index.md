@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Incheon In 2023
+title: Top 10 Instagram Influencers In Incheon In 2024
 description: >-
-  Find top Instagram influencers in Incheon in 2023. Most popular hashtags: #seoul #ig #incheon #sunrise.
+  Find top Instagram influencers in Incheon in 2024. Most popular hashtags: #seoul #korea #ig #incheon.
 platform: Instagram
-hits: 16
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 16 Instagram influencers like this in Incheon, South Korea for you to collaborate.
+hits: 15
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 15 Instagram influencers like this in Incheon, South Korea for you to connect with.
 profiles:
   - username: "2silverrainn"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.030063
     id: ck5zonunjqxya0i14b78mapns
     verified: true
-    hashtags: "#ootd, #tb, #hawaii, #la"
+    hashtags: "#ootd, #la, #lifestyle, #california"
   - username: "raul_4802"
     fullname: >-
       김창환
@@ -55,18 +55,18 @@ profiles:
     id: ck5zno8duou6j0i14tx60v4nw
     verified: false
     hashtags: "#aviationlove, #aviation, #longtimeago, #queenoftheskies"
-  - username: "thizisdan"
+  - username: "hehejihee"
     fullname: >-
-      강희웅(Danny Kang)🇰🇷
+      Julie Hwang
     bio: >-
-      Life in Korea @frost_latte @koreangrocerymen
+      Kiwi Korean in Dubai 🦋 EMIRATES MAKEUP VIDEO
     location: "South Korea"
-    followers: 86804
-    engagement: 324
-    commentsToLikes: 0.040807
-    id: ck136b2hy5mou0i194l0uq5kw
+    followers: 114406
+    engagement: 492
+    commentsToLikes: 0.006724
+    id: ckaozhqm2lxud0i78ep1u8e99
     verified: false
-    hashtags: "#lifeinkorea, #korealife, #thizisdanhouse, #thiziskorea"
+    hashtags: "#style, #greece, #mykonos, #korean"
   - username: "_iuleejieun_"
     fullname: >-
       🐰
@@ -91,18 +91,6 @@ profiles:
     id: ckf5wmvs5sl6h0j23kqwzn9tm
     verified: false
     hashtags: "#ourplanetdaily, #koreatraditional, #koreatravel, #besteuropephotos"
-  - username: "korean__unnie"
-    fullname: >-
-      Korean Unnie 한국언니 ⓒ
-    bio: >-
-      To define is to limit, I choose ♾👁 Youtube 🇰🇷 Korean Unnie 한국언니👸🏻
-    location: "South Korea"
-    followers: 85967
-    engagement: 598
-    commentsToLikes: 0.011657
-    id: ck0w44b5mwqrc0i19u0x5kksv
-    verified: false
-    hashtags: "#disneyinconcert, #handsome, #dailyk, #kbsworld"
   - username: "mongle_jyh"
     fullname: >-
       풍경사진사 몽글이
@@ -127,4 +115,16 @@ profiles:
     id: ck55o91xm7vrh0i11r0m8qfap
     verified: false
     hashtags: "#koreanmuslim, #muslim, #korea, #seoul"
+  - username: "samdstagram"
+    fullname: >-
+      Sam(d)stagram
+    bio: >-
+      Working and living in Seoul, Korea 🇰🇷
+    location: "South Korea"
+    followers: 4988
+    engagement: 534
+    commentsToLikes: 0.155932
+    id: ck5c4aqjc0yjp0i11p4lvdez7
+    verified: false
+    hashtags: "#itaewon, #tiktok, #partyanimals, #itstheship"
 ---

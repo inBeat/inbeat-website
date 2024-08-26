@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Singapore in 2023
+title: Top 10 Vegan Instagram Influencers In Singapore In 2024
 description: >-
-  Find top vegan Instagram influencers in Singapore in 2023. Most popular hashtags: #vegan #singapore #indianfood #vegetarian.
+  Find top vegan Instagram influencers in Singapore in 2024. Most popular hashtags: #singapore #vegan #sp #sgfood.
 platform: Instagram
-hits: 15
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our database has 15 Instagram influencers like this in Singapore for you to work with.
+hits: 17
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat has 17 Instagram influencers like this in Singapore for you to collaborate.
 profiles:
-  - username: "otherpaula"
+  - username: "oliveradarko"
     fullname: >-
-      PaulaM
+      Olivera Darko
     bio: >-
-      • @paulablos_ • • SG | Vegan | 🏳️‍🌈 • Brasil > 📍 Spain
+      Berlin & Plant Based 🌱 Agency @jupiterlightsmedia Founder @veganctuary oliverasocials@gmail.com ✉️
     location: "Singapore"
-    followers: 34189
-    engagement: 1133
-    commentsToLikes: 0.011034
-    id: ck6u6ht1ufo7k0j713xpfgtr6
+    followers: 49988
+    engagement: 560
+    commentsToLikes: 0.015213
+    id: ck6u861w0pn1s0j711zoo3xsx
     verified: false
-    hashtags: "#sgmerch"
+    hashtags: "#caughtintheact, #oopsididitagain, #lingoda202302, #longdistance"
   - username: "cravings4vegan"
     fullname: >-
       Nisha🙏 Recipe Developer🥙🥗
     bio: >-
-      Creating varities in #vegan #vegetarian food #Recipecurator #organicfood Singapore 🇸🇬 #detoxwithnish #rainbowrecipesbynish DM/email for collab
+      See me Growing through my mumma's 👀: Eddie👦🏻 Creating varities in #vegan #vegetarian food #Recipecurator #organicfood Singapore 🇸🇬 DM/email for collab
     location: "Singapore"
-    followers: 10459
-    engagement: 663
-    commentsToLikes: 0.513091
+    followers: 9775
+    engagement: 152
+    commentsToLikes: 8.943332
     id: ck134qfltxp6r0i19bk4o1m7h
     verified: false
-    hashtags: "#navratri, #newparents, #glutenfreerecipes, #singaporehomecooks"
-  - username: "iamchubbypotato"
+    hashtags: "#sgblogger, #vegetarianismo, #sgparenting, #parenting"
+  - username: "othernahlu"
     fullname: >-
-      Chubby Potato
+      Nahlu (they/them)
     bio: >-
-      𝗙𝗼𝗼𝗱 𝗕𝗹𝗼𝗴－𝗥𝗲𝗰𝗶𝗽𝗲𝘀－𝗧𝗿𝗮𝘃𝗲𝗹－𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝘆 Tinder🔥↦Dated💘↦Married💒 Cambodia🇰🇭↦India🇮🇳↦SG🇸🇬 New Recipe for KungPao Chicken
+      • @nahlu__ • • 🏳️‍🌈 Non Binary | Vegan • Brasil > 📍 Spain
     location: "Singapore"
-    followers: 2975
-    engagement: 1098
-    commentsToLikes: 0.080222
-    id: ck136ffj168as0i19d532nyct
+    followers: 37610
+    engagement: 725
+    commentsToLikes: 0.011171
+    id: ck6u6ht1ufo7k0j713xpfgtr6
     verified: false
-    hashtags: "#easyrecipe, #sgfood, #indianstreetfood, #togetherathome"
-  - username: "gayatriisingh"
+    hashtags: "#tattoos, #photography, #tattooed, #inked"
+  - username: "angeliqueteo"
     fullname: >-
-      Gayatri Singh-Culinary Nirvana
+      Angelique Nicolette Teo
     bio: >-
-      #food | #recipes | #lifestyle •trained chef•recipe developer •photographer•thermomix chef & teacher #culinarynirvana DM for Collabs Tap👇🏼for recipes
+      • Presenter on @kiss92fm • Plant Forward 🌱 • Sustainability. Tech. Travel. Wellness. Food. • Email/DM for Bookings.
     location: "Singapore"
-    followers: 37286
-    engagement: 103
-    commentsToLikes: 0.226808
-    id: ck5q80oyr3xfs0i11vvgn5phe
+    followers: 18481
+    engagement: 153
+    commentsToLikes: 0.069228
+    id: ck5hnkcnnnxiw0i11iok283vh
     verified: false
-    hashtags: "#stylingmyseasons, #incredibleindia, #nothingisordinary, #food52community"
-  - username: "sherbabes"
+    hashtags: "#jimbaran, #singapore, #travel, #rafflesbali"
+  - username: "peroro_"
     fullname: >-
-      Sheryl🌻
+      ⋆·˚ ༘ * Persie Y  ੈ✩‧₊˚
     bio: >-
-      ✉️ sherbabes@hotmail.com
+      ♡ Lifestyle, Health,Motherhood,Food,Beauty,Fashion ҉ therealpersie@gmail.com ＊*✩˚ interior designer ✩ boy mum @bbbhung_ ☽ SG ˚｡⋆
     location: "Singapore"
-    followers: 15425
-    engagement: 224
-    commentsToLikes: 0.157626
-    id: ck6u2qex3tbuw0j71geskhi5c
+    followers: 19155
+    engagement: 441
+    commentsToLikes: 0.072755
+    id: clm70aj3igdys0j08urosqknx
     verified: false
-    hashtags: "#vornadomalaysia, #cleanbeauty, #visibleresultsin1day, #elle75thanniversary"
-  - username: "kikiaivazi"
+    hashtags: "#newborn, #thingstodo, #baby, #sp"
+  - username: "ohfishiee"
     fullname: >-
-      𝓚𝓲𝓴𝓲 𝓐𝓲𝓿𝓪𝔃𝓲🧿
+      °· F I S H ·°
     bio: >-
-      Make Up Artist 📺 #hanstand #kikiaivazimakeupartist #kikiaivaziteam #kikiaivazimakeup Gmail : kikiaivazix@gmail.com
+      📍🇸🇬🇲🇾 ✨Lifestyle Influencer ✨Ads/sponsorship: ohfishie@gmail.com ❤WWW.OHFISHIEE.COM 👉🏻[LATEST] Blog Post👇🏻
     location: "Singapore"
-    followers: 44485
-    engagement: 232
-    commentsToLikes: 0.620783
-    id: ck8t0aphjrf5t0j78ipe573ia
+    followers: 20911
+    engagement: 307
+    commentsToLikes: 0.010403
+    id: ck0w5haxf3n6e0i19rr26hnc7
     verified: false
-    hashtags: "#j2us, #backstage, #mykonosisland, #makeup"
-  - username: "ampliobeauty_by_nmita"
+    hashtags: "#ohfishieeinsingapore, #ibaraki, #ohfishieeeats, #ohfishieeinjapan"
+  - username: "yenern88"
     fullname: >-
-      Nmita Doak
+      Yen 🌷SG Foodie 🍔 Lifestyle 💖 Home 🌸Travel ✈️ Blogger 🇸🇬
     bio: >-
-      “Be yourself; everyone else is already taken.” Oscar Wilde MAKEUP MAVEN & FOUNDER OF AMPLIO BEAUTY! Amplify your natural beauty.
+      Content Creator 💃🏻Petite 155 🌷Cooking, foodie, fashion, lifestyle ✈️ Mar🇯🇵 April🇹🇼 May🇮🇩 DM / 💌 me for collabs 💌
     location: "Singapore"
-    followers: 17989
-    engagement: 141
-    commentsToLikes: 0.147792
-    id: ck5q80p9j3xjz0i11su471e6b
+    followers: 14441
+    engagement: 263
+    commentsToLikes: 0.107910
+    id: clm70ajvkgepn0j080wb06cq4
     verified: false
-    hashtags: "#singapore, #usamakeupartist, #indianstyle, #sabrinasparkle"
-  - username: "makanwarrior"
+    hashtags: "#sp, #sghomecooking, #sgeats, #instafood"
+  - username: "jjkatherine"
     fullname: >-
-      
+      Katherine Tan
     bio: >-
-      FPA8 @foodpandasg ($8 off for 1st time users) 20%OFFCOMPOSITION @breadtalksg MakanWarrior15 (15% off @maxzi.sg )
+      🐳陈秋玲(JJ) 🇹🇭TH | SG🇸🇬 🍳Sharing kitchen stories and recipes
     location: "Singapore"
-    followers: 9573
-    engagement: 458
-    commentsToLikes: 0.158338
-    id: ckaoquebkkg3k0i78d1wce91n
+    followers: 86785
+    engagement: 259
+    commentsToLikes: 0.120319
+    id: ck5zkb3dwj5f40i14v96ewal9
     verified: false
-    hashtags: "#openrice, #stfoodtrending, #mediadrop, #delicious"
-  - username: "neeskitchen"
+    hashtags: "#breakfast, #cookingathome, #thaifood, #homecooking"
+  - username: "yvonnelim928"
     fullname: >-
-      Neeru Srikanth | Neeskitchen
+      💕🌈✨Yvonne Lim 林湘萍✨🌈💕
     bio: >-
-      I ❤️ Mylapore 🇮🇳 & Singapore 🇸🇬 DM for booking my 🍱Online Cooking Class - All Timezones available 🎥Youtuber【70k+】 Collab 📧 neerukitchen@gmail.com
+      Mediacorp Artiste 🌺 Spread Good Vibes...Live,Love,Laugh🌈 helloyvonnelim@gmail.com
     location: "Singapore"
-    followers: 41680
-    engagement: 157
-    commentsToLikes: 0.051150
-    id: ck8t7mvudhde10j78jrijnmwt
-    verified: false
-    hashtags: "#foodstagram, #dinner, #tambram, #chutney"
-  - username: "nikolai_wee"
+    followers: 269561
+    engagement: 175
+    commentsToLikes: 0.014581
+    id: ck5hh8iq96xtd0i11668w755u
+    verified: true
+    hashtags: "#happyaj, #familybonding, #madewithlove, #lookgoodfeelgood"
+  - username: "tamjiak_veggiez"
     fullname: >-
-      Nikolai Wee
+      Rachel Chin Flexi Vegetarian Vegan food lifestyle SG
     bio: >-
-      "The only easy day was yesterday" 📮 DM / Email for collab ⬇️ : nikolaiwee@hotmail.com
+      FLEXI-MEATLESS Food/Lifestyle/Beauty🧚 💯%HOBBY since 2008(❌Not Sideline/Job) 🤝Uniting Vegetarians & Non-vegetarians over Sumptuous Meatfree Meals!
     location: "Singapore"
-    followers: 13365
-    engagement: 495
-    commentsToLikes: 0.096934
-    id: ck8ta1ffxq3mp0j78afbzyijl
+    followers: 25433
+    engagement: 95
+    commentsToLikes: 0.032048
+    id: clmumxhxglbn90j084cbiv1iq
     verified: false
-    hashtags: "#sgfoodunion, #sgfooddiary, #foodheaven, #foodie"
+    hashtags: "#durianlovers, #pragency, #01, #bestmsw"
 ---

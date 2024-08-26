@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Chile In 2023
+title: Top 10 Cinema Instagram Influencers In Chile In 2024
 description: >-
-  Find top cinema Instagram influencers in Chile in 2023. Most popular hashtags: #photography #fashion #chile #nature.
+  Find top cinema Instagram influencers in Chile in 2024. Most popular hashtags: #photography #art #fashion #guadalajara.
 platform: Instagram
-hits: 27
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 27 Instagram influencers like this in Chile for you to contact.
+hits: 29
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 29 Instagram influencers like this in Chile for you to contact.
 profiles:
   - username: "arizonatear.s"
     fullname: >-
@@ -55,30 +55,30 @@ profiles:
     id: ck0w2nuz1pbb90i19w3xmw3k9
     verified: false
     hashtags: ""
-  - username: "spacefilmer"
+  - username: "felipe_eme"
     fullname: >-
-      ⲊⲢⲆⲤⲈ⳨ⲒⳐⲘⲈⲄ ©️ | 👽
+      Felipe Medina
     bio: >-
-      🌎 Producción cinematográfica 🪐 Fotografía & Arte 📬 Contáctanos
+      Designer from the south of the planet. Working at @microsoft.design You can say hello at hellomedinatv@gmail.com Or www.behance.net/efemedina
     location: "Chile"
-    followers: 10694
-    engagement: 131
-    commentsToLikes: 0.038926
-    id: ck6uc7bkcdxtz0j7148zhcwfk
+    followers: 12516
+    engagement: 371
+    commentsToLikes: 0.035840
+    id: ck6u52y977aff0j714v2xg4qq
     verified: false
-    hashtags: "#visualoflife, #nuevaconstitucion, #highligtscl, #comparte"
+    hashtags: "#redshift3d, #render3d, #c4d, #render"
   - username: "luismente"
     fullname: >-
       LuisMente
     bio: >-
-      Haz inmortales tus mejores momentos 📸 ⚜ 🌎 🇬 🇩 🇱 | 🇲 🇽 📍 🇲🇽
+      Fotógrafo Mexicano de Retrato y Eventos en Guadalajara, México. 📸 ⚜ 🌎 🇬 🇩 🇱 | 🇲 🇽 📍 🇲🇽
     location: "Chile"
-    followers: 5922
-    engagement: 563
-    commentsToLikes: 0.148657
+    followers: 6064
+    engagement: 565
+    commentsToLikes: 0.157416
     id: ck55marob3kai0i110i1tuiqe
     verified: false
-    hashtags: "#gdl, #lence, #chones, #guadalajara"
+    hashtags: "#tapatia, #guadalajara, #portrait, #fotografia"
   - username: "six.killa"
     fullname: >-
       Vlad
@@ -115,16 +115,16 @@ profiles:
     id: ck0w0dsr4dopt0i19xdqqibgn
     verified: true
     hashtags: "#cine, #sun, #photography, #sunglasses"
-  - username: "nicolasamarophoto"
+  - username: "carowiza"
     fullname: >-
-      Nicolas Amaro
+      🌸Ｃａｒｏｗｉｚａ🌸
     bio: >-
-      Foto Documental de Matrimonios 🏓 nicolasamarophoto@gmail.com
+      🇨🇱Chilenita 📍UNICA CUENTA 💮 Cosplayer & Cosmaker @carowizacosplay 🎮 Gamer 🖱Streamer Ocasional ✨️ 💌 carowiza.carowis@gmail.com Redes
     location: "Chile"
-    followers: 7002
-    engagement: 123
-    commentsToLikes: 0.040251
-    id: ck0w76k0qc0dr0i19b4210oxv
+    followers: 15166
+    engagement: 266
+    commentsToLikes: 0.025998
+    id: ckaovu41c66bx0i78ifq3swts
     verified: false
-    hashtags: "#weddingflowers, #weddingfun, #weddingphoto, #instagood"
+    hashtags: "#auroracollection, #movistar, #cosmaker, #makeup"
 ---

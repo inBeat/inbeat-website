@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Thailand In 2023
+title: Top 10 Cooking TikTok Influencers In Thailand In 2024
 description: >-
-  Find top cooking TikTok influencers in Thailand in 2023. Most popular hashtags: #cooking #fyp #asmr #food.
+  Find top cooking TikTok influencers in Thailand in 2024. Most popular hashtags: #cooking #asmr #fyp #food.
 platform: TikTok
 hits: 13
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our platform holds 13 TikTok influencers like this in Thailand for you to collaborate.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 13 TikTok influencers like this in Thailand for you to pitch.
 profiles:
   - username: "panofnunoo"
     fullname: >-

@@ -1,24 +1,36 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Los Angeles In 2023
+title: Top 10 Bloggers Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top bloggers Instagram influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #blogger #reels #travel.
+  Find top bloggers Instagram influencers in Los Angeles in 2024. Most popular hashtags: #blogger #losangeles #fashionblogger #travel.
 platform: Instagram
-hits: 195
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 195 Instagram influencers like this in Los Angeles, United States for you to work with.
+hits: 221
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 221 Instagram influencers like this in Los Angeles, United States for you to work with.
 profiles:
-  - username: "prettylittlefawn"
+  - username: "natalieanastasia"
     fullname: >-
-      Courtney Halverson
+      Natalie Anastasia
     bio: >-
-      Actress + Blogger Los Angeles courtney@prettylittlefawn.com
+      Talent Manager @gleamfutures Retired travel blogger Los Angeles, CA
     location: "United States"
-    followers: 283348
-    engagement: 170
-    commentsToLikes: 0.012328
-    id: ck0ttlrii39nx0i19htkv6vf1
-    verified: true
-    hashtags: "#style, #cottagecore, #beigeaesthetic, #sezane"
+    followers: 32693
+    engagement: 340
+    commentsToLikes: 0.069158
+    id: ck0w0fo4vdyhd0i19xlanv1tb
+    verified: false
+    hashtags: "#ad, #mondaymood, #tilt, #getsmart"
+  - username: "hauteinstinct"
+    fullname: >-
+      Maria De La Cruz
+    bio: >-
+      SHOP @hauteandrebellious | BLOG @hauteinstinct Fashion •Lifestyle •Beauty 💌: maria@hauteinstinct.com https://www.youtube.com/c/MariaDeLaCruz.
+    location: "United States"
+    followers: 17600
+    engagement: 662
+    commentsToLikes: 0.011689
+    id: ck55ol42k8kk40i1158tr5dfa
+    verified: false
+    hashtags: "#moda, #fashionist, #streetfashion, #mystyle"
   - username: "patrikcvetko"
     fullname: >-
       Patrik Cvetko
@@ -31,30 +43,42 @@ profiles:
     id: ck5c8rbs0a2tq0i11es94k155
     verified: false
     hashtags: "#style, #newyork, #london, #portraitphotography"
-  - username: "deavanclegg"
+  - username: "veganandadorable"
     fullname: >-
-      Deavan Clegg | Reality Tv
+      VEGAN AND ADORABLE Ⓥ
     bio: >-
-      TV Personality 90 day Fiance TOW 1-2 Model Youtube - FamilyVanny Business inquires- deavan.clegg@viralnationtalent.com
+      👩🏾‍🍳 @keyara_nickole 🐮 i am vegan & adorable ♻️ sustainable living, progress not perfect 🌴 based in LA 🏳️‍🌈 she/they 🖤 ALL black lives matter
     location: "United States"
-    followers: 505954
-    engagement: 181
-    commentsToLikes: 0.022101
-    id: ck5zyjn0la0fj0i14cq4ihktj
-    verified: true
-    hashtags: "#tattoogirl, #dadanddaughter, #90dayfiance, #utah"
-  - username: "mzjojotran"
-    fullname: >-
-      Jocelyne Tran | travel • life
-    bio: >-
-      📍 Currently in: Orange County, CA 🇺🇸 🔜 Next Destination: TBD ⠀⠀⠀⠀⠀⠀⠀⠀ ⇩ Watch my travel vlog to Vietnam!
-    location: "United States"
-    followers: 7297
-    engagement: 719
-    commentsToLikes: 0.125577
-    id: ck6toab5xczbj0j71a32u9ijk
+    followers: 23946
+    engagement: 316
+    commentsToLikes: 0.025077
+    id: ck14i77xzdzmg0i19sjel97g7
     verified: false
-    hashtags: "#travelthrowback, #darlingescapes, #blogger, #contentcreator"
+    hashtags: "#plantlife, #plants, #plantsofinstagram, #explore"
+  - username: "eazynazy"
+    fullname: >-
+      Naz & Ghouse Mohammed
+    bio: >-
+      📍Los Angeles ❥ A page for Family Friendly Places around the World ❥ ft:🏆Top 25 Travel Bloggers in Los Angeles ❥ 📸 & 📝 by Naz🧕🏻
+    location: "United States"
+    followers: 98567
+    engagement: 83
+    commentsToLikes: 0.076753
+    id: ckap5mrzpcd520i78irm4x0jo
+    verified: false
+    hashtags: "#anaheim, #losangeles, #california, #holidaydecor"
+  - username: "nehaltenany"
+    fullname: >-
+      Nehal Tenany
+    bio: >-
+      lifestyle l travel l fire recs 🔥 🎙 host @thatdesispark podcast: sparking South Asian conversations & igniting the world⚡️ 💌 nehal.tenany@gmail.com
+    location: "United States"
+    followers: 12507
+    engagement: 845
+    commentsToLikes: 0.021385
+    id: ck5zih6f1fp060i14t0tos3b1
+    verified: false
+    hashtags: "#fashionoutfit, #bigapple, #sisters, #blogger"
   - username: "miamifoodstop"
     fullname: >-
       Melissa|Food Blogger
@@ -67,64 +91,40 @@ profiles:
     id: ck0vyhits40zf0i19m9ozty23
     verified: false
     hashtags: "#miamifoodstop, #miamifoodie, #miamifood, #foodblogfeed"
-  - username: "sommer.n.august"
+  - username: "patnaikpriyanka"
     fullname: >-
-      Sommer ☀︎ SoCal Mom
+      Priyanka Patnaik
     bio: >-
-      Sarcastic, workaholic mom navigating thru life one tea latte at a time... 👧🏽🐶🐶🐱🐱🐱🐦🐦 ➝ (the fam) Pet Life @squeakytoyaddiction Liam & Co. Ambassador
+      Everyday Ootd Reels💋 Makeup enthusiast💄 Skincare /beauty and Lifestyle ❤ 🇮🇳↔️🇺🇸
     location: "United States"
-    followers: 52419
-    engagement: 156
-    commentsToLikes: 0.169517
-    id: ck0ud0h09i0ty0i1912mkn62v
+    followers: 4712
+    engagement: 413
+    commentsToLikes: 0.136334
+    id: ck15t2ytng3510i19jkc82a1x
     verified: false
-    hashtags: "#fridaymood, #dogloversclub, #reelsinstagram, #dancingmom"
-  - username: "bohobeachbungalow"
+    hashtags: "#labloggers, #instafollowme, #browngirlmakeup, #discoverunder5k"
+  - username: "celeste_wright"
     fullname: >-
-      Megan Martinez
+      Celeste Wright
     bio: >-
-      interior stylist | blogger | social media | los angeles | #bohobeachbungalow ecomm @shoppeamberinteriors
+      I'm Celeste. Wife to Jake. Mama to Lila. Blogger + Content Creator • Los Angeles, California🌴 ✉️ celeste@gb-dm.com
     location: "United States"
-    followers: 25445
-    engagement: 162
-    commentsToLikes: 0.030855
-    id: ck0tyqezlns3y0i19jo5fx9mb
+    followers: 94988
+    engagement: 154
+    commentsToLikes: 0.056109
+    id: cksdcrkalmywq0j23wg921vz2
     verified: false
-    hashtags: "#cakebreadcellars, #cakebreadwine, #ad, #farmersmarketinspo"
-  - username: "simplytandya"
+    hashtags: "#cricut, #sponsored, #ad, #cricutprojects"
+  - username: "beaucoeur"
     fullname: >-
-      Tandya
+      Ben • Mason • Mama
     bio: >-
-      Hendrix #Mama #losangeles #blogger | #Fashion #Art #Design • www.simplytandya.com • simplytandya@gmail.com
+      • #Lifestyle | #Fashion | #Motherhood | #Blogger • Santa Barbara | Los Angeles • DM to collab • ACCOUNT RAN by Mom: @irene_the_explorer_
     location: "United States"
-    followers: 70316
-    engagement: 77
-    commentsToLikes: 0.025930
-    id: ck5c84rso8rqb0i11s255ood2
+    followers: 14116
+    engagement: 97
+    commentsToLikes: 0.088350
+    id: ck6tnia6a9wd10j71oqdwpnxp
     verified: false
-    hashtags: "#liketkit, #ltkbump, #ad, #ltkstyletip"
-  - username: "brookeprettyass"
-    fullname: >-
-      Brooke by the book.
-    bio: >-
-      God’s child. 😇 FAITH over fear. I’m glad you’re here 👽 Owner: @brookscarecollection < DM 4 products Bartender/Mixologist 🍾🍸🥃🍹 ￼￼￼serious inquires📥📧🔌
-    location: "United States"
-    followers: 7664
-    engagement: 206
-    commentsToLikes: 0.073815
-    id: ck55mv25x4vsh0i11qyowlxob
-    verified: false
-    hashtags: "#fitnessmotivation, #selfie, #diyvideos, #luxurylifestyle"
-  - username: "monicaplus_2"
-    fullname: >-
-      Monica | SoCal Blogger
-    bio: >-
-      Sharing Travel, Family Adventures, SoCal Events, & Local Eats! Helping You Find Fun All Year Round, Local & Far. Check out my Blog!👇🏼
-    location: "United States"
-    followers: 22498
-    engagement: 319
-    commentsToLikes: 0.151233
-    id: ckpnwfovm420q0j23n35qjp97
-    verified: false
-    hashtags: "#travelwithkids, #socalmoms, #ocmoms, #ad"
+    hashtags: "#vacation, #aestheticedits, #fashionstyle, #haul"
 ---

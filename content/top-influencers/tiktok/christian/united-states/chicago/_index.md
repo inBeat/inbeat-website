@@ -1,10 +1,10 @@
 ---
-title: Top 10 Christian TikTok Influencers In Chicago In 2023
+title: Top 10 Christian TikTok Influencers In Chicago In 2024
 description: >-
-  Find top christian TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #foryou #christian #foryoupage.
+  Find top christian TikTok influencers in Chicago in 2024. Most popular hashtags: #fyp #foryou #christian #foryoupage.
 platform: TikTok
 hits: 30
-text_top: Discover the most popular TikTok accounts on inBeat.
+text_top: See the most popular TikTok influencers on inBeat.
 text_bottom: Our search engine holds 30 TikTok influencers like this in Chicago, United States for you to pitch.
 profiles:
   - username: "papercranecinemaco"
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.113267
     id: ck9e3tvkcl3lb0j784jlpdm9v
     verified: false
-    hashtags: "#veganfoodie, #trending, #phlebotomist, #duet"
+    hashtags: "#trending, #fyp, #duet, #veganfoodie"
   - username: "chicagocreature"
     fullname: >-
       Chicago Creature
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.089748
     id: ck8p11goyjc500j78vodrez36
     verified: false
-    hashtags: "#growth, #igniteamerica, #evangelist, #motivation"
+    hashtags: "#streetpreacher, #downtown, #evangelism, #holyspirit"
 ---

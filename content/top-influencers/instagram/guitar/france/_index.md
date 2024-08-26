@@ -1,12 +1,36 @@
 ---
-title: Top 10 Guitar Instagram Influencers In France In 2023
+title: Top 10 Guitar Instagram Influencers In France In 2024
 description: >-
-  Find top guitar Instagram influencers in France in 2023. Most popular hashtags: #guitar #makeup #guitarist.
+  Find top guitar Instagram influencers in France in 2024. Most popular hashtags: #guitar #guitarist #makeup.
 platform: Instagram
-hits: 176
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 176 Instagram influencers like this in France for you to connect with.
+hits: 181
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 181 Instagram influencers like this in France for you to collaborate.
 profiles:
+  - username: "pierre.danel"
+    fullname: >-
+      Pierre Danel
+    bio: >-
+      Guitarist and Composer: Novelists/Kadinja/Sal3m/Unravl Guitar Artist: Vola Guitars/Elixir Strings/Bareknuckle Pickups Session Guitarist Sound Engineer
+    location: "France"
+    followers: 59888
+    engagement: 846
+    commentsToLikes: 0.031719
+    id: ck13d5lq83s940i19rsa3eg8h
+    verified: false
+    hashtags: "#guitarshred, #bareknucklepickups, #lickwars, #acoustasonic"
+  - username: "sr.guitar"
+    fullname: >-
+      Sascha Rebbe
+    bio: >-
+      🇩🇪 Inspiring Guitar Videos & Gear Demos 🎸 ⬇️Check out my online courses & more⬇️
+    location: "France"
+    followers: 308264
+    engagement: 112
+    commentsToLikes: 0.033320
+    id: ck5q94gcq9ch50i112ph4xb0y
+    verified: false
+    hashtags: "#guitarist, #beetronics, #lavame4, #guitar"
   - username: "nickhipa"
     fullname: >-
       Nick Hipa
@@ -55,18 +79,6 @@ profiles:
     id: ck0vytky75pie0i19sgug6b13
     verified: true
     hashtags: "#leicam6, #ilforddelta3200, #printoftheweek, #firstoftheroll"
-  - username: "whilewild"
-    fullname: >-
-      WhileWild
-    bio: >-
-      🔸Music and video producer 🎙🎬 🔹I do all my songs & videos by myself 🔸Pianist/Guitarist/Singer-Songwriter 🔹 Latest song ⤵ ➡ FLY AWAY out now!
-    location: "France"
-    followers: 36212
-    engagement: 199
-    commentsToLikes: 0.035400
-    id: ck601hth4fimg0i14lynjxqfr
-    verified: false
-    hashtags: "#hawaiilife, #geneve, #colombia, #france"
   - username: "binguy_qlv"
     fullname: >-
       Binguy
@@ -115,16 +127,4 @@ profiles:
     id: ck55p5azx9uc20i112c7c3siv
     verified: false
     hashtags: "#daddarioautolock, #solotulesais, #lagrangesolo"
-  - username: "emanuelhedberg"
-    fullname: >-
-      Emanuel Hedberg
-    bio: >-
-      ◾️ Official @lslinstruments artist ◾️ Tabs & Guitar Lessons At Patreon ⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀👇
-    location: "France"
-    followers: 316220
-    engagement: 272
-    commentsToLikes: 0.016383
-    id: ck14jcuw1jpa00i19x1gcx7bc
-    verified: false
-    hashtags: "#lickwars, #gitarre, #guitarsdaily, #jazzblues"
 ---

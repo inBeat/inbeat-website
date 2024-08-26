@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Poland In 2023
+title: Top 10 Makeup Instagram Influencers In Poland In 2024
 description: >-
-  Find top makeup Instagram influencers in Poland in 2023. Most popular hashtags: #makeuplook #makeupinspiration #makija #makeupideas.
+  Find top makeup Instagram influencers in Poland in 2024. Most popular hashtags: #makeup #wsp #makija #nailsinspiration.
 platform: Instagram
-hits: 1550
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 1550 Instagram influencers like this in Poland for you to connect with.
+hits: 1625
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 1625 Instagram influencers like this in Poland for you to connect with.
 profiles:
-  - username: "e_piatkowska"
+  - username: "pranksterka"
     fullname: >-
-      Eliza Piątkowska
+      Justyna Miarecka-Radzik | Makijaż & Porady kosmetyczne
     bio: >-
-      Weird girl with bunch of wigs some makeup skills and sick mind 🤷🏼‍♀️👸🏼 🏡Poland 📥contact through DM or elizapiatkowska@gmail.com
+      👉🏼Nauczę Cię jak się dobrze malować! 💄Makijażystka z doświadczeniem 📩kontakt: pranksterka.makeup@gmail.com
     location: "Poland"
-    followers: 13382
-    engagement: 977
-    commentsToLikes: 0.120583
-    id: ck9wf014umnsn0j78hrowf45r
+    followers: 65004
+    engagement: 609
+    commentsToLikes: 0.094262
+    id: ck14ij56kfo2l0i196iatum57
     verified: false
-    hashtags: "#makeupinspo, #fakefreckles, #nyxcosmetics, #wig"
-  - username: "klaudia_cukierpuder"
+    hashtags: "#makeuptutorial, #anastasiabeverlyhills, #skincareroutine, #beautyvideos"
+  - username: "weronika.jagus"
     fullname: >-
-      Klaudia Łańcucka
+      Weronika Jaguś
     bio: >-
-      💄 Makeup Artist & Beauty Blogger from Poland 🇵🇱 🎬 YouTube - KlaudiaCukierPuder 🔥 Kontakt: wspolpraca@klaudiacukierpuder.pl 👇🏻Bądź pierwszy👇🏻
+      ✉️ wjagus.contact@gmail.com 🏆 makeup innovator 2022 🏆 beauty expert 2021 🏆 influencerka roku 2020
     location: "Poland"
-    followers: 80544
-    engagement: 503
-    commentsToLikes: 0.024974
-    id: ck0udksxmje6g0i19nktkpvoc
+    followers: 170643
+    engagement: 800
+    commentsToLikes: 0.019211
+    id: ck5bvzj05kpef0i11hdqqnimu
     verified: false
-    hashtags: "#ootd, #springvibes, #makeuplover, #nowo"
-  - username: "noemisparkle"
+    hashtags: "#travelgirls, #europe, #summer2021, #maybelline"
+  - username: "o_czarnecka"
     fullname: >-
-      Noemi Makeup
+      Aleksandra Czarnecka
     bio: >-
-      Makeup | Hair | Beauty tips 👸🏼Włosy falowane 🥬Hashimoto, PCOS, IO girl 💪🏼 🎨My Art: @noemidraw Tag me: #noemiinspo Bussiness: noemisparkle@gmail.com
+      | MAKEUP | BEAUTY | LIFESTYLE | 📩 Collab: o.czarnecka.yt@gmail.com 🎶 TikTok: o_czarnecka
     location: "Poland"
-    followers: 67701
-    engagement: 802
-    commentsToLikes: 0.020220
-    id: ck5zjnmt4hwzg0i14qcg9o19r
+    followers: 56686
+    engagement: 879
+    commentsToLikes: 0.018980
+    id: ck8t70ghsf8u80j78dgdq0npw
     verified: false
-    hashtags: "#underratedmuas, #makeuptutorial, #muasfeaturing, #miyo"
-  - username: "kiciamua"
+    hashtags: "#morphexjamescharles, #nyxcosmeticspl, #makegirlz, #revolutionpro"
+  - username: "studio_pieknaa"
     fullname: >-
-      MAKEUP • TUTORIALS • GIVEAWAYS
+      Paula Zaprasza! :)
     bio: >-
-      ✨ KLAUDIA MAZUR ✨ RADOM Use my hashtag #inspiredbykiciamua 📩 klaudiakicior@icloud.com #makeup #kiciamua #makeuptutorial
+      Beauty Blogger ♥ Makeup | Beauty | Lifestyle COLLAB/PR: studio_pieknaa@wp.pl or DM 📥 Zakaz kopiowania zdjęć !
     location: "Poland"
-    followers: 5658
-    engagement: 988
-    commentsToLikes: 0.115345
-    id: ck8t51wll8k4s0j78zqf7upic
+    followers: 28730
+    engagement: 559
+    commentsToLikes: 0.029404
+    id: ck8t83f65iyq40j78y0dnm7d2
     verified: false
-    hashtags: "#mua, #makeuptutorial, #muasfeaturing, #makeupinspiration"
-  - username: "aune100"
+    hashtags: "#polecam, #nowosci, #pielegnacjatwarzy, #rozdanie"
+  - username: "xjuuli_lifestyle"
     fullname: >-
-      Redhead Witch with 3 Cats.
+      Julita 👋🏼
     bio: >-
-      24lvl Poland 🇵🇱 DM for Collab🖤🧡💚 . . . Crazy #Cat Lady 🐱🐈🐯 Nature 🌱🌷🌲 Moon Child 🌛 Ex #goth 👻💀👿 #Makeup 💅💋💄 Poetry, books, art Engaged 💍
+      🎂 10.02 🇵🇱 Kujawy Shein code : xjuu Micas code: JZW12 ▪️Współpraca/Cooperation Email - xjuuli1290@gmail.com lub dm 📥 #fashion #lifestyle #makeup
     location: "Poland"
-    followers: 13858
-    engagement: 1089
-    commentsToLikes: 0.117729
-    id: ck14ktwweraw60i1959l1zyag
+    followers: 10427
+    engagement: 460
+    commentsToLikes: 0.077472
+    id: ckap6j6gbg2ae0i78htbwp6q1
     verified: false
-    hashtags: "#redhair, #rockgirl, #gothjewelry, #altgirl"
-  - username: "viqsv_"
+    hashtags: "#sheincode, #ad, #paznokciehybrydowe, #krup"
+  - username: "patyna_makeup"
     fullname: >-
-      Wiktoria Biernacka💄MAKEUP
+      KAMILA PATYNA 🎨 an Artist and Worldwide Makeup Instructor
     bio: >-
-      💄makeup lover ✨TikTok: viqsv_ [5,7k] 🇵🇱 20🎂 📥 collab&pr: DM/📩 wiktoria-biernacka@o2.pl
+      self taught MUA based in Radom, Poland 🇵🇱 22.01.24 🇺🇸 CHICAGO •color addict 🎨 •make up magician 🪄 •Group and Individual makeup classes👩🏻‍🏫ONLINE ⬇️
     location: "Poland"
-    followers: 15307
-    engagement: 1152
-    commentsToLikes: 0.257622
-    id: ck5zo0qw2piu20i14tr81zkmb
+    followers: 143010
+    engagement: 1444
+    commentsToLikes: 0.029593
+    id: ck0vyrh295fnz0i19icsxg25r
     verified: false
-    hashtags: "#muapl, #colorfulmakeup, #makeuplook, #eyemakeup"
-  - username: "jewska.makeup"
+    hashtags: "#makeuptrend, #kamilapatyna, #colorfulmakeup, #kamilapatynamakeup"
+  - username: "agabil1"
     fullname: >-
-      Jewska Makeup
+      Agnieszka Bil
     bio: >-
-      🎨Self-taught makeup artist in progress 📩 jewska.makeup@gmail.com 🇵🇱 Wrocław, Poland
+      blogger photographer lifestyle stylist florist makeupartist Collab ➡️ mail 📩 or direct 📥 My dogs 🐶 @kudly_forever agabj1@gmail.com
     location: "Poland"
-    followers: 3736
-    engagement: 1148
-    commentsToLikes: 0.125348
-    id: ck5qdwruaxnx10i113sbecb9m
+    followers: 20741
+    engagement: 614
+    commentsToLikes: 0.022179
+    id: ck13bc9tvuqi40i19fttlmsiw
     verified: false
-    hashtags: "#bperfect, #makeupobsessionpolska, #bperfectcarnivalpalette, #undertheradar"
-  - username: "wielzi"
+    hashtags: "#bag, #dryskin, #fashionstyles2me, #zakupyonline"
+  - username: "amunadavis"
     fullname: >-
-      Oktawia • MUA • beauty
+      𝐀𝐦𝐮𝐧𝐚 𝐃𝐚𝐯𝐢𝐬
     bio: >-
-      a girl who breaks makeup rules 📩 PR/Contact: pr.wielzi@gmail.com #makeupartist
+      ⚜️ Be The Part Of #AmunaSquad❤️‍🔥 ⚜️ Matu Klientiem - @anuma.hair ⚜️ Draq Queen 💅 ⚜️ Multi-Artist 🏳️‍🌈 ⚜️ 🌍✈️🌏 ⚜#makeup #dragqueen #lgbt #travel #art
     location: "Poland"
-    followers: 18485
-    engagement: 1401
-    commentsToLikes: 0.092187
-    id: ck5hhe13t7qpr0i11v5n8o27k
+    followers: 19193
+    engagement: 590
+    commentsToLikes: 0.070260
+    id: ck6tjj87k2tq40j710ny1m7lk
     verified: false
-    hashtags: "#igmakeup, #colourpop, #indiebrand, #browsonpoint"
-  - username: "nnaklicka_makeup"
+    hashtags: "#recapvideo, #pressplay, #proud, #newyear"
+  - username: "miish.beauty"
     fullname: >-
-      𝓝𝓪𝓽𝓪𝓵𝓲𝓪 𝓝𝓪𝓴𝓵𝓲𝓬𝓴𝓪 𝓜𝓪𝓴𝓮𝓾𝓹
+      Dominika Jędras💄Makeup | Tutorials| Content Creator💄
     bio: >-
-      𝒦𝒾𝓃𝒹𝒶 𝒸𝓁𝒶𝓈𝓈𝓎 𝓀𝒾𝓃𝒹𝒶 𝒽𝑜𝑜𝒹 🤍 SZKOLENIA INDYWIDUALNE 🤍 Rzeszów|PL 🤍 wykładowca @artystycznaalternatywa 🤍 team @ladymakeup_pl nnaklicka.makeupp@wp.pl
+      Makeup 💄 Beauty 💄 Tutorials Professional Makeup Artist. Content Creator from Poland.
     location: "Poland"
-    followers: 13352
-    engagement: 1084
-    commentsToLikes: 0.071236
-    id: ck8tbf9fmvf9n0j7816b172dq
+    followers: 13021
+    engagement: 422
+    commentsToLikes: 0.166999
+    id: ck14ji76mkh520i199ms0ec8h
     verified: false
-    hashtags: "#flawlessmakeup, #wizaz, #creativemakeup, #szkoleniemakija"
+    hashtags: "#makeupreels, #eyemakeuptutorial, #makeuppolska, #polishmakeup"
   - username: "aanaabeyy"
     fullname: >-
       Iza Michalik
     bio: >-
-      𝘊𝘰𝘭𝘭𝘢𝘣 👉🏼 𝘢𝘢𝘯𝘢𝘢𝘣𝘦𝘺𝘺@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮 𝘡𝘢𝘱𝘪𝘴𝘺 𝘯𝘢 𝘮𝘢𝘬𝘪𝘫𝘢𝘻 👉🏼 @aanaabeyy.makeup KRAKÓW WIELICZKA #inspoaanaabeyy ✨
+      ✉️ 𝘢𝘢𝘯𝘢𝘢𝘣𝘦𝘺𝘺@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮 💄 @aanaabeyy.makeup KRAKÓW WIELICZKA
     location: "Poland"
-    followers: 39881
-    engagement: 1333
-    commentsToLikes: 0.082503
+    followers: 33932
+    engagement: 706
+    commentsToLikes: 0.018572
     id: ck15pra41z9g50i197tnpuuwr
     verified: false
-    hashtags: "#cosmetics, #makeupinspiration, #makeupartist, #makeuplover"
+    hashtags: "#nails, #prague, #zanzibar, #zanzibarisland"
 ---

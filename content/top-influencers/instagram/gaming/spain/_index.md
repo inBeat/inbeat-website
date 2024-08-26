@@ -1,12 +1,48 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Spain In 2023
+title: Top 10 Gaming Instagram Influencers In Spain In 2024
 description: >-
-  Find top gaming Instagram influencers in Spain in 2023. Most popular hashtags: #gaming #gamer #instagamerspain #videogames.
+  Find top gaming Instagram influencers in Spain in 2024. Most popular hashtags: #gamer #gaming #gamingsetup #playstation5.
 platform: Instagram
-hits: 42
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 42 Instagram influencers like this in Spain for you to connect with.
+hits: 51
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 51 Instagram influencers like this in Spain for you to work with.
 profiles:
+  - username: "alessaberry"
+    fullname: >-
+      Alessa Berry
+    bio: >-
+      Not your average Makeup Artist 💕 Conviértete en una fresita 🍓 Tutoriales | Lifestyle | Anime | Gaming
+    location: "Spain"
+    followers: 34972
+    engagement: 401
+    commentsToLikes: 0.043134
+    id: ck55join6xfog0i112jllj7m8
+    verified: false
+    hashtags: "#pinkhair, #hotgirlsummer, #malaga, #fantasy"
+  - username: "viennemarly"
+    fullname: >-
+      𝙑𝙞𝙚𝙣𝙣𝙚 𝙈𝙖𝙧𝙡𝙮
+    bio: >-
+      🌻 Mom & wife 🤎 TikTok: viennemarly (114K) 🍋 Fitness & nutrition coach 🌿 Gaming, fitness & spirituality
+    location: "Spain"
+    followers: 71569
+    engagement: 352
+    commentsToLikes: 0.014675
+    id: ck55lo2ft21410i11azonggdo
+    verified: false
+    hashtags: "#ps5, #hogwartslegacy, #gaming, #gamer"
+  - username: "ghattaxtasis"
+    fullname: >-
+      GHATTA
+    bio: >-
+      🎮Twitch Partner 25k 🎶#TikTok 850k// Fb 130k💙 📍#Barcelona / #Costabrava #moda #fashion #gaming
+    location: "Spain"
+    followers: 111289
+    engagement: 270
+    commentsToLikes: 0.021533
+    id: ck13bvg4vxbvf0i19ppvdabj0
+    verified: false
+    hashtags: "#outfitoftheday, #fashion, #modeling, #hairstyle"
   - username: "charlynighter"
     fullname: >-
       Charly
@@ -43,88 +79,52 @@ profiles:
     id: ck5zzn7b5c1z10i14f18k27vr
     verified: false
     hashtags: "#venom, #fanartdrawing, #xmen, #xmenfanart"
-  - username: "redbullesp"
+  - username: "frakergame"
     fullname: >-
-      Red Bull España
+      Marc Sanfiz
     bio: >-
-      Instagram Oficial de Red Bull España. Encontrarás deporte, música, gaming y adrenalina porque somos la única bebida energética que #TeDaAlas. 👐🏻
+      👾 Ps5 / Switch / Xbox Series 👾 PR: frakergame@gmail.com 👾 🇪🇸🇬🇧🇺🇸
     location: "Spain"
-    followers: 235673
-    engagement: 210
-    commentsToLikes: 0.006679
-    id: ck0tvbunhaqv50i19tqzstbbn
-    verified: true
-    hashtags: "#hiphop, #tedaalas, #gaming, #freestyle"
-  - username: "natipls"
-    fullname: >-
-      Natalia Rojas
-    bio: >-
-      Me gusta la pizza •Ingeniería en Computación e Informática 💻 •Streamer @wildesportsla 🐯 •TeamSP @spdigital_chile •📩n.rojasparra01@gmail.com 𝕲𝖔𝖙𝖍
-    location: "Spain"
-    followers: 11087
-    engagement: 1682
-    commentsToLikes: 0.028828
-    id: ckaovux76670h0i78hd4iop32
+    followers: 52069
+    engagement: 139
+    commentsToLikes: 0.041040
+    id: ck13cd9pezscq0i19yew7knrv
     verified: false
-    hashtags: "#bluehair, #gothphotography, #darkgirl, #gothstyle"
-  - username: "antonraider_"
+    hashtags: "#nintendoswitch, #gamingroom, #pokemon, #nintendoswitchlite"
+  - username: "_estrellasolis"
     fullname: >-
-      𝗔𝗻𝘁𝗼𝗻𝗥𝗮𝗶𝗱𝗲𝗿 | Gamer
+      E S T R E L L A  ✨ S O L Í S
     bio: >-
-      🎮 PS5, Switch & PC 🗝 PSN: AntonRaider8 🎯 #gamer & #collector addict 🎥YouTube☞ "AntonRaider" ◂▸•◂▸••◂▸••◂▸••◂▸•◂▸ 💜 do you already watch this?😉👇
+      📍 : Madrid ✨ : Actriz • Presentadora • Streamer 📧 : holaestrellasolis@gmail.com 🔥 : PATRONADELMAL - código tienda Epic|Fortnite 🧿 . 🎬 . 🐶 . 🎮 . ✈️
     location: "Spain"
-    followers: 23203
-    engagement: 731
-    commentsToLikes: 0.044425
-    id: ck5pvb6bqh0x10i11850e3rxo
+    followers: 71200
+    engagement: 117
+    commentsToLikes: 0.019124
+    id: ck5q0j6lh69330i118cku2nq3
     verified: false
-    hashtags: "#instagamerspain, #generaciongamer, #setupgameroom, #gamingsetups"
-  - username: "ayhneky_gamer"
+    hashtags: "#actress, #twitch, #makeup, #photoshoot"
+  - username: "javigeek"
     fullname: >-
-      Nekhy🌙
+      Javi Geek
     bio: >-
-      Yo no cumplo propósitos, desbloqueo logros🏆 👾Nin10dera #nintendo 🤩GamerGirl #playstation #setupgaming ➰PSN: AyhneKy ➿SW: 6192-1782-8808
+      📫 javigeek@hotmail.com 👾 Games & Geek 🎮 Unboxings & Leds ❤️ Tech Lover
     location: "Spain"
-    followers: 3207
-    engagement: 1221
-    commentsToLikes: 0.170839
-    id: ckaows4gpa7bf0i78erhq0zxd
+    followers: 460206
+    engagement: 47
+    commentsToLikes: 0.038407
+    id: ck0w4hht8yldk0i19txxi0xjh
     verified: false
-    hashtags: "#starwarssquadrons, #gaminglife, #gameroom, #geek"
-  - username: "classicgamergurl"
+    hashtags: "#gamingsetups, #gameroomdecor, #pcsetup, #pcsetups"
+  - username: "barrygamer"
     fullname: >-
-      Classic Gamer Gurl
+      Barry ⚡️
     bio: >-
-      I'm just here to express my love for all the great retro games I grew up with, and collect some old favourites!
+      ▪️29 | Spain ▪️Gaming, boardgames, tv shows, anime, figures and plants 🌱 #gamebusters
     location: "Spain"
-    followers: 19965
-    engagement: 453
-    commentsToLikes: 0.040261
-    id: ck139nt9um8kw0i194o204cw2
+    followers: 8767
+    engagement: 21
+    commentsToLikes: 0.005426
+    id: ck6tkzw0z5pyf0j71916opalh
     verified: false
-    hashtags: "#gaming, #nintendoswitch, #pokemon, #gamergirl"
-  - username: "vanetsan"
-    fullname: >-
-      👾🧞VanetSan🧟👾
-    bio: >-
-      🎨Makeup artist🎨 ❇️Fashion designer ❇️ 👾Twitch Affiliate👾 🥰Para colaboraciones, escríbeme a mi email 🥰 💚 contactovanetsan@gmail.com 💚
-    location: "Spain"
-    followers: 8254
-    engagement: 817
-    commentsToLikes: 0.014291
-    id: ck9weh4zmk8ta0j78xtj8c64u
-    verified: false
-    hashtags: "#gaming, #streaming, #happy, #streamer"
-  - username: "gamermistica"
-    fullname: >-
-      GamerMistica
-    bio: >-
-      Pc | Ps4 | Xbox One S | Switch | #cosasdegamer
-    location: "Spain"
-    followers: 2222
-    engagement: 1544
-    commentsToLikes: 0.145063
-    id: ck5pvb1ukh0830i117vifgog3
-    verified: false
-    hashtags: "#gamer, #playstationsgamer, #ps4gamers, #dualshock4"
+    hashtags: "#gamenight, #gamer, #gon, #naruto"
 ---

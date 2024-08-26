@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In San Francisco In 2023
+title: Top 10 Vegan TikTok Influencers In San Francisco In 2024
 description: >-
-  Find top vegan TikTok influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #vegan #fyp #foodie.
+  Find top vegan TikTok influencers in San Francisco in 2024. Most popular hashtags: #sanfrancisco #vegan #fyp #foodie.
 platform: TikTok
 hits: 10
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 10 TikTok influencers like this in San Francisco, United States for you to pitch.
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our database has 10 TikTok influencers like this in San Francisco, United States for you to connect with.
 profiles:
   - username: "mario0o0o0o0o0o"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.031815
     id: ckd6evi5r6jvm0j230rrgy6m3
     verified: false
-    hashtags: "#sanfrancisco, #quickrecipe, #noodles, #foodinfluencer"
+    hashtags: "#howto, #instaworthy, #lasvegas, #easyrecipe"
   - username: "airamsveganvida"
     fullname: >-
       Airam
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.025457
     id: cka6f8nk2epdd0i78ymsbp7et
     verified: false
-    hashtags: "#vegan, #veganfoodtiktok, #vegantiktok, #veganfood"
+    hashtags: "#vegantiktok, #veganfoodtiktok, #veganfood, #vegan"
   - username: "wholeecow"
     fullname: >-
       WHOLeeCOW
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.015227
     id: ck8nexkzgpaoq0j781bsvtyqa
     verified: false
-    hashtags: "#yum, #4u, #travel, #helicopter"
+    hashtags: "#helicopter, #yum, #kauai, #airborne"
   - username: "fitchefmike"
     fullname: >-
       Chef Mike
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.037331
     id: ckdt434znspap0j23aiq9boxr
     verified: false
-    hashtags: "#fries, #beef, #meat, #wagyu"
+    hashtags: "#noodle, #food, #cheatmeal, #bayarea"
   - username: "ven.ny"
     fullname: >-
       Venny G

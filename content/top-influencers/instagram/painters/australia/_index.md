@@ -1,12 +1,72 @@
 ---
-title: Top 10 Painters Instagram Influencers In Australia In 2023
+title: Top 10 Painters Instagram Influencers In Australia In 2024
 description: >-
-  Find top painters Instagram influencers in Australia in 2023. Most popular hashtags: #oilpainting #painting #contemporaryart.
+  Find top painters Instagram influencers in Australia in 2024. Most popular hashtags: #malemua #makeupartist #oilpainting.
 platform: Instagram
-hits: 81
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 81 Instagram influencers like this in Australia for you to collaborate.
+hits: 168
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 168 Instagram influencers like this in Australia for you to connect with.
 profiles:
+  - username: "chefbali"
+    fullname: >-
+      Dr-Parvinder Singh Bali
+    bio: >-
+      Cook....cyclist....flutist....author....painter...in that order. Director School for European Pastry and Culinary Arts
+    location: "Australia"
+    followers: 19100
+    engagement: 340
+    commentsToLikes: 0.010939
+    id: ck14iauotehoy0i19tnhdi94y
+    verified: false
+    hashtags: "#gastroart, #cuisine, #chefmode, #chefslife"
+  - username: "colleywhissonartist"
+    fullname: >-
+      Colley Whisson
+    bio: >-
+      Australian Oil Painter - More Info Below
+    location: "Australia"
+    followers: 71432
+    engagement: 482
+    commentsToLikes: 0.014309
+    id: ck0w781gzc85e0i19pn4psjtl
+    verified: false
+    hashtags: "#impressionism, #southafrica, #exhibitionbuilding, #impressionist"
+  - username: "dom.skii"
+    fullname: >-
+      ᴅᴏᴍɪɴɪᴄ
+    bio: >-
+      face painter 🎨 unfiltered beauty content 💥 📍 Sydney, Australia 🇵🇭🇦🇺 Business/PR: shane@onedaydream.com.au 💌
+    location: "Australia"
+    followers: 154792
+    engagement: 148
+    commentsToLikes: 0.026336
+    id: ck0tzjcudqhn80i19nq522mem
+    verified: false
+    hashtags: "#aafw, #makeuptransition, #makeup, #halloween"
+  - username: "irvinejasta"
+    fullname: >-
+      Irvinejasta
+    bio: >-
+      Mom of two|Coffee whore|Bookworm|Custom Painter @pickerstore @bbq_ride @pickerservice.strg @grlsdayout__ Artwork : @paint_and_pleasure
+    location: "Australia"
+    followers: 60336
+    engagement: 100
+    commentsToLikes: 0.040027
+    id: ck14l9y79tl260i195kwjts05
+    verified: false
+    hashtags: "#grlsdayout, #grlsdayoutmotorcyclecollectiveclub, #ducatiscrambler, #royalenfield"
+  - username: "andthatsjacob"
+    fullname: >-
+      JACOB STELLA
+    bio: >-
+      owner @bocajbeauty 🎙️ Unfiltr’d Podcast face painter / educator / content creator ENQ: jacob@bocajbeauty.com
+    location: "Australia"
+    followers: 21912
+    engagement: 46
+    commentsToLikes: 0.952438
+    id: ck14h1vaj84ma0i19uuzzsw4i
+    verified: false
+    hashtags: "#makeupartist, #malemakeup, #makeup, #mensgrooming"
   - username: "timdraxl"
     fullname: >-
       Tim Draxl
@@ -18,7 +78,7 @@ profiles:
     commentsToLikes: 0.015052
     id: ck6uer6m8sm880j71d7o3b9fj
     verified: false
-    hashtags: "#muscle, #naked, #ink, #photoshoot"
+    hashtags: "#beard, #ink, #travel, #sydney"
   - username: "_etellan_"
     fullname: >-
       etellan art
@@ -59,72 +119,12 @@ profiles:
     fullname: >-
       Margaret Heenan Glass
     bio: >-
-      Perth | Western Australia and Margaret River 🇦🇺 BFA. Geometric pattern, abstraction & landscape. Linear & Painterly. 😊
+      Perth | Western Australia 🇦🇺 BFA. Dual aesthetic. Linear & Painterly.
     location: "Australia"
-    followers: 3214
-    engagement: 1325
-    commentsToLikes: 0.176131
+    followers: 3640
+    engagement: 1209
+    commentsToLikes: 0.155551
     id: ckaoz7hmdkpqs0i783ill7nue
     verified: false
-    hashtags: "#inlays, #artglass, #contemporary, #fauna"
-  - username: "celia.gullett"
-    fullname: >-
-      Celia Gullett
-    bio: >-
-      Australian Painter, Represented by Jan Murphy Gallery and Sophie Gannon Gallery
-    location: "Australia"
-    followers: 2521
-    engagement: 1445
-    commentsToLikes: 0.149429
-    id: ck5hp5cdlqs1b0i11y3qg8cpp
-    verified: false
-    hashtags: "#janmurphygallery, #celiagullett, #colourfieldpainting, #geometricabstraction"
-  - username: "itsjanehall"
-    fullname: >-
-      Jane Hall🍾🎭🎨
-    bio: >-
-      Actor. Mum. Sporadic Painter. Champagne drinker. Eschewer of Facebook and Twitter. Absolutely no pics of meals I cook. RGM ARTISTS rgm.com.au
-    location: "Australia"
-    followers: 36203
-    engagement: 574
-    commentsToLikes: 0.026220
-    id: ck13b3q6atit70i19rmxeylf2
-    verified: false
-    hashtags: "#wentworth, #itsinthebag, #sharethedignity"
-  - username: "sallystokespainter"
-    fullname: >-
-      Sally Stokes
-    bio: >-
-      Australian painter.For sales enquiries please contact tony.scotland@live.com.au or enquiries@rochfortgallery.com 0438 700 712
-    location: "Australia"
-    followers: 9691
-    engagement: 670
-    commentsToLikes: 0.034838
-    id: ckaou3dnrym8q0i78gphqrx2w
-    verified: false
-    hashtags: "#interiordesign, #exhibition, #rock, #contemporaryart"
-  - username: "alexlouisa_"
-    fullname: >-
-      Alex Louisa
-    bio: >-
-      Brisbane, AU⁣ Painter of birds + nature + still life. ⁣ See my landscapes at: @alexlouisa_landscapes.⁣ Find originals, prints and classes at:
-    location: "Australia"
-    followers: 79175
-    engagement: 154
-    commentsToLikes: 0.023868
-    id: ck0u1gfydwsj70i19ucy0urkt
-    verified: false
-    hashtags: "#australiannativebirds, #abstractart, #acrylicpainting, #limitededitionprint"
-  - username: "robert_malherbe"
-    fullname: >-
-      Robert Malherbe
-    bio: >-
-      Australian contemporary figurative painter. Represented by Jan Murphy Brisbane, James Makin Melbourne,Michael Reid Sydney, BDDW NYC.
-    location: "Australia"
-    followers: 10379
-    engagement: 530
-    commentsToLikes: 0.038230
-    id: ckaorgm18n4kr0i788lrxu903
-    verified: false
-    hashtags: "#figurativepainting, #woman, #oilpainting, #contemporarypainting"
+    hashtags: "#wip, #fusingglass, #slumpedglass, #margaret"
 ---

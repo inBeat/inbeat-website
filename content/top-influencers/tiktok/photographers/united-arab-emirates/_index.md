@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In United Arab Emirates In 2023
+title: Top 10 Photographers TikTok Influencers In United Arab Emirates In 2024
 description: >-
-  Find top photographers TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #fyp #tiktok #foryoupage.
+  Find top photographers TikTok influencers in United Arab Emirates in 2024. Most popular hashtags: #dubai #fyp #foryoupage #tiktok.
 platform: TikTok
 hits: 13
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our database aggregates 13 TikTok influencers like this in United Arab Emirates for you to pitch.
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 13 TikTok influencers like this in United Arab Emirates for you to contact.
 profiles:
   - username: "steffie_neve"
     fullname: >-
@@ -97,12 +97,12 @@ profiles:
     bio: >-
       #originalcontent daily! 💣🎥 #Dubai #filmmaker #videographer IG: @verticaldxb
     location: "United Arab Emirates"
-    followers: 19500
-    engagement: 304
-    commentsToLikes: 0.011544
+    followers: 19300
+    engagement: 303
+    commentsToLikes: 0.011514
     id: ck8z39qe08qiw0j78f6c5qjqi
     verified: false
-    hashtags: "#verticaldxb, #photographer, #foryoupage, #videography"
+    hashtags: "#contentcreator, #fyp, #filmmaking, #dubai"
   - username: "nada__shareef"
     fullname: >-
       TheLashLady

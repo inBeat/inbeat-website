@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Austria In 2023
+title: Top 10 Models TikTok Influencers In Austria In 2024
 description: >-
-  Find top models TikTok influencers in Austria in 2023. Most popular hashtags: #fyp #austria #foryou #model.
+  Find top models TikTok influencers in Austria in 2024. Most popular hashtags: #fyp #foryou #austria #model.
 platform: TikTok
 hits: 19
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 19 TikTok influencers like this in Austria for you to pitch.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 19 TikTok influencers like this in Austria for you to work with.
 profiles:
   - username: "christianthomasprey"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.023032
     id: ckdgzuhkjr5u10j23m6c65abu
     verified: false
-    hashtags: "#family, #dance, #austriatiktok, #fy"
+    hashtags: "#balkantiktok, #austriatiktok, #foryou, #foryoupage"
   - username: "wvngzara"
     fullname: >-
       Zara Wang

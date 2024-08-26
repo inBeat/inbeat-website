@@ -1,36 +1,24 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Rome In 2023
+title: Top 10 Lifestyle Instagram Influencers In Rome In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Rome in 2023. Most popular hashtags: #italy #travel #home #sunset.
+  Find top lifestyle Instagram influencers in Rome in 2024. Most popular hashtags: #italy #travel #rome #makeup.
 platform: Instagram
-hits: 115
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 115 Instagram influencers like this in Rome, Italy for you to work with.
+hits: 131
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 131 Instagram influencers like this in Rome, Italy for you to work with.
 profiles:
-  - username: "theladyxoxo"
+  - username: "micololivieri_"
     fullname: >-
-      Eleonora Tani
+      Micol Andrea Maria Olivieri
     bio: >-
-      ♡ Beauty & Lifestyle ◈ Rome, IT ✎ theladytv@gmail.com ✮ YouTube link ↓
+      Tips | Lifestyle | Girls Power| Rome ❤️ Ascolta il mio podcast🎧 @sistribe_ Founder 🏡 @lacasadialice23 COLLAB💌 Micololivieriofficial@gmail.com
     location: "Italy"
-    followers: 165156
-    engagement: 1044
-    commentsToLikes: 0.006471
-    id: ck8t6wugkey4w0j78sh4maqw4
+    followers: 904419
+    engagement: 113
+    commentsToLikes: 0.016345
+    id: ck5pw5bskl6aq0i117ootsxz7
     verified: false
-    hashtags: "#beautyangels, #thebeautyhouseit, #thebeautyhouse, #freshbeauty"
-  - username: "melaniamigliozzi"
-    fullname: >-
-      mel* • aesthetic feed
-    bio: >-
-      BLOGGER | FASHION | LIFESTYLE 📍Rome aesthetic lover | beige passion Blog Dressing&Toppings Contributor @kiabi_italiaofficial ♡ Founder @foodgangitalia
-    location: "Italy"
-    followers: 17418
-    engagement: 506
-    commentsToLikes: 0.088272
-    id: ck5zu6gn81rtk0i14e5go0ffo
-    verified: false
-    hashtags: "#gioseppowoman, #caudalie, #diorbeautylovers, #kiabi"
+    hashtags: "#famiglia, #girlpower, #beauty, #adv"
   - username: "drgolenaz"
     fullname: >-
       Golenaz👩🏻‍⚕️
@@ -55,18 +43,30 @@ profiles:
     id: ck5zno9jzou9o0i14cg3ec0wt
     verified: false
     hashtags: "#scotlandexplore, #thelostavocado, #lostinedinburgh, #autumninscotland"
-  - username: "heymerilu"
+  - username: "michellemasullo"
     fullname: >-
-      Maria Cristina
+      Mixelle
     bio: >-
-      Il mio nome ha la stessa abbreviazione del McDonald. Coincidenze? Io non credo. Musica / Grateful / Let the sea come to you ☾ @allecosevere
+      Booking: gianni@tvmoda.it Everyday on @rai1official ✨Prof. “Eredità” graduated at @iulm_university
     location: "Italy"
-    followers: 10019
-    engagement: 1023
-    commentsToLikes: 0.038343
-    id: ck8tdpoca4b2n0j7802bm540n
+    followers: 32546
+    engagement: 130
+    commentsToLikes: 0.112151
+    id: ck9wexji1mato0j78ebyyg5s4
     verified: false
-    hashtags: "#sea, #fashion, #inspirationoftheday, #quoteoftheday"
+    hashtags: "#television, #italy, #model, #puntaala"
+  - username: "eeriswithee"
+    fullname: >-
+      Eeris//The Iris Garden
+    bio: >-
+      I make My own soundtrack. Human,MAYBE. @eerisunposted Fashion | travel | lifestyle Cantante e Attrice Milan/Rome eeris.businessinquiries@gmail.com
+    location: "Italy"
+    followers: 42870
+    engagement: 107
+    commentsToLikes: 0.001907
+    id: ck0txy352kyh20i19tfmm3kmp
+    verified: false
+    hashtags: "#itspersonal, #mfw, #grwm, #zacaparum"
   - username: "miss.martii"
     fullname: >-
       
@@ -91,18 +91,6 @@ profiles:
     id: ck5bx3kbkmxp50i11ja43cdkt
     verified: false
     hashtags: "#soufeellover, #soufeel, #soufeeljewelry, #soufeelgals"
-  - username: "dianadelorenzi"
-    fullname: >-
-      DIANA DE LORENZI
-    bio: >-
-      Lifestyle blogger and lover of beauty from🇮🇹Rome Mail to: info@dianadelorenzi.com Working on a new journey: my new home🏠
-    location: "Italy"
-    followers: 121139
-    engagement: 129
-    commentsToLikes: 0.074536
-    id: ck14hp9unbg0a0i19q379ayh7
-    verified: false
-    hashtags: "#designinspiration, #designinterior, #italia, #autumnvibes"
   - username: "fabiostelluti"
     fullname: >-
       Fabio Stelluti
@@ -115,16 +103,28 @@ profiles:
     id: ckaowf86w8oi70i78ccq1mybd
     verified: false
     hashtags: "#hovistostorie, #weareinpuglia, #createcommune, #culturetrip"
-  - username: "luca_contartese"
+  - username: "calopes7"
     fullname: >-
-      Luca Contartese
+      
     bio: >-
-      ᴀᴍʙɪᴛɪᴏɴ ᴋᴇᴇᴘs ʏᴏᴜ ᴀʟɪᴠᴇ ▪️ Milan📍Rome ▪️ @premiumlab__ Founder ▪️ @unimib Economy&marketing student ▪️ @elitemodelworld
+      🥇No Man Is An Island 🧩 📍Born in Naples☀️Based in Rome 🏟 📩 ca_86@live.it 📬 🎓Graduated in Economy 🗃 👨🏻‍💻Consultant 💼
     location: "Italy"
-    followers: 10169
-    engagement: 1307
-    commentsToLikes: 0.048403
-    id: ckap03wuxom9n0i78fq2k4xnz
+    followers: 21164
+    engagement: 520
+    commentsToLikes: 0.127491
+    id: ckap82jnkmjon0i78sgb2egxy
     verified: false
-    hashtags: "#dg, #milano, #modeling, #mindset"
+    hashtags: "#menswear, #suppliedby, #mensfashion, #fashionmensdaily"
+  - username: "golgappa_girl"
+    fullname: >-
+      Pooja Chandwani
+    bio: >-
+      I travel for food🥐🍴 Food, travel & lifestyle stuff here 🫶🏻 . 📧 Managed by @bunmaskacommunications don’t watch my YT videos on an empty stomach👇
+    location: "Italy"
+    followers: 207114
+    engagement: 342
+    commentsToLikes: 0.005954
+    id: ck8wfw7uvgcrj0j78j37cemj1
+    verified: false
+    hashtags: "#ad, #costaserena, #namastefromcosta, #reelitfeelit"
 ---

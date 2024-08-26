@@ -1,12 +1,48 @@
 ---
-title: Top 10 Barbers Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Barbers Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top barbers Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #mydubai #dxb #barbershop.
+  Find top barbers Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #dubai #barber #barbershop #mydubai.
 platform: Instagram
-hits: 15
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 15 Instagram influencers like this in United Arab Emirates for you to connect with.
+hits: 13
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 13 Instagram influencers like this in United Arab Emirates for you to pitch.
 profiles:
+  - username: "soledair_salon"
+    fullname: >-
+      SOLEDAIR SALON & SPA
+    bio: >-
+      1st 🇦🇪 #Uae #Dubai +971 558123051 2nd🇱🇧 #Beirut #ashrafieh4748 +96176655549 3rd 🇶🇦 #QATAR #Doha +974 6620 4049 عباس حمود الصفحة الرسمية
+    location: "United Arab Emirates"
+    followers: 143984
+    engagement: 616
+    commentsToLikes: 0.047732
+    id: ck5cikqtdsu130i11oi3j9tgh
+    verified: false
+    hashtags: "#star, #hairstylist, #barber, #whitehair"
+  - username: "kochifaraj"
+    fullname: >-
+      KOCHI FARAJ
+    bio: >-
+      • Dubai 🇦🇪 • co/founder @kochi.dubai / @elan.sthlm • YouTube 👇
+    location: "United Arab Emirates"
+    followers: 807979
+    engagement: 66
+    commentsToLikes: 0.012367
+    id: ck135ouie2hm20i19zfkcua3u
+    verified: true
+    hashtags: "#dubai, #stockholm, #barber, #fris"
+  - username: "markgrayxx"
+    fullname: >-
+      Mark Gray
+    bio: >-
+      🇮🇪Irish 💈@Lv3pro Founder 💻@v3locitymedia Founder 🧠@uncommonincome Founder 🏋🏽Gym Life
+    location: "United Arab Emirates"
+    followers: 386875
+    engagement: 8
+    commentsToLikes: 0.050934
+    id: ck0txtryqke7u0i197hwhh7w6
+    verified: false
+    hashtags: "#dubaibarber, #motivation, #lifestyle, #dubai"
   - username: "abedkosove"
     fullname: >-
       abed qisie -عبد قيسي
@@ -19,30 +55,6 @@ profiles:
     id: ck9wfmoghpj4d0j78x4a8vj9b
     verified: false
     hashtags: "#bahrain, #luxury, #fashion, #views"
-  - username: "soledair_salon"
-    fullname: >-
-      SOLEDAIR SALON & SPA
-    bio: >-
-      1st 🇦🇪 #Uae #Dubai +971 54 221 2920 2nd🇱🇧 #Beirut #Achrafieh +96176655549 3rd🇱🇧 #Dahye 📞+961 81 888 738 4th🇱🇧#Hazmieh #champs 71100610
-    location: "United Arab Emirates"
-    followers: 106026
-    engagement: 498
-    commentsToLikes: 0.059942
-    id: ck5cikqtdsu130i11oi3j9tgh
-    verified: false
-    hashtags: "#magleb, #dxb, #uae, #salon"
-  - username: "kochifaraj"
-    fullname: >-
-      Your hair is my duty
-    bio: >-
-      📍 DUBAI 💍 ▸ Owner @kochi.haircare
-    location: "United Arab Emirates"
-    followers: 584415
-    engagement: 254
-    commentsToLikes: 0.012163
-    id: ck135ouie2hm20i19zfkcua3u
-    verified: true
-    hashtags: "#fade, #wellaplex, #wella, #stockholm"
   - username: "kamran_nateghiii"
     fullname: >-
       Kamran Nateghi
@@ -67,18 +79,6 @@ profiles:
     id: ckap5ixchbvye0i78utjw6xdg
     verified: false
     hashtags: "#etw, #london, #self, #tbt"
-  - username: "janeaboujaoude.official"
-    fullname: >-
-      Jane Abou Jaoude Official
-    bio: >-
-      ▫Fashion Model/ Actress/ Beautician ▫based in dubai 🇦🇪 subscribe to my you tube channel ▫@janeaboujaoudebeauty
-    location: "United Arab Emirates"
-    followers: 159358
-    engagement: 59
-    commentsToLikes: 0.034890
-    id: ckap8d8fcntc90i78iwncnkdr
-    verified: false
-    hashtags: "#dubaievents, #stance, #abudhabi, #dubaitalent"
   - username: "tareq_almasri1"
     fullname: >-
       Tareq Almasri  💈✂💇🏻‍♂️

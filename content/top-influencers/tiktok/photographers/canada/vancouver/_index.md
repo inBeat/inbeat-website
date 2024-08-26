@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Vancouver In 2023
+title: Top 10 Photographers TikTok Influencers In Vancouver In 2024
 description: >-
-  Find top photographers TikTok influencers in Vancouver in 2023. Most popular hashtags: #canada #vancouver #photographer #britishcolumbia.
+  Find top photographers TikTok influencers in Vancouver in 2024. Most popular hashtags: #canada #photographer #vancouver #britishcolumbia.
 platform: TikTok
 hits: 19
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 19 TikTok influencers like this in Vancouver, Canada for you to work with.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: inBeat holds 19 TikTok influencers like this in Vancouver, Canada for you to work with.
 profiles:
   - username: "itsbigben"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.021376
     id: ck8f7uvyj38he0j786408yee9
     verified: false
-    hashtags: "#vancouver, #chilliwack, #canada, #britishcolumbia"
+    hashtags: "#britishcolumbia, #vancouver, #chilliwack, #canada"
   - username: "elizagraciehodgson"
     fullname: >-
       Eliza Gracie
@@ -31,6 +31,18 @@ profiles:
     id: ck8qiwplzaota0j78o0t4k17u
     verified: false
     hashtags: "#myhome, #banff, #britishcolumbia, #fyp"
+  - username: "keatonharaga"
+    fullname: >-
+      Keaton
+    bio: >-
+      Filmmaker Vancouver 🇨🇦
+    location: "Canada"
+    followers: 21000
+    engagement: 996
+    commentsToLikes: 0.028365
+    id: ck9ad5y2jvryg0j78h8e0kt27
+    verified: false
+    hashtags: "#filmmaker, #photographer, #friends, #fyp"
   - username: ".tyler.mckay"
     fullname: >-
       Tyler McKay
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.012372
     id: ck8072997o35j0j78evg2tncw
     verified: false
-    hashtags: "#mountains, #filmphotography, #sunset, #exploremore"
+    hashtags: "#mountains, #photography, #filmphotography, #exploremore"
   - username: "nickynonis"
     fullname: >-
       Nicky Nonis
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.108754
     id: ckammxh502g7q0i78cua0ypgg
     verified: false
-    hashtags: "#springtimefun, #mountainman, #canadian, #vancouver"
+    hashtags: "#campinglife, #vancity, #springtimefun, #canada"
   - username: "jimy233"
     fullname: >-
       Jim Yang
@@ -97,24 +109,12 @@ profiles:
     bio: >-
       🇨🇦 Millennial 𝐡𝐮𝐬𝐛𝐚𝐧𝐝 & 𝐰𝐢𝐟𝐞 Wedding Photographers📸 click⬇️
     location: "Canada"
-    followers: 28500
-    engagement: 1489
-    commentsToLikes: 0.023172
+    followers: 28300
+    engagement: 1579
+    commentsToLikes: 0.026459
     id: ckb9cqc9fzmrp0j233vvlma8d
     verified: false
-    hashtags: "#couplecomedy, #husbandandwifecomedy, #couplestatus, #marriedlife"
-  - username: "keatonharaga"
-    fullname: >-
-      Keaton
-    bio: >-
-      Filmmaker Vancouver 🇨🇦
-    location: "Canada"
-    followers: 21000
-    engagement: 996
-    commentsToLikes: 0.028365
-    id: ck9ad5y2jvryg0j78h8e0kt27
-    verified: false
-    hashtags: "#filmmaker, #photographer, #lexus, #friends"
+    hashtags: "#couplecomedy, #couplescomedy, #couplestatus, #husbandandwifecomedy"
   - username: "joshmcca"
     fullname: >-
       Josh Mccabe
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.057088
     id: ck9rgyu1wd5ji0j7851tdfzzj
     verified: false
-    hashtags: "#canada, #mountains, #travel, #camping"
+    hashtags: "#mountains, #banff, #outdoors, #travel"
 ---

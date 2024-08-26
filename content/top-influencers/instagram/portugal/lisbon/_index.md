@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Lisbon In 2023
+title: Top 10 Instagram Influencers In Lisbon In 2024
 description: >-
-  Find top Instagram influencers in Lisbon in 2023. Most popular hashtags: #pub #staysafe #creative.
+  Find top Instagram influencers in Lisbon in 2024. Most popular hashtags: #portugal #lisboa #travel #beautifuldestinations.
 platform: Instagram
-hits: 147
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 147 Instagram influencers like this in Lisbon, Portugal for you to pitch.
+hits: 206
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 206 Instagram influencers like this in Lisbon, Portugal for you to contact.
 profiles:
-  - username: "sharonpannen"
+  - username: "diogorcarrilho"
     fullname: >-
-      Sharon Pannen
+      DIOGO CARRILHO
     bio: >-
-      Queer photographer currently in Lisbon, Portugal. 23 Working on my upcoming photo series + book on sexuality and gender identity worldwide
+      💻Designer, photographer and traveler!🌴 📍lisbon, Portugal
     location: "Portugal"
-    followers: 11610
-    engagement: 924
-    commentsToLikes: 0.077828
-    id: ck6tor064fm660j714e8yax87
+    followers: 13373
+    engagement: 590
+    commentsToLikes: 0.014130
+    id: ck8t6cxj8d5870j78q2eg4tc7
     verified: false
-    hashtags: "#35mm, #kodak"
-  - username: "marianacardia"
+    hashtags: "#food, #digsaroundtheworld, #costaalentejana, #colors"
+  - username: "andginja"
     fullname: >-
-      Mαяιαηα 🌹
+      André Ginja | City & Travel Photography
     bio: >-
-      📍Lisbon 🇵🇹 👩🏼‍🎓:ciências da comunicação 💖: Beauty - Fashion - Travel 💓 📩: prettyinpinkgeral@gmail.com 🖥: www.prettyinpink.pt⠀ ⠀⠀⠀🛍⠀@dailypinkootd
+      🌍 Explore daily City & Travel Photo & Video ✈️ Follow my journey! 💻 Software Engineer 🇵🇹 Lisbon, Portugal ⤵️ FREE GUIDES
     location: "Portugal"
-    followers: 16563
-    engagement: 540
-    commentsToLikes: 0.089691
-    id: ck8t6uh2eeqch0j78kg2sj6w0
+    followers: 13844
+    engagement: 741
+    commentsToLikes: 0.034258
+    id: ckaosfnuiresn0i78q9ik2lpl
     verified: false
-    hashtags: "#dresslily, #dresses, #dresslilyfashion, #newdresses"
-  - username: "pedromartins_insta"
+    hashtags: "#visitportugal, #15aoburro, #igerslisboa, #portugaldenorteasul"
+  - username: "podarroz_weimaraner"
     fullname: >-
-      MENS FASHION STYLE
+      Pó D'Arroz•Broa de Mel•Lurdes•Palmira
     bio: >-
-      Follow for Styling Tips Fashion 🌍 - Citizen of the world 📍 - Lisbon based ✉️ - Collaborations
+      Hi, we are Pó D'Arroz, Broa de Mel, Lurdes & Palmira, the cutest quartet living in Lisbon. podarroz.weimaraner@gmail.com #pódarroz #broademel
     location: "Portugal"
-    followers: 74193
-    engagement: 260
-    commentsToLikes: 0.179368
-    id: ck9hb1jjnezmj0j78ofy1vzmi
+    followers: 263704
+    engagement: 2309
+    commentsToLikes: 0.023532
+    id: ck137784na4zk0i19c7ifz21f
     verified: false
-    hashtags: ""
-  - username: "rodrigcnoronha"
+    hashtags: "#teckel, #podarrozweimaraner, #catlovers, #dachshund"
+  - username: "devidgualandris"
     fullname: >-
-      Rodrigo de Noronha
+      Devid Gualandris
     bio: >-
-      •Lisbon •Design, Communication & Marketing
+      🇮🇹 🇩🇪Lisbon-based 🕺🏻🇵🇹Father Dante Telfar @hausoftelfar 🪩🫦 @ovahlisboa
     location: "Portugal"
-    followers: 2498
-    engagement: 2104
-    commentsToLikes: 0.089851
-    id: ck9hcc28ikpeu0j78zgzzugdk
-    verified: false
-    hashtags: "#stayhome, #staysafe, #brunchalldayeveryday, #asos"
-  - username: "carlotasardinhaa"
-    fullname: >-
-      Carlota Sardinha
-    bio: >-
-      Lisbon Marketing & Digital Manager of @nyxcosmeticspt
-    location: "Portugal"
-    followers: 50327
-    engagement: 179
-    commentsToLikes: 0.085966
-    id: ck5ztf2km0abf0i14o6a8tsme
-    verified: false
-    hashtags: "#pub, #beecofriendly, #gogreen, #ethicalfashion"
-  - username: "inestakestheworld"
-    fullname: >-
-      INÊS | TRAVEL & PHOTOGRAPHY
-    bio: >-
-      ✈️ Travel Blogger ✈️ @ilovemychocolatebox code: INESTAKESTHEWORLD10 📍Portuguese girl based in Lisbon ⬇️ CHECK MY BLOG FOR MORE TRAVEL TIPS
-    location: "Portugal"
-    followers: 9620
-    engagement: 485
-    commentsToLikes: 0.085845
-    id: ck0vyou0h529o0i19ka8kor50
-    verified: false
-    hashtags: "#dametraveler, #portugaltravel, #sheisnotlost, #roamingwomen"
-  - username: "josempsousa"
-    fullname: >-
-      José Sousa
-    bio: >-
-      28 y.o | 173cm | 104kg From The Azores Islands 🌎 📌Lisbon, Portugal 🇵🇹 Medical Doctor💊💉🤓 Gym 💪🐻
-    location: "Portugal"
-    followers: 29642
-    engagement: 847
-    commentsToLikes: 0.013098
-    id: ckap8mhv4ozon0i787nefbvgy
+    followers: 33854
+    engagement: 1248
+    commentsToLikes: 0.008811
+    id: ck5bz87o3qmtt0i11mq12leiu
     verified: false
     hashtags: ""
-  - username: "luispires2b"
+  - username: "marianabaptistaa_"
     fullname: >-
-      Luís Pires
+      Mariana Baptista | Creative
     bio: >-
-      •Benfica fanatic•Music addicted• •Based in Lisbon,Portugal📍 •Studio, Indoor and Outdoor photography for brands or regular customers
+      ⋒ Creative content creator ≀ fashion & makeup lover ⋆ ☺︎︎ Lisbon, Portugal ✎ marydeedslife@gmail.com
     location: "Portugal"
-    followers: 11135
-    engagement: 409
-    commentsToLikes: 0.092677
-    id: ck0w452k0wun10i19s2xiq98s
+    followers: 11101
+    engagement: 421
+    commentsToLikes: 0.305960
+    id: ck5c38bn8ys9y0i11apm4fvxf
     verified: false
-    hashtags: ""
-  - username: "alicetrewinnard"
+    hashtags: "#photoediting, #photoedit, #casualmentesentada, #creative"
+  - username: "ruimotaa"
     fullname: >-
-      Alice Trewinnard
+      RUI MOTA
     bio: >-
-      From Lisbon, Portugal @tarwifoods Fashion, beauty & healthy living Represented by @Notable.pt YouTube Channel
+      👨‍🍳 Chef, Teacher & Food Designer 👨‍🎓 MSc in Gastronomic Sciences | ISA UL 📍 Based in Lisbon | 28 yrs
     location: "Portugal"
-    followers: 269425
-    engagement: 1129
-    commentsToLikes: 0.006114
-    id: ck134v13sybqz0i19a00owtxx
-    verified: true
-    hashtags: "#anossahistoriachegouaosim, #pub, #cas, #wearetarwi"
-  - username: "pipa_sgomes"
-    fullname: >-
-      filipa gomes ❀
-    bio: >-
-      • portuguese girl • from Lisbon
-    location: "Portugal"
-    followers: 5703
-    engagement: 1070
-    commentsToLikes: 0.041176
-    id: ck8tba0amuvda0j78l9zojfus
+    followers: 11025
+    engagement: 866
+    commentsToLikes: 0.232358
+    id: ck0u6ea241oge0i19f8i1ndi1
     verified: false
-    hashtags: ""
+    hashtags: "#chefsofinstagram, #smartwhip, #gourmazing, #gastroart"
+  - username: "vera_fferreira"
+    fullname: >-
+      Vera | Travel & Photography
+    bio: >-
+      🇵🇹 Lisbon 🗺 Check my photo guides on @walkboxapp
+    location: "Portugal"
+    followers: 19927
+    engagement: 437
+    commentsToLikes: 0.104253
+    id: ck135h9a81erw0i19ocgiof5m
+    verified: false
+    hashtags: "#sidibousaid, #germany, #beautifuldestinations, #womenwhotravel"
+  - username: "caatarinavieira"
+    fullname: >-
+      Catarina Vieira | Travel
+    bio: >-
+      ✈ Travel & Experiences 📷 Follow for daily travel content, unique stays and good food 🎓 Materials Engineer, based in Lisbon 🇵🇹
+    location: "Portugal"
+    followers: 22726
+    engagement: 346
+    commentsToLikes: 0.104730
+    id: ck8t0zgd2twjt0j78n5wk5dts
+    verified: false
+    hashtags: "#visitcinqueterre, #florence, #firenze, #cinqueterre"
+  - username: "inesdayala"
+    fullname: >-
+      Inês de Ayala | LISBON & COFFEE
+    bio: >-
+      Hi 👋🏼 I’m Inês de Ayala 💖 Your local coffee girl. Based in sunny Lisbon ☀️ ☕️ founder @coffeeovermatter 💌 inesdayala.com@gmail.com 🦄 social media mgt
+    location: "Portugal"
+    followers: 13189
+    engagement: 313
+    commentsToLikes: 0.034342
+    id: ck0ttzr7u517c0i19qh0n9bqj
+    verified: false
+    hashtags: "#morningslikethese, #summervibes, #convite, #lisbonlovers"
+  - username: "isa__m_"
+    fullname: >-
+      Isabel de Almeida
+    bio: >-
+      🇵🇹 Content Creator based in Lisbon ✨Sharing places, guides and tips 📸 Sonyalpha 7IV 📱 IPhone 14 Pro Max
+    location: "Portugal"
+    followers: 153507
+    engagement: 506
+    commentsToLikes: 0.033349
+    id: ck135b5lp0m8g0i19579egsxz
+    verified: false
+    hashtags: "#worldplaces, #europestyle, #monsaraz, #travelgram"
 ---

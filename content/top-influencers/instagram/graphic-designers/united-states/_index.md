@@ -1,130 +1,130 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In United States In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In United States In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in United States in 2023. Most popular hashtags: #fashionblogger #photoshoot #photooftheday.
+  Find top graphic-designers Instagram influencers in United States in 2024. Most popular hashtags: #pink #artist #adobe.
 platform: Instagram
-hits: 567
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 567 Instagram influencers like this in United States for you to contact.
+hits: 1401
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 1401 Instagram influencers like this in United States for you to pitch.
 profiles:
-  - username: "intedismind"
+  - username: "fushionwith.yu"
     fullname: >-
-      Tedi 🪐 | FREELANCER
+      Yu ｜Fashion Diary
     bio: >-
-      Workaholic. Graphic Designer. Marketer. 20 years. 🌿Vegetarian | Plantaholic |📚|🌙| ♻️ Naturally introverted, selectively extroverted 📍Bucharest, RO
+      A graphic designer who loves to share her fashion daily and fun reels. Lifestyle & Inspo, follow for more! DM / 💌 TO COLLAB
     location: "United States"
-    followers: 10317
-    engagement: 1166
-    commentsToLikes: 0.097137
-    id: ck0vva2xmo7qv0i19ht4k55sn
+    followers: 6099
+    engagement: 620
+    commentsToLikes: 0.226568
+    id: cl7ffqwwgr7hk0i23wlvrd6g2
     verified: false
-    hashtags: "#giveawaytime, #instagood, #selfdevelopment, #bucharest"
-  - username: "jasminecjonas"
+    hashtags: "#blazerstyle, #newyorkfashionblogger, #reeltransition, #reelsfashion"
+  - username: "homsweethom"
     fullname: >-
-      Jasmine Cecilia Jonas
+      Lauren Hom
     bio: >-
-      👋🏽✨ Blogger • Social Media Consultant • Graphic Designer hello@jasminececiliajonas.com
+      👩🏻‍🍳 Graphic designer attending culinary school ✏️ Let’s work together! 💌 ryan@co-loop.co 🍊 Join the 8/19 dinner party waitlist👇🏽
     location: "United States"
-    followers: 27558
-    engagement: 708
-    commentsToLikes: 0.081322
-    id: ck0vyitz747lf0i19jw08pqwr
+    followers: 293502
+    engagement: 424
+    commentsToLikes: 0.012057
+    id: ck0w616ra6f2h0i19tdk7ucrk
+    verified: true
+    hashtags: "#theoriginalwellnessdrink, #clarecollective, #shareyourclare, #ad"
+  - username: "leafhug"
+    fullname: >-
+      Leaf
+    bio: >-
+      ♡ graphic designer based in canada ♡ cute illustrations made with love
+    location: "United States"
+    followers: 10741
+    engagement: 1859
+    commentsToLikes: 0.023501
+    id: ck137ef9nb4rz0i199o88lhfn
     verified: false
-    hashtags: "#topshopgirls, #imwearingri, #topshopstyle"
-  - username: "amberbjel"
+    hashtags: "#kawaii, #illo, #illustration, #procreate"
+  - username: "mouseketeerjoseph"
     fullname: >-
-      Amber Bjel
+      joseph ☻
     bio: >-
-      🇵🇭+🇸🇰 🖥 Graphic Designer 💃🏻 My closet is 99% thrifted 🏠 Code AMBERB for $250 off @avantstay
+      🪩 disney style ⚡️ disneyland cm 🖥 graphic designer
     location: "United States"
-    followers: 7678
-    engagement: 1140
-    commentsToLikes: 0.153603
-    id: ckf5wbm3criul0j23jaz58ilg
-    verified: false
-    hashtags: "#supportblackownedbusinesses, #nojusticenopeace, #ripsummer2020, #feeling22"
-  - username: "red_infected"
-    fullname: >-
-      AKHIL AACHU
-    bio: >-
-      Professional Graphic Designer Trivandrum 💫 Bangalore MOTOHOLIC || MM93 ❤️ Adrenaline junkie 🌀 22 #BLACKVIBES 🖤 Privt @aachu.x
-    location: "United States"
-    followers: 7054
-    engagement: 775
-    commentsToLikes: 0.039349
-    id: ck6u2d966r55m0j7158f23w12
-    verified: false
-    hashtags: "#duke390, #racesport, #motocross, #sbk"
-  - username: "thecaseyblake"
-    fullname: >-
-      Casey Blake
-    bio: >-
-      Youtuber 🎥Makeup Lover 💄 Fashionista 👗 MTF👸🏻 Graphic Designer 👩‍🎨 Animator 👩‍💻 Photographer 📸 Writer 🖋 (She/her)
-    location: "United States"
-    followers: 69460
-    engagement: 367
-    commentsToLikes: 0.039012
-    id: ck15ruti39tj50i193h475gl2
-    verified: false
-    hashtags: "#caseyblake, #transwoman, #lgbtyouth, #boytogirl"
-  - username: "where.is.naomi"
-    fullname: >-
-      Naomi Montgomery
-    bio: >-
-      Snaps of my Loves & Life ✿ Floral Designer + Graphic Designer. ⌓ Lover of Travel, Fashion, & People ⌓ ✿ @Oasisflorals
-    location: "United States"
-    followers: 6894
-    engagement: 614
-    commentsToLikes: 0.235007
-    id: ck8t29jggyne00j781fsun3hq
+    followers: 10209
+    engagement: 811
+    commentsToLikes: 0.131460
+    id: ckap4qxno8h110i78ra4qxwgl
     verified: false
     hashtags: ""
-  - username: "evaaphrodite"
+  - username: "artdikaya"
     fullname: >-
-      Eva Aphrodite Katerina
+      ✨Anastasia Berthier✨
     bio: >-
-      - Fine Artist, Graphic Designer, Illustrator - PhD Central Saint Martins, University of the Arts - My Art PRINTED on various products @REDBUBBLE
+      💌 Curvy model ▪️Artist and graphic designer ❗️Natural ⭐️ 34KK Life page @ana_ber_life Backup page: @anastasiaberthier_ linktr.ee/artdikaya
     location: "United States"
-    followers: 9918
-    engagement: 753
-    commentsToLikes: 0.100602
-    id: ck14lj4mruy2v0i19vqh2i2w2
-    verified: false
-    hashtags: "#reddresses, #butterflies, #butterfliesofinstagram, #butterflyart"
-  - username: "lifebyelliejune"
-    fullname: >-
-      Ellie June ✨
-    bio: >-
-      finding & creating the beauty in life 📍UT | vlogger + graphic designer + donut fanatic 🖥elliejuneblog.com 💌elliejunelifestyle@gmail.com team ben 💍
-    location: "United States"
-    followers: 14372
-    engagement: 2149
-    commentsToLikes: 0.031774
-    id: ck5c6raap61260i11yll0eh8d
-    verified: false
-    hashtags: "#endhumantrafficking, #riseup, #getloud, #teamben"
-  - username: "kathy_vu"
-    fullname: >-
-      𝐤 𝐚 𝐭 𝐡 𝐲  //  CREATIVE
-    bio: >-
-      vietnamese, only other page: @conviviall » photographer + graphic designer + content creator ——— » email + 𝒆𝒙𝒄𝒍𝒖𝒔𝒊𝒗𝒆 𝒄𝒐𝒏𝒕𝒆𝒏𝒕 below 🧿
-    location: "United States"
-    followers: 24057
-    engagement: 524
-    commentsToLikes: 0.059873
-    id: ck135xsyp3s230i19s7fy9wkm
-    verified: false
-    hashtags: "#pfizer, #iconswim, #overtonecoloringconditioner, #hcxgarniergreenlabs"
-  - username: "lesia.tonova"
-    fullname: >-
-      Lesia ✨ Stockholm
-    bio: >-
-      ▫️ Graphic Designer & Content Creator ▫️ lesya.tonova@gmail.com
-    location: "United States"
-    followers: 15480
-    engagement: 712
-    commentsToLikes: 0.025028
-    id: ck0w6nzgd9h0e0i19pt82q6c1
+    followers: 770148
+    engagement: 467
+    commentsToLikes: 0.017313
+    id: ckapc1xe325k60i7895uzum6b
     verified: false
     hashtags: ""
+  - username: "bailsohey"
+    fullname: >-
+      bailey darwin
+    bio: >-
+      » graphic designer | ugc creator » founder of @adokdesign + @thewordproject_ » metro detroit based let’s collaborate ↓
+    location: "United States"
+    followers: 4765
+    engagement: 434
+    commentsToLikes: 0.031420
+    id: ck8t0wzvktn9j0j780orcc539
+    verified: false
+    hashtags: "#bluelagoon, #bluelagooniceland, #pokemongo, #pokemongocommunityday"
+  - username: "shebowhunts"
+    fullname: >-
+      >>----> Jessica <----<<
+    bio: >-
+      Passionate Bowhunter🏹 | Mrs❤️ | Mancub & BirdDog Mom Tattoo Apprentice 🖤 Graphic Designer💥 Utah Taxidermist 🦌@skyline__design
+    location: "United States"
+    followers: 30799
+    engagement: 351
+    commentsToLikes: 0.035621
+    id: ckmw1iouw8hvv0j23nlwus3vi
+    verified: false
+    hashtags: "#muledeer, #taxidermy, #wildlifeart, #archery"
+  - username: "lukaskroldesign"
+    fullname: >-
+      Lukas Krol
+    bio: >-
+      ☆ Freelance Graphic Designer ☆ Czech Republic, Europe hello@lukaskroldesign.com
+    location: "United States"
+    followers: 24686
+    engagement: 306
+    commentsToLikes: 0.015920
+    id: ck8szz13hq9ns0j78cbcz8mqo
+    verified: false
+    hashtags: "#merchandise, #merch, #rfp, #rockforpeople"
+  - username: "sicerow"
+    fullname: >-
+      Siciliani Texel
+    bio: >-
+      📸 Photographer 🖥 Graphic Designer ⚠️ Shoots 21+ only 🎙 Vocal Coach 💈 Barber Since ‘86 📷 Other work 👇🏾 @sicerowphotography
+    location: "United States"
+    followers: 18690
+    engagement: 296
+    commentsToLikes: 0.037531
+    id: ck5q70ojozir30i11j6ldgc33
+    verified: false
+    hashtags: "#body, #edit, #photooftheday, #lady"
+  - username: "larslagaisse"
+    fullname: >-
+      Lars Lagaisse
+    bio: >-
+      Founder of @kaartblanche | Freelance graphic designer & social media guy | Editor at @sosoirmagazine 💌 lars@kaartblanche.com 📍BE
+    location: "United States"
+    followers: 19243
+    engagement: 265
+    commentsToLikes: 0.011883
+    id: ck6tqttgyu7sb0j71v35r71wn
+    verified: false
+    hashtags: "#oaxaca, #mexico, #italy, #nycpride2023"
 ---

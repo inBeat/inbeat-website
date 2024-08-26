@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema TikTok Influencers In United Kingdom In 2023
+title: Top 10 Cinema TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top cinema TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryoupage #foryou #movie.
+  Find top cinema TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #foryoupage #foryou #movie.
 platform: TikTok
-hits: 77
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our search engine holds 77 TikTok influencers like this in United Kingdom for you to connect with.
+hits: 78
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 78 TikTok influencers like this in United Kingdom for you to connect with.
 profiles:
   - username: "deanhassell"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.031549
     id: ck8adg51t5zao0j78lovctbc6
     verified: true
-    hashtags: "#trend, #funny, #duet, #fyp"
+    hashtags: "#larp, #fyp, #lol, #uk"
   - username: "philarntz"
     fullname: >-
       Phil Arntz
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.006031
     id: cka0l2umcpapr0i789ubscdu3
     verified: false
-    hashtags: "#foryoupage, #flying, #cinema, #viral"
+    hashtags: "#behindthescenes, #fyp, #shotover, #filmmaking"
   - username: "luminaracosplay"
     fullname: >-
       Luminara Cosplay
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.010235
     id: ck80o9nejg4qr0j78cefvc2ng
     verified: false
-    hashtags: "#fy, #travel, #dronevideo, #drone"
+    hashtags: "#opporeno4pro, #fpvdrone, #ad, #faroeislands"
   - username: "movietings10"
     fullname: >-
       <333

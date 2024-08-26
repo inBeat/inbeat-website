@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Seoul In 2023
+title: Top 10 TikTok Influencers In Seoul In 2024
 description: >-
-  Find top TikTok influencers in Seoul in 2023. Most popular hashtags: #seoul #korea #kpop #fyp.
+  Find top TikTok influencers in Seoul in 2024. Most popular hashtags: #seoul #korea #kpop #fyp.
 platform: TikTok
 hits: 42
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat has 42 TikTok influencers like this in Seoul, South Korea for you to pitch.
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 42 TikTok influencers like this in Seoul, South Korea for you to connect with.
 profiles:
   - username: "visitseoul"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.013345
     id: ckbkym1p1uska0j237tb398en
     verified: true
-    hashtags: "#korea, #korealife, #seoul, #lifeinkorea"
+    hashtags: "#seoul, #korealife, #lifeinkorea, #thizisdan"
   - username: "hello_dongwon"
     fullname: >-
       hello_dongwon
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.010118
     id: ckcdugqjxejtj0j23q1hw5kh7
     verified: false
-    hashtags: "#sunsetlover, #tiktoktravel, #seoultravel, #traveltiktok"
+    hashtags: "#sunsetlover, #seoul, #moon, #aestetic"
   - username: "kcdf"
     fullname: >-
       kpop cocerdance festival

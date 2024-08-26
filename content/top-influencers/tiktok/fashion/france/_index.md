@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In France In 2023
+title: Top 10 Fashion TikTok Influencers In France In 2024
 description: >-
-  Find top fashion TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #fashion #foryou #fyp.
+  Find top fashion TikTok influencers in France in 2024. Most popular hashtags: #pourtoi #fashion #foryou #fyp.
 platform: TikTok
 hits: 181
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 181 TikTok influencers like this in France for you to work with.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 181 TikTok influencers like this in France for you to connect with.
 profiles:
   - username: "travelmimii"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.077674
     id: ckb9gfze75n6f0j2383331b6n
     verified: false
-    hashtags: "#travelblogger, #visitfrance, #monaco, #tiktokfrance"
+    hashtags: "#cotedazur, #monaco, #fyp, #srbijatiktok"
   - username: "preteapartir"
     fullname: >-
       preteapartir

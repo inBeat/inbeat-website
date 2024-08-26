@@ -1,36 +1,60 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Bali In 2023
+title: Top 10 Yoga Instagram Influencers In Bali In 2024
 description: >-
-  Find top yoga Instagram influencers in Bali in 2023. Most popular hashtags: #yoga #bali #indonesia #nature.
+  Find top yoga Instagram influencers in Bali in 2024. Most popular hashtags: #bali #yoga #balilife #indonesia.
 platform: Instagram
-hits: 41
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 41 Instagram influencers like this in Bali, Indonesia for you to pitch.
+hits: 49
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 49 Instagram influencers like this in Bali, Indonesia for you to connect with.
 profiles:
-  - username: "agrobacter"
+  - username: "ibuteko"
     fullname: >-
-      Mert Can
+      Endah
     bio: >-
-      Film and Digital Photographer
+      Teach at @belie.fit Certified Yoga Teacher(RYT), Climber, Handmade maker, Tea lover It'll turn out all right in the end. ~Mrs. Potts~ 📍JKT-BALI
     location: "Indonesia"
-    followers: 15117
-    engagement: 373
-    commentsToLikes: 0.034135
-    id: ck0w44ng2wsjz0i1984ldo0ku
+    followers: 5453
+    engagement: 384
+    commentsToLikes: 0.030634
+    id: ck137r5s6cywl0i19slks0zek
     verified: false
-    hashtags: "#coffeetime, #coffee, #tb, #coffeelover"
-  - username: "stephbaier"
+    hashtags: "#yogabali, #surf, #balilife, #yoga"
+  - username: "kattiyoga"
     fullname: >-
-      Stephanie Baier | Bali Model
+      Katt Lee
     bio: >-
-      🇵🇭🇩🇪 ॐ Model and Yoga Teacher ❥ Mother to Joy Ophelia ☽ Protect your peace, Get rid of toxicity, Cleanse your space, Cultivate love. @m4models
+      RYT260 | Yoga Teacher & UGC Creator Yoga, Wellness & Travel 🌴 🇨🇦🇭🇰 : 📍Japan 🇯🇵 Biz inquiries: info@kattiyoga.com
     location: "Indonesia"
-    followers: 6077
-    engagement: 641
-    commentsToLikes: 0.039596
-    id: ck8syl5qql5jw0j781h8foqv1
+    followers: 69581
+    engagement: 57
+    commentsToLikes: 0.019192
+    id: ck0u88gz96qez0i19u2sitjam
     verified: false
-    hashtags: "#fam, #tropicalchristmas, #mindsetiseverything, #familytime"
+    hashtags: "#outdooryoga, #baliindonesia, #yogajourney, #balilife"
+  - username: "candicehalliday"
+    fullname: >-
+      Candice Halliday Bryant
+    bio: >-
+      𓋹𓋴𓍑𝔅𝔢𝔦𝔫𝔤 𝔬𝔣 𝔩𝔦𝔤𝔥𝔱𓂀 Spiritual adviser and guide 𝐇𝐢𝐦𝐚𝐥𝐚𝐲𝐚𝐧 𝐊𝐫𝐢𝐲𝐚 𝐘𝐨𝐠𝐚|Meditation @theyogabarn 𝕎𝕠𝕞𝕓/an C𝕚𝕣𝕔𝕝𝕖𝕤
+    location: "Indonesia"
+    followers: 15497
+    engagement: 92
+    commentsToLikes: 0.041350
+    id: ck0tvgzdpbb4f0i191u2blz1c
+    verified: false
+    hashtags: "#radientlyalive, #modelbali, #balilife, #balibikini"
+  - username: "marzcheese"
+    fullname: >-
+      UMAR IMANUDDIN
+    bio: >-
+      #fashion #lifestyle #travel #food #hotel #staycation enthusiast 🌏 Part #TVLKTravelFriends @traveloka.id 📍#Indonesia #SEMARANG #JOGJA 🦖 Made in #Kudus
+    location: "Indonesia"
+    followers: 303678
+    engagement: 322
+    commentsToLikes: 0.047316
+    id: ck9wgd8yuswsz0j78sz1pnpt7
+    verified: false
+    hashtags: "#hotelbali, #fivestar, #bali, #yoga"
   - username: "robmananquil"
     fullname: >-
       r o b m n n q l
@@ -43,42 +67,30 @@ profiles:
     id: ck6tvdisqlmb40j718vaikhc1
     verified: false
     hashtags: "#godsgift, #nature, #covid19, #bali"
-  - username: "ibuteko"
+  - username: "oliya_2104"
     fullname: >-
-      Endah
+      Anusha Karmakar | Yoga• Selfcare• Travel
     bio: >-
-      Yogi Certified, Climber, Handmade maker, Tea lover 🧘‍♀️🧗‍♀️✂️🍵 #namastendah It'll turn out all right in the end. ~Mrs. Potts~
+      I do everything self care Content creator MSc Yoga📖| Certified Yoga teacher Work 📧 anusha@cree8a.com Yoga Sessions ⬇️
     location: "Indonesia"
-    followers: 4171
-    engagement: 712
-    commentsToLikes: 0.043320
-    id: ck137r5s6cywl0i19slks0zek
+    followers: 141286
+    engagement: 521
+    commentsToLikes: 0.011053
+    id: ck5hqf41ct0cr0i11my7i7qs3
     verified: false
-    hashtags: "#namasteendah, #bali, #yogajakarta, #yoga"
-  - username: "kels.vaughne"
+    hashtags: "#travelmore, #yogateacher, #yogaposes, #tropical"
+  - username: "dave_swatt"
     fullname: >-
-      ❀ kels ❀
+      Dave Swatt
     bio: >-
-      based in ➳ bali 🌴 i like making videos 🎥 kels@camandkels.com 📧 vlogs & things ⇩
+      - Building Development Plan/Conceptual 🏘 - Stock Trader 📊 - Fitness Coach 🏋🏽‍♂️
     location: "Indonesia"
-    followers: 17592
-    engagement: 508
-    commentsToLikes: 0.049081
-    id: ckap84b8umrt40i78hks2z4an
-    verified: false
-    hashtags: "#tripofwonders, #wonderfulindonesia, #indonesia, #bintanisland"
-  - username: "dylanwerneryoga"
-    fullname: >-
-      Dylan Werner
-    bio: >-
-      Yoga Teacher Living in Bali 🇮🇩 My book “The Illuminated Breath” is available on Amazon and Kindle!
-    location: "Indonesia"
-    followers: 813817
-    engagement: 298
-    commentsToLikes: 0.016796
-    id: ck5pyvzy3y2ig0i11xgtmxjmz
+    followers: 104396
+    engagement: 112
+    commentsToLikes: 0.024169
+    id: ck15p9kyiwrxo0i19x6vx1plv
     verified: true
-    hashtags: "#handstand, #backbend, #yoga, #expo2020"
+    hashtags: "#daveswatt, #bodygoals, #fitnesslife, #menswear"
   - username: "iampaulauchoa"
     fullname: >-
       | Paula Uchoa | Vegan Chef |
@@ -91,18 +103,6 @@ profiles:
     id: ck9h9mg4p92cc0j78v27dfacv
     verified: false
     hashtags: "#healthcoach, #veganchef, #iinhealthcoach, #traveler"
-  - username: "zilmizola"
-    fullname: >-
-      Ahmad Ilmi, SE // LOMBOK 🌴
-    bio: >-
-      NATURE, LUXURY RESORT AND VILLA TRIP PLANNER, FREELANCE GUIDE IN LOMBOK 🌴 WA : +6287864503855 #plantslover #badmintonlover #lombok #bali #indonesia
-    location: "Indonesia"
-    followers: 63159
-    engagement: 197
-    commentsToLikes: 0.078658
-    id: ck6tzf3ub9bj70j71h99z6tdu
-    verified: false
-    hashtags: "#beautifuldestinations, #lombok, #zizoonvacation, #luxurylifestyle"
   - username: "status30detik"
     fullname: >-
       Status30Detik

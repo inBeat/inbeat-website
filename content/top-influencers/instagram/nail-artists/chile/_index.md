@@ -1,48 +1,48 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Chile In 2023
+title: Top 10 Nail Artists Instagram Influencers In Chile In 2024
 description: >-
-  Find top nail artists Instagram influencers in Chile in 2023. Most popular hashtags: #chile #fashion #santiago #nails.
+  Find top nail artists Instagram influencers in Chile in 2024. Most popular hashtags: #nailart #nails #chile #santiago.
 platform: Instagram
-hits: 9
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 9 Instagram influencers like this in Chile for you to pitch.
+hits: 8
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 8 Instagram influencers like this in Chile for you to collaborate.
 profiles:
-  - username: "casa_emma"
+  - username: "barbiee_nails"
     fullname: >-
-      Casa Emma
+      𝐈𝐧 𝐚 𝐛𝐚𝐫𝐛𝐢𝐞 𝐰𝐨𝐫𝐥𝐝✨
     bio: >-
-      Estudio boutique de fotografía Mati Wehrhahn • mathias@casaemma.cl Productora • produccion@casaemma.cl
+      🎀𝖭𝖺𝗂𝗅 𝖠𝗋𝗍𝗂𝗌𝗍🎀 👩🏻‍🎨| 𝖤𝗆𝖻𝖺𝗃𝖺𝖽𝗈𝗋𝖺 @seducete.cl 🐰| 𝖢𝗋𝗎𝖾𝗅𝗍𝗒 𝖥𝗋𝖾𝖾 & 𝖵𝖾𝗀𝖺𝗇 📍| 𝖯𝗋𝗈𝗏𝗂𝖽𝖾𝗇𝖼𝗂𝖺 ❌| 𝖭𝖮 𝖧𝖠𝖦𝖮 𝖠𝖢𝖱𝖨́𝖫𝖨𝖢𝖠𝖲 ¡𝖠𝗀𝖾𝗇𝖽𝖺 𝗍𝗎 𝗁𝗈𝗋𝖺 𝖺𝗊𝗎𝗂́!📆👇🏻
     location: "Chile"
-    followers: 38767
-    engagement: 115
-    commentsToLikes: 0.024911
-    id: ck5zuccpx23a90i14hk5v9bs4
+    followers: 57914
+    engagement: 388
+    commentsToLikes: 0.182075
+    id: ck5cc37gkgmnw0i11orm4yxr9
     verified: false
-    hashtags: "#photooftheday, #studiophotography, #model, #chile"
+    hashtags: "#santiago, #naildesigns, #naildesign, #nailaddicted"
+  - username: "jennylorenamakeup"
+    fullname: >-
+      Jenny Cordova Orellana
+    bio: >-
+      •𝘔𝘢𝘲𝘶𝘪𝘭𝘭𝘢𝘥𝘰𝘳𝘢 •𝘔𝘢𝘯𝘪𝘤𝘶𝘳𝘪𝘴𝘵𝘢 •𝘌𝘴𝘵𝘦𝘵𝘪𝘤𝘪𝘴𝘵𝘢 𝘐𝘯𝘵𝘦𝘨𝘳𝘢𝘭 •𝘋𝘪𝘴𝘦𝘯̃𝘢𝘥𝘰𝘳𝘢 𝘤𝘢𝘱𝘪𝘭𝘢𝘳 •𝘔𝘢𝘲𝘶𝘪𝘭𝘭𝘢𝘫𝘦 𝘤𝘰𝘯 𝘢𝘦𝘳𝘰𝘨𝘳𝘢𝘧𝘰 . 📲 ᴊᴇɴɴʏʟᴏʀᴇɴᴀ.ᴄᴏ@ɢᴍᴀɪʟ.ᴄᴏᴍ
+    location: "Chile"
+    followers: 27358
+    engagement: 23
+    commentsToLikes: 0.047673
+    id: ck6ti6a1b049c0j71uhgkd9q5
+    verified: false
+    hashtags: "#manicureadomicilio, #lifting, #esmaltepermanente, #limpiezafacial"
   - username: "angielistica"
     fullname: >-
-      ✧ a n g i e ✧
+      ✧ a n g i e
     bio: >-
-      abogada • make up artist ♡ #crueltyfree • vegetariana ♡ pr: angielistica@gmail.com
+      SCL📍 abogada | make up artist #crueltyfree 🐰 | vegetariana 🥑 💌 PR/contacto: angielistica@gmail.com
     location: "Chile"
-    followers: 20425
-    engagement: 1279
-    commentsToLikes: 0.131540
+    followers: 19595
+    engagement: 1343
+    commentsToLikes: 0.134709
     id: ck5zyem3c9qsw0i14p6g8wtvd
     verified: false
-    hashtags: "#motd, #instachile, #maquillaje, #fadeintohue"
-  - username: "coteemiller"
-    fullname: >-
-      C O T E E    M I L L E R
-    bio: >-
-      👠Drag Queen 💄Makeup Artist 💋@houseofhookers 🕷@thehouseofaddams 💅🏻 Nails by @exenails 📍Chile 🇨🇱 📌DM - coteemiller@gmail.com
-    location: "Chile"
-    followers: 16872
-    engagement: 849
-    commentsToLikes: 0.033488
-    id: ck5zjc9qfhc4j0i14aiigi9rh
-    verified: false
-    hashtags: "#makeupideas, #mua, #rpdr, #fashion"
+    hashtags: "#fyp, #nyxcosmeticschile, #eyelook, #nailart"
   - username: "fabi._.hyung"
     fullname: >-
       FABI 파비안!
@@ -79,30 +79,18 @@ profiles:
     id: ck55pbj36a7yi0i119wr9bffa
     verified: false
     hashtags: "#byartemua"
-  - username: "eri.ur"
-    fullname: >-
-      Erika Urzúa
-    bio: >-
-      @urzuashopping Embajadora @sheinofficial #erikiki5👈🏼 #shein#sheingals Publicidad al DM 📲
-    location: "Chile"
-    followers: 42502
-    engagement: 650
-    commentsToLikes: 0.018088
-    id: ck9hcp7s5mfoa0j78fzc4mnpv
-    verified: false
-    hashtags: "#instagood, #style, #photo, #lashes"
   - username: "deshilachada"
     fullname: >-
       Deshilachada, taller y bordado
     bio: >-
       ✨ Bordo los jardines de mi alma 👩🏼‍⚕️ Interna de Medicina y bordadora 🧵 #KitDeshilachada y pronto workshops online 🌎 CL
     location: "Chile"
-    followers: 19246
-    engagement: 382
-    commentsToLikes: 0.039056
+    followers: 18985
+    engagement: 350
+    commentsToLikes: 0.043107
     id: ck13cqd8j1nil0i19ir71crka
     verified: false
-    hashtags: "#artistsoninstagram, #bordado, #chile, #handmade"
+    hashtags: "#plantlady, #embroideryartist, #bordadocontemporaneo, #santiago"
   - username: "thenaildesigner.cl"
     fullname: >-
       Francesca C 🎀 / Nail Designer✨

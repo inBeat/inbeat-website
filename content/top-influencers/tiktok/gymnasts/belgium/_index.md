@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In Belgium In 2023
+title: Top 10 Gymnasts TikTok Influencers In Belgium In 2024
 description: >-
-  Find top gymnasts TikTok influencers in Belgium in 2023. Most popular hashtags: #foryou #fyp #foryoupage #gymnastics.
+  Find top gymnasts TikTok influencers in Belgium in 2024. Most popular hashtags: #foryou #fyp #foryoupage #gymnastics.
 platform: TikTok
 hits: 8
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our platform holds 8 TikTok influencers like this in Belgium for you to collaborate.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our platform has 8 TikTok influencers like this in Belgium for you to pitch.
 profiles:
   - username: "maarten_gymnastics"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.010766
     id: ckbezjoi2koo70j23sloddxyz
     verified: false
-    hashtags: "#foryoupage, #sugarcrash, #flips, #tumbling"
+    hashtags: "#foryoupage, #challenges, #brussel, #public"
   - username: "xmichellex_2007"
     fullname: >-
       :))
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.013592
     id: ck9envenel3jf0j78cpurxxqe
     verified: false
-    hashtags: "#outfits, #fyp, #foryou, #ninaricciparfums"
+    hashtags: "#fyp, #foryou, #outfits, #ninarose"
   - username: "julie_michiels"
     fullname: >-
       JulieMichiels

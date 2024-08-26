@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In London In 2023
+title: Top 10 Food TikTok Influencers In London In 2024
 description: >-
-  Find top food TikTok influencers in London in 2023. Most popular hashtags: #london #fyp #food #viral.
+  Find top food TikTok influencers in London in 2024. Most popular hashtags: #fyp #london #food #foryoupage.
 platform: TikTok
-hits: 110
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: inBeat holds 110 TikTok influencers like this in London, United Kingdom for you to collaborate.
+hits: 108
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 108 TikTok influencers like this in London, United Kingdom for you to work with.
 profiles:
   - username: "londonseen_"
     fullname: >-
@@ -79,18 +79,6 @@ profiles:
     id: ckb0px50afr1g0j23bb94x9gx
     verified: false
     hashtags: "#marvel, #mindset, #exams2021, #fifa21packs"
-  - username: "hispassport"
-    fullname: >-
-      Han Zhao
-    bio: >-
-      London 🏳️‍🌈 Instagram: @hispassport
-    location: "United Kingdom"
-    followers: 3759
-    engagement: 1034
-    commentsToLikes: 0.029777
-    id: ckbkuldtwpr100j23o0bpu8iz
-    verified: false
-    hashtags: "#fypage, #catbug, #kitty, #london"
   - username: "maaaa_digger"
     fullname: >-
       Maaaa_Digger
@@ -127,4 +115,16 @@ profiles:
     id: cka0xdnq16oq70i78kd4tb1cl
     verified: false
     hashtags: "#desserts, #foodblogger, #londonblogger, #foodphotographer"
+  - username: "jojoslipzz_"
+    fullname: >-
+      !JѲJѲ! ®
+    bio: >-
+      London📍🇬🇧 @instagram Ambassador PR Enquiries: jojoslipzz@gmail.com
+    location: "United Kingdom"
+    followers: 47200
+    engagement: 1589
+    commentsToLikes: 0.026109
+    id: ckbqdvfvhzrm80j23kshq3qz3
+    verified: false
+    hashtags: "#vegan, #london, #weightlosstransformation, #weightlossprogress"
 ---

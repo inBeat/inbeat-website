@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In United Kingdom In 2023
+title: Top 10 Health TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top health TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #mentalhealthmatters #foryoupage #britsmover.
+  Find top health TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #mentalhealthmatters #foryou #duet.
 platform: TikTok
-hits: 415
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 415 TikTok influencers like this in United Kingdom for you to collaborate.
+hits: 420
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform has 420 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
   - username: "rhiebelle"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ckb17cmpnuxqa0j23dfcy0jm2
     verified: false
     hashtags: "#mumsoftiktok, #lol, #lols, #fy"
+  - username: "rmfisky"
+    fullname: >-
+      RMFisky
+    bio: >-
+      🦋 Positivity respect trust 🦋 Mental health awareness
+    location: "United Kingdom"
+    followers: 40500
+    engagement: 1962
+    commentsToLikes: 0.406846
+    id: cka6o4pa5e3np0i78z7w506vf
+    verified: false
+    hashtags: "#foryou, #fyp, #rmfisky, #standuptobullies"
   - username: "annabell.michie"
     fullname: >-
       Annabell
@@ -115,16 +127,4 @@ profiles:
     id: ck8tsevn3rava0j78p66zdiry
     verified: false
     hashtags: "#strength, #gaygirl, #pov, #recovery"
-  - username: "itismexoxo"
-    fullname: >-
-      jess
-    bio: >-
-      Mum to 4 and 18 angels Mental health matters Adhd Lbgt ❤🧡💛💚💙
-    location: "United Kingdom"
-    followers: 11000
-    engagement: 1285
-    commentsToLikes: 0.101405
-    id: ckamtduxnua5p0i78s5u299js
-    verified: false
-    hashtags: "#draftvideo, #fyp, #foryoupage, #mentalhealthmatters"
 ---

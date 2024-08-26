@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Japan In 2023
+title: Top 10 Travel Instagram Influencers In Japan In 2024
 description: >-
-  Find top travel Instagram influencers in Japan in 2023. Most popular hashtags: #japan #tokyo #travelphotography #instatravel.
+  Find top travel Instagram influencers in Japan in 2024. Most popular hashtags: #japan #tokyo #japantravel #pr.
 platform: Instagram
-hits: 487
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 487 Instagram influencers like this in Japan for you to work with.
+hits: 544
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 544 Instagram influencers like this in Japan for you to pitch.
 profiles:
-  - username: "yuki.linuma"
+  - username: "kimdaoblog"
     fullname: >-
-      Flight Attendant ❄️ Yuki
+      Kim Dao
     bio: >-
-      Japanese 🇯🇵 Cabin crew at Finnair 🇫🇮 ✈︎ #crewlife | #travel | #finland | @feelfinnair
+      Lifestyle | Japan Travel Guide 🇯🇵 📍 Tokyo, JP Sony Digital Imaging Ambassador YT: KimDao 780K | KimDaoVlog 170K | KimDaoGame 170K 📧 kimdao90@gmail.com
     location: "Japan"
-    followers: 11145
-    engagement: 1437
-    commentsToLikes: 0.085936
-    id: ck0w1byh4ikxz0i1989vkx98w
+    followers: 171454
+    engagement: 757
+    commentsToLikes: 0.015006
+    id: ck1373xue9ni40i19n75j7k3q
     verified: false
-    hashtags: "#cabincrewdayoff, #instatravel, #cabincrewlife, #igtravel"
-  - username: "professioneviaggiatore"
+    hashtags: "#japantraveltips, #tokyo, #japan, #tokyotravelguide"
+  - username: "officialmissneko"
     fullname: >-
-      🌎 LORENZO | WORLD TRAVELER ✈︎
+      Miss Neko
     bio: >-
-      🇮🇹30yo, Travel Lover✈️🌎 🌎 45 Countries and Counting // 5 Continents 🗺 🔚 Argentina 🇦🇷, Japan 🇯🇵, Peru🇵🇪, 🔜 ??????
+      I'm Johanna 🌸 Japanese fashion 🌸 kawaii culture 🌸 travel 🌎 🌸 大学卒✨日本語OK🇯🇵 my teacup Pom 🐶: @himaripom 🇩🇪->🇯🇵(1 year)->🇺🇸 L.A. 🏝
     location: "Japan"
-    followers: 7694
-    engagement: 1104
-    commentsToLikes: 0.159027
-    id: ck5zry0atxgod0i147lgkqmbg
+    followers: 16862
+    engagement: 497
+    commentsToLikes: 0.030662
+    id: cl5jb4nvz7hyq0i230znyrrph
     verified: false
-    hashtags: "#ig, #passionpassport, #lonelyplanet, #travel"
-  - username: "jackiemcrae_xo"
+    hashtags: "#polylove, #polyamorous, #mymelody, #cosplaygirl"
+  - username: "shingo_gokan"
     fullname: >-
-      Jackie McRae 🌸Haruko🌸 Eurasian
+      Shingo Gokan
     bio: >-
-      Japanese/Scottish mix Canadian Model SRQ FL📍 🌿Spot6 - Toronto 🌱Urbn - Milan 🌱Quest - Hong Kong 🌱Chic models - Bangkok Traveling the world ✈️🐳🐬🐠🌴🥥 RU
+      World Travel Bartender 🌏 Founder of SG group🌅 5 World’s/ Asia’s 50 Best & 5 new bars🍸 Tokyo🗼Shanghai 🐉 NYC🗽Okinawa 🏝️ @thesgshochu @kokuto_de_lequio
     location: "Japan"
-    followers: 25561
-    engagement: 215
-    commentsToLikes: 0.068419
-    id: ck6tr4qkfwx4k0j71vbwk3xc6
+    followers: 23379
+    engagement: 477
+    commentsToLikes: 0.018001
+    id: ck0u9h8vj9tx70i19if63016o
     verified: false
-    hashtags: ""
-  - username: "a.asuka.a"
+    hashtags: "#sggroup, #sgcs, #sg, #thesgclub"
+  - username: "ayane7628"
     fullname: >-
-      asuka | Freelance Model
+      Ayane Motomitsu
     bio: >-
-      Osaka | Japan Beauty💄Fashion👗Travel🌍 155cmコーデ 撮影等お仕事依頼はDM💌にお願い致します💕
+      ※無断転載厳禁 🗼絶景好きフォトグラファー / Tokyo / Fukuoka 📸Photoshoper / Tiktoker / Traveler 📸WPC国際フォトコン日本代表 📸Sony α7Ⅳ, iPhone15pro Max Adobeエバンジェリスト アメリカキャンピングカー横断
     location: "Japan"
-    followers: 39010
-    engagement: 287
-    commentsToLikes: 0.059405
-    id: ck5hiace7cgwh0i11o7iuh993
+    followers: 349570
+    engagement: 2040
+    commentsToLikes: 0.005278
+    id: ck14h9hb397jz0i1983ajeuzh
     verified: false
-    hashtags: "#kuih, #kuihst, #locari, #ac"
-  - username: "_icyphoto_"
+    hashtags: "#igersjp, #sakura, #japan, #photo"
+  - username: "bunnytokyo"
     fullname: >-
-      Photographer in Tokyo ジュリア
+      Elsa Arribas | @Bunnytokyo
     bio: >-
-      Julia • 🇷🇺🇪🇸🇧🇷🇬🇧 Moscow ➡️ Rio de Janeiro ➡️ Barcelona ➡️ 📍Tokyo • #sonya7riii • Travel photos @_icyphotos_ Youtube channel ⬇️
+      Daily TOKYO Hidden Gems, JAPAN travel tips and ANIME-infused things to do!📍Tokyo based since 2016 🚫DO NOT REPOST ↓ Custom 🇯🇵 Travel Itineraries ✈️🗾 ↓
     location: "Japan"
-    followers: 21998
-    engagement: 981
-    commentsToLikes: 0.023427
-    id: ck5c1kyiive4i0i11svbdfe22
+    followers: 217097
+    engagement: 418
+    commentsToLikes: 0.047365
+    id: ck0u1whf9y9dm0i19fleklet4
     verified: false
-    hashtags: "#sonyalphasclub, #portraitinspiration, #portraitgames, #portrait"
-  - username: "constanceowoyomi"
+    hashtags: "#tokyotrip, #japantrip, #animeinreallife, #animelife"
+  - username: "amrgnd"
     fullname: >-
-      Constance Owoyomi
+      Amar GND
     bio: >-
-      Media Personality || Entrepreneur Mimi on Tinsel Face of Ur Brand Live || Love || Travel Spread love, laughter & money making ideas 😉
+      📍Paris 💚Japan🎌 ♾️Dancer | Photographer | Traveler Portraits @soulsbyamar 📩DM for photo sessions 🖼️Prints available DM 📷© @lumix_france
     location: "Japan"
-    followers: 61207
-    engagement: 189
-    commentsToLikes: 0.089596
-    id: ck0w27a20mxzw0i19zcn7wu82
+    followers: 10061
+    engagement: 468
+    commentsToLikes: 0.035341
+    id: ck8t1xh71xfof0j78cw7efuwt
     verified: false
-    hashtags: "#dress, #happybirthday, #tgif, #taurusqueen"
-  - username: "sorafujiki"
+    hashtags: "#blancnoir2, #paris, #lumixfr, #bcncollective"
+  - username: "milez728"
     fullname: >-
-      Sora Fujiki
+      青山舞莉　MILEY AOYAMA
     bio: >-
-      🌴love… #travel ✈️ #小説 #グルメ 🍖 JPN／model ／producer 🐝💓 #youtube 藤木そらのSoraチャンネル 🎬 DJ🎧💓 #tiktok Sorafujiki 【お仕事依頼はDMに📨✨】 🌺1st写真集 #Sorafujiki 絶賛発売中🌞1553
+      tokyo & traveling travel fashion makeup waseda お仕事 info@qualiam.com 🇯🇵🇮🇩🇸🇬🇺🇸 @mile_official__ 月1海外旅行に行く人
     location: "Japan"
-    followers: 119596
-    engagement: 190
-    commentsToLikes: 0.069757
-    id: ck5zzy2necm4z0i14cte74fbm
+    followers: 45914
+    engagement: 430
+    commentsToLikes: 0.001633
+    id: ck8t7wy4ti8x70j78cxqlaynx
     verified: false
-    hashtags: "#sexygirsls, #selectshop, #sexynavel, #youtuber"
-  - username: "snow122_golf"
+    hashtags: "#pr, #lovebonito, #gu, #murua"
+  - username: "tiffanytchen"
     fullname: >-
-      YUKI♡GOLF
+      Tiffany Chen
     bio: >-
-      Golf Life🏌️‍♀️ ゴルフバイヤー🇯🇵 Golf⛳️ Baseball⚾️ Travel✈️﻿ いつかマスターズ観戦したい🇺🇸
+      🌴 los angeles based traveling the world rn 🌎 collabs 💌 tiffanychenbiz@gmail.com
     location: "Japan"
-    followers: 13524
-    engagement: 814
-    commentsToLikes: 0.051857
-    id: ck9hbimwmgzuj0j78mwp9z1f3
+    followers: 442042
+    engagement: 786
+    commentsToLikes: 0.016600
+    id: ckxp7y9s0a1ve0j2311q3dhff
     verified: false
-    hashtags: "#sports, #golfswing, #me, #golfcourse"
-  - username: "keimizutani0507"
+    hashtags: "#tokyo, #japan, #macau, #costco"
+  - username: "oliverroggisch"
     fullname: >-
-      水谷 ケイ
+      Oliver Roggisch
     bio: >-
-      💎個人ブログ💎 @Japanese actress 🇯🇵 ✨🗼Japan Tokyo🗼✨ * travel✈️gourmet🍽 onsen♨️beauty💄etc…… 日々の生活をのんびり 更新しております💁‍♀️💕💕 * ⚠️時折🔐⇒close‼︎ 掛ける事もございます🙇‍♀️💦
+      Handball 🤾‍♂️ / Scuba Diving 🦈/ Japanese Koi 🇯🇵 / Travelling and Underwater Photographer 🐋 happiness is a choice ♥️
     location: "Japan"
-    followers: 6007
-    engagement: 1053
-    commentsToLikes: 0.061504
-    id: ckf5sz658ghvr0j23cx9miyjy
-    verified: false
-    hashtags: "#japanesefood, #delicious, #sengokubara, #japan"
-  - username: "sheneller"
+    followers: 51164
+    engagement: 304
+    commentsToLikes: 0.013192
+    id: ck15rt5ti9kor0i190f5kq3eb
+    verified: true
+    hashtags: "#gameday, #nigrineffekt, #wirihralle, #aufgehtsjungs"
+  - username: "kunichi_nomura"
     fullname: >-
-      Shenelle Rodrigo
+      Kunichi Nomura 野村訓市
     bio: >-
-      🏝Sri Lankan 🇱🇰 📸Travel Content Creator 💄Model @themodelatelier | Vogue India Cover ‘16 🎥 👇🏽👇🏽👇🏽Ancient city of Anuradhapura
+      Editor,writer, designer, radio DJ& tripster. www.breakfastclubtokyo.com www.j-wave.co.jp/original/travelling
     location: "Japan"
-    followers: 31334
-    engagement: 456
-    commentsToLikes: 0.040082
-    id: ck0uc656ig6il0i19evov66u5
+    followers: 209708
+    engagement: 305
+    commentsToLikes: 0.005155
+    id: ck0u6udag33hg0i19y4z7dc8p
     verified: false
-    hashtags: "#sheneller, #sonya7iii, #pinktrotters, #srilanka2021"
+    hashtags: "#nikecraftweartester, #nospringbreakers, #travellingwithoutmoving, #lovefrom"
 ---

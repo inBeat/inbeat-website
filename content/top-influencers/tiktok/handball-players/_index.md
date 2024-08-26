@@ -1,11 +1,11 @@
 ---
-title: Top 10 Handball Players TikTok Influencers In 2023
+title: Top 10 Handball Players TikTok Influencers In 2024
 description: >-
-  Find top handball players TikTok influencers in 2023. Most popular hashtags: #handball #handballplayers #handballworld #fyp.
+  Find top handball players TikTok influencers in 2024. Most popular hashtags: #handball #handballplayers #handballworld #fyp.
 platform: TikTok
 hits: 7
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our platform has 7 TikTok influencers like this for you to pitch.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 7 TikTok influencers like this for you to pitch.
 profiles:
   - username: "naveensingh0033"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.013609
     id: ck98qtvrs7l2o0j789j33q3z7
     verified: false
-    hashtags: "#fyp, #twins, #netherlands, #fy"
+    hashtags: "#twins, #fyp, #netherlands, #fy"
   - username: "rockyahlawat9081"
     fullname: >-
       Rocky Ahlawat

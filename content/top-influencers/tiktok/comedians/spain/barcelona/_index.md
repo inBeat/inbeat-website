@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Barcelona In 2023
+title: Top 10 Comedians TikTok Influencers In Barcelona In 2024
 description: >-
-  Find top comedians TikTok influencers in Barcelona in 2023. Most popular hashtags: #comedia #parati #humor #fyp.
+  Find top comedians TikTok influencers in Barcelona in 2024. Most popular hashtags: #comedia #parati #humor #fyp.
 platform: TikTok
 hits: 24
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our platform holds 24 TikTok influencers like this in Barcelona, Spain for you to pitch.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 24 TikTok influencers like this in Barcelona, Spain for you to work with.
 profiles:
   - username: "ihorofficial"
     fullname: >-

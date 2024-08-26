@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Poland In 2023
+title: Top 10 Music TikTok Influencers In Poland In 2024
 description: >-
-  Find top music TikTok influencers in Poland in 2023. Most popular hashtags: #music #dlaciebie #foryou #tiktok.
+  Find top music TikTok influencers in Poland in 2024. Most popular hashtags: #music #dlaciebie #foryou #tiktok.
 platform: TikTok
-hits: 103
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 103 TikTok influencers like this in Poland for you to work with.
+hits: 102
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat holds 102 TikTok influencers like this in Poland for you to contact.
 profiles:
   - username: "hudziu"
     fullname: >-
@@ -91,18 +91,18 @@ profiles:
     id: ckb9jxor9bex20j237tw8lb53
     verified: false
     hashtags: "#blinkeecity, #toptiktok, #hulajnoga, #beer"
-  - username: "blondino_latino"
+  - username: "sanderkaem"
     fullname: >-
-      blondino_latino
+      Janosklife
     bio: >-
-      Instagram➡️ BLONDINO_LATINO AKTYWNOSC NA IG 🕵️ Music Is My Religion ☀️🎙
+      -covers🎙 22🙇🏽‍♀️ Ig: janosklife
     location: "Poland"
-    followers: 272400
-    engagement: 827
-    commentsToLikes: 0.009896
-    id: ck9c65fljqxjp0j783vv3815h
+    followers: 14700
+    engagement: 1480
+    commentsToLikes: 0.044130
+    id: cka7ojtmd2v9d0i78xpdy9xr7
     verified: false
-    hashtags: "#dlaciebie, #smieszne, #viral, #fyp"
+    hashtags: "#arianators, #ag, #arianagrande, #cover"
   - username: "diugcello"
     fullname: >-
       Janek Diug

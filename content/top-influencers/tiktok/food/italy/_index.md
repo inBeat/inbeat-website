@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Italy In 2023
+title: Top 10 Food TikTok Influencers In Italy In 2024
 description: >-
-  Find top food TikTok influencers in Italy in 2023. Most popular hashtags: #perte #food #neiperte #foodporn.
+  Find top food TikTok influencers in Italy in 2024. Most popular hashtags: #perte #food #foryou #foodporn.
 platform: TikTok
 hits: 231
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: inBeat has 231 TikTok influencers like this in Italy for you to pitch.
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 231 TikTok influencers like this in Italy for you to contact.
 profiles:
   - username: "tortaoragione"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.009471
     id: ckbwg0r3q29ek0j23scerxa7y
     verified: false
-    hashtags: "#imparacontiktok, #tiktokitaliafood, #tiramisuchallenge, #losapevi"
+    hashtags: "#tiramisuchallenge, #tiktokitaliafood, #losapevi, #imparacontiktok"
   - username: "foodmeal"
     fullname: >-
       foodporn
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.010738
     id: ck8vx6henqbnw0j78ctalf8mx
     verified: false
-    hashtags: "#follow, #foryou, #neiperte, #likes"
+    hashtags: "#foryou, #pistacchio, #food, #nutella"
   - username: "festfood"
     fullname: >-
       foodporn
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.009841
     id: ck92xosu1zjd70j78jp5i3r6t
     verified: false
-    hashtags: "#like, #italia, #delicious, #ita"
+    hashtags: "#viral, #italia, #foodies, #delicious"
   - username: "italyfoodprn"
     fullname: >-
       italyfoodprn

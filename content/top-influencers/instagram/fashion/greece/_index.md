@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Greece In 2023
+title: Top 10 Fashion Instagram Influencers In Greece In 2024
 description: >-
-  Find top fashion Instagram influencers in Greece in 2023. Most popular hashtags: #greece #fashion #travel #beauty.
+  Find top fashion Instagram influencers in Greece in 2024. Most popular hashtags: #giveaway #greece #giveawaygreece #momlife.
 platform: Instagram
-hits: 318
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 318 Instagram influencers like this in Greece for you to connect with.
+hits: 389
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 389 Instagram influencers like this in Greece for you to connect with.
 profiles:
-  - username: "kalli_albn"
+  - username: "marinelliofficial"
     fullname: >-
-      🎀 KᗩᒪᒪI  ᗩᒪᗷᗩᑎI 🎀
+      Marina Polyzou - Marinelli
     bio: >-
-      🦄• Don’t be like the rest of them! Stay in your magic• 💌 Dm for Collabs 📌 Fashion•Beauty•Lifestyle 🌏 Welcome to my Blondeworld
+      Beauty ∣ Fashion ∣ Lifestyle 💍Happy wife 👼🏼Mommy of a prince 📍Athens, Greece 📧marinellipolyzou@gmail.com ⬇️My Youtube channel
     location: "Greece"
-    followers: 16566
-    engagement: 1211
-    commentsToLikes: 0.432470
-    id: ckap4zjlr9ijt0i78gbttbmz9
+    followers: 53199
+    engagement: 459
+    commentsToLikes: 0.158654
+    id: ck8t2dx7pz4ab0j78sz3g82tq
     verified: false
-    hashtags: "#sea, #jewelry, #ootd, #eyeshadow"
-  - username: "eleniintokou"
+    hashtags: "#love, #styleblogger, #youtuber, #instacute"
+  - username: "kingedna_"
     fullname: >-
-      E L E N I   N T O K O U
+      E D N A ✨
     bio: >-
-      🤍Fashion | Beauty | Travel | Lifestyle 👗How to Style? Here’s the Answer! ✨Follow my Journey 👼🏻Mummy
+      • Fashion Designer • Makeup artist • Founder of @adnasapparel
     location: "Greece"
-    followers: 58573
-    engagement: 466
-    commentsToLikes: 0.345532
-    id: ck55p8vfza23m0i11qxi8jb4k
+    followers: 257376
+    engagement: 465
+    commentsToLikes: 0.007061
+    id: ck5qcen67q6ta0i11qctvihs1
     verified: false
-    hashtags: "#parosisland, #paros, #parosgreece, #greekislands"
-  - username: "vivian_finou"
+    hashtags: "#eidmubarak"
+  - username: "iasens"
     fullname: >-
-      Vivian Finou
+      Iasen Savov
     bio: >-
-      ▪️Sociologist ▪️Lifestyle/travel/fashion blogger @timeforcoffee.gr ▪️Digital marketing manager @giveit.gr vifinou@gmail.com for collaboration
+      🥇Best travel influencer 2022-2023 from WIBA 100 + destinations 🥇Influencer Award 2022 Bulgarian-Turkish relations in tourism 🔻TRAVEL🔻Lifestyle🔻Fashion
     location: "Greece"
-    followers: 27622
-    engagement: 603
-    commentsToLikes: 0.429457
-    id: ck6u2r2r4tfnz0j716j73qfq2
+    followers: 722978
+    engagement: 753
+    commentsToLikes: 0.004859
+    id: ck55my9u3536u0i11mum6ibtl
     verified: false
-    hashtags: "#lovesea, #igersparis, #travel, #grgiveaway"
-  - username: "oannapopa_"
+    hashtags: "#ribarica, #thermebucuresti, #iasens, #yourhomeinlozenets"
+  - username: "sakiskats"
     fullname: >-
-      Oanna Travel Fashion Lifestyle
+      Sakis Katsoulis
     bio: >-
-      Welcome to my daily life 👑fashion 🌎traveler ♐️lifestyle 📍Greece Oanna300@gmail.com
+      🔹Survivor Winner 2021 🥇🏆 🔹Survivor All Star Winner 2023 🏆 🔹Co-owner @invoid_spa 🧖🏽 & @invoid_fashion_store 👖& @sempre_coffee_cocktail_bar ☕️ @voom_gr
     location: "Greece"
-    followers: 50268
-    engagement: 324
-    commentsToLikes: 0.622608
-    id: ck55p8unwa2290i11tbfvp2ab
+    followers: 273165
+    engagement: 981
+    commentsToLikes: 0.099956
+    id: ck5zkgclvjfj50i14x7wj84v3
     verified: false
-    hashtags: "#giveawaygreece, #greekblogger, #greekfashion, #traveltheworld"
-  - username: "gerganaiilieva"
+    hashtags: "#travel, #greek, #insta, #ad"
+  - username: "pi_hbp"
     fullname: >-
-      Gergana Ilieva 🌸
+      P   I   N   A   R
     bio: >-
-      •Travel, lifestyle & fashion content creator• Featured on billboards & city ads in #Denmark and #Sweden ❣️📸 🌸 With love, Gergana 🌸
+      Mother of Three Masterpieces Fashion | Beauty | lifestyle Greece📍| DM for Collabs 📩
     location: "Greece"
-    followers: 21797
-    engagement: 263
-    commentsToLikes: 0.040414
-    id: ck13cpcri1i780i19a5xlczo8
+    followers: 22922
+    engagement: 419
+    commentsToLikes: 0.379631
+    id: ck5q403u1n5eq0i112ipr5mor
     verified: false
-    hashtags: "#dubai, #travelgirl, #romeitaly, #passionpassport"
-  - username: "alexiamantzari"
+    hashtags: "#son, #fashion, #alouette, #momlifebelike"
+  - username: "angelinaandantonis"
     fullname: >-
-      Alèxia  Màntzari ✨
+      Angelina & Antonis Antoniou
     bio: >-
-      Fashion • Beauty • Lifestyle A Corfiot ⚜️ who’s living in Athens For collabs DM
+      Fashion | Travel | Luxury Hotels ♡ Unapologetically dedicated to sharing unique experiences with you 𖡡 Cyprus / Athens
     location: "Greece"
-    followers: 16142
-    engagement: 951
-    commentsToLikes: 0.105262
-    id: ckap7zx6dm8l40i785nlosvyu
+    followers: 107074
+    engagement: 574
+    commentsToLikes: 0.000921
+    id: ck8tb3s9cu5ix0j7886hm5myt
     verified: false
-    hashtags: "#greekgiveaway, #blessed, #espressoyourlife, #fashion"
-  - username: "monetasss"
+    hashtags: "#canadawinter, #sleepwithwolves, #dodopizza, #sanpellegrinocyprus"
+  - username: "littlethings.sweetlife"
     fullname: >-
-      moneta zumba
+      𝐀𝐧𝐠𝐞𝐥𝐢𝐤𝐢
     bio: >-
-      I could be anywhere💙❤#lifestyle#woman#fashion#model #Photographer#Traveler#world#sports#plates#zumbainstructor#agricultural engineer#travelphotography
+      @avg.angel ✿ It’s our #LittleThingsSweetLife ✿ mama @amelia.su4 +Amira & wife @hykman2002 ✿ motherhood, home decor, fashion, lifestyle & holiday lover
     location: "Greece"
-    followers: 4578
-    engagement: 2308
-    commentsToLikes: 0.156367
-    id: ckap25faqxg9t0i78vz6cndj5
+    followers: 27997
+    engagement: 510
+    commentsToLikes: 0.515550
+    id: ck8t9e9xfnrsd0j78p1qa2xn5
     verified: false
-    hashtags: "#igdaily, #follow, #summer, #picoftheday"
-  - username: "vzondo"
+    hashtags: "#bdaykids, #staytuned, #diagonismos, #tothemoonandback"
+  - username: "toufarovapavla"
     fullname: >-
-      Nvee
+      Pavla Toufarová
     bio: >-
-      Fashion models Milan , faith models Capetown .snapchat vzondo
+      💙 #myboys 🏒👶 Jakub & Jan 👶 🏒 Love my #family #work Enjoying #life #travelling #food #fashion #music #movies Brand Manager @medicomclinic
     location: "Greece"
-    followers: 12460
-    engagement: 730
-    commentsToLikes: 0.092741
-    id: ck6ufu9ynz61i0j71kksr4v2p
+    followers: 40271
+    engagement: 390
+    commentsToLikes: 0.008993
+    id: ck6u5zqy5cpee0j71zueffdj1
     verified: false
-    hashtags: "#cannes2019, #mfw, #tb, #quarantinelife"
-  - username: "christinazafeiriou"
+    hashtags: "#myboys, #vacayvibes, #abudhabi, #beachlife"
+  - username: "dorisliapata"
     fullname: >-
-      Christine Zafeiriou
+      Doris ❣️
     bio: >-
-      Every great dream begins with a dreamer✨🌟✨ 🇬🇷🇺🇸Fashion designer/owner of @christinazafeirioucouture
+      • Fashion addicted ZARA🌪 📍Athens Greece
     location: "Greece"
-    followers: 70802
-    engagement: 553
-    commentsToLikes: 0.030897
-    id: ck15rgc1c7sjn0i19509bxf6e
+    followers: 34742
+    engagement: 376
+    commentsToLikes: 0.008977
+    id: ck8sxeoioh4h20j78fwnnz0tb
     verified: false
-    hashtags: "#quarantinelife, #stayhome, #staysafe, #xmastree"
-  - username: "miaevgeniadi"
+    hashtags: "#eponymousview, #ralphandrusso, #instalifo, #mycosmolook"
+  - username: "george_asimakopoulos"
     fullname: >-
-      Miamorethananasana
+      George Asimakopoulos
     bio: >-
-      200h ryt yoga instructor Pole athlete Fashion expert
+      🇬🇷🇨🇦 FASHION DESIGNER Co Owner @sandy_kosta FASHION BOUTIQUES GLYFADA • KIFISIA • MYKONOS @survivorgreece 2021 - 2023 🌴🥥
     location: "Greece"
-    followers: 29675
-    engagement: 675
-    commentsToLikes: 0.120127
-    id: ckap6tioshczs0i78os1gj7ns
+    followers: 287204
+    engagement: 350
+    commentsToLikes: 0.007589
+    id: ckap25wp3xibh0i78sp2rzyb6
     verified: false
-    hashtags: "#likeforlike, #instamood, #traveltheworld, #motd"
+    hashtags: "#vibes, #greece, #mykonos, #santorini"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Runners Instagram Influencers In South Korea In 2023
+title: Top 10 Runners Instagram Influencers In South Korea In 2024
 description: >-
-  Find top runners Instagram influencers in South Korea in 2023. Most popular hashtags: #trailrunning #running #workout #runner.
+  Find top runners Instagram influencers in South Korea in 2024. Most popular hashtags: #runner #running #workout #trailrunning.
 platform: Instagram
-hits: 10
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat has 10 Instagram influencers like this in South Korea for you to collaborate.
+hits: 11
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 11 Instagram influencers like this in South Korea for you to contact.
 profiles:
   - username: "bibisister_j"
     fullname: >-
@@ -47,14 +47,38 @@ profiles:
     fullname: >-
       ᴍɪɴᴊᴜɴɢ ᴋɪᴍ
     bio: >-
-      #ʀᴏᴄᴋᴍᴀɴ ▫️ @nanux_networks ▫️ @blacksheepcycling_kor ▫️ @melkinsports [공식 멜키너 1기]
+      #ʀᴏᴄᴋᴍᴀɴ
     location: "South Korea"
-    followers: 54281
-    engagement: 319
-    commentsToLikes: 0.015607
+    followers: 60272
+    engagement: 165
+    commentsToLikes: 0.019648
     id: ck0ubfxzheibp0i191gjzjxnd
     verified: false
-    hashtags: "#nanux, #selfie, #blacksheepcycling, #roadbike"
+    hashtags: "#selfie, #run, #runner, #cyclingskinsuit"
+  - username: "kimmongmong"
+    fullname: >-
+      김몽이
+    bio: >-
+      본격 건강해지기 프로젝트🇰🇷 꾸준함이 답이다. #맽랜드 @themattland 라는 브랜드를 만듦
+    location: "South Korea"
+    followers: 63585
+    engagement: 218
+    commentsToLikes: 0.011691
+    id: ck6uidthuei4b0j718nm9fqqo
+    verified: false
+    hashtags: "#cycling, #bye, #running, #riding"
+  - username: "totoolike"
+    fullname: >-
+      러닝전도사 안정은 🇰🇷
+    bio: >-
+      𝟭𝟬𝟬𝗠𝗶𝗹𝗲𝘀 & 𝟮𝟱𝟬𝗞 𝗙𝗶𝗻𝗶𝘀𝗵𝗲𝗿🏅 & #sixstarfinisher 🏃🏻‍♀️ ⠀ 𝐂𝐨 @runderful_official 𝐂𝐫𝐞𝐰 @topgirls_crew 𝐁𝐚𝐤𝐞𝐫𝐲 @dalidang_official 𝐁𝐨𝐨𝐤 ⠀ 🔻 livelyeun@naver.com
+    location: "South Korea"
+    followers: 86217
+    engagement: 214
+    commentsToLikes: 0.036481
+    id: ck5hpz9mas80k0i11d2b89ar2
+    verified: true
+    hashtags: "#2021, #plogging, #25, #miracle365run"
   - username: "noon.noonii_rd"
     fullname: >-
       눈누니
@@ -67,18 +91,6 @@ profiles:
     id: ck5hpzc2ns85o0i11rfsahkp1
     verified: false
     hashtags: "#tracking, #running, #hiking, #tranggle"
-  - username: "kimmongmong"
-    fullname: >-
-      김몽이
-    bio: >-
-      본격 건강해지기 프로젝트🏃‍♀️ 꾸준함이 답이다. 🔺Sponsored by @843cncpt @roka_kr @camelbak_korea #Hiking #Marathon #Trailrunning #Triathlon
-    location: "South Korea"
-    followers: 37456
-    engagement: 562
-    commentsToLikes: 0.016925
-    id: ck6uidthuei4b0j718nm9fqqo
-    verified: false
-    hashtags: "#climbing, #running, #hiking, #mountains"
   - username: "groovechaja"
     fullname: >-
       盧 容 珉
@@ -115,16 +127,4 @@ profiles:
     id: ck5hntrv9odjc0i11jn9uqycd
     verified: false
     hashtags: "#ud, #columbiaathlete, #trailrun, #giftedbycolumbia"
-  - username: "dalssim_lee"
-    fullname: >-
-      RUNNER 달씸🇰🇷
-    bio: >-
-      오늘의 내가 내일의 나를 성장시킨다 ▫️PB 10k 𝟺𝟹'03 /HALF 𝟷:𝟹𝟾/ FULL 𝟹:𝟸𝟻 @descente_kr @aftershokzkr @posykorun114 @athleteinsta @revokorea_official @airfly_kor
-    location: "South Korea"
-    followers: 27515
-    engagement: 452
-    commentsToLikes: 0.026826
-    id: ck5zyc47i9m3u0i1406j133ke
-    verified: false
-    hashtags: "#1984s, #pt, #fcmm, #drc"
 ---

@@ -1,24 +1,48 @@
 ---
-title: Top 10 Fashion Instagram Influencers In San Francisco In 2023
+title: Top 10 Fashion Instagram Influencers In San Francisco In 2024
 description: >-
-  Find top fashion Instagram influencers in San Francisco in 2023. Most popular hashtags: #fashion #sanfrancisco #love #style.
+  Find top fashion Instagram influencers in San Francisco in 2024. Most popular hashtags: #fashion #sanfrancisco #love #styleblogger.
 platform: Instagram
-hits: 157
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 157 Instagram influencers like this in San Francisco, United States for you to pitch.
+hits: 213
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 213 Instagram influencers like this in San Francisco, United States for you to connect with.
 profiles:
-  - username: "berenabas"
+  - username: "hera7"
     fullname: >-
-      Berenabas 🇪🇹
+      HERA
     bio: >-
-      God over EVERYTHING 🙏🏾 6’1 | Model | Entrepreneur Pronounced: [bar-na-bis] 🗣 Tiktok: 300K+ 👥 15M+ ❤️ Email/DM business inquiry 📧: berenabas@gmail.com
+      mama, content creator & vaccine clinical trial manager 🫶🏻 | lifestyle • travel • modest fashion • motherhood | san francisco girl now in dallas
     location: "United States"
-    followers: 12187
-    engagement: 412
-    commentsToLikes: 0.061809
-    id: ck8wgd2j8h4oh0j78mmmpmrgx
+    followers: 11712
+    engagement: 304
+    commentsToLikes: 0.012645
+    id: ckwokrelxsn6h0j23f3hukp6s
     verified: false
-    hashtags: "#photography, #california, #melanin, #bayarea"
+    hashtags: "#parosgreece, #paros, #umrahwithababy, #babymoon"
+  - username: "sandrazuri411"
+    fullname: >-
+      Sandra Zuri
+    bio: >-
+      💕@SZ411adventures 📸@916.aestheticz 👑@GoddessZuri411 🌎 916, CALIFORNIA ART▪︎CARS▪︎FASHION▪︎INK
+    location: "United States"
+    followers: 5324
+    engagement: 1372
+    commentsToLikes: 0.080427
+    id: ck5q81t4q42860i111ux54kb1
+    verified: false
+    hashtags: "#rose, #anaheim, #texas, #cars"
+  - username: "lindatphung"
+    fullname: >-
+      LINDA PHUNG
+    bio: >-
+      MOMMY👦PRODUCER🧚‍♀️CREATIVE DIRECTOR 🌟 imaginAsian Productions [iA] 🎬🎼 🌟 Harper's Bazaar Vietnam 💌 LINN@IMAGINASIAN.NET
+    location: "United States"
+    followers: 2895
+    engagement: 596
+    commentsToLikes: 0.117637
+    id: ck14li56huslw0i19gxi6hqpq
+    verified: false
+    hashtags: "#travel, #harpersbazaar, #imaginasian, #harpersbazaarvietnam"
   - username: "perrymdoig"
     fullname: >-
       Perry M Doig -💎- BVLA
@@ -31,100 +55,76 @@ profiles:
     id: ck0vzljrh9p2i0i19xi2bg3at
     verified: false
     hashtags: "#climbing, #bvla, #earpiercing, #gold"
-  - username: "fantvglobal"
+  - username: "muneetparhar"
     fullname: >-
-      FAN TV Global Network
+      Muneet Parhar 🧿
     bio: >-
-      Dean Arcillas President /CEO
+      San Francisco. Fashion • Travel • Lifestyle Techie in Silicon Valley 🍎 full time, fashion aficionado part time.
     location: "United States"
-    followers: 19549
-    engagement: 446
-    commentsToLikes: 1.705125
-    id: ck5c92os7ao020i11mroht66p
+    followers: 18088
+    engagement: 740
+    commentsToLikes: 0.043461
+    id: ckz60hcwq8hmy0j23w17yqf50
     verified: false
-    hashtags: "#fantvglobalnetwork, #fan, #unity, #global"
-  - username: "atulaanjna"
+    hashtags: "#birthdaygirl, #teamvici, #viciambassador, #cluse"
+  - username: "izyohanna"
     fullname: >-
-      Atul's Dance & Fitness Studio
+      Johanna Angela
     bio: >-
-      MUMBAI 📍 INDORE Director - @atuldancestudio . For shoots , privates and choreography mail me at atulaanjna55@gmail.com #atuldance
+      ♛ small girl, big personality 🇵🇭 ♛ filipina petite fashion creator in san francisco ✉️ workwithme@izyohanna.com
     location: "United States"
-    followers: 5763
-    engagement: 1061
-    commentsToLikes: 0.097034
-    id: ck5zy3n49961y0i147omkut15
+    followers: 52270
+    engagement: 1227
+    commentsToLikes: 0.504397
+    id: cllxaohgagysm0j08o8cq8991
     verified: false
-    hashtags: "#instagood, #dance, #reelitfeelit, #reelsvideo"
-  - username: "trendenvy"
+    hashtags: "#sfblogger, #fashioncontentcreator, #taurusseason, #styleblogger"
+  - username: "petitetammie"
     fullname: >-
-      Christine Yun
+      Tammie Leung
     bio: >-
-      Effortless chic fashion & home decor San Francisco, CA 🌎 www.trendenvy.com 🏠 #trendenvyhome & @studiodesignenvy
+      Effortless Beauty • Lifestyle • Fashion #5footstyle 📍San Francisco Bay Area + 🇭🇰🇨🇦🇹🇼 🐶 @poodlekiwi420sf PR: Doublezeroshort@gmail.com
     location: "United States"
-    followers: 17149
-    engagement: 153
-    commentsToLikes: 0.094569
-    id: ck8t8q47ilcex0j78p3kpqw6a
+    followers: 21902
+    engagement: 324
+    commentsToLikes: 0.244467
+    id: ck5c5ur1d46mf0i111fea4grc
     verified: false
-    hashtags: "#toyotapartner, #winetasting, #beachsunset, #sezaneaddict"
-  - username: "arianalauren"
+    hashtags: "#selfcaresunday, #flawlessskin, #radiantskin, #beautyessentials"
+  - username: "voguishvarsha"
     fullname: >-
-      Ariana Lauren
+      Varsha Meshe
     bio: >-
-      ≫ sharing everyday style + petite fashion • romi’s mama ≫ san francisco based ≫ send me a email: arianalaurenblog@gmail.com
+      🦋 Fashion & Lifestyle 📍San Francisco, California 🇺🇸🇮🇳 Mommy of two ✨ Collaboration 📧mevarsha12@gmail.com Shop my feed👇
     location: "United States"
-    followers: 106068
-    engagement: 78
-    commentsToLikes: 0.059084
-    id: ck0u68sot1a5b0i19qxvhjre9
+    followers: 17238
+    engagement: 294
+    commentsToLikes: 0.203654
+    id: ckyu603lexpbx0j23s36lu9nt
     verified: false
-    hashtags: "#ltkunder100, #liketkit, #romirose, #fallstyle"
-  - username: "irinabarol"
+    hashtags: "#pinkoutfit, #exploremore, #ladydior, #ltkblogger"
+  - username: "vinamay"
     fullname: >-
-      Irina Barol | SF Bay Area 🌉
+      Vina May
     bio: >-
-      | Photographer & Content Creator | Lifestyle • Beauty • Fashion | Based in San Francisco ✉️ getirinahere@gmail.com
+      Travel | Fashion | lifestyle 📍San Francisco 🤓 Techie 💌 ItsVinaMay@gmail.com 💍 stemull17 is mine
     location: "United States"
-    followers: 40299
-    engagement: 380
-    commentsToLikes: 0.004730
-    id: ck6tp90zbii780j71l3v6elmi
+    followers: 69351
+    engagement: 263
+    commentsToLikes: 0.029100
+    id: ckx4eegl405820j23lbtkdlfo
     verified: false
-    hashtags: "#eatbobos, #dermalogicagiftedme, #smartypartner, #spagirlcocktails"
-  - username: "kate_tova"
+    hashtags: "#hawaii, #hawaiiansunset, #balilife, #hawaiilove"
+  - username: "lifestylebygianna"
     fullname: >-
-      Artist • San Francisco
+      Gianna Herrera
     bio: >-
-      Kate Tova 💖 Full-time Artist🎨 📍🌺San Francisco For inquiries, please email 💌ArtistKateTova@gmail.com
+      ♡ san francisco fashion | beauty | lifestyle ✉️ lifestylebygianna@yahoo.com
     location: "United States"
-    followers: 61076
-    engagement: 475
-    commentsToLikes: 0.051901
-    id: ck5bzhxl0r6h10i11dz9o885l
+    followers: 65225
+    engagement: 6
+    commentsToLikes: 0.000000
+    id: ck13czhdr2wpy0i19cvfhcgi9
     verified: false
-    hashtags: "#stopasianhate, #siliconvalley, #streetart, #facemask"
-  - username: "timurdc"
-    fullname: >-
-      Timur Tuğberk
-    bio: >-
-      👨‍💻Creative Consultant @designingthedistrict 📍#MIAMI ✈️Travel 🍱Eat 🤹‍♂️Play 🛍Shop 🇺🇸🏳️‍🌈🇹🇷 VOTED 2019 BEST LOCAL INFLUENCER #BestOfGayDC
-    location: "United States"
-    followers: 13661
-    engagement: 878
-    commentsToLikes: 0.026552
-    id: ck0w1j2w0jlbr0i1974x3cshd
-    verified: false
-    hashtags: "#gay, #dcblogger, #gayboy, #fashioninfluencer"
-  - username: "carol_kaledzera"
-    fullname: >-
-      Carol Kaledzera🇲🇼
-    bio: >-
-      Malawian 🇲🇼 Sacramento🌴 Makeup Artist💄🎨| self-taught MUA| for inquiries DM or 📩📩 carolkaledzera58@yahoo.com CEO of @vitaalicelashes
-    location: "United States"
-    followers: 20852
-    engagement: 275
-    commentsToLikes: 0.124257
-    id: ck13a5aspopcw0i19vipvzx2s
-    verified: false
-    hashtags: "#sacramentomodel, #sacramentoartist, #makeupartistsworldwide, #stocktonmakeupartist"
+    hashtags: "#sandiego, #newportbeach, #liketkit, #happyholidays"
 ---

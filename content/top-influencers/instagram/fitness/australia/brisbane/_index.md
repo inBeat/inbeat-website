@@ -1,36 +1,60 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Brisbane In 2023
+title: Top 10 Fitness Instagram Influencers In Brisbane In 2024
 description: >-
-  Find top fitness Instagram influencers in Brisbane in 2023. Most popular hashtags: #fitness #fashion #australia.
+  Find top fitness Instagram influencers in Brisbane in 2024. Most popular hashtags: #fitness #brisbane #australia.
 platform: Instagram
-hits: 34
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 34 Instagram influencers like this in Brisbane, Australia for you to collaborate.
+hits: 53
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 53 Instagram influencers like this in Brisbane, Australia for you to contact.
 profiles:
-  - username: "masphoto.official"
+  - username: "kayleighdouglas"
     fullname: >-
-      Masterpiece Art Studio 📸🌴👙
+      Kayleigh Douglas
     bio: >-
-      #photographer Bookings DM
+      »Brisbane, Australia »Registered Nurse @nursekayleigh_ »Kayleighanndouglas@gmail.com
     location: "Australia"
-    followers: 5061
-    engagement: 651
-    commentsToLikes: 0.014645
-    id: ck6u339dyvfx90j71bhrei5ev
+    followers: 116365
+    engagement: 154
+    commentsToLikes: 0.026344
+    id: ckaorg6wxn2hm0i78xwq18v6e
     verified: false
-    hashtags: "#bodypositive, #photographer, #fashionshoot, #lights"
-  - username: "jennybeeen"
+    hashtags: "#lockdown, #fitness, #brisbane, #bliss"
+  - username: "kellyysummer"
     fullname: >-
-      Jenny Blenk | Content Creator
+      KELLY SUMMERVILLE
     bio: >-
-      German living in Brisbane || 22🤍 Naturally introverted, selectively extroverted “JENNYB20” 20% off @princesspollyboutique 💌jenny.em.blenk@gmail.com
+      Brisbane | fitness | motivation 🎀🌸💕🩷 11/ 40-day challenge Cervical cancer and endo warrior
     location: "Australia"
-    followers: 8147
-    engagement: 644
-    commentsToLikes: 0.205182
-    id: ck5honakipv940i114q4oggvy
+    followers: 11410
+    engagement: 24
+    commentsToLikes: 0.007143
+    id: clsha3vxdch960k080i5ph3xe
     verified: false
-    hashtags: "#ootd, #goldcoast, #fashiondiares, #health"
+    hashtags: "#manifestyourdreams, #motivateme, #worldgymnorthlakes, #pinkvibes"
+  - username: "marcusferguson_"
+    fullname: >-
+      𝗠𝗮𝗿𝗰𝘂𝘀 𝗙𝗲𝗿𝗴𝘂𝘀𝗼𝗻
+    bio: >-
+      ⋇ ᴇʟɪᴛᴇ ᴘʀᴏɢʀᴀᴍꜱ | ᴘʀᴇ-ᴇᴍɪɴᴇɴᴛ ᴄᴏᴀᴄʜɪɴɢ ⋇ ꜱᴛʀᴇɴɢᴛʜ || ᴄᴏɴᴅɪᴛɪᴏɴɪɴɢ || ʀᴇʜᴀʙ ⋇ 1:1, ꜱᴍᴀʟʟ ɢʀᴏᴜᴘ & ᴏɴʟɪɴᴇ ᴛʀᴀɪɴɪɴɢ
+    location: "Australia"
+    followers: 5267
+    engagement: 361
+    commentsToLikes: 0.014998
+    id: ck6tzq5m3b6wt0j71t3n7xqfo
+    verified: false
+    hashtags: "#huhuhuuulia, #beachvolleyball, #grouptraining, #strengthandconditioning"
+  - username: "jadeleighh__"
+    fullname: >-
+      J A D E  M A C D O N A L D
+    bio: >-
+      Brisbane ~ Fashion | Fitness | lifestyle 💌 jade.macdonald966@gmail.com 🤍 @echt_apparel “JADELEIGH” 🤍 @lovingtanofficial “Jadeleighh”
+    location: "Australia"
+    followers: 20191
+    engagement: 266
+    commentsToLikes: 0.138669
+    id: ck0vwfow8tgsi0i19mgjq4zve
+    verified: false
+    hashtags: "#echt, #explore, #reelsinstagram, #viral"
   - username: "raimeeleigh.fitfood"
     fullname: >-
       Raimee Leigh Brook
@@ -43,30 +67,42 @@ profiles:
     id: ck13cn5e616ac0i19f96d4uj9
     verified: false
     hashtags: "#plantlifefoodco, #auntbettys"
-  - username: "jenniferchiuu"
+  - username: "nicola.crisa"
     fullname: >-
-      JEN | Social Media + Mindset
+      Nicola Crisa
     bio: >-
-      👩🏻‍💻 Helping small businesses scale through strategic social media management @8xdigital_ 💡 TikTok 13k 💌 j.jennifer_c@outlook.com ⬇️ Book a call
+      Business 💌 info@nicolacrisa.com IMDb ⬇️
     location: "Australia"
-    followers: 6190
-    engagement: 615
-    commentsToLikes: 0.282753
-    id: ck0w4wcmv0qbw0i19xqq0drvb
+    followers: 314478
+    engagement: 17
+    commentsToLikes: 0.011136
+    id: ck0vw7sizshir0i19f5zzfy9f
     verified: false
-    hashtags: "#frenchvibes, #businesschicks, #businesswomen, #reels"
-  - username: "dralexhynes"
+    hashtags: "#photography, #fashion, #fit, #style"
+  - username: "jennybeeen"
     fullname: >-
-      Dr Alex Hynes-Bondi Vet 🇦🇺
+      Jenny Blenk | Content Creator
     bio: >-
-      🐾 Veterinary Emergency📍AES Brisbane 🇦🇺 👊🏼Fitness|Motherhood| Mindset 🎥 Stories of critically ill pets @bondi_vet 🩺 Co-Fndr Vet Success Academy
+      German living in Brisbane || 22🤍 Naturally introverted, selectively extroverted “JENNYB20” 20% off @princesspollyboutique 💌jenny.em.blenk@gmail.com
     location: "Australia"
-    followers: 34470
-    engagement: 330
-    commentsToLikes: 0.026191
-    id: ck5hgf5m72g0w0i11f5qxbf0z
+    followers: 8147
+    engagement: 644
+    commentsToLikes: 0.205182
+    id: ck5honakipv940i114q4oggvy
     verified: false
-    hashtags: "#vet, #veterinarian, #vetlife, #dvm"
+    hashtags: "#healthylifestyle, #streetstyleluxe, #lifestyle, #australia"
+  - username: "oschynoverton"
+    fullname: >-
+      OSCHYN
+    bio: >-
+      gold coast, australia
+    location: "Australia"
+    followers: 35085
+    engagement: 131
+    commentsToLikes: 0.031614
+    id: ck1343g4iuict0i191maarp6h
+    verified: false
+    hashtags: "#dancer, #instamood, #model, #instagood"
   - username: "matthewgianoulis"
     fullname: >-
       Matthew Gianoulis Photography
@@ -79,42 +115,6 @@ profiles:
     id: ck5q1mqwzbql50i1156vfh89o
     verified: false
     hashtags: ""
-  - username: "jessicaannewood"
-    fullname: >-
-      Jessica Wood
-    bio: >-
-      🦋 NEW ACCOUNT @jessica.anne.wood 🦋 @thepalmsco jessicaannecollab@gmail.com
-    location: "Australia"
-    followers: 31581
-    engagement: 117
-    commentsToLikes: 0.022051
-    id: ck5c9u318c4mt0i11kswzg1wa
-    verified: false
-    hashtags: "#2021, #blonde, #summer, #ootd"
-  - username: "siahnzimmermannn"
-    fullname: >-
-      SIAHN ZIMMERMANN
-    bio: >-
-      🧚🏻👅🦋🌵🪐 D.J.P❤️‍🔥 brisbane • australian owner @_sz.fitness email me to collab - zimmermannsiahn@gmail.com
-    location: "Australia"
-    followers: 5011
-    engagement: 942
-    commentsToLikes: 0.025836
-    id: ckap3si2j4dck0i78xzyfnz44
-    verified: false
-    hashtags: "#gifted"
-  - username: "conagh_kat"
-    fullname: >-
-      CONAGH KATHLEEN 👼🏼✨☁️
-    bio: >-
-      brisbane • 23 @earlybirdsociety ☀️🌈🦋🕊 ✉️ conagh@maxconnectors.com.au @train.withsoph x @conagh_kat 💜⬇️
-    location: "Australia"
-    followers: 101150
-    engagement: 183
-    commentsToLikes: 0.001169
-    id: ck6uef6q6qk380j71n7lksp70
-    verified: false
-    hashtags: "#grwm, #reels, #motivation, #makeup"
   - username: "jade.syrett"
     fullname: >-
       JADE
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.127401
     id: ck13a1y82o8060i19gci5msnb
     verified: false
-    hashtags: "#agencymodel, #australianmodel, #swimwear, #blackandwhite"
+    hashtags: "#australianmodel, #internationalmodel, #swimsuit, #swimwear"
 ---

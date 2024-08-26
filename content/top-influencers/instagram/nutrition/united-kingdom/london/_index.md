@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In London In 2023
+title: Top 10 Nutrition Instagram Influencers In London In 2024
 description: >-
-  Find top nutrition Instagram influencers in London in 2023. Most popular hashtags: #nutrition #london #plantbased.
+  Find top nutrition Instagram influencers in London in 2024. Most popular hashtags: #nutrition #london #plantbased #love.
 platform: Instagram
-hits: 52
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 52 Instagram influencers like this in London, United Kingdom for you to contact.
+hits: 78
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 78 Instagram influencers like this in London, United Kingdom for you to connect with.
 profiles:
   - username: "dr_nazikabed"
     fullname: >-
@@ -19,6 +19,42 @@ profiles:
     id: ck0w75oj8bvv30i19d34qxzcc
     verified: false
     hashtags: "#iraq, #kurdistan, #baghdad, #iraqi"
+  - username: "jennifermedhurst"
+    fullname: >-
+      The Imperfect Nutritionist
+    bio: >-
+      Where delicious meets nutritious Registered Nutritionist & Published Author Shop my book ‘7 Principles of Healthy Eating’👇🏼
+    location: "United Kingdom"
+    followers: 71731
+    engagement: 172
+    commentsToLikes: 0.083013
+    id: clabntlihshkh0i23im4vd2xh
+    verified: false
+    hashtags: "#quickhealthyfood, #londonutritionist, #guthealth, #healthyeating"
+  - username: "_mad_focus_"
+    fullname: >-
+      Josh Jo Jacob Eralil
+    bio: >-
+      🇸🇦|🇧🇭|🇮🇳|🇶🇦|🇬🇧|🏴󠁧󠁢󠁥󠁮󠁧󠁿|🏴󠁧󠁢󠁷󠁬󠁳󠁿|🏴󠁧󠁢󠁳󠁣󠁴󠁿|🇪🇺|🇩🇪|🇦🇹|🇫🇷🔜 Filmmaker 🎥📸 📌london | UK Founder:- @madfocus_production
+    location: "United Kingdom"
+    followers: 105326
+    engagement: 38
+    commentsToLikes: 0.029451
+    id: ck0vwoo3dutwe0i19yh5snavz
+    verified: false
+    hashtags: "#inspiration, #foodporn, #lifequotes, #quotestagram"
+  - username: "stephrobinnson"
+    fullname: >-
+      Steph Robinson
+    bio: >-
+      feel good, look good Holistic Nutrition Coach London ✉️ hello@stephrobinsonhealth.com
+    location: "United Kingdom"
+    followers: 189747
+    engagement: 63
+    commentsToLikes: 0.002740
+    id: ckxlebh1k801f0j23b4iiul03
+    verified: false
+    hashtags: "#moveintowellness, #ritualpartner, #clarinslipoil, #clarinspartner"
   - username: "plantbasedjudy"
     fullname: >-
       PBJ 🌱 vegan nutritionist (BSc)
@@ -31,18 +67,42 @@ profiles:
     id: ck5zsb6dzy60x0i14mm23y9p0
     verified: false
     hashtags: "#vegansofig, #easyvegan, #veganfood, #london"
-  - username: "diegosechi"
+  - username: "jodiemorrisphotography_"
     fullname: >-
-      VICE WORLD PRO CHAMPION
+      Jodiemorrisphotography - Sevenoaks.  Happy to ✈️
     bio: >-
-      🏆VICE WORLD CHAMPION🏆 ❌ONLINE FITNESS COACH❌ Registered Nutritionist 🍏👨🏼‍⚕️ @biotechusa Athlete ⚫️ 🎓 King's College London 🎓Public Health @harvard
+      ✨Natural light home studio ✨ Offering the most enchanting lighting for Portfolios / Headshots / Family photos / Weddings - @jdweddingphotography_
     location: "United Kingdom"
-    followers: 160139
-    engagement: 142
-    commentsToLikes: 0.027669
-    id: ck5bv6lv0j32h0i11tshext5x
+    followers: 27259
+    engagement: 396
+    commentsToLikes: 0.151047
+    id: ck5zlw11slh6p0i14558v4uki
     verified: false
-    hashtags: "#workout, #biotechusa, #diet, #nutrition"
+    hashtags: "#greeneyes, #film, #girlswholift, #makeupgoals"
+  - username: "fitunderpalmtrees"
+    fullname: >-
+      Bea & Steffen ♡ Fittravel
+    bio: >-
+      ☼ ☽ Luxury Hotels & Brands Content Creators 𖥸 photographers • content creator ✈︎ next: 💭 @hotel @officialbodylab24
+    location: "United Kingdom"
+    followers: 244933
+    engagement: 324
+    commentsToLikes: 0.023118
+    id: ck14hbe869gym0i19s6n40m3x
+    verified: false
+    hashtags: "#fourseasonshotel, #fourseasons, #topworldhotels, #maledives"
+  - username: "comedinewithmegs"
+    fullname: >-
+      Megan 🌸 | London Food Blogger
+    bio: >-
+      ✨Exploring London’s food scene & beyond 🥂London restaurant, bar & activity reviews 💌 comedinewithmegs@gmail.com ⬇️ FOLLOW for the best London eats!
+    location: "United Kingdom"
+    followers: 15884
+    engagement: 146
+    commentsToLikes: 0.189562
+    id: ckf5o5wzo116d0j23lkcp848j
+    verified: false
+    hashtags: "#londonbar, #designmynight, #londonfoodscene, #londonrestaurants"
   - username: "steflikesplants"
     fullname: >-
       Stef | Food + Self Love ✨
@@ -55,76 +115,16 @@ profiles:
     id: ck5zua8o31za70i14zxd2ptpe
     verified: false
     hashtags: "#vegan, #health, #vegangirl, #whatveganseat"
-  - username: "galettigram"
+  - username: "itsshradha"
     fullname: >-
-      Monica Galetti
+      Shradha Radia
     bio: >-
-      Mother / Chef owner Mere Restaurant&Bar @MereRestaurant / MasterChef Pros / Amazing Hotels BBC2
+      📧 shradha06@hotmail.com Founder Of @sachaandshree 📍London Links are on my highlights ⬇️ @littlemistressuk Brand Ambassador
     location: "United Kingdom"
-    followers: 162445
-    engagement: 174
-    commentsToLikes: 0.032019
-    id: ck0tz3eydp14a0i192k9ad6sd
-    verified: true
-    hashtags: "#nutrition, #masterchef, #foodandwine, #londonfoodguide"
-  - username: "daniel_johneats"
-    fullname: >-
-      Daniel John | London Foodie
-    bio: >-
-      📍London 👨🏻‍🍳 Home cooking & food reviews 📧danieljohneats@gmail.com 15% off link for @clubbackdrops ⬇️
-    location: "United Kingdom"
-    followers: 9887
-    engagement: 322
-    commentsToLikes: 0.264781
-    id: ckf5scg1gf8jt0j23ecnzf62n
+    followers: 28447
+    engagement: 299
+    commentsToLikes: 0.025659
+    id: ck6twij4js6n40j71wvdvmry2
     verified: false
-    hashtags: "#brunchideas, #foodshare, #avocado, #brunch"
-  - username: "movewithdoyin"
-    fullname: >-
-      Doyin 🌍
-    bio: >-
-      explorer | 🧑🏾‍💻 in fintech started a milk brand in lockdown It’s organic too @goodnessmilk london 🇬🇧🇳🇬 . @windcollective @bbtravelmeetup
-    location: "United Kingdom"
-    followers: 9122
-    engagement: 1028
-    commentsToLikes: 0.131619
-    id: ck5ciejf9sigp0i11lybhuigz
-    verified: false
-    hashtags: "#blacktraveljourney, #exploretocreate, #allaboutadventures, #visitghana"
-  - username: "annamariereilly"
-    fullname: >-
-      Professor Reilly
-    bio: >-
-      Represented by Milk London Certified Integrative Nutrition (IIN) @annas_food Certified Yogi
-    location: "United Kingdom"
-    followers: 34040
-    engagement: 191
-    commentsToLikes: 0.027975
-    id: ck0w5zv8n68jf0i19xxf3q1yi
-    verified: false
-    hashtags: ""
-  - username: "ciaralondon"
-    fullname: >-
-      BODY BY CIARA
-    bio: >-
-      London 📍 @bodybyciaraapp Online Training & Nutrition📱 @bodybyciarahq Gym & Real Life Training🏠 ⬇️LINKS TO EVERYTHING⬇️
-    location: "United Kingdom"
-    followers: 132382
-    engagement: 127
-    commentsToLikes: 0.435709
-    id: ck6tnvx80aokp0j71yfzhdj21
-    verified: false
-    hashtags: ""
-  - username: "obitheheeler"
-    fullname: >-
-      O b i
-    bio: >-
-      🐾 Lancashire Heeler #vulnerablebreed⁣ 🌲 Exploring the UK 🏁 Zoomies enthusiast ⁣ 🥩 Transitioning to raw ⬇️ Discount codes
-    location: "United Kingdom"
-    followers: 34368
-    engagement: 175
-    commentsToLikes: 0.055155
-    id: ck5hmt7c9mkw20i119bpnq9rq
-    verified: false
-    hashtags: "#rawfeddog, #puppy, #puppies, #instadogs"
+    hashtags: "#indianwedding, #indianweddingblogger, #summeroutfitinspo, #summerdress"
 ---

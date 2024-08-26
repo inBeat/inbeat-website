@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Phoenix In 2023
+title: Top 10 TikTok Influencers In Phoenix In 2024
 description: >-
-  Find top TikTok influencers in Phoenix in 2023. Most popular hashtags: #fyp #foryou #foryoupage #duet.
+  Find top TikTok influencers in Phoenix in 2024. Most popular hashtags: #fyp #foryou #foryoupage #duet.
 platform: TikTok
-hits: 322
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 322 TikTok influencers like this in Phoenix, United States for you to connect with.
+hits: 326
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 326 TikTok influencers like this in Phoenix, United States for you to collaborate.
 profiles:
   - username: "phoenixglen"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.195965
     id: ckce1c4bxi6ra0j231p9bk1ym
     verified: false
-    hashtags: "#mentalhealthawareness, #lgbtqia, #duet, #illbeyourreason"
+    hashtags: "#mh, #lgbtq, #duet, #lgbtqia"
   - username: "phoenix.gsd"
     fullname: >-
       phoenix.gsd

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Peru In 2023
+title: Top 10 Fitness TikTok Influencers In Peru In 2024
 description: >-
-  Find top fitness TikTok influencers in Peru in 2023. Most popular hashtags: #fitness #parati #viral #fyp.
+  Find top fitness TikTok influencers in Peru in 2024. Most popular hashtags: #fitness #parati #viral #peru.
 platform: TikTok
 hits: 22
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our database aggregates 22 TikTok influencers like this in Peru for you to collaborate.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 22 TikTok influencers like this in Peru for you to connect with.
 profiles:
   - username: "magallerena"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In France In 2023
+title: Top 10 Cooking TikTok Influencers In France In 2024
 description: >-
-  Find top cooking TikTok influencers in France in 2023. Most popular hashtags: #cooking #pourtoi #foryou #food.
+  Find top cooking TikTok influencers in France in 2024. Most popular hashtags: #cooking #pourtoi #foryou #food.
 platform: TikTok
-hits: 56
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 56 TikTok influencers like this in France for you to collaborate.
+hits: 57
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 57 TikTok influencers like this in France for you to work with.
 profiles:
   - username: "toufuoff"
     fullname: >-
@@ -55,6 +55,18 @@ profiles:
     id: ck9skca9i83jy0j78y69i3qsi
     verified: false
     hashtags: "#pourtoi, #cuisine, #pourtoii, #pourtoipage"
+  - username: "sofya.370"
+    fullname: >-
+      Sofya Khan
+    bio: >-
+      👻 sofya370 📸 sofya.370 📩 Business sofya370pro@gmail.com
+    location: "France"
+    followers: 41100
+    engagement: 931
+    commentsToLikes: 0.038202
+    id: ck9rksr17ulgw0j78qu0k1j25
+    verified: false
+    hashtags: "#funny, #challenge, #ftor, #maquillage"
   - username: "nirosa.world"
     fullname: >-
       Nirosa
@@ -115,16 +127,4 @@ profiles:
     id: cka0vlc04z1lo0i78seahyynz
     verified: true
     hashtags: "#foodporn, #fishburger, #tiktokchef, #foodcomedy"
-  - username: "izeecook"
-    fullname: >-
-      Sopien_lifestyle
-    bio: >-
-      YouTube: IzeeCOOK tv💕Insta: sopien_lifestyle💕Facebook: IzeeCOOK. Abonne-toi 😘
-    location: "France"
-    followers: 15200
-    engagement: 718
-    commentsToLikes: 0.008610
-    id: ckce1cyeqi7ln0j23r54uw0es
-    verified: false
-    hashtags: "#yumm, #izeecook, #pourtoi, #foryou"
 ---

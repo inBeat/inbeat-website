@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Turkey In 2023
+title: Top 10 Photographers TikTok Influencers In Turkey In 2024
 description: >-
-  Find top photographers TikTok influencers in Turkey in 2023. Most popular hashtags: #foryou #fyp #photographer #2020.
+  Find top photographers TikTok influencers in Turkey in 2024. Most popular hashtags: #foryou #fyp #photographer #2020.
 platform: TikTok
 hits: 8
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database has 8 TikTok influencers like this in Turkey for you to contact.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 8 TikTok influencers like this in Turkey for you to collaborate.
 profiles:
   - username: "_themervik"
     fullname: >-

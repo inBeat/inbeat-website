@@ -1,12 +1,24 @@
 ---
-title: Top 10 Food Instagram Influencers In Ankara In 2023
+title: Top 10 Food Instagram Influencers In Ankara In 2024
 description: >-
-  Find top food Instagram influencers in Ankara in 2023. Most popular hashtags: #ankara #food #istanbul #yummy.
+  Find top food Instagram influencers in Ankara in 2024. Most popular hashtags: #ankara #food #istanbul #yemek.
 platform: Instagram
-hits: 106
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 106 Instagram influencers like this in Ankara, Turkey for you to contact.
+hits: 98
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 98 Instagram influencers like this in Ankara, Turkey for you to collaborate.
 profiles:
+  - username: "ayiyemegi"
+    fullname: >-
+      Ayı Yemeği - Turan Zeynel Akdağ
+    bio: >-
+      ⛺️cooking menu 🐻şeflerin kamp menüsü 🔥baş yiyici ve emekleri değerli şeflerin dağda, kampta, ormanda yaptığı yemekler paylaşılır
+    location: "Turkey"
+    followers: 112058
+    engagement: 380
+    commentsToLikes: 0.104353
+    id: ckaoxtwjjeqdz0i78y9p5w9h1
+    verified: false
+    hashtags: "#bearmeal, #campfire, #ay, #campcooking"
   - username: "cagdas62dersim"
     fullname: >-
       
@@ -43,6 +55,30 @@ profiles:
     id: ck9hb90tnfuyf0j782s1yfxxc
     verified: false
     hashtags: "#instagood, #zay, #yemek, #okul"
+  - username: "burcusavasciofficial"
+    fullname: >-
+      Burcu Savaşçı
+    bio: >-
+      Yemek yapar, mekan gezer
+    location: "Turkey"
+    followers: 76460
+    engagement: 50
+    commentsToLikes: 0.397382
+    id: ck5cezhcgm0xf0i11xysp3pw1
+    verified: false
+    hashtags: "#kahvalt, #ankaradamekan, #burcusavasciofficial, #ankara"
+  - username: "sercangeziyor"
+    fullname: >-
+      Sercan Deveci
+    bio: >-
+      📞 0532 233 60 27 Reklam ve İşbirliği için DM 📩 sercangeziyor@gmail.com www.youtube.com/sercangeziyor
+    location: "Turkey"
+    followers: 262797
+    engagement: 32
+    commentsToLikes: 0.008816
+    id: ck5q5cgx7s8va0i11g9666hss
+    verified: false
+    hashtags: "#dubai, #ke, #izmir, #lezzet"
   - username: "enfess_tatlar._"
     fullname: >-
       💕Enfes Tatlar Tarifler💕
@@ -79,18 +115,6 @@ profiles:
     id: ckap3w6384r6p0i78eft8vr2c
     verified: false
     hashtags: "#kahve, #instagood, #turkey, #ke"
-  - username: "burcusavasciofficial"
-    fullname: >-
-      Burcu Savaşçı
-    bio: >-
-      Yemek yapmaya,fotoğraflamaya aşık bir yemek tutkunu .Ankara da mekan gezer,yorumlar . Tanıtım ve davetler için DM&mail 💌 ✨İnfluencer ✨Blogger
-    location: "Turkey"
-    followers: 69773
-    engagement: 115
-    commentsToLikes: 0.303250
-    id: ck5cezhcgm0xf0i11xysp3pw1
-    verified: false
-    hashtags: "#karantina, #kahvalt, #foodlover, #foodblogger"
   - username: "katmerbanktosun"
     fullname: >-
       Hüseyin DağcıOfficial Account
@@ -103,28 +127,4 @@ profiles:
     id: ck5q5cyegsb7b0i11wya84zak
     verified: false
     hashtags: "#tu, #aksamsimit, #katmer, #simitkatmer"
-  - username: "gazianteppaylasimlari"
-    fullname: >-
-      GAZİANTEP LEZZETLERİ
-    bio: >-
-      Takiplerimiz davet amaçlıdır 🤗 yeni hesap lütfen geri dönüş yapınnn 🙏🙏🙏
-    location: "Turkey"
-    followers: 705
-    engagement: 36907
-    commentsToLikes: 0.013117
-    id: ckaork9u0nm4k0i78tl9u6xtl
-    verified: false
-    hashtags: "#adana, #instalike, #naturelover, #polonya"
-  - username: "sevim__dalma"
-    fullname: >-
-      🆂🅴🆅🅸🅼 🅳🅰🅻🅼🅰
-    bio: >-
-      🎀Üç prensin prensesi👨‍👦‍👦👸🎈 🎀Onur'um ile şenlenen hayatımız 🎀Mert'im ile renklendi🙏🎈💕 🎀 "İçimdeki çocuk yeni yürümeye başladı "💕💕 REKLAM TANITIM ➡️DM
-    location: "Turkey"
-    followers: 20069
-    engagement: 621
-    commentsToLikes: 0.064700
-    id: ck9hchupslgx40j7853lonhtm
-    verified: false
-    hashtags: "#nefissunumlar, #caysaati, #droetker, #gunaydin"
 ---

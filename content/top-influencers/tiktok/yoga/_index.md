@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In 2023
+title: Top 10 Yoga TikTok Influencers In 2024
 description: >-
-  Find top yoga TikTok influencers in 2023. Most popular hashtags: #fyp #yoga #foryoupage #tiktok.
+  Find top yoga TikTok influencers in 2024. Most popular hashtags: #fyp #yoga #foryoupage #tiktok.
 platform: TikTok
 hits: 1484
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat has 1484 TikTok influencers like this for you to contact.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 1484 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "beatsbywaynetaylor"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.115327
     id: ckbweqypy1rdb0j23muilxbnb
     verified: true
-    hashtags: "#duetwithme, #beat, #creator, #comedy"
+    hashtags: "#fyp, #creator, #comedy, #duetwithme"
   - username: "embermusic452"
     fullname: >-
       Emily Rose
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.146499
     id: ckc7zijrv17w90j237wjkdrj7
     verified: false
-    hashtags: "#cat, #catmom, #musician, #duet"
+    hashtags: "#teacher, #musician, #musicteacher, #cat"
   - username: "dalagang04"
     fullname: >-
       dalagang🇵🇭

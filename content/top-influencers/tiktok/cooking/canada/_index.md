@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Canada In 2023
+title: Top 10 Cooking TikTok Influencers In Canada In 2024
 description: >-
-  Find top cooking TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryoupage #food #cooking.
+  Find top cooking TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #foryoupage #food #vegan.
 platform: TikTok
-hits: 327
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 327 TikTok influencers like this in Canada for you to work with.
+hits: 323
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 323 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "thehermitdruid"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.041485
     id: ckdncq9a9gq7i0j23s1gm6m76
     verified: false
-    hashtags: "#yum, #healthy, #fy, #fyp"
+    hashtags: "#healthy, #yum, #homecooking, #foodie"
   - username: "nathan_jerome"
     fullname: >-
       Nathan Jerome 
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.045236
     id: ck8z1pymn2h9g0j78eurqaafw
     verified: false
-    hashtags: "#withmyfamily, #fyp, #pancakecereal, #homeproject"
+    hashtags: "#wipeitdown, #bedroomcheck, #duet, #cookinghacks"
 ---

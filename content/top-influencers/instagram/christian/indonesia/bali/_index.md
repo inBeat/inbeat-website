@@ -1,24 +1,12 @@
 ---
-title: Top 10 Christian Instagram Influencers In Bali In 2023
+title: Top 10 Christian Instagram Influencers In Bali In 2024
 description: >-
-  Find top christian Instagram influencers in Bali in 2023. Most popular hashtags: #bali #christmas #workout.
+  Find top christian Instagram influencers in Bali in 2024. Most popular hashtags: #bali #christmas #workout.
 platform: Instagram
-hits: 8
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 8 Instagram influencers like this in Bali, Indonesia for you to work with.
+hits: 10
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 10 Instagram influencers like this in Bali, Indonesia for you to connect with.
 profiles:
-  - username: "cindythefannie"
-    fullname: >-
-      Cindy Thyssen
-    bio: >-
-      Wife, Content Creator-Beauty & Lifestyle 📍Bali @thethyssen Business 📞Jeff +62 817‑9844‑055‬ endorsement line@cindythefannie cindythefannie2@gmail.com
-    location: "Indonesia"
-    followers: 116639
-    engagement: 307
-    commentsToLikes: 0.022653
-    id: ck13a88d5p40o0i19t6lmj43d
-    verified: true
-    hashtags: "#seodalmi, #12weekspregnant, #startup, #baliindonesia"
   - username: "bams_1606"
     fullname: >-
       Bams
@@ -54,7 +42,31 @@ profiles:
     commentsToLikes: 0.065420
     id: ck5zystsqagu20i14dwzkh8sm
     verified: false
-    hashtags: "#repost, #calisthenics, #workout, #wonderful"
+    hashtags: "#repost, #calisthenics, #wonderfulindonesia, #workout"
+  - username: "wsatcc"
+    fullname: >-
+      WhiteShoes&TheCouples.Co
+    bio: >-
+      POP MONDIAL DE L'INDONÉSIE 🌴☀☁ 🎶🎸 Booking WA : 0816958434 Telp : 081290104039 Email : wsatcc@gmail.com
+    location: "Indonesia"
+    followers: 98370
+    engagement: 207
+    commentsToLikes: 0.008034
+    id: ck5c3j78qzfgk0i112d56ivg6
+    verified: false
+    hashtags: "#whiteshoesandthecouplescompany, #wsatcc, #wsatcc2020, #komtung"
+  - username: "fandych"
+    fullname: >-
+      Fandy Christian
+    bio: >-
+      Jangan Bercerai Bunda @officialrcti @dahliachr @menologybyzap @mariominardi_official CP (Digital) +62 819-5258-2828 @muhiks +821-1452-9959 (Widya)
+    location: "Indonesia"
+    followers: 2176769
+    engagement: 101
+    commentsToLikes: 0.003654
+    id: ck13ab2xrpipa0i19mmu9wvda
+    verified: true
+    hashtags: "#kitaberanjaksejenak, #grandmaloekoeuntukpapua, #kbsjourney001, #simplelife"
   - username: "chriistiinagariyasa"
     fullname: >-
       Titin✨
@@ -71,14 +83,26 @@ profiles:
     fullname: >-
       Christina
     bio: >-
-      📍Dps,Bali 💌Business: ydstmanagement@gmail.com
+      📍Dps,Bali 💌Business: ydstmanagement@gmail.com @mastakahairstudio @applenest.id
     location: "Indonesia"
-    followers: 177365
-    engagement: 331
-    commentsToLikes: 0.007325
+    followers: 179585
+    engagement: 320
+    commentsToLikes: 0.008547
     id: ck0vwlzz6ugk30i19fj5uwt1s
     verified: false
-    hashtags: "#goldenhour"
+    hashtags: ""
+  - username: "xtinmilan"
+    fullname: >-
+      Christin Wijaya
+    bio: >-
+      Triathlete | Ultra Endurance Athlete l i 🖤 sports (lg suka gunung) Mom of Milan & 5 of 🐱#xtinmilan @cannondale.id @wahoofitness.id @ @oakley
+    location: "Indonesia"
+    followers: 20879
+    engagement: 166
+    commentsToLikes: 0.097473
+    id: ck5q87wwv4v2i0i11xfedvjy3
+    verified: false
+    hashtags: "#elevaterope, #mommystrong, #momlife, #mom"
   - username: "christin_bun"
     fullname: >-
       ｃｈｒｉｓｔｉｎ | BEAUTY CREATOR
@@ -91,40 +115,16 @@ profiles:
     id: ck5cb3b88enfc0i11v7ro40ws
     verified: false
     hashtags: "#makeuplook, #eyemakeup, #christinbun, #makeupinspo"
-  - username: "x.t.i.n_m.i.l.a.n"
+  - username: "ameliachuatan"
     fullname: >-
-      Christin Wijaya
+      Christina Amelia Chuatan 🌙
     bio: >-
-      Triathlete | Ultra Endurance Athlete Mom of Milan #xtinmilan BA of @cannondale.id @wahoofitness.id @proactionbikes @oakley
+      ——— 👩🏻‍🍳 Top 8 Masterchef Indonesia S6 📮 CP : 0819 0506 3489 — Adelia 🍩 home baker of @kanaka.bakehouse
     location: "Indonesia"
-    followers: 12990
-    engagement: 294
-    commentsToLikes: 0.115628
-    id: ck5q87wwv4v2i0i11xfedvjy3
+    followers: 239274
+    engagement: 350
+    commentsToLikes: 0.019678
+    id: ck8swibg8e6oo0j78ghuoa9bo
     verified: false
-    hashtags: "#xtinmilan, #gakrecehgakasik, #gowes, #jumpropeworkout"
-  - username: "tiffofili"
-    fullname: >-
-      Tiffany Porter
-    bio: >-
-      Christian. Wife. Mother. 2 x Olympian. Pharmacist. AKA 💗💚 #Blessed Snapchat 👻: tiffporter
-    location: "Indonesia"
-    followers: 26424
-    engagement: 189
-    commentsToLikes: 0.100032
-    id: ck5qeiv2b0ph90i115lq1vpx7
-    verified: true
-    hashtags: "#mommyandme, #teamporter, #60meterhurdles, #chichimama"
-  - username: "chindymariad"
-    fullname: >-
-      𝘾𝙝𝙞𝙣𝙙𝙮𝙢𝙖𝙧𝙞𝙖𝙙💙
-    bio: >-
-      Psalm 145:17 BA🦋 Job/Endorse, Christian ‪+62 896‑9066‑7399‬ @aritmatika.ordinate @auctionbrave @slimbeautycare
-    location: "Indonesia"
-    followers: 438122
-    engagement: 255
-    commentsToLikes: 0.006976
-    id: ckaoxuh03et2d0i78q004aumk
-    verified: false
-    hashtags: "#helwa, #creamhelwa, #helwabeautycare, #creamarab"
+    hashtags: "#chefuntukbumi, #teamupforimpact, #savewatersavefood, #untukmubumiku"
 ---

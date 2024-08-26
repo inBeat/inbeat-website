@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking Instagram Influencers In United Kingdom In 2023
+title: Top 10 Cooking Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top cooking Instagram influencers in United Kingdom in 2023. Most popular hashtags: #over40fashion #londonlife #mumstyle.
+  Find top cooking Instagram influencers in United Kingdom in 2024. Most popular hashtags: #foodie #cheese #eggs.
 platform: Instagram
-hits: 1004
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 1004 Instagram influencers like this in United Kingdom for you to work with.
+hits: 1251
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 1251 Instagram influencers like this in United Kingdom for you to pitch.
 profiles:
-  - username: "carolem_beauty"
+  - username: "mrschloegill"
     fullname: >-
-      Carole - fashion & beauty
+      CHLOE GILL
     bio: >-
-      40 + London mum of a teen boy 🇬🇧 Everyday Style 🤎 Skincare Fashion 🖤 Beauty 🧡 Cooking 🤍 Lifestyle Collab - DM 💌
+      🏡 Mummy of 2 and Wife to @JBGill 📺 Cooking with The Gills @milkshake_tv 👩🏼‍💻 Talent Manager to @melladazeband 🌍 Co-Founder @alwaysforevergreen
     location: "United Kingdom"
-    followers: 35245
-    engagement: 226
-    commentsToLikes: 0.555574
-    id: ck5px38brpvqu0i11at5tnmln
+    followers: 52277
+    engagement: 421
+    commentsToLikes: 0.248458
+    id: ck6ts5dzs2uy40j717h1s2630
     verified: false
-    hashtags: "#fashionable40s, #summerstyle, #londonlife, #over40style"
-  - username: "stealmystyle40"
+    hashtags: "#christmascarols, #fruit, #mcdonalds, #pawpatrolmovie"
+  - username: "gemtakesfoodpics"
     fullname: >-
-      Abi 💕
+      Gemma Sokol
     bio: >-
-      Diary of my wardrobe as a 40+SAHM in sunny south London #cronxqueen Home cooking, clothes and lots of wine over on stories 👠👗🥟🍲
+      ☀️ Delicious, easy recipes 💭Wholesome cooking in London Email: gemtakesfoodpics@gmail.com Watch my new series How Food is Made ⬇️
     location: "United Kingdom"
-    followers: 50816
-    engagement: 292
-    commentsToLikes: 0.298109
-    id: ck0u27hw9z1q00i19fcmfrdjt
+    followers: 121060
+    engagement: 1556
+    commentsToLikes: 0.094595
+    id: ck0w3ohz3ugen0i19vwz6g13r
     verified: false
-    hashtags: "#todayiwore, #over40fashion, #covidsucks, #stealmystyle40"
-  - username: "emmzstagram"
+    hashtags: "#bread, #briecheese, #sourdough, #festivefood"
+  - username: "byrosielouise"
     fullname: >-
-      E M M A  C A R G I L L
+      rosie 📍 bath and london
     bio: >-
-      Model & Actress My cooking journey @emmzstagramcooks •@4wallsmanagement •@immmodels• •@mustardmodels•
+      Chef living in a cottage • London & Bath • @rosieatthecottage • cooking, eating, travelling represented @shinetalentgroup 📧: byrosielouise@gmail.com
     location: "United Kingdom"
-    followers: 2571
-    engagement: 1074
-    commentsToLikes: 0.157791
-    id: ckaos06bzpk2k0i78ne8jqp90
+    followers: 39551
+    engagement: 581
+    commentsToLikes: 0.035819
+    id: ck139lf4wlwe30i19pgzb36e3
     verified: false
-    hashtags: "#gifted, #lockdownouttakes"
-  - username: "reneeleerose"
+    hashtags: "#beautifulengland, #londoncityworld, #countryside, #countryinterior"
+  - username: "xanthemross"
     fullname: >-
-      Renée Lee Rose
+      Xanthe Ross
     bio: >-
-      Cooking|Home Interior|Fashion&Lifestyle Owner @PrettyMinkLashes Home @ReneeRoseHome Let’s eat! @ReneeRoseKitchen 20M+ YouTube Views! New Vid Below⬇️
+      cooking, supper clubs, etc..💚 👋🏼 xanthemross@gmail.com
     location: "United Kingdom"
-    followers: 164758
-    engagement: 208
-    commentsToLikes: 0.017263
-    id: ck5ztrco10zco0i14394yohh5
+    followers: 59750
+    engagement: 518
+    commentsToLikes: 0.011268
+    id: clpcfh35oci7u0k08vy19r9ip
     verified: false
-    hashtags: "#loungeunderwear, #missygirls"
-  - username: "bbyjewelx"
+    hashtags: "#muttipomodoro, #upcycling, #diycreations"
+  - username: "lifestyle.of.margo"
     fullname: >-
-      JEWEL
+      Margarita
     bio: >-
-      20 | ♓️🇹🇹|5’7⠀⠀ ⠀ ⠀⠀ ⠀⠀⠀ Owner Of @thebonnetboutiqueuk Cooking/Food Page @jewelspalette_ #BBYGANGX #BonnetBBYs
+      🤍 Home decor, fashion, cooking, restaurants & hotels 🖤 Style account @margarita_mavrova 💻 Social Media & Reel creator 📍 Burgas, Bulgaria
     location: "United Kingdom"
-    followers: 10179
-    engagement: 494
-    commentsToLikes: 0.039958
-    id: ck0u7crb74faj0i192kzy4d55
+    followers: 11792
+    engagement: 429
+    commentsToLikes: 0.060256
+    id: clpcfeh68by4k0k084121lq3k
     verified: false
-    hashtags: "#bbygangx"
-  - username: "gazoakley"
+    hashtags: "#bomdia, #bounjour, #bounjourno, #myhome"
+  - username: "opcfoodlife"
     fullname: >-
-      Gaz Oakley
+      Liv | Food blog
     bio: >-
-      🏴󠁧󠁢󠁷󠁬󠁳󠁿 • follow @avantgardevegan for my cooking • running the London marathon for @wwf_uk link to donate below ⬇️
+      📍Shropshire #foodie 🍽 Eating Out, Home Cooking + Activities 🍕🍝🍔🥂 💌 DM/Email for enquiries ✨
     location: "United Kingdom"
-    followers: 128799
-    engagement: 384
-    commentsToLikes: 0.011462
-    id: ck0tx93xwiba90i19fah7eiji
-    verified: true
-    hashtags: "#ovobikes, #ovobikesgreenroute, #cardiff, #ambassador"
-  - username: "daniel_johneats"
-    fullname: >-
-      Daniel John | London Foodie
-    bio: >-
-      📍London 👨🏻‍🍳 Home cooking & food reviews 📧danieljohneats@gmail.com 15% off link for @clubbackdrops ⬇️
-    location: "United Kingdom"
-    followers: 9887
-    engagement: 322
-    commentsToLikes: 0.264781
-    id: ckf5scg1gf8jt0j23ecnzf62n
+    followers: 11197
+    engagement: 495
+    commentsToLikes: 0.185716
+    id: cllxx7o4wkbdn0j08af4u1g08
     verified: false
-    hashtags: "#brunchideas, #foodshare, #avocado, #brunch"
-  - username: "clarezerny"
+    hashtags: ""
+  - username: "shadi_faleel"
     fullname: >-
-      The Vintage Kitchen
+      Fathima Yusuf (Shadiya)
     bio: >-
-      Baking & Renovating From London to Suffolk Lifestyle | Cooking | Interiors Email for collaborations 💌 clare@clarezerny.com
+      Say YES to simple cooking.. Ex-banker turned #contentcreator Email for PR/Paid Collaborations 📍#birmingham
     location: "United Kingdom"
-    followers: 22314
-    engagement: 343
-    commentsToLikes: 0.059266
-    id: ck0tu6wdn5whj0i19adazhh7h
+    followers: 1074449
+    engagement: 505
+    commentsToLikes: 0.022550
+    id: clqxropvk8mtm0k086o7o5e34
     verified: false
-    hashtags: "#interiordesign, #sunshine, #shadesail, #crittallwindow"
-  - username: "datesandavocados"
+    hashtags: "#chickenrecipes, #mealprep, #biryani, #recipes"
+  - username: "bluhydrangea_"
     fullname: >-
-      Lorena Salas
+      Blu Hydrangea
     bio: >-
-      🍰 Pastry & Plant-Based Chef⁣ 👩🏻‍🍳 Founder of Cooking School @weareaurea⁣ 🌱 Restaurant Consultancy 📚 Autora de “Dulce Sin Culpa”⁣ ⬇️ My Online Courses
+      WINNER OF RUPAULS DRAG RACE UK VS 🌍 ✨ WINNER OF CELEB COOKING SCHOOL ON E4 🍳 DWTS IRL FINALIST 💃🏼 🔹🔷🔹 For booking contact: Bookings@bluhydrangea.com
     location: "United Kingdom"
-    followers: 149353
-    engagement: 239
-    commentsToLikes: 0.069838
-    id: ck15qwfks4z1u0i19gflyz2xw
+    followers: 427270
+    engagement: 476
+    commentsToLikes: 0.013998
+    id: ck0twvco0gwp90i19g9hnb6s6
     verified: false
-    hashtags: "#internationalchefday, #diainternacionaldelchef, #veganuary, #veganricotta"
-  - username: "iamtomskinner"
+    hashtags: "#rupaulsdragrace, #crazymakeup, #pride, #dragrace"
+  - username: "slimming.chris"
     fullname: >-
-      Thomas Skinner
+      Chris 🙌🏼 Glasgow Foodie📍🏴󠁧󠁢󠁳󠁣󠁴󠁿
     bio: >-
-      🤵Business Owner 📺TV Personality 🥊Boxing ⚒West Ham Fan 👨🏼‍🍳Love Cooking! ❤️Love My Friends & Family 📧Enquiries: Marie-Claire@thecangroup.co.uk ⭐️BOSH!
+      ▫️ foodie blogger ▫️ probs cooking pasta 🤩 ▫️ love a good scran ▫️ DM for PR Invites & Collabs 🫶🏼
     location: "United Kingdom"
-    followers: 117271
-    engagement: 252
-    commentsToLikes: 0.029336
-    id: ck5q337vhj0420i11wpiusgr6
+    followers: 179247
+    engagement: 427
+    commentsToLikes: 0.013759
+    id: ck0vwzinrwdd00i19e26zfx1i
     verified: false
-    hashtags: "#family, #goodmorning, #friday, #bosh"
+    hashtags: "#healthyeating, #myfitnesspal, #dinner, #foodblog"
+  - username: "samseats"
+    fullname: >-
+      Sam Way
+    bio: >-
+      🔥 LET’S DO SOME COOKING 🔥 Enquiries: samseats@mvetalent.com
+    location: "United Kingdom"
+    followers: 1553059
+    engagement: 600
+    commentsToLikes: 0.005336
+    id: cl3cuhmln50yw0i23i2d1hlsx
+    verified: false
+    hashtags: "#foodstagram, #easyrecipe, #comfortfood, #reels"
 ---

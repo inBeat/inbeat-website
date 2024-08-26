@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Malaysia In 2023
+title: Top 10 Bakers Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top bakers Instagram influencers in Malaysia in 2023. Most popular hashtags: #foodporn #instagram #foodiesofinstagram #foodphotography.
+  Find top bakers Instagram influencers in Malaysia in 2024. Most popular hashtags: #reelsinstagram #photooftheday #foodphotography #explorepage.
 platform: Instagram
-hits: 15
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 15 Instagram influencers like this in Malaysia for you to contact.
+hits: 22
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 22 Instagram influencers like this in Malaysia for you to connect with.
 profiles:
   - username: "mama_eatwithme"
     fullname: >-
@@ -59,14 +59,26 @@ profiles:
     fullname: >-
       kanwal usman
     bio: >-
-      Lifestyle,fashion,food influencer/blogger DM for Tasting,review ,PR & MUCH more .
+      Lifestyle influencer!!
     location: "Malaysia"
-    followers: 12768
-    engagement: 412
-    commentsToLikes: 0.140393
+    followers: 51818
+    engagement: 91
+    commentsToLikes: 0.144712
     id: ck9wgp9dcudmu0j78gscy2bhd
     verified: false
-    hashtags: "#mashallah, #karachigram, #lifestylebloggers, #bloggers"
+    hashtags: "#explore, #alhamdulillah, #lifestyleinfluencer, #reels"
+  - username: "wongadrian"
+    fullname: >-
+      wongadrian
+    bio: >-
+      ♉ 工作聯絡: ohmydeer1@hotmail.com Fb page : adrianwong黃芷晴official Handmade brand: @omdeer Baking diary : @bolo.bakes
+    location: "Malaysia"
+    followers: 27529
+    engagement: 106
+    commentsToLikes: 0.015497
+    id: ck15q3l3m0xh60i19rw5a6bd5
+    verified: false
+    hashtags: "#numberonepr, #codescouleur, #chanelmakeup, #cview"
   - username: "the_steel_devils"
     fullname: >-
       Roshan Poojari
@@ -79,52 +91,40 @@ profiles:
     id: ck8t7829dfwk90j78b1oeq99i
     verified: false
     hashtags: "#v3bikerboy, #rsbeastboy, #jaseem, #heart"
-  - username: "ngpurple"
+  - username: "timmy727"
     fullname: >-
-      Purple Ng 吳紫韻 阿紫
+      Timmy Lo｜ Hong Kong
     bio: >-
-      Actress • TV Host 🎥: #姊妹淘 #娛樂新聞台 #三日兩夜 #識玩旅行團 #美女廚房 🗣中文(廣/普)/English/한국어 Work Enquiries : ngpurple.job@gmail.com
+      ティミー ｜ interior designer ｜📷 ✉️ timmy_727@hotmail.com 🐕 @mame.yochi 🍽 @eatwithtimmy
     location: "Malaysia"
-    followers: 32814
-    engagement: 338
-    commentsToLikes: 0.033502
-    id: ckf5utfe0m9270j233xdydqir
+    followers: 168072
+    engagement: 755
+    commentsToLikes: 0.031618
+    id: ck0w4ybc910ad0i1944o7eplf
     verified: false
-    hashtags: "#tvb, #hkartist, #likesforlike, #ootd"
-  - username: "delightuno"
+    hashtags: "#beautifuldestinations, #explorejapan, #tokyotokyo, #paris"
+  - username: "soheila_ghezelbash"
     fullname: >-
-      Teleana | London Food Blogger
+      Soheila Ghezelbash
     bio: >-
-      ⁣⁣ 📍Central London SE1 💌:Delight1uno@gmail.com⁣⁣ 🎶:TikTok:Delightuno 🍴:The Best Food and Drink to TRY!⁣⁣ 🥇 🖊:DM/Email for Collabs + Invites⁣⁣r
+      ‎ فارغ التحصیل آشپزی ملل 👩🏻‍🎓 ‎مشاوره و آموزش منو کافه و رستوران شرایط همکاری👇🏻 @soheilaghezelbash.ads
     location: "Malaysia"
-    followers: 9121
-    engagement: 342
-    commentsToLikes: 0.228343
-    id: ck5zp8eves6tg0i14w64gfuia
+    followers: 167724
+    engagement: 424
+    commentsToLikes: 0.033403
+    id: ck139oowtmda60i19drmjnwbr
     verified: false
-    hashtags: "#londonfoodblogger, #londonfood, #londonfoodie, #londonfoodguide"
-  - username: "bob_noor_47"
+    hashtags: "#dessert, #delish, #cook, #yummy"
+  - username: "cokiydaniel_"
     fullname: >-
-      Cop's_Call_Me_Wanted 🚔
+      PAID REVIEW MURAH 😍
     bio: >-
-      @Sealopener👅 One Natiøn🌍 Wi-Fi bzy🍌 LyF 💘- @royal_.sherni_47 #Khatri Dove🔪 NEWS STAR 👻 Creating a life, i love Bhoni entry on🚶‍♂19Jun
+      ⚠️Official Real Fans !! 🍒Paid Review Available !! ✨Follow My Acc !! ‼️Sebarang pertanyaan tentang Paid Review boleh tekan link di bawah ⤵️ BOLEH DM
     location: "Malaysia"
-    followers: 22667
-    engagement: 1791
-    commentsToLikes: 0.019087
-    id: ckap216a8wxpt0i787xslc0ae
+    followers: 106355
+    engagement: 446
+    commentsToLikes: 0.137540
+    id: ck8t9doo7nph70j78w15t4ksu
     verified: false
-    hashtags: "#instagood, #superbike, #blooger, #suzuki"
-  - username: "flyingfoodie.ff"
-    fullname: >-
-      Flying Foodie | FF
-    bio: >-
-      📍🇭🇰 #ff_homekong #ff_💛 😋From street food🥡to fine dining🍷 📝Genuine rating🌝 Random review🤪 💌DM for collaboration💡
-    location: "Malaysia"
-    followers: 3984
-    engagement: 1229
-    commentsToLikes: 0.024510
-    id: ckaoxs8qyeigv0i78mst3s7rn
-    verified: false
-    hashtags: "#hkisland, #hkfood, #causewaybay, #foodporn"
+    hashtags: "#ayatdeep, #lagujiwang, #ayatsedih, #jiwang"
 ---

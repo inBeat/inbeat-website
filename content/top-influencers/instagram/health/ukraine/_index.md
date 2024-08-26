@@ -1,24 +1,24 @@
 ---
-title: Top 10 Health Instagram Influencers In Ukraine In 2023
+title: Top 10 Health Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top health Instagram influencers in Ukraine in 2023. Most popular hashtags: #healthylifestyle #health #travel.
+  Find top health Instagram influencers in Ukraine in 2024. Most popular hashtags: #health #healthylifestyle #winter.
 platform: Instagram
-hits: 21
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 21 Instagram influencers like this in Ukraine for you to work with.
+hits: 28
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 28 Instagram influencers like this in Ukraine for you to work with.
 profiles:
-  - username: "elena_mandziuk"
+  - username: "tidymoose"
     fullname: >-
-      Olena Mandziuk 🇺🇦
+      Ivanka Siolkowsky
     bio: >-
-      fashion | healthy | business | mom ambassador @yvesrocherua my projects @boo.dni @dreamfit_you ⠀ 📮 @pr_mandziuk /contact@elenamandziuk.com
+      ✨ Home Organization 🎬 As seen on TV 📚Author 🧠 Mental Health Advocate 🧘🏼‍♀️ 🎤 Public Speaker 🇺🇦 Proud Ukrainian 🌎 Environmentalist #yearofnoshopping
     location: "Ukraine"
-    followers: 1226568
-    engagement: 231
-    commentsToLikes: 0.079392
-    id: ck5cc784xgu9f0i11xsck4hy4
+    followers: 63691
+    engagement: 46
+    commentsToLikes: 0.066015
+    id: ckwvisgpgvsn40j23vi1w2yfn
     verified: false
-    hashtags: "#milkatenderwords"
+    hashtags: "#camel, #pa, #blackfriday, #yearofnoshopping"
   - username: "lyanka_verkhivska"
     fullname: >-
       Hair-stylis |Make up artist
@@ -31,18 +31,6 @@ profiles:
     id: ck5hshscawmgk0i11rl9hp740
     verified: false
     hashtags: "#lamel, #paesecosmetics, #zara, #markwirlen"
-  - username: "marydenysiuk"
-    fullname: >-
-      𝗠𝗔𝗥𝗜𝗔 𝗗𝗘𝗡𝗬𝗦𝗜𝗨𝗞 - 𝗦𝗧𝗔𝗬 𝗛𝗘𝗔𝗟𝗧𝗛𝗬
-    bio: >-
-      - Your certified fitness buddy - Healthy recipes for you 📍Rotterdam,Netherlands #maryden_fitness & #maryden_recipe Investing/Інвестую
-    location: "Ukraine"
-    followers: 386292
-    engagement: 44
-    commentsToLikes: 0.034407
-    id: ck6udxlqtnp4g0j71mqfpeeiw
-    verified: false
-    hashtags: "#lovingblends, #solidshampoo, #zonderplasticafval, #shampoobar"
   - username: "marifur_8"
     fullname: >-
       Maria F
@@ -91,40 +79,52 @@ profiles:
     id: ck6u3sod8znk40j71vjpxpxlw
     verified: false
     hashtags: "#crimea, #rocks, #sun, #autumn"
-  - username: "annagirm"
+  - username: "osia2013"
     fullname: >-
-      A.n.n.a G.i.r Malowany 🌺
+      OSIA YOUTUBE BLOGGER
     bio: >-
-      Good life blogger 🤳🏻 Born in Odessa Ukraine 🇺🇦 Living in Israel 🇮🇱 Traveling the world 🌎 Food 😋 and wine 🍷 fan
+      Beauty | Fashion | Home | Cooking 14 years in Poland🇺🇦 500K+ YouTube channel Instagram PL : @olga.muszynska Contact: olga.donczenko@gmail.com
     location: "Ukraine"
-    followers: 5594
-    engagement: 2134
-    commentsToLikes: 0.160600
-    id: ck0tyggvvmppp0i19v8scrgo5
+    followers: 238223
+    engagement: 806
+    commentsToLikes: 0.011912
+    id: ck0w3hdw1tf460i1912161s2o
     verified: false
-    hashtags: "#smile, #happygirl, #enjoyinglife, #cheers"
-  - username: "olalaolya"
+    hashtags: "#makeup, #zara, #stylefashion, #vacationmode"
+  - username: "marydenysiuk"
     fullname: >-
-      Olga Dovbenko
+      𝗠𝗔𝗥𝗜𝗔 𝗗𝗘𝗡𝗬𝗦𝗜𝗨𝗞
     bio: >-
-      Ukrainian Association of Furniture Manufacturers @associationuafm First B2B exhibition @fube_org Furniture of Ukraine @furniture_of_ukraine
+      From Netherlands to Dubai📍 Real estate, wellness, fine dining, fashion, motherhood. 10 million+ Reels views Dm/email for collaboration🤝
     location: "Ukraine"
-    followers: 11535
-    engagement: 760
-    commentsToLikes: 0.041357
-    id: ckaow5kwj7ir20i787bkfcw06
+    followers: 267103
+    engagement: 1396
+    commentsToLikes: 0.031828
+    id: ck6udxlqtnp4g0j71mqfpeeiw
     verified: false
-    hashtags: "#happytime, #happiness, #furnitureofukraine, #pretty"
-  - username: "la_cirque.art"
+    hashtags: "#gcse, #alevels, #britishschoolsindubai, #internationalbaccalaureate"
+  - username: "suhoruchko"
     fullname: >-
-      𝐀𝐍𝐃𝐑𝐈𝐈 𝐋𝐘𝐓𝐕𝐀𝐊 🎪🎭
+      Vlad  Suhoruchko 🇺🇦🇦🇪
     bio: >-
-      🔘𝐀𝐫𝐭𝐢𝐬𝐭 𝐨𝐟 @cirquedusoleil @dragoneofficial 🎪🌞 𝐒𝐡𝐨𝐰𝐬: #Quidam #LaNouba #LaPerleDXB 🔘𝐏𝐡𝐨𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐞𝐫 @la_pics.art 📸 𝐕𝐢𝐧𝐧𝐢𝐭𝐬𝐚 📍 𝐊𝐢𝐞𝐯 🇺🇦 🔱
+      Team @dennisbigbadwolf ♠️ @bace_nutrition 🥑 @behealthy_dxb 🧷@extremesportstradinguae 🌎 Online Coaching Dubai🇦🇪
     location: "Ukraine"
-    followers: 9022
-    engagement: 529
-    commentsToLikes: 0.053893
-    id: ck0vzn9pw9y2n0i1931073vl6
+    followers: 261199
+    engagement: 207
+    commentsToLikes: 0.010326
+    id: ck5hg71zu198j0i11n17sk88b
     verified: false
-    hashtags: "#portrait, #photography, #ukraine, #kievguide"
+    hashtags: "#mrolympia, #dxb, #bodybuildingmotivation, #muscle"
+  - username: "kristi_nika"
+    fullname: >-
+      Kristina Barbakar | Женский клуб | London
+    bio: >-
+      ▪основатель @kristinika_club ▪Научу как открыть женский клуб в своем городе ▪️Более 5 лет помогаю девушкам раскрыть себя ▪️ads/реклама @pr.brand.top
+    location: "Ukraine"
+    followers: 87142
+    engagement: 176
+    commentsToLikes: 0.070826
+    id: ck5zp78rws4e10i14bsr1yrbe
+    verified: false
+    hashtags: "#moldovaeurovision2023, #pashaparfeni, #massage, #stpaulscathedral"
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Manchester In 2023
+title: Top 10 Fashion TikTok Influencers In Manchester In 2024
 description: >-
-  Find top fashion TikTok influencers in Manchester in 2023. Most popular hashtags: #foryou #fashion #fyp #foryoupage.
+  Find top fashion TikTok influencers in Manchester in 2024. Most popular hashtags: #foryou #fashion #fyp #foryoupage.
 platform: TikTok
 hits: 8
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our database aggregates 8 TikTok influencers like this in Manchester, United Kingdom for you to work with.
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 8 TikTok influencers like this in Manchester, United Kingdom for you to connect with.
 profiles:
+  - username: "mollhunterxoxo"
+    fullname: >-
+      Molly Hunter 
+    bio: >-
+      𝑀𝑜𝓁𝓁𝓎 / 21
+    location: "United Kingdom"
+    followers: 19100
+    engagement: 400
+    commentsToLikes: 0.032870
+    id: ckbf62by7vf650j23ir724j7g
+    verified: false
+    hashtags: "#subscribe, #trend, #linkinmybio, #boohoo"
   - username: "philreid"
     fullname: >-
       Phil Reid
@@ -19,18 +31,6 @@ profiles:
     id: ck96173rjledl0j78z2jjrsia
     verified: false
     hashtags: "#foryou, #fyp, #teacher, #school"
-  - username: "mollhunterxoxo"
-    fullname: >-
-      Molly Hunter 
-    bio: >-
-      𝑀𝑜𝓁𝓁𝓎 / 21
-    location: "United Kingdom"
-    followers: 19100
-    engagement: 400
-    commentsToLikes: 0.032870
-    id: ckbf62by7vf650j23ir724j7g
-    verified: false
-    hashtags: "#fyp, #subscribe, #subscribetome, #foryou"
   - username: "ambermasonnn"
     fullname: >-
       Amber Mason
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.143809
     id: ckc7nj76mtnxg0j23kaz9owb2
     verified: false
-    hashtags: "#aesthetic, #calming, #bookclub, #beach"
+    hashtags: "#foryoupage, #lifestyle, #beach, #fyp"
   - username: "pop_sausage"
     fullname: >-
       pop the saus. 
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.176973
     id: ckav2ei0f8i2v0j23dknz44pf
     verified: true
-    hashtags: "#sausagedog, #dogsoftiktok, #wienerdog, #topdog"
+    hashtags: "#dog, #dogs, #feelgoodfactor, #topdog"
 ---

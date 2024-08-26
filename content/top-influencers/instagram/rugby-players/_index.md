@@ -1,130 +1,130 @@
 ---
-title: Top 10 Rugby Players Instagram Influencers In 2023
+title: Top 10 Rugby Players Instagram Influencers In 2024
 description: >-
-  Find top rugby players Instagram influencers in 2023. Most popular hashtags: #blackouttuesday #nefaisonsxv #fyp.
+  Find top rugby players Instagram influencers in 2024. Most popular hashtags: #lionsrugby #impossibleisnothing #asone.
 platform: Instagram
-hits: 249
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 249 Instagram influencers like this for you to connect with.
+hits: 254
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 254 Instagram influencers like this for you to contact.
 profiles:
-  - username: "reecehodge"
+  - username: "george_fordy"
     fullname: >-
-      Reece Hodge
+      George Ford
     bio: >-
-      Professional Rugby Player @melbournerebels #88 @wallabies #897 🦘 🇦🇺🏠: Sydney ✖️ Melbourne 🏈🌊 Living the dream ⛳️☀️
-    location: "Australia"
-    followers: 18708
-    engagement: 950
-    commentsToLikes: 0.032605
-    id: ckap4prq38bht0i78kbgvd23s
-    verified: true
-    hashtags: "#thelockdowntour, #footycoloursday, #slipweek, #grassroots"
-  - username: "kremermarcos"
-    fullname: >-
-      Marcos Kremer
-    bio: >-
-      Pro Rugby Player🏈 @stade_francais_paris 🇫🇷 Plaza Jewell 🔴🔵 “Levántate, respirá profundo y sigue a paso firme”
-    location: "France"
-    followers: 92047
-    engagement: 1281
-    commentsToLikes: 0.011879
-    id: ck5pvx51ak1wv0i11sbzxq6a1
-    verified: true
-    hashtags: "#quento, #quentosnacks"
-  - username: "daltoncarverxc"
-    fullname: >-
-      Dalton Carver
-    bio: >-
-      I play rugby, I dance, and I do a lot of nerd stuff. 🧪 Chemical Engineering Student 🏉 University of Alabama Rugby Player @alabamamensrugby
-    location: "United States"
-    followers: 8571
-    engagement: 1879
-    commentsToLikes: 0.025223
-    id: ckap3csx92irf0i788obn9gx3
-    verified: false
-    hashtags: "#happypride"
-  - username: "rhysw0912"
-    fullname: >-
-      Rhys Webb
-    bio: >-
-      🙎‍♂️🙎‍♂️🙎‍♂️💍 • Professional Rugby player • Represented - @derwynj
+      Rugby Player @salesharks Represented by @ymurugby
     location: "United Kingdom"
-    followers: 69718
-    engagement: 439
-    commentsToLikes: 0.025109
-    id: ck55knqbnzq3f0i11uunhyg67
+    followers: 146034
+    engagement: 538
+    commentsToLikes: 0.005957
+    id: ck0uapktvcsjc0i19tt2ri2ee
     verified: true
-    hashtags: "#squad, #development, #fyp, #blm"
-  - username: "santi_cordero"
+    hashtags: "#rugbyunion, #trustelite, #sportsnutrition, #rugby"
+  - username: "florianteatiu"
     fullname: >-
-      Santi Cordero
+      Florian Teatiu
     bio: >-
-      Professional rugby player @ubbrugby @nike athlete 📍Bordeaux , France
-    location: "France"
-    followers: 94175
-    engagement: 914
-    commentsToLikes: 0.009640
-    id: ck15qzojr5enc0i19dibyu996
-    verified: true
-    hashtags: "#allezubb"
-  - username: "g.laidlaw"
-    fullname: >-
-      Greig Laidlaw
-    bio: >-
-      Rugby player
+      • Personal trainer who is here to make training fun! • Former pro ballet dancer and a rugby Player • PT/model/content creator • Let’s train together👇
     location: "United States"
-    followers: 83900
-    engagement: 862
-    commentsToLikes: 0.009976
-    id: ck5cc78s9guax0i112ruy72wg
-    verified: true
-    hashtags: "#hometeam, #hospitalityforheroeschallenge, #chefscollective, #dadscare"
+    followers: 30935
+    engagement: 1459
+    commentsToLikes: 0.093821
+    id: ck8tcni6k01300j78sy1h4k2u
+    verified: false
+    hashtags: "#parisolympics, #comedy, #gymfunnyvideos, #fitnesscomedy"
   - username: "billmeakes"
     fullname: >-
       Billy Meakes
     bio: >-
-      Professional rugby player @giltinis Founder @baldco_ Represented by @lmbmanagement LA, California
-    location: "United Kingdom"
-    followers: 19642
-    engagement: 567
-    commentsToLikes: 0.018076
+      Professional rugby player @chicagohoundsrugby Founder @baldco_ Founder @boulevard.venice LA / Chicago 📍
+    location: "Italy"
+    followers: 23569
+    engagement: 688
+    commentsToLikes: 0.017722
     id: ck135pc262kbw0i19bn1u9qge
     verified: true
-    hashtags: "#shootersshoot, #day3, #champions, #12"
-  - username: "charlesollivon"
+    hashtags: ""
+  - username: "darcy_graham21"
     fullname: >-
-      Charles Ollivon
+      Darcy Graham
     bio: >-
-      Professionnal Rugby Player 🏉 @rctofficiel 🔴⚫️ | @francerugby 🔵⚪️🔴 Partnerships : hello@bros-agency.com 👟 @adidasparis @adidasrugby
-    location: "France"
-    followers: 66053
-    engagement: 1588
-    commentsToLikes: 0.008379
-    id: ck6tusc1di4kb0j71d36gfmyn
-    verified: true
-    hashtags: "#xvdefrance, #tissot, #officialtimekeeper, #nefaisonsxv"
-  - username: "sachavalleau"
-    fullname: >-
-      Sacha Valleau ||
-    bio: >-
-      Professional Rugby player @francerugby •@adidasparis Athlete •Olympian Rio2016 🇧🇷 • 📍Paris , France 🇫🇷
-    location: "France"
-    followers: 10032
-    engagement: 1320
-    commentsToLikes: 0.012487
-    id: ck6tz95fg8c8b0j71bsoq4aw0
-    verified: true
-    hashtags: "#insach, #dubai, #crvhybrid, #2021"
-  - username: "joe_launch"
-    fullname: >-
-      Joe Launchbury
-    bio: >-
-      Professional rugby player for Wasps and England. Represented by @greenroomsports
+      🏉 Pro Rugby player @EdinburghRugby 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Cap #1098 @scotlandteam 👕 Owner of @raphael.clothing 🍄 @puresport ambassador
     location: "United Kingdom"
-    followers: 75252
-    engagement: 700
-    commentsToLikes: 0.007656
-    id: ck8sywc1um9kx0j78n2aewpjw
+    followers: 31894
+    engagement: 1422
+    commentsToLikes: 0.006856
+    id: ck5pyq7lmx9c20i11tr1xukp2
     verified: true
-    hashtags: "#happyfathersway, #ad, #blackouttuesday"
+    hashtags: "#asone"
+  - username: "cjstander"
+    fullname: >-
+      CJ Stander
+    bio: >-
+      Retired rugby player for Munster & Ireland. Owner of @_thebelmont_ Franschhoek.
+    location: "United States"
+    followers: 118139
+    engagement: 863
+    commentsToLikes: 0.007524
+    id: ck0w1z3r0lugf0i196qdmosva
+    verified: true
+    hashtags: "#thebelmontfh, #rugbydelivered, #franschhoek, #southafrica"
+  - username: "stuarthogg21"
+    fullname: >-
+      Stuart W Hogg
+    bio: >-
+      Hawick Boy. Husband. Father of 3. Former Rugby Player 🏴󠁧󠁢󠁳󠁣󠁴󠁿🦁 Sports Broadcaster @tntsports 🎤🏉 @LandRover_UK @breitling_uk 🚙⌚️ Enquiries @YMURugby
+    location: "United Kingdom"
+    followers: 184379
+    engagement: 859
+    commentsToLikes: 0.005133
+    id: ck0w4346nwkic0i190v53uoho
+    verified: true
+    hashtags: "#ad, #lionsrugby, #asone, #joey"
+  - username: "jessekriel15"
+    fullname: >-
+      Jesse Kriel
+    bio: >-
+      • Professional Rugby Player🇿🇦🇯🇵 • @canoneagles • @nike Athlete • @muscletech • Living my dream ✌🏼🏉
+    location: "Japan"
+    followers: 198721
+    engagement: 430
+    commentsToLikes: 0.003796
+    id: ck5capqlqdw030i11i4u1wbuj
+    verified: true
+    hashtags: "#lionsrugby, #iwcwatches, #thereference, #unforgettablemoment"
+  - username: "wjjleroux"
+    fullname: >-
+      Willie Le Roux
+    bio: >-
+      Professional rugby player 🇿🇦 | 🇯🇵 • Twitter - @wjjleroux • @nike athlete • @officialneolife • @toyota_sa
+    location: "Japan"
+    followers: 158839
+    engagement: 444
+    commentsToLikes: 0.006438
+    id: ck5capt6bdw5e0i11o4m2bj0r
+    verified: true
+    hashtags: "#excited, #heretostay, #adventureawaits, #intouchsports"
+  - username: "fafster09"
+    fullname: >-
+      Francois Faf De Klerk
+    bio: >-
+      Rugby player @canoneagles @nike Athlete Twitter; @fafdeklerk .For personal video request go to link⬇️
+    location: "South Africa"
+    followers: 418902
+    engagement: 548
+    commentsToLikes: 0.004365
+    id: ck5cdvy3pjvtf0i11wvuxyjrj
+    verified: true
+    hashtags: "#thegoodolddays, #blessed, #iloveswagyu, #okinawa"
+  - username: "dylanfawsitt"
+    fullname: >-
+      Dylan Fawsitt
+    bio: >-
+      Dad, Husband and Professional Rugby Player, @usarugby 🦅 🇺🇸 & @chicagohoundsrugby 🐺 @usmlr 📍Chicago, IL @mobotnation #ROLLMODEL
+    location: "United States"
+    followers: 3537
+    engagement: 1292
+    commentsToLikes: 0.039389
+    id: ck6u6iovoftaj0j7136jf72wq
+    verified: true
+    hashtags: "#mlr2023, #humpday, #mobotnation, #rugbyunitednewyork"
 ---

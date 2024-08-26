@@ -1,12 +1,72 @@
 ---
-title: Top 10 Runners Instagram Influencers In Brazil In 2023
+title: Top 10 Runners Instagram Influencers In Brazil In 2024
 description: >-
-  Find top runners Instagram influencers in Brazil in 2023. Most popular hashtags: #trip #running #tbt #errejota.
+  Find top runners Instagram influencers in Brazil in 2024. Most popular hashtags: #correr #corridaderua #tbt #running.
 platform: Instagram
-hits: 158
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 158 Instagram influencers like this in Brazil for you to connect with.
+hits: 166
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 166 Instagram influencers like this in Brazil for you to contact.
 profiles:
+  - username: "helio_fumo"
+    fullname: >-
+      Helio Fumo
+    bio: >-
+      🏃🏾‍♂️Trail Runner 🎽| @compressport 👟| @scarpaspa 💼| @associacaoheliofumo 🇲🇿🇵🇹📌Lisboa Coaching or Running Click ⬇️⬇️
+    location: "Brazil"
+    followers: 33063
+    engagement: 413
+    commentsToLikes: 0.039664
+    id: ck55pjffuaov20i11jtvci72l
+    verified: false
+    hashtags: "#suuntoesp, #tbt, #run, #treinamalandro"
+  - username: "beatrizromano"
+    fullname: >-
+      Beatriz Romano
+    bio: >-
+      runner team @nike 🇧🇷 road to chicago marathon bearomano@grapadigital.com.br
+    location: "Brazil"
+    followers: 84169
+    engagement: 262
+    commentsToLikes: 0.032019
+    id: ck8wgeuw0h7x50j786ma4jmgm
+    verified: false
+    hashtags: "#nikefreemetcon6, #nikerunning, #nikegirl, #runnergirl"
+  - username: "maggysantoss"
+    fullname: >-
+      MAGGY
+    bio: >-
+      Run • Travel • Sun seeker Founder of @highcoffee__ @highcolllagen @highgreenss Adidas Runners Lisboa
+    location: "Brazil"
+    followers: 36368
+    engagement: 179
+    commentsToLikes: 0.063068
+    id: ckaowa6sg81370i786ml9h4vz
+    verified: false
+    hashtags: "#run, #adidasrunners, #rungirl, #caf"
+  - username: "corrersemlesao"
+    fullname: >-
+      CORRER SEM LESÃO
+    bio: >-
+      Adm: @alexandrecarlosrosa 🏃 Fisioterapeuta, professor universitário e maratonista. Colunista @runnersbrasiloficial
+    location: "Brazil"
+    followers: 42154
+    engagement: 197
+    commentsToLikes: 0.051093
+    id: ck8t0tug3tal90j78y32c79r0
+    verified: false
+    hashtags: "#zoompilates, #pilatesapp, #fisioterapia, #pilateswithprops"
+  - username: "andrearodriguezm_"
+    fullname: >-
+      A N D R E A
+    bio: >-
+      Detroit | Mexico City 📍| São Paulo | runner / @nike brand ambassador
+    location: "Brazil"
+    followers: 56896
+    engagement: 61
+    commentsToLikes: 0.021179
+    id: ck5hp0jf9qjqq0i111uhvq3f2
+    verified: false
+    hashtags: "#englishpear, #justdoit, #pullandbearcommunity, #ad"
   - username: "pedeaopai"
     fullname: >-
       Inês Ribolhos
@@ -67,64 +127,4 @@ profiles:
     id: ck9wf6rsnnfnh0j78jgdl9snq
     verified: false
     hashtags: "#instarunners, #relax, #litoralnorte, #smileeveryday"
-  - username: "pjoseane"
-    fullname: >-
-      Paula Joseane
-    bio: >-
-      Miss Brazil Tourism 2017 👑 Miss World Tourism first runner up 👑 Miss Rio Grande do Norte CNB 2020/21 👑 ✈️ 🇧🇷 🇨🇳 🇺🇸 🇮🇳
-    location: "Brazil"
-    followers: 25738
-    engagement: 145
-    commentsToLikes: 0.079326
-    id: ckaoyu8gij3vg0i78ju4w3zme
-    verified: false
-    hashtags: "#missbrasil, #misscnb, #miss, #misscnb2020"
-  - username: "fernandamaciel_oficial"
-    fullname: >-
-      Fernanda Maciel
-    bio: >-
-      Brazilian ultra runner• Vice World Champion UTWT • 4 Podium UTMB • Top 5 Sky Running World Champs • Top 3 World Ranking UTWT 2018/2019
-    location: "Brazil"
-    followers: 142577
-    engagement: 311
-    commentsToLikes: 0.015622
-    id: ck0tu8zma64ks0i19umhwns84
-    verified: true
-    hashtags: "#vectiv, #running, #powerfurther, #winter"
-  - username: "matheusgiora"
-    fullname: >-
-      Matheus Giora
-    bio: >-
-      2nd runner up Manhunt int 2020🥉 Manhunt Brazil 2019🏆 Empresário💰 Executivo de vendas Parcerias direct
-    location: "Brazil"
-    followers: 16002
-    engagement: 431
-    commentsToLikes: 0.047910
-    id: ckap9pyebt6dx0i783px2i0fx
-    verified: false
-    hashtags: "#blessed, #urubici, #trip, #santacatarina"
-  - username: "afederiji"
-    fullname: >-
-      Adriane Federiji
-    bio: >-
-      Dentista 🦷 Mãe 👩‍👧‍👦 4 maratonas 🇨🇱 🇦🇷 🇧🇷 🇧🇷 Ultramaratonista @br135ultramarathon @bertiogamaresias_75k @desafio12horas Ninja RUNNER UPHILL 42 km
-    location: "Brazil"
-    followers: 25650
-    engagement: 204
-    commentsToLikes: 0.053254
-    id: ckf5ueenvklq20j23kxiowv32
-    verified: false
-    hashtags: "#elascorrem, #amadoresdacorrida, #caminhodafe, #treino"
-  - username: "biancamatte"
-    fullname: >-
-      Bianca Matte
-    bio: >-
-      📍 São Paulo 🌍 👸🏼 Miss Roraima 2013 👸🏼 2nd Runner Up Miss Tourism Universe 2014 Lifestyle • Travel • Food • Beauty
-    location: "Brazil"
-    followers: 31029
-    engagement: 106
-    commentsToLikes: 0.060278
-    id: ckf5owd4641r40j234fm20jlg
-    verified: false
-    hashtags: "#tulum, #ruinas, #rio, #azulik"
 ---

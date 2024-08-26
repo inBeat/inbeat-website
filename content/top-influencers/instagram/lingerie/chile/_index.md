@@ -1,24 +1,24 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Chile In 2023
+title: Top 10 Lingerie Instagram Influencers In Chile In 2024
 description: >-
-  Find top lingerie Instagram influencers in Chile in 2023. Most popular hashtags: #lingerie #portrait #love #model.
+  Find top lingerie Instagram influencers in Chile in 2024. Most popular hashtags: #lingerie #portrait #photoshoot #model.
 platform: Instagram
-hits: 14
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 14 Instagram influencers like this in Chile for you to connect with.
+hits: 17
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 17 Instagram influencers like this in Chile for you to contact.
 profiles:
   - username: "luismente"
     fullname: >-
       LuisMente
     bio: >-
-      Haz inmortales tus mejores momentos 📸 ⚜ 🌎 🇬 🇩 🇱 | 🇲 🇽 📍 🇲🇽
+      Fotógrafo Mexicano de Retrato y Eventos en Guadalajara, México. 📸 ⚜ 🌎 🇬 🇩 🇱 | 🇲 🇽 📍 🇲🇽
     location: "Chile"
-    followers: 5922
-    engagement: 563
-    commentsToLikes: 0.148657
+    followers: 6064
+    engagement: 565
+    commentsToLikes: 0.157416
     id: ck55marob3kai0i110i1tuiqe
     verified: false
-    hashtags: "#gdl, #lence, #chones, #guadalajara"
+    hashtags: "#tapatia, #guadalajara, #portrait, #fotografia"
   - username: "iamrouxe"
     fullname: >-
       Joaquín | Fotógrafo boudoir
@@ -43,6 +43,30 @@ profiles:
     id: ck0vxdjfnyd8a0i191fkv8hkj
     verified: false
     hashtags: ""
+  - username: "vanealaska_"
+    fullname: >-
+      🌸Vanessa Alaska 🌸
+    bio: >-
+      Belleza | Moda | Viajes 🎥Creadora de contenido 💝DBSvanealaska | Sokovane códigos 💌Vannealaska@gmail.com 🎀 Tiktok vanealaska 📍Santiago, Chile
+    location: "Chile"
+    followers: 23452
+    engagement: 316
+    commentsToLikes: 0.117920
+    id: clpfe0bngj0m90k08q8fvay8i
+    verified: false
+    hashtags: "#ootd, #pink, #barbie, #selfcare"
+  - username: "valelotero"
+    fullname: >-
+      ᴠ ᴀ ʟ ᴇ ʀ ɪ ᴀ  ʟ ᴏ ᴛ ᴇ ʀ ᴏ
+    bio: >-
+      Artes-Comunicación-Mercadeo-MEMES 🇨🇴🇨🇱 @soulintimates. 👙 A R T 🎨 T R A V E L S✈️
+    location: "Chile"
+    followers: 59879
+    engagement: 213
+    commentsToLikes: 0.037853
+    id: ck8t0vulytioi0j78e85zl5cg
+    verified: true
+    hashtags: "#bramaternity, #sustentabilidad, #familia, #challengeaccepted"
   - username: "javieramolc"
     fullname: >-
       Javiera Molina
@@ -54,7 +78,7 @@ profiles:
     commentsToLikes: 0.061438
     id: ck0w3b3lxshqo0i194dc9sib9
     verified: false
-    hashtags: "#caldera, #latinmodel, #streetwear, #instachile"
+    hashtags: "#chile, #latinmodel, #calderachile, #bahiainglesachile"
   - username: "felixee"
     fullname: >-
       Felix
@@ -103,28 +127,4 @@ profiles:
     id: ck55k2nr3ybce0i11yka8kcau
     verified: false
     hashtags: "#highlightscl, #boudoirphotography, #ice, #portrait"
-  - username: "miss.ro_cf"
-    fullname: >-
-      𝕽𝖔𝖒𝖎𝖓𝖆 ☾
-    bio: >-
-      ^A^ lover • Cat lover • Rock lover #vegan #crueltyfree #lifestyle #fashion Santiago, Chile
-    location: "Chile"
-    followers: 6585
-    engagement: 850
-    commentsToLikes: 0.076915
-    id: ck8szwkjapzae0j78kz516j9v
-    verified: false
-    hashtags: "#missro, #witchy, #occult, #lace"
-  - username: "memo_andres28"
-    fullname: >-
-      MEMO 🇨🇱
-    bio: >-
-      Profesor de Educación Física y salud🏋️‍♀️ Licenciado en Educación📚 Staff @o2fitchile Entrenador @fast_chile Body Combat🥊 ProCycling🚲 Pancha-León🐶
-    location: "Chile"
-    followers: 28230
-    engagement: 414
-    commentsToLikes: 0.027403
-    id: ck8tbl5d0w2s60j78te3pfkjk
-    verified: false
-    hashtags: "#gaymen, #beardedgay, #love, #gayman"
 ---

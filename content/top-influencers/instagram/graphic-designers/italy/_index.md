@@ -1,12 +1,72 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Italy In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Italy In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Italy in 2023. Most popular hashtags: #instagood #love #ig.
+  Find top graphic-designers Instagram influencers in Italy in 2024. Most popular hashtags: #love #estate #photoshop.
 platform: Instagram
-hits: 67
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 67 Instagram influencers like this in Italy for you to work with.
+hits: 139
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 139 Instagram influencers like this in Italy for you to connect with.
 profiles:
+  - username: "c1superstar"
+    fullname: >-
+      C1superstar 🇮🇹
+    bio: >-
+      Eletto Prodotto dell'Anno dal 1989 🎨 Graphic Designer & Photographer 💻 Social Media Manager 📍 Milan
+    location: "Italy"
+    followers: 38160
+    engagement: 651
+    commentsToLikes: 0.112076
+    id: ck138mc2dgxly0i19lfob5jbc
+    verified: false
+    hashtags: "#photomanipulation, #vivolombardia, #estate, #travelphotography"
+  - username: "davehumphrey"
+    fullname: >-
+      Davide Mugnieco
+    bio: >-
+      Art Director & Graphic Designer Milano
+    location: "Italy"
+    followers: 9419
+    engagement: 364
+    commentsToLikes: 0.009494
+    id: ckf5mprkouxke0j23hy7z7fwd
+    verified: false
+    hashtags: "#illustrator, #doodle, #illustration, #leaves"
+  - username: "annickvaesken"
+    fullname: >-
+      Annick Vaesken Valentino
+    bio: >-
+      Hey. How you doing? 📍Asunción Graphic Designer / Fashion Business & Mkt - Marangoni Milano / Content creator Paraguaya 🇵🇾
+    location: "Italy"
+    followers: 54290
+    engagement: 258
+    commentsToLikes: 0.009448
+    id: ck5zy5ddm99cw0i14kmsbvgx6
+    verified: false
+    hashtags: ""
+  - username: "unpizzicodiviola"
+    fullname: >-
+      unpizzicodiviola
+    bio: >-
+      Food blogger, content creator, graphic designer per lavoro e piccola cuoca per passione. Vi racconto un pizzico di me. unpizzicodiviola@gmail.com
+    location: "Italy"
+    followers: 46619
+    engagement: 111
+    commentsToLikes: 0.115060
+    id: ck9wfqux1q44l0j78b1nq8144
+    verified: false
+    hashtags: "#ricotta, #pranzo, #frutta, #love"
+  - username: "je.cuoredifrolla"
+    fullname: >-
+      Jessica Anselmini
+    bio: >-
+      🥰 Graphic Designer e Pasticciona 🧁 Amo preparare dolci e condividerli 🍭 Non so stare ferma, amo la pizza, il gelato, le passeggiate e la natura
+    location: "Italy"
+    followers: 71286
+    engagement: 58
+    commentsToLikes: 0.065430
+    id: ck8tc9ncuyrzi0j789te140f2
+    verified: false
+    hashtags: "#cucinare, #cioccolato, #ricetta, #estate2021"
   - username: "mrezababaei_photography"
     fullname: >-
       ▪️Mohammad Reza Babaei
@@ -67,64 +127,4 @@ profiles:
     id: ck5zutk3m30iy0i14ylk1997e
     verified: false
     hashtags: "#digitalart, #kimivibe, #vansrussia, #artwork"
-  - username: "damaridea_photographer"
-    fullname: >-
-      𝙳𝚊𝚖𝚊𝚛𝚒𝚍𝚎
-    bio: >-
-      Photographer & Graphic Designer Traveller and explorer addicted 🌍 #writewithlight Based in La Spezia / Cinque Terre📍 Booking: damaridea@gmail.com 📩
-    location: "Italy"
-    followers: 4584
-    engagement: 1333
-    commentsToLikes: 0.050998
-    id: ckaowk8279acz0i788d5mye17
-    verified: false
-    hashtags: "#theend"
-  - username: "mskevin"
-    fullname: >-
-      Kévin 🧔🏻✨
-    bio: >-
-      Lille • France • Graphic Designer 〰️ Nikon Z5 | #NikonZCreators
-    location: "Italy"
-    followers: 18174
-    engagement: 1266
-    commentsToLikes: 0.069498
-    id: ck8szyo3yq87z0j78u889dsin
-    verified: false
-    hashtags: ""
-  - username: "massimiliano_fulgosi"
-    fullname: >-
-      ◭MΛSSIMILIΛNO◭
-    bio: >-
-      ▪️ Graphic Designer ◾ Sony α7R II ◼️ Landscapes | Mountains | Nature ⬛ 🐭♥️🐶
-    location: "Italy"
-    followers: 2141
-    engagement: 3334
-    commentsToLikes: 0.144427
-    id: ck5q0590p4bes0i11qpwf6z81
-    verified: false
-    hashtags: "#earth, #landscapephotography, #visitmountain, #puremountain"
-  - username: "alicedetogni"
-    fullname: >-
-      Alice
-    bio: >-
-      📓Interior & Graphic Designer.
-    location: "Italy"
-    followers: 241069
-    engagement: 277
-    commentsToLikes: 0.007974
-    id: ck0u7e6gq4lw80i191qrwfjjc
-    verified: false
-    hashtags: "#returkey, #readyandsafet, #onlyint, #got"
-  - username: "selva_francesca_"
-    fullname: >-
-      Francesca Selva
-    bio: >-
-      Italian | #Venice ProCyclist | @tredfactoryracing Photographer | @_fsfoto_ Graphic designer | @itts_volterra_ Science of communication | @uninettuno
-    location: "Italy"
-    followers: 16218
-    engagement: 567
-    commentsToLikes: 0.024840
-    id: ck6tynvez4tr20j71xd2n1ksm
-    verified: false
-    hashtags: "#ashaa"
 ---

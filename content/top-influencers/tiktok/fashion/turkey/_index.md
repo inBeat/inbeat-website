@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Turkey In 2023
+title: Top 10 Fashion TikTok Influencers In Turkey In 2024
 description: >-
-  Find top fashion TikTok influencers in Turkey in 2023. Most popular hashtags: #fashion #fyp #ke #tiktok.
+  Find top fashion TikTok influencers in Turkey in 2024. Most popular hashtags: #fashion #fyp #ke #love.
 platform: TikTok
 hits: 28
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 28 TikTok influencers like this in Turkey for you to contact.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 28 TikTok influencers like this in Turkey for you to contact.
 profiles:
   - username: "helinserdar"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.052746
     id: ck7zo4x67htzw0j78gez04ji2
     verified: true
-    hashtags: "#tutorial, #creative, #fashion, #outfit"
+    hashtags: "#funny, #drawing, #fashion, #creative"
   - username: "lexe.ahmetr"
     fullname: >-
       Léxé丨AhmetR
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.017671
     id: ck9r8i9o1cel50j783ykaic9r
     verified: false
-    hashtags: "#amore, #style, #istanbul, #fashionista"
+    hashtags: "#couplecomedy, #tiktokindia, #cute, #fashionista"
   - username: "putkatheuntuck"
     fullname: >-
       Muscle Queen

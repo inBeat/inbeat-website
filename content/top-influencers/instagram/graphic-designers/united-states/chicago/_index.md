@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Chicago In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Chicago In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Chicago in 2023. Most popular hashtags: #chicago #bulls #nba #lebron.
+  Find top graphic-designers Instagram influencers in Chicago in 2024. Most popular hashtags: #chicago #nba #lakers #bulls.
 platform: Instagram
-hits: 16
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our database has 16 Instagram influencers like this in Chicago, United States for you to work with.
+hits: 34
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 34 Instagram influencers like this in Chicago, United States for you to work with.
 profiles:
   - username: "hometown_designs"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.013063
     id: ck5qb3owzjnt30i11pefzp2rk
     verified: false
-    hashtags: "#mj, #michael, #zachlavine, #basketball"
+    hashtags: "#basketball, #ball, #sportsposters, #ballislife"
   - username: "morganweske"
     fullname: >-
       Morgan Weske
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.205823
     id: ck13bfbo4v5jk0i19kbk8suss
     verified: false
-    hashtags: "#foodphotography, #shareyourtable, #valentinesday, #chocolatecake"
+    hashtags: "#bread, #grilling, #blueberry, #foodstyling"
   - username: "entiredesign"
     fullname: >-
       Jimmy O'Mara
@@ -54,19 +54,19 @@ profiles:
     commentsToLikes: 0.008309
     id: ck5c7otg27xav0i11ch8qupan
     verified: false
-    hashtags: "#retro, #graphicdesign, #lfc, #liverpool"
-  - username: "jnewberries"
+    hashtags: "#nikefootball, #adidasfootball, #illustration, #liverpool"
+  - username: "martarasava"
     fullname: >-
-      Jonna N / Chicago Foodie
+      Marta
     bio: >-
-      👩🏻💻 Graphic designer with a sweet tooth & love of art & Disney 🍴 Flatlays & comfort foods 📧 Email/DM for collabs jnewberries@gmail.com
+      Digital creator, Graphic designer | @miadcollege w.marta.tarasava@gmail.com
     location: "United States"
-    followers: 9259
-    engagement: 289
-    commentsToLikes: 0.185876
-    id: ck5q8kfkg6mmc0i11fc73fuzv
+    followers: 10783
+    engagement: 263
+    commentsToLikes: 0.012330
+    id: ck6tqcm72qoet0j711d4olz1s
     verified: false
-    hashtags: "#gifted, #hbtsp, #wagyu, #sponsored"
+    hashtags: "#diptyqueparis, #depuis1961, #octolyfamily, #chicago"
   - username: "srelix"
     fullname: >-
       Mikey Halim
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.029166
     id: ck14i3jeudgpd0i19x5n4pl7z
     verified: false
-    hashtags: "#hawkedits, #la, #nba, #lebronjames"
+    hashtags: "#chicagobulls, #bulls, #hawkedits, #nba"
   - username: "bayareadesigns"
     fullname: >-
       Jeremy Jae Aguinaldo
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.071267
     id: ckrws3l9w2zqp0j237z692tee
     verified: false
-    hashtags: "#faithbased, #charlottenc, #livestream, #nasville"
-  - username: "optimusmendez"
+    hashtags: "#cookitupkym, #losangeles, #durhamnc, #lasvegas"
+  - username: "gillie_edits"
     fullname: >-
-      ✶✶BVC CO-CAP✶✶
+      GillieEdits
     bio: >-
-      HUBBY/DAD/OG/BOM/ELITE/GOODFELLA 🐗01/21/20🐗 Owner of @chiversitybrand CityLocs OPTIMUS for 10% off TeamPBO🐙⚓️🇵🇷 🇪🇨 OPTIMUS for 20% off
+      ✖️Where Sports & Art Collide ✖️ NY based artist 🇺🇸 ✖️self taught ✖️ DM for Custom edits ✖️YouTube 🔻
     location: "United States"
-    followers: 5908
-    engagement: 429
-    commentsToLikes: 0.073100
-    id: ck136gkt66e920i19imqsx4vb
+    followers: 15772
+    engagement: 1290
+    commentsToLikes: 0.016394
+    id: ck13d16o8357m0i19vxn12x2y
     verified: false
-    hashtags: "#graphicdesigner, #bearded, #beardsandtattoos, #ig"
+    hashtags: "#nfl, #graphicdesign, #graphicdesigner, #goat"
 ---

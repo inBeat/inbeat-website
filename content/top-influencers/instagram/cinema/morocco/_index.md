@@ -1,12 +1,36 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Morocco In 2023
+title: Top 10 Cinema Instagram Influencers In Morocco In 2024
 description: >-
-  Find top cinema Instagram influencers in Morocco in 2023. Most popular hashtags: #morocco #cinema #casablanca #photography.
+  Find top cinema Instagram influencers in Morocco in 2024. Most popular hashtags: #morocco #cinema #cinematography #marrakech.
 platform: Instagram
-hits: 17
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 17 Instagram influencers like this in Morocco for you to pitch.
+hits: 26
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 26 Instagram influencers like this in Morocco for you to work with.
 profiles:
+  - username: "ysrimi"
+    fullname: >-
+      Yassine Rimi
+    bio: >-
+      ⫸ 𝙁𝙞𝙡𝙢𝙢𝙖𝙠𝙚𝙧 | 𝙋𝙝𝙤𝙩𝙤𝙜𝙧𝙖𝙥𝙝𝙚𝙧 ⫸ Cinematic / Automotive / Lifestyle ⫸ Dm me For Business Inquiries
+    location: "Morocco"
+    followers: 10513
+    engagement: 361
+    commentsToLikes: 0.011400
+    id: ck8t361l120nm0j780f70r4b8
+    verified: false
+    hashtags: "#cinematic, #travel, #artistsofinstagram, #sketches"
+  - username: "farahelfassi1"
+    fullname: >-
+      Farah El Fassi | فرح الفاسي
+    bio: >-
+      🧚‍♀️ACTRESS 📍: 🇲🇦🇦🇪🇪🇸 Cinema | tv | theatre | ART Management Maroc by @diamond_agency_ma International business Management
+    location: "Morocco"
+    followers: 5418654
+    engagement: 59
+    commentsToLikes: 0.013268
+    id: ck55jff74wx3i0i11audyfa8x
+    verified: true
+    hashtags: "#turkey, #strongwomen, #maroc, #istanbul"
   - username: "adnane.azaar"
     fullname: >-
       A Z A A R  🛸
@@ -43,6 +67,54 @@ profiles:
     id: ck15un4c4nzec0i192lknj7xm
     verified: false
     hashtags: "#morocco, #cinematographer, #arri, #director"
+  - username: "oussamaaityassin"
+    fullname: >-
+      OUSSAMA AIT YASSIN
+    bio: >-
+      🎥 Réalisateur | DOP الحاجة كانديرها بالحب❤️ 🎬 ESAV 📧 o.aityassin@gmail.com
+    location: "Morocco"
+    followers: 36694
+    engagement: 1186
+    commentsToLikes: 0.024089
+    id: ckf5uum5ameb80j23dsq8gfdg
+    verified: false
+    hashtags: "#videodirector, #canonshots, #djironins, #dslrcamera"
+  - username: "salwazarhane"
+    fullname: >-
+      Salwa Zarhane | سلوى زرهان
+    bio: >-
+      🎬 Moroccan Actress 📥bookeventmaroc@gmail.com
+    location: "Morocco"
+    followers: 1172760
+    engagement: 433
+    commentsToLikes: 0.008482
+    id: ck5hmo9iombk60i11a1j7ohri
+    verified: false
+    hashtags: "#morocco, #salwazarhane, #trend, #shooting"
+  - username: "hind__benjbara"
+    fullname: >-
+      Hind Benjbara
+    bio: >-
+      Actress, Singer 💌 Love is all around For Collab : @uusraa
+    location: "Morocco"
+    followers: 1535987
+    engagement: 191
+    commentsToLikes: 0.011630
+    id: ckaotrc7rx5j50i78hrpc5n7u
+    verified: false
+    hashtags: "#actress, #cinema, #hind, #series"
+  - username: "majdoulineidrissi_officiel"
+    fullname: >-
+      Majdouline idrissi
+    bio: >-
+      Compte officiel 🎬 Moroccan Actress
+    location: "Morocco"
+    followers: 1404715
+    engagement: 156
+    commentsToLikes: 0.016230
+    id: ck5hmo8gsmbho0i11xuryuimq
+    verified: true
+    hashtags: "#tanger, #cinema, #casablanca, #actress"
   - username: "ben.chamsou"
     fullname: >-
       𝒞𝒽𝒶𝓂𝓈𝑜𝓊 𝒷𝑒𝓃 🇩🇿
@@ -55,76 +127,4 @@ profiles:
     id: ck5zr5ahcvxhx0i141vg94gvt
     verified: false
     hashtags: "#cinema, #dz, #cinematography, #film"
-  - username: "salwazarhane"
-    fullname: >-
-      Salwa Zarhane
-    bio: >-
-      🎬
-    location: "Morocco"
-    followers: 274006
-    engagement: 399
-    commentsToLikes: 0.010357
-    id: ck5hmo9iombk60i11a1j7ohri
-    verified: false
-    hashtags: "#comingsoon, #behindthescenes, #actors, #newproject"
-  - username: "hind__benjbara"
-    fullname: >-
-      HIND Benjbara |هند بن اجبــارة
-    bio: >-
-      Moroccan actress.
-    location: "Morocco"
-    followers: 954109
-    engagement: 167
-    commentsToLikes: 0.008371
-    id: ckaotrc7rx5j50i78hrpc5n7u
-    verified: false
-    hashtags: "#action, #agadir, #tvshow, #memories"
-  - username: "issaitc"
-    fullname: >-
-      Aissa Ait Ichou 🌴🌊
-    bio: >-
-      Moroccan boy trying to freeze moments in time ➳ @feiyutech ambassador / #contentcreators
-    location: "Morocco"
-    followers: 29107
-    engagement: 179
-    commentsToLikes: 0.152383
-    id: ck5zka34zj3ih0i14ph1hgc1y
-    verified: false
-    hashtags: "#earthfocus, #moroccantravelers, #essaouira, #ak4500"
-  - username: "nada.haddaoui"
-    fullname: >-
-      Nada Haddaoui ♑️ ندى هداوي
-    bio: >-
-      Actress / Singer 🎬🎥🎤 🎭 5 years of theater 👩‍🎓 BA in English studies 📍Rifaine ريفية￼ 🇲🇦♓️ 📩 Nada.haddaoui11@gmail.com 👻 Snapchat : Nada.haddaoui
-    location: "Morocco"
-    followers: 578372
-    engagement: 370
-    commentsToLikes: 0.005612
-    id: ck9wfrrsiq8st0j78m2bpbbg4
-    verified: false
-    hashtags: "#femalemodel, #photomodeling, #modelwork, #rifaine"
-  - username: "hananibrahimiofficiel"
-    fullname: >-
-      Hananeibrahimiofficiel
-    bio: >-
-      Moroccan Actress🎬❤️Casablanca/Morocco🇲🇦Haverhill/Massachusetts 🇺🇸
-    location: "Morocco"
-    followers: 397478
-    engagement: 256
-    commentsToLikes: 0.014304
-    id: ck5hmo7czmbgb0i11z5inau1f
-    verified: false
-    hashtags: "#casablanca, #momofgirls, #art, #love"
-  - username: "abdellahferkousofficiel"
-    fullname: >-
-      Abdellah Ferkous Officiel
-    bio: >-
-      Fb: Abdellah Ferkous Officiel Mail: contact@abdellahferkous.com Réalisateur Producteur
-    location: "Morocco"
-    followers: 38353
-    engagement: 570
-    commentsToLikes: 0.011107
-    id: ckap5kr7cc49l0i7820f9oyvc
-    verified: false
-    hashtags: "#maroc, #marrakech, #covid19, #acteur"
 ---

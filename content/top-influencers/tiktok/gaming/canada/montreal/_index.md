@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Montreal In 2023
+title: Top 10 Gaming TikTok Influencers In Montreal In 2024
 description: >-
-  Find top gaming TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #montreal #gaming #funny.
+  Find top gaming TikTok influencers in Montreal in 2024. Most popular hashtags: #fyp #gaming #montreal #funny.
 platform: TikTok
 hits: 8
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 8 TikTok influencers like this in Montreal, Canada for you to connect with.
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat holds 8 TikTok influencers like this in Montreal, Canada for you to contact.
 profiles:
   - username: "gavineo"
     fullname: >-
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.143995
     id: ck8njn82eb58f0j7815ul8nz8
     verified: false
-    hashtags: "#leafsforever, #hockeytok, #toronto, #italiancheck"
+    hashtags: "#hockeytok, #toronto, #italiancheck, #leafsforever"
   - username: "mtcosplay"
     fullname: >-
       RBTZful
     bio: >-
       ROAD TO 10K 25🇨🇦 cosplay, memes, weightlifting, gaming, tatted trash goblin
     location: "Canada"
-    followers: 5112
-    engagement: 1319
-    commentsToLikes: 0.052439
+    followers: 5113
+    engagement: 1285
+    commentsToLikes: 0.045979
     id: ck9gm0ph4qgbr0j78xdlm13c1
     verified: false
-    hashtags: "#comedy, #foryou, #funny, #qualitycontent"
+    hashtags: "#stitch, #relatable, #qualitycontent, #duet"
 ---

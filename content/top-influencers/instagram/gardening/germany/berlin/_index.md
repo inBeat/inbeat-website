@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Berlin In 2023
+title: Top 10 Gardening Instagram Influencers In Berlin In 2024
 description: >-
-  Find top gardening Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #garden #weekend #gardening.
+  Find top gardening Instagram influencers in Berlin in 2024. Most popular hashtags: #berlin #gardening #foodlover #happy.
 platform: Instagram
-hits: 8
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 8 Instagram influencers like this in Berlin, Germany for you to connect with.
+hits: 11
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 11 Instagram influencers like this in Berlin, Germany for you to collaborate.
 profiles:
   - username: "ankamaze"
     fullname: >-
@@ -18,7 +18,43 @@ profiles:
     commentsToLikes: 0.023284
     id: ck6tpjdoxk73k0j71eo3ihvod
     verified: false
-    hashtags: "#introvert, #introvertsbelike, #introvertstruggles, #introverts"
+    hashtags: "#introvert, #introvertsbelike, #introvertstruggles, #introvertproblems"
+  - username: "julia_maria_therese"
+    fullname: >-
+      Leben • Food • Outfit • Reisen
+    bio: >-
+      ▶ Koblenz | Berlin ▶ Fellow'22 @teachfirstdeutschland | Lehramt ▶ hier wegen Freude an Inspo & Austausch ▼ Impressum | Datenschutzerklärung
+    location: "Germany"
+    followers: 14499
+    engagement: 110
+    commentsToLikes: 0.026723
+    id: ck9h9nskq986k0j787fgfks06
+    verified: false
+    hashtags: "#german, #instanote, #daily, #photooftheday"
+  - username: "niconehez"
+    fullname: >-
+      Nico Nehez
+    bio: >-
+      NN-Team//Medienmanagement//Artistmanagement//Künstlerpositionierung💥. Like me on Facebook: www.facebook.com/NicoNehezNN
+    location: "Germany"
+    followers: 7441
+    engagement: 344
+    commentsToLikes: 0.049099
+    id: ck6twphxitcm10j71jrdzfm6c
+    verified: false
+    hashtags: "#robertgeiss, #luxurylife, #instalike, #lifestyles"
+  - username: "intergourmetfood"
+    fullname: >-
+      𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗚𝗼𝘂𝗿𝗺𝗲𝘁 𝗙𝗼𝗼𝗱 🌎
+    bio: >-
+      ⭐ Discovering new talents #intergourmetfood ♨️ Chefs & foodie Entertainment 📍Berlin
+    location: "Germany"
+    followers: 377025
+    engagement: 51
+    commentsToLikes: 0.013788
+    id: ck0vx8l4fxoya0i19c520k4hu
+    verified: false
+    hashtags: "#truecooks, #michelin, #culinaryarts, #cookniche"
   - username: "kateshyggehome"
     fullname: >-
       Kates Hygge Home
@@ -42,19 +78,7 @@ profiles:
     commentsToLikes: 0.016346
     id: ck5zngcc0oera0i1478igj51e
     verified: false
-    hashtags: "#producing, #finca, #baleares, #couple"
-  - username: "niconehez"
-    fullname: >-
-      Nico Nehez
-    bio: >-
-      NN-Team//Medienmanagement//Artistmanagement//Künstlerpositionierung💥. Like me on Facebook: www.facebook.com/NicoNehezNN
-    location: "Germany"
-    followers: 7441
-    engagement: 344
-    commentsToLikes: 0.049099
-    id: ck6twphxitcm10j71jrdzfm6c
-    verified: false
-    hashtags: "#lifestyle, #lifeisgood, #diegeissens, #shaniageiss"
+    hashtags: "#myman, #vacation, #sylt, #ladiesontour"
   - username: "jkdailyblog"
     fullname: >-
       JK / fashion inspo lifestyle
@@ -66,7 +90,19 @@ profiles:
     commentsToLikes: 0.047000
     id: ck8t1eh33vgfx0j78tz0a9hsl
     verified: false
-    hashtags: "#flowerbouquet, #contentcreator, #90sstyle, #90svintage"
+    hashtags: "#forestgreenvibes, #frankfurtblogger, #parisianstyle, #someberlinlook"
+  - username: "hannahsitte"
+    fullname: >-
+      Hannah Sitte
+    bio: >-
+      ☀️ 23 📍 Leipzig, Germany 📱 TikTok: hannahsitte (430k +) 🎥 YouTube: Hannah Sitte @impressumgl
+    location: "Germany"
+    followers: 48559
+    engagement: 491
+    commentsToLikes: 0.007311
+    id: cliq4pp41l75n0j08kbking59
+    verified: false
+    hashtags: "#vacation, #tuscany, #holiday, #italy"
   - username: "hanselady"
     fullname: >-
       Katja Interior & Living
@@ -78,7 +114,7 @@ profiles:
     commentsToLikes: 0.084412
     id: ck8t4avsi63gd0j78k4z0u0c7
     verified: false
-    hashtags: "#beachhousedecor, #geliebteszuhause, #sofasamstag, #strandhuisje"
+    hashtags: "#strandhaus, #myhousebeautiful, #skandinavianhome, #hyggehome"
   - username: "plautdietschemejale"
     fullname: >-
       ᑭᗩᑌᒪIᑎE & EᒪEᑎᗩ
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.051228
     id: ck5bwt24gmcvi0i114fe00603
     verified: false
-    hashtags: "#rezepte, #food, #pregnant, #yummy"
-  - username: "aberhalloooo"
-    fullname: >-
-      Fräulein Nellüüü
-    bio: >-
-      🍀 >>> the lucky few >>> #inkluencer 📍 | Sachsen | Germany 🔽 TIKTOK 🔽
-    location: "Germany"
-    followers: 46452
-    engagement: 273
-    commentsToLikes: 0.054196
-    id: ckaow7gxx7r6k0i786hyul08b
-    verified: false
-    hashtags: "#together, #fru, #nachhaltig, #waldbaden"
-  - username: "ankamaze"
-    fullname: >-
-      Anka🌱
-    bio: >-
-      Introvert. 📍#BERLIN• Urban Jungle & gardening 🌱 🌿Interior - Lifestyle annkathrin.mazal@gmail.com
-    location: "Germany"
-    followers: 15085
-    engagement: 1701
-    commentsToLikes: 0.023284
-    id: ck6tpjdoxk73k0j71eo3ihvod
-    verified: false
-    hashtags: "#introvert, #introvertsbelike, #introvertstruggles, #introverts"
-  - username: "himlajord"
-    fullname: >-
-      Helena Holmgren
-    bio: >-
-      Lives near Umeå in Sweden. Loves gardening, yoga, cats and dogs. Vegan. Please, do not use pictures from my gallery without permission.
-    location: "Germany"
-    followers: 23014
-    engagement: 293
-    commentsToLikes: 0.055752
-    id: ckaoyad6dgo0t0i78958wtqaz
-    verified: false
-    hashtags: "#hosta, #tr, #throwbackthursday, #vintertr"
+    hashtags: "#qualitytime, #okroschka, #liebe, #backen"
 ---

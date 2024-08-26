@@ -1,36 +1,12 @@
 ---
-title: Top 10 Models TikTok Influencers In San Diego In 2023
+title: Top 10 Models TikTok Influencers In San Diego In 2024
 description: >-
-  Find top models TikTok influencers in San Diego in 2023. Most popular hashtags: #fyp #sandiego #foryoupage #beach.
+  Find top models TikTok influencers in San Diego in 2024. Most popular hashtags: #fyp #sandiego #foryoupage #funny.
 platform: TikTok
-hits: 21
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our search engine has 21 TikTok influencers like this in San Diego, United States for you to pitch.
+hits: 20
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 20 TikTok influencers like this in San Diego, United States for you to work with.
 profiles:
-  - username: "alianzaefectiva"
-    fullname: >-
-      alianzaefectiva
-    bio: >-
-      #CPMusic IG: @ALIANZAEFECTIVA BAY AREA, CA
-    location: "United States"
-    followers: 24500
-    engagement: 1187
-    commentsToLikes: 0.011754
-    id: ck8tkunwm9ajh0j78auwuv588
-    verified: false
-    hashtags: "#relax, #latino, #camera, #oakland"
-  - username: "dontaecatlett"
-    fullname: >-
-      dontaecatlett
-    bio: >-
-      🎤 Beatboxer 🎥 Director & Photographer 🚨 New Videos Everyday 🚨
-    location: "United States"
-    followers: 6694
-    engagement: 972
-    commentsToLikes: 0.084214
-    id: ck9kengo3zlqb0j78r01pokxj
-    verified: false
-    hashtags: "#artsy, #drone, #art, #albumcover"
   - username: "skylar.akate"
     fullname: >-
       skylarkate
@@ -78,7 +54,7 @@ profiles:
     commentsToLikes: 0.115869
     id: ckavo28jhyo4z0j23p7jrv1g7
     verified: false
-    hashtags: "#funny, #mentalhealth, #nonbionary, #kidsoftiktok"
+    hashtags: "#fyp, #duet, #elderemo, #makeup"
   - username: "brookelynn.19xx"
     fullname: >-
       BrookeLynn
@@ -114,7 +90,7 @@ profiles:
     commentsToLikes: 0.012993
     id: ckb9kziupda1c0j23nhx9ptux
     verified: false
-    hashtags: "#mclaren, #foryou, #lamborghini, #cars"
+    hashtags: "#luxury, #viral, #goviral, #beverlyhills"
   - username: "pilot_eyes"
     fullname: >-
       Pilot_eyes
@@ -127,4 +103,28 @@ profiles:
     id: ckdnlvseqjk2f0j23krtzk0v7
     verified: false
     hashtags: "#flying, #downtown, #coast, #piper"
+  - username: "sarenamezzacappa"
+    fullname: >-
+      Sarena Mezzacappa
+    bio: >-
+      traveling around 🌍 🛩 & doing some pranks along the way
+    location: "United States"
+    followers: 29300
+    engagement: 450
+    commentsToLikes: 0.029296
+    id: ckbqu64pgeoq90j23xfexc7g1
+    verified: false
+    hashtags: "#mycity, #fail, #peace, #california"
+  - username: "misty2point0"
+    fullname: >-
+      Misty
+    bio: >-
+      🖤FindYour2Point0🖤
+    location: "United States"
+    followers: 69400
+    engagement: 1366
+    commentsToLikes: 0.053900
+    id: ckdtlmxy3zxag0j23uanmd795
+    verified: false
+    hashtags: "#duet, #drinkbai, #makemomepic, #misty2point0"
 ---

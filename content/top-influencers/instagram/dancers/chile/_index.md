@@ -1,12 +1,60 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Chile In 2023
+title: Top 10 Dancers Instagram Influencers In Chile In 2024
 description: >-
-  Find top dancers Instagram influencers in Chile in 2023. Most popular hashtags: #dance #dancer #chile #picoftheday.
+  Find top dancers Instagram influencers in Chile in 2024. Most popular hashtags: #chile #dancer #dance #reggaeton.
 platform: Instagram
-hits: 37
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 37 Instagram influencers like this in Chile for you to pitch.
+hits: 39
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 39 Instagram influencers like this in Chile for you to connect with.
 profiles:
+  - username: "alinekjj"
+    fullname: >-
+      Aline Osorio
+    bio: >-
+      Dancer | 🇨🇱
+    location: "Chile"
+    followers: 40561
+    engagement: 441
+    commentsToLikes: 0.017334
+    id: ck5bx5krun1tt0i11idboc4p5
+    verified: false
+    hashtags: "#pinguinosmarinela"
+  - username: "montorrent"
+    fullname: >-
+      Monserrat Torrent
+    bio: >-
+      👩🏻‍💻Relacionadora Pública/M Mkt. 👩🏻‍🎓Diplomado en Marketing Digital @postgrados_uandes 🎤Desde Sábado 1 Julio en @sabingochv 🤸🏻‍♀️Pole Dancer
+    location: "Chile"
+    followers: 362130
+    engagement: 387
+    commentsToLikes: 0.011762
+    id: ck134zk4gyyrt0i19c6u463vt
+    verified: true
+    hashtags: "#instalike, #instadaily, #oto, #woman"
+  - username: "xiomara_ayliin"
+    fullname: >-
+      X I O M A R A   H E R R E R A
+    bio: >-
+      Dancer / Choreographer / Creators / Winner of tv’s show🌍🇨🇱 Bookings: xiomaraaylin.herrera@gmail.com
+    location: "Chile"
+    followers: 272275
+    engagement: 307
+    commentsToLikes: 0.010395
+    id: ck0w5h9tn3n4j0i196pygl4ms
+    verified: true
+    hashtags: "#tupelotuelecci, #veetvacontigo, #decadauno, #chile"
+  - username: "claubailarinita"
+    fullname: >-
+      Clau Bailarinita Cosplay
+    bio: >-
+      🇨🇱 International Cosplayer ❤️ Cosmaker. Propmaker. Dancer. Lawyer Tiendas y eventos claudiaarojas@hotmail.com
+    location: "Chile"
+    followers: 114614
+    engagement: 188
+    commentsToLikes: 0.037590
+    id: ck8t2gzu9zgvk0j78z1icry2k
+    verified: false
+    hashtags: "#cammywhite, #cosplayergirl, #chunli, #cosplaychile"
   - username: "maccc.a"
     fullname: >-
       𝑴𝒂𝒄𝒂𝒓𝒆𝒏𝒂 𝑭𝒊𝒈𝒖𝒆𝒓𝒐𝒂
@@ -18,19 +66,7 @@ profiles:
     commentsToLikes: 0.030631
     id: ck5bx5hytn1ou0i11x98j9u1l
     verified: false
-    hashtags: "#chile, #dancer, #dance, #lastnight"
-  - username: "itayvargass"
-    fullname: >-
-      𝑰𝒕𝒂𝒚 🤍
-    bio: >-
-      ~🇨🇱🇮🇱 Dancer🩰/model✨in process. •(15M en tiktok)🙏🏻 •💌producciones@onemediachile.cl📍
-    location: "Chile"
-    followers: 1603473
-    engagement: 1193
-    commentsToLikes: 0.009586
-    id: ck8wen3wxeb1f0j781sj590wd
-    verified: false
-    hashtags: "#generaci, #miskosasfavoritas"
+    hashtags: "#dancer, #dance, #chile, #youngcister"
   - username: "fabi._.hyung"
     fullname: >-
       FABI 파비안!
@@ -79,18 +115,6 @@ profiles:
     id: ck6u9fvtwxbmj0j7115eemupz
     verified: false
     hashtags: "#art, #video, #danza, #reggaeton"
-  - username: "bboyears"
-    fullname: >-
-      EARS👂
-    bio: >-
-      🚨CLASES PERSONALIZADAS ONLINE🚨 Dancer/Acrobat/Hand Balancer 📍🇨🇱 Speedy Angels Uni CREW🇻🇪 🙌🏻@Spdangelsuni 🏹@Aborigenesvzla 🏆@GodLevelStore ↘️VIDEO↙️
-    location: "Chile"
-    followers: 8807
-    engagement: 970
-    commentsToLikes: 0.061185
-    id: ck55kfj5tz6u80i11km7r03i2
-    verified: false
-    hashtags: "#training, #handstand, #tricking, #breakdance"
   - username: "sandro_alvarez29"
     fullname: >-
       𝐂𝐨𝐩𝐩𝐨
@@ -103,28 +127,4 @@ profiles:
     id: ck6u0xn0ricd40j713r3g3ghs
     verified: false
     hashtags: "#video, #pic, #nike, #photo"
-  - username: "rafaredvolcon"
-    fullname: >-
-      Rafa Redvolcon
-    bio: >-
-      Choreographer, Dancer & Promoter of #DancehallCulture 🇪🇸 Founder of #OLIDPF☝🏾❤️ Xpressionz F 📍 Barcelona, Spain 📨 Bookings & info: rafaredvolcon@gmail
-    location: "Chile"
-    followers: 19178
-    engagement: 563
-    commentsToLikes: 0.035735
-    id: ck0w1h6ebjbs70i19id8q4547
-    verified: false
-    hashtags: "#xpressionzfamilyfilife, #spain, #brogad, #dancehall"
-  - username: "antobulous"
-    fullname: >-
-      antoniaaa:p
-    bio: >-
-      •̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ XoXo
-    location: "Chile"
-    followers: 1455
-    engagement: 3075
-    commentsToLikes: 0.213443
-    id: ck6tlsgky6k3c0j712uxtw9zp
-    verified: false
-    hashtags: "#dancer, #feliz, #latina, #2020"
 ---

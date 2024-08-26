@@ -1,24 +1,24 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Australia In 2023
+title: Top 10 Guitar TikTok Influencers In Australia In 2024
 description: >-
-  Find top guitar TikTok influencers in Australia in 2023. Most popular hashtags: #guitar #fyp #foryou #music.
+  Find top guitar TikTok influencers in Australia in 2024. Most popular hashtags: #guitar #fyp #foryou #music.
 platform: TikTok
-hits: 34
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 34 TikTok influencers like this in Australia for you to pitch.
+hits: 32
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 32 TikTok influencers like this in Australia for you to contact.
 profiles:
   - username: "pattyboomba"
     fullname: >-
       Pattyboomba
     bio: >-
-      Make art. Film music composer. Guitar samples. vvvvvvvvvvvvv
+      Make art. Film music composer. Get Guitar samples. vvvvvvvvvvvvv
     location: "Australia"
-    followers: 38200
-    engagement: 1079
-    commentsToLikes: 0.083144
+    followers: 42500
+    engagement: 738
+    commentsToLikes: 0.121564
     id: ck9pnmw0jfak40j78urahzvbb
     verified: false
-    hashtags: "#producer, #music, #filmscore, #beats"
+    hashtags: "#musicproduction, #musician, #filmscore, #music"
   - username: "livsguitar"
     fullname: >-
       olivia
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.032877
     id: ckbf76fbmwvmx0j23kkji392z
     verified: false
-    hashtags: "#onedirection, #fineline, #tpwk, #foryou"
+    hashtags: "#foryou, #fineline, #1d, #onedirection"
   - username: "cam.denn"
     fullname: >-
       Camden LeFevre
@@ -121,10 +121,10 @@ profiles:
     bio: >-
       
     location: "Australia"
-    followers: 6925
-    engagement: 937
-    commentsToLikes: 0.050255
+    followers: 6910
+    engagement: 1042
+    commentsToLikes: 0.059693
     id: ckbqe3kt0zyi70j23ot2ftfwk
     verified: false
-    hashtags: "#music, #foryou, #foryoupage, #guitar"
+    hashtags: "#fyp, #foryou, #piano, #guitar"
 ---

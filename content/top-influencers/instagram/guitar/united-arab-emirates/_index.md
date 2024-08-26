@@ -1,24 +1,12 @@
 ---
-title: Top 10 Guitar Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Guitar Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top guitar Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #music #dubai #guitar #uae.
+  Find top guitar Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #music #guitar #dubai #uae.
 platform: Instagram
-hits: 10
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 10 Instagram influencers like this in United Arab Emirates for you to work with.
+hits: 8
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 8 Instagram influencers like this in United Arab Emirates for you to collaborate.
 profiles:
-  - username: "dr_omer_elamin"
-    fullname: >-
-      Omer Elamin | د. عمر الأمين
-    bio: >-
-      • Doctor/ طبيب • Also iSing 🎤& iPlay Guitar 🎸 📍 Dubai 🇦🇪/ Khartoum🇸🇩 Where Words Fail, Music Speaks 🎼 🎖DREAM NO SMALL DREAMS🎖
-    location: "United Arab Emirates"
-    followers: 245527
-    engagement: 205
-    commentsToLikes: 0.014965
-    id: ck5qb9wzikjq30i115dnjl6ik
-    verified: false
-    hashtags: "#dr, #dromerelamin, #maskprotection, #spread"
   - username: "the.cowboyy"
     fullname: >-
       AC
@@ -31,18 +19,6 @@ profiles:
     id: ck0u14gx3vt460i19nytou03n
     verified: false
     hashtags: "#couplestyle, #dahkadz, #kabyle, #algeria"
-  - username: "lukabasi"
-    fullname: >-
-      Luka Basi
-    bio: >-
-      New Song - NI DUBAI, NI HAWAII🍍❤️Booking email: lukabasi@raayproduction.com FANZONE -> @lbasi_products
-    location: "United Arab Emirates"
-    followers: 70364
-    engagement: 535
-    commentsToLikes: 0.011578
-    id: ck6u6ofuugsg20j71mtrcqfm0
-    verified: true
-    hashtags: "#soon, #excited, #newsong, #happy"
   - username: "jaywud"
     fullname: >-
       Jay Wud
@@ -67,18 +43,18 @@ profiles:
     id: ck55lzgiy2u5c0i11f7tyl5b3
     verified: false
     hashtags: "#pianist, #dubai, #uae, #art"
-  - username: "pashacazan"
+  - username: "mitunds"
     fullname: >-
-      🎻Violinist in Dubai🎻
+      MITUN DE SARKAR
     bio: >-
-      🏆Award-winning violinist 🎶Electric & acoustic violin 🎶Classical/arabic/chill out/pop/house 🔝Concerts/events/weddings/festivals YouTube🎬
+      ⛑DHA Clinical Dietitian 🥙CEO @simplyhealthybymitun 🏋️‍♀️CEO @simplyhealthyf.i.t 🌯Brand Ambassador 4U @costacoffeeuae 🎤Founder,singer @raagafactory
     location: "United Arab Emirates"
-    followers: 27831
-    engagement: 225
-    commentsToLikes: 0.064865
-    id: ck6tygiog3lep0j71jcduavoy
+    followers: 43347
+    engagement: 221
+    commentsToLikes: 0.036741
+    id: ck0w2isdhokrq0i193z1l9606
     verified: false
-    hashtags: "#dubaibride, #stayhome, #dubai, #violinista"
+    hashtags: "#nutrition, #mydubai, #fatloss, #dietitian"
   - username: "2fitch"
     fullname: >-
       Hamoud (الفيتش)

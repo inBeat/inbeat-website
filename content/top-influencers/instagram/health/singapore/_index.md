@@ -1,24 +1,96 @@
 ---
-title: Top 10 Health Instagram Influencers In Singapore In 2023
+title: Top 10 Health Instagram Influencers In Singapore In 2024
 description: >-
-  Find top health Instagram influencers in Singapore in 2023. Most popular hashtags: #food #fitness #healthylifestyle #healthyfood.
+  Find top health Instagram influencers in Singapore in 2024. Most popular hashtags: #singapore #sg #sp.
 platform: Instagram
-hits: 37
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 37 Instagram influencers like this in Singapore for you to pitch.
+hits: 81
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 81 Instagram influencers like this in Singapore for you to contact.
 profiles:
-  - username: "aimeechengbradshaw"
+  - username: "peroro_"
     fullname: >-
-      Aimee Cheng-Bradshaw
+      ⋆·˚ ༘ * Persie Y  ੈ✩‧₊˚
     bio: >-
-      ✨British-Chinese 🐝Fashion, beauty, fitness ⭒☽ mental health | psychology 🧠
+      ♡ Lifestyle, Health,Motherhood,Food,Beauty,Fashion ҉ therealpersie@gmail.com ＊*✩˚ interior designer ✩ boy mum @bbbhung_ ☽ SG ˚｡⋆
     location: "Singapore"
-    followers: 114797
-    engagement: 311
-    commentsToLikes: 0.011660
-    id: ck55jn7nsxd3r0i11s2wl5m3n
+    followers: 19155
+    engagement: 441
+    commentsToLikes: 0.072755
+    id: clm70aj3igdys0j08urosqknx
+    verified: false
+    hashtags: "#newborn, #thingstodo, #baby, #sp"
+  - username: "livlogolding"
+    fullname: >-
+      Liv Lo Golding
+    bio: >-
+      ‘Health begins with the mother’ Co-founder: @wearewomom Solo-mommying two girls 👧👶 💌: liv@gb-se.com
+    location: "Singapore"
+    followers: 255437
+    engagement: 378
+    commentsToLikes: 0.009342
+    id: ck5q08a6s4qcr0i11653jvpz0
     verified: true
-    hashtags: "#ad, #ilovesilkygirl, #sp, #diorholidays"
+    hashtags: "#momtimeout, #lifeasamama, #swimbabyswim, #motherhood"
+  - username: "thatmomoffour"
+    fullname: >-
+      Dawn Sim
+    bio: >-
+      Entrepreneur, host Mom of 4, health coach Ambassador: @lululemon @sgredcross @sport_singapore @drhauschkasg 🔹 📧: admin@thatmomoffour.com
+    location: "Singapore"
+    followers: 62284
+    engagement: 292
+    commentsToLikes: 0.027945
+    id: ck5qd6i52u1v70i11vuu501jc
+    verified: false
+    hashtags: "#sharethewonder, #khaolakholiday, #jwmarriottkhaolaksuites, #familyholiday"
+  - username: "mandithezebra"
+    fullname: >-
+      Mandi Cheung
+    bio: >-
+      Travel | Fitness | Wellness | Mental Health 💚Founder: @thehushretreats 💪🏼Instructor: @r10t.sg @jyanyogastudio
+    location: "Singapore"
+    followers: 12153
+    engagement: 208
+    commentsToLikes: 0.085222
+    id: clm70asdwgm4s0j0896c9n4si
+    verified: false
+    hashtags: "#sgfitness, #fitness, #sp, #newyear"
+  - username: "you_yi"
+    fullname: >-
+      Youyi 林有懿 🌍
+    bio: >-
+      🇸🇬🇮🇩🇻🇳 𝐒𝐩𝐞𝐚𝐤 𝐔𝐩 & 𝐋𝐢𝐯𝐞 𝐖𝐞𝐥𝐥 • I help professionals speak with confidence • I am passionate about health, beauty & travel 📧 askyouyi@gmail.com
+    location: "Singapore"
+    followers: 54590
+    engagement: 101
+    commentsToLikes: 0.020254
+    id: ck136vz088ik10i19i0ulxwu4
+    verified: true
+    hashtags: "#sgtraveller, #sgig, #yyootd, #lifeskills"
+  - username: "healthyishandhappy"
+    fullname: >-
+      Riyana Rupani | NTP
+    bio: >-
+      Nutritionist, Founder of The Clean-in-15™️ program, & @everiday_foods . I teach you how to optimize your health and heal with real delicious foods.
+    location: "Singapore"
+    followers: 29815
+    engagement: 51
+    commentsToLikes: 0.345633
+    id: ckqq62wiqwtz80j23nw2glwma
+    verified: false
+    hashtags: "#goodmoodfood, #paleodiet, #healthyishandhappy, #foodie"
+  - username: "mathildaaaa"
+    fullname: >-
+      Mathilda Huang
+    bio: >-
+      🫧 lifestyle, mental health and travel 🫧 romantic for life • slightly delulu 🫧 Singapore | mathildaaaa06@gmail.com 🫧 girlboss of @sage.soiree ✌🏼
+    location: "Singapore"
+    followers: 106027
+    engagement: 107
+    commentsToLikes: 0.032165
+    id: ckap24ez7xbhu0i788c2m6y0d
+    verified: false
+    hashtags: "#iherbsingapore, #whitewine, #sp, #redwine"
   - username: "kimmywhat"
     fullname: >-
       Kimberly Ann | Fitness Coach
@@ -43,88 +115,16 @@ profiles:
     id: ck5qd6r84u34r0i11u9fsig2r
     verified: true
     hashtags: "#throwback, #anewnewyearwithfp, #frenchwine, #burgundy"
-  - username: "roxannegan_"
+  - username: "cravings4vegan"
     fullname: >-
-      ROXANNE GAN
+      Nisha🙏 Recipe Developer🥙🥗
     bio: >-
-      🇸🇬 Certified Yoga Instructor & PT 📩 hello@roxannegan.com 🎥 YouTube: Roxanne Gan Purchase my Yoga eBook (60 tutorials) 👇🏻
+      See me Growing through my mumma's 👀: Eddie👦🏻 Creating varities in #vegan #vegetarian food #Recipecurator #organicfood Singapore 🇸🇬 DM/email for collab
     location: "Singapore"
-    followers: 126481
-    engagement: 131
-    commentsToLikes: 0.012749
-    id: ck0vxnqw9zteb0i190sr9gudl
+    followers: 9775
+    engagement: 152
+    commentsToLikes: 8.943332
+    id: ck134qfltxp6r0i19bk4o1m7h
     verified: false
-    hashtags: "#pregnancy, #yogajourney, #motherhood, #bumplife"
-  - username: "seowie"
-    fullname: >-
-      Shaun Michael Seow
-    bio: >-
-      🇸🇬🇳🇱🏃‍♂️🏋🏼‍♂️ Hybrid Athlete: Run, Lift, Jump 📈 Finance, Trader, DeFi, eComm 📸 Commercial Model 📚 BBA @sgsmu ⬇️ Website/Email for Business
-    location: "Singapore"
-    followers: 78971
-    engagement: 61
-    commentsToLikes: 0.009876
-    id: ck8tawy18texb0j783l3vrpsc
-    verified: false
-    hashtags: "#health, #gym, #fitness, #diet"
-  - username: "sarasentosa98"
-    fullname: >-
-      𝐒𝐀𝐒𝐀 🍕
-    bio: >-
-      God is good, all the time 💛 Nothing without Him 🖖🏻 Owner @gogiboom_id 🥩🥓🔥 @kayooresto_id 🇮🇩🍴 #sarasentosa #sarasentosa98 62 / 65 / 61
-    location: "Singapore"
-    followers: 34965
-    engagement: 176
-    commentsToLikes: 0.089614
-    id: ck0w6seida2lc0i196pw8twcp
-    verified: false
-    hashtags: "#bestfriend, #love, #foodporn, #salonfromhome"
-  - username: "jwanting"
-    fullname: >-
-      Joyce Ng 黄琬婷 | Artiste
-    bio: >-
-      🎞 Actor | Emcee #JwantingReel Notable Works: #Pich5 #Togglesilo ✨Creatives l @j.origins 🌻Boss | @blushhousebridal @asianfoodnetwork SG ♥️Phil 4:13
-    location: "Singapore"
-    followers: 17817
-    engagement: 358
-    commentsToLikes: 0.034931
-    id: ck5cgzvgdpuhs0i1109nrjrc9
-    verified: false
-    hashtags: "#skincareroutine, #asianskinsolutions, #asianskinsolution, #skinroutine"
-  - username: "jjkatherine"
-    fullname: >-
-      Katherine Tan
-    bio: >-
-      🐳陈秋玲 🍁J.J. 🇹🇭TH | SG🇸🇬 🍳Homecook | Homecafe 🥬IG : jjkatherine | kt.juju 🥪#eatwithjjkatherine 🥘#cookingwithjjkatherine 🧁#homecafewithjjkatherine
-    location: "Singapore"
-    followers: 43364
-    engagement: 174
-    commentsToLikes: 0.142850
-    id: ck5zkb3dwj5f40i14v96ewal9
-    verified: false
-    hashtags: "#salmoncake, #almondmilk, #chinesenewyear, #healthy"
-  - username: "getstyledbykes"
-    fullname: >-
-      Kesavan Odaiappan (Kes)
-    bio: >-
-      +65 | SG 🇸🇬 •Celebrity Stylist •Fashion Designer• •Creative Director•Runway Choreographer• •HMUA•Freelance Model•Writer
-    location: "Singapore"
-    followers: 11744
-    engagement: 323
-    commentsToLikes: 0.005126
-    id: ck8swz4gefp5t0j78f3ttczwn
-    verified: false
-    hashtags: "#getstyledbykes, #southasian, #tamil, #desi"
-  - username: "iamchubbypotato"
-    fullname: >-
-      Chubby Potato
-    bio: >-
-      𝗙𝗼𝗼𝗱 𝗕𝗹𝗼𝗴－𝗥𝗲𝗰𝗶𝗽𝗲𝘀－𝗧𝗿𝗮𝘃𝗲𝗹－𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝘆 Tinder🔥↦Dated💘↦Married💒 Cambodia🇰🇭↦India🇮🇳↦SG🇸🇬 New Recipe for KungPao Chicken
-    location: "Singapore"
-    followers: 2839
-    engagement: 988
-    commentsToLikes: 0.071539
-    id: ck136ffj168as0i19d532nyct
-    verified: false
-    hashtags: "#shoplocal, #quarantineandchill, #ketorecipe, #lockdownnow"
+    hashtags: "#sgblogger, #vegetarianismo, #sgparenting, #parenting"
 ---

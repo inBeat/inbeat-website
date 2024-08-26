@@ -1,12 +1,48 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Phoenix In 2023
+title: Top 10 Vegan Instagram Influencers In Phoenix In 2024
 description: >-
-  Find top vegan Instagram influencers in Phoenix in 2023. Most popular hashtags: #arizona #phoenix #vegan #giveaway.
+  Find top vegan Instagram influencers in Phoenix in 2024. Most popular hashtags: #vegan #phoenix #arizona #giveaway.
 platform: Instagram
-hits: 21
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 21 Instagram influencers like this in Phoenix, United States for you to contact.
+hits: 28
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 28 Instagram influencers like this in Phoenix, United States for you to work with.
 profiles:
+  - username: "nomswithnoor"
+    fullname: >-
+      Noor | Houston & PHX Food + Lifestyle
+    bio: >-
+      🇯🇴 ✨ noms + lifestyle (& lots of ☕️) 👩‍💻 brand manager 🐾 UH alum | 🐯 @northwesternu grad 💜 📍 houston & phoenix 💍 bride-to-be 💌: nomswithnoor@gmail.com
+    location: "United States"
+    followers: 10126
+    engagement: 580
+    commentsToLikes: 0.232039
+    id: ck13ano71r9y60i19zm730ad5
+    verified: false
+    hashtags: "#phoenix, #houston, #phxfood, #az"
+  - username: "celiacandthebeast"
+    fullname: >-
+      Erica Dermer
+    bio: >-
+      Cat mom 🐱 👩🏻‍💻 patient advocate 🚫🌾 #GlutenFree 💩 #celiac #endometriosis 🦓 #EDS #anxiety #IBS #CATBbook #YouHadMeAtEat podcast
+    location: "United States"
+    followers: 32644
+    engagement: 72
+    commentsToLikes: 0.083058
+    id: ckrhu9i8jf0r90j23a8bhhyal
+    verified: false
+    hashtags: "#glutenfree, #dairyfree, #celiacdisease, #phoenixaz"
+  - username: "thephysiofix"
+    fullname: >-
+      Dr. Stacie Barber | Physical Therapist + Strength Coach
+    bio: >-
+      📍Phoenix, AZ 🌵 🤸🏻‍♀️Helping Gymnasts + Strength Athletes feel better 🏋🏻‍♀️ @rpstrength @senita @legion ⬇️Schedule + Online Programs + Discounts⬇️
+    location: "United States"
+    followers: 723082
+    engagement: 81
+    commentsToLikes: 0.016884
+    id: ck0txn8skjq9g0i1978bnmn85
+    verified: false
+    hashtags: "#romwod, #hippain, #mobilitytraining, #shoulderpain"
   - username: "jennamasar"
     fullname: >-
       j e n n a m a s a r
@@ -42,7 +78,7 @@ profiles:
     commentsToLikes: 0.043786
     id: ck136dh0s5y8l0i19daarkile
     verified: false
-    hashtags: "#wldrnessahome, #myspoak, #spoakdecor, #jungalowstyle"
+    hashtags: "#spoakdecor, #makingmyhaven, #renterfriendly, #smallspacesquad"
   - username: "polarbelle123"
     fullname: >-
       Shelley Your Highlight Queen
@@ -54,19 +90,19 @@ profiles:
     commentsToLikes: 0.235546
     id: ck0u1tkclxvuv0i190a2gx7qm
     verified: false
-    hashtags: "#pixipretties, #poshmark, #discoverunder50k, #poshaffiliate"
+    hashtags: "#makeupmafia, #pixibeauty, #brandambassador, #beautybloggerlife"
   - username: "babycakes1920"
     fullname: >-
       Cygnet
     bio: >-
       👽 Phoenix 🍩 Cygnetsuicide 🧠 Clinical Psych 🦓 #ehlersdanlossyndrome @shotbybabycakes @shophappyhemp babycakes @bojanglesbazar @thoughtcloud bbcakes
     location: "United States"
-    followers: 109986
-    engagement: 193
-    commentsToLikes: 0.017348
+    followers: 107512
+    engagement: 159
+    commentsToLikes: 0.017604
     id: ck5zqp764v0st0i14ue3difd2
     verified: false
-    hashtags: "#supportcreators, #yellowcbd, #ink, #supportart"
+    hashtags: "#cbdgummies, #stretchedlobes, #altgirls, #cbdadvocate"
   - username: "mrdavidduran"
     fullname: >-
       David Duran
@@ -91,40 +127,4 @@ profiles:
     id: ck6tmlkm982bs0j710j61btfi
     verified: true
     hashtags: "#instaart, #tattooing, #studiowaldink, #linework"
-  - username: "queenofblood"
-    fullname: >-
-      𝚂𝚑𝚘𝚗𝚍𝚊 𝙻𝚊𝚞𝚛𝚎𝚕𝚎𝚎 𝙼𝚊𝚌𝚔𝚎𝚢 Ⓥ
-    bio: >-
-      Vegan 🌱 | Creative Mind | Model 📸 | Event Host 🎤 🌹 @tanneryeagerphoto 🌵 Arizona
-    location: "United States"
-    followers: 238457
-    engagement: 159
-    commentsToLikes: 0.028113
-    id: ck55nruk16uhc0i11gkazs3kn
-    verified: false
-    hashtags: "#foamfeathers, #wildwest, #phoenixphotography, #dearmoon"
-  - username: "xjoshuawellsx"
-    fullname: >-
-      Joshua wells
-    bio: >-
-      NY ➡️ AZ 🇺🇸 💍@aims_wells VEGAN STRAIGHT EDGE SUBARUAMBASSADOR 📷@jwellsphotographs 📸@life.in.bwphotos 15 X5 , 08 Impreza , 04 Forester ( RIP)
-    location: "United States"
-    followers: 31431
-    engagement: 89
-    commentsToLikes: 0.017678
-    id: ck0u6sgde2uj10i19xqmirak9
-    verified: false
-    hashtags: "#azphotographer, #arizonaphotographer, #blackandwhite, #igsouthwest"
-  - username: "letthemeatthis"
-    fullname: >-
-      Let Them Eat This (Chelsey)
-    bio: >-
-      🏜 AZ food, travel & experience blogger 🌍 🎵 175k+ on Tik Tok 🎵 👑 Yelp elite 6 yrs 📝 📸 @bestfoodphoenix influencer 📷 ✉ Dm/email for collabs 📧 #azfoodie
-    location: "United States"
-    followers: 23980
-    engagement: 218
-    commentsToLikes: 0.123880
-    id: ck5znhq44ohix0i14lsb259c8
-    verified: false
-    hashtags: "#chocolate, #treatyoself, #foodie, #prescottarizona"
 ---

@@ -1,24 +1,60 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Russia In 2023
+title: Top 10 Nutrition Instagram Influencers In Russia In 2024
 description: >-
-  Find top nutrition Instagram influencers in Russia in 2023. Most popular hashtags: #model #mood #lifestyle.
+  Find top nutrition Instagram influencers in Russia in 2024. Most popular hashtags: #workout #likemypic #instabeauty.
 platform: Instagram
-hits: 65
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 65 Instagram influencers like this in Russia for you to collaborate.
+hits: 69
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 69 Instagram influencers like this in Russia for you to work with.
 profiles:
-  - username: "yana_smith_kuznetsova"
+  - username: "yaki_ifbbpro"
     fullname: >-
-      Автор курса ПОПА 360*🍑
+      VLADIMIR YAKOVLEV
     bio: >-
-      🥇🥇ArnoldClassicProX2 🏆msOLYMPIAtop10 🥇17 times PROchamp 🏋🏽‍♀️SportLife 🎽BetterBodies ☀️JanTanaAthlete Olimp nutrition @yanasmithschool @yana_smith_ysk
+      @scitecnutrition @aerofit_professional @master_of_gains 🥦 @yaki_nutrition_plan 🥩 @yaki_coach @realsteel_official VLOG на YouTube
     location: "Russia"
-    followers: 503361
-    engagement: 291
-    commentsToLikes: 0.045759
-    id: ck5c6mqya5rfe0i113r4nm164
+    followers: 102530
+    engagement: 285
+    commentsToLikes: 0.023132
+    id: ck14jobv8ld5b0i199r7o3u65
     verified: false
-    hashtags: "#yanasmithkuznetsova, #motivation, #yanasmithschool, #arnoldclassic2020"
+    hashtags: "#bodybuilding, #workout, #gains, #shredded"
+  - username: "mashatert"
+    fullname: >-
+      
+    bio: >-
+      Central Saint Martins 20’🎓 Professional nutritionist & sports admirer Founder & Creative Director @teri.magazine
+    location: "Russia"
+    followers: 238571
+    engagement: 322
+    commentsToLikes: 0.007122
+    id: ckf5r9eojbv400j23n2taw6gw
+    verified: false
+    hashtags: ""
+  - username: "holymollyyyy"
+    fullname: >-
+      Mo
+    bio: >-
+      Creative director, dj, nutrition bae @weare.act 🪩 @inside.your.skin «ЭТИ ДВОЕ»- подкаст. Ana Kar - YouTube 🎞️
+    location: "Russia"
+    followers: 90008
+    engagement: 138
+    commentsToLikes: 0.063614
+    id: ck8swhv5ee5640j78qrkgtknh
+    verified: false
+    hashtags: "#loverepublic, #lr"
+  - username: "biliana_yotovska"
+    fullname: >-
+      Bilyana Yotovska official ®️
+    bio: >-
+      🏆Bikini fitness champion & Top Model Owner @bilianayotovska_label @bilianayotovska_cosmetics 💪20 years experience in fitness & nutrition 📚Book writer
+    location: "Russia"
+    followers: 134033
+    engagement: 45
+    commentsToLikes: 0.003924
+    id: ck0w3dkbdsupz0i19060wggk6
+    verified: false
+    hashtags: "#bilianayotovskafitness, #dreambibiteam, #4plus, #bilianayotovskalabel"
   - username: "romashkinasasha"
     fullname: >-
       Блогер Алматы Похудение Диета
@@ -91,40 +127,4 @@ profiles:
     id: ckap39ll824ni0i78xszp1ok4
     verified: false
     hashtags: "#young, #instabeautiful, #girls, #likeme"
-  - username: "nomurushka"
-    fullname: >-
-      Veronika Nomura / モデル　Tokyo
-    bio: >-
-      MUSE Late bloomers ☺️ Architecture| Art | Books | Self develop | Nutrition
-    location: "Russia"
-    followers: 16401
-    engagement: 520
-    commentsToLikes: 0.027410
-    id: ck0vviw8zpc9b0i19gxyv1pej
-    verified: false
-    hashtags: "#expectation, #justdoit, #halloween, #nike"
-  - username: "zaytseva_tasha"
-    fullname: >-
-      Fitness Trainer & Model
-    bio: >-
-      🥩Apollon nutrition Athlete @apollonnutrition 💪🏾 🌍online training 📸 Fitness Model Moscow #FPA#VPFitness#xfitchistieprudi
-    location: "Russia"
-    followers: 34098
-    engagement: 407
-    commentsToLikes: 0.027983
-    id: ck5py9631uwew0i1171j1w0k9
-    verified: false
-    hashtags: "#womenstyle, #fitnessmodel, #moscowcity, #girlstyle"
-  - username: "oksanabadina"
-    fullname: >-
-      oksanabadina
-    bio: >-
-      Sports nutritionist🍏🍌🍎🍒🍓 Food photographer 📸 Автор 4-х 📕📗📒📘кулинарных книг о здоровом питании Купить мои книги ⬇️⬇️⬇️
-    location: "Russia"
-    followers: 16002
-    engagement: 832
-    commentsToLikes: 0.049339
-    id: ck5hlwmknkzxq0i1110sioiep
-    verified: false
-    hashtags: "#fotobyoksanabadina, #glutenfree, #recipes, #healthyrecipes"
 ---

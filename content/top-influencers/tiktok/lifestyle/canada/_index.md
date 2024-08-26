@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Canada In 2023
+title: Top 10 Lifestyle TikTok Influencers In Canada In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryoupage #foryou #grwm.
+  Find top lifestyle TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #foryoupage #foryou #grwm.
 platform: TikTok
-hits: 103
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 103 TikTok influencers like this in Canada for you to work with.
+hits: 118
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat has 118 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "naomileanage"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.024703
     id: ck806vbblmaom0j78ddv18enc
     verified: false
-    hashtags: "#torontovlog, #tryonhaul, #toronto, #canadian"
+    hashtags: "#canadian, #toronto, #torontovlog, #tryonhaul"
   - username: "samsvsco"
     fullname: >-
       sam 🖤
@@ -66,7 +66,19 @@ profiles:
     commentsToLikes: 0.042160
     id: ckal6dbh0adao0i786uux26q0
     verified: false
-    hashtags: "#makeup101, #makeuptips, #makeupforbeginners, #makeuphacks"
+    hashtags: "#makeupforbeginners, #makeup101, #makeuplooks, #makeup"
+  - username: "dory_likethefish"
+    fullname: >-
+      Dory_thefish
+    bio: >-
+      🇨🇦LIFESTYLE | MOTHERHOOD | JOY 🌻finding comfort in the chaos🌻 @boss.mamas
+    location: "Canada"
+    followers: 50300
+    engagement: 1223
+    commentsToLikes: 0.047735
+    id: ck94l4gfmxr840j786v6ml8gj
+    verified: false
+    hashtags: "#myfuturethanksme, #motherhood, #springdays, #mormon"
   - username: "awhcookie"
     fullname: >-
       ✰
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.044862
     id: ckfplxiwd13ah0j23fjvrc7zg
     verified: false
-    hashtags: "#skincare, #satisfying, #closeups, #pr"
+    hashtags: "#satisfying, #makeup, #closeups, #xyzabc"
   - username: "mikaylakuehn"
     fullname: >-
       Mikayla Kuehn
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.040751
     id: ckb12ofipqw8d0j233p4mj8wh
     verified: false
-    hashtags: "#thepinklife, #aristocats, #pinkaesthetic, #fashiontok"
+    hashtags: "#thepinklife, #disneymarie, #styleinspo, #pinkstyle"
   - username: "haligonia"
     fullname: >-
       Halifax Nova Scotia
@@ -115,16 +127,4 @@ profiles:
     id: ckdcle5bgnlt60j23ag8j44km
     verified: false
     hashtags: "#novascotia, #halifax, #fyp, #canada"
-  - username: "pinkmillennial"
-    fullname: >-
-      pinkmillennial_
-    bio: >-
-      Lifestyle blogger (who loves pink)of 10+ year! 70k followers on IG come join me
-    location: "Canada"
-    followers: 33100
-    engagement: 631
-    commentsToLikes: 0.091257
-    id: ckc3elrwz09v60j23kr335xp7
-    verified: false
-    hashtags: "#pinkdress, #pinklover, #tiktokggt, #ootd"
 ---

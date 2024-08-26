@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Ankara In 2023
+title: Top 10 Fashion Instagram Influencers In Ankara In 2024
 description: >-
-  Find top fashion Instagram influencers in Ankara in 2023. Most popular hashtags: #fashion #ankara #instagood #istanbul.
+  Find top fashion Instagram influencers in Ankara in 2024. Most popular hashtags: #fashion #ankara #instagood #izmir.
 platform: Instagram
-hits: 93
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 93 Instagram influencers like this in Ankara, Turkey for you to collaborate.
+hits: 84
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 84 Instagram influencers like this in Ankara, Turkey for you to contact.
 profiles:
   - username: "guzelcantabags"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck9hch0nclci60j78vxzj3efy
     verified: false
     hashtags: "#fashionstyle, #sa, #sunshine, #stilllife"
-  - username: "gkcegokdemir"
-    fullname: >-
-      ꧁*•.¸❁ 𝓟𝓪𝓹𝓪𝓽𝔂𝓪  ❁¸.•*꧂
-    bio: >-
-      •Gökçe Gökdemir •S.Aytuğ ❤️ •Çocuk Gelişim ➡️ Özel Eğitim #influencer #style #blogger İletişim için Dm 📩
-    location: "Turkey"
-    followers: 177256
-    engagement: 212
-    commentsToLikes: 0.020680
-    id: ck15pspdtzgke0i1972l7w39v
-    verified: false
-    hashtags: "#kek, #zay, #lezzetlerim, #sections"
   - username: "inciozdemm"
     fullname: >-
       İnci Özdemm
@@ -55,18 +43,6 @@ profiles:
     id: ck9wexe5xma1y0j787xmw17jf
     verified: false
     hashtags: "#love, #kadrajimdan, #rkiye, #nature"
-  - username: "silan.yakar"
-    fullname: >-
-      Şilan Yakar
-    bio: >-
-      😍🌎🤸🏼‍♂️ Love..Hope..Joy 🔆 🐾 🍀 💌 silanyakar1@gmail.com
-    location: "Turkey"
-    followers: 59658
-    engagement: 232
-    commentsToLikes: 0.116915
-    id: ckap95d12r7up0i78gg1wbvc0
-    verified: false
-    hashtags: "#istanbulbloggers, #ootdfashion, #chowchow, #snow"
   - username: "alyagram_2017"
     fullname: >-
       Alya' nın dünyası
@@ -91,18 +67,6 @@ profiles:
     id: ck13bnvbfwbbc0i19lcxoc6eb
     verified: false
     hashtags: "#autumn, #kadrajimdan, #anadolualbum, #altinkare"
-  - username: "dr.goseba"
-    fullname: >-
-      Gökçe Sena Bayramoğlu
-    bio: >-
-      ⚕👩‍⚕️ Doktor 🔖📽 Youtuber 👇 ✤ tık - la - ya - maz - ki
-    location: "Turkey"
-    followers: 62061
-    engagement: 1007
-    commentsToLikes: 0.032078
-    id: ckap7y2o0m2t70i783vnqz8l7
-    verified: false
-    hashtags: "#medlife, #trend, #anatomy, #istanbul"
   - username: "emelinsunumgunlugu"
     fullname: >-
       Emel sade
@@ -115,6 +79,18 @@ profiles:
     id: ck0vuzjsamuye0i199wr5v7d4
     verified: false
     hashtags: "#cutebaby, #annelerdenmamalar, #hijyen, #hamileanneler"
+  - username: "caglaxonline"
+    fullname: >-
+      🎬 🎀 ᏨᎯᎶᏝᎯ ᏨᎯᎶᏝᎯᏒ 🎀 📷
+    bio: >-
+      Fotoğraf 👇 @butterflymediia 17.06.2007💍@caglarcaglr 19.05.2013😻@kupafirarda 24.06.2017🍼@minidavsan 01.06.2020🍼@minifinduk REKLAM,TANITIM için DM 👈
+    location: "Turkey"
+    followers: 50729
+    engagement: 145
+    commentsToLikes: 0.022995
+    id: ckap741wmijj90i78ecitwb2o
+    verified: false
+    hashtags: "#reklam, #coffee, #turkishcoffee, #kahve"
   - username: "makeupbymahsima"
     fullname: >-
       Mahsima
@@ -127,4 +103,28 @@ profiles:
     id: ck0vyxftu697s0i194xxfx4w0
     verified: false
     hashtags: "#beauty, #model, #dugun, #hair"
+  - username: "fatih_asci"
+    fullname: >-
+      Fatih Aşcı
+    bio: >-
+      Girişimci | Reklamcı | Danışman
+    location: "Turkey"
+    followers: 5581
+    engagement: 1843
+    commentsToLikes: 0.000946
+    id: ckapbcb3gzdpk0i78pwuqs5i1
+    verified: false
+    hashtags: "#gezi, #ultrasonic, #dan, #bas"
+  - username: "makeup.hafiza"
+    fullname: >-
+      Make Up HAFİZA✨
+    bio: >-
+      ▪️|Beauty Expert|▪️|Pro MUA|🖤 #freelancemakeupartist #professionelmakeupartis Gelin ve özel gün makyajları👰 Pr ve İşbirliği İletişim DM
+    location: "Turkey"
+    followers: 14644
+    engagement: 407
+    commentsToLikes: 0.142917
+    id: ck9wewbemm4ns0j78w1tdyitw
+    verified: false
+    hashtags: "#ke, #bloggerlifes, #macg, #freelancemakeupartist"
 ---

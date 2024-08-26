@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In France In 2023
+title: Top 10 Nutrition TikTok Influencers In France In 2024
 description: >-
-  Find top nutrition TikTok influencers in France in 2023. Most popular hashtags: #nutrition #pourtoi #fitness #foryou.
+  Find top nutrition TikTok influencers in France in 2024. Most popular hashtags: #nutrition #pourtoi #sport #fitness.
 platform: TikTok
 hits: 12
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine holds 12 TikTok influencers like this in France for you to collaborate.
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our database has 12 TikTok influencers like this in France for you to work with.
 profiles:
   - username: "mathildejourdan16"
     fullname: >-
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.026458
     id: ckav4lt0jb1re0j237saby3xy
     verified: false
-    hashtags: "#philippines, #tiktoktravel, #beach, #frenchtraveler"
+    hashtags: "#travel, #philippines, #switzerland, #couplegoals"
 ---

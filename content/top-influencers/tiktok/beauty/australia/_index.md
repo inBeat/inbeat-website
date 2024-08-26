@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Australia In 2023
+title: Top 10 Beauty TikTok Influencers In Australia In 2024
 description: >-
-  Find top beauty TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #foryou #foryoupage #beauty.
+  Find top beauty TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #foryou #foryoupage #beauty.
 platform: TikTok
-hits: 311
+hits: 314
 text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform has 311 TikTok influencers like this in Australia for you to contact.
+text_bottom: Our search engine aggregates 314 TikTok influencers like this in Australia for you to contact.
 profiles:
   - username: "dark_khaos0"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.053472
     id: ckavl8jv6uhc00j23km13rv7h
     verified: false
-    hashtags: "#specialneeds, #mymotivation, #inclusion, #colorcustomizer"
+    hashtags: "#specialneeds, #mymotivation, #questions, #poselikeamodel"
   - username: "natashagallier"
     fullname: >-
       Natasha Gallier
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.101569
     id: ckbf1tl2eo91j0j23ipuftglm
     verified: false
-    hashtags: "#broome, #honeymoon, #sunset, #friends"
+    hashtags: "#sunset, #broome, #honeymoon, #perthwa"
   - username: "wendy_ontiktok"
     fullname: >-
       @wendy_online on IG

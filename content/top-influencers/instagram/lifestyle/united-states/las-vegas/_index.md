@@ -1,24 +1,36 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Las Vegas In 2023
+title: Top 10 Lifestyle Instagram Influencers In Las Vegas In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Las Vegas in 2023. Most popular hashtags: #lifestyle #lasvegas #love #vegas.
+  Find top lifestyle Instagram influencers in Las Vegas in 2024. Most popular hashtags: #lasvegas #lifestyle #lasvegasinfluencer #lasvegaslocals.
 platform: Instagram
-hits: 254
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 254 Instagram influencers like this in Las Vegas, United States for you to contact.
+hits: 332
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 332 Instagram influencers like this in Las Vegas, United States for you to contact.
 profiles:
   - username: "brittballs"
     fullname: >-
-      Brittney Britania
+      Brittney Britania 🧸
     bio: >-
-      she/her | beauty + lifestyle las vegas
+      beauty + lifestyle Las Vegas 🥂 y mexicana
     location: "United States"
-    followers: 19991
-    engagement: 965
-    commentsToLikes: 0.011637
+    followers: 18938
+    engagement: 606
+    commentsToLikes: 0.008374
     id: ck9wg34xqropw0j78h8fvmr4d
     verified: false
-    hashtags: "#revolveme"
+    hashtags: "#ad, #theadventurechallenge"
+  - username: "a.v.a.knight"
+    fullname: >-
+      AVA
+    bio: >-
+      🇵🇱 🇺🇸 Former Flyweight IBF & WBC World Boxing Champion Once held #3 P4P female in the world by Ring Mag 👊🏽 @avaorganix
+    location: "United States"
+    followers: 35905
+    engagement: 123
+    commentsToLikes: 0.039545
+    id: ck5hehasaswgh0i11fx8p7e7r
+    verified: true
+    hashtags: "#boxeo, #birthdaygirl, #worldchampion, #boxing"
   - username: "theivansimental"
     fullname: >-
       Ivan Simental | MortgageLeader
@@ -31,30 +43,66 @@ profiles:
     id: ck14iawjjehyz0i1927nmqziz
     verified: false
     hashtags: "#love, #life, #mindset, #motivation"
-  - username: "raddyherich"
+  - username: "brontetayy"
     fullname: >-
-      Radovan Herich
+      Bronte 🖤 motherhood | lifestyle | Las Vegas
     bio: >-
-      Helping others live better and healthier life 🎥 YouTube: Raddy Herich | @vitaminwelluae 🥙 Nutrition: @matternutrition.xyz
+      unfiltered mom & wife life Las Vegas 🩷 socially awkward, bookaholic Co-Founder @branduncommonagency
     location: "United States"
-    followers: 75589
-    engagement: 82
-    commentsToLikes: 0.033977
-    id: ck5cjj89kuu190i11i6imrg4u
+    followers: 35501
+    engagement: 387
+    commentsToLikes: 0.065132
+    id: cl0cwv1i7g32f0i23ig5j77vk
     verified: false
-    hashtags: "#trending, #outdoorworkout, #downtowndubai, #workout"
-  - username: "breeweberxo"
+    hashtags: "#thingsmyhusbanddoes, #marriedlife, #lasvegasmoms, #lasvegas"
+  - username: "alyssag36"
     fullname: >-
-      B R E E   W E B E R✨
+      Alyssa Renee Gutierrez
     bio: >-
-      NFL Cheerleader @raiderettes 🖤 sharing my life • style • home decor disney enthusiast🐭 wifey to @gweb18 💍 dog mom to Bentley + Teddy🐶 SHOP MY PAGE👇🏻
+      Work • Lifestyle • Fashion Las Vegas, NV TikTok: lyssag36 (168k+) Cosmetologist in NC & NV ✄
     location: "United States"
-    followers: 7737
-    engagement: 855
-    commentsToLikes: 0.038503
-    id: ck5bvg41xjl0y0i11mqtsogzg
+    followers: 21358
+    engagement: 741
+    commentsToLikes: 0.123290
+    id: ckf5qm2q99tkr0j231rilobx2
     verified: false
-    hashtags: "#raidersbaby, #blogger, #moveinfabletics, #love"
+    hashtags: "#lasvegasevents, #lasvegas, #lifeisamelody, #cleo50years"
+  - username: "styledinmotherhood"
+    fullname: >-
+      Amy Bourji Nassar, M.S., CCC-SLP
+    bio: >-
+      •Mama of 4💗💗💗💙 •Lebanese/American 🇱🇧🇺🇸 •Motherhood/Lifestyle influencer •Las Vegas •Speech & Language Pathologist •Collabs: anassarslp@hotmail.com
+    location: "United States"
+    followers: 19052
+    engagement: 96
+    commentsToLikes: 0.097702
+    id: ckqm6wo4qu0mb0j233pu6wkli
+    verified: false
+    hashtags: "#lebaneseinusa, #motherhoodinspired, #lasvegasinfluencer, #inthekitchen"
+  - username: "charmodelle"
+    fullname: >-
+      CHAR MODELLE
+    bio: >-
+      ✨My Biz: @brandsocialconsulting 🥂 Lifestyle | Food | Las Vegas 💫 💌 Collabs 👉🏼 info@charmodelle.com
+    location: "United States"
+    followers: 49739
+    engagement: 30
+    commentsToLikes: 0.216077
+    id: clr5xsvm1slbb0k08m4v0sen8
+    verified: false
+    hashtags: "#instagramtips, #vegasrestaurants, #personalbrandingcoach, #vegasfood"
+  - username: "jo2therubio"
+    fullname: >-
+      Johanna Rubio-Rubio
+    bio: >-
+      Lifestyle•Beauty•Fashion 📍Las Vegas • Jalisco 💌jo2therubio@gmail.com Have Courage & Be Kind ♐️
+    location: "United States"
+    followers: 10661
+    engagement: 97
+    commentsToLikes: 0.222426
+    id: cks11wp7h3wfl0j23q8c3qopw
+    verified: false
+    hashtags: "#beauty, #reelitfeelit, #makeup, #vegasinfluencer"
   - username: "ricardo_laguna"
     fullname: >-
       Ricardo Laguna
@@ -67,64 +115,16 @@ profiles:
     id: ck5c0zw2eu6810i1105nzum7s
     verified: true
     hashtags: "#rlsbackyard, #bmxrace, #custombicycles, #dirtlife"
-  - username: "forouzan.zad"
+  - username: "terrylashley_"
     fullname: >-
-      فروزان / اینفلوئنسر & بلاگر
+      Terry Lashley | Lifestyle + Mindset | Army Vet
     bio: >-
-      📍Las Vegas Lifestyle & Fashion 💄👗 همه چيز درباره فروزان🌸🦋 با لايف استايل و روزمرگي من در امريكا بيشتر آشنا بشيد🇺🇸
+      Army Vet turned Mentor Navigating Life 📍Vegas - LA | Lifestyle • Mindset 📧: Terry.L.Lashley.Pro@gmail.com
     location: "United States"
-    followers: 109703
-    engagement: 460
-    commentsToLikes: 0.057542
-    id: ck13bs0agww2c0i197mwdc0qf
+    followers: 299882
+    engagement: 908
+    commentsToLikes: 0.051800
+    id: cl93u92jcdbn10i23rf6y6cgk
     verified: false
-    hashtags: "#style, #explorepage, #iran, #styleinspo"
-  - username: "unamexicanaenlasvegas"
-    fullname: >-
-      Angelica
-    bio: >-
-      📍LAS VEGAS, NV. 🎲 •Fashion •beauty •lifestyle 📷 Latina #lasvegasblogger
-    location: "United States"
-    followers: 67014
-    engagement: 152
-    commentsToLikes: 0.033219
-    id: ck6tt5io48q060j71err0y6f3
-    verified: false
-    hashtags: "#votelikeamadre, #ad, #sponsored, #delightfulhealthydelicious"
-  - username: "two_platez"
-    fullname: >-
-      Texas Food and Beyond
-    bio: >-
-      𝐅𝐫𝐞𝐝𝐝𝐢𝐞 North TX Texoma ➡️ New Fatass on the block Just a guy with a camera and a collection of pics. Collab? DM or Email. #twoplatez
-    location: "United States"
-    followers: 15244
-    engagement: 347
-    commentsToLikes: 0.164269
-    id: ck5c1q6gpvp7a0i1111wtiol6
-    verified: false
-    hashtags: "#taste, #photooftheday, #foodstagram, #foodies"
-  - username: "burnettbungalow"
-    fullname: >-
-      Janelle Burnett-DIY-Home Decor
-    bio: >-
-      🌿Interiors🌿Everyday Mom🌿Sharing my life🌿Reinventing my home one DIY at a time Feat. in @apartmenttherapy @dwellmagazine @originmagazine @dominomag
-    location: "United States"
-    followers: 62497
-    engagement: 249
-    commentsToLikes: 0.067615
-    id: ck0tv9lqoagi80i19epac4u24
-    verified: false
-    hashtags: "#onetofollow, #thedelightofdecor, #familyroomdecor, #motherhood"
-  - username: "blaiseserra"
-    fullname: >-
-      𝑩𝒍𝒂𝒊𝒔𝒆
-    bio: >-
-      Turning Ideas into Reality Performer/ Consultant
-    location: "United States"
-    followers: 11098
-    engagement: 503
-    commentsToLikes: 0.032480
-    id: ck6tmrm388ecl0j71pj6lnxvz
-    verified: false
-    hashtags: "#magician, #magiciansofinstagram, #artist, #sleightofhand"
+    hashtags: "#blackmen, #lifehacks, #emotionalintelligence, #selflove"
 ---

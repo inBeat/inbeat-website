@@ -1,12 +1,48 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Switzerland In 2023
+title: Top 10 Nutrition Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top nutrition Instagram influencers in Switzerland in 2023. Most popular hashtags: #love #health #nutrition #fitness.
+  Find top nutrition Instagram influencers in Switzerland in 2024. Most popular hashtags: #nutrition #health #switzerland #love.
 platform: Instagram
-hits: 13
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 13 Instagram influencers like this in Switzerland for you to collaborate.
+hits: 24
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 24 Instagram influencers like this in Switzerland for you to pitch.
 profiles:
+  - username: "dierdrerae_"
+    fullname: >-
+      Dierdre Rae (DFit) | 🇨🇦🇺🇸🇮🇪
+    bio: >-
+      TRAIN WITH ME: @dfitprograms 🏋️‍♀️Fitness🏋️‍♀️ 🧠Mental health 🧠 💪🏻Body Confidence💪🏻 🥥🫐Nutrition🥥🫐 ⬇️GET STARTED HERE!⬇️
+    location: "Switzerland"
+    followers: 106208
+    engagement: 119
+    commentsToLikes: 0.018347
+    id: ckng6k6p8s93m0j23y03glz9o
+    verified: false
+    hashtags: "#foodiefriday, #letshuku"
+  - username: "kaya.grebo"
+    fullname: >-
+      Katrin Grebenar | UGC and Content Creation
+    bio: >-
+      BALANCED & HOLISTIC LIFESTYLE - BEAUTY - FASHION Mom of 👶 R. - Family daily life purpose: help and inspire people study: Nutrition Coach&Naturopath
+    location: "Switzerland"
+    followers: 25787
+    engagement: 110
+    commentsToLikes: 0.075663
+    id: ckap7k3gbkesw0i78blyc363n
+    verified: false
+    hashtags: "#ootd, #streetwear, #swissfoodblogger, #coffeelover"
+  - username: "andrea__schaerer"
+    fullname: >-
+      Andrea
+    bio: >-
+      🥦 Nutrition Coach 📍 Zurich 🍑 booty trainer 💗 I Love Transformations⬇️ 🔴 @andrea__coaching ⬇️ all discounts %
+    location: "Switzerland"
+    followers: 63902
+    engagement: 85
+    commentsToLikes: 0.044721
+    id: ck6u3vjue04ua0j71gialera8
+    verified: false
+    hashtags: "#goodvibes, #passion, #happiness, #andreacoaching"
   - username: "karinefahmyofficial"
     fullname: >-
       Karine Fahmy
@@ -30,7 +66,7 @@ profiles:
     commentsToLikes: 0.029765
     id: ckaovf9ax4cxk0i78yt3my5b4
     verified: false
-    hashtags: "#peace, #love, #health, #life"
+    hashtags: "#love, #health, #life, #peace"
   - username: "melissa_ts_fitness"
     fullname: >-
       MELISSA
@@ -43,6 +79,42 @@ profiles:
     id: ckaos0lhupm630i78m43ahae8
     verified: false
     hashtags: "#transgenderwoman, #transwoman, #m2f, #mtf"
+  - username: "dunjabitar"
+    fullname: >-
+      Dunja Bitar
+    bio: >-
+      Swiss Bodybuilder 🇨🇭 | Rider 🏍 + 🐎 | Lola is my dog 🐻‍❄️ Training plans 👇🏽
+    location: "Switzerland"
+    followers: 623855
+    engagement: 418
+    commentsToLikes: 0.021817
+    id: cl9ofgscukvjk0i23fvqwz33b
+    verified: false
+    hashtags: "#bodybuilding, #gymmotivation, #physique, #girlswholift"
+  - username: "hellomanuela"
+    fullname: >-
+      Manuela | 👘
+    bio: >-
+      ❥ Daily life, travel + outfits. Founder @monpetitsouk.ch . Suisse | Marrakech | Portugal.
+    location: "Switzerland"
+    followers: 19341
+    engagement: 25
+    commentsToLikes: 0.000833
+    id: ck5q3n7wtljmh0i11117mztht
+    verified: false
+    hashtags: "#quoteoftheday, #eatclean, #healthtips, #smile"
+  - username: "nourishingfoods"
+    fullname: >-
+      Fleur | Easy & Healthy Plant-Based Recipes
+    bio: >-
+      Here to help you nourish your body, mind and soul with healthy plant-based meals. Dutch girl living in Zürich 🇨🇭🇳🇱
+    location: "Switzerland"
+    followers: 35138
+    engagement: 21
+    commentsToLikes: 0.016570
+    id: ckaorgedkn3ft0i78h9rdrsjk
+    verified: false
+    hashtags: "#veganrecipes, #easyrecipe, #veganinspo, #easyrecipes"
   - username: "chopsueylee"
     fullname: >-
       Ai Lee Syarief | Health Coach
@@ -55,76 +127,4 @@ profiles:
     id: ck14ky1norwa00i196e2iko1o
     verified: true
     hashtags: "#nutrition, #instafit, #flexibility, #fightingelements"
-  - username: "wendyholdener"
-    fullname: >-
-      Wendy Holdener
-    bio: >-
-      Olympic Medalist 🥇🥈🥉 Alpine Skiing World Champion ⛷️🥇🥇🥇🥈 Love to ski and spend time with my family and loved ones 🤗🌍❤️
-    location: "Switzerland"
-    followers: 183877
-    engagement: 923
-    commentsToLikes: 0.008502
-    id: ck55j2kqpw40p0i11skdgifqh
-    verified: true
-    hashtags: "#luckyme, #thankful, #worldcuprebels, #slopetrackapp"
-  - username: "morganemeirebrand"
-    fullname: >-
-      𝑴𝒐𝒓𝒈𝒂𝒏𝒆 𝑴𝒆𝒊𝒓𝒆-𝑩𝒓𝒂𝒏𝒅  🇫🇷🇨🇭
-    bio: >-
-      𝐑𝐨𝐚𝐝 𝐭𝐨 𝟏𝐬𝐭 𝐁𝐈𝐊𝐈𝐍𝐈 𝐍𝐏𝐂 @team_k_ingrid_celine 𝙼𝚘𝚝𝚑𝚎𝚛 𝚘𝑓 👩🏻👼🏼👱🏼‍♀️👦🏼 𝘈𝘮𝘣𝘢𝘴𝘴𝘢𝘥𝘰𝘳 🔹 @noccoswitzerland 🔹 @lifepro_oficial 🔹 @nutribulle 🔹 @biobox.ch
-    location: "Switzerland"
-    followers: 13390
-    engagement: 667
-    commentsToLikes: 0.017404
-    id: ck9wembjxkw9d0j78wlq33n84
-    verified: false
-    hashtags: "#noccoswitzerland, #fitness, #badass, #crossfitbody"
-  - username: "denise_schindler"
-    fullname: >-
-      Denise Schindler
-    bio: >-
-      3x World Champion 🚴🏻‍♀️ I 3x Paralympic Medalist | Motivational Speaker | Killerbee 📖 Mein Buch „Vom Glück, Pech zu haben“ ✨⬇️
-    location: "Switzerland"
-    followers: 10597
-    engagement: 722
-    commentsToLikes: 0.051150
-    id: ck5zstay8z5bs0i14y6nhpcpy
-    verified: true
-    hashtags: "#paralympics, #killerbee, #ride, #wethe15"
-  - username: "furrerhans"
-    fullname: >-
-      Hans "John Juan" Furrer #08
-    bio: >-
-      🇨🇭Swiss Official Salesman Audi 🏍️Ducatisti since 2020 🚘Carlover since day one
-    location: "Switzerland"
-    followers: 6389
-    engagement: 798
-    commentsToLikes: 0.082554
-    id: ckaoryal5pbg40i78a2n4eijh
-    verified: false
-    hashtags: "#doitlikefurrer, #carsofinstagram, #ninja, #saturday"
-  - username: "philippseipp"
-    fullname: >-
-      Philipp Seipp
-    bio: >-
-      Coaching Is Art. Training Is Science. Head Coach #Seippsquad CEO @kick.ass.sports Member of the @azumsystem board
-    location: "Switzerland"
-    followers: 10668
-    engagement: 928
-    commentsToLikes: 0.013529
-    id: ck0w1fkugj3fl0i19ovtndv6y
-    verified: false
-    hashtags: "#kickasssports, #seippsquad, #iamazum, #seippsquadgoesinternational"
-  - username: "enver.sljivar"
-    fullname: >-
-      Enver Sljivar
-    bio: >-
-      K-1 / Kickbox Heavyweight Fighter Based in Switzerland🇨🇭 / From Bosnia 🇧🇦 VIP Bodyguard🛡
-    location: "Switzerland"
-    followers: 151782
-    engagement: 126
-    commentsToLikes: 0.012191
-    id: ck6u9x9ro07ib0j713eusatx7
-    verified: false
-    hashtags: "#love, #fashion, #gymlife, #motivation"
 ---

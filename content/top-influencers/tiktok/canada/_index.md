@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Canada In 2023
+title: Top 10 TikTok Influencers In Canada In 2024
 description: >-
-  Find top TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #greenscreen #stitch #duet.
+  Find top TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #greenscreen #stitch #duet.
 platform: TikTok
-hits: 9580
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: inBeat holds 9580 TikTok influencers like this in Canada for you to connect with.
+hits: 9584
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our search engine holds 9584 TikTok influencers like this in Canada for you to pitch.
 profiles:
   - username: "_zacharyali"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.010236
     id: ck8oswdi1ipvx0j78m4oukf1f
     verified: false
-    hashtags: "#fyp, #art, #worrywarts, #artfail"
+    hashtags: "#worrywarts, #tiktok, #art, #satisfying"
   - username: "offbeatoutlaw"
     fullname: >-
       Offbeat Outlaw
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.023682
     id: ckbffmdjzagnf0j2373sde8yt
     verified: false
-    hashtags: "#foreverdm, #dndmeme, #dnd, #dndstorytime"
+    hashtags: "#comedy, #dndmeme, #dnd5e, #dndstorytime"
   - username: "rhysdawkins"
     fullname: >-
       Rhys Dawkins
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.020733
     id: ck806zqx9nexq0j781rljq5ge
     verified: true
-    hashtags: "#tuxedocatsoftiktok, #crazycat, #catsoftiktok, #tiktokcats"
+    hashtags: "#crazycat, #catsrule, #gingercatsrule, #tuxedocatsoftiktok"
   - username: "chezaidan"
     fullname: >-
       Aidan Wachter
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.008084
     id: ck8ufld9p26dx0j78f8yclcwq
     verified: true
-    hashtags: "#chezcowboy, #3secondgames, #beeb, #relationship"
+    hashtags: "#3secondgames, #beebvids, #comedy, #beeb"
   - username: "sydthedisnerd"
     fullname: >-
       Sydney ✨
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.021206
     id: ck83ys8rpv99n0j788vnl95f6
     verified: false
-    hashtags: "#genderbend, #frozen, #snowwhitecosplay, #duet"
+    hashtags: "#greenscreen, #disneyprincess, #lucacosplay, #disney"
   - username: "luketrepp"
     fullname: >-
       LukeTrepp
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.018809
     id: ck8qqbedf74ig0j78jatuzctw
     verified: false
-    hashtags: "#song, #original, #originalsound, #guitar"
+    hashtags: "#originalsound, #cover, #originalsong, #singing"
   - username: "glitterxponyy"
     fullname: >-
       Glitterxpony
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.122767
     id: ckbqebn2t081g0j23y9agzxyw
     verified: false
-    hashtags: "#creativemakeup, #sephora, #greenscreen, #cultmakeup"
+    hashtags: "#greenscreen, #creativemakeup, #cultmakeup, #fyp"
   - username: "yabooktok"
     fullname: >-
       faith:)
@@ -126,7 +126,7 @@ profiles:
     commentsToLikes: 0.044119
     id: ckbez2dw6jwfc0j23a3fpkniv
     verified: false
-    hashtags: "#readinglist, #shadowandbone, #booktok, #reading"
+    hashtags: "#bookhaul, #booktok, #reading, #shadowandbone"
 cities:
   - name: Toronto
     link: /tiktok/canada/toronto

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Spain In 2023
+title: Top 10 Hypebeast Instagram Influencers In Spain In 2024
 description: >-
-  Find top hypebeast Instagram influencers in Spain in 2023. Most popular hashtags: #hypebeast #streetwear #highsnobiety #nike.
+  Find top hypebeast Instagram influencers in Spain in 2024. Most popular hashtags: #hypebeast #streetwear #photooftheday #streetstyle.
 platform: Instagram
 hits: 21
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 21 Instagram influencers like this in Spain for you to connect with.
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 21 Instagram influencers like this in Spain for you to collaborate.
 profiles:
   - username: "wthz.photos"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.038042
     id: ck15v0zrrpcw30i19e2j79uvi
     verified: false
-    hashtags: "#fashion, #hypebeaststyle, #strwde, #streetnotoriety"
+    hashtags: "#strwde, #outfittoss, #sneakerfreak, #fashion"
   - username: "petit_tuzer"
     fullname: >-
       PETIT TUZER
@@ -47,14 +47,14 @@ profiles:
     fullname: >-
       Ester Cuni
     bio: >-
-      Descubriendo la magia de la vida 💛✨ 📍España, Islas Canarias 📩️ ester.cuni@gmail.com
+      Descubriendo la magia de la vida 💛✨ 📍España, Islas Canarias
     location: "Spain"
-    followers: 179284
-    engagement: 87
-    commentsToLikes: 0.010126
+    followers: 177578
+    engagement: 55
+    commentsToLikes: 0.014849
     id: ck138ashjfc7n0i19kmpxvltk
     verified: false
-    hashtags: "#natgeohub, #livelevel, #featurepalettes, #majestic"
+    hashtags: "#truetothis, #naturecapture, #pocket, #featurepalettes"
   - username: "lauramedinaviejo"
     fullname: >-
       Dinamita
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.039409
     id: ckap98yq6rnoc0i78w66ogt5p
     verified: false
-    hashtags: "#witchesofinstagram, #instagood, #instagram, #nature"
+    hashtags: "#makeuplover, #summer, #primavera, #instagram"
   - username: "enn"
     fullname: >-
       Enrique Enn
@@ -91,18 +91,6 @@ profiles:
     id: ck0ubtchhfd4p0i199z7wjjn8
     verified: false
     hashtags: "#sculpture, #renderart, #sayhito, #minimalism"
-  - username: "samm.o"
-    fullname: >-
-      Oscar Molero
-    bio: >-
-      Automotive Photographer & Graphic Designer🚗 Abarthisti 🇮🇹 Based in Barcelona 📍
-    location: "Spain"
-    followers: 15175
-    engagement: 276
-    commentsToLikes: 0.024796
-    id: ck9h9mwma946m0j7861cc7cct
-    verified: false
-    hashtags: "#carinstagram, #autogespotusa, #speedsuspects, #carlifestyle"
   - username: "igdailyshoes"
     fullname: >-
       DAILYSHOES
@@ -127,4 +115,16 @@ profiles:
     id: ck5qbfbj7lc9c0i11ynlt6m6p
     verified: false
     hashtags: "#nikeair, #modernnotoriety, #snkrskickcheck, #airmax"
+  - username: "mickmartz"
+    fullname: >-
+      Mick Martz
+    bio: >-
+      Music Entrepreneur. 🎵 "FROM MADRID TO THE WORLD” 📍Madrid-Paris-Dubái📍🇪🇸🇫🇷🇦🇪 Dj Manager: @wahshow 🎧 Dj Manager: @pandaclub.mad 🐼
+    location: "Spain"
+    followers: 31909
+    engagement: 421
+    commentsToLikes: 0.064847
+    id: ck5hrkd9bv0e60i115j4xdadv
+    verified: false
+    hashtags: "#festival, #techhouse, #djlifestyle, #deephouse"
 ---

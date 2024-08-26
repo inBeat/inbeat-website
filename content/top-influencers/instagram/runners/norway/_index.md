@@ -1,11 +1,11 @@
 ---
-title: Top 10 Runners Instagram Influencers In Norway In 2023
+title: Top 10 Runners Instagram Influencers In Norway In 2024
 description: >-
-  Find top runners Instagram influencers in Norway in 2023. Most popular hashtags: #running #runnersofinstagram #instarunners #norway.
+  Find top runners Instagram influencers in Norway in 2024. Most popular hashtags: #running #runnersofinstagram #instarunners #oslomaraton.
 platform: Instagram
-hits: 18
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 18 Instagram influencers like this in Norway for you to contact.
+hits: 19
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 19 Instagram influencers like this in Norway for you to connect with.
 profiles:
   - username: "runanne92"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers In Russia In 2023
+title: Top 10 Cosmetics TikTok Influencers In Russia In 2024
 description: >-
-  Find top cosmetics TikTok influencers in Russia in 2023. Most popular hashtags: #fyp #foryou #aesthetic #makeup.
+  Find top cosmetics TikTok influencers in Russia in 2024. Most popular hashtags: #fyp #foryou #cosmetic #cosmetics.
 platform: TikTok
 hits: 8
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our platform has 8 TikTok influencers like this in Russia for you to collaborate.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 8 TikTok influencers like this in Russia for you to work with.
 profiles:
   - username: "toonylly"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In New York In 2023
+title: Top 10 Bloggers TikTok Influencers In New York In 2024
 description: >-
-  Find top bloggers TikTok influencers in New York in 2023. Most popular hashtags: #nyc #newyork #blogger #fyp.
+  Find top bloggers TikTok influencers in New York in 2024. Most popular hashtags: #nyc #blogger #newyork #fyp.
 platform: TikTok
 hits: 10
 text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine has 10 TikTok influencers like this in New York, United States for you to connect with.
+text_bottom: Our search engine has 10 TikTok influencers like this in New York, United States for you to work with.
 profiles:
   - username: "nytoanywhere"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.050482
     id: ck8tpyq36qooc0j78w5vxy8ex
     verified: false
-    hashtags: "#oceanview, #hoteltour, #cenote, #manhattan"
+    hashtags: "#curacao, #mexico, #hotelsandresorts, #nyctravel"
   - username: "foamfromabove"
     fullname: >-
       F2A
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.041986
     id: ck8j6d4ub980r0j78wkbrd817
     verified: false
-    hashtags: "#nyc, #model, #newyork, #fyp"
+    hashtags: "#tbt, #fashion, #fyp, #nyc"
   - username: "iammckenzierose"
     fullname: >-
       Re'gan Rae
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.119730
     id: ckbfb9z5h34jf0j23dyg6g3r4
     verified: false
-    hashtags: "#duet, #learnontiktok, #comedy, #fyp"
+    hashtags: "#fyp, #duet, #learnontiktok, #springlooks"
   - username: "zacharyburrabel"
     fullname: >-
       zacharyburrabel
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.026544
     id: ck80nqx0oe1mr0j7858s709hn
     verified: false
-    hashtags: "#chase, #maldives, #travelhacks, #travel"
+    hashtags: "#travelhacks, #chase, #amex, #creditcards"
   - username: "kirabarbielife"
     fullname: >-
       Kira- Solo Travel Blogger
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.066716
     id: ckcp2u1plbq290j234fbh0nxn
     verified: false
-    hashtags: "#newyorkcity, #sandiego, #tiktoktravel, #fyptravel"
+    hashtags: "#tiktoktravel, #newyorkcity, #fyptravel, #sandiego"
   - username: "toymom"
     fullname: >-
       Tiffany
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.111371
     id: ckbwhzm0u31vf0j23dvajd7dn
     verified: false
-    hashtags: "#jungle, #brazil, #goodmorning, #views"
+    hashtags: "#views, #goodmorning, #island, #california"
   - username: "ofleatherandlace"
     fullname: >-
       Tina Lee

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Germany In 2023
+title: Top 10 Guitar TikTok Influencers In Germany In 2024
 description: >-
-  Find top guitar TikTok influencers in Germany in 2023. Most popular hashtags: #fyp #guitar #foryou #music.
+  Find top guitar TikTok influencers in Germany in 2024. Most popular hashtags: #guitar #fyp #foryou #viral.
 platform: TikTok
 hits: 30
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 30 TikTok influencers like this in Germany for you to work with.
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 30 TikTok influencers like this in Germany for you to work with.
 profiles:
   - username: "anthonysuntiago"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.019786
     id: ck9rk71o8ritp0j78gt1qq6i9
     verified: true
-    hashtags: "#piano, #viral, #coversong, #acoustic"
+    hashtags: "#coversong, #guitar, #cover, #acoustic"
   - username: ".iamnadaw"
     fullname: >-
       Nadaw Albilia
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.100670
     id: ck8ncg59jeawm0j78dppry7yu
     verified: true
-    hashtags: "#mlb, #makeup, #heylol, #lgbt"
+    hashtags: "#lgbt, #makeup, #heylol, #fyp"
   - username: "mikasetzer"
     fullname: >-
       Mika Setzer
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.029169
     id: ckc8x6pggkxvc0j23c2ffqt0w
     verified: true
-    hashtags: "#foryou, #hairholiday, #slowmotion, #newsong"
+    hashtags: "#hairholiday, #goviral, #foryou, #fy"
   - username: "kevwithin"
     fullname: >-
       Kevin 
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.041942
     id: ck9rk08kjqn830j78kmpi6xtp
     verified: true
-    hashtags: "#fyp, #drawing, #piano, #tutorial"
+    hashtags: "#tutorial, #foryou, #piano, #fyp"
   - username: "kenetiapa"
     fullname: >-
       KJ Apa

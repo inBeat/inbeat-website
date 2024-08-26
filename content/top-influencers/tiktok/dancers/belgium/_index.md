@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Belgium In 2023
+title: Top 10 Dancers TikTok Influencers In Belgium In 2024
 description: >-
-  Find top dancers TikTok influencers in Belgium in 2023. Most popular hashtags: #fyp #foryou #dance #foryoupage.
+  Find top dancers TikTok influencers in Belgium in 2024. Most popular hashtags: #fyp #foryou #dance #foryoupage.
 platform: TikTok
 hits: 18
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 18 TikTok influencers like this in Belgium for you to work with.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 18 TikTok influencers like this in Belgium for you to collaborate.
 profiles:
   - username: "haileytje.b"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.019530
     id: ck7zo0fxzgmx60j78tcbzod53
     verified: true
-    hashtags: "#foryou, #shtamp, #fy, #omdathetkan"
+    hashtags: "#fy, #shtamp, #foryou, #omdathetkan"
   - username: "kimleyers"
     fullname: >-
       Kim Leyers

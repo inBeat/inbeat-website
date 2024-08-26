@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Thailand In 2023
+title: Top 10 Beauty TikTok Influencers In Thailand In 2024
 description: >-
-  Find top beauty TikTok influencers in Thailand in 2023. Most popular hashtags: #fyp #makeup #foryou #foryoupage.
+  Find top beauty TikTok influencers in Thailand in 2024. Most popular hashtags: #fyp #makeup #foryoupage #foryou.
 platform: TikTok
 hits: 36
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine holds 36 TikTok influencers like this in Thailand for you to collaborate.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our search engine holds 36 TikTok influencers like this in Thailand for you to contact.
 profiles:
   - username: "kk_submarine"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.209841
     id: ck8tortmwnr2t0j78t4klo3x6
     verified: false
-    hashtags: "#kksubmarine, #hehe, #fyp, #lol"
+    hashtags: "#kksubmarine, #lol, #hehe, #foryou"
   - username: "hyunyok"
     fullname: >-
       Hyunyok-ฮยอนหยก
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.005945
     id: ck8scou4mc1t50j785vwrrrz6
     verified: true
-    hashtags: "#fyp, #tiktoktutorial, #learnontiktok, #foryoupage"
+    hashtags: "#tiktoktutorial, #foryoupage, #foryou, #homefitness"
 ---

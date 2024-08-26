@@ -1,24 +1,12 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Berlin In 2023
+title: Top 10 Gaming Instagram Influencers In Berlin In 2024
 description: >-
-  Find top gaming Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #gaming #love #fun.
+  Find top gaming Instagram influencers in Berlin in 2024. Most popular hashtags: #berlin #gaming #model #love.
 platform: Instagram
-hits: 17
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 17 Instagram influencers like this in Berlin, Germany for you to pitch.
+hits: 23
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 23 Instagram influencers like this in Berlin, Germany for you to work with.
 profiles:
-  - username: "jasminjour"
-    fullname: >-
-      Jasmin
-    bio: >-
-      B | 26 Fitness, Lifestyle & Fun ⚡️ Team @oace_sports Impressum: jasminjour.com
-    location: "Germany"
-    followers: 394675
-    engagement: 189
-    commentsToLikes: 0.020417
-    id: ck5q1qfgtc9in0i11nsj33oke
-    verified: false
-    hashtags: "#snow, #makeup, #fun, #winterwonderland"
   - username: "kissfm.berlin"
     fullname: >-
       98.8 KISS FM
@@ -55,18 +43,42 @@ profiles:
     id: ck5zv60q13nex0i14qwey69xi
     verified: true
     hashtags: "#liebe, #bento, #diesejungenleute, #covid19"
-  - username: "feedeline_"
+  - username: "marvin_vlogt"
     fullname: >-
-      Feline
+      Marvinvlogt
     bio: >-
-      cosplayer ✴ streamer ✴ full time nerd next con: Dokomi 📍Berlin
+      💯 Bs kiddy
     location: "Germany"
-    followers: 12901
-    engagement: 1271
-    commentsToLikes: 0.020088
-    id: ck8t5h4p7a5ih0j78uatlwhsg
+    followers: 61203
+    engagement: 979
+    commentsToLikes: 0.048683
+    id: ck8t37y3428wl0j78d27hdxqg
     verified: false
-    hashtags: "#gamer, #streamergirl, #nerd, #lace"
+    hashtags: "#youtuber, #mercedes, #model, #brawlstars"
+  - username: "realpietsmiet"
+    fullname: >-
+      PietSmiet
+    bio: >-
+      He/Him Gaming, Food, gesunder Menschenverstand. Impressum: http://www.pietsmiet.de/impressum
+    location: "Germany"
+    followers: 300017
+    engagement: 599
+    commentsToLikes: 0.006203
+    id: ck5zmr89mn2t80i14dn5bglot
+    verified: true
+    hashtags: "#tieinterceptor, #pubgames, #workingandsharing, #live"
+  - username: "mr.manufique"
+    fullname: >-
+      ⚜️ Manuel / Mr.Manu ⚜️
+    bio: >-
+      ❇ Fashion | Style | Gaming ❇ TikTok 🔸mr.manufique🔶 ❇ Twitch 🔸MrManufique 🔶 ❇ Munich 🇩🇪 | Zagreb 🇭🇷 ❇ Inquiries ⤵ manufique@web.de ⬇️Werbung⬇️
+    location: "Germany"
+    followers: 54042
+    engagement: 199
+    commentsToLikes: 0.076160
+    id: ckap7zkd7m6zq0i7800rtafs2
+    verified: false
+    hashtags: "#hm, #styles, #hamburgcity, #stadt"
   - username: "itsdyma"
     fullname: >-
       DYMA
@@ -91,40 +103,28 @@ profiles:
     id: ckapan27nwrpr0i78k8emcg77
     verified: false
     hashtags: "#mangacosplay, #mitsuricosplay, #leagueoflegends, #kdacosplay"
-  - username: "realpietsmiet"
+  - username: "feedeline_"
     fullname: >-
-      PietSmiet
+      Feline
     bio: >-
-      Wurstbrot ohne Wurst ist Brot #youtubers #gaming #pietsmiet Impressum: http://www.pietsmiet.de/impressum Neustes Vid:
+      Twitch Partner ✴ streamer ✴ full time nerd 📍Frankfurt Impressum
     location: "Germany"
-    followers: 276466
-    engagement: 653
-    commentsToLikes: 0.005234
-    id: ck5zmr89mn2t80i14dn5bglot
-    verified: true
-    hashtags: "#pringles, #popplayeat, #schelm, #cyberpunk2077"
-  - username: "mr.manufique"
-    fullname: >-
-      ⚜️ Manuel / Mr.Manu ⚜️
-    bio: >-
-      ❇ Fashion | Style | Gaming ❇ TikTok 🔸mr.manufique🔶 ❇ Twitch 🔸MrManufique 🔶 ❇ Munich 🇩🇪 | Zagreb 🇭🇷 ❇ Inquiries ⤵ manufique@web.de ⬇️Werbung⬇️
-    location: "Germany"
-    followers: 43152
-    engagement: 273
-    commentsToLikes: 0.096744
-    id: ckap7zkd7m6zq0i7800rtafs2
+    followers: 81056
+    engagement: 2526
+    commentsToLikes: 0.011582
+    id: ck8t5h4p7a5ih0j78uatlwhsg
     verified: false
-    hashtags: "#deutschland, #tv, #instagood, #modern"
-  - username: "adorablebrina"
+    hashtags: "#splithair, #redhead, #soft, #softaesthetic"
+  - username: "little_malory"
     fullname: >-
-      FunkoPop | Disney | Nintendo
+      𝐌𝐚𝐥𝐨𝐫𝐲 🔮
     bio: >-
-      ➡️ Use my hashtag #adorablebrina | 🎀 Love Disney merch | 🎁 Funko pop collector | 🦊 Animal crossing addict | 🐶 Chihuahua Mom | 📍 Berlin / Germany |
+      📍Munich •📍Vienna • Lvl 33 🪺 Travel • Outdoor • Adventures Mountain Lover • Metalhead Tattoos & Piercings Sport is Life 🤍
     location: "Germany"
-    followers: 4351
-    engagement: 883
-    commentsToLikes: 0.098459
-    id: ck8tdb1c72mm50j783gbdu5o0
+    followers: 15901
+    engagement: 517
+    commentsToLikes: 0.015546
+    id: ck8t39wcl2h6u0j78xwuqacfr
     verified: false
-    hashtags: "#mydisneyhome, #qposket, #disneyfunkopop, #adorablebrina"
+    hashtags: "#listentoyourbody, #fitnessgirl, #tattooaddict, #nerdtattoo"
 ---

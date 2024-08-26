@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Germany In 2023
+title: Top 10 Comedians Instagram Influencers In Germany In 2024
 description: >-
-  Find top comedians Instagram influencers in Germany in 2023. Most popular hashtags: #comedy #love #standup.
+  Find top comedians Instagram influencers in Germany in 2024. Most popular hashtags: #comedy #germany #satire #berlin.
 platform: Instagram
-hits: 66
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 66 Instagram influencers like this in Germany for you to work with.
+hits: 73
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 73 Instagram influencers like this in Germany for you to contact.
 profiles:
   - username: "oliverpolakofficial"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Comedian
     location: "Germany"
-    followers: 17295
-    engagement: 149
-    commentsToLikes: 0.023107
+    followers: 64519
+    engagement: 134
+    commentsToLikes: 0.031247
     id: ck14ktnmqr9jb0i19236o9ssf
     verified: true
-    hashtags: "#comedy, #oliverpolak, #instagood, #besseralskrieg"
-  - username: "helenebockhorst"
+    hashtags: "#radioshow, #tiktokindia, #interview, #meme"
+  - username: "thedanielerizzo"
     fullname: >-
-      Helene Bockhorst
+      Daniele Rizzo
     bio: >-
-      Comedian und Autorin - mein Buch: bit.ly/BesteDepression, Termine & Tickets:
+      🇪🇺 [Actor | Showman] Schauspieler | Moderator | Comedian | Synchron Berlin | Köln 🇩🇪🇮🇹🇺🇸 Action | Drama | Comedy | Horror | Comics
     location: "Germany"
-    followers: 15531
-    engagement: 484
-    commentsToLikes: 0.053851
-    id: ck6uh27ni6kaj0j716cqj6orl
-    verified: false
-    hashtags: "#genialdaneben, #sat1, #simonpearce, #hoerbuch"
-  - username: "fabio_landert"
-    fullname: >-
-      Fabio Landert
-    bio: >-
-      🎤 Stand-Up Comedian 🎮 Twitch: fabiolandert_tv 🎫 Tickets für den Event Comedy Split 🔽
-    location: "Germany"
-    followers: 7579
-    engagement: 741
-    commentsToLikes: 0.047045
-    id: ck136pf3y7m2y0i19d7lvtio8
-    verified: false
-    hashtags: "#schweiz, #standup, #show, #comedyshow"
-  - username: "carljosefcomedy"
-    fullname: >-
-      Carl Josef
-    bio: >-
-      Comedian / Actor / Life in a wheelchair 📍located in germany 📩 mail@carljosef.de Bald wieder auf der Stage: Hier Tickets
-    location: "Germany"
-    followers: 30830
-    engagement: 552
-    commentsToLikes: 0.014513
-    id: ck0w3hvbxthoh0i19gvdy17nc
-    verified: false
-    hashtags: "#comedy, #thehypeiswheel, #inklusion, #endgameentertainment"
-  - username: "maddin_schneider"
-    fullname: >-
-      Maddin Schneider
-    bio: >-
-      Offizielle Seite von Maddin #maddin_schneider comedy#denkemachtkoppweh #hessisch #comedian , #schauspieler , #keynotespeaker
-    location: "Germany"
-    followers: 49097
-    engagement: 639
-    commentsToLikes: 0.020927
-    id: ck8wg9ui7gz3q0j785li3khx8
-    verified: false
-    hashtags: "#gr, #sonntag, #romantisch, #kuscheln"
-  - username: "sociialcy"
-    fullname: >-
-      SOCIIAL
-    bio: >-
-      comedian auf Teilzeitkraft Dance: @capo_cino
-    location: "Germany"
-    followers: 3284
-    engagement: 5659
-    commentsToLikes: 0.060491
-    id: ck8swq8ygev130j78hkw2llwo
-    verified: false
-    hashtags: "#fliptheswitch, #blackouttuesday, #saynotoracism, #togetherwearestronger"
-  - username: "manu_burkart_77"
-    fullname: >-
-      Manu Burkart
-    bio: >-
-      Comedian @cabaretdivertimento Gitarrist @bbr_rock_n_roll
-    location: "Germany"
-    followers: 105558
-    engagement: 660
-    commentsToLikes: 0.015488
-    id: ck6trmlppzv1j0j714uece92w
+    followers: 44479
+    engagement: 2529
+    commentsToLikes: 0.024629
+    id: ck5bvl2rtjvg90i110iy0hkyh
     verified: true
-    hashtags: "#corona, #tv, #hu, #guitar"
-  - username: "faisal.kawusi"
+    hashtags: "#ecasting, #schauspiel, #marionhaackcasting, #serie"
+  - username: "negah_amirii"
     fullname: >-
-      Faisal.Kawusi
+      Nelly Amiri
     bio: >-
-      🇦🇫 ❤️ 🇩🇪 - Comedian - Curvymodel - Host der @faisalkawusishow in @sat.1 - Schirmherr von @mutige_kinder ANARCHIE Live Tour 2019/20 —>Tickets
+      Standup Comedianne🎤| Eigene Show: ARDMediathek📺| Anfragen: Negah@ogp.rocks Neue Folge Never Ever jetzt hier👇🏼
     location: "Germany"
-    followers: 298281
-    engagement: 561
-    commentsToLikes: 0.040202
-    id: ck55nnwwv6lqw0i112z2bj3tn
-    verified: true
-    hashtags: "#warzoneclips, #vatersohnzeit, #ichliebeihn, #schmeckt"
-  - username: "simonstaeblein"
-    fullname: >-
-      Simon Stäblein
-    bio: >-
-      Comedian Host Podcaster
-    location: "Germany"
-    followers: 14924
-    engagement: 855
-    commentsToLikes: 0.016823
-    id: ck0w3hwk2thux0i19g5bxm6sv
-    verified: true
-    hashtags: "#sta, #st, #comedypreis2020, #omfg"
-  - username: "mo_comedy_official"
-    fullname: >-
-      Abdel El-Mouhamed
-    bio: >-
-      STAND-UP-COMEDIAN🎤
-    location: "Germany"
-    followers: 13834
-    engagement: 921
-    commentsToLikes: 0.041146
-    id: ck5hclow0ipv70i11302zjd79
+    followers: 148592
+    engagement: 483
+    commentsToLikes: 0.038626
+    id: ck5hclywkirdz0i11rz1nckp2
     verified: false
-    hashtags: ""
+    hashtags: "#lustig, #deutschland, #fyp, #humor"
+  - username: "abdulchahin"
+    fullname: >-
+      Abdul Kader Chahin
+    bio: >-
+      Comedian & Satiriker Podcast @nympheundsoehne | @brennpunkt_podcast Showtermine ⬇️ "ACHTE JETZT!" Anfragen an: eva@kaderschmiede-booking.de
+    location: "Germany"
+    followers: 47447
+    engagement: 1278
+    commentsToLikes: 0.017750
+    id: clq9hyz5s7bhf0k08qyy791dr
+    verified: false
+    hashtags: "#satire, #comedy, #deutschland, #apache207"
+  - username: "wurstaufschnitt"
+    fullname: >-
+      Lionel Koller
+    bio: >-
+      Comedian | DJ | Wurstware ⬇️ Tickets für mein Solo-Programm ⬇️
+    location: "Germany"
+    followers: 26916
+    engagement: 1221
+    commentsToLikes: 0.014761
+    id: clq9hz23v7f5r0k08ft4xs1rp
+    verified: false
+    hashtags: "#pride, #satire, #bammagazin, #comedian"
+  - username: "niiella_official"
+    fullname: >-
+      NIIELLA DANKWAH-COFFIE
+    bio: >-
+      Artist👩🏾‍🎨•Song Writer🎶•Vocal Coach 🎤 VGMA Best Female Vocalist Of The Year 2022 BET Sunday Best X Top 10 Finalist 🎉 Part-Time Comedian😉 3/4 🇬🇭 1/4 🇳🇬
+    location: "Germany"
+    followers: 71171
+    engagement: 435
+    commentsToLikes: 0.036281
+    id: cky3njezggwpz0j23mx26biai
+    verified: false
+    hashtags: "#niiellacollection, #unleashed2024, #worshipleader, #maryland"
+  - username: "janphilippzymny"
+    fullname: >-
+      Jan Philipp Zymny
+    bio: >-
+      Autor und Comedian Neues Programm ab September ⬇️Tickets für meine Tour⬇️
+    location: "Germany"
+    followers: 18284
+    engagement: 491
+    commentsToLikes: 0.019262
+    id: ck5hn7kvvncrn0i11rnk7p9ur
+    verified: false
+    hashtags: "#deutschecomedy, #eltern, #comedy, #kinder"
+  - username: "jurassicaparka"
+    fullname: >-
+      Jurassica Parka
+    bio: >-
+      Dragqueen + Comedian📍Berlin TikTok: @thejurassicaparka YouTube: @jurassicaparka Website: www.jurassicaparka.com
+    location: "Germany"
+    followers: 18675
+    engagement: 323
+    commentsToLikes: 0.034454
+    id: ck6titt1b1exb0j71s3gqh92m
+    verified: false
+    hashtags: "#nasamma, #storytelling, #jurassicaparka, #dragqueen"
+  - username: "interventionrachel"
+    fullname: >-
+      Rachel Intervention
+    bio: >-
+      Drag Queen | Germany 🙆 Lipsyncerin mit Leidenschaft. Stand-Up-Comedian. Moderateuse. Vegan. 📍𝗕𝗘𝗥𝗟𝗜𝗡 Booking: rachelintervention@gmail.com
+    location: "Germany"
+    followers: 4777
+    engagement: 1380
+    commentsToLikes: 0.120139
+    id: ck5bxo9qho3di0i11k1ey65lv
+    verified: false
+    hashtags: "#show, #drag, #follow, #rpdr"
+  - username: "oezcancosar"
+    fullname: >-
+      Özcan Cosar
+    bio: >-
+      🪩Comedian 🎙Podcaster 📁 Anfragen: info@mts-gmbh.com ⬇️ Tickets für meine Live Show
+    location: "Germany"
+    followers: 243845
+    engagement: 243
+    commentsToLikes: 0.035870
+    id: ck5hlspmeksdq0i11bzklyuaq
+    verified: true
+    hashtags: "#podcast, #comedy, #bratwurstundbaklava, #oezcancosar"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bodybuilding TikTok Influencers In 2023
+title: Top 10 Bodybuilding TikTok Influencers In 2024
 description: >-
-  Find top bodybuilding TikTok influencers in 2023. Most popular hashtags: #fyp #fitness #bodybuilding #duet.
+  Find top bodybuilding TikTok influencers in 2024. Most popular hashtags: #fyp #bodybuilding #fitness #duet.
 platform: TikTok
-hits: 624
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine holds 624 TikTok influencers like this for you to pitch.
+hits: 622
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 622 TikTok influencers like this for you to pitch.
 profiles:
   - username: "case_d20"
     fullname: >-

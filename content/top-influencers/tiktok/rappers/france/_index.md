@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers TikTok Influencers In France In 2023
+title: Top 10 Rappers TikTok Influencers In France In 2024
 description: >-
-  Find top rappers TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #viral #fyp #humour.
+  Find top rappers TikTok influencers in France in 2024. Most popular hashtags: #pourtoi #viral #fyp #humour.
 platform: TikTok
 hits: 10
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 10 TikTok influencers like this in France for you to contact.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 10 TikTok influencers like this in France for you to collaborate.
 profiles:
   - username: "millesime_k"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Poland In 2023
+title: Top 10 Models TikTok Influencers In Poland In 2024
 description: >-
-  Find top models TikTok influencers in Poland in 2023. Most popular hashtags: #dlaciebie #dc #fyp #foryou.
+  Find top models TikTok influencers in Poland in 2024. Most popular hashtags: #dlaciebie #dc #fyp #foryou.
 platform: TikTok
 hits: 52
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 52 TikTok influencers like this in Poland for you to collaborate.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 52 TikTok influencers like this in Poland for you to connect with.
 profiles:
   - username: "ola.szkol"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.035316
     id: ckdtjsisqx5oh0j23rnti2ng3
     verified: false
-    hashtags: "#poland, #tiktok, #hiphop, #dc"
+    hashtags: "#dlaciebie, #foryou, #dancer, #freestyle"
   - username: "topmodel.tvn"
     fullname: >-
       topmodel.tvn
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.016340
     id: ck8knhhaad6qp0j78xno5rzth
     verified: true
-    hashtags: "#dc, #attackontitan, #snk, #fyp"
+    hashtags: "#snk, #fyp, #dc, #attackontitan"
   - username: "klaudia_moon"
     fullname: >-
       klaudia_moon

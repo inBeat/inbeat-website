@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Bodybuilding Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top bodybuilding Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #bodybuilding #gym #dubai #fitness.
+  Find top bodybuilding Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #bodybuilding #gym #fitness #lifestyle.
 platform: Instagram
-hits: 21
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 21 Instagram influencers like this in United Arab Emirates for you to work with.
+hits: 24
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 24 Instagram influencers like this in United Arab Emirates for you to pitch.
 profiles:
   - username: "arshad54153"
     fullname: >-
@@ -19,6 +19,30 @@ profiles:
     id: ck9wpcthv8q1c0j78pb9vntwv
     verified: false
     hashtags: "#stage3tuned, #cute, #kitten, #mustang"
+  - username: "fhd.aljneibi"
+    fullname: >-
+      Fhd Aljneibi
+    bio: >-
+      💍💙 فهد الجنيبي 16-NOVEMBER 🦂 @lowcaloriesae @chefgourmet.ae @balsamalrihan
+    location: "United Arab Emirates"
+    followers: 57014
+    engagement: 474
+    commentsToLikes: 0.039991
+    id: ck9wiesfo20ct0j78322urxsu
+    verified: false
+    hashtags: "#abs, #fitness, #biceps, #motivation"
+  - username: "dr_sasani"
+    fullname: >-
+      SAEED SASSANI
+    bio: >-
+      Nutrition & Supplement program Blood Work,IV therapy,TRT Dr in UAE federation Chairman of Medical Committee in Asian Federation @excellageclinic
+    location: "United Arab Emirates"
+    followers: 43276
+    engagement: 87
+    commentsToLikes: 0.004179
+    id: ck5hp9aguqysj0i113mvvbi4a
+    verified: false
+    hashtags: "#diet, #cardio, #modeling, #sports"
   - username: "aeebeh"
     fullname: >-
       Ali Omar 🇮🇶 | علي عمر
@@ -79,18 +103,6 @@ profiles:
     id: ck8wd0wezd9gf0j781o2rpt4w
     verified: false
     hashtags: "#explore, #workoutfromhome, #explorepage, #fit"
-  - username: "daly_fit"
-    fullname: >-
-      • ᎠᎪᏞᎥᏞᎪ ᎾᏒᏆᎬᎶᎪ💎 🇮🇨 ⒾⒻⒷⒷ
-    bio: >-
-      ғɪᴛɴᴇss ᴄᴏᴀᴄʜ Exsoldier 🧑🏻‍✈️ 🇪🇸🇺🇸📍MIAMI / Now DUBAI 🇦🇪 💪🏼 @gymkillerofficial 🐉 @dragonpharma_llc 💃🏻 @zumba ZIN 🏃🏻‍♀️ @wearestrongnation SYNC
-    location: "United Arab Emirates"
-    followers: 126892
-    engagement: 467
-    commentsToLikes: 0.007190
-    id: ck5q0rg697e720i11nf77u1ua
-    verified: false
-    hashtags: "#beauty, #sunset, #fitnesslife, #muscle"
   - username: "ferdubai"
     fullname: >-
       Fernando 🇪🇸 | Dubai 🇦🇪
@@ -103,18 +115,6 @@ profiles:
     id: ck5zvkxyv4ffr0i142x0u7ckz
     verified: false
     hashtags: "#quote, #mindset, #training, #quotes"
-  - username: "yasir_khan_official"
-    fullname: >-
-      Yasir Khan
-    bio: >-
-      •Founder/CEO of world-renowned transformation program TYB @transform_yb •Transformation guru •Celebrity trainer •Professional fitness model
-    location: "United Arab Emirates"
-    followers: 48040
-    engagement: 200
-    commentsToLikes: 0.032723
-    id: ckap1ru06vuoi0i78xitdfl1d
-    verified: false
-    hashtags: "#transformationindubai, #fitdubai, #beforeafter, #uaefitness"
   - username: "bo_raiysh"
     fullname: >-
       Faisal_alzaabi

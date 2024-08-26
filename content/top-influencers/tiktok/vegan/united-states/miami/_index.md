@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Miami In 2023
+title: Top 10 Vegan TikTok Influencers In Miami In 2024
 description: >-
-  Find top vegan TikTok influencers in Miami in 2023. Most popular hashtags: #vegan #miami #fyp #healthylifestyle.
+  Find top vegan TikTok influencers in Miami in 2024. Most popular hashtags: #vegan #miami #fyp #skincare.
 platform: TikTok
-hits: 23
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 23 TikTok influencers like this in Miami, United States for you to connect with.
+hits: 22
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our platform has 22 TikTok influencers like this in Miami, United States for you to collaborate.
 profiles:
   - username: "imwhatyouneedd"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck9skqoyga5l10j78rwvscbzx
     verified: false
     hashtags: "#christmas, #supportsmallbiz, #skincareroutine, #morningroutine"
+  - username: "sarahgrant95"
+    fullname: >-
+      Sarah Grant
+    bio: >-
+      Author of Soul Beauty 💕 Love your yourself and body in 30 days program
+    location: "United States"
+    followers: 114200
+    engagement: 605
+    commentsToLikes: 0.028376
+    id: ckbku4pe1p6sk0j234janw8o8
+    verified: false
+    hashtags: "#weightloss, #plantbased, #beauty, #yummy"
   - username: "plantchics"
     fullname: >-
       Plant Chics
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.062348
     id: ck8hk5rm6cjeo0j78s2q7szjd
     verified: true
-    hashtags: "#fyp, #relatablecontent, #nature, #naturevibes"
+    hashtags: "#la, #rawvegan, #relatablecontent, #californiahiddengems"
   - username: "thenutritiousblonde"
     fullname: >-
       nutritious blonde.
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.041477
     id: ck8nbu23ybgd40j78bsgzilcs
     verified: true
-    hashtags: "#vegan, #makeup, #foryou, #welcome2021"
-  - username: "alyssalynch"
-    fullname: >-
-      alyssapaigelynch
-    bio: >-
-      no idea how to work this
-    location: "United States"
-    followers: 8527
-    engagement: 431
-    commentsToLikes: 0.023381
-    id: ck9kd9dxct7ja0j78rbyhrtgd
-    verified: true
-    hashtags: "#workout, #morningroutine, #ad, #fableticsambassador"
+    hashtags: "#greenscreen, #makeup, #vegan, #welcome2021"
 ---

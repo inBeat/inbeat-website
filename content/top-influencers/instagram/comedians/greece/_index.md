@@ -1,72 +1,48 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Greece In 2023
+title: Top 10 Comedians Instagram Influencers In Greece In 2024
 description: >-
-  Find top comedians Instagram influencers in Greece in 2023. Most popular hashtags: #fun #winter #greece.
+  Find top comedians Instagram influencers in Greece in 2024. Most popular hashtags: #fun #comedy #standupcomedy #friends.
 platform: Instagram
 hits: 9
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 9 Instagram influencers like this in Greece for you to pitch.
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 9 Instagram influencers like this in Greece for you to connect with.
 profiles:
-  - username: "sofiakourtidou"
+  - username: "iliasfood"
     fullname: >-
-      sofiakourtidou
+      Ilias Fountoulis
     bio: >-
-      Singer - Songwriter / Comedian
+      Comedian ☻ Writer 📖 Food editor 🍤🍲🧀🍆 Horror reader 👻 Volleyball lover 🏐 Πολυτεχνίτης και ερημοσπίτης 👇ΕΙΣΙΤΗΡΙΑ 15/7 ΘΕΑΤΡΟ ΡΕΜΑΤΙΑΣ
     location: "Greece"
-    followers: 92869
-    engagement: 1264
-    commentsToLikes: 0.029260
-    id: ck8sxuphdiqkp0j78id2rhxp3
+    followers: 79657
+    engagement: 520
+    commentsToLikes: 0.003985
+    id: ck1377vnna8iu0i19nl24mg5z
     verified: false
-    hashtags: "#cocacolagreece, #ad, #eimasteoloimazi, #colourful"
+    hashtags: "#craftbeeringreece, #beertime, #beersomelliergr, #greekbeer"
   - username: "dionysisatzarakis"
     fullname: >-
       Dionysis Atzarakis
     bio: >-
       Stand-up comedian. Παρουσιαστής. Συχνά αστείος.
     location: "Greece"
-    followers: 134394
-    engagement: 1572
-    commentsToLikes: 0.005099
+    followers: 219239
+    engagement: 1060
+    commentsToLikes: 0.005153
     id: ck5cbu9fyg65l0i117i18yrpo
     verified: false
-    hashtags: "#topoupsonizeismetraei, #happyfathersday, #boostbyallatini, #softkings"
-  - username: "marryretsina"
-    fullname: >-
-      Mary Retsina
-    bio: >-
-      Radio Presenter & VoiceOver Artist Comedian @netwix Traveller @discover.greece
-    location: "Greece"
-    followers: 10003
-    engagement: 858
-    commentsToLikes: 0.106235
-    id: ck55j2t3rw4ow0i11nlz7b3xf
-    verified: false
-    hashtags: "#traveller, #athens, #hotellife, #winter"
+    hashtags: "#ad, #comingnotsoon, #seira, #recycle"
   - username: "xrysa_katsarini"
     fullname: >-
       Xrysa Katsarini
     bio: >-
       stand up comedian
     location: "Greece"
-    followers: 45015
-    engagement: 1731
-    commentsToLikes: 0.010260
+    followers: 62470
+    engagement: 1274
+    commentsToLikes: 0.010089
     id: ck5cbuhf0g6n50i11buij44n6
     verified: false
-    hashtags: "#gamingmarathon, #teleperformance, #eachinteractionmatters, #gamingforcharity"
-  - username: "iliasfood"
-    fullname: >-
-      Ilias Fountoulis
-    bio: >-
-      Comedian ☻ Writer 📖 Food editor 🍤🍲🧀🍆 Horror reader 👻 Volleyball lover 🏐 Πολυτεχνίτης και ερημοσπίτης 👇DOUBLE IMPACT ΕΙΣΙΤΗΡΙΑ
-    location: "Greece"
-    followers: 83987
-    engagement: 896
-    commentsToLikes: 0.005050
-    id: ck1377vnna8iu0i19nl24mg5z
-    verified: false
-    hashtags: "#gamingforcharity, #heretoplay, #breadyoulove, #24hourgamingmarathon"
+    hashtags: "#pantouyparxeienaeimaidiplasou, #pantouyparxeienasmythos, #oldspice, #christmas"
   - username: "louispatsalides"
     fullname: >-
       Louis Patsalides
@@ -103,6 +79,18 @@ profiles:
     id: ck5cbufzig6k60i118atht14g
     verified: false
     hashtags: "#comedy, #awesome, #skg, #instadaily"
+  - username: "maliatsis_salas"
+    fullname: >-
+      Kostas Maliatsis Salas
+    bio: >-
+      Κωμικός | YouTuber | Συγγραφέας | Ραδιοφωνικός παραγωγός στο Ρυθμό94.9 Founder & Owner of the comedy club @losantzele & @losantzele_alldaybar 🌴
+    location: "Greece"
+    followers: 153916
+    engagement: 480
+    commentsToLikes: 0.006503
+    id: ck1377xuka8rl0i19w0rfy35e
+    verified: false
+    hashtags: "#ticketrestaurant, #edenred, #partners, #eisaimesa"
   - username: "linos.perfit"
     fullname: >-
       Linos Charalambous
@@ -115,4 +103,16 @@ profiles:
     id: ck6txhi3pxv840j71s8n0fexg
     verified: false
     hashtags: "#fitnessmotivation, #quarantine, #gym, #personaltraining"
+  - username: "funky"
+    fullname: >-
+      Funky Matas
+    bio: >-
+      🥇WORLD RECORD HOLDER. 🏆Time’s person of the year 2006 💛Love is all that matters. 📝THIS IS MY BUCKETLIST
+    location: "Greece"
+    followers: 1233044
+    engagement: 57
+    commentsToLikes: 0.012327
+    id: ck5cch5idhcn50i114nug1w5z
+    verified: true
+    hashtags: "#tattoo, #jump, #amor, #reel"
 ---

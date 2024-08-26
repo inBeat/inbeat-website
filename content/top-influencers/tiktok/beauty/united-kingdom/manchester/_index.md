@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Manchester In 2023
+title: Top 10 Beauty TikTok Influencers In Manchester In 2024
 description: >-
-  Find top beauty TikTok influencers in Manchester in 2023. Most popular hashtags: #fyp #beauty #love #foryou.
+  Find top beauty TikTok influencers in Manchester in 2024. Most popular hashtags: #fyp #beauty #love #foryou.
 platform: TikTok
 hits: 10
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 10 TikTok influencers like this in Manchester, United Kingdom for you to contact.
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 10 TikTok influencers like this in Manchester, United Kingdom for you to contact.
 profiles:
   - username: "thednbboys"
     fullname: >-

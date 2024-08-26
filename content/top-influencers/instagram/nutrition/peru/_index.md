@@ -1,12 +1,24 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Peru In 2023
+title: Top 10 Nutrition Instagram Influencers In Peru In 2024
 description: >-
-  Find top nutrition Instagram influencers in Peru in 2023. Most popular hashtags: #publicidad #peru #salud #positivevibes.
+  Find top nutrition Instagram influencers in Peru in 2024. Most popular hashtags: #bienestar #publicidad #peru.
 platform: Instagram
-hits: 21
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 21 Instagram influencers like this in Peru for you to work with.
+hits: 22
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 22 Instagram influencers like this in Peru for you to work with.
 profiles:
+  - username: "carlosbarrazaoficial"
+    fullname: >-
+      Carlos Tomate Barraza
+    bio: >-
+      🎶 Director @losbarrazaoficial 💪 Team @universenutrition y @hyper.nutrition.pe 💪 Papá de @gaelabarraza_ y @emi_barrazalop ♥️ 🎙 Locutor en @megamixperu
+    location: "Peru"
+    followers: 422475
+    engagement: 114
+    commentsToLikes: 0.013962
+    id: ck5zufn7g29o50i149q35a1e1
+    verified: false
+    hashtags: "#carestinoperu, #carestino, #articulosparabebes, #publicidad"
   - username: "verofith"
     fullname: >-
       Veronica Mori
@@ -43,30 +55,6 @@ profiles:
     id: ck6u8944xq5vw0j71njbpay8o
     verified: true
     hashtags: "#gym, #love, #harleydavidson, #life"
-  - username: "carlazaplana"
-    fullname: >-
-      Carla Zaplana
-    bio: >-
-      🥬Lic. Nutrición y Dietética (Plant-Based) 📚COME LIMPIO: Alimentación para el cuerpo, mente y emociones 👩‍💻Membresía RAÍCES 🎙Podcast ORÍGENES 📍Perú
-    location: "Peru"
-    followers: 110284
-    engagement: 86
-    commentsToLikes: 0.053838
-    id: ck5q0pmxv753e0i11wal65ycx
-    verified: true
-    hashtags: "#nutritiontips, #superfood, #jugoverde, #eatcleandiet"
-  - username: "marinamoram"
-    fullname: >-
-      Marina Mora Montero 🐝
-    bio: >-
-      Modelo/ Reina / Empresaria/ Profesora / Feliz y Agradecida 🙏❤️ @marinamoraescuela @marinamorashop ☎️ 01-6538747 Av.Reducto 971-Miraflores Lima PERU
-    location: "Peru"
-    followers: 218860
-    engagement: 143
-    commentsToLikes: 0.026224
-    id: ck5hrywiivpvq0i11n8dv8xbx
-    verified: false
-    hashtags: "#positivelife, #blessed, #grateful, #peru"
   - username: "vivianadeferrari"
     fullname: >-
       Self Love Coach
@@ -79,30 +67,6 @@ profiles:
     id: ck6tt9c619cdg0j71yyfxjsnr
     verified: false
     hashtags: "#mindfulness, #bienestarysalud, #lifecoaching, #sigueadelante"
-  - username: "fuchsrally"
-    fullname: >-
-      Nicolás Fuchs- 🏁Oficial🏁
-    bio: >-
-      🇵🇪 2021 de vuelta a los orígenes!! 🏁Rally!! 🏆🥇Nuevos proyectos deportivos y empresariales. 😊 A influir favorablemente en la vida de la gente!!! .
-    location: "Peru"
-    followers: 35190
-    engagement: 148
-    commentsToLikes: 0.019732
-    id: ck0u6rawt2p5e0i19ahsrjo3f
-    verified: true
-    hashtags: "#nicofuchs, #herbalifenutritionper, #fuchsrally, #publicidad"
-  - username: "healthy_pleasure"
-    fullname: >-
-      𝗦𝘆𝗹𝘃𝗶𝗮 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 𝗩𝗲𝗹𝗲𝘇
-    bio: >-
-      Nutricionista, Raw food chef Plant based diet & Healthy lifestyle🌱 y ✈️ 🇵🇪 Consultas online w e b ￬
-    location: "Peru"
-    followers: 58358
-    engagement: 137
-    commentsToLikes: 0.113241
-    id: ck5zlrnnbl9gc0i14k1khb4zx
-    verified: true
-    hashtags: "#dieta, #foodfight, #healthy, #peru"
   - username: "tete_novoa_oficial"
     fullname: >-
       Tete Novoa Oficial
@@ -115,16 +79,52 @@ profiles:
     id: ck5c26baxwmfc0i11tdcr5bfu
     verified: false
     hashtags: "#live, #repost, #tetenovoa, #freddiemercury"
+  - username: "crisisyak"
+    fullname: >-
+      Cris Arakaki 🥰
+    bio: >-
+      🇵🇪Lima - Perú 👾Twitch Kage de @rimuro.pe 💙 Otaku - Valorant - Nutrición - Kpop Tictac: 200K + 💌: hola@fluencylab.pe 🌸 @fluencylabpe
+    location: "Peru"
+    followers: 43089
+    engagement: 465
+    commentsToLikes: 0.035293
+    id: ck9hcp6gwmfip0j78u0o1w1hw
+    verified: false
+    hashtags: "#humor, #otaku, #ootd, #kawaii"
+  - username: "germanrozz"
+    fullname: >-
+      German Roz
+    bio: >-
+      🇵🇪 Chef | Nutricionista | Thenutrichef No hago dietas - Hago planes nutricionales ⚡️ Fundador 🚀 @huellaverdefoods @lacaletapizza @el.ztudio
+    location: "Peru"
+    followers: 77134
+    engagement: 308
+    commentsToLikes: 0.058497
+    id: ck5hp9uwcqzwv0i11jlp6xy4w
+    verified: false
+    hashtags: "#nutricion, #mealprep, #germanrozz, #salud"
+  - username: "macawellness"
+    fullname: >-
+      MACA | nutrición REAL
+    bio: >-
+      Nutricionista, RD 🍒 ✨nutriendo cuerpo & mente con ciencia y amor propio 🎙️podcast Otro Fondo Otra Reflexión 📙mi libro: NÚTRETE 👇🏼VOTA AQUÍ
+    location: "Peru"
+    followers: 92577
+    engagement: 158
+    commentsToLikes: 0.040375
+    id: ck5pytz39xsol0i11wbqe26fk
+    verified: true
+    hashtags: "#mitosdenutricion, #bienestar, #anotalo, #recetassaludables"
   - username: "marianahidalgo.nutricion"
     fullname: >-
-      Mariana | Nutrición+Hábitos
+      Mariana Hidalgo
     bio: >-
       🍓¡Soy nutricionista! Te enseño de alimentación y hábitos para que cambies de vida no de talla. 💘 Team @reebokperu RECETARIO GRATUITO AQUÍ 👇🏼
     location: "Peru"
-    followers: 121565
-    engagement: 181
-    commentsToLikes: 0.100759
+    followers: 120994
+    engagement: 155
+    commentsToLikes: 0.101596
     id: ck6u91w0cv08a0j71afz0zsxy
     verified: false
-    hashtags: "#peru, #marianahidalgo, #nutrici, #2023biencabr"
+    hashtags: "#nutrici, #2023biencabr, #nutricionista, #marianahidalgo"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In 2023
+title: Top 10 Graphic-Designers TikTok Influencers In 2024
 description: >-
-  Find top graphic-designers TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #graphicdesign #art.
+  Find top graphic-designers TikTok influencers in 2024. Most popular hashtags: #fyp #foryou #graphicdesign #art.
 platform: TikTok
-hits: 1102
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine holds 1102 TikTok influencers like this for you to work with.
+hits: 1084
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: inBeat holds 1084 TikTok influencers like this for you to connect with.
 profiles:
   - username: "its_memageek"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.085192
     id: ckav2llyn8qqk0j23vqbjckl5
     verified: false
-    hashtags: "#art, #xxl, #micellarrewind, #fyp"
+    hashtags: "#graphicdesign, #art, #rappers, #popsmoke"
   - username: "ghosttraveler"
     fullname: >-
       Emma Nembs

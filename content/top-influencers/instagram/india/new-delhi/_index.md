@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In New Delhi In 2023
+title: Top 10 Instagram Influencers In New Delhi In 2024
 description: >-
-  Find top Instagram influencers in New Delhi in 2023. Most popular hashtags: #ootd #photography #photooftheday #positivevibes.
+  Find top Instagram influencers in New Delhi in 2024. Most popular hashtags: #reels #trending #india #ootd.
 platform: Instagram
-hits: 351
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 351 Instagram influencers like this in New Delhi, India for you to pitch.
+hits: 398
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 398 Instagram influencers like this in New Delhi, India for you to work with.
 profiles:
+  - username: "aditya_rana"
+    fullname: >-
+      Aditya rana
+    bio: >-
+      New Delhi📍 Airline Pilot | Airbus 320 ✈️ Travel | Lifestyle Snapchat - aditya_rana25 📧adityaranainfo@gmail.com
+    location: "India"
+    followers: 63547
+    engagement: 1699
+    commentsToLikes: 0.010389
+    id: ck8t46xld5pl60j78q8a8q24r
+    verified: false
+    hashtags: "#pet, #ootd, #menswear, #dubai"
   - username: "taukeer_editz"
     fullname: >-
-      𝐓 🔥 𝐔 𝐊 𝐄 𝐄 𝐑   𝐄 𝐃 𝐈 𝐓 𝐙 👑
+      Tauqeer azeem
     bio: >-
-      • Photography | Editor | Youtuber • Fashion 👔 | New Delhi📍 • Snapchat : taukeerroxx • MGMT @gaur_media
+      • Photo | Lifestyle 🚀 • Creator | New Delhi📍 • officialtaukeereditz@gmail.com 📩
     location: "India"
-    followers: 544505
-    engagement: 503
-    commentsToLikes: 0.017597
+    followers: 540179
+    engagement: 482
+    commentsToLikes: 0.010886
     id: ck15r3put5zoz0i19o97av7e3
     verified: false
-    hashtags: "#menfashion, #photography, #editzarmy, #goldenhour"
-  - username: "aakriti17_tis"
+    hashtags: "#photooftheday, #modelposes, #editzarmy, #fashioninfluencer"
+  - username: "kiara.fulara"
     fullname: >-
-      Aakriti - The Iconic Soul 🧿
+      Kiara 👰🏻
     bio: >-
-      Fashion/Beauty/Lifestyle Engineer 👩‍🎓 MBA 📍 New Delhi 🔹DM for Business Enquiries: 📩 Soultheiconic@gmail.com contact.aakriti2@gmail.com
+      👗|| FASHION 👜|| LIFESTYLE 🛵|| TRAVEL 🇮🇳|| NEW DELHI ( INDIA ) 📬|| DM or Mail Queries/Collabs 🔻SUBSCRIBE🔻
     location: "India"
-    followers: 705655
-    engagement: 146
-    commentsToLikes: 0.016155
-    id: ck8sxb8r1grdd0j78jffpp943
+    followers: 193642
+    engagement: 2875
+    commentsToLikes: 0.007709
+    id: ck8werlb1ei8t0j789nw8tukn
     verified: false
-    hashtags: "#amazonbeauty, #theiconicsoul, #aakritisingh, #tis"
-  - username: "muufatt_"
+    hashtags: "#styleblogger, #ootd, #lifestyle, #trending"
+  - username: "anandbhavika"
     fullname: >-
-      Swarnima
+      bhavika🥰
     bio: >-
-      Business Development💸 Data Analytics📈📊 New Delhi to 🇨🇦 ❤️
+      making fashion fun 📍new delhi 👻 anandbhavikaa
     location: "India"
-    followers: 6608
-    engagement: 1756
-    commentsToLikes: 0.106244
-    id: ck8wg7hblguy00j785tcnx2hy
+    followers: 63405
+    engagement: 723
+    commentsToLikes: 0.047763
+    id: ck5c4nz4t1qpw0i113j043xyl
     verified: false
-    hashtags: "#canada, #weightloss, #workout, #fallvibes"
-  - username: "inshitamittal"
+    hashtags: "#trending, #styling, #birthdaymakeover, #collab"
+  - username: "veggiepaaji"
     fullname: >-
-      Inshita Mittal
+      Tanmay Sharma
     bio: >-
-      Dental surgeon & Cosmetologist 👩‍⚕️ Insta blogger Email for collaboration/promotion 📧📩 New Delhi,India 📍
+      I Travel to try the BEST Food so you can too. Billion+ Views and counting 😇 Brand Contact veggiepaaji@gmail.com 📍New Delhi, India
     location: "India"
-    followers: 91808
-    engagement: 433
-    commentsToLikes: 0.072151
-    id: ck137psmbcrix0i198ex2bnvw
+    followers: 285327
+    engagement: 1602
+    commentsToLikes: 0.004798
+    id: ck9wdeqb6fbio0j78r3za82x3
     verified: false
-    hashtags: "#goodvibes, #lastnight, #portrait, #familytime"
-  - username: "the.dream_chaser"
+    hashtags: "#tashi, #udaipur, #udaipurfood, #foodreels"
+  - username: "basicallymenz"
     fullname: >-
-      Jatin Garg
+      Sandeep Rai
     bio: >-
-      📸 Photographer, New Delhi. 📱 9990442415. ✉ jatingargphotography@gmail.com 🙌 DM/Whatsapp/Mail for Shoots, Enquiries 😊 Paid Collaborations only
+      •Lawyer •Lifestyle •Luxury •Fashion #Galaxycreator @samsungindia 📍 New Delhi #basicallymenz • 📩 basicallymenz@gmail.com
     location: "India"
-    followers: 7282
-    engagement: 416
-    commentsToLikes: 0.022154
-    id: ck0tvv5i3cxbo0i195ghrv4vm
+    followers: 75567
+    engagement: 505
+    commentsToLikes: 0.023958
+    id: ckap4umjt8xze0i78org99soe
     verified: false
-    hashtags: "#diwali, #portraitphotography, #mightydreamers, #bravogreatphoto"
-  - username: "pragya.acp"
+    hashtags: "#flipkartfashionpros, #galaxys23, #withgalaxy, #basicallymenz"
+  - username: "tandooribiceps"
     fullname: >-
-      Pragya Anand
+      Harkirat Singh
     bio: >-
-      ACP Chanakyapuri, New Delhi district, Delhi Police DANIPS officer, UPSC CSE 2014 JNU, DU Notre Dame Academy, Patna For emergency Dial 112
+      Food|Travel|Music| Zomato connoisseur @harkiratsingh0115 DM for invites/promotion New Delhi
     location: "India"
-    followers: 50877
-    engagement: 1898
-    commentsToLikes: 0.015081
-    id: ck9wefuddk2pw0j782k6rh44k
+    followers: 97863
+    engagement: 612
+    commentsToLikes: 0.032753
+    id: ck8t9n05yonzx0j78pzydx8n0
     verified: false
-    hashtags: "#danips, #upscmotivation, #safetyfirst, #coronatimes"
-  - username: "_shivibhati_"
+    hashtags: "#northindianfood, #khanakhazana, #dilsefoodie, #mumbaifood"
+  - username: "rohansolomon"
     fullname: >-
-      𝑺𝒉𝒊𝒗𝒂𝒏𝒊 𝑩𝒉𝒂𝒕𝒊
+      Rohan Solomon
     bio: >-
-      Sprinkling kindness everywhere I go ✨ 👻 Snapchat - sbhati1214 📩 DM for paid collaboration 📍New Delhi
+      . Global Chart Topping & Grammy Submitted Artist + Producer . Audio Engineer & Educator . Worked on a Grammy Winning Song. . New Delhi - NYC
     location: "India"
-    followers: 5156
-    engagement: 1199
-    commentsToLikes: 0.056029
-    id: ck9hb7sojfq3k0j78nh8o7p2d
+    followers: 24867
+    engagement: 573
+    commentsToLikes: 0.011901
+    id: ck6u3wezn09sz0j71pz466dwa
     verified: false
-    hashtags: "#delhigirls, #delhibloggers, #newdelhi, #bhati"
-  - username: "tenzingwang"
+    hashtags: "#songwriter, #musicvideo, #guitarist, #delhimusic"
+  - username: "the.aksphotography"
     fullname: >-
-      Tenzing Wang ™
+      Usman Ahmad
     bio: >-
-      drunk but responsible burps > burpees Location 📍 New Delhi DM for collabs For inquiries: 💌 wangtenzing@gmail.com
+      Logging memories one click at a time - An inherited skills from my #dad! @hipaae Finalist 📍New Delhi Collaboration 📩 the.aksphotography@gmail.com
     location: "India"
-    followers: 55039
-    engagement: 2097
-    commentsToLikes: 0.005600
-    id: ck6uciypwfvnr0j71ghesdtsz
+    followers: 79433
+    engagement: 13302
+    commentsToLikes: 0.016110
+    id: ck15q4tx213qp0i19dwqye98w
     verified: false
-    hashtags: "#quarantinelife, #saturdayvibes, #bts, #thecameraneverstopsrolling"
-  - username: "tusharikasethi"
+    hashtags: "#bollywoodsongs, #travel, #reelsindia, #instareels"
+  - username: "eshikarao"
     fullname: >-
-      Tusharika Sethi
+      𝐄𝐬𝐡𝐢𝐤𝐚 𝐑𝐚𝐨🧿
     bio: >-
-      Travel | Food | Lifestyle 📍New Delhi Conquering the world ✈️ 💌 hellotusharika@gmail.com
+      Founder- @er.socials 🌱 New Delhi 📍 Business📩: business.eshika@gmail.com
     location: "India"
-    followers: 5776
-    engagement: 664
-    commentsToLikes: 0.082820
-    id: ckap02xjhohdn0i78bqctyjt1
+    followers: 1336333
+    engagement: 805
+    commentsToLikes: 0.008710
+    id: ck9wg36idroxi0j78bbzvyv26
     verified: false
-    hashtags: "#poser, #sea, #traveldiaries, #hiking"
-  - username: "simrankalra__"
-    fullname: >-
-      𝓢𝓲𝓶𝓻𝓪𝓷  𝓚𝓪𝓵𝓻𝓪 🦋
-    bio: >-
-      Eunoia ✨ 🎓 NIFT’22 •📍New Delhi | Lucknow📚 💌 DM/mail for collab & promo 👻 princess_simmyy
-    location: "India"
-    followers: 28848
-    engagement: 654
-    commentsToLikes: 0.047141
-    id: ck0u8tawc8arx0i19gm85tdl3
-    verified: false
-    hashtags: "#explore, #explorepage, #reelitfeelit, #exploremore"
+    hashtags: "#ad, #reelsinstagram, #yutikanatural, #salonhaircolor"
 ---

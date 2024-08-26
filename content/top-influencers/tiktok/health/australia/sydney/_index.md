@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Sydney In 2023
+title: Top 10 Health TikTok Influencers In Sydney In 2024
 description: >-
-  Find top health TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #sydney #foryou #foryoupage.
+  Find top health TikTok influencers in Sydney in 2024. Most popular hashtags: #sydney #fyp #foryou #foryoupage.
 platform: TikTok
 hits: 12
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our search engine has 12 TikTok influencers like this in Sydney, Australia for you to connect with.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 12 TikTok influencers like this in Sydney, Australia for you to connect with.
 profiles:
   - username: "apreldiana"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.048493
     id: cka7o7mp10qyp0i78xk1mluw6
     verified: false
-    hashtags: "#dance, #tune, #tiktok, #foryou"
+    hashtags: "#dance, #fun, #mood, #earphones"
   - username: "geesl0uise"
     fullname: >-
       geesl0uise

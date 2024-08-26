@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Morocco In 2023
+title: Top 10 Makeup TikTok Influencers In Morocco In 2024
 description: >-
-  Find top makeup TikTok influencers in Morocco in 2023. Most popular hashtags: #makeup #makeupartist #foryou #explore.
+  Find top makeup TikTok influencers in Morocco in 2024. Most popular hashtags: #makeup #challenge #love #foryou.
 platform: TikTok
 hits: 21
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat has 21 TikTok influencers like this in Morocco for you to work with.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 21 TikTok influencers like this in Morocco for you to pitch.
 profiles:
   - username: "bouchra_officiel"
     fullname: >-

@@ -1,10 +1,10 @@
 ---
-title: Top 10 Food TikTok Influencers In South Africa In 2023
+title: Top 10 Food TikTok Influencers In South Africa In 2024
 description: >-
-  Find top food TikTok influencers in South Africa in 2023. Most popular hashtags: #food #viral #fyp #foryoupage.
+  Find top food TikTok influencers in South Africa in 2024. Most popular hashtags: #food #fyp #viral #foryou.
 platform: TikTok
 hits: 46
-text_top: See the top-rated TikTok influencers on inBeat.
+text_top: Identify the best TikTok accounts on inBeat.
 text_bottom: Our search engine holds 46 TikTok influencers like this in South Africa for you to contact.
 profiles:
   - username: "veeran.com"

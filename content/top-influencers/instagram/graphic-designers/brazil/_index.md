@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Brazil In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Brazil In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Brazil in 2023. Most popular hashtags: #gratidao #art #procreate.
+  Find top graphic-designers Instagram influencers in Brazil in 2024. Most popular hashtags: #art #gratidao #procreate.
 platform: Instagram
-hits: 74
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 74 Instagram influencers like this in Brazil for you to pitch.
+hits: 34
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 34 Instagram influencers like this in Brazil for you to connect with.
 profiles:
   - username: "hftxart"
     fullname: >-
@@ -115,16 +115,16 @@ profiles:
     id: ck5c89sym91m70i110ky9xwcd
     verified: false
     hashtags: ""
-  - username: "vickcammie"
+  - username: "kakaunog"
     fullname: >-
-      vick cammie
+      kakau nogueira.
     bio: >-
-      @ porto alegre // brasil ⠀⠀⠀⠀⠀⠀⠀ orçamentos de filtros: inbox graphic designer ⠀⠀⠀⠀⠀⠀⠀ 🦇vickcammie@gmail.com ⠀⠀⠀⠀⠀⠀⠀
+      ॐ ❂ ☾ ▿ bsb ▵ empreendedorismo digital ▿ posicionamento de marcas graphic designer | digital & comercial mkt ⚡️ Dicas Digitais! @kanmidia @vembrilha
     location: "Brazil"
-    followers: 45651
-    engagement: 542
-    commentsToLikes: 0.015265
-    id: ck14imcbag3rk0i19f8n4jvlo
+    followers: 10038
+    engagement: 523
+    commentsToLikes: 0.242243
+    id: ck5qdfl0nvbtr0i11u8he96fu
     verified: false
-    hashtags: "#bistekpoa"
+    hashtags: "#teamlfclub, #hashtags, #33weeks, #tb"
 ---

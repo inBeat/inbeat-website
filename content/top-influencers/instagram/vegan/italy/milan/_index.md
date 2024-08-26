@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Milan In 2023
+title: Top 10 Vegan Instagram Influencers In Milan In 2024
 description: >-
-  Find top vegan Instagram influencers in Milan in 2023. Most popular hashtags: #milano #vegan #summer #sea.
+  Find top vegan Instagram influencers in Milan in 2024. Most popular hashtags: #milano #vegan #italia #summer.
 platform: Instagram
-hits: 38
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform has 38 Instagram influencers like this in Milan, Italy for you to work with.
+hits: 42
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 42 Instagram influencers like this in Milan, Italy for you to pitch.
 profiles:
   - username: "elisa.donatini"
     fullname: >-
@@ -19,30 +19,18 @@ profiles:
     id: ckaowb5j8858e0i78hir7j2k9
     verified: false
     hashtags: "#colors, #mare, #picoftheday, #estate"
-  - username: "iamfitandsweet"
+  - username: "chiarametafora"
     fullname: >-
-      Tasty Healthy Food 🍎🧁😋 Ricette veloci, sane e golose
+      Chiara Metafora 🎠🚂✈️Travel&Food Creator
     bio: >-
-      🙋🏻‍♂️Michele Cipriano 🏋🏻‍♂️Mi alleno e mangio dolci 👨‍🍳Ricette dolci/salate velocissime 🍽Ristoranti/pasticcerie 🎓Trainee Lawyer Unicatt
+      trottola in giro per il mond🌏 📍Milano, locali insoliti & itinerari in giro 💙mamma di due gemelli🩵 🎥 guarda i reel per ispirarti
     location: "Italy"
-    followers: 97044
-    engagement: 219
-    commentsToLikes: 0.172016
-    id: ck55oortr8stg0i11gvmuuavs
+    followers: 154413
+    engagement: 209
+    commentsToLikes: 0.110583
+    id: clr3ixwzela7b0k08e64vilcc
     verified: false
-    hashtags: "#ricettefacili, #farro, #ricetteveloci, #vegan"
-  - username: "robyzavo"
-    fullname: >-
-      𝑹𝒐𝒃𝒆𝒓𝒕𝒂 𝒁𝒂𝒗𝒐𝒊𝒂𝒏𝒏𝒊
-    bio: >-
-      🔬🌱 Biologa Ambientale 👗💄 Fashion & Beauty Addicted 👫 𝟤𝟣/𝟢𝟤/𝟤𝟢𝟣𝟪 ♥️
-    location: "Italy"
-    followers: 46643
-    engagement: 174
-    commentsToLikes: 0.288788
-    id: ckaoxo0qxe2ep0i78yly3wyaf
-    verified: false
-    hashtags: "#suppliedby, #inspofashion, #beauty, #me"
+    hashtags: "#adv, #aperitivomilano, #gitafuoriporta, #brachettodacqui"
   - username: "valentinaferrari.arg"
     fullname: >-
       Valentina Ferrari D'Agostini
@@ -67,6 +55,30 @@ profiles:
     id: ck0vxaa09xxt60i19sng8jyvw
     verified: false
     hashtags: "#positiveme, #unica, #positiva, #uniqueness"
+  - username: "roby_momofgirls"
+    fullname: >-
+      Roberta Roca
+    bio: >-
+      💕𝗔𝗹𝗲𝘀𝘀𝗶𝗮 𝗔𝗻𝗱 𝗠𝗮𝗿𝘁𝗶𝗻𝗮'𝘀 𝗠𝗼𝗺💕 I photograph every moment of my life Based In Italy 🇮🇹 📍Foggia momofgirls.business@gmail.com
+    location: "Italy"
+    followers: 50831
+    engagement: 401
+    commentsToLikes: 0.015777
+    id: ck6ualj2m48bc0j716tsbhigc
+    verified: false
+    hashtags: "#instagood, #italy, #dpam, #shoes"
+  - username: "lulugargari"
+    fullname: >-
+      Lulù Gargari
+    bio: >-
+      Chef digitale👩🏻‍🍳 Autrice “Farfalle nello stomaco”e“Nient altro che la verità” Diplomata @alma_scuola_cucina 👩🏻‍🍳 Da piccola ero Livietta 🎬
+    location: "Italy"
+    followers: 208421
+    engagement: 43
+    commentsToLikes: 0.001656
+    id: ck9wf2vxpn1e90j78kcz4ezid
+    verified: false
+    hashtags: "#italia, #cenadinatale, #brunch, #food"
   - username: "alice.mayne"
     fullname: >-
       Alice | PT & Wellness Coach
@@ -79,6 +91,18 @@ profiles:
     id: ck6tp1lgthboo0j710fioqinn
     verified: false
     hashtags: "#fableticsfr, #teamnu3, #paris, #intelligentnutrition"
+  - username: "camilla_agazzone"
+    fullname: >-
+      Camilla | GREENtips
+    bio: >-
+      💚 provo a essere più #sostenibile 🧘🏼‍♀️ 🧗🏽‍♀️🏃🏻‍♀️alleno #corpo e #mente 🌱mangio #vegetale 💻art director📍Milan mngmt.camillaagazzone@gmail.com
+    location: "Italy"
+    followers: 68540
+    engagement: 187
+    commentsToLikes: 0.013053
+    id: ck6u1flbilfr00j71pmx56wcc
+    verified: false
+    hashtags: "#vegan, #newyork, #nyc, #adv"
   - username: "mercivanity"
     fullname: >-
       Mercede
@@ -90,7 +114,7 @@ profiles:
     commentsToLikes: 0.051030
     id: ck5zq8uaau5m30i14rppufbhc
     verified: false
-    hashtags: "#santiago, #mumandson, #loveyou, #escifuoricrescidentro"
+    hashtags: "#world, #imprevedibilmentemamma, #family, #badboy"
   - username: "ania.alexandrovna"
     fullname: >-
       Ania Alexandrovna
@@ -103,28 +127,4 @@ profiles:
     id: ck0tzxzjerxlg0i19gvh8ee8h
     verified: false
     hashtags: "#braviragazziruit"
-  - username: "elenasessa"
-    fullname: >-
-      엘레나 • FASHION • TRAVEL • INSPO
-    bio: >-
-      🍝 • More pasta, less drama 📚 • Graphic design in SantaGiuliaAcademy, Brescia 🎓 • Graphic designer from NABA, Milan 🎓 • Photo editor - @adobe certified
-    location: "Italy"
-    followers: 37709
-    engagement: 161
-    commentsToLikes: 0.019619
-    id: ck8szj7u1onm60j78s0krfemc
-    verified: false
-    hashtags: "#shein, #sheinstyle, #eyeliner, #beauty"
-  - username: "miss.mrj"
-    fullname: >-
-      miss.mrj
-    bio: >-
-      🇮🇹 Influencer📲digital creator🌎GlobeTrotter💉nurse👩‍🔬 💌 maria.mrj2@gmail.com 📍Matera-Milano-Torino ♻️💚Eco warrior 🧖🏻‍♀️wellness🛍️home&lifestyle🍰food
-    location: "Italy"
-    followers: 22121
-    engagement: 151
-    commentsToLikes: 0.139292
-    id: ckap0fnqsq2fx0i78r73wi0iu
-    verified: false
-    hashtags: "#ambassador, #beautyroutine, #relax, #model"
 ---

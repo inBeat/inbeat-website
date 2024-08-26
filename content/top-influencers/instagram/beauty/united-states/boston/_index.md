@@ -1,12 +1,48 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Boston In 2023
+title: Top 10 Beauty Instagram Influencers In Boston In 2024
 description: >-
-  Find top beauty Instagram influencers in Boston in 2023. Most popular hashtags: #boston #beauty #explore.
+  Find top beauty Instagram influencers in Boston in 2024. Most popular hashtags: #beauty #boston #style #design.
 platform: Instagram
-hits: 136
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 136 Instagram influencers like this in Boston, United States for you to work with.
+hits: 159
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 159 Instagram influencers like this in Boston, United States for you to collaborate.
 profiles:
+  - username: "erinkahalymakeup"
+    fullname: >-
+      Erin Kahaly- Boston Pro MUA
+    bio: >-
+      On-Site Pro Makeup Artist Boston-based servicing MA, RI, CT, NY ✉️ PR/business: erinkahaly@gmail.com DM for appointments
+    location: "United States"
+    followers: 4901
+    engagement: 421
+    commentsToLikes: 0.138316
+    id: ck8syub9wm1ay0j78acnbj3wn
+    verified: false
+    hashtags: "#colourpopcosmetics, #plouise, #makeupartistsworldwide, #makeup"
+  - username: "jenneatsgoood"
+    fullname: >-
+      Jenn Lueke
+    bio: >-
+      🍑 easy healthy recipes + meal prep on a budget 🥑 recovering picky eater who loves plants 🫐🥬🍌 📍 boston based 👋🏻 💌 deanna.ritter@ymugroup.com
+    location: "United States"
+    followers: 1112646
+    engagement: 83
+    commentsToLikes: 0.020321
+    id: ckmw1cmfo6c6n0j23vr46yplm
+    verified: false
+    hashtags: "#breakfastmealprep, #holidayrecipes, #easyhealthymeals, #grocerylist"
+  - username: "thelipbunny"
+    fullname: >-
+      Brianna LaTorre
+    bio: >-
+      💉Certified Nurse Practitioner, Master Injector, Lip specialist 🐰Top100 injector in US 💋Founder @thelipbunnybeauty 👄 #1 Restylane Kysse account US 📍MA
+    location: "United States"
+    followers: 242616
+    engagement: 12
+    commentsToLikes: 0.006090
+    id: ckapce5jq3gei0i78lh2ypu69
+    verified: false
+    hashtags: "#filler, #botox, #boston, #beauty"
   - username: "buildingsofnewengland"
     fullname: >-
       Buildings of New England
@@ -19,18 +55,30 @@ profiles:
     id: ck6ug8fqf1ixu0j716kg5di5w
     verified: false
     hashtags: "#facadelovers, #houseportrait, #beauty, #archilovers"
-  - username: "sha_villz"
+  - username: "blindfoxart"
     fullname: >-
-      👑 Sasha 👑
+      Ҍӏíղժ Ƒօ×
     bio: >-
-      🇩🇴👸 LA📍 CEO of HairOnTheVillz ⚜️ Follow 👉🏼 @__haironthevillz__
+      🇲🇽 ⱭɾԵÍՏԵ • 𝔐𝔲𝔰𝔢 • Nefelibata 𝚘𝚛𝚒𝚐𝚒𝚗𝚊𝚕 𝚙𝚊𝚒𝚗𝚝𝚒𝚗𝚐𝚜 𝚊𝚗𝚍 𝚙𝚛𝚒𝚗𝚝𝚜 ✖️ɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴀʀᴛɪsᴛ✖️ Sales@BlindFoxArt.com
     location: "United States"
-    followers: 45214
-    engagement: 229
-    commentsToLikes: 0.038434
-    id: ck5hjpfdeh14n0i110yjqi2x4
+    followers: 44557
+    engagement: 249
+    commentsToLikes: 0.014690
+    id: ck5ztx91z1adr0i14rm2ji6dq
     verified: false
-    hashtags: "#haircare, #boston, #beauty, #bundledeals"
+    hashtags: "#interiorstyling, #interiordesign, #streetart, #igersnewengland"
+  - username: "cindystumpobuilder"
+    fullname: >-
+      Cindy Stumpo
+    bio: >-
+      Building Homes - shattering stereotypes BOS #1 lux builder 🔨 HGTV star “Tough as Nails” 🎥 WBZ 1030 Radio Host 🎙 en.wikipedia.org/wiki/Cindy_Stumpo
+    location: "United States"
+    followers: 71634
+    engagement: 894
+    commentsToLikes: 0.052345
+    id: ck6u0gwaxfmog0j71yyfpv17a
+    verified: true
+    hashtags: "#stunning, #construction, #workingmom, #luxurylife"
   - username: "jean__blanc"
     fullname: >-
       Jean M. Blanc
@@ -43,18 +91,6 @@ profiles:
     id: ck8tasqwlswlv0j78ahn7zcaz
     verified: true
     hashtags: "#noshavenovember, #ad, #raisethebar, #tb12"
-  - username: "_laurajstewart_"
-    fullname: >-
-      Laura
-    bio: >-
-      Find the beauty in everything ❤️ Seek Light✨ TX raised, AZ living 🏜
-    location: "United States"
-    followers: 10044
-    engagement: 1295
-    commentsToLikes: 0.046885
-    id: ck6to5by3c6lx0j71go2006c8
-    verified: false
-    hashtags: "#nature, #keepitwild, #perspective, #az"
   - username: "ajaiwithaneye"
     fullname: >-
       Boston Photographer
@@ -66,7 +102,7 @@ profiles:
     commentsToLikes: 0.136362
     id: ck6toq8oqfhjc0j71rcnghw09
     verified: false
-    hashtags: "#corona, #blackouttuesday, #vote, #neon"
+    hashtags: "#neon, #coronavirus, #blm, #vote"
   - username: "lindatenchitran"
     fullname: >-
       Linda | Fashion
@@ -78,7 +114,7 @@ profiles:
     commentsToLikes: 0.096028
     id: ckaouwqye25d80i78ghj8dxwj
     verified: false
-    hashtags: "#hbtsponsored, #zaful, #zafulgirl, #zafulfashion"
+    hashtags: "#hbtsponsored, #zafulgirl, #zafulfashion, #justcbd"
   - username: "chichappenz"
     fullname: >-
       Barbie
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.159006
     id: ck8t0qsk4sy8i0j78k1ziwgfc
     verified: false
-    hashtags: "#thedcbloggers, #bgki, #whatiwore, #dmvblogger"
-  - username: "erinkeavs"
-    fullname: >-
-      Erin K | Boston Lifestyle
-    bio: >-
-      bringing dreams to life one dress at a time 🌻 create your own sunshine ✨mental health + clean beauty advocate 📍Boston based 👇🏼style, life + adventure
-    location: "United States"
-    followers: 4163
-    engagement: 511
-    commentsToLikes: 0.095778
-    id: ckf5t15khgnqx0j238pa74ag8
-    verified: false
-    hashtags: "#booksparks, #countdowntofireflylane, #ltksalealert, #ad"
-  - username: "makeupbykeyla_"
-    fullname: >-
-      KEYLA🤍BEAUTY INFLUENCER
-    bio: >-
-      Start Beauty Influencer🎨 🇩🇴🇺🇸 Boston,MA Mom 👧🏽👧🏽👧🏼👶🏻 📧Business or PR DM🙏Email👇🏼 Keyla.pimentel.cordero@gmail.com YouTube
-    location: "United States"
-    followers: 61927
-    engagement: 130
-    commentsToLikes: 0.059381
-    id: ckaov7t0a3f2w0i785qt9tmfm
-    verified: false
-    hashtags: "#benefitclubpink, #benefitcosmetics, #hankandhenrybeauty, #lunah"
-  - username: "tmoney1369"
-    fullname: >-
-      Tori, Auntie
-    bio: >-
-      A caffeine dependent life form ☕️ from #Boston I'm not sure how many problems I have because math is one of them. Enjoy my shenanigans :)
-    location: "United States"
-    followers: 3397
-    engagement: 890
-    commentsToLikes: 0.115308
-    id: ck8t6fiubdfbx0j780wau9eis
-    verified: false
-    hashtags: "#scary, #smile, #humor, #true"
+    hashtags: "#styleblogger, #chichappenz, #thedcbloggers, #tmmlifetags"
 ---

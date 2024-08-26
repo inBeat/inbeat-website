@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Atlanta In 2023
+title: Top 10 Lifestyle TikTok Influencers In Atlanta In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Atlanta in 2023. Most popular hashtags: #fyp #foryoupage #foryou #atlanta.
+  Find top lifestyle TikTok influencers in Atlanta in 2024. Most popular hashtags: #fyp #foryoupage #foryou #atlanta.
 platform: TikTok
 hits: 8
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 8 TikTok influencers like this in Atlanta, United States for you to pitch.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 8 TikTok influencers like this in Atlanta, United States for you to pitch.
 profiles:
   - username: "catoura"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.031828
     id: ck9fmlkpyu1l50j78kh09jpkd
     verified: false
-    hashtags: "#thingstodoinatlanta, #travelblogger, #greenscreen, #atlantablogger"
+    hashtags: "#greenscreen, #fyp, #travelblogger, #atlantageorgia"
   - username: "dyetta"
     fullname: >-
       Donyetta Edwards
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.085058
     id: cka9m457h3ram0i78lv3uvff2
     verified: false
-    hashtags: "#fyp, #workfromhome, #zoom, #funny"
+    hashtags: "#workfromhome, #zoom, #fyp, #funny"
   - username: "misslambodoc"
     fullname: >-
       Anna O'ryan Fyfe
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.066173
     id: ck9el4qhm924t0j78vml816ca
     verified: false
-    hashtags: "#dramaticmoments, #mentalhealth, #draftdump, #whenwomenwin"
+    hashtags: "#fyp, #4upage, #diy, #babynames"
   - username: "officialgic0e"
     fullname: >-
       officialgic0e
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.040855
     id: ck9fg7zym0mhu0j78wablyhmk
     verified: false
-    hashtags: "#travellife, #learnontiktok, #kenya, #nyc"
+    hashtags: "#nyc, #travellife, #kenya, #learnontiktok"
   - username: "lifestylemols"
     fullname: >-
       molly
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.140218
     id: ckc85eho04zeu0j23vto2avgt
     verified: false
-    hashtags: "#summer, #foryou, #grwm, #daily"
+    hashtags: "#productivity, #summer, #daily, #foryoupage"
   - username: "laynes.life"
     fullname: >-
       ✰ layne ✰

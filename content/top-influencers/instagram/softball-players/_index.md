@@ -1,12 +1,36 @@
 ---
-title: Top 10 Softball-Players Instagram Influencers In 2023
+title: Top 10 Softball-Players Instagram Influencers In 2024
 description: >-
-  Find top softball-players Instagram influencers in 2023. Most popular hashtags: #softball #softballgirls #softballplayer.
+  Find top softball-players Instagram influencers in 2024. Most popular hashtags: #tiktok #softball #reels.
 platform: Instagram
-hits: 21
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database has 21 Instagram influencers like this for you to pitch.
+hits: 31
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 31 Instagram influencers like this for you to pitch.
 profiles:
+  - username: "showmewhatchugot"
+    fullname: >-
+      Samantha Show
+    bio: >-
+      Pro softball player @thetexassmoke 💨😤 Management : @hochbergsm
+    location: "United States"
+    followers: 19695
+    engagement: 602
+    commentsToLikes: 0.015146
+    id: ck5zqqjf7v3h50i141927ymil
+    verified: true
+    hashtags: "#nationwomenandgirlsinsports, #shadyrays, #softballseason, #leadership"
+  - username: "sjay_27"
+    fullname: >-
+      Sahvanna Jaquish
+    bio: >-
+      ✝️AO1 📍CO Professional Softball Player 💪 @thetexassmoke @usasoftball 🥎 #27 👇use promo code👇: SJ27
+    location: "United States"
+    followers: 26691
+    engagement: 262
+    commentsToLikes: 0.012412
+    id: ckr6f6f548ny80j23uln3y47b
+    verified: false
+    hashtags: "#itsbiggerintexas, #athlete, #valentineday, #bhm"
   - username: "deviedev"
     fullname: >-
       DevieDev
@@ -19,6 +43,18 @@ profiles:
     id: ckaotg02yvrts0i78vfjiin9p
     verified: false
     hashtags: ""
+  - username: "haley_cruse"
+    fullname: >-
+      Haley Cruse
+    bio: >-
+      ~ Professional softball player @usssafloridapride #10 ~ @oregonsb alum 🐥 ~ Email inquiries below 📥
+    location: "United States"
+    followers: 250518
+    engagement: 1784
+    commentsToLikes: 0.002458
+    id: ck14gme435xrw0i19icfg1z45
+    verified: true
+    hashtags: "#gameday, #gopride, #engaged, #year5"
   - username: "ivaanagram"
     fullname: >-
       Ivy 🇧🇬 🇺🇸
@@ -91,40 +127,4 @@ profiles:
     id: ck8szf1kio6si0j78l3hzlhh0
     verified: false
     hashtags: "#fastpitchsoftball, #softballready, #tiktokhot, #softballdad"
-  - username: "nutritionforsoftball"
-    fullname: >-
-      Nutrition For Softball
-    bio: >-
-      🔥Former Athletes—Now Coaches   🍎Daily Nutrition Tips and Facts 🙏Here to Help You with Your Nutrition 👇Articles, Coaching, and Free Downloads
-    location: "United States"
-    followers: 17532
-    engagement: 701
-    commentsToLikes: 0.007972
-    id: ck8szf0veo6or0j78p1jg55gx
-    verified: false
-    hashtags: "#softballgirls, #softballlove, #softballtraining, #softballtourney"
-  - username: "loloevans13"
-    fullname: >-
-      Lauren “Lolo” Evans
-    bio: >-
-      •University of South Florida Softball Alum🐂 •Great Britain Softball🇬🇧
-    location: "United States"
-    followers: 5721
-    engagement: 877
-    commentsToLikes: 0.046976
-    id: ck15ra9p66xnj0i19o73dhqfm
-    verified: false
-    hashtags: "#happy, #puravidabracelets, #swimming, #florida"
-  - username: "breezystyle"
-    fullname: >-
-      Trisha
-    bio: >-
-      Nikon D750 📸 RIP. 10/16/2020
-    location: "United States"
-    followers: 19170
-    engagement: 48
-    commentsToLikes: 0.102987
-    id: ck13cd3ukzrjz0i19ico8nejz
-    verified: false
-    hashtags: "#pursuepretty, #familyfirst, #happycolors, #lifestyleblogger"
 ---

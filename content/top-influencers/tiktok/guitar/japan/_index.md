@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Japan In 2023
+title: Top 10 Guitar TikTok Influencers In Japan In 2024
 description: >-
-  Find top guitar TikTok influencers in Japan in 2023. Most popular hashtags: #tiktok #guitar #tiktokxmas.
+  Find top guitar TikTok influencers in Japan in 2024. Most popular hashtags: #tiktok #dance #guitar.
 platform: TikTok
 hits: 8
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 8 TikTok influencers like this in Japan for you to connect with.
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 8 TikTok influencers like this in Japan for you to contact.
 profiles:
   - username: "hinako_0525"
     fullname: >-

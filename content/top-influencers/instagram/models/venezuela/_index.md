@@ -1,24 +1,84 @@
 ---
-title: Top 10 Models Instagram Influencers In Venezuela In 2023
+title: Top 10 Models Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top models Instagram influencers in Venezuela in 2023. Most popular hashtags: #model #fashion #love.
+  Find top models Instagram influencers in Venezuela in 2024. Most popular hashtags: #venezuela #model #love.
 platform: Instagram
-hits: 124
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 124 Instagram influencers like this in Venezuela for you to pitch.
+hits: 134
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 134 Instagram influencers like this in Venezuela for you to collaborate.
 profiles:
-  - username: "patriciaram0s"
+  - username: "valeriefinlayd"
     fullname: >-
-      Patricia Ramos
+      Valerie Finlay Damiani
     bio: >-
-      TV Host |Brand Ambassador Psychologist |Speaker| Model @elitemiami CEO: @somos.inmigrantes 👩🏼‍💻 IGTV”Del Éxodo al Éxito”
+      law | model | valichu | valifinlay@gmail.com | @calzadoezio @shop.fidanzata
     location: "Venezuela"
-    followers: 37450
-    engagement: 217
-    commentsToLikes: 0.073141
-    id: ck0w1dc02isn40i197zbelruc
+    followers: 28944
+    engagement: 364
+    commentsToLikes: 0.020470
+    id: ck5ckc41vwkgw0i11d82ugw54
     verified: false
-    hashtags: "#quotes, #patriciaramos, #somosinmigrantes, #motivation"
+    hashtags: "#happymindhappylife, #memories, #babya, #venezuela"
+  - username: "veronicaweffer"
+    fullname: >-
+      Veronica Weffer / Viajando con Vero
+    bio: >-
+      🎓Lic. Comunicación Social ✈️ Viajando con Vero en YouTube 🎥 🌍 Travel blogger ✈️ 👙 Bikini Model
+    location: "Venezuela"
+    followers: 900455
+    engagement: 356
+    commentsToLikes: 0.012617
+    id: ck15tapufh6000i198iul4w5x
+    verified: false
+    hashtags: "#qatar, #fifaworldcup, #travel, #disney"
+  - username: "claudiabaseggio"
+    fullname: >-
+      Claudia Baseggio
+    bio: >-
+      lawyer, model and boss. @unikholor 🤎✨ | @thesecretoftheroses 📨 hello.claudiaba@gmail.com Chica Polar @polarpilsen ... aquí siempre es verano 🧜🏼‍♀️
+    location: "Venezuela"
+    followers: 678946
+    engagement: 332
+    commentsToLikes: 0.008335
+    id: ck6tk6ydn44dy0j71wdwy0c12
+    verified: false
+    hashtags: ""
+  - username: "liaryshernandez"
+    fullname: >-
+      Liarys Hernández
+    bio: >-
+      business | mom | motivation | model | real life 𝐋𝐈𝐀𝐇 𝐆𝐑𝐎𝐔𝐏 @liah.storevzla @liah.spa @liah.whosale 💌 groupliah@gmail.com
+    location: "Venezuela"
+    followers: 1014145
+    engagement: 310
+    commentsToLikes: 0.389863
+    id: ck5hizk0gfqrc0i1154s3rm5i
+    verified: false
+    hashtags: "#sonrisaradiante, #concursodental, #sunday, #1ero"
+  - username: "dailizmorillo"
+    fullname: >-
+      Dailiz | FASHION & LIFESTYLE
+    bio: >-
+      #ContentCreator @hesperiawtcvalenciafashionweek • CO Designer @weardestino • Model • Brand Ambassador • PR
+    location: "Venezuela"
+    followers: 45275
+    engagement: 300
+    commentsToLikes: 0.025815
+    id: ck5hr53vaua1f0i11mp4uyxtf
+    verified: false
+    hashtags: "#style, #contentcreator, #fashionstyle, #outfit"
+  - username: "victoriavalentinaf"
+    fullname: >-
+      Victoria Valentina Acosta Farias
+    bio: >-
+      @calypsoshopve | cuenta de respaldo @victoriavalentinafa Model - Gym Girl - Content Creator Lifestyle, Fashion, Beauty, Workouts & Fitness
+    location: "Venezuela"
+    followers: 524339
+    engagement: 234
+    commentsToLikes: 0.010737
+    id: ck0vw12u3rmlz0i191ajm5tmc
+    verified: false
+    hashtags: "#workout, #fitnessmotivation, #fitness, #gym"
   - username: "steffysoccer"
     fullname: >-
       Steffy G. - Coach ⚡️Cachaca
@@ -31,18 +91,6 @@ profiles:
     id: ckap1szetw05m0i78rxbzfs5n
     verified: false
     hashtags: "#reto21, #motivation, #herbalifenutrition, #reto21dias"
-  - username: "veronicaweffer"
-    fullname: >-
-      Veronica Weffer
-    bio: >-
-      🎓Lic. Comunicación Social * TravelBlogger✈️ Youtuber * Bikini Model👙
-    location: "Venezuela"
-    followers: 575440
-    engagement: 466
-    commentsToLikes: 0.015899
-    id: ck15tapufh6000i198iul4w5x
-    verified: false
-    hashtags: "#travel, #asia, #playa, #bikini"
   - username: "gasibae"
     fullname: >-
       𝐄𝐋𝐈𝐙𝐀𝐁𝐄𝐓𝐇 𝐆𝐀𝐒𝐈𝐁𝐀
@@ -55,18 +103,6 @@ profiles:
     id: ck5cfpfsfnege0i11i3rdr0vh
     verified: false
     hashtags: "#tbt, #missdistritocapital2020"
-  - username: "valeriefinlayd"
-    fullname: >-
-      Valerie Finlay Damiani
-    bio: >-
-      law | model | valichu | valifinlay@gmail.com @valifinlaybook | @calzadoezio
-    location: "Venezuela"
-    followers: 20399
-    engagement: 678
-    commentsToLikes: 0.016430
-    id: ck5ckc41vwkgw0i11d82ugw54
-    verified: false
-    hashtags: ""
   - username: "eduarlopezf"
     fullname: >-
       E D U A R   L Ó P E Z   £.
@@ -91,40 +127,4 @@ profiles:
     id: ck6tk7cqu45710j71uav7wbwn
     verified: false
     hashtags: "#fotografia, #loveyourself, #familia, #farandula"
-  - username: "kadi_1103"
-    fullname: >-
-      𝒦 𝒶 𝒹 𝒾 𝒿 𝒶  ℬ 𝓇 𝒾 𝓈 𝒶
-    bio: >-
-      📍🇵🇪 Miss Verano 2019 en @marinamoraescuela . Miss Teen Model Madre de Dios 2019 👑 . • Propuestas o canjes al DM ⭐️
-    location: "Venezuela"
-    followers: 6951
-    engagement: 1350
-    commentsToLikes: 0.023944
-    id: ckf5ow0p040e90j23nrsbl0ch
-    verified: false
-    hashtags: "#goldenhour, #sinfiltro"
-  - username: "melissajimenez9"
-    fullname: >-
-      Melissa Jiménez
-    bio: >-
-      Miss International Venezuela '19 🤍 Model | Actress Life Coach | Gymnast #TuÉxitoEsSerTú
-    location: "Venezuela"
-    followers: 93154
-    engagement: 293
-    commentsToLikes: 0.015101
-    id: ck5c6nkj15tbg0i111dh8cjxr
-    verified: false
-    hashtags: "#venezuela, #tbt, #tuexitoessertu, #model"
-  - username: "thequeenenigma"
-    fullname: >-
-      Queen Enigma
-    bio: >-
-      #BlackLivesMatter Haus of Crowne • 🇺🇸 PA Drag Queen Host | Brand Ambassador Model | Social Media Personality Business: E-Mail | DM
-    location: "Venezuela"
-    followers: 33429
-    engagement: 372
-    commentsToLikes: 0.037727
-    id: ckap4g19r77xp0i789qe3n1iy
-    verified: false
-    hashtags: "#allblacklivesmatter, #love, #pride, #runway"
 ---

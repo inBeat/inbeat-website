@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Milan In 2023
+title: Top 10 Makeup TikTok Influencers In Milan In 2024
 description: >-
-  Find top makeup TikTok influencers in Milan in 2023. Most popular hashtags: #foryou #perte #fyp #makeup.
+  Find top makeup TikTok influencers in Milan in 2024. Most popular hashtags: #makeup #perte #foryou #fyp.
 platform: TikTok
-hits: 16
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our platform holds 16 TikTok influencers like this in Milan, Italy for you to connect with.
+hits: 17
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our database holds 17 TikTok influencers like this in Milan, Italy for you to collaborate.
 profiles:
   - username: "varyaren"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.033171
     id: cka6bswc91kwu0i7863fhkaav
     verified: false
-    hashtags: "#fashion, #viral, #perte, #trend"
+    hashtags: "#fy, #zodiactiktok, #outfit, #astrology"
   - username: "jannicass"
     fullname: >-
       Jannica Sherry
@@ -31,18 +31,6 @@ profiles:
     id: ck83z6hq7y5g30j78vi1z8kxb
     verified: false
     hashtags: "#fry, #foryou, #trending, #disney"
-  - username: "iamlarafedeli"
-    fullname: >-
-      Lara
-    bio: >-
-      🇮🇹 Milan, Italy ⛓🦇🖤 larafedeli.makeup@gmail.com
-    location: "Italy"
-    followers: 44400
-    engagement: 1540
-    commentsToLikes: 0.015734
-    id: ckavdm0tklms60j231c8hmqj8
-    verified: false
-    hashtags: "#dollskill, #godisrealcheck, #gothtiktok, #cigliafinte"
   - username: "im.domitilla"
     fullname: >-
       Domitilla
@@ -67,6 +55,18 @@ profiles:
     id: cka6oijlwfke20i78e200gyee
     verified: false
     hashtags: "#fyp, #milan, #photography, #routine"
+  - username: "iamlarafedeli"
+    fullname: >-
+      Lara
+    bio: >-
+      🇮🇹 Milan, Italy Seguimi su ig 🦇🖤 larafedeli.makeup@gmail.com
+    location: "Italy"
+    followers: 64300
+    engagement: 1615
+    commentsToLikes: 0.017801
+    id: ckavdm0tklms60j231c8hmqj8
+    verified: false
+    hashtags: "#goth, #longdistancerelationship, #eyelinertutorial, #chaineyeliner"
   - username: "marikaandgiada"
     fullname: >-
       M & G
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.007445
     id: ck8f8vjo63mkk0j78jjed68rf
     verified: false
-    hashtags: "#macro, #flattummyapp, #summer, #homeworkout"
+    hashtags: "#macro, #ad, #homeworkout, #eyes"
   - username: "marisol.viola"
     fullname: >-
       marisol viola
@@ -115,16 +115,16 @@ profiles:
     id: cka0ujtc2un150i78y257z6p9
     verified: false
     hashtags: "#makeupartist, #makeuptutorial, #powerofmakeup, #makeuplook"
-  - username: "viviolix"
+  - username: "_domizia"
     fullname: >-
-      Voilix
+      Domi
     bio: >-
-      Viviolix🎩 Milano
+      romana de Roma a Milano parlo tanto ma non dico “pazzesco” IG: _DOMIZIA
     location: "Italy"
-    followers: 12900
-    engagement: 1202
-    commentsToLikes: 0.019402
-    id: ckb9fwsnp4ll10j23f6ha2b60
+    followers: 178500
+    engagement: 976
+    commentsToLikes: 0.004528
+    id: cka67e1u2kpie0i78o5z7svqv
     verified: false
-    hashtags: "#perte, #fyp, #foryou, #viral"
+    hashtags: "#makeup, #makeuptutorial, #beauty, #hair"
 ---

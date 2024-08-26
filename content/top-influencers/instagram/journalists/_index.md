@@ -1,11 +1,11 @@
 ---
-title: Top 10 Journalists Instagram Influencers In 2023
+title: Top 10 Journalists Instagram Influencers In 2024
 description: >-
-  Find top journalists Instagram influencers in 2023. Most popular hashtags: #food #qatar #cafe.
+  Find top journalists Instagram influencers in 2024. Most popular hashtags: #love #food #2021.
 platform: Instagram
-hits: 1526
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 1526 Instagram influencers like this for you to collaborate.
+hits: 1603
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 1603 Instagram influencers like this for you to work with.
 profiles:
   - username: "hamishnews"
     fullname: >-
@@ -55,18 +55,6 @@ profiles:
     id: ck5q9xxxndkiz0i11mp5an26q
     verified: false
     hashtags: "#mybestsupport, #newarrivals, #poodle, #puppylove"
-  - username: "ira_chaykovskaya"
-    fullname: >-
-      Ира Чайковская
-    bio: >-
-      Journalist
-    location: "United States"
-    followers: 79543
-    engagement: 119
-    commentsToLikes: 0.023079
-    id: ck5hmzin4mxca0i11aavphpms
-    verified: false
-    hashtags: "#nofilter, #maldives, #paradise, #nevermisssunset"
   - username: "amirmoosakazemi"
     fullname: >-
       امیر موسی کاظمی
@@ -91,40 +79,52 @@ profiles:
     id: ckap8lhxrov1t0i7809xh29ci
     verified: false
     hashtags: "#music, #liberta, #soothing, #journalist"
-  - username: "katebroug"
+  - username: "twiggyjalloh"
     fullname: >-
-      Kate Broug | Entrepreneur
+      Time To Become Your Best Self.
     bio: >-
-      Woman of action. Entrepreneur. Pilot. Journalist. Podcast Host. Contributor @entrepreneur. ✉️ Email: kb@katebroug.com
+      🏳️‍🌈 👽 •A Neurodivergent Babe •Award-winning Beauty & Wellness Journalist @britishvogue •Self Dev + Wellness Podcast Host @taketenwithtwiggy
+    location: "United Kingdom"
+    followers: 11149
+    engagement: 557
+    commentsToLikes: 0.083121
+    id: ck5zvcurm3znh0i1456rsi431
+    verified: false
+    hashtags: "#lumene, #blackout, #cannes, #canneslions"
+  - username: "thisisjcali"
+    fullname: >-
+      Jonathan Calixto 🇵🇪🏳️‍🌈
+    bio: >-
+      📍#NYC Multimedia Journalist ✍🏽 @BELLAMag.co | @BELLALatinaMag 🎤 @BronxNetTV Partner @BELLA360.co 📩 thisisjcali@gmail.com
     location: "United States"
-    followers: 140609
-    engagement: 438
-    commentsToLikes: 0.028638
-    id: ckxe9prq245ws0j23ak2n6hg7
+    followers: 10438
+    engagement: 912
+    commentsToLikes: 0.114016
+    id: ck5hchv0mi5h50i11ir1mst2z
     verified: false
-    hashtags: "#tcsnycmarathon, #nyc, #nycmarathon, #aviation"
-  - username: "theamyclark"
+    hashtags: "#pride, #menswear, #ootdmen, #gaynyc"
+  - username: "ameliadimz"
     fullname: >-
-      Amy Clark
+      Amelia Dimoldenberg
     bio: >-
-      No BS beauty reviews! Beauty Editor | Journalist | Content Creator 💥 Formerly Adore Beauty, Mamamia/You Beauty.
-    location: "Australia"
-    followers: 14564
-    engagement: 511
-    commentsToLikes: 0.057139
-    id: cks1re31us59f0j23oj7712eg
-    verified: false
-    hashtags: "#loveyourskin, #simpleisbeautiful, #skincare, #frenchbeauty"
-  - username: "amina.dehbi"
+      ❤️ CEO of @chickenshopdate and very serious journalist📌@dimzinc DATES & MERCH👇🏼👇🏼👇🏼
+    location: "United States"
+    followers: 1816696
+    engagement: 666
+    commentsToLikes: 0.004565
+    id: ck0u1moibxa6s0i19wty6raij
+    verified: true
+    hashtags: "#ad, #oscars, #academypartner, #wbpartner"
+  - username: "raajjones"
     fullname: >-
-      Amina Dehbi - أمينة الذهبي
+      RAAJ JONES
     bio: >-
-      Creator | Journalist For business: Amina.dehbi001@gmail.com 🔻Last Youtube video:
-    location: "Morocco"
-    followers: 1022931
-    engagement: 923
-    commentsToLikes: 0.008608
-    id: ckf5opd4s37v40j23ptbyxhbt
+      Radio Jockey | Youtuber | Hip-Hop Journalist 📧: businesswithraajjones@gmail.com
+    location: "India"
+    followers: 55567
+    engagement: 534
+    commentsToLikes: 0.027979
+    id: ck5zktpehk55d0i14v7376ogf
     verified: false
-    hashtags: "#qatar, #travel, #visitrwanda, #adventure"
+    hashtags: "#gratitude, #hiphopforlife, #indianyoutuber, #raajjones"
 ---

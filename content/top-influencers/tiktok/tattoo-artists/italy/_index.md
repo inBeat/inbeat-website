@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In Italy In 2023
+title: Top 10 Tattoo-Artists TikTok Influencers In Italy In 2024
 description: >-
-  Find top tattoo-artists TikTok influencers in Italy in 2023. Most popular hashtags: #perte #foryou #tattoo #neiperte.
+  Find top tattoo-artists TikTok influencers in Italy in 2024. Most popular hashtags: #foryou #perte #neiperte #art.
 platform: TikTok
-hits: 10
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 10 TikTok influencers like this in Italy for you to collaborate.
+hits: 9
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our database holds 9 TikTok influencers like this in Italy for you to work with.
 profiles:
   - username: "yuribuccarello"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       ROMA 📍 🌍 TATTOO ARTIST SOLO TATTOOO HOBBY CANTANTE & CANTAUTORE
     location: "Italy"
-    followers: 2611
-    engagement: 254
-    commentsToLikes: 0.040339
+    followers: 2588
+    engagement: 303
+    commentsToLikes: 0.036898
     id: ckb9fol8d49pw0j23j9ak06q5
     verified: false
-    hashtags: "#butinar, #comicit, #foryou, #foryoupage"
+    hashtags: "#risate, #tiktok, #neiperte, #foryou"
   - username: "trueyuricammisa"
     fullname: >-
       Trueyuricammisa
@@ -31,18 +31,6 @@ profiles:
     id: ckaifgngvwubq0i787rwi32vr
     verified: false
     hashtags: "#cat, #fyp, #perte, #callofdutywarzone"
-  - username: "gabriele_anakin"
-    fullname: >-
-      ANAKIN
-    bio: >-
-      SEGUIMI ANCHE SU IG: @gabriele_anakin 🦄Tattooer 📍Rome
-    location: "Italy"
-    followers: 176300
-    engagement: 1523
-    commentsToLikes: 0.002556
-    id: ck9fwr7t62k100j78za17oseo
-    verified: false
-    hashtags: "#tatuaggio, #tattooer, #tattooartist, #tatuatore"
   - username: "im.domitilla"
     fullname: >-
       Domitilla
@@ -121,10 +109,10 @@ profiles:
     bio: >-
       Artista 💙👑 SEGUIMI SU INSTA :9ovaprince MALASORTE FUORI OVUNQUE LINK QUI SOTTO
     location: "Italy"
-    followers: 28300
-    engagement: 1447
-    commentsToLikes: 0.021965
+    followers: 27800
+    engagement: 1335
+    commentsToLikes: 0.019292
     id: ck9vdmtezvj150j78abe9v995
     verified: false
-    hashtags: "#trend, #fyp, #perte, #foryou"
+    hashtags: "#foryou, #fyp, #musica, #perte"
 ---

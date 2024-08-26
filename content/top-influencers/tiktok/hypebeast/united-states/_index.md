@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In United States In 2023
+title: Top 10 Hypebeast TikTok Influencers In United States In 2024
 description: >-
-  Find top hypebeast TikTok influencers in United States in 2023. Most popular hashtags: #hypebeast #fyp #sneakerhead #sneakers.
+  Find top hypebeast TikTok influencers in United States in 2024. Most popular hashtags: #hypebeast #fyp #sneakerhead #sneakers.
 platform: TikTok
 hits: 204
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our database aggregates 204 TikTok influencers like this in United States for you to contact.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 204 TikTok influencers like this in United States for you to collaborate.
 profiles:
   - username: "ashdiamond"
     fullname: >-
@@ -54,19 +54,19 @@ profiles:
     commentsToLikes: 0.046338
     id: ck9glclqknlpf0j786olklmgw
     verified: false
-    hashtags: "#sneaker, #sneakerhead, #shoetok, #hypebeast"
+    hashtags: "#sneakerhead, #fyp, #sneaker, #hypebeast"
   - username: "nohoesyorsh"
     fullname: >-
-      abovetherimhoops
+      yorsh
     bio: >-
       professional failure
     location: "United States"
-    followers: 6017
-    engagement: 1609
-    commentsToLikes: 0.091755
+    followers: 5958
+    engagement: 1081
+    commentsToLikes: 0.045068
     id: ckbf7fig4xba20j23d29435oq
     verified: false
-    hashtags: "#sneakers, #kicks, #lakers, #basketball"
+    hashtags: "#shoes, #basketball, #sneakerhead, #nba"
   - username: "tommytrillions"
     fullname: >-
       IG: @tommytrillions

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Italy In 2023
+title: Top 10 Travel TikTok Influencers In Italy In 2024
 description: >-
-  Find top travel TikTok influencers in Italy in 2023. Most popular hashtags: #italia #viaggiare #travel #drone.
+  Find top travel TikTok influencers in Italy in 2024. Most popular hashtags: #italia #viaggiare #travel #drone.
 platform: TikTok
-hits: 198
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 198 TikTok influencers like this in Italy for you to work with.
+hits: 201
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat has 201 TikTok influencers like this in Italy for you to work with.
 profiles:
   - username: "roccabrian"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.055634
     id: ckacd2o0fijaz0i78dizvon5c
     verified: false
-    hashtags: "#italiantravelblogger, #viaggiareinitalia, #visititaly, #tiktokviaggi"
+    hashtags: "#visititaly, #italiantravelblogger, #viaggiareinitalia, #tiktokroma"
   - username: "warrior_singhni1984"
     fullname: >-
       WARRIOR_SINGHNI1984💙
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.033033
     id: cka6e70zmam910i78szk2jjym
     verified: false
-    hashtags: "#mare, #savana, #freddo, #neve"
+    hashtags: "#freddo, #volare, #drone, #inverno"
   - username: "giacomopodetti"
     fullname: >-
       Giacomo Podetti
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.019243
     id: ck8qpxhs65gi90j783iuvs8wd
     verified: false
-    hashtags: "#winter, #neiperte, #winterwonderland, #fyp"
+    hashtags: "#fyp, #winter, #finland, #xyzbca"
   - username: "michelangeloazzariti"
     fullname: >-
       Michelangelo Azzariti
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.061211
     id: ck9fyk4j9b5il0j78ekh0615l
     verified: true
-    hashtags: "#rollercoaster, #italy, #fyp, #perte"
+    hashtags: "#tiktoktravel, #perte, #travellife, #travel"
   - username: "drewbinsky"
     fullname: >-
       Drew Binsky 🌏
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.042325
     id: ckamwjyrj8w110i78xv6ysp0t
     verified: false
-    hashtags: "#travelblogger, #foryoupage, #neiperte, #mauritania"
+    hashtags: "#foryou, #neiperte, #traveldiaries, #travel"
 ---

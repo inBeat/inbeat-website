@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Greece In 2023
+title: Top 10 Beauty TikTok Influencers In Greece In 2024
 description: >-
-  Find top beauty TikTok influencers in Greece in 2023. Most popular hashtags: #foryou #greece #tiktok #funny.
+  Find top beauty TikTok influencers in Greece in 2024. Most popular hashtags: #greece #foryou #tiktok #funny.
 platform: TikTok
 hits: 18
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: inBeat holds 18 TikTok influencers like this in Greece for you to connect with.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 18 TikTok influencers like this in Greece for you to pitch.
 profiles:
   - username: "anwarnzamba"
     fullname: >-
@@ -49,12 +49,12 @@ profiles:
     bio: >-
       • Modeling since forever • Lifestyle/travel/fashion blog @queengr • Traveling
     location: "Greece"
-    followers: 19800
-    engagement: 571
-    commentsToLikes: 0.012971
+    followers: 20500
+    engagement: 577
+    commentsToLikes: 0.013986
     id: ckbkqu2yyl80g0j23cw87olwr
     verified: true
-    hashtags: "#foryoupage, #foruyou, #foryou, #savage"
+    hashtags: "#foryou, #foryoupage, #foruyou, #fy"
   - username: "j.touni"
     fullname: >-
       Ioanna Touni

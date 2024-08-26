@@ -1,117 +1,105 @@
 ---
-title: Top 10 Dog Owners Instagram Influencers In Australia in 2023
+title: Top 10 Dog Owners Instagram Influencers In Australia In 2024
 description: >-
-  Find top dog owners Instagram influencers in Australia in 2023. Most popular hashtags: #dogs #puppy #puppylove.
+  Find top dog owners Instagram influencers in Australia in 2024. Most popular hashtags: #dogs #love #bestwoof #funnydogs.
 platform: Instagram
-hits: 9
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 9 Instagram influencers like this in Australia for you to pitch.
+hits: 8
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 8 Instagram influencers like this in Australia for you to pitch.
 profiles:
-  - username: "colthecrow"
+  - username: "amospearce"
     fullname: >-
-      Colin Green
+      Rescue Dog 🐶 | Pet Content Creator ⭐️
     bio: >-
-      View of the world through my eyes, South Australian, UK based, World traveller...All photo's are my copyright, please DM me for any collaborations.
+      ❤️ Pillow Thief in Brisbane, AUS 🇦🇺 🐾 Cute Nervous Rescue Dog✨from @rspcaqld 📧 amospearce2013@gmail.com
     location: "Australia"
-    followers: 66594
-    engagement: 171
-    commentsToLikes: 0.054146
-    id: ck0w1hlo7jdya0i19yo612vjl
+    followers: 111823
+    engagement: 1036
+    commentsToLikes: 0.037045
+    id: ck15s7bnobl6t0i19kw4tgv66
     verified: false
-    hashtags: "#natgeo, #nationalgeographic, #purple, #ourplanetdaily"
-  - username: "robmillsymills"
+    hashtags: "#dogmodel, #rescuepup, #funnydogs, #dogstagram"
+  - username: "zoemarietheaussie"
     fullname: >-
-      Rob Mills
+      Zoe Marie 🍑
     bio: >-
-      Actor, Singer, Host, Dog Lover (not owner), Reader, Mental Health First Aider Ambassador: •@suzukiaustraliacars 🚙 •@RUOKday 🌅 •@theacmf 🎶
+      🥰 Australian Shepherd 🥰 🎂Jan 3rd 2016 https://www.facebook.com/zoemarietheaussie BF❤️@misterblueeyes2018 Empowered by @fi.dogs
     location: "Australia"
-    followers: 73244
-    engagement: 164
-    commentsToLikes: 0.026625
-    id: ck55q9bs3cexm0i1135tuztrh
-    verified: true
-    hashtags: "#melbcupcarnival, #cupweekfashion, #wilsonsprom, #isdomisgood"
-  - username: "elisha__h"
-    fullname: >-
-      Elisha Herbert
-    bio: >-
-      Aussie Chadwicks/Untitled Co-owner @jumelleswim If you like dogs we can be friends socials📧
-    location: "Australia"
-    followers: 1593064
-    engagement: 438
-    commentsToLikes: 0.004221
-    id: ck0u6mgcx2eko0i193ssvkk4x
-    verified: true
-    hashtags: "#guessfragrance, #loveguess, #ad"
-  - username: "juliabaird"
-    fullname: >-
-      Julia Baird
-    bio: >-
-      Author, broadcaster, columnist, biographer, thalassophile, hunter of bioluminescence. Mother. Owner of an improbably large dog & an autocratic cat.
-    location: "Australia"
-    followers: 10024
-    engagement: 905
-    commentsToLikes: 0.049755
-    id: ckap8u7nmpwn80i78ev582naf
+    followers: 16918
+    engagement: 257
+    commentsToLikes: 0.428012
+    id: ckap8zm0fql4e0i78dog0h6q9
     verified: false
-    hashtags: "#sketch, #repost, #drawing, #juliabaird"
+    hashtags: "#wetdoggy, #funnydogs, #tongueouttuesday, #reelfun"
+  - username: "thebestpeanutdude"
+    fullname: >-
+      Peanut Dude 🥜
+    bio: >-
+      ❤️ Train with me! 🐾 Multigen Australian Labradoodle 💌 thebestpeanutdude@gmail.com 🥰 Not perfect but the best 🎂 Dec 30, 2019
+    location: "Australia"
+    followers: 12672
+    engagement: 637
+    commentsToLikes: 0.048596
+    id: ckaox17a2bbe10i78uq3ndcse
+    verified: false
+    hashtags: "#labradoodlesofinstagram, #dogsonadventures, #roadtrip2020, #christmasdog"
   - username: "claudiadean92"
     fullname: >-
       CLAUDIA DEAN ⚡️
     bio: >-
-      Serendipity✨ 💍 Fiancé to @lachlanhorgan Owner @claudiadeanworld, @claudiadeancollections, @coachmeworld & sausage dog Romeo 🐶
+      Serendipity✨ 💍 Fiancé to @lachlanhorgan Owner @claudiadeanworld, @claudiadeancollections, @coachmeworld & sausage dogs Romeo & Gigi 🐶
     location: "Australia"
-    followers: 10310
-    engagement: 827
-    commentsToLikes: 0.012363
+    followers: 11186
+    engagement: 700
+    commentsToLikes: 0.017638
     id: ckf5pio0j68dz0j23h1zvwta1
     verified: false
     hashtags: ""
-  - username: "charispixie"
-    fullname: >-
-      Charis Pixie | Fashion & Rosé
-    bio: >-
-      A Mix of Outfits, Dogs & Wine🍷 #styledbypixie 🌸 📧 charis@thetalentsoc.com | charis.uppal@yahoo.com Owner @silkwolfe |🎙@betweenthewinespodcast
-    location: "Australia"
-    followers: 31927
-    engagement: 103
-    commentsToLikes: 0.470966
-    id: ck13daoq94i9f0i19oswdy55t
-    verified: false
-    hashtags: "#effortlesschic, #nudelucythelabel, #theigbootcamp, #thefashionforce"
   - username: "drkateadams"
     fullname: >-
-      DR KATE ADAMS | BONDI VET 🇦🇺
+      DR KATE ADAMS | BONDI VET | Real Housewives of Sydney
     bio: >-
-      TV Host @bondi_vet @channel9. Speaker. Entrepreneur. Business Owner. Director. Work-life blender. Senior Vet & Big Cheese -The real @bondivethospital
+      Owner & Head Vet @bondivethospital TV @rhosydney @binge @bondi_vet @natgeowild Columnist @newideamagazine 📫 kmahar@empiretalent.com.au
     location: "Australia"
-    followers: 26063
-    engagement: 215
-    commentsToLikes: 0.052388
+    followers: 42882
+    engagement: 129
+    commentsToLikes: 0.051740
     id: ck5c4djd514hh0i11cuyqfw3i
     verified: true
-    hashtags: "#cute, #sunday, #bondivet, #love"
+    hashtags: "#pets, #love, #adventures, #vet"
+  - username: "alicia.parr_"
+    fullname: >-
+      Alicia ❃
+    bio: >-
+      📍Greece Owner @keepthatpump
+    location: "Australia"
+    followers: 690132
+    engagement: 41
+    commentsToLikes: 0.012921
+    id: ck55q9ugucmm20i11zogsdlab
+    verified: false
+    hashtags: "#cute, #travel, #love, #smile"
   - username: "lychee.the.cattle.dog"
     fullname: >-
-      Lychee
+      Lychee ^*
     bio: >-
-      👋🏼|Hey! My name is Lychee 🐾|Rescued ACD & Aussie mix 🎂|29.4.2017 📸|Modeling- LYCHEE10 @copilotcollections 👩🏼|Owner: @noaraish #cattledogclubhouse
+      👋🏼|Hey! I’m Lychee 🐾|Rescued ACD & Aussie mix 🎂|29.4.2017 📸|Modeling- LYCHEE10 @copilotcollections 👩🏼|Owner: @noaraish
     location: "Australia"
-    followers: 8494
-    engagement: 1245
-    commentsToLikes: 0.161148
+    followers: 9466
+    engagement: 1062
+    commentsToLikes: 0.140858
     id: ck5cj9efku9f50i119nz2u9ad
     verified: false
-    hashtags: "#springpfotenscent, #corgiwombat, #adventureoften, #spaceshipvibes24"
+    hashtags: "#thegreatoutdogs, #doggylife, #doglover, #buzzfeedpet"
   - username: "goldenkingboston"
     fullname: >-
       B O S T O N
     bio: >-
       ↠ Golden Retriever ↠ 17.04.18 ↠ Gold Coast, AUS ☼ Beach pup ♡ Proud owner of 2 hoomans
     location: "Australia"
-    followers: 12020
-    engagement: 1165
-    commentsToLikes: 0.020297
+    followers: 11689
+    engagement: 1189
+    commentsToLikes: 0.020492
     id: ck5bykwlopcj00i11nlm232i0
     verified: false
     hashtags: ""

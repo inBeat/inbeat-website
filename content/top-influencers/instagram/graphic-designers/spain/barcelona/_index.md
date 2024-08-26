@@ -1,36 +1,24 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Barcelona In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #summer #graphicdesign #love.
+  Find top graphic-designers Instagram influencers in Barcelona in 2024. Most popular hashtags: #barcelona #graphicdesign #illustration #summer.
 platform: Instagram
-hits: 13
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 13 Instagram influencers like this in Barcelona, Spain for you to work with.
+hits: 14
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 14 Instagram influencers like this in Barcelona, Spain for you to contact.
 profiles:
-  - username: "paucarrera"
-    fullname: >-
-      • ᴘ ᴀ ᴜ ᴄ ᴀ  • 🏁
-    bio: >-
-      📍Argentina en Barcelona ••••••••••••• 📮 carrerapaulad@gmail.com 🇦🇷 | Graphic designer👩🏽‍💻| Fashion lover 💁🏽‍♀️
-    location: "Spain"
-    followers: 49206
-    engagement: 331
-    commentsToLikes: 0.017145
-    id: ck14hd6z19qcb0i19b8bsdse8
-    verified: false
-    hashtags: "#lookoftoday, #myoutfit, #lookoftheday, #sheingals"
   - username: "samm.o"
     fullname: >-
-      Oscar Molero
+      Oscar Molero | Automotive
     bio: >-
-      Automotive Photographer & Graphic Designer🚗 Abarthisti 🇮🇹 Based in Barcelona 📍
+      📸 Automotive Photographer 👨🏽‍💻 Art Director & Graphic Designer 📍 Based in Barcelona
     location: "Spain"
-    followers: 15175
-    engagement: 276
-    commentsToLikes: 0.024796
+    followers: 18355
+    engagement: 229
+    commentsToLikes: 0.064365
     id: ck9h9mwma946m0j7861cc7cct
     verified: false
-    hashtags: "#carinstagram, #autogespotusa, #speedsuspects, #carlifestyle"
+    hashtags: "#carlifestyle, #exoticcar, #ferrari, #carswithoutlimits"
   - username: "michalppz"
     fullname: >-
       Michal Kozelský
@@ -42,7 +30,19 @@ profiles:
     commentsToLikes: 0.007974
     id: ck8wf02rrewc50j78wbljxgnm
     verified: false
-    hashtags: "#travel, #traveller, #travelling, #traveltheworld"
+    hashtags: "#instatraveling, #travelblog, #travellife, #travelblogger"
+  - username: "joan_alturo"
+    fullname: >-
+      Joan Alturo
+    bio: >-
+      Illustrator from Barcelona 📩 info@joanalturo.com
+    location: "Spain"
+    followers: 12921
+    engagement: 347
+    commentsToLikes: 0.022437
+    id: ck8tag3p0rlzm0j78w2rb90st
+    verified: false
+    hashtags: "#contemporaryillustration, #creative, #conceptualillustration, #dise"
   - username: "martamullor"
     fullname: >-
       Marta Mullor
@@ -91,18 +91,30 @@ profiles:
     id: ckaorz9r3pfsw0i78qvibaxmq
     verified: false
     hashtags: "#themine, #details, #rideforthefuture, #barcelona"
-  - username: "joan_alturo"
+  - username: "syynstudios"
     fullname: >-
-      Joan Alturo
+      Siyana Studios ®
     bio: >-
-      Illustrator from Barcelona 📩 info@joanalturo.com
+      Where Creativity Blooms. - Art Director & Typography Artist 📨 syynstudios@gmail.com 📍 Barcelona, Spain
     location: "Spain"
-    followers: 12452
-    engagement: 434
-    commentsToLikes: 0.025304
-    id: ck8tag3p0rlzm0j78w2rb90st
+    followers: 177983
+    engagement: 206
+    commentsToLikes: 0.016006
+    id: cl3cuhg6w4wfx0i23l3efeqjb
     verified: false
-    hashtags: "#joanalturo, #perfume, #editorialillustration, #creative"
+    hashtags: "#itsnicethat, #collectgraphics, #typography, #visualgraphe"
+  - username: "errordesign"
+    fullname: >-
+      Xavier Forné / 𝗘𝗿𝗿𝗼𝗿! 𝗗𝗲𝘀𝗶𝗴𝗻
+    bio: >-
+      🔥 Badalona (Barcelona) 🔥 ⚡Posters, music & brands artwork ⚡ ⬇️ Online Store & more ⬇️
+    location: "Spain"
+    followers: 28450
+    engagement: 100
+    commentsToLikes: 0.015686
+    id: ck0w36irhrtw60i19gdhcg7e7
+    verified: false
+    hashtags: "#ilustracion, #errordesign, #collage, #graphicdesign"
   - username: "carolsitges26"
     fullname: >-
       Sweet Caroline
@@ -115,16 +127,4 @@ profiles:
     id: ck14jkp5oktn20i19antunrd2
     verified: false
     hashtags: "#moodygrams, #pictureoftheday, #barcelonicious, #sunsetlover"
-  - username: "kiwibravo"
-    fullname: >-
-      🥝 Kiwi Bravo 🥝
-    bio: >-
-      We thrill people through objects, images and experiences. Barcelona, Madrid, anywhere.
-    location: "Spain"
-    followers: 18379
-    engagement: 172
-    commentsToLikes: 0.032110
-    id: ck15q4hmf121q0i19bji7er5q
-    verified: false
-    hashtags: "#artdirection, #graphicdesign, #princess, #premislaus2020"
 ---

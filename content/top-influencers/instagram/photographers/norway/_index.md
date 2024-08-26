@@ -1,12 +1,96 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Norway In 2023
+title: Top 10 Photographers Instagram Influencers In Norway In 2024
 description: >-
-  Find top photographers Instagram influencers in Norway in 2023. Most popular hashtags: #nature #ig #norway #visitnorway.
+  Find top photographers Instagram influencers in Norway in 2024. Most popular hashtags: #norge #norway #winter.
 platform: Instagram
-hits: 62
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 62 Instagram influencers like this in Norway for you to connect with.
+hits: 73
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform has 73 Instagram influencers like this in Norway for you to contact.
 profiles:
+  - username: "agata.galusz"
+    fullname: >-
+      Agata 🕊
+    bio: >-
+      ♡︎ photographer mote •barnemote . Vintagelover ~Creative soul🕊️ . Watercolor . Owner @vintage.by.agataphotos
+    location: "Norway"
+    followers: 7656
+    engagement: 461
+    commentsToLikes: 0.156850
+    id: ck0u60xeb0mba0i19yj6pbtz5
+    verified: false
+    hashtags: "#barnemote, #littleshabbyy, #sommerkjole, #newbienews"
+  - username: "friluftsbjerke"
+    fullname: >-
+      Christian Aa. Bjerke 🇳🇴 Norway
+    bio: >-
+      📱 UGC Creator 🇳🇴 103k on TikTok 📸 Photographer 🍀 Working for a greener environment 👕 Ambassador @skogstadsport
+    location: "Norway"
+    followers: 56104
+    engagement: 8681
+    commentsToLikes: 0.070386
+    id: ck5q2o0rsgy8h0i11hnokakid
+    verified: false
+    hashtags: "#ig, #otta, #visitnorway, #norwaytravel"
+  - username: "steff.gutovska"
+    fullname: >-
+      Steff Gutovska
+    bio: >-
+      Photographer. Writer | Oslo based
+    location: "Norway"
+    followers: 16751
+    engagement: 435
+    commentsToLikes: 0.013479
+    id: ck5bv5xtpj1yq0i119n1w0kmd
+    verified: false
+    hashtags: "#glorytoukraine, #ivecodaily4x4, #relationshipgoals, #notdivorcedyet"
+  - username: "epicnaess"
+    fullname: >-
+      Tor-Ivar Næss
+    bio: >-
+      🇳🇴 Nordreisa based landscape & aurora photographer 🌌 📸 Sony Nordic, ProArt & Alfasko partner 🏔 Workshops | 🖼 Prints | 🤝 Collab ⬇️
+    location: "Norway"
+    followers: 113272
+    engagement: 490
+    commentsToLikes: 0.037801
+    id: ck55jth1cxpnh0i11eixbzjbn
+    verified: false
+    hashtags: "#norge, #auroraborealis, #northernlights, #norway"
+  - username: "solfure"
+    fullname: >-
+      Ingeborg Sol Fure
+    bio: >-
+      ❤️ West Norway Travel Guide! 📸 Fulltime storyteller, photographer. 📱Content creator | ambassador @renaultnorge @alfasko @skogstadsport
+    location: "Norway"
+    followers: 35803
+    engagement: 311
+    commentsToLikes: 0.028979
+    id: ck13c377xyegy0i19amf3rz4m
+    verified: false
+    hashtags: "#fjordnorway, #besttravel, #visitsognefjord, #norway"
+  - username: "anderskjetnemark"
+    fullname: >-
+      𝐀𝐍𝐃𝐄𝐑𝐒 𝐒𝐊𝐉𝐄𝐓𝐍𝐄𝐌𝐀𝐑𝐊
+    bio: >-
+      DIRECTOR/PHOTOGRAPHER
+    location: "Norway"
+    followers: 17542
+    engagement: 305
+    commentsToLikes: 0.013304
+    id: ck14ltrelwfym0i197hdlkzs8
+    verified: false
+    hashtags: "#35mm"
+  - username: "widvey"
+    fullname: >-
+      Anne Marthe Widvey
+    bio: >-
+      Photographer & content creator from Norway📸🇳🇴 Interiørkonto: @byvilla02 🏡 Reiseguides • Presets • Digitalt fotokurs⬇️
+    location: "Norway"
+    followers: 36438
+    engagement: 98
+    commentsToLikes: 0.037039
+    id: ck0tth5b52p0h0i19ozh41xm2
+    verified: false
+    hashtags: "#beautifuldestinations, #reiseglede, #visitgeneva, #genevaswitzerland"
   - username: "perheimly"
     fullname: >-
       perheimly
@@ -43,88 +127,4 @@ profiles:
     id: ck0u9mc1ba3mt0i19p8rq88x8
     verified: false
     hashtags: ""
-  - username: "torbjoernkjosvold"
-    fullname: >-
-      Torbjørn Kjosvold
-    bio: >-
-      Senior Photographer, Norwegian Armed Forces. All pictures are mine. (C)
-    location: "Norway"
-    followers: 11314
-    engagement: 815
-    commentsToLikes: 0.004549
-    id: ck6013pzves0i0i14gn6ujw0i
-    verified: false
-    hashtags: "#outdoors, #spesialsoldat, #special, #hmkg"
-  - username: "hansgunnaraslaksen"
-    fullname: >-
-      Hans Gunnar Aslaksen
-    bio: >-
-      - Designer - Norway 🇳🇴 - NiSi Filters Ambassador - Vallerret Ambassador - Photographer of the year 2018 Capture Landscapes - @hansgunnaraslaksen
-    location: "Norway"
-    followers: 48181
-    engagement: 582
-    commentsToLikes: 0.063273
-    id: ck15q3rx60ye60i19y56g75ld
-    verified: false
-    hashtags: "#planet, #water, #ig, #wheniniceland"
-  - username: "kaxelsenfoto"
-    fullname: >-
-      Landscape photography | Klaus
-    bio: >-
-      Landscape photographer | Oslo Scenery and details in nature. 🏆Published at ILPOTY 2020 & 1x.com Mod: @got__greatshots Check out my friend @dimicoawam
-    location: "Norway"
-    followers: 11182
-    engagement: 1067
-    commentsToLikes: 0.201965
-    id: ck5zmpz73n0gh0i146x58g02r
-    verified: false
-    hashtags: "#fantastic, #dreaming, #mittnordnorge, #scenicview"
-  - username: "morten_munthe"
-    fullname: >-
-      Morten Munthe
-    bio: >-
-      Norwegian Photographer Adventure | Lifestyle | Brand ⤖ hello@mortenmunthe.com Get my Presets here:
-    location: "Norway"
-    followers: 14857
-    engagement: 985
-    commentsToLikes: 0.064416
-    id: ck14km5jxq7010i19b7rd70nb
-    verified: false
-    hashtags: "#thediscoverer, #folkmagazine, #escapeandwonder, #folkscenery"
-  - username: "anderskjetnemark"
-    fullname: >-
-      𝐀𝐍𝐃𝐄𝐑𝐒 𝐒𝐊𝐉𝐄𝐓𝐍𝐄𝐌𝐀𝐑𝐊
-    bio: >-
-      DIRECTOR/PHOTOGRAPHER i make stuff 📸🎥
-    location: "Norway"
-    followers: 17769
-    engagement: 432
-    commentsToLikes: 0.006568
-    id: ck14ltrelwfym0i197hdlkzs8
-    verified: false
-    hashtags: "#35mm"
-  - username: "arvidbredesen"
-    fullname: >-
-      Arvid Bredesen
-    bio: >-
-      Primary school teacher and passionate birder/bird photographer from Hitra in Norway.🇳🇴 Member of @raw_community
-    location: "Norway"
-    followers: 2319
-    engagement: 2595
-    commentsToLikes: 0.080535
-    id: ck9wer8u0lh2b0j78ueo1x4ok
-    verified: false
-    hashtags: "#eye, #nature, #bird, #igbirdwatchers"
-  - username: "fotovegard"
-    fullname: >-
-      Vegard Eggen
-    bio: >-
-      Batman during nighttime🐧, photographer by day in Trondheim, Norway. All photos are mine © Thanks for stopping by 😃😃
-    location: "Norway"
-    followers: 11554
-    engagement: 772
-    commentsToLikes: 0.086213
-    id: ck0w2lqjbp00q0i19p8fj23xq
-    verified: false
-    hashtags: "#norgesbeste, #way2ill, #night, #tv"
 ---

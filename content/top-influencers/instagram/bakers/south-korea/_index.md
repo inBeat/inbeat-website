@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In South Korea In 2023
+title: Top 10 Bakers Instagram Influencers In South Korea In 2024
 description: >-
-  Find top bakers Instagram influencers in South Korea in 2023. Most popular hashtags: #likeforlikes #onthetable #sushi.
+  Find top bakers Instagram influencers in South Korea in 2024. Most popular hashtags: #pasta #bakery #baperpositif.
 platform: Instagram
-hits: 16
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 16 Instagram influencers like this in South Korea for you to contact.
+hits: 17
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 17 Instagram influencers like this in South Korea for you to connect with.
 profiles:
   - username: "oldcroissant"
     fullname: >-
@@ -19,18 +19,30 @@ profiles:
     id: ck136kb1c6x6g0i19vzy2vk6o
     verified: false
     hashtags: "#strawberry, #burrata, #feuilletage, #formaggio"
-  - username: "colorful.palate"
+  - username: "pillter_"
     fullname: >-
-      Kelsey | Food Photos
+      pilsung
     bio: >-
-      Colorful dishes for hungry eyes. food content creator | packaging designer | korean american | los angeles, california
+      @283mag 눈에 보이는 것을 저만의 시선으로 담습니다. 📨contact : pillter_@naver.com ⠀ 포스터,강의 관련 문의 👇🏽
     location: "South Korea"
-    followers: 22832
-    engagement: 868
-    commentsToLikes: 0.188407
-    id: ck0u6mw8f2gox0i19z6m2x4xl
+    followers: 183521
+    engagement: 844
+    commentsToLikes: 0.006822
+    id: ck13biaauvjeo0i195bghewrb
     verified: false
-    hashtags: "#heresmyfood, #onmyplate, #eattheworld, #onthetable"
+    hashtags: ""
+  - username: "dazedkorea"
+    fullname: >-
+      데이즈드 코리아 DAZED KOREA
+    bio: >-
+      
+    location: "South Korea"
+    followers: 1023204
+    engagement: 80
+    commentsToLikes: 0.008931
+    id: ck0u0pk25uhc20i19m16ha4wg
+    verified: true
+    hashtags: "#dior, #balenciaga, #fall24, #diorsummer24"
   - username: "easy__bear"
     fullname: >-
       민쥬/1994
@@ -103,28 +115,16 @@ profiles:
     id: ck0u1p26sxl740i194g9snhqd
     verified: false
     hashtags: "#douyinvideo, #rajanyabaper, #endorsemurah, #douyinvideos"
-  - username: "jyunky_"
+  - username: "gobom_illust"
     fullname: >-
-      쥰키 Jyunky
+      일러스트 작가 고봄 | 일러스트 제작·외주·협업
     bio: >-
-      🇨🇳🇰🇷🇯🇵歌手 MC🎤 住韩国在日本长大的中国人 한국사는 일본에서 자란 중국사람 #Jazz #bossanova #펭수 💛 #🍣
+      12월 작업 예약가능 ⭕ 협업 및 외주 문의는 메일 or 카톡으로 부탁드립니다. DM확인은 어렵습니다. ✉️ kmj_illust@naver.com 👇🏻카톡문의 / 홈페이지 / 스마트스토어
     location: "South Korea"
-    followers: 42675
-    engagement: 145
-    commentsToLikes: 0.071329
-    id: ck9haa8nabrik0j78lojgjdf5
+    followers: 18962
+    engagement: 457
+    commentsToLikes: 0.031252
+    id: ckf5q3u0z83d70j2379fhu2o9
     verified: false
-    hashtags: "#2021, #ootd, #chinese, #seoul"
-  - username: "bob_table16"
-    fullname: >-
-      밥🍙🍚🍛🍣🍱🍽
-    bio: >-
-      지금 행복하지 않다면 주변에 먹을것이 다 떨어졌는지 확인해보자 💌협찬문의 → DM주세요!
-    location: "South Korea"
-    followers: 4986
-    engagement: 562
-    commentsToLikes: 0.111852
-    id: ck0vw2lbartgi0i19ufa35l47
-    verified: false
-    hashtags: "#bakedspaghetti, #shakeshack, #beancurd, #mukbang"
+    hashtags: "#anneshirley, #anneofgreengables, #awaefanart, #digitalart"
 ---

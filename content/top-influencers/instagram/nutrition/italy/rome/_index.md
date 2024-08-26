@@ -1,12 +1,24 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Rome In 2023
+title: Top 10 Nutrition Instagram Influencers In Rome In 2024
 description: >-
-  Find top nutrition Instagram influencers in Rome in 2023. Most popular hashtags: #fitness #bikini #model #nature.
+  Find top nutrition Instagram influencers in Rome in 2024. Most popular hashtags: #fitness #rome #nutrition #lifestyle.
 platform: Instagram
-hits: 7
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 7 Instagram influencers like this in Rome, Italy for you to contact.
+hits: 10
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 10 Instagram influencers like this in Rome, Italy for you to collaborate.
 profiles:
+  - username: "laurensimpson"
+    fullname: >-
+      Lauren Simpson
+    bio: >-
+      NUTRITION. WORKOUTS. LIFESTYLE ♡ 200K + programs sold @laurensimpsonfitness ♡ Founder: @rarecollective_official ♡ MC 💍
+    location: "Italy"
+    followers: 1919514
+    engagement: 26
+    commentsToLikes: 0.024281
+    id: ck13afh6wq56s0i19pbfuw3ug
+    verified: true
+    hashtags: "#lunchrecipes, #fitness, #nutrition, #recipe"
   - username: "cami_delai"
     fullname: >-
       Camilla Delai 🌹
@@ -23,14 +35,14 @@ profiles:
     fullname: >-
       Christian Romeo
     bio: >-
-      💪🏼Personal Trainer @powergym_castelfranco 🏅Men Physique IFBB (5°🇮🇹) 💊 Integrazione @alex_nutrition 🕺🏻 @dancingsombrero 📧 Info collaborazioni ⬇️
+      💪🏼Personal Trainer @powergym_castelfranco 💊 Integrazione @alex_nutrition 🪩 @dancingsombrero
     location: "Italy"
-    followers: 39860
-    engagement: 512
-    commentsToLikes: 0.019651
+    followers: 76285
+    engagement: 144
+    commentsToLikes: 0.020249
     id: ck8tbfv0jvhwy0j78mtp4le2h
     verified: false
-    hashtags: "#home, #saturday, #gym, #sunday"
+    hashtags: "#naxos, #beach, #ibiza, #buenasvibras"
   - username: "emyfit7_ifbbpro"
     fullname: >-
       emy_fit
@@ -43,6 +55,18 @@ profiles:
     id: ck0u0gr3utm1v0i19zc7cbzzv
     verified: false
     hashtags: "#fitnessmotivation, #bikinifitness, #keepgoing, #dream"
+  - username: "claudiaciesla"
+    fullname: >-
+      Claudia Ciesla
+    bio: >-
+      🎭 Actress 🥗 Nutritionist & Lifestyle coach 📚 Author of ‘Keep Eating Keep Losing’ 📝 Entrepreneur 📩Contact: Claudia.enquiry@gmail.com
+    location: "Italy"
+    followers: 1159236
+    engagement: 118
+    commentsToLikes: 0.016596
+    id: ck0vwp4equw9u0i19043e4pxs
+    verified: true
+    hashtags: "#summervibes, #sundayfunday, #travel, #exercise"
   - username: "l_a_design_photographer"
     fullname: >-
       ♛Luca Alfieri Photographer♛©📸
@@ -91,40 +115,16 @@ profiles:
     id: ck5zpdgv6sh7s0i147thgepsm
     verified: false
     hashtags: "#energy, #league, #hudson, #valletta"
-  - username: "ema.bruni"
+  - username: "bybrittanynoonan"
     fullname: >-
-      Emanuele Bruni THE KING
+      Brittany Noonan • Mum life
     bio: >-
-      Bachelor's degree in Biology, Master's degree in Biology, PhD in Biology Master in Human Nutrition 🚴‍♂️Cycling lover 👫
+      Here to help you feel less alone in motherhood❤️ Mum of 3 + 29 weeks🤰🏽 Pregnancy & beyond fitness @move.bybritt 📧 lee@frankieandjet.com
     location: "Italy"
-    followers: 14669
-    engagement: 637
-    commentsToLikes: 0.188640
-    id: ck6tzfjmm9e8q0j71b99ftwpp
-    verified: false
-    hashtags: "#giantbikes, #instaselfie, #ridewithaview, #cyclingwear"
-  - username: "p.annab"
-    fullname: >-
-      Annabella Prisco 💎
-    bio: >-
-      💪🏼 Director @clubefitness.carladerogatis 🎵 Creator @tiktok : unliketwins 163K 🍔 Student in Nutrition 🔬 Doctor in Biology 🇮🇹 Avellino, 26yo
-    location: "Italy"
-    followers: 80062
-    engagement: 245
-    commentsToLikes: 0.052391
-    id: ckap24rwqxdaj0i78p747ju5v
-    verified: false
-    hashtags: "#moodquarantine, #25novembre, #noallaviolenzasulledonne"
-  - username: "karina.fetica"
-    fullname: >-
-      Karina Fetica
-    bio: >-
-      Final 10 in Survivor Romania Crazy, fit Lady, kickin ass. Literally 🥊 ❗marketing@globalrecords.com Genius Nutrition discount:KF12
-    location: "Italy"
-    followers: 85780
-    engagement: 574
-    commentsToLikes: 0.018805
-    id: ckap89su5ng6y0i78x4cs7xqa
-    verified: false
-    hashtags: "#summer, #colors, #bekind, #travel"
+    followers: 159239
+    engagement: 212
+    commentsToLikes: 0.043221
+    id: ck0w0z259gqmo0i191bq0e37o
+    verified: true
+    hashtags: "#familytravel, #pregnancy, #motherhood, #thirdtrimester"
 ---

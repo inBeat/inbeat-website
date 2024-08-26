@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Japan In 2023
+title: Top 10 Photographers Instagram Influencers In Japan In 2024
 description: >-
-  Find top photographers Instagram influencers in Japan in 2023. Most popular hashtags: #makeup #cat #infinity.
+  Find top photographers Instagram influencers in Japan in 2024. Most popular hashtags: #cat #catsofinstagram #neko.
 platform: Instagram
-hits: 227
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 227 Instagram influencers like this in Japan for you to pitch.
+hits: 243
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 243 Instagram influencers like this in Japan for you to pitch.
 profiles:
   - username: "sakuraquiet"
     fullname: >-
@@ -43,88 +43,88 @@ profiles:
     id: ckf5vpmjgpg280j23wlhksov4
     verified: false
     hashtags: "#120film, #leicam3, #lookbook, #xmas"
-  - username: "ninagawamika"
+  - username: "amrgnd"
     fullname: >-
-      蜷川実花
+      Amar GND
     bio: >-
-      Photographer and Film Director #mikaninagawa
+      📍Paris 💚Japan🎌 ♾️Dancer | Photographer | Traveler Portraits @soulsbyamar 📩DM for photo sessions 🖼️Prints available DM 📷© @lumix_france
     location: "Japan"
-    followers: 836331
-    engagement: 126
-    commentsToLikes: 0.003349
-    id: ck0ttr8m93yzn0i197kkgz01t
+    followers: 10061
+    engagement: 468
+    commentsToLikes: 0.035341
+    id: ck8t1xh71xfof0j78cw7efuwt
+    verified: false
+    hashtags: "#blancnoir2, #paris, #lumixfr, #bcncollective"
+  - username: "rojiman"
+    fullname: >-
+      rojiman
+    bio: >-
+      ScottishFold Cats . 🐏Maru 3/27/‘09 🐅Mugi 2/21/‘14 🐃Nya 2/14/‘07~4/09/‘20🌈 . @rojiman Cat Photographer📸 @umatan Fur Hat Designer👒
+    location: "Japan"
+    followers: 127541
+    engagement: 358
+    commentsToLikes: 0.005557
+    id: ck0ucuce4hobc0i19a3pr9ckc
+    verified: false
+    hashtags: "#scottishfold, #neko, #insta360go2, #cat"
+  - username: "oliverroggisch"
+    fullname: >-
+      Oliver Roggisch
+    bio: >-
+      Handball 🤾‍♂️ / Scuba Diving 🦈/ Japanese Koi 🇯🇵 / Travelling and Underwater Photographer 🐋 happiness is a choice ♥️
+    location: "Japan"
+    followers: 51164
+    engagement: 304
+    commentsToLikes: 0.013192
+    id: ck15rt5ti9kor0i190f5kq3eb
     verified: true
-    hashtags: "#sabonxhellokittyxmmikaninagawa, #mmikaninagawa, #kuraudia, #tokyodisneyresort"
-  - username: "hiroshi_mizutani_060"
+    hashtags: "#gameday, #nigrineffekt, #wirihralle, #aufgehtsjungs"
+  - username: "tumurbaatar"
     fullname: >-
-      Hiroshi Mizutani
+      ᠲᠡᠮᠦᠷᠪᠠᠭᠠᠲᠤᠷ • Төмөрбаатар
     bio: >-
-      Hobby photographer Mie🇯🇵Japan All photos are mine
+      photographer tumurbaatar.otgontsetseg@gmail.com
     location: "Japan"
-    followers: 2642
-    engagement: 2264
-    commentsToLikes: 0.102167
-    id: ck0vv1zjpn69t0i19gp4p7gpc
+    followers: 37486
+    engagement: 256
+    commentsToLikes: 0.003289
+    id: ck0vvnfb2pwcf0i19v8mtrtd0
     verified: false
-    hashtags: "#bestbwpics, #snapshot, #emotionalbnw, #bnw"
-  - username: "akiranofiller"
+    hashtags: "#westandtogether, #withgalaxy, #hongkong, #celine"
+  - username: "yayoi89"
     fullname: >-
-      AKIRA
+      yayoi89
     bio: >-
-      🇯🇵photographer🇺🇸👫CSULB almuni👨‍🎓 LA → Tokyo🇯🇵😝 DM me to collab 📸一緒に作撮りしましょう→DM🎁📧 Men’s ports @akirayourboy.jp
+      ️🐵Uzura 🦁Tarachan 🐹Ikurachan ポカスカ兄弟のうずらちゃんとタラちゃん 可愛い妹イクラちゃん🍭 スコティッシュフォールド photographer📸 @ys_photo22 @pugpoohpon
     location: "Japan"
-    followers: 3872
-    engagement: 2905
-    commentsToLikes: 0.046060
-    id: ck5ce7dzekh980i11joemad1t
+    followers: 163091
+    engagement: 234
+    commentsToLikes: 0.013691
+    id: ck55q9nxycjx80i110kj26u30
     verified: false
-    hashtags: ""
-  - username: "masatoshi_nagase_official"
+    hashtags: "#instagood, #neko, #instacat, #catsofinstagram"
+  - username: "shirtstuckedin"
     fullname: >-
-      永瀬正敏  Masatoshi Nagase
+      SHIRTSTUCKEDIN
     bio: >-
-      actor / photographer 永瀬正敏公式インスタグラム / 永瀨正敏官方IG / Masatoshi Nagase's official instagram #masatoshinagase #永瀬正敏 @masatoshi_nagase_official
+      driver & photographer. car fashion & accessories shop. 関西奈良県日本、オーストラリア よろしくお願いします SHOP NOW 🌍 X
     location: "Japan"
-    followers: 38597
-    engagement: 553
-    commentsToLikes: 0.021666
-    id: ck6tx7bl7w88y0j71geei0jea
+    followers: 182749
+    engagement: 220
+    commentsToLikes: 0.005758
+    id: ck1343djjuhxt0i19ote24aic
     verified: false
-    hashtags: "#thankyou, #masatoshinagase, #masatoshi, #kyoto"
-  - username: "yuki.t_photography"
+    hashtags: "#nstyle"
+  - username: "manalojohn"
     fullname: >-
-      幽　鬼
+      John Vladimir Manalo
     bio: >-
-      ᴼᴺ ᵀᴴᴱ ᴰᴬᴿᴷ ᴱᴰᴳᴱˢ 日本🇯🇵JPN | Photographer 🎗Finalist @beautifulbizarremagazine 2020 ▫️Curator of @avantgarde_vibes 3/3-3/15 アリスファンタジー展 ⇨📍代官山アートラッシュ
+      Director/Photographer
     location: "Japan"
-    followers: 25357
-    engagement: 1073
-    commentsToLikes: 0.008168
-    id: ck9h9rem49nvb0j78nmustdth
-    verified: false
-    hashtags: "#etczine, #ifainspire, #insomniamag, #pr0ject"
-  - username: "kiyotanimoto"
-    fullname: >-
-      Kiyo  🍡
-    bio: >-
-      Actor/Photographer/Cosplayer Creator of #cosbodchallenge Japanese 🇯🇵 / Filipino 🇵🇭 "For a good time, Suntory Time!" I'm a real life Kamina ~ ◥▶◀◤﻿
-    location: "Japan"
-    followers: 8062
-    engagement: 730
-    commentsToLikes: 0.041415
-    id: ck13b8mmzu8lj0i1912vdwok5
-    verified: false
-    hashtags: "#josephjoestarcosplay, #kfc, #cosplayersofinstagram, #pokemon"
-  - username: "bennetcoblinerphotography"
-    fullname: >-
-      Bennet Cobliner
-    bio: >-
-      *NO DMs* Beauty and Portrait Photographer, Cyclist, Traveler, Lover of Languages. NYC. 🇺🇸🇨🇭Japanese speaker/日本語
-    location: "Japan"
-    followers: 3459
-    engagement: 586
-    commentsToLikes: 0.122502
-    id: ck0w5rb6j51sy0i19zre7tjuk
-    verified: false
-    hashtags: "#beautyphotographer, #glittermakeup, #bennetcoblinerphotography, #bennetcobliner"
+    followers: 259746
+    engagement: 214
+    commentsToLikes: 0.009625
+    id: ck0vy6dal2g080i19gf0hu5cl
+    verified: true
+    hashtags: "#excitementbuiltin, #mias2024, #triumphstreettwin, #freeupto9gb"
 ---

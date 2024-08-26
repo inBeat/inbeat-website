@@ -1,48 +1,12 @@
 ---
-title: Top 10 Models Instagram Influencers In London In 2023
+title: Top 10 Models Instagram Influencers In London In 2024
 description: >-
-  Find top models Instagram influencers in London in 2023. Most popular hashtags: #photography #model #photographer.
+  Find top models Instagram influencers in London in 2024. Most popular hashtags: #model #beard #cat.
 platform: Instagram
-hits: 628
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 628 Instagram influencers like this in London, United Kingdom for you to pitch.
+hits: 686
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 686 Instagram influencers like this in London, United Kingdom for you to connect with.
 profiles:
-  - username: "xanamarlenex"
-    fullname: >-
-      ANA MARLENE
-    bio: >-
-      fashion designer & model | london |🇬🇧🇵🇹🇸🇹 founder | creative director of @visionbya & @jechcier_ bookings- dm or email
-    location: "United Kingdom"
-    followers: 12422
-    engagement: 1725
-    commentsToLikes: 0.047126
-    id: ck14kd8dloy9x0i19iws364nm
-    verified: false
-    hashtags: "#ad, #explore, #forgirlsbygirls, #sheingals"
-  - username: "dominiquehollington"
-    fullname: >-
-      Dominique Hollington
-    bio: >-
-      Wilhelmina 🇺🇸 (LA/New York) Success Models 🇫🇷 (Paris) First Models 🇬🇧 (London) I LOVE Models Management 🇮🇹 (Milan)
-    location: "United Kingdom"
-    followers: 12473
-    engagement: 783
-    commentsToLikes: 0.055944
-    id: ck6txjhloy6fo0j71gc2rgk6h
-    verified: false
-    hashtags: "#nottathreat, #myskincolorisnotathreat"
-  - username: "petrasivakova"
-    fullname: >-
-      Petra
-    bio: >-
-      collab/business: pe.sivakova@gmail.com or DM ma: Heriett models Milan: Independent NYC: Nelson models London: Body @privatepetras
-    location: "United Kingdom"
-    followers: 20952
-    engagement: 1600
-    commentsToLikes: 0.017370
-    id: ck0u285e6z4y90i19kahqex87
-    verified: false
-    hashtags: "#happyinternationalwomensday, #ootd"
   - username: "joachimgerngross3"
     fullname: >-
       Joachim Gerngroß
@@ -55,42 +19,18 @@ profiles:
     id: ckaowzs0lb4e60i78f57rb1l2
     verified: false
     hashtags: "#portrait, #modelagency, #studiophotography, #greybeard"
-  - username: "kenz.brownn"
-    fullname: >-
-      kenz
-    bio: >-
-      ⚡️🦕🌊🦋💫💎 wilhemina models los angeles & denver one management new york scout models san fran milk models london karin models paris fogg management
-    location: "United Kingdom"
-    followers: 6030
-    engagement: 1710
-    commentsToLikes: 0.032187
-    id: ck5zr9daqw5gg0i14ie260mqx
-    verified: false
-    hashtags: "#photography, #photoshoot, #nycmodel, #lamodel"
-  - username: "aishapotter"
-    fullname: >-
-      𝔞𝔦𝔰𝔥𝔞 𝔭𝔬𝔱𝔱𝔢𝔯 ⚡️
-    bio: >-
-      Wilhelmina Models London
-    location: "United Kingdom"
-    followers: 513116
-    engagement: 954
-    commentsToLikes: 0.005966
-    id: ck5c2pioaxprz0i11nc5tp8js
-    verified: false
-    hashtags: "#pullandbear"
   - username: "lilliebernie"
     fullname: >-
       Lillie B
     bio: >-
-      Glitter Artist & Model - London Abstract Art⚡️ @lilliebeeee BRAND INQUIRIES ✨Lillie@inspomanagement.co.uk ART INQUIRIES ✨studio@lilliebernie.com
+      Glitter Artist & Model - London Abstract Art⚡️ @lilliebeeee GLITTER PRINT orders via website👇🏼
     location: "United Kingdom"
-    followers: 24146
-    engagement: 123
-    commentsToLikes: 0.058561
+    followers: 27132
+    engagement: 126
+    commentsToLikes: 0.069475
     id: ck6u1dkcxl3kn0j71x4mrl6uy
     verified: false
-    hashtags: "#art, #glitterprints, #lilliebernie, #interiordesigner"
+    hashtags: "#artist, #artoftheday, #art, #artwork"
   - username: "lucan_gillespie"
     fullname: >-
       Lucan Gillespie🦩
@@ -103,28 +43,88 @@ profiles:
     id: ck0u77c9e42qi0i19r7w6fods
     verified: false
     hashtags: "#tomshankland, #richardwarlow, #stephensmallwood, #robertsterne"
-  - username: "char.lotterose"
+  - username: "ashika_pratt"
     fullname: >-
-      Charlotte-Rose
+      ASHIKA
     bio: >-
-      I make art @char.lotteroseart Profile models (London) Industry models (Manchester) MA: @zabeena.modelmanagement
+      NY- @heroesmodels LA- @wilhelminamodels PARIS - @premium_models LONDON- @models1 NZ -📍@62management
     location: "United Kingdom"
-    followers: 29677
-    engagement: 764
-    commentsToLikes: 0.021362
-    id: ck0u60b4q0jeg0i19gwk2gcrl
-    verified: false
-    hashtags: "#charlesbukowski"
-  - username: "dashanikonovaa"
+    followers: 80561
+    engagement: 292
+    commentsToLikes: 0.018086
+    id: ck5ztlmf50nmb0i148obu0qku
+    verified: true
+    hashtags: "#athomeforever, #blackouttuesday, #vote"
+  - username: "hannahmurre11"
     fullname: >-
-      Daria
+      Hannah Murrell 🌙✨
     bio: >-
-      MA @iconic_mgmt (Bookings @ingonolden) NY @womenmanagementny Paris @premium_models London @models1 Milan @monster_mgmt
+      Europe 📍 Elite | LA, Miami. W Models | London. De Boekers | Amsterdam. Viviens | Aus. @lalunayoga_ Music 🎶~
     location: "United Kingdom"
-    followers: 18971
-    engagement: 480
-    commentsToLikes: 0.026243
-    id: ck5hn2ub2n3qt0i11z6k2hi3e
+    followers: 83682
+    engagement: 232
+    commentsToLikes: 0.026472
+    id: ck14hig5hagy80i19bp5fcfwz
     verified: false
-    hashtags: "#polaroids"
+    hashtags: "#writtenbyhannahmurrell, #writtenbyme, #sandboarding, #lancelinsanddunes"
+  - username: "laurennlayne"
+    fullname: >-
+      Lauren Layne
+    bio: >-
+      NY @women360mgmt LA @womenmanagementla Paris @premium_models London @elitemodelworld @laurenlayneswim 👙
+    location: "United Kingdom"
+    followers: 226752
+    engagement: 103
+    commentsToLikes: 0.025755
+    id: ck5zyx8a1aosr0i14y7z36fv2
+    verified: true
+    hashtags: "#breakfastatlaurens"
+  - username: "kaisasparkle"
+    fullname: >-
+      Kaisa Henriikka
+    bio: >-
+      There is no size for fabulous. Plus size model/London Owner & founder of @styledbykaisahenriikka
+    location: "United Kingdom"
+    followers: 36782
+    engagement: 157
+    commentsToLikes: 0.065496
+    id: ck6uc94xme84c0j71brma9wsq
+    verified: false
+    hashtags: "#effyourbeautystandards, #portrait, #curvemodel, #curvyfashion"
+  - username: "shani_ross7"
+    fullname: >-
+      Shani Ross
+    bio: >-
+      Dancer / Gymnast / Model | London📍🌎 Agency Represented 💃🏾
+    location: "United Kingdom"
+    followers: 3741
+    engagement: 1383
+    commentsToLikes: 0.137014
+    id: ck0w12j3vh8wr0i19ab78h2sc
+    verified: false
+    hashtags: "#choreography, #dance, #campaign, #model"
+  - username: "korry_callum"
+    fullname: >-
+      Korry Callum
+    bio: >-
+      ATHLETE 🏀 MODEL LONDON BOY @bridgemodels 🇬🇧 @curvemodelmanagement 🇩🇪
+    location: "United Kingdom"
+    followers: 2995
+    engagement: 1093
+    commentsToLikes: 0.038720
+    id: ck6tpp6rtlf4f0j718w85d3c1
+    verified: false
+    hashtags: "#beard, #confidence, #loveyourself, #mensfashion"
+  - username: "dickiesmithmodel"
+    fullname: >-
+      Dickie Smith
+    bio: >-
+      HEY COWPOKES ! MALE MODEL LONDON 🇬🇧 Booking & collaborations enquires - rich101_smith@hotmail.com Model Agency - @woodstockmodels
+    location: "United Kingdom"
+    followers: 20594
+    engagement: 160
+    commentsToLikes: 0.013704
+    id: ck6udw28znfs60j718fk7hbs4
+    verified: false
+    hashtags: "#tattooed, #tattoo, #tattoos, #beard"
 ---

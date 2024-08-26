@@ -1,12 +1,24 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Bangkok In 2023
+title: Top 10 Makeup Instagram Influencers In Bangkok In 2024
 description: >-
-  Find top makeup Instagram influencers in Bangkok in 2023. Most popular hashtags: #makeup #thailand #fashion #photooftheday.
+  Find top makeup Instagram influencers in Bangkok in 2024. Most popular hashtags: #makeup #thailand #fashion #bangkok.
 platform: Instagram
-hits: 11
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 11 Instagram influencers like this in Bangkok, Thailand for you to work with.
+hits: 16
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 16 Instagram influencers like this in Bangkok, Thailand for you to connect with.
 profiles:
+  - username: "applebehappy"
+    fullname: >-
+      Rinpapak Sookariyakul ปั้น
+    bio: >-
+      ช่างแต่งหน้า makeup artist DM / Line ID: rinpapak @applebehappymakeup #applebehappymakeup #HOBBY @cactusbehappy #cactusbehappy 🌵#applebehappysworld
+    location: "Thailand"
+    followers: 48726
+    engagement: 136
+    commentsToLikes: 0.030153
+    id: ck6u3m9f9ylgh0j7183wg5naa
+    verified: false
+    hashtags: "#cosmetics, #cactusbehappy, #makeupartist, #actress"
   - username: "maew_makeup"
     fullname: >-
       MAEW Tasanapong (พี่แมว)
@@ -19,6 +31,18 @@ profiles:
     id: ck6u0ptbch3900j71jo0zuhev
     verified: false
     hashtags: "#maybellinethailand, #comingsoon, #instabeauty, #makeupby"
+  - username: "pearypie"
+    fullname: >-
+      Amata Chittasenee
+    bio: >-
+      Former Makeup Artist Thailand Culture Maker #pearypiewearsthaifabric Bangkok Rooftop Farmer Environmental Advocate #chiangdaoclassroom
+    location: "Thailand"
+    followers: 1478865
+    engagement: 122
+    commentsToLikes: 0.004474
+    id: ck6tpsbi1me9g0j719mz87zss
+    verified: true
+    hashtags: "#pearypiegoesgreen, #pearypiearoundtheworld, #pearypiewearsthaifabric, #amsterdam"
   - username: "app.coll"
     fullname: >-
       App.Coll
@@ -30,19 +54,19 @@ profiles:
     commentsToLikes: 0.059246
     id: ckaoxrshcegax0i78l9dyxfyz
     verified: false
-    hashtags: "#asiangirl, #makeup, #holiday, #weekend"
-  - username: "adriikuhn"
+    hashtags: "#smile, #latex, #leather, #bkk"
+  - username: "emily.eatingthyme"
     fullname: >-
-      Adriana Kuhn
+      Emily T • Singapore
     bio: >-
-      Gaúcha, 24. | 🇧🇷 🦀 • Traveling around the world • 🌎 - 🇩🇪 🇨🇳 🇪🇸 🇺🇸 🇫🇷 🇭🇰 🇮🇳 🇮🇩 🇲🇾 🇲🇲 🇵🇾 🇸🇬 🇹🇭🇺🇾 📍- Bangkok, Thailand
+      Food • Travel • Lifestyle TikTok: emily.eatingthyme 🐶: @rusty.thechowchow ✈️: Korea (June), Bangkok (July), HongKong (Oct)
     location: "Thailand"
-    followers: 6435
-    engagement: 696
-    commentsToLikes: 0.081797
-    id: ckf5riz4ecu4x0j23rpeeyhem
+    followers: 28358
+    engagement: 25
+    commentsToLikes: 0.311191
+    id: clmumxhgjlb840j08zngaume1
     verified: false
-    hashtags: "#jakarta, #india, #portrait, #modelos"
+    hashtags: "#korea, #seoul, #ad, #gastonluga"
   - username: "armytoast"
     fullname: >-
       Makeup Artist • Thailand
@@ -103,28 +127,4 @@ profiles:
     id: ck6tpqauylrj70j71gl9czbuz
     verified: false
     hashtags: "#bazaarfashionbook15th, #bazaarthailand15th, #bazaarthailand, #wedding"
-  - username: "siravariety"
-    fullname: >-
-      Sira MaNdonna 💖ไจ๋ ซีร่า💖
-    bio: >-
-      Jai SIRA 👑 Bangkok Diva Queen ติดต่องาน 0875005111 (คุณตั๊ก) Sydney Diva Awards winner Thailand’s Madonna impersonator Performer, Beauty blogger, etc.
-    location: "Thailand"
-    followers: 102981
-    engagement: 237
-    commentsToLikes: 0.007724
-    id: ck6tkleuu4xpx0j71i5y8vyci
-    verified: false
-    hashtags: "#lacefrontwig, #mermaid, #siravariety, #dragmakeupartist"
-  - username: "abc_pathummas"
-    fullname: >-
-      Pathumas Chatchang
-    bio: >-
-      นักวิ่งพิชิตซึมเศร้า✌🏻 Running ❤️ YouTube Channel : papidoo ▶️ Direct Message for work 💌 Thailand 🇹🇭 Thank for following 🙏🏻
-    location: "Thailand"
-    followers: 51067
-    engagement: 165
-    commentsToLikes: 0.011065
-    id: ck9wdk0drfzxa0j7872wzmgby
-    verified: false
-    hashtags: "#wingnaidee, #running, #runnerlife, #fitness"
 ---

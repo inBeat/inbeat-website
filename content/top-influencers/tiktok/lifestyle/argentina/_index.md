@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Argentina In 2023
+title: Top 10 Lifestyle TikTok Influencers In Argentina In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Argentina in 2023. Most popular hashtags: #parati #fyp #lifestyle #love.
+  Find top lifestyle TikTok influencers in Argentina in 2024. Most popular hashtags: #parati #fyp #lifestyle #love.
 platform: TikTok
 hits: 8
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 8 TikTok influencers like this in Argentina for you to pitch.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our platform holds 8 TikTok influencers like this in Argentina for you to connect with.
 profiles:
   - username: "virginiasar"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       🦋☽ | ’01 ✨fashion - lifestyle 📨business: mikkawillowscontact@gmail.co
     location: "Argentina"
-    followers: 12800
-    engagement: 1165
-    commentsToLikes: 0.010781
+    followers: 12600
+    engagement: 1160
+    commentsToLikes: 0.008395
     id: ckb9dfls90lzu0j23leyw7e9d
     verified: false
-    hashtags: "#xyzbca, #subespa, #viral, #fyp"
+    hashtags: "#style, #edits, #subespa, #songs"
   - username: "lujos.millonarios"
     fullname: >-
       Lujos.Millonarios

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In San Antonio In 2023
+title: Top 10 Beauty TikTok Influencers In San Antonio In 2024
 description: >-
-  Find top beauty TikTok influencers in San Antonio in 2023. Most popular hashtags: #fyp #foryoupage #foryou #texas.
+  Find top beauty TikTok influencers in San Antonio in 2024. Most popular hashtags: #fyp #foryoupage #foryou #texas.
 platform: TikTok
 hits: 4
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our database holds 4 TikTok influencers like this in San Antonio, United States for you to pitch.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 4 TikTok influencers like this in San Antonio, United States for you to work with.
 profiles:
   - username: "yourgal.sel"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.052231
     id: ckc91lm2fronk0j23uo0hgtbd
     verified: false
-    hashtags: "#blackfae, #chicagocheck, #cleargenius, #thesuicidesquadmovie"
+    hashtags: "#chicagocheck, #suicidesquad, #thesuicidesquadmovie, #cleargenius"
   - username: "lexisroc"
     fullname: >-
       ✨Alexis✨
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.046760
     id: ckbbdo6pn2izp0j2342epu47j
     verified: false
-    hashtags: "#magickingdom, #luca, #callmebyyourname, #disneymovies"
+    hashtags: "#callmebyyourname, #disneypark, #disneymovie, #luca"
   - username: "priyankapahari3"
     fullname: >-
       🔥Prîyàñká🔥
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.034864
     id: ckbf00b54lem60j23l97kdan5
     verified: false
-    hashtags: "#puppiesoftiktok, #bridetobe, #disneyworld, #vacation"
+    hashtags: "#puppiesoftiktok, #palmsprings, #disneyparks, #weddingvibes"
   - username: "cringytoddler"
     fullname: >-
       TiktokikItSaysToddlerButIm18

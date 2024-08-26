@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Melbourne In 2023
+title: Top 10 Food TikTok Influencers In Melbourne In 2024
 description: >-
-  Find top food TikTok influencers in Melbourne in 2023. Most popular hashtags: #melbourne #australia #food #fyp.
+  Find top food TikTok influencers in Melbourne in 2024. Most popular hashtags: #melbourne #australia #food #fyp.
 platform: TikTok
 hits: 41
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 41 TikTok influencers like this in Melbourne, Australia for you to work with.
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our search engine holds 41 TikTok influencers like this in Melbourne, Australia for you to connect with.
 profiles:
   - username: "hangrybynature"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.013335
     id: cka0ppso29by50i78i80k52y3
     verified: true
-    hashtags: "#melbournefood, #melbourne, #traveling, #weebsociety"
+    hashtags: "#melbournefood, #placestovisit, #otakus, #animelovers"
   - username: "eatswithkayli"
     fullname: >-
       EatsWithKayli
@@ -31,18 +31,6 @@ profiles:
     id: ck9v0m8u0da3z0j78hex8pov8
     verified: false
     hashtags: "#fyp, #melbourne, #melbournefood, #melbournefoodie"
-  - username: "naveen.aarnav"
-    fullname: >-
-      Naveen Aarnav 🕺🕺🕺
-    bio: >-
-      Live For Today⚱️ Plan For Tomorrow 👨‍🏫 Party Tonight 🍻
-    location: "Australia"
-    followers: 147100
-    engagement: 838
-    commentsToLikes: 0.029337
-    id: ck9n54tej6gqs0j78etrr9739
-    verified: false
-    hashtags: "#snake, #australia, #watchtilltheend, #tiktok"
   - username: "food.mez"
     fullname: >-
       Food.life.mez
@@ -79,6 +67,18 @@ profiles:
     id: ckbezs4q4l2ro0j23ijqztqmz
     verified: false
     hashtags: "#exam, #teachersoftiktok, #student, #aussie"
+  - username: "naveen.aarnav"
+    fullname: >-
+      Naveen Aarnav 🕺🕺🕺
+    bio: >-
+      Live For Today⚱️ Plan For Tomorrow 👨‍🏫 Party Tonight 🍻
+    location: "Australia"
+    followers: 147000
+    engagement: 785
+    commentsToLikes: 0.027921
+    id: ck9n54tej6gqs0j78etrr9739
+    verified: false
+    hashtags: "#watchtilltheend, #animal, #onlyinaustralia, #melbourne"
   - username: "waderifatimashaik"
     fullname: >-
       Waderi Fatima Shaikh

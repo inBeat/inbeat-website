@@ -1,12 +1,24 @@
 ---
-title: Top 10 Food Instagram Influencers In San Antonio In 2023
+title: Top 10 Food Instagram Influencers In San Antonio In 2024
 description: >-
-  Find top food Instagram influencers in San Antonio in 2023. Most popular hashtags: #sanantonio #homedecor #covid #corona.
+  Find top food Instagram influencers in San Antonio in 2024. Most popular hashtags: #sanantonio #satx #sanantoniofood #sanantoniotexas.
 platform: Instagram
-hits: 17
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 17 Instagram influencers like this in San Antonio, United States for you to work with.
+hits: 45
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 45 Instagram influencers like this in San Antonio, United States for you to connect with.
 profiles:
+  - username: "eatmigos"
+    fullname: >-
+      Chris Flores the Chief Taco Officer
+    bio: >-
+      I am a SA Foodie finding you the BEST FOOD in Texas & San Antonio. I’m the @favor Chief Tasting/Taco Officer (CTO) & @yuenglingbeer Ambassador
+    location: "United States"
+    followers: 106592
+    engagement: 54
+    commentsToLikes: 0.039793
+    id: clgcjp9tykeo10j08qerjkg4u
+    verified: false
+    hashtags: "#tacos, #sanantonio, #sanantoniofood, #bootlegfoodreview"
   - username: "soo_steph"
     fullname: >-
       Stephanie | SATX
@@ -18,113 +30,101 @@ profiles:
     commentsToLikes: 0.519846
     id: ck5zrlp1fwta30i14p4m1atx4
     verified: false
-    hashtags: "#theglammovement, #amazonfinds, #interior123, #golddecor"
-  - username: "darthamin"
+    hashtags: "#amazonfinds, #bedroomdecor, #glamhome, #myhome"
+  - username: "s.a.foodie"
     fullname: >-
-      Amin Elhassan
+      San Antonio, Texas | Amanda
     bio: >-
-      Critical to the development of a superweapon. 🇸🇩🇸🇩 ‎النصر لنا 🇸🇩🇸🇩
+      🍔 San Antonio Food Guide✨Things To Do✨Travel 🚗 Other Page ↠ @texas.explorer 📧 Email for Inquiries & Partnerships👇🏻 🙋🏻‍♀️ @that.travel.diary
     location: "United States"
-    followers: 30778
-    engagement: 300
-    commentsToLikes: 0.054943
-    id: ck5hs4spivzng0i115mgafh64
-    verified: true
-    hashtags: "#nba, #news, #meme, #miami"
-  - username: "instasatx"
-    fullname: >-
-      San Antonio Adventures
-    bio: >-
-      Helping San Antonio discover & rediscover 300 years of history, culture, architecture, food, art, beauty, & people. #InstaSATX
-    location: "United States"
-    followers: 21282
-    engagement: 185
-    commentsToLikes: 0.226081
-    id: ck5q7af6y0m2p0i11ergzyk9l
+    followers: 541557
+    engagement: 253
+    commentsToLikes: 0.184130
+    id: ck137ehq2b54l0i190kh5b8pd
     verified: false
-    hashtags: "#instasatx, #fallvibes"
-  - username: "vanneochoa"
+    hashtags: "#sanantonioblogger, #satx, #sanantoniotx, #sanantoniofoodie"
+  - username: "g_eatsandtreats"
     fullname: >-
-      Vanne Ochoa | Blogger Mexicana
+      San Antonio Food&Lifestyle | Germaine
     bio: >-
-      More than just a fashion blog 👩🏻‍💻✨ lifestyle • mental health • food • makeup • & more CA | TX ☯️♈️
+      Eats, Travel, Life 🍬 ✉️germainehfit@gmail.com 🇨🇷 Tiktok/ LTK ⤵️
     location: "United States"
-    followers: 20812
-    engagement: 139
-    commentsToLikes: 0.079296
-    id: ck134b53dvkvx0i19mz5un7ho
+    followers: 21088
+    engagement: 16
+    commentsToLikes: 0.000000
+    id: ck6tnr9biaesl0j712fzstxu8
     verified: false
-    hashtags: "#austinblogger, #outfitideas, #model, #nycblogger"
-  - username: "dedi"
+    hashtags: "#satx, #satxfoodie, #downtownsanantonio, #sanantoniofood"
+  - username: "jenmonserrat"
     fullname: >-
-      Dedi mulya official
+      Jennifer M Hinojosa
     bio: >-
-      Foods and flowers lovers - Www.BaroQo.com for business inguiries Dedimulya@yahoo.com Amsterdam - Jakarta
+      River walk royalty 2024 Hola San Antonio #riverwalksanantonio Food/Places/Events From #mty to #sanantoniotx 📧igjenmonserrat@gmail.com
     location: "United States"
-    followers: 34936
-    engagement: 188
-    commentsToLikes: 0.057274
-    id: ck5zysdjrafw30i14syzs60x4
+    followers: 41212
+    engagement: 58
+    commentsToLikes: 0.356504
+    id: cks8utpc3esxp0j23s5coicf6
     verified: false
-    hashtags: "#homedecor, #friendship, #spain, #ibiza"
-  - username: "eldereats"
+    hashtags: "#alamocity, #mexicanfood, #latinainfluencer, #sablogger"
+  - username: "elcaminosa"
     fullname: >-
-      David Scott Elder
+      El Camino | Food Truck Park & Bar
     bio: >-
-      📺 Host of @KSATTexasEats on @ksatnews 🏆 Voted Best SA TV Personality 2020 🏆 Voted Best SA Local Celebrity 2020 🍔 Watch my food videos! ⬇️
+      📍1009 Avenue B, San Antonio, TX 78215 M-Th 5-12am • Fri 5-2am • Sat 11-2am • Sun 11-12am Families always welcome. More info 👇
     location: "United States"
-    followers: 60734
-    engagement: 235
-    commentsToLikes: 0.137062
-    id: ck5q7ahjl0mea0i110a3gm76c
+    followers: 67463
+    engagement: 3884
+    commentsToLikes: 0.043493
+    id: ckqq5ylwmw7v90j239enn3tgh
     verified: false
-    hashtags: "#sweepstakes, #sanantonio, #eldereats, #tacocabana"
-  - username: "kassimansfield"
+    hashtags: "#eatingshow, #foodlover, #sanantonio, #foodie"
+  - username: "sa_socialista"
     fullname: >-
-      Kassi Mansfield
+      Luisa Garcia
     bio: >-
-      26. Boy Mama X2. Raw & Real & Awkward COO : @grnrelief Join my KMFITFAM 💪🏼😄⬇️
+      💖San Antonio Born & Raised Storyteller ⁣ FAMILY | FOOD | FUN | DATE NIGHTS | Doseum Ambassador 📺 Amazon Prime & Apple TV+ 📍SATX AirBnB Super Host
     location: "United States"
-    followers: 507775
-    engagement: 250
-    commentsToLikes: 0.047203
-    id: ck0u6ats41ju40i19jhuv6yo0
+    followers: 7017
+    engagement: 39
+    commentsToLikes: 0.008380
+    id: ckmw1b9nu5ul20j23hccjvbz8
     verified: false
-    hashtags: "#viralreels, #boymama, #momoftwo, #mentalhealth"
-  - username: "deafjourney"
+    hashtags: "#sanantonio, #sanantoniofoodie, #sanantoniofood, #satxmoms"
+  - username: "usernameconfidential_"
     fullname: >-
-      Lily ♡ | California | Travel • Lifestyle • Food
+      To Whom اردو May Concern
     bio: >-
-      ✈️ Helping you to learn best destinations, hidden gems, & travel tips 📍Southern California 🇺🇸 📧 PR Inquiries: deafjourney@yahoo.com
+      𝐌𝐚𝐫𝐫𝐢𝐮𝐦 𝐒𝐨𝐡𝐚𝐢𝐥 SAT-HTX-DTX 🇺🇸 Work-Family-Travel 𝗛𝗮𝗿𝘃𝗮𝗿𝗱 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗦𝗰𝗵𝗼𝗼𝗹 Founder of 𝑴𝒂𝒓𝒓𝒊𝒖𝒎 𝑰𝒏𝒔𝒖𝒓𝒂𝒏𝒄𝒆
     location: "United States"
-    followers: 35922
-    engagement: 88
-    commentsToLikes: 0.067569
-    id: ckaoyg83ihe4p0i78ext0hao8
+    followers: 37063
+    engagement: 472
+    commentsToLikes: 0.137887
+    id: ck9wghc9ltf2q0j78ujo36ost
     verified: false
-    hashtags: "#dubaitravel, #dubailifestyle, #losangeles, #mydubai"
-  - username: "breannabarrs"
+    hashtags: "#lahore, #love, #sanantonio, #pakistani"
+  - username: "thechelseamarrs"
     fullname: >-
-      Breanna Barrs
+      Chelsea | Food + Travel
     bio: >-
-      ☀️ morning news anchor on temporary commercial break 📍Dallas 🌍 taking it day by day
+      🫶🏼 Food, Fashion, Travel 🌟 Influencer Strategist at @obviously 💌 thechelseamarrs@gmail.com 📍 San Francisco + San Antonio
     location: "United States"
-    followers: 8420
-    engagement: 1185
-    commentsToLikes: 0.048623
-    id: ckap16xultbdr0i78hvsmftoj
+    followers: 28323
+    engagement: 1867
+    commentsToLikes: 0.075677
+    id: ck0vy5svh2dgv0i19rqiaged1
     verified: false
-    hashtags: "#europe, #goodday, #travel, #boat"
-  - username: "giuseppethemc"
+    hashtags: "#sanantoniofood, #texasblogger, #satx, #sanantonioinfluencer"
+  - username: "saraharoundsa"
     fullname: >-
-      GIUSEPPE THE MC
+      Sarah Around SA | San Antonio, Texas Blog + Content Creator
     bio: >-
-      👇👇👇
+      📍 Foodie based in #SanAntonio since 2018 🌮 Follow for food, drinks, events, & more! 🎥 TikTok: SarahAroundSA ⬇️ Contact me - Info below!
     location: "United States"
-    followers: 40111
-    engagement: 667
-    commentsToLikes: 0.149271
-    id: ck6u5j1qy9x520j71o4mn2oco
+    followers: 19255
+    engagement: 280
+    commentsToLikes: 0.003184
+    id: clg13v4wc5j0q0j08bqqjrswd
     verified: false
-    hashtags: "#lesson, #iwillteachyou, #calabrese, #italian"
+    hashtags: "#sanantonio, #texas, #satx, #fttsa"
 ---

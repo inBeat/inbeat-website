@@ -1,24 +1,72 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Atlanta In 2023
+title: Top 10 Yoga Instagram Influencers In Atlanta In 2024
 description: >-
-  Find top yoga Instagram influencers in Atlanta in 2023. Most popular hashtags: #atlanta #yoga #fashion #fitness.
+  Find top yoga Instagram influencers in Atlanta in 2024. Most popular hashtags: #atlanta #fitness #atl #selflove.
 platform: Instagram
-hits: 38
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 38 Instagram influencers like this in Atlanta, United States for you to work with.
+hits: 44
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 44 Instagram influencers like this in Atlanta, United States for you to contact.
 profiles:
-  - username: "dewaynerogers"
+  - username: "fleurdelisspeaks"
     fullname: >-
-      DeWayne Rogers
+      Faith Broussard Cade 📍Atlanta
     bio: >-
-      God First. Creative Director. Second Born Creative. Sugaberry. booking@dewaynerogers.com
+      A small town Louisiana girl, inspiring YOU to take care. 💌 Daily affirmations 🎤 TedX, CNN, Yahoo ✨ Counselor • Speaker
     location: "United States"
-    followers: 101828
-    engagement: 202
-    commentsToLikes: 0.046033
-    id: ck5zpcweesfzg0i142t7a4dud
+    followers: 310535
+    engagement: 259
+    commentsToLikes: 0.013603
+    id: ck0w1kuh0jujv0i19wqcu1ebf
     verified: false
-    hashtags: "#blackexcellence, #fashion, #beauty, #favor"
+    hashtags: "#survivor, #atlantawellness, #parenting, #selfcare"
+  - username: "hannahughes_"
+    fullname: >-
+      Hannah Hughes
+    bio: >-
+      Atlanta Marketing Web3 inquiries: hannahhughes64@gmail.com 💌
+    location: "United States"
+    followers: 9629
+    engagement: 662
+    commentsToLikes: 0.043287
+    id: cknh8ub6ysw6u0j23lk6yj006
+    verified: false
+    hashtags: "#brrrr, #nexttime, #kehatl, #arlettemagazing"
+  - username: "joethyself"
+    fullname: >-
+      Joe with the Flow☯️
+    bio: >-
+      All is one. All is love🕉 he/him #Vegan Cap☀️ Aqua🌙 Leo↑ Music Monopoly 🎶 Host of @thearlyshow As seen on Netflix R+F 💿 Stream "F.L.O.W.E.R." NOW!
+    location: "United States"
+    followers: 5836
+    engagement: 326
+    commentsToLikes: 0.227407
+    id: ck6tqouv8stoj0j713bz4u013
+    verified: false
+    hashtags: "#flow, #atlanta, #peace, #consciousmusic"
+  - username: "kfitbarbie"
+    fullname: >-
+      Atlanta Fitness Trainer-Kenea
+    bio: >-
+      Competition Prep/Trainer IFBB WELLNESS PRO @prepzmeals @phenophysiques @glamified4beauties 📍Atlanta
+    location: "United States"
+    followers: 20965
+    engagement: 159
+    commentsToLikes: 0.077355
+    id: cknsou3yk80gp0j237o386zpq
+    verified: false
+    hashtags: "#explore, #fitchicks, #tampapro, #phenobeauty"
+  - username: "leapoffaith_yoga"
+    fullname: >-
+      Kim
+    bio: >-
+      ~ Yoga teacher RYT200, Forever student ~ Mom, Explorer, Nature lover ~ Taking the Leap of Faith
+    location: "United States"
+    followers: 55240
+    engagement: 53
+    commentsToLikes: 0.470459
+    id: ckmw1itdd8jih0j23dzeeycce
+    verified: false
+    hashtags: "#flaneusesummerfun, #environmentallyconscious, #summershortsvibes3, #yogifeet"
   - username: "ezratheprofessional"
     fullname: >-
       Ezra "PROFESSIONAL" Ferguson
@@ -42,7 +90,7 @@ profiles:
     commentsToLikes: 0.043031
     id: ck6uaqsyi53jd0j7112to48j5
     verified: false
-    hashtags: "#forlikes, #picoftheday, #webstagram, #shein"
+    hashtags: "#instagram, #26, #bestoftheday, #girl"
   - username: "callmesomto"
     fullname: >-
       Somto Gburugburu Bilal Obi
@@ -55,18 +103,18 @@ profiles:
     id: ck55kajveyvc80i1164r2bu5r
     verified: false
     hashtags: "#fitness, #oyajump, #skipping, #jumpropefitness"
-  - username: "mountain_man_sims"
+  - username: "eatplantsprosper"
     fullname: >-
-      Noah Sims
+      Whitney | Plant Based Nutritionist
     bio: >-
-      6'7 Mountain man! MASTER CHEF 🇺🇸 SEASON 10-TOP 4! Blessed to be part of a great family! Loving life/ World traveler/ Yoga lover/ ♎️/🌱 PB 🌱/ ⬇️ 127lbs
+      Certified Holistic Nutritionist & Plant Based Chef Yoga Instructor & Health Coach Whitney@eatplantsprosper.com Meal plans, recipes, health coaching⬇️
     location: "United States"
-    followers: 25710
-    engagement: 314
-    commentsToLikes: 0.124784
-    id: ck0w4suil08ue0i19vdjg601v
+    followers: 24440
+    engagement: 79
+    commentsToLikes: 0.073263
+    id: ckaoqs3eek48s0i78r6akv5qb
     verified: false
-    hashtags: "#motivation, #delicious, #healthy, #healthyfood"
+    hashtags: "#naturalmedicine, #holisticnutrition, #foodismedicine, #naturalfood"
   - username: "fionajoiofficial"
     fullname: >-
       Fiona Joi
@@ -79,52 +127,4 @@ profiles:
     id: ck8sxebkkh35g0j78q5os0xj6
     verified: false
     hashtags: "#lamodels, #scmodels, #lamodel, #artphotography"
-  - username: "damapurr"
-    fullname: >-
-      🌙Maura (she/her/they)
-    bio: >-
-      m a n i f e s t i n g the forest eats itself and lives forever🍃
-    location: "United States"
-    followers: 2210
-    engagement: 1387
-    commentsToLikes: 0.084072
-    id: ck6uhzed7c5bb0j71jb7yzk26
-    verified: false
-    hashtags: "#atl, #filmphotography, #atlanta, #longhair"
-  - username: "eat.tray.love"
-    fullname: >-
-      Tracy 🍑 ATL Foodie
-    bio: >-
-      🍜 food explorer w/sketracha 👩🏼‍💻 visual designer @accenture 🍞 creative director @clevertoaststudio 💌 dm or email for collabs 😋 #sketrachaeats
-    location: "United States"
-    followers: 12672
-    engagement: 306
-    commentsToLikes: 0.475661
-    id: ck8t0fimkrw940j78dfvqfkzp
-    verified: false
-    hashtags: "#eeeeeats, #food52, #atlfoodie, #foodgawker"
-  - username: "levelsofbrittany"
-    fullname: >-
-      𝐁𝐫𝐢𝐭𝐭𝐚𝐧𝐲 𝐍. 𝐒𝐮𝐥𝐥𝐢𝐯𝐚𝐧
-    bio: >-
-      GOD 1st 🙏🏾 ATL🍑 Versatile Dancer💃🏽 Credits: Dj Unk•Kandi•Sevyn Streeter•Karyn White•&more CEO of @bnsmaaa 👼🏾✨Fly High Mommy✨👼🏾
-    location: "United States"
-    followers: 7258
-    engagement: 1117
-    commentsToLikes: 0.126271
-    id: ck14i2j9jdbgn0i190ve75u5b
-    verified: false
-    hashtags: "#explore, #sweat, #dancer, #beautiful"
-  - username: "joethyself"
-    fullname: >-
-      Joe with the Flow☯️
-    bio: >-
-      All is one. All is love🕉 he/him #Vegan Cap☀️ Aqua🌙 Leo↑ Music Monopoly 🎶 Host of @thearlyshow As seen on Netflix R+F 💿 Stream "F.L.O.W.E.R." NOW!
-    location: "United States"
-    followers: 5836
-    engagement: 326
-    commentsToLikes: 0.227407
-    id: ck6tqouv8stoj0j713bz4u013
-    verified: false
-    hashtags: "#bars, #atlanta, #chess, #capricorn"
 ---

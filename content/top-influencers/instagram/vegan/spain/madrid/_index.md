@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Madrid In 2023
+title: Top 10 Vegan Instagram Influencers In Madrid In 2024
 description: >-
-  Find top vegan Instagram influencers in Madrid in 2023. Most popular hashtags: #madrid #vegan #chocolate #instafood.
+  Find top vegan Instagram influencers in Madrid in 2024. Most popular hashtags: #vegan #madrid #chocolate #instafood.
 platform: Instagram
-hits: 35
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 35 Instagram influencers like this in Madrid, Spain for you to connect with.
+hits: 37
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database holds 37 Instagram influencers like this in Madrid, Spain for you to collaborate.
 profiles:
   - username: "albertolancha"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck14jw27qmh6r0i19zhedefic
     verified: false
     hashtags: "#galletas, #platano, #chocolatelover, #desayuno"
-  - username: "portimismo"
-    fullname: >-
-      Portimismo (Jen) 👩🏻♻️
-    bio: >-
-      ❤Recetas fáciles #fit 🍴Los JUEVES te Reto Cooking (destacado RETOS) 📌Lugares y productos de moda ✈️VIAJES diferentes! 👪Mamá #japanlover 💌Colab
-    location: "Spain"
-    followers: 9370
-    engagement: 827
-    commentsToLikes: 0.521784
-    id: ckapcpw254q4w0i78s6ozn6k6
-    verified: false
-    hashtags: "#recetassaludables, #premio, #desayunosaludable, #snacksaludable"
   - username: "madridgoout"
     fullname: >-
       MadridG👀ut - Foodies  - Madrid
@@ -54,7 +42,7 @@ profiles:
     commentsToLikes: 0.130215
     id: ck5cgcgxdokb80i1197l7mcok
     verified: false
-    hashtags: "#madridgoout, #turismo, #alicante, #parquesdemadrid"
+    hashtags: "#alicante, #gastronom, #demadridalcielo, #madridgoout"
   - username: "vegan_nia"
     fullname: >-
       Stefania Isabel
@@ -67,6 +55,18 @@ profiles:
     id: ckap1rkyjvtjj0i78o1mfjd9a
     verified: false
     hashtags: "#tb, #apoyoalagricultor"
+  - username: "mercedes_debellard"
+    fullname: >-
+      Mercedes deBellard
+    bio: >-
+      Illustrator 🌱 Animal lover Andaluza viviendo en Euskadi Represented by @folioart ✉️ hello@mercedesdebellard.net
+    location: "Spain"
+    followers: 40970
+    engagement: 486
+    commentsToLikes: 0.017709
+    id: ck0ubr0vhf2f10i19x2cznilo
+    verified: false
+    hashtags: "#cinema, #beauty, #illustration, #nevenka"
   - username: "lacocinademasito"
     fullname: >-
       La cocina de Masito
@@ -79,52 +79,52 @@ profiles:
     id: ck1350h5az2qk0i19uen4znpl
     verified: false
     hashtags: "#recetarica, #postre, #lacocinademasito, #food"
-  - username: "yolanda_rosell"
+  - username: "lisetteoropesa"
     fullname: >-
-      𝐘𝐎𝐋𝐀𝐍𝐃𝐀 𝐑𝐎𝐒𝐄𝐋𝐋
+      Lisette Oropesa
     bio: >-
-      Valencia - Madrid Graduated in Human Resources 🎓 #opositora #glutenfree 🌾 Colaboraciones: yolirosell@hotmail.com 💗2️⃣
+      Operatic soprano 🎶 - vegan 🍎- runner 🏃- yogi 🙏 Schedule here ⬇️
     location: "Spain"
-    followers: 39583
-    engagement: 161
-    commentsToLikes: 0.177986
-    id: ckap4yx1y9fo00i781e0xuzd2
-    verified: false
-    hashtags: "#apmgirls, #pinterest, #outfitoftheday, #apmmonaco"
-  - username: "soraya.keyrer"
+    followers: 120039
+    engagement: 268
+    commentsToLikes: 0.023185
+    id: ck139d3qxkpr80i19u7fa7rbw
+    verified: true
+    hashtags: "#gounod, #lisetteoropesa, #opera, #savonlinna"
+  - username: "nomecomesnada"
     fullname: >-
-      S O R A Y A    K E Y R E R
+      Guille - No me comes nada
     bio: >-
-      • Art - Draw&Tattoo @soraya.keyrer.art • Work - soraya.keyrer@gmail.com 🖌️🎨📸💉✨🌈🦋🛹🎶 • #Madrid - #Ibiza📍- Adv&PR - ☀️🗡️🌙 👇VIDEOCLIP 'ROCK MY WORLD'👇
+      Madrid 🏙️🇪🇸 El Puerto de Santa María 🏖️ Cocinillas, #foodie o como quieras llamarlo 🍴🍽️ Del tupper del trabajo a tener un blog 💻 Mis recetas 🔽🔽🔽
     location: "Spain"
-    followers: 13356
-    engagement: 455
-    commentsToLikes: 0.086569
-    id: ckf5suhx0g8r20j234xadbuuz
+    followers: 11666
+    engagement: 232
+    commentsToLikes: 0.272598
+    id: ckap1rj7zvtc80i781u3u2ezd
     verified: false
-    hashtags: "#photography, #spanishgirl, #photoshoot, #madrid"
-  - username: "palomaszalai"
+    hashtags: "#comidareal, #receta, #fotografiaculinaria, #recetasrapidas"
+  - username: "loletabyloleta"
     fullname: >-
-      🕊️
+      Lola Bernabe
     bio: >-
-      Actriz Madrid, Spain Trabajos MD 📩 22~44 🐺
+      Cook & Travel photo Content creator 🎯Madrid-Malaga-Marbella Recetas y viajes www.loleta.es 📖Mi libro Loleta by Loleta 📺TV Canal Cocina📻COPE los lunes
     location: "Spain"
-    followers: 4726
-    engagement: 858
-    commentsToLikes: 0.117783
-    id: ck6tk3maa3xte0j71siy0i687
+    followers: 367333
+    engagement: 119
+    commentsToLikes: 0.060126
+    id: ck5pz2vmjyzav0i11nr3ohrbo
     verified: false
-    hashtags: "#madridfoto, #sesiondefotosmadrid, #modelmadrid, #shootingmadrid"
-  - username: "itiroy"
+    hashtags: "#recetasfaciles, #comidacasera, #loletatravel, #recetascaseras"
+  - username: "paula.loves"
     fullname: >-
-      Irene T-Roy
+      Paula Moya
     bio: >-
-      ✒️IP Lawyer ⚡️Tireless dreamer & Unconditional traveler 🚩Madrid & Zgz | Originally from Seville 👗- 15% @sheinofficial itiroy315👇🏻
+      Fashion Stylist & Beauty Lover 🐱Owner of a Persian Cat 🐶 Shetland Ceo of @lepetitbypaulamoya 📍 Madrid ✉Contact: prpaulamoya@gmail.com
     location: "Spain"
-    followers: 36716
-    engagement: 92
-    commentsToLikes: 0.063719
-    id: ck8tagbu7rmvb0j78wp6wdguf
-    verified: false
-    hashtags: "#fashion, #sanvalent, #ootd, #december"
+    followers: 244923
+    engagement: 96
+    commentsToLikes: 0.065956
+    id: ck55j61o9wcrj0i11samcumig
+    verified: true
+    hashtags: "#outfitoftheday, #tendencias, #beautytips, #christmasoutfit"
 ---

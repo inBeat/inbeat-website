@@ -1,12 +1,24 @@
 ---
-title: Top 10 Divers Instagram Influencers In South Africa In 2023
+title: Top 10 Divers Instagram Influencers In South Africa In 2024
 description: >-
-  Find top divers Instagram influencers in South Africa in 2023. Most popular hashtags: #style #fashion #photography.
+  Find top divers Instagram influencers in South Africa in 2024. Most popular hashtags: #africanfashion #style #diversity.
 platform: Instagram
-hits: 14
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 14 Instagram influencers like this in South Africa for you to connect with.
+hits: 13
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 13 Instagram influencers like this in South Africa for you to contact.
 profiles:
+  - username: "mizou_ak"
+    fullname: >-
+      Mezen mehrez
+    bio: >-
+      N 💍 📍international personal trainer 🏋🏼 📍second place African champion🥈 📍three times champion Tunisie 🥇🥇🥇 📍 professional deep sea diver 🏊🏻
+    location: "South Africa"
+    followers: 259391
+    engagement: 281
+    commentsToLikes: 0.005801
+    id: ck5hpnc1hrnd60i117vat41re
+    verified: false
+    hashtags: "#fashionblogger, #boy, #blogger, #m5e60"
   - username: "mark_fitzy"
     fullname: >-
       Mark Fitzgibbon
@@ -19,30 +31,6 @@ profiles:
     id: ck0vxg8n2yqq00i19dgqty16n
     verified: false
     hashtags: "#smoooth, #tropika, #ad, #summer"
-  - username: "kudzichikumbu"
-    fullname: >-
-      Kudzi Chikumbu
-    bio: >-
-      Speaker. Diversity Advocate. Creators. Gen-Z Expert Director of Creator Community @tiktok 🇿🇼🇿🇦🇺🇸🏳️‍🌈📍Los Angeles. African. Stanford MBA
-    location: "South Africa"
-    followers: 23122
-    engagement: 224
-    commentsToLikes: 0.085214
-    id: ck8wczcv1d7f70j788bu92ejo
-    verified: false
-    hashtags: "#makeblackhistory, #career, #africadayfestival, #ownyourstory"
-  - username: "afrostylemagz"
-    fullname: >-
-      AfroStyleMagz
-    bio: >-
-      African MultiCultural/Racial Fash Mag. Explores Diverse Complexities/Unique Styles of the Diaspora PROMOS/SUBS/ADS - INFO@AFROSTYLEMAG.COM
-    location: "South Africa"
-    followers: 130530
-    engagement: 92
-    commentsToLikes: 0.009418
-    id: ck15spqgue7ev0i19anr0ma2h
-    verified: false
-    hashtags: ""
   - username: "mornehardenberg"
     fullname: >-
       SHARK EXPLORERS/AE FILMS
@@ -55,6 +43,30 @@ profiles:
     id: ck55mg8c53w7u0i11ycvn5b6d
     verified: true
     hashtags: "#bahamas, #lockdown"
+  - username: "wandiagichuru"
+    fullname: >-
+      Wandia Gichuru
+    bio: >-
+      CEO Vivo Fashion Group @vivo_woman @zoya_by_vivo @safari_by_vivo @shopzetu Passionate about Africa Dressing Herself & Africa Dressing The World!
+    location: "South Africa"
+    followers: 38648
+    engagement: 128
+    commentsToLikes: 0.030928
+    id: ck6tz4gop7kar0j71plqqdgxc
+    verified: true
+    hashtags: "#madeinkenya, #affordableluxury, #daughterlove, #africanfashion"
+  - username: "zozitunzi"
+    fullname: >-
+      Zozibini Tunzi
+    bio: >-
+      TV Host Executive Producer Miss Universe 2019👑 Face of @lux_southafrica
+    location: "South Africa"
+    followers: 2862361
+    engagement: 83
+    commentsToLikes: 0.003173
+    id: ck0u04hd0sjax0i198zxg50h7
+    verified: true
+    hashtags: "#safta, #saftas17, #takeastand, #travel"
   - username: "africanprintsinfashion"
     fullname: >-
       African Prints in Fashion
@@ -103,18 +115,6 @@ profiles:
     id: ck137hjuibksp0i19qda1nbdt
     verified: false
     hashtags: "#diversitymatters, #yanomaybehey, #savingsandfish, #worldalbatrossday"
-  - username: "lorraineloots"
-    fullname: >-
-      lorraine loots | miniature art
-    bio: >-
-      miniaturist ✎ cape town ☼ south africa © 2012 - 2020 e-mail only please. ✉︎ admin@lorraineloots.com
-    location: "South Africa"
-    followers: 283543
-    engagement: 160
-    commentsToLikes: 0.011886
-    id: ck5hfwr6azqmu0i112d6pao5s
-    verified: true
-    hashtags: "#paintingsforants, #novartis, #birdsforsofia, #1000loverseyes"
   - username: "conversationswithartemis"
     fullname: >-
       Ashleigh

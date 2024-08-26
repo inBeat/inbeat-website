@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Colombia In 2023
+title: Top 10 Fitness Instagram Influencers In Colombia In 2024
 description: >-
-  Find top fitness Instagram influencers in Colombia in 2023. Most popular hashtags: #fitnessmotivation #fitness #fitnessgirl #fit.
+  Find top fitness Instagram influencers in Colombia in 2024. Most popular hashtags: #fitness #reels #fitnessmotivation #entrenamiento.
 platform: Instagram
-hits: 228
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 228 Instagram influencers like this in Colombia for you to connect with.
+hits: 243
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 243 Instagram influencers like this in Colombia for you to contact.
 profiles:
-  - username: "camiloroanutricionista"
+  - username: "valeriaduqueh"
     fullname: >-
-      Dr. Camilo Roa® 👨🏻‍⚕️👱🏻‍♀️✍🏻
+      VALERIA DUQUE 🔱
     bio: >-
-      🇨🇴🥇Nutricionista Dietista Coach 💻 Online 🌎 📞+573044713952 🇪🇸Esp.N.Deportiva y Fitness🏃🏻 🇪🇸Esp.Sobrepeso Obesidad🍴 🥗Recomposición Corporal⚙️ 🍔 Hábitos
+      📩 valeriaduquehcontacto@gmail.com Desafío Súper Humanos XV Comunicadora Social, periodista Fitness lifestyle✨ Modelo ✨Content creator
     location: "Colombia"
-    followers: 121517
-    engagement: 102
-    commentsToLikes: 0.027509
-    id: ck8sz2favmx340j78unmqz99n
+    followers: 1702864
+    engagement: 314
+    commentsToLikes: 0.017060
+    id: ck0w71qvgbbwr0i19etl210f3
     verified: false
-    hashtags: "#fitness, #nutri, #bajardepesorapido, #tonificar"
-  - username: "laura_.stephany"
+    hashtags: "#fitness, #fitnesslifestyle, #barbiegirl, #fitnessmodel"
+  - username: "maleardila"
     fullname: >-
-      Stephany Laura
+      Alejandra Ardila 🌸
     bio: >-
-      💕 Vive la vida al máximo!! Solo cuentas con el presente para ser Feliz 💕. #love #beauty #fitness 📍Miami 🌆 @estephany_laura 😍(Cuenta Principal)
+      Coach nutricional fitness 🍎DietaFlexible🍭IIFYM🍔 Asesorías personalizadas @mordiscofit 🍃@bymaleardila 🍑 @beefitcol 🐝
     location: "Colombia"
-    followers: 16584
-    engagement: 747
-    commentsToLikes: 0.060533
-    id: ckap86oayn2ai0i781kpyyiy0
+    followers: 247287
+    engagement: 281
+    commentsToLikes: 0.014704
+    id: ck5qcjzknqyed0i112dvtbhtn
     verified: false
-    hashtags: "#only, #tbt, #miami, #cubanas"
-  - username: "mariafernandagalavis"
+    hashtags: "#estilodevida, #fitness, #aprendiendoconbejaranofit, #consejosfitness"
+  - username: "lachelleofficial"
     fullname: >-
-      Maria Fernanda Galavis 👸🏻
+      LaChelle 🇳🇬
     bio: >-
-      Amor propio, fitness y algo de locura💁🏻‍♀️ VidaFit❣️#maferfit💪🏻👸🏻 Mía’s mom👧🏻 Odín Ra 🐶 @shanti_mf ✨ +AMOR❤️ -APEGOS🍃 Empoderamiento 💝 📍🇨🇴
+      Los Angeles 📍 Fitness|Fashion Certified Fitness Trainer Mtsu Alumna👩🏾‍🎓 Commercial/ Film Rep : @sovereigntalentgroupinc
     location: "Colombia"
-    followers: 271481
-    engagement: 186
-    commentsToLikes: 0.242349
-    id: ck6tk75zf44ub0j71ee6vxku0
+    followers: 18023
+    engagement: 250
+    commentsToLikes: 0.029616
+    id: ckz1z8go73ly10j23nbp8j05y
     verified: false
-    hashtags: "#maferfit, #fitnessmotivation, #fitnessgirl, #sorteoscolombia"
-  - username: "bebasantander"
+    hashtags: "#fitnessmodels, #workoutsforwomen, #lamodels, #posemannequin"
+  - username: "pameperez.p"
     fullname: >-
-      Thalia Santander 🐰💪
+      Pame Perez
     bio: >-
-      Manager: @azetanetwork DIOS ♥ Wellness Fitness🏆 💪🏻 Lcda en fisioterapia 👩🏻‍⚕️
+      Mamá de MARIANO 💙 Co-Founder @pamelas.wellnessfood Founder @by.pameperez IIN Health Coach Fitness Enthusiast LiveHealthy-LiveLonger
     location: "Colombia"
-    followers: 61981
-    engagement: 832
-    commentsToLikes: 0.016937
-    id: ck6u63rwudcom0j71z5o3zzfa
+    followers: 45351
+    engagement: 225
+    commentsToLikes: 0.040558
+    id: ck13c63keysra0i19xh0geu5r
     verified: false
-    hashtags: "#fitnessgirl, #ecuador, #wellness, #manabi"
-  - username: "marianelamodel"
+    hashtags: "#saludable, #marianopelaezperez, #21diasconpameperez, #creandohabitos"
+  - username: "tatianaariasnaranjo"
     fullname: >-
-      MARIANELA | PRESENTADORA
+      Tatiana Arias Naranjo
     bio: >-
-      🇨🇴 Miss sudamerica 2020 🏋🏽‍♀️ fitness 👩🏼‍💼Creadora de @malena_stylee
+      🤍 fitness Certificado deportivo para mujeres Coaching online Owner @woarsportwear Ambassador @prosciencesupps
     location: "Colombia"
-    followers: 70301
-    engagement: 217
-    commentsToLikes: 0.023285
-    id: ck5q3ihpokw7e0i11gl42nznm
+    followers: 283346
+    engagement: 189
+    commentsToLikes: 0.020820
+    id: ckapbnkd80l5z0i78x8y2gh2j
     verified: false
-    hashtags: "#instagood, #instafashion, #photography, #mexico"
-  - username: "marlennedm"
+    hashtags: "#rutina, #gym, #gluteos, #workout"
+  - username: "auracardonac"
     fullname: >-
-      Marlennedm
+      Aura Cardona C
     bio: >-
-      Manager:@ruben_rojillo +52 55 6617 9254 Psicóloga, fitnessgirl, vegana, nowaste , y a veces modelo Lamujerquebotafuego🔥@marlenne.dm @hazluzenelmundo
+      Aventurera, dedicada, apasionada por el fitness, viajar y mi trabajo. @devorame_reposteria @tips.auracardonac MIS REDES Y CONTENIDO EXCLUSIVO👇🏻😍
     location: "Colombia"
-    followers: 55699
-    engagement: 353
-    commentsToLikes: 0.031760
-    id: ckaoy0acufikr0i78qdvyffqb
+    followers: 930131
+    engagement: 154
+    commentsToLikes: 0.010829
+    id: ck5qba1nckkd30i11yutudkfx
     verified: false
-    hashtags: "#hazluzenelmundo, #tattoo, #model, #sexylegs"
-  - username: "maleja__fitness"
+    hashtags: "#elhoteldecali, #salsa, #latino, #reels"
+  - username: "karinkipke"
     fullname: >-
-      ✨MalejaFitness✨
+      𝗞𝗮𝗿𝗶𝗻 𝗞𝗶𝗽𝗸𝗲
     bio: >-
-      Bienvenidos a mi 🌎Fitness💗🍏🇨🇴 Mi marca @dynasty_fit 💣💯🔝 📍Embajadora @action.fitness Fitness coach @ecep_edu 🏋🏼‍♂️🚴‍♀️🏃🏼‍♀️
+      💗Bienvenida al club de las impostoras ✨En este perfil amamos ser nuestra versión más top | fashion lover | fitness lover |Inspo diaria
     location: "Colombia"
-    followers: 52431
-    engagement: 152
-    commentsToLikes: 0.213505
-    id: ck6ub52tt7ihr0j71agebuhxm
+    followers: 126085
+    engagement: 139
+    commentsToLikes: 0.051275
+    id: ck8t4j5tc6y5p0j781f6gllos
     verified: false
-    hashtags: "#bodybuilding, #powergirl, #rutinasdeejercicios, #bogotafitness"
-  - username: "nattynatooo"
+    hashtags: "#girlboss"
+  - username: "dani_medinag"
     fullname: >-
-      Natalia Carrasco Sanhueza
+      Daniela Medina
     bio: >-
-      🇨🇱 Cuenta Oficial @elbaul_dela_natty @casaspremadesantiago Agradecida ❤️ Mamá 👧 🐕 🐩🐈 Cosmetologa Artista Fitness Modelo
+      Única cuenta fitness lifestyle 💫 Modelo 🇨🇴 @danimedina_fitness
     location: "Colombia"
-    followers: 25906
-    engagement: 371
-    commentsToLikes: 0.043108
-    id: ckap7in9ok8i40i784t4ska85
+    followers: 995337
+    engagement: 123
+    commentsToLikes: 0.021791
+    id: ck5c7l8ir7qi70i11ml6ypyt3
     verified: false
-    hashtags: "#surdechile, #sol, #universo, #amor"
-  - username: "dahiabetancur"
+    hashtags: "#bangenergy, #energydrink, #publicidad, #ad"
+  - username: "isabellacubillos"
     fullname: >-
-      DaHiAnA BeTaNcUr  🌸 👀
+      Isabella Cubillos
     bio: >-
-      MEDELLÍN, COLOMBIA 🇨🇴 24/7 fitnesslife #dahiafit 💪🏻🏋🏻‍♀️💯 Gym + Crossfit 🔥 estilo de vida ❤️🥗 @distriledautomotriz 🚘🏍
+      Founder @symmetric.activewear 📍Bogotá, Colombia / Cali Fitness - Workouts - Lifestyle✨
     location: "Colombia"
-    followers: 25489
-    engagement: 133
-    commentsToLikes: 0.081514
-    id: ck5zpekqcsj620i14rtne7liv
+    followers: 108411
+    engagement: 125
+    commentsToLikes: 0.020116
+    id: ck8t6makke3v20j78m7phwtob
     verified: false
-    hashtags: "#bodyfitness, #lifestyle, #strongwomen, #bodygoals"
-  - username: "racolmenero"
+    hashtags: "#glutetraining, #cardioworkout, #legs, #postrefit"
+  - username: "_karlarodriguezr"
     fullname: >-
-      Ra Colmenero
+      Karla Rodriguez
     bio: >-
-      📍 CDMX 🏴‍☠️Co-Founder @tootoxicshop 🏋️‍♀️ Fitness coach @fvrclubmx 💻 Manager: @lulucasgar @pineapplemgmt 🚀 Social media ⬇️
+      Coach de Alimentación y Fitness 🏋️‍♀️ Vamos juntas por tu mejor versión ✨ Asesorías online ⬇️
     location: "Colombia"
-    followers: 48158
-    engagement: 99
-    commentsToLikes: 0.062561
-    id: ck5bwg654ln820i11cyisja0y
+    followers: 234639
+    engagement: 101
+    commentsToLikes: 0.003700
+    id: cl2fxspa2ndhy0i23i98v39y5
     verified: false
-    hashtags: "#men, #menstyle, #gym, #fitness"
+    hashtags: "#publicidad, #entrenamiento, #fitness, #rutinaejercicio"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Peru In 2023
+title: Top 10 Health TikTok Influencers In Peru In 2024
 description: >-
-  Find top health TikTok influencers in Peru in 2023. Most popular hashtags: #fyp #viral #parati #greenscreen.
+  Find top health TikTok influencers in Peru in 2024. Most popular hashtags: #fyp #viral #parati #greenscreen.
 platform: TikTok
 hits: 8
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 8 TikTok influencers like this in Peru for you to collaborate.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 8 TikTok influencers like this in Peru for you to pitch.
 profiles:
   - username: "acinetobacter"
     fullname: >-

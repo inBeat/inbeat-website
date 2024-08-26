@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Manchester In 2023
+title: Top 10 TikTok Influencers In Manchester In 2024
 description: >-
-  Find top TikTok influencers in Manchester in 2023. Most popular hashtags: #fyp #foryoupage #foryou #duet.
+  Find top TikTok influencers in Manchester in 2024. Most popular hashtags: #foryoupage #fyp #foryou #duet.
 platform: TikTok
-hits: 234
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our database holds 234 TikTok influencers like this in Manchester, United Kingdom for you to collaborate.
+hits: 238
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform has 238 TikTok influencers like this in Manchester, United Kingdom for you to pitch.
 profiles:
   - username: "olivia_._taylor"
     fullname: >-

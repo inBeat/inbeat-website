@@ -1,24 +1,36 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Colombia In 2023
+title: Top 10 Mothers Instagram Influencers In Colombia In 2024
 description: >-
-  Find top mothers Instagram influencers in Colombia in 2023. Most popular hashtags: #cuarentena #travel #beauty.
+  Find top mothers Instagram influencers in Colombia in 2024. Most popular hashtags: #motherhood #family #love #colombia.
 platform: Instagram
-hits: 38
+hits: 53
 text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our database has 38 Instagram influencers like this in Colombia for you to collaborate.
+text_bottom: inBeat holds 53 Instagram influencers like this in Colombia for you to connect with.
 profiles:
-  - username: "maracifuentes1"
+  - username: "camiavellam"
     fullname: >-
-      Mara Cifuentes
+      Camila Avella M🌞
     bio: >-
-      🧜🏽‍♀️ 🦀 🇨🇴 Mother @grupo4co 📍 direccionmoda@grupo4.co NY🇺🇸 @newiconny Pablo@newiconny.com
+      🇨🇴 Miss Universe Colombia 2023 @missuniversecolombiaorg Top 5 @missuniverse | Colombian model | Content creator | Tv hostess | Mother & Wife | 💛✨🌞
     location: "Colombia"
-    followers: 1155538
-    engagement: 241
-    commentsToLikes: 0.020808
-    id: ck13cafkgze140i192w2zwsap
+    followers: 1436157
+    engagement: 403
+    commentsToLikes: 0.007645
+    id: ck5c0pucztm3s0i11gxfqsu1r
     verified: true
-    hashtags: "#ad"
+    hashtags: "#camilaavellaesarkitect, #arkitect, #revistaal, #studiof"
+  - username: "neramniminde"
+    fullname: >-
+      Neram Nimindé-Dundadengar I Full Spectrum Doula
+    bio: >-
+      For the #wombandbeyond Multilingual, Intercultural & Authentic Companionship Mother of 4. Afro-German. @wombandbeyondpodcast
+    location: "Colombia"
+    followers: 19517
+    engagement: 470
+    commentsToLikes: 0.040195
+    id: ck5zp11y9rs7u0i146gec8dlx
+    verified: false
+    hashtags: "#hebamme, #wochenbett, #motheroffour, #doula"
   - username: "veztalone"
     fullname: >-
       Veztalone
@@ -31,18 +43,42 @@ profiles:
     id: ck5zpttoltbzr0i149l68bwtb
     verified: true
     hashtags: "#jamming, #xocolate, #laconga, #probandoshit"
-  - username: "lamadridd"
+  - username: "daniduqued"
     fullname: >-
-      @lamadridd 🇨🇴
+      Daniella Duque- Angel
     bio: >-
-      Mis productos ➡️ @shoplamadrid DM colaborations and promotion
+      Colombian📍Miami Lifestyle Influencer💙MOM 📧Collabs: danielladuqued3@outlook.es
     location: "Colombia"
-    followers: 108177
-    engagement: 102
-    commentsToLikes: 0.042822
-    id: ckf5v58ehncd90j23rxlfjao8
+    followers: 64356
+    engagement: 135
+    commentsToLikes: 0.081217
+    id: ck134ck56vs9a0i19zo5eqpdt
     verified: false
-    hashtags: "#2021, #covid, #quedateencasa, #baby"
+    hashtags: "#fourseasonshotel, #happiness, #outfitoftheday, #foodblogger"
+  - username: "la.sra.celin"
+    fullname: >-
+      CELIN GIRALDO
+    bio: >-
+      𝐀𝐬𝐞𝐬𝐨𝐫𝐚 𝐝𝐞 𝐌𝐨𝐝𝐚 𝐞 𝐈𝐦𝐚𝐠𝐞𝐧 🇨🇴 40% de mi vida ,Trabajo y💃🏼 Entrenamiento 💪🏻en Mis reels @glampingnieblasdedapa @garajede.lasracelin Mamá👧🏻👦🏼🧑🏽‍🦱
+    location: "Colombia"
+    followers: 98161
+    engagement: 83
+    commentsToLikes: 0.316228
+    id: ck5c0phsqtlbp0i113o732qkp
+    verified: true
+    hashtags: "#ootd, #motherhood, #style, #fashion"
+  - username: "oscarcordoba_"
+    fullname: >-
+      Oscar Córdoba
+    bio: >-
+      Ex-arquero de la Selección Colombia. América,Boca,Millonarios,Cali, Nacional,Once Caldas,Quindío,Perugia,Beşiktaş y AntalyaSport, ESPN Radio
+    location: "Colombia"
+    followers: 257486
+    engagement: 77
+    commentsToLikes: 0.064281
+    id: ck0uabhnpbrrc0i19e5h82wba
+    verified: true
+    hashtags: "#futbol, #conmebol, #yajuego, #mothersoccer"
   - username: "fancyfitfun"
     fullname: >-
       𝕔𝕒𝕣𝕠𝕝𝕚𝕟𝕒 ✩ 𝕤𝕒𝕞𝕡𝕖𝕣 ®
@@ -67,64 +103,28 @@ profiles:
     id: ck1385b2qejyp0i19z3a0mbx9
     verified: false
     hashtags: "#womenartists, #jimenalloreda, #sexualidad, #dilocondibujos"
-  - username: "colombiajero"
+  - username: "fabrianaarias"
     fullname: >-
-      🇨🇴 Colombiajero 🇨🇴
+      Fabriana Arias
     bio: >-
-      🇨🇴 10000% 🇨🇴 📩 Publicidad: colombiajero@gmail.com Sígame si le gusta el AJIACO 🔥 Apasionado por los paisajes de Colombia, viajes y la comida 🐽
+      🎖️18 World Champion 🥇world Games 🐐GOAT 2022 Mamá y Esposa❣️ 📩Contacto: infofabrianaarias@gmail.com @byfabriarias.shop
     location: "Colombia"
-    followers: 15053
-    engagement: 488
-    commentsToLikes: 0.095099
-    id: ck14gpq666fh90i192n9xwbd1
+    followers: 82786
+    engagement: 442
+    commentsToLikes: 0.006278
+    id: ck6u3pflvz4870j71ru54fw5d
     verified: false
-    hashtags: "#instatravel, #laguajira, #antioquia, #pac"
-  - username: "yessenxaa"
+    hashtags: "#colombia, #skategirl, #fabrianaarias, #mamadealtorendimiento"
+  - username: "chdermatologia"
     fullname: >-
-      Yessenia Andrade
+      CLAUDIA HERNÁNDEZ
     bio: >-
-      ‘97 | Colombian & Cape Verdean BIG animal lover 🌱 📍: Rhode Island 📧: andradey10@yahoo.com God is good all the time. All the time God is good.
+      🇨🇴 Board-Certified Dermatologist • AAD 🇺🇸member •Injector💉•KOL & Global speaker 🌎 •Research🔬 •Lifestyle • Beauty 📲 +574443072 / 3006413849
     location: "Colombia"
-    followers: 63156
-    engagement: 184
-    commentsToLikes: 0.090517
-    id: ckaova9cd3pg30i785lpflyn0
+    followers: 122456
+    engagement: 733
+    commentsToLikes: 0.002903
+    id: ck0w71ryubc2d0i19xvjyd5io
     verified: false
-    hashtags: "#clearskin, #theme, #love, #curlsfordays"
-  - username: "valeayos"
-    fullname: >-
-      Valeria Ayos
-    bio: >-
-      Profesional en Relaciones Internacionales Miss Earth Water 2018
-    location: "Colombia"
-    followers: 29746
-    engagement: 674
-    commentsToLikes: 0.024975
-    id: ck0udiiz0j3dj0i19sbxx4rfe
-    verified: false
-    hashtags: "#prop, #greenlover, #tranquilidad, #tucomovives"
-  - username: "dianabermudez"
-    fullname: >-
-      Díana Bermudez (Dee•ana)
-    bio: >-
-      🔸British Actress 🔸 Indigenous Colombian Descent 🔸#ancestralhealing REPS: 🎭 Mondi Associates 🎤@damngoodvoices 🎥 Projects 👇🏽
-    location: "Colombia"
-    followers: 13447
-    engagement: 830
-    commentsToLikes: 0.056353
-    id: ck6uh9fnm7swa0j71e9ukxlij
-    verified: false
-    hashtags: "#emberachami, #actress, #representationmatters, #indigenouswomen"
-  - username: "mariadalmazzo"
-    fullname: >-
-      mariadalmazzo
-    bio: >-
-      🙏 Aprendiz 💫Viajera 🧘🏼‍♀️Amante del bienestar ⭐️Creadora de @mimosymimosas ✨Manager @deisymarroquin
-    location: "Colombia"
-    followers: 39318
-    engagement: 171
-    commentsToLikes: 0.026932
-    id: ck14ig057f7pz0i193f3i40v8
-    verified: true
-    hashtags: "#wellness, #loquehariamaria, #bienestar, #beautyexpert"
+    hashtags: "#lifestyle, #skincare, #fillers, #beauty"
 ---

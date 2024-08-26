@@ -1,12 +1,36 @@
 ---
-title: Top 10 Christian Instagram Influencers In Australia In 2023
+title: Top 10 Christian Instagram Influencers In Australia In 2024
 description: >-
-  Find top christian Instagram influencers in Australia in 2023. Most popular hashtags: #model #natgeo #photoshoot.
+  Find top christian Instagram influencers in Australia in 2024. Most popular hashtags: #model #nature #natgeo.
 platform: Instagram
-hits: 69
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 69 Instagram influencers like this in Australia for you to collaborate.
+hits: 99
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 99 Instagram influencers like this in Australia for you to collaborate.
 profiles:
+  - username: "missmolliezaharis"
+    fullname: >-
+      Mollie Zaharis 🪸
+    bio: >-
+      hii sunshine !! 🥹 welcome to my positive space, come as you are 🐛🦋 ethan’s wife 🫶🏽 christian model 🌷 buddy’s mama 🐶 jodiehs@chicbrisbane.com.au 🌈
+    location: "Australia"
+    followers: 52846
+    engagement: 144
+    commentsToLikes: 0.081239
+    id: ck55pobfmb0e10i11wiqqd8f7
+    verified: false
+    hashtags: "#kodakfilm, #healingispossible, #muki, #wholesome"
+  - username: "moosepainting"
+    fullname: >-
+      MoosePainting
+    bio: >-
+      Christian Manhard East coast painting I love what I do and take pride in my work! North Conway, NH 🏚+🎨👨‍🎨=🏠
+    location: "Australia"
+    followers: 115777
+    engagement: 47
+    commentsToLikes: 0.044539
+    id: cl4co0tvkokgd0i23w0ljjtoz
+    verified: false
+    hashtags: "#process, #sanding, #prep, #painting"
   - username: "krystalhipwell"
     fullname: >-
       Krystal
@@ -18,7 +42,7 @@ profiles:
     commentsToLikes: 0.038745
     id: ck0u7ht4d4qv70i197bu3aypa
     verified: true
-    hashtags: "#explantjourney, #mygirl, #ad, #huskyboy"
+    hashtags: "#ad, #explantjourney, #mygirl, #christisrisen"
   - username: "rhiannonkate__"
     fullname: >-
       Rhiannon Greenaway
@@ -67,6 +91,18 @@ profiles:
     id: ck5zpbdyescr40i14ccwurej1
     verified: false
     hashtags: "#agenerationready, #trinitywesternuniversity, #twulife, #inspiringheartsandminds"
+  - username: "christian_miller_photo"
+    fullname: >-
+      Christian Miller
+    bio: >-
+      Ocean loving Photographer 📷 Chocolate addict 🍫Filmmaker 🎬 Conservationist & Parley Australia 🌊🌊🌊support projects with my new children’s book 🐳 🐳🐳
+    location: "Australia"
+    followers: 102901
+    engagement: 84
+    commentsToLikes: 0.011165
+    id: ck0tyjg2vn33a0i199dqh44lv
+    verified: false
+    hashtags: "#greatbarrierreef, #reddigitalcinema, #oceanview, #nature"
   - username: "christianshay_"
     fullname: >-
       Christian Shay
@@ -78,19 +114,7 @@ profiles:
     commentsToLikes: 0.007174
     id: ck8wcx1mzd40y0j78vruwr66o
     verified: false
-    hashtags: "#sunsets, #streets, #oneplus, #moodygrams"
-  - username: "christian_miller_photo"
-    fullname: >-
-      Christian Miller
-    bio: >-
-      Ocean loving Photographer, Chocolate addict, Filmmaker, Conservationist & Parley Australia ~~~> support projects with my new children’s book ~~~>
-    location: "Australia"
-    followers: 47691
-    engagement: 269
-    commentsToLikes: 0.016959
-    id: ck0tyjg2vn33a0i199dqh44lv
-    verified: false
-    hashtags: "#christianmiller, #snotbot, #natgeo, #fortheoceans"
+    hashtags: "#bravogreatphoto, #shotzdelight, #oneplususa, #sunset"
   - username: "christianfletcher_gallery"
     fullname: >-
       Christian Fletcher | Fine Art
@@ -103,28 +127,4 @@ profiles:
     id: ck5c0s8a8tr5z0i11vcecishq
     verified: false
     hashtags: ""
-  - username: "evinmusgrove_"
-    fullname: >-
-      Evin N. Musgrove🇧🇸
-    bio: >-
-      🍋imitate christ. 🎤singer-songwriter 🏋🏽‍♀️sweaty foodie 👩🏽‍⚕️au’22 🌱loc’d 29.11.20 new single “LOUVRE” out everywhere!
-    location: "Australia"
-    followers: 2531
-    engagement: 1378
-    commentsToLikes: 0.100120
-    id: ck8sxg2k0h9kh0j7845n2bu06
-    verified: false
-    hashtags: "#spotify, #indiemusic, #behindthesong, #christianmusic"
-  - username: "nadiaperixo"
-    fullname: >-
-      N A D I A  P E R I 🦚
-    bio: >-
-      Aussie 🐨 in📍LA Leukaemia Survivor🇮🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇵🇱🇮🇪 BEAUTY || FASHION Content Creator 📧nadiapericontact@gmail.com 📧rebecca@bellamanagement.com.au DONATE⬇️
-    location: "Australia"
-    followers: 28165
-    engagement: 166
-    commentsToLikes: 0.085589
-    id: ck15q4qdz13970i1945z2p7hy
-    verified: false
-    hashtags: "#dior, #whatiwore, #persian, #laevents"
 ---

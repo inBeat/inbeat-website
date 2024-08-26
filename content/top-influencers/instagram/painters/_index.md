@@ -1,12 +1,24 @@
 ---
-title: Top 10 Painters Instagram Influencers In 2023
+title: Top 10 Painters Instagram Influencers In 2024
 description: >-
-  Find top painters Instagram influencers in 2023. Most popular hashtags: #contemporaryart #portrait #digitalart.
+  Find top painters Instagram influencers in 2024. Most popular hashtags: #contemporaryart #portrait #oilpainting #painting.
 platform: Instagram
-hits: 5020
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 5020 Instagram influencers like this for you to contact.
+hits: 10454
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 10454 Instagram influencers like this for you to connect with.
 profiles:
+  - username: "fabio_la_fauci"
+    fullname: >-
+      FABIO LA FAUCI
+    bio: >-
+      PAINTER
+    location: "Germany"
+    followers: 40583
+    engagement: 167
+    commentsToLikes: 0.019547
+    id: ck9wgzxtbvm6i0j788jv7za1x
+    verified: false
+    hashtags: "#fabiola, #hide, #seek, #oiloncanvas"
   - username: "ali_kiani_amin"
     fullname: >-
       Ali Kiani Amin
@@ -31,18 +43,6 @@ profiles:
     id: ck0vvwjtdr3700i190864f5g9
     verified: false
     hashtags: "#objects, #contemporaryart, #painting, #newromantics"
-  - username: "mad.dog.jones"
-    fullname: >-
-      Mad Dog Jones
-    bio: >-
-      PAINTER
-    location: "United States"
-    followers: 301259
-    engagement: 604
-    commentsToLikes: 0.013114
-    id: ck0vyxcgq68rl0i19g2cpa6qx
-    verified: true
-    hashtags: "#cyberpunk, #scifiart, #vaporwaveaesthetic, #pinkaesthetics"
   - username: "lolagil"
     fullname: >-
       Lola Gil
@@ -103,18 +103,6 @@ profiles:
     id: ck0vzrbqraj0m0i198edb3wwz
     verified: false
     hashtags: "#iloveanimals, #cuties, #freshmilk, #wholefoodsiscorperate"
-  - username: "silvioporzionato"
-    fullname: >-
-      Silvio Porzionato
-    bio: >-
-      Painter
-    location: "Italy"
-    followers: 31642
-    engagement: 374
-    commentsToLikes: 0.026373
-    id: ck14j1tuli7g80i19rkiojxdj
-    verified: false
-    hashtags: "#oiloncanvaspainting, #blackandwhite, #oliosutela, #repost"
   - username: "endmion1"
     fullname: >-
       이정석
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.008819
     id: ck1347wqyv5kg0i19700z500s
     verified: false
-    hashtags: "#winter, #corelpainter, #illustration, #stars"
+    hashtags: "#stars, #art, #photoshop, #butterfly"
+  - username: "kamillecorry"
+    fullname: >-
+      Kamille Corry
+    bio: >-
+      painter
+    location: "United States"
+    followers: 27306
+    engagement: 278
+    commentsToLikes: 0.021971
+    id: ck5cb47whep7w0i11ld6uivyk
+    verified: false
+    hashtags: "#drawing, #paintfromlife, #stilllife, #studiosale"
 ---

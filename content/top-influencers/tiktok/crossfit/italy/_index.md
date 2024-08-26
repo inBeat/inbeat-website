@@ -1,11 +1,11 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In Italy In 2023
+title: Top 10 Crossfit TikTok Influencers In Italy In 2024
 description: >-
-  Find top crossfit TikTok influencers in Italy in 2023. Most popular hashtags: #crossfit #perte #foryou #viral.
+  Find top crossfit TikTok influencers in Italy in 2024. Most popular hashtags: #crossfit #perte #foryou #neiperte.
 platform: TikTok
 hits: 10
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: inBeat has 10 TikTok influencers like this in Italy for you to work with.
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 10 TikTok influencers like this in Italy for you to pitch.
 profiles:
   - username: "giuliastime"
     fullname: >-
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.011839
     id: ck8s5j32wg35f0j780sxpywi1
     verified: false
-    hashtags: "#meme, #moto, #fun, #food"
+    hashtags: "#moto, #fun, #meme, #motocross"
 ---

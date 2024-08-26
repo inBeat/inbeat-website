@@ -1,12 +1,48 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Belgium In 2023
+title: Top 10 Makeup Instagram Influencers In Belgium In 2024
 description: >-
-  Find top makeup Instagram influencers in Belgium in 2023. Most popular hashtags: #makeup #belgium #100daysofmakeup #makeuptutorial.
+  Find top makeup Instagram influencers in Belgium in 2024. Most popular hashtags: #makeup #100daysofmakeup #hudabeautyshop #makeupartist.
 platform: Instagram
-hits: 25
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 25 Instagram influencers like this in Belgium for you to pitch.
+hits: 46
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 46 Instagram influencers like this in Belgium for you to work with.
 profiles:
+  - username: "peggytimmermans"
+    fullname: >-
+      Makeup artist Peggy Timmermans
+    bio: >-
+      💄 makeup artist ❤️ @boostjouwmakeupbusiness 💋 @theblendboxbeauty 🔺#teamtimmermans BE0730391984 - info@peggytimmermans.be
+    location: "Belgium"
+    followers: 21075
+    engagement: 424
+    commentsToLikes: 0.028227
+    id: ck5zixp6lgkbg0i14t89flguw
+    verified: false
+    hashtags: "#ad, #embraceage, #embraceyourage, #mayerlinebrussels"
+  - username: "maureennaudts"
+    fullname: >-
+      Maureen Alexandra Naudts
+    bio: >-
+      ► Pro MUA ► Antwerp, BE 🇧🇪 ► APPOINTMENTS & WORKSHOPS: makeup@maureennaudts.com ► COLLABS / PR 📩 : info@maureennaudts.com
+    location: "Belgium"
+    followers: 521389
+    engagement: 126
+    commentsToLikes: 0.009541
+    id: ck0w050gmceps0i195vhirzz6
+    verified: false
+    hashtags: "#makeuptransformation, #makeupcreators, #makeupreels, #makeupartist"
+  - username: "nika_adrian_holland"
+    fullname: >-
+      Negar Habibzadeh
+    bio: >-
+      Ⱀɾ꤀ძᥙсե ɾꤕⱱ౹ꤕⱎ.ꡘ꤀ⰿꤕ ძꤕс꤀ɾ, ե꤀ყ⳽,ძɾꤕ⳽s DM collab🤝 🛍️italist Code: RF-220X-9DE75A 📍Netherlands 🇳🇱🇧🇪 @negar_makeup1 @nikaadrian_toysreview @nika_ehtemam
+    location: "Belgium"
+    followers: 945475
+    engagement: 11
+    commentsToLikes: 0.001318
+    id: ck9wior1t38u70j7842cxqkfp
+    verified: false
+    hashtags: "#italistbyou, #peutereyjacket, #perfect, #italy"
   - username: "douniaaerts"
     fullname: >-
       Dounia Aerts
@@ -55,18 +91,18 @@ profiles:
     id: ck55j0jkwvyky0i11g9mgxj35
     verified: false
     hashtags: "#blackouttuesday, #shootwithiphonexr"
-  - username: "eliantha_"
+  - username: "julesstagrm"
     fullname: >-
-      LOOKS OF ELIANTHA.
+      Julie Boone
     bio: >-
-      𝑺𝒉𝒂𝒓𝒊𝒏𝒈 𝒎𝒚 𝒍𝒐𝒐𝒌𝒔 | #fashionblogger #outfitinspiration 📍 Belgium 💍 @aboutthebothofus ✉️ Collabs: eliantha_vonck@hotmail.com
+      ☁️Freelance model | Content creator 🤍Manager @gentclinicbelgium 🕊 Web development @bsocialsolutions
     location: "Belgium"
-    followers: 8201
-    engagement: 631
-    commentsToLikes: 0.239722
-    id: ckaoy761cga610i78705l55z8
+    followers: 63824
+    engagement: 131
+    commentsToLikes: 0.046376
+    id: ck55lnc8v1zee0i11yg5l23fc
     verified: false
-    hashtags: "#makeup, #ootdinspiration, #whattowear, #whatiwore"
+    hashtags: "#holiday, #spring, #party, #style"
   - username: "namglam"
     fullname: >-
       Naomi
@@ -91,40 +127,4 @@ profiles:
     id: ck9we4xuwim2w0j78v0vej6vh
     verified: false
     hashtags: "#pinksky, #belgiangirl, #europefinest, #grandplacebrussels"
-  - username: "inesridane"
-    fullname: >-
-      Inès Ridane
-    bio: >-
-      ~ 🌍♈🌑🌒🌓🌔🌕🌖🌗🌘 ~ My mother language is dance 🌸 ~ 📧 : inesridanepro@gmail.com 📍Brussel, Belgium ~ YouTube ⤵️
-    location: "Belgium"
-    followers: 5109
-    engagement: 990
-    commentsToLikes: 0.060851
-    id: ck55lvw822kg90i110544dmuu
-    verified: false
-    hashtags: "#trust, #picture, #belgium, #hipsdontlie"
-  - username: "kenzovl"
-    fullname: >-
-      Kenzo Van Laeken
-    bio: >-
-      Bearded Belgian Beauty content creater⚡️Aquarius Can’t get enough? Here’s the link to my youtube channel!
-    location: "Belgium"
-    followers: 6634
-    engagement: 582
-    commentsToLikes: 0.182907
-    id: ck9wd1dbcdmeq0j78g7j3rtjo
-    verified: false
-    hashtags: "#wakeupandmakeup, #nyxcosmetics, #parfuma, #iciparisxlexclusive"
-  - username: "maureennaudts"
-    fullname: >-
-      Maureen Alexandra Naudts
-    bio: >-
-      ► Make-Up Artist ► Antwerp, BE 📍 ► @thebloggeragent ► COLLABS/PR 📩 : info@maureennaudts.com
-    location: "Belgium"
-    followers: 582367
-    engagement: 570
-    commentsToLikes: 0.005702
-    id: ck0w050gmceps0i195vhirzz6
-    verified: false
-    hashtags: "#thebump, #bumpdated, #skincare, #makeupreels"
 ---

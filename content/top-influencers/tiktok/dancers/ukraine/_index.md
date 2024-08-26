@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Ukraine In 2023
+title: Top 10 Dancers TikTok Influencers In Ukraine In 2024
 description: >-
-  Find top dancers TikTok influencers in Ukraine in 2023. Most popular hashtags: #dance #ukraine #duet.
+  Find top dancers TikTok influencers in Ukraine in 2024. Most popular hashtags: #dance #duet #ukraine.
 platform: TikTok
 hits: 8
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine has 8 TikTok influencers like this in Ukraine for you to pitch.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 8 TikTok influencers like this in Ukraine for you to work with.
 profiles:
   - username: "tao_apa"
     fullname: >-

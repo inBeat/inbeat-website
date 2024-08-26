@@ -1,57 +1,45 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Montreal In 2023
+title: Top 10 Photographers Instagram Influencers In Montreal In 2024
 description: >-
-  Find top photographers Instagram influencers in Montreal in 2023. Most popular hashtags: #montreal #beauty #canada.
+  Find top photographers Instagram influencers in Montreal in 2024. Most popular hashtags: #montreal #mtlmoments #canada.
 platform: Instagram
-hits: 23
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 23 Instagram influencers like this in Montreal, Canada for you to contact.
+hits: 37
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 37 Instagram influencers like this in Montreal, Canada for you to connect with.
 profiles:
-  - username: "chelseyboll"
+  - username: "kirstenwendlandt"
     fullname: >-
-      Chelsey
+      Kirsten // Canadian based Travel 🇨🇦
     bio: >-
-      🏳️‍🌈 She/they Photographer & model 🇨🇦 Montreal @plutinomodels @housmanagement 📸 For more photography follow @chelseyshoots
+      ✈️ Montreal based Travel & Lifestyle 🌎 I post more on @inspiredbyhertravels 💌 hello@kirstenwendlandt.com ⬇️ Travel Guides & Links ⬇️
     location: "Canada"
-    followers: 24356
-    engagement: 452
-    commentsToLikes: 0.025977
-    id: ck14hulfoc7xx0i196wyvjqwn
+    followers: 51325
+    engagement: 128
+    commentsToLikes: 0.086488
+    id: ck0w081wycumh0i192o2w07bs
     verified: false
-    hashtags: "#3dart, #mentalhealthmonday, #bpd, #bpdthings"
-  - username: "saydejabraphotography"
+    hashtags: "#exploretheworld, #travelcanada, #explorecanada, #travelreels"
+  - username: "sandrinesanterre"
     fullname: >-
-      Photographer in Montreal 🇨🇦
+      Sandrine Santerre
     bio: >-
-      Fashion|Portrait|Food|Content Creator 📩 saydejabra@gmail.com 🍩 Food Shots @sissitable 🎬 Connect to @lestudiobysj 🛤️ On the road @onerideinlife
+      Content Creator | lifestyle, travel, fashion. Montréal , Canada. Photographer 📸 @muse.agencecreative sandrinesanterre@outlook.com
     location: "Canada"
-    followers: 24301
-    engagement: 252
-    commentsToLikes: 0.048929
-    id: ck14gw55z7bsz0i19djv9yas2
+    followers: 6226
+    engagement: 523
+    commentsToLikes: 0.085424
+    id: cktdxnz268mgi0j234zhlutff
     verified: false
-    hashtags: "#flashphotography, #saydejabraphotography, #fashion, #fashionstyle"
-  - username: "yasmeen.ghanavi"
-    fullname: >-
-      Yass 🌞
-    bio: >-
-      Montreal ⚑ Photographer, & lover of adventure ✈ Ambassadrice @tourismequebec ✨ 📩 yass@possible-media.com Portfolio @possible.media Bookings 👇🏽 📷
-    location: "Canada"
-    followers: 31340
-    engagement: 150
-    commentsToLikes: 0.053604
-    id: ck14iqmkbgqmh0i19m9u1rqch
-    verified: false
-    hashtags: "#quebeccite, #justeparfaite, #mybeigelife, #bonjourquebec"
+    hashtags: "#invitation, #iweargarage, #osheaga2022, #creatricedecontenu"
   - username: "arcpixel"
     fullname: >-
       Freddy | Montréal | 🇨🇦
     bio: >-
       Montreal Based Photographer & Designer. ⭐️DM for prints & inquires. 👁@arcpixel_portraits 🚁@df2mtl . . 📩 freddyarciniegas@gmail.com
     location: "Canada"
-    followers: 12392
-    engagement: 388
-    commentsToLikes: 0.043471
+    followers: 16103
+    engagement: 194
+    commentsToLikes: 0.039659
     id: ck5qaaqm4fez30i110h8mdq53
     verified: false
     hashtags: ""
@@ -67,18 +55,6 @@ profiles:
     id: ck14klj2oq3rc0i19d2x5yi9x
     verified: false
     hashtags: "#boeing, #windowseat, #deice, #lineup"
-  - username: "billiebopbillie"
-    fullname: >-
-      B I L L I E ☾
-    bio: >-
-      Model • MTL Paid bookings only Tiktok: billiebopbillie YouTube channel ☟︎
-    location: "Canada"
-    followers: 20494
-    engagement: 527
-    commentsToLikes: 0.014954
-    id: ck5hcjwwwigby0i11bcu7r0b9
-    verified: false
-    hashtags: "#followme, #photograph, #girl, #like4like"
   - username: "joaohguedes"
     fullname: >-
       Joao Guedes
@@ -102,7 +78,43 @@ profiles:
     commentsToLikes: 0.223157
     id: ck5pye0tuvkdp0i113byhatyf
     verified: false
-    hashtags: "#planet, #raw, #rawireland, #discoverourland"
+    hashtags: "#gameoftones, #raw, #irelandloves, #loveireland"
+  - username: "lindseygibeau"
+    fullname: >-
+      Lindsey Gibeau
+    bio: >-
+      HEADSHOT + PERSONAL BRAND PHOTOGRAPHER 📍Ottawa, CA @westborostudio *August - Montreal
+    location: "Canada"
+    followers: 3401
+    engagement: 219
+    commentsToLikes: 0.111036
+    id: clpron3ibahg90k089ibzgxmk
+    verified: false
+    hashtags: "#ottawaentrepreneurs, #personalbrandingphotographer, #ottawawomeninbusiness, #womensupportingwomen"
+  - username: "bylauragdiaz"
+    fullname: >-
+      Laura G. Diaz | Photographer & Aesthetician
+    bio: >-
+      📸 visual storytelling 🧖‍♀️ certified advanced aesthetician ♡ skincare for sensitive skin 📍 Montreal / Tiohtià:ke
+    location: "Canada"
+    followers: 2214
+    engagement: 853
+    commentsToLikes: 0.223488
+    id: ck13bok3gwepl0i19265dty97
+    verified: false
+    hashtags: "#centrephi, #consciousfashion, #dametraveler, #travelinladies"
+  - username: "mtlcharles"
+    fullname: >-
+      Charles |📍Montreal Food & Wine Blogger
+    bio: >-
+      Content Creator | Photographer | Writer Bridging Cultures with Food 🍜 Fashion👠 and Music 🎧 Celebrate Vietnamese Culture: @chodemmtl
+    location: "Canada"
+    followers: 6318
+    engagement: 328
+    commentsToLikes: 0.050088
+    id: clpdif5c1fdah0k08e92w73jk
+    verified: false
+    hashtags: "#mtlfoodie, #letseatcanada, #mtlresto, #mtlfood"
   - username: "belowtheblonde"
     fullname: >-
       Amanda Weldon
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.153474
     id: ck13alkzrqz230i19rjo4twu1
     verified: false
-    hashtags: "#belowtheblonde, #hamont, #ad, #scrunchies"
-  - username: "fernandolandinofficial"
-    fullname: >-
-      Fernando Landin
-    bio: >-
-      #Photographer #Fotógrafo #Photographe 📸 DM me for Prints / Rates / Info 📩 Available Worldwide ✈
-    location: "Canada"
-    followers: 25784
-    engagement: 269
-    commentsToLikes: 0.038658
-    id: ck15pv3kzzrza0i19b2vdvlnu
-    verified: false
-    hashtags: "#blackandwhitepics, #blackandwhiteforever, #blackandwhiteportrait, #mycalvins"
+    hashtags: "#belowtheblonde, #hamont, #ad, #biochic"
 ---

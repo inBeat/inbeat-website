@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Berlin In 2023
+title: Top 10 Travel TikTok Influencers In Berlin In 2024
 description: >-
-  Find top travel TikTok influencers in Berlin in 2023. Most popular hashtags: #fyp #foryou #berlin #travel.
+  Find top travel TikTok influencers in Berlin in 2024. Most popular hashtags: #fyp #berlin #foryou #travel.
 platform: TikTok
 hits: 20
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our database holds 20 TikTok influencers like this in Berlin, Germany for you to pitch.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 20 TikTok influencers like this in Berlin, Germany for you to collaborate.
 profiles:
   - username: "sebastianoschweitzer"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.010481
     id: cka0k7js1levm0i78k3od7gv7
     verified: false
-    hashtags: "#berlin, #aestheticjapan, #japan, #aesthetic"
+    hashtags: "#japan, #berlin, #tokyo, #aesthetic"
   - username: "mbp_mustbeplayed"
     fullname: >-
       MBP
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.057332
     id: ck83wunxpm8440j78ugpe3jn2
     verified: true
-    hashtags: "#lockdown, #turnaround, #challenge, #foryoupage"
+    hashtags: "#lockdown, #foryoupage, #upsidedown, #festival"
   - username: "manosaronis"
     fullname: >-
       Manos Aronis

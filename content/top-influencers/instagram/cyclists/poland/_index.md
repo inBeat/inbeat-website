@@ -1,12 +1,48 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Poland In 2023
+title: Top 10 Cyclists Instagram Influencers In Poland In 2024
 description: >-
-  Find top cyclists Instagram influencers in Poland in 2023. Most popular hashtags: #cycling #cyclist #rower #bike.
+  Find top cyclists Instagram influencers in Poland in 2024. Most popular hashtags: #cycling #cyclist #bike #bikegirl.
 platform: Instagram
-hits: 18
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database holds 18 Instagram influencers like this in Poland for you to connect with.
+hits: 20
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 20 Instagram influencers like this in Poland for you to collaborate.
 profiles:
+  - username: "kam.cycling"
+    fullname: >-
+      Kamila Panasiuk
+    bio: >-
+      Female cyclist. Currently dealing with cancer 🦀. Photographer @kamilapanasiuk.photostory ⬇️Check my books 📕
+    location: "Poland"
+    followers: 27293
+    engagement: 407
+    commentsToLikes: 0.037448
+    id: ck15q64s51aj50i19qkmzr63o
+    verified: false
+    hashtags: "#photographer, #cyclingadventures, #cyclingfashion, #cyclinglifestyle"
+  - username: "kasianiewiadoma94"
+    fullname: >-
+      Katarzyna Niewiadoma
+    bio: >-
+      ✨Polish Olympian 🚴🏻‍♀️Professional cyclist for @wmncycling 📍Andorra 🍪☕️🤎coffee, nut butter, baked goodies lover katarzynaniewiadoma@gmail.com
+    location: "Poland"
+    followers: 98977
+    engagement: 550
+    commentsToLikes: 0.006750
+    id: ck0twxtb8h7g50i199ufh8j3m
+    verified: false
+    hashtags: "#cycling, #tdffemmes, #skodapolska, #france"
+  - username: "jakubtruksa"
+    fullname: >-
+      Jakub Truksa
+    bio: >-
+      cyclist ✖️ ✖️ ✖️
+    location: "Poland"
+    followers: 18081
+    engagement: 398
+    commentsToLikes: 0.006225
+    id: ck5c8jjwd9mf30i117t2p3hev
+    verified: false
+    hashtags: "#trekmadone, #projectone, #trekprojectone, #pirelli"
   - username: "thewisemanpl"
     fullname: >-
       The Wise Man
@@ -19,18 +55,6 @@ profiles:
     id: ck9wdwgzbhkus0j78uw8r6vpq
     verified: false
     hashtags: "#chamonix, #swiss, #freeride, #kolarstworomantyczne"
-  - username: "ullalka"
-    fullname: >-
-      Urszula Łoś
-    bio: >-
-      Track Cyclist 🚴🏼‍♀️🇵🇱Champ 2010-2020 Track World Cup 2018🥉2019🥉🥈🥇2020🥈 🇯🇵 #RoadToTokyo 👩🏻‍🍳 @sielskilos ⛽️ @pkn.orlen 🏋️‍♀️ @trecnutrition
-    location: "Poland"
-    followers: 9733
-    engagement: 923
-    commentsToLikes: 0.020643
-    id: ck6tr432ywtdl0j715u93kevb
-    verified: false
-    hashtags: "#power, #bike, #positiveenergy, #hobby"
   - username: "benedetti_cesare"
     fullname: >-
       Cesare Benedetti
@@ -43,18 +67,6 @@ profiles:
     id: ck15uypa4p49w0i1968k78r0m
     verified: false
     hashtags: "#apeman4k, #karpos, #borahansgrohe, #apeman"
-  - username: "marta_swiatlon"
-    fullname: >-
-      Marta Swiatlon
-    bio: >-
-      Polish🇵🇱-German🇩🇪| Cyclist | Great things never came from comfort zones! @rose_bikes
-    location: "Poland"
-    followers: 94753
-    engagement: 372
-    commentsToLikes: 0.009472
-    id: ck0u8s9ra86cl0i19vvkq88ph
-    verified: false
-    hashtags: "#lookprogoslow, #sportful, #parisouplesseride, #kaskhelmets"
   - username: "swiatlo_i_brzask"
     fullname: >-
       Olga de Żbik - solo na szlaku
@@ -67,6 +79,30 @@ profiles:
     id: ckf5xl2gvw1l80j23efmk51sz
     verified: false
     hashtags: "#zima, #mountainsview, #halarysianka, #halaboracza"
+  - username: "kateosia"
+    fullname: >-
+      ＫＡＳＩＡ •ＯＳＩＡＤＡＣＺ
+    bio: >-
+      Cycling MTB ✖️Road bike Ambasador @ktmrowery
+    location: "Poland"
+    followers: 18605
+    engagement: 875
+    commentsToLikes: 0.023517
+    id: ck9hcj3i2lnl20j78aqystq01
+    verified: false
+    hashtags: "#roadbike, #velo, #bikelife, #mtb"
+  - username: "edyta_alenowicz_"
+    fullname: >-
+      E Anna 🇵🇱
+    bio: >-
+      @allblck.cc 🖤 @montonsports 15% - FXEdyta15 @komonbikes 10% - edyta10 @redlinecompl 11% - rl-edyta @igpsport_poland 10% - EDYTA sklep.trezado.pl
+    location: "Poland"
+    followers: 71170
+    engagement: 249
+    commentsToLikes: 0.076813
+    id: ck0u8saox86gc0i19693zgy9p
+    verified: false
+    hashtags: "#bikewoman, #mtbgirlsride, #zachodniopomorskie, #wiezawidokowa"
   - username: "roverova_girl"
     fullname: >-
       Justyna 🇵🇱
@@ -79,18 +115,6 @@ profiles:
     id: ckap584p4als00i78ufngwstf
     verified: false
     hashtags: "#spring, #toru, #girlride, #instabike"
-  - username: "agapatoka"
-    fullname: >-
-      Szefowa szkółki kolarskiej
-    bio: >-
-      🔥 Opanuj ze mną jazdę MTB 🚵‍♀️ Moja szkółka @agapatoka_szkolka 🔧 Partner @abcsurf.pl / @bikebysg / @abus_polska 📕do piątku za 29 zł👇
-    location: "Poland"
-    followers: 10745
-    engagement: 772
-    commentsToLikes: 0.018312
-    id: ck15uyozhp48n0i19bnthwv6o
-    verified: false
-    hashtags: "#checkpoint, #kolarstwo, #poland, #cyclinggirl"
   - username: "roweroweblizniaczki"
     fullname: >-
       Bicycle twins
@@ -103,28 +127,4 @@ profiles:
     id: ck9hbieu9gywr0j78r6cocv8n
     verified: false
     hashtags: "#bmcpolska, #zwillingsm, #abuscycling, #mybmc"
-  - username: "kateosia"
-    fullname: >-
-      ＫＡＳＩＡ✖️ＯＳＩＡＤＡＣＺ
-    bio: >-
-      ——————————————————————————— @damnn.cc 📩 kateosiiia@gmail.com 🇵🇱𝙿𝚘𝚕𝚊𝚗𝚍
-    location: "Poland"
-    followers: 6238
-    engagement: 1511
-    commentsToLikes: 0.016702
-    id: ck9hcj3i2lnl20j78aqystq01
-    verified: false
-    hashtags: "#ride, #lazer, #szosa, #powder"
-  - username: "lewytrinuje"
-    fullname: >-
-      Maciej Lewandowski🇵🇱
-    bio: >-
-      🏃🏻🚴🏼🏊🏼 🏔 🗺⛷🍕 ⚡️1/4 2:02:19⚡️1/2 4:23:17 ⚡️IM 9:27:11 💥5K:18:00💥10K:36:18 💥HM:1:21:49💥M:2:57:27 -15% MACIEK15 @sunbarrel.pl -15% ALOHA @powergym_polska
-    location: "Poland"
-    followers: 10217
-    engagement: 494
-    commentsToLikes: 0.014827
-    id: ckap2pxa0zt6l0i787gjwvisx
-    verified: false
-    hashtags: "#trenazer, #mamcel, #kolarz, #cycling"
 ---

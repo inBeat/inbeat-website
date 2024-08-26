@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In India In 2023
+title: Top 10 Health Instagram Influencers In India In 2024
 description: >-
-  Find top health Instagram influencers in India in 2023. Most popular hashtags: #reelsindia #reelsinstagram #reels #style.
+  Find top health Instagram influencers in India in 2024. Most popular hashtags: #explore #explorepage #fashion #india.
 platform: Instagram
-hits: 1516
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 1516 Instagram influencers like this in India for you to contact.
+hits: 1985
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 1985 Instagram influencers like this in India for you to work with.
 profiles:
-  - username: "oh.so.delish"
+  - username: "dr.chaithra_shetty"
     fullname: >-
-      Priyanjali | Food Photographer
+      Chaithra R Shetty |Yoga|Travel |Parenting|
     bio: >-
-      #healthyrecipes DM for Food/product shoot | recipe development 🎥 Recipe videos 🏡 #mumbai 📧 ohsodelishblog@gmail.com Learn to bake healthy at home👇
+      NATUROPATHY & YOGA DOCTOR❤️|CHILDBIRTH EDUCATOR FITNESS|HEALTH|TRAVEL|PARENTING|BABY FOOD| -Pre&Postnatal Expert DM for Online Yoga&fitness sessions.
     location: "India"
-    followers: 5459
-    engagement: 392
-    commentsToLikes: 0.334840
-    id: ck0w1hmsnje580i19fttmqidv
+    followers: 25994
+    engagement: 2007
+    commentsToLikes: 0.019986
+    id: ck13cao4wzf370i19e4dv3gzb
     verified: false
-    hashtags: "#hautecuisines, #bakestagram, #mumbaifoodicious, #myopenkitchen"
-  - username: "ifbbpro_jkaliwala"
+    hashtags: "#yogaleggings, #yogaeveryday, #pregnantlife, #yogachallenge"
+  - username: "shefalisood13"
     fullname: >-
-      Junaid Kaliwala
+      Shefali Sood
     bio: >-
-      🥇First MP IFBBPRO FROM🇮🇳 ❤️HAPPY, HEALTHY, LOVED 📍BUILDING @sourceofsupplements @dopesports.in @alpinohealthfoods @beyond_gummies @bubble_up_nutrition
+      You are your destiny, You are Infinite✨ Actor🎬 Miss Diva 2019 👑 Shop @houseofthriftbyss Mental Health First 🌌📚💃🏻🪷
     location: "India"
-    followers: 333970
-    engagement: 247
-    commentsToLikes: 0.010723
-    id: ck5hrf80lurx60i11laqzr2nh
-    verified: true
-    hashtags: "#gentleman, #health, #calmsekaam, #fitfam"
-  - username: "bangalorefoodiee"
-    fullname: >-
-      Bangalore foodie
-    bio: >-
-      "EAT HEALTHY STAY HEALTHY" ◼️Founder :- @aryan.gautam.773 ◼️Contact :- 9131685391 Use #bangalorefoodiee to get featured DM FOR REVIEW
-    location: "India"
-    followers: 126103
-    engagement: 108
-    commentsToLikes: 0.011297
-    id: ckap1gb70uh2m0i78zv0t0yv2
+    followers: 125321
+    engagement: 651
+    commentsToLikes: 0.020688
+    id: ck5bvg8bijl8k0i11gvv5m0vo
     verified: false
-    hashtags: "#bengalurudays, #bangalorefood, #bengalurudiaries, #reels"
-  - username: "shamasikander"
+    hashtags: "#actor, #writersofinstagram, #fashion, #new"
+  - username: "makeupbyvanshikaa"
     fullname: >-
-      Shama Sikander
+      Vanshika Singh Shekhawat | Content Creator
     bio: >-
-      Managed by:- @celeb_connect. Collabs:- celebconnect@whiteleafent.net Actor | Producer | PublicFigure | Mental Health Advocate😇
+      squint 👁️ ,🍐shaped, 🪷freckles queen 🤎brown girl 👩🏻‍💻ui/ux designer 🪞all things bollywood 🧚🏻we only do #nofilter looks makeup|lifestyle|mental health
     location: "India"
-    followers: 3099668
-    engagement: 72
-    commentsToLikes: 0.018917
-    id: ck15pyd4208tk0i19x8fszhp1
-    verified: true
-    hashtags: "#looks, #spreadlove, #fashionstyle, #positivevibes"
-  - username: "tamarawebb_"
-    fullname: >-
-      TAMARA WEBB 💫
-    bio: >-
-      Founder of @thebalancequeen LIFESTYLER•TRAVELLER•BELIEVER 👸 Wife & Mummy to 🧚‍♂️ 🌹 Healthy Cooking #balance 🥑 Fitness 😀 tw@tamarawebb.com
-    location: "India"
-    followers: 56494
-    engagement: 647
-    commentsToLikes: 0.010663
-    id: ck8tavj66t8pm0j7872g8sxdw
+    followers: 13974
+    engagement: 1057
+    commentsToLikes: 0.198197
+    id: ck9worwhm6chk0j78nqy3cf6o
     verified: false
-    hashtags: "#healthyrecipes, #gold, #gabadiamonds, #mumanddad"
-  - username: "simer__12"
+    hashtags: "#easymakeup, #brownlipstick, #navratrimakeup, #foryoupage"
+  - username: "vrittikhawani"
     fullname: >-
-      𝓢𝓲𝓶𝓮𝓻 ✪
+      Vritti Khawani | Food + Travel + Lifestyle
     bio: >-
-      LIVING LIFE ON MY OWN TERMS 🤙🏼 | Indian🇮🇳 | Health & Fitness 💪🏻| Risk Taker | Dreamer 💭 | Free Spirit 🦅| Birthday- 27th April
+      I share Food & Travel experiences I want it, I got it 💁🏻‍♀️ New videos daily 💯 Healthy laddoos: @tastheory Mom to @naamduke Donate @aarf_official
     location: "India"
-    followers: 195218
-    engagement: 518
-    commentsToLikes: 0.022255
-    id: ck8wf5b52f5f90j780ih1smk8
+    followers: 130936
+    engagement: 832
+    commentsToLikes: 0.016803
+    id: ck5hkyp5vj9i90i1135gs29jf
     verified: false
-    hashtags: "#picoftheday, #model, #instagood, #style"
-  - username: "ninakmandal"
+    hashtags: "#energy, #cocacolafoodmarks, #ad, #recipeformagic"
+  - username: "yoganama"
     fullname: >-
-      Nina Kant Mandal💋
+      Namita Chandra Piparaiya | Wellness Guide
     bio: >-
-      🇳🇵Nepali 🇷🇺Russian 🇮🇳Indian 👑 Miss Universe Nepal 2020 2nd Runner Up 👑 Miss Asia Russia 2018 ❤️ She Speaks ✨ Mental health matters @mindswastha Tiktok
+      🌱 I simplify complex health and wellness topics ⭐️ Specialising in Stress Management, Diabetes Prevention & Mindfulness (MBSP)
     location: "India"
-    followers: 10882
-    engagement: 677
-    commentsToLikes: 0.058078
-    id: ck5cdolzyjic50i118itw6881
+    followers: 284730
+    engagement: 1501
+    commentsToLikes: 0.028523
+    id: ckaoqory8jo1l0i78kz6fu65k
     verified: false
-    hashtags: "#indianmodel, #happy, #trend, #model"
-  - username: "trend.in.myway"
+    hashtags: "#diabetesprevention, #diabetesawareness, #diabetes, #insulinresistance"
+  - username: "guradeshmann"
     fullname: >-
-      Neha Shaw
+      Guradesh Mann
     bio: >-
-      I'm here to share GOOD things about B.B.B Baby-Parenting | Body-Fitness | Bread-Healthy food Mom to @anaisha.says Collab - 📩 Trendinmyway@gmail.com
+      -Lifestyle & Contest Prep Coach -Physio (Dip. in Orthopaedic Medicine) - Courses @gm.fitness.education @gmstrengthseries @healthwizardofficial
     location: "India"
-    followers: 147707
-    engagement: 116
-    commentsToLikes: 0.135460
-    id: ck14iyp6ihs5f0i19xt5u0w64
+    followers: 51837
+    engagement: 2112
+    commentsToLikes: 0.020303
+    id: ck6tnonrba9hv0j71hgphebgc
     verified: false
-    hashtags: "#bangalireinfluencers, #indianmomblogger, #bangaloreinfluencer, #reelsinsta"
-  - username: "manishayadavsuresh"
+    hashtags: "#guradeshmann, #parmishverma, #teamgm, #balreetmann"
+  - username: "_thedmk_"
     fullname: >-
-      Manisha Yadav
+      Disha Methi Khandelwal
     bio: >-
-      Cinephile for Quality Cinema ,Zoophilist 😍 ,Vegan🌱, Traveller and Mental Health Advocate
+      💃Half CA Turned Zumba Coach ⭐Expert at FUN FITNESS 🤩Transformed 1000+ Women 🏆 Sustainable Health Only
     location: "India"
-    followers: 63493
-    engagement: 723
-    commentsToLikes: 0.008545
-    id: ck15qawzx1yjz0i19pxexsg91
+    followers: 31942
+    engagement: 1538
+    commentsToLikes: 0.013702
+    id: ckto9uj10ez5o0j23l5a8eu49
     verified: false
-    hashtags: "#throwbackthursday, #manishayadav, #thursdaythoughts, #beyourself"
-  - username: "crismelo_rdg"
+    hashtags: "#fitnessforbeginners, #trend, #shooting, #sweatscience"
+  - username: "prakruthi_angelina"
     fullname: >-
-      Cristiane Melo
+      Prakruthi Angelina K
     bio: >-
-      🎓Estética e Cosmetologia @cristianemelo_spa 💻 Empreendedora 🎓Com. Empresarial 📸 Modelo ✈️ Trips 🏖Natureza🤪Yoga🏃🏻‍♀️Run 🐈 Pets🏋🏻‍♀️Gym🍎Healthy life
+      Writer-Artist-Worshipper-Psychologist-Know-it-all Teacher (jk I’m v humble) ☀️🌻🌿John 10:10 Life ✍️ @pebblesfrommyjourney faith + mental health
     location: "India"
-    followers: 11606
-    engagement: 327
-    commentsToLikes: 0.098318
-    id: ckap0x48xs73f0i78mitovfp4
+    followers: 19759
+    engagement: 485
+    commentsToLikes: 0.013577
+    id: ckf5mirwbtza90j23fvb94yan
     verified: false
-    hashtags: "#tbt, #riodejaneiro, #sunset, #quarentena"
+    hashtags: "#renewinghope, #awakeningtogod, #renewinghopepodcast, #mentalhealthpodcast"
+  - username: "laksh1t"
+    fullname: >-
+      Lakshit Sood ♥️
+    bio: >-
+      Yeh wahi ladka hai na jiski video log break up ke baad share krte hai #LoveYourself | Mental Health>> CS Engineer | 22
+    location: "India"
+    followers: 252276
+    engagement: 4630
+    commentsToLikes: 0.030262
+    id: ck14j2rlfic530i19v7mqqsyj
+    verified: false
+    hashtags: "#motivation, #india, #motivationalquotes, #love"
+  - username: "ashnaaasharmaa"
+    fullname: >-
+      Ashna Sharma | Mental Health
+    bio: >-
+      Fashion enthusiast & Counselling Psychologist mental health content @unboxyourmind.in Delhi 🔁 Mumbai
+    location: "India"
+    followers: 97942
+    engagement: 1165
+    commentsToLikes: 0.031503
+    id: clivee2jv2k5f0j083ndxjirv
+    verified: false
+    hashtags: "#ethnicwear, #wishlinked, #myntrahaul, #trendingsongs"
 ---

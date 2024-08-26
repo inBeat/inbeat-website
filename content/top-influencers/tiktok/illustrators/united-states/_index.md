@@ -1,11 +1,11 @@
 ---
-title: Top 10 Illustrators TikTok Influencers In United States In 2023
+title: Top 10 Illustrators TikTok Influencers In United States In 2024
 description: >-
-  Find top illustrators TikTok influencers in United States in 2023. Most popular hashtags: #art #artist #drawing #smallbusiness.
+  Find top illustrators TikTok influencers in United States in 2024. Most popular hashtags: #art #artist #drawing #smallbusiness.
 platform: TikTok
 hits: 98
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 98 TikTok influencers like this in United States for you to work with.
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine holds 98 TikTok influencers like this in United States for you to contact.
 profiles:
   - username: "jeffersonmuncy"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.035493
     id: ckacwebqxs7co0i78rs4s62su
     verified: false
-    hashtags: "#design, #drawing, #draw, #sketch"
+    hashtags: "#art, #artstruggles, #sketch, #draw"
   - username: "basuragang"
     fullname: >-
       basuragang
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.015024
     id: ckd6jk880cqj00j23rgxpnjh5
     verified: false
-    hashtags: "#nails, #gelnails, #cuteart, #smallbusiness"
+    hashtags: "#cuteart, #gelnails, #nails, #smallbusiness"
   - username: "sarbolton"
     fullname: >-
       Sar
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.063080
     id: ckbknurp9i1z50j23w9hgng0y
     verified: false
-    hashtags: "#timelapse, #fyp, #onevideoaday, #cecilofcleves"
+    hashtags: "#furryfandom, #sketch, #hazel, #pokemon"
   - username: "downrightsketchy"
     fullname: >-
       downrightsketchy
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.043450
     id: ckafvjv6ff5cr0i78b2op96cs
     verified: false
-    hashtags: "#dotwork, #foryou, #fyp, #drawing"
+    hashtags: "#art, #fy, #artist, #drawing"
   - username: "foreignmuse"
     fullname: >-
       KPAP🇧🇸
     bio: >-
       Romans 8:28 ✝️ Illustrator ✏️ Designer 👗 Crafter Shop links below ⬇️
     location: "United States"
-    followers: 7143
-    engagement: 2696
-    commentsToLikes: 0.044801
+    followers: 7067
+    engagement: 2684
+    commentsToLikes: 0.044149
     id: ckc81j85b2kg00j234xutwaij
     verified: false
-    hashtags: "#illustration, #fyp, #artist, #art"
+    hashtags: "#illustration, #fashion, #fyp, #artist"
 ---

@@ -1,12 +1,72 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Belgium In 2023
+title: Top 10 Athletes Instagram Influencers In Belgium In 2024
 description: >-
-  Find top athletes Instagram influencers in Belgium in 2023. Most popular hashtags: #teambelgium #belgium #olympics.
+  Find top athletes Instagram influencers in Belgium in 2024. Most popular hashtags: #cycling #motivation #athlete.
 platform: Instagram
-hits: 16
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 16 Instagram influencers like this in Belgium for you to work with.
+hits: 21
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 21 Instagram influencers like this in Belgium for you to pitch.
 profiles:
+  - username: "jakobing"
+    fullname: >-
+      Jakob A. Ingebrigtsen
+    bio: >-
+      🇳🇴 middle distance runner ✯ Olympic Champion 1500m 🥇🇯🇵 ✭ @nike athlete 👟 ✮ @corosglobal ⏱️ ✮ @vitaminwellnorge🥤 ❥ @elisabethassers 💍 & Filippa 👶🏻
+    location: "Belgium"
+    followers: 583503
+    engagement: 1235
+    commentsToLikes: 0.009964
+    id: ck0ucipczgzoa0i19vj150yeo
+    verified: true
+    hashtags: "#vitaminwell, #roma2024, #athletics, #teamingebrigtsen"
+  - username: "domi.hmn"
+    fullname: >-
+      Dominik Herrmann
+    bio: >-
+      law student by day, strava local legend by night for all the corporate athletes —— building @saltysportsclub Mt. 7:7-8
+    location: "Belgium"
+    followers: 88138
+    engagement: 400
+    commentsToLikes: 0.017398
+    id: clbew5fo70xg10j08d5n5wr53
+    verified: false
+    hashtags: "#triathlon, #munich, #trainwithcoros, #swimbikerun"
+  - username: "gifting517"
+    fullname: >-
+      Isak Gifting #517 🇸🇪
+    bio: >-
+      Professional Motocross Athlete
+    location: "Belgium"
+    followers: 16420
+    engagement: 1326
+    commentsToLikes: 0.014176
+    id: ck5c7fb6p7fe70i11261hipgp
+    verified: false
+    hashtags: "#bmmotorservice, #getinfront, #race, #gasgasscandinavia"
+  - username: "emma_meesseman"
+    fullname: >-
+      Emma Meesseman
+    bio: >-
+      ~ Olympian ~ Belgian Cat 🇧🇪😼🏀 ~ WNBA 🇺🇸 • Nike athlete
+    location: "Belgium"
+    followers: 50354
+    engagement: 1077
+    commentsToLikes: 0.017607
+    id: ck0ubs9wdf7xg0i198y8l345m
+    verified: false
+    hashtags: "#tokyo2020, #crelansport, #omdathetkan, #hayd"
+  - username: "tyjanibeztati"
+    fullname: >-
+      Tyjani Beztati
+    bio: >-
+      6 Time GLORY Lightweight World Champion 🏆 @venum Athlete @motionstudionl
+    location: "Belgium"
+    followers: 71249
+    engagement: 376
+    commentsToLikes: 0.036680
+    id: ck5pw1dt2kmn50i11demj0hry
+    verified: false
+    hashtags: "#boxing, #mma, #fighter, #boxer"
   - username: "oballsohard"
     fullname: >-
       Retin Obasohan
@@ -43,18 +103,6 @@ profiles:
     id: ck0w6m5vv98t80i19dl5dro82
     verified: false
     hashtags: "#bmxlife, #project91family, #bmxgirl, #sporten"
-  - username: "emma_meesseman"
-    fullname: >-
-      Emma Meesseman
-    bio: >-
-      ~ Belgian Cat 🇧🇪😼🏀 ~ UMMC Ekaterinburg 🇷🇺 ~ WNBA Washington Mystics 🇺🇸 Nike athlete
-    location: "Belgium"
-    followers: 31758
-    engagement: 1295
-    commentsToLikes: 0.013767
-    id: ck0ubs9wdf7xg0i198y8l345m
-    verified: false
-    hashtags: "#roadtotokyo2020, #basketballwithorange, #focusnext, #basketballbelgium"
   - username: "emilie_conter"
     fullname: >-
       Emilie Conter
@@ -79,52 +127,4 @@ profiles:
     id: ck6ubbawe8l0q0j71wacri4ea
     verified: false
     hashtags: "#fitness, #fitgirl, #fitlife, #fitfam"
-  - username: "walsh_53"
-    fullname: >-
-      Dylan Walsh
-    bio: >-
-      British born , New Zealand raised Professional motocross athlete Reigning British MX2 champion
-    location: "Belgium"
-    followers: 25103
-    engagement: 1385
-    commentsToLikes: 0.010004
-    id: ck14lsx1wwbg10i19p2zuo831
-    verified: false
-    hashtags: "#itsallintheprep, #onlyrevo"
-  - username: "philien_verhofstadt"
-    fullname: >-
-      Philien
-    bio: >-
-      • Belgian 🇧🇪 • Model 💋 • Athlete @aestheticwolfofficial • Guitarist 🎸 & Singer 🎤 • Maxime 💕 • UGent 📚
-    location: "Belgium"
-    followers: 6080
-    engagement: 1035
-    commentsToLikes: 0.032319
-    id: ckap0obpzr63f0i784s6w21rr
-    verified: false
-    hashtags: "#blondie, #carmodel, #belgiumsbestmodels, #happy"
-  - username: "ferland_mendy"
-    fullname: >-
-      Ferland Mendy
-    bio: >-
-      Real Madrid player @realmadrid France National Team 🇫🇷 @fff Adidas athlete @adidasfootball
-    location: "Belgium"
-    followers: 1550824
-    engagement: 866
-    commentsToLikes: 0.004496
-    id: ck5zpxa0ztj3m0i14uwcsna4k
-    verified: true
-    hashtags: "#equipedefrance, #halamadrid, #laliga, #fm23"
-  - username: "achabtkd"
-    fullname: >-
-      Jaouad Achab
-    bio: >-
-      Professional Taekwondo athlete 🏆 World champion - World ranked no.1 🥇2x Olympian, 3x euros & universiade champion 🇧🇪 @teambelgium - @adeps_officiel
-    location: "Belgium"
-    followers: 80127
-    engagement: 903
-    commentsToLikes: 0.012858
-    id: ck0w3pyviuoa40i19idyuk60u
-    verified: true
-    hashtags: "#taekwondo, #wilrijk, #trainingcamp, #teamachab"
 ---

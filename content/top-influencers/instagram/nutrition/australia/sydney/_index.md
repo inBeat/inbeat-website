@@ -1,12 +1,24 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Sydney In 2023
+title: Top 10 Nutrition Instagram Influencers In Sydney In 2024
 description: >-
-  Find top nutrition Instagram influencers in Sydney in 2023. Most popular hashtags: #sydney #australia #nutrition #fashion.
+  Find top nutrition Instagram influencers in Sydney in 2024. Most popular hashtags: #fitness #sydney #australia #nutrition.
 platform: Instagram
-hits: 8
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 8 Instagram influencers like this in Sydney, Australia for you to collaborate.
+hits: 17
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 17 Instagram influencers like this in Sydney, Australia for you to collaborate.
 profiles:
+  - username: "kikimorris"
+    fullname: >-
+      💫✨𝕂𝕀𝕂𝕀 𝕄𝕆ℝℝ𝕀𝕊 ✨💫
+    bio: >-
+      🌴Ibiza- Realestate & VIP Concierge 🙋🏼‍♀️Director - @darek_ibizalifestyle 💍 Mrs Darek 🛫Summer 2023 reservations ⬇️
+    location: "Australia"
+    followers: 98769
+    engagement: 101
+    commentsToLikes: 0.046148
+    id: cknebqe6yqvis0j23nzv262ue
+    verified: false
+    hashtags: "#ibizastyle, #ibizalifestyle, #islasbaleares, #formentera"
   - username: "ateaspoonofstyle"
     fullname: >-
       Tanaka Tarou
@@ -18,7 +30,31 @@ profiles:
     commentsToLikes: 0.218128
     id: ck15seuspcnp30i19ut0843ge
     verified: false
-    hashtags: "#doughnuts, #flatlays, #smashedavo, #beautifulcuisines"
+    hashtags: "#foodstyling, #sydneybars, #sydneylocal, #dapper"
+  - username: "stayc_simpson"
+    fullname: >-
+      Stacey Simpson 🌹
+    bio: >-
+      ANB Bikini Pro 👙 🏆 ASN National Athlete 💪🏻 @aust_sports_nutrition - (STACEY10) 🌸Travel🌏Fall In Love❤️Be Happy😃 📷👟 🥀 🐶Max & Mai
+    location: "Australia"
+    followers: 13702
+    engagement: 418
+    commentsToLikes: 0.032066
+    id: ckap5gadnbjy50i782l8l7pc6
+    verified: false
+    hashtags: "#asnsportsnutrition, #seasonb, #traveladdict, #drinks"
+  - username: "sophii_maree"
+    fullname: >-
+      SOPHIE MAREE HULL
+    bio: >-
+      🌎 Online fitness & nutrition coaching @ultra_bodies 👠 Pose with me @natkitneyposingcoach 💪🏼 @ruleoneproteins_au athlete
+    location: "Australia"
+    followers: 70287
+    engagement: 3505
+    commentsToLikes: 0.088005
+    id: clb9x8scx7oq90i23f02h4rwy
+    verified: false
+    hashtags: "#fitchick, #fitnessmumma, #fitfam, #rule1"
   - username: "helenasauzier"
     fullname: >-
       Helena Sauzier
@@ -31,6 +67,30 @@ profiles:
     id: ck5qaw04diji00i11jz9sz3wy
     verified: true
     hashtags: "#amazonaustralia, #christmasshop, #ad, #stircreativity"
+  - username: "nelleke.runs"
+    fullname: >-
+      Nelleke Gibson
+    bio: >-
+      Dutch 🇳🇱 Aussie 🇦🇺Former Track & Field Athlete 🔸 Certified USA Track coach 🔸 Certified nutrition science Stanford Discovering the world running!🌎👟
+    location: "Australia"
+    followers: 107130
+    engagement: 281
+    commentsToLikes: 0.016423
+    id: ckmw1h2om7zqc0j23yl0dkc7g
+    verified: false
+    hashtags: "#yourewelcome"
+  - username: "normasfooddiary"
+    fullname: >-
+      Norma's Food Diary
+    bio: >-
+      🌿🍉 For the love of Family, Friends & Food! 🍉🌿 🌿 CEO of my Kitchen 🌿
+    location: "Australia"
+    followers: 32498
+    engagement: 169
+    commentsToLikes: 0.179005
+    id: clibdaqgzw6qv0j08bdqprszd
+    verified: false
+    hashtags: "#desserts, #foodinspo, #f52, #treats"
   - username: "jennybeeen"
     fullname: >-
       Jenny Blenk | Content Creator
@@ -42,19 +102,7 @@ profiles:
     commentsToLikes: 0.205182
     id: ck5honakipv940i114q4oggvy
     verified: false
-    hashtags: "#ootd, #goldcoast, #fashiondiares, #health"
-  - username: "jamieazzopardi"
-    fullname: >-
-      Jamie Azzopardi (He/Him)
-    bio: >-
-      🇦🇺🇲🇹🏳️‍🌈🇧🇷🇺🇸 Celebrity Fashion Stylist + Culture Blogger Nomadic Gypsy • 90s Kid 📍Cadi (SYD) Music • Arts • Food • Lifestyle • Travel • Fashion
-    location: "Australia"
-    followers: 167803
-    engagement: 399
-    commentsToLikes: 0.013054
-    id: ck14l0irws96d0i19oitjaa2v
-    verified: false
-    hashtags: "#localsupply, #sneakers, #editorial, #australianfashion"
+    hashtags: "#healthylifestyle, #streetstyleluxe, #lifestyle, #australia"
   - username: "myvietnamesemum"
     fullname: >-
       My Vietnamese Mum
@@ -79,52 +127,4 @@ profiles:
     id: ck6trblj1y1oi0j71p5kynhho
     verified: false
     hashtags: "#gym, #onlinecoach, #glutes, #biomechanics"
-  - username: "unbeleafablefood"
-    fullname: >-
-      Jess - Vegan Food Melbourne
-    bio: >-
-      Sharing all the tasty food I eat in Melbourne! 🌱 Code JESS for 10% off @pickldit + @1potmealz 🤩 Email or DM me for recommendations 💛
-    location: "Australia"
-    followers: 7112
-    engagement: 531
-    commentsToLikes: 0.475509
-    id: ck5c6i25y5hac0i1100fgq43o
-    verified: false
-    hashtags: "#melbournedesserts, #vegains, #melbournefoodblogger, #vegan"
-  - username: "julesrobinson82"
-    fullname: >-
-      Jules
-    bio: >-
-      Live•Love•Embrace🧿 CEO• @figur_co For Women Reshaping The World 👶🏽 @babycubandladylumps 📞 @the.mgmt
-    location: "Australia"
-    followers: 730175
-    engagement: 169
-    commentsToLikes: 0.014438
-    id: ck1350vx9z4rw0i1935w8sh76
-    verified: true
-    hashtags: "#quotes, #lockdownlife, #quotesaboutlife, #quoteoftheday"
-  - username: "jeet_selal"
-    fullname: >-
-      Jeet Selal (Himalayan Stallion)
-    bio: >-
-      S & C, NUTRITION Coach🇦🇺 SPORT Management🇬🇧 FOUNDER Himalayan Stallion @hsf_expo @hsajeetselal ▪️KNOWLEDGE AMB @myproteinin
-    location: "Australia"
-    followers: 903396
-    engagement: 2262
-    commentsToLikes: 0.006091
-    id: ckapasgboxai50i78atufxlox
-    verified: false
-    hashtags: "#warrior, #reelsinstagram, #hsfexpo2023, #mahadev"
-  - username: "rubygracemarks"
-    fullname: >-
-      r u b y g r a c e
-    bio: >-
-      brisbane; @rebelliousgrace_bne - RUBY10 @shredders_nutrition - RUBY10
-    location: "Australia"
-    followers: 23763
-    engagement: 894
-    commentsToLikes: 0.052252
-    id: ckap2n0uwzk0o0i78zh5qva2i
-    verified: false
-    hashtags: "#billinibabes"
 ---

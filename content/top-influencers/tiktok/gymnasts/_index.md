@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In 2023
+title: Top 10 Gymnasts TikTok Influencers In 2024
 description: >-
-  Find top gymnasts TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #foryoupage.
+  Find top gymnasts TikTok influencers in 2024. Most popular hashtags: #foryou #foryoupage #fyp.
 platform: TikTok
-hits: 1137
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 1137 TikTok influencers like this for you to collaborate.
+hits: 1135
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 1135 TikTok influencers like this for you to connect with.
 profiles:
   - username: "shoaibgymnast786"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.138682
     id: ck90txtgzuceh0j782un6t8a6
     verified: false
-    hashtags: "#girlsnightout, #gymnastics, #fitmom, #storytime"
+    hashtags: "#storytime, #coach, #wisconsin, #girlsnightout"
   - username: "gymnastic.poland"
     fullname: >-
       🤸🏼♀️Gymnastics🤸🏻♂️

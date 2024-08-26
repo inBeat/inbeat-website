@@ -1,11 +1,11 @@
 ---
-title: Top 10 Singers TikTok Influencers In 2023
+title: Top 10 Singers TikTok Influencers In 2024
 description: >-
-  Find top singers TikTok influencers in 2023. Most popular hashtags: #duet #love #foryoupage.
+  Find top singers TikTok influencers in 2024. Most popular hashtags: #duet #foryoupage #love.
 platform: TikTok
-hits: 5156
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 5156 TikTok influencers like this for you to collaborate.
+hits: 5081
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform has 5081 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "raagnisinger_official"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.099001
     id: ckc931pmftuse0j23db089j3v
     verified: false
-    hashtags: "#jazz, #singer, #acting, #songwriter"
+    hashtags: "#singer, #songwriter, #acting, #love"
   - username: "monohar123"
     fullname: >-
       ram
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.084831
     id: ckcelwh8jvx590j23u6cnc1bx
     verified: false
-    hashtags: "#duet, #wweannouncercontest, #altblackgirl, #stitch"
+    hashtags: "#duet, #altblackgirl, #wweannouncercontest, #stitch"
   - username: "jacibutler"
     fullname: >-
       Jaci Butler
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.031182
     id: ck9ej7son17sq0j78hh6kezsa
     verified: true
-    hashtags: "#pickupline, #greenscreen, #finishthelyric, #linkinbio"
+    hashtags: "#duet, #drafts, #linkinbio, #planether"
   - username: "sanjaysinghkakran2"
     fullname: >-
       vsanjay kakraan
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.092484
     id: ckb9f5c8l39xx0j23rekdbi9k
     verified: false
-    hashtags: "#vairal, #duet, #tik, #forupage"
+    hashtags: "#tiktoklover, #tik, #careforyou, #foryou"
 ---

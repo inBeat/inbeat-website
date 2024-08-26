@@ -1,11 +1,11 @@
 ---
-title: Top 10 Wedding TikTok Influencers In 2023
+title: Top 10 Wedding TikTok Influencers In 2024
 description: >-
-  Find top wedding TikTok influencers in 2023. Most popular hashtags: #fyp #duet #photographer #foryoupage.
+  Find top wedding TikTok influencers in 2024. Most popular hashtags: #fyp #duet #foryoupage #photoshoot.
 platform: TikTok
-hits: 2941
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our database holds 2941 TikTok influencers like this for you to contact.
+hits: 2956
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 2956 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "mollyarieanna"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.021857
     id: ck90tzcjyupr30j7850oeets3
     verified: false
-    hashtags: "#boysinskirts, #kawaiimakeup, #kawaiigirl, #femboysarevalid"
+    hashtags: "#kawaiimakeup, #boysinskirts, #femboysarevalid, #kawaiigirl"
   - username: "aria.ready"
     fullname: >-
       AriaReady

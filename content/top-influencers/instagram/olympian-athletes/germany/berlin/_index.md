@@ -1,130 +1,130 @@
 ---
-title: Top 10 Olympian Athletes Instagram Influencers In Berlin in 2023
+title: Top 10 Olympian Athletes Instagram Influencers In Berlin In 2024
 description: >-
-  Find top olympian athletes Instagram influencers in Berlin in 2023. Most popular hashtags: #training #sport #motivation #athlete.
+  Find top olympian athletes Instagram influencers in Berlin in 2024. Most popular hashtags: #running #training #runnerslife #gym.
 platform: Instagram
-hits: 6
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 6 Instagram influencers like this in Berlin, Germany for you to contact.
+hits: 4
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 4 Instagram influencers like this in Berlin, Germany for you to collaborate.
 profiles:
-  - username: "nadja.pries"
-    fullname: >-
-      Nadja Pries | Athlete
-    bio: >-
-      🇩🇪BMX Racer 🎓Psychology 🇧🇷 2016 Olympian • Schamel Meerrettich • NOCCO Athlete • Pure Bicycle Company • Juwelier Winnebeck • Der Goldene Ring e.V.
-    location: "Germany"
-    followers: 7770
-    engagement: 1433
-    commentsToLikes: 0.021043
-    id: ck5q3an1mk0j60i1196bxnovq
-    verified: false
-    hashtags: "#bmxracing, #sportmotivation, #fitnessmotivation, #bmx"
   - username: "philipp.pflieger"
     fullname: >-
-      Philipp Pflieger
+      PHILIPP PFLIEGER
     bio: >-
-      🇩🇪 Professional Runner ⏱ Marathon 2:12:50h 🎖 2016 Olympian 💯 @adidas_de Athlete 🎽 @laufteamhamburg 📚 Author #LaufenAmLimit 🎙 #Bestzeit Podcast
+      RUNNER & CREATOR 💥 Marathon 2:12:15h | 2016 Olympian 💯 @adidas_de Athlete 🎽 @laufteamhamburg 🎙 @bestzeit.podcast 📚 #LaufenAmLimit
     location: "Germany"
-    followers: 20392
-    engagement: 741
-    commentsToLikes: 0.012820
+    followers: 23340
+    engagement: 644
+    commentsToLikes: 0.012175
     id: ck5c75pbp6v8b0i11qwtlf68p
     verified: true
-    hashtags: "#mondaymotivation, #bestzeit, #roadtovalencia, #adizeroadiospro"
-  - username: "_eisprinzessiiin_"
+    hashtags: "#sestriere, #teamcanova, #dreambig, #workhard"
+  - username: "lara_lessmann"
     fullname: >-
-      Michelle Uhrig
+      Lara Lessmann
     bio: >-
-      •3rd 🥉 European Championships •🇰🇷Olympian Pyeongchang 18 •speedskater german national team 🇩🇪 •3x German Champion 2017,2020🥇 •Berlin 🏠 👮🏼‍♀️
+      BMX athlete🌍🌴 23yo follow your dreams ☾ |olympian WC:3x🥇4x🥈3x🥉WORLDS🥈EC: 2x🥈 @redbullgermany @vans_europe @oakley @totalbmx @ridetsg @kunstformbmxshop
     location: "Germany"
-    followers: 8454
-    engagement: 973
-    commentsToLikes: 0.014428
-    id: ck0u6ev011r0h0i19dt2y07yv
-    verified: true
-    hashtags: "#badendorf, #island, #bpol, #polizei"
-  - username: "besart_m"
-    fullname: >-
-      Besart Miftaraj
-    bio: >-
-      🏆German Champ 2019 🇩🇪 🏆3x Mr. Universe 2019 Italy 🇮🇹 🏅Natural Mr Olympia Las Vegas competitior 🇺🇸 🚀💊 @smilodox | @neosupps ATHLETE (Besart10)
-    location: "Germany"
-    followers: 3430
-    engagement: 1297
-    commentsToLikes: 0.043953
-    id: ck5hq1b19sbqg0i1153grpobt
+    followers: 94219
+    engagement: 815
+    commentsToLikes: 0.011305
+    id: ck0u8lcq07mx10i19iize428i
     verified: false
-    hashtags: "#werbung, #fit, #smilodox, #fitness"
-  - username: "niko.kappel"
-    fullname: >-
-      NIKO KAPPEL
-    bio: >-
-      World record holder: 14,30m 🥇PARALYMPIC CHAMPION 🥇World Champion 2017 Shot Put | You never fail until you stop trying. (Albert Einstein) #bonsaipower
-    location: "Germany"
-    followers: 12978
-    engagement: 748
-    commentsToLikes: 0.011349
-    id: ck14gkwm45q3j0i1959oouf7o
-    verified: true
-    hashtags: "#workout, #athletics, #gym, #motivation"
+    hashtags: "#bmxgirl, #bmx, #olympics, #bmxfreestyle"
   - username: "kevin_kuske"
     fullname: >-
       KEᐯIᑎ KᑌᔕKE
     bio: >-
-      🥇4 x ᏫᒪᎩᗰᑭiᑕ ᑕᕼᗩᗰᑭισᑎ 🥈2 x ᏫᒪᎩᗰᑭiᑕ ᗰᏋᎴᎯᒪ 🏆7 x ᗯOᖇᒪᗪ ᑕᕼᗩᗰᑭIOᑎ 🔥ᐯ OᒪYᗰᑭIᑕ GᗩᗰEᔕ🌿 ♦️ᗰEᑎOᖴᗰᗩYᕼEᗰ13♦️ 💊 ᖇEᗩᒪ ᔕᑌᑭᑭᔕ ᗯIᑎᑎEᖇᔕᖴOOᗪ 🔐
+      TᖇᗩIᑎEᖇ 🏋🏽 ᗩTᕼᒪETIᑕ ᑕOᗩᑕᕼ ᗷOᗷᔕᑭOᖇT 🏃🏽🇩🇪 🥇4 x ᏫᒪᎩᗰᑭiᑕ ᑕᕼᗩᗰᑭισᑎ 🥈2 x ᏫᒪᎩᗰᑭiᑕ ᗰᏋᎴᎯᒪ 🏆7 x ᗯOᖇᒪᗪ ᑕᕼᗩᗰᑭIOᑎ 🔥ᐯ OᒪYᗰᑭIᑕ GᗩᗰEᔕ🌿 💊 ᖇEᗩᒪ ᔕᑌᑭᑭᔕ ᗯIᑎᑎEᖇᔕᖴOOᗪ 🔒👨‍👩‍👦
     location: "Germany"
-    followers: 15883
-    engagement: 608
-    commentsToLikes: 0.010016
+    followers: 14215
+    engagement: 407
+    commentsToLikes: 0.000638
     id: ck5hclmdmipgx0i111kio4m57
     verified: true
-    hashtags: "#ink, #legend, #justfitteds, #training"
+    hashtags: "#olympicchampion, #olympia, #oly, #olylegend"
+  - username: "besart_m"
+    fullname: >-
+      Besart Miftaraj
+    bio: >-
+      Men’s Physique PRO Athlete 🏆2x German Champ & Overall Champ🇩🇪 🏆3x Mr. Universe Italy🇮🇹 🏅Natural Mr Olympia Las Vegas competitor🇺🇸 @smilodox @neosupps
+    location: "Germany"
+    followers: 4671
+    engagement: 1408
+    commentsToLikes: 0.032595
+    id: ck5hq1b19sbqg0i1153grpobt
+    verified: false
+    hashtags: "#motivation, #athlete, #bodybuilder, #neosupps"
   - username: "darkredgrape"
     fullname: >-
       Anna Seidel 🕊
     bio: >-
-      2 times olympian + @redbull athlete short-track ⋮💫 #teamtoyota #zurichsportsteam ❁❁❁
+      2 times olympian + @redbull athlete short-track ⋮💫 #teamtoyota @axelent_sverige ❁❁❁
     location: "Germany"
-    followers: 31297
-    engagement: 717
-    commentsToLikes: 0.010479
+    followers: 32723
+    engagement: 821
+    commentsToLikes: 0.012171
     id: ck15t92dbgxgk0i19myxzl950
     verified: true
-    hashtags: "#greece, #greeceislands, #givesyouwings, #toyota"
+    hashtags: "#givesyouwings, #grateful, #europeanchampionship, #silver"
   - username: "simongeschke"
     fullname: >-
       Simon Geschke
     bio: >-
-      Racing bikes for @cccteam - Tour de France stage winner - Olympian - plantbased Athlete
+      Racing bikes for @teamcofidis - Tour de France stage winner - Olympian - plantbased Athlete - personalized video messages on @cameo 👇
     location: "Germany"
-    followers: 39997
-    engagement: 567
-    commentsToLikes: 0.010824
+    followers: 39816
+    engagement: 630
+    commentsToLikes: 0.010996
     id: ck6tr3y83wsj20j714vjn4nqi
     verified: true
     hashtags: ""
+  - username: "jacquelinewiles"
+    fullname: >-
+      Jacqueline Wiles
+    bio: >-
+      U.S. Alpine Skier🎿, 3x Olympian 🇺🇸 Pilot & @textronaviation athlete ✈️
+    location: "Germany"
+    followers: 13288
+    engagement: 657
+    commentsToLikes: 0.027680
+    id: ck0u93kww8ufe0i193t4nopoz
+    verified: true
+    hashtags: "#southamerica, #chile, #textronaviation, #stifelusskiteam"
   - username: "hoffmannbodybuilding"
     fullname: >-
       David Hoffmann
     bio: >-
       Bringing back the golden era💪 🏆IFBB Pro Champion 🏅Olympian 👉@esncom Athlete 👉@repone.de Athlete 👉@climaqx_ Athlete 👼Dad
     location: "Germany"
-    followers: 95695
-    engagement: 401
-    commentsToLikes: 0.015784
+    followers: 99598
+    engagement: 373
+    commentsToLikes: 0.015023
     id: ck0vv3m3gndz40i19bez1km1h
     verified: false
-    hashtags: "#shredded, #biceps, #climaqx, #bodypowerstudio"
-  - username: "lauramarie_mueller"
+    hashtags: "#bodybuilding, #teamrepone, #mostmuscular, #gorillawear"
+  - username: "philipp.pflieger"
     fullname: >-
-      Laura Müller
+      PHILIPP PFLIEGER
     bio: >-
-      2016 Olympian | Sprinter | @adidas_de athlete | @foodspring 15% Rabattcode: LauraFSG
+      RUNNER & CREATOR 💥 Marathon 2:12:15h | 2016 Olympian 💯 @adidas_de Athlete 🎽 @laufteamhamburg 🎙 @bestzeit.podcast 📚 #LaufenAmLimit
     location: "Germany"
-    followers: 27358
-    engagement: 759
-    commentsToLikes: 0.010230
-    id: ck6twxskjuppp0j71vttwaqm7
-    verified: false
-    hashtags: "#neverdone, #adidas, #hometeam, #trackgirl"
+    followers: 23340
+    engagement: 644
+    commentsToLikes: 0.012175
+    id: ck5c75pbp6v8b0i11qwtlf68p
+    verified: true
+    hashtags: "#sestriere, #teamcanova, #dreambig, #workhard"
+  - username: "konstanze.klosterhalfen"
+    fullname: >-
+      Konstanze Klosterhalfen
+    bio: >-
+      German Recordholder 🇩🇪 I Olympian 🏃‍♀️ I Nike Athlete I RedBull Germany 🐃 I Portland Oregon Contact & Requests: db@wertkonzept.com
+    location: "Germany"
+    followers: 79453
+    engagement: 1307
+    commentsToLikes: 0.010320
+    id: ck0tuk87q7je10i19v1oonmvv
+    verified: true
+    hashtags: "#run, #redbull, #running, #nike"
 ---

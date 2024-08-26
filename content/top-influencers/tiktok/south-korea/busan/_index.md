@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Busan In 2023
+title: Top 10 TikTok Influencers In Busan In 2024
 description: >-
-  Find top TikTok influencers in Busan in 2023. Most popular hashtags: #korea #busan #southkorea #seoul.
+  Find top TikTok influencers in Busan in 2024. Most popular hashtags: #korea #busan #seoul #southkorea.
 platform: TikTok
 hits: 10
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 10 TikTok influencers like this in Busan, South Korea for you to connect with.
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 10 TikTok influencers like this in Busan, South Korea for you to connect with.
 profiles:
   - username: "wookiemusic"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.010118
     id: ckcdugqjxejtj0j23q1hw5kh7
     verified: false
-    hashtags: "#sunsetlover, #tiktoktravel, #seoultravel, #traveltiktok"
+    hashtags: "#sunsetlover, #seoul, #moon, #aestetic"
   - username: "robyninsk"
     fullname: >-
       robyn 
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.017845
     id: ckb9qgaxgm9680j23bazbl0u1
     verified: false
-    hashtags: "#seoul, #germany, #kpop, #seoulkorea"
+    hashtags: "#koreanfashion, #seoullife, #spring, #koreaseoul"
   - username: "thatonewiccan"
     fullname: >-
       Matt

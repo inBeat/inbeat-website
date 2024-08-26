@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Boston In 2023
+title: Top 10 TikTok Influencers In Boston In 2024
 description: >-
-  Find top TikTok influencers in Boston in 2023. Most popular hashtags: #fyp #greenscreen #boston #foryoupage.
+  Find top TikTok influencers in Boston in 2024. Most popular hashtags: #fyp #greenscreen #foryoupage #boston.
 platform: TikTok
-hits: 634
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: inBeat has 634 TikTok influencers like this in Boston, United States for you to pitch.
+hits: 638
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 638 TikTok influencers like this in Boston, United States for you to contact.
 profiles:
   - username: "lilyvalenta"
     fullname: >-
@@ -73,9 +73,9 @@ profiles:
     bio: >-
       Boston, MA 🇻🇳 + 🇺🇸 + 🇫🇷 CEO of headbands
     location: "United States"
-    followers: 7112
-    engagement: 2774
-    commentsToLikes: 0.079709
+    followers: 6980
+    engagement: 2265
+    commentsToLikes: 0.124640
     id: ckcptm5kyoed30j23z0yzexos
     verified: false
     hashtags: ""
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.130740
     id: ckavrvmru445p0j237liz6hvu
     verified: false
-    hashtags: "#massachusetts, #dothescottsslide, #foryou, #itwasntme"
+    hashtags: "#college, #femme, #massachusetts, #art"
   - username: "bostonuprising"
     fullname: >-
       BostonUprising

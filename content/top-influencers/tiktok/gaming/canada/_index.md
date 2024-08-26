@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Canada In 2023
+title: Top 10 Gaming TikTok Influencers In Canada In 2024
 description: >-
-  Find top gaming TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryou #gaming #foryoupage.
+  Find top gaming TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #gaming #funny #viral.
 platform: TikTok
-hits: 966
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 966 TikTok influencers like this in Canada for you to collaborate.
+hits: 890
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 890 TikTok influencers like this in Canada for you to connect with.
 profiles:
   - username: "mrob29"
     fullname: >-
@@ -18,19 +18,19 @@ profiles:
     commentsToLikes: 0.143995
     id: ck8njn82eb58f0j7815ul8nz8
     verified: false
-    hashtags: "#leafsforever, #hockeytok, #toronto, #italiancheck"
+    hashtags: "#hockeytok, #toronto, #italiancheck, #leafsforever"
   - username: "mtcosplay"
     fullname: >-
       RBTZful
     bio: >-
       ROAD TO 10K 25🇨🇦 cosplay, memes, weightlifting, gaming, tatted trash goblin
     location: "Canada"
-    followers: 5112
-    engagement: 1319
-    commentsToLikes: 0.052439
+    followers: 5113
+    engagement: 1285
+    commentsToLikes: 0.045979
     id: ck9gm0ph4qgbr0j78xdlm13c1
     verified: false
-    hashtags: "#comedy, #foryou, #funny, #qualitycontent"
+    hashtags: "#stitch, #relatable, #qualitycontent, #duet"
   - username: "edgemonk"
     fullname: >-
       Edwin Joseph
@@ -43,6 +43,18 @@ profiles:
     id: ckb9ppa93kz840j2327cxnwxm
     verified: false
     hashtags: "#allstarmoment, #greenscreen, #femaleathelte, #ripkobe"
+  - username: "carter_reil"
+    fullname: >-
+      Creil625
+    bio: >-
+      Gaming Content 🇨🇦 | 19 CC Snap: Cman625 👇TWITCH👇
+    location: "Canada"
+    followers: 46300
+    engagement: 972
+    commentsToLikes: 0.054194
+    id: ck9nd0b0ocfnd0j78qu9j606j
+    verified: false
+    hashtags: "#viral, #modernwarfare, #warzone, #coldwar"
   - username: "sugarpawse"
     fullname: >-
       sugar pawse
@@ -79,18 +91,18 @@ profiles:
     id: ck9c5rb2mqolf0j78c864iz6s
     verified: false
     hashtags: "#fyp, #kermitontiktok, #foryoupage, #kermit"
-  - username: "epginformatique"
+  - username: "epgcomputers"
     fullname: >-
-      EPG Informatique
+      EPG Computers
     bio: >-
-      EPG Computers / EPG Informatique Gaming PCs
+      EPG Computers Gaming PC's in Canada Prices are in CAD$
     location: "Canada"
-    followers: 20900
-    engagement: 764
-    commentsToLikes: 0.035707
+    followers: 27500
+    engagement: 772
+    commentsToLikes: 0.104105
     id: ck9k4ynr2umu00j787t7mi7qm
     verified: false
-    hashtags: "#foryou, #epg, #rgb, #setup"
+    hashtags: "#pc, #pcgaming, #viral, #setup"
   - username: "e11gaming"
     fullname: >-
       Eleven Gaming
@@ -115,16 +127,4 @@ profiles:
     id: ckd6wia0zsc920j23bwsb2qfk
     verified: false
     hashtags: ""
-  - username: "itstheggfamily"
-    fullname: >-
-      The GG Family
-    bio: >-
-      Proprios de Sunday Studios, Monolith, Mainland Gaming et Les Nettoyeurs White’s
-    location: "Canada"
-    followers: 64500
-    engagement: 1244
-    commentsToLikes: 0.007341
-    id: ckcduf2igej790j2333yvg6mx
-    verified: false
-    hashtags: "#entrepreneur, #montrealcanada, #montrealtiktok, #quebectiktok"
 ---

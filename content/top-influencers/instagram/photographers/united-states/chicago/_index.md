@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Chicago In 2023
+title: Top 10 Photographers Instagram Influencers In Chicago In 2024
 description: >-
-  Find top photographers Instagram influencers in Chicago in 2023. Most popular hashtags: #portraitpage #illgrammers #model.
+  Find top photographers Instagram influencers in Chicago in 2024. Most popular hashtags: #chicago #photography #shesaidyes.
 platform: Instagram
-hits: 205
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat holds 205 Instagram influencers like this in Chicago, United States for you to connect with.
+hits: 218
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 218 Instagram influencers like this in Chicago, United States for you to collaborate.
 profiles:
   - username: "katiekett"
     fullname: >-
@@ -49,12 +49,12 @@ profiles:
     bio: >-
       Published Photographer | Chicago Native - @gns.eli EMAIL for booking 📸💰 📍DTX
     location: "United States"
-    followers: 8398
-    engagement: 165
-    commentsToLikes: 0.081983
+    followers: 8512
+    engagement: 366
+    commentsToLikes: 0.046969
     id: ck5c9kbreblan0i11k4x5vhzm
     verified: false
-    hashtags: "#thegrind, #elisnapped, #livinglegends, #year3"
+    hashtags: "#thegrind, #elisnapped, #arilennox, #stonewoodmanor"
   - username: "johnstoffer"
     fullname: >-
       John Stoffer
@@ -91,40 +91,40 @@ profiles:
     id: ck0ttv3n24fwu0i1937jo3gg8
     verified: false
     hashtags: ""
-  - username: "_dannyphoto_"
+  - username: "shawn_antonia"
     fullname: >-
-      Daniel Stewart
+      S H A W N   A N T O N I A🇵🇷
     bio: >-
-      Chicago Photographer (primarily film)
+      #BusinessOwner | #Vegan | #Influencer Masters in Psychology 🎓 Travel Company Owner 🛫 #TravelAgent page @BookWithShawn DM for collaborations
     location: "United States"
-    followers: 12179
-    engagement: 1638
-    commentsToLikes: 0.028067
-    id: ck6u1rtmuniec0j71sda8cbn3
+    followers: 70210
+    engagement: 245
+    commentsToLikes: 0.047926
+    id: ckaowcrfb8cy70i78241mboip
     verified: false
-    hashtags: "#instamagazine, #vsco, #120film, #filmisnotdead"
-  - username: "goldedlocs"
+    hashtags: "#losangeles, #melanin, #bikini, #influencer"
+  - username: "anissadphotography"
     fullname: >-
-      CHRIS ROBINSON
+      Chicago Photographer
     bio: >-
-      📸 Photographer 📍 Chicago, IL 👇🏾 BTS, Outtakes and more via the link below!
+      digital + film photographer 🎞 chicago + san diego📍 timeless imagery for the modern couple presets: @anissadpresets podcast: photo tea with anissa d.🎙
     location: "United States"
-    followers: 9007
-    engagement: 554
-    commentsToLikes: 0.048766
-    id: ck6tjlbzm2xsg0j71xrw9fcji
+    followers: 133278
+    engagement: 122
+    commentsToLikes: 0.029559
+    id: ckv7b12400p2g0j237hk4it02
     verified: false
-    hashtags: "#portraitpage, #buildandbloom, #art, #quietthechaos"
-  - username: "jm_photography23"
+    hashtags: "#dirtybootsandmessyhair, #chicagoelopementphotographer, #sandiegophotographer, #authenticlovemag"
+  - username: "windycitydinnerfairy"
     fullname: >-
-      Tyler James
+      Nicole Tingwall | Food Artist
     bio: >-
-      SH. Published Chicago photographer/ actor represented by BMG and Paige model and talent. DM for Rates #chicagophotographer
+      Charcuterie boards + Easy Entertaining Recipes 👩🏻‍🍳🍴 Freelance Food + Prop Stylist | Photographer 📍Chicago ✉️windycitydinnerfairy@gmail.com
     location: "United States"
-    followers: 27235
-    engagement: 109
-    commentsToLikes: 0.029994
-    id: ck6tqrsnntmh90j71ub1siyfp
+    followers: 31614
+    engagement: 34
+    commentsToLikes: 0.070179
+    id: ckf5xfm8qvhcf0j23wutciv3l
     verified: false
-    hashtags: ""
+    hashtags: "#chocolate, #chicagofoodstylist, #explorepage, #brownies"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Rome In 2023
+title: Top 10 Yoga Instagram Influencers In Rome In 2024
 description: >-
-  Find top yoga Instagram influencers in Rome in 2023. Most popular hashtags: #yoga #italy #love #italia.
+  Find top yoga Instagram influencers in Rome in 2024. Most popular hashtags: #love #italy #yoga #rome.
 platform: Instagram
-hits: 13
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 13 Instagram influencers like this in Rome, Italy for you to work with.
+hits: 12
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 12 Instagram influencers like this in Rome, Italy for you to collaborate.
 profiles:
   - username: "tonylupinacci"
     fullname: >-
@@ -19,18 +19,30 @@ profiles:
     id: ckap2nh6mzljz0i7854hoqo2k
     verified: false
     hashtags: "#skytingyoga, #yogadaily, #yogalife, #katonahyoga"
-  - username: "virginia_kalho"
+  - username: "jessdiemyoga"
     fullname: >-
-      𝓥𝓲𝓻𝓰𝓲𝓷𝓲𝓪
+      Jessica Diễm
     bio: >-
-      📍Rome 📚Art historian ✨Aesthetic and vintage lover ✉️virginiacaprino92@gmail.com [FUN]
+      Yoga 🧘🏼‍♀️ lover To buy whatever I use @jessdiem.shop Ambassador @olaben.official
     location: "Italy"
-    followers: 19108
-    engagement: 126
-    commentsToLikes: 0.288932
-    id: ckap4qam38dwq0i78v3dj6ve2
+    followers: 172105
+    engagement: 599
+    commentsToLikes: 0.037143
+    id: ck8svybnsd5i10j78tnkbz06h
     verified: false
-    hashtags: "#suppliedby, #romwe, #ootd, #jewels"
+    hashtags: "#jessdiem, #travelwithjess, #venice, #14daysthuthach"
+  - username: "tjasa_perko"
+    fullname: >-
+      T J A Š A Perko
+    bio: >-
+      MAMA ~ wanderlust ~ STUNTperformer ~ STUNTdouble ~ film ~ camera lover ~ sport~ yoga~ adrenaline ~ work~ travel~ always live. Passionate soul~mermaid.
+    location: "Italy"
+    followers: 21006
+    engagement: 217
+    commentsToLikes: 0.006817
+    id: ck6u6ob20gro60j7134ypins2
+    verified: false
+    hashtags: "#amor, #kornati, #boatlife, #nature"
   - username: "mariasaggese.lightpainting"
     fullname: >-
       Maria Saggese 👸🏻💫
@@ -43,42 +55,18 @@ profiles:
     id: ck0w1yb7plqhl0i19wnrl0pew
     verified: false
     hashtags: "#style, #moodboard, #mamma, #art"
-  - username: "cosmepolitan.it"
+  - username: "proxyriccio"
     fullname: >-
-      Elvira Colavita
+      Pяᴏxʏ Eʀʀᴏʀ
     bio: >-
-      ELVIRALE⭐️ Beauty Cosme Coach co-founder @naima_candia_profumi Made in Rome ☀️ Molto sposata💍
+      Non è attrice, non è comica. Sa soltanto quello che non è. Influencer dell’ANSIA Regista di Film Mentali
     location: "Italy"
-    followers: 142355
-    engagement: 98
-    commentsToLikes: 0.044062
-    id: ckap4sr1s8pai0i78wilr5f34
+    followers: 20369
+    engagement: 531
+    commentsToLikes: 0.010401
+    id: ck5hob45wp9a70i119bjzb73m
     verified: false
-    hashtags: "#wonderwoman, #makeup, #beautycoach, #beauty"
-  - username: "irenepila_"
-    fullname: >-
-      Irene | ✈︎ Travel Creator
-    bio: >-
-      ☾ “Your life isn’t really yours if you constantly care what others think (: 𖥸 Travelling full time since 2019 ༄ Outdoor adventures r always welcome ↓
-    location: "Italy"
-    followers: 64697
-    engagement: 308
-    commentsToLikes: 0.024039
-    id: ck9hat9ide1h20j78t3vxm8lq
-    verified: false
-    hashtags: "#italia, #travelgram, #outdoors, #travelblogger"
-  - username: "tjasa_perko"
-    fullname: >-
-      T J A Š A Perko
-    bio: >-
-      🌏 | BOY’S MAMA | wanderlust| 🎬 STUNT performer🔥 film & camera lover💫|sport & adrenaline addict✨passionate soul ✨
-    location: "Italy"
-    followers: 17723
-    engagement: 395
-    commentsToLikes: 0.013125
-    id: ck6u6ob20gro60j7134ypins2
-    verified: false
-    hashtags: "#amore, #ocean, #sea, #boatlife"
+    hashtags: "#zonablu, #sailormoonanime, #nerdygirl, #80s"
   - username: "debbieontheroad"
     fullname: >-
       Travel, Sport & Adventure 💎
@@ -127,4 +115,16 @@ profiles:
     id: ck8tc2u5ey34b0j788lykjnou
     verified: false
     hashtags: "#fuckcovid19, #me, #shorthair, #together"
+  - username: "lorenzo_carone"
+    fullname: >-
+      Lorenzo Carone
+    bio: >-
+      Basketball Player @tumminelliromanabasket 🏀 Digital PR 💼 Membro Attivo di @plasticfreeit Onlus 🌱 from Piedmont to Milan 📩 mngmt.info@gmail.com
+    location: "Italy"
+    followers: 61540
+    engagement: 229
+    commentsToLikes: 0.020570
+    id: ck6u853kbphli0j71b27qe0lc
+    verified: false
+    hashtags: "#futureoftravel, #photooftheday, #photography, #photo"
 ---

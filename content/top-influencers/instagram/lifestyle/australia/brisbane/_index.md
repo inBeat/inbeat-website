@@ -1,24 +1,24 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Brisbane In 2023
+title: Top 10 Lifestyle Instagram Influencers In Brisbane In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Brisbane in 2023. Most popular hashtags: #photography #lifestyle #australia #travel.
+  Find top lifestyle Instagram influencers in Brisbane in 2024. Most popular hashtags: #brisbane #brisbaneevents #homedecor #brisbanefood.
 platform: Instagram
-hits: 34
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 34 Instagram influencers like this in Brisbane, Australia for you to work with.
+hits: 44
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 44 Instagram influencers like this in Brisbane, Australia for you to pitch.
 profiles:
   - username: "cassywallfood"
     fullname: >-
       BRISBANE Food - Cassy Wall
     bio: >-
-      Not a photographer 📸 Not a Chef 👩‍🍳 Just someone who enjoys Food & Lifestyle Brisbane & Beyond 🥂 © cassywallfood 2021
+      Food & Lifestyle Brisbane & Beyond 🥂🍴 ©cassywallfood 2024 AMB Brisbane City
     location: "Australia"
-    followers: 16634
-    engagement: 282
-    commentsToLikes: 0.151175
+    followers: 17826
+    engagement: 32
+    commentsToLikes: 0.017279
     id: ck5q8eixm5s460i11iaskv34s
     verified: false
-    hashtags: "#payomoment, #anewwaytopay, #brandedcontent, #gonowpayolater"
+    hashtags: "#brisbanefoodblogger, #brisbanefoodscene, #brisbaneeats, #brisbanerestaurants"
   - username: "aussiearchitects"
     fullname: >-
       Australian Architects
@@ -30,19 +30,43 @@ profiles:
     commentsToLikes: 0.011774
     id: ck15qjb4o34ef0i19ivnm3ou7
     verified: false
-    hashtags: "#homedecor, #bookofhomes, #sydney, #lifestyle"
-  - username: "megsutherland"
+    hashtags: "#archilovers, #melbourne, #mansion, #interiors"
+  - username: "ourlittleaussiehouse"
     fullname: >-
-      MEG SUTHERLAND
+      Carolyn Turner
     bio: >-
-      🏃🏽‍♀️ @themegarun 🦈 GYMSHARK Athlete 💪🏼 Personal Trainer @actvstrengthco 🌿 B. Exercise & Nutrition Sciences ✨ Tik Tok: megsutherlandd
+      📝 DM to collab ✨ Home/Interiors/lifestyle 📍 Brisbane, Australia
     location: "Australia"
-    followers: 27816
-    engagement: 550
-    commentsToLikes: 0.019446
-    id: ck55ixysrvr1d0i11rs98sxhg
+    followers: 15046
+    engagement: 474
+    commentsToLikes: 0.412793
+    id: clsha43w3cosc0k08swiywj1d
     verified: false
-    hashtags: "#healthylifestyle, #fitgirls, #handstand, #gymnastics"
+    hashtags: "#myhomevibe, #myaustralianinterior, #bedroominspo, #momentslikethese"
+  - username: "dr.louisa.parkinson"
+    fullname: >-
+      Louisa Parkinson
+    bio: >-
+      Brisbane Lifestyle & Entertainment Fashion, food, beauty & must-do things in QLD 🇵🇭🇦🇺 Co-founder @mestizafilipina.co 🏠 @beans.castle
+    location: "Australia"
+    followers: 6524
+    engagement: 124
+    commentsToLikes: 0.111761
+    id: closmj57cmy8o0j088kdvvcxr
+    verified: false
+    hashtags: "#brisbaneinfluencer, #brisbaneinsider, #brisbanecontentcreator, #brisbanenightlife"
+  - username: "brisbane"
+    fullname: >-
+      @BRISBANE
+    bio: >-
+      Follow us for the scoop on Brisbane’s leading local Things to do • Food and Wine • Lifestyle • Property #MyBrisbane @Brisbane
+    location: "Australia"
+    followers: 141270
+    engagement: 141
+    commentsToLikes: 0.043833
+    id: ck0vvol3uq2010i19y8idrc27
+    verified: false
+    hashtags: "#brisbanefood, #queensland, #thisisqueensland, #brisbanecity"
   - username: "thetravelquandary"
     fullname: >-
       Jasmine & Bevan // Australia
@@ -55,18 +79,6 @@ profiles:
     id: ck0u7ux8g5pv00i19856vcnrl
     verified: false
     hashtags: "#capetribulation, #visitnoosa, #visitsunshinecoast"
-  - username: "julietaroldann"
-    fullname: >-
-      Julieta Roldan 🇦🇺 🇦🇷
-    bio: >-
-      🌞🌊🏖 Gold Coast Model/Actress #brisbanemodel #goldcoastmodel Lifestyle 🏝 • Food 🍲 • Beauty💄 📩julietaroldann@gmail.com
-    location: "Australia"
-    followers: 73208
-    engagement: 108
-    commentsToLikes: 0.049185
-    id: ck0ud6ywjigcn0i19d8n00v30
-    verified: false
-    hashtags: "#ad, #veganskincareproducts, #cavoodleaustralia, #brisbaneactress"
   - username: "gustavoviglio"
     fullname: >-
       Gustavo Viglio
@@ -91,40 +103,28 @@ profiles:
     id: ck0w136qehc490i193p3vskwx
     verified: false
     hashtags: "#tiktokfashion, #instagramreels, #styletips, #fashionreels"
-  - username: "ourcozyabode_"
+  - username: "jadeleighh__"
     fullname: >-
-      Tash | Home & Lifestyle
+      J A D E  M A C D O N A L D
     bio: >-
-      ⋒Sharing my love of interiors & everything in between ⋒Decor•DIYs•Styling tips•Lifestyle ⋒Mum of ✌️ •Brisbane,QLD ~CoHost #myaustralianinterior
+      Brisbane ~ Fashion | Fitness | lifestyle 💌 jade.macdonald966@gmail.com 🤍 @echt_apparel “JADELEIGH” 🤍 @lovingtanofficial “Jadeleighh”
     location: "Australia"
-    followers: 17353
-    engagement: 381
-    commentsToLikes: 0.524350
-    id: ck6ugp8p84cdu0j71ctvt30tx
+    followers: 20191
+    engagement: 266
+    commentsToLikes: 0.138669
+    id: ck0vwfow8tgsi0i19mgjq4zve
     verified: false
-    hashtags: "#mystylishspace, #mybohoadobe, #hygge, #realinstahomes"
-  - username: "brisbane"
+    hashtags: "#echt, #explore, #reelsinstagram, #viral"
+  - username: "liz.amaya.style"
     fullname: >-
-      @BRISBANE - MYBRISBANE.COM
+      L I Z  A M A Y A
     bio: >-
-      Bringing you the best our local community has to offer. Things To Do • Food & Wine • Lifestyle • Property Tag #MyBrisbane & @Brisbane ✉️ Get in touch
+      • Stylist • Renos + Home Inspiration + Tips & Tricks For media and collaboration enquiries: bianca@purposecollective.com.au
     location: "Australia"
-    followers: 107110
-    engagement: 173
-    commentsToLikes: 0.045474
-    id: ck0vvol3uq2010i19y8idrc27
+    followers: 98681
+    engagement: 74
+    commentsToLikes: 0.254312
+    id: ck0vxe68myght0i19j3z1lyj9
     verified: false
-    hashtags: "#preservativefree, #noaddedsugar, #southbank, #yum"
-  - username: "e11a.02"
-    fullname: >-
-      ella
-    bio: >-
-      18 || snap: e11a_richards brissy, aus @tamblynmodels
-    location: "Australia"
-    followers: 2819
-    engagement: 1743
-    commentsToLikes: 0.123316
-    id: ck6uaq9ei50f60j717e5ztv6t
-    verified: false
-    hashtags: "#explorepage, #love, #photoshoot, #modelling"
+    hashtags: "#whiteinterior, #diyhome, #homeinteriordesign, #australianinteriors"
 ---

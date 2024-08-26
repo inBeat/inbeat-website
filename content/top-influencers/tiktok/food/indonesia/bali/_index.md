@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Bali In 2023
+title: Top 10 Food TikTok Influencers In Bali In 2024
 description: >-
-  Find top food TikTok influencers in Bali in 2023. Most popular hashtags: #fyp #bali #food #foryou.
+  Find top food TikTok influencers in Bali in 2024. Most popular hashtags: #fyp #bali #food #foryou.
 platform: TikTok
 hits: 6
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our search engine has 6 TikTok influencers like this in Bali, Indonesia for you to work with.
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 6 TikTok influencers like this in Bali, Indonesia for you to collaborate.
 profiles:
   - username: "aleyamax"
     fullname: >-

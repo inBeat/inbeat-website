@@ -1,36 +1,60 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Japan In 2023
+title: Top 10 Skincare Instagram Influencers In Japan In 2024
 description: >-
-  Find top skincare Instagram influencers in Japan in 2023. Most popular hashtags: #skincare #fashion #pr.
+  Find top skincare Instagram influencers in Japan in 2024. Most popular hashtags: #skincare #skincareroutine #jbeauty #skincaretips.
 platform: Instagram
-hits: 159
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 159 Instagram influencers like this in Japan for you to work with.
+hits: 179
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 179 Instagram influencers like this in Japan for you to pitch.
 profiles:
+  - username: "alessa"
+    fullname: >-
+      Alessa | アレッサ 💫
+    bio: >-
+      Skincare, beauty 🤍 SF📍 📧info.alessamiki@gmail.com 🎵 alessa.miki (800k)
+    location: "Japan"
+    followers: 252910
+    engagement: 590
+    commentsToLikes: 0.005205
+    id: ck14gwkbf7e1m0i191nzti4t0
+    verified: false
+    hashtags: "#jbeauty, #beautytips, #kbeauty, #skincaretips"
+  - username: "reikamarianna"
+    fullname: >-
+      Reika MariannA / 宮崎麗果
+    bio: >-
+      美容🧬腸温活🌿植物療法 CEO @vitolabo_official @herbacie_official skincare @genis.official bath products @nukashop.official Lingerie @re_by_reinest_official
+    location: "Japan"
+    followers: 369468
+    engagement: 281
+    commentsToLikes: 0.014640
+    id: ck5hia7xicg660i11dw587pue
+    verified: false
+    hashtags: "#birkin25, #parisfashionweek2023, #birkinshadow, #f8spider"
   - username: "daianaanghel"
     fullname: >-
       DAIANA Anghel
     bio: >-
-      • Communication & Brand Strategy • Skincare Advisor • Elle New Media Awards 2020 winner 🏆- Beauty & Health
+      • Communication & Brand Strategy • Skincare Expert • Elle New Media Awards 2020 winner 🏆- Beauty & Health • 0 tolerance for haters
     location: "Japan"
-    followers: 199705
-    engagement: 515
-    commentsToLikes: 0.006491
+    followers: 222031
+    engagement: 196
+    commentsToLikes: 0.013405
     id: ck5bzyq7ss3jf0i110q4wly88
     verified: false
-    hashtags: "#toplineromania, #ad, #makelifebetterathome, #skincarefirst"
+    hashtags: "#winter, #powercouple, #powercoupleromania, #skincaretips"
   - username: "paranatka"
     fullname: >-
-      NATALIA ZAJĄC 🐰
+      NATALIA LEŚNIAK
     bio: >-
       makeup & skincare tutorials 🌸✨ 💗 tag me: #paranatka 📧 nataliaannazajac@gmail.com 💄 2nd account:
     location: "Japan"
-    followers: 31714
-    engagement: 389
-    commentsToLikes: 0.046268
+    followers: 28654
+    engagement: 131
+    commentsToLikes: 0.039711
     id: ck1390amviwc30i19iup7yh2g
     verified: false
-    hashtags: "#skincareproducts, #colourpopcosmetics, #dewyskin, #glossylips"
+    hashtags: "#makeupvideos, #dewyskinmakeup, #benefitcosmetics, #kylash"
   - username: "mm_mimosa"
     fullname: >-
       Kitty Nishitani
@@ -43,18 +67,6 @@ profiles:
     id: ck14ii7yzfj530i19h3x2xfos
     verified: false
     hashtags: "#chanelmakeup, #highendbeauty, #chanellover, #beautyluxury"
-  - username: "beautyblog_tokyo"
-    fullname: >-
-      𝑱𝒖𝒍𝒊𝒂
-    bio: >-
-      Beauty | Skincare | Fragrance PR/Collab: DM or 📧 email 📫 🇺🇸 🇬🇧 Shop with me↓
-    location: "Japan"
-    followers: 12081
-    engagement: 704
-    commentsToLikes: 0.459522
-    id: ckaoz5bqkkfqu0i78q0xx239p
-    verified: false
-    hashtags: "#vitaminbserum, #coloredmascara, #thefullmontyldn, #chantecaillebeauty"
   - username: "im_5868"
     fullname: >-
       マイ
@@ -79,52 +91,40 @@ profiles:
     id: ck0w6r1cc9vvp0i19v9uponcj
     verified: false
     hashtags: "#gimcosmetic, #hauscosmetics, #eiymajalil, #hausskin"
-  - username: "haruka_takahashi0127"
+  - username: "varyaren"
     fullname: >-
-      高橋晴香
+      ALEXIA
     bio: >-
-      model/PR Tokyo.Japan🇯🇵Haruka Takahashi/高橋晴香 アンバサダー @clena.official Trip🇹🇭🇰🇷🇭🇰🇬🇺🇺🇸🇬🇧 お仕事の依頼はDMにてお願い致します☆ アクセサリーブランド lumiere eclat プロデュース💎
+      🍒Freelance Make-up Artist & Model
     location: "Japan"
-    followers: 120558
-    engagement: 124
-    commentsToLikes: 0.074119
-    id: ck0w7911ocdbw0i196up7cwdg
+    followers: 142932
+    engagement: 546
+    commentsToLikes: 0.022717
+    id: ck55o5fll7nsg0i11j0w8y98u
     verified: false
-    hashtags: "#japantrip, #skincare, #valmuer, #pr"
-  - username: "momojuicypeach"
+    hashtags: "#longhair, #japanesefood, #yukata, #skincare"
+  - username: "el_tannn"
     fullname: >-
-      MIDORI❤︎
+      Ellyzabeth | lisaandherworld
     bio: >-
-      𝑰'𝒎 𝒂 𝑱𝒂𝒑𝒂𝒏𝒆𝒔𝒆 𝑮𝒓𝒂𝒏𝒎𝒂 𝑨𝒈𝒆46👘 𝑰 𝒉𝒂𝒗𝒆 𝒕𝒘𝒐 𝒄𝒉𝒊𝒍𝒅𝒓𝒆𝒏 𝒂𝒏𝒅 𝒕𝒉𝒓𝒆𝒆 𝒈𝒓𝒂𝒏𝒅𝒄𝒉𝒊𝒍𝒅𝒓𝒆𝒏 @worldeatinglove 𝒂𝒏𝒅 𝑰 𝒍𝒐𝒗𝒆 #𝒕𝒓𝒊𝒑✈️𝑰 𝒍𝒐𝒗𝒆 𝒎𝒚 @_im_coco__
+      🌸 my beauty diary 🌸 dry skin • @lyz.daily 🍒 _ ✨🌿 VIEW MORE:
     location: "Japan"
-    followers: 15968
-    engagement: 296
-    commentsToLikes: 0.061879
-    id: ck5hia0jfcf8e0i113u84sjzl
+    followers: 40504
+    engagement: 482
+    commentsToLikes: 0.132276
+    id: cl3w8ztfgda2j0i23v05k9o35
     verified: false
-    hashtags: "#watch, #beauty, #ootd, #fujimi"
-  - username: "tokuayu819"
+    hashtags: "#sunscreenreview, #skincarereview, #beautyhaul, #makeuphaul"
+  - username: "wadateni"
     fullname: >-
-      得あゆ( 得丸あゆみ)
+      和田テニィ
     bio: >-
-      KADOKAWAから写真集『得あゆ』発売中 @neome_life @anakiss.official @girlytokyo プロデュース🔥 富山産⛰→🗼⇄🐙　170cm
+      東京・江戸川区ママの自分磨き日記 𝙻𝚒𝚏𝚎𝚜𝚝𝚢𝚕𝚎 & 𝙼𝚘𝚝𝚑𝚎𝚛𝚑𝚘𝚘𝚍 𝚒𝚗 𝙹𝚊𝚙𝚊𝚗 𝙼𝚎𝚍𝚒𝚊: 𝙱𝙱𝙲, 𝚃𝚑𝚎 𝙶𝚞𝚊𝚛𝚍𝚒𝚊𝚗, 𝙹𝚊𝚙𝚊𝚗 𝚃𝚒𝚖𝚎𝚜, 𝙽𝙷𝙺 𝙱𝚕𝚘𝚐: @thewagamamadiaries 𝚂𝚑𝚘𝚙: @edobeautylab
     location: "Japan"
-    followers: 276642
-    engagement: 183
-    commentsToLikes: 0.015166
-    id: ck5hlpy3akmwb0i11ta0xweq7
+    followers: 40300
+    engagement: 104
+    commentsToLikes: 0.016436
+    id: ck5hope1fpzbm0i11d832b0f0
     verified: false
-    hashtags: "#pack, #knit, #skincare, #onepiece"
-  - username: "yukikaneshiro"
-    fullname: >-
-      金城ゆき  yuki kaneshiro
-    bio: >-
-      🇯🇵×🇰🇷 撮影・お仕事依頼はDMまでお願いします💌 wd account→ @y_wedding.1101 🤍
-    location: "Japan"
-    followers: 86545
-    engagement: 189
-    commentsToLikes: 0.014686
-    id: ck0vziatt98pm0i19wk520owm
-    verified: false
-    hashtags: "#beauty, #fashion, #ootd, #coordinate"
+    hashtags: "#lemonsquare, #igtokyo, #ipreview, #skinfluencer"
 ---

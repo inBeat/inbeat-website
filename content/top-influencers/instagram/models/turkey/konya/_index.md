@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Konya In 2023
+title: Top 10 Models Instagram Influencers In Konya In 2024
 description: >-
-  Find top models Instagram influencers in Konya in 2023. Most popular hashtags: #model #instagood #istanbul #konya.
+  Find top models Instagram influencers in Konya in 2024. Most popular hashtags: #model #kesfet #konya #sunum.
 platform: Instagram
-hits: 10
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 10 Instagram influencers like this in Konya, Turkey for you to connect with.
+hits: 12
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 12 Instagram influencers like this in Konya, Turkey for you to collaborate.
 profiles:
   - username: "igne_askii"
     fullname: >-
@@ -35,14 +35,26 @@ profiles:
     fullname: >-
       Mehmet Ali Ünve️r
     bio: >-
-      📍İstanbul | Konya Best Model Of Turkey 2016 Semi F. 📩iletisim@mehmetaliunver.com
+      📍İstanbul | Konya Best Model of Turkey 2016 Semi F. 📩iletisim@mehmetaliunver.com
     location: "Turkey"
-    followers: 48665
-    engagement: 334
-    commentsToLikes: 0.010321
+    followers: 48674
+    engagement: 344
+    commentsToLikes: 0.012766
     id: ckap6m0cpgfz70i78kpyqe1nm
     verified: false
-    hashtags: ""
+    hashtags: "#birlikteg, #sosyalmedyan, #wine, #beforeafter"
+  - username: "caglaxonline"
+    fullname: >-
+      🎬 🎀 ᏨᎯᎶᏝᎯ ᏨᎯᎶᏝᎯᏒ 🎀 📷
+    bio: >-
+      Fotoğraf 👇 @butterflymediia 17.06.2007💍@caglarcaglr 19.05.2013😻@kupafirarda 24.06.2017🍼@minidavsan 01.06.2020🍼@minifinduk REKLAM,TANITIM için DM 👈
+    location: "Turkey"
+    followers: 50729
+    engagement: 145
+    commentsToLikes: 0.022995
+    id: ckap741wmijj90i78ecitwb2o
+    verified: false
+    hashtags: "#reklam, #coffee, #turkishcoffee, #kahve"
   - username: "iplerin_gunlugu"
     fullname: >-
       Ayşe Afşar
@@ -91,40 +103,28 @@ profiles:
     id: ck15qej4p2gfc0i19ho83uqle
     verified: false
     hashtags: "#crochetblankets, #100likes, #excerpts, #ceyiz"
-  - username: "chefzekikara"
+  - username: "zeynepbarker"
     fullname: >-
-      Zeki KARA
+      Zeynep Öğüt ✨
     bio: >-
-      𝙼𝚎𝚗𝚞̈ | 𝙼𝚞𝚝𝚏𝚊𝚔 𝙺𝚘𝚗𝚜𝚎𝚙𝚝 𝙳𝚊𝚗𝚒𝚜̧𝚖𝚊𝚗 | 𝙼𝚞𝚕𝚝𝚒𝙵𝚞𝚗𝚌𝚝𝚒𝚘𝚗 𝚂̧𝚎𝚏|𝙰𝚜̧𝚌̧𝚒|𝙼𝚊𝚝𝚋𝚊𝚑 | 𝙴𝚐̆𝚒𝚝𝚒𝚖 |𝙴𝚟𝚎𝚗𝚝 |𝙶𝚊𝚜𝚝𝚛𝚘|𝙼𝚎𝚗𝚞̈|𝙺𝚎𝚎𝚙𝚎𝚛 𝚌𝚘𝚗𝚜𝚞𝚕𝚝𝚒𝚗𝚐 𝚃𝙰𝙵𝙴𝙳 𝚋𝚊𝚜̧𝚔. 𝚢𝚛𝚍𝚌.
+      Hayata kalbiyle poz veren kadın ✨ Her şeyden biraz 🫧 Reklam ve iş birliği için dm 🤝👉🏻
     location: "Turkey"
-    followers: 38825
-    engagement: 284
-    commentsToLikes: 0.266212
-    id: ck5c5yn0p4dyb0i11h3vhr3d4
+    followers: 56286
+    engagement: 39
+    commentsToLikes: 0.009454
+    id: ck9hb90urfuz50j78hxvapwq5
     verified: false
-    hashtags: "#instafood, #photooftheday, #dinner, #smile"
-  - username: "sahanegurme"
+    hashtags: "#naturelovers, #do, #ni, #ke"
+  - username: "esrinozguler"
     fullname: >-
-      Şahanegurme / Muhammed
+      Esrin Özgüler
     bio: >-
-      👤 @muhammed.ylmz 🌴 Food & Travel 🔹 Yer , İçer ve Gezer 📩 Sosyal Medya Danışmanlığı
+      #Sunucu , #influencer ,tercümanlık&halkla ilş.yapan, #uluslararasıilişkiler mezunu🎓Hollanda doğumlu🇳🇱 Eskişehirli🇹🇷Kadıköy' de yaşayan bir martıyım..🕊
     location: "Turkey"
-    followers: 476741
-    engagement: 118
-    commentsToLikes: 0.008516
-    id: ck134i8xdwjz80i19d1m3kwg2
+    followers: 76114
+    engagement: 78
+    commentsToLikes: 0.040079
+    id: ck0txxwuokxoa0i19p43ot7sd
     verified: false
-    hashtags: "#drink, #lezzet, #binevler, #meat"
-  - username: "kiim.bunlar"
-    fullname: >-
-      Yağ'Nur Kardeshler 🌼
-    bio: >-
-      Reklam ve İş Birliği İçin DM 👍
-    location: "Turkey"
-    followers: 17643
-    engagement: 140
-    commentsToLikes: 0.054693
-    id: ckaoyg27rhdgh0i78d2qo900g
-    verified: false
-    hashtags: "#astsubay, #bordobereli, #kimbunlar, #temizlik"
+    hashtags: "#mu, #dog, #moda, #ke"
 ---

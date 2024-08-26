@@ -1,12 +1,24 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Italy In 2023
+title: Top 10 Skincare TikTok Influencers In Italy In 2024
 description: >-
-  Find top skincare TikTok influencers in Italy in 2023. Most popular hashtags: #makeup #skincare #perte #beauty.
+  Find top skincare TikTok influencers in Italy in 2024. Most popular hashtags: #skincare #makeup #perte #beauty.
 platform: TikTok
-hits: 54
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: inBeat has 54 TikTok influencers like this in Italy for you to work with.
+hits: 55
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our database has 55 TikTok influencers like this in Italy for you to collaborate.
 profiles:
+  - username: "rita_makeupaddicted"
+    fullname: >-
+      Rita_makeupaddicted
+    bio: >-
+      Andate su #ritaprovamaschere per guardare i video sulla skincare più strani ❤️
+    location: "Italy"
+    followers: 192700
+    engagement: 1418
+    commentsToLikes: 0.020224
+    id: cka6bsze51lkx0i787io6b311
+    verified: false
+    hashtags: "#ritaprovamaschere, #catrice"
   - username: "cocolavieenrose"
     fullname: >-
       Skincare con Valeria Arizzi
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.029345
     id: cka676ojrju080i78tbw22bj5
     verified: false
-    hashtags: "#makeup, #period, #neiperte, #perte"
+    hashtags: "#makeupartist, #fyp, #perte, #neiperte"
   - username: "giorgiaruggieri_"
     fullname: >-
       Giorgia Ruggieri
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.036048
     id: ckbqhuqmi35g20j23n5xz53kx
     verified: false
-    hashtags: "#makeup, #lipstick, #beauty, #skincare"
+    hashtags: "#makeuphacks, #essencecosmetics, #beauty, #lipstick"
   - username: "beatricegherardini"
     fullname: >-
       beatricegherardini
@@ -115,16 +127,4 @@ profiles:
     id: ckavn1rt6x5tj0j235qcqlppn
     verified: false
     hashtags: "#fy, #test, #unboxing, #natale"
-  - username: "laurapontillomakeup"
-    fullname: >-
-      LauraPontilloMakeup
-    bio: >-
-      lpontillo36@gmail.com💄 Non essere timida seguimi su Ig: @LauraPontilloMakeup
-    location: "Italy"
-    followers: 100100
-    engagement: 1181
-    commentsToLikes: 0.017934
-    id: ckd6bjye64qsk0j23tpnjhepj
-    verified: false
-    hashtags: "#italiamakeup, #makeupartist, #muaitalia, #trucco"
 ---

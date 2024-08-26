@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In South Korea In 2023
+title: Top 10 Cooking TikTok Influencers In South Korea In 2024
 description: >-
-  Find top cooking TikTok influencers in South Korea in 2023. Most popular hashtags: #cooking #asmr #mukbang #food.
+  Find top cooking TikTok influencers in South Korea in 2024. Most popular hashtags: #cooking #asmr #mukbang #food.
 platform: TikTok
 hits: 17
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: inBeat holds 17 TikTok influencers like this in South Korea for you to collaborate.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 17 TikTok influencers like this in South Korea for you to contact.
 profiles:
   - username: "parrrrrrrk"
     fullname: >-

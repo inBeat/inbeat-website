@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In United Kingdom In 2023
+title: Top 10 Barbers TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top barbers TikTok influencers in United Kingdom in 2023. Most popular hashtags: #barber #haircut #barbershop #fyp.
+  Find top barbers TikTok influencers in United Kingdom in 2024. Most popular hashtags: #barber #haircut #fyp #barbershop.
 platform: TikTok
 hits: 50
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine holds 50 TikTok influencers like this in United Kingdom for you to connect with.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 50 TikTok influencers like this in United Kingdom for you to pitch.
 profiles:
   - username: "razorcutt"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.026354
     id: ck8add11j59790j788hsazc5s
     verified: false
-    hashtags: "#barbers, #hairtransformation, #barber, #slidercuts"
+    hashtags: "#barber, #barbers, #hairtransformation, #slidercuts"
   - username: "omarfadez"
     fullname: >-
       OmarFadez

@@ -1,12 +1,36 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Russia In 2023
+title: Top 10 Yoga Instagram Influencers In Russia In 2024
 description: >-
-  Find top yoga Instagram influencers in Russia in 2023. Most popular hashtags: #yogagirl #yoga #herbalessencesrussia.
+  Find top yoga Instagram influencers in Russia in 2024. Most popular hashtags: #trigirl #sportmotivation #instarunnerteam.
 platform: Instagram
-hits: 161
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 161 Instagram influencers like this in Russia for you to work with.
+hits: 159
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 159 Instagram influencers like this in Russia for you to pitch.
 profiles:
+  - username: "belousova_ylia"
+    fullname: >-
+      Ylia Belousova
+    bio: >-
+      🔺 Ironman *4 🔺 Marathon *13(PB 3.09) 🔺 Yoga 🧘‍♀️ ambassador @rawlifesport
+    location: "Russia"
+    followers: 17692
+    engagement: 707
+    commentsToLikes: 0.041266
+    id: ck8taqoyxsp1q0j78kfggyok1
+    verified: false
+    hashtags: "#swimbikerun, #runningmotivation, #runforfun, #runforlife"
+  - username: "victoria.tsuranova"
+    fullname: >-
+      Виктория Цуранова Фитнес Йога
+    bio: >-
+      👑 Miss MAXIM 2019 Russia🇷🇺 📍Cover girl: Yoga Journal, Maxim, Рандеву 📺 Reality-show «Мистер X» 💪🏽 Тренер : фитнес и йога 🙏🏽 ❤️ 2 page - @studentka.fm
+    location: "Russia"
+    followers: 119253
+    engagement: 326
+    commentsToLikes: 0.035123
+    id: ckap7umablmti0i783kcdnaeu
+    verified: false
+    hashtags: "#tsuranovaworkouts, #sugadaddy"
   - username: "elena_chilelavida"
     fullname: >-
       Влюбляю в ЙОГУ 🕉
@@ -103,28 +127,4 @@ profiles:
     id: ck5pyw21vy2rc0i11sjl2y4xp
     verified: false
     hashtags: "#nofilters, #nowordsneeded"
-  - username: "yaroslava_doroganova"
-    fullname: >-
-      Yaroslava Doroganova
-    bio: >-
-      📍| From UKR in KOR 💃🏻| Ballroom Latin dancer 🧘🏻‍♀️| Model | Yoga | Surf | Argentine Tango 💌| yaroslavadoroganova@gmail.com
-    location: "Russia"
-    followers: 5062
-    engagement: 428
-    commentsToLikes: 0.041854
-    id: ckaoyxbspjfvx0i78sb4y1t5d
-    verified: false
-    hashtags: "#aesthetic, #doroganova, #busan, #southkorea"
-  - username: "annayoga_blog"
-    fullname: >-
-      ⚘𝓐𝓷𝓷𝓪⚘  𝓨𝓸𝓰𝓪 𝓛𝓲𝓯𝓮𝓼𝓽𝔂𝓵𝓮 ¹⁰⁸
-    bio: >-
-      🇷🇺🇺🇸🇩🇪 📍Germany YogaTeacher RYS 200 🕉 Учитель Йоги Vegetarian 🌱 Почти Веган Study Psychology 👩‍🎓 Учусь на Психолога #annayoga_yoga 🧘🏼‍♀️ Йога ॐ
-    location: "Russia"
-    followers: 4405
-    engagement: 2141
-    commentsToLikes: 0.083806
-    id: ckap825h7mhvw0i78xwa48r1x
-    verified: false
-    hashtags: "#yogalover, #dreamscometrue, #yoga, #besttimeoflife"
 ---

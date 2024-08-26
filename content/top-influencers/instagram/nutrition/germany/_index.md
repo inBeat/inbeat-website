@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Germany In 2023
+title: Top 10 Nutrition Instagram Influencers In Germany In 2024
 description: >-
-  Find top nutrition Instagram influencers in Germany in 2023. Most popular hashtags: #gesunderezepte #bodybuilding #blogger #fashionblogger.
+  Find top nutrition Instagram influencers in Germany in 2024. Most popular hashtags: #fitness #abnehmen #motivation #fitnessmotivation.
 platform: Instagram
-hits: 186
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 186 Instagram influencers like this in Germany for you to pitch.
+hits: 221
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 221 Instagram influencers like this in Germany for you to pitch.
 profiles:
-  - username: "nicolas_aesthetics"
+  - username: "chris_kall_"
     fullname: >-
-      Nicolas Enache | Fitness, Cooking & Health
+      Christopher Kallmeyer
     bio: >-
-      🏅Nr1 fitness&healthy cooking in🇷🇴 📧:Nicolas_ec@yahoo.com 🏋🏻‍♂️Myprotein Ambassador 👨🏻‍🎓Nutritionist & PT 🌮DM Plan Alimentar 🥙+1900 Clients 🧬Natural
+      Code: Chris @h.p.n_nutrition @massivesoldier @howtobodybuild.de @panzer_genetics YT🎥 Panzergenetics 📩 Kall-Coaching@web.de ❤️🔒@melissahenze
     location: "Germany"
-    followers: 107721
-    engagement: 431
-    commentsToLikes: 0.007534
-    id: ck5hdm6dio6r40i11vzge88qv
+    followers: 81379
+    engagement: 420
+    commentsToLikes: 0.069920
+    id: ck6u6tr4ehod10j71faotomil
     verified: false
-    hashtags: "#wheninrome, #rome, #reels, #lacrescut"
-  - username: "danielamonida"
+    hashtags: "#bodybuilding, #fitness, #training, #motivation"
+  - username: "gianricco.gymlife"
     fullname: >-
-      DANIELA MONIDA
+      Sport Fitness Lifestyle
     bio: >-
-      Your body is a temple 🦋 founder of @monida.bags 👜 @mammut_nutrition „monida15“ 🔐 @manu.frnk Amazon finds in stories and ⬇️
+      📍Germany 💍👩🏻 ◾️Fitness /Lifestyle ⚜️Team @gigas_nutrition ⚜️10% sparen 💰Gian10💰 Link zum Shop ⬇️⬇️⬇️⬇️
     location: "Germany"
-    followers: 188865
-    engagement: 32
-    commentsToLikes: 0.704258
-    id: ck6tn1d518xv90j71gdkohaqb
+    followers: 6741
+    engagement: 515
+    commentsToLikes: 0.134150
+    id: ck13c3up7yhma0i19rera3oe6
     verified: false
-    hashtags: "#sheinforall, #france, #outfitinspiration, #eiffeltower"
-  - username: "marisa.hofmeister"
+    hashtags: "#gymaddict, #fitfamgermany, #gymtime, #fitfamde"
+  - username: "johanna.albeert"
     fullname: >-
-      Marisa Hofmeister
+      Johanna Albert
     bio: >-
-      🌱Certified Holistic Health & Nutrition Coach 🌈 TÄGLICHE Food & Lifestyle Inspo 💌 mgmt@marisahofmeister.com 🎙Podcast: M&Mpowerment 📍BER🇩🇪
+      Ich habe 55kg abgenommen Hier findest du alles zum Thema 💗Sport, Rezepte & Mindset ✨Code: „Johanna“ bei MORE NUTRITION | OACE | YUUNI *Werbung
     location: "Germany"
-    followers: 67112
-    engagement: 435
-    commentsToLikes: 0.041615
-    id: ck0txg2zcizdk0i19ulv1zs53
+    followers: 96937
+    engagement: 640
+    commentsToLikes: 0.069401
+    id: clr7d882fwfa00k087wxw0luo
     verified: false
-    hashtags: "#mindset, #gesunderezepte, #tuscanywedding, #vollgem"
-  - username: "sophieklex"
+    hashtags: "#abnehmen, #gadgets, #wg, #transformation"
+  - username: "nataliavogel_"
     fullname: >-
-      s o p h i e k l e x
+      Natalia Vogel | Online Coach für Frauen
     bio: >-
-      📍KO | Germany 💌 sophieklex@gmail.com 💛 LIFESTYLE • TRAVEL ✈️ Flight Attendant 🎓 Health- and Nutrition Science ⏰ Post at 20pm
+      38 | Mom of 3 | 💍 ▪️Founder @livelle_com ▪️Schwangerschaft | Rückbildung | After Baby Body ▪️More Nutrition & OACE Code „Natalia“
     location: "Germany"
-    followers: 51228
-    engagement: 374
-    commentsToLikes: 0.156021
-    id: ck0tvfydjb6lo0i19t6d5a0zu
+    followers: 109560
+    engagement: 4446
+    commentsToLikes: 0.058865
+    id: ck8t4hmkr6ukb0j787v9ydk2y
     verified: false
-    hashtags: "#wearthisnext, #alm, #berge, #styledomino"
-  - username: "the.miraclebear"
+    hashtags: "#mobilitymoves, #feelfree, #happyme, #ichmachmirdieweltwiesiemirgef"
+  - username: "lani_lifts"
     fullname: >-
-      Urs Kalecinski | 🌐 IFBB PRO
+      Lani Dinh | Personal Trainerin
     bio: >-
-      𝗿𝗲𝗮𝗰𝗵 𝗺𝗮𝘅𝗶𝗺𝘂𝗺 𝗮𝗲𝘀𝘁𝗵𝗲𝘁𝗶𝗰 🇩🇪 🇵🇱 ⭕️lympian @np_nutrition urs10 ONLINE SHOP & COACHING 🔽🔽🔽
+      📍 Berlin | 🇻🇳 Fitnamese 🍚 I exercise for extra rice 🎀 @teveo 10% “LANIX10” 🥛 @everybuddy_nutrition 10% “LANI” @lani_lifts_impressum ⬇️ Coaching
     location: "Germany"
-    followers: 37205
-    engagement: 955
-    commentsToLikes: 0.030442
-    id: ck5hn9f8snfkj0i11gaf0vwg5
+    followers: 38062
+    engagement: 1295
+    commentsToLikes: 0.038835
+    id: clmizkr88iqnn0j08g3bk33h5
     verified: false
-    hashtags: "#ifbbpro, #dreamchaser, #gekienzlt, #newgeneration"
-  - username: "denisebobe"
+    hashtags: "#bodyweightworkout, #fitfamde, #muskelaufbau, #fitnessdeutschland"
+  - username: "piamalina"
     fullname: >-
-      DENISE BOBE
+      Pia Malin Jensen
     bio: >-
-      germany, cgn | 25, 𝘱𝘪𝘴𝘤𝘦𝘴 ♓︎ denise@studioone-mgmt.de @denisebobepreset | @denise.nutrition MY PRESETS 👇🏼
+      🎓Sports Scientist 👩🏽‍🔬Performance Nutritionist @s04 🍌Co-Founder @wtf_sportsnutrition 🏃🏽‍♀️Middle Distance Runner 🍝My Cookbooks & Tips👇🏼
     location: "Germany"
-    followers: 360785
-    engagement: 518
-    commentsToLikes: 0.021141
-    id: ck55jq0fnxjcr0i112810le7z
+    followers: 6372
+    engagement: 1039
+    commentsToLikes: 0.027412
+    id: ckaosbq0xqzx90i78pb6n5eo1
     verified: false
-    hashtags: "#ootd, #greece, #inspo, #summer"
-  - username: "lisa.frank93"
+    hashtags: "#runningmotivation, #berlin, #trackandfield, #trainingmotivation"
+  - username: "beatseb"
     fullname: >-
-      Lisa
+      Sebastian | Online coach
     bio: >-
-      „Be you. Believe in yourself.“ Law I Athlete I Fitfood I Team @olimp_sport_nutrition Code: „LISA10“ 🏅4. Platz @gnbf_ev ‘19 🏅5. Platz @nac_germany ‘19
+      Traveling with @corihueb 🌍 Team @ironmaxx_nutrition 💪 You want to get fit and healthy⁉️ ⬇️ LET ME COACH YOU 1:1 ⬇️
     location: "Germany"
-    followers: 4929
-    engagement: 961
-    commentsToLikes: 0.196921
-    id: ck0w04cadcbfh0i196lrwvzmi
+    followers: 123395
+    engagement: 297
+    commentsToLikes: 0.015279
+    id: ck13avw1ssg9c0i19j1gac348
     verified: false
-    hashtags: "#gesunderezepte, #cleaneating, #gesundeern, #fridaymood"
-  - username: "bahar_ifbb_figure_pro"
+    hashtags: "#salzburg, #chiangmai, #kohsamui, #travel"
+  - username: "steven_samuel_"
     fullname: >-
-      Bahar_Ayra
+      Steven Samuel 🇩🇪🇳🇬
     bio: >-
-      🇺🇸 🐺 IFBB FIGURE PRO 💫POSING Skype DM Me ▪️Team @jb_personal_fitness 👙 @verena_alice_ek ▪️ @np_nutrition BAHAR10 -10% OFF ▪️ @protan_europe BAHARA10
+      📍 Köln/Düsseldorf 🎥 Tiktok: Stevensamuel96 280k New Youtube Video⬇️ @np_nutrition CODE: STEVE
     location: "Germany"
-    followers: 5230
-    engagement: 1876
-    commentsToLikes: 0.099935
-    id: ckf5rghjmckyu0j23xmr09v0d
+    followers: 11422
+    engagement: 249
+    commentsToLikes: 0.028754
+    id: ck6uakwit44vv0j719fe5dex9
     verified: false
-    hashtags: "#strongwoman, #bodybuilder, #throwbacktuesday, #power"
-  - username: "veronika.haaf"
+    hashtags: "#fitfam, #inspiration, #successmindset, #classicphysique"
+  - username: "miri.krug"
     fullname: >-
-      Veronika Haaf
+      Miriam Krug
     bio: >-
-      Coach | dogmom 🐶 | #wildchild ⛰ from bavaria Fitness• Nutrition •Mindset spreading positive vibes🌞 & balance 🧘‍♀️ Blog & Impressum👇
+      Founder @nubymi_nutrition 🎙Podcast FUEL YOUR BODY 🏈 Nutritionist @berlinthunderfootball 🥑 @nikewellcollective Nutrition Coach 💊 @esncom ⬇️ COACHING ⬇️
     location: "Germany"
-    followers: 14481
-    engagement: 552
-    commentsToLikes: 0.146461
-    id: ck0w3384mrdq90i19ttp1kuyd
+    followers: 17100
+    engagement: 316
+    commentsToLikes: 0.020504
+    id: ck14ivlzshcxd0i19wcf9e981
     verified: false
-    hashtags: "#selbstliebe, #blogger, #vegetarian, #happygirlsaretheprettiest"
-  - username: "lu_coaching"
+    hashtags: "#nutritionist, #berlin, #ern, #sportmedizin"
+  - username: "andy7ne"
     fullname: >-
-      Die Luisa aus Göttingen
+      Andreas Sieben
     bio: >-
-      Mobility | Fitness | Nutrition Coach 💭 From Dream To Success 🌍 www.lu-coaching.de 📩 collaboration@lu-coaching.de 🎥 YouTube: Lu-Coaching
+      @gym_nutrition_official -10% mit Andreas10 @hyroxger @smilodox andy7 @urbansportsclub 📍Rheinland 👨‍👩‍👧‍👧Papa u Ehemann 📧 andy7ne@gmx.de 🏋️#crossfit
     location: "Germany"
-    followers: 147899
-    engagement: 190
-    commentsToLikes: 0.042025
-    id: ck8t0zjkntwv00j78l6o1ty8f
+    followers: 60998
+    engagement: 208
+    commentsToLikes: 0.277571
+    id: ckox6uxvntly90j23h4bt4b54
     verified: false
-    hashtags: "#fitnesstransformation, #beintraining, #abnehmen, #unperfektperfekt"
+    hashtags: "#puma, #abnehmen, #workout, #montag"
 ---

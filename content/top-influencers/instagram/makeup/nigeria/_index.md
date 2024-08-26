@@ -1,12 +1,24 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Nigeria In 2023
+title: Top 10 Makeup Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top makeup Instagram influencers in Nigeria in 2023. Most popular hashtags: #explorepage #beauty #makeup.
+  Find top makeup Instagram influencers in Nigeria in 2024. Most popular hashtags: #beauty #explorepage #makeupforblackwomen.
 platform: Instagram
-hits: 68
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database holds 68 Instagram influencers like this in Nigeria for you to collaborate.
+hits: 81
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 81 Instagram influencers like this in Nigeria for you to collaborate.
 profiles:
+  - username: "roadtorainbow"
+    fullname: >-
+      Sanne ⋒ Road to Rainbow
+    bio: >-
+      ⌂ Dutchie in 🇨🇦 ⁂ Miscarriage survivor x 4 ♡ Supporting moms; Sunday story sharing ⋒ Raising two rainbows • Color match for easy mom makeup ↓
+    location: "Nigeria"
+    followers: 14865
+    engagement: 347
+    commentsToLikes: 0.048192
+    id: cks8aqh6tupq80j23nd7ii16x
+    verified: false
+    hashtags: "#theyarestillwithus, #rainbowbaby, #hopeoverfear, #wheredidthetimego"
   - username: "feyisoge"
     fullname: >-
       LAGOS MAKEUP ARTIST
@@ -91,18 +103,6 @@ profiles:
     id: ck0w0w090gawu0i199mk1sqjz
     verified: false
     hashtags: "#explorepage, #melaninmakeupdaily, #makeupartistinnigeria, #lovegraphic"
-  - username: "lhidhiastanley"
-    fullname: >-
-      LYDIA STANLEY 🦋
-    bio: >-
-      BEAUTY INFLUENCER | DIGITAL CONTENT CREATOR | CIVIL ENGINEER 📩 LHIDHIASTANLEY@GMAIL.COM 📍NIGERIA 🇳🇬 GET YOUR MAKEUP DONE @lhidhiastanley_studio
-    location: "Nigeria"
-    followers: 68463
-    engagement: 575
-    commentsToLikes: 0.051065
-    id: ck15ptj6rzjut0i19mt8joqe2
-    verified: false
-    hashtags: "#nigerian, #wakeupandmakeup, #lhidhiastanley, #bellanaijaweddings"
   - username: "the.kohh"
     fullname: >-
       K O H H✨

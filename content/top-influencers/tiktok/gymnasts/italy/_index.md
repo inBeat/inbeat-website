@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In Italy In 2023
+title: Top 10 Gymnasts TikTok Influencers In Italy In 2024
 description: >-
-  Find top gymnasts TikTok influencers in Italy in 2023. Most popular hashtags: #gymnastics #perte #gym #ginnasticaartistica.
+  Find top gymnasts TikTok influencers in Italy in 2024. Most popular hashtags: #gymnastics #perte #ginnasticaartistica #gym.
 platform: TikTok
 hits: 32
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our database aggregates 32 TikTok influencers like this in Italy for you to work with.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 32 TikTok influencers like this in Italy for you to work with.
 profiles:
   - username: "ookaygreta"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.018801
     id: ckcopomqv6zeo0j23rfps1op7
     verified: false
-    hashtags: "#me, #airtrack, #tommasozorzi, #gymnastics"
+    hashtags: "#me, #airtrack, #foryoupage, #tommasozorzi"
   - username: "sophyfluffy"
     fullname: >-
       Sophia Campana

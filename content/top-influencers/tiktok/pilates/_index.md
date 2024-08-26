@@ -1,11 +1,11 @@
 ---
-title: Top 10 Pilates TikTok Influencers In 2023
+title: Top 10 Pilates TikTok Influencers In 2024
 description: >-
-  Find top pilates TikTok influencers in 2023. Most popular hashtags: #pilates #fitness #workout #fyp.
+  Find top pilates TikTok influencers in 2024. Most popular hashtags: #pilates #fitness #fyp #workout.
 platform: TikTok
-hits: 308
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our database holds 308 TikTok influencers like this for you to pitch.
+hits: 310
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 310 TikTok influencers like this for you to pitch.
 profiles:
   - username: "blogilates"
     fullname: >-
@@ -61,12 +61,12 @@ profiles:
     bio: >-
       Coreografa💃🏽 Influencer🤳 Pilates T.🧘🏻‍♀️ Mamma👩‍👧‍👦 Moglie Gigi e Ross😂
     location: "Italy"
-    followers: 46700
-    engagement: 583
-    commentsToLikes: 0.042932
+    followers: 46600
+    engagement: 614
+    commentsToLikes: 0.046740
     id: ckbf2ror4pxe90j23nf0rp3ke
     verified: false
-    hashtags: "#foryoupage, #parati, #perte, #foryou"
+    hashtags: "#gigieross, #foryoupage, #perte, #neiperte"
   - username: "bodyverafitness"
     fullname: >-
       VICTORIA RIVERA

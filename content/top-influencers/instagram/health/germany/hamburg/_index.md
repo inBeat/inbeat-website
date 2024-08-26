@@ -1,24 +1,24 @@
 ---
-title: Top 10 Health Instagram Influencers In Hamburg In 2023
+title: Top 10 Health Instagram Influencers In Hamburg In 2024
 description: >-
-  Find top health Instagram influencers in Hamburg in 2023. Most popular hashtags: #hamburg #motivation #fitness #health.
+  Find top health Instagram influencers in Hamburg in 2024. Most popular hashtags: #hamburg #motivation #health #fitness.
 platform: Instagram
-hits: 85
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 85 Instagram influencers like this in Hamburg, Germany for you to connect with.
+hits: 113
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 113 Instagram influencers like this in Hamburg, Germany for you to collaborate.
 profiles:
-  - username: "theprincemisugi"
+  - username: "running.alexandra"
     fullname: >-
-      Serkan Akgün
+      Alexandra Stumpenhagen 🏃‍♀️🩺
     bio: >-
-      FITNESS & COVER MODEL @vitaminversand24 SERKAN15 15% @commando_camp 15% with Serkan15
+      👟⠀running | motivation | health 👩‍⚕️⠀doctor⚕️internal medicine 🏃‍♀️⠀ASICS FrontRunner 🔹⠀Type 1 Diabetic 📍⠀Hamburg
     location: "Germany"
-    followers: 60396
-    engagement: 228
-    commentsToLikes: 0.027828
-    id: ck600jkjedq2m0i14bbpocb2n
+    followers: 44258
+    engagement: 352
+    commentsToLikes: 0.029100
+    id: ck0tvvcqqcy9f0i198m23re35
     verified: false
-    hashtags: "#sunglasses, #outdoorphotography, #gym, #instagram"
+    hashtags: "#health, #hamburg, #tipps, #lauftipps"
   - username: "karodelafleur"
     fullname: >-
       𝐊𝐀𝐑𝐎 𝐃𝐄𝐋𝐀𝐅𝐋𝐄𝐔𝐑
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.043872
     id: ck14lczkxu1rv0i19mr4936x0
     verified: false
-    hashtags: "#discoverfrance, #gl, #elsass, #glasmomente"
+    hashtags: "#hymer, #travelinfrance, #discoverfrance, #glasmomente"
   - username: "murieldng"
     fullname: >-
       Muriel Dang
@@ -67,42 +67,6 @@ profiles:
     id: ckaox3eh8blru0i78rs14vwhe
     verified: false
     hashtags: "#bestfriends, #dogmodelsearch, #bestwoof, #dackelblick"
-  - username: "vanessa__mariposa"
-    fullname: >-
-      VANESSA MARIPOSA
-    bio: >-
-      🍋 | @fitness_vanessamariposa 📧 | management@vanessamariposa.com EXCLUSIVE CONTENT👇🏼🔥⠀⁣⁣⁣
-    location: "Germany"
-    followers: 367821
-    engagement: 128
-    commentsToLikes: 0.118760
-    id: ck6tplvpuklvl0j71b2j2zsg5
-    verified: false
-    hashtags: "#vacayallday, #fitness, #blackfriday2020, #friyayvibes"
-  - username: "ladyhammer_official"
-    fullname: >-
-      C H R I S T I N A  H A M M E R
-    bio: >-
-      🌎WORLDBOXINGCHAMP 🇩🇪🇰🇿 sponsored by ⚡️ @rooq.boxing 🔫 @flowsportstech_germany 👄@dreve_company 🥊 @paffensportboxing info@christinahammer.de
-    location: "Germany"
-    followers: 172686
-    engagement: 436
-    commentsToLikes: 0.010502
-    id: ck6tws25ztrr40j71av55ugqw
-    verified: true
-    hashtags: "#femaleempowerment, #sport, #team, #gymlife"
-  - username: "nico.runge"
-    fullname: >-
-      Fitness & Fashion - Nico 📸
-    bio: >-
-      📍Hamburg 👔 Mensfashion / Lifestyle 📨 Nicorunge@arcor.de ❤️ L
-    location: "Germany"
-    followers: 107180
-    engagement: 159
-    commentsToLikes: 0.039478
-    id: ck13685ti57rx0i19rzgrvojg
-    verified: false
-    hashtags: "#sportmotivation, #menwithstreetstyle, #streetwear, #gentlemanstyle"
   - username: "jc.carlsson"
     fullname: >-
       Jonathan Carlsson
@@ -114,17 +78,53 @@ profiles:
     commentsToLikes: 0.109945
     id: ck14irsgugwh00i19n987zfae
     verified: false
-    hashtags: "#nature, #studio, #outdoors, #lifestyle"
-  - username: "running.alexandra"
+    hashtags: "#blackandwhite, #lifestyle, #nature, #modeling"
+  - username: "joana_health"
     fullname: >-
-      Alexandra Stumpenhagen 🏃‍♀️🩺
+      Joana Link
     bio: >-
-      👟⠀running | motivation | health 👩‍⚕️⠀doctor⚕️internal medicine 🏃‍♀️⠀ASICS FrontRunner 🔹⠀Type 1 Diabetic 📍⠀Hamburg
+      🥔 B E R L I N 💫 Mental Health, Food & Fitness 🌻 #balance Mail: joana_health@foryouagency.de
     location: "Germany"
-    followers: 44258
-    engagement: 352
-    commentsToLikes: 0.029100
-    id: ck0tvvcqqcy9f0i198m23re35
+    followers: 79421
+    engagement: 327
+    commentsToLikes: 0.017476
+    id: clmizkry1ircb0j08yft5ktma
     verified: false
-    hashtags: "#laufenmachtgl, #inspiration, #pregnant, #tipps"
+    hashtags: "#curacao, #balance, #berlin, #goldie"
+  - username: "janis_danner"
+    fullname: >-
+      Janis Danner
+    bio: >-
+      📍Hamburg / ✉️ janis@influencing101.com Impressum: https://influencing101.com/impressum-danner/
+    location: "Germany"
+    followers: 1634315
+    engagement: 309
+    commentsToLikes: 0.006673
+    id: ck5chk99hqxql0i113npwhyru
+    verified: false
+    hashtags: "#sunglasshutstyle, #mood, #outfit, #fun"
+  - username: "coachseyit"
+    fullname: >-
+      Seyit Ali Shobeiri
+    bio: >-
+      PRIVATE HEALTH CONSULTING ⠀ 🔺VIP Consulting 🔺Medical Supplement Products 🔺Science-based Product Development ⠀ 🧭My Vision is my Compass 🇩🇪|🇺🇸|🇦🇪|🇲🇦|🇸🇦
+    location: "Germany"
+    followers: 1598346
+    engagement: 210
+    commentsToLikes: 0.004125
+    id: ck5q6vhpmyz690i11eqsw2vv1
+    verified: true
+    hashtags: "#training, #mma, #iamstronger, #strengthandconditioning"
+  - username: "magic_fabi"
+    fullname: >-
+      Fabian Hochbaum
+    bio: >-
+      Hopefully I can have an (positive) impact 🤍 ➳ Entrepreneur & Creator: Outfits | Athlet | Health ➳ GER 🇩🇪 Ms | @alexandra_h87 👩🏻‍❤️‍👨🏽
+    location: "Germany"
+    followers: 19295
+    engagement: 116
+    commentsToLikes: 0.123797
+    id: ck135qo722rc90i19hgy3shky
+    verified: false
+    hashtags: "#waymenfashion, #fitnessshophamburg, #workout, #dadwithstyle"
 ---

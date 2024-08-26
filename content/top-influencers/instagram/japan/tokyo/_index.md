@@ -1,12 +1,24 @@
 ---
-title: Top 10 Instagram Influencers In Tokyo In 2023
+title: Top 10 Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top Instagram influencers in Tokyo in 2023. Most popular hashtags: #visitjapan #japan #japaneseculture.
+  Find top Instagram influencers in Tokyo in 2024. Most popular hashtags: #cosplayer #tokyo #japan.
 platform: Instagram
-hits: 2122
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 2122 Instagram influencers like this in Tokyo, Japan for you to collaborate.
+hits: 2291
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database holds 2291 Instagram influencers like this in Tokyo, Japan for you to work with.
 profiles:
+  - username: "tokyo"
+    fullname: >-
+      Tokyo - 東京
+    bio: >-
+      We are passionate about promoting and celebrating Tokyo the world over - Account managed by The Tokyo Publishing Co.
+    location: "Japan"
+    followers: 179169
+    engagement: 299
+    commentsToLikes: 0.008963
+    id: ck0w3vhj9vhnd0i19g8zemw86
+    verified: false
+    hashtags: ""
   - username: "satomi_0819"
     fullname: >-
       Satomi🍓
@@ -31,100 +43,88 @@ profiles:
     id: ck5zxkkkh86u70i148xhw8u5c
     verified: false
     hashtags: "#djquietstorm, #djyas, #tight, #djkrush"
-  - username: "tokyo"
+  - username: "yurikotiger"
     fullname: >-
-      Tokyo - 東京
+      ユリコタイガー YURIKO TIGER
     bio: >-
-      We are passionate about promoting and celebrating Tokyo the world over - Account managed by The Tokyo Publishing Co.
+      🇯🇵×🇮🇹 Italian/Japanese 📍 東京在住 based in Tokyo ▶ Cosplayer, Model, YouTuber, Anisong DJ ☄️依頼→ info@meteora-st.jp✉️ english →DM
     location: "Japan"
-    followers: 129980
-    engagement: 543
-    commentsToLikes: 0.006985
-    id: ck0w3vhj9vhnd0i19g8zemw86
-    verified: false
-    hashtags: ""
-  - username: "sylvia.wakana"
-    fullname: >-
-      Sylvia わかな - Japanese Food + Life
-    bio: >-
-      Cooking & Eating in LA + Tokyo [ハーフ] 🇺🇸🇯🇵 🎥 Tiktok: sylvia.wakana (210k+) ▶️ Youtube.com/sylviawakana ⬇️ Simple Japanese Recipes
-    location: "Japan"
-    followers: 73101
-    engagement: 307
-    commentsToLikes: 0.033552
-    id: ck5caemc7d9td0i11bwymyy0c
-    verified: false
-    hashtags: "#japanlife, #oshogatsu, #japanesefoodlover, #japanesefoods"
-  - username: "emilijaagate"
-    fullname: >-
-      Emīlija Agate Palina
-    bio: >-
-      ✝️💖tiktok 50k cuties 🇯🇵Osaka;Tokyo🇨🇳Beijing 🇹🇼Taipei 🇱🇻MA @nataliemodels.riga
-    location: "Japan"
-    followers: 8350
-    engagement: 1305
-    commentsToLikes: 0.093358
-    id: ck0w011a8buv00i19pr2m8fy3
-    verified: false
-    hashtags: "#nakdlounge, #rekl, #zaful, #sadarb"
-  - username: "bassettabroad"
-    fullname: >-
-      Japan Life & Travel 🇯🇵
-    bio: >-
-      ⛩ Sharing Japan adventures on the feed, daily life on stories! 🍱 📍 Tokyo & Saitama 🗣 English & 日本語
-    location: "Japan"
-    followers: 4837
-    engagement: 1828
-    commentsToLikes: 0.295696
-    id: ckap8fxs1o51f0i788s2bjsv6
-    verified: false
-    hashtags: "#ilovejapan, #japan, #explorejapan, #visitjapan"
-  - username: "stefatty_"
-    fullname: >-
-      Stephanie
-    bio: >-
-      📍Tokyo, Japan 🍔 A burger a day keeps the doctor away ⬇️ New YT Video: Kobe & Kyoto Food Adventure
-    location: "Japan"
-    followers: 39011
-    engagement: 955
-    commentsToLikes: 0.042617
-    id: ckap1n6hav9o80i783vql3rm8
-    verified: false
-    hashtags: "#novababe, #mycalvins, #pr"
-  - username: "kobara.vlas"
-    fullname: >-
-      小原ブラス
-    bio: >-
-      (株)AlmostJapanese所属タレント / コラムニスト 🇷🇺🇯🇵🏳️‍🌈 (フジTV) 「アウト×デラックス」アウト軍団 「めざまし8」コメンテーター (TOKYO MX) 「5時に夢中!」水曜黒船特派員 Twitter → kobaravlas YouTube → ピロシキーズ
-    location: "Japan"
-    followers: 20117
-    engagement: 907
-    commentsToLikes: 0.047997
-    id: ck5hn0v72mzv00i110qxxk8di
-    verified: false
-    hashtags: "#gojimu, #23, #2021, #casetify"
-  - username: "hidehisa0717"
-    fullname: >-
-      Hidehisa🔹Ohtsubo
-    bio: >-
-      Japan🔘Tokyo⏪️⏩️Fukuoka 🔵に🇮🇹 Fashion Suits or Casual #followme #like4like
-    location: "Japan"
-    followers: 7741
-    engagement: 1516
-    commentsToLikes: 0.199987
-    id: ck13abcdjpk290i19a8dw37a4
-    verified: false
-    hashtags: ""
-  - username: "cc_junpei_"
-    fullname: >-
-      JUNPEI (羽柴 純平)【COLOR CREATION】
-    bio: >-
-      COLOR CREATION(カラークリエイション) ・JPN🇯🇵Osaka.Tokyo ・Singer ・06.09 ビデオ通話を通して僕と会話できるオンラインミーティングが開催中です👏 下のページからご予約出来るので俺と話したいなーって思ってくれたみんなは是非参加してみて下さい😎
-    location: "Japan"
-    followers: 6864
-    engagement: 1360
-    commentsToLikes: 0.114717
-    id: ck9wgn9vyu42o0j78qx97xqa1
+    followers: 136545
+    engagement: 485
+    commentsToLikes: 0.008775
+    id: ck5hn0tuzmzr90i11p12fkl6v
     verified: true
-    hashtags: "#tiktok, #shes, #chelmico, #novelbright"
+    hashtags: "#tokyomodel, #yurikotiger, #cosplayer, #cosplay"
+  - username: "kimdaoblog"
+    fullname: >-
+      Kim Dao
+    bio: >-
+      Lifestyle | Japan Travel Guide 🇯🇵 📍 Tokyo, JP Sony Digital Imaging Ambassador YT: KimDao 780K | KimDaoVlog 170K | KimDaoGame 170K 📧 kimdao90@gmail.com
+    location: "Japan"
+    followers: 171454
+    engagement: 757
+    commentsToLikes: 0.015006
+    id: ck1373xue9ni40i19n75j7k3q
+    verified: false
+    hashtags: "#japantraveltips, #tokyo, #japan, #tokyotravelguide"
+  - username: "peachmilky_"
+    fullname: >-
+      Peach
+    bio: >-
+      🍰 Sophie * ソフィー 🇯🇵 Living in Tokyo 📸 Model 🌸 Cosplayer 👾 Streamer 🍑 Twitter: PeachMilky_ 💌 Business enquiries: peachmilky.business@gmail.com
+    location: "Japan"
+    followers: 318104
+    engagement: 516
+    commentsToLikes: 0.006951
+    id: ck0w40xtjw8u80i193j89s545
+    verified: false
+    hashtags: "#genshinimpact, #cosplayer, #genshin, #yoimiya"
+  - username: "na_tiita"
+    fullname: >-
+      Natita 🏳️‍🌈
+    bio: >-
+      Gg gg gg gg Tiktok 1.8M Host @tokyo.stream mngmt: @fede.mgmt Streamer en twitch /titasama
+    location: "Japan"
+    followers: 391581
+    engagement: 780
+    commentsToLikes: 0.007258
+    id: ck137x4btdhes0i194j4oox5o
+    verified: false
+    hashtags: "#animegirl, #artaesthetic, #comedia, #egirl"
+  - username: "ibrhmcolak"
+    fullname: >-
+      İbrahim Çolak
+    bio: >-
+      2019 World Champion🥇İ💚 2020 European Champion🥇 Tokyo2020🇯🇵Paris2024🇫🇷 manegemnt:@mustafaayata Advert and Partnership DM 📩
+    location: "Japan"
+    followers: 150386
+    engagement: 1142
+    commentsToLikes: 0.009842
+    id: ck8syti4bly580j78d0289agu
+    verified: false
+    hashtags: "#paris2024olympicgames, #teamt, #paris2024, #olympicgames"
+  - username: "shingo_gokan"
+    fullname: >-
+      Shingo Gokan
+    bio: >-
+      World Travel Bartender 🌏 Founder of SG group🌅 5 World’s/ Asia’s 50 Best & 5 new bars🍸 Tokyo🗼Shanghai 🐉 NYC🗽Okinawa 🏝️ @thesgshochu @kokuto_de_lequio
+    location: "Japan"
+    followers: 23379
+    engagement: 477
+    commentsToLikes: 0.018001
+    id: ck0u9h8vj9tx70i19if63016o
+    verified: false
+    hashtags: "#sggroup, #sgcs, #sg, #thesgclub"
+  - username: "yasemin.adar"
+    fullname: >-
+      Yasemin Adar Yiğit
+    bio: >-
+      #ilklerinkadını ⭐️Olympic Games 2020 Tokyo 🥉 🇹🇷6 EUROPEAN Champion🥇🥇🥇🥇🥇🥇 🇹🇷2 WORLD Champion🥇🥇 🇹🇷2 Akdeniz Oyunları🥇🥇 🤼‍♀️NIKE Athlete @balikesirbsb
+    location: "Japan"
+    followers: 45210
+    engagement: 2044
+    commentsToLikes: 0.018401
+    id: ck5zmd2bkmclg0i14xtactjkd
+    verified: true
+    hashtags: "#roadtotokyo, #teamturkey, #ilklerinkad, #serik"
 ---

@@ -1,24 +1,60 @@
 ---
-title: Top 10 Health Instagram Influencers In Venezuela In 2023
+title: Top 10 Health Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top health Instagram influencers in Venezuela in 2023. Most popular hashtags: #caracas #goodvibes #venezuela.
+  Find top health Instagram influencers in Venezuela in 2024. Most popular hashtags: #fitness #caracas #love.
 platform: Instagram
-hits: 47
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform has 47 Instagram influencers like this in Venezuela for you to pitch.
+hits: 40
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 40 Instagram influencers like this in Venezuela for you to contact.
 profiles:
-  - username: "bio.lunatic"
+  - username: "cuidartesamarte"
     fullname: >-
-      𝘎𝘌𝘕𝘌𝘚𝘐𝘚 𝘗𝘜𝘎𝘓𝘐𝘌𝘚𝘌
+      Andria Viloria Lubo
     bio: >-
-      - from Venezuela, currently Barcelona 📩: gen.pugliesep@gmail.com Ambassador: @vitaminwellesp #adidasrunnersbarcelona 👇🏻 Healthy recipes on YouTube
+      ✨creadora @nyotaskin 🌈holistic health coach 🦋lifestyle, skincare, travel, self-care
     location: "Venezuela"
-    followers: 17976
-    engagement: 616
-    commentsToLikes: 0.162496
-    id: ck0tvwbrnd2mu0i19v8w7tipq
+    followers: 190846
+    engagement: 564
+    commentsToLikes: 0.016536
+    id: ck5c6oaaa5ur00i11e4weo1ma
     verified: false
-    hashtags: "#shufflestyles, #vitaminwell, #deportista, #adidasrunnersbarcelona"
+    hashtags: "#perfumes, #scentoftheday, #makeup, #consejodehermanamayor"
+  - username: "morellafitness"
+    fullname: >-
+      Morella Potolicchio Villalba
+    bio: >-
+      🍫CEO @morellachocolate @eatmorefit 👩🏻‍🍳Chef Saludable Certificada 👣 #HealthyMom @bemorechiara 🏆6ta BikiniWorldRanking 17’
+    location: "Venezuela"
+    followers: 51906
+    engagement: 282
+    commentsToLikes: 0.030156
+    id: ck15sckg2cbp50i19o02ptrgu
+    verified: false
+    hashtags: "#fitnesslifestyle, #emprendedor, #healthydessert, #healthyfoodporn"
+  - username: "arymachadofit"
+    fullname: >-
+      ARYFIT
+    bio: >-
+      venezolana | fitness Coach 🦋 me apasiona motivar 🌿 healthy lifestyle workout w me ↓
+    location: "Venezuela"
+    followers: 190936
+    engagement: 136
+    commentsToLikes: 0.016279
+    id: ck15s3gdcb11n0i19dg70fdvh
+    verified: false
+    hashtags: "#motivate, #teamaryfit, #teamdelasbellas, #conamor"
+  - username: "izamorafit"
+    fullname: >-
+      Izamar Mora
+    bio: >-
+      🌎 Holistic Health🧠🩵🍃 🚘 Imagen @mm4wd 🔩 Venta de vehículos @izamora4wd 🥇 Campeona Bikini Vzla 2015 📍 Venezuela 🇻🇪
+    location: "Venezuela"
+    followers: 532961
+    engagement: 36
+    commentsToLikes: 0.073865
+    id: ck8sztmdbpnys0j78eyamm0nu
+    verified: false
+    hashtags: "#colombia, #venezuela, #apure, #fitnessmotivation"
   - username: "lalybreortiz"
     fullname: >-
       Laly Ortiz
@@ -31,18 +67,6 @@ profiles:
     id: ck6tngevn9sgb0j71optsi41a
     verified: false
     hashtags: ""
-  - username: "cuidartesamarte"
-    fullname: >-
-      Andria Viloria Lubo
-    bio: >-
-      Holistic Health coach ✨🌈🦋🧖🏽‍♀️🥰 Inspirando Bienestar a través del amor Shop @nyotaskin lifestyle, skincare, wellness, travel, self-care
-    location: "Venezuela"
-    followers: 110367
-    engagement: 410
-    commentsToLikes: 0.139324
-    id: ck5c6oaaa5ur00i11e4weo1ma
-    verified: false
-    hashtags: "#cuidartesamarte, #makeup, #skincare, #24"
   - username: "alejandro_otero"
     fullname: >-
       Alejandro Otero
@@ -103,28 +127,4 @@ profiles:
     id: ck15s3eq8b0ss0i19q6shs6gs
     verified: false
     hashtags: ""
-  - username: "morellafitness"
-    fullname: >-
-      Morella Potolicchio Villalba
-    bio: >-
-      👣 #HealthyMom @bemorechiara 👩🏻‍🍳Chef Saludable Certificada 🍞CEO @eatmorefit 💡Content Creator & Recipe Developer 🏆6ta BikiniWorldRanking 17’
-    location: "Venezuela"
-    followers: 41721
-    engagement: 238
-    commentsToLikes: 0.031316
-    id: ck15sckg2cbp50i19o02ptrgu
-    verified: false
-    hashtags: "#motherhood, #fitfood, #momsofinstagram, #momlife"
-  - username: "angustia"
-    fullname: >-
-      ANGUSTIA | Angélica Gómez
-    bio: >-
-      Open-minded | Communicator | Digital Activist & Self-motivated | Healthy Foodie | Energy Believer 🌿 🫀@laperfeccion.quenoven 🧵 @maylea.ve ⬇️ Mi web ⬇️
-    location: "Venezuela"
-    followers: 21877
-    engagement: 542
-    commentsToLikes: 0.028578
-    id: ck5q7n7ni2bs70i11fyma76fg
-    verified: false
-    hashtags: "#caracas, #venezuela, #mindfulness, #positivevibes"
 ---

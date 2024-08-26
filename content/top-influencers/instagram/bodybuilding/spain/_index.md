@@ -1,12 +1,24 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Spain In 2023
+title: Top 10 Bodybuilding Instagram Influencers In Spain In 2024
 description: >-
-  Find top bodybuilding Instagram influencers in Spain in 2023. Most popular hashtags: #bodybuilding #fitness #gym #muscle.
+  Find top bodybuilding Instagram influencers in Spain in 2024. Most popular hashtags: #bodybuilding #fitness #gym #motivation.
 platform: Instagram
-hits: 86
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 86 Instagram influencers like this in Spain for you to work with.
+hits: 97
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 97 Instagram influencers like this in Spain for you to collaborate.
 profiles:
+  - username: "sergvlc"
+    fullname: >-
+      SERGIO DELAMO
+    bio: >-
+      👨🏽‍🎓 | Nutricionista+CAFD | Bodybuilding Coach 💻 📩 | Contacto: Sergio_delamo@hotmail.com 💊 | @big_suplementacion -10%COD “SERGVLC” 🎥 | Youtube:SERGVLC
+    location: "Spain"
+    followers: 65635
+    engagement: 209
+    commentsToLikes: 0.060668
+    id: ck8sw3mppdnas0j78ygh85ybr
+    verified: false
+    hashtags: "#food, #entrenamiento, #novedad, #gymbro"
   - username: "kevinhernandeznb"
     fullname: >-
       Kevin Hernández
@@ -18,7 +30,7 @@ profiles:
     commentsToLikes: 0.031130
     id: ck6trbj5ly18x0j71oetgm3vv
     verified: false
-    hashtags: "#2019, #culturismo, #wnbfspain, #culturismonatural"
+    hashtags: "#swimwear, #muscle, #naturalbodybuilder, #2019"
   - username: "catalin_dobrescu6"
     fullname: >-
       Catalin Dobrescu
@@ -31,100 +43,88 @@ profiles:
     id: ck6ufumjiz86p0j71n9l46pza
     verified: false
     hashtags: ""
-  - username: "serraalex_"
+  - username: "pablo_llopis9"
     fullname: >-
-      Alex Serra
+      Pablo Llopis Ifbb Pro
     bio: >-
-      Fitness | Lifestyle 📍Ibiza @greatiamwear cod: ALEX @hawkerscrew 📩 serraalexibz@gmail.com
+      𝙄𝙁𝘽𝘽 𝙋𝙍𝙊 @io.genix cod.dto: LLOPIS @agon_gym @etenonfitness @naturecan.es @growthguildeurope 📩Asesoramientos y colabs Pablollopisnutrition@gmail.com
     location: "Spain"
-    followers: 11225
-    engagement: 1057
-    commentsToLikes: 0.113688
-    id: ckapapl23wznu0i78sl4p70rn
+    followers: 121504
+    engagement: 801
+    commentsToLikes: 0.027033
+    id: ck5q33yh6j3pi0i11mfa5gne2
     verified: false
-    hashtags: "#arm, #bodybuilding, #muscle, #gym"
-  - username: "rahelanastasia_ifbbpro"
+    hashtags: "#culturismo, #gym, #motivation, #scientifficnutrition"
+  - username: "angelcalderonfrias"
     fullname: >-
-      Rahel Cucchia IFBB PRO
+      Angel Calderon Ifbb Pro
     bio: >-
-      IFBB FIGURE PRO @evogennutrition 🧬 ‘evogenelite’ @ironbullstrength ‘Rahel’ @radiant_physiquewear @noccoswitzerland @dagmarsimmen Online coaching ⤵️
+      7 PRO WINS 🏆 ~ 🥈 212 Olympia @prozis @etenonfitness @raulcarniceriapotrolechal ÚNETE AL TEAMCALDERÓN ⭕️
     location: "Spain"
-    followers: 82354
-    engagement: 1139
-    commentsToLikes: 0.070776
-    id: ck5hn9j4infqs0i11gmg4n0u1
+    followers: 132811
+    engagement: 416
+    commentsToLikes: 0.012295
+    id: ck5hkfakxibks0i11nd332fk2
     verified: false
-    hashtags: "#figurepro, #competition, #focus, #progress"
-  - username: "martabisshopp"
+    hashtags: "#roadtomrolympia, #yamamotonutrition, #etenonathlete, #tbjpc"
+  - username: "tania.rdg"
     fullname: >-
-      M A R T A  B I S S H O P P
+      TANIA RODRÍGUEZ AGUILERA
     bio: >-
-      ▫️ Fitness&Health ▫️ Médico👩🏽‍⚕️🩺 ▫️ @myproteines : BISSHOPP ▫️#naturalbodybuilding
+      Luxury Real Estate Broker @dcanorealestate_agency Marketing & Events @etereagence
     location: "Spain"
-    followers: 10487
-    engagement: 856
-    commentsToLikes: 0.014264
-    id: ck8talv1osaqn0j780xyqs5v2
+    followers: 10915
+    engagement: 378
+    commentsToLikes: 0.095505
+    id: ck5hr3uo2u7ys0i11ntw0a7bv
     verified: false
-    hashtags: "#healthylifestyle, #lifestyle, #health, #train"
-  - username: "guillemcb88"
+    hashtags: "#fitnessaddict, #fit, #muscle, #fitnessmodel"
+  - username: "norbert_fenix"
     fullname: >-
-      Guillem Clave
+      Norbert Fenix
     bio: >-
-      @musclemania PRO 💳 @beverlynutrition 💊 @noccospain @tlfapparel athlete disc. code: TLF-GUILLEM Coach @teamradicaltrainer @gos.shoes GUILLEM15OFF 👟👇
+      Worldwide coaching🌎 All female divisions Coach of IFBB PROs & ⭕️lympians @fenixteampl Owner🏆 @biolab.shop FENIX @fenixhouse1 professional posing room
     location: "Spain"
-    followers: 39292
-    engagement: 492
-    commentsToLikes: 0.048105
-    id: ck5c3gkxqza480i11pqf0h6y1
+    followers: 19488
+    engagement: 320
+    commentsToLikes: 0.024070
+    id: ck15rbc3w73ds0i19xqea1528
     verified: false
-    hashtags: "#sport, #fit, #fitnessmodels, #nocco"
-  - username: "mistercalisthenics"
+    hashtags: "#bodybuilding, #teamfenix, #classicphysique, #passion"
+  - username: "marulekhal"
     fullname: >-
-      🌍ᎷᎥᏕᏖᏋᏒ🖤
+      Maru Lekhal | Entrenador Online
     bio: >-
-      🔥 𝐅𝐮𝐧𝐝𝐚𝐝𝐨𝐫 𝐝𝐞 @barbrothersvlc 💉 𝐓𝐚𝐭𝐮𝐚𝐝𝐨𝐫 @mistertattooskull 💪🏽 𝐏𝐨𝐧𝐭𝐞 𝐞𝐧 𝐟𝐨𝐫𝐦𝐚 𝐜𝐨𝐧𝐦𝐢𝐠𝐨! 𝐏𝐚𝐫𝐚 𝐫𝐮𝐭𝐢𝐧𝐚𝐬 𝐲 𝐜𝐥𝐚𝐬𝐞𝐬 𝐨𝐧-𝐥𝐢𝐧𝐞, 𝐞𝐬𝐜𝐫í𝐛𝐞𝐦𝐞! 📍 𝐕𝐚𝐥𝐞𝐧𝐜𝐢𝐚.
+      📍🇪🇸 Fitness | Lifestyle | GymTips | Comida •@TeamMaru_ +12.000 Cambios Físicos 🌍 •@myproteines DTO% (Marump) 👇CAMBIA TU FISICO CONMIGO PLANES + APP
     location: "Spain"
-    followers: 16554
-    engagement: 374
-    commentsToLikes: 0.080335
-    id: ck135fir915vb0i19e5e9pjg0
+    followers: 743737
+    engagement: 183
+    commentsToLikes: 0.017239
+    id: ckap5w3zadf0d0i7868hm4orf
     verified: false
-    hashtags: "#weightloss, #gym, #strong, #lifestyle"
-  - username: "akandreska"
+    hashtags: "#workout, #fitfam, #gymlife, #fit"
+  - username: "roblipsett"
     fullname: >-
-      Andrés Castellón 🧬
+      Rob Lipsett
     bio: >-
-      🐺 Be your own motivation 🦍 @powerbuilding_oficial TEAM 🥶@myproteines -38% ⬇️link + “ANDRESMP”
+      YouTuber 🇮🇪 Owner @FuelCakes | @GamePlan | @VillaLipsett @Alphalete | @GhostLifestyle code: LIPSETT Customised programs 👇🏼
     location: "Spain"
-    followers: 6730
-    engagement: 2861
-    commentsToLikes: 0.034808
-    id: ck6tkqxum58fg0j71gmjhumeg
-    verified: false
-    hashtags: "#training, #me, #workout, #madrid"
-  - username: "anamoussa_rojita"
+    followers: 668697
+    engagement: 109
+    commentsToLikes: 0.005297
+    id: ck0ttcmfg25770i19jjb30lst
+    verified: true
+    hashtags: "#fitness, #whatieatinaday, #fulldayofeating, #bodybuilding"
+  - username: "ollierhoda"
     fullname: >-
-      ANA MOUSSA 👩🏼‍🦰
+      OLLIE RHODA | ONLINE TRANSFORMATION COACH💻
     bio: >-
-      ATLETA 💪🏻 🐲 @dragonpharma_col 🏋️‍♂️ @capitalfit_gym ☕️ @vitalfittea_ 🦷 @now.dentalgroup diseñadora de espacios!..
+      ▪️ @ayblmen athlete | discount code OLLIE ▫️ @myprotein athlete | discount code OLLIE ▪️ @ollierhodatransformations ▫️ ONLINE COACHING | APPLY BELOW
     location: "Spain"
-    followers: 106079
-    engagement: 166
-    commentsToLikes: 0.052560
-    id: ck5zqdybmufgs0i14lq5pxdrv
+    followers: 135581
+    engagement: 59
+    commentsToLikes: 0.057998
+    id: ckf5mg1n8tmpe0j23yf24zv98
     verified: false
-    hashtags: "#strong, #abs, #tbt, #legs"
-  - username: "marc_latre"
-    fullname: >-
-      Marc Latre | Online Coach
-    bio: >-
-      🌐 Online coaching & Personal training ⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣ ⁣ 🎥 YouTube⁣⁣⁣⁣⁣⁣ 📍 Barcelona 📲 Coaching, eBooks & more:
-    location: "Spain"
-    followers: 6551
-    engagement: 148
-    commentsToLikes: 0.196233
-    id: ckf5q3nxe82ye0j23rhokleuz
-    verified: false
-    hashtags: "#gymshark, #gymsharktrain, #fitnessmotivation, #weekendmotivation"
+    hashtags: "#motivation, #transformation, #training, #results"
 ---

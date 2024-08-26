@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening TikTok Influencers In Chicago In 2023
+title: Top 10 Gardening TikTok Influencers In Chicago In 2024
 description: >-
-  Find top gardening TikTok influencers in Chicago in 2023. Most popular hashtags: #gardening #garden #fyp #plants.
+  Find top gardening TikTok influencers in Chicago in 2024. Most popular hashtags: #gardening #garden #fyp #plants.
 platform: TikTok
 hits: 4
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 4 TikTok influencers like this in Chicago, United States for you to connect with.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database aggregates 4 TikTok influencers like this in Chicago, United States for you to pitch.
 profiles:
   - username: "antifaterrorists"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.309111
     id: ckc8xfm28lcen0j23p1lup6zq
     verified: false
-    hashtags: "#gardening, #garden, #summer, #growfoodnow"
+    hashtags: "#growfoodnow, #gardening, #vacation, #garden"
   - username: "wholesomeroots"
     fullname: >-
       WholesomeRoots
@@ -85,12 +85,12 @@ profiles:
     bio: >-
       🪴Steph🪴 cottagecore gardening and travel ‼️Taxidermist‼️ Insta: nirian_vigora
     location: "United States"
-    followers: 3683
-    engagement: 2029
-    commentsToLikes: 0.034276
+    followers: 3804
+    engagement: 2044
+    commentsToLikes: 0.029445
     id: ckb10ql6ep92k0j2385rk4qy2
     verified: false
-    hashtags: "#frogtiktok, #plants, #frog, #lgbt"
+    hashtags: "#cottagecore, #lgbt, #frog, #frogtiktok"
   - username: "levelupirl"
     fullname: >-
       levelupirl

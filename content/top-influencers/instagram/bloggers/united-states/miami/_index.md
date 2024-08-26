@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Miami In 2023
+title: Top 10 Bloggers Instagram Influencers In Miami In 2024
 description: >-
-  Find top bloggers Instagram influencers in Miami in 2023. Most popular hashtags: #miami #blogger #miamiblogger #ootd.
+  Find top bloggers Instagram influencers in Miami in 2024. Most popular hashtags: #blogger #miamiblogger #miami #influencer.
 platform: Instagram
-hits: 220
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 220 Instagram influencers like this in Miami, United States for you to pitch.
+hits: 227
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 227 Instagram influencers like this in Miami, United States for you to contact.
 profiles:
   - username: "natalie.engelbrecht"
     fullname: >-
@@ -19,18 +19,18 @@ profiles:
     id: ck8t0ni8tsnrc0j784pgw0rqy
     verified: false
     hashtags: "#myjbw, #jbwwatches"
-  - username: "exploramiami"
+  - username: "olgaurbanovich_"
     fullname: >-
-      Hi 👋🏻 I’m Eu
+      Olga Urbanovich
     bio: >-
-      Mi nombre verdadero 👉🏻 Eugenia ¿Que hago? 👉🏻 Explorar #MIAMI 🇺🇸 auténticamente✨ Hi@exploramiami.com
+      🌱 yoga teacher 💕wellness advocate 📍Miami blogger🌸content creator 📸📽️ 🤝 collaborations Olga.Urbanovich84@gmail.com Shop my outfits 👇🏻
     location: "United States"
-    followers: 28619
-    engagement: 166
-    commentsToLikes: 0.078152
-    id: ck0w0g2t7e0jq0i19b59mcqq3
+    followers: 112975
+    engagement: 12
+    commentsToLikes: 0.027445
+    id: ck14hsr2gby230i194saiy2dt
     verified: false
-    hashtags: "#bloggermiami, #exploraflorida, #miamibloggers, #miami"
+    hashtags: "#miamiblogger, #hallandalebeach, #yogapractice, #yogateacher"
   - username: "kat.proano"
     fullname: >-
       Kat Proano 🦋
@@ -43,18 +43,42 @@ profiles:
     id: ck9wejoqtkkhp0j7851tz6735
     verified: false
     hashtags: "#monatmotorclub, #miamibeach, #bloggerstyle, #miamiblogger"
-  - username: "derekzagami"
+  - username: "styling360"
     fullname: >-
-      Derek Zagami
+      Elizabeth Inciarte | Fashion & Style blog
     bio: >-
-      On-Air🎤🎥📺📱On-The Web #RealiTea & #LuxeLifeWithDerekZ 📺 @necntv @nbclx Latest Videos
+      Miami Blogger | Not just another outfit 📍Fashion•Beauty•Lifestyle•Motherhood I’m a #wowmom Creator of #wwbestw 📩 elistyling360@gmail.com
     location: "United States"
-    followers: 18628
-    engagement: 168
-    commentsToLikes: 0.029637
-    id: ck14l6gqtt3jl0i195u4vazq0
+    followers: 31194
+    engagement: 103
+    commentsToLikes: 0.184472
+    id: cksdcrll5mzs10j23u2d0tz46
     verified: false
-    hashtags: "#tvhost, #host, #necn, #entertainment"
+    hashtags: "#zaralovers, #moda2023, #miamibloggers, #modayestilo"
+  - username: "clopez305"
+    fullname: >-
+      𝐂𝐚𝐫𝐨𝐥𝐢𝐧𝐚 Lopez
+    bio: >-
+      Entrepreneur Host🎤 Content Creator Foodie🥗🍱🍝 Blogger 📍Miami, FL ⚡️Empowering others to work from WiFi
+    location: "United States"
+    followers: 96831
+    engagement: 94
+    commentsToLikes: 0.034572
+    id: cknsou0v77x590j23iiubsi7o
+    verified: false
+    hashtags: "#transformation, #reel, #influencer, #reels"
+  - username: "andreadivalentina"
+    fullname: >-
+      Andrea DiValentina
+    bio: >-
+      Attorney | Miami Blogger Luxury Fashion, Lifestyle, and Travels → Andreavalentinainfo@gmail.com
+    location: "United States"
+    followers: 40021
+    engagement: 61
+    commentsToLikes: 0.094874
+    id: cl05xuhmi800b0i23l73kxafu
+    verified: false
+    hashtags: "#outfitofthenight, #miamiblogger, #luxuryfashion, #outfitinspo"
   - username: "allbuenothingsoli"
     fullname: >-
       Olga Slesarenco, Miami Blogger
@@ -66,19 +90,7 @@ profiles:
     commentsToLikes: 0.010116
     id: ck139mcghm0my0i19caefdc81
     verified: false
-    hashtags: "#parisianstyle, #ootd, #paris, #hamptonsstyle"
-  - username: "sonikhanem"
-    fullname: >-
-      Sonia Sani D.O.
-    bio: >-
-      www.sonikhanem.com #Doctor💉 #Pilot #PPL🛩 #aviation Blogger 📍#miami & #LA #Youtube: Sonikhanem #Filmmaker in progress🎥 ➡️my YouTube Channel!!
-    location: "United States"
-    followers: 35912
-    engagement: 379
-    commentsToLikes: 0.045038
-    id: ck6uax43p66ie0j71y5iv3imn
-    verified: false
-    hashtags: "#doctorlife, #femalepilot, #blackouttuesday, #whoamiforgetting"
+    hashtags: "#ootd, #montauk, #beach, #hamptons"
   - username: "juliecrespp"
     fullname: >-
       Julie Crespp
@@ -91,18 +103,18 @@ profiles:
     id: ck8tc15ejxwxv0j78l2eey9mi
     verified: false
     hashtags: "#barbieblogger, #barbiedollhouse, #myprincess, #dollhouse"
-  - username: "_romeliia"
+  - username: "foodiefollowings"
     fullname: >-
-      Romelia Jimenez
+      • L D •
     bio: >-
-      Mexicana | viviendo el sueño americano S a n t a B a r b a r a📍J a l i s c o Travel • Adventure • Food • Playa
+      📍Chicago• Just for Pun 😜 #foodiefollowings foodiefollowings@gmail.com 📩
     location: "United States"
-    followers: 9795
-    engagement: 1574
-    commentsToLikes: 0.021981
-    id: ck8t2s4r10ify0j785fctk7uf
+    followers: 12828
+    engagement: 289
+    commentsToLikes: 0.274575
+    id: ck6ugiagu36gr0j7126wy53vo
     verified: false
-    hashtags: "#ootd, #panorama, #fashionistas, #modelsearch"
+    hashtags: "#foodpics, #dessert, #bonappetitmag, #eeeeeats"
   - username: "getfitwithcabi"
     fullname: >-
       Cabi
@@ -115,16 +127,4 @@ profiles:
     id: ck14jqcrulo0b0i19fetlebo2
     verified: false
     hashtags: "#weightloss, #healthylifestyle, #miamiinfluencer, #fitness"
-  - username: "brookeprettyass"
-    fullname: >-
-      Brooke by the book.
-    bio: >-
-      God’s child. 😇 FAITH over fear. I’m glad you’re here 👽 Owner: @brookscarecollection < DM 4 products Bartender/Mixologist 🍾🍸🥃🍹 ￼￼￼serious inquires📥📧🔌
-    location: "United States"
-    followers: 7664
-    engagement: 206
-    commentsToLikes: 0.073815
-    id: ck55mv25x4vsh0i11qyowlxob
-    verified: false
-    hashtags: "#fitnessmotivation, #selfie, #diyvideos, #luxurylifestyle"
 ---

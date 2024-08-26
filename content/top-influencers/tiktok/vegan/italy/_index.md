@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Italy In 2023
+title: Top 10 Vegan TikTok Influencers In Italy In 2024
 description: >-
-  Find top vegan TikTok influencers in Italy in 2023. Most popular hashtags: #vegan #imparacontiktok #neiperte #duetto.
+  Find top vegan TikTok influencers in Italy in 2024. Most popular hashtags: #vegan #imparacontiktok #neiperte #foryou.
 platform: TikTok
-hits: 43
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our database holds 43 TikTok influencers like this in Italy for you to contact.
+hits: 40
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 40 TikTok influencers like this in Italy for you to pitch.
 profiles:
   - username: "veganismologico"
     fullname: >-

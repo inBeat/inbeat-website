@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Vancouver In 2023
+title: Top 10 Vegan TikTok Influencers In Vancouver In 2024
 description: >-
-  Find top vegan TikTok influencers in Vancouver in 2023. Most popular hashtags: #fyp #foryou #foryoupage #vegan.
+  Find top vegan TikTok influencers in Vancouver in 2024. Most popular hashtags: #fyp #foryou #foryoupage #vegan.
 platform: TikTok
 hits: 8
 text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our database holds 8 TikTok influencers like this in Vancouver, Canada for you to work with.
+text_bottom: Our search engine holds 8 TikTok influencers like this in Vancouver, Canada for you to work with.
 profiles:
   - username: "alex.bischoff"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.011627
     id: ck807cmtgpvdw0j78unh4ff7v
     verified: false
-    hashtags: "#lgbtq, #gaylove, #boyfriends, #fyp"
+    hashtags: "#gaylove, #fyp, #lgbtq, #boyfriends"
   - username: "findbex"
     fullname: >-
       Bex 
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.094504
     id: ckammxkrj2gvr0i786to5obe1
     verified: false
-    hashtags: "#global, #vancouver, #spring2021, #weightloss"
+    hashtags: "#makemoney, #usa, #vancouver, #healthy"
   - username: "onepeakcreative"
     fullname: >-
       One Peak Creative

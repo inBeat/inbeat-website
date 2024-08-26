@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In South Africa In 2023
+title: Top 10 Models TikTok Influencers In South Africa In 2024
 description: >-
-  Find top models TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #foryoupage #viral #model.
+  Find top models TikTok influencers in South Africa in 2024. Most popular hashtags: #fyp #foryoupage #viral #model.
 platform: TikTok
 hits: 20
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 20 TikTok influencers like this in South Africa for you to work with.
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 20 TikTok influencers like this in South Africa for you to collaborate.
 profiles:
   - username: "daylan_fabiano"
     fullname: >-

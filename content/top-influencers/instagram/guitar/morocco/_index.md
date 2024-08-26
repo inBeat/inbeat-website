@@ -1,12 +1,24 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Morocco In 2023
+title: Top 10 Guitar Instagram Influencers In Morocco In 2024
 description: >-
-  Find top guitar Instagram influencers in Morocco in 2023. Most popular hashtags: #guitar #morocco #music #tanger.
+  Find top guitar Instagram influencers in Morocco in 2024. Most popular hashtags: #guitar #music #morocco #maroc.
 platform: Instagram
-hits: 8
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 8 Instagram influencers like this in Morocco for you to work with.
+hits: 9
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 9 Instagram influencers like this in Morocco for you to connect with.
 profiles:
+  - username: "omaralkilaniofficial"
+    fullname: >-
+      Omar Alkilani
+    bio: >-
+      Artist 🎸🎤 📍🇹🇷 Music Production 📚 Composer - Music Producer from Syria 🎶 For business: @omar.guitarist 📩
+    location: "Morocco"
+    followers: 60312
+    engagement: 196
+    commentsToLikes: 0.037239
+    id: ck8szge58ocdw0j78xjpht0oh
+    verified: false
+    hashtags: "#hairstyle, #instamusic, #fyp, #tattoo"
   - username: "yassine.benfeddoul"
     fullname: >-
       Yassine Ben Feddoul

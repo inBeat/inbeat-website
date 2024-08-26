@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Germany In 2023
+title: Top 10 Mothers TikTok Influencers In Germany In 2024
 description: >-
-  Find top mothers TikTok influencers in Germany in 2023. Most popular hashtags: #fyp #duett #foryou #viral.
+  Find top mothers TikTok influencers in Germany in 2024. Most popular hashtags: #fyp #foryou #duett #viral.
 platform: TikTok
 hits: 78
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 78 TikTok influencers like this in Germany for you to connect with.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 78 TikTok influencers like this in Germany for you to work with.
 profiles:
   - username: "xxrose.cosplayxx"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.007814
     id: ckbl3hh4f0uv60j23r17hiooo
     verified: true
-    hashtags: "#fyp, #foryou, #motheranddaughter, #fcbayern"
+    hashtags: "#fyp, #foryou, #motheranddaughter, #howlongcanyougo"
   - username: "nadine.kl85"
     fullname: >-
       Nadine
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.060289
     id: ckd66j13n37ca0j23mu4f0q2p
     verified: false
-    hashtags: "#yeauty, #comedy, #eyepadmask, #winwinwin"
+    hashtags: "#yeauty, #verlosung, #skincare, #gewinnspiel"
   - username: "tintenherz77"
     fullname: >-
       Tinten❤77

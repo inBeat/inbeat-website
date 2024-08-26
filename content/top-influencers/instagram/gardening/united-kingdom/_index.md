@@ -1,130 +1,130 @@
 ---
-title: Top 10 Gardening Instagram Influencers In United Kingdom In 2023
+title: Top 10 Gardening Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top gardening Instagram influencers in United Kingdom in 2023. Most popular hashtags: #gardening #gardeninspiration #gardeningtips.
+  Find top gardening Instagram influencers in United Kingdom in 2024. Most popular hashtags: #interiordesign #gardenersofinstagram #flowerstagram.
 platform: Instagram
-hits: 233
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 233 Instagram influencers like this in United Kingdom for you to collaborate.
+hits: 353
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 353 Instagram influencers like this in United Kingdom for you to connect with.
 profiles:
-  - username: "homeatthefarmhouse"
+  - username: "theplantrescuer"
     fullname: >-
-      • J O •
+      Sarah Gerrard-Jones
     bio: >-
-      Northamptonshire farmhouse life (the pretty bits I want to remember!) • Interiors, dogs, gardening and the English countryside • One half of @sosouk •
+      📕 Author: The Plant Rescuer 📺 Alan Titchmarsh’s Gardening Club 🪴 Houseplant rescue Agent: @unitedtalent
     location: "United Kingdom"
-    followers: 19794
-    engagement: 431
-    commentsToLikes: 0.074665
-    id: ckapbdvcxzjv90i78x9ou5t96
+    followers: 452130
+    engagement: 447
+    commentsToLikes: 0.014010
+    id: ck55mdmdv3px60i11p9xz9koq
     verified: false
-    hashtags: "#farmhousefestive, #farmhousekitchen, #farmhousechristmasdecor, #farmhousedecor"
-  - username: "belleskitchenph"
+    hashtags: "#carnivorousplants, #plantlover, #plantsofinstagram, #succulents"
+  - username: "jpslifeandloves"
     fullname: >-
-      Belle’s Kitchen PH
+      𝐉𝐨𝐧-𝐏𝐚𝐮𝐥 𝐂𝐥𝐚𝐫𝐤 (𝐉𝐏) - 𝐉𝐏’𝐬 𝐋𝐢𝐟𝐞 & 𝐋𝐨𝐯𝐞𝐬
     bio: >-
-      👨‍👦‍👦Family 🥘Homecooking & Food Styling ☕️Tea & Ice Cream 🌿Gardening ⛰Travel 🐶Pets www.facebook/belleskitchenph/
+      Home & Gardening writer 🩵DIY, Gardening, Design, Life, Fun ⬇️ HOME & HORT on Substack. 💙 Contact: jp@jpslifeandloves.com 🩵Stay: @theharbourdeckhouse
     location: "United Kingdom"
-    followers: 31704
-    engagement: 247
-    commentsToLikes: 0.122939
-    id: ck8t3vevf4mzm0j78w8x1impa
+    followers: 57547
+    engagement: 367
+    commentsToLikes: 0.216015
+    id: ck134873uv6zx0i19y363vjj4
     verified: false
-    hashtags: "#whattoeatph, #foodiesofinstagram, #forkspoonmanila, #pinoyfood"
-  - username: "growwithhema"
+    hashtags: "#myhousethismonth, #myinspiringinterior, #interiordesign, #transformation"
+  - username: "fieldandnest"
     fullname: >-
-      Hema 🌱
+      Emma Lavelle | Writer & Photographer
     bio: >-
-      🍅 #Inspiring New Gardeners 🌿 #Gardening in a Busy Lifestyle 🌻 #nodig Garden in London
+      Simple & seasonal life in the countryside. Nature, gardening, sustainable style & slow travels. 📍Todmorden, West Yorkshire ✉️ emmalavelle42@gmail.com
     location: "United Kingdom"
-    followers: 47133
-    engagement: 148
-    commentsToLikes: 0.054733
-    id: ck8szwy7oq0uh0j78anxs7gwr
+    followers: 16766
+    engagement: 335
+    commentsToLikes: 0.060817
+    id: ckwvisiikvu9g0j237erh4nuz
     verified: false
-    hashtags: "#tomatotuesday, #gingergrowalong"
-  - username: "littleterracedhouse"
+    hashtags: "#wildforflowers, #folkandstory, #pursuepretty, #gardenview"
+  - username: "thinush"
     fullname: >-
-      Mel | Victorian Renovation
+      Martina Bajánková
     bio: >-
-      Creating Home 👨‍👩‍👦 Victorian house reno. Honest, hopefully entertaining & occasionally haphazard tours of DIY, gardening and crafting adventures😬
+      Photography,interiors,gardening. Mum of 3g, lover of flowers @kvetyzdoliny 🏠Slovakia ❤️Sweden
     location: "United Kingdom"
-    followers: 30330
-    engagement: 317
-    commentsToLikes: 0.120213
-    id: ck6ttbjxw9op60j713g0n1dxv
+    followers: 12449
+    engagement: 254
+    commentsToLikes: 0.020556
+    id: cl9lcef89jiur0i23o1npzkuw
     verified: false
-    hashtags: "#pimpupmypad, #periodhomesofinsta, #victorianterrace, #myrenostory"
-  - username: "englishcountryhelen"
+    hashtags: "#foodstyling, #projektmaterstvo, #creative, #portraitphotography"
+  - username: "yours_sincerely_bekki"
     fullname: >-
-      Helen
+      Bekki Aubrey
     bio: >-
-      Dorset Mum sharing tales of English country life. |Feat gardens, food, heritage, books & traditions. |Gardening tips & baking recipes on my blog
+      my unfiltered life & body 🙋🏼‍♀️ an inconsistent diary of acne, bodyhair, grieving, gardening, motherhood, IBS, D.I.Y and fighting beauty standards 😘
     location: "United Kingdom"
-    followers: 4695
-    engagement: 1019
-    commentsToLikes: 0.071653
-    id: ckaovp3pq5jhr0i78n6pt075v
+    followers: 20688
+    engagement: 246
+    commentsToLikes: 0.006564
+    id: cl3w8zbb6cu0g0i23fnnoz7n5
     verified: false
-    hashtags: ""
-  - username: "allotmentnotebook"
+    hashtags: "#mentalhealthawareness, #donttakethisdown, #acneproblems, #pregnancyannouncement"
+  - username: "kraut_kopf"
     fullname: >-
-      Natalie 👩🏻‍🌾
+      Krautkopf
     bio: >-
-      Lessons and confessions from a girl who knows next to nothing about gardening 🤷🏼‍♀️💚 🌱 Fourth year allotment-er 📍Essex
+      Susann Probst & Yannic Schon Photographers & Stylists Visual Storytelling Gardening, Food, Lifestyle & Interior
     location: "United Kingdom"
-    followers: 6588
-    engagement: 441
-    commentsToLikes: 0.081809
-    id: ck0vzgun0918f0i19qho4ba8g
-    verified: false
-    hashtags: "#mymonthontheplot, #vegetablegarden, #homegrown, #gardeningtips"
-  - username: "emilyjanelathan"
+    followers: 185093
+    engagement: 203
+    commentsToLikes: 0.013263
+    id: ck0vuw988mg6x0i199vcntcmy
+    verified: true
+    hashtags: "#ediblegarden, #veggiegarden, #allotmentlife, #harvest"
+  - username: "lucyrobson"
     fullname: >-
-      emily jane lathan
+      Lucy
     bio: >-
-      renovating a plant-filled bungalow and mallorcan casa. interiors, houseplants and gardening. founder at @rocknrosegirls and @thevinylwall
+      Golf, gardening and sausage dogs 🏌️‍♀️👩🏼‍🌾🐾 Based in Surrey, England 🇬🇧 @pxguk #pxgtroops Business Enquiries: lucyrobson@live.com
     location: "United Kingdom"
-    followers: 35794
-    engagement: 647
-    commentsToLikes: 0.028324
-    id: ck136liqk72tj0i19qvuwoaeo
-    verified: false
-    hashtags: "#ultravitamind, #vitabiotics, #feelathome, #emilynailsit"
-  - username: "love_luxe_interiors"
+    followers: 949434
+    engagement: 168
+    commentsToLikes: 0.022909
+    id: ck0vzvi03b3lt0i195cdrk2hl
+    verified: true
+    hashtags: "#pxgtroops, #gifted, #britishmade, #ad"
+  - username: "sallydoessassy"
     fullname: >-
-      Love_Luxe_Interiors
+      Sally Worts
     bio: >-
-      ▫️Lover of grey & affordable luxury ▫️Obsessed with home interiors & gardening ▫️Chicken mama 🐓 ▫️DM for collabs & enquires ✉️
+      Country living with a Rock n Roll edge A cosy mix of interiors, vintage finds, outside cooking, gardening & greenhouses Often found in a fab frock
     location: "United Kingdom"
-    followers: 107566
-    engagement: 62
-    commentsToLikes: 0.056955
-    id: ck5pyw36yy2xw0i11o5utanh2
+    followers: 139833
+    engagement: 117
+    commentsToLikes: 0.093560
+    id: clpwujbdoldga0k08iiz8uo1n
     verified: false
-    hashtags: "#homestylinginspo, #ad, #hinching, #gardeninspiration"
-  - username: "sowing_at_the_stoop"
+    hashtags: "#deliciousdarkdecor, #leopardprint, #moreismoredecor, #smallgardendesign"
+  - username: "tinapasteldreamer"
     fullname: >-
-      Claire
+      Tina Tombs
     bio: >-
-      Join me on my gardening adventures growing my own organic veg, fruit and flowers in my new kitchen garden in Surrey 🇬🇧
+      Interiors ✨ Autism Mum ✨ Allergy Mum ✨ Gardening ✨ Cleaning 🩷 Real life in stories, see you there! 🩷 Owner @tinasbloomboutique 🌸
     location: "United Kingdom"
-    followers: 41269
-    engagement: 128
-    commentsToLikes: 0.039762
-    id: ckaotxhlrxxxs0i78377wg381
+    followers: 53975
+    engagement: 86
+    commentsToLikes: 0.435705
+    id: ck5hg6iga160f0i11ats1ye95
     verified: false
-    hashtags: "#selfcare, #echinacea, #perfect, #tomatotuesday"
-  - username: "katie_gardens"
+    hashtags: "#christmasdecorating, #pastelaesthetic, #christmasideas, #mumbloggers"
+  - username: "mudnbloom"
     fullname: >-
-      Katie Rushworth
+      Mud & Bloom
     bio: >-
-      👩‍🌾 Garden Maker & Mentor 🎥 TV PRESENTER on ITV'S LOVE YOUR GARDEN 🌼Book a gardening consultation with me via my website.
+      🌿Award winning nature crafts + gardening subscription 🌻The Independents ‘Best Buy’ Kids Subscription 🌈Forest School, Steiner + Montessori inspired
     location: "United Kingdom"
-    followers: 11887
-    engagement: 503
-    commentsToLikes: 0.035776
-    id: ckapcr3164uvl0i78yv6pieni
+    followers: 71966
+    engagement: 37
+    commentsToLikes: 0.152854
+    id: ck13857qheji80i19fbeubty5
     verified: false
-    hashtags: "#gardener, #gardenmentor, #bringtheoutsidein, #gardening"
+    hashtags: "#wintercraftsforkids, #mudandbloom, #outdoorlearning, #winteractivitiesforkids"
 ---

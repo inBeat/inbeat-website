@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In New Delhi In 2023
+title: Top 10 Food TikTok Influencers In New Delhi In 2024
 description: >-
-  Find top food TikTok influencers in New Delhi in 2023. Most popular hashtags: #tiktok #foryou #tiktokfoodie #food.
+  Find top food TikTok influencers in New Delhi in 2024. Most popular hashtags: #tiktok #foryou #tiktokfoodie #food.
 platform: TikTok
 hits: 4
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 4 TikTok influencers like this in New Delhi, India for you to connect with.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 4 TikTok influencers like this in New Delhi, India for you to work with.
 profiles:
   - username: "prasunindian"
     fullname: >-

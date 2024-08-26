@@ -1,12 +1,72 @@
 ---
-title: Top 10 Health Instagram Influencers In Greece In 2023
+title: Top 10 Health Instagram Influencers In Greece In 2024
 description: >-
-  Find top health Instagram influencers in Greece in 2023. Most popular hashtags: #foodie #healthyfood #makeitdelicious #greece.
+  Find top health Instagram influencers in Greece in 2024. Most popular hashtags: #greece #foodie #foodartblog.
 platform: Instagram
-hits: 132
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database has 132 Instagram influencers like this in Greece for you to pitch.
+hits: 140
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 140 Instagram influencers like this in Greece for you to pitch.
 profiles:
+  - username: "apuflorentin"
+    fullname: >-
+      Apu Florentin 🧿
+    bio: >-
+      📍Mia - NYC 🇵🇾 Paraguay ✨𝘍𝘦𝘦𝘥 𝘵𝘩𝘦 𝘴𝘰𝘶𝘭. 𝘚𝘵𝘢𝘳𝘷𝘦 𝘵𝘩𝘦 𝘦𝘨𝘰.✨ Lawyer | PR l Marketing Yogui | Fitness l Health l Wellness Music lover l Wanderlust
+    location: "Greece"
+    followers: 31097
+    engagement: 388
+    commentsToLikes: 0.077593
+    id: ckap4ha1i7de70i789mi03vmn
+    verified: false
+    hashtags: "#photoshoot, #greece, #buttonschallenge, #pussycatdolls"
+  - username: "gri_cat_"
+    fullname: >-
+      K a t e r i n a 🌸
+    bio: >-
+      MOMS CAN DO ANYTHING ! 💪🏻🙏🏻 KIDS 👶🏻BLUEBERRY 👣 & STRAWBERRY 🍓 HEALTHY BODY & MIMD 🥗 🎥 YOUTUBE gri_ cat_ 🔌LINKS!!⬇️
+    location: "Greece"
+    followers: 23202
+    engagement: 366
+    commentsToLikes: 0.078760
+    id: ck5znqkgjoz210i14kueqqnov
+    verified: false
+    hashtags: "#blw, #mybabygirl, #pandaboo, #metaixmiobookskids"
+  - username: "kelleyflanagan"
+    fullname: >-
+      Kelley Flanagan
+    bio: >-
+      Attorney |📍Miami / Chicago | ✈️ Traveler On a health journey to kick Lyme disease
+    location: "Greece"
+    followers: 767207
+    engagement: 234
+    commentsToLikes: 0.021646
+    id: ck6tq2g38p1490j71q6n3s4ht
+    verified: true
+    hashtags: "#motfpartner, #thesehipsdontlie, #ad, #fage"
+  - username: "chefhalaayash"
+    fullname: >-
+      Hala Ayash هلا عياش
+    bio: >-
+      @mbc1 صباح الخير ياعرب إفطارنا غير •TV Presenter •Top Chef First Runner Up •Consultant Chef •Traveling •Fitness & Health
+    location: "Greece"
+    followers: 368204
+    engagement: 89
+    commentsToLikes: 0.027294
+    id: ck6u1r87snenl0j71ogfnq5ak
+    verified: true
+    hashtags: "#paros, #japanese, #greece, #topchef"
+  - username: "katya_levin"
+    fullname: >-
+      KATYA LEVIN
+    bio: >-
+      Alex’s mommy, vegan & healthy lifestyle, loves fashion & beauty . MODEL . CEO & founder | @hatzbykatyalevin
+    location: "Greece"
+    followers: 34763
+    engagement: 70
+    commentsToLikes: 0.065961
+    id: ck15qc4oo24v50i19p19uazyo
+    verified: false
+    hashtags: "#chanelnuitblanchemilano, #rougeallure, #chanelmakeup, #bringthemhome"
   - username: "anthivoulgari"
     fullname: >-
       Anthi Voulgari
@@ -18,31 +78,7 @@ profiles:
     commentsToLikes: 0.023608
     id: ck5zkeso4jcmz0i14u294cwhq
     verified: false
-    hashtags: "#koinoniaoramega, #tomegatokalo, #larathefrenchieb, #sundays"
-  - username: "themomdiary"
-    fullname: >-
-      The Mom Diary - Greek Family
-    bio: >-
-      Meggie Greek/Canadian Mom of 2 boys Raw motherhood🤱 Lifestyle 🕶 Wellness🌿 Selfcare💗 Mental health⚖️ Traveling ✈️ YouTube👇
-    location: "Greece"
-    followers: 11576
-    engagement: 953
-    commentsToLikes: 0.122528
-    id: ck5q40ewhn6qm0i113xdjlzan
-    verified: false
-    hashtags: "#greeklifestyle, #greeksummer, #greekfamily, #greekbeaches"
-  - username: "katya_levin"
-    fullname: >-
-      KATYA LEVIN
-    bio: >-
-      Health • Fitness • Lifestyle Today I am a model & co owner | @hatzbykatyalevin You are ART. Create yourself over and OVER ✌🏻
-    location: "Greece"
-    followers: 22072
-    engagement: 179
-    commentsToLikes: 0.069933
-    id: ck15qc4oo24v50i19p19uazyo
-    verified: false
-    hashtags: "#oldfashion, #acaibowl, #healthylifestyle, #healthyfood"
+    hashtags: "#larathefrenchieb, #koinoniaoramega, #tomegatokalo, #sundays"
   - username: "charisyourpersonaltrainer"
     fullname: >-
       Charis - Greece 💪
@@ -91,40 +127,4 @@ profiles:
     id: ckap9cnv3s4bw0i78si4luu8c
     verified: true
     hashtags: "#rapidtest, #keepgoing, #testing, #vaccines"
-  - username: "terzidoudespoina_dietitian"
-    fullname: >-
-      Δέσποινα Τερζίδου
-    bio: >-
-      📍 Δαβάκη 36 Σκύδρα 👩🏻‍🎓Nutritionist-Dietitian 📚 A.T.E.I Thessalonikis 👩‍🍳Love healthy cooking ❤Eat like you love yourself
-    location: "Greece"
-    followers: 7693
-    engagement: 855
-    commentsToLikes: 0.017544
-    id: ckaoxm55ydub50i78odtcuxly
-    verified: false
-    hashtags: "#instafood, #healthychoices, #nutrition, #diet"
-  - username: "charalamboshadjiprodromou"
-    fullname: >-
-      Charalambos Hadjiprodromou
-    bio: >-
-      🔹️Chef at @healthydo_cy 🔹️Nicosia, Cyprus 🔹️Travel Lover 🌍 🇷🇺🇩🇪🇫🇷🇬🇧🇪🇺🇪🇸🇮🇹 🇨🇾🇮🇱🇳🇱🇭🇺🇱🇧🇬🇷🇦🇹 🔹️Moments
-    location: "Greece"
-    followers: 14335
-    engagement: 379
-    commentsToLikes: 0.005182
-    id: ck6txhmq4xvys0j7150li7nql
-    verified: false
-    hashtags: "#cheflife, #love, #passion, #chef"
-  - username: "avital"
-    fullname: >-
-      AVITAL COHEN
-    bio: >-
-      ✡️ #FitnessQueen I’m just a GIRL BOSS that’s building MY NEW EMPIRE. Contact 📧 avitalcollab@gmail.com
-    location: "Greece"
-    followers: 2050482
-    engagement: 451
-    commentsToLikes: 0.007396
-    id: ck15td53hhioh0i19e1gsq2mv
-    verified: true
-    hashtags: "#mood, #ad, #bangenergy, #healthylifehappylife"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In Peru In 2023
+title: Top 10 Divers TikTok Influencers In Peru In 2024
 description: >-
-  Find top divers TikTok influencers in Peru in 2023. Most popular hashtags: #parati #fyp #peru #trend.
+  Find top divers TikTok influencers in Peru in 2024. Most popular hashtags: #fyp #parati #peru #trend.
 platform: TikTok
 hits: 37
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 37 TikTok influencers like this in Peru for you to connect with.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 37 TikTok influencers like this in Peru for you to work with.
 profiles:
   - username: "johanshimfer"
     fullname: >-

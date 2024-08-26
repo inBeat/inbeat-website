@@ -1,24 +1,12 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Belgium In 2023
+title: Top 10 Cooking TikTok Influencers In Belgium In 2024
 description: >-
-  Find top cooking TikTok influencers in Belgium in 2023. Most popular hashtags: #foryou #foryoupage #fyp #cooking.
+  Find top cooking TikTok influencers in Belgium in 2024. Most popular hashtags: #fyp #foryou #foryoupage #fy.
 platform: TikTok
-hits: 17
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: inBeat holds 17 TikTok influencers like this in Belgium for you to pitch.
+hits: 16
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 16 TikTok influencers like this in Belgium for you to collaborate.
 profiles:
-  - username: "clarasfoodiary"
-    fullname: >-
-      Clara
-    bio: >-
-      recipes and meal inspo 📩 clarasfoodiary@gmail.com
-    location: "Belgium"
-    followers: 6521
-    engagement: 1530
-    commentsToLikes: 0.036049
-    id: ckb9rx5ddoo800j232i4t6sg0
-    verified: false
-    hashtags: "#cooking, #healthybreakfast, #foryou, #breakfastideas"
   - username: "cook.zone_"
     fullname: >-
       Cook zone
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.117403
     id: ckbaxhdhinwuc0j237j01if5c
     verified: false
-    hashtags: "#belgium, #toddler, #tiktokmom, #porschecayenne"
+    hashtags: "#foryou, #toddler, #over30, #momlife"
   - username: "bycamilaagostini"
     fullname: >-
       Camila Alija Agostin
@@ -127,4 +115,16 @@ profiles:
     id: ckajk9it7p62b0i78ee1fkwe7
     verified: false
     hashtags: "#foryou, #viral, #foryoupage, #fy"
+  - username: "straffy8"
+    fullname: >-
+      Straffy
+    bio: >-
+      
+    location: "Belgium"
+    followers: 3945
+    engagement: 549
+    commentsToLikes: 0.022497
+    id: cka0w10di0ukn0i789ltq4zsl
+    verified: false
+    hashtags: "#pourtoi, #urbandecay, #4u, #makeup"
 ---

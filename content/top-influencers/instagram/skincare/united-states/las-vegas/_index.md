@@ -1,12 +1,24 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Las Vegas In 2023
+title: Top 10 Skincare Instagram Influencers In Las Vegas In 2024
 description: >-
-  Find top skincare Instagram influencers in Las Vegas in 2023. Most popular hashtags: #skincare #fashion #beauty #lasvegas.
+  Find top skincare Instagram influencers in Las Vegas in 2024. Most popular hashtags: #skincare #lasvegas #beauty #vegas.
 platform: Instagram
-hits: 49
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 49 Instagram influencers like this in Las Vegas, United States for you to work with.
+hits: 68
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 68 Instagram influencers like this in Las Vegas, United States for you to pitch.
 profiles:
+  - username: "djl3xi"
+    fullname: >-
+      L3XI
+    bio: >-
+      DJ 🎧 PRODUC3R | 🎬 Exclusive Artists Agency |📍Los Angeles MY N3XT SHOW: Las Vegas🎟️⬇️
+    location: "United States"
+    followers: 121939
+    engagement: 514
+    commentsToLikes: 0.017633
+    id: ck8wenam3ebco0j788n3qyt1j
+    verified: false
+    hashtags: "#fashion, #dj, #music, #spafacial"
   - username: "haareozawa"
     fullname: >-
       Krystal💖
@@ -18,31 +30,55 @@ profiles:
     commentsToLikes: 0.041451
     id: ck8ta89qrqtfb0j780xtji2ye
     verified: false
-    hashtags: "#crueltyfree, #onegiamfam, #beautybloggers, #bioggerstyles"
-  - username: "skincarestandard"
+    hashtags: "#ad, #octolyfamily, #coffee, #promo"
+  - username: "ambeautyshweta"
     fullname: >-
-      Rachael
+      𝐒𝐇𝐖𝐄𝐓𝐀 / UGC creator/ Dallas Influencer #dallasblogger
     bio: >-
-      🇺🇸🇨🇳 skincare + beauty enthusiast in las vegas ✨ inquiries: rachaelfuss@a3artistsagency.com blog, routine, discounts 👇🏻
+      Spreading Smiles and sparkles Model / Creative PR/ Collabs⬇️ angels.shweta@gmail.com Welcome to A little haul of my life!! 📍Dallas(for now) 🏡Seattle
     location: "United States"
-    followers: 36907
-    engagement: 210
-    commentsToLikes: 0.146909
-    id: ck0vv9cc8o4gw0i19mly65dj9
+    followers: 29825
+    engagement: 148
+    commentsToLikes: 0.132494
+    id: cksh5otycrq2h0j2374o5ttab
     verified: false
-    hashtags: "#bobbibrown, #revolvesummer, #siopartner, #siobeauty"
-  - username: "kaylovesu"
+    hashtags: "#roadtrip, #temubaes, #temufinds, #springstyle"
+  - username: "deluxeversionmagazine"
     fullname: >-
-      Kelly Love
+      Deluxe Version Magazine®️
     bio: >-
-      🌍 Wanderer 🦁 Passionate 🌺 Health & Fitness
+      Discover The Best Version Of You. Celebrating A Decade Of Luxury Lifestyle! Now Reading: Issue 25✨
     location: "United States"
-    followers: 53629
-    engagement: 184
-    commentsToLikes: 0.044458
-    id: ck14keb2jp3sl0i19rf5wk8dw
+    followers: 116921
+    engagement: 50
+    commentsToLikes: 0.007075
+    id: ck0vv554onlcy0i197dl8g0bf
     verified: false
-    hashtags: "#sunkissed, #getfunky, #florida, #happy"
+    hashtags: "#vegas, #miami, #skincare, #beauty"
+  - username: "monatofficial"
+    fullname: >-
+      MONAT Official USA
+    bio: >-
+      ✨ Hair, Skincare, Makeup & Wellness 🌱 Naturally-Based & Gluten Free 🐰 Cruelty Free & Leaping Bunny Approved
+    location: "United States"
+    followers: 631120
+    engagement: 22
+    commentsToLikes: 0.032888
+    id: ckmw1bux962yc0j23bujhyrao
+    verified: false
+    hashtags: "#monatbeforeandafter, #monatskincare, #monatskin, #lasvegas"
+  - username: "amberallurestyle"
+    fullname: >-
+      amber ♡ las vegas
+    bio: >-
+      Lifestyle • Home Decor • Food • Beauty • Vegas & Beyond 💌 amberallurestyle@yahoo.com 👩🏻 👧🏻👶🏻 M♡M 🐶 🐶
+    location: "United States"
+    followers: 73163
+    engagement: 1
+    commentsToLikes: 0.000000
+    id: ck0udrr8ijur80i195d5ibrdh
+    verified: false
+    hashtags: "#fallvibes, #manhattan, #newyorkcity, #cinderella"
   - username: "itsam0re"
     fullname: >-
       Beauty Videos
@@ -54,77 +90,41 @@ profiles:
     commentsToLikes: 0.140615
     id: ck55olhmn8lhe0i11qc6th3oh
     verified: false
-    hashtags: "#minutemakeup, #makeupforbeginners, #giftedbyipsy, #danessamyricks"
-  - username: "zamoraeunice"
+    hashtags: "#milkmakeup, #grwmmakeup, #doseofcolors, #makeupforblackwomen"
+  - username: "jo2therubio"
     fullname: >-
-      Eunice Zamora ✨
+      Johanna Rubio-Rubio
     bio: >-
-      Beauty & Skincare Blogger 💕 Motherhood 🤱🏻 📲Content Creator 💻 Co-Founder of @soylatinaoficial 📍Las Vegas Business Inquiries 📩zamoraeunice@yahoo.com
+      Lifestyle•Beauty•Fashion 📍Las Vegas • Jalisco 💌jo2therubio@gmail.com Have Courage & Be Kind ♐️
     location: "United States"
-    followers: 13134
-    engagement: 604
-    commentsToLikes: 0.076594
-    id: ck0w3hepztf830i19qam0tmom
+    followers: 10661
+    engagement: 97
+    commentsToLikes: 0.222426
+    id: cks11wp7h3wfl0j23q8c3qopw
     verified: false
-    hashtags: "#ad, #momblogger, #latina, #cleanser"
-  - username: "raquellelynnette"
+    hashtags: "#beauty, #reelitfeelit, #makeup, #vegasinfluencer"
+  - username: "alrence.trinona"
     fullname: >-
-      •ｒａｑｕｅｌｌｅ •
+      Alrence Trinona | NYC Lifestyle Blogger
     bio: >-
-      Las Vegas 📍 Kewl Mom of ✌🏾 Collabs/PR : raquellelynnette@gmail.com 🤳🏾Tiktok: raquellelynnette 🎥YouTube: raquellelynnette New video 👇🏾
+      My life as a relatable Filipina in NYC 🇵🇭 🤎 Neutral style & home + Food & Travel 📨 alrencet@gmail.com 🎥 Vlogs, Links ⬇️
     location: "United States"
-    followers: 33137
-    engagement: 75
-    commentsToLikes: 0.101206
-    id: ckf5vkz3joxmd0j23w30nauec
+    followers: 48449
+    engagement: 7
+    commentsToLikes: 0.002055
+    id: cl37w9may26mg0i23os4j1mh9
     verified: false
-    hashtags: "#vegas, #makeup, #blackgirlluxury, #lakelife"
-  - username: "rhoc_emilysimpson"
+    hashtags: "#filipinablogger, #outfits, #neutraltones, #neutralfashion"
+  - username: "themodernod"
     fullname: >-
-      Emily Simpson
+      Mariam Aslami O.D.
     bio: >-
-      RHOC 🍊Ohio born. OC living. Mom. Wife. Attorney Business Inquiries: rhocemilysimpson@gmail.com
+      The Modern Optometrist Eyecare | Beauty | Lifestyle 🇦🇫🇺🇸 GA 🍑 ➡️CA🏝
     location: "United States"
-    followers: 507856
-    engagement: 250
-    commentsToLikes: 0.025749
-    id: ck14ka9n7ojee0i19awjegg5u
-    verified: true
-    hashtags: "#health, #friends, #family, #fun"
-  - username: "makeupbyliraz"
-    fullname: >-
-      Creator✨Educator✨Artist
-    bio: >-
-      ✨Building the next generation of influencers ✨Content creator ✨Makeup Educator ✨Fully booked for 2021 ✨Follow @secretmediaco for anything social
-    location: "United States"
-    followers: 112080
-    engagement: 302
-    commentsToLikes: 0.135426
-    id: ck8sx6vm8gcr60j78tm8otbs4
+    followers: 20435
+    engagement: 1561
+    commentsToLikes: 0.076666
+    id: ck15t2wcbg2ra0i19s0o26hga
     verified: false
-    hashtags: "#giveawaytime, #pinkaesthetic, #whatcomesfirst, #sulwhasoosociety"
-  - username: "_gifted_handzvip"
-    fullname: >-
-      Pro Grooming
-    bio: >-
-      Business Consultant Movie Director 🎬 GSU Alum 🎓 CEO of “Gifted Handz VIP” ⚜️La. 🛫 HTX📍 U.S. Air Force Veteran ⬇️ Products, Courses, Services ⬇️
-    location: "United States"
-    followers: 21622
-    engagement: 92
-    commentsToLikes: 0.022672
-    id: ck5cl4k5ky8fv0i11hhkr69wc
-    verified: false
-    hashtags: "#houstonbarbers, #redcarpetfresh, #phillybarber, #organic"
-  - username: "tracewinningham"
-    fullname: >-
-      Trace
-    bio: >-
-      HTX• LA📍 Season 4 @temptationtv Founder: @trace.thebrand LA: @omodelsagency Model • Creator • Boss
-    location: "United States"
-    followers: 43010
-    engagement: 713
-    commentsToLikes: 0.015135
-    id: ck5zmhyflmlss0i14hjegshe3
-    verified: false
-    hashtags: "#edikted, #ediktedad, #influencer, #beauty"
+    hashtags: "#hustle, #fyp, #california, #beautybloggers"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Cali In 2023
+title: Top 10 Yoga Instagram Influencers In Cali In 2024
 description: >-
-  Find top yoga Instagram influencers in Cali in 2023. Most popular hashtags: #yoga #fitness #fitnessmotivation #yogacolombia.
+  Find top yoga Instagram influencers in Cali in 2024. Most popular hashtags: #yoga #love #vida #adrisilvac.
 platform: Instagram
 hits: 5
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform has 5 Instagram influencers like this in Cali, Colombia for you to collaborate.
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 5 Instagram influencers like this in Cali, Colombia for you to contact.
 profiles:
   - username: "layogini"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck600z4kkejop0i14pdbrfv7o
     verified: false
     hashtags: "#yogateachertraining, #yogacolombia, #bienestar, #meditacion"
+  - username: "adrisilvac"
+    fullname: >-
+      ADRIANA SILVA
+    bio: >-
+      Actriz 🇨🇴🎭 Amante del Yoga🕉️ Con alma sin límites y Dios en mi💖 FB:Adriana Silva Actriz #adrisilvac @akka.health.bienestar @vivealamar
+    location: "Colombia"
+    followers: 144035
+    engagement: 69
+    commentsToLikes: 0.030270
+    id: ck6tvbw7tlchz0j71eoccuwmz
+    verified: true
+    hashtags: "#exploradoradeconsciencia, #happyadri, #respeto, #homemade"
   - username: "mostropi"
     fullname: >-
       MostrOpi
@@ -43,18 +55,6 @@ profiles:
     id: ck602h1wdhdk00i142zma5859
     verified: false
     hashtags: "#fitness, #workout, #calist, #workoutmotivation"
-  - username: "endocrinorosero"
-    fullname: >-
-      Endocrino Rosero
-    bio: >-
-      👉🏻Comida real para personas reales| ✍️Autor : Meta Alimentación | Médico Endocrinólogo Experto en metabolismo🧬|🇨🇴| Información sobre EndocrinoRosero👇
-    location: "Colombia"
-    followers: 504079
-    engagement: 268
-    commentsToLikes: 0.039558
-    id: ck8sz2e86mwzd0j788xvt7vyr
-    verified: false
-    hashtags: "#dieta, #keto, #nutricion, #saludable"
   - username: "marianelamodel"
     fullname: >-
       MARIANELA | PRESENTADORA
@@ -67,64 +67,64 @@ profiles:
     id: ck5q3ihpokw7e0i11gl42nznm
     verified: false
     hashtags: "#instagood, #instafashion, #photography, #mexico"
-  - username: "ania17art"
-    fullname: >-
-      ania17art.yoga
-    bio: >-
-      @panamaluxurygardens Alma libre💚 Yoga / Recetas / naturaleza /jardinería
-    location: "Colombia"
-    followers: 9945
-    engagement: 959
-    commentsToLikes: 0.089889
-    id: ckaoyhmybhke40i78yljrwual
-    verified: false
-    hashtags: "#sol, #instagood, #instapanama, #delicious"
   - username: "zuzana_klingrova"
     fullname: >-
       Zuzana Klingrova
     bio: >-
-      Yoga teacher & therapist 💛Yoga&travel Autor 📚Jóga po celý rok, Jóga proti úzkosti a strachu Podcast: Povídání nejen o józe
+      Yoga therapist, Ayurveda specialist Knihy:Jóga po celý rok,Jóga proti úzkosti a strach,Jóga pro hubnutí a očistu, Ájurvéda a jóga pro ženy 11/2023
     location: "Colombia"
-    followers: 33658
-    engagement: 699
-    commentsToLikes: 0.033855
+    followers: 38030
+    engagement: 319
+    commentsToLikes: 0.024259
     id: ck14ilv5yg22q0i19wu5yhqi6
     verified: false
-    hashtags: "#jogadnes, #joga, #darek, #mixtee"
-  - username: "deluzsemilla"
+    hashtags: "#studiumjogy, #prirodnipeceoplet, #ajurvedskamedicina, #czechyoga"
+  - username: "adrisilvac"
     fullname: >-
-      cyan 🌙ॐ ~ yoga & bienestar
+      ADRIANA SILVA
     bio: >-
-      ✨Profesora de Kundalini Yoga✨ ~ Yoga | Plantas | Bienestar ~ mamá de Sue 🌞 mi sol ✨⬇️LINK APP DE MEDITACIÓN GUIADA⬇️🌞
+      Actriz 🇨🇴🎭 Amante del Yoga🕉️ Con alma sin límites y Dios en mi💖 FB:Adriana Silva Actriz #adrisilvac @akka.health.bienestar @vivealamar
     location: "Colombia"
-    followers: 61381
-    engagement: 1715
-    commentsToLikes: 0.013835
-    id: ck6u1ajahkl4f0j7175jmootb
-    verified: false
-    hashtags: "#dreamself, #yogacolombia, #diainternacionaldelyoga, #saludmental"
-  - username: "justincaruso"
+    followers: 144035
+    engagement: 69
+    commentsToLikes: 0.030270
+    id: ck6tvbw7tlchz0j71eoccuwmz
+    verified: true
+    hashtags: "#exploradoradeconsciencia, #happyadri, #respeto, #homemade"
+  - username: "medicenmila11"
     fullname: >-
-      Justin Caruso
+      Camila, me dicen Mila 🔮🪐🦋
     bio: >-
-      Decade+ teaching AcroYoga, bodywork & yoga intensives, retreats & teacher trainings worldwide Founder @modernthaischool 📍Medellin 🏊🏼‍♂️🧘🏼‍♂️🙌🏼🕺🏼🗽🌄🛀🏾 🗺
+      Maestra de yoga, experta en movimiento y meditación ✨ Te enseño a reducir estrés a través del movimiento, el sonido y la respiración…
     location: "Colombia"
-    followers: 19527
-    engagement: 199
-    commentsToLikes: 0.062987
-    id: ck5hggcoe2mgy0i11ypi3zbuh
+    followers: 35683
+    engagement: 66
+    commentsToLikes: 0.041447
+    id: ck8sxy0ocj2sk0j78yxgw8q8z
     verified: false
-    hashtags: "#acroyoga, #yoga, #colombia, #impresionante"
-  - username: "layogini"
+    hashtags: "#milabowl, #conectandoconunafoto, #tb"
+  - username: "carolinaecovida"
     fullname: >-
-      𓋹 ALEXANDRA 𓂀 La Yogini
+      𝐂𝐚𝐫𝐨𝐥𝐢𝐧𝐚 𝐆𝐨𝐧𝐳𝐚𝐥𝐞𝐳 𝐖.
     bio: >-
-      ✨ 𝐃𝐞𝐬𝐦𝐢𝐭𝐢𝐟𝐢𝐜𝐨 𝐥𝐚 𝐄𝐬𝐩𝐢𝐫𝐢𝐭𝐮𝐚𝐥𝐢𝐝𝐚𝐝 🧘🏻‍♀️ Cursos Online: Yoga, Astro, Magick, Tarot, Meditación y Cristales ✨ Yoga Trainings 🧘🏻‍♂️ MINDSET MENTORSHIP👇🏼
+      Vida Saludable y Sostenible Prana Vinyasa Yoga 200hrs RYT Kundalini Yoga 200hrs PNL Master Practitioner Sacral Sound Healing and Sound Bath
     location: "Colombia"
-    followers: 51529
-    engagement: 131
-    commentsToLikes: 0.040040
-    id: ck600z4kkejop0i14pdbrfv7o
+    followers: 32107
+    engagement: 45
+    commentsToLikes: 0.007629
+    id: ck6u1n4gimqbd0j71hqhpbbv5
     verified: false
-    hashtags: "#yogateachertraining, #yogacolombia, #bienestar, #meditacion"
+    hashtags: "#crecimientopersonal, #yogacolombia, #yogacarolinaecovida, #carolinaecovida"
+  - username: "santosalexandra"
+    fullname: >-
+      Alexa Santos
+    bio: >-
+      ❤️Amor, Relaciones ☀️♥️ 👦🏻Mamá de Mateo 🎥Journalist | TV Host 🍎Health Coach 🏋🏻🧘‍♀️ Sports & yoga 🍓Food lover 💚Naturaleza 📍Colombia
+    location: "Colombia"
+    followers: 156672
+    engagement: 38
+    commentsToLikes: 0.137227
+    id: ck6uem1snrqe20j71e0aouth1
+    verified: true
+    hashtags: "#hazloreal, #publicidad, #hyundaikona, #amor"
 ---

@@ -1,24 +1,72 @@
 ---
-title: Top 10 Food Instagram Influencers In Brisbane In 2023
+title: Top 10 Food Instagram Influencers In Brisbane In 2024
 description: >-
-  Find top food Instagram influencers in Brisbane in 2023. Most popular hashtags: #brisbane #australia #ad.
+  Find top food Instagram influencers in Brisbane in 2024. Most popular hashtags: #brisbanefoodie #brisbane #brisbaneeats #brisbanefood.
 platform: Instagram
-hits: 31
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 31 Instagram influencers like this in Brisbane, Australia for you to pitch.
+hits: 53
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat has 53 Instagram influencers like this in Brisbane, Australia for you to connect with.
 profiles:
+  - username: "shontinarose"
+    fullname: >-
+      Shontina Rose
+    bio: >-
+      australia fashion model & content creator 💌 contact@shontinarose.com
+    location: "Australia"
+    followers: 198951
+    engagement: 53
+    commentsToLikes: 0.017812
+    id: ck136bb5n5n6h0i190dr25hv6
+    verified: false
+    hashtags: "#style, #travel, #fashion, #outfit"
+  - username: "nicolestevenson_"
+    fullname: >-
+      Nicole Stevenson
+    bio: >-
+      👩🏼‍🍳Chef 🌮Recipe Developer 🥗 Brand ambassador @333mightymite
+    location: "Australia"
+    followers: 12818
+    engagement: 505
+    commentsToLikes: 0.062744
+    id: ck5zo8jgkpzzt0i14nj7x3g5u
+    verified: false
+    hashtags: "#chef, #foodie, #yum, #brisbane"
   - username: "cassywallfood"
     fullname: >-
       BRISBANE Food - Cassy Wall
     bio: >-
-      Not a photographer 📸 Not a Chef 👩‍🍳 Just someone who enjoys Food & Lifestyle Brisbane & Beyond 🥂 © cassywallfood 2021
+      Food & Lifestyle Brisbane & Beyond 🥂🍴 ©cassywallfood 2024 AMB Brisbane City
     location: "Australia"
-    followers: 16634
-    engagement: 282
-    commentsToLikes: 0.151175
+    followers: 17826
+    engagement: 32
+    commentsToLikes: 0.017279
     id: ck5q8eixm5s460i11iaskv34s
     verified: false
-    hashtags: "#payomoment, #anewwaytopay, #brandedcontent, #gonowpayolater"
+    hashtags: "#brisbanefoodblogger, #brisbanefoodscene, #brisbaneeats, #brisbanerestaurants"
+  - username: "sma.au"
+    fullname: >-
+      Striking Models Agency 🇦🇺
+    bio: >-
+      We help talented models achieve their dreams scouting, developing, managing, and connecting them with first-class brands 📧 Info@strikingmodels.com.au
+    location: "Australia"
+    followers: 87897
+    engagement: 10
+    commentsToLikes: 0.023061
+    id: ckaoxw09eezxz0i78z14ggye0
+    verified: false
+    hashtags: ""
+  - username: "wendyfoodie"
+    fullname: >-
+      Wendy🐶Brisbane Food Daily📰
+    bio: >-
+      Travels @wendystopover 🌏 Drinks every #WhiskyWednesday 🥃 #SakeSunday 🍶 wendyfoodie@gmail.com📧
+    location: "Australia"
+    followers: 14924
+    engagement: 89
+    commentsToLikes: 0.098883
+    id: cloqu3i72h1q00j08k80kpjgo
+    verified: false
+    hashtags: "#brisbaneblogger, #foodblogger, #brisbanebars, #brisbanefoodie"
   - username: "foodieadam"
     fullname: >-
       Adam | Brisbane Food Blogger
@@ -31,100 +79,52 @@ profiles:
     id: ck8sxmw7qhxc00j78uxzvdl34
     verified: false
     hashtags: ""
-  - username: "julietaroldann"
+  - username: "places_in_brisbane"
     fullname: >-
-      Julieta Roldan 🇦🇺 🇦🇷
+      Shoggy the Foodie
     bio: >-
-      🌞🌊🏖 Gold Coast Model/Actress #brisbanemodel #goldcoastmodel Lifestyle 🏝 • Food 🍲 • Beauty💄 📩julietaroldann@gmail.com
+      【YOUR ULTIMATE FOOD GUIDE AROUND BRISBANE】 ⭐️Visited by 1.5 million+ people monthly 😊Please DM or Email for Collab 🍜Restaurants🍨Dessert🛼Things to do
     location: "Australia"
-    followers: 73208
-    engagement: 108
-    commentsToLikes: 0.049185
-    id: ck0ud6ywjigcn0i19d8n00v30
+    followers: 149422
+    engagement: 119
+    commentsToLikes: 0.028412
+    id: clsj5j90sdsii0k0881rny9d9
     verified: false
-    hashtags: "#ad, #veganskincareproducts, #cavoodleaustralia, #brisbaneactress"
-  - username: "brisbane"
-    fullname: >-
-      @BRISBANE - MYBRISBANE.COM
-    bio: >-
-      Bringing you the best our local community has to offer. Things To Do • Food & Wine • Lifestyle • Property Tag #MyBrisbane & @Brisbane ✉️ Get in touch
-    location: "Australia"
-    followers: 107110
-    engagement: 173
-    commentsToLikes: 0.045474
-    id: ck0vvol3uq2010i19y8idrc27
-    verified: false
-    hashtags: "#preservativefree, #noaddedsugar, #southbank, #yum"
-  - username: "lalasplate"
-    fullname: >-
-      Lara De Bruyne
-    bio: >-
-      you are loved ✞ Healthy(ish) food, lifestyle + wellness 🍉🍓🍒🌸 Brisbane, Australia ♡ hello@lalasplate.com ☻
-    location: "Australia"
-    followers: 45930
-    engagement: 864
-    commentsToLikes: 0.026087
-    id: ck15tte3pjswb0i19uj4bboe5
-    verified: false
-    hashtags: "#healthybreakfast, #nicecream, #fooddiary, #chocolate"
-  - username: "so0tie"
-    fullname: >-
-      Sootie & Larni
-    bio: >-
-      🌏Brisbane, Australia 🇦🇺 Pets🐾Plants🌱Food🍕 All my own 📷 Please credit & tag if re-sharing my images 💛
-    location: "Australia"
-    followers: 33006
-    engagement: 139
-    commentsToLikes: 0.019357
-    id: ck6u1ut7wo0gx0j71hwua6d7t
-    verified: false
-    hashtags: "#aussieplantclub, #aroid, #livingwithplants, #aroidsofinstagram"
-  - username: "always_vacay"
-    fullname: >-
-      Hanie
-    bio: >-
-      Vacation and food lover. Live to travel. Travel to live. Life is too short to wait. Let’s go on vacay !🗺 🏠: Los Angeles 🇺🇸 🔜 🌺
-    location: "Australia"
-    followers: 4773
-    engagement: 1593
-    commentsToLikes: 0.138322
-    id: ck9hcf488l36u0j78yshwu4bh
-    verified: false
-    hashtags: "#travelaroundtheworld, #australiagram, #girlsthatwander, #travelthroughtheworld"
-  - username: "candice3lise__"
-    fullname: >-
-      CANDICE 🌻
-    bio: >-
-      🇦🇺 Brisbane, AU 📩 candiceelis3@gmail.com 👄 @envyaesthetics___ $20off ‘CANDICE’ 💆🏼‍♀️ @skin.enhance 20% off 👁 @lashesby_sb @thebasehairstudio
-    location: "Australia"
-    followers: 14287
-    engagement: 800
-    commentsToLikes: 0.314172
-    id: ckap42c1b5j8i0i78100qqryc
-    verified: false
-    hashtags: "#winter, #sunshinecoast, #fashionblogger, #captionsforinsta"
-  - username: "jeanpierresmith"
-    fullname: >-
-      JP Smith 🇿🇦🇦🇺 🇺🇸🏈3️⃣1️⃣
-    bio: >-
-      @redsrugby #1322 @brumbiesrugby #164 @giltinis @usmlr #LS❤️ #Fire #Family #Food 🔥🍗🍺
-    location: "Australia"
-    followers: 6186
-    engagement: 855
-    commentsToLikes: 0.022786
-    id: ck6tz92ov8brw0j71ohsh92t9
-    verified: false
-    hashtags: "#love, #family, #redsfamily, #australia"
+    hashtags: "#visitbrisbane, #discoverqueensland, #brisbanefoodblog, #thingstodoinbrisbane"
   - username: "brissiebites"
     fullname: >-
       Food Blogger | Jacqui John
     bio: >-
-      🥐 Food 🍷 Drink ✈️ Travel ✍️ Content Creation 📷 Photography ☀️ Brisbane based 💌 jacqui@brissiebites.com 👇🏻 FREE Guide to Brisbane's Hidden Bars
+      🥐 Food 🍷 Drink ✈️ Travel ✍️ Content Creation 📷 Photography ☀️ Brisbane based 💌 jacqui@brissiebites.com
     location: "Australia"
-    followers: 7500
-    engagement: 1229
-    commentsToLikes: 0.124266
+    followers: 10101
+    engagement: 625
+    commentsToLikes: 0.158408
     id: ck6tkm2ym4z230j715oltesd5
     verified: false
-    hashtags: "#igersbrisbane, #brisbanecity, #brisbanecitycouncil, #visitbrisbane"
+    hashtags: "#visit, #brisbanefood, #foodies, #invite"
+  - username: "dr.louisa.parkinson"
+    fullname: >-
+      Louisa Parkinson
+    bio: >-
+      Brisbane Lifestyle & Entertainment Fashion, food, beauty & must-do things in QLD 🇵🇭🇦🇺 Co-founder @mestizafilipina.co 🏠 @beans.castle
+    location: "Australia"
+    followers: 6524
+    engagement: 124
+    commentsToLikes: 0.111761
+    id: closmj57cmy8o0j088kdvvcxr
+    verified: false
+    hashtags: "#brisbaneinfluencer, #brisbaneinsider, #brisbanecontentcreator, #brisbanenightlife"
+  - username: "the_iuli_clique"
+    fullname: >-
+      Brisbane Foodie | Content Creator
+    bio: >-
+      👋🏼Alex & Sharissa | Brisbane 🇦🇺 👌🏼Easy Food & Drink Reels 🫶🏼Follow for #easyrecipes 👇🏼GreenPan Padova Cookware Set
+    location: "Australia"
+    followers: 16846
+    engagement: 42
+    commentsToLikes: 0.012723
+    id: ck6u3hmgkxu0q0j71lpq7tmaw
+    verified: false
+    hashtags: "#aldipartner, #ad, #brisbanefoodie, #bettycrocker"
 ---

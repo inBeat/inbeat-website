@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Atlanta In 2023
+title: Top 10 Models TikTok Influencers In Atlanta In 2024
 description: >-
-  Find top models TikTok influencers in Atlanta in 2023. Most popular hashtags: #fyp #atlanta #model #foryoupage.
+  Find top models TikTok influencers in Atlanta in 2024. Most popular hashtags: #fyp #atlanta #foryoupage #model.
 platform: TikTok
 hits: 16
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 16 TikTok influencers like this in Atlanta, United States for you to collaborate.
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 16 TikTok influencers like this in Atlanta, United States for you to connect with.
 profiles:
   - username: "melaniejlevi"
     fullname: >-
@@ -31,18 +31,18 @@ profiles:
     id: ckbqqfw5fbce70j23zns6ekci
     verified: false
     hashtags: "#funny, #fyp, #wedding, #love"
-  - username: "yofisherphoto"
+  - username: "anotherconstructionguy"
     fullname: >-
-      Photo
+      Adam Rodriguez
     bio: >-
-      Photo Tips and Behind The Scenes www.fishertaylor.com Instagram: @yofisher
+      Carpenter/welder/axe thrower/hiker/investor/entrepreneur Owner-@ironyardaxehouse
     location: "United States"
-    followers: 34600
-    engagement: 1064
-    commentsToLikes: 0.017260
-    id: ck8kd2w753ypx0j78z2dvzzba
+    followers: 5605
+    engagement: 230
+    commentsToLikes: 0.041728
+    id: ckbkval6uqtdu0j23f2kin9fr
     verified: false
-    hashtags: "#photoshoot, #photo, #photographer, #photochallenge"
+    hashtags: "#howto, #3d, #diy, #welding"
   - username: "rubymoniquedlc"
     fullname: >-
       Ruby Monique
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.104330
     id: ck9e18m3d9kf30j78s2laxmvu
     verified: false
-    hashtags: "#fyp, #retro, #comedy, #love"
+    hashtags: "#love, #makeitmagical, #tokusatsu, #fyp"
   - username: "nonaaaxx"
     fullname: >-
       Nona 

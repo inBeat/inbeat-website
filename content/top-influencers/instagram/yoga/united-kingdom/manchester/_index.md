@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Manchester in 2023
+title: Top 10 Yoga Instagram Influencers In Manchester In 2024
 description: >-
-  Find top yoga Instagram influencers in Manchester in 2023. Most popular hashtags: #yoga #fitness #yogaeverydamnday #yogapractice.
+  Find top yoga Instagram influencers in Manchester in 2024. Most popular hashtags: #yoga #mentalhealth #queerpodcast #fatyoga.
 platform: Instagram
-hits: 5
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database has 5 Instagram influencers like this in Manchester, United Kingdom for you to contact.
+hits: 6
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 6 Instagram influencers like this in Manchester, United Kingdom for you to connect with.
 profiles:
-  - username: "perla_navia"
+  - username: "scotteeisfat"
     fullname: >-
-      Perla Navia
+      Scottee
     bio: >-
-      VIRTUAL YOGA STUDIO 🕉Experience the Best & Most Efficient of the Yoga Techniques LINK TO BOOK ⬇️
+      🎭 Failed Actor 🎨 Troubled Artist 🎤 Self Help Podcast - Out Now! 💭 Online Yoga - @wonkee.club 👟 Amateur Runner 🧠 Autistic + Mad 📍 Manchester, UK
     location: "United Kingdom"
-    followers: 76271
-    engagement: 110
-    commentsToLikes: 0.041782
-    id: ck135ean00zyn0i19qqe8lfx4
-    verified: true
-    hashtags: "#yogaeveryday, #yogagirl, #cheshire, #yoga"
-  - username: "ellieerobinson_"
-    fullname: >-
-      E  L  L  I  E
-    bio: >-
-      Manchester | 🌿| ♑️♏️♏️ Fitness | Fashion @doyoueven athlete 10% link⬇️
-    location: "United Kingdom"
-    followers: 239573
-    engagement: 314
-    commentsToLikes: 0.018634
-    id: ck55jym6by2lp0i11t810livz
+    followers: 144531
+    engagement: 841
+    commentsToLikes: 0.028714
+    id: ck5zw5nwc5j5e0i14bzen4t9b
     verified: false
-    hashtags: "#workout, #motivation, #gymgirl, #fitness"
-  - username: "blueberry.monkey"
+    hashtags: "#mentalhealth, #fatyoga, #fatrunners, #queerrunner"
+  - username: "akeemojuko"
+    fullname: >-
+      Akeem Ojuko
+    bio: >-
+      founder @wildpeanutfoods - 2 million units sold - 3,500+ stores currently building @getscript.tv - decentralised film + tv (I produce content too)
+    location: "United Kingdom"
+    followers: 20346
+    engagement: 462
+    commentsToLikes: 0.025869
+    id: ck6turtwli1hp0j71m6ho28cs
+    verified: false
+    hashtags: "#cheekysport, #superrep, #niketraining, #hackneymoves"
+  - username: "thewanderingquinn"
+    fullname: >-
+      Ellie Belhaj | Travel Blogger🌏
+    bio: >-
+      📍Manchester | Solo Travel | Family Travel | Muslim Travel | Adventure | Hiking 🇬🇧🌎🥾🧕🏼 Faith & Life Account - @_equinn My Blog & Group Tours⬇️
+    location: "United Kingdom"
+    followers: 58151
+    engagement: 90
+    commentsToLikes: 0.057630
+    id: ck5q520sxr2ev0i110qsupxvc
+    verified: false
+    hashtags: "#skyscanneradvocate, #sponsored, #ifyouknowyouknow, #ad"
+  - username: "naimabossi_"
     fullname: >-
       NAIMA BOSSI
     bio: >-
-      🐒🌱 📍LDN 🇬🇧Lenis 🇪🇸 Francina 🇩🇪Model Pool 🇩🇪 Place Models 🇮🇩 Balistarz Art page @naima_bossi 200h RYT 🧘‍♀️
+      God First ✨ MA Leni’s Models Co-founder: @in.fluxofficial 🐙 🎨 Artist 🧘‍♀️ 200h RYT Art 👇🏽 @naima_bossiart
     location: "United Kingdom"
-    followers: 29210
-    engagement: 423
-    commentsToLikes: 0.013549
+    followers: 25938
+    engagement: 300
+    commentsToLikes: 0.009901
     id: ck5q9etrzarfg0i11by2dkebu
     verified: false
-    hashtags: "#artist, #miami, #colours, #art"
-  - username: "framefitnesssouthampton"
+    hashtags: "#asanas, #work, #fashion, #yoga"
+  - username: "melisbilenmusic"
     fullname: >-
-      Helen 🇬🇧BROOKSRUNHAPPYTEAM🇬🇧
+      Melis Bilen
     bio: >-
-      Brooks Run Happy Team 2020 Ambassador @corosglobal @hotpodyogasouthampton @brooksrunninguk @homerunsnacks 20% off code FRAMEFIT
+      ▫️Model l Awarded Singer & Songwriter ▫️All about creativity+happiness+inspiration ▫️”Turning dreams into reality” 📍Chester l UK New Music Video 👇
     location: "United Kingdom"
-    followers: 19002
-    engagement: 315
-    commentsToLikes: 0.015083
-    id: ck5zv9xgu3u5v0i14f4uirhhk
+    followers: 34812
+    engagement: 101
+    commentsToLikes: 0.067794
+    id: ckaorm0rjntv90i789h49xb0h
     verified: false
-    hashtags: "#marathontraining, #fitnessmotivation, #mentalhealthawareness, #yoga"
-  - username: "akeemojuko"
+    hashtags: "#model, #happy, #fun, #christmas"
+  - username: "soph_fitxx"
     fullname: >-
-      Akeem Ojuko | Cheekysport Ak
+      Sophie Holley
     bio: >-
-      #endsars 🇳🇬 - please sign below @cheekysportinsta Founder @wildpeanutfoods - 2 million units sold currently building @getscript.tv
+      TEAM MATE - WOMENS BEST Supported by - DO YOU EVEN
     location: "United Kingdom"
-    followers: 20207
-    engagement: 468
-    commentsToLikes: 0.026062
-    id: ck6turtwli1hp0j71m6ho28cs
+    followers: 84107
+    engagement: 49
+    commentsToLikes: 0.008813
+    id: clid5ngxizmjl0j08fzxoya0j
     verified: false
-    hashtags: "#cheekysport, #superrep, #justiceforgeorgefloyd, #hackneymoves"
-  - username: "jodi.yogini"
+    hashtags: "#gymsale, #womensbest, #gymreel, #gymgirl"
+  - username: "alanamurrin"
     fullname: >-
-      Just Another Yoga Mama
+      Alana Murrin
     bio: >-
-      🌙 Ambassador @moonchildyogawear discount code MOONCHILDJODI 👩‍👧‍👦 Follow my mama adventures @yoga_mama_and_the_littles
+      Head of Ride @psyclelondon ⁣ Master Ride instructor @psyclelondon Yoga Instructor @psyclelondon Ambassador @lululemoneurope ⁣⁣⁣⁣⁣⁣ ⁣ ☘️Irish 📍London
     location: "United Kingdom"
-    followers: 28012
-    engagement: 441
-    commentsToLikes: 0.118578
-    id: ck5zwlss46ckd0i14y6gyh99v
+    followers: 5286
+    engagement: 711
+    commentsToLikes: 0.065127
+    id: ck6uab8wb2l0s0j71j91hjeq1
     verified: false
-    hashtags: "#splits, #yogaposeoftheday, #mondayyoga, #halloween"
-  - username: "allaboutnori"
+    hashtags: "#team, #connection, #lululemonambassador, #strength"
+  - username: "scotteeisfat"
     fullname: >-
-      Nori Olivia
+      Scottee
     bio: >-
-      🥨 German Girl In London 🤸🏻 Yoga Teacher 🦋 Enquiries For Private Yoga Sessions & Collabs: noraoliviacontact@gmail.com
+      🎭 Failed Actor 🎨 Troubled Artist 🎤 Self Help Podcast - Out Now! 💭 Online Yoga - @wonkee.club 👟 Amateur Runner 🧠 Autistic + Mad 📍 Manchester, UK
     location: "United Kingdom"
-    followers: 51235
-    engagement: 572
-    commentsToLikes: 0.043817
-    id: ck0vyis9h47cs0i19o83o8ggm
+    followers: 144531
+    engagement: 841
+    commentsToLikes: 0.028714
+    id: ck5zw5nwc5j5e0i14bzen4t9b
     verified: false
-    hashtags: "#restaurantandbar, #winespa, #nivealiebe, #iciw"
-  - username: "georgewolfmeyer"
+    hashtags: "#mentalhealth, #fatyoga, #fatrunners, #queerrunner"
+  - username: "tania_ah"
     fullname: >-
-      George Wolf Meyer
+      Tania Ahmad
     bio: >-
-      🇬🇧 director at @nowtrainingltd 🤸‍♂️ yoga enthusiast ☕ lover of coffee 🦁 + 🌿
+      London📍 Certified Yoga & Pilates Teacher taniaah.info@gmail.com📧
     location: "United Kingdom"
-    followers: 22364
-    engagement: 835
-    commentsToLikes: 0.043912
-    id: ckf5vxrb2q81k0j23kqsi1f2j
+    followers: 120396
+    engagement: 449
+    commentsToLikes: 0.052075
+    id: clibcpfonvqmf0j081tvvg130
     verified: false
-    hashtags: "#yogabalance, #yogafamily, #yogi, #yogaeverydamnday"
-  - username: "abbiestoneknight"
+    hashtags: "#yoga, #wellness, #pilatesathome, #yogainspiration"
+  - username: "janajung"
     fullname: >-
-      Abbie Knight
+      Jana Jung | Clinical Herbalist
     bio: >-
-      🇬🇧@w_modelmgmt 🎭@findleyravenheart 📸@sandrareynoldsagency Creative chamelon. Yoga & powerlifter 🦎
+      Represented by TWOMANAGEMENT worldwide Certified Naturopath, Iridologist, Herbalist 500hr YTT Yogasana 🧘🏽‍♀️
     location: "United Kingdom"
-    followers: 5564
-    engagement: 1947
-    commentsToLikes: 0.028123
-    id: ck5c22sz4wftg0i11s0famyoa
+    followers: 103740
+    engagement: 409
+    commentsToLikes: 0.013135
+    id: ck5qa45i2ega10i11qe9mznzr
     verified: false
-    hashtags: "#blackoutuesday, #justice"
-  - username: "abhinavmahajanlife"
-    fullname: >-
-      ABHINAV MAHAJAN
-    bio: >-
-      VEGAN I YOGA I AWARE Contact: awareman@yahoo.com
-    location: "United Kingdom"
-    followers: 170349
-    engagement: 1065
-    commentsToLikes: 0.009793
-    id: ckap75a77iotl0i78bhc9oskq
-    verified: false
-    hashtags: "#selfmade, #justthoughts, #manofnoego, #abhinavmahajanlife"
+    hashtags: "#climatechangeisreal, #formanymoretimes, #ceramicwork"
 ---

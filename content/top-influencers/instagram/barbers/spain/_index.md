@@ -1,24 +1,60 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Spain In 2023
+title: Top 10 Barbers Instagram Influencers In Spain In 2024
 description: >-
-  Find top barbers Instagram influencers in Spain in 2023. Most popular hashtags: #barbershop #barbershopconnect #style #fashion.
+  Find top barbers Instagram influencers in Spain in 2024. Most popular hashtags: #menshair #style #barbershop #barbershopconnect.
 platform: Instagram
-hits: 75
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 75 Instagram influencers like this in Spain for you to collaborate.
+hits: 84
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 84 Instagram influencers like this in Spain for you to connect with.
 profiles:
+  - username: "erickgomezz1"
+    fullname: >-
+      ERICK GOMEZ 🇺🇾
+    bio: >-
+      • Madrid • Para Agendar cita de Corte link abajo 👇🏻 • Now in @ballin.barbershop 🇺🇾🇺🇸🇪🇸🇧🇷🇵🇹🇵🇪🇦🇷🇵🇾🇪🇨🇨🇴🇫🇷🇲🇽
+    location: "Spain"
+    followers: 100988
+    engagement: 389
+    commentsToLikes: 0.025246
+    id: ck13d9l714clo0i19gwo93mv6
+    verified: false
+    hashtags: "#fade, #style, #color, #fresh"
+  - username: "ggsoaress"
+    fullname: >-
+      Gabriel Soares
+    bio: >-
+      Barcelona Barber | Hairstyles | Mensstyle @gsoaressalon | @soaresmencare
+    location: "Spain"
+    followers: 657214
+    engagement: 210
+    commentsToLikes: 0.011347
+    id: ck5chu0fgrgkm0i11okgs3jdn
+    verified: false
+    hashtags: "#hairstyle, #beard, #philippines, #holidays"
+  - username: "dr.carlabarber"
+    fullname: >-
+      Dr. Carla Barber - Antiaging
+    bio: >-
+      🇪🇸BusinessWoman,entrepreneur,mum 👩🏻‍⚕️Dr&CEO @clinicas.barber @carlasecrets_ 📩Cita:info@drcarlabarber.com ⭐️colaboracionesinstagram@drcarlabarber.com
+    location: "Spain"
+    followers: 1029688
+    engagement: 121
+    commentsToLikes: 0.012454
+    id: ck15ul6pnnq4m0i19v7yqzxyz
+    verified: true
+    hashtags: "#34, #metododelos3puntos, #medicinaestetica, #makeup"
   - username: "jonanwolfx_"
     fullname: >-
       Jonan wolff official
     bio: >-
       I am a wolf 🐺, this is my world 🌍🐺 Spain 🇪🇸 Madrid. Libra♎ @insta_barber_wolf 💈 Exclusive content 🔞🔞👇😈 bio
     location: "Spain"
-    followers: 31155
-    engagement: 476
-    commentsToLikes: 0.027035
+    followers: 35244
+    engagement: 674
+    commentsToLikes: 0.033509
     id: ck5qab8njfhoz0i11wrwzjq96
     verified: false
-    hashtags: "#gay, #bear, #guyswithbeards, #sexybear"
+    hashtags: "#macho, #barba, #instabeard, #beefcakesmen"
   - username: "bbflow_"
     fullname: >-
       🅕🅛🅞🅦
@@ -30,7 +66,7 @@ profiles:
     commentsToLikes: 0.066829
     id: ck5bzyp47s3hs0i11qgerjqet
     verified: false
-    hashtags: "#barcelona, #style, #spain, #swagg"
+    hashtags: "#spain, #style, #drip, #swagg"
   - username: "iamdavidfalla"
     fullname: >-
       David Falla
@@ -91,40 +127,4 @@ profiles:
     id: ck602dmv5h6wy0i14rybeeevv
     verified: false
     hashtags: "#barbershop, #quedateencasa, #hairtattoo, #espa"
-  - username: "javi_thebarber_"
-    fullname: >-
-      Javier Chacon Perez
-    bio: >-
-      🏝 San Fernando ( Cádiz ) Ambassador @lakmehair_official Barber of @cadizclubdefutbol 🔵🌕 Collaborator of @hairbeautyfactory Citas a través de APP👇🏽👇🏽👇🏽
-    location: "Spain"
-    followers: 294184
-    engagement: 122
-    commentsToLikes: 0.007535
-    id: ck5c7xvif8eht0i11aq679u2r
-    verified: false
-    hashtags: "#betis, #lakme, #lakmehair, #realbetisbalompie"
-  - username: "franaranda_"
-    fullname: >-
-      Fran Aranda
-    bio: >-
-      -Haircutter 💈💇🏻‍♂️ -Educator for @brainonacademy 🎓 -@booksybiz Ambassador 📆 -@barbersandgentlemensupplier 💈
-    location: "Spain"
-    followers: 38257
-    engagement: 103
-    commentsToLikes: 0.019156
-    id: ck5pzjglm1a0j0i11zn6fwjob
-    verified: false
-    hashtags: "#monsterbarberingshow"
-  - username: "louis_thebarber_pr"
-    fullname: >-
-      Louis Correa 💈
-    bio: >-
-      📀MAYO/29/2021📀 Sponsored BlackLine ➕⚫️ Barber & Stylist Professional💈 empresario INTERNACIONAL 🌍💈Platform/Educator Puerto Rico,Humacao 📞7876137370
-    location: "Spain"
-    followers: 94813
-    engagement: 94
-    commentsToLikes: 0.026574
-    id: ck134fytbw8us0i19wp8j7lfr
-    verified: false
-    hashtags: "#sidepart, #fashiorismo, #barbernation, #barberrespect"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In London In 2023
+title: Top 10 Beauty TikTok Influencers In London In 2024
 description: >-
-  Find top beauty TikTok influencers in London in 2023. Most popular hashtags: #beauty #london #fyp #love.
+  Find top beauty TikTok influencers in London in 2024. Most popular hashtags: #beauty #london #fyp #love.
 platform: TikTok
-hits: 48
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our database aggregates 48 TikTok influencers like this in London, United Kingdom for you to pitch.
+hits: 47
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 47 TikTok influencers like this in London, United Kingdom for you to work with.
 profiles:
   - username: "toobaaiqbal"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.038043
     id: ckbf8g56jz1d70j2385slkd8q
     verified: false
-    hashtags: "#uk, #love, #liftlockpop, #sikhbride"
+    hashtags: "#malemua, #beauty, #makeupartist, #tiktokuk"
   - username: "vijaya0609"
     fullname: >-
       Vijjjj

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Berlin In 2023
+title: Top 10 Makeup TikTok Influencers In Berlin In 2024
 description: >-
-  Find top makeup TikTok influencers in Berlin in 2023. Most popular hashtags: #makeup #fy #fyp #foryou.
+  Find top makeup TikTok influencers in Berlin in 2024. Most popular hashtags: #makeup #fy #fyp #berlin.
 platform: TikTok
 hits: 19
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 19 TikTok influencers like this in Berlin, Germany for you to connect with.
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 19 TikTok influencers like this in Berlin, Germany for you to contact.
 profiles:
   - username: "_veger_"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckbbwrw6qjy170j23bjawo4o7
     verified: false
     hashtags: "#makeup, #berlin, #duett, #fy"
+  - username: "siljawisk"
+    fullname: >-
+      Silja Wisk 👼
+    bio: >-
+      Hi darling 🧚🏼
+    location: "Germany"
+    followers: 46800
+    engagement: 1085
+    commentsToLikes: 0.012048
+    id: cka85avr6xbv00i78r3fbfgk2
+    verified: false
+    hashtags: "#katze, #catlover, #cat, #foryou"
   - username: "makeupwithmilena"
     fullname: >-
       Milena💄
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.034704
     id: ckdi64lj67dmq0j236f6ykpus
     verified: false
-    hashtags: "#gemini, #viral, #fy, #fyp"
+    hashtags: "#makeup, #gemini, #fy, #fyp"
   - username: "pauli.slnr"
     fullname: >-
       P a u l i ✨
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.013785
     id: ck8opwxg853mm0j78vnxla21k
     verified: false
-    hashtags: "#revolveinbloom, #fy, #transformation, #berlin"
+    hashtags: "#berlin, #couplegoals, #fy, #tiktokfashion"
   - username: "typischkassii"
     fullname: >-
       Typisch Kassii
@@ -115,16 +127,4 @@ profiles:
     id: ck9grx9gnfu8z0j78f2qsgzx8
     verified: false
     hashtags: "#jengs, #bollyfam, #fy, #tiktok"
-  - username: "noraincoats"
-    fullname: >-
-      ella<3
-    bio: >-
-      she/her singer & songwriter Blm-> Donate by watching ads
-    location: "Germany"
-    followers: 152300
-    engagement: 1316
-    commentsToLikes: 0.100670
-    id: ck8ncg59jeawm0j78dppry7yu
-    verified: true
-    hashtags: "#mlb, #makeup, #heylol, #lgbt"
 ---

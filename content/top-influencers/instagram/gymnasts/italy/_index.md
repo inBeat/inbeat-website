@@ -1,24 +1,24 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Italy In 2023
+title: Top 10 Gymnasts Instagram Influencers In Italy In 2024
 description: >-
-  Find top gymnasts Instagram influencers in Italy in 2023. Most popular hashtags: #adv #seriea #estate2020.
+  Find top gymnasts Instagram influencers in Italy in 2024. Most popular hashtags: #adv #seriea #estate2020.
 platform: Instagram
 hits: 83
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 83 Instagram influencers like this in Italy for you to pitch.
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 83 Instagram influencers like this in Italy for you to collaborate.
 profiles:
-  - username: "giada.mtr"
+  - username: "yana_suiarko"
     fullname: >-
-      𝐆𝐢𝐚𝐝𝐚 𝐌𝐚𝐭𝐫𝐨𝐧𝐞
+      YANA YOGA FLEXY HANDSTAND🇺🇦🌍
     bio: >-
-      ♉ May 8 📸 Photomodel based in Genoa 👉🏼 Educator, dancer, rider, gymnast 📧 Info/collab: matronegiada@gmail.com
+      BASED ITALY 🇮🇹 ONLINE LESSONS :HANDSTAND;BACK BEND STRETCHING. WORKSHOPS ;PRIVATE LESSONS; Master of sport in Gymnastic; Prof performer. Yoga teach
     location: "Italy"
-    followers: 56624
-    engagement: 444
-    commentsToLikes: 0.044780
-    id: ck6u3ksqyyctt0j71vb77svzw
+    followers: 145036
+    engagement: 1018
+    commentsToLikes: 0.062199
+    id: ck5cbx2dngbl80i115zo0mlqi
     verified: false
-    hashtags: ""
+    hashtags: "#yogabalance, #armbalance, #yogastretch, #contortion"
   - username: "damatoalice"
     fullname: >-
       Alice D'Amato❤️

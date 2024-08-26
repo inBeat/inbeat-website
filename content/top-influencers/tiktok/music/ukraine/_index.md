@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Ukraine In 2023
+title: Top 10 Music TikTok Influencers In Ukraine In 2024
 description: >-
-  Find top music TikTok influencers in Ukraine in 2023. Most popular hashtags: #music #fyp #foryou #rec.
+  Find top music TikTok influencers in Ukraine in 2024. Most popular hashtags: #music #fyp #foryou #rec.
 platform: TikTok
 hits: 22
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our database aggregates 22 TikTok influencers like this in Ukraine for you to work with.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 22 TikTok influencers like this in Ukraine for you to work with.
 profiles:
   - username: "sergaint.archi"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       MUSIC
     location: "Ukraine"
-    followers: 7290
-    engagement: 2047
-    commentsToLikes: 0.050596
+    followers: 7731
+    engagement: 1793
+    commentsToLikes: 0.068094
     id: cka0hzwnsbizf0i78i8fmrkyn
     verified: false
-    hashtags: "#aesthetic, #rock, #fyp, #art"
+    hashtags: "#guitar, #car, #rally, #music"
   - username: "tik_tok_music_trends"
     fullname: >-
       Tik_tok_trends 🥺

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In India In 2023
+title: Top 10 Models Instagram Influencers In India In 2024
 description: >-
-  Find top models Instagram influencers in India in 2023. Most popular hashtags: #trending #fashion #viral #fashionblogger.
+  Find top models Instagram influencers in India in 2024. Most popular hashtags: #reels #trending #fashion #trendingreels.
 platform: Instagram
-hits: 2661
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 2661 Instagram influencers like this in India for you to collaborate.
+hits: 2953
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 2953 Instagram influencers like this in India for you to contact.
 profiles:
+  - username: "rutuja.coolkarni"
+    fullname: >-
+      Rutuja Kulkarni 🇮🇳
+    bio: >-
+      Actor•Model•ContentCreator Jyoti-Swabhimaan @star_pravah🎬 📩rjkulkarni1997@gmail.com PUNtastic human for sure 😉 Digital Marketer👩‍🎓
+    location: "India"
+    followers: 68428
+    engagement: 512
+    commentsToLikes: 0.027177
+    id: ck5bwr1adm8t70i114m4wegbt
+    verified: false
+    hashtags: "#marathiactress, #swabhimaan, #travel, #marathimulgi"
+  - username: "divya_saurabh_kedar"
+    fullname: >-
+      Divya Saurabh Kedar
+    bio: >-
+      👩🏻 Model/fashion blogger 📍 Ulhasnagar- Mumbai 🗨️Snapchat- gadaiwaldivya95 📧 divyaSkedar@gmail.com
+    location: "India"
+    followers: 97102
+    engagement: 719
+    commentsToLikes: 0.014871
+    id: ck5zvfzge45tx0i1435ig00d8
+    verified: false
+    hashtags: "#instafashion, #instalike, #blogger, #instablogger"
   - username: "rj_yuvraaj"
     fullname: >-
       RJ Yuvraaj
     bio: >-
-      Fittest💪 | Digital Head @radioonefm95📻 | (Ex RJ) . Actor🎭 | Model🎬 | Host🎙| Artist🎨 #artist #calisthenics #creative
+      Fittest💪 | Digital Head @fever95ahmedabad 📻 | (Ex RJ) Actor🎭 | Host🎙| Model🎬 | Artist🎨 #artist #calisthenics #creative
     location: "India"
-    followers: 59444
-    engagement: 1849
-    commentsToLikes: 0.023350
+    followers: 116408
+    engagement: 1331
+    commentsToLikes: 0.020785
     id: ck6tqpfl2sywy0j71t7qo6xf6
     verified: false
-    hashtags: "#amdavad, #classic, #bhavnagar, #workout"
-  - username: "niharika.sood_"
+    hashtags: "#husbandwife, #animal, #fashion, #comedy"
+  - username: "akanksha_gupta"
     fullname: >-
-      FASHION
+      Akanksha Gupta| Plus Size Influencer
     bio: >-
-      From the hills 🏔 Software Developer 💻 | Model 🎬 niharikasoodofficial@gmail.com 📍Chandigarh DM/mail for💰work
+      • Plus Size Model | Influencer • Body Positive #curvesarebeautiful 👑 Ms India Curvy 2020 1st Runner Up Embrace your curves 💌: akankshagpt7@gmail.com
     location: "India"
-    followers: 14020
-    engagement: 719
-    commentsToLikes: 0.023055
-    id: ck0vxvnhx0ypz0i19qt1chixp
+    followers: 12659
+    engagement: 629
+    commentsToLikes: 0.064420
+    id: ck6txc7vsx0gn0j71d9ge3pix
     verified: false
-    hashtags: "#chandigarh, #fit, #justplixit, #nasa"
-  - username: "vekkey"
+    hashtags: "#plussizemodel, #plussize, #comfyoutfit, #indianwear"
+  - username: "rup_randhaawa"
     fullname: >-
-      Vekkey
+      Rup Randhawa
     bio: >-
-      Actor | Model | Influencer Bearded Icon of TamilNadu Best IndianBeard'16 Managed by @hashifyofficial Collabs📥vekkey@hashify.co BOI Recognized Creator
+      Model | Fashion | Makeup 🎥 Tareef by Roshan Prince 🎥 HUSAN by Debi Makhsoospuri California, US Email for business inquiries
     location: "India"
-    followers: 70031
-    engagement: 461
-    commentsToLikes: 0.006889
-    id: ck136wy4x8nvk0i19kc97ay9z
+    followers: 16230
+    engagement: 672
+    commentsToLikes: 0.116695
+    id: ck0w2erd7nzpe0i19blipxrqe
     verified: false
-    hashtags: "#mensfashion, #fifaworldcup, #chennaiinfluencer, #chennai"
-  - username: "sona_dey_official"
+    hashtags: "#vancouvermodel, #punjabireels, #mandytakhar, #reels"
+  - username: "pranali_mistry_"
     fullname: >-
-      Sona Dey
+      PRANALI MISTRY | Content Creator
     bio: >-
-      Actor | Model | Dancer Work Hard Until Your Signature Turns to Autograph💫😊 - Any Queries - 6232770057
+      Model, Content Creator Fashion, Beauty & Dance I make *wearable* fashion videos Founder @wear.praan
     location: "India"
-    followers: 4450436
-    engagement: 446
-    commentsToLikes: 0.019763
-    id: ck9hcqspvmm3j0j78190rorkp
+    followers: 195762
+    engagement: 950
+    commentsToLikes: 0.015802
+    id: ck13a52ucooa10i19ut7z0keb
     verified: false
-    hashtags: "#viral, #trending, #reels, #padmavati"
-  - username: "lakshhmenon"
+    hashtags: "#traditionaloutfit, #ethniclook, #instabrandsilove, #instacouples"
+  - username: "shivani__parihar"
     fullname: >-
-      Lakshmi Menon🧚🏻‍♀️
+      Shivani Parihar
     bio: >-
-      Practice Gratitude! ♥️ 👑 Femina Miss India 2019 Finalist 👑 Miss South India and Miss Queen of India 2018 💫 Engineer reprogrammed to be a Model!
+      📍Jaipur Marketing. Travel. Lifestyle Model/Actor . Jaipur / Mumbai / Dubai ✨ Dm / Mail for work related queries 📩
     location: "India"
-    followers: 60888
-    engagement: 888
-    commentsToLikes: 0.007961
-    id: ck0w4d15wxz8t0i199hx90sm6
+    followers: 131625
+    engagement: 1498
+    commentsToLikes: 0.008932
+    id: ck5cbp4hufwdh0i11l0hjuw9y
     verified: false
-    hashtags: "#bbluntshinechallenge, #shinewithbblunt, #bridesofrizwan, #bridalmakeupartists"
-  - username: "realsidharthshukla"
+    hashtags: "#mountains, #sunset, #dubai, #travelgram"
+  - username: "vishakhaaaa"
     fullname: >-
-      Sidharth Shukla
+      vishakha
     bio: >-
-      Actor and Model . For Business Enquires: queries.sidharth@gmail.com . YouTube Channel Link:
+      learning and unlearning Model | Creator | sushi girl | and some other things MA: @alittlefly_ DM / email for work related enquiries 📍Bombay
     location: "India"
-    followers: 4294433
-    engagement: 1718
-    commentsToLikes: 0.073292
-    id: ck5hcas99h2u00i11ktrps59d
-    verified: true
-    hashtags: "#pamperwithwow, #wowskinscienceindia, #gettheglow, #natureinspiredbeauty"
-  - username: "hamidbarkzi07"
-    fullname: >-
-      Hamid Barkzi
-    bio: >-
-      25 Model & Athlete Winner- @mtvroadies Roadies Revolution 🏆 They call me the strongest underdog💪🏻 For queries- Kriti@chtrbox.com 📍- Delhi, Mumbai
-    location: "India"
-    followers: 280677
-    engagement: 1415
-    commentsToLikes: 0.004434
-    id: ck8t8sn2wlne60j78piejd277
+    followers: 16381
+    engagement: 1562
+    commentsToLikes: 0.022570
+    id: ckap4vkgp92qq0i785k3xtfp7
     verified: false
-    hashtags: "#roadiesrevolution, #reels, #reelitfeelit, #pyaarsamundarpaar"
-  - username: "imrajatsingla"
+    hashtags: "#explore, #reels, #outfitinspo, #outfitsociety"
+  - username: "jason_arland"
     fullname: >-
-      Rajat Singla
+      JASON ARLAND
     bio: >-
-      Chandigarh 🏡 🎬 Model 🏭Businessmen Dm/mail for collborations ✉️ imrajatsingla@gmail.com 👻 irajatsingla
+      Fashion |Music| Beauty | Model | Actor #JasonArland BRB , dancing to techno with @netflix_in ! And now on ECEL @netflix_in #TEDX Speaker .
     location: "India"
-    followers: 432048
-    engagement: 214
-    commentsToLikes: 0.024364
-    id: ckf5tvydziwfz0j23xz26w1os
+    followers: 14368
+    engagement: 546
+    commentsToLikes: 0.051953
+    id: ck134q6u8xnzo0i191sssi7id
     verified: false
-    hashtags: "#kid, #kidsofinstagram, #couplegoals, #instadaily"
-  - username: "meetbaggaa"
+    hashtags: "#reels, #jasonarland, #trendingreels, #makeup"
+  - username: "_akshada.shinde_"
     fullname: >-
-      MEET ARORA ♥️
+      Akshada|Fashion|Dance
     bio: >-
-      Blogger | Model | Video creator Social marketing - ( @marketofmeetbaggaa ) 𝐌𝐚𝐧𝐚𝐠𝐞𝐝 𝐛𝐲 @baazdigitals 🦅 Ludhiana | Chandigarh | Delhi
+      BOI recognised creator ⭐️ Dancer | Actor | Model Fashion& beauty content creator Certified Makeup artist 💄 @makeupbyakshada
     location: "India"
-    followers: 194003
-    engagement: 191
-    commentsToLikes: 0.010773
-    id: ckaosqdkzsmgp0i78pk14kyy4
+    followers: 48224
+    engagement: 456
+    commentsToLikes: 0.044755
+    id: ck8t00jgrqfgj0j78cjj957mw
     verified: false
-    hashtags: "#beautyinfluencer, #trendingsongs, #fashioninfluencers, #fashionillustrator"
-  - username: "chathuvlogs"
-    fullname: >-
-      Chathu Silva
-    bio: >-
-      Chathu Silva YouTuber | Beautician | Social Media Influencer | Plus Size Model | Entrepreneur | Food & Product Reviewer DM for collaborations
-    location: "India"
-    followers: 90653
-    engagement: 134
-    commentsToLikes: 0.289315
-    id: ck134xdkfyno30i19n33h7nhu
-    verified: false
-    hashtags: "#curlyhair, #chathu, #chathuvlogs, #srilankan"
+    hashtags: "#collaboration, #reels, #kashmir, #samsung"
 ---

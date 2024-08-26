@@ -1,11 +1,11 @@
 ---
-title: Top 10 Djs TikTok Influencers In United States In 2023
+title: Top 10 Djs TikTok Influencers In United States In 2024
 description: >-
-  Find top djs TikTok influencers in United States in 2023. Most popular hashtags: #duet #foryou #fyp #djsfamspreadinglove.
+  Find top djs TikTok influencers in United States in 2024. Most popular hashtags: #duet #foryou #djsfamspreadinglove.
 platform: TikTok
-hits: 85
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our search engine has 85 TikTok influencers like this in United States for you to pitch.
+hits: 86
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 86 TikTok influencers like this in United States for you to pitch.
 profiles:
   - username: "99goonsquad"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.616762
     id: cka9puvhe7b690i78tkin9kg2
     verified: false
-    hashtags: "#loyalcreators, #crowclanfam, #djsfamspreadinglove, #ink"
+    hashtags: "#crowclanfam, #ink, #comed, #pingpongttf"
   - username: "denahxoxo"
     fullname: >-
       Denah Douglas
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.533945
     id: ckacuz81alaz80i78nzhstkqg
     verified: false
-    hashtags: "#theforgottenppl, #lhbk, #djsfamspreadinglove, #hahaha"
+    hashtags: "#savagebbws, #thestormtroopers, #theforgottenppl, #realdealfam"
   - username: "christinalovw"
     fullname: >-
       Christina Love

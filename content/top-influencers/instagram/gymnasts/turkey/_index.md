@@ -1,24 +1,36 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Turkey In 2023
+title: Top 10 Gymnasts Instagram Influencers In Turkey In 2024
 description: >-
-  Find top gymnasts Instagram influencers in Turkey in 2023. Most popular hashtags: #gymnastics #fitness #instagram #gym.
+  Find top gymnasts Instagram influencers in Turkey in 2024. Most popular hashtags: #gymnastics #gym #turkey #photography.
 platform: Instagram
-hits: 17
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 17 Instagram influencers like this in Turkey for you to contact.
+hits: 16
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 16 Instagram influencers like this in Turkey for you to pitch.
 profiles:
+  - username: "aysebegumonbasiofficial"
+    fullname: >-
+      Ayşe Begüm Onbaşı
+    bio: >-
+      Aerobic Gymnast 🤸‍♀️ WCH / ECH / World Cup Champion 🥇 National Team / Spor Toto SK 🇹🇷🦾 Adidas Athlete 👟🖤 Business & Communication: @lunarballsports 💌
+    location: "Turkey"
+    followers: 247321
+    engagement: 382
+    commentsToLikes: 0.008667
+    id: ck5hikmdje06e0i110e5d0myf
+    verified: true
+    hashtags: "#ay, #8mart, #worldchampion, #repost"
   - username: "turuncuprenses"
     fullname: >-
-      Tuğba&Melis Şeremet🧡
+      Tuğba Şeremet🧡
     bio: >-
-      Model | Actress | Gymnast | Dancer 🌈Account managed by family @tubaseremet 💌tugbamelis@gmail.com
+      Ballerina | Model | Actress | Gymnast | Dancer 🌈Account managed by family @tubaseremet 💌tugbamelis@gmail.com
     location: "Turkey"
-    followers: 82649
-    engagement: 316
-    commentsToLikes: 0.066028
+    followers: 104880
+    engagement: 132
+    commentsToLikes: 0.051745
     id: ck5hp6usoqupl0i11sksibbi1
     verified: false
-    hashtags: "#me, #rabbit, #summertime, #happy"
+    hashtags: "#kidsmodel, #reelsinstagram, #dress, #likemotherlikedaughter"
   - username: "tutyayilmaz"
     fullname: >-
       Tutya Yilmaz
@@ -55,6 +67,18 @@ profiles:
     id: ck8syti5uly6h0j78z0t4gbn2
     verified: false
     hashtags: "#roadtotokyo, #aslapesetme, #gymnastics, #olimpteam"
+  - username: "belitskay"
+    fullname: >-
+      DIANA BELITSKAIA 💌🧘🏼‍♀️
+    bio: >-
+      ☆ TikTok ( +15М) belitskaydi ☆ YouTube ( +10M) ⠀ Ad: @belitskay.pr // dibelitskay@gmail.com Я ТУТ ⬇️⬇️
+    location: "Turkey"
+    followers: 420908
+    engagement: 1175
+    commentsToLikes: 0.011194
+    id: ck8t5y6h4bn4s0j78armern2u
+    verified: false
+    hashtags: "#stretching, #stretch, #instafit, #instasports"
   - username: "mustiyldz07"
     fullname: >-
       Mustiii
@@ -103,28 +127,4 @@ profiles:
     id: ck5hr200lu4jp0i116tm92x2b
     verified: false
     hashtags: "#fullenergy, #batman, #gymgirl, #bomdia"
-  - username: "anilberkbaki"
-    fullname: >-
-      Anıl Berk Baki
-    bio: >-
-      •Management: @gunfer •Professional & National Sailor⚓️ •Extreme Sports
-    location: "Turkey"
-    followers: 132531
-    engagement: 544
-    commentsToLikes: 0.013175
-    id: ck6ttrq4ac8ac0j71gmshrx3p
-    verified: true
-    hashtags: "#extreme, #winter, #gopro, #animallovers"
-  - username: "zf.cansu"
-    fullname: >-
-      zf.cansu
-    bio: >-
-      (BUKAFİT) TikTok - 900K + - zf.cansu 💙 YouTube 👇
-    location: "Turkey"
-    followers: 33291
-    engagement: 338
-    commentsToLikes: 0.027657
-    id: ck14kxxgzrvm90i190hllmct6
-    verified: false
-    hashtags: "#boxbraids, #gym, #reels, #yoga"
 ---

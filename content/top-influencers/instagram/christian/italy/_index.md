@@ -1,24 +1,60 @@
 ---
-title: Top 10 Christian Instagram Influencers In Italy In 2023
+title: Top 10 Christian Instagram Influencers In Italy In 2024
 description: >-
-  Find top christian Instagram influencers in Italy in 2023. Most popular hashtags: #reels #arte #italy #halloween.
+  Find top christian Instagram influencers in Italy in 2024. Most popular hashtags: #family #followme #halloween #couplegoals.
 platform: Instagram
-hits: 342
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 342 Instagram influencers like this in Italy for you to collaborate.
+hits: 387
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 387 Instagram influencers like this in Italy for you to contact.
 profiles:
+  - username: "papaperscelta"
+    fullname: >-
+      🏳️‍🌈Famiglia👨‍👨‍👦‍👦 De Florio-Tumino🇮🇹
+    bio: >-
+      Carlo 👨🏻‍💻Christian👨🏽‍🍳 Juju🧒🏻 Seba👦🏼 Una finestra sull’omogenitorialita’🌈 Pulire le scarpe prima di entrare‼️ Il nostro ultimo romanzo👇
+    location: "Italy"
+    followers: 390523
+    engagement: 747
+    commentsToLikes: 0.029544
+    id: ck5zy22x993560i148eu2gzht
+    verified: false
+    hashtags: "#genitori, #rainbowfamily, #comedy, #inclusion"
   - username: "damn.tee"
     fullname: >-
       Christian Filippi
     bio: >-
-      💜What’s up everybody! Io sono Christian💜 🏰 Sindaco di Extralandia 🎉 20 ✉️ christian@beyondoceans.it
+      💜What’s up everybody! Io sono Christian💜 🎉 22 anni ✉️ christian@beyondoceans.it ➡️ IL MIO BRAND DI MAKEUP @extra.landia
     location: "Italy"
-    followers: 219050
-    engagement: 892
-    commentsToLikes: 0.007073
+    followers: 202662
+    engagement: 379
+    commentsToLikes: 0.003639
     id: ck0ttgfes2lu90i19myg90gd8
     verified: false
-    hashtags: "#extralandia, #reels, #makeup, #nofilter"
+    hashtags: "#soldout, #blackfriday, #nails, #glitter"
+  - username: "renatabota"
+    fullname: >-
+      RENATA BOTA
+    bio: >-
+      ✉️Personal mail: contact@christian-renata.com ✉️Business inquiries: geanina@lesquad.ro
+    location: "Italy"
+    followers: 42006
+    engagement: 74
+    commentsToLikes: 0.015309
+    id: ck15qgi192q9p0i19e0efke4p
+    verified: false
+    hashtags: "#visittaormina, #outfitinspiration, #momentsofmine, #outfitinspo"
+  - username: "maddamusto"
+    fullname: >-
+      ✨ 𝐌𝐚𝐝𝐝𝐚 ✨
+    bio: >-
+      𝗠𝘂𝗺 𝗹𝗶𝗳𝗲 •𝗢𝘂𝘁𝗳𝗶𝘁 •𝗕𝗲𝗮𝘂𝘁𝘆 Christian&Thomas 🧸👩‍👦‍👦 New 🏡 𝑁𝑒𝑢𝑡𝑟𝑎𝑙 𝐻𝑜𝑚𝑒 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐃𝐢𝐫𝐞𝐜𝐭 𝐨𝐫 💌 maddamusto@gmail.com
+    location: "Italy"
+    followers: 51130
+    engagement: 66
+    commentsToLikes: 0.049633
+    id: ckf5oib5v2cv40j2367bhl49g
+    verified: false
+    hashtags: "#aesthetic, #pregnantlife, #octolyfamily, #nakdfashion"
   - username: "dyuchkovy"
     fullname: >-
       Anya Dyuchkova (Mom)
@@ -47,14 +83,14 @@ profiles:
     fullname: >-
       Teni Oluwo
     bio: >-
-      Non-Conformist Creator Stylist CHRISTIAN Work ft on VOGUE ITALIA, Manrepeller,Refinery29 Documenting and Creating ‘out-of-the-box’ Style experiences
+      Non-Conformist Creator STYLIST, Documenting and Creating ‘out-of-the-box’ Style Experiences CHRISTIAN Work ft on VOGUE ITALIA, Manrepeller,Refinery29
     location: "Italy"
-    followers: 24730
-    engagement: 248
-    commentsToLikes: 0.097399
+    followers: 26063
+    engagement: 215
+    commentsToLikes: 0.097693
     id: ck0w27qayn08i0i19b73qrxbw
     verified: false
-    hashtags: "#styleterritory, #blackmodels, #styledbystyleterritory, #bridaleditorial"
+    hashtags: "#haircampaign, #edgyfashion, #tachatitans, #royalhairs"
   - username: "atlanta_loves_books"
     fullname: >-
       Atlanta‘s Book Blog
@@ -91,40 +127,4 @@ profiles:
     id: ckap1p5e0viac0i78m7d71qkx
     verified: false
     hashtags: "#reels, #teatroallascala, #worldwideballet, #viral"
-  - username: "christianpizzinini"
-    fullname: >-
-      Christian Pizzinini
-    bio: >-
-      Travel / Design / Art / Gourmet Nomad IT / Milano /Puglia / Dolomites E-mail: christian.pizzinini@pizzininiscolari.com
-    location: "Italy"
-    followers: 18510
-    engagement: 356
-    commentsToLikes: 0.026044
-    id: ck6totnmqg1sp0j71or8oanzo
-    verified: false
-    hashtags: "#igersmilano, #lecce, #art, #buongiorno"
-  - username: "christianvieri"
-    fullname: >-
-      Christian Vieri
-    bio: >-
-      ChristianVieriMusicShow:booking@bobodj.it Owner @bombeer.official BSC @bobosummercup Bobotv @bobotvofficial
-    location: "Italy"
-    followers: 2600993
-    engagement: 142
-    commentsToLikes: 0.008220
-    id: ck15rgetm7sxz0i19uy4l05n5
-    verified: true
-    hashtags: "#boboshock, #calcioquiz, #giochipreziosi, #subbuteo"
-  - username: "christiandesica35official"
-    fullname: >-
-      Christian de Sica
-    bio: >-
-      • Official Instagram • for collabs info@christiandesicaonline.com
-    location: "Italy"
-    followers: 598450
-    engagement: 166
-    commentsToLikes: 0.017108
-    id: ck5hs8lg2w63u0i118ij3tlcs
-    verified: true
-    hashtags: "#mariudesica, #brandodesica, #antonellofalqui, #christiandesicafanclub"
 ---

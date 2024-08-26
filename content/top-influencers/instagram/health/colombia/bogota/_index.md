@@ -1,24 +1,12 @@
 ---
-title: Top 10 Health Instagram Influencers In Bogotá In 2023
+title: Top 10 Health Instagram Influencers In Bogotá In 2024
 description: >-
-  Find top health Instagram influencers in Bogotá in 2023. Most popular hashtags: #fitness #lifestyle #healthy #fit.
+  Find top health Instagram influencers in Bogotá in 2024. Most popular hashtags: #fitness #healthy #lifestyle #colombia.
 platform: Instagram
-hits: 8
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 8 Instagram influencers like this in Bogotá, Colombia for you to contact.
+hits: 10
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 10 Instagram influencers like this in Bogotá, Colombia for you to work with.
 profiles:
-  - username: "marrana.eats"
-    fullname: >-
-      MARRANA EATS Miami
-    bio: >-
-      𝗜 𝘁𝗿𝗮𝘃𝗲𝗹, 𝗜 𝗲𝗮𝘁, 𝗜 𝗯𝗹𝗼𝗴⁣ 🌎🍴 📍 MIAMI⁣⁣ FAT & FIT Chef @gatodumascol Personal acc @marianaarra ORDER YOUR @jarsbymarrana.eats 👇🏼
-    location: "Colombia"
-    followers: 27175
-    engagement: 454
-    commentsToLikes: 0.405245
-    id: ck5ch6qvwq7de0i11f0c2mnfo
-    verified: false
-    hashtags: "#fries, #foodblog, #diy, #hungry"
   - username: "juanda_aldana"
     fullname: >-
       RECUERDO DE JUAN DAVID ALDANA
@@ -43,6 +31,42 @@ profiles:
     id: ck14k06szn2450i19wo73twqn
     verified: false
     hashtags: "#estoxesto, #snack, #postre, #recipie"
+  - username: "doc.cardenas"
+    fullname: >-
+      Oscar Cardenas
+    bio: >-
+      𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱 𝗜𝗻𝘁𝗲𝗻𝘀𝗶𝘃𝗶𝘀𝘁-𝗖𝗿𝗼𝘀𝘀𝗙𝗶𝘁𝘁𝗲𝗿🧔🏻‍♂️(Simulation||ACLS||FCCS||𝗣𝗢𝗖𝗨𝗦 🔜 𝐌𝐞𝐝𝐢𝐜𝐢𝐧𝐞 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐨𝐫)||Editor: @cardiointermed 𝑺𝒕𝒖𝒅𝒚𝒊𝒏𝒈 𝒇𝒐𝒓 𝒕𝒉𝒆 𝑼𝑺𝑴𝑳𝑬 𝑺𝒕𝒆𝒑 𝟏🇺🇸
+    location: "Colombia"
+    followers: 33796
+    engagement: 272
+    commentsToLikes: 0.196553
+    id: ckaotdff3vfzl0i78fgroq4ji
+    verified: false
+    hashtags: "#criticalcaremedicine, #medicinacritica, #internalmedicine, #infectologia"
+  - username: "caromejiaaraujo"
+    fullname: >-
+      Caro Mejía Araújo
+    bio: >-
+      @reebokcolombia ambassador healthy lifestyle | outfits | baile Co founder @calu_resortwear @blendsmoothies.co 📍Bogotá
+    location: "Colombia"
+    followers: 75563
+    engagement: 381
+    commentsToLikes: 0.060049
+    id: ck5hj6hllg3cw0i118da5szy1
+    verified: false
+    hashtags: "#outfits, #fashion, #videosdebaile, #cartagena"
+  - username: "isabellacubillos"
+    fullname: >-
+      Isabella Cubillos
+    bio: >-
+      Founder @symmetric.activewear 📍Bogotá, Colombia / Cali Fitness - Workouts - Lifestyle✨
+    location: "Colombia"
+    followers: 108411
+    engagement: 125
+    commentsToLikes: 0.020116
+    id: ck8t6makke3v20j78m7phwtob
+    verified: false
+    hashtags: "#glutetraining, #cardioworkout, #legs, #postrefit"
   - username: "maleja__fitness"
     fullname: >-
       ✨MalejaFitness✨
@@ -103,28 +127,4 @@ profiles:
     id: ck6u91mx3uyoz0j71kuvli029
     verified: false
     hashtags: "#lovetodance, #dancefloor, #bailar, #dancer"
-  - username: "the_runaddict"
-    fullname: >-
-      George | Running & Tri Junkie
-    bio: >-
-      ‣ Marketing | Triathlon & running coach 👉🏻 @aethosport ‣ Health & wellness motivation. ‣ 4 major marathons ⭐️ (so far).
-    location: "Colombia"
-    followers: 10343
-    engagement: 534
-    commentsToLikes: 0.112158
-    id: ckaozhml1lxdo0i78gltg1vkd
-    verified: false
-    hashtags: "#runningmotivation, #runningcolombia, #iloverunning, #nbrunning"
-  - username: "kevincardenas__"
-    fullname: >-
-      Kevin Cardenas 🇨🇴
-    bio: >-
-      🔥 desafío súper regiones 2019 #cafetero Embajador @healthysportscolombia 📝admon de negocios internacionales 📸modelo 🏋🏻 CrossFit
-    location: "Colombia"
-    followers: 61512
-    engagement: 471
-    commentsToLikes: 0.026606
-    id: ckapckj38474m0i788cgi5sma
-    verified: false
-    hashtags: "#fitness, #smile, #mensfashion, #photography"
 ---

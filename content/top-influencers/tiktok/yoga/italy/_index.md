@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Italy In 2023
+title: Top 10 Yoga TikTok Influencers In Italy In 2024
 description: >-
-  Find top yoga TikTok influencers in Italy in 2023. Most popular hashtags: #yoga #perte #fitness #sport.
+  Find top yoga TikTok influencers in Italy in 2024. Most popular hashtags: #yoga #fitness #sport #calisthenics.
 platform: TikTok
-hits: 12
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our search engine holds 12 TikTok influencers like this in Italy for you to work with.
+hits: 14
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 14 TikTok influencers like this in Italy for you to connect with.
 profiles:
   - username: "desire.furnari"
     fullname: >-
@@ -91,6 +91,18 @@ profiles:
     id: ck9nfovyuel2h0j780qamn2x0
     verified: false
     hashtags: "#ledlights, #trend, #xyzbca, #crystal"
+  - username: "radiodeejay"
+    fullname: >-
+      Radio Deejay
+    bio: >-
+      One nation One station ✉️ Diretta@deejay.it 📱 WhatsApp 3473425220 deejay.it
+    location: "Italy"
+    followers: 56500
+    engagement: 570
+    commentsToLikes: 0.028061
+    id: ckbkqulyslb020j2304iffxzw
+    verified: true
+    hashtags: "#catteland, #radiodeejay, #imparacontiktok, #saywaaad"
   - username: "raoulswingorchestra"
     fullname: >-
       RaoulSwingOrchestra
@@ -115,16 +127,4 @@ profiles:
     id: ckc1xipkr1ei00j23pznc5ocv
     verified: false
     hashtags: "#fitness, #flip, #sports, #gymnastics"
-  - username: "francescacolomboofficial"
-    fullname: >-
-      Francesca Colombo
-    bio: >-
-      IG:@francescacolomboofficial ➡️ @50sfumaturedioutfit Www.50sfumaturedioutfit.com
-    location: "Italy"
-    followers: 11700
-    engagement: 440
-    commentsToLikes: 0.049139
-    id: ck7zoz37fml1u0j78y41sakll
-    verified: false
-    hashtags: "#cat, #viral, #kitten, #attrice"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Kayak TikTok Influencers In 2023
+title: Top 10 Kayak TikTok Influencers In 2024
 description: >-
-  Find top kayak TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #kayak #foryoupage.
+  Find top kayak TikTok influencers in 2024. Most popular hashtags: #fyp #foryou #kayak #foryoupage.
 platform: TikTok
 hits: 261
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our database has 261 TikTok influencers like this for you to contact.
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform has 261 TikTok influencers like this for you to pitch.
 profiles:
   - username: "misipikidd"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.064782
     id: ckb0tagflire80j239kxk59y2
     verified: false
-    hashtags: "#christianboy, #fyp, #foryou, #jesus"
+    hashtags: "#god, #fyp, #christian, #mississippiboy"
   - username: "seattleguy0"
     fullname: >-
       Seattleguy0
@@ -121,10 +121,10 @@ profiles:
     bio: >-
       Entrepreneur • gamer • music • travel • owner of Get Up And Go Kayaking
     location: "United States"
-    followers: 42300
-    engagement: 635
-    commentsToLikes: 0.051948
+    followers: 51900
+    engagement: 252
+    commentsToLikes: 0.027428
     id: ck9k1uv4chu300j78nxti7cw4
     verified: false
-    hashtags: "#fyp, #foryourpage, #cod, #warzone"
+    hashtags: "#lakemoraine, #banff, #amangiri, #lakelouise"
 ---

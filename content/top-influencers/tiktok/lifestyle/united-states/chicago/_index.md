@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Chicago In 2023
+title: Top 10 Lifestyle TikTok Influencers In Chicago In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #foryou #lifestyle #chicago.
+  Find top lifestyle TikTok influencers in Chicago in 2024. Most popular hashtags: #fyp #foryou #lifestyle #chicago.
 platform: TikTok
-hits: 24
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 24 TikTok influencers like this in Chicago, United States for you to pitch.
+hits: 25
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 25 TikTok influencers like this in Chicago, United States for you to work with.
 profiles:
   - username: "chlobellexx"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.093808
     id: cka0sjq6zls1d0i78cohlipwf
     verified: false
-    hashtags: "#trendyfashion, #weddingguestoutfit, #springfashion, #trendy"
+    hashtags: "#springfashion, #trendyfashion, #transition, #trendy"
   - username: "felonthesavage"
     fullname: >-
       FELON
@@ -31,18 +31,6 @@ profiles:
     id: ckbag36fb83410j23l933ytbe
     verified: false
     hashtags: "#video, #fyp, #live, #art"
-  - username: "joaquin3x"
-    fullname: >-
-      Joaquin3x
-    bio: >-
-      Chicago 👻 - Joaquin3x Follow INSTA<3 Business // Joaquin3x@TIKTAL.co
-    location: "United States"
-    followers: 276600
-    engagement: 2167
-    commentsToLikes: 0.023608
-    id: ckbf7wmm3xze40j23qnk2vp4y
-    verified: false
-    hashtags: "#shadowbanned, #fyp, #viral, #coming2america"
   - username: "corixgabrielle"
     fullname: >-
       cori
@@ -79,6 +67,18 @@ profiles:
     id: ckcv66e3lpi230j23ud1i5sma
     verified: false
     hashtags: "#refundglowup, #arab, #foryou, #chicago"
+  - username: "joaquin3x"
+    fullname: >-
+      Joaquin3x
+    bio: >-
+      Chicago 👻 - Joaquin3x Follow INSTA<3 Business // Joaquin3x@TIKTAL.co
+    location: "United States"
+    followers: 276600
+    engagement: 2167
+    commentsToLikes: 0.023608
+    id: ckbf7wmm3xze40j23qnk2vp4y
+    verified: false
+    hashtags: "#viral, #relationship, #shadowbanned, #coming2america"
   - username: "bunchtipzz"
     fullname: >-
       𝖳𝗂𝗉𝗓 ✰
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.086875
     id: ckbffkj6ha6wb0j23mkydlmm1
     verified: false
-    hashtags: "#vodkalemonade, #fun, #cocktail, #bagels"
+    hashtags: "#titosvodka, #ketogenic, #fyp, #ketoforbeginners"
 ---

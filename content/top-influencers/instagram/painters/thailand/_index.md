@@ -1,12 +1,24 @@
 ---
-title: Top 10 Painters Instagram Influencers In Thailand In 2023
+title: Top 10 Painters Instagram Influencers In Thailand In 2024
 description: >-
-  Find top painters Instagram influencers in Thailand in 2023. Most popular hashtags: #pinterest #bikini #cycling.
+  Find top painters Instagram influencers in Thailand in 2024. Most popular hashtags: #pinterest #art #paintings.
 platform: Instagram
-hits: 12
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 12 Instagram influencers like this in Thailand for you to pitch.
+hits: 11
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 11 Instagram influencers like this in Thailand for you to pitch.
 profiles:
+  - username: "mamya.jsk"
+    fullname: >-
+      Mamya Shajaffar
+    bio: >-
+      The happiest sadist out here. 🕊 Dancer, Actor, Painter, Writer, almost Singer
+    location: "Thailand"
+    followers: 182180
+    engagement: 363
+    commentsToLikes: 0.017363
+    id: ck5c1oo43vm2c0i11dy7zg17u
+    verified: false
+    hashtags: "#islandlife, #travelgram, #insta, #friends"
   - username: "mint.chareena"
     fullname: >-
       ℂ𝕙𝕒𝕣𝕖𝕖𝕟𝕒 ℝ𝕚𝕞𝕡𝕙𝕚𝕤𝕠𝕟
@@ -43,18 +55,42 @@ profiles:
     id: ck6u0pws5h3wd0j713xpzvwvj
     verified: false
     hashtags: "#susenthailand, #susenbags, #shineonsusen, #pinterest"
-  - username: "pimprapa.t"
+  - username: "aprilevelyn"
     fullname: >-
-      Pimprapa Tangprabhaporn
+      𝖺𝗉𝗋𝗂𝗅𝖾𝗏𝖾𝗅𝗒𝗇 𓂀☽ เอพริล
     bio: >-
-      For work : 085-663-6632 (K.Amp) Founder: @untitled.bkk Co-Founder: @passaraofficial Youtube : Pimniyom 👇
+      👩🏻‍✈️💛 Nokair #Boeing737 pilot ✈️🇹🇭 Tiktok: aprilevelyn20 👯‍♀️ @lets.be.twins Use code [AprilDW] get extra 15% off at @danielwellington 6301
     location: "Thailand"
-    followers: 2042590
-    engagement: 89
-    commentsToLikes: 0.003275
-    id: ck0ue9e6bku3l0i19y1nwiuuz
-    verified: true
-    hashtags: "#roseauessentialtoile, #longchampfw21, #pinterest, #flexi"
+    followers: 110450
+    engagement: 430
+    commentsToLikes: 0.127080
+    id: ck15r61966b6j0i19ucqui6wk
+    verified: false
+    hashtags: "#femalepilot, #surfskate, #fresco, #pinterest"
+  - username: "artburma"
+    fullname: >-
+      ArtBurma
+    bio: >-
+      We love Art, we collect Paintings and discover them. Enjoy our selection of vibrant artworks and share the passion for Original Art with us🎨 原版工艺品出售
+    location: "Thailand"
+    followers: 25212
+    engagement: 116
+    commentsToLikes: 0.056231
+    id: ck8t2ei9ez6g50j78pinotmwb
+    verified: false
+    hashtags: "#impressionist, #instagramart, #oilpaintings, #portrait"
+  - username: "mariekitsova"
+    fullname: >-
+      Marie Kitsóva | model | creator
+    bio: >-
+      now in📍Bangkok 🇹🇭 open for collabs MA: @secret.mngt 📩 contact@mariekitsova.com my website ↓
+    location: "Thailand"
+    followers: 123248
+    engagement: 60
+    commentsToLikes: 0.014831
+    id: ck55nq82v6qmw0i11nx5lemtn
+    verified: false
+    hashtags: "#modelasia, #backstagevideo, #photoidea, #elegantstyles"
   - username: "noeypaphada"
     fullname: >-
       𝙋𝘼𝙋𝙃𝘼𝘿𝘼 𝙆𝙇𝙄𝙉𝙎𝙐𝙈𝘼𝙉
@@ -67,18 +103,6 @@ profiles:
     id: ck0txvwnkkodx0i19kidy8bxy
     verified: false
     hashtags: "#teaplus, #lancomexlazadath, #restoreskinwithin28days, #jadoreinfinissime"
-  - username: "sjira.s"
-    fullname: >-
-      ♡  sᴊɪʀᴀ ♡
-    bio: >-
-      ᴋɪɴᴅʟʏ ᴅᴍ ᴍᴇ ♡ ◕‿◕ ♡ ᴅᴜʙʙʟᴇ ᴅᴇɢʀᴇᴇ, ᴄᴍᴜ
-    location: "Thailand"
-    followers: 52740
-    engagement: 256
-    commentsToLikes: 0.001683
-    id: ck0u0gsgctm4d0i19zr0tnbnm
-    verified: false
-    hashtags: "#kotchbeauty, #mixyourcolorsmakeyourbeauty, #dwgiftsoflove, #dwthailand"
   - username: "palmkiki"
     fullname: >-
       
@@ -103,28 +127,4 @@ profiles:
     id: ckap3znsh571h0i78uwhadygs
     verified: false
     hashtags: "#chamerewards, #promotion, #halloween2020, #shopeeth"
-  - username: "cheri.belle"
-    fullname: >-
-      💋LALLALIN TEJASA WECKX💋
-    bio: >-
-      FOR WORK 🇹🇭 (3659) Call : 0961925478 Khun Lewis EMAIL : contact.cheribelle@gmail.com Founder of @black.merci
-    location: "Thailand"
-    followers: 280899
-    engagement: 42
-    commentsToLikes: 0.011901
-    id: ck8sy6o3tjwac0j78yb9dwdq3
-    verified: true
-    hashtags: "#perfectrenewregenerator, #laneigethailand, #phuketiscalling, #pinterest"
-  - username: "pairpatteera"
-    fullname: >-
-      Pair Patteera
-    bio: >-
-      @ps.0902 🦋 Pair.patteera@gmail.com
-    location: "Thailand"
-    followers: 9648
-    engagement: 330
-    commentsToLikes: 0.021653
-    id: ck8t44ujy5ik60j78qfavzy37
-    verified: false
-    hashtags: "#home, #sudioett, #sudio, #pairpatteera"
 ---

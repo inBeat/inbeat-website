@@ -1,12 +1,24 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Los Angeles In 2023
+title: Top 10 Beauty Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top beauty Instagram influencers in Los Angeles in 2023. Most popular hashtags: #beauty #losangeles #model #film.
+  Find top beauty Instagram influencers in Los Angeles in 2024. Most popular hashtags: #beauty #losangeles #model #fashion.
 platform: Instagram
-hits: 773
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 773 Instagram influencers like this in Los Angeles, United States for you to pitch.
+hits: 978
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 978 Instagram influencers like this in Los Angeles, United States for you to collaborate.
 profiles:
+  - username: "katerinakraz"
+    fullname: >-
+      Katerina Kraz
+    bio: >-
+      Fashion/Beauty Los Angeles. @k.j.studio_
+    location: "United States"
+    followers: 178210
+    engagement: 1
+    commentsToLikes: 0.000000
+    id: ck8systg0lvg00j786llnldas
+    verified: false
+    hashtags: "#outfitideas, #ad, #grwm, #ootd"
   - username: "riccardo.constant"
     fullname: >-
       Riccardo Constant
@@ -19,18 +31,6 @@ profiles:
     id: ck6tq91psq2rz0j71obxvzdwq
     verified: false
     hashtags: "#boudoir, #sensual, #model, #fineartphotography"
-  - username: "thehannamae"
-    fullname: >-
-      Hanna
-    bio: >-
-      🗽Model | Jazz Vocalist | Singer-Songwriter🎙 📍ⓃⓎⒸ —-> LA 🌴 Embrace your differences😜
-    location: "United States"
-    followers: 34346
-    engagement: 416
-    commentsToLikes: 0.097235
-    id: ckap2t5bb07hv0i78h9mfjmd3
-    verified: false
-    hashtags: "#model, #loveislove, #beauty, #losangeles"
   - username: "snapsstudio"
     fullname: >-
       Snaps Studio
@@ -55,6 +55,18 @@ profiles:
     id: ck6u7ywklogqo0j71mn0a3nek
     verified: false
     hashtags: "#cancun, #junebaby, #quintanaroo, #safetravels"
+  - username: "theboyabouttown"
+    fullname: >-
+      
+    bio: >-
+      • National Treasure • Persona Non Grata • Cultural Attaché to downtown Manhattan • Creator of Whatever Forever
+    location: "United States"
+    followers: 24199
+    engagement: 463
+    commentsToLikes: 0.014387
+    id: ck6tmr7a98dgv0j71mo79clc4
+    verified: false
+    hashtags: "#fashionable, #instagood, #smoking, #stylish"
   - username: "karinasfilms"
     fullname: >-
       Karina B
@@ -67,18 +79,18 @@ profiles:
     id: ck15rc5jv76s80i1909dvpad2
     verified: false
     hashtags: "#instagram, #women, #actor, #instagood"
-  - username: "patrick_xiong"
+  - username: "lunocksphotography"
     fullname: >-
-      Patrick Xiong
+      LUCIANA NOCKS
     bio: >-
-      Photographer
+      Headshot & Portrait Photographer For info and rates email me at lunocks@gmail.com 📍Orange County, California
     location: "United States"
-    followers: 30923
-    engagement: 207
-    commentsToLikes: 0.015595
-    id: ck5bxhtcbnr5k0i11qhzwupgs
+    followers: 26266
+    engagement: 122
+    commentsToLikes: 0.039806
+    id: ck0tvh890bc8f0i19rdz7xpl5
     verified: false
-    hashtags: "#thewowmag, #diversity, #film, #nyc"
+    hashtags: "#lifestylephotographer, #kidsfashion, #newheadshots, #atrizmirim"
   - username: "everythingbrowsbyc"
     fullname: >-
       BROWSBYCASS
@@ -91,40 +103,28 @@ profiles:
     id: ck8t3e5w82xew0j78a4n1f5ft
     verified: false
     hashtags: "#beauty, #losangeles, #makeup, #mua"
-  - username: "makeupbytreenz"
+  - username: "djl3xi"
     fullname: >-
-      KATRINA 🥀
+      L3XI
     bio: >-
-      beauty + lifestyle los angeles 📍 @hallowtreenz @funkotreenz 🧡 💌: katrinamarrufo@yahoo.com new youtube video! ↓
+      DJ 🎧 PRODUC3R | 🎬 Exclusive Artists Agency |📍Los Angeles MY N3XT SHOW: Las Vegas🎟️⬇️
     location: "United States"
-    followers: 45570
-    engagement: 313
-    commentsToLikes: 0.036926
-    id: ck0tzkznqqpf80i19l2bmn6f6
+    followers: 121939
+    engagement: 514
+    commentsToLikes: 0.017633
+    id: ck8wenam3ebco0j788n3qyt1j
     verified: false
-    hashtags: "#hudabeauty, #colourpop, #colourpopfeatheredeffect, #colourpopme"
-  - username: "talagolzar"
+    hashtags: "#fashion, #dj, #music, #spafacial"
+  - username: "lauren_rote"
     fullname: >-
-      Dr. Tala Golzar
+      Lauren Rote Youash
     bio: >-
-      •Doctor of Pharmacy •Fashion / Beauty / Lifestyle •Los Angeles🌴 🇮🇷🇺🇸 Email:talagolzar.la@gmail.com @BangEnergy Elite Ambassador
+      Real content. No b.s. family, style, health, beauty 📍Los Angeles
     location: "United States"
-    followers: 2208429
-    engagement: 261
-    commentsToLikes: 0.023450
-    id: ck14kvsjwrk7f0i19zxja45sm
-    verified: true
-    hashtags: "#sugarbearhair, #bangenergy, #energydrink, #ad"
-  - username: "coucoujolieblog"
-    fullname: >-
-      Loreen Hwang
-    bio: >-
-      Travel•Beauty•Wellness Los Angeles 💌Hello@coucoujolie.com Sustainability Advocate | Chinese-American🇹🇼
-    location: "United States"
-    followers: 186470
-    engagement: 131
-    commentsToLikes: 0.037132
-    id: ck5c1fmt6v3ea0i11e2ha4egq
+    followers: 123262
+    engagement: 437
+    commentsToLikes: 0.021785
+    id: ck0uauip5d0nd0i19m226ti31
     verified: false
-    hashtags: "#fullmoon, #blackbusinessmonth, #lexusnx, #lexus"
+    hashtags: "#fallsimmerpot, #14, #longhair, #haircut"
 ---

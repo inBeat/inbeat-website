@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In United States In 2023
+title: Top 10 Home Decor TikTok Influencers In United States In 2024
 description: >-
-  Find top home decor TikTok influencers in United States in 2023. Most popular hashtags: #homedecor #fyp #kolors #tiktokartists.
+  Find top home decor TikTok influencers in United States in 2024. Most popular hashtags: #homedecor #fyp #keepingitcute #diy.
 platform: TikTok
-hits: 1070
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 1070 TikTok influencers like this in United States for you to work with.
+hits: 1073
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 1073 TikTok influencers like this in United States for you to contact.
 profiles:
   - username: "jessiethomasdesigns"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ckd0fri5ydugq0j23pak1935n
     verified: false
     hashtags: "#crafty, #yarn, #summerdiy, #learnontiktok"
+  - username: "katherinandreas"
+    fullname: >-
+      Katherin Andreas
+    bio: >-
+      DIY•Lifestyle•Home Decor 8K by August? 📍MD 🦀 Katherinandreashop@gmail.com
+    location: "United States"
+    followers: 8054
+    engagement: 293
+    commentsToLikes: 0.033588
+    id: ckbqgzag229rq0j232a37dnv3
+    verified: false
+    hashtags: "#minivlog, #crafts, #maryland, #dogmom"
   - username: "summerx._.cloudy"
     fullname: >-
       25k Loading.........
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.419208
     id: ckbqkkx6y5n990j23hw4tlvs5
     verified: false
-    hashtags: "#xyzbca, #fyp, #zoe, #healthyliving"
+    hashtags: "#curlscheck, #canthisgetonthefyp, #hiddentalents, #heartbreak"
   - username: "laminar.art"
     fullname: >-
       Laminar Art
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.078674
     id: ck81qyg6fky730j78kx9ipiqh
     verified: false
-    hashtags: "#dapper, #teacher, #bowtie, #recycle"
+    hashtags: "#cleaningstrike, #teacherlife, #teacherappreciationweek, #fyp"
   - username: "andycodispoti1"
     fullname: >-
       Andy Codispoti
@@ -115,16 +127,4 @@ profiles:
     id: ckbbdo83k2jci0j23yxod1kdk
     verified: false
     hashtags: "#keepingitcute, #fyp, #bnha, #allmight"
-  - username: "mr.hollywood77"
-    fullname: >-
-      RichiebeingRitchie
-    bio: >-
-      MrHollyWood 🕶🤩🎬📽🎆 #entertainer #comic #18andolder #lovableguy #jusmebeingme
-    location: "United States"
-    followers: 7298
-    engagement: 1138
-    commentsToLikes: 0.178961
-    id: ckae7c54ygh8w0i786ddtpbwc
-    verified: false
-    hashtags: "#curlscheck, #workoutplan, #findyoursexy, #notatiktokdancer"
 ---

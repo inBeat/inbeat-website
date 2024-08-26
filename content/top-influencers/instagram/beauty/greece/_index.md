@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Greece In 2023
+title: Top 10 Beauty Instagram Influencers In Greece In 2024
 description: >-
-  Find top beauty Instagram influencers in Greece in 2023. Most popular hashtags: #giveaway #greece #fashion #beauty.
+  Find top beauty Instagram influencers in Greece in 2024. Most popular hashtags: #makeup #beauty #giveaway #skincare.
 platform: Instagram
-hits: 380
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 380 Instagram influencers like this in Greece for you to pitch.
+hits: 443
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 443 Instagram influencers like this in Greece for you to contact.
 profiles:
+  - username: "marinelliofficial"
+    fullname: >-
+      Marina Polyzou - Marinelli
+    bio: >-
+      Beauty ∣ Fashion ∣ Lifestyle 💍Happy wife 👼🏼Mommy of a prince 📍Athens, Greece 📧marinellipolyzou@gmail.com ⬇️My Youtube channel
+    location: "Greece"
+    followers: 53199
+    engagement: 459
+    commentsToLikes: 0.158654
+    id: ck8t2dx7pz4ab0j78sz3g82tq
+    verified: false
+    hashtags: "#love, #styleblogger, #youtuber, #instacute"
   - username: "souzana"
     fullname: >-
-      souzana
+      Souzana Kengitsi
     bio: >-
       Beauty Lover 🫶🏼 Founder @heybeautygr •Awarded beauty influencer •Beauty Editor •Passionate Youtuber •Podcaster, The Beauty Talk
     location: "Greece"
-    followers: 135858
-    engagement: 444
-    commentsToLikes: 0.098353
+    followers: 136154
+    engagement: 436
+    commentsToLikes: 0.040206
     id: ck6tl00w85q8j0j71uxkrmodc
     verified: false
-    hashtags: "#herrerabeauty, #heybeautygr, #skincare, #xmas"
-  - username: "kalli_albn"
+    hashtags: "#jomalonelondon, #ootd, #ad, #heybeautygr"
+  - username: "mayridts"
     fullname: >-
-      🎀 KᗩᒪᒪI  ᗩᒪᗷᗩᑎI 🎀
+      May ✨🧚🏼‍♂️💕🌸
     bio: >-
-      🦄• Don’t be like the rest of them! Stay in your magic• 💌 Dm for Collabs 📌 Fashion•Beauty•Lifestyle 🌏 Welcome to my Blondeworld
+      🌺✨The only beauty standards you should follow are your own✨🌺 🐢💕The turtle way of life💕🐢 🌍 Planet Earth 🌎 💗✨BE KIND✨💗
     location: "Greece"
-    followers: 16566
-    engagement: 1211
-    commentsToLikes: 0.432470
-    id: ckap4zjlr9ijt0i78gbttbmz9
+    followers: 496274
+    engagement: 450
+    commentsToLikes: 0.003562
+    id: claetsveptioy0i23iwttniyt
     verified: false
-    hashtags: "#sea, #jewelry, #ootd, #eyeshadow"
-  - username: "eleniintokou"
+    hashtags: "#bloompartner, #whitefoxservingsummer, #newhouse, #moving"
+  - username: "katerina.peftitsi"
     fullname: >-
-      E L E N I   N T O K O U
+      Κατερίνα Πεφτίτση
     bio: >-
-      🤍Fashion | Beauty | Travel | Lifestyle 👗How to Style? Here’s the Answer! ✨Follow my Journey 👼🏻Mummy
+      Inside Beauty MUA ,SFX Plus size model Booking : booking@inthefab.com Part of @in.the.fab ⬅️ for collabs
     location: "Greece"
-    followers: 58573
-    engagement: 466
-    commentsToLikes: 0.345532
-    id: ck55p8vfza23m0i11qxi8jb4k
+    followers: 50157
+    engagement: 458
+    commentsToLikes: 0.012962
+    id: ck5q40s0zn8bo0i11s00o94xq
     verified: false
-    hashtags: "#parosisland, #paros, #parosgreece, #greekislands"
-  - username: "giogiota"
+    hashtags: "#insidebeauty, #formotion, #pride, #plussizemodel"
+  - username: "konstantinasoultati"
     fullname: >-
-      Gio Dreveli Giannou - PRO MUA💄
+      Konstantina ✈️
     bio: >-
-      ATH🇬🇷📍 Founder @giodrevelilashes @essaworld_gr 💄MAKEUP TRAINER @giodrevelimakeupacademy PR:📧gio@giodreveli.gr Appt:📧beauty@giodreveli.gr YT 𝓒𝓱𝓪𝓷𝓷𝓮𝓵:
+      Travel & Lifestyle Where’s next ? Bologna✨ Owner of @skinglow.eu & @beautyharmonyandspa
     location: "Greece"
-    followers: 144219
-    engagement: 1366
-    commentsToLikes: 0.257607
-    id: ck13a5wlnorq30i19387c1an3
+    followers: 332578
+    engagement: 534
+    commentsToLikes: 0.005381
+    id: ck6tvttpfo8lc0j71p91cvilr
     verified: false
-    hashtags: "#giogiota, #giodrevelilashes, #essaworld, #giodreveli"
+    hashtags: "#freedomdoesntwait, #fragrance, #makeup, #26"
+  - username: "pi_hbp"
+    fullname: >-
+      P   I   N   A   R
+    bio: >-
+      Mother of Three Masterpieces Fashion | Beauty | lifestyle Greece📍| DM for Collabs 📩
+    location: "Greece"
+    followers: 22922
+    engagement: 419
+    commentsToLikes: 0.379631
+    id: ck5q403u1n5eq0i112ipr5mor
+    verified: false
+    hashtags: "#son, #fashion, #alouette, #momlifebelike"
+  - username: "kiss_laurenne"
+    fullname: >-
+      Iliada Klangou
+    bio: >-
+      Beauty Director @instylegreece 🌟Exclusive Cinquième Sens partner in Greece 🪄Content Creator
+    location: "Greece"
+    followers: 17483
+    engagement: 533
+    commentsToLikes: 1.036267
+    id: ck8t3xgc94ue00j78e8q5spr8
+    verified: false
+    hashtags: "#caudalie, #caudaliegreece, #caudaliecru, #maisonfranciskurkdjian"
+  - username: "pantelis_toutountzis"
+    fullname: >-
+      Pantelis Toutountzis
+    bio: >-
+      Official beauty expert L’Oréal Paris Greece Represented by @beehive_artists Beauty Ambassador @iekakmiedu
+    location: "Greece"
+    followers: 57001
+    engagement: 736
+    commentsToLikes: 0.018623
+    id: ck6tip8zw15mu0j71t57e0mbx
+    verified: false
+    hashtags: "#mychildren, #komos, #southcrete, #crete"
   - username: "marasamartzi"
     fullname: >-
       MARA SAMARTZI
     bio: >-
-      BEAUTY & LIFESTYLE YOUTUBER Watch my latest video ▼
+      BEAUTY & LIFESTYLE YOUTUBER NEW VIDEO 👇🏻
     location: "Greece"
-    followers: 125386
-    engagement: 746
-    commentsToLikes: 0.273541
+    followers: 113769
+    engagement: 321
+    commentsToLikes: 0.059905
     id: ck8t0am4iretb0j78jlgv0qub
     verified: false
-    hashtags: "#myskinloveskorea, #climaxsafely, #narsissist, #neverfakeit"
-  - username: "marianna_painesi"
+    hashtags: "#marasamartzi, #summeringreece, #showergram, #nyxcosmeticsgreece"
+  - username: "sonia_th"
     fullname: >-
-      Marianna Painesi
+      SONIA MAKEUP TUTORIALS VLOGS
     bio: >-
-      Hellene 🇬🇷 3rd finalist of GNTM Beauty editor @dot_weekend I am with #teambatiste marianna.painesi1@gmail.com
+      Beauty - Fashion - Baby Stuff 📩: sonia_th@outlook.com ⬇ Watch My Last Video
     location: "Greece"
-    followers: 69248
-    engagement: 1015
-    commentsToLikes: 0.040383
-    id: ck5hkepw0ialc0i1124dpsg2g
+    followers: 12603
+    engagement: 920
+    commentsToLikes: 0.045363
+    id: ck6tn1f6t8y090j713kjdqu8b
     verified: false
-    hashtags: "#batistebabes, #dryshampoo, #teambatiste, #rethinkdryshampoo"
-  - username: "beautymylife_gr"
-    fullname: >-
-      Popi Stefani
-    bio: >-
-      Beauty Blogger
-    location: "Greece"
-    followers: 20836
-    engagement: 719
-    commentsToLikes: 0.312208
-    id: ck55ougup95pv0i11jfly00rf
-    verified: false
-    hashtags: "#instagood, #children, #new, #newproduct"
-  - username: "theclassysavage"
-    fullname: >-
-      Nicole Despotopoulou
-    bio: >-
-      ✨Everyday effortless style Shopping | Beauty | Lifestyle 📍Athens,Greece 💌Collab/Promo ➱ Dm
-    location: "Greece"
-    followers: 83948
-    engagement: 507
-    commentsToLikes: 0.583418
-    id: ck15pgd8oxqny0i19rpm2vnsw
-    verified: false
-    hashtags: "#googluck, #goodluck"
-  - username: "alexiamantzari"
-    fullname: >-
-      Alèxia  Màntzari ✨
-    bio: >-
-      Fashion • Beauty • Lifestyle A Corfiot ⚜️ who’s living in Athens For collabs DM
-    location: "Greece"
-    followers: 16142
-    engagement: 951
-    commentsToLikes: 0.105262
-    id: ckap7zx6dm8l40i785nlosvyu
-    verified: false
-    hashtags: "#greekgiveaway, #blessed, #espressoyourlife, #fashion"
-  - username: "patriciakorfa"
-    fullname: >-
-      Patricia Korfa
-    bio: >-
-      🔺Owner @patricia_store & @patricia_swim 🔺@grmystylerocks ✨ 🔺Co-Owner @dreamnails.skg & @beautypin.gr Not your basic brand ambassador•
-    location: "Greece"
-    followers: 26782
-    engagement: 398
-    commentsToLikes: 0.190117
-    id: ck5q3znrin2yc0i11veqq0ukq
-    verified: false
-    hashtags: "#tb, #summer, #giorgioarmani, #armanibeauty"
+    hashtags: "#soniath, #brows, #summer, #sephoragreece"
 ---

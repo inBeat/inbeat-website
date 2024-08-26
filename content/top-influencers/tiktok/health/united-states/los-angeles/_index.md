@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Los Angeles In 2023
+title: Top 10 Health TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top health TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #comedy #losangeles #health.
+  Find top health TikTok influencers in Los Angeles in 2024. Most popular hashtags: #fyp #health #comedy #losangeles.
 platform: TikTok
-hits: 51
+hits: 52
 text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 51 TikTok influencers like this in Los Angeles, United States for you to connect with.
+text_bottom: inBeat aggregates 52 TikTok influencers like this in Los Angeles, United States for you to work with.
 profiles:
   - username: "_mishazo"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck8hrxj8zaq0q0j78hi4qudcf
     verified: false
     hashtags: "#comedy, #boston, #newengland, #cnn"
+  - username: "brad.castleberry"
+    fullname: >-
+      Brad Castleberry 
+    bio: >-
+      No bio yet
+    location: "United States"
+    followers: 180300
+    engagement: 337
+    commentsToLikes: 0.024980
+    id: ck8ngel14w3l20j78xzagfaw1
+    verified: false
+    hashtags: "#vibes, #beast, #doitbold, #coldweather"
   - username: "dr.kojosarfo"
     fullname: >-
       Kojo Sarfo
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.019692
     id: ckc911ac0qtq20j230xkg6cj8
     verified: false
-    hashtags: "#comedy, #gay, #fyp, #god"
+    hashtags: "#gay, #comedy, #fyp, #tellme"
   - username: "sandraxcarolina"
     fullname: >-
       Sandra Carolina
@@ -115,16 +127,4 @@ profiles:
     id: ck8kexqyqbie40j783f6coxjb
     verified: true
     hashtags: "#snacks, #palmsprings, #grwm, #fyp"
-  - username: "jessicagolich"
-    fullname: >-
-      JessicaGolich 🏳️‍🌈
-    bio: >-
-      Welcome to Jessica’s 🌍🏳️‍🌈✌️ Love, Good Vibes, Vegan Life, Travel & Health
-    location: "United States"
-    followers: 118800
-    engagement: 553
-    commentsToLikes: 0.062348
-    id: ck8hk5rm6cjeo0j78s2q7szjd
-    verified: true
-    hashtags: "#fyp, #relatablecontent, #nature, #naturevibes"
 ---

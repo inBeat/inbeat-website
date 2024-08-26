@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Chicago In 2023
+title: Top 10 Fashion TikTok Influencers In Chicago In 2024
 description: >-
-  Find top fashion TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #fashion #chicago #ootd.
+  Find top fashion TikTok influencers in Chicago in 2024. Most popular hashtags: #fyp #fashion #chicago #foryoupage.
 platform: TikTok
 hits: 65
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our platform holds 65 TikTok influencers like this in Chicago, United States for you to work with.
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 65 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
   - username: "peachesboutique"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: cka5xfngedrzz0i78q7g9dmq8
     verified: false
     hashtags: "#cheer, #snowboarding, #skiing, #starbucks"
-  - username: "margothornberry"
-    fullname: >-
-      margothornberry
-    bio: >-
-      chicago all of these are 100% serious insta: @margothornberry
-    location: "United States"
-    followers: 12500
-    engagement: 1011
-    commentsToLikes: 0.050030
-    id: ckc7tb6snxr2y0j234ern6vaz
-    verified: false
-    hashtags: "#greenscreen, #chicago, #foryou, #fashion"
   - username: "groovynilo"
     fullname: >-
       GroovyNilo
@@ -54,7 +42,7 @@ profiles:
     commentsToLikes: 0.064301
     id: ckcehp5p9pl3b0j23jnrz5bgx
     verified: false
-    hashtags: "#lol, #comedy, #lmao, #funny"
+    hashtags: "#lol, #lmao, #stitch, #funny"
   - username: "for_eva89"
     fullname: >-
       For-Eva
@@ -67,6 +55,18 @@ profiles:
     id: ckdhsaiop2fz30j23f0pj804k
     verified: false
     hashtags: "#mentalhealth, #wives, #gay, #stemlesbian"
+  - username: "margothornberry"
+    fullname: >-
+      margothornberry
+    bio: >-
+      chicago all of these are 100% serious insta: @margothornberry
+    location: "United States"
+    followers: 13600
+    engagement: 869
+    commentsToLikes: 0.057657
+    id: ckc7tb6snxr2y0j234ern6vaz
+    verified: false
+    hashtags: "#chicago, #ootd, #dswcutloose, #fashion"
   - username: "laniekap"
     fullname: >-
       Lanie
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.093808
     id: cka0sjq6zls1d0i78cohlipwf
     verified: false
-    hashtags: "#trendyfashion, #weddingguestoutfit, #springfashion, #trendy"
+    hashtags: "#springfashion, #trendyfashion, #transition, #trendy"
   - username: "ketsybatschke"
     fullname: >-
       Betsy Katschke
@@ -103,28 +103,28 @@ profiles:
     id: ckd07a7b4aobs0j237g15st2t
     verified: false
     hashtags: "#swifttok, #fyp, #plussize, #theloop"
-  - username: "bethereinfive"
+  - username: "bunchtipzz"
     fullname: >-
-      bethereinfive
+      𝖳𝗂𝗉𝗓 ✰
     bio: >-
-      Pop culture commentator, entrepreneur, author & host of Be There in Five Podcast
+      •welcome• lifestyle | tips | vsco 🛍🐆🦩⚡️🥂
     location: "United States"
-    followers: 18400
-    engagement: 889
-    commentsToLikes: 0.018425
-    id: ckal65xji9gvn0i78u2z0ji6b
+    followers: 53100
+    engagement: 2061
+    commentsToLikes: 0.011675
+    id: ckdcl1odpn4xx0j2327dstz95
     verified: false
-    hashtags: "#dolls, #election2020, #millennial, #nostalgia"
-  - username: "notyailene"
+    hashtags: "#fyp, #foryoupage, #helps, #aesthetic"
+  - username: "iamjustpetty"
     fullname: >-
-      yailene
+      justin
     bio: >-
-      chicago! 24 she/they
+      Venmo : Justin-Petty-6 Cash App: justinpetty1
     location: "United States"
-    followers: 3326
-    engagement: 1237
-    commentsToLikes: 0.097311
-    id: ckdi6v2o18iy90j23f1e1t3ay
+    followers: 165000
+    engagement: 3223
+    commentsToLikes: 0.025792
+    id: ck9pn1l39ccj80j78cwwola9w
     verified: false
-    hashtags: "#fyp, #xyzbca, #catsoftiktok, #duet"
+    hashtags: "#fyp, #lgbt, #ifykyk, #blacklivesmatter"
 ---

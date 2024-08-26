@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Sydney In 2023
+title: Top 10 Fashion TikTok Influencers In Sydney In 2024
 description: >-
-  Find top fashion TikTok influencers in Sydney in 2023. Most popular hashtags: #sydney #australia #fyp #fashion.
+  Find top fashion TikTok influencers in Sydney in 2024. Most popular hashtags: #sydney #australia #fashion #fyp.
 platform: TikTok
 hits: 20
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 20 TikTok influencers like this in Sydney, Australia for you to collaborate.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 20 TikTok influencers like this in Sydney, Australia for you to collaborate.
 profiles:
   - username: "yasinatra_"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck83za9yxz3t00j787qw1nosj
     verified: false
     hashtags: "#anime, #warzone, #favoritemovies, #movie"
+  - username: "nawalsari"
+    fullname: >-
+      nawalsari
+    bio: >-
+      👼🏼
+    location: "Australia"
+    followers: 101100
+    engagement: 1797
+    commentsToLikes: 0.025828
+    id: ck8kno50ldyj40j78i2w9hyft
+    verified: false
+    hashtags: "#modestfashion, #freeuyghurmuslims, #uyghurmuslims, #pinterest"
   - username: "asaptuppy"
     fullname: >-
       Tups
@@ -91,18 +103,6 @@ profiles:
     id: ck9dwvm4mqr8n0j782b3cz8fl
     verified: false
     hashtags: "#fyp, #travelblogger, #sydneyblogger, #viral"
-  - username: "nawalsari"
-    fullname: >-
-      nawalsari
-    bio: >-
-      👼🏼
-    location: "Australia"
-    followers: 101100
-    engagement: 1797
-    commentsToLikes: 0.025828
-    id: ck8kno50ldyj40j78i2w9hyft
-    verified: false
-    hashtags: "#fashion, #freeuyghur, #freeuyghurmuslims, #uyghur"
   - username: "ryanpaturzo"
     fullname: >-
       Ryanpaturzo

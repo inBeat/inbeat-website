@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Russia In 2023
+title: Top 10 Lifestyle Instagram Influencers In Russia In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Russia in 2023. Most popular hashtags: #liketime #kbmood #uniqlodailylook.
+  Find top lifestyle Instagram influencers in Russia in 2024. Most popular hashtags: #mood #happy #summer.
 platform: Instagram
-hits: 608
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 608 Instagram influencers like this in Russia for you to contact.
+hits: 606
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 606 Instagram influencers like this in Russia for you to contact.
 profiles:
-  - username: "juliessty"
+  - username: "alina_voynova"
     fullname: >-
-      JULIE | visual assistant
+      Alina V. 🌟 Lifestyle • Travel • Wellness • Food • Aesthetics
     bio: >-
-      Создам для тебя визуал мечты 🗞 Больше в актуальном «visual» ⠀ @pr_juliessty minimalism & lifestyle
+      Life Is A Journey, Not A Destination © 🔝 PR | Events | Coaching 🎁 AV Lifestyle Box, Candels & Decor Owner 🐶 Proud Mom 💌 PR: @pr.alina_voynova
     location: "Russia"
-    followers: 32827
-    engagement: 770
-    commentsToLikes: 0.057372
-    id: ck6u4n3qx4nza0j71oasvlq31
+    followers: 629343
+    engagement: 551
+    commentsToLikes: 0.013928
+    id: ck5zn2ydmnone0i14tz0qg2dl
     verified: false
-    hashtags: "#like4likes, #liketime, #sfspost, #sfs"
-  - username: "anna_zavorotnyuk"
+    hashtags: "#me, #yummy, #mood, #insideout"
+  - username: "polinaband"
     fullname: >-
-      Anna Zavorotnyuk
+      Polina | 폴리나
     bio: >-
-      Солнечно, нежно и тепло, заходите погреться 🌞 Beauty, Fashion & Lifestyle 💫 Сотрудничество: @cooperation.zavorotnyuk 🏹🤍
+      freelance model and stylist in📍Seoul ㅤㅤ fashion & lifestyle influencer ㅤㅤㅤ모델 • 인플루언서 • 촬영 협찬광고 문의 collab — dm portfolio @polyalee
     location: "Russia"
-    followers: 200926
-    engagement: 379
-    commentsToLikes: 0.085120
-    id: ck138n5ozh1om0i19sf9w00tj
+    followers: 27092
+    engagement: 534
+    commentsToLikes: 0.030890
+    id: ck8sxhmc6hfgk0j78en8d4lnw
     verified: false
-    hashtags: "#reels, #wseonline, #wsefamily, #wserussia"
-  - username: "_alinakalinina_"
+    hashtags: "#noni, #porecare, #koreanskincareroutine, #ootd"
+  - username: "elya1p"
     fullname: >-
-      Алина Калинина
+      Elya Ivanova
     bio: >-
-      LIFESTYLE & TRAVEL & DRIVE Влюбляю в вышеперечисленное
+      actress ,model,stylist founder @21.elbrand Съёмки для брендов Сотрудничество Алина +7-904-272-34-17 dj | beauty | lifestyle | style elya1i@mail.ru
     location: "Russia"
-    followers: 71927
-    engagement: 424
-    commentsToLikes: 0.100917
-    id: ck55k9r1sytgn0i11lebc75gw
+    followers: 173729
+    engagement: 438
+    commentsToLikes: 0.020708
+    id: ck8sygjlykrj30j78rtfqh5ye
     verified: false
-    hashtags: "#wintermood, #liketimes, #liketimegame, #kbwomen"
-  - username: "allgau_olga"
+    hashtags: "#love, #mood, #model, #happy"
+  - username: "lyubalishnevskaya"
     fullname: >-
-      ГЕРМАНИЯ  БАВАРИЯ АЛЬПЫ
+      Любовь Лишневская
     bio: >-
-      LIFESTYLE Из Крыма в Баварию🥨 Прибухивающая Горная коза 🐐 с юмором о наболевшем Быстрые рецепты в сторис🔝
+      Lifestyle Blogger / Tattoo master Cooperation Denis +7 (985) 305-44-14 Мой личный курс обучения тату👇🏼@lyubodorogo_tattoo Moscow 🦂
     location: "Russia"
-    followers: 8050
-    engagement: 939
-    commentsToLikes: 0.390061
-    id: ckaotulckxl990i78sc96678r
-    verified: false
-    hashtags: "#allgauolga, #olga"
-  - username: "seregaflex"
-    fullname: >-
-      𝐒𝐄𝐑𝐄𝐆𝐀 "𝐒𝐄𝐑𝐄𝐆𝐀𝐅𝐋𝐄𝐗" 𝐁𝐘𝐊𝐎𝐕
-    bio: >-
-      ▸ Streetwear / Style / Lifestyle ▸ Russia / Volgograd / 27 y.o / 190 / 10.5 US ▸ YouTube channel 123.000 subscribers
-    location: "Russia"
-    followers: 11156
-    engagement: 2814
-    commentsToLikes: 0.050466
-    id: ckaotxm2sxyfs0i78cdwrtms0
-    verified: false
-    hashtags: "#lookforrogov3"
-  - username: "irina__ivanina"
-    fullname: >-
-      Irina Ivanina
-    bio: >-
-      Fashion/beauty/lifestyle ▫️Повседневные образы Сотрудничество/пиар - DIRECT
-    location: "Russia"
-    followers: 10249
-    engagement: 767
-    commentsToLikes: 0.404965
-    id: ckaoyfylmhczz0i78l20cl364
+    followers: 342273
+    engagement: 538
+    commentsToLikes: 0.003877
+    id: ck5q3lh0tlb2j0i11y3niu3xf
     verified: false
     hashtags: ""
-  - username: "victoriaportfolio"
+  - username: "mari.vortex"
     fullname: >-
-      Victoria Portfolio
+      Marianna Beletskaya
     bio: >-
-      TikTok блогер № 1 в России (Авто) YouTube/Inst Luxury lifestyle blogger Реклама/сотрудничество : @by_victoriaportfolio Новое видео👇👇👇
+      Dubai Professional make-up artist♠️BOOKING DM Lifestyle, sport, beauty
     location: "Russia"
-    followers: 1716668
-    engagement: 157
-    commentsToLikes: 0.011240
-    id: ck0w4a674xk2o0i19spqv59ax
+    followers: 24655
+    engagement: 3190
+    commentsToLikes: 0.030658
+    id: ckaorckx1mm8f0i78kh1qizqn
+    verified: false
+    hashtags: "#swimsuitmodel, #bluewatersdubai, #visitdubai, #beautybloger"
+  - username: "katyayoungg"
+    fullname: >-
+      Katya Khudyk | Model | Influencer | Bali
+    bio: >-
+      📍Bali now⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ Lifestyle and aesthetics blog
+    location: "Russia"
+    followers: 33456
+    engagement: 422
+    commentsToLikes: 0.009288
+    id: ck9we7gesiz0g0j78kkgje2q0
     verified: false
     hashtags: ""
-  - username: "angelina"
+  - username: "kiselevaanya"
     fullname: >-
-      A N G E L I N A
+      Anna Kiseleva
     bio: >-
-      Lifestyle&Travel Girl 📽TikTok angelina 447k 🌍39 countries Now: Istanbul🇹🇷 📩lina.shashki@gmail.com
+      Culinary artist. ⠀ Lifestyle, food and balance. ⠀ California 📍 ⠀ Автор книги «Свободные отношения с едой и не только» ⠀ Мои сборники рецептов ↓
     location: "Russia"
-    followers: 243198
-    engagement: 690
-    commentsToLikes: 0.062894
-    id: ck0tzla5qqqt80i19zeq0uhru
-    verified: false
-    hashtags: "#larocheposayrussia, #alltimeru"
-  - username: "alferova.ph"
-    fullname: >-
-      ФОТОГРАФ НОВОСИБИРСК
-    bio: >-
-      KATYA ALFEROVA 🎞LIFESTYLE PHOTOGRAPHY ♡Моя фотостудия @location.photostudio ♡Сохраняю на снимках ваши теплые моменты ♡Готовые фото через 3-7 дней
-    location: "Russia"
-    followers: 8793
-    engagement: 814
-    commentsToLikes: 0.114554
-    id: ck6tr313rwn6g0j71rvof98ss
+    followers: 78909
+    engagement: 533
+    commentsToLikes: 0.008178
+    id: ck6ubbhnh8m8z0j713jk9bqie
     verified: false
     hashtags: ""
-  - username: "maria_ponomaryova"
+  - username: "mariaivashkevich"
     fullname: >-
-      Мария Пономарева
+      Maria Ivashkevich
     bio: >-
-      Travel | Lifestyle ⚡️Разрешила себе жить так, как хочу, и разрешу тебе тоже 📝 Пишу так, что ты не сможешь оторваться ✉️ PonomaryovaAdv@gmail.com
+      MA: @tmg.management Lifestyle of an international model 🇷🇺🇨🇳🇹🇼🇯🇵🇲🇾 any questions - ᴅɪʀᴇᴄᴛ❣️ 📍currently in China
     location: "Russia"
-    followers: 711383
-    engagement: 291
-    commentsToLikes: 0.029337
-    id: ck0ty3lbilh9a0i1925ll5je8
+    followers: 106447
+    engagement: 1564
+    commentsToLikes: 0.009710
+    id: ck55o28mf7hg20i11kkifwngw
     verified: false
-    hashtags: "#lifewear, #mp, #uniqlodailylook, #uniqlogiftswithheart"
+    hashtags: ""
+  - username: "overkovskaya"
+    fullname: >-
+      Kate Overkovskaya
+    bio: >-
+      lifestyle & daily life aesthetic ✉️ e.overkovskaya@yandex.ru Moscow, Russia
+    location: "Russia"
+    followers: 40662
+    engagement: 350
+    commentsToLikes: 0.010665
+    id: ck8tan97esdum0j78qf05vlw3
+    verified: false
+    hashtags: "#mykerastaseblond, #caudalierussia, #kerastase, #kerastaserussia"
+  - username: "katerina_lattishe"
+    fullname: >-
+      KATERINA LATTISHÉ
+    bio: >-
+      founder: @lattishe_brand Модные луки и рекомендации от стилиста ▫️ aesthetics & lifestyle ▫️50 оттенков БЕЖЕВОГО ⠀ AD: @lattishe_pr
+    location: "Russia"
+    followers: 249057
+    engagement: 338
+    commentsToLikes: 0.002717
+    id: ck8td8eut2bl00j78hs0dryot
+    verified: false
+    hashtags: ""
 ---

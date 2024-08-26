@@ -1,130 +1,130 @@
 ---
-title: Top 10 Comedians Instagram Influencers In India In 2023
+title: Top 10 Comedians Instagram Influencers In India In 2024
 description: >-
-  Find top comedians Instagram influencers in India in 2023. Most popular hashtags: #funnyvideos #comedy #funnymemes.
+  Find top comedians Instagram influencers in India in 2024. Most popular hashtags: #comedy #funny #standupcomedy #standup.
 platform: Instagram
-hits: 89
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 89 Instagram influencers like this in India for you to collaborate.
+hits: 113
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 113 Instagram influencers like this in India for you to work with.
 profiles:
+  - username: "nastyblaq"
+    fullname: >-
+      Abisi Emmanuel ⭐️
+    bio: >-
+      LAUGH! LIVE LIFE Comedian | Actor
+    location: "India"
+    followers: 3644192
+    engagement: 433
+    commentsToLikes: 0.026454
+    id: ck5horwk6q49c0i11gu2dxwew
+    verified: false
+    hashtags: "#octafx12, #followyourstartrack, #octafx"
+  - username: "bharti.laughterqueen"
+    fullname: >-
+      Bharti Singh
+    bio: >-
+      Comedian at heart, mind & job! Twitter - @bharti_lalli Facebook - www.facebook.com/bhartisinghofficial Business queries-connect@quicktv.network
+    location: "India"
+    followers: 8666288
+    engagement: 511
+    commentsToLikes: 0.004721
+    id: ck0tws78jgmtk0i196lw3w49e
+    verified: true
+    hashtags: "#ad, #love, #bhartisingh, #paidpartnership"
+  - username: "camboy_croc"
+    fullname: >-
+      Rushabh Sachin More
+    bio: >-
+      Jay Bhim 🧡 Jay Shivray 🤍💙 Jay Bharat 💚 CREATOR | COMEDIAN | ENTERTAINER 😃 For business - camboycroc0007@gmail.com
+    location: "India"
+    followers: 594274
+    engagement: 1647
+    commentsToLikes: 0.005818
+    id: ck8wew6qdep9y0j786mzemhzw
+    verified: false
+    hashtags: "#entertainer, #contentcreator, #actor, #comedian"
+  - username: "sumukhisuresh"
+    fullname: >-
+      Sumukhi Suresh
+    bio: >-
+      Comedian | Actor |@motormouthwriter | Slow runner | Wanna pay me? contact yell@sumukhisuresh.com | More shows of Hoemonal coming soon!
+    location: "India"
+    followers: 260878
+    engagement: 911
+    commentsToLikes: 0.010841
+    id: ck5pwb3qylzf80i11o9ipyehg
+    verified: true
+    hashtags: "#standup, #hoemonal, #sumukhisuresh, #london"
   - username: "inaginasethi"
     fullname: >-
-      Nagina Sethi
+      Nagina Sethi 💎
     bio: >-
-      Comedian 📧 Mail For Sponsors/Collabs Private account- @varunsethi7 New Video 👇🏻
+      Halka sa comedian 🫠 ( Aathu ) ! Private - @varunsethi7
     location: "India"
-    followers: 306121
-    engagement: 1397
-    commentsToLikes: 0.017457
+    followers: 357251
+    engagement: 2212
+    commentsToLikes: 0.015863
     id: ck8weqbcjeg8i0j78jitfvqp2
     verified: false
-    hashtags: "#tikiindia, #copied"
-  - username: "mayadanzig"
+    hashtags: "#tikiindia, #copied, #naginasethivines"
+  - username: "karuneshtalwar"
     fullname: >-
-      Maya Danzig
+      Karunesh Talwar
     bio: >-
-      nyc & chicago actor/comedian TV/Film Rep: UCAA & @desantitalents
+      Stand up comedian Bookings - erushka@lvccomedy.com Live show tickets -
     location: "India"
-    followers: 4332
-    engagement: 1435
-    commentsToLikes: 0.033372
-    id: ckap1jyz1uusu0i78zva4no4x
+    followers: 215681
+    engagement: 1272
+    commentsToLikes: 0.006632
+    id: ck13bavblujp30i19ctod7yhy
     verified: false
-    hashtags: "#teamjaney, #crownher"
-  - username: "adarshanand111"
+    hashtags: "#bollywood, #indianstandupcomedy, #standupcomedy, #hindicomedy"
+  - username: "sahilbulla"
     fullname: >-
-      Your Adarsh Anand
+      Sahil Shah
     bio: >-
-      📩 Adarsh@brandzup.media • Creative Boy • Comedian (FunnyBoy) • Impressionist 🤘 • Anchor • Multi Workaholic कुछ भी करवा लो 😀
+      Comedian, Punmaster and Reel-y funny guy. Inquires: sahil8191@gmail.com
     location: "India"
-    followers: 744707
-    engagement: 560
-    commentsToLikes: 0.013952
-    id: ck8wf1z8bezpa0j78ps6u7fw9
-    verified: false
-    hashtags: "#reelkarofeelkaro, #adarshacting, #adarsh, #adarshno1"
-  - username: "majidshahriarii"
-    fullname: >-
-      MAJID SHAHRIARI NIA
-    bio: >-
-      Official Instagram account of Majid Shahriari Iranian Actor TV/Theater/Cinema Comedian Actor #مجید_شهریاری
-    location: "India"
-    followers: 15479
-    engagement: 921
-    commentsToLikes: 0.047124
-    id: ck6ug1gdx0e230j71b5yq4n1q
-    verified: false
-    hashtags: ""
-  - username: "dread_shoodly_"
-    fullname: >-
-      Dread Shoodly
-    bio: >-
-      Musicians,blogger,actor,comedian SUBSCRIBE to the YouTube!
-    location: "India"
-    followers: 100850
-    engagement: 166
-    commentsToLikes: 0.081342
-    id: ck6ub3ec978d30j71dsco3ojz
-    verified: false
-    hashtags: ""
-  - username: "izabellamiko"
-    fullname: >-
-      Izabella Miko|Fun+Inspiration
-    bio: >-
-      HAPPINESS IS AN INSIDE JOB Coyote Ugly/Hunters/Deadwood Actress💋Comedian👯‍♀️Professional Optimist #mindfulness #funnymemes #dance#thehappynow
-    location: "India"
-    followers: 125699
-    engagement: 608
-    commentsToLikes: 0.022687
-    id: ck0vuwg9amh5i0i19eziqvyjf
+    followers: 277124
+    engagement: 433
+    commentsToLikes: 0.007880
+    id: ck5pwgpjmmprb0i11t3bf68mq
     verified: true
-    hashtags: "#selfawareness, #realtalk, #instafunny, #funnyvids"
-  - username: "ayye_pap"
+    hashtags: "#comedy, #funny, #jokes, #standup"
+  - username: "husena_khan_786"
     fullname: >-
-      Cool Slim
+      Husena Jaam
     bio: >-
-      Laugh now, laugh later | Standup Comedian🎤 Actor🎥 Writer📝 Director🎬 Management: @netourworth #AniyahMovie streaming on @amazonprimevideo 📽 MD to LA 📍
+      Comedian ❤️ Chota packet, Bada Dhamake hu🔥😂 📍: Gandhidham (Kutch, Gujarat) Dm / Email For Brand Promo's nd collab's✉️
     location: "India"
-    followers: 116841
-    engagement: 347
-    commentsToLikes: 0.063204
-    id: ck8sxkfdchpzc0j78syiu5vgi
+    followers: 447671
+    engagement: 506
+    commentsToLikes: 0.009244
+    id: ckvbtb4gg6d9l0j23plwjx7ax
     verified: false
-    hashtags: "#comedy, #jokes, #funnyvideos, #paptingafool"
-  - username: "boom2funny"
+    hashtags: "#hususquad, #funny, #rjkevar, #husenakhan"
+  - username: "suntharv"
     fullname: >-
-      Boom2funny
+      sunthar vykunthanathan
     bio: >-
-      Actor~Comedian~Director~Producer. Turn On Notifications😂 ME AND MY TEAM HERE TO SHOCK THE WORLD - Boom2funny LAUGH GANG
+      தமிழ்-canadian comedian amongst other things. now touring #AvanaNee - India, Europe & UK tickets on my site! ↙️
     location: "India"
-    followers: 29889
-    engagement: 399
-    commentsToLikes: 0.040552
-    id: ck5zvycsq55630i14c34a1wku
+    followers: 68385
+    engagement: 428
+    commentsToLikes: 0.028312
+    id: ck602lxg4hx4a0i148bkkcfvw
     verified: false
-    hashtags: "#unk, #zombiedrill, #tupac, #california"
-  - username: "officialsarahlouise"
+    hashtags: "#barberlife, #comedian, #toronto, #tamil"
+  - username: "theabishekkumar"
     fullname: >-
-      Sarah Louise (she/her)
+      Abishek Kumar
     bio: >-
-      87% leg | 10% rage | 3% lipstick 💋 Dancer | actor | comedian | model #lucyziegfield 🎩🐰✨ Sponsored @hottopic 33.2k on TikTok 😳 She/Her
+      Actor | Standup comedian | Writer Work enquires - swethasekar@oml.in USA, CANADA & INDIA tour tickets ⬇️
     location: "India"
-    followers: 6200
-    engagement: 418
-    commentsToLikes: 0.027187
-    id: ck6ufib4qx81i0j71mp262k6o
+    followers: 883799
+    engagement: 1124
+    commentsToLikes: 0.004866
+    id: cl6nb9wpskzpj0i236gc6s7j8
     verified: false
-    hashtags: "#oldfashionnotoldfashioned, #officialsarahlouise, #theoohtahdah, #boudoirphotography"
-  - username: "bobby_henline"
-    fullname: >-
-      Bobby Henline
-    bio: >-
-      Motivational Speaker Comedian - Actor, CoFounder Bravo748- Bobby Henline Foundation “Forging Forward” #whatsstrongwithyou #gotburns #welldonecomedian
-    location: "India"
-    followers: 66420
-    engagement: 169
-    commentsToLikes: 0.031281
-    id: ck0w1ljpmjy3k0i19d82042vi
-    verified: true
-    hashtags: "#gotburns, #welldonecomedian, #humor, #whatsstrongwithyou"
+    hashtags: "#canyoumakeit24, #crowdwork, #ad, #improv"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dog Owners TikTok Influencers In Canada In 2023
+title: Top 10 Dog Owners TikTok Influencers In Canada In 2024
 description: >-
-  Find top dog owners TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryou #foryoupage #dogsoftiktok.
+  Find top dog owners TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #foryou #foryoupage #dogsoftiktok.
 platform: TikTok
-hits: 8
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 8 TikTok influencers like this in Canada for you to pitch.
+hits: 9
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 9 TikTok influencers like this in Canada for you to work with.
 profiles:
   - username: "joy.of.avey"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       🇨🇦 | 18 | Mom of 2🐶🐶
     location: "Canada"
-    followers: 20300
-    engagement: 905
-    commentsToLikes: 0.041766
+    followers: 20100
+    engagement: 1100
+    commentsToLikes: 0.031218
     id: ck8z2vt1871mg0j78ilk08z7t
     verified: false
-    hashtags: "#dinoday, #fyp, #messymudi, #dogtraining"
+    hashtags: "#dogtrainer, #keepingitcute, #dogowner, #dogtraining"
   - username: "kalehartleyfishing"
     fullname: >-
       Kale Hartley
@@ -37,12 +37,12 @@ profiles:
     bio: >-
       Pizza Boy 🍕 Entrepreneur 🤓 Content Creator / Digital Marketer 📸
     location: "Canada"
-    followers: 8575
-    engagement: 237
-    commentsToLikes: 0.023106
+    followers: 8595
+    engagement: 251
+    commentsToLikes: 0.032035
     id: ckbfib358e19k0j23hs6h0sd5
     verified: false
-    hashtags: "#toronto, #cutebaby, #foryoupage, #fyp"
+    hashtags: "#toronto, #pizzaboy, #quarantinelife, #coronavirus"
   - username: "baylee_the_retriever"
     fullname: >-
       idc anymore
@@ -67,6 +67,18 @@ profiles:
     id: ckbas5fjkiqg80j23qralrytz
     verified: false
     hashtags: "#greenwitch, #practioner, #vvitchtok, #fyp"
+  - username: "burbofficial"
+    fullname: >-
+      North West
+    bio: >-
+      ✨i’ll drop you like the NASDAQ✨ 30 - 🇨🇦
+    location: "Canada"
+    followers: 13400
+    engagement: 879
+    commentsToLikes: 0.093695
+    id: ck9fxj35e6sks0j78gp4g1nzr
+    verified: false
+    hashtags: "#duet, #fyp, #foryou, #girl"
   - username: "lowkeylolovibes"
     fullname: >-
       Lovon Gray
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.076762
     id: ckdnvb0bhoezo0j23013a9i24
     verified: false
-    hashtags: "#foryoupage, #trend, #duet, #funny"
+    hashtags: "#duet, #fyp, #foryoupage, #trend"
   - username: "thenbgangg"
     fullname: >-
       Offical NB Gang💜

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers Instagram Influencers In Japan In 2023
+title: Top 10 Divers Instagram Influencers In Japan In 2024
 description: >-
-  Find top divers Instagram influencers in Japan in 2023. Most popular hashtags: #diver #diving #divermag #underwaterworld.
+  Find top divers Instagram influencers in Japan in 2024. Most popular hashtags: #diver #diving #scubadiving #naturephotography.
 platform: Instagram
 hits: 34
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 34 Instagram influencers like this in Japan for you to pitch.
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 34 Instagram influencers like this in Japan for you to collaborate.
 profiles:
   - username: "andrewmuhlach"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ck13apowzrjtb0i19s2qrx6ke
     verified: false
     hashtags: ""
-  - username: "tamao_17no1"
-    fullname: >-
-      珠央 Tamao
-    bio: >-
-      ＊フリーランス ＊171cm #tokyo ＊学習院大学経済学部卒【お仕事依頼は💌↓まで】 #瑞麗 日本専属モデル #mic21 2021年度アンバサダー #TGC 出演 #青山ウェディングクイーン グランプリ #宮古島 ノータッチサンゴマナー #SDGs 🤿#ダイビング#AOW ⛩#たまごしゅいん
-    location: "Japan"
-    followers: 22694
-    engagement: 1016
-    commentsToLikes: 0.032791
-    id: ck9woqwu8680p0j78sumk18am
-    verified: false
-    hashtags: "#diver, #ogasawalove, #ogasawara, #diving"
   - username: "caliber327"
     fullname: >-
       hiro
@@ -127,4 +115,16 @@ profiles:
     id: ck8t2qi0m0cst0j78v0zp2bjp
     verified: false
     hashtags: "#fossils, #tyrannosaurusrex, #extinct, #sauropod"
+  - username: "uwphotographyguide"
+    fullname: >-
+      Underwater Photography Guide
+    bio: >-
+      Tutorials, gear reviews, technique tips, photos, u/w photo news, international workshops
+    location: "Japan"
+    followers: 63386
+    engagement: 101
+    commentsToLikes: 0.006687
+    id: ck5cefeulkwv40i11bmfwmtzo
+    verified: false
+    hashtags: "#oceanart, #seaofcortez, #explore, #nikonz7ii"
 ---

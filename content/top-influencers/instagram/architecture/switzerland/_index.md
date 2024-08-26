@@ -1,24 +1,36 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Switzerland In 2023
+title: Top 10 Architecture Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top architecture Instagram influencers in Switzerland in 2023. Most popular hashtags: #design #architecture #switzerland #basel.
+  Find top architecture Instagram influencers in Switzerland in 2024. Most popular hashtags: #architecture #design #switzerland #art.
 platform: Instagram
-hits: 50
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 50 Instagram influencers like this in Switzerland for you to work with.
+hits: 59
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database has 59 Instagram influencers like this in Switzerland for you to collaborate.
 profiles:
+  - username: "herzogdemeuron"
+    fullname: >-
+      Herzog & de Meuron
+    bio: >-
+      Herzog & de Meuron is an international architecture practice, founded in Basel, Switzerland in 1978.
+    location: "Switzerland"
+    followers: 523959
+    engagement: 104
+    commentsToLikes: 0.003713
+    id: ck0vvagmgo9jv0i197q1q15jj
+    verified: false
+    hashtags: "#herzogdemeuron, #hdm, #agora, #royalacademy"
   - username: "___ariice___"
     fullname: >-
       Beatrice Cesari
     bio: >-
-      🇨🇭 berne, switzerland 🏛 swiss @museumspass ambassador 2021 📸 art, nature, street, architecture, sports
+      🇨🇭 Berne, Switzerland 🏛 Swiss @museumspass Ambassador 2021 📸 Art, Architecture, Nature, Sports, Street #ariice #BeatriceCesari me and my life
     location: "Switzerland"
-    followers: 2953
-    engagement: 2166
-    commentsToLikes: 0.166705
+    followers: 3126
+    engagement: 1621
+    commentsToLikes: 0.110009
     id: ck134d0z5vupd0i19qjontvad
     verified: false
-    hashtags: "#switzerlandcolors, #bern, #swissblogger, #myswitzerland"
+    hashtags: "#ariice, #bernliebe, #myoberaargau, #schweizerblog"
   - username: "nusretmurtezi"
     fullname: >-
       𝐍𝐮𝐬𝐫𝐞𝐭 𝐌𝐮𝐫𝐭𝐞𝐳𝐢
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.103048
     id: ck5hisy4lf7yo0i11vwd3drwg
     verified: false
-    hashtags: "#beautyproducts, #bnw, #minimalmood, #aestheticfeed"
+    hashtags: "#bnw, #beautyproducts, #minimalmood, #aestheticfeed"
   - username: "swiss.rudi"
     fullname: >-
       Ruedi Schneiter
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.011044
     id: ck5ck2x3iw0rb0i115xbneybh
     verified: false
-    hashtags: "#swissarchitecture, #christandgantenbein, #visualization, #completion"
-  - username: "herzogdemeuron"
-    fullname: >-
-      Herzog & de Meuron
-    bio: >-
-      Herzog & de Meuron is an international architecture firm, founded in Basel, Switzerland in 1978.
-    location: "Switzerland"
-    followers: 465378
-    engagement: 100
-    commentsToLikes: 0.006086
-    id: ck0vvagmgo9jv0i197q1q15jj
-    verified: false
-    hashtags: "#hdm, #herzogdemeuron, #birkhauser, #comingsoon"
+    hashtags: "#workinprogress, #christ, #competition, #civic"
 ---

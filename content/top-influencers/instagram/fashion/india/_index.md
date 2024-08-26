@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In India In 2023
+title: Top 10 Fashion Instagram Influencers In India In 2024
 description: >-
-  Find top fashion Instagram influencers in India in 2023. Most popular hashtags: #fashionblogger #fashion #ad #explore.
+  Find top fashion Instagram influencers in India in 2024. Most popular hashtags: #fashion #ad #trending #fashionblogger.
 platform: Instagram
-hits: 4226
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 4226 Instagram influencers like this in India for you to contact.
+hits: 5574
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 5574 Instagram influencers like this in India for you to work with.
 profiles:
-  - username: "taukeer_editz"
+  - username: "seeratsaini"
     fullname: >-
-      𝐓 🔥 𝐔 𝐊 𝐄 𝐄 𝐑   𝐄 𝐃 𝐈 𝐓 𝐙 👑
+      Seerat Saini
     bio: >-
-      • Photography | Editor | Youtuber • Fashion 👔 | New Delhi📍 • Snapchat : taukeerroxx • MGMT @gaur_media
+      Punjabi-American hair growth | fashion | beauty We’re all the universe pretending to be individuals 🦋
     location: "India"
-    followers: 544505
-    engagement: 503
-    commentsToLikes: 0.017597
-    id: ck15r3put5zoz0i19o97av7e3
+    followers: 297003
+    engagement: 640
+    commentsToLikes: 0.007590
+    id: ck15qrhhc4asl0i19olt959xc
     verified: false
-    hashtags: "#menfashion, #photography, #editzarmy, #goldenhour"
+    hashtags: "#desigirls, #skit, #punjabimemes, #indianmemes"
+  - username: "sauravnagar_"
+    fullname: >-
+      Saurav Nagar
+    bio: >-
+      • Luxury, Fashion, Lifestyle and a lot more 💫 •Business Email- nagarsaurav31@gmail.com Co-founder- @zingyzest
+    location: "India"
+    followers: 79132
+    engagement: 1194
+    commentsToLikes: 0.012380
+    id: ck8swwmcmfhul0j78s288724b
+    verified: false
+    hashtags: "#delhiblogger, #instafashion, #instagood, #trending"
+  - username: "gauri.more666"
+    fullname: >-
+      Gauri More Kamthe✨
+    bio: >-
+      I refuse to sink🍂👁 Fashion•Travel•Beauty•Lifestyle 📍 Mumbai,INDIA
+    location: "India"
+    followers: 400324
+    engagement: 971
+    commentsToLikes: 0.007436
+    id: ck139i5rrlfbi0i198ucapx7z
+    verified: false
+    hashtags: "#explorepage, #reels, #reelsvideo, #beauty"
+  - username: "brgvstyle"
+    fullname: >-
+      BHARGAV KHENI
+    bio: >-
+      Hey ! you can style & travel with me ! Fashion | Lifestyle | Travel | Real Estate 23 🇮🇳 Thrift @bugs.trashhh
+    location: "India"
+    followers: 445867
+    engagement: 446
+    commentsToLikes: 0.011726
+    id: ck5zlpc9ll50m0i14ardv965q
+    verified: false
+    hashtags: "#ad, #thrifted, #urbangabru, #upgradeyourself"
+  - username: "__siaaah"
+    fullname: >-
+      Sia Aah
+    bio: >-
+      Fashion/ Lifestyle/ Beauty Fit talks besties. 📧 contact.siaaah@gmail.com 📍Dubai 🇦🇪 #shoeaholic #shopaholic
+    location: "India"
+    followers: 35304
+    engagement: 526
+    commentsToLikes: 0.032452
+    id: ck8t7xn5fibtp0j782pp1gj5j
+    verified: false
+    hashtags: "#whitedress, #hills, #fashionstyle, #attitude"
+  - username: "crazy_busy_mom"
+    fullname: >-
+      Richa Gautam
+    bio: >-
+      Parenting/ Lifestyle/Education/Fashion Mumbai DM or Email for collaboration
+    location: "India"
+    followers: 265526
+    engagement: 1170
+    commentsToLikes: 0.006432
+    id: ckaoqwkhhkqle0i78ff5307r9
+    verified: false
+    hashtags: "#fashioninfluencer, #lifestyleinfluencer, #mumbai, #fashion"
+  - username: "divya_saurabh_kedar"
+    fullname: >-
+      Divya Saurabh Kedar
+    bio: >-
+      👩🏻 Model/fashion blogger 📍 Ulhasnagar- Mumbai 🗨️Snapchat- gadaiwaldivya95 📧 divyaSkedar@gmail.com
+    location: "India"
+    followers: 97102
+    engagement: 719
+    commentsToLikes: 0.014871
+    id: ck5zvfzge45tx0i1435ig00d8
+    verified: false
+    hashtags: "#instafashion, #instalike, #blogger, #instablogger"
+  - username: "nivrity_das"
+    fullname: >-
+      Nivrity Das
+    bio: >-
+      Aesthetic Traveler | Content Creator ✨🦄 Luxury • Travel • Fashion • Beauty • Lifestyle 🌏 Business Enquiries : nivritydas@gmail.com 📧 📍Kolkata | Mumbai
+    location: "India"
+    followers: 1001261
+    engagement: 526
+    commentsToLikes: 0.008681
+    id: ck55kflz2z7330i11t7xhon3j
+    verified: true
+    hashtags: "#giza, #egypt, #paris, #ad"
+  - username: "the.vogue.vanity"
+    fullname: >-
+      Daizy & Ankit
+    bio: >-
+      • Fashion • Beauty • Travel • Lifestyle • LOVE 🗞️GQ Best Dressed’22 🏆Grazia X Myntra Couple Influencer’23 Believe you can & you are halfway there ✨
+    location: "India"
+    followers: 444741
+    engagement: 485
+    commentsToLikes: 0.003657
+    id: ck0udcqgtir990i19x89x2x9u
+    verified: false
+    hashtags: "#tataneu, #ad, #daizyandankit, #thevoguevanity"
   - username: "harshitmittal15"
     fullname: >-
       HARSHIT MITTAL
     bio: >-
       Men’s Fashion | Grooming | Lifestyle 📍 Chandigarh | Delhi ✉️ : harshitmittal152001@gmail.com
     location: "India"
-    followers: 100200
-    engagement: 555
-    commentsToLikes: 0.012492
+    followers: 121454
+    engagement: 418
+    commentsToLikes: 0.012494
     id: ck8t4jupg70nt0j78yxv91uzz
     verified: false
-    hashtags: "#ad, #menswear, #beautysale, #selfieready"
-  - username: "rohittt_09_"
-    fullname: >-
-      𝐑𝐨𝐡𝐢𝐭 𝐙𝐢𝐧𝐣𝐮𝐫𝐤𝐞 ~ 𝐫𝐞𝐚𝐜𝐭𝐢𝐨𝐧𝐛𝐨𝐢 💫
-    bio: >-
-      • Fashion • Lifestyle • Video Creator 📍Surat ➰ Mumbai #reactionboi • YouTube : Rohit Zinjurke ( 35 Lakh Subscribers)
-    location: "India"
-    followers: 24801559
-    engagement: 537
-    commentsToLikes: 0.009176
-    id: ck8tc6k3dygnd0j783tc47cg7
-    verified: false
-    hashtags: "#fifaworldcup, #tvf, #amazonminitv, #watchnow"
-  - username: "belinda.fashionista"
-    fullname: >-
-      Seoul travel fashion
-    bio: >-
-      Visual content creator 🧜‍♀️ Best fashion/beauty award winner @kachenmagazine Fashion stylist👠 Traveler🌏 Sharing fashion and travel tips
-    location: "India"
-    followers: 12994
-    engagement: 5050
-    commentsToLikes: 0.213421
-    id: ck5zxl8hh884e0i14gmlv01lm
-    verified: false
-    hashtags: "#koreanadventures, #bukchonhanokvillage, #seoulfashionweek, #blogger"
-  - username: "the_indian_messieurs"
-    fullname: >-
-      Shivam Gupta
-    bio: >-
-      💡 Fashion | Lifestyle | Travel 👔 NIFT | Content Creator & Designer 📩 DM/Mail To Collaborate 📍 Delhi NCR | Mumbai
-    location: "India"
-    followers: 283319
-    engagement: 432
-    commentsToLikes: 0.011731
-    id: ck6tmcgr07l2x0j71tc2tt54p
-    verified: false
-    hashtags: "#hairstylemen, #menshairstyle, #traditionalwear, #bloggerstyle"
-  - username: "estherduaofficial"
-    fullname: >-
-      ESTHER DUA
-    bio: >-
-      By grace † 🌸 Fashion, Beauty, Lifestyle 📍Ludhiana, Punjab 💌 Collaborations/ PR : business@estherdua.com
-    location: "India"
-    followers: 74576
-    engagement: 793
-    commentsToLikes: 0.022766
-    id: ck9haoqy0deqe0j78aoa2irix
-    verified: false
-    hashtags: "#reelsinstagram, #bosslady, #beautyblogger, #lifestyleinfluencer"
-  - username: "swati_chauhan_"
-    fullname: >-
-      Swati Chauhan
-    bio: >-
-      🎬Actor/Creator 💫 Humanity above all 🦢Lifestyle | Beauty | fashion 📍Chandigarh | Shimla 📩 mail for collaborations ▶️ YouTube👇🏻
-    location: "India"
-    followers: 319785
-    engagement: 628
-    commentsToLikes: 0.010478
-    id: ck600azjpd9gx0i141rpr709f
-    verified: false
-    hashtags: "#feelitreelit, #foryou, #explore, #feelkaroreelkaro"
-  - username: "juhipimple_"
-    fullname: >-
-      Dr. Juhi Pimple 🦄
-    bio: >-
-      Livin’ a little ✨ 🐾 Dentist Fashion•Lifestyle•Travel 📍Pune/Mumbai DM for paid shoots/collaboration 📧: juhiipimple@gmail.com
-    location: "India"
-    followers: 104209
-    engagement: 542
-    commentsToLikes: 0.017616
-    id: ck0vy0e781mao0i19thhy8ss7
-    verified: false
-    hashtags: "#latestest, #danielwellington, #greatest, #stylehashtags"
-  - username: "ariya_hegde"
-    fullname: >-
-      Ariya Hegde
-    bio: >-
-      Fashion/Lifestyle Influencer .. Email : ariyahegde@gmail.com Bangalore, India
-    location: "India"
-    followers: 652193
-    engagement: 445
-    commentsToLikes: 0.004775
-    id: ckapbuudf1czn0i78560tj09j
-    verified: false
-    hashtags: "#potrait, #bangaloreblogger, #mumbai, #fashion"
-  - username: "sankett25"
-    fullname: >-
-      SANKET MEHTA
-    bio: >-
-      FASHION•DANCE BOM•ASR “Fashion influencer of the year 2022”🏆 “Lokmat most stylish awards 2022”🏆 🐶 @travisky._ Content Creator @nofiltr.group
-    location: "India"
-    followers: 915041
-    engagement: 740
-    commentsToLikes: 0.019983
-    id: ck137ftgtbb7l0i19j8kxi8ji
-    verified: false
-    hashtags: "#impossibleisnothing, #fashion, #2023, #ad"
+    hashtags: "#indianmenswear, #fashion, #amazonfashionprimediscounts, #mensstyle"
 ---

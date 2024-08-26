@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Belgium In 2023
+title: Top 10 Instagram Influencers In Belgium In 2024
 description: >-
-  Find top Instagram influencers in Belgium in 2023. Most popular hashtags: #girlsgoneloavies #antwerp #loavies #photography.
+  Find top Instagram influencers in Belgium in 2024. Most popular hashtags: #fashionblogger #belgianblogger #photography #outfitoftheday.
 platform: Instagram
-hits: 593
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 593 Instagram influencers like this in Belgium for you to work with.
+hits: 749
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 749 Instagram influencers like this in Belgium for you to collaborate.
 profiles:
-  - username: "laura.oliveiragranja"
+  - username: "dylancalluy"
     fullname: >-
-      𝐿𝑎𝑢𝑟𝑎 𝑂𝑙𝑖𝑣𝑒𝑖𝑟𝑎 𝐺𝑟𝑎𝑛𝑗𝑎
+      Dylan Calluy
     bio: >-
-      Freelance Model ∣ Content Creator ♊️ Gemini @gofitwithlaura @qntsportnutrition 20 % off | CREWLAURA 𝗠𝗶𝘀𝘀 𝗦𝗽𝗼𝗿𝘁 2019 𝗦𝗵𝗼𝗽𝗽𝗶𝗻𝗴 𝗤𝘂𝗲𝗲𝗻𝘀 2018
+      • Content: Automotive - Commercial - Travel • Sony A7IV | @sonyalpha • Official @djiglobal creator • Inquiry through mail or DM
     location: "Belgium"
-    followers: 18602
-    engagement: 420
-    commentsToLikes: 0.054751
-    id: ck6txv5tn019a0j71dktpndhx
+    followers: 12587
+    engagement: 499
+    commentsToLikes: 0.137909
+    id: ck6tpcccij1ql0j71fpjh4vrp
     verified: false
-    hashtags: "#pinkoofficial, #styleblogger, #outfitinspiration, #ysl"
-  - username: "re.becc.a"
+    hashtags: "#oppofindx2pro, #beautifuldestinations, #sonyalpha, #dji"
+  - username: "evi_en_de_spruitjes_"
     fullname: >-
-      REBECCA DE WEERDT  🤍
+      Evi_en_de_spruitjes_
     bio: >-
-      Belgium | Fashion & lifestyle Bookings & social media inquiries - mail me ✉️ rebeccadw@skynet.be BE 0787.592.191
+      💑 Mama van 4 🇧🇪 Herselt BE 💙Zorgmama ( autisme, eetstoornis, epilepsie) 💛Onzichtbaar chronisch ziek 📷Fotografie Check the blog 👇🏻
     location: "Belgium"
-    followers: 11026
-    engagement: 1129
-    commentsToLikes: 0.392103
-    id: ck9haydsnekwm0j783ghxdhlu
+    followers: 10331
+    engagement: 412
+    commentsToLikes: 0.481679
+    id: ck15ux7nqoxr90i19qitlzown
     verified: false
-    hashtags: "#discoverunder10k, #ootdfashion, #instaootd, #summeraesthetic"
-  - username: "kayamaes"
+    hashtags: "#thedearestviewfinder, #thehappynow, #clickinmoms, #howiclick"
+  - username: "jakobing"
     fullname: >-
-      Kaya
+      Jakob A. Ingebrigtsen
     bio: >-
-      Come with me on my happy moments 🎞 ✉️ Kayamaesss@hotmail.com Fashion, beauty & travel | Not your typical ultra skinny freelance model BE 0788.246.447
+      🇳🇴 middle distance runner ✯ Olympic Champion 1500m 🥇🇯🇵 ✭ @nike athlete 👟 ✮ @corosglobal ⏱️ ✮ @vitaminwellnorge🥤 ❥ @elisabethassers 💍 & Filippa 👶🏻
     location: "Belgium"
-    followers: 19196
-    engagement: 311
-    commentsToLikes: 0.146594
-    id: ck9wflb14pczt0j78u9wwvcjc
-    verified: false
-    hashtags: "#advertising, #loavies, #girlsgoneloavies, #sochickenspiesjes"
-  - username: "lunavissers"
-    fullname: >-
-      Luna Vissers
-    bio: >-
-      Belgian harpist living in Switzerland 💃🏻 Tea lover in my freetime🍵 Secondhand fashion🍃
-    location: "Belgium"
-    followers: 2946
-    engagement: 1605
-    commentsToLikes: 0.242260
-    id: ckf5ojnzb2ixq0j23ut9e0jwk
-    verified: false
-    hashtags: "#idealofsweden, #classicalmusician, #gifted, #harp"
-  - username: "maartenvda"
-    fullname: >-
-      Maarten Van der Auwera
-    bio: >-
-      📍Antwerp, Belgium 🏔Belgian (travel) photographer 📸 Photographing my way through life ✏️Collab/shoot: DM or Mail 📚UAntwerp Master of Physiotherapy
-    location: "Belgium"
-    followers: 9412
+    followers: 583503
     engagement: 1235
-    commentsToLikes: 0.150845
-    id: ck55ll4yg1tsz0i113p90q0ik
-    verified: false
-    hashtags: "#sonyphotography, #sunsetlover, #travelblogging, #dronephotography"
-  - username: "lunalissens"
+    commentsToLikes: 0.009964
+    id: ck0ucipczgzoa0i19vj150yeo
+    verified: true
+    hashtags: "#vitaminwell, #roma2024, #athletics, #teamingebrigtsen"
+  - username: "henripfr"
     fullname: >-
-      Luna Lissens
+      𝐇𝐞𝐧𝐫𝐢 𝐏𝐅𝐑
     bio: >-
-      🌾 Freelance model & Content Creator ✉️ Luna.lissens@hotmail.com 🌻 Twenty one | Belgium 🍋 Food & nutrition
+      Management: info@henripfr.com Bookings: info@oneworldartists.agency 🖤⬇️Last Night VIP Mix⬇️🖤
     location: "Belgium"
-    followers: 12189
-    engagement: 370
-    commentsToLikes: 0.142057
-    id: ck8tct1ke0kcw0j788ddfr7w0
-    verified: false
-    hashtags: "#loavies, #girlsgoneloavies, #offlineshoppen, #waaslandshopping"
-  - username: "gianni_salace_"
+    followers: 218556
+    engagement: 548
+    commentsToLikes: 0.027604
+    id: ck14hm2ntb05d0i19m1gu9r4u
+    verified: true
+    hashtags: "#gentlemansociety"
+  - username: "hi.itsjolienn"
     fullname: >-
-      Model Streetwear By Salace G
+      Jolien ✨
     bio: >-
-      📍Belgium,Brussels 🇧🇪 🦍 Streetfashion / Sneakerhead 📩 : salaciusss@hotmail.com
+      hiiiii!! 🫶🏼 📹 YouTuber 💓 23 | student Health Promotion @ugent 📍Kortrijk, Belgium 🎥 Nieuwste video:
     location: "Belgium"
-    followers: 6620
-    engagement: 959
-    commentsToLikes: 0.323021
-    id: ck138kxougqmy0i19cqt0syx0
+    followers: 10131
+    engagement: 412
+    commentsToLikes: 0.072337
+    id: ck5hhlx278wrn0i11oms8mi5w
     verified: false
-    hashtags: ""
-  - username: "justintouvor"
+    hashtags: "#colorfuloutfit, #ootdwomen, #colourfuloutfit, #ootdmagazinenl"
+  - username: "shanaco_"
     fullname: >-
-      Gagno_ TOUVOR
+      Shana
     bio: >-
-      🇹🇬 🇧🇯 🇧🇪 ⏳Fashion: my daily outfits, contact , DM or Email : touvorjustin87@gmail.com @boohoomanofficial
+      ⏳ twenty-nine 📍 living in #belgium 🖤 Just a blessed mess
     location: "Belgium"
-    followers: 54915
-    engagement: 539
-    commentsToLikes: 0.040082
-    id: ck5c08g0csn1w0i116ktt1lhg
+    followers: 28372
+    engagement: 765
+    commentsToLikes: 0.031816
+    id: ckf5o34i70pde0j2361wdb99c
     verified: false
-    hashtags: "#summertrends, #reelsfashion, #ootd, #menstyle"
-  - username: "statiana.model"
+    hashtags: "#magentahair, #belgiumblogger, #stockings, #leatherlover"
+  - username: "leokellr"
     fullname: >-
-      Tatiana🎀
+      Leo Keller
     bio: >-
-      🇧🇪 Belgian Model 📸 Portrait / Beauty / Lingerie / Lifestyle 📩 statiana.model@gmail.com 🎓 Luxury beauty advisor 🎂 23 Years 📍 Brussels
+      🚀 I help aspiring creators get better at their craft 👇 Free resources for creators
     location: "Belgium"
-    followers: 46012
-    engagement: 682
-    commentsToLikes: 0.041315
-    id: ck8sxaggdgot90j78p5x5ww8u
+    followers: 167208
+    engagement: 423
+    commentsToLikes: 0.015138
+    id: clleouxr7tmcw0j0842ior8qq
     verified: false
-    hashtags: "#sun, #sexy, #peach, #tuesday"
-  - username: "mr.ianic"
+    hashtags: "#fujix100v, #fujifilm, #iphone15, #fujifilmx100v"
+  - username: "elizemol"
     fullname: >-
-      • I A N I C •
+      Elize Mol
     bio: >-
-      Based in 🇧🇪and🇨🇳 Sign up with the following link to get €30 off on Airbnb👌🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼
+      
     location: "Belgium"
-    followers: 13759
-    engagement: 955
-    commentsToLikes: 0.087351
-    id: ckf5sn7nnfvrq0j23sbxuhxvz
+    followers: 94088
+    engagement: 830
+    commentsToLikes: 0.070203
+    id: ck5zxzx4o8z5j0i14x49rl884
     verified: false
-    hashtags: "#folkscenery, #beautifuldestinations, #vacation, #instago"
+    hashtags: "#igers, #potd, #outfitinspiration, #belgium"
+  - username: "norajoyness"
+    fullname: >-
+      Nora  🤍
+    bio: >-
+      FASHION~BEAUTY~LIFESTYLE 💄Beauty consultant @guerlain 📍Bruxelles Belgium Retrouvez tous mes liens ⤵️
+    location: "Belgium"
+    followers: 9466
+    engagement: 834
+    commentsToLikes: 0.270947
+    id: ck9wdomcogjpi0j78zjbf0hnj
+    verified: false
+    hashtags: "#luxurybrand, #concoursfrance, #prozis, #concoursbeaute"
+  - username: "ferjani_safi"
+    fullname: >-
+      Ferjani Safi
+    bio: >-
+      BEST TUNISIAN SKILLER 🤝🇹🇳 📍 Belgium 🇧🇪 🛑Youtube : 2M+ 🎥 Tiktok: 1M+ 👻 Snap: ferjaniii (300k+) 📥DM/ MAIL for collab
+    location: "Belgium"
+    followers: 629605
+    engagement: 2573
+    commentsToLikes: 0.008335
+    id: ck15r443761t80i197h6okris
+    verified: false
+    hashtags: "#freestylefootball, #dubai, #brussels, #funnyvideos"
 ---

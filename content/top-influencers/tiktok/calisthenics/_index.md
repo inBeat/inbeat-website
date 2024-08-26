@@ -1,11 +1,11 @@
 ---
-title: Top 10 Calisthenics TikTok Influencers In 2023
+title: Top 10 Calisthenics TikTok Influencers In 2024
 description: >-
-  Find top calisthenics TikTok influencers in 2023. Most popular hashtags: #calisthenics #workout #fyp #fitness.
+  Find top calisthenics TikTok influencers in 2024. Most popular hashtags: #calisthenics #workout #fyp #handstand.
 platform: TikTok
-hits: 335
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 335 TikTok influencers like this for you to contact.
+hits: 334
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat holds 334 TikTok influencers like this for you to pitch.
 profiles:
   - username: "rustamali001"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.018884
     id: ck83wyu25n3vh0j788ul27rmc
     verified: false
-    hashtags: "#freestyle, #fyp, #thecoldestwaterbottle, #doritosduetroulette"
+    hashtags: "#virginislands, #foryou, #freestyle, #widenthescreen"
   - username: "volcovhardwork42"
     fullname: >-
       ❤️volcov.artem❤️

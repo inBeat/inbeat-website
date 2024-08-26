@@ -1,24 +1,12 @@
 ---
-title: Top 10 Food TikTok Influencers In Los Angeles In 2023
+title: Top 10 Food TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top food TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #food #losangeles #foodie.
+  Find top food TikTok influencers in Los Angeles in 2024. Most popular hashtags: #losangeles #food #fyp #foodie.
 platform: TikTok
-hits: 120
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 120 TikTok influencers like this in Los Angeles, United States for you to collaborate.
+hits: 124
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our database has 124 TikTok influencers like this in Los Angeles, United States for you to contact.
 profiles:
-  - username: "firstdateguide"
-    fullname: >-
-      Ashley Rodriguez
-    bio: >-
-      FOLLOW INSTA⤴️ 🍭 Hi I’m Ashley! Where should I go next?! Ashley@firstdatela.com
-    location: "United States"
-    followers: 1200000
-    engagement: 965
-    commentsToLikes: 0.011264
-    id: ck8faqgf14h2v0j788ei09zld
-    verified: true
-    hashtags: "#dateideas, #fancy, #hiddengem, #firstdateguide"
   - username: "travelbud"
     fullname: >-
       TravelBud
@@ -55,18 +43,18 @@ profiles:
     id: ckb0y7by8n4d30j233dmdk070
     verified: false
     hashtags: "#witchtok, #diy, #howto, #art"
-  - username: "evelynmendozaalonzo"
+  - username: "iamalliex"
     fullname: >-
-      Evelyn’s Positive Vibes
+      Allie X
     bio: >-
-      🔥POSITIVITY🔥 PO Box 920172 Sylmar, Ca 91392 CashApp:$xeve41 My Amazon Wish👇🏼
+      60 % legs 40 % forehead
     location: "United States"
-    followers: 212700
-    engagement: 1777
-    commentsToLikes: 0.028077
-    id: ckbfaknob23o40j23gxu61w1s
-    verified: false
-    hashtags: "#starbucksdrinks, #positivevibes, #fyp, #motivation"
+    followers: 11200
+    engagement: 1023
+    commentsToLikes: 0.029011
+    id: ckbb9kgqvymaa0j23ixqhw64l
+    verified: true
+    hashtags: "#athome, #alliex, #boredathome, #bapegod"
   - username: "tita.tabbie"
     fullname: >-
       🏳️‍🌈tabathuuuuug🏳️‍🌈
@@ -127,4 +115,16 @@ profiles:
     id: ckbex39yxh16k0j23hhe2fn7u
     verified: false
     hashtags: "#fyp, #sheingals, #shein, #familyrecipe"
+  - username: "sugardreamsdelights"
+    fullname: >-
+      Esbeidy 💗
+    bio: >-
+      Ig @sugardreamsdelights ✨ @esbeidyp_ 💗
+    location: "United States"
+    followers: 19900
+    engagement: 1090
+    commentsToLikes: 0.038622
+    id: ckcoswihy85lo0j23foiwiy0w
+    verified: false
+    hashtags: "#smallbusiness, #baby, #berries, #parati"
 ---

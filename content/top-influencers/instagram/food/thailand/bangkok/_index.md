@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food Instagram Influencers In Bangkok In 2023
+title: Top 10 Food Instagram Influencers In Bangkok In 2024
 description: >-
-  Find top food Instagram influencers in Bangkok in 2023. Most popular hashtags: #bangkok #food #thailand #yummy.
+  Find top food Instagram influencers in Bangkok in 2024. Most popular hashtags: #bangkok #food #yummy #thailand.
 platform: Instagram
 hits: 18
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 18 Instagram influencers like this in Bangkok, Thailand for you to work with.
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database holds 18 Instagram influencers like this in Bangkok, Thailand for you to work with.
 profiles:
   - username: "eatlike852"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ckap01rlwocc80i78ufbjb0ss
     verified: false
     hashtags: "#teamemmy, #absolutelyemmy, #intercontinentalhuahin, #sossiamsoi6"
-  - username: "snapbeforeeat"
-    fullname: >-
-      SNAP BEFORE EAT
-    bio: >-
-      just a food lover, based in Bangkok ✈️ 26-27 dec - wonderfruit/ 15-17 jan - huahin 📸 @pranggnaphun 📲 for work please dm or email #snapbeforeeat
-    location: "Thailand"
-    followers: 192925
-    engagement: 107
-    commentsToLikes: 0.005015
-    id: ck6u78e8nk2fd0j71l3sh5sn4
-    verified: false
-    hashtags: "#snapbeforeeatxhome, #snapbeforeeatxomakase, #fujifilm, #snapbeforeeatxbeef"
   - username: "bkmagazine"
     fullname: >-
       BK Magazine
@@ -67,6 +55,30 @@ profiles:
     id: ck0w1lob8jynv0i19n8hwzo56
     verified: false
     hashtags: "#aroii, #aroiibkk, #aroisnap, #seaurchin"
+  - username: "emily.eatingthyme"
+    fullname: >-
+      Emily T • Singapore
+    bio: >-
+      Food • Travel • Lifestyle TikTok: emily.eatingthyme 🐶: @rusty.thechowchow ✈️: Korea (June), Bangkok (July), HongKong (Oct)
+    location: "Thailand"
+    followers: 28358
+    engagement: 25
+    commentsToLikes: 0.311191
+    id: clmumxhgjlb840j08zngaume1
+    verified: false
+    hashtags: "#korea, #seoul, #ad, #gastonluga"
+  - username: "snapbeforeeat"
+    fullname: >-
+      snap by prang chenaphun ✨
+    bio: >-
+      food lover and passionated traveller | BKK, TH 🇹🇭 📸 @pranggnaphun #snapbeforeeat 🔜 khaoyai (jan)/ hk & seoul (march) 📲 for work please dm or email
+    location: "Thailand"
+    followers: 189635
+    engagement: 11
+    commentsToLikes: 0.003942
+    id: ck6u78e8nk2fd0j71l3sh5sn4
+    verified: false
+    hashtags: "#snapbeforeeatonvacay, #iphone14pro, #snapbeforeeatxsamui, #snapbeforeeatxphayathai"
   - username: "khemupsorn_meaii"
     fullname: >-
       ⓜⓔⓐⓘ.™🐰 เหมยเหมย
@@ -91,18 +103,6 @@ profiles:
     id: ck5pv3jv7fy9m0i11kkur80jc
     verified: false
     hashtags: "#bangkok, #getfit, #goodfood, #life"
-  - username: "nua__thailand"
-    fullname: >-
-      Nua_Thailand
-    bio: >-
-      🍽 : นัว 💌 : Contact for work please Direct message 👩🏻‍🍳 : ติดต่องาน DM ค่า 📍 : Bangkok , Thailand 🇹🇭 การทำอาหารไม่มีผิดถูก เพราะอาหารคืองานศิลป์ 🍃
-    location: "Thailand"
-    followers: 35120
-    engagement: 191
-    commentsToLikes: 0.006806
-    id: ckapcp1bp4mmn0i78zt6om6kh
-    verified: false
-    hashtags: "#foodgasm, #thailand, #food, #foodshare"
   - username: "ampere.healthy"
     fullname: >-
       🐷กินยังไงไม่ให้อ้วน🐷

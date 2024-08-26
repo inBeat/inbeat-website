@@ -1,24 +1,48 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Germany In 2023
+title: Top 10 Pole Dancers Instagram Influencers In Germany In 2024
 description: >-
-  Find top pole dancers Instagram influencers in Germany in 2023. Most popular hashtags: #poledance #poledancer #poledancersofinstagram.
+  Find top pole dancers Instagram influencers in Germany in 2024. Most popular hashtags: #poledance #poledancer #ootd #poledancing.
 platform: Instagram
-hits: 31
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 31 Instagram influencers like this in Germany for you to connect with.
+hits: 36
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 36 Instagram influencers like this in Germany for you to connect with.
 profiles:
-  - username: "pole_zerogravity_mia"
+  - username: "polenick"
     fullname: >-
-      POLE ARTIST - M I A  L A N G
+      P O L E N I C K
     bio: >-
-      🌎🥇 World Champion 2019 🥇🌎 PROFESSIONAL ARTIST & POLE DANCER 🇩🇪 🥇 NATIONALCHAMP 🥇🇩🇪 Contortion Account: @mia.contortionyoga Ambassador: @dragonflybrand
+      🏳️‍🌈Tutorials & Inspiration for all Poledance Levels 📩 Workshops - Judging - Polecamps 🌍
     location: "Germany"
-    followers: 44719
-    engagement: 172
-    commentsToLikes: 0.021960
-    id: ck55pss4gbas40i11rji1ja41
+    followers: 50650
+    engagement: 390
+    commentsToLikes: 0.031365
+    id: ck6tjrxfp3ayj0j71rjdu8lbj
     verified: false
-    hashtags: "#pdlongbow"
+    hashtags: "#polefitnessvideos, #poleman, #polemen, #poledancersofinstagram"
+  - username: "yatzinkosom"
+    fullname: >-
+      Yatzin Kosom
+    bio: >-
+      🌈🦄🌋🔥🎪🎠❣️ . Aerial Arts & Poledance 📍 Bremen, DE. . Website 👇
+    location: "Germany"
+    followers: 18148
+    engagement: 312
+    commentsToLikes: 0.046161
+    id: ck6u2l1ewsf8i0j712zggoupx
+    verified: false
+    hashtags: "#postpartumbody, #poledance, #selflove, #postpartum"
+  - username: "kimlianne"
+    fullname: >-
+      Kim Lianne
+    bio: >-
+      Liebes Tagebuch, heute… gym & pole | self care | food | travel | cats | music 💌: office@kimlianne.com Schmuck @_urbanpieces_ *Profil enth. Werbung ⤵️
+    location: "Germany"
+    followers: 428134
+    engagement: 226
+    commentsToLikes: 0.021468
+    id: ck15qmn0d3l7x0i197g67cggx
+    verified: true
+    hashtags: "#festivals, #cokestudio, #jewellery, #mentalhealth"
   - username: "axl_brand"
     fullname: >-
       Axel Brand
@@ -54,31 +78,43 @@ profiles:
     commentsToLikes: 0.035351
     id: ckaow4mjd7ell0i78vsqizyft
     verified: false
-    hashtags: "#polskadziewczyna, #poledancer, #blondynka, #me"
-  - username: "polenick"
+    hashtags: "#likeforlikes, #besttime, #instagram, #follow"
+  - username: "blinkydoodly"
     fullname: >-
-      Teacher & Trainer
+      
     bio: >-
-      📩workshops/ online class - Cologne - 🏳️‍🌈
+      Aerial art and circus Please tag me if you repost and don't trim my name out of the drawing! DM or email for commissions Based in Germany
     location: "Germany"
-    followers: 38710
-    engagement: 406
-    commentsToLikes: 0.034932
-    id: ck6tjrxfp3ayj0j71rjdu8lbj
+    followers: 22232
+    engagement: 465
+    commentsToLikes: 0.018913
+    id: ck0vvzxs7rhgu0i19khy2e85g
     verified: false
-    hashtags: "#polemen, #poletr, #poletraining, #poledancersofinstagram"
-  - username: "scorpionmind"
+    hashtags: "#aerialhammock, #art, #digitalart, #illustration"
+  - username: "ante_photography"
     fullname: >-
-      Tanja I MINDSET COACH
+      Ante | Fashion & Beauty
     bio: >-
-      ✨ for more joy in your life ☀️ release your blockages - elevate your life ⚡️plant powered 1:1 ONLINE COACHING Podcast ⤵️
+      📸 Fashion and beauty photographer *All photos are altered and retouched* ✉ Bookings via e-mail or DMs
     location: "Germany"
-    followers: 37591
-    engagement: 150
-    commentsToLikes: 0.044220
-    id: ck0ttg5yu2kmi0i19houjjcc4
+    followers: 9872
+    engagement: 155
+    commentsToLikes: 0.033145
+    id: ck9womnvd5rw30j78nl3ou51x
     verified: false
-    hashtags: "#selflovetips, #poleworkout, #bodypositive, #mentalcoach"
+    hashtags: "#retouchingpanels, #fashionphotography, #studiophotoshoot, #beautyretouch"
+  - username: "vanessalirsch"
+    fullname: >-
+      Vanessa Lirsch | fulltime Model
+    bio: >-
+      📍 Austria Fashion | Poledance | Travel | Berghaserl | Recipes 💌bookings DM or lirschofficial@gmail.com mein Modelportfolio ⬇️
+    location: "Germany"
+    followers: 25866
+    engagement: 78
+    commentsToLikes: 0.021019
+    id: clolz70q33hh20j087gq2gh2d
+    verified: false
+    hashtags: "#dessous, #trend, #skin, #commercialmodel"
   - username: "fannymuller_model"
     fullname: >-
       Fanny Müller
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.065345
     id: ck55jyeroy22i0i110juq12a0
     verified: false
-    hashtags: "#redballoons, #reddance, #cuffeddancer, #nudebride"
-  - username: "nadine_yvonne274"
-    fullname: >-
-      Nadine Yvonne
-    bio: >-
-      Let the sea set you free 🌊 🚒 🚑 👩🏼‍🚒 ❤ Pole dance ❤ Laufen ❤ 🏄🏼‍♀️⛵ 📍 Happy Place: Langeoog
-    location: "Germany"
-    followers: 5893
-    engagement: 1976
-    commentsToLikes: 0.024658
-    id: ckap3p6ix3y8t0i78etltv976
-    verified: false
-    hashtags: "#chiefmiller, #fitforfirefighting, #retterherz, #portrait"
-  - username: "yatzinkosom"
-    fullname: >-
-      Yatzin Kosom
-    bio: >-
-      If you’re looking for Pole & Aerial content, just scroll down a bit 👇 . Under the 🤰🏻 baby bump pics, You will find a lot of videos 🎥✨ . Website:
-    location: "Germany"
-    followers: 19562
-    engagement: 358
-    commentsToLikes: 0.054772
-    id: ck6u2l1ewsf8i0j712zggoupx
-    verified: false
-    hashtags: "#pregnancy, #33weekspregnant, #fulltermpregnancy, #yatzinkosom"
-  - username: "doppelpacktoni"
-    fullname: >-
-      Toni Polster
-    bio: >-
-      OFFIZIELLER ACCOUNT von Toni Polster Hier könnt ihr die neuen 44 Tore SHIRTS bestellen ⬇️
-    location: "Germany"
-    followers: 16269
-    engagement: 579
-    commentsToLikes: 0.072565
-    id: ck6tmkv0980xc0j71z5denw8f
-    verified: false
-    hashtags: "#palmsonntag, #challengeaccepted, #workoutchallenge, #tb"
+    hashtags: "#boudoirbride, #behindthescenes, #boudoirballerina, #womaninthewindow"
 ---

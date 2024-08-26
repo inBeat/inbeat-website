@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs TikTok Influencers In 2023
+title: Top 10 Chefs TikTok Influencers In 2024
 description: >-
-  Find top chefs TikTok influencers in 2023. Most popular hashtags: #fyp #foryoupage #foryou #trending.
+  Find top chefs TikTok influencers in 2024. Most popular hashtags: #fyp #foryoupage #foryou #trending.
 platform: TikTok
-hits: 931
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 931 TikTok influencers like this for you to pitch.
+hits: 941
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our database has 941 TikTok influencers like this for you to contact.
 profiles:
   - username: "chefshabba"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.278322
     id: ckbb5pgu6vwkd0j2357x2tau4
     verified: false
-    hashtags: "#genx, #lifeisgood, #bucketlist, #beentheredonethat"
+    hashtags: "#lifeisgood, #beentheredonethat, #genx, #bucketlist"
   - username: "andipandi2410"
     fullname: >-
       Andi
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.129430
     id: ckacs8glt8ykj0i78ch3tavlk
     verified: false
-    hashtags: "#lol, #homemade, #foodtiktok, #fyp"
+    hashtags: "#foodtiktok, #lol, #homemade, #fyp"
   - username: "sugarpusher"
     fullname: >-
       Ally
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.071228
     id: ck9nnoc84q41o0j78ak1xlwum
     verified: false
-    hashtags: "#etouraptor, #pokemoncosplay, #humanpokemon, #chromacross"
+    hashtags: "#staraptor, #etouraptor, #ocmafia, #pokemoncosplay"
   - username: "abdulahad.ck"
     fullname: >-
       Abdul Ahad Ck
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.175883
     id: ckbkpywsek7br0j23k4ez4lr5
     verified: false
-    hashtags: "#1m, #cheflife, #kattasupport, #foryoupage"
+    hashtags: "#cheflife, #kattasupport, #ahadsworld, #foryou"
   - username: "rahul.arora.1982"
     fullname: >-
       Rahul Arora
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.184569
     id: ckdtg6772w7ma0j23jf3zh7nk
     verified: false
-    hashtags: "#danceforpeace, #trendy, #whatzyamoves, #fyp"
+    hashtags: "#trendy, #whatzyamoves, #trending, #kattholladay"
 ---

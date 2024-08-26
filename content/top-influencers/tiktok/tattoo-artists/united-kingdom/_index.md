@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In United Kingdom In 2023
+title: Top 10 Tattoo-Artists TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top tattoo-artists TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #tattooartist #tattoo #art.
+  Find top tattoo-artists TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #tattooartist #tattoo #foryoupage.
 platform: TikTok
 hits: 33
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 33 TikTok influencers like this in United Kingdom for you to collaborate.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 33 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
   - username: "brandon_draws"
     fullname: >-
@@ -23,14 +23,14 @@ profiles:
     fullname: >-
       Luce
     bio: >-
-      🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Tattoo Artist lucegrey.bigcartel.com
+      🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Tattoo Artist
     location: "United Kingdom"
-    followers: 413200
-    engagement: 1217
-    commentsToLikes: 0.030095
+    followers: 472100
+    engagement: 1003
+    commentsToLikes: 0.031913
     id: ckcjnrpshfkkn0j23tnnkcluw
     verified: false
-    hashtags: "#fyp, #drawing, #inked, #tattooartist"
+    hashtags: "#inked, #tattoo, #fyp, #artist"
   - username: "jjtattoo94x"
     fullname: >-
       Jenna-Jayne Jappy'
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.033064
     id: ckb9uq4mxtngx0j233xidgszt
     verified: false
-    hashtags: "#ptv, #alttiktok, #altpoc, #meme"
+    hashtags: "#paramore, #emooo, #alltimelow, #alttiktok"
   - username: "holly_inked"
     fullname: >-
       Holly Inked
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.025922
     id: ck8vybxpvtrco0j78thgzpupc
     verified: false
-    hashtags: "#lesbiansoftiktok, #liveforthechallenge, #supportsmallbusiness, #fyp"
+    hashtags: "#fyp, #supportsmallbusiness, #lgbtq, #bodymods"
   - username: "b66zl6bubby"
     fullname: >-
       Lil’ Demon 🩸

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In Canada In 2023
+title: Top 10 Christian TikTok Influencers In Canada In 2024
 description: >-
-  Find top christian TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #christian #duet #foryou.
+  Find top christian TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #christian #duet #foryoupage.
 platform: TikTok
 hits: 132
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 132 TikTok influencers like this in Canada for you to contact.
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat has 132 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "ready4anarchy"
     fullname: >-
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.046310
     id: ck9rl6qvswhma0j78ia50vd4a
     verified: false
-    hashtags: "#jesus, #church, #christian, #fyp"
+    hashtags: "#church, #jesus, #christian, #duet"
 ---

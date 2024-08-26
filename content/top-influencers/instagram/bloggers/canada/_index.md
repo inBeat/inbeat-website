@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Canada In 2023
+title: Top 10 Bloggers Instagram Influencers In Canada In 2024
 description: >-
-  Find top bloggers Instagram influencers in Canada in 2023. Most popular hashtags: #happy #ad #love #canada.
+  Find top bloggers Instagram influencers in Canada in 2024. Most popular hashtags: #toronto #canada #foodie #happyhour.
 platform: Instagram
-hits: 146
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 146 Instagram influencers like this in Canada for you to pitch.
+hits: 262
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 262 Instagram influencers like this in Canada for you to work with.
 profiles:
-  - username: "simplysuppa"
+  - username: "frugalandfrills_"
     fullname: >-
-      Julia Suppa
+      𝐀𝐒𝐈𝐀 | 𝗙𝗮𝗺𝗶𝗹𝘆 𝗟𝗶𝗳𝗲 + 𝗧𝗿𝗮𝘃𝗲𝗹
     bio: >-
-      📹 Storyteller | Content Creator @suppamedia 📹 Host | Blogger 💫Inspire, Work Hard, Be Kind, Give Back. Repeat. 📍#Vaughan #Toronto #Canada 🇨🇦
+      ⋒ 𝗔 𝗹𝗶𝘁𝘁𝗹𝗲 𝗯𝗶𝘁 𝗼𝗳 𝗲𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 ⋒ Frugal Mom of ✌️ Family Life + Travel 👀 CTV news 🏆 YVR Top 30 Mom Blogger 🏆 Best Motherhood Advisory Platform Links⬇️
     location: "Canada"
-    followers: 7593
-    engagement: 417
-    commentsToLikes: 0.101940
-    id: ck8tbwm6jxgan0j78y4he4wod
+    followers: 21027
+    engagement: 496
+    commentsToLikes: 0.279407
+    id: ck8t5m1ewahdl0j78bflufnv1
     verified: false
-    hashtags: "#ad, #simplysuppa, #homereno, #yyzmoms"
-  - username: "love.from.steph"
+    hashtags: "#momtruth, #momstyle, #positiveparenting, #wheremymamasat"
+  - username: "thecuriouscreature"
     fullname: >-
-      Steph | Travel & Photography
+      Solmaz K
     bio: >-
-      ↠ Travel Blogger in Vancouver, BC ⩕ Sharing travel inspo and tips for Canada & US 💌 info@lovefromsteph.com ↡ Travel, Road Trips & Hiking Guides
+      Award-winning travel & food blogger based in #Toronto. Mama. @destination_toronto ambassador. Iranian 🇨🇦 🎥 TikTok: TheCuriousCreature 44K
     location: "Canada"
-    followers: 10264
-    engagement: 415
-    commentsToLikes: 0.180454
-    id: cky7uz2b5kbee0j23q93nqs2e
+    followers: 63783
+    engagement: 410
+    commentsToLikes: 0.283001
+    id: ck0vzhujg96dm0i191vlcd7xc
     verified: false
-    hashtags: "#vancouvercanada, #vancouverviews, #thingstodoinvancouver, #beautifulbritishcolumbia"
-  - username: "yakeandmarie"
+    hashtags: "#explorecanada, #bonjourquebec, #torontofoodie, #ad"
+  - username: "alexandtribe"
     fullname: >-
-      JAKE & MARIE 🇨🇦
+      Alexandra
     bio: >-
-      Photographers & travel bloggers from Vancouver, BC ↓ hiking, camping, & road-tripping tips 🏔 ↓ check out the blog & new reels yakeandmarie@gmail.com
+      👩🏼‍💻Content Creator + Blogger 📝 Communications + Social Media Management Sharing recipes, fashion & family 💌 alexandtribe@gmail.com 📍#yeg 🇨🇦
     location: "Canada"
-    followers: 50132
-    engagement: 383
-    commentsToLikes: 0.080729
-    id: ckpn0txlc3n1z0j231bpbkko6
+    followers: 7675
+    engagement: 505
+    commentsToLikes: 0.448627
+    id: cktkvg6mhci6d0j23k5gp7u4w
     verified: false
-    hashtags: "#hikingtheglobe, #luxurytravel, #tourcanada, #optoutside"
-  - username: "teachme_style"
+    hashtags: "#canadianbloggers, #ohheymama, #yeg, #pinterestinspired"
+  - username: "foodaholicblog_"
     fullname: >-
-      Holly Forsberg
+      Sandi ♡ Foodaholic!
     bio: >-
-      Dane’s Mom 👶🏼 💙 @lee_forsberg 💍 Sunny + Witt’s Fur Mama 🐶🐶 Teacher📚 | Lifestyle Blogger💻 Inquiries 💌 holly@infagency.com
+      * 💻 Food Blogger | Lifestyle | Travel 📍 Toronto, Mississauga & GTA 💌 foodaholic12@gmail.com 👩🏻‍💻 Logistics & E-Commerce (FT) 👇🏻 🇧 🇱 🇴 🇬
     location: "Canada"
-    followers: 65995
-    engagement: 232
-    commentsToLikes: 0.025825
-    id: ck5c8ew099bv80i11x8ny5s63
+    followers: 17671
+    engagement: 660
+    commentsToLikes: 0.068337
+    id: ck6tnpz6yac6e0j71wpt4mvq1
     verified: false
-    hashtags: "#ad, #shopteach, #christmas, #weddingdecor"
-  - username: "unstoppable.mama"
+    hashtags: "#toronto, #reels, #blogto, #canadatakeout"
+  - username: "eatwithshar0n"
     fullname: >-
-      Sara ♡ Ottawa Lifestyle Blogger
+      Eat with Sharon | YEG Foodie
     bio: >-
-      DAILY FASHION INSPO Blogger | Designer | Author 🎥4M+Reels ♡ @unstoppableprints.co ♡ REEL Mom-Kids 15m apart ♡ Ottawa🇨🇦 ♡ FREE Colouring & Play Ideas↓
+      probably taking a picture or eating #foodie + blogger based in Edmonton 💌 eatwithsharon@outlook.com or DM
     location: "Canada"
-    followers: 14716
-    engagement: 231
-    commentsToLikes: 0.400085
-    id: ckrvnl3vxktsw0j23g13q0bah
+    followers: 7412
+    engagement: 443
+    commentsToLikes: 0.286951
+    id: cktkvf70vcf4w0j23dt793uoj
     verified: false
-    hashtags: "#613mom, #amazonfashionfinds, #food4thought, #fashionreels"
-  - username: "sidafz"
-    fullname: >-
-      Sidrah | Toronto Blogger
-    bio: >-
-      Lifestyle & Travel blogger📍Toronto Sharing my child's autism journey Follow for kids inclusive activities Work with me: DM / 📧 siddyusman@gmail.com
-    location: "Canada"
-    followers: 13878
-    engagement: 115
-    commentsToLikes: 0.669998
-    id: cks8aqhhiupz50j23q90dq3w1
-    verified: false
-    hashtags: "#love, #torontocontentcreator, #muslimblogger, #canadianblogger"
-  - username: "petitelittleseveryday"
-    fullname: >-
-      Melissa Philipchalk
-    bio: >-
-      Top 30 Vancouver Mom Blogger Mama of 4 sharing our adventures! Motherhood and everyday life. DM for collaborations Email petitelittles@gmail.com
-    location: "Canada"
-    followers: 10868
-    engagement: 109
-    commentsToLikes: 0.391781
-    id: ckmw1u11x8mpg0j23xikgaffc
-    verified: false
-    hashtags: "#shelfies, #cbxriflepaperco, #shelfieinspo, #autumndecor"
-  - username: "mh_alexandra"
-    fullname: >-
-      𝑨𝒍𝒆𝒙𝒂𝒏𝒅𝒓𝒂
-    bio: >-
-      Family, Food, Fashion, but first.. Wine! 🇨🇦Wine Instructor/Enthusiast/Blogger 🍷 on my dipWSET journey 👩🏻‍💻 Blackdogbold@outlook.com I also LOVE dogs.
-    location: "Canada"
-    followers: 8614
-    engagement: 518
-    commentsToLikes: 0.207967
-    id: ck9wozpkw76ir0j78vqeli40r
-    verified: false
-    hashtags: "#sparklingwine, #girl, #wines, #champagne"
+    hashtags: "#yyc, #sherwoodpark, #yeghotel, #yeg"
   - username: "immrfabulous"
     fullname: >-
       Mr. Fab
     bio: >-
-      Blogger, Writer, Actor, Model & On-Air Media Personality. 🤓 Let's chat: ryan@immrfabulous.com
+      Blogger, Writer, Actor, Model & On-Air Media Personality. LGBTQ Rights Activist 🏳️‍🌈🏳️‍⚧️ Let's chat: ryan@immrfabulous.com
     location: "Canada"
-    followers: 6451
-    engagement: 647
-    commentsToLikes: 0.301822
+    followers: 7347
+    engagement: 560
+    commentsToLikes: 0.303370
     id: ck6tq007somtz0j719wx6jhcw
     verified: false
-    hashtags: "#calgary, #gay, #cowboy, #partner"
-  - username: "yourdappergoals"
+    hashtags: "#cowboy, #ad, #gay, #pride"
+  - username: "cl_blog"
     fullname: >-
-      Midhvan Gulati
+      CYNTHIA | 📍Montreal Foodie Content Creator 🍴
     bio: >-
-      •MENSWEAR• Use #yourdappergoals Businessman/Blogger/Student Based📍- British Columbia, Canada🇨🇦 SNAPCHAT👻- midhvan28
+      📍MTL Blogger: Food, Lifestyle, Activities, Travel 👇 Check Reels for Inspo 😍, 👆 Daily Stories for Fun 😏 📧 DM/Email for collabs/invites
     location: "Canada"
-    followers: 47354
-    engagement: 266
-    commentsToLikes: 0.031125
-    id: ck5hqblkfsu3o0i11qym0xxbb
+    followers: 5359
+    engagement: 1411
+    commentsToLikes: 0.433731
+    id: clio5azokhpol0j085mvcij2e
     verified: false
-    hashtags: "#reelsindia, #happy, #beautiful, #black"
+    hashtags: "#mtlblogger, #dateidea, #theloserfam, #koreanfoods"
+  - username: "radtocanada"
+    fullname: >-
+      Reon Dsouza
+    bio: >-
+      Enthusiastic Foodie/Lifestyle Blogger/10$ eats Coming from 🇦🇪to seek new beginnings in 🇨🇦
+    location: "Canada"
+    followers: 13144
+    engagement: 349
+    commentsToLikes: 0.150379
+    id: cln1l5z0t8ds10j08zyhitorw
+    verified: false
+    hashtags: "#instafood, #foodieadventures, #mustvisitspot, #mississaugaeats"
+  - username: "la2_guri"
+    fullname: >-
+      Gurpreet Singh
+    bio: >-
+      👔Stylist ||Fashion blogger || influencer 🇨🇦 Toronto 🗺 India.Chandigarh @turban_byguri @bhangrabrigade7 @eye_flick 👻-la2_guri
+    location: "Canada"
+    followers: 107155
+    engagement: 344
+    commentsToLikes: 0.021136
+    id: ckv1vnchbw6gd0j23aexqqmb8
+    verified: false
+    hashtags: "#toronto, #canada, #punjab, #healthylifestyle"
+  - username: "sarahpsmart"
+    fullname: >-
+      Sarah Smart  Travel & Events
+    bio: >-
+      📍Toronto 🌃 City girl 🌎 World Traveller 🎶 Concert Obsessed ✨DM for Collabs 👩‍💻 Blogger for WeChooseToday.com
+    location: "Canada"
+    followers: 10114
+    engagement: 333
+    commentsToLikes: 0.419843
+    id: ckyy1pgac0v4d0j23silqrcj8
+    verified: false
+    hashtags: "#torontohotel, #spaintravel, #toronto, #yyzfoodies"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Lifestyle Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top lifestyle Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #uae #dubai #mydubai.
+  Find top lifestyle Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #dubai #dubailife #dubailifestyle #mydubai.
 platform: Instagram
-hits: 277
+hits: 296
 text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 277 Instagram influencers like this in United Arab Emirates for you to collaborate.
+text_bottom: Our database holds 296 Instagram influencers like this in United Arab Emirates for you to work with.
 profiles:
-  - username: "layannsalem"
+  - username: "she.nobu"
     fullname: >-
-      • ليان سالم •
+      Nobu
     bio: >-
-      📍 AD | Dubai Beauty | Lifestyle | Travel I drive boats too⚓️ @layansalembeauty
+      Fashion Beauty Lifestyle 📩 shenobuu@gmail.com Less stress, more champagne 🥂 SHOP MY LOOKS ⤵️
     location: "United Arab Emirates"
-    followers: 414723
-    engagement: 342
-    commentsToLikes: 0.012301
-    id: ck8t0317tqnto0j788apbqc8p
+    followers: 82181
+    engagement: 981
+    commentsToLikes: 0.011292
+    id: ckap232okx64a0i783b77260v
     verified: false
-    hashtags: "#beautifulskin, #sleepfearless, #periodsomnia, #sheglamblush"
-  - username: "rujoomsreverie_"
+    hashtags: "#smiledesign, #creativesmiles"
+  - username: "katharina_grosam"
     fullname: >-
-      Rujoom Qamar 📍(AUH/DXB)
+      Katharina Grosam
     bio: >-
-      #Lifestyle #Homestyle #Parenting #FamilyTravel @mumzworld Rujoom10 🇦🇪 UAE born & Raised🇵🇰 Visual journey of my Simple Life 📩 Email for PR/Collab
+      Schönheit | sunny lifestyle | leadership 🎤 Podcast „the queens life“ 👸🏻 📍 Ausgewandert in die Sonne☀️Dubai 🌏 Vom Beauty Studio in die weite Welt
     location: "United Arab Emirates"
-    followers: 57454
-    engagement: 340
-    commentsToLikes: 0.086363
-    id: ck9wgdtnaszh80j784dpc9mhl
+    followers: 12082
+    engagement: 559
+    commentsToLikes: 0.055664
+    id: ck6u71vkhizn40j71defky8mm
     verified: false
-    hashtags: "#reels, #uaekids, #dss, #winterweddings"
-  - username: "dominikaindubai"
+    hashtags: "#weddingdress, #sommerkleid, #mykonos, #fethiye"
+  - username: "rebelliousbrownie"
     fullname: >-
-      Dominika | Content creator
+      Naiha Eiman Janjua
     bio: >-
-      Czech with turkish roots Fashion | Travel | Lifestyle Flight attendant ✈️ 📩 dominikaindubai@gmail.com @idealofsweden 15% off with code ‘BBDUBAI’
+      Fashion | Lifestyle | Travel 📍 Dubai 🇦🇪 + 🇵🇰 India 💌 naiha@tistmedia.in Global 🌍 rebelliousbrownie.mgmt@gmail.com
     location: "United Arab Emirates"
-    followers: 25592
-    engagement: 387
-    commentsToLikes: 0.098084
-    id: ckap39gqq243v0i78w7qs16s2
+    followers: 135490
+    engagement: 1579
+    commentsToLikes: 0.029116
+    id: ck13bvfa1xbro0i199i9ftwkm
     verified: false
-    hashtags: "#photooftheday, #visitdubai, #fyp, #dubai"
-  - username: "konstantinasoultati"
+    hashtags: "#eid2024, #eidoutfit, #dubai, #livingalonediaries"
+  - username: "irfan_khann"
     fullname: >-
-      Konstantina ✈️
+      IRFAN KHAN | DUBAI BLOGGER 🇦🇪
     bio: >-
-      Travel & Lifestyle 📍Dubai
+      📍DUBAI CONTENT CREATOR Travel | Fashion | Lifestyle | Webdeveloper |Digital Marketing Manager | Graphic Designer | Interior Designer
     location: "United Arab Emirates"
-    followers: 77010
-    engagement: 463
-    commentsToLikes: 0.108001
-    id: ck6tvttpfo8lc0j71p91cvilr
+    followers: 115939
+    engagement: 4764
+    commentsToLikes: 0.024561
+    id: ck5ceao3xkocb0i11f90b7u08
     verified: false
-    hashtags: "#23, #dubai, #serkovacrystalpure, #howtococktails"
-  - username: "madaboutella"
+    hashtags: "#forsale, #dubai, #dubaibloggers, #sharjah"
+  - username: "alexia.berton"
     fullname: >-
-      Dubai Lifestyle Blogger🏝
+      Alexia Berton | Comissária de Voo
     bio: >-
-      Ella Pop #fashion | #lifestyle | #beauty 📩 pr: info.madaboutElla@gmail.com 📍#Dubai🇦🇪 👩🏻Bulgarian/American Follow me on TikTok: @madaboutElla
+      viagem • moda • lifestyle • fitness vida sem rotina em Dubai e pelo mundo
     location: "United Arab Emirates"
-    followers: 64322
-    engagement: 298
-    commentsToLikes: 0.101958
-    id: ck0w4tfys0bwr0i19i7ag9tri
+    followers: 19724
+    engagement: 503
+    commentsToLikes: 0.016727
+    id: ck0u2fnr1zte00i19vlhcvpfe
     verified: false
-    hashtags: ""
-  - username: "rebeccarkassab"
+    hashtags: "#femaletravelblogger, #wanderlust, #dicasdeviagem, #travelbook"
+  - username: "maximshatrov"
     fullname: >-
-      Rebecca Kassab Al Azar
+      DUBAI SPORT AND LIFESTYLE PHOTOGRAPHER
     bio: >-
-      📍#BEY | #DXB 𝒮𝑒𝑒𝓀 𝓎𝑜𝓊𝓇 𝒾𝓃𝓃𝑒𝓇 𝓅𝑒𝒶𝒸𝑒🕊† لتكن مشيئتك #FASHION | #BEAUTY | #LIFESTYLE ▫️Master in Telecom Engineer ▫️Digital Media Expert ▫️Fashion Stylist
+      | Extreme | Sport | Lifestyle | | Dubai | UAE 🇦🇪 | @redbullphotography | | Ambassador | @elinchrom_ltd & @aquatech_imagingsolutions
     location: "United Arab Emirates"
-    followers: 90774
-    engagement: 282
-    commentsToLikes: 0.061562
-    id: ck5cfoqmmncwz0i11vy9hgawb
+    followers: 17300
+    engagement: 591
+    commentsToLikes: 0.034068
+    id: ck5q5btqgs6190i11gldfpmxw
     verified: false
-    hashtags: "#lovewins, #dubailife, #beachlife, #sunset"
-  - username: "nour.ghazwan"
+    hashtags: "#weddingphotographerdubai, #dubaifamilyphotographer, #dubaifitness, #dubaivideography"
+  - username: "afsheenowais"
     fullname: >-
-      نُورْ غَزوانْ
+      𝘽𝙡𝙚𝙨𝙨𝙚𝙙 𝙬𝙞𝙩𝙝 𝙩𝙝𝙚 𝘽𝙚𝙨𝙩 𝙈𝙤𝙢𝙢𝙮
     bio: >-
-      Feminist ♀ ♀ #dubai 🇦🇪 #makeup #lifestyle #motherhood For business dm please 📩 Snapchat : nour.mallouk
+      𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐧𝐠 𝐛𝐫𝐚𝐧𝐝𝐬 𝐰𝐢𝐭𝐡 𝐩𝐨𝐭𝐞𝐧𝐭𝐢𝐚𝐥 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬 ✨ 🔹Easy Recipes #glutenfree 👩🏻‍🍳 🔹LifeStyle🧕🏻Family👨‍👩‍👧‍👦👶🏻 📍UAE🇦🇪/PAK🇵🇰/Aus🇦🇺
     location: "United Arab Emirates"
-    followers: 249127
-    engagement: 233
-    commentsToLikes: 0.262721
-    id: ckap0lrktqv3j0i782sme8haj
+    followers: 55753
+    engagement: 573
+    commentsToLikes: 0.141846
+    id: ck5pw3wplkz1b0i11xno2l07p
     verified: false
-    hashtags: "#dubai, #kuwait, #abudhabi, #africa"
-  - username: "sophiemos"
+    hashtags: "#reelsindia, #dubaireels, #recipereel, #dubaimomblogger"
+  - username: "munz_zeer"
     fullname: >-
-      Sophie Ramos | travel & style
+      MUNZIR ABDUL KHADAR
     bio: >-
-      ✨ Lifestyle Creator & Vlogger • Creative Traveller 🇵🇭 in📍Dubai 🇦🇪 ☁ @shoponeday 🎞 Subscribe 🔽 Life Tips & Travel Guides!
+      Fashion | Lifestyle 📍🇦🇪 . . . YouTube👇🏻
     location: "United Arab Emirates"
-    followers: 32370
-    engagement: 411
-    commentsToLikes: 0.061403
-    id: ck14leqf4uafr0i19s3es3w1x
+    followers: 394565
+    engagement: 1751
+    commentsToLikes: 0.005364
+    id: ck8wf9naifdfq0j78ol4y6he3
     verified: false
-    hashtags: "#brightaboutskin, #dwphilippines, #danielwellington, #dwinph"
-  - username: "youmi.kh"
+    hashtags: "#munzifam, #ootd, #fashionblogger, #mensfashion"
+  - username: "al_afnde"
     fullname: >-
-      Youmi kh
+      Ibrahim Ali Binhatem
     bio: >-
-      يمنى الخوري - - Lebanese 🇱🇧 . - Owner of @youmionlineshop - Fashion | Beauty | Lifestyle influencer.
+      Books | Lifestyle | Real Estate Emirati 🇦🇪 📍Baghdad 🇮🇶 For business inquiries: +9647711222111
     location: "United Arab Emirates"
-    followers: 607510
-    engagement: 266
-    commentsToLikes: 0.062403
-    id: ck5hlalt0jvjv0i11vghv7e6o
+    followers: 332192
+    engagement: 426
+    commentsToLikes: 0.042463
+    id: ck5pwl7nmncf60i11jyyr5ttj
     verified: false
-    hashtags: "#youmi, #youmionlineshop, #youmilenses, #maldives"
-  - username: "dubaiholics"
+    hashtags: "#forever"
+  - username: "chemmu_theruvath"
     fullname: >-
-      Hania | Dubai Blogger
+      CheMmusss❤️😍
     bio: >-
-      All about #mydubai 🇦🇪 Food | Fashion | Lifestyle @zomatouae Level 13 Codes 👇 @shein_ar : A77 @adorawe_official : Hania16 📩 dubaiholic92@gmail.com
+      Uae 🇦🇪📍 Founder :- @chemmus_chuppas_official , @cc_mens_wear , @cc_women_wear * Explorer | Lifestyle |Fashion blogger
     location: "United Arab Emirates"
-    followers: 15950
-    engagement: 404
-    commentsToLikes: 0.305120
-    id: ck6ugi8ju362n0j71cfr9ioes
+    followers: 142563
+    engagement: 479
+    commentsToLikes: 0.020917
+    id: ck9wi9cyw1a930j78egprhp1d
     verified: false
-    hashtags: "#reelit, #adorawe, #eidinadorawe, #mydubai"
+    hashtags: "#hometown, #dubailife, #enjoyyourlife, #mydubailife"
 ---

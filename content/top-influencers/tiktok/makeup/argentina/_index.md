@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Argentina In 2023
+title: Top 10 Makeup TikTok Influencers In Argentina In 2024
 description: >-
-  Find top makeup TikTok influencers in Argentina in 2023. Most popular hashtags: #makeup #fyp #parati #foryou.
+  Find top makeup TikTok influencers in Argentina in 2024. Most popular hashtags: #makeup #fyp #parati #foryou.
 platform: TikTok
-hits: 103
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our database aggregates 103 TikTok influencers like this in Argentina for you to pitch.
+hits: 104
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 104 TikTok influencers like this in Argentina for you to pitch.
 profiles:
   - username: "gla2sfx"
     fullname: >-

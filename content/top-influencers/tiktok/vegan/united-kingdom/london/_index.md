@@ -1,12 +1,24 @@
 ---
-title: Top 10 Vegan TikTok Influencers In London In 2023
+title: Top 10 Vegan TikTok Influencers In London In 2024
 description: >-
-  Find top vegan TikTok influencers in London in 2023. Most popular hashtags: #vegan #london #fyp #veganrecipes.
+  Find top vegan TikTok influencers in London in 2024. Most popular hashtags: #vegan #fyp #london #veganfood.
 platform: TikTok
-hits: 22
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat has 22 TikTok influencers like this in London, United Kingdom for you to connect with.
+hits: 23
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 23 TikTok influencers like this in London, United Kingdom for you to pitch.
 profiles:
+  - username: "jojoslipzz_"
+    fullname: >-
+      !JѲJѲ! ®
+    bio: >-
+      London📍🇬🇧 @instagram Ambassador PR Enquiries: jojoslipzz@gmail.com
+    location: "United Kingdom"
+    followers: 47200
+    engagement: 1589
+    commentsToLikes: 0.026109
+    id: ckbqdvfvhzrm80j23kshq3qz3
+    verified: false
+    hashtags: "#vegan, #london, #weightlosstransformation, #weightlossprogress"
   - username: "thelittlelondonvegan"
     fullname: >-
       thelittlelondonvegan
@@ -55,6 +67,18 @@ profiles:
     id: ck8jal4ifsvlv0j78jwscut3o
     verified: false
     hashtags: "#lockdownlife, #foryou, #houseoftiktok, #boredvibes"
+  - username: "molliecampsie"
+    fullname: >-
+      Mollie Campsie
+    bio: >-
+      Curve model. 130k on IG #bodyneutrality shop my style👗 ⬇️
+    location: "United Kingdom"
+    followers: 35800
+    engagement: 494
+    commentsToLikes: 0.019290
+    id: ckcj9k8vx7xrj0j23mj7htgdr
+    verified: false
+    hashtags: "#midsizetiktok, #fyp, #midsize, #curves"
   - username: "fitbritbill"
     fullname: >-
       fitbritbill
@@ -67,18 +91,6 @@ profiles:
     id: ckavsoi1l58f80j23c3psv6z3
     verified: false
     hashtags: "#duet, #fyp, #banter, #monclerbubbleup"
-  - username: "jojoslipzz_"
-    fullname: >-
-      !JѲJѲ! ®
-    bio: >-
-      London📍🇬🇧 @instagram Ambassador PR Enquiries: jojoslipzz@gmail.com
-    location: "United Kingdom"
-    followers: 47200
-    engagement: 1589
-    commentsToLikes: 0.026109
-    id: ckbqdvfvhzrm80j23kshq3qz3
-    verified: false
-    hashtags: "#london, #weightlosscheck, #fyp, #weightloss"
   - username: "paulbrown_uk"
     fullname: >-
       Paul Brown
@@ -115,16 +127,4 @@ profiles:
     id: ck80oevdmhecx0j78kvzci6a8
     verified: false
     hashtags: "#healthyrecipes, #foodtiktok, #healthyfood, #tiktokfood"
-  - username: "helloviclanda"
-    fullname: >-
-      vic ✌🏼
-    bio: >-
-      London 🎡 CEO of triggering fragile masculinity @helloviclanda on insta
-    location: "United Kingdom"
-    followers: 6436
-    engagement: 876
-    commentsToLikes: 0.042050
-    id: ckceima98qzi20j23maglh7n7
-    verified: false
-    hashtags: "#vegan, #veganrecipes, #stitch, #plantbasedcouple"
 ---

@@ -1,12 +1,36 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Canada In 2023
+title: Top 10 Home Decor Instagram Influencers In Canada In 2024
 description: >-
-  Find top home decor Instagram influencers in Canada in 2023. Most popular hashtags: #homedecor #homesweethome #homedecorideas #decor.
+  Find top home decor Instagram influencers in Canada in 2024. Most popular hashtags: #homedecor #interiordesign #ad #canada.
 platform: Instagram
-hits: 96
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 96 Instagram influencers like this in Canada for you to connect with.
+hits: 273
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 273 Instagram influencers like this in Canada for you to contact.
 profiles:
+  - username: "lorimirabelli"
+    fullname: >-
+      Lori Mirabelli
+    bio: >-
+      Commissions welcomed Large scale abstract art #wallart #homedecor #acrylic #acrylicpainting Mentor and teacher subscribe today
+    location: "Canada"
+    followers: 110198
+    engagement: 117
+    commentsToLikes: 0.100499
+    id: ck9h9rgc19o0i0j78rxktb5ri
+    verified: false
+    hashtags: "#artforsale, #art, #abstractartist, #abstractart"
+  - username: "thiswildheart"
+    fullname: >-
+      Esther Lee
+    bio: >-
+      Home | Style | Motherhood 📍Toronto Featured on HGTV, House & Home Partnerships + UGC: hello@thiswildheart.com Half of @anotherday.thelabel #homedecor
+    location: "Canada"
+    followers: 98344
+    engagement: 42
+    commentsToLikes: 0.511236
+    id: cl7geic34sihn0i235pizmbe0
+    verified: false
+    hashtags: "#girlhood, #amazonmusthaves, #organizeyourlife, #amazonfinds"
   - username: "chasing.the.ts"
     fullname: >-
       J O A N 🌿 chasing the Ts
@@ -18,113 +42,89 @@ profiles:
     commentsToLikes: 0.102937
     id: ckap8um5npyoq0i78n9c3yz8z
     verified: false
-    hashtags: "#askanapron, #homedepotcanadapartner, #homedepotcanada, #diyhomeproject"
-  - username: "meligatorr"
+    hashtags: "#homedepotcanada, #discoverearth, #ad, #greenhouse"
+  - username: "haleyscornerr"
     fullname: >-
-      Melisa | Montreal
+      Haley Israelov
     bio: >-
-      〰️contactmeligatorr@gmail.com 📩 〰️Co-founder @lemonseedmedia 🍋 〰️Lifestyle, self care and little fragments of life🌿
+      a cool thrifting mom into fashion, food + home decor! south florida ☀️ 775k youtube family 🫶🏼 💌 haleyscorner@outlook.com youtube, podcast + links ↓
     location: "Canada"
-    followers: 28302
-    engagement: 274
-    commentsToLikes: 0.320554
-    id: ck5bz30vkqch20i11r2q74r5z
+    followers: 131923
+    engagement: 1075
+    commentsToLikes: 0.017246
+    id: ck8t6zzfif7ox0j78jt9plh9f
     verified: false
-    hashtags: "#frenchvibes, #decor, #aestheticreels, #neutralstyle"
-  - username: "abhishekdekate"
+    hashtags: "#thrift, #thriftstorefinds, #thrifted, #momlife"
+  - username: "goodboy_toast"
     fullname: >-
-      Abhishek Dekate
+      STEPH + TOAST  🍞
     bio: >-
-      ⋒ home + design, food + drinks and everything in between ► toronto 🇨🇦 / from: 🇮🇳 ⍜ contributor @foodnetworkca ⧉ abhishek.dekate@gmail.com ◑ A / D ↓
+      ◍ Dog mom life, photography and home decor inspo ◍ Toronto thegoodboytoast@gmail.com
     location: "Canada"
-    followers: 29303
-    engagement: 110
-    commentsToLikes: 0.036707
-    id: ck5bzba4pqt490i11yb7j2ktm
+    followers: 5357
+    engagement: 507
+    commentsToLikes: 0.097148
+    id: ck5bytj7eptje0i11qgiuz1ni
     verified: false
-    hashtags: "#apartmentdecor, #hometour, #currentdesignsituation, #kinfolkhome"
-  - username: "emscourtney"
+    hashtags: "#torontodogslife, #labradoodlenation, #silkandsnowpartner, #beddingcollection"
+  - username: "la.mouette"
     fullname: >-
-      Emma Courtney
+      Florence
     bio: >-
-      Lover of interior design, baking, travel, hiking & cats 💌info@emmacourtney.ca
+      Dénicheuse de jolies choses 👒 Illustratrice - @ateliermouette 📸 Photographe - @lamouette.instants 📍 Montréal 🇨🇦🇫🇷 💌 hello@la-mouette.com
     location: "Canada"
-    followers: 63497
-    engagement: 64
-    commentsToLikes: 0.092020
-    id: ck0w0dcwtdmc10i195q8dacfl
+    followers: 22912
+    engagement: 399
+    commentsToLikes: 0.031478
+    id: ck55ptio1bcg80i11u9gk175z
     verified: false
-    hashtags: "#homedecor, #homeinterior, #interior4all, #instadesign"
-  - username: "spring_in_december"
+    hashtags: "#littlethingsinlife, #expatlife, #itsthelittlethings, #explorecanada"
+  - username: "marianne.plaisance"
     fullname: >-
-      Linda
+      Marianne Plaisance
     bio: >-
-      French family living in Canada (Québec) 🇨🇦 Loving mom to Maëlys and Nour 👧🏽👧🏻 For collabs DM or e-mail 📩
+      Bricoleuse professionnelle 🎨🛠📷 J’aime faire du beau sur Youtube!👇
     location: "Canada"
-    followers: 16081
-    engagement: 243
-    commentsToLikes: 0.045344
-    id: ck5buozbni64t0i11e1udw7q3
+    followers: 154728
+    engagement: 948
+    commentsToLikes: 0.006078
+    id: ckap43cl65nrb0i78zki6fhcn
     verified: false
-    hashtags: "#snowday, #momanddaughter, #mamahub, #makingmemories"
-  - username: "working_chix"
+    hashtags: "#interiordesign, #homedecor, #diyprojects, #diyproject"
+  - username: "myinspiredhome"
     fullname: >-
-      Anna Przezak
+      Anam | My Inspired Home • Toronto 🇨🇦🇵🇰
     bio: >-
-      Fashion, Beauty, Lifestyle, Personal Finance CPA, CA / Manager from 9 to 5 / Polish girl from Montreal, living in👇🏻 📍Toronto 📩 workingchix@gmail.com
+      ✨Create Your Oasis✨ Sharing home decor, organization tips, and easy meals for busy families like mine Owner of @shopinspiredhome • Mom of 3 • CPA, CA
     location: "Canada"
-    followers: 33270
-    engagement: 127
-    commentsToLikes: 0.041714
-    id: ck9wh6amgwge60j782z3gl8jx
+    followers: 128677
+    engagement: 606
+    commentsToLikes: 0.067476
+    id: ck5zu710o1t0a0i149o57vz9l
     verified: false
-    hashtags: "#toronto, #homedecor, #torontoblogger, #luxyhair"
-  - username: "thehumblehaven"
+    hashtags: "#muslimblogger, #musliminfluencer, #easyrecipes, #canadianmuslim"
+  - username: "mangozzle"
     fullname: >-
-      Lori 🌿
+      margaux | montreal 🇨🇦
     bio: >-
-      Wife|Mother of two|Michigan|Our humble haven by the creek| Built in 2017|Curing empty nest syndrome one house project at a time!🌿
+      travel • lifestyle • foodie • home • beauty&fashion exploratrice des spots de mtl & bingewatch les k-dramas infj-t 👩‍⚖️ 💌 mangozzle@gmail.com
     location: "Canada"
-    followers: 14334
-    engagement: 441
-    commentsToLikes: 0.146152
-    id: ck5c4vubp27yc0i1133om3l3k
+    followers: 51785
+    engagement: 477
+    commentsToLikes: 0.031819
+    id: clprojlnrabhf0k08jrodz6f1
     verified: false
-    hashtags: "#simplehomestyle, #mycountryhome, #cottagecountry, #prettylittlefarmhouse"
-  - username: "misschrisycharms"
+    hashtags: "#streetstyle, #canada, #montreal, #interiorinspo"
+  - username: "johannainteriors"
     fullname: >-
-      C h r i s y
+      DIY, Interior Design & Antiques | Johanna
     bio: >-
-      Wife to Jenn 🌈 Mama to Willa 👶🏻 Interior decorator 🏠 Plant junkie 🌱 Flower fanatic 🌸 AB, Canada Decor | Food | Beauty | Style | Baby
+      Canadian home with European influence English Cottage, French Country and Timeless Old World interiors Pattern play, Antiques & History lover
     location: "Canada"
-    followers: 62330
-    engagement: 185
-    commentsToLikes: 0.132569
-    id: ck0ttyrez4wll0i196b3ca0hx
+    followers: 42794
+    engagement: 1706
+    commentsToLikes: 0.579619
+    id: clpj45nwyr1me0k08o2v9vq2k
     verified: false
-    hashtags: "#interiordesign, #wiw, #hmhome, #styleblogger"
-  - username: "lifeisbetterathome"
-    fullname: >-
-      Judy - Life Is Better At Home
-    bio: >-
-      Home + Family + Lifestyle 🤍 Vancouver, BC
-    location: "Canada"
-    followers: 31853
-    engagement: 58
-    commentsToLikes: 0.204188
-    id: ck6twb2j8qzys0j71kt49btll
-    verified: false
-    hashtags: "#myhgtv, #thedelightofdecor, #homedecorideas, #simplystyleyourspace"
-  - username: "white.farmhouse"
-    fullname: >-
-      Britt | minimalist . blogger
-    bio: >-
-      New Build ~ Tiny A-Frame. Family of 5 living off the grid in a Bell Tent while we build. Join us for the ADVENTURE 🏕 co-founder of @vintagesocietyco
-    location: "Canada"
-    followers: 75558
-    engagement: 226
-    commentsToLikes: 0.113225
-    id: ck0tvj4wsbl8o0i198wahbp6k
-    verified: false
-    hashtags: "#aframe, #newbuild, #frenchfarmhouse, #yycliving"
+    hashtags: "#frenchcountrystyle, #frenchcountryside, #hometakestime, #homedesign"
 ---

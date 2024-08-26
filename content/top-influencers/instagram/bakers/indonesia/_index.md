@@ -1,12 +1,24 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Indonesia In 2023
+title: Top 10 Bakers Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top bakers Instagram influencers in Indonesia in 2023. Most popular hashtags: #indonesia #travel #fashioninspiration.
+  Find top bakers Instagram influencers in Indonesia in 2024. Most popular hashtags: #ootd #travel #nature.
 platform: Instagram
-hits: 575
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 575 Instagram influencers like this in Indonesia for you to pitch.
+hits: 594
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 594 Instagram influencers like this in Indonesia for you to connect with.
 profiles:
+  - username: "ameliachuatan"
+    fullname: >-
+      Christina Amelia Chuatan 🌙
+    bio: >-
+      ——— 👩🏻‍🍳 Top 8 Masterchef Indonesia S6 📮 CP : 0819 0506 3489 — Adelia 🍩 home baker of @kanaka.bakehouse
+    location: "Indonesia"
+    followers: 239274
+    engagement: 350
+    commentsToLikes: 0.019678
+    id: ck8swibg8e6oo0j78ghuoa9bo
+    verified: false
+    hashtags: "#chefuntukbumi, #teamupforimpact, #savewatersavefood, #untukmubumiku"
   - username: "amieardhini"
     fullname: >-
       Amie Ardhini
@@ -43,18 +55,30 @@ profiles:
     id: ck14hatjc9eru0i19dwgnhr2n
     verified: false
     hashtags: "#odishameetskerela, #lovefmmovie, #haldiceremony, #abhijanweddingthrowback"
-  - username: "theboliviantraveler"
+  - username: "elsabrilliant"
     fullname: >-
-      Andres MacLean
+      E L S A   M c C O O L
     bio: >-
-      Photo | Video 🌎 Travel | Cultural | Aerial 📍Bolivia 🇧🇴 Photo Prints now shipping worldwide Pueden pedir sus poleras en el siguiente link: 📸 ⬇️🌎
+      ʟɪꜰᴇ ɪꜱ ᴀ ᴍᴏᴠɪᴇ.. ᴀɴᴅ ʜᴇʀᴇ ɪꜱ ᴍɪɴᴇ 🏴‍☠️ ʟᴏᴍʙᴏᴋ | ɪɴQᴜɪʀɪᴇꜱ → ᴅᴍ @wynnmodels @archivemodels @ayomsuite 🌱
     location: "Indonesia"
-    followers: 50725
-    engagement: 350
-    commentsToLikes: 0.033064
-    id: ck0tz851qpfs30i190z4dk8qm
+    followers: 11707
+    engagement: 227
+    commentsToLikes: 0.021071
+    id: ck8t58dxn95lb0j78ihcpfxkc
     verified: false
-    hashtags: "#bolivia, #colombia, #mexico, #amaruxtheboliviantraveler"
+    hashtags: "#lombokexpat, #lombokisland, #giliair, #jeevaresorts"
+  - username: "soezan85"
+    fullname: >-
+      Food & Lifestyle Influencer | Kuliner Bali
+    bio: >-
+      👸🏼 Susan Theresia | 📍Bali, Indonesia 🙋🏻‍♀️ Congrats you found me 🙋🏻‍♀️ Since 2017 👩‍👦‍👦 A happy single mom with 2 boys 📸 Endorsement & Visit by DM
+    location: "Indonesia"
+    followers: 208214
+    engagement: 34
+    commentsToLikes: 0.056315
+    id: ck6u0bs6zes990j71ex8chggf
+    verified: false
+    hashtags: "#jelajahtri, #jelajahsarapantri, #jaringanhematdancepat"
   - username: "hyriinadeyy"
     fullname: >-
       Rinadewi Yunita
@@ -67,18 +91,6 @@ profiles:
     id: ckap1f594uc0y0i7820ok1yfj
     verified: false
     hashtags: "#masasma, #womenfashion, #nature, #womennesia"
-  - username: "anacathie"
-    fullname: >-
-      Anastasia Catharina
-    bio: >-
-      Studio Moonchild | ZNC 🇮🇩 ID - 🇸🇬 SG ✉️ anacathie@studiomoonchild.com Illustration • Concept Art • Comic Cover • Mural -Commission Closed-
-    location: "Indonesia"
-    followers: 21303
-    engagement: 413
-    commentsToLikes: 0.013665
-    id: ck8td787b26jv0j783nu0lj08
-    verified: false
-    hashtags: "#skecherssg, #skechersxjeremyville"
   - username: "aiyaadams"
     fullname: >-
       🇮🇩 Aiya Adams 🇩🇪
@@ -115,16 +127,4 @@ profiles:
     id: ckaowm5ji9gmu0i78s30juemp
     verified: false
     hashtags: "#tarocake, #delicious, #foodporn, #bakedwithlove"
-  - username: "annawawiberjan_putri"
-    fullname: >-
-      𝔓𝔬𝔫𝔓𝔢𝔰 𝔄𝔫-𝔑𝔞𝔴𝔞𝔴𝔦 𝔓𝔲𝔱𝔯𝔦
-    bio: >-
-      𝑷𝒐𝒏𝒅𝒐𝒌 𝑷𝒆𝒔𝒂𝒏𝒕𝒓𝒆𝒏 𝑷𝒖𝒕𝒓𝒊 𝑨𝒏-𝑵𝒂𝒘𝒂𝒘𝒊 𝑩𝒆𝒓𝒋𝒂𝒏, 𝒈𝒆𝒃𝒂𝒏𝒈, 𝑷𝒖𝒓𝒘𝒐𝒓𝒆𝒋𝒐. 54191
-    location: "Indonesia"
-    followers: 8178
-    engagement: 732
-    commentsToLikes: 0.009687
-    id: ck6u1t7hynqiv0j71kyblr2mj
-    verified: false
-    hashtags: "#annawawiberjan, #potretpurworejo, #pesantrenstory, #indonesia"
 ---

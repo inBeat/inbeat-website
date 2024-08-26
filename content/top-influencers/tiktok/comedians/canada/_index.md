@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Canada In 2023
+title: Top 10 Comedians TikTok Influencers In Canada In 2024
 description: >-
-  Find top comedians TikTok influencers in Canada in 2023. Most popular hashtags: #comedy #fyp #duet #stitch.
+  Find top comedians TikTok influencers in Canada in 2024. Most popular hashtags: #comedy #fyp #duet #funny.
 platform: TikTok
-hits: 50
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 50 TikTok influencers like this in Canada for you to connect with.
+hits: 52
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 52 TikTok influencers like this in Canada for you to connect with.
 profiles:
   - username: "blindguycomedy"
     fullname: >-
@@ -42,19 +42,19 @@ profiles:
     commentsToLikes: 0.044238
     id: ckahyj8plzkhj0i7833fnclib
     verified: false
-    hashtags: "#comedy, #joke, #goofy, #funny"
+    hashtags: "#silly, #funny, #hair, #goofy"
   - username: "joelvanvliet"
     fullname: >-
       Joel van Vliet
     bio: >-
       Singer/songwriter/comedian/podcaster/multi-hyphenate/photographer/plant-guy/etc.
     location: "Canada"
-    followers: 2453
-    engagement: 913
-    commentsToLikes: 0.116482
+    followers: 2443
+    engagement: 892
+    commentsToLikes: 0.067135
     id: ckbqq63saay2x0j23ue0gqjoa
     verified: false
-    hashtags: "#chipmunks, #keepingitcute, #chipmunk, #fyp"
+    hashtags: "#keepingitcute, #chipmunk, #xyzbca, #fyp"
   - username: "cringekev"
     fullname: >-
       Cringe Kev
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.036334
     id: ck90r2c2kktgx0j78fv2tcwgq
     verified: false
-    hashtags: "#america, #toronto, #republican, #fyp"
+    hashtags: "#standupcomedy, #comedy, #democrat, #republican"
   - username: "everydayalex"
     fullname: >-
       Alex Biron
@@ -93,16 +93,16 @@ profiles:
     hashtags: "#comedy, #philippines, #tagalog, #actor"
   - username: "astral.shieldmaiden"
     fullname: >-
-      Quartz 
+      Kizzortazorp
     bio: >-
-      ❕18+❕ 🇨🇦🇭🇺Comedian/Weirdo/Artist/Aspiring Tattooist✨ Follow my insta
+      ❕18+❕ Comedian/Awake/Tattooist✨ 🇨🇦 S.Ontario. 🇭🇺 N.Hungary.
     location: "Canada"
-    followers: 7995
-    engagement: 875
-    commentsToLikes: 0.079825
+    followers: 8900
+    engagement: 2187
+    commentsToLikes: 0.192421
     id: ck9bxqjommqc00j78bagzqa59
     verified: false
-    hashtags: "#conspiracy, #stepbystep, #health, #truth"
+    hashtags: "#vibecheck, #fy, #tiktokggt, #funny"
   - username: "paulloduca"
     fullname: >-
       Paul Loduca
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.139575
     id: ck8ttlwvms2aa0j78f6l4wd7j
     verified: false
-    hashtags: "#couplegoals, #physicalcomedy, #comedy, #italiancomedy"
+    hashtags: "#funnycouples, #funny, #italiancomedy, #pickles"
   - username: "rorygardinermusic"
     fullname: >-
       Rory Gardiner
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.122957
     id: ckbbo0379c1gf0j237li1tp03
     verified: false
-    hashtags: "#stitch, #fyp, #tiktokdad, #momsoftiktok"
+    hashtags: "#stitch, #momsoftiktok, #fyp, #over30"
 ---

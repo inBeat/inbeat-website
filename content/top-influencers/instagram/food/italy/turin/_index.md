@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food Instagram Influencers In Turin In 2023
+title: Top 10 Food Instagram Influencers In Turin In 2024
 description: >-
-  Find top food Instagram influencers in Turin in 2023. Most popular hashtags: #torino #food #turin #foodporn.
+  Find top food Instagram influencers in Turin in 2024. Most popular hashtags: #turin #torino #food #foodporn.
 platform: Instagram
 hits: 14
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 14 Instagram influencers like this in Turin, Italy for you to pitch.
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 14 Instagram influencers like this in Turin, Italy for you to pitch.
 profiles:
   - username: "bcoolguide"
     fullname: >-
@@ -43,42 +43,6 @@ profiles:
     id: ck5cf063dm2b90i112mpmgnjh
     verified: false
     hashtags: "#urbanexplorer, #torinocity, #architetturaitaliana, #whatitalyis"
-  - username: "gabrielegalimbertiphoto"
-    fullname: >-
-      Gabriele Galimberti
-    bio: >-
-      National Geographic photographer @natgeo / @natgeotravel / Member of @thephotosociety and @river_boom Canon Ambassador @canonitaliaspa
-    location: "Italy"
-    followers: 260340
-    engagement: 208
-    commentsToLikes: 0.019591
-    id: ck0ucadumgbod0i19ffkc9mx0
-    verified: true
-    hashtags: "#child, #flower, #toys, #usa"
-  - username: "italyfoodprntorino"
-    fullname: >-
-      Italy Food Porn Torino
-    bio: >-
-      La rubrica di @italyfoodprn sul cibo più accattivante di #Torino e dintorni ❤ Hashtag: #italyfoodporntorino
-    location: "Italy"
-    followers: 35705
-    engagement: 366
-    commentsToLikes: 0.005047
-    id: ck5cayuc7edzg0i11vpj6c6dn
-    verified: false
-    hashtags: "#pasta, #foodphotography, #turin, #foodie"
-  - username: "rita.cap"
-    fullname: >-
-      Rita Capparelli
-    bio: >-
-      Italian based in Turin 🥀deeply in love with aesthetics beauty inquiries: rita@sparkleagency.it @thewom contributor my wardrobe ↴
-    location: "Italy"
-    followers: 101850
-    engagement: 425
-    commentsToLikes: 0.006343
-    id: ck138l6upgrut0i19o4hxktfz
-    verified: false
-    hashtags: "#thursday, #parisianstyle, #saturday, #friday"
   - username: "lele_be"
     fullname: >-
       Emanuele
@@ -115,6 +79,42 @@ profiles:
     id: ckaosarzxqw2g0i78185uzq8l
     verified: false
     hashtags: "#viaggioinitalia, #pizza, #volgopiemonte, #thefork"
+  - username: "italyfoodprntorino"
+    fullname: >-
+      Italy Food Porn Torino
+    bio: >-
+      La rubrica di @italyfoodprn sul cibo più accattivante di #Torino e dintorni ❤ Hashtag: #italyfoodporntorino
+    location: "Italy"
+    followers: 57898
+    engagement: 291
+    commentsToLikes: 0.008244
+    id: ck5cayuc7edzg0i11vpj6c6dn
+    verified: false
+    hashtags: "#pizza, #foodporn, #pizzalover, #ciboitaliano"
+  - username: "igerstorino"
+    fullname: >-
+      Instagramers Torino
+    bio: >-
+      Network ufficiale @weareigersit @rodvaveloce | @dominique_bisanti | @mariarosacavallo | @_gabriellabruzzone
+    location: "Italy"
+    followers: 27901
+    engagement: 120
+    commentsToLikes: 0.009523
+    id: ck5c17knjulx00i11wsgczqvv
+    verified: false
+    hashtags: "#yallerspiemonte, #visitpiemonte, #italia365, #instagramersitalia"
+  - username: "larissa_gamba"
+    fullname: >-
+      Larissa♡
+    bio: >-
+      🌏 𝑇𝑟𝑎𝑣𝑒𝑙 𝑎𝑑𝑑𝑖𝑐𝑡𝑒𝑑 👠 𝐹𝑎𝑠ℎ𝑖𝑜𝑛 𝑙𝑜𝑣𝑒𝑟 🧠𝑃𝑠𝑦𝑐ℎ𝑜𝑙𝑜𝑔𝑖𝑠𝑡 @psicologa.larissagamba Vi 𝘱𝘰𝘳𝘵𝘰 𝘤𝘰𝘯 𝘮𝘦 𝘥𝘢𝘯𝘥𝘰 𝘴𝘱𝘢𝘻𝘪𝘰 𝘢𝘭𝘭𝘢 𝘮𝘪𝘢 𝘤𝘳𝘦𝘢𝘵𝘪𝘷𝘪𝘵à♡ 📍Genova/ Acqui Terme
+    location: "Italy"
+    followers: 81435
+    engagement: 6
+    commentsToLikes: 0.000828
+    id: ck5zsvouxz9lo0i14u1udcfl3
+    verified: false
+    hashtags: "#gift, #love, #toypoodle, #cherry"
   - username: "sourdoughpizza_lovecchiopiero"
     fullname: >-
       Piero Lovecchio

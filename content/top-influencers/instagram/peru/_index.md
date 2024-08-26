@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Peru In 2023
+title: Top 10 Instagram Influencers In Peru In 2024
 description: >-
-  Find top Instagram influencers in Peru in 2023. Most popular hashtags: #peru #publicidad #photooftheday #moda.
+  Find top Instagram influencers in Peru in 2024. Most popular hashtags: #publicidad #peru #makeup.
 platform: Instagram
-hits: 1367
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: inBeat has 1367 Instagram influencers like this in Peru for you to collaborate.
+hits: 1360
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 1360 Instagram influencers like this in Peru for you to work with.
 profiles:
-  - username: "nicollechangc"
+  - username: "staryuukiii"
     fullname: >-
-      Nicolle Chang Makeup Artist.
+      Star Yuuki
     bio: >-
-      💄MUA & Beauty Content Creator 🎵Tiktok: nicollechangc [1.5M+] 📍Lima, Perú 📌 Citas en @nicollechangmakeup 📩nicollechangmakeup@gmail.com
+      🌸Twitch: staryuuki 💖Adoro hacer reir a los demas. 🌸Youtube: staryuuki 🌸Contacto: staryuukitwitch@gmail.com 🌸 Edad: 25
     location: "Peru"
-    followers: 125184
-    engagement: 902
-    commentsToLikes: 0.032827
-    id: ck6ucvwnlhrbb0j71u9zr5a8m
+    followers: 7001464
+    engagement: 409
+    commentsToLikes: 0.004488
+    id: ck14l51vfsw5d0i19s3qz5w9b
     verified: false
-    hashtags: "#nicollechangmakeup, #redlips, #makeuplover, #christmas2022"
+    hashtags: "#staryuuki, #viral, #chainsawman, #cosplay"
+  - username: "daniellaeacosta"
+    fullname: >-
+      Daniella Acosta
+    bio: >-
+      ✨Te comparto los mejores Tips & Datos 🤳🏼Contenido diario de Belleza, Moda y Estilo de vida. 📲 TikTok: daniellaeacosta (+385K) ✝️ Isaías 49:16
+    location: "Peru"
+    followers: 198813
+    engagement: 604
+    commentsToLikes: 0.075468
+    id: ck13d1tzc38n30i19e4v4c15v
+    verified: false
+    hashtags: "#skincare, #outfitinspo, #outfitideas, #bloggerstyle"
+  - username: "welcometoelmundo"
+    fullname: >-
+      Belén Delgado & Julio Barrios ↟ Travel Visuals
+    bio: >-
+      🌏 Desde 2017 con mochila, cámara y buen rollo! 🌟 Premio Mejor Instagram de Viajes 2024 🎥 Miércoles Nuevo Vídeo en YTube
+    location: "Peru"
+    followers: 194656
+    engagement: 460
+    commentsToLikes: 0.071042
+    id: ck0w5c8i02xx30i194fzei6tz
+    verified: false
+    hashtags: "#choc, #kabiniwildlife, #mexicomagico, #indiatravelgram"
+  - username: "sofiasolisb"
+    fullname: >-
+      Sofia Solis | founder & creator
+    bio: >-
+      🧡 co-founder @joinklaia 📍 based in nyc ✉️ business@sofiasolisb.com ⬇️ Try Klaia for free
+    location: "Peru"
+    followers: 9616
+    engagement: 409
+    commentsToLikes: 0.144767
+    id: ck0tx9q5oie300i193gymzpzn
+    verified: false
+    hashtags: "#arthousehotel, #pcme, #thepreferredlife, #ad"
+  - username: "chiaraconroy"
+    fullname: >-
+      chiara
+    bio: >-
+      My digi diary 🦋🌷💋🪩✨⭐️💞💘❤️‍🔥 📍LIMA📍 ✉️:conroychiara@gmail.com
+    location: "Peru"
+    followers: 41246
+    engagement: 538
+    commentsToLikes: 0.001573
+    id: clnhuf5y7ie9r0j0847vum252
+    verified: false
+    hashtags: "#lipcombo, #rhode, #macximal"
+  - username: "giacomobeub"
+    fullname: >-
+      Giacomo Benavides Ubierna
+    bio: >-
+      🎭Actor Improvisador/Profesor de Impro Contacto : contacto.giacomo@gmail.com
+    location: "Peru"
+    followers: 311170
+    engagement: 1804
+    commentsToLikes: 0.296964
+    id: ck5zrc0e6wat10i14jf0zxe9d
+    verified: false
+    hashtags: "#twicelasvegas, #gemelas, #galaxys24, #publicidad"
+  - username: "_gingerbeauty_"
+    fullname: >-
+      Renata Marruffo
+    bio: >-
+      Con todo menos vergüenza 😉🇵🇪 TikTok: @_gingerbeauty_ (700k) 🎙Link del podcast 👇🏽
+    location: "Peru"
+    followers: 55901
+    engagement: 585
+    commentsToLikes: 0.020878
+    id: ck6u903fpup620j71s2au3h4q
+    verified: false
+    hashtags: "#mehronmakeup, #aliciaenelpaisdelasmaravillas, #urbandecay, #makeup"
+  - username: "palodirtyano"
+    fullname: >-
+      Paloma Derteano
+    bio: >-
+      Random vloggerss🤳🏾 #amadecasax100pre #rubi 🤓 @brandingconstante 🎁 @sinenvolturas 💩 @al.trono 📩hola@conectandoseres.com
+    location: "Peru"
+    followers: 199179
+    engagement: 535
+    commentsToLikes: 0.011491
+    id: ck5c5y5zw4d800i11t5ftfxm0
+    verified: false
+    hashtags: "#traaaa, #madrededos, #favoritosuna, #publicidad"
+  - username: "aleventuro"
+    fullname: >-
+      Alexandra Venturo
+    bio: >-
+      Aria's & Aissa's Mom 🧸 Pastelera y Cocinera Fundadora y Creadora de @laneverafit Healthy Lifestyle⚖️ ♏️ Scorpio 👁
+    location: "Peru"
+    followers: 650079
+    engagement: 901
+    commentsToLikes: 0.013090
+    id: ck6tisb7j1bsv0j718bgp7ozy
+    verified: false
+    hashtags: "#publicidad, #babygirl, #peru, #mancora"
   - username: "senpaai_"
     fullname: >-
-      Stëfäny Välcárcël 🧚🏼‍♀️
+      Stefany Valcárcel
     bio: >-
-      lima, perú | 19🥀 twitch: senpaaai43 tiktok (670k) 📩: contacto@followme.pe
+      lima, perú | 19 twitch: senpaaai43 tiktok (700K) 📩: contacto@followme.pe
     location: "Peru"
-    followers: 222911
-    engagement: 582
-    commentsToLikes: 0.016915
+    followers: 216596
+    engagement: 428
+    commentsToLikes: 0.019358
     id: ck5pytzz5xssy0i11yi3f4cot
     verified: false
-    hashtags: "#tutorial, #instagram, #instagood, #publicidad"
-  - username: "pmxbeauty"
-    fullname: >-
-      Paola Escalante
-    bio: >-
-      📍 Lima, Perú ✉️ PR/Business: pmxbeauty@gmail.com +300 TikTok
-    location: "Peru"
-    followers: 34233
-    engagement: 225
-    commentsToLikes: 0.089189
-    id: ck9wf1jr7mvjd0j78072wplp2
-    verified: false
-    hashtags: "#wakeupandmakeup, #makeupdaily, #disney, #abhfam"
-  - username: "jennvelasquezfit"
-    fullname: >-
-      ᴊᴇɴɴʏ ꜰɪᴛɴᴇꜱꜱ  | ᴄᴏᴀᴄʜ 💜💪🏻
-    bio: >-
-      Todo lo que hagas hazlo con amor 💜🥰 ᴊᴇɴɴʏ ꜰɪᴛɴᴇꜱꜱ ᴄᴏᴀᴄʜ 🏋️‍♀️/ 📸/ 🌄 ÚNETE A MI RETO DE TRANSFORMACIÓN!💪🏻🔥 Escríbeme #RETO9SEMANAS 📲 👇🏻👇🏻👇🏻
-    location: "Peru"
-    followers: 24174
-    engagement: 199
-    commentsToLikes: 0.017487
-    id: ckap4ks7w7qhh0i785ilwzrvs
-    verified: false
-    hashtags: "#goals, #gymmotivation, #goodvibes, #youcandoit"
-  - username: "marianahidalgo.nutricion"
-    fullname: >-
-      Mariana | Nutrición+Hábitos
-    bio: >-
-      🍓¡Soy nutricionista! Te enseño de alimentación y hábitos para que cambies de vida no de talla. 💘 Team @reebokperu RECETARIO GRATUITO AQUÍ 👇🏼
-    location: "Peru"
-    followers: 121565
-    engagement: 181
-    commentsToLikes: 0.100759
-    id: ck6u91w0cv08a0j71afz0zsxy
-    verified: false
-    hashtags: "#peru, #marianahidalgo, #nutrici, #2023biencabr"
-  - username: "placeresculpososblog"
-    fullname: >-
-      Magda Pérez
-    bio: >-
-      Old-school foodie 🎓 Reseñas de 📍Lima y 📍Trujillo +82K en TikTok ⬆️
-    location: "Peru"
-    followers: 41463
-    engagement: 151
-    commentsToLikes: 0.047085
-    id: ck9haxy7nejmw0j788nvfr17v
-    verified: false
-    hashtags: "#peru, #comidaperu, #igersperu, #placeresculposos"
-  - username: "nichowenzel"
-    fullname: >-
-      Nicholas Wenzel
-    bio: >-
-      Sebastián en #dvab 🎤Conductor / Gestor deportivo 📍Perú / Manager ⬇️ 🇵🇪 @neopolisproducciones 🇨🇴 @itmjoserivera
-    location: "Peru"
-    followers: 68289
-    engagement: 117
-    commentsToLikes: 0.028769
-    id: ck137rr2cd27b0i19htzsroi0
-    verified: true
-    hashtags: "#colombia, #piura, #publicidad, #tenis"
-  - username: "javiermilei"
-    fullname: >-
-      Javier Milei
-    bio: >-
-      Querés aprender a invertir como un verdadero profesional? Capacítate con @nwprofessionaltraders 📈 Para información sobre las capacitaciones 👇🏻
-    location: "Peru"
-    followers: 1442463
-    engagement: 101
-    commentsToLikes: 0.029403
-    id: ck55julkvxs2x0i112lagjd81
-    verified: false
-    hashtags: ""
-  - username: "pattyschwarzoficial"
-    fullname: >-
-      Patricia Schwarzgruber
-    bio: >-
-      Venezolana🇻🇪 📥📥🇻🇪 contacto.patriciaschwarzgruber@gmail.com 🌎 Contacto/ Management: alex@palomeragroup.com @palomeragroup o @alepalomera1
-    location: "Peru"
-    followers: 2533936
-    engagement: 78
-    commentsToLikes: 0.014350
-    id: ck5c3zux90d1o0i111ux5j8q9
-    verified: true
-    hashtags: "#carlosaguilar, #evento, #caracas, #venezuela"
-  - username: "taliaechecopar"
-    fullname: >-
-      Talía Echecopar
-    bio: >-
-      Fashion & Lifestyle Creator My Brand: @_inmaculada 📍Lima Mira la nueva colección de mi marca de ropa aquí ✨ ⬇️
-    location: "Peru"
-    followers: 143310
-    engagement: 82
-    commentsToLikes: 0.019542
-    id: ck138g9vgg35s0i19a2m2hipf
-    verified: true
-    hashtags: "#modaperu, #moda, #styleinspo, #navidadperu"
+    hashtags: "#naturaenrockinrio, #publicidad, #porelmundocomoporlam, #hellokittycaf"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In United Arab Emirates In 2023
+title: Top 10 Mothers TikTok Influencers In United Arab Emirates In 2024
 description: >-
-  Find top mothers TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #fyp #foryou #foryoupage #dubai.
+  Find top mothers TikTok influencers in United Arab Emirates in 2024. Most popular hashtags: #fyp #foryou #foryoupage #dubai.
 platform: TikTok
-hits: 26
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 26 TikTok influencers like this in United Arab Emirates for you to contact.
+hits: 25
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our database has 25 TikTok influencers like this in United Arab Emirates for you to connect with.
 profiles:
   - username: "chynna_weird17"
     fullname: >-
@@ -79,18 +79,6 @@ profiles:
     id: ck9kg8v076sq10j78pyyq1x2n
     verified: false
     hashtags: "#dubai, #illu, #lovedose, #viral"
-  - username: "surbhiwaliqueen"
-    fullname: >-
-      Surbhi Wali
-    bio: >-
-      #ARCHERZMRSINDIA WINNER 2018| CHOREOGRAPHER |NATIONAL AWARD WINNER/SINGER/ANCHOR
-    location: "United Arab Emirates"
-    followers: 128200
-    engagement: 2112
-    commentsToLikes: 0.102224
-    id: ck903lnntdgy50j78s348zws1
-    verified: false
-    hashtags: "#surbhiw, #surbhiwali, #dubai, #styleaddictgirl"
   - username: "ihsan_maseed"
     fullname: >-
       just_ur😚
@@ -127,4 +115,16 @@ profiles:
     id: ckbw3otnmxbb40j23qhcz8kap
     verified: false
     hashtags: "#dance, #mydubai, #dubai, #funny"
+  - username: "shonidimpi"
+    fullname: >-
+      Dimps
+    bio: >-
+      Multitalented kudi❤️ Check the video out! https://www.youtube.com/watch?v=OSX
+    location: "United Arab Emirates"
+    followers: 281000
+    engagement: 979
+    commentsToLikes: 0.054744
+    id: ck8f82g0d3cn20j788bxihk2r
+    verified: false
+    hashtags: "#ownstyle, #dubailife, #wheretoeat, #uaelife"
 ---

@@ -1,24 +1,60 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Dallas In 2023
+title: Top 10 Fitness Instagram Influencers In Dallas In 2024
 description: >-
-  Find top fitness Instagram influencers in Dallas in 2023. Most popular hashtags: #fitness #dallas #fashion #model.
+  Find top fitness Instagram influencers in Dallas in 2024. Most popular hashtags: #fitness #dallas #fitnessmotivation #explorepage.
 platform: Instagram
-hits: 216
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database has 216 Instagram influencers like this in Dallas, United States for you to pitch.
+hits: 266
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 266 Instagram influencers like this in Dallas, United States for you to collaborate.
 profiles:
-  - username: "_iamnardi"
+  - username: "bartiseb"
     fullname: >-
-      𝐿 𝑜 𝓃 𝒹 𝑜 𝓃
+      Bartise Bowden
     bio: >-
-      ✝️ ✩𝐂𝐞𝐥𝐞𝐛𝐫𝐢𝐭𝐲 𝐁𝐚𝐫𝐛𝐞𝐫 ✩ 𝐂𝐄𝐎: @energycheck_ 𝐒𝐩𝐨𝐧𝐬𝐨𝐫𝐞𝐝: @goldpresidents 𝐌𝐨𝐝𝐞𝐥/𝐀𝐜𝐭𝐨𝐫 𝐁𝐞𝐬𝐭 𝐌𝐨𝐝𝐞𝐥 𝐨𝐟 𝟐𝟎𝟐𝟎: @dallasobserver 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: @j3productions_
+      Little bit of fitness, lots of fun Dallas, TX @netflix Book.bartise@gmail.com
     location: "United States"
-    followers: 26360
-    engagement: 658
-    commentsToLikes: 0.050330
-    id: ck6ttlh2ib9yc0j71ltu44oid
+    followers: 238321
+    engagement: 46
+    commentsToLikes: 0.013642
+    id: clid5neeazk410j08rhsux3st
     verified: false
-    hashtags: "#tattoo, #dallas, #fitlife, #fitness"
+    hashtags: "#fitness, #dallas, #motivation, #realitytv"
+  - username: "fashionablylateboymom"
+    fullname: >-
+      Letty | DFW Influencer
+    bio: >-
+      Fashion + Fitness + Food Obsessed with Tacos&Spicy Margaritas & Working Out 💌 Fashionablylateboymom@gmail.com 📍Dallas Tx
+    location: "United States"
+    followers: 17993
+    engagement: 70
+    commentsToLikes: 0.320487
+    id: ck5qaykpxixhm0i11xg3o2xkk
+    verified: false
+    hashtags: "#travelblogger, #ltkswim, #chicago, #ltk"
+  - username: "will.powerrr"
+    fullname: >-
+      Will Power - Life & Style Content Creator
+    bio: >-
+      Luxury Fashion Stylist - Neiman Marcus NorthPark @willpowerstyles Small business owner: @madebyeverjune & @cleanslate.creditrepair
+    location: "United States"
+    followers: 35632
+    engagement: 209
+    commentsToLikes: 0.048260
+    id: ckf5w53rgqvqp0j23og1798h7
+    verified: false
+    hashtags: "#happypridemonth, #dallasblogger, #dallasbloggers, #dallasinfluencer"
+  - username: "melaabooo"
+    fullname: >-
+      MELANIE ANABALON 🇦🇷💙
+    bio: >-
+      I LOVE JESUS ❤️ Certified Nutrition Coach🥝🍒🥑🍇 100% natural 📍 Dallas Let Me Help You Reach Your Fitness Goals ⬇️
+    location: "United States"
+    followers: 580571
+    engagement: 26
+    commentsToLikes: 0.015836
+    id: ck6tn4ewx94300j71b6nzzj3c
+    verified: false
+    hashtags: "#gym, #gymmotivation, #fitnessdallas, #25"
   - username: "ssajaner"
     fullname: >-
       Jasmine Rená
@@ -31,6 +67,30 @@ profiles:
     id: ck6tr7369xbeb0j71jtsskwr8
     verified: false
     hashtags: "#makeup, #waistbeads, #baldierevolution, #baddies"
+  - username: "aandrewwz"
+    fullname: >-
+      𝚊𝚗dr𝚎w ✰
+    bio: >-
+      tx | tiktok: @aandrewwz | 18 business inquiries // handrew492@gmail.com
+    location: "United States"
+    followers: 3528
+    engagement: 1513
+    commentsToLikes: 0.034110
+    id: ck8wehbuwe1xp0j78vs48em9s
+    verified: false
+    hashtags: "#tiktok, #explorer, #twitter, #california"
+  - username: "brysong_"
+    fullname: >-
+      Bryson G
+    bio: >-
+      Take your time viewing... @ireallyliveit | @frequenhz
+    location: "United States"
+    followers: 21557
+    engagement: 103
+    commentsToLikes: 0.044800
+    id: ck5q3loaflc5i0i11q6e7dohq
+    verified: false
+    hashtags: "#reddigitalcinema, #videoproduction, #bottledblonde, #podcast"
   - username: "dallas.lynn.fitness"
     fullname: >-
       DALLAS CUMMINGS
@@ -42,89 +102,29 @@ profiles:
     commentsToLikes: 0.013551
     id: ckap621nne4ox0i782ao272t6
     verified: false
-    hashtags: "#duespaid, #legionofboom, #getshitdone, #letsdothis"
-  - username: "_brianaferguson"
+    hashtags: "#75hard, #iam1stphorm, #1stphormathletesearch, #workhardplayhard"
+  - username: "james_baldwin37"
     fullname: >-
-      
+      James Baldwin | Fitness Coach
     bio: >-
-      Proverbs 3:5 | All limitations are self imposed
+      Owner/CEO🏋🏾‍♂️: @fliptheswitchfit 🏀 📸 : @dallasmavsshop ⚾️: @rangers | Brand Partner #USAPL 90kg Powerlifter 🍲 : @theprepkitchen Click Link Below 👇🏾
     location: "United States"
-    followers: 15004
-    engagement: 1531
-    commentsToLikes: 0.030769
-    id: ck9han2dqd6c70j78cqhwh2q2
+    followers: 9889
+    engagement: 1604
+    commentsToLikes: -0.585703
+    id: cl5j74dqe6y080i23c9sl81cn
     verified: false
-    hashtags: "#daily, #curlyhair, #fitnessmotivation, #throwback"
-  - username: "ashley.marie.model"
+    hashtags: "#dallasfitness, #fliptheswitch, #onlinetraining, #exercise"
+  - username: "jvana.xo"
     fullname: >-
-      🌺A S H L E Y  M A R I E🌺
+      J U A N A
     bio: >-
-      📷PUBLISHED MODEL 📍USA ⛳️Golfer 💌DM FOR BUSINESS INQUIRES 🎯OWNER: @countrygirl.knockouts ❌I DO NOT HAVE BACKUP ACCOUNTS❌
+      wellness lifestyle | mom + wife tx 🇲🇽 💌 jvanatorres@icloud.com
     location: "United States"
-    followers: 203334
-    engagement: 340
-    commentsToLikes: 0.032810
-    id: ck5c4kpe81k1o0i11o8gmbv6a
+    followers: 51200
+    engagement: 78
+    commentsToLikes: 0.004535
+    id: cl4h6ptm8rjik0i23isyus9da
     verified: false
-    hashtags: "#norwegiangirl, #love, #beautiful, #legs"
-  - username: "lawrencepgivens"
-    fullname: >-
-      Lawrence P Givens
-    bio: >-
-      #BlackPhotographer Published #Editorial #Campaign #Ad #CreativeDirector #Photographer #Fashion #Beauty #Luxury 📍#Miami #NYC #LA #CHI #Global DM us
-    location: "United States"
-    followers: 23349
-    engagement: 126
-    commentsToLikes: 0.067156
-    id: ck14igqfffbfl0i19q94nls3q
-    verified: false
-    hashtags: "#bridalfashionweek, #miami, #photographer, #abs"
-  - username: "mya.curvz"
-    fullname: >-
-      𝑀𝓎𝑒𝓈𝒽𝒶 𝐵𝑜𝓊𝓁𝓉𝑜𝓃
-    bio: >-
-      Chicago ✈️ Dallas 📍 •Brand Ambassador •MY ONLY BACKUP ACCOUNT @mya.curvz.official
-    location: "United States"
-    followers: 849653
-    engagement: 324
-    commentsToLikes: 0.028128
-    id: ck9hd19y3nqpk0j78403mr4fn
-    verified: false
-    hashtags: "#picoftheday, #instagram, #hair, #nails"
-  - username: "coreycoleman"
-    fullname: >-
-      AGENT19
-    bio: >-
-      Dallas Made | Baylor | NUPE ♦️| Biletnikoff Winner| | Business Contact: @DavidMulugheta New York Giants Owner🏋🏾: @untitledfitnesslab
-    location: "United States"
-    followers: 125954
-    engagement: 436
-    commentsToLikes: 0.020287
-    id: ck0u7hknb4prp0i19e522270f
-    verified: true
-    hashtags: "#moti, #grandprairietxtrainer, #blessedtoseeanotheryear, #dallastrainer"
-  - username: "laceyaknight"
-    fullname: >-
-      Lacey Knight
-    bio: >-
-      All to Him I owe🙌🏼 Dallas Cowboys Cheerleader ‘14-‘19 Wifey to @trevor_knight9 💋 📍Dallas, TX ✨Email for info on private dance lessons &/or collabs!
-    location: "United States"
-    followers: 54803
-    engagement: 636
-    commentsToLikes: 0.010813
-    id: ck5zq2esett2g0i14btn33vpj
-    verified: false
-    hashtags: "#texas, #dallas, #family, #embraceyourskin"
-  - username: "erbanegalore"
-    fullname: >-
-      Erbane
-    bio: >-
-      𝗗𝗿𝗲𝗮𝗺. 𝗪𝗿𝗶𝘁𝗲. 𝗦𝗵𝗼𝗼𝘁. 𝗘𝗱𝗶𝘁. 𝗦𝗲𝗻𝗱. Cinematographerrr | Editor | Colorist | Content Creator 🚨BobbyV - Reply ⬇️⬇️⬇️
-    location: "United States"
-    followers: 44857
-    engagement: 428
-    commentsToLikes: 0.008573
-    id: ck5q388rqjoxp0i11hebfyzwa
-    verified: false
-    hashtags: "#bmpcc4k, #blackfemalefilmmakers, #djimavicair2, #videoproduction"
+    hashtags: "#wifey, #mexicanfood, #gymmotivation, #dinner"
 ---

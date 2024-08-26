@@ -1,24 +1,24 @@
 ---
-title: Top 10 Fitness Instagram Influencers In San Francisco In 2023
+title: Top 10 Fitness Instagram Influencers In San Francisco In 2024
 description: >-
-  Find top fitness Instagram influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #fitness #miami #fitnessjourney.
+  Find top fitness Instagram influencers in San Francisco in 2024. Most popular hashtags: #sanfrancisco #fitness #bayarea #running.
 platform: Instagram
-hits: 85
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our platform has 85 Instagram influencers like this in San Francisco, United States for you to collaborate.
+hits: 101
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 101 Instagram influencers like this in San Francisco, United States for you to connect with.
 profiles:
-  - username: "healthymoodsf"
+  - username: "keneats_"
     fullname: >-
-      L Y A N A ♡
+      kenya // sf + bay area foodie 😋
     bio: >-
-      Circassian | real food easy recipes made with simple ingredients | wife | mama to Aysha and Safiya | fitness enthusiast 📍San Francisco - Bentonville
+      📸 Food | Lifestyle | Travel | Fitness 📍San Francisco Bay Area 💌 kkeneats@gmail.com
     location: "United States"
-    followers: 179350
-    engagement: 119
-    commentsToLikes: 0.055172
-    id: ck0ueayzil1kl0i19bugxsruj
+    followers: 5500
+    engagement: 393
+    commentsToLikes: 0.198277
+    id: clhdzrbz2rck80j08qiop2wm7
     verified: false
-    hashtags: "#nationalavocadoday, #avocado, #colorado, #bhsimplicity"
+    hashtags: "#sffood, #italianfood, #sanfrancisco, #nikon"
   - username: "babybu9"
     fullname: >-
       Babybug
@@ -31,30 +31,66 @@ profiles:
     id: ck0ub8gv5dzb30i19utladh4y
     verified: false
     hashtags: "#escobarboxing, #health, #discipline, #mitts"
-  - username: "klw_fitnesss"
+  - username: "morgandallas13"
     fullname: >-
-      Kelli Ward, RN, BSN
+      Morgan | Run & Strength Coach
     bio: >-
-      💪🏼 Fit-ish 💉 ICU Travel Nurse 📍AVL ➡️ ATL ➡️ MIA ➡️ SFO DAS Labs’ BRAND AMBASSADOR / KLW20 @banditathletics / KLW20
+      🏃🏻‍♀️🧗🏻‍♀️🚴🏻‍♀️Endorphin Enthusiast Adventures on & off trail ⛰️ ⏱ Coaching @morgansathleticprogram #coachmorgan #femalesontrails
     location: "United States"
-    followers: 5388
-    engagement: 1313
-    commentsToLikes: 0.147134
-    id: ckapb4m4eyjuq0i78ba9jdp98
+    followers: 9295
+    engagement: 331
+    commentsToLikes: 0.027213
+    id: cl2s8olxzt3es0i23w2f8jqvb
     verified: false
-    hashtags: "#travelnurse, #ootd, #fitnesssfmarin, #wodoftheday"
-  - username: "huel_oliveira"
+    hashtags: "#runsf, #morgansathleticprogram, #100miler, #womenwhoadventure"
+  - username: "sonya_neks_"
     fullname: >-
-      huel
+      Fitness motivator | Health Influencer | Sonya Nikolaenkova
     bio: >-
-      Living and learning!
+      Fitness motivator,actress,dancer 📍Los Angeles Dance with me @neks_dance PR/Реклама:sonyaneks@avtormedia.ru
     location: "United States"
-    followers: 219246
-    engagement: 70
-    commentsToLikes: 0.016570
-    id: ck5hk3mvhhq9z0i11kc1hfool
+    followers: 1132352
+    engagement: 166
+    commentsToLikes: 0.005176
+    id: ck5hqrx0btm9o0i11geh3obmr
     verified: false
-    hashtags: "#tbt, #male, #huel, #enjoylife"
+    hashtags: "#la, #lavibes, #california, #losangeles"
+  - username: "hauskris"
+    fullname: >-
+      Kristen Hollingshaus
+    bio: >-
+      wfh, beauty, fashion, fitness & things I love! 📍San Francisco 💌 contact@hauskris.com LINKS ⬇️
+    location: "United States"
+    followers: 172007
+    engagement: 265
+    commentsToLikes: 0.033106
+    id: cl0m89z5fn7lh0i23ou440s7z
+    verified: false
+    hashtags: "#ad, #therisetheshine, #morningroutine, #packwithme"
+  - username: "healthymoodsf"
+    fullname: >-
+      Lyana Begret See
+    bio: >-
+      Easy nourishing recipes. Circassian. Wife, mom, creator, fitness lover, breakfast enthusiast. 📍San Francisco, Bay Area Email: healthymoodsf@gmail.com
+    location: "United States"
+    followers: 802932
+    engagement: 176
+    commentsToLikes: 0.017147
+    id: ck0ueayzil1kl0i19bugxsruj
+    verified: false
+    hashtags: "#pancakes, #snackidea, #reels, #glutenfreefood"
+  - username: "pietra_luccas"
+    fullname: >-
+      Piêtra Luccas
+    bio: >-
+      San Francisco 📍 Lifestyle • Fitness • Fashion Dog 🐶 mom @greatcharliedane @precioso_yachts & @solbeauty2022 👙
+    location: "United States"
+    followers: 1716418
+    engagement: 102
+    commentsToLikes: 0.007611
+    id: ck5hqne80te2p0i115obqyz9r
+    verified: false
+    hashtags: "#justcbd, #ad, #sponsored, #singapore"
   - username: "vanessao_sf"
     fullname: >-
       Vanessa Ouellette ❤️
@@ -66,55 +102,7 @@ profiles:
     commentsToLikes: 0.114704
     id: ck8t07hy0r2w00j78uc1e8xe8
     verified: false
-    hashtags: "#dogsofinstagram, #dogmom, #puppylove, #happy"
-  - username: "cryssaboo"
-    fullname: >-
-      Cryssa 🌺🐉
-    bio: >-
-      Mandalorian ABG 💜💙👾🎮 ⚕️🔫🏋🏽‍♀️🥊🤍💚
-    location: "United States"
-    followers: 15647
-    engagement: 664
-    commentsToLikes: 0.022248
-    id: ck5chej43qmhq0i1149b8h4xm
-    verified: false
-    hashtags: "#tactical, #muaythai, #crossfit, #bobafett"
-  - username: "rjarevalo"
-    fullname: >-
-      RENÉ ARÉVALO
-    bio: >-
-      Instagram @rene_arevalo_ .Digital Graphic Designer Engineer from Sonora. Photography, Art, Nudes & Body Paint!
-    location: "United States"
-    followers: 8200
-    engagement: 597
-    commentsToLikes: 0.019740
-    id: ck5zq9fnpu6p50i14nr69q03k
-    verified: false
-    hashtags: "#sanfrancisco, #handsome, #model, #man"
-  - username: "acausi"
-    fullname: >-
-      Anthony Causi
-    bio: >-
-      Sports / Portrait / Food Canon New York
-    location: "United States"
-    followers: 19705
-    engagement: 1177
-    commentsToLikes: 0.027676
-    id: ck5qcqwt8rwo00i11jqj2kaoa
-    verified: false
-    hashtags: "#kansascitychiefs, #springtraining, #la, #champions"
-  - username: "kel.sey.brooke"
-    fullname: >-
-      Kelsey Brooke
-    bio: >-
-      
-    location: "United States"
-    followers: 3753
-    engagement: 539
-    commentsToLikes: 0.053338
-    id: ck8t3g4nf34fq0j78bcyy9jbk
-    verified: false
-    hashtags: "#portraits, #fitfam, #girlswhodeadlift, #alphaleteathletics"
+    hashtags: "#barrys, #puppylove, #dogsofinstagram, #happy"
   - username: "blaselias"
     fullname: >-
       Blas Elias
@@ -127,4 +115,16 @@ profiles:
     id: ck600u8zzea3n0i14lg5d151r
     verified: false
     hashtags: "#transsiberianorchestra, #rolanddrums, #drums, #dwdrums"
+  - username: "awaisjafar"
+    fullname: >-
+      Awais Jafar
+    bio: >-
+      📍 San Francisco | New York | Chicago 🏋️‍♀️ pushing limits of Natty Lifting ✖️ PhD in Computer Science 🖥️ Machine learning Engineer
+    location: "United States"
+    followers: 155103
+    engagement: 2452
+    commentsToLikes: 0.020573
+    id: ck8t4l4yi75go0j78gg7i2k5v
+    verified: false
+    hashtags: "#gymjunkie, #reeltrends, #fashionmodels, #fitnessmodel"
 ---

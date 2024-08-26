@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Austria In 2023
+title: Top 10 Travel TikTok Influencers In Austria In 2024
 description: >-
-  Find top travel TikTok influencers in Austria in 2023. Most popular hashtags: #travel #austria #fyp #foryou.
+  Find top travel TikTok influencers in Austria in 2024. Most popular hashtags: #travel #austria #fyp #foryou.
 platform: TikTok
 hits: 32
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our database has 32 TikTok influencers like this in Austria for you to work with.
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 32 TikTok influencers like this in Austria for you to work with.
 profiles:
   - username: "vivianereinhardt__"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.021373
     id: cka0k7oiclg2z0i788fb0dcxu
     verified: false
-    hashtags: "#travelgreece, #foryou, #reiseblogger, #4you"
+    hashtags: "#reiseblogger, #santorini, #4you, #foryou"
   - username: "exploringwithdaniel"
     fullname: >-
       ExploringWithDaniel

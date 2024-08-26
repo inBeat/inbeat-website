@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Tokyo In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Tokyo in 2023. Most popular hashtags: #art #tattoo #japan #tattooart.
+  Find top tattoo-artists Instagram influencers in Tokyo in 2024. Most popular hashtags: #art #tattoo #japan #tattooartist.
 platform: Instagram
 hits: 7
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database has 7 Instagram influencers like this in Tokyo, Japan for you to pitch.
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 7 Instagram influencers like this in Tokyo, Japan for you to contact.
 profiles:
   - username: "bizentattoo"
     fullname: >-

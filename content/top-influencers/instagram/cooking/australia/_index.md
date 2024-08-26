@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Australia In 2023
+title: Top 10 Cooking Instagram Influencers In Australia In 2024
 description: >-
-  Find top cooking Instagram influencers in Australia in 2023. Most popular hashtags: #sydneyfoodblogger #afternoontea #homemade.
+  Find top cooking Instagram influencers in Australia in 2024. Most popular hashtags: #recipe #recipes #food.
 platform: Instagram
-hits: 73
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 73 Instagram influencers like this in Australia for you to work with.
+hits: 203
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 203 Instagram influencers like this in Australia for you to pitch.
 profiles:
-  - username: "morganhipworth"
+  - username: "marys_kouzina"
     fullname: >-
-      Morgan Hipworth
+      Mary’s Kouzina
     bio: >-
-      probably cooking somewhere owner: @bistromorgan 📖 Made by Morgan out October 📖 mgmt: @imgtalent | sarah.richards@img.com
+      Preserving traditional Greek cooking & being creative with it. 🌀 🍋 🌺 🐝 Teacher & Artist. Creating art for your kitchen. Visit the collection:
     location: "Australia"
-    followers: 109324
-    engagement: 808
-    commentsToLikes: 0.020011
-    id: ck0w5erbq3aiw0i19u85cnsa1
+    followers: 164084
+    engagement: 460
+    commentsToLikes: 0.030690
+    id: ck8t4vzcm828a0j78n5pteebs
+    verified: false
+    hashtags: "#greekeaster, #simplerecipes, #fillo, #love"
+  - username: "mrfresh"
+    fullname: >-
+      Harley Fresh
+    bio: >-
+      i play games and look at crypto all day, currently cooking | 22 | #1 Twitch AUS 🇦🇺🐉
+    location: "Australia"
+    followers: 1503270
+    engagement: 756
+    commentsToLikes: 0.018512
+    id: ck9hcuunvn2hs0j78ghk92mvw
     verified: true
-    hashtags: "#asmr, #picspeanutbutter, #picspeanutchocolatebutter, #genyd"
-  - username: "cookedbyalexandra"
+    hashtags: "#onepluspartner, #ad, #vanguard, #asus"
+  - username: "firetofork"
     fullname: >-
-      Alexandra 🧿 Food blogger
+      Harry Fisher
     bio: >-
-      🇦🇺🇬🇷🇨🇾 I teach people how to cook | Simple home cooking Subscribe to my YouTube channel👇
+      Adventure Cooking, all on fire Bad jokes, good food and a soccer mum car. Book, YouTube, Website and I’m on the telly sometimes 👇
     location: "Australia"
-    followers: 19121
-    engagement: 329
-    commentsToLikes: 0.116834
-    id: ck9wd32vsduq90j787cpk26bs
+    followers: 66865
+    engagement: 374
+    commentsToLikes: 0.043422
+    id: ck5c77awx6yqv0i11ul0c943a
     verified: false
-    hashtags: "#saundersmalt, #gifted, #takeyournutritiontothenextlevel, #saundersmaltextract"
-  - username: "afsheenowais"
+    hashtags: "#cubfrontier, #prado150, #camping, #firetofork"
+  - username: "vyenfoodmadness"
     fullname: >-
-      Blessed with the Best Mommy
+      Melbourne Foodie | Vyen
     bio: >-
-      #sweettreatsbyafsheen 🔹Mommy Life with2️⃣munchkins👨‍👩‍👧‍👦 🔹Easy cooking tutorials 🔹Chai is Life☕️ 🔹Food|Lifestyle|Photography📸 📍UAE🇦🇪/PAK🇵🇰/Aus🇦🇺
+      🇲🇾🇦🇺 here to inspire you to explore different food thru eating out & home cooking 🤍 sharing some date ideas & positive vibes 💌 DM for collabs/bz
     location: "Australia"
-    followers: 32550
-    engagement: 511
-    commentsToLikes: 0.198996
-    id: ck5pw3wplkz1b0i11xno2l07p
+    followers: 5405
+    engagement: 336
+    commentsToLikes: 0.160757
+    id: cloxoh3ko01jh0j08ol4u52sj
     verified: false
-    hashtags: "#gharkakhana, #pakistanifashion, #uaefoodbloggers, #australianblogger"
-  - username: "my_food_is_my_passion"
+    hashtags: "#melbournefoodie, #melbournecoffee, #melbournecafe, #melbournerestaurants"
+  - username: "melinabagnato"
     fullname: >-
-      
+      Melina Bagnato - STYLE & LIFE COACH
     bio: >-
-      🇦🇺 Australian and Italian 🇮🇹 ✈ Qantaslink Cabin Crew 🍦 My Featured Recipes - Gelista Gelati and Gomersal Wines 🍷 🥞 My Journey on Home Cooking ❤ Life
+      💋CEO & style/confidence coach at @stylemeover 💋 I share all things FASHION, COOKING, MOTHERHOOD, WOMANHOOD, ADHD & HUMOUR 💋MY WEBSITE 👇🏻
     location: "Australia"
-    followers: 2844
-    engagement: 1367
-    commentsToLikes: 0.251578
-    id: ck5c6jv775lao0i11z8cz5vir
+    followers: 18154
+    engagement: 253
+    commentsToLikes: 0.088169
+    id: cksj8f5jtcd5w0j238inug7at
     verified: false
-    hashtags: "#chilli, #basil, #ovenbaked, #pasta"
+    hashtags: "#familyday, #popyour, #authenticshare, #hawskburyriver"
+  - username: "korkyskitchenofficial_"
+    fullname: >-
+      Amirah korkmaz
+    bio: >-
+      When cooking and laughter come together CEO OF LEK ROUHHH Sydney based 📍 For collaborations please email Korkyskitchenofficial@gmail.com
+    location: "Australia"
+    followers: 46697
+    engagement: 148
+    commentsToLikes: 0.233054
+    id: clb7mp46m6f680i23yzqebnm1
+    verified: false
+    hashtags: "#recipes, #warm, #eeeeeats, #family"
   - username: "foodtravelandaredhead"
     fullname: >-
       Marianna Tuccia 👩🏻‍🦰
     bio: >-
       📍Sydney 🍰Easy Recipes #CookingByMarianna 🇮🇹Food + Travel + Sophia Loren ✍🏻DM/email for ¢σℓℓαвѕ + ιиνιтєѕ 💌marianna@mariannaskitchen.com
     location: "Australia"
-    followers: 32799
-    engagement: 277
-    commentsToLikes: 0.115367
+    followers: 33804
+    engagement: 140
+    commentsToLikes: 0.098045
     id: ck5zsg6k3yfnt0i149r1z6731
     verified: false
-    hashtags: "#amomentofwonder, #healthychoices, #verilymoment, #easyrecipes"
-  - username: "brisahennessy"
+    hashtags: "#dolciitaliani, #invite, #slowandsimpledays, #vintagestyle"
+  - username: "justinnarayan"
     fullname: >-
-      Brisa Hennessy
+      Justin Narayan
     bio: >-
-      @wsl WCT surfer #99 Tokyo 2021 Olympics🇨🇷 Cooking is my other passion :)🌱based. Costa Rica/Hawaii/Fiji✨ Business inquiries: andrew@athelogroup.com
+      Winner MasterChef 2021 Enquires: hello@justinnarayan.cooking Ambassador: @ironcladpan 🍳 @chefsedgeau 🔪
     location: "Australia"
-    followers: 61798
-    engagement: 437
-    commentsToLikes: 0.014850
-    id: ck0vzef5h8p760i1960ul1z5o
+    followers: 128275
+    engagement: 140
+    commentsToLikes: 0.020586
+    id: clabnyt51sihg0i23aoqq6iyt
+    verified: false
+    hashtags: "#hottestchilliintheworld, #vegan, #sponsored, #hotsauce"
+  - username: "foodcoma_eats"
+    fullname: >-
+      Jesse Freeman▪That Burger Guy
+    bio: >-
+      Socials Content and Management: @the.socials.experiment 🤳 Home-cooking and Local Feeds 🍔 Sydney 🇦🇺 Mrs Coma: @kira_freeman__
+    location: "Australia"
+    followers: 342615
+    engagement: 115
+    commentsToLikes: 0.010344
+    id: ck0tunc3r7v1z0i191rpjvk50
+    verified: false
+    hashtags: "#foodpornshare, #collaroy, #sydneyfood, #tasty"
+  - username: "silviacollocaofficial"
+    fullname: >-
+      Silvia Colloca
+    bio: >-
+      • On @spotify and @applemusic All the singing, cooking, acting and Italianing For collabs press email button
+    location: "Australia"
+    followers: 131155
+    engagement: 116
+    commentsToLikes: 0.026867
+    id: ck5hdyuqbq3zm0i11lbohx2hx
     verified: true
-    hashtags: "#31moments, #smathleteambassador"
-  - username: "jaydeheiser"
-    fullname: >-
-      Jayde Heiser
-    bio: >-
-      Spread love and kindness only 🌼💕💓✨🌸🌈 Australian Model 🇦🇺 @scoopmanagement Sydney 📍 @jd_creates for all my cooking 👩‍🍳
-    location: "Australia"
-    followers: 200853
-    engagement: 114
-    commentsToLikes: 0.028953
-    id: ck5c6qx7460ab0i11hhr5jhqy
-    verified: false
-    hashtags: "#amore, #love, #happiness, #valentines"
-  - username: "analiesegregory"
-    fullname: >-
-      Analiese gregory
-    bio: >-
-      Chef, author, kiwi, living in rural Tasmania. Diving, gardening, cooking, writing, farming and filming a show. Book: How wild things are order👇🏼
-    location: "Australia"
-    followers: 25659
-    engagement: 136
-    commentsToLikes: 0.024556
-    id: ck6tm95b27ekm0j7147b9397q
-    verified: false
-    hashtags: "#notanad, #ijustreallylikeit"
-  - username: "marieuva"
-    fullname: >-
-      MARIE UVA
-    bio: >-
-      Hairstylist & Director @uvasalon WELLA CREATIVE DIRECTOR Ambassador GHD&AMAZING HAIR ✉️marie@uvasalon.com PR gemma@itsallg.com.au COOKING @cucinauva
-    location: "Australia"
-    followers: 35356
-    engagement: 96
-    commentsToLikes: 0.058157
-    id: ck0vzbt688bi60i1975xs91pr
-    verified: false
-    hashtags: "#wellatrendvision, #helios, #uvasalonblondeseries, #hairbyuva"
-  - username: "pelepels"
-    fullname: >-
-      P E L E  B E N N E T T
-    bio: >-
-      SuperMom|3mermaids @pencilsonpaperclub 🙏🏽 SuperWife|@mosesbread72 ♥️ SuperLife|Samoan🇦🇸 Podcaster|Mouthpeace 🎤👩🏽‍🍳Seki Cooking|YouTube
-    location: "Australia"
-    followers: 7612
-    engagement: 316
-    commentsToLikes: 0.053814
-    id: ck134m0jsx3430i19nd4idxoj
-    verified: false
-    hashtags: "#podcasting, #mouthpeace, #nfl, #podcast"
+    hashtags: "#silviacolloca, #italy, #abruzzo, #myhome"
 ---

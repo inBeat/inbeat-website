@@ -1,36 +1,48 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Bali In 2023
+title: Top 10 Fitness Instagram Influencers In Bali In 2024
 description: >-
-  Find top fitness Instagram influencers in Bali in 2023. Most popular hashtags: #bali #fitness #balilife #gym.
+  Find top fitness Instagram influencers in Bali in 2024. Most popular hashtags: #bali #baliindonesia #fitness #fitnessmotivation.
 platform: Instagram
-hits: 33
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 33 Instagram influencers like this in Bali, Indonesia for you to pitch.
+hits: 58
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 58 Instagram influencers like this in Bali, Indonesia for you to work with.
 profiles:
-  - username: "rian_syakbani"
+  - username: "chitrachef"
     fullname: >-
-      
+      Chef Chitra
     bio: >-
-      📍 BALI 🏝 - LOMBOK • CERTIFIED COACH • CONTENT CREATOR • BA @muscletech.indonesia • BUSINESS & INQUIRY 📩
+      Holistic Chef Food is Medicine Health Enthusiast Vegan & Gluten Free Recipe YouTube : Chef Chitra
     location: "Indonesia"
-    followers: 34826
-    engagement: 475
-    commentsToLikes: 0.016640
-    id: ckapatppixfcq0i78g62rxvwn
-    verified: false
-    hashtags: "#personaltraining, #manpysique, #modelmajalahdewasa, #baliisland"
-  - username: "bobbyida"
-    fullname: >-
-      ⏩2Ninefit Indonesia⏪
-    bio: >-
-      Indonesian Fitness Youtuber 🇮🇩 Model / IFBB Athlete / Content Creator ANS Performance Athlete WALKING ON WATER 🌊 MAT 14:22-33 🙏 Bali | Indonesia
-    location: "Indonesia"
-    followers: 270989
-    engagement: 186
-    commentsToLikes: 0.013609
-    id: ck5zkkpwyjno50i14s7rwxzhi
+    followers: 100802
+    engagement: 672
+    commentsToLikes: 0.039764
+    id: ck6txw6om07gq0j71zn03ugly
     verified: true
-    hashtags: "#suamiistri, #asians, #fam, #dirumahaja"
+    hashtags: "#podcast, #thespiceguy, #healthyfood, #woman"
+  - username: "katenotcate"
+    fullname: >-
+      Kate Hendley, NBC-HWC, INHC
+    bio: >-
+      : national board certified health & wellness coach : founder @wellspringbykate 🌿 : a ~realistic~ pov on nutrition, health, ed recovery & lifestyle 💕
+    location: "Indonesia"
+    followers: 2925
+    engagement: 1041
+    commentsToLikes: 0.047237
+    id: clnno1oxn21bz0j08pz5ao4xx
+    verified: false
+    hashtags: "#mindbodyspirit, #fitnessjourney, #wellness, #balanceiskey"
+  - username: "annetteyules"
+    fullname: >-
+      𝐀𝐍𝐍𝐄𝐓𝐓𝐄 𝐘𝐔𝐋𝐄𝐒
+    bio: >-
+      #ANETWORKOUT #ANETGETAWAY 💪🏼 @go_fitlife ✨ @vipskincenter
+    location: "Indonesia"
+    followers: 18382
+    engagement: 176
+    commentsToLikes: 0.041661
+    id: ck8t0ftgfrxe20j780tw12qti
+    verified: false
+    hashtags: "#workoutmotivation, #anetworkout, #explorebali, #baliisland"
   - username: "_linds_schieppati_"
     fullname: >-
       Lindsey Hansen Schieppati
@@ -43,18 +55,18 @@ profiles:
     id: ck5hhgtk785ed0i11o4orji56
     verified: false
     hashtags: "#riseabovefitness, #thorisfamous, #bleedingthrough, #fitness"
-  - username: "tonymosche"
+  - username: "juliargds"
     fullname: >-
-      Tony Mosche-Callahan
+      Julia RGDS || Lifestyle | Fitness| Travel Influencer Bali
     bio: >-
-      photographer • writer • socials manager ✡︎ jewish boi in bali ✚ piccy page: @shotsbytonyc ↡ at @fox_mulder_tattoo or somewhere with @ilkz
+      Top 6 @missuniverseindonesia_bali 🎓@indonesiacerdas.id 🏋🏾‍♀️ @s2scrossfit_bali 👧🏻 @nmwskincare ✨@samapura_jewelry 🦋@maybetonightroomandbikerental
     location: "Indonesia"
-    followers: 7236
-    engagement: 76
-    commentsToLikes: 0.213457
-    id: ck5c2gdqwx7i50i11r8a3o8a0
+    followers: 17648
+    engagement: 34
+    commentsToLikes: 0.044144
+    id: ck5q85gqo4j7y0i11e4a49t5p
     verified: false
-    hashtags: "#anzeige, #reels"
+    hashtags: "#ustrip, #membangunmimpianakbangsa, #indonesiacerdas, #dysonhair"
   - username: "jadejoselyn"
     fullname: >-
       Jade | Fitness Coach📍 Bali
@@ -67,64 +79,52 @@ profiles:
     id: ck5q261l2efwr0i11yqwnwndb
     verified: false
     hashtags: "#gratefuleveryday, #swipeworkouts, #shoulderworkouts, #oxyshred"
-  - username: "wiolettatuschnio"
+  - username: "rian_syakbani"
     fullname: >-
-      wioletta ⋮ weight gain coach
+      Rian_syakbani
     bio: >-
-      ⟡ from an insecure girl to a self-empowered woman living on an island ⋒ sharing tips for a healthy & conscious lifestyle & teasing you with vegan food
+      📍BALI - 🏝 LOMBOK •FITNESS MODEL •COACH •BA @muscletech.indonesia @bataracoffe •CONTEN CREATOR •BUSSINES & INQUIRIES 📩
     location: "Indonesia"
-    followers: 23386
-    engagement: 374
-    commentsToLikes: 0.044392
-    id: ck0ttg76y2kre0i19q8ixjxqe
+    followers: 42440
+    engagement: 261
+    commentsToLikes: 0.020804
+    id: ckapatppixfcq0i78g62rxvwn
     verified: false
-    hashtags: "#fitness, #veganbody, #selflove, #workoutmotivation"
-  - username: "pipitdjatma"
+    hashtags: "#balihits, #lombok, #beach, #lombokisland"
+  - username: "juhisethi__"
     fullname: >-
-      Pipit Djatma 🤍🖤
+      LadyBoss👽🧿
     bio: >-
-      JKT - BALI Digital community builder entrepreneur Fitness enthusiast #cancersurvivor @naya.jkt @wfh.kitchen @cuanesia.id @ibufoundation @sahabatanak
+      Travel/Lifestyle/FashionInfluencer 🫶🏻 Coach: Manifestation & Vision boards Location: Nagpur/Bombay {Paid Collaborations) @youniverse_holistic_healing
     location: "Indonesia"
-    followers: 60300
-    engagement: 120
-    commentsToLikes: 0.010095
-    id: ck5qa03epdvri0i11jg3gwd6a
+    followers: 17872
+    engagement: 155
+    commentsToLikes: 0.015430
+    id: ck5c4nrmw1qa80i118ea9ijkx
     verified: false
-    hashtags: "#dukungdalamjarak, #gerakanmaskerkain, #jagajarak, #killthegermsnotthevibe"
-  - username: "ikasanz"
+    hashtags: "#trendingreels, #trendingnow, #likesforlike, #reels"
+  - username: "lost.with.clo"
     fullname: >-
-      Ikasanz Yoe ♠️
+      Clarisse Debian 🌴
     bio: >-
-      ●》INFLUENCER《● [ Fitness Enthusiast , Beauty & Healthy Lifestyle ] ENDORSE // COLLABS DM 💌 https://affiliate.shopee.co.id/ 📍 BALI 🥥🌴
+      turning virtual streets into stages ılıılıılı 🎙️ CLO ‎ بيروت • Bali
     location: "Indonesia"
-    followers: 53312
-    engagement: 224
-    commentsToLikes: 0.142564
-    id: ck9wgk1f5trp10j78o2ldtyun
+    followers: 52436
+    engagement: 136
+    commentsToLikes: 0.195036
+    id: ckap5qo11cr560i78ttrcanwh
     verified: false
-    hashtags: "#balivibes, #fitnessmom, #styleblogger, #balibible"
-  - username: "yuliabaltschun"
+    hashtags: "#baliindonesia, #beautifuldestinations, #staycation, #tropical"
+  - username: "benbrayy_newgen"
     fullname: >-
-      Yulia Baltschun
+      BEN BRAY | ONLINE COACH 🇬🇧🇦🇪
     bio: >-
-      🍍BUSSINES CONTACT WA : 081 299 899 102 . 📍Bali Mom Of 2 Happy Boys Certified FITNESS & DIET Specialist TOP 3 Masterchef-Indo 4 . YOUTUBE :
+      ➖| Founder @newgencoaching ➖| 2000+ Transformations 🔪🚀 ➖| Coaching Enquiries 👇🏻
     location: "Indonesia"
-    followers: 629375
-    engagement: 264
-    commentsToLikes: 0.014239
-    id: ck135lvz9222w0i19ujfq8zkp
-    verified: true
-    hashtags: "#dietyulia, #tipsdiet, #ihatediet, #motivasihidup"
-  - username: "tothedgetraveler"
-    fullname: >-
-      Reski - Bali 🥥
-    bio: >-
-      𝗔𝘁𝘁𝗮𝗰𝗵𝗲𝗱 𝘁𝗼 @dianaa_irma ♡ •• 22 | GYM | FITNESS Business Inquiries ⇊
-    location: "Indonesia"
-    followers: 10090
-    engagement: 484
-    commentsToLikes: 0.071068
-    id: ck0w5vb2w5lip0i19jkofhgvi
+    followers: 101338
+    engagement: 102
+    commentsToLikes: 0.034642
+    id: cl4kugxfvsov00i234vyn89xw
     verified: false
-    hashtags: "#treehouselivingbali, #bali, #halusehatdirumah, #musclefirst"
+    hashtags: "#bodybuilder, #fitnessjourney, #mensphysique, #bodybuilding"
 ---

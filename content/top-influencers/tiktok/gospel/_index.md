@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gospel TikTok Influencers In 2023
+title: Top 10 Gospel TikTok Influencers In 2024
 description: >-
-  Find top gospel TikTok influencers in 2023. Most popular hashtags: #fyp #jesus #foryou #love.
+  Find top gospel TikTok influencers in 2024. Most popular hashtags: #fyp #foryou #jesus #love.
 platform: TikTok
-hits: 371
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our database aggregates 371 TikTok influencers like this for you to connect with.
+hits: 372
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 372 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "souls4jesus"
     fullname: >-

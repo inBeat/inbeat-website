@@ -1,36 +1,24 @@
 ---
-title: Top 10 Fashion TikTok Influencers In San Francisco In 2023
+title: Top 10 Fashion TikTok Influencers In San Francisco In 2024
 description: >-
-  Find top fashion TikTok influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #fashion #fyp #greenscreen.
+  Find top fashion TikTok influencers in San Francisco in 2024. Most popular hashtags: #fyp #fashion #sanfrancisco #foryou.
 platform: TikTok
-hits: 26
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our database holds 26 TikTok influencers like this in San Francisco, United States for you to work with.
+hits: 24
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 24 TikTok influencers like this in San Francisco, United States for you to pitch.
 profiles:
-  - username: "fionaparks"
+  - username: "koolkorviin"
     fullname: >-
-      fiona 
+      koolkorviin
     bio: >-
-      I spend all my money on clothes and my horse
+      new york+san francisco follow the insta↗️
     location: "United States"
-    followers: 3368
-    engagement: 1780
-    commentsToLikes: 0.029179
-    id: cka9m2sel3kw30i782qf6sg7q
+    followers: 5654
+    engagement: 998
+    commentsToLikes: 0.038273
+    id: ck9nh7vl5friz0j78dotn5p4o
     verified: false
-    hashtags: "#equestrian, #horsegirl, #bayarea, #greenscreen"
-  - username: "peterfouaad"
-    fullname: >-
-      Peter Fouad
-    bio: >-
-      Fashion model | Photographer 📸 | Egyptian actor Los Angeles 🌴
-    location: "United States"
-    followers: 17500
-    engagement: 969
-    commentsToLikes: 0.012993
-    id: ckb9kziupda1c0j23nhx9ptux
-    verified: false
-    hashtags: "#mclaren, #foryou, #lamborghini, #cars"
+    hashtags: "#fashion, #foryou, #fyp, #sanfrancisco"
   - username: "1millionants"
     fullname: >-
       ur mom
@@ -43,18 +31,6 @@ profiles:
     id: ckacq8ek4ziox0i78pko42a1m
     verified: false
     hashtags: "#greenscreen, #jennamarbles, #ootd, #queer"
-  - username: "nicholalalaslim"
-    fullname: >-
-      Nicholas Lim
-    bio: >-
-      SG • CA 🇸🇬 🇺🇸 It’s just a joke
-    location: "United States"
-    followers: 19100
-    engagement: 1118
-    commentsToLikes: 0.077288
-    id: ckbfabfvb1mwn0j23sw9ljvlj
-    verified: false
-    hashtags: "#girl, #relationship, #girlfriend, #greekfreakout"
   - username: "cartertowler"
     fullname: >-
       Carter Towler
@@ -79,30 +55,18 @@ profiles:
     id: ckdhduh5kwr560j23wmsn87xp
     verified: false
     hashtags: "#travelbucketlist, #traveladdict, #travelthrowback, #greenscreen"
-  - username: "koolkorviin"
+  - username: "marlenahudson"
     fullname: >-
-      koolkorviin
+      Marlena Hudson
     bio: >-
-      new york+san francisco follow the insta↗️
+      YouTube: Marlena Hudson Instagram: marlenahudson_ Big sister of lilhuddy
     location: "United States"
-    followers: 5741
-    engagement: 951
-    commentsToLikes: 0.036104
-    id: ck9nh7vl5friz0j78dotn5p4o
+    followers: 463700
+    engagement: 1914
+    commentsToLikes: 0.032061
+    id: ckbqq74prb24c0j23mldteh8g
     verified: false
-    hashtags: "#fashion, #workdistractions, #fyp, #foryou"
-  - username: "namsingh_"
-    fullname: >-
-      Nam
-    bio: >-
-      Decor / Fashion / Vlogs / Mediocre humor IG: bynamsingh
-    location: "United States"
-    followers: 4528
-    engagement: 441
-    commentsToLikes: 0.032770
-    id: cka0y8he7ab4v0i78cxseod42
-    verified: false
-    hashtags: "#affordablehomedecor, #vlogs, #apartmentdecor, #dayinmylife"
+    hashtags: "#fyp, #video, #family, #youtube"
   - username: "hyphybabes"
     fullname: >-
       hyphyculture
@@ -111,10 +75,10 @@ profiles:
     location: "United States"
     followers: 16300
     engagement: 534
-    commentsToLikes: 0.015570
+    commentsToLikes: 0.015046
     id: ck9fmcmcjsn170j781bb902si
     verified: false
-    hashtags: "#hyphybabes, #925, #oakland, #tapin"
+    hashtags: "#bayarea, #sanfrancisco, #sanjose, #650"
   - username: "rachelvogttrends"
     fullname: >-
       Fashion . Shoes . Travel
@@ -126,5 +90,41 @@ profiles:
     commentsToLikes: 0.032547
     id: ck8kda2a54tn20j788ttspv6n
     verified: false
-    hashtags: "#tiktokfashion, #babymama, #rvtcloset, #christianlouboutin"
+    hashtags: "#shoes, #rvtcloset, #rvttravel, #behindthescenes"
+  - username: "peterfouaad"
+    fullname: >-
+      Peter Fouad
+    bio: >-
+      Fashion model | Photographer 📸 | Egyptian actor Los Angeles 🌴
+    location: "United States"
+    followers: 17500
+    engagement: 969
+    commentsToLikes: 0.012993
+    id: ckb9kziupda1c0j23nhx9ptux
+    verified: false
+    hashtags: "#luxury, #viral, #goviral, #beverlyhills"
+  - username: "jahnadinh"
+    fullname: >-
+      JAHNA DINH
+    bio: >-
+      i like clothes n stuff
+    location: "United States"
+    followers: 31700
+    engagement: 1281
+    commentsToLikes: 0.025176
+    id: ck9857ob2rfvd0j7859vsfbn9
+    verified: false
+    hashtags: "#diy, #quarantine, #fashion, #couple"
+  - username: "miaandsofiaaaa"
+    fullname: >-
+      m & s
+    bio: >-
+      BLM main: miaalysseee & badbleeps0fia
+    location: "United States"
+    followers: 143800
+    engagement: 1164
+    commentsToLikes: 0.011310
+    id: ck7zo7n0zikh70j7843v581vp
+    verified: false
+    hashtags: "#aesthetic, #xyzbca, #summer, #indie"
 ---

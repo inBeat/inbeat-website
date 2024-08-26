@@ -1,48 +1,48 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Miami In 2023
+title: Top 10 Fitness Instagram Influencers In Miami In 2024
 description: >-
-  Find top fitness Instagram influencers in Miami in 2023. Most popular hashtags: #fitness #miami #model.
+  Find top fitness Instagram influencers in Miami in 2024. Most popular hashtags: #fitness #miami #model #miamibeach.
 platform: Instagram
-hits: 614
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 614 Instagram influencers like this in Miami, United States for you to pitch.
+hits: 742
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 742 Instagram influencers like this in Miami, United States for you to pitch.
 profiles:
-  - username: "junglejohanna"
+  - username: "alexyaro"
     fullname: >-
-      JUNGLE™
+      𝗔𝗟𝗘𝗫 𝗬𝗔𝗥𝗢
     bio: >-
-      FASHION + FITNESS MIAMI BASED ☀️ DM ME FOR PRIVATES IN PERSON + ZOOM TRAINER IN PERSON @solyogaflorida ZOOM TUES/THURS 6PM EST ON DEMAND @thesoulunity
+      Business | Travel
     location: "United States"
-    followers: 72345
-    engagement: 419
-    commentsToLikes: 0.034108
-    id: ck55lk8kb1rfp0i111gckz3dl
+    followers: 557568
+    engagement: 67
+    commentsToLikes: 0.024434
+    id: ck8swg0d9dzgy0j78nsd2bv7q
     verified: false
-    hashtags: "#reggaeton, #astoriastrong, #ad, #hankypanky"
-  - username: "ashleynatirosa"
+    hashtags: "#travel, #blackrockdesert, #motivation, #mountains"
+  - username: "pat.mia"
     fullname: >-
-      Ashley Rosario
+      , M.S.
     bio: >-
-      Catch the vibe 🌊 Art @ashleynatiart
+      🦷 Dᴏᴄᴛᴏʀ ᴏғ Dᴇɴᴛᴀʟ Mᴇᴅɪᴄɪɴᴇ ᑎSᑌ ᴅ3 ◽️ ᗰ.S. BɪᴏMᴇᴅ ☤ ✉️ Pᴀᴛ.Mɪᴀ@ʏᴀʜᴏᴏ.ᴄᴏᴍ ▫️ Μεʍεƞτɸ Μɸrι ◻️@ʙᴀɴɢᴇɴᴇʀɢʏ ᴀᴍʙᴀssᴀᴅᴏʀ
     location: "United States"
-    followers: 9894
-    engagement: 1474
-    commentsToLikes: 0.014462
-    id: ck5zrvcqtxc0v0i14no6yp7lh
+    followers: 439934
+    engagement: 49
+    commentsToLikes: 0.062820
+    id: ckapabmfivg2f0i78afhof2rj
     verified: false
-    hashtags: "#photography, #bodygoals, #ck, #miami"
-  - username: "crystalstorm101"
+    hashtags: "#coronavirus, #miami, #fitness, #miamibeach"
+  - username: "brooke_barrera"
     fullname: >-
-      Crystal Storm
+      Brookie 🍒
     bio: >-
-      Leo 🦁 The universe is just responding to who you believe you are. 🗺 🌎 16/195 & Counting
+      ✨🥭Just a Miami girl, living in a Miami world 🌴✨ Miami’s favorite hype girl 😝
     location: "United States"
-    followers: 228326
-    engagement: 269
-    commentsToLikes: 0.088821
-    id: ckf5o5v3810wu0j2369pr5fza
+    followers: 11044
+    engagement: 787
+    commentsToLikes: 0.059684
+    id: ck6tyux3q601p0j71raik6ptj
     verified: false
-    hashtags: "#newyork, #smile, #blonde, #lifestyle"
+    hashtags: "#beachlife, #prettylittlething, #adventure, #swanmiami"
   - username: "fitness.model_shoutout"
     fullname: >-
       fitness model shoutout
@@ -55,6 +55,18 @@ profiles:
     id: ck0w6bf9o7rtt0i19jdy4u2gp
     verified: false
     hashtags: "#boob, #hot, #losangeles, #curvy"
+  - username: "aureliosfigari"
+    fullname: >-
+      Aurelio Saco Vertiz Figari
+    bio: >-
+      Former Pro ⚽️ player & ⚽️ coach, STRONG NATION Master Trainer, personal trainer. Love sports.
+    location: "United States"
+    followers: 31852
+    engagement: 385
+    commentsToLikes: 0.071055
+    id: ck6tkvxj15icb0j71g6k96lrm
+    verified: false
+    hashtags: "#lovewhatyoudo, #workhardplayhard, #hiit, #pushyourlimits"
   - username: "fittrick_"
     fullname: >-
       Rick Acosta ♾
@@ -67,6 +79,30 @@ profiles:
     id: ck8tat80wsyjq0j78ewq6lglv
     verified: false
     hashtags: "#men, #tattoos, #fitnessfashion, #cuba"
+  - username: "kateharley"
+    fullname: >-
+      kate harley
+    bio: >-
+      miami 🌴 & margate, nj 🌊 & pa 🍂 lifestyle, fashion, fitness, and all things miami
+    location: "United States"
+    followers: 18552
+    engagement: 70
+    commentsToLikes: 0.023374
+    id: ck5hnqxkfo8nc0i113d640kv4
+    verified: false
+    hashtags: "#egypt, #miamibeach, #miamicontentcreator, #fall"
+  - username: "13o5"
+    fullname: >-
+      JRivera
+    bio: >-
+      Portrait & Boudoir Photographer [Miami, Florida] Check out the link below to book your shoot. Follow my other page: @jrivera.photos
+    location: "United States"
+    followers: 69999
+    engagement: 56
+    commentsToLikes: 0.015880
+    id: ck5c1wbo2w23e0i11ej19u85q
+    verified: false
+    hashtags: "#happyhumpday, #miamifl, #miamiphotographer, #undiscoveredartists"
   - username: "yalexacastillo.fit"
     fullname: >-
       Alexa Castillo ONLINE COACH
@@ -79,52 +115,16 @@ profiles:
     id: ck8t5wdbmbgpo0j78hbabci1d
     verified: false
     hashtags: "#glutes, #fitness, #npcbikinicompetitor, #streetstyle"
-  - username: "dannyarttape"
+  - username: "jay_hazee"
     fullname: >-
-      Danny 💎
+      Jay Iconik
     bio: >-
-      💎BodyArt (#BodytapeArt) 📸 photographer 🎥 videographer #fotoscondannyarttape #tulumphotographer #tulum #tulummexico 🇻🇪 🇨🇴 🇲🇽 🇺🇸 💵 it's work not free
+      NY ✈️ NC UNCG ALUMNA ACE Certified Personal Trainer, DM for training inquiries🏋🏾 @mvmt JAYHAZEE15 for 15% off @gymhumorwear jcollins10 for 10% off
     location: "United States"
-    followers: 162237
-    engagement: 384
-    commentsToLikes: 0.018574
-    id: ck5zq9jw0u6vm0i14wj3n9q8m
+    followers: 14032
+    engagement: 698
+    commentsToLikes: 0.054382
+    id: ck5hrltkjv2uy0i11e8mylerh
     verified: false
-    hashtags: "#fotoscondannyarttape, #sexy, #fit, #loscabos"
-  - username: "rach.morales"
-    fullname: >-
-      Rachel Morales CPT, CSC
-    bio: >-
-      ¿Asere, qué bolá?🇨🇺 @ncsf_certified @tulukabrickell @rukuscoralgables | @cycleprorachelm ⚡️𝙲𝚘𝚞𝚛𝚊𝚐𝚎 𝚜𝚝𝚊𝚛𝚝𝚜 𝚠𝚒𝚝𝚑 𝚜𝚑𝚘𝚠𝚒𝚗𝚐 𝚞𝚙⚡️
-    location: "United States"
-    followers: 3940
-    engagement: 926
-    commentsToLikes: 0.074602
-    id: ck8syv6glm4wa0j78qoknjbpq
-    verified: false
-    hashtags: "#wod, #workoutinmiami, #fitnessmiami, #workoutmiami"
-  - username: "kaena_hawaii"
-    fullname: >-
-      ᏦΔЄn̲̅ᗩ S[̲̅i̲̅]Ꮮv͎Δ
-    bio: >-
-      🌴🅷🅰🆆🅰🅸🅸🌴 💻 Amazon 𝐒𝐚𝐥𝐞𝐬/ 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 😂 𝐂𝐨𝐦𝐞𝐝𝐲/ 𝐄𝐧𝐭𝐞𝐫𝐭𝐚𝐢𝐧𝐦𝐞𝐧𝐭 💕 𝐀𝐉
-    location: "United States"
-    followers: 13709
-    engagement: 736
-    commentsToLikes: 0.042729
-    id: ck137amf6alpx0i192s22o0uo
-    verified: false
-    hashtags: "#lasvegas, #kona, #vegas, #hawaii"
-  - username: "iamsebi7"
-    fullname: >-
-      sebi
-    bio: >-
-      🇦🇷ARG/ MIAMI * Fitness page: @sebiworkouts * Tiktok SEBI (2.5M fans) * 👻 iamsebi7 * Twitter: yosoysebi
-    location: "United States"
-    followers: 95094
-    engagement: 500
-    commentsToLikes: 0.018366
-    id: ck8wel8xee80m0j78c5k3k7jg
-    verified: false
-    hashtags: "#miamiswimweek2021, #50shadesofgrey, #fashionnova, #fashionnovapartner"
+    hashtags: "#blackmenwithstyle, #rippopsmoke, #nycmodel, #producer"
 ---

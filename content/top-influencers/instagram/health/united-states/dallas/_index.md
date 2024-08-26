@@ -1,24 +1,36 @@
 ---
-title: Top 10 Health Instagram Influencers In Dallas In 2023
+title: Top 10 Health Instagram Influencers In Dallas In 2024
 description: >-
-  Find top health Instagram influencers in Dallas in 2023. Most popular hashtags: #health #fitness #dallas #fitnessmotivation.
+  Find top health Instagram influencers in Dallas in 2024. Most popular hashtags: #health #dallas #dallastexas #dallasblogger.
 platform: Instagram
-hits: 105
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 105 Instagram influencers like this in Dallas, United States for you to contact.
+hits: 135
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 135 Instagram influencers like this in Dallas, United States for you to collaborate.
 profiles:
-  - username: "dulcediana"
+  - username: "txfoodiemama"
     fullname: >-
-      𝗗𝗶𝗮𝗻𝗮 𝗣𝗮𝗿𝗲𝗷𝗮 | 𝗛𝗼𝘂𝘀𝘁𝗼𝗻 𝗧𝗿𝗮𝗶𝗻𝗲𝗿
+      Lauren | Dallas Food Photographer
     bio: >-
-      Personal Trainer & Online Coach 🇨🇴 @doubletaketeam Strength•Balance•Movement #IAM1STPHORM Apply for coaching in the link ⤵️
+      📸 𝗢𝗿𝗴𝗮𝗻𝗶𝗰/𝗡𝗮𝘁𝘂𝗿𝗮𝗹 𝗟𝗶𝗴𝗵𝘁 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗲𝗿 👩🏽‍💻𝙲𝚘𝚗𝚝𝚎𝚗𝚝𝙲𝚛𝚎𝚊𝚝𝚘𝚛 | 👩🏽‍🍳𝑹𝒆𝒄𝒊𝒑𝒆𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 📩DM for rates/collab/invite |📍Plano/DFW txfoodiemama@gmail.com
     location: "United States"
-    followers: 12578
-    engagement: 338
-    commentsToLikes: 0.051676
-    id: ckwx3iv46wlz30j235p34o6w4
+    followers: 11940
+    engagement: 299
+    commentsToLikes: 0.311029
+    id: ckraybb9zb8i80j23uj8ouurs
     verified: false
-    hashtags: "#latina, #gluteworkout, #houston, #legday"
+    hashtags: "#momtips, #lesaucecompany, #pasta, #sundayfunday"
+  - username: "dannichick34"
+    fullname: >-
+      Danni  [Texas Fashion Blogger]
+    bio: >-
+      ♡ Dallas Fashion + lifestyle blogger Affordable Everyday Size 4/6 Fashion 💋 💌 DM/Email to work together
+    location: "United States"
+    followers: 9430
+    engagement: 363
+    commentsToLikes: 0.291442
+    id: ck5zk971fj25n0i144lbmf379
+    verified: false
+    hashtags: "#bloggerfashion, #texasbloggers, #ootdshare, #streetstyle"
   - username: "antoine_howard"
     fullname: >-
       Antoine Howard
@@ -30,7 +42,19 @@ profiles:
     commentsToLikes: 0.051987
     id: ck6tzcjuy8wp70j71vc0z7kvv
     verified: false
-    hashtags: "#training, #dallaslovelist, #thingstodoindallas, #dallasfitness"
+    hashtags: "#purpose, #fit, #iamlifted, #dallasfitness"
+  - username: "rachelsedwickifbb"
+    fullname: >-
+      Rachel Sedwick
+    bio: >-
+      Coach @refined.strength.coaching | IFBB Figure Pro 🏆 @CoreNutritionals RACHEL @curednutrition RACHELS @khcustoms RACHELS
+    location: "United States"
+    followers: 22946
+    engagement: 88
+    commentsToLikes: 0.124154
+    id: clmg71fbi96co0j08l4cwmvx2
+    verified: false
+    hashtags: "#shoplocal, #dallasrealestate, #health, #highperformance"
   - username: "dmillsfitness"
     fullname: >-
       Personal Trainer Dallas TX
@@ -43,30 +67,6 @@ profiles:
     id: ck8swcw4ldt9j0j78af531ufe
     verified: false
     hashtags: "#fitnessmotivation, #lvlup, #fitness, #igfitness"
-  - username: "itsanniegraft"
-    fullname: >-
-      Annie 😋💪🏼🍍
-    bio: >-
-      📍dtx, Living a 7-day weekend🤘🏼 @letsgetuncomfy.podcast 🎙160k plays est Aug ‘20 Fit App: @fitlifefitme_fam 📲 🚫Judgement-Free Zone🚫 Vegan bizz owner🌿
-    location: "United States"
-    followers: 99990
-    engagement: 345
-    commentsToLikes: 0.008506
-    id: ck13c3zd8yi7v0i19x85xz3bk
-    verified: false
-    hashtags: "#vulnerability, #applepodcasts, #spotifypodcast, #selftrust"
-  - username: "nathankwebb"
-    fullname: >-
-      Nathan Webb
-    bio: >-
-      Englishman🇬🇧Living the American🇺🇸Dream @netflix @toohotnetflix Season 2 📺 📩: nathankwebbmgmt@gmail.com
-    location: "United States"
-    followers: 440383
-    engagement: 1194
-    commentsToLikes: 0.013897
-    id: ck8tcbst8yz0c0j78onpb7rsn
-    verified: false
-    hashtags: "#fitspo, #gym, #dallas, #toohottohandle"
   - username: "amyachanel"
     fullname: >-
       AMYACHANEL🦋
@@ -79,30 +79,30 @@ profiles:
     id: ck8swjyv9ecco0j78n5epipc9
     verified: false
     hashtags: "#explore, #beauty, #dallasdancers, #heelsdance"
-  - username: "dannichick34"
+  - username: "brittanyjenine"
     fullname: >-
-      Danni  [Texas Fashion Blogger]
+      Brittany
     bio: >-
-      ♡ Dallas Fashion + lifestyle blogger Affordable Everyday Size 4/6 Fashion 💋 💌 DM/Email to work together
+      Health, Beauty & Lifestyle. 📍Dallas, TX 🐶 Dog Sitter. My dog page @texandrowdy
     location: "United States"
-    followers: 9430
-    engagement: 363
-    commentsToLikes: 0.291442
-    id: ck5zk971fj25n0i144lbmf379
+    followers: 10534
+    engagement: 334
+    commentsToLikes: 0.143048
+    id: cl8balz1g3ddv0i235byjgofi
     verified: false
-    hashtags: "#neutrallook, #neutralstyle, #texasfashion, #fashionblogger"
-  - username: "shalese_gallagher"
+    hashtags: "#health, #skincare, #supplements, #ketokrate"
+  - username: "itsanniegraft"
     fullname: >-
-      Shalese Gallagher
+      Annie Graft
     bio: >-
-      Utah 27 Financial Professional Titan and Kingston’s mom Kallie Edwards Petersen Success Fund ⬇️
+      Life outside of alcohol🦋@trythesoberexperiment CPT @luxfittraining 📍Scottsdale Peep Stories👀 Fitness, self love &mindset itsanniegraftPR@gmail.com
     location: "United States"
-    followers: 17352
-    engagement: 403
-    commentsToLikes: 0.024152
-    id: ck14gp9ak6d1n0i19fr2atr4h
+    followers: 99861
+    engagement: 754
+    commentsToLikes: 0.005067
+    id: ck13c3zd8yi7v0i19x85xz3bk
     verified: false
-    hashtags: "#mom, #influencer, #singlemom, #boymom"
+    hashtags: "#soberlifestyle, #sobrietyjourney, #sobercurious, #sobrietyrocks"
   - username: "streetsbeatseats"
     fullname: >-
       casey brown | self love
@@ -115,16 +115,16 @@ profiles:
     id: ck1375vwj9xy10i197v3h3258
     verified: false
     hashtags: "#itsonlyworthitifyouenjoyit, #ad, #ltkcurves, #tkpartner"
-  - username: "theplasticnp"
+  - username: "fittabulouslife"
     fullname: >-
-      Jen Pilotte, APRN
+      Lori Stuart-Howard
     bio: >-
-      Nurse Practitioner at LAPSC America’s Top 💯 Injector 📱TEXT ‘book’ to 214-571-7089 & follow prompts 📆BOOKING April/May 2021
+      📍Dallas | 44 💍 era 👑 Health, Fitness, & Biz Coach 💖Helping women look + feel fab inside and out ⬇️LINKS, CODES, BOOTCAMPS & BIZ MENTORING
     location: "United States"
-    followers: 52202
-    engagement: 88
-    commentsToLikes: 0.064058
-    id: ck5q52uitr5mo0i118g52dmmw
+    followers: 103717
+    engagement: 215
+    commentsToLikes: 0.309547
+    id: ckq8e2xo6jqhk0j23puf5rctf
     verified: false
-    hashtags: "#skincare, #liquidnosejob, #antiaging, #skin"
+    hashtags: "#2023bride, #weddingvibes, #grwm, #couplegoals"
 ---

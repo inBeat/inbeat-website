@@ -1,36 +1,96 @@
 ---
-title: Top 10 Models Instagram Influencers In Manchester In 2023
+title: Top 10 Models Instagram Influencers In Manchester In 2024
 description: >-
-  Find top models Instagram influencers in Manchester in 2023. Most popular hashtags: #model #portrait #fashionmodel #manchestermodel.
+  Find top models Instagram influencers in Manchester in 2024. Most popular hashtags: #model #fashion #makeup.
 platform: Instagram
-hits: 64
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 64 Instagram influencers like this in Manchester, United Kingdom for you to collaborate.
+hits: 82
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 82 Instagram influencers like this in Manchester, United Kingdom for you to collaborate.
 profiles:
-  - username: "char.lotterose"
+  - username: "afroglory_"
     fullname: >-
-      Charlotte-Rose
+      Shahira Allen
     bio: >-
-      I make art @char.lotteroseart Profile models (London) Industry models (Manchester) MA: @zabeena.modelmanagement
+      Creator in Residence @bbcstudiostalentworks @bbcstudios x @meta 22’ Beauty • Creator • +Model Manchester/London📍 afrogloryblog@gmail.com
     location: "United Kingdom"
-    followers: 29677
-    engagement: 764
-    commentsToLikes: 0.021362
-    id: ck0u60b4q0jeg0i19gwk2gcrl
+    followers: 18279
+    engagement: 85
+    commentsToLikes: 0.032157
+    id: ckxledagr82d50j2341953bg0
     verified: false
-    hashtags: "#charlesbukowski"
-  - username: "gabrieltattoos"
+    hashtags: "#sonicblue, #rudolph, #studiolondon, #superdrug"
+  - username: "jukes718"
     fullname: >-
-      GABRIEL MANIAK
+      D Jukes
     bio: >-
-      Specialising in B&G/Color realism and Cover 🆙 #tattoo 🌍 Currently based in London 📩 Inquiries: gabrielmnk@gmail.com
+      @seethevisiononline Recording Artist/TV Producer . I make Soul Music & Travel the World.On Tour in U.K Now!! 🇺🇸🇬🇧 See The Vision 👀🕊💫
     location: "United Kingdom"
-    followers: 54616
-    engagement: 201
-    commentsToLikes: 0.035400
-    id: ck6udfcvekrob0j71jqlrnpc1
+    followers: 224549
+    engagement: 259
+    commentsToLikes: 0.039328
+    id: ck6u80wpoosgu0j71xaroa02k
+    verified: true
+    hashtags: "#newyork, #losangeles, #vision, #brooklyn"
+  - username: "lisamayjolley"
+    fullname: >-
+      lisa
+    bio: >-
+      model | content creator | fitness coach ambassador | @blok coach | @f45training_manchesternq model agencies | @evolvemodel @bossmodelmanagement
+    location: "United Kingdom"
+    followers: 15303
+    engagement: 109
+    commentsToLikes: 0.041505
+    id: ckwvisgb5vs9z0j23vhrf3mm2
     verified: false
-    hashtags: "#art, #artistsoninstagram, #ink, #animals"
+    hashtags: "#genderinclusive, #crueltyfree, #grwm, #reusable"
+  - username: "charlieedwardsmua"
+    fullname: >-
+      Charlie Edwards Makeup Artist
+    bio: >-
+      PROFESSIONAL MAKEUP ARTIST Campaign | E-Com | Shoots | Appointments ✉️charlieedwardsmua@outlook.com
+    location: "United Kingdom"
+    followers: 8300
+    engagement: 319
+    commentsToLikes: 0.043467
+    id: ck5cbljh8fohk0i11tbkj8vt2
+    verified: false
+    hashtags: "#worldwidemua, #makeupartist, #manchestermua, #ecom"
+  - username: "ninarochford"
+    fullname: >-
+      Nina Rochford
+    bio: >-
+      Freelance Hair & Makeup Artist 📍 Manchester/London UK Editorial | Commercial | Fashion | Advertising Contact for bookings: ninarochford@hotmail.co.uk
+    location: "United Kingdom"
+    followers: 5396
+    engagement: 460
+    commentsToLikes: 0.213334
+    id: ck5q0eof65myr0i117371rmai
+    verified: false
+    hashtags: "#makeupaddict, #glow, #sleekmakeup, #makeup"
+  - username: "amberbellerae"
+    fullname: >-
+      Amber 🌹
+    bio: >-
+      @rubenandamber ♡ 21, Manchester Collab/Model - amber@amberbellerae.com Law Graduate
+    location: "United Kingdom"
+    followers: 122705
+    engagement: 47
+    commentsToLikes: 0.010001
+    id: cky43n61fho4k0j233mybc9ge
+    verified: false
+    hashtags: "#gplclient, #gifted, #ad, #relatable"
+  - username: "justyourlittleasianfriend"
+    fullname: >-
+      Birmingham
+    bio: >-
+      ✨Email me for promos✨ ✍🏽 Lash Artist @amilliondollarlashes 💆🏽‍♀️ Clinic Page @amilliondollarlook
+    location: "United Kingdom"
+    followers: 3406
+    engagement: 1336
+    commentsToLikes: 0.104369
+    id: ck9whavtbx3370j78npocmc56
+    verified: false
+    hashtags: "#beforeandafterhair, #summer, #rippedjeans, #softhair"
   - username: "thatsmallsguy"
     fullname: >-
       Stephan Small
@@ -42,31 +102,7 @@ profiles:
     commentsToLikes: 0.043345
     id: ck0w619pj6fhh0i19vfeujdje
     verified: false
-    hashtags: "#instantphotography, #film, #35mm, #polaroids"
-  - username: "jayabhav"
-    fullname: >-
-      Jaya Bhavnani
-    bio: >-
-      model agent @7evenmodelmanagement manchester 🤍
-    location: "United Kingdom"
-    followers: 2357
-    engagement: 771
-    commentsToLikes: 0.068034
-    id: ck5zwpavw6j4q0i1477m69owo
-    verified: false
-    hashtags: "#mejuri, #mejuripartner"
-  - username: "yogismithua"
-    fullname: >-
-      Joshua Jason
-    bio: >-
-      Certified alien 👽 🇬🇧 @nemesismodels Mcr MA) 🇬🇧 AMCK- dance 🇬🇧 Zone LDN
-    location: "United Kingdom"
-    followers: 67473
-    engagement: 959
-    commentsToLikes: 0.011193
-    id: ck8t6tmcpenal0j78ps568gpy
-    verified: false
-    hashtags: "#ad, #manchester, #yogi, #model"
+    hashtags: "#film, #35mm, #polaroids, #polaroidoriginals"
   - username: "isabellamayofficial"
     fullname: >-
       I S A B E L L A  M A Y
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.035385
     id: ck6ubbdmz8lkn0j71f2725knw
     verified: false
-    hashtags: "#pride2021, #mensstreetfashion, #fashionupdate, #fashionblogging"
-  - username: "therealbanksie"
-    fullname: >-
-      Banksie
-    bio: >-
-      7 foot Supermodel #manchesterqueen 🐝 International Visual Performer 🌏 Bookings: therealbanksie@gmail.com 10% with BANKSIE @shopfairlyodd
-    location: "United Kingdom"
-    followers: 8476
-    engagement: 553
-    commentsToLikes: 0.029409
-    id: ck55pfx33ah8c0i11wbdd2jx9
-    verified: false
-    hashtags: "#editorial, #supermodel, #model, #rpdruk"
-  - username: "themalaysianbanana"
-    fullname: >-
-      
-    bio: >-
-      🇲🇾🇬🇧 📍 Manchester, UK 📸 @dk_models | @sourcemodels 💌 DM for bookings
-    location: "United Kingdom"
-    followers: 4262
-    engagement: 866
-    commentsToLikes: 0.076512
-    id: ck14i88ase4r90i19aazb9pw6
-    verified: false
-    hashtags: "#styleblog, #londonmodel, #portrait, #portraitstream"
-  - username: "i.am.ozzy.model"
-    fullname: >-
-      📸Ozzy Official
-    bio: >-
-      'ONLY IG' ACCOUNT Model, Actor & ⚽️baller Pls see work highlights ⬇️ Agency represented
-    location: "United Kingdom"
-    followers: 146742
-    engagement: 299
-    commentsToLikes: 0.037666
-    id: ck0u0ahp4t2jo0i19puyanjbb
-    verified: false
-    hashtags: "#handsome, #newyorkbaby, #street, #fashionboy"
+    hashtags: "#manchesterstyle, #londonfashionblogger, #fashionbloggeruk, #mensstyleguide"
 ---

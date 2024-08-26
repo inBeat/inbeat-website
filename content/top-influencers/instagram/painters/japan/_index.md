@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters Instagram Influencers In Japan In 2023
+title: Top 10 Painters Instagram Influencers In Japan In 2024
 description: >-
-  Find top painters Instagram influencers in Japan in 2023. Most popular hashtags: #art #painting #artwork #contemporaryart.
+  Find top painters Instagram influencers in Japan in 2024. Most popular hashtags: #art #painting #artwork #contemporaryart.
 platform: Instagram
-hits: 32
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 32 Instagram influencers like this in Japan for you to pitch.
+hits: 40
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 40 Instagram influencers like this in Japan for you to pitch.
 profiles:
   - username: "chai_yuuki"
     fullname: >-

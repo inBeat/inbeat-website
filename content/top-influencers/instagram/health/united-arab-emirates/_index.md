@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Health Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top health Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #mydubai #dubaifitness #dubailife #dubaibloggers.
+  Find top health Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #dubai #dubailife #mydubai.
 platform: Instagram
-hits: 104
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: inBeat holds 104 Instagram influencers like this in United Arab Emirates for you to connect with.
+hits: 132
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 132 Instagram influencers like this in United Arab Emirates for you to connect with.
 profiles:
-  - username: "joyfulhomecooking"
+  - username: "lavinaisranicom"
     fullname: >-
-      Joyce Nicolas Mrad
+      Lavina Israni.com ✨ Dubai, UAE
     bio: >-
-      👩🏻‍🍳Happy, healthy cooking in my Dubai kitchen 😋Beautiful food that puts a smile on your face 💗Gluten, dairy & sugar free |Vegan |Paleo 🍴Food stylist
+      New project: @bylavinaisrani 🇦🇪 Dubai since ‘92 🏆 Top 100 blogs in UAE ✈️ Food • Films • Travel • Life hacks ❤️‍🩹 Mental health warrior (DM for help)
     location: "United Arab Emirates"
-    followers: 71920
-    engagement: 308
-    commentsToLikes: 0.077204
-    id: ck138wefhicbv0i19f898cdo1
-    verified: false
-    hashtags: "#veganinspo, #thenewhealthy, #plantbased, #foodporn"
-  - username: "marinaveretyuk"
-    fullname: >-
-      BEAUTY|FITNESS|DUBAI
-    bio: >-
-      𝐌𝐚𝐫𝐢𝐧𝐚 𝐕𝐞𝐫𝐞𝐭𝐲𝐮𝐤 🔝10 Steps to become a better YOU 🌱Health tips to boost your body 🧘‍♀️ Balance of mind, body and soul 🥳DM me “ABC” for a surprise
-    location: "United Arab Emirates"
-    followers: 11530
-    engagement: 293
-    commentsToLikes: 0.091393
-    id: ck600q2b3e1zd0i14pbw1nn19
-    verified: false
-    hashtags: "#dubaiphotoshoot, #dubaimodeling, #dubaibeautyblogger, #healthylifestyle"
-  - username: "chefhalaayash"
-    fullname: >-
-      Hala Ayash هلا عياش
-    bio: >-
-      MBC TV Dubai 🇸🇾🇸🇦 - TV Presenter - Top Chef First Runner Up - Traveling and lifestyle - Fitness & Health Info.chefhalaayash@gmail.com
-    location: "United Arab Emirates"
-    followers: 315608
-    engagement: 101
-    commentsToLikes: 0.020250
-    id: ck6u1r87snenl0j71ogfnq5ak
+    followers: 132320
+    engagement: 6413
+    commentsToLikes: 0.019975
+    id: ck0vxijhwz2d90i19qh3he5zm
     verified: true
-    hashtags: "#live, #bodrumsummer, #mbc, #disconnect"
-  - username: "mitunds"
+    hashtags: "#dss, #france, #dubailife, #dubai"
+  - username: "diamond_april"
     fullname: >-
-      MITUN DE SARKAR
+      Karina Smolova (Istomina)
     bio: >-
-      ⛑💊Clinical Dietitian 🥙🍒🥑Founder Simply Healthy @simplyhealthydiets ☕️🌯Brand Ambassador Costa4u @costacoffeeuae 🎤🎼Founder,lead singer @raagafactory
+      Mental health YouTube show ‘Справиться Проще’ BOOKING AND INQUIRIES: Karina.istomina94@gmail.com
     location: "United Arab Emirates"
-    followers: 35436
-    engagement: 237
-    commentsToLikes: 0.093140
-    id: ck0w2isdhokrq0i193z1l9606
+    followers: 478130
+    engagement: 1475
+    commentsToLikes: 0.002572
+    id: ck0vzb47187yu0i1992xwadhn
     verified: false
-    hashtags: "#nutritionist, #style, #dietitian, #nutrition"
-  - username: "sophi_elle"
+    hashtags: ""
+  - username: "seanclancy_ko8"
     fullname: >-
-      Sophi'elle 🍁
+      Sean Clancy
     bio: >-
-      ▫️🏋🏽‍♀️ healthy 🍃 ▫️🔥100% story ▫️ALG/Tipaza🇩🇿 📍Alicante🇪🇸. ▫️Collabs: sophiemkp01@gmail.com ▫️ للاعلانات التجارية تواصلوا معي💳 ▫️ ✈️🇪🇸🇦🇪 🇹🇳
+      Ex Pro Athlete Co-owner @ko8_fitness & @ko8_dubai Health & Fitness tips + Inspiration 📍Dubai 🇦🇪 🌎 #1 Functional Training System 💪🏻
     location: "United Arab Emirates"
-    followers: 37134
-    engagement: 133
-    commentsToLikes: 0.055898
-    id: ck6ufw6y1zhl50j715wxjxxsa
+    followers: 6704
+    engagement: 257
+    commentsToLikes: 0.148953
+    id: ck5zk5rm1iv6j0i14971e3qvt
     verified: false
-    hashtags: "#dzblogger, #dzbeauty, #likeforlikes, #algerienne"
-  - username: "madhumitharam"
+    hashtags: "#tashkent, #ko8, #hyroxme, #ocr"
+  - username: "hgabr"
     fullname: >-
-      Madhumitha
+      Hassan Gabr - The Gorilla
     bio: >-
-      A little bit of errything. Healthyish ideas on #MadhuEatsClean, #MadhuEatsBetter #lunchkuenna #howtofancifypazhedhu101 #saladsingaari Madras/Dubai
+      🦍Inspiring Healthier Lives 🍕Daily Food & Fitness Tips 🏆 Egypt Fittest Man | 🥈🥉Classic Physique 🦾Ambassador @limitlessalpha.eg 👇🏼Gorilla Fitness App
     location: "United Arab Emirates"
-    followers: 37675
-    engagement: 301
-    commentsToLikes: 0.013044
-    id: ckap4sn878ovo0i786n3o6i45
-    verified: false
-    hashtags: "#andsowegolu, #madhueatsbetter, #eattherainbow, #andsowerecommend"
-  - username: "health_and_beauty_uae"
+    followers: 530144
+    engagement: 207
+    commentsToLikes: 0.026371
+    id: ck0u05vklspnc0i1967761nme
+    verified: true
+    hashtags: "#wheyprotein, #readytolead, #alphasquad, #limitlessalpha"
+  - username: "girlsinthetwincities"
     fullname: >-
-      Health Beauty in UAE
+      GirlsInTheTwinCities
     bio: >-
-      ✨Health & Beauty news & tips 🤷‍♂️Kids health and development 👌Moms life in Dubai #zomato level 10 @mumzworldcom OK10 Hibobi code HBU10
+      Lifestyle | Travel | Health | Beauty | Fashion 📍Pakistan 📍 Dubai📍Berlin 📍 Dublin Email girlsinthetwincities@gmail.com for collaborations
     location: "United Arab Emirates"
-    followers: 10510
-    engagement: 324
-    commentsToLikes: 0.172538
-    id: ck6txlbchygjd0j714b550lao
+    followers: 232975
+    engagement: 183
+    commentsToLikes: 0.015975
+    id: ck9wgi5extiu20j78gev8n082
     verified: false
-    hashtags: "#mydubailife, #dubaisalons, #dubaifoodblogger, #easybusybox"
-  - username: "literallyanika"
+    hashtags: "#furniturejepara, #handmade, #furnituremurah, #moltyfoam"
+  - username: "dina_and_perfumes"
     fullname: >-
-      Anika Morjaria
+      Dina ElKhad
     bio: >-
-      Certified Personal Trainer & Nutrition Coach DM for personal training packages↗️ Health-Strength-Aesthetics @evolve_health🔥 Dubai🇦🇪🇬🇧
+      ⚜️ Welcome To My 🌎 ⚜️ Fragrance, Makeup and Skincare Reviews ⚜️ Mom To Tala ⚜️DINA05 “ HealthNag “ 📍Dubai, UAE
     location: "United Arab Emirates"
-    followers: 56323
-    engagement: 72
-    commentsToLikes: 0.114268
-    id: ck5q38zq0jspx0i11z2fgbnmk
+    followers: 9733
+    engagement: 161
+    commentsToLikes: 0.092597
+    id: ckaos9786qob90i785uhxbu46
     verified: false
-    hashtags: "#healthcoaching, #workoutoftheday, #indianblogger, #healthyfoodie"
-  - username: "dr.trizzle"
+    hashtags: "#fentybeauty, #dior, #fujairah, #luxury"
+  - username: "acrisdds"
     fullname: >-
-      Tariq Haq
+      Ana Cristina Diaz
     bio: >-
-      SportsTherapist|Chiropractic|CuppingTherapy Blogger|Healthy Living|Fitness Freak 📍Dubai
+      📍🇦🇪 Dubai 🫶🏽 • 🇻🇪 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗠𝗼𝗱𝗲𝗹 • 👩🏻‍🎓 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁 • Miss Mérida 2015 | Miss Elegance ✨#healthylifestyle ✨#model ✨#travel
     location: "United Arab Emirates"
-    followers: 4393
-    engagement: 226
-    commentsToLikes: 0.177134
-    id: ck6ugi8q2365t0j714g9evh2m
+    followers: 35032
+    engagement: 122
+    commentsToLikes: 0.079102
+    id: ckaounho211i80i78ufk49l2e
     verified: false
-    hashtags: "#magazine, #photos, #fashionmodels, #malemodel"
-  - username: "megasunlounge"
+    hashtags: "#dubai, #model, #summer, #bulgari"
+  - username: "andreiabrazier"
     fullname: >-
-      megaSun lounge official
+      Andreia Brazier Official
     bio: >-
-      ☀️👑 @#megasunlounge (For repost) ☀️💎 8x in #Dubai 2x in #AbuDhabi 1 in #Sharjah ☀️🇩🇪 Enjoy healthy #German Technology ☀️☎️: 800 TANNING or 04-3446363
+      🏆4xTimes Fitness Model World Champion. 🧸 #Firstbabyat42 🏠🇵🇸 Dubai 🙅🏻‍♀️Empowering Woman to get Healthier Lifestyle. 👇🏽My Fitness Programs 💥40%OFF💥
     location: "United Arab Emirates"
-    followers: 33453
-    engagement: 213
-    commentsToLikes: 0.010182
-    id: ck8sxzfg0j7gu0j78lqrshh5v
+    followers: 1203878
+    engagement: 39
+    commentsToLikes: 0.022384
+    id: ckf5lldq1pzrj0j234wqkv0yt
+    verified: true
+    hashtags: "#nomacro, #workoutforwomen, #core, #nocaloriescounting"
+  - username: "tania_romanenia"
+    fullname: >-
+      Tatiana Ramanenia | Yoga Mindset Dubai
+    bio: >-
+      DUBAI Yoga Teacher, leading to happy and healthy living🙌 Расстановки, которые меняют жизнь к лучшему❣️ Family Constellations that work magic🪄
+    location: "United Arab Emirates"
+    followers: 88306
+    engagement: 36
+    commentsToLikes: 0.235122
+    id: ck15pazw1wzar0i196pci2oz8
     verified: false
-    hashtags: "#inabudhabi, #indubai, #megasunlounge, #megasun"
+    hashtags: ""
+  - username: "kinansalameh"
+    fullname: >-
+      Kinan salameh
+    bio: >-
+      يلا يا هلا S.Storyteller @blinxnow pharmacist Ur fav Health creator 😬 🇸🇾📍🇦🇪 Email /TikTok / Snapchat /Youtube👇
+    location: "United Arab Emirates"
+    followers: 378619
+    engagement: 57
+    commentsToLikes: 0.031614
+    id: ck1395s6ijo3c0i19k6uabggh
+    verified: false
+    hashtags: "#labgoals, #better, #hight, #pooling"
 ---

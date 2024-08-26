@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Peru In 2023
+title: Top 10 Models TikTok Influencers In Peru In 2024
 description: >-
-  Find top models TikTok influencers in Peru in 2023. Most popular hashtags: #peru #fyp #parati #viral.
+  Find top models TikTok influencers in Peru in 2024. Most popular hashtags: #peru #fyp #parati #viral.
 platform: TikTok
-hits: 25
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine holds 25 TikTok influencers like this in Peru for you to work with.
+hits: 26
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our database holds 26 TikTok influencers like this in Peru for you to collaborate.
 profiles:
   - username: "yositaarve"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.008088
     id: ck9f1uw5ma82r0j786jf8cz6j
     verified: false
-    hashtags: "#parati, #comedia, #baile, #amigas"
+    hashtags: "#latina, #baile, #amigas, #situacion"
   - username: "nicole.dileo1"
     fullname: >-
       Nicole Dileo

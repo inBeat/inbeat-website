@@ -1,11 +1,11 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Japan In 2023
+title: Top 10 Pole Dancers Instagram Influencers In Japan In 2024
 description: >-
-  Find top pole dancers Instagram influencers in Japan in 2023. Most popular hashtags: #poledance #poledancer #love #fashion.
+  Find top pole dancers Instagram influencers in Japan in 2024. Most popular hashtags: #poledance #poledancer #love #fashion.
 platform: Instagram
 hits: 11
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 11 Instagram influencers like this in Japan for you to pitch.
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 11 Instagram influencers like this in Japan for you to contact.
 profiles:
   - username: "miki0000000000"
     fullname: >-

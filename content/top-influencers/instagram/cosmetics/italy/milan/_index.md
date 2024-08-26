@@ -1,24 +1,36 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Milan In 2023
+title: Top 10 Cosmetics Instagram Influencers In Milan In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Milan in 2023. Most popular hashtags: #makeuptutorial #makeup #beauty #undiscovered.
+  Find top cosmetics Instagram influencers in Milan in 2024. Most popular hashtags: #makeup #makeuptutorial #makeupaddict #undiscovered.
 platform: Instagram
-hits: 92
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 92 Instagram influencers like this in Milan, Italy for you to contact.
+hits: 101
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 101 Instagram influencers like this in Milan, Italy for you to pitch.
 profiles:
+  - username: "veronicaulgherimakeup"
+    fullname: >-
+      Veronica Ulgheri
+    bio: >-
+      𝗠𝗮𝗸𝗲 𝗨𝗽 𝗦𝘁𝘂𝗱𝗶𝗼 𝗩𝗲𝗿𝗼𝗻𝗶𝗰𝗮 𝗨𝗹𝗴𝗵𝗲𝗿𝗶 ✨Make Up Artist & Make Up Training ✨Content Creator 📍Alghero 📩veronicaulgherimakeupstudio@gmail.com 📲3297859465
+    location: "Italy"
+    followers: 28785
+    engagement: 378
+    commentsToLikes: 0.069811
+    id: ck9wf1nb0mw240j78647t0hm0
+    verified: false
+    hashtags: "#makeup, #makeupartist, #makeupaddict, #glow"
   - username: "thegabriellealvarez"
     fullname: >-
       midnight_weirdo
     bio: >-
-      Gabi Alvarez MUA + Photog 📩 gabrielle.alvarez3@gmail.com 📍LA + will travel
+      Editorial MUA LA + will travel ✈️
     location: "Italy"
-    followers: 30090
-    engagement: 519
-    commentsToLikes: 0.062307
+    followers: 33676
+    engagement: 558
+    commentsToLikes: 0.056457
     id: ck0tv4vss9y080i1960y4spo5
     verified: false
-    hashtags: "#glowbyauric, #triochrome, #auric, #ambientlux"
+    hashtags: "#shirtfaced"
   - username: "porziacarlone"
     fullname: >-
       Porzia Carlone
@@ -55,18 +67,6 @@ profiles:
     id: ck5hceqzohoxh0i11b8vvvatw
     verified: false
     hashtags: "#shein, #sheinblackfriday, #nataleinarrivo, #igcollaborations"
-  - username: "lulysmakeupbeauty"
-    fullname: >-
-      •LUCIA•💄
-    bio: >-
-      💄BEAUTY CONTENT CREATOR 🇮🇹 Italy 📦COLLABORATION lulysmakeupbeauty@libero.it 🎥NEW VIDEO🔽
-    location: "Italy"
-    followers: 7675
-    engagement: 596
-    commentsToLikes: 0.220700
-    id: ck14lgxi4um520i1951rcu4ib
-    verified: false
-    hashtags: "#catricecosmetics, #testandtell, #meritocracyforbeauty, #video"
   - username: "elenapiink"
     fullname: >-
       Elena
@@ -103,6 +103,18 @@ profiles:
     id: ckapa9s46vazg0i788mppepjz
     verified: false
     hashtags: "#followme, #italy, #myself, #model"
+  - username: "reginainneverland"
+    fullname: >-
+      REGINA AZIZOVA | MUA & MAKEUP TRAINER
+    bio: >-
+      Formo truccatori di successo Migliaia di studenti/clienti soddisfatti e TU sei il prossimo Scrivimi la parola “CORSI” in direct per avere info
+    location: "Italy"
+    followers: 43182
+    engagement: 123
+    commentsToLikes: 0.041261
+    id: ck5hsczj9we540i11obvenlvu
+    verified: false
+    hashtags: "#corsiditrucco, #truccatrice, #trucco, #truccoocchi"
   - username: "make_in_paris"
     fullname: >-
       Elena Parise
@@ -115,16 +127,4 @@ profiles:
     id: ck15sskesem4l0i19evi47t2o
     verified: false
     hashtags: "#makeupinspo, #italianmua, #colorfulmakeup, #glammakeup"
-  - username: "reginainneverland"
-    fullname: >-
-      Regina Azizova
-    bio: >-
-      🎨Professional #makeupartist & #makeuptrainer ▪️CORSI collettivi o individuali ⬇️ 📞chiama/whatsapp +39 351 700 7277
-    location: "Italy"
-    followers: 24075
-    engagement: 351
-    commentsToLikes: 0.060796
-    id: ck5hsczj9we540i11obvenlvu
-    verified: false
-    hashtags: "#makeuptransformation, #reginainneverland, #makeupartist, #trucconaturale"
 ---

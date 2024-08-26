@@ -1,12 +1,24 @@
 ---
-title: Top 10 Models TikTok Influencers In Boston In 2023
+title: Top 10 Models TikTok Influencers In Boston In 2024
 description: >-
-  Find top models TikTok influencers in Boston in 2023. Most popular hashtags: #model #fyp #boston #viral.
+  Find top models TikTok influencers in Boston in 2024. Most popular hashtags: #model #fyp #boston #viral.
 platform: TikTok
-hits: 14
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our platform holds 14 TikTok influencers like this in Boston, United States for you to pitch.
+hits: 15
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: inBeat has 15 TikTok influencers like this in Boston, United States for you to connect with.
 profiles:
+  - username: "lydrichardson"
+    fullname: >-
+      old account!
+    bio: >-
+      follow @lydia.rich 🥰
+    location: "United States"
+    followers: 7790
+    engagement: 1357
+    commentsToLikes: 0.096774
+    id: ck8nbv6z0br1p0j78y854ke9r
+    verified: false
+    hashtags: "#photography, #fyp, #projector, #challenge"
   - username: "madelinedelp"
     fullname: >-
       Madeline Delp
@@ -90,19 +102,19 @@ profiles:
     commentsToLikes: 0.025546
     id: ck8j6dqxa9fl20j782qg28wlk
     verified: false
-    hashtags: "#heather, #fyi, #yum, #feliznavidad"
-  - username: "lydrichardson"
+    hashtags: "#indoorlooks, #billieilishchanllenge, #melanie, #yum"
+  - username: "daddy_mags_official"
     fullname: >-
-      old account!
+      daddy_mags ™️
     bio: >-
-      follow @lydia.rich 🥰
+      CEO of Insatiate ™ Entrepreneur Link below for more!!
     location: "United States"
-    followers: 7790
-    engagement: 1357
-    commentsToLikes: 0.096774
-    id: ck8nbv6z0br1p0j78y854ke9r
+    followers: 53700
+    engagement: 1318
+    commentsToLikes: 0.065696
+    id: ckbf940l4zv5g0j23d7lqp1s5
     verified: false
-    hashtags: "#travel, #florida, #wee, #aesthetic"
+    hashtags: "#domsub, #muscle, #kinktok, #drip"
   - username: "fanatics"
     fullname: >-
       Fanatics
@@ -115,16 +127,4 @@ profiles:
     id: cka0hir2q9bb70i788kvs6x48
     verified: true
     hashtags: "#mlb, #nba, #nfl, #allinchallenge"
-  - username: "ggubblebum"
-    fullname: >-
-      ur mom 
-    bio: >-
-      
-    location: "United States"
-    followers: 81800
-    engagement: 1472
-    commentsToLikes: 0.023241
-    id: ckan3zurg7qfv0i780ca78z8y
-    verified: false
-    hashtags: "#fyp, #blowthisup, #college, #whatieatinaday"
 ---

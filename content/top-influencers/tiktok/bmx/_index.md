@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bmx TikTok Influencers In 2023
+title: Top 10 Bmx TikTok Influencers In 2024
 description: >-
-  Find top bmx TikTok influencers in 2023. Most popular hashtags: #bmx #foryou #bike #fyp.
+  Find top bmx TikTok influencers in 2024. Most popular hashtags: #bmx #foryou #fyp #bike.
 platform: TikTok
-hits: 205
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our search engine has 205 TikTok influencers like this for you to contact.
+hits: 206
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 206 TikTok influencers like this for you to pitch.
 profiles:
   - username: "moto96bmx"
     fullname: >-
@@ -79,18 +79,18 @@ profiles:
     id: ck83ysm1ovclp0j78pit4wh06
     verified: false
     hashtags: "#foryou, #sandiego, #foryourpage, #gopro"
-  - username: "notso_fast"
+  - username: "swervoc6"
     fullname: >-
-      FORZA_GTA
+      NotSoFast
     bio: >-
       DRIVER OF FASTER BOYS💨 XBOX:GHOSTGAM3455 Follow @bmx__brodie
     location: "United States"
     followers: 19900
-    engagement: 964
-    commentsToLikes: 0.033546
+    engagement: 1055
+    commentsToLikes: 0.037054
     id: cka7o74ib0ll20i78hkqyx68e
     verified: false
-    hashtags: "#corvette, #fyp, #hoonigan, #ford"
+    hashtags: "#r35, #fyp, #cinematic, #yearontiktok"
   - username: "sandorionut"
     fullname: >-
       Şandor Ionuţ Andrei

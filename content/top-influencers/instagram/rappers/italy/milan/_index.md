@@ -1,24 +1,48 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Milan In 2023
+title: Top 10 Rappers Instagram Influencers In Milan In 2024
 description: >-
-  Find top rappers Instagram influencers in Milan in 2023. Most popular hashtags: #rapper #milano #trap #rap.
+  Find top rappers Instagram influencers in Milan in 2024. Most popular hashtags: #rapper #rap #milano #hiphop.
 platform: Instagram
-hits: 11
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 11 Instagram influencers like this in Milan, Italy for you to contact.
+hits: 16
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 16 Instagram influencers like this in Milan, Italy for you to contact.
 profiles:
+  - username: "luigi_de_blasio"
+    fullname: >-
+      Luigi De Blasio
+    bio: >-
+      Men’s Fashion content creators 📸 Italy📍 📩 Collab: luigideblasio94@gmail.com 💪🏻 @timeresistance Ambassador 10% OFF Discount code: LUIGI
+    location: "Italy"
+    followers: 45322
+    engagement: 251
+    commentsToLikes: 0.063204
+    id: ck6tyc3q92v7p0j71vqho4tiy
+    verified: false
+    hashtags: "#guidomaggishoes, #mensfashion, #zapatosconalzas, #menfashion"
   - username: "neroneofficial"
     fullname: >-
-      NERONE. ENNE E ERRE O ENNE E
+      NERONE. AKA BRUCE BARRE AKA MR100K AKA RITA LEVI MORTAL KOMBAT
     bio: >-
-      👑 MILANO LAST RAPPER ALIVE 👑 Info- booking-Management: thomas@gunamanagement.com IL CIELO È NEROBLU ⚫️🔵 MAXTAPE 👑
+      BRAVA GENTE w/ @therealensi 2 giugno 2023 👑 MILANO LAST RAPPER ALIVE 👑 WE CAN ALL neronebooking@gmail.com
     location: "Italy"
-    followers: 140979
-    engagement: 1382
-    commentsToLikes: 0.019722
+    followers: 139755
+    engagement: 1105
+    commentsToLikes: 0.015308
     id: ck6tu3e82e2zi0j71ictrxfsa
     verified: true
-    hashtags: "#mh9"
+    hashtags: "#mh9, #backvalley"
+  - username: "neviolostirato"
+    fullname: >-
+      Nevio Ciriello
+    bio: >-
+      Per info e collaborazioni scrivete a coppinigianluca8@gmail.com LINK PER FARE LA FRESCHELLA QUI 👇
+    location: "Italy"
+    followers: 206076
+    engagement: 196
+    commentsToLikes: 0.014285
+    id: ck600ox40dzpf0i14hccip3wn
+    verified: false
+    hashtags: "#ferdy, #stirato, #champagnepapi, #champagnelover"
   - username: "radio105"
     fullname: >-
       Radio105
@@ -31,6 +55,18 @@ profiles:
     id: ck0tz2e0powcv0i19vu5v5ur1
     verified: true
     hashtags: "#maxbrigante, #mokogoes, #djfabiob, #rapper"
+  - username: "gemitaiznews"
+    fullname: >-
+      GemitaizNews
+    bio: >-
+      admin @alaiavito 📲 “Quello che resta” 🌎
+    location: "Italy"
+    followers: 51210
+    engagement: 284
+    commentsToLikes: 0.004051
+    id: ck15tkgfgij6o0i19hvsbyc4s
+    verified: false
+    hashtags: "#tantaroba, #qvc9, #gmtz, #mondodifango"
   - username: "marco.demasi"
     fullname: >-
       ✨ Illustrator & G. Designer
@@ -43,6 +79,18 @@ profiles:
     id: ck8t0btkorj8z0j78fjlvup9i
     verified: false
     hashtags: "#rap, #challenge, #cover, #illo"
+  - username: "shamevergogna"
+    fullname: >-
+      SHAME ☢️
+    bio: >-
+      🎶 Freestyler® | MC | Rapper🎙 🥇 Guinness World Recordman🏆 📬 Booking: shamevergogna@outlook.it ASCOLTA IL NUOVO ALBUM⤵️🔥
+    location: "Italy"
+    followers: 19442
+    engagement: 1514
+    commentsToLikes: 0.036996
+    id: ckap558tba96a0i7812zul3mu
+    verified: false
+    hashtags: "#improvvisazione, #freestylerap, #freestylebattle, #yeah"
   - username: "ceskielloo"
     fullname: >-
       THE ØNLY ONE CESKIELLØ
@@ -71,60 +119,12 @@ profiles:
     fullname: >-
       𝐃𝐚𝐧𝐭𝐞 𝐋𝐚𝐭𝐢𝐧𝐨 Ⓜ™
     bio: >-
-      🔥Latino American🔥 𝐂𝐚𝐧𝐭𝐚𝐧𝐭𝐞 & 𝐜𝐨𝐦𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐞 𝐢𝐧 𝐈𝐭𝐚𝐥𝐢🇮🇹 ◉Urbano/Reggaeton /Pop Comercial ◉FACEBO:Dante Latino ◉Collabs 📧
+      ❌ 𝙑𝙞𝙙𝙚𝙤𝙢𝙖𝙠𝙚𝙧-𝙋𝙝𝙤𝙩𝙤𝙜𝙧𝙖𝙥𝙝𝙚𝙧❌️🎬 ▫️Video Musicali,commercial ecc 🎥🔻 📸 🔻 📽 🇮🇹🔹🇨🇭 My work 👉 @soprano_studios available worldwide ✈️ 📩dantelatino90@gmail.com
     location: "Italy"
-    followers: 45524
-    engagement: 84
-    commentsToLikes: 0.160547
+    followers: 44097
+    engagement: 149
+    commentsToLikes: 0.109813
     id: ck8t6ovcbebsz0j78trmr0viv
     verified: false
-    hashtags: "#dantelatino, #latinoamerica, #instagood, #like"
-  - username: "isam.lk"
-    fullname: >-
-      Beatbox and Rapper
-    bio: >-
-      🥈° 𝙑𝙞𝙘𝙚 𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝘽𝙚𝙖𝙩𝙗𝙤𝙭 🇮🇹 📺 𝙨𝙚𝙢𝙞𝙛𝙞𝙣𝙖𝙡 𝙞𝙩𝙖𝙡𝙞𝙖'𝙨 𝙂𝙤𝙩 𝙏𝙖𝙡𝙚𝙣𝙩 2016 Il mio nuovo videoclip IN STRADA ⬇️
-    location: "Italy"
-    followers: 13398
-    engagement: 377
-    commentsToLikes: 0.058555
-    id: ckaouqyti1fng0i786lep793s
-    verified: false
-    hashtags: "#brandmodel, #outfit, #brescia, #brand"
-  - username: "gemitaiznews"
-    fullname: >-
-      GemitaizNews
-    bio: >-
-      admin @alaiavito 📲 QVC9️⃣👇🏼
-    location: "Italy"
-    followers: 52079
-    engagement: 360
-    commentsToLikes: 0.005989
-    id: ck15tkgfgij6o0i19hvsbyc4s
-    verified: false
-    hashtags: "#gemitaiznews, #mondodifango, #qvc9, #pezzopreferito"
-  - username: "rap_nel_cuore_official"
-    fullname: >-
-      Rap Nel Cuore Official ❤
-    bio: >-
-      Seguici se anche tu hai il Rap Nel Cuore ❤ - Interviste - Pagelle - Recensioni - Curiosità - ••• Business 💰 • Per info & promo DM •
-    location: "Italy"
-    followers: 22233
-    engagement: 271
-    commentsToLikes: 0.036590
-    id: ck8t9b1p6ngg10j78kwklajzm
-    verified: false
-    hashtags: "#rapita, #trapitalia, #rapitalia, #italianrapper"
-  - username: "lady_s_dreamer"
-    fullname: >-
-      Greta De Santi
-    bio: >-
-      ❤️‍🔥 𝐿𝐼𝐹𝐸𝒮𝒯𝒴𝐿𝐸 🎧🅳🅹 🎧 𝑀𝒪𝒟𝐸𝐿 💋 📨 ladysd.booking@gmail.com ✨ Sassy Lady in Dubai 🇦🇪
-    location: "Italy"
-    followers: 214075
-    engagement: 1872
-    commentsToLikes: 0.105188
-    id: ckapbdriwzja00i78ynwvsj7q
-    verified: false
-    hashtags: "#partydress, #blondehair, #gretadesanti, #ladysdreamer"
+    hashtags: "#model, #musicproducer, #sun, #follow"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Canada In 2023
+title: Top 10 Stylists Instagram Influencers In Canada In 2024
 description: >-
-  Find top stylists Instagram influencers in Canada in 2023. Most popular hashtags: #haircut #summerblonde #uberliss.
+  Find top stylists Instagram influencers in Canada in 2024. Most popular hashtags: #toronto #reel #ootdfashion.
 platform: Instagram
-hits: 65
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database has 65 Instagram influencers like this in Canada for you to connect with.
+hits: 142
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 142 Instagram influencers like this in Canada for you to pitch.
 profiles:
-  - username: "styledbyamrita"
+  - username: "karinedube_styliste"
     fullname: >-
-      Amrita 🌸
+      Karine Dubé Styliste Perso
     bio: >-
-      LA | Vancouver Published Wardrobe Stylist | PR | styledbyamrita@gmail.com
+      Styliste personnelle Bloom par Karine Dubé/ Fashion stylist karine@bloomkd.com 📍 Montreal karine@bloomkd.com
     location: "Canada"
-    followers: 15572
-    engagement: 471
-    commentsToLikes: 0.052211
-    id: ck15pzh1f0ec70i19leafodw0
+    followers: 13286
+    engagement: 1282
+    commentsToLikes: 0.004646
+    id: cld8ldsvodfdi0j08pcdj1jb7
     verified: false
-    hashtags: "#alohouse"
-  - username: "arshmultanii"
+    hashtags: "#mtl, #montrealentrepreneur, #mystylediary, #fashionstylist"
+  - username: "vaneslajeunesse"
     fullname: >-
-      𝐀𝐑𝐒𝐇 𝐌𝐔𝐋𝐓𝐀𝐍𝐈
+      Vanessa Lajeunesse
     bio: >-
-      vancouver, bc • 6’2” influencer, stylist, owner @offwhitefilms and more use #yourstyleplug to get noticed email to work 🤍
+      Créatrice de contenu, modèle, podcasteuse & styliste Agence artistique Marie-Prose 📧 info@marieprose.ca
     location: "Canada"
-    followers: 10106
-    engagement: 1485
-    commentsToLikes: 0.041385
-    id: ck9whlru1yg5q0j78b0c5bxrf
+    followers: 23128
+    engagement: 2969
+    commentsToLikes: 0.073318
+    id: cksh9xn87vq2h0j23wz5qjen3
     verified: false
-    hashtags: "#trueoutfit, #modishgallery, #trillestoufit, #urbanstylemens"
-  - username: "bohemewandering"
+    hashtags: "#couple, #momlife, #maman, #teamwork"
+  - username: "gotsweige"
     fullname: >-
-      Leilani ⋒ piscean mermaid
+      Kyron Warrick
     bio: >-
-      Philosophic spiritualist . Poet & speaker. Channeller. Vintage curator & stylist. Collage artist. Microdosing with @blumlabss - “LEILANI15” 🍄
+      Creative consultant, Wardrobe stylist & Designer 📒® // ➜ Business Inquiries: e@medeamgmt.com @medeamgmt
     location: "Canada"
-    followers: 18968
-    engagement: 75
-    commentsToLikes: 0.136602
-    id: ck5hm2zualaad0i116k5nnxmm
+    followers: 66385
+    engagement: 519
+    commentsToLikes: 0.012893
+    id: cl56a8kiu1rvt0i23wi9vhedg
     verified: false
-    hashtags: "#islandgirl, #yyj, #vintagestyle, #bohemehoney"
-  - username: "aurelafashionista"
+    hashtags: "#teamnike, #ad, #thinkingoutloud"
+  - username: "talia_stylist"
     fullname: >-
-      Aurela Nasedkin
+      Talia Brown Thall
     bio: >-
-      STYLIST 📩 aurelafashionista@gmail.com
+      Stylist and Personal Shopper Lover of fairytales,unicorns,cupcakes,coffee and clothing. If you need me I'll be playing outside xx browntalia@gmail.com
     location: "Canada"
-    followers: 149371
-    engagement: 46
-    commentsToLikes: 0.144150
-    id: ck0tv8m4iabzl0i19t4aimlpi
+    followers: 10993
+    engagement: 359
+    commentsToLikes: 0.134039
+    id: ck55pey8kaf010i111pfyk51f
     verified: false
-    hashtags: "#haircut, #hairtransformation, #maxmara"
-  - username: "josiestevens"
+    hashtags: "#wearcanadaproud, #canyoudolunch, #thisislittle, #petitlem"
+  - username: "its.pariyaa"
     fullname: >-
-      Josie Stevens
+      Pariya Samadi
     bio: >-
-      Fashion designer & stylist, interior designer, MUA. TV Personality-E!’s “Married to Rock”.
+      PhD Candidate 💊💉 📍🇨🇦 ‏ Side Passion(Stylist/Designer): @luxiya.design My formulated beauty/cosmetics, Soon: @luxiya.beauty
     location: "Canada"
-    followers: 46142
-    engagement: 290
-    commentsToLikes: 0.062584
-    id: ck0vw9j9wspmu0i1933ue7baz
-    verified: true
-    hashtags: "#youractionssavelives, #rockthevote, #dollskill, #slowthespread"
-  - username: "hoodhippiespice"
-    fullname: >-
-      🦋SUZUKI🦋
-    bio: >-
-      🧚🏾 we connected bb GROOVY STYLIST expressive🎍 @spice.disposablez☮️
-    location: "Canada"
-    followers: 6544
-    engagement: 957
-    commentsToLikes: 0.067502
-    id: ck5bukbt3hxw90i11rm05cbk2
+    followers: 41447
+    engagement: 355
+    commentsToLikes: 0.039017
+    id: ck602s7f7iv1h0i14h3g5rmee
     verified: false
-    hashtags: "#pride"
-  - username: "capricestylist"
+    hashtags: "#makeuplook, #style, #stylist, #kavyarofficial"
+  - username: "la2_guri"
     fullname: >-
-      CAPRICE CONNERS
+      Gurpreet Singh
     bio: >-
-      Creative Director | Fashion Stylist Editorial | TV & Film 🎞 Mama to Everly Blue 🦋 For Inquiries & Partnerships 📧 anna@sinclaircreativeagency.com
+      👔Stylist ||Fashion blogger || influencer 🇨🇦 Toronto 🗺 India.Chandigarh @turban_byguri @bhangrabrigade7 @eye_flick 👻-la2_guri
     location: "Canada"
-    followers: 9961
-    engagement: 353
-    commentsToLikes: 0.087705
-    id: ck5c6l8jg5o6t0i11vqijxo04
+    followers: 107155
+    engagement: 344
+    commentsToLikes: 0.021136
+    id: ckv1vnchbw6gd0j23aexqqmb8
     verified: false
-    hashtags: "#canadafashion, #fashionedit, #streetwearculture, #fashionstylists"
-  - username: "karlgbrown"
+    hashtags: "#toronto, #canada, #punjab, #healthylifestyle"
+  - username: "morganlovely"
     fullname: >-
-      KARL BROWN
+      Morgan Tully
     bio: >-
-      co-founder | stylist + colorist @happybirthdaysalon
+      Founder / CEO @thichairco Toronto Salon owner - T H I C Studio Editorial stylist / Educator @dysonhairpro artist
     location: "Canada"
-    followers: 24392
-    engagement: 37
-    commentsToLikes: 0.030791
-    id: ck6tmbdi57j1q0j71ik5v7oem
+    followers: 9552
+    engagement: 249
+    commentsToLikes: 0.124920
+    id: ckmw1dsr76qve0j239m9hjcg9
     verified: false
-    hashtags: "#karlgbrown, #texture, #kevinmurphy, #longlayers"
-  - username: "chantal_li"
+    hashtags: "#torontosalon, #hairtutorial, #hairreel, #comingsoon"
+  - username: "clarehhoward"
     fullname: >-
-      Chantal Li
+      Clare Elizabeth
     bio: >-
-      Creative. Blogger. Stylist. Photographer 小红书/微博:chantal_li contact: chantal_li@live.ca
+      Stylist. Creator. Designer. - Marketing Director @bujoustudios For Inquires: clarehhoward@gmail.com
     location: "Canada"
-    followers: 188522
-    engagement: 87
-    commentsToLikes: 0.010503
-    id: ck135nbq429o20i19c34q9tw6
+    followers: 4422
+    engagement: 234
+    commentsToLikes: 0.020095
+    id: cktdxnzgz8mtj0j23jn8vb2if
     verified: false
-    hashtags: "#ad, #armanibeauty, #lipmaestro, #armanimyway"
-  - username: "terianncarty"
+    hashtags: ""
+  - username: "isabel.lately"
     fullname: >-
-      Food Photographer + Stylist
+      Isabel 🕯
     bio: >-
-      👩🏻‍🍳Vegan Recipe Developer & Food Photographer 📝Contributor @bestofvegan 📷Food stylist 🧘🏻‍♀️Yoga Teacher📍Toronto
+      📍Toronto @aritzia stylist Mom to @mason__makai hi.isabelmangubat@gmail.com CODES + LINKS ↓
     location: "Canada"
-    followers: 27667
-    engagement: 268
-    commentsToLikes: 0.272545
-    id: ck5zzcswubhtr0i14rz5mp0un
+    followers: 7322
+    engagement: 223
+    commentsToLikes: 0.069623
+    id: ck6u5xpfpcczb0j715evzo64v
     verified: false
-    hashtags: "#vegansofig, #easyvegan, #glutenfreevegan, #foodphotography"
+    hashtags: "#neutralaesthetic, #minimalstreetstyle, #beautysession, #minimalstyle"
+  - username: "torontoplant.girl"
+    fullname: >-
+      Julia | Toronto’s Plant Doctor🌿
+    bio: >-
+      🪴Toronto Plant Consultant and Stylist 📆 Tap BOOK NOW 🎓 Horticultural Cert. 📰 Seen in @blogto @thetorontostar @ctvtoronto @citynewsto @cbc
+    location: "Canada"
+    followers: 92000
+    engagement: 226
+    commentsToLikes: 0.094464
+    id: ck5zij1cvfsx50i14kkqce03u
+    verified: false
+    hashtags: "#crazyplantpeople, #torontocreators, #plantparentcommunity, #torontolife"
 ---

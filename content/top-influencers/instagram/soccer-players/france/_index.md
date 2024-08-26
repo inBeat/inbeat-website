@@ -1,11 +1,11 @@
 ---
-title: Top 10 Soccer-Players Instagram Influencers In France In 2023
+title: Top 10 Soccer-Players Instagram Influencers In France In 2024
 description: >-
-  Find top soccer-players Instagram influencers in France in 2023. Most popular hashtags: #soccer #football #soccerplayer #sport.
+  Find top soccer-players Instagram influencers in France in 2024. Most popular hashtags: #soccer #soccerplayer #football #footballplayer.
 platform: Instagram
-hits: 28
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 28 Instagram influencers like this in France for you to connect with.
+hits: 29
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 29 Instagram influencers like this in France for you to work with.
 profiles:
   - username: "meli_7herrera"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ckap319k716y40i78hd32k53n
     verified: true
     hashtags: "#save, #focus, #look, #picoftheday"
-  - username: "theindianfootballer"
-    fullname: >-
-      Nitesh sharma | Footballer⚽
-    bio: >-
-      𝐁𝐄𝐍𝐆𝐀𝐋𝐔𝐑𝐔 📍 💳𝐔𝐄𝐅𝐀 𝐁 Licence ( 𝐢𝐧𝐭) 📝𝐇𝐄𝐀𝐃 𝐂𝐎𝐀𝐂𝐇 /𝐎𝐖𝐍𝐄𝐑 @majazfc 🏟️ PLAYER SCOUT 🤝- DM ⚽𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐓𝐫𝐚𝐢𝐧𝐞𝐫 ( 𝐏𝐑𝐎 𝐏𝐋𝐀𝐘𝐄𝐑𝐒 )
-    location: "France"
-    followers: 20299
-    engagement: 1061
-    commentsToLikes: 0.020780
-    id: ck6uf7f67vcty0j71zs2r8e80
-    verified: false
-    hashtags: "#sports, #wtfskills, #soccerskills, #flickups"
   - username: "trick.shooterss"
     fullname: >-
       All Sports Trick Shots🇫🇷
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.135828
     id: ck6010gvvemev0i14ucww3wyv
     verified: true
-    hashtags: "#footballtime, #realmadrid, #soccertraining, #soccerplayer"
+    hashtags: "#ronaldo, #footballer, #fifa, #footballtime"
   - username: "boumesama"
     fullname: >-
       Boumé Sama
@@ -91,18 +79,6 @@ profiles:
     id: ck8sx589eg7ae0j78ste24t4x
     verified: false
     hashtags: "#predator, #soccerplayer, #golazo, #neymar"
-  - username: "rilesfreestyle"
-    fullname: >-
-      RILES ✌🏼⚽️
-    bio: >-
-      ⚽️ Pro Freestyler |📍PARIS 🏆 TOP 16 FRANCE 🎥 Tiktok : rilesskills 🌍
-    location: "France"
-    followers: 7186
-    engagement: 1117
-    commentsToLikes: 0.084545
-    id: ck138d7dnfo3h0i19lsmbxqm4
-    verified: false
-    hashtags: "#football, #streetsoccer, #skills, #soccerskills"
   - username: "manuel_braun_photographe"
     fullname: >-
       Manuel Braun
@@ -114,7 +90,7 @@ profiles:
     commentsToLikes: 0.046957
     id: ckaoxwz2rf4090i78aj9fxes4
     verified: false
-    hashtags: "#partsmodel, #retro, #fashionmagazine, #joke"
+    hashtags: "#mamiyarz, #yopougon, #boys, #pleasemagazine"
   - username: "aouchichefrance"
     fullname: >-
       TEAM AOUCHICHE | Fan Page 📲
@@ -127,4 +103,28 @@ profiles:
     id: ckaotfk9cvq1r0i78v7onu0er
     verified: false
     hashtags: "#futbol, #fifa20, #teamasse, #basket"
+  - username: "ludogiuly8"
+    fullname: >-
+      Ludovic Giuly
+    bio: >-
+      Facebook : @ludovic.Giuly.Officiel Twitter : Ludovic_Giuly Partenariat : management@afterfootassociation.org ⚓️ @le8_catamaran_plaisance
+    location: "France"
+    followers: 77792
+    engagement: 208
+    commentsToLikes: 0.020240
+    id: ck8sy3ijmjlxw0j78nu0j3wc6
+    verified: true
+    hashtags: "#soccer, #fcbarcelona, #football, #giuly"
+  - username: "sarah.freestyleball"
+    fullname: >-
+      𝙎𝘼𝙍𝘼𝙃 𝙑𝙄𝙉𝘾𝙀𝙉𝙏
+    bio: >-
+      🅵🆁🅴🅴🆂🆃🆈🅻🅴 ⚽️ 🇫🇷 Fr / Freestyleuse | 22yo Demande de partenariat:⬇️ vincentsarah14@gmail.com 📨 -15% sur le site Speenstyle avec le code « SARAH » ⚽️
+    location: "France"
+    followers: 5154
+    engagement: 397
+    commentsToLikes: 0.026682
+    id: ckaoxy1spf8in0i78ndt5q7mq
+    verified: false
+    hashtags: "#girlssoccer, #vaujany, #footballskills, #speen"
 ---

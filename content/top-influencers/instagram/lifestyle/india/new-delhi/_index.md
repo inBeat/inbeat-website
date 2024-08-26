@@ -1,24 +1,48 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In New Delhi In 2023
+title: Top 10 Lifestyle Instagram Influencers In New Delhi In 2024
 description: >-
-  Find top lifestyle Instagram influencers in New Delhi in 2023. Most popular hashtags: #blogger #explore #reelitfeelit #fashionblogger.
+  Find top lifestyle Instagram influencers in New Delhi in 2024. Most popular hashtags: #lifestyle #instagood #ootd #reels.
 platform: Instagram
-hits: 78
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 78 Instagram influencers like this in New Delhi, India for you to contact.
+hits: 88
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 88 Instagram influencers like this in New Delhi, India for you to connect with.
 profiles:
-  - username: "akhandpratapsinghh"
+  - username: "ishhasharma17"
     fullname: >-
-      Akhand Pratap Singh 👔
+      ईशा शर्मा
     bio: >-
-      Men's Fashion | Grooming | Lifestyle | New Delhi,India 🇮🇳 📩: fashionfarmer01@gmail.com
+      🎞 Beauty - Lifestyle 📍New Delhi, India 📩business.ishhasharma@gmail.com ⬇️ youtube
     location: "India"
-    followers: 107318
-    engagement: 181
-    commentsToLikes: 0.065214
-    id: ckaoz7j6zkpxo0i788ofngfo8
+    followers: 34958
+    engagement: 229
+    commentsToLikes: 0.008523
+    id: ckmw1d7lj6ju00j23feq33k3p
     verified: false
-    hashtags: "#sponsored, #thesafelook, #amazonprimeday, #wowhairdays"
+    hashtags: "#glyclarify, #ishhaturns22, #ishamily, #ad"
+  - username: "shopaholicadventures"
+    fullname: >-
+      Shopaholicadventures
+    bio: >-
+      Praghti & Mallika 🧜🏼 Fashion | Beauty | Travel | Lifestyle 📍New Delhi | Noida 💌 For collaboration DM
+    location: "India"
+    followers: 18739
+    engagement: 130
+    commentsToLikes: 0.287716
+    id: ck8t7ayqng5vn0j78ra3rygfk
+    verified: false
+    hashtags: "#fashionista, #instamua, #reelitfeelit, #indianyoutuber"
+  - username: "_abix_"
+    fullname: >-
+      Abhinav Mathur
+    bio: >-
+      Men's Fashion & Luxury Lifestyle 📍New Delhi
+    location: "India"
+    followers: 127023
+    engagement: 124
+    commentsToLikes: 0.060072
+    id: ck5qaj0k5gnsp0i117mb3mv42
+    verified: false
+    hashtags: "#style, #itchotels, #mercedesbenz, #mensfashion"
   - username: "tusharikasethi"
     fullname: >-
       Tusharika Sethi
@@ -30,67 +54,31 @@ profiles:
     commentsToLikes: 0.082820
     id: ckap02xjhohdn0i78bqctyjt1
     verified: false
-    hashtags: "#poser, #sea, #traveldiaries, #hiking"
-  - username: "pragyasachdev"
+    hashtags: "#mountains, #bloggerstyle, #blogger, #india"
+  - username: "taukeer_editz"
     fullname: >-
-      Pragya
+      Tauqeer azeem
     bio: >-
-      • پرگیہ • FASHION | BEAUTY | LIFESTYLE NIFT New Delhi🎓 Delhi📍
+      • Photo | Lifestyle 🚀 • Creator | New Delhi📍 • officialtaukeereditz@gmail.com 📩
     location: "India"
-    followers: 10082
-    engagement: 159
-    commentsToLikes: 0.083300
-    id: ckf5vglixoizy0j23l988q2mq
+    followers: 540179
+    engagement: 482
+    commentsToLikes: 0.010886
+    id: ck15r3put5zoz0i19o97av7e3
     verified: false
-    hashtags: "#hairismyhappy, #myglammxo, #birthdayootd, #myglammxobeautycreator"
-  - username: "shopaholicadventures"
-    fullname: >-
-      Shopaholic adventures
-    bio: >-
-      Praghti & Mallika 🧜🏼 Fashion | Beauty | Travel | Lifestyle 📍New Delhi 💌 For collaboration DM/Mail Check out our new video 🔻
-    location: "India"
-    followers: 18824
-    engagement: 195
-    commentsToLikes: 0.284934
-    id: ck8t7ayqng5vn0j78ra3rygfk
-    verified: false
-    hashtags: "#reelpose, #valentine, #valentineday, #birthday"
-  - username: "thesoleposer"
-    fullname: >-
-      CHAHAT
-    bio: >-
-      Lifestyle. Fashion New delhi @chahat_anand 100k + on youtube
-    location: "India"
-    followers: 4775
-    engagement: 466
-    commentsToLikes: 0.035022
-    id: ck9wdcycjf3dh0j783si5aild
-    verified: false
-    hashtags: "#reelitfeelit, #thegreatindianfoodie, #maggi, #chahatanand"
+    hashtags: "#photooftheday, #modelposes, #editzarmy, #fashioninfluencer"
   - username: "kiara.fulara"
     fullname: >-
       Kiara 👰🏻
     bio: >-
       👗|| FASHION 👜|| LIFESTYLE 🛵|| TRAVEL 🇮🇳|| NEW DELHI ( INDIA ) 📬|| DM or Mail Queries/Collabs 🔻SUBSCRIBE🔻
     location: "India"
-    followers: 162263
-    engagement: 3293
-    commentsToLikes: 0.010172
+    followers: 193642
+    engagement: 2875
+    commentsToLikes: 0.007709
     id: ck8werlb1ei8t0j789nw8tukn
     verified: false
-    hashtags: "#fashionblogger, #delhite, #longhair, #trending"
-  - username: "shewon_alyosius"
-    fullname: >-
-      Shewon Alyosius
-    bio: >-
-      Never give up on your dreams. Digital Marketer | Fashion Stylist | Fashion Model Fashion • Beauty • Lifestyle • Portraits 📍New Delhi
-    location: "India"
-    followers: 75093
-    engagement: 134
-    commentsToLikes: 0.058256
-    id: ck15sp6r1e4k90i19kx2hi3on
-    verified: false
-    hashtags: "#happyvibes, #rakhi, #rakhshabandhan, #positivevibes"
+    hashtags: "#styleblogger, #ootd, #lifestyle, #trending"
   - username: "pickyplates"
     fullname: >-
       Picky Plates(Arundhati/Manish)
@@ -103,18 +91,30 @@ profiles:
     id: ck15q4woc143b0i199y3jd78u
     verified: false
     hashtags: "#mumbaifoodie, #foodbloggers, #punefood, #foodiesofindia"
-  - username: "basicallymenz"
+  - username: "anishka_khantwaal18"
     fullname: >-
-      SANDEEP RAI
+      Anishka Khantwaal
     bio: >-
-      •Lawyer •Lifestyle • Luxury •Fashion 📍 New Delhi #basicallymenz #winningstreak Club House : sandeepraii • 📩 basicallymenz@gmail.com
+      🚩Mahadev 🚩 📍 New Delhi Beauty • Lifestyle • Fashion 📩 For business - Doozyanishka@gmail.com YouTube channel 👇🏻 1.28Million
     location: "India"
-    followers: 69492
-    engagement: 343
-    commentsToLikes: 0.022905
-    id: ckap4umjt8xze0i78org99soe
+    followers: 313634
+    engagement: 269
+    commentsToLikes: 0.019631
+    id: ck8td3sio1r050j78cei9m1hi
     verified: false
-    hashtags: "#ad, #vintagestyle, #createart, #basicallymenz"
+    hashtags: "#reels, #feed, #trending, #anishkasquad"
+  - username: "caffeine_and_more"
+    fullname: >-
+      Neha Sherawat
+    bio: >-
+      📍New delhi Fashion | Lifestyle | Beauty | Travel For collab: 💌Nehasherawat10@gmail.com #galaxycreator @samsungindia
+    location: "India"
+    followers: 67012
+    engagement: 142
+    commentsToLikes: 0.026070
+    id: ckto9u9x1epci0j232lw2w9zj
+    verified: false
+    hashtags: "#nehasherawat, #reels, #slay, #ootd"
   - username: "lisa_travelstories"
     fullname: >-
       Ewe Lisa || Poland || India
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.031504
     id: ck6tmjrja7ysf0j7134wfcpog
     verified: false
-    hashtags: "#letsgosomewhere, #visitsantorini, #speechlessplaces, #amazingthailand"
+    hashtags: "#thailand, #visitgreece, #thaitraveling, #travelphotography"
 ---

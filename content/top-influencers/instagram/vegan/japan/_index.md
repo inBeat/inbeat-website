@@ -1,24 +1,48 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Japan In 2023
+title: Top 10 Vegan Instagram Influencers In Japan In 2024
 description: >-
-  Find top vegan Instagram influencers in Japan in 2023. Most popular hashtags: #vegan #sdgs #plantbased #veganathlete.
+  Find top vegan Instagram influencers in Japan in 2024. Most popular hashtags: #vegan #pr #japan #plantbased.
 platform: Instagram
-hits: 64
+hits: 68
 text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 64 Instagram influencers like this in Japan for you to collaborate.
+text_bottom: Our platform aggregates 68 Instagram influencers like this in Japan for you to connect with.
 profiles:
+  - username: "tokyovegangirl_miyu"
+    fullname: >-
+      Miyu🌱前本美結 Sustainable Life Creator
+    bio: >-
+      Sustainability ✴︎ Human rights ✴︎ Vegan 💁🏻‍♀️ サステナブルライフクリエイター🪄model✨ 🌱 地球と人と動物に優しい生活を発信 🧡 『できる人ができることをできるだけ』 🌏 100年後の未来に残って欲しいモノだけ 💭 @umtokyo manager
+    location: "Japan"
+    followers: 17515
+    engagement: 647
+    commentsToLikes: 0.014034
+    id: ck0txuox7kifh0i19d2ja2pxe
+    verified: false
+    hashtags: "#japan, #ftwotw, #featuremeseas, #bravogreatphoto"
+  - username: "yo_onityan"
+    fullname: >-
+      Yo Onityan 30
+    bio: >-
+      🇯🇵Guitarist for every where🌏 DM for Guitar Lesson,Tour,Work📩 VEGAN Sub account @onityan_yo String 🤝@ernieball
+    location: "Japan"
+    followers: 105985
+    engagement: 342
+    commentsToLikes: 0.016377
+    id: ck55ky11r0cg10i11v5djmnbf
+    verified: false
+    hashtags: "#7stringguitar, #guitarlife, #djent, #deathmetal"
   - username: "whyte_shiori"
     fullname: >-
       中島潮里 Shiori Nakajima
     bio: >-
-      Vegan beauty salon & vegancafe「whyte」 Hair stylist✂︎ サスティナブルアンバサダー🌍 自然由来で身体にも環境にも優しいコスメで自然体に過ごせるスタイルを提案します🌿 @whyte_mare.amo
+      Vegan Beauty salon & Vegan cafe「whyte」 Top Stylist✂︎ 海を守る為のサスティナブルアンバサダー🌍 ELLEスタイルインサイダー 自然由来で身体にも環境にも優しいコスメで自然体に過ごせるスタイルを提案🌿 #オーガニックコスメだけでメイク
     location: "Japan"
-    followers: 64324
-    engagement: 129
-    commentsToLikes: 0.000692
+    followers: 66340
+    engagement: 130
+    commentsToLikes: 0.000424
     id: ck15paft8wwc60i19jyal9jpm
     verified: false
-    hashtags: "#vegan, #cosmekitchen, #veganbeauty, #bob"
+    hashtags: "#celvoke, #bob, #sustainablebeauty, #veganbeauty"
   - username: "missatoooo"
     fullname: >-
       misato komatsubara
@@ -31,18 +55,6 @@ profiles:
     id: ck6udkka8lmir0j71o0x7grvq
     verified: false
     hashtags: "#icedance, #dreamgirls, #dollynoire, #teamkoko"
-  - username: "yo_onityan"
-    fullname: >-
-      Shredder27
-    bio: >-
-      All SNS Yo onityan SNSは全部Yo onityan @ernieball @swiss_picks ダイレクトメッセージでレッスン仕事依頼、 DM for lesson,session,work vegan
-    location: "Japan"
-    followers: 39333
-    engagement: 245
-    commentsToLikes: 0.021219
-    id: ck55ky11r0cg10i11v5djmnbf
-    verified: false
-    hashtags: "#ibanez, #metal, #metalhead, #shredding"
   - username: "akicocoakicoco2"
     fullname: >-
       𝒜𝓀𝒾𝒸𝑜𝒸𝑜【笑顔になるごはん】
@@ -91,18 +103,6 @@ profiles:
     id: ck136is8n6oua0i19uhbinil3
     verified: false
     hashtags: "#vegansofig, #vegantips, #veganpump, #plantbased"
-  - username: "meyou.mae"
-    fullname: >-
-      Miyu 🦋Tokyo Vegan Girl みゆ
-    bio: >-
-      🪴 サステナブルライフクリエイター🕊 🌏 地球＆人＆動物、そして自分にも優しく。 🎥 YouTubeで社会問題解説&エコな生き方を発信中💡 👗 モデル／PRは、未来に残って欲しい物だけお受けしてます。 📝 気候変動 / SDGs / エシカルファッション / ヴィーガンコスメ…etc
-    location: "Japan"
-    followers: 16238
-    engagement: 847
-    commentsToLikes: 0.018491
-    id: ck0txuox7kifh0i19d2ja2pxe
-    verified: false
-    hashtags: "#moodyport, #bravogreatphoto, #theworldofportraits, #tokyophotography"
   - username: "latelier_del"
     fullname: >-
       EL  エル

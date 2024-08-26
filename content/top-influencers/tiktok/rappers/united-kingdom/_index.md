@@ -1,24 +1,24 @@
 ---
-title: Top 10 Rappers TikTok Influencers In United Kingdom In 2023
+title: Top 10 Rappers TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top rappers TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryou #foryoupage #rap.
+  Find top rappers TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #foryou #rapper #rap.
 platform: TikTok
-hits: 65
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 65 TikTok influencers like this in United Kingdom for you to pitch.
+hits: 64
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 64 TikTok influencers like this in United Kingdom for you to pitch.
 profiles:
   - username: "stylitherapper"
     fullname: >-
       Styli
     bio: >-
-      Rapper Name - Styli 🔥PRE-SAVE MY NEW SINGLE🔥 (link below)
+      Rapper Name - Styli 🔥Cover Of Vogue (Official Music Video)🔥 [link below]
     location: "United Kingdom"
-    followers: 122300
-    engagement: 2024
-    commentsToLikes: 0.097557
+    followers: 124800
+    engagement: 2009
+    commentsToLikes: 0.103125
     id: ckcp23eyzbgsh0j23izyyg8ym
     verified: false
-    hashtags: "#fyp, #6lack, #callingmyphone, #rap"
+    hashtags: "#hiphop, #newmusic, #rapper, #fyp"
   - username: "lovechild1999"
     fullname: >-
       L❤️VECHiLD™ 🧚‍♀️
@@ -78,19 +78,7 @@ profiles:
     commentsToLikes: 0.020432
     id: cka9o0nxq597n0i784uc02mj8
     verified: false
-    hashtags: "#england, #shayar, #uk, #shayari"
-  - username: "jmpr5"
-    fullname: >-
-      Jmpr
-    bio: >-
-      Click here to see my secret talent 😱 ⬇️
-    location: "United Kingdom"
-    followers: 6050
-    engagement: 1722
-    commentsToLikes: 0.093607
-    id: ckdhfgecwxbti0j2339id3xb8
-    verified: false
-    hashtags: "#teenager, #roadman, #producer, #fyp"
+    hashtags: "#london, #england, #haryana, #haryanvi"
   - username: "icydarabbit"
     fullname: >-
       IcyDaRabbit
@@ -127,4 +115,16 @@ profiles:
     id: ck8orcyzrbkkb0j78ymdv9rxs
     verified: false
     hashtags: "#hiphop, #acrylicpainting, #speedart, #foryoupage"
+  - username: "senseidonline"
+    fullname: >-
+      Sensei D
+    bio: >-
+      Artist Follow me on Spotify email: senseidonline@gmail.com
+    location: "United Kingdom"
+    followers: 21300
+    engagement: 851
+    commentsToLikes: 0.251768
+    id: ck8fc50on6kde0j782oy8vx89
+    verified: false
+    hashtags: "#dog, #artist, #owaowa, #duet"
 ---

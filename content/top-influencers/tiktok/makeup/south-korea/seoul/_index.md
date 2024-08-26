@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Seoul In 2023
+title: Top 10 Makeup TikTok Influencers In Seoul In 2024
 description: >-
-  Find top makeup TikTok influencers in Seoul in 2023. Most popular hashtags: #fyp #korea #seoul #makeup.
+  Find top makeup TikTok influencers in Seoul in 2024. Most popular hashtags: #fyp #korea #makeup #seoul.
 platform: TikTok
 hits: 9
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat has 9 TikTok influencers like this in Seoul, South Korea for you to pitch.
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 9 TikTok influencers like this in Seoul, South Korea for you to collaborate.
 profiles:
   - username: "seahssam"
     fullname: >-
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.083187
     id: ckbqhmuz82z4f0j23bxtmwmta
     verified: true
-    hashtags: "#foryou, #fyp, #vlive, #kpopmakeup"
+    hashtags: "#foryou, #vlive, #fyp, #kpopmakeup"
 ---

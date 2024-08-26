@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Singapore In 2023
+title: Top 10 Cosmetics Instagram Influencers In Singapore In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Singapore in 2023. Most popular hashtags: #makeup #stayhome #lipstick #beauty.
+  Find top cosmetics Instagram influencers in Singapore in 2024. Most popular hashtags: #singapore #skincareroutine #sgblogger #ootd.
 platform: Instagram
-hits: 8
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform has 8 Instagram influencers like this in Singapore for you to collaborate.
+hits: 13
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 13 Instagram influencers like this in Singapore for you to collaborate.
 profiles:
   - username: "sharmila.logan"
     fullname: >-
@@ -31,18 +31,66 @@ profiles:
     id: ck6tuthl5ibm90j713egweuug
     verified: false
     hashtags: "#tbt, #stayhome, #bowling, #boliche"
+  - username: "ivannavich"
+    fullname: >-
+      Ivan L
+    bio: >-
+      🌟ʟɪꜰᴇꜱᴛʏʟᴇ ᴀᴅᴠᴇɴᴛᴜʀᴇʀ 🦄Actor managed by @teambeamers ᴊᴏɪɴ ᴍᴇ ᴏɴ ᴍʏ ᴀᴅᴠᴇɴᴛᴜʀᴇꜱ ᴏʀ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ 📩Ivannavich@gmail.com ⬇ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴍʏ ꜱɪᴛᴇ
+    location: "Singapore"
+    followers: 26645
+    engagement: 264
+    commentsToLikes: 0.016580
+    id: ck0w5dn3w34lj0i19xh284gj7
+    verified: false
+    hashtags: "#lifestylestore, #lifestyleinfluencer, #singaporean, #beautyblogging"
+  - username: "so.gelly"
+    fullname: >-
+      GELLY-
+    bio: >-
+      What is life without bad puns and fat animals. 🌚 📍SG 🇸🇬 📱iPhone 14 📸Leica 🐱 @cat_dako Lifestyle | Fashion | Beauty | Food | Travel
+    location: "Singapore"
+    followers: 17906
+    engagement: 132
+    commentsToLikes: 0.054268
+    id: ck6ugwgch5ksw0j71z4lz5sj8
+    verified: false
+    hashtags: "#instagramsg, #sggirl, #singaporeinsiders, #stylepost"
+  - username: "xavvylicious"
+    fullname: >-
+      SG 🇸🇬 Serene Seah
+    bio: >-
+      @orbis_sg Ambassador Young Living #1470886 ✈#TheChuasTravelogue 🇰🇷 Dec DM for Collabs | Invites
+    location: "Singapore"
+    followers: 7883
+    engagement: 124
+    commentsToLikes: 0.472380
+    id: clm70ajo5geiz0j08q0etwgp1
+    verified: false
+    hashtags: "#sgfoodie, #ikseondong, #visitsingapore, #discoverkorea"
   - username: "beautifulbuns_sg"
     fullname: >-
       Cheryl 세린 🙋🏻
     bio: >-
       Editor, Ex-journalist, Multi-award-winning beauty blogger HerWorld Beauty Awards Judge HerWorldPlus SMA Beauty Winner ‘16 Most Popular Beauty Blog ‘15
     location: "Singapore"
-    followers: 35044
-    engagement: 103
-    commentsToLikes: 0.083201
+    followers: 31404
+    engagement: 46
+    commentsToLikes: 0.049376
     id: ck5cb6rp1euka0i11zuuwh70y
     verified: false
-    hashtags: "#pink, #beauty, #makeup, #cosmeticos"
+    hashtags: "#sephora, #eyeshadowpalette, #skincareregimen, #maquillaje"
+  - username: "notveron"
+    fullname: >-
+      👼🏻
+    bio: >-
+      📍Singapore
+    location: "Singapore"
+    followers: 12500
+    engagement: 126
+    commentsToLikes: 0.004923
+    id: ck5py4mqeual70i11t3ma7vxt
+    verified: false
+    hashtags: "#igsg, #partipost, #sp, #phnompenh"
   - username: "welllai_dsg"
     fullname: >-
       威爾 賴 Well lai 小威
@@ -55,52 +103,28 @@ profiles:
     id: ck6tzgxkr9my90j7146caph6d
     verified: false
     hashtags: "#shuuemura, #rougeunlimited, #shuuemurasg, #ootd"
-  - username: "soniaasyira"
+  - username: "mariemjsoh"
     fullname: >-
-      🌻Sonia Asyira Arman🌻
+      Marie Soh
     bio: >-
-      Daydreamer & Catmom 🕊 #ELCBeautyInsider fam 💋 @fatimar.co 💖 For any enquiries, DM / soniaasyira@yahoo.com.sg ✨
+      Mom • Make Up Artist • Host • Baker @27a.co @kexsociety
     location: "Singapore"
-    followers: 29856
-    engagement: 530
-    commentsToLikes: 0.011529
-    id: ck14ihtosfgyl0i19rj6j6sz5
+    followers: 12572
+    engagement: 30
+    commentsToLikes: 0.007258
+    id: cllzvyu1mryr90j08iuzoykxy
     verified: false
-    hashtags: "#ootd, #worlddream, #bobbibrownsg, #hijabfashion"
-  - username: "snezanagrba"
+    hashtags: "#shoplocalsg, #christmasshop, #decoration, #17daystochristmas"
+  - username: "faycloughy"
     fullname: >-
-      Snezana Grba MAKEUP
+      Fay Clough
     bio: >-
-      Professional Makeup Happy💄Artist 💋 Makeup teacher and owner of makeup studio&school “SG”📚 ☎+382 67 610 731 Montenegro snezanagrba@gmail.com
+      barry’s trainer/online pt/first-time mum based in 🇸🇬 𝐿𝑜𝓋𝑒 𝒾𝓈 𝓃𝑜𝓉 𝒻𝒾𝓃𝒹𝒾𝓃𝑔 𝓈𝑜𝓂𝑒𝑜𝓃𝑒 𝓉𝑜 𝓁𝒾𝓋𝑒 𝓌𝒾𝓉𝒽. 𝐼𝓉’𝓈 𝒻𝒾𝓃𝒹𝒾𝓃𝑔 𝓈𝑜𝓂𝑒𝑜𝓃𝑒 𝓎𝑜𝓊 𝒸𝒶𝓃’𝓉 𝓁𝒾𝓋𝑒 𝓌𝒾𝓉𝒽𝑜𝓊𝓉.”
     location: "Singapore"
-    followers: 33857
-    engagement: 110
-    commentsToLikes: 0.027443
-    id: ck5hou9x1q8so0i11emc2o71n
+    followers: 23855
+    engagement: 111
+    commentsToLikes: 0.018408
+    id: ck0ubxelkfhjq0i19bu9vlp0l
     verified: false
-    hashtags: "#makeup, #prom, #fashion, #pretty"
-  - username: "sahursart"
-    fullname: >-
-      sahur saleim
-    bio: >-
-      🌿award-winning celebrity makeup artist 🎨founder and CEO @sahursartbeauty 🇸🇬singapore ✨she/her 💌info@sahursart.com
-    location: "Singapore"
-    followers: 309632
-    engagement: 82
-    commentsToLikes: 0.022840
-    id: ck0ub27p6dl3t0i1983k04yra
-    verified: true
-    hashtags: "#sp, #freshlovesg, #sahursart, #cliniquesg"
-  - username: "onlyaestheticssg"
-    fullname: >-
-      Medical Aesthetics & Lifestyle
-    bio: >-
-      🏆 #1 SG Largest Award Winning Medical Aesthetics Group ☎️ 6220 4434 /WA: 8123 7714 👍 5000+ 5⭐️Reviews 🇸🇬 9 Outlets Order: https://bit.ly/3pkJPOn
-    location: "Singapore"
-    followers: 27665
-    engagement: 1027
-    commentsToLikes: 0.000142
-    id: ck0w29g9kn97e0i19qnhdfis0
-    verified: false
-    hashtags: "#hairremoval, #onlyskin, #ledtechnology, #results"
+    hashtags: "#barryssingapore, #singapore, #sp, #babygirl"
 ---

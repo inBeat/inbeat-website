@@ -1,11 +1,11 @@
 ---
-title: Top 10 Runners Instagram Influencers In Russia In 2023
+title: Top 10 Runners Instagram Influencers In Russia In 2024
 description: >-
-  Find top runners Instagram influencers in Russia in 2023. Most popular hashtags: #running #sport #motivation.
+  Find top runners Instagram influencers in Russia in 2024. Most popular hashtags: #running #sport #motivation.
 platform: Instagram
-hits: 32
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 32 Instagram influencers like this in Russia for you to collaborate.
+hits: 31
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database has 31 Instagram influencers like this in Russia for you to collaborate.
 profiles:
   - username: "dunya.win"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ckap7cdwojgoy0i783tk343ev
     verified: false
     hashtags: ""
-  - username: "saule_sergazinova"
-    fullname: >-
-      Saule, Travel & Lifestyle
-    bio: >-
-      😊 PR, influence marketing @prpowerkz 😍 CEO @takeoff_kz ✊🏼 100% self-made person, motivator, runner 🌏 Traveler, visited 44 countries
-    location: "Russia"
-    followers: 78047
-    engagement: 122
-    commentsToLikes: 0.062867
-    id: ck6tk8hl447f60j713zpfppr2
-    verified: false
-    hashtags: "#saule, #takeoffkz, #sonmezrealastate, #rixosborovoe"
   - username: "viktoriya_400h"
     fullname: >-
       Viktoriya Tkachuk
@@ -127,4 +115,16 @@ profiles:
     id: ckapbslh916tl0i78u79weu38
     verified: false
     hashtags: "#madfox, #salomonrussia, #squeezyteamrussia, #salomonrussian"
+  - username: "shaemsha"
+    fullname: >-
+      EMILIA
+    bio: >-
+      ☽ 2-nd Runner Up Miss Ukraine World 2017 ☽ VIDEOGRAPHY | VIDEO PRODUCTION @shaemshavideo ☽ @shaemshart
+    location: "Russia"
+    followers: 101870
+    engagement: 248
+    commentsToLikes: 0.010582
+    id: ck0w6wpllamcs0i192kiwgfsk
+    verified: false
+    hashtags: "#shaemshavideo"
 ---

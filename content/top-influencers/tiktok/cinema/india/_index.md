@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema TikTok Influencers In India In 2023
+title: Top 10 Cinema TikTok Influencers In India In 2024
 description: >-
-  Find top cinema TikTok influencers in India in 2023. Most popular hashtags: #duet #foryou #tiktok #tidelagaodaaghatao.
+  Find top cinema TikTok influencers in India in 2024. Most popular hashtags: #tiktok #foryou #duet #foryoupage.
 platform: TikTok
 hits: 120
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our database holds 120 TikTok influencers like this in India for you to connect with.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 120 TikTok influencers like this in India for you to connect with.
 profiles:
   - username: "jude_thaadikaran"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music Instagram Influencers In Germany In 2023
+title: Top 10 Music Instagram Influencers In Germany In 2024
 description: >-
-  Find top music Instagram influencers in Germany in 2023. Most popular hashtags: #love #germany #fashion.
+  Find top music Instagram influencers in Germany in 2024. Most popular hashtags: #festival #travel #makeup #music.
 platform: Instagram
-hits: 1267
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 1267 Instagram influencers like this in Germany for you to connect with.
+hits: 1615
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 1615 Instagram influencers like this in Germany for you to connect with.
 profiles:
   - username: "arianejati"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck0w0z4pngr0j0i19gvueiry0
     verified: true
     hashtags: "#umzug, #byebye0221, #mvp, #nullaufhundert"
-  - username: "why.not.music"
+  - username: "evadnnr"
     fullname: >-
-      WHY NOT 🦙
+      Eva Donner
     bio: >-
-      🍕 | artist from italy 🪐 | trying to make this world a better place 📩 | info@whynot-music.it @kardo.squad | good vibes only🫶🏽
+      ✨ 23 |📍 Marburg 👩🏻‍🎓 Law Student | 🎮 Twitch | 🎧 @anvee_music
     location: "Germany"
-    followers: 10664
-    engagement: 427
-    commentsToLikes: 0.038721
-    id: ck5zxg6qx7yhk0i14fjlvzrwg
+    followers: 4180
+    engagement: 1704
+    commentsToLikes: 0.035152
+    id: ck0vzupfbazp60i19uthu6u98
     verified: false
-    hashtags: "#novalja, #zr, #zrcebeach, #isoladipag"
-  - username: "brianziff"
+    hashtags: "#flashesofdelight, #sheingals, #bloggerinspo, #travelgram"
+  - username: "melissa_naschenweng"
     fullname: >-
-      Brian Ziff
+      Melissa Naschenweng
     bio: >-
-      Photographer, Musician, Degenerate. ✨
+      3 x Platin 6 x Amadeus Music Award 4 x Gold LEGENDEN 🎵 ABSOFORT ERHÄLTLICH
     location: "Germany"
-    followers: 87830
-    engagement: 806
-    commentsToLikes: 0.043789
-    id: ck0w3xvqzvu500i19f8a8km6m
-    verified: false
-    hashtags: "#playmate, #papermagazine, #breaktheinternet, #dojacat"
-  - username: "sonyayoncheva"
-    fullname: >-
-      Sonya Yoncheva
-    bio: >-
-      Sony Classical | Rolex Ambassador | Unicef Ambassador | Founder of SY11 Productions “Music Is The Universal Language Of Mankind”
-    location: "Germany"
-    followers: 68156
-    engagement: 298
-    commentsToLikes: 0.020018
-    id: ck6u3154lv2yw0j71l62huzhz
+    followers: 308288
+    engagement: 523
+    commentsToLikes: 0.012119
+    id: ck15ui3z7naz20i19wx07t8an
     verified: true
-    hashtags: "#sy11events, #opera, #galainsofia2021, #sonyayoncheva"
-  - username: "handesubasoglu"
+    hashtags: "#kompliment, #gl, #istehaufbergbauernbuam, #dankbar"
+  - username: "tarikasadimusic"
     fullname: >-
-      HANDE
+      TARIK ASADI⚡️
     bio: >-
-      music / lifestyle / fashion Management hande@hellopeople.eu
+      I make music🙂 Booking: tarikasadi@4artists.agency
     location: "Germany"
-    followers: 36301
-    engagement: 657
-    commentsToLikes: 0.031174
-    id: ck134xt11ypti0i19jfxpjeqi
+    followers: 6263
+    engagement: 880
+    commentsToLikes: 0.037745
+    id: ck55ocz3t84eg0i11iku0zyxe
     verified: false
-    hashtags: "#details, #handesubasoglu, #turkey, #wedding"
-  - username: "miss_high_voltage"
+    hashtags: "#music, #dj, #berlin, #basshouse"
+  - username: "renforshort"
     fullname: >-
-      ↯‡Katharina‡↯
+      renforshort
     bio: >-
-      ♥️“𝙱𝚎𝚏𝚘𝚛𝚎 𝙴𝚕𝚟𝚒𝚜 𝚝𝚑𝚎𝚛𝚎 𝚠𝚊𝚜 𝚗𝚘𝚝𝚑𝚒𝚗𝚐.” Music lover•~Healthy lifestyle•~Globetrotter 🎼 BFMV🙏🏻 MIW🌹
+      maker of music
     location: "Germany"
-    followers: 23964
-    engagement: 952
-    commentsToLikes: 0.067259
-    id: ck0w060sscjxl0i19kwsxm1gr
-    verified: false
-    hashtags: "#teamzverev"
-  - username: "monas.sound.of.travel"
-    fullname: >-
-      Mona ⚓ Adventure Seeker
-    bio: >-
-      27 | Frankfurt am Main | Marketing Manager in Tourism Travel. Music. Sports. Seeking mountain and ocean views. 🌍
-    location: "Germany"
-    followers: 2059
-    engagement: 3347
-    commentsToLikes: 0.233876
-    id: ck6ugqp2c4lgr0j71o70a132l
-    verified: false
-    hashtags: "#sheisnotlost, #readyfornewadventures, #reisereporter, #weekendvibes"
-  - username: "danielahenselofficial"
-    fullname: >-
-      𝔻𝔸ℕ𝕀𝔼𝕃𝔸 ℍ𝔼ℕ𝕊𝔼𝕃
-    bio: >-
-      ○ Dj/Producer from Berlin △ Techno music everywhere ▼ Frei music - Mind Hope Podcast 🎵👇🏼
-    location: "Germany"
-    followers: 11258
-    engagement: 938
-    commentsToLikes: 0.186178
-    id: ckaoqqkjbjwmp0i78rh15ngbo
-    verified: false
-    hashtags: "#techno, #technolife, #technolovers, #technomood"
-  - username: "murathanmuslu"
-    fullname: >-
-      Murathan Muslu
-    bio: >-
-      AQIL 🎵music @suakaanmusic 📽film @agenturkelterborn
-    location: "Germany"
-    followers: 40961
-    engagement: 798
-    commentsToLikes: 0.039364
-    id: ck5hcl7xlincj0i114jy5de7r
+    followers: 83873
+    engagement: 581
+    commentsToLikes: 0.016834
+    id: ck5c3oav4zqeo0i11ugui2zy3
     verified: true
-    hashtags: "#germany, #2020, #cinema, #thriller"
-  - username: "ahmadoriginal01"
+    hashtags: "#melting, #spotifyequal, #3monthsvapefree, #the"
+  - username: "akki.de"
     fullname: >-
-      Ahmad
+      AKKI
     bio: >-
-      📍 |Nürnberg , Germany 📥 |Dm für Kooperation 👇🏼 ahmadoriginal010@gmail.com snap | ahmadoriginal01 Tiktok | ahmad_music_origi
+      Techno DJ / Producer Owner of @fromthesoul.records Tour Dates, News & Music ⬇️
     location: "Germany"
-    followers: 45227
-    engagement: 2565
-    commentsToLikes: 0.035083
-    id: ckf5nqeqpza180j23g49fytzr
+    followers: 26478
+    engagement: 432
+    commentsToLikes: 0.052049
+    id: ck14k0a38n2kv0i19veroacma
     verified: false
-    hashtags: "#herz, #teamahmad1, #fashion, #babygirl"
+    hashtags: "#techno, #producer, #boilerroom, #technoparty"
+  - username: "jurgenpecnikaj"
+    fullname: >-
+      Juri
+    bio: >-
+      📍Berlin / Tirane 👇Spotify, Youtube, Apple music. Etc👇
+    location: "Germany"
+    followers: 10829
+    engagement: 881
+    commentsToLikes: 0.020973
+    id: ck6tjx59x3le80j71xkozn1h2
+    verified: false
+    hashtags: "#makecifteliworldwide, #mix, #albanisch, #albanais"
+  - username: "laurajuliabutera"
+    fullname: >-
+      Laura Julia Butera🦋
+    bio: >-
+      Music Biz & Social Media Marketing👩🏻‍💻 |📍🇦🇪🇩🇪 I help creators & brands create a meaningful online presence✨ 💿CEO @limitless.mgmt @limitless__marketing
+    location: "Germany"
+    followers: 48280
+    engagement: 417
+    commentsToLikes: 0.001105
+    id: ck0vvp4jjq4lg0i190pqjmqs3
+    verified: false
+    hashtags: "#relationships, #extensions, #happyme, #reminder"
+  - username: "isabellaluna.official"
+    fullname: >-
+      Isabella Luna
+    bio: >-
+      ✨ Music & Comedy ✨ 📧contact: info@isabella-luna.com
+    location: "Germany"
+    followers: 175755
+    engagement: 3099
+    commentsToLikes: 0.021876
+    id: ck6ucxccphydu0j7162tr1pj6
+    verified: false
+    hashtags: "#italy, #rome, #roma, #parody"
+  - username: "ghostkiddo"
+    fullname: >-
+      GHØSTKID
+    bio: >-
+      ✭ HEAVY RAIN - MUSIC VIDEO OUT NOW !✭ —————————————— CONTACT : info@ghost-kid.de
+    location: "Germany"
+    followers: 52296
+    engagement: 398
+    commentsToLikes: 0.023186
+    id: ckap18semtjjb0i783mdfwcnj
+    verified: false
+    hashtags: "#heavyrain, #gh, #ghostkiddo, #metal"
 ---

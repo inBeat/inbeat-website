@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In 2023
+title: Top 10 Barbers TikTok Influencers In 2024
 description: >-
-  Find top barbers TikTok influencers in 2023. Most popular hashtags: #fyp #duet #foryoupage.
+  Find top barbers TikTok influencers in 2024. Most popular hashtags: #duet #foryoupage #fyp.
 platform: TikTok
-hits: 823
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 823 TikTok influencers like this for you to pitch.
+hits: 825
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat holds 825 TikTok influencers like this for you to connect with.
 profiles:
   - username: "alithebarber__"
     fullname: >-
@@ -18,19 +18,7 @@ profiles:
     commentsToLikes: 0.017011
     id: cka0igb6ydl690i781ckeuvaj
     verified: false
-    hashtags: "#coronavirus, #bleibtstark, #barbershop, #barberstyle"
-  - username: "vibewithraul"
-    fullname: >-
-      🖤
-    bio: >-
-      🇨🇭SWISSMUSER🇨🇭 🏳️‍🌈 🇦🇴🇧🇷🇵🇹🇧🇪 Barber💈 201120‘💍
-    location: "Switzerland"
-    followers: 3385
-    engagement: 1607
-    commentsToLikes: 0.090104
-    id: ckbwczke113q90j232yz5ge2c
-    verified: false
-    hashtags: "#fyp, #swiss, #happy, #friends"
+    hashtags: "#barbershop, #coronavirus, #bleibtstark, #barberlife"
   - username: "thompson.2.sharp"
     fullname: >-
       💈 Thompson 💈
@@ -127,4 +115,16 @@ profiles:
     id: ckauuuk97zrqw0j239vhotfhn
     verified: false
     hashtags: "#emotok, #fyp, #misheardlyrics, #turbotaxlivepick6"
+  - username: "rev.the.barber915"
+    fullname: >-
+      Rev The Barber 915
+    bio: >-
+      Barber IOMC Founder: Blue Collar Social Club Podcast From WV - Livin in FL #FYFN
+    location: "United States"
+    followers: 3926
+    engagement: 1268
+    commentsToLikes: 0.052611
+    id: ckav8171jf6v20j2303aw8neu
+    verified: false
+    hashtags: "#bikers, #biketoberfest, #foryoupage, #revthebarber"
 ---

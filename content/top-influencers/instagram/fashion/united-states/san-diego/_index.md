@@ -1,96 +1,96 @@
 ---
-title: Top 10 Fashion Instagram Influencers In San Diego In 2023
+title: Top 10 Fashion Instagram Influencers In San Diego In 2024
 description: >-
-  Find top fashion Instagram influencers in San Diego in 2023. Most popular hashtags: #photography #sandiego #fashion #inked.
+  Find top fashion Instagram influencers in San Diego in 2024. Most popular hashtags: #sandiego #fashion #blogger #revolvesummer.
 platform: Instagram
-hits: 193
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 193 Instagram influencers like this in San Diego, United States for you to collaborate.
+hits: 261
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 261 Instagram influencers like this in San Diego, United States for you to connect with.
 profiles:
-  - username: "lovely50s"
+  - username: "taradise._"
     fullname: >-
-      💋𝓐 𝓭𝓭𝓲𝓮 𝓥𝓮𝓮 𝓞𝓻𝓽𝓮𝓪𝓼𝓮
+      TARA 🌴 SoCal Travel | Wellness | Blogger
     bio: >-
-      💄PinUp ⚓San Diego 🏋‍♀️Fitness🦋Lupus 💈Wife👑🦈🐾Momma ✨Legacy Passholder 🌹𝕮𝖍𝖎𝖈𝖆𝖓𝖆
+      Wife to @caseydouglaswright 🤍 booktaranicole@gmail.com📰🏁🎤🎬🤳 🏥👩🏻‍⚕️🫀 + @f45_training coach 💪 Life is fabulous💖✨💫
     location: "United States"
-    followers: 33809
-    engagement: 115
-    commentsToLikes: 0.071956
-    id: ck5zj9dach6k90i14uhpubgpe
+    followers: 61717
+    engagement: 87
+    commentsToLikes: 0.063737
+    id: ck8sxcjgkgw8e0j789zegb03o
     verified: false
-    hashtags: "#motivation, #summervibes, #pinup, #disneyland"
-  - username: "throughthelensoflexie"
+    hashtags: "#hawaii, #orangecounty, #foodstagram, #swimweek"
+  - username: "gisellelelux"
     fullname: >-
-      San Diego Photographer
+      Giselle Lelux Campos
     bio: >-
-      Event, Portrait, Editorial and International Published Photographer . Website 📌
+      📍San Diego, CA ✈️ 🎥 foodie & fashion influencer 📸 also me @thefashionfever ✉️ gisellelelux@gmail.com
     location: "United States"
-    followers: 5425
-    engagement: 1059
-    commentsToLikes: 0.024809
-    id: ck6u4i4av3utc0j71a8zq1ut1
+    followers: 59608
+    engagement: 103
+    commentsToLikes: 0.029715
+    id: ckyghvuysqvxl0j23sb41pc3a
     verified: false
-    hashtags: "#sdportraits, #bnw, #discoverportrait, #makeportraits"
-  - username: "stayinghomesawyer"
+    hashtags: "#sandiegofood, #foodiegram, #sandiegoblogger, #foodporn"
+  - username: "jennacavalini"
     fullname: >-
-      Shauna
+      6’4” | Tall Style & Community
     bio: >-
-      Living our best life in little squares. Sometimes curated and other times chaotic. That’s life! DM for Collabs
+      
     location: "United States"
-    followers: 31046
-    engagement: 271
-    commentsToLikes: 0.861068
-    id: ck5q2dcdufg6z0i11er53hd69
+    followers: 15584
+    engagement: 516
+    commentsToLikes: 0.062753
+    id: ck5bus7m0icml0i11nsbin4j4
     verified: false
-    hashtags: "#valentinesdessert, #homemadecakes, #appleproducts, #sandiegolife"
-  - username: "sandrazuri411"
+    hashtags: "#longlegs, #tallblogger, #revolvesummer, #tallsociety"
+  - username: "cherish_alexis"
     fullname: >-
-      Sandra Zuri
+      Cherish Alexis
     bio: >-
-      💕@SZ411adventures 📸@916.aestheticz 👑@GoddessZuri411 🌎 916, CALIFORNIA ART▪︎CARS▪︎FASHION▪︎INK
+      Daughter to a King Mommy x 2
     location: "United States"
-    followers: 5324
-    engagement: 1372
-    commentsToLikes: 0.080427
-    id: ck5q81t4q42860i111ux54kb1
+    followers: 6111
+    engagement: 1287
+    commentsToLikes: 0.071543
+    id: ck5ztrwh6109l0i14gzj2k69s
     verified: false
-    hashtags: "#portrait, #life, #goth, #fashion"
-  - username: "aarondellavedova_art"
+    hashtags: "#howtodomakeup, #explorepage, #howto, #reel"
+  - username: "theregojonboe"
     fullname: >-
-      Aaron Della Vedova
+      Jonnika | San Diego Blogger
     bio: >-
-      Grateful to be a purveyor of the greatest collaborative art form in the history of humankind!
+      Content Creator Faith•Food•Fitness•Fashion•Lifestyle 📍San Diego, CA #Blogger Let’s create and explore #sandiego ! 💌BeardJonnika@yahoo.com
     location: "United States"
-    followers: 52529
-    engagement: 139
-    commentsToLikes: 0.018271
-    id: ck55k5m1tyiqn0i11biq60cb2
+    followers: 23493
+    engagement: 597
+    commentsToLikes: 0.125918
+    id: ckr6iqqc78vfm0j23muhwkp8s
     verified: false
-    hashtags: "#tattooist, #snaketattoo, #sandiegotattooartist, #tattoos"
-  - username: "overthemoonfaraway"
+    hashtags: "#memorialweekend, #misslola, #explore, #like"
+  - username: "princesskae"
     fullname: >-
-      Erin Miller
+      Katrina ♡
     bio: >-
-      📍San Diego Fashion | Lifestyle | Laughs @tiktok 👉🏻 overthemoonfaraway ✉️ erin@shoshalmedia.com
+      Beauty • Fashion • Lifestyle ♡ San Diego/Los Angeles
     location: "United States"
-    followers: 120526
-    engagement: 1099
-    commentsToLikes: 0.059243
-    id: ck5zs6ohuxxmk0i14hemsipd2
+    followers: 121299
+    engagement: 180
+    commentsToLikes: 0.014772
+    id: clmg71gll977j0j08ra1powag
     verified: false
-    hashtags: "#millennials, #millennial, #throwbackfashion, #collegememories"
-  - username: "nataliebrekka"
+    hashtags: "#lipstick, #novabeauty, #ad, #makeup"
+  - username: "your_daly_dose_"
     fullname: >-
-      Natalie Brekka
+      Marissa Daly & Meredith Daly
     bio: >-
-      fashion, lifestyle, home San Diego, CA ✉️ nataliebrekka@yahoo.com Shop my life ↓
+      Beauty is everywhere, most of all within us San Diego // fashion + lifestyle // MBAs // twins @asmuchagain @missfleur.blooms 💌 Yourdalydose2@gmail.com
     location: "United States"
-    followers: 39656
-    engagement: 238
-    commentsToLikes: 0.108292
-    id: ck0ttz6rv4yju0i199g7rhg0o
+    followers: 127765
+    engagement: 57
+    commentsToLikes: 0.011225
+    id: ck15q3frt0wpo0i19ypt81py8
     verified: false
-    hashtags: "#foodinspo, #reelsinstagram, #reels, #modernhomedecor"
+    hashtags: "#revolvesummer, #itansunsprayspa, #summerstyle, #itanfan"
   - username: "thestylishbisou"
     fullname: >-
       THE STYLISH BISOU
@@ -115,16 +115,16 @@ profiles:
     id: ck0u0vl8iuykn0i19o4xvqru0
     verified: false
     hashtags: "#tutorial, #branding, #sdphoto, #sandiegophotographer"
-  - username: "your_daly_dose_"
+  - username: "lisslobos"
     fullname: >-
-      Marissa Daly & Meredith Daly
+      Lissette 🇲🇽
     bio: >-
-      Your Daly Dose San Diego // fashion + lifestyle // MBAs // twins Designers and seamstresses @asmuchagain 💌: Yourdalydose2@gmail.com
+      ✈️ Commercial/Instrument rated Pilot 📍Los Angeles-San Diego
     location: "United States"
-    followers: 107691
-    engagement: 225
-    commentsToLikes: 0.042110
-    id: ck15q3frt0wpo0i19ypt81py8
+    followers: 32082
+    engagement: 1073
+    commentsToLikes: 0.021080
+    id: ck137zt27dtf70i195jn1qrkf
     verified: false
-    hashtags: "#ad, #vicidolls, #vicicollab, #revolvesummer"
+    hashtags: "#health, #avgeek, #fashion, #healthylifestyle"
 ---

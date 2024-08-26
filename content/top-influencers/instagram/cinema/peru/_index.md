@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Peru In 2023
+title: Top 10 Cinema Instagram Influencers In Peru In 2024
 description: >-
-  Find top cinema Instagram influencers in Peru in 2023. Most popular hashtags: #art #photography #girl #music.
+  Find top cinema Instagram influencers in Peru in 2024. Most popular hashtags: #peru #sony #film #art.
 platform: Instagram
-hits: 15
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 15 Instagram influencers like this in Peru for you to collaborate.
+hits: 18
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 18 Instagram influencers like this in Peru for you to collaborate.
 profiles:
   - username: "danieladarlin"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck13db9sb4l560i19utmxywbr
     verified: false
     hashtags: "#work, #danieladarlin, #happy, #amor"
+  - username: "cinematicmultiversemcm"
+    fullname: >-
+      Paolo Valdivia
+    bio: >-
+      📱 TIK TOK (+120K) @paoloyugi_reacciona 🎟️ Hablo de todo un poco. Anime, cine, Marvel, DC y más. 💥 🎥 Contacto: paoloyugi93@gmail.com
+    location: "Peru"
+    followers: 56460
+    engagement: 664
+    commentsToLikes: 0.032015
+    id: ck0w5s5zh56cg0i19yrpfzchn
+    verified: false
+    hashtags: "#disneyplus, #ucm, #spiderman, #marvelstudios"
   - username: "taddtm"
     fullname: >-
       Taddtm
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.014286
     id: ck139734kjv290i19y9kim7wd
     verified: false
-    hashtags: "#aesthetic, #adobe, #videogames, #nft"
+    hashtags: "#kawaii, #36daysoftype07, #cgi, #octane"
   - username: "grancuriosidad"
     fullname: >-
       Gran Curiosidad
@@ -43,6 +55,42 @@ profiles:
     id: ck8t3bsla2o400j784rirzbru
     verified: false
     hashtags: "#cin, #capitulo, #curioso, #cinefilo"
+  - username: "elmundoderabbit"
+    fullname: >-
+      Sebastián León Prado
+    bio: >-
+      🔸 Sony Alpha Partner 📸 Código descuento: elmundoderabbit0524 🤘🏻 @thisis20yl 🎶 @habitual.sessions 🟪 Bjj Faixa Roxa
+    location: "Peru"
+    followers: 163819
+    engagement: 470
+    commentsToLikes: 0.038548
+    id: ck5c5y3f84d130i11luyngjy0
+    verified: true
+    hashtags: "#sonyalpha, #elmundoderabbit, #sonyalphaperu, #storytime"
+  - username: "paolasifuenttes"
+    fullname: >-
+      Paola
+    bio: >-
+      💋Hello besties 🇵🇪 lifestyle, moda y mucha DANZA 🌱♎ alma libre Pinterest : @paolasifuenttes
+    location: "Peru"
+    followers: 7926
+    engagement: 605
+    commentsToLikes: 0.040650
+    id: ck8t1o1u9weip0j784f9z4m1r
+    verified: false
+    hashtags: "#limaperu, #aestheticblog, #peru, #aesthetically"
+  - username: "_jeanpierrediaz"
+    fullname: >-
+      Jean Pierre Díaz
+    bio: >-
+      Años atrás era el chico problema. Hoy comparto mi proceso de crecimiento contigo. Si quieres, me acompañas.
+    location: "Peru"
+    followers: 169425
+    engagement: 20
+    commentsToLikes: 0.073028
+    id: ckap65qw3eihs0i78j14qxrl2
+    verified: false
+    hashtags: "#crecimientopersonal, #peru, #fitness, #estilodevida"
   - username: "chrishonninger"
     fullname: >-
       Chris
@@ -79,52 +127,4 @@ profiles:
     id: ck5zxz2498xmo0i14ogn1niq9
     verified: false
     hashtags: "#germa, #actriz, #xavieralbert, #felipeansola"
-  - username: "jimbo.pe"
-    fullname: >-
-      J I M B O
-    bio: >-
-      🧃 contacto: jimbocorreo@gmail.com つづく
-    location: "Peru"
-    followers: 17906
-    engagement: 351
-    commentsToLikes: 0.047391
-    id: ck5hpip5hrfpj0i11b2yfe8am
-    verified: false
-    hashtags: "#ilustracion, #art, #anime, #drawing"
-  - username: "anypuello"
-    fullname: >-
-      Any Puello
-    bio: >-
-      🇩🇴 Cantante, influencer, compositora, actriz, #noticiasde1minuto #verdaderasnoticias @arisvaldezjr 🔒❤️ Invitaciones 201.779.8172 AAA 💖
-    location: "Peru"
-    followers: 169396
-    engagement: 163
-    commentsToLikes: 0.054816
-    id: ck15t9atrgyns0i19hwhrhvgg
-    verified: false
-    hashtags: "#metocaami, #jesus, #noticiasde1minuto, #sabiduria"
-  - username: "rpadillarequena"
-    fullname: >-
-      Rolando Padilla
-    bio: >-
-      Actor, cantante, compositor, productor, albañil, plomero, electricista (+/-). Amante del derecho y la política
-    location: "Peru"
-    followers: 117264
-    engagement: 46
-    commentsToLikes: 0.039819
-    id: ck5hd19yukzkx0i11gove4cur
-    verified: false
-    hashtags: "#magichoney, #100, #vigor, #cuerposanosexosano"
-  - username: "suco_xd"
-    fullname: >-
-      ⚡️ Anthony Herrera ⚡️
-    bio: >-
-      •Cantante 😎🎤 •Ecuatoriano 🇪🇨🔥 •Contratos: contactosuco12@gmail.com / 0962792430 •Escucha mi nueva canción “Tra Tra”👇🏻
-    location: "Peru"
-    followers: 16238
-    engagement: 617
-    commentsToLikes: 0.238933
-    id: ck8tbyajmxnnl0j781sphptyg
-    verified: false
-    hashtags: "#travel, #cute, #amazing, #instalike"
 ---

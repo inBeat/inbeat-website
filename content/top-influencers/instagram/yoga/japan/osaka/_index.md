@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Osaka In 2023
+title: Top 10 Yoga Instagram Influencers In Osaka In 2024
 description: >-
-  Find top yoga Instagram influencers in Osaka in 2023. Most popular hashtags: #yoga #training #love.
+  Find top yoga Instagram influencers in Osaka in 2024. Most popular hashtags: #yoga #fitness #japan.
 platform: Instagram
-hits: 6
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 6 Instagram influencers like this in Osaka, Japan for you to work with.
+hits: 8
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 8 Instagram influencers like this in Osaka, Japan for you to work with.
 profiles:
   - username: "miwamam_fit888"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck0vwq66fv1hp0i19guebibnz
     verified: false
     hashtags: "#iriebeach, #hawaiian, #beachgirl, #hawaiianjewelry"
+  - username: "satomililies"
+    fullname: >-
+      妃内里美
+    bio: >-
+      Satomi Kiuch ■女優■ ■美容家■ 💟2017グラビア80万部💟 💟1ST,DVD「華麗なる熟女」💟 💟新作「魔性のオンナ」8/6発売💟 お仕事ご依頼はDM💌お問合せへ⬇️
+    location: "Japan"
+    followers: 60030
+    engagement: 146
+    commentsToLikes: 0.076183
+    id: ckap3kmc03ecf0i78xmogtsk4
+    verified: false
+    hashtags: "#kingdom, #sbc, #imagedvd, #pr"
   - username: "vivichan1325"
     fullname: >-
       vivichan
@@ -79,52 +91,40 @@ profiles:
     id: ck0u21i0kykzm0i19480kckcs
     verified: false
     hashtags: "#fyve, #photo, #fixbinding, #snowman"
-  - username: "miawatanabe_yoga"
+  - username: "_z_eric_o_"
     fullname: >-
-      Mia
+      治部恵里子
     bio: >-
-      ERYT500+ YACEP, Yoga&Pilates Teacher, Sports Nutrition Coach 身体の柔軟性と体幹エクササイズ 必要栄養素推奨と生涯健康体作りのコーチ 🌁Live in USA🇺🇸 お仕事ご依頼はDMにてご連絡ください Day1Stretch/Founder
+      Eriko Jibu 🧘🏻‍♀️wellness アドバイザー 食事・ピラティス・美容・メイク 🧴@evella_official_ ディレクター スキンケア製品開発・PR 41歳 🐰二羽と大阪住み
     location: "Japan"
-    followers: 28155
-    engagement: 421
-    commentsToLikes: 0.087569
-    id: ck14l4qmzsuh90i19pq2tx3ir
+    followers: 60552
+    engagement: 124
+    commentsToLikes: 0.019641
+    id: ck0w5esgt3anv0i193lvt8swp
     verified: false
-    hashtags: "#agepositive, #love, #selfy, #stanford"
-  - username: "taylorjyoga"
+    hashtags: "#kimonostyle, #yukinosnowflora, #aloyoga, #luluremon"
+  - username: "tsukiyoga"
     fullname: >-
-      Taylor Johnson
+      tsuki ☾ yoga lifestylist
     bio: >-
-      Yoga | Acro | Rocket | Buti 📍Longmont, CO Knotty girl: @macrametay Children: @spagnball 200 YTT Jan 2021 @sol19yoga👇🏼
+      yoga(RYT500)| fitness | self-care video creator・fit model 🧘‍♂️くびれるヨガトレ 🕊あしたが変わるセルフケア @tsukiyoga TikTok 320k @tarzanweb 監修トレーナー @mandukayoga ambassador
     location: "Japan"
-    followers: 17882
-    engagement: 278
-    commentsToLikes: 0.101476
-    id: ck5pzsk8z2jky0i11gfzzm594
+    followers: 216531
+    engagement: 636
+    commentsToLikes: 0.010242
+    id: ck5ckqwbvxfhp0i11rzj6fukf
     verified: false
-    hashtags: "#nafbabeschallenge2, #longmont, #ad, #sol19yoga"
-  - username: "arisa28lucia"
+    hashtags: "#sustainableliving, #selfmassage, #yogateacher, #healthylifestyle"
+  - username: "samanthaausa"
     fullname: >-
-      Arisa Ⅰアリサ🇯🇵🇮🇹
+      Sammy Schultz (Achterberg)
     bio: >-
-      》Model,YogaRYT200,PADIrescueDiver 》YouTube"arisarah channel "🌹 📲DM or EMail for collabo
+      Olympian • Modern Pentathlon - Personal Trainer, Pilates & Yoga Instructor - Army National Guard - Colorado girl🏔 • Stay Humble•Work Hard•Be Kind•
     location: "Japan"
-    followers: 14020
-    engagement: 643
-    commentsToLikes: 0.045579
-    id: ckaow4b797dc10i787gcj4ovu
-    verified: false
-    hashtags: "#pr, #training, #travelphotography, #workout"
-  - username: "blifetokyo"
-    fullname: >-
-      B-life
-    bio: >-
-      Yoga & Fitness Workout Creator. 痩せたい！健康的になりたい！すべての方の悩みを解決するエクササイズ動画を無料で配信しています。10〜15分くらいの空き時間で気軽に行えますので、是非お試しください♪
-    location: "Japan"
-    followers: 48334
-    engagement: 471
-    commentsToLikes: 0.019041
-    id: ckapb665gypre0i78i1v3kh7d
-    verified: false
-    hashtags: "#blifeconnect"
+    followers: 14359
+    engagement: 249
+    commentsToLikes: 0.051332
+    id: ck6tpknxfkegs0j7124bhp46n
+    verified: true
+    hashtags: "#coloradosprings, #5uperathlete, #colorado, #wellness"
 ---

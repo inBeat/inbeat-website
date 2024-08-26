@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bmx Instagram Influencers In Brazil In 2023
+title: Top 10 Bmx Instagram Influencers In Brazil In 2024
 description: >-
-  Find top bmx Instagram influencers in Brazil in 2023. Most popular hashtags: #bmx #bmxstreet #bmxfamily.
+  Find top bmx Instagram influencers in Brazil in 2024. Most popular hashtags: #bmx #bmxstreet #bmxlife.
 platform: Instagram
-hits: 48
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 48 Instagram influencers like this in Brazil for you to connect with.
+hits: 52
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 52 Instagram influencers like this in Brazil for you to connect with.
 profiles:
   - username: "leandro_overall"
     fullname: >-

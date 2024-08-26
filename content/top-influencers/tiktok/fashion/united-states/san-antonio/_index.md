@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In San Antonio In 2023
+title: Top 10 Fashion TikTok Influencers In San Antonio In 2024
 description: >-
-  Find top fashion TikTok influencers in San Antonio in 2023. Most popular hashtags: #fyp #fashion #texas #sanantonio.
+  Find top fashion TikTok influencers in San Antonio in 2024. Most popular hashtags: #fyp #fashion #texas #sanantonio.
 platform: TikTok
 hits: 6
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 6 TikTok influencers like this in San Antonio, United States for you to collaborate.
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 6 TikTok influencers like this in San Antonio, United States for you to connect with.
 profiles:
   - username: "keilanysbowtique"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.028177
     id: ckb9fw06i4hlu0j23ex095v0q
     verified: false
-    hashtags: "#htownfoodie, #musttry, #houstonhotspots, #htown"
+    hashtags: "#houstonfood, #htx, #musthaves, #musttry"
   - username: "definitely_not_travis"
     fullname: >-
       Not Travis
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.058980
     id: ckb165x2rtmxf0j23sjmgavvm
     verified: false
-    hashtags: "#scarytiktoks, #palmsprings, #legend, #desertx2021"
+    hashtags: "#losangeles, #fyp, #godzillavskong, #palmsprings"
   - username: "modishchampagneclub"
     fullname: >-
       ModishChampagneClub
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.069983
     id: ck8qic7um8gsp0j78mod4y8t6
     verified: false
-    hashtags: "#dontletthisflop, #gymlife, #streetwear, #foryoupage"
+    hashtags: "#foryou, #foryoupage, #fyp, #streetwear"
   - username: "andrewkwon_official"
     fullname: >-
       Andrew Kwon 엔드류 권
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.067943
     id: ckce3zwyhjcwm0j237bod4grp
     verified: false
-    hashtags: "#france, #kpop, #nyc, #andrewkwon"
+    hashtags: "#france, #korean, #fyp, #foru"
   - username: "akiadanielle_"
     fullname: >-
       Akia T.
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.135865
     id: ck85cprvf2vae0j78qlnnrxwy
     verified: false
-    hashtags: "#summeroutfits2021, #ootd, #summeroutfit, #selfcare"
+    hashtags: "#ootd, #blackbarbie, #fyp, #summeroutfit"
   - username: "lexinimmo"
     fullname: >-
       Lexinimmo
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.301311
     id: ckbwejjfw1nji0j23hi2y641u
     verified: false
-    hashtags: "#thesuicidesquadmovie, #fatpositivty, #fatphobiaisnotcute, #cleargenius"
+    hashtags: "#welcomeback, #fatpositivty, #dontquityourdaydream, #plussizefashion"
   - username: "happyblackchick"
     fullname: >-
       Nkechi Chibueze
     bio: >-
       Come to my Comedy Zoom Show, “Funny But Make It Fashion” Wed Feb 3rd 8cst!
     location: "United States"
-    followers: 6746
-    engagement: 2151
-    commentsToLikes: 0.088837
+    followers: 6757
+    engagement: 2158
+    commentsToLikes: 0.094834
     id: ckbr2hb9aj6g00j234912d4h6
     verified: false
-    hashtags: "#critiquewhatieat, #pommedit, #weightlossjourney, #dailycheckin"
+    hashtags: "#critiquewhatieat, #weightloss, #dailycheckin, #februaryhealthchallenge"
 ---

@@ -1,24 +1,12 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In Los Angeles In 2023
+title: Top 10 Tattoo-Artists TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top tattoo-artists TikTok influencers in Los Angeles in 2023. Most popular hashtags: #tattoo #losangeles #fyp #artist.
+  Find top tattoo-artists TikTok influencers in Los Angeles in 2024. Most popular hashtags: #tattoo #losangeles #artist #fyp.
 platform: TikTok
-hits: 10
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine has 10 TikTok influencers like this in Los Angeles, United States for you to connect with.
+hits: 9
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 9 TikTok influencers like this in Los Angeles, United States for you to connect with.
 profiles:
-  - username: "joehannisburg"
-    fullname: >-
-      Daniel Oh
-    bio: >-
-      live life to the fullest
-    location: "United States"
-    followers: 25300
-    engagement: 1072
-    commentsToLikes: 0.075335
-    id: ck8nfcsyorblh0j78q63d143w
-    verified: false
-    hashtags: "#foryoupage, #skincare, #xyzbca, #asian"
   - username: "josueguerrero89"
     fullname: >-
       Josue GUERRERO
@@ -66,7 +54,7 @@ profiles:
     commentsToLikes: 0.041747
     id: ckd095cktbfv20j232okl2lah
     verified: true
-    hashtags: "#onewordsongchallenge, #singingchallenge, #fidoboostchallenge, #tinymic"
+    hashtags: "#onewordsongchallenge, #fidoboostchallenge, #pickanamechallenge, #singingchallenge"
   - username: "jessemedeles"
     fullname: >-
       Jesse Medeles
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.047077
     id: ck7zp9nrfo5iu0j78nxpanf74
     verified: false
-    hashtags: "#paint, #foryou, #fyp, #art"
+    hashtags: "#foryou, #paint, #painting, #fyp"
   - username: "itsjasonvl"
     fullname: >-
       Jason V
@@ -127,4 +115,16 @@ profiles:
     id: ckb0sagmdhtre0j236bj3qhav
     verified: false
     hashtags: "#coronavirus, #foreveryone, #car, #fyp"
+  - username: "bluerosetattoo"
+    fullname: >-
+      LilBlueRose
+    bio: >-
+      ✒️Professional Tattoo Artist 🖋 🌬Louisville, KY💨 Witchy 💀 Woman ⚰️ Lvl28⚰️
+    location: "United States"
+    followers: 72100
+    engagement: 1861
+    commentsToLikes: 0.043531
+    id: ckd5ljrnqvu7n0j23z4jclhy9
+    verified: false
+    hashtags: "#stitch, #tattooartist, #tattooartistsoftiktok, #tattoos"
 ---

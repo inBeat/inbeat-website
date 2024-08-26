@@ -1,48 +1,36 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Morocco In 2023
+title: Top 10 Stylists Instagram Influencers In Morocco In 2024
 description: >-
-  Find top stylists Instagram influencers in Morocco in 2023. Most popular hashtags: #love #fashionblogger #fashion #makeup.
+  Find top stylists Instagram influencers in Morocco in 2024. Most popular hashtags: #love #fashion #style #morocco.
 platform: Instagram
-hits: 29
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our database has 29 Instagram influencers like this in Morocco for you to connect with.
+hits: 34
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 34 Instagram influencers like this in Morocco for you to pitch.
 profiles:
-  - username: "nounoua_selma"
+  - username: "anas.yass"
     fullname: >-
-      Fashion designer 🇩🇿
+      Anas Yass
     bio: >-
-      Propriétaire de : @nns_dz 🔸 Modeliste ✂️ Styliste. 🔸 Dermo-conseillère. 🔸 Fashionista. 🔸 Animatrice. 🔸 Self development.
+      Creative director | Art director Fashion director @femmesdumaroc_officiel Celebritys stylist #styledbyanasyass Y.anasyassine@gmail.com or DM
     location: "Morocco"
-    followers: 26990
-    engagement: 456
-    commentsToLikes: 0.048854
-    id: ck6ufvz8pzgb20j71ansox9z3
+    followers: 31339
+    engagement: 83
+    commentsToLikes: 0.016020
+    id: ck5qb75z8k5mx0i11bgu1flk7
     verified: false
-    hashtags: "#nns, #bienetre, #revue, #hijabinspiration"
-  - username: "hindelmekaoui"
+    hashtags: "#30yearsofcareer, #artisticdirector, #morroco, #fashion"
+  - username: "jawadbingo"
     fullname: >-
-      Hind Elmekaoui • هند المكاوي
+      Jaouad Qennana
     bio: >-
-      MUA & Hair stylist Bride House / Makeup courses / Beauty center •Influencer •Contact☎️0537699407/0537696213 18AV Hassan2 à 200m de la gare Rabat Agdal
+      Make Up Artist, Hair Stylist 📍Morocco Info & Booking : +212691416151 Watsp:0666097207 Available Worldwide Business inquiries: qennanajawad@gmail.com
     location: "Morocco"
-    followers: 541162
-    engagement: 151
-    commentsToLikes: 0.013303
-    id: ck139aw09ke6w0i19zy72phgf
+    followers: 3166624
+    engagement: 24
+    commentsToLikes: 0.008962
+    id: ck5bts5m7gi4u0i11gzxtn4me
     verified: false
-    hashtags: "#bridalmakeup, #beforeandafter, #hairstyle, #makeupartist"
-  - username: "ingyelengbawy"
-    fullname: >-
-      IngyElengbawy انچي الانجباوى
-    bio: >-
-      Certified Stylist Fashion blogger Egyptian Love to travel Wife-Mommy For inquiries : Ingyelengbawy@gmail.com Watch my episodes @mbcbeautymatch
-    location: "Morocco"
-    followers: 573663
-    engagement: 274
-    commentsToLikes: 0.018790
-    id: ck5c4e07r15id0i11orq74i78
-    verified: false
-    hashtags: "#pictureoftheday, #blogger, #fashion, #outfitinspo"
+    hashtags: "#formation, #love, #mekup, #no"
   - username: "sofia_lahrichi"
     fullname: >-
       Sofia Lahrichi officiel
@@ -55,6 +43,18 @@ profiles:
     id: ck5qb7iufk7hb0i11moarvfj6
     verified: false
     hashtags: "#marocco, #paris, #maman, #citationamour"
+  - username: "soma_officiel"
+    fullname: >-
+      سمية العماري | soumaya aomari
+    bio: >-
+      📍TANGER influenceuse Pour la collaboration /shooting contacter :@soma_collaboration_ • 𝑐𝑜𝑙𝑙𝑎𝑏📥 : 𝑎𝑜𝑚𝑎𝑟𝑖𝑠𝑜𝑚𝑎@𝑔𝑚𝑎𝑖𝑙.𝑐𝑜𝑚 • Snap : lucy _lambert09
+    location: "Morocco"
+    followers: 1369743
+    engagement: 107
+    commentsToLikes: 0.007758
+    id: ck0vyjniu4bxn0i19tmq74hge
+    verified: false
+    hashtags: "#lifestyle, #outfit, #morocco, #nature"
   - username: "rg_s.oukaina"
     fullname: >-
       𝓢𝓸𝓾𝓴𝓪𝓲𝓷𝓪
@@ -67,6 +67,18 @@ profiles:
     id: ck9wfmh5ypi4t0j78i4t00zj5
     verified: false
     hashtags: "#fashionillustration, #hijabturkey, #fashion, #look"
+  - username: "mary_jerri"
+    fullname: >-
+      Mary Jerri
+    bio: >-
+      ♋️🦀 🇲🇦Moroccan model & actress🇲🇦 🔴Gmail: maryemjerri@gmail.com 🏴Tiktok: mary_jerri(+700k) ▶️youtube:mary jerri
+    location: "Morocco"
+    followers: 56088
+    engagement: 1587
+    commentsToLikes: 0.022908
+    id: ck5btsoptgj4p0i111uf23iyg
+    verified: false
+    hashtags: "#modellife, #photographer, #photooftheday, #maroc"
   - username: "karima_said_officiel"
     fullname: >-
       ❤Karima & Said ❤
@@ -91,40 +103,28 @@ profiles:
     id: ck6u9ix6wxtqg0j71lzby0vch
     verified: false
     hashtags: "#caftan2020, #moroccanbride, #exclusivity, #hairstylist"
-  - username: "foufamjk"
+  - username: "manal_elhaddaoui.official"
     fullname: >-
-      ⵊⴰⵡⵀⴰⵔⵉ   ⵡⴰⴼⴰ
+      Manal El Haddaouy
     bio: >-
-      • Model 🇲🇦 Amazighia ⵣ Barbie Imazighen • makeupartist •Jeune entrepreneur • For for business inquiries👇🏻 Mjkfoufa@gmail.com • Snapchat(ouafala1)
+      🇲🇦مغربيةوأفتخر🧿 - fashion designer ✂️🪡🧵 - happy wife 💍& Mother of the handsome king 👑 - 📍🇬🇧
     location: "Morocco"
-    followers: 199831
-    engagement: 190
-    commentsToLikes: 0.041948
-    id: ck5pyyjs4yfv00i11gimllxwo
-    verified: false
-    hashtags: "#dontrushchallenge, #quarantine, #mariage, #maroc"
-  - username: "manal_haddaoui_officiel"
-    fullname: >-
-      Manal El Haddaoui
-    bio: >-
-      Personne publique Ⓜ️ Moroccan model and actress 🇲🇦 Fashion designer 👗 happy 💍❤️ My snap monnikaty🧸
-    location: "Morocco"
-    followers: 153956
-    engagement: 77
-    commentsToLikes: 0.019352
+    followers: 135825
+    engagement: 18
+    commentsToLikes: 0.014727
     id: ckap76wcbivkt0i78oim9abls
     verified: false
-    hashtags: "#manalelhaddaoui, #love, #london, #maroc"
-  - username: "salwa.jd1"
+    hashtags: "#happylife, #happsunday, #yearbook, #tanger"
+  - username: "cb_0g"
     fullname: >-
-      Salwa JD🇲🇦'Official
+      Chaimae Boubnane
     bio: >-
-      ﷽ ●MOROCCAN 🇲🇦/ MODEL🇲🇦/Blogger/influencer ●contact Business&collaboration 💰 :Salwajlaidi2000@gmail.com
+      One day I’ll look back and say “I MADE IT”
     location: "Morocco"
-    followers: 143722
-    engagement: 483
-    commentsToLikes: 0.019232
-    id: ck5hqup4htr6o0i11h3it82uu
+    followers: 87839
+    engagement: 446
+    commentsToLikes: 0.014074
+    id: ck5ciaxocsbid0i11ve0cy5rl
     verified: false
-    hashtags: "#fashiondaily, #socialenvy, #styles, #fashiongram"
+    hashtags: "#outfit, #black, #dancechallenge, #love"
 ---

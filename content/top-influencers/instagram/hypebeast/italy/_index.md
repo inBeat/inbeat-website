@@ -1,12 +1,72 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Italy In 2023
+title: Top 10 Hypebeast Instagram Influencers In Italy In 2024
 description: >-
-  Find top hypebeast Instagram influencers in Italy in 2023. Most popular hashtags: #hypebeast #hype #hypedstreets #hypebeaststyle.
+  Find top hypebeast Instagram influencers in Italy in 2024. Most popular hashtags: #hypebeast #streetwear #streetstyle #sneakers.
 platform: Instagram
-hits: 62
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 62 Instagram influencers like this in Italy for you to work with.
+hits: 65
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 65 Instagram influencers like this in Italy for you to connect with.
 profiles:
+  - username: "diegodipalomo"
+    fullname: >-
+      Diego Di Palomo
+    bio: >-
+      Collabs📥 diegolikeu@megamedia.es
+    location: "Italy"
+    followers: 34470
+    engagement: 2611
+    commentsToLikes: 0.007576
+    id: ckwef0zpwmmmq0j23s299cluf
+    verified: false
+    hashtags: "#streetfashion, #fashionista, #streetphotography, #styleblogger"
+  - username: "luca_belviso"
+    fullname: >-
+      LUCA BELVISO
+    bio: >-
+      DM ME FOR HAIR EDUCATION INQUIRIES 🌍 📍Bari, Italia @belmorestudio ————————— @causeacommotion_ ————————— CONSISTENCY PRACTISE DEDICATION —————————
+    location: "Italy"
+    followers: 14725
+    engagement: 254
+    commentsToLikes: 0.011983
+    id: ck602g0obhbfb0i14p7aoq3ar
+    verified: false
+    hashtags: "#thebarberpost, #art, #barberbari, #barbershopconnect"
+  - username: "alessiogiffi"
+    fullname: >-
+      Alessio Giffi
+    bio: >-
+      Racconto cose, compro scarpe👟 - Il mio Brand @alessiogifficollection® - @alessio_giffi
+    location: "Italy"
+    followers: 63549
+    engagement: 165
+    commentsToLikes: 0.064782
+    id: ck8wdhk3iduqt0j78z1dt0l3h
+    verified: false
+    hashtags: "#sneakers, #streetwearaddicts, #reels, #hype"
+  - username: "kingrusto"
+    fullname: >-
+      Alessandro “KingRusto©️” Andreuccetti
+    bio: >-
+      𝙒𝙤𝙧𝙡𝙙 𝙛𝙖𝙢𝙤𝙪𝙨 𝙜𝙧𝙖𝙛𝙛𝙞𝙩𝙞 𝙬𝙧𝙞𝙩𝙚𝙧 🌍 𝙇𝙚𝙩𝙩𝙚𝙧𝙞𝙣𝙜 𝙈𝙖𝙨𝙩𝙚𝙧 ✍🏻 𝙈𝙖𝙙𝙚 𝙞𝙣 𝙄𝙩𝙖𝙡𝙮 🇮🇹 𝙎𝙚𝙘𝙤𝙣𝙙 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 𝙋𝙧𝙤𝙛𝙞𝙡𝙚: @alessandrorusto 🖼️
+    location: "Italy"
+    followers: 121370
+    engagement: 167
+    commentsToLikes: 0.025748
+    id: ck1349jynvd1c0i19r19u55i5
+    verified: false
+    hashtags: "#streetstyle, #graffititrainspotting, #rustotrain, #graff"
+  - username: "tbhnoemi"
+    fullname: >-
+      NOEMI MIRRA
+    bio: >-
+      qualcuno dice che mi piacciono le scarpe fashion communication student ✉️ @zerozero.mgmt Milan, Italy mi trovi anche qua:
+    location: "Italy"
+    followers: 26552
+    engagement: 11
+    commentsToLikes: 0.000692
+    id: ck6ugc4yi256q0j71j2z9qgoh
+    verified: false
+    hashtags: "#houseofheat, #sneakerfreaker, #summerstreetwear, #highsnobietysneakers"
   - username: "mauriis_"
     fullname: >-
       𝙑𝙊𝙂𝙇𝙄𝙊 𝘿𝙄𝙑𝙀𝙉𝙏𝘼𝙍𝙀 𝙁𝘼𝙈𝙊𝙎𝙊
@@ -59,72 +119,12 @@ profiles:
     fullname: >-
       Lucas
     bio: >-
-      Youtuber (+130k) 💻 Sneakerahead 🔥 Gamer 🕹 Per collab: fortuthegamerbusiness@gmail.com 📩 Link al canale qui in basso ⬇️
+      Youtuber (+130k) 💻 Engineering @uninait 🏎 Official streamer for @playstationit 💙 Gamer 🎮 Sneakerahead 🔥 Vlogger 🤳🏻 Link al canale qui in basso ⬇️
     location: "Italy"
-    followers: 12176
-    engagement: 983
-    commentsToLikes: 0.025906
+    followers: 12197
+    engagement: 654
+    commentsToLikes: 0.017198
     id: ck8wdf5yfdr1f0j78s9uqgqpo
     verified: false
-    hashtags: "#consolewars, #ps5, #eboystyle, #drip"
-  - username: "meloandre__"
-    fullname: >-
-      andré melo
-    bio: >-
-      from brazil living in korea @zenpopstore Grupo Coreia do Sul na @namsantravelagency youtube channel
-    location: "Italy"
-    followers: 47067
-    engagement: 785
-    commentsToLikes: 0.013902
-    id: ck0w4k2ziyyn30i19j5ly7ev6
-    verified: false
-    hashtags: "#funny, #reelsbrasil, #hype, #vintage"
-  - username: "yourmanslaughta"
-    fullname: >-
-      Apurva Sawant
-    bio: >-
-      • Art • Fashion • Sneakers • Lifestyle • New venture at @_theattic__ • Mumbai, India 📍 • Find the link to my YouTube channel below👇🏽
-    location: "Italy"
-    followers: 4348
-    engagement: 1919
-    commentsToLikes: 0.046333
-    id: ck6u22m41pcla0j71wjiqqo1b
-    verified: false
-    hashtags: "#leftrightkicks, #highsnobietystyle, #indiansneakerhead, #mumbairepresent"
-  - username: "sabrinasalernoff"
-    fullname: >-
-      Sabrina Salerno
-    bio: >-
-      BE YOURSELF✨ 📍TURIN, ITALY 🇮🇹 📩E-mail: sabrina_salerno@icloud.com 👤 Facebook: Sabrina Salerno 🎥: TikTok: @sabrinasalerno2
-    location: "Italy"
-    followers: 28163
-    engagement: 187
-    commentsToLikes: 0.049642
-    id: ckf5suycbga3j0j23b6by382b
-    verified: false
-    hashtags: "#outfitinspiration, #fashiondiaries, #newface, #highfashion"
-  - username: "ariahnablanco.sg"
-    fullname: >-
-      Ariahna Blanco
-    bio: >-
-      🇮🇹 🇨🇴 Oficial @suicidegirls / Freelance model DM me for info 🤟🏼
-    location: "Italy"
-    followers: 12968
-    engagement: 648
-    commentsToLikes: 0.022944
-    id: ck5cjbizwue060i11w2l3r50g
-    verified: false
-    hashtags: "#inked, #hypebeast, #suicidegirlsitaly, #tattoedmodel"
-  - username: "lele.aspro"
-    fullname: >-
-      Lele Aspro
-    bio: >-
-      Creativity Creator 📸 Gopro Founder: @herosquadvt Admin: @gosoulcommunity 🌐 Sponsor: Bluefin - Blueprint WonkyBoard - Ruroc 📩 Sponsorship: Email o Dm
-    location: "Italy"
-    followers: 6106
-    engagement: 621
-    commentsToLikes: 0.022830
-    id: ck5zsnlxcyufy0i14r4achfp4
-    verified: false
-    hashtags: "#watersports, #mountainbiking, #bikelife, #montagna"
+    hashtags: "#fortu, #hypebeasts, #sneakers, #outfitideas"
 ---

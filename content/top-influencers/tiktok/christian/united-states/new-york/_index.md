@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In New York In 2023
+title: Top 10 Christian TikTok Influencers In New York In 2024
 description: >-
-  Find top christian TikTok influencers in New York in 2023. Most popular hashtags: #fyp #foryou #viral #foryoupage.
+  Find top christian TikTok influencers in New York in 2024. Most popular hashtags: #fyp #foryou #newyork #funny.
 platform: TikTok
 hits: 31
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 31 TikTok influencers like this in New York, United States for you to collaborate.
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 31 TikTok influencers like this in New York, United States for you to collaborate.
 profiles:
   - username: "_rjwalker"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck80occjlgrrd0j78o25c9fdu
     verified: false
     hashtags: "#midwest, #motocross, #motokids, #moto"
-  - username: "chrisjb_"
-    fullname: >-
-      christian
-    bio: >-
-      🇵🇭 bay area, ca guitar/vocals
-    location: "United States"
-    followers: 5739
-    engagement: 2216
-    commentsToLikes: 0.083691
-    id: ckcv952tbqpav0j239u61kn43
-    verified: false
-    hashtags: "#geicolipsync, #singing, #tiktok, #sing"
   - username: "davelist"
     fullname: >-
       David List
@@ -127,4 +115,16 @@ profiles:
     id: ck7zoh2objzcs0j78dfnnlv5n
     verified: false
     hashtags: "#foryou, #comedy, #easter, #christian"
+  - username: "adrivingforce"
+    fullname: >-
+      Ebony Niicole
+    bio: >-
+      Dancer 💃🏾 Auntie 💕 IG: @adrivingforce_ CshAp- EbonyNiicolee Ven-EbonyNiicole
+    location: "United States"
+    followers: 3102
+    engagement: 1781
+    commentsToLikes: 0.131505
+    id: ckd1ae92pse5j0j233ql5n9ru
+    verified: false
+    hashtags: "#relationships, #girlfriend, #nyc, #blm"
 ---

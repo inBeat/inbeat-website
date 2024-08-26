@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Malaysia in 2023
+title: Top 10 Wellness Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top wellness Instagram influencers in Malaysia in 2023. Most popular hashtags: #fitness #staysafe #stayhome #instagood.
+  Find top wellness Instagram influencers in Malaysia in 2024. Most popular hashtags: #gymmotivation #motivation #workout.
 platform: Instagram
 hits: 12
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 12 Instagram influencers like this in Malaysia for you to work with.
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 12 Instagram influencers like this in Malaysia for you to collaborate.
 profiles:
-  - username: "nanaalhaleq"
+  - username: "_nanamohd_"
     fullname: >-
-      Malaysian Fitness Goddess ☺️
+      Call Me Nana Mohd ✨
     bio: >-
-      👑FitEntrepreneur ♥️TV Host 🌈Wellness Celebrity Coach 🍑Co-Founder @bodylab.co @fitsambalbynana_hq 🏋🏽‍♀️ @underarmourmy Athlete
+      Email to collab ⬇️ Pls no DMs TV Host | Wellness | Fitness | Beauty | Lifestyle Previously known as Nana Al Haleq
     location: "Malaysia"
-    followers: 209346
-    engagement: 75
-    commentsToLikes: 0.018376
+    followers: 224976
+    engagement: 22
+    commentsToLikes: 0.037941
     id: ck135jqr91rx50i19rd7qnft3
     verified: false
-    hashtags: "#shotoniphone11promax, #zaloramy, #fitfam, #kitajagakita"
-  - username: "asma.nasa"
+    hashtags: "#sheinanniversary, #mynbd, #watsonsbrand, #beautyelixir"
+  - username: "baeccalee"
     fullname: >-
-      Asma' Nasa
+      Becca🦋
     bio: >-
-      Sharing positive thoughts on Life, Style, Beauty and Wellness Contact 💌: asma.nasa@gmail.com ✨ Contribute meals to the homeless & urban poor in KL👇🏼
+      on-screen passion, off-screen magic interior architecture design @albesolutions art soul, wellness & growth-driven for work: beccalee.com@gmail.com
     location: "Malaysia"
-    followers: 149665
-    engagement: 199
-    commentsToLikes: 0.011554
-    id: ck5chwvzurm210i11bhkwa3dd
+    followers: 29440
+    engagement: 5
+    commentsToLikes: 0.002179
+    id: ck6u0dhuvf1zv0j71j6y4lla5
     verified: false
-    hashtags: "#ootdwithflower, #mmxasmanasa, #mydecortemoment, #decortemy"
-  - username: "a.helmiy"
+    hashtags: "#hrdcorp, #lebihpintarlebihmahir, #ntw2024, #myntw"
+  - username: "priyaasimmi"
     fullname: >-
-      Helmiy
+      Priyaa Simmi
     bio: >-
-      ⦿ Lifestyle | Fitness | Travel ⦿ Email or DM for Collab | Photoshoot 📸 . ↓ Sudio 🇸🇪 ↓
+      🔝15 Mrs World | Mrs Malaysia World 2019-2021 👑| Founder/Director @ecoqueen.co @security2u.asia @saiwelfare | Global Iconic Woman 2023 Award |
     location: "Malaysia"
-    followers: 16876
-    engagement: 802
-    commentsToLikes: 0.033709
-    id: ck0w5h7td3muv0i19xmzsjf0d
+    followers: 47682
+    engagement: 201
+    commentsToLikes: 0.018587
+    id: ckz1xhoyo3eih0j23tvx6pnif
     verified: false
-    hashtags: "#smile, #fashion, #foodporn, #happy"
-  - username: "rdnwan_"
+    hashtags: "#mindfulness, #followforfollowback, #life, #photooftheday"
+  - username: "casseysoo"
     fullname: >-
-      One
+      #CasseySoo
     bio: >-
-      👨🏻‍💻 Engr ✈️ Millennial Traveler 📱DM for Collab/Review 📩 riduanwahab@icloud.com Celebrate 6th aniversary Go Shop NOW! More deals and discount !⬇️
+      #988《敢玩最Power》Radio Personality, Emcee, DJ Real life of a Sabahan girl working in KL. #C游记 #Cassey扮靓靓 #家电小公主
     location: "Malaysia"
-    followers: 17015
-    engagement: 514
-    commentsToLikes: 0.020421
-    id: ck0w5h7yk3mw40i1936y3we96
+    followers: 25496
+    engagement: 191
+    commentsToLikes: 0.019966
+    id: ck5hdx5j0pu080i11g3b10ock
     verified: false
-    hashtags: "#mensfashion, #igers, #instagood, #glowpenjana"
-  - username: "isabelleman2"
+    hashtags: "#lnc, #teascentuary, #shotoniphone14promax, #jbcafe"
+  - username: "wayne_wayne23"
     fullname: >-
-      Isabelle Man
+      Wayne Thong Wai Yean
     bio: >-
-      Travel•Lifestyle•Fashion•Positivity•Health❤️HomeChef @bellebellebite/BeautyQueen/Biotech/Model/Influencer❤️Sponsorship:isabelleman78@gmail.com
+      天翊娛樂 / 飯盒頻道 Dreamax Entertainment 前電台 / 電視台節目主持人 Former Radio Announcer / TV Host 演員、活动主持人、认证潜水员 Actor、Event Host、Dive Master in Training
     location: "Malaysia"
-    followers: 10481
-    engagement: 235
-    commentsToLikes: 0.075642
-    id: ck0tyggo2mpog0i191owr96k3
+    followers: 56046
+    engagement: 106
+    commentsToLikes: 0.037297
+    id: ck5chxgd6rmww0i11e4pv3bfz
     verified: false
-    hashtags: "#babe, #selfie, #positivevibesonly, #malaysia"
-  - username: "ragunathan24"
+    hashtags: "#astroaec, #dontletthescammersin, #gymmotivation, #love"
+  - username: "eatnhopsabah"
     fullname: >-
-      Ragunathan (Men Of Steel)
+      Eat n Hop Sabah 吃乐在沙巴
     bio: >-
-      🇲🇾 bodybuilder • Trainer/coach • Mr.Malaysia 2014 ( C.O.C )🏆 • Mr.Johor 2x ( C.O.C )🏆 • Men OF Steel 2014 🥇 • Squeaky Clean Classic 2019 (C.O.C)🏆
+      SNAP • EAT • TAG #eatnhopsabah @eatnhopsabah 📍Kota Kinabalu,Sabah Follow us on Facebook 👇🏻
     location: "Malaysia"
-    followers: 11325
-    engagement: 878
-    commentsToLikes: 0.045041
-    id: ck15sjqdkdcsh0i1948xpciq0
+    followers: 32538
+    engagement: 73
+    commentsToLikes: 0.004924
+    id: ck14i6gyqdvqg0i19zlsza1kh
     verified: false
-    hashtags: "#motivation, #swole, #proses, #sizeon"
-  - username: "joannasohofficial"
+    hashtags: "#makersandmavensmarket, #kkeats, #sabahfood, #kkcafe"
+  - username: "illyariffin"
     fullname: >-
-      Joanna Soh
+      illy ariffin
     bio: >-
-      🧡 Creator @fio.app Fitness App 👧🏻 Certified Trainer & Nutrition Coach 🏋️‍♀️ Full Length Workouts on YouTube| 2mil 👇🏻 3KM Fat Burning Indoor Walk 🚶‍♀️
+      Run ecom + marketing agency + fnb 👩‍💻 #ajaibmarketing 🦄 🎀 #bloomingwithIlly 🍲 @confirmsedap_my ⬇️😘💃⬇️
     location: "Malaysia"
-    followers: 109010
-    engagement: 202
-    commentsToLikes: 0.019201
-    id: ck14ipzohgnfs0i19u7hbh6gi
+    followers: 30646
+    engagement: 53
+    commentsToLikes: 0.116457
+    id: ck6tontsrf3fn0j714lxewabv
     verified: false
-    hashtags: "#diabetes, #teamnike, #fitnessjourney, #fitnessmotivation"
-  - username: "_syasyaizzati"
+    hashtags: "#spreadhappiness, #confirmsedap, #lotusskongsiceria, #spreadhope"
+  - username: "aishahjennifer"
     fullname: >-
-      S Y A S Y A   I Z Z A T I
+      Aishah Sinclair
     bio: >-
-      21 & fabulous DM for gift/paid review 💌 👩🏻‍💼 @need_stores & @oley2crunchycheras
+      "My kids are my motivation, not my excuse." Radio announcer & TV host. Student of Life.
     location: "Malaysia"
-    followers: 46395
-    engagement: 522
-    commentsToLikes: 0.007348
-    id: ckf5rvvd0e0vd0j23qxtwl88z
-    verified: false
-    hashtags: "#kitajagakita, #teatime, #bohtea, #adabohadaummph"
-  - username: "missalvy"
+    followers: 325639
+    engagement: 53
+    commentsToLikes: 0.014930
+    id: ckf5ry1gde81d0j23pibwvykc
+    verified: true
+    hashtags: "#mixbreakfast, #hanimokhta, #hanimokhtaraya2024, #hanimokhtaprimadonna"
+  - username: "sarimahibrahim"
     fullname: >-
-      ALVY JOANNA.
+      Sarimah Ibrahim
     bio: >-
-      fitness program. @missalvyfitness art. @alvstudio.co youtube. missalvytv managed by @alyfegroup isabel@alyfegroup.com | work@missalvy.com
+      🇮🇪🇲🇾Irish Malay Actress |Award winning TV Presenter | Gym junkie |Malaysian Work Enquiries: 013-964 9749 Intl Rep'd by @fionacrosstalent
     location: "Malaysia"
-    followers: 101351
-    engagement: 476
-    commentsToLikes: 0.007134
-    id: ck5hh6pdx6nu10i11gq51x3xq
-    verified: false
-    hashtags: "#wellnesscoaching, #wonderfulmoods, #hidupauntylianvy, #trusttheprocess"
-  - username: "adreannajoyce"
+    followers: 515695
+    engagement: 41
+    commentsToLikes: 0.047224
+    id: ckf5ucfzckdlb0j23qojzy367
+    verified: true
+    hashtags: "#hosting, #kesihatanmental, #bintangkembalimenyengat, #mentalhealth"
+  - username: "adelinebeh0227"
     fullname: >-
-      𝐀𝐃𝐑𝐄𝐀𝐍𝐍𝐀 𝐉𝐎𝐘𝐂𝐄 | 𝙁𝙞𝙩𝙣𝙚𝙨𝙨 𝘾𝙤𝙖𝙘𝙝
+      Adeline Beh 马琳溦
     bio: >-
-      ⭐️Independent Personal Trainer & Group Coach, Online Coaching 🎂Founder @cravinbakes ⬇️SIGN UP ‘ADREANNA-LINE RUSH’ VIRTUAL CLASS⬇️
+      Miss Astro Chinese Int. 2019 For Job Enquiry: adelinebeh96@gmail.com YouTube Latest video⬇️
     location: "Malaysia"
-    followers: 8228
-    engagement: 339
-    commentsToLikes: 0.074329
-    id: ck5ztzdwr1ect0i142xi1e0yr
+    followers: 32636
+    engagement: 334
+    commentsToLikes: 0.010389
+    id: ck5c5ix903k8a0i11i6k2eft4
     verified: false
-    hashtags: "#fitness, #staysafe, #sudio, #sudiomoments"
+    hashtags: "#kiehlscalendula, #bioessencemy, #somersbymy, #puregreentea"
 ---

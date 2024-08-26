@@ -1,24 +1,96 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Berlin In 2023
+title: Top 10 Comedians Instagram Influencers In Berlin In 2024
 description: >-
-  Find top comedians Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #comedy #standupcomedy #lustig.
+  Find top comedians Instagram influencers in Berlin in 2024. Most popular hashtags: #comedy #berlin #germany #standupcomedy.
 platform: Instagram
-hits: 11
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 11 Instagram influencers like this in Berlin, Germany for you to work with.
+hits: 15
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 15 Instagram influencers like this in Berlin, Germany for you to connect with.
 profiles:
+  - username: "thedanielerizzo"
+    fullname: >-
+      Daniele Rizzo
+    bio: >-
+      🇪🇺 [Actor | Showman] Schauspieler | Moderator | Comedian | Synchron Berlin | Köln 🇩🇪🇮🇹🇺🇸 Action | Drama | Comedy | Horror | Comics
+    location: "Germany"
+    followers: 44479
+    engagement: 2529
+    commentsToLikes: 0.024629
+    id: ck5bvl2rtjvg90i110iy0hkyh
+    verified: true
+    hashtags: "#ecasting, #schauspiel, #marionhaackcasting, #serie"
   - username: "jurassicaparka"
     fullname: >-
       Jurassica Parka
     bio: >-
-      Dragqueen und Comedian aus Berlin ❤️
+      Dragqueen + Comedian📍Berlin TikTok: @thejurassicaparka YouTube: @jurassicaparka Website: www.jurassicaparka.com
     location: "Germany"
-    followers: 11783
-    engagement: 527
-    commentsToLikes: 0.035692
+    followers: 18675
+    engagement: 323
+    commentsToLikes: 0.034454
     id: ck6titt1b1exb0j71s3gqh92m
     verified: false
-    hashtags: "#brunotaut, #parkaundweinhaus, #goldengmilfs, #bkalebt"
+    hashtags: "#nasamma, #storytelling, #jurassicaparka, #dragqueen"
+  - username: "ingmarstadelmann"
+    fullname: >-
+      Ingmar Stadelmann
+    bio: >-
+      📍Big Daddy Berlin 🎤 Stand-up Comedian „Ich komm nicht klar! Kommt ihr mit?“ ——————————————- 💥👇Tickets für Liveshows👇💥
+    location: "Germany"
+    followers: 82631
+    engagement: 104
+    commentsToLikes: 0.033900
+    id: ck5bxoj5yo3z50i11ow3ysy86
+    verified: true
+    hashtags: "#ingmarstadelmann, #comedydeutschland, #lustiges, #findickjut"
+  - username: "abdulchahin"
+    fullname: >-
+      Abdul Kader Chahin
+    bio: >-
+      Comedian & Satiriker Podcast @nympheundsoehne | @brennpunkt_podcast Showtermine ⬇️ "ACHTE JETZT!" Anfragen an: eva@kaderschmiede-booking.de
+    location: "Germany"
+    followers: 47447
+    engagement: 1278
+    commentsToLikes: 0.017750
+    id: clq9hyz5s7bhf0k08qyy791dr
+    verified: false
+    hashtags: "#satire, #comedy, #deutschland, #apache207"
+  - username: "shahak"
+    fullname: >-
+      Shahak Shapira
+    bio: >-
+      🎤Israeli Comic in Berlin. English Stand-Up. 🇩🇪German Comedy: @shahak.de 🎟Show Tix: 10.3 Hamburg 11.3 Stuttgart 14.3 Leipzig 15.3 Berlin 16.3 Vienna
+    location: "Germany"
+    followers: 64147
+    engagement: 321
+    commentsToLikes: 0.013695
+    id: ck5q5xj96v10d0i11nibrterq
+    verified: true
+    hashtags: "#standup, #comedy, #comedyshow, #laugh"
+  - username: "interventionrachel"
+    fullname: >-
+      Rachel Intervention
+    bio: >-
+      Drag Queen | Germany 🙆 Lipsyncerin mit Leidenschaft. Stand-Up-Comedian. Moderateuse. Vegan. 📍𝗕𝗘𝗥𝗟𝗜𝗡 Booking: rachelintervention@gmail.com
+    location: "Germany"
+    followers: 4777
+    engagement: 1380
+    commentsToLikes: 0.120139
+    id: ck5bxo9qho3di0i11k1ey65lv
+    verified: false
+    hashtags: "#show, #drag, #follow, #rpdr"
+  - username: "oliverpolakofficial"
+    fullname: >-
+      Oliver Polak
+    bio: >-
+      Comedian
+    location: "Germany"
+    followers: 64519
+    engagement: 134
+    commentsToLikes: 0.031247
+    id: ck14ktnmqr9jb0i19236o9ssf
+    verified: true
+    hashtags: "#radioshow, #tiktokindia, #interview, #meme"
   - username: "fabio_landert"
     fullname: >-
       Fabio Landert
@@ -30,43 +102,19 @@ profiles:
     commentsToLikes: 0.047045
     id: ck136pf3y7m2y0i19d7lvtio8
     verified: false
-    hashtags: "#schweiz, #standup, #show, #comedyshow"
+    hashtags: "#fotografie, #dog, #frenchbulldog, #frenchie"
   - username: "kawuskalantar"
     fullname: >-
       Kawus Kalantar
     bio: >-
-      Stand-up Comedian. Booking: mail@klartext-booking.de Podcast 👉@chipsundkaviar 🔥🔥🔥 Offizieller Kawus Kalender 2021!👇
+      Stand-up Comedian/ Podcast @chipsundkaviar Spotify und überall! 👌 Booking: mail@klartext-booking.de 🔥🔥🔥Livetour mit ständig neuen Terminen!👇
     location: "Germany"
-    followers: 47990
-    engagement: 766
-    commentsToLikes: 0.010725
+    followers: 53484
+    engagement: 838
+    commentsToLikes: 0.011714
     id: ck0vyrlxh5gde0i19qsdceulo
     verified: false
-    hashtags: "#podcast, #kawuskalender, #merch, #felixlobrecht"
-  - username: "rrrudya"
-    fullname: >-
-      Alina Rudya
-    bio: >-
-      Professional photographer & amateur comedian ➡️Berlin based. @bellcollective founder 📧 Alinarudya@wherever.me
-    location: "Germany"
-    followers: 86002
-    engagement: 134
-    commentsToLikes: 0.022031
-    id: ck0tufl4p6xt40i19yz9co4ra
-    verified: true
-    hashtags: "#werbung, #nikondach, #nikonz7, #sponsored"
-  - username: "jordanalmani"
-    fullname: >-
-      JORDANALMANI🇩🇪
-    bio: >-
-      Actor - Comedian 🇩🇪 📩: Anfrage almanis999@gmail.com ⬇️:❗️Neues VIDEO auf YOUTUBE❗️⬇️
-    location: "Germany"
-    followers: 10146
-    engagement: 775
-    commentsToLikes: 0.012937
-    id: ck137ogl2ckcm0i195jl1w705
-    verified: false
-    hashtags: "#witzigevideos, #schwarzerhumor, #essen, #lustigespr"
+    hashtags: "#tour, #dresden, #langlebekawuskalantar, #standup44"
   - username: "saschagrammel"
     fullname: >-
       Sascha Grammel
@@ -79,52 +127,4 @@ profiles:
     id: ck6titoiu1epe0j71j3ulksz0
     verified: true
     hashtags: "#geschenke, #josie, #spass, #spa"
-  - username: "osan_yaran"
-    fullname: >-
-      Osan Yaran
-    bio: >-
-      Berlin based... Standupcomedian Mad Monkey - der Podcast (spotify) Tik Tok: Osan Yaran Soloprogramm - Schublade kaputt!
-    location: "Germany"
-    followers: 26468
-    engagement: 520
-    commentsToLikes: 0.011586
-    id: ck5bxp0ngo51o0i11ot8s6r52
-    verified: true
-    hashtags: "#lustig, #comedy, #funnyvideos, #instagram"
-  - username: "sedo_wexx_tv"
-    fullname: >-
-      ⛔️🏅📺Sedo_WexxTV📺🏅⛔️
-    bio: >-
-      📩Booking: koc.sedat2121@outlook.com •King of Synchro🎙🌏 •Twitch: sedo_wexx_tv (Neu) • www.sedowexx.shop 🎁 (Neu) • YouTube: sedowexxtv (Neu)
-    location: "Germany"
-    followers: 86228
-    engagement: 676
-    commentsToLikes: 0.026173
-    id: ckap4sxtu8q7x0i780tkqlrnc
-    verified: false
-    hashtags: "#bremen, #comedy, #mannheim, #hamburg"
-  - username: "haifischlikez"
-    fullname: >-
-      H A I F I S C H L I K E Z 67 🔞
-    bio: >-
-      @amin7_hfl @benjamin_hfl ‼️ TikTok: 360.000 ‼️
-    location: "Germany"
-    followers: 12167
-    engagement: 1129
-    commentsToLikes: 0.057381
-    id: ck14l9pmdtjt60i19lml4zb6e
-    verified: false
-    hashtags: "#comedyvideo, #heidelberg, #mannheimcity, #funnyvideos"
-  - username: "masudakbarzadeh"
-    fullname: >-
-      Persianfreak
-    bio: >-
-      Sohn von Prinzessin Scheherazade und dem Piratenkönig vom Taka- Tuka-Land Oft missverstandener Träumer… Masuds Welt, die Welt vom Persianfreak.
-    location: "Germany"
-    followers: 7191
-    engagement: 332
-    commentsToLikes: 0.056320
-    id: ck6uh25kp6jxo0j71riw346ce
-    verified: true
-    hashtags: "#tutorial, #masudcomedy, #art, #repost"
 ---

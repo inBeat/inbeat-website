@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Belgium in 2023
+title: Top 10 Wellness Instagram Influencers In Belgium In 2024
 description: >-
-  Find top wellness Instagram influencers in Belgium in 2023. Most popular hashtags: #wellness #staysafe #outfit #photoshoot.
+  Find top wellness Instagram influencers in Belgium in 2024. Most popular hashtags: #travel #belgium #wellness #travelinspiration.
 platform: Instagram
-hits: 12
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 12 Instagram influencers like this in Belgium for you to collaborate.
+hits: 10
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 10 Instagram influencers like this in Belgium for you to contact.
 profiles:
-  - username: "_curlsandglutes_"
+  - username: "coconut_story_"
     fullname: >-
-      M.
+      Karim & Eloïse 🥥
     bio: >-
-      𝘐𝘧𝘣𝘣 𝘸𝘦𝘭𝘭𝘯𝘦𝘴𝘴 𝘢𝘵𝘩𝘭𝘦𝘵𝘦 • 𝘗𝘰𝘴𝘪𝘯𝘨 𝘤𝘰𝘢𝘤𝘩 • 𝘔𝘰𝘵𝘪𝘷𝘢𝘵𝘰𝘳 - Coach: @team.h3nn0 - Sponsors: @gorillawearusa / @trecnutritionbe - Collabs: 📩
+      ♥ Married travel couple & content creators 🇧🇪 ♥ Social Media Manager Freelance - Web3 Entrepreneur ♥ Dog parents 🐾 ♥ Travel blog ↓
     location: "Belgium"
-    followers: 4267
-    engagement: 764
-    commentsToLikes: 0.061665
-    id: ck14lc7zitxiy0i19qgvmtog4
+    followers: 15118
+    engagement: 541
+    commentsToLikes: 0.058612
+    id: ck8tdkczg3nxt0j78szfp6nt8
     verified: false
-    hashtags: "#quads, #bifbb, #photoshoot, #girlswholift"
-  - username: "ing2thee"
+    hashtags: "#travelcouple, #travelblogger, #yucatanmexico, #traveltheworld"
+  - username: "traveltheworldwithmykiddies"
     fullname: >-
-      Inge Roggeman
+      Travel with kids | Kris Ronsyn
     bio: >-
-      📍Arendonk 🇧🇪 - Estepona 🇪🇸 🚴🏼‍♀️ Specialized ▪️4bikeswesterlo ▪️Stealthwheels▪️Omnibikeparts▪️Trivio 👩🏼‍💻 @flaminge_communicatie
+      👨‍👩‍👧‍👦 Travel with and without kids 🧳 Travel tips and tricks 💛enjoying the little things in life and all the beauty around us💛
     location: "Belgium"
-    followers: 11328
-    engagement: 765
-    commentsToLikes: 0.048979
-    id: ck5zm5udzlyfp0i14ya1b6ut2
+    followers: 14826
+    engagement: 260
+    commentsToLikes: 0.150959
+    id: ck8tbj3tkvw7l0j789ae83wd9
     verified: false
-    hashtags: "#fistarmy, #mtb, #enduro, #epic"
-  - username: "yaratje02"
+    hashtags: "#winterwonderland, #summer2021, #reizenmettieners, #visitsweden"
+  - username: "lottefeyen"
     fullname: >-
-      Yara De Smedt
+      Lotte Feyen
     bio: >-
-      📧| Management: Yara@nextchapter.agency • Actrice🎬 • Influencer • Tiktok: yaradesmedt (290k followers😍)
+      I do my own stunts. Model | Deejay | Artwork @thepainters.lab ✉️: Lotte@newkith.com
     location: "Belgium"
-    followers: 39325
-    engagement: 1224
-    commentsToLikes: 0.008505
-    id: ck8weqofwegtv0j78ghzm0grk
+    followers: 47050
+    engagement: 225
+    commentsToLikes: 0.010201
+    id: ck5c3qg00zul30i119offi57w
     verified: false
-    hashtags: "#summer2k20, #spain, #positivevibes, #behappy"
-  - username: "kimhaegen"
+    hashtags: "#valkenburg, #pregnancy, #modeling, #pregnant"
+  - username: "mayaspirationn"
     fullname: >-
-      ＫＩＭ ＢＥＲＬＥＹ
+      Maha
     bio: >-
-      𝙱𝚊𝚜𝚎𝚍 𝚒𝚗 𝙱𝚎𝚕𝚐𝚒𝚞𝚖 𝙼𝚘𝚖𝚖𝚢 𝚘𝚏 𝚁𝚘𝚜𝚊 𝙴𝚗𝚐𝚊𝚐𝚎𝚍 𝚠𝚒𝚝𝚑 @huguesnkondo 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻𝘀 💌 𝘃𝗲𝗿𝗵𝗮𝗲𝗴𝗲𝗻.𝗸@𝗵𝗼𝘁𝗺𝗮𝗶𝗹.𝗯𝗲
+      Empowering women to succeed Lifestyle | Self-growth | Motivation Legal advisor Based in Belgium
     location: "Belgium"
-    followers: 8097
-    engagement: 400
-    commentsToLikes: 0.090179
-    id: ck5hsparlwz3e0i11jw860kv9
+    followers: 231193
+    engagement: 78
+    commentsToLikes: 0.016236
+    id: cl5fifgnv4v7r0i23693dh5qq
     verified: false
-    hashtags: "#matchingoutfits, #belgianmoms, #belgianinfluencer, #photoshoot"
-  - username: "hennyseroeyen"
+    hashtags: "#careergoals, #careermotivation, #womaninbusiness, #workwear"
+  - username: "charlotte_collard"
     fullname: >-
-      WBFF PRO Fitness Model
+      Charlotte’s Kitchen
     bio: >-
-      🏃🏻‍♂️TorchRun🇧🇪@sobelgium 🏆2x#EU 1xVice#WorldChampion 🎬#Actor#FitnessModel 🏎By @mercedesbenz 🥊By @venum
+      • Charlotte Collard Consulting 🌿 • Recettes, Restaurants & Hotels 🍽️ • Naturellement Simple & Sain 🍃 • @professionalchefs @restaurantbarworld 📝
     location: "Belgium"
-    followers: 171321
-    engagement: 321
-    commentsToLikes: 0.022004
-    id: ck6trfi5nyorg0j7144qgzj2o
+    followers: 85865
+    engagement: 58
+    commentsToLikes: 0.066760
+    id: ck5hpqdgmrstc0i11pos0j9zs
     verified: true
-    hashtags: "#olimplaf, #olimpsportnutrition, #olimp, #olimpsport"
-  - username: "il_fee_beau"
+    hashtags: "#recettemaison, #charlottecollardmarrakech, #valdisere, #charlotteskitchen"
+  - username: "kristofeyckmans"
     fullname: >-
-      Il fée beau
+      Kristof Eyckmans-Luxury travel
     bio: >-
-      🔭Chercheuse d'alternatives 🇧🇪Créatrice de contenu 🌱#lebonheurdeschosessimples #slowlife 📍#namur #huy #liège
+      🌍 global citizen Head of Product/ Experience Travel | Photography | Luxury lifestyle | Writer
     location: "Belgium"
-    followers: 10311
-    engagement: 683
-    commentsToLikes: 0.170182
-    id: ck0u1v0ojy2p40i19jig1hm5e
+    followers: 103143
+    engagement: 22
+    commentsToLikes: 0.006856
+    id: ck5hfuuapzgfi0i11g4xdfsvq
     verified: false
-    hashtags: "#belgianblogger, #jardinsauvage, #marquefrancaise, #naturel"
-  - username: "sofiespinnoy"
+    hashtags: "#interiordesign, #belgium, #travel, #instagood"
+  - username: "cindyvandyck"
     fullname: >-
-      Sofie
+      CINDY |  BELGIAN CREATOR
     bio: >-
-      • 📍 9300 #aalstaanmijligt • 🔸 30year old disneylover • 🧡 Mommy of Noah • 💌 sofiespinnoy@gmail.com
+      ⚡️ Not your average 90’s gal Digital nomad, creator and entrepreneur Founder of @blogzine.be & @blogzineacademy 📧 blogzinebe@gmail.com
     location: "Belgium"
-    followers: 5229
-    engagement: 522
-    commentsToLikes: 0.063441
-    id: ck9we251wi9990j78ayx6e722
+    followers: 50190
+    engagement: 135
+    commentsToLikes: 0.150682
+    id: ck136prvz7nx70i19w0eu2grm
     verified: false
-    hashtags: "#momlife, #skincare, #momsofinstagram, #babyneetens"
+    hashtags: "#godomrep, #colonialcity, #santodomingocity, #cindyvandyck"
+  - username: "freeoversea"
+    fullname: >-
+      
+    bio: >-
+      
+    location: "Belgium"
+    followers: 5
+    engagement: 346333
+    commentsToLikes: 0.049924
+    id: ck13692ep5cji0i19u4ps4dn1
+    verified: false
+    hashtags: "#yogapractice, #vegan, #plantbased, #yogaeveryday"
   - username: "amdesignscom"
     fullname: >-
       am designs
     bio: >-
-      Creating timeless living spaces — am studio Where art meets design — @amresidences Rental platform of unique places around the world
+      Creating timeless living spaces #architect #interiordesigner — am studio Where art meets design — @amresidences Rental platform of unique places
     location: "Belgium"
-    followers: 19205
-    engagement: 212
-    commentsToLikes: 0.016728
+    followers: 27919
+    engagement: 159
+    commentsToLikes: 0.015404
     id: ck0vw3ipcrxrr0i1949kc4ixs
     verified: false
-    hashtags: "#amstudio, #whiteminimalism, #antwerp, #showroom"
-  - username: "sharongrobben"
+    hashtags: "#art, #remparts16, #project, #architect"
+  - username: "jeremy.caira"
     fullname: >-
-      Belgian C U R V Y 🍑 M O D E L
+      Jeremy Caira
     bio: >-
-      Founder @thediversityproject 💕 Body❤️ @curvesmodelagency 📍🇧🇪 🌎 @rothman_models @francinamodels @damodelmanagement @perfectmodelofficiel @egosmodelsams
+      👤 Content Creator ! 📷 🎥 Model 🌍 TRAVEL • LIFESTYLE • FASHION • DECO • CARS ✉ Business or Collaboration : DM or Jeremy.caira@live.be
     location: "Belgium"
-    followers: 235914
-    engagement: 434
-    commentsToLikes: 0.023887
-    id: ck55plxzmaug10i11j2960mu7
+    followers: 44911
+    engagement: 80
+    commentsToLikes: 0.058426
+    id: ck55ppy3wb47l0i11kufwus8h
     verified: false
-    hashtags: "#confidence, #selfie, #ootd, #curvy"
-  - username: "elizemol"
-    fullname: >-
-      ELIZE MOL
-    bio: >-
-      𝐵𝑒 𝑎 𝑣𝑜𝑖𝑐𝑒 𝑛𝑜𝑡 𝑎𝑛 𝑒𝑐ℎ𝑜 🏋🏽‍♀️ @qntsportnutrition 20% off: code ‘ELIZE20’ 📩elize.mol@hotmail.com 💅🏼 @by_elize_ ❣️ @verballyoffensive
-    location: "Belgium"
-    followers: 16125
-    engagement: 737
-    commentsToLikes: 0.089145
-    id: ck5zxzx4o8z5j0i14x49rl884
-    verified: false
-    hashtags: "#gymshark, #discountcode, #gymmotivation, #photographer"
+    hashtags: "#travelling, #love, #spain, #blue"
 ---

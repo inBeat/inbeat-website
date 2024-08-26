@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Canada In 2023
+title: Top 10 Dancers TikTok Influencers In Canada In 2024
 description: >-
-  Find top dancers TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #duet #foryou #dance.
+  Find top dancers TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #duet #foryou #dance.
 platform: TikTok
-hits: 146
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 146 TikTok influencers like this in Canada for you to collaborate.
+hits: 143
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database has 143 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "madison_parkinson1"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.021413
     id: ck8nbu3lkbgs10j78mvyxysaa
     verified: false
-    hashtags: "#danceteacher, #jazz, #dancing, #ballet"
+    hashtags: "#danceclass, #dancerproblems, #contemporary, #danceteacher"
   - username: "divasensations"
     fullname: >-
       Diva Sensations 
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.066042
     id: ckac5sz6fdljg0i78kvyrs3sq
     verified: true
-    hashtags: "#twins, #tiktok, #foryoupage, #fyp"
+    hashtags: "#tiktok, #giris, #pov, #bangenergy"
   - username: "elle.mckinnon"
     fullname: >-
       ~Elle McKinnon~
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.024788
     id: ck8nhsoxo2gk70j78pjf62qg1
     verified: false
-    hashtags: "#fyp, #sky, #greenscreenvideo, #dance"
+    hashtags: "#sky, #blm, #bracken, #parttwocomingsoon"
   - username: "fluffy.mercoon"
     fullname: >-
       Robin
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.018164
     id: ckb18rddnwq8m0j233t2za74o
     verified: false
-    hashtags: "#fyp, #indigenous, #duet, #singer"
+    hashtags: "#duet, #singer, #fyp, #indigenous"
   - username: "aichella"
     fullname: >-
       Mynameisaicha

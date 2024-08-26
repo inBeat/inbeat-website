@@ -1,12 +1,72 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In United Kingdom In 2023
+title: Top 10 Cyclists Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top cyclists Instagram influencers in United Kingdom in 2023. Most popular hashtags: #cycling #womenscycling #mycanyon.
+  Find top cyclists Instagram influencers in United Kingdom in 2024. Most popular hashtags: #cycling #tourdefrance #lovemywilier.
 platform: Instagram
-hits: 53
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 53 Instagram influencers like this in United Kingdom for you to pitch.
+hits: 52
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 52 Instagram influencers like this in United Kingdom for you to contact.
 profiles:
+  - username: "rubywisaac"
+    fullname: >-
+      Ruby Isaac
+    bio: >-
+      Dreaming of being a professional cyclist.🚴🏻‍♀️ 15 yrs old from UK Proud @lidltrek advocate #TeamRuby Skipping on rollers 👇🏻👇🏻
+    location: "United Kingdom"
+    followers: 32847
+    engagement: 669
+    commentsToLikes: 0.018731
+    id: ck15tsccmjna10i19tilk1zu9
+    verified: false
+    hashtags: "#cx, #roadracing, #sram, #mtb"
+  - username: "ondrejcink"
+    fullname: >-
+      Ondřej Cink
+    bio: >-
+      Czech Pro MTB cyclist 🚴🏻 Rider of @pmgracingteam @mondrakerbikes U23 XCO World Champion 2012 🌈
+    location: "United Kingdom"
+    followers: 46812
+    engagement: 462
+    commentsToLikes: 0.004277
+    id: ck5bvyr71knxj0i11exrpemj6
+    verified: false
+    hashtags: "#sidishoes, #bikefluencer, #gobikwear, #sport"
+  - username: "caro_sbx"
+    fullname: >-
+      Caroline Soubayroux
+    bio: >-
+      🚴🏻‍♀️ Ultra-cyclist • Mum to be • Working full-time 🌍 Newbie cyclist in 2017 ➡️ World circumnavigation 2022 🏅Guinness world record holder 2023
+    location: "United Kingdom"
+    followers: 14936
+    engagement: 994
+    commentsToLikes: 0.037839
+    id: ckf5l8dqyooi10j23y8h6jfic
+    verified: false
+    hashtags: "#tourdefrance, #cycling, #sorrynotsorry, #lovemywilier"
+  - username: "keira_mcvitty"
+    fullname: >-
+      Keira McVitty
+    bio: >-
+      Ex-pro cyclist turned Youtuber trying to inspire you to ride bikes and have fun 🚴‍♀️ . Supported by: @smithoptics @rouvyapp
+    location: "United Kingdom"
+    followers: 50747
+    engagement: 297
+    commentsToLikes: 0.015037
+    id: ck14isocyh0080i19wemnm3kn
+    verified: false
+    hashtags: "#tdf2021, #cyclinglife, #cycling, #sponsoryourself"
+  - username: "whatkathydidnext"
+    fullname: >-
+      KATHY FRANKLAND
+    bio: >-
+      •Daily inspiration•considered style •cyclist🚴‍♀️•lifestyle• skincare• food• adventures•teacher• Email to collab 📨kathfrankland@hotmail.com MV 20% off
+    location: "United Kingdom"
+    followers: 53487
+    engagement: 43
+    commentsToLikes: 0.042487
+    id: ck0vzqj35aers0i19ony6i0o2
+    verified: false
+    hashtags: "#mondaystyletribe, #widelegjeans, #thursdaystylemyway, #minimalstyling"
   - username: "jasperphilipsen"
     fullname: >-
       Jasper Philipsen
@@ -19,30 +79,6 @@ profiles:
     id: ck5qe0jr7y5a20i11miq9mp2f
     verified: false
     hashtags: "#uaeteamemirates, #ridetogether, #cycling, #limburgforlife"
-  - username: "rubywisaac"
-    fullname: >-
-      𝓡𝓾𝓫𝔂 𝓘𝓼𝓪𝓪𝓬
-    bio: >-
-      Dreaming of being a professional cyclist.🚴🏻‍♀️ 13 yrs old from UK Proud @treksegafredo advocate Follow my journey Skipping on rollers 👇🏻👇🏻
-    location: "United Kingdom"
-    followers: 27142
-    engagement: 1380
-    commentsToLikes: 0.019272
-    id: ck15tsccmjna10i19tilk1zu9
-    verified: false
-    hashtags: "#kidsofinstagram, #trekbikes, #trick, #velo"
-  - username: "caro_sbx"
-    fullname: >-
-      Caroline Soubayroux
-    bio: >-
-      🚴🏻‍♀️ Ultra-distance cyclist #rule5 🏆 Racing bikes for @cycleteamwatto 💚 @leavalleycc @monument_hq @universal.colours @we_are_sungod @wilma.cc
-    location: "United Kingdom"
-    followers: 9249
-    engagement: 1595
-    commentsToLikes: 0.028082
-    id: ckf5l8dqyooi10j23y8h6jfic
-    verified: false
-    hashtags: "#ridewithmates, #womenscycling, #faffluencer, #gifted"
   - username: "l_deignan"
     fullname: >-
       Lizzie D
@@ -78,53 +114,17 @@ profiles:
     commentsToLikes: 0.004960
     id: ck0tvggc6b8to0i193no7k5c2
     verified: true
-    hashtags: "#lavuelta2020, #specializedares, #thewolfpack, #bmwi8roadster"
+    hashtags: "#bmwi8roadster, #specializedsl7, #thewolfpack, #specializedares"
   - username: "elinorbarker"
     fullname: >-
       Elinor Barker
     bio: >-
       🚲 Cyclist for GB and @tekkerzcc 🇬🇧 Olympic champion, 5x world champion 📩 emma@bespoke-m.com @specialized_uk and @rapha athlete
     location: "United Kingdom"
-    followers: 35211
-    engagement: 556
-    commentsToLikes: 0.009933
+    followers: 39393
+    engagement: 808
+    commentsToLikes: 0.010022
     id: ck5bv0tl2is9g0i1171z3wquj
     verified: true
-    hashtags: "#ad, #ryvitafibrefit, #30in30, #sixdayvirtual"
-  - username: "ginger_biskwit"
-    fullname: >-
-      Keira McVitty
-    bio: >-
-      Ex-pro cyclist turned Youtuber 📽 Watch my youtube channel 👇👀 Supported by: ▪️@canyon ▪️@aftershokzuk▪️@we_are_sungod ▪️@maximuscle
-    location: "United Kingdom"
-    followers: 39031
-    engagement: 486
-    commentsToLikes: 0.010446
-    id: ck14isocyh0080i19wemnm3kn
-    verified: false
-    hashtags: "#redbulltimelaps, #mycanyon, #cyclinglife, #gironacycling"
-  - username: "graceygarner"
-    fullname: >-
-      Grace Garner
-    bio: >-
-      Ex professional cyclist 🚴🏽‍♂️ Ambassador @pinarello_uk 🚴🏻‍♀️ Coach for @fasther_program 📈 Living in Yorkshire 🌿
-    location: "United Kingdom"
-    followers: 6668
-    engagement: 517
-    commentsToLikes: 0.020142
-    id: ckap6ku39ga5j0i78g14dgyrs
-    verified: false
-    hashtags: "#thinkasymmetric, #thinkassymetric, #fullgaseverywhere, #dogmaf12"
-  - username: "lamarrioafrobeast"
-    fullname: >-
-      LAMARR GOLDING
-    bio: >-
-      LDN | Photographer | Explorer @thenorthfaceuk Explorer Team @cyclist_91 👑 📧 Email: Lamarr.golding2@gmail.com
-    location: "United Kingdom"
-    followers: 26186
-    engagement: 284
-    commentsToLikes: 0.019200
-    id: ck0vxkz3kzeu00i19oa8wvgeu
-    verified: false
-    hashtags: "#photography, #freerunning, #ad, #tb"
+    hashtags: "#kleanathleteuk, #tokyo2020ne, #ad, #tokyo2020"
 ---

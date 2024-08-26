@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Austin In 2023
+title: Top 10 Architecture Instagram Influencers In Austin In 2024
 description: >-
-  Find top architecture Instagram influencers in Austin in 2023. Most popular hashtags: #architecture #design #photography #interiordesign.
+  Find top architecture Instagram influencers in Austin in 2024. Most popular hashtags: #architecture #photography #travel #interiordesign.
 platform: Instagram
-hits: 47
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 47 Instagram influencers like this in Austin, United States for you to pitch.
+hits: 52
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 52 Instagram influencers like this in Austin, United States for you to connect with.
 profiles:
   - username: "hsuoffice"
     fullname: >-
@@ -30,7 +30,19 @@ profiles:
     commentsToLikes: 0.008928
     id: ck0uctqefhllh0i19qqvrj6uo
     verified: false
-    hashtags: "#woodworking, #ad, #design, #keepcraftalive"
+    hashtags: "#carpentry, #cincinnati, #wood, #milwaukee"
+  - username: "kimmconn"
+    fullname: >-
+      Kimmie Conner: Travel + Festival Blogger🧜🏼‍♀️
+    bio: >-
+      🦋Unique Places | Adventure Travel ✈️Inspiring You to Take that Dream Trip 📍8 Years on the Road ⛵️ @fjakasail 🗺Photographer💻Nomad🏔Blog+More👇🏽
+    location: "United States"
+    followers: 58688
+    engagement: 36
+    commentsToLikes: 0.030954
+    id: ck0w0eudvdu6h0i19nxm0a7r9
+    verified: false
+    hashtags: "#santafenewmexico, #travelguide, #travellife, #newmexicotrue"
   - username: "zunyan.yang"
     fullname: >-
       Zunyan Yang
@@ -55,18 +67,6 @@ profiles:
     id: ck5zvnkh34kna0i14d7njvut6
     verified: false
     hashtags: "#realtors, #realtor, #house, #homesforsale"
-  - username: "ryanstreetarchitects"
-    fullname: >-
-      Ryan Street Architects
-    bio: >-
-      Architecture that does not occupy a place, but emerges from it // Austin, TX
-    location: "United States"
-    followers: 19297
-    engagement: 395
-    commentsToLikes: 0.016066
-    id: ck5c1ddpyuy7u0i11aip94k4d
-    verified: false
-    hashtags: "#ryanstreetarchitects, #austinarchitecture, #design, #home"
   - username: "tinydreamhouses"
     fullname: >-
       
@@ -79,6 +79,18 @@ profiles:
     id: ckf5ly0x1rhda0j23uiqe741v
     verified: false
     hashtags: "#hgtv, #tinyhousenation, #tinyhouseaustintexas, #villagefarmatx"
+  - username: "tracytutor"
+    fullname: >-
+      Tracy Tutor
+    bio: >-
+      WSJ Best Selling Author: Fear is Just a Four-Letter Word Bravo's Million Dollar Listing LA Luxury Real Estate Agent | Mama Co-Founder of @unsweetwine
+    location: "United States"
+    followers: 359003
+    engagement: 212
+    commentsToLikes: 0.031961
+    id: ck5qb30s6jkb00i119llxdk78
+    verified: true
+    hashtags: "#tracytutor, #beverlyhills, #luxuryrealestate, #losangeles"
   - username: "jennamasar"
     fullname: >-
       j e n n a m a s a r
@@ -91,6 +103,18 @@ profiles:
     id: ckaozs50jn5xc0i7844bpf7zw
     verified: false
     hashtags: "#arizona, #phoenix, #scottsdale, #travel"
+  - username: "clayimports"
+    fullname: >-
+      Clay Imports
+    bio: >-
+      HQ Austin, TX | Hecho en México | STUDIO San Miguel de Allende Bold tile + architectural products to inspire sustainable design #clayimports #claysma
+    location: "United States"
+    followers: 64538
+    engagement: 61
+    commentsToLikes: 0.075171
+    id: ckp6ao3o1y1be0j23pad9xac2
+    verified: false
+    hashtags: "#bathroomdesign, #ci, #tile, #homedecor"
   - username: "jothompsongarden"
     fullname: >-
       Jo Thompson | Landscape Design
@@ -103,28 +127,4 @@ profiles:
     id: ck14jtif4m3u20i19v4zduhs7
     verified: false
     hashtags: "#blooms, #simpleandstill, #countryhouse, #myeverydaymagic"
-  - username: "garymatthewsjr24"
-    fullname: >-
-      Gary Matthews Jr
-    bio: >-
-      Retired 2nd generation MLB Outfielder*Real Estate Investor*Art*Air cooled Porsches*Architecture*'06 All-Star*3xAL West Champ
-    location: "United States"
-    followers: 4567
-    engagement: 690
-    commentsToLikes: 0.078472
-    id: ck138clc1fkx10i191x6zrbp0
-    verified: true
-    hashtags: "#golfstagram, #golf, #happybirthday, #golflife"
-  - username: "lakeflato"
-    fullname: >-
-      Lake|Flato Architects
-    bio: >-
-      San Antonio | Austin www.lakeflato.com Residential: @lakeflatohouses
-    location: "United States"
-    followers: 48942
-    engagement: 289
-    commentsToLikes: 0.009112
-    id: ck5c4c3i811gb0i114wzihprk
-    verified: false
-    hashtags: "#design, #lakeflato, #holdsworthcenter, #architecture"
 ---

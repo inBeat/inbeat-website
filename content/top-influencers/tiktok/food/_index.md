@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In 2023
+title: Top 10 Food TikTok Influencers In 2024
 description: >-
-  Find top food TikTok influencers in 2023. Most popular hashtags: #stitch #duet #fyp.
+  Find top food TikTok influencers in 2024. Most popular hashtags: #stitch #duet #fyp.
 platform: TikTok
-hits: 13572
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine has 13572 TikTok influencers like this for you to contact.
+hits: 13631
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 13631 TikTok influencers like this for you to work with.
 profiles:
   - username: "foodysporn"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.121093
     id: ckb9r85kann5c0j23pz70kce1
     verified: false
-    hashtags: "#thankyoulord, #wcc, #salad, #dinner"
+    hashtags: "#foryoupage, #godisgood, #salad, #wcc"
   - username: "cupcakesandbarbells"
     fullname: >-
       cupcakesandbarbells
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.068913
     id: ckcdysmz1gux80j23xk4mflco
     verified: false
-    hashtags: "#fitness, #gym, #pistolsquats, #workout"
+    hashtags: "#fit, #bodypositivity, #fitness, #pistolsquats"
   - username: "biteswithbuddy"
     fullname: >-
       Buddy
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.135674
     id: ckbbshikxfztb0j2341iv0xv6
     verified: false
-    hashtags: "#duet, #adulting, #stitch, #fyp"
+    hashtags: "#dating, #adulting, #stitch, #fyp"
   - username: "ro.pxx"
     fullname: >-
       ✨magic✨

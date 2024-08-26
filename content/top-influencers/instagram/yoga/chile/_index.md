@@ -1,36 +1,48 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Chile In 2023
+title: Top 10 Yoga Instagram Influencers In Chile In 2024
 description: >-
-  Find top yoga Instagram influencers in Chile in 2023. Most popular hashtags: #yoga #instachile #chile #love.
+  Find top yoga Instagram influencers in Chile in 2024. Most popular hashtags: #yoga #instachile #chile #fitnessgirl.
 platform: Instagram
-hits: 22
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 22 Instagram influencers like this in Chile for you to contact.
+hits: 26
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform has 26 Instagram influencers like this in Chile for you to pitch.
 profiles:
   - username: "yoga_nicoletta"
     fullname: >-
       
     bio: >-
-      Bailarina de esta tierra comparto mi práctica de Yoga y espero que te inspire a comenzar la tuya Recetas base a plantas cosmética natural y un deli❤️
+      Bailarina de esta tierra ❤️‍🔥 comparto mi práctica de Yoga y espero que te inspire para comenzar la tuya🧘🏻 Ven-seremos ⛰
     location: "Chile"
-    followers: 62209
-    engagement: 506
-    commentsToLikes: 0.026909
+    followers: 94386
+    engagement: 202
+    commentsToLikes: 0.026653
     id: ck137r3ldcyks0i19dq7ufwtt
     verified: false
-    hashtags: "#abundance, #life, #love, #ibelieveinthegoodthingscoming"
+    hashtags: "#abundancia, #confianza, #lunallena, #divinofemenino"
+  - username: "beautylove.faceyoga"
+    fullname: >-
+      Laura Botero
+    bio: >-
+      🪬@lauraboterob Certifícate en mi Método: FACE BALANCE✨Cursos✨+de 3500 alumnas✨CLASES EN VIVO DE YOGA FACIAL TODOS LOS LUNES 👇🏻 en “Suscripción”
+    location: "Chile"
+    followers: 164962
+    engagement: 26
+    commentsToLikes: 0.262936
+    id: clpfe0dxxj27j0k08rltswl7z
+    verified: false
+    hashtags: "#yogafacial, #aurawellness, #yogafacialper, #bruxismodental"
   - username: "carolazow"
     fullname: >-
       Caro Lazo
     bio: >-
-      CLASES DE YOGA ON LINE ✨ • Vinyasa and Anusara Elements Yoga Teacher and Student 🙏💜 •Sharing magic moments ✨
+      ★ CLASES DE YOGA ON LINE Y PRESENCIAL ♥ Vinyasa | Anusara RYT ➳ Meditación-Conexión-Movimiento
     location: "Chile"
-    followers: 3543
-    engagement: 623
-    commentsToLikes: 0.105108
+    followers: 3784
+    engagement: 519
+    commentsToLikes: 0.072777
     id: ck133yqseuefm0i1981u3k4z9
     verified: false
-    hashtags: "#love, #meditacion, #yoga, #friends"
+    hashtags: "#holidays, #yogaonline, #yogachile, #photography"
   - username: "dama_riiss"
     fullname: >-
       Damaris Noemi
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.095062
     id: ck15p9mjkws560i19jryx2rrk
     verified: false
-    hashtags: "#fitbit, #fitbitversa2, #emiliesnack, #barritasemilie"
+    hashtags: "#yoentrenoencasa, #yoga, #fitbit, #concurso"
   - username: "lou_cooper_yoga"
     fullname: >-
       ᴸᴼᵁ ᶜᴼᴼᴾᴱᴿॐसर्व मन्गलम्✽
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.087750
     id: ck5qdgtyfvihd0i11uayarwgu
     verified: false
-    hashtags: "#trekking, #hikegirl, #trekkinglovers, #travelphotography"
+    hashtags: "#cityphotography, #hiker, #hikegirl, #girlpower"
   - username: "alef.cero"
     fullname: >-
       José Martínez
@@ -103,28 +115,16 @@ profiles:
     id: ck6u6hpujfnlo0j71jpmnyxl0
     verified: false
     hashtags: "#shoesaddict, #portraitpage, #valencia, #gorgeous"
-  - username: "bboyears"
+  - username: "nicolasamarophoto"
     fullname: >-
-      EARS👂
+      Nicolas Amaro
     bio: >-
-      🚨CLASES PERSONALIZADAS ONLINE🚨 Dancer/Acrobat/Hand Balancer 📍🇨🇱 Speedy Angels Uni CREW🇻🇪 🙌🏻@Spdangelsuni 🏹@Aborigenesvzla 🏆@GodLevelStore ↘️VIDEO↙️
+      Transformando momentos desde la creación visual Arte visual: @nicolas.amaro Colectivo: @indra.collective Nuevo proyecto colectivo: @wedding.hunters
     location: "Chile"
-    followers: 8807
-    engagement: 970
-    commentsToLikes: 0.061185
-    id: ck55kfj5tz6u80i11km7r03i2
+    followers: 7362
+    engagement: 160
+    commentsToLikes: 0.033085
+    id: ck0w76k0qc0dr0i19b4210oxv
     verified: false
-    hashtags: "#training, #handstand, #tricking, #breakdance"
-  - username: "elevaelki"
-    fullname: >-
-      Makarena Cabello Contreras
-    bio: >-
-      Antofagasta, Chile STREET WORKOUT 20 años <<El camino del guerrero.
-    location: "Chile"
-    followers: 61037
-    engagement: 246
-    commentsToLikes: 0.020509
-    id: ckap2ix3jz11m0i78jahjgbat
-    verified: false
-    hashtags: "#calisthenicsgirls, #streetworkoutgirl, #progressnotperfection, #streetworkoutgirls"
+    hashtags: "#weddingplanning, #noiva, #engaged, #weddingphotography"
 ---

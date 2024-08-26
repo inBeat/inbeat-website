@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In India In 2023
+title: Top 10 Dancers TikTok Influencers In India In 2024
 description: >-
-  Find top dancers TikTok influencers in India in 2023. Most popular hashtags: #tiktok #tiktokindia #foryou #duet.
+  Find top dancers TikTok influencers in India in 2024. Most popular hashtags: #tiktok #tiktokindia #foryou #duet.
 platform: TikTok
 hits: 667
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 667 TikTok influencers like this in India for you to collaborate.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 667 TikTok influencers like this in India for you to work with.
 profiles:
   - username: "parthi_baby00"
     fullname: >-

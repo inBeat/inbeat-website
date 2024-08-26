@@ -1,24 +1,12 @@
 ---
-title: Top 10 Christian TikTok Influencers In Los Angeles In 2023
+title: Top 10 Christian TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top christian TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #losangeles #foryou #duet.
+  Find top christian TikTok influencers in Los Angeles in 2024. Most popular hashtags: #fyp #duet #losangeles #foryoupage.
 platform: TikTok
 hits: 14
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 14 TikTok influencers like this in Los Angeles, United States for you to contact.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database aggregates 14 TikTok influencers like this in Los Angeles, United States for you to connect with.
 profiles:
-  - username: "therealrasberry"
-    fullname: >-
-      Jonmarc Rasberry
-    bio: >-
-      Artist, Teacher, Christian Welcome, love you all 3000 ❤️ ⬇️My other socials⬇️
-    location: "United States"
-    followers: 25400
-    engagement: 915
-    commentsToLikes: 0.114078
-    id: ckcur2kwvji9f0j236hr9i4qo
-    verified: false
-    hashtags: "#marvel, #nfl, #fyp, #geicolipsync"
   - username: "manny.oakley"
     fullname: >-
       Manny Oakley
@@ -30,7 +18,19 @@ profiles:
     commentsToLikes: 0.040575
     id: ckd0hydeaeq7l0j23bvjlqrt7
     verified: false
-    hashtags: "#fyp, #chef, #anthonybourdain, #destinationdepop"
+    hashtags: "#chef, #anthonybourdain, #cottagecore, #travel"
+  - username: "chrisjb_"
+    fullname: >-
+      christian
+    bio: >-
+      🇵🇭 17 b a y a r e a , ca guitar/vocals
+    location: "United States"
+    followers: 6082
+    engagement: 1501
+    commentsToLikes: 0.036952
+    id: ckcv952tbqpav0j239u61kn43
+    verified: false
+    hashtags: "#trend, #singing, #guitar, #foryoupage"
   - username: "jaevdevelopment"
     fullname: >-
       jaevdevelopment
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.007882
     id: ckcughpc9f66i0j23u63uo57u
     verified: false
-    hashtags: "#dancer, #bungee, #foryou, #aerialhammock"
+    hashtags: "#trapeze, #aerialsilks, #aerialhoop, #acrobatics"
   - username: "anirudhmvsk"
     fullname: >-
       Anirudh Mvsk
@@ -123,8 +123,8 @@ profiles:
     location: "United States"
     followers: 6002
     engagement: 262
-    commentsToLikes: 0.038475
+    commentsToLikes: 0.038479
     id: ckbamvsmedu3q0j23hajd09h4
     verified: false
-    hashtags: "#viral, #haha, #trend, #hilarious"
+    hashtags: "#fyp, #foryourpage, #haha, #trend"
 ---

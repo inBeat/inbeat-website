@@ -1,11 +1,11 @@
 ---
-title: Top 10 Zen Meditation TikTok Influencers In 2023
+title: Top 10 Zen Meditation TikTok Influencers In 2024
 description: >-
-  Find top zen meditation TikTok influencers in 2023. Most popular hashtags: #fyp #meditation #crystals #yoga.
+  Find top zen meditation TikTok influencers in 2024. Most popular hashtags: #fyp #meditation #crystals #witchtok.
 platform: TikTok
-hits: 726
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 726 TikTok influencers like this for you to pitch.
+hits: 727
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 727 TikTok influencers like this for you to work with.
 profiles:
   - username: "hanholla"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.073127
     id: cka9m5z4d41zu0i78197fw51f
     verified: false
-    hashtags: "#noesmipedo, #peace, #consciousness, #crystals"
+    hashtags: "#shopsmall, #consciousness, #peace, #lunaase"
   - username: "mari_doll24"
     fullname: >-
       A
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.052850
     id: cka0zzn44hon50i7827tgar4a
     verified: false
-    hashtags: "#meditation, #affirmations2021, #ifeelweightless, #yogaflow"
+    hashtags: "#ifeelweightless, #springvibes, #mentalhealthawarness, #yoga"
   - username: "shakti_sita_"
     fullname: >-
       SHAKTI SITA
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.033444
     id: ck8to6wb0lizs0j78fg5ze89e
     verified: false
-    hashtags: "#gentilezza, #saggezza, #crescitapersonale, #crescitaspirituale"
+    hashtags: "#crescitapersonale, #spiritualit, #gentilezza, #pensieropositivo"
   - username: "alomoves"
     fullname: >-
       Alo Moves
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.032251
     id: cka0rffphgrd40i78knq25biq
     verified: false
-    hashtags: "#foryoupage, #intuition, #metaphysical, #selenite"
+    hashtags: "#selenite, #haul, #crystalcollection, #intuition"
   - username: "wesleywebbers"
     fullname: >-
       Wesdo Satori Dojo 

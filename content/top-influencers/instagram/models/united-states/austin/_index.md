@@ -1,60 +1,96 @@
 ---
-title: Top 10 Models Instagram Influencers In Austin In 2023
+title: Top 10 Models Instagram Influencers In Austin In 2024
 description: >-
-  Find top models Instagram influencers in Austin in 2023. Most popular hashtags: #model #austintexas #texas #austintx.
+  Find top models Instagram influencers in Austin in 2024. Most popular hashtags: #atx #texas #austin #model.
 platform: Instagram
-hits: 167
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 167 Instagram influencers like this in Austin, United States for you to connect with.
+hits: 308
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 308 Instagram influencers like this in Austin, United States for you to connect with.
 profiles:
-  - username: "tailorfade"
+  - username: "subie.tay"
     fullname: >-
-      Trevor Moots ✪
+      Tay
     bio: >-
-      Orlando | FL 🌴 ◽️ WAHL Creative Team ✈️ Travels ◽️ Haircuts 📷 Photographies ◽️ Traditions Barbershop 📲 Contact For Education
+      Not fast, just furious. Twitch.tv/Subietay
     location: "United States"
-    followers: 49775
-    engagement: 265
-    commentsToLikes: 0.091129
-    id: ck5q1yu0cdg400i11wej4vfov
+    followers: 6056
+    engagement: 492
+    commentsToLikes: 0.054598
+    id: ckap4fmgx75z50i78o4zoka1s
     verified: false
-    hashtags: "#iheartpm, #paulmitchellus, #barbergang, #barberinspirations"
-  - username: "treysphotostudio"
+    hashtags: "#snapchat, #onlyfangirl, #gamergirl, #blackops"
+  - username: "taylorsometimes"
     fullname: >-
-      Carlos Trey Salazar
+      Taylor
     bio: >-
-      DM for info, rates & bookings or request prints of any photos. Prints and 🔞 Content.
+      just trying to survive on queso and margs. based in Austin. not a cool girl. (also help me distract myself into infinity by joining my cult)
     location: "United States"
-    followers: 49352
-    engagement: 245
-    commentsToLikes: 0.008837
-    id: ck0u7dmlb4j800i19smx609sw
+    followers: 14843
+    engagement: 78
+    commentsToLikes: 0.042793
+    id: cknhj9zkxt91z0j23hxs3u01m
     verified: false
-    hashtags: "#studiophotography, #austintx, #austintxphotographer, #malefashion"
-  - username: "keith_laue"
+    hashtags: "#atxlife, #selflove, #atx, #fashioninfluencers"
+  - username: "novaruu"
     fullname: >-
-      Keith Laue
+      ✨ Novaruu ✨( Sarina Desiree )
     bio: >-
-      Austin Model 📸 Videographer  Vegan 🥝 Papa 👨🏽 Eco-Friendly 🌏 Email for inquiries ✉️
+      cat mom | streamer & model | 25 | austin tx | vegan🌱 backup account: @novaxruu Personal: @sarinaruu
     location: "United States"
-    followers: 131583
-    engagement: 746
-    commentsToLikes: 0.014480
-    id: ckaozkm3pmag70i78acp1swsp
+    followers: 152390
+    engagement: 319
+    commentsToLikes: 0.019079
+    id: ck5cabm73d3w40i11gaecjbym
     verified: false
-    hashtags: "#modellingshoot, #modelscout, #modelos, #modello"
-  - username: "glitterandlazers"
+    hashtags: "#explore, #blonde, #twitch, #blondehair"
+  - username: "theresasweetpeach"
     fullname: >-
-      Anna OBrien, confidence queen
+      Theresa
     bio: >-
-      Sassy storyteller, world traveler, colorful fashionista, home decor dabbler and one crafty lady. Tiktok: @glitterandlazers (8 MM)
+      💜 Inspiring Others ~All bodies are beautiful 🍑 Body Positivity Goddess 🦵 Lipedema Warrior 📸 Plus Size Model 🏠 Austin, TX 💌 TheresaSweetPeach@gmail.com
     location: "United States"
-    followers: 698752
-    engagement: 313
-    commentsToLikes: 0.019961
-    id: ck0vvzhg8rg920i1965f1zdgq
-    verified: true
-    hashtags: "#plussizefashion, #plussizemodel, #plussize, #model"
+    followers: 107159
+    engagement: 278
+    commentsToLikes: 0.052913
+    id: ckrok9a51hbrr0j23e7pj4s0b
+    verified: false
+    hashtags: "#thickthighssavelives, #curvesarebeautiful, #pearshaped, #lipedemaawareness"
+  - username: "thefatposipunk"
+    fullname: >-
+      Lilly Rose
+    bio: >-
+      Queer Fat Punk Jew | Plus Model | Musician Austin, TX | She/They Email: Lillyrosemodeling@gmail.com
+    location: "United States"
+    followers: 25967
+    engagement: 267
+    commentsToLikes: 0.029889
+    id: ckstzxvg602hh0j23cqop0kjr
+    verified: false
+    hashtags: "#sponsored"
+  - username: "klgregg03"
+    fullname: >-
+      Kati Lynn
+    bio: >-
+      18 || Tx || Christian || Weeb ||
+    location: "United States"
+    followers: 5171
+    engagement: 900
+    commentsToLikes: 0.039732
+    id: ck8wd0j1zd8wf0j78xf4an59f
+    verified: false
+    hashtags: "#notreally, #fall, #texas, #proudchristian"
+  - username: "teejayhughes"
+    fullname: >-
+      𝙏𝙚𝙚𝙟𝙖𝙮 𝙃𝙪𝙜𝙝𝙚𝙨 | Photographer
+    bio: >-
+      📸 Photographer Big Brother on TikTok 🤪 Positivity ✈️ Travel 🧥 Fashion 📍 ATX | 35 Countries 🌍 💻 Blog: @wetraveltoomuch ⠀ 📧 Contact@creatormedialab.com
+    location: "United States"
+    followers: 160341
+    engagement: 180
+    commentsToLikes: 0.016974
+    id: ck5q90ttm8uk30i114b9fqwdi
+    verified: false
+    hashtags: "#blackrockcity, #photography, #menstyle, #filipino"
   - username: "sebby_raw"
     fullname: >-
       Sebastian
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.004500
     id: ck6u66rgoduia0j71l3vezz2w
     verified: false
-    hashtags: "#euphoriamakeup, #suvabeauty, #revlon, #aestheticmakeup"
-  - username: "laurahabit"
-    fullname: >-
-      Laura | ladyhabit
-    bio: >-
-      ✰ @ladyhabit deactivated at 15k ✰ Austin based model + photographer Check this out ⤵
-    location: "United States"
-    followers: 2253
-    engagement: 3128
-    commentsToLikes: 0.023535
-    id: ck5hnnrumo36k0i11yvv1nh1k
-    verified: false
-    hashtags: ""
-  - username: "klgregg03"
-    fullname: >-
-      Kati Lynn
-    bio: >-
-      18 || Tx || Christian || Weeb ||
-    location: "United States"
-    followers: 5171
-    engagement: 900
-    commentsToLikes: 0.039732
-    id: ck8wd0j1zd8wf0j78xf4an59f
-    verified: false
-    hashtags: "#tiktok, #austin, #summer, #model"
-  - username: "vanneochoa"
-    fullname: >-
-      Vanne Ochoa | Blogger Mexicana
-    bio: >-
-      More than just a fashion blog 👩🏻‍💻✨ lifestyle • mental health • food • makeup • & more CA | TX ☯️♈️
-    location: "United States"
-    followers: 20812
-    engagement: 139
-    commentsToLikes: 0.079296
-    id: ck134b53dvkvx0i19mz5un7ho
-    verified: false
-    hashtags: "#austinblogger, #outfitideas, #model, #nycblogger"
+    hashtags: "#elfcosmetics, #aestheticmakeup, #glossylips, #euphoriamakeup"
 ---

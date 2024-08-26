@@ -1,12 +1,24 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Osaka In 2023
+title: Top 10 Fitness Instagram Influencers In Osaka In 2024
 description: >-
-  Find top fitness Instagram influencers in Osaka in 2023. Most popular hashtags: #fitness #workout #training #osaka.
+  Find top fitness Instagram influencers in Osaka in 2024. Most popular hashtags: #fitness #japan #osaka #kyoto.
 platform: Instagram
-hits: 6
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 6 Instagram influencers like this in Osaka, Japan for you to pitch.
+hits: 8
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 8 Instagram influencers like this in Osaka, Japan for you to work with.
 profiles:
+  - username: "laurenpon"
+    fullname: >-
+      LAUREN
+    bio: >-
+      (˶ᵔ ᵕ ᵔ˶) ✧˖° @bobateaprotein (LAUREN) @notorious_lift
+    location: "Japan"
+    followers: 91758
+    engagement: 1300
+    commentsToLikes: 0.013646
+    id: ckrmy3ugegk2k0j23mozujqgj
+    verified: false
+    hashtags: "#tokyo, #solotravel, #japan, #anime"
   - username: "aiii528"
     fullname: >-
       AI / bodymake
@@ -19,6 +31,18 @@ profiles:
     id: ckap5uyysda3a0i78b7h5vsom
     verified: false
     hashtags: "#friends, #cookingram, #abs, #bodymake"
+  - username: "bboy_reo19"
+    fullname: >-
+      REO KATO
+    bio: >-
+      bboy REO/95s/🇯🇵 お仕事のご依頼はDMでお願いします。 accessory director→ @je.suis.official LINK↓
+    location: "Japan"
+    followers: 292505
+    engagement: 398
+    commentsToLikes: 0.012675
+    id: ck14j37aviefp0i19ra9rehy1
+    verified: false
+    hashtags: "#bboy, #breakdance, #powermoves, #policejewelry"
   - username: "mina_shirakawa"
     fullname: >-
       白川未奈 Mina Shirakawa
@@ -42,7 +66,7 @@ profiles:
     commentsToLikes: 0.025538
     id: ck0tskwuj07nu0i19gko2uqyn
     verified: false
-    hashtags: "#cosplayphotography, #dccomics, #anime, #cosplayersofinstagram"
+    hashtags: "#cosplay, #cosplayphotography, #menofcosplay, #cosplayersofinstagram"
   - username: "karenokajima0318"
     fullname: >-
       karen
@@ -79,52 +103,28 @@ profiles:
     id: ck6tzekzf98r10j713bxzq7zd
     verified: false
     hashtags: "#dw, #fashionstyle, #yukostyle, #foodstagram"
-  - username: "lara_vns"
+  - username: "tsukiyoga"
     fullname: >-
-      𝐖𝐨𝐦𝐚𝐧𝐟𝐚𝐬𝐡𝐢𝐨𝐧 | 𝐌𝐨𝐝𝐞𝐥 | 𝐁𝐥𝐨𝐠𝐠𝐞𝐫
+      tsuki ☾ yoga lifestylist
     bio: >-
-      ———————————————— » Fashion » Fitness » Lifestyle ———————————————— 21 y/o | German | P🌹
+      yoga(RYT500)| fitness | self-care video creator・fit model 🧘‍♂️くびれるヨガトレ 🕊あしたが変わるセルフケア @tsukiyoga TikTok 320k @tarzanweb 監修トレーナー @mandukayoga ambassador
     location: "Japan"
-    followers: 12770
-    engagement: 786
-    commentsToLikes: 0.136789
-    id: ckap8nya3p6kk0i78tp4nb40s
+    followers: 216531
+    engagement: 636
+    commentsToLikes: 0.010242
+    id: ck5ckqwbvxfhp0i11rzj6fukf
     verified: false
-    hashtags: "#saturdayoutfit, #weareallinthistogether, #versacebag, #workingonme"
-  - username: "miyako.610"
+    hashtags: "#sustainableliving, #selfmassage, #yogateacher, #healthylifestyle"
+  - username: "miharu_kurachi"
     fullname: >-
-      都　Miyako
+      MIHARU KURACHI
     bio: >-
-      fitness YouTuber 🎥みやこずちゃんねる apparel 🐚 @coralu.official supplement @haleo_official ⬇️ダイエットの食事やトレーニングの投稿
+      Fitness | Travel | Nature First IFBB Bikini PRO in Japan🇯🇵 🐶🐾 @kushu_peki パーソナルレッスン・ビキニクラスのお問い合わせはリンクからお願いします✉️
     location: "Japan"
-    followers: 36569
-    engagement: 1025
-    commentsToLikes: 0.014134
-    id: ck8tc215gy01u0j78fh6krpoo
+    followers: 81489
+    engagement: 276
+    commentsToLikes: 0.009066
+    id: ckaov7fj83ds70i789q8tz915
     verified: false
-    hashtags: "#workout, #life, #coralu, #fitnessgirl"
-  - username: "sapirfi"
-    fullname: >-
-      ספיר פישלזון-מאיר
-    bio: >-
-      נינג'ה ישראל Baby Power Mom Fitness 🤘 Hands stands Gymnastics | Acrobatics | Parkour | Ninja🤸‍♀️ Harder| Better | Faster | STRONGER #אמאנינגה 👩
-    location: "Japan"
-    followers: 14244
-    engagement: 779
-    commentsToLikes: 0.031599
-    id: ck13cvsmv2ery0i19obywhslt
-    verified: false
-    hashtags: "#fitnesslife, #handstand, #momlove, #babyworkout"
-  - username: "wikd_fury"
-    fullname: >-
-      Ash 👋☺
-    bio: >-
-      Gamer since '91 Cosplayer 🙆‍♀️ Nursing Major 🩺 Lost but not Alone: #wikdwarriors @wikd_fitness 💪 Follow my Twitch & Patreon! ⤵
-    location: "Japan"
-    followers: 21296
-    engagement: 430
-    commentsToLikes: 0.041081
-    id: ck0w4lzpvz8o20i19lg1qv85i
-    verified: false
-    hashtags: "#cosplayersofinstagram, #dccomics, #cosplayphotography, #catwoman"
+    hashtags: "#hotel, #ifbb, #bikini, #workout"
 ---

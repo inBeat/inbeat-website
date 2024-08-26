@@ -1,24 +1,96 @@
 ---
-title: Top 10 Painters Instagram Influencers In Italy In 2023
+title: Top 10 Painters Instagram Influencers In Italy In 2024
 description: >-
-  Find top painters Instagram influencers in Italy in 2023. Most popular hashtags: #painting #oilpainting #contemporaryart #artist.
+  Find top painters Instagram influencers in Italy in 2024. Most popular hashtags: #painting #art #artoftheday #oilpainting.
 platform: Instagram
-hits: 193
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our database holds 193 Instagram influencers like this in Italy for you to pitch.
+hits: 249
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 249 Instagram influencers like this in Italy for you to collaborate.
 profiles:
+  - username: "bahman.mohassess"
+    fullname: >-
+      Bahman Mohassess   بهمن محصص
+    bio: >-
+      RELIABLE BAHMAN MOHASSESS(1931.2010 Italy) Persian Picasso was an Iranian painter,
+    location: "Italy"
+    followers: 36459
+    engagement: 474
+    commentsToLikes: 0.003194
+    id: ck9wgm32ftyag0j7805a1fo80
+    verified: false
+    hashtags: "#bahmanmohassess, #bahmanmohasses, #bahman, #artoftheday"
   - username: "silvioporzionato"
     fullname: >-
       Silvio Porzionato
     bio: >-
-      Painter
+      Painter “the book” out now! ⬇️
     location: "Italy"
-    followers: 31642
-    engagement: 374
-    commentsToLikes: 0.026373
+    followers: 55126
+    engagement: 244
+    commentsToLikes: 0.023820
     id: ck14j1tuli7g80i19rkiojxdj
     verified: false
-    hashtags: "#oiloncanvaspainting, #blackandwhite, #oliosutela, #repost"
+    hashtags: "#oliosutela, #studio, #oiloncanvas, #paintings"
+  - username: "emastokholma"
+    fullname: >-
+      Ema Stokholma
+    bio: >-
+      @ema_stokholma_privato Half french half italian Painter writer singer tv host dj & big foot
+    location: "Italy"
+    followers: 373016
+    engagement: 193
+    commentsToLikes: 0.025026
+    id: ck6u1i1ihluox0j71oodi215v
+    verified: true
+    hashtags: "#sanremoinbellezza, #ballandoconlestelle, #raiplay, #photodump"
+  - username: "silviabrazzoli"
+    fullname: >-
+      SILVIA BRAZZOLI
+    bio: >-
+      Pro Dancer - Dance Instructor Pro Dreamer - Painter - Yoga Teacher Pizza lover based in ITA 🇮🇹 Crema Producer @silviaraqsgroup @oasidanza YouTube ⬇️
+    location: "Italy"
+    followers: 145768
+    engagement: 113
+    commentsToLikes: 0.046425
+    id: ck5c8diux994t0i11qc68y3t4
+    verified: false
+    hashtags: "#bellydancer, #baladi, #bellydancegoesswing, #professionaldreamer"
+  - username: "florjanbinaj"
+    fullname: >-
+      FLORJAN
+    bio: >-
+      Author/Actor/Presenter/ScreenWriter/Painter
+    location: "Italy"
+    followers: 441872
+    engagement: 82
+    commentsToLikes: 0.008672
+    id: ck0tudykg6s3v0i192qv16hml
+    verified: true
+    hashtags: "#florjanbinaj, #kabaret, #trehajdute, #portokalli"
+  - username: "diego_bormida"
+    fullname: >-
+      Diego Bormida Artist - Show & Events
+    bio: >-
+      Artist life Painter, Sculptor & Bodypainter Murals & Airbrush Artworks Cruise Ships & Villas Designer for: @958santerowines @princesscruises
+    location: "Italy"
+    followers: 35752
+    engagement: 54
+    commentsToLikes: 0.069232
+    id: ck5q1zpq4dk3y0i112p4biave
+    verified: false
+    hashtags: "#painting, #handpainted, #makeup, #puppy"
+  - username: "ninarapicavoli"
+    fullname: >-
+      N I N A   R A P I C A V O L I
+    bio: >-
+      #Artist #painter #Italy 🇮🇹 Original #artworks and #paintings
+    location: "Italy"
+    followers: 63554
+    engagement: 127
+    commentsToLikes: 0.090097
+    id: ck9weccjtjnxb0j78ev3fimqx
+    verified: false
+    hashtags: "#love, #artoftheday, #artistsoninstagram, #italianartist"
   - username: "gloriabiagetti"
     fullname: >-
       𝑮𝒍𝒐𝒓𝒊𝒂🌙 ᴀʀᴛ & ᴍᴀᴋᴇᴜᴘ
@@ -43,88 +115,16 @@ profiles:
     id: ck5hrtfkzvgc10i11obqsc9g4
     verified: false
     hashtags: "#short, #paris, #streetwear, #la"
-  - username: "lucaluceartgallery_makeup"
-    fullname: >-
-      LUCA LUCE
-    bio: >-
-      🇮🇹 Make up Artist 3D #lucaluce First Hand and Head Painter 3D in the world © Collaboration: 👇 business.lucaluce@gmail.com 📱Xiaomi #mi10pro
-    location: "Italy"
-    followers: 297577
-    engagement: 230
-    commentsToLikes: 0.025766
-    id: ck0u8yhb48kqm0i1925zikfzc
-    verified: true
-    hashtags: "#makeup, #casper, #playstation5, #christmas"
   - username: "art.shima"
     fullname: >-
       ART Shima
     bio: >-
-      Anastasia Shimshilashvili Professional Painter, Drawer, ART Tutor & Writer 🎨 My ART YouTube channel- Art Shima Contact:shimma@list.ru
+      Anastasia Shimshilashvili Professional Painter, ART Tutor & Writer 🎨 My ART YouTube channel- Art Shima Contact:shimma@list.ru
     location: "Italy"
-    followers: 23329
-    engagement: 690
-    commentsToLikes: 0.024593
+    followers: 27416
+    engagement: 503
+    commentsToLikes: 0.020820
     id: ckap1680vt7zs0i788uld3k40
     verified: false
-    hashtags: "#etude, #shimasketch, #ps, #howtodraw"
-  - username: "pamela_rota"
-    fullname: >-
-      PAMELA ROTA
-    bio: >-
-      ⚜Tv presenter ♯H24 Sky 869 #Italia/Albania Apollontv #La7♯MTV Allmusic ⚜Wikipedia ⚜Travelblogger♯Painter♯Fashion consultant Daniel👶Diana😍Eva🦋
-    location: "Italy"
-    followers: 101138
-    engagement: 132
-    commentsToLikes: 0.093217
-    id: ck135k4gi1tx40i190hpmmdde
-    verified: false
-    hashtags: "#luxurylifestyle, #pretty, #dress, #iphonesia"
-  - username: "niceandthefox"
-    fullname: >-
-      Nice And The Fox
-    bio: >-
-      Italian Painter. See more about me here:
-    location: "Italy"
-    followers: 6873
-    engagement: 830
-    commentsToLikes: 0.052023
-    id: ck8tchmbczi6d0j7846a5ea5k
-    verified: false
-    hashtags: ""
-  - username: "conigliettorosa"
-    fullname: >-
-      Phuong
-    bio: >-
-      👩🏻‍🎨:@ongnphuong Pink bunny🌸 Italian painter-illustrator-model what ever w/ vietnamese origins🌸 Playmate 🐰BornToBlossomBloomToPerish 📍Vicenza
-    location: "Italy"
-    followers: 33530
-    engagement: 235
-    commentsToLikes: 0.095455
-    id: ck5cga9buofvs0i11todywxa3
-    verified: false
-    hashtags: "#modeling, #portraitphotography, #ecoline, #bnwphotography"
-  - username: "deenorubini"
-    fullname: >-
-      Berardino Rubini
-    bio: >-
-      www.berardinorubini.it Bass player and painter from Italy 🇮🇹 OnArt Gallery - Firenze 🇫🇷 Singulart Artist Portfolio here👇👇👇
-    location: "Italy"
-    followers: 12136
-    engagement: 611
-    commentsToLikes: 0.058680
-    id: ck6u7urdonrf30j71xkr6u91c
-    verified: false
-    hashtags: "#bassplayer, #artistoninstagram, #artseeking, #pittoriitaliani"
-  - username: "stefano_rookie"
-    fullname: >-
-      Stefano Casati
-    bio: >-
-      Abstract painter based in Italy @untitledbasel @screamingart_group @fumogallery @dedalogallery
-    location: "Italy"
-    followers: 19305
-    engagement: 1320
-    commentsToLikes: 0.039728
-    id: ck14j2ai4i9s30i19roiahk98
-    verified: false
-    hashtags: "#painting, #artistoninstagram, #contemporaryartist, #gallery"
+    hashtags: "#painteveryday, #artshimaschool, #howtosketch, #creativityforall"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Climbers TikTok Influencers In 2023
+title: Top 10 Climbers TikTok Influencers In 2024
 description: >-
-  Find top climbers TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #climbing #duet.
+  Find top climbers TikTok influencers in 2024. Most popular hashtags: #fyp #foryou #climbing #duet.
 platform: TikTok
 hits: 65
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 65 TikTok influencers like this for you to pitch.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 65 TikTok influencers like this for you to contact.
 profiles:
   - username: "chrishallrocks"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       Rock Climber Wisco #MKE Send City Apparel Sponsored Athlete and Co-Founder
     location: "United States"
-    followers: 13500
-    engagement: 1385
-    commentsToLikes: 0.046653
+    followers: 13400
+    engagement: 1373
+    commentsToLikes: 0.042914
     id: ck98qtaa17gk80j78xetqkc33
     verified: false
-    hashtags: "#leadclimbing, #foryou, #bouldering, #climbing"
+    hashtags: "#leadclimbing, #bouldering, #send, #foryou"
   - username: "jarvis663"
     fullname: >-
       Chance Lyle Jarvis

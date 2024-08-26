@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Brazil In 2023
+title: Top 10 Fitness TikTok Influencers In Brazil In 2024
 description: >-
-  Find top fitness TikTok influencers in Brazil in 2023. Most popular hashtags: #fitness #foryou #tiktok #foryoupage.
+  Find top fitness TikTok influencers in Brazil in 2024. Most popular hashtags: #fitness #foryou #tiktok #foryoupage.
 platform: TikTok
 hits: 196
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 196 TikTok influencers like this in Brazil for you to collaborate.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 196 TikTok influencers like this in Brazil for you to contact.
 profiles:
   - username: "livreborges"
     fullname: >-

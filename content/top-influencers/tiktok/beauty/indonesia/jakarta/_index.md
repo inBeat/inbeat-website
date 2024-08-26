@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Jakarta In 2023
+title: Top 10 Beauty TikTok Influencers In Jakarta In 2024
 description: >-
-  Find top beauty TikTok influencers in Jakarta in 2023. Most popular hashtags: #fyp #foryou #makeup #beauty.
+  Find top beauty TikTok influencers in Jakarta in 2024. Most popular hashtags: #fyp #foryou #makeup #beauty.
 platform: TikTok
 hits: 4
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our platform has 4 TikTok influencers like this in Jakarta, Indonesia for you to collaborate.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database holds 4 TikTok influencers like this in Jakarta, Indonesia for you to connect with.
 profiles:
   - username: "ruthgrch"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.159415
     id: ck8khxt17opqi0j78jxqe9m2f
     verified: false
-    hashtags: "#beauty, #lashes, #learnwithme, #hair"
+    hashtags: "#learnwithme, #hair, #skincareroutine, #lashes"
   - username: "asmeri315"
     fullname: >-
       asmeri31
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.015914
     id: ckd62pc6t1v580j233y4exrhy
     verified: false
-    hashtags: "#makeup, #foryou, #fyp, #makeuphacks"
+    hashtags: "#foryou, #makeup, #fyp, #adayinthelife"
   - username: "astariririaja"
     fullname: >-
       Astari Budi

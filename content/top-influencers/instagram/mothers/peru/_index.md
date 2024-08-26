@@ -1,36 +1,108 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Peru In 2023
+title: Top 10 Mothers Instagram Influencers In Peru In 2024
 description: >-
-  Find top mothers Instagram influencers in Peru in 2023. Most popular hashtags: #happy #love #peru #family.
+  Find top mothers Instagram influencers in Peru in 2024. Most popular hashtags: #verano #publicidad #summer #friends.
 platform: Instagram
 hits: 20
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 20 Instagram influencers like this in Peru for you to contact.
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 20 Instagram influencers like this in Peru for you to collaborate.
 profiles:
   - username: "pamelasilva"
     fullname: >-
       Pamela Silva
     bio: >-
-      Immigrant • Mommy to @fordliam__•Journalist / Inmigrante • Mamá • Presentadora de @primerimpacto. 🎧@motherish 🇵🇪
+      Immigrant • Mommy to @fordliam__•Journalist • Believer • Co-Anchor/ Inmigrante • Mamá • Periodista • Team @primerimpacto @motherish & @univision
     location: "Peru"
-    followers: 788038
-    engagement: 262
-    commentsToLikes: 0.019572
+    followers: 851662
+    engagement: 110
+    commentsToLikes: 0.025518
     id: ck0tupf8g84jt0i19lea5y0fe
     verified: true
-    hashtags: "#podcast, #extragrateful, #per, #wfh"
-  - username: "benelgringo"
+    hashtags: "#primerimpacto, #fordliam, #grateful, #motherhood"
+  - username: "estilozas"
     fullname: >-
-      Benjamin Lopez Ferrigno
+      Jeani Jaramillo
     bio: >-
-      📈📉📈📉📈 Bay Area📍👶🏼🇵🇪, 🧔🏻🇺🇸 Traveler 🧳 Tourist 🌎 TeamBrocoli 🥦... Business iQ: spanglishben@gmail.com Music YouTube link:
+      Moda • belleza • lifestyle Si te gusta el estilo elegante, usar tu ropa de manera creativa y verte siempre bien, seamos amigas. 📍🇵🇪
     location: "Peru"
-    followers: 293874
-    engagement: 509
-    commentsToLikes: 0.018092
-    id: ck5ck8dliwcn00i11mr0k9b0q
+    followers: 243218
+    engagement: 493
+    commentsToLikes: 0.019996
+    id: ck5q26xtgekb60i11uk8fsxmo
     verified: true
-    hashtags: "#infiel, #vaquero, #peruano, #youtube"
+    hashtags: "#personalstyle, #estilopersonal, #chanel, #style"
+  - username: "porsegundavezblog"
+    fullname: >-
+      Jenni Tisnado | Mamá bloguera
+    bio: >-
+      Mamá de 👨‍👦‍👦 lifestyle blogger 🖥️, comparto recetas 🍽️ manualidades 🖌️tips, datos y todo lo que me hace feliz. @bloggerhoodperu
+    location: "Peru"
+    followers: 59884
+    engagement: 370
+    commentsToLikes: 0.054593
+    id: ck55mhqhj3z9z0i119b309r63
+    verified: false
+    hashtags: "#porsegundavezblog, #publicidad, #elpap, #jijimito"
+  - username: "camilabenzaquen"
+    fullname: >-
+      CAMILA.BENZAQUEN
+    bio: >-
+      Psicóloga Co-fundadora @mente.bonita Ballet @balletmunicipaldelima Podcasts @gestapromo / @entre2psicologas Coach @barre_si Embajadora @mini.peru
+    location: "Peru"
+    followers: 41065
+    engagement: 289
+    commentsToLikes: 0.013688
+    id: ckap8ufx5pxs40i784uzgyglo
+    verified: false
+    hashtags: "#saludmental, #backtobasics, #afterparto, #publicidad"
+  - username: "smulanovich"
+    fullname: >-
+      Sofia Mulanovich
+    bio: >-
+      . Mamá de 👶👶🐕🐕🐕/ Punta Hermosa .🏄‍♀️3✖️surfing world champ/ Atleta olímpica , viajera 🧳 Speaker 🔈 ✉️ gferre@influencersconnect.net @casasofiamancora
+    location: "Peru"
+    followers: 168779
+    engagement: 188
+    commentsToLikes: 0.025130
+    id: ck0u0c903t9xc0i19pewqj3dx
+    verified: true
+    hashtags: "#verano, #peru, #puntahermosa, #mar"
+  - username: "brauliochappell"
+    fullname: >-
+      Braulio Chappell
+    bio: >-
+      Actor - Singer Made in Perú 🇵🇪 📍🇪🇸
+    location: "Peru"
+    followers: 24626
+    engagement: 85
+    commentsToLikes: 0.021715
+    id: ck5zrcd4dwblk0i14oto6w9tv
+    verified: false
+    hashtags: "#actor, #amigos, #summer, #goodvibes"
+  - username: "mamiscool"
+    fullname: >-
+      Kristin Morris S.
+    bio: >-
+      [Lifestyle & Mom Blogger 👩‍👧‍👦 love to travel] 🇵🇪❤️ #mamareal✌🏻💚 2 👦🏻👧🏻 💻 Blog: mamiscool.com 👜 @coolconceptpe 📩 @ntc.agency
+    location: "Peru"
+    followers: 44605
+    engagement: 74
+    commentsToLikes: 0.060706
+    id: ck6u1dpt1l4jd0j71i6fgnfd1
+    verified: false
+    hashtags: "#cooltip, #casosdelavidareal, #vidademadres, #publicidad"
+  - username: "ingriddeycaza"
+    fullname: >-
+      Ingrid De Ycaza
+    bio: >-
+      Cantante • Actriz • Locutora • Mamá PTY 🇵🇦 📍GDL 🇲🇽
+    location: "Peru"
+    followers: 867714
+    engagement: 30
+    commentsToLikes: 0.005921
+    id: ck55mgzyz3xt60i11tgnttngm
+    verified: true
+    hashtags: "#italia, #symphonyoftheseas, #idyoutfits, #idylooks"
   - username: "pieromg"
     fullname: >-
       Piero Martínez
@@ -55,76 +127,4 @@ profiles:
     id: ckap4j6057luw0i78gbbhrwu0
     verified: true
     hashtags: "#rockclimbing, #rip, #motherafrica, #ellasonrieenlas78fotos"
-  - username: "yasmin_kahatt"
-    fullname: >-
-      𝙵𝚘𝚝𝚘𝚐𝚛𝚊𝚏𝚒𝚊 𝚏𝚊𝚖𝚒𝚕𝚒𝚊𝚛 👁‍🗨
-    bio: >-
-      Documentando desde el 💛 Fotógrafa/Diseñadora Grafica Mamáxtres Organizadora del Congreso @lifecongreso
-    location: "Peru"
-    followers: 36589
-    engagement: 103
-    commentsToLikes: 0.148208
-    id: ck0vx5bj1x7pq0i19rx6a7tyy
-    verified: false
-    hashtags: "#thesincerestoryteller, #thehonestcapture, #transfer, #rose"
-  - username: "aleventuro"
-    fullname: >-
-      Alexandra Venturo
-    bio: >-
-      Mami de Aria 👼🏽💓 Pastelera y Cocinera Fundadora y Creadora de @laneverafit Healthy Lifestyle💚 ♏️ Scorpio 👁
-    location: "Peru"
-    followers: 47453
-    engagement: 290
-    commentsToLikes: 0.010655
-    id: ck6tisb7j1bsv0j718bgp7ozy
-    verified: false
-    hashtags: "#blessed, #mybaby, #beach, #babygirl"
-  - username: "soyunamadrenormal"
-    fullname: >-
-      Irene
-    bio: >-
-      Mamá de 10 más un ejército celestial👼🏻 Especialista en nada,experta en muchas cosas👌🏼 Contacto: marisa@hamelin-agency.com soyunamadrenormal@gmail.com
-    location: "Peru"
-    followers: 60442
-    engagement: 723
-    commentsToLikes: 0.032784
-    id: ck6uaob9a4p4h0j716qz55fg4
-    verified: false
-    hashtags: "#family, #instagood, #love, #babybosco"
-  - username: "elmartinrodrigo"
-    fullname: >-
-      Martincho Díaz Haro
-    bio: >-
-      🌴 De Tarapoto - Perú 🇵🇪 👨‍⚕️ Cirujano General y Laparoscópico ↪ Sígueme en: @dr.martindiaz 🧔Admin: @igerstarapoto 💙 SC 📍 Lima / Oxapampa
-    location: "Peru"
-    followers: 3082
-    engagement: 1522
-    commentsToLikes: 0.234772
-    id: ckap67vdbern20i78h0lhp3ga
-    verified: false
-    hashtags: "#mountainrange, #photography, #iloveperu, #cordilleradelosandes"
-  - username: "chollykid"
-    fullname: >-
-      José M.  Arispe
-    bio: >-
-      🏆 🥇 Tu cara me Suena 2017 Animador. Casi cantante. TV Host @jeloutvn ☕️
-    location: "Peru"
-    followers: 107208
-    engagement: 149
-    commentsToLikes: 0.052098
-    id: ck5zqyvlbvkmc0i144j3k8ebb
-    verified: false
-    hashtags: "#navidadconelcholly, #summer2021, #verano2021, #panama"
-  - username: "crissgeithner"
-    fullname: >-
-      Aura Cristina Geithner
-    bio: >-
-      ACTRIZ,MODELO,CANTANTE. #auracristinageithner #lapotradelabanda @crissgeithner👉Twitter @auracristinageithner👉Facebook LINK:
-    location: "Peru"
-    followers: 890064
-    engagement: 274
-    commentsToLikes: 0.016509
-    id: ck0uabjx7bs1c0i19j1qfk3sm
-    verified: true
-    hashtags: "#likes4follo, #instacool, #usa, #funny"
 ---

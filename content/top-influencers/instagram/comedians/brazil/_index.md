@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Brazil In 2023
+title: Top 10 Comedians Instagram Influencers In Brazil In 2024
 description: >-
-  Find top comedians Instagram influencers in Brazil in 2023. Most popular hashtags: #tbt #comedia #humor.
+  Find top comedians Instagram influencers in Brazil in 2024. Most popular hashtags: #humor #com #standup.
 platform: Instagram
-hits: 1098
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 1098 Instagram influencers like this in Brazil for you to work with.
+hits: 1168
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 1168 Instagram influencers like this in Brazil for you to collaborate.
 profiles:
   - username: "biel_boni"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck6udhgzll4vk0j71icajzlrz
     verified: false
     hashtags: ""
+  - username: "giovanafagundes"
+    fullname: >-
+      GIOVANA FAGUNDES
+    bio: >-
+      🎭 Atriz, comediante e roteirista Aqui tem comédia, relacionamento, autoconhecimento e piada com homi hétero✨ CONTRATE e INGRESSOS pro meu show aqui ⬇️
+    location: "Brazil"
+    followers: 1058095
+    engagement: 462
+    commentsToLikes: 0.031677
+    id: ck5c99s14b1tn0i11t7701xvp
+    verified: false
+    hashtags: "#soscachos, #salonline, #publi, #innercircle"
   - username: "rafaellabd"
     fullname: >-
       Rafa
     bio: >-
-      Comediante, modelo e atriz presa no corpo de uma advogada intolerante à lactose 📍 Porto Alegre - RS ✉️ rafaella.dahlem@gmail.com
+      Comediante, modelo e atriz presa no corpo de uma servidora pública intolerante à lactose 📍 Porto Alegre - RS ✉️ rafaellabdahlem@gmail.com
     location: "Brazil"
-    followers: 35408
-    engagement: 883
-    commentsToLikes: 0.026383
+    followers: 40374
+    engagement: 397
+    commentsToLikes: 0.016007
     id: ck14hp7iabfp10i19a5mvrei6
     verified: false
-    hashtags: "#oqteinspira, #meumomentoherbal, #herbalchegou, #publicidade"
-  - username: "bernardoveloso97"
+    hashtags: "#publicidade, #oqvestirnoverao22, #cirandaoqv, #maisimunidademaisdisposicao"
+  - username: "laizza"
     fullname: >-
-      Bernardo Veloso
+      Laizza
     bio: >-
-      🎤 Comediante, Radialista e o mais importante, pai da Bianca/Matheus e marido da Evelize. 📍 São Paulo @energia97fm
+      Atriz | Cantora | comediante | dubladora ✨ Já acordou? Já deu seus 3 tapinh@ na cara hoje? Assessor : 71991250677 (Alef) 🎰♥️ Entre no meu grupo 👇🏻
     location: "Brazil"
-    followers: 30904
-    engagement: 231
-    commentsToLikes: 0.080981
-    id: ck8sy3laljm960j78npmoagbw
+    followers: 1231697
+    engagement: 372
+    commentsToLikes: 0.053012
+    id: ck9whfyf4xoa50j78za7n9mo6
     verified: false
-    hashtags: "#humor, #tbt, #standupcomedy, #comedia"
-  - username: "xandadias"
+    hashtags: "#carnavaltiktok, #zonadeperigo, #vwbrasil, #publi"
+  - username: "roggeriobarros"
     fullname: >-
-      Xanda Dias
+      Roggerio Barros
     bio: >-
-      🎭 Atriz 🎤 Comediante stand-up 🚀 Produtora: @melhordiretoria . 📫 contato@xandadias.com.br
+      Comediante em tempo integral Profissional/Parcerias via direct ou pelo email roggeriobarros@gmail.com PEGADINHA ACORDA AGORA
     location: "Brazil"
-    followers: 29913
-    engagement: 219
-    commentsToLikes: 0.101169
-    id: ck6ugvjfb5f6o0j71gb73phwr
+    followers: 27425
+    engagement: 331
+    commentsToLikes: 0.056906
+    id: ck6ufyvn9zxw30j71ezownj8k
     verified: false
-    hashtags: "#gratidao, #summer, #covid, #vidamesurpreenda"
-  - username: "vidadoluiss"
+    hashtags: "#021, #com, #quintadaboavista, #pegadinha"
+  - username: "patrickmaia"
     fullname: >-
-      Luisinho 🇧🇷
+      Patrick Maia
     bio: >-
-      Comediante sem graça 🎥 Youtuber || 900K 📧 assessorialuisinho@gmail.com
+      Comediante - Empreendedor - Músico - Disposto Criador do @clubedominhoca / @bancadominhoca e baterista d’ @abandaquenuncaseviu - MEU NOVO LIVRO:
     location: "Brazil"
-    followers: 92806
-    engagement: 363
-    commentsToLikes: 0.021036
-    id: ck6u4s7p85hc60j71fx5d8qee
-    verified: false
-    hashtags: "#fyp, #confissoes, #tbt, #bbb"
-  - username: "kleberlopes_oficial"
+    followers: 264210
+    engagement: 310
+    commentsToLikes: 0.018649
+    id: ck0w4pdhuzqjo0i19aszsfcax
+    verified: true
+    hashtags: "#standupcomedy, #humor, #standup, #piadas"
+  - username: "mariarueff"
     fullname: >-
-      Kleber Lopes
+      Maria Rueff Oficial
     bio: >-
-      DRT: 22574/SP 🎯Rick Marcos "A Praça é Nossa" SBT 🎭Ator/Comediante 🎤Apresentador ⭐️Coreógrafo/Diretor Artístico ☎️Parcerias via Direct ou 11-984469130
+      Actriz/comediante
     location: "Brazil"
-    followers: 37539
-    engagement: 48
-    commentsToLikes: 0.128017
-    id: ck0w470fyx4xj0i19zjolldl7
+    followers: 122668
+    engagement: 302
+    commentsToLikes: 0.037354
+    id: ck0ubgmbkelig0i19mcrtshil
     verified: false
-    hashtags: "#turistandocomaturminha, #humorsemtamanho, #familia, #apra"
-  - username: "nathaliabaitelli"
+    hashtags: "#forcaportugal, #vitrofeuartescenicas, #caporcasa, #helicoptero"
+  - username: "nilagra"
     fullname: >-
-      Nathalia Baitelli
+      Nil Agra
     bio: >-
-      Permita-se ✨ 📍RJ|SP Atriz e Comediante 🎭 Agenciamento Artístico: fabio.rios@fabiorios.art.br
+      1° comediante do mundo a fazer vídeos interativos no youtube. CONTATO: 🏠 @baobaproducoes INGRESSOS:
     location: "Brazil"
-    followers: 54464
-    engagement: 179
-    commentsToLikes: 0.085424
-    id: ck139pdwamh3s0i192zuxvsdi
-    verified: false
-    hashtags: "#tb, #dicadanath, #publi, #protec"
-  - username: "anarrebentinha"
+    followers: 426968
+    engagement: 226
+    commentsToLikes: 0.019030
+    id: ck14kvm6irj8f0i19duihi8qb
+    verified: true
+    hashtags: "#standup, #humor, #standupcomedy, #com"
+  - username: "leodajeggareal"
     fullname: >-
-      Ana Arrebentinha
+      LEO DAJEGGA 🌞
     bio: >-
-      🎤Comediante 📺 TV / Teatro / cinema /publicidade 📲 AGENTE: miguel@brain.com.pt 📰IMPRENSA: vasco@brain.com.pt 💻DIGITAL:antonio@brain.com.pt
+      Comediante e Compositor PE Comerciais no direct 📲 … ⚽️ @apostaganha.bet Faça seu cadastro e ganha 5 reais agora!🤑
     location: "Brazil"
-    followers: 63817
-    engagement: 272
-    commentsToLikes: 0.018047
-    id: ck5hpp84brqwo0i11954v8wr7
+    followers: 523524
+    engagement: 184
+    commentsToLikes: 0.032240
+    id: ck15uzn6wp8ap0i19r41q0w67
     verified: false
-    hashtags: "#alentejo, #inspiration, #instagood, #photography"
-  - username: "ogiolisboa"
+    hashtags: "#bbb23, #publi, #tbt, #serieb"
+  - username: "maumeirelles"
     fullname: >-
-      Gio Lisboa
+      Maurício Meirelles
     bio: >-
-      FOGO NO DEDO 🔥👈🏻 | COLORADO ⚪️🔴 🎙Comediante Stand-up | #RUMOAOS100K 🚨 Ctt: @prod_giolisboa 📲 👇🏻 MEU SHOW EM CANOAS/RS 12/02
+      Eleito o comediante mais sexy do mundo. VOLTA DO WEBBULLYING - AGENDA NACIONAL 🇧🇷🎟️ 👇🏽 CLICA NO LINK 👇🏽
     location: "Brazil"
-    followers: 89167
-    engagement: 1387
-    commentsToLikes: 0.205183
-    id: ck13c8povz4z40i19ehra1lmn
-    verified: false
-    hashtags: "#inter, #internacional, #torcidacolorada, #fogonodedo"
-  - username: "kuzcoshow"
-    fullname: >-
-      Kuzco
-    bio: >-
-      Comediante 🎤🎭 Creador de contenido 📱💻 Jugador del Afríka United FC 🇮🇸⚽️ Esposo y papá 💍👸
-    location: "Brazil"
-    followers: 27394
-    engagement: 591
-    commentsToLikes: 0.094589
-    id: ck6u9mughyfs00j714o4ce6tm
-    verified: false
-    hashtags: "#proud, #iceland, #challenge, #dad"
+    followers: 1546321
+    engagement: 174
+    commentsToLikes: 0.021104
+    id: ck0ty0lsnl3jl0i19esv2enw7
+    verified: true
+    hashtags: "#diadospais, #doqueriem, #grwm, #paramountplus"
 ---

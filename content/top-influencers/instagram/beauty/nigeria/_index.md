@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Nigeria In 2023
+title: Top 10 Beauty Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top beauty Instagram influencers in Nigeria in 2023. Most popular hashtags: #blackgirlmagic #explorepage #naturalhairjourney #healthyhairjourney.
+  Find top beauty Instagram influencers in Nigeria in 2024. Most popular hashtags: #explorepage #birthdaygirl #explore.
 platform: Instagram
-hits: 118
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 118 Instagram influencers like this in Nigeria for you to contact.
+hits: 134
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 134 Instagram influencers like this in Nigeria for you to contact.
 profiles:
-  - username: "happycurlhappygirl"
+  - username: "victoire_mahounou"
     fullname: >-
-      Rayna
+      Victoire |Content creator
     bio: >-
-      curls • beauty • family • lifestyle 🤍 los angeles rayna@cfg.co 220K+ youtube subbies • 190K+ tik tok
+      My name’s Victoire not Victoria Lifestyle Content Creator Vlogs | Storytelling | Beauty MGMT @stellarinhouse 📧 victoire@stellarinhouse.com
     location: "Nigeria"
-    followers: 155677
-    engagement: 808
-    commentsToLikes: 0.028313
-    id: ck5ccz2wbi91n0i11r5ffjtz4
+    followers: 31414
+    engagement: 614
+    commentsToLikes: 0.046912
+    id: cl8balz7c3dhe0i23236o6ewg
     verified: false
-    hashtags: "#marriedlife, #momlife, #ariesseason, #husbandandwife"
-  - username: "hameedah_xx"
+    hashtags: "#dettydecember, #vitamilkbanana, #ad, #vlogmas"
+  - username: "ifyokoye1"
     fullname: >-
-      Hammed Hamidat Oyindamola
+      Ify Okoye | Beauty & Fashion
     bio: >-
-      MODEL beauty & brand influencer Content creator/promotion manager Dm for bookings
+      Sharing Fashion & Beauty tips for my girlies 💁‍♀️ Promoting Afro Hair and Natural Nails Youtube - Ify Okoye TikTok - ify_okoye 📍Lagos, Nigeria
     location: "Nigeria"
-    followers: 11437
-    engagement: 1361
-    commentsToLikes: 0.050829
-    id: ck5q769s9057p0i116byq3ebi
-    verified: false
-    hashtags: "#selflove, #happyvalentinesday"
-  - username: "beautyw.cat"
+    followers: 185740
+    engagement: 585
+    commentsToLikes: 0.042146
+    id: ck5q75n0o03d90i11oknei0qe
+    verified: true
+    hashtags: "#ifyschivitasstory, #whatsyourchivita, #ribenacheers, #festiveflavorswithribena"
+  - username: "lhidhiastanley"
     fullname: >-
-      Cat with a C
+      LYDIA STANLEY 🦋
     bio: >-
-      Beauty•Hair•Lifestyle Manifesting my reality ✨ Lover of all things beautiful 🌻 3 million+ YouTube views 45K+ subbies NEW VIDEO BELOW
+      BEAUTY INFLUENCER | YOUTUBER | CIVIL ENGINEER 📩 LHIDHIASTANLEY@GMAIL.COM 📍NIGERIA 🇳🇬
     location: "Nigeria"
-    followers: 15980
-    engagement: 1575
-    commentsToLikes: 0.079823
-    id: ck14gqruh6ksi0i19m3bsv1rt
+    followers: 76145
+    engagement: 413
+    commentsToLikes: 0.046427
+    id: ck15ptj6rzjut0i19mt8joqe2
     verified: false
-    hashtags: "#lacefrontunit, #thecrayoncase, #lacefrontwigs, #ootd"
-  - username: "thejennjackson"
+    hashtags: "#nivea, #fyp, #husbandandwife, #foryourshadeofbeautiful"
+  - username: "katheryn_"
     fullname: >-
-      Jenn Jackson | Influencer
+      Katherine
     bio: >-
-      ➿ Your favourite natural hair guru sharing beauty, skincare and lifestyle tips! ➿ 🎬YouTube: 135k+ 💌 jenn@itsjennj.com ✨ 👇🏽Get your self-care box👇🏽✨
+      •Fashion/Commercial Model •Beauty/Brand influencer •DM for promotion/ Paid collaboration
     location: "Nigeria"
-    followers: 30472
-    engagement: 406
-    commentsToLikes: 0.053406
-    id: ck14h8hhb92fw0i19a6im80f2
+    followers: 22398
+    engagement: 672
+    commentsToLikes: 0.043508
+    id: ckap8ggzuo7d10i78zq2that3
     verified: false
-    hashtags: "#4chairchicks, #blacklifestyleblogger, #naturalhairloves, #4cnaturalhair"
-  - username: "feyisoge"
+    hashtags: "#explorepage, #explore, #exploremore, #explormore"
+  - username: "quick_steph"
     fullname: >-
-      LAGOS MAKEUP ARTIST
+      MSQUICK🇦🇺🇳🇬
     bio: >-
-      CONTENT CREATOR | BEAUTY INFLUENCER COMMERCIAL MUA| TV/MOVIE MAKEUP ARTIST SISTER BRAND: @nailsbyfeyisoge 💅🏽💕 PR/Paid AD📥 thefeyisoge@gmail.com
+      • ɢᴏᴅ 👑 🌏: @msquickofficial MEDIA PERSONALITY | BEAUTY | LIFESTYLE | TRAVEL 📧: 𝐁𝐨𝐨𝐤𝐢𝐧𝐠𝐬.𝐪𝐮𝐢𝐜𝐤𝐬𝐭𝐞𝐩𝐡@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦 ᴄᴀᴛᴄʜ ᴍᴇ ᴏɴ ʏᴏᴜᴛᴜʙᴇ 👇🏻
     location: "Nigeria"
-    followers: 9894
-    engagement: 533
-    commentsToLikes: 0.115717
-    id: ckaovei4549hz0i78ekofwlkz
+    followers: 156187
+    engagement: 767
+    commentsToLikes: 0.012977
+    id: ck5hg8n5y1i6r0i11qldvz7qf
     verified: false
-    hashtags: "#makeupforwoc, #bridalglam, #muainlagos, #asoebibella"
-  - username: "fayette_nyehn"
+    hashtags: "#girlstrip, #morocco, #grwm, #styleinspiration"
+  - username: "ethamarh__"
     fullname: >-
-      Fayette Faith Nyehn✨
+      Ithamar.B | 𝕄𝕒𝕜𝕖𝕦𝕡 𝔼𝕟𝕥𝕙𝕦𝕤𝕚𝕒𝕤𝕥
     bio: >-
-      Natural Hair Care Tips | Hairstyle Tutorials | Beauty 📍Texas | 📩 : fayettecontact@gmail.com YouTube Channel ⬇️
+      ° Self taught MUA ° Beauty Influencer ° Face of @beautybyad 2022 ° 📍Calabar, Nigeria 🇳🇬 ° DM/Email for Collaborations, PR and ADs ° College Student
     location: "Nigeria"
-    followers: 36020
-    engagement: 496
-    commentsToLikes: 0.026082
-    id: ck15u82oylvku0i19f4aiz8vd
+    followers: 40743
+    engagement: 876
+    commentsToLikes: 0.029159
+    id: ckyf3upomqavv0j238opc4s1m
     verified: false
-    hashtags: "#type4naturals, #blackgirlhairstyles, #kinksuluv, #afrohair"
-  - username: "simplycrystalmichelle"
+    hashtags: "#blackcreators, #gifted, #beautycreator, #beautyenthusiast"
+  - username: "charcoalshade"
     fullname: >-
-      Natural Hair Influencer
+      ONYINYE | CONTENT CREATOR
     bio: >-
-      ✨Influencer | Natural Hair-Beauty ✨46K Subscribers/ 6Million Views YT ✨📧simplycrystalmichelle@gmail.com ✨Watch my latest video!
+      BEAUTY|HAIR|LIFESTYLE Queen of Colors 🌈 Email:Charcoalshade@gmail.com for Promo/Collab 🎵Tiktok 70k+ Shop my Palette ⬇️ Use “CHARCOALARMY” for 💸 off
     location: "Nigeria"
-    followers: 5909
-    engagement: 1034
-    commentsToLikes: 0.048578
-    id: ck5ztahic01kt0i147mksxoxx
+    followers: 50914
+    engagement: 328
+    commentsToLikes: 0.042875
+    id: ckqquvn94xssf0j23napw8i07
     verified: false
-    hashtags: "#protectivestyling, #hemakesmesmile, #shesaidyes, #amazingnaturalhair"
-  - username: "belove_falana"
+    hashtags: "#blackgirlwiththeblackgirlhairchallenge, #tiktokchallenge, #bleachedbrows, #tiktokviral"
+  - username: "doctorfavour_"
     fullname: >-
-      Ayanfe Falana
+      Dr. Favour J 🇳🇬🇨🇳 | formerly @makeup_by_favour
     bio: >-
-      THIS IS MY ONLY ACCOUNT 👌 Beauty Queen 👸🏿(MBGE2016/2017) Political Scientist👩‍🎓 Brand Ambassador @bismidcosmetics💄 @gpennyfoods Sc:👻belovefalana
+      👩🏽‍⚕️ Medical Doctor 🩺 💄 Beauty Influencer
     location: "Nigeria"
-    followers: 8785
-    engagement: 653
-    commentsToLikes: 0.082173
-    id: ck5zwe33a5yw30i14zhlrnku5
+    followers: 73340
+    engagement: 554
+    commentsToLikes: 0.026721
+    id: ck0uaqcj9cw640i19w6nkbfyi
     verified: false
-    hashtags: "#glow, #explorepage, #explore, #exploremore"
-  - username: "dammy_adesh"
+    hashtags: "#makeuptransition, #nigerianmua, #doctorfavour, #medicaldoctor"
+  - username: "vivianokezie"
     fullname: >-
-      Dammy Adesh
+      Vivikoks ♡ | Content Creator & Youtuber
     bio: >-
-      Nigerian 🇳🇬 Ex Beauty Queen👸🏽 Model 💄 Activist 💪🏾 Interview with Vanguard 👇 Snapchat:Dharmiz Business page : @thedammy_adesh
+      Hi! Find me on YouTube and TikTok too! Beauty | Travel | Lifestyle @vivikokskitchen 📧| vivianokeziemgt@gmail.com
     location: "Nigeria"
-    followers: 15944
-    engagement: 376
-    commentsToLikes: 0.059257
-    id: ck8swldxdehbj0j78v827guy6
+    followers: 59193
+    engagement: 264
+    commentsToLikes: 0.023671
+    id: ck134jvqvwsgw0i19r0gwr8hf
     verified: false
-    hashtags: ""
-  - username: "abayomiakinaina"
+    hashtags: "#weeklyvlog, #tulipbodycare, #skincare, #selfcare"
+  - username: "yourstrulyyinka"
     fullname: >-
-      ABAYOMIAKINAINA
+      Yinka
     bio: >-
-      •Beauty •Portrait •Weddings •Retoucher •Educator Bookings:📞+2348100164803 📧Abayomiakinaina@gmail.com Based In Lagos Nigeria
+      Style, Skin, Beauty + Supply Chain Mgmt Jewelry Designer @yinkaorisan @akeyno Creative Strategist | Hello@yourstrulyyinka.com
     location: "Nigeria"
-    followers: 30052
-    engagement: 259
-    commentsToLikes: 0.016879
-    id: ck14i486qdkby0i191u4p8lck
+    followers: 43885
+    engagement: 241
+    commentsToLikes: 0.038347
+    id: cl4h6pv9yrkiy0i23fgqbd76k
     verified: false
-    hashtags: "#wedding, #portraitmood, #red, #couples"
+    hashtags: "#beautywithyinka, #lagosgirlstrip, #bridesmaidsappreciation, #officiallyowoniyi"
 ---

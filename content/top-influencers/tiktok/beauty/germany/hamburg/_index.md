@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Hamburg In 2023
+title: Top 10 Beauty TikTok Influencers In Hamburg In 2024
 description: >-
-  Find top beauty TikTok influencers in Hamburg in 2023. Most popular hashtags: #foryou #viral #beauty #fyp.
+  Find top beauty TikTok influencers in Hamburg in 2024. Most popular hashtags: #foryou #viral #beauty #fyp.
 platform: TikTok
 hits: 8
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform has 8 TikTok influencers like this in Hamburg, Germany for you to collaborate.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database has 8 TikTok influencers like this in Hamburg, Germany for you to collaborate.
 profiles:
   - username: "aynaa.ad"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.030347
     id: ckbqhu5ly33lq0j23zlztuxpd
     verified: false
-    hashtags: "#lernenmittiktok, #fyfyfyfyfyfy, #dialekt, #schw"
+    hashtags: "#fy, #badenw, #teiledeinwissen, #viral"
   - username: "annvivien.blog"
     fullname: >-
       Ann-Vivien
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.019412
     id: ck81s9k4yr1da0j78hwh9v4l8
     verified: false
-    hashtags: "#foryou, #fy, #magic, #trend"
+    hashtags: "#foryou, #magic, #fy, #trend"
   - username: "sophialuisa20"
     fullname: >-
       Sophia Luisa

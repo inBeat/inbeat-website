@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Istanbul In 2023
+title: Top 10 Nutrition Instagram Influencers In Istanbul In 2024
 description: >-
-  Find top nutrition Instagram influencers in Istanbul in 2023. Most popular hashtags: #nutrition #istanbul #healthyfood #healthylifestyle.
+  Find top nutrition Instagram influencers in Istanbul in 2024. Most popular hashtags: #istanbul #healthylifestyle #nutrition #kahvalt.
 platform: Instagram
-hits: 11
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat has 11 Instagram influencers like this in Istanbul, Turkey for you to pitch.
+hits: 13
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 13 Instagram influencers like this in Istanbul, Turkey for you to pitch.
 profiles:
   - username: "egeaygn7"
     fullname: >-
@@ -19,6 +19,66 @@ profiles:
     id: ckapbdt05zjir0i78l9y49o7v
     verified: false
     hashtags: "#football"
+  - username: "mlkcuvk"
+    fullname: >-
+      Melike Çuvak
+    bio: >-
+      👩‍💻#businessanalyst & #healthcoach & #influencer 👩‍🎓Nutrition & Dietetic MASTER STUDENT 📍istanbul🇹🇷 Birlikte Çalışalım⬇️
+    location: "Turkey"
+    followers: 37731
+    engagement: 259
+    commentsToLikes: 0.025602
+    id: ck14j3zcaiin60i19en7aoaf2
+    verified: false
+    hashtags: "#bug, #iyihisset, #zurich, #lifestyle"
+  - username: "sami_jafary"
+    fullname: >-
+      MOBIN RAEIS JAFARI
+    bio: >-
+      📍Istanbul Certified PERSONAL TRAINER 🇹🇷🇦🇪🇮🇷 🔖advanced nutrition coach sponsor @alo.fitt 💵
+    location: "Turkey"
+    followers: 656145
+    engagement: 597
+    commentsToLikes: 0.032638
+    id: ck9why8p8004l0j78d975usoc
+    verified: false
+    hashtags: "#sami, #gym, #istanbul, #fitnessmotivation"
+  - username: "aysekoroglu"
+    fullname: >-
+      Ayşe Köroğlu
+    bio: >-
+      Plantlab 1-2 Raw Cuisine& Culinary Nutrition Dylan Werner YOGA 200 HTT Functional Medicine Coach / IFM İsbirlikleri icin ayseozgurkoroglu@gmail.com
+    location: "Turkey"
+    followers: 136999
+    engagement: 353
+    commentsToLikes: 0.012335
+    id: ck15u5hd0li6f0i198cccjdpk
+    verified: false
+    hashtags: "#lisboa, #reels, #lisbon, #portugal"
+  - username: "uzmdytaslihankucuk"
+    fullname: >-
+      Aslıhan Küçük Budak
+    bio: >-
+      ☎️: ‭05333458826‬ #elele de köşe yazarı @diyetiko_ kurucu diyetisyeni Adres:Koşuyolu mah Mahmut Yesari cad no:21 kadıköy/İstanbul
+    location: "Turkey"
+    followers: 20521
+    engagement: 112
+    commentsToLikes: 0.022778
+    id: ckaozy3zqnxek0i7849facvko
+    verified: false
+    hashtags: "#kesfetteyiz, #diyetisyen, #kahvalt, #fyp"
+  - username: "aysegunduzgunes"
+    fullname: >-
+      Ayşe Gündüz Güneş
+    bio: >-
+      Engineer • Life Coach • Nutrition Coach 💌İletişim: aysegunduzgunes@gmail.com 🌍42 Countries 📍Antalya • İstanbul @eventmag Private Club
+    location: "Turkey"
+    followers: 152443
+    engagement: 70
+    commentsToLikes: 0.030798
+    id: ckap7qotgl5380i78mpjbap8t
+    verified: false
+    hashtags: "#cuban, #donerkebab, #mekanonerisi, #kahvalt"
   - username: "delicioustastebyib"
     fullname: >-
       Ecz.İnci Bulut
@@ -31,30 +91,6 @@ profiles:
     id: ck0w6v4qyaf270i197vb1rr8z
     verified: false
     hashtags: "#cuisine, #recipe, #influencer, #tastygood"
-  - username: "bilgecediyet"
-    fullname: >-
-      
-    bio: >-
-      #bilgecekahvaltı • #bilgecediyetbilgilendiriyor •İstanbul Medipol Ünv. •Beslenme&Diyetetik 4’4 •Psikoloji 2’4 💌Soru,görüş ve önerileriniz için DM
-    location: "Turkey"
-    followers: 9907
-    engagement: 681
-    commentsToLikes: 0.025334
-    id: ck8tc41ksy7br0j78626mk0gl
-    verified: false
-    hashtags: "#ramadan, #healthybreakfastideas, #classicbreakfast, #bilgecediyetbilgilendiriyor"
-  - username: "serdaraktolga"
-    fullname: >-
-      SERDAR AKTOLGA
-    bio: >-
-      𝐀𝐍𝐓𝐑𝐄𝐍Ö𝐑 𝐈𝐅𝐁𝐁 𝐏𝐑𝐎 / 𝐖𝐎𝐑𝐋𝐃 𝐂𝐇𝐀𝐌𝐏𝐈𝐎𝐍 𝐔𝐙𝐀𝐊𝐓𝐀𝐍 𝐄Ğİ𝐓İ𝐌 İÇİ𝐍 , 𝐃𝐌 𝐘𝐎𝐋𝐔 İ𝐋𝐄 𝐁İ𝐋𝐆İ 𝐀𝐋𝐀𝐁İ𝐋İ𝐑𝐒İ𝐍İ𝐙 : @serdar_aktolga_uzaktan_egitim
-    location: "Turkey"
-    followers: 109804
-    engagement: 463
-    commentsToLikes: 0.015400
-    id: ck15ts3lkjlzs0i19v31hjles
-    verified: false
-    hashtags: "#nutrition, #england, #legend, #usa"
   - username: "mmehmmety"
     fullname: >-
       MEHMET YÜKSEL | ONLINE COACH
@@ -81,50 +117,14 @@ profiles:
     hashtags: "#ketojenikbeslenme, #foodblogger, #sunum, #saglikliyasam"
   - username: "chefaydinoglu__official"
     fullname: >-
-      Aydın Aydınoğlu
+      Aydın Aydınoğlu
     bio: >-
       Eğitim ve danışmanlık için DM den ulaşabilirsiniz.🎂🇹🇷 AU PROCHAİN...AUX SOUVAİN... FIRST NEVER FOLLOW
     location: "Turkey"
-    followers: 20382
-    engagement: 472
-    commentsToLikes: 0.026478
+    followers: 20349
+    engagement: 473
+    commentsToLikes: 0.026537
     id: ck14irx7ngww40i19ka7fo192
     verified: false
-    hashtags: "#vegansofinstagram, #sweetfood, #sweetdreams, #instachocolate"
-  - username: "ksalcioglu"
-    fullname: >-
-      Kalust Şalcıoğlu
-    bio: >-
-      Çok #oyuncu, fena #yazar, #tiyatro oyunu #yönetmen i... 🎬🖌🎭 #actor #author #scriptwriter #theater #theatre #teatro #director 🎬🖌🎭
-    location: "Turkey"
-    followers: 907354
-    engagement: 159
-    commentsToLikes: 0.000000
-    id: ck0vz1zrd6w1v0i19kebmqghv
-    verified: true
-    hashtags: "#human, #life, #istanbul, #insan"
-  - username: "dytcerennurturan"
-    fullname: >-
-      Diyetisyen Cerennur Turan 🥑
-    bio: >-
-      🍒🍋Sağlıklı Beslen,Hafif Yaşa 🍒🍋 👩🏻‍🎓 Akhisar Fen Lisesi’15 👩🏻‍🎓 Afyon Kocatepe Üniversitesi’19 🌍 Online diyet için DM 📩
-    location: "Turkey"
-    followers: 16257
-    engagement: 511
-    commentsToLikes: 0.033465
-    id: ck9hcji56lpkf0j78tebsxy52
-    verified: false
-    hashtags: "#manisa, #healthylifestyle, #nutrition, #go"
-  - username: "pikniktupumuo"
-    fullname: >-
-      P.Deniz.B
-    bio: >-
-      🔻 reklam - iş birliği için 🔻 ♥️ DM 🐼 | Batı trakya | 🌻 | 👩🏻‍💻 | 🐈 | #foodblogger |
-    location: "Turkey"
-    followers: 67121
-    engagement: 67
-    commentsToLikes: 0.015599
-    id: ck9wd0r58djdh0j7835dcnu0t
-    verified: false
-    hashtags: "#sagliklitarifler, #ke, #temizbeslenme, #diyetguncesi"
+    hashtags: "#vizyonumuzbelli, #toptags, #sweettooth, #foodie"
 ---

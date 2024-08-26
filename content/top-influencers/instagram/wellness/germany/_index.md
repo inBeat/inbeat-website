@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Germany In 2023
+title: Top 10 Wellness Instagram Influencers In Germany In 2024
 description: >-
-  Find top wellness Instagram influencers in Germany in 2023. Most popular hashtags: #summer #summervibes #thankful.
+  Find top wellness Instagram influencers in Germany in 2024. Most popular hashtags: #fashionblogger #ootd #blogger #ootdfashion.
 platform: Instagram
-hits: 244
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform has 244 Instagram influencers like this in Germany for you to collaborate.
+hits: 375
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 375 Instagram influencers like this in Germany for you to contact.
 profiles:
-  - username: "yeahitsmanu"
+  - username: "jacqisdiary"
     fullname: >-
-      Manuel K.
+      Jacqueline
     bio: >-
-      Licensed Gym Coach & Finance Nerd 🌐 Frankfurt 📍 @elements_fitness_wellness @gq_germany @tommyhilfiger @pure_training_official Impressum👇🏼
+      ♾️ ✨ wellness | lifestyle | vlogs 🕋 revert journey ✉️ info@jacqifit.com
     location: "Germany"
-    followers: 15462
-    engagement: 97
-    commentsToLikes: 0.023713
-    id: ck6uc4uasdira0j71aj56im0u
+    followers: 155046
+    engagement: 809
+    commentsToLikes: 0.012399
+    id: ckap2325hx61s0i78ga1hud1d
     verified: false
-    hashtags: "#fitness, #frankfurt, #motivation, #challenges"
-  - username: "janiine.heitmann"
+    hashtags: "#sun, #morningroutine, #positivity, #happy"
+  - username: "namastehannah"
     fullname: >-
-      JANINE'S🔥MINDSET & LIFESTYLE ✨
+      Hannah Müller-Hillebrand
     bio: >-
-      🍶💙 @multipowerofficial | #bodybuilding 💪🏼 __ 💆🏼‍♀️ #Sport &' #Wellnesspraktikerin ➡️ #massagen & #schröpfen DM für weitere Infos. ⬇️📲💌 ->015750303123
+      Art & Wellness 🎨 @hannah.muehi 💌 mail@namastehannah.de
     location: "Germany"
-    followers: 4574
-    engagement: 1492
-    commentsToLikes: 0.112759
-    id: ck8t3t4p94e8t0j78aulj25mo
+    followers: 362901
+    engagement: 727
+    commentsToLikes: 0.003939
+    id: ck6tyyica6lcq0j71uunbb0fj
     verified: false
-    hashtags: "#sonntag, #shooting, #janine, #sommer"
-  - username: "emilie_tla"
+    hashtags: "#teamgalaxy, #jointheflipside, #galaxyzflip5, #switchtonow"
+  - username: "glitterandfries"
     fullname: >-
-      Emilie T.
+      Anja | visual diary
     bio: >-
-      Wellness Culture @wellnessculture_ Inquiries: DM or mail || agent : emilietlamgmt@gmail.com
+      Let’s ✨glow✨ together well-being | food | wellness and health Berlin based law student 💌 to glitterandfries@gmx.de
     location: "Germany"
-    followers: 47657
-    engagement: 108
-    commentsToLikes: 0.022155
-    id: ck55juj1uxrwk0i115jtmfp1n
+    followers: 46054
+    engagement: 337
+    commentsToLikes: 0.014606
+    id: clcuv3ue23krc0j08gjacowsp
     verified: false
-    hashtags: ""
-  - username: "endlesslara"
+    hashtags: "#selfcarereminder, #studieren, #mentalhealth, #reminder"
+  - username: "barbarabeckersworld"
     fullname: >-
-      𝐿𝐴𝑅𝐴-𝐽𝐴𝑆𝑀𝐼𝑁
+      Barbara Becker
     bio: >-
-      » wellness & low-tox @endlessentials ✨ for you ↴
+      Welcome to my world 🌎 Fitness | Wellness | Beauty | Book Author | Lifestyle & More ❤️
     location: "Germany"
-    followers: 13064
-    engagement: 136
-    commentsToLikes: 0.096839
-    id: ck0u2e0y4zlz70i19mh4bdyfk
-    verified: false
-    hashtags: "#flowers, #summerstyle, #spain, #wanderlust"
-  - username: "tzwiesnmadl"
-    fullname: >-
-      tz-Wiesn-Madl
-    bio: >-
-      Dieses Jahr winken fantastische Preise vom smart Center München, dem 5-Sterne Wellnesshotel Jagdhof sowie Gutscheine für das VITALIA Reformhaus.
-    location: "Germany"
-    followers: 24937
-    engagement: 676
-    commentsToLikes: 0.019657
-    id: ck6txxfb70eok0j71x2ijha0l
+    followers: 66571
+    engagement: 296
+    commentsToLikes: 0.044537
+    id: ck0vvz8f3rfgb0i19fbxg7rvw
     verified: true
-    hashtags: "#repost, #dirndl, #wochenende, #august"
-  - username: "honey_fit_l"
+    hashtags: "#women, #proudmom, #johnfriedade, #noahs"
+  - username: "namastevelyn__"
     fullname: >-
-      honey_fit
+      Evelyn Stephanie - HATHA YOGA - ACHTSAMKEIT 🧘🏼‍♀️
     bio: >-
-      🌍 8th place World championship wellness fitness 🇨🇿 CZ Prague 💊 Extrifit nutrition
+      🤎Yoga- Achtsamkeit - Wellness 🤎Yogateacher 🧘🏼‍♀️ 🤎Travelguide @jolyntravel 🤎Dackel 🐶 @dackelrocky 🤎🏡Schwarzwald
     location: "Germany"
-    followers: 24085
-    engagement: 206
-    commentsToLikes: 0.007557
-    id: ck5zo7p0bpy3n0i14m2h6d9za
+    followers: 13469
+    engagement: 286
+    commentsToLikes: 0.116956
+    id: ckap234xax6az0i78fgv97n55
     verified: false
-    hashtags: "#trip, #slovakia, #loveit, #banskabystrica"
-  - username: "steffilovesblack"
+    hashtags: "#adventskalender, #prettylittleinspo, #yogapractice, #americanstyle"
+  - username: "cybennysonia2017__"
     fullname: >-
-      𝕊𝕥𝕖𝕗𝕗𝕚 & 𝕄𝕣. 𝔹𝕝𝕒𝕔𝕜
+      Sonia west
     bio: >-
-      #lusitanomix 🇵🇹 Unser Chaos-Alltag mit viel ❤️, Ausritten 🌲 , Wellness 😴, Dressur-Anfängen💃🏻, Outfit-Monkigkeit ✨, Arthrose & Überbein 🦴. 📍 Sauerland
+      Happy mom of wonderful kids Sharing about motherhood|Style|Beauty |Wellness|Content creator|Fashion| DM for collab #Germany #Influencer @sonik_empire
     location: "Germany"
-    followers: 4148
-    engagement: 1061
-    commentsToLikes: 0.236551
-    id: ck9hbb066g34f0j78urys0pun
+    followers: 35736
+    engagement: 234
+    commentsToLikes: 0.022266
+    id: ck134db9jvw0v0i195u6vrohu
     verified: false
-    hashtags: "#horsefeed, #horsefeeding, #cascohelmets, #arthrosepferd"
-  - username: "karateandi183"
+    hashtags: "#instafashion, #autumncollection, #shoponline, #kindermode"
+  - username: "fashioneiress"
     fullname: >-
-      
+      Sonam Babani
     bio: >-
-      Wellness Tour Tickets:
+      👸🏼🐝 of Luxury & Wellness Celebrity Stylist | Luxury Consultant GQ 100 Best Dressed Luxebook 50 Most Powerful Women
     location: "Germany"
-    followers: 65358
-    engagement: 743
-    commentsToLikes: 0.012174
-    id: ck5hqr7d6tkwp0i119q6363m0
-    verified: true
-    hashtags: "#erstmaldiebasicsmachen"
-  - username: "aylincelene"
-    fullname: >-
-      Aylin
-    bio: >-
-      🍋 lifestyle | wellness ❞ comparison will steal your joy 135K friends on youtube
-    location: "Germany"
-    followers: 39726
-    engagement: 52
-    commentsToLikes: 0.042982
-    id: ck14jv15lmbuk0i19qlhb96c9
+    followers: 210735
+    engagement: 173
+    commentsToLikes: 0.008161
+    id: ck0vzgp0690gv0i197a6q0qnf
     verified: false
-    hashtags: "#fleurop, #blumengeste, #ko, #fynniwinnie"
-  - username: "sonnenalp_annamaria_faessler"
+    hashtags: "#fashioneiressinspain, #fashioneiress, #wellnesswithfashioneiress, #fashioneiressinparis"
+  - username: "jamina1404"
     fullname: >-
-      Sonnenalp_Anna-Maria-Faessler
+      YOUTUBER || Beauty. Lifestyle
     bio: >-
-      Nur schöne Dinge: Hotel. Wellness. Shopping. Kulinarik. Wohnen. Fashion. Lifestyle. Wein. Berge...
+      #wellnessjourney 💪🏻 #mentalhealth ☁️ MAIL || info@jamina1404.com 📍Oldenburg 🐶 Beo Say Hi on my Youtube channel
     location: "Germany"
-    followers: 3085
-    engagement: 1183
-    commentsToLikes: 0.099927
-    id: ck55mxgfn518f0i11qjj2jk2n
+    followers: 40993
+    engagement: 147
+    commentsToLikes: 0.061778
+    id: cln3gjoacfba30j084yc6h04e
     verified: false
-    hashtags: "#meinesonnenalp, #sonnenalp, #snow, #shopping"
+    hashtags: "#werbung, #cetaphil, #lidlde, #wedoskinyoudoyou"
+  - username: "mariia_white"
+    fullname: >-
+      Mariia Bilenka • become your own muse here
+    bio: >-
+      The 1st #skinpositive influencer in Ukraine. Acne warrior. 🎙️ Co-host @wellness.in.chaos.podcast 💌 bilenkamari@gmail.com 〰️ In Hamburg To support 🇺🇦⤵️
+    location: "Germany"
+    followers: 28648
+    engagement: 147
+    commentsToLikes: 0.063684
+    id: cl3w8zb9wctza0i23upxp9uqa
+    verified: false
+    hashtags: "#hairglossing, #peachfuzz, #roaccutane, #ootd"
+  - username: "linaramatorea"
+    fullname: >-
+      🦋Lina🦋
+    bio: >-
+      📍 BN | 29 | Travel & Wellness Inspo 🌍 Next : Glücksgefühle Festival, Münsterland 📺 2013-2014 Köln50667 ✉️ Lina.Socialmedia2301@gmail.com
+    location: "Germany"
+    followers: 54904
+    engagement: 137
+    commentsToLikes: 0.025861
+    id: ck6twyfdsutaq0j710bkipi1m
+    verified: false
+    hashtags: "#fashiondaily, #inspo, #giveaway, #elegant"
 ---

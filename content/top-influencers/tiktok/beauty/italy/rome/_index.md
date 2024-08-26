@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Rome In 2023
+title: Top 10 Beauty TikTok Influencers In Rome In 2024
 description: >-
-  Find top beauty TikTok influencers in Rome in 2023. Most popular hashtags: #perte #fyp #viral #beauty.
+  Find top beauty TikTok influencers in Rome in 2024. Most popular hashtags: #perte #fyp #viral #greenscreen.
 platform: TikTok
-hits: 5
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our search engine has 5 TikTok influencers like this in Rome, Italy for you to connect with.
+hits: 4
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 4 TikTok influencers like this in Rome, Italy for you to work with.
 profiles:
   - username: "_labruni"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ckd193k3bqp9f0j238j2tscba
     verified: false
     hashtags: "#song, #photo, #viral, #comedy"
-  - username: "_domizia"
-    fullname: >-
-      Domi
-    bio: >-
-      Make up artist made in Rome Parlo tanto ma non dico “pazzesco” INSTA: _DOMIZIA
-    location: "Italy"
-    followers: 176000
-    engagement: 979
-    commentsToLikes: 0.007250
-    id: cka67e1u2kpie0i78o5z7svqv
-    verified: false
-    hashtags: "#beauty, #skincare, #makeup, #makeuptutorial"
   - username: "veradipietro3"
     fullname: >-
       veradipietro
@@ -54,7 +42,7 @@ profiles:
     commentsToLikes: 0.031969
     id: ckcjfyx77bc980j23def3ws3g
     verified: false
-    hashtags: "#curvymomsoftiktok, #plussizemom, #perte, #babymum"
+    hashtags: "#curvymomsoftiktok, #curvymom, #babyshopping, #neiperte"
   - username: "ciaomichiamonoran_eh_eh"
     fullname: >-
       Noran 
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.036048
     id: ckbqhuqmi35g20j23n5xz53kx
     verified: false
-    hashtags: "#makeup, #lipstick, #beauty, #skincare"
+    hashtags: "#makeuphacks, #essencecosmetics, #beauty, #lipstick"
+  - username: "cocolavieenrose"
+    fullname: >-
+      Skincare con Valeria Arizzi
+    bio: >-
+      Consigli BEAUTY e CURA DELLA PELLE🦄 #imparacontiktok SKINCARE 🧴
+    location: "Italy"
+    followers: 20400
+    engagement: 623
+    commentsToLikes: 0.096793
+    id: ck8vsi6p5dp000j78dilpl6bu
+    verified: false
+    hashtags: "#curapelle, #italia, #imparacontiktok, #segretidibellezza"
 ---

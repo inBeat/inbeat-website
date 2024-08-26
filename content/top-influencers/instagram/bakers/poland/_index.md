@@ -1,12 +1,24 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Poland In 2023
+title: Top 10 Bakers Instagram Influencers In Poland In 2024
 description: >-
-  Find top bakers Instagram influencers in Poland in 2023. Most popular hashtags: #bakersgonnabake #bakersofinstagram #ciasto #pastrychef.
+  Find top bakers Instagram influencers in Poland in 2024. Most popular hashtags: #bakersgonnabake #ciasto #bakersofinstagram #foodphotography.
 platform: Instagram
-hits: 77
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 77 Instagram influencers like this in Poland for you to pitch.
+hits: 79
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 79 Instagram influencers like this in Poland for you to pitch.
 profiles:
+  - username: "justyna_dragan"
+    fullname: >-
+      Justyna Dragan
+    bio: >-
+      24yo | food photographer | baker | recipe developer | cookbook author | 1/4 @warsawfoods 📩 collab: justynadragan@op.pl 📍Poland, Warsaw
+    location: "Poland"
+    followers: 62069
+    engagement: 170
+    commentsToLikes: 0.023604
+    id: ck8t7f070gk3l0j78ykpoc6qv
+    verified: false
+    hashtags: "#cheesecake, #eatclean, #gymtime, #christmas"
   - username: "barbarajustblog"
     fullname: >-
       Basia Just
@@ -49,12 +61,12 @@ profiles:
     bio: >-
       Food stylist and photographer Based in Wrocław, Poland Alter ego: @wasting_my_time_here
     location: "Poland"
-    followers: 64814
-    engagement: 313
-    commentsToLikes: 0.016602
+    followers: 63064
+    engagement: 323
+    commentsToLikes: 0.015529
     id: ck14ghyak5bc40i19htv4r2jg
     verified: false
-    hashtags: "#zdroweodzywianie, #breakfastbowl, #porridgelover, #foodphotographytips"
+    hashtags: "#stylizacjajedzenia, #fotografiajedzenia, #healthybreakfast, #fotografiakulinarnawroclaw"
   - username: "judyta_dawydiuk"
     fullname: >-
       Judyta Dawydiuk
@@ -103,28 +115,16 @@ profiles:
     id: ck0vz8tpp7vr20i19qb9p1l1t
     verified: false
     hashtags: "#studentka, #mojecia, #oswajamjesie, #strajkkobiet"
-  - username: "k7909"
+  - username: "cashxsweetie"
     fullname: >-
-      Kamila
+      
     bio: >-
-      *my Home *my Style *my Moments 📥 📧k7909@interia.pl
+      |~Fanpage 💕 |~app: Video star |~Cash liked 1x<3 |~Mav liked 1x |~acc made 20/1/2019 |~Casharmy
     location: "Poland"
-    followers: 35873
-    engagement: 810
-    commentsToLikes: 0.048648
-    id: ck15tq2jpjc430i19305zts7x
+    followers: 2980
+    engagement: 1053
+    commentsToLikes: 0.060716
+    id: ckap57zmlal2w0i78kd4j3bdd
     verified: false
-    hashtags: "#slowlivingforlife, #postitfortheaesthetic, #mystory, #howwelive"
-  - username: "gleamofhope9"
-    fullname: >-
-      Karolina Kotłowska
-    bio: >-
-      Lifestyle Bloger from Poland 🇵🇱 💎 #Books, #Cosmetics and #Lifestyle 💌 DM📥/gleamofhope9@gmail.com ⚡️
-    location: "Poland"
-    followers: 23270
-    engagement: 394
-    commentsToLikes: 0.051407
-    id: ckaoyafazgo940i78u39wa02h
-    verified: false
-    hashtags: "#readersofinstagram, #instabook, #readingtime, #ksia"
+    hashtags: "#casharmy, #cashbakeredits, #vscoloring, #ventedit"
 ---

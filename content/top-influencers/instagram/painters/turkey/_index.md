@@ -1,12 +1,36 @@
 ---
-title: Top 10 Painters Instagram Influencers In Turkey In 2023
+title: Top 10 Painters Instagram Influencers In Turkey In 2024
 description: >-
-  Find top painters Instagram influencers in Turkey in 2023. Most popular hashtags: #art #painting #artwork #drawing.
+  Find top painters Instagram influencers in Turkey in 2024. Most popular hashtags: #art #painting #artwork #drawing.
 platform: Instagram
-hits: 263
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 263 Instagram influencers like this in Turkey for you to pitch.
+hits: 277
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 277 Instagram influencers like this in Turkey for you to work with.
 profiles:
+  - username: "taalyaaaaa"
+    fullname: >-
+      ☀️ Taalyaaa ☀️
+    bio: >-
+      👷🏻‍♀️Architect✨🎨 Painter✨📍İstanbul 👩🏻‍🎨 Business Page : @talyaa_art 🔗For Collaboration/جهت همکاری: @agent_talya in ♥️
+    location: "Turkey"
+    followers: 217666
+    engagement: 538
+    commentsToLikes: 0.061693
+    id: ck9wio2ry35n20j7872pc08xd
+    verified: false
+    hashtags: "#bnw, #style, #fashion, #portrait"
+  - username: "metablinda"
+    fullname: >-
+      Linda Met'ab
+    bio: >-
+      SY🇸🇾 TR🇹🇷 PL🇵🇸 cosmetologist painter model🦋 miss arab 2016 سفيرة الخير والانسانيه 2018 @beauty__castle1 @artis.ts95
+    location: "Turkey"
+    followers: 23192
+    engagement: 89
+    commentsToLikes: 0.022641
+    id: ckap7fk70jukx0i78ar02j5b9
+    verified: false
+    hashtags: "#fashionstyle, #dubai, #instagram, #missuniverso"
   - username: "orhandoganer.artstudio"
     fullname: >-
       Orhan Doganer
@@ -78,7 +102,7 @@ profiles:
     commentsToLikes: 0.016958
     id: ck8t3e0xr2wti0j78g4eec071
     verified: false
-    hashtags: "#waterblog, #painting, #inspiring, #foart1"
+    hashtags: "#waterblog, #artgallery, #inspiring, #adempotas"
   - username: "eliferdem.iliria"
     fullname: >-
       Elif Erdem
@@ -103,28 +127,4 @@ profiles:
     id: ckap09nfopd360i78y1zsljsc
     verified: false
     hashtags: "#varnishporn, #mihripaintsrocks, #rockart, #art"
-  - username: "mazharalanson"
-    fullname: >-
-      Mazhar Alanson
-    bio: >-
-      Singer, song writer, actor & wants to be a painter Management: orcuncivi@gmail.com
-    location: "Turkey"
-    followers: 229675
-    engagement: 240
-    commentsToLikes: 0.003790
-    id: ck5cgavjmoh6v0i11b0xakchm
-    verified: true
-    hashtags: "#masketak"
-  - username: "didemparlakyigit"
-    fullname: >-
-      ᗪIᗪᗴᗰ ᑭᗩᖇᒪᗩKYIĞIT GÖᖇᑌ̈ᑕᑌ̈
-    bio: >-
-      ●•RESSAM🎨 (Painter) ●• POLİS Eşi 👮🏻‍♂️ @dp.modacom sahibi 👈🏻🛍 ●• ”EFT-HAVALE”
-    location: "Turkey"
-    followers: 30495
-    engagement: 304
-    commentsToLikes: 0.003987
-    id: ck8tbsfg0wy3t0j781pgwsldq
-    verified: false
-    hashtags: "#didemparlakyigit54, #didemparlakyigit53, #didemparlakyigit51, #didemparlakyigit47"
 ---

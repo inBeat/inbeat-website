@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Barcelona In 2023
+title: Top 10 Lifestyle Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #lifestyle #travelphotography.
+  Find top lifestyle Instagram influencers in Barcelona in 2024. Most popular hashtags: #lifestyle #love #barcelona #travel.
 platform: Instagram
-hits: 148
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 148 Instagram influencers like this in Barcelona, Spain for you to connect with.
+hits: 170
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 170 Instagram influencers like this in Barcelona, Spain for you to pitch.
 profiles:
   - username: "mami_kevinyenzo"
     fullname: >-
@@ -19,42 +19,6 @@ profiles:
     id: ckapap6wowy200i784p9f6no6
     verified: false
     hashtags: "#ddic20, #beauty, #predicenlluvias, #santvalentin"
-  - username: "back_dox"
-    fullname: >-
-      Back_dox
-    bio: >-
-      🇪🇸 Barcelona 🌍 Travel 🌈 ⚡️Lifestyle 🍴Food
-    location: "Spain"
-    followers: 51965
-    engagement: 218
-    commentsToLikes: 0.079298
-    id: ck15q5pbm18c50i19wez82wci
-    verified: false
-    hashtags: "#hotelesconencanto, #barcelonalovers, #bcnmoltmes, #barcelonaexperience"
-  - username: "dipalmapietro"
-    fullname: >-
-      PIETRO DIPALMA
-    bio: >-
-      🇮🇹 El Tano 🇦🇷 Actor dando vuelta por el mundo. 📩 pietro.dipalma99@gmail.com
-    location: "Spain"
-    followers: 5457
-    engagement: 563
-    commentsToLikes: 0.066605
-    id: ck14h6vss8u8o0i19bcjo3puo
-    verified: false
-    hashtags: "#model, #spaintravel, #tbt, #espa"
-  - username: "blondysisters"
-    fullname: >-
-      Jennifer & Annais
-    bio: >-
-      🌎 Barcelona ✈️ w a n d e r l u s t 🌈 v i v i r c o n e n t u s i a s m o 👭 m y h a l f ✂️ @salon_delarco
-    location: "Spain"
-    followers: 14568
-    engagement: 266
-    commentsToLikes: 0.032197
-    id: ck6tm2zs8737x0j71gccbkzin
-    verified: false
-    hashtags: "#castelldefels, #beach, #winteroutfit, #womenday8march"
   - username: "trendy_lover"
     fullname: >-
       Sara Martín
@@ -67,18 +31,6 @@ profiles:
     id: ckaoxffm4d0wl0i78f7k6afkb
     verified: false
     hashtags: "#cadarayodesol, #blush, #indolaspain, #luxeandjewels"
-  - username: "mon_rovi"
-    fullname: >-
-      MON ROVI ✨ Hola amigos!
-    bio: >-
-      Travel & Lifestyle 📍Barcelona - Madrid ✉️ mon@monrovi.net 🎥 YouTube: Mon Rovi
-    location: "Spain"
-    followers: 276511
-    engagement: 183
-    commentsToLikes: 0.019308
-    id: ckap9mc33sqxl0i78x9yuilf0
-    verified: false
-    hashtags: "#barcelona, #hscarmenboulogne, #mondaymotivation, #sabordeamoratrevido"
   - username: "belinhacardoso"
     fullname: >-
       Isabel 🌙
@@ -91,40 +43,88 @@ profiles:
     id: ck9ha4frcb3sn0j78j1e1kxnb
     verified: false
     hashtags: "#stayhome, #naturephotography, #beachgirl, #soulful"
+  - username: "destinowanderlust"
+    fullname: >-
+      IRENE  Y JAVI 🌍 TRAVEL COUPLE
+    bio: >-
+      Viajamos con 🎒 para contarte lo que vivimos ✨ 📍Barcelona ✉️destinowanderlust@gmail.com ULTIMO POST 👇🏻
+    location: "Spain"
+    followers: 17971
+    engagement: 845
+    commentsToLikes: 0.085241
+    id: ck15plqqryig50i19n7uj23cl
+    verified: false
+    hashtags: "#travel, #earthcouples, #andalucia, #buscablogs"
+  - username: "saradelym"
+    fullname: >-
+      Sara Delym
+    bio: >-
+      @delymjuice
+    location: "Spain"
+    followers: 8188
+    engagement: 809
+    commentsToLikes: 0.043424
+    id: ck5pysd9axkej0i11bkd5g47b
+    verified: false
+    hashtags: "#delymjuice, #contemporaryartist, #saradelym, #dancecomunity"
   - username: "alexsete__"
     fullname: >-
       𝑨𝑳𝑬𝑿   𝑼𝑴 🇹🇩
     bio: >-
-      ______________ Fashion | Lifestyle | Fitness _____________ 📍Barcelona | Alba Iulia ✉️| Ƈontαct: ursete99@ցmαil.com Never duck your head win or lose
+      ______________ Fashion | Lifestyle | Fitness 📍Barcelona | Alba Iulia Never duck your head win or lose
     location: "Spain"
-    followers: 80085
-    engagement: 213
-    commentsToLikes: 0.090400
+    followers: 77371
+    engagement: 220
+    commentsToLikes: 0.106945
     id: ck8td1gtn1gka0j78ad20r1od
     verified: false
-    hashtags: "#mensfashioner, #streetstyles, #moda, #mensstyleguide"
+    hashtags: "#outfittoday, #stylefashion, #mensoutfits, #fashioninstagram"
   - username: "faunayflora"
     fullname: >-
       Fauna y Flora
     bio: >-
       🌕 Handcrafted Jewelry 🌔 Inspired by Nature 🌓 Locally made La Garrotxa + Barcelona 🌒 Lifestyle + Nature + Conscious life + Family 🌑 www.faunayflora.es
     location: "Spain"
-    followers: 54283
-    engagement: 204
-    commentsToLikes: 0.028421
+    followers: 54467
+    engagement: 184
+    commentsToLikes: 0.030389
     id: ck5btz3h1gva60i112hk1vfuu
     verified: false
-    hashtags: "#selectedcrystals, #tallerfaunayflora, #faunayfloralookbook, #groundcontroltomajortom"
-  - username: "ronaldelopez"
+    hashtags: "#peque, #holaprimavera, #tallerfaunayflora, #infancia"
+  - username: "rosa_cabadas"
     fullname: >-
-      Ron's® - Action Adventurer 🎥🇻🇪
+      Viajando_con_Rosa
     bio: >-
-      CEO & Co-Founder @edconsulting👷🏾‍♂️ @ronsfit🏋🏿‍♂️Adventure🗿Motor🛵 DJ🎧 ✈l🇻🇪🌍🇧🇷🇨🇴🇪🇸🇫🇷🇳🇱🇺🇸🇧🇬🇩🇪🇰🇼🇪🇺🇵🇹🇷🇺🇸🇦🇦🇹🇩🇰🇨🇳🇬🇧🇬🇷🇧🇪🇲🇦🇮🇪🇻🇦🇲🇹🇮🇨🇳🇴🇮🇲🇯🇵🇧🇭🇨🇭🇸🇪🇨🇦🇰🇾🇹🇭🇹🇷🇮🇸🇫🇴 🇲🇽
+      Me encanta viajar y la fotografia✈️📸 Sin mi cámara no salgo de casa😍 📍Madrileña viviendo en Torrevieja,Alicante 🇪🇸 ⬅️🇲🇦🇫🇷🇳🇱🇪🇬🇧🇪🇪🇸🇵🇹 ➡️?
     location: "Spain"
-    followers: 76342
-    engagement: 85
-    commentsToLikes: 0.012181
-    id: ck5hoow6apyew0i1115szbgeo
+    followers: 7205
+    engagement: 1432
+    commentsToLikes: 0.121793
+    id: ckap4uqoh8yhk0i785zh0i0yl
     verified: false
-    hashtags: "#suzuki, #photography, #streettracker, #triumphamerica"
+    hashtags: "#instantes, #turismo, #spain, #espacio"
+  - username: "mapivd"
+    fullname: >-
+      Mari Paz Vilas
+    bio: >-
+      Futbolista profesional @realbetisfem |@sefutbol Puma athlete @pumafootball Twitter @maripaz_vilas Management:@futbolcore Fisioterapeuta/Readaptadora
+    location: "Spain"
+    followers: 26438
+    engagement: 436
+    commentsToLikes: 0.026019
+    id: ck5hfnmk7ycrd0i11onx20534
+    verified: true
+    hashtags: "#futfem, #betisf, #futbolfemenino, #pumafootball"
+  - username: "emithesituation"
+    fullname: >-
+      A13💍
+    bio: >-
+      📍Madrid ▪ Zumub ambassador 💪🏼 🏆 @zumub.es➡️THESITUATIONFIT ▪ Natural aesthetic🏋🏻‍♂ ▪ Model 📸 ▪ Fitness Addict🏆
+    location: "Spain"
+    followers: 16881
+    engagement: 94
+    commentsToLikes: 0.047109
+    id: ck5qc2qhiokux0i11m68tvt18
+    verified: false
+    hashtags: "#amazing, #tattooart, #gym, #food"
 ---

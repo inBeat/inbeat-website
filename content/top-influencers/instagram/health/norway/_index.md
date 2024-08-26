@@ -1,36 +1,60 @@
 ---
-title: Top 10 Health Instagram Influencers In Norway In 2023
+title: Top 10 Health Instagram Influencers In Norway In 2024
 description: >-
-  Find top health Instagram influencers in Norway in 2023. Most popular hashtags: #visitnorway #winter #healthylifestyle.
+  Find top health Instagram influencers in Norway in 2024. Most popular hashtags: #norway #visitnorway #norge.
 platform: Instagram
-hits: 76
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 76 Instagram influencers like this in Norway for you to collaborate.
+hits: 83
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat has 83 Instagram influencers like this in Norway for you to collaborate.
 profiles:
-  - username: "maritaystevik"
+  - username: "unececilie"
     fullname: >-
-      Marita Ystevik
+      Une Cecilie Oksvold
     bio: >-
-      Location, Oslo Digital content creator ♡ k Health account: @workoutwithystevik Fashion, beauty, lifestyle, coffee, travel, fun.
+      Outdoors, mental health and knitting Adventures with Juster and van Leif🐾 Link til boka mi Fargerik turstrikk 🧶🌈 ↓
     location: "Norway"
-    followers: 18258
-    engagement: 185
-    commentsToLikes: 0.118382
-    id: ck5c2uz4by1ib0i11zquptmde
+    followers: 85281
+    engagement: 467
+    commentsToLikes: 0.093793
+    id: ck15t0hl2fq8o0i190y1r4v6k
     verified: false
-    hashtags: "#norgesferie, #reels, #minmote, #sommerkjole"
+    hashtags: "#hundp, #trondheim, #psykiskhelse, #utno"
+  - username: "annanajs"
+    fullname: >-
+      Anna
+    bio: >-
+      Anna Høyholm aka Annanajs Aesthetic health, wellness and travel content Creator of @annasprofood Contact at annanajs@outlook.com
+    location: "Norway"
+    followers: 7373
+    engagement: 343
+    commentsToLikes: 0.036479
+    id: ck55lx2nv2nak0i11zyugfm5f
+    verified: false
+    hashtags: "#idealofsweden, #ad"
   - username: "gunhild_stordalen"
     fullname: >-
       Gunhild A. Stordalen
     bio: >-
       Medical doctor & environmentalist working to improve the health of👫&🌎 through better food. Founder & Executive Chair of EAT. Young Global Leader 2015
     location: "Norway"
-    followers: 186309
-    engagement: 379
-    commentsToLikes: 0.025769
+    followers: 196463
+    engagement: 169
+    commentsToLikes: 0.034351
     id: ck5zmq1uzn0kg0i147yvuqe2w
     verified: true
-    hashtags: "#photoshoot, #dryjanuary, #artphotography, #nonpaidpromo"
+    hashtags: "#healthyfood, #climatejustice, #plantbased, #climateaction"
+  - username: "maritaystevik"
+    fullname: >-
+      Marita Ystevik
+    bio: >-
+      Oslo | fashion & lifestyle ♡ health: @workoutwithystevik contact: maritaystevik@hotmail.com
+    location: "Norway"
+    followers: 17371
+    engagement: 103
+    commentsToLikes: 0.078893
+    id: ck5c2uz4by1ib0i11zquptmde
+    verified: false
+    hashtags: "#sommerkjole, #modernart, #parisianstyle, #minmote"
   - username: "billyjohnbob"
     fullname: >-
       BillyJohnBob 🐻 Eerie Fairy
@@ -103,28 +127,4 @@ profiles:
     id: ck5qca7bepl5i0i11vzsxpplj
     verified: true
     hashtags: "#optimalprint, #postpartumbody, #optimalprint2021, #diastasisrecti"
-  - username: "weightliftingadvice"
-    fullname: >-
-      Weightlifting Advice | Fitness
-    bio: >-
-      💪🏼 Making Weightlifting Simple 💡 Evidence-Based Content 🍊 Healthy Nutrition Tips 📍 Norway
-    location: "Norway"
-    followers: 4161
-    engagement: 1216
-    commentsToLikes: 0.189045
-    id: ck6uhmknf9zna0j717bycmfpd
-    verified: false
-    hashtags: "#bestlifeproject, #gymbeast, #projectrock, #alwaysinbeta"
-  - username: "zackgeorge"
-    fullname: >-
-      zackgeorge
-    bio: >-
-      🦍Fittest in U.K. 🥇🇬🇧 2020 Crossfit Games Athlete 🦍Men’s health cover model 🦍Team Silverback for life 👇🏾Sponsors/Discount codes👇🏾
-    location: "Norway"
-    followers: 192843
-    engagement: 139
-    commentsToLikes: 0.011896
-    id: ck5heewdrsjnw0i115p0ijpbb
-    verified: false
-    hashtags: "#wod, #assaultbike, #training, #crossfit"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In 2023
+title: Top 10 TikTok Influencers In 2024
 description: >-
-  Find top TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #foryoupage #viral.
+  Find top TikTok influencers in 2024. Most popular hashtags: #fyp #foryou #foryoupage #viral.
 platform: TikTok
-hits: 238691
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 238691 TikTok influencers like this for you to work with.
+hits: 238913
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 238913 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "jakechamseddine"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.051004
     id: ck8nf5lmgqe8b0j78mk6exy1b
     verified: true
-    hashtags: "#patd, #photo, #photography, #fyp"
+    hashtags: "#photo, #photography, #patd, #fyp"
   - username: "davidbras03"
     fullname: >-
       👑 David Brás 👑
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.040127
     id: cka0w9vew20gn0i784myx39ud
     verified: false
-    hashtags: "#joke, #skate, #jokes, #standup"
+    hashtags: "#joke, #jokes, #skate, #standupcomedy"
   - username: "loulou.starou"
     fullname: >-
       loulou starou
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.013633
     id: ckb9lyk9qes890j23ohpyd2x5
     verified: false
-    hashtags: "#storytime, #louloustarou, #foryou, #voyage"
+    hashtags: "#voyage, #louloustarou, #colo, #storytime"
   - username: "annasulc"
     fullname: >-
       Anna Šulcová
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.011405
     id: ckbfci1qq5c860j2345gsp2up
     verified: true
-    hashtags: "#croatia, #tiktoktravel, #chorvatsko, #traveltiktok"
+    hashtags: "#chorvatsko, #tiktoktravel, #croatia, #fyp"
   - username: "megumihasebeperdomo"
     fullname: >-
       Megumi Hasebe
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.013664
     id: ckbfens788w850j23trusgv3z
     verified: false
-    hashtags: "#lesbian, #masclesbians, #pride2021, #foryoupage"
+    hashtags: "#foryoupage, #hotgirsummerchallenge, #lesbian, #lgbt"
   - username: "argiisitolozt"
     fullname: >-
       Argiisito LOzt
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.054051
     id: ckc7v2a4yyqi30j23ukdgkfu0
     verified: true
-    hashtags: "#school, #relatable, #dancer, #fyp"
+    hashtags: "#dance, #dancer, #foryou, #foryoupage"
   - username: "marcosmonteirr"
     fullname: >-
       Marcos
@@ -126,7 +126,7 @@ profiles:
     commentsToLikes: 0.072968
     id: ckd0pt9ddhvdh0j23u57symuk
     verified: false
-    hashtags: "#viral, #foryou, #foryoupage, #humor"
+    hashtags: "#foryou, #viral, #fyp, #foryoupage"
 countries:
   - name: Algeria
     link: /tiktok/algeria

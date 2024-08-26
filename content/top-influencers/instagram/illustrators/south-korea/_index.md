@@ -1,11 +1,11 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In South Korea In 2023
+title: Top 10 Illustrators Instagram Influencers In South Korea In 2024
 description: >-
-  Find top illustrators Instagram influencers in South Korea in 2023. Most popular hashtags: #drawing #illust #illustration #artwork.
+  Find top illustrators Instagram influencers in South Korea in 2024. Most popular hashtags: #illustration #drawing #artwork #illustrator.
 platform: Instagram
-hits: 48
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform has 48 Instagram influencers like this in South Korea for you to collaborate.
+hits: 47
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 47 Instagram influencers like this in South Korea for you to collaborate.
 profiles:
   - username: "hungrae_"
     fullname: >-
@@ -19,6 +19,42 @@ profiles:
     id: ck5c41xdy0h6q0i119q0h4km7
     verified: false
     hashtags: ""
+  - username: "jaesukkim"
+    fullname: >-
+      Illustrating Susu Girls
+    bio: >-
+      SEOUL/SINGAPORE/SYDNEY-BASED FASHION ILLUSTRATOR, CONTENT & ART DIRECTOR - In 🇰🇷 📧: jskillustration@gmail.com
+    location: "South Korea"
+    followers: 355418
+    engagement: 360
+    commentsToLikes: 0.018258
+    id: ck0tyw94xobs50i199wiue7gl
+    verified: true
+    hashtags: "#fashionillustrated, #beauty, #fashionillustration, #susugirls"
+  - username: "chocolateye"
+    fullname: >-
+      Yeonju Choi
+    bio: >-
+      Illustrator yjoo92@naver.com ✈️Mo story, Casetify, 후긴앤무닌 스마트스토어 👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻
+    location: "South Korea"
+    followers: 105591
+    engagement: 311
+    commentsToLikes: 0.002651
+    id: cl3cuee614pnc0i23pgudv79w
+    verified: false
+    hashtags: "#myfavorites, #choiyeonju, #atnoonbooks, #casetify"
+  - username: "cochlea1313"
+    fullname: >-
+      Mio Im
+    bio: >-
+      At @kodzunak Seoul @urfriendinacoma Illustrator/Tattooer DO NOT COPY. NO DM © Mio Im ALL RIGHTS RESERVED
+    location: "South Korea"
+    followers: 90470
+    engagement: 1
+    commentsToLikes: 0.001068
+    id: ckaotfrowvr1b0i78vlu3zmow
+    verified: false
+    hashtags: "#art, #tattoodo, #blackwork, #illustration"
   - username: "asphyxjk"
     fullname: >-
       soaked in gin ルビ   btsfanart
@@ -73,12 +109,12 @@ profiles:
     bio: >-
       책을 쓰고 그림을 그립니다 개인의뢰 받지 않아요 흑🙏 . illustrator hyun mi jeju in korea 본계정 @vacaskingdom vacaskingdom.com . ✨클래스101 색연필 인물화 강의 링크✨
     location: "South Korea"
-    followers: 51916
-    engagement: 274
-    commentsToLikes: 0.011850
+    followers: 49543
+    engagement: 233
+    commentsToLikes: 0.013335
     id: ck8tcni1d011r0j78c0zoeh49
     verified: false
-    hashtags: "#coloredpencilart, #illust, #portrait, #staedtler"
+    hashtags: "#coloredpencildrawing, #drawing, #portraitillust, #coloringbook"
   - username: "hubuluck_illustration"
     fullname: >-
       hubuluck
@@ -91,40 +127,4 @@ profiles:
     id: ck0w57m2s2anx0i198yrigf70
     verified: false
     hashtags: "#artist, #funny, #couple, #creative"
-  - username: "hot_chu"
-    fullname: >-
-      김치우 | Travel Designer ✈️🎨
-    bio: >-
-      여행을 디자인 해주는 ‘트래블 디자이너’ 김치우 🏷Portfolio : @travel_designer_portfolio 🏷Illustrator : @chu_ketchbook ⬇️세계여행 포스터 판매 중⬇️
-    location: "South Korea"
-    followers: 8393
-    engagement: 836
-    commentsToLikes: 0.075111
-    id: ck0w30nbnr1ap0i196w6hg55o
-    verified: false
-    hashtags: "#zv1white, #zenz, #zv1, #sony"
-  - username: "cochlea1313"
-    fullname: >-
-      Mio
-    bio: >-
-      Seoul. Booking closed. Illustrator/Tattooer DO NOT COPY. NO DM © Mio Im ALL RIGHTS RESERVED
-    location: "South Korea"
-    followers: 80844
-    engagement: 251
-    commentsToLikes: 0.000586
-    id: ckaotfrowvr1b0i78vlu3zmow
-    verified: false
-    hashtags: "#darkartists, #tatts, #inkstinctsubmission, #tattoodo"
-  - username: "moreparsley"
-    fullname: >-
-      김혜빈
-    bio: >-
-      🐡☝️👌🖐 🖍 illustrator #moreparsley 💌 작업문의는 메일로 주세요. 📍카카오이모티콘 [쓸모있는 개굴생활]
-    location: "South Korea"
-    followers: 88495
-    engagement: 275
-    commentsToLikes: 0.010512
-    id: ck0vvib63p9m70i19ueolm538
-    verified: false
-    hashtags: "#butterbook, #ilovebangkok, #2021"
 ---

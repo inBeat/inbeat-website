@@ -1,12 +1,36 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Japan In 2023
+title: Top 10 Makeup Instagram Influencers In Japan In 2024
 description: >-
-  Find top makeup Instagram influencers in Japan in 2023. Most popular hashtags: #makeup #makeupvideos #makeuplover.
+  Find top makeup Instagram influencers in Japan in 2024. Most popular hashtags: #ootd #makeup #makeupvideos.
 platform: Instagram
-hits: 311
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 311 Instagram influencers like this in Japan for you to collaborate.
+hits: 334
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 334 Instagram influencers like this in Japan for you to work with.
 profiles:
+  - username: "milez728"
+    fullname: >-
+      青山舞莉　MILEY AOYAMA
+    bio: >-
+      tokyo & traveling travel fashion makeup waseda お仕事 info@qualiam.com 🇯🇵🇮🇩🇸🇬🇺🇸 @mile_official__ 月1海外旅行に行く人
+    location: "Japan"
+    followers: 45914
+    engagement: 430
+    commentsToLikes: 0.001633
+    id: ck8t7wy4ti8x70j78cxqlaynx
+    verified: false
+    hashtags: "#pr, #lovebonito, #gu, #murua"
+  - username: "paranatka"
+    fullname: >-
+      NATALIA LEŚNIAK
+    bio: >-
+      makeup & skincare tutorials 🌸✨ 💗 tag me: #paranatka 📧 nataliaannazajac@gmail.com 💄 2nd account:
+    location: "Japan"
+    followers: 28654
+    engagement: 131
+    commentsToLikes: 0.039711
+    id: ck1390amviwc30i19iup7yh2g
+    verified: false
+    hashtags: "#makeupvideos, #dewyskinmakeup, #benefitcosmetics, #kylash"
   - username: "gianna_karamani"
     fullname: >-
       Gianna Karamani
@@ -31,18 +55,6 @@ profiles:
     id: ck0w6r3px9w7g0i19xlwqqoot
     verified: false
     hashtags: "#goth, #disturbia, #altfashion, #egirl"
-  - username: "paranatka"
-    fullname: >-
-      NATALIA ZAJĄC 🐰
-    bio: >-
-      makeup & skincare tutorials 🌸✨ 💗 tag me: #paranatka 📧 nataliaannazajac@gmail.com 💄 2nd account:
-    location: "Japan"
-    followers: 31714
-    engagement: 389
-    commentsToLikes: 0.046268
-    id: ck1390amviwc30i19iup7yh2g
-    verified: false
-    hashtags: "#skincareproducts, #colourpopcosmetics, #dewyskin, #glossylips"
   - username: "yuuri_fukuse"
     fullname: >-
       MARILYN YUURI FUKUSE
@@ -69,16 +81,16 @@ profiles:
     hashtags: "#makeuplover, #mersin, #adana, #makeup"
   - username: "nakajima_ayano"
     fullname: >-
-      中島絢乃
+      nakajima ayano
     bio: >-
-      Japanese blogger,model💘﻿ ⚠️仕事以外のDM直接お返事しません🙅‍♀️﻿ コメントへ✏️﻿ ．﻿ DisneyParks🇭🇰🇨🇳🇺🇸🇯🇵﻿ 中島姉妹👭#disneysisters_jp ﻿ ．﻿ travel/beauty/makeup movie/fashion/anime
+      Japanese blogger,model💘 ⚠️仕事以外のDM直接お返事しません🙅‍♀️ コメントへ✏️ ． DisneyParks🇭🇰🇨🇳🇺🇸🇯🇵 中島姉妹👭 #disneysisters_jp travel/beauty/makeup movie/fashion/anime
     location: "Japan"
-    followers: 47486
-    engagement: 206
-    commentsToLikes: 0.011695
+    followers: 55773
+    engagement: 257
+    commentsToLikes: 0.008301
     id: ckap1ua7ew6ht0i780qid86re
     verified: false
-    hashtags: "#ohmycafe, #inmyroombyayanon, #156cm, #mignondebijoux"
+    hashtags: "#pr, #disneysisters, #156cm, #disney"
   - username: "juniwise"
     fullname: >-
       Juni Wise
@@ -115,16 +127,4 @@ profiles:
     id: ck6tll3jh66c90j71ckt06ts0
     verified: false
     hashtags: "#creativelly, #polychromos, #leiladuly, #coloringforadults"
-  - username: "akiko__endo"
-    fullname: >-
-      Akiko Endo 遠藤晶子
-    bio: >-
-      Hatsuko Endo Ginza hair salon/esthetic salon/ bridal hair&makeup/wedding dress/kimono @hatsuko_endo @a_by_hatsukoendo
-    location: "Japan"
-    followers: 19438
-    engagement: 246
-    commentsToLikes: 0.009894
-    id: ck8t34o4u1uiy0j789j50b086
-    verified: false
-    hashtags: "#dog, #karuizawajapan, #catlover, #egyptianmau"
 ---

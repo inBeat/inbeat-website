@@ -1,12 +1,36 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Argentina In 2023
+title: Top 10 Yoga Instagram Influencers In Argentina In 2024
 description: >-
-  Find top yoga Instagram influencers in Argentina in 2023. Most popular hashtags: #yoga #poesia #amor.
+  Find top yoga Instagram influencers in Argentina in 2024. Most popular hashtags: #yoga #poesia #cuarentena.
 platform: Instagram
-hits: 73
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 73 Instagram influencers like this in Argentina for you to work with.
+hits: 67
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 67 Instagram influencers like this in Argentina for you to contact.
 profiles:
+  - username: "melalenoir"
+    fullname: >-
+      M E L A  L E N O I R
+    bio: >-
+      BS.AS. - MADRID 🇦🇷 rep: @elizaldepereyra 🐲 acting-yoga-flying my life 🐲 Fan de la gente que hace cosas buenas Más info en el link👇🏼
+    location: "Argentina"
+    followers: 33298
+    engagement: 265
+    commentsToLikes: 0.063007
+    id: ck5zkuoa2k6ve0i14y4qc1aj0
+    verified: true
+    hashtags: "#disneyplus, #stm, #disneychannel, #meditaciononline"
+  - username: "cataguimarey"
+    fullname: >-
+      Cata Guimarey
+    bio: >-
+      🦋Founder @befitbycata 💪🏽Entreno y motivo a mujeres 🌎 🔜 IIN Health Coach 🔜Prof. De Yoga 🧘🏽‍♀️ ✨ @adidasar
+    location: "Argentina"
+    followers: 139007
+    engagement: 126
+    commentsToLikes: 0.025801
+    id: ck5q3nkfxllar0i11ze99lq3f
+    verified: false
+    hashtags: "#sukhaproductos, #mat, #matyoga, #befitbycata"
   - username: "rosannau"
     fullname: >-
       Rosanna 🍇
@@ -67,42 +91,6 @@ profiles:
     id: ck6u9o2jjyn3t0j71rqpfgmjy
     verified: false
     hashtags: "#yogaesyoga, #practica, #yoga, #minipractica"
-  - username: "patrymontero"
-    fullname: >-
-      Patry Montero
-    bio: >-
-      Mamá, AcTriz Profe YOGA 🕉 🙏🏻 👩🏼‍🍳 @PatryAlexChefs 👨🏻‍🍳 👉🏻 Contacto @lula_duhalde 🧘🏼‍♀️ Reto Yoga Paso a Paso 4 Semanas en mi canal 👇🏻
-    location: "Argentina"
-    followers: 685877
-    engagement: 177
-    commentsToLikes: 0.009783
-    id: ck0vy2bb51w3f0i19v2ptn17w
-    verified: true
-    hashtags: "#yoga, #retopatrysentir, #patrymonteroyoga, #skyr"
-  - username: "antonella_orsiniv"
-    fullname: >-
-      Antonella🌙
-    bio: >-
-      YOGA GRATIS Todos los Viernes 8.30 am Ig live✨ Mi libro "Yoga para Luces y Sombras" 🙏
-    location: "Argentina"
-    followers: 200187
-    engagement: 138
-    commentsToLikes: 0.031893
-    id: ck6uayies6few0j71gpg6q9eb
-    verified: false
-    hashtags: "#justiciaparalospresxspoliticxs, #justiciaparaelpueblomapuche, #justiciaparaantonia, #justiciaparanorma"
-  - username: "fabiandomenech"
-    fullname: >-
-      Fabian Domenech
-    bio: >-
-      Yoga Teacher-CrossFit L1-Fashion-Retreats @nike
-    location: "Argentina"
-    followers: 51007
-    engagement: 341
-    commentsToLikes: 0.020771
-    id: ck14irwwhgwtm0i19eq27d8fe
-    verified: false
-    hashtags: "#unapologetic, #playinside, #playfortheworld, #thelivingroomcap"
   - username: "mellamoagripina"
     fullname: >-
       ➳      a g r i     🌵🌍🐘
@@ -115,16 +103,28 @@ profiles:
     id: ck5zxgi8s7z1c0i14eufq5wc9
     verified: false
     hashtags: "#coronavirus, #frasedeldia, #volveremosaabrazarnos, #poesia"
-  - username: "as2_3d"
+  - username: "yogaoclonazepam"
     fullname: >-
-      Ana de Santos Díaz
+      Jessica Vega-Puch
     bio: >-
-      Interior designer @anidsd For collaborations 📩 Set design, art direction, 3D art, graphic design Based in Madrid, Spain
+      👁𝙴𝚗𝚜𝚎𝚗̃𝚘 cursos de 𝚈𝚘𝚐𝚊, 𝙼𝚎𝚍𝚒𝚝𝚊𝚌𝚒𝚘́𝚗𓁹y 𝚖𝚒𝚗𝚍𝚏𝚞𝚕𝚗𝚎𝚜𝚜 𝚙𝚊𝚛𝚊 𝚕𝚊 𝚊𝚗𝚜𝚒𝚎𝚍ad ☼☽ 🌙 Rᴇᴛɪʀᴏ ᴅᴇ Yᴏɢᴀ en Cuzco: 24/11 🌓 ESCRITORA: @botiquindeemergenciaemocional
     location: "Argentina"
-    followers: 10806
-    engagement: 757
-    commentsToLikes: 0.031734
-    id: ck5hni7xhntqh0i11g5jruciz
+    followers: 90954
+    engagement: 74
+    commentsToLikes: 0.043367
+    id: ckap1agzqtql20i78qnzakxlb
     verified: false
-    hashtags: "#colorful, #disen, #geometricart, #interiorlover"
+    hashtags: ""
+  - username: "sosomirabellii"
+    fullname: >-
+      Sofia Mirabelli | Yoga & Wellness
+    bio: >-
+      ✧ 𝒂𝒒𝒖𝒊 𝒑𝒂𝒓𝒂 𝒊𝒏𝒔𝒑𝒊𝒓𝒂𝒓 ✧ ᴀᴅᴠᴇɴᴛᴜʀᴇ sᴇᴇᴋᴇʀ | ʏᴏɢᴀ ᴛᴇᴀᴄʜᴇʀ | ꜰᴀsʜɪᴏɴ ᴅᴇsɪɢɴᴇʀ - Súmate al Diciembre DETOX 🌿💚👇🏾
+    location: "Argentina"
+    followers: 222307
+    engagement: 235
+    commentsToLikes: 0.005094
+    id: ck5bw1865kssh0i119kf9w3fq
+    verified: false
+    hashtags: "#yogaathome, #yogaflow, #yoga, #australia"
 ---

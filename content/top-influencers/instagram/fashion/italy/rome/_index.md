@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Rome In 2023
+title: Top 10 Fashion Instagram Influencers In Rome In 2024
 description: >-
-  Find top fashion Instagram influencers in Rome in 2023. Most popular hashtags: #fashion #style #rome #italy.
+  Find top fashion Instagram influencers in Rome in 2024. Most popular hashtags: #fashion #rome #shooting #style.
 platform: Instagram
-hits: 171
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database holds 171 Instagram influencers like this in Rome, Italy for you to work with.
+hits: 183
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 183 Instagram influencers like this in Rome, Italy for you to connect with.
 profiles:
   - username: "melastyle"
     fullname: >-
@@ -19,6 +19,54 @@ profiles:
     id: ck9whgg5xxqni0j780sb5l7o8
     verified: false
     hashtags: "#ig, #streetstyle, #romantic, #jewelry"
+  - username: "stefbianchii"
+    fullname: >-
+      Stefania
+    bio: >-
+      probably petting a dog (or eating icecream) 🌺🐚🌞☁️ @theballout host 🕺 26bianchistefania@gmail.com Canary Islands / Italia
+    location: "Italy"
+    followers: 66701
+    engagement: 19
+    commentsToLikes: 0.003044
+    id: ck5c9lcixbn5f0i11i4fsn78u
+    verified: false
+    hashtags: "#summerlook, #europeansummer, #italiansummer, #portosantostefano"
+  - username: "claudiaciesla"
+    fullname: >-
+      Claudia Ciesla
+    bio: >-
+      🎭 Actress 🥗 Nutritionist & Lifestyle coach 📚 Author of ‘Keep Eating Keep Losing’ 📝 Entrepreneur 📩Contact: Claudia.enquiry@gmail.com
+    location: "Italy"
+    followers: 1159236
+    engagement: 118
+    commentsToLikes: 0.016596
+    id: ck0vwp4equw9u0i19043e4pxs
+    verified: true
+    hashtags: "#summervibes, #sundayfunday, #travel, #exercise"
+  - username: "elenasantarelli"
+    fullname: >-
+      Elenasantarelli
+    bio: >-
+      stefania@openinfluence.com digital info e commercial !!!. Per TV : MATCHPICTURE agency direzione@matchpicture.it
+    location: "Italy"
+    followers: 1893517
+    engagement: 25
+    commentsToLikes: 0.006809
+    id: ck15qgyct2sez0i19d9zw6dr3
+    verified: true
+    hashtags: "#styleinspiration, #gialappashow, #fashion, #adv"
+  - username: "michellemasullo"
+    fullname: >-
+      Mixelle
+    bio: >-
+      Booking: gianni@tvmoda.it Everyday on @rai1official ✨Prof. “Eredità” graduated at @iulm_university
+    location: "Italy"
+    followers: 32546
+    engagement: 130
+    commentsToLikes: 0.112151
+    id: ck9wexji1mato0j78ebyyg5s4
+    verified: false
+    hashtags: "#television, #italy, #model, #puntaala"
   - username: "g_tito21"
     fullname: >-
       Gabriel 🦊
@@ -31,6 +79,18 @@ profiles:
     id: ck8taec42rety0j788ex8ajdr
     verified: false
     hashtags: "#gayboy, #padovacity, #photo, #non"
+  - username: "gianmarcotamberi"
+    fullname: >-
+      HALFSHAVE
+    bio: >-
+      Olympic Champion 🥇 Crazy man 😎 Collab: dream.srl@hotmail.com In love with @bontempichiara ❤
+    location: "Italy"
+    followers: 641592
+    engagement: 379
+    commentsToLikes: 0.005119
+    id: ck5bzp06qrktk0i11pi1jgob9
+    verified: true
+    hashtags: "#redminote12series, #vividicolori, #ad, #athletics"
   - username: "robertanbianca"
     fullname: >-
       Roberta Bianca
@@ -43,18 +103,6 @@ profiles:
     id: ck5c6w4yg6bnt0i11ptmbffk0
     verified: false
     hashtags: "#booksaddict, #lookinspo, #goodmorning, #ootdpost"
-  - username: "melaniamigliozzi"
-    fullname: >-
-      mel* • aesthetic feed
-    bio: >-
-      BLOGGER | FASHION | LIFESTYLE 📍Rome aesthetic lover | beige passion Blog Dressing&Toppings Contributor @kiabi_italiaofficial ♡ Founder @foodgangitalia
-    location: "Italy"
-    followers: 17418
-    engagement: 506
-    commentsToLikes: 0.088272
-    id: ck5zu6gn81rtk0i14e5go0ffo
-    verified: false
-    hashtags: "#gioseppowoman, #caudalie, #diorbeautylovers, #kiabi"
   - username: "maride__"
     fullname: >-
       Marianna De Vito
@@ -67,64 +115,16 @@ profiles:
     id: ck5pvfhxohmj70i11aeh1eh78
     verified: false
     hashtags: "#advertising, #mummtoast, #succedeinrinascente"
-  - username: "flaviabarone_real"
+  - username: "accademiacostumeemoda"
     fullname: >-
-      𝔽 𝕃 𝔸 𝕍 𝕀 𝔸
+      Accademia Costume & Moda
     bio: >-
-      𝑰'𝒎 𝑪𝒓𝒂𝒛𝒚, 𝒔𝒐𝒓𝒓𝒚 ⇙ 𝑻𝒊𝒌 𝑻𝒐𝒌 (30𝒌) ⇘
+      Educating in Fashion & Costume, since 1964. Design, Communication & Management. Rome • Milan
     location: "Italy"
-    followers: 3075
-    engagement: 869
-    commentsToLikes: 0.039768
-    id: ckaouqxg21fic0i788vktmp6i
+    followers: 30430
+    engagement: 54
+    commentsToLikes: 0.017983
+    id: ck6tk1mxr3tun0j71l85e2n5a
     verified: false
-    hashtags: "#instagram, #estetica, #sea, #follow"
-  - username: "francescaabbatiello"
-    fullname: >-
-      Francesca Abbatiello
-    bio: >-
-      𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗳𝗼𝗿 𝗰𝗼𝗹𝗹𝗮𝗯𝘀 𝗮𝗻𝗱 𝘀𝗵𝗼𝗼𝘁𝗶𝗻𝗴📲 📩»francesca.management@icloud.com 📸»Photomodel 🛍»Fashion Addicted 📍based in Rome, IT
-    location: "Italy"
-    followers: 14125
-    engagement: 774
-    commentsToLikes: 0.044122
-    id: ckapck96g45rh0i789i468558
-    verified: false
-    hashtags: "#instagood, #ig, #art, #edit"
-  - username: "vv_liza_vv"
-    fullname: >-
-      𝐄𝐋𝐈𝐙𝐀𝐁𝐄𝐓𝐇 𝐘𝐕𝐇
-    bio: >-
-      Liza 🇷🇺 🇬🇷 🇮🇹 ⠀ 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗰𝗿𝗲𝗮𝘁𝗼𝗿 Based in Rome, Italy ⠀ Studying Fashion Design at @naba ⠀ Cooperation ➸ direct/email
-    location: "Italy"
-    followers: 11320
-    engagement: 366
-    commentsToLikes: 0.094670
-    id: ck8syf4osknky0j78lz94s346
-    verified: false
-    hashtags: ""
-  - username: "virginia_kalho"
-    fullname: >-
-      𝓥𝓲𝓻𝓰𝓲𝓷𝓲𝓪
-    bio: >-
-      📍Rome 📚Art historian ✨Aesthetic and vintage lover ✉️virginiacaprino92@gmail.com [FUN]
-    location: "Italy"
-    followers: 19108
-    engagement: 126
-    commentsToLikes: 0.288932
-    id: ckap4qam38dwq0i78v3dj6ve2
-    verified: false
-    hashtags: "#suppliedby, #romwe, #ootd, #jewels"
-  - username: "thebeatrice_ferro"
-    fullname: >-
-      Beatrice Ferro
-    bio: >-
-      ROMA🏡 - Hostess Eventi 🎤 - Cosplayer : @jasminecosplayer - gridgirl and Ombrellina 👠☂️ - Fotomodella📸 -fotografa @beatriceferrophotography
-    location: "Italy"
-    followers: 18673
-    engagement: 214
-    commentsToLikes: 0.163803
-    id: ck5cirfk8t87n0i117rkzsm9a
-    verified: false
-    hashtags: "#protrait, #nikon, #igersitalia, #nikonista"
+    hashtags: "#fashioneducation, #rome, #fashioncommunication, #acmcrew"
 ---

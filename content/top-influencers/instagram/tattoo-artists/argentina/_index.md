@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Argentina In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Argentina In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Argentina in 2023. Most popular hashtags: #tattoo #inked #tattooartist #tattoos.
+  Find top tattoo-artists Instagram influencers in Argentina in 2024. Most popular hashtags: #tattoo #inked #tattooartist #tattoos.
 platform: Instagram
-hits: 62
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 62 Instagram influencers like this in Argentina for you to connect with.
+hits: 61
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 61 Instagram influencers like this in Argentina for you to connect with.
 profiles:
   - username: "pau.armstrong"
     fullname: >-

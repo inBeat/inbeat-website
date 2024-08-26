@@ -1,12 +1,36 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Austin In 2023
+title: Top 10 Yoga Instagram Influencers In Austin In 2024
 description: >-
-  Find top yoga Instagram influencers in Austin in 2023. Most popular hashtags: #yoga #yogapractice #yogateacher #photography.
+  Find top yoga Instagram influencers in Austin in 2024. Most popular hashtags: #yoga #yogagirl #photography #yogalife.
 platform: Instagram
-hits: 45
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 45 Instagram influencers like this in Austin, United States for you to connect with.
+hits: 50
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 50 Instagram influencers like this in Austin, United States for you to pitch.
 profiles:
+  - username: "yenismonterrey"
+    fullname: >-
+      Yenis Emilia Schicht
+    bio: >-
+      𝚨𝐓𝗫| 𝗟𝚨| 𝝢𝐘𝗖 🇺🇸 Writer |Blogger | Actress | Entertainment| Beauty| Fashion | Travel #vipdiscoveries |📲 MULT🗣ENG-ESP-ITA⚠️ 𝘆𝗲𝗻𝐢𝘀𝐚𝘀𝐤@𝗴𝗺𝐚𝐢𝐥.𝗰𝗼𝗺⚠️
+    location: "United States"
+    followers: 31785
+    engagement: 806
+    commentsToLikes: 0.064755
+    id: ckaoxs08fehfh0i78xy0bpjb5
+    verified: false
+    hashtags: "#skincare, #texasinfluencer, #collagen, #vipdiscoveries"
+  - username: "adrienelouise"
+    fullname: >-
+      Adriene Mishler
+    bio: >-
+      actor artist teacher writer Co-founder / Yoga With Adriene CEO / FWFG APP Community @fwfglife Co-owner @practiceyogaaustin Board @fuseboxfestival
+    location: "United States"
+    followers: 1326060
+    engagement: 170
+    commentsToLikes: 0.008687
+    id: ck0tte8z32cz30i19bu70yhvv
+    verified: true
+    hashtags: "#wagwellnessday, #yogawithadriene, #howwegetreadyforsummer, #yoga"
   - username: "m_young_crook"
     fullname: >-
       Michele Young-Crook
@@ -19,18 +43,18 @@ profiles:
     id: ckap2hjfhyuz80i787u8ourjh
     verified: false
     hashtags: "#photography, #indigenouswomen, #women, #beautiful"
-  - username: "natashgetslost"
+  - username: "crying_star_loving_star"
     fullname: >-
-      Natasha Ponciano Travel Yogi
+      Crystal Fierro
     bio: >-
-      Owner @lostlotusyoga Yoga Teacher RYT 500, E-RYT 200 ✨ Email for Private Yoga Inquiries
+      Promotional model @hautehotlingerie code crystal15 Car model and @tspladies 📩 Rates /availability Hair/makeup page @fierrosalon
     location: "United States"
-    followers: 4052
-    engagement: 966
-    commentsToLikes: 0.104763
-    id: ck5q8sj1q7sb70i11nau3tbau
+    followers: 8345
+    engagement: 689
+    commentsToLikes: 0.053527
+    id: ckaorckt1mm760i78ekgbr7nc
     verified: false
-    hashtags: "#functionalwater, #owntheoneyou, #lostlotusyoga, #ad"
+    hashtags: "#dfwphotographer, #yogagirl, #fortworth, #carmeet"
   - username: "palmvisuals"
     fullname: >-
       Palm Visuals ™️
@@ -43,6 +67,18 @@ profiles:
     id: ck5zvnkh34kna0i14d7njvut6
     verified: false
     hashtags: "#realtors, #realtor, #house, #homesforsale"
+  - username: "laraedereryoga"
+    fullname: >-
+      laraedereryoga
+    bio: >-
+      Boy mom, 500 E-RYT @yoga_medicine @aloyoga advocate 🥊🤸🏻‍♀️🏋🏻‍♂️ RYS - Vivekayogaseattle.com NASM Certified Personal Trainer
+    location: "United States"
+    followers: 30740
+    engagement: 74
+    commentsToLikes: 0.122786
+    id: ck0u0wp96v3je0i1911zf5y74
+    verified: false
+    hashtags: "#flyingaugustanimal, #alosummerbends, #aloveforshoulders, #vyaghrasana"
   - username: "mindfully.megan"
     fullname: >-
       ⊹ Mindfully Megan ⊹
@@ -54,7 +90,7 @@ profiles:
     commentsToLikes: 0.217191
     id: ck5byocqfpj2s0i11cq5kz72t
     verified: false
-    hashtags: "#mindhealth, #healing, #wellbeing, #mentalhealth"
+    hashtags: "#mindbodyspirit, #mindfulness, #healthandwellness, #healing"
   - username: "redandrelaxed"
     fullname: >-
       Nicole
@@ -66,7 +102,7 @@ profiles:
     commentsToLikes: 0.063623
     id: ck0vxifoiz1uq0i190e42wjb2
     verified: false
-    hashtags: "#sedona, #travel, #outdoors, #nature"
+    hashtags: "#nature, #sedona, #travel, #outdoors"
   - username: "legally_yogi"
     fullname: >-
       Vanisha W
@@ -79,52 +115,16 @@ profiles:
     id: ckapbbmgqzaz60i78awcmu6kw
     verified: false
     hashtags: "#yogiinspiration, #yogaeveryday, #yogini, #yogagirl"
-  - username: "cdenice"
+  - username: "natashgetslost"
     fullname: >-
-      Christian Denice
+      Natasha Ponciano Travel Yogi
     bio: >-
-      Choreographer | Dancer Yoga Instructor Los Angeles
+      Owner @lostlotusyoga Yoga Teacher RYT 500, E-RYT 200 ✨ Email for Private Yoga Inquiries
     location: "United States"
-    followers: 21863
-    engagement: 398
-    commentsToLikes: 0.017747
-    id: ck8syxi5umebu0j78sd1u37ir
+    followers: 4052
+    engagement: 966
+    commentsToLikes: 0.104763
+    id: ck5q8sj1q7sb70i11nau3tbau
     verified: false
-    hashtags: "#dancersofinstagram, #choreographer, #choreography, #dance"
-  - username: "naturallysu"
-    fullname: >-
-      Susanna🦄 Clean Beauty
-    bio: >-
-      Active on 🎨 @susaleena.art 🌱#cleanbeauty | Travel | Yoga #nomakeupmakeup is my jam Native New Yorker🗽➡️ Austin,TX 🇨🇱VP, Search & Social Media
-    location: "United States"
-    followers: 13259
-    engagement: 358
-    commentsToLikes: 0.087477
-    id: ck15tyrhbkkgi0i197os9us44
-    verified: false
-    hashtags: "#notsponsored, #motd, #sanjuanpuertorico, #teampixel"
-  - username: "flowwithshreya"
-    fullname: >-
-      Shreya P.
-    bio: >-
-      Yoga Teacher, Mindful Mama, Sustainable Living Going with the flow and keeping it real. 👇🏼 YouTube, Blog, Links 📍 Las Vegas, NV #FlowWithShreya
-    location: "United States"
-    followers: 11904
-    engagement: 113
-    commentsToLikes: 0.078600
-    id: ck8t80mraio780j78bz4dw8no
-    verified: false
-    hashtags: "#csectionmama, #doseofwellness, #flowwithshreya, #throwbackthursday"
-  - username: "zobootiful"
-    fullname: >-
-      Zoe Weinlader
-    bio: >-
-      ASU Alumni Yoga Sculpt Instructor Health & Wellness Enthusiast 💛🍌 NASM Certified Personal Trainer & Nutrition Coach
-    location: "United States"
-    followers: 2333
-    engagement: 1667
-    commentsToLikes: 0.033023
-    id: ck6ttu7alclyd0j713bcae4r1
-    verified: false
-    hashtags: "#nationalboyfriendday, #instagramboyfriend, #iykyk"
+    hashtags: "#natashgetslost, #lostlotusyoga, #functionalwater, #owntheoneyou"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Brazil In 2023
+title: Top 10 Barbers TikTok Influencers In Brazil In 2024
 description: >-
-  Find top barbers TikTok influencers in Brazil in 2023. Most popular hashtags: #tiktok #barbershop #barber #foryou.
+  Find top barbers TikTok influencers in Brazil in 2024. Most popular hashtags: #tiktok #barbershop #barber #brasil.
 platform: TikTok
 hits: 14
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 14 TikTok influencers like this in Brazil for you to contact.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 14 TikTok influencers like this in Brazil for you to connect with.
 profiles:
   - username: "rodrigorezende17"
     fullname: >-

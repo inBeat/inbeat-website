@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Ireland In 2023
+title: Top 10 Food TikTok Influencers In Ireland In 2024
 description: >-
-  Find top food TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #foodie #foryoupage #food.
+  Find top food TikTok influencers in Ireland in 2024. Most popular hashtags: #fyp #foodie #food #foryoupage.
 platform: TikTok
 hits: 40
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat holds 40 TikTok influencers like this in Ireland for you to connect with.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our database aggregates 40 TikTok influencers like this in Ireland for you to pitch.
 profiles:
   - username: "foxy.wanderer"
     fullname: >-

@@ -1,24 +1,24 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Belgium In 2023
+title: Top 10 Vegan Instagram Influencers In Belgium In 2024
 description: >-
-  Find top vegan Instagram influencers in Belgium in 2023. Most popular hashtags: #vegan #belgium #food.
+  Find top vegan Instagram influencers in Belgium in 2024. Most popular hashtags: #vegan #foodblogger #foodie #belgianblogger.
 platform: Instagram
-hits: 14
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 14 Instagram influencers like this in Belgium for you to pitch.
+hits: 19
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database holds 19 Instagram influencers like this in Belgium for you to connect with.
 profiles:
-  - username: "jottiverbruggen"
+  - username: "lexharlee"
     fullname: >-
-      ♥ JOTTI VERBRUGGEN
+      Lex
     bio: >-
-      ⭐️ Professional Freelance Model 🍏 #plantbased #vegan nutritionist to be 🥒🌱 📧 MNGMT: peter@absolutep.com Info@jottiverbruggen.com @absolutepagency
+      LA Fitness•Vegan•Producer Panamanian & Belgian
     location: "Belgium"
-    followers: 27615
-    engagement: 491
-    commentsToLikes: 0.107879
-    id: ck5py0gootqr30i1112cyzzpw
+    followers: 68256
+    engagement: 1370
+    commentsToLikes: 0.016974
+    id: ck5hf8yliwd0b0i118glo6s22
     verified: false
-    hashtags: "#photoshoot, #modelshoot, #hair, #sony"
+    hashtags: "#sistersister"
   - username: "jirkobruyninckxphotography"
     fullname: >-
       Belgian Model Photographer
@@ -31,18 +31,30 @@ profiles:
     id: ckf5lcb0vp23z0j23fndgrwm8
     verified: false
     hashtags: "#naturallight, #blackandwhitephotography, #blackandwhite, #boudoir"
-  - username: "lexharlee"
+  - username: "alia.rds"
     fullname: >-
-      Lex
+      Alizée ❤️‍🔥
     bio: >-
-      LA @lexharleefitness coming soon Fitness•Vegan•Producer Panamanian & Belgian
+      🐷 Ça graille fort ici 👩🏻‍🍳 Cool cheffe @gorditaliege
     location: "Belgium"
-    followers: 77400
-    engagement: 1162
-    commentsToLikes: 0.017735
-    id: ck5hf8yliwd0b0i118glo6s22
+    followers: 28186
+    engagement: 397
+    commentsToLikes: 0.056209
+    id: ck5zsef7gycbi0i14x80rg8ta
     verified: false
-    hashtags: "#sistersister"
+    hashtags: "#lespetitsplatsdali, #recettesaine, #vegetarien, #vegan"
+  - username: "3fonteinen"
+    fullname: >-
+      Brouwerij 3 Fonteinen
+    bio: >-
+      Lambikbrouwerij en Geuzestekerij.
+    location: "Belgium"
+    followers: 45896
+    engagement: 226
+    commentsToLikes: 0.012794
+    id: ck0tyf8xrmkcy0i19qym5v523
+    verified: false
+    hashtags: "#lambiclovers, #vegan, #3fonteinen, #organicfarming"
   - username: "naturellebynatalia"
     fullname: >-
       Naturelle by Natalia
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.208017
     id: ck5c0dklqsxlt0i115g2doh5u
     verified: false
-    hashtags: "#beautyofstillmoments, #f52grams, #still, #prettylittlethings"
+    hashtags: "#soapmaking, #eatcaptureshare, #bakeitforward, #foodartproject"
   - username: "freeoversea"
     fullname: >-
       
@@ -67,64 +79,52 @@ profiles:
     id: ck13692ep5cji0i19u4ps4dn1
     verified: false
     hashtags: "#yogapractice, #vegan, #plantbased, #yogaeveryday"
-  - username: "jana.raveydts"
+  - username: "sixobject"
     fullname: >-
-      Jana Raveydts
+      NOVA W.
     bio: >-
-      🇧🇪 Aalst sinds juni ‘21 🏠 🌈 Verzot op veel kleur en leuke plekjes ontdekken 📸 #contentcreator 💌 Samenwerken? janaraveydts@live.be / dm
+      BA Photography MA Cultural Studies creation + curation 🄾🄱🄹🄴🄲🅃🅂 of my affection & fascination 🤍🪐🍸🐩 ⠀ ✈︎: 37 countries visited
     location: "Belgium"
-    followers: 8707
-    engagement: 311
-    commentsToLikes: 0.191810
-    id: ckaotxs5rxz7m0i78mar1yzhp
+    followers: 11545
+    engagement: 1328
+    commentsToLikes: 0.225513
+    id: cld8ldtjgdfpj0j08pp9d6g20
     verified: false
-    hashtags: "#sunshine, #toureiffel, #collab, #paris"
-  - username: "janiceracaj"
+    hashtags: "#love, #aestheticedits, #gemstones, #brusselsexhibition"
+  - username: "sylvia_foodlover"
     fullname: >-
-      FINALISTE MISS FASHION 2022 🦋
+      Sylvia
     bio: >-
-      🇧🇪🇽🇰, Belgium based 📖| Real estate student 📧| janice.racaj@gmail.com 🤍| Finaliste Miss Fashion 2021-2022
+      ❤️Receptontwikkelaar ❤️Foodfotografie & Styling ❤️samenwerken ? BTW BE 0785.264.290 MET VRIJSTELLINGSREGEL - 8400 OOSTENDE
     location: "Belgium"
-    followers: 7989
-    engagement: 657
-    commentsToLikes: 0.397008
-    id: ckf5sbvnuf7aa0j23diw9a5hu
+    followers: 8874
+    engagement: 508
+    commentsToLikes: 0.330085
+    id: ck136ee6462vs0i19be3995bz
     verified: false
-    hashtags: "#loavies, #aexme, #girlsgoneloavies, #strongersweden"
-  - username: "nelegilis"
+    hashtags: "#homecooking, #eat, #whatsonmyplate, #comfortfood"
+  - username: "hap_en_tap"
     fullname: >-
-      Nele Gilis
+      Myriam Minne l Culi blogger
     bio: >-
-      Professional squash player Belgian #1 🇧🇪 and World #12 🌎 🥇 European Champion 2019
+      ➢ 🇧🇪 Foodblog Award Winner Best Baking & Sweets ➢ Ambassador @falconbelgium @robthegourmetsmarket ➢ FCB 💙🖤 ➢ Check my FREE recipes 👇
     location: "Belgium"
-    followers: 15795
-    engagement: 907
-    commentsToLikes: 0.032484
-    id: ck14lnv1wvll40i19bdvrx99n
+    followers: 36385
+    engagement: 242
+    commentsToLikes: 0.128358
+    id: ck8tdpvji4by00j78iaoi24rt
     verified: false
-    hashtags: "#savetheplanet, #vegan, #mentalhealthawareness, #familytime"
-  - username: "lafilleagateaux"
+    hashtags: "#foodlover, #foodphotography, #summerbaking, #homecook"
+  - username: "claesvirginie"
     fullname: >-
-      Kristel - Travel Blogger
+      Giny Has A Story
     bio: >-
-      Travel, lifestyle & food blogger 🌍 Content Creator | Story Teller | 📍Bxl but wanderlust spirit 🗺 Spending summer in #italy
+      Sois belle et tais-toi 😜 🎤Events/TV-host KanaalZ 📺-moderator Events Stafmedewerker Universiteit Hasselt Handelsingenieur MissBelgium2006🇧🇪
     location: "Belgium"
-    followers: 33641
-    engagement: 254
-    commentsToLikes: 0.035338
-    id: ck13anyz9rbif0i198idr8gqq
+    followers: 30362
+    engagement: 226
+    commentsToLikes: 0.021786
+    id: ck6ui63hkdag90j71bar6e59m
     verified: false
-    hashtags: "#shein, #food, #cotebelge, #brussels"
-  - username: "annalaurkaaa"
-    fullname: >-
-      A N N A  L A U R A
-    bio: >-
-      ♡ 🎭🎼 A képek felhasználása engedélyköteles! @annaxlaurka egy fanoldal!❤️ NE jelentse senki!
-    location: "Belgium"
-    followers: 20435
-    engagement: 1247
-    commentsToLikes: 0.002269
-    id: ck0u6ajkj1iey0i19u80u5joz
-    verified: false
-    hashtags: "#instafamehu, #mutimitiszol, #reklam, #eg"
+    hashtags: "#love, #ibiza, #friends, #louisenclaire"
 ---

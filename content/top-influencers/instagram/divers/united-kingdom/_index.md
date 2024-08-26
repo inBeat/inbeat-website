@@ -1,12 +1,48 @@
 ---
-title: Top 10 Divers Instagram Influencers In United Kingdom In 2023
+title: Top 10 Divers Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top divers Instagram influencers in United Kingdom in 2023. Most popular hashtags: #love #fitnessmotivation #reels.
+  Find top divers Instagram influencers in United Kingdom in 2024. Most popular hashtags: #fitness #diving #recovery.
 platform: Instagram
-hits: 176
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 176 Instagram influencers like this in United Kingdom for you to pitch.
+hits: 238
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 238 Instagram influencers like this in United Kingdom for you to collaborate.
 profiles:
+  - username: "rosshaslam"
+    fullname: >-
+      ROSS HASLAM
+    bio: >-
+      Sheffield • GB Diver 🇬🇧 @nurokor ⚡ @w_modelmgmt
+    location: "United Kingdom"
+    followers: 48605
+    engagement: 593
+    commentsToLikes: 0.018963
+    id: ck6u0et9yf9y20j71rbaojvga
+    verified: false
+    hashtags: "#instafit, #sport, #fitness, #athlete"
+  - username: "matthew_dixon19"
+    fullname: >-
+      Matthew Dixon
+    bio: >-
+      🔹22 🔹GB Diver 🔹x2 Commonwealth Medalist 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🔹x3 European Medalist 🇪🇺 🔹x3 British Champion 🇬🇧
+    location: "United Kingdom"
+    followers: 37025
+    engagement: 931
+    commentsToLikes: 0.010648
+    id: ck6u0es3ff9oz0j71tzcy61gg
+    verified: true
+    hashtags: "#pushit, #tbt"
+  - username: "jacklaugher"
+    fullname: >-
+      Jack Laugher MBE
+    bio: >-
+      Yorkshireman • Diver • Dog Dad •Olympic Gold, Silver & Bronze medalist• 🥇🥈🥉 •5 time Commonwealth Champion• LONDON 🇬🇧 RIO 🇧🇷 TOKYO 🇯🇵
+    location: "United Kingdom"
+    followers: 286940
+    engagement: 432
+    commentsToLikes: 1.008404
+    id: ckxp7y9d6a1ll0j23dou10ehf
+    verified: false
+    hashtags: "#petsathome, #easyrepeat, #goldenretriever, #teamgb"
   - username: "vampuk"
     fullname: >-
       VAMP
@@ -18,113 +54,77 @@ profiles:
     commentsToLikes: 0.031358
     id: ckprgr6if81xo0j23d0bh2tua
     verified: false
-    hashtags: "#vamppr, #wakandaforever, #vampfamily, #pressedpodcast"
-  - username: "rosshaslam"
+    hashtags: "#vamppr, #vampfamily, #wakandaforever, #pressedpodcast"
+  - username: "the_abundant_word"
     fullname: >-
-      ROSS HASLAM
+      ♒️✍🏾Stephanie • Books & Beta Reader Life🇯🇲🇬🇧
     bio: >-
-      Sheffield • GB Diver 🇬🇧 @nurokor ⚡ @scienceinsport 🍎 @w_modelmgmt 👉 craig@wmodel.co.uk
+      - Here to inspire diverse reading & writing from London, UK - Alpha|beta|sensitivity reader - Blog, info, goodies ⤵️
     location: "United Kingdom"
-    followers: 46718
-    engagement: 809
-    commentsToLikes: 0.015460
-    id: ck6u0et9yf9y20j71rbaojvga
+    followers: 7093
+    engagement: 270
+    commentsToLikes: -0.603481
+    id: cl59vfimv2yfh0i23lgf5f8ka
     verified: false
-    hashtags: "#instafit, #workout, #training, #fitness"
-  - username: "4cchronicles"
+    hashtags: "#readingcommunity, #bookblogger, #igbooks, #bookstagrammer"
+  - username: "nathanramsayy"
     fullname: >-
-      4C • C H R O N I C L E S
+      Nathan Ramsay
     bio: >-
-      👩🏾‍🔬💊 A journey of Health&Growth | 🇬🇧 Celebrating 4C diversity 📧 4cchronicles@gmail.com
+      Movement | Fashion Member of @diversity_official Tiktok - Nathanramsayy (1.3M) Enquiries - danielle@wearediversity.co.uk nathan_ramsay@hotmail.co.uk
     location: "United Kingdom"
-    followers: 17436
-    engagement: 462
-    commentsToLikes: 0.070542
-    id: ck15sl11ldjk00i19fh7g2geh
+    followers: 318769
+    engagement: 253
+    commentsToLikes: 0.009768
+    id: ck5hixm7tfndh0i118dlcg7c6
     verified: false
-    hashtags: "#marleytwist, #braidout, #flexirods, #twists"
-  - username: "francescabanjo"
+    hashtags: "#jungkook, #laurengottlieb, #keonemadrid, #diversity"
+  - username: "kayceesworld"
     fullname: >-
-      Francesca Banjo
+      Sherelee Savage
     bio: >-
-      ▪️Wife❤️ ▪️Mummy to Rose & Micah 👨‍👩‍👧‍👦 ▪️Professional Husband organiser 👩🏼‍💻 ▪️enquiries- info@diversitydance.co.uk
+      𝗠𝗼𝘁𝗵𝗲𝗿 𝗮𝗻𝗱 𝗱𝗮𝘂𝗴𝗵𝘁𝗲𝗿 𝗱𝘂𝗼 Nuro diverse Flexi schooling The fat friend @savage_slimming Awaiting life saving heart surgery UK family holidays
     location: "United Kingdom"
-    followers: 97955
-    engagement: 651
-    commentsToLikes: 0.012192
-    id: ck13d4tjf3osz0i19jdjuu3nd
-    verified: false
-    hashtags: "#micahdiaries, #rosiediaries, #family, #familytime"
-  - username: "morganplom_"
-    fullname: >-
-      Morgan Plom
-    bio: >-
-      📍London DM/Email for teaching workshops 💫 Diversity’s ‘Connected’ tour tickets below👇🏼
-    location: "United Kingdom"
-    followers: 10650
-    engagement: 574
-    commentsToLikes: 0.031029
-    id: ck5hixxclfnve0i11awrjv8lk
-    verified: false
-    hashtags: "#dancechallenge, #dancersofinstagram, #dancereels, #gifted"
-  - username: "alettrich"
-    fullname: >-
-      ALEX 🐚 LETTRICH
-    bio: >-
-      If you're not barefoot then you're overdressed diver | nurtured by nature ZA + FL ☼ team @diver.usa @rawelementsusa ✉️ lettrichalex@gmail.com
-    location: "United Kingdom"
-    followers: 47542
-    engagement: 515
-    commentsToLikes: 0.029486
-    id: ck0twdknxf0x80i19g1m9xaqt
-    verified: false
-    hashtags: "#voteforchange, #staysaltyflorida, #padi, #wildlingsouls"
-  - username: "darceybussellofficial"
-    fullname: >-
-      Darcey Bussell
-    bio: >-
-      Darcey Bussell DBE - Former Principal of The Royal Ballet & Strictly Judge. President of the RAD, Creator of @diversedancemix www.youtube.com/c/DDMIX
-    location: "United Kingdom"
-    followers: 167462
-    engagement: 174
-    commentsToLikes: 0.013939
-    id: ck0vx2mjxwu5r0i192slymfxa
-    verified: true
-    hashtags: "#britishballetcharitygala, #englishnationalballet, #birminghamroyalballet, #scottishballet"
-  - username: "yonakw"
-    fullname: >-
-      Yona Knight-Wisdom
-    bio: >-
-      🇯🇲 Diver Enquiries to sam@metisathlete.com Supported by @levirootsmusic Smuggling with @budgysmuggler
-    location: "United Kingdom"
-    followers: 35781
-    engagement: 304
-    commentsToLikes: 0.015508
-    id: ck6u0evepfa840j71ht8ukj23
-    verified: true
-    hashtags: "#lockdowntrim, #pancakeday, #cancerdeadlineday, #coffinlay"
-  - username: "tmhgram"
-    fullname: >-
-      Theo
-    bio: >-
-      16, Videographer, media editor, animator, photographer, dancer. 7 UK tours with Diversity. ADHD and autism
-    location: "United Kingdom"
-    followers: 13344
-    engagement: 500
-    commentsToLikes: 0.026248
-    id: ck6u80wqvoshd0j71nnhzkpg6
-    verified: false
-    hashtags: "#justice, #blm, #equality, #wearediversity"
-  - username: "iraisavampire"
-    fullname: >-
-      Ira Giorgetti 📷✨
-    bio: >-
-      capturing joy, connection and diversity in the big smoke 📸🇬🇧 fashion, portraits, lifestyle and culture 🎞🥀 lensman at @harrods 🏢💎 get in touch below👇
-    location: "United Kingdom"
-    followers: 9871
+    followers: 45808
     engagement: 237
-    commentsToLikes: 0.122681
-    id: ck5zsdavyyaeq0i14yb0c3vrc
+    commentsToLikes: 0.125027
+    id: ck5zv77u13pm80i1467td8m09
     verified: false
-    hashtags: "#portra160, #contaxg2, #portra400, #mamiyarz67"
+    hashtags: "#flexischoolinguk, #tonsilectemy, #gudyu, #mrshincharmy"
+  - username: "benpechey"
+    fullname: >-
+      Ben Pechey
+    bio: >-
+      Author, Presenter, DE&I Consultant & LGBTQIA Advocate @tedxlondon Speaker @diversityrm Ambassador
+    location: "United Kingdom"
+    followers: 12804
+    engagement: 312
+    commentsToLikes: 0.092484
+    id: ckq0ivo4xdnie0j236b7mhgsf
+    verified: false
+    hashtags: "#20yearsofoaf, #ad, #chainreactionofjoy, #showingup"
+  - username: "richard_whitehead_mbe"
+    fullname: >-
+      Richard Whitehead MBE
+    bio: >-
+      Paralympic Gold medallist/Humanitarian/Patron/Ambassador, Marathon Runner & Diversity Inclusion Champion. Partners: @nike @nissan @ossur @seikowatchuk
+    location: "United Kingdom"
+    followers: 106163
+    engagement: 126
+    commentsToLikes: 0.069341
+    id: ck0w1dacdisf30i19codrxq2m
+    verified: true
+    hashtags: "#disability, #ad, #wethe15, #impossibletoignore"
+  - username: "jordanbanjo"
+    fullname: >-
+      Jordan Banjo
+    bio: >-
+      @diversity_official Member @kissfmuk Breakfast Show Enquiries - danielle@wearediversity.co.uk Tour Tickets HERE😆👇🏾
+    location: "United Kingdom"
+    followers: 608512
+    engagement: 83
+    commentsToLikes: 0.004564
+    id: ck0uendslluwo0i19a7xrollb
+    verified: true
+    hashtags: "#wearedeichmann, #milliebobbybrown, #beyonce, #blueivy"
 ---

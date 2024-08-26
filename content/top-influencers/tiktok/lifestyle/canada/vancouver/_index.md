@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Vancouver In 2023
+title: Top 10 Lifestyle TikTok Influencers In Vancouver In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Vancouver in 2023. Most popular hashtags: #fyp #vancouver #foryou #canada.
+  Find top lifestyle TikTok influencers in Vancouver in 2024. Most popular hashtags: #fyp #vancouver #foryou #canada.
 platform: TikTok
 hits: 8
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our database aggregates 8 TikTok influencers like this in Vancouver, Canada for you to connect with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our database has 8 TikTok influencers like this in Vancouver, Canada for you to contact.
 profiles:
   - username: "itsbigben"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.021376
     id: ck8f7uvyj38he0j786408yee9
     verified: false
-    hashtags: "#vancouver, #chilliwack, #canada, #britishcolumbia"
+    hashtags: "#britishcolumbia, #vancouver, #chilliwack, #canada"
   - username: "stephencovic"
     fullname: >-
       Stephen Covic
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.055197
     id: ckcdtxztie73a0j23sl51vnfo
     verified: false
-    hashtags: "#ocean, #realtor, #penthouse, #canada"
+    hashtags: "#realestate, #canada, #vancouver, #fyp"
   - username: "majakwei"
     fullname: >-
       Maja Kwei
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.034366
     id: ck9v8tbhyb3ix0j785kt8ravb
     verified: false
-    hashtags: "#vancouverblogger, #travel, #skintechnique, #majakwei"
+    hashtags: "#foryou, #foryoupage, #trending, #beautyvlogger"
   - username: "rakirhaqeb"
     fullname: >-
       RHAQEB
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.020485
     id: ckdte0cb7vjyw0j23nqemd3x2
     verified: false
-    hashtags: "#canada, #foryou, #toocold, #vancouver"
+    hashtags: "#canada, #vancouver, #toocold, #goldenretriever"
   - username: "jas_sandhu31"
     fullname: >-
       Jas Sandhu
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.046196
     id: ckbknm6a8hnz90j23vslju4mi
     verified: false
-    hashtags: "#momsoftiktokclub, #momsontiktok, #boymomma, #duet"
+    hashtags: "#canadianmom, #bestdance, #boymomma, #momsover30"
   - username: "naomileanage"
     fullname: >-
       Naomi Leanage
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.024703
     id: ck806vbblmaom0j78ddv18enc
     verified: false
-    hashtags: "#torontovlog, #tryonhaul, #toronto, #canadian"
+    hashtags: "#canadian, #toronto, #torontovlog, #tryonhaul"
   - username: "samsvsco"
     fullname: >-
       sam 🖤

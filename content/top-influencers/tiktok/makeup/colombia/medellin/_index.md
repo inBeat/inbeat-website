@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Medellín In 2023
+title: Top 10 Makeup TikTok Influencers In Medellín In 2024
 description: >-
-  Find top makeup TikTok influencers in Medellín in 2023. Most popular hashtags: #makeup #parati #challenge #dance.
+  Find top makeup TikTok influencers in Medellín in 2024. Most popular hashtags: #makeup #parati #challenge #dance.
 platform: TikTok
 hits: 5
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 5 TikTok influencers like this in Medellín, Colombia for you to pitch.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 5 TikTok influencers like this in Medellín, Colombia for you to contact.
 profiles:
   - username: "chyo_00"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.020029
     id: ckb1bygb20nbh0j23v28nh6od
     verified: true
-    hashtags: "#lulu99, #challenge, #viral, #comedia"
+    hashtags: "#risa, #transformation, #viral, #comedia"
   - username: "nickimakeup1"
     fullname: >-
       Niickii31 

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Toronto In 2023
+title: Top 10 Home Decor TikTok Influencers In Toronto In 2024
 description: >-
-  Find top home decor TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #homedecor #toronto #tiktokdiy.
+  Find top home decor TikTok influencers in Toronto in 2024. Most popular hashtags: #fyp #homedecor #toronto #canada.
 platform: TikTok
-hits: 21
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our platform holds 21 TikTok influencers like this in Toronto, Canada for you to pitch.
+hits: 22
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 22 TikTok influencers like this in Toronto, Canada for you to work with.
 profiles:
   - username: "lizzi.mov"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck7zo4oe0hrk80j788dym2w4m
     verified: false
     hashtags: "#fyp, #hairtutorials, #homedecor, #beforeandafter"
+  - username: "entyse"
+    fullname: >-
+      Mama Hamo
+    bio: >-
+      More on Instagram ⤴️ Mama Hamo ‘QAHWA’ Candle Bold & Brewtiful DM us on IG.
+    location: "Canada"
+    followers: 235600
+    engagement: 939
+    commentsToLikes: 0.117729
+    id: ckaifngb2xnpw0i78d2kdgmuh
+    verified: false
+    hashtags: "#cookiesandwich, #reaction, #gift, #fyp"
   - username: "sigh.renity"
     fullname: >-
       Sighrenity🌙
@@ -43,6 +55,18 @@ profiles:
     id: ckaury299x05d0j23kcv1fif9
     verified: false
     hashtags: "#indian, #starbuckshack, #starbucks, #makeuphaul"
+  - username: "jasmine.lorimer"
+    fullname: >-
+      Jasmine Lorimer
+    bio: >-
+      (she/her) Once upon a time I was The Bachelorette Canada 🇨🇦
+    location: "Canada"
+    followers: 111800
+    engagement: 773
+    commentsToLikes: 0.032209
+    id: ck8nhzv463cxf0j78yz8796um
+    verified: false
+    hashtags: "#canadatok, #canadian, #canada, #ontheice"
   - username: "samanthalajeunesse_"
     fullname: >-
       Samantha-Rose
@@ -55,18 +79,18 @@ profiles:
     id: ck9nieahrgv4w0j78vmacxnsm
     verified: false
     hashtags: "#pourtoi, #bestie, #fyp, #magiefondvert"
-  - username: "entyse"
+  - username: "sarahjenkinsxo"
     fullname: >-
-      Mama Hamo
+      Sarah Jenkins
     bio: >-
-      More on Instagram ⤴️ Mama Hamo ‘QAHWA’ Candle Bold & Brewtiful DM us on IG.
+      Hey, my name is Sarah ✌🏼 I make daily vlogs about my life 🎥 🇨🇦 Toronto / 24
     location: "Canada"
-    followers: 235600
-    engagement: 939
-    commentsToLikes: 0.117729
-    id: ckaifngb2xnpw0i78d2kdgmuh
+    followers: 91200
+    engagement: 1091
+    commentsToLikes: 0.018802
+    id: ck90r2h2bkuzv0j787dqdtqt8
     verified: false
-    hashtags: "#cookiesandwich, #thankyou, #gift, #reaction"
+    hashtags: "#dailyvlog, #bedtimeroutine, #dayinthelife, #minivlog"
   - username: "emscourtney"
     fullname: >-
       Emma
@@ -78,7 +102,7 @@ profiles:
     commentsToLikes: 0.088157
     id: ckace9kecltqt0i78fzu4m3f9
     verified: false
-    hashtags: "#tiktokdiy, #catsoftiktok, #xyzabc, #homediy"
+    hashtags: "#xyzabc, #tiktokdiy, #homedecor, #catsoftiktok"
   - username: "letitiakiu"
     fullname: >-
       Letitia Kiu
@@ -97,34 +121,10 @@ profiles:
     bio: >-
       Toronto🇨🇦 20 for legal reasons, these are jokes
     location: "Canada"
-    followers: 3882
-    engagement: 656
-    commentsToLikes: 0.049494
+    followers: 4282
+    engagement: 634
+    commentsToLikes: 0.047087
     id: ckdszej38r9mf0j23fron9sb7
     verified: false
-    hashtags: "#fyp, #wipeitdown, #duet, #nfyp"
-  - username: "mandervillegallery"
-    fullname: >-
-      James Manderville
-    bio: >-
-      Photographer - in galleries in Toronto and Los Angeles
-    location: "Canada"
-    followers: 4191
-    engagement: 692
-    commentsToLikes: 0.040098
-    id: cka0yvs5icxue0i78w4etbobx
-    verified: false
-    hashtags: "#fyp, #shopping, #scary, #decor"
-  - username: "sarahjenkinsxo"
-    fullname: >-
-      Sarah Jenkins
-    bio: >-
-      Hey, my name is Sarah ✌🏼 I make daily vlogs about my life 🎥 🇨🇦 Toronto / 24
-    location: "Canada"
-    followers: 91200
-    engagement: 1091
-    commentsToLikes: 0.018802
-    id: ck90r2h2bkuzv0j787dqdtqt8
-    verified: false
-    hashtags: "#dailyroutine, #bedtimeroutine, #dailyvlogger, #nightin"
+    hashtags: "#fyp, #xyzbca, #keepingitcute, #wipeitdown"
 ---

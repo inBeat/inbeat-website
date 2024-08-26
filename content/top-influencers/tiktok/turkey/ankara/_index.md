@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Ankara In 2023
+title: Top 10 TikTok Influencers In Ankara In 2024
 description: >-
-  Find top TikTok influencers in Ankara in 2023. Most popular hashtags: #ankara #ke #tiktok.
+  Find top TikTok influencers in Ankara in 2024. Most popular hashtags: #ankara #ke #tiktok.
 platform: TikTok
 hits: 329
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our database holds 329 TikTok influencers like this in Ankara, Turkey for you to pitch.
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our platform has 329 TikTok influencers like this in Ankara, Turkey for you to contact.
 profiles:
   - username: "tahaburaak06"
     fullname: >-

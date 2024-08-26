@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Italy In 2023
+title: Top 10 Guitar TikTok Influencers In Italy In 2024
 description: >-
-  Find top guitar TikTok influencers in Italy in 2023. Most popular hashtags: #perte #guitar #fyp #duetto.
+  Find top guitar TikTok influencers in Italy in 2024. Most popular hashtags: #perte #guitar #fyp #music.
 platform: TikTok
 hits: 30
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our search engine holds 30 TikTok influencers like this in Italy for you to work with.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine holds 30 TikTok influencers like this in Italy for you to connect with.
 profiles:
   - username: "_twinsquad_official"
     fullname: >-
@@ -23,14 +23,14 @@ profiles:
     fullname: >-
       Simona Sansovini
     bio: >-
-      Guitarist 🎸🇮🇹 (211K on IG)
+      Songwriter/ Guitarist 🎸🇮🇹 (220K on IG)
     location: "Italy"
-    followers: 42300
-    engagement: 1082
-    commentsToLikes: 0.038254
+    followers: 43000
+    engagement: 1217
+    commentsToLikes: 0.038985
     id: ck9ekj4wp6orm0j78b8cglo18
     verified: false
-    hashtags: "#bluesguitar, #guitarist, #guitar, #femaleguitarist"
+    hashtags: "#guitarblues, #femaleguitarist, #slideguitar, #guitar"
   - username: "fedesixstring"
     fullname: >-
       Federico Cartello
@@ -71,14 +71,14 @@ profiles:
     fullname: >-
       Pietro Morello
     bio: >-
-      Ciao! Sono Pietro e amo suonare! (Ogni tanto faccio arrabbiare i miei vicini)😂
+      Ciao sono Pietro e amo suonare ⬇️Qui trovi tutto quello che mi riguarda⬇️
     location: "Italy"
-    followers: 1100000
-    engagement: 2052
-    commentsToLikes: 0.012021
+    followers: 1300000
+    engagement: 1960
+    commentsToLikes: 0.009164
     id: ckc3ebqxkzu620j23o241m148
     verified: true
-    hashtags: "#morelloimpara, #piano, #viral, #fyp"
+    hashtags: "#music, #fyp, #viral, #morelloimpara"
   - username: "reddwin"
     fullname: >-
       Edwin
@@ -109,12 +109,12 @@ profiles:
     bio: >-
       🏴‍☠️CIURMA🏴‍☠️ Benvenuti sull’account ufficiale del Capitano!
     location: "Italy"
-    followers: 20400
-    engagement: 1058
-    commentsToLikes: 0.019992
+    followers: 55200
+    engagement: 907
+    commentsToLikes: 0.020073
     id: cka6oq6ckgioj0i7847ul87pp
-    verified: false
-    hashtags: "#pervoi, #perte, #dragonball, #giorgiovanni"
+    verified: true
+    hashtags: "#pervoi, #siglecartonianimati, #giorgiovanni, #perte"
   - username: "lucyvanpelt4"
     fullname: >-
       Lucy Vanpelt

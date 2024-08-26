@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Lisbon In 2023
+title: Top 10 Fashion Instagram Influencers In Lisbon In 2024
 description: >-
-  Find top fashion Instagram influencers in Lisbon in 2023. Most popular hashtags: #fashion #portugal #lisbon #ootd.
+  Find top fashion Instagram influencers in Lisbon in 2024. Most popular hashtags: #lisbon #portugal #fashion #summer.
 platform: Instagram
-hits: 26
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database holds 26 Instagram influencers like this in Lisbon, Portugal for you to work with.
+hits: 42
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database has 42 Instagram influencers like this in Lisbon, Portugal for you to connect with.
 profiles:
   - username: "brunagaliano_"
     fullname: >-
@@ -18,67 +18,67 @@ profiles:
     commentsToLikes: 0.024331
     id: ck8tb4ctxu7ub0j78jl5614zn
     verified: false
-    hashtags: "#praiadosalem, #melanina, #stayhome, #summer"
-  - username: "catarina.fernandees"
+    hashtags: "#albufeira, #stayhome, #summer, #melanina"
+  - username: "vpereira_"
     fullname: >-
-      Catarina Fernandes
+      Vanessa Pereira
     bio: >-
-      • Content Creator • Lagos/Lisbon • Fashion and Lifestyle • PR, Digital & Brand: gustavo@centralmodels.pt • Founder: @caetanashop 🤍
+      lisbon 🦀🪐 marketing & communication account manager at @deepatt.pt 💌 vfmcpereira@gmail.com
     location: "Portugal"
-    followers: 97960
-    engagement: 391
-    commentsToLikes: 0.065325
-    id: ck1374d9y9pu80i19hpf69j8k
+    followers: 67780
+    engagement: 191
+    commentsToLikes: 0.014869
+    id: ck5py6fsdujl70i11e5tukfu4
     verified: false
-    hashtags: "#lookdacate, #grwm, #fashion, #ootd"
-  - username: "iamfabioteles"
-    fullname: >-
-      F A B I O • T E L E S
-    bio: >-
-      - @centralmodels 🇵🇹 @nevsmodels 🇬🇧 For model, Digital & Brands: • Gustavo@centralmodels.pt (manager) - @myproteinpt Ambassador
-    location: "Portugal"
-    followers: 219684
-    engagement: 369
-    commentsToLikes: 0.011520
-    id: ck5qdynmfxw7z0i118o9xwukj
-    verified: false
-    hashtags: "#porto, #lisboa, #algarve, #outfit"
-  - username: "alicetrewinnard"
-    fullname: >-
-      Alice Trewinnard
-    bio: >-
-      From Lisbon, Portugal @tarwifoods Fashion, beauty & healthy living Represented by @Notable.pt YouTube Channel
-    location: "Portugal"
-    followers: 269425
-    engagement: 1129
-    commentsToLikes: 0.006114
-    id: ck134v13sybqz0i19a00owtxx
-    verified: true
-    hashtags: "#anossahistoriachegouaosim, #pub, #cas, #wearetarwi"
+    hashtags: "#beach, #ipanema, #dinner, #riodejaneiro"
   - username: "tarlajb"
     fullname: >-
-      Tarla Barbosa 🌙
+      Tarla Barbosa Romano
     bio: >-
-      Fashion,Interior design and more. Lisbon, Portugal with @centralmodels PR & Digital: susana@centralmodels.pt
+      Lisbon📍Fashion with a hint of interior. Model & Interior Designer with @centralmodels PR & Digital: renatabranquinho@centralmodels.pt 🎥YOUTUBE
     location: "Portugal"
-    followers: 26960
-    engagement: 73
-    commentsToLikes: 0.029684
+    followers: 23295
+    engagement: 21
+    commentsToLikes: 0.046764
     id: ck55j31a2w5710i11jw6lnuzb
     verified: false
-    hashtags: "#loveyourselffirst, #ootd, #camelcoatoutfit, #tezenis"
+    hashtags: "#pub, #casalgarcia, #parceria, #jewelleryhaul"
   - username: "goncaloasilva"
     fullname: >-
       Gonçalo Silva
     bio: >-
-      Portuguese Photographer #goncalosilva #film #lisbon
+      📸 Lisbon Portuguese #goncalosilva
     location: "Portugal"
-    followers: 28937
-    engagement: 160
-    commentsToLikes: 0.017782
+    followers: 28165
+    engagement: 168
+    commentsToLikes: 0.027938
     id: ck6ueo5ois3q90j71b3ki618u
     verified: false
-    hashtags: "#portra800, #lisbon, #film, #goncalosilva"
+    hashtags: "#portra800, #filmphotography, #cannesfilmfestival, #men"
+  - username: "marianabaptistaa_"
+    fullname: >-
+      Mariana Baptista | Creative
+    bio: >-
+      ⋒ Creative content creator ≀ fashion & makeup lover ⋆ ☺︎︎ Lisbon, Portugal ✎ marydeedslife@gmail.com
+    location: "Portugal"
+    followers: 11101
+    engagement: 421
+    commentsToLikes: 0.305960
+    id: ck5c38bn8ys9y0i11apm4fvxf
+    verified: false
+    hashtags: "#photoediting, #photoedit, #casualmentesentada, #creative"
+  - username: "carolinavneto"
+    fullname: >-
+      Carolina Neto
+    bio: >-
+      📍Lisbon From Algarve - Law Graduate - FASHION & LIFESTYLE @thenextlevel.marketing 💌carolinacvneto@gmail.com TikTok: carolinavneto
+    location: "Portugal"
+    followers: 54578
+    engagement: 107
+    commentsToLikes: 0.207128
+    id: ckap2ltnrzee50i78f8b53moc
+    verified: false
+    hashtags: "#zaraoutfit, #fashionweek, #ootdshare, #zaralook"
   - username: "pedromartins_insta"
     fullname: >-
       MENS FASHION STYLE
@@ -91,40 +91,40 @@ profiles:
     id: ck9hb1jjnezmj0j78ofy1vzmi
     verified: false
     hashtags: ""
-  - username: "rafaelaalexandra0"
+  - username: "_vitoriamota"
     fullname: >-
-      Rafaela Duarte | Healthy 💫
+      Vitória Mota
     bio: >-
-      🌱 wellness | food | lifestyle 📖 Marketing e Publicidade 📍 Lisboa, Portugal 😋 PROZIS: RAFAELADUARTE 💻 @ellephant.pt 💫YouTube
+      🪬🐈‍⬛🪽🧿✨ @lagence_lisboa @next @viewmanagement @kultsouthafrica @louisamodels
     location: "Portugal"
-    followers: 55768
-    engagement: 522
-    commentsToLikes: 0.029931
-    id: ckapbzw1a1xic0i78r1nx98i6
+    followers: 74580
+    engagement: 28
+    commentsToLikes: 0.002455
+    id: ck0vxre5m0c0z0i19deeooo6e
     verified: false
-    hashtags: "#healthychoices, #veganfood, #eathealthy, #healthylifestyle"
-  - username: "marianacardia"
+    hashtags: "#shorthair, #love, #sun, #lisbon"
+  - username: "itsanahilima"
     fullname: >-
-      Mαяιαηα 🌹
+      Anahí Lima
     bio: >-
-      📍Lisbon 🇵🇹 👩🏼‍🎓:ciências da comunicação 💖: Beauty - Fashion - Travel 💓 📩: prettyinpinkgeral@gmail.com 🖥: www.prettyinpink.pt⠀ ⠀⠀⠀🛍⠀@dailypinkootd
+      Angolana 🇦🇴 | 🇵🇹 A estudar marketing digital em Barcelona 🇪🇸 Fundadora e Gestora da @analucosmetics 📧 Itsanahilima@gmail.com
     location: "Portugal"
-    followers: 16563
-    engagement: 540
-    commentsToLikes: 0.089691
-    id: ck8t6uh2eeqch0j78kg2sj6w0
+    followers: 47797
+    engagement: 767
+    commentsToLikes: 0.016681
+    id: ck9wdx0obhnf90j78h8mughsz
     verified: false
-    hashtags: "#dresslily, #dresses, #dresslilyfashion, #newdresses"
-  - username: "inestakestheworld"
+    hashtags: "#portugal, #madrid, #lisboa, #turismodeportugal"
+  - username: "joaoocatarino"
     fullname: >-
-      INÊS | TRAVEL & PHOTOGRAPHY
+      João Catarino 🚀
     bio: >-
-      ✈️ Travel Blogger ✈️ @ilovemychocolatebox code: INESTAKESTHEWORLD10 📍Portuguese girl based in Lisbon ⬇️ CHECK MY BLOG FOR MORE TRAVEL TIPS
+      Lisbon, Portugal | Based on a true story Fashion | Lifestyle Contact: joaocatarinocollab@gmail.com
     location: "Portugal"
-    followers: 9620
-    engagement: 485
-    commentsToLikes: 0.085845
-    id: ck0vyou0h529o0i19ka8kor50
+    followers: 32808
+    engagement: 644
+    commentsToLikes: 0.164195
+    id: ck14ghphx5a3s0i19h8r68xkn
     verified: false
-    hashtags: "#dametraveler, #portugaltravel, #sheisnotlost, #roamingwomen"
+    hashtags: "#galaxywandersquad, #kapadokya, #galaxyzflip5, #outfit"
 ---

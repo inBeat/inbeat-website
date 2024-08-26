@@ -1,11 +1,11 @@
 ---
-title: Top 10 Djs TikTok Influencers In India In 2023
+title: Top 10 Djs TikTok Influencers In India In 2024
 description: >-
-  Find top djs TikTok influencers in India in 2023. Most popular hashtags: #foryoupage #trending #tiktokindia #foryou.
+  Find top djs TikTok influencers in India in 2024. Most popular hashtags: #foryoupage #trending #tiktokindia #foryou.
 platform: TikTok
 hits: 62
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 62 TikTok influencers like this in India for you to work with.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 62 TikTok influencers like this in India for you to pitch.
 profiles:
   - username: "sagardehraj"
     fullname: >-

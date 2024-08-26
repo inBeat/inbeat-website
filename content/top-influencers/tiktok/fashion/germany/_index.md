@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Germany In 2023
+title: Top 10 Fashion TikTok Influencers In Germany In 2024
 description: >-
-  Find top fashion TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #fyp #fashion #fy.
+  Find top fashion TikTok influencers in Germany in 2024. Most popular hashtags: #foryou #fyp #fashion #fy.
 platform: TikTok
 hits: 253
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 253 TikTok influencers like this in Germany for you to work with.
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 253 TikTok influencers like this in Germany for you to pitch.
 profiles:
   - username: "skp.tv"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.087911
     id: ckbeymy2kj7zw0j23ls333ojh
     verified: false
-    hashtags: "#fitcheck, #berlinstyle, #style, #springoutfit"
+    hashtags: "#style, #springoutfit, #fashiontiktok, #grwm"
   - username: "promitalk"
     fullname: >-
       PromiTalk
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.024527
     id: ck8oxkjvs2v8u0j78ohk1x8t6
     verified: false
-    hashtags: "#glowup, #blondgirl, #viral, #4you"
+    hashtags: "#foryou, #glowup, #trend, #4you"
   - username: "rosekanal_"
     fullname: >-
       Emy🌹

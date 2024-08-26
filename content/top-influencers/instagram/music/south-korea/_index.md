@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music Instagram Influencers In South Korea In 2023
+title: Top 10 Music Instagram Influencers In South Korea In 2024
 description: >-
-  Find top music Instagram influencers in South Korea in 2023. Most popular hashtags: #koreadj #electromusic #musicislife.
+  Find top music Instagram influencers in South Korea in 2024. Most popular hashtags: #idol #btsv #last.
 platform: Instagram
-hits: 125
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 125 Instagram influencers like this in South Korea for you to pitch.
+hits: 132
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 132 Instagram influencers like this in South Korea for you to contact.
 profiles:
   - username: "harutya_"
     fullname: >-
@@ -19,6 +19,54 @@ profiles:
     id: ck0vz9unl81dh0i19z0i9a9fm
     verified: false
     hashtags: "#smo, #favgaming, #escape, #syumagi"
+  - username: "hannahhbahng"
+    fullname: >-
+      hannah bahng
+    bio: >-
+      Abysmal MUSIC VIDEO OUT NOW🩶
+    location: "South Korea"
+    followers: 2518718
+    engagement: 1598
+    commentsToLikes: 0.005105
+    id: cl4l97m4au0hi0i2352ywdypw
+    verified: false
+    hashtags: "#hannahbahng, #theabysmalep, #abysmal, #perfectblues"
+  - username: "code_kunst"
+    fullname: >-
+      CODE KUNST
+    bio: >-
+      @duoverofficial hope my music makes you feel at home ⭕️✖️
+    location: "South Korea"
+    followers: 1235899
+    engagement: 670
+    commentsToLikes: 0.005110
+    id: ck0w2thohq3ou0i19et0pgz41
+    verified: true
+    hashtags: "#perrierjouet, #abbey, #bensherman, #kithseoul"
+  - username: "namu_bear"
+    fullname: >-
+      Mina 🧿
+    bio: >-
+      i like art & music | based in Seoul 🇰🇷 (🇪🇸) ✉️ PR/협찬 문의: DM/e-mail code NAMUBEAR for 10% off Cokodive
+    location: "South Korea"
+    followers: 87894
+    engagement: 252
+    commentsToLikes: 0.014552
+    id: ck0u1firwwog80i19o855g17q
+    verified: false
+    hashtags: "#kpopcollection, #bt21merch, #btsmerchandise, #btsroom"
+  - username: "official_g_i_dle"
+    fullname: >-
+      (G)I-DLE (여자)아이들
+    bio: >-
+      7th Mini Album [I SWAY] ‘클락션 (Klaxon)' Official Music Video
+    location: "South Korea"
+    followers: 13249446
+    engagement: 139
+    commentsToLikes: 0.002105
+    id: ck0w2tz57q65j0i194e7s8wcg
+    verified: true
+    hashtags: "#gidle, #last, #klaxon, #shuhua"
   - username: "zu.won_moon.jun.won"
     fullname: >-
       주원
@@ -79,52 +127,4 @@ profiles:
     id: ck6ubrgy6b9xj0j714wr82ssm
     verified: true
     hashtags: "#chasehenny, #ineedachachabeatboy, #chachamalone, #h1ghrmusic"
-  - username: "dj_youkeep"
-    fullname: >-
-      유지/DJyoukeep
-    bio: >-
-      🎶YOUKEEP MY MUSIC VOL.5 MIX SET👇🏻
-    location: "South Korea"
-    followers: 25989
-    engagement: 341
-    commentsToLikes: 0.024056
-    id: ck5cjv95fvklp0i112ofrwh0r
-    verified: false
-    hashtags: "#djyoukeep, #youkeep, #dj, #koreadj"
-  - username: "ymboym"
-    fullname: >-
-      유민
-    bio: >-
-      @pablo_mu2ik_official [DOOR] Music Video
-    location: "South Korea"
-    followers: 4651
-    engagement: 1696
-    commentsToLikes: 0.030788
-    id: ck5qcngfnrfg90i113zrlqmo8
-    verified: false
-    hashtags: "#pablomu2ik, #ymboym"
-  - username: "fromis_9"
-    fullname: >-
-      FROMIS_9 ( 프로미스나인)
-    bio: >-
-      Welcome to Fanpage Dedicated #FROMIS_9 Fandom Name: FLOVER (플로버) ❤️ Debut 20180124 🎉 “Feel Good (SECRET CODE)” Music Videos 👇
-    location: "South Korea"
-    followers: 100266
-    engagement: 436
-    commentsToLikes: 0.002903
-    id: ck0tufs726yqv0i19ehcl8zh6
-    verified: false
-    hashtags: "#fromis, #gam"
-  - username: "iceyesee"
-    fullname: >-
-      IC - Music Creator
-    bio: >-
-      📱+150k on TikTok @iceyesee 🎵 I want to make you discover Electro Pop Music with Oriental Influences 🎶 👇🏽New Single « Douceur, Couleur, Chaleur »🔊
-    location: "South Korea"
-    followers: 10389
-    engagement: 511
-    commentsToLikes: 0.104110
-    id: ck9hd0ra9noa20j780wt943mk
-    verified: false
-    hashtags: "#spotifyartist, #popsinger, #deezermusic, #musicproducing"
 ---

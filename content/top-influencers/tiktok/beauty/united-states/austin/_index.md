@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Austin In 2023
+title: Top 10 Beauty TikTok Influencers In Austin In 2024
 description: >-
-  Find top beauty TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #beauty #foryou #texas.
+  Find top beauty TikTok influencers in Austin in 2024. Most popular hashtags: #fyp #beauty #texas #foryou.
 platform: TikTok
-hits: 52
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 52 TikTok influencers like this in Austin, United States for you to collaborate.
+hits: 51
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 51 TikTok influencers like this in Austin, United States for you to work with.
 profiles:
   - username: "blubumblebri"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckcunkg1ni2kr0j23g3ybd2se
     verified: false
     hashtags: "#zodiacsigns, #zodiac, #pickle, #yummy"
+  - username: "sarahadamhafez"
+    fullname: >-
+      sarahadamhafez
+    bio: >-
+      IG + Youtube ☝🏼 Shop Clarins Gentle Renewing Cleaning Mousse 👇🏼
+    location: "United States"
+    followers: 414500
+    engagement: 1331
+    commentsToLikes: 0.029069
+    id: ck9v17oyhftsz0j78zt9qgyyk
+    verified: false
+    hashtags: "#interiordesign, #hometour, #texas, #husbandandwife"
   - username: "haley.snider"
     fullname: >-
       Haley Snider
@@ -115,16 +127,4 @@ profiles:
     id: ckcvhpb3ouj450j23ijke3qf8
     verified: false
     hashtags: "#viennagown, #model, #viennaprom, #viennaangel"
-  - username: "batlee52"
-    fullname: >-
-      Batlee
-    bio: >-
-      King:kmohn93💖 #quinntets #whow3are #c3ws
-    location: "United States"
-    followers: 27200
-    engagement: 1144
-    commentsToLikes: 0.115751
-    id: ckan5l0p6fjny0i78ely92quf
-    verified: false
-    hashtags: "#blueeyedbabes, #airpodsjump, #artistoftheweek, #austinhall"
 ---

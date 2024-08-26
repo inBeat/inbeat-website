@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Dallas In 2023
+title: Top 10 Fitness TikTok Influencers In Dallas In 2024
 description: >-
-  Find top fitness TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #fitness #duet #foryoupage.
+  Find top fitness TikTok influencers in Dallas in 2024. Most popular hashtags: #fyp #foryoupage #fitness #dallas.
 platform: TikTok
-hits: 31
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 31 TikTok influencers like this in Dallas, United States for you to work with.
+hits: 29
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 29 TikTok influencers like this in Dallas, United States for you to contact.
 profiles:
   - username: "ashedge13"
     fullname: >-
@@ -67,18 +67,6 @@ profiles:
     id: ckbqpaeg0a2zz0j23v6h6x1wj
     verified: false
     hashtags: "#fypage, #funny, #fitover40, #foryou"
-  - username: "jaylanefit"
-    fullname: >-
-      J Lane
-    bio: >-
-      👻jayseeon SUB TO MY YT🎥 HOW BAD DO YOU WANT LEAN BULK PROGRAM⬇️ BUFF->DALLAS
-    location: "United States"
-    followers: 162000
-    engagement: 1450
-    commentsToLikes: 0.018590
-    id: ckbfbr3m1417c0j23gfvkh35s
-    verified: false
-    hashtags: "#fitness, #gymtok, #legday, #bodybuilding"
   - username: "s_boozie"
     fullname: >-
       Sean Bouzigard
@@ -115,16 +103,28 @@ profiles:
     id: ckb9d6b49077c0j23coite7ts
     verified: false
     hashtags: "#foryoupage, #foryou, #greenscreen, #duet"
-  - username: "misslanell"
+  - username: "parul.nagpal"
     fullname: >-
-      Lanell Rogers
+      Purukitchen
     bio: >-
-      🔥IG: lanell_rogers 🔥FITNESS & FASHION
+      Food 🥗 & Fitness 💪🏻 Like, Share and Subscribe - Puru’s Kitchen 🇺🇸🇮🇳
     location: "United States"
-    followers: 45100
-    engagement: 657
-    commentsToLikes: 0.042914
-    id: ckb9neumngzye0j237jq4bavd
+    followers: 214600
+    engagement: 252
+    commentsToLikes: 0.018884
+    id: ck9eukgq8e60a0j78qanhejs4
     verified: false
-    hashtags: "#texassnowstorm2021, #fitness, #fashion, #fitnessroutine"
+    hashtags: "#vegetarianfood, #homechef, #vegan, #realsimple"
+  - username: "statickiss"
+    fullname: >-
+      ⚡️💋Statickiss
+    bio: >-
+      
+    location: "United States"
+    followers: 2831
+    engagement: 1040
+    commentsToLikes: 0.066030
+    id: ck8key137bkvl0j78fmbdikhb
+    verified: false
+    hashtags: "#nature, #explore, #viral, #hike"
 ---

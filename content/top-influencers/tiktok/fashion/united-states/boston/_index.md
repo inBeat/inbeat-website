@@ -1,24 +1,12 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Boston In 2023
+title: Top 10 Fashion TikTok Influencers In Boston In 2024
 description: >-
-  Find top fashion TikTok influencers in Boston in 2023. Most popular hashtags: #fyp #fashion #boston #foryou.
+  Find top fashion TikTok influencers in Boston in 2024. Most popular hashtags: #fyp #fashion #boston #foryou.
 platform: TikTok
-hits: 29
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our platform has 29 TikTok influencers like this in Boston, United States for you to contact.
+hits: 31
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 31 TikTok influencers like this in Boston, United States for you to contact.
 profiles:
-  - username: "jessalltoohuman"
-    fullname: >-
-      Jessica Knez
-    bio: >-
-      Int’l fashion buyer, Owner of @alltoohumanboston (IG)
-    location: "United States"
-    followers: 3747
-    engagement: 426
-    commentsToLikes: 0.031695
-    id: ck8p00g2nekr60j78ooqz36rs
-    verified: false
-    hashtags: "#alltoohumanboston, #nyfw, #sallylapointe, #fashion"
   - username: "themanjuan"
     fullname: >-
       TheManJuan
@@ -55,18 +43,42 @@ profiles:
     id: ckdh11xqurobh0j23s3wr0o6k
     verified: false
     hashtags: "#englishmajor, #godzillavskongroar, #thebadbatch, #plussizeedition"
-  - username: "lisaxphan"
+  - username: "kykybebeh"
     fullname: >-
-      Lisa Phan
+      kykybebeh
     bio: >-
-      🤠🤚
+      follow your dreams, but also follow me IG: @kykybebeh Hawaii || Boston
     location: "United States"
-    followers: 17900
-    engagement: 835
-    commentsToLikes: 0.017250
-    id: ck9fxjk056vwb0j788humu0iv
-    verified: true
-    hashtags: "#ootd, #aritzia, #outfit, #dior"
+    followers: 2867
+    engagement: 625
+    commentsToLikes: 0.018655
+    id: ckd09azygbi3q0j23sb78gprn
+    verified: false
+    hashtags: "#fashion, #baseball, #college, #boston"
+  - username: "jessalltoohuman"
+    fullname: >-
+      Jessica Knez
+    bio: >-
+      Int’l fashion buyer, Owner of @alltoohumanboston (IG)
+    location: "United States"
+    followers: 3684
+    engagement: 382
+    commentsToLikes: 0.034355
+    id: ck8p00g2nekr60j78ooqz36rs
+    verified: false
+    hashtags: "#boston, #nyfw, #alltoohumanboston, #fashion"
+  - username: "decorbysid94"
+    fullname: >-
+      Decorbysid
+    bio: >-
+      Amazon must haves, Decor, explore, food & more! Email: decorbysid@yahoo.com
+    location: "United States"
+    followers: 24000
+    engagement: 518
+    commentsToLikes: 0.015681
+    id: cka0lj16jrazv0i78k2r299bz
+    verified: false
+    hashtags: "#catsoftiktok, #fyp, #amazonmusthaves, #amazon"
   - username: "t1mmy8"
     fullname: >-
       Tim
@@ -103,18 +115,6 @@ profiles:
     id: ck8ufv0uw37m90j78d12v27we
     verified: false
     hashtags: "#wlw, #fyp, #greenscreen, #foryou"
-  - username: "kykybebeh"
-    fullname: >-
-      kykybebeh
-    bio: >-
-      follow your dreams, but also follow me IG: @kykybebeh Hawaii || Boston
-    location: "United States"
-    followers: 2898
-    engagement: 545
-    commentsToLikes: 0.026148
-    id: ckd09azygbi3q0j23sb78gprn
-    verified: false
-    hashtags: "#fashion, #sports, #baseball, #fyp"
   - username: "ian.brownhill"
     fullname: >-
       Ian

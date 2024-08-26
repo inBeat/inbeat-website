@@ -1,12 +1,24 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Japan In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Japan In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Japan in 2023. Most popular hashtags: #artwork #illustration #graphicdesign.
+  Find top graphic-designers Instagram influencers in Japan in 2024. Most popular hashtags: #artwork #illustration #graphicdesign.
 platform: Instagram
 hits: 29
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 29 Instagram influencers like this in Japan for you to collaborate.
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 29 Instagram influencers like this in Japan for you to work with.
 profiles:
+  - username: "hazelfire"
+    fullname: >-
+      JENNY | NYC
+    bio: >-
+      graphic designer fashion · beauty · lifestyle heyhazelfire@gmail.com discount codes ↓
+    location: "Japan"
+    followers: 17400
+    engagement: 8
+    commentsToLikes: 0.000000
+    id: ck15q3d580wao0i19x5xd7qpt
+    verified: false
+    hashtags: "#mykm, #gifted, #hazelfirejapan, #hazelfireintaiwan"
   - username: "__freetree__"
     fullname: >-
       Danny 🇯🇵
@@ -115,16 +127,4 @@ profiles:
     id: ck5q6dqw5wzmv0i11frdd2wd6
     verified: false
     hashtags: "#repost, #stayhome, #indoor, #yamanashi"
-  - username: "eric_flowerboy"
-    fullname: >-
-      Eric Aleson
-    bio: >-
-      🇲🇾 | Graphic Designer 🌷 | Flower Boy @flowerboy_studio 📧 | ericlim0117@gmail.com 🦷 | @irafflesdental_kl
-    location: "Japan"
-    followers: 57122
-    engagement: 193
-    commentsToLikes: 0.003535
-    id: ck5hnu9z2oejl0i11mvdin5qk
-    verified: false
-    hashtags: "#uniqlomy, #simplemadebetter, #mylifewear, #uniqlou"
 ---

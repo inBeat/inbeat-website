@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Brazil In 2023
+title: Top 10 Comedians TikTok Influencers In Brazil In 2024
 description: >-
-  Find top comedians TikTok influencers in Brazil in 2023. Most popular hashtags: #humor #comedia #fy #standupcomedy.
+  Find top comedians TikTok influencers in Brazil in 2024. Most popular hashtags: #humor #comedia #fy #standupcomedy.
 platform: TikTok
 hits: 1228
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 1228 TikTok influencers like this in Brazil for you to work with.
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 1228 TikTok influencers like this in Brazil for you to collaborate.
 profiles:
   - username: "gil_reis"
     fullname: >-

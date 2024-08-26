@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Colombia In 2023
+title: Top 10 Health TikTok Influencers In Colombia In 2024
 description: >-
-  Find top health TikTok influencers in Colombia in 2023. Most popular hashtags: #colombia #fyp #parati #healthy.
+  Find top health TikTok influencers in Colombia in 2024. Most popular hashtags: #colombia #fyp #parati #workout.
 platform: TikTok
 hits: 9
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 9 TikTok influencers like this in Colombia for you to pitch.
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 9 TikTok influencers like this in Colombia for you to pitch.
 profiles:
   - username: "j.p.med"
     fullname: >-

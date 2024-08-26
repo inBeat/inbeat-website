@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Barcelona In 2023
+title: Top 10 Beauty Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top beauty Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #beauty #love #lifestyle.
+  Find top beauty Instagram influencers in Barcelona in 2024. Most popular hashtags: #fashion #barcelona #beauty #style.
 platform: Instagram
-hits: 86
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 86 Instagram influencers like this in Barcelona, Spain for you to pitch.
+hits: 103
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 103 Instagram influencers like this in Barcelona, Spain for you to pitch.
 profiles:
   - username: "soniamarnez"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck55mkgzu45xl0i11gsygurfh
     verified: false
     hashtags: "#journalist, #igersbarcelona, #beauty, #barcelona"
-  - username: "dr.alejandro.segarra"
-    fullname: >-
-      Dr. Alejandro Segarra
-    bio: >-
-      Diplomado Internacional de Med Estética 📍Barcelona y Madrid. 📞Información/citas 930107517 (BCN)
-    location: "Spain"
-    followers: 53832
-    engagement: 229
-    commentsToLikes: 0.037778
-    id: ck55kbo51yxte0i11zato21js
-    verified: false
-    hashtags: ""
   - username: "familishome"
     fullname: >-
       F A M I L I ‘ S   H O M E  🌸
@@ -42,7 +30,7 @@ profiles:
     commentsToLikes: 0.234149
     id: ck6u3igg5xz220j715klj0obb
     verified: false
-    hashtags: "#pinkducklondon, #primor, #onlinecosmeticos, #maquillajeespa"
+    hashtags: "#onlinecosmeticos, #nyxespa, #skinglazing, #beautybaycom"
   - username: "almassaofficiel"
     fullname: >-
       🤍 Amina 🤍
@@ -55,18 +43,18 @@ profiles:
     id: ck9weo4yrl5aq0j785neeajcp
     verified: false
     hashtags: "#lifestyleblogger, #shootingphoto, #fashionstyle, #style"
-  - username: "juliaamuratet"
+  - username: "rosa_cabadas"
     fullname: >-
-      JULS
+      Viajando_con_Rosa
     bio: >-
-      🎓 Protocol & Management | Advertising & PR 💼 Owner @thehumstore 👸🏼 Miss Barcelona @missandmisterstarspain 📩 juliaamuratet@gmail.com 🌍 Barcelona | 26
+      Me encanta viajar y la fotografia✈️📸 Sin mi cámara no salgo de casa😍 📍Madrileña viviendo en Torrevieja,Alicante 🇪🇸 ⬅️🇲🇦🇫🇷🇳🇱🇪🇬🇧🇪🇪🇸🇵🇹 ➡️?
     location: "Spain"
-    followers: 20364
-    engagement: 401
-    commentsToLikes: 0.030183
-    id: ck8t6yda8f2n40j78swa7cbe3
+    followers: 7205
+    engagement: 1432
+    commentsToLikes: 0.121793
+    id: ckap4uqoh8yhk0i785zh0i0yl
     verified: false
-    hashtags: "#me, #cute, #barcelona, #summer"
+    hashtags: "#instantes, #turismo, #spain, #espacio"
   - username: "trendy_lover"
     fullname: >-
       Sara Martín
@@ -79,52 +67,64 @@ profiles:
     id: ckaoxffm4d0wl0i78f7k6afkb
     verified: false
     hashtags: "#cadarayodesol, #blush, #indolaspain, #luxeandjewels"
-  - username: "carlawonderland29"
+  - username: "museecoco"
     fullname: >-
-      • C A R L A •
+      museecoco • content creator
     bio: >-
-      ❤Moda 💆‍♀️Belleza 🌍Viajes 🚇Lifestyle 👉Mi Dia a Dia en Stories👈 💌Colaboraciones.carla@gmail.com 🎥Youtube +73K➡️Carlawonderland
+      Barcelona • fashion, food, beauty & lifestyle ✉️ museecocobluebell@gmail.com 🧸 Tiktok: museecoco ☆ 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 (+100k)
     location: "Spain"
-    followers: 47989
-    engagement: 1003
-    commentsToLikes: 0.334376
-    id: ck9web4jmjhqt0j78zp8wl7uq
+    followers: 18330
+    engagement: 4
+    commentsToLikes: 0.000000
+    id: ck5cayc58ed2d0i11ziatqdy4
     verified: false
-    hashtags: "#sun, #relax, #ad, #verano"
-  - username: "pompomilicious"
-    fullname: >-
-      Pompomilicious | DogLifeStyle
-    bio: >-
-      🌟 | Somos la Pomifamily 👩🏻‍🦰 | Beauty & DIY 🧔🏻 | Music & Food 🦊 | Pomeranians & Fun 👑 | Embajadores: @laboutiquedeldiamante
-    location: "Spain"
-    followers: 29282
-    engagement: 154
-    commentsToLikes: 0.191842
-    id: ck6uiihp4fa160j713w267gja
-    verified: false
-    hashtags: "#japanesespitz, #dog, #love, #pomeranianpage"
-  - username: "domenikadiana"
-    fullname: >-
-      Diana Titova
-    bio: >-
-      Ukrainian baby 🇪🇦 UNO Models (MA) 🇭🇰 Synergy Models Hong Kong📍 Business contact: patricia@unomodels.com
-    location: "Spain"
-    followers: 3069
-    engagement: 1088
-    commentsToLikes: 0.048250
-    id: ckap0nufqr43a0i78943v1v3g
-    verified: false
-    hashtags: "#stradivarius, #moda, #ootd, #outfits"
+    hashtags: "#probandocomida, #probandorestaurantes, #planesbarcelona, #restaurantesbarcelona"
   - username: "anacrank"
     fullname: >-
       ANA CRANK
     bio: >-
       *Ana Garcia* *Lulu * Martina💕 My shop @cranksitges @fashmaskofficial 👗Fashion ✈ 🍴️Lifestyle💄Beauty 👭 Kids 📍Barcelona 💌anacrank.style@gmail.com
     location: "Spain"
-    followers: 43397
-    engagement: 257
-    commentsToLikes: 0.144402
+    followers: 43076
+    engagement: 211
+    commentsToLikes: 0.170815
     id: ck6u1jxpcm6ro0j71svvagtc2
     verified: false
-    hashtags: "#outfits, #casualstyle, #inwearing, #happy"
+    hashtags: "#hairstyle, #look, #family, #outfits"
+  - username: "_ines.brown_"
+    fullname: >-
+      𝑰𝑵𝑬𝑺 🖤
+    bio: >-
+      Live a Life you will remember.
+    location: "Spain"
+    followers: 3594
+    engagement: 1499
+    commentsToLikes: 0.035610
+    id: ck8szmvnxp1dc0j78lju19wam
+    verified: false
+    hashtags: "#me, #christmasgirl, #glam, #cute"
+  - username: "liahbk"
+    fullname: >-
+      Lia
+    bio: >-
+      🇩🇪🇬🇧🇪🇸 La vida virtual no es la vida real❗️ Journalist | Model | Reporter🎥 Digital Communication IM CLINIC 👩🏼‍🎓Periodismo & Comunicación
+    location: "Spain"
+    followers: 21087
+    engagement: 213
+    commentsToLikes: 0.125190
+    id: ck14kgdv1pe340i195h6kxhsx
+    verified: false
+    hashtags: "#inspo, #outfitinspiration, #oton, #snow"
+  - username: "la_missale"
+    fullname: >-
+      Alessia Laudoni
+    bio: >-
+      pHOTograpHER 💙 Portrait Beauty Fashion 🇮🇹 made in Italy Barcelona and rest of the 🌍 Yogini 🧘‍♀️
+    location: "Spain"
+    followers: 11631
+    engagement: 478
+    commentsToLikes: 0.038009
+    id: ck15tzrsqkpnm0i19hid8vbp8
+    verified: false
+    hashtags: "#editorial, #fashionshoot, #gosee, #photo"
 ---

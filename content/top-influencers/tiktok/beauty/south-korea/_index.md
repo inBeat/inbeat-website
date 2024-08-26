@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In South Korea In 2023
+title: Top 10 Beauty TikTok Influencers In South Korea In 2024
 description: >-
-  Find top beauty TikTok influencers in South Korea in 2023. Most popular hashtags: #foryou #beauty #fyp #makeup.
+  Find top beauty TikTok influencers in South Korea in 2024. Most popular hashtags: #beauty #foryou #fyp #makeup.
 platform: TikTok
-hits: 36
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 36 TikTok influencers like this in South Korea for you to collaborate.
+hits: 37
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database has 37 TikTok influencers like this in South Korea for you to contact.
 profiles:
   - username: "leeinsoo_"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.017845
     id: ckb9qgaxgm9680j23bazbl0u1
     verified: false
-    hashtags: "#seoul, #germany, #kpop, #seoulkorea"
+    hashtags: "#koreanfashion, #seoullife, #spring, #koreaseoul"
   - username: "ara_spring"
     fullname: >-
       Ara_spring

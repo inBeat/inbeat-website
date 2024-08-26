@@ -1,130 +1,130 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Australia In 2023
+title: Top 10 Chefs Instagram Influencers In Australia In 2024
 description: >-
-  Find top chefs Instagram influencers in Australia in 2023. Most popular hashtags: #chef #foodie #recipes.
+  Find top chefs Instagram influencers in Australia in 2024. Most popular hashtags: #chef #dogdad #allezaus.
 platform: Instagram
-hits: 65
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 65 Instagram influencers like this in Australia for you to connect with.
+hits: 105
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 105 Instagram influencers like this in Australia for you to collaborate.
 profiles:
-  - username: "chicko9"
+  - username: "hughsallen"
     fullname: >-
-      Chicko Segeyaro
+      H U G H    A L L E N
     bio: >-
-      Born in 🇵🇬 raised in 🇦🇺|SYD| co-founder of @yktr_ And @help_yah_self head chef |twitter: @CSegeyaro
+      Executive Chef @vuedemonde Boon wurrung | Wurundjeri Country Melbourne | Australia
     location: "Australia"
-    followers: 61151
-    engagement: 333
-    commentsToLikes: 0.010947
-    id: ck15tuisljyvf0i191mddxfp3
-    verified: true
-    hashtags: ""
-  - username: "chef_aussie_angel"
-    fullname: >-
-      Chef Aussie Angel
-    bio: >-
-      Sassy/cute Australian cat model/chef of delectable sweet treats!🍰 Rescued with Dex🐱 🐶Bro @aussie_winston_ @always__whiskered 10% Disc AUSSIEANGEL10
-    location: "Australia"
-    followers: 4915
-    engagement: 840
-    commentsToLikes: 0.271419
-    id: ck8t3ozzc3ybl0j78gokjf89r
+    followers: 39892
+    engagement: 459
+    commentsToLikes: 0.016269
+    id: ck0vzswlsar5k0i19qiioddh8
     verified: false
-    hashtags: "#catsofinstagrams, #catmodel, #cats, #cat"
-  - username: "fueledbykhang"
+    hashtags: "#australia, #alandofplenty, #mfwf, #mso"
+  - username: "andyallencooks"
     fullname: >-
-      Khang Nguyen
+      Andy Allen
     bio: >-
-      Professional mi goreng chef @khangdisdat
+      🍺 @travla_ Co-Founder 📺 @masterchefau Judge 🦆 @threeblueducks Co-Owner + Chef 🌿 @sabaorganics Ambassador
     location: "Australia"
-    followers: 4110
-    engagement: 1758
-    commentsToLikes: 0.065725
-    id: ck601ok45fvr90i14vmd2o8x4
+    followers: 342119
+    engagement: 592
+    commentsToLikes: 0.021249
+    id: ck0w3niaxub4o0i19wo0i6ahe
     verified: false
-    hashtags: ""
+    hashtags: "#delverdeaus, #authenticpasta, #madeinabruzzo, #availableincoles"
+  - username: "chef_andrewmcconnell"
+    fullname: >-
+      Andrew McConnell
+    bio: >-
+      Melbourne based chef.
+    location: "Australia"
+    followers: 25390
+    engagement: 380
+    commentsToLikes: 0.035134
+    id: ck5cfg4zvmvwq0i11hb56r8be
+    verified: false
+    hashtags: "#knowyourproducer, #produceawards, #producetoyou, #blackouttuesday"
+  - username: "genghiskhanh"
+    fullname: >-
+      Khanh Nguyen
+    bio: >-
+      Executive chef & part-owner @sunda_dining @arurestaurant @antara.melbourne
+    location: "Australia"
+    followers: 37240
+    engagement: 303
+    commentsToLikes: 0.035622
+    id: ck0w6df1d81xm0i1947sgrk0r
+    verified: false
+    hashtags: "#ad, #drinkresponsibly, #croissants, #butter"
+  - username: "chefsanddogs"
+    fullname: >-
+      Chefs & Dogs | Dan & Court
+    bio: >-
+      🧡 popular pet recipes 📧 admin@chefsanddogs.com 💜 Dan, Court, Joey & Caelan
+    location: "Australia"
+    followers: 149429
+    engagement: 1483
+    commentsToLikes: 0.022644
+    id: ckaorpqjyoa170i78yfg15e5a
+    verified: false
+    hashtags: "#feedfreshchallenge, #kelpie, #dogs, #dogchef"
+  - username: "annameares"
+    fullname: >-
+      Anna Meares
+    bio: >-
+      Mum Chef de Mission @ausolympicteam Commentator @am_pottery_and_art @icmi_speakersandentertainers Author ‘NOW’
+    location: "Australia"
+    followers: 30466
+    engagement: 272
+    commentsToLikes: 0.022625
+    id: ck0w35bpqro1a0i19ktc2dp0h
+    verified: false
+    hashtags: "#paris2024, #allezaus, #cdmeares, #womenleaders"
   - username: "chefjenoracz"
     fullname: >-
       Rácz Jenő
     bio: >-
-      Executive chef / owner * @restaurant_rumour * @akonyhafonok 🔪 Soon to be husband 🤵🏽‍♂️👰🏽‍♀️
+      Chef And co-owner: @restaurant_rumour 1⭐️Michelin @costes_restaurant 1 ⭐️Michelin PR&Marketing: hello@raczjenochef.hu Married to @gydorejj ❤️
     location: "Australia"
-    followers: 220479
-    engagement: 247
-    commentsToLikes: 0.005548
+    followers: 261082
+    engagement: 226
+    commentsToLikes: 0.004256
     id: ck14h1cjn81vf0i19jua3q8cz
     verified: false
-    hashtags: "#felel, #rekl, #belugavodka, #reklam"
-  - username: "daniel.justdessertsau"
+    hashtags: "#mik, #yesmichelinguide, #mystorywithmichelin, #michelin"
+  - username: "shannon_martinez"
     fullname: >-
-      Daniel
+      Shannon Martinez
     bio: >-
-      👉 Official Instagram of Daniel Treacy from Zumbo's Just Desserts 👉 Pastry Chef
+      Owner, chef and author. @smithanddaughters @smithanddeli @_lonamisa_ @alibisydney 100% Vegan cuisine. Management @missusmcreative
     location: "Australia"
-    followers: 17895
-    engagement: 694
-    commentsToLikes: 0.025744
-    id: ck6u3kdazyanl0j712kff21ty
+    followers: 37137
+    engagement: 213
+    commentsToLikes: 0.034399
+    id: ck5cfg9lymw4d0i11kxpgbihh
     verified: false
-    hashtags: "#stayhome"
-  - username: "nicolestevenson_"
+    hashtags: "#ad, #goldengaytime, #tastethedifference, #book4"
+  - username: "chef_adrian_richardson"
     fullname: >-
-      Nicole Stevenson
+      Adrian Richardson ‘Richo’
     bio: >-
-      👩🏼‍🍳Chef 🌮Recipe Developer 🥗 Brand ambassador @333mightymite
+      🧂Salt loves meat & meat loves salt 🍸La Luna Bistro & Bouvier Bar & Grill 🥃BOS Brisbane 🍾Gallery @ Marvel Stadium 😇 Good Chef Bad Chef?
     location: "Australia"
-    followers: 12818
-    engagement: 505
-    commentsToLikes: 0.062744
-    id: ck5zo8jgkpzzt0i14nj7x3g5u
+    followers: 25551
+    engagement: 201
+    commentsToLikes: 0.038622
+    id: ckaoqub1okfmz0i78cso8r8ef
     verified: false
-    hashtags: "#foodie, #brisbanechef, #pastrychef, #yum"
-  - username: "chefitup.com.au"
+    hashtags: "#staysafe, #tasty, #bos, #brisbane"
+  - username: "johntorodecooks"
     fullname: >-
-      Maryam Mounajed
+      John Torode
     bio: >-
-      | Recipe developer | chef | Mum of 2 | Management@chefitup.com.au
+      The Aussie Chef ☀️Loves Food & Drink, . MasterChef UK BBC 1 . John & Lisa’s Weekend Kitchen ITV. Books Available . Loves The Kimberley Australia.
     location: "Australia"
-    followers: 56462
-    engagement: 148
-    commentsToLikes: 0.065797
-    id: ck6u5vpqjc0wv0j71g6j17ktw
-    verified: false
-    hashtags: "#homemade, #recipe, #recipes, #eatme"
-  - username: "cassywallfood"
-    fullname: >-
-      BRISBANE Food - Cassy Wall
-    bio: >-
-      Not a photographer 📸 Not a Chef 👩‍🍳 Just someone who enjoys Food & Lifestyle Brisbane & Beyond 🥂 © cassywallfood 2021
-    location: "Australia"
-    followers: 16634
-    engagement: 282
-    commentsToLikes: 0.151175
-    id: ck5q8eixm5s460i11iaskv34s
-    verified: false
-    hashtags: "#payomoment, #anewwaytopay, #brandedcontent, #gonowpayolater"
-  - username: "davechrs"
-    fullname: >-
-      Dave Christiano
-    bio: >-
-      Executive Chef of @swaloka.restaurant
-    location: "Australia"
-    followers: 10697
-    engagement: 372
-    commentsToLikes: 0.030119
-    id: ck0u0k2pbu1w20i19b16dibts
-    verified: false
-    hashtags: "#ceritajamuanswaloka"
-  - username: "morgan_freemanson"
-    fullname: >-
-      Ethan Morgan
-    bio: >-
-      Snowboarder, DJ, Chef cook, Drummer, Event manager, Model. 1 HOUR VINYL WORK OUT SET FEATURING ETHAN AND COREY MORGAN👇
-    location: "Australia"
-    followers: 29218
-    engagement: 496
-    commentsToLikes: 0.046569
-    id: ck0u21grmykuq0i193aj9wtci
-    verified: false
-    hashtags: "#monsterreels, #bataleongoliath, #corona, #thefreemanshow"
+    followers: 194465
+    engagement: 201
+    commentsToLikes: 0.028901
+    id: ck5hkymu4j9ee0i11ommmcw1c
+    verified: true
+    hashtags: "#honoured, #enchantedprincess, #cruising, #proud"
 ---

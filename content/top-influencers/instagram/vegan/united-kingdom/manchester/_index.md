@@ -1,24 +1,36 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Manchester In 2023
+title: Top 10 Vegan Instagram Influencers In Manchester In 2024
 description: >-
-  Find top vegan Instagram influencers in Manchester in 2023. Most popular hashtags: #vegan #veganuk #veganuary.
+  Find top vegan Instagram influencers in Manchester in 2024. Most popular hashtags: #vegan #veganuk #plantbased #veganfoodshare.
 platform: Instagram
-hits: 21
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 21 Instagram influencers like this in Manchester, United Kingdom for you to contact.
+hits: 28
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database has 28 Instagram influencers like this in Manchester, United Kingdom for you to work with.
 profiles:
+  - username: "avegansplate"
+    fullname: >-
+      imi 🧜🏻‍♀️ vegan fooood 🍜
+    bio: >-
+      🥑🥨🍰🍓🍒🍌🥖🥯🌽🥕🍫 literally just pics of what i eat
+    location: "United Kingdom"
+    followers: 4928
+    engagement: 720
+    commentsToLikes: 0.166239
+    id: ckap4188b5e940i78oheqvfuv
+    verified: false
+    hashtags: "#vegan, #veganism, #veganrecipes, #birminghamvegan"
   - username: "helensveganlife"
     fullname: >-
-      Helen Ashton
+      Helen Ashton - Manchester Vegan
     bio: >-
-      🌎32, Manchester, UK 🌱Easy vegan meals & dining out 🌸Vegan for life since Jan ‘18 🖤DM / email for collabs
+      📍Manchester, UK 🌱Easy vegan meals & restaurant reviews 💌DM / email for collabs
     location: "United Kingdom"
-    followers: 20442
-    engagement: 395
-    commentsToLikes: 0.179542
+    followers: 18448
+    engagement: 56
+    commentsToLikes: 0.016531
     id: ck15r1toe5pvk0i191d4eupcl
     verified: false
-    hashtags: "#veganmeal, #whatveganseat, #healthyvegan, #veganrecipes"
+    hashtags: "#veganlife, #veganjunkfood, #vegantea, #veganmanchester"
   - username: "poweredplantfully"
     fullname: >-
       Rebecca ☾
@@ -30,31 +42,43 @@ profiles:
     commentsToLikes: 0.039829
     id: ck8t0oj7jspp20j78n5fybz4d
     verified: false
-    hashtags: "#antiinflammatorydiet, #stokevegan, #food, #plantbaseddiet"
-  - username: "murphose"
+    hashtags: "#foodphotography, #healthy, #photography, #manchestervegan"
+  - username: "lumisvegan"
     fullname: >-
-      Pamela Olender ✨
+      Lumi’s breakfast journey
     bio: >-
-      • Lifestyle instablogger 💁🏼‍♀️ • Actress 🎭 & photomodel 📸 • Skincare lover & cat owner 🐈 • Manchester, UK📍🇬🇧
+      fin in london
     location: "United Kingdom"
-    followers: 14227
-    engagement: 934
-    commentsToLikes: 0.105104
-    id: ck9weg93qk4ij0j78023d7dnb
+    followers: 47192
+    engagement: 419
+    commentsToLikes: 0.033775
+    id: cllxaogbogy6z0j082z8zzlxs
     verified: false
-    hashtags: "#summervibes, #manchesterblogger, #hastings, #summeroutfits"
-  - username: "laurenaliceknott"
+    hashtags: "#mealprep, #adventskalender, #amsterdam, #granola"
+  - username: "its_lucyjay"
     fullname: >-
-      Lauren ⚡️ HOME WORKOUTS
+      Lucy Jay
     bio: >-
-      A bit of fitness, a bit of fun & some vegan yum⚡️ Manchester @beaybl support code : LAUREN @myproteinuk 37% off : LAUREN Shop my links👇🏼
+      Writer | Creator | SEN mum | Feminist | Vegan Food 🌱 Work in progress: · Snare 📽️ Coming soon: · Sl*t Era 📖 TBA
     location: "United Kingdom"
-    followers: 78059
-    engagement: 96
-    commentsToLikes: 0.084308
-    id: ck15s844cbpis0i19q2ykshfu
+    followers: 10119
+    engagement: 181
+    commentsToLikes: 0.029486
+    id: ckaowrg0ra48m0i78lj1fepi2
     verified: false
-    hashtags: "#yougotthis, #refuelyourambition, #myprotein, #veganuary"
+    hashtags: "#delicious, #plantbased, #vlanduk, #veganplatform"
+  - username: "hey_renu"
+    fullname: >-
+      Renu Bhardwaj
+    bio: >-
+      🌱 Delicious easy budget food waste recipes 👉🏽 Quick vegan/veggie recipes 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Finalist Food influencer 2022 UGC creator
+    location: "United Kingdom"
+    followers: 138062
+    engagement: 121
+    commentsToLikes: 0.136023
+    id: clivee3u22l1x0j08elvhpqbq
+    verified: false
+    hashtags: "#glasgowblogger, #glasgowbloggers, #airfryerrecipes, #vegetarianrecipes"
   - username: "_veganjack"
     fullname: >-
       
@@ -67,64 +91,40 @@ profiles:
     id: ckaorx408p5je0i78epxsbtcp
     verified: false
     hashtags: ""
-  - username: "babyboyoscarjames"
-    fullname: >-
-      Megan, Oscar and Otis
-    bio: >-
-      Oscar James & Otis Thomas ✨ Represented by @nemesiskids #manchester mum DM/email for collabs
-    location: "United Kingdom"
-    followers: 32088
-    engagement: 153
-    commentsToLikes: 0.054356
-    id: ck8sx0x5nfufa0j78erat3up9
-    verified: false
-    hashtags: "#reelstagram, #momtruth, #instamum, #parentingblogger"
-  - username: "_fuxkingfalafel_"
-    fullname: >-
-      yea boi it’s vegan
-    bio: >-
-      Vegan foodie here to show ya that vegans don’t just eat salad !!!!! 📍Manchester 🌱🌸🏳️‍🌈🌙🍔🐘 she/her🧚‍♀️
-    location: "United Kingdom"
-    followers: 22057
-    engagement: 326
-    commentsToLikes: 0.067696
-    id: ck15srx5feits0i192g6hzjom
-    verified: false
-    hashtags: "#shoveitinpastry, #veganmincemonday"
   - username: "twovegansandadog"
     fullname: >-
       Nike & Alex 🌱
     bio: >-
-      👫🏼Vegan Couple (she/her & he/him) from Manchester, U.K. 🌱 Showing how easy veganism can be 💌 twovegansandadog@gmail.com 🐶 Boston Terrier named Rose
+      👫🏼Vegan Couple from Manchester, U.K. 🌱 Showing how easy veganism can be 💌 twovegansandadog@gmail.com 🐶 Boston Terrier named Rose
     location: "United Kingdom"
-    followers: 17630
-    engagement: 657
-    commentsToLikes: 0.052019
+    followers: 20304
+    engagement: 383
+    commentsToLikes: 0.035451
     id: ck8t3j7ss3fuf0j78o7rvl4ww
     verified: false
-    hashtags: "#spreadthecocosecret, #pastathursdaywithnatasha"
-  - username: "edaowofashion"
+    hashtags: "#pastathursdaywithnatasha"
+  - username: "loveraw"
     fullname: >-
-      Damilola
+      LoveRaw
     bio: >-
-      💻Style blogger|📍Manchester/London UK | Blog: Collaborations: edaowo-fashion@hotmail.com
+      THE plant-based chocolate brand 🍫 Zero palm oil or artificial nonsense ✨ @bcorpuk certified 🌱
     location: "United Kingdom"
-    followers: 65711
-    engagement: 223
-    commentsToLikes: 0.091671
-    id: ck15tgx3bi0qz0i19fs1vrk51
+    followers: 83842
+    engagement: 115
+    commentsToLikes: 0.219770
+    id: clid5n8rnzezy0j08e6kgs651
     verified: false
-    hashtags: "#karenmillen, #playdressupwithcoast, #liketkit, #gifted"
-  - username: "thepinkmama"
+    hashtags: "#plantbasedchocolate, #cantbelieveitsvegan, #veganuk, #veganchocolate"
+  - username: "scran.ken"
     fullname: >-
-      Kay Schofield
+      Hannah🍒🍓
     bio: >-
-      💕Mum of 3under3 💕Lifestyle, Reviews, Family+Mental health 💕Plussize + postpartum bodypositivity @thepinkmamahouse Manchester, UK✨Email/dm for Collabs✨
+      Vegan scran and recipes 😘 Glasgow
     location: "United Kingdom"
-    followers: 14987
-    engagement: 329
-    commentsToLikes: 0.113200
-    id: ckf5vqti3pkt80j232zzore2e
+    followers: 7599
+    engagement: 790
+    commentsToLikes: 0.025694
+    id: ckmw1c7zr67vt0j232yiumv1u
     verified: false
-    hashtags: "#bodyconfidencemovement, #manchestermums, #jonpleapp, #pinkobsessed"
+    hashtags: "#glasgowfoodie, #glasgowvegan, #plantbased, #takeaway"
 ---

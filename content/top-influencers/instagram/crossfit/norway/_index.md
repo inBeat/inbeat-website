@@ -1,12 +1,48 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Norway In 2023
+title: Top 10 Crossfit Instagram Influencers In Norway In 2024
 description: >-
-  Find top crossfit Instagram influencers in Norway in 2023. Most popular hashtags: #crossfit #fitness #workout #nutrition.
+  Find top crossfit Instagram influencers in Norway in 2024. Most popular hashtags: #crossfit #fitness #nutrition #workout.
 platform: Instagram
-hits: 104
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 104 Instagram influencers like this in Norway for you to contact.
+hits: 93
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 93 Instagram influencers like this in Norway for you to pitch.
 profiles:
+  - username: "noraangel"
+    fullname: >-
+      Nora Angel
+    bio: >-
+      Norway Personal Trainer | Registered Nurse Online Coach • PT & Head Coach @crossfitlevanger COACHING?👇🏽
+    location: "Norway"
+    followers: 8893
+    engagement: 311
+    commentsToLikes: 0.028945
+    id: ck9hcne6vm5xt0j7868cbv2qb
+    verified: false
+    hashtags: "#egenreklame, #goodgirlsyndrome, #natureisourplayground, #reklame"
+  - username: "lasselom"
+    fullname: >-
+      Lasse L. Matberg 🇳🇴
+    bio: >-
+      Podcast🎙️ @gympodd1 @crossfitlevanger 🏋🏼‍♀️ @crossfitcentrum Manager👩🏽‍💻 @ingridbruvik_ Contact: Ingrid@ingridbruvik.no
+    location: "Norway"
+    followers: 639378
+    engagement: 63
+    commentsToLikes: 0.027949
+    id: ck0vzv64eb1z50i19uhxqx3cx
+    verified: true
+    hashtags: "#treningsreise, #crossfitlevanger, #crossfit, #tromsolove"
+  - username: "colleenfotsch"
+    fullname: >-
+      colleenfotsch
+    bio: >-
+      Data Analyst UC Berkeley Swimming NCAA Champions 2011&2012 CrossFit Games Athlete US National Bobsled Team 2020-2021 🇺🇸 Check Out My Programming ⬇️
+    location: "Norway"
+    followers: 310827
+    engagement: 50
+    commentsToLikes: 0.005255
+    id: ck0tvi9cvbh0i0i19zoag6ouu
+    verified: true
+    hashtags: "#utah, #squat, #crossfit, #progress"
   - username: "_giadamassara_"
     fullname: >-
       Giada Massara
@@ -18,7 +54,7 @@ profiles:
     commentsToLikes: 0.071150
     id: ck5hr9419uhac0i116ngq4l7x
     verified: false
-    hashtags: "#studimediaset, #tacco12, #perledisaggezza, #mylife"
+    hashtags: "#me, #smile, #oodt, #tv"
   - username: "okaprol"
     fullname: >-
       Onur
@@ -91,40 +127,4 @@ profiles:
     id: ck5q4h8k3p0ku0i11apz47mwh
     verified: false
     hashtags: "#wagsandweights, #enjoythejourney, #crossfit, #forgedbyzeus"
-  - username: "maddiesturt"
-    fullname: >-
-      Madeline Sturt
-    bio: >-
-      🇦🇺 Crossfit Games Athlete @reebok @trueprotein @esc_sounds @_mymacrochef @killercoffeeco
-    location: "Norway"
-    followers: 39451
-    engagement: 184
-    commentsToLikes: 0.048260
-    id: ck5zl34kwkncu0i14huw52skk
-    verified: false
-    hashtags: "#reebok, #unifydtraining, #trueprotein, #reebokclassic"
-  - username: "its.marte"
-    fullname: >-
-      Marte
-    bio: >-
-      🇳🇴 Norwegian 🇺🇸 Tampa Living ☀️ Sunshine Lover 🏋🏼‍♀️ CrossFit Newbie
-    location: "Norway"
-    followers: 7586
-    engagement: 567
-    commentsToLikes: 0.054926
-    id: ck9wopigk61xt0j78l3y9o2vl
-    verified: false
-    hashtags: "#gopronorge, #norge, #gopro, #gobucs"
-  - username: "vildeandreassen"
-    fullname: >-
-      Vilde Andreassen Hartviksen
-    bio: >-
-      Bergen, Norway - Registrert Muskelterapeut - Personlig trener og CrossFit L1 Coach - Team: @nocconorge @underarmour @truegearsports
-    location: "Norway"
-    followers: 28775
-    engagement: 295
-    commentsToLikes: 0.028889
-    id: ck0w25z7gmrt60i19ezds63hz
-    verified: false
-    hashtags: "#va, #mai2021, #babyonboard, #grovescones"
 ---

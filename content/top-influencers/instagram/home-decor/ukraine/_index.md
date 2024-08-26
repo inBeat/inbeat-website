@@ -1,118 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Ukraine in 2023
+title: Top 10 Home Decor Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top home decor Instagram influencers in Ukraine in 2023. Most popular hashtags: #homedecor #handmade #art #decor.
+  Find top home decor Instagram influencers in Ukraine in 2024. Most popular hashtags: #homedecor #interiordesign #design #architecture.
 platform: Instagram
-hits: 9
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 9 Instagram influencers like this in Ukraine for you to collaborate.
+hits: 11
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 11 Instagram influencers like this in Ukraine for you to pitch.
 profiles:
-  - username: "_aprilblog_"
+  - username: "yod.group"
     fullname: >-
-      Anna Mitnitskaja
+      YOD.GROUP
     bio: >-
-      ∘ Founder @tothetop.ua ∘ Aesthetic life of a woman
+      Creating World-Class Interiors for Restaurants, Hotels, and More. Comprehensive approach to hospitality design. Working worldwide
     location: "Ukraine"
-    followers: 6072
-    engagement: 308
-    commentsToLikes: 0.025544
-    id: ck0w1q7qsklgc0i19xej9xrck
+    followers: 35927
+    engagement: 96
+    commentsToLikes: 0.013203
+    id: ck5hl7vikjqhb0i11pz351wzs
     verified: false
-    hashtags: "#homedecor, #totalblack, #november, #byredo"
-  - username: "alexandravelichko"
+    hashtags: "#interiorsmagazine, #building, #yoddesign, #homedecor"
+  - username: "igor_sirotov_architects"
     fullname: >-
-      Alexandra Velichko
+      IGOR_SIROTOV_ARCHITECTS
     bio: >-
-      OIL PAINTER 🎨 Kyiv, Ukraine To purchase DM or email Worldwide delivery 🌎 Visual @sea.insideme My cats @marusyamalysh
+      Worldwide interior and exterior design service. Project support everywhere all over the world. 🇺🇦 +380680001011 (Telegram) 🌍 +380938888001 (WhatsApp)
     location: "Ukraine"
-    followers: 144670
-    engagement: 575
-    commentsToLikes: 0.017403
-    id: ck135cbcp0rle0i19kzg2vhe8
+    followers: 178274
+    engagement: 95
+    commentsToLikes: 0.010478
+    id: ck13b1q8dt9dx0i19vf5os5z1
     verified: false
-    hashtags: "#oilpainting, #artgallery, #arts, #painting"
+    hashtags: "#homedecor, #design, #interiordesign, #architecture"
+  - username: "makhno_studio"
+    fullname: >-
+      Makhno Studio
+    bio: >-
+      ARCHITECTURE | INTERIOR | PRODUCT DESIGN Offices: Kyiv, NY📍>> Working all over the world 🌎 @makhno_product
+    location: "Ukraine"
+    followers: 223729
+    engagement: 59
+    commentsToLikes: 0.006423
+    id: ck0vz0c4x6nt10i19e4uuf8nm
+    verified: false
+    hashtags: "#artspace, #makhno, #homedecor, #interiordesign"
   - username: "leaf_ceramics"
     fullname: >-
-      Lᴇᴀғ Cᴇʀᴀᴍɪᴄs
+      Lᴇᴀғ Cᴇʀᴀᴍɪᴄs / Тепла кераміка
     bio: >-
-      Я Ліля, мама 3 діток, яка в декреті стала керамісткою😉 💜ти закохаєшся в мій посуд 💎 @leafs_storre магазин ☘️ @leaf_tile інстаплитка 🌞пиши в direct
+      Я Ліля керамістка, що навчилась всього сама весь процес створення в stories творю на замовлення @leafs_storre магазин @life_leaf_shop еко лавка Сайт
     location: "Ukraine"
-    followers: 23221
-    engagement: 257
-    commentsToLikes: 0.040826
+    followers: 29005
+    engagement: 314
+    commentsToLikes: 0.039547
     id: ck9hcf3mll34c0j78am9mdnwx
     verified: false
-    hashtags: "#handmadeceramics, #decor, #ukrainianceramics, #mug"
-  - username: "osoka.art"
+    hashtags: "#claylove, #pottery, #keramika, #ceramicsart"
+  - username: "jeevaa_design"
     fullname: >-
-      Юлия Осока
+      Дизайн Интерьеров
     bio: >-
-      Художник, керамист, монументалист и все такое. Продаю и с удовольствием общаюсь с вами в директе😀 welcome to direct +38066 2029258
+      ▫️Москва - Ленинградский проспект 36 с40 (ВТБ Арена Парк) ▫️Санкт-Петербург- Набережная Обводного канала 60 оф.109 ▫️Тольятти - Спортивная 45а оф.5
     location: "Ukraine"
-    followers: 69729
-    engagement: 1062
-    commentsToLikes: 0.014451
-    id: ck15t811egs410i19rn7toqk0
+    followers: 272354
+    engagement: 122
+    commentsToLikes: 0.009442
+    id: ck13bmeanw4h30i190xiwmj44
     verified: false
-    hashtags: "#dish, #homedecor, #home, #kitchen"
-  - username: "anna_ragushenko"
+    hashtags: ""
+  - username: "osia2013"
     fullname: >-
-      
+      OSIA YOUTUBE BLOGGER
     bio: >-
-      🕊Семья на первом☝🏻Ждём малыша🤰🏻 🕊Co-owner @em_kids ™️ 🕊 Вдохновляюсь детскими lookами, сервировкой стола и уютом в #ДомНаГоре🏡
+      Beauty | Fashion | Home | Cooking 14 years in Poland🇺🇦 500K+ YouTube channel Instagram PL : @olga.muszynska Contact: olga.donczenko@gmail.com
     location: "Ukraine"
-    followers: 16541
-    engagement: 645
-    commentsToLikes: 0.021284
-    id: ckaozzynno67t0i7828w75flf
+    followers: 238223
+    engagement: 806
+    commentsToLikes: 0.011912
+    id: ck0w3hdw1tf460i1912161s2o
     verified: false
-    hashtags: "#autumn, #pregnancy, #zarakids, #river"
-  - username: "irina_tsokalo"
+    hashtags: "#makeup, #zara, #stylefashion, #vacationmode"
+  - username: "yasalamfashionblog"
     fullname: >-
-      CROCHET ~ HOME ~ DECOR
+      YA SALAM FASHION BLOG
     bio: >-
-      Делаю, что ❤ & ❤, что делаю 🎬 мой канал на YouTube:
+      KORIN AVRAHAM🇲🇦מסע הבא למרקש אוקטובר < TOP INFLUENCER BY HARPERS BAZAAR & NY TIMES> VISUAL ART - DIGITAL CREATOR TEL AVIV AMBASSADOR ME@YASALAM.CO
     location: "Ukraine"
-    followers: 17192
-    engagement: 851
-    commentsToLikes: 0.055363
-    id: ckaoyfy0rhcyq0i78yi98rpya
-    verified: false
-    hashtags: "#crochetidea, #crafting, #ilovecrochet, #homedecor"
+    followers: 100078
+    engagement: 160
+    commentsToLikes: 0.041132
+    id: ck5hgs9k14hh50i11cwpqejfw
+    verified: true
+    hashtags: "#marrakeche, #marrakech, #marrakesh, #visitmarrakech"
   - username: "alexey_gulesha"
     fullname: >-
       Alexey Gulesha
     bio: >-
       SDA Co-owner at @sivakpartners Chief interior architect and the most interesting Alexey in the world.
     location: "Ukraine"
-    followers: 10819
-    engagement: 590
-    commentsToLikes: 0.025934
+    followers: 11747
+    engagement: 571
+    commentsToLikes: 0.026370
     id: ckaorld1inqnl0i78llvk2zth
     verified: false
-    hashtags: "#modernhome, #minimalism, #architecturefactor, #moderninterior"
-  - username: "helenaosipchuk"
+    hashtags: "#sivakpartners, #architecturefactor, #architecture, #designers"
+  - username: "victoria_boyko1"
     fullname: >-
-      Handmade flowers • Clay art
+      🇺🇸Victoria🌴 Lifestyle&Travel
     bio: >-
-      •Превращаю глину в цветы,цветы-в настроение •Лена Осипчук •Готовые работы/на заказ •Отправка по миру •Direct /viber +38 093 753 80 42 •UA
+      Collab:Victoriaboyko7@gmail.com 📍Living in USA🇺🇸 Ukrainian girl🇺🇦 Жизнь,роды в США🇺🇸 Girl mama ♡( 07.02.2019) Long Hair Girl 💚 Collect memories
     location: "Ukraine"
-    followers: 2841
-    engagement: 2579
-    commentsToLikes: 0.282996
-    id: ck8t74ejrfm020j78sj1ar1u1
+    followers: 179616
+    engagement: 142
+    commentsToLikes: 0.055288
+    id: ck5zrdp3wwe1a0i14ykiet7i3
     verified: false
-    hashtags: "#jj, #myquietbeauty, #ihavethisthingwithflowers, #natureonthepage"
-  - username: "interior_design_studio_nude"
+    hashtags: "#coffee, #target, #apple, #starbucks"
+  - username: "lauri_brothers"
     fullname: >-
-      ДИЗАЙН ІНТЕР’ЄРУ|+РЕМОНТ⚒
+      © 2014 LAURI BROTHERS
     bio: >-
-      ▪️founders @julija_syshitska, @andry_fal ▪️195+ зданих проектів / 6 років досвіду ▪️work all over the world Робимо красиві проекти для класних людей🖤
+      ● Interior Design & Architecture studio. ● 200+ implemented projects. ● Based in UKRAINE🖤Work worldwide. ● Founded by @yuralauri & @sergeylauri
     location: "Ukraine"
-    followers: 43930
-    engagement: 147
-    commentsToLikes: 0.024028
-    id: ck1386bg2eoyc0i199fk50sc5
+    followers: 22710
+    engagement: 177
+    commentsToLikes: 0.022723
+    id: ck5hceho1hndg0i11jyy6rofe
     verified: false
-    hashtags: "#interiordesign, #somethingnew, #newproject, #kitchendesign"
+    hashtags: "#interiordesign, #designinterior, #bathroom, #bedroomdecor"
 ---

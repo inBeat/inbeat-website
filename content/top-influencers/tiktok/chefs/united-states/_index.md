@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs TikTok Influencers In United States In 2023
+title: Top 10 Chefs TikTok Influencers In United States In 2024
 description: >-
-  Find top chefs TikTok influencers in United States in 2023. Most popular hashtags: #fyp #foryou #foryoupage #plantbased.
+  Find top chefs TikTok influencers in United States in 2024. Most popular hashtags: #fyp #foryou #foryoupage #vegan.
 platform: TikTok
-hits: 406
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 406 TikTok influencers like this in United States for you to pitch.
+hits: 414
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 414 TikTok influencers like this in United States for you to pitch.
 profiles:
   - username: "chefshabba"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.175883
     id: ckbkpywsek7br0j23k4ez4lr5
     verified: false
-    hashtags: "#1m, #cheflife, #kattasupport, #foryoupage"
+    hashtags: "#cheflife, #kattasupport, #ahadsworld, #foryou"
   - username: "kattholladay"
     fullname: >-
       Katt Holladay
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.184569
     id: ckdtg6772w7ma0j23jf3zh7nk
     verified: false
-    hashtags: "#danceforpeace, #trendy, #whatzyamoves, #fyp"
+    hashtags: "#trendy, #whatzyamoves, #trending, #kattholladay"
   - username: "soaptokker"
     fullname: >-
       Debora Glaze, CEO of Soap
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.031080
     id: ck9evvjwgk8j10j78zypngbzm
     verified: false
-    hashtags: "#vegan, #veganfood, #plantbased, #veganrecipes"
+    hashtags: "#plantbased, #healthyliving, #veganfood, #veganrecipes"
   - username: "jkauffs"
     fullname: >-
       Jkauffs 

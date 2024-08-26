@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Sao Paulo In 2023
+title: Top 10 Beauty TikTok Influencers In Sao Paulo In 2024
 description: >-
-  Find top beauty TikTok influencers in Sao Paulo in 2023. Most popular hashtags: #fyp #foryou #makeup #fy.
+  Find top beauty TikTok influencers in Sao Paulo in 2024. Most popular hashtags: #fyp #foryou #makeup #meme.
 platform: TikTok
 hits: 4
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat has 4 TikTok influencers like this in Sao Paulo, Brazil for you to work with.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 4 TikTok influencers like this in Sao Paulo, Brazil for you to contact.
 profiles:
   - username: "grumannn"
     fullname: >-

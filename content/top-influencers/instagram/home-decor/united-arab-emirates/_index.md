@@ -1,24 +1,12 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Home Decor Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top home decor Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #homedecor #dubai #mydubai #uae.
+  Find top home decor Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #homedecor #dubai #interiordesign #uae.
 platform: Instagram
-hits: 13
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 13 Instagram influencers like this in United Arab Emirates for you to contact.
+hits: 21
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 21 Instagram influencers like this in United Arab Emirates for you to collaborate.
 profiles:
-  - username: "reahzz_world"
-    fullname: >-
-      RIYA ROY
-    bio: >-
-      Hi. Hello. Hola.Ola.Bonjour.Ciao.Namaste.Salaam. When the world is dark look up to the stars🌟 Love Peace 📍DUBAI ★ TRAVEL ★ PASSIONATE HOMEDECOR
-    location: "United Arab Emirates"
-    followers: 3201
-    engagement: 585
-    commentsToLikes: 0.108074
-    id: ck8t7cc80gasx0j78hivzqevw
-    verified: false
-    hashtags: "#posesforpictures, #swissalps, #dubai, #travelgram"
   - username: "samirhakim_designstudio"
     fullname: >-
       samirhakim design.studio
@@ -43,88 +31,100 @@ profiles:
     id: ck6uidmn7egv80j71bqjpqh21
     verified: false
     hashtags: "#mydubai, #chicago, #beiruting, #interiordesigner"
-  - username: "rujoomsreverie_"
+  - username: "irfan_khann"
     fullname: >-
-      Rujoom Qamar 📍(AUH/DXB)
+      IRFAN KHAN | DUBAI BLOGGER 🇦🇪
     bio: >-
-      #Lifestyle #Homestyle #Parenting #FamilyTravel @mumzworld Rujoom10 🇦🇪 UAE born & Raised🇵🇰 Visual journey of my Simple Life 📩 Email for PR/Collab
+      📍DUBAI CONTENT CREATOR Travel | Fashion | Lifestyle | Webdeveloper |Digital Marketing Manager | Graphic Designer | Interior Designer
     location: "United Arab Emirates"
-    followers: 57454
-    engagement: 340
-    commentsToLikes: 0.086363
-    id: ck9wgdtnaszh80j784dpc9mhl
+    followers: 115939
+    engagement: 4764
+    commentsToLikes: 0.024561
+    id: ck5ceao3xkocb0i11f90b7u08
     verified: false
-    hashtags: "#reels, #uaekids, #dss, #winterweddings"
-  - username: "themandarinegirl"
+    hashtags: "#forsale, #dubai, #dubaibloggers, #sharjah"
+  - username: "modern.muslim.mama"
     fullname: >-
-      Daisy🍷 Travel & Lifestyle
+      Sarah▪︎Crafts|DIY|Design Inspo
     bio: >-
-      Mykonos🔜Mallorca, Cannes
+      Mama of 2 busy making life colorful for my family and me the.modern.muslim.mama@gmail.com
     location: "United Arab Emirates"
-    followers: 98145
-    engagement: 267
-    commentsToLikes: 0.112523
-    id: ck8taf4vmri8n0j78xrm9fxeo
+    followers: 9291
+    engagement: 395
+    commentsToLikes: 0.217448
+    id: ck9wgil7btkui0j788rnqaw5v
     verified: false
-    hashtags: "#bohostyle, #bohofashion, #munich, #ootd"
-  - username: "nasser.omayer"
+    hashtags: "#ramadanmubarak, #eid, #ramadandecorations, #ramadancrafts"
+  - username: "narimaan.farouk"
     fullname: >-
-      Nass Omayer
+      narimaan farouk 🤍
     bio: >-
-      N7 NB 💍 Homs- Dubai
+      cairo | abu dhabi | dubai self love enthusiast egyptian londener family over everything fashion • beauty • lifestyle
     location: "United Arab Emirates"
-    followers: 5349
-    engagement: 1237
-    commentsToLikes: 0.067661
-    id: ckf5rgo7kclnr0j23qscu7myo
+    followers: 40992
+    engagement: 320
+    commentsToLikes: 0.043168
+    id: ck600rfede4pe0i148kvxy9cd
     verified: false
-    hashtags: "#fitnessmotivation, #family, #dubailife, #workout"
-  - username: "deakedinakarina"
+    hashtags: "#5amclub, #homeasmr, #district5, #supersafari"
+  - username: "pasha.tehreem"
     fullname: >-
-      Travel | Fashion | Bali
+      Tehreem Pasha
     bio: >-
-      Dina 🇭🇺Fashion & Travel blogger, Model, Fashion stylist DXB|BP|BALI @contentbydina 📍Bali #itssunnysomewhere #bali #dinafaraway
+      ✍🏻Licensed Artist 🤚Working on my Ijazah 👩🏻‍🎨Teaching traditional arts “Tezhip and Calligraphy” 👉🏻Islamic art free lessons #learnwithtehreem 📍DXB🇦🇪
     location: "United Arab Emirates"
-    followers: 18343
-    engagement: 261
-    commentsToLikes: 0.085010
-    id: ck8ta1m8fq4bc0j78x4apok15
+    followers: 36870
+    engagement: 262
+    commentsToLikes: 0.040478
+    id: ck9wge7prt18p0j78odn1rip1
     verified: false
-    hashtags: "#balilife, #budapest, #bali, #itssunnysomewhere"
-  - username: "vanitiqueme"
+    hashtags: "#islamicmanuscript, #islamicillumination, #tazhip, #islamicgeometry"
+  - username: "girlsinthetwincities"
     fullname: >-
-      Aisha Ossman ♡
+      GirlsInTheTwinCities
     bio: >-
-      
+      Lifestyle | Travel | Health | Beauty | Fashion 📍Pakistan 📍 Dubai📍Berlin 📍 Dublin Email girlsinthetwincities@gmail.com for collaborations
     location: "United Arab Emirates"
-    followers: 38956
-    engagement: 84
-    commentsToLikes: 0.066979
-    id: ckapcgd783pa40i78ubm3czar
+    followers: 232975
+    engagement: 183
+    commentsToLikes: 0.015975
+    id: ck9wgi5extiu20j78gev8n082
     verified: false
-    hashtags: "#mua, #mydubai, #positiveenergy, #motd"
-  - username: "tahera.fatimaa"
+    hashtags: "#furniturejepara, #handmade, #furnituremurah, #moltyfoam"
+  - username: "noor_alnuaimii"
     fullname: >-
-      Tahera Fatima | Blogger
+      NoorAlnuaimi   نور النعيمي
     bio: >-
-      Self Love & Kindess🌻• Fashion•Beauty•Lifestyle•Food BBA Grad👩🏻‍🎓•Twin @abida.fatimaa 👯‍♂️ 📍Hyderabad,India🇮🇳• 📩Fatimatahera14@gmail.com •DM
+      Architect | معماريـه Lifestyle | Content creator 📍🇮🇶 🇦🇪 ✉️Brand inquiries WhatsApp : +9647701690056
     location: "United Arab Emirates"
-    followers: 10283
-    engagement: 651
-    commentsToLikes: 0.134834
-    id: ck15uurweolxt0i19qb3qjxmj
+    followers: 152779
+    engagement: 138
+    commentsToLikes: 0.035044
+    id: ck9wisqa93sw50j786que5pr1
     verified: false
-    hashtags: "#girls, #indianwedding, #instagood, #instagram"
-  - username: "malak.alotabi"
+    hashtags: "#style, #ksa, #reels, #picoftheday"
+  - username: "styleisnecessity"
     fullname: >-
-      Malak Alotaibi ♍️
+      Samantha Francis Baker | DXB ٠ NL
     bio: >-
-      👩‍💻Full time Electrical Engineer. 👩‍👧‍👦Mom of three. Makeup || Skincare || Modest Fashion || Lifestyle 📍Dubai, UAE
+      Creative director, hybrid artist, story teller, former blablabla, much cooler IRL. The Universe: @acesofspace.studios @aces_of_space @thesalenextdoor
     location: "United Arab Emirates"
-    followers: 189556
-    engagement: 240
-    commentsToLikes: 0.016292
-    id: ck5c4goxi1bih0i11bqyb1td0
+    followers: 34945
+    engagement: 110
+    commentsToLikes: 0.067137
+    id: ck13bc483upr10i192a2hxwmb
     verified: false
-    hashtags: "#homedecor, #homedesign, #tvcorner, #mascaralover"
+    hashtags: "#hoxchalet, #explore, #vivelavodka, #makingmemories"
+  - username: "stellaandthestars"
+    fullname: >-
+      Emilie Jacob
+    bio: >-
+      Dubai-based Frenchie ➕ Maman of 3 ➕Home Stylist➕Award-winning Interiors blogger ➕ Neon addict➕ Fitness fanatic ➕@emilieindubai
+    location: "United Arab Emirates"
+    followers: 23963
+    engagement: 102
+    commentsToLikes: 0.093198
+    id: ck14isz5ah0o40i19zl07yhx1
+    verified: false
+    hashtags: "#flattransformation, #roomdecoration, #interiordesigner, #flatrenovation"
 ---

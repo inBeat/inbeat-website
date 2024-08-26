@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Chile In 2023
+title: Top 10 Beauty TikTok Influencers In Chile In 2024
 description: >-
-  Find top beauty TikTok influencers in Chile in 2023. Most popular hashtags: #chile #fyp #foryou #greenscreen.
+  Find top beauty TikTok influencers in Chile in 2024. Most popular hashtags: #chile #fyp #foryou #greenscreen.
 platform: TikTok
 hits: 15
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 15 TikTok influencers like this in Chile for you to contact.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 15 TikTok influencers like this in Chile for you to pitch.
 profiles:
   - username: "s_sams"
     fullname: >-

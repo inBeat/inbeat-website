@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Austin In 2023
+title: Top 10 Rappers Instagram Influencers In Austin In 2024
 description: >-
-  Find top rappers Instagram influencers in Austin in 2023. Most popular hashtags: #rapper #music #hiphop #rap.
+  Find top rappers Instagram influencers in Austin in 2024. Most popular hashtags: #rapper #music #hiphop #rap.
 platform: Instagram
-hits: 44
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 44 Instagram influencers like this in Austin, United States for you to collaborate.
+hits: 47
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 47 Instagram influencers like this in Austin, United States for you to collaborate.
 profiles:
   - username: "you_crazy_leo_"
     fullname: >-
@@ -19,18 +19,18 @@ profiles:
     id: ck5pyan5iv3l80i11w424wrub
     verified: false
     hashtags: "#skate, #repost, #explorepage, #skateboard"
-  - username: "austinsemo"
+  - username: "bfree"
     fullname: >-
-      AUSTIN SEMO
+      B Free
     bio: >-
-      google me. contactaustinsemo@gmail.com
+      #LLVJ 🕉 @menaceinparadise @soforevergolden MGMT: @marc_mill
     location: "United States"
-    followers: 19525
-    engagement: 363
-    commentsToLikes: 0.069069
-    id: ck6tt0m0g7wb00j71k55jhlrt
+    followers: 22553
+    engagement: 229
+    commentsToLikes: 0.108342
+    id: ck5ce6as7kep10i11a3sesmfh
     verified: false
-    hashtags: "#reels, #trending, #fac, #newmusic"
+    hashtags: "#utopia, #travisscott, #mtv, #inspiration"
   - username: "slamantha.k"
     fullname: >-
       Sam
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.011170
     id: ck6u430yc1e9p0j71z7v035gp
     verified: false
-    hashtags: "#photography, #love, #music, #art"
+    hashtags: "#artist, #photo, #theolove, #love"
   - username: "shotswith.isacc"
     fullname: >-
       
@@ -91,6 +91,18 @@ profiles:
     id: ck5hks1bxiylj0i11t0fdkoe6
     verified: true
     hashtags: "#bleedink, #hiphopmusic, #hustle, #reggaemusic"
+  - username: "itstheolodge"
+    fullname: >-
+      Theolodge
+    bio: >-
+      Music Artist | Entrepreneur | Influencer | Foodie | Actor ◇KREW◇ Philippians 4:13 🙌🏾 🎶 on @netflix Team @xtend @c4energy @cellucor
+    location: "United States"
+    followers: 144340
+    engagement: 105
+    commentsToLikes: 0.056544
+    id: ck8sxt44aikfm0j78czpxt9kw
+    verified: false
+    hashtags: "#banger, #artist, #brandambassador, #godsspeed"
   - username: "keithagriner"
     fullname: >-
       Keith Griner
@@ -103,18 +115,6 @@ profiles:
     id: ck0vuxwbbmnvb0i19e4gao1am
     verified: false
     hashtags: "#producer, #guitar, #instagood, #musicians"
-  - username: "atrainlanier"
-    fullname: >-
-      ᴀᴜsᴛɪɴ ʟᴀɴɪᴇʀ
-    bio: >-
-      757 ✈️🌎
-    location: "United States"
-    followers: 37070
-    engagement: 602
-    commentsToLikes: 0.051115
-    id: ck0tzmo84qx8s0i19agjmhhlw
-    verified: false
-    hashtags: "#schoolspeaker, #god, #crowdsurfing, #hope"
   - username: "gbarcenilla"
     fullname: >-
       Barcenilla
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.008891
     id: ck0w6okro9k090i198scnqunu
     verified: false
-    hashtags: "#tidal, #itunes, #dance, #vocals"
+    hashtags: "#applemusicplaylist, #spotify, #spotifyforartists, #barcenilla"
 ---

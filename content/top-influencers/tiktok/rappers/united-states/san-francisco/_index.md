@@ -1,24 +1,12 @@
 ---
-title: Top 10 Rappers TikTok Influencers In San Francisco In 2023
+title: Top 10 Rappers TikTok Influencers In San Francisco In 2024
 description: >-
-  Find top rappers TikTok influencers in San Francisco in 2023. Most popular hashtags: #duet #fyp #foryou #viral.
+  Find top rappers TikTok influencers in San Francisco in 2024. Most popular hashtags: #duet #fyp #foryou #rap.
 platform: TikTok
 hits: 4
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 4 TikTok influencers like this in San Francisco, United States for you to collaborate.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database holds 4 TikTok influencers like this in San Francisco, United States for you to contact.
 profiles:
-  - username: "quickvic"
-    fullname: >-
-      Quick
-    bio: >-
-      Manager Instagram: @quickvic $Mainevent002
-    location: "United States"
-    followers: 32200
-    engagement: 1225
-    commentsToLikes: 0.146111
-    id: cka9kqriq0wm80i78uso2lhyg
-    verified: false
-    hashtags: "#foryourpage, #viral, #sport, #girl"
   - username: "iamsaucee"
     fullname: >-
       iamsaucee
@@ -31,6 +19,18 @@ profiles:
     id: ck8j6dbiz9alx0j782idwl5if
     verified: false
     hashtags: "#blowthisup, #getcrocd, #aeriereal, #viral"
+  - username: "quickvic"
+    fullname: >-
+      Quick
+    bio: >-
+      Manager Instagram: @quickvic $Mainevent002
+    location: "United States"
+    followers: 32200
+    engagement: 1225
+    commentsToLikes: 0.146111
+    id: cka9kqriq0wm80i78uso2lhyg
+    verified: false
+    hashtags: "#workout, #4u, #hiphop, #fyp"
   - username: "jaaylinh"
     fullname: >-
       Jenny 🦋
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.032166
     id: ck9kb9w0okaxm0j78rigij2f1
     verified: true
-    hashtags: "#wholesomecontent, #originalmusic, #rapper, #sillysongs"
+    hashtags: "#originalmusic, #wholesomecontent, #rapper, #sillysongs"
   - username: "kiwifro0ot"
     fullname: >-
       keke

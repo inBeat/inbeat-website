@@ -1,24 +1,72 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Australia In 2023
+title: Top 10 Crossfit Instagram Influencers In Australia In 2024
 description: >-
-  Find top crossfit Instagram influencers in Australia in 2023. Most popular hashtags: #crossfit #crossfitgames #fitness.
+  Find top crossfit Instagram influencers in Australia in 2024. Most popular hashtags: #crossfit #trueathlete #crossfitgames.
 platform: Instagram
-hits: 29
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 29 Instagram influencers like this in Australia for you to collaborate.
+hits: 42
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 42 Instagram influencers like this in Australia for you to work with.
 profiles:
-  - username: "harmzzii"
+  - username: "dellespeegle"
     fullname: >-
-      ♾
+      Dani Elle Speegle
     bio: >-
-      LivnLife • Māori’n’Aussie • Dancer 🔮 @officialrequestdancecrew @heartbreakconditioning @crossfitpersonalbest
+      #GirlsWhoEat 4x CrossFit Games Athlete Titan Games SZN 2 Winner Management: @athelogroup
     location: "Australia"
-    followers: 7189
-    engagement: 1315
-    commentsToLikes: 0.049189
-    id: ck6u6l18ig7kl0j71n1kfn4av
+    followers: 1787293
+    engagement: 387
+    commentsToLikes: 0.009292
+    id: ck1354h1zznup0i19o6ibi95d
     verified: false
-    hashtags: "#bsc, #stillafavset, #jlosuperbowl2020, #superbowlliv2020"
+    hashtags: "#30, #thanksithaspockets"
+  - username: "brookejsands"
+    fullname: >-
+      Brooke Sands 🇺🇸
+    bio: >-
+      FORTUNA FAVET FORTIBUS BELIEVER • ALL AMERICAN • BIKINIS • CROSSFIT 🐾 son @lukejsands
+    location: "Australia"
+    followers: 190158
+    engagement: 95
+    commentsToLikes: 0.076473
+    id: ck5cjhc4wuq380i11r1hyo2vx
+    verified: false
+    hashtags: "#chickswholift, #countryliving, #bluecollar, #crossfitchicks"
+  - username: "the_sportsdietitian"
+    fullname: >-
+      Taylor Ryan
+    bio: >-
+      Sports Dietitian ➡️ Top CrossFit/S&C Athletes 🍏FUELLING ATHLETES 🍎@thesportsdietitian_co 📲@biterite_co ✨@esthetiquewellness_co 👩‍⚕️ Student Nurse
+    location: "Australia"
+    followers: 76034
+    engagement: 93
+    commentsToLikes: 0.035671
+    id: ck5q638v5vrhh0i11chnu3ffv
+    verified: false
+    hashtags: "#performance, #goals, #athlete, #crossfit"
+  - username: "wykieetsebeth"
+    fullname: >-
+      Lodewyk Etsebeth
+    bio: >-
+      Team @lskd Code: WYKIE15 Husband | Dad | YouTuber | CrossFitter 👇ALL MY STUFF👇
+    location: "Australia"
+    followers: 92351
+    engagement: 62
+    commentsToLikes: 0.024172
+    id: ck6tn928v9dh70j71i043u2nf
+    verified: false
+    hashtags: ""
+  - username: "jessicaccoughlan"
+    fullname: >-
+      Jess Coughlan
+    bio: >-
+      2 x CF Games IFBB Figure. Fur mum 🐕 🐈‍⬛ Adopt! @garageathleteprogram @crossfitnorwest
+    location: "Australia"
+    followers: 131045
+    engagement: 22
+    commentsToLikes: 0.004141
+    id: ck5q638hsvrf60i11m60u2k22
+    verified: false
+    hashtags: "#trueprotein, #trueathlete, #ifbbfigure, #bodybuilding"
   - username: "jaycrouch_"
     fullname: >-
       Jay Crouch
@@ -30,7 +78,7 @@ profiles:
     commentsToLikes: 0.015871
     id: ck6tsi7bd4wmb0j71m1yoq3rz
     verified: false
-    hashtags: "#trueprotein, #trueathlete, #20point3and4, #2022edition"
+    hashtags: "#20point3and4, #2022edition, #reebokathlete, #trueprotein"
   - username: "escuchogrillos"
     fullname: >-
       JORDAN HOWKER
@@ -43,18 +91,6 @@ profiles:
     id: ckf5m67ofsg260j23pfu4cz5c
     verified: false
     hashtags: "#sydney, #london, #park, #australia"
-  - username: "jamesnewbury"
-    fullname: >-
-      James Newbury • Australia
-    bio: >-
-      THE @thetinytimer PROJECT ✘ 2019 CrossFit Games 5th place ✘ 4 x Australia’s Fittest man ✘ Ironman 10:14.43 ✘ AUS Bobsleigh🇦🇺 ✘ ꪜꫀᧁꪖꪀ🌱Athlete
-    location: "Australia"
-    followers: 217515
-    engagement: 189
-    commentsToLikes: 0.004293
-    id: ck0vuzr35mvvf0i19jyxjbod3
-    verified: true
-    hashtags: "#crossfitgames, #ultraathlete, #dreadlocks, #bobsled"
   - username: "petersoulis"
     fullname: >-
       PETER SOULIS
@@ -67,18 +103,6 @@ profiles:
     id: ck6uhbgny85cu0j71utdomp1o
     verified: false
     hashtags: ""
-  - username: "urbanfarmer2570"
-    fullname: >-
-      Justin O'brien
-    bio: >-
-      Gardener 🥕 Beekeeper 🐝 Dad 👨‍👩‍👧‍👧 CrossFitter 🏋🏻‍♂️ Gardening/beekeeping tips for those who want to grow their own food @hoselinkofficial Ambassador
-    location: "Australia"
-    followers: 28983
-    engagement: 299
-    commentsToLikes: 0.027233
-    id: ck8t9vxjbpjbl0j787b9z0muz
-    verified: false
-    hashtags: "#growyourownfood, #freshisbest, #growyourown, #gardenlove"
   - username: "brandonswanstrong"
     fullname: >-
       Brandon Swan
@@ -91,18 +115,6 @@ profiles:
     id: ck5hr8u5ougrh0i11x9x5c09v
     verified: false
     hashtags: "#swanstrong, #mymusclechef, #trueathlete, #deddey"
-  - username: "the_sportsdietitian"
-    fullname: >-
-      The Sports Dietitian ©️™️
-    bio: >-
-      Taylor Wales-Ryan . 📚Sports Dietitian to CrossFit & S&C athletes 🏋️‍♀️Intermediate to Elite 📱Co Founder @biterite_co APP 🏋️‍♀️ @hypericeaus TAYLOR10
-    location: "Australia"
-    followers: 37658
-    engagement: 210
-    commentsToLikes: 0.041434
-    id: ck5q638v5vrhh0i11chnu3ffv
-    verified: false
-    hashtags: "#foodforthought, #movebetter"
   - username: "crossfitcowboy45"
     fullname: >-
       Sean Sweeney
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.012897
     id: ck6tvb6yll84g0j71m9v2a41f
     verified: false
-    hashtags: "#betterthanyesterday, #work004, #crossfit, #fitness"
-  - username: "the_french_firefighter"
-    fullname: >-
-      👨🏻‍🚒 Gary®️
-    bio: >-
-      French Firefighter international trainer SPV 💪🏽 Australian Firefighter Calendar 2020 Travel 🇳🇱🇸🇬🇩🇴🇲🇨🇹🇳🇭🇰🇪🇺🇬🇷🇧🇸🇧🇪🇨🇦🇧🇷🇵🇹🇺🇸🇫🇷🇲🇽🇨🇴🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇱🇦🇺🇬🇧🇨🇷🇪🇸🇮🇹🇨🇭
-    location: "Australia"
-    followers: 7704
-    engagement: 2008
-    commentsToLikes: 0.006568
-    id: ckaoqwdl0kpog0i78oycg69yr
-    verified: false
-    hashtags: "#bombeiros, #firetrucks, #sdis, #firefighterlife"
+    hashtags: "#betterthanyesterday, #crossfit, #cowboywayathlete, #crossfitcowboy"
 ---

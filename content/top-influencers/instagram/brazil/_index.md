@@ -1,132 +1,132 @@
 ---
-title: Top 10 Instagram Influencers In Brazil In 2023
+title: Top 10 Instagram Influencers In Brazil In 2024
 description: >-
-  Find top Instagram influencers in Brazil in 2023. Most popular hashtags: #dance #sidebysidecosplay #blackcosplayerhere.
+  Find top Instagram influencers in Brazil in 2024. Most popular hashtags: #ontour #reelsinstagram #melodictechno.
 platform: Instagram
-hits: 74466
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 74466 Instagram influencers like this in Brazil for you to work with.
+hits: 41671
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 41671 Instagram influencers like this in Brazil for you to work with.
 profiles:
-  - username: "neymarjr"
+  - username: "sadaf_beauty_diary"
     fullname: >-
-      NJ 🇧🇷
+      Sadaf Masaeli
     bio: >-
-      Isaías 54:17 🙏🏽
+      📍San Francisco Travel ✈️ Lifestyle 🏕 Fashion 👒 Follow my Beauty Page👉🏼 @sadaf_beauty 💄 Contact@sadafbeauty.net
     location: "Brazil"
-    followers: 201021785
-    engagement: 464
-    commentsToLikes: 0.000215
-    id: ck0tu0eu852wm0i197q3cwnqi
+    followers: 1816276
+    engagement: 935
+    commentsToLikes: 0.010492
+    id: ckaoxog5pe49p0i78efq8o9lq
+    verified: false
+    hashtags: "#goizmir, #izmir, #goturkey, #homerenovation"
+  - username: "stereo.express"
+    fullname: >-
+      STΞRΞO ΞXPRΞSS
+    bio: >-
+      ▪️ OFFWORLD | CERCLE ▪️Label Boss: @offworld_ofc ▪️Bookings: franzi@stereo-express.com A B I D O S ⬇️
+    location: "Brazil"
+    followers: 39859
+    engagement: 1175
+    commentsToLikes: 0.064206
+    id: ck5c1xh6rw4790i11pyf3yoyd
+    verified: false
+    hashtags: "#turkey, #melodichouse, #outnow, #ontheroad"
+  - username: "joanacruz"
+    fullname: >-
+      Joana Cruz | Lifestyle & Travel
+    bio: >-
+      Animadora de rádio🎙 Café da Manhã @rfmportugal 📧 joana.cruz@rfm.pt
+    location: "Brazil"
+    followers: 184127
+    engagement: 484
+    commentsToLikes: 0.040675
+    id: ck6txdx8bx9xw0j71ng569bmp
+    verified: false
+    hashtags: "#rfm, #vacation, #mexico, #tulum"
+  - username: "sofia.del.mar"
+    fullname: >-
+      Sofia del Mar ✨🌊💕
+    bio: >-
+      Jack of all Trades & Master of None ✌️🥳 🚐 Auf Camper-Weltreise mit @sodasindwir ▫️SdelMar Kollektion▫️
+    location: "Brazil"
+    followers: 70413
+    engagement: 778
+    commentsToLikes: 0.020934
+    id: ck5q70e9kzhmk0i11rt66wtja
+    verified: false
+    hashtags: "#clothinglines, #sustainablestyling, #endomarch, #brasilien"
+  - username: "noaramorais"
+    fullname: >-
+      Noara Morais
+    bio: >-
+      The Industry NY-LA | Wilhelmina london | MGM models | ABC models | Citizen | MA E2modelmgmt NYC📍
+    location: "Brazil"
+    followers: 52992
+    engagement: 426
+    commentsToLikes: 0.044098
+    id: ck5hro5f6v6yz0i11d22tqhvn
+    verified: false
+    hashtags: "#revolvewinter"
+  - username: "marinaemonteiro"
+    fullname: >-
+      Marina Monteiro
+    bio: >-
+      I make tech videos on YouTube 🍎 ✉️ comercial@marinamonteiro.com @produtosdamarina
+    location: "Brazil"
+    followers: 23616
+    engagement: 443
+    commentsToLikes: 0.039239
+    id: clovnib96uips0j08wlzuefsm
+    verified: false
+    hashtags: "#shotoniphone, #unboxing, #wwdc2023, #apple"
+  - username: "allaboardfamily"
+    fullname: >-
+      Catarina Almeida e Filipe | Travel Family
+    bio: >-
+      Around the world with Gui, Manuel, Vasco Travel | Dialysis | Family | Lifestyle ✨ 📍 Portugal
+    location: "Brazil"
+    followers: 155263
+    engagement: 670
+    commentsToLikes: 0.560604
+    id: ck139yvpnnsyj0i19c9p0ieaz
+    verified: false
+    hashtags: "#egito, #dublincity, #irelandtravel, #dublinireland"
+  - username: "carolsemina"
+    fullname: >-
+      carolsemina
+    bio: >-
+      🍒
+    location: "Brazil"
+    followers: 24265
+    engagement: 674
+    commentsToLikes: 0.005473
+    id: ck6u9txdhzmya0j71j6gd9upl
+    verified: false
+    hashtags: "#reels, #funny, #viral, #saturdaynight"
+  - username: "emanuelribeiro__"
+    fullname: >-
+      Emanuel Ribeiro
+    bio: >-
+      ✨ Humor & Lifestyle 🧿 📥 emanuelribeiro@agenciamurano.com 🌎 Brasil | ❤️ @aser_sticazzi
+    location: "Brazil"
+    followers: 126948
+    engagement: 1109
+    commentsToLikes: 0.045347
+    id: ck8welslse8xq0j78ecf2ot0v
+    verified: false
+    hashtags: "#barbiethemovie, #barbiecore, #barbieofilme, #barbie"
+  - username: "vinijr"
+    fullname: >-
+      Vinicius Jr. ⚡️🇧🇷
+    bio: >-
+      Black Lives Matter ✊🏿 @unesco 🤍 @institutovinijr ✨ @loudgg 🗣️
+    location: "Brazil"
+    followers: 49734735
+    engagement: 516
+    commentsToLikes: 0.007710
+    id: ck0vzraerait20i19uwqcy9hf
     verified: true
-    hashtags: "#playerofthehistory, #bebacommodera"
-  - username: "mariadeantonia"
-    fullname: >-
-      maria karina
-    bio: >-
-      ♡ mãe da Antonia ☆ transforma preconceito em potência ☾ sonha com um mundo que abrace todas as existências
-    location: "Brazil"
-    followers: 44637
-    engagement: 668
-    commentsToLikes: 0.079219
-    id: ckaoyzyjgjrv30i785hh93urw
-    verified: false
-    hashtags: "#amor, #cronicasmaternas, #autismo, #vivaosus"
-  - username: "deboracunha"
-    fullname: >-
-      Debora Cunha
-    bio: >-
-      Aqui vc encontra amor com humor Dou dicas legais e mostro meu dia Souaprovavivadeque“casar é ótimo” Publi- Debora@conectadoscasacriativa.com.br
-    location: "Brazil"
-    followers: 2309204
-    engagement: 436
-    commentsToLikes: 0.089736
-    id: ck9hau39xe55g0j78iupwwyve
-    verified: false
-    hashtags: "#publi, #estudos, #canetas, #leitecamponesa"
-  - username: "bianapolitano"
-    fullname: >-
-      Bia Napolitano
-    bio: >-
-      😂 Alegria tem que ser compartilhada! 📩 contato@bianapolitano.com.br 📦 CX Postal 42032 CEP 04082-970 NA SALA POD? 👇🏼
-    location: "Brazil"
-    followers: 2197279
-    engagement: 725
-    commentsToLikes: 0.019995
-    id: ck6ua7dsz1xns0j71ovyh8ch8
-    verified: false
-    hashtags: "#meumodernlove, #earthion"
-  - username: "taina"
-    fullname: >-
-      Tainá Costa
-    bio: >-
-      🐦 Twitter: eutainacosta 📬 @showdatai CONFIRA MÚSICA NOVA LOVEZINHO, AQUI👇🏼
-    location: "Brazil"
-    followers: 16329051
-    engagement: 650
-    commentsToLikes: 0.008599
-    id: ck0vz6p5n7kwi0i19ib9icvma
-    verified: true
-    hashtags: "#fusioncapudocup2021, #desxcontovigoroso, #lovezinho"
-  - username: "larasilva"
-    fullname: >-
-      Lara Silva
-    bio: >-
-      🎤 shows: (11) 9 1265-2665 📞 Publi: (11) 97511-6976 MENINA MÁ ;) 👇🏻
-    location: "Brazil"
-    followers: 17181814
-    engagement: 420
-    commentsToLikes: 0.007972
-    id: ck13465p8uwfl0i195nh2ytyt
-    verified: false
-    hashtags: "#halloweendalet"
-  - username: "shai_t_music"
-    fullname: >-
-      Shai T (Official)
-    bio: >-
-      All Day I Dream | Anjunadeep | Lost & Found 🌎 caviarartists@gmail.com 🇺🇸🇨🇦 seehamsrahman@elysiumaffairs.com 🇧🇷 priscila@allianceartists.com.br
-    location: "Brazil"
-    followers: 10831
-    engagement: 634
-    commentsToLikes: 0.053142
-    id: cl4l96r18tgkn0i23xzbnpb65
-    verified: false
-    hashtags: "#party, #dc, #housemusic, #miami"
-  - username: "luizacordery"
-    fullname: >-
-      lu¡za
-    bio: >-
-      🇧🇷🇬🇧 19 ✮ @filmbyluiza tiktok: lilstaryuh2.0 yt: Luiza Cordery
-    location: "Brazil"
-    followers: 350423
-    engagement: 623
-    commentsToLikes: 0.001637
-    id: ckxp7y6cc9zmh0j23hle74zud
-    verified: false
-    hashtags: "#ad, #ootd"
-  - username: "sydsugoi.cosplay"
-    fullname: >-
-      S Y D S U G O I
-    bio: >-
-      Cosplayer • Digital Creator • ⁣Nostalgia Queen 📰Feat: DC Comics, Adult Swim, Rare Beauty If Sydsugoi posts it, she produced it.
-    location: "Brazil"
-    followers: 8176
-    engagement: 709
-    commentsToLikes: 0.040517
-    id: cl34yk06l0kwi0i23j89oie1b
-    verified: false
-    hashtags: "#blackcosplayersrock, #blackwomenincostume, #sidebysidecosplay, #blackgirlcosplay"
-  - username: "luvadepedreiro"
-    fullname: >-
-      Iran Ferreira
-    bio: >-
-      Graças a deus pai ❤️📩 luva@desafio1pra1.com
-    location: "Brazil"
-    followers: 20113589
-    engagement: 627
-    commentsToLikes: 0.010852
-    id: clas9eusbxdpp0i23khf9myjw
-    verified: false
-    hashtags: "#pariscestmagique, #weareparis, #fifaworldcup, #publicidade"
+    hashtags: "#osmelhoresusamn1, #realfootball, #fuelsyouforward, #thirstyformore"
 cities:
   - name: Rio de Janeiro
     link: /instagram/brazil/rio-de-janeiro

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Stylists TikTok Influencers In Australia In 2023
+title: Top 10 Stylists TikTok Influencers In Australia In 2024
 description: >-
-  Find top stylists TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #fashion #foryoupage #foryou.
+  Find top stylists TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #foryoupage #fashion #foryou.
 platform: TikTok
 hits: 9
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 9 TikTok influencers like this in Australia for you to work with.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database holds 9 TikTok influencers like this in Australia for you to connect with.
 profiles:
   - username: "liz_amaya_"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.083145
     id: ck9r3vrd2s5xw0j78k738mvkd
     verified: false
-    hashtags: "#momlife, #homedecor, #ladies, #wife"
+    hashtags: "#tiktoktips, #foryoupage, #mumsontiktok, #relatable"
   - username: "ryanclareyeah"
     fullname: >-
       Ryanclareyeah
@@ -110,9 +110,9 @@ profiles:
       Positivity, Sass and feeling my fantasy. Australia ✨ Instagram: p.q.kat
     location: "Australia"
     followers: 11200
-    engagement: 1538
-    commentsToLikes: 0.038780
+    engagement: 1407
+    commentsToLikes: 0.023534
     id: ckbfhny2ndbim0j23r7jij65f
     verified: false
-    hashtags: "#mumma, #fyp, #foryoupage, #ineedtoknow"
+    hashtags: "#mumma, #foryoupage, #fyp, #littlebabies"
 ---

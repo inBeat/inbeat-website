@@ -1,12 +1,72 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Indonesia In 2023
+title: Top 10 Vegan Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top vegan Instagram influencers in Indonesia in 2023. Most popular hashtags: #vegan #balilife #plantbased.
+  Find top vegan Instagram influencers in Indonesia in 2024. Most popular hashtags: #vegan #plantbased #bali.
 platform: Instagram
-hits: 72
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 72 Instagram influencers like this in Indonesia for you to connect with.
+hits: 71
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 71 Instagram influencers like this in Indonesia for you to collaborate.
 profiles:
+  - username: "chitrachef"
+    fullname: >-
+      Chef Chitra
+    bio: >-
+      Holistic Chef Food is Medicine Health Enthusiast Vegan & Gluten Free Recipe YouTube : Chef Chitra
+    location: "Indonesia"
+    followers: 100802
+    engagement: 672
+    commentsToLikes: 0.039764
+    id: ck6txw6om07gq0j71zn03ugly
+    verified: true
+    hashtags: "#podcast, #thespiceguy, #healthyfood, #woman"
+  - username: "ria_gu"
+    fullname: >-
+      Ria Kiyandra, SE. | Blogger & Creator
+    bio: >-
+      Mampir Yuks •TikTok @ria_gu •Youtube Ria Kiyandra •Makan2 #vegan88jr ~~~ •Part of @jakartabeautyblogger, BPN, #revu_id_a07d2847
+    location: "Indonesia"
+    followers: 23294
+    engagement: 755
+    commentsToLikes: 0.043093
+    id: ck9wgizo3tn3b0j78y7pqhovq
+    verified: false
+    hashtags: "#writing4healingruangaksara, #giveaway, #bersamapenulisceria, #skinfirming"
+  - username: "nikitabhamidipati"
+    fullname: >-
+      Nikki 🧿
+    bio: >-
+      What’s underneath all those clothes, Brooke Davis? Vegan baby🌱 • 22 •🏴󠁧󠁢󠁷󠁬󠁳󠁿Cardiff Met ‘21 💌 officialnikitabhamidipati@gmail.com
+    location: "Indonesia"
+    followers: 862457
+    engagement: 1224
+    commentsToLikes: 0.002293
+    id: ck15qqpk046we0i193kwdpjza
+    verified: false
+    hashtags: "#newmusic, #bnwentertainments, #dard, #mohammedirfan"
+  - username: "marisagreiner"
+    fullname: >-
+      Marisa Greiner
+    bio: >-
+      📍 BALI | Model | Photographer | Traveler | Sustainability Advocate | Vegan | Bali Travel Tips @meetmeunderpalmtrees | Work with me📩
+    location: "Indonesia"
+    followers: 21945
+    engagement: 53
+    commentsToLikes: 0.000000
+    id: ckpn0txuo3nbp0j23wrlicxp6
+    verified: false
+    hashtags: "#dronephotography, #dronevideo, #baliindonesia, #travelblogger"
+  - username: "justannabella"
+    fullname: >-
+      Annabella
+    bio: >-
+      @annaveganfooddiary @anykind.id Vegan for everything / imperfect environmentalist / cruelty-free beauty & eco fashion lover 🌱 / #noshampoo
+    location: "Indonesia"
+    followers: 82631
+    engagement: 33
+    commentsToLikes: 0.042079
+    id: ck0vvv329qwe10i19wbzqv67z
+    verified: false
+    hashtags: "#vegan, #beagreenrebel, #fin5thefuture, #yakinbarakat"
   - username: "juancarloscrazysport"
     fullname: >-
       Juan Carlos Vicente
@@ -19,18 +79,6 @@ profiles:
     id: ck5qdpsjgwqts0i11vsifsd3u
     verified: false
     hashtags: "#preparadorfisico, #snowday, #entrenador, #vegan"
-  - username: "ninojkt"
-    fullname: >-
-      Nino Fernandez
-    bio: >-
-      🇮🇩•🇬🇧•🇩🇪 for inquiries call/mail Vegan 🌱 TERBANG SAAT PANDEMI👇🏼👇🏼 ☕ - @di.bawahtangga Jesus my King
-    location: "Indonesia"
-    followers: 123461
-    engagement: 498
-    commentsToLikes: 0.042012
-    id: ck6u1t90pnqt50j71ag9buxup
-    verified: true
-    hashtags: "#indonesiadestinasiku, #yukterbanglagi, #plataranindonesia, #becauseyoumatter"
   - username: "maiijun.xo"
     fullname: >-
       ᴍ ᴀ ɪ ɪ j u ɴ💜
@@ -67,30 +115,6 @@ profiles:
     id: ck9woogtb5xoq0j78sg1yqwfh
     verified: false
     hashtags: ""
-  - username: "justannabella"
-    fullname: >-
-      Annabella
-    bio: >-
-      @21hariveg @anykind.id Practicing mindfulness // Vegan for everything // slow fashion lover // Check out my food insta @annaveganfooddiary
-    location: "Indonesia"
-    followers: 88633
-    engagement: 102
-    commentsToLikes: 0.015932
-    id: ck0vvv329qwe10i19wbzqv67z
-    verified: false
-    hashtags: "#noshampoo, #jakartaveganguide, #birthdayarchives, #vegan"
-  - username: "wiolettatuschnio"
-    fullname: >-
-      wioletta ⋮ weight gain coach
-    bio: >-
-      ⟡ from an insecure girl to a self-empowered woman living on an island ⋒ sharing tips for a healthy & conscious lifestyle & teasing you with vegan food
-    location: "Indonesia"
-    followers: 23386
-    engagement: 374
-    commentsToLikes: 0.044392
-    id: ck0ttg76y2kre0i19q8ixjxqe
-    verified: false
-    hashtags: "#fitness, #veganbody, #selflove, #workoutmotivation"
   - username: "geneva_f"
     fullname: >-
       bæby G 🌈🌚🔮💫 moonchild
@@ -103,28 +127,4 @@ profiles:
     id: ck134lvt9x2f30i19705wne2p
     verified: false
     hashtags: "#plantmom, #blackliveswillalwaysmatter, #scorpio"
-  - username: "anoushkabhuller"
-    fullname: >-
-      Anoushka Bhuller MD., LLM.
-    bio: >-
-      And so I used my fear to fuel me. 〰️ #Sustainable living vegan feeling. 🍭 ♾Jakarta, Id. For all enquiries, please DM.
-    location: "Indonesia"
-    followers: 43085
-    engagement: 37
-    commentsToLikes: 0.013719
-    id: ck0tw3w8fdwrw0i19ao99jnor
-    verified: false
-    hashtags: "#anoushkabhuller, #balilife, #baliguide, #balibuddies"
-  - username: "acjoo"
-    fullname: >-
-      Axel
-    bio: >-
-      We must reach zero carbon emissions in 6 years and 319 days. • I’m a creative that writes, directs, shoots, edits and acts. • Vegan since 2019
-    location: "Indonesia"
-    followers: 21090
-    engagement: 1493
-    commentsToLikes: 0.018160
-    id: ck5c40vn60fbx0i11ppaovr7m
-    verified: false
-    hashtags: "#toptree, #vibe, #info, #tbsfightforsisterhood"
 ---

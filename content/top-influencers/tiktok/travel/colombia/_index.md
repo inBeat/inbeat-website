@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Colombia In 2023
+title: Top 10 Travel TikTok Influencers In Colombia In 2024
 description: >-
-  Find top travel TikTok influencers in Colombia in 2023. Most popular hashtags: #travel #colombia #parati #fyp.
+  Find top travel TikTok influencers in Colombia in 2024. Most popular hashtags: #colombia #travel #parati #fyp.
 platform: TikTok
 hits: 47
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our platform holds 47 TikTok influencers like this in Colombia for you to pitch.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 47 TikTok influencers like this in Colombia for you to collaborate.
 profiles:
   - username: "jturcios_official"
     fullname: >-

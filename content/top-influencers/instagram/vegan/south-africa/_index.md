@@ -1,24 +1,24 @@
 ---
-title: Top 10 Vegan Instagram Influencers In South Africa In 2023
+title: Top 10 Vegan Instagram Influencers In South Africa In 2024
 description: >-
-  Find top vegan Instagram influencers in South Africa in 2023. Most popular hashtags: #vegan #skincareroutine #southafrica #luxeloft.
+  Find top vegan Instagram influencers in South Africa in 2024. Most popular hashtags: #vegan #skincare #takealot #sponsored.
 platform: Instagram
-hits: 19
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 19 Instagram influencers like this in South Africa for you to pitch.
+hits: 22
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 22 Instagram influencers like this in South Africa for you to collaborate.
 profiles:
-  - username: "charlixboi"
+  - username: "vegbarbiesa"
     fullname: >-
-      Charli X Boi
+      Carla Danker 🌸 (Rubin)
     bio: >-
-      Hello, Hi 👋 I’m Charli and this is my journal filled with #beauty #grooming & #selfcare 🦄 @clicks_sa #clicksbeautysquad 🎬 Director @nimblemediaza
+      IVF Journey ✨ | Mom to Hudson Bear 🐻 & Brodie Finn 🐳| Entrepreneur | Animal Lover | Vegan JD 💍 ✉️ vegbarbiesa@gmail.com
     location: "South Africa"
-    followers: 17123
-    engagement: 63
-    commentsToLikes: 0.170458
-    id: ck5c261ajwlr00i11zda4ydsm
+    followers: 23559
+    engagement: 115
+    commentsToLikes: 0.129162
+    id: ck6u4csmh2zti0j71li3gkhg9
     verified: false
-    hashtags: "#makeuplover, #makeuplovers, #face, #sunprotection"
+    hashtags: "#veganfood, #ivf, #fertility, #veganrecipes"
   - username: "alexpiaramcg"
     fullname: >-
       Alex McGregor
@@ -67,64 +67,64 @@ profiles:
     id: ck5pwe2lkme5r0i116j5pcuz9
     verified: false
     hashtags: "#skincaretips, #kbeautyroutine, #skincarelover, #superbalist"
-  - username: "zetskevpletzen"
+  - username: "chane_grobler18"
     fullname: >-
-      Zetske van Pletzen
+      Chané Grobler
     bio: >-
-      Actress Fashion Designer @halo_by_zetske ♥Mommy♥ Green living♻️ CLICK ON LINK BELOW FOR WEBSITE & ONLINE STORE
+      Lifestyle, beauty, fashion🤍 Pretoria, ZA📍 PR & Business: info@starburstmusic.co.za @starburst_promotions @johanstroh 🩷 Jewelry: @gracethebrand.co.za 💛
     location: "South Africa"
-    followers: 53221
-    engagement: 195
-    commentsToLikes: 0.044356
-    id: ck15uxpz4ozvn0i19hafibz15
+    followers: 104675
+    engagement: 2091
+    commentsToLikes: 0.005903
+    id: ck5q1k6eabdxq0i1196otdgno
     verified: false
-    hashtags: "#nutbutterchocolate, #celebratingwomen, #womensmonth, #takingupspace"
+    hashtags: "#centrum7daychallenge, #vodacomworldcollectibles, #sponsored, #ad"
   - username: "thelastmaharaja"
     fullname: >-
       Jiveshen Moodley
     bio: >-
       Noor Fawaar ✨🫧 Son of Venus ♎️ Beauty Junkie 🙆🏽‍♂️ Joburg | London 🇿🇦🇬🇧 Innit
     location: "South Africa"
-    followers: 10198
-    engagement: 587
-    commentsToLikes: 0.048089
+    followers: 10073
+    engagement: 579
+    commentsToLikes: 0.047977
     id: ckap3qdwx43sz0i78nxp0ygj3
     verified: false
-    hashtags: "#favoboys, #pride, #gay, #pov"
+    hashtags: "#kotrasa, #superbalist, #koreanskincare, #kbeauty"
+  - username: "issa_goddess22"
+    fullname: >-
+      Zinziswa Mayekiso
+    bio: >-
+      -Boy Mom🩵 -Founder: @amelia_jewellerysa -YouTuber: Life Of A Goddess -Journalism Graduate
+    location: "South Africa"
+    followers: 449761
+    engagement: 294
+    commentsToLikes: 0.005108
+    id: ck13aqe47rnnh0i19mi3z1i7o
+    verified: false
+    hashtags: "#givethegiftofbliss, #ixxastroller, #everydaybeststart, #oceanbasket"
+  - username: "kunene_ayanda"
+    fullname: >-
+      Ayanda Kunene
+    bio: >-
+      South African 🇿🇦 Twin: @amanda_Kunene 📍 CPT: @20modelmanagement 📍 DBN: @bossmodelsdbn
+    location: "South Africa"
+    followers: 5804
+    engagement: 252
+    commentsToLikes: 0.067949
+    id: ck138fd3bfyxf0i199d208qt8
+    verified: false
+    hashtags: "#fashion, #southafrica, #likeforlikes, #safari"
   - username: "fashionbreed"
     fullname: >-
       Aqeelah Harron Ally
     bio: >-
       Co-Founder of @WorthyCo_ | Ziya’s Mom For brand bookings, email info@fashionbreed.co.za
     location: "South Africa"
-    followers: 75080
-    engagement: 288
-    commentsToLikes: 0.029926
+    followers: 75213
+    engagement: 243
+    commentsToLikes: 0.044757
     id: ck6u4nqzg4s110j713ik5e211
     verified: true
-    hashtags: "#sunglasshutsa, #bealpha, #fbstyletip, #multitaskerconcealer"
-  - username: "diariesofanislandergirl"
-    fullname: >-
-      ZAINAH | LIFESTYLE BLOGGER
-    bio: >-
-      📍 Mauritian 🇲🇺 ♡ owner @_mocouture_ ♡ bookworm @diariesofabooknerd ♡ beauty - skincare - food - fashion ♡ Join my group ‘Lady Loves’ on Facebook!👇
-    location: "South Africa"
-    followers: 10575
-    engagement: 612
-    commentsToLikes: 0.018917
-    id: ck5hqose9tghk0i11u4gxah0n
-    verified: false
-    hashtags: "#mauritianblogger, #maurice, #mauritius, #lifestyleblogger"
-  - username: "candibod"
-    fullname: >-
-      candibod.
-    bio: >-
-      Digital Creator 👋🏼 Sharing Her Day Qualified PT, YT 200HRS + NA Writer at @theprettyblog Edit w/ @candibodpresets Host @bodcast_podcast
-    location: "South Africa"
-    followers: 40962
-    engagement: 273
-    commentsToLikes: 0.056228
-    id: ck14lmwsavgv40i19232hywwa
-    verified: false
-    hashtags: "#mood, #bodtravels, #capetown, #youareenough"
+    hashtags: "#hmxme, #firstbirthdayparty, #sunglasshutsa, #fbstyletip"
 ---

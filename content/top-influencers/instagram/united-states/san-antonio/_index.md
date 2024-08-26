@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In San Antonio In 2023
+title: Top 10 Instagram Influencers In San Antonio In 2024
 description: >-
-  Find top Instagram influencers in San Antonio in 2023. Most popular hashtags: #satx #daytimefromhome #canonshooter.
+  Find top Instagram influencers in San Antonio in 2024. Most popular hashtags: #sanantonio #satx #sanantoniofood #safoodie.
 platform: Instagram
-hits: 414
+hits: 517
 text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our database holds 414 Instagram influencers like this in San Antonio, United States for you to contact.
+text_bottom: Our database holds 517 Instagram influencers like this in San Antonio, United States for you to contact.
 profiles:
-  - username: "legittim"
+  - username: "thechelseamarrs"
     fullname: >-
-      Legit Tim🔥
+      Chelsea | Food + Travel
     bio: >-
-      𝐋𝐄𝐆𝐈𝐓 𝐄𝐍𝐓𝐄𝐑𝐓𝐀𝐈𝐍𝐌𝐄𝐍𝐓 ©️ 4M+ Total Followers Across All Social Media📈 San Antonio, Texas📍 𝐉𝐨𝐡𝐧 𝟑:𝟏𝟔
+      🫶🏼 Food, Fashion, Travel 🌟 Influencer Strategist at @obviously 💌 thechelseamarrs@gmail.com 📍 San Francisco + San Antonio
     location: "United States"
-    followers: 140949
-    engagement: 565
-    commentsToLikes: 0.085704
-    id: ck9wp2ws67kj60j78pwbxqsva
+    followers: 28323
+    engagement: 1867
+    commentsToLikes: 0.075677
+    id: ck0vy5svh2dgv0i19rqiaged1
     verified: false
-    hashtags: "#apple, #mexico, #challenge, #prankonstrangers"
-  - username: "kimberlyfox_tv"
+    hashtags: "#sanantoniofood, #texasblogger, #satx, #sanantonioinfluencer"
+  - username: "realbrandonherrera"
     fullname: >-
-      Kimberly Crawford
+      Brandon Herrera
     bio: >-
-      Host “Daytime w/ Kimberly & Esteban” •San Antonio FOX29•Corpus Christi FOX38 •Beaumont FOX6•Abilene ABC12 •El Paso KFOX•Rio Grande Valley KRGV5
+      🔫 Founder of @theakguyinc 🎥 Content Creator San Antonio, TX Congressional Candidate (R TX-23)
     location: "United States"
-    followers: 15165
-    engagement: 727
-    commentsToLikes: 0.094734
-    id: ck5zjwxfbievx0i14bhahap59
+    followers: 396531
+    engagement: 914
+    commentsToLikes: 0.013557
+    id: ck5q1cqf4adcu0i11pxs05gvt
     verified: false
-    hashtags: "#tvhost, #ootd, #tribe, #daytimefromhome"
-  - username: "brysanicks"
+    hashtags: "#gunsofinstagram, #drivetanks, #ak, #kalash"
+  - username: "jeenajimenez"
     fullname: >-
-      BRY
+      Jeena Jimenez Deleon • SATX Content Creator
     bio: >-
-      Lifestyle | Beauty | Fashion | Photography Paralegal San Antonio, Texas 📍 #SATXBlogger
+      📍San Antonio • Content Creator • ⁣ #SATXBlogger Life + Travel + Fashion & More ✨ 💌 jeena.jimenez@yahoo.com • Here's to the ones who dream • ⁣⁣⁣
     location: "United States"
-    followers: 20357
-    engagement: 302
-    commentsToLikes: 0.066849
-    id: ckf5wms83skn30j23o004u0zm
+    followers: 8110
+    engagement: 430
+    commentsToLikes: 0.077982
+    id: ckqq5yljhw7je0j23miyuytq4
     verified: false
-    hashtags: "#satx, #rings, #londonraginternational, #londonrag"
+    hashtags: "#fre, #frepartner, #fretocelebrate, #ad"
+  - username: "aedanpetty"
+    fullname: >-
+      Aedan Petty
+    bio: >-
+      📸Automotive Photo/Video 📍San Antonio TX 🇰🇷Bk2 Gen Coupe 3.8
+    location: "United States"
+    followers: 4432
+    engagement: 674
+    commentsToLikes: 0.112590
+    id: ckaor6vx1lz780i78dqci37ib
+    verified: false
+    hashtags: "#stance, #c63amg, #tracktoys, #roushperformance"
+  - username: "satexasfoodies"
+    fullname: >-
+      Cherise Moreno
+    bio: >-
+      We HELP YOU find the most Delicious Spots all around San Antonio Texas 🤤 & Create Content for Restaurants on Social Media 📱
+    location: "United States"
+    followers: 180546
+    engagement: 415
+    commentsToLikes: 0.057351
+    id: ckqm27t8gtsjz0j2394fw5wz5
+    verified: false
+    hashtags: "#sanantoniotx, #sanantoniofood, #safoodie, #thingstodoinsanantonio"
   - username: "hector_tanajara"
     fullname: >-
       El Finito
     bio: >-
-      Professional boxer signed with Golden Boy Promotions 👊 19-0 (5KO's) #TeamTanajara #RGBA #210 💯 Westside San Antonio, Texas Twitter: hector_tanajara
+      Professional Boxer 👊 🇲🇽🇺🇸 #TeamTanajara #RGBA #210 💯 From Westside San Antonio, Texas Twitter: hector_tanajara
     location: "United States"
-    followers: 20594
-    engagement: 913
-    commentsToLikes: 0.030677
+    followers: 20483
+    engagement: 669
+    commentsToLikes: 0.038890
     id: ck5hisq1vf6qf0i11pyl00xj6
     verified: true
-    hashtags: "#rgba, #teamtanajara, #210, #sanantonio"
-  - username: "paradiisedd"
+    hashtags: "#rgba, #210, #boxing, #sanantonio"
+  - username: "cediosman"
     fullname: >-
-      Paradise Deedee 🦋
+      Cedi Osman
     bio: >-
-      San Antonio, TX || My baby in heaven|| June 18th 👼🏽🙏💕 Chestnut - July 14th🙏❣️
+      #TheFirstCedi | San Antonio Spurs and Turkish National Team | @unicef Goodwill Ambassador | For business and communication inquiries: @possiblesft
     location: "United States"
-    followers: 345234
-    engagement: 878
-    commentsToLikes: 0.017756
-    id: ckap124a3ssfd0i78ek1famat
-    verified: false
-    hashtags: "#justiceforparadise"
-  - username: "jeremypiven"
-    fullname: >-
-      Jeremy Piven
-    bio: >-
-      Next up: San Antonio & Dallas !
-    location: "United States"
-    followers: 585929
-    engagement: 255
-    commentsToLikes: 0.029592
-    id: ck1352indzdg10i190vf40ju2
+    followers: 1325581
+    engagement: 1026
+    commentsToLikes: 0.008631
+    id: ck14jdg4ujsco0i1923k3xu3g
     verified: true
-    hashtags: "#berniesanders, #mondaynightfootball, #motivationmonday, #workout"
-  - username: "desslaying"
+    hashtags: "#thefirstcedi, #turkiye, #thegamenight, #gq"
+  - username: "foodiefeastsa"
     fullname: >-
-      Destiny 💞
+      Foodie Feast SA | SATX Content Creator
     bio: >-
-      Only social media San Antonio TX 📍 Your favorite lash tech 😉 @beautyblvdlashes 💝 Desmond’s mommy 💙
+      Hey Fellow Foodies! Foodie of SATX Things 2 do,lifestyle DM to Collaborate San Antonio,Texas FoodiefeastSA@gmail.com #satxbloggers #sanantoniofoodie
     location: "United States"
-    followers: 5722
-    engagement: 686
-    commentsToLikes: 0.081105
-    id: ckap2lv46zemc0i787h4xf8ap
+    followers: 9242
+    engagement: 367
+    commentsToLikes: 0.310152
+    id: clnlb53c1tj2u0j089da8zsz7
     verified: false
-    hashtags: ""
-  - username: "devin.bui"
+    hashtags: "#sanantoniopizza, #satxfoodies, #sanantonioeats, #bobatea"
+  - username: "arelgi"
     fullname: >-
-      d
+      ANDRÉS | DESIGNER & CREATOR
     bio: >-
-      san antonio, tx
+      Creative Professional in San Antonio, TX 📍 Restaurantes, Negocios, y Vida Local. Hablo Español 🇲🇽🇺🇸🏳️‍🌈
     location: "United States"
-    followers: 29626
-    engagement: 2405
-    commentsToLikes: 0.014618
-    id: ck8wg5nm3gs000j785gsba1of
+    followers: 13909
+    engagement: 330
+    commentsToLikes: 0.144236
+    id: cl8jeam865cha0i23rc3jot5h
     verified: false
-    hashtags: "#ad, #blackouttuesday"
-  - username: "seannelsonphoto"
+    hashtags: "#sanantoniotexas, #sanantonio, #sanantoniotx, #graphicdesigner"
+  - username: "sarahrunstexas"
     fullname: >-
-      Sean Nelson Photo
+      Sarah Bulin
     bio: >-
-      Las Vegas based Travel Schedule: Phoenix | San Antonio | Portland
+      Runner; Dog Mom; Texan Neuroscientist Training for @chevronhoustonmarathon Brooks #RunHappyTeam Shokz #Shokstar San Antonio TX
     location: "United States"
-    followers: 89333
-    engagement: 194
-    commentsToLikes: 0.063088
-    id: ck0u0oabfubt50i19u2wtv7m9
+    followers: 15139
+    engagement: 314
+    commentsToLikes: 0.069233
+    id: cliteb4tryuwz0j08w1qh5nfv
     verified: false
-    hashtags: "#canonshooter, #canonshooters, #canonr5, #fitlifestyles"
-  - username: "drewdatower"
-    fullname: >-
-      Drew Eubanks
-    bio: >-
-      •Portland•San Antonio•
-    location: "United States"
-    followers: 15307
-    engagement: 1235
-    commentsToLikes: 0.021810
-    id: ck5cemvahlaxk0i11jtkbcxx5
-    verified: true
-    hashtags: "#portlandgear, #keeporegongreen, #oregonfoodbank, #oregon"
+    hashtags: "#fitfam, #runnersofinstagram, #instarunners, #longrun"
 ---

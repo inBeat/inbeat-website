@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Montreal In 2023
+title: Top 10 Instagram Influencers In Montreal In 2024
 description: >-
-  Find top Instagram influencers in Montreal in 2023. Most popular hashtags: #ad #makehomematter #apartmenttherapy.
+  Find top Instagram influencers in Montreal in 2024. Most popular hashtags: #montreal #apartmenttherapy #mtlmoments.
 platform: Instagram
-hits: 266
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 266 Instagram influencers like this in Montreal, Canada for you to work with.
+hits: 554
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 554 Instagram influencers like this in Montreal, Canada for you to connect with.
 profiles:
   - username: "i_love_mtl"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck8syr70dlp280j784cd6bhi7
     verified: false
     hashtags: "#montreal"
-  - username: "claudiemercier_"
+  - username: "florencestignan"
     fullname: >-
-      CLAUDIE
+      Florence St-Ignan
     bio: >-
-      26 ans, heureuse, anxieuse assumée, Montréal. Youtubeuse 📸🎥 ✨ Magasine ma collection juste ici ✨
+      Montreal gal PR @chefcookit 💌 stignan@hotmail.com
     location: "Canada"
-    followers: 320591
-    engagement: 433
-    commentsToLikes: 0.022666
-    id: ckap48u1b69cf0i78dt14f4ib
-    verified: true
-    hashtags: "#dovepartner, #ad, #journaltrouvaillespc, #partenaire"
-  - username: "laeticia_andritiana"
-    fullname: >-
-      Laeticia💋
-    bio: >-
-      📍Montreal, CA 💌 laeticiaandritiana@ooocreators.com
-    location: "Canada"
-    followers: 6721
-    engagement: 727
-    commentsToLikes: 0.064982
-    id: cl8p48xr28es30i23yxktrs98
+    followers: 12542
+    engagement: 1071
+    commentsToLikes: 0.043413
+    id: ckq0ivwn5dx8j0j23rafbv415
     verified: false
-    hashtags: "#yul, #photodump, #photoideas, #outfitoftheday"
-  - username: "kelly.kiko"
+    hashtags: "#gifted, #ad, #wilderharrier"
+  - username: "natalielovesbeauty"
     fullname: >-
-      in a world of my own ☾ .⭒• *⋆˚☆
+      ᴡᴡᴡ.ɴᴀᴛᴀʟɪᴇʟᴏᴠᴇꜱʙᴇᴀᴜᴛʏ.ᴄᴏᴍ
     bio: >-
-      montréal 🧚🏼‍♀️
+      By @nataliejerebic ✧ skincare nut ✧ plant-based ✧ dog mom ▹ montreal, canada 🇨🇦 ▹ partnerships » natalielovesbeauty@gmail.com ↡ blog • youtube ↡
     location: "Canada"
-    followers: 99828
-    engagement: 447
-    commentsToLikes: 0.006216
-    id: ckzzr31kf58rb0i23vwanvdek
+    followers: 39101
+    engagement: 538
+    commentsToLikes: 0.051934
+    id: cl5j74izx70zq0i2346r8topw
     verified: false
-    hashtags: "#outfitinspo, #codibook"
-  - username: "saralevs"
+    hashtags: "#kravebeauty, #ad, #kbpartner, #ontheblog"
+  - username: "loganmedeiros"
     fullname: >-
-      SARA LEVITT
+      Logan Medeiros
     bio: >-
-      montreal fashion | lifestyle | home eCommerce manager @noizeoriginal
+      fashion, fitness, beauty & lifestyle 📍montréal 💌 loganmedeiros44@gmail.com tiktok (270k), links & more:
     location: "Canada"
-    followers: 5963
-    engagement: 295
-    commentsToLikes: 0.075173
-    id: ckaoszed3towd0i78ukl5z3y1
+    followers: 33499
+    engagement: 6576
+    commentsToLikes: 0.051953
+    id: ckf5n0rnmw99f0j238jo8l9i0
     verified: false
-    hashtags: "#lacucina"
-  - username: "thefarmhousedream"
+    hashtags: "#apartmentlife, #highrise, #aesthetic, #apartmentliving"
+  - username: "emilia.gig"
     fullname: >-
-      J o e l l e | Home & DIY
+      Émilia
     bio: >-
-      Montreal | FR | 🇨🇦 Mom of 4 Passionnée de Déco - CAPSULE: Tous les mercredis on s’organise ! Conseil | Reno | inspiration Philippiens 4:8
+      🩺 étudiante infirmière ✈️ maman voyageuse 📍Montreal, Canada 👶🏻 @lennoxfami.ly 📩 @hauteinfluence_
     location: "Canada"
-    followers: 41267
-    engagement: 215
-    commentsToLikes: 0.193640
-    id: ckryhsu75ptfh0j23x5qeoy3q
+    followers: 30546
+    engagement: 1117
+    commentsToLikes: 0.075888
+    id: ckx7gjxt31s1w0j23tq87e9th
     verified: false
-    hashtags: "#thisminimalhome, #embracethemess, #mylovelyneutrals, #housebeautiful"
-  - username: "anacruz"
+    hashtags: "#boston, #restaurantmontreal, #ai, #howdoyoudove"
+  - username: "nickibats"
     fullname: >-
-      Ana Cruz🌶
+      NICKI BATS
     bio: >-
-      Colombiana 🇨🇴 Based in Montreal Fashion + lifestyle • contactanacruz@gmail.com
+      Toronto 🦋 Montréal ugc creator • influencer • model collab: contact.nickibats@gmail.com
     location: "Canada"
-    followers: 21900
-    engagement: 202
-    commentsToLikes: 0.108976
-    id: ck0u9oei7ad2e0i198tdo1bex
+    followers: 6634
+    engagement: 407
+    commentsToLikes: 0.111856
+    id: ckmw1dsgd6qqo0j23kndyy0s0
     verified: false
-    hashtags: "#makeup, #ad, #makeuptutorial, #foodie"
-  - username: "jessika.denommee"
+    hashtags: "#torontofashion, #selinalife, #millennialmoney, #meetyouthere"
+  - username: "sandy_fung"
     fullname: >-
-      Jessika Dénommée
+      Sandy Fung
     bio: >-
-      📍Montréal / AZ 🔹Owner of @popunderwear 💌 jessika@dulcedo.com 👇🏼 Ma compagnie
+      📍 Montréal | Canada 🖤 Motherhood | Beauty | Lifestyle 🖤 Mom of 3 boys 🖤 Escouade Véro @magazine_vero 📧 Fung.sandy@hotmail.com
     location: "Canada"
-    followers: 202726
-    engagement: 134
-    commentsToLikes: 0.036514
-    id: ck5zmrqizn3oj0i14ux0hiio8
-    verified: true
-    hashtags: "#goldgrowthgiveaways, #ad, #arizona, #tampabay"
-  - username: "caroline.elie"
-    fullname: >-
-      Caroline Elie
-    bio: >-
-      Mama to Max + Fab✨ Founder @rosie.ca EIC & Partner @divinedotca 📍Montreal 🇨🇦 #BeARosie
-    location: "Canada"
-    followers: 16155
-    engagement: 63
-    commentsToLikes: 0.187352
-    id: ckq6b03jqieln0j2333xve4l0
+    followers: 12318
+    engagement: 422
+    commentsToLikes: 0.088050
+    id: cksj7gjvucceo0j2397wltqeq
     verified: false
-    hashtags: "#ad, #olsenfashion, #myolsen, #twinning"
-  - username: "juliettebelangerc"
+    hashtags: "#momsquadqc, #montrealblogger, #momof3, #wednesdaymotivation"
+  - username: "veryjoelle"
     fullname: >-
-      Juliette Bélanger-Charpentier
+      Joëlle Paquette
     bio: >-
-      • Montréalaise • Titulaire d’un baccap en arts ès sciences spécialisé en victimologie et en criminologie • juliettebelangerc@gmail.com
+      Sustainable fashion • beauty • lifestyle Représentée par @agencevalides ✉️ joelle@valides.ca 📍Montreal
     location: "Canada"
-    followers: 56309
-    engagement: 42
-    commentsToLikes: 0.001243
-    id: ck5cevmmrlsu30i118p3pdj58
+    followers: 12405
+    engagement: 1036
+    commentsToLikes: 0.097308
+    id: ckq6b03mziep50j230l5w290h
     verified: false
-    hashtags: "#metoo"
+    hashtags: "#mtlblogger, #sewyourselfsustainable, #modeethique, #upcycleclothing"
+  - username: "karinedube_styliste"
+    fullname: >-
+      Karine Dubé Styliste Perso
+    bio: >-
+      Styliste personnelle Bloom par Karine Dubé/ Fashion stylist karine@bloomkd.com 📍 Montreal karine@bloomkd.com
+    location: "Canada"
+    followers: 13286
+    engagement: 1282
+    commentsToLikes: 0.004646
+    id: cld8ldsvodfdi0j08pcdj1jb7
+    verified: false
+    hashtags: "#mtl, #montrealentrepreneur, #mystylediary, #fashionstylist"
+  - username: "lavieencreme"
+    fullname: >-
+      sandrine
+    bio: >-
+      beauty ~ aesthetics 🩵 montréal ugc content creator 💌 lavieencream@gmail.com
+    location: "Canada"
+    followers: 41590
+    engagement: 807
+    commentsToLikes: 0.058106
+    id: ckp73p32kykpt0j23qiocertt
+    verified: false
+    hashtags: "#aestheticreels, #skincarereels, #beautyreels, #makeupreels"
 ---

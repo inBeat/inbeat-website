@@ -1,12 +1,24 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Switzerland In 2023
+title: Top 10 Photographers Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top photographers Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #photography #zurich #portrait.
+  Find top photographers Instagram influencers in Switzerland in 2024. Most popular hashtags: #switzerland #photography #glacier #nature.
 platform: Instagram
-hits: 152
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat holds 152 Instagram influencers like this in Switzerland for you to connect with.
+hits: 161
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 161 Instagram influencers like this in Switzerland for you to connect with.
 profiles:
+  - username: "adaapop"
+    fullname: >-
+      Ada Pop
+    bio: >-
+      Owner: @toous.media Photographer GymBeam discount: ada5
+    location: "Switzerland"
+    followers: 62039
+    engagement: 944
+    commentsToLikes: 0.005056
+    id: ck55kr3ffzx2l0i11dwbfgtp5
+    verified: false
+    hashtags: "#clujnapoca, #romania, #viatransilvanica, #unpackchanel"
   - username: "niklas.eschenmoser"
     fullname: >-
       Niklas Eschenmoser
@@ -18,7 +30,67 @@ profiles:
     commentsToLikes: 0.034666
     id: ck14hpkiqbhmi0i19zx9qg4h0
     verified: false
-    hashtags: "#doubs, #nature, #biodiversity, #fleetingglaciers"
+    hashtags: "#doubs, #nature, #biodiversity, #landscapephotography"
+  - username: "detojan"
+    fullname: >-
+      Dejan Tosetti
+    bio: >-
+      photographer x filmmaker let my photography inspire you contact@detojan.art Based in Switzerland
+    location: "Switzerland"
+    followers: 220903
+    engagement: 1706
+    commentsToLikes: 0.053788
+    id: ck0twuxz5gur00i19tiwsf4i1
+    verified: false
+    hashtags: "#thecreative, #dubailife, #wonderfulindonesia, #dji"
+  - username: "stefan_forster_photography"
+    fullname: >-
+      Stefan Forster
+    bio: >-
+      Photographer & Filmmaker from Switzerland. BBC, Netflix, Google, Arte, Warner Bros... Owner and expedition leader of photocube.ch
+    location: "Switzerland"
+    followers: 72537
+    engagement: 466
+    commentsToLikes: 0.014256
+    id: ck0u9n3d0a72t0i19ko86r0q9
+    verified: false
+    hashtags: "#sunrise, #arctic, #stefanforster, #auroraborealis"
+  - username: "doosli"
+    fullname: >-
+      Daniel Conrad Loosli
+    bio: >-
+      Skier and Photographer @snowparklaax @lineskis @dakine_europe @oakleyskiing @lookbindings
+    location: "Switzerland"
+    followers: 10085
+    engagement: 1606
+    commentsToLikes: 0.040441
+    id: ck0w320bir89f0i19wfl1e6oe
+    verified: false
+    hashtags: "#linesakana, #lineblade, #myoakleycustom"
+  - username: "propeleris"
+    fullname: >-
+      Vestuvių Fotografas ir Turinio Kūrėjas 📷🎥🎬🎞️
+    bio: >-
+      Photographer, Videographer, Aviator, Bushcrafter. Wedding Portfolio: @weddingphotography.lt 📸 Social Media Agency: @socialmediasolutions.lt VLOG 👇👇👇
+    location: "Switzerland"
+    followers: 4994
+    engagement: 365
+    commentsToLikes: 0.009666
+    id: ck13bzqlqxxy50i19kcu3zqg5
+    verified: false
+    hashtags: "#bostonterrierlove, #vilnius, #dalalalt, #bostonterriersofinstagram"
+  - username: "kink_engineer"
+    fullname: >-
+      Kink Engineer
+    bio: >-
+      ▶️ Photographer based in Switzerland 🇨🇭 ▶️ Collaboration? DM please (EN, D) ▶️ No follow with empty/trash profiles
+    location: "Switzerland"
+    followers: 46822
+    engagement: 357
+    commentsToLikes: 0.009088
+    id: ck14iihysfkmu0i1925rt9frh
+    verified: false
+    hashtags: "#latexkittysuit, #catsuits, #clubbingoutfit, #sushi"
   - username: "championscars"
     fullname: >-
       Championscars
@@ -30,101 +102,29 @@ profiles:
     commentsToLikes: 0.014640
     id: ck0w5jp2z3yxd0i19eg6sv3gb
     verified: false
-    hashtags: "#sanktgallen, #911, #porschegt3cup, #dtmsportscars"
-  - username: "massiahzavahir"
+    hashtags: "#lamborghini, #sto, #gt3, #carphotography"
+  - username: "janhvizdal"
     fullname: >-
-      MassiahZavahir
+      Jan Hvízdal Photography
     bio: >-
-      ..creating.. ▪️Dancer | Choreographer 📸Photographer - DM for bookings ▪️Credits: Kanye West - Honor Up, MCM, Puma, BRAUN, Swatch, UO, Nike 📍Basel 🇨🇭
+      TRAVEL, DOG MUSHING, ADVENTURE Photographer @hurtigrutenexpeditions @fjallraven_shop_cz @planetopedia ambasador 🇨🇿 From Czech rep. 📍Everywhere 🌏
     location: "Switzerland"
-    followers: 6665
-    engagement: 748
-    commentsToLikes: 0.133208
-    id: ck5qcjwa7qxxx0i112ynf2ikk
+    followers: 24862
+    engagement: 281
+    commentsToLikes: 0.056138
+    id: ckf5lhqm3pls40j23vkdizgiy
     verified: false
-    hashtags: "#portraitphotography, #ootd, #libertyfairs, #zurich"
-  - username: "josevitari"
+    hashtags: "#travelgram, #traveling, #hikingwithdogs, #travel"
+  - username: "jonglr"
     fullname: >-
-      Josevi Tari
+      Jon Guler
     bio: >-
-      🇪🇸Spanish Model 📍 Zurich, Switzerland🇨🇭 📸 Men's Fashion & Lifestyle 🌍 Love Travelling around the world. photographer:📸📲📩
+      Filmmaker and Photographer from Zurich, Switzerland Member of @thealpinists #bealpine
     location: "Switzerland"
-    followers: 43474
-    engagement: 249
-    commentsToLikes: 0.360018
-    id: ck5hjldijgtwo0i114h28ac9n
+    followers: 45456
+    engagement: 253
+    commentsToLikes: 0.023180
+    id: ck0ttbfxp1zft0i19p0n01kr1
     verified: false
-    hashtags: "#dapperlydone, #dappermen, #menfashiontips, #tailoredsuit"
-  - username: "shunsukecos"
-    fullname: >-
-      Shunsuke
-    bio: >-
-      Model, Coser and Self-photographer | 23 | 🇨🇭
-    location: "Switzerland"
-    followers: 269637
-    engagement: 1427
-    commentsToLikes: 0.004861
-    id: ck6twj3c2sa8p0j71w4rrad8q
-    verified: false
-    hashtags: "#naruto, #toxic, #sasuke, #britneyspears"
-  - username: "kalepipe"
-    fullname: >-
-      Nae 🥬
-    bio: >-
-      ✨ swiss-filipina photographer and visual artist dm or mail for creative collaborations.
-    location: "Switzerland"
-    followers: 38324
-    engagement: 954
-    commentsToLikes: 0.005134
-    id: ckf5rmr9xd8fr0j23md5kl0z9
-    verified: false
-    hashtags: ""
-  - username: "richardjuilliart"
-    fullname: >-
-      Richard juilliart
-    bio: >-
-      Photographer based in Switzerland
-    location: "Switzerland"
-    followers: 18198
-    engagement: 891
-    commentsToLikes: 0.003853
-    id: ck6udq8bvmj7v0j71a9skrd48
-    verified: false
-    hashtags: "#education, #humanitarian, #photojournalism, #geneva"
-  - username: "alex_lambrechts"
-    fullname: >-
-      Alex Lambrechts
-    bio: >-
-      Official Photographer - LFI Leica Fotografie International Auteur / Filmmaker Rep. ROGUES ARTIST MANAGEMENT Based 🇨🇭+ 🇬🇧 Born 🇺🇾 Raised 🇦🇺
-    location: "Switzerland"
-    followers: 132957
-    engagement: 582
-    commentsToLikes: 0.000000
-    id: ck5bvtowekdri0i11b0x53sc1
-    verified: true
-    hashtags: "#teamgalaxy, #16mm, #amalficoast, #withgalaxy"
-  - username: "dadic.zada"
-    fullname: >-
-      Zིaིdིaི
-    bio: >-
-      Hobby Photographer📷 From 🇧🇦..Live in Switzerland.🇨🇭 Landscape & Nature Photography/Hiking 🏔🇨🇭🥾🏕 No Private Messages..📵
-    location: "Switzerland"
-    followers: 16289
-    engagement: 1335
-    commentsToLikes: 0.186208
-    id: ckap4b48i6kci0i78lw2qoe4g
-    verified: false
-    hashtags: "#mountains, #berge, #blumenliebe, #tulips"
-  - username: "stefanrappo"
-    fullname: >-
-      Stefan Rappo
-    bio: >-
-      Swiss photographer based in Paris traveling worldwide All images © Stefan Rappo mail@stefan-rappo.com
-    location: "Switzerland"
-    followers: 56878
-    engagement: 189
-    commentsToLikes: 0.020529
-    id: ck0ub9vf8e5ri0i19s87r1b92
-    verified: false
-    hashtags: "#underwater, #schlangenfrau, #color, #blackandwhite"
+    hashtags: "#adventure, #diewocheaufinstagram, #bealpine, #switzerland"
 ---

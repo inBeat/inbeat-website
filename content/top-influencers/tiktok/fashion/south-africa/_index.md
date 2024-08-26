@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In South Africa In 2023
+title: Top 10 Fashion TikTok Influencers In South Africa In 2024
 description: >-
-  Find top fashion TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #fashion #tiktoksouthafrica #foryou.
+  Find top fashion TikTok influencers in South Africa in 2024. Most popular hashtags: #fyp #fashion #tiktoksouthafrica #foryoupage.
 platform: TikTok
 hits: 35
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform has 35 TikTok influencers like this in South Africa for you to pitch.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: inBeat holds 35 TikTok influencers like this in South Africa for you to pitch.
 profiles:
   - username: "__ohsodandy_"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.028305
     id: ck9gtpy8qnsyb0j78js37bl1k
     verified: false
-    hashtags: "#dancechallenge, #rakeitup, #foryou, #dance"
+    hashtags: "#dance, #foryou, #dancechallenge, #fyp"
   - username: "kimsayers1"
     fullname: >-
       kimsayers1

@@ -1,24 +1,12 @@
 ---
-title: Top 10 Comics TikTok Influencers In 2023
+title: Top 10 Comics TikTok Influencers In 2024
 description: >-
-  Find top comics TikTok influencers in 2023. Most popular hashtags: #fyp #duet #funny #marvel.
+  Find top comics TikTok influencers in 2024. Most popular hashtags: #fyp #duet #marvel #comic.
 platform: TikTok
 hits: 1340
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 1340 TikTok influencers like this for you to connect with.
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 1340 TikTok influencers like this for you to contact.
 profiles:
-  - username: "bitsytandem"
-    fullname: >-
-      Bitsy Tandem
-    bio: >-
-      Lives in Japan🌸 Creator of Maiden in Disguise comic🎮 Smol bean gamer💕 5'2
-    location: "United States"
-    followers: 25900
-    engagement: 2063
-    commentsToLikes: 0.097209
-    id: ck8s4hp31bagq0j78vnnwzf6g
-    verified: false
-    hashtags: "#mangakagirl, #sleepy, #sleepyhead, #mangaka"
   - username: "thatgirlmagicmo"
     fullname: >-
       Magic Mo
@@ -31,6 +19,30 @@ profiles:
     id: ckbknlygbhn2p0j23wh3fz17m
     verified: false
     hashtags: "#spicybooks, #teentitans, #romancebooks, #smut"
+  - username: "obnoxiousexcalibur"
+    fullname: >-
+      Emotional Whackjob
+    bio: >-
+      18, WA your local momoe kinnie Hiiii you guys can call me El! read my comic ⬇️
+    location: "United States"
+    followers: 14900
+    engagement: 1937
+    commentsToLikes: 0.049759
+    id: ck9noaaz1t53a0j781wxk2khp
+    verified: false
+    hashtags: "#ishitaquinn, #jakashirenn, #momoesawaki, #owlhouse"
+  - username: "bitsy_the_alien"
+    fullname: >-
+      Bitsy Tandem
+    bio: >-
+      Lives in Japan🌸 Creator of Maiden in Disguise comic🎮 Smol bean gamer💕 5'2
+    location: "United States"
+    followers: 26700
+    engagement: 1389
+    commentsToLikes: 0.054143
+    id: ck8s4hp31bagq0j78vnnwzf6g
+    verified: false
+    hashtags: "#genshinvtuber, #ocart, #vtuberavatarprocess, #skeb"
   - username: "alexarellano497"
     fullname: >-
       Alex Arellano
@@ -115,16 +127,4 @@ profiles:
     id: ckdsukez5ptqd0j23fkjcbsmv
     verified: false
     hashtags: "#stitch, #dc, #mcu, #didyouknow"
-  - username: "batman.a7x"
-    fullname: >-
-      Raven 
-    bio: >-
-      Batman’s official wife 21, ♌️ Wattpad: batman_a7x Spn,rock,anime,comics,disney
-    location: "United States"
-    followers: 11400
-    engagement: 1417
-    commentsToLikes: 0.094613
-    id: ck9evgsyqicis0j786qqnzt73
-    verified: false
-    hashtags: "#october, #greed, #green, #angeldust"
 ---

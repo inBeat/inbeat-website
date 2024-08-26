@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Austria In 2023
+title: Top 10 Instagram Influencers In Austria In 2024
 description: >-
-  Find top Instagram influencers in Austria in 2023. Most popular hashtags: #vienna #girl #ootd.
+  Find top Instagram influencers in Austria in 2024. Most popular hashtags: #austria #nature #view #love.
 platform: Instagram
-hits: 864
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 864 Instagram influencers like this in Austria for you to work with.
+hits: 1041
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 1041 Instagram influencers like this in Austria for you to pitch.
 profiles:
-  - username: "retegan.denisa"
+  - username: "sens.robert"
     fullname: >-
-      Denisa
+      Robert Sens
     bio: >-
-      Stay pretty, be educated, dress well. based in Vienna inquiries: retegandenisa@gmail.com
+      Austrian Rowing 🇦🇹 Head Coach @austrianrowing AIROW - Head of Sports https://airow.univie.ac.at former rower: World Champion in sweep and scull 🥇🥇🥇
     location: "Austria"
-    followers: 110633
-    engagement: 879
-    commentsToLikes: 0.030749
-    id: ck13bwlevxhn40i190ehwdmbw
+    followers: 13971
+    engagement: 1075
+    commentsToLikes: 0.004556
+    id: ck6txdp3jx8kc0j71rksivfff
     verified: false
-    hashtags: "#womanslook, #spain, #streetstyle, #bigcitylife"
-  - username: "katharinaannamaria"
+    hashtags: "#rowingmorethanasport, #rowingboat, #rowingispassion, #austrianrowingteam"
+  - username: "katharinasophia.k"
     fullname: >-
-      katharina ☼☾
+      Katharina Kletzer
     bio: >-
-      📍tirol | 28 | part time sportsmodel currently biking, running or hiking ✌🏻🏔 bookings: info@katharinaannamaria.at find my photo editing guide here:
+      always chasing sunsets ☀️ Austrian girl in Australia 🇦🇺 collaborations.katharinasophia@gmail.com 💌
     location: "Austria"
-    followers: 101930
-    engagement: 1478
-    commentsToLikes: 0.003403
-    id: cl5l32vs392ou0i23e24a1jfz
+    followers: 15018
+    engagement: 406
+    commentsToLikes: 0.045564
+    id: ckap096f7pax90i78kdqnlhnc
     verified: false
-    hashtags: "#mallorca, #curls, #cupratribe, #myviu"
-  - username: "katereplay"
+    hashtags: "#denisebobe, #bloggerstyle, #springisintheair, #australia"
+  - username: "rene_rodrigezz"
     fullname: >-
-      🏳️‍🌈◼️Kate ◼️🏳️‍🌈
+      Rene Rodrigezz
     bio: >-
-      a gentle rebel pain is temporary, drip is forever gothic & divine ✨ ▫️𝕿𝖆𝖙𝖙𝖔𝖔𝖘 / 𝕷𝖎𝖋𝖊𝖘𝖙𝖞𝖑𝖊 / 𝕬𝖉𝖛𝖊𝖓𝖙𝖚𝖗𝖊▫️ VIENNA | 22 ☠️❤️‍🔥⛓
+      …More than a DJ! DJ, Producer, Artist. 🔥🔽 All my links for you.🔽🔥
     location: "Austria"
-    followers: 106691
-    engagement: 1913
-    commentsToLikes: 0.013962
-    id: ck5q7vugm3ad90i11b9uw3i3i
-    verified: false
-    hashtags: "#tattoodesign, #tattoostyle, #angel, #tattoogirl"
-  - username: "paul_unterleitner"
+    followers: 23745
+    engagement: 533
+    commentsToLikes: 0.015544
+    id: ck5hlju6pkclb0i1103c8lr84
+    verified: true
+    hashtags: "#electriclovefestival, #violinmusic, #renerodrigezz, #violinlover"
+  - username: "angela.neururer"
     fullname: >-
-      PAUL UNTERLEITNER | 🇦🇹 OAK 2.0
+      Angela Neururer
     bio: >-
-      Berlin/Vienna, 23 y/o 🔹Natural Pro Bodybuilder - Vegan 🌱 🔸#TEAMROCKA (Code: PAUL) 🔹Road to IFBB PRO🔥 🔸Training since 2015 🔹Youtuber 🔸192cm, 108kg
+      🌞happy is the new rich 🏔Outdoor & Mountains & Yoga 🤎ambassador for : @jackwolfskin & @visittirol 🌼 angela.neururer@outlook.com
     location: "Austria"
-    followers: 453370
-    engagement: 414
-    commentsToLikes: 0.005670
-    id: ck0vyg7xx3tuz0i19oon15579
+    followers: 142585
+    engagement: 896
+    commentsToLikes: 0.022733
+    id: ckwvisegzvqny0j23qwg49i6o
     verified: false
-    hashtags: "#teamrocka, #tabacwildride, #tabacfragrances"
-  - username: "beamsareeda"
+    hashtags: "#adventure, #mountainlove, #lake, #outsideisfree"
+  - username: "tobyromeomusic"
     fullname: >-
-      
+      Toby Romeo
     bio: >-
-      ✨@BEDABEAUTY✨ Ekamai int♡ | Muic608♡ 💌 for work: LINE @beamsareeda or line:noofah3 // line: pongcasting YOUTUBE CHANNEL: Beamsareeda
+      💿 Platinum selling producer & DJ 💌 Bookings: ulee@book-kings.de 🪩 praising off-hats since 00‘
     location: "Austria"
-    followers: 156232
-    engagement: 267
-    commentsToLikes: 0.001658
-    id: ck0w62c6e6l4n0i19cvpm130v
+    followers: 23843
+    engagement: 433
+    commentsToLikes: 0.035721
+    id: ck5chmc16r1nh0i112f4xx345
     verified: false
-    hashtags: "#lazadath, #brandsonpomelo, #pomelogirls, #freshxlazmall"
-  - username: "laurakarasinski"
+    hashtags: "#melodichouse, #tobyromeo, #festivalsummer, #dj"
+  - username: "helenehuber"
     fullname: >-
-      Laura Karasinski
+      Helene | Salzkammergut
     bio: >-
-      Vienna based art director, interior designer & speaker. Founder of @atelierkarasinski Hostess of @hotelkarasinski Forbes 30 under 30 ✨
+      was ich liebe: draußen sein 🌿 blödeln mit Freunden 🌞 und bissl Fotografie 🎞️
     location: "Austria"
-    followers: 21847
-    engagement: 194
-    commentsToLikes: 0.013795
-    id: ck14hq0iabjys0i19rkv6yd0n
+    followers: 11856
+    engagement: 528
+    commentsToLikes: 0.011650
+    id: cl5l32sx090uv0i235n63vrzy
     verified: false
-    hashtags: "#523, #architecture, #caferitter, #laundromat"
-  - username: "marieyou__"
+    hashtags: "#ober, #fr, #uppermoments, #upperaustria"
+  - username: "tamara_tvl"
     fullname: >-
-      Lisa Marie Bicker
+      Tamara
     bio: >-
-      momlife•inspo•home wifey of @dooobi_81 mom to lio matteo 🤍 mom to clea ylvie 🤍 realtalk @marieyouofficial nordrhein-westfalen 📍
+      📍Austria 🇦🇹
     location: "Austria"
-    followers: 88106
-    engagement: 93
-    commentsToLikes: 1.068207
-    id: ck0w4kp88z1yx0i19imz8qtt1
+    followers: 150202
+    engagement: 538
+    commentsToLikes: 0.013919
+    id: ck8t4we3883cq0j78ghdl5ikv
     verified: false
-    hashtags: "#viral, #wellness, #toddler, #schwanger2022"
-  - username: "ebruerkut"
+    hashtags: "#fashionstyle, #photooftheday, #art, #happy"
+  - username: "miriammache"
     fullname: >-
-      Ebru Erkut, MA
+      Miriam Mache • Yoga
     bio: >-
-      — based in vienna, heart in nyc. fashion, beauty & interior tips. consultancy @ebruerkutcom founder @raysofmarch
+      Yoga Teacher 650hs+ certified RYT Creating beautiful happenings ꩜ @macma_retreats @macma_studios @macmahealthclub
     location: "Austria"
-    followers: 233806
-    engagement: 62
-    commentsToLikes: 0.014323
-    id: ck0u9i99p9yss0i19bwl9mf7s
+    followers: 118879
+    engagement: 625
+    commentsToLikes: 0.001865
+    id: ck0tuop0581bs0i19olsaklun
     verified: false
-    hashtags: "#vienna, #neutralstyle, #reels, #winteroutfit"
-  - username: "simply_lenny"
+    hashtags: "#yogagermany, #inversions, #wordstoliveby, #yogateacher"
+  - username: "patrese"
     fullname: >-
-      LENNY💋✌🏼
+      Patrick Langwallner
     bio: >-
-      Lenny‘s Little World of 🧘🏻‍♀️#yoga 🤸🏼‍♀️#fashion 💄 #traval ✈️ & #foodlover🍜
+      and Creative Director | bringing your brand to life @patrese.digital | @patrese_weddings | family of @polestarcars | @ninawro
     location: "Austria"
-    followers: 1406
-    engagement: 4049
-    commentsToLikes: 0.510271
-    id: ckap52mut9wvu0i78iu0g9589
+    followers: 13337
+    engagement: 405
+    commentsToLikes: 0.028454
+    id: ck0w3wd9gvmdu0i19x4vuqapn
     verified: false
-    hashtags: "#modeblogger, #potd, #reminder, #travelgoals"
-  - username: "aworldofdestinations_"
+    hashtags: "#portrait, #wedding, #reel, #salzburg"
+  - username: "susannaamarie"
     fullname: >-
-      MARIA | Travel Blog
+      SUSANNA | MOUNTAIN | HIKE | TIROL
     bio: >-
-      ⛰ Outdoor active ✈️ Off the beaten track travel ✨ Spreading positivity
+      happiest outdoors 🏔🎿🧗‍♀️🏃🏼‍♀️ • mountains • sports • travelling • from Tirol • Austria • office@susannamarie.at 💌
     location: "Austria"
-    followers: 4871
-    engagement: 1376
-    commentsToLikes: 0.144016
-    id: ck9hayzy3enod0j78lobgwmlq
+    followers: 34645
+    engagement: 483
+    commentsToLikes: 0.055834
+    id: ck0vwof5fusk50i19y8syluuz
     verified: false
-    hashtags: "#estoesmexico, #hotspring, #grutasdetolantongo, #greecetrip"
+    hashtags: "#outdoorwomen, #trailrun, #austrianmountaingirls, #mountaingirls"
 ---

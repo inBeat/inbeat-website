@@ -1,12 +1,24 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Poland In 2023
+title: Top 10 Gymnasts Instagram Influencers In Poland In 2024
 description: >-
-  Find top gymnasts Instagram influencers in Poland in 2023. Most popular hashtags: #gymnastics #fitness #motivation #fit.
+  Find top gymnasts Instagram influencers in Poland in 2024. Most popular hashtags: #gymnastics #fitness #polishboy #poland.
 platform: Instagram
-hits: 48
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 48 Instagram influencers like this in Poland for you to collaborate.
+hits: 44
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 44 Instagram influencers like this in Poland for you to collaborate.
 profiles:
+  - username: "juliamaciuszek"
+    fullname: >-
+      Julia Maciuszek
+    bio: >-
+      OCR athlete | World Championships AG bronze medalist | Ninja Warrior semi-finalist | Ambassador @runmageddon @supermenu_by_anna_lewandowska
+    location: "Poland"
+    followers: 29871
+    engagement: 127
+    commentsToLikes: 0.033055
+    id: ck5cc6lrcgt700i11nsga91o0
+    verified: false
+    hashtags: "#ninja, #workoutmotivation, #runmageddon, #ninjawarrior"
   - username: "lukasz_grzybowski"
     fullname: >-
       Łukasz Grzybowski
@@ -31,18 +43,6 @@ profiles:
     id: ck5hkj8x8iini0i11cdwso5f6
     verified: false
     hashtags: "#fit, #fitgirl, #bodypositive, #rhythmicgymnastics"
-  - username: "juliamaciuszek"
-    fullname: >-
-      Julia Maciuszek
-    bio: >-
-      🐒an aspiring young Ninja&OCR athlete 🤸‍♀️Acrobat 🌴Survivor Poland ✈️IndianaJules 🔥Ambasador @runmageddon 🍜food lover 💪🏻UATeam
-    location: "Poland"
-    followers: 17272
-    engagement: 449
-    commentsToLikes: 0.010841
-    id: ck5cc6lrcgt700i11nsga91o0
-    verified: false
-    hashtags: "#underarmour, #ocr, #strongwomen, #theonlywayisthrough"
   - username: "patioszka"
     fullname: >-
       Patrycja
@@ -55,18 +55,6 @@ profiles:
     id: ck5q9wa9jdc0t0i113sxxgog7
     verified: false
     hashtags: "#sikoragym, #carpatree, #gymwear, #books"
-  - username: "michal_urbanik"
-    fullname: >-
-      Michał Urbanik | Calisthenics
-    bio: >-
-      CEO @akademia_swc 📋Coaching online 📩 ℹTrening Siłowy & Medyczny ▪Muscle Ups 28x - World Record ▪Pull Up +100kg ▪Front Lever 53s ▪Dip +140kg
-    location: "Poland"
-    followers: 32628
-    engagement: 1166
-    commentsToLikes: 0.014913
-    id: ck55lfrad1gmv0i11xd9mo4wd
-    verified: false
-    hashtags: "#endurance, #gym, #power, #static"
   - username: "iwek_iwi"
     fullname: >-
       Iwona Drzymała
@@ -127,4 +115,16 @@ profiles:
     id: ck5hq3yb1sgca0i11ihznpr6z
     verified: false
     hashtags: "#nice, #trip, #chur, #inspiration"
+  - username: "jackevening"
+    fullname: >-
+      Jacek Wieczorek
+    bio: >-
+      Living healthy with a smile😊 Join my trainings here⬇️
+    location: "Poland"
+    followers: 103014
+    engagement: 927
+    commentsToLikes: 0.021481
+    id: ckf5r3wiabbza0j233job6wab
+    verified: false
+    hashtags: "#gymrat, #goodmorning, #trainer, #outfit"
 ---

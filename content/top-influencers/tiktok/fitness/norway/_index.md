@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Norway In 2023
+title: Top 10 Fitness TikTok Influencers In Norway In 2024
 description: >-
-  Find top fitness TikTok influencers in Norway in 2023. Most popular hashtags: #fyp #foryou #fitness #foryoupage.
+  Find top fitness TikTok influencers in Norway in 2024. Most popular hashtags: #fyp #foryou #fitness #foryoupage.
 platform: TikTok
 hits: 12
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 12 TikTok influencers like this in Norway for you to pitch.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 12 TikTok influencers like this in Norway for you to connect with.
 profiles:
   - username: "arielandreassen"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.038996
     id: ckc921y0nsdqy0j23vnhy8twz
     verified: false
-    hashtags: "#foryou, #foryoupage, #norway, #fyp"
+    hashtags: "#foryou, #xyzbca, #fyp, #norway"
   - username: "jockolife"
     fullname: >-
       Jocko

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In United Arab Emirates In 2023
+title: Top 10 Bloggers TikTok Influencers In United Arab Emirates In 2024
 description: >-
-  Find top bloggers TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #fyp #foryou #foryoupage.
+  Find top bloggers TikTok influencers in United Arab Emirates in 2024. Most popular hashtags: #dubai #fyp #foryoupage #uae.
 platform: TikTok
-hits: 14
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 14 TikTok influencers like this in United Arab Emirates for you to work with.
+hits: 13
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 13 TikTok influencers like this in United Arab Emirates for you to collaborate.
 profiles:
   - username: "zapy_zaps"
     fullname: >-
@@ -115,16 +115,16 @@ profiles:
     id: ckbrgn8v3rpl10j23kai9kugw
     verified: false
     hashtags: "#nadashareef, #nadsha, #instagram, #blogger"
-  - username: "surbhiwaliqueen"
+  - username: "shonidimpi"
     fullname: >-
-      Surbhi Wali
+      Dimps
     bio: >-
-      #ARCHERZMRSINDIA WINNER 2018| CHOREOGRAPHER |NATIONAL AWARD WINNER/SINGER/ANCHOR
+      Multitalented kudi❤️ Check the video out! https://www.youtube.com/watch?v=OSX
     location: "United Arab Emirates"
-    followers: 128200
-    engagement: 2112
-    commentsToLikes: 0.102224
-    id: ck903lnntdgy50j78s348zws1
+    followers: 281000
+    engagement: 979
+    commentsToLikes: 0.054744
+    id: ck8f82g0d3cn20j788bxihk2r
     verified: false
-    hashtags: "#surbhiw, #surbhiwali, #dubai, #styleaddictgirl"
+    hashtags: "#ownstyle, #dubailife, #wheretoeat, #uaelife"
 ---

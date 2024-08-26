@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Colombia In 2023
+title: Top 10 Bakers Instagram Influencers In Colombia In 2024
 description: >-
-  Find top bakers Instagram influencers in Colombia in 2023. Most popular hashtags: #bikersofinstagram #bmwmotorrad #motorbike.
+  Find top bakers Instagram influencers in Colombia in 2024. Most popular hashtags: #bikersofinstagram #motorbike #bmwmotorrad.
 platform: Instagram
-hits: 26
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 26 Instagram influencers like this in Colombia for you to collaborate.
+hits: 25
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 25 Instagram influencers like this in Colombia for you to connect with.
 profiles:
   - username: "moirasigal"
     fullname: >-
@@ -67,18 +67,6 @@ profiles:
     id: ckaorjriinjnm0i78t6lx9ya2
     verified: false
     hashtags: "#fyp, #mecurare"
-  - username: "suevygramer"
-    fullname: >-
-      sᴜᴇᴠʏ
-    bio: >-
-      🏃🏼‍♀️Nike Athlete ⚡️ @homeathlete_method 🥑No meat athlete 🌱Plant mami 🐱Cat mom AF @bakerandblair
-    location: "Colombia"
-    followers: 58030
-    engagement: 103
-    commentsToLikes: 0.015653
-    id: ck6u879q9pudr0j71zonz7f7s
-    verified: false
-    hashtags: "#trailrunner, #panama, #trailrun, #nikerunning"
   - username: "cam_daza"
     fullname: >-
       Camilo Daza
@@ -127,4 +115,16 @@ profiles:
     id: ck6u6go18fhot0j71pwp0lkn0
     verified: false
     hashtags: "#bikegirl, #bikelife, #highon, #bikergirl"
+  - username: "marrana.eats"
+    fullname: >-
+      Mariana Arango A
+    bio: >-
+      🌍 𝙫𝙞𝙖𝙟𝙖𝙢𝙤𝙨 𝙥𝙖𝙧𝙖 𝙘𝙤𝙢𝙚𝙧, 𝙘𝙤𝙢𝙚𝙢𝙤𝙨 𝙥𝙖𝙧𝙖 𝙫𝙞𝙖𝙟𝙖𝙧 👩🏼‍🍳chef ✈️ agencia de viajes 🍽 reviews y recetas 📲info
+    location: "Colombia"
+    followers: 62801
+    engagement: 134
+    commentsToLikes: 0.033615
+    id: ck5ch6qvwq7de0i11f0c2mnfo
+    verified: false
+    hashtags: "#viajes, #lima, #restaurantes, #travel"
 ---

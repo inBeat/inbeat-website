@@ -1,12 +1,48 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Malaysia In 2023
+title: Top 10 Yoga Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top yoga Instagram influencers in Malaysia in 2023. Most popular hashtags: #mindfulness #positivevibes #healthylifestyle.
+  Find top yoga Instagram influencers in Malaysia in 2024. Most popular hashtags: #reels #reelsvideo #yoga.
 platform: Instagram
-hits: 15
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 15 Instagram influencers like this in Malaysia for you to collaborate.
+hits: 17
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 17 Instagram influencers like this in Malaysia for you to work with.
 profiles:
+  - username: "_boblow"
+    fullname: >-
+      bob low 刘丝儿
+    bio: >-
+      yoga + health + nutrition ♡ love love everybody ~ ♡ 🍟 @rightside.my @luv_fits
+    location: "Malaysia"
+    followers: 103347
+    engagement: 375
+    commentsToLikes: 0.018019
+    id: ck5c5iynj3kba0i11q6datx22
+    verified: false
+    hashtags: "#happyfriday, #lbootd, #lbhaul, #shopeecelebritysquadmy"
+  - username: "soimjenn"
+    fullname: >-
+      Jenn Chia (So, I'm Jenn)
+    bio: >-
+      🇲🇾 Creator. ✍️ Content writer. 🧘‍♀️ Yoga instructor. 💚 Co-owner of @shopterrae Shop my first collection ⬇️ - ☎️: hello@soimjenn.com
+    location: "Malaysia"
+    followers: 622805
+    engagement: 328
+    commentsToLikes: 0.009677
+    id: ck136h7pm6hko0i19gtzljsm1
+    verified: false
+    hashtags: "#larocheposaymy, #grabdurian, #grabmy, #larocheposaysg"
+  - username: "hanlibubu"
+    fullname: >-
+      Hanlibubu 陈汉梨
+    bio: >-
+      ✝️ God‘s Child 🧘🏻‍♀️ Model • Yoga • Travel • Fitness 💻 @soinmediatalentsandevents @hanlibubu_escapades 🎥 YT: Hanlibubu 📥 soinmedia@hanlibubu.com
+    location: "Malaysia"
+    followers: 106448
+    engagement: 132
+    commentsToLikes: 0.052482
+    id: ck0vy58c32am90i192780f20n
+    verified: false
+    hashtags: "#hanlibubu, #tennis, #wakesurfing, #tips"
   - username: "chromaticcharms"
     fullname: >-
       ⒼⒾⓃⒸⒽⒺⓃ | Travel X Lifestyle
@@ -67,18 +103,18 @@ profiles:
     id: ck8tdoo2546no0j78avt2r4po
     verified: false
     hashtags: ""
-  - username: "vireema"
+  - username: "priyaasimmi"
     fullname: >-
-      Reema
+      Priyaa Simmi
     bio: >-
-      Free soul #Nutritionist & #Yoga instructor Moj Id @vireema
+      🔝15 Mrs World | Mrs Malaysia World 2019-2021 👑| Founder/Director @ecoqueen.co @security2u.asia @saiwelfare | Global Iconic Woman 2023 Award |
     location: "Malaysia"
-    followers: 476408
-    engagement: 438
-    commentsToLikes: 0.016385
-    id: ck0ua71hsbm2h0i19yohlwtn9
+    followers: 47682
+    engagement: 201
+    commentsToLikes: 0.018587
+    id: ckz1xhoyo3eih0j23tvx6pnif
     verified: false
-    hashtags: "#reels, #stayhappy, #goodvibes, #nofilter"
+    hashtags: "#mindfulness, #followforfollowback, #life, #photooftheday"
   - username: "mariannnela"
     fullname: >-
       MARIANNELA CATAÑO
@@ -91,40 +127,4 @@ profiles:
     id: ck5pvnw09isl90i11eydxy2uh
     verified: false
     hashtags: "#deliberatecreator, #mariannelacatan, #myyogajourney, #campechemexico"
-  - username: "andylinchichiu"
-    fullname: >-
-      AndyLin林子超
-    bio: >-
-      Shaw Brothers 邵氏兄弟 Job enquires: 📧:monica.lau@shawbrothers.hk 📞:+853 6486 0661/+852 2335 2118 Founder of @studio12hk Director of Andy’s Star Dance
-    location: "Malaysia"
-    followers: 23088
-    engagement: 238
-    commentsToLikes: 0.016512
-    id: ck5zqkk96urkz0i141f07s7ke
-    verified: false
-    hashtags: "#hkpersonaltrainer, #getshred, #grouptraining, #studio12hk"
-  - username: "dianwithlove"
-    fullname: >-
-      D I A N  L E E ⋆ 静霖
-    bio: >-
-      𝙱𝚎𝚒𝚗𝚐 & 𝙱𝚎𝚌𝚘𝚖𝚒𝚗𝚐 “Yesterday we obeyed kings & bent our necks before emperors. But today we kneel only to truth, follow only beauty & obey only love” ♡
-    location: "Malaysia"
-    followers: 39024
-    engagement: 158
-    commentsToLikes: 0.025442
-    id: ck6ty65i31wm90j7130sdds4r
-    verified: false
-    hashtags: "#awakening, #healing, #alchemysingingbowls, #spiritual"
-  - username: "bonnieloo94"
-    fullname: >-
-      Bonnie罗美仪
-    bio: >-
-      演员//歌手 唱歌🎤跳舞💃🏻 摄影📸拍戏 🎬 瑜伽🧘‍♀️运动🏊🏻‍♀️ @mediacorp Artiste #新加坡新传媒艺人 managed by @the_celebrityagency 工作联系For Work : yizhenngoh@mediacorp.com.sg Youtube
-    location: "Malaysia"
-    followers: 161822
-    engagement: 218
-    commentsToLikes: 0.013796
-    id: ck8sxez4bh5lv0j78cjnyxl3s
-    verified: true
-    hashtags: "#yogatime, #bonniestepsvlog, #aibifitness, #happy"
 ---

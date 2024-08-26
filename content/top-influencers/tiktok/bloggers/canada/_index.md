@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Canada In 2023
+title: Top 10 Bloggers TikTok Influencers In Canada In 2024
 description: >-
-  Find top bloggers TikTok influencers in Canada in 2023. Most popular hashtags: #foryou #fyp #foryoupage #blogger.
+  Find top bloggers TikTok influencers in Canada in 2024. Most popular hashtags: #foryou #fyp #foryoupage #blogger.
 platform: TikTok
 hits: 25
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 25 TikTok influencers like this in Canada for you to collaborate.
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 25 TikTok influencers like this in Canada for you to work with.
 profiles:
   - username: "fabulashqueen3"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.111219
     id: ckc3eylbx0u2u0j23ftzagj18
     verified: false
-    hashtags: "#smallbusinesstips, #smallbizowner, #fabulashqueencosmetics, #bossbabe"
+    hashtags: "#lippiesbiz, #fqc, #smallbizowner, #sheearnedit"
   - username: "pinkmillennial"
     fullname: >-
       pinkmillennial_
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.091257
     id: ckc3elrwz09v60j23kr335xp7
     verified: false
-    hashtags: "#pinkdress, #pinklover, #tiktokggt, #ootd"
+    hashtags: "#springoutfit, #pinkdress, #tiktokggt, #picnicaesthetic"
   - username: "pamperplace"
     fullname: >-
       thepamperplace
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.015909
     id: ckcp9huhcebyu0j23087mfvtl
     verified: false
-    hashtags: "#pimplepatch, #pimplepopping, #pimplepatchremoval, #yttp"
+    hashtags: "#pimplepopping, #yttp, #pimplepatchremoval, #pimplepatch"
   - username: "stefanaarnio"
     fullname: >-
       Stefan Aarnio
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.034366
     id: ck9v8tbhyb3ix0j785kt8ravb
     verified: false
-    hashtags: "#vancouverblogger, #travel, #skintechnique, #majakwei"
+    hashtags: "#foryou, #foryoupage, #trending, #beautyvlogger"
   - username: "teachmestyle"
     fullname: >-
       TEACHMESTYLE
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.016960
     id: ck9tuaphhkqnw0j78stkx38br
     verified: false
-    hashtags: "#vegan, #healthy, #foryou, #fashion"
+    hashtags: "#foryou, #delicious, #fashion, #recipe"
   - username: "allstylelife"
     fullname: >-
       Charlene Wong
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.107633
     id: ck8qe4kt7r4mf0j78zd5tuvkx
     verified: false
-    hashtags: "#12330workout, #fyp, #workout, #foryou"
+    hashtags: "#workout, #lifestyle, #12330workout, #fyp"
 ---

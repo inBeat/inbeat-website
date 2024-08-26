@@ -1,11 +1,11 @@
 ---
-title: Top 10 Wrestlers TikTok Influencers In 2023
+title: Top 10 Wrestlers TikTok Influencers In 2024
 description: >-
-  Find top wrestlers TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #wrestling #duet.
+  Find top wrestlers TikTok influencers in 2024. Most popular hashtags: #fyp #duet #greenscreen #wrestling.
 platform: TikTok
-hits: 395
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: inBeat holds 395 TikTok influencers like this for you to collaborate.
+hits: 407
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 407 TikTok influencers like this for you to contact.
 profiles:
   - username: "alyssa_mahan123"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.019188
     id: ckc8yj7ykn1bw0j23ded1ctnz
     verified: false
-    hashtags: "#faledojo, #motivation, #stitch, #toksfale"
+    hashtags: "#stitch, #toksfale, #motivation, #faledojo"
   - username: "rounak_wrestler"
     fullname: >-
       Rounak Ankit Gulia
@@ -115,16 +115,16 @@ profiles:
     id: ckb9upr0otl5g0j23ypkwtylq
     verified: false
     hashtags: "#duet, #sharethecare, #crazygirl, #india"
-  - username: "tatum_brannen"
+  - username: "j.willy21"
     fullname: >-
-      Lil Tate
+      Jason Wilcox
     bio: >-
-      Wrestler 17 years old sc : brannen_tatum Insta : brannen_tatum Skippy Fish 🐟
+      WA 🌲 Wrestler 🤼‍♂️ Snap: jason053503 👻 Insta: j.willy21 📸
     location: "United States"
-    followers: 10600
-    engagement: 2402
-    commentsToLikes: 0.032085
-    id: ckbfitcu2eyot0j23jpxordp4
+    followers: 5655
+    engagement: 2348
+    commentsToLikes: 0.033801
+    id: ckavktma2tuws0j23btquyni8
     verified: false
-    hashtags: "#fyp, #foryou, #greenscreen, #wrestling"
+    hashtags: "#greenscreen, #duet, #fyp, #fy"
 ---

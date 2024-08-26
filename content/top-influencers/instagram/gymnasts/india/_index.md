@@ -1,12 +1,48 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In India In 2023
+title: Top 10 Gymnasts Instagram Influencers In India In 2024
 description: >-
-  Find top gymnasts Instagram influencers in India in 2023. Most popular hashtags: #love #mumbai #gymnastics.
+  Find top gymnasts Instagram influencers in India in 2024. Most popular hashtags: #reels #reelsinstagram #fitness.
 platform: Instagram
-hits: 80
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our platform has 80 Instagram influencers like this in India for you to contact.
+hits: 99
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 99 Instagram influencers like this in India for you to work with.
 profiles:
+  - username: "anuditapaul_did"
+    fullname: >-
+      AP ♡
+    bio: >-
+      God's child🎱 | @justtheway.yourway 🤰 💫Did lil Master's season3/top8 🏆DBD Winner (2012-13) 🇮🇳 National Aero Gymnast Dm or email for collabs📩
+    location: "India"
+    followers: 81754
+    engagement: 696
+    commentsToLikes: 0.010118
+    id: ck8t8v8mplymh0j78klobdjqn
+    verified: false
+    hashtags: "#its, #reelsinstagram, #explorepage, #danceikon"
+  - username: "surendra.vk1"
+    fullname: >-
+      Surendra Vishwakarma
+    bio: >-
+      🇳🇵/🇮🇳/SPORTLOVER | GYMNAST 🤸‍♀️FLIPS 🔥 🤠YOUTUBER (2LAKH) SUBSCRIBER 👉DM FOR PAID 💰PROMOTION 🤍TRAVELLER ✈️️ 🙏🏻MY HOPE MY GOD
+    location: "India"
+    followers: 85083
+    engagement: 11522
+    commentsToLikes: 0.021481
+    id: ck8wfvcbagbfx0j78ma8gzd9u
+    verified: false
+    hashtags: "#reelitfeelit, #gymnast, #dancelife, #gymnastics"
+  - username: "abhinavparkour"
+    fullname: >-
+      Abhinav Parkour & Freerunning
+    bio: >-
+      Ditch the machines! Parkour Functional Calisthenics Gymnastics Cardio Kickboxing All age groups 👦Kids special! Book a demo session👇
+    location: "India"
+    followers: 26224
+    engagement: 134
+    commentsToLikes: 0.022942
+    id: ckap8mswsp14c0i78lu34v17b
+    verified: false
+    hashtags: "#hyderabad, #fun, #gymnastics, #girlpower"
   - username: "hayliehendrickson"
     fullname: >-
       Haylie
@@ -55,42 +91,6 @@ profiles:
     id: ck5hmvkqqmpa80i11rwwyk71f
     verified: false
     hashtags: "#8m7d, #30, #8m, #10m15d"
-  - username: "abhinavparkour"
-    fullname: >-
-      Abhinav Parkour & Freerunning
-    bio: >-
-      Ditch the machines! Parkour Functional Calisthenics Gymnastics Cardio Kickboxing All age groups 👦Kids special! Book a demo session👇
-    location: "India"
-    followers: 19375
-    engagement: 306
-    commentsToLikes: 0.014497
-    id: ckap8mswsp14c0i78lu34v17b
-    verified: false
-    hashtags: "#gymnastics, #hyderabad, #abhinavparkour, #fun"
-  - username: "ajmer_shaikh_k"
-    fullname: >-
-      (KICK) Ajmer Shaikh
-    bio: >-
-      Exclusively on @officialjoshapp 5.4 Million on Tiktok Gymnastic parkour tricker Dancer 💃 Manage by @myqyuki Singer Kick🔑☂️☂️🌋🥑💋
-    location: "India"
-    followers: 76608
-    engagement: 375
-    commentsToLikes: 0.009747
-    id: ck8wf2eizf0kj0j78b0tx3l8u
-    verified: false
-    hashtags: "#backflip, #gym, #ajmerkfam, #reelkarofeelkaro"
-  - username: "surendra_suru_"
-    fullname: >-
-      Surendra Vishwakarma
-    bio: >-
-      21| sportlover 🌺 | gymnast flips🔥|YouTuber #sportlover #flipper #gymnast Learner. Traveller✈️ My hope my god Call or Dm for collab🤘
-    location: "India"
-    followers: 4284
-    engagement: 1051
-    commentsToLikes: 0.040185
-    id: ck8wfvcbagbfx0j78ma8gzd9u
-    verified: false
-    hashtags: "#followne, #photooftheday, #live, #likeforlikeback"
   - username: "missvalkondos"
     fullname: >-
       Valorie Kondos Field
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.006005
     id: ck0w07tl2ctdb0i19zt0beq47
     verified: true
-    hashtags: "#championsinlife, #grateful, #repost, #foodinsecure"
+    hashtags: "#grateful, #championsinlife, #repost, #teamusa"
   - username: "gymnasticsfails"
     fullname: >-
       ｇｙｍｎｏｔｓ™
@@ -115,16 +115,16 @@ profiles:
     id: ck5bv9nxdj8lq0i11m1bog3nx
     verified: false
     hashtags: "#gymnasticsfailstag"
-  - username: "_insta_amigoz"
+  - username: "erikbarsi_sw"
     fullname: >-
-      Insta_Modelz(27k) page😇
+      Erik Barsi
     bio: >-
-      Insta_Amigoz (AmiGoz) 🌴Follow & support 🌴Shutout page 🌴Mention the page 🌴Tag ur hd pic 🌴Ur support is best 🌴Retern support💯%
+      #barsimode Professional Athlete | Trainer | W.R holder Coaching Online🇮🇹|🇬🇧 send Dm📩 Join the Barsimode Workouts⬇️
     location: "India"
-    followers: 20379
-    engagement: 136
-    commentsToLikes: 0.084969
-    id: ck9wgp2zmucmw0j781w5eakit
+    followers: 272542
+    engagement: 831
+    commentsToLikes: 0.009459
+    id: ck9hboq1lhsda0j78ipung0d0
     verified: false
-    hashtags: "#malayalee, #ilovemypug, #pugworld, #trivandrum"
+    hashtags: "#mystyle, #pushup, #fitness, #pushups"
 ---

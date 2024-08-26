@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers TikTok Influencers In India In 2023
+title: Top 10 Bakers TikTok Influencers In India In 2024
 description: >-
-  Find top bakers TikTok influencers in India in 2023. Most popular hashtags: #cake #foryoupage #foryou #tiktokchef.
+  Find top bakers TikTok influencers in India in 2024. Most popular hashtags: #cake #foryoupage #foryou #baker.
 platform: TikTok
 hits: 114
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 114 TikTok influencers like this in India for you to pitch.
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 114 TikTok influencers like this in India for you to collaborate.
 profiles:
   - username: "madhurimasaha5"
     fullname: >-

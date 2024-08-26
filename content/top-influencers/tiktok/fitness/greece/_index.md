@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Greece In 2023
+title: Top 10 Fitness TikTok Influencers In Greece In 2024
 description: >-
-  Find top fitness TikTok influencers in Greece in 2023. Most popular hashtags: #fitness #foryou #tiktok #fyp.
+  Find top fitness TikTok influencers in Greece in 2024. Most popular hashtags: #fitness #tiktok #foryou #fyp.
 platform: TikTok
-hits: 11
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 11 TikTok influencers like this in Greece for you to collaborate.
+hits: 10
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database holds 10 TikTok influencers like this in Greece for you to connect with.
 profiles:
   - username: "pavlos_terzopoulos"
     fullname: >-

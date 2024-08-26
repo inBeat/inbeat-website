@@ -1,48 +1,12 @@
 ---
-title: Top 10 Beauty TikTok Influencers In New York In 2023
+title: Top 10 Beauty TikTok Influencers In New York In 2024
 description: >-
-  Find top beauty TikTok influencers in New York in 2023. Most popular hashtags: #fyp #beauty #greenscreen #newyork.
+  Find top beauty TikTok influencers in New York in 2024. Most popular hashtags: #fyp #beauty #newyork #nyc.
 platform: TikTok
-hits: 82
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: inBeat holds 82 TikTok influencers like this in New York, United States for you to contact.
+hits: 84
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our database aggregates 84 TikTok influencers like this in New York, United States for you to pitch.
 profiles:
-  - username: "zinkronized"
-    fullname: >-
-      Zink
-    bio: >-
-      #1 Call of Duty Sniper in New York #YouShallObey Twitter @Zinkronized
-    location: "United States"
-    followers: 30800
-    engagement: 1564
-    commentsToLikes: 0.028660
-    id: ckauy7n0y3oqg0j235k6e7pzf
-    verified: false
-    hashtags: "#callofduty, #youshallobey, #foryoupage, #twitch"
-  - username: "itsagracebigworld"
-    fullname: >-
-      Grace Zantua
-    bio: >-
-      California ☼ Miami, FL Passionately curious. 🇵🇭
-    location: "United States"
-    followers: 15400
-    engagement: 1135
-    commentsToLikes: 0.028533
-    id: ckbfgr4luc1ja0j23rdvi34bs
-    verified: false
-    hashtags: "#travel, #destinationdepop, #millionactsoflove, #diy"
-  - username: "mari_aguirre_"
-    fullname: >-
-      mari
-    bio: >-
-      email: makeupbymariquita@gmail.com she/her
-    location: "United States"
-    followers: 155800
-    engagement: 1033
-    commentsToLikes: 0.019832
-    id: ck7zosnmglrdn0j78puhwhvd6
-    verified: false
-    hashtags: "#fyp, #ulta, #shein, #foryou"
   - username: "argentinianking"
     fullname: >-
       Nico Z
@@ -79,6 +43,30 @@ profiles:
     id: ckbkg63sb7euc0j23qourftld
     verified: false
     hashtags: "#views, #la, #lux, #nj"
+  - username: "ines.alfaro"
+    fullname: >-
+      Inés Alfaro
+    bio: >-
+      Latina. 📍NYC Esthetician & makeup Just for fun
+    location: "United States"
+    followers: 21700
+    engagement: 523
+    commentsToLikes: 0.044489
+    id: ckbfat1nq2ecs0j23v8xned1n
+    verified: false
+    hashtags: "#nyc, #newyorklife, #newyork, #fyp"
+  - username: "mari_aguirre_"
+    fullname: >-
+      mari
+    bio: >-
+      email: makeupbymariquita@gmail.com she/her
+    location: "United States"
+    followers: 155800
+    engagement: 1033
+    commentsToLikes: 0.019832
+    id: ck7zosnmglrdn0j78puhwhvd6
+    verified: false
+    hashtags: "#trendy, #fyp, #affordable, #target"
   - username: "greyzhagan"
     fullname: >-
       grace
@@ -103,6 +91,18 @@ profiles:
     id: ckbf22vp1orwy0j236ywe9rel
     verified: false
     hashtags: "#foryou, #dollartree, #fyp, #target"
+  - username: "innahershko"
+    fullname: >-
+      Inna Hershko
+    bio: >-
+      Follow me for makeup - skincare - outfits - mom stuff Reviews + Favorites ❤️
+    location: "United States"
+    followers: 2605
+    engagement: 445
+    commentsToLikes: 0.058592
+    id: ckai2mrcygej60i78ua82pjgm
+    verified: false
+    hashtags: "#kidsfashion, #activitiesforkids, #learnfromme, #ownthecurve"
   - username: "thatgirlthatdidyourhair"
     fullname: >-
       TGTDYH
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.045216
     id: ckdbspcxxclpo0j2348ud9z0c
     verified: false
-    hashtags: "#fashion, #nyc, #greenscreen, #greenscreenvideo"
+    hashtags: "#nyc, #greenscreenvideo, #greenscreen, #fashion"
 ---

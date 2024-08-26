@@ -1,12 +1,84 @@
 ---
-title: Top 10 Dancers Instagram Influencers In France In 2023
+title: Top 10 Dancers Instagram Influencers In France In 2024
 description: >-
-  Find top dancers Instagram influencers in France in 2023. Most popular hashtags: #love #girl #photography #model.
+  Find top dancers Instagram influencers in France in 2024. Most popular hashtags: #dance #dancer #dancechallenge #reels.
 platform: Instagram
-hits: 884
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 884 Instagram influencers like this in France for you to work with.
+hits: 871
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 871 Instagram influencers like this in France for you to collaborate.
 profiles:
+  - username: "emmy_dance_kid"
+    fullname: >-
+      🅴🅼🅼🆈 🅳🅰🅽🅲🅴 💎
+    bio: >-
+      ⒹⒶⓃⒸⒺⓇ 💟Account managed by mum @mumlaetitia 💟TV: Eurovision/ The Voice/ Mask Singer /Gu'live 💟Chorégraphe ➡️ @sabrinalonis 💟 TIKTOK @emmy_danceoff
+    location: "France"
+    followers: 60229
+    engagement: 938
+    commentsToLikes: 0.024973
+    id: ck6u9gasfxe470j71tt8asay7
+    verified: false
+    hashtags: "#viral, #reelsvideo, #shooting, #photo"
+  - username: "vandamme_ines"
+    fullname: >-
+      Vandamme Inès
+    bio: >-
+      📺 TV HOST : @tf1 @tfxtv 💃🏼 DANCER : @dals_tf1 / S 10-11-12-13 🎧 PODCAST : @avecousans_sucre ? ⬇️ 📨 CONTACT : thomas@vip-consulting.fr
+    location: "France"
+    followers: 229475
+    engagement: 1172
+    commentsToLikes: 0.022190
+    id: ck5byb5pxotm70i113vq6bu52
+    verified: true
+    hashtags: "#dals, #venu2s, #collaborationcommerciale, #qdals"
+  - username: "albanedanse"
+    fullname: >-
+      Albane Hurtaud
+    bio: >-
+      💃🏻🎤 DANCER CHOREO 🇫🇷🇺🇸 NMA TheVoice Eurovision WOD TF1 France2/3 M6 TMC Canal+ Disney Channel
+    location: "France"
+    followers: 160877
+    engagement: 935
+    commentsToLikes: 0.032982
+    id: ck14lpqdpvvba0i19itxso9m0
+    verified: false
+    hashtags: "#albanedansefamily, #pictureoftheday, #sainttropezstyle, #do"
+  - username: "chatonfleek"
+    fullname: >-
+      Aurélien aka Chaton 🌸
+    bio: >-
+      dancer | mover | creator Credits: MTV EMA, StarAc, Festigal, WOD LA, Arab’s Got Talent, All Star Game, KMDA, IMMABEAST etc🙏🏼 📩 picardaure@hotmail.fr🇫🇷
+    location: "France"
+    followers: 93694
+    engagement: 1568
+    commentsToLikes: 0.065126
+    id: ck6u9ik5nxrwe0j71p6mg46ee
+    verified: false
+    hashtags: "#dancechoreography, #vibe, #mood, #chatonchoreo"
+  - username: "elsabois"
+    fullname: >-
+      Elsa Bois
+    bio: >-
+      > Professionnal dancer and choreographer ⭐️ Finaliste #dals11 ⭐️ Demi-finaliste #dals12 > Enseignante en Activités Physiques Adaptées
+    location: "France"
+    followers: 1570519
+    engagement: 1341
+    commentsToLikes: 0.015376
+    id: clo1jsbgvd5ai0j084ahuvaa3
+    verified: false
+    hashtags: "#monopoly, #joyeusesbetises, #nocibe, #monopolygo"
+  - username: "emmanuelleberne"
+    fullname: >-
+      Emmanuelle Berne
+    bio: >-
+      Mum / Dancer / Choreography Director 💃🏼 DANCING WITH THE STARS 🇫🇷 💃🏼 MIRA QUIEN BAILA 🇺🇸🇲🇽 ✍🏻 Sports & Wellness Columnist 🧘🏼‍♀️💪🏻🤰🏼@magicmaman_com
+    location: "France"
+    followers: 110807
+    engagement: 569
+    commentsToLikes: 0.031514
+    id: ck0u93wxf8w3y0i19mhdoxw0f
+    verified: true
+    hashtags: "#be, #bachata, #trend, #momsofinsta"
   - username: "starkestruck"
     fullname: >-
       Taylor Starke
@@ -18,113 +90,41 @@ profiles:
     commentsToLikes: 0.040575
     id: cl3w8zi0zczu10i23wwrog75s
     verified: false
-    hashtags: "#blackgirlspole, #wednesday, #poledancersofig, #weekendvibes"
-  - username: "alya_manasa"
+    hashtags: "#poledance, #girlswithmuscle, #poledancer, #mixedchicks"
+  - username: "activedancers_ja"
     fullname: >-
-      alya_manasa
+      Active Dancers
     bio: >-
-      Actress/Vijay television / dancer /Talent manager : Rahul (personal) contact number : 7200288951(watsup only) For YouTube channel
+      Dancers/ Actors/ Choreography For Business Inquiries. ☎️: (347) 561-1265 📧: bookactivedancers3@gmail.com
     location: "France"
-    followers: 4247151
-    engagement: 106
-    commentsToLikes: 0.001939
-    id: ck14gvl5s78y90i1993g1ry8l
+    followers: 32893
+    engagement: 443
+    commentsToLikes: 0.062803
+    id: ck8t0ry8dt2vz0j78fmm57mc8
     verified: false
-    hashtags: "#iniya, #suntv, #iniyaonsuntv, #sundigital"
-  - username: "_emmytinglin"
+    hashtags: "#reggae, #dancehall, #fullyactive, #activedancers"
+  - username: "bambaii"
     fullname: >-
-      Emmerly Tinglin ✨
+      Michelle Bambaii
     bio: >-
-      ♡ Actress | Dancer | Model | @miraclemgmt ♡ Collaborations 📲 | @bloc13losangeles ♡ NBA Dancer | Toronto Raptors Subscribe to my Channel 🦋
+      *a non Caribbean,loving Caribbean culture* DANCER ,SOCA & CARNIVAL LOVER 📍currently in 🇹🇹 Stretching&Flexibility Coach (NASM Certified) PT @fyahsoca
     location: "France"
-    followers: 31075
-    engagement: 699
-    commentsToLikes: 0.050803
-    id: ck5hozkirqibd0i11cue65wqx
+    followers: 140415
+    engagement: 406
+    commentsToLikes: 0.017151
+    id: ck0vzsj39ap3f0i1961udp8u5
     verified: false
-    hashtags: "#whatlacefront, #summerwigs, #wigslay, #blondewigs"
-  - username: "olimpia_noa"
+    hashtags: "#passion, #dancers, #soca, #summer"
+  - username: "yasminedansetk"
     fullname: >-
-      Olimpia Noa Pietras
+      𝒀 𝐀 𝐒 𝐌 𝐈 𝐍 𝐄
     bio: >-
-      #model // #actress //#dancer //#gymnast #lifestyle #travel #beauty #healthylifestyle
+      🇹🇳/🇫🇷 17🦋 AMBASSADOR & DANCER @urbandancetn WINNERS OF WORLD OF DANCE TUNISIA 🔜L.A✈️
     location: "France"
-    followers: 62492
-    engagement: 760
-    commentsToLikes: 0.037680
-    id: ck14k0oedn4m30i19mfmgtg22
+    followers: 50542
+    engagement: 927
+    commentsToLikes: 0.031523
+    id: ck5zkhk5tjhhs0i14j4oklk6r
     verified: false
-    hashtags: "#spanishgirl, #teen, #nieve, #polishgirl"
-  - username: "modelsdoingballet"
-    fullname: >-
-      MODELS DOING BALLET
-    bio: >-
-      just stop. hire dancers.
-    location: "France"
-    followers: 44468
-    engagement: 1172
-    commentsToLikes: 0.043275
-    id: ckap9c7gzs2ed0i78mppuvgp5
-    verified: false
-    hashtags: "#sos, #whodidthistoher, #parallel, #cambre"
-  - username: "naiaroma"
-    fullname: >-
-      N A I A . R O M A
-    bio: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀LIFESTYLE BLOGGER 🌴 ⠀⠀⠀⠀⠀⠀⠀⠀⠀✨ Dancer 📍FR ⠀⠀⠀⠀⠀⠀⠀⠀⠀👩🏼‍💻 CEO: @nightcallevents
-    location: "France"
-    followers: 25905
-    engagement: 547
-    commentsToLikes: 0.125994
-    id: ck6005716cyz70i14ku7ksd41
-    verified: false
-    hashtags: "#blondegirlsdoitbetter, #getthelook, #getthelookforless, #outfitofthenight"
-  - username: "jayel_jsvn"
-    fullname: >-
-      🔥Jayel-FanInsta🔥
-    bio: >-
-      FB: Оюунномин Батхишиг Follow: 🥰@jasonnn_jsn •Dancer •Youtuber
-    location: "France"
-    followers: 69505
-    engagement: 402
-    commentsToLikes: 0.095145
-    id: ck9wdiwhhftzv0j787zcunc7t
-    verified: false
-    hashtags: ""
-  - username: "elisepetitpas"
-    fullname: >-
-      Elise Petitpas
-    bio: >-
-      THE BEST IS YET TO COME 🇫🇷 Charleville-Mézières / Paris 💃🏽 W/ @sabrinalonis ⚡️ Model / Dancer ⚡️ TikTok : elisepetitpas
-    location: "France"
-    followers: 17237
-    engagement: 1538
-    commentsToLikes: 0.072631
-    id: ck0tx2059hkt50i19py3mm77h
-    verified: false
-    hashtags: "#sun, #dancergirl, #dance, #instaday"
-  - username: "emilyshaqiri.official"
-    fullname: >-
-      EMILY SHAQIRI
-    bio: >-
-      Mais la raison n’est pas ce qui règle l’amour ACTRESS🎬 DANCER🩰 SINGER🎤
-    location: "France"
-    followers: 55598
-    engagement: 673
-    commentsToLikes: 0.105306
-    id: ck600siy1e6ri0i14vlxezty5
-    verified: false
-    hashtags: "#rome, #photo, #blueeyes, #emilyshaqiri"
-  - username: "__.ku_tt_api_y_01"
-    fullname: >-
-      Gaeitry
-    bio: >-
-      。𝟷𝟽\𝟻\𝟸к𝟺🔖 • 16💫 •Dancer🙌❤️ 。ʀᴇᴀʟ ...ᵇᵘᵗ 💯% ʀᴀʀᴇ⚠️🎭 .ʀᵃʳᵉ ᵇᵘᴛ... ⁿᴏᵗ ᴀⁿ ᴇʳʀᵒʀ 👅👊
-    location: "France"
-    followers: 11078
-    engagement: 1849
-    commentsToLikes: 0.097642
-    id: ck8t67alqcid80j78qksay6tf
-    verified: false
-    hashtags: "#keralagallery, #gainwithpaula, #keralam, #love"
+    hashtags: "#dance, #reels, #summer, #dancechallenge"
 ---

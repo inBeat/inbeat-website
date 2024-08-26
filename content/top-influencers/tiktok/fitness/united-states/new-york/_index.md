@@ -1,12 +1,24 @@
 ---
-title: Top 10 Fitness TikTok Influencers In New York In 2023
+title: Top 10 Fitness TikTok Influencers In New York In 2024
 description: >-
-  Find top fitness TikTok influencers in New York in 2023. Most popular hashtags: #fitness #newyork #fyp #newyorkcity.
+  Find top fitness TikTok influencers in New York in 2024. Most popular hashtags: #newyork #fitness #fyp #newyorkcity.
 platform: TikTok
-hits: 69
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our database holds 69 TikTok influencers like this in New York, United States for you to connect with.
+hits: 68
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 68 TikTok influencers like this in New York, United States for you to contact.
 profiles:
+  - username: "giannish88"
+    fullname: >-
+      Giannis Houmis 
+    bio: >-
+      Ghoumisnyc@gmail.com
+    location: "United States"
+    followers: 6433
+    engagement: 471
+    commentsToLikes: 0.015087
+    id: ck8s7q624q92a0j787xm19jef
+    verified: false
+    hashtags: "#coincidence, #bananapudding, #mcgregor, #ufc"
   - username: "sunainabhagisb"
     fullname: >-
       Sunaina Bhagi
@@ -19,18 +31,6 @@ profiles:
     id: ckbwjfosa3jji0j23kdgxx6ip
     verified: false
     hashtags: "#christmas, #love, #bagelbopscontest, #sky"
-  - username: "giannish88"
-    fullname: >-
-      Giannis Houmis 
-    bio: >-
-      Ghoumisnyc@gmail.com
-    location: "United States"
-    followers: 6433
-    engagement: 471
-    commentsToLikes: 0.015087
-    id: ck8s7q624q92a0j787xm19jef
-    verified: false
-    hashtags: "#avengers, #latte, #espreso, #friday13"
   - username: "maliamakaila"
     fullname: >-
       Malia Makaila 👼🏼
@@ -43,6 +43,18 @@ profiles:
     id: ck9rjt5bkppgu0j78hm0nuym0
     verified: false
     hashtags: "#transition, #nyc, #fyp, #fitness"
+  - username: "happychoicelife"
+    fullname: >-
+      HappyChoiceLife
+    bio: >-
+      Follow me on Instagram for more travel tips. Happy Life is for all!
+    location: "United States"
+    followers: 2145
+    engagement: 268
+    commentsToLikes: 0.260923
+    id: ckdtekj0nvqi00j23bi1bc02v
+    verified: false
+    hashtags: "#fyp, #foodie, #madewithrush, #tiktokfoodie"
   - username: "happyhikerr"
     fullname: >-
       olivia leonard
@@ -67,6 +79,30 @@ profiles:
     id: ck8w4umnb92w20j78o35h2dq4
     verified: false
     hashtags: "#vegas, #michigan, #fitness, #montenegro"
+  - username: "brit_joli"
+    fullname: >-
+      Brittany
+    bio: >-
+      Down to clown Yo Perreo Sola Venmo @Brit_joli
+    location: "United States"
+    followers: 2881
+    engagement: 1774
+    commentsToLikes: 0.177344
+    id: ckb9ffv9o3vi70j23h0fb8tmn
+    verified: false
+    hashtags: "#summer2020, #friends, #xyzbca, #lol"
+  - username: "pastina.and.pops"
+    fullname: >-
+      Pastina & Pops
+    bio: >-
+      nice n easy homecooking & stories take a sip 🍷 Full Cioppino Recipe ⬇️
+    location: "United States"
+    followers: 43300
+    engagement: 736
+    commentsToLikes: 0.039266
+    id: ck81q905zgw0e0j78szf09ip2
+    verified: false
+    hashtags: "#cooking, #italian, #italianfood, #comfortfood"
   - username: "danielbooter"
     fullname: >-
       Daniel Booter
@@ -91,40 +127,4 @@ profiles:
     id: ck9gldroknupc0j78y4okh95t
     verified: false
     hashtags: "#quarantine, #nj, #petsoftiktok, #latinogang"
-  - username: "itsbrenna_rose"
-    fullname: >-
-      Brenna Hughes
-    bio: >-
-      NYC. Actor. Probably too old for this app but here we are ¯\_(ツ)_/¯
-    location: "United States"
-    followers: 7526
-    engagement: 1573
-    commentsToLikes: 0.027861
-    id: ckbw4wb4mxqcv0j23s5p852nc
-    verified: false
-    hashtags: "#november3rd, #gilmoregirls, #liberal, #comedy"
-  - username: "gabydeex3"
-    fullname: >-
-      Gabydeex3
-    bio: >-
-      24 🇷🇺🇺🇦✡️ New York I’m kinda funny sometimes Venmo: @gabriella-deren
-    location: "United States"
-    followers: 242000
-    engagement: 1031
-    commentsToLikes: 0.057344
-    id: ckbb5w9u0w0rg0j239keyu72j
-    verified: false
-    hashtags: "#gym, #workout, #gymlife, #fitlife"
-  - username: "itshuyennguyen"
-    fullname: >-
-      Huyen Nguyen | NYC
-    bio: >-
-      📍New York City Fashion • Beauty • Self Love 📩 : itshuyennguyen@gmail.com
-    location: "United States"
-    followers: 14700
-    engagement: 689
-    commentsToLikes: 0.045216
-    id: ckdbspcxxclpo0j2348ud9z0c
-    verified: false
-    hashtags: "#fashion, #nyc, #greenscreen, #greenscreenvideo"
 ---

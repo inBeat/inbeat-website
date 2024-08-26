@@ -1,36 +1,48 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Argentina In 2023
+title: Top 10 Comedians Instagram Influencers In Argentina In 2024
 description: >-
-  Find top comedians Instagram influencers in Argentina in 2023. Most popular hashtags: #tbt #bariloche #model.
+  Find top comedians Instagram influencers in Argentina in 2024. Most popular hashtags: #comedia #tbt #standup.
 platform: Instagram
-hits: 144
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 144 Instagram influencers like this in Argentina for you to connect with.
+hits: 146
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 146 Instagram influencers like this in Argentina for you to collaborate.
 profiles:
-  - username: "dilennysegura"
+  - username: "merakio"
     fullname: >-
-      D i l e n n y   S e g u ra
+      
     bio: >-
-      📍LadelGuayabaldeAzua 🇩🇴 Jociadora, relambia y también; Lic. en Educación Básica 📚 Maestra de ceremonias 🎤 Política ⚖️ Actriz/Comediante 🎭
+      El Argentino de Madrid 🇦🇷📍🇪🇸 #Comediante🎤#Actor🎬 #foodie🍔 Un MILLÓN Y MEDIO en YouTube Mi show en ARG 🇦🇷 👇🏻 Comercial merakioteama@gmail.com
     location: "Argentina"
-    followers: 312789
-    engagement: 130
-    commentsToLikes: 0.027227
-    id: ck15pepadxinc0i19qtbygo6l
-    verified: false
-    hashtags: "#outfit, #app, #brillo, #gn"
-  - username: "yamireyna"
-    fullname: >-
-      Yamila Reyna
-    bio: >-
-      Actriz-comediante-argenchilena🇦🇷🇨🇱 Vestite como👑 en @todasreynas
-    location: "Argentina"
-    followers: 455400
-    engagement: 185
-    commentsToLikes: 0.016176
-    id: ck5zkfnr6je8x0i14wa6jjx3x
+    followers: 465508
+    engagement: 336
+    commentsToLikes: 0.073188
+    id: ck0w6uzrvaeio0i19ofr1e0ph
     verified: true
-    hashtags: "#todasreynas, #tbt, #bariloche, #lasreynagonzalez"
+    hashtags: "#igersmadrid, #podcast, #madrid, #merakio"
+  - username: "nicocerouno"
+    fullname: >-
+      Nico Cero Uno
+    bio: >-
+      #conductor #teatro #Comediante #standup #cine Productor 🎬 La risa va a salvar al mundo Sin sacrificio no hay éxito 💪
+    location: "Argentina"
+    followers: 140710
+    engagement: 181
+    commentsToLikes: 0.053457
+    id: ckap56izmae9p0i78p4x5qzee
+    verified: false
+    hashtags: "#ellayyo, #nosoyyososvos, #instagram, #viral"
+  - username: "sil05flores"
+    fullname: >-
+      Silvia Flores
+    bio: >-
+      Actriz, comediante, hago Radio y TV Mamá de Kimo 🐶 Contactos: silviaflores05@gmail.com Facebook ➡️ Silvia Flores Twitter ➡️ @silviaflowers
+    location: "Argentina"
+    followers: 163444
+    engagement: 58
+    commentsToLikes: 0.028493
+    id: ck5zjagkah8sq0i14mumc89qf
+    verified: false
+    hashtags: "#senet, #suerte, #diciembre, #casapropia"
   - username: "delhisvq"
     fullname: >-
       Delhis Quezada
@@ -67,18 +79,6 @@ profiles:
     id: ck15qz4em5boz0i193c2urzed
     verified: true
     hashtags: "#clandestino2, #clandestino, #estreno"
-  - username: "nerinasistok"
-    fullname: >-
-      ♡🦋 NERINA SIST OK 🦋 ♡♧🇦🇷
-    bio: >-
-      📺 PANELISTA @tremendoshow x @telefecordoba 🎭 COMEDIANTE "Caprichos"Luisa Albinoni 2017 💃 VEDETTE de Carmen Barbieri Revista Norteña y MAGNÍFICA 2018
-    location: "Argentina"
-    followers: 111299
-    engagement: 207
-    commentsToLikes: 0.036433
-    id: ck14hjxucaouz0i194iejtgcm
-    verified: false
-    hashtags: "#2020, #vedette, #cordoba, #produ2020"
   - username: "sebaprestaok"
     fullname: >-
       Sebastián Presta

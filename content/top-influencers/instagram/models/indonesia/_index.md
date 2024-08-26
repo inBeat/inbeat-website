@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Indonesia In 2023
+title: Top 10 Models Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top models Instagram influencers in Indonesia in 2023. Most popular hashtags: #likeforlikes #lfl #likeforlikeback.
+  Find top models Instagram influencers in Indonesia in 2024. Most popular hashtags: #ootdhijab #hijabstyle #dance.
 platform: Instagram
-hits: 761
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 761 Instagram influencers like this in Indonesia for you to contact.
+hits: 765
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 765 Instagram influencers like this in Indonesia for you to pitch.
 profiles:
-  - username: "veronika.twns"
+  - username: "freshnam219"
     fullname: >-
-      Veronika Krasnasari | TWINS
+      Park Nam
     bio: >-
-      Twinning with @valerie.twns Asia’s Next Top Model 5 | your future MC 🎤 | founded @twnseco to #beatplasticpollution Contact | Tiktok | Youtube 👇🏼
+      Fly Your World 🇰🇷🇮🇩 ICN Fitness Model World Champion🏆 @mysuperpowerindonesia @studio47id
     location: "Indonesia"
-    followers: 166148
-    engagement: 386
-    commentsToLikes: 0.019817
-    id: ck13476iiv1nm0i19gko6judm
+    followers: 179637
+    engagement: 1865
+    commentsToLikes: 0.026960
+    id: ck5zytax5ahs90i14d7smo8is
+    verified: false
+    hashtags: "#bodyprofile, #gym, #gymmotivation, #physique"
+  - username: "sdymutma"
+    fullname: >-
+      SINDY MUTMAINA
+    bio: >-
+      WhatsApp +62 859-3488-8880 (Afif) @byasa.cafe @maisonsono @hijup Model Look @paddy.id X SindyMutmaina
+    location: "Indonesia"
+    followers: 115361
+    engagement: 446
+    commentsToLikes: 0.009826
+    id: ck9wh69kwwg920j78vsd3ovwz
+    verified: false
+    hashtags: "#killua, #killuaindonesia, #sonyrx100mark7, #lineashoes"
+  - username: "riniapriyani26"
+    fullname: >-
+      Riniapriyani💐
+    bio: >-
+      Photoshoot/Model DM for business inquire 📩 Endorse📩 Support by : @pikashoot_ @varuyy_ #StandarUhuyy_
+    location: "Indonesia"
+    followers: 42347
+    engagement: 453
+    commentsToLikes: 0.005882
+    id: ck9whvt1azph40j78nxb4fyn0
+    verified: false
+    hashtags: "#kopidayeuh, #teamarogan, #womenhijab, #happyweekend"
+  - username: "elizabethkasai"
+    fullname: >-
+      beth
+    bio: >-
+      @whoknows.models 📷 +62 821-2649-7460 (sarah) endorsements: +62 811-8381-983 (buke) 𝘤𝘰𝘯𝘵𝘢𝘤𝘵.𝘦𝘭𝘪𝘻𝘢𝘣𝘦𝘵𝘩𝘬𝘢𝘴𝘢𝘪@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮
+    location: "Indonesia"
+    followers: 105644
+    engagement: 568
+    commentsToLikes: 0.005991
+    id: ck5bvjvc4jsgp0i11dzzstu24
+    verified: false
+    hashtags: "#brierss20, #heybrier, #thingsuntouched, #yourbeautifulsecret"
+  - username: "grisalaxy"
+    fullname: >-
+      griselda sampurno
+    bio: >-
+      🇮🇩🇨🇳🇳🇱 freelance model ( @grisalaxyportfolio ) business inquiries : grisalaxy@gmail.com / philippians 4:13 /
+    location: "Indonesia"
+    followers: 8010
+    engagement: 759
+    commentsToLikes: 0.071658
+    id: ck5q23n01e3v00i11qj5jn0px
+    verified: false
+    hashtags: "#kpopdancecover, #itzy, #fotjurdirumah, #dancecover"
+  - username: "ilahmohmadnor"
+    fullname: >-
+      D E S I G N E R
+    bio: >-
+      HIJAB MODEL @the.lecu @kronichonged @luth_rizqi
+    location: "Indonesia"
+    followers: 36981
+    engagement: 432
+    commentsToLikes: 0.005397
+    id: ck13a52caoo6a0i195px3wx7d
+    verified: false
+    hashtags: "#hijab, #hypebeast, #ootdmalaysia, #ootdhijabindo"
+  - username: "pixytripper"
+    fullname: >-
+      Ainy D. Rhufi
+    bio: >-
+      ⊳ Social Media Manager ⊳ Host, Talent, & Model ⊳ Photographer Part of @cakraabhipraya
+    location: "Indonesia"
+    followers: 6171
+    engagement: 1167
+    commentsToLikes: 0.057473
+    id: ck5hhyb8paon20i11aqy9sz6j
+    verified: false
+    hashtags: "#explorelombok, #exploreindonesia, #rome, #vieste"
+  - username: "yolandaawenur"
+    fullname: >-
+      Maria Yolanda wenur
+    bio: >-
+      Indonesia's next top model cycle 2✨ 📍JKT @kickmanagement.id 📍SUB @mcmodelsmanagement 📩Bussines Inq DM if God is all you have,you have all you need
+    location: "Indonesia"
+    followers: 90880
+    engagement: 416
+    commentsToLikes: 0.015517
+    id: ck5q23nfqe3yf0i11y7kvj5lb
+    verified: false
+    hashtags: "#dianacouture"
+  - username: "okvia.wr_"
+    fullname: >-
+      Oktavian W.R.
+    bio: >-
+      —𝙎𝙪𝙣𝙨𝙝𝙞𝙣𝙚✨ 📍SOLO RAYA Fashion | Potoshoot | Freelance Model | Lifestyle | Model MUA Job PP / Endorse? DM Partner @viandra.thrifty @muse_byokvia
+    location: "Indonesia"
+    followers: 52799
+    engagement: 430
+    commentsToLikes: 0.037905
+    id: ck9wi0wfp0c9k0j78s1tg7l79
+    verified: false
+    hashtags: "#smansasolo, #padewasan2021, #gofoodbestorandisolo, #promogofoodsolo"
+  - username: "simi.kowalski"
+    fullname: >-
+      SIMIKOWALSKI
+    bio: >-
+      🌈🦋🦁 EQUALITY #keepshining Model |Artist | Actor | Former Athlete | TV- Face | Yoga-Teacher 🔥 collab: 📧simikowalski44@gmail.com
+    location: "Indonesia"
+    followers: 176756
+    engagement: 370
+    commentsToLikes: 0.011450
+    id: ck5c3vy9l05s70i11m4z99p4e
     verified: true
-    hashtags: "#osakajapan, #twinning, #twnstraveljourney, #twins"
-  - username: "gresiazumardam"
-    fullname: >-
-      MC SURABAYA | MODERATOR ALL EVENT
-    bio: >-
-      •MC, Moderator #mcgresia •BA @rannafabeauty •VO Talent #voiceovergresia •Model Makeup @gresiazmuse •Photo Catalog,Visit,Endorse,etc 📩 : DM only
-    location: "Indonesia"
-    followers: 8787
-    engagement: 312
-    commentsToLikes: 0.037320
-    id: ck5zimkmbfzmg0i1446dcxcuy
-    verified: false
-    hashtags: "#moderatorgresia, #mcbirthdaysurabaya, #mchijab, #mcbirthdaysby"
-  - username: "claricecutie"
-    fullname: >-
-      Official Acc of CLARICE
-    bio: >-
-      Singer, Actress, Model, Host, Beauty & Fashion enthusiast 📞08119503070 ( WA for job & endorse ) My tiktok acc : Clariceecutie
-    location: "Indonesia"
-    followers: 1379316
-    engagement: 56
-    commentsToLikes: 0.023367
-    id: ck14gs5g16r5x0i19ls7qc4kv
-    verified: true
-    hashtags: "#racunlipcream, #klinikjakarta, #imun, #coversongid"
-  - username: "kelly_tandiono"
-    fullname: >-
-      Kelly Tandiono
-    bio: >-
-      Model/Triathlete 🇲🇨PM @chita_zen 🇸🇬Rep @flyentertains @now_model_management 🇺🇸 Rep @mcmmgmt @tylergrasham Founder @covermenot.co
-    location: "Indonesia"
-    followers: 293597
-    engagement: 28
-    commentsToLikes: 0.025859
-    id: ck0vxhbrnyw7j0i19inz3dw24
-    verified: true
-    hashtags: "#usmarismail, #courmayeur, #italy, #asgoodasme"
-  - username: "_mr_photogrpher_"
-    fullname: >-
-      Raj ARyaN📸
-    bio: >-
-      | Photo📷 | Fashion🔰| Lifestyle🔝. . . . . 🔛 Single 🥀💓 . . . . APNA favourite 💓 @badass_rp_01 . . . . • owner @model_of_korba__ ❤️
-    location: "Indonesia"
-    followers: 387
-    engagement: 3474
-    commentsToLikes: 0.451153
-    id: ck9wh9btgwv400j78fuf8qn6k
-    verified: false
-    hashtags: ""
-  - username: "vanessabrli"
-    fullname: >-
-      فانیسسا ابریللیا
-    bio: >-
-      DM for business 📩 Model:@model.kfm / @kfmupdate @_ffmanagement Pp/endorse : DM📩
-    location: "Indonesia"
-    followers: 4142
-    engagement: 1612
-    commentsToLikes: 0.169338
-    id: ck9whmxljylvf0j78dnr8bf46
-    verified: false
-    hashtags: ""
-  - username: "ujifaa"
-    fullname: >-
-      Fauziah Azizah
-    bio: >-
-      170cm👠 Freelance Model Hijab DM me for business🙏
-    location: "Indonesia"
-    followers: 6139
-    engagement: 701
-    commentsToLikes: 0.093703
-    id: ck9wh6ziwwjm30j78tosym43z
-    verified: false
-    hashtags: "#modelexploremakeup, #endorsement, #hijabstyle, #muslimbride"
-  - username: "jihanerens"
-    fullname: >-
-      Jihanee🕊
-    bio: >-
-      Model? Cek @jihanesmodelgallery 🏥 Nutritionist ❤️ Modelling 📩 For Business / Inq : DM 👑 Miss Jawa Tengah Berbakat 2020 Yogyakarta, +62 🇮🇩
-    location: "Indonesia"
-    followers: 7125
-    engagement: 2168
-    commentsToLikes: 0.211365
-    id: ck5hpf5kgr97l0i11fv1rzhfv
-    verified: false
-    hashtags: "#dirumahaja, #lff, #instadaily, #likeforfollow"
-  - username: "alidabdul"
-    fullname: >-
-      Alid Abdul
-    bio: >-
-      From Jombang with Love | An Indonesian | A Blogger | A Traveler | A Backpacker | A Failed YouTuber | A Model Wannabe
-    location: "Indonesia"
-    followers: 2287
-    engagement: 1492
-    commentsToLikes: 0.176002
-    id: ck6udm7vmlvyx0j71cf1h4gb2
-    verified: false
-    hashtags: "#pesonaindonesia, #pendakiindonesia, #instanusantara, #pendakikeren"
-  - username: "merylinnau"
-    fullname: >-
-      Merylin Nau ®
-    bio: >-
-      Actress, model, TV personality, businesswoman. 📩 business@naublogi.com Follow @naublogi Click on my links ⤵️
-    location: "Indonesia"
-    followers: 37464
-    engagement: 275
-    commentsToLikes: 0.057583
-    id: ck5hmkzohm5dr0i11s8uxi903
-    verified: false
-    hashtags: "#meikfree, #spagaattaevasse, #ad, #sedarohkemein"
+    hashtags: "#movement, #moveyourbody, #awareness, #si90dayschallenge"
 ---

@@ -1,12 +1,84 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Colombia In 2023
+title: Top 10 Makeup Instagram Influencers In Colombia In 2024
 description: >-
-  Find top makeup Instagram influencers in Colombia in 2023. Most popular hashtags: #makeupartist #makeup #maquillaje #colombia.
+  Find top makeup Instagram influencers in Colombia in 2024. Most popular hashtags: #makeup #makeupartist #maquillaje #colombia.
 platform: Instagram
-hits: 312
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 312 Instagram influencers like this in Colombia for you to contact.
+hits: 328
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 328 Instagram influencers like this in Colombia for you to connect with.
 profiles:
+  - username: "valentinaescobarrr"
+    fullname: >-
+      Val Makeup
+    bio: >-
+      makeup artist & content creator ★ @makeupby.vaal ☻
+    location: "Colombia"
+    followers: 16818
+    engagement: 290
+    commentsToLikes: 0.011649
+    id: ck0w2zbd0quv70i19ron2ww58
+    verified: false
+    hashtags: "#beauty, #reels, #photography, #colombia"
+  - username: "tiffanialvarez"
+    fullname: >-
+      Tiffani Alvarez
+    bio: >-
+      Makeup | beauty | wellness | lifestyle | moda +250k en TT 🤝🏻 muchos reviews allá info@tiffanialvarez.com 📍Medellín hubby 🫀 @davidbravod
+    location: "Colombia"
+    followers: 22730
+    engagement: 245
+    commentsToLikes: 0.018727
+    id: ck8wevvpseoo90j78cq9vxrh8
+    verified: false
+    hashtags: "#maquillajenatural, #maquillajefavorito, #maquillaje, #labiales"
+  - username: "lauraveloza_"
+    fullname: >-
+      Makeup • Kbeauty • Kpop • Content creator
+    bio: >-
+      Tu kpoper fav que se delinea lindo ♡ Makeup ♡ kbeauty ♡ Fangirl ♡ stay ♡ TT lauraveloza_ +200k ♡ Bogota, Col
+    location: "Colombia"
+    followers: 63581
+    engagement: 240
+    commentsToLikes: 0.015142
+    id: ck6u3hh42xt4m0j71jiup90e9
+    verified: false
+    hashtags: "#aliciaenelpaisdelasmaravillas, #facepaintings, #grungestyle, #hoodedeyesmakeup"
+  - username: "manumontoz"
+    fullname: >-
+      Manuela Montoya
+    bio: >-
+      aquí vivimos un día a la vez 🪽 fashion•makeup•hair•wellness 💌manuemontoyaperez@gmail.com ambassador @FashionNova
+    location: "Colombia"
+    followers: 224410
+    engagement: 214
+    commentsToLikes: 0.007167
+    id: ck5zutgbp30cx0i14hmrkznmq
+    verified: false
+    hashtags: "#beautyunderyourinfluence, #colourpopcollection, #secretomakeup, #pixipretties"
+  - username: "melytorres0"
+    fullname: >-
+      𝐌 𝐞 𝐥 𝐲 𝐓 𝐨 𝐫 𝐫 𝐞 𝐬
+    bio: >-
+      God fearing🙏🏻 Business/ProMUA @nattypaz0's Wife💍 💙👶🏻👶🏻Mommy Siguiendo el proposito de Dios✨ LifeStyle/Makeup&BeautyTips/Cooking/Travel Hondureña 🇭🇳
+    location: "Colombia"
+    followers: 69054
+    engagement: 187
+    commentsToLikes: 0.033325
+    id: ck6tupvl2hq6d0j71aw434ye0
+    verified: false
+    hashtags: "#glow, #masterclass, #maquillaje, #reels"
+  - username: "luisafernandaw"
+    fullname: >-
+      Luisa Fernanda W
+    bio: >-
+      Creadora de contenido y empresaria @elranchomx @bedivva @bff_app Contacto: @cindyrestrepo yosoyluisafernandaw@gmail.com Mi línea de makeup👇🏻
+    location: "Colombia"
+    followers: 19290335
+    engagement: 25
+    commentsToLikes: 0.004753
+    id: ck135o65i2dxy0i19vb29n08e
+    verified: true
+    hashtags: "#mfw, #bossmilanshow, #beyourownboss, #grwm"
   - username: "makeupby.gisselle"
     fullname: >-
       Gisselle Elneser ✨ جيزيل النسر
@@ -55,76 +127,4 @@ profiles:
     id: ck15sfs30csp80i19bvsgdqqg
     verified: false
     hashtags: "#cutcrease, #goldeneyes, #makeup, #halloween"
-  - username: "laupantoja"
-    fullname: >-
-      LAURA PANTOJA
-    bio: >-
-      PRO MAKEUP ARTIST / HAIR STYLIST NYC 7 SEP / 2 OCT • @bridesbylaupantoja • @_serendipityweddings
-    location: "Colombia"
-    followers: 47199
-    engagement: 184
-    commentsToLikes: 0.030919
-    id: ck13c5vlcyrim0i190ndyqzfl
-    verified: false
-    hashtags: "#makeupartist, #redcarpetmakeup, #makeupcolombia, #makeupartistcolombia"
-  - username: "valeriahidalgomakeup"
-    fullname: >-
-      Valeria Hidalgo ✨
-    bio: >-
-      Maquilladora de la ciudad sorpresa 💄 🌋 📍Pasto Citas 👇🏼 @valeriahidalgo_makeup @leo.maquillaje
-    location: "Colombia"
-    followers: 14803
-    engagement: 482
-    commentsToLikes: 0.072947
-    id: ck5hjtkwqh86s0i11zrtooonk
-    verified: false
-    hashtags: "#girls, #narin, #maquillajeojos, #nari"
-  - username: "paolaamorenoe"
-    fullname: >-
-      Paola Moreno
-    bio: >-
-      🇨🇴Mamá Actriz |Com Social |Coach Acentos |Makeup 🌱 💆🏻‍♀️ @paolamorenotips 🤱🏻@mamapowerclub ♥️ @joao.corredor Manager @julianazapatara
-    location: "Colombia"
-    followers: 99548
-    engagement: 338
-    commentsToLikes: 0.031433
-    id: ck6u1mk7xmmxc0j71sjlflr5q
-    verified: true
-    hashtags: "#publicidad, #rosalhigienetotal"
-  - username: "adribeautyartist"
-    fullname: >-
-      ✨Adri Beauty Artist✨
-    bio: >-
-      🎓Certified Makeup Artist 🤍Beauty Blogger 📍#Barranquilla Información Servicios de Maquillaje 👇🏻
-    location: "Colombia"
-    followers: 13900
-    engagement: 813
-    commentsToLikes: 0.122506
-    id: ckaoyngqii8us0i78s7n5ut7m
-    verified: false
-    hashtags: "#atlantico, #maquillaje, #maquilladoracolombia, #adribeautyartist"
-  - username: "bymariajoserodriguez"
-    fullname: >-
-      Maria Jose Rodriguez
-    bio: >-
-      Makeup Artist | Hair | Academy ✨APÚNTATE AL MAKECLUB ES GRATIS✨
-    location: "Colombia"
-    followers: 24502
-    engagement: 224
-    commentsToLikes: 0.064234
-    id: ck5hfmngfy7cg0i11axnpyvew
-    verified: false
-    hashtags: "#bymariajoserodriguez, #maquillaje, #egotyteam, #beauty"
-  - username: "mariacamilaalba"
-    fullname: >-
-      Maria Camila Alba
-    bio: >-
-      Maraca Co founder @the.lunaticus Makeup @maracamakeup Maquilladora profesional mariacamilaalbah@gmail.com
-    location: "Colombia"
-    followers: 6750
-    engagement: 1075
-    commentsToLikes: 0.036270
-    id: ck5bys0o2pqea0i11f6egfj0s
-    verified: false
-    hashtags: "#makeup, #maquillaje, #makeupartist, #maquillajeefectosespeciales"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Melbourne In 2023
+title: Top 10 Beauty TikTok Influencers In Melbourne In 2024
 description: >-
-  Find top beauty TikTok influencers in Melbourne in 2023. Most popular hashtags: #fyp #beauty #foryoupage #foryou.
+  Find top beauty TikTok influencers in Melbourne in 2024. Most popular hashtags: #fyp #beauty #melbourne #foryoupage.
 platform: TikTok
 hits: 15
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our platform holds 15 TikTok influencers like this in Melbourne, Australia for you to work with.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 15 TikTok influencers like this in Melbourne, Australia for you to collaborate.
 profiles:
   - username: "freshbeautyskin"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ckbb0lxz7qz360j238mn73gx3
     verified: false
     hashtags: "#tasty, #lifehack, #duet, #fatherdaughter"
-  - username: "samsymes"
-    fullname: >-
-      Samantha Symes
-    bio: >-
-      Just for a laugh mate😛 Nurse 👩🏻‍⚕️ Australian 👙 RED HEAD 🧜‍♀️
-    location: "Australia"
-    followers: 152700
-    engagement: 542
-    commentsToLikes: 0.036304
-    id: ckbewuv9vgntb0j23jv4dhkps
-    verified: false
-    hashtags: "#fyp, #famous, #foryou, #walkit"
   - username: "fake.treats"
     fullname: >-
       Fake Treats
@@ -102,7 +90,7 @@ profiles:
     commentsToLikes: 0.012771
     id: ck91003vyfvbl0j78etf0swr5
     verified: false
-    hashtags: "#halloween, #makeup, #euphoriavibes, #makeupartist"
+    hashtags: "#mua, #halloween, #halloweenmakeup, #makeup"
   - username: "behindtheglow2"
     fullname: >-
       BEHIND THE GLOW 2.
@@ -127,4 +115,16 @@ profiles:
     id: ckdhgtydkxu6z0j23jn2d0wof
     verified: false
     hashtags: "#cat, #curvemodel, #midsize, #fyp"
+  - username: "maciecremona"
+    fullname: >-
+      Macie Cremona
+    bio: >-
+      I run a small business! ✨🎁 ⇩ www.thegiftedgratitude.com @thegiftedgratitude
+    location: "Australia"
+    followers: 3584
+    engagement: 649
+    commentsToLikes: 0.018687
+    id: ckcdjez6c8t190j23w9ixf92l
+    verified: false
+    hashtags: "#animallove, #doggo, #wow, #melbourne"
 ---

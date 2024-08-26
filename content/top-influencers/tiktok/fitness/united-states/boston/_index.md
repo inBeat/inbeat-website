@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Boston In 2023
+title: Top 10 Fitness TikTok Influencers In Boston In 2024
 description: >-
-  Find top fitness TikTok influencers in Boston in 2023. Most popular hashtags: #fyp #duet #fitness #stitch.
+  Find top fitness TikTok influencers in Boston in 2024. Most popular hashtags: #fyp #duet #fitness #stitch.
 platform: TikTok
 hits: 28
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our database has 28 TikTok influencers like this in Boston, United States for you to pitch.
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 28 TikTok influencers like this in Boston, United States for you to pitch.
 profiles:
   - username: "charltonharley"
     fullname: >-
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.071316
     id: cka9lutef3ate0i78nxss2mj6
     verified: false
-    hashtags: "#4upage, #stitch, #xyzbca, #foryoupage"
+    hashtags: "#4upage, #foryoupage, #fyp, #stitch"
   - username: "liveroniandcheese"
     fullname: >-
       Liver

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In United Kingdom In 2023
+title: Top 10 Yoga TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top yoga TikTok influencers in United Kingdom in 2023. Most popular hashtags: #yoga #fyp #foryou #fitness.
+  Find top yoga TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #yoga #foryou #fitness.
 platform: TikTok
-hits: 46
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 46 TikTok influencers like this in United Kingdom for you to work with.
+hits: 45
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 45 TikTok influencers like this in United Kingdom for you to connect with.
 profiles:
   - username: "yoga_jonathon"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.047119
     id: cka6j1um1t09c0i78py3ys5s0
     verified: false
-    hashtags: "#fashion, #yoga, #fyp, #workout"
+    hashtags: "#workout, #yoga, #fyp, #fashion"
   - username: "chloekourga"
     fullname: >-
       chloekourga
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.058843
     id: ckcuy5lqomaiz0j23u68cihos
     verified: false
-    hashtags: "#foryou, #dancing, #didyouknow, #dance"
+    hashtags: "#foryou, #goviral, #fyp, #handstand"
   - username: "gluteywear"
     fullname: >-
       Glutey Wear
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.065594
     id: ck97wb6c9qdi60j78sedwsrkv
     verified: false
-    hashtags: "#art, #learnontiktok, #fy, #clay"
+    hashtags: "#artist, #kirby, #weeb, #dayinmylife"
   - username: "kensieziegler"
     fullname: >-
       maisie
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.017002
     id: ck81t2fwkuyi30j78fdjkj6w8
     verified: true
-    hashtags: "#couplesoftiktok, #fidgetoys, #couplegoals, #couplesprank"
+    hashtags: "#fidgetoys, #lgbt, #couplegoals, #fidgettoys"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Indonesia In 2023
+title: Top 10 Health TikTok Influencers In Indonesia In 2024
 description: >-
-  Find top health TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #skincare #health #makeup.
+  Find top health TikTok influencers in Indonesia in 2024. Most popular hashtags: #fyp #skincare #health #makeup.
 platform: TikTok
 hits: 22
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform holds 22 TikTok influencers like this in Indonesia for you to contact.
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 22 TikTok influencers like this in Indonesia for you to collaborate.
 profiles:
   - username: "qonitcah"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.159415
     id: ck8khxt17opqi0j78jxqe9m2f
     verified: false
-    hashtags: "#beauty, #lashes, #learnwithme, #hair"
+    hashtags: "#learnwithme, #hair, #skincareroutine, #lashes"
   - username: "wadehekylie"
     fullname: >-
       ᴡᴀᴅᴇʜᴇᴋʏʟɪᴇ 🤍
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.050169
     id: ck9fme94ft2n40j78bx0jig2x
     verified: false
-    hashtags: "#fyp, #sunset, #bali, #tiktoktravel"
+    hashtags: "#sunset, #tiktoktravel, #bali, #fyp"
   - username: "awchrist"
     fullname: >-
       𝙗𝙪𝙠𝙖𝙣 𝙥𝙚𝙧𝙖𝙢𝙖𝙡✨

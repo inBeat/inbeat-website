@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In United States In 2023
+title: Top 10 Tattoo-Artists TikTok Influencers In United States In 2024
 description: >-
-  Find top tattoo-artists TikTok influencers in United States in 2023. Most popular hashtags: #tattooartist #tattoo #fyp #tattoos.
+  Find top tattoo-artists TikTok influencers in United States in 2024. Most popular hashtags: #tattooartist #fyp #tattoo #tattoos.
 platform: TikTok
 hits: 318
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine holds 318 TikTok influencers like this in United States for you to pitch.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine has 318 TikTok influencers like this in United States for you to pitch.
 profiles:
   - username: "bluerosetattoo"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.058130
     id: ckd6xl5tguj3l0j23b4xeypuj
     verified: false
-    hashtags: "#greenscreenvideo, #inverted, #studioghibli, #fyp"
+    hashtags: "#greenscreen, #greenscreenvideo, #inverted, #studioghibli"
   - username: "mr.tattooguy1"
     fullname: >-
       Everett
@@ -49,12 +49,12 @@ profiles:
     bio: >-
       33 | Tattoo artist, illustrator, emotional about everything. They/Them
     location: "United States"
-    followers: 20600
-    engagement: 1286
-    commentsToLikes: 0.069516
+    followers: 21100
+    engagement: 1397
+    commentsToLikes: 0.080039
     id: ckcjibry2cq620j23eicft11r
     verified: false
-    hashtags: "#elijorgensen, #drawing, #seattletattooartist, #queertattooartist"
+    hashtags: "#queertattooartist, #seattletattooartist, #fyp, #elijorgensen"
   - username: "ceciliamarietattoos"
     fullname: >-
       Cecilia Marie
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.053516
     id: ckd6wvwcjt4x60j23lbbo8d09
     verified: false
-    hashtags: "#757, #fyp, #ceciliamarietattoos, #witchesoftiktok"
+    hashtags: "#witchesoftiktok, #tattooartistsoftiktok, #757, #fyp"
   - username: "alastorwrath"
     fullname: >-
       Noel Garcia
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.019605
     id: ck9gsj8viip0d0j78omjuj595
     verified: false
-    hashtags: "#haha, #replytocomments, #comedy, #art"
+    hashtags: "#tattooartist, #comedy, #oldvideo, #otaku"
   - username: "pencillion"
     fullname: >-
       ashton

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Milan In 2023
+title: Top 10 Photographers Instagram Influencers In Milan In 2024
 description: >-
-  Find top photographers Instagram influencers in Milan in 2023. Most popular hashtags: #milano #portrait #model #photography.
+  Find top photographers Instagram influencers in Milan in 2024. Most popular hashtags: #model #portrait #fashion #makeup.
 platform: Instagram
-hits: 236
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 236 Instagram influencers like this in Milan, Italy for you to pitch.
+hits: 270
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 270 Instagram influencers like this in Milan, Italy for you to pitch.
 profiles:
   - username: "francescoanglanifp"
     fullname: >-
@@ -31,18 +31,30 @@ profiles:
     id: ck13496f6vbx30i19z716owgn
     verified: false
     hashtags: "#artfucksme, #littlerivermag, #sardinia, #magazine35mm"
-  - username: "massimo_sammito"
+  - username: "giomo_"
     fullname: >-
-      Massimosammitoofficial
+      Giovanni Moioli
     bio: >-
-      📍Milano, 39 anni🇮🇹 / . Twitter: Massimosammitoofficial . ❤️Sentimentalmente IMPEGNATO ❤️ 🏷️ Sicily / 📸 Work to Editing photo ACCOUNT QUELLO VERO..
+      Photographer // Milano // 🇮🇹 Action | Lifestyle | Travel 📧 giovanni.moioli@hotmail.com
     location: "Italy"
-    followers: 17007
-    engagement: 439
-    commentsToLikes: 0.074170
-    id: ck8t8x6epm6330j78yzwtcjdp
+    followers: 55661
+    engagement: 82
+    commentsToLikes: 0.009529
+    id: ck0tytxl7o1cc0i19nxp46nlq
     verified: false
-    hashtags: "#instamilano, #igerslombardia, #polizia, #milanocity"
+    hashtags: "#tahiti, #sonyalpha, #sel200600g, #sonygenuine"
+  - username: "valentina_bissoli_"
+    fullname: >-
+      VALENTINA BÌSSOLI
+    bio: >-
+      Contact: Fashion: @ubookerofficial 🌍@boommodels @marco.m_macchi 🇮🇹 @stellamodelmanagement 🌍🇹🇷 Madrina 🦁 Alex’s mum cat
+    location: "Italy"
+    followers: 33520
+    engagement: 108
+    commentsToLikes: 0.036330
+    id: ckap8hedhobaw0i78jox5uy8m
+    verified: false
+    hashtags: "#moda, #love, #beauty, #photooftheday"
   - username: "diletta_allei"
     fullname: >-
       Diletta Allei
@@ -67,6 +79,18 @@ profiles:
     id: ck5hkaqlxi37b0i11fz5ncsju
     verified: false
     hashtags: "#modaitaliana, #fashionblog, #longhair, #heaven"
+  - username: "edoardochuck"
+    fullname: >-
+      C  H  Λ  C  K  | Travel
+    bio: >-
+      Lifestyle & Travel Blogger 🤘🏻 Viaggio un po’, vedo cose, dico cose Model | Photographer📍Milan
+    location: "Italy"
+    followers: 362374
+    engagement: 4
+    commentsToLikes: 0.000700
+    id: ck0txy3plkyjk0i19n6nkmz6e
+    verified: false
+    hashtags: "#esim, #tokyo, #holafly, #japan"
   - username: "alvarobeamud"
     fullname: >-
       Alvaro Beamud Cortes
@@ -103,28 +127,4 @@ profiles:
     id: ck14lm6zivd7w0i19wcauw5ef
     verified: false
     hashtags: "#theatrecostumes, #balletboys, #moda, #spoleto63"
-  - username: "manuelscrima"
-    fullname: >-
-      Manuel Scrima
-    bio: >-
-      Photographer in Milano manuelscrima@gmail.com
-    location: "Italy"
-    followers: 16464
-    engagement: 235
-    commentsToLikes: 0.044361
-    id: ck5bu32ikh3480i11z3mpe4nz
-    verified: false
-    hashtags: "#manintowoman, #photography, #modelsmilano, #contemporaryart"
-  - username: "stefania_danese"
-    fullname: >-
-      Stefania Danese
-    bio: >-
-      📷 Fashion photographer 📩 info@stefaniadanese.com 📍Milano 🇮🇹 #photographer
-    location: "Italy"
-    followers: 30497
-    engagement: 666
-    commentsToLikes: 0.016761
-    id: ck13ahzg7qhhn0i19anrx9j3e
-    verified: false
-    hashtags: "#discoverportrait, #portraitoftheday, #blackandwhite, #makeup"
 ---

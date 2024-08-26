@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cinema Instagram Influencers In United States In 2023
+title: Top 10 Cinema Instagram Influencers In United States In 2024
 description: >-
-  Find top cinema Instagram influencers in United States in 2023. Most popular hashtags: #moodygrams #art #kerala.
+  Find top cinema Instagram influencers in United States in 2024. Most popular hashtags: #cinematic #explorepage #travel #life.
 platform: Instagram
-hits: 3630
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 3630 Instagram influencers like this in United States for you to collaborate.
+hits: 3897
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 3897 Instagram influencers like this in United States for you to collaborate.
 profiles:
-  - username: "lenojzp"
+  - username: "jonnyroams"
     fullname: >-
-      Leno Joseph
+      ᴊᴏɴɴʏ ʜɪʟʟ
     bio: >-
-      @metador.in Cinematographer | Photographer | Editor | Color Grading DM for works Shortfilm, Ad Film, Wedding, Travel, Fashion, Automotive
+      🎥 visual storyteller // horizontal is king hello@jonnyhillphoto.com LR presets | Cinematic LUTs👇🏼
     location: "United States"
-    followers: 2108
-    engagement: 1896
-    commentsToLikes: 0.093538
-    id: ck9whmjvryjzv0j78vvnyzomp
+    followers: 94029
+    engagement: 1726
+    commentsToLikes: 0.056419
+    id: ck0w0zqb9gu7x0i192bv5suv0
     verified: false
-    hashtags: "#music, #vintagefashion, #retroaesthetic, #photooftheday"
-  - username: "sabaizadpanah"
+    hashtags: "#adventure, #freedom, #tetons, #zionnationalpark"
+  - username: "vijaymahar"
     fullname: >-
-      Saba Izadpanah | صبآ ایزدپناه
+      Vijay Mahar
     bio: >-
-      Tehran University of Art #Artist #actress #theatre #Researcher #cinema 🎭🐿 مدیر دپارتمان تئاتر @balootschool
+      Welcome to my Cinema! Creative Director @directorvm Impactful Creator of the Year🏆 - Exhibit ✉️ info@vijaymahar.com
     location: "United States"
-    followers: 14937
-    engagement: 778
-    commentsToLikes: 0.067488
-    id: ck9wixl4j4dbq0j78oqe1d438
+    followers: 2786972
+    engagement: 506
+    commentsToLikes: 0.003682
+    id: ck0tvmvepby330i19old6rs5q
     verified: false
-    hashtags: "#sabaizadpanah, #theatre, #artist, #art"
-  - username: "huntermoreno"
+    hashtags: "#mensfashion, #transition, #style, #life"
+  - username: "slava_makshun"
     fullname: >-
-      Hunter Moreno
+      Viachaslau Makshun
     bio: >-
-      @makesureyourfriendsareokay • Los Angeles | CA • Cinematographer • Photographer • Director • @byhuntermoreno •
+      Producer Director / Cinematographer. Based in NYC ...only hard dopamine...
     location: "United States"
-    followers: 164598
-    engagement: 648
-    commentsToLikes: 0.014354
-    id: ck0vvq6q5q9lg0i195zwuc8lg
+    followers: 13385
+    engagement: 557
+    commentsToLikes: 0.092636
+    id: ck0u95nvr94jt0i19x43g3t9v
     verified: false
-    hashtags: "#ad"
-  - username: "pablo_clemente"
+    hashtags: "#kodakportra400, #marketingagency, #videoproductionservices, #nycrealestate"
+  - username: "henbu_"
     fullname: >-
-      Pablo Clemente
+      Henry Lieng
     bio: >-
-      Cinematographer
+      Cinematography | Photography🎥🥷 ✉️Inquires: info@henbu.me IG Creator Academy,Youtube, LUTs, Presets👇
     location: "United States"
-    followers: 5699
-    engagement: 1017
-    commentsToLikes: 0.083056
-    id: ck5bvbnjujcjy0i11qaa9m19n
+    followers: 253972
+    engagement: 2153
+    commentsToLikes: 0.008624
+    id: ck13by80bxpwp0i1904tuhsy9
     verified: false
-    hashtags: ""
-  - username: "therobinborneman"
+    hashtags: "#cinematicreel, #cinematic, #sonyalpha, #trendingreels"
+  - username: "anymorph"
     fullname: >-
-      𝐑𝐨𝐛𝐢𝐧 𝐁𝐨𝐫𝐧𝐞𝐦𝐚𝐧
+      Eric Fernandes
     bio: >-
-      Singer/Producer Folk/Pop/Cinematic Music Winner//We Want More #wewantmore Singer//Trans-Siberian Orchestra #TSO
+      Health x Cinema @asrv x @ketoneiq athlete ↓ Training Programs + LUTs
     location: "United States"
-    followers: 12973
-    engagement: 605
-    commentsToLikes: 0.060575
-    id: ck601ug2rg72j0i14jex4tqv9
+    followers: 194657
+    engagement: 1739
+    commentsToLikes: 0.019784
+    id: ckxmnykxj986t0j23urt9gzke
     verified: false
-    hashtags: "#robinborneman, #wewantmore, #indie, #80s"
-  - username: "melnikstyle"
+    hashtags: "#fitnessmotivation, #growthmindset, #mindset, #2024goals"
+  - username: "baileyannoriginal"
     fullname: >-
-      ᴠɪᴛᴀʟɪɪ ᴍᴇʟɴɪᴋ
+      Bailey Ann Templeton
     bio: >-
-      CALISTHENICS ATHLETE International cups winner🏆 @gornation athlete Cinematographer @melnikshots Business inquiries: Vet.melnik2002@gmail.com
+      WEDDING & EDITORIAL CURATED SPONTANEITY Photographer + Cinematographer 📍LA | Worldwide
     location: "United States"
-    followers: 166230
-    engagement: 1158
-    commentsToLikes: 0.017033
-    id: ck14kgshwpg3u0i19788zlbj3
+    followers: 30062
+    engagement: 536
+    commentsToLikes: 0.035899
+    id: ck5cg1vkao0rf0i11wqjun146
     verified: false
-    hashtags: "#shreddedunion, #handstand, #calisthenics, #equilibrium"
-  - username: "rinzenmusic"
+    hashtags: "#italyweddingphotographer, #parisweddingphotographer, #brooklynweddingphotographer, #nycweddingphotographer"
+  - username: "pataldingerdp"
     fullname: >-
-      Rinzen
+      Pat Aldinger
     bio: >-
-      Cinematic techno artist Desert Hearts Black, mau5trap, This Never Happened ———————————————————— LA warehouse show:
+      Cinematographer LUX 🇪🇺🇬🇧 @luxartistsltd // ICONIC 🇺🇸 @iconictalentagency // Living between Berlin & LA
     location: "United States"
-    followers: 9924
-    engagement: 678
-    commentsToLikes: 0.157281
-    id: ck5hlj3x4kb9l0i11qszctpi0
+    followers: 18153
+    engagement: 929
+    commentsToLikes: 0.036626
+    id: ck0w3pgnduljp0i19c657wmhv
+    verified: false
+    hashtags: "#arri, #commercial, #cinematographer, #cinematography"
+  - username: "kalani_rodgers"
+    fullname: >-
+      Kalani 😜🌸
+    bio: >-
+      LA🌴 Cinematographer Actress/model w/ @starsmanagement B.A. in film and B.A. in communications
+    location: "United States"
+    followers: 695511
+    engagement: 1085
+    commentsToLikes: 0.010009
+    id: clda2b5j0f7lc0j08u7u1tah0
+    verified: false
+    hashtags: "#funny, #explorepage, #reels, #skits"
+  - username: "benelgringo"
+    fullname: >-
+      Benjamin Lopez Ferrigno
+    bio: >-
+      🇵🇪🦙,🎸🎶🥀…🎥 CA📍 Music Production ꛕͲ🐦‍⬛, & Cinematography. iQ: lopezferrignob@gmail.com
+    location: "United States"
+    followers: 251668
+    engagement: 536
+    commentsToLikes: 0.016237
+    id: ck5ck8dliwcn00i11mr0k9b0q
     verified: true
-    hashtags: "#stopasianhate, #fuckracism"
-  - username: "traumaticl0ve"
+    hashtags: "#youtube, #trap, #rap, #california"
+  - username: "amras_ameen"
     fullname: >-
-      ☼ eclipse☽
+      AMRASAMEEN
     bio: >-
-      Sharing stuff about cinema
+      @aambro_wedding_films CINEMATOGRAPHER | EDITOR | AWARD WINNER ( BEST WEDDING VIDEOGRAPHY TEAM )
     location: "United States"
-    followers: 11877
-    engagement: 1865
-    commentsToLikes: 0.025222
-    id: ck8t6b9j1cycw0j78jgm00cef
+    followers: 382059
+    engagement: 1662
+    commentsToLikes: 0.003927
+    id: ck8t3av2m2kkv0j78u4elsuxa
     verified: false
-    hashtags: "#freeuyghur"
-  - username: "film_seeker"
-    fullname: >-
-      Nijay Jayan
-    bio: >-
-      Cinematographer 📩 thehappiestpersonalive@gmail.com Personal trash ⬇️ From Kerala India Namidangal watch here 👇🏻
-    location: "United States"
-    followers: 23515
-    engagement: 3824
-    commentsToLikes: 0.014953
-    id: ckaotx0zlxvmm0i788jx5qs9z
-    verified: false
-    hashtags: "#kerala, #vscokerala, #sunset, #eveningvibes"
-  - username: "tbailes875"
-    fullname: >-
-      Tyler Bailey
-    bio: >-
-      Cinematographer / Charlotte Tyler.Bailey@OTBpromedia.com
-    location: "United States"
-    followers: 13614
-    engagement: 866
-    commentsToLikes: 0.038627
-    id: ck5q6j9i2xm4j0i11xwk7r1b7
-    verified: false
-    hashtags: "#blackouttuesday, #keeppounding, #ifitdiesitdies"
+    hashtags: "#keralaweddingvideography, #amrasameen, #aambroweddingfilms, #keralaweddingphotography"
 ---

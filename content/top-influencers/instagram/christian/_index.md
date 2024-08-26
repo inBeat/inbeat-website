@@ -1,12 +1,36 @@
 ---
-title: Top 10 Christian Instagram Influencers In 2023
+title: Top 10 Christian Instagram Influencers In 2024
 description: >-
-  Find top christian Instagram influencers in 2023. Most popular hashtags: #carsofinstagram #carlifestyle #thisisus.
+  Find top christian Instagram influencers in 2024. Most popular hashtags: #carsofinstagram #remus #wrapsign.
 platform: Instagram
-hits: 7812
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 7812 Instagram influencers like this for you to contact.
+hits: 8849
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 8849 Instagram influencers like this for you to connect with.
 profiles:
+  - username: "christianvierling"
+    fullname: >-
+      Christian
+    bio: >-
+      Shop @mela bb♥️ Add me on snap:) christianvierli
+    location: "United States"
+    followers: 102597
+    engagement: 2197
+    commentsToLikes: 0.009713
+    id: ck9wh635swfg70j788r3eci1s
+    verified: false
+    hashtags: "#bumblepartner"
+  - username: "christian"
+    fullname: >-
+      christian delgrosso
+    bio: >-
+      @willyswonderlandmov now streaming on @hulu 📧 christiandmanagement@gmail.com 🎭 @xtrachristian 👓 founder @vanta
+    location: "United States"
+    followers: 4164079
+    engagement: 278
+    commentsToLikes: 0.004659
+    id: ck13bj5krvnr50i198vt55fsf
+    verified: true
+    hashtags: "#gamenight, #ad, #uno"
   - username: "christianaaron"
     fullname: >-
       christian
@@ -31,18 +55,6 @@ profiles:
     id: ck601qypfg0d90i14hhy2r8m0
     verified: false
     hashtags: "#cargirl, #baggedcars, #lowandslow, #photography"
-  - username: "cmpulisic"
-    fullname: >-
-      Christian
-    bio: >-
-      Hershey, PA 🇺🇸 Twitter: cpulisic_10 Facebook: cmpulisic Tik Tok: christianmpulisic
-    location: "United States"
-    followers: 3509389
-    engagement: 748
-    commentsToLikes: 0.006012
-    id: ck0tuohdw80cw0i19xi6r6lqt
-    verified: true
-    hashtags: "#scoremorewithxbox, #traineatrepeat, #sponsored"
   - username: "orangello_i30n"
     fullname: >-
       Christian
@@ -55,76 +67,64 @@ profiles:
     id: ck0ttjke7307t0i191f13xbem
     verified: false
     hashtags: "#du, #germany, #remus, #orange"
-  - username: "wavesandlilacs"
+  - username: "vlada_vlada"
     fullname: >-
-      Bethany Rose | Christian marriage & motherhood
+      Vlada Karpovich | travel | content creator | worldwide
     bio: >-
-      Podcaster | Content Creator 🎙@whateveristrueco Wife and mother to 5 Christian motherhood + marriage + current events 👋 Catch me in my stories!
-    location: "United States"
-    followers: 41992
-    engagement: 557
-    commentsToLikes: 0.066097
-    id: ck5hn7vhjnd9d0i11bcxwi4bx
+      Travel, food & lifestyle • open for collabs Photographer: people, brands, hotels Content creator at @canva 📍Warsaw based and 🌱plant-based | christian
+    location: "Poland"
+    followers: 13927
+    engagement: 441
+    commentsToLikes: 0.032339
+    id: ck5zmti2in73o0i149is5ggui
     verified: false
-    hashtags: "#jesussaves, #bumpdated, #whattoexpect, #beating50percent"
-  - username: "christianlindner"
+    hashtags: "#portugal, #travel, #visitportugal, #visitlisbon"
+  - username: "christianelinee"
     fullname: >-
-      Christian Lindner
+      Christiane Line
     bio: >-
-      🏢 Bundesminister der Finanzen 🤳Chef von @fdp. 🎧 Podcast @spotify: CL+. 📲 christian.lindner@fdp.de 📍 Berlin
-    location: "Germany"
-    followers: 364919
-    engagement: 216
-    commentsToLikes: 0.035443
-    id: ck0twafkcemez0i19ne6t0j6h
+      toronto inquiries —— christianeline2@gmail.com
+    location: "Canada"
+    followers: 17562
+    engagement: 1123
+    commentsToLikes: 0.019324
+    id: cl12gviy8y3ac0i23p94hfirb
+    verified: false
+    hashtags: "#discoverunder20k, #reelsinstagram, #vlog, #vibes"
+  - username: "emilyboazman"
+    fullname: >-
+      Emily Boazman (Aulson)
+    bio: >-
+      | Born again Christian || Wife to Jake || Homeschooling mom || PUFA free || Trying to be Non Toxic || L&D Nurse || I make goofy videos ||
+    location: "United States"
+    followers: 36385
+    engagement: 475
+    commentsToLikes: 0.144997
+    id: ck5zs5qwfxvls0i14l2mob4z7
+    verified: false
+    hashtags: "#christianreels, #christianhumor, #cleanreels, #relatablereels"
+  - username: "dorothy_______"
+    fullname: >-
+      Dorothy Tamuno
+    bio: >-
+      Christian • Wife • Yummy Mummy • Founder | @manyrooms_studios Asst. Pastor | @croydonvineyard
+    location: "United Kingdom"
+    followers: 11812
+    engagement: 725
+    commentsToLikes: 0.038934
+    id: ck0u12eo7vjux0i199uxt5h48
+    verified: false
+    hashtags: "#5years"
+  - username: "christianmccaffrey"
+    fullname: >-
+      Christian McCaffrey
+    bio: >-
+      San Francisco 49ers Running Back BBTB🙏🏼 Stanford University @christianmccaffreyfoundation
+    location: "United States"
+    followers: 1995529
+    engagement: 677
+    commentsToLikes: 0.004780
+    id: ck0w6lq0k96i20i19h4lix6kk
     verified: true
-    hashtags: "#deutschlandticket, #commonframework, #emsland, #ukraine"
-  - username: "_kendalljones_"
-    fullname: >-
-      Kendall Jones
-    bio: >-
-      ✨Hunter | Christian | Outdoors | Family | Texan✨ TPUSA Contributor🇺🇸 Support kids getting outdoors with my “Pass It On” Campaign ⬇️
-    location: "United States"
-    followers: 261549
-    engagement: 56
-    commentsToLikes: 0.007273
-    id: ck14hiki7ahky0i192jmx225f
-    verified: true
-    hashtags: "#tpusa, #findahunt, #whatgetsyououtdoors, #openingday"
-  - username: "wantingw"
-    fullname: >-
-      W A N T I N G
-    bio: >-
-      Dreamer, Banker, Wife, Mum, Ambassador @chucollagen @ceradan311 Mum to @christianlim.fk @julianlimfj
-    location: "United States"
-    followers: 28448
-    engagement: 153
-    commentsToLikes: 0.016727
-    id: ck55vgf3vetlg0i11xuq2f9zj
-    verified: false
-    hashtags: "#haircurl, #haircut, #ndwtcj, #wt35th"
-  - username: "goethes_welt"
-    fullname: >-
-      Goethes Welt
-    bio: >-
-      Sophia 👱🏻‍♀️& Christian🧔🏻📸 Goethe SL (5)🐴 Chevalior (1 ) 🦄 Hugo (6)🐶 Paul (5) 🐶 lennox (🐶🌈4) Lotte (12 Wochen) 🐶 🇩🇪#ponypower #ponyrider
-    location: "Germany"
-    followers: 33792
-    engagement: 638
-    commentsToLikes: 0.089014
-    id: ck0w1joczjoig0i196zew7juz
-    verified: false
-    hashtags: "#herzenspferd, #lovemypony, #buckskin, #goldpony"
-  - username: "julianapriscilaofc"
-    fullname: >-
-      PRINCESA DA FAVELA
-    bio: >-
-      Jesus te ama💛 #youtuber 🎥 #Modelo 📸 #Dançarina 💃🏼 #tecemenfermagem💉💊 📥 Parcerias via Direct 📩 julypinkgod@gmail.com @christianjosephofc 🤱🏻
-    location: "Brazil"
-    followers: 691656
-    engagement: 1565
-    commentsToLikes: 2.148656
-    id: ck9wh2n51vywv0j78zp24ep8k
-    verified: false
-    hashtags: "#tbt"
+    hashtags: "#madeinitaly, #mk1, #mk1partner, #dgaltamoda"
 ---

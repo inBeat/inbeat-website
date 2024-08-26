@@ -1,24 +1,24 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Jakarta In 2023
+title: Top 10 Yoga Instagram Influencers In Jakarta In 2024
 description: >-
-  Find top yoga Instagram influencers in Jakarta in 2023. Most popular hashtags: #yoga #jakarta #jawatengah #bali.
+  Find top yoga Instagram influencers in Jakarta in 2024. Most popular hashtags: #jakarta #indonesia #bali #yoga.
 platform: Instagram
-hits: 28
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 28 Instagram influencers like this in Jakarta, Indonesia for you to work with.
+hits: 31
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 31 Instagram influencers like this in Jakarta, Indonesia for you to contact.
 profiles:
   - username: "ibuteko"
     fullname: >-
       Endah
     bio: >-
-      Yogi Certified, Climber, Handmade maker, Tea lover 🧘‍♀️🧗‍♀️✂️🍵 #namastendah It'll turn out all right in the end. ~Mrs. Potts~
+      Teach at @belie.fit Certified Yoga Teacher(RYT), Climber, Handmade maker, Tea lover It'll turn out all right in the end. ~Mrs. Potts~ 📍JKT-BALI
     location: "Indonesia"
-    followers: 4171
-    engagement: 712
-    commentsToLikes: 0.043320
+    followers: 5453
+    engagement: 384
+    commentsToLikes: 0.030634
     id: ck137r5s6cywl0i19slks0zek
     verified: false
-    hashtags: "#namasteendah, #bali, #yogajakarta, #yoga"
+    hashtags: "#yogabali, #surf, #balilife, #yoga"
   - username: "duniakocak.id"
     fullname: >-
       Dunia Kocak || Help 30k :v
@@ -31,18 +31,30 @@ profiles:
     id: ck9wordue6a910j78oewgv060
     verified: false
     hashtags: "#meme, #videolucu, #seru, #kocakbanget"
-  - username: "ikadewiyoga"
+  - username: "lince_theo"
     fullname: >-
-      Ika Dewi Yoga ✨
+      Lince Susanty
     bio: >-
-      🌟YOGA is for every body! ⚡️DM for 1:1 private class (all level) 💫YTT200hr @jogayogatraining ⭐️Youtube & discount code - click link below!
+      📍🇮🇩 Indonesia Certified Yoga Teacher 500hrs, Aerial 85hrs Founder @bestyogaid BA @liforme @zaloraid Disc LIFORME 10%: LINCETHEO ZALORA 20%: ZLINCE
     location: "Indonesia"
-    followers: 41399
-    engagement: 227
-    commentsToLikes: 0.105413
-    id: ck6tigjim0odr0j710kenvkke
+    followers: 127507
+    engagement: 65
+    commentsToLikes: 0.156973
+    id: ck5q85fqt4j200i11garg4veq
     verified: false
-    hashtags: "#splits, #yogainbali, #crazysexyyoga, #yogafit"
+    hashtags: "#yogaposeoftheday, #cny2024, #yogaphotography, #geonusantara"
+  - username: "b37la"
+    fullname: >-
+      Isabella Sindhu | Mom Be | mombesharing
+    bio: >-
+      Mom, Food, Animal lover, Happy Healthy Lifestyle DM for collab #mombesharing @asosiasiinfluencerindonesia @mominfluencerid @thetrontons @yellowbob88
+    location: "Indonesia"
+    followers: 119389
+    engagement: 19
+    commentsToLikes: 0.038695
+    id: ck9haecmbc8as0j7835rc0n7c
+    verified: false
+    hashtags: "#namaste, #mindbodycelfit, #realfood, #mombefoodie"
   - username: "pstorejakartta"
     fullname: >-
       Pstore Jakarta
@@ -55,6 +67,18 @@ profiles:
     id: ck8t8qmojleq90j78793ndnf1
     verified: false
     hashtags: "#quotesindonesia, #bajinganberkelas, #videohits, #videokeren"
+  - username: "coretanmalang"
+    fullname: >-
+      PP 3 akun murah
+    bio: >-
+      pp 3 akun silahkan klik link dibawah⤵ Insight ada disorotan😙
+    location: "Indonesia"
+    followers: 24536
+    engagement: 411
+    commentsToLikes: 0.008501
+    id: ck8t5or5laq7d0j78ogeqr8op
+    verified: false
+    hashtags: "#coretanmalang, #aesthetic, #clotehanjowo, #jowotulen"
   - username: "jktsmart"
     fullname: >-
       Jakarta Info
@@ -67,18 +91,6 @@ profiles:
     id: ckaout3u81p570i78aj9gyw57
     verified: false
     hashtags: "#infojakartaselatan, #jakartaterkini, #infojakartatimur, #persija"
-  - username: "hendritake"
-    fullname: >-
-      Hendri Take
-    bio: >-
-      Winner @InfluenceAsia 2015 BA @garminid Entrepreneur @clickjahe @kebuntake @takepottery •VISEE Yoga Coach http://lambassador.asia/ 📍Jakarta🇮🇩
-    location: "Indonesia"
-    followers: 136853
-    engagement: 230
-    commentsToLikes: 0.010889
-    id: ck13cwnnv2j0g0i19ddixmb1j
-    verified: false
-    hashtags: "#fitness, #yogachallenge, #halal, #qualitylamb"
   - username: "instasuara"
     fullname: >-
       Receh • Vidgram • Baper
@@ -103,28 +115,16 @@ profiles:
     id: ck5c7wsmv8c740i11qrtw0042
     verified: false
     hashtags: "#statuswakekinian, #yobenbaper, #quotesoftheday, #quotesbaper"
-  - username: "sophia_latjuba88"
+  - username: "fennywijaya08"
     fullname: >-
-      Sophia Latjuba
+      Feni Wijaya
     bio: >-
-      Mom-Creator-Yogini-RYT200 @sola.indonesia @thegoodwitchpottery 📍Jakarta - Krefeld Biz Inquiries: Line ID @ sophialatjuba88 (use @)
+      Chinese Sundanese Travel Enthusiast Yoga Lovers🧘🏻‍♀️ @fennyoga Fashion/Beauty @touchandmirror
     location: "Indonesia"
-    followers: 2830912
-    engagement: 59
-    commentsToLikes: 0.010046
-    id: ck8t0fbqvrvld0j786v23dcgg
-    verified: true
-    hashtags: "#throwback2013, #liveinsony, #stayathome, #yoga"
-  - username: "purwokertodrone"
-    fullname: >-
-      Purwokerto Drone
-    bio: >-
-      Photography Videography Wedding Prewedding Bisnis WA 081227272450
-    location: "Indonesia"
-    followers: 12954
-    engagement: 468
-    commentsToLikes: 0.071851
-    id: ck6u7k1holyvd0j718av3eoas
+    followers: 41085
+    engagement: 86
+    commentsToLikes: 0.043047
+    id: ck13aoww4rgjn0i19rsap1omu
     verified: false
-    hashtags: "#djimavicpro, #bali, #dagelan, #cilacap"
+    hashtags: "#flores, #gratitude, #pinkbeach, #indonesia"
 ---

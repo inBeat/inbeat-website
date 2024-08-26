@@ -1,60 +1,108 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Austria In 2023
+title: Top 10 Bakers Instagram Influencers In Austria In 2024
 description: >-
-  Find top bakers Instagram influencers in Austria in 2023. Most popular hashtags: #bikelife #enduro #foodphotography #bikergirl.
+  Find top bakers Instagram influencers in Austria in 2024. Most popular hashtags: #bikelife #bikersofinstagram #bikergirl #summervibes.
 platform: Instagram
 hits: 11
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database holds 11 Instagram influencers like this in Austria for you to collaborate.
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 11 Instagram influencers like this in Austria for you to connect with.
 profiles:
   - username: "twosisterslivinglife"
     fullname: >-
-      Aɴᴛᴏɴɪᴀ﹠Nɪɴᴀ AUT/World
+      Nina  📷food photographer | 🌿recipe creator based in Austria 🇦🇹
     bio: >-
-      2 sisters in love with food & food photography 🇦🇹 @foodcapturecollective team member |Recipe developers|food photograph|2 x AFBA award winners
+      Kitchens are not only for Cooking. Chaos is what makes life interesting and family is where we belong. Visit our blog 👇
     location: "Austria"
-    followers: 11611
-    engagement: 694
-    commentsToLikes: 0.195025
+    followers: 12275
+    engagement: 284
+    commentsToLikes: 0.028751
     id: ck5bz9iezqpgi0i11ct15leo5
     verified: false
-    hashtags: "#wildyeast, #foodblogfeed, #foodartblog, #marthabakes"
-  - username: "moto.cat"
+    hashtags: "#foodphotographyandstyling, #fooditalian, #ourfoodstories, #foodphotographers"
+  - username: "tatjanakreuzmayr"
     fullname: >-
-      Ducatigirl Austria
+      Tatjana Kreuzmayr
     bio: >-
-      officially powered by @ducatiaustria 👉 Name: Tanja 📍 Austria, Vienna ⛰ Hometown #Klagenfurt 🏍 my bikes #panigale899 & #monster696 👩🏻‍🔬 #labtechnician
+      - vienna based📍
     location: "Austria"
-    followers: 22636
-    engagement: 1731
-    commentsToLikes: 0.038438
-    id: ck9wem6n1kvq60j788u4wzd08
+    followers: 117026
+    engagement: 6
+    commentsToLikes: 0.004463
+    id: ck0tvh2fcbbi60i199lxc7p1z
+    verified: true
+    hashtags: "#waterfall, #quote, #balilife, #bali"
+  - username: "carreras.bikelife"
+    fullname: >-
+      Carrera
+    bio: >-
+      Austria 🇦🇹 - Kawasaki ZX-10R/Street - Honda CBR 600rr/Track @dainesegraz @gesslpower @insta360 @cardosystems
+    location: "Austria"
+    followers: 43843
+    engagement: 942
+    commentsToLikes: 0.155893
+    id: cl0v5ifi5t5ps0i23ax6r382x
     verified: false
-    hashtags: "#899, #bikerfriends, #bikerchicksofinsta, #yamaharn22"
+    hashtags: "#dainesegraz, #motolady, #rr, #kawasakininja"
+  - username: "_._a_n_i_k_a_._"
+    fullname: >-
+      Anika Bankhofer
+    bio: >-
+      Vienna-Austria 🇦🇹 🏍️🏋️💃🤿⛸️✈️🌍⛷️ @yart.official @dainesewien
+    location: "Austria"
+    followers: 148963
+    engagement: 120
+    commentsToLikes: 0.014710
+    id: ck8ta8kqyqueb0j787do1y126
+    verified: false
+    hashtags: "#dainesecrew, #bikergirl, #dainese, #yamaharacingteam"
   - username: "da_simmsi"
     fullname: >-
       da_simmsi | SUPERMOTO
     bio: >-
-      21yo🔙 From Austria🇦🇹 ❤️ @__aleks.f__ ♾ ...you belong with me, you’re my sweetheart | KTM 450 EXC-F SIXDAYS🍊
+      22yo🔙 From Austria🇦🇹 ❤️ @__aleks.f__ ♾ ...you belong with me, you’re my sweetheart | KTM 450 EXC-F SIXDAYS🍊
     location: "Austria"
-    followers: 6111
-    engagement: 2911
-    commentsToLikes: 0.006582
+    followers: 8205
+    engagement: 4578
+    commentsToLikes: 0.007297
     id: ckapav7ttxlfq0i78kajxfg8c
     verified: false
-    hashtags: "#foryou, #grenzgaenger, #circle, #viral"
+    hashtags: "#husaberg, #bikersofaustria, #kroatien, #grenzgaenger"
+  - username: "ninagigele"
+    fullname: >-
+      Nina Gigele
+    bio: >-
+      entrepreneur | skier | publisher💥 more infos 👇🏻🥰
+    location: "Austria"
+    followers: 57017
+    engagement: 201
+    commentsToLikes: 0.027269
+    id: ck55pix0tanm50i11hahlsdbn
+    verified: false
+    hashtags: "#cycling, #earthoutdoors, #skipowder, #skiarlberg"
   - username: "dominikagrnova"
     fullname: >-
       Dominika Grnova
     bio: >-
-      Content Creator 👇🏼 👉🏼 @dominika_rides 🏍🏁 Host of the @redbullrookiescup 🎤🎬 Creator of @ladiesfirstintro 📚 Model Agencies @vnmodels 🇬🇷 @nextmodels 🇬🇧🇺🇸
+      @vnmodels 🇬🇷 @lemanagement 🇩🇰 @coreartistmanagement 🇩🇪🇬🇧🇮🇹 Motorsports Presenter🎤 Content Creator @dominika_rides 🏍 Host of the @redbullrookiescup
     location: "Austria"
-    followers: 37284
-    engagement: 143
-    commentsToLikes: 0.020174
+    followers: 42790
+    engagement: 155
+    commentsToLikes: 0.035085
     id: ck5zo8whdq0vg0i14wk350yiy
     verified: false
-    hashtags: "#redbull, #goodtimes, #austria, #enduro"
+    hashtags: "#alphatauri, #ktm, #motogp, #spielberg"
+  - username: "nenifood"
+    fullname: >-
+      N E N I Restaurants
+    bio: >-
+      Modern telavivian cooking Restaurants in 📍Vienna, Berlin, Zurich, Hamburg, Cologne, Munich, Mallorca, Paris, Amsterdam & Copenhagen 🧆 @neniamtisch
+    location: "Austria"
+    followers: 105511
+    engagement: 62
+    commentsToLikes: 0.019561
+    id: ck0ty70qhlqh90i19k7sj0gbs
+    verified: false
+    hashtags: "#instafood, #foodstagram, #bonappetit, #nenifood"
   - username: "sweetenzias"
     fullname: >-
       Sᴡᴇᴇᴛᴇɴᴢɪᴀꜱ | Mᴀᴋᴇᴜᴘ Aʀᴛɪꜱᴛ
@@ -66,7 +114,7 @@ profiles:
     commentsToLikes: 0.194898
     id: ckap22w1xx5820i783b7th47f
     verified: false
-    hashtags: "#editorialmakeup, #creativeart, #mehronhalloween, #faceproject2018"
+    hashtags: "#creativemakeup, #halloweenmakeup, #31daysofmehronhalloween, #thisismakeup"
   - username: "wienerwohnzimmer"
     fullname: >-
       lena 🌚
@@ -78,53 +126,5 @@ profiles:
     commentsToLikes: 0.024131
     id: ck14gfhie4yis0i194tnsy27o
     verified: false
-    hashtags: "#vintagehome, #travelandlife, #kleinerfeinerfeed, #igersitaly"
-  - username: "nenifood"
-    fullname: >-
-      N E N I Restaurants
-    bio: >-
-      Modern telavivian cooking Restaurants in 📍Vienna, Berlin, Zurich, Hamburg, Cologne, Munich, Mallorca, Paris & Amsterdam
-    location: "Austria"
-    followers: 66983
-    engagement: 135
-    commentsToLikes: 0.018540
-    id: ck0ty70qhlqh90i19k7sj0gbs
-    verified: false
-    hashtags: "#delivery, #foodandwine, #foragebyfolk, #hayamolcho"
-  - username: "demets_life"
-    fullname: >-
-      𝒟𝑒𝓂𝑒𝓉
-    bio: >-
-      Welcome to my 🌎 📍Vienna
-    location: "Austria"
-    followers: 13635
-    engagement: 367
-    commentsToLikes: 0.134904
-    id: ck8t6nmuye88g0j78sdkjb3xi
-    verified: false
-    hashtags: "#almonds, #fashion, #coffeetable, #kitchen"
-  - username: "piratecrew"
-    fullname: >-
-      piratecrew
-    bio: >-
-      snowboard film makers
-    location: "Austria"
-    followers: 15251
-    engagement: 375
-    commentsToLikes: 0.016464
-    id: ck6tpq8i6lqst0j71g8hw1euw
-    verified: false
-    hashtags: "#driven, #kamtchatka, #sunrise, #cablecam"
-  - username: "haggerluca"
-    fullname: >-
-      Luca Hagger
-    bio: >-
-      Mr.Feelings / Big Lu 🏴‍☠️ 97‘ 🇦🇹 ~~~~~~~~~ Downhill Bikes and Action⚡️~~~~~~~~~~~~~~~ @foolarmy | @mountainreggaeradio | @radonbikes
-    location: "Austria"
-    followers: 4681
-    engagement: 2482
-    commentsToLikes: 0.032726
-    id: ck5pv55dmg66u0i11yz3s1vpj
-    verified: false
-    hashtags: "#mtb, #bisbaldimwald, #bikeporn, #partylaps"
+    hashtags: "#staythefuckhome, #wohnklamotte, #myinteriorstyletoday, #germaninteriorbloggers"
 ---

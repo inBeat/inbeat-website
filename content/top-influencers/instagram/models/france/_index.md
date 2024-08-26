@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In France In 2023
+title: Top 10 Models Instagram Influencers In France In 2024
 description: >-
-  Find top models Instagram influencers in France in 2023. Most popular hashtags: #model #paris #blueeyes.
+  Find top models Instagram influencers in France in 2024. Most popular hashtags: #paris #model #summervibes.
 platform: Instagram
-hits: 2112
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 2112 Instagram influencers like this in France for you to contact.
+hits: 2172
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 2172 Instagram influencers like this in France for you to connect with.
 profiles:
-  - username: "jeffzimbris"
+  - username: "diana_eneje"
     fullname: >-
-      J E F F  Z I M B R I S  🔹
+      Diana Eneje
     bio: >-
-      Model in Paris 🇫🇷📍 🇮🇹 Major Milan 🇫🇷 Mlleagency 🇺🇸 Musemodelsnyc 👻 jfz71 @jlinkparis 💻 🎼 🎸 Check My song 👇🏽
+      •Model|Influencer •Most Influential & Fashionable 🥇 💕 Shop @theshinecartel 📧management@dianaeneje.com
     location: "France"
-    followers: 67174
-    engagement: 343
-    commentsToLikes: 0.028192
-    id: ck6tzqrxobaul0j71fftvyafa
+    followers: 1061699
+    engagement: 541
+    commentsToLikes: 0.008732
+    id: ck8syqlu2lmpq0j78qrada67j
     verified: false
-    hashtags: "#model, #work, #berlin, #exhaustsound"
-  - username: "bouchrabenayache.official"
+    hashtags: "#paris, #reels, #lancome, #idolehouse"
+  - username: "ella.freya"
     fullname: >-
-      👑 Bouchra Ben Ayache
+      Ella Nyan エラにゃん
     bio: >-
-      This is the official account of model Bouchra Ben Ayache. Miss beauty 2018 👑 ✈️Travel🇪🇬🇹🇳🇦🇪🇲🇦🇹🇷🇲🇻🇲🇾🇶🇦🇹🇿 📩 bouchra.benayache.m@gmail.com 💍❤️
+      We need more love 💕 '97 👧🏼 Model (Ashley RE4 remake) Anicca ❣️🧘‍♀️ ME/cfs recovery Backup: @era.nyan My pics and videos ⤵️
     location: "France"
-    followers: 1208641
-    engagement: 257
-    commentsToLikes: 0.008363
-    id: ck6u550cx7mmc0j71jdejx2iw
+    followers: 1133618
+    engagement: 1290
+    commentsToLikes: 0.007372
+    id: ck6uey536tq6y0j71a14yinz5
     verified: false
-    hashtags: "#aldo, #bershka, #styleblogger, #model"
-  - username: "briannicklen"
+    hashtags: "#ellafreya, #ashleygraham, #ashleygrahamcosplay, #rafraf"
+  - username: "anjawk"
     fullname: >-
-      Brian Nicklen
+      Anja Winkelmann
     bio: >-
-      Paris based 📍 Model 📸
+      𓇢𓆸 yoga teacher creative director @anjawkfilm @waketalents @premium_models upcoming retreats ⭣
     location: "France"
-    followers: 25522
-    engagement: 132
-    commentsToLikes: 0.035514
-    id: ck5hf8exiwah80i11m2b5qauq
+    followers: 203886
+    engagement: 446
+    commentsToLikes: 0.009537
+    id: ckap8odgwp8ow0i7819eptcsn
     verified: false
-    hashtags: "#malemodel, #model, #life, #fashionshoot"
-  - username: "celestebrightt"
+    hashtags: "#asanapractice, #retraiteyoga, #movementheals, #yogaasana"
+  - username: "cleoppatre"
     fullname: >-
-      Celeste Bright
+      Cleopatre 🍭
     bio: >-
-      Model /influencer ✨ @fashionnova ambassador More of me below ⬇️ 🤍🌸
+      Comedy 🤪 Model 💅🏼 Fitness 💪🏽 👻 Cleopatre_off 👻 📧 Cleopatre.pro@outlook.fr
     location: "France"
-    followers: 979132
-    engagement: 70
-    commentsToLikes: 0.009026
-    id: ck0u76em03ypi0i199ppxm2nf
+    followers: 200770
+    engagement: 1155
+    commentsToLikes: 0.019949
+    id: ck5c90zphakl60i114077t9r5
+    verified: false
+    hashtags: "#fail, #getoutmore, #naturevalleyaphetor, #salmon"
+  - username: "leach_v"
+    fullname: >-
+      𝔏𝔢𝔞 ℭ𝔥𝔞𝔯𝔭𝔢𝔫𝔱𝔦𝔢𝔯
+    bio: >-
+      hiii ✮ 📩: leacharpentier.pro@gmail.com @aeon_models
+    location: "France"
+    followers: 80290
+    engagement: 4111
+    commentsToLikes: 0.015151
+    id: clnhuf7kvifiv0j08dci91kh4
+    verified: false
+    hashtags: "#haircare, #ninaxmasmarket, #dessange, #ninaricci"
+  - username: "shaymulta"
+    fullname: >-
+      Shay🦋🇨🇲
+    bio: >-
+      📍Paris | London Model & Content creator @FashionNova
+    location: "France"
+    followers: 16357
+    engagement: 999
+    commentsToLikes: 0.048125
+    id: ck13bvhdyxc1o0i19umn6n43h
+    verified: false
+    hashtags: "#fashion, #outfitinspo, #model, #weargowig"
+  - username: "olesyasenchenko"
+    fullname: >-
+      Olesya Senchenko
+    bio: >-
+      👱🏻‍♀️Posing coach/ Model’s mentor Women who are camera shy- will learn how to pose with confidence! ⭐️ Click link below for FREE posing class! ⬇️
+    location: "France"
+    followers: 99970
+    engagement: 473
+    commentsToLikes: 0.000358
+    id: ck1353gpzzib80i198d5j4jlz
+    verified: false
+    hashtags: "#festivewear, #posingpractice, #partylook, #posingtips"
+  - username: "marcbozz"
+    fullname: >-
+      MARCO BOZZATO
+    bio: >-
+      📍Paris @nextmodelsmilan🇮🇹 🇫🇷@mmanagementmodels🇩🇪@mgm.models 🇪🇸@trendmodelsmgmt🇦🇹@wiener_models 🇳🇱@thefashioncomposersagency🇳🇱@tannmodels
+    location: "France"
+    followers: 52452
+    engagement: 950
+    commentsToLikes: 0.012083
+    id: ckaovcapy3yrv0i78zkcyqb98
+    verified: false
+    hashtags: "#skininmotion, #d2fw24, #d2metamorph, #lvwunderwear"
+  - username: "dr.athenagrs"
+    fullname: >-
+      Λ T H E N Λ
+    bio: >-
+      👩🏻‍⚕️ MD, Médecin généraliste et esthétique 💉 🏋🏻‍♀️ Fitness | 👩🏻‍🍳 Cuisine | ✈️ Voyage | 📸 Model 📍 Monaco 🇲🇨 𝙼𝙰𝙽𝙶𝙸𝙰 𝙱𝙴𝙽𝙴, 𝚁𝙸𝙳𝙸 𝚂𝙿𝙴𝚂𝚂𝙾, 𝙰𝙼𝙰 𝙼𝙾𝙻𝚃𝙾
+    location: "France"
+    followers: 14723
+    engagement: 723
+    commentsToLikes: 0.092501
+    id: ck6tnuzb5amnl0j713uehxa1k
+    verified: false
+    hashtags: "#fitnessmotivation, #fitgirl, #fitnessgirl, #model"
+  - username: "maevamarshall"
+    fullname: >-
+      Maeva Giani Marshall
+    bio: >-
+      Represented by @elitemodelworld All inquiries : y.sassy@elitemodel.fr the model who drives TMax and plays COD 🏴‍☠️
+    location: "France"
+    followers: 87192
+    engagement: 457
+    commentsToLikes: 0.013335
+    id: ck0u93g078tqe0i19r6107mmp
     verified: true
-    hashtags: ""
-  - username: "jessimabz_"
-    fullname: >-
-      Jessmabayo 🌬💨
-    bio: >-
-      Tiktok: jessmabz Fashion | lifestyle | beauty Wanna be model ( but fr modelling agencies dm me)
-    location: "France"
-    followers: 11131
-    engagement: 1177
-    commentsToLikes: 0.095727
-    id: ck9hctwdvmyf50j78dln3kwll
-    verified: false
-    hashtags: "#streetwear, #streetweardaily, #streetwearfashion, #ootd"
-  - username: "saskiabzn"
-    fullname: >-
-      Saskia B.
-    bio: >-
-      29 yo ▲ 🇫🇷 🇧🇪 🇱🇺 Blogger ▲ Catlover ▲ Photographer ▲ Model 😻 @ryuk_and_mishkadventures 🖤 Collab : contact@bruneagency.lu
-    location: "France"
-    followers: 12013
-    engagement: 936
-    commentsToLikes: 0.114538
-    id: ck8t0z0n7tuyl0j78cazxo5mm
-    verified: false
-    hashtags: "#gothgirl, #lookinspiration, #altfashion, #nugothgirl"
-  - username: "alisson_mlfr"
-    fullname: >-
-      Alisson ✈️ Around The World
-    bio: >-
-      From Paris to the world : 40 countries 🌎 Best travel ever TAHITI 🌺 USA addict • Girl made in 🇫🇷 • 1m80 @thefaceparis @emg_model
-    location: "France"
-    followers: 49098
-    engagement: 430
-    commentsToLikes: 0.101135
-    id: ck6u6kgnug44y0j711cbf1s23
-    verified: false
-    hashtags: "#gwada"
-  - username: "iman.karovic"
-    fullname: >-
-      iman | إيمان
-    bio: >-
-      Model • Lifestyle blogger • Law 👩🏽‍⚖️ • ♎️ • Beauty queen👸🏽 | Miss Tourism BiH 2015 👑 • Collabs 💌
-    location: "France"
-    followers: 45281
-    engagement: 491
-    commentsToLikes: 0.102901
-    id: ck0tuu05q8np60i19au0pa7l4
-    verified: false
-    hashtags: "#balkan, #montenegro, #reels, #bosniangirl"
-  - username: "gabrielouten"
-    fullname: >-
-      
-    bio: >-
-      Creator/Artist/Model 🦋 🎶 : gabrielouten (580k+) 🕊 @dripsquad 📧: talent.gabrielouten@gmail.com COME MEET ME ON TOUR ↙️
-    location: "France"
-    followers: 91159
-    engagement: 485
-    commentsToLikes: 0.071044
-    id: ck9wgbkv3sp7l0j78xzvxxhxe
-    verified: false
-    hashtags: "#explorepage, #dripsquad, #kdm, #30dayworkoutchallenge"
-  - username: "elle.and.arts"
-    fullname: >-
-      Elle&arts💖
-    bio: >-
-      French Model 🇫🇷 . My name is Hélèna. Welcome to my instagram : Elegance and seduction Art ONLY FANS and MYM ➡️ link in DM En couple 💏
-    location: "France"
-    followers: 128521
-    engagement: 680
-    commentsToLikes: 0.036049
-    id: ck8t63e2mc3xr0j78el0im4rm
-    verified: false
-    hashtags: "#leatherskirt, #tightslover, #nylonslover, #tights"
+    hashtags: "#sephoracollection, #ad, #magicskin, #dinerdenoelprintemps"
 ---

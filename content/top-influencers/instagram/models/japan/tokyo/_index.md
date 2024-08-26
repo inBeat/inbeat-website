@@ -1,21 +1,21 @@
 ---
-title: Top 10 Models Instagram Influencers In Tokyo In 2023
+title: Top 10 Models Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top models Instagram influencers in Tokyo in 2023. Most popular hashtags: #fashion #ootd #pr.
+  Find top models Instagram influencers in Tokyo in 2024. Most popular hashtags: #fashion #model #skincare.
 platform: Instagram
-hits: 153
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 153 Instagram influencers like this in Tokyo, Japan for you to pitch.
+hits: 159
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 159 Instagram influencers like this in Tokyo, Japan for you to connect with.
 profiles:
   - username: "morgankriz"
     fullname: >-
-      Morgyy
+      Morgan
     bio: >-
-      Ciotti Models - Toronto - M/A Primo Models - Hong Kong Cosmopolitan Models - Osaka, Japan Axelle Models - Tokyo, Japan
+      Ciotti M/A 🤍Email for collabs 🤍 Independent Models - Milan, Italy Primo Models - Hong Kong Cosmo & Axelle Models - Tokyo, Japan Metro - Switzerland
     location: "Japan"
-    followers: 45695
-    engagement: 346
-    commentsToLikes: 0.012883
+    followers: 40890
+    engagement: 246
+    commentsToLikes: 0.015259
     id: ck5cal4wfdm7k0i11krjrtt5w
     verified: false
     hashtags: ""
@@ -31,18 +31,6 @@ profiles:
     id: ck8t6g19idhne0j78manbvvw8
     verified: false
     hashtags: "#hairmake, #hairmakeup, #radio, #komaefm"
-  - username: "aimatsumoto_45"
-    fullname: >-
-      松本愛
-    bio: >-
-      Ai Matsumoto / 1994.04.05 model tokyo 🇯🇵
-    location: "Japan"
-    followers: 108233
-    engagement: 154
-    commentsToLikes: 0.033752
-    id: ck0w53dla1osn0i19e2clx03a
-    verified: true
-    hashtags: "#maisonmargiela, #fashion, #xperia, #pr"
   - username: "maimiokuwa"
     fullname: >-
       大桑マイミ
@@ -67,6 +55,18 @@ profiles:
     id: ckf5viubeoroi0j23kb2l6qkz
     verified: false
     hashtags: "#japanesegirl, #lunch, #tokyo, #tipstar"
+  - username: "tsukamotonanami"
+    fullname: >-
+      Nanami Tsukamoto
+    bio: >-
+      MOTOR SPORTS ATHLETE ☆Drift／Race／Rally ☆ Model ☆Japan Tokyo🇧🇷×🇯🇵×🇮🇹@nanami_beautynote #女性レーサー #initald #jdm #リアル真子 #世界一美しいレーサー#pilotabrasileira #ドリスピ
+    location: "Japan"
+    followers: 100370
+    engagement: 486
+    commentsToLikes: 0.014597
+    id: ck6tzfdtw9d9z0j71qm8ye7vi
+    verified: false
+    hashtags: "#jdm, #ae86, #motorsportwoman, #pilotabrasileira"
   - username: "haruka_takahashi0127"
     fullname: >-
       高橋晴香

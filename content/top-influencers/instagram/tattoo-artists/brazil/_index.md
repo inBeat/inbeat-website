@@ -1,12 +1,48 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Brazil In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Brazil In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Brazil in 2023. Most popular hashtags: #tattoo #blackwork #tatuagem.
+  Find top tattoo-artists Instagram influencers in Brazil in 2024. Most popular hashtags: #tattoo #blackwork #tatuagem.
 platform: Instagram
-hits: 365
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 365 Instagram influencers like this in Brazil for you to connect with.
+hits: 373
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat has 373 Instagram influencers like this in Brazil for you to contact.
 profiles:
+  - username: "fesouza.s"
+    fullname: >-
+      FÊ SOUZA
+    bio: >-
+      • 24 | RJ • Tattoo Artist and Model • tktk: fesouza.s (+𝟐𝐌) Orçamentos e agendamentos @fesouzatattoo Jobs @contatofe.s
+    location: "Brazil"
+    followers: 546660
+    engagement: 275
+    commentsToLikes: 0.015751
+    id: ck6tmdfma7n1l0j71oyh6thc4
+    verified: false
+    hashtags: "#tatuagensfemininas, #loiro, #loiroperolado, #curtosdivos"
+  - username: "lucasmilk"
+    fullname: >-
+      Lucas Milk
+    bio: >-
+      Tattoo Artist 🖤 Floripa/SC Owner @milkinktattoo 🇺🇸 Currently in Los Angeles @generation8tattoo Booking: lucas@milkink.com.br
+    location: "Brazil"
+    followers: 194223
+    engagement: 129
+    commentsToLikes: 0.013948
+    id: ck9wfnthnpo9l0j78zbwb8vlw
+    verified: false
+    hashtags: "#milkinktattoo, #sharpiepen, #mandala, #linework"
+  - username: "fabriciogaldino89"
+    fullname: >-
+      FABRÍCIO GALDINO
+    bio: >-
+      🏆international champion tattoo artist🏆 🇧🇷🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🇮🇹🇨🇱🇦🇷🇲🇽🇵🇦🇳🇱🇪🇸🇺🇸🇧🇪🇩🇪🇫🇷 @inkworld013📌 🔒Agenda fechada🔒 🖼️Transformamos histórias em obra de arte 🖼️
+    location: "Brazil"
+    followers: 575405
+    engagement: 94
+    commentsToLikes: 0.027602
+    id: ck55l6a430uzz0i11lubgn75n
+    verified: false
+    hashtags: "#instalike, #instapic, #instaphoto, #apple"
   - username: "lobotattooart"
     fullname: >-
       Pedro Lobo 🌈
@@ -91,40 +127,4 @@ profiles:
     id: ck5her07cuccb0i11hf6wp359
     verified: false
     hashtags: "#fkirons, #inspirationtattoo, #blackwork, #l4l"
-  - username: "marianariom_tattooartist"
-    fullname: >-
-      mariana rio
-    bio: >-
-      💉tattoo artist and body piercer at @skinlab_tattoos Professional account @marianariom__tattooartist (Facebook link⬇⬇)
-    location: "Brazil"
-    followers: 2193
-    engagement: 1077
-    commentsToLikes: 0.087865
-    id: ck8t5sd04b2p20j780w26buly
-    verified: false
-    hashtags: "#babycosplay, #babyofinstagram, #halloween, #baby"
-  - username: "jessicapaixao"
-    fullname: >-
-      Jéssica Paixão 🇧🇷
-    bio: >-
-      ✨ Tattoo Artist ✨ Founder at @inkdomus Agenda fechada temporariamente . Para informações: 11.94338-8282
-    location: "Brazil"
-    followers: 82998
-    engagement: 134
-    commentsToLikes: 0.029733
-    id: ck9hb735hfnoh0j78kiypfs87
-    verified: false
-    hashtags: "#tatuagemfeminina, #jessicapaixao, #fineline, #finelinetattoo"
-  - username: "bya.brasil"
-    fullname: >-
-      Bya Brasil 🦂
-    bio: >-
-      ✶ j u s t s u r r e a l a r t ✶ ✶ Tattoo artist, illustrator & content creator. ✶ São Paulo - ateliê privado ✶ byabrasiltattoo@gmail.com
-    location: "Brazil"
-    followers: 45268
-    engagement: 442
-    commentsToLikes: 0.012406
-    id: ck6u5sc1rbfz60j71l684uy9h
-    verified: false
-    hashtags: "#blackart, #tttism, #tattoodo, #blackworksubmission"
 ---

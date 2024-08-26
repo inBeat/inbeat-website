@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Brazil In 2023
+title: Top 10 Yoga Instagram Influencers In Brazil In 2024
 description: >-
-  Find top yoga Instagram influencers in Brazil in 2023. Most popular hashtags: #yogapractice #yoga #yogagirl.
+  Find top yoga Instagram influencers in Brazil in 2024. Most popular hashtags: #yoga #acupuntura #iasmimnerysemgluten.
 platform: Instagram
-hits: 437
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 437 Instagram influencers like this in Brazil for you to work with.
+hits: 436
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 436 Instagram influencers like this in Brazil for you to collaborate.
 profiles:
-  - username: "fernandayoga"
+  - username: "stonedyoda"
     fullname: >-
-      Yoga - Fernanda Raiol
+      YoDa | Felipe Noronha
     bio: >-
-      📿Espalhando o yoga pelo Brasil! 🌎Yoga Teacher - Vinyasa/Yoga Nidra 📩 contato@fernandayoga.com 💜Aulas, cursos, meditações e muito mais:
+      Streamer, filantropo e empresário. @twitch I @gruposehloiro | @yogamersdobem | @exitlag
     location: "Brazil"
-    followers: 138384
-    engagement: 376
-    commentsToLikes: 0.032828
-    id: ck6tukvtigx1i0j71ipms73wq
-    verified: false
-    hashtags: "#yogamemes, #yoga, #yogabrasil, #liberdade"
-  - username: "prileiteyoga"
-    fullname: >-
-      Priscilla Leite
-    bio: >-
-      ◬ Mãe ⟁ Yogini ⧊ Percursora em acessibilizar a prática de yoga online e gratuita pra você @canal.da.pri Top 100 influencers to watch in 2021 📍USA
-    location: "Brazil"
-    followers: 240525
-    engagement: 811
-    commentsToLikes: 0.027014
-    id: ck15ug2b7n0de0i194cyesvk7
-    verified: false
-    hashtags: "#30, #tbt, #21diasdeyoga, #21diasdeleveza"
-  - username: "babithome"
-    fullname: >-
-      BARBARA THOME
-    bio: >-
-      Fashion, Beauty, Yoga, Beautiful Places & Positive Vibes! Based in Paris 🇫🇷 ✉️contact@babithome.com
-    location: "Brazil"
-    followers: 119705
-    engagement: 227
-    commentsToLikes: 0.049075
-    id: ck0vv0722mxx40i19ig9f78xd
-    verified: false
-    hashtags: "#paris, #yogainspiration, #yogatutorial, #yogapose"
-  - username: "sasouzayoga"
-    fullname: >-
-      【﻿Ｓá　Ｓｏｕｚａ】
-    bio: >-
-      Tipo Sanguíneo - Sarcasmo+ Yoga Podcast Valor da Essência YogaLab On-line®️ Thetahealer®️
-    location: "Brazil"
-    followers: 71353
-    engagement: 186
-    commentsToLikes: 0.054657
-    id: ckaou590tyurm0i78licffzyy
+    followers: 535802
+    engagement: 578
+    commentsToLikes: 0.009861
+    id: ck0w36nl9rulz0i19cdnrnhke
     verified: true
-    hashtags: "#diadascriancas2020, #baby2, #criancainterior"
-  - username: "ciro.mbt"
+    hashtags: "#yoda, #yodalol, #leagueoflegends, #starcitzen"
+  - username: "madducabrall"
     fullname: >-
-      Ciro Burgareli 🇮🇹
+      Maddu Cabral
     bio: >-
-      ⚡️ we are limitless 📿 estilo • viagem • yôga 🧠 vivendo a vida + leve através do Yôga 📥 ciroburgareli@outlook.com ClubHouse: @ciroburgareli 🎧
+      🪷 Eleve Corpo, Mente & Alma Nutrição | treino | yoga | meditação | lifestyle • Atleta @nike • Bailarina profissional @madducabraldaily
     location: "Brazil"
-    followers: 92222
-    engagement: 367
-    commentsToLikes: 0.028878
-    id: ck15s7l29bmob0i190j89vqlk
+    followers: 133939
+    engagement: 4208
+    commentsToLikes: 0.008494
+    id: cloxohlcl083j0j08t8tao1qv
     verified: false
-    hashtags: "#beachvibes, #carneirosbeach, #praia, #abelezamaisbonitae"
-  - username: "taati.alves"
+    hashtags: "#gymrat, #gymcouple, #gym, #gymmotivation"
+  - username: "ianobaldez"
     fullname: >-
-      Tati ☼ Travel • Healthy
+      Ianô Baldez
     bio: >-
-      • Hatha Yoga teacher • plant based food 🌱 ✈️ Comissária de bordo Vivências e Retiros 👉🏽
+      🇧🇷 RJ ॐ Prof de vinyasa & oss yoga Modelo | Atriz Parcerias ianobaldezcontato@gmail.com YOGA ONLINE!!👇🏾
     location: "Brazil"
-    followers: 15421
-    engagement: 320
-    commentsToLikes: 0.075783
-    id: ckap3hueq32700i784ikk231e
-    verified: false
-    hashtags: "#staywild, #crewlife, #flightattendant, #novaeradeaqua"
-  - username: "inesportess"
-    fullname: >-
-      INÊS PORTES
-    bio: >-
-      ➵ NUTRICIONISTA - consultoria on-line ➵ INSTRUTORA DE YOGA ✨ ➵ Modelo nas hrs vagas rs 🤷🏼‍♀️💓 👇🏻MARQUE SUA CONSULTA👇🏻
-    location: "Brazil"
-    followers: 16298
-    engagement: 294
-    commentsToLikes: 0.069929
-    id: ck0u8rffu82710i19tphqib94
+    followers: 220622
+    engagement: 462
+    commentsToLikes: 0.035892
+    id: ckapc33zz2a580i781bsihvff
     verified: false
     hashtags: ""
-  - username: "marinagodward"
+  - username: "zsuzsannaripli"
     fullname: >-
-      mima
+      Zsuzsanna Ripli
     bio: >-
-      por uma vida mais leve e conectada com a natureza 🌾 entre POA e @_achacrinha ✨ 365 dias de Yoga 🌱 Vem plantar comigo e criar sua Primeira Horta 👇🏻
+      Yoga, Pilates instructor, actress, model. @amikisfalunk 🎥A maradék nyolc 🐾Freyja,Nano @nanoandfreyja 💻 https://www.imdb.com/name/nm3
     location: "Brazil"
-    followers: 24034
-    engagement: 371
-    commentsToLikes: 0.047556
-    id: ck13afeqwq4t10i192qtiaz5r
+    followers: 21937
+    engagement: 534
+    commentsToLikes: 0.016824
+    id: ck8t8yfhtmany0j781hq09sg7
     verified: false
-    hashtags: "#segundasemcarne, #365diasdeyoga, #eumeinspiro, #zerolixo"
-  - username: "leticiaferreira1221"
+    hashtags: "#saturday, #behappy, #pajkaszeg, #riplizsuzsi"
+  - username: "iasmimnery"
     fullname: >-
-      Letícia Ferreira
+      Iasmim Nery - YOGA - REIKI - VEGAN
     bio: >-
-      ✨Lifestyle Stories: Dicas•alimentação//treino//dança//yoga 🛍 @lets21loja
+      Australia📍 Yoga teacher 🧘🏾‍♀️ Reiki Master 🎋 Vegan and GF 🐷🌱
     location: "Brazil"
-    followers: 126682
-    engagement: 488
-    commentsToLikes: 0.015885
-    id: ck8tck6u0zp260j787wr56g3c
+    followers: 11094
+    engagement: 251
+    commentsToLikes: 0.257174
+    id: ck602jqowhlrj0i145adz5a50
     verified: false
-    hashtags: "#camposdosgoytacazes, #tbt, #sobreontem"
-  - username: "mariana_yoga"
+    hashtags: "#iasmimneryvegan, #ozzylife, #celiacoviaja, #celiacosbr"
+  - username: "marbarra"
     fullname: >-
-      Mariana Peixoto MARYOGA
+      Marcella Barra
     bio: >-
-      •YOGA TEACHER• ॐ #hatha #asthanga #vinyasa #superioga #acroyoga
+      Médica|Acupuntura Yoga|Dança|Pilates Dom|Flor Que nossa troca seja sempre construtiva! @dramarcellabarra
     location: "Brazil"
-    followers: 11241
-    engagement: 420
-    commentsToLikes: 0.258166
-    id: ck6tn0drr8vt20j71039f7utq
+    followers: 169946
+    engagement: 182
+    commentsToLikes: 0.016282
+    id: ck134k94cwuft0i19k7pskuh7
     verified: false
-    hashtags: "#love, #peace, #namaste, #yogini"
+    hashtags: "#medicinaintegrativa, #inovacao, #inovamed, #feminino"
+  - username: "ninayoganow"
+    fullname: >-
+      Marina Mitie Monobe ( Nina )
+    bio: >-
+      🇧🇷 It’s Nina 👋🏻 Brazilian 🩺 Veterinarian 🤸🏻‍♀️ Yoga, Cycle, HIIT, fitness instructor 🛍 @aloyoga & @fabletics partner 💰 @liforme 10% OFF code NinaFit
+    location: "Brazil"
+    followers: 94303
+    engagement: 150
+    commentsToLikes: 0.079435
+    id: ck5btbq1wfogo0i11c4mteat0
+    verified: false
+    hashtags: "#aloboutcolors, #morrodes, #yogifeaturefriday, #alonholidayvibes"
+  - username: "jamesgannaban"
+    fullname: >-
+      James Gannaban
+    bio: >-
+      🏳️‍🌈 Sober Yoga Uncle🇭🇰 ☯️ E-RYT Vinyasa, Yin, Alignment 🕉 @liforme Ambassador code JAMESG ❤️‍🔥 Featured @scmpnews @tatlerhongkong @reuters etc.
+    location: "Brazil"
+    followers: 34859
+    engagement: 73
+    commentsToLikes: 0.011704
+    id: ck6uc0y5jcugd0j7169bvivo4
+    verified: false
+    hashtags: "#yogauncle, #thatliformeguy, #alovetobothsides, #liformeautumnequinox"
+  - username: "maribeltrame_"
+    fullname: >-
+      Mari Beltrame
+    bio: >-
+      model @waymodel @canvasmgt @onemanagement hatha yoga teacher __
+    location: "Brazil"
+    followers: 119979
+    engagement: 65
+    commentsToLikes: 0.041847
+    id: ck6tkpi2b55ww0j714dowzjef
+    verified: false
+    hashtags: "#calzelolla, #publi"
+  - username: "hideo_official"
+    fullname: >-
+      Hideo Muraoka
+    bio: >-
+      🇧🇷🇯🇵Father Entrepreneur life student. CEO @muraokamassoterapia Photographer @hideomuraokaphotography Yoga Teacher @the_movement_tribe_ph_
+    location: "Brazil"
+    followers: 202711
+    engagement: 62
+    commentsToLikes: 0.022773
+    id: ck5c0l7butcxh0i11bj2ckoph
+    verified: true
+    hashtags: "#yoga, #muraokamassoterapia, #myofascial, #saopaulo"
 ---

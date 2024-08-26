@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hair Dressers TikTok Influencers In United States In 2023
+title: Top 10 Hair Dressers TikTok Influencers In United States In 2024
 description: >-
-  Find top hair dressers TikTok influencers in United States in 2023. Most popular hashtags: #fyp #fashion #hair #dresses.
+  Find top hair dressers TikTok influencers in United States in 2024. Most popular hashtags: #hair #dresses #fyp #fashion.
 platform: TikTok
-hits: 21
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine holds 21 TikTok influencers like this in United States for you to collaborate.
+hits: 23
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 23 TikTok influencers like this in United States for you to contact.
 profiles:
   - username: "sillyrealtor"
     fullname: >-
@@ -30,7 +30,19 @@ profiles:
     commentsToLikes: 0.015132
     id: ckbfennf78vgx0j23wv8mlnsr
     verified: false
-    hashtags: "#horderly, #closet, #organize, #beforeandafter"
+    hashtags: "#closet, #beforeandafter, #kitchen, #drawers"
+  - username: "allthingskeki"
+    fullname: >-
+      allthingsconsideredb
+    bio: >-
+      IG . Facebook . LIKEtoKNOW.it 🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍 Shop My Looks 👇🏻
+    location: "United States"
+    followers: 174400
+    engagement: 417
+    commentsToLikes: 0.064049
+    id: ck932akynima20j786br7uu8t
+    verified: false
+    hashtags: "#springfashion, #photography, #influencersinthewild, #amazonfashion"
   - username: "itsforkingjaaaade"
     fullname: >-
       Jade I
@@ -43,30 +55,30 @@ profiles:
     id: ckanls7hra6f70i788bhbdsgm
     verified: false
     hashtags: "#stitch, #duet, #highonpositivity, #tiktok"
-  - username: "allthingskeki"
+  - username: "haileymetzgerr"
     fullname: >-
-      allthingsconsideredb
+      hailey metzger ☆
     bio: >-
-      IG . Facebook . LIKEtoKNOW.it 🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍 Shop My Looks 👇🏻
+      👻 hailey.metz3 FOLLOW MY INSTA @HAILEYMETZGERR💘 venmo: hailey-metzger-2
     location: "United States"
-    followers: 174400
-    engagement: 417
-    commentsToLikes: 0.064049
-    id: ck932akynima20j786br7uu8t
+    followers: 180800
+    engagement: 1435
+    commentsToLikes: 0.018664
+    id: ckb94jwojm3rm0j236cpbddsy
     verified: false
-    hashtags: "#summerlove, #springfashion, #mothers, #photography"
-  - username: "glowupu"
+    hashtags: "#trycloudy, #fy, #theseglasses, #cloudy"
+  - username: "jessicala"
     fullname: >-
-      Glow Up University 💋🦋🍒✏️🛍
+      Jessica La
     bio: >-
-      cat@glowupu.com Follow me on IG: @glowupu 🥰 Pinterest: /glowupu
+      uc irvine 🍓 SF come say hi on insta @jessica.la <3
     location: "United States"
-    followers: 120100
-    engagement: 802
-    commentsToLikes: 0.011815
-    id: ckdhilzipymdw0j23fdn90vqe
+    followers: 25900
+    engagement: 1038
+    commentsToLikes: 0.022043
+    id: cka6l2c4z1epx0i78zbiagtuc
     verified: false
-    hashtags: "#trends, #style, #fashion, #outfitinspo"
+    hashtags: "#foryou, #fyp, #ootd, #outfit"
   - username: "sarahscouture"
     fullname: >-
       SARAH'S COUTURE
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.100418
     id: ckacgnflvvutw0i78xchx913g
     verified: false
-    hashtags: "#fyp, #antm, #runway, #blackgirlmagic"
+    hashtags: "#tgirl, #dress, #pink, #style"
   - username: "kenna.kemper"
     fullname: >-
       ✿𝓴𝓮𝓷𝓷𝓪✿
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.034450
     id: ckbf07pvqlnnt0j23blmlad7n
     verified: false
-    hashtags: "#trend, #foryoupage, #comedy, #god"
+    hashtags: "#love, #happy, #jesus, #ootd"
   - username: "haley.snider"
     fullname: >-
       Haley Snider
@@ -115,16 +127,4 @@ profiles:
     id: ckcdd3zjs5clu0j230cpcya8x
     verified: false
     hashtags: "#tarotreading, #aesthetic, #tarot, #wicca"
-  - username: "emmalayne.13"
-    fullname: >-
-      Emma
-    bio: >-
-      🦖 seventeen insta\ emmalayne.13 snap\ emmalyane 💫love all of y’all ✨
-    location: "United States"
-    followers: 104100
-    engagement: 2332
-    commentsToLikes: 0.017766
-    id: ck8s6cqwejyvj0j7827uw3u81
-    verified: false
-    hashtags: "#shopping, #foryou, #thisorthatsblv, #tryon"
 ---

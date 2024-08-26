@@ -1,36 +1,48 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Denver In 2023
+title: Top 10 Nutrition Instagram Influencers In Denver In 2024
 description: >-
-  Find top nutrition Instagram influencers in Denver in 2023. Most popular hashtags: #fitness #workout #nutrition #fitnessmotivation.
+  Find top nutrition Instagram influencers in Denver in 2024. Most popular hashtags: #fitness #love #colorado #nutrition.
 platform: Instagram
-hits: 12
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 12 Instagram influencers like this in Denver, United States for you to pitch.
+hits: 14
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 14 Instagram influencers like this in Denver, United States for you to contact.
 profiles:
-  - username: "stuartbrazell"
+  - username: "joannasohofficial"
     fullname: >-
-      Stuart Brazell
+      Joanna Soh
     bio: >-
-      Wife + Boy Mom x2 👶 Los Angeles Based TV + Digital Host / Producer • Content Creator • #MomLife #travelblogger Twitter + TikTok @stuartbrazell 🔗⬇️
+      🧡 @fio.app @tntfitness.pro 🏋️‍♀️ YouTuber 3mil Subs 👧🏻 Certified Trainer & Nutrition Coach 👩‍🎓 MSc Mental Health 👇🏻 Subscribe to my Channel here
     location: "United States"
-    followers: 145322
-    engagement: 131
-    commentsToLikes: 0.060131
-    id: ck14hrajcbqgn0i19w1g7yekv
-    verified: true
-    hashtags: "#styledbystuart, #revolvesummer, #stuartsbucketlist, #stuartsays"
-  - username: "kellstone35"
-    fullname: >-
-      Kelly Stone, DPT, CSCS, Pn1
-    bio: >-
-      Doctor of Physical Therapy Nutrition Coach/Strength & Cond Specialist 2xCF Games #IAM1STPHORM @nbctitangames S✌🏽 #teamkellstone @bornprimitive
-    location: "United States"
-    followers: 155657
-    engagement: 253
-    commentsToLikes: 0.029990
-    id: ck6u3ngp6ys8e0j71iwstpeoo
+    followers: 125439
+    engagement: 194
+    commentsToLikes: 0.017804
+    id: ck14ipzohgnfs0i19u7hbh6gi
     verified: false
-    hashtags: "#happy, #fitnessmotivation, #strength, #crossfit"
+    hashtags: "#fitnessmotivation, #positivity, #workoutathome, #healthylifestyle"
+  - username: "the.doxies.and.div"
+    fullname: >-
+      Bruno, Nova, & Murphy | Denver Doxies
+    bio: >-
+      🏔️ Denver, CO lifestyle 🐶 Reactivity Work • R+ Training • Dog Nutrition 🩵 Animal Rights Advocacy • Rescue Awareness
+    location: "United States"
+    followers: 10871
+    engagement: 163
+    commentsToLikes: 0.167709
+    id: clrswx564hhg10k08q42clqao
+    verified: false
+    hashtags: "#hotdog, #love, #dogstagram, #doxiefever"
+  - username: "andrea.coonrod"
+    fullname: >-
+      Andrea Coonrod | Lifestyle & Mom blogger
+    bio: >-
+      Everyday Life, motherhood, fashion, & home styling. 📍CO #denverblogger #lifestyle #mom #colorado #renovation
+    location: "United States"
+    followers: 172449
+    engagement: 15
+    commentsToLikes: 0.036047
+    id: ck5bujufnhx7w0i11i6puu1jx
+    verified: false
+    hashtags: "#ad, #mykrogerdelivery, #colorado, #pistola"
   - username: "tcrosleyfit"
     fullname: >-
       Tara Crosley💫
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.049278
     id: ckapax9b1xt9w0i78cmteewo0
     verified: false
-    hashtags: "#veganbodybuilders, #veganflexfriday, #colorado, #plantbasedmuscle"
+    hashtags: "#vegan, #vegantrainer, #veganathlete, #veganstrong"
   - username: "kaylinpyles"
     fullname: >-
       Online Fitness Coach + CEO
@@ -102,29 +114,17 @@ profiles:
     commentsToLikes: 0.079649
     id: ckap28jk8xuhb0i78n1mlpocg
     verified: false
-    hashtags: "#healthylifestyle, #positivevibes, #photooftheday, #mama"
-  - username: "andrea.coonrod"
+    hashtags: "#workout, #mama, #positivevibes, #fitmom"
+  - username: "jaim91"
     fullname: >-
-      A N D R E A  C O O N R O D
+      Personal Trainer || Mindset coach
     bio: >-
-      Life&Style Content Creator I like to workout 🏋️‍♀️ but beer is good too 🍻 KC raised📍CO living #colorado #pregnant #mama #socialmedia
+      Jaime Filer 🏳️‍🌈Helping anxious LGBTQ+ women ⬇️ overwhelm and ⬆️ confidence through the Inner/ Outer Strength System❤️ Click⏬️ to learn more
     location: "United States"
-    followers: 209223
-    engagement: 36
-    commentsToLikes: 0.134677
-    id: ck5bujufnhx7w0i11i6puu1jx
+    followers: 121889
+    engagement: 157
+    commentsToLikes: 0.054623
+    id: ckaovcq6h40vr0i785nunzlcu
     verified: false
-    hashtags: "#revolveme, #coloradoblogger, #revolve, #summerstyle"
-  - username: "brianmazza"
-    fullname: >-
-      Brian Mazza
-    bio: >-
-      Dad..Husband..Athlete..Investor Founder @hpltraining @hplventures 2x @menshealthmag cover 50 Mile Ultra Marathon: 7:28:25 👇🏼
-    location: "United States"
-    followers: 314855
-    engagement: 232
-    commentsToLikes: 0.005410
-    id: ck15rk4t58bdg0i19tmx5x3hs
-    verified: true
-    hashtags: "#lifestyle, #gains, #workout, #motivation"
+    hashtags: "#fitgirls, #lgbtqpride, #girlswholift, #abs"
 ---

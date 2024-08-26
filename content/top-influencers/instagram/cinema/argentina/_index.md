@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Argentina In 2023
+title: Top 10 Cinema Instagram Influencers In Argentina In 2024
 description: >-
-  Find top cinema Instagram influencers in Argentina in 2023. Most popular hashtags: #cine #cinema #cumplea #makeup.
+  Find top cinema Instagram influencers in Argentina in 2024. Most popular hashtags: #cinema #makeup #cine.
 platform: Instagram
-hits: 112
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 112 Instagram influencers like this in Argentina for you to connect with.
+hits: 118
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 118 Instagram influencers like this in Argentina for you to connect with.
 profiles:
   - username: "alexispuig"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck1353kxwzixq0i19pgoji42f
     verified: false
     hashtags: "#culturapop, #wandavision, #marvel, #mcu"
-  - username: "itziarcastro"
-    fullname: >-
-      Itziar Castro
-    bio: >-
-      Actress & Singer, sometimes Director, Producer, Writer, Poet, MC...Theatre, TV, Cinema, Musicals, Cab Burlesque, Circus... @bedelkatalent
-    location: "Argentina"
-    followers: 460988
-    engagement: 110
-    commentsToLikes: 0.027282
-    id: ck55pu4zbbdsi0i11p1235bye
-    verified: true
-    hashtags: "#cumplea, #itziarcastro, #visavis, #culturasegura"
   - username: "punisheriv"
     fullname: >-
       Mariano Latapi Di Carlo
@@ -127,4 +115,16 @@ profiles:
     id: ck0w34hnprkee0i19stqu8s69
     verified: false
     hashtags: "#halloween, #phoshoot, #dragqueen, #terror"
+  - username: "yessicacruzc"
+    fullname: >-
+      Yessica Cruz
+    bio: >-
+      Apasionada a la fotografía, diseño y al arte en todas su formas. Fotógrafa en: @yessicacruzw ✨photographer l designer
+    location: "Argentina"
+    followers: 8565
+    engagement: 620
+    commentsToLikes: 0.026301
+    id: ck6u16y15jyw70j713pk1nx1h
+    verified: false
+    hashtags: "#editorial, #filmisnotdead, #filmography, #ifyouleave"
 ---

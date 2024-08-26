@@ -1,24 +1,12 @@
 ---
-title: Top 10 Makeup TikTok Influencers In New York In 2023
+title: Top 10 Makeup TikTok Influencers In New York In 2024
 description: >-
-  Find top makeup TikTok influencers in New York in 2023. Most popular hashtags: #fyp #makeup #newyork #nyc.
+  Find top makeup TikTok influencers in New York in 2024. Most popular hashtags: #fyp #makeup #nyc #foryou.
 platform: TikTok
-hits: 122
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: inBeat holds 122 TikTok influencers like this in New York, United States for you to contact.
+hits: 119
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 119 TikTok influencers like this in New York, United States for you to collaborate.
 profiles:
-  - username: "ines.alfaro"
-    fullname: >-
-      Inés Alfaro
-    bio: >-
-      Latina. 📍NYC Esthetician & makeup Just for fun
-    location: "United States"
-    followers: 21700
-    engagement: 523
-    commentsToLikes: 0.044489
-    id: ckbfat1nq2ecs0j23v8xned1n
-    verified: false
-    hashtags: "#newyork, #makeup, #newyorklife, #daywithme"
   - username: "singlearabfemale"
     fullname: >-
       Gheed Saeed
@@ -31,6 +19,18 @@ profiles:
     id: ckcv66rj0pimj0j235owduecv
     verified: false
     hashtags: "#ny, #arab, #tiktokarab, #nyc"
+  - username: "jessicamarkowski"
+    fullname: >-
+      JessicaMarkowski
+    bio: >-
+      Fashion Model. Actress. Verified Instagramer. @jessicamarkowski
+    location: "United States"
+    followers: 2518
+    engagement: 1256
+    commentsToLikes: 0.046796
+    id: ckd18hserpzgo0j23co9q0vt5
+    verified: false
+    hashtags: "#streamlive, #fyp, #fouryourpage, #skin"
   - username: "king_meena1"
     fullname: >-
       KingMeena
@@ -55,18 +55,6 @@ profiles:
     id: ckcunki38i2pa0j23st3cseqn
     verified: false
     hashtags: "#evansmasks, #fashion, #freemask, #giveaway"
-  - username: "girlwithadoge"
-    fullname: >-
-      Eva Yu
-    bio: >-
-      Proud Asian IG: Kittycateva Venmo: Eva-Yu
-    location: "United States"
-    followers: 29400
-    engagement: 869
-    commentsToLikes: 0.153896
-    id: ckcjffj7tb0np0j23szxfs901
-    verified: false
-    hashtags: "#beauty, #asian, #fyp, #covid19"
   - username: "steffieinthecity"
     fullname: >-
       Steffie Price
@@ -115,16 +103,28 @@ profiles:
     id: ckbfchien59px0j23xfgr72cx
     verified: false
     hashtags: "#viral, #foryou, #fyp, #foryoupage"
-  - username: "alexxbullock"
+  - username: "ines.alfaro"
     fullname: >-
-      ALEX BULLOCK
+      Inés Alfaro
     bio: >-
-      NYC alexandrawbullock@gmail.com
+      Latina. 📍NYC Esthetician & makeup Just for fun
     location: "United States"
-    followers: 23900
-    engagement: 1302
-    commentsToLikes: 0.014640
-    id: ck920y2jfg5mn0j78mkhooyvs
+    followers: 21700
+    engagement: 523
+    commentsToLikes: 0.044489
+    id: ckbfat1nq2ecs0j23v8xned1n
     verified: false
-    hashtags: "#newyork, #nyc, #foryou, #aesthetic"
+    hashtags: "#nyc, #newyorklife, #newyork, #fyp"
+  - username: "nicolconcilio"
+    fullname: >-
+      NICOL CONCILIO
+    bio: >-
+      New Yorker turned Valley Girl 🌞 Makeup & astrology keep me sane I like to sing
+    location: "United States"
+    followers: 263100
+    engagement: 1021
+    commentsToLikes: 0.032169
+    id: ck8nbubr4bigw0j7897w1l1h6
+    verified: true
+    hashtags: "#makeuptutorial, #colourpop, #skincare, #makeupreview"
 ---

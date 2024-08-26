@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In Brazil In 2023
+title: Top 10 Nutrition TikTok Influencers In Brazil In 2024
 description: >-
-  Find top nutrition TikTok influencers in Brazil in 2023. Most popular hashtags: #nutri #nutricionista #emagrecimento #fitness.
+  Find top nutrition TikTok influencers in Brazil in 2024. Most popular hashtags: #nutri #nutricionista #fitness #emagrecimento.
 platform: TikTok
-hits: 17
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 17 TikTok influencers like this in Brazil for you to pitch.
+hits: 18
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 18 TikTok influencers like this in Brazil for you to collaborate.
 profiles:
   - username: "carolsaraivafitness"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       Personal Trainer - USP 🥇 Nutritionist 🍷 Best Trainer Instagram @thais_health
     location: "Brazil"
-    followers: 185500
-    engagement: 551
-    commentsToLikes: 0.012375
+    followers: 186700
+    engagement: 554
+    commentsToLikes: 0.013594
     id: ckc8318q43o0y0j23dh3x7nlk
     verified: false
-    hashtags: "#emagrecimento, #treinoemcasa, #fitness, #lol"
+    hashtags: "#gravidez, #vemprotime, #treinoemcasa, #gravidezcomhumor"
   - username: "gabri_lara_nutri"
     fullname: >-
       Gabriela Lara

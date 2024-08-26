@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Brazil In 2023
+title: Top 10 Skincare TikTok Influencers In Brazil In 2024
 description: >-
-  Find top skincare TikTok influencers in Brazil in 2023. Most popular hashtags: #skincare #fy #foryou #fyp.
+  Find top skincare TikTok influencers in Brazil in 2024. Most popular hashtags: #skincare #fy #foryou #fyp.
 platform: TikTok
 hits: 56
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: inBeat has 56 TikTok influencers like this in Brazil for you to collaborate.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 56 TikTok influencers like this in Brazil for you to work with.
 profiles:
   - username: "miminzo"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.014144
     id: ckb931fdojhx70j234cm48np9
     verified: false
-    hashtags: "#hair, #vaiprofy, #acne, #foryou"
+    hashtags: "#acne, #skincare, #acneskin, #selfcare"
   - username: "rubyrose_oficial"
     fullname: >-
       Ruby Rose

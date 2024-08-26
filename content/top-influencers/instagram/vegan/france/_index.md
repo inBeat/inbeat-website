@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In France In 2023
+title: Top 10 Vegan Instagram Influencers In France In 2024
 description: >-
-  Find top vegan Instagram influencers in France in 2023. Most popular hashtags: #vegan #giveaway #govegan.
+  Find top vegan Instagram influencers in France in 2024. Most popular hashtags: #vegan #veganfood #veganrecipes.
 platform: Instagram
-hits: 509
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat has 509 Instagram influencers like this in France for you to collaborate.
+hits: 515
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 515 Instagram influencers like this in France for you to collaborate.
 profiles:
-  - username: "rafaelleroy"
+  - username: "beextravegant"
     fullname: >-
-      Ⓥ Rafaëlle Roy ॐ
+      Anjali Harikumar
     bio: >-
-      Singer-songwriter, vegan 🌻 Maya and Milo's mama 💌 collabs: rafaelle@kovalmarketing.com
+      📍London/Paris Vegan recipes🌱 Dr. Butterfingers Written recipes: beextravegant.com
     location: "France"
-    followers: 149122
-    engagement: 1094
-    commentsToLikes: 0.047473
-    id: ck13d7sok44140i19sx4wgpai
+    followers: 206270
+    engagement: 563
+    commentsToLikes: 0.013146
+    id: cl5m5njk0bjq10i23frc1t1eo
+    verified: false
+    hashtags: "#veganrecipes, #vegan, #veganfood, #newyearresolutions"
+  - username: "missbeetownsend"
+    fullname: >-
+      Bee Townsend
+    bio: >-
+      Vintage Glamour | Sustainable Fashion | Veganism 💌 prmanagement@beetownsend.com 💄Content creator 💃🏻 Model 🎙️Jazz vocalist 📍Aussie in France 🇦🇺🇫🇷
+    location: "France"
+    followers: 79273
+    engagement: 1147
+    commentsToLikes: 0.041003
+    id: ck5hnsei4ob850i11fektv22q
+    verified: false
+    hashtags: "#winterfashion, #oldhollywoodglamour, #vintageglam, #1950sinspired"
+  - username: "marielaforetvegan"
+    fullname: >-
+      Marie Laforêt | Cuisine vegan & food photo
+    bio: >-
+      ✨Autrice & photographe culinaire 📔 22 livres de recettes vegan Directrice de collection & coach food photo @marielaforetphoto
+    location: "France"
+    followers: 91838
+    engagement: 256
+    commentsToLikes: 0.042926
+    id: ck15ppjddz0jv0i19ds25q8h8
     verified: true
-    hashtags: "#trouvetonx, #toutsaufconduire, #consignestu, #ad"
-  - username: "lafrenchpique"
+    hashtags: "#mesplatsdenoelvegan, #encuisineavecmarielaforet, #noelvegan, #mannele"
+  - username: "oh_49"
     fullname: >-
-      La French Pique
+      Ophélie - Vegan Lifestyle
     bio: >-
-      Maison marseillaise Marque de mode consciente et unisexe pour tous Broderie moderne réalisée main By @johannapiettrehermes #Vegan #Durable #Ethique
+      | Lyon / Angers | Mum Life : Louison | Recette Vegan & Healthy #oh_encuisine | Green life - Mode Responsable - Déco chinée | Bonne adresse #oh_inlyon
     location: "France"
-    followers: 3622
-    engagement: 6188
-    commentsToLikes: 0.090214
-    id: ck14ho5j2bb1l0i196pr7kfm6
+    followers: 12442
+    engagement: 199
+    commentsToLikes: 0.119377
+    id: ck6trp72r0a2l0j715fj9e1j2
     verified: false
-    hashtags: "#creatrice, #sustainablefashion, #madeinfrance, #madeinmarseille"
-  - username: "mireiadelgado"
+    hashtags: "#homedecor, #veganlyon, #lyoncity, #lookdujour"
+  - username: "annas_wholesomeboholife"
     fullname: >-
-      Mireia | Photography
+      Anna 🥑 healthy vegan lifestyle & recipes 🌱
     bio: >-
-      🪴 Vegan & Conscious living 🐝 Passionate about nature, animals & photography 🌞Co funder at @studioterrax — ✉️Hellomireiadelgado@gmail.com
+      ⋒ Creator of @veganna.bg ⊹ Download my App Veganna📱⤸ ☽ Bali Retreat ⤸ ≏ YouTube.com/Veganna ✧ Travel @wholesomeboholife
     location: "France"
-    followers: 12828
-    engagement: 1152
-    commentsToLikes: 0.029591
-    id: ckap07rj2p42o0i78qn3hpxzw
+    followers: 51481
+    engagement: 183
+    commentsToLikes: 0.076512
+    id: ckz1xizda3hnu0j235ywfw4id
     verified: false
-    hashtags: "#readytoexplore, #refraneroclim, #mindfultomorrow, #vegansofspain"
-  - username: "lois.lapetitefleur"
+    hashtags: "#plantbased, #veganrecipes, #greekfood, #balilife"
+  - username: "naildbyk"
     fullname: >-
-      Loïs Petite fleur
+      NAILED BY K 🇫🇷
     bio: >-
-      🧚🏽‍♀️🇧🇪🇵🇱🇸🇳 109 cm 🌱#Vegan Zara, Mango, C&A, Jacadi, Catimini, Sergent Major, Natalys, Okaidi, Louise Misha, ... Managed by mom @latoileamily
+      Une nouvelle ère pour l’onglerie Vegan. Innovant. Formules avancées Collection été 2024 disponible le 31 mai à 18:00
     location: "France"
-    followers: 3475
-    engagement: 1525
-    commentsToLikes: 0.162802
-    id: ckaovf8wi4cv20i782k068zj0
+    followers: 112108
+    engagement: 264
+    commentsToLikes: 0.010128
+    id: ck5cie6ryshpi0i11o4p9imog
     verified: false
-    hashtags: "#kidzmanagement, #mixedbaby, #wearthechange, #myagencykids"
-  - username: "xomerlissa"
+    hashtags: "#gelnail, #onglesengel, #shiningclaws, #paznokcie"
+  - username: "la_cuisine_de_jean_philippe"
     fullname: >-
-      Merlissa
+      La Cuisine de Jean-Philippe
     bio: >-
-      🐚 Mermaid | Blogger - 🧜🏻‍♀️ Beauty | Lifestyle | Travel | Vegan | Yoga 💕 Backup account: @merlissastyles 📍NYC | LA | CHI
+      Chef Vegan 🌱 Auteur: Mes 100 meilleures recettes véganes, Mes grands classiques Véganes» et Réconfort Végane. Facebook, Youtube, Site Web ici:
     location: "France"
-    followers: 50653
-    engagement: 263
-    commentsToLikes: 0.129709
-    id: ck137t5dfd8rt0i194y9hxxvm
+    followers: 91050
+    engagement: 153
+    commentsToLikes: 0.089880
+    id: ck0vv5ebfnmk30i19ic6okvqh
     verified: false
-    hashtags: "#refreshmentspartner, #colourpop, #naturalskincareproducts, #ecofriendly"
-  - username: "chlowelaterreur"
+    hashtags: "#lacuisinedejeanphilippe, #vegan, #recettes, #recettesimple"
+  - username: "chefclarisseflon"
     fullname: >-
-      ☆ CHLOWE ☆
+      Chef Clarisse 🇫🇷🥐 - Vegan Patisserie
     bio: >-
-      Summer girl ☼ Saguenay☆ Vegan ♡ Taurus ☽ ⠀ @HashtagChlowe ⠀ ↓ Ma shop en ligne ↓
+      •That French pastry chef making vegan food 👩‍🍳 •LEARN VEGAN CROISSANTS, BAKING AND MORE⬇️
     location: "France"
-    followers: 13558
-    engagement: 648
-    commentsToLikes: 0.107941
-    id: ck135a10m0gec0i19aysazdvf
+    followers: 126599
+    engagement: 103
+    commentsToLikes: 0.063748
+    id: clid5n8q1zeyc0j085y1k7fu0
     verified: false
-    hashtags: "#ardenelove, #chlowe, #ardenebabe, #hashtagchlowe"
-  - username: "charlottecoquelin"
+    hashtags: ""
+  - username: "cutbyfred"
     fullname: >-
-      CHARLOTTE COQUELIN 🦇🇫🇷
+      CUT BY FRED
     bio: >-
-      @imgmodels @parsmanagement VEGAN 🌱 SYDNEY 📍 📝 @5elevenmag
+      🌱 Soins VEGAN et NATURELS pour TOUS les cheveux 🇫🇷 Made in France ✌️ By Frédéric Birault @yogibyfred ❤️‍🔥 Découvrez notre nouvelle gamme 👇
     location: "France"
-    followers: 31293
-    engagement: 275
-    commentsToLikes: 0.092323
-    id: ck5zr4lnlvw490i14c1p80i3w
-    verified: false
-    hashtags: "#mbpartners, #vegan, #crueltyfree, #themodernbreakupbook"
-  - username: "michaela.vincourova"
-    fullname: >-
-      zmatena.vila🌸
-    bio: >-
-      • aktivistka za osvobození zvířat • ♡ ♡ ♡ aktivistka: @zviratanejime veganshop: @generacev žena: @lukasvincour ♡ ♡ ♡
-    location: "France"
-    followers: 12052
-    engagement: 720
-    commentsToLikes: 0.025392
-    id: ck6u5zm0pcohs0j7169oi3dnb
-    verified: false
-    hashtags: "#mlha, #madeira, #vegancz, #fanal"
-  - username: "jeannesomewhere"
-    fullname: >-
-      𝑱𝒆𝒂𝒏𝒏𝒆 𝑺𝒐𝒎𝒆𝒘𝒉𝒆𝒓𝒆 🌷 VEGAN LIFE
-    bio: >-
-      VEGAN • LIFESTYLE • TRAVEL • HAPPY VIBES 📍#bordeaux #biarritz
-    location: "France"
-    followers: 10174
-    engagement: 468
-    commentsToLikes: 0.179474
-    id: ckap1c0jbtxp60i78l4sjvq7r
-    verified: false
-    hashtags: "#travelblogger, #tulipes, #loveyou, #planetearth"
-  - username: "julieberthollet"
-    fullname: >-
-      Julie Berthollet
-    bio: >-
-      🇫🇷/🇺🇸 Français - English 🌸 stories, and more stories.. 📀 new album “nos 4 saisons” 🌱vegan foodie ✊ fighting - ED recovery Tiktok : @julieberthollet
-    location: "France"
-    followers: 7781
-    engagement: 722
-    commentsToLikes: 0.070145
-    id: ck6u4fa3b3dsf0j71h07hhpzi
+    followers: 90315
+    engagement: 96
+    commentsToLikes: 0.107900
+    id: ck5c3hhyvzc600i11kuxq0gqc
     verified: true
-    hashtags: "#backhome"
+    hashtags: "#routine, #haircare, #hydratationmask, #nouveautes"
+  - username: "cansukaniskn"
+    fullname: >-
+      Cansu Kanışkan
+    bio: >-
+      11 Chasing sunrise to sunset with @thecansuxi Milano • Paris • Istanbul - #SeasonFreeWardrobe #VeganSilkofCansu
+    location: "France"
+    followers: 98870
+    engagement: 93
+    commentsToLikes: 0.005645
+    id: ck6u4nqum4rzs0j71qfk0zf36
+    verified: false
+    hashtags: "#helpturkey, #sunsetlovers, #inspiration, #journey"
 ---

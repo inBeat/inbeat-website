@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In New York In 2023
+title: Top 10 Vegan TikTok Influencers In New York In 2024
 description: >-
-  Find top vegan TikTok influencers in New York in 2023. Most popular hashtags: #vegan #fyp #greenscreen #newyork.
+  Find top vegan TikTok influencers in New York in 2024. Most popular hashtags: #vegan #fyp #newyork #greenscreen.
 platform: TikTok
 hits: 33
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: inBeat has 33 TikTok influencers like this in New York, United States for you to pitch.
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 33 TikTok influencers like this in New York, United States for you to work with.
 profiles:
   - username: "ctbnyc"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck9dwo9cypubj0j78n22mqy39
     verified: false
     hashtags: "#nyceats, #nyccheck, #bestburger, #burger"
+  - username: "johnphilp3"
+    fullname: >-
+      John Philp
+    bio: >-
+      the craziest thing we can do is nothing ⚡️ Texan in NYC IG: @johnphilp3
+    location: "United States"
+    followers: 38200
+    engagement: 627
+    commentsToLikes: 0.020560
+    id: ck9nidthwgsi70j785bus7p8o
+    verified: false
+    hashtags: "#dairyfree, #brewthelove, #boredathome, #quickrecipes"
   - username: "laurenzray"
     fullname: >-
       Lauren Z Ray
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.045216
     id: ckdbspcxxclpo0j2348ud9z0c
     verified: false
-    hashtags: "#fashion, #nyc, #greenscreen, #greenscreenvideo"
+    hashtags: "#nyc, #greenscreenvideo, #greenscreen, #fashion"
   - username: "giuliasabatinoo"
     fullname: >-
       giulia
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.078931
     id: ckacmk4wak0250i78wufumxym
     verified: false
-    hashtags: "#greenscreen, #millennial, #withouttellingme, #stitch"
+    hashtags: "#2002, #withouttellingme, #stitch, #millennial"
   - username: "vegan8ooty"
     fullname: >-
       Vegan Body
@@ -115,16 +127,4 @@ profiles:
     id: ck9evvj1wk8bx0j78f4q9c8cv
     verified: false
     hashtags: "#vegana, #veganbody, #vegan, #veganfitness"
-  - username: "motdcosmetics"
-    fullname: >-
-      Chantal • CEO MOTD Cosmetics
-    bio: >-
-      Owner of @MOTD_Cosmetics Cruelty Free Vegan Beauty Brand Shop Here👇🏼
-    location: "United States"
-    followers: 27100
-    engagement: 918
-    commentsToLikes: 0.036716
-    id: ckahzp8lq49oh0i7838z1e0fr
-    verified: false
-    hashtags: "#veganmakeup, #packingorders, #makeupbrushes, #vegan"
 ---

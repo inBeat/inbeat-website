@@ -1,24 +1,60 @@
 ---
-title: Top 10 Chefs Instagram Influencers In South Africa In 2023
+title: Top 10 Chefs Instagram Influencers In South Africa In 2024
 description: >-
-  Find top chefs Instagram influencers in South Africa in 2023. Most popular hashtags: #endsars #food #valentines.
+  Find top chefs Instagram influencers in South Africa in 2024. Most popular hashtags: #foodnetwork #capetown #neillanthony.
 platform: Instagram
-hits: 19
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 19 Instagram influencers like this in South Africa for you to work with.
+hits: 25
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 25 Instagram influencers like this in South Africa for you to collaborate.
 profiles:
-  - username: "froners"
+  - username: "davidhiggschef"
     fullname: >-
-      Wilco Froneman
+      David Higgs 🇿🇦
     bio: >-
-      📍 Dublin, Ireland 🇿🇦 Proudly South African 🏳️‍🌈 LGBTQIA+ Activist 🐾 Dog Dad 🐶 🍳 Just for Fun Home Chef 🔪 🧳 Lover of travel and culture 🗺
+      JHB | Chef | Marble Restaurant | Saint Restaurant | Zioux Lounge | Pantry | Mile8 Author | Mercedes-Benz Ambassador |
     location: "South Africa"
-    followers: 39148
-    engagement: 239
-    commentsToLikes: 0.013845
-    id: ck55k0df2y68j0i11onwc4eg3
+    followers: 38766
+    engagement: 307
+    commentsToLikes: 0.027021
+    id: ck14gy0qs7ks20i19hl1c9gok
+    verified: false
+    hashtags: "#cclass, #220d, #cookingfordreams2022, #c43amg"
+  - username: "chef_fregz"
+    fullname: >-
+      Gbubemi Fregene
+    bio: >-
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Private Chef ⠀⠀⠀⠀⠀⠀⠀⠀⠀Passionate about Food and Life ⠀⠀⠀⠀⠀⠀⠀⠀⠀Featured on CNN "African Voices" Bookings and Enquries ➡️Click Email📧
+    location: "South Africa"
+    followers: 157511
+    engagement: 194
+    commentsToLikes: 0.038229
+    id: ck6tu7ebyeqci0j71qk8jlogu
     verified: true
-    hashtags: "#proudlysouthafrican, #throwback, #fbf, #thicc"
+    hashtags: "#eatforgood, #naijafood, #explore, #knorrnigeria"
+  - username: "neillanthony"
+    fullname: >-
+      Neill Anthony
+    bio: >-
+      Virtual diary of the private chef around the world 🌎... www.neillanthony.com
+    location: "South Africa"
+    followers: 31152
+    engagement: 264
+    commentsToLikes: 0.043460
+    id: ck5znyge0peao0i14kglzwm3b
+    verified: false
+    hashtags: "#capetown, #privatechef, #privatechefneillanthony, #foodnetwork"
+  - username: "chef_nti"
+    fullname: >-
+      Chef Nti
+    bio: >-
+      • Street Food in Africa on @foodnetwork • Founder: @taste_kitchen_ on the move • Celebrity Chef • Cook Book Author • Cullinary Icon of Year ‘21
+    location: "South Africa"
+    followers: 227374
+    engagement: 30
+    commentsToLikes: 0.045835
+    id: ck0tw42dhdxkn0i19pwcmudsp
+    verified: false
+    hashtags: "#abuja, #whatsfordinner, #whatsfordinnerthiswinter, #chefnti"
   - username: "janhendrikvanderwesthuizen"
     fullname: >-
       Jan Hendrik van der Westhuizen
@@ -79,52 +115,16 @@ profiles:
     id: ck5pxdc4hr8py0i11fhp1t1fv
     verified: false
     hashtags: "#buharimustgo, #toutkitchen, #buharimustresign, #ginjahhhh"
-  - username: "chef_fregz"
+  - username: "chef_amakaa"
     fullname: >-
-      Gbubemi Fregene
+      Chiamaka Nwakalor-Egemba
     bio: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Private Chef ⠀⠀⠀⠀⠀⠀⠀⠀⠀Passionate about Food and Life ⠀⠀⠀⠀⠀⠀⠀⠀⠀Featured on CNN "African Voices" ⠀ ✉️ : Info@cheffregz.com ⠀⠀
+      I express food uniquely to promote African Heritage, improve wellness &connect people Owner @dishlafrique @chowwithamaka @dlafoodstore @bamwellness_
     location: "South Africa"
-    followers: 114414
-    engagement: 208
-    commentsToLikes: 0.031227
-    id: ck6tu7ebyeqci0j71qk8jlogu
-    verified: true
-    hashtags: "#cheffregz, #endsars, #enoughisenough, #endsarsnow"
-  - username: "neillanthony"
-    fullname: >-
-      Neill Anthony
-    bio: >-
-      Virtual diary of the private chef in Cape Town and around the world 🌎... www.neillanthony.com
-    location: "South Africa"
-    followers: 22816
-    engagement: 336
-    commentsToLikes: 0.040738
-    id: ck5znyge0peao0i14kglzwm3b
+    followers: 82961
+    engagement: 356
+    commentsToLikes: 0.037897
+    id: cllrlxcri1ov40j08bu7d1t57
     verified: false
-    hashtags: "#food, #royallivekitchen, #lockdown, #privatechef"
-  - username: "chef_nti"
-    fullname: >-
-      Chef Nti 🇿🇦
-    bio: >-
-      • Author #MyMordenAfricanKitchen • 🏠 @taste_kitchen_ African Restaurant 2020 • Culinary Media Personality 2020
-    location: "South Africa"
-    followers: 193227
-    engagement: 30
-    commentsToLikes: 0.054127
-    id: ck0tw42dhdxkn0i19pwcmudsp
-    verified: false
-    hashtags: "#throwback, #esteelauder, #cheflikenti, #addatwist"
-  - username: "chefdorianhunter"
-    fullname: >-
-      Chef Dorian Hunter
-    bio: >-
-      Masterchef Season 10 Winner! First African-American female winner! I enjoy my life filled with God, family, food and fun. 👩‍🍳content creator
-    location: "South Africa"
-    followers: 39655
-    engagement: 155
-    commentsToLikes: 0.028035
-    id: ck14hqs0vbnvf0i19e4ke2eq6
-    verified: false
-    hashtags: "#culinaryequality, #chefdorianhunter, #elevatedsoul, #picoftheday"
+    hashtags: "#gettoknowme, #jollofwithonga, #zflip5, #zobodrink"
 ---

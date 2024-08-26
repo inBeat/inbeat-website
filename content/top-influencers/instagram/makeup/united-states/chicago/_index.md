@@ -1,24 +1,24 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Chicago In 2023
+title: Top 10 Makeup Instagram Influencers In Chicago In 2024
 description: >-
-  Find top makeup Instagram influencers in Chicago in 2023. Most popular hashtags: #makeup #chicago #chicagomua #fashion.
+  Find top makeup Instagram influencers in Chicago in 2024. Most popular hashtags: #makeup #makeupartist #chicagomua #makeuptutorial.
 platform: Instagram
-hits: 175
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database holds 175 Instagram influencers like this in Chicago, United States for you to connect with.
+hits: 229
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database holds 229 Instagram influencers like this in Chicago, United States for you to work with.
 profiles:
-  - username: "misssafadi"
+  - username: "shannicat"
     fullname: >-
-      Tamaraa | تمارا
+      Shannon O'Brien
     bio: >-
-      An architect that loves make up, fashion and lifting heavy things. Chicago 💍 🇯🇴
+      Creating looks to transcend without transforming who YOU are. 📧 EMAIL ONLY // NO DM’s ♥︎♥︎ @shannonobrienweddings ♥︎♥︎ ⇣ BOOK ⇣ INQUIRE ⇣ SHOP ⇣
     location: "United States"
-    followers: 42129
-    engagement: 970
-    commentsToLikes: 0.018107
-    id: ck8t9dvz0nqcg0j78nkzvbygk
+    followers: 14577
+    engagement: 383
+    commentsToLikes: 0.040448
+    id: ckqyz3ppv3pk30j236w2nkmw8
     verified: false
-    hashtags: "#prettylittlething, #hair, #instalike, #dayout"
+    hashtags: "#chicagoweddingphotgrapher, #weddingdress, #makeup, #chicagoglam"
   - username: "auroragozmic"
     fullname: >-
       🖤Aurora Gozmic🖤
@@ -31,18 +31,6 @@ profiles:
     id: ck0vzqaujadgs0i19js2zffc3
     verified: false
     hashtags: ""
-  - username: "cityangelic"
-    fullname: >-
-      Angelic Brockman | Model
-    bio: >-
-      DM to book ✨ ✖️ Chicago ✖️ Jeremiah 29:11 ✖️ 23, German/Chinese/Irish @angelicbrockman
-    location: "United States"
-    followers: 3317
-    engagement: 1003
-    commentsToLikes: 0.095980
-    id: ck137pfjmcpi60i19mdzfvrho
-    verified: false
-    hashtags: "#fashion, #instagram, #nycmodel, #chicago"
   - username: "vesagashi_mua"
     fullname: >-
       Vesa Gashi
@@ -55,18 +43,6 @@ profiles:
     id: ck0u1o6bmxh1a0i1997pb1l8g
     verified: false
     hashtags: "#makeupchicago, #chicagobeauty, #hollywood, #beverlyhills"
-  - username: "itsdeon"
-    fullname: >-
-      Deon 𝒯𝐻𝐸 𝓓𝑜𝓁𝓁
-    bio: >-
-      •The Face Of Chicago! •Your 𝐹𝒜𝒱𝒪𝑅𝐼𝒯𝐸 Chocolate Beauty Boy™ Turned Myself Into The Person I Was Seeking. •Makeup! Jordans! Nikes!
-    location: "United States"
-    followers: 17244
-    engagement: 242
-    commentsToLikes: 0.104099
-    id: ck0vv83f3nyn90i19fk7d73jl
-    verified: false
-    hashtags: "#makeupartistworldwide, #makeuptutorial, #goldenhour, #outfitinspiration"
   - username: "facesbykourtney"
     fullname: >-
       Kourtney-Emma💕
@@ -79,30 +55,18 @@ profiles:
     id: ck1364xjk4rly0i19hx3ocifx
     verified: false
     hashtags: ""
-  - username: "sdkmakeup"
+  - username: "saleha"
     fullname: >-
-      Sameen Khan
+      Saleha Abbasi 💖
     bio: >-
-      Chicago makeup artist. MakeupbyMario Certified. Email: sdkmakeup@gmail.com for bookings😊 SnapChat: Sameen.dar TikTok: SdkMakeup
+      💋Chicago Makeup Artist + Educator 💄Owner of @salehabeauty @salehajewelry 💌Info@makeupbysaleha.com 👇🏼Sign up for my March 18th makeup class below!
     location: "United States"
-    followers: 23167
-    engagement: 152
-    commentsToLikes: 0.062446
-    id: ck0w21pt7m7lc0i19vtc838af
+    followers: 264823
+    engagement: 78
+    commentsToLikes: 0.027221
+    id: ckr4frdzy7qcc0j23kguerlx8
     verified: false
-    hashtags: "#anastasiabeverlyhills, #universodamaquiagem, #huda, #norvina"
-  - username: "intheglamroom"
-    fullname: >-
-      Ashlee | Skincare Tips
-    bio: >-
-      Chicago Skincare Product Developer | Licensed Skincare Consultant | Skincare Tips & Beauty Hacks UGC 📨: intheglamroom@gmail.com Shop my faves! ⬇️
-    location: "United States"
-    followers: 13063
-    engagement: 85
-    commentsToLikes: 0.194247
-    id: ckaorscbdoj6i0i78bgrp0z1s
-    verified: false
-    hashtags: "#botox, #botoxtreatment, #skincaretipsandtricks, #acneskincare"
+    hashtags: "#pakistanibride, #makeuplooks, #pakistanidesigner, #hairstyles"
   - username: "beautybymclau"
     fullname: >-
       
@@ -114,7 +78,7 @@ profiles:
     commentsToLikes: 0.116313
     id: ck9wd5zgce7l80j78n1stif9c
     verified: false
-    hashtags: "#venezuelamakeup, #venezolanosenchicago, #chicagomakeup, #boldmakeup"
+    hashtags: "#boldmakeup, #soymuavzla, #panasenchicago, #venezuelamakeup"
   - username: "blondinochka_mary"
     fullname: >-
       𝐌𝐀𝐑𝐘
@@ -127,4 +91,40 @@ profiles:
     id: ck600g8ssdjn20i14dhyl1gwe
     verified: false
     hashtags: "#makeup, #ballroomdance, #ballroomdancemakeup, #makeupandhair"
+  - username: "sdkmakeup"
+    fullname: >-
+      Sameen Khan
+    bio: >-
+      Chicago makeup artist. MakeupbyMario Certified. Email: sdkmakeup@gmail.com for bookings😊 SnapChat: Sameen.dar TikTok: SdkMakeup
+    location: "United States"
+    followers: 24961
+    engagement: 99
+    commentsToLikes: 0.082446
+    id: ck0w21pt7m7lc0i19vtc838af
+    verified: false
+    hashtags: "#dulhaanddulhan, #lillylashes, #hudabeauty, #makeupartist"
+  - username: "aryanaheredia"
+    fullname: >-
+      Aryana Heredia🌹
+    bio: >-
+      Welcome My Roses🌹Chicago Makeup Artist🌹 @makeupbyaryana_ 🌹PR inquiries|promo|bookings Email or DM
+    location: "United States"
+    followers: 43114
+    engagement: 191
+    commentsToLikes: 0.017807
+    id: ck0tyz82dohwo0i19c5s7csqu
+    verified: false
+    hashtags: "#bredmasvanity, #makeuptutorials, #wakeupandmakeup, #discoveringmuas"
+  - username: "rabiasikander"
+    fullname: >-
+      RABIA
+    bio: >-
+      𝕄𝕒𝕜𝕖𝕦𝕡 | ℍ𝕒𝕚𝕣 | 𝔽𝕒𝕤𝕙𝕚𝕠𝕟 Chicago Makeup Artist💋⁣ Glamming Brides for 10+ years ⁣ 📩 rabiamakeup@gmail.com
+    location: "United States"
+    followers: 4244
+    engagement: 574
+    commentsToLikes: 0.133714
+    id: ckaos60qfq90w0i78uzasxemz
+    verified: false
+    hashtags: "#zarafashion, #shopstylecollective, #ltkfall, #girlstrip"
 ---
