@@ -3,7 +3,7 @@
       link: ugc-platform
       external: false
     - anchor: Book a demo
-      link: https://calendly.com/inbeat-co/creator-studio-demo
+      link: /book-a-demo
       external: true
   col1_database:
     - anchor: Sign in
