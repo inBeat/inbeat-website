@@ -152,9 +152,7 @@
 			</div>
 		</div>
 	</div>
-  {{ if .File }}
-    {{$url := print "/articles/" .File.BaseFileName "/"}} {{ if and (eq .Page.RelPermalink $url) }}
-  {{ end }}
+  {{$url := print "/articles/" .File.BaseFileName "/"}} {{ if and (eq .Page.RelPermalink $url) }}
 	<div class="progress-bar--container">
 		<div class="progress-bar"></div>
 	</div>
