@@ -9,7 +9,11 @@
       beehiivLoading: false,
     }),
     mounted() {
-      setTimeout(this.showNewsletterPopup, 15000);
+      setTimeout(() => {
+        if (!getCookie("newsletter")) {
+          this.showNewsletterPopup();
+        }
+      }, 15000);
     },
     methods: {
       showNewsletterPopup() {
@@ -46,6 +50,9 @@
       hidePopup() {
         this.popupClass = "";
         this.toggleScroll(false);
+        if (!getCookie("newsletter")) {
+          setCookie("newsletter", "true", 7);
+        }
       },
       isValidEmail(email) {
         return /\S+@\S+\.\S+/.test(email);
